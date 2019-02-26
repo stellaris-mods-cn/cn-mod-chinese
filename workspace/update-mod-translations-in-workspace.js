@@ -54,7 +54,7 @@ vfs.src(
     const keyMap = syParseAsObject(currentContent);
     const newContent = syReplaceKeyValuePair(file.contents, (key, value) => {
       return keyMap[key] || value;
-    }).replace(/^l_english/, 'l_default');
+    }).replace(/^l_english/, 'l_simp_chinese');
     
     file.contents = Buffer.from(newContent);
     file.path = path.join(filedir, basenameChinese);
