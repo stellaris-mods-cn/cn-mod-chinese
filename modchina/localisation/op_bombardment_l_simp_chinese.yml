@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ 
+bombardment_annihilation:0 "湮灭"
+ bombardment_annihilation_desc:2 "$bombardment_annihilation$ 轰炸的目的是通过战术上的霸权和野蛮的武力相结合，把星球夷为平地。\n-  对§Y军队§!造成§R大量§!伤害\n- 对§Y地块§!造成§R大量§!伤害\n- 对§Y人口§!造成§R大量§!伤害\n- 轰炸不设防的星球"
+ 
+bombardment_rapture:0 "大灾难"
+ bombardment_rapture_desc:2 "杀伤和致残就是浪费潜能。最好带着居民潜逃到一个更好的地方。\n- 对§Y军队§!造成§E少量§!伤害\n- 对§Y地块§!造成§E少量§!伤害\n- 对§Y人口§!造成§E少量§!伤害\n- 在可能的情况下，§Y绑架§!人口而不是杀死他们

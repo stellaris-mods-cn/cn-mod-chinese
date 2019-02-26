@@ -1,0 +1,131 @@
+﻿l_simp_chinese:
+
+ #####################
+ # add job(infrastructure)
+ #####################
+  gpm_add_moon_miner_job:0 "月球采矿基础设施: §G+1§!"
+  gpm_add_asteroid_miner_job:0 "小行星矿业基础设施: §G+1§!"
+  gpm_add_researcher_job:0 "轨道研究基础设施: §G+1§!"
+  gpm_add_alloy_miner_job:0 "合金矿业基础设施: §G+1§!"
+  gpm_add_mineral_miner_job:0 "矿产矿业基础设施: §G+1§!"
+  gpm_add_particle_collector_job:0 "粒子收集基础设施: §G+1§!"
+  gpm_add_spice_collector_job:0 "香料收集基础设施: §G+1§!"
+
+ #####################
+ # pop jobs categories
+ #####################
+
+  pop_cat_gpm_spacer:0 "轨道提取器"
+  pop_cat_gpm_spacer_plural:0 "轨道提取器"
+  pop_cat_gpm_spacer_desc:0 "这些是用于从太空中提取材料的基本工人。"
+
+  pop_cat_gpm_spacer_specialist:0 "轨道专家"
+  pop_cat_gpm_spacer_specialist_plural:0 "轨道专家"
+  pop_cat_gpm_spacer_specialist_desc:0 "这些工作人员专门从事轨道信息和材料的提取。"
+ #####################
+ # pop jobs
+ #####################
+ 
+ job_gpm_bunker_drone:0 "先驱者地堡群"
+ job_gpm_bunker_drone_plural:0 "先驱者地堡群"
+ job_gpm_bunker_drone_desc:0 "这个星球上碉堡网格的复杂性是惊人的。显然是由一个先进的人工智能设计的。似乎每个地堡都是一个自我维护的系统，我们可以利用它为我们的优势。几乎无法穿透的墙意味着我们的敌人要花几个月的时间才能打通。有了足够多的掩体，我们也许就能无限期地击退敌军。通过引进自给自足的哨兵无人机群，我们可以确保电网中的每个掩体都能消灭任何潜在的入侵者。"
+ job_gpm_bunker_drone_effect_desc:0 "£job_gpm_bunker_drone£ $job_gpm_bunker_drone_plural$ 增加 £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! 和产生 £job_gpm_bunker_drone£ §Y防御军队§!"
+ 
+ job_gpm_bunker_army:0 "先驱者地堡单位"
+ job_gpm_bunker_army_plural:0 "先驱者地堡单位"
+ job_gpm_bunker_army_desc:0 "这个世界上碉堡网格的复杂性是惊人的。显然是由一个先进的人工智能设计的。似乎每个地堡都是一个自我维护的系统，我们可以利用它为我们的优势。几乎无法穿透的墙意味着我们的敌人要花几个月的时间才能打通。有了足够多的掩体，我们也许就能无限期地击退敌军。"
+ job_gpm_bunker_army_effect_desc:0 "£job_gpm_bunker_army£ $job_gpm_bunker_army_plural$ 增加 £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§! and spawn £job_gpm_bunker_army£ §Y防御军队§!"
+
+ job_gpm_moon_miner:0 "月球矿工"
+ job_gpm_moon_miner_plural:0 "月球矿工"
+ job_gpm_moon_miner_desc:0 "这是一项艰苦的工作，但从月球采矿中提取材料可能是相当有利可图的。"
+ job_gpm_moon_miner_effect_desc:0 "£job_gpm_moon_miner£ $job_gpm_moon_miner_plural$ 生产 £minerals£ §Y$minerals$§! 但是花费一些 £consumer_goods£ §Y$consumer_goods$§!"
+ 
+ job_gpm_moon_miner_drone:0 "月亮萃取器"
+ job_gpm_moon_miner_drone_plural:0 "月亮萃取器"
+ job_gpm_moon_miner_drone_desc:0 "$job_gpm_moon_miner_desc$"
+ job_gpm_moon_miner_drone_effect_desc:0 "£job_gpm_moon_miner_drone£ $job_gpm_moon_miner_drone_plural$ 生产 £minerals£ §Y$minerals$§! 但是花费一些 £energy£ §Y$energy$§!"
+
+ job_gpm_asteroid_miner:0 "小行星矿工"
+ job_gpm_asteroid_miner_plural:0 "小行星矿工"
+ job_gpm_asteroid_miner_desc:0 "最危险的工作之一是从捕获的小行星中提取物质。只要走错一步，你就会被压垮。"
+ job_gpm_asteroid_miner_effect_desc:0 "£job_gpm_asteroid_miner£ $job_gpm_asteroid_miner_plural$ 生产 £minerals£ §Y$minerals$§! 但是花费一些 £consumer_goods£ §Y$consumer_goods$§!"
+
+ job_gpm_asteroid_miner_drone:0 "小行星萃取器"
+ job_gpm_asteroid_miner_drone_plural:0 "小行星萃取器"
+ job_gpm_asteroid_miner_drone_desc:0 "$job_gpm_asteroid_miner_desc$"
+ job_gpm_asteroid_miner_drone_effect_desc:0 "£job_gpm_asteroid_miner_drone£ $job_gpm_asteroid_miner_drone_plural$ 生产 £minerals£ §Y$minerals$§! 但是花费一些 £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_researcher:0 "轨道研究者"
+ job_gpm_orbital_researcher_plural:0 "轨道研究者"
+ job_gpm_orbital_researcher_desc:0 "科学探险一直是发现的支柱。"
+ job_gpm_orbital_researcher_effect_desc:0 "£job_gpm_orbital_researcher£ $job_gpm_orbital_researcher_plural$ 转变 £consumer_goods£ §Y$consumer_goods$§! 成 £physics£ £society£ £engineering£ §Y研究点数§!对新技术"
+
+ job_gpm_orbital_researcher_drone:0 "轨道计算单元"
+ job_gpm_orbital_researcher_drone_plural:0 "轨道计算单元"
+ job_gpm_orbital_researcher_drone_desc:0 "$job_gpm_orbital_researcher_desc$"
+ job_gpm_orbital_researcher_drone_effect_desc:0 "£job_gpm_orbital_researcher_drone£ $job_gpm_orbital_researcher_drone_plural$ 转变 £energy£ §Y$energy$§! 成 £physics£ £society£ £engineering£ §Y研究点数§!对新技术"
+
+ job_gpm_orbital_alloy_miner:0 "轨道合金矿工"
+ job_gpm_orbital_alloy_miner_plural:0 "轨道合金矿工"
+ job_gpm_orbital_alloy_miner_desc:0 "经验丰富的工业矿工，擅长从最危险的表面提取有价值的合金。"
+ job_gpm_orbital_alloy_miner_effect_desc:0 "£job_gpm_orbital_alloy_miner£ $job_gpm_orbital_alloy_miner_plural$ 生产 £alloy£ §Y$alloys$§! 但是花费一些 £consumer_goods£ §Y$consumer_goods$§!"
+
+ job_gpm_orbital_alloy_miner_drone:0 "轨道合金萃取器"
+ job_gpm_orbital_alloy_miner_drone_plural:0 "轨道合金萃取器"
+ job_gpm_orbital_alloy_miner_drone_desc:0 "$job_gpm_orbital_alloy_miner_desc$"
+ job_gpm_orbital_alloy_miner_drone_effect_desc:0 "£job_gpm_orbital_alloy_miner_drone£ $job_gpm_orbital_alloy_miner_drone_plural$ 生产 £alloy£ §Y$alloys$§! 但是花费一些 £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_mineral_miner:0 "轨道矿工"
+ job_gpm_orbital_mineral_miner_plural:0 "轨道矿工"
+ job_gpm_orbital_mineral_miner_desc:0 "从行星表面开采普通矿物的廉价工业矿工。"
+ job_gpm_orbital_mineral_miner_effect_desc:0 "£job_gpm_orbital_mineral_miner£ $job_gpm_orbital_mineral_miner_plural$ 生产 £minerals£ §Y$minerals$§! 但是花费一些 £consumer_goods£ §Y$consumer_goods$§!"
+
+ job_gpm_orbital_mineral_miner_drone:0 "轨道萃取器"
+ job_gpm_orbital_mineral_miner_drone_plural:0 "轨道萃取器"
+ job_gpm_orbital_mineral_miner_drone_desc:0 "$job_gpm_orbital_mineral_miner_desc$"
+ job_gpm_orbital_mineral_miner_drone_effect_desc:0 "£job_gpm_orbital_mineral_miner_drone£ $job_gpm_orbital_mineral_miner_drone_plural$ 生产 £minerals£ §Y$minerals$§! 但是花费一些 £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_particle_collector:0 "轨道微粒收集器"
+ job_gpm_orbital_particle_collector_plural:0 "轨道微粒收集器"
+ job_gpm_orbital_particle_collector_desc:0 "专业颗粒收获机是这支队伍的骨干力量，它们非常强大，能够承受极端环境。"
+ job_gpm_orbital_particle_collector_effect_desc:0 "£job_gpm_orbital_particle_collector£ $job_gpm_orbital_particle_collector_plural$ 生产 £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_particle_collector_drone:0 "粒子轨道器"
+ job_gpm_orbital_particle_collector_drone_plural:0 "粒子轨道器"
+ job_gpm_orbital_particle_collector_drone_desc:0 "$job_gpm_orbital_particle_collector_desc$"
+ job_gpm_orbital_particle_collector_drone_effect_desc:0 "£job_gpm_orbital_particle_collector_drone£ $job_gpm_orbital_particle_collector_drone_plural$ 生产 £energy£ §Y$energy$§!"
+
+ job_gpm_orbital_spicer:0 "轨道香料收集器"
+ job_gpm_orbital_spicer_plural:0 "轨道香料收集器"
+ job_gpm_orbital_spicer_desc:0 "香料是银河系的命脉，提取香料才是最重要的。"
+ job_gpm_orbital_spicer_effect_desc:0 "£job_gpm_orbital_spicer£ $job_gpm_orbital_spicer_plural$ 生产 £energy£ §Y$energy$§!"
+ 
+ job_gpm_orbital_spicer_drone:0 "轨道香料提取器"
+ job_gpm_orbital_spicer_drone_plural:0 "轨道香料提取器"
+ job_gpm_orbital_spicer_drone_desc:0 "$job_gpm_orbital_spicer_desc$"
+ job_gpm_orbital_spicer_drone_effect_desc:0 "£job_gpm_orbital_spicer_drone£ $job_gpm_orbital_spicer_drone_plural$ 生产 £energy£ §Y$energy$§!"
+
+ job_gpm_android_entertainer:0 "'娱乐游客"
+ job_gpm_android_entertainer_plural:0 "'娱乐游客"
+ job_gpm_android_entertainer_desc:0 "你们心灵固然愿意，身体却是软弱的。"
+ job_gpm_android_entertainer_effect_desc:0 "£job_gpm_android_entertainer£ $job_gpm_android_entertainer_plural$ 生产 £amenities£ §Y$AMENITIES$§! £trade_value£ §Y$trade_value$§! £unity£ §Y$unity$§!"
+
+ mod_job_gpm_bunker_drone_add:0 "$job_gpm_bunker_drone$ 工作"
+ mod_job_gpm_bunker_army_add:0 "$job_gpm_bunker_army$ 工作"
+ mod_job_gpm_moon_miner_add:0 "$job_gpm_moon_miner$ 工作"
+ mod_job_gpm_moon_miner_drone_add:0 "$job_gpm_moon_miner_drone$ 工作"
+ mod_job_gpm_asteroid_miner_add:0 "$job_gpm_asteroid_miner$ 工作"
+ mod_job_gpm_asteroid_miner_drone_add:0 "$job_gpm_asteroid_miner_drone$ 工作"
+ mod_job_gpm_orbital_researcher_add:0 "$job_gpm_orbital_researcher$ 工作"
+ mod_job_gpm_orbital_researcher_drone_add:0 "$job_gpm_orbital_researcher_drone$ 工作"
+ mod_job_gpm_orbital_alloy_miner_add:0 "$job_gpm_orbital_alloy_miner$ 工作"
+ mod_job_gpm_orbital_alloy_miner_drone_add:0 "$job_gpm_orbital_alloy_miner_drone$ 工作"
+ mod_job_gpm_orbital_mineral_miner_add:0 "$job_gpm_orbital_mineral_miner$ 工作"
+ mod_job_gpm_orbital_mineral_miner_drone_add:0 "$job_gpm_orbital_mineral_miner_drone$ 工作"
+ mod_job_gpm_orbital_particle_collector_add:0 "$job_gpm_orbital_particle_collector$ 工作"
+ mod_job_gpm_orbital_particle_collector_drone_add:0 "$job_gpm_orbital_particle_collector_drone$ 工作"
+ mod_job_gpm_orbital_spicer_add:0 "$job_gpm_orbital_spicer$ 工作"
+ mod_job_gpm_orbital_spicer_drone_add:0 "$job_gpm_orbital_spicer_drone$ 工作"
+ mod_job_gpm_android_entertainer_add:0 "$job_gpm_android_entertainer$ 工作"
+

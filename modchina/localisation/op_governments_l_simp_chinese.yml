@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ ####################################
+ # Governments
+ ####################################
+
+ gov_megacorporation_gc:0 "特大企业"
+ gov_megacorporation_gc_desc:0 "这个政府是富豪寡头政治的一种形式，整个国家被组织成一个由董事会监管的大型商业企业。"

@@ -1,0 +1,87 @@
+﻿l_simp_chinese:
+
+  # Jobs
+ job_vbp_vault_overseer:0 "避难所监督者"
+ job_vbp_vault_overseer_plural:0 "避难所监督者"
+ job_vbp_vault_overseer_desc:0 "负责大型地下掩体的精英们。在地面条件改善之前，他们会监视最后几个幸免于原子灾难的避难所。"
+ mod_job_vbp_vault_overseer_add:0 "$job_vbp_vault_overseer$ Jobs"
+
+ job_vbp_vault_dweller:0 "避难所居民"
+ job_vbp_vault_dweller_plural:0 "避难所居民"
+ job_vbp_vault_dweller_desc:0 "避难所的特权居民。一群少数的幸运儿，即使在他们的世界已经陷入原子灾难之后，仍然能够拥有正常文明的外表。"
+ mod_job_vbp_vault_dweller_add:0 "$job_vbp_vault_dweller$"
+
+ job_vbp_vault_custodian:0 "避难所工作者"
+ job_vbp_vault_custodian_plural:0 "避难所工作者"
+ job_vbp_vault_custodian_desc:0 "避难所的工人阶级。尽管他们藏在安全的地表之下，但它们仍然不得不通过辛勤工作来维持避难所的生存。"
+ mod_job_vbp_vault_custodian_add:0 "$job_vbp_vault_custodian$ Jobs:"
+
+ job_vbp_government_reminders:0 "政府残余"
+ job_vbp_government_reminders_plural:0 "政府残余"
+ job_vbp_government_reminders_desc:0 "那些在世界末日的偏远地区中幸存下来的国家领导人，以及那些自称是他们继任者的人。虽然很少有人会承认他们在这个辐射新世界中的权威。"
+ mod_job_vbp_government_reminders_add:0 "$job_vbp_government_reminders$ Jobs:"
+
+ job_vbp_nuclear_survivor:0 "废土幸存者"
+ job_vbp_nuclear_survivor_plural:0 "废土幸存者"
+ job_vbp_nuclear_survivor_desc:0 "众多村庄、部落和城镇的居民，在核荒原上挣扎求生。"
+ mod_job_vbp_nuclear_survivor_add:0 "$job_vbp_nuclear_survivor$ Jobs"
+
+ job_vbp_wasteland_ruler:0 "废土领袖"
+ job_vbp_wasteland_ruler_plural:0 "废土领袖"
+ job_vbp_wasteland_ruler_desc:0 "酋长和邪教领袖、市长和总统、国王和军阀。那些在荒原上领导着更有组织的社会的人。"
+ mod_job_vbp_wasteland_ruler_add:0 "$job_vbp_wasteland_ruler$ Jobs"
+
+ job_vbp_caravaneer:0 "废土商人"
+ job_vbp_caravaneer_plural:0 "废土商人"
+ job_vbp_caravaneer_desc:0 "行走在核废土上的交易者，搜集回收着废物中的经济利益。"
+ mod_job_vbp_caravaneer_add:0 "$job_vbp_caravaneer$ Jobs"
+
+ job_vbp_wasteland_raider:0 "袭击者"
+ job_vbp_wasteland_raider_plural:0 "袭击者"
+ job_vbp_wasteland_raider_desc:0 "一群宁愿拿不属于自己的东西，也不愿自己劳作的强盗。"
+ mod_job_vbp_wasteland_raider_add:0 "$job_vbp_wasteland_raider$ Jobs"
+
+ job_vbp_militia:0 "社区保卫者"
+ job_vbp_militia_plural:0 "社区保卫者"
+ job_vbp_militia_desc:0 "武装幸存者承担起保卫社区不受无法无天的强盗袭击的责任。"
+ mod_job_vbp_militia_add:0 "$job_vbp_militia$ Jobs"
+
+ # BUILDINGS
+ building_vbp_wasteland_towns:0 "废土城镇"
+ building_vbp_wasteland_towns_desc:0 "棚户区和残破的废墟——末日后的住房有各种各样的形状和大小。"
+ building_vbp_vaults:0 "地下避难所"
+ building_vbp_vaults_desc:0 "为拯救大量平民而设计的大型掩体。"
+ building_vbp_government_bunkers:0 "政府掩体"
+ building_vbp_government_bunkers_desc:0 "隐藏在偏远地区的秘密基地，在那里，当周围的世界燃烧时，国家领导人可以度过最糟糕的时期，并计划下一步行动。"
+ building_vbp_raiding_villages:0 "强盗营地"
+ building_vbp_raiding_villages_desc:0 "袭击者和强盗在空闲时间休息的藏身之处和堡垒，墙壁上装饰着不幸的受害者的尸体。"
+
+ d_vbp_glowing_sea:0 "荧光荒地"
+ d_vbp_glowing_sea_desc:0 "充满着恶劣辐射的令人非常不愉快的地方。"
+
+ # EVENTS
+ civic_vbp_tomb_1:0 "清道夫世界"
+ civic_vbp_tomb_2:0 "崩溃的文明"
+ civic_vbp_tomb_1_desc:0 ""
+ civic_vbp_tomb_2_desc:0 ""
+ 
+ gov_vbp_tomb:0 "后启示录社会"
+ gov_vbp_tomb_desc:0 "一个曾经较为先进的前FTL的文明，在灾难性的核交换后崩溃，沦为了互相交战的部落和城邦。"
+ 
+ vbp_tomb_primitives:0 "后启示录时代"
+ vbp_tomb_primitives_desc:0 "这个文明并没有像其他文明一样朝着太空时代稳步前进，而是在众多国家之间进行的核战争中毁灭。\n\n尽管他们奇迹般地避免了完全灭绝，但这个文明已经沦为了互不相连、极不稳定的部落和城市，在荒凉的星球表面上的废墟中勉强生存。"
+ 
+ vbp_tomb.3.name:0 "发现[From.Owner.GetName]"
+ vbp_tomb.3.desc:0 "[Root.GetName]遇到了一个原始文明，他们在[From.GetName]系统中的[From.Solar_System.GetName]的荒凉地表上艰难生存。 \n\n看样子在一段时间之前，土著发动了一场大规模的核战争，万幸的是有一部分土著躲过了彻底的毁灭。"
+ 
+ vbp_tomb.41.name:0 "在灰烬中重生"
+ vbp_tomb.41.desc:0 "我们在[From.Capital_Scope.GetName]的观察哨站报告说，以前那些挣扎求生的土著已经收回了他们失去的大部分科学技术。尽管气候恶劣，辐射水平危险，但新的城市正在蓬勃发展，[From.GetName]不再被归类为“后启示录文明”。"
+ vbp_tomb.41.a:0 "不幸中的万幸，祝福他们。"
+ vbp_tomb.41.b:0 "为什么他们没有就此灭亡呢？"
+ 
+ mission_vbp_tomb_technological_enlightenment:0 "$mission_technological_enlightenment_0$"
+ mission_vbp_tomb_technological_enlightenment_desc:0 "$mission_technological_enlightenment_0_desc$"
+
+ vbp_wasteland_militia:0 "废土民兵"
+ vbp_wasteland_militia_desc:0 "成群结队的武装幸存者，他们联合起来自卫。"
+ vbp_wasteland_militia_plural:0 "废土民兵"

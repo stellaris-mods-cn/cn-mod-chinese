@@ -1,0 +1,50 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Hi There!
+ # by ViolentBeetle
+ ########################
+ 
+ mem_hithere.1.name:0 "奇怪的信号"
+ mem_hithere.1.desc:0 "我们的天文台在行星§Y[receiver.GetName]§!接收到一个传输。与现有的技术不同，它由简单的电磁波波组成，以光速传播信息。虽然这一信号在多年的太空旅行中已经很微弱了，但它是环形的，所以我们应该能够轻松地重建和破译它。"
+ mem_hithere.1a:0 "他们没什么可说的。删除。"
+ 
+ mem_hithere.2.name:0 "记录信息"
+ mem_hithere.2.desc:0 "大家好!这是沃勒德系外系情报学院的教授乌卡·扎尔。 \n\n我们将这条信息传递到银河系，希望能让我们的兄弟们获得智慧。我们没有技术去星际旅行，但我们希望你能。 \n\n当这条信息传达到你的时候，所有参与录制的人都可能已经死亡，但我们希望你能以你的访问来纪念我们的后代。 \n\n我知道我们的文明远非十全十美，但我们仍然希望我们能找到相互理解的基础，互相学习。 \n\n我们拒绝相信宇宙是冰冷和空虚的;我们梦想着我们相遇的那一天。我们的家园星系的座标系在这条信息上。 \n\n你永远的, \nP瓦伦丁堡。"
+ mem_hithere.2a:0 "也许我们会检查一下。"
+ mem_hithere.2a.phile:0 "向前，向新朋友!"
+ mem_hithere.2a.phobe:0 "谨慎的做法是看看他们是否构成威胁。"
+ mem_hithere.2a.swarm:0 "更多的食物……是的……"
+ mem_hithere.2a.pur:0 "看来我们的黑名单还在增长。"
+ mem_hithere.2a.serv:0 "他们需要我们!"
+ mem_hithere.2a.assim:0 "他们将会成为一个很好的补充[Root.GetName]."
+ 
+ mem_hithere_chain_title:0 "瓦莱索信号"
+ mem_hithere_chain_desc:0 "有人发了一条信息，想要传达外星人的情报。也许我们应该去拜访他们。"
+ 
+ mem_hithere_poi:0 "瓦兰普赖姆"
+ mem_hithere_poi_desc:0 "信号的来源"
+ 
+ mem_hithere.3.name:0 "瓦兰普赖姆"
+ mem_hithere.3.desc:0 "我们已经到达了瓦兰的家园星系。然而，他们的家园似乎正在经历大规模的核轰炸。整个星球被辐射和摧毁，没有生命迹象可见。似乎在他们发出的信息和我们收到的信息之间，他们被内部或外部的冲突完全抹杀了。"
+ mem_hithere.3a.phobe:0 "没有失去任何价值。"
+ mem_hithere.3a.swarm:0 "我们的食物!不!"
+ mem_hithere.3a.pur:0 "有人偷走了我们的猎物。耻辱."
+ mem_hithere.3a.term:0 "在有机物的本性中毁灭自己。"
+
+ d_mem_hithere_institute:0 "星系以外的情报研究所"
+ d_mem_hithere_institute_desc:0 "曾几何时，星球上数百位最伟大的智者都在这里工作，寻找外星智慧。现在剩下的都是废墟……还有一个巨大的地下数据档案库。"
+ 
+
+ 
+ mem_hithere.4.name:0 "外月望远镜"
+ mem_hithere.4.desc:0 "§Y[Root.GetName]§!已经探测到一个网格的塔真空保存完好的空间§Y[From.GetName]§!,贫瘠的§YValin§!月亮。从它的外观来看，val致力于建造一个高度精密的射电望远镜，用于搜寻外星文明的信号。"
+ 
+ mem_hithere.5.name:0 "气态巨星发射器阵列"
+ mem_hithere.5.desc:0 "§Y[From.GetName]§!, 的巨型气体行星环绕这§YValin§!还有一个巨大的人造结构围绕它旋转。它被空间碎片严重损坏，但其用途是清晰的-轨道天线被用来将无线电波发射到太空。这可能是我们收到的信号的原点。"
+ 
+ mem_hithere.6.name:0 "探测车"
+ mem_hithere.6.desc:0 "§Y[Root.GetName]§!发现多个自治探测器和登陆模块的碎片仍然存在§Y[From.GetName]§!这似乎是val文明花了相当大的努力以其原始的方式探索这贫瘠的星球。有些漫游者甚至还在运作，漫无目的的徘徊，进行无意义的测试。"
+
+mem_hithere.7.name:0 "捕获探针"
+mem_hithere.7.desc:0 "在调查的§Y[From.GetName]§!最外层的行星在瓦尔德斯的家园星系，§Y[Root.GetName]§!探测到一个小的探测器。看起来，除了发出的信号外，他们还部署了至少一个探测器，上面有一个描述他们文明的铭牌，以及如何找到它，但不幸的是，这是由于星球引力的影响，我们根本没有找到。"

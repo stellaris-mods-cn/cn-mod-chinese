@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+# Names
+INTERSTELLARINC_FREIGHTER:0 "货运飞船"
+INTERSTELLARINC_MINER:0 "矿业飞船"
+
+interstellarinc_freighter:0 "货运飞船"
+interstellarinc_freighter_plural:0 "货运飞船"
+interstellarinc_miner:0 "矿业飞船"
+interstellarinc_miner_plural:0 "矿业飞船"
+station_freighter_fleet:0 "[PREVPREV.GetName]货运飞船"
+miner_fleet:0 "[PREV.GetName]矿业飞船"

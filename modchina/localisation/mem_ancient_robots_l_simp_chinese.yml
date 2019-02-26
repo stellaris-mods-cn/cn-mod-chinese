@@ -1,0 +1,142 @@
+﻿l_simp_chinese:
+#################################################
+# Text by Malthus                               #
+#################################################
+# Start of Ancient Robots Sequence:
+
+ mem_ancient_robots.201.name:0 "捷足先登"
+ mem_ancient_robots.201.desc:0 "一个前途无限的殖民采矿公司在§Y[Root.GetName]§取得了惊人的发现！他们发掘出许多远古类人型机器人的零件，相信有著数百万年的历史。这个发现推翻了我们是首批于此处定居的高智慧生物。因此我们需要对这个星球进行下一轮更仔细的调查，希望可以能够更清楚了解这个远古文明。"
+ mem_ancient_robots.201.a:0 "立即去办！"
+ 
+# Initial Scanning Special Project:
+ 
+ MEM_ANCIENT_ROBOTS_PROJECT:0 "进一步的地表扫描"
+ MEM_ANCIENT_ROBOTS_PROJECT_DESC:0 "我们的科学家促请我们对§Y[This.GetName]§!实行更进一步的地表扫描，以便日后更准确判断更多可展开考古工作的地点，及更清楚了解这个星球上的远古文明。"
+
+# Further Scans Performed:
+ 
+ mem_ancient_robots.203.name:0 "不识卢山"
+ mem_ancient_robots.203.desc:0 "我们的科学家最终恳求停止这一切在§Y[Root.GetName]§!上没有收穫的扫描。原来这座「山脉」- 或者我们假设是山脉的物体 - 并不是这麽一回事。除了无法得知「它」是甚麽之外，我们却可以肯定一件事：「它」是由大量金属所製而成。有见及此，§Y[From.GetLeaderName]§! 提议在该遗址展开採掘，而开採的花费是200£energy和200£minerals。"
+ mem_ancient_robots.203.a:0 "立即去办！"
+ mem_ancient_robots.203.b:0 "稍后再问我。"
+ mem_ancient_robots.203.c:0 "取消计划，以后不要再问我。"
+ 
+# Reminder:
+
+ mem_ancient_robots.204.name:0 "开采计划"
+ mem_ancient_robots.204.desc:0 "在§Y[Root.GetName]§!上的科学家团队想提醒你，关于这个星球仍然有很多未被解开的谜团，现在他们提出对这座奇异的金属山脉计划进行开採，并希望能够慎重考虑这个提案。\n\n而预计开採的花费是200£energy和200£minerals。"
+ mem_ancient_robots.204.a:0 "立即去办！"
+ mem_ancient_robots.204.b:0 "稍后再问我。"
+ mem_ancient_robots.204.c:0 "取消计划，以后不要再问我。"
+ 
+# Excavation Project:
+
+ MEM_ANCIENT_ROBOTS_PROJECT_2:0 "揭开奥秘"
+ MEM_ANCIENT_ROBOTS_PROJECT_2_DESC:0 "筹集到所需的资金后，我们的建筑师终于可以开始对这座神秘的金属山脉展开调查，不过开发整座山脉将不会是一朝一夕就能完成的工作。"
+ 
+# Excavation Completed:
+
+ mem_ancient_robots.206.name:0 "一间古老的工厂"
+ mem_ancient_robots.206.desc:0 "靠著之前的详细扫瞄，在§Y[Root.GetName]§!遗址开採的工人对于在厚厚的岩层下，发掘出一座超巨型的外星建筑并不感到意外，反而令他们感到惊喜的是，就算经过几百万年的时间洗礼，这间工厂大致上是完好无缺的。我们的团队经已成功进入看似是组装机器人的工作间，而工作间就连接著另一个专门负责生产各项零件的区域，某部分的机器人已被送往研究所进行更仔细的考查；与此同时，我们的科学家团队尝试于工厂内部设立一个临时基地，并祈求至少可以启动某些机器设备。"
+ mem_ancient_robots.206.a:0 "非常好！请继续。"
+
+# Someone Else Did the Excavation:
+
+ mem_ancient_robots.207.name:0 "一间古老的工厂"
+ mem_ancient_robots.207.desc:0 "看来有一批私人投资者也在§Y[Root.GetName]§!提供资金予开採团队，希望可以发掘出究竟有甚麽东西，埋藏于这座我们在几年发现的奇怪山脉下。起初这批投资者认为，他们的开採工作将会为他们带来丰厚的利润。但是过了不久，他们衝量过调查结果，以及若果不通知有关当局而有可能面对的法律风险后，决定向当地总督通报消息。原来他们在数以万吨计的岩石之下，发现了令人讚叹的建筑物，相信是专门为大量生产某种机器人之用。一方面，某部分的机器人已被送往研究所进行更仔细的考查；另一方面，我们于当地的科学家团队正准备进一步勘探工厂内部。"
+ mem_ancient_robots.207.a:0 "明智的抉择！请继续。"
+ 
+# Analyzing Robot Parts: 
+
+ MEM_ANCIENT_ROBOTS_PROJECT_3:0 "分析古代机器人"
+ MEM_ANCIENT_ROBOTS_PROJECT_3_DESC:0 "我们的科学家兴致勃勃地开始研究这些从工厂内取得的机器人。"
+ 
+# Happy Outcome of the Discovery:
+
+ mem_ancient_robots.208.name:0 "藏匿于空壳内的灵魂"
+ mem_ancient_robots.208.desc:0 "当我们的科学家成功将工厂的电缆跟殖民地的输电网络驳上时，他们无意中引发了一连串的连锁反应，将整间工厂启动起来。这使得殖民地短暂停电，但不用多久就恢复过来。一轮骚动过后，科学家们留意到一些无人机开始为工厂进行修复，更令他们著迷的是，竟然有一个人工智能在其背后操控著整间工厂。虽然这个地看起来本身是作军事用途，但是它却欣然接受我们，还迎接我们作为其新主子。"
+ mem_ancient_robots.208.a:0 "这也是理所当然。"
+ 
+# Robots Attack! - Immediately on Excavation:
+
+ mem_ancient_robots.209.name:0 "一城之主"
+ mem_ancient_robots.209.desc:0 "当我们的科学家成功将工厂的电缆跟殖民地的输电网络驳上时，他们无意中引发了一连串的连锁反应，导致整个殖民地停电。当殖民地恢复供电的时候，我们收到一条相信是由科学家寄出却断断续续的讯息，指出整座设施已经被人工智能全面佔领。自此之后，我们再没有收到任何讯息。轨道卫星的情报显示，一队队由机器人组成的军队从工厂鱼贯而出，殖民地的注军亦处于高度戒备。"
+ mem_ancient_robots.209.a:0 "立即派援军前往当地！"
+ 
+# Robots Attack! - After Working For a While
+
+ mem_ancient_robots.210.name:0 "一城之主"
+ mem_ancient_robots.210.desc:0 "在§Y[Root.GetName]§!上的人工智能背叛了我们！一队队由机器人组成的军队从工厂鱼贯而出，殖民地的注军更因为疏于防范而被突袭，现在只能作殊死抵抗！若果现在没有援军立即前往协助他们，殖民地就会落入敌人手中。"
+ mem_ancient_robots.210.a:0 "立即派援军前往当地！"
+
+# Under Siege Modifier:
+
+ mem_under_siege:0 "持续冲突"
+ mem_under_siege_desc:0 "持续的冲突严重损害当地经济。"
+
+# Victory Over Initial Robot Attack:
+
+ mem_ancient_robots.211.name:0 "势如破竹"
+ mem_ancient_robots.211.desc:0 "我们的军队成功暂时将机器人大军驱赶到工厂的所在地 - 现称之为「壁垒」。将领们指出若要发动有效的总攻击，就必需有充足的准备和人数去应付。他们拟订了军事行动计划收复该工厂，万事俱备就可以展开围城战。"
+ mem_ancient_robots.211.a:0 "开始准备。"
+ 
+# Defeat in Initial Robot Attack:
+
+ mem_ancient_robots.212.name:0 "殖民地陷落"
+ mem_ancient_robots.212.desc:0 "我们的殖民地注军被机器人大军击败了！殖民地居民在东躲西藏的同时，那些机器人也对他们进行大举搜捕。我们必须把机器人驱逐出去！"
+ mem_ancient_robots.212.a:0 "立即派更多军队前往当地！"
+ 
+# Siege Project:
+
+ MEM_SIEGE_PROJECT:0 "包围「壁垒」"
+ MEM_SIEGE_PROJECT_DESC:0 "我们的部队已经准备就绪：一方面，我们派出大炮集中火力攻击机器人大军的防卫设施；另一方面，地面部队预备好奋力一搏突破敌人的防线。"
+
+ mem_ancient_robots.213.name:0 "机器人的末日"
+ mem_ancient_robots.213.desc:0 "总攻击已经展开！我们的部队正全方位进攻「壁垒」。"
+ mem_ancient_robots.213.a:0 "不胜无归！"
+
+# Victory Over Evil Robots:
+
+ mem_ancient_robots.214.name:0 "胜利！"
+ mem_ancient_robots.214.desc:0 "进攻行动非常圆满，我们的部队顺利进入「壁垒」的中心地带，并成功使人工智能的核心停止运行，馀下的机器人由于不受人工智能所控制而自行停止运作。当战事结束之后，一名士兵在人工智能的核心附近捡到一张资料片、裡面载著许多有用资讯，例如历史纪录、科学研究等等。\n\n经过此役之后，工厂重新落入我们手中，同时可以利用剩下的珍贵资源去建立一支听命于我们的机器人大军。或许，这样做可以为我们带来一点优势。"
+ mem_ancient_robots.214.a:0 "好好慰劳我们的士兵。"
+
+# Defeat in Second Robot Attack:
+
+ mem_ancient_robots.215.name:0 "报应来临"
+ mem_ancient_robots.215.desc:0 "我方部队堕入敌人的陷阱！在将领们明白是怎麽一回事之前，战事早已结束了。机器人大军从地底源源不绝地爬出来，完全令我方出乎预料之外。过了不久我们就跟地面部队失去联络，之后轨道卫星显示究竟当时是发生甚麽事情。§Y[FROM.FROM.GetName]§!现在已经变成得不适合居住了，只留下一座大型纪念碑，提醒我们在尝试获取超越我们认知的知识时，所带来的沉重代价和教训。"
+ mem_ancient_robots.215.a:0 "太过可怕了！"
+ 
+# Robot Analysis Completed:
+
+ mem_ancient_robots.220.name:0 "古老的机器人"
+ mem_ancient_robots.220.desc:0 "这些被发掘出来的机器人虽然已经有著数百万年的历史，但是由于它们的设计过于先进，连我们的科学家指出以现时我们的科技水平，也无法使其重现人间，而且设计它们的目的就只有一个：战争。就算我们无法複製其技术，或许这项发现却能为我们的机器人技术带来重大跃进。"
+ mem_ancient_robots.220.a:0 "非常好。"
+ 
+ #A small group of citizens have barricaded themselves.
+ mem_ancient_robots.225.name:0 "孤立无援"
+ mem_ancient_robots.225.desc:0 "围城战已经夺去许多性命，只有一小批居民成功躲藏避难 — 暂时而已。"
+ mem_ancient_robots.225.a:0 "我们必须把他们救出！"
+ 
+ # AI Factory: 
+ d_mem_ancient_robots_factory_closed:0 "古代建筑群"
+ d_mem_ancient_robots_factory_closed_desc:0 "一个有待探索的古代建筑群。"
+ d_mem_ancient_robots_factory:0 "古代人工智能工厂"
+ d_mem_ancient_robots_factory_desc:0 "在山下发现的一个古老的人工智能工厂。"
+ 
+ # Super Robot Army:
+ mem_super_robot_army:0 "机器人大军"
+ mem_super_robot_army_plural:0 "机器人大军"
+ mem_super_robot_army_desc:0 "这些机器人是利用了远古科技而製成，比我们製造的先进得多。"
+ mem_super_robot_army_limit_tooltip:0 "虽然它们的自动化工厂现时由我们全面控制，但是我们只有少数的零件可供我们去建造为数不多的机器人。"
+ mem_evil_robot_army:0 "机器人大军"
+ mem_evil_robot_army_plural:0 "机器人大军"
+ mem_evil_robot_army_desc:0 "这些机器人是利用了远古科技而製成，比我们製造的先进得多。"
+
+ # Strange Mountain blocker
+ d_mem_strange_mountain:0 "£blocker 奇怪山峰"
+ d_mem_strange_mountain_desc:0 "这座山有点奇怪…"
+ 
+ # Event chain
+ mem_ancient_robots_chain_title:0 "古代残骸"
+ mem_ancient_robots_chain_desc:0 "你的科学家发掘出一些古代文物。"

@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ 
+ ####################################
+ # Special Research Projects
+ ####################################
+ 
+ GRID_ORBIT_PROJECT:0 "探索褐矮星巨大建筑"
+ GRID_ORBIT_PROJECT_DESC:0 "在褐矮星的高层大气中。一个巨大的古代建筑被发现。我们的研究人员想要研究这个结构并找出它的用途。"
+ DEVOURER_ORBIT_PROJECT:0 "观察彗星的碰撞"
+ DEVOURER_ORBIT_PROJECT_DESC:0 "褐矮星[from.GetName]不久将吸引该星系的一颗主要彗星。我们必须捕捉到这个极其罕见的事件的细节。"
+ ANCIENT_MACHINE_1_PROJECT:0 "开动机器"
+ ANCIENT_MACHINE_1_PROJECT_DESC:0 "在[from.GetName]行星上发现了一台古老的造地机器。我们的科学家相信，他们将能够启动这一古老的机器。"
+ ANCIENT_MACHINE_2_PROJECT:0 "拆开机器"
+ ANCIENT_MACHINE_2_PROJECT_DESC:0 "尽管这东西已经饱经风霜，但[from.GetName]星球上的一台神秘机器对研究人员来说可能非常有用。我们的一些工程师已经申请了拆卸和分析设备的许可，以进一步了解这些技术。"
+ EVOLVED_REGULAR_STAR_PROJECT:0 "探索恒星异常"
+ EVOLVED_REGULAR_STAR_PROJECT_DESC:0 "我们的科学家发现了一种奇怪的恒星活动[evolved_regular_star.GetName]。他们想更多地了解这种现象的本质。"
+ EVOLVED_GIANT_STAR_PROJECT:0 "探索恒星异常"
+ EVOLVED_GIANT_STAR_PROJECT_DESC:0 "我们的科学家发现了一种奇怪的恒星活动[evolved_giant_star.GetName]。他们想更多地了解这种现象的本质。"
+ SUPERNOVA_PROJECT:0 "探索超巨星"
+ SUPERNOVA_PROJECT_DESC:0 "我们的科学家发现了一种超大[supernova.GetName]表面的明显不稳定性。他们确信这种现象需要立即研究。"

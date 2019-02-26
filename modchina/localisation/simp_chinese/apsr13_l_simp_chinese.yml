@@ -1,0 +1,164 @@
+﻿l_simp_chinese:
+
+
+ 
+ ### ресурс
+ 
+ apsr13_planet_modifier:0 "银河市场"
+ apsr13_planet_modifier_desc:0 "在遥远的过去，这里是整个银河系的主要贸易出口"
+ 
+ apsr13_deposit:0 "$apsr13_planet_modifier$"
+ apsr13_deposit_desc:0 "$apsr13_planet_modifier_desc$\n\n§M$apsr13_deposit_effect$§!" 
+ apsr13_deposit_effect:0 "独特的资源可用: $apsr13_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr13_building_part1_text:0 "该综合体由许多不同的建筑组成，用于贸易和货物储存"
+ 
+ apsr13_building_part2_text:0 "该综合体由许多不同的建筑组成，用于贸易和货物储存"
+ 
+ apsr13_building_part3_text:0 "该综合体由许多不同的建筑组成，用于贸易和货物储存"
+ 
+ apsr13_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr13_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr13_building_part1:0 "贸易综合体"
+ apsr13_building_part1_desc:0 "$apsr13_building_predesc$\n$apsr13_building_part1_text$"
+ 
+ apsr13_building_part2:0 "银河市场"
+ apsr13_building_part2_desc:0 "$apsr13_building_predesc$\n$apsr13_building_part2_text$"
+ 
+ apsr13_building_part3:0 "银河贸易中心"
+ apsr13_building_part3_desc:0 "$apsr13_building_predesc$\n$apsr13_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr13_building_part1_fake:0 "$apsr13_building_part1$"
+ apsr13_building_part1_fake_desc:0 "$apsr13_building_fake_predesc$\n$apsr13_building_part1_text$"
+ 
+ apsr13_building_part2_fake:0 "$apsr13_building_part2$"
+ apsr13_building_part2_fake_desc:0 "$apsr13_building_fake_predesc$\n$apsr13_building_part2_text$"
+ 
+ apsr13_building_part3_fake:0 "$apsr13_building_part3$"
+ apsr13_building_part3_fake_desc:0 "$apsr13_building_fake_predesc$\n$apsr13_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr13_building_part1:0 "银河贸易 I"
+ tech_apsr13_building_part1_desc:0 "重建§Y银河市场§!是很困难的，但是我们有足够的资源来完成它。"
+ 
+ tech_apsr13_building_part2:0 "银河贸易 II"
+ tech_apsr13_building_part2_desc:0 "§Y银河市场§!可以用于与其他国家更好的贸易利润。"
+ 
+ tech_apsr13_building_part3:0 "银河贸易 III"
+ tech_apsr13_building_part3_desc:0 "通过重建§Y银河市场§!，我们将最终成为银河贸易的中心!"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.13001.title:0 "$apsr13_building_part1$ 建成"
+ apsr.13001.desc:0 "最后，我们部分地完成了贸易复合体的重建。今天，这些尘封多年的建筑将重新开工!"
+ apsr.13001.ok-button:0 "非常棒"
+ 
+ apsr.13002.title:0 "$apsr13_building_part2$ 建成"
+ apsr.13002.desc:0 "现在我们已经完成了这个旧贸易中心的最大部分的重建工作。新的商店和市场被打开，许多来自其他国家的商人移民到我们的帝国，我们的贸易实力变得更加强大。"
+ apsr.13002.ok-button:0 "我们将提升这个星系的交易水平!"
+ 
+ apsr.13003.title:0 "$apsr13_building_part3$ 建成"
+ apsr.13003.desc:0 "我们发现这个古老的贸易中心已经很多年了，现在终于重新开放了。现在我们在其他国家的贸易商中很有名，外国贸易公司正在为他们的商店争夺任何一米的土地。而且，我们从税收中获得了巨额利润。"
+ apsr.13003.ok-button:0 "银河系的经济就在我们的手中!"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.13011.title:0 "发现人造物: §M$apsr13_planet_modifier$§!"
+ apsr.13011.desc:0 "科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!领导的科研小组发现了一处被毁的建筑群。\n经过扫描，我们发现了一个专门从事贸易的城市。经过短暂的探索，§H[Root.GetLeaderName]§!得出结论，这个星球曾经是一个巨大的贸易出口，融合了整个银河系的不同文明。在一个引导终端我们发现了一些信息。这颗行星不是由某个文明所拥有，而是由银河系的一些大公司所拥有。被留下的原因尚不清楚。\n我们不可能追踪到这个地方的任何新技术，因为这个地方曾经被洗劫过，但是我们发现了一个很大的隔间，由于残留的空间异常，这个隔间曾经是一个建筑的储藏室。看来这里放置的一些设备是用来压缩空间，为更多的存储空间腾出空间的。我们还发现了许多专门用于贸易谈判的建筑。这个交易综合体真的是值得信赖的——甚至从它的外观就可以看出它的所有者的可靠性"
+ apsr.13011.button:1 "有趣!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.13013.title:0 "发现人造物: §M$apsr13_planet_modifier$§!"
+ apsr.13013.desc:0 "在最近被占领的一颗行星上，发现了一些奇特的东西。探险家们发现了一个令人信服的巨大建筑群。这颗行星似乎是一个巨大的贸易出口，融合了整个银河系的文明。这个交易综合体真的是值得信赖的:就连视图也能告诉我们很多关于其所有者可靠性的信息"
+ apsr.13013.button:1 "很好!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.13015.title:0 "发现人造物: §M$apsr13_planet_modifier$§!"
+ apsr.13015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n其中一颗行星上有许多复杂的结构。这颗行星就像一个不可想象的巨大零售店，将整个银河系的文明融合在一起。这个商业中心激发了人们的信心，只谈到了它的所有者的可靠性。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr13_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr13_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr13_resource_planet.Owner.GetName]"
+ apsr.13015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr13_special:0 "$apsr13_planet_modifier$"
+ apsr13_special_desc:0 "$apsr13_planet_modifier_desc$"
+ 
+ APSR13_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR13_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr13_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr13_anomaly:0 "$apsr1_anomaly$"
+ apsr13_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.13601.title:0 "$apsr.13011.title$"
+ apsr.13601.desc:0 "$apsr.13011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr13_planet_trader_normal:0 "经纪人"
+ job_apsr13_trader_normal:0 "经纪人"
+ job_apsr13_trader_normal_plural:0 "经纪人"
+ job_apsr13_trader_normal_desc:0 "经纪人的主要职责是将买卖双方撮合在一起，因此经纪人是买卖双方之间的第三人称调解者"
+ mod_job_apsr13_trader_normal_add:0 "经纪人"
+   
+ apsr13_planet_trader_hive:0 "经纪工蜂"
+ job_apsr13_trader_hive:0 "经纪工蜂"
+ job_apsr13_trader_hive_plural:0 "经纪工蜂"
+ job_apsr13_trader_hive_desc:0 "经纪工蜂的主要职责是将买卖双方撮合在一起，因此经纪工蜂是买卖双方之间的第三人称调解者。"
+ mod_job_apsr13_trader_hive_add:0 "经纪工蜂"
+   
+ apsr13_planet_trader_machine:0 "经纪单元"
+ job_apsr13_trader_machine:0 "经纪单元"
+ job_apsr13_trader_machine_plural:0 "经纪单元"
+ job_apsr13_trader_machine_desc:0 "这种单元模型的主要职责是将卖方和买方联系在一起，因此经纪单元是买方和卖方之间的第三人称协调者"
+ mod_job_apsr13_trader_machine_add:0 "经纪单元"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,744 @@
+﻿l_simp_chinese:
+
+##########################################
+# Armies (and their techs)
+##########################################
+
+#Mechanicum_ 3: Mechanical Knights
+tech_est_mechanical_knights:0 "战争机器"
+tech_est_mechanical_knights_desc:0 "我们的工程师已经研制出特殊的作战机器用于在在战场上部署。这些双足机器人步行者可以装备比我们平时部队更大的武器和更重的盔甲。"
+est_titan_army:0 "泰坦"
+est_titan_army_plural:0 "泰坦"
+est_titan_army_desc:0 "泰坦是巨大的机器人的步行者。凭借强大的火力和装甲，这些建造可以主宰任何战场。"
+est_mechanical_knights_army:0 "机动骑士"
+est_mechanical_knights_army_plural:0 "机动骑士"
+est_mechanical_knights_army_desc:0 "每个机动骑士都是由一名士兵配备的小型定制载人步行机。由于他们的大量设计，每个骑士都是独一无二的，他们在战场上有很大实用性。"
+
+#Militarism 1: Conscription
+est_militarism_1_militia_army:0 "民兵部队"
+est_militarism_1_militia_army_plural:0 "民兵部队"
+est_militarism_1_militia_army_desc:0 "为了保护这个星球，有一部分人被编入了民兵组织。"
+est_militarism_1_slave_militia_army:0 "征募的奴隶军队"
+est_militarism_1_slave_militia_army_plural:0 "征募的奴隶军队"
+est_militarism_1_slave_militia_army_desc:0 "虽然通常不用于战斗，但这些奴隶是为了保护这个星球而征募的。"
+#Might 1: Natural Warriors
+est_militarism_1_drone_emergency_army:0 "应急部队"
+est_militarism_1_drone_emergency_army_plural:0 "应急部队"
+est_militarism_1_drone_emergency_army_desc:0 "我们的工蜂是天生的战士。如果遇到紧急情况，他们每个人都能帮助保卫自己的星球。"
+est_militarism_1_machine_emergency_army:0 "救急军"
+est_militarism_1_machine_emergency_army_plural:0 "应急部队"
+est_militarism_1_machine_emergency_army_desc:0 "我们的工蜂是天生的战士。如果遇到紧急情况，他们每个人都能帮助保卫自己的星球。"
+
+####################################
+# Buildings
+####################################
+
+#Aesthetics 5: Galactic Wonders.
+building_est_aesthetics_5_wonder_garden:0 "美丽花园"
+building_est_aesthetics_5_wonder_garden_desc:0 "传说中的美丽花园。 园丁们用来自我们帝国各处的植物填满它，将它们组合成植物交响乐。大多数时候它被认为是这个银河系中最伟大的艺术作品，也是美的巅峰之作。"
+building_est_aesthetics_5_wonder_monument:0 "回忆纪念碑"
+building_est_aesthetics_5_wonder_monument_desc:0 "回忆纪念碑是银河系中最大的建筑之一，它的结构如此之大以至于从太空中都可以看到它。它的建立是为了纪念曾经发生的事情，但有人说它名字的来源是因为在看过它之后，永远不会留下看过人的回忆。"
+building_est_aesthetics_5_wonder_stage:0 "荣耀大舞台"
+building_est_aesthetics_5_wonder_stage_desc:0 "在整个银河系旅行的最有成就的表演者在荣耀舞台上展现他们的技巧。每个晚上，这个舞台上的表演都是这个银河系中最棒的表演。"
+building_est_aesthetics_5_wonder_halls:0 "宁静大厅"
+building_est_aesthetics_5_wonder_halls_desc:0 "据说人们可以在宁静大厅里走几个小时也不会看到别的灵魂。然而，这些大厅里充满了成千上万的人，漫步在寻找灵感、理解或内心的平静中。 这些大厅似乎永远看不到终点，走廊和房间只在黑暗中结束，而不是墙壁。高处也看不到天花板，支撑它的柱子似乎正在消失在虚空中。"
+building_est_aesthetics_5_wonder_museum:0 "宏大博物馆"
+building_est_aesthetics_5_wonder_museum_desc:0 "宏大博物馆收藏着银河系里最伟大的收藏品，甚至还有一些远超于它们的艺术品。这些收藏品包括那些在近代大事件中发挥重要作用的物品，以及早已消失的文明物品。 如此庞大的收藏品让人花费整个太阳周期在画廊和展览中漫步都看不完。"
+#Aesthetics Finish: Gallery
+building_est_aesthetics_finish_gallery:0 "展览馆"
+building_est_aesthetics_finish_gallery_desc:0 "我们的展览馆包含各种展览品，从艺术自然历史，当地文化到从我们帝国和银河系中收集的各种考古文物。"
+
+#Archivist Finish: Planetary Archive.
+building_est_archivist_finish_archive:0 "星球档案馆"
+building_est_archivist_finish_archive_desc:0 "这些遍布这个世界的档案馆是用来保存整个银河的记录的。这些建筑是整个银河最大的信息收集中心。"
+
+#Cybernetics Finisher: Automated Mine/Power Plant/Farm
+building_est_cybernetics_finish_automated_mine:2 "自动化矿井"
+building_est_cybernetics_finish_automated_mine_desc:1 "自动化矿山能够在最低限度的监督下生产矿石。"
+building_est_cybernetics_finish_automated_power_plant:2 "自动化发电厂"
+building_est_cybernetics_finish_automated_power_plant_desc:1 "自动化发电厂能够在最低限度的监督下生产能源。"
+building_est_cybernetics_finish_automated_farm:2 "自动化农场"
+building_est_cybernetics_finish_automated_farm_desc:1 "自动化农场能够在最低限度的监督下生产食品。"
+
+#Industry 3: Blast Furnace
+building_est_industry_3_blast_furnace:0 "高炉"
+building_est_industry_3_blast_furnace_desc:0 "高炉能显著提高行星的生产能力。"
+ 
+#Mechanicum
+building_est_mechanicum_5_guild_of_engineers_1:0 "工程师会馆 I"
+building_est_mechanicum_5_guild_of_engineers_1_desc:0 "这所会馆聚集了各个地位和级别的工程师。"
+building_est_mechanicum_5_guild_of_engineers_2:0 "工程师会馆 II"
+building_est_mechanicum_5_guild_of_engineers_2_desc:0 "$building_est_mechanicum_5_guild_of_engineers_1_desc$"
+
+#Militarism 4: Planetary Defense Cannon
+building_est_militarism_4_defence_cannon_1:0 "星球防御加农炮 I"
+building_est_militarism_4_defence_cannon_1_desc:0 "这些大炮能够摧毁轰炸星球的舰船。"
+building_est_militarism_4_defence_cannon_2:0 "星球防御加农炮 II"
+building_est_militarism_4_defence_cannon_2_desc:0 "$building_est_militarism_4_defence_cannon_1_desc$"
+building_est_militarism_4_defence_cannon_3:0 "星球防御加农炮 III"
+building_est_militarism_4_defence_cannon_3_desc:0 "$building_est_militarism_4_defence_cannon_1_desc$"
+
+#Nature 5/Finish: Preservation
+building_est_nature_preservation:0 "星球保护"
+building_est_nature_preservation_desc:0 "每一个星球都有自己的天然然栖息地，在银河系中独一无二。我们必须确保至少它们的一部分受到保留，不会毁坏，保持它在我们抵达之前的状态。"
+
+####################################
+# Traits
+####################################
+
+### Leader Traits ###
+
+#Archivist: Librarian
+leader_trait_scientist_est_librarian_astronomy:0 "图书管理员：天文学"
+leader_trait_scientist_est_librarian_astronomy_desc:0 "这位图书管理员专门研究天文学。这个银河系充满了数十亿天体，所有这些天体都应该记录在我们的档案中。通过查阅这些档案，图书管理员可以把我们的研究工作增加到物理方面。"
+leader_trait_scientist_est_librarian_mathematics:0 "图书管理员：数学"
+leader_trait_scientist_est_librarian_mathematics_desc:0 "这位图书管理员专门研究数学。几千年来，我们的数学家发现了无数的定理，构造了大量的数学理论。这位图书管理员知道如何访问和搜索我们关于数学理论的档案，这将帮助我们的物理学家进行研究。"
+leader_trait_scientist_est_librarian_electronics:0 "图书管理员：电子学"
+leader_trait_scientist_est_librarian_electronics_desc:0 "这位图书管理员专门研究电子学。当电力首次被发现时，它导致了我们社会的一场革命。从那时以来，数以百万计的电子设备被建成。所有这些原理图都被记录下来，以备将来有一天使用。这位图书管理员可以使用这些数据库来帮助我们的物理研究。"
+leader_trait_scientist_est_librarian_software:0 "图书管理员：软件"
+leader_trait_scientist_est_librarian_software_desc:0 "这位图书管理员专门研究计算机软件。即使在计算机最早构建出来的时候，我们都制作了无数可以运行的程序。这位图书管理员专门记录和整理这些计算机程序到大型数据库中。关于这些软件的知识可能有助于我们的物理研究。"
+leader_trait_scientist_est_librarian_culture:0 "图书管理员：文化"
+leader_trait_scientist_est_librarian_culture_desc:0 "这位图书管理员专门研究文化。自从我们的文明诞生以来，有数千种文化开花结果直至凋萎。在其他世界存在着，并仍将继续存在着更多的文化。这位图书管理员知道如何访问我们已记录，并仍在记录的庞大文化档案。这些信息可能有助于我们在社会研究中的研究项目。"
+leader_trait_scientist_est_librarian_history:0 "图书管理员：历史"
+leader_trait_scientist_est_librarian_history_desc:0 "这位图书管理员专门研究历史。每一年过去都是我们文明历史的又一年，每一次经历的事件都应该添加到我们的历史档案中。这位图书馆员的工作是记录这些事件并将它们放入我们的档案中。他们对我们历史档案的知识可能有助于我们社会的研究。"
+leader_trait_scientist_est_librarian_taxonomy:0 "图书管理员：分类学"
+leader_trait_scientist_est_librarian_taxonomy_desc:0 "这位图书管理员专门研究分类学。即使早在人类文明到来之前，新的物种也在演化并消失。他们都应该记录下来并加以分类，因为他们每一个都有自己独特的特质。这位图书管理员擅长记录各种形式的生物，并将它们放入我们数据库的正确位置。这位图书管理员对我们的分类档案的知识可能有助于我们社会的研究。"
+leader_trait_scientist_est_librarian_communication:0 "图书管理员：交流"
+leader_trait_scientist_est_librarian_communication_desc:0 "这位图书管理员专门研究语言和其他形式的交流。成千上万的语言在我们的帝国中曾被使用过，许多语言如今仍然被使用。即使在整个银河系里，也存在着许多不同于我们自己的沟通形式。所有这些都应该被记录下来，他们的怪癖和规则被固定下来。这位图书管理员远行记录了不同形式的交流，可能有助于我们社会的研究。"
+leader_trait_scientist_est_librarian_war:0 "图书管理员：战争"
+leader_trait_scientist_est_librarian_war_desc:0 "这位图书管理员专门研究战争。古往今来已经发生过许多战争。我们尽可能详细地记录每一场战斗。这位图书管理员专门研究我们的战争数据库，这种知识可能有助于我们社会的研究。"
+leader_trait_scientist_est_librarian_chemistry:0 "图书管理员：化学"
+leader_trait_scientist_est_librarian_chemistry_desc:0 "这位图书管理员专门研究化学。即使在化学自成一门专门的领域之前，我们都一直在创造各种各样化合物。如今他们的数量现在是不可数的，如果我们没有关于化合物和反应的数据库，许多数据库会随时间丢失。他的图书管理员非常熟悉我们的化学数据库，可以利用这些知识来帮助我们进行工程研究。"
+leader_trait_scientist_est_librarian_geology:0 "图书管理员：地质学"
+leader_trait_scientist_est_librarian_geology_desc:0 "这位图书管理员专门研究地质学。当我们投身星际后，地质学的领域激增。银河里充满了行星，它们都有各自独特的矿物，它们都有自己的特性。这位图书管理员在为我们的地质档案馆收集样本的道路上走了很远。关于这些档案的知识可能有助于我们的工程研究。"
+leader_trait_scientist_est_librarian_architecture:0 "图书管理员：建筑学"
+leader_trait_scientist_est_librarian_architecture_desc:0 "这位图书管理员专门研究建筑和施工。我们建造的每座建筑的设计都必须发送到我们的建筑档案。这位图书管理员保留这些设计并帮助构建系统，以便轻松整理和获取信息。这可能有助于我们的工程研究。"
+leader_trait_scientist_est_librarian_mechanics:0 "图书管理员：机械学"
+leader_trait_scientist_est_librarian_mechanics_desc:0 "这位图书管理员专门研究机械学。每台机械的设计蓝图都必须记录在我们的档案中。该图书管理员负责将蓝图分类到数据库中以便于访问。如果可能的话，这些机械创造的单位也被放入我们的档案中。关于这些机器的知识可能有助于我们的工程研究。"
+
+#Archivist: Keeper
+leader_trait_scientist_est_keeper_astronomy:0 "看护者：天文学"
+leader_trait_scientist_est_keeper_astronomy_desc:0 "这位看护者专门研究天文学。这个银河系充满了数十亿天体，所有这些天体都应该记录在我们的档案中。通过查阅这些档案，图书管理员可以把我们的研究工作增加到物理方面。"
+leader_trait_scientist_est_keeper_mathematics:0 "看护者：数学"
+leader_trait_scientist_est_keeper_mathematics_desc:0 "这位看护者专门研究数学。几千年来，我们的数学家发现了无数的定理，构造了大量的数学理论。这位图书管理员知道如何访问和搜索我们关于数学理论的档案，这将帮助我们的物理学家进行研究。"
+leader_trait_scientist_est_keeper_electronics:0 "看护者：电子学"
+leader_trait_scientist_est_keeper_electronics_desc:0 "这位看护者专门研究电子学。当电力首次被发现时，它导致了我们社会的一场革命。从那时以来，数以百万计的电子设备被建成。所有这些原理图都被记录下来，以备将来有一天使用。这位图书管理员可以使用这些数据库来帮助我们的物理研究。"
+leader_trait_scientist_est_keeper_software:0 "看护者：软件"
+leader_trait_scientist_est_keeper_software_desc:0 "这位看护者专门研究计算机软件。即使在计算机最早构建出来的时候，我们都制作了无数可以运行的程序。这位图书管理员专门记录和整理这些计算机程序到大型数据库中。关于这些软件的知识可能有助于我们的物理研究。"
+leader_trait_scientist_est_keeper_culture:0 "看护者：文化"
+leader_trait_scientist_est_keeper_culture_desc:0 "这位看护者专门研究文化。自从我们的文明诞生以来，有数千种文化开花结果直至凋萎。在其他世界存在着，并仍将继续存在着更多的文化。这位图书管理员知道如何访问我们已记录，并仍在记录的庞大文化档案。这些信息可能有助于我们在社会研究中的研究项目。"
+leader_trait_scientist_est_keeper_history:0 "看护者：历史"
+leader_trait_scientist_est_keeper_history_desc:0 "这位看护者专门研究历史。每一年过去都是我们文明历史的又一年，每一次经历的事件都应该添加到我们的历史档案中。这位图书馆员的工作是记录这些事件并将它们放入我们的档案中。他们对我们历史档案的知识可能有助于我们社会的研究。"
+leader_trait_scientist_est_keeper_taxonomy:0 "看护者：分类学"
+leader_trait_scientist_est_keeper_taxonomy_desc:0 "这位看护者专门研究分类学。即使早在人类文明到来之前，新的物种也在演化并消失。他们都应该记录下来并加以分类，因为他们每一个都有自己独特的特质。这位图书管理员擅长记录各种形式的生物，并将它们放入我们数据库的正确位置。这位图书管理员对我们的分类档案的知识可能有助于我们社会的研究。"
+leader_trait_scientist_est_keeper_communication:0 "看护者：交流"
+leader_trait_scientist_est_keeper_communication_desc:0 "这位看护者专门研究语言和其他形式的交流。成千上万的语言在我们的帝国中曾被使用过，许多语言如今仍然被使用。即使在整个银河系里，也存在着许多不同于我们自己的沟通形式。所有这些都应该被记录下来，他们的怪癖和规则被固定下来。这位图书管理员远行记录了不同形式的交流，可能有助于我们社会的研究。"
+leader_trait_scientist_est_keeper_war:0 "看护者：战争"
+leader_trait_scientist_est_keeper_war_desc:0 "这位看护者专门研究战争。古往今来已经发生过许多战争。我们尽可能详细地记录每一场战斗。这位图书管理员专门研究我们的战争数据库，这种知识可能有助于我们社会的研究。"
+leader_trait_scientist_est_keeper_chemistry:0 "看护者：化学"
+leader_trait_scientist_est_keeper_chemistry_desc:0 "这位看护者专门研究化学。即使在化学自成一门专门的领域之前，我们都一直在创造各种各样化合物。如今他们的数量现在是不可数的，如果我们没有关于化合物和反应的数据库，许多数据库会随时间丢失。他的图书管理员非常熟悉我们的化学数据库，可以利用这些知识来帮助我们进行工程研究。"
+leader_trait_scientist_est_keeper_geology:0 "看护者：地质学"
+leader_trait_scientist_est_keeper_geology_desc:0 "这位看护者专门研究地质学。当我们投身星际后，地质学的领域激增。银河里充满了行星，它们都有各自独特的矿物，它们都有自己的特性。这位图书管理员在为我们的地质档案馆收集样本的道路上走了很远。关于这些档案的知识可能有助于我们的工程研究。"
+leader_trait_scientist_est_keeper_architecture:0 "看护者：建筑学"
+leader_trait_scientist_est_keeper_architecture_desc:0 "这位看护者专门研究建筑和施工。我们建造的每座建筑的设计都必须发送到我们的建筑档案。这位图书管理员保留这些设计并帮助构建系统，以便轻松整理和获取信息。这可能有助于我们的工程研究。"
+leader_trait_scientist_est_keeper_mechanics:0 "看护者：机械学"
+leader_trait_scientist_est_keeper_mechanics_desc:0 "这位看护者专门研究机械学。每台机械的设计蓝图都必须记录在我们的档案中。该图书管理员负责将蓝图分类到数据库中以便于访问。如果可能的话，这些机械创造的单位也被放入我们的档案中。关于这些机器的知识可能有助于我们的工程研究。"
+
+#Chivalry: Chivalrous
+leader_trait_admiral_est_chivalry:0 "侠义精神"
+leader_trait_admiral_est_chivalry_desc:0 "这位领袖深受同辈人的尊重，他们总是做正确的事，在遇到困难时永不动摇。"
+leader_trait_ruler_est_chivalry:0 "$leader_trait_admiral_est_chivalry$"
+leader_trait_ruler_est_chivalry_desc:0 "$leader_trait_admiral_est_chivalry_desc$"
+leader_trait_general_est_chivalry:0 "$leader_trait_admiral_est_chivalry$"
+leader_trait_general_est_chivalry_desc:0 "$leader_trait_admiral_est_chivalry_desc$"
+leader_trait_governor_est_chivalry:0 "$leader_trait_admiral_est_chivalry$"
+leader_trait_governor_est_chivalry_desc:0 "$leader_trait_admiral_est_chivalry_desc$"
+leader_trait_scientist_est_chivalry:0 "$leader_trait_admiral_est_chivalry$"
+leader_trait_scientist_est_chivalry_desc:0 "$leader_trait_admiral_est_chivalry_desc$"
+
+#Chivalry: Hero
+leader_trait_admiral_est_chivalry_hero:0 "传奇英雄"
+leader_trait_admiral_est_chivalry_hero_desc:0 "由于战斗中的勇敢行动，这位领袖在我们的帝国被称为英雄。无论他们走到哪里，他们都是享有尊敬和敬畏的活着的传奇。"
+leader_trait_ruler_est_chivalry_hero:0 "$leader_trait_admiral_est_chivalry_hero$"
+leader_trait_ruler_est_chivalry_hero_desc:0 "$leader_trait_admiral_est_chivalry_hero_desc$"
+leader_trait_general_est_chivalry_hero:0 "$leader_trait_admiral_est_chivalry_hero$"
+leader_trait_general_est_chivalry_hero_desc:0 "$leader_trait_admiral_est_chivalry_hero_desc$"
+
+#Militarism: Prestige of the Admiralty
+leader_trait_admiral_est_militarism_5:0 "舰队之虎"
+leader_trait_admiral_est_militarism_5_desc:0 "这位舰队司令是我们社会中最有能力和最受尊重的人之一。"
+leader_trait_admiral_est_militarism_5_free:0 "$leader_trait_admiral_est_militarism_5$"
+leader_trait_admiral_est_militarism_5_free_desc:0 "$leader_trait_admiral_est_militarism_5_desc$"
+leader_trait_admiral_est_might_5:0 "$tr_est_might_5$"
+leader_trait_admiral_est_might_5_desc:0 "$tr_est_might_5_delayed$"
+leader_trait_admiral_est_might_5_free:0 "$leader_trait_admiral_est_might_5$"
+leader_trait_admiral_est_might_5_free_desc:0 "$leader_trait_admiral_est_might_5_desc$"
+
+#Mysticism: Mystic
+leader_trait_admiral_est_mystic:0 "神秘"
+leader_trait_admiral_est_mystic_desc:0 "这位领袖被认为具有一些超自然力量。他们究竟拥有哪一种，如果真有的话，实际上是未知的。"
+leader_trait_general_est_mystic:0 "神秘"
+leader_trait_general_est_mystic_desc:0 "这位领袖被认为具有一些超自然力量。他们究竟拥有哪一种，如果真有的话，实际上是未知的。"
+leader_trait_governor_est_mystic:0 "神秘"
+leader_trait_governor_est_mystic_desc:0 "这位领袖被认为具有一些超自然力量。他们究竟拥有哪一种，如果真有的话，实际上是未知的。"
+leader_trait_scientist_est_mystic:0 "神秘"
+leader_trait_scientist_est_mystic_desc:0 "这位领袖被认为具有一些超自然力量。他们究竟拥有哪一种，如果真有的话，实际上是未知的。"
+leader_trait_ruler_est_mystic:0 "神秘"
+leader_trait_ruler_est_mystic_desc:0 "这位领袖被认为具有一些超自然力量。他们究竟拥有哪一种，如果真有的话，实际上是未知的。"
+
+#Cooperativity: Cognition Central
+leader_trait_admiral_est_cognition_central:0 "认知中枢"
+leader_trait_admiral_est_cognition_central_desc:0 "通过将自己整合到当地的无人机网络中，可能会大大增强这种无人机的功能。"
+leader_trait_ruler_est_cognition_central:0 "$leader_trait_admiral_est_cognition_central$"
+leader_trait_ruler_est_cognition_central_desc:0 "$leader_trait_admiral_est_cognition_central_desc$"
+leader_trait_general_est_cognition_central:0 "$leader_trait_admiral_est_cognition_central$"
+leader_trait_general_est_cognition_central_desc:0 "$leader_trait_admiral_est_cognition_central_desc$"
+leader_trait_governor_est_cognition_central:0 "$leader_trait_admiral_est_cognition_central$"
+leader_trait_governor_est_cognition_central_desc:0 "$leader_trait_admiral_est_cognition_central_desc$"
+leader_trait_scientist_est_cognition_central:0 "$leader_trait_admiral_est_cognition_central$"
+leader_trait_scientist_est_cognition_central_desc:0 "$leader_trait_admiral_est_cognition_central_desc$"
+
+#Individualism: Inspiration
+leader_trait_ruler_est_individualism_inspiration:0 "灵感迸发"
+leader_trait_ruler_est_individualism_inspiration_desc:0 "我现在清楚地看到了我的目标和实现它的方法。"
+leader_trait_admiral_est_individualism_inspiration:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_admiral_est_individualism_inspiration_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_biology:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_biology_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_statecraft:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_statecraft_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_industry:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_industry_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_materials:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_materials_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_rocketry:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_rocketry_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_voidcraft:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_voidcraft_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_field_manipulation:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_field_manipulation_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_particles:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_particles_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_computing:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_computing_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_new_worlds:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_new_worlds_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+leader_trait_scientist_est_individualism_inspiration_military_theory:0 "$leader_trait_ruler_est_individualism_inspiration$"
+leader_trait_scientist_est_individualism_inspiration_military_theory_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
+
+### Species Traits ###
+trait_robot_est_industry_adopt:0 "采矿机器"
+trait_robot_est_industry_adopt_desc:0 "§L这些机器是以高效采矿的目的建造的。§!"
+
+####################################
+# Opinion Modifiers
+####################################
+opinion_est_aesthetics_2_3:0 "银河博览会"
+opinion_est_aesthetics_2_3_FE:0 "银河博览会"
+opinion_est_aesthetics_2_4:0 "向大使们献戏"
+opinion_est_aesthetics_2_31:0 "友谊纪念碑"
+opinion_est_aesthetics_3:0 "$tr_est_aesthetics_3$"
+opinion_est_aesthetics_3_FE:0 "$tr_est_aesthetics_3$"
+opinion_est_age_5:0 "$tr_est_age_5$"
+opinion_est_age_5_FE:0 "$tr_est_age_5$"
+
+opinion_est_benevolence_3:0 "$tr_est_benevolence_3$"
+opinion_est_benevolence_3_FE:0 "$tr_est_benevolence_3$"
+
+opinion_est_chivalry_2:0 "$tr_est_chivalry_2$"
+opinion_est_chivalry_2_FE:0 "$tr_est_chivalry_2$"
+opinion_est_chivalry_finish_humility:0 "$mod_est_chivalry_finish_humility$"
+opinion_est_chivalry_finish_humility_FE:0 "$mod_est_chivalry_finish_humility$"
+
+opinion_est_confederacy_4:0 "$tr_est_confederacy_4$"
+
+opinion_est_friendship_1:0 "$tr_est_friendship_1$"
+opinion_est_friendship_1_FE:0 "$tr_est_friendship_1$"
+
+opinion_est_greed_2_negotiations_1:0 "$est_greed_2_negotiations_1$"
+opinion_est_greed_2_negotiations_2:0 "$est_greed_2_negotiations_2$"
+opinion_est_greed_2_negotiations_3:0 "$est_greed_2_negotiations_3$"
+
+opinion_est_fury_1:0 "$est_fury_1_name$"
+opinion_est_fury_2:0 "$est_fury_2_name$"
+opinion_est_fury_3:0 "$est_fury_3_name$"
+opinion_est_fury_4:0 "$est_fury_4_name$"
+opinion_est_fury_5:0 "$est_fury_5_name$"
+
+opinion_est_mysticism_adopt:0 "$tr_est_mysticism_adopt$"
+opinion_est_philosophy_3:0 "$tr_est_philosophy_3$"
+opinion_est_philosophy_3_FE:0 "$tr_est_philosophy_3$"
+
+opinion_est_piracy_2:0 "抢劫目标"
+
+####################################
+# Edicts 
+####################################
+
+### Empire Edicts ###
+
+#Friendship
+edict_est_friendship_finish_invite_colonists:0 "邀请外国殖民队"
+edict_est_friendship_finish_invite_colonists_desc:0 "我们在银河系都有关系。我们可以尝试邀请外国帝国的公民来参与我们的新殖民地之一。"
+est_friendship_finish_invite_colonists_effect:0 "给我们一些物种选择以从中获得殖民船。我们也可以拒绝邀请这些殖民队而不必支付能量。"
+est_friendship_finish_invite_colonists_req_1:0 "$TRIGGER_FAIL$我们每年只能邀请殖民队一次。"
+est_friendship_finish_invite_colonists_req_2:0 "$TRIGGER_FAIL$没有可以邀请殖民队的帝国。"
+
+#Greed
+edict_est_greed_5_bribery:0 "贿赂派系"
+edict_est_greed_5_bribery_desc:0 "$tr_est_greed_5_delayed$"
+est_greed_5_bribery_tooltip:0 "使我们能够支付 £energy  §Y能量币§! 给我们的 §Y人口派系§! 增加他们的 £happiness  §Y幸福度§!."
+
+### Planet Edicts ###
+
+#Confederacy
+edict_est_grant_autonomy:0 "允许自治"
+edict_est_grant_autonomy_desc:1 "这条法令赋予当地政府更多的自主权，让行星管理部门和居民满意。"
+
+#Greed
+edict_est_greed_4_1:0 "轻度敲诈"
+edict_est_greed_4_1_desc:0 "$tr_est_greed_4_delayed$"
+est_greed_4_1_tooltip:0 "星球上每一个£pop §Y人口§!产生§Y0.25§!£energy §Y能量币§!。"
+edict_est_greed_4_2:0 "适度敲诈"
+edict_est_greed_4_2_desc:0 "$tr_est_greed_4_delayed$"
+est_greed_4_2_tooltip:0 "星球上每一个£pop §Y人口§!产生§Y0.50§!£energy §Y能量币§!。"
+edict_est_greed_4_3:0 "重度敲诈"
+edict_est_greed_4_3_desc:0 "$tr_est_greed_4_delayed$"
+est_greed_4_3_tooltip:0 "星球上每一个£pop §Y人口§!产生§Y0.75§!£energy §Y能量币§!。"
+edict_est_greed_4_cancel:0 "停止敲诈"
+edict_est_greed_4_cancel_desc:0 "在星球上的情况变得难以管理之前，我们已经达到了在人口中敲诈勒索能量币的极限。至少现在我们必须停止榨取这个星球上的现金。"
+est_greed_4_cancel_tooltip:0 "取消任何目前影响这个星球上的敲诈法令。"
+
+#Industry
+edict_est_industry_finish:0 "授权危险行业"
+edict_est_industry_finish_desc:0 "我们将有可能进一步提高这个星球的工业产出。它会对人口产生负面影响，但无论如何它可能是值得的。"
+edict_est_industry_finish_machines:0 "$edict_est_industry_finish$"
+edict_est_industry_finish_machines_desc:0 "我们将有可能进一步提高这个星球的工业产出。它会对行星的能量生产能力产生负面影响，但无论如何，这可能是值得的。"
+
+#Cooperativity
+edict_est_cooperativity_5:0 "生长期"
+edict_est_cooperativity_5_desc:0 "$tr_est_cooperativity_5_delayed$"
+edict_est_cooperativity_5_machines:0 "生长期"
+edict_est_cooperativity_5_machines_desc:0 "$tr_est_cooperativity_5_delayed$"
+
+####################################
+# Decisions
+####################################
+
+#Commerce
+decision_est_commerce_2_energy_activate:0 "专营行星 - 能量币"
+decision_est_commerce_2_energy_activate_desc:0 "$tr_est_commerce_2_delayed$"
+decision_est_commerce_2_energy_activate_tooltip:0 "增加行星 £energy  §Y能量币§! 产出 §G+20%§! 同时减少 £food  §Y食物§! 和 £minerals  §Y矿物§! 产出 §R-15%§!."
+decision_est_commerce_2_energy_deactivate:0 "停止专营行星 - 能量币"
+decision_est_commerce_2_energy_deactivate_desc:0 "$tr_est_commerce_2_delayed$"
+decision_est_commerce_2_energy_deactivate_tooltip:0 "移除 §Y$mod_est_commerce_2_energy$§! 修饰"
+decision_est_commerce_2_food_activate:0 "专营行星 - 食物"
+decision_est_commerce_2_food_activate_desc:0 "$tr_est_commerce_2_delayed$"
+decision_est_commerce_2_food_activate_tooltip:0 "增加行星 £food  §Y食物§! 产出 §G+20%§! 同时减少 £energy  §Y能量币§! 和 £minerals  §Y矿物l§! 产出 §R-15%§!."
+decision_est_commerce_2_food_deactivate:0 "停止专营行星 - 食物"
+decision_est_commerce_2_food_deactivate_desc:0 "$tr_est_commerce_2_delayed$"
+decision_est_commerce_2_food_deactivate_tooltip:0 "移除 §Y$mod_est_commerce_2_food$§! 修饰"
+decision_est_commerce_2_minerals_activate:0 "专营行星 - 矿物"
+decision_est_commerce_2_minerals_activate_desc:0 "$tr_est_commerce_2_delayed$"
+decision_est_commerce_2_minerals_activate_tooltip:0 "增加行星 £minerals  §Y矿物l§! 产出 §G+20%§! 同时减少 £food  §Y食物§! 和 £energy  §Y能量币§! 产出 §R-15%§!."
+decision_est_commerce_2_minerals_deactivate:0 "停止专营行星 - 矿物"
+decision_est_commerce_2_minerals_deactivate_desc:0 "$tr_est_commerce_2_delayed$"
+decision_est_commerce_2_minerals_deactivate_tooltip:0 "移除 §Y$mod_est_commerce_2_minerals$§! 修饰"
+
+#Industry
+decision_est_industry_5_activate:0 "选定锻造世界"
+decision_est_industry_5_activate_desc:0 "$tr_est_industry_5_delayed$"
+decision_est_industry_5_activate_tooltip:0 "增加 £minerals  §Y矿物l§!, £alloy  §Y合金§!, 和 £consumer_goods  §Y消费品§! 产出 §G+20%§!. 减少 £food  §Y食物§! 产出, £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§!, 和 §Y$MOD_PLANET_IMMIGRATION_PULL_MULT$§! §R-25%§!, 减少 £happiness §YHappiness§! §R-10%§!."
+decision_est_industry_5_deactivate:0 "让锻造世界正常化"
+decision_est_industry_5_deactivate_desc:0 "$tr_est_industry_5_delayed$"
+decision_est_industry_5_deactivate_tooltip:0 "R移除 $mod_est_industry_5$ 修饰"
+decision_est_industry_5_GC_activate:0 "$decision_est_industry_5_activate$"
+decision_est_industry_5_GC_activate_desc:0 "$decision_est_industry_5_deactivate_desc$"
+decision_est_industry_5_GC_activate_tooltip:0 "增加 £minerals  §Y矿物l§! 和 £alloy  §Y合金§! 产出 §G+20%§!. 减少 £food  §Y食物§! 产出和 £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§! §R-30%§!."
+decision_est_industry_5_GC_deactivate:0 "$decision_est_industry_5_deactivate$"
+decision_est_industry_5_GC_deactivate_desc:0 "$decision_est_industry_5_deactivate_desc$"
+decision_est_industry_5_GC_deactivate_tooltip:0 "$decision_est_industry_5_deactivate_tooltip$"
+decision_est_industry_5_machines_activate:0 "$decision_est_industry_5_activate$"
+decision_est_industry_5_machines_activate_desc:0 "$decision_est_industry_5_activate_desc$"
+decision_est_industry_5_machines_activate_tooltip:0 "增加 £minerals  §Y矿物l§! 和 £alloy  §Y合金§! 产出 §G+20%§!. 减少 £energy  §YEnergy§!产出和 £mod_pop_assembly_speed  §Y$MOD_POP_ASSEMBLY_SPEED$§! §R-25%§!."
+decision_est_industry_5_machines_deactivate:0 "$decision_est_industry_5_deactivate$"
+decision_est_industry_5_machines_deactivate_desc:0 "$decision_est_industry_5_deactivate_desc$"
+decision_est_industry_5_machines_deactivate_tooltip:0 "$decision_est_industry_5_deactivate_tooltip$"
+
+#Cooperativity
+decision_est_cooperativity_5_activate:0 "开启生长期"
+decision_est_cooperativity_5_activate_desc:0 "$tr_est_cooperativity_5_delayed$"
+decision_est_cooperativity_5_activate_tooltip:0 "增加 §YGrowth Speed§! §G+50%§!. 减少 §Y人口资源产出§! §R-25%§! 并增加 §Y人口食物消费§! §R+50%§!."
+decision_est_cooperativity_5_deactivate:0 "停止生长期"
+decision_est_cooperativity_5_deactivate_desc:0 "$tr_est_cooperativity_5_delayed$"
+decision_est_cooperativity_5_deactivate_tooltip:0 "移除 $mod_est_cooperativity_5$ 修饰"
+decision_est_cooperativity_5_machines_activate:0 "$decision_est_cooperativity_5_activate$"
+decision_est_cooperativity_5_machines_activate_desc:0 "$decision_est_cooperativity_5_activate_desc$"
+decision_est_cooperativity_5_machines_activate_tooltip:0 "增加 §Y机器人建造速度§! §G+50%§!. 减少§Y人口资源产出§! §R-25%§! 并增加 §Y人口能源消费§! §R+50%§!."
+decision_est_cooperativity_5_machines_deactivate:0 "$decision_est_cooperativity_5_deactivate$"
+decision_est_cooperativity_5_machines_deactivate_desc:0 "$decision_est_cooperativity_5_deactivate_desc$"
+decision_est_cooperativity_5_machines_deactivate_tooltip:0 "$decision_est_cooperativity_5_deactivate_tooltip$"
+
+####################################
+# Policies
+####################################
+#Biogenesis Finish, Food to Mineral Conversion.
+policy_est_biogenesis_finish_food_to_minerals:0 "食物转换"
+policy_est_biogenesis_finish_food_to_minerals_desc:0 "我们可以使用有机物质而不是矿物质作为建筑材料来生长新的东西。我们在想要的程度上将用作食物的资源转移到建设项目中。"
+est_biogenesis_finish_food_to_minerals_0:0 "无"
+est_biogenesis_finish_food_to_minerals_0_name:0 "没有转换"
+est_biogenesis_finish_food_to_minerals_0_desc:0 "所有的有机物都应该用来繁育，不需要其他的。\n\n§ENo effect§!"
+est_biogenesis_finish_food_to_minerals_1:0 "最小的食物转化"
+est_biogenesis_finish_food_to_minerals_1_name:0 "最小的转换"
+est_biogenesis_finish_food_to_minerals_1_desc:0 "我们应该尝试使用所有的有机物质来繁育，有些可能会用于建设，但不是所最期望的。"
+est_biogenesis_finish_food_to_minerals_2:0 "有限的食物转换"
+est_biogenesis_finish_food_to_minerals_2_name:0 "有限的转换"
+est_biogenesis_finish_food_to_minerals_2_desc:0 "虽然有机物质应该主要用于繁育，但我们可以允许有限的数量去建设项目。"
+est_biogenesis_finish_food_to_minerals_3:0 "部分食物转化"
+est_biogenesis_finish_food_to_minerals_3_name:0 "部分转换"
+est_biogenesis_finish_food_to_minerals_3_desc:0 "有机物质在建筑中有一些重要的用途，我们将用它来实现这一目的。"
+est_biogenesis_finish_food_to_minerals_4:0 "中等食物转化"
+est_biogenesis_finish_food_to_minerals_4_name:0 "中等转换"
+est_biogenesis_finish_food_to_minerals_4_desc:0 "我们的帝国的建设和人口的增长都是重要的，我们将尝试找到一个中间地带。"
+est_biogenesis_finish_food_to_minerals_5:0 "大量食品转换"
+est_biogenesis_finish_food_to_minerals_5_name:0 "大量转换"
+est_biogenesis_finish_food_to_minerals_5_desc:0 "我们已经有我们需要的人口了，让我们主要关注新建筑项目。"
+est_biogenesis_finish_food_to_minerals_6:0 "广泛食品转换"
+est_biogenesis_finish_food_to_minerals_6_name:0 "广泛转换"
+est_biogenesis_finish_food_to_minerals_6_desc:0 "不可避免的是有些有机物质将不得不用来维持我们的人口，但如果还有什么需要用于建设，有一些饥饿是我们必须作出的牺牲。"
+est_biogenesis_finish_food_to_minerals_7:0 "巨大食物转化"
+est_biogenesis_finish_food_to_minerals_7_name:0 "巨大转换"
+est_biogenesis_finish_food_to_minerals_7_desc:0 "人口的生活是靠不住的，而我们建立的东西将一直持续很久。让我们集中所有资源，建立一个持久的帝国。"
+est_biogenesis_finish_food_to_minerals_8:0 "不受限制的食物转化"
+est_biogenesis_finish_food_to_minerals_8_name:0 "无限制的转换"
+est_biogenesis_finish_food_to_minerals_8_desc:0 "让我们毫无限制地使用所有可用的食物，为我们的文明生产建筑和船舰。"
+country_food_produces_add:0 "每月食物"
+
+#Subminds 3, Control Submind Parameters
+policy_est_subminds_3:0 "$tr_est_subminds_3$"
+policy_est_subminds_3_desc:0 "$tr_est_subminds_3_delayed$"
+est_subminds_3_energy:0 "能量焦点"
+est_subminds_3_energy_name:0 "$est_subminds_3_energy$"
+policy_flag_est_subminds_3_energy_name:0 "$est_subminds_3_energy$"
+est_subminds_3_energy_desc:0 "£energy §Y能量§!产出增加§G+15%§!在所有星区行星上。"
+est_subminds_3_food:0 "食物焦点"
+est_subminds_3_food_name:0 "$est_subminds_3_food$"
+policy_flag_est_subminds_3_food_name:0 "$est_subminds_3_food$"
+est_subminds_3_food_desc:0 "£food §Y食物§!产出增加§G+20%§!在所有星区行星上。"
+est_subminds_3_minerals:0 "矿物焦点"
+est_subminds_3_minerals_name:0 "$est_subminds_3_minerals$"
+policy_flag_est_subminds_3_minerals_name:0 "$est_subminds_3_minerals$"
+est_subminds_3_minerals_desc:0 "£minerals §Y矿物§!产出增加§G+15%§!所有星区行星上。"
+est_subminds_3_research:0 "研究焦点"
+est_subminds_3_research_name:0 "$est_subminds_3_research$"
+policy_flag_est_subminds_3_research_name:0 "$est_subminds_3_research$"
+est_subminds_3_research_desc:0 "£engineering §Y工程学§!, £physics §Y物理学§!和 £society §Y社会学§!产出增加§G+10%§!在所有星区行星上。"
+est_subminds_3_unity:0 "凝聚力焦点"
+est_subminds_3_unity_name:0 "$est_subminds_3_unity$"
+policy_flag_est_subminds_3_unity_name:0 "$est_subminds_3_unity$"
+est_subminds_3_unity_desc:0 "£unity §Y凝聚力§!产出增加§G+20%§!在所有星区行星上。"
+
+#Greed 2, Ruthless Negotiators.
+policy_est_greed_2_negotiations:0 "谈判策略"
+policy_est_greed_2_negotiations_desc:0 "£tr_est_greed_2_delayed$"
+est_greed_2_negotiations_0:0 "正常的谈判"
+est_greed_2_negotiations_0_name:0 "$est_greed_2_negotiations_0$"
+est_greed_2_negotiations_0_desc:0 "没有影响。"
+est_greed_2_negotiations_1:0 "冷漠的谈判者"
+est_greed_2_negotiations_1_name:0 "$est_greed_2_negotiations_1$"
+est_greed_2_negotiations_1_desc:0 "外星帝国£opinion §Y评价§!降低§R-15§!."
+est_greed_2_negotiations_2:0 "苛刻的谈判"
+est_greed_2_negotiations_2_name:0 "$est_greed_2_negotiations_2$"
+est_greed_2_negotiations_2_desc:0 "外星帝国£opinion §Y评价§!降低§R-30§!."
+est_greed_2_negotiations_3:0 "无情的谈判者"
+est_greed_2_negotiations_3_name:0 "$est_greed_2_negotiations_3$"
+est_greed_2_negotiations_3_desc:0 "外星帝国£opinion §Y评价§!降低§R-45§!."
+
+#Greed 4, Extortion
+policy_est_greed_4_extortion:0 "勒索"
+policy_est_greed_4_extortion_desc:0 "$tr_est_greed_2_delayed$"
+est_greed_4_extortion_0:0 "不勒索"
+est_greed_4_extortion_0_name:0 "$est_greed_4_extortion_0$"
+est_greed_4_extortion_0_desc:0 ""
+est_greed_4_extortion_1:0 "轻度勒索"
+est_greed_4_extortion_1_name:0 "$est_greed_4_extortion_1$"
+est_greed_4_extortion_1_desc:0 ""
+est_greed_4_extortion_2:0 "中度勒索"
+est_greed_4_extortion_2_name:0 "$est_greed_4_extortion_2$"
+est_greed_4_extortion_2_desc:0 ""
+est_greed_4_extortion_3:0 "重度勒索"
+est_greed_4_extortion_3_name:0 "$est_greed_4_extortion_3$"
+est_greed_4_extortion_3_desc:0 ""
+
+#Fury Traditions, Fury Level.
+policy_est_fury:0 "$tradition_est_fury$"
+policy_est_fury_desc:0 "$tradition_est_fury_desc$"
+est_fury_0:0 "暴风雨前的平静"
+est_fury_0_name:0 "$est_fury_0$"
+est_fury_0_desc:0 "余火在我们的头脑中诞生了。现在它仍然虚弱。"
+est_fury_policy_tooltip_0:0 "只能切换到$est_fury_1_name$政策。"
+est_fury_1:0 "怒气上涌"
+est_fury_1_name:0 "$est_fury_1$"
+est_fury_1_desc:0 "我们现在能感觉到火焰。它驱使我们去毁灭，去杀戮。"
+est_fury_policy_tooltip_1:0 "外星帝国£opinion §Y评价§!降低§R-10§!\n\n只能切换到$est_fury_0_name$和$est_fury_2_name$政策。必须已经解锁至少§Y1§!个§Y暴怒§!传统。"
+est_fury_2:0 "绝对恶意"
+est_fury_2_name:0 "$est_fury_2$"
+est_fury_2_desc:0 "熄灭我们自己内心的火焰的唯一方法是摧毁我们遇到的任何事情。这样我们可以缓解痛苦，如果只是暂时的话。"
+est_fury_policy_tooltip_2:0 "外星帝国£opinion §Y评价§!降低§R-25§!\n\n只能切换到$est_fury_1_name$和$est_fury_3_name$政策。必须已经解锁至少§Y2§!个§Y暴怒§!传统。"
+est_fury_3:0 "彻底暴怒"
+est_fury_3_name:0 "$est_fury_3$"
+est_fury_3_desc:0 "我们开始失去控制我们的思想，火焰接管越来越多，驱使我们暴力。"
+est_fury_policy_tooltip_3:0 "外星帝国£opinion §Y评价§!降低§R-45§!\n\n只能切换到$est_fury_2_name$和$est_fury_4_name$政策。必须已经解锁至少§Y3§!个§Y暴怒§!传统。"
+est_fury_4:0 "无尽狂怒"
+est_fury_4_name:0 "$est_fury_4$"
+est_fury_4_desc:0 "曾经的一缕火焰如今已变为炼狱，无论我们摧毁和杀死多少，我们都无法阻止这种痛苦。"
+est_fury_policy_tooltip_4:0 "外星帝国£opinion §Y评价§!降低§R-70§!\n\n只能切换到$est_fury_3_name$ 政策。必须已经解锁至少§Y4§!个§Y暴怒§!传统。"
+est_fury_5:0 "永恒怒火"
+est_fury_5_name:0 "$est_fury_5$"
+est_fury_5_desc:0 "释放自我的唯一方法就是放手。让火焰燃尽我们的思想。这样我们终于可以休息了。"
+est_fury_policy_tooltip_5:0 "外星帝国£opinion §Y评价§!降低§R-100§!\n\n只能切换到$est_fury_4_name$政策。必须已经解锁至少§Y5§!个§Y暴怒§!传统。\n采用这条政策后永远无法关闭。"
+
+#Fury 5, Ravage.
+policy_est_fury_5_ravage:0 "摧毁"
+policy_est_fury_5_ravage_desc:0 "$r_est_fury_5_delayed$"
+est_fury_5_ravage_on:0 "摧毁"
+est_fury_5_ravage_on_name:0 "$est_fury_5_ravage_on$"
+est_fury_5_ravage_on_desc:0 "当我们无法把我们的愤怒发泄在敌人的活着的灵魂上时，我们只能通过摧毁他们所建造的东西来表达愤怒。"
+est_fury_5_ravage_off:0 "禁止毁坏"
+est_fury_5_ravage_off_name:0 "$est_fury_5_ravage_off$"
+est_fury_5_ravage_off_desc:0 "虽然很困难，我们也许能够克制我们自己，以免对我们入侵的星球造成很大的伤害。"
+
+#Piracy 2, Raiding Targets.
+policy_est_piracy_raiding:0 "抢劫目标"
+policy_est_piracy_raiding_desc:0 "我们的邻居控制着我们可以利用的资源。我们可以组织劫掠到他们的领土，但这会激怒目标。我们需要非常仔细地选择我们抢劫哪个邻居，哪些不突袭。"
+est_piracy_raiding_none:0 "禁止抢劫"
+est_piracy_raiding_none_name:0 "禁止抢劫"
+est_piracy_raiding_none_desc:0 "我们不会抢劫我们的邻居。"
+est_piracy_raiding_weaker:0 "弱小的邻居"
+est_piracy_raiding_weaker_name:0 "抢劫弱小的邻居"
+est_piracy_raiding_weaker_desc:0 "我们只会抢劫那些比我们弱的邻居。"
+est_piracy_raiding_disliked:0 "讨厌的邻居"
+est_piracy_raiding_disliked_name:0 "抢劫讨厌的邻居"
+est_piracy_raiding_disliked_desc:0 "我们只会对那些对我们有负面看法的邻居进行抢劫。"
+est_piracy_raiding_weaker_n_disliked:0 "弱小又讨厌的邻居"
+est_piracy_raiding_weaker_n_disliked_name:0 "抢劫弱小又讨厌的邻居"
+est_piracy_raiding_weaker_n_disliked_desc:0 "我们只会对那些对我们有负面意见、而且比我们弱的邻国进行抢劫。"
+est_piracy_raiding_insulted:0 "侮辱过的邻居"
+est_piracy_raiding_insulted_name:0 "抢劫侮辱过的邻居"
+est_piracy_raiding_insulted_desc:0 "我们将袭击那些我们最近侮辱的邻居。"
+est_piracy_raiding_rivals:0 "宿敌邻居"
+est_piracy_raiding_rivals_name:0 "抢劫宿敌邻居"
+est_piracy_raiding_rivals_desc:0 "我们将只袭击那些和我们是宿敌的邻居。"
+est_piracy_raiding_full:0 "所有邻居"
+est_piracy_raiding_full_name:0 "抢劫所有邻居"
+est_piracy_raiding_full_desc:0 "我们将抢劫我们所有的邻居。"
+
+####################################
+# Events
+####################################
+
+#Aesthetics 2: Guild of Artists.
+est_aesthetics_2.name:0 "艺术家协会"
+est_aesthetics_2.desc:0 "我们的艺术家们度过了成功的一年，他们的头脑充满了灵感。我们应该怎样利用他们的技术？"
+est_aesthetics_5_option_1:0 "书写英雄诗歌"
+est_aesthetics_5_option_2:0 "出版帝国史诗"
+est_aesthetics_5_option_3:0 "组织银河展览会"
+est_aesthetics_5_option_3_tooltip:0 "外星帝国£opinion §Y评价§!在§Y10§!年内上升§G+20§!。"
+est_aesthetics_5_option_4:0 "向大使们献戏"
+est_aesthetics_5_option_5:0 "在星球上组织节日"
+est_aesthetics_5_option_6:0 "宣布庆祝年"
+est_aesthetics_5_option_7:0 "隆重演出"
+est_aesthetics_5_option_8:0 "谱写帝国交响曲"
+est_aesthetics_5_option_9:0 "出版诗集"
+est_aesthetics_5_option_10:0 "编写当代戏剧"
+est_aesthetics_5_option_11:0 "写抗战歌谣"
+est_aesthetics_5_option_12:0 "设计富丽堂皇的装饰"
+est_aesthetics_5_option_13:0 "组织银河之旅"
+est_aesthetics_5_option_14:0 "发行小说集"
+est_aesthetics_5_option_15:0 "绘画当代画"
+est_aesthetics_5_option_16:0 "绘画历史场景"
+est_aesthetics_5_option_17:0 "设计公共雕塑"
+est_aesthetics_5_option_18:0 "设计新式公共建筑"
+est_aesthetics_5_option_19:0 "创造新的视觉娱乐"
+est_aesthetics_5_option_20:0 "宣布一场文化革命"
+est_aesthetics_5_option_21:0 "画插画合集"
+est_aesthetics_5_option_22:0 "装饰皇家公园"
+est_aesthetics_5_option_23:0 "在星球上组织演出"
+est_aesthetics_5_option_24:0 "组织一次盛大的旅行"
+est_aesthetics_5_option_25:0 "写帝国国歌"
+est_aesthetics_5_option_26:0 "写历史史诗"
+est_aesthetics_5_option_27:0 "雇用新学徒"
+est_aesthetics_5_option_28:0 "设计军队制服"
+est_aesthetics_5_option_29:0 "设计互动娱乐综合设施"
+est_aesthetics_5_option_30:0 "写当代小说"
+est_aesthetics_5_option_31:0 "设计友谊纪念碑"
+
+#Archivist Adopt: Select Specialization.
+est_archivist_adopt.name:0 "选择专业化研究领域"
+est_archivist_adopt.desc:0 "我们应该专攻什么研究领域？"
+est_archivist_adopt.option.particles:0 "粒子物理"
+est_archivist_adopt.option.computing:0 "计算机"
+est_archivist_adopt.option.field_manipulation:0 "力场操控"
+est_archivist_adopt.option.voidcraft:0 "太空技术"
+est_archivist_adopt.option.biology:0 "生物"
+est_archivist_adopt.option.statecraft:0 "政治学"
+est_archivist_adopt.option.new_worlds:0 "新世界"
+est_archivist_adopt.option.military_theory:0 "军事理论"
+est_archivist_adopt.option.materials:0 "材料"
+est_archivist_adopt.option.industry:0 "工业"
+est_archivist_adopt.option.rocketry:0 "火箭"
+ 
+#Chivalry Finish: Select Ruler Virtue.
+est_chivalry_finish.name:0 "一个统治者的美德"
+est_chivalry_finish.desc:0 "我们的帝国有了一个新的统治者。按照习惯，新统治者必须在他们的统治期间选择一种美德予以强调。"
+est_chivalty_finish.option.courage:0 "勇气的美德"
+est_chivalty_finish.option.charity:0 "仁慈的美德"
+est_chivalty_finish.option.humility:0 "谦逊的美德"
+est_chivalty_finish_humility_tooltip:0 "外星帝国£opinion §Y评价§!增加§G+20§!."
+est_chivalty_finish.option.duty:0 "责任的美德"
+est_chivalty_finish.option.kindness:0 "善良的美德"
+est_chivalty_finish.option.patience:0 "耐心的美德"
+est_chivalty_finish.option.moderation:0 "节制的美德"
+est_chivalty_finish.option.diligence:0 "勤奋的美德"
+
+#Greed 5: Select Faction to Bribe.
+est_event_greed_5.name:0 "贿赂派系"
+est_event_greed_5.desc:0 "我们帝国各派系的领导都是贪婪和易受贿赂的。我们不应该让政策去适应派系成员的要求，而应该向该派系的有影响力的人送一份\"礼物\"。"
+est_event_greed_5.option.bribe:0 "贿赂派系"
+est_event_greed_5.option.none:0 "避免贿赂派系"
+ 
+#Faith Finish: Select an Ethic.
+est_faith_finish.name:0 "选择道路"
+est_faith_finish.desc:0 "我们必须选择我们在银河系真正的价值是什么？"
+est_faith_finish.option.authoritarian:0 "威权主义思潮"
+est_faith_finish_authoritarian_tooltip:0 "§Y威权主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.egalitarian:0 "平等主义思潮"
+est_faith_finish_egalitarian_tooltip:0 "§Y平等主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.materialist:0 "唯物主义思潮"
+est_faith_finish_materialist_tooltip:0 "§Y唯物主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.spiritualist:0 "唯心主义思潮"
+est_faith_finish_spiritualist_tooltip:0 "§Y唯心主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.militarist:0 "军国主义思潮"
+est_faith_finish_militarist_tooltip:0 "§Y军国主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.pacifist:0 "和平主义思潮"
+est_faith_finish_pacifist_tooltip:0 "§Y和平主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.xenophile:0 "亲外主义思潮"
+est_faith_finish_xenophile_tooltip:0 "§Y亲外主义思潮吸引力§! 增加 §G+50%§!."
+est_faith_finish.option.xenophobe:0 "排外主义思潮"
+est_faith_finish_xenophobe_tooltip:0 "§Y排外主义思潮吸引力§! 增加 §G+50%§!."
+
+#Collectivism/Individualism Adopt: Select Tradition Path.
+est_coll_indv.adopt.name:0 "我们应该走哪条路？"
+est_coll_indv.adopt.desc:0 "我们必须做出选择。我们应该提升个人的技能和才能，还是能够共同创造更大的整体？"
+est_coll_indv.adopt.collectivism:0 "$tr_est_collectivism_adopt$"
+est_coll_indv.adopt.individualism:0 "$tr_est_individualism_adopt$"
+
+####################################
+# Jobs
+####################################
+#Proselytism
+job_est_inquisitor:0 "审判官"
+job_est_inquisitor_plural:0 "审判官"
+job_est_inquisitor_desc:1 Our inquisitor searchs for individuals with views deviating from the true path. Those found are destroyed."""""
+job_est_inquisitor_effect_desc:0 "£job_est_inquisitor£ $job_est_inquisitor_plural$ 减少 §Y犯罪率§! 同时增加 §Y政府思潮吸引力§!, 同时产出少量凝聚力."
+mod_job_est_inquisitor_add:0 "$job_est_inquisitor$ 职位"
+mod_job_est_inquisitor_per_pop:0 "§G+1§! $job_est_inquisitor$ 职位每 $VALUE$ 人口"
+mod_job_est_inquisitor_per_pop_short:0 "\n§G+1§! £mod_job_est_inquisitor_add£ 每 $VALUE$ £pop£"
+
+#Mechanicum
+job_est_engineer:0 "大师级工程师"
+job_est_engineer_plural:0 "大师级工程师"
+job_est_engineer_desc:1 "我们的大师级工程师能够用机械完成其他人只能简单地称之为魔术的事情。"
+job_est_engineer_effect_desc:0 "£job_est_engineer£ $job_est_engineer_plural$ 产出 £engineering£ §Y工程研究§! 和小量的 £trade_value£ §Y贸易价值§!."
+mod_job_est_engineer_add:0 "$job_est_engineer$ 职位"
+mod_job_est_engineer_per_pop:0 "§G+1§! $job_est_engineer$ 职位每 $VALUE$ 人口"
+mod_job_est_engineer_per_pop_short:0 "\n§G+1§! £mod_job_est_engineer_add£ 每 $VALUE$ £pop£"
+
+#Mystery
+job_est_shadow_administrator:0 "幕后管理者"
+job_est_shadow_administrator_plural:0 "幕后管理者"
+job_est_shadow_administrator_desc:1 "我们的社会被秘密的幕布所遮掩着，几乎没有人知道是谁真正掌握着权力。这使得可以更容易去控制人口。"
+job_est_shadow_administrator_effect_desc:0 "£job_est_shadow_administrator£ $job_est_shadow_administrator_plural$ produce £unity£ §YUnity§!, 增加行星 £stability  §YStability§!, and reduce planet £crime  §YCrime§!."
+mod_job_est_shadow_administrator_add:0 "$job_est_shadow_administrator$ 职位"
+mod_job_est_shadow_administrator_per_pop:0 "§G+1§! $job_est_shadow_administrator$ 职位每 $VALUE$ 人口"
+mod_job_est_shadow_administrator_per_pop_short:0 "\n§G+1§! £mod_job_est_shadow_administrator_add£ 每 $VALUE$ £pop£"
+
+####################################
+# Resources
+####################################
+sr_est_rare_minerals:0 "稀有矿物"
+sr_est_rare_minerals_desc:0 "某些稀有矿物能在许多星球的地表下找到。对于大多数这些贵金属来说，它们的用途不尽相同。"’
+
+####################################
+# Observation Missions
+####################################
+
+#Archivist 1: Document Civilization
+mission_est_archivist_1_document_civilization_1:0 "纪录文明"
+mission_est_archivist_1_document_civilization_1_desc:0 "$tr_est_archivist_1_delayed$"
+mission_est_archivist_1_document_civilization_2:0 "$mission_est_archivist_1_document_civilization_1$"
+mission_est_archivist_1_document_civilization_2_desc:0 "$mission_est_archivist_1_document_civilization_1_desc$"
+mission_est_archivist_1_document_civilization_3:0 "$mission_est_archivist_1_document_civilization_1$"
+mission_est_archivist_1_document_civilization_3_desc:0 "$mission_est_archivist_1_document_civilization_1_desc$"
+
+####################################
+# Technologies
+####################################
+#Industry 5
+tech_est_industry_2_1:0 "星球扫描器"
+tech_est_industry_2_1_desc:0 "专业扫描仪，使我们能够更好地定位矿藏地下。"
+tech_est_industry_2_2:0 "标准化生产线"
+tech_est_industry_2_2_desc:0 "通过标准化我们帝国的生产线，我们可以大大简化他们的生产流程。这使优化我们的生产流程变得更容易。"
+tech_est_industry_2_3:0 "改进的采矿站"
+tech_est_industry_2_3_desc:0 "自从我们建造了我们的第一个轨道式采矿站以来，它们的开发并不多。轨道采矿的进步使得用户可以改进旧设计，创造更加高效的站点，可以以更低的成本建造。"
+tech_est_industry_2_4:0 "永恒之火"
+tech_est_industry_2_4_desc:0 "自从建造以来，我们的高炉里就有一个永不熄灭的大火。包含在里面的火焰永远不会死亡。"
+tech_est_industry_2_4_effect_title:0 "£building §Y$building_est_industry_3_blast_furnace$§!产出§G+2§! £minerals §Y矿物§!."
+tech_est_industry_2_4_effect_desc:0 ""
+tech_est_industry_2_5:0 "贵金属"
+tech_est_industry_2_5_desc:0 "虽然没有实用功能，但某些贵金属仍因其美观而备受青睐。"
+
+#Industry Finisher
+tech_est_industry_finish:0 "开挖稀有矿产"
+tech_est_industry_finish_desc:0 "为了找到最宝贵的矿物，我们必须在行星地表挖得更深。新的挖掘技术使我们能够深入挖掘，而一旦挖得足够深，就可以将矿石定位。"
+
+####################################
+# Casus Bellis
+####################################
+casus_belli_est_cb_despoliation:0 "$casus_belli_cb_despoliation$"
+
+####################################
+# Wargoals
+####################################
+war_goal_est_wg_plunder:0 "$war_goal_wg_plunder$"
+war_goal_est_wg_plunder_desc:0 "$war_goal_wg_plunder_desc$"
+wg_plunder_accept_them:0 "$wg_plunder_accept_them$"
+wg_plunder_accept_us_1:0 "$wg_plunder_accept_us_1$"
+wg_plunder_accept_us_2:0 "$wg_plunder_accept_us_2$"
+wg_plunder_accept_us_3:0 "$wg_plunder_accept_us_3$"
+wg_plunder_accept_us_4:0 "$wg_plunder_accept_us_4$"
+wg_plunder_accept_us_5:0 "$wg_plunder_accept_us_5$"
+
+####################################
+# Depositis
+####################################
+d_est_spaceborn_4_sun:0 "$tr_est_spaceborn_4$"
+
+####################################
+# Missing Game Localisations (Effects/Scopes)
+####################################
+any_war_participant_trigger:0 "任何战争参与国"
+effect_every_neighbor_country:0 "每一个邻国"
+effect_every_combatant_fleet:0 "每一个战斗舰队"
+
+####################################
+# Missing Game Localisations (Modifiers)
+####################################
+#In use?
+planets_energy_produces_mult:0 "£energy  §Y能量币§!"
+planets_food_produces_mult:0 "£food  §Y食物§!"
+planets_minerals_produces_mult:0 "£minerals  §Y矿物§!"
+
+mod_shipclass_mining_station_build_cost_mult:0 "采矿空间站建造花费"
+mod_planet_miners_rare_crystals_produces_mult:0 "£rare_crystals  从晶体矿工产出的稀有晶体"
+mod_planet_metallurgists_energy_produces_add:0 "£energy  从 £job_foundry£ 冶金学家得到的能量"!

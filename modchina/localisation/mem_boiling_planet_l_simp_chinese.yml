@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ 
+ boiling_planet_category:0 "罕见的构造"
+ boiling_planet_category_desc:0 "行星表面的构造活动与模拟不匹配，对于同类行星来说非常不典型。"
+ mem_boiling.2.title:0 "失败"
+ mem_boiling.2.desc:0 "尽管他们尽了最大的努力,[Root.GetName]的船员没能在[From.From.GetName]的地表发现任何异常现象。"
+ mem_boiling.2.option:0 "令人失望。"
+ mem_boiling.1.title:0 "沸腾的星球"
+ mem_boiling.1.desc:0 "深度探索显示[From.From.GetName]不像我们所设想的那样是“冻结”的。 我们曾认为它的外壳实际上只是覆盖广阔海洋的一层相对较薄的冰层。事实上，它的大部分质量都是由水组成的，其中有一个高度活跃的过热核心，形成了一个强大的地热加热器。水在核心附近沸腾，但当它上升到地表时冷却并冷冻成几公里厚的冰层。"
+ 
+ 
+ 

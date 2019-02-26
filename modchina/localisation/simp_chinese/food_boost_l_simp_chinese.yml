@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ d_food_boost_deposit:0 "鼓励人口增长"
+ d_food_boost_deposit_desc:0 "这个星球有一项食物分配政策来鼓励人口增长。"
+ decision_end_planet_food_boost_perm:0 "停止鼓励人口增长"
+ decision_end_planet_food_boost_perm_effects_short:0 "结束免费食物分配政策，使人口增长恢复到正常水平。"
+ decision_end_planet_food_boost_perm_desc:0 "在一段时间里，免费分发食物不再有利，这是其中之一。"
+ planet_food_boost_perm:0 "永久鼓励人口增长"
+ planet_food_boost_perm_desc:0 "在这个星球上，政府出资提供了大量免费的食物。"
+ decision_planet_food_boost_perm:0 "永久鼓励人口增长"
+ decision_planet_food_boost_perm_desc:0 "无限期的免费分发食物。"
+ 

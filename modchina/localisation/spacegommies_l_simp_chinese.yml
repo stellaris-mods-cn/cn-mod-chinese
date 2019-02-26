@@ -1,0 +1,25 @@
+﻿  l_simp_chinese:
+
+ FLAG_CATEGORY_gommunism:0 "社会主义"
+
+####################################
+# Civics
+####################################
+
+ civic_fully_automated:0 "社会自动化"
+ civic_fully_automated_desc:0 "我们社会的工业体系完全实现了自动化控制。"
+ civic_luxury_communism:0 "社会主义高级阶段"
+ civic_luxury_communism_desc:0 "我们的社会已经达到了社会生产的“后稀缺”阶段，人民生活水平高度提高，并且致力于提高生产效率而非提高产量。"
+ civic_workers_councils:0 "工人委员会"
+ civic_workers_councils_desc:0 "我们的人民已经在基层实现了生产及剩余财富的自主可控，因此我们必须在社会生活的方方面面实行人民民主，以便实现社会财富的不断增长。"
+ civic_syndicalist_unions:0 "工会联盟"
+ civic_syndicalist_unions_desc:0 "在政治层面上高度左倾的工会集团完全掌控着政府机关和社会的各行各业，利用组织内部高度严格的决策机制，我们已经实现了劳动者，生产资料和政府机关的有机整合。"
+ civic_worker_direction:0 "工人基层自治"
+ civic_worker_direction_desc:0 "通过建立工人合作社和生产资料民主联产承包制，企业的所有权100%属于人民，因此可以自由分配剩余价值和劳动力，通过这种生产资料的动态分配，人民可以在生产中最大限制的发挥自己的价值。"
+ #civic_abolished_value:0 "Abolished Value Form"
+#civic_abolished_value_desc: 0 ""
+ civic_abolished_property:0 "废除私有制"
+ civic_abolished_property_desc:0 "通过占有土地、生产资料和资本获得剩余价值的私有制已被废除，所有的社会财富必须通过按劳分配的分配制度进行分配。"
+ civic_horizontal_society:0 "无阶级社会"
+ civic_horizontal_society_desc:0 "社会的阶级差异已被完全消灭，利用先进的通讯技术和定期制定的生产计划日程，我们社会的一切政策都可以在最基本最细化的领域完成制定。"
+

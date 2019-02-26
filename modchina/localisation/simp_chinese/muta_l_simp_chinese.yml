@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+GENEGUN:1 "生命螺旋"
+GENEGUN_DESC:0 "生理上同化目标行星上的民众。"
+tech_pk_muta:0 "大型基因修饰器"
+tech_pk_muta_desc:0 "替换目标基因。"
+FLEETORDER_DESTROY_PLANET_WITH_GENEGUN:0 "正在准备对$PLANET|Y$上的民众进行修饰"
+MESSAGE_DESC_FOR_GENEGUN:0 "被基因改造"
+mcpk.1301.name:0 "基因改造完成"
+mcpk.1301.desc:0 "对于[From.GetName]的改造工程已经结束。"
+mcpk.1301.tooltip:0 "基因改造完成"
+GENEGUN_ACTION:0 "修饰"

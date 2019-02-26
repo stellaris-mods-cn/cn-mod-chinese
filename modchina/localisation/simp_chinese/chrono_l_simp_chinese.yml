@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+tech_pk_chrono:0 "时空畸变"
+tech_pk_chrono_desc:0 "物理学的发展使我们对时空连续体的了解更进一步，这使得大规模地将时间暂缓成为了可能。"
+FLEETORDER_DESTROY_PLANET_WITH_CHRONOCRISIS:0 "正在准备调时$PLANET|Y$"
+MESSAGE_DESC_FOR_CHRONOCRISIS: "被尘封" 
+chrcri:0 "时空畸变" 
+chrcri_desc:0 "这颗行星正遭受一场时空浩劫..."
+CHRONOCRISIS:0 "凝滞时计"
+CHRONOCRISIS_DESC:0 "切断时空连续体，在其复原之前能大幅暂缓影响范围空间区域内的时间。"
+CHRONOCRISIS_ACTION:0 "凝滞"
+mcpk.1401.name:0 "[From.GetName]时间减缓"
+mcpk.1401.desc:0 "在十年内，[From.GetName]将陷入时空紊乱之中，对其机能的正常运作造成了无法挽回的破坏。"
+mcpk.1401.tooltip:0 "时间减缓" 

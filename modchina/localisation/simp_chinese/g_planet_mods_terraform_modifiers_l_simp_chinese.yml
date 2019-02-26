@@ -1,0 +1,27 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Terraform Modifiers
+ ###################################################
+ 
+ # 1 t
+ Extinct_Species:0 "灭绝的物种"
+ Extinct_Species_desc:0 "多亏了我们的科学家，如今环境改造后的星球已经是我们家园中灭绝物种的新家了。"
+ 
+ # 2 t
+ Terraform_Result_Better:0 "星球改造结果：§L高于预期§!"
+ Terraform_Result_Better_desc:0 "这个星球的环境改造进程比预期的结果还要好！"
+ 
+ # 3 t
+ Terraform_Result_Unbelievable:0 "星球改造结果：§T难以置信§!"
+ Terraform_Result_Unbelievable_desc:0 "这个星球的环境改造结果好到令人难以相信！"
+
+ # 4 t
+ Terraform_Result_Perfect:0 "星球改造结果：§Y完美§!"
+ Terraform_Result_Perfect_desc:0 "这个星球的环境改造得到了一个完美的结果！"
+
+ gpm_terraforming_world_engineering:0 "世界工程"
+ gpm_terraforming_world_engineering_desc:0 "这个世界的地形已经变得完美。"
+
+ gpm_terraforming_gaia_engineering:0 "盖亚完美"
+ gpm_terraforming_gaia_engineering_desc:0 "这个世界已变得完美无缺。"

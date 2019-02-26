@@ -1,0 +1,96 @@
+﻿l_simp_chinese:
+
+
+###Resources###
+sr_tachyon:0 "速子"
+sr_tachyon_desc:0 "奇异粒子，它们只存在于超光速。可以用来增加超光速速度。"
+
+###
+
+sr_tiberium_green:0 "绿色泰伯利亚"
+sr_tiberium_green_desc:0 "一种稀有而奇异的水晶，泰伯利亚火山从它所接触到的任何东西中吸收矿物质。对各种生命形式都极其危险。"
+
+sr_tiberium_blue:0 "蓝色泰伯利亚"
+sr_tiberium_blue_desc:0 "如果有足够的时间，泰伯利亚(Tiberium Riparius)最终会变成蓝色的泰矿(Tiberium Vinifera)晶体。这种类型的泰矿的矿物密度要比泰矿中常见的里帕里斯菌株高得多。"
+
+sr_tiberium_liquid:0 "液态泰伯利亚"
+sr_tiberium_liquid_desc:0 "一种极不稳定的泰矿，具有巨大的能源潜力。为了避免发生行星灾难，在处理这种不稳定的泰矿时，必须采取一切预防措施。"
+
+###
+
+sr_iron:0 "铁"
+sr_iron_desc:0 "Placeholder description."
+
+sr_copper:0 "铜"
+sr_copper_desc:0 "Placeholder description."
+
+sr_aluminum:0 "铝"
+sr_aluminum_desc:0 "Placeholder description."
+
+sr_cobalt:0 "碳"
+sr_cobalt_desc:0 "Placeholder description."
+
+sr_zinc:0 "锌"
+sr_zinc_desc:0 "Placeholder description."
+
+sr_silver:0 "银"
+sr_silver_desc:0 "Placeholder description."
+
+sr_gold:0 "金"
+sr_gold_desc:0 "Placeholder description."
+
+sr_platinum:0 "铂"
+sr_platinum_desc:0 "Placeholder description."
+
+sr_titanium:0 "钛"
+sr_titanium_desc:0 "Placeholder description."
+
+sr_tungsten:0 "钨"
+sr_tungsten_desc:0 "Placeholder description."
+
+sr_helium:0 "氦-3"
+sr_helium_desc:0 "Placeholder description."
+
+sr_plutonium:0 "钚"
+sr_plutonium_desc:0 "Placeholder description."
+
+sr_uranium:0 "铀"
+sr_uranium_desc:0 "Placeholder description."
+
+sr_thorium:0 "钍"
+sr_thorium_desc:0 "Placeholder description."
+
+sr_antimatter:0 "反物质"
+sr_antimatter_desc:0 "Placeholder description."
+
+###Technologies###
+tech_tachyon:0 "速子粒子探测"
+tech_tachyon_desc:0 "子空间传感器技术的进步，使其能够检测到速子."
+
+tech_tiberium_green:0 "泰伯利亚精炼"
+tech_tiberium_green_desc:0 "矿物提取技术的进步，使人们可以收获和加工“利帕拉斯”(Tiberium)菌株，通常被称为“绿色泰矿”(Green Tiberium)。"
+
+tech_tiberium_blue:0 "先进的泰伯利亚精炼"
+tech_tiberium_blue_desc:0 "矿物提取技术的进一步发展，使人们可以收获和加工泰矿的“Vinifera”菌株，通常被称为“蓝泰矿”。"
+
+tech_tiberium_liquid:0 "液态泰伯利亚提取"
+tech_tiberium_liquid_desc:0 "我们对泰矿的理解已经达到了我们现在可以提取和处理液态泰矿以满足日益增长的能源需求的地步。"
+
+tech_intrasystem_mining:0 "内部系统挖掘"
+tech_intrasystem_mining_desc:0 "具有成本效益的从恒星中获取材料的能力。"
+
+tech_planetoid_mining1:0 "小行星采矿"
+tech_planetoid_mining1_desc:0 "Placeholder description."
+
+tech_planetoid_mining2:0 "改进的小行星采矿"
+tech_planetoid_mining2_desc:0 "Placeholder description."
+
+tech_planetoid_mining3:0 "先进的小行星采矿"
+tech_planetoid_mining3_desc:0 "Placeholder description."
+
+###Planets###
+pc_tiberium:0 "泰伯利亚星球"
+pc_tiberium_desc:0 "一个完全被泰矿所占领的世界，完全不适合所有非泰矿的生命形式。这个世界上巨大的矿产资源可以利用适当的技术加以利用。"
+
+pc_dwarf:0 "矮行星"
+pc_dwarf_desc:0 "矮行星有足够的质量把自己拉成一个球状的形状，但又大又轻，足以使它们成为采矿的理想对象。"

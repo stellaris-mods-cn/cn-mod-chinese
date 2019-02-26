@@ -1,0 +1,331 @@
+﻿l_simp_chinese:
+
+### SHIP COMPONENTS TEXTS
+
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§H解锁组件:§! 天堂装甲"
+TECH_UNLOCK_ORIGIN_ARMOR_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
+
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§H解锁组件:§! 六翼天使镀层"
+TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "这些钢板是由不知名的材料制成的，这些材料不仅非常耐用，而且能够重塑和再生，以修复对船体造成的任何损坏。"
+
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§H解锁组件:§! 神圣之盾"
+TECH_UNLOCK_ORIGIN_SHIELD_DESC: "这些炽热的护盾可能是星系所见过的最强能量护盾技术。"
+
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§H解锁组件:§! 光物质推进器"
+TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+      
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§H解锁组件:§! 光物质反应堆"
+TECH_UNLOCK_ORIGIN_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+TECH_UNLOCK_ORIGIN_SENSORS_TITLE: "§H解锁组件:§! 天督传感器"
+TECH_UNLOCK_ORIGIN_SENSORS_DESC: "这些高度先进的传感器可以很容易地穿透敌人的能量读数，并实时地从许多系统报告它们的确切位置。"
+
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§H解锁组件:§! 自主式战斗分析仪"
+TECH_UNLOCK_ORIGIN_CCOM_DESC: "自给式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。"
+
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§H解锁组件:§! 永恒星辰引擎"
+TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "接受光物质。拥抱永恒。群星尽在我们的掌握之中。"
+
+ACOT_LASER_OE: "Ω激光炮"
+ACOT_LASER_OE_DESC: "Ω激光炮利用光物质能量来切割船舶的板材，就像切割黄油一样。它远远优于任何其他已知的激光武器。"
+
+ACOT_PLASMA_OE: "光物质等离子体炮"
+ACOT_PLASMA_OE_DESC: "光物质可以被改造成一种非常强大的类似腐蚀的状态，它可以把其他物质整个吃掉，从而制造出一种极其致命的反舰武器。"
+
+SMALL_ACOT_DISRUPTOR_OE: "光之射线"
+SMALL_ACOT_DISRUPTOR_OE_DESC: "这种先进的干扰武器将光物质物质修改成一种高频波，在分子水平上解构物质，消灭敌人舰船的存在，绕过它们隐藏在身后的所有无用盔甲和盾牌。愚蠢的金属盒子里。"
+
+MEDIUM_ACOT_DISRUPTOR_OE: "光之射线"
+MEDIUM_ACOT_DISRUPTOR_OE_DESC: "这种先进的干扰武器将光物质物质修改成一种高频波，在分子水平上解构物质，消灭敌人舰船的存在，绕过它们隐藏在身后的所有无用盔甲和盾牌。愚蠢的金属盒子里。"
+
+ACOT_DISRUPTOR_OE: "光之射线"
+ACOT_DISRUPTOR_OE_DESC: "这种先进的干扰武器将光物质物质修改成一种高频波，在分子水平上解构物质，消灭敌人舰船的存在，绕过它们隐藏在身后的所有无用盔甲和盾牌。愚蠢的金属盒子里。"
+
+ACOT_OMNI_PLASMA_OE: "增压光能量加农炮"
+ACOT_OMNI_PLASMA_OE_DESC: "基于与先前设计相同的概念，武器能够在更长的距离上发射更致命的光能量球。"
+
+ACOT_PARTICLE_LANCE_OE: "灼热棱镜光矛"
+ACOT_PARTICLE_LANCE_OE_DESC: "这种武器通过棱镜和光晶体发射连续不断的光能流来摧毁敌人的阵形。"
+
+ACOT_POINT_DEFENSE_OE: "光矛点防御系统"
+ACOT_POINT_DEFENSE_OE_DESC: "这种可以随意操纵光物质的能力使PDS能够发射相当于微枪能量武器的武器。这种影响对所有目标都是破坏性的，特别是与其他PDS相比。"
+
+ACOT_ARC_EMITTER_OE: "神圣风暴放电器"
+ACOT_ARC_EMITTER_OE_DESC: "神圣风暴放电器用高频固化的光物质劈穿敌舰。"
+
+ACOT_PERDITION_BEAM_OE: "艾莉亚之光"
+ACOT_PERDITION_BEAM_OE_DESC: "艾莉亚之光是一种纯粹出于愤怒而制造的武器，它将操作者杀死敌人的意志注入到已经具有破坏性的武器中，使其强度变得更大。Rip和眼泪。"
+
+ACOT_AUTOCANNON_OE: "光脉冲炮"
+ACOT_AUTOCANNON_OE_DESC: "这种近程反盾自动武器采用特殊的通信技术，装载有凝固的光物质罐，一旦接触就会爆炸，具有极高的杀伤力和动能。"
+
+ACOT_MASS_DRIVER_OE: "碎星炮"
+ACOT_MASS_DRIVER_OE_DESC: "碎星炮进一步增强了日落炮动能的力量，进一步增加了光物质和操作者的心灵聚焦。"
+
+ACOT_FLAK_CANNON_OE: "Ω动能防御系统"
+ACOT_FLAK_CANNON_OE_DESC: "Ω级KDS是前一种模型的改进版，具有任何一种模型都无法比拟的更强大的防御机制。"
+
+ACOT_ARTILLERY_OE: "光之界限超威力火炮"
+ACOT_ARTILLERY_OE_DESC: "超威力火炮火炮发射一种更强的超加速光物质炮弹，使敌舰在不损失密度和力量的情况下，在大范围内进行短程作战。"
+
+ACOT_MASS_ACCELERATOR_OE: "闯入者空间区扭炮"
+ACOT_MASS_ACCELERATOR_OE_DESC: "闯入者空间区扭炮发射一个巨大的弹头，包裹着光物质能量，通过微虫洞扭曲自己进入敌舰，绕过行进力，同时仍然保持全部的动能、速度和速度。我们的飞船在爆炸的时候甚至可以看向别处，因为酷哥们不会看爆炸。"
+
+ACOT_MISSILE_OE: "双重光明导弹"
+ACOT_MISSILE_OE_DESC: "“光明使者”导弹不仅比“星蛇”更具破坏力，而且是成对发射的。这使得它们在火力加倍的情况下更难被击落。"
+
+ACOT_FIGHTERS_HANGAR_OE: "圣骑士拦截机"
+ACOT_FIGHTERS_HANGAR_OE: "最先进的拦截机，胜过所有更糟糕的一代。开始打猎吧。"
+
+ACOT_BOMBERS_HANGAR_OE: "十字军轰炸机"
+ACOT_BOMBERS_HANGAR_OE_DESC: "最先进的轰炸机，胜过所有更糟糕的一代。是时候上演真正的表演了。"
+
+ACOT_GUNSHIP_HANGAR_OE: "暴风炮艇"
+ACOT_GUNSHIP_HANGAR_OE_DESC: "风暴对火焰风暴级炮艇有更好的保护和火力。"
+
+ACOT_ULTIMATE_WEAPON: "神圣审判"
+ACOT_ULTIMATE_WEAPON_DESC: "作为有史以来最强大的武器之一，神圣审判以光物质和灵能的破坏力投射出先祖的终极表现形式"
+
+ACOT_FLAGSHIP_SUPER_WEAPON: "神的干预"
+ACOT_FLAGSHIP_SUPER_WEAPON_DESC: "由六个巨大的方舟电力塔组成，神圣干涉光束比小型主力舰使用的光束更强、更快。"
+
+ACOT_PLANET_KILLER_NANITE: "神的惩罚"
+ACOT_PLANET_KILLER_NANITE_DESC: "你 到此结束。"
+
+ACOT_ARMOR_OE: "天堂装甲"
+ACOT_ARMOR_OE_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
+ACOT_ENIGMATIC_SHIELD_OE: "神圣之盾"
+ACOT_ENIGMATIC_SHIELD_OE_DESC: "这种基于光物质的护盾甚至比星状护盾更坚固，因为护盾是由全矩阵网络本身加强的。"
+
+SMALL_ACOT_ARMOR_OE: "小型天堂装甲"
+SMALL_ACOT_ARMOR_OE_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
+
+MEDIUM_ACOT_ARMOR_OE: "中型天堂装甲"
+MEDIUM_ACOT_ARMOR_OE_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
+
+LARGE_ACOT_ARMOR_OE: "大型天堂装甲"
+LARGE_ACOT_ARMOR_OE_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_OE: "小型神圣之盾"
+SMALL_ACOT_ENIGMATIC_SHIELD_OE_DESC: "这种基于光物质的护盾甚至比星状护盾更坚固，因为护盾是由全矩阵网络本身加强的。"
+
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE: "中型神圣之盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE_DESC: "这种基于光物质的护盾甚至比星状护盾更坚固，因为护盾是由全矩阵网络本身加强的。"
+
+LARGE_ACOT_ENIGMATIC_SHIELD_OE: "大型神圣之盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_OE_DESC: "这种基于光物质的护盾甚至比星状护盾更坚固，因为护盾是由全矩阵网络本身加强的。"
+
+STELLARITE_DRIVE_OE: "永恒恒星引擎"
+STELLARITE_DRIVE_OE_DESC: "拥抱光物质，并在银河系的任何地方旅行。"
+
+SHIP_THRUSTER_OE: "光物质推进器"
+SHIP_THRUSTER_OE_DESC: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+DESTROYER_SHIP_THRUSTER_OE: "光物质推进器"
+DESTROYER_SHIP_THRUSTER_OE_DESC: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+CRUISER_SHIP_THRUSTER_OE: "光物质推进器"
+CRUISER_SHIP_THRUSTER_OE_DESC: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+BATTLESHIP_SHIP_THRUSTER_OE: "光物质推进器"
+BATTLESHIP_SHIP_THRUSTER_OE_DESC: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+TITAN_SHIP_THRUSTER_OE: "光物质推进器"
+TITAN_SHIP_THRUSTER_OE_DESC: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+COLOSSUS_SHIP_THRUSTER_OE: "光物质推进器"
+COLOSSUS_SHIP_THRUSTER_OE_DESC: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+OE_SENSOR_SHIP: "光物质阵列"
+OE_SENSOR_SHIP_DESC: "这种最新的探测系统可以确定船舶在不断膨胀的光物质中通过子空间的运动。任何邪恶都逃不过我们的视线。"
+
+LIGHT_MATTER_REACTOR_OE: "光物质反应堆"
+LIGHT_MATTER_REACTOR_OE_DESC: "由于光物质的巨大功率输出，只需要一种反应堆类型就可以为各种船只提供动力。在大船上布置反应堆比在小船上布置更有利。"
+
+OE_OFFENSIVE_COMBAT_COMPUTER: "进攻性全矩阵分析器 (小型舰船)"
+OE_OFFENSIVE_COMBAT_COMPUTER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER: "平衡性全矩阵分析仪 (小型舰船)"
+OE_BALANCE_COMBAT_COMPUTER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER: "防御性全矩阵分析仪 (小型舰船)"
+OE_DEFENSIVE_COMBAT_COMPUTER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。这种变化适用于防守战术。"
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻性全矩阵分析器 (大型舰船)"
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡性全矩阵分析仪 (大型舰船)"
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御性全矩阵分析仪 (大型舰船)"
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。 这种变化适用于防守战术。"
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻性全矩阵分析器 (泰坦)"
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER_TITAN: "平衡性全矩阵分析仪 (泰坦)"
+OE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御性全矩阵分析仪 (泰坦)"
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。 这种变化适用于防守战术。"
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻性全矩阵分析器 (歌利亚)"
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡性全矩阵分析仪 (歌利亚)"
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御性全矩阵分析仪 (歌利亚)"
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。 这种变化适用于防守战术。"
+
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻性全矩阵分析器 (空间站)"
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。这种变化适用于进攻战术。"
+
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御性全矩阵分析仪 (防御空间站 XBOX One)"
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。 这种变化适用于防守战术。"
+
+ACOT_AFTERBURNERS_OE: "ω加力燃烧器"
+ACOT_AFTERBURNERS_OE_DESC: "在这种情况下，仅靠推进器还不足以使飞船快速前进。ω加力燃烧器可以用来驱动船靠近，这样你就可以用你的剑攻击他们!霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海…"
+
+ACOT_HYPERCHARGED_JUMPER_OE: "ω增压超空间放大器 "
+ACOT_HYPERCHARGED_JUMPER_OE_DESC: "额外的辅助放大器可以安装在跃迁引擎的模块化涡轮机，以提高其性能。这个模型几乎不需要FTL引擎程序的负担。用于执行触觉间谍行动。"
+
+ACOT_REPAIR_COUNTERMEASURES_OE: "ω对抗无人机"
+ACOT_REPAIR_COUNTERMEASURES_OE_DESC: "最成熟的，最耐用的，ω级的是最好的，无阻碍和无维护。他们的贡献将载入我们帝国的档案。"
+
+ACOT_SHIELD_BOOSTER_OE: "光物质超级护盾"
+ACOT_SHIELD_BOOSTER_OE_DESC: "超级强化的护盾使船只的护盾发生器的强度几乎是上一代的两倍。"
+
+ACOT_WEAPONS_CORE_OE: "超聚焦光物质核心"
+ACOT_WEAPONS_CORE_OE_DESC: "超聚焦光物质核心转换来自周围材料的多余能量，以增强舰船的武器系统，使其性能比以前更好。"
+
+ACOT_AURA_TECH_INHIBITOR_OE: "六翼天使网络抑制剂"
+ACOT_AURA_TECH_INHIBITOR_OE_DESC: "这个极其强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。没有人能挑战我们，活着告诉我们这个故事。要么杀，要么被杀，杰克。"
+
+ACOT_AURA_SUPERAURA_OE: "光物质锻造网络"
+ACOT_AURA_SUPERAURA_OE_DESC: "一个由旗舰精心设计的特殊网络，在舰队中所有船只的计算机之间建立起强大的人工连接，将它们整合成一个永恒的模因。所有的模因。所有的传递。"
+
+ACOT_AUX_ENIGMATIC_AI: "全矩阵反生命方程数据库"
+ACOT_AUX_ENIGMATIC_AI_DESC: "这个数据库包含所有关于所有祖先时代设计的所有弱点、缺陷和可利用机制的全部详细信息，可以上传到所有舰艇的武器系统。"
+
+aura_origin: "集中网络"
+friendly_tech_inhibitor_aura: "恶意网络抑制剂"
+hostile_tech_inhibitor_aura: "友好网络放大器"
+
+shipsize_colossus_hull_add: "巨像船体增加"
+
+ORIGIN_PLANET_KILLER_NANITE: "纳米清洁剂"
+ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洁剂是始源帝国可怕的武器，它可以迅速地用纳尼特改造和清洗整个世界。"
+ORIGIN_PLANET_KILLER_NANITE_ACTION: "纳米清洗"
+
+FLEETORDER_DESTROY_PLANET_WITH_ORIGIN_PLANET_KILLER_NANITE: "准备用纳米粒子清洗$PLANET|Y$"
+MESSAGE_DESC_FOR_ORIGIN_PLANET_KILLER_NANITE: "被纳米粒子清除"
+is_nanited: "§R$TRIGGER_FAIL$目标已经是纳米星球"
+
+tech_lightmatter_afterburners: "ω加力燃烧器"
+tech_lightmatter_afterburners_desc: "在这种情况下，仅靠推进器还不足以使飞船快速前进。欧米茄加力燃烧器可以用来驱动船靠近，这样你就可以用你的剑攻击他们!霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海…"
+
+tech_lightmatter_armor: "天堂装甲"
+tech_lightmatter_armor_desc: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
+
+tech_lightmatter_artillery: "光之界限超威力火炮"
+tech_lightmatter_artillery_desc: "超威力火炮火炮发射一种更强的超加速光物质炮弹，使敌舰在不损失密度和力量的情况下，在大范围内进行短程作战。"
+
+tech_lightmatter_aura_energy_drainer: "六翼天使网络抑制剂"
+tech_lightmatter_aura_energy_drainer_desc: "这个极其强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。没有人能挑战我们，活着告诉我们这个故事。要么杀，要么被杀，杰克。"
+
+tech_lightmatter_autocannon: "光脉冲炮"
+tech_lightmatter_autocannon_desc: "这种近程反盾自动武器采用特殊的通信技术，装载有凝固的光物质罐，一旦接触就会爆炸，具有极高的杀伤力和动能。"
+
+tech_lightmatter_lance: "灼热棱镜光矛"
+tech_lightmatter_lance_desc: "这种武器通过棱镜和光晶体发射连续不断的光能流来摧毁敌人的阵形。"
+
+tech_lightmatter_bomber: "十字军轰炸机"
+tech_lightmatter_bomber_desc: "最先进的轰炸机，胜过所有更糟糕的一代。是时候上演真正的表演了。"
+
+tech_lightmatter_disruptor: "光之射线"
+tech_lightmatter_disruptor_desc: "这种先进的干扰武器将光物质物质修改成一种高频波，在分子水平上解构物质，消灭敌人舰船的存在，绕过它们隐藏在身后的所有无用盔甲和盾牌。愚蠢的金属盒子里。"
+
+tech_lightmatter_emitter: "神圣风暴发射器"
+tech_lightmatter_emitter_desc: "神圣风暴放电器用高频固化的光物质劈穿敌舰。"
+
+tech_lightmatter_fighter: "圣骑士拦截机"
+tech_lightmatter_fighter_desc: "S最先进的互联网拦截机，胜过所有更糟糕的一代。开始打猎吧。"
+
+tech_lightmatter_flak: "Ω动能防御系统"
+tech_lightmatter_flak_desc: "Ω级KDS是前一种模型的改进版，具有任何一种模型都无法比拟的更强大的防御机制。"
+
+tech_lightmatter_gauss: "碎星炮"
+tech_lightmatter_gauss_desc: "碎星炮进一步增强了日落炮动能的力量，进一步增加了光物质和操作者的心灵聚焦。"
+
+tech_lightmatter_gunship: "暴风炮艇"
+tech_lightmatter_gunship_desc: "风暴对火焰风暴级炮艇有更好的保护和火力。"
+
+tech_lightmatter_hyper_jump_drive: "Ω增压超空间放大器"
+tech_lightmatter_hyper_jump_drive_desc: "额外的辅助放大器可以安装在跳转驱动器的模块化涡轮机，以提高其性能。这个模型几乎不需要FTL驱动程序的负担。用于执行触觉间谍行动。"
+
+tech_lightmatter_inspire_aura: "光物质锻造网络"
+tech_lightmatter_inspire_aura_desc: "一个由旗舰精心设计的特殊网络，在舰队中所有船只的计算机之间建立起强大的人工连接，将它们整合成一个永恒的模因。所有的模因。所有的传递。"
+
+tech_lightmatter_jump_drive: "永恒恒星引擎"
+tech_lightmatter_jump_drive_desc: "现在，光物质又开始在太空中扩散，恒星的驱动力可以被升级，通过将飞船重新物化到任何有光的地方，让它穿越极端的距离."
+
+tech_lightmatter_laser: "Ω激光"
+tech_lightmatter_laser_desc: "Ω激光利用光物质能量来切割船舶板材，如黄油。它远远优于任何其他已知的激光武器。"
+
+tech_lightmatter_missile: "双重光明导弹"
+tech_lightmatter_missile_desc: "“光明使者”导弹不仅比“星蛇”更具破坏力，而且是成对发射的。这使得它们在火力加倍的情况下更难被击落。"
+
+tech_lightmatter_photon: "光物质等离子体炮"
+tech_lightmatter_photon_desc: "光物质可以被改造成一种非常强大的类似腐蚀的状态，它可以把其他物质整个吃掉，从而制造出一种极其致命的反舰武器。"
+
+tech_lightmatter_plasma_cannon: "增压光能量加农炮"
+tech_lightmatter_plasma_cannon_desc: "基于与先前设计相同的概念，武器能够在更长的距离上发射更致命的光能球。"
+
+tech_lightmatter_point_defence: "Ω点防御系统"
+tech_lightmatter_point_defence_desc: "这种可以随意操纵光物质的能力使PDS能够发射相当于微枪能量武器的武器。这种影响对所有目标都是破坏性的，特别是与其他PDS相比。"
+
+tech_lightmatter_reactive_drone: "Ω级反应无人机板"
+tech_lightmatter_reactive_drone_desc: "他是最成熟的，最耐用的，Ω级提供最好的保护，无维护。他们的贡献将载入我们帝国的档案。"
+
+tech_lightmatter_reactor: "掌握光物质"
+tech_lightmatter_reactor_desc: "通过与古人遗传相融合的星状体、灵能和合成能量的组合，光物质是一种能够自我繁殖并提供无穷无尽能量供应的生命形式。"
+
+tech_ultimate_weapon: "神圣审判"
+tech_ultimate_weapon_desc: "作为有史以来最强大的武器之一，神圣审判以光物质和灵能的破坏力投射出祖先的终极表现形式"
+
+tech_lightmatter_sensors: "光物质阵列"
+tech_lightmatter_sensors_desc: "这种最新的探测系统可以确定船舶在不断膨胀的光物质中通过子空间的运动。任何邪恶都逃不过我们的视线。当心光物质的光。"
+
+tech_lightmatter_shield: "神圣之盾s"
+tech_lightmatter_shield_desc: "这种基于光物质的护盾甚至比星状护盾更坚固，因为护盾是由全矩阵网络本身加强的。"
+
+tech_lightmatter_shield_supercharger: "光物质超级屏障"
+tech_lightmatter_shield_supercharger_desc: "超级强化的护盾使船只的护盾发生器的强度几乎是上一代的两倍。"
+
+tech_planet_killer_naniter: "纳米焦炭"
+tech_planet_killer_naniter_desc: "用模因包围这个星球，把它变成模因池。"
+
+tech_lightmatter_thruster: "光物质推进器"
+tech_lightmatter_thruster_desc: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
+
+tech_lightmatter_titan_beam: "艾莉亚之光"
+tech_lightmatter_titan_beam_desc: "艾莉亚之光是一种纯粹出于愤怒而制造的武器，它将操作者杀死敌人的意志注入到已经具有破坏性的武器中，使其强度变得更大。Rip和眼泪。"
+
+tech_lightmatter_weapon_core: "超聚焦光物质核心"
+tech_lightmatter_weapon_core_desc: "如果我们现在的枪不能足够快地杀死敌人?使用更多的枪支。解决实际问题是我们的专长。"
+
+tech_warp_lightmatter_cannon: "闯入者空间区扭炮"
+tech_warp_lightmatter_cannon_desc: ""闯入者空间区扭炮发射一个巨大的弹头，包裹着光物质能量，通过微虫洞扭曲自己进入敌舰，绕过行进力，同时仍然保持全部的动能、速度和速度。我们的飞船在爆炸的时候甚至可以看向别处，因为酷哥们不会看爆炸。"
+
+tech_computer_lightmatter: "全矩阵分析仪
+tech_computer_lightmatter_desc: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。"
+
+tech_lightmatter_analyzer_ai: "全矩阵反生命方程数据库"
+tech_lightmatter_analyzer_ai_desc: "这个数据库包含所有关于所有祖先时代设计的所有弱点、缺陷和可利用机制的全部详细信息，可以上传到所有舰艇的武器系统。"
+
+building_light_foundry: "光之铸造厂"
+building_light_foundry_desc: "OPAF."

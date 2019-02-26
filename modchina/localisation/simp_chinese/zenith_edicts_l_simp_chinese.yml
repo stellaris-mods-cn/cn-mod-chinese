@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ 
+ edict_make_xeno_preserve:0 "项目:外星人保存"
+ edict_make_xeno_preserve_desc:0 "我们搜索的§Y$pc_gaia$§!被指定为保护区。它是由许多种类的外星人居住区，并且保持在我们的边界之内，这个星球就会给我们: £unity  §Y$country_resource_unity_mult$§! §G+10%§!."
+  
+ has_preserve_world_planet:0 "我们把我们的边界内的盖亚星球定为保护区。"
+ has_preserve_world_candidate:0 "$TRIGGER_FAIL$§R没有合适大小的§Y盖亚星球§!作为保护区§!"
+ make_preserve_world_effect:0 "我们开始寻找合适的行星作为保护区。"
+ 
+ 
+ edict_rejuvenate_society:0 "恢复社会"
+ edict_rejuvenate_society_desc:0 "我们不能在一个仍然充满敌人的星系里沾沾自喜。为了使我们的国家恢复活力，我们正在努力改变这个颓废的社会。"
+ 

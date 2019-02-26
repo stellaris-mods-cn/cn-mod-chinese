@@ -1,0 +1,152 @@
+﻿l_simp_chinese:
+################
+#    DUMMY     #
+################
+#Killed PK
+tech_pk_killed: "错误"
+tech_pk_killed_desc: "错误"
+
+#Shielded Colony
+tech_shielded_colony: "错误"
+tech_shielded_colony_desc: "错误"
+
+################
+#  Voidcrafts  #
+################
+tech_improved_cannon: "Improved Cannon"
+tech_improved_cannon_desc: "We need more T-Slots for cannon"
+TECH_UNLOCK_IMPROVED_CANNON_TITLE: "Improved Cannon Section"
+TECH_UNLOCK_IMPROVED_CANNON_DESC: "Unlocks Improved Cannon Core"
+tech_striker_cannon: "Striker Cannon"
+tech_striker_cannon_desc: "We need strike crafts for cannon"
+TECH_UNLOCK_STRIKER_CANNON_TITLE: "Striker Cannon Section"
+TECH_UNLOCK_STRIKER_CANNON_DESC: "Unlocks Striker Cannon Core"
+tech_xl_cannon: "XL Cannon"
+tech_xl_cannon_desc: "We need more X-Slots for cannon"
+TECH_UNLOCK_XL_CANNON_TITLE: "XL Cannon Section"
+TECH_UNLOCK_XL_CANNON_DESC: "Unlocks XL Cannon Core"
+tech_hybrid_cannon: "Hybrid Cannon"
+tech_hybrid_cannon_desc: "We needs various slots for cannon"
+TECH_UNLOCK_HYBRID_CANNON_TITLE: "Hybrid Cannon Section"
+TECH_UNLOCK_HYBRID_CANNON_DESC: "Unlocks Hybrid Cannon Core"
+tech_doomsday_cannon: "Doomsday Cannon"
+tech_doomsday_cannon_desc: "We needs bigger cannon, which anihilates large ships in one shot"
+TECH_UNLOCK_DOOMSDAY_CANNON_TITLE: "Doomsday Cannon Section"
+TECH_UNLOCK_DOOMSDAY_CANNON_DESC: "Unlocks Doomsday Cannon Core"
+tech_battlecolossus: "Battlecolossus"
+tech_battlecolossus_desc: "Colossus must defend itself, add x slots"
+TECH_UNLOCK_BATTLECOLOSSUS_TITLE: "Battlecolossus Section"
+TECH_UNLOCK_BATTLECOLOSSUS_DESC: "Unlocks Battlecolossus"
+tech_carrier_colossus: "Carrier Colossus"
+tech_carrier_colossus_desc: "Colossus must defend itself, add strike crafts"
+TECH_UNLOCK_CARRIER_COLOSSUS_TITLE: "Carrier Colossus Section"
+TECH_UNLOCK_CARRIER_COLOSSUS_DESC: "Unlocks Carrier Colossus Core"
+tech_hardened_colossus: "Hardened Colossus"
+tech_hardened_colossus_desc: "Colossus must survive"
+TECH_UNLOCK_HARDENED_COLOSSUS_TITLE: "Hardened Colossus Section"
+TECH_UNLOCK_HARDENED_COLOSSUS_DESC: "Unlocks Hardened Colossus"
+tech_doomsday_bow: "Doomsday Bow"
+tech_doomsday_bow_desc: "Although we now have ability using T slot, not enough... bigger guns always good(Unless there is cost), make titan bow with planet killer sized slot, now destroyer of ships rises.."
+TECH_UNLOCK_DOOMSDAY_BOW_TITLE: "Doomsday Bow"
+TECH_UNLOCK_DOOMSDAY_BOW_DESC: "Unlocks Doomsday Bow(Titan)"
+
+################
+#PLANET KILLERS#
+################
+#Mass Pacifying Mind Control
+tech_pk_pacray: "Mass Pacifying Mind Control"
+tech_pk_pacray_desc: "Massive Psionic Mind Control can convert Organic Non-Hive Minded Pop into pacifist"
+
+#Mass Aggresiveness Trigger
+tech_pk_milray: "Mass Aggresiveness Trigger"
+tech_pk_milray_desc: "Massive Psionic Mind Control can convert Organic Non-Hive Minded Pop into militarist"
+
+#Psionic Network Targeted Memory Deletion
+tech_pk_matray: "Psionic Network Targeted Memory Deletion"
+tech_pk_matray_desc: "Massive Psionic Wave, will seek and delete memory related spiritualism, and turn into materialist"
+
+#End of Xenophobia
+tech_pk_phiray: "End of Xenophobia"
+tech_pk_phiray_desc: "Massive Psionic Mind Control can turn organic POPs into xenophile"
+
+#Xenophobia Wave
+tech_pk_phoray: "Xenophobia Wave"
+tech_pk_phoray_desc: "Massive Psionic Mind Control can turn organic POPs into xenophobia"
+
+#Egalitarian Psionic Wave
+tech_pk_egaray: "Egalitarian Psionic Wave"
+tech_pk_egaray_desc: "Massive Psionic Mind Control, gives egalitarian ethic for victim"
+
+#Revolt Trigger Psionic Wave
+tech_pk_egaray_revolt: "Revolt Trigger Psionic Wave"
+tech_pk_egaray_revolt_desc: "Massive Psionic Mind Control can trigger massive revolt, from victim"
+EGARAY_REVOLT: "§HUnlock New SW Optional Ability§W: §MLiberty Ray§W:§RRise Rebellion§W"
+EGARAY_REVOLT_DESC: "Liberty Ray now can trigger Slave Revolt"
+
+#Authoritian Ray
+tech_pk_autray: "Authoritian Ray"
+tech_pk_autray_desc: "Massive Psionic Mind Control can convert Organic Non-Hivemind Pop servile "
+
+#Ethic Disrupting
+tech_pk_ethicconfuse: "Ethic Disrupting"
+tech_pk_ethicconfuse_desc: "Ethic Disruption caused by psionic"
+
+#Orbital Thermal Laser
+tech_pk_burner: "Orbital Thermal Laser"
+tech_pk_burner_desc: "Thermal Beam which is powerful enough to burn continent, even in out of reach of planetary cannon"
+
+#Enhanced Thermal Laser
+tech_pk_blazer: "Enhanced Thermal Laser"
+tech_pk_blazer_desc: "Stronger Thermal Laser enough to burn entire planet, still in can't destroy planet"
+
+#Psionic Sweep
+tech_pk_psisweep: "Psionic Sweep"
+tech_pk_psisweep_desc: "Psionic waves destroys infrastructures"
+
+#Organic Synthesizing Nanobot(Organic Synthesizer)
+tech_pk_synthesizer: "Organic Synthesizing Nanobot"
+tech_pk_synthesizer_desc: "Nanobots will assimilate organics, they will free from flesh, lifespan.\nHow wonderful technology it is."
+
+#Organic Synthesizing Nanobot(Organic Intergrator)
+tech_pk_intergrator: "Organic Synthesizing Nanobot"
+tech_pk_intergrator_desc: "Nanobots will assimilate organics, they will become one with us."
+
+#Genetic Pasting Virus
+tech_pk_genepaste: "Genetic Pasting Virus"
+tech_pk_genepaste_desc: "This virus can paste our DNA at victim, they will be like us. NOTE:I didn't say their thinking way will be same.(This is not ethic paster)"
+
+#Absolute Zero
+tech_pk_cryo: "Absolute Zero"
+tech_pk_cryo_desc: "This virus can paste our DNA at victim, they will be like us. NOTE:I didn't say their thinking way will be same.(This is not ethic paster)"
+
+
+#Hive Intergrating Virus
+tech_pk_hiver: "Hive Intergrating Virus"
+tech_pk_hiver_desc: "We are one. They will be one. As always, hive is eternal, hive absorbs all. We will be one."
+
+#Hive Shattering Virus
+tech_pk_dehiver: "Hive Shattering Virus"
+tech_pk_dehiver_desc: "This weapon will free victim from hive mind. And only things to say after using it... WELCOME TO FREE WILL" 
+
+#Mass Abduction
+tech_pk_abduct: "Mass Abduction"
+tech_pk_abduct_desc: "Just Abduct, Who cares about lost pops?" 
+
+
+#Singularity Control
+tech_pk_singularity: "Singularity Control"
+tech_pk_singularity_desc: "Putting singularity at planet, which is powerful destructive weapon" 
+
+
+#Star Fuser Laser
+tech_pk_core_fuser: "Star Fuser Laser"
+tech_pk_core_fuser_desc: "This laser will ignite planet core as star" 
+
+
+#Chronodistorting
+tech_pk_chronocrisis: "Chronodistorting"
+tech_pk_chronocrisis_desc: "We are going to make planet killer which distorts time" 
+
+#EMP Rampage
+tech_pk_emp: "EMP Rampage"
+tech_pk_emp_desc: "This laser will ignite planet core as star" 

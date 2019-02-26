@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ tech_alpha_cold_fusion:0 "冷聚变电厂"
+ tech_alpha_cold_fusion_desc:1 "对冷聚变反应堆进行扩展，并将其放入电络中，将为殖民地提供一个非常有效的电源。"
+ tech_alpha_fusion_plants:0 "核聚变电厂"
+ tech_alpha_fusion_plants_desc:1 "扩大聚变反应堆以取代裂变反应堆，为殖民地提供一个更安全、更有效的电源。"

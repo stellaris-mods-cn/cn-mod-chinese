@@ -1,0 +1,42 @@
+﻿l_simp_chinese:
+
+ap_fortresses:0 "坚不可摧的堡垒"
+ap_blitzkrieg:0 "闪电战"
+ap_prosperity:0 "鱼米之乡"
+ap_fanatic_coloniser:0 "后殖民"
+ap_multiculturalism:0 "多元乌托邦文化"
+
+ap_fortresses_desc:0 "突破防御结构工程的极限，把我们的银河帝国变成一个巨大的堡垒网络。"
+ap_blitzkrieg_desc:0 "改革我们的舰队和它的军队，使之更流畅，更快，更致命的力量，能够以无与伦比的速度攻击我们的敌人。"
+ap_prosperity_desc:0 "在我们国家的历史上翻开新的一页，把我们的星球变成生活的极乐世界，真正实现所有人的繁荣的目标。"
+ap_fanatic_coloniser_desc:0 "逃离我们的家园，让我们的物种在穿越银河系的过程中实现它的命运。"
+ap_multiculturalism_desc:0 "吸引来自整个银河系的最优秀的人才加入我们的项目到一个多元文化的乌托邦。"
+
+ap_fortresses_effects_desc:0 "$MOD_SHIP_HOME_TERRITORY_FIRE_RATE_MULT$: §G+20%§!\n$shipclass_military_station_build_cost_mult$: §G-50%§!\n军事空间站维护: §G-50%§!\n军事空间站、恒星基地伤害输出: §G+75%§!\n军事基地、恒星基地体值: §G+75%§!"
+ap_blitzkrieg_effects_desc:0 "敌方领土射速: §G+20%§!\n$MOD_SHIP_COMBAT_SPEED_MULT$: §G+15%§!\n$MOD_SHIP_SPEED_MULT$: §G+15%§!\n$MOD_SHIP_INTERSTELLAR_SPEED_MULT$: §G+25%§!"
+
+requires_orbital_hydroponics:1 "$TRIGGER_FAIL$需要£society  §Y$tech_orbital_hydroponics$§! 技术。"
+requires_tech_solar_panel_network:1 "$TRIGGER_FAIL$需要£physics  §Y$tech_solar_panel_network$§! 技术。"
+requires_space_defense_station_1:1 "$TRIGGER_FAIL$需要£engineering  §Y$tech_space_defense_station_2$§! 技术。"
+requires_spaceport_5:1 "$TRIGGER_FAIL$需要£engineering  §Y$tech_spaceport_5$§! 技术。"
+requires_not_ap_ligne_maginot:1 "$TRIGGER_FAIL$没有§Y$ap_blitzkrieg$§!飞升。"
+requires_not_ap_blitzkrieg:1 "$TRIGGER_FAIL$没有§Y$ap_fortresses$§!飞升。"
+rare_techs_easier:0 "稀有科技更有可能被研究。"
+no_xenophobes:1 "$TRIGGER_FAIL$§Y排外§!帝国不可用。"
+refugees_allowed_needed:1 "$TRIGGER_FAIL$所有的难民都必须受到欢迎。"
+slavery_allowed_fail:1 "$TRIGGER_FAIL$奴隶制不允许。"
+ap_population_control_unlocks:1 "解锁£society  §Y$tech_artificial_moral_codes$§! 技术。"
+must_be_authoritarian:1 "$TRIGGER_FAIL$只适用于§Y独裁制§!帝国"
+hive_mind_no:1 "$TRIGGER_FAIL$蜂群思维无法拥抱多元文化。"
+must_have_resettlement_allowed:1 "$TRIGGER_FAIL$必须允许安置。"
+ap_spaceport_unlocks:1 "解锁多个恒星基地模块，并提供高级模块作为研究选项。"
+ap_prosperity_unlocks:1 "在能源和食品生产方面提供技术进步，并允许我们在我们的星球上建造一个天堂穹顶。"
+ap_master_builders_unlocks:1 "解锁£engineering §Y$tech_mega_engineering$§!技术作为可研究的选择。"
+
+country_resource_society_research_mult:1 "社会研究"
+country_resource_engineering_research_mult:1 "工程研究"
+
+ap_fortresses_unlocks:1 "解锁堡垒，并提供巨型堡垒作为研究选择。"
+
+building_paradise_dome_2:0 "天堂穹顶"
+building_paradise_dome_2_desc:1 "一个极乐世界的圆顶，自然而美丽，来诱发一种强烈的怀旧和爱国主义。"

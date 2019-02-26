@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+
+ Penrose_capital:0 "奇点管理"
+ Penrose_capital_desc:1 "彭罗斯环的行政中心，作为它的首都和地方政府的所在地。"
+ ergo_light:0 "分散收集点"
+ ergo_light_desc:1 "彭罗斯球体的分散收集点，收集§MS超辐射散射波§!(£ergo_energy ),这是维持彭罗斯环建筑的必要条件。"
+ ergo_archives:0 "奇点研究所"
+ ergo_archives_desc:1 "奇点研究所利用§M超辐射散射波§!(£ergo_energy )进行大量的科学研究。"
+ ergo_mine:0 "奇点加工厂"
+ ergo_mine_desc:1 "奇点加工厂利用§M超辐射散射波§!(£ergo_energy )生产大量的矿物。"
+ ergo_farm:0 "奇点农产品加工中心"
+ ergo_farm_desc:1 "奇点农产品加工中心使用§M超辐射散射波§!(£ergo_energy )来生产大量的食物。"
+ ergo_power:0 "奇点发电厂"
+ ergo_power_desc:1 "奇点发电厂利用§M超辐射散射波§!(£ergo_energy )生产大量能源。"
+ ergo_culture:0 "Singularity Entertainment complex"
+ ergo_culture_desc:1 "奇点娱乐中心使用§M超辐射散射波§!(£ergo_energy )来满足彭罗斯环居民的文化和社会需求。"
+ 
+ #
+ 
+ ergo_energy:0 "§M超辐射散射波§!"
+ ergo_energy_desc:1 "电磁波穿过黑洞的§M能层§!。"

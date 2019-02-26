@@ -1,0 +1,14 @@
+﻿l_simp_chinese:
+ ####################################
+ # Buildings
+ ####################################
+
+ building_low_arcology:0 "低生态建筑学"
+ building_low_arcology_desc:0 "§L一个巨大的综合体，居住着低种姓的家庭和工作场所。§!"
+ building_low_arcologyii:0 "低生态建筑学 II"
+ building_low_arcologyii_desc:0 "§L一个巨大的综合体，居住着低种姓的家庭和工作场所。 为了优化生产，增加了额外的设备。§!"
+ building_low_arcologyiii:0 "低生态建筑学 III"
+ building_low_arcologyiii_desc:0 "§L一个巨大的综合体，居住着低种姓的家庭和工作场所。 进一步的扩张，其中大部分在地下，已经允许增加资源生产。§!"
+ building_forgotten_archive:0 "被遗忘的档案"
+ building_forgotten_archive_desc:0 "§L这份档案曾有过好日子。未损坏的部分被加密，未加密的部分不在任何已知语言中。但只要有耐心，所有古人的秘密都可以再次属于我们。§!"
+

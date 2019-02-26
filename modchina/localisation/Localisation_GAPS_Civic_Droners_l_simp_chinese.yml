@@ -1,0 +1,45 @@
+﻿l_simp_chinese:
+ #TODO
+ #make harass signal notification text saying which  country used it.
+ #make scaling ship powers
+ Civic_GAPS_Drone_Connection:0 "无人机连接"
+ Civic_GAPS_Drone_Connection_desc:0 "你们的国家和采矿无人机之间有着独特的联系。\n §M特殊效果§! §Y远古无人机§! 对你友好，不会攻击你. 你无法直接控制 §Y远古无人机§! 。你开局带有 §Y$edict_droning_optimizations$§! 法令, §Y$drone_mining_techniques$§! 国家修饰,且有§G50%§! 研究进度的 §Y$tech_mining_drone_weapon_1$§! 。你知道所有无人机母星星系。\n §S科技§! \n §Y£physics_research 计算机科技 T1 (无人机信号分析: $ancient_mining_drone$):§! 允许: \n §Y£building 星际基地建筑 ($ancient_mining_drone$ 信号空间站):§! 花费 §R50§! £alloys, 维护费 §R2§! £energy. 星系修饰 - 采矿空间站产出 §G+10%§! 资源. 当有敌方舰队进入该星系时产出 1 采矿无人机 （每一个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。\n §Y£decision 决策 (关闭无人机信号):§! 必须在初始星系使用. R移除所有该星系的无人机 \n§Y£physics_research 计算机科技 T2 (无人机信号分析: $ancient_corvette$):§! 允许: \n §Y£building 星际基地建筑 ($ancient_cor vette$ 信号空间站):§! 花费 §R50§! £alloys, 维护费 §R2§! £energy 。星系修饰 - 采矿空间站产出 §G+10%§! 资源 (§G+20%§! 在无人机母星星系)。当有敌方舰队进入该星系时产出 1 $ancient_corvette$ （每两个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。\n§Y£physics_research 计算机科技 T3 (无人机信号分析: $ancient_destroyer$):§! 允许: \n §Y£building 星际基地建筑 ($ancient_destroyer$ 信号空间站):§! 花费 §R50§! £alloys, 维护费 §R2§! £energy。星系修饰 - 采矿空间站产出 §G+10%§! 资源 (§G+20%§! 在无人机母星星系)当有敌方舰队进入该星系时产出 1 $ancient_destroyer$ （每三个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。\n§Y£physics_research 计算机科技 T3 (Harass Signal):§! 允许: \n §Y£empire_modifier 法令 (战争骚扰信号):§! 必须在战时启用。花费 §R100§! £influence. 冷却时间 §R10§! 年 (与下面的共享冷却时间)。 每一个与你作战的国家控制下的每一个采矿站都有产出一个采矿无人机。\n   §Y£empire_modifier 法令 (宿敌骚扰信号):§! 必须不在战时启用. 花费 §R100§! £influence. 冷却时间 §R10§! 年 (和上面的共享冷却时间). 每个视你为宿敌的国家控制下的每一个采矿站都有产出一个采矿无人机。 \n§Y£physics_research 计算机科技 T4 (无人机信号分析: $homebase$):§! 允许: \n    §Y£building 星际基地建筑 ($homebase$ 信号空间站):§! 花费 §R50§! £alloys, 维护费 §R2§! £energy. 星系修饰 - 采矿空间站产出 §G+10%§! 资源 (§G+20%§! 在无人机母星星系).当有敌方舰队进入该星系时产出 1 $homebase$ （每四个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。"
+
+#BULDINGS
+sm_Starbase_Building_GAPS_Mining_Drone_Signal_Station:0 "$ancient_mining_drone$ 信号空间站"
+sm_Starbase_Building_GAPS_Mining_Drone_Signal_Station_desc:0 "当有敌方舰队进入该星系时产出 1 采矿无人机 （每一个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。"
+sm_Starbase_Building_GAPS_Combat_Drone_Signal_Station:0 "$ancient_corvette$ 信号空间站"
+sm_Starbase_Building_GAPS_Combat_Drone_Signal_Station_desc:0 "当有敌方舰队进入该星系时产出 1 $ancient_corvette$ （每两个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。"
+sm_Starbase_Building_GAPS_Destroyer_Drone_Signal_Station:0 "$ancient_destroyer$ 信号空间站"
+sm_Starbase_Building_GAPS_Destroyer_Drone_Signal_Station_desc:0 "当有敌方舰队进入该星系时产出 1 $ancient_destroyer$ （每三个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。"
+sm_Starbase_Building_GAPS_Grinder_Building_Signal_Station:0 "$homebase$ 信号空间站"
+sm_Starbase_Building_GAPS_Grinder_Building_Signal_Station_desc:0 "当有敌方舰队进入该星系时产出 1 $homebase$ （每四个采矿空间站+1）并攻击他们，除非进入星系的舰队也能安抚无人机。这些无人机将一直持续存在直到被摧毁。"
+ 
+#Edicts
+edict_Edict_GAPS_Harass_Signal_Your_Rivals:0 "宿敌骚扰信号"
+edict_Edict_GAPS_Harass_Signal_Your_Rivals_desc:0 "每个视你为宿敌的国家控制下的每一个采矿站都有产出一个采矿无人机。和战争骚扰信号共享10年的冷却时间"
+edict_Edict_GAPS_Harass_Signal_Your_Enemies:0 "战争骚扰信号"
+edict_Edict_GAPS_Harass_Signal_Your_Enemies_desc:0 "每一个与你作战的国家控制下的每一个采矿站都有产出一个采矿无人机。和宿敌骚扰信号共享10年的冷却时间"
+#TECHNOLOGY
+Tech_GAPS_Drone_Signal_Analysis_1:0 "无人机信号分析:0 "$ancient_mining_drone$"
+Tech_GAPS_Drone_Signal_Analysis_1_desc:0 ""
+Tech_GAPS_Drone_Signal_Analysis_2:0 "无人机信号分析:0 " $ancient_corvette$"
+Tech_GAPS_Drone_Signal_Analysis_2_desc:0 ""
+Tech_GAPS_Drone_Signal_Analysis_3:0 "无人机信号分析:0 " $ancient_destroyer$"
+Tech_GAPS_Drone_Signal_Analysis_3_desc:0 ""
+Tech_GAPS_Drone_Signal_Analysis_4:0 "无人机信号分析:0 " $homebase$"
+Tech_GAPS_Drone_Signal_Analysis_4_desc:0 ""
+Tech_GAPS_Drone_Harass_Signal:0 "骚扰信号"
+Tech_GAPS_Drone_Harass_Signal_desc:0 "允许产出无人机攻击敌军采矿空间站的法令"
+
+#descisions
+decision_GAPS_Drone_Removal:0 "关闭无人机信号"
+decision_GAPS_Drone_Removal_desc:0 "从这个星系移除所有无人机"
+decision_GAPS_Drone_Removal_short:0 "从这个星系移除所有无人机"
+
+#projects
+Special_Project_GAPS_Drone_Home_System_chain:0 "无人机母星星系"
+Special_Project_GAPS_Drone_Home_System_chain_title:0 "无人机母星星系"
+Special_Project_GAPS_Drone_Home_System_chain_desc:0 "你知道所有的无人机母星星系"
+Special_Project_GAPS_Drone_Home_System:0 "无人机母星星系"
+Special_Project_GAPS_Drone_Home_System_desc:0 "无人机母星星系"

@@ -1,0 +1,68 @@
+﻿l_simp_chinese:
+
+ building_nutrient_synthesizer:0 "营养合成器"
+ building_nutrient_synthesizer_desc:0 "一种比传统农业更有效地合成重要营养物质的设施，以降低进口食品的需求。"
+ 
+ building_sensor_array:0 "传感器阵列"
+ building_sensor_array_desc:0 "一种远程传感器阵列，用于识别和跟踪在空间中移动的物体。"
+ 
+ building_microgravity_fabricators:0 "微重力发生器"
+ building_microgravity_fabricators_desc:0 "空间的低重力环境为材料研究和工业提供了大量的机会。"
+ 
+ building_auxiliary_power_core:0 "辅助电源核心"
+ building_auxiliary_power_core_desc:0 "一种能够提供辅助发电的电力核心。"
+ 
+ building_celestial_sanctum:0 "天堂圣所"
+ building_celestial_sanctum_desc:0 "现在，我们终于有了星星。"
+ 
+ building_arcology_district:0 "生态建筑学区"
+ building_arcology_district_desc:0 "栖息地的残余部分。"
+ 
+ building_isotope_refinery:0 "同位素精炼厂"
+ building_isotope_refinery_desc:0 "该装置将元素加工成同位素纯形式，用于核反应和物理研究。"
+ 
+ building_chemical_processing:0 "化学加工厂"
+ building_chemical_processing_desc:0 "有毒物质的挥发性化学物质阻止了人们的居住，但却为各种工业提供了丰富的化学原料来源。"
+ 
+ requires_habitat_molten:0 "栖息地必须绕§Y熔融星球§!轨道运行."
+ requires_habitat_toxic:0 "栖息地必须绕§Y有毒星球§!轨道运行."
+ requires_habitat_frozen:0 "栖息地必须绕§Y冰冻星球§!轨道运行."
+ requires_habitat_gas_giant:0 "栖息地必须绕§Y气态巨星§!轨道运行."
+ requires_asteroid_belt_in_system:0 "在星系中需要一个小行星带。"
+ 
+ building_molten_harvester:0 "岩浆矿石收割机"
+ building_molten_harvester_desc: "从熔融星球表面提取和处理矿物是困难的，但也是有益的。"
+ 
+ building_ice_refinery:0 "冰蒸馏厂"
+ building_ice_refinery_desc:0 "通过蒸馏在冰冻星球的冰中发现的挥发性物质，我们可以获得一种可接受的纯工业和科学使用产品。"
+ 
+ solar_system:0 "星系"
+ SOLAR_SYSTEM:0 "星系"
+ 
+ building_network_hub:0 "网络中心"
+ building_network_hub_desc:0 "$building_system_conflux_desc$"
+ 
+ building_synaptic_nexus:0 "联合连结"
+ building_synaptic_nexus_desc:0 "$building_hive_synapse_desc$"
+ 
+ building_phys_institute:0 "物理学研究所"
+ building_phys_institute_desc:0 "一个研究理论和应用物理学的研究所。"
+ building_phys_institute_triggered_effect:0 "实验中心:\n   $physics_research$: §G+2§!"
+ 
+ building_bio_institute:0 "社会学研究所"
+ building_bio_institute_desc:0 "一个研究社会和生命科学的研究所。"
+ building_bio_institute_triggered_effect:0 "实验中心:\n   $society_research$: §G+2§!"
+ 
+ building_engi_institute:0 "工程学研究所"
+ building_engi_institute_desc: "一个研究机械工程和材料科学的研究所。"
+ building_engi_institute_triggered_effect:0 "实验中心:\n   $engineering_research$: §G+2§!"
+ 
+ building_hab_drydock:0 "干船坞"
+ building_hab_drydock_desc:0 "修理、补给和维护舰船的船坞设施。"
+ 
+ requires_tech_habitat:0 "$TRIGGER_FAIL$Requires the £engineering  §Y$tech_habitat$§! technology."
+ 
+ tech_habitat:0 "栖息地矩阵"
+ tech_habitat_desc:0 "这片曾经被视为寒冷和不可逾越的屏障的空白已成为我们的第二个家。在太空深处的永久居住现在是很有可能的。"
+ TECH_UNLOCK_HABITAT_CONSTRUCTION_TITLE:0 "§H解锁巨型建筑:§! 轨道栖息地"
+ TECH_UNLOCK_HABITAT_CONSTRUCTION_DESC:0 "§Y$pc_habitat$§!是一种理论上的自给自足的空间站，专为永久居住而设计。"

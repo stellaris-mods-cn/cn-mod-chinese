@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+ MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION:0 "神之干预"
+ MEM_PRIMITIVE_CIVIL_WAR_INTERVENTION_DESC:0 "我们的一艘战舰可以向在[mem_primitive_civil_war_planet.GetName]快要战败的叛军提供他们所急需的援助，尽管当地土著不会知道发生了什么。从已就位的轨道炮上发射些许火力就能轻易击败帝国的军队。"
+ mem_primitive_civil_war.2.name:0 "勇士之路"
+ mem_primitive_civil_war.2.desc:0 "我们在[mem_primitive_civil_war_planet.GetName]轨道上的观测站报告了和[mem_primitive_civil_war_planet_owner.GetAdj]领导政府正在进行的内战。据报告这场内战开始于帝国的继承者，一位年轻革新主义分子，他的许多改革很快对国家文化和社会产生了深远的影响。\n\n即使[mem_primitive_civil_war_planet_owner.species.GetNamePlural]还生活类似中世纪制度的时代，他们的科学技术远远更加先进。只有严格地遵循传统才能阻止目前许多创新的广泛应用。这些变化然而并没有被所有该物种认可。尤其是最近建立的由不分社会阶层征召的新兵组成的帝国军队已经严重冒犯了如今过时的高贵武士阶级。\n\n面对他们的没落，他们中的许多人站处来捍卫他们的古老权利。尽管他们有能力和经验，但由于他们的武士规范和传统禁止他们使用新帝国军队配备的现代化装备，他们成功的几率非常低。\n\n刀剑，对上了枪炮。"
+ mem_primitive_civil_war.2.a:0 "继续观察。"
+ mem_primitive_civil_war.3.name:0 "命运临近"
+ mem_primitive_civil_war.3.desc:0 "[mem_primitive_civil_war_planet.GetName]观测站上的工作人员报告说，叛军在最开始取得一些胜利后遭受了一连串的重大失败，耗尽了他们的人力，被迫撤退。据观察他们已经采取了防御姿态来做最后抵抗。帝国军队如今似乎并不愿意进攻，尽管他们人多势众，却意识到了己方的战术劣势。\n\n无论怎么说，帝国军队的全面胜利只是时间上的问题，因为叛军已经没有其他选择余地了。是这样吗？"
+ mem_primitive_civil_war.3.a:0 "他们被包围，寡不敌众。结束了..."
+ mem_primitive_civil_war.3.b:0 "唯一能拯救他们的是“上帝”的干预..."
+ mem_primitive_civil_war.4.name:0 "命运就在这里"
+ mem_primitive_civil_war.4.desc:0 "[mem_primitive_civil_war_planet_owner.GetAdj]叛军首领在[mem_primitive_civil_war_planet.GetName]上安排好了他的人准备最后的战斗。与其面对耻辱，接受皇帝亲自提出的投降提议，他决心在荣耀的烈焰中消亡。\n\n他们的最后一次冲锋在快速射击的交叉炮火中告终，这是[mem_primitive_civil_war_planet_owner.GetAdj]历史上又一项创新科技的首次实战使用。这简直不算最后战斗，而是单方面的屠杀。\n\n尽管如此，随着叛乱的结束，最后剩下的顽固旧式捍卫者已经死去，并为充满光明和希望的未来让路。"
+ mem_primitive_civil_war.4.a:0 "新事物遇见旧事物，总是以这种古老的方式结束。"
+ mem_primitive_civil_war.5.name:0 "帝国力量反抗"
+ mem_primitive_civil_war.5.desc:0 "正当叛军首领准备开始他迈向死亡的最后一次冲锋时，整片大地由于[root.owner.GetAdj]的武器的一击而震动。震动席卷了围攻的军队，达到达到预期的效果，并且不至于造成伤亡。\n\n帝国军队完全溃败，叛军胜利了，没有任何生命损失。这位军事领袖明显受到神的宠爱，这样的话语迅速传遍全国，比起他最开始起兵时的，他获得了更多的支持。\n\n面对人民日益减少的支持，年轻的皇帝被迫与叛军妥协，为了拯救他的统治生涯，他的改革不得不被撤销，其余的反叛者也获得大赦。\n\n目前看来[mem_primitive_civil_war_planet_owner.GetAdj]仍将暂时停留在中世纪。"
+ mem_primitive_civil_war.5.a:0 "受到神的青睐了吧？"
+

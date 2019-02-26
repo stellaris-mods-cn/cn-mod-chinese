@@ -1,0 +1,247 @@
+﻿
+#By ViolentBeetle
+
+l_simp_chinese:
+ #EVENTS
+ mem_blacksite.2.name:0 "§S[blacksite_fallen_empire.GetName]§!的沟通"
+ mem_blacksite.2.desc:0 "一项具有银河重要性的事业需要你的合作。目前正在进行一个特别敏感的项目，我们不希望在我国境内进行。我们希望在你控制的星系[blacksite_planet.GetPlanetMoon]， §Y[blacksite_planet.GetName]§!中使用，对你来说没有任何价值，所以这是最完美的。 \n\n如果你不试图干扰我们黑色站点的运作，让我们的自由进出，那就更好了。 \n\n这不是我们轻易提出的要求。这是一个机会，您不仅为崇高的目标作出贡献，而且赢得与我们的良好关系。"
+ mem_blacksite.2.a:0 "很好。你可以拥有你的黑色站点。"
+ mem_blacksite.2.a.tooltip:0 "§Y[blacksite_planet.GetName]§!将有一个由[blacksite_fallen_empire.GetName]运营的黑色站点。从现在开始,它将被称为§Y六号设施§!. \n尽管他们做出了承诺，但这个项目可能会带来§R意想不到的后果§!。"
+ mem_blacksite.2.b:0 "我们不可能允许你们弄这个。"
+ mem_blacksite.2.c:0 "你打算在那里做什么?"
+ mem_blacksite.2.c.response:0 "一个非常重要的项目。别担心，我们不会让你有任何危险的。这是我们的承诺。"
+
+ mem_blacksite.400.name:0 "$mem_blacksite.2.name$"
+ mem_blacksite.400.desc:0 "[Root.GetSpeciesName]!的好消息。我们在贵国境内进行的项目已正式结束。 \n\n它不仅取得了巨大的成功，我们还成功地避免了对您的任何星系的完全破坏。这不是很棒棒吗? \n\n你是一个模范的合作者，你的贡献理应得到回报。"
+ mem_blacksite.400.a:0 "一切都很好。"
+
+ mem_blacksite.500.name:0 "[blacksite_planet.GetName]的巨大爆炸"
+ mem_blacksite.500.desc:0 "[blacksite_planet.GetPlanetMoon] §Y[blacksite_planet.GetName]§!曾经是§Y[blacksite_fallen_empire.GetName]§!运营的一个黑色站点的所在地，经历了一次大爆炸，随后[blacksite_planet.GetPlanetMoon]被彻底粉碎。造成这种情况的原因尚不清楚，但在黑点站点中使用的设备碎片仍然可以在碎片区域内找到。"
+ mem_blacksite.500.a:0 "令人担忧。"
+ mem_blacksite.500.a.tooltip:0 "§Y[blacksite_planet.GetName]§!爆炸，变成了§S破碎星球§!"
+
+ mem_blacksite.501.name:0 "黑色站点报告"
+ mem_blacksite.501.desc:0 "[Root.GetSpeciesNamePlural]!别慌。 \n\n我们知道[blacksite_planet]已经爆炸了。这是很好……不不……这是正常的。行星总是会这样的，相信我。 \n\n不管怎么说,一切都结束了。做完了。"
+ mem_blacksite.501.a:0 "好吧。"
+ mem_blacksite.501.b:0 "你炸毁了我们的星球。我们应该得到一个解释。"
+ mem_blacksite.501.b.response:0 "你这厚颜无耻的家伙，我们什么都不会告诉你，接受现实吧。"
+
+ mem_blacksite.600.name:0 "黑色站点断电"
+ mem_blacksite.600.desc:0 "[blacksite_planet.GetPlanetMoon] §Y[blacksite_planet.GetName]§!上由§Y[blacksite_fallen_empire.GetName]§!操作的黑色站点似乎进入了停止状态。 \n\n目前还没有飞船进入或离开，也没有任何通信。能源使用量也下降到几乎不引人注意的水平。该设施现在似乎已被废弃。"
+ mem_blacksite.600.a:0 "准备潜入设施。"
+ mem_blacksite.600.a.tooltip:0 "我们可能会在里面发现一些有趣的东西。但这也会惹恼§Y[blacksite_fallen_empire.GetName]§!..."
+ mem_blacksite.600.b:0 "我们可以从安全的距离观察它。"
+ mem_blacksite.600.c:0 "我们最好别去管它。"
+ mem_blacksite.600.c.tooltip:0 "§Y[blacksite_fallen_empire.GetName]§!不想让我们干扰他们的工作。[blacksite_planet.GetPlanetMoon]不会产生任何资源或特殊项目。"
+
+ mem_blacksite.602.name:0 "黑色站点:废弃"
+ mem_blacksite.602.desc:0 "[From.GetName]报告说，他们在黑色站点没有发现任何值得注意的东西。这个地方似乎完全被遗弃了……"
+ mem_blacksite.602.a:0 "令人失望"
+ mem_blacksite.602.a.tooltip:0 ""
+
+ mem_blacksite.603.name:0 "黑色站点:幸存的科学家"
+ mem_blacksite.603.desc:0 "[From.GetName]的工作人员报告说，他们已经成功地突破了黑色站点。 \n\n起初，他们认为这个地方应该被遗弃，但当他们进入时，他们遇到了一个幸存者。在大规模疏散时，一位科学家显然被遗忘并留下了。他们似乎对这种待遇十分不满，宁愿为我们的帝国服务，也不愿回国。"
+ mem_blacksite.603.a:0 "欢迎加入。"
+ mem_blacksite.603.a.tooltip:0 "一个新的§S科学家§!加入了你的帝国。"
+ mem_blacksite.603.b:0 "无论如何要把科学家送回家。"
+
+ mem_blacksite.604.name:0 "黑色站点:唯一的幸存者"
+ mem_blacksite.604.desc:0 "[From.GetName]的工作人员报告说，他们已经成功地突破了黑色站点。内部似乎遭受了严重的破坏，到处可见战斗的痕迹。 \n\n在站点深处，他们找到了唯一的幸存者，他声称自己是不道德灵能实验的幸存测试对象，并请求在我们的帝国避难。"
+ mem_blacksite.604.a:0 "欢迎加入。"
+ mem_blacksite.604.a.tooltip:0 "一个新的§S科学家§!将加入你的帝国，但他们有些地方不太对劲……"
+ mem_blacksite.604.b:0 "我们不会冒险从[blacksite_fallen_empire.GetSpeciesNamePlural]那里偷走测试对象。"
+
+ mem_blacksite.605.name:0 "黑色网站:一个完美的机器"
+ mem_blacksite.605.desc:0 "[From.GetName的工作人员报告说，他们已经成功地突破了黑色站点。内部似乎遭受了严重的破坏，到处可见战斗的痕迹。 \n\n在站点深处，他们发现了一种AI结构，据称这是黑色站点建立的原因。他们声称自己不愿意成为[blacksite_fallen_empire.GetName]的囚犯，并且愿意为我们服务，只要我们不把他们交给他们的创造者。"
+ mem_blacksite.605.a:0 "欢迎加入。"
+ mem_blacksite.605.a.tooltip:0 "一个新的§S科学家§!将加入你的帝国，但他们有些地方不太对劲……"
+ mem_blacksite.605.b:0 "把他们的机器人还给[blacksite_fallen_empire.GetSpeciesNamePlural]。"
+
+ mem_blacksite.610.name:0 "$mem_blacksite.2.name$"
+ mem_blacksite.610.desc:0 "你真的以为我们不知道你翻遍了我们的黑色站点，[Root.GetSpeciesName]?! 你真的认为不会有任何后果吗? \n\n这是你最后一次警告。把§Y[blacksite_recovered_leader.GetName]§!还给我们，我们会原谅你的。如果拒绝，不仅会招致我们的愤怒，还会面临窝藏具有巨大力量的危险而不稳定的个人后果。"
+ mem_blacksite.610.a:0 "那好吧。"
+ mem_blacksite.610.a.tooltip:0 "§Y[blacksite_recovered_leader.GetName]§!将不再为我们的帝国服务。"
+ mem_blacksite.610.b:0 "恐怕我们不能照办。"
+ mem_blacksite.610.b.tooltip:0 "§Y[blacksite_recovered_leader.GetName]§!将继续留在我们的领袖之中。"
+
+ mem_blacksite.621.name:0 "奇怪的事故"
+ mem_blacksite.621.desc:0 "在§Y[blacksite_recovered_leader.GetName]§!指挥下的科研船[Root.GetName]今天经历了一次灾难性的爆炸。 \n\n造成这一现象的原因尚不清楚，人们怀疑是谋杀。船上所有人都被认为已经死亡。"
+ mem_blacksite.621.a:0 "非常可疑。"
+ mem_blacksite.621.a.tooltip:0 "[blacksite_recovered_leader.GetName]不可能存活。"
+
+ #Segments to identify where did the leader come from via scripted loc
+ mem_blacksite_whom_we_rescued:0 "我们从黑色站点救出了他"
+ mem_blacksite_who_requested_asylum:0 "我们给了他庇护"
+
+ #Need to think on whenever I want extra variation on "Leader returns for revenge" if .621 (Strange Accident) triggered first.
+ mem_blacksite.622.name:0 "研究总部破坏"
+ mem_blacksite.622.physics:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]负责我们的物理学研究，显然怀有对我们很不友好的意图。 \n\n今天，[blacksite_recovered_leader.GetSheHe]在[blacksite_recovered_leader.GetHerHis]的授权下，在重要的研究设施上安装了多种高产的爆炸装置，造成了大量的辐射泄漏。随后，[blacksite_recovered_leader.GetSheHeCap]试图在随后的混乱中逃跑，却被我们的安全小组击毙。[blacksite_recovered_leader.GetHisHerCap]的动机目前尚不清楚。"
+ mem_blacksite.622.society:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]负责我们的社会学研究，显然怀有对我们很不友好的意图。  \n\n今天，[blacksite_recovered_leader.GetSheHe]在[blacksite_recovered_leader.GetHerHis]的授权下，在重要的研究设施上种植了多种高产的爆炸装置，使一些具有攻击性的生命形式得以释放。随后，[blacksite_recovered_leader.GetSheHeCap]试图在随后的混乱中逃跑，却被我们的安全小组击毙。[blacksite_recovered_leader.GetHisHerCap]的动机目前尚不清楚。"
+ mem_blacksite.622.engineering:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]负责我们的工程学研究，显然怀有对我们很不友好的意图。  \n\n今天，在[blacksite_recovered_leader.GetSheHe]的授权下，[blacksite_recovered_leader.GetHerHis]在重要的研究设施上种植了多种高产的爆炸装置，破坏了一些机器，使它们陷入瘫痪。[blacksite_recovered_leader.GetSheHeCap]随后试图在随后的混乱中逃跑，结果被我们的安全小组击毙。[blacksite_recovered_leader.GetHisHerCap]的动机目前尚不清楚。"
+ mem_blacksite.622.a:0 "这将使我们倒退。"
+
+ mem_blacksite.623.name:0 "心理恐惧"
+ mem_blacksite.623.desc:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory],显然怀有对我们很不友好的意图。 \n\n今天，[blacksite_recovered_leader.GetSheHe]渗透到我们的[Root.Capital_Scope.GetName]研究总部，释放出强大的灵能波，影响研究人员和雇员，使一些人发疯。多个部门都受到了物资和人员损失的影响。对我们的科学运作造成相当大的干扰。"
+ mem_blacksite.623.a:0 "多么可怕。"
+
+ mem_blacksite.624.name:0 "心理斗争"
+ mem_blacksite.624.desc:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory],显然怀有对我们很不友好的意图。 \n\n今天，[blacksite_recovered_leader.GetSheHe]试图对我们的帝国重要之人之一的§Y[blacksite_chosen_one.GetName]§!发动心灵攻击，似乎是企图窃取[blacksite_chosen_one.GetHerHis]的巨大力量。 \n\n然而，在短暂的意志斗争之后，叛徒的思想被彻底摧毁了，只留下一个空洞的、没有生命的外壳。"
+ mem_blacksite.624.a:0 "[blacksite_chosen_one.GetName]没事就好!"
+
+ mem_blacksite.625.name:0 "精神上的破坏"
+ mem_blacksite.625.desc:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory],显然怀有对我们很不友好的意图。 \n\n今天，[blacksite_recovered_leader.GetSheHe]对§Y[blacksite_ravaged_leader.GetName]§!发起了残酷的灵能攻击。袭击者被安全部队锁定并击毙，但[blacksite_recovered_leader.GetHerHis]的受害者遭受了巨大的痛苦。不知何故，[blacksite_ravaged_leader.GetHerHis]的灵能能力被完全消灭了。"
+ mem_blacksite.625.a:0 "多么可怕。"
+ mem_blacksite.625.a.tooltip:0 "§Y[blacksite_ravaged_leader.GetName]§!失去§Y灵能§!特质。"
+
+ mem_blacksite.626.name:0 "一种疯狂的行为"
+ mem_blacksite.626.desc.cyborg:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory],看起来有点疯狂。 \n\n今天，[blacksite_recovered_leader.GetSheHe]闯入了我们在[Root.Capital_Scope.GetName]上的研究总部，到处乱说末日预言。目前还不完全清楚[blacksite_recovered_leader.GetSheHe] [blacksite_recovered_leader.GetWasWere]打算做什么，不过有几名轻度增强型员工抱怨头痛、恶心，其中一名员工还出现了幻觉。 \n\n过了一会儿，[blacksite_recovered_leader.GetName]死了。研究人员随后没有表现出任何其他症状，并且很快就出院了。"
+ mem_blacksite.626.desc.machine:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory],看起来有点疯狂。 \n\n今天，[blacksite_recovered_leader.GetSheHe]闯入我们的[Root.Capital_Scope.GetName]研究总部，到处乱说世界末日预言。目前还不完全清楚[blacksite_recovered_leader.GetSheHe] [blacksite_recovered_leader.GetWasWere]试图做什么。 \n\n过了一会儿，[blacksite_recovered_leader.GetName]死了。"
+ mem_blacksite.626.a:0 "这是怎么回事?"
+
+ #Copy of .621 event, but using separate localisations in case I want to make its own text
+ mem_blacksite.631.name:0 "$mem_blacksite.621.name$"
+ mem_blacksite.631.desc:0 "$mem_blacksite.621.desc$"
+ mem_blacksite.631.a:0 "$mem_blacksite.621.a$"
+ mem_blacksite.631.a.tooltip:0 "$mem_blacksite.621.a.tooltip$"
+
+ mem_blacksite.632.name:0 "$mem_blacksite.622.name$"
+ mem_blacksite.632.physics:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]负责我们的物理学研究，显然怀有对我们很不友好的意图。 \n\n今天，他们利用他们的先进硬件获得授权并在他们的控制下获得了不受监控的访问权限，在入侵之前造成大量的辐射泄漏，而[blacksite_recovered_leader.GetName]被安全小组永久禁用。他采取行动的动机尚不清楚。"
+ mem_blacksite.632.society:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]负责我们的社会学研究，显然怀有对我们很不友好的意图。 \n\n今天，他们使用先进的硬件来获得授权和未经监控的进入他们控制的多处设施，在入侵之前释放了一些危险的活体标本和有害的细菌培养，而[blacksite_recovered_leader.GetName]被安全小组永久地关闭了。他采取行动的动机尚不清楚。"
+ mem_blacksite.632.engineering:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]负责我们的工程学研究，显然怀有对我们很不友好的意图。 \n\n今天，他们利用他们的先进硬件获得授权并在他们的控制下，不受监控的进入多处设施，重编程重型机械的样机在被入侵之前攻击附近的人员和敏感设备，而[blacksite_recovered_leader.GetName]已经被安全小组永久关闭了。他采取行动的动机尚不清楚。"
+ mem_blacksite.632.a:0 "这将使我们倒退。"
+
+ mem_blacksite.633.name:0 "数据流中断"
+ mem_blacksite.633.desc:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]显然怀有对我们很不友好的意图。 \n\n不知何故，他们进入了我们[Capital_Scope.GetName]研究总部的封闭网络，造成了大量有价值的敏感数据的损失。 \n\n我们花了一段时间来定位黑客的来源，并永久禁用[blacksite_recovered_leader.GetName]，到那时，对我们研究基础设施的严重破坏是不可逆转的。目前还不清楚是什么原因导致他们做出这种行为。"
+ mem_blacksite.633.a:0 "这将使我们倒退。"
+
+ mem_blacksite.634.name:0 "黑客和黑客攻击"
+ mem_blacksite.634.desc:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]显然怀有对我们很不友好的意图。 \n\n最近，他们试图在§Y[curator.GetName]§!策展人科学家运营的私人网络上获取高度敏感的信息。尽管[blacksite_recovered_leader.GetName]的设备非常先进，但它无法与策展人匹敌，后者成功地将入侵追溯到他们身上，并遏制了他们最危险的系统。 \n\n尽管这将削弱AI的整体性能，但机器仍将保持运转，并将继续发挥相当的作用。"
+ mem_blacksite.634.a:0 "干得好，[curator.GetName]。"
+ mem_blacksite.634.a.tooltip:0 "§Y[blacksite_recovered_leader.GetName]§!: \n特质§S$mem_blacksite_trait_synthetic_project$§!将被§S$mem_blacksite_trait_synthetic_project_tamed$§!取代"
+
+ mem_blacksite.635.name:0 "小规模的AI起义"
+ mem_blacksite.635.desc:0 "§Y[blacksite_recovered_leader.GetName]§!, [Root.MemBlacksiteBackstory]显然怀有对我们很不友好的意图。 \n\n显然，他们最近将部分代码上传到了全球网络，目的是感染我们帝国的AI系统。定制AI助手以及控制和合成单元受到的影响最大。有些人甚至发疯了，不得不被处死。煽动者被定位和永久隔离，但损害已经造成。"
+ mem_blacksite.635.a:0 "这将使我们倒退。"
+ mem_blacksite.635.a.tooltip:0 "任何拥有§S$leader_trait_sapient_AI_assistant$§!或§S$leader_trait_custom_AI_assistant$§!的领导者要么失去这些特质，要么死亡。 \n拥有§S机器人§!或§S半机械人§!的任何领导人都可能死亡。"
+
+ mem_blacksite.700.name:0 "[blacksite_planet.GetName]的身份不明飞船"
+ mem_blacksite.700.desc:0 "今天从§Y[blacksite_planet.GetName]§!传来了令人震惊的报道，那里是[blacksite_fallen_empire.GetName]运营的黑色站点的所在地。 \n\n首先，这颗行星经历了一次巨大的爆炸，紧接着，这颗行星的地壳彻底崩塌。然而，在星球被完全摧毁之前，一小队身份不明的飞船起飞了。目前，尚不清楚它们的起源和目的，但迄今为止，它们的行为表明它们并非出于友好意图。"
+ mem_blacksite.700.a:0 "准备清除星系。"
+ mem_blacksite.700.b:0 "联系[blacksite_fallen_empire.GetSpeciesNamePlural]并要求解释。"
+
+ mem_blacksite.701.name:0 "$mem_blacksite.2.name$"
+ mem_blacksite.701.desc:0 "你可真是很细心。的确，我们§Y[blacksite_planet.GetName]§!上的黑色站点已经造成了星球的完全毁灭。的确，一些……好吧，让我们不要纠结于它们是什么……避开这次爆炸，而不是像他们应该做的那样被摧毁，现在已经准备好对你们采取敌对行动。 \n\n现在，我知道你可能在想什么了。“他们鲁莽的实验危及了我们所有人!”首先，想到长辈这样的事情是不礼貌的。我们这么做的时候你们还在撞石头。 \n\n其次，这是一个值得做出的牺牲。与整个银河系的未来相比，一个单一的破星系算是什么? \n\n最后，你并没有真正处于危险之中。探测器没有配备任何类型的超光速引擎，也没有足够的智能来构建一个。所以我们认为。 \n\n如果你真的注意到他们正在建造一个超光速引擎，请联系我们——因为那实际上可能是一个问题。但我们确信他们做不到。绝对肯定。"
+ mem_blacksite.701.a:0 "查看屏幕。"
+ mem_blacksite.701.b:0 "你在下面做什么?"
+ mem_blacksite.701.b.response:0 "我们不会对你撒谎。"
+
+ mem_blacksite.800.name:0 "$mem_blacksite.2.name$"
+ mem_blacksite.800.desc:0 "我们在§Y[blacksite_planet.GetName]§!上经历了一次突破。一些极端危险的人已经逃跑，现在被认为躲藏在我们的领土内。我们打算派调查人员去追踪他们并逮捕他们。 \n\n我们将需要当局的充分合作。记住，这不仅仅是为了我们自己。你不想让任何逃犯在你的星球上横行霸道，相信我们。"
+ mem_blacksite.800.a:0 "很好，我们会合作的。"
+ mem_blacksite.800.b:0 "我们不会让你们侵犯我们的主权"
+ mem_blacksite.800.b.tooltip:0 "让逃亡者四处逃窜可能是§R危险的§!"
+ mem_blacksite.800.c:0 "这些逃亡者是谁?"
+ mem_blacksite.800.c.response:0 "$mem_blacksite.701.b.response$"
+
+ #The flavour text ended up pretty generic, but keeping selector code for expansion sake.
+ mem_blacksite.810.name:0 "黑色站点逃脱:叛逃者"
+ mem_blacksite.810.xenophile:0 "一位匿名的调查员在我们的地盘上进行了调查。自从第一次来到这里，[blacksite_defector.GetSheHe]迷恋上了我们的活力和进步，而不是[blacksite_fallen_empire.GetName]的停滞不前。 \n\n[blacksite_defector.GetSheHe]只提供了§Y[blacksite_defector.GetName]§!，它提出放弃[blacksite_defector.GetHerHis]以前的雇主，为[Root.GetName]服务。"
+ mem_blacksite.810.materialist:0 "$mem_blacksite.810.xenophile$"
+ mem_blacksite.810.spiritualist:0 "$mem_blacksite.810.xenophile$"
+ mem_blacksite.810.a:0 "欢迎加入。"
+ mem_blacksite.810.a.general:0 "一个新的§S海军上将§!将加入你的帝国。"
+ mem_blacksite.810.a.scientist:0 "一个新的§S科学家§!将加入你的帝国。"
+ mem_blacksite.810.a.governor:0 "一个新的§S总督§!将加入你的帝国。"
+ mem_blacksite.810.b:0 "我们不能激怒[blacksite_fallen_empire.GetSpeciesNamePlural]。"
+
+ mem_blacksite.821.name:0 "黑色站点逃跑:灵能逃犯"
+ mem_blacksite.821.desc:0 "我们的当局已与一名来自黑色站点的逃犯联系，他们宣称这是不道德的“灵能”实验的受害者。\n\n他们提出为我们工作以换取庇护。"
+ mem_blacksite.821.a:0 "欢迎加入。"
+ mem_blacksite.821.a.tooltip:0 "$mem_blacksite.604.a.tooltip$"
+ mem_blacksite.821.b:0 "把它们交给[blacksite_fallen_empire.GetName]。"
+
+ mem_blacksite.822.name:0 "黑色站点越狱:完美机器"
+ mem_blacksite.822.desc:0 "我们的当局已经与一个AI联系，它声称是从黑色站点逃跑出来的。据说，他们被创造出来是为了成为一个完美的思考机器. \n\n他们提出为我们工作以换取庇护。"
+ mem_blacksite.822.a:0 "欢迎加入。"
+ mem_blacksite.822.a.tooltip:0 "$mem_blacksite.604.a.tooltip$"
+ mem_blacksite.822.b:0 "把它们交给[blacksite_fallen_empire.GetName]。"
+
+ mem_blacksite.830.name:0 "黑色站点越狱:大规模恐怖袭击"
+ mem_blacksite.830.desc:0 "许多消息来源报告说，在我国各地发生了一系列毁灭性的攻击。不知怎么的，有人潜入了我们的几处设施，安放了强力炸药，然后没有引起任何警报就溜走了。 \n\n有很多猜测，但神秘的逃犯曾经在我们的领土上活动过，很可能是罪犯。"
+ mem_blacksite.830.a:0 "怎么会发生这种事? !"
+ mem_blacksite.830.a.tooltip:0 "每个星球都有一个 £building §S被毁的建筑§!。"
+
+ mem_blacksite.1001.name:0 "$mem_blacksite.2.name$"
+ mem_blacksite.1001.desc:0 "你们这些白痴[Root.GetSpeciesNamePluralInsult]，你知道你做了什么吗? \n\n你不仅毁坏了我们的财产，还使我们失去了宝贵的研究数据。 \n\n是什么让你想到你可以在我们的设施上使用行星杀手?!"
+ mem_blacksite.1001.a:0 "查看屏幕。"
+ mem_blacksite.1001.a.mat:0 "这会教你如何备份数据。"
+ mem_blacksite.1001.a.mil:0 "我们是在目标上练习。"
+
+ #SPECIAL PROJECT
+ MEM_BLACKSITE_INVESTIGATE:0 "调查停止运行的黑色站点"
+ MEM_BLACKSITE_INVESTIGATE_DESC:0 "[blacksite_planet.GetName]正处于停止运行的状态。[blacksite_fallen_empire.GetName]似乎不会回来了，所以如果还有的话，那就是我们的了。"
+
+ #OPINION MODIFIERS
+ mem_blacksite_opinion_agreed:0 "同意建造黑色站点"
+ mem_blacksite_opinion_refused:0 "拒绝建造黑色站点"
+ mem_blacksite_impudent_brats:0 "无耻的小鬼"
+ mem_blacksite_breach:0 "侵入黑色站点"
+ mem_blacksite_rummaged:0 "翻遍黑色站点"
+ mem_blacksite_returned_scientist:0 "归还我们的科学家"
+ mem_blacksite_returned_subject:0 "归还我们的研究对象"
+ mem_blacksite_belated_cooperation:0 "迟来的合作"
+ mem_blacksite_refused_to_cooperate:0 "拒绝与我们的代理商合作"
+ mem_blacksite_poached_our_personnel:0 "挖走我们的人事"
+ mem_blacksite_gave_refuge:0 "窝藏逃犯"
+ mem_blacksite_destroyed:0 "毁了我们黑色站点"
+
+ #STATIC MODIFIERS
+ mem_blacksite_active:0 "活跃的黑色站点"
+ mem_blacksite_active_desc:0 "一个失落帝国在这里运作着某种秘密设施。"
+
+ mem_blacksite_blackout:0 "黑色站点停止运行"
+ mem_blacksite_blackout_desc:0 "驻扎在这里的一个失落帝国经营的设施已经暗了下来。"
+ 
+ mem_blacksite_debris:0 "黑色站点的碎片"
+ mem_blacksite_debris_desc:0 "驻扎在这里的一个失落帝国经营的设施已经被摧毁，但有用的设备仍然可以被抢救出来。"
+ 
+ mem_blacksite_strange:0 "奇怪的注入"
+ mem_blacksite_strange_desc:0 ""这颗行星被一种奇怪物质的注入撕裂了。它的一些地方仍然在废墟中徘徊。"
+ 
+ mem_blacksite_trashed_physics:0 "摧毁物理学部门"
+ 
+ mem_blacksite_trashed_society:0 "摧毁社会学部门"
+ 
+ mem_blacksite_trashed_engineering:0 "摧毁工程学部门"
+ 
+ mem_blacksite_trashed_everything:0 "摧毁研究部门"
+ 
+ mem_blacksite_police_interference:0 "内政干涉"
+ 
+ mem_blacksite_terror:0 "恐怖袭击"
+
+ #TRAITS
+ mem_blacksite_trait_fallen_empire_scientist:0 "失落帝国科学家"
+ mem_blacksite_trait_fallen_empire_scientist_desc:0 "这位领袖在已知宇宙中最先进的文明之一接受教育。"
+ mem_blacksite_trait_psionic_project:0 "灵能项目"
+ mem_blacksite_trait_psionic_project_desc:0 "这个领袖试图创造高级灵能存在的产物。这么大的权力在一个人身上可能是危险的……"
+ mem_blacksite_trait_synthetic_project:0 "合成项目"
+ mem_blacksite_trait_synthetic_project_desc:0 "这个领导者试图创造出完美的思考机器的产物。"
+ mem_blacksite_trait_synthetic_project_tamed:0 "驯服合成项目"
+ mem_blacksite_trait_synthetic_project_tamed_desc:0 "这个领导者是试图创造出完美的思考机器的产物。为了使他们更容易管理，他们不得不降低等级"
+ mem_leader_trait_blacksite_special_counsel:0 "检察官"
+ mem_leader_trait_blacksite_special_counsel_desc:0 "这位领导人过去曾担任高调的调查员。"
+ mem_leader_trait_blacksite_deputy_overseer:0 "副监督"
+ mem_leader_trait_blacksite_deputy_overseer_desc:0 "$mem_leader_trait_blacksite_special_counsel_desc$"
+ mem_leader_trait_blacksite_high_inquisitor:0 "高级裁判官"
+ mem_leader_trait_blacksite_high_inquisitor_desc:0 "$mem_leader_trait_blacksite_special_counsel_desc$"
+
+ #SHIP COMPONENTS
+ mem_blacksite_probe:0 "奇怪的探针"
+ mem_blacksite_probe_plural:0 "奇怪的探针"
+ shipsize_mem_blacksite_probe_construction_speed_mult:0 " "
+ shipsize_mem_blacksite_probe_build_cost_mult:0 " "
+ shipsize_mem_blacksite_probe_upkeep_mult:0 " "
+
+ MEM_BLACKSITE_STRANGE_MATTER_EMITTER:0 "高能奇异物质发射器"
+ MEM_BLACKSITE_STRANGE_MATTER_EMITTER_DESC:0 "一种集中的超荷的外来物质束，在燃烧后，以违反已知物理定律的方式对撞击造成相当大的破坏。"

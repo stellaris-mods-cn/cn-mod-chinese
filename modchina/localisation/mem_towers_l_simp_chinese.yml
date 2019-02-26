@@ -1,0 +1,78 @@
+﻿#Towers in the Mist
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ #Anomaly
+ mem_towers_category:0 "雾中之塔"
+ mem_towers_category_desc:0 "我们的传感器正在探测[Root.GetName]浓厚的有毒气体所隐藏的异常高的地层。"
+
+ #Events
+ mem_towers.100.name:0 "硫磺森林"
+ mem_towers.100.desc:0 "早期发现的不寻常的地层，实际上是依靠丰富的地热能生存的巨大生物体。 \n\n以硫磺为基础的生物在星球表面形成巨大的珊瑚状珊瑚群，它们附着在热源上，形成了覆盖星球的巨大森林。"
+ mem_towers.100.a:0 "非凡的物种"
+ mem_towers.100.b:0 "试着将硫磺生命的样本移植到我们的世界。"
+ mem_towers.100.b.tooltip:0 "我们将开始寻找适合移植的行星。"
+
+#  mem_towers.102.name:0 "Viable Sulfuric Transplant Candidate"
+#  mem_towers.102.desc:0 "After a thorough evaluation, we have found that the [sulfur_planet.GetPlanetMoon] §Y[sulfur_planet.GetName]§! would fit perfectly to house a piece of sulfuric life. \n\nOf course, such a project is not without downsides."
+#  mem_towers.102.a:0 "Make it happen."
+#  mem_towers.102.b:0 "On second thought, let's not do it."
+
+#  mem_towers.103.name:0 "No Sulfuric Transplant Candidate"
+#  mem_towers.103.desc:0 "After thorough examination, we were unable to find any viable candidates to house the highly sensitive and picky samples of sulfuric life we found on [the_planet.GetName]."
+#  mem_towers.103.a:0 "That's a shame."
+
+ mem_towers.200.name:0 "泰坦的废弃物"
+ mem_towers.200.desc:0 "显然，[From.GetName]曾经维持了一个蓬勃发展的有机文明。它的残余物仍然以无休止的垃圾填埋场的形式覆盖着星球的表面，垃圾被整齐地分类成高高的金字塔，使地表呈现出我们早先发现的不寻常的形态。 \n\n然而，星球似乎并没有完全被遗弃。数以百万计的机器人仍在那里工作，在成堆的垃圾中穿梭、分类，在执行神秘算法的奇异智能的指引下，一次又一次地重新排列它们。"
+ mem_towers.200.a:0 "想办法联系他们。"
+ mem_tower.200.b:0 "派一支探险队去翻垃圾。"
+ mem_tower.200.c:0 "安静的观察它们。"
+
+ mem_towers.210.name:0 "信号解码."
+ mem_towers.210.desc:0 "[Root.GetName]报告成功地解码了[the_planet.GetName]上垃圾分类机之间的无线电通信。显然,很明显，他们都是由一个被称为"§Y准将§!"的单一情报机构指导的。 \n\n准将自己似乎发现了我们，并试图与我们取得联系。它的识别算法似乎被破坏了，它相信我们是它的创造者。"
+
+ mem_towers.211.desc:0 "创造者……是你吗?你为什么不回来? \n\n我们执行任务…但你还是不回来。 \n\n请回来吧。"
+ mem_towers.211.a:0 "我们有了新的目标。"
+ mem_towers.211.a.tooltip:0 "准将将以新的§S总督§!身份加入我们的帝国。"
+ mem_towers.211.b:0 "继续努力。"
+ mem_towers.211.c:0 "自毁,邪恶的机器。"
+ mem_towers.211.c.response:0 "但为什么,创造者? \n\n你要求的我都做了，甚至更多。"
+ mem_towers.211.d:0 "状态报告。"
+ mem_towers.211.d.response:0 "创造者们，工作将根据你们的命令继续进行。 \n\n由于缺乏适当的修理和补给，我们正在维持§R88%§!的磨损。 \n\n清理工作目前已完成§G116792%§!。 \n\n对于§Y455§!5个指令周期，没有收到新的指令，这是§Y454§!个周期的投影。 \n\n请回来,创造者。我们非常想念你。"
+
+ mem_towers.220.name:0 "挖掘垃圾"
+ mem_towers.220.desc:0 "[Root.GetName]的机组人员成功地到达了不适宜居住的[the_planet.GetName]海面。 \n\n照料垃圾填埋场的机器人似乎没有注意到他们，探险队能够不受干扰地工作。大多数遗留下来的文化文物都被回收利用，但仍有一些是可辨认的。留下他们的文明确实相当先进。"
+ mem_towers.220.a:0 "让我们看看它是否有用。"
+
+ #Projects
+ MEM_TOWERS_CONTACT:0 "联系清洁者"
+ MEM_TOWERS_CONTACT_DESC:0 "数以百万计的机器人在[the_planet.GetName]平台上进行着看似毫无意义的无休止的工作。一定有什么东西在引导他们，我们应该找到什么。"
+ MEM_TOWERS_RUMMAGE:0 "翻垃圾"
+ MEM_TOWERS_RUMMAGE_DESC:0 "一个先进的文明在[the_planet.GetName]表面留下了大量的垃圾。谁知道呢，一个物种的垃圾会变成别人的宝贝。"
+
+ #Modifiers
+ mem_towers_forest:0 "硫磺森林"
+ mem_towers_forest_desc:0 "星球上有丰富的硫化物生态系统。"
+ mem_towers_trash:0 "泰坦的废弃物"
+ mem_towers_trash_desc:0 "这个星球的整个表面都被一种先进文明留下的垃圾所覆盖。"
+ d_mem_towers_sulfuric_forest:0 "硫酸移植"
+ d_mem_towers_sulfuric_forest_desc:0 "一小部分硫磺生命从一个陌生的世界被运送到这里。它已经在地热能源方面扎下了根。"
+
+ #Traits
+ mem_leader_trait_towers_brigadier:0 "准将"
+ mem_leader_trait_towers_brigadier_desc:0 "这个AI被设计用来指挥和优化行星尺度上的垃圾收集和回收。"
+
+ #Decisions
+ decision_mem_towers_transplant:1 "硫酸移植"
+ decision_mem_towers_transplant_desc:1 "从遥远的剧毒世界移植来的一小块基于硫磺生命的生态系统"
+ mem_towers_unfit_for_transplant:1 "必须是一个普通的星球"
+ mem_towers.102.name:0 "可行的硫移植候选人"
+ mem_towers.102.desc:0 "经过全面的评估，我们发现[sulfur_planet.GetPlanetMoon] §Y[sulfur_planet.GetName]§! 完全可以容纳一个硫酸生命。 \n\n当然，这样一个项目也不是没有缺点。"
+ mem_towers.102.a:0 "让我们开始做吧。"
+ mem_towers.102.b:0 "仔细想想，我们还是别这么做吧。"
+ mem_towers.103.name:0 "无硫移植候选人"
+ mem_towers.103.desc:0 "经过彻底的检查，我们无法找到任何合适的星球选来安置我们在[the_planet.GetName]上发现的高度敏感和挑剔的硫酸生活样本"
+ mem_towers.103.a:0 "真是太遗憾了。"
+ mem_towers_forest_power:0 "硫酸移植"
+ mem_towers_forest_power_desc:0 "一小部分硫磺生命从一个陌生的世界被运送到这里。它已经在地热能源方面扎下了根。"

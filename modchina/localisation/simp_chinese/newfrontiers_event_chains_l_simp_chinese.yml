@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ 
+ ####################################
+ # Event Chains
+ ####################################
+ 
+ ancient_machine_chain_title:0 "[Root.GetName]星球上的古老机器"
+ ancient_machine_chain_desc:0 "在[Root.GetName]行星上发现了一台古老的造地机器。有必要决定如何使用这个装置。"
+ 

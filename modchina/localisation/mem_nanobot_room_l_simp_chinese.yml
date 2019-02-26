@@ -1,0 +1,24 @@
+﻿
+# Writing and Code by Rahorus
+
+l_simp_chinese: 
+
+ # Anomaly Category 
+ mem_nanobot_room_category:0 "独特的矿物基地"
+ mem_nanobot_room_category_desc:0 "扫描表明[Root.GetName]表面上有一个有趣的发现。它似乎是一个废弃的采矿站，但我们的科研船的传感器已经收集到来自站内波动的能量信号。\n\n看来该设施仍然活跃。"
+ 
+ # Anomaly Success
+ mem_nanobot_room.1.name:0 "纳米机器人采矿站"
+ mem_nanobot_room.1.desc:0 "尽管最初登陆表面时遇到了困难，由[Root.GetLeaderName]领导的科学考察队成功安全地进入了该空间站。跟着他们装备的传感器，团队开始了朝向不稳定的能源信号源自的地方，进入设施的深处的艰苦旅程。他们所发现的东西非常不同凡响。\n\n不规则的能量信号是由一群纳米机器人产生的，尽管他们开始老化并缺乏维护，但似乎没有忘记他们的目的。团队敬畏地看着这些纳米机器人（因为缺乏更好的术语）“吞噬”看似无用的岩石和石块，“消化”了内容物，将无用的材料“排出”到废物箱，并将有价值的矿物质”反刍“检索收集，这似乎已经不止有一段时间了。"
+ mem_nanobot_room.1.a:0 "他们的创造者不会介意我们拿走他们的矿石。"
+ mem_nanobot_room.1.mat:0 "修复纳米机器人。"
+ 
+ # Anomaly Failure
+ mem_nanobot_room.10.name:0 "失败"
+ mem_nanobot_room.10.desc:0 "能量信号随着它们的出现而消失。经过几个小时的探测和调查，[Root.GetLeaderName]放弃[Leader.GetHisHer]搜索。无论什么引起的能量信号将永远不会被发现。"
+ mem_nanobot_room.10.a:0 "走吧."
+ 
+ # Anomaly Epic Failure
+ mem_nanobot_room.20.name:0 "严重失败"
+ mem_nanobot_room.20.desc:0 "随着团队登陆星球表面，[Root.GetLeaderName]意外触发了旧的防御协议。地面震动，引起团队的好奇心和恐惧的是，设施深处导航到的能量信号如今直指科学团队而来。该团队试图离开这个星球，但无济于事。\n\n能量信号表现为一群有攻击性的纳米机器人，它们迅速吞噬[Root.GetLeaderName]，[Leader.GetHisHer]船员，甚至整个科学船。在吃光船员后，纳米机器人迅速进入采矿设施。我们似乎永远不会知道纳米机器人最初在做什么。"
+ mem_nanobot_room.20.a:0 "该死."

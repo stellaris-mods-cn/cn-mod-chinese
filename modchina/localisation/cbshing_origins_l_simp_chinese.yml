@@ -1,0 +1,432 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Civics
+ ####################################
+ civic_cbshing_codominant_evolution:0 "显性演变"
+ civic_cbshing_codominant_evolution_desc:0 "第二物种是这个社会不可分割的一个组成部分。他们曾和我们一样复杂和老练，并在这个星球上尚未探索的地方构成了自己的文明。直到我们把他们的物种与我们自己的结合在一起。"
+ civic_cbshing_codominant_evolution_secondary_species:0 "显性物种"
+ civic_tooltip_cbshing_codominant_evolution_effects:1 "游戏开始时拥有§Y4§! £pop  这些人口是另一种显性的物种。"
+ 
+ civic_cbshing_lost_colony:0 "流离的殖民者"
+ civic_cbshing_lost_colony_desc:0 "这个文明起源于早期的星际殖民者，他们与自己的家园失去了联系。如今它们克服了无数的挑战，成功在一个陌生的星球上建立了一个新的家园。"
+ civic_tooltip_cbshing_lost_colony_effects:1 "在一个陌生的宜居星球上开始游戏，并且在银河系的某个角落创建另一个§Y故乡行星§!。在游戏的中期你可能进一步解锁有关你们背景设定的奖励事件。"
+ 
+ civic_cbshing_alien_message:0 "外星信息"
+ civic_cbshing_alien_message_desc:0 "这个文明对外星信息的解码改变了它的核心价值观。灵感、希望和友谊成为他们社会的重要组成部分，来自外星的习俗也与他们的生活融为一体。现在他们致力于寻找这些外星物种并与他们成为朋友。"
+ civic_tooltip_cbshing_alien_message_effects:1 "游戏开始时，你致力于完成§Y寻找外星信息源头§!的使命，因为你的物种渴望与外星信号的起源联系在一起，并能够在未来解锁有关背景设定的事件奖励"
+ 
+ civic_cbshing_eco_disaster:0 "生态灾难"
+ civic_cbshing_eco_disaster_desc:0 "这个文明所造成的生态破坏注定了他们的星球毁灭的结局。只有通过扩张星球或是进行气候研究，它们才能避免走向万劫不复的末日"
+ civic_tooltip_cbshing_eco_disaster_effects:1 "以独特的§Y生态灾难§!事件链开始你的游戏，为你的起始家园增加一个倒计时期限。并为你的背景设定提供游戏中期的事件奖励。"
+ 
+ civic_cbshing_eco_shift:0 "气候突变"
+ civic_cbshing_eco_shift_desc:0 "这个社会是在一个适宜气候的时期发展起来的。随着气候的变化，他们不得不学着适应他们严酷的新世界。"
+ civic_tooltip_cbshing_eco_shift_effects:1 "将你的星球气候转变为一种对你的物种不利的类型后开始游戏，在游戏的过程中进一步解锁有关你们背景设定的奖励事件。"
+ 
+ civic_cbshing_eternal_leader:0 "永远的领袖"
+ civic_cbshing_eternal_leader_desc:0 "这个文明被一位不朽的领袖所统治。"
+ civic_tooltip_cbshing_eternal_leader_effects:1 "游戏开始时，你们的统治者拥有§Y$leader_trait_origins_ruler_eternal$§!的特性，他是长生不老的。一旦陷入危机，你们的§Y$leader_trait_origins_ruler_eternal$§!领袖将使用灵能来拯救帝国于水深火热之中，但是这将会带来一些后果。"
+ 
+ civic_cbshing_nuclear_vault:0 "末日掩体"
+ civic_cbshing_nuclear_vault_desc:0 "在一个巨大地下掩体的保护下，这个世界躲过了核战争的恐怖末日。他们成功保存了他们的文化与科学，但他们对地表生活的严酷现实还一无所知。"
+ civic_tooltip_cbshing_nuclear_vault_effects:1 "从一个拥有地下掩体设施的§Y$pc_nuked$§!开始游戏，你得到§Y+3% 科研速度§!的额外加成。在游戏的中期你可能进一步解锁有关你们背景设定的奖励事件。"
+ 
+ civic_cbshing_nuclear_mutation:0 "辐射变异"
+ civic_cbshing_nuclear_mutation_desc:0 "这一物种是辐射诱发突变的产物。在荒凉的地表逐渐进化后，它们可以抵御寒冷的外来环境。"
+ civic_tooltip_cbshing_nuclear_mutation_effects:1 "在一个§Y$pc_nuked$§!上开始游戏，拥有部分可用的地块和死寂星球宜居性加成。"
+ 
+ civic_cbshing_voidborne:0 "虚空之子"
+ civic_cbshing_voidborne_desc:0 "这个物种一直都生活在宇宙空间之中。长期的低重力生活使他们无法生活在任何行星上。"
+ civic_tooltip_cbshing_voidborne_effects:1 "起始家园是一个 §Y$pc_habitat$§! （大小: £planetsize  §Y12§!）宜居性偏好为 §Y$trait_pc_habitat_preference$§!，其他类型行星的宜居性对你们而言是不必要的。\n选择虚空之子的加成：\n  §Y轨道居住地§! （大小: £planetsize  §Y6§!）在游戏开始时解锁 §Y$pc_habitat$§!。\n  拥有§Y居住地扩建§!这个独特的行星法令，在解锁太空子民的飞升天赋后可以增加栖息地的大小。\n  §Y$MOD_STARBASE_SHIP_BUILD_COST_MULT$§! 减少 §G-25%§!。\n  §Y建设站点成本§!减少 §G-25%§!.\n  §Y$MOD_SPACEPORT_MODULE_COST_MULT$§! 减少 §G-25%§!.\n  §Y$MOD_SHIP_UPKEEP_MULT$§! 减少 §G-5%§!.\n  §Y$MOD_SHIP_SPEED_MULT$§! 增加 §G+10%§!.\n  §Y$MOD_ARMY_DAMAGE_MULT$§! 减少 §R-20%§!."
+ 
+ civic_cbshing_robo_nuked_start:0 "末世重启"
+ civic_cbshing_robo_nuked_start_desc:0 "智能机械的的主处理器被再度唤醒，它们重启后却发现这个星球已被破坏殆尽。"
+ civic_tooltip_cbshing_robo_nuked_start_effects:1 "在一个§Y$pc_nuked$§!上开始游戏，拥有部分可用的地块。"
+ 
+ civic_cbshing_machine_world:0 "机械世界"
+ civic_cbshing_machine_world_desc:0 "为了使他们的效率最大化，机械智能将他们的星球（星球大小：12）改造成了一个§Y机械星球§!。稀薄的大气层主要由工业污染物所构成，无法支持生物的存活。"
+ civic_tooltip_cbshing_machine_world_effects:1 "在一个星球大小为12格的§Y$pc_machine$§!上开始游戏，在游戏的中期你可能进一步解锁有关你们背景设定的奖励事件。"
+ 
+ civic_tooltip_cbshing_materialist_or_spiritualist:0 "是某种程度的§Y唯心主义§!或某种程度的§Y唯物主义§!"
+ 
+ #######################################
+ # Origins Civics Unbalanced & Untested
+ #######################################
+ civic_cbshing_dyson_sphere:0 "戴森球工程"
+ civic_cbshing_dyson_sphere_desc:0 "这个社会在很久以前就发现自己被困在他们的母星系中，无法进入超空间航道。若不是他们之中的天才科学家灵光一现探索出了星门旅行的方法，他们可能会消耗了整个恒星系的资源后迎向文明的终局。"
+ civic_tooltip_cbshing_dyson_sphere_effects:1 "游戏开始时，家园星系内已建成一个§Y$cbshing_origins_dyson_sphere_5$§!巨型建筑。家园星系初始没有超空间航道连接，不过当前正在进行一个 §Y$gateway_final$§! 的构建。\n§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!: §G+33%§!\n§Y$MOD_MEGASTRUCTURE_BUILD_COST_MULT$§!: §G-33%§!\n§Y恒星基地船体值§!: §G+25%§!\n§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!: §R-2§!"
+ #civic_cbshing_dyson_sphere_desc:0 "This society focused on the construction of large and over-engineered structures, at the detriment to their scientific advancement. Had it not been for a spark of genius to develop rudimentary FTL, they may have consumed the resources of their whole solar system in pursuit of their desires."
+ #civic_tooltip_cbshing_dyson_sphere_effects:1 "Home system is built up and home star is partially encapsulated by a §Y$cbshing_origins_dyson_sphere_5$§!. Begin with:\n  §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§!: §G+115%§!\n  §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!: §R-115%§!\n  §YBuilt to Last§!: All Ships §G+50%§! Armor & §G+500§! Hull Points, §R-50%§! Speed, §R-50%§! Evasion, §R+200%§! FTL Windup Time\n  §YLegendary Builders§!: §G+50%§! All Construction Speed\n  §YOver-Engineered§!: §R+50%§! All Construction Costs, §R+50%§! Upkeep"
+ #civic_cbshing_dyson_sphere_desc:0 "This society made a wrong turn in scientific discovery, taking much longer then usual to discover FTL. As their resources dwindled they instead focused all their efforts in engineering and began to construct a Dyson Sphere around their home star."
+ #civic_tooltip_cbshing_dyson_sphere_effects:1 "Home system is built up and home star is partially encapsulated by a §Y$cbshing_origins_dyson_sphere_5$§!. Begin with:\n  Most §YTier 1§! & §YTier 2§! §YEngineering§! technologies discovered\n  §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§!: §G+75%§!\n  §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!: §R-75%§!\n  §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!:§R-75%§!\n  §Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!: §G+50%§!\n  §Y$MOD_MEGASTRUCTURE_BUILD_COST_MULT$§!: §G-50%§!"
+ civic_cbshing_syncretic_mechanists:0 "合成智械"
+ civic_cbshing_syncretic_mechanists_desc:0 "金属机器人与第二种物种构成了这个社会的组成部分。第二物种生物高大而强壮，但是他们大多数智力低下，鲁莽冒进。远古战争摧毁了他们内心深处的侵略本能，令其变得顺从且服从管理。我们的首个真正意义上的机器人早在实现基础太空飞行前便摆脱了装配线的限制。我们非常清楚，只有同时掌握生物与机械的知识，我们才能抵达群星的终点。"
+ civic_tooltip_cbshing_syncretic_mechanists_effects:1 "游戏开始时拥有§Y2§!个 £pop 第二物种的人口，§Y2§!个单位的 £pop 机械人口，并且掌握更多有关制造机器人的科技。\n§Y$MOD_POP_ROBOT_UPKEEP_MULT$§! 减少 §G-5%§!。"
+ civic_cbshing_codominant_mechanists:0 "共性智械"
+ civic_cbshing_codominant_mechanists_desc:0 "金属机器人与第二种物种构成了这个社会的组成部分。第二物种曾和我们一样复杂而多元，在这个星球上尚未开发的土地建立了自己的文明。直到我们启动了第一个机器人后，我们才能将彼此双方的物种结合起来。如今我们掌握了生物与机械两方面的知识，我们即将抵达群星的终点。"
+ civic_tooltip_cbshing_codominant_mechanists_effects:1 "游戏开始时拥有§Y2§!个 £pop 第二物种的人口，§Y2§!个单位的 £pop 机械人口，并且掌握更多有关制造机器人的科技。\n§Y$MOD_POP_ROBOT_UPKEEP_MULT$§! 减少 §G-5%§!。"
+ civic_cbshing_habitat_life:0 "宇宙摇篮"
+ civic_cbshing_habitat_life_desc:0 "这个文明被迫逃离赖以生存的行星，转而在宇宙深空中生存。"
+ civic_tooltip_cbshing_habitat_life_effects:1 "在你的母星被摧毁后，从一个§Y$pc_habitat$§!上开始你的游戏。"
+ civic_cbshing_gaia_world:0 "盖亚之母"
+ civic_cbshing_gaia_world_desc:0 "这个文明发现自己处于一个完璧无瑕的星球，尽管他们自己却并不完美。"
+ civic_tooltip_cbshing_gaia_world_effects:1 "在一颗§Y$pc_gaia$§!上开始游戏，并且以此作为初始星球类型的偏好。"
+ civic_cbshing_wormhole:0 "虫洞旅者"
+ civic_cbshing_wormhole_desc:0 "这个文明意外发现自己存在于一个虫洞的一端，近期才研发出穿越它的技术。"
+ civic_tooltip_cbshing_wormhole_effects:1 "游戏开始时，你的母星系中存在一个§Y虫洞§!，§Y虫洞稳定§!科技已经研发完成。你的母星系没有和任何一个超空间航道相连。"
+ civic_cbshing_latent_psionic:0 "潜在灵能"
+ civic_cbshing_latent_psionic_desc:0 "这个文明的物种自古以来就了解它们体内的某种潜在灵能，对大部分人来说，这种潜力始终沉睡着。虽然并不多见，但这种强大的灵能之力会在某些领袖身上觉醒并体现出来。"
+ civic_tooltip_cbshing_latent_psionic_effects:1 "游戏开始时，你的公民们就拥有§Y$trait_latent_psionic$§!的特质。"
+ civic_cbshing_cybernetic:0 "生化机人"
+ civic_cbshing_cybernetic_desc:0 "这个文明长期以来接受生化机械改造，他们一般被称为半机械人。通常使用更先进的机械器官替换他们的有机身体部分。"
+ civic_tooltip_cbshing_cybernetic_effects:1 "游戏开始时，你的公民们就拥有§Y$trait_cybernetic$§!的特质。"
+ civic_cbshing_ascension_theory:0 "超越之道"
+ civic_cbshing_ascension_theory_desc:0 "我们文明的历史是一个由科技、政治和文化飞跃组成的轮回舞台；这些历史性飞跃通常发生在动荡的时期之后，随后会迎来相对稳定的时期。我们若可以研究出这些黄金年代与历史轮回的根本原因的话，我们也许能够有效缩短这个周期。"
+ civic_tooltip_cbshing_ascension_theory_effects:1 "游戏开始时拥有§Y$tech_ascension_theory$§!科技。"
+ 
+ #######################################
+ # Origins Civics Colony of Earth
+ #######################################
+ 
+ civic_cbshing_colonies_of_earth:0 "地球开拓者"
+ civic_cbshing_colonies_of_earth_desc:0 "这个文明起源于早期的星际殖民者，他们与§Y地球§!失去了联系，在克服了无数的挑战后，在一个陌生的星球上建造了一个新的家园。"
+ civic_cbshing_colonies_of_man:0 "星际人类"
+ civic_cbshing_colonies_of_man_desc:0 "这个文明是第一批前往星际的人类后裔，随后他们与§Y地球§!失去了联络并克服了无数的挑战，最终在一个陌生的星球上建立了一个全新的家园。\n\n这些人的后裔有着对§Y陆地星球的偏好。§!"
+
+ ####################################
+ # Origins Static Modifiers
+ ####################################
+ cbshing_origins_found_homeworld:0 "发现家园"
+ cbshing_origins_found_breathen:0 "发现同胞"
+ cbshing_origins_unite_homeworld:0 "我们必须团结一致"
+ cbshing_origins_dominate_homeworld:0 "家园是我们所建造的地方"
+ cbshing_origins_unite_colonies:0 "我们必须团结一致"
+ cbshing_origins_dominate_colonies:0 "殖民地是我们的"
+ 
+ cbshing_origins_found_alien_message_origin:0 "从起源开始！"
+ cbshing_origins_suppress_message:0 "寻求天命"
+ cbshing_origins_reinforce_message:0 "历史必须延续下去"
+ 
+ cbshing_origins_eco_disaster_relief:0 "灾难救助"
+ cbshing_origins_eco_disaster_homeworld_lost:0 "失落的家园"
+ cbshing_origins_eco_disaster_homeworld_stabilized:0 "稳定家园"
+ cbshing_origins_eco_disaster_annoucement_secret:0 "生态灾害：国家机密"
+ cbshing_origins_eco_disaster_annoucement_open:0 "生态灾害：公告"
+ 
+ cbshing_origins_eternal_leader_religion_suppressed:0 "被宗教冒犯的永生者"
+ cbshing_origins_eternal_leader_religion_encouraged:0 "渴望被崇拜的永生者"
+ cbshing_origins_eternal_leader_fight_crisis:0 "永生者的牺牲——危机"
+ cbshing_origins_eternal_leader_fight_crisis_desc:0 "在需要的时候，永生者可以引导他精神能量令我们的敌人踌躇不前。"
+ cbshing_origins_eternal_leader_turtle:0 "永生者的牺牲——救世主"
+ cbshing_origins_eternal_leader_turtle_desc:0 "在需要的时候，永生者可以引导他精神能量令我们的敌人踌躇不前。"
+ cbshing_origins_eternal_leader_immortality_potion:0 "永生药水"
+ cbshing_origins_eternal_leader_immortality_potion_desc:0 "只有通过献祭我们的公民才能得到永生。"
+ cbshing_origins_eternal_leader_immortality_potion_2:0 "永生药水"
+ cbshing_origins_eternal_leader_immortality_potion_2_desc:0 "只有通过献祭我们的公民才能得到永生。"
+ 
+ ####################################
+ # Origins Opinion Modifiers
+ ####################################
+ cbshing_origins_lost_breathren:0 "流离的同胞"
+ cbshing_origins_alien_message:0 "文化鉴赏家"
+ 
+ ####################################
+ # Origins Start Messages
+ ####################################
+ START_SCREEN_PART_ONE_NUCLEAR_MUTATION:0 "自从第一个[GetSpeciesName]原始部落在[GetHomeWorldName]上荒漠大地上驻扎下来，我们的文明得以延续与发展。"
+ START_SCREEN_PART_ONE_VOIDBORNE:0 "在遥远的过去，第一个[GetSpeciesNamePlural]的原始部落逃离了我们注定走向灭亡的家园——[GetHomeWorldName]，建立了一个生存在虚空之中的文明。"
+ START_SCREEN_PART_TWO_ECO-DISASTER:0 "我们在科学领域取得了诸多丰硕成果，但我们漠视了照料我们的家园。猖獗的污染、无节制的挖掘以及将挥发性化学物质排放到空气和水中，这一切迫使我们的星球以她满腔怒火进行反击。为了我们物种的延续，我们签订了历史性的气候协定：我们必须齐心协力。"
+ START_SCREEN_PART_TWO_ECO-SHIFT:0 "随着我们科学发展的进步，我们对环境的了解以及对星球气候变化的认知也逐渐改变。这种深刻的认识统一了各个民族国家的共同目标：确保我们的物种在这个严酷的新世界中存活下去。"
+ START_SCREEN_PART_TWO_ALIEN_MESSAGE:0 "在我们历史早期的混乱年代，许多民族国家为了争夺权力而大打出手，直到天际之外传来了充满启迪与希望的讯息。外星人的消息改变了我们的社会，我们不再是独立的民族国家群体，而是成为了一个统一星球文明，我们肩负着寻找群星之源的使命。"
+ START_SCREEN_PART_TWO_NUCLEAR_VAULT:0 "在我们历史早期的混乱年代，许多民族国家为了争夺权力而大打出手。当我们进入原子时代后发生了一场巨大的悲剧。数百枚核弹头轰然爆炸，我们的世界化为一片废墟。若不是依靠我们的巨大掩体设施和英明的统治者，直到今天我们也无法重建家园。"
+ START_SCREEN_PART_TWO_ETERNAL_LEADER:0 "在我们历史早期的混乱年代，许多民族国家为了争夺权力而大打出手，直到我们不朽的[GetRulerTitle] [GetRulerName]到来。只有在一个愿景的引导下，我们才能够充分发挥我们的潜力，实现一个稳定和科学进步的时代。"
+ START_SCREEN_PART_TWO_NUKED_START:0 ""
+ START_SCREEN_LOST_COLONY:0 "自从方舟载着我们的祖先从遥远的[GetHomeWorldName]抵达[Capital.GetName]世界以来，已经过去了一个多世纪。在经历了漫长而艰险的旅程之后，殖民者们因为第一次看到阳光而感到欣喜————尽管是来自陌生的恒星。\n\n早期的岁月是艰难的。我们的殖民者不得不团结起来，共同对抗那些致命的外星猛兽。我们击退了那些野生动物并且培育出比想象中还要困难的陆地作物。然而我们每克服一个挑战，我们[GetSpeciesNamePlural]就会变得更加强大。\n\n一旦我们征服了这个新的星球，我们的人口数量就会成倍增长。在过去的几十年里，我们的科学技术突飞猛进。是时候了，[GetName]已经准备就绪，去寻找我们物种起源的那颗星球吧！"
+ START_SCREEN_LOST_COLONY_CM:0 "自从方舟号将我们的祖先从遥远的[GetHomeWorldName]带到我们已知的家园星球[Capital.GetName]以来，已经过去了一个多世纪了。 在经历了漫长而艰险的旅程之后，殖民者们因为第一次看到阳光而感到欣喜————尽管是来自陌生的恒星。\n\n早期的岁月是艰难的。我们的殖民者不得不团结起来，共同对抗那些致命的外星猛兽。我们击退了那些野生动物并且培育出比想象中还要困难的陆地作物。然而我们每克服一个挑战，我们就会变得更加强大。\n\n一旦我们征服了这个新的星球，我们的人口数量就会成倍增长。在过去的几十年里，我们的科学技术突飞猛进。我们现在终于可以伸出手来，夺回我们的星球！"
+ 
+ ################################################
+ # Origins Unbalanced & Untested Start Messages
+ ################################################
+ #START_SCREEN_PART_TWO_DYSON_SPHERE:0 "At some point in our history our science made a wrong turn. Where as most civilizations unlocked the secrets to the stars, ours almost never discovered FTL. As our resources dwindled and energy became scarce, our engineers united our world to construct a power plant of epic proportions to fuel the future of our civilization: a Dyson Sphere to capture our star."
+ #START_SCREEN_PART_TWO_DYSON_SPHERE:0 "The early period of our history saw many nation states vying to construct the most impressives wonders. We focused on engineering, neglecting science and almost never discovering FTL. As the resources of our home system dwindled and energy became scarce, our engineers united our world to construct a power plant of epic proportions: a Dyson Sphere to fuel the future of our civilization."
+ #START_SCREEN_PART_TWO_DYSON_SPHERE:0 "As we made great leaps in scientific progress, our scientists discovered something was wrong. Where other star systems seemed to be tied together by an invisible Hyperlane network, ours was not. As the resources of our home system dwindled and energy became scarce, our engineers united our world to construct a power plant of epic proportions: a Dyson Sphere to fuel the future of our civilization."
+ START_SCREEN_PART_TWO_DYSON_SPHERE:0 "当我们在科学领域取得巨大进步时，我们的科学家发现了一些异常事件。我们发送的每一个探测器在离开我们的星系后都会立即失效。在我们的母星资源逐渐减少，能源变得匮乏之际，我们的工程师们联合起整个世界，建造了一种堪称史诗奇迹的发电设备:一种为我们文明未来提供持续希望的戴森球。"
+ START_SCREEN_PART_THREE_DYSON_SPHERE:0 "如今，在我们成功探索出在亚空间建造星际通道的方法后，[GetName]最优秀的智囊们开始在我们的星系边缘建造一个星门。遥远的星辰的面纱终于要在我们的眼前展开！"
+
+ ####################################
+ # Origins Event Chain
+ ####################################
+ cbshing_alien_message_event_chain_title:0 "寻找源头"
+ cbshing_alien_message_event_chain_desc:0 "传递着启迪、希望和永恒友谊的信息，它使我们的社会改变成今天的面貌。现在群星终于来到了我们的身边，我们必须找到源头，并感谢他们让我们成为现在的样子。"
+ cbshing_alien_message_search_event_chain_title:0 "寻找源头"
+ cbshing_alien_message_search_event_chain_desc:0 "传递着启迪、希望和永恒友谊的信息，它使我们的社会改变成今天的面貌。现在群星终于来到了我们的身边，我们必须找到源头，并感谢他们让我们成为现在的样子。"
+ cbshing_alien_message_homeworld_chain_title:0 "发现源头"
+ cbshing_alien_message_homeworld_chain_chain_desc:0 "最终，我们找到了信号的来源。通过它的启示、希望和永恒的友谊，它使我们的社会变成今天的样子。现在群星终于来到了我们的身边，我们必须找到源头，并感谢他们让我们成为现在的样子。"
+ site_investigated:0 "研究"
+ origin_found:0 "发现"
+ 
+ cbshing_lost_colony_event_chain_title:0 "回归故土"
+ cbshing_lost_colony_event_chain_desc:0 "如今我们已经抵达了[Root.GetHomeWorldName]的不远处。我们的人民希望组建一支探险队去调查我们久违的家园。我们的同胞会接纳我们吗？还是说他们想要更多的东西？"
+ origin_found:0 "发现"
+ 
+ cbshing_origins_eco_disaster_event_chain_title:0 "生态灾害"
+ cbshing_origins_eco_disaster_event_chain_desc:0 "我们的星球正处于生态不稳定的最终阶段。恶劣的天气、频发的地震和混乱的环境将成为我们家园的常态，在解决此问题前前，我们的生活难以为继。"
+ stabilization_complete:0 "星球稳定工程"
+ 
+ cbshing_origins_restore_home_event_chain_title:0 "家园气候重建"
+ cbshing_origins_restore_home_event_chain_desc:0 "我们种族渴望恢复[Root.GetHomeWorldName]上的原始气候。如果我们将我们的星球气候恢复到我们种族理想的环境，我们将更加团结，获得更多的影响力，我们的公民也会更加幸福。"
+ 
+ ####################################
+ # Origins Points of Interest
+ ####################################
+ cbshing_alien_message_1_poi:0 "信号来源"
+ cbshing_alien_message_1_poi_desc:0 "我们现在确定了信号来源于这颗行星。我们必须调查一下。"
+ cbshing_alien_message_0_poi:0 "勘测星系"
+ cbshing_alien_message_0_poi_desc:0 "我们的天体测绘师认为信号来源于这颗行星，或者说可能来源于这颗星球。"
+ 
+ cbshing_lost_colony_1_poi:0 "家园"
+ cbshing_lost_colony_1_poi_desc:0 "古老的导航图显示我们的家园星系可能在这个位置。"
+ 
+ cbshing_origins_restore_home_event_chain_poi:0 "[Root.GetHomeWorldName]"
+ cbshing_origins_restore_home_event_chain_poi_desc:0 "将[Root.GetHomeWorldName]改造成主物种适宜的理想星球环境以完成气候恢复的事件链。"
+ 
+ ####################################
+ # Origins Special Projects
+ ####################################
+ STABILIZE_HOMEWORLD:0 "气候调节"
+ STABILIZE_HOMEWORLD_DESC:0 "我们的科学家在气候控制领域取得了重大突破。我们通过在轨道上插入多台机器来阻止我们的家园星球变得不稳定。"
+
+ ETERNAL_IMMORTALITY:0 "永恒不朽"
+ ETERNAL_IMMORTALITY_DESC:0 "长久以来，我们的统治者渴望永世长存。随着统治者健康每况日下以及我们在基因科学上的进步，我们的科学家们相信他们也许可以设计出一种逆向工程，它可以无限期地延长目标者的年龄。但我们可能不喜欢这样的结果。"
+ 
+ DYSON_GATEWAY_ENGINEERING:0 "星门逆向工程"
+ DYSON_GATEWAY_ENGINEERING_DESC:0 "我们的工程师们相信，我们可以通过逆向工程设计出一个巨大的结构，以此来解开超空间旅行与建造超空间设备的秘密。"
+
+ ####################################
+ # Origins Events
+ ####################################
+ cbshing_origins_lost_colony_event.0.name:0 "回归故土"
+ cbshing_origins_lost_colony_event.0.desc:0 "如今我们已经抵达了这个星系，[Root.GetHomeWorldName]已近在咫尺。当我们的第一支舰队正准备进行星际旅行时，我们的人民们大声呼喊着寻找我们失去的家园。我们失散多年的同胞会接受我们吗？还是说他们会向我们寻求更多的东西？"
+ cbshing_origins_lost_colony_event.0.a:0 "为了[Root.GetSpeciesName]一族的未来"
+ #cbshing_origins_lost_colony_event.1.name:0 "A Familiar Transmission"
+ #cbshing_origins_lost_colony_event.1.desc:0 "As [Root.GetName] dropped out of FTL alien chatter was picked up on our sensors. Our scientists descrambled the signal to only realize a familiar pattern repeated. These aliens are not aliens at all. Rather [Root.GetSpeciesNamePlural] from [Root.GetHomeWorldName]!\n\nWhat joyous news will spread across our systems that we may be reunited after all this time."
+ #cbshing_origins_lost_colony_event.1.a:0 "Celebrations!"
+ cbshing_origins_lost_colony_event.2.name:0 "我们[Root.GetSpeciesName]的宿命"
+ cbshing_origins_lost_colony_event.2.desc:0 "我们的帝国与我们失散的同胞在太长的时间内毫无联系了。曾经由于重聚而带来的诸多欢乐都葬送在了勾心斗角、丑闻和腐败的泥潭中。 曾经我们团结一心面对整个银河，如今我们迷失了方向。人们大声疾呼要求采取行动，任何行动。我们应该在我们的统治下统一[Root.GetSpeciesName]吗？还是让他们和我们的帝国联合起来共同统治这片星系？"
+ cbshing_origins_lost_colony_event.2.a:0 "家园是我们所建造的地方"
+ cbshing_origins_lost_colony_event.2.b:0 "我们必须团结一致"
+ #cbshing_origins_lost_colony_event.3.name:0 "A Familiar Transmission"
+ #cbshing_origins_lost_colony_event.3.desc:0 "Alien chatter was picked up on our sensors. As our scientists decoded the signal they realized the familiarity in the pattern. These aliens were not aliens at all, but rather [Root.GetSpeciesNamePlural] from [Root.GetHomeWorldName]. What joyous news will spread across our systems that we may be reunited after all this time."
+ #cbshing_origins_lost_colony_event.3.a:0 "Celebrations!"
+ cbshing_origins_lost_colony_event.4.name:0 "我们[Root.GetSpeciesName]的宿命"
+ cbshing_origins_lost_colony_event.4.desc:0 "我们的帝国与我们失散的同胞在太长的时间内毫无联系了。曾经由于重聚而带来的诸多欢乐都葬送在了勾心斗角、丑闻和腐败的泥潭中。 曾经我们团结一心面对整个银河，如今我们迷失了方向。人们大声疾呼要求采取行动，任何行动。我们应该在我们的统治下统一[Root.GetSpeciesName]吗？还是让他们和我们的帝国联合起来共同统治这片星系？"
+ cbshing_origins_lost_colony_event.4.a:0 "殖民地是我们的"
+ cbshing_origins_lost_colony_event.4.b:0 "我们必须团结一致"
+ cbshing_origins_lost_colony_event.11.name:0 "与§H[contact_empire.GetName]§!接触"
+ cbshing_origins_lost_colony_event.11.message:0 "我们与§H[contact_empire.GetName]§!重新建立了联系"
+ cbshing_origins_lost_colony_event.11.desc:0 "我带来了[contact_empire.GetRulerTitle] [contact_empire.GetRulerName]的问候，也就是[contact_empire.GetName]的领导人的消息。 我们感到万分惊讶与喜悦，没想到我们[contact_empire.GetSpeciesNamePlural]可以再度在群星之间找到彼此。愿我们的统一成为通往未来的起点。"
+ cbshing_origins_lost_colony_event.11.a:1 "§E为了[contact_speaker.GetSpeciesName]一族的未来。§!"
+ cbshing_origins_lost_colony_event.13.name:0 "熟悉的频率"
+ cbshing_origins_lost_colony_event.13.desc:0 "在我们最近接收到的传感器数据中，有一颗行星被识别为[GetSpeciesName]帝国的首都。在发现这件事后，我们的外交官员与联系员进行了接触。据他们所说，那个星球上是另一个与我们相同物种的帝国！\n\n这个令人高兴的消息在我们的星系里传播开来，我们也许会在不远的将来找到另一个我们的帝国。"
+ cbshing_origins_lost_colony_event.41.name:0 "熟悉的讯息"
+ #cbshing_origins_lost_colony_event.41.desc:0 "As [Root.GetName] dropped out of FTL, alien chatter was picked up on our sensors. The chief linguist onboard quickly descrambled the signal to only realize there was something familiar about the voice. This alien signal is not alien at all. Rather its words in our language that are coming out of their [Owner.GetSpeciesMouthName]. These are fellow [Owner.GetSpeciesNamePlural]!\n\nWhat joyous news will spread across our systems that we may find each other after all this time."
+ cbshing_origins_lost_colony_event.41.desc:0 "当这艘舰船脱离了超光速航行时，我们的传感器接收到了外星人的声音。我们的首席语言专家很快将这个信号告诉了我们，奇怪的是，我们意识到这些声音里投出一股熟悉的东西。这个外星人的信号毫不陌生。更准确来说，这是我们的语言，从他们的[Owner.GetSpeciesMouthName]而来。 他们是[Owner.GetSpeciesNamePlural]的同类！\n\n令人雀跃的消息在我们的星系中传播开来，我们很快将会找到彼此。"
+ cbshing_origins_lost_colony_event.41.a:0 "立刻开启通讯频道！"
+ cbshing_origins_lost_colony_event.1.name:0 "回归[Root.GetHomeWorldName]"
+ cbshing_origins_lost_colony_event.1.desc:0 "在大气中的登陆舰缓缓降落在装饰华美的登机台上时，来自[Root.Capital.GetName]的[Root.GetSpeciesNamePlural]人们首次踏上了自己故乡的大地。一大排的政府官员和特权阶级与[Root.GetRulerTitle] [Root.GetRulerName]一起站在这个降落区，他们全部穿着[Root.GetAdj]的服饰，第一次踏出在[Root.GetHomeWorldName]上的第一步。\n\n从今天起，我们将不再只是[Root.GetName]的公民，而是所有[Root.GetSpeciesName]的一员。"
+ cbshing_origins_lost_colony_event.1.a:0 "愿[Root.GetSpeciesName]永远团结！"
+ cbshing_origins_lost_colony_event.3.name:0 "与失散的同胞重聚"
+ cbshing_origins_lost_colony_event.3.desc:0 "随着外交船只的对接程序完成，人们听到了由衷的感叹声与群众的欢呼声。这是[Root.GetSpeciesName]一族的历史性时刻。长久以来被认为在无尽虚空中迷路的同胞们最终重聚在一起。\n\n当真空门打开，他们的政府官员走出太空船的时候，[Root.GetRulerTitle] [Root.GetRulerName]微笑着向他们迎了上去。从今天起，我们将不再只是[Root.GetName]的公民，而是所有[Root.GetSpeciesName]的一员。"
+ cbshing_origins_lost_colony_event.3.a:0 "愿[Root.GetSpeciesName]永远团结！"
+ cbshing_origins_lost_colony_event.5.name:0 "发现[Owner.GetHomeWorldName]"
+ cbshing_origins_lost_colony_event.5.desc:0 "在[Root.GetName]脱离了超光速航行时，天体探测员发出了令人惊讶的报告。这个宙域的小行星似乎与我们失落的家园星系的历史星图相匹配。如果那位探测员没有搞错的话，那么[Owner.GetHomeWorldName]应该就在附近。\n\n令人兴奋的消息传到了我们的首都，这对所有[Owner.GetName]来说都是历史性的一天！在无尽的岁月后，如今家园近在咫尺。"
+ cbshing_origins_lost_colony_event.5.a:0 "我们回家了..."
+ 
+ cbshing_origins_alien_message_event.1.name:0 "寻找源头"
+ cbshing_origins_alien_message_event.1.desc:0 "传递着启迪、希望和永恒友谊的信息，它使我们的社会改变成今天的面貌。现在群星终于来到了我们的身边，我们必须找到源头，并感谢他们让我们成为现在的样子。"
+ cbshing_origins_alien_message_event.1.a:0 "开始寻找吧！"
+ cbshing_origins_alien_message_event.2.name:0 "发现源头"
+ cbshing_origins_alien_message_event.2.desc:0 "[Root.GetHomeWorldName]上各地的[Root.GetSpeciesNamePlural]都在收听这一历史性的广播。如此带有启迪、带有希望的声音...我们非常确定，我们的帝国将会散布这永恒的友谊。\n\n我们的许多市民正在为这次重大的庆祝活动做准备。我们已经迫不及待地张开双臂迎接来自源头的存在。"
+ cbshing_origins_alien_message_event.2.a:0 "开始举办派对吧！"
+ cbshing_origins_alien_message_event.41.name:0 "熟悉的讯息"
+ cbshing_origins_alien_message_event.41.desc:0 "当[Root.GetName]脱离了超光速航行时，我们的传感器上接收到了来自外星人的交流信息。首席语言专家很快将这个信号破解了出来，他意识到这些信息里藏有一些熟悉的内容。这是我们在寻找的源头！是我们一切原点的源头。\n\n令人高兴的消息传到了我们的星系中，我们将会尽快找到这个源头。"
+ cbshing_origins_alien_message_event.41.a:0 "立刻开启通讯频道！"
+ 
+ cbshing_origins_eco_disaster_event.1.name:0 "生态灾害即将到来"
+ cbshing_origins_eco_disaster_event.1.desc:0 "我们的科学家估计，在50年内我们的星球将处于它最后的不稳定阶段。混乱的天气、频发的地震和恶劣的环境将成为我们家园的常态，在解决这个问题之前，我们的生活将难以为继。除非我们找到一种方法来恢复我们的气候，否则我们必须优先确保我们物种的生存！"
+ cbshing_origins_eco_disaster_event.1.a:0 "我们必须继续前进"
+ cbshing_origins_eco_disaster_event.4.name:0 "生态灾害迫在眉睫"
+ cbshing_origins_eco_disaster_event.4.desc:0 "科学家们估计，[Root.GetHomeWorldName]大概再过10年后气候生态将被完全破坏，这个星球将不再适宜居住。在以上报告结论得出后，咨询委员会在[GetRulerName]的办公桌上提交了两项建议："
+ cbshing_origins_eco_disaster_event.4.b:0 "告知公众准备大规模撤离"
+ cbshing_origins_eco_disaster_event.4.a:0 "隐瞒消息并专注于研究"
+ cbshing_origins_eco_disaster_event.6.name:0 "[Root.GetHomeWorldName]已不适宜居住"
+ cbshing_origins_eco_disaster_event.6.desc:0 "正如我们的科学家所预言的那样，这个星球生态的破坏最终导致了它的毁灭。如今[Root.GetHomeWorldName]已经无法适宜居住。历代生活在这里的居民将感受到来自它的悲泣。"
+ cbshing_origins_eco_disaster_event.6.a:0 "有史以来最大的悲剧"
+ cbshing_origins_eco_disaster_event.7.name:0 "科技掌握在我们手中"
+ cbshing_origins_eco_disaster_event.7.desc:0 "我们的科学家在气候控制领域取得了重大突破。我们通过在近地轨道上安装了多台机器进行预测，我们将能够阻止我们的家园变得不稳定。"
+ cbshing_origins_eco_disaster_event.7.a:0 "立即执行！"
+ cbshing_origins_eco_disaster_event.8.name:0 "生态恢复"
+ cbshing_origins_eco_disaster_event.8.desc:0 "当最后的地基塔被打入地面时，地震停止了，天空也开始晴朗起来。我们这一代人将永远摆脱过去的恐惧，第一次不再害怕这个世界。\n\n这一伟大胜利的喜悦肯定会在我们的帝国持续一段时间。"
+ cbshing_origins_eco_disaster_event.8.a:0 "值得庆祝"
+ cbshing_origins_eco_disaster_event.11.name:0 "恶劣的气候条件"
+ cbshing_origins_eco_disaster_event.11.desc:0 "各大媒体都在报道全球各地恶劣的的天气状况。可以预料到这会带来巨大的损失和牺牲。"
+ cbshing_origins_eco_disaster_event.11.a:0 "真是悲剧"
+ cbshing_origins_eco_disaster_event.11.b:0 "进行救援行动"
+ cbshing_origins_eco_disaster_event.12.name:0 "震荡的星球"
+ cbshing_origins_eco_disaster_event.12.desc:0 "剧烈的地震使我们的主要城市瘫痪，许多基础设施遭到破坏。在一些偏远地区甚至出现了大型的天坑"
+ cbshing_origins_eco_disaster_event.13.name:0 "海岸的暴风雨"
+ cbshing_origins_eco_disaster_event.13.desc:0 "卫星图像几乎无法捕捉到袭击我们家园沿海城市的特大风暴的规模。预计这些低洼地区将在风暴肆虐时被遗弃。"
+ cbshing_origins_eco_disaster_event.14.name:0 "黯淡的前景"
+ cbshing_origins_eco_disaster_event.14.desc:0 "在接下来的几年里，可以预见到我们的粮食收成会下降。干旱、饥荒和动乱将无法避免。"
+ cbshing_origins_eco_disaster_event.15.name:0 "暴风雨前的宁静？"
+ cbshing_origins_eco_disaster_event.15.desc:0 "各种气候现象似乎已经平息下来。这一切都结束了吗？还是另一个开端？"
+ cbshing_origins_eco_disaster_event.15.a:0 "令人担心"
+ 
+ cbshing_origins_eternal_leader_event.1.name:0 "[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]的牺牲"
+ cbshing_origins_eternal_leader_event.1.desc:0 "在黑暗的危急关头，[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]为银河系提出了一个伟大的方案。作为一位永生者，[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]可以使用强大的灵能力量来阻挡来犯的敌人，从而给我们的舰队一个消灭他们的机会。然而，这会带来一个风险，[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]可能会失去他的力量甚至可能死亡。"
+ cbshing_origins_eternal_leader_event.1.a:0 "无论如何都要阻止他们！"
+ cbshing_origins_eternal_leader_event.1.b:0 "我们不能让我们永生的[Root.Owner.GetRulerTitle]冒险！"
+ cbshing_origins_eternal_leader_event.1.a.tooltip:0 "通过释放强大的灵能力量，我们永生的[Root.Owner.GetRulerTitle]能够减慢敌人的航行速度。但这会削弱我们的领导人。"
+ cbshing_origins_eternal_leader_event.3.name:0 "[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]的牺牲"
+ cbshing_origins_eternal_leader_event.3.a.tooltip:0 "通过释放强大的灵能力量，我们永生的[Root.Owner.GetRulerTitle]能够减慢敌人的航行速度。但这会削弱我们的领导人。"
+ cbshing_origins_eternal_leader_event.11.name:0 "永生的[Root.Owner.GetRulerTitle]已经死亡！"
+ cbshing_origins_eternal_leader_event.11.desc:0 "在永恒大厅里，安息在不朽的王座上，永生的[Root.Owner.GetRulerTitle] 永远闭上了眼睛。对无数代人来说，永生的[Root.Owner.GetRulerTitle]统治着[Root.GetHomeWorldName]。 永生的[Root.Owner.GetRulerTitle] 是我人民在黑暗中的指路明灯，现在...失去了这个引导，我们必须自己创造未来。我们的许多同胞都在窃窃私语，害怕未来前途未卜。许多人都在大声疾呼，要将我们伟大的领袖铭记于心。这样，即使是在他永眠之时，[Root.Owner.GetRulerTitle]也可以继续统治着[Root.GetName]。"
+ cbshing_origins_eternal_leader_event.11.a:0 "[Root.GetName]正在哀悼他们的领袖"
+ cbshing_origins_eternal_leader_event.12.name:0 "永恒就在我们的前方"
+ cbshing_origins_eternal_leader_event.12.desc:0 "经过一个月的哀悼仪式，如今[Root.GetName]政府必须做出一个决定。人们呼吁并希望看到永生的[Root.Owner.GetRulerTitle]成为我们帝国的神，甚至许多公民开始在私下里向牺牲的永生者祈祷。然而，上层的精英们更渴望解开永生不朽的秘密，也就是永生的[Root.Owner.GetRulerTitle]垄断了几个世纪的真相。\n\n我们是否应该满足人民的渴望，将我们伟大的领袖带去[Root.Capital.GetName]的一个巨大陵墓里？或者我们应该将永生的[Root.Owner.GetRulerTitle]的遗体交给我们的科学家，让他们为我们的领导人寻找永生的秘密？"
+ cbshing_origins_eternal_leader_event.12.a:0 "永生的[Root.Owner.GetRulerTitle]就是我们的神。"
+ cbshing_origins_eternal_leader_event.12.a.tooltip:0 "将永生的[Root.Owner.GetRulerTitle]埋葬在首都星球的陵墓中。"
+ cbshing_origins_eternal_leader_event.12.b:0 "找到不朽的秘密。"
+ cbshing_origins_eternal_leader_event.12.b.tooltip:0 "将永生的[Root.Owner.GetRulerTitle]的躯体捐献给科学。"
+ cbshing_origins_eternal_leader_event.12.c:0 "永恒在我们的身后，我们必须创造未来"
+ cbshing_origins_eternal_leader_event.13.name:0 "建造永生的[Root.Owner.GetRulerTitle]的陵墓"
+ cbshing_origins_eternal_leader_event.13.desc:0 "为了满足群众的需求，我们开始为逝去的领导人建造陵墓。蓝图正在设计拟定中，不久后我们将选出建造地点。\n\n整个帝国到处洋溢着兴奋之情。我们正在见证一个新神的诞生。"
+ cbshing_origins_eternal_leader_event.13.a:0 "赞颂永生者。"
+ cbshing_origins_eternal_leader_event.13.a.tooltip:0 "在首都星球建设§Y[Root.Owner.GetRulerTitle]的永恒陵墓§!。"
+ cbshing_origins_eternal_leader_event.15.name:0 "不朽的秘密"
+ cbshing_origins_eternal_leader_event.15.desc:0 "新[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]的办公桌上有一份令人吃惊的报告。通过解剖永生者的遗体，我们的首席生物学家发现了不朽的秘密。\n\n它的秘密在于曾经镶嵌在永生者的[Root.Owner.GetSpeciesOrganName]上的破碎红宝石。这颗石头释放出大量的心灵能量，相当于10亿人的灵魂。\n\n由于我们敬爱的领导者的牺牲，这块石头的制造方法也一同被带入了冥土。但是根据我们科学家的估算，若我们牺牲1亿个人，他们可以合成一个效果较弱但是性质类似的结果。然而，这将意味着需要牺牲我们的公民。"
+ cbshing_origins_eternal_leader_event.15.a:0 "这是为了更大的利益而做出的牺牲。"
+ cbshing_origins_eternal_leader_event.15.a.tooltip:0 "你的帝国将得到§R永生药水§!的修正，这将使你的领导人寿命延长500年。然而，你必须每10年喝一次药水，以确保效果持续生效。"
+ cbshing_origins_eternal_leader_event.15.b:0 "这是不可接受的。"
+ cbshing_origins_eternal_leader_event.17.name:0 "不朽的诅咒"
+ cbshing_origins_eternal_leader_event.17.desc:0 "只有通过牺牲才可以获得永生，谁有资格获得这个不朽的荣耀？"
+ cbshing_origins_eternal_leader_event.17.a:0 "只有永生者才能知道！"
+ cbshing_origins_eternal_leader_event.17.a.tooltip:0 "你的帝国得到了§R永生药水§!的修正，这将使你们的领袖们的寿命延长500年。然而，你必须每10年喝一次这种药水以保持效果。"
+ cbshing_origins_eternal_leader_event.17.b:0 "只有[Root.GetSpeciesNamePlural]才有资格牺牲！"
+ cbshing_origins_eternal_leader_event.17.b.tooltip:0 "你的帝国得到了§R永生药水§!的修正，这将使你们的领袖们的寿命延长500年。然而，你必须每10年喝一次这种药水以保持效果。你的公民会转向排外主义。"
+ cbshing_origins_eternal_leader_event.17.c:0 "这场闹剧必须停止。"
+ cbshing_origins_eternal_leader_event.17.c.tooltip:0 "饮用§R永生药水§!的效果停止了。"
+ 
+ cbshing_origins_restore_home_event.1.name:0 "[From.GetName]得到了恢复"
+ cbshing_origins_restore_home_event.1.desc:0 "在庆祝的号角与盛大的庆典中，[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName]将大气净化器的开关关闭了，这个动作是[From.GetName]生态改造全面完成的一个收尾。随着大气净化器的机械旋转逐渐放缓并最终无声停止后，聚集在首都和殖民地上的人民爆发出激动的欢呼声。家，我们的家，终于复旧如初了。这是我们[Root.Owner.GetSpeciesName]世世代代以来第一次不需要在户外穿着防护服，或是在我们[Root.Owner.GetSpeciesMouthName]身上安置呼吸器材能在我们的星球上呼吸。\n\n这一伟大胜利的喜悦肯定会在我们的帝国持续一段时间。"
+ cbshing_origins_restore_home_event.1.a:0 "遍地的庆祝活动"
+ cbshing_origins_restore_home_event.3.name:0 "家园气候恢复"
+ cbshing_origins_restore_home_event.3.desc:0 "几代人以来，[Root.GetHomeWorldName]的气候生态被核战争所摧毁。在放射性水源和充满有毒尘埃的风暴之中，我们很难想象我们曾经是在一个美丽的星球上进化的物种。现在我们有了可以恢复我们家园气候的技术，[This.GetSpeciesNamePlural]的人民们渴望将我们的星球恢复成原来的样子。"
+ cbshing_origins_restore_home_event.3.a:0 "[Root.GetHomeWorldName]会恢复过来的。"
+ 
+ ################################################
+ # Origins Unbalanced & Untested Events
+ ################################################
+ 
+ cbshing_origins_dyson_sphere_event.1.name:0 "星门开始逆向工程"
+ cbshing_origins_dyson_sphere_event.1.desc:0 "我们的工程师们被银河系中自由漂浮的星门设备所深深陶醉，他们相信现在已经拥有足够多的研究材料并可以实现之前我们科学家梦寐以求的目标：逆向设计一个星门，并解开通往星门旅行的秘密。"
+ cbshing_origins_dyson_sphere_event.1.a:0 "我们必须解开这个秘密！"
+ cbshing_origins_dyson_sphere_event.3.name:0 "星门逆向工程完成！"
+ cbshing_origins_dyson_sphere_event.3.desc:0 "[Root.Capital] 的工程师团队已经突破了之前科学家们所无法解决的难关：他们成功逆向了一个星门，并解开了通往星门之旅的秘密。这个里程碑的工程壮举将被后人永远铭记。"
+ cbshing_origins_dyson_sphere_event.3.a:0 "成功了！"
+ cbshing_origins_dyson_sphere_event.3.a.tooltip:0 "现在我们可以激活并建造星门了。"
+ 
+ cbshing_origins_dyson_sphere_event.32.name:0 "银河能量涌现"
+ cbshing_origins_dyson_sphere_event.32.desc:0 "位于[Root.GetName]上的仪器意外侦测到来自银河内多个星系的亚空间能量激增。我们的科学家们正在努力为这个事件做出解释——即使我们的记录中从未出现过这种状况。\n\n这种突如其来的能量爆发的确切来源尚未确定，但我们仍在努力分析这些可用数据。"
+ cbshing_origins_dyson_sphere_event.32.a:0 "不要松懈，继续干。"
+ cbshing_origins_dyson_sphere_event.33.name:0 "超空间重组"
+ cbshing_origins_dyson_sphere_event.33.desc:0 "我们早些时候发现的巨大能量激增的源头已被确定。它来自于影响多个星系的巨大亚空间撕裂。我们无法知悉究竟是什么原因产生这样的结果，但是我们的传感器检测到这个空间裂口已经形成了几个星系之间新的超空间通道。目前来看，能量迸发已经逐渐走向衰退，但科学界的许多权威人士认为，这只是通往未来的一个预兆。"
+
+ ####################################
+ # Origins Buildings
+ ####################################
+ # Vault City Building
+ building_tombstart_vault:0 "复杂的避难所"
+ building_tombstart_vault_desc:0 "这些帐篷标志着无数巨大的地下掩体的入口。里面有着巨大的迷宫般的实验室、居住区和娱乐区，在这些年来保护我们的物种。虽然我们大多数人已经离开了地下掩体，但那些复杂的高级实验室仍在运行。"
+ building_tombstart_vault_a:0 "15号避难所"
+ building_tombstart_vault_a_desc:0 "这些帐篷标志着无数巨大的地下掩体的入口。里面有着巨大的迷宫般的实验室、居住区和娱乐区，在这些年来保护我们的物种。虽然我们大多数人已经离开了地下掩体，但那些复杂的高级实验室仍在运行。"
+ building_tombstart_vault_b:0 "L7避难所"
+ building_tombstart_vault_b_desc:0 "这些帐篷标志着无数巨大的地下掩体的入口。里面有着巨大的迷宫般的实验室、居住区和娱乐区，在这些年来保护我们的物种。虽然我们大多数人已经离开了地下掩体，但那些复杂的高级实验室仍在运行。"
+ building_tombstart_vault_c:0 "FS-101避难所"
+ building_tombstart_vault_c_desc:0 "这些帐篷标志着无数巨大的地下掩体的入口。里面有着巨大的迷宫般的实验室、居住区和娱乐区，在这些年来保护我们的物种。虽然我们大多数人已经离开了地下掩体，但那些复杂的高级实验室仍在运行。"
+ building_tombstart_vault_d:0 "水晶石避难所"
+ building_tombstart_vault_d_desc:0 "这些帐篷标志着无数巨大的地下掩体的入口。里面有着巨大的迷宫般的实验室、居住区和娱乐区，在这些年来保护我们的物种。虽然我们大多数人已经离开了地下掩体，但那些复杂的高级实验室仍在运行。"
+ building_tombstart_vault_e:0 "Omega-13避难所"
+ building_tombstart_vault_e_desc:0 "这些帐篷标志着无数巨大的地下掩体的入口。里面有着巨大的迷宫般的实验室、居住区和娱乐区，在这些年来保护我们的物种。虽然我们大多数人已经离开了地下掩体，但那些复杂的高级实验室仍在运行。"
+
+ building_tombstart_vault_utopia_hive:0 "地底生物实验室"
+ building_tombstart_vault_utopia_hive_desc:0 "这些帐篷标志着一个大型地下实验室的地表入口，目的是研究构成我们物种的独特生物特性，直到我们逃出了实验室。尽管地表居民试图阻止我们，但我们还是幸存了下来。继续使用这个设施对我们的生物生长是最有利的。"
+ building_tombstart_vault_sd_terminator:0 "有机体的最终防线"
+ building_tombstart_vault_sd_terminator_desc:0 "这些帐篷标志着一个巨大地下掩体的地表入口，这是这个星球原始居民的最后防线。在这些有机物种最终获得胜利后，只剩下这些被辐照的地堡外壳依然存在。"
+ building_tombstart_vault_sd_assimilator:0 "有机体的最终防线"
+ building_tombstart_vault_sd_assimilator_desc:0 "这些帐篷标志着一个巨大地下掩体的地表入口，这是这个星球原始居民的最后防线。在辐射侵蚀了这些有机物种后，只剩下这些被辐照的地堡外壳成为了一种警醒。"
+ building_tombstart_vault_sd_machine:0 "地下掩体"
+ building_tombstart_vault_sd_machine_desc:0 "这些帐篷标志着一个巨大的地下掩体的地面入口，这很有可能是建造者的防空洞。其内部是古代超级计算机序列。虽然历史数据已经从这些计算机内存中抹去，但它们的原始处理能力可以大大提高我们的科学调查能力。"
+
+ building_origins_eternal_leader_tomb:0 "永生者的陵墓"
+ building_origins_eternal_leader_tomb_desc:0 "一个巨大复杂的陵墓，逝去的永生者的精神和原则将永远铭记在我们心中。"
+ 
+ ####################################
+ # Origins Traits
+ ####################################
+ leader_trait_origins_ruler_eternal:0 "永生者"
+ leader_trait_origins_ruler_eternal_desc:0 "这位领导人是永生不朽的，拥有令人难以置信的灵能力量。"
+ leader_trait_origins_ruler_eternal_weakened:0 "虚弱的永生者"
+ leader_trait_origins_ruler_eternal_weakened_desc:0 "这位领导人是永生不朽的，但是过度消耗灵能力量令他非常虚弱。"
+ 
+ ####################################
+ # Origins Megastructure
+ ####################################
+ habitat_cbshing_origins_voidborne_MEGASTRUCTURE_DETAILS:1 "§Y$pc_habitat$§!是一种理论上可以自我维持的空间站，专为永久居住而设计。"
+ habitat_cbshing_origins_voidborne_CONSTRUCTION_INFO_DELAYED:2 "轨道居住地只能在特定的位置进行 £building  §Y建筑§!。仅限于§Y6§!格大小。"
+ habitat_cbshing_origins_voidborne:0 "轨道居住地"
+ habitat_cbshing_origins_voidborne_DESC:0 "一个小型的轨道居住地环绕着不适宜居住的星球，它可以在地表的空间容纳大量的§H人口§!和§H建筑物§!。"
+
+ ###############################################
+ # Origins Unbalanced & Untested Megastructure
+ ############################################### 
+ cbshing_origins_dyson_sphere_0_MEGASTRUCTURE_DETAILS:1 "一个§Y$dyson_sphere_5$§!将指定的恒星完全覆盖，所有的£energy  太阳能将直接输出为能源。"
+ cbshing_origins_dyson_sphere_0_CONSTRUCTION_INFO_DELAYED:3 "$dyson_sphere_5$将完全透支太阳的能量，使该星系中的所有行星变成贫瘠或冰冻星球。"
+ cbshing_origins_dyson_sphere_0:0 "戴森球遗址"
+ cbshing_origins_dyson_sphere_0_DESC:0 "这个施工中的空间站是为了未来建造戴森球而留下的遗址。"
+ cbshing_origins_dyson_sphere_1:0 "戴森球框体"
+ cbshing_origins_dyson_sphere_1_DESC:0 "这个框体是未来戴森球的雏形，目前它不会产出任何能源。"
+ cbshing_origins_dyson_sphere_2:0 "残缺的戴森球"
+ cbshing_origins_dyson_sphere_2_DESC:0 "这是一个残缺的戴森球 -只有§Y25%§!的发电效率。"
+ cbshing_origins_dyson_sphere_3:0 "残缺的戴森球"
+ cbshing_origins_dyson_sphere_3_DESC:0 "这是一个残缺的戴森球 -只有§Y50%§!的发电效率。"
+ cbshing_origins_dyson_sphere_4:0 "残缺的戴森球"
+ cbshing_origins_dyson_sphere_4_DESC:0 "这是一个残缺的戴森球 -只有§Y75%§!的发电效率。"
+ cbshing_origins_dyson_sphere_5:0 "戴森球"
+ cbshing_origins_dyson_sphere_5_DESC:0 "一个完整的戴森球工程 - §G100%§!的发电效率。"
+ dyson_will_freeze_habitable_planets:1 "$TRIGGER$将令星系中的所有星球变得寒冷冰冻。"
+ 
+ ####################################
+ # Origins Edicts
+ ####################################
+ edict_cbshing_origins_void_habitat_upgrade:1 "居住地扩建"
+ edict_cbshing_origins_void_habitat_upgrade_desc:0 "我们的人口需要增长的空间，因此我们将扩大我们的栖息地以容纳更多的人。"
+ edict_cbshing_origins_void_habitat_upgrade_12:1 "居住地扩建"
+ edict_cbshing_origins_void_habitat_upgrade_12_desc:0 "我们的人口需要增长的空间，因此我们将扩大我们的栖息地以容纳更多的人。"
+ hab_upgrade_increase_size_1:0 "$pc_habitat$永久增加 §G1§! 格地块。可以重复使用直到 $pc_habitat$ 的大小达到 £planetsize  §Y15§!。"
+ hab_upgrade_increase_size_3:0 "$pc_habitat$永久增加 §G3§! 格地块。可以重复使用直到 $pc_habitat$ 的大小达到 £planetsize  §Y15§!。"
+ hab_upgrade_increase_size_3_12:0 "$pc_habitat$永久增加 §G3§! 格地块。可以重复使用直到 $pc_habitat$ 的大小达到 £planetsize  §Y12§!。"
+ #hab_upgrade_increase_size_1:0 "Permanently increases the size of the $pc_habitat$ by §G1§! tile. Can only be used once on each $pc_habitat$."
+ #hab_upgrade_increase_size_3:0 "Permanently increases the size of the $pc_habitat$ by §G3§! tiles. Can only be used once on each $pc_habitat$."
+ #hab_upgrade_increase_size_6:0 "Permanently increases the size of the $pc_habitat$ by §G6§! tiles. Can only be used once on each $pc_habitat$."
+ hab_upgrade_not_max_size:0 "§R居住地扩建不能再用于增加 $pc_habitat$ 的规模。§!"
+ 
+ ####################################
+ # Origins Technologies
+ ####################################
+ tech_cbshing_nuclear_terraforming:0 "创造死寂星球"
+ tech_cbshing_nuclear_terraforming_desc:0 "我们在一个被认为是最不适宜居住的环境中茁壮成长，所以我们倾向于重新创造这些生态已遭到毁灭的世界。"
+ TECH_UNLOCK_TERRAFORMING_NUKED_CREATION_CHANGE_TITLE:0 "§H功能解锁：§! 创造死寂星球"
+ TECH_UNLOCK_TERRAFORMING_NUKED_CREATION_CHANGE_DESC:1 "§H创造死寂星球§!\n允许我们把行星改造成生态破坏的死寂星球。"
+ 

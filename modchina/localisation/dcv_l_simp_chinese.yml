@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+
+ dcv:0 "运送者"
+ DCV_BOW:0 "第一飞行甲板"
+ DCV_MID1:0 "第二飞行甲板"
+ DCV_MID2:0 "舰桥和船员宿舍"
+ DCV_STERN:0 "第三飞行甲板"
+ DCV_CORE:0 "哨兵飞行中心"
+ DCV_CORE_DESC:0 "为航空母舰设计的先进核心"
+ DCV_THRUSTER:0 "哨兵辅助发动机"
+ DCV_THRUSTER_DESC:0 "辅助引擎"
+ DCV_REACTOR:0 "哨兵反应堆"
+ DCV_REACTOR_DESC:0 "飞船主反应堆"
+ DCV_MAINTENANCE_CREW:0 "精英维修队"
+ DCV_MAINTENANCE_CREW_DESC:0 "优秀的工程团队保持着航母的功能"
+ DCV_PILOT_CREW:0 "王牌飞行员"
+ DCV_PILOT_CREW_DESC:0 "最顶尖的飞行员驻扎在航母上"

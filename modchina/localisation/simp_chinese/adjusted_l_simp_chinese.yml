@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+civic_machine_terminator_adjust:0 "重定向方针"
+civic_machine_terminator_adjust_desc:0 "这个机械智能帝国曾经是有机生命的灭绝者，但因为某些原因，他们将自己的方针重定向为同化有机生命而非灭绝他们。"
+civic_tooltip_adjusted_machine:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! 增加 §G+25%\n§Y$MOD_COUNTRY_STARBASE_INFLUENCE_COST_MULT$§! 减少 §G30%§!\n§Y$MOD_STARBASE_SHIP_BUILD_COST_MULT$§! 减少 §G-15%§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! 增加 §G+33%§!\n"

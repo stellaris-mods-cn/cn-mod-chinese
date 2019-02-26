@@ -1,0 +1,62 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Lava Fortress
+ # Code by Malthus
+ # Text by ViolentBeetle
+ ########################
+ 
+ #First Anomaly
+ mem_lava_fortress_category:0 "在火里"
+ mem_lava_fortress_category_desc:0 "深度扫描表明表面上有不寻常的形状，表明可能的人造结构。"
+ #Second Anomaly (Loop)
+ mem_lava_fortress_loop_category:0 "熔岩要塞"
+ mem_lava_fortress_loop_category_desc:0 "这个古老的建筑对我们来说仍然是个谜。我们必须解除它的秘密…"
+ 
+ #simple fail - thats it
+ mem_lava_fortress.1.name:0 "只是热空气"
+ mem_lava_fortress.1.desc:0 "看起来这个奇怪的形状只是一个高原，那里的热量和不均匀的岩浆密度扭曲了扫描。现场没有发现任何人造的东西。"
+ mem_lava_fortress.1.a:0 "是时候继续前进了。"
+ 
+ #hard fail - start the loop
+ mem_lava_fortress.2.name:0 "危险的房间"
+ mem_lava_fortress.2.desc:0 "我们的考古队成功地利用耐热设备深入到外星人的前哨基地。他们发现了许多短而结实的外星人，显然是哺乳动物的起源。进一步深入了解这个复杂的东西，[mem_lava_fortress_leader.GetName]走进什么[mem_lava_fortress_leader.GetSheHe]他被认为是某种训练大厅。当一个团队成员愉快地拉动一个没有标记的杠杆时，多个突起迅速从地板上出现，然后迅速缩回，就像他们出现的那样。当杠杆被拉出来时出现的图像显示，这些峰值是用来训练用户躲避技术的。\n\n它的外观，[mem_lava_fortress_leader.GetName]和大多数[mem_lava_fortress_leader.GetHisHer]团队最好是平庸的躲避者。。"
+ mem_lava_fortress.2.a:0 "派第二队。这还没有结束！"
+ mem_lava_fortress.2.b:0 "这是一个死亡陷阱！我们应该把它封起来！"
+ 
+ #hard fail - ends the anomaly
+ mem_lava_fortress.3.name:0 "死于火灾"
+ mem_lava_fortress.3.desc:0 "研究小组成功地在星球表面上找到了一个被遗弃的复合体。 然而，当探索其前庭时，[mem_lava_fortress_leader.GetName]似乎已经踩在某种压力板上，导致从外部流出的熔岩从天花板倒下，填满整个复合体。 堡垒和我们的科学团队都失去了。"
+ mem_lava_fortress.3.a:0 "这太可怕了！"
+ 
+ #hard fail - ends the anomaly
+ mem_lava_fortress.4.name:0 "一个巨大的洞穴"
+ mem_lava_fortress.4.desc:0 "奇怪的形状竟然是一个外星人的前哨。 然而，在选择探索内部空间后，[mem_lava_fortress_leader.GetName]无意中拉出了坐在其中一个房间中的杠杆，导致唯一的支撑柱突然卡住，导致整个建筑物的全面破坏。"
+ mem_lava_fortress.4.a:0 "这太可怕了！"
+ 
+ #hard fail - continues the loop
+ mem_lava_fortress.5.name:0 "更多的陷阱"
+ mem_lava_fortress.5.desc:0 "另一个科学团队已经成功进入了这个综合体。 尽管他们尽最大努力不拉任何危险的杠杆导致“不愉快”，[mem_lava_fortress_leader.GetName]显然不知不觉地踩到一个隐藏的压力板，不知何故，从外面引起熔岩流从填满房间的天花板倒下[mem_lava_fortress_leader.GetSheHe ]和[mem_lava_fortress_leader.GetHisHer]队伍。"
+ mem_lava_fortress.5.a:0 "派另一队。我们不会放弃！"
+ mem_lava_fortress.5.b:0 "这是一个死亡陷阱！我们应该把它封起来！"
+ 
+ #hard fail - ends the anomaly
+ mem_lava_fortress.6.name:0 "死于火灾"
+ mem_lava_fortress.6.desc:0 "研究小组成功进入了堡垒。 然而，当探索其前庭时，[mem_lava_fortress_leader.GetName]似乎已经踏上了一个隐藏的压力板，导致来自外部的熔岩流从填充整个复合体的天花板倒下。 堡垒和我们的科学团队都失去了。"
+ mem_lava_fortress.6.a:0 "这太可怕了！"
+ 
+ #hard fail - ends the anomaly
+ mem_lava_fortress.7.name:0 "一个巨大的洞穴"
+ mem_lava_fortress.7.desc:0 "研究小组成功进入了堡垒。 然而，在探索内部空间的同时，[mem_lava_fortress_leader.GetName]无意中拉出了一个位于其中一个房间的杠杆，造成单独的支柱突然就啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪啪，"
+ mem_lava_fortress.7.a:0 "可怕"
+ 
+ #Success in first try
+ mem_lava_fortress.10.name:0 "熔岩堡垒"
+ mem_lava_fortress.10.desc:0 "我们的考古队成功地利用耐热设备深入到外星人的前哨基地。他们发现了许多短而结实的外星人，显然是哺乳动物的起源。从墙壁、地板和日常物品的浮雕中，可以重建它们的历史的大部分。该设施是在恶劣条件下建立起来的，因为他们相信，在地下深处，他们可以找到一种稀有的矿脉——而且对他们来说，这是非常宝贵的——矿石。通过向地表注入岩浆，他们能够获得近乎取之不尽的能源，建立一个依赖于多个熔岩可浸区的防御系统，并找到一种处理“不受欢迎”的方法——就像在浮雕中反复展示的那样。\n\n首先，这个前哨站稳步发展，它的繁荣吸引了许多新来者。许多居民不仅在矿井里工作，而且也转向了艺术，创作出了一些复杂的物品，这些物品是他们自己和其他美丽而怪异的作品的分形图像。\n\n尽管不断被模糊的竞争对手所包围，这个群落经历了好几代人，但是当对行星核心的挖掘接近得出结论时，一个来自社区内部的灾难性事件一定发生了。我们可以从这些古老遗迹的状态来判断，也可以确定这一种外星物种的存在，我们的科学团队得出的结论是，肯定发生了一场毁灭性的内战。此外，外星人的储物箱里装满了大量的货物和设备，从而消除了危机是由资源短缺造成的。我们的一位科学家指出，尽管大多数的浮雕都强调它是社会地位的重要标志，但我们却没有任何一种保护脚的装置。不幸的是，我们的团队无法找到更多的细节。"
+ mem_lava_fortress.10.a:0 "真的，所有的异种都疯了..."
+ mem_lava_fortress.10.b:0 "如此独特而令人惊叹的物种……"
+ mem_lava_fortress.10.c:0 "我们有足够的靴子吗？！"
+ 
+ #Success in later try
+ mem_lava_fortress.11.name:0 "火与血"
+ mem_lava_fortress.11.desc:0 "这一次，我们的团队成功地进入了堡垒，并且安全地离开了堡垒。他们发现了许多短而结实的外星人，显然是哺乳动物的起源。从墙壁、地板和日常物品的浮雕中，可以重建它们的历史的相当一部分。该设施是在恶劣条件下建立起来的，因为他们相信，在地下深处，他们可以找到一种稀有的矿脉——而且对他们来说，这是非常宝贵的——矿石。通过向地表注入岩浆，他们能够获得近乎取之不尽的能源，建立一个依赖于多个熔岩可浸区的防御系统，并找到一种处理“不受欢迎”的方法——就像在浮雕中反复展示的那样。\n\n首先，这个前哨站稳步发展，它的繁荣吸引了许多新来者。许多居民不仅在矿井里工作，而且也转向了艺术，创作出了一些复杂的物品，这些物品是他们自己和其他美丽而怪异的作品的分形图像。\n\n尽管不断被模糊的竞争对手所包围，这个群落经历了好几代人，但是当对行星核心的挖掘接近得出结论时，一个来自社区内部的灾难性事件一定发生了。我们可以从这些古老遗迹的状态来判断，也可以确定这一种外星物种的存在，我们的科学团队得出的结论是，肯定发生了一场毁灭性的内战。此外，外星人的储物箱里装满了大量的货物和设备，从而消除了危机是由资源短缺造成的。我们的一位科学家指出，尽管大多数的浮雕都强调它是社会地位的重要标志，但我们却没有任何一种保护脚的装置。不幸的是，我们的团队无法找到更多的细节。"

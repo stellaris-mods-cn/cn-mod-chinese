@@ -1,0 +1,148 @@
+﻿l_simp_chinese:
+
+ ###################
+ # Decisions
+ ###################
+ decision_eac_apm_on:0 "启用人口自动迁移"
+ decision_eac_apm_on_desc:1 "每个月失业人口和在过度拥挤的星球上的人口将会找到一个新家。"
+ decision_eac_apm_on_tooltip:0 "允许失业人口与在过度拥挤的星球上的人口重新安置到开放世界。\n根据重新安置成本，每个人口会花费£energy 12.5 - £energy 225不等。"
+ 
+ decision_eac_apm_off:0 "关闭人口自动迁移"
+ decision_eac_apm_off_desc:1 "关闭人口自动迁移。"
+ decision_eac_apm_off_tooltip:0 "停止人口自动迁移。"
+
+ decision_eac_apm_planet_preference_on:0 "为人口自动迁移设置首选星球"
+ decision_eac_apm_planet_preference_on_desc:1 "将此星球作为人口自动迁移的首选目标。"
+ decision_eac_apm_planet_preference_on_fail_text:0 "一次只能将一个星球标记为首选星球。"
+
+ decision_eac_apm_planet_preference_off:0 "撤销人口自动迁移的首选星球"
+ decision_eac_apm_planet_preference_off_desc:1 "不再将此星球作为人口自动迁移的首选目标。"
+
+ decision_eac_apm_planet_focus_research:0 "为人口自动迁移设置专注于科研"
+ decision_eac_apm_planet_focus_research_desc:1 "将此星球作为人口自动迁移的一个专注于科研的地点，拥有科研特质的人口将更有可能迁移到这里。"
+
+ decision_eac_apm_planet_focus_energy:0 "为人口自动迁移设置专注于能源"
+ decision_eac_apm_planet_focus_energy_desc:1 "将此星球作为人口自动迁移的一个专注于能源的地点，拥有能源特质的人口将更有可能迁移到这里。"
+
+ decision_eac_apm_planet_focus_minerals:0 "为人口自动迁移设置专注于矿物"
+ decision_eac_apm_planet_focus_minerals_desc:1 "将此星球作为人口自动迁移的一个专注于矿物的地点，拥有矿物特质的人口将更有可能迁移到这里。"
+
+ decision_eac_apm_planet_focus_food:0 "为人口自动迁移设置专注于食物"
+ decision_eac_apm_planet_focus_food_desc:1 "将此星球作为人口自动迁移的一个专注于食物的地点，拥有食物产出特质的人口将更有可能迁移到这里。"
+
+ decision_eac_apm_planet_focus_toilers:0 "为人口自动迁移设置专注于迁出$job_slave_toiler_plural$"
+ decision_eac_apm_planet_focus_toilers_desc:1 "将这个$slave_colony$星球作为$job_slave_toiler_plural$的迁出地。"
+ 
+ decision_eac_apm_planet_no_focus:0 "取消人口自动迁移的专注目标"
+ decision_eac_apm_planet_no_focus_desc:1 "移除人口自动迁移的专注目标。"
+ decision_eac_apm_planet_no_focus_tooltip:0 "移除人口自动迁移的专注目标。"
+ 
+ decision_eac_apm_planet_set_focus:0 "设置星球人口迁移的专注目标"
+ decision_eac_apm_planet_set_focus_desc:0 "为人口自动迁移开启一个特定的专注目标。"
+ decision_eac_apm_planet_set_focus_tooltip:0 "打开窗口来选择一个人口自动迁移的专注目标。"
+ 
+ ###################
+ # Modifiers
+ ###################
+ eac_apm_on_modifier:0 "人口自动迁移开启"
+ eac_apm_on_modifier_desc:0 "$decision_eac_apm_on_desc$"
+
+ eac_apm_planet_preference_modifier:0 "人口自动迁移的首选星球"
+ eac_apm_planet_preference_modifier_desc:0 "星球已被标记为人口自动迁移的首要位置。"
+
+ eac_apm_focus_research_modifier:0 "专注于科研的人口自动迁移"
+ eac_apm_focus_research_modifier_desc:0 "星球已被标记为人口自动迁移的一个专注于科研的地点，拥有科研特质的人口将更有可能迁移到这里。"
+ 
+ eac_apm_focus_energy_modifier:0 "专注于能源的人口自动迁移"
+ eac_apm_focus_energy_modifier_desc:0 "星球已被标记为人口自动迁移的一个专注于能源的地点，拥有能源特质的人口将更有可能迁移到这里。"
+
+ eac_apm_focus_minerals_modifier:0 "专注于矿物的人口自动迁移"
+ eac_apm_focus_minerals_modifier_desc:0 "星球已被标记为人口自动迁移的一个专注于矿物的地点，拥有矿物特质的人口将更有可能迁移到这里。"
+
+ eac_apm_focus_food_modifier:0 "专注于食物的人口自动迁移"
+ eac_apm_focus_food_modifier_desc:0 "星球已被标记为人口自动迁移的一个专注于食物的地点，拥有食物产出特质的人口将更有可能迁移到这里。"
+
+ eac_apm_focus_toilers_modifier:0 "专注于迁出$job_slave_toiler_plural$的人口自动迁移"
+ eac_apm_focus_toilers_modifier_desc:0 "星球已被标记为专注于将$job_slave_toiler_plural$从这个$slave_colony$星球迁出。"
+
+ eac_apm_focus_no_migration_modifier:0 "不在此星球上进行人口自动迁移"
+ eac_apm_focus_no_migration_modifier_desc:0 "星球已被标记为不允许通过人口自动迁移将人口迁出。"
+
+ eac_apm_focus_all_overcrowding_modifier:0 "专注于迁出无家可归者"
+ eac_apm_focus_all_overcrowding_modifier_desc:0 "星球已被标记为迁出所有无家可归人口，无论他们就业状况如何。"
+
+ ###################
+ # Policies
+ ###################
+ policy_eac_auto_pop_migration_habitability:0 "人口自动迁移 - 宜居性"
+ policy_eac_auto_pop_migration_habitability_desc:0 "设置用于人口自动迁移的宜居性检查的政策。"
+ eac_apm_habitability_80_name:0 "宜居性至少80%"
+ eac_apm_habitability_80:0 "$eac_apm_habitability_80_name$"
+ eac_apm_habitability_80_desc:0 "只有目标星球具有至少80%宜居性才允许人口自动迁移。"
+ eac_apm_habitability_60_name:0 "宜居性至少60%"
+ eac_apm_habitability_60:0 "$eac_apm_habitability_60_name$"
+ eac_apm_habitability_60_desc:0 "只有目标星球具有至少60%宜居性才允许人口自动迁移。"
+ eac_apm_habitability_all_name:0 "任意宜居性"
+ eac_apm_habitability_all:0 "$eac_apm_habitability_all_name$"
+ eac_apm_habitability_all_desc:0 "人口自动迁移到任何拥有的星球。"
+
+ policy_eac_auto_pop_migration_eligibility:0 "人口自动迁移 - 资格"
+ policy_eac_auto_pop_migration_eligibility_desc:0 "设置用于谁有资格进行人口自动迁移的政策。"
+ eac_apm_eligibility_overcrowded_unemployed_name:0 "失业且无家可归者"
+ eac_apm_eligibility_overcrowded_unemployed:0 "$eac_apm_eligibility_overcrowded_unemployed_name$"
+ eac_apm_eligibility_overcrowded_unemployed_desc:0 "只有在过度拥挤的星球上的失业人口才允许人口自动迁移。"
+ eac_apm_eligibility_all_unemployed_name:0 "所有失业者"
+ eac_apm_eligibility_all_unemployed:0 "$eac_apm_eligibility_all_unemployed_name$"
+ eac_apm_eligibility_all_unemployed_desc:0 "针对所有失业者进行人口自动迁移。"
+
+ policy_eac_auto_pop_migration_force_migrate:0 "基于宜居性的强制迁移"
+ policy_eac_auto_pop_migration_force_migrate_desc:0 "设置基于宜居性的强制迁移政策，就业状况和住房状况将被忽略。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
+ eac_apm_force_migrate_none_name:0 "无"
+ eac_apm_force_migrate_none:0 "$eac_apm_force_migrate_none_name$"
+ eac_apm_force_migrate_none_desc:0 "不进行强制迁移。"
+ eac_apm_force_migrate_less_60_name:0 "低于60%宜居性"
+ eac_apm_force_migrate_less_60:0 "$eac_apm_force_migrate_less_60_name$"
+ eac_apm_force_migrate_less_60_desc:0 "无论就业或住房状况如何，移动低于60%宜居性星球上的人口。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
+ eac_apm_force_migrate_less_40_name:0 "低于40%宜居性"
+ eac_apm_force_migrate_less_40:0 "$eac_apm_force_migrate_less_40_name$"
+ eac_apm_force_migrate_less_40_desc:0 "无论就业或住房状况如何，移动低于40%宜居性星球上的人口。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
+
+ ###################
+ # Events
+ ###################
+ eac_apm_close_window:0 "取消"
+ eac_apm_decisions.1.name:0 "为人口自动迁移设置星球专注目标"
+ eac_apm_decisions.1.desc:0 "在[This.GetName]上为人口自动迁移启用一个专注目标。"
+ eac_apm_decisions.1.preferred:0 "设为首选星球"
+ eac_apm_decisions.1.preferred.tooltip:0 "将此星球作为人口自动迁移的首选目标。"
+ eac_apm_decisions.1.research:0 "设置专注于科研"
+ eac_apm_decisions.1.research.tooltip:0 "将此星球作为人口自动迁移的一个专注于科研的地点，拥有科研特质的人口将更有可能迁移到这里。"
+ eac_apm_decisions.1.minerals:0 "设置专注于矿物"
+ eac_apm_decisions.1.minerals.tooltip:0 "将此星球作为人口自动迁移的一个专注于矿物的地点，拥有矿物特质的人口将更有可能迁移到这里。"
+ eac_apm_decisions.1.food:0 "设置专注于食物"
+ eac_apm_decisions.1.food.tooltip:0 "将此星球作为人口自动迁移的一个专注于食物的地点，拥有食物产出特质的人口将更有可能迁移到这里。"
+ eac_apm_decisions.1.energy:0 "设置专注于能源"
+ eac_apm_decisions.1.energy.tooltip:0 "将此星球作为人口自动迁移的一个专注于能源的地点，拥有能源特质的人口将更有可能迁移到这里。"
+ eac_apm_decisions.1.toilers:0 "设置专注于迁出$job_slave_toiler_plural$"
+ eac_apm_decisions.1.toilers.tooltip:0 "将这个$slave_colony$星球作为$job_slave_toiler_plural$的迁出地。"
+ eac_apm_decisions.1.no_migration:0 "设置禁止迁出"
+ eac_apm_decisions.1.no_migration.tooltip:0 "将此星球作为人口自动迁移的一个禁止迁出地点，人口不会被自动迁移出这个星球。"
+ eac_apm_decisions.1.all_overcrowding:0 "设置专注于迁出无家可归者"
+ eac_apm_decisions.1.all_overcrowding.tooltip:0 "将此星球上的所有无家可归人口迁出，无论他们就业状况如何。"
+ eac_apm_missing_required_cost:0 "缺少必需的成本来启用这个专注目标"
+ eac_apm_has_focus_set:0 "不能设置多个专注目标。"
+ 
+ eac_apm.999.title:0 "$edict_eac_show_job_and_housing_info_edict$"
+ eac_apm_free_jobs:0 "§W帝国空闲职位: §Y[This.country_free_jobs]§!\n"
+ eac_apm_free_housing:0 "§W帝国空闲住房: §Y[This.country_free_housing]§!\n"
+ eac_apm_unemployed_pops:0 "§W帝国失业人口: §Y[This.country_unemployed_pops]§!\n"
+ eac_apm.999.desc:0 " $eac_apm_free_jobs$ $eac_apm_free_housing$ $eac_apm_unemployed_pops$"
+
+ ###################
+ # Edicts, Campaigns, Ambitions
+ ###################
+ edict_eac_job_retraining_campaign:0 "职业再培训运动"
+ edict_eac_job_retraining_campaign_desc:0 "大大减少新失业人口降级到不同职业的时间。仅适用于开始运动后新失业的人口。"
+
+ edict_eac_show_job_and_housing_info_edict:0 "人口自动迁移统计"
+ edict_eac_show_job_and_housing_info_edict_desc:0 "显示本国空闲工作、空闲住房以及失业人口的总数。"

@@ -1,0 +1,250 @@
+﻿l_simp_chinese:
+
+ tech_bwm_lex_artifact:0 "乙太生物学"
+ tech_bwm_lex_artifact_desc:0 "在Nihara发现被禁止的知识的神器。"
+
+ bwm_artifact_station:0 "灵能监护"
+ bwm_artifact_station_plural:0 "灵能监护"
+ bwm_artifact_ship:0 "灵能战列巡洋舰"
+ bwm_artifact_ship_plural:0 "灵能战列巡洋舰"
+ bwm_artifact_fighter:0 "灵能无人机 一型"
+ bwm_artifact_fighter_plural:0 "灵能无人机"
+ bwm_artifact_bomber:0 "灵能无人机 二型"
+ bwm_artifact_bomber_plural:0 "灵能无人机"
+ bwm_artifact_explosion:0 "灵能奇点"
+ bwm_artifact_explosion_plural:0 "灵能奇点"
+ bwm_artifact_bomb_1:0 "灵能撼日者"
+ bwm_artifact_bomb_1_plural:0 "灵能撼日者"
+ bwm_artifact_bomb_2:0 "灵能协调者"
+ bwm_artifact_bomb_2_plural:0 "灵能协调者"
+ 
+ bwm_artifact_cipher:0 "重点"
+ bwm_artifact_cipher_plural:0 "重点"
+ bwm_artifact_cipher_alt:0 "阿奇斯通"
+ bwm_artifact_cipher_alt_plural:0 "阿奇斯通"
+ 
+ bwm_artifact_relic_frame:0 "囚禁"
+ bwm_artifact_relic_frame_plural:0 "囚禁"
+ bwm_artifact_shroudborn:0 "幽灵"
+ bwm_artifact_shroudborn_plural:0 "幽灵"
+
+ bwm_artifact_station_key:0 "灵能 核心"
+ bwm_artifact_ship_key:0 "灵能 核心"
+ bwm_artifact_ship_aux_1_key:0 "灵能 核心"
+ bwm_artifact_ship_aux_2_key:0 "灵能 核心"
+ bwm_artifact_bomb_1_key:0 "灵能 核心"
+ bwm_artifact_bomb_2_key:0 "灵能 核心"
+ bwm_artifact_fighter_key:0 "灵能 核心" 
+ bwm_artifact_bomber_key:0 "灵能 核心"
+ bwm_artifact_explosion_key:0 "灵能 核心"
+ 
+ bwm_artifact_relic_frame_key:0 "灵能 核心""
+ bwm_artifact_shroudborn_key:0 "灵能 核心"
+ 
+ bwm_artifact_cipher_key:0 "灵能 核心"
+ bwm_artifact_cipher_alt_key:0 "灵能 核心"
+ 
+ bwm_artifact_pillar_station:0 "守护者"
+ bwm_artifact_pillar_station_plural:0 "守护者 核心"
+ 
+ bwm_building_shipwreck_0:0 "被遗弃的飞船"
+ bwm_building_shipwreck_0_desc:0 "§L这艘古老的战舰还有被修复的可能。!"
+ 
+ bwm_building_shipwreck_1:0 "原型打击巡洋舰"
+ bwm_building_shipwreck_1_desc:0 "§L实验性灵能容器§!"
+ 
+ bwm_ARTIFACT_PRIMARY_WEAPON:0 "灵能协调器"
+ bwm_ARTIFACT_DRONE_1_WEAPON:0 "灵能协调器一型"
+ bwm_ARTIFACT_DRONE_2_WEAPON:0 "灵能协调器二型"
+ bwm_ARTIFACT_PRIMARY_STATION_WEAPON:0 "灵能速子长矛"
+ bwm_ARTIFACT_DAMAGE_AURA_S:0 "灵能速子长矛一型"
+ bwm_ARTIFACT_DAMAGE_AURA_M:0 "灵能速子长矛二型"
+ bwm_ARTIFACT_EXPLOSION_S_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_EXPLOSION_M_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_RESONANCE_S_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_RESONANCE_M_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_RESONANCE_L_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_APOCALYPSE_2_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_APOCALYPSE_1_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_APOCALYPSE_0_AURA:0 "灵能冲击炮"
+ bwm_ARTIFACT_TOWER_AURA:0 "灵能抑制力场"
+ bwm_ARTIFACT_WEAPON:0 "灵能速子长矛"
+ bwm_ARTIFACT_WEAPON_DESC:0 "该武器能将灵能聚集起来从而形成强大的光束，不仅可以扭曲时空，还可以带来无法想象的灾难。"
+ 
+ bwm_artifact_cipher_chain_title:0 锁与匙"
+ bwm_artifact_cipher_chain_desc:0 "收集密码并移动到Nihara星系激活遗迹，。"
+ bwm_artifact_cipher_counter:0 "密码的收集"
+ 
+ bwm_artifact_cipher_1_poi:0 "研究设施-阿尔法"
+ bwm_artifact_cipher_1_poi_desc:0 "找到并获得第一个密码。"
+ 
+ bwm_artifact_cipher_2_poi:0 "研究设施-贝塔"
+ bwm_artifact_cipher_2_poi_desc:0 "找到并获得第二个密码。"
+ 
+ bwm_artifact_cipher_3_poi:0 "研究设施-伽马"
+ bwm_artifact_cipher_3_poi_desc:0 "找到并获得第三个密码。"
+ 
+ bwm_artifact_drone_weakness:0 "深渊的末日"
+ bwm_artifact_drone_weakness_desc:0 "更新目标数据，找到可利用深渊守望者的弱点。"
+ damage_vs_country_type_bwm_ancient_drone_guardian_mult:0 "对深渊守望者的伤害"
+ 
+ bwm_gate_weakness:0 "破灭的星辰"
+ bwm_gate_weakness_desc:0 "更新目标数据，找到可利用挽歌的弱点。" 
+ damage_vs_country_type_bwm_gate_guardian_mult:0 "对挽歌的伤害" 
+ 
+ bwm_artifact_bomb_2_planet_effect:0 "虚境世界的干扰"
+ bwm_artifact_bomb_2_planet_effect_desc:0 "该世界被虚空笼罩。\n\n§R有些可怕的事情发生在这里。§!"
+ 
+ bwm_ARTIFACT_WEAKNESS_PROJECT:0 "武器校准 - 挽歌"
+ bwm_ARTIFACT_WEAKNESS_PROJECT_DESC:0 "研究Nihara的守护者和发现其弱点。"
+
+ bwm_ARTIFACT_DRONE_WEAKNESS_PROJECT:0 "武器校准 - 深渊守望者"
+ bwm_ARTIFACT_DRONE_WEAKNESS_PROJECT_DESC:0 "研究深渊守望者和发现其弱点。"
+
+ bwm_GATE_EXPLORE:0 "深渊之语 - 虚境世界"
+ bwm_GATE_EXPLORE_DESC:0 "我们发现位于Nihara的古老的研究设施。我们应该马上研究它。"
+
+ bwm_RELIC_ACCESS:0 "迷途羔羊 - 进入涡流"
+ bwm_RELIC_ACCESS_DESC:0 "我们的科学家一致认为，没有时间浪费。我们应该立刻开始为任何可能的应用其技术的主要研究对象。"
+ 
+ bwm_RELIC_TRUE_ACCESS:0 "危险的秘密 - 终极神器"
+ bwm_RELIC_TRUE_ACCESS_DESC:0 "我们必须找出这个神器的秘密。无论他们是什么，我们不能让他们落入我们的敌人手中。"
+ 
+ bwm_CIPHER_1_ACCESS:0 "阿尔法 - 第一密码"
+ bwm_CIPHER_1_ACCESS_DESC:0 "在 [bwm_cipher_1_system_loc.GetName] 的研究设施输入第一个密码。"
+ 
+ bwm_CIPHER_2_ACCESS:0 "贝塔 - 第二密码"
+ bwm_CIPHER_2_ACCESS_DESC:0 "在 [bwm_cipher_2_system_loc.GetName]的研究设施输入第二个密码。"
+ 
+ bwm_CIPHER_3_ACCESS:0 "伽马 - 第三密码"
+ bwm_CIPHER_3_ACCESS_DESC:0 "在 [bwm_cipher_3_system_loc.GetName] 的研究设施输入第三个密码。"
+ 
+ bwm_ARTIFACT_TRIGGER:0 "万世终结 - 零之曙光"
+ bwm_ARTIFACT_TRIGGER_DESC:0 "已经足够了，现在下令，执行零之曙光计划，激活遗物的自我毁灭程序，让我们结束这一切吧（准备删档）！"
+ 
+ bwm_ARTIFACT_HARMONIZER_TRIGGER:0 "远程触发 - $bwm_artifact_bomb_2$"
+ bwm_ARTIFACT_HARMONIZER_TRIGGER_DESC:0 "下令远程起爆所有的 $bwm_artifact_bomb_2_plural$."
+ 
+ bwm_ARTIFACT_STARBREAKER_TRIGGER:0 "远程触发 - $bwm_artifact_bomb_1$"
+ bwm_ARTIFACT_STARBREAKER_TRIGGER_DESC:0 "下令远程起爆所有的 $bwm_artifact_bomb_1_plural$."
+ 
+ bwm_artifact_relic_object:0 "文物遗迹"
+ bwm_artifact_relic_alt_object:0 "文物"
+ bwm_artifact_relic_alt_2_object:0 "文物"
+ bwm_starbase_object:0 "被遗弃的研究设施"
+ bwm_artifact_cipher_spawn_object:0 "使徒之心"
+ 
+ bwm_artifact.27.name:0 "血染悲歌 - 三位一体"
+ bwm_artifact.27.desc:0 "所有三个密码都被锁定，序列已启动。"
+ bwm_artifact.27.a:0 "让我们希望这作品..."
+ 
+ bwm_artifact.28.name:0 "天堂之语 - 打破循环"
+ bwm_artifact.28.desc:0 "死亡已经聚现。现实与虚境世界之间的壁垒已经被打破，整个银河都弥漫着迷雾。"
+ bwm_artifact.28.a:0 "于是它开始了。"
+
+ bwm_artifact.30.name:0 "遏制违反"
+ bwm_artifact.30.desc:0 "这是我们从虚境世界逃离出来的灵能战列巡洋舰，谨慎的建议。"
+ 
+ bwm_artifact.31.name:0 "遏制违反"
+ bwm_artifact.31.desc:0 "从被毁的敌舰之中出现了灵能幽灵，谨慎的建议。"
+ 
+ bwm_artifact.34.name:0 "起爆失败 - $bwm_artifact_bomb_2$"
+ bwm_artifact.34.desc:0 "目前没有 $bwm_artifact_bomb_2_plural$ 可以给我们继续引爆。"
+ 
+ bwm_artifact.35.name:0 "起爆失败 - $bwm_artifact_bomb_1$"
+ bwm_artifact.35.desc:0 "目前没有 $bwm_artifact_bomb_1_plural$ 可以给我们继续引爆。"
+ 
+ bwm_artifact.50.name:0 "幽冥之境 - 致命的诱惑"
+ bwm_artifact.50.desc:0 "该星系处在不可穿透的未知起源的云中。我们的传感器无法深入到内部，这将需要时间来调整以适应新的情况（请将科研船换上原版最好的探测器，MOD的不行，不然无法激活后续事件）。"
+ bwm_artifact.50.a:0 "给科研船换装新的探测器。"
+ 
+ bwm_artifact.51.name:0 "幽冥之境 - 夺命的旅途"
+ bwm_artifact.51.desc:0 "我们发现在气态巨星的附近存在一些空间站，这值得我们进一步调查（研究后开启三个密码事件）。"
+ bwm_artifact.51.a:0 "那就去做。"
+ 
+ bwm_artifact.52.name:0 "幽冥之境 - 远古的痕迹"
+ bwm_artifact.52.desc:0 "我们的团队进入到空间站，发现荒废已久。而且内部的房间结构也各不相同，这会阻碍进一步探索。\n\n我们最终在我们认为是控制室的系统中恢复电力，并发现一些关于该星系的信息和这里所进行的研究。最重要的是这里似乎有三个研究设施和一个中央系统，内含着类似终极武器的东西。\n\n如果我们打算进一步研究，就想办法必须获得三个"密码"。另一方面，有些科学家认为寻找密码是浪费时间的，建议我们马上尝试与其建立联系。"
+ bwm_artifact.52.a:0 "这些“密码”似乎是有原因的，找到他们。"
+ bwm_artifact.52.b:0 "他们是对的。我们不要再浪费时间了。"
+ 
+ bwm_artifact.53:0 "轮回怀抱 - 虚境世界之出生"
+ bwm_artifact.53.desc:0 "不像我们以往所见到的奇怪的物体静静漂浮在星云之中。偶尔有微弱的能量可读性。我们科学家准备尝试激活程序。但又有一些不和谐的声音。\n\n虽然他们之中有人急于求成，但有些人时刻提醒我们，这是古老又未知的技术。\n\n也许我们应该先获得"密码"，然后可以自由探索这个遗迹的奥秘。"
+ bwm_artifact.53.a:0 "再想想也许我们应该先搜索这些东西。"
+ bwm_artifact.53.b:0 "想做就做!我们已经浪费了足够的时间。"
+
+ bwm_artifact.63.name:0 "绝望之歌 - 世纪末生命终结序曲"
+ bwm_artifact.63.1.desc:0 "防御机制已破坏，我们现在应该能进一步访问了。一个关于神器的新的项目已经建立。"
+ bwm_artifact.63.2.desc:0 "根据密码的预定坐标，我们关掉了Gandvik的隐藏防御机制，现在道路已经很清楚了。"
+ bwm_artifact.63.1.a:0 "很好，让我们继续完成剩下的。"
+ bwm_artifact.63.2.a:0 "我感觉很危险，还是放弃吧。"
+ 
+ bwm_artifact.64.name:0 "最终审判 - 来自深渊与幽暗的低语"
+ bwm_artifact.64.desc:0 "我们科研小组已经完成了对神器的研究。从我们现有数据中，我们认为它们并不属于我们所已知的宇宙的东西。这种技术和我们以往所见到有所不同。而且在充电情况下，会不断变化状态。\n\n我们科学家得出这样的结论：这个物体是某种形式的爆炸装置，估计能抹杀整个星系。如果他们推断是正确的话，我们可能找到目前银河系最危险的武器。"
+ bwm_artifact.64.a:0 "知道了，还好它是我们的。"
+
+ bwm_artifact.65.name:0 "悬崖勒马 - 以被血染的挽歌"
+ bwm_artifact.65.desc:0 "当序列激活接近完成时候，突然一阵闪光让一切都停顿了下来。在星系中的所有战舰被转移到文物的能量输出范围之内，然后再次寂静下去。\n\n片刻，有三个物体出现在风暴眼的边缘。根据我们的传感器显示，他们的能量读数在迅速上升。我们可能激活某种防御机制。"
+ bwm_artifact.65.a:0 "这是个陷阱！"
+
+ bwm_artifact.67.name:0 "原型打击巡洋舰"
+ bwm_artifact.67.desc:0 "我们科学家设法恢复在 [bwm_gate_system_name.GetName] 之前被笼罩的 [bwm_gate_planet_name.GetName]。该战舰装备了一种强大的灵能武器，它似乎与星系某种研究有关，但毫无疑问，这将会成为我们舰队实力的强大补充。"
+ bwm_artifact.67.a:0 "神奇的发现。"
+
+ bwm_artifact.113.name:0 "无尽轮回 - 三贤者的抉择"
+ bwm_artifact.113.desc:0 "根据我们的数据，三个密码的其中一个应该位于这些坐标之中。我们战舰周围的奇怪物体似乎也证实了这一点。我们的传感器还发现了外柱与中心机关的一些联系，无论如何，我们必须假设有某种防御机制的存在（选择并击毁附近六个长柱子，然后等待即可）。"
+ bwm_artifact.113.a:0 "要谨慎。"
+ bwm_artifact.113.a.tooltip:0 "§R - 警告 - 检测到未知能量信号！§!"
+
+ bwm_artifact.115.name:0 "希望永存 - 来自深渊的守望者"
+ bwm_artifact.115.desc:0 "多个敌对的能量信号进入该星系，传感器读数不在图表上！"
+ 
+ bwm_artifact.150.name:0 "第一密码"
+ bwm_artifact.150.desc:0 "我们船员在 [bwm_artifact_cipher_1_ship_name.GetName] 设法修复其中的密码。但是这件装置似乎处在锁定状态，需要重新调整。"
+ bwm_artifact.150.a:0 "继续调整。"
+
+ bwm_artifact.151.name:0 "第二密码"
+ bwm_artifact.151.desc:0 "我们船员在 [bwm_artifact_cipher_2_ship_name.GetName] 设法修复其中的密码。但是这件装置还似是乎处在锁定状态，需要重新调整。"
+ bwm_artifact.151.a:0 "那就继续调整。"
+
+ bwm_artifact.152.name:0 "第三密码"
+ bwm_artifact.152.desc:0 "我们船员在 [bwm_artifact_cipher_3_ship_name.GetName] 设法修复其中的密码。但是这件装置依旧是处在锁定状态，需要重新调整。"
+ bwm_artifact.152.a:0 "希望这是最后一次。"
+
+ bwm_artifact.109.name:0 "第一个密码"
+ bwm_artifact.109.desc:0 "在第一个密码的校准已经完成，它现在准备与神器对接。"
+ bwm_artifact.109.a:0 "很好。"
+
+ bwm_artifact.110.name:0 "第二个密码"
+ bwm_artifact.110.desc:0 "第二个密码的校准已经完成，它现在准备与神器对接。"
+ bwm_artifact.110.a:0 "做的不错"
+
+ bwm_artifact.111.name:0 "第三个密码"
+ bwm_artifact.111.desc:0 "第三密码的校准已经完成，它现在准备与神器对接。"
+ bwm_artifact.111.a:0 "这是好的开始。"
+
+ bwm_artifact.112.name:0 "上古时代的武器"
+ bwm_artifact.112.desc:0 "我们得到了关于古代遗迹在Nihara的发现报告。根据我们的情报已经有人开始访问它。\n\n我们能信任他们使用的技术，他们可以负责任还是应该尽量在为时已晚之前进行检索？"
+ bwm_artifact.112.a:0 "总感觉那里不对劲。"
+
+ bwm_artifact.200.name:0 "超次元能量理论"
+ bwm_artifact.200.desc:0 "通过观察神器，在过去的几年中，我们的科学家已经取得了突破性的研究数据。我们以前拥有的技术本质上比生物技术少。所有的数据误以为这些神器是活的，至少在一定程度上。\n\n在每个神器球体似乎含有生命能量但又不同于任何其他形式的生命，我们还没有遇到他们似乎试图离开球体。进一步的研究揭示了他们是这些神器的能量的来源。"
+ bwm_artifact.200.a:0 "于是它开始了。"
+ 
+ bwm_artifact.301.name:0 "死灰复燃"  
+ bwm_artifact.301.desc:0 "我们武器对敌人无效化。我们还在持续的重大损失，应该立即撤军并试图找出一种方法突破敌人的防御。" 
+ bwm_artifact.301.a:0 "我们不是那么容易被打败。"
+ bwm_artifact.301.b:0 "我们的军队不需要这个。"
+ 
+ bwm_artifact.302.name:0 "破局希望" 
+ bwm_artifact.302.desc:0 "我们的科学家相信他们已经想出一个对策证明这种力量是可以击败的。我们应该召集我们的军队并立即与敌人战斗。" 
+ bwm_artifact.302.a:0 "胜利将属于我们！"
+ 
+ bwm_artifact.304.name:0 "死灰复燃"  
+ bwm_artifact.304.desc:0 "我们武器对敌人无效化。我们还在持续的重大损失，应该立即撤军并试图找出一种方法突破敌人的防御。" 
+ bwm_artifact.304.a:0 "我们不是那么容易被打败的。"
+ bwm_artifact.304.b:0 "我们的军队不需要这个。"
+ 
+ bwm_artifact.305.name:0 "破局希望" 
+ bwm_artifact.305.desc:0 "我们的科学家相信他们已经想出一个对策证明这种力量是可以击败的。我们应该召集我们的军队并立即与敌人战斗。" 
+ bwm_artifact.305.a:0 "胜利将属于我们！"
+ 

@@ -1,0 +1,40 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Planet Events
+ ####################################
+ 
+ # Random Events
+ origins_civics_planet_random_events.1.name:0 "神秘的地下室"
+ origins_civics_planet_random_events.1.desc.normal:0 ""
+ 
+ # Quest Events
+ # Homeworld Restoration
+ origins_civics_planet_quest_events.100.name:0 "[Root.GetName] 被恢复了"
+ origins_civics_planet_quest_events.100.desc.normal:0 "盛况空前, [Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName] 切换仪式开关，关闭大气洗涤器，从而标志着 [Root.GetName] 的土地改造完成。当大气洗涤器的机械轰鸣声渐渐的停下来时，首都和我们殖民地的人民爆发出庆祝的声音。 家，我们的家，终于恢复了。 这是我们几代人第一次在 [Root.Owner.GetSpeciesName] 上能不借助环保套装在户外。同时，这也是我们第一次不借助循环呼吸器在 [Root.Owner.GetSpeciesMouthName]s 上进行呼吸 \n\n这件事之后的喜悦一定会在一段时间内传遍我们的帝国。"
+ origins_civics_planet_quest_events.100.desc.city:0 "盛况空前, [Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName] 剪彩仪式拉开了生态建筑学的序幕，从而标志着 [Root.GetName] 生态建筑学的完成。当门打开时，一股过滤的、可呼吸的空气从生态建筑学中涌了出来。家，我们的家现在又可以居住了。 这是我们几代人以来的第一次在 [Root.Owner.GetSpeciesName] 上不再需要穿环保套装。同时，这也是我们第一次不借助循环呼吸器在 [Root.Owner.GetSpeciesMouthName]s 上进行呼吸\n\n这件事之后的喜悦一定会在一段时间内传遍我们的帝国。 "
+ origins_civics_planet_quest_events.100.desc.gaia:0 "盛况空前, [Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName] 切换仪式开关，关闭大气助推器，从而标志着 [Root.GetName] 土地改造的完成。 随着这台土地平整机的机械轰鸣声逐渐地停下来，首都和我们殖民地的人们对这一奇观感到无比惊奇。 [Root.GetName] 成了一个天堂。 这是我们几代人以来的第一次在 [Root.Owner.GetSpeciesName] 不再需要穿环保套装。同时，这也是我们第一次不借助循环呼吸器在 [Root.Owner.GetSpeciesMouthName]s 上进行呼吸\n\n这件事之后的喜悦一定会在一段时间内传遍我们的帝国。 "
+ origins_civics_planet_quest_events.100.desc.hive:0 "[Root.Owner.GetRulerTitle] [Root.Owner.GetRulerName] 人们对 [Root.GetName] 的完成感到惊奇。当大气洗涤器的机械轰隆声逐渐停止时， 在改变后的 [Root.Owner.GetRulerName] 土地上进行勘测。终于，家园恢复了。 这是我们几代人第一次在 [Root.Owner.GetSpeciesName] 上能不借助环保套装在户外。同时，这也是我们第一次不借助循环呼吸器在 [Root.Owner.GetSpeciesMouthName]s 上进行呼吸。\n\n这是一个重大的时刻。" 
+ origins_civics_planet_quest_events.100.a.regular:0 "庆祝活动比比皆是!"
+ origins_civics_planet_quest_events.102.name:0 "重建家园气候"
+ origins_civics_planet_quest_events.102.desc.nuked:0 "[Root.GetHomeWorldName] 的气候被核战争摧毁。在放射性水和充满有毒尘埃的风之间，我们的物种很难想象我们在这个美丽的星球上进化。现在我们有了可以恢复我们家的气候的技术，很多 [This.GetSpeciesNamePlural] 渴望我们的世界回到原本的状态。"
+ origins_civics_planet_quest_events.102.desc.norm:0 "[Root.GetHomeWorldName] 的气候在几代人以前就改变了。这种气候变化让我们的物种很难想象我们在这个美丽的星球上进化。现在我们有了可以恢复我们家园气候的技术，很多 [This.GetSpeciesNamePlural] 渴望我们的世界回到原本的状态。"
+ origins_civics_planet_quest_events.102.a:0 "[Root.GetHomeWorldName] 气候将会恢复。"
+
+ ####################################
+ # Origins Event Chains Projects
+ ####################################
+ oc_planet_quest_restore_homeworld_chain_title:0 "家园世界气候恢复 "
+ oc_planet_quest_restore_homeworld_chain_desc:0 "我们的人民渴望恢复 [Root.GetHomeWorldName] 的气候，如果我们把世界改造成我们人民理想的星球，这将给我们的国家带来很多好处。" 
+ 
+ ####################################
+ # Origins Points of Interest
+ ####################################
+ oc_restore_home_event_chain_poi:0 "[Root.GetHomeWorldName]"
+ oc_restore_home_event_chain_poi_desc:0 "开始改造 [Root.GetHomeWorldName] 。 以原生物种的理想行星偏好来完成 $oc_planet_quest_restore_homeworld_chain_title$ 事件链。"
+ 
+ ####################################
+ # Origins Static Modifiers
+ ####################################
+ oc_restored_homeworld:0 "重建家园"
+ oc_restored_homeworld_hive:0 "$oc_restored_homeworld$"

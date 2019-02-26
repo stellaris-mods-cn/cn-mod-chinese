@@ -1,0 +1,285 @@
+﻿l_simp_chinese:
+
+decision_transform_into_awesome: "卓越的观念"
+decision_transform_into_awesome_desc: "为了使这个星球能够支持更先进的基础设施，首都必须变得更令人敬畏和鼓舞人心。"
+
+decision_transform_into_awesome_machine: "卓越的设计"
+decision_transform_into_awesome_machine_desc: "为了使这个星球能够支持更先进的基础设施，必须使主控制中心变得更令人敬畏和前卫。"
+
+decision_transform_into_awesome_hive: "卓越的进化"
+decision_transform_into_awesome_hive_desc: "对于蜂群来说，当前的集群对于最近的任务来说效率低下而且无力。蜂群必须进一步进化。蜂群必须令人敬畏。"
+
+### BUILDING TEXTS
+
+building_ae_ancient_palace: "暗黑宫殿"
+building_ae_ancient_palace_desc: "被提升者的座位和宝座，黑暗的宫殿是银河优势的标志。它的统治者将从这个宝座上决定银河系的命运。"
+
+building_ae_ancient_control_center: "暗黑链接"
+building_ae_ancient_control_center_desc: "通过这种联系，数十亿的人工智能网络交织在一起，系统的主宰者决定着提升机器未来的命运。"
+
+building_ae_ancient_hive_cluster: "暗黑集群"
+building_ae_ancient_hive_cluster_desc: "这个巨大的蜂巢群充满了数十亿的无人机，它们都忙于确保提升蜂巢的主权。那些适应环境的人会茁壮成长，而那些适应环境的人不会枯萎死亡。"
+
+building_dark_energy_psg: "暗能量行星护盾生成器"
+building_dark_energy_psg_desc: "使用神秘的反应器使我们能够制造出一种不仅强度更高而且比以前更节能的护盾生成器."
+
+building_ae_dark_energy_psg: "天空之盾"
+building_ae_dark_energy_psg_desc: "“天空之盾”不仅仅是一个防止轨道轰炸的行星防御系统，它还容纳了各种各样的科学掩体，供更多的研究人员驻扎。"
+
+building_dark_matter_synthersizer: "黑洞合成器"
+building_dark_matter_synthersizer_desc: "这座城市大小的建筑产生了一个微型黑洞。该自动化系统能大量收集暗物质和暗能量。然而，为了确保最佳的结构完整性，维护成本很高。"
+
+building_ae_dark_matter_synthersizer: "暗物质传输中枢"
+building_ae_dark_matter_synthersizer_desc: "在许多维度中，总是有更多的暗物质和暗能量需要被收获。"
+
+building_ae_stronghold: "代达罗斯阵列"
+building_ae_stronghold_desc: "在这个神秘的堡垒里有数百个武器平台和复杂的地下部分。在黑暗势力的保护下，这个星球在严密的监视下是安全的。"
+
+building_enigmatic_lab: "神秘的实验室"
+building_enigmatic_lab_desc: "来自各个领域的科学家们聚集在这座建筑里，研究神秘的技术及其在各个领域的潜在应用。"
+
+building_ae_enigmatic_lab: "黑顶面研究中心"
+building_ae_enigmatic_lab_desc: "这个巨大的综合体容纳了来自整个银河系的各种神秘的人工制品。来自整个银河系的科学家们被吸引到这里来揭开这些前驱生物的秘密。斯莱文博士，请到匿名材料实验室报到。"
+
+building_dark_matter_generator: "暗物质铸造"
+building_dark_matter_generator_desc: "暗物质铸造为炼金术士提供了将原始矿物转化为暗物质的必要工具。"
+
+building_ae_dark_matter_generator: "暗物质质量变换器"
+building_ae_dark_matter_generator_desc: "许多人的需求必须得到满足，我们中的许多人需要更多的暗物质。"
+
+building_dark_energy_pylon: "暗能量塔"
+building_dark_energy_pylon_desc: "由结晶的暗物质形成的暗能量塔。正是在这里，工匠们将暗能量转化为我们帝国的强大能源。"
+
+building_ae_dark_energy_pylon: "暗能量尖顶"
+building_ae_dark_energy_pylon_desc: "这个巨大的尖塔包含了各种各样的端口，工匠们可以将暗能量虹吸到帝国强大的能源中。"
+
+building_super_assembly: "超级机器人装配工厂"
+building_super_assembly_desc: "我们的精英网络管理人员需要先进的设备来生产未来的机器人。而这座建筑为他们提供了这些。"
+
+building_ae_super_assembly: "纳米组装"
+building_ae_super_assembly_desc: "为什么这些网络管理员能越来越快地制造机器人???纳米-机器人,儿子!"
+
+building_super_assembly_machine: "强光机器装配"
+building_super_assembly_machine_desc: "采用强光技术，这座建筑可以打印出大量的机器部件。"
+building_ae_super_assembly_machine: "纳米机器装配"
+building_ae_super_assembly_machine_desc: "在装配线上引入纳米技术为附加的协议汇编单元增加了更多的空间。"
+
+building_giga_fortress: "千兆要塞"
+building_giga_fortress_desc: "千兆要塞是一个泰坦级的、自给自足的行星要塞，装备有三个战舰大小的超高速电池和其他各种防御系统，以及一支庞大的卫戍部队。它的存在激发了所有公民的信心，消除了任何动荡的可能性，因为任何敢于反抗的人都会很快被消灭。"
+
+building_giga_fortress_array: "千兆要塞-战略中心"
+building_giga_fortress_array_desc: "战略中心模块连接堡垒超级计算机和帝国舰队，实现更大的协同。一个表演者也将作为战术战略分析师。"
+
+building_giga_fortress_lab: "千兆要塞-权力之座"
+building_giga_fortress_lab_desc: "“权力舱”的座位让我们的一些政治领袖登上了堡垒，增加了我们帝国的团结和上层管理，以及更大的影响力。"
+
+building_giga_fortress_obelisk: "千兆要塞-光之方尖碑"
+building_giga_fortress_obelisk_desc: "安装的方尖碑的光模块大大加强了堡垒的防御，并为我们的军队提供额外的训练场地。另外还将安装额外的发电机来提供暗能量和暗物质。"
+
+building_giga_fortress_fe: "古代千兆堡垒"
+building_giga_fortress_fe_desc: "一个古老的，但仍然非常强大的泰坦尺寸的自我维持行星堡垒，它有着武装到牙齿的东西与入侵对抗。爆炸原始生物或野生生物是这些享乐主义者仍然享受的唯一的事情之一就像仍然被认为是“工作”一样"
+
+
+
+
+
+
+
+building_ae_affluence_center: "达芬奇密码"
+building_ae_affluence_center_desc: "让更广大的银河系人民知道，我们的产品是由我们最好的艺术家所设计的最精美的产品。"
+
+building_ae_class_4_singularity: "第6级奇点"
+building_ae_class_4_singularity_desc: "记住，关键是永远不要达到30级奇点。在那之前，加2分可能不是什么大问题。"
+
+building_ae_dimensional_fabricator: "维度阈值门"
+building_ae_dimensional_fabricator_desc: "我们有技术从我们帝国的其他维度中提取材料这些维度已经从其他帝国的其他维度中提取了材料这些维度已经从其他帝国的其他维度中提取了材料...."
+
+building_ae_sky_dome: "模因收割机"
+building_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让人们接触到足够多的迷因，他们就会学会欣赏艺术。所有的模因都流传了下来。迷因还是被迷因，杰克。"
+
+building_ae_empyrean_shrine: "宏伟的大教堂"
+building_ae_empyrean_shrine_desc: "一个真正鼓舞人心的建筑。每座大教堂对我们神圣的帝国来说都是神圣的，他们的歌声和信仰的合唱可以在星星上听到。"
+
+building_ae_master_archive: "宏伟的档案库"
+building_ae_master_archive_desc: "古老的历史跨越银河系，延续了数千年。档案保管员夜以继日地工作，试图揭开被遗忘者的秘密。"
+
+building_ae_nano_forge: "暗黑熔炉"
+building_ae_nano_forge_desc: "在这个熔炉的火坑里，令人毛骨悚然的人把不存在变成了存在。"
+
+building_ae_nourishment_center: "巨型农业综合体"
+building_ae_nourishment_center_desc: "来自银河系各地的厨师和厨师聚集在这里，探索新的食材和口味。美食!"
+
+building_ae_ancient_cryo_chamber: "先进的低温箱"
+building_ae_ancient_cryo_chamber_desc: "是的，做一个毁了的冷冻室毕竟不是一个明智的决定。"
+
+
+
+
+
+
+
+
+
+
+tech_ae_affluence_center: "完美的工匠气质"
+tech_ae_affluence_center_desc: "创造消费品不仅仅是为了满足人们的需求，更是为了以令人难以置信的方式满足他们。我们的艺术和产品是首屈一指的。"
+
+tech_ae_ancient_cryo_chamber: "妥善建造的冷冻室"
+tech_ae_ancient_cryo_chamber_desc: "这并不是一个重大的发现，建造一个破旧的冷冻室来关押罪犯并不是一个好的投资，它让我们的帝国看起来愚蠢至极。让我们再试一次，这次把它做好。"
+
+tech_ae_class_4_singularity: "第六级奇点。让我们做它!"
+tech_ae_class_4_singularity_desc: "我们在前导文档中看到过多次关于“永远不会达到Class-30奇点”的引用。这意味着系统升级4次是安全的…前面等得太久。一个?太少。\n\n我们现在用两个，第6类奇点。"
+
+tech_ae_dimensional_fabricator: "维度盗梦空间"
+tech_ae_dimensional_fabricator_desc: "在不同的维度中，还有一些人经常用同样的行为从另一个人那里偷东西。反过来，我们将从他们那里拿走我们的东西。我们将拯救银河系，从我们憎恨的人手中夺走东西，然后从我们所爱的人手中夺走。"
+
+tech_ae_sky_dome: "模因表现"
+tech_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让人们接触到足够多的迷因，他们就会学会欣赏艺术。所有的模因都流传了下来。迷因还是被迷因，杰克。"
+
+tech_ae_empyrean_shrine: "信仰的合唱"
+tech_ae_empyrean_shrine_desc: "我们的影响力必须遍及整个星球。让其他人在敬畏和恐惧中听到我们的神性。让他们见证我们对这一事业的承诺，只要一提到战舰大小的大教堂，他们就跪倒在地。"
+
+tech_ae_master_archive: "古老的记录"
+tech_ae_master_archive_desc: "我们不能只看未来，因为过去本身蕴藏着无数可以探索的秘密。我们将学习他们，学习他们，掌握他们。然后我们就吃了。"
+
+tech_ae_nano_forge: "黑暗打造"
+tech_ae_nano_forge_desc: "如果它存在，我们就会找到它们。如果它不存在，我们将创建它们。来自我们工程队的法典;第二章:第1337页。"
+
+tech_ae_nourishment_center: "银河美食"
+tech_ae_nourishment_center_desc: "最近一直有传言说，帝国之间有多种美食交流。有很多好的选择，但也有很多糟糕的选择。这是不可接受的，我们必须确保我们帝国的所有食物，无论来源如何，永远都是美味的。尽管如此，仍然有人抗议不要把蜗牛苹果放在pishza上。"
+
+
+
+
+
+#####Tech#####
+
+tech_ae_ancient_palace: "神秘的结构示意图"
+tech_ae_ancient_palace_desc: "现在我们已经掌握了暗物质的秘密，是时候抛弃那些陈腐过时的旧观念了。从现在开始，我们将挑战银河系，一个新时代的曙光正在我们面前!\n\n§HUnlocks首都建设转变成神秘的能力资本通过行星决定!§!"
+
+tech_ae_ancient_control_center: "神秘的建筑设计"
+tech_ae_ancient_control_center_desc: "现有的主控制中心模型难以实现高深莫测的技术集成。为了获得最佳性能，需要一种新的、优越的设计。\n\n§锁定通过行星决策将首都建筑转化为神秘首都的能力!§!"
+
+tech_ae_ancient_hive_cluster: "神秘的蜂巢的演进"
+tech_ae_ancient_hive_cluster_desc: "当前的蜂巢集群模板太弱，无法接受高深莫测的能量处理。需要一种新的超恐惧。"
+
+tech_giga_fortress: "千兆堡垒可视化"
+tech_giga_fortress_desc: "千兆堡垒由神秘的暗能量反应堆提供动力，是最致命的、自我维持的行星堡垒，可以横扫但也是最致命的入侵力量。"
+
+tech_ae_stronghold: "神秘防御网"
+tech_ae_stronghold_desc: "虽然我们现有的堡垒可能能够抵御基本的入侵者，但由于空间有限和武器过时，建筑本身太容易受到大规模入侵部队的攻击。为此，我们为新一代堡垒设计了一个概念，它应该为潜在的入侵者提供更多的挑战。"
+
+tech_dark_energy_psg: "暗能量行星屏蔽发生器"
+tech_dark_energy_psg_desc: "现在我们已经开发了神秘的屏蔽技术，修改我们当前的行星屏蔽发生器以适应新系统应该是一项简单的任务。"
+
+tech_ae_dark_energy_psg: "天空之盾装置"
+tech_ae_dark_energy_psg_desc: "虽然暗能量PSG提供了可接受的防轰击保护，但我们的许多战术家都指出，除此之外，建筑本身通常是无用的。 他们建议我们创建一个更大的装置，不仅提供更好的保护，而且还为我们的研究人员提供科学实验室插件。"
+
+tech_enigmatic_lab: "神秘的实验室"
+tech_enigmatic_lab_desc: "确定和探索前体技术的全部潜力需要来自各个领域的科学家。因此，我们的实验室必须重新配置，为所有相关人员提供必要的设备。"
+
+tech_ae_enigmatic_lab: "黑顶面研究中心"
+tech_ae_enigmatic_lab_desc: "我们对科学的追求永远不会停止。我们需要更多的科学家、研究人员、工程师、理论家……一切。我们必须了解更多……"
+
+tech_super_assembly: "超级组装"
+tech_super_assembly_desc: "我们的机器人专家总是认为只有一个机器人师在一个小建筑上工作，为整个世界生产机器人，这是一个愚蠢而可怕的决定。现在是我们补救那个愚蠢和愚蠢的问题的时候了。说真的，我们以前为什么不考虑这个？"
+
+tech_super_assembly_ae: "纳米组装"
+tech_super_assembly_ae: "即使增加了工作人员，我们的机器人生产似乎也受到设备大小的限制。但是有了纳米机器技术，我们现在可以使制造者和制造商的数量翻倍。哔-啵。你是一个机器人，你在这里做无聊的工作，所以我们可以做一些有趣的事情。"
+
+tech_dark_matter_synthersizer: "黑洞合成"
+tech_dark_matter_synthersizer_dec: "我们现在有了一种可靠的技术，可以潜在地合成一个城市大小的黑洞，而不会对地球其他地方造成任何危险。这将允许我们大量地提取暗物质和暗能量。这座大楼是自动化的，但维护保养却相当高。"
+
+tech_dark_matter_synthersizer_ae: "黑暗的四根柱子"
+tech_dark_matter_synthersizer_ae_desc: "基于与尺寸制造者相同的原理，暗门连接;由四根暗能量柱保持稳定，可以从其他维度提取大量的暗物质和暗能量。这个过程虽然复杂，但更安全，因此减少了维护费用。"
+
+tech_dark_matter_generator: "晚期暗物质生成"
+tech_dark_matter_generator_desc: "科学的不断进步使我们能够把原始矿物转化成合成的暗物质。虽然需要专门的炼金术士，但这个过程比以前使用的自动化系统更有效。"
+
+tech_ae_dark_matter_generator: "暗物质质量转换"
+tech_ae_dark_matter_generator_desc: "随着我们对暗物质的技术改造越来越多，我们必须找到一种方法来产生更多这种神秘的资源。"
+
+tech_dark_energy_pylon: "暗能量绘图"
+tech_dark_energy_pylon_desc: "我们还发现了另一种神秘的元素——暗能量。如果我们要利用这种新能源，我们必须了解如何提取，更重要的是，如何产生它。"
+
+tech_ae_dark_energy_pylon: "暗能量牵引"
+tech_ae_dark_energy_pylon_desc: "现在我们对暗物质结晶的整个过程有了正确的理解，它是一种传导暗能量的媒介。我们现在可以寻找一种更大的媒介——暗能量尖塔."
+
+
+tech_mine_dark_energy: "暗能量牵引"
+tech_mine_dark_energy_desc: "我们还发现了另一种神秘的元素——暗能量。如果我们要利用这种新能源，我们必须了解如何提取，更重要的是，如何产生它。"
+
+
+### OLD TECH
+
+tech_fe_hospital: "细胞重组和重建"
+tech_fe_hospital_desc: "我们要求克隆模板来提高生长速度的日子一去不复返了。有了从前体获得的新神秘技术，我们可以用对所有已知疾病都具有抵抗力的人造活细胞来召唤新生命。"
+
+tech_fe_clone_vats: "先进的克隆技术"
+tech_fe_clone_vats_desc: "我们在生物学上突飞猛进的进步使我们能够创造出一种更强大的克隆技术，它消除了年龄惩罚的问题，使我们的克隆与原始模板一样长寿。这也为将来可能重新访问我们的克隆人军队提供了机会。"
+
+tech_fe_mineral_processing_plant: "仿生学链接机械加工"
+tech_fe_mineral_processing_plant_desc: "基于前体船舰载仿生接口计算机，我们得出了同样的仿生链路可以用于我国选矿机械的理论。"
+
+tech_fe_replicator: "强光物质产生"
+tech_fe_replicator_desc: "在我们完全理解暗物质之前，我们只能勉强画出足够产生物质的部分。现在我们意识到，利用暗物质的纯强光技术来构建大量的合成矿物是可能的。"
+
+tech_fe_power_hub: "暗物质能量栅极"
+tech_fe_power_hub_desc: "我们的科学家相信，我们可以应用同样的方法来建造和运行暗物质发电厂，以改善我们目前的能源联系模板。"
+
+tech_fe_galactic_trade_enclave: "银河系的商业中心"
+tech_fe_galactic_trade_enclave_desc: "我们的证券交易所虽然已经非常庞大，为我们的帝国提供了大量的收入，但却没有适当的授权来销售暗物质相关的物品。虽然我们不打算将这些神秘的技术免费提供给低等生物，但我们的市场策略指出，我们可以欺骗许多原始生物去购买带有提升者标记的琐碎小饰品或人工制品。季票、独家收藏版、预购、早入;所有的策略都将被用来实现最大的利润。" 
+
+tech_fe_heaven_dome: "现实天堂"
+tech_fe_heaven_dome_desc: "虽然我们目前的“天堂穹顶”模型在为我们的核心物种提供住宿和幸福方面做得很好，但它的生成器还不足以支持新改进所需的额外部分。现在可以通过引入暗物质反应堆和更有效的医疗保健来消除这一限制。"
+
+tech_fe_visitor_center: "前体工件集合"
+tech_fe_visitor_center_desc: "在过去，我们已经研究了许多前驱手工艺品。我们的外交官认为，我们应该在游客中心开辟一个新的博物馆区，展示我们收集和完成的一些更好的东西。我们要传达的信息是明确的，要么留在他们陈旧的帝国里，要么加入我们，为一个更美好、更光明的未来而努力。"
+
+tech_fe_institute: "高级教育研习课程" 
+tech_fe_institute_desc: "我们现在的研究所总是有一个问题，它是一个很好的地方让那些已经拥有伟大智慧的人交流，但不一定是一个好的地方来创造他们。我们将把这个学院改造成一所大型大学，有潜力的年轻人可以在这里学习，为未来的远大抱负做好准备。"
+
+tech_fe_military_academy: "一流的军队住宿"
+tech_fe_military_academy_desc: "在提高我国公民素质和生活水平的同时，我们决不能忘记我们这些在战场上服役的人。他们也必须在休息时得到最好的治疗，以鼓励他们，我们才是真正能让银河系变得更美好的那个人。"
+
+tech_fe_obelisk_of_light: "方尖碑的光"
+tech_fe_obelisk_of_light_desc: "尽管我们承认，从大局来看，我们的国防部队不太可能抵挡住由数月的轰炸支持的全面入侵。然而，我们仍然看到建设一个独特的科学设施的潜力，它还可以作为一个强大的防御建筑。"
+
+tech_fe_assemble: "强光组装"
+tech_fe_assemble_desc: "发现新的装配技术。强光材料;将光谱转换成固体形式。预计100%提高效率。<建议>必须获得。"
+
+tech_fe_singularity_core: "有机金融主导地位"
+tech_fe_singularity_core_desc: "实现最优概率计算。现在能够渗透到<有机市场>和股票;能够操纵<有机物>投资<机械产品>///必须建立财务优势。"
+
+tech_fe_communication_nexus: "人工星系"
+tech_fe_communication_nexus_desc: "我们的科学部门声称<30级奇点>最终会来临。 <原因> =有机的不合逻辑的决定会激起他们在银河系上造成破坏。 我们必须为有机无法维持自我坚持模块所造成的这种不可避免的愚蠢做好准备。"
+
+tech_fe_war_factory: "前战斗代码自适应"
+tech_fe_war_factory_desc: "虽然我们的入侵部队目前的战斗代码已经相当有效，但与先导的战争机器所使用的代码相比，它们显得苍白无力。<建议>分析获取前体作战数据。"
+
+tech_infinity_engine: "无限计算"
+tech_infinity_engine_desc: "有了从前体获取的更新后的代码，有机概率计算现在已经是微不足道的任务了。我们将全面控制他们的经济。我们会到达无限。"
+
+tech_fe_communication_nexus: "暗能量分布"
+tech_fe_communication_nexus_desc: "我们已经开始在我们的机器单元中安装暗物质核心，但是我们发现我们可以将暗能量转换成包含表面空气的无形形式。预计这将提高所有工作单位的处理能力。"
+
+tech_fe_slave_processing: "无垢者"
+tech_fe_slave_processing_desc: "奴隶很便宜，容易控制，但并不总是有效的。他们也能成为非常可怕的士兵对抗经验丰富的军队。作为一个崛起的帝国，这是不可能的。这是站不住脚的。我们将组成新一代的奴隶士兵，从出生起就接受训练，成为我们战胜群星意志的最终代表。"
+
+tech_fe_betharian: "暗物质融合贝塞里安石"
+tech_fe_betharian_desc: "贝塞里安石似乎对暗物质有一种特殊的反应。也许我们应该在这方面做进一步的探索，我们也许能够改进我们现在的贝瑟里安发电厂，与我们的暗物质发电厂相比，它们现在已经相当过时了。"
+
+tech_fe_habitats: "群星是我们的家"
+tech_fe_habitats_desc: "是时候把我们神秘的工程带到我们的家园了!利用我们的先进技术，我们将消除空间站内存在的任何弱点。无论我们走到哪里，我们都要回家。"
+
+requires_building_fe_capital: "为了进一步改善这座建筑，需要一个神秘的首都综合体。从行星的决定中选择黑暗宫殿!"
+requires_building_fe_capital_machine: "为了进一步改善这座建筑，需要一个神秘的首都综合体。从行星的决定中选择黑暗连结!"
+
+
+#######################BUIULDINGSDASDHASHDH ASHLEY WTF WHY YOUR PANTIES IS WHITE?###################
+
+building_stellarite_generator: "星状体发电机"
+building_stellarite_generator_desc: "很壮观，不是吗?创造一颗人造的恒星，在那里我们可以提取它的力量来满足我们内心的欲望。我们所有的反对意见都将化为泡影。地狱是的!"
+
+building_stellarite_nexus: "星状体能源管道"
+building_stellarite_nexus_desc: "将场强增加到10级在技术上仍然在可接受的参数范围内。距离核选项还有20级。"

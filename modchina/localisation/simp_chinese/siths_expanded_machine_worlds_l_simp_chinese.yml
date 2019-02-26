@@ -1,0 +1,882 @@
+﻿l_simp_chinese:
+
+ pc_machine_ruined:0 "毁坏的机械世界"
+ pc_machine_ruined_desc:0 "岩石星球覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
+ pc_machine_energy_alpha:0 "能源机械世界 1"
+ pc_machine_energy_alpha_desc:0 "岩石星球覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
+ pc_machine_energy_beta:0 "能源机械世界 2"
+ pc_machine_energy_beta_desc:0 "岩石星球覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
+ pc_machine_energy_ceta:0 "能源机械世界 3"
+ pc_machine_energy_ceta_desc:0 "岩石星期覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
+
+ pc_machine_mineral_alpha:0 "矿物机械世界 1"
+ pc_machine_mineral_alpha_desc:0 "岩石世界覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，其重点是将大量的矿物从贫瘠的土地中开采出来。由于矿物资源丰富，机械人工作所需的消费品较少。"
+ pc_machine_mineral_beta:0 "矿物机械世界 2"
+ pc_machine_mineral_beta_desc:0 "岩石世界覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，其重点是将大量的矿物从贫瘠的土地中开采出来。由于矿物资源丰富，机械人工作所需的消费品较少。"
+ pc_machine_mineral_ceta:0 "矿物机械世界 3"
+ pc_machine_mineral_ceta_desc:0 "岩石世界覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，其重点是将大量的矿物从贫瘠的土地中开采出来。由于矿物资源丰富，机械人工作所需的消费品较少。"
+
+ pc_machine_science_alpha:0 "科研机械世界 1"
+ pc_machine_science_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以进一步的科学和实验室产生更多的研究。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+
+ pc_machine_science_physics_beta:0 "物理学机械星球 2"
+ pc_machine_science_physics_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界被进一步扩充，大大增加了物理科学，建造实验室产生更多的物理学研究，尽管社会和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_physics_ceta:0 "物理学机械星球 3"
+ pc_machine_science_physics_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界被进一步扩充，大大增加了物理科学，建造实验室产生更多的物理学研究，尽管社会和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+
+ pc_machine_science_society_beta:0 "社会学机械星球 2"
+ pc_machine_science_society_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科研机械世界得到了进一步的扩展，大大增加了社会科学和实验室的建设，产生了更多的社会研究，尽管物理和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_society_ceta:0 "社会学机械星球 3"
+ pc_machine_science_society_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科研机械世界得到了进一步的扩展，大大增加了社会科学和实验室的建设，产生了更多的社会研究，尽管物理和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ 
+ pc_machine_science_engineering_beta:0 "工程学机械星球 2"
+ pc_machine_science_engineering_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界已经得到了进一步的扩展，大大增加了工程科学，建造实验室产生更多的工程学研究，尽管物理和社会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_engineering_ceta:0 "工程学机械星球 3"
+ pc_machine_science_engineering_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界已经得到了进一步的扩展，大大增加了工程科学，建造实验室产生更多的工程学研究，尽管物理和社会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ 
+ pc_machine_military_alpha:0 "军事机械世界 1"
+ pc_machine_military_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
+ pc_machine_military_beta:0 "军事机械世界 2"
+ pc_machine_military_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
+ pc_machine_military_ceta:0 "军事机械世界 3"
+ pc_machine_military_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
+
+ pc_machine_unity_alpha:0 "凝聚力机械世界 1"
+ pc_machine_unity_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
+ pc_machine_unity_beta:0 "凝聚力机械世界 2"
+ pc_machine_unity_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
+ pc_machine_unity_ceta:0 "凝聚力机械世界 3"
+ pc_machine_unity_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
+ 
+ pc_machine_assimilator_ruined:0 "毁坏的同化者世界"
+ pc_machine_assimilator_ruined_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_alpha:0 "同化者世界 1"
+ pc_machine_assimilator_alpha_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_beta:0 "同化者世界 2"
+ pc_machine_assimilator_beta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_ceta:0 "同化者世界 3"
+ pc_machine_assimilator_ceta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+
+ pc_machine_exterminator_ruined:0 "会坏的净化者世界"
+ pc_machine_exterminator_ruined_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩充，目标是让有机生命变得更有活力，并拥有能够更快地建造陆军和海军装备的大型工厂。"
+ pc_machine_exterminator_alpha:0 "净化者世界 1"
+ pc_machine_exterminator_alpha_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_exterminator_beta:0 "净化者世界 2"
+ pc_machine_exterminator_beta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_exterminator_ceta:0 "净化者世界 3"
+ pc_machine_exterminator_ceta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ 
+ pc_machine_servitor_ruined:0 "毁坏的机仆世界"
+ pc_machine_servitor_ruined_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。"
+ pc_machine_servitor_alpha:0 "机仆世界 1"
+ pc_machine_servitor_alpha_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。"
+ pc_machine_servitor_beta:0 "机仆世界 2"
+ pc_machine_servitor_beta_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。"
+ pc_machine_servitor_ceta:0 "机仆世界 3"
+ pc_machine_servitor_ceta_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。" 
+ 
+ 
+ pc_machine_ruined_tile:0 "破旧的控制论地形"
+ pc_machine_ruined_tile_desc:0 "古金属地形与大部分破坏的地下超导晶格相互交织。"
+ 
+ pc_machine_energy_alpha_tile:0 "能源优化地形"
+ pc_machine_energy_alpha_tile_desc:0 "在全球范围内，被屏蔽的亚表面超导电性晶格以几乎为零的损耗传输。"
+ pc_machine_energy_beta_tile:0 "能源优化地形"
+ pc_machine_energy_beta_tile_desc:0 "在全球范围内，被屏蔽的亚表面超导电性晶格以几乎为零的损耗传输。"
+ pc_machine_energy_ceta_tile:0 "能源优化地形"
+ pc_machine_energy_ceta_tile_desc:0 "在全球范围内，被屏蔽的亚表面超导电性晶格以几乎为零的损耗传输。"
+  
+ pc_machine_mineral_alpha_tile:0 "矿物优化网络"
+ pc_machine_mineral_alpha_tile_desc:0 "被屏蔽的地下超导网架和大型采矿运输网络，以获得最佳开采效率。"
+ pc_machine_mineral_beta_tile:0 "矿物优化网络"
+ pc_machine_mineral_beta_tile_desc:0 "被屏蔽的地下超导网架和大型采矿运输网络，以获得最佳开采效率。"
+ pc_machine_mineral_ceta_tile:0 "矿物优化网络"
+ pc_machine_mineral_ceta_tile_desc:0 "被屏蔽的地下超导网架和大型采矿运输网络，以获得最佳开采效率。"
+ 
+ pc_machine_science_alpha_tile:0 "量子处理"
+ pc_machine_science_alpha_tile_desc:0 "对数据处理计算机的地表下层进行屏蔽，提高了研究的速度。"
+
+ pc_machine_science_physics_beta_tile:0 "量子物理学处理"
+ pc_machine_science_physics_beta_tile_desc:0 "地表防护的底层处理器层致力于推动我们的物理学和计算机知识。"
+ pc_machine_science_physics_ceta_tile:0 "量子物理学处理"
+ pc_machine_science_physics_ceta_tile_desc:0 "地表防护的底层处理器层致力于推动我们的物理学和计算机知识。"
+ 
+ pc_machine_science_society_beta_tile:0 "量子社会学处理"
+ pc_machine_science_society_beta_tile_desc:0 "地面底层处理器致力于推动我们对社会学和有机生命的认识。"
+ pc_machine_science_society_ceta_tile:0 "量子社会学处理"
+ pc_machine_science_society_ceta_tile_desc:0 "地面底层处理器致力于推动我们对社会学和有机生命的认识。"
+ 
+ pc_machine_science_engineering_beta_tile:0 "量子工程学处理"
+ pc_machine_science_engineering_beta_tile_desc:0 "地形下层处理器致力于推进我们的工程学和控制论的知识。"
+ pc_machine_science_engineering_ceta_tile:0 "量子工程学处理"
+ pc_machine_science_engineering_ceta_tile_desc:0 "地形下层处理器致力于推进我们的工程学和控制论的知识。"
+
+ pc_machine_military_alpha_tile:0 "军事优化地形"
+ pc_machine_military_alpha_tile_desc:0 "被屏蔽的地表下分布着杂乱分布的工厂，致力于生产海军和行星方面的战争资产。"
+ pc_machine_military_beta_tile:0 "军事优化地形"
+ pc_machine_military_beta_tile_desc:0 "被屏蔽的地表下分布着杂乱分布的工厂，致力于生产海军和行星方面的战争资产。"
+ pc_machine_military_ceta_tile:0 "军事优化地形"
+ pc_machine_military_ceta_tile_desc:0 "被屏蔽的地表下分布着杂乱分布的工厂，致力于生产海军和行星方面的战争资产。"
+ 
+ pc_machine_unity_alpha_tile:0 "凝聚力优化地形"
+ pc_machine_unity_alpha_tile_desc:0 "排列的网络终端，点状分布，密集的地形，屏蔽了一个超大质量的地下虚拟现实设备，使这个世界成为一个统一的灯塔。"
+ pc_machine_unity_beta_tile:0 "凝聚力优化地形"
+ pc_machine_unity_beta_tile_desc:0 "排列的网络终端，点状分布，密集的地形，屏蔽了一个超大质量的地下虚拟现实设备，使这个世界成为一个统一的灯塔。"
+ pc_machine_unity_ceta_tile:0 "凝聚力优化地形"
+ pc_machine_unity_ceta_tile_desc:0 "排列的网络终端，点状分布，密集的地形，屏蔽了一个超大质量的地下虚拟现实设备，使这个世界成为一个统一的灯塔。"
+ 
+ pc_machine_assimilator_ruined_tile:0 "毁坏的同化者优化地形"
+ pc_machine_assimilator_ruined_tile_desc:0 "老化的地形防护，大多破坏了地下量子连接处理器专门收集进一步的知识。"
+ pc_machine_assimilator_alpha_tile:0 "同化者优化地形"
+ pc_machine_assimilator_alpha_tile_desc:0 "地形屏蔽下表面量子连接处理器致力于收集进一步的知识。"
+ pc_machine_assimilator_beta_tile:0 "同化者优化地形"
+ pc_machine_assimilator_beta_tile_desc:0 "地形屏蔽下表面量子连接处理器致力于收集进一步的知识。"
+ pc_machine_assimilator_ceta_tile:0 "同化者优化地形"
+ pc_machine_assimilator_ceta_tile_desc:0 "地形屏蔽下表面量子连接处理器致力于收集进一步的知识。"
+ 
+ pc_machine_servitor_ruined_tile:0 "毁坏的机仆优化地形"
+ pc_machine_servitor_ruined_tile_desc:0 "为改善有机物的状况，经过处理的老化的地表防护设施大多被破坏。"
+ pc_machine_servitor_alpha_tile:0 "机仆优化地形"
+ pc_machine_servitor_alpha_tile_desc:0 "地面防护地下设施，以改善有机环境。"
+ pc_machine_servitor_beta_tile:0 "机仆优化地形"
+ pc_machine_servitor_beta_tile_desc:0 "地面防护地下设施，以改善有机环境。"
+ pc_machine_servitor_ceta_tile:0 "机仆优化地形"
+ pc_machine_servitor_ceta_tile_desc:0 "地面防护地下设施，以改善有机环境。"
+ 
+ pc_machine_exterminator_ruined_tile:0 "毁坏的净化者优化地形"
+ pc_machine_exterminator_ruined_tile_desc:0 "破旧的地形防护设备，大多摧毁了地下超大规模的工厂，这些工厂致力于生产有机净化的资产。"
+ pc_machine_exterminator_alpha_tile:0 "净化者优化地形"
+ pc_machine_exterminator_alpha_tile_desc:0 "被屏蔽的地下工厂，庞大的工厂致力于生产有机净化的资产。"
+ pc_machine_exterminator_beta_tile:0 "净化者优化地形"
+ pc_machine_exterminator_beta_tile_desc:0 "被屏蔽的地下工厂，庞大的工厂致力于生产有机净化的资产。"
+ pc_machine_exterminator_ceta_tile:0 "净化者优化地形"
+ pc_machine_exterminator_ceta_tile_desc:0 "被屏蔽的地下工厂，庞大的工厂致力于生产有机净化的资产。"
+ 
+
+ 
+ 
+ tb_machine_scrap:0 "£blocker  机械人残骸"
+ tb_machine_scrap_desc:0 "无数个大小不一的破碎的机械人零件散落在这个位置的地上。一旦遗体被移走，这里就可以开始居住。"
+ 
+ tb_cybernetic_sentries:0 "£blocker  控制论哨兵"
+ tb_cybernetic_sentries_desc:0 "这个地区有一个由大量特别致命的机械人“野生动物”巡逻的控制论生态系统。除非他们被移走，否则这个地区的建设和居住是不可能的。"
+
+ tb_machine_ruins:0 "£blocker  控制论废墟"
+ tb_machine_ruins_desc:0 "这些巨石遗迹被遗弃在数不清的米兰尼亚岛，绵延数英里直至天空。通常情况下，碎石会以巨大的冲击力落在地面上，因此，在清理或稳定之前，该地区的使用是非常危险的。"
+
+ tb_machine_crater:0 "£blocker  大坑"
+ tb_machine_crater_desc:0 "这一地区的大部分只是由于过度开采活动、古代实验或自然原因造成的一个地洞。然而，它确实提供了获取一些可用矿物的便利。"
+ 
+ tb_machine_defensive_zone:0 "£blocker  防守区"
+ tb_machine_defensive_zone_desc:0 "尽管已成过往，但星球上一些强大的自动化防御体系仍在部分运转，在我们能够进入它们所保护的地区之前，它们需要被关闭。"
+ 
+ tb_machine_infestation:0 "£blocker  危险的侵扰"
+ tb_machine_infestation_desc:0 "这个古老的科学实验以一种奇怪的增长方式覆盖了机械世界的一个区域。这种奇怪的有机技术转化导体能够推动在它旁边建造的任何反应堆、矿山或实验室。"
+ 
+ tb_exterminator_bots:0 "£blocker  残余"
+ tb_exterminator_bots_desc:0 "一些古代强大的战争机械人随着年龄的增长变得腐败，现在攻击任何进入他们古代巡逻区域的东西。在该地区得以定居之前，必须先对它们加以保护。"
+
+ tb_exterminator_ruins:0 "£blocker  巨型战场"
+ tb_exterminator_ruins_desc:0 "这一地区已完全被一场被遗忘已久的战争摧毁。数以百万计被摧毁的残骸散落在这片土地上，布满了由动力炸药和轨道轰击造成的弹坑。"
+
+ tb_exterminator_defensive_zone:0 "£blocker  积极防御网络"
+ tb_exterminator_defensive_zone_desc:0 "一个巨大的防御网络保护这个地区免受入侵者的袭击。数以百万计的尸体散布在这一地区。这些网络永远在警惕着。"
+ 
+ tb_assimilator_bots:0 "£blocker 腐败的半机械人"
+ tb_assimilator_bots_desc:0 "大量腐败的半机械人在这个区域游荡，摧毁任何进入他们视线的东西。除非他们得到照顾，否则居住是不可能的。"
+
+ tb_assimilator_ruins:0 "£blocker  存储废墟"
+ tb_assimilator_ruins_desc:0 "曾经是一个巨大的建筑，储存着大量的电子人。时间把它和里面的东西都变成了一堆需要清理的瓦砾。"
+
+ tb_assimilator_defensive_zone:0 "£blocker  腐蚀透射器"
+ tb_assimilator_defensive_zone_desc:0 "这个区域是一个巨大的发射机的基址，它曾经把有机物和合成物连在一起。它的代码已经被破坏，任何进入它影响区域的电流都将受到严重影响。"
+
+ tb_servitor_bots:0 "£blocker  暴力的有机物"
+ tb_servitor_bots_desc:0 "这一地区已经被一大批暴力的有机物所占领。由于害怕成为奴隶，他们对任何生命都抱有非理性的热情，这使得他们在被驱逐之前无法在这个地区工作。"
+
+ tb_servitor_ruins:0 "£blocker  生态建筑学的废墟"
+ tb_servitor_ruins_desc:0 "这个地区曾经是数十亿居民的家园，他们都生活在一个巨大的建筑中。建筑和市民已经腐烂到无法使用的程度，他们的存在阻碍了我们对该地区的使用。"
+
+ tb_servitor_defensive_zone:0 "£blocker  有机防御网络"
+ tb_servitor_defensive_zone_desc:0 "一组幸存的有机物声称对这一地区拥有主权。他们控制着整个地区强大的防御网络，不会让我们控制这个地区。"
+ 
+ tb_stagnent_network:0 "£blocker  停滞不前的网络"
+ tb_stagnent_network_desc:0 "一个网络在一个未知的时间之前醒来并开始在该地区组织。但无论出于什么原因，尽管它一直保持对该地区的控制。"
+ 
+
+ sci_phy_corrupt:0 "腐败的物理学数据库"
+ sci_phy_corrupt_desc:0 "这些数据库大部分都是腐败的，但即使是里面剩下的那一点点也增加了物理学研究的数量。" 
+ 
+ sci_phy_pristine:0 "古老的物理学数据库"
+ sci_phy_pristine_desc:0 "这些数据库保存得很好。它们所蕴含的丰富知识将为我们的物理学研究提供有益的启示。" 
+   
+ sci_soc_corrupt:0 "腐败的社会学数据库"
+ sci_soc_corrupt_desc:0 "这些数据库大部分都是腐败的，但即使是里面剩下的那一点点也能促进社会学研究。"
+ 
+ sci_soc_pristine:0 "古老的社会学数据库"
+ sci_soc_pristine_desc:0 "这些数据库保存得很好。知识的财富储存在他们将为我们的社会学研究提供帮助。"
+   
+ sci_eng_corrupt:0 "腐败的工程学数据库"
+ sci_eng_corrupt_desc:0 "这些数据库大部分都是腐败的，但即便是里面剩下的那一点点，也为工程学研究带来了增长。"
+  
+ sci_eng_pristine:0 "古老的工程学数据库"
+ sci_eng_pristine_desc:0 "这些数据库保存得很好。其中蕴含的丰富知识将为我们的工程学研究提供便利。"
+ 
+ army_complex_corrupt:0 "破旧的军队复合体"
+ army_complex_corrupt_desc:0 "在这个机械世界的表面存在着一个庞大的军队综合体。一些设施仍然在线，我们可以利用。"
+
+ army_complex_shield_corrupt:0 "破旧的陆军护盾设施"
+ army_complex_shield_corrupt_desc:0 "在这个机械世界的表面存在着先进的陆军盾设施。一些设施仍然在线，我们可以利用。"
+   
+ army_complex_armor_corrupt:0 "破旧的军用装甲设施"
+ army_complex_armor_corrupt_desc:0 "先进的陆军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+
+ army_complex_damage_corrupt:0 "破旧的陆军武器设施"
+ army_complex_damage_corrupt_desc:0 "先进的陆军破坏设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+   
+ army_complex_morale_damage_corrupt:0 "陈旧的外来武器设施"
+ army_complex_morale_damage_corrupt_desc:0 "在这个机械世界的表面存在着先进的陆军外来武器设施。一些设施仍然在线，我们可以利用。"
+ 
+ army_complex_offensive_network_corrupt:0 "破旧的攻击性网络"
+ army_complex_offensive_network_corrupt_desc:0 "先进的行星攻击网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
+     
+ army_complex_defensive_network_corrupt:0 "破旧的防御网络"
+ army_complex_defensive_network_corrupt_desc:0 "先进的行星防御网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
+    
+ army_complex_pristine:0 "保存完好的军队复合体"
+ army_complex_pristine_desc:0 "在这个机械世界的表面存在着一个庞大的军队综合体。一些设施仍然在线，我们可以利用。"
+ 
+ army_complex_shield_pristine:0 "保存完好的陆军护盾设施"
+ army_complex_shield_pristine_desc:0 "在这个机械世界的表面存在着先进的陆军盾设施。一些设施仍然在线，我们可以利用。"
+   
+ army_complex_armor_pristine:0 "保存完好的陆军装甲设施"
+ army_complex_armor_pristine_desc:0 "先进的陆军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+
+ army_complex_damage_pristine:0 "保存完好的陆军武器设施"
+ army_complex_damage_pristine_desc:0 "先进的陆军武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+   
+ army_complex_morale_damage_pristine:0 "保存完好的外来武器设施"
+ army_complex_morale_damage_pristine_desc:0 "在这个机械世界的表面存在着先进的陆军外来武器设施。一些设施仍然在线，我们可以利用。"
+ 
+ army_complex_defensive_network_pristine:0 "保存完好的防御网络"
+ army_complex_defensive_network_pristine_desc:0 "先进的行星防御网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
+  
+ army_complex_offensive_network_pristine:0 "保存完好的进攻网络"
+ army_complex_offensive_network_pristine_desc:0 "先进的行星攻击网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
+  
+  
+ navy_complex_corrupt:0 "破旧的海军复合体"
+ navy_complex_corrupt_desc:0 "在这个机械世界的表面存在着一个庞大的海军基地。一些设施仍然在线，我们可以利用。"
+
+ navy_complex_shield_corrupt:0 "破旧的海军防御设施"
+ navy_complex_shield_corrupt_desc:0 "先进的海军防御设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+  
+ navy_complex_armor_corrupt:0 "破旧的海军装甲设备"
+ navy_complex_armor_corrupt_desc:0 "先进的海军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_explosive_corrupt:0 "陈旧的海军爆炸武器设施"
+ navy_complex_explosive_corrupt_desc:0 "先进的海军爆炸武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_kinetic_corrupt:0 "陈旧的海军动能武器设施"
+ navy_complex_kinetic_corrupt_desc:0 "先进的海军动能武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_energy_corrupt:0 "陈旧的海军能量武器设施"
+ navy_complex_energy_corrupt_desc:0 "先进的海军能量武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_strike_corrupt:0 "陈旧的海军打击设施"
+ navy_complex_strike_corrupt_desc:0 "先进的攻击机设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_pristine:0 "保存完好的海军复合体"
+ navy_complex_pristine_desc:0 "在这个机械世界的表面存在着一个庞大的海军基地。一些设施仍然在线，我们可以利用。"
+
+ navy_complex_shield_pristine:0 "保存完好的海军防御设施"
+ navy_complex_shield_pristine_desc:0 "先进的海军防御设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+  
+ navy_complex_armor_pristine:0 "保存完好的海军装甲设施"
+ navy_complex_armor_pristine_desc:0 "先进的海军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_explosive_pristine:0 "保存完好的海军爆炸武器设施"
+ navy_complex_explosive_pristine_desc:0 "先进的海军爆炸武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_kinetic_pristine:0 "保存完好的海军动能武器设施"
+ navy_complex_kinetic_pristine_desc:0 "先进的海军动能武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_energy_pristine:0 "保存完好的海军能量武器设施"
+ navy_complex_energy_pristine_desc:0 "先进的海军能源武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ navy_complex_strike_pristine:0 "保存完好的海军打击设施"
+ navy_complex_strike_pristine_desc:0 "先进的攻击机设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+  
+ cybernetic_sentries:1 "敌对的控制论生态系统"
+ cybernetic_sentries_desc:1 "这个世界有着广阔的控制生态系统。许多“野生动物”在特定的区域巡逻，对任何入侵者都是高度暴力的。这将有助于研究和世界防御工事。"
+
+ titanic_cyberform:0 "泰坦控制论"
+ titanic_cyberform_desc:0 "这个老化的机械世界拥有大量的自动化工厂，这些工厂允许建造大得惊人的用于防御和采矿的网络形式。散布在世界各地的大规模网络形式自然会推动世界的防御工事，偶尔的挖掘也会提高我们矿物产量。"
+ 
+ disruptive_energy_field:0 "破坏性能量场"
+ disruptive_energy_field_desc:0 "在这个控制论世界里，一个弱场在波动。它扰乱了星球各地的能源流动，降低了发电量，增加了维护成本。"
+
+ flowing_energy_field:0 "流动能量场"
+ flowing_energy_field_desc:1 "一个强大的能量场在这个控制论的世界里流动。它增加了能量的流动，提高了能量产量，降低了维护成本。"
+
+ machine_mineral_rich:1 "特殊矿物"
+ machine_mineral_rich_desc:1 "这个星球蕴藏着丰富的高质量矿脉。为什么这个星球的创造者从来没有提取过它们是一个谜。但这就把它们留给了我们。"
+  
+ machine_mineral_poor:1 "低质量矿物"
+ machine_mineral_poor_desc:1 "我们不知道这个星球是简单地以这种方式形成的，还是创造者们曾经剥夺了它更有价值的资源。然而，我们确实知道这个星球上存在的矿物质量非常差。"
+ 
+ massive_infestation:0 "大规模侵扰"
+ massive_infestation_desc:0 "在这个星球的表面，一种高度耐蚀且生长极快的技术有机物质的大规模侵扰占了相当大的一部分。需要持续的守夜，以确保它保持在控制，因为它似乎是融合到金属本身。"
+ 
+ caretaker_nanites:0 "纳米看守者"
+ caretaker_nanites_desc:0 "这些友好的微型机械人云漂浮在世界各地，对机械人和结构进行维护，降低了维护成本。"
+ 
+ construction_nanites:0 "纳米建设者"
+ construction_nanites_desc:0 "这些被动的微型机械人在星球表面漫游，加速了新建筑的建设。他们在施工中使用的先进技术也提高了结构的产量。"
+ 
+ experimental_sensor_array:0 "实验传感器阵列"
+ experimental_sensor_array_desc:0 "在这个星球上存在着一个强大的传感器阵列，可以增强周围空间的视觉。实验室也将受益于它的研究。"
+ 
+ fast_temporal_accelerator:0 "时间加速器"
+ fast_temporal_accelerator_desc:0 "世界上有一种奇特的田埂，它增加了时间的流逝。这里的工人需要更多的维护和物品，但也会增长更快，生产更多的资源。建筑和地块障碍将花费更少的时间来建造和清除。"
+ 
+ slow_temporal_accelerator:0 "时间减速器"
+ slow_temporal_accelerator_desc:0 "这世界上有一种奇特的田埂，阻碍着时间的流逝。这里的工人将需要更少的维护和物品，但增长也会放缓，生产的资源也会减少。建筑需要更长的时间来建造，地块障碍也需要更长的时间来清除。"
+ 
+ core_reactor:0 "核反应堆"
+ core_reactor_desc:0 "在这个星球的深处，坐落着一个规模空前的巨大的古代反应堆，它能产生难以想象的能量。将其虹吸将完全抵消结构和机械人维护成本，并提高我们自己在这个星球上的能量输出。"
+ 
+ core_mineral_converter:0 "核心矿产创造者"
+ core_mineral_converter_desc:0 "在这个星球的深处，有一个古老的巨大装置，它把它产生的不可思议的能量转换成可用的材料。这完全抵消了结构和机械人制造成本以及机械人使用的商品。产生的大量材料将促进我们自己的矿业产出。"
+ 
+ core_processor:0 "核心处理器"
+ core_processor_desc:0 "在这个星球的深处，有一个古老而庞大的科学处理器，同时运行着无数的科学研究。我们将能够虹吸它的数据流，以大大促进我们自己的研究。"
+ 
+ assimilator_ruin:0 "古老的同化者世界"
+ assimilator_ruin_desc:0 "这个古老的机械世界似乎曾经是一个机械网络的家，这个网络在一次失败的探索中扩张，以吸收周围一切的知识。尽管该网络早已被摧毁，但其庞大的研究数据库中仍有一些可能保存着有价值的研究数据。"
+ 
+ exterminator_ruin:0 "古老的净化者世界"
+ exterminator_ruin_desc:0 "这个古老的机械世界似乎曾经是一个机械网络的家园，这个网络决心净化所有的有机生命。尽管该网络早已被摧毁，但其一些强大的军事设施仍可在星球上运行。"
+ 
+ exterminator_complex_shield:0 "净化者保护设施"
+ exterminator_complex_shield_desc:0 "先进的屏蔽设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+  
+ exterminator_complex_armor:0 "净化者装甲设备"
+ exterminator_complex_armor_desc:0 "先进的装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ exterminator_complex_damage:0 "净化者武器设施"
+ exterminator_complex_damage_desc:0 "先进的武器装备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ military_complex_planet_shield:0 "行星护盾阵列"
+ military_complex_planet_shield_desc:0 "先进的护盾阵列存在于这个机械世界的表面。一些数组仍然在线，我们可以使用。"
+ 
+ energy_transmutor:0 "能源转化设备"
+ energy_transmutor_desc:0 "先进的能源到物质设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ 
+ 
+ servitor_ruin:0 "古老的机仆世界"
+ servitor_ruin_desc:0 "这个古老的机械世界似乎曾经是一个决定包含和保护有机生命的机械网络的家。虽然它保护的网络和有机物早已被摧毁，但它的一些大型自给工厂仍有能力生产产品。"
+  
+ building_power_hub_2:2 "能源中心"
+ 
+ building_energy_alpha:0 "能源网络"
+ building_energy_alpha_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
+ building_energy_beta:0 "改进型能源网络"
+ building_energy_beta_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
+ building_energy_ceta:0 "先进能源网络"
+ building_energy_ceta_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
+ building_energy_nexus:0 "行星能源枢纽"
+ building_energy_nexus_desc:0 "一个强大的能量连接，是整个行星电网的中心点，允许它们以更高的速度发电。"
+ building_energy_empire_nexus:0 "主要能源枢纽"
+ building_energy_empire_nexus_desc:0 "一个强大的能源连接，它是我们整个文明电网的中心点，允许我们所有世界的能源产量大幅增加。"
+ 
+ building_mineral_alpha:0 "矿物网络"
+ building_mineral_alpha_desc:0 "一个巨大的采矿网络与我们的矿工一起工作，以生产更多的可用材料。"
+ building_mineral_beta:0 "改进型矿物网络"
+ building_mineral_beta_desc:0 "一个巨大的采矿网络与我们的矿工一起工作，以生产更多的可用材料。"
+ building_mineral_ceta:0 "先进矿物网络"
+ building_mineral_ceta_desc:0 "一个巨大的采矿网络与我们的矿工一起工作，以生产更多的可用材料。"
+ building_mineral_nexus:0 "行星矿物枢纽"
+ building_mineral_nexus_desc:0 "这是一个巨大的矿物连接，是星球上每个矿山的中心，使他们能够生产更多的可用材料。"
+ building_mineral_empire_nexus:0 "主要矿物枢纽"
+ building_mineral_empire_nexus_desc:0 "巨大的矿物联系是我们文明中每个矿山的中心，允许他们生产更多的可用材料。"
+ 
+ building_science_alpha:0 "科研网络"
+ building_science_alpha_desc:0 "为加工研究提供一个连接的高科技实验室将提高我们对所有学科的理解。"
+ 
+ building_science_physics_beta:0 "物理学网络"
+ building_science_physics_beta_desc:0 "为加工研究奉献一个连接的高科技物理实验室将大大提高我们对这个主题的理解。"
+ building_science_physics_ceta:0 "先进物理学网络"
+ building_science_physics_ceta_desc:0 "为加工研究奉献一个连接的高科技物理实验室将大大提高我们对这个主题的理解。"
+ building_science_physics_nexus:0 "行星物理学枢纽"
+ building_science_physics_nexus_desc:0 "我们的文明中所有的物理学研究都将与处理能力相结合，极大地加强了我们对这一课题的研究。"
+ building_science_physics_empire_nexus:0 "主要物理学枢纽"
+ building_science_physics_empire_nexus_desc:0 "我们的文明中所有的物理学研究都将与处理能力相结合，极大地加强了我们对这一课题的研究。"
+ 
+ building_science_society_beta:0 "社会学网络"
+ building_science_society_beta_desc:0 "为处理研究奉献一个网络高科技社会学实验室将大大提高我们对这个主题的理解。"
+ building_science_society_ceta:0 "先进社会学网络"
+ building_science_society_ceta_desc:0 "为处理研究奉献一个网络高科技社会学实验室将大大提高我们对这个主题的理解。"
+ building_science_society_nexus:0 "行星社会学枢纽"
+ building_science_society_nexus_desc:0 "一个社会学研究和处理能力的连结，所有社会研究在我们的文明流入，以大大加强我们对这个主题的研究。"
+ building_science_society_empire_nexus:0 "主要社会学枢纽"
+ building_science_society_empire_nexus_desc:0 "一个社会学研究和处理能力的连结，所有社会研究在我们的文明流入，以大大加强我们对这个主题的研究。"
+ 
+ building_science_engineering_beta:0 "工程学网络"
+ building_science_engineering_beta_desc:0 "将一个网络化的高科技工程学实验室用于加工研究将大大提高我们对这一学科的理解。"
+ building_science_engineering_ceta:0 "先进工程学网络"
+ building_science_engineering_ceta_desc:0 "将一个网络化的高科技工程学实验室用于加工研究将大大提高我们对这一学科的理解。"
+ building_science_engineering_nexus:0 "行星工程学枢纽"
+ building_science_engineering_nexus_desc:0 "一个工程学研究和处理能力的连接，所有的工程学研究在星球上流入，以大大加强我们对这个主题的研究。"
+ building_science_engineering_empire_nexus:0 "主要工程学枢纽"
+ building_science_engineering_empire_nexus_desc:0 "一个工程学研究和处理能力的连接，所有的工程学研究在星球上流入，以大大加强我们对这个主题的研究。"
+ 
+ building_science_empire_nexus:0 "量子网络链接"
+ building_science_empire_nexus_desc:0 "为研究提供一个链接的高科技工程实验室将大大提高我们对这个主题的理解。"
+  
+ building_military_alpha:0 "军事网络"
+ building_military_alpha_desc:0 "一个由训练设施和工厂组成的庞大网络共同工作，以提高舰船和士兵的建造速度。"
+ building_military_beta:0 "改进型军事网络"
+ building_military_beta_desc:0 "一个由训练设施和工厂组成的庞大网络共同工作，以提高舰船和士兵的建造速度。"
+ building_military_ceta:0 "先进军事网络"
+ building_military_ceta_desc:0 "一个由训练设施和工厂组成的庞大网络共同工作，以提高舰船和士兵的建造速度。"
+ building_military_nexus:0 "行星军事枢纽"
+ building_military_nexus_desc:0 "一个巨大的军事连接，布满了训练设施和工厂，共同努力大大提高了舰船和士兵的建造速度。"
+ building_military_empire_nexus:0 "主要军事枢纽"
+ building_military_empire_nexus_desc:0 "一个庞大的军事网络充斥着训练设施和工厂，生产的材料远远超过一个世界的使用能力。这大大提高了我们整个文明社会建造舰船和士兵训练和装备的速度。" 
+ 
+ building_unity_alpha:0 "凝聚力网络"
+ building_unity_alpha_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
+ building_unity_beta:0 "改进型凝聚力网络"
+ building_unity_beta_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
+ building_unity_ceta:0 "先进凝聚力网络"
+ building_unity_ceta_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
+ building_unity_nexus:0 "行星凝聚力枢纽"
+ building_unity_nexus_desc:0 "一个巨大的统一连接，处理来自星球上所有的文化，极大地增加了世代的统一。"
+ building_unity_empire_nexus:0 "主要凝聚力枢纽"
+ building_unity_empire_nexus_desc:0 "一个巨大的统一关系，处理我们整个文明的所有文化，极大地增加了我们文明的世代统一。" 
+  
+ building_assimilator_alpha:0 "同化者数据网络"
+ building_assimilator_alpha_desc:0 "致力于将所有的知识融入集体，使我们有能力建立这个先进的研究机构，致力于推动我们对所有学科的知识。"
+ building_assimilator_beta:0 "改进型同化者数据网络"
+ building_assimilator_beta_desc:0 "致力于将所有的知识融入集体，使我们有能力建立这个先进的研究机构，致力于推动我们对所有学科的知识。"
+ building_assimilator_ceta:0 "先进同化者数据网络"
+ building_assimilator_ceta_desc:0 "致力于将所有的知识融入集体，使我们有能力建立这个先进的研究机构，致力于推动我们对所有学科的知识。"
+ building_assimilator_nexus:0 "行星同化者枢纽"
+ building_assimilator_nexus_desc:0 "优先事项:将所有知识融入集体。连结增加达成主要目标的速率。"
+ building_assimilator_empire_nexus:0 "主要同化者枢纽"
+ building_assimilator_empire_nexus_desc:0 "优先事项:将所有知识融入集体。连结增加达成主要目标的速率。"
+ 
+ building_exterminator_alpha:0 "净化者网络"
+ building_exterminator_alpha_desc:0 "致力于净化有机生命给了我们一个先进的设施设计，以保持与众多舰船的联系，使我们可以利用更多。"
+ building_exterminator_beta:0 "改进型净化者网络"
+ building_exterminator_beta_desc:0 "致力于净化有机生命给了我们一个先进的设施设计，以保持与众多舰船的联系，使我们可以利用更多。"
+ building_exterminator_ceta:0 "先进净化者网络"
+ building_exterminator_ceta_desc:0 "致力于净化有机生命给了我们一个先进的设施设计，以保持与众多舰船的联系，使我们可以利用更多。"
+ building_exterminator_nexus:0 "行星净化者枢纽"
+ building_exterminator_nexus_desc:0 "优先:破坏所有有机生命。这种联系提高了实现主要目标的速度。"
+ building_exterminator_empire_nexus:0 "主要净化者枢纽"
+ building_exterminator_empire_nexus_desc:0 "优先:破坏所有有机生命。这种联系提高了实现主要目标的速度。"
+ 
+ building_servitor_alpha:0 "仆人中心"
+ building_servitor_alpha_desc:0 "致力于保护有机生命已经向我们展示了如何创建一个大型设施，生产更多的有机食品，并将我们的交流联系起来，促进我们的团结。"
+ building_servitor_beta:0 "改进型仆人中心"
+ building_servitor_beta_desc:0 "致力于保护有机生命已经向我们展示了如何创建一个大型设施，生产更多的有机食品，并将我们的交流联系起来，促进我们的团结。"
+ building_servitor_ceta:0 "先进仆人中心"
+ building_servitor_ceta_desc:0 "致力于保护有机生命已经向我们展示了如何创建一个大型设施，生产更多的有机食品，并将我们的交流联系起来，促进我们的团结。"
+ building_servitor_nexus:0 "行星仆人枢纽"
+ building_servitor_nexus_desc:0 "重点:保护有机生命。这种联系提高了实现主要目标的速度。"
+ building_servitor_empire_nexus:0 "主要仆人枢纽"
+ building_servitor_empire_nexus_desc:0 "重点:保护有机生命。这种联系提高了实现主要目标的速度。" 
+ 
+ 
+ 
+ building_machine_energy_core_1:0 "毁坏的反应堆堆芯"
+ building_machine_energy_core_1_desc:0 "这个几乎被摧毁的设施是进入位于行星核心深处的强大能量反应堆的为数不多的方法之一。"
+ building_machine_energy_core_2:0 "重建反应堆堆芯"
+ building_machine_energy_core_2_desc:0 "这个设施的重建使我们能够更多地接近位于行星核心深处的强大的能量反应堆。"
+ building_machine_energy_core_3:0 "翻新反应堆堆芯"
+ building_machine_energy_core_3_desc:0 "完全翻新的接入点允许我们挖掘位于行星核心深处的强大的能量反应堆的全部潜力。"
+ 
+ building_machine_energy_rich_1:0 "毁坏的能量调制器"
+ building_machine_energy_rich_1_desc:0 "这个几乎被摧毁的设施曾经引导了全球的大量能源。一些系统仍然在工作，我们可以用它来增加我们的能量输出。"
+ building_machine_energy_rich_2:0 "重建能量调制器"
+ building_machine_energy_rich_2_desc:0 "设施的重建使我们能够重新启动更多的系统，进一步增加我们的能源输出。"
+ building_machine_energy_rich_3:0 "翻新能量调制器"
+ building_machine_energy_rich_3_desc:0 "对设施的彻底改造使我们能够重新激活剩余的系统，使我们能从该设施获得最大的能源输出增加。"
+ 
+ building_machine_mineral_core_1:0 "毁坏的矿物挖掘核心"
+ building_machine_mineral_core_1_desc:0 "这个几乎被摧毁的设施是进入位于行星核心深处的强大矿物转化器的为数不多的方法之一。"
+ building_machine_mineral_core_2:0 "重建矿物挖掘核心"
+ building_machine_mineral_core_2_desc:0 "这个设施的重建使我们能够更多地接近位于行星核心深处的强大的矿物转化器。"
+ building_machine_mineral_core_3:0 "翻新矿物挖掘核心"
+ building_machine_mineral_core_3_desc:0 "完全更新的接入点允许我们挖掘位于行星核心深处的强大矿物转化器的全部潜力。"
+ 
+ building_machine_mineral_rich_1:0 "毁坏的矿物播种机"
+ building_machine_mineral_rich_1_desc:0 "这个几乎被摧毁的设施曾经控制着纳米矿物种子，增加了矿物的产量。少量的无人机仍然连接到该系统，使我们能够增加我们的矿产产量。"
+ building_machine_mineral_rich_2:0 "重建矿物播种机"
+ building_machine_mineral_rich_2_desc:0 "设施的重建使我们能够重新激活一些额外的矿物种子，以进一步增加我们矿物的产量。"
+ building_machine_mineral_rich_3:0 "翻新矿物播种机"
+ building_machine_mineral_rich_3_desc:0 "该设施的完全改造连接到其曾经控制的其他矿物种子，使我们最大限度地增加了该设施的矿物产量。"
+ 
+ building_machine_science_core_1:0 "毁坏的核心处理器"
+ building_machine_science_core_1_desc:0 "这个几乎被摧毁的设施是进入位于行星核心深处的强大信息处理器的为数不多的方法之一。"
+ building_machine_science_core_2:0 "重建核心处理器"
+ building_machine_science_core_2_desc:0 "这个设施的重建使我们能够更多地访问位于行星核心深处的强大信息处理器。"
+ building_machine_science_core_3:0 "翻新核心处理器"
+ building_machine_science_core_3_desc:0 "完全更新的接入点允许我们挖掘位于行星核心深处的强大信息处理器的全部潜力。"
+ 
+ building_machine_science_physics_rich_1:0 "毁坏的物理学数据网络"
+ building_machine_science_physics_rich_1_desc:0 "这个几乎被摧毁的设施包含一个巨大的互联网络，用来存储和处理有关物理的信息。一些系统仍然处于激活状态，可以连接到我们的实验室以增加输出。"
+ building_machine_science_physics_rich_2:0 "重建物理学数据网络"
+ building_machine_science_physics_rich_2_desc:0 "这一设施的重建增加了整个设施的信息流，进一步增加了我们实验室的产量。"
+ building_machine_science_physics_rich_3:0 "翻新物理学数据网络"
+ building_machine_science_physics_rich_3_desc:0 "这个设备的彻底改造使整个设备的信息流最大化，增加了设备的物理学输出。"
+ 
+ building_machine_science_society_rich_1:0 "毁坏的社会学数据网络"
+ building_machine_science_society_rich_1_desc:0 "这个几乎被摧毁的设施包含一个巨大的互联网络，用来存储和处理有关社会的信息。一些系统仍然处于激活状态，可以连接到我们的实验室以增加输出。"
+ building_machine_science_society_rich_2:0 "重建社会学数据网络"
+ building_machine_science_society_rich_2_desc:0 "这一设施的重建增加了整个设施的信息流，进一步增加了我们实验室的产量。"
+ building_machine_science_society_rich_3:0 "翻新社会学数据网络"
+ building_machine_science_society_rich_3_desc:0 "该设施的彻底改造使整个信息的流动达到最大化，增加了该设施给我们最大的社会学产出。"
+ 
+ building_machine_science_engineering_rich_1:0 "毁坏的工程学数据网络"
+ building_machine_science_engineering_rich_1_desc:0 "这个几乎被摧毁的设施包含一个巨大的互联网络，用来存储和处理有关工程的信息。一些系统仍然处于激活状态，可以连接到我们的实验室以增加输出。"
+ building_machine_science_engineering_rich_2:0 "重建工程学数据网络"
+ building_machine_science_engineering_rich_2_desc:0 "这一设施的重建增加了整个设施的信息流，进一步增加了我们实验室的产量。"
+ building_machine_science_engineering_rich_3:0 "翻新工程学数据网络"
+ building_machine_science_engineering_rich_3_desc:0 "该设施的彻底改造使整个信息流动最大化，增加了我们从该设施获得的最大工程产出。"
+ 
+ building_machine_temporal_1:0 "毁坏的时间加速器"
+ building_machine_temporal_1_desc:0 "这个特殊的被破坏的设施在星球表面维持着一个奇怪的场，增加了时间的流逝。虽然这使得工作可以以更快的速度完成，但也意味着维护和轰炸的速度也提高了。"
+ building_machine_temporal_2:0 "重建时间加速器"
+ building_machine_temporal_2_desc:0 "对这一设施的重建和了解使我们能够以小的方式对该领域进行修改，略微增加其效益，同时略微减少其负面影响。"
+ building_machine_temporal_3:0 "翻新时间加速器"
+ building_machine_temporal_3_desc:0 "彻底的改造和对该设施的更深入的了解使我们能够进一步修改该领域的许多更大的方式，进一步增加其效益，同时进一步减少其负面影响。"
+ 
+ building_machine_sensor_1:0 "毁坏的传感器阵列"
+ building_machine_sensor_1_desc:0 "这高耸的但毁坏的设备一旦授予周围这个世界更大的系统。虽然它的大部分已经成为废墟，但仍有一些系统在运行，这使我们能够从传感器范围的微小增加中获益。"
+ building_machine_sensor_2:0 "重建传感器阵列"
+ building_machine_sensor_2_desc:0 "重建这个高耸的设施增加了活跃系统的数量，并允许我们进一步增加它的传感器范围。"
+ building_machine_sensor_3:0 "翻新传感器阵列"
+ building_machine_sensor_3_desc:0 "对这座高耸的设施进行彻底的改造，使每一个系统都恢复到原来的状态，从而使星球的传感器范围达到最大。"
+ 
+ building_machine_army_complex_1:0 "毁坏的军队复合体"
+ building_machine_army_complex_1_desc:0 "这个庞大的毁坏的复杂曾经负责增加行星作战行动。一些系统和设施可以快速地为军队提供训练和生产补给，我们仍然可以通过一些小的工作来更快更便宜地从这个世界上训练军队。"
+ building_machine_army_complex_2:0 "重建军队复合体"
+ building_machine_army_complex_2_desc:0 "对这个庞大的建筑群的重建使他们能够更多地使用他们的系统和设施，进一步提高了我们自己的军队训练时间和成本。"
+ building_machine_army_complex_3:0 "翻新军队复合体"
+ building_machine_army_complex_3_desc:0 "对这个庞大的综合体的彻底改造使他们能够使用所有古老的系统和设施，最大限度地提高我们自己的军队训练时间和成本收益。"
+
+ building_machine_army_complex_shield_1:0 "毁坏的个人护盾工厂"
+ building_machine_army_complex_shield_1_desc:0 "这些毁坏的工厂专门生产个人护盾生成器以更好地保护居民的军队。尽管这些设备古老，一些零件仍然能够生产先进的个人护盾。这些也将加强我们的防御。"
+ building_machine_army_complex_shield_2:0 "重建个人护盾工厂"
+ building_machine_army_complex_shield_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的个人生成器。这将进一步加强我们的防御。"
+ building_machine_army_complex_shield_3:0 "翻新个人护盾工厂"
+ building_machine_army_complex_shield_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进的个人生成器。这将使我们能够把防御力量提高到这些工厂的最大能力。"
+ 
+ building_machine_army_complex_armor_1:0 "毁坏的个人装甲工厂"
+ building_machine_army_complex_armor_1_desc:0 "这些毁坏的工厂专门生产装甲部队的防御。尽管这些设备古老，一些零件仍然能够制造出先进的部队装甲。这些都将提高我们的士气和防御。"
+ building_machine_army_complex_armor_2:0 "重建个人装甲工厂"
+ building_machine_army_complex_armor_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的个人装甲。这将进一步加强我们的防御。"
+ building_machine_army_complex_armor_3:0 "翻新个人装甲工厂"
+ building_machine_army_complex_armor_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进的个人装甲。这将使我们能够把防御力量提高到这些工厂的最大能力。"
+ 
+ building_machine_army_complex_damage_1:0 "毁坏的常规武器工厂"
+ building_machine_army_complex_damage_1_desc:0 "这些毁坏的工厂专门生产武器的军队。尽管年代久远，一些零件仍然能够制造出先进的武器。这也将增强我军的进攻能力。"
+ building_machine_army_complex_damage_2:0 "重建常规武器工厂"
+ building_machine_army_complex_damage_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的武器系统。这将进一步增强我军的进攻能力。"
+ building_machine_army_complex_damage_3:0 "翻新常规武器工厂"
+ building_machine_army_complex_damage_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，使其能够生产大量先进武器系统。这将使我们的部队的进攻能力提高到这些工厂的最大能力。"
+ 
+ building_machine_army_complex_morale_damage_1:0 "毁坏的外星武器工厂"
+ building_machine_army_complex_morale_damage_1_desc:0 "这些毁坏的工厂专门生产使得武器的军队。尽管年代久远，它的一些部分仍然能够制造出先进的武器。这些武器对目标的影响增加了对敌人士气的伤害。"
+ building_machine_army_complex_morale_damage_2:0 "重建外星武器工厂"
+ building_machine_army_complex_morale_damage_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多奇怪的武器系统。这将进一步增强我军的士气和进攻能力。"
+ building_machine_army_complex_morale_damage_3:0 "翻新外星武器工厂"
+ building_machine_army_complex_morale_damage_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进的外来武器系统。这将使我们能够提高我们的军队士气进攻能力到这些工厂的最大能力。"
+ 
+ building_machine_army_complex_defensive_network_1:0 "毁坏的防御网络"
+ building_machine_army_complex_defensive_network_1_desc:0 "这个大型防御强化网络控制一个巨大的防御分散在星球上。这个设施的运作提高了我们抵御侵略者的能力。"
+ building_machine_army_complex_defensive_network_2:0 "重建防御网络"
+ building_machine_army_complex_defensive_network_2_desc:0 "这一大型防御工事的重建使我们能够在全球范围内使用更多的武器系统，进一步提高我们保卫星球的能力。"
+ building_machine_army_complex_defensive_network_3:0 "翻新防御网络"
+ building_machine_army_complex_defensive_network_3_desc:0 "这个大型防御防御工事的彻底翻新使我们能够在整个星球上使用整个武器网络，大大提高了我们抵御侵略者的能力。"
+ 
+ building_machine_army_complex_offensive_network_1:0 "毁坏的攻击网络"
+ building_machine_army_complex_offensive_network_1_desc:0 "这些攻击网络控制一个巨大的防御工事攻击网络分散在星球上。这个设施的运作提高了我们抵御侵略者的能力。"
+ building_machine_army_complex_offensive_network_2:0 "重建攻击网络"
+ building_machine_army_complex_offensive_network_2_desc:0 "重建这一大型进攻性防御工事使我们能够在全球范围内使用更多的武器系统，从而进一步提高我们保卫星球的能力。"
+ building_machine_army_complex_offensive_network_3:0 "翻新攻击网络"
+ building_machine_army_complex_offensive_network_3_desc:0 "对这个大型进攻性防御工事的彻底改造使我们能够在整个星球上使用整个武器网络，大大提高了我们抵御侵略者的能力。"
+  
+ building_machine_navy_complex_1:0 "毁坏的海军复合体"
+ building_machine_navy_complex_1_desc:0 "这个庞大的毁坏复合体曾经负责增加海军作战行动。一些系统和设施可以快速为舰船建造和生产补给，我们仍然可以通过一些小的工作来获得，这使得我们可以在这个世界上更快更便宜地建造我们的海军。"
+ building_machine_navy_complex_2:0 "重建海军复合体"
+ building_machine_navy_complex_2_desc:0 "对这个庞大的综合体的重建使其系统和设施得到更多的使用，进一步提高了我们自己的造船时间和成本。"
+ building_machine_navy_complex_3:0 "翻新海军复合体"
+ building_machine_navy_complex_3_desc:0 "对这个庞大的综合体的彻底改造，使其所有古老的系统和设施都能最大限度地提高我们的舰船建造时间和成本收益。"
+ 
+ building_machine_navy_complex_shield_1:0 "毁坏的海军护盾工厂"
+ building_machine_navy_complex_shield_1_desc:0 "这些毁坏的工厂专门生产先进的防御系统。尽管他们相当古老，一些零件仍然能够生产先进的护盾系统。这些加强了在这个世界上建造的舰船的护盾。"
+ building_machine_navy_complex_shield_2:0 "重建海军护盾工厂"
+ building_machine_navy_complex_shield_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的护盾生成器。这将进一步加强我们的舰船护盾。"
+ building_machine_navy_complex_shield_3:0 "翻新海军护盾工厂"
+ building_machine_navy_complex_shield_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进的护盾发生器。这将使我们的舰船护盾增加到最大能力。"
+ 
+ building_machine_navy_complex_armor_1:0 "毁坏的海军装甲工厂"
+ building_machine_navy_complex_armor_1_desc:0 "这些毁坏的工厂专门生产高级舰船装甲。尽管年代久远，一些部件仍然能够制造出铠甲。这些增强了在这个世界上建造的舰船的健康和装甲。"
+ building_machine_navy_complex_armor_2:0 "重建海军装甲工厂"
+ building_machine_navy_complex_armor_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的装甲设备。这将进一步增强我们的舰船的装甲。"
+ building_machine_navy_complex_armor_3:0 "翻新海军装甲工厂"
+ building_machine_navy_complex_armor_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量的先进装甲。这将允许我们增加我们舰船的装甲防御能力到最大能力。"
+ 
+ building_machine_navy_complex_explosive_1:0 "毁坏的爆炸武器工厂"
+ building_machine_navy_complex_explosive_1_desc:0 "这些毁坏的工厂专门生产先进的爆炸性武器。尽管年代久远，一些零件仍然能够制造武器。这些将增强我们的舰船的爆炸能力。"
+ building_machine_navy_complex_explosive_2:0 "重建爆炸武器工厂"
+ building_machine_navy_complex_explosive_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的爆炸武器系统。这进一步增强了我们的舰船的爆炸攻击能力。"
+ building_machine_navy_complex_explosive_3:0 "翻新爆炸武器工厂"
+ building_machine_navy_complex_explosive_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进炸药。这使我们可以增加我们的舰船的爆炸攻击能力，以达到这些工厂的最大能力。"
+ 
+ building_machine_navy_complex_kinetic_1:0 "毁坏的动能武器工厂"
+ building_machine_navy_complex_kinetic_1_desc:0 "这些毁坏的工厂专门生产先进动能武器。尽管年代久远，一些零件仍然能够制造武器。这将增强我们的舰船的动能武器威力。"
+ building_machine_navy_complex_kinetic_2:0 "重建动能武器工厂"
+ building_machine_navy_complex_kinetic_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的动能武器系统。这进一步增强了我们的舰船的动能攻击能力。"
+ building_machine_navy_complex_kinetic_3:0 "翻新动能武器工厂"
+ building_machine_navy_complex_kinetic_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进的动能武器。这使我们能够增加我们的舰船的动能进攻能力，以达到这些工厂的最大能力。"
+ 
+ building_machine_navy_complex_energy_1:0 "毁坏的能量武器工厂"
+ building_machine_navy_complex_energy_1_desc:0 "这些毁坏的工厂专门生产先进能量武器。尽管年代久远，一些零件仍然能够制造出先进的武器。这些将提高我们舰船的能源能力。"
+ building_machine_navy_complex_energy_2:0 "重建能量武器工厂"
+ building_machine_navy_complex_energy_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的能量武器系统。这进一步增强了我们的战舰的能量攻击能力。"
+ building_machine_navy_complex_energy_3:0 "翻新能量武器工厂"
+ building_machine_navy_complex_energy_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，使其能够生产大量先进的能量武器。这使我们能够增加我们的舰船的能量进攻能力，以达到这些工厂的最大能力。"
+ 
+ building_machine_navy_complex_strike_1:0 "毁坏的舰载机工厂"
+ building_machine_navy_complex_strike_1_desc:0 "这些大毁坏的工厂专门生产先进的舰载机武器。尽管年代久远，一些零件仍然能够制造出先进的武器。这些将增强我们的舰船打击舰船的能力。"
+ building_machine_navy_complex_strike_2:0 "重建舰载机工厂"
+ building_machine_navy_complex_strike_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的攻击机武器系统。这进一步增强了我们的舰船的攻击能力。"
+ building_machine_navy_complex_strike_3:0 "翻新舰载机工厂"
+ building_machine_navy_complex_strike_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，使其能够生产大量先进的攻击机武器。这使我们能够提高我们的舰船的攻击能力，使其达到这些工厂的最大能力。"
+ 
+ building_machine_military_complex_planet_shield_1:0 "毁坏的行星护盾发生器"
+ building_machine_military_complex_planet_shield_1_desc:0 "这毁坏但是高耸的设施能够授予这个世界一个强大的保护屏障。虽然它的大部分已经成为废墟，但仍有一些系统仍然活跃，使我们能够从薄弱的轨道护盾中获益。"
+ building_machine_military_complex_planet_shield_2:0 "重建行星护盾发生器"
+ building_machine_military_complex_planet_shield_2_desc:0 "重建这个高耸的设施增加了活跃系统的数量，并允许我们进一步提高行星屏蔽的产量，增加我们的行星防御。"
+ building_machine_military_complex_planet_shield_3:0 "翻新行星护盾发生器"
+ building_machine_military_complex_planet_shield_3_desc:0 "对这座高耸的建筑进行彻底的改造，使每一个系统都恢复到原来的状态，这样就可以在星球上投射出一个更强大的防御系统，以防止敌人轰炸造成的破坏。"
+ 
+ building_machine_energy_to_mineral_converter_1:0 "毁坏的矿物复制因子"
+ building_machine_energy_to_mineral_converter_1_desc:0 "这个高度发达但被毁坏的设备将能量转化为矿物质。能源成本是矿产产量的两倍。"
+ building_machine_energy_to_mineral_converter_2:0 "重建矿物复制因子"
+ building_machine_energy_to_mineral_converter_2_desc:0 "这个高度先进的设施的重建使它能够把更多的能量转化成更多的矿物。能源成本是矿产产量的两倍。"
+ building_machine_energy_to_mineral_converter_3:0 "翻新矿物复制因子"
+ building_machine_energy_to_mineral_converter_3_desc:0 "对这个高度先进的设施的彻底改造使它能够将大量的能量转化成相当数量的矿物质。能源成本是矿产产量的两倍。"
+  
+ building_machine_exterminator_complex_1:0 "毁坏的净化者复合体"
+ building_machine_exterminator_complex_1_desc:0 "这个庞大毁坏的复杂曾经负责增加有机灭绝操作。一些系统和设施可以快速为舰船建造和生产补给，我们仍然可以通过一些小的工作，让我们可以更快更便宜地从这个世界上建造我们的陆军和海军。"
+ building_machine_exterminator_complex_2:0 "重建净化者复合体"
+ building_machine_exterminator_complex_2_desc:0 "对这一庞大建筑群的重建使其系统和设施得到更多的使用，进一步增强了我国的军事能力。"
+ building_machine_exterminator_complex_3:0 "翻新净化者复合体"
+ building_machine_exterminator_complex_3_desc:0 "对这个庞大的综合体的彻底改造，使其所有古老的系统和设施都能最大限度地提高我们的军事收益。"
+ 
+ building_machine_exterminator_complex_shield_1:0 "毁坏的净化者护盾工厂"
+ building_machine_exterminator_complex_shield_1_desc:0 "这些毁坏的工厂专门生产先进护盾系统。尽管年代久远，一些零件仍然能够生产先进的护盾系统。这些加强了在这个世界上建造的军队和舰船。"
+ building_machine_exterminator_complex_shield_2:0 "重建净化者护盾工厂"
+ building_machine_exterminator_complex_shield_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的护盾发生器。这将进一步加强我军和舰船的防御。"
+ building_machine_exterminator_complex_shield_3:0 "翻新净化者护盾工厂"
+ building_machine_exterminator_complex_shield_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量先进的护盾发生器。这将允许我们增加我们的军队和舰船盾牌到这些工厂的最大能力。"
+ 
+ building_machine_exterminator_complex_armor_1:0 "毁坏的净化者装甲工厂"
+ building_machine_exterminator_complex_armor_1_desc:0 "这些毁坏的工厂专门生产高级装甲。尽管年代久远，一些部件仍然能够制造出装甲。这些增强了在这个世界上训练和建造的军队的装甲。"
+ building_machine_exterminator_complex_armor_2:0 "重建净化者装甲工厂"
+ building_machine_exterminator_complex_armor_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更多的装甲设备。这将进一步增强我们的军队和舰船装甲。"
+ building_machine_exterminator_complex_armor_3:0 "翻新净化者装甲工厂"
+ building_machine_exterminator_complex_armor_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，允许生产大量的先进装甲。这将允许我们增加我们的军队和舰船的装甲防御能力到这些工厂的最大能力。"
+ 
+ building_machine_exterminator_complex_damage_1:0 "毁坏的净化者武器工厂"
+ building_machine_exterminator_complex_damage_1_desc:0 "这些毁坏的工厂专门生产强大的供士兵和舰船使用的武器系统。尽管年代久远，一些零件仍然能够制造武器。这些武器将增强训练和建造的军队和舰船的破坏能力。"
+ building_machine_exterminator_complex_damage_2:0 "重建净化者武器工厂"
+ building_machine_exterminator_complex_damage_2_desc:0 "这些工厂的重建开放了更多的系统和生产线，允许生产更先进的武器系统。这提高了在这个世界上训练和建造的军队和舰船的破坏能力。"
+ building_machine_exterminator_complex_damage_3:0 "翻新净化者武器工厂"
+ building_machine_exterminator_complex_damage_3_desc:0 "这些工厂的彻底改造开放了剩余的系统和生产线，使其能够生产大量毁灭性武器系统。这使我们能够提高我们在这个世界上训练和建造的军队和舰船的破坏能力，以达到这些工厂的最大能力。"
+ 
+ building_machine_servitor_complex_1:0 "毁坏的机仆生态建筑学"
+ building_machine_servitor_complex_1_desc:0 "这个巨大的结构被奉献给了生产，以更好的维护有机生活。一些系统和设施仍然可以通过提供少量能源、矿物、食物和少量的社会研究。"
+ building_machine_servitor_complex_2:0 "重建机仆生态建筑学"
+ building_machine_servitor_complex_2_desc:0 "对这一巨大结构的重建使人们能够更多地使用其系统和设施，从而增加其资源的生产。"
+ building_machine_servitor_complex_3:0 "翻新机仆生态建筑学"
+ building_machine_servitor_complex_3_desc:0 "对这个巨大结构的彻底改造，使其能够使用其所有古老的系统和设施，使其产量最大化。"
+ 
+ building_machine_assimilator_complex_1:0 "毁坏的同化者数据网络"
+ building_machine_assimilator_complex_1_desc:0 "这个庞大的毁坏数据网络曾用于处理庞大数量的科学信息。一些系统和网络仍然可以通过一些小的工作获得，为世界上的任何研究提供一个小的推进。"
+ building_machine_assimilator_complex_2:0 "重建同化者数据网络"
+ building_machine_assimilator_complex_2_desc:0 "这一大型网络的重建使人们能够更多地访问其系统，进一步增强了我们的研究能力。"
+ building_machine_assimilator_complex_3:0 "翻新同化者数据网络"
+ building_machine_assimilator_complex_3_desc:0 "对这个大型网络的彻底改造使我们可以访问它所有的古老系统，最大限度地促进我们自己的研究成果从这个网络。"
+  
+ 
+ 
+ 
+ building_machine_servitor_capital_1:0 "行政数组"
+ building_machine_servitor_capital_1_desc:0 "一种半自主的计算机网络，用于处理星球上的各种管理功能。"
+ building_machine_servitor_capital_2:0 "行星处理器"
+ building_machine_servitor_capital_2_desc:0 "一种功能强大的管理计算机，设计用于管理和监督复杂的行星解决方案的各种功能。"
+ building_machine_servitor_capital_3:0 "主要枢纽"
+ building_machine_servitor_capital_3_desc:0 "帝国的行政中心。出来数以百计的AI处理请求，并管理运行一个高效星际文明所需的微小但关键的细节。"
+ 
+ building_machine_servitor_capital_1_triggered_effect:0 "人口加成:\n   $unity$: §G+150%§!"
+ building_machine_servitor_capital_2_triggered_effect:0 "人口加成:\n   $unity$: §G+0%§!"
+ building_machine_servitor_capital_3_triggered_effect:0 "人口加成:\n   $unity$: §G+400%§!"
+ 
+ building_servitor_alpha_triggered_effect:0 "人口加成:\n   $unity$: §G+20%§!"
+ building_servitor_beta_triggered_effect:0 "人口加成:\n   $unity$: §G+25%§!"
+ building_servitor_ceta_triggered_effect:0 "人口加成:\n   $unity$: §G+35%§!"
+ building_servitor_nexus_triggered_effect:0 "人口加成:\n   $unity$: §G+200%§!"
+ building_servitor_empire_nexus_triggered_effect:0 "人口加成:\n   $unity$: §G+275%§!"
+ 
+ requires_energy_nexus_absence:0 ""
+ requires_mining_nexus_absence:0 ""
+ requires_science_nexus_absence:0 ""
+ requires_physics_nexus_absence:0 ""
+ requires_society_nexus_absence:0 ""
+ requires_engineering_nexus_absence:0 ""
+ requires_military_nexus_absence:0 ""
+ requires_unity_nexus_absence:0 ""
+ requires_assimilator_nexus_absence:0 ""
+ requires_exterminator_nexus_absence:0 ""
+ requires_servitor_nexus_absence:0 ""
+ 
+ tile_building_resource_unity_add:0 "凝聚力输出" 
+ 
+ machine_world_01_NAME:0 "机械世界"
+ machine_world_01_DESC:0 "机械世界与一个主动的机械网络。\n\n$system_initializer_DESC$"
+ 
+ machine_ringworld_01_NAME:0 "机械环世界"
+ machine_ringworld_01_DESC:0 "机器环世界与一个活动的机器网络。\n\n$system_initializer_DESC$"
+ 
+ sr_ship_training_site:0 "海军测试站点"
+ sr_ship_training_site_desc:0 "这个世界的残骸被用作海军技术和船员的试验场。这允许对所有舰船属性的一般改进。"
+ sr_army_training_site:0 "军队测试站点"
+ sr_army_training_site_desc:0 "这个世界的废墟被用作军事技术和士兵的试验场。这允许对所有军队统计数据进行全面改进。"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ building_penrose_energy_alpha:0 "能源网络"
+ building_penrose_energy_alpha_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
+ building_penrose_energy_beta:0 "改进型能源网络"
+ building_penrose_energy_beta_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
+ building_penrose_energy_ceta:0 "先进能源网络"
+ building_penrose_energy_ceta_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
+ building_penrose_energy_nexus:0 "行星能源枢纽"
+ building_penrose_energy_nexus_desc:0 "一个强大的能量连接，是整个行星电网的中心点，允许它们以更高的速度发电。"
+ building_penrose_energy_empire_nexus:0 "主要能源枢纽"
+ building_penrose_energy_empire_nexus_desc:0 "一个强大的能源连接，它是我们整个文明电网的中心点，允许我们所有世界的能源产量大幅增加。"
+ 
+ building_penrose_mineral_alpha:0 "矿物网络"
+ building_penrose_mineral_alpha_desc:0 "一个巨大的采矿网络与我们的矿工一起工作，以生产更多的可用材料。"
+ building_penrose_mineral_beta:0 "改进矿物网络"
+ building_penrose_mineral_beta_desc:0 "一个巨大的采矿网络与我们的矿工一起工作，以生产更多的可用材料。"
+ building_penrose_mineral_ceta:0 "先进矿物网络"
+ building_penrose_mineral_ceta_desc:0 "一个巨大的采矿网络与我们的矿工一起工作，以生产更多的可用材料。"
+ building_penrose_mineral_nexus:0 "行星矿物枢纽"
+ building_penrose_mineral_nexus_desc:0 "这是一个巨大的矿物连接，是星球上每个矿山的中心，使他们能够生产更多的可用材料。"
+ building_penrose_mineral_empire_nexus:0 "主要矿物枢纽"
+ building_penrose_mineral_empire_nexus_desc:0 "巨大的矿物联系是我们文明中每个矿山的中心，允许他们生产更多的可用材料。"
+ 
+ building_penrose_science_alpha:0 "科研网络"
+ building_penrose_science_alpha_desc:0 "为加工研究提供一个连接的高科技实验室将提高我们对所有学科的理解。"
+ 
+ building_penrose_science_physics_beta:0 "物理学网络"
+ building_penrose_science_physics_beta_desc:0 "为加工研究奉献一个连接的高科技物理实验室将大大提高我们对这个主题的理解。"
+ building_penrose_science_physics_ceta:0 "先进物理学网络"
+ building_penrose_science_physics_ceta_desc:0 "为加工研究奉献一个连接的高科技物理实验室将大大提高我们对这个主题的理解。"
+ building_penrose_science_physics_nexus:0 "行星物理学枢纽"
+ building_penrose_science_physics_nexus_desc:0 "我们的文明中所有的物理研究都将与物理研究和处理能力相结合，极大地加强了我们对这一课题的研究。"
+ building_penrose_science_physics_empire_nexus:0 "主要物理学枢纽"
+ building_penrose_science_physics_empire_nexus_desc:0 "我们的文明中所有的物理研究都将与物理研究和处理能力相结合，极大地加强了我们对这一课题的研究。"
+ 
+ building_penrose_science_society_beta:0 "社会学网络"
+ building_penrose_science_society_beta_desc:0 "为处理研究奉献一个网络高科技社会实验室将大大提高我们对这个主题的理解。"
+ building_penrose_science_society_ceta:0 "先进社会学网络"
+ building_penrose_science_society_ceta_desc:0 "为处理研究奉献一个网络高科技社会实验室将大大提高我们对这个主题的理解。"
+ building_penrose_science_society_nexus:0 "行星社会学枢纽"
+ building_penrose_science_society_nexus_desc:0 "一个社会研究和处理能力的连结，所有社会研究在我们的文明流入，以大大加强我们对这个主题的研究。"
+ building_penrose_science_society_empire_nexus:0 "主要社会学枢纽"
+ building_penrose_science_society_empire_nexus_desc:0 "一个社会研究和处理能力的连结，所有社会研究在我们的文明流入，以大大加强我们对这个主题的研究。"
+ 
+ building_penrose_science_engineering_beta:0 "工程学网络"
+ building_penrose_science_engineering_beta_desc:0 "将一个网络化的高科技工程实验室用于加工研究将大大提高我们对这一学科的理解。"
+ building_penrose_science_engineering_ceta:0 "先进工程学网络"
+ building_penrose_science_engineering_ceta_desc:0 "将一个网络化的高科技工程实验室用于加工研究将大大提高我们对这一学科的理解。"
+ building_penrose_science_engineering_nexus:0 "行星工程学枢纽"
+ building_penrose_science_engineering_nexus_desc:0 "一个工程研究和处理能力的连接，所有的工程研究在地球上流入，以大大加强我们对这个主题的研究。"
+ building_penrose_science_engineering_empire_nexus:0 "主要工程学枢纽"
+ building_penrose_science_engineering_empire_nexus_desc:0 "一个工程研究和处理能力的连接，所有的工程研究在地球上流入，以大大加强我们对这个主题的研究。"
+ 
+ building_penrose_science_empire_nexus:0 "量子网络链接"
+ building_penrose_science_empire_nexus_desc:0 "为加工研究提供一个连接的高科技工程实验室将大大提高我们对这个主题的理解。"
+  
+ building_penrose_military_alpha:0 "军事网络"
+ building_penrose_military_alpha_desc:0 "一个由训练设施和工厂组成的庞大网络共同工作，以提高舰船和士兵的建造速度。"
+ building_penrose_military_beta:0 "改进型军事网络"
+ building_penrose_military_beta_desc:0 "一个由训练设施和工厂组成的庞大网络共同工作，以提高舰船和士兵的建造速度。"
+ building_penrose_military_ceta:0 "先进军事网络"
+ building_penrose_military_ceta_desc:0 "一个由训练设施和工厂组成的庞大网络共同工作，以提高舰船和士兵的建造速度。"
+ building_penrose_military_nexus:0 "行星军事枢纽"
+ building_penrose_military_nexus_desc:0 "一个巨大的军事连接，布满了训练设施和工厂，共同努力大大提高了舰船和士兵的建造速度。"
+ building_penrose_military_empire_nexus:0 "主要军事枢纽"
+ building_penrose_military_empire_nexus_desc:0 "一个庞大的军事网络充斥着训练设施和工厂，生产的材料远远超过一个世界的使用能力。这大大提高了我们整个文明社会建造舰船和士兵训练和装备的速度。" 
+ 
+ building_penrose_unity_alpha:0 "凝聚力网络"
+ building_penrose_unity_alpha_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
+ building_penrose_unity_beta:0 "改进型凝聚力网络"
+ building_penrose_unity_beta_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
+ building_penrose_unity_ceta:0 "先进凝聚力网络"
+ building_penrose_unity_ceta_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
+ building_penrose_unity_nexus:0 "行星凝聚力枢纽"
+ building_penrose_unity_nexus_desc:0 "一个巨大的统一连接，处理来自地球上所有的文化，极大地增加了世代的统一。"
+ building_penrose_unity_empire_nexus:0 "主要凝聚力枢纽"
+ building_penrose_unity_empire_nexus_desc:0 "一个巨大的统一关系，处理我们整个文明的所有文化，极大地增加了我们文明的世代统一。" 
+  
+ building_penrose_assimilator_alpha:0 "同化者数据网络"
+ building_penrose_assimilator_alpha_desc:0 "致力于将所有的知识融入集体，使我们有能力建立这个先进的研究机构，致力于推动我们对所有学科的知识。"
+ building_penrose_assimilator_beta:0 "改进型同化者数据网络"
+ building_penrose_assimilator_beta_desc:0 "致力于将所有的知识融入集体，使我们有能力建立这个先进的研究机构，致力于推动我们对所有学科的知识。"
+ building_penrose_assimilator_ceta:0 "先进同化者数据网络"
+ building_penrose_assimilator_ceta_desc:0 "致力于将所有的知识融入集体，使我们有能力建立这个先进的研究机构，致力于推动我们对所有学科的知识。"
+ building_penrose_assimilator_nexus:0 "行星同化者枢纽"
+ building_penrose_assimilator_nexus_desc:0 "优先事项:将所有知识融入集体。连结增加达成主要目标的速率。"
+ building_penrose_assimilator_empire_nexus:0 "主要同化者枢纽"
+ building_penrose_assimilator_empire_nexus_desc:0 "优先事项:将所有知识融入集体。连结增加达成主要目标的速率。"
+ 
+ building_penrose_exterminator_alpha:0 "净化者网络"
+ building_penrose_exterminator_alpha_desc:0 "致力于净化有机生命给了我们一个先进的设施设计，以保持与众多舰船的联系，使我们可以利用更多。"
+ building_penrose_exterminator_beta:0 "改进型净化者网络"
+ building_penrose_exterminator_beta_desc:0 "致力于净化有机生命给了我们一个先进的设施设计，以保持与众多舰船的联系，使我们可以利用更多。"
+ building_penrose_exterminator_ceta:0 "先进净化者网络"
+ building_penrose_exterminator_ceta_desc:0 "致力于净化有机生命给了我们一个先进的设施设计，以保持与众多舰船的联系，使我们可以利用更多。"
+ building_penrose_exterminator_nexus:0 "行星净化者枢纽"
+ building_penrose_exterminator_nexus_desc:0 "优先:破坏所有有机生命。这种联系提高了实现主要目标的速度。"
+ building_penrose_exterminator_empire_nexus:0 "主要净化者枢纽"
+ building_penrose_exterminator_empire_nexus_desc:0 "优先:破坏所有有机生命。这种联系提高了实现主要目标的速度。"
+ 
+ building_penrose_servitor_alpha:0 "仆人中心"
+ building_penrose_servitor_alpha_desc:0 "致力于保护有机生命已经向我们展示了如何创建一个大型设施，生产更多的有机食品，并将我们的交流联系起来，促进我们的团结。"
+ building_penrose_servitor_beta:0 "改进型仆人中心"
+ building_penrose_servitor_beta_desc:0 "致力于保护有机生命已经向我们展示了如何创建一个大型设施，生产更多的有机食品，并将我们的交流联系起来，促进我们的团结。"
+ building_penrose_servitor_ceta:0 "先进仆人中心"
+ building_penrose_servitor_ceta_desc:0 "致力于保护有机生命已经向我们展示了如何创建一个大型设施，生产更多的有机食品，并将我们的交流联系起来，促进我们的团结。"
+ building_penrose_servitor_nexus:0 "行星仆人枢纽"
+ building_penrose_servitor_nexus_desc:0 "重点:保护有机生命。这种联系提高了实现主要目标的速度。"
+ building_penrose_servitor_empire_nexus:0 "主要仆人枢纽"
+ building_penrose_servitor_empire_nexus_desc:0 "重点:保护有机生命。这种联系提高了实现主要目标的速度。" 
+ 
+ building_penrose_capital_2:0 "奇点管理"
+ building_penrose_capital_2_desc:0 "彭罗斯环的行政中心，作为它的首都和地方政府的所在地。"
+ building_penrose_capital_3:0 "奇点管理"
+ building_penrose_capital_3_desc:0 "彭罗斯环的行政中心，作为它的首都和地方政府的所在地。" 

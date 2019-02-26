@@ -1,0 +1,89 @@
+﻿l_simp_chinese:
+
+ ascended_empires_subject.2.name:0 "对原始的人来说太聪明了"
+ ascended_empires_subject.2.desc:0 "我们注意到，一个原始文明的科学家——[AscendedEmpireScientistTarget.GetName] ——是§H[NoobEmpire.GetName]§!中许多最近技术突破的幕后主使。以这样的速度，他们可能很快就会达到威胁我们技术优势的水平。有趣的是，[AscendedEmpireScientistTarget.GetName]对暗物质很着迷。如果我们为[AscendedEmpireScientistTarget.GetHimHer]提供一个千载难逢的机会来研究暗物质的核心，[AscendedEmpireScientistTarget.GetHeShe]肯定不会拒绝。为了消除猜疑，我们将通知§H[NoobEmpire.GetName]§!,[AscendedEmpireScientistTarget.GetName]是一个杰出的科学家，应该在我们的这里占有一席之地。这些原始人肯定会被民族自豪感所陶醉。在前往我们首都的途中，搭载[AscendedEmpireScientistTarget.GetName]的航天飞机将经历一些小插曲。任何证据都不会留下，我们将消除一个巨大的威胁。或者，我们可以“升级”他们的科学设施。将安装秘密武器以阻止技术的进一步发展，坏消息是，这可能需要10年才能完全消除。"
+ 
+ ascended_empires_subject.2.a:0 "那个科学家."
+ ascended_empires_subject.2.b:0 "在他们的科学设施上安装软件。"
+ ascended_empires_subject.2.c:0 "我们比他们更好..."
+ 
+ ascended_empires_subject.3.name:0 "来自§H[AscendedEmpireOverlord.GetName]§!"
+ 
+ ascended_empires_subject.3.desc.scientist:0 "[NoobEmpire.GetRulerTitle] [NoobEmpire.GetRulerName].我们知道，你的帝国不是一个人的家园，他的聪明才智超越了你们物种的智慧。虽然§H[AscendedEmpireScientistTarget.GetName]§!的人才在[NoobEmpire.GetName]被不幸地浪费了，但是我们[AscendedEmpireOverlord.GetSpeciesNamePlural]总有一种技术可以让他来我们的这里里工作。因此，我们决定对[AscendedEmpireScientistTarget.GetHimHer]负责。我们之前已经选中了[AscendedEmpireScientistTarget.GetHimHer]，所以你不需要做任何事情。\n\n这只是一个礼貌的通知。我希望你不要太想念你的科学家。看到光明的一面,§H[AscendedEmpireScientistTarget.GetName]§!现在在我们手中比[AscendedEmpireScientistTarget.GetHeShe]更安全。将永远属于你，这将是更好的。"
+ ascended_empires_subject.3.desc.sabotage:0 "[NoobEmpire.GetRulerTitle] [NoobEmpire.GetRulerName].我们知道你们的原始科学设施急需升级。虽然我们的服务通常成本很高，但我们[AscendedEmpireOverlord.GetSpeciesNamePlural]始终重视你们帝国对我们的服务。因此，我们已经通过安装许多人工智能程序来加强你们的科学设施。我相信你会发现这对你的研究是非常有价值的。\n\n这只是一个礼貌的通知。不要试图卸载或分析人工智能程序。无论如何，你不太可能理解它复杂的代码库。"
+ 
+ ascended_empires_subject.3.a:0 "我们有选择吗??"
+ ascended_empires_subject.3.b:0 "非常感谢!"
+ 
+ ascended_empires_subject.5.name:0 "恐怖袭击迫在眉睫"
+ ascended_empires_subject.5.desc:0 "崇拜宗教与激进的人们正计划在§H[NoobEmpire.GetName]§!首都针对平民的前所未有的恐怖袭击。我们的情报部门截获了他们之间的信息传输，并确定了袭击的最可能的时间和地点。不幸的是，由于缺乏光彩的监视技术，我们似乎没有意识到即将到来的攻击。我们可以提供一个密报给他们的安全部队将这些恐怖分子在他们的阴谋得逞之前绳之以法,或者我们袖手旁观,看着§H[NoobEmpire.GetName]§!得到他们应得的惩罚。"
+ 
+ ascended_empires_subject.5.a:0 "警告他们."
+ ascended_empires_subject.5.b:0 "他们在过去的许多罪行中都受到了惩罚。"
+ 
+ ascended_empires_subject.6.name:0 "恐怖阴谋"
+ ascended_empires_subject.6.desc.informed:0 "崇拜宗教与激进的人们正计划在§H[NoobEmpire.GetName]§!首都针对平民的前所未有的恐怖袭击。这次袭击是由一名告密者阻止的，他提供了袭击的最可能的时间和地点，这使得我们的安全部队能够在真正的伤害发生之前拦截那些潜在的犯罪者。今天许多人获救了。"
+ ascended_empires_subject.6.desc.not_informed:0 "今天是我们帝国的黑暗日子。崇拜宗教与激进的人们在§H[NoobEmpire.GetName]§!进行了前所未有的针对平民的攻击！我们的安全部门没有发现任何迫在眉睫的袭击迹象，因此，爆炸摧毁了几座建筑物，并杀死了大量毫无戒心的公民。袭击的肇事者已经逃脱。"
+ 
+ ascended_empires_subject.6.a:0 "处决这些恐怖分子."
+ ascended_empires_subject.6.b:0 "这真是一个悲剧。我们哀悼死者。"
+ 
+ ascended_empires_subject.8.name:0 "联合海军演习"
+ ascended_empires_subject.8.desc:0 "报告显示，在过去几年中，为了应对安全威胁，§H[NoobEmpire.GetName]§! 已经大大扩充了海军力量。我们的一些海军将领提出了一项联合海军演习的建议，由我们的部队和海军的§H[NoobEmpire.GetName]§!参与。一个成功的演戏将会提高他们在战斗中的效果，反过来，当我们进入一个灾难性的规模的冲突时，可能会给我们一个优势。然而，我们一些较为保守的海军将领认为，这是破坏他们军事装备的机会，因为未来的可预见的未来将使他们在与提升帝国的战舰作战时变得不那么有效。"
+ 
+ ascended_empires_subject.8.a:0 "我们将举行联合军事演习。"
+ ascended_empires_subject.8.b:0 "破坏他们的设备。"
+ ascended_empires_subject.8.c:0 "我们有更多的事情要做。"
+ 
+ ascended_empires_subject.9.name:0 "来自§H[AscendedEmpireOverlord.GetName]§!"
+ 
+ ascended_empires_subject.9.desc.fleet_exercised:0 "我们感到高兴的是，你们已经采取必要的步骤来扩大你们的海军力量。如果你们发现自己的星系处于灾难性的冲突中，我们认为最好是与你的舰队进行联合海军演习，以提高整体作战效能。希望你们不要浪费这个机会。"
+ ascended_empires_subject.9.desc.fleet_sabotaged:0 "我们感到高兴的是，你们已经采取必要的步骤来扩大你们的海军力量。如果你们发现自己的星系处于灾难性的冲突中，我们认为最好派遣一个工程师团队来加强你们舰队的战斗装备。希望你们不要浪费我们的善意。"
+ 
+ ascended_empires_subject.9.a:0 "这将增强我们的海军能力。"
+ ascended_empires_subject.9.b:0 "但是这些改进是什么?"
+ 
+ ascended_empires_subject.11.name:0 "来自§H[NoobEmpire.GetName]§!"
+ ascended_empires_subject.11.desc:0 "我们正在重新谈判我们之间的不良交易。这是非常糟糕的。你在扼杀我们的工作，我们的经济，你在利用我们。你得到了你所需要的一切，而我们却没有得到对手的帮助。这是不公平的!这必须停止，相信我，我将使我们的国家再次伟大。我代表我的人民起草了一份新协议。请你们签字。"
+ 
+ ascended_empires_subject.11.a:0 "很好。你将会有一个重新谈判的协议。"
+ ascended_empires_subject.11.b:0 "你以为你在跟谁说话?(干掉那个领袖)"
+ ascended_empires_subject.11.c:0 "不。(忽略傻瓜)"
+ 
+ ascended_empires_subject.12.name:0 "来自§H[AscendedEmpireOverlord.GetName]§!"
+ ascended_empires_subject.12.desc.renegotiated:0 "我们已经决定了我们的选择，并认为最好同意你方关于我们之间的交易重新谈判的建议。你会发现这个新交易更令人愉快。" 
+ ascended_empires_subject.12.desc.assassination:0 "我们认为你的统治者不适合统治你的国家。没有人这样对我们说话，不管是原始野蛮人的还是其他的。我相信你以后会感谢我们的。"
+ 
+ ascended_empires_subject.12.a:0 "好消息!"
+ ascended_empires_subject.12.b:0 "这是意味着."
+ 
+ ascended_empires_subject.14.name:0 "来自§H[NoobEmpire.GetName]§!"
+ ascended_empires_subject.14.desc:0 "许多[NoobEmpire.GetSpeciesName]的受害者在最后一场战争中收到来自[AscendedEmpireOverlord.GetSpeciesName]武装部队的报告。当然，你的帝国一定会像我们一样对你的士兵的行为深感失望。我们要求为受害者伸张正义。"
+ 
+ ascended_empires_subject.14.a:0 "接受这种慷慨的支付作为补偿。"
+ ascended_empires_subject.14.b:0 "那些负责的人将在我们的军事法庭受审。"
+ ascended_empires_subject.14.c:0 "胡说。没有人有犯罪行为。"
+ 
+ ascended_empires_subject.15.name:0 "来自§H[AscendedEmpireOverlord.GetName]§!"
+ ascended_empires_subject.15.desc.compensation:0 "请接受这一慷慨的馈赠，作为我们对你们人民为我们所遭受的损失的最深切的遗憾。我希望我们能从这开始，开启我们关系的新篇章。"
+ ascended_empires_subject.15.desc.tribunal:0 "这是为了告诉我们，我们已经认真对待了你们对我们武装部队的不满，如果他们在我们的军事法庭被判有罪，我们将追究他们的责任。"
+ 
+ ascended_empires_subject.15.a:0 "我们可以原谅，但我们永远不会忘记。"
+ ascended_empires_subject.15.b:0 "正义将会送达."
+ 
+ ascended_empires_subject.17.name:0 "越来越多的关注"
+ ascended_empires_subject.17.desc:0 "多年来，我们的海军将领一直关注着[NoobEmpire.GetName]海军的迅速扩张。尽管我们有一段时间经历过和他们所谓的忠诚，一个人在权力宝座上永远不会太小心或太舒服。我们听到的消息是，民粹主义在[NoobEmpire.GetName]上迅速崛起，传播关于他们的假新闻，以及他们无能的政府所造成的问题是如何导致[AscendedEmpireOverlord.GetName]的错误。目前的民意调查显示，大多数民众赞成脱离我们的控制。为了阻止一个独立国家，和他们那可笑的独立梦，我们可以援引《条约》第50条作为一种武力展示，允许[AscendedEmpireOverlord.GetName]征用他们的整个舰队，立即生效。另一种选择是使用高度先进、加密的命令，让他们的舰队自行销毁，然后由一个囚犯发送，然后我们就可以把他们当成负责破坏活动的黑客。如果没有一个常备的海军，他们对独立的无知梦想最终会被驱散。"
+ 
+ ascended_empires_subject.17.a:0 "霸占他们的舰队。"
+ ascended_empires_subject.17.b:0 "让他们的舰队自我毁灭。"
+ ascended_empires_subject.17.c:0 "算了，给他们独立吧。"
+ ascended_empires_subject.17.d:0 "什么也不做。"
+ 
+ ascended_empires_subject.18.name:0 "来自§H[AscendedEmpireOverlord.GetName]§!"
+ ascended_empires_subject.18.desc.nabbed_fleet:0 "我们一直在观察你如何滥用你的海军力量，并认为你的行为不符合我们的利益。其实是这样的，我们决定援引我们的《条约》第50条，该条约允许[AscendedEmpireOverlord.GetName]国家立即对[NoobEmpire.GetName]舰队进行控制。这个过程是不可逆转的，一旦触发，就不要反抗，否则就要面对[AscendedEmpireOverlord.GetName]的愤怒。"
+ ascended_empires_subject.18.desc.destroyed_fleet:0 "似乎你的舰队是恶意网络攻击的目标，在许多情况下，这导致了自毁协议的参与。由于黑客似乎在使用[AscendedEmpireOverlord.GetSpeciesName]技术，我们将进行全面调查，追查肇事者。同时，我们也应该借此机会提醒自己，服从的重要性以及我们的利益。"
+ 
+ ascended_empires_subject.18.a:0 "什么？不可能！"
+ ascended_empires_subject.18.b:0 "这种事情不会再发生。给我找到凶手！"
+ 
+ 

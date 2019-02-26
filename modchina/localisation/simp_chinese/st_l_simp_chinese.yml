@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+policy_c_tool_target:0 "塑造工具目标"
+policy_c_tool_target_desc:0 "与巨神兵所搭载的塑造工具相关的政策"
+st_all:0 "无限制"
+st_all_desc:0 "允许将其他帝国的行星或未被宣称的行星设为目标"
+st_ours:0 "仅限我方行星"
+st_ours_desc:0  "仅允许将我方行星设为目标"
+st_ban:0 "禁止塑造工具"
+st_ban_desc:0  "禁止塑造工具"
+is_not_yours:0 "这颗行星不属于你"

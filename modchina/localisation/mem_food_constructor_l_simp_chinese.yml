@@ -1,0 +1,177 @@
+﻿l_simp_chinese:
+ mem_food_constructor_chain_title:0 "食品构造器"
+ mem_food_constructor_chain_desc:0 "我们拥有的一种奇怪的外星装置正在以不断增加的速度搅动食品粉尘，并且看不到尽头。 我们需要在为时已晚前找到一种方法来阻止它。"
+ 
+ mem_food_constructor_modifier_1:0 "食品粉尘"
+ mem_food_constructor_modifier_1_desc:0 "这颗行星上有一台外星机器，它不断地为当地人制造营养粉尘。"
+ 
+ mem_food_constructor_modifier_2:0 "食品粉尘溢出"
+ mem_food_constructor_modifier_2_desc:0 "这个星球很危险地被掩埋在食品构造器的产品之下。一片薄薄的灰灰充斥着周围的地区，而风带来了空前的粉尘沙尘暴。"
+ 
+ mem_food_constructor_modifier_3:0 "到处都是食品粉尘"
+ mem_food_constructor_modifier_3_desc:0 "食品粉尘覆盖了整个行星的表面，食物制造器正在耗尽能量网格来每时每刻增加产量。这种祝福变成了当地居民的可怕诅咒。"
+ 
+ mem_food_constructor_modifier_4:0 "食品涨潮"
+ mem_food_constructor_modifier_4_desc:0 "食品构造器用至少一公里深的食物粉尘掩埋了整个星球。当地人再也不用挨饿了，但他们几乎无处可去。"
+ 
+ mem_food_constructor_modifier_5:0 "尘埃落定。"
+ mem_food_constructor_modifier_5_desc:0 "随着食品构造器的关闭，星球上的生命正在回归正常。粉尘层被证明是一种非常好的肥料，它正在使整个行星生态系统繁荣起来。"
+
+ mem_food_constructor.1.name:0 "一个令人困惑的发现"
+ mem_food_constructor.1.desc:0 "一队殖民地开拓者在§Y[Root.GetName]§!的定居点郊外偶然发现了一件令人费解的巨大的外星产物。在无意中激活它后，他注意到它产生了细小的灰色尘埃。后来的分析表明，这种灰尘是无害的，事实上，它是非常有营养的食物，几乎可以供任何生物食用。这对于当地居民和[Owner.GetName]整体而言是有利的。"
+ mem_food_constructor.1.desc.machine:0 "一个测量无人机在§Y[Root.GetName]§!上在荒野中遇到了一个不明原因的外星人造物。在最初的检查中，它以某种方式被激活并开始产生细灰尘。初步分析表明，这种粉尘无论如何都不是危险的，并且含有大量的化学能量。然而，处理它并不能有效插入能量网络。"
+ mem_food_constructor.1.desc.hive:0 "一个测量工蜂在§Y[Root.GetName]§!上在荒野中遇到了一个不明原因的外星人造物。在最初的检查中，它以某种方式被激活并开始产生细灰尘。后来的分析表明，这种粉尘是无害的，事实上，它是一种非常有营养的食物，几乎适用于任何有机体。这对于当地居民和[Owner.GetName]作为一个整体有着重大的好处。"
+ mem_food_constructor.1a:0 "有趣。"
+ mem_food_constructor.1b:0 "这是外星人的礼物。"
+ mem_food_constructor.1c:0 "小心，这可能是陷阱。"
+ mem_food_constructor.1d:0 "真是天赐之福。"
+ mem_food_constructor.1e:0 "我们不应该相信外星科技。"
+ mem_food_constructor.1.machine:0 "需要进一步检查。"
+ mem_food_constructor.1.tooltip:0 "在§Y[Root.GetName]§!上的食品产量增加了。"
+ 
+ mem_food_constructor.2.name:0 "生产超过消费"
+ mem_food_constructor.2.desc:0 "来自§Y[Root.GetName]§!的预警报告显示食品构造器的产量不断增加，达到了人们消费使用和运输到世界各地已经跟不上的速度。尝试关闭设备已被证明是徒劳；通过解码在构造器的铭文得到的 §Y"瑞森密匙"§! 是停用它的方法，但我们没有这种东西。破坏机器的尝试也是徒劳的——它的外壳比我们所知道的任何人造材料都要坚固。垃圾填埋场已经危急溢出，人们开始逃离设有构造器的建筑周围的区域。 "
+ mem_food_constructor.2.desc.machine:0 "对§Y[Root.GetName]§!上指定为“食品构造器”的对象的持续监控显示出不断增长的粉尘输出。其生产已达到无人机无法快速清除它的水平。试图关闭设备已被证明是徒劳的;在构造器中提到的解码后的提示§Y"瑞森密匙"§!作为停用它的一种手段。但是，我们没有这种东西。试图摧毁机器也被证明是徒劳的 - 它的外壳似乎比我们所知道的任何人造材料都强。垃圾填埋场已经危急溢出，毗邻物体房屋的设施必须放弃，因为它们在这种情况下不能运作。"
+ mem_food_constructor.2.desc.hive:0 "来自§Y[Root.GetName]§!的报警报告显示食品构造器的产量不断增加，并已达到工蜂无法再食用生产的食品或将其运输到世界各地已经跟不上的速度的水平。试图关闭设备已被证明是徒劳的;在构造函数中提到的解码后的提示§Y"瑞森密匙"§! 作为停用它的手段。但是，我们没有这种东西。试图摧毁机器也被证明是徒劳的 - 它的外壳似乎比我们所知道的任何人造材料都强。垃圾填埋场已经危急溢出，工蜂被迫从机器所在大楼周围的区域赶出。"
+ mem_food_constructor.2a:0 "我们需要找到一种方法来关闭它！"
+ mem_food_constructor.2b:0 "说好的“关闭”按钮呢！？"
+ mem_food_constructor.2c:0 "我们不应该信任外星人技术。"
+ mem_food_constructor.2.tooltip:0 "§Y[Root.GetName]§!开始遇到困难"
+ 
+ mem_food_constructor.3.name:0 "星球被食物吞没"
+ mem_food_constructor.3.desc:0 "[Root.GetName]的地方当局已经正式放弃了阻止这种情况的企图。日益增长的粮食产量已经压倒了任何将其丢弃在垃圾填埋场或将其带到外面的企图。 整个星球都是灰色的，有一层厚厚的食物尘埃。 更糟糕的是，构造器似乎从当地电网中汲取能量，阻碍其和我们星球建筑物的性能。"
+ mem_food_constructor.3.desc.machine:0 "对[Root.GetName]发展情况的分析是结论性的 - 这是无望的。不断增长的粉尘输出已经压倒了任何试图在垃圾填埋场处理垃圾或将垃圾丢弃的现象。整个星球都是灰色的，有一层厚厚的食物尘埃。 更糟糕的是，构造器似乎从当地电网吸取能源，妨碍了电网和我们星球上所有建筑的性能。"
+ mem_food_constructor.3.desc.hive:0 "很明显，[Root.GetName]的情况确实变得可怕了。不断增长的粉尘输出已经压倒了任何试图在垃圾填埋场处理垃圾或将垃圾丢弃的现象。整个星球都是灰色的，有一层厚厚的食物尘埃。 更糟糕的是，构造器似乎从当地电网吸取能源，妨碍了电网和我们星球上所有建筑的性能。"
+ mem_food_constructor.3a:0 "这是一个灾难！"
+ mem_food_constructor.3b:0 "科学带来了什么？！"
+ mem_food_constructor.3c:0 "我们早应该§RNOT§!相信外星科技！"
+ mem_food_constructor.3d:0 "看起来甚至不需要安置炸弹了。"
+ mem_food_constructor.3e:0 "对发明者来说无疑是可悲的过失。"
+ mem_food_constructor.3.tooltip:0 "在§Y[Root.GetName]§!上的生活变得更艰难了。"
+ 
+ mem_food_constructor.4.name:0 "食物涨潮"
+ mem_food_constructor.4.desc:0 "在§Y[Root.GetName]§!上的生活已经变成了一场和不断上涨的食物潮对抗的竞赛，它迫使人口不断攀升到新的高度来逃避日益增长的粮食生产。大部分的行业都因为星球上覆盖的细尘被迫中止。"
+ mem_food_constructor.4.desc.machine:0 "§Y[Root.GetName]§!上的日常运作已经变成了不断攀升的食物潮，迫使各单位不断移动到新的高度，以逃避日益增长的食品构造器的生产。大部分行业都对这个星球上覆盖着的细小灰尘嗤之以鼻。"
+ mem_food_constructor.4a:0 "快让它停下来！"
+ mem_food_constructor.4.machine:0 "不可接受。"
+ mem_food_constructor.4.tooltip:0 "几乎所有在§Y[Root.GetName]§!上的社会功能都完全瘫痪了."
+ 
+ mem_food_constructor.5.name:0 "可能存在的瑞森密匙"
+ mem_food_constructor.5.desc:0 "我们的远程传感器拾取了一个微弱的能量信号，类似于我们所拥有的正在工作的食品构造器的能量信号。尽管操作它的人很可能已经不在了，但可能还有一些线索可以帮助我们找到难以捉摸的§Y瑞森密匙§!。"
+ mem_food_constructor.5a:0 "我们需要尽快调查此事！"
+ 
+ mem_food_constructor_poi1:0 "食品构造器的签名"
+ mem_food_constructor_poi1_desc:0 "我们最近拾取的能量签名源于此系统。 也许我们可以找到食品构造者的创造者。 或者至少有一条线索......"
+  
+ mem_food_constructor.6.name:0 "我们在现场"
+ mem_food_constructor.6.desc:0 "能量线索把我们带到了§Y[From.GetName]§!星系。一个正在工作的食品构造器的非常微弱的能量特征似乎集中在该星系其中一个行星周围。"
+ mem_food_constructor.6a:0 "我们最好检查一下。"
+ 
+ MEM_FOOD_CONSTRUCTOR_CRASHSITE:0 "行星的调查"
+ MEM_FOOD_CONSTRUCTOR_CRASHSITE_DESC:0 "微弱的能量特征表明食品构造器曾经在附近运作过。 我们可能会发现关于如何关闭它的重要线索。"
+ 
+ mem_food_constructor.7.name:0 "我们越来越近了"
+ mem_food_constructor.7.desc:0 "沿着古老的能量线索，我们最终发现了一艘在一个荒凉的世界坠毁的巨大的货船。看起来它的船员曾试图把一个现在仍然焊接在船体上的构造器拖入恒星中，只是在航行半路中因为构造器的缘故耗尽了能量。这艘船已经漫无目的地漂过了一段时间，直到它陷入这个星球的引力并最终在其表面坠毁。\n\n我们从货船的计算机上获得的少量数据显示，它最初的任务是将构造器交付到一个小行星基地，希望基地的主人，一位隐居的外星人科学家能够停用构造器。 "
+ mem_food_constructor.7a:0 "我们也许还有机会。"
+ 
+ mem_food_constructor_poi2:0 "隐居的科学家"
+ mem_food_constructor_poi2_desc:0 "我们发现的船本是要去找一个隐居的科学家的。我们应该去拜访他。"
+ 
+ mem_food_constructor.8.name:0 "孤独的星系"
+ mem_food_constructor.8.desc:0 "我们已经到达了以前研究食品构造器的科学实验室活动过的坐标星系。如果飞行路线正确，他的基地应该位于大型小行星内。"
+ mem_food_constructor.8a:0 "我们应该去拜访他。"
+ 
+ MEM_FOOD_CONSTRUCTOR_RECLUSE:0 "小行星基地调查"
+ MEM_FOOD_CONSTRUCTOR_RECLUSE_DESC:0 "研究食品构造器的科学家曾经在小行星基地活动过。我们应该看看他是否留下任何蛛丝马迹。"
+ 
+ mem_food_constructor.9.name:0 "小行星基地"
+ mem_food_constructor.9.desc:0 "我们的科学家已经成功地找到了一颗被挖空以容纳某种研究站和栖息地的小行星。就像之前的舰船一样，它的系统因为舰体内部充满的长时间的食物粉尘耗尽了能量。利用微型钻头，我们的科学团队成功地挖掘了该设施的核心，并设法找到了该站的前所有者，他的遗体保存完好。科研团队设法从数字化管理程序中提取了一些数据。看起来他正在试验其中一个食品构造器，试图找到一种方法来关闭它，但当时突然飙升的生产冲破了遏制并让他窒息而死。 虽然他无法关闭构造器，但他似乎推断出了构造器的设计者活动过的位置。"
+ mem_food_constructor.9.desc.machine:0 "我们的研究单位已经成功地找到了一颗被挖空以容纳某种研究站和栖息地的小行星。就像之前的舰船一样，它的系统因为舰体内部充满的长时间的食物粉尘耗尽了能量。专业钻井单位已成功进入设施核心，并设法找到该站的前所有者，他的遗体保存完好。他们设法从他的数字助理提取一些数据 看起来他正在试验其中一个食品构造器，试图找到一种方法来关闭它，但当时突然飙升的生产冲破了遏制并让他窒息而死。 虽然他无法关闭构造器，但他似乎推断出了构造器的设计者活动过的位置。"
+ mem_food_constructor.9.desc.hive:0 "我们的研究工蜂已经成功地找到了一颗被挖空的小行星，以容纳某种研究站和栖息地。 就像之前的船舶一样，它的系统内部充满了长时间的食物粉尘，因此系统会耗尽能量。利用微型砖头，我们的科学团队成功地挖掘了该设施的核心，并设法找到了该站的前所有者，他的遗体保存完好。科研团队设法从数字化管理程序中提取了一些数据。看起来他正在试验其中一个食品构造器，试图找到一种方法来关闭它，但当时突然飙升的生产冲破了遏制并让他窒息而死。 虽然他无法关闭构造器，但他似乎推断出了构造器的设计者活动过的位置。"
+ mem_food_constructor.9a:0 "瑞森密匙几乎在我们的掌握中了！"
+ 
+ mem_food_constructor_poi3:0 "瑞森企业"
+ mem_food_constructor_poi3_desc:0 "难以捉摸的瑞森曾经在这个星系运行过。他们可能现在仍在那里。"
+ 
+ mem_food_constructor.10.name:0 "瑞森企业"
+ mem_food_constructor.10.desc:0 "我们已经到达了那个死掉的科学家确定的星系。一个巨大且严重受损的环状世界跨越了整个星系。强大的技术在这里一度兴盛，但这个地方显然不再处于运行状态。在严重受损的环形世界中，有一节还保存完好。如果说我们能找到§Y瑞森密匙§!，那只能在这里了。\n\n然而，并非所有事情都是冷酷无情的。我们正在检测星系中的一队强大的自动化舰队向我们打招呼。"
+ 
+ mem_food_constructor.11.desc:0 "我们到达了那个已过世的科学家发现的星系。一个巨大且严重受损的环状世界跨越了整个星系。在这里强大的科技一度蓬勃发展，但如今显然已经不在运行状态了。严重损坏的环世界中有一节还保存良好，如果我们能找到§Y瑞森密匙§!，那它只能就在这里了。"
+ mem_food_constructor.11a:0 "太好了，让我们继续。"
+ 
+ mem_food_constructor.12.name:0 "欢迎来到瑞森企业！"
+ mem_food_constructor.12.desc:0 "感谢您访问我们的中心，获取客户帮助和支持。不幸的是，我们的认证服务目前无法使用，所以请保持距离，直到经理从另一个世界赶来协助您。请不要接近任何设施，否则您将被摧毁。\n\n此自动消息由§M瑞森物质构造器和解构器§!提供给您。\n瑞森物质构造器和解构器：过去是可怕的; 这就是我们发明未来的原因。"
+ 
+ mem_food_constructor.12a:0 "你的经理要多久才来？"
+ mem_food_constructor.12a.response:0 "我们的服务因为§RINTEGER_OVERFLOW§!已经暂停了几年的时间，比往常来说稍长一点，对此我很抱歉。但我想您保证。经理马上就到。同时，请告诉我是否能让您的等待更舒服一些。\n\n当这种情况发生时，我们通常会向我们的客户提供特殊配方做出的饼干，不过现在我们只能向您提供§RPETRIFIED_DUST§!，您想要一些吗？"
+ 
+ mem_food_constructor.12b:0 "你们的企业为什么暂停了？"
+ mem_food_constructor.12b.response:0 "对不起，我恐怕不能透露这个信息。你可以到我们经理那里去问问他。"
+ 
+ mem_food_constructor.12c:0 "你有瑞森密匙吗？"
+ mem_food_constructor.12c.response: "当然有。如果您在使用我们的产品的前100年内错误放置或损坏了您的瑞森密匙，您有权免费更换。只需向我们的经理提供您的姓名和购买凭证，您将很快收到您的替换件。\n\n如果您已经收到免费更换件，请联系我们的经理以获取更换成本的最新信息。"
+ 
+ mem_food_constructor.12d:0 "一定有办法和平解决这个问题。"
+ mem_food_constructor.12d.response:0 "当然有。只需等待我们的经理，他将提供您需要的任何援助以尽可能减小暴力冲突的可能。"
+ 
+ mem_food_constructor.12e:0 "让我们过去，不然让你好看！"
+ mem_food_constructor.12e.response:0 "我很遗憾您这是在厌倦生命并考虑自杀。 有什么方法我可以说服您重新考虑吗？"
+ 
+ mem_food_constructor.12f:0 "再见"
+ mem_food_constructor.12f.response:0 "不久再见！"
+ 
+ MEM_FOOD_CONSTRUCTOR_REESAN:0 "调查瑞森企业"
+ MEM_FOOD_CONSTRUCTOR_REESAN_DESC:0 "在巨大的环世界废墟中，一个部分仍然保存良好。也许我们经过翻找能找到一个Reesan密匙。"
+ 
+ mem_food_constructor.13.name:0 "瑞森密匙已定位"
+ mem_food_constructor.13.desc:0 "我们的科学团队在环形世界上搜索了无数的仓库。在众多超出我们的理解设备中，我们找到了一个巨大的仓库，里面充满了毫无疑问的瑞森密匙。我们的科学团队报告说，恢复一个并没有什么问题。其余的奇妙的瑞森装置将为未来几年提供宝贵的见解。"
+ mem_food_constructor.13.desc.machine:0 "我们的研究单位在环形世界上搜索了无数的仓库。在许多违反我们分类的设备中，他们找到了一个巨大的仓库，里面充满了瑞森密匙，其可辨认性为96％。恢复一个并没有任何并发症。 其余奇妙的瑞森装置将为未来几年提供宝贵的见解。"
+ mem_food_constructor.13.desc.hive:0 "我们的工蜂在环形世界上搜索了无数的仓库。在众多超出我们理解的设备中，我们找到了一个巨大的仓库，里面充满了毫无疑问的瑞森密匙。恢复一个并没有任何并发症。其余奇妙的瑞森装置将为未来几年提供宝贵的见解。"
+ mem_food_constructor.13a.tooltip:0 "瑞森密匙将尽快交付。"
+ mem_food_constructor.13b:0 "现在我们可以很容易地关闭我们遇到的任何食物构造器。"
+ mem_food_constructor.13b.tooltip:0 "我们要把瑞森密匙放我们这里，以防以后我们需要它"
+ 
+ mem_food_constructor.14.name:0 "食品构造器关机"
+ mem_food_constructor.14.desc:0 "§Y[Root.GetName]§!上的公民热烈庆祝瑞森密匙的交付并插入食品构造器中。该设备似乎已经耗尽了所有能量，灰色的粉尘噩梦终于结束了。"
+ mem_food_constructor.14.desc.machine:0 "瑞森密匙已交付到§Y[Root.GetName]§! 并插入到食品构造器中。该设备已关闭，似乎耗尽了所有的能量。"
+ mem_food_constructor.14.desc.hive:0 "瑞森密匙已交付到§Y[Root.GetName]§! 并插入到食品构造器中。该设备似乎已经耗尽了所有的能量，灰色的粉尘噩梦终于结束了。"
+ mem_food_constructor.14a:0 "终于结束了！"
+ mem_food_constructor.14.tooltip:0 "在§Y[Root.GetName]§!上的生活从食品构造器的过剩物中恢复正常。"
+ 
+ mem_food_constructor.15.name:0 "生态转型"
+ mem_food_constructor.15.desc:0 "来自§Y[Root.GetName]§!的惊喜消息。覆盖星球的厚厚的食物尘埃已经在这个星球的生态系统上引起了巨大的变化。随着容易和丰富的能量涌入，星球上的生命繁荣，生物多样性猛增。 这个巨大的变化导致了星球正式重新分类到一个盖亚世界。"
+ mem_food_constructor.15.desc.machine:0 "覆盖§Y[Root.GetName]§!的食物尘埃厚层已经为这个星球的生态系统带来了巨大的变化。随着能量容易和丰富的涌入，星球上的生命繁荣，生物多样性急剧增加。这个巨大的变化导致了这个星球重新被分类为一个盖亚世界。"
+ mem_food_constructor.15b:0 "灵魂以神秘的方式工作……"
+ mem_food_constructor.15c:0 "我们应该永远感激神秘莫测的瑞森人。"
+ mem_food_constructor.15.machine:0 "更新行星图。"
+ 
+ MEM_FOOD_CONSTRUCTOR_LANCE:0 "沮丧光束"
+ MEM_FOOD_CONSTRUCTOR_MEDIUM_LASER:0 "中型缓和射线"
+ MEM_FOOD_CONSTRUCTOR_LARGE_LASER:0 "大型缓和射线"
+ MEM_FOOD_CONSTRUCTOR_DISRUPTOR:0 "引导发射器"
+
+ d_mem_food_constructor:1 "食品构造器"
+ d_mem_food_constructor_desc:1 "巨大的外星装置喷射出大量可食用的灰色粉尘。"
+
+ job_mem_food_constructor_dust_gatherer:1 "食品粉尘收集者"
+ job_mem_food_constructor_dust_gatherer_plural:1 "食品粉尘收集者"
+ job_mem_food_constructor_dust_gatherer_desc:1 "更简单、更轻松的农业替代选择。当可以仅仅用铁锹和桶就能得到相同结果时，谁还会需要轮作和收割这么麻烦的东西？"
+ job_mem_food_constructor_dust_gatherer_effect_desc:1 "£job_mem_dust_gatherer£ $job_mem_food_constructor_dust_gatherer_plural$ 生产 £food£ §Y$food$§!. 他们的产出岁食品构造器产量增加而增加."
+ mod_job_mem_food_constructor_dust_gatherer_add:1 "$job_mem_food_constructor_dust_gatherer$ Jobs"
+ mod_job_mem_food_constructor_dust_gatherer_per_pop:1 "§G+1§! $job_mem_food_constructor_dust_gatherer$ 职位每 $VALUE$ 人口"
+ mod_job_mem_food_constructor_dust_gatherer_per_pop_short:1 "\n§G+1§! £job_mem_dust_gatherer£ 每 $VALUE$ £pop£"
+
+ job_mem_food_constructor_dust_gatherer_gestalt:1 "食品粉尘收集工蜂"
+ job_mem_food_constructor_dust_gatherer_gestalt_plural:1 "食品粉尘收集工蜂"
+ job_mem_food_constructor_dust_gatherer_gestalt_desc:1 "更简单、更轻松的农业替代选择。当可以仅仅用铁锹和桶就能得到相同结果时，谁还会需要轮作和收割这么麻烦的东西？"
+ job_mem_food_constructor_dust_gatherer_gestalt_effect_desc:1 "£job_mem_dust_gatherer£ $job_mem_food_constructor_dust_gatherer_plural$ 生产 £food£ §Y$food$§!. 他们的产出岁食品构造器产量增加而增加."
+ mod_job_mem_food_constructor_dust_gatherer_gestalt_add:1 "$job_mem_food_constructor_dust_gatherer_gestalt$ 职位"
+ mod_job_mem_food_constructor_dust_gatherer_gestalt_per_pop:1 "§G+1§! $job_mem_food_constructor_dust_gatherer_gestalt$ 职位每 $VALUE$ 人口"
+ mod_job_mem_food_constructor_dust_gatherer_gestalt_per_pop_short:1 "\n§G+1§! £job_mem_dust_gatherer£ 每 $VALUE$ £pop£"
+
+ decision_mem_food_constructor_shut_down:1 "关闭食品构造器"
+ decision_mem_food_constructor_shut_down_desc:1 "一个过度活跃的食品构造器加上一个瑞森密匙便等于一个关掉的食品构造器。"
+ mem_food_constructor_shut_down_effect:1 "食品构造器将被禁用。它的大部分影响，连同它所提供的所有£job_mem_dust_gatherer£ 职位将从星球上永久移除。"
+ 
+ mem_food_constructor_debuff_0:1 "年复一年的摧残"
+

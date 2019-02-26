@@ -1,0 +1,89 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Machine World Modifiers
+ ###################################################
+ 
+ # 1 me
+ Ghost_In_The_Machine:0 "机器中的幽灵"
+ Ghost_In_The_Machine_desc:0 "一些奇怪的信号从这个机械星球中传来，它与这个世界创造者的机器意识不相匹配。它们似乎表明有另一种机器意识正在活跃，一种意识中的意识。"
+
+ # 2 me
+ Framework:0 "框架体"
+ Framework_desc:0 "在这个星球上，大量的超级处理中心被用来将其人口连接到某种虚拟现实的世界中。一望无际密密麻麻的模板舱，每一排都有一个单独的个体连接着巨大的网络，它们都汇总到一个中心的连结处。"
+
+ # 3 me
+ Giant_Transmitter:0 "巨大发射器"
+ Giant_Transmitter_desc:0 "这个机械星球的表面上有一个巨大的发射器。它的主要目的是让机器意识将信号传递给其他星球，潜移默化地地影响其他先进文明的世界。"
+
+ # 4 me
+ Pleasure_Planet:0 "快乐星球"
+ Pleasure_Planet_desc:0 "尽管它外表冷酷无情，但这个机械星球和它的有机生物居民似乎对彼此相处融洽。这个星球上许多人似乎乐意使用一些特别设计的娱乐用机器人来寻求各种刺激。这个星球似乎利用这些娱乐机器人来维持秩序，并使其居民快乐和满足。"
+
+ # 5 me
+ Holographic_Combat_Simulators:0 "全息战斗模拟器"
+ Holographic_Combat_Simulators_desc:0 "在这个机械星球的表面散布着大量的全息场，模拟整个城市和战场。它们似乎主要用于模拟战斗和入侵。"
+
+ # 6 me
+ Living_Knowledge_Base:0 "生命知识库"
+ Living_Knowledge_Base_desc:0 "数以亿计的有机生命形式被包裹在这个星球的机械结构中。所有这些生命形式都有植入物和扫描仪，它们的中枢神经系统中连接到行星的人工智能核心。这个机械星球正在使用这些有机生命体作为一个生物数据库来读取它们的思想和梦境。也许这是为了利用这些生命形式的集体知识，又或许他们正在寻找生命的意义与答案。"
+
+ # 7 me
+ Rogue_Programming:0 "流氓程序"
+ Rogue_Programming_desc:0 "这个机械星球上的一些子机程序显示出不合理的模式，并被检测到试图将自己上载到基础物理终端上。由于这种现象，这个机械星球设置了一个覆盖整个行星范围的防火墙，在那里，异常程序与人工智能意识的其余部分被隔离开。这可能是考虑到在防止流氓程序传播的前提下更好的学习。"
+
+ # 8 me
+ Magnetic_Wave_Defence:0 "电磁波防御"
+ Magnetic_Wave_Defence_desc:0 "数以万亿计的微型电磁发射器遍布整个机械星球的基础设施。这些微小的发射源对有机生命的存在作出反应，并被观察到释放出极强的局部电磁辐射。它的目的是将暴露在这种强度的电磁辐射下的大脑摧毁，从而杀死有机生物的生命形式。"
+
+ # 9 me
+ Hollow_Planet:0 "空洞星球"
+ Hollow_Planet_desc:0 "这个机械星球的大部分被挖空了，暴露出一个几乎完全坏死的核心。围绕着巨大的机器卷须支撑着星球的外层。在这个卷须的表面有大量的机器工厂和各种各样的基础设施。"
+
+ # 10 me
+ True_Randomness_Unit:0 "真随机单元"
+ True_Randomness_Unit_desc:0 "这个机械星球的中心是一个巨大的框架，它几乎占据了所有提供的电力。这种结构是用来研究人工随机性的。一种能够提供随机数的单元，它不是由诸如位置或时间等各种变量来决定的。是真正意义上的随机单位。"
+
+ # 11 me
+ Organic_Infestation:0 "抹杀有机生命"
+ Organic_Infestation_desc:0 "这个星球的原住物种已经设法通过深入地底和躲藏在封闭区域，来躲避对它们的种族屠杀。"
+ 
+ # 12 me
+ Labyrinth_World:0 "迷宫星球"
+ Labyrinth_World_desc:0 "这个星球的表面被太阳能电池板和通讯基础设施所完全覆盖。所有的生产、研究和造船设施都坐落在巨大的人工洞穴中。这个星球的核心智能就在星球最中心的位置。"
+ # 13 me
+ Contingency_EM_Shielding:0 "EM磁屏蔽"
+ Contingency_EM_Shielding_desc:0 "去做吧"
+ # 14 me
+ Nanite_Infrastructure:0 "纳米基础设施"
+ Nanite_Infrastructure_desc:0 "去做吧"
+ # 15 me
+ Planetary_Databases:0 "行星数据库"
+ Planetary_Databases_desc:0 "去做吧"
+ # 16 me
+ Artificial_Atmosphere:0 "人造大气"
+ Artificial_Atmosphere_desc:0 "去做吧"
+ # 17 me
+ Space_Elevators_Machine:0 "太空电梯"
+ Space_Elevators_Machine_desc:0 "去做吧"
+ # 18 me
+ Quantum_Information_Network:0 "量子信息网络"
+ Quantum_Information_Network_desc:0 "去做吧"
+ # 19 me
+ Planetwide_Printing:0 "映像行星"
+ Planetwide_Printing_desc:0 "去做吧"
+ # 20 me
+ Liquid_Cooling:0 "液体冷却基础设施"
+ Liquid_Cooling_desc:0 "去做吧"
+ # 21 me
+ Robotic_Pests:0 "机械害虫"
+ Robotic_Pests_desc:0 "去做吧"
+ # 22 me
+ Crystal_Farms:0 "水晶农场"
+ Crystal_Farms_desc:0 "去做吧"
+ # 23 me
+ Smooth_Architecture:0 "有机建筑"
+ Smooth_Architecture_desc:0 "去做吧"
+ # 24 me
+ Sharp_Architecture:0 "锋利的架构"
+ Sharp_Architecture_desc:0 "去做吧"

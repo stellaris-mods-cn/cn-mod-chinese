@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+SYNTH_CONV:1 "躯壳重塑"
+SYNTH_CONV_DESC:0 "纳米机器人将会重塑行星上所有的有机人口和格式塔意识机械人口（机械智慧帝国人口）的躯壳。"
+tech_pk_synthconv:0 "纳米重塑机器人"
+tech_pk_synthconv_desc:0 "纳米机器人将会重塑行星上所有的有机人口和格式塔意识机械人口的躯壳。他们就能像我们一样升格为更高的存在了。"
+FLEETORDER_DESTROY_PLANET_WITH_SYNTH_CONV:0 "正在准备重塑$PLANET|Y$上的民众"
+MESSAGE_DESC_FOR_SYNTH_CONV:0 "被整理重塑"
+mcpk.301.name:0 "重塑同化完毕"
+mcpk.301.desc:0 "[From.From.GetName]已完成纳米同化机器人的部署，其数量经计算足以将[From.GetName]上所有智慧有机生命转化为合成人。 \n\n尽管某些其他的帝国可能会将其斥为种族灭绝，或所谓的 灵魂盗窃"
+mcpk.301.tooltip:0 "重塑成功"
+SYNTH_CONV_ACTION:0 "同化"

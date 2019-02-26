@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+
+### EXTERMINATUS TEXTS #####
+exterminatus_event.2.name:0 "[From.GetName]灭绝"
+exterminatus_event.2.desc:0 "我们的敌人已经消灭了我们的一个殖民地§H[From.GetName]§!。报告显示，他们已经完全摧毁了所有生命的痕迹，把整个星球变成了一个熔化的火球。"
+exterminatus_event.2.a: "这种暴行必须予以报复!"
+exterminatus_event.3.desc:0 "我们的海军上将已经通知我们，他们已经完成了他们的任务，§H[From.GetName]§!的消灭已经结束。这颗行星现在只是一个没有生命的熔核。"
+exterminatus_event.3.a:0 "让这成为他们的一课吧!"
+bombed_to_molten_world:0 "§Y[From.GetName]现在是一个燃烧的熔融星球。§!"

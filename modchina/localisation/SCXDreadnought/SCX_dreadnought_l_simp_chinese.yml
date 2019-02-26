@@ -1,0 +1,85 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # SHIPS/STRUCTURES
+ ####################################
+
+ SCX_DREADNOUGHT: "无畏舰"
+
+ SCX_Dreadnought: "无畏舰"
+ SCX_Dreadnought_plural: "无畏舰"
+ 
+ ###################################
+ # SHIP COMPONENTS
+ ###################################
+ 
+ SCX_DREADNOUGHT_FISSION_REACTOR:1 "$FISSION_REACTOR$"
+ SCX_DREADNOUGHT_FUSION_REACTOR:1 "$FUSION_REACTOR$"
+ SCX_DREADNOUGHT_COLD_FUSION_REACTOR:1 "$COLD_FUSION_REACTOR$"
+ SCX_DREADNOUGHT_ANTIMATTER_REACTOR:1 "$ANTIMATTER_REACTOR$"
+ SCX_DREADNOUGHT_ZERO_POINT_REACTOR:1 "$ZERO_POINT_REACTOR$"
+ SCX_DREADNOUGHT_DARK_MATTER_REACTOR:1 "$DARK_MATTER_REACTOR$"
+ 
+ SCX_DREADNOUGHT_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+ SCX_DREADNOUGHT_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+ 
+ ###################################
+ # SHIP COMPUTERS
+ ###################################
+ 
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_DEFAULT:0 "基本战斗计算机"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_BASIC:0 "战斗计算机 (无畏舰)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_ADVANCED:0 "先进战斗计算机 (无畏舰)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_SAPIENT:0 "聪慧战斗计算机 (无畏舰)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_AUTONOMOUS:0 "自主智慧驾驶 (无畏舰)"
+ SCX_COMBAT_COMPUTER_DREADNOUGHT_PRECOG:0 "预知接口 (无畏舰)"
+ 
+ SCX_DREADNOUGHT_DEF_BEHAVIOR_DESC:0 "§H无畏舰行为:§! 舰船将缓慢推进并且集中在同样大小和重装甲目标上。"
+ 
+ ####################################
+ # TECH STUFF
+ ####################################
+ 
+ tech_scx_dreadnought_1: "无畏舰"
+ tech_scx_dreadnought_1_desc: "最近在军事宏观工程领域的突破使无畏级军用舰船的建造成为可能。"
+
+ TECH_UNLOCK_SCX_DREADNOUGHT_CONSTRUCTION_TITLE: "§H解锁舰船类型:§! 无畏舰"
+ TECH_UNLOCK_SCX_DREADNOUGHT_CONSTRUCTION_DESC: "§H无畏舰§!\n用来作为重型武器平台的主力舰，能够安装毁灭性的远程武器和操作所需的强大反应堆。无畏战舰的韧性和真正荒谬的火力只能单独地与泰坦相匹敌。"
+ 
+ tech_scx_dreadnought_hull_1:0 "改进无畏舰船体"
+ tech_scx_dreadnought_hull_1_desc:0 "建造技术的进步将允许建造更坚固、更耐用的无畏级战舰。"
+ tech_scx_dreadnought_hull_2:0 "先进无畏舰船体"
+ tech_scx_dreadnought_hull_2_desc:0 "最新一代无畏舰船体优化了结构完整性领域和改进舱壁。"
+ tech_scx_dreadnought_build_speed:0 "标准化无畏舰模式"
+ tech_scx_dreadnought_build_speed_desc:0 "为无畏舰的建模和建造建立新的标准，大大提高了生产流水线的效率。"
+ 
+ ####################################
+ # Dynamic Modifiers
+ ####################################
+ 
+ mod_shipsize_SCX_Dreadnought_build_speed_mult: "无畏舰建造速度"
+ mod_shipsize_SCX_Dreadnought_build_cost_mult: "无畏舰建造成本"
+ mod_shipsize_SCX_Dreadnought_hull_add: "无畏舰船体值"
+
+ ####################################
+ # SHIP SECTIONS
+ ####################################
+ 
+ # Dreadnought
+ 
+ SCX_Dreadnought_BOW_M2S4: "Spinal Mount Bow"
+
+ SCX_Dreadnought_MID1_L3: "Tempest Core"
+ SCX_Dreadnought_MID1_L2M2_1: "Reaper Core"
+ SCX_Dreadnought_MID1_L1M4_1: "Purifier Core"
+
+ SCX_Dreadnought_STERN_L1: "Artillery Stern"
+ SCX_Dreadnought_STERN_M2: "Broadside Stern"

@@ -1,0 +1,33 @@
+﻿l_simp_chinese:
+ ####################################
+ # Traits
+ ####################################
+
+ trait_ex_psionic_obsession:0 "灵能迷恋"
+ trait_ex_psionic_obsession_desc:0 "§L这个物种的成员已经发展了轻微的心灵感应和心灵动力能力，导致了对追求灵能的兴趣。§!"
+ trait_ex_harsh_discipline:0 "严厉的纪律"
+ trait_ex_harsh_discipline_desc:0 "§L这个物种过着一种阴暗而刻板的生活，从小就被教导要把国家的需要置于一切之上。§!"
+ trait_ex_frail:0 "虚弱"
+ trait_ex_frail_desc:0 "§L该物种容易受伤和患病，缺乏地面作战或繁重劳动的耐力。§!"
+ trait_ex_broken:0 "破碎"
+ trait_ex_broken_desc:0 "§L这个物种在遥远的过去遭受了一些灾难性的失败，在他们的身体和心灵上留下了伤疤。§!"
+ trait_ex_overspecialized:0 "过于专门"
+ trait_ex_overspecialized_desc:0 "§L无论是由于进化上的不适应，还是由于基因工程的短视，这种物种在自己的家园环境中表现优异，但在外部环境中却举步维艰。§!"
+ trait_ex_chaotic:0 "混乱"
+ trait_ex_chaotic_desc:0 "§L这个物种被困在一个不断的内斗和自我毁灭行为的循环中。仅仅是生存就可能是一场斗争。§!"
+ trait_ex_obsessive:0 "强迫性"
+ trait_ex_obsessive_desc:0 "§L这个物种致力于他们帝国的发展，但往往对他们个人有害。§!"
+ trait_ex_hedonistic:0 "享乐主义"
+ trait_ex_hedonistic_desc:0 "§L这个物种把追求快乐置于一切之上。§!"
+ trait_ex_disciplined:0 "有纪律的"
+ trait_ex_disciplined_desc:0 "§L通过严酷的适应和训练，这个物种专注于军事传统和为他们的国家服务。§!"
+ trait_ex_unscientific:0 "不科学"
+ trait_ex_unscientific_desc:0 "§L这个物种根本无法掌握科学理论。§!"
+ trait_ex_engineering_focus:0 "工程重点"
+ trait_ex_engineering_focus_desc:0 "§L该物种对工程研究有强烈的偏好。§!"
+ trait_ex_society_focus:0 "社会重点"
+ trait_ex_society_focus_desc:0 "§L这个物种对社会研究有强烈的偏好。§!"
+ trait_ex_physics_focus:0 "物理重点"
+ trait_ex_physics_focus_desc:0 "§L这个物种对物理研究有强烈的偏好。§!"
+ trait_ex_profligate:0 "挥霍无度"
+ trait_ex_profligate_desc:0 "§L这个物种过着挥霍无度的生活。§!"

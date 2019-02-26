@@ -1,0 +1,305 @@
+﻿l_simp_chinese:
+ ####################################
+ # 科技
+ ####################################
+ magic:0 "奥法科技"
+ magic_desc:0 "神秘的奥秘起源。"
+
+ gateway_magic:0 "这将导致应用奥法科技的进一步发展。"
+
+ tech_alchemist_guilds:0 "炼金术锻造"
+ tech_alchemist_guilds_desc:0 "炼金术士使用其巨大的知识嬗变特殊材料，不断制造魔法石。"
+
+ tech_magical_theory:0 "魔法理论"
+ tech_magical_theory_desc:0 "我们通过对魔术可以完成的基础研究开始我们的进步。"
+
+ tech_ministry_magic_0:0 "奥术委员会"
+ tech_ministry_magic_0_desc:0 "特殊巫术的本地聚会提供了奥术监管的基础。"
+
+ tech_ministry_magic_1:0 "奥术协会"
+ tech_ministry_magic_1_desc:0 "受尊敬的法师区域协会管理他们自己的星球部分，帮助使用神秘的传播方法。"
+
+ tech_ministry_magic_2:0 "奥术官僚"
+ tech_ministry_magic_2_desc:0 "通过整合最新的奥法科技，使全行星的官僚网络成为可能。"
+
+ tech_ministry_magic_3:0 "魔法部"
+ tech_ministry_magic_3_desc:0 "作为官僚过剩和神秘技术的最终融合，魔法部提供了所有主题。"
+
+ tech_magical_theory:0 "奥术理论"
+ tech_magical_theory_desc:0 "通过我们对奥术的研究，我们发现了如何用魔法来增强我们的技术。"
+
+ tech_magic_ships_1:0 "Mu级船舰模块"
+ tech_magic_ships_1_desc:0 "通过仔细研究，我们设法用奥术制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ships_2:0 "Eta级船舰模块"
+ tech_magic_ships_2_desc:0 "通过仔细研究，我们设法用奥术制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ships_3:0 "Tau级船舰模块"
+ tech_magic_ships_3_desc:0 "通过仔细研究，我们设法用奥术制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ships_4:0 "Phi级船舰模块"
+ tech_magic_ships_4_desc:0 "通过仔细研究，我们设法用奥术制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ship_armor_1:0 "魔力装甲"
+ tech_magic_ship_armor_1_desc:0 "解锁魔力装甲."
+
+ tech_magic_crystal_armor_1:0 "魔力船体结构"
+ tech_magic_crystal_armor_1_desc:0 "解锁魔力船体结构."
+
+ tech_magic_shields_1:0 "魔力护盾"
+ tech_magic_shields_1_desc:0 "解锁魔力护盾."
+
+ tech_magic_strike_craft_1:0 "魔力战斗机"
+ tech_magic_strike_craft_1_desc:0 "解锁魔力战斗机."
+
+ tech_magic_mass_drivers_1:0 "魔力动能炮塔"
+ tech_magic_mass_drivers_1_desc:0 "解锁魔力动能炮塔."
+
+ tech_magic_regenerative_hull_tissue_1:0 "魔力再生系统"
+ tech_magic_regenerative_hull_tissue_1_desc:0 "解锁魔力再生系统."
+
+ tech_magic_kinetic_artillery_1:0 "魔力动能大炮"
+ tech_magic_kinetic_artillery_1_desc:0 "解锁魔力动能大炮."
+
+ tech_magic_mass_accelerator_1:0 "魔力质量加速器"
+ tech_magic_mass_accelerator_1_desc:0 "解锁魔力质量加速器."
+
+ tech_magic_autocannons_1:0 "魔力自动机炮"
+ tech_magic_autocannons_1_desc:0 "解锁魔力自动机炮."
+
+ tech_magic_flak_batteries_1:0 "魔力防空火炮"
+ tech_magic_flak_batteries_1_desc:0 "解锁魔力防空火炮."
+
+ tech_magic_missiles_1:0 "魔力导弹"
+ tech_magic_missiles_1_desc:0 "解锁魔力导弹."
+
+ tech_magic_swarmer_missiles_1:0 "魔力旋风导弹"
+ tech_magic_swarmer_missiles_1_desc:0 "解锁魔力旋风导弹."
+
+ tech_magic_torpedoes_1:0 "魔力鱼雷"
+ tech_magic_torpedoes_1_desc:0 "解锁魔力鱼雷."
+
+ tech_magic_reactor_boosters_1:0 "魔力反应堆助推器"
+ tech_magic_reactor_boosters_1_desc:0 "解锁魔力反应堆助推器."
+
+ tech_magic_lasers_1:0 "魔力激光发射器"
+ tech_magic_lasers_1_desc:0 "解锁魔力激光发射器."
+
+ tech_magic_energy_lance_1:0 "魔力光矛"
+ tech_magic_energy_lance_1_desc:0 "解锁魔力光矛."
+
+ tech_magic_plasma_1:0 "魔力等离子炮"
+ tech_magic_plasma_1_desc:0 "解锁魔力等离子炮."
+
+ tech_magic_arc_emitter_1:0 "魔力聚焦电弧发射器"
+ tech_magic_arc_emitter_1_desc:0 "解锁魔力聚焦电弧发射器."
+
+ tech_magic_disruptors_1:0 "魔力裂解器"
+ tech_magic_disruptors_1_desc:0 "解锁魔力裂解器."
+
+ tech_magic_energy_torpedoes_1:0 "魔力能量发射器"
+ tech_magic_energy_torpedoes_1_desc:0 "解锁魔力能量发射器."
+
+ tech_magic_perdition_beam_1:0 "魔力毁灭光束"
+ tech_magic_perdition_beam_1_desc:0 "解锁魔力毁灭光束."
+
+ tech_magic_pd_tracking_1:0 "魔力点防御"
+ tech_magic_pd_tracking_1_desc:0 "解锁魔力点防御."
+
+ tech_magic_ship_armor_2:0 "以太装甲"
+ tech_magic_ship_armor_2_desc:0 "解锁以太装甲."
+
+ tech_magic_crystal_armor_2:0 "以太船体结构"
+ tech_magic_crystal_armor_2_desc:0 "解锁以太船体结构."
+
+ tech_magic_shields_2:0 "以太护盾"
+ tech_magic_shields_2_desc:0 "解锁以太护盾."
+
+ tech_magic_strike_craft_2:0 "以太战斗机"
+ tech_magic_strike_craft_2_desc:0 "解锁以太战斗机."
+
+ tech_magic_mass_drivers_2:0 "以太动能炮塔"
+ tech_magic_mass_drivers_2_desc:0 "解锁以太动能炮塔."
+
+ tech_magic_regenerative_hull_tissue_2:0 "以太再生系统"
+ tech_magic_regenerative_hull_tissue_2_desc:0 "解锁以太再生系统."
+
+ tech_magic_kinetic_artillery_2:0 "以太动能大炮"
+ tech_magic_kinetic_artillery_2_desc:0 "解锁以太动能大炮."
+
+ tech_magic_mass_accelerator_2:0 "以太质量加速器"
+ tech_magic_mass_accelerator_2_desc:0 "解锁以太质量加速器."
+
+ tech_magic_autocannons_2:0 "以太自动机炮"
+ tech_magic_autocannons_2_desc:0 "解锁以太自动机炮."
+
+ tech_magic_flak_batteries_2:0 "以太防空火炮"
+ tech_magic_flak_batteries_2_desc:0 "解锁以太防空火炮."
+
+ tech_magic_missiles_2:0 "以太导弹"
+ tech_magic_missiles_2_desc:0 "解锁以太导弹."
+
+ tech_magic_swarmer_missiles_2:0 "以太旋风导弹"
+ tech_magic_swarmer_missiles_2_desc:0 "解锁以太旋风导弹."
+
+ tech_magic_torpedoes_2:0 "以太鱼雷"
+ tech_magic_torpedoes_2_desc:0 "解锁以太鱼雷."
+
+ tech_magic_reactor_boosters_2:0 "以太反应堆助推器"
+ tech_magic_reactor_boosters_2_desc:0 "解锁以太反应堆助推器."
+
+ tech_magic_lasers_2:0 "以太激光发射器"
+ tech_magic_lasers_2_desc:0 "解锁以太激光发射器."
+
+ tech_magic_energy_lance_2:0 "以太光矛"
+ tech_magic_energy_lance_2_desc:0 "解锁以太光矛."
+
+ tech_magic_plasma_2:0 "以太等离子炮"
+ tech_magic_plasma_2_desc:0 "解锁以太等离子炮."
+
+ tech_magic_arc_emitter_2:0 "以太聚焦电弧发射器"
+ tech_magic_arc_emitter_2_desc:0 "解锁以太聚焦电弧发射器."
+
+ tech_magic_disruptors_2:0 "以太裂解器"
+ tech_magic_disruptors_2_desc:0 "解锁以太裂解器."
+
+ tech_magic_energy_torpedoes_2:0 "以太能量发射器"
+ tech_magic_energy_torpedoes_2_desc:0 "解锁以太能量发射器."
+
+ tech_magic_perdition_beam_2:0 "以太毁灭光束"
+ tech_magic_perdition_beam_2_desc:0 "解锁以太毁灭光束."
+
+ tech_magic_pd_tracking_2:0 "以太点防御"
+ tech_magic_pd_tracking_2_desc:0 "解锁以太点防御."
+
+ tech_magic_ship_armor_3:0 "秘术装甲"
+ tech_magic_ship_armor_3_desc:0 "解锁秘术装甲."
+
+ tech_magic_crystal_armor_3:0 "秘术船体结构"
+ tech_magic_crystal_armor_3_desc:0 "解锁秘术船体结构."
+
+ tech_magic_shields_3:0 "秘术护盾"
+ tech_magic_shields_3_desc:0 "解锁秘术护盾."
+
+ tech_magic_strike_craft_3:0 "秘术战斗机"
+ tech_magic_strike_craft_3_desc:0 "解锁秘术战斗机."
+
+ tech_magic_mass_drivers_3:0 "秘术动能炮塔"
+ tech_magic_mass_drivers_3_desc:0 "解锁秘术动能炮塔."
+
+ tech_magic_regenerative_hull_tissue_3:0 "秘术再生系统"
+ tech_magic_regenerative_hull_tissue_3_desc:0 "解锁秘术再生系统."
+
+ tech_magic_kinetic_artillery_3:0 "秘术动能大炮"
+ tech_magic_kinetic_artillery_3_desc:0 "解锁秘术动能大炮."
+
+ tech_magic_mass_accelerator_3:0 "秘术质量加速器"
+ tech_magic_mass_accelerator_3_desc:0 "解锁秘术质量加速器."
+
+ tech_magic_autocannons_3:0 "秘术自动机炮"
+ tech_magic_autocannons_3_desc:0 "解锁秘术自动机炮."
+
+ tech_magic_flak_batteries_3:0 "秘术防空火炮"
+ tech_magic_flak_batteries_3_desc:0 "解锁秘术防空火炮."
+
+ tech_magic_missiles_3:0 "秘术导弹"
+ tech_magic_missiles_3_desc:0 "解锁秘术导弹."
+
+ tech_magic_swarmer_missiles_3:0 "秘术旋风导弹"
+ tech_magic_swarmer_missiles_3_desc:0 "解锁秘术旋风导弹."
+
+ tech_magic_torpedoes_3:0 "秘术鱼雷"
+ tech_magic_torpedoes_3_desc:0 "解锁秘术鱼雷."
+
+ tech_magic_reactor_boosters_3:0 "秘术反应堆助推器"
+ tech_magic_reactor_boosters_3_desc:0 "解锁秘术反应堆助推器."
+
+ tech_magic_lasers_3:0 "秘术激光发射器"
+ tech_magic_lasers_3_desc:0 "解锁秘术激光发射器."
+
+ tech_magic_energy_lance_3:0 "秘术光矛"
+ tech_magic_energy_lance_3_desc:0 "解锁秘术光矛."
+
+ tech_magic_plasma_3:0 "秘术等离子炮"
+ tech_magic_plasma_3_desc:0 "解锁秘术等离子炮."
+
+ tech_magic_arc_emitter_3:0 "秘术聚焦电弧发射器"
+ tech_magic_arc_emitter_3_desc:0 "解锁秘术聚焦电弧发射器."
+
+ tech_magic_disruptors_3:0 "秘术裂解器"
+ tech_magic_disruptors_3_desc:0 "解锁秘术裂解器."
+
+ tech_magic_energy_torpedoes_3:0 "秘术能量发射器"
+ tech_magic_energy_torpedoes_3_desc:0 "解锁秘术能量发射器."
+
+ tech_magic_perdition_beam_3:0 "秘术毁灭光束"
+ tech_magic_perdition_beam_3_desc:0 "解锁秘术毁灭光束."
+
+ tech_magic_pd_tracking_3:0 "秘术点防御"
+ tech_magic_pd_tracking_3_desc:0 "解锁秘术点防御."
+
+ tech_magic_ship_armor_4:0 "使者装甲"
+ tech_magic_ship_armor_4_desc:0 "解锁使者装甲."
+
+ tech_magic_crystal_armor_4:0 "使者船体结构"
+ tech_magic_crystal_armor_4_desc:0 "解锁使者船体结构."
+
+ tech_magic_shields_4:0 "使者护盾"
+ tech_magic_shields_4_desc:0 "解锁使者护盾."
+
+ tech_magic_strike_craft_4:0 "使者战斗机"
+ tech_magic_strike_craft_4_desc:0 "解锁使者战斗机."
+
+ tech_magic_mass_drivers_4:0 "使者动能炮塔"
+ tech_magic_mass_drivers_4_desc:0 "解锁使者动能炮塔."
+
+ tech_magic_regenerative_hull_tissue_4:0 "使者再生系统"
+ tech_magic_regenerative_hull_tissue_4_desc:0 "解锁使者再生系统."
+
+ tech_magic_kinetic_artillery_4:0 "使者动能大炮"
+ tech_magic_kinetic_artillery_4_desc:0 "解锁使者动能大炮."
+
+ tech_magic_mass_accelerator_4:0 "使者质量加速器"
+ tech_magic_mass_accelerator_4_desc:0 "解锁使者质量加速器."
+
+ tech_magic_autocannons_4:0 "使者自动机炮"
+ tech_magic_autocannons_4_desc:0 "解锁使者自动机炮."
+
+ tech_magic_flak_batteries_4:0 "使者防空火炮"
+ tech_magic_flak_batteries_4_desc:0 "解锁使者防空火炮."
+
+ tech_magic_missiles_4:0 "使者导弹"
+ tech_magic_missiles_4_desc:0 "解锁使者导弹."
+
+ tech_magic_swarmer_missiles_4:0 "使者旋风导弹"
+ tech_magic_swarmer_missiles_4_desc:0 "解锁使者旋风导弹."
+
+ tech_magic_torpedoes_4:0 "使者鱼雷"
+ tech_magic_torpedoes_4_desc:0 "解锁使者鱼雷."
+
+ tech_magic_reactor_boosters_4:0 "使者反应堆助推器"
+ tech_magic_reactor_boosters_4_desc:0 "解锁使者反应堆助推器."
+
+ tech_magic_lasers_4:0 "使者激光发射器"
+ tech_magic_lasers_4_desc:0 "解锁使者激光发射器."
+
+ tech_magic_energy_lance_4:0 "使者光矛"
+ tech_magic_energy_lance_4_desc:0 "解锁使者光矛."
+
+ tech_magic_plasma_4:0 "使者等离子炮"
+ tech_magic_plasma_4_desc:0 "解锁使者等离子炮."
+
+ tech_magic_arc_emitter_4:0 "使者聚焦电弧发射器"
+ tech_magic_arc_emitter_4_desc:0 "解锁使者聚焦电弧发射器."
+
+ tech_magic_disruptors_4:0 "使者裂解器"
+ tech_magic_disruptors_4_desc:0 "解锁使者裂解器."
+
+ tech_magic_energy_torpedoes_4:0 "使者能量发射器"
+ tech_magic_energy_torpedoes_4_desc:0 "解锁使者能量发射器."
+
+ tech_magic_perdition_beam_4:0 "使者毁灭光束"
+ tech_magic_perdition_beam_4_desc:0 "解锁使者毁灭光束."
+
+ tech_magic_pd_tracking_4:0 "使者点防御"
+ tech_magic_pd_tracking_4_desc:0 "解锁使者点防御."

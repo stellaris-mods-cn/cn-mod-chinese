@@ -1,0 +1,342 @@
+﻿l_simp_chinese:
+
+
+ 
+ ### ресурс
+ 
+ apsr15_planet_modifier:0 "理想场所"
+ apsr15_planet_modifier_desc:0 "A perfect place to construct literally any type of building."
+ 
+ apsr15_deposit:0 "$apsr15_planet_modifier$"
+ apsr15_deposit_desc:0 "$apsr15_planet_modifier_desc$\n\n§M$apsr15_deposit_effect$§!" 
+ apsr15_deposit_effect:0 "独特的资源可用: $apsr15_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr15_building_part1_text:0 "未来建筑的基础"
+ 
+ apsr15_building_part21_text:0 "生产能量币和加工矿物的单位的一小部分"
+ 
+ apsr15_building_part22_text:0 "单元的一小部分，用于进行工程研究并保证统一"
+ 
+ apsr15_building_part31_text:0 "生产能量币和加工矿物的大型单位"
+ 
+ apsr15_building_part32_text:0 "加工矿石和生产食物的大型装置"
+ 
+ apsr15_building_part33_text:0 "生产食物和保证团结的大型单位"
+ 
+ apsr15_building_part34_text:0 "一个进行工程研究并确保统一的大街区"
+ 
+ apsr15_building_part41_text:0 "银河系最大的电站"
+ 
+ apsr15_building_part42_text:0 "银河系最大的采矿综合体"
+ 
+ apsr15_building_part43_text:0 "银河系中最大的农场综合体"
+ 
+ apsr15_building_part44_text:0 "银河系最大的博物馆"
+ 
+ apsr15_building_part45_text:0 "银河系最大的科学综合体"
+ 
+ apsr15_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr15_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr15_building_part1:0 "基金会"
+ apsr15_building_part1_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part1_text$"
+ 
+ apsr15_building_part21:0 "生产单位"
+ apsr15_building_part21_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part21_text$"
+ 
+ apsr15_building_part22:0 "科学区块组"
+ apsr15_building_part22_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part22_text$"
+ 
+ apsr15_building_part31:0 "大规模生产单位"
+ apsr15_building_part31_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part31_text$"
+ 
+ apsr15_building_part32:0 "大型采购单位"
+ apsr15_building_part32_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part32_text$"
+ 
+ apsr15_building_part33:0 "大量食品单位"
+ apsr15_building_part33_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part33_text$"
+ 
+ apsr15_building_part34:0 "大型科学区块"
+ apsr15_building_part34_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part34_text$"
+ 
+ apsr15_building_part41:0 "大型中央发电站"
+ apsr15_building_part41_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part41_text$"
+ 
+ apsr15_building_part42:0 "大型中央发矿战"
+ apsr15_building_part42_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part42_text$"
+ 
+ apsr15_building_part43:0 "大型中央农场"
+ apsr15_building_part43_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part43_text$"
+ 
+ apsr15_building_part44:0 "大型中央博物馆"
+ apsr15_building_part44_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part44_text$"
+ 
+ apsr15_building_part45:0 "大型中央科学综合体"
+ apsr15_building_part45_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part45_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr15_building_part1:0 "大型建筑: 阶段 1"
+ tech_apsr15_building_part1_desc:0 "任何建筑物的开始都是坚实的基础"
+ 
+ tech_apsr15_building_part21:0 "大型建筑: 阶段 2"
+ tech_apsr15_building_part21_desc:0 "大型建筑施工的下一阶段"
+ 
+ tech_apsr15_building_part22:0 "$tech_apsr15_building_part21$"
+ tech_apsr15_building_part22_desc:0 "$tech_apsr15_building_part21_desc$"
+ 
+ tech_apsr15_building_part31:0 "大型建筑: 阶段 3"
+ tech_apsr15_building_part31_desc:0 "大型建筑施工的下一阶段"
+ 
+ tech_apsr15_building_part32:0 "$tech_apsr15_building_part31$"
+ tech_apsr15_building_part32_desc:0 "$tech_apsr15_building_part31_desc$"
+ 
+ tech_apsr15_building_part33:0 "$tech_apsr15_building_part31$"
+ tech_apsr15_building_part33_desc:0 "$tech_apsr15_building_part31_desc$"
+ 
+ tech_apsr15_building_part34:0 "$tech_apsr15_building_part31$"
+ tech_apsr15_building_part34_desc:0 "$tech_apsr15_building_part31_desc$"
+ 
+ tech_apsr15_building_part41:0 "大型建筑: 阶段 4"
+ tech_apsr15_building_part41_desc:0 "大型建筑大的最后一个阶段"
+ 
+ tech_apsr15_building_part42:0 "$tech_apsr15_building_part41$"
+ tech_apsr15_building_part42_desc:0 "$tech_apsr15_building_part41_desc$"
+ 
+ tech_apsr15_building_part43:0 "$tech_apsr15_building_part41$"
+ tech_apsr15_building_part43_desc:0 "$tech_apsr15_building_part41_desc$"
+ 
+ tech_apsr15_building_part44:0 "$tech_apsr15_building_part41$"
+ tech_apsr15_building_part44_desc:0 "$tech_apsr15_building_part41_desc$"
+ 
+ tech_apsr15_building_part45:0 "$tech_apsr15_building_part41$"
+ tech_apsr15_building_part45_desc:0 "$tech_apsr15_building_part41_desc$"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.15001.title:0 "基金会建成"
+ apsr.15001.desc:0 "我们已经为未来的建设奠定了基础，现在有必要选择正确的发展道路 \n我们有机会选择发展生产和资源开采的方式，或者选择探索这个地方和发展科学的方式"
+ apsr.15001.button1:0 "发展生产"
+ apsr.15001.button2:0 "发展科研"
+ 
+ 
+ apsr.15021.title:0 "$apsr15_building_part21$ 建成"
+ apsr.15021.desc:0 "§Y$apsr15_building_part21$§!产生少量的资源，需要进一步的开发。这意味着要在建筑物下面发展一个隧道网，以开采矿物，也是两个备选办法之一:要么建设发电站，要么利用土壤表面种植粮食。 \n我们会采取哪一种选择，$RULER$?"
+ apsr.15021.button1:0 "矿物和能量币"
+ apsr.15021.button2:0 "矿物和食物"
+ 
+ apsr.15022.title:0 "$apsr15_building_part22$ 建成"
+ apsr.15022.desc:0 "§Y$apsr15_building_part22$§!产生少量资源，需要进一步开发。这意味着要建造纪念碑和布置公园，所以有两种选择:要么建造实验室进行研究，要么利用表层土壤种植粮食。 \n我们会采取哪一种选择，$RULER$?"
+ apsr.15022.button1:0 "凝聚力和食物"
+ apsr.15022.button2:0 "凝聚力和科研"
+  
+   
+ apsr.15031.title:0 "$apsr15_building_part31$ 建成"
+ apsr.15031.desc:0 "§Y$apsr15_building_part31$§!已建成一个多功能设施:一组建筑产生能源，而地下隧道提供矿物提取。 \n但是作为函数划分的结果，结果会比我们希望的要低。为了达到最高的效率，有必要把建立的重点放在生产一种资源上。 \n有机会将发电站集中在为建筑物本身提供能源和扩大矿物的开采，或在矿井和冷却系统中增加电力装置和扩大能量币的生产。 \n现在唯一需要做的就是选择我们应该关注的资源"
+ apsr.15031.button1:0 "关注能量币"
+ apsr.15031.button2:0 "关注矿物"
+  
+ apsr.15032.title:0 "$apsr15_building_part32$ 建成"
+ apsr.15032.desc:0 "§Y$apsr15_building_part32$§!已被创造为一个多功能设施:在地面上生产食物，而地下隧道提供矿物的提取。 \n但是作为函数划分的结果，结果会比我们希望的要低。为了达到最高的效率，有必要把建立的重点放在生产一种资源上。 \n有一种选择是组织更多的进入矿井和扩大矿物的开采，或在矿井中放置植物的合成营养系统，增加植物的生长和扩大粮食生产。 \n现在唯一需要做的就是选择我们应该关注的资源"
+ apsr.15032.button1:0 "关注矿物"
+ apsr.15032.button2:0 "关注食物"
+  
+ apsr.15033.title:0 "$apsr15_building_part33$ 建成"
+ apsr.15033.desc:0 "§Y$apsr15_building_part33$§!是一个由农场、公园和纪念碑组成的独特综合体，创造了一种与当地自然融为一体的感觉。 \n但是作为函数划分的结果，结果会比我们希望的要低。为了达到最高的效率，有必要把建立的重点放在生产一种资源上。 \n有一种选择是利用所有有利可图的表面来安排农场，或用娱乐和文化设施覆盖它。 \n现在唯一需要做的就是选择我们应该关注的资源"
+ apsr.15033.button1:0 "关注食物"
+ apsr.15033.button2:0 "关注凝聚力"
+  
+ apsr.15034.title:0 "$apsr15_building_part34$ 建成"
+ apsr.15034.desc:0 "§Y$apsr15_building_part34$§!是一个独特的综合实验室，公园和纪念碑提供一个机会休息或在一个良好的气氛进行研究。 \n但是作为函数划分的结果，结果会比我们希望的要低。为了达到最高的效率，有必要把建立的重点放在生产一种资源上。 \n有一种选择是用所有的表面来建造实验室，或者用娱乐和文化设施来覆盖它。现在唯一需要做的就是选择我们应该关注的资源"
+ apsr.15034.button1:0 "关注凝聚力"
+ apsr.15034.button2:0 "关注科研"
+ 
+ 
+ apsr.15041.title:0 "$apsr15_building_part41$ 建成"
+ apsr.15041.desc:0 "在矿井中放置额外的电池和冷却系统使我们能够大大增加我们的能量币。而且，我们拥有整个银河系最大的电站综合体!"
+ apsr.15041.ok-button:0 "真奇妙"
+  
+ apsr.15042.title:0 "$apsr15_building_part42$ 建成"
+ apsr.15042.desc:0 "由于所有的电力单位都集中于向设施本身提供能源和安排额外的进入矿井，矿物的开采已经大大扩大。而且，现在我们拥有整个银河系最大的采矿综合体!"
+ apsr.15042.ok-button:0 "真奇妙"
+  
+ apsr.15043.title:0 "$apsr15_building_part43$ 建成"
+ apsr.15043.desc:0 "通过在地下区域放置综合植物营养系统，并利用所有可用的地面来安排农场，我们大大增加了植物的生长和接收的食物量。而且，现在我们拥有整个银河系最大的农场综合体!"
+ apsr.15043.ok-button:0 "真奇妙"
+  
+ apsr.15044.title:0 "$apsr15_building_part44$ 建成"
+ apsr.15044.desc:0 "我们把这个地方变成了银河系最大的宗教和文化中心，并称之为§Y$apsr15_building_part44$§!。许多其他帝国的杰出人物都来过这个地方"
+ apsr.15044.ok-button:0 "真奇妙"
+  
+ apsr.15045.title:0 "$apsr15_building_part45$ 建成"
+ apsr.15045.desc:0 "通过使用整个表面来建造实验室，我们有机会进行最非凡的实验。这使我们的科学取得了重大突破"
+ apsr.15045.ok-button:0 "真奇妙"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.15101.title:0 "发现人造物: §M$apsr15_planet_modifier$§!"
+ apsr.15101.desc:0 "来自科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!领导的一个研究小组发现了一些奇怪的东西! \n在这个星球上有一个非常不寻常的地方,肥沃的土壤,和大量的矿物质,和一种特殊的磁场,应有尽有。在这里，可以安排一个单元来提取任何类型的资源"
+ apsr.15101.button:1 "我们必须得到这个人造物!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.15103.title:0 "发现人造物: §M$apsr15_planet_modifier$§!"
+ apsr.15103.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n这颗行星很不寻常——它有肥沃的土壤，丰富的矿物质，还有一个特殊的磁场，应有尽有。在这里，您可以构造一个单元来提取任何类型的资源。"
+ apsr.15103.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.15105.title:0 "发现人造物: §M$apsr15_planet_modifier$§!"
+ apsr.15105.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上有一个地方，非常不寻常——它有肥沃的土壤，大量的矿物质，还有一个特殊的磁场，你能说得出来的。在这里，您可以构造一个单元来提取任何类型的资源。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr15_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr15_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr15_resource_planet.Owner.GetName]"
+ apsr.15105.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr15_special:0 "$apsr15_planet_modifier$"
+ apsr15_special_desc:0 "$apsr15_planet_modifier_desc$"
+ 
+ APSR15_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR15_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr15_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr15_anomaly:0 "有趣的数据"
+ apsr15_anomaly_desc:0 "在对[From.GetName]行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.15601.title:0 "$apsr.15101.title$"
+ apsr.15601.desc:0 "$apsr.15101.desc$"
+ 
+ 
+ 
+ ### новые должности
+  
+ apsr15_planet_power_engineer_normal:0 "电力工程师"
+ job_apsr15_power_engineer_normal:0 "电力工程师"
+ job_apsr15_power_engineer_normal_plural:0 "电力工程师"
+ job_apsr15_power_engineer_normal_desc:0 "电力工程师的职责包括现场能源生产的整体控制，生产和消耗过程的优化，跟踪网络负荷峰值"
+ mod_job_apsr15_power_engineer_normal_add:0 "电力工程师"
+   
+ apsr15_planet_power_engineer_hive:0 "电力工蜂"
+ job_apsr15_power_engineer_hive:0 "电力工蜂"
+ job_apsr15_power_engineer_hive_plural:0 "电力工蜂"
+ job_apsr15_power_engineer_hive_desc:0 "这是控制普通技术人员的工作，确保稳定和不间断的运行的设施"
+ mod_job_apsr15_power_engineer_hive_add:0 "电力工蜂"
+   
+ apsr15_planet_power_engineer_machine:0 "电力单元"
+ job_apsr15_power_engineer_machine:0 "电力单元"
+ job_apsr15_power_engineer_machine_plural:0 "电力单元"
+ job_apsr15_power_engineer_machine_desc:0 "这个单元模型有一个改进的自主AI，它的主要任务是监控设备的运行，普通技术单元的工作，以及能源生产过程的优化"
+ mod_job_apsr15_power_engineer_machine_add:0 "电力单元"
+ 
+ 
+ 
+ apsr15_planet_geologist_normal:0 "星球物理学家"
+ job_apsr15_geologist_normal:0 "星球物理学家"
+ job_apsr15_geologist_normal_plural:0 "星球物理学家"
+ job_apsr15_geologist_normal_desc:0 "一名研究矿物的物理性质、化学和矿物组成的专家，分析了在极端深度采矿的方法"
+ mod_job_apsr15_geologist_normal_add:0 "星球物理学家"
+ 
+ apsr15_planet_geologist_hive:0 "物理学工蜂"
+ job_apsr15_geologist_hive:0 "物理学工蜂"
+ job_apsr15_geologist_hive_plural:0 "物理学工蜂"
+ job_apsr15_geologist_hive_desc:0 "在研究矿物的物理性质、化学成分和矿物组成的基础上，分析了极端深部开采的方法"
+ mod_job_apsr15_geologist_hive_add:0 "物理学工蜂"
+ 
+ apsr15_planet_geologist_machine:0 "物理学单元"
+ job_apsr15_geologist_machine:0 "物理学单元"
+ job_apsr15_geologist_machine_plural:0 "物理学单元"
+ job_apsr15_geologist_machine_desc:0 "研究矿物的物理性质、化学成分和矿物组成的特殊无人驾驶飞机模型，分析了在极端深度采矿的方法"
+ mod_job_apsr15_geologist_hive_add:0 "物理学单元"
+ 
+ 
+ 
+ apsr15_planet_agronomist_normal:0 "农学家"
+ job_apsr15_agronomist_normal:0 "农学家"
+ job_apsr15_agronomist_normal_plural:0 "农学家"
+ job_apsr15_agronomist_normal_desc:0 "具有丰富的农学知识的农业专家"
+ mod_job_apsr15_agronomist_normal_add:0 "农学家"
+ 
+ apsr15_planet_agronomist_hive:0 "农学工蜂"
+ job_apsr15_agronomist_hive:0 "农学工蜂"
+ job_apsr15_agronomist_hive_plural:0 "农学工蜂"
+ job_apsr15_agronomist_hive_desc:0 "工蜂监督土壤肥力和植物生长的维护"
+ mod_job_apsr15_agronomist_hive_add:0 "农学工蜂"
+ 
+ apsr15_planet_agronomist_machine:0 "农学单元"
+ job_apsr15_agronomist_machine:0 "农学单元"
+ job_apsr15_agronomist_machine_plural:0 "农学单元"
+ job_apsr15_agronomist_machine_desc:0 "农学单元监督土壤肥力和植物生长的维护"
+ mod_job_apsr15_agronomist_machine_add:0 "农学单元"
+ 
+ 
+   
+ apsr15_planet_servant_normal:0 "服务人员"
+ job_apsr15_servant_normal:0 "管理员"
+ job_apsr15_servant_normal_plural:0 "服务人员"
+ job_apsr15_servant_normal_desc:0 "员工的行政负担是巨大的，有必要考虑到不同种族的许多文化特征"
+ mod_job_apsr15_servant_normal_add:0 "管理员"
+   
+ apsr15_planet_servant_hive:0 "服务工蜂"
+ job_apsr15_servant_hive:0 "服务工蜂"
+ job_apsr15_servant_hive_plural:0 "服务工蜂"
+ job_apsr15_servant_hive_desc:0 "工蜂，拥有组织才能，能够与不同的文化和社会范式同时互动"
+ mod_job_apsr15_servant_hive_add:0 "服务工蜂"
+   
+ apsr15_planet_servant_machine:0 "服务单元"
+ job_apsr15_servant_machine:0 "服务单元"
+ job_apsr15_servant_machine_plural:0 "服务单元"
+ job_apsr15_servant_machine_desc:0 "服务单元，拥有组织才能，能够与不同的文化和社会范式同时互动"
+ mod_job_apsr15_servant_machine_add:0 "服务单元"
+  
+ 
+   
+ apsr15_planet_scientist_normal:0 "科研人员"
+ job_apsr15_scientist_normal:0 "科研人员"
+ job_apsr15_scientist_normal_plural:0 "科研人员"
+ job_apsr15_scientist_normal_desc:0 "科学馆的所有员工都拥有最高的资质，他们既从事科学馆的维护工作，也从事科研活动"
+ mod_job_apsr15_scientist_normal_add:0 "科研人员"
+   
+ apsr15_planet_scientist_hive:0 "科研工蜂"
+ job_apsr15_scientist_hive:0 "科研工蜂"
+ job_apsr15_scientist_hive_plural:0 "科研工蜂"
+ job_apsr15_scientist_hive_desc:0 "科学综合体的所有生物都具有最高的资格，它们既从事综合体本身的维护，也从事研究活动"
+ mod_job_apsr15_scientist_hive_add:0 "科研工蜂"
+   
+ apsr15_planet_scientist_machine:0 "科研单元"
+ job_apsr15_scientist_machine:0 "科研单元"
+ job_apsr15_scientist_machine_plural:0 "科研单元"
+ job_apsr15_scientist_machine_desc:0 "专门用于研究活动的无人机也支持该综合体的工作"
+ mod_job_apsr15_scientist_machine_add:0 "科研单元"
+ 
+ 
+ 
+ 
+ 
+ 

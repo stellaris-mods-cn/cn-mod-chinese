@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+HIVE:1 "思维调频"
+HIVE_DESC:0 "这种能精确作用于神经元的波能武器，能高效率地在目标行星上为所有民众生成蜂群思维人口特制。"
+tech_pk_hive:0 "巢心构筑器"
+tech_pk_hive_desc:0 "以特定频率传输的能量能够显著作用到生物体的大脑皮层，或者说，独立个体的思维核心。"
+FLEETORDER_DESTROY_PLANET_WITH_HIVE:0 "正在准备链接$PLANET|Y$上的民众"
+MESSAGE_DESC_FOR_HIVE:0 "被链接"
+mcpk.801.name:0 "突触构筑完成"
+mcpk.801.desc:0 "与蜂群思维的联系已完全建立。同一个意志在[From.GetName]上的民众中形成。"
+mcpk.801.tooltip:0 "突触构筑完成"
+HIVE_ACTION:0 "链接"

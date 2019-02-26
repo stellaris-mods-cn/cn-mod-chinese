@@ -1,0 +1,316 @@
+﻿l_simp_chinese:
+ ####################################
+ # Planetary Modifiers
+ ####################################
+ magic_world:0 "奥术世界"
+ magic_world_desc:0 "这个世界的角落和裂缝已经被魔法所充满，大地呼唤着它的所有居民"
+
+ magic_life:0 "传说中的野兽"
+ magic_life_desc:0 "传说中的野兽在这个世界漫游，从可怜和无限危险到美丽和神圣各种各样。"
+
+ magic_wild_life:0 "奥术野生动物"
+ magic_wild_life_desc:0 "这个世界的神奇之处在于融入了当地的野生动物，使它们变得更加奇妙。"
+
+ magic_storms:0 "奥术风暴"
+ magic_storms_desc:0 "纯奥术能量的混乱风暴遍历这个世界，偶尔会干扰所有世俗和神秘技术。"
+
+ magic_weather:0 "奥术飓风"
+ magic_weather_desc:0 "这个星球拥有几个巨大的神奇风暴系统，具有如此强大的力量，以至于它们已经形成了基本的感知力。"
+
+ magic_tectonics:0 "奥数构造"
+ magic_tectonics_desc:0 "这个世界地震与其神奇的核心的混响同时发生。"
+
+ magic_volcanoes:0 "奥术火山"
+ magic_volcanoes_desc:0 "这个世界上的火山爆发时，周围区域会喷出魔力。"
+
+ ####################################
+ # Overwritten Vanilla Deposits
+ ####################################
+ # Energy
+ m_d_arid_highlands:0 "Arid Highlands"
+ m_d_arid_highlands_desc:1 "An elevated, dry ecoregion bearing sparse vegetation of desert grasses and scrubs."
+ m_d_hot_springs:0 "Hot Springs"
+ m_d_hot_springs_desc:1 "Groundwater heated by geothermal processes steams from the surface of these springs."
+ m_d_searing_desert:0 "Searing Desert"
+ m_d_searing_desert_desc:1 "With little precipitation, extreme temperatures and limited vegetation, these sandy deserts are hostile to most forms of life."
+ m_d_geothermal_vent:0 "Geothermal Vents"
+ m_d_geothermal_vent_desc:1 "These fumaroles vent steam and noxious gases from deep within the planet's crust."
+ m_d_underwater_vent:0 "Underwater Vents"
+ m_d_underwater_vent_desc:1 "Metalliferous sediments react with superheated water in the planet's crust, venting chemicals along the seabed where tectonic plates diverge."
+ m_d_rushing_waterfalls:0 "Rushing Waterfalls"
+ m_d_rushing_waterfalls_desc:1 "Picturesque vistas formed when rivers flow over the cliff-sides of steep mountainsides."
+ m_d_frozen_gas_lake:0 "Frozen Gas Lake"
+ m_d_frozen_gas_lake_desc:1 "Formed under immense pressure in a bygone age, deep-freeze temperatures have kept the gases dissolved in these rimey lakes in a solid state."
+ m_d_bubbling_swamp:0 "Bubbling Swamp"
+ m_d_bubbling_swamp_desc:1 "A hotbed of aquatic plants, insects, and swamp gas, this wetland is characterized by slow-moving water and rich vegetation."
+ m_d_fuming_bog:0 "Fuming Bog"
+ m_d_fuming_bog_desc:1 "A noxious quagmire covered in low vegetation, mosses and fungi, where gases steam from the water's surface."
+ m_d_tempestous_mountain:0 "Tempestuous Mountain"
+ m_d_tempestous_mountain_desc:1 "Wind-torn vegetation clings to the high crags and stormy cliffs of these rainy mountains."
+ m_d_dust_desert:0 "Dust Desert"
+ m_d_dust_desert_desc:0 "A vast expanse of sand that covers scattered pockets of rare and valuable Volatile Motes. Extraction is possible with the right equipment."
+ m_d_dust_caverns:0 "Dust Caverns"
+ m_d_dust_caverns_desc:1 "Rare Volatile Motes condense in these sandy caves and hidden hollows."
+ m_d_numas_breath:0 "Numa's Breath"
+ m_d_numas_breath_desc:0 "This stable vent reaching into the planet's crust was created by $NAME_Caravaneer_Fleet2$."
+ 
+ # Minerals
+ m_d_crystal_forest:0 "Crystal Forest"
+ m_d_crystal_forest_desc:1 "Glittering crystals grow like hoarfrost in these exotic forests."
+ m_d_veiny_cliffs:0 "Ore-Veined Cliffs"
+ m_d_veiny_cliffs_desc:1 "Bands of valuable mineral ores run like veins through these exposed cliff faces."
+ m_d_ore_rich_caverns:0 "Ore-Rich Caverns"
+ m_d_ore_rich_caverns_desc:1 "These deep caverns are rife with metallic and mineral ore deposits."
+ m_d_mineral_fields:0 "Mineral Fields"
+ m_d_mineral_fields_desc:1 "Geological upheaval exposed these useful minerals to the planet's surface long ago."
+ m_d_rich_mountain:0 "Rich Mountain"
+ m_d_rich_mountain_desc:1 "These mountainsides glint with rich ore resources and precious stones."
+ m_d_crystal_reef:0 "Crystal Reef"
+ m_d_crystal_reef_desc:1 "Crystal lattices glimmer amongst the rocks and corals of this sandy reef."
+ m_d_prosperous_mesa:0 "Prosperous Mesa"
+ m_d_prosperous_mesa_desc:1 "This flat-topped hill has steep sides lined with useful resources."
+ m_d_crystalline_caverns:0 "Crystalline Caverns"
+ m_d_crystalline_caverns_desc:1 "Like enormous geodes, these caves are filled on all sides with rare crystals."
+ m_d_submerged_ore_veins:0 "Submerged Ore Veins"
+ m_d_submerged_ore_veins_desc:1 "Useful ore deposits line parts of the ocean floor, providing opportunities for deep-sea mining"
+ 
+ # Food
+ m_d_bountiful_plains:0 "Bountiful Plains"
+ m_d_bountiful_plains_desc:1 "Fertile soils and tall grasses cover these sweeping plains, providing rich potential for farmlands."
+ m_d_nutritious_mudland:0 "Nutritious Mudlands"
+ m_d_nutritious_mudland_desc:1 "A watery slurry of clay, silt, and loam stretches across the horizon, where low vegetation flourishes."
+ m_d_green_hills:0 "Green Hills"
+ m_d_green_hills_desc:1 "Rolling hills covered in greenery and fertile soils."
+ m_d_forgiving_tundra:1 "Fair Tundra"
+ m_d_forgiving_tundra_desc:1 "Sedges, shrubs and lichens cover this high-latitude biome, where the subsoil permafrost is nevertheless covered in more fertile sediment."
+ m_d_rugged_woods:0 "Rugged Woods"
+ m_d_rugged_woods_desc:1 "Cold, rocky woods with herbaceous understories."
+ m_d_boggy_fens:0 "Boggy Fens"
+ m_d_boggy_fens_desc:1 "These low-lying wetlands provide a wealth of plant nutrients."
+ m_d_lush_jungle:0 "Lush Jungle"
+ m_d_lush_jungle_desc:1 "With a dense canopy and nigh-impenetrable vegetation density, these jungles are poor in soil quality, but rich in plant-life and fruit-bearing trees."
+ m_d_lichen_fields:0 "Lichen Fields"
+ m_d_lichen_fields_desc:1 "Dewy moss, lichens and fungi form a plush carpet that stretches across these rocky lands."
+ m_d_fungal_caves:0 "Fungal Caves"
+ m_d_fungal_caves_desc:1 "These extensive cave networks are covered in many species of edible fungi, which require neither sunlight nor fertile soil to flourish."
+ m_d_fungal_forest:0 "Fungal Forest"
+ m_d_fungal_forest_desc:1 "In lieu of trees, towering mushrooms dominate these fecund forests, the enormous caps of fungal giants blotting out sunlight to create the perfect environment for a rich variety of smaller specimens."
+ m_d_fertile_lands:0 "Fertile Lands"
+ m_d_fertile_lands_desc:1 "This vast stretch of open plains provides ideal farmland."
+ m_d_marvelous_oasis:0 "Marvelous Oasis"
+ m_d_marvelous_oasis_desc:1 "A shimmering jewel of water and greenery in a barren wasteland."
+ m_d_great_river:0 "Great River"
+ m_d_great_river_desc:1 "A slow-flowing river of enormous volume provides water and vegetation for a rich abundance of life."
+ m_d_black_soil:0 "Black Soil"
+ m_d_black_soil_desc:1 "With a remarkably high moisture capacity and high amounts of chemicals integral to plant life, these soils promise impressive agricultural yields."
+ m_d_teeming_reef:0 "Teeming Reef"
+ m_d_teeming_reef_desc:1 "A vibrant ecosystem brimming with corals, fish, mollusks, mammals, invertebrates, and all kinds of edible marine life."
+ m_d_tropical_island:0 "Tropical Island"
+ m_d_tropical_island_desc:1 "From fruit laden trees to plentiful fauna, the bounties of this paradisaical island promise a rich harvest."
+ m_d_metal_boneyard:0 "Metal Boneyards"
+ m_d_metal_boneyard_desc:1 "The hollowed-out metal skeletons of fallen infrastructure seem almost to groan as the wind whistles through them."
+ m_d_organic_landfill:0 "Organic Landfills"
+ m_d_organic_landfill_desc:1 "Toxic biohazard waste rots and fumes in vast heaps under the sun."
+
+ # Earth
+ m_d_scandinavian_reclamation_sector:0 "Scandinavian Reclamation Sector"
+ m_d_scandinavian_reclamation_sector_desc:0 "Reclamation efforts in the late 22nd century eliminated all but the most stubborn pockets of radiation, and mutation levels are now at an all-time low since the Containment Breach."
+ m_d_saharan_irrigation_project:0 "Saharan Irrigation Project"
+ m_d_saharan_irrigation_project_desc:0 "Few today remember the vicious ridicule that Operation Green Sahara faced when it was first proposed by Professor Izquierdo."
+ m_d_mesopotamian_urban_corridor:0 "Mesopotamian Urban Corridor"
+ m_d_mesopotamian_urban_corridor_desc:0 "The megalopolis that stretches along most of the Fertile Crescent is in itself a monument to this ancient birthplace of civilization."
+ m_d_boswash_metropolitan_axis:0 "BosWash Metropolitan Axis"
+ m_d_boswash_metropolitan_axis_desc:0 "The BosWash Riots traumatized an entire generation and led to sweeping legal reforms. Never Forget!"
+ m_d_mauritanian_security_zone:0 "Mauritanian Security Zone"
+ m_d_mauritanian_security_zone_desc:0 "Unexploded munitions are still occasionally found near the compound where Colonel Tetchu and the remnants of his brigade made their famous last stand."
+ m_d_great_albertan_crater:0 "Great Albertan Crater"
+ m_d_great_albertan_crater_desc:0 "When 711494 Satis approached Earth and triggered the Great Panic of '72, everyone thought this was it - the Big One had finally arrived. Fortunately, it wasn't big enough to cause an extinction event. Unfortunately, it wiped out much of Alberta."
+ m_d_pacific_algae_tracts:0 "Pacific Algae Tracts"
+ m_d_pacific_algae_tracts_desc:0 "Invisible until you plunge beneath the waves, the algae tracts seem to stretch into infinity."
+ m_d_delhi_sprawl:0 "Delhi Sprawl"
+ m_d_delhi_sprawl_desc:0 "Lakshmi Commerce Tower was the tallest building on Earth for the better part of the 22nd century, and its unique shape remains an iconic feature of the Delhi skyline."
+ m_d_pearl_river_agglomerate:0 "Pearl River Agglomerate"
+ m_d_pearl_river_agglomerate_desc:0 "The first region on Earth to be officially designated a megacity. Several other developing urban regions would eventually adopt their own versions of the Golden Delta's successful anti-pollution policies."
+ m_d_great_pacific_garbage_patch:0 "£blocker£ Great Pacific Garbage Patch"
+ m_d_great_pacific_garbage_patch_desc:0 "A swirling miasma of plastic refuse covers a good portion of Earth's largest ocean."
+ m_d_failing_infrastructure_earth:0 "$d_failing_infrastructure$"
+ m_d_failing_infrastructure_earth_desc:0 "$d_failing_infrastructure_desc$"
+
+
+ # Event
+ m_d_migrating_forests:0 "Migrating Forests"
+ m_d_migrating_forests_desc:1 "The mobile forests of this world frequently migrate en masse to new regions, disrupting efforts at building roads, power lines and other infrastructure."
+ m_d_migrating_forest_reserve:0 "Migrating Forest Reserve"
+ m_d_migrating_forest_reserve_desc:1 "This entire region has been set aside for the migrating forests that are native to this world. Here they can roam in peace, without causing damage to urban areas."
+ m_d_junk_wastes:0 "Junk Wastes"
+ m_d_junk_wastes_desc:1 "The wastes stretch as far as one can see, with occasional pieces of larger junk jutting up out of the ground."
+ m_d_junk_canals:0 "Junk Canals"
+ m_d_junk_canals_desc:1 "These narrow canals snake around the junk piles, and some of the adjacent soil is surprisingly fertile."
+ m_d_junk_hollows:0 "Junk Hollows"
+ m_d_junk_hollows_desc:1 "These hollows deep beneath the surface junk would serve well as isolated reactor chambers."
+ m_d_irradiated_valley:0 "Irradiated Valley"
+ m_d_irradiated_valley_desc:1 "A solarflare has washed this isolated valley with heavy radiation."
+ m_d_valley_of_zanaam:0 "Valley of Zanaam"
+ m_d_valley_of_zanaam_desc:0 "This valley is home to a mysterious obelisk that is covered in letters from a dead alien language. It hums with power and those in its proximity suffer headaches."
+ m_d_abandoned_primitive_homesteads:0 "Abandoned Primitive Homesteads"
+ m_d_abandoned_primitive_homesteads_desc:1 "These abandoned homesteads were once inhabited by a society of reptiles. They still populate the planet, but have since lost all capacity for sapient though."
+ m_d_the_zone:0 "Zone A"
+ m_d_the_zone_desc:0 "A thirteen-by-thirteen kilometer stretch of land on this planet is a ruin of unknown origin, littered with many bizarre and unique alien artifacts. Bafflingly, it also produces sensations of deep contentment in its visitors."
+ m_d_hyperfertile_valley:0 "Hyperfertile Valley"
+ m_d_hyperfertile_valley_desc:1 "The soil in this valley is extremely fertile, and it is covered in intense greenery."
+ m_d_ancient_mining_site:0 "Ancient Mining Site"
+ m_d_ancient_mining_site_desc:1 "The site of an ancient mining operation. Despite its age, much of the equipment can still be operated."
+ m_d_toy_factory_complex:0 "Toy Factory Complex"
+ m_d_toy_factory_complex_desc:0 "Complex machinery ceaselessly molds complex polymers into small items of varying shapes and inscrutable purpose."
+ m_d_mutant_landfill:0 "Mutant Landfill"
+ m_d_mutant_landfill_desc:0 "A putrid mass of dead mutated horrors. Their volatile organic matter has twisted together to form a structure of sorts."
+ m_d_ancient_bombardment_craters:0 "Ancient Bombardment Craters"
+ m_d_ancient_bombardment_craters_desc:1 "This world was subjected to intense orbital bombardment long ago. Parts of the surface are still pockmarked with impact craters."
+ m_d_ancient_battlefield:0 "Ancient Battlefield"
+ m_d_ancient_battlefield_desc:1 "The civilization that once inhabited this world was destroyed by an invading force from somewhere beyond their solar system. This ancient battlefield is littered with ancient debris from their desperate last stand."
+ m_d_irradiated_ruins:0 "Irradiated Ruins"
+ m_d_irradiated_ruins_desc:1 "Remnants from a massive nuclear war waged by the two global superpowers that once inhabited this world."
+ m_d_impact_crater:0 "Impact Crater"
+ m_d_impact_crater_desc:1 "A crater from a large meteor impact. Minerals from the meteor itself can still be found at the site."
+ m_d_underground_vault:0 "Underground Vault"
+ m_d_underground_vault_desc:0 "A massive underground vault, intended as a bomb shelter by this world's original inhabitants. The vault's occupants turned on each other when their food ran out."
+ m_d_underground_vault_2:0 "$d_underground_vault$"
+ m_d_underground_vault_2_desc:0 "A massive underground vault, intended as a bomb shelter by this world's original inhabitants. The vault contains a huge machine park along with stores of mining equipment."
+
+ m_d_harvester_fields:0 "Harvester Fields"
+ m_d_harvester_fields_desc:0 "Vast fields of dense, edible vegetation where ancient solar-powered harvesters assist in gathering crops."
+ m_d_worm_mine:0 "$building_worm_mine$"
+ m_d_worm_mine_desc:0 "$building_worm_mine_desc$"
+ m_d_worm_farm:0 "$building_worm_farm$"
+ m_d_worm_farm_desc:0 "$building_worm_farm_desc$"
+ m_d_bore_mining_zone:0 "Bore Mining Zone"
+ m_d_bore_mining_zone_desc:1 "Rows upon rows of remote operation mining platforms where highly pressurized water jets pump valuable minerals from underground rock beds via boreholes."
+ m_d_underground_farm:0 "Subterranean Farming Caverns"
+ m_d_underground_farm_desc:0 "A network of vast caverns which contain numerous fungal farms, hunting areas, and lakes teeming with edible flora and fauna."
+ m_d_underground_mine:0 "Subterranean Mining Sites"
+ m_d_underground_mine_desc:0 "Underground tunnels lead to a variety of mineral-rich ore veins inaccessible from the surface."
+ m_d_underground_generator:0 "Subterranean Generator Areas"
+ m_d_underground_generator_desc:0 "Subterranean rivers and the geothermal energy from the molten core of the planet offer vast potential for energy generation."
+ m_d_underground_contact_zone:0 "Subterranean Contact Zone"
+ m_d_underground_contact_zone_desc:0 "An area where Subterranean dwellers and Surfacers can work together towards peace and prosperity."
+
+ ####################################
+ # Planetary Deposits
+ ####################################
+ d_stone_giants:0 "岩石魔像"
+ d_stone_giants_desc:0 "岩石魔像生活在这个世界的山脉中"
+
+ d_dragons:0 "龙"
+ d_dragons_desc:0 "成群的龙在这个世界漫游。"
+
+ d_magic_vortex:0 "奥术飓风"
+ d_magic_vortex_desc:0 "这个世界上存在着巨大的漫游风暴。 如果有正确的措施，可以说服其离开人口密集的中心。"
+
+ d_magic_volcano:0 "奥术火山"
+ d_magic_volcano_desc:0 "响应其行星核心的运动，这座火山在喷发时喷出魔力结晶而不是熔岩。"
+
+ d_ritual_site:0 "灵脉汇聚"
+ d_ritual_site_desc:0 "在这个位置有很多灵脉穿过并且产生谐波收敛，会增强这里举行的所有仪式的效果。"
+
+ d_magic_pets:0 "奥术宠物"
+ d_magic_pets_desc:0 "当地的野生动物已经变成了更加美丽，温顺的生物。 他们会成为优秀的宠物。"
+
+ d_magic_forest:0 "奥术森林"
+ d_magic_forest_desc:0 "森林完全由奥术变种组成，同样奇妙和危险。"
+
+ d_roaming_storms:0 "奥术风暴"
+ d_roaming_storms_desc:0 "充满奥术能量的风暴在这个世界漫游，为进一步研究奥术提供了充足的机会。"
+
+ d_mana_springs:0 "魔力温泉"
+ d_mana_springs_desc:0 "在这些泉水中，魔力从地下深处升起。"
+ 
+ d_mana_lakes:0 "魔力湖"
+ d_mana_lakes_desc:0 "充满纯净的奥术能量的湖泊，没有什么可以进入而保持不变。"
+
+ d_mana_plains:0 "魔力场"
+ d_mana_plains_desc:0 "结晶魔法在这些领域中缓慢生长。"
+
+ mod_building_mana_harvester_max:0 "Max $building_mana_harvester$"
+ mod_building_tempest_appeasement_max:0 "Max $building_tempest_appeasement$"
+ mod_building_magizoologist_department_max:0 "Max $building_magizoologist_department$"
+ mod_building_dragon_preserve_max:0 "Max $building_dragon_preserve$"
+ mod_building_giant_liason_max:0 "Max $building_giant_liason$"
+ mod_building_magic_storm_facility_max:0 "Max $building_magic_storm_facility$"
+ mod_building_ritual_site_max:0 "Max $building_ritual_site$"
+
+ ####################################
+ # Decisions
+ ####################################
+ decision_arcane_world:0 "唤醒计划"
+ decision_arcane_world_desc:0 "通过一个以世界为中心的大规模复杂仪式，我们设法将其核心注入魔力，唤醒所有可居住世界中的魔像实体。"
+ decision_arcane_world_effects:0 "将这个世界变成一个奥术世界，随机生成一组新的修正和相应的土地资源。\n\n所有魔法增强的建筑物将 §H不再需要 £arcane_technology£§! .\n\nCosts §Y10000 (£energy£ £minerals£ £food£ £mana_crystals£ £arcane_technology£), £influence£200§!"
+
+ decision_convert_world:0 "奥术转换"
+ decision_convert_world_desc:0 "通过成千上万的 §M$job_magic_clerk_plural$§!, §M$job_magic_administrator_plural$§!, and §M$job_lord_magic_plural$§! 的共同努力，我们设法用奥术技术为这个世界的基础设施注入了活力"
+ decision_convert_world_effects:0 "将所有适用的非增强型建筑物转换为奥术增强型建筑物。\n\n花费 §Y100 £influence£, 1000 £arcane_technology£§!"
+
+
+ decision_focus_energy:0 "§G乡村焦点§!: 发电"
+ decision_focus_energy_desc:0 "我们在这颗星球的乡村地区将专注于能源生产。"
+ decision_focus_energy_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_technician$ 职位。"
+
+ decision_focus_minerals:0 "§G乡村焦点§!: 矿业"
+ decision_focus_minerals_desc:0 "我们在这颗星球上的乡村地区将专注于采矿。"
+ decision_focus_minerals_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_miner$ 职位。"
+
+ decision_focus_food:0 "§G乡村焦点§!: 农业"
+ decision_focus_food_desc:0 "我们在这颗星球的乡村地区将专注于农业。"
+ decision_focus_food_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_farmer$ 职位。"
+
+ decision_unfocus_rural:0 "§G清除乡村焦点§!"
+ decision_unfocus_rural_dsec:0 "我们在这颗星球上的乡村地区将重新提供平均的职位。"
+ decision_unfocus_rural_effects:0 "在 [Root.GetName] 上的乡村地区将提供 §G+1§! ($job_technician$, $job_miner$, $job_farmer$) 职位。"
+
+ decision_no_focus_rural:0 "§G没有乡村焦点§!"
+ decision_no_focus_rural_desc:0 "我们在这颗星球上的乡村地区不会关注任何一个地区。"
+ decision_no_focus_rural_effects:0 "清除那些讨厌的焦点清单。"
+
+ decision_focus_alloys:0 "§H工业焦点§!: $job_magic_foundry$ 公会"
+ decision_focus_alloys_desc:0 "我们在这颗星球上的工业区将优先考虑 $job_magic_foundry$ 公会。"
+ decision_focus_alloys_effects:0 " [Root.GetName] 上的工业区将提供 §G+4§!$job_magic_foundry$ 职位。"
+
+ decision_focus_consumer_goods:0 "§H工业焦点§!: $job_magic_artisan$ 公会"
+ decision_focus_consumer_goods_desc:0 "我们在这颗星球上的工业区将优先考虑 $job_magic_artisan$ 公会。"
+ decision_focus_consumer_goods_effects:0 " [Root.GetName] 上的工业区将提供 §G+4§!$job_magic_artisan$ 职位。"
+
+ decision_unfocus_industry:0 "§H清除工业焦点§!"
+ decision_unfocus_industry_desc:0 "我们在这颗星球上的工业区将重新提供平均的职位。"
+ decision_unfocus_industry_effects:0 " [Root.GetName] 上的工业区将提供 §G+2§! ($job_magic_artisan$, $job_magic_foundry$) 工作。"
+
+ decision_no_focus_industry:0 "§H没有工业焦点§!"
+ decision_no_focus_industry_desc:0 "我们在这颗星球上上的工业区将不会调整他们的工业输出。"
+ decision_no_focus_industry_effects:0 "清除那些讨厌的焦点清单。"
+
+
+ decision_focus_motes:0 "§M炼金术焦点§!: 高爆粉尘"
+ decision_focus_motes_desc:0 "我们在这颗星球上的炼金术士将专注于高爆粉尘生产。"
+ decision_focus_motes_effects:0 " [Root.GetName] 上的炼金术士将消耗 §R-1§!£arcane_technology£ 生产 §G+1§！£volatile_motes£ 。"
+
+ decision_focus_gases:0 "§M炼金术焦点§!: 外星天然气"
+ decision_focus_gases_desc:0 "我们在这颗星球上的炼金术士将专注于外星天然气生产。"
+ decision_focus_gases_effects:0 " [Root.GetName] 上的炼金术士将消耗 §R-1§！£arcane_technology£ 生产 §G+1§！£exotic_gases£ 。"
+
+ decision_focus_crystals:0 "§M炼金术焦点§!: 稀有水晶"
+ decision_focus_crystals_desc:0 "我们在这颗星球上的炼金术士将专注于稀有水晶生产。"
+ decision_focus_crystals_effects:0 " [Root.GetName] 上的炼金术士将消耗 §R-1§！£arcane_technology£ 生产 §G+1§！£rare_crystals£ 。"
+
+ decision_focus_dark_matter:0 "§M炼金术焦点§!: 暗物质"
+ decision_focus_dark_matter_desc:0 "我们在这颗星球上的炼金术士将专注于暗物质生产。"
+ decision_focus_dark_matter_effects:0 " [Root.GetName] 上的炼金术士将消耗 §R-1§！£arcane_technology£ 生产 §G+1§！£sr_dark_matter£ 。"
+
+ decision_focus_living_metal:0 "§M炼金术焦点§!: 活金属"
+ decision_focus_living_metal_desc:0 "我们在这颗星球上的炼金术士将专注于生活金属生产。"
+ decision_focus_living_metal_effects:0 " [Root.GetName] 上的炼金术士将消耗 §R-1§！£arcane_technology£ 生产 §G+1§！£sr_living_metal£ 。"
+
+ decision_unfocus_alchemists:0 "§M清除炼金术焦点§!"
+ decision_unfocus_alchemists_desc:0 "我们在这颗星球上的炼金术士将停止生产稀有战略资源。"
+ decision_unfocus_alchemists_effects:0 " [Root.GetName] 上的炼金术士将会生产 §G+5§!£arcane_technology£."
+
+ decision_no_focus_alchemists:0 "§M没有炼金术焦点§!"
+ decision_no_focus_alchemists_desc:0 "我们在这颗星球上的上的炼金术士不会产生任何稀有战略资源。"
+ decision_no_focus_alchemists_effects:0 "清除那些讨厌的焦点清单。"

@@ -1,0 +1,17 @@
+﻿l_english:
+
+sm_patrol_offices: "Patrol Offices"
+sm_patrol_offices_desc: "A facility to manage trade routes: patrols, freighter escorts, and first strikes against piracy hotspots.\n"
+sm_patrol_offices_desc_modifier: "Grants §G+10%§! Trade Value and then a further §G+2§! Naval Capacity and §G+5§! Trade Protection per Hangar Bay."
+
+sm_munitions_bay: "Munitions Bay"
+sm_munitions_bay_desc: "Specialise for gun batteries, improving the station's range and hull integrity.\n"
+sm_munitions_bay_desc_modifier: "Adds §G+10%§! Hull, §G+10%§! Armor and §G+15%§! Weapons Range per Gun Battery."
+ 
+sm_missile_command: "Missile Command"
+sm_missile_command_desc: "Specialise for missile batteries, improving the station's firepower and hull integrity.\n"
+sm_missile_command_desc_modifier: "Adds §G+10%§! Hull, §G+10%§! Armor and §G+10%§! Weapons Damage per Missile Battery."
+
+sm_proving_ground: "Proving Ground"
+sm_proving_ground_desc: "An advanced experimental assembly plant that repurposes existing assets to expediate ship construction. Untested. No refunds.\n"
+sm_proving_ground_desc_modifier: "Adds §G+10%§! Ship Build Speed and §G-5%§! Ship Build Cost per Anchorage."

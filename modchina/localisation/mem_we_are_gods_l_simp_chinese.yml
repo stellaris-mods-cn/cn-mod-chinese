@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ # We are gods
+ #Written by Maria
+ #Code by Matthew Betts
+
+ # ROOT = PLANET SCOPE
+ # FROM = SHIP SCOPE
+
+ mem_we_are_gods.2.name:0 "我们是神？"
+ mem_we_are_gods.2.desc:0 "似乎这个星球上的土著开始相信我们是...神。当我们的一个研究小组被抓住时，当地人跪下来而不是攻击科考队，这让我们陷入了尴尬的境地。围绕着我们的宗教在整个社会中一直在稳步上升，其中一些宗教将我们称为那些将“提升到更高层次存在”的宗教。尽管它们基本上奉献了自己，但这确实可以更容易地绑架当地人进行进一步研究。"
+ mem_we_are_gods.2.a:0 "有趣的。"
+ mem_we_are_gods.2.b:0 "神...你几乎可以喜欢上这些原始人了。"
+ mem_we_are_gods.2.c:0 "至少他们是走在正确的道路上...某种程度上来说"

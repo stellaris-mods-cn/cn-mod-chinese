@@ -1,0 +1,101 @@
+﻿l_simp_chinese:
+
+d_ancestor_ruins:0 "古代遗迹"
+d_ancestor_ruins_desc:0 "这些遗址看起来很古老，它们的起源是个谜。"
+
+d_ancestor_mineral_vault:0 "古代矿物存储室"
+d_ancestor_mineral_vault_desc:0 "扫描仪探测到隐藏在地表下的大量矿物质。"
+
+d_ancestor_ship_graveyard:0 "古代星舰墓地"
+d_ancestor_ship_graveyard_desc:0 "整个遗迹表面散布着古代星际飞船的残骸。"
+
+
+beacon_of_infinity_system_initializer_NAME:0 "无尽灯塔"
+beacon_of_infinity_system_initializer_DESC:0 "从一个黄色恒星星系开始的环世界（4环段），附近星系有一个完整环世界和一个破碎环世界"
+
+broken_ringworld_system_initializer_NAME:0 "破碎世界"
+broken_ringworld_system_initializer_DESC:0 "从一个随机恒星星系开始的环世界（1环段）"
+
+deutschland_system_system_initializer_NAME:0 "德国"
+deutschland_system_system_initializer_DESC:0 "从一个黄色恒星星系开始的环世界（8环段），附近星系有一个完整环世界和一个破碎环世界"
+
+dystopia_system_system_initializer_NAME:0 "反乌托邦"
+dystopia_system_system_initializer_DESC:0 "从一个红色恒星星系开始的环世界（1环段），附近星系有一个破碎环世界，一个屏障星球和一个损坏的研究中枢巨型建筑"
+
+eternal_system_system_initializer_NAME:0 "永世荣光"
+eternal_system_system_initializer_DESC:0 "从一个中子星星系开始的环世界（4环段），附近星系有一个完整环世界和一个破损的环世界"
+
+fynri_system_system_initializer_NAME:0 "静谧花园"
+fynri_system_system_initializer_DESC:0 "从一个中子星星系开始的环世界（4环段），附近星系有一个完整环世界和一个破损的环世界"
+
+immortal_system_system_initializer_NAME:0 "不朽王座"
+immortal_system_system_initializer_DESC:0 "从一个脉冲星星系开始的环世界（4环段），附近星系有一个完整环世界和一个破损的环世界"
+
+infinity_system_system_initializer_NAME:0 "无尽锻造"
+infinity_system_system_initializer_DESC:0 "从一个黑洞星系开始的环世界（4环段），附近星系有一个完整环世界和一个破损的环世界"
+
+random_ringworld_system_initializer_NAME:0 "随机环世界"
+random_ringworld_system_initializer_DESC:0 "从一个随机恒星星系开始的环世界"
+
+random_rich_ringworld_system_initializer_NAME:0 "随机环世界（富饶）"
+random_rich_ringworld_system_initializer_DESC:0 "从一个随机恒星星系开始的环世界"
+
+random_op_ringworld_system_initializer_NAME:0 "随机环世界（OP）"
+random_op_ringworld_system_initializer_DESC:0 "从一个随机恒星星系开始的环世界"
+
+shadow_system_system_initializer_NAME:0 "阴影世界"
+shadow_system_system_initializer_DESC:0 "从一个黑洞星系开始的环世界（4环段），附近星系有一个破碎环世界，一个屏障星球和一个损坏的研究中枢巨型建筑"
+
+utopia_system_initializer_NAME:0 "乌托邦"
+utopia_system_initializer_DESC:0 "从一个蓝色恒星星系开始的环世界（8环段）"
+
+massive_ringworld_system_initializer_NAME:0 "巨型环世界"
+massive_ringworld_system_initializer_DESC:0 "从一个随机恒星星系开始的环世界（8环段），附近星系有两个完整环世界"
+
+ringworld_empire.1.name:0 "在[Root.GetName]的发现"
+ringworld_empire.1.desc:0 "传感器报告了一些不寻常的金属读数，这些读数来自§H[Root.GetName]§!. 在对该区域进行一些挖掘之后, 我们的团队有所发现. 一些古代舰船的残骸埋葬于此, 但不知为什么, 他们看起来非常眼熟. 一队考古学家很快加入调查，令人不安的是我们发现这些舰船的设计于祖先§H[Root.Owner.GetSpeciesAdj]§!的原始设计图纸相匹配.这怎么可能? 这些船比我们记录的§H[Root.Owner.GetSpeciesAdj]§! 历史还早, 以当时的条件不可能进行太空飞行.\n\n虽然生物学家看起来不太愿意修改现有的关于§H[Root.Owner.GetSpeciesAdj]§!的进化历史, 但是我们的物理学家和工程师对这些船上的所使用的技术感到兴奋.这些武器超出了我们目前对物理学的理解，而这些飞船组装和制造的方式也超出了我们在工程方面的经验. 为了一劳永逸地解决这个问题，我们的顶尖科学家提出了一个修复项目，以确定这些机器是否真的能够进行太空飞行. 当然，这需要大量的资源。\n\n我们的祖先是谁？谁建造了我们赖以生存的巨大建筑？这些船只残骸似乎为我们的过去找到了答案."
+ringworld_empire.1.a:0 "我们能让他们再飞一次吗？"
+ringworld_empire.1.b:0 "把它们变成金属。"
+ringworld_empire.1.c:0 "研究他们的技术。"
+ringworld_empire.1.d:0 "别管他们。古代历史是无关紧要的。"
+
+ringworld_empire.2.name:0 "古代船只修复完毕"
+ringworld_empire.2.desc:0 "引擎开始嗡嗡作响. 起初它是微弱的，像是来自遥远而神秘的过去的回声. 但随后引擎轰鸣了起来，一艘早被认为已死亡的军舰被唤醒. 武器, 生命保障设施, 超空间推进器, 全部都上线运作了, 船上的人工智能说起了 §H[Root.Owner.GetSpeciesAdj]§!的语言. 它曾被埋葬，但不再被遗忘.\n\n我们设法用这种方式重新激活了更多的船只, 我们的海军上将也情不自禁地把手放在这些船只上，看着它们行动起来. 然而，我们的科学家警告不要对任何船只的技术进行逆向工程，或者安装我们自己的改装，因为以我们现有的科学仍然不能理解它们的工作原理. '我不知道怎么做，但可以运作而且不会爆炸,' 一位工程师愤怒地说. '所以不要毁了它.'\n\n现在越来越明显的是，我们的祖先并不像我们所想象的是原始人的后裔那样. 我们的的先所拥有的技术远远超过了我们自己, 他们建造了我们现在生活的环世界. 一些考古学家认为, 我们曾是银河系的一个顶尖势力，但由于某种原因，我们的祖先失去了一切，成为我们所认识的原始人. 但是这又如何?\n\n不管是有意还是无意，我们的祖先留给我们这些军舰让我们去寻找答案.这是一个错误，还是他们希望有一天他们的后代能够在银河系中重新获得他们应有的地位？他们是不是发现了一些无法形容的恐怖，还是遇到了许多敌人，以至于出于自我保护而放弃了帝国？不管答案是什么，我们都要去重新发现它."
+ringworld_empire.2.a:0 "把这些飞船送上轨道！"
+
+ringworld_empire.3.name:0 "敌人暴露了"
+ringworld_empire.3.desc:0 "在我们祖先战舰上存储的加密文件中, 经常提到§H敌人§!. 最新升级的翻译软件发现我们的对手对我们的祖先开启了战争，这让无数的文明化为灰烬. 最早的参考文献§H敌人§!中提到，这不过是我们的对手对我们抱有敌意. 在接下来的几个世纪里, 竞争加剧，让这个国家被我们简单地称为§H敌人§!.\n\n它从代理战争开始. 他们的附属国渴望得到他们霸主的青睐，为考验他们的实力和对敌人的决心，与他们主人竞争对手的附属国家发生了冲突. 由于他们的每一个优势都是为了战争而准备的，狂热的公民们聚集在一起，他们对这场将演变成地狱的战争知之甚少. 我们现在知道了 §H巨像: 世界毁灭者§! 敌人在这场战争中首次部署的武器之一. 我们祖先的对手部署的另一种武器代号为“复仇女神”，在战斗中被摧毁，它的残骸被我们的祖先打捞起来研究.\n\n复仇女神的下落是绝密的，但经过多年的调查，我们在§H[Root.GetName]§!上找到了这个隐藏的设施！. 科学家们要求恢复这种武器，就像我们对我们祖先的军舰所做的那样."
+ringworld_empire.3.a:0 "我们可以试试."
+ringworld_empire.3.b:0 "不，把它报废做金属."
+ringworld_empire.3.c:0 "只学习它的技术."
+ringworld_empire.3.d:0 "别管它。这个武器太危险了."
+
+ringworld_empire.4.name:0 "复仇女神修好了"
+ringworld_empire.4.desc:0 "当复仇女神翱翔于§H[Root.GetName]§!,我们的科学家忍不住想知道这到底是不是我们祖先的计划. 复仇女神不仅是为了研究敌人的弱点，而且明显，我们的祖先希望它再次在他们的旗帜下飞行.复仇女神仍然骄傲地戴着这个敌人的徽章，从敌方舰队后面的超空间跳出来，用它的武器炸毁他们，并震惊敌方海军上将，他们正被自己的一艘船炸毁. 至少，那是我们祖先复仇的想法.\n\在某种程度上，这项修复工程被放弃了。我们的祖先大概已经输掉了战争，成为了我们在§H[Root.Owner.GetSpeciesAdj]§!中认识的原始人历史. 但人们不得不怀疑，, 如果他们没有输掉战争，我们现在会在哪里? 更重要的是, §H敌人§! 发生了什么？他们驱逐了我们的祖先? 他们还在银河系的某个地方吗? 如果是这样，他们还会轻视我们吗？或者他们会热情地欢迎我们回来?"
+ringworld_empire.4.a:0 "我想我们会知道的."
+
+ringworld_empire.5.name:0 "新环世界设计"
+ringworld_empire.5.desc:0 "自我们的掌握银河权势以来，我们的建筑师一直在努力为我们的星环世界设计新的外观。这些设计现在准备好了。也许是时候让我们的星环世界焕然一新了？"
+ringworld_empire.5.a:0 "马上这样做."
+ringworld_empire.5.b:0 "用于将来的施工."
+
+ringworld_empire.6.name:0 "暗物质能量?"
+ringworld_empire.6.desc:0 "经过多年的研究，我们的科学家终于得出结论：事实上，驱动我们祖先的飞船的能量源是一种暗物质，它扭曲了重力，从而可以被提炼成燃料.事实上，一些科学家甚至相信一个完整的文明可以建立在这个单一的能量源之上——这真是深不可测.\n\n现在，我们只能将这项技术的其他潜在应用理论化.如果我们研究这种能源，肯定会使我们更接近几千年前祖先的水平."
+ringworld_empire.6.a:0 "立即开始研究!"
+ringworld_empire.6.b:0 "这是什么？把这些东西扔掉。矿物才有用."
+ringworld_empire.6.c:0 "理论化，但不要做傻事，好吗?"
+ringworld_empire.6.d:0 "也许有些秘密最好埋在地下…"
+
+RINGWORLD_FLEET:0 "修船"
+RINGWORLD_FLEET_DESC:0 "这些船看起来很旧…真的很旧. 然而，他们的设计似乎并非来自异国他乡. 在这些可怕的外壳上发现的铭文与目前在我们国家博物馆展出的古代文献有着惊人的相似之处.然而，无法想象我们的祖先能够进行太空飞行.\n\n研究船只的操作需要时间，同时确保它们不会因按下错误的按钮而意外爆炸。"
+
+RINGWORLD_TITAN:0 "祖先的复仇女神"
+RINGWORLD_TITAN_DESC:0 "幸运的是，我们的祖先已经完成了大部分的翻译工作，并用他们古老的语言记录了“复仇女神”的工作. 如果我们在项目上投入大量资源，我们可以尝试恢复“复仇女神”的能源\n\n像往常一样，我们会采取预防措施并有充足的时间来安排，为了确保这个东西不会意外爆炸，."
+
+
+
+
+
+
+
+

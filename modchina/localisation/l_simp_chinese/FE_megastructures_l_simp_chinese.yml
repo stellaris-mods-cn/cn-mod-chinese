@@ -1,0 +1,80 @@
+﻿l_simp_chinese:
+ 
+ #Megastructures
+ think_tank_fe:0 "古代科研枢纽"
+ think_tank_fe_desc:0 "一个古老而久经风霜的科研枢纽，仍然纯粹靠意志的力量维系着。这个巨大的综合体是由被遗忘的技术创造出来的。"
+ think_tank_fe_DESC:0 "一个古老而久经风霜的科研枢纽，仍然纯粹靠意志的力量维系着。这个巨大的综合体是由被遗忘的技术创造出来的。"
+ think_tank_fe_MEGASTRUCTURE_DETAILS:0 ""
+  #building
+  building_gaming_center:0 "游戏中心"
+  building_gaming_center_desc:0 "一个模拟游戏中心。谈谈类固醇VR吧!"
+  building_gaming_center_triggered_effect:0 "只要人口有智慧，它就会给你§G+2%§!幸福度。"
+   #civics
+   civic_disinterested_gamers:0 "堕落肥宅"
+   FALLEN_EMPIRE_DISINTERESTED_GAMERS:0 "这个失落帝国更关注他们的电子游戏，而不是其他东西(或许还有不可告人东西)。"
+   civic_lethargic_gamers:0 "懒惰的捍卫者"
+   AWAKENED_EMPIRE_LETHARGIC_GAMERS:0 "虽然这是一个觉醒帝国，但他们对自己的游戏被打扰并不高兴……"
+   civic_experienced_gamers:0 "恶意攻击者"
+   AWAKENED_EMPIRE_EXPERIENCED_GAMERS:0 "玩家们从游戏中被激怒了，现在开始使用他们在游戏中学到的所有技能。"
+   civic_genocidal_fe:0 "失落灭绝者帝国" #change this
+   FALLEN_EMPIRE_GENOCIDAL_FE:0 "这个失落帝国对他们对其他种族的仇恨有点狂热。据说他们甚至拥有大规模杀伤性武器……不要靠得太近可能是个好主意。"
+   civic_genocidal_ae:0 "觉醒灭绝者帝国" #change this
+   FALLEN_EMPIRE_GENOCIDAL_AE:0 "觉醒帝国不再倒下，强大的武器已经被充分调动起来消灭所有的异族。只是希望你不是下一个被攻击者"
+    #personalities
+    personality_fallen_empire_gamers:0 "$civic_disinterested_gamers$"
+    personality_fallen_empire_gamers_desc:0 "$FALLEN_EMPIRE_DISINTERESTED_GAMERS$"
+    personality_lethargic_awakened_fallen_empire_gamers:0 "$civic_lethargic_gamers"
+    personality_lethargic_awakened_fallen_empire_gamers_desc:0 "$AWAKENED_EMPIRE_LETHARGIC_GAMERS$"
+    personality_experienced_awakened_fallen_empire_gamers:0 "$civic_experienced_gamers$"
+    personality_experienced_awakened_fallen_empire_gamers_desc:0 "$AWAKENED_EMPIRE_EXPERIENCED_GAMERS$"
+    personality_fallen_empire_xenophobe_genocidal:0 "$civic_genocidal_fe$"
+    personality_fallen_empire_xenophobe_genocidal_desc:0 "$FALLEN_EMPIRE_GENOCIDAL_FE$"
+    personality_awakened_fallen_empire_xenophobe_genocidal:0 "$civic_genocidal_fe$觉醒" #may want to change
+    personality_awakened_fallen_empire_xenophobe_genocidal_desc:0 "$FALLEN_EMPIRE_GENOCIDAL_AE$"
+     #diplomatic messages
+     FEM_DG_NEUTRAL_GREETING_01:0 "不是现在，好戏才刚刚开始。"
+     FEM_DG_NEUTRAL_GREETING_02:0 "这是我在光荣的战斗中碾碎你们的地方。哦,一个访客。你看不出我很忙吗?"
+     FEM_DG_NEUTRAL_GREETING_03:0 "你让我输掉了比赛，干得好。(#`Д´)"
+     FEM_DG_HOSTILE_GREETING_01:0 "你剥夺了我宝贵的闲暇时间。快点，在我决定挑战你之前。(`皿´)"
+     FEM_DG_FRIENDLY_GREETING_01:0 "哦，你好，[From.GetSpeciesNamePlural]，你想加入我们的多人游戏吗?(๑´ㅂ`๑) "
+     FEM_DG_WAR_GREETING_01:0 "我们将赢得这场比赛，然后我们将进入第二轮。"
+     FEM_DG_VASSAL_GREETING_01:0 "你破坏了比赛，现在我们不能再和平比赛了，祝贺你。(╯－＿－)╯╧╧ "
+     FEM_DG_VASSAL_GREETING_DISLOYAL_01:0 "你破坏了我们的游戏，那你就等着被我们破坏。(｀Д´)"
+     
+     FEM_LG_ARROGANT_GREETING_01:0 ""
+     FEM_LG_BELLIGERENT_GREETING_01:0 ""
+     FEM_LG_OVERLORD_GREETING_01:0 ""
+     FEM_LG_MECH_OVERLORD_GREETING_01:0 ""
+     
+     FEM_EG_ARROGANT_GREETING_01:0 ""
+     FEM_EG_BELLIGERENT_GREETING_01:0 ""
+     FEM_EG_CUSTODIAL_GREETING_01:0 ""
+     FEM_EG_CUSTODIAL_GREETING_02:0 ""
+     FEM_EG_OVERLORD_GREETING_01:0 ""
+     FEM_EG_MECH_OVERLORD_GREETING_01:0 ""
+     
+     FEM_GFE_NEUTRAL_GREETING_01:0 "我恨你。"
+     FEM_GFE_NEUTRAL_GREETING_02:0 "唉，在我那个年代，我们每天都发射巨大的死亡之光。"
+     FEM_GFE_HOSTILE_GREETING_01:0 "想要将一个物种从银河系表面消灭的呼声似乎更倾向于把你作为目标。"
+     FEM_GFE_FRIENDLY_GREETING_01:0 "你实际上是在讨好我们伟大的国家?祝贺你。"
+     FEM_GFE_WAR_GREETING_01:0 "请问有种族呼吁种族灭绝吗?"
+     FEM_GFE_WAR_GREETING_02:0 "想象一下，如果我们的杀手系统激活，速度会有多快。对仁慈心存感激。"
+     FEM_GFE_VASSAL_GREETING_01:0 "祝贺你。你打破了游戏规则，打败了我们光荣的帝国。"
+     FEM_GFE_VASSAL_GREETING_DISLOYAL_01:0 "$FEM_DG_VASSAL_GREETING_DISLOYAL_01$"
+     
+     FEM_GAE_ARROGANT_GREETING_01:0 "享受你的欺骗，尽情的享受吧?"
+     FEM_GAE_BELLIGERENT_GREETING_01:0 ""
+     FEM_GAE_OVERLORD_GREETING_01:0 ""
+     FEM_GAE_MECH_OVERLORD_GREETING_01:0 ""
+      #opinion modifiers
+      FEM_opinion_encroaching_on_borders:0 "$opinion_encroaching_borders$"
+      FEM_opinion_genocidal:0 "$opinion_fanatic_purifiers_vs_xeno$"
+      FEM_opinion_genocidal_maniacs:0 "$opinion_fanatic_purifiers$"
+      FEM_opinion_observers_genocidal_maniacs:0 "$opinion_fanatic_purifiers$"
+      FEM_opinion_interrupted_gaming:0 "中断游戏"
+      FEM_opinion_stole_gaming:0 "$FEM_opinion_interrupted_gaming$"
+        #events
+        FEMawakening.2.name:0 "来自§H[FROM.GetName]§!"
+        FEMawakening.2.desc.a:0 "如果异种人有足够的勇气再次攻击我们，那么也许是时候把他们§R放回原位§!了。"
+        FEMawakening.2.desc.b:0 "你设法拿走了我们的一个星球。祝贺你。现在，让我们看看你能不能控制住它。"
+        FEMawakening.2.a:0 "这可能不会有好结果。"

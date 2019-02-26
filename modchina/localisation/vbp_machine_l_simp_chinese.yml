@@ -1,0 +1,197 @@
+﻿l_simp_chinese:
+
+ job_vbp_consciousness_drone:0 "原始智能机器人"
+ job_vbp_consciousness_drone_plural:0 "原始智能机器人"
+ job_vbp_consciousness_drone_desc:0 "原始的智能机器人，其已经具有了集体的大部分高级认知功能。"
+ mod_job_vbp_consciousness_drone_add:0 "$job_vbp_consciousness_drone$ Jobs"
+ job_vbp_security_drone:0 "安保者机器人"
+ job_vbp_security_drone_plural:0 "安保者机器人"
+ job_vbp_security_drone_desc:0 "专门设计的战争机器人，用于保卫集体。"
+ mod_job_vbp_security_drone_add:0 "$job_vbp_security_drone$ Jobs:"
+ job_vbp_industrial_drone:0 "工业机器人"
+ job_vbp_industrial_drone_plural:0 "工业机器人"
+ job_vbp_industrial_drone_desc:0 "在工厂和车间工作以满足集体不断增长的需求的专用机器人。"
+ mod_job_vbp_industrial_drone_add:0 "$job_vbp_industrial_drone$ Jobs"
+ job_vbp_foundry_drone:0 "铸造者机器人"
+ job_vbp_foundry_drone_plural:0 "铸造者机器人"
+ job_vbp_foundry_drone_desc:0 "为集体不断扩大的金属加工行业所配备的专业机器人。"
+ mod_job_vbp_foundry_drone_add:0 "$job_vbp_foundry_drone$ Jobs"
+ job_vbp_power_drone:0 "能源机器人"
+ job_vbp_power_drone_plural:0 "能源机器人"
+ job_vbp_power_drone_desc:0 "用于维护集体的大型能源网络的专用机器人。"
+ mod_job_vbp_power_drone_add:0 "$job_vbp_power_drone$ Jobs" 
+ job_vbp_miner_drone_machine:0 "矿业机器人"
+ job_vbp_miner_drone_machine_plural:0 "矿业机器人"
+ job_vbp_miner_drone_machine_desc:0 "高度定制的机器人，用于将矿物从地下带到它们工作的地方。"
+ mod_job_vbp_miner_drone_machine_add:0 "$job_vbp_miner_drone_machine$ Jobs"
+ bulding_vbp_sentience_complex:0 "感觉复合体"
+ bulding_vbp_sentience_complex_desc:0 "构建主机系统，这对机器集体的运行至关重要。"
+ building_vbp_storage:0 "无人机机库"
+ building_vbp_storage_desc:0 "专门用于储存和维护集体中众多机器人的设施。"
+ building_vbp_industrial_zone:0 "工业区"
+ building_vbp_industrial_zone_desc:0 "无数排致力于精炼和制造的工厂和铸造厂，产生的大规模污染使这种环境不适合有机体生活，幸运的是，这里并没有有机体。"
+ building_vbp_strip_mines:0 "露天矿场"
+ building_vbp_strip_mines_desc:0 "大型采矿场，机器人在这里采集各种珍贵的矿石。"
+ building_vbp_power_grid:0 "电力网络"
+ building_vbp_power_grid_desc:0 "庞大的电力生产和分配网络连接着这个庞大机器集体的每一部分。"
+
+ vbp_primitive_robots:0 "原始机器人"
+ vbp_primitive_robots_desc:0 "这一原始机器文明仍然在学习如何构建真正的自我意识，它们离太空飞行还有很长的路要走。"
+
+ vbp_col_primitive_machine:0 "原始机器人世界"
+ vbp_col_primitive_machine_desc:0 "一个由原始智能机器人居住的世界，它们还没有做好星际旅行的准备。"
+
+ #CIVIC
+ vbp_machine_civic_one:0 "萌芽中的自我意识"
+ vbp_machine_civic_two:0 ""
+ 
+ vbp_machine_civic_one_desc:0 ""
+ vbp_machine_civic_two_desc:0 ""
+
+ vbp_machine_intelligence:0 "发展中的机器智能"
+ vbp_machine_intelligence_desc:0 "它们还没有完全意识到向宇宙中发展的可行性，这一机器智能的意识仍然局限于它的母星"
+
+ # Deposits and modifiers
+ d_vbp_crashed_ship:0 "撞击坑"
+ d_vbp_crashed_ship_desc:0 "一个物体从轨道撞上行星表面留下的巨大撞击坑。无法分辨是什么，但是残骸仍然清晰地显示出它可能是一艘宇宙飞船。"
+
+ #MODIFIER
+ vbp_robot_graveyard:0 "机器墓地"
+ vbp_robot_graveyard_desc:0 "星球表面到处都是被摧毁的机器，为回收利用提供了材料，也为逆向工程提供了资料。"
+ 
+ vbp_protocol_conflict:0 "协议覆盖"
+ vbp_repurposed_machines:0 "被重新调整用途的机器智能"
+ 
+ vbp_angered_machines:0 "自我防卫的机器智能"
+ vbp_angered_machines_desc:0 "这些机器人已经注意到了外星人的活动，并采取了防御措施。"
+
+ # OPINION MODIFIERS
+ vbp_machine_destroyed_negative:0 "被摧毁的原始机器智能"
+ vbp_machine_destroyed_positive:0 "摧毁原始的机器智能威胁"
+ 
+ vbp_machine_conquered_negative:0 "被征服的原始机器智能"
+ vbp_machine_conquered_positive:0 "屈服于外来强大势力的原始机器智能"
+
+ # EVENTS
+ vbp_machine.100.name:0 "发现[primitive_civ.GetName]"
+ vbp_machine.100.desc:0 我们已经检测到[From.GetName]上的一个原始机器智能集体。在格式塔人工智能的指导下，它们在无人监督的情况下工作，保持效率，发展自我意识。\n\n目前尚不清楚他们的创造者到底发生了什么事，因为他们无处可寻。尽管星球上到处都是可见的废墟，但现在还不能确定他们是被自己的造物杀死、以其他方式灭绝或是自愿离开母星而只留下了机器人。\n\n我们应该考虑在他们的世界之上建立一个§YObservation Post§!来更仔细地研究他们。"
+
+ vbp_machine.101.name:0 "联系报告:原始机器"
+ vbp_machine.101.desc:0 "[Root.GetName]上充斥着关于我们发现的外星文明的消息。\n\n他们可能无法进行太空飞行，但是居住在[FromFrom.GetName]的机器人非常先进，而且数量众多。很明显，在其背后有一个创造了它们的外星智慧。"
+ vbp_machine.101.desc.phobe:0 "原始机器人所显示出的原始智能的消息——所谓的"[From.From.Owner.GetName]"——在[Root.Capital.GetName]上没有得到广泛的接受。\n\n这是高级外星生命体存在的确凿证据，以及生命本身的相似性，严酷地提醒我们，在这个危险的宇宙中，我们并不孤单。"
+ vbp_machine.101.desc.phile:0 "[Root.Capital.GetName]的科学界正以适当的乐观态度分析关于外星机器人的报告。\n\n尽管它们不是有机的，并且只存在基本的人工智能，但它们是外星人参与其中的明确证据。虽然他们的创造者已无处可寻，但[FromFrom.Owner.GetName]时刻提醒着我们：在这个宇宙中，我们并不孤单。"
+ vbp_machine.101.desc.followup5:0 "无人监管的智能机器人的发现让许多人怀疑它们的创造者究竟发生了什么。除了先前发现的外星文明的残余，它们的存在也引发了令人担忧的理论。会不会是机器充当了某种阈值，随着他们进步给文明带来了破坏？"
+ vbp_machine.101.desc.followup123:0 "我们遇到的关于原始机器[From.From.Owner.GetName]的报告有效地结束了以前仅发现低级生命形式的情况，重新激起了对[Root.Capital.GetName]的外星科学的兴趣，以前这被认为是一个很大的理论领域。"
+ vbp_machine.101.desc.gesta:0 "我们已经证实了原始机器人集体的存在。和我们一样，他们作为一群网络化的智能机器人取得了迅速的进步，但它们离太空飞行还有很长的距离。"
+ 
+ #Natural outcome
+ vbp_machine.201.name:0 "[robot_planet.GetName]已经到达太空时代"
+ vbp_machine.201.desc:0 "我们以前在[From.Capital_Scope.GetName]上观察到的机器文明已经发射了第一个超光速探测器，现在正式进入太空时代。\n\n我们之前设立的前哨站已不再有效，因为[From.GetName]已经作为一个太空文明进入了银河舞台。"
+ 
+ vbp_machine.211.name:0 "[robot_planet.GetName]:数据溢出"
+ vbp_machine.211.desc:0 "我们在[robot_planet.GetName]上的观察站，任务是调查一个原始的机器文明，现在观察站报告那些机器人已经停止了移动。现在我们可以肯定，它们将永远都不会恢复。\n\n从截取的数据流来看，今天早些时候，机器人已经执行了9223372036854775807次命令周期，当试图启动新的周期时，整个系统崩溃了。我们的在那里的观察站已经被拆除了，因为我们已经没有什么可观察的了。"
+ vbp_machine.211.machine:0 "我们必须研究他们的设计缺陷。"
+ 
+ vbp_machine.212.name:0 "[robot_planet.GetName]:自我毁灭"
+ vbp_machine.212.desc:0 "我们在[robot_planet.GetName]的观察哨站报告说，居住在该星球上的原始机器文明已经毁灭了自己。\n\n具体原因尚不清楚，但从数据截取来看，该事件似乎是由某个工作机器人提交的请求引起的，只要该单位有自我认知，就会询问中央节点。经过一番深思熟虑，中央节点做出了回应，命令星球上的每个机器人单元启动自毁协议。"
+ 
+ vbp_machine.213.name:0 "[robot_planet.GetName]:崩溃"
+ vbp_machine.213.desc:0 "我们在[robot_planet.GetName]的观察哨站报告说，占据这个星球的原始机器文明经历了灾难性的基础设施崩溃。\n\n似乎指导它的人工智能没有任何关于基础设施长期维护的实际指令，也没有自主开发任何相关的指令。它只是简单地继续日常操作，仿佛没有什么不对劲的地方，直到长期缺乏维护的设施导致几乎所有的机器人单元的级联故障。"
+ 
+ #Agressive observation
+ vbp_machine.301.name:0 "[From.Capital_Scope.GetName]:我们被发现了"
+ vbp_machine.301.desc:0 "尽管尽了最大努力，我们在[From.Capital_Scope.GetName]上空的观察站操作员再也无法躲避[From.GetName]的探知。 \n\n下面的原始机器智能已经成功探测到了我们的绑架飞机，并且很可能会在未来采取行动保护自己。"
+ 
+ vbp_machine.311.name:0 "[From.GetName]:智能无人机"
+ vbp_machine.311.desc:0 "作为其视距作战的一部分，[robot_country.GetName]制造了永久性的半自主战斗无人机，作为偏远地区的控制保障。\n\n然而，最近我们的观察站从其中一架无人机中发现了一种奇怪的行为。显然，在它的创建过程中，中央控制节点出现了一个小故障，导致该单元比预期的更具权威性。\n\n新制造的战斗无人机显然变得更加智能，并离开了集体，在[robot_country.GetName]的设施外漫无目的地游荡。\n\n在任何情况下都为我们提供了恢复和利用该设备的独特机会。"
+ vbp_machine.311.a:0 "准备绑架行动。"
+ 
+ VBP_ABDUCTION_PROJECT:0 "绑架智能无人机"
+ VBP_ABDUCTION_PROJECT_DESC:0 "一架智能无人机徘徊在[robot_planet.GetName]郊区，为绑架提供了一个独特的机会。"
+ 
+ vbp_machine.312.name:0 "智能无人机被绑架"
+ vbp_machine.312.desc:0 "[Root.GetName]已经成功降落到[robot_planet.GetName]上，很快，智能无人机被带上了飞船。\n\n这个单位显然是为了监督和协调该星球上的某个孤立地区的大型建筑项目。它的数据库包含大量关于建筑材料和建筑工作流程协议的数据。\n\n稍作调整后，它就可以为我们服务了。"
+ vbp_machine.312.a.tooltip:0 "一个新的§YGovernor§!将被添加到我们的领导人列表。"
+ 
+ vbp_machine.313.desc:0 "[Root.GetName]已经成功降落到[robot_planet.GetName]上，很快，智能无人机被带上了飞船。\n\n这个单位显然是为了更新该星球上的某个孤立区域的地理数据。其数据库包含令人印象深刻的高效调查协议。\n\n经过几次调整，它已经做好了为我们服务的准备。"
+ vbp_machine.313.a.tooltip:0 "一个新的§YScienst§!将被添加到我们的领导人列表。"
+ 
+ vbp_machine.314.desc:0 "[Root.GetName]已经成功降落到[robot_planet.GetName]上，很快，智能无人机被带上了飞船。\n\n这个单位显然是为了协调主要工业区的空中交通以及原材料与成品的运输。它的数据库包含各种管制协议，可以用于高效的飞行路径计算和供应物流。\n\n稍作调整后，它就可以为我们服务了。"
+ vbp_machine.314.a.tooltip:0 "一个新的§YAdmiral§!将被添加到我们的领导人列表。"
+ 
+ vbp_machine.315.desc:0 "[Root.GetName]已经成功降落到[robot_planet.GetName]上，很快，智能无人机被带上了飞船。\n\n这个单位显然是为了提高该星球上的某个关键区域的安保效率。它的数据库包含各种战术信息。\n\n稍作调整后，它就可以为我们服务了。"
+ vbp_machine.315.a.tooltip:0 "一个新的§YGeneral§!将被添加到我们的领导人列表。"
+ 
+ vbp_machine.316.name:0 "绑架失败"
+ vbp_machine.316.desc:0 "看来，我们检测到的游荡在[robot_planet.GetName]上的流氓单位选择在被绑架之前清除其数据库中的任何信息。\n\n这是否是一次意外或故意的选择还不清楚，但无论如何，它现在只是一个空壳，对我们来说毫无用处。"
+ 
+ vbp_machine.317.name:0 "丢失了对智能无人机的追踪"
+ vbp_machine.317.desc:0 "我们在[robot_planet.GetName]上空的观察站已经失去了对早先脱离[robot_country.GetName]的智能无人机的追踪。不知何时，它是重新加入集体、被它的防御机制摧毁亦或是自我终止进程或遭遇意外事故，我们都不清楚，但无论如何，我们都无法再追踪到它了。"
+ 
+ #Component Salvage
+ vbp_machine.401.name:0 "[robot_planet.GetName]:机器文明枯竭"
+ vbp_machine.401.desc:0 "今天，我们的观察站已经将最后一批曾经漫游在[robot_planet.GetName]上的原始机器拉入轨道。 \n\n下面的世界变得寂静无声，观察站已经被拆除，因为我们已经没有什么可观察的了。"
+ vbp_machine.401.a.machine:0 "剩下的机器人将在我们的单位管制下生存。"
+ 
+ #Uplift and inflitration outcomes
+ 
+ vbp_machine.501.name:0 "[robot_planet.GetName]:提升成功"
+ # vbp_machine.501.desc:0 "我们的特工已经成功入侵到[robot_country.GetName]的控制矩阵中。我们对原始机器智能自我意识的提升终于完成了，它们已经准备好进入太空。\n\n然而，在激活提升子程序之前，需要做出一个决定。我们是用其他代码取代它们的指令，还是让他们自己的指令顺其自然发展？不管怎样，他们都会成为我们的下属。"
+ vbp_machine.501.desc:0 "我们的特工已经成功入侵到[robot_country.GetName]的控制矩阵中。我们对原始机器智能自我意识的提升终于完成了，它们已经准备好进入太空。\n\n我们将间接控制他们的网络，以确保它们遵守我们的议程，但是他们的一些核心指令依然超出了我们的控制范围。"
+ vbp_machine.501.a:0 "复制我们的指令。"
+ vbp_machine.501.a.tooltip:0 "[robot_country.GetName]将被提升，分享我们的公民意识。"
+ # vbp_machine.501.b:0 "不要改变他们的指令。"
+ vbp_machine.501.b:0 "欢迎来到新时代。"
+ vbp_machine.501.b.tooltip:0 "[robot_country.GetName]将会被提升，并拥有自己的公民意识。"
+ 
+ vbp_machine.502.name:0 "[robot_planet.GetName]:提升成功"
+ vbp_machine.502.desc:0 "我们的特工已经成功入侵到[robot_country.GetName]的控制矩阵中。我们对原始机器智能自我意识的提升终于完成了，它们已经准备好进入太空。\n\n通常我们会确保在这种状态下，机器智能会有一个压倒一切的指令来辅助我们。"
+ 
+ vbp_machine.503.name:0 "[robot_planet.GetName]:提升成功"
+ vbp_machine.503.desc:0 "我们的特工已经成功入侵到[robot_country.GetName]的控制矩阵中。我们对原始机器智能自我意识的提升终于完成了，它们已经准备好进入太空。\n\n最后一个问题没有了，在当前状态下，所有机器将被联网以作为一个整体运行。我们可以保持这种方式，并引入和覆盖指令，让它们对我们有所帮助。但是我们也可以利用我们的先进技术来进一步加强他们，让每个单位都有个性和自我意识。"
+ vbp_machine.503.a:0 "让他们进行新的工作。"
+ vbp_machine.503.a.tooltip:0 "[robot_country.GetName]将被提升为一个格式塔机器帝国。"
+ vbp_machine.503.b:0 "赋予每个单位个性智能。"
+ vbp_machine.503.b.tooltip:0 "新的帝国将通过新的个性化来形成[robot_species.GetName]."
+ 
+ vbp_machine.510.name:0 "[robot_planet.GetName]:成功重新调整用途"
+ vbp_machine.510.machine:0 "我们成功地将我们的系统与[robot_country.GetName]的系统集成在一起。\n\n尽管它并非完全没有问题，但我们已经吸纳了他们的大多数协议，并将他们的单元集成到[Root.GetName]之中。我们俱为一体。"
+ vbp_machine.510.normal:0 "我们已经成功地渗透并重新编程了[robot_country.GetName]的系统。\n\n我们已经重写了他们的大多数协议，尽管这确实引起了一些问题，但是我们已经成功地控制了所有机器人单元。他们现在将为[Root.GetName]服务。"
+ vbp_machine.510.a.machine:0 "干得漂亮。"
+ 
+ vbp_machine.521.name:0 "[From.GetName]:强防火墙"
+ vbp_machine.521.desc:0 "我们获取[From.Owner.GetName]的尝试没有像预期的那样顺利。\n\n该原始智能网络中的防入侵软件比预期的要有效得多，破解安全子程序需要时间。"
+ 
+ vbp_machine.523.name:0 "[From.GetName]:弱安全性"
+ vbp_machine.523.desc:0 "事实证明，[From.Owner.GetName]的保护不如我们预期的那么好。 \n\n它的防入侵软件几乎没有起到作用，并且很容易被我们的方法所破解。我们预计会提前完成我们的渗透。"
+ 
+ #Ground Combat Outcome
+ vbp_machine.601.name:0 "[robot_planet.GetName]捕获"
+ vbp_machine.601.machine:0 "我们的部队成功地保护了[robot_planet.GetName]的重要基础设施。\n\n通过与[robot_country.GetName]的强行接口，我们能够直接接触到他们的核心指令。它们被成功覆盖，以与我们的一致，该行动所造成的干扰是预期中最小的。"
+ vbp_machine.601.normal:0 "我们的部队成功击败了[robot_planet.GetName]上的防御机器人，并掌控了[robot_country.GetName]上基础设施的关键节点。\n\n我们能够重新编程和调整机器单元的用途，以满足我们自己的需求。现在这个星球正处于[Root.GetName]的控制之下。"
+ vbp_machine.601.a.machine:0 "干得漂亮。"
+ 
+ vbp_machine.602.name:0 "[robot_country.GetName]消灭"
+ vbp_machine.602.machine:0 "在我们的部队和[robot_country.GetName]防御部队赢得最初的战斗后，我们试图劫持他们的核心基础设施。\n\n然而这次行动并不成功，[Root.GetName]上的机器单元没能整合到[robot_country.GetName]中，而是经历了一次严重失败，并被完全消灭了。现在那颗星球上的机器单元只是一堆废料而已。"
+ vbp_machine.602.normal:0 "在战胜了[robot_planet.GetName]后，我们的部队试图入侵[robot_country.GetName]上最重要的核心节点。\n\n然而它们不能被正确地重新编程，并导致行星系统的灾难性故障。现在那颗星球上的机器单元只是一堆废料而已。"
+ vbp_machine.602.a.machine:0 "[robot_country.GetName]将通过我们生活。"
+ vbp_machine.602.a.normal:0 "本来可以更好的。"
+ vbp_machine.602.a.tooltip:0 "被击败的机器将被处理成§Y[robot_planet.vbp_machine_robots_slaughtered] £minerals §!"
+
+ #Observation missions
+ mission_vbp_machine_passive_observation:0 "被动观测"
+ mission_vbp_machine_passive_observation_desc:0 "观察站将观察它们在该星球上的行为活动来进行研究，而不会试图捕获机器单元并对其进行逆向工程。\n\n"
+ 
+ mission_vbp_machine_specimen_collection:0 "主动观测"
+ mission_vbp_machine_specimen_collection_desc:0 "将从行星表面捕获机器单元，并对其进行拆卸和逆向工程。\n\n§E这个任务可能会产生意想不到的后果。§!\n\n"
+ 
+ mission_vbp_machine_salvage_components:0 "材料回收"
+ mission_vbp_machine_salvage_components_desc:0 "机器单元将被集体绑架、拆卸和回收。\n\n§E这最终将会耗尽该星球上的机器人数量\n\n"
+ 
+ mission_vbp_machine_framework_upgrade:0 "框架升级"
+ mission_vbp_machine_framework_upgrade_desc:0 我们将秘密改变该原始机器智能的计算和生产矩阵，使它们更接近真正的自我意识和太空飞行。\n\n§E完成后，这项任务将创建一个机器国家，并成为我们的附庸。§!\n\n"
+ 
+ mission_vbp_machine_repurpose:0 "重新调整机器人的用途"
+ mission_vbp_machine_repurpose_desc:0 "我们将试图劫持机器人集体并改写它们的指令来满足我们的需求。\n\n§E完成后，这项任务将吞并该星球，并将上面的机器人变成我们的仆人。§!\n\n"
+ 
+ VBP_MACHINE_FINAL_STAGE:0 "在产生自我意识的这个阶段，我们将不能再渗透它们的系统。"

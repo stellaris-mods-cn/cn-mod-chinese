@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+####################################
+# 職業のローカライゼーション
+####################################
+
+ job_mikinotsukasa:0 "酿酒官"
+ job_mikinotsukasa_plural:0 "酿酒官"
+ job_mikinotsukasa_desc:0 "酿酒官将谷物制作成酒类，酒类作为奢侈品在市场上流通。"
+ job_mikinotsukasa_effect_desc:0 "￡job_artisan￡ 酿酒官将￡food￡ §Y$food$§!制作为￡consumer_goods￡ §Y$consumer_goods$§!"
+ mod_job_mikinotsukasa_add:0 "酿酒官职业"
+ mod_job_mikinotsukasa_per_pop:0 "$VALUE$ POP提供酿酒官的职业§G+1§!"
+ mod_job_mikinotsukasa_per_pop_short:0 "\n$VALUE$ ￡pop￡ 提供￡mod_job_mikinotsukasa_add￡ §G+1§! "
+ 
+ job_planet_magistrate:0 "行星政府官员"
+ job_planet_magistrate_plural:0 "行星政府官员"
+ job_planet_magistrate_desc:0 "行星政府官员是被各个行星所任命的，负责管理行星内所有政府机关。这个极度繁忙的职位是由丰厚的工资和福利来支撑的。"
+ job_planet_magistrate_effect_desc:0 "￡job_administrator￡ 行星政府官员将￡energy￡ §Y$energy$§!变为￡mod_trade_value_add￡ §Y$TRADE_VALUE$§!和少量的￡mod_planet_amenities_add￡ §Y$PLANET_AMENITIES_TITLE$§!,并减少一些￡crime￡ §Y$PLANET_CRIME_TITLE$§! "
+ mod_job_planet_magistrate_add:0 "行星政府官员职业"
+ mod_job_planet_magistrate_per_pop:0 "$VALUE$ POP行星政府官员职业§G+1§!"
+ mod_job_planet_magistrate_per_pop_short:0 "\n$VALUE$ ￡pop￡ 提供￡mod_job_planet_magistrat_add￡ §G+1§! "
+ 
+ job_zhuhou:0 "诸侯"
+ job_zhuhou_plural:0 "诸侯"
+ job_zhuhou_desc:0 "诸侯是拥有巨大权力的世袭高官。虽然是支撑国家运行的重要支柱、却同时也是君主无法掌控的双刃剑。"
+ job_zhuhou_effect_desc:0 "￡job_noble￡ 诸侯扩大国家的规模并且生产大量的￡mod_trade_value_add￡ §Y$TRADE_VALUE$§!和￡energy￡ §Y$energy$§!作为代价，消费￡mod_planet_amenities_add￡ §Y$PLANET_AMENITIES_TITLE$§!并增加￡crime￡ §Y$PLANET_CRIME_TITLE$§! "
+ mod_job_zhuhou_add:0 "诸侯"
+ mod_job_zhuhou_per_pop:0 "$VALUE$ POP诸侯职业§G+1§!"
+ mod_job_zhuhou_per_pop_short:0 "\n$VALUE$ ￡pop￡ 提供￡mod_job_planet_zhuhou_add￡ §G+1§! "
+ 
+ job_ascensionner:0 "升灵师"
+ job_ascensionner_plural:0 "升灵师"
+ job_ascensionner_desc:0 "升灵师能够和因为留恋而彷徨的灵魂对话，消除留恋，指引其成佛。"
+ job_ascensionner_effect_desc:0 "￡job_priest￡ 升灵师将￡food￡ §Y$food$§! ￡consumer_goods￡ §Y$consumer_goods$§! 变为￡mod_planet_amenities_add￡ §Y$PLANET_AMENITIES_TITLE$§! 和 ￡exotic_gases￡ §Y$exotic_gases$§!""
+ mod_job_ascensionner_add:0 "升灵师职业"
+ mod_job_ascensionner_per_pop:0 "$VALUE$ POP升灵师职业§G+1§!"
+ mod_job_ascensionner_per_pop_short:0 "\n$VALUE$ ￡pop￡ 提供￡mod_job_planet_zhuhou_add￡ §G+1§! "
+ 

@@ -1,0 +1,268 @@
+﻿l_simp_chinese:
+
+### SHIP TEXTS
+
+FE_ESCORT_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (蜂群)"
+FE_ESCORT_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_ESCORT_COMBAT_COMPUTER_2:0 "护航舰仿生接口战斗计算机 (哨戒)"
+FE_ESCORT_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_ESCORT_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (线列)"
+FE_ESCORT_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_ESCORT_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (炮兵)" 
+FE_ESCORT_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (哨戒)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (线列)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (炮兵)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (狙击)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
+FE_TITAN_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
+FE_TITAN_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
+FE_TITAN_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)"
+FE_TITAN_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
+FE_GOLIATH_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
+FE_GOLIATH_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
+FE_GOLIATH_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)" 
+FE_GOLIATH_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TOWER_COMBAT_COMPUTER:0 "仿生接口战斗计算机 (空间站)" 
+FE_TOWER_COMBAT_COMPUTER_DESC:0 "这种先进的防御系统利用独特的战斗计算机，与该站的炮手形成仿生链接。 它旨在以无情的效率消灭来自银河系的所有威胁。"
+
+FE_ESCORT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的舰船提供动力。 该船专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的舰船提供动力。 该船专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力"
+FE_TITAN_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_TITAN_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的舰船提供动力。 该船专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力"
+FE_GOLIATH_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_GOLIATH_DARK_MATTER_REACTOR_DESC:0 "歌利亚级母舰拥有数以千计的硬件，设备和武器系统。 为它们供电需要大量能量，其中只有基于暗物质的反应堆才能提供。"
+FE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗站提供动力。 该站专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力。"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗站提供动力。 该站专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力。"
+ 
+### CRISIS STUFFSH ####
+
+SMALL_ACOT_LASER_AI: "小型应急清洁激光"
+MEDIUM_ACOT_LASER_AI: "中型应急清洁激光"
+LARGE_ACOT_LASER_AI: "大型应急清洁激光"
+
+ACOT_LASER_AI: "应急清洁激光"
+ACOT_LASER_AI_DESC: "Ren-Miruu的清洁软件确保银河系始终受到严密监控，不受任何瘟疫的影响。"
+
+SMALL_ACOT_PLASMA_AI: "小型应急反病毒等离子体"
+MEDIUM_ACOT_PLASMA_AI: "中型应急反病毒等离子体"
+LARGE_ACOT_PLASMA_AI: "大型应急反病毒等离子体"
+
+ACOT_PLASMA_AI: "应急反病毒等离子体"
+ACOT_PLASMA_AI_DESC: "好吧，他们最终会出现的，保持武器靠近。你的敌人离你更近了。"
+
+ACOT_ENERGY_TORPEDO_AI: "应急病毒融合"
+ACOT_ENERGY_TORPEDO_AI_DESC: "病毒可以繁殖，它们是瘟疫。 因此，必须做的是将它们融化到分子水平。"
+
+ACOT_POINT_DEFENSE_AI: "应急恶意软件杀手"
+ACOT_POINT_DEFENSE_AI_DESC: "恶意软件不是那么致命，但可能会有问题。 值得庆幸的是，Ren-Miruu知道如何解决所有问题。"
+
+ACOT_PARTICLE_LANCE_AI: "应急系统重启干嘛"
+ACOT_PARTICLE_LANCE_AI_DESC: "在此过程耗时太长的时刻，重新启动系统，然后重试。"
+
+ACOT_PERDITION_BEAM_AI: "应急系统复位波束"
+ACOT_PERDITION_BEAM_AI_DESC: "这些数据超出了范围，将整个事情重置为零。"
+
+ACOT_FIGHTERS_HANGAR_AI: "应急数据碎片整理单位"
+ACOT_FIGHTERS_HANGAR_AI_DESC: "当你可以有多个时，为什么要解决一个单一的碎片整理过程？"
+
+ACOT_BOMBERS_HANGAR_AI: "应急数据删除单位"
+ACOT_BOMBERS_HANGAR_AI_DESC: "当你可以有多个时，为什么要选择一个单独的删除过程？"
+
+AI_FTL_DRIVE: "应急驱动"
+AI_FTL_DRIVE_DESC: "草率下结论是不可取的。扫描威胁是一个需要仔细检查的微妙过程。从Ren-Miruu的智慧中获取这一点。"
+
+SHIP_THRUSTER_AI: "应急速度助推器"
+SHIP_THRUSTER_AI_DESC: "必须快速，迅速地清除病毒和恶意软件。"
+
+DESTROYER_SHIP_THRUSTER_AI: "应急速度助推器"
+DESTROYER_SHIP_THRUSTER_AI_DESC: "必须快速，迅速地清除病毒和恶意软件。"
+
+BATTLESHIP_SHIP_THRUSTER_AI: "应急速度助推器"
+BATTLESHIP_SHIP_THRUSTER_AI_DESC: "必须快速，迅速地清除病毒和恶意软件。"
+
+TITAN_SHIP_THRUSTER_AI: "应急速度助推器"
+TITAN_SHIP_THRUSTER_AI_DESC: "必须快速，迅速地清除病毒和恶意软件。"
+
+AI_SENSOR_SHIP: "应急搜索引擎"
+AI_SENSOR_SHIP_DESC: "只需单击一下，搜索引擎就可以找到您需要的内容，但只需纳秒。"
+
+SMALL_DARK_MATTER_REACTOR_AI: "应急处理器"
+SMALL_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu最值得骄傲的成就。 应急处理器是首屈一指的......"
+
+LARGE_DARK_MATTER_REACTOR_AI: "应急处理器"
+LARGE_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu最值得骄傲的成就。 应急处理器是首屈一指的......"
+
+HUGE_DARK_MATTER_REACTOR_AI: "应急处理器"
+HUGE_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu最值得骄傲的成就。 应急处理器是首屈一指的......"
+
+SMALL_ACOT_ARMOR_AI: "小型应急防火墙"
+MEDIUM_ACOT_ARMOR_AI: "中型应急防火墙"
+LARGE_ACOT_ARMOR_AI: "大型应急防火墙"
+
+ACOT_ARMOR_AI: "应急防火墙"
+ACOT_ARMOR_AI_DESC: "为确保系统稳定性，需要足够的防火墙。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AI: "小型应急拦截器"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AI: "中型应急拦截器"
+LARGE_ACOT_ENIGMATIC_SHIELD_AI: "大型应急拦截器"
+
+ACOT_ENIGMATIC_SHIELD_AI: "应急拦截器"
+ACOT_ENIGMATIC_SHIELD_AI_DESC: "必须在威胁进入星系之前阻止不需要的入侵。"
+
+titan_ship_ai: "应变泰坦"
+
+ACOT_SCOURGE_MISSILE_1: "天灾导弹"
+ACOT_SCOURGE_MISSILE_1_DESC: "天灾导弹的有效载荷由蜂群在星际作战中使用的许多生化化合物组成，即使是最坚硬的军舰也已证明具有意外的效果。"
+
+tech_acot_scourge_missile: "天灾导弹"
+tech_acot_scourge_missile_desc: "天灾导弹的有效载荷由蜂群在星际作战中使用的许多生化化合物组成，即使是最坚硬的军舰也已证明具有意外的效果。"
+
+SMALL_ACOT_PLASMA_SWARM: "天灾酸性爆破弹"
+MEDIUM_ACOT_PLASMA_SWARM: "天灾酸性爆破弹"
+
+ACOT_PLASMA_SWARM: "天灾酸性爆破弹"
+ACOT_PLASMA_SWARM_DESC: "封闭在弹道胶囊中，蜂群轨道轰击中使用的高腐蚀性有机物可以作为船用弹药重新使用。"
+
+ACOT_TITAN_PLASMA_SWARM: "女王的愤怒"
+ACOT_TITAN_PLASMA_SWARM_DESC: "天灾女王的大酸性爆破弹是一种非常致命的泰坦生物武器，可以制作即使是最难对付的战列舰的短片。"
+
+ACOT_SWARM_STRIKE_CRAFT: "虫群战斗机"
+ACOT_SWARM_STRIKE_CRAFT_DESC: "克隆，小型化的虫群标本可以通过接近我们用于舰队内部通信的波长来控制，允许我们将它们用作有效的打击手段。"
+
+tech_acot_swarm_strike_craft: "虫群战斗机"
+tech_acot_swarm_strike_craft_desc: "克隆，小型化的虫群标本可以通过接近我们用于舰队内部通信的波长来控制，允许我们将它们用作有效的打击手段。"
+
+SWARM_FTL_DRIVE: "虫群生物引擎"
+SWARM_FTL_DRIVE_DESC: "每个天灾军团的“舰船”中的这个特殊器官似乎产生了经线能量，使得虫群能够轻松地穿越高地。"
+
+SHIP_THRUSTER_SWARM: "虫群生物推进器"
+SHIP_THRUSTER_SWARM_DESC: "天灾船只中的这种有机成分似乎通过无法解释的方法推动了巨大的船体前进。"
+
+SWARM_SENSOR_SHIP: "虫群生物感应器"
+SWARM_SENSOR_SHIP_DESC: "天灾群体拥有极其强大的感官功能，可以让它们跟踪并感知几个系统中的猎物，很可能他们会使用这种方法来定位要消耗的新星系。"
+
+SMALL_DARK_MATTER_REACTOR_SWARM: "虫群小型生物精华反应器"
+SMALL_DARK_MATTER_REACTOR_SWARM_DESC: "每艘天灾船的核心都是一种反应堆，它允许有机船利用其武器，而不像发电机。"
+
+LARGE_DARK_MATTER_REACTOR_SWARM: "虫群大型生物精华反应器"
+LARGE_DARK_MATTER_REACTOR_SWARM_DESC: "每艘天灾船的核心都是一种反应堆，它允许有机船利用其武器，而不像发电机。"
+
+SMALL_ACOT_ARMOR_SWARM: "小型虫群装甲"
+MEDIUM_ACOT_ARMOR_SWARM: "中型虫群装甲"
+LARGE_ACOT_ARMOR_SWARM: "大型虫群装甲"
+
+ACOT_ARMOR_SWARM: "虫群装甲"
+ACOT_ARMOR_SWARM_DESC: "虽然天灾群体已经拥有坚韧的天然皮肤，但它们似乎已经发展出一种极其厚实和坚固的甲壳，以进一步提高它们的生存能力，是什么原因可以驱使它们达到这样的长度？"
+
+SMALL_ACOT_BIO_SHIELD_SWARM: "虫群生物等离子体护盾"
+SMALL_ACOT_BIO_SHIELD_SWARM_DESC: "尽管完全是有机的并且没有任何能量盾牌，但这个特殊的器官似乎会产生一层薄薄的生物等离子体生物，它可以作为能量武器的弱盾和临时盾牌。 然而，它们似乎无法再生。"
+
+ACOT_SWARM_COMPUTER_PICKET: "虫群蜂巢链接 (哨戒)"
+ACOT_SWARM_COMPUTER_PICKET_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+
+ACOT_SWARM_COMPUTER_LINE: "虫群蜂巢链接 (线列)"
+ACOT_SWARM_COMPUTER_LINE_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+
+ACOT_SWARM_COMPUTER_SNIPER: "虫群蜂巢链接 (狙击)"
+ACOT_SWARM_COMPUTER_SNIPER_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+
+ACOT_SWARM_COMPUTER_QUEEN: "虫群蜂巢链接 (女王)"
+ACOT_SWARM_COMPUTER_QUEEN_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+
+ACOT_SWARM_COMPUTER_STATION: "虫群蜂巢链接 (AFK)"
+ACOT_SWARM_COMPUTER_STATION_DESC: "作为一个有机站的AFK，坐下来什么也不做，直到可怕的东西发生然后死亡。 出生有机真的很可怕，你不觉得吗？ 我也饿了，去点披萨。"
+
+ACOT_SMALL_ED_WEAPON: "小型物质分解者"
+ACOT_MEDIUM_ED_WEAPON: "中型物质分解者"
+ACOT_LARGE_ED_WEAPON: "大型物质分解者"
+
+ACOT_EXTRADIMENSIONAL_1: "物质分解者"
+ACOT_EXTRADIMENSIONAL_1_DESC: "从另一个角度来看，物质分解器的核心技术为了获得破坏性的结果而弯曲了几个物理定律。"
+
+tech_acot_matter_disintegrator: "物质分解者"
+tech_acot_matter_disintegrator_desc: "从另一个角度来看，物质分解器的核心技术为了获得破坏性的结果而弯曲了几个物理定律。"
+
+ACOT_POINT_DEFENSE_EDI: "高维风暴"
+ACOT_POINT_DEFENSE_EDI_DESC: "这些神秘的能量信号似乎起着一种超维度点防御的作用，可以打击攻击机和导弹。"
+
+ACOT_PARTICLE_LANCE_EDI: "高维光矛"
+ACOT_PARTICLE_LANCE_EDI_DESC: "这个维度能量武器扭曲了物理定律，摧毁了所有否认入侵者饥饿的人。"
+
+ACOT_PERDITION_BEAM_EDI: "恐惧之眼"
+ACOT_PERDITION_BEAM_EDI_DESC: "神秘而具有破坏性的巨大灵能水晶撕裂了空间和现实的结构，制造了一个裂缝，摧毁了所有的现实。"
+
+DESTROYER_SHIP_THRUSTER_EDI: "维度推进器"
+DESTROYER_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够通过全体船员纯粹的灵能力量移动。"
+
+BATTLESHIP_SHIP_THRUSTER_EDI: "维度推进器"
+BATTLESHIP_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够通过全体船员纯粹的灵能力量移动。"
+
+TITAN_SHIP_THRUSTER_EDI: "维度灵能推进器"
+TITAN_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够通过全体船员纯粹的灵能力量移动。"
+
+EDI_SENSOR_SHIP: "维度灵能传感器"
+EDI_SENSOR_SHIP_DESC: "这些入侵者不使用传统的传感器，他们完全依靠自己的灵能异能来探测威胁。"
+
+SMALL_DARK_MATTER_REACTOR_EDI: "维度灵桥塔"
+SMALL_DARK_MATTER_REACTOR_EDI_DESC: "每一艘入侵者飞船似乎都有这个灵能塔，它充当着一个焦点，在那里可怕的船员们用它来为他们的灵能飞船提供动力。"
+
+LARGE_DARK_MATTER_REACTOR_EDI: "维度灵桥塔"
+LARGE_DARK_MATTER_REACTOR_EDI_DESC: "每一艘入侵者飞船似乎都有这个灵能塔，它充当着一个焦点，在那里可怕的船员们用它来为他们的灵能飞船提供动力。"
+
+HUGE_DARK_MATTER_REACTOR_EDI: "维度灵桥塔"
+HUGE_DARK_MATTER_REACTOR_EDI_DESC: "每一艘入侵者飞船似乎都有这个灵能塔，它充当着一个焦点，在那里可怕的船员们用它来为他们的灵能飞船提供动力。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_EDI: "小型维度护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_EDI: "中型维度护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_EDI: "大型维度护盾"
+
+ACOT_ENIGMATIC_SHIELD_EDI: "维度护盾"
+ACOT_ENIGMATIC_SHIELD_EDI_DESC: "这些护盾的作用方式与灵能护盾相似，它们构成了入侵者的主要防御工具。"
+
+ACOT_EDI_COMPUTER_PICKET: "维度灵能作战电脑 (哨戒)"
+ACOT_EDI_COMPUTER_PICKET_DESC: "我们很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_LINE: "维度灵能作战电脑 (线列)"
+ACOT_EDI_COMPUTER_LINE_DESC: "我们很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_SNIPER: "维度灵能作战电脑 (狙击)"
+ACOT_EDI_COMPUTER_SNIPER_DESC: "我们很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_TITAN: "维度灵能作战电脑 (泰坦)"
+ACOT_EDI_COMPUTER_TITAN_DESC: "我们很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_STATION: "维度灵能作战电脑 (AFK)"
+ACOT_EDI_COMPUTER_STATION_DESC: "听着，伙计，我是台作战电脑。这意味着我要解决问题。不是像“什么是巡洋舰垃圾?”，因为这属于你的星际元游戏难题的范围。/n/n我解决实际问题。我怎样才能阻止拥有OP的星际玩家舰队把我撕成一个在结构上多余的新角色?就像这个灵能超维度站，完全屏蔽，由我设计，由我制造，你最好希望……不是指着你。"
+
+titan_ship_ed: "维度泰坦"
+
+tech_point_defense_edi: "心灵风暴"
+tech_point_defense_edi_desc: "入侵者本身没有物理点防御。但它们的飞船通过每艘飞船内部的特殊装置发射强大的心灵风暴。似乎这些装置可以适用于任何人，甚至那些可能没有灵能的人。也许入侵者最初不是灵能的?"
+
+tech_titan_edi: "裂谷发生器"
+tech_titan_edi_desc: "裂谷发生器，也被称为恐怖之眼撕裂，打开了空间的结构，创造了一个可怕的眩目的裂谷空间，试图吞噬一切。大多数护盾都能承受巨大的拉力，但是没有shich保护的船只很可能再也看不到这个星系了."
+
+tech_bio_plasma: "天灾女王的毒液"
+tech_bio_plasma_desc: "天灾巨大的硫酸爆破弹是一种极其致命的泰坦级生物武器，即使是最坚固的战舰也不能轻易抵挡。女王用于此目的的器官是大型足够我们提取和适应我们自己的。"
+
+tech_energy_lance_contingency: "应急光矛设计"
+tech_energy_lance_contingency_desc: "奇怪的是，与通常的能量光矛技术相比，应急光矛对更加类似于微型变形梁。 然而，能量和伤害输出是相当可观的。 而且它们的外观和声音都非常危险。"
+
+tech_perdition_beam_contingency: "应变泰坦梁"
+tech_perdition_beam_contingency_desc: "很明显，无论他们的创造者是谁，他们至少已经足够先进，拥有暗物质知识。 然而，这些技术的设计对附近的有机物非常致命。 难道他们的创作者也不完全是有机的吗？"

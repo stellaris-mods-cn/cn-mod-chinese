@@ -1,0 +1,131 @@
+﻿l_simp_chinese:
+#Vanilla
+pc_shielded_gaia:0 "掩体 盖亚星球"
+pc_shielded_gaia_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_arctic:0 "掩体 极地星球"
+pc_shielded_arctic_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_tundra:0 "掩体 冻土星球"
+pc_shielded_tundra_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_alpine:0 "掩体 高山星球"
+pc_shielded_alpine_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_ocean:0 "掩体 海洋星球"
+pc_shielded_ocean_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_jungle:0 "掩体 丛林星球"
+pc_shielded_jungle_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_continental:0 "掩体 陆地星球"
+pc_shielded_continental_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_desert:0 "掩体 沙漠星球"
+pc_shielded_desert_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_arid:0 "掩体 干旱星球"
+pc_shielded_arid_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_savannah:0 "掩体 草原星球"
+pc_shielded_savannah_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_machine:0 "掩体 机械世界"
+pc_shielded_machine_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_ai:0 "掩体 AI星球"
+pc_shielded_ai_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_infested:0 "掩体 腐化星球"
+pc_shielded_infested_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_nuked:0 "掩体 死寂星球"
+pc_shielded_nuked_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_habitat_shielded:0 "掩体 轨道居住地"
+pc_habitat_shielded_desc:0 "This habitat covered with enigmatic shields.."
+
+pc_ringworld_habitable_shielded:0 "掩体 环形世界"
+pc_ringworld_habitable_shielded_desc:0 "This ringworld covered with enigmatic shields.."
+#Machine Ringworld
+pc_machine_machine_shielded:0 "掩体 机械环形世界"
+pc_machine_machine_shielded_desc:0 "This ringworld covered with enigmatic shields.."
+
+#Planet Diversity
+pc_shielded_graveyard:0 "掩体 墓穴星球"
+pc_shielded_graveyard_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_crystal:0 "掩体 水晶星球"
+pc_shielded_crystal_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_city:0 "掩体 都市星球"
+pc_shielded_city_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_floating:0 "掩体 浮岛星球"
+pc_shielded_floating_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_antarctic:0 "掩体 极地星球"
+pc_shielded_antarctic_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_frozen_desert:0 "掩体 高原荒漠星球"
+pc_shielded_frozen_desert_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_steppe:0 "掩体 苔原星球"
+pc_shielded_steppe_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_hadesert:0 "掩体 戈壁高原星球"
+pc_shielded_hadesert_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_mesa:0 "掩体 风蚀星球"
+pc_shielded_mesa_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_oasis:0 "掩体 绿洲星球"
+pc_shielded_oasis_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_sandsea:0 "掩体 沙海星球"
+pc_shielded_sandsea_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_cascadian:0 "掩体 亚寒山地星球"
+pc_shielded_cascadian_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_swamp:0 "掩体 沼泽星球"
+pc_shielded_swamp_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_crag:0 "掩体 峭壁星球"
+pc_shielded_crag_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_glacial:0 "掩体 冰川星球"
+pc_shielded_glacial_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_geothermal:0 "掩体 地热星球"
+pc_shielded_geothermal_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_mangrove:0 "掩体 红树林星球"
+pc_shielded_mangrove_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_desertislands:0 "掩体 环礁星球"
+pc_shielded_desertislands_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_hajungle:0 "掩体 高原丛林星球"
+pc_shielded_hajungle_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_methane:0 "掩体 甲烷星球"
+pc_shielded_methane_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_ammonia:0 "掩体 氨气星球"
+pc_shielded_ammonia_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+#Alphamod hostile world
+pc_shielded_barren:0 "掩体 贫瘠星球"
+pc_shielded_barren_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_gas_giant:0 "掩体 气态巨星"
+pc_shielded_gas_giant_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_molten:0 "掩体 熔融星球"
+pc_shielded_molten_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_frozen:0 "掩体 冰封星球"
+pc_shielded_frozen_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"
+
+pc_shielded_toxic:0 "掩体 冰封星球"
+pc_shielded_toxic_desc:0 "整个星球被包裹在一种坚不可摧的能量屏障中。这个屏障屏蔽了对其地表进行的任何扫描。"

@@ -1,0 +1,75 @@
+﻿l_simp_chinese:
+
+#Target
+not_allowed_target: "§R不允许目标开火§!"
+banned_sw_use: "§R不能使用超级武器§!"
+#Target:Regulation:Destruction Type
+banned_td: "§R禁止: 彻底的毁灭§!"
+banned_rd: "§R禁止: 可挽回的破坏§!"
+banned_as: "§R禁止: 同化§!"
+banned_mc: "§R禁止: 精神控制§!"
+banned_cs: "§R禁止: 殖民清除§!"
+banned_sb: "§R禁止: 破坏§!"
+banned_sk: "§R禁止: 弑星者§!"
+#Target:Requlation:Killing Pop
+banned_gen: "§R禁止: 普通帝国人口杀手§!"
+banned_hiv: "§R禁止: 蜂群人口杀手§!"
+banned_mac: "§R禁止: 机械人口杀手§!"
+banned_mec: "§R禁止: 机械人口杀手§!"
+#Target:Planet Type
+must_be_planet_mega_asteroid: "§R必须是行星/巨型结构/小行星§!"
+must_be_planet_mega_asteroid_testable: "§R须是行星/巨型结构/小行星§!"
+virtualworld_immunity: "§R虚拟世界对这种武器有免疫力§!"
+squareworld_immunity: "§R神秘的物理效果阻止了这个武器的威力!§!"
+who_will_open_this: "§R你一定是疯了才打开这个致命的星球§!"
+must_be_shielded: "§R必须屏蔽§!"
+#Target:Generic
+ban_generic: "§RSW:普通帝国不允许(所有/敌对)§!"
+generic_is_not_hostile: "§R不是一个敌对的帝国§!"
+#Target:Primitive
+ban_primitive: "§RSW:原始不允许(全部/敌对)§!"
+primitive_is_not_hostile: "§R不是敌对的原始人§!"
+non_hostile_primitive_not_allowed: "§R目前的政策不允许对非敌对的原始部落开火§!"
+must_not_primitive: "§R不能用于原始人§!"
+invalid_primitive_stage: "§R不能用于这个基本的阶段§!"
+primitive_ownerless: "§R无主的原始星球§!"
+primitive_has_owner: "§R这个原始社会不属于你§!"
+primitive_over_machine_id: ""
+#Target:Self
+not_self_allowed: "§R禁止自我开火§!"
+#Target:Age
+primitive_at_least_machine_age: "§R原始社会必须经过机器时代才能使用这种武器§!"
+vbph_at_least_ego_stage: "§R原始蜂巢必须经过自我年龄才能使用这种武器§!"
+#Target:Self
+not_self_allowed: "§R禁止自我开火§!"
+#Target:Test
+test_not_allowed: "§R你不能在这里测试(它不是空星系或你的星系)§!"
+#Target:POP
+no_purgeslaved_pop: "§R没有清除/奴役人口§!"
+#Target:Misc
+hive_primitive_not_loaded: "§R我们不确定原始蜂巢是否存在§!"
+#Invalid User
+invalid_user: "§R你不是这个武器的有效使用者§!" #Dummy for fall back
+invalid_user_not_pacifist_allowed: "§R和平主义禁止这种武器§!"
+invalid_user_not_sprpac_allowed: "§R和平主义/唯心主义禁止这种武器§!"
+invalid_user_not_spritualist: "§R这种武器需要唯心主义§!"
+invalid_user_not_pacifist: "§R这种武器需要和平主义§!"
+invalid_user_not_militarist: "§R这种武器需要军国主义§!"
+invalid_user_not_materialist: "§R这种武器需要唯物主义§!"
+invalid_user_not_xenophile: "§R这种武器需要亲外主义§!"
+invalid_user_not_xenophobe: "§R这种武器需要排外主义§!"
+invalid_user_not_egalitarian: "§R这一武器需要平等主义§!"
+invalid_user_not_authoritarian: "§R这种武器需要独裁政权§!"
+invalid_user_not_gestalt_allowed: "§你不能是格式塔帝国去使用这个武器§!"
+invalid_user_not_assimilator: "§R你必须是同化者才能使用这个武器§!"
+invalid_user_not_synthetic: "§R你必须合成飞升帝国来使用这个武器§!"
+invalid_user_not_raider: "§R你必须具有突袭轰炸姿态才能使用这种武器§!"
+invalid_user_not_hive: "§R你必须是蜂群思维帝国才能使用这个武器§!"
+invalid_user_not_machine: "§R你必须是机器帝国§!"
+invalid_user_not_geneticaly_ascended: "§R你必须在生物飞升帝国才能使用这个武器§!"
+invaild_user_not_transcendence: "§R你必须是灵能飞升者才能使用此武器§!"
+
+#Ability
+can_use_rise_rebel: "§G崛起反抗可用§!"
+cant_use_rise_rebel: "§R起义反抗无效§!"
+no_tech_for_rebel_rise: "§R未研究的起义§!"

@@ -1,0 +1,208 @@
+﻿l_simp_chinese:
+
+#Allows超级武器
+policy_sw_fire: "允许超级武器:"
+policy_sw_fire_desc: "设置是否允许或禁止超级武器。"
+#Allow超级武器: Yes
+sw_yes: "允许"
+sw_yes_name: "允许"
+sw_yes_desc: "允许使用超级武器"
+#Allow超级武器: No
+sw_no: "禁止"
+sw_no_name: "禁止"
+sw_no_desc: "禁止使用超级武器"
+
+#Generic SW Fire
+policy_sw_fire_generic: "SW:普通帝国"
+policy_sw_fire_generic_desc: "设置是否允许或禁止超级武器到普通(AE/FE/LE/Normal)帝国"
+#Generic:ALL
+sw_generic_all: "允许开火: 所有"
+sw_generic_all_name: "允许开火: 所有"
+sw_generic_all_desc: "允许所有普通帝国使用火力超级武器"
+#Generic:Hostile
+sw_generic_hostile: "允许开火: 敌对"
+sw_generic_hostile_name: "允许开火: 敌对"
+sw_generic_hostile_desc: "允许火力超级武器进入敌对的普通帝国"
+#Generic:Ban
+sw_generic_ban: "禁止开火"
+sw_generic_ban_name: "禁止开火"
+sw_generic_ban_desc: "禁止所有普通帝国使用超级武器"
+
+#Primitive SW Fire
+policy_sw_fire_primitive: "SW:原始"
+policy_sw_fire_primitive_desc: "设置是否允许或禁止对原始人使用超级武器"
+#Primitive:ALL
+sw_primitive_all: "允许开火: 所有"
+sw_primitive_all_name: "允许开火: 所有"
+sw_primitive_all_desc: "允许对所有原始人使用超级武器"
+#Primitive:Hostile
+sw_primitive_hostile: "允许开火: 敌对"
+sw_primitive_hostile_name: "允许开火: 敌对"
+sw_primitive_hostile_desc: "允许使用超级武器攻击敌方原始部队"
+#Primitive:Ban
+sw_primitive_ban: "禁止开火"
+sw_primitive_ban_name: "禁止开火"
+sw_primitive_ban_desc: "禁止对原始人开火"
+
+#PrimitiveBorder SW Fire
+policy_sw_border_primitive: "SW:原始星球"
+policy_sw_border_primitive_desc: "设定允许行星杀手对原始星球开火"
+#PrimitiveBorder:ALL
+sw_primitiveborder_all: "允许开火: 所有"
+sw_primitiveborder_all_name: "允许开火: 所有"
+sw_primitiveborder_all_desc: "允许对所有原始行星使用超级武器"
+#PrimitiveBorder:Ours and Empty
+sw_primitiveborder_empty: "允许开火: 我方无人星球"
+sw_primitiveborder_empty_name: "允许开火: 我方无人星球"
+sw_primitiveborder_empty_desc: "允许向我方无人星球开火"
+#PrimitiveBorder:Ban
+sw_primitiveborder_ours: "允许开火:我们的"
+sw_primitiveborder_ours_name: "允许开火:我们的"
+sw_primitiveborder_ours_desc: "只允许超级武器进入我们的原始行星"
+
+
+#Self SW Fire
+policy_sw_fire_self: "SW:自我"
+policy_sw_fire_self_desc: "设置是否允许或禁止你使用超级武器(可以用巨像自杀整个帝国)"
+#Self: Yes
+sw_self_yes: "允许开火: 是"
+sw_self_yes_name: "允许开火: 是"
+sw_self_yes_desc: "允许对自己发射超级武器"
+#Self: No
+sw_self_ban: "禁止开火"
+sw_self_ban_name: "禁止开火"
+sw_self_ban_desc: "禁止对自己开火"
+
+#SW:Total Destruction
+policy_sw_type_td: "SW: §R彻底毁灭§W"
+policy_sw_type_td_desc: "策略设置是否允许§RT彻底毁灭§W武器"
+#SW:Total Destruction:Yes
+sw_td_yes: "允许"
+sw_td_yes_name: "允许"
+sw_td_yes_desc: "允许§R彻底毁灭§W超级武器"
+#SW:Total Destruction:No
+sw_td_no: "禁止开火"
+sw_td_no_name: "禁止开火"
+sw_td_no_desc: "禁止这种超级武器"
+
+#SW:可挽回的破坏
+policy_sw_type_rd: "SW: §H可挽回的破坏§W"
+policy_sw_type_rd_desc: "策略设置是否允许§H可挽回的破坏§W武器"
+#SW:可挽回的破坏:Yes
+sw_rd_yes: "允许"
+sw_rd_yes_name: "允许"
+sw_rd_yes_desc: "允许§H可挽回的破坏§W超级武器"
+#SW:可挽回的破坏:No
+sw_rd_no: "禁止开火"
+sw_rd_no_name: "禁止开火"
+sw_rd_no_desc: "禁止这种超级武器"
+
+
+#SW:精神控制
+policy_sw_type_mc: "SW: §M精神控制§W"
+policy_sw_type_mc_desc: "策略设置是否允许§M精神控制§W武器"
+#SW:精神控制:Yes
+sw_mc_yes: "允许"
+sw_mc_yes_name: "允许"
+sw_mc_yes_desc: "允许§M精神控制§W超级武器"
+#SW:精神控制:No
+sw_mc_no: "禁止开火"
+sw_mc_no_name: "禁止开火"
+sw_mc_no_desc: "禁止这种超级武器"
+
+#SW:殖民清扫
+policy_sw_type_cs: "SW: §E殖民清扫§W"
+policy_sw_type_cs_desc: "策略设置是否允许§E殖民清扫§W武器"
+#SW:殖民清扫:Yes
+sw_cs_yes: "允许"
+sw_cs_yes_name: "允许"
+sw_cs_yes_desc: "允许§E殖民清扫§W超级武器"
+#SW:殖民清扫:No
+sw_cs_no: "禁止开火"
+sw_cs_no_name: "禁止开火"
+sw_cs_no_desc: "禁止这种超级武器"
+
+#SW:同化
+policy_sw_type_as: "SW: §Y同化§W"
+policy_sw_type_as_desc: "策略设置是否允许§Y同化§!武器"
+#SW:同化:Yes
+sw_as_yes: "允许"
+sw_as_yes_name: "允许"
+sw_as_yes_desc: "允许§Y同化§W超级武器"
+#SW:同化:No
+sw_as_no: "禁止开火"
+sw_as_no_name: "禁止开火"
+sw_as_no_desc: "禁止这种超级武器"
+
+#SW:破坏
+policy_sw_type_sb: "SW: §P破坏§W"
+policy_sw_type_sb_desc: "策略设置是否允许§P破坏§W武器"
+#SW:破坏:Yes
+sw_sb_yes: "允许"
+sw_sb_yes_name: "允许"
+sw_sb_yes_desc: "允许§P破坏§W超级武器"
+#SW:破坏:No
+sw_sb_no: "禁止开火"
+sw_sb_no_name: "禁止开火"
+sw_sb_no_desc: "禁止这种超级武器"
+
+#SW:行星杀手
+policy_sw_type_sk: "SW: §G行星杀手§W"
+policy_sw_type_sk_desc: "策略设置是否允许§G行星杀手§W武器"
+#SW:行星杀手:Yes
+sw_sk_yes: "允许"
+sw_sk_yes_name: "允许"
+sw_sk_yes_desc: "允许§M行星§R杀手§W超级武器"
+#SW:行星杀手:No
+sw_sk_no: "禁止开火"
+sw_sk_no_name: "禁止开火"
+sw_sk_no_desc: "禁止这种超级武器"
+
+
+#SW:Kill Generic
+policy_sw_kill_gen: "SW: §E杀灭人口§W"
+policy_sw_kill_gen_desc: "策略设置是否允许杀死人口"
+#SW:Kill Generic:Yes
+sw_gen_yes: "允许"
+sw_gen_yes_name: "允许"
+sw_gen_yes_desc: "允许§E杀灭人口§W超级武器"
+#SW:Kill Generic:No
+sw_gen_no: "禁止开火"
+sw_gen_no_name: "禁止开火"
+sw_gen_no_desc: "禁止这种超级武器"
+
+#SW:Kill Hive
+policy_sw_kill_hiv: "SW: §T杀灭蜂群人口§W"
+policy_sw_kill_hiv_desc: "策略设置是否允许杀死蜂群人口
+#SW:Kill Hive:Yes
+sw_hiv_yes: "允许"
+sw_hiv_yes_name: "允许"
+sw_hiv_yes_desc: "允许§T杀灭蜂群人口§W超级武器"
+#SW:Kill Hive:No
+sw_hiv_no: "禁止开火"
+sw_hiv_no_name: "禁止开火"
+sw_hiv_no_desc: "禁止这种超级武器"
+
+#SW:Kill Machine
+policy_sw_kill_mac: "SW: §B杀灭机械人口§W"
+policy_sw_kill_mac_desc: "策略设置是否允许杀死机械人口"
+#SW:Kill Machine:Yes
+sw_mac_yes: "允许"
+sw_mac_yes_name: "允许"
+sw_mac_yes_desc: "允许§B杀灭机械人口§W超级武器"
+#SW:Kill Machines:No
+sw_mac_no: "禁止开火"
+sw_mac_no_name: "禁止开火"
+sw_mac_no_desc: "禁止这种超级武器"
+
+#SW:Kill Machine
+policy_sw_kill_mec: "SW: §M杀灭机械人口§W"
+policy_sw_kill_mec_desc: "策略设置是否允许杀死机械人口"
+#SW:Kill Machine:Yes
+sw_mec_yes: "允许"
+sw_mec_yes_name: "允许"
+sw_mec_yes_desc: "允许§M杀灭机械人口§W超级武器"
+#SW:Kill Machines:No
+sw_mec_no: "禁止开火"
+sw_mec_no_name: "禁止开火"
+sw_mec_no_desc: "禁止这种超级武器"

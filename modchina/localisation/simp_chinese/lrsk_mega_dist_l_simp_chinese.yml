@@ -1,0 +1,103 @@
+﻿#Uncomment the appropriate language for the file.
+#l_braz_por:
+#l_english:
+#l_french:
+#l_german:
+#l_polish:
+#l_russian:
+l_simp_chinese:
+#l_spanish:
+
+ ## DISTRICTS
+
+ # Arcology Districts
+
+ district_lrsk_arcology_coordination:0 "协调型$pc_city$"
+ district_lrsk_arcology_coordination_plural:0 "协调型$pc_city$"
+ district_lrsk_arcology_coordination_desc:0 "$pc_city$内的高级个体会在这里在进行精神协调以完成集体任务。"
+
+ district_lrsk_arcology_organic:0 "有机体乐园"
+ district_lrsk_arcology_organic_plural:0 "有机体乐园"
+ district_lrsk_arcology_organic_desc:0 "这是一个由AI控制的、设计成智慧有机生物理想居住地的$pc_city$。这里可以容纳无数的有机生物并让他们获得满足，而且这里很安全。"
+
+ # Habitat Districts
+
+ district_hab_commercial:0 "制造区"
+ district_hab_commercial_plural:0 "$district_hab_commercial$"
+ district_hab_commercial_desc:1 "一个庞大的$pc_habitat$工业区，工人们在这里操作着大量的低重力工程设备。"
+
+ district_hab_cultural:0 "商业区"
+ district_hab_cultural_plural:0 "$district_hab_cultural$"
+ district_hab_cultural_desc:1 "谁需要在能户外享受生活、娱乐、休闲，购物的$pc_habitat$?"
+
+ # Ringworld Districts
+
+ LRSK_RINGWORLD_COMMON:0 "$pc_ringworld_habitable$里几乎没有尽头的大片空间还没有充分利用"
+ 
+ district_lrsk_ringresidential:0 "住宅区"
+ district_lrsk_ringresidential_plural:0 "$district_lrsk_ringresidential$"
+ district_lrsk_ringresidential_desc:0 "有了这么大的空间，没有理由不向外扩张和建造大量的豪华住宅。"
+
+ district_lrsk_ringnesting:0 "筑巢区"
+ district_lrsk_ringnesting_plural:0 "$district_lrsk_ringnesting$"
+ district_lrsk_ringnesting_desc:0 "$pc_ringworld_habitable$的这一部分布满了肉眼可见的居住地...分布在圆环的凸面上并延伸了相当远的距离。"
+
+ district_lrsk_ringinfra:0 "基础设施区"
+ district_lrsk_ringinfra_plural:0 "$district_lrsk_ringinfra$"
+ district_lrsk_ringinfra_desc:0 "为了有效利用$pc_ringworld_habitable$的巨大空间，政府网络、庇护所、供给结构都应分散部署。"
+ 
+ district_lrsk_ringfarming:0 "$district_farming$"
+ district_lrsk_ringfarming_plural:0 "$district_lrsk_ringfarming$"
+ district_lrsk_ringfarming_desc:0 "$LRSK_RINGWORLD_COMMON$，将一些土地划分给农业，用于种植农作物或畜牧业。"
+
+ district_lrsk_ringgenerator:0 "$district_generator$"
+ district_lrsk_ringgenerator_plural:0 "$district_lrsk_ringgenerator$"
+ district_lrsk_ringgenerator_desc:0 "$LRSK_RINGWORLD_COMMON$，建造大型发电厂可以生成大量的能源，这些能源随后被使用或转化为能源点数储存。"
+
+ district_lrsk_recreation:0 "休闲区"
+ district_lrsk_recreation_plural:0 "$district_lrsk_recreation$"
+ district_lrsk_recreation_desc:0 "$LRSK_RINGWORLD_COMMON$，非常适合建造自然保护区、游乐园、节日场地、运动场、拱廊等休闲娱乐场所。"
+
+ district_lrsk_maintenance:0 "维护区"
+ district_lrsk_maintenance_plural:0 "$district_lrsk_maintenance$"
+ district_lrsk_maintenance_desc:0 "$LRSK_RINGWORLD_COMMON$，建造无人机制造中心、备用零件、修理舱和充电站来保障集体的运作。"
+
+ district_lrsk_elysian:0 "乐园区"
+ district_lrsk_elysian_plural:0 "$district_lrsk_elysian$"
+ district_lrsk_elysian_desc:0 "$LRSK_RINGWORLD_COMMON$，划分一些空间用于建造自然保护区，游乐园，节日庆祝场地和其他娱乐设施来安抚智慧有机生物。"
+
+ district_lrsk_spawning:0 "产卵区"
+ district_lrsk_spawning_plural:0 "$district_lrsk_spawning$"
+ district_lrsk_spawning_desc:0 "$LRSK_RINGWORLD_COMMON$，这里将会成为产卵池，治疗药浴和幼虫营养药房。"
+
+ ## JOBS
+
+ # Park Curator
+ job_lrsk_mega_dist_job_park_curator:0 "娱乐区管理员"
+ job_lrsk_mega_dist_job_park_curator_plural:0 "$job_lrsk_mega_dist_job_park_curator$"
+ job_lrsk_mega_dist_job_park_curator_desc:1 "这些专职服务人员会全职居住在娱乐区，并确保区内所有娱乐活动安全及全面运作。"
+ job_lrsk_mega_dist_job_park_curator_effect_desc:0 "£job_lrsk_mega_dist_job_park_curator£ $job_lrsk_mega_dist_job_park_curator_plural$生产§G+4§! £mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!并且 £mod_planet_migration_all_mult£ §Y移民吸引力§!增加§G+5%§!"
+ mod_job_lrsk_mega_dist_job_park_curator_add:0 "$job_lrsk_mega_dist_job_park_curator$$JOBS_TITLE$"
+ mod_job_lrsk_mega_dist_job_park_curator_per_pop:0 "每个$VALUE$人口使$job_lrsk_mega_dist_job_park_curator$$JOBS_TITLE$增加§G+1§!"
+ mod_job_lrsk_mega_dist_job_park_curator_per_pop_short:0 "\n§G+1§! £mod_job_lrsk_mega_dist_job_park_curator_add£ 每 $VALUE$ £pop£"
+
+ # Larva Tender
+ job_lrsk_mega_dist_job_larva_tender:0 "幼体照看者"
+ job_lrsk_mega_dist_job_larva_tender_plural:0 "$job_lrsk_mega_dist_job_larva_tender$"
+ job_lrsk_mega_dist_job_larva_tender_desc:1 "年轻的雄蜂在广阔的产卵区游荡观察那些幼体需要专门的陪护，以帮助它们进化。"
+ job_lrsk_mega_dist_job_larva_tender_effect_desc:0 "£job_lrsk_mega_dist_job_larva_tender£ $job_lrsk_mega_dist_job_larva_tender_plural$生产§G+2§! £mod_planet_amenities_no_happiness_add£ §Y$PLANET_AMENITIES_TITLE$§!并且 £mod_pop_growth_speed£ §Y$MOD_POP_GROWTH_SPEED$§!增加§G+5%§!"
+ mod_job_lrsk_mega_dist_job_larva_tender_add:0 "$job_lrsk_mega_dist_job_larva_tender$$JOBS_TITLE$"
+ mod_job_lrsk_mega_dist_job_larva_tender_per_pop:0 "每个$VALUE$人口使$job_lrsk_mega_dist_job_larva_tender$$JOBS_TITLE$增加§G+1§!"
+ mod_job_lrsk_mega_dist_job_larva_tender_per_pop_short:0 "\n§G+1§! £mod_job_lrsk_mega_dist_job_larva_tender_add£ 每 $VALUE$ £pop£"
+
+ # Sub-Assembler
+ job_lrsk_mega_dist_job_subassmbler:0 "子汇编程序"
+ job_lrsk_mega_dist_job_subassmbler_plural:0 "$job_lrsk_mega_dist_job_subassmbler$"
+ job_lrsk_mega_dist_job_subassmbler_desc:1 "维护区的设施可以大大加快新无人机的生产和复制。"
+ job_lrsk_mega_dist_job_subassmbler_effect_desc:0 "£job_lrsk_mega_dist_job_subassmbler£ $job_lrsk_mega_dist_job_subassmbler_plural$生产§G+2§! £mod_planet_amenities_no_happiness_add£ §Y$PLANET_AMENITIES_TITLE$§!并且 £mod_pop_assembly_speed£ §Y$MOD_POP_ASSEMBLY_SPEED$§!增加§G+5%§!"
+ mod_job_lrsk_mega_dist_job_subassmbler_add:0 "$job_lrsk_mega_dist_job_subassmbler$$JOBS_TITLE$"
+ mod_job_lrsk_mega_dist_job_subassmbler_per_pop:0 "每个$VALUE$人口使§G1§!$job_lrsk_mega_dist_job_subassmbler$$JOBS_TITLE$增加§G+1§!"
+ mod_job_lrsk_mega_dist_job_subassmbler_per_pop_short:0 "\n§G+1§! £mod_job_lrsk_mega_dist_job_subassmbler_add£ 每 $VALUE$ £pop£"
+
+ # Otherwise unprovided effect desc for job_bio_trophy
+ job_bio_trophy_effect_desc:0 "£job_bio_trophy£ $job_bio_trophy_plural$将 §R1§! £consumer_goods£ §Y$consumer_goods$§!转换成§G2§! £unity£ §Y$unity$§!"

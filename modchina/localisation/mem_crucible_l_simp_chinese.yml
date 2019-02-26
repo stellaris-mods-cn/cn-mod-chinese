@@ -1,0 +1,121 @@
+﻿
+#By ViolentBeetle
+
+l_simp_chinese:
+ mem_crucible.3.name:0 "精神错乱"
+ mem_crucible.3.desc:0 "[From.GetName]的人口似乎受到某种集体精神错乱的影响。 \n\n根据我们观测站返回的报告显示，各个街道上都爆发了骚乱，到处都有人高呼着荒谬的咒语。有一小部分还保持正常认知能力的当地人正在逃离人口中心，而他们的数量正在迅速减少。[From.Owner.GetName]完全处于崩溃的边缘。"
+ mem_crucible.3.a:0 "令人不安。"
+
+ mem_crucible.4.name:0 "迷雾笼罩"
+ mem_crucible.4.desc.first:0 "我们正观察到在[From.GetName]上的奇怪现象。 \n\n$mem_crucible.4.common$"
+ mem_crucible.4.desc.latter:0 "再一次，[From.GetName]行星似乎被迷雾遮蔽了。 \n\n$mem_crucible.4.common$"
+ mem_crucible.4.common:0 "某种雾气吞没了这颗充满疯狂的行星的表面，仿佛这里的人口本身已经熔化入其中。 \n\n因为没有传感器能穿透迷雾，目前还不清楚到底发生了什么。"
+ mem_crucible.4.a:0 "这真奇怪。"
+
+ mem_crucible.5.name:0 "[mem_crucible_country.GetName]的重生"
+ mem_crucible.5.desc.never_seen_death:0 "之前被迷雾笼罩的行星[From.GetName]似乎经历了巨大的变化。 \n\n先前无法穿透的迷雾已经散去，一个石器时代的文明出现在星球表面。"
+ mem_crucible.5.desc.seen_death:0 "我们之前看到的突然被迷雾遮蔽的[From.GetName]，似乎已经逆转了这一变化。\n\n之前无法穿透的迷雾已经分开，看起来[mem_crucible_country.GetSpeciesNamePlural]已经倒退回了石器时代。"
+ mem_crucible.5.desc.seen_many_deaths:0 "像之前一样，[From.GetName]笼罩的迷雾被颠倒了。之前无法穿透的迷雾又已散开，[mem_crucible_country.GetSpeciesNamePlural]又一次退回到石器时代。"
+ mem_crucible.5.a:0 "非常奇怪。"
+
+ mem_crucible.6.name:0 "迷雾笼罩"
+ mem_crucible.6.desc:0 "我们在[From.GetName]上空的观察站报告说，由于突然吞没整颗行星的奇怪迷雾，他们已经完全失去了与地表的联系。 \n\n就好像星球对我们的存在做出了负面反应。"
+ mem_crucible.6.a:0 "奇怪。"
+
+ mem_crucible.7.name:0 "迷雾笼罩"
+ mem_crucible.7.desc:0 "我们与[Root.GetName]失去了联系。这颗行星的表面似乎被一种奇怪的迷雾笼罩着。\n\n就好像星球对我们的存在做出了负面反应。"
+ mem_crucible.7.a:0 "奇怪。"
+
+ mem_crucible.8.name:0 "[From.Owner.GetName]遭遇"
+ mem_crucible.8.desc:0 "[Root.GetName]报告说他们在[From.GetName]表面上遇到了一个原始文明。 \n\n奇怪的是，这个星球上的人口似乎已经完全疯了，摧毁了他们先进的基础设施，暴乱者参与毫无意义的暴力活动。 \n\n我们应该考虑建立一个§Y观测站§!更仔细地研究他们。"
+
+ mem_crucible.11.name:0 "迷雾笼罩"
+ mem_crucible.11.desc:0 "我们在[From.GetName]上空的飞船报告说，由于一种奇异的迷雾突然吞没了星球，切断了地表的所有能见度和接触，他们无法继续轰炸。 \n\n就好像星球对我们的行为做出了负面反应。"
+ mem_crucible.11.a:0 "非常奇怪。"
+
+ mem_crucible.100.name:0 "熔炉之谜"
+ mem_crucible.100.desc:0 "我们观察到同样的模式在[From.GetName]上重复出现:一个文明以异常快的速度上升和前进，却总是在疯狂中崩溃，并被一种奇怪的紫色迷雾吞没。随后，雾开始消散，其人口已经退化到石器时代，然后这个模式又重新开始。就好像有某种神秘的力量正在引导这个过程走向一个不确定的目标。"
+ mem_crucible.100.a:0 "我们得查个水落石出。"
+ mem_crucible.100.b:0 "谁会在乎这种事?"
+ mem_crucible.100.b.tooltip:0 "禁用[From.GetName]的大多数通知。"
+
+ mem_crucible.101.name:0 "关于[mem_crucible_planet.GetName]的调查"
+ mem_crucible.101.desc:0 "[Root.GetName]报告了From.GetName]全面研究的圆满完成。 \n\n这颗行星似乎并不特别罕见。然而，它似乎受到其主星[mem_crucible_controller_planet.GetName]的影响。测量员已经截获了行星之间某种来回的信号交换，尽管现在要说传输的是什么，是出于什么目的还为时过早。"
+ mem_crucible.101.a:0 "我们需要了解更多。"
+
+ mem_crucible.102.name:0 "关于[mem_crucible_controller_planet.GetName]的调查"
+ mem_crucible.102.desc:0 "[Root.GetName]的工作人员无法详细研究[mem_crucible_controller_planet.GetName]的表面。然而，他们仍然设法发现了比以前更多的东西。 \n\n那里肯定在进行某种活动————大量的能量被储存起来。目前还不清楚到底发生了什么，目的是什么，但我们比以往任何时候都更接近于完全揭开这个星球的神秘面纱。"
+ mem_crucible.102.a:0 "迷雾里到底隐藏了什么?"
+
+ mem_crucible.200.name:0 "熔炉之谜"
+ mem_crucible.200.desc:0 "现在，我们已经成功地拦截了[mem_crucible_planet.GetName]和[mem_crucible_controller_planet.GetName]之间奇怪的能量传输，并大致绘制了后者的表面，我们正在接近于揭示整个[mem_crucible_planet.Solar_System.GetName]星系的真正本质。 \n\n我们可以毫无疑问地说，某种存在策划了一个死亡和重生的无尽循环，尽管我们还不知道它的目的可能是什么。然而，不管是谁控制它都可以发挥出巨大的能量。现在，在部分绘制出行星被遮蔽的表面并开始解码信号交换之后，我们有望最终解开这个谜团。"
+ mem_crucible.200.a:0 "太好了,让我们继续。"
+ mem_crucible.200.b:0 "我们已经走得太远。有些秘密最好不要知道。"
+
+ mem_crucible.201.name:0 "熔炉控制器"
+ mem_crucible.201.desc:0 "[Leader.GetName]报道，[Leader.GetSheHe] [Leader.GetHasHave]能够修改[Root.GetName]的传感器阵列，穿透神秘的迷雾，找出[mem_crucible_controller_planet.Solar_System.GetName]星系中奇怪现象发生的原因。 \n\n在[mem_crucible_controller_planet.GetName]的迷雾深处，摆放着一台古老而强大的机器，叫做"§Y控制器§!"。它仅被设置了一个目的————防止被称为§S沃达雷恩§!的生物从它的卫星上逃脱。然而，在系统给的参数中，任务是不可能完成的。控制者所能做的就是制造凡人的躯壳来存放沃达雷恩的碎片，这些碎片因此陷入奇怪的成熟周期中，一旦这些凡人可以接近星球逃逸速度，就会被扼杀。在控制器完全损坏之前，循环本身永远不会结束。"
+ mem_crucible.201.a:0 "关闭控制器。"
+ mem_crucible.201.a.tooltip:0 "沃达雷恩将会逃脱，释放出可让我们提出领土主张的[mem_crucible_planet.GetName]盖亚星球。"
+ mem_crucible.201.b:0 "提高控制器的效率。"
+ mem_crucible.201.c:0 "我们可以找到更永久的解决办法。"
+ mem_crucible.201.d:0 "重新调整控制器的用途供我们使用。" #Not implemented yet
+ mem_crucible.201.e:0 "让控制器不间断地继续它的循环。"
+
+ mem_crucible.301.name:0 "真正的沃达雷恩"
+ mem_crucible.301.desc:0 "沃达雷恩的实体已经形成，摆脱了[mem_crucible_planet.GetName]的限制，留下了他凡人的外壳。 \n\n这个强大的灵能存在现在对整个星系造成威胁，如果我们不能解决的话。"
+ mem_crucible.301.a:0 "我们必须为战斗做准备。"
+
+ mem_crucible.302.xenophile:0 "我可以问你们点事吗? \n\n你们是不是总是不加考虑就把别人的项目停止?你有没有想过，也许你的所作所为会导致意想不到的后果? \n\n我们想知道你们这么做是只是一个随机的判断失误，还是你们就是喜欢在银河系四处乱逛，破坏不属于你们的东西?"
+ mem_crucible.302.xenophobe:0 "不值一提的[Root.GetSpeciesNamePluralInsult]渣滓们! \n\n你知道你做了什么吗?你知道你要做什么吗?你愚蠢的干涉让整个银河系处于危险之中!"
+ mem_crucible.302.a:0 "当时看起来以为是个好主意……"
+ mem_crucible.302.b:0 "我们只是想看看会发生什么。"
+ mem_crucible.302.c:0 "这种疯狂必须结束。"
+ mem_crucible.302.d:0 "在我们的领土上，我们就可以为所欲为。"
+
+ mem_crucible.310.name:0 "沃达雷恩解决方案"
+ mem_crucible.310.desc:0 "虽然[Root.GetName]的工作人员无法真正“解决”沃达雷恩的问题，但他们成功地打破了循环。\n\n浓雾已经完全吞没了[mem_crucible_planet.GetName]，永远将星球与我们的现实隔绝。在不需要它的情况下，控制器降低了它的防御能力，移除了[mem_crucible_controller_planet.GetName]上空浓密的迷雾，关闭了它，留给我们的是星球和它的奇怪技术。"
+
+ mem_crucible.320.name:0 "沃达雷恩解决方案"
+ mem_crucible.320.desc:0 "使用我们对灵能的理解，[Leader.GetName]能够为沃达雷恩的问题制定一个替代的解决方案。 \n\n恶性的灵能实体已经被有效地中和了，留下了沃达雷恩躯体，即[mem_crucible_country.GetSpeciesNamePlural]，他们获得了真正的自由。 \n\n最后，控制器已经达到了目的且降低了它的防御能力，让[mem_crucible_planet.GetName]和[mem_crucible_controller_planet.GetName]都可以由我们来决定。"
+
+ #Ages
+ mem_crucible_insanity_age:0 "集体精神错乱"
+ mem_crucible_insanity_age_desc:0 "这个星球上的人口相对较发达，但被某种集体精神错乱所控制，他们随机地进行无意义的暴力活动，疯狂地唱着无意义的咒语。"
+
+ #Opinion
+ mem_crucible_broke_crucible:0 "干涉"
+
+ #Buildings
+ d_mem_crucible_controller:0 "控制器"
+ d_mem_crucible_controller_desc:0 "巨大灵能计算机的残骸。在解决了它被创造出来的问题之后，它已经关闭了，但即使是一个空壳也包含着惊人的技术。"
+
+ #Chain and projects
+ mem_crucible_chain_title:0 "熔炉"
+ mem_crucible_chain_desc:0 "[mem_crucible_planet.GetName]上无尽的死亡和重生循环不可能是自然的。 \n\n不管背后是什么，我们都必须找出真相。"
+
+ MEM_CRUCIBLE_STUDY_HOMEWORLD:0 "研究循环世界"
+ MEM_CRUCIBLE_STUDY_HOMEWORLD_DESC:0 "[mem_crucible_planet.GetName]是一个陷入死亡和重生的无尽循环的月亮。如果我们要找出原因，这就是我们应该开始的地方。"
+ MEM_CRUCIBLE_STUDY_CONTROLLER:0 "研究$pc_shrouded$"
+ MEM_CRUCIBLE_STUDY_CONTROLLER_DESC:0 "[mem_crucible_controller_planet.GetName]永远笼罩在奇怪的雾中，被困在无尽的轮回中的月亮环绕。一定有什么特别之处。"
+ MEM_CRUCIBLE_CONTACT_THE_CONTROLLER:0 "问题的根源"
+ MEM_CRUCIBLE_CONTACT_THE_CONTROLLER_DESC:0 "导致[mem_crucible_planet.GetName]的无休止循环的是[mem_crucible_controller_planet.GetName]。 \n\n是时候找到它了。"
+ MEM_CRUCIBLE_SOLVE_THE_PROBLEM:0 "解决问题"
+ MEM_CRUCIBLE_SOLVE_THE_PROBLEM_DESC:0 "控制器撞上了一堵墙试图找出解决问题的办法。它可以使用外部视角。"
+ MEM_CRUCIBLE_CHANGE_THE_PROBLEM:0 "变化的参数"
+ MEM_CRUCIBLE_CHANGE_THE_PROBLEM_DESC:0 "控制器在给定的参数范围内无法解决这一问题。 \n\n但有了我们自己对灵能力量的理解，我们可以给它一个真正的解决方案。"
+
+ job_mem_crucible_researcher:1 "熔炉控制器研究员"
+ job_mem_crucible_researcher_plural:1 "熔炉控制器研究员"
+ job_mem_crucible_researcher_desc:1 "在研究一台巨大的灵能计算机残骸的研究人员，这台计算机在解决了它为之创造的问题后关闭了，给我们留下了一个充满神奇技术的空壳。"
+ 
+ job_mem_crucible_research_drone:1 "熔炉控制器研究工蜂"
+ job_mem_crucible_research_drone_plural:1 "熔炉控制器研究工蜂"
+ job_mem_crucible_research_drone_desc:1 "在研究一台巨大的灵能计算机残骸的研究工蜂，这台计算机在解决了它为之创造的问题后关闭了，给我们留下了一个充满神奇技术的空壳。"
+
+ mod_job_mem_crucible_researcher_add:1 "$job_mem_crucible_researcher$ 职位"
+ mod_job_mem_crucible_researcher_per_pop:1 "§G+1§! $job_mem_crucible_researcher$ 职位每 $VALUE$ 人口"
+ mod_job_mem_crucible_researcher_per_pop_short:1 "\n§G+1§! £job_researcher£ 每 $VALUE$ £pop£"
+ 
+ mod_job_mem_crucible_research_drone_add:1 "$job_mem_crucible_research_drone$ 职位"
+ mod_job_mem_crucible_research_drone_per_pop:1 "§G+1§! $job_mem_crucible_research_drone$ 职位每 $VALUE$ 人口"
+ mod_job_mem_crucible_research_drone_per_pop_short:1 "\n§G+1§! £job_researcher£ 每 $VALUE$ £pop£"

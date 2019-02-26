@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+
+    trait_pc_void_dwelling_preference:0 "虚空住所偏好"
+        trait_pc_void_dwelling_preference_desc:0 "§L气候偏好是由基因水平、进化过程或熟练操作决定的。§!"
+        
+    trait_voidborne:0 "空洞的"
+        trait_voidborne_desc:0 "§L这个物种已经完全适应了太空生活。他们不需要或渴望在星球上生活。§!"

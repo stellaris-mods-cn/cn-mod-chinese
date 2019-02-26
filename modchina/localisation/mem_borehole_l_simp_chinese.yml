@@ -1,0 +1,38 @@
+﻿l_simp_chinese:
+ mem_borehole_category:0 "地洞"
+ mem_borehole_category_desc:0 "表面成像揭示了星球地壳的一个长垂直轴。精确的、正确的角度和异常光滑的表面显示出人为的起源。"
+  
+ mem_borehole.1.name:0 "废弃矿井深部"
+ mem_borehole.1.desc:0 "[Root.GetLeaderName]据报道，这种装置是某种矿物，旨在从地壳深处提取矿物质。该煤矿目前已被停用，只需进行少量维修，就可以在网上恢复。"
+ mem_borehole.1a:0 "修复钻孔设备."
+ mem_borehole.1b:0 "拆卸设备,了解它的秘密"
+ mem_borehole.1c:0 "打捞钻孔设备."
+ 
+ mem_borehole.2.name:0 "稀有矿产资源调查"
+ mem_borehole.2.desc:0 "看起来，这个竖井的设计是为了破坏大量的稀有矿石。然而，就在矿工们到达那个矿床时，由于未知的原因，这个项目被放弃了。"
+ mem_borehole.2a:0 "我们应该研究他们的发现。"
+ mem_borehole.2b:0 "看起来他们发现了加兰提姆."
+ 
+ mem_borehole.3.name:0 "导弹发射井"
+ mem_borehole.3.desc:0 "在矿井的底部，我们的科学团队发现了在[Root.GetLeaderName]的一个巨大火箭，配备了有史以来最大的热核弹头。 ,然而，这并不是一种武器，而是某种新奇的项目，因为它的质量、材料组成和结构意味着它不可能飞行，更不用说实现逃逸速度而不解体。然而，一些设计选择仍然很有趣。"
+ mem_borehole.3a:0 "我们应该研究一下火箭。."
+ 
+ mem_borehole.4.name:0 "栖息地"
+ mem_borehole.4.desc:0 "在检查过程中，发现竖井的墙壁是由数千个小型的、自给自足的吊舱组成的，它们配备了生命维持系统。他们中的大多数人要么是干净的，要么从来没有人住过，但有些人还是把东西撒在里面，这表明居民们匆忙离开了。豆荚的不同寻常的建筑设计可能是一个有趣的研究课题。"
+ mem_borehole.4a:0 "我们应该调查一下."
+ 
+ mem_borehole.5.name:0 "污泥沉积"
+ mem_borehole.5.desc:0 "最初的观测表明，竖井几乎完全充满了高能放射性污泥。它很可能是另一个文明的工业污染的垃圾场。[Root.GetLeaderName]拒绝进一步调查，理由是[Leader.GetHerHis]缺乏对我们的危险物质保护技术的信心，该技术能够将[Leader.GetHerHim]和[Leader.GetHerHis]团队从“违背自然的罪行”中拯救出来。"
+ mem_borehole.5a:0 "恶心。但有趣."
+ 
+ mem_borehole.6.name:0 "种族底部"
+ mem_borehole.6.desc:0 "科学小组检查了钻孔。从墙上的纹理判断，它是用一种强大的激光装置雕刻而成的，而且似乎已经到达了行星的熔融核心，而没有任何特别有用的矿床。在附近，[Root.GetLeaderName]到了一个很长时间没有能量的小发射器。对其数据库的初步分析表明，它的目的是在整个星系中重复播放一条信息，吹嘘要在竞争对手之前到达星球的熔核。"
+ mem_borehole.6a:0 "祝贺你,可能."
+ 
+ mem_borehole.7.name:0 "没有发现任何价值"
+ mem_borehole.7.desc:0 "[Root.GetLeaderName]报告说，虽然竖井肯定是人工钻孔，但它被废弃了，没有任何有用的技术或矿藏可以回收。"
+ 
+ mem_borehole.8.name:0 "这是个陷阱！"
+ mem_borehole.8.desc:0 "在探索[From.GetName]上的钻孔时，§Y[Root.GetLeaderName]§!触发了某种类型的陷阱，导致整个结构崩溃，导致[Leader.GetHerHim]和大部分[Leader.GetHerHis]团队失联。"
+
+ 

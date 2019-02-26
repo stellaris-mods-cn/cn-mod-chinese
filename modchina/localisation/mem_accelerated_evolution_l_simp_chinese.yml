@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ # Accelerated Evolution
+ # Idea and Writing by ForeMole
+ # Code by LamilLerran
+ mem_accelerated_evolution_modifier:0 "快速的演化"
+ mem_accelerated_evolution_modifier_desc:0 "这个星球上的生物以惊人的速度在演化。"
+ mem_accelerated_evolution.1.name:0 "快速的演化"
+ mem_accelerated_evolution.1.desc:0 "在§Y[Root.GetName]§!这个殖民地生活了几个月后，人们开始留意到周遭的环境有点古怪 ─ 在这个星球上的物种的外表与体型一月比一月变化巨大。根据该殖民地管理局的指令下快速研究所得知，原因是§Y[Root.GetName]§!上的动植物演化过程速度惊人的快。科学家在生物样本身上得知其繁殖方式非常独特，竟然同时包括有性和无性生殖，再加上比正常更快的生命週期，才会出现这种不寻常的情况。\n\n此外，由于殖民地居民需要长期不断重新适应该星球不停变化的生态环境，使他们始终无法舒适地落地生根 ─ 严格地说，无一种外来的生物可以做到。幸运的是，无间断的演化以及高速的繁殖令到农业技术和演化学说获得重大跃进。总而言之，§Y[Root.GetName]§!的生态环境以至其规模实在过于複杂而难以干预或改变。无论结果好坏，殖民地居民都得坦然接受。"
+ mem_accelerated_evolution.1.a:0 "好吧，如果我们无能为力的话..."

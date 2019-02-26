@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+
+# Technology
+
+# Physics
+
+tech_cofh_se_improved_disengage_chance:0 "紧急传感器校准"
+tech_cofh_se_improved_disengage_chance_desc:0 "改进的传感器校准技术应该允许在紧急情况下更快的反应。"
+
+tech_cofh_se_improved_jumpdrive_range:0 "时空预测优化"
+tech_cofh_se_improved_jumpdrive_range_desc:0 "改进的量子启动方法应该允许FTL范围的增加。"
+
+tech_cofh_se_reduced_emergency_ftl_damage:0 "结构完整性领域"
+tech_cofh_se_reduced_emergency_ftl_damage_desc:0 "改进的护盾技术应该允许船体被直接加固。"
+
+tech_cofh_se_reduced_ftl_windup:0 "超空间校准"
+tech_cofh_se_reduced_ftl_windup_desc:0 "对我们的超空间传感器的改进应该允许我们减少启动FTL引擎所需的时间。"
+
+tech_cofh_se_reduced_ftl_winddown:0 "时空共振阻尼"
+tech_cofh_se_reduced_ftl_winddown_desc:0 "对我们的驱动线圈的改进应该允许我们减少在FTL旅行后持续的时空共振周期。"

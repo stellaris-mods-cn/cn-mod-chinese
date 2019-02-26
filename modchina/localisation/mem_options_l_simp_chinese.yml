@@ -1,0 +1,106 @@
+﻿l_simp_chinese:
+ #################################################
+ # Text by Malthus                               #
+ #################################################
+ # Options Menu
+ 
+ # Edict
+ edict_mem_options_menu:0 "More Events Mod设置"
+ edict_mem_options_menu_desc:0 "这个法令用来打开设置菜单。"
+
+ # Event Chain
+ mem_options_chain_title:0 "MEM设置"
+ mem_options_chain_desc:0 "这里提供许多选项来定制你的当前的游戏以便提高你的趣味。如果你不选择修改，一切将会按照MEM标准设置进行。访问菜单只是个研究项目。"
+
+ # Options Project
+ MEM_OPTIONS_PROJECT:0 "激活菜单"
+ MEM_OPTIONS_PROJECT_DESC:0 "这样做会打开菜单选项。"
+ MEM_OPTIONS_REMOVAL_PROJECT:0 "移除菜单"
+ MEM_OPTIONS_REMOVAL_PROJECT_DESC:0 "该菜单会永久存在在这里。当你不想再看到或者使用它，你可以这样做。"
+
+ # Basic Functions
+ mem_options.back:0 "返回"
+ mem_options.exit:0 "退出"
+
+ # Main Menu
+ mem_options.4.name:0 "主菜单"
+ mem_options.4.desc:0 "在这里，你可以选择不同的选项。"
+ mem_options.4.a:0 "LEX设置"
+ mem_options.4.b:0 "掩体星球设置"
+ mem_options.4.c:0 "§G启用§!天堂修正"
+ mem_options.4.c.tooltip:0 "这增加了“天堂世界”对每一个盖亚行星和环世界的修正。(它增加了10%的幸福和增长速度，5%对所有的资源和科研点，并增加了25%的迁移吸引力在这个星球上的一个殖民地。)"
+ mem_options.4.d:0 "§R禁用§!天堂BUFF"
+ mem_options.4.d.tooltip:0 "这从每一个盖亚行星和环世界中移除“天堂世界”的BUFF。(这一修改版增加了10%的幸福和增长速度，5%给所有的资源e和科研点，并增加了25%的迁移吸引力在这个星球上的一个殖民地。)"
+ mem_options.4.e:0 "强制生成菜单"
+ mem_options.4.f:0 "奥利拉战舰预览"
+ mem_options.4.g:0 "时钟中断选项"
+ mem_options.4.h:0 "测量者探测器选项"
+
+
+ # Lex Menu
+ mem_options.5.name:0 "LEX菜单"
+ mem_options.5.desc:0 "在这里，你可以选择不同的选项。"
+ mem_options.5.a:0 "§R禁用§! 瓦祖兰威胁"
+ mem_options.5.a.tooltip:0 "瓦祖兰威胁危机目前§G启用§!"
+ mem_options.5.b:0 "§G启用§! 瓦祖兰威胁"
+ mem_options.5.b.tooltip:0 "瓦祖兰威胁危机目前§R禁用§!"
+ mem_options.5.c:0 "修正瓦祖兰星系中出现BUG的恒星基地"
+ mem_options.5.c.tooltip:0 "如果你已经加载了一个瓦祖兰人仍然拥有他们星系的游戏存档，那么游戏会创建一个多余的不能被占领的恒星基地。使用该选项把其所有权转移到你的帝国。"
+
+ # Shield World Menu
+ mem_options.6.name:0 "掩体世界菜单"
+ mem_options.6.desc:0 "在这里，你可以启用或停用各种关于屏障世界的设置。"
+ mem_options.6.a:0 "§G打开§!星球护盾影响"
+ mem_options.6.b:0 "§R关闭§!星球护盾影响"
+ mem_options.6.c:0 "§G打开§!掩体世界影响"
+ mem_options.6.d:0 "§R关闭§!掩体世界影响"
+
+ # Force Spawning Menu
+ mem_options.7.name:0 "强制生成菜单"
+ mem_options.7.desc:0 "这里您可以生成各种异常和事件。"
+ mem_options.7.a:0 "选择异常"
+ mem_options.7.b:0 "选择事件"
+ 
+ # Force Anomaly Spawning Menu
+ mem_options.8.name:0 "强制生成异常子菜单"
+ mem_options.8.desc:0 "这里你可以产生各种异常。在点击其中一个选项后等待两天，通知就会出现。"
+ mem_options.8.a:0 "废弃的机甲死寂世界异常"
+ mem_options.8.b:0 "飞船的坟墓世界异常"
+ mem_options.8.c:0 "矩阵古墓世界异常"
+ mem_options.8.d:0 "巨大的坦克墓世界异常"
+ mem_options.8.e:0 "熔岩堡垒异常"
+ mem_options.8.f:0 "灭绝绑架者异常"
+ 
+ # Force Event Spawning Menu
+ mem_options.9.name:0 "强制生成事件子菜单"
+ mem_options.9.desc:0 "这里可以生成各种事件。在点击其中一个选项后等待两天，通知就会出现。"
+ mem_options.9.a:0 "太空水晶攻击"
+ 
+ # Spaning Notification
+ mem_options.10.name:0 "产生异常"
+ mem_options.10.desc:0 "点击相机可以看到生成地点。"
+ 
+ # Orila Ship Preview
+ mem_options.11.name:0 "奥利拉战舰预览"
+ mem_options.11.desc:0 "在这里你可以衍生出各种各样的奥利拉的舰船来进行测试。他们会出现在你的首都。"
+ mem_options.11.a:0 "生成一艘标准无人机。"
+ mem_options.11.b:0 "生成一艘指挥无人机。"
+ mem_options.11.c:0 "生成一艘护卫舰。"
+ mem_options.11.d:0 "生成一艘打击巡洋舰。"
+ mem_options.11.e:0 "生成一艘天堂之矛。"
+
+ # Broken Clock
+ mem_options.12.name:0 "时钟中断事件子菜单"
+ mem_options.12.desc:0 "时钟中断是一个新的事件链，有时会在游戏中期触发危机般的后果。 \n\n有些玩家可能会发现它会影响游戏的平衡，不喜欢这种方式，或者只是不符合他们喜欢的游戏风格。在游戏中期到来之前，你可以使危机失效，在危机开始后，你可以提前结束它。\n\n请注意，使用这个菜单并不能保证本次游戏会有这场危机。"
+ mem_options.12.a:0 "§R禁用§!事件。"
+ mem_options.12.b:0 "§G启用§! 事件。"
+ mem_options.12.c:0 "立即摧毁不受欢迎的客人。"
+
+ # Surveyor Probe
+ mem_options.13.name:0 "测量者探测器事件子菜单"
+ mem_surveyor.13.desc:0 "测量者探测器是一个新的中立阵营，有时会出现并可能发展成游戏中期危机。它可能会干扰其他mod的平衡或你喜欢的游戏风格，所以只要游戏中期危机尚未开始，你就可以将其从游戏中删除。\n\n此菜单并不一定意味着此游戏中开局存在探测器。"
+ mem_surveyor.13.a:0 "移除狂暴者探测器。"
+ mem_surveyor.13.a.tooltip:0 "你只能在中期危机开始前选这项。"
+ mem_surveyor.13.b:0 "现在触发危机"
+ mem_surveyor.13.b.tooltip:0 "你不能在多人游戏中手动触发危机。"
+

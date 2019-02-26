@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+ mem_comet_lost.1.name:0 "失去彗星"
+ mem_comet_lost.1.desc:0 "一个曾在数千年来在[Capital_Scope.Solar_System.GetName]星系中循环，在整个[root.GetSpeciesAdj]历史中重复多次出现在[Capital_Scope.GetName]的天空中的彗星，已走完了其令人难以置信的复杂路径并永远离开了这颗星系的界限。\n\nn它现在已经超出了我们传感器的跟踪范围，并且预计在千年内不会回到已绘制的空间里。"
+ mem_comet_lost.1.desc.alt:0 "[the_guy.GetName]的彗星已经在[Capital_Scope.Solar_System.GetName]星系中循环了数千年，并在整个[root.GetSpeciesAdj]历史中重复多次出现在[Capital_Scope.GetName]的天空中。然而，我们的天文学家告诉我们，它已经走完了其令人难以置信的复杂路径并永远离开了这颗星系的界限。\n\n它现在已经超出了我们传感器的跟踪范围，并且预计在千年内不会回到已绘制的空间里。"
+ #Julius' Comet has been making rounds through the [Capital_Scope.Solar_System.GetName] System for thousands of years and was repeatedly seen in the sky of [Capital_Scope.GetName] throughout [root.GetSpeciesAdj] history. However, our astronomers inform us that it has finished its incredibly complex path and left the confines of the system forever. \n\nIt is now beyond the tracking range of our sensors and is not projected to return to charted space for many millennia."
+ #Note for translators: The game will generate a random leader to give comet a name and since it's synched, it will be in English. There's no real reason to keep it beside aesthetics, so make two descriptions based on "mem_comet_lost.1.desc" if it's not apropriate to have latin-lettered name in the event.
+ mem_comet_lost.1.a:0 "它将会被怀念。"
+ mem_comet_lost.1.b:0 "已记录。"
+ mem_comet_lost.1.c:0 "让它给外星的世界带来欢乐吧。"
+ mem_comet_lost.1.d:0 "我们将跟随它走向遥远的世界！"
+ mem_comet_lost.1.e:0 "轨道力学计算仍然准确。"

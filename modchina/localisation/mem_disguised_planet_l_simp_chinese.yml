@@ -1,0 +1,32 @@
+﻿
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_disguised_planet_category:0 "变幻无常的行星"
+ mem_disguised_planet_category_desc:0 "这个星球的大气模式并不完全符合模拟，几次深度扫描提供的数据与其他测试大不相同。"
+ 
+ mem_disguised_planet.1.name:0 "全息伪装"
+ mem_disguised_planet.1.desc:0 "进一步的调查显示，[From.GetName]上的所谓有毒气氛实际上并不存在。聪明地使用了全息发生器，利用光线折射和粒子散射创造了令人信服的幻象，让这个星球有着看似厚重的有毒气体。\n\n当假云被分开，[Root.GetName]发现了......一个完全荒芜的世界隐藏在幻象之下。 似乎有人竭尽全力将这片不宜居住的世界伪装成另一种不宜居住的世界。"
+ mem_disguised_planet.1.a:0 "这又是什么意思呢？"
+ 
+ mem_disguised_planet.2.name:0 "隐藏的世界"
+ mem_disguised_planet.2.desc:0 "[From.GetName]报告称，[From.GetName]上的推测的有毒气氛实际上是无害的。通过使用全息发生器，利用光线折射和粒子散射创造了令人信服的幻象，让这个星球有着看似厚重的有毒气体，而实际上这里的大气似乎是相当良性的。\n\n当假云被分开，一个可居住的表面暴露在下面。似乎在某种程度上，有任付出了相当大的努力将这个世界伪装成一个不那么适合居住的世界。"
+ mem_disguised_planet.2.a:0 ""
+ 
+ mem_disguised_planet.3.name:0 "迷雾缠绕"
+ mem_disguised_planet.3.desc:0 "进一步的调查显示，[From.GetName]上的所谓有毒气氛实际上并不存在。聪明地使用了全息发生器，利用光线折射和粒子散射创造了令人信服的幻象，让这个星球有着看似厚重的有毒气体。\n\n[Root.GetName]实际上在假云层下发现的东西非常奇怪 - 一个小行星完全覆盖在看起来完全无法穿透的盾牌中，这意味着它仍然完全不清楚这个行星是由谁以及为何目的被全面隐藏。"
+ mem_disguised_planet.3.a:0 "非常奇怪。"
+ 
+ mem_disguised_planet.100.name:0 "失败"
+ mem_disguised_planet.100.desc:0 "[Root.GetName]无法复制[FromFrom.GetName]上以前的异常读数。 它们可能是由不正确校准的传感器引起的。"
+ mem_disguised_planet.100.a:0 "令人失望。"
+ 
+ mem_disguised_planet_modifier:0 "全息投影仪"
+ mem_disguised_planet_modifier_desc:0 "古代全息投影仪在这个世界上产生了有毒云彩的虚假图像。"
+ 
+ d_mem_disguised_planet_mystery_pile:0 "神秘建筑物"
+ d_mem_disguised_planet_mystery_pile_desc:0 "目前还不清楚究竟这一堆建筑是什么，不同之处在于它是由非常复杂的聚合物，让人看着很不舒服，闻起来也臭。它还经常摇晃颤动。"
+
+ d_mem_disguised_planet_triple_deposit:1 "隐藏的峡谷"
+ d_mem_disguised_planet_triple_deposit_desc:1 "安全地隐藏在剧毒世界的虚假景象之下，是一个富含稀有资源的峡谷。"

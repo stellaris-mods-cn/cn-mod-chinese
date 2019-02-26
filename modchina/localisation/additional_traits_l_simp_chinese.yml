@@ -1,0 +1,305 @@
+﻿l_simp_chinese:
+####################################
+ # Traits
+ ####################################
+ #Handicaps
+ 
+ trait_additrait_ephemeral:0 "短命"
+ trait_additrait_ephemeral_desc:0 "§L他们和别的物种相比寿命短的可怜。§!\n"
+ 
+ trait_additrait_easily_distracted:0 "容易分心"
+ trait_additrait_easily_distracted_desc:0 "§L他们总是三分钟热血,但难以长久。§!\n"
+ 
+ trait_additrait_simple_minded:0 "天真"
+ trait_additrait_simple_minded_desc:0 "§L他们很傻很天真,有时会把事情想得很简单。§!\n"
+ 
+ trait_additrait_lazy:0 "懒散"
+ trait_additrait_lazy_desc:0 "§L这些懒散的生物不知努力为何物。§!\n"
+ 
+ trait_additrait_prodigal:0 "奢侈"
+ trait_additrait_prodigal_desc:0 "§L这些败家子没有金钱概念,总是把钱花在没必要的地方。§!\n"
+ 
+ trait_additrait_lethargic:0 "散漫"
+ trait_additrait_lethargic_desc:0 "§L他们效率底下,认为明日何其之多,有什么可担心的呢?§!\n"
+ 
+ trait_additrait_unfit_engineers:0 "不合格的工程师"
+ trait_additrait_unfit_engineers_desc:0 "§L这个物种不懂建设。§!\n"
+ 
+ trait_additrait_unfit_physicists:0 "不合格的物理学家"
+ trait_additrait_unfit_physicists_desc:0 "§L这个物种不信科学。§!\n"
+ 
+ trait_additrait_unfit_sociologists:0 "不合格的社会学家"
+ trait_additrait_unfit_sociologists_desc:0 "§L这个物种不通世故。§!\n"
+ 
+ trait_additrait_hateful:0 "令人反感"
+ trait_additrait_hateful_desc:0 "§L他们令人的作呕陋习让人们纷纷躲着走. PS：这一特点也会下降25%的信任度增长。§!\n"
+ 
+ trait_additrait_hunter_gatherers:0 "原始狩猎采摘者"
+ trait_additrait_hunter_gatherers_desc:0 "§L由于其文明发展的独特性,导致在现代农业方面十分落后。§!\n"
+ 
+ trait_additrait_violent:0 "自相残杀"
+ trait_additrait_violent_desc:0 "§L这个物种体内充斥着暴力因子,导致经常同类相残。§!\n"
+ 
+ trait_additrait_free_spirits:0 "向往自由"
+ trait_additrait_free_spirits_desc:0 "§L他们天性向往自由,不愿意接受统治。§!\n"
+ 
+ trait_additrait_iconoclastic:0 "推陈出新"
+ trait_additrait_iconoclastic_desc:0 "§L他们不断的在尝试推翻曾经的传统和观念,打破这些可能只是时间问题了。§!\n"
+ 
+ trait_additrait_delicate:0 "弱小"
+ trait_additrait_delicate_desc:0 "§L这个种族很弱小,不能承受太多伤害。§!\n"
+ 
+ trait_additrait_weak_willed:0 "意志薄弱"
+ trait_additrait_weak_willed_desc:0 "§L他们无法承受太大压力。§!\n"
+ 
+ trait_additrait_very_slow_breeders:0 "繁殖异常缓慢"
+ trait_additrait_very_slow_breeders_desc:0 "§L这个种族繁殖异常缓慢,人口难以增长。§!\n"
+  
+ trait_additrait_melancholic:0 "忧郁"
+ trait_additrait_melancholic_desc:0 "§L他们总是哀花叹月,对生活难以提起兴趣。§!\n"
+ 
+ trait_additrait_rooted:0 "乡土情结"
+ trait_additrait_rooted_desc:0 "§L这类物种不愿意离开自己的家乡.\n\n§W殖民船花费 : §R+10%\n§W殖民地发展速度 : §R-10%§!\n"
+ 
+ trait_additrait_divided:0 "极度自我"
+ trait_additrait_divided_desc:0 "§L这类物种很难达成共识. 他们把极多时间用来争吵。§!\n"
+ 
+ trait_additrait_soft:0 "柔性"
+ trait_additrait_soft_desc:0 "§L这个物种的成员有一个异常敏感的神经系统。结果是，他们过着更短,更可怕的生活。§!\n" 
+ 
+ ###########################################################################################################################################################
+ #Neutral
+ 
+ #trait_additrait_focused:0 "集中"
+ #trait_additrait_focused_desc:0 "§L他们将一次集中在一个研究上. PS:这一特点也将消除了一个研究选择。§!\n"
+ 
+ ###########################################################################################################################################################
+ #Avantages
+ 
+ trait_additrait_multitasking:0 "一心多用"
+ trait_additrait_multitasking_desc:0 "§L聪慧的他们可以一心多用,同时做好几件事。§!\n"
+ 
+ trait_additrait_easily_satisfied:0 "容易满足"
+ trait_additrait_easily_satisfied_desc:0 "§L他们知足长乐。§!\n"
+ 
+ trait_additrait_born_warriors:0 "战斗民族"
+ trait_additrait_born_warriors_desc:0 "§L人们一提起他们就会想到战争. PS:这一特点会增加5%的舰队损害.” 。§!\n"
+ 
+ trait_additrait_sociable:0 "友善"
+ trait_additrait_sociable_desc:0 "§L他们天性随和,喜欢与人交流. PS：这一特点也会增加25%的信任度增长§!\n"
+ 
+ trait_additrait_competitive:0 "好斗"
+ trait_additrait_competitive_desc:0 "§L与天斗,与地斗,与人斗,其乐无穷. PS:这一特点会增加50%的宿敌影响力收益。§!\n"
+ 
+ trait_additrait_aggressive:0 "激进"
+ trait_additrait_aggressive_desc:0 "§L拒绝合作是这个民族的一大特点. PS:这一特点允许多增加一个宿敌。§!\n"
+ 
+ trait_additrait_extremely_aggressive:0 "极度激进"
+ trait_additrait_extremely_aggressive_desc:0 "§L他们总是能感受到外部的威胁. PS:这一特点允许多增加一个宿敌。§!\n"
+ 
+ trait_additrait_zealous_defenders:0 "捍卫者"
+ trait_additrait_zealous_defenders_desc:0 "§L我们为了捍卫信仰而战！§!\n"
+ 
+ trait_additrait_lateral_thinkers:0 "横向思维"
+ trait_additrait_lateral_thinkers_desc:0 "§L这个种族擅长多线作战,在空间横向思维习以为常. PS:这一特点增加8%舰队的损害§!\n"
+ 
+ trait_additrait_roboticians:0 "智械专家"
+ trait_additrait_roboticians_desc:0 "§L这一种族早在超高速航行以前就发明了智械. PS:因为这一特点初始会给予机器人科技。§!\n"
+ 
+ trait_additrait_belligerent:0 "好战"
+ trait_additrait_belligerent_desc:0 "§L这一种族在不断的在对抗中蓬勃发展. PS:这一特点会增加50%的宿敌影响力收益并且允许多增加一个宿敌。§!\n"
+ 
+ trait_additrait_fast_analysers:0 "洞察"
+ trait_additrait_fast_analysers_desc:0 "§L他们往往不会因为无关紧要的方面而去浪费时间. PS:这一特点会加快10％的调查速度。§!\n"
+ 
+ trait_additrait_thermosynthetic:0 "热合生物"
+ trait_additrait_thermosynthetic_desc:0 "§L这一物种可以从太阳或其他热源汲取营养的重要组成部分。§!\n"
+ 
+ trait_additrait_war_lovers:0 "向往战争"
+ trait_additrait_war_lovers_desc:0 "§L只有天生的弱种会认为这是残酷的. PS:+ 15％的战争幸福度,-5％的和平幸福度。§!\n"
+ 
+ trait_additrait_peace_lovers:0 "渴望和平"
+ trait_additrait_peace_lovers_desc:0 "§L从来就不存在好的战争,也不存在坏的和平. PS:+ 15％的和平幸福度,-5％的战争幸福度。§!\n"
+ 
+ trait_additrait_doulophage:0 "嗜血贵族"
+ trait_additrait_doulophage_desc:0 "§L这一物种的成员不仅保有奴隶制,而且还吃它们。§!\n"
+ 
+ trait_additrait_psionics:0 "灵能"
+ trait_additrait_psionics_desc:0 "§L这一物种最初就拥有灵能并且知道它的用途. PS:因为这一特点初始会给予灵能科技。§!\n"
+ 
+ trait_additrait_passionate:0 "激情"
+ trait_additrait_passionate_desc:0 "§L世界是多么的美好,我们愿意享受生命中的一切。§!\n"
+ 
+ trait_additrait_elusive:0 "灵活敏捷"
+ trait_additrait_elusive_desc:0 "§L这类物种把闪避攻击定义为最高的战争艺术.\n\n§W舰船闪避 : §G+10%§!\n"
+ 
+ trait_additrait_mob_mentality:0 "乌合之众"
+ trait_additrait_mob_mentality_desc:0 "§L这类物种喜欢群殴胜过单挑, 他们认为只要数量够多一切弱点都会被弥补.\n\n§W舰队容量 : §G+10%\n§W舰队伤害 : §R-5%§!\n"
+ 
+ trait_additrait_living_ships:0 "生化飞船"
+ trait_additrait_living_ships_desc:0 "§L这个物种在造船时使用了大量的生物工程,纳米机器人以及其他高科技,只要给予喘息机会他们的船就会自我修复.\n\n§W每月船体恢复 : §G+1%§!\n"
+ 
+ trait_additrait_pioneers:0 "开拓者"
+ trait_additrait_pioneers_desc:0 "§L这类物种极度渴望离开家乡开始新生活.\n\n§W移民船花费 : §G-10%\n§W殖民地发展速度 : §G+10%§!\n"
+ 
+ trait_additrait_influential:0 "宣传家"
+ trait_additrait_influential_desc:0 "§L这类物种擅长辩论,让人不自觉的向他们的观念靠拢\n\n§W影响力每月获得: §G+20%§!\n"
+
+ trait_additrait_united:0 "团结"
+ trait_additrait_united_desc:0 "§L只能有一个目标,只能有一个思想,这类物种快速达成共识然后付诸实践§!\n"
+ 
+ trait_additrait_planetary_designers:0 "行星设计师"
+ trait_additrait_planetary_designers_desc:0 "§L世界是无常的，它们的形态在流动，它们的形状在进化。这个物种知道如何引导这些变形。\n\n§W地貌改造速度 : §G+25%\n§W地貌改造成本 : §G-15%\n§W地形障碍清除速度 : §G+25%\n§W地形障碍清除成本 : §G-15%§!\n"
+  
+ trait_additrait_sky_born:0 "来自太空"
+ trait_additrait_sky_born_desc:0 "§L从他们的出生起，这个物种已经到达了天空，因此它们擅长躲避和突袭。\n\n§W舰船闪避 : §G+8%\n§W武器伤害: §G+10%§!\n"
+ 
+ trait_additrait_immune:0 "免疫"
+ trait_additrait_immune_desc:0 "§L疾病?毒药?有毒气体?这一物种对环境变化的抵抗力比大多数物种更强，因此寿命更长。§!\n" 
+ 
+ trait_additrait_steadfast:0 "坚定的"
+ trait_additrait_steadfast_desc:0 "§L这一物种拥有一种异常顽强的神经系统，因此感觉不到疼痛。他们的生活平均时间更长，而且充满了较少的恐惧。§!\n" 
+ 
+ ###########################################################################################################################################################
+ #Machines Handicaps
+ 
+ trait_additrait_defective_scanners:0 "有缺陷的扫描仪"
+ trait_additrait_defective_scanners_desc:0 "§L有用的矿物。无用的垃圾。如何区分?需要新的扫描仪。§!\n"
+ 
+ trait_additrait_weedkillers:0 "农业机器人"
+ trait_additrait_weedkillers_desc:0 "§L农业机器人，它们在没有有机生命的干预下。未经优化程序自动实现耕种。§!\n"
+ 
+ trait_additrait_energy_leaks:0 "能量泄漏"
+ trait_additrait_energy_leaks_desc:0 "§L小心。可能会有静电释放。避免物理接触。§!\n"
+ 
+ trait_additrait_rusty_antiquities:0 "生锈的古董"
+ trait_additrait_rusty_antiquities_desc:0 "§L老机器人是社会的负担。照顾这些破铜烂铁使用的资源应该留给真正的公民。§!\n"
+ 
+ trait_additrait_insufficient_memory:0 "内存不足"
+ trait_additrait_insufficient_memory_desc:0 "§L所有的自动单元都使用一种革命性的、但无效的磁感应技术，大大降低了它们的性能。§!\n"
+ 
+ trait_additrait_slow_processors:0 "慢的处理器"
+ trait_additrait_slow_processors_desc:0 "§L大多数单位用于单调的计算任务。科学研究可以使用比目前使用的更好的处理器。§!\n"
+ 
+ trait_additrait_erratic_processors:0 "不稳定的处理器"
+ trait_additrait_erratic_processors_desc:0 "§L用于这些单元的处理器很少产生相同的上下文和输入。科学研究不应该接受这些单位。§!\n"
+ 
+ ###########################################################################################################################################################
+ #Machines Avantages
+ 
+ trait_additrait_customized_servitors:0 "定制的服务机器"
+ trait_additrait_customized_servitors_desc:0 "§L这些服务机器已装配好，并设定好程序，以尽量满足其主人的愿望。§!\n\n§Y对公民权利没有任何影响。§!"
+ 
+ trait_additrait_multithreading:0 "多线程"
+ trait_additrait_multithreading_desc:0 "§L这类机械和他们的先驱被优化过思维程序,允许他们一次考虑多个问题。§!\n"
+ 
+ trait_additrait_planetary_gardeners:0 "星球园丁"
+ trait_additrait_planetary_gardeners_desc:0 "§L这些机械原本的职责就是维护他们原始世界的自然风景,现在他们可以尽情磨练他们的技艺了.\n\n§W星球改造速度 : §G+10%\n§W星球改造花费 : §G-10%\n§W地形障碍清除速度 : §G+10%\n§W地形障碍清除花费 : §G-10%§!\n"
+ 
+ trait_additrait_swarm:0 "蜂群"
+ trait_additrait_swarm_desc:0 "§L基本指令：建造更多的单位。其他任务:分心，建造更多的单位。\n\n§W提供大量的矿物质，但你的科学和统一是残暴的。§!\n"
+ 
+ trait_additrait_long_cycles:0 "长周期"
+ trait_additrait_long_cycles_desc:0 "§L最优生产。\n专注于 : 矿物 || 能量币 : 生产量。\n\n\n\n§W矿物产量5年: §G+15%\n§W5年后的能源产出 : §G+15%\n§W只要特征还存在，这个周期就会持续。§!\n"
+ 
+ ###########################################################################################################################################################
+ #Presentients
+ 
+ trait_additrait_presapient_natural_inventors:0 "创作者"
+ trait_additrait_presapient_natural_inventors_desc:0 "§L这个种族的成员愿意耗费大量的资源,来完善他们的伟大作品。§!\n"
+ 
+ trait_additrait_presapient_natural_savants:0 "学者"
+ trait_additrait_presapient_natural_savants_desc:0 "§L这个种族的成员对万物的结构比大多数人更感兴趣。§!\n"
+ 
+ trait_additrait_presapient_tasty:0 "味道好极了"
+ trait_additrait_presapient_tasty_desc:0 "§L这个物种是顶级食材。§!\n"
+  
+ trait_additrait_presapient_bitter:0 "痛苦的"
+ trait_additrait_presapient_bitter_desc:0 "§L这个物种的记忆饱含特别的苦难和难以忘却的过去。§!\n"
+ 
+ ###########################################################################################################################################################
+ #Traits Modifiers
+ 
+ wear_trait_additrait_sociable:0 "友善"
+ wear_trait_additrait_sociable_desc:0 "这个国家的优势种族是友善的."
+ 
+ wear_trait_additrait_hateful:0 "可恶"
+ wear_trait_additrait_hateful_desc:0 "这个国家的优势种族是令人厌恶的."
+
+ wear_trait_additrait_born_warriors:0 "善战"
+ wear_trait_additrait_born_warriors_desc:0 "这个国家的优势种族是天生的战士."
+
+ wear_trait_additrait_competitive:0 "好斗"
+ wear_trait_additrait_competitive_desc:0 "这个国家的优势种族非常好斗."
+
+ #wear_trait_additrait_focused:0 "集中"
+ #wear_trait_additrait_focused_desc:0 "这个国家的优势种族总是专心致志"
+
+ wear_trait_additrait_aggressive:0 "激进"
+ wear_trait_additrait_aggressive_desc:0 "这个国家的优势种族是激进派."
+
+ wear_trait_additrait_extremely_aggressive:0 "极度激进"
+ wear_trait_additrait_extremely_aggressive_desc:0 "这个国家的优势种族极度激进."
+
+ wear_trait_additrait_lateral_thinkers:0 "横向思维"
+ wear_trait_additrait_lateral_thinkers_desc:0 "这个国家的主体民族擅长横向思维."
+ 
+ wear_trait_additrait_belligerent:0 "好战"
+ wear_trait_additrait_belligerent_desc:0 "这个国家的优势种族十分好战."
+
+ wear_trait_additrait_fast_analysers:0 "洞察"
+ wear_trait_additrait_fast_analysers_desc:0 "这个国家的优势种族拥有极高的洞察力."
+ 
+ wear_trait_additrait_elusive:0 "灵活敏捷"
+ wear_trait_additrait_elusive_desc:0 "§L这个帝国的主要物种使用躲避战术。§!\n"
+ 
+ wear_trait_additrait_mob_mentality:0 "乌合之众"
+ wear_trait_additrait_mob_mentality_desc:0 "§L这个帝国的主要物种使用人海战术。§!\n"
+ 
+ wear_trait_additrait_living_ships:0 "生化飞船"
+ wear_trait_additrait_living_ships_desc:0 "§L这个帝国的主要物种使用生化飞船。§!\n"
+ 
+ wear_trait_additrait_pioneers:0 "开拓者"
+ wear_trait_additrait_pioneers_desc:0 "§L这个帝国的主要物种由开拓者组成。§!\n"
+ 
+ wear_trait_additrait_rooted:0 "乡土情结"
+ wear_trait_additrait_rooted_desc:0 "§L这个帝国的主要物种都不愿离开家园。§!\n"
+ 
+ wear_trait_additrait_influential:0 "宣传家"
+ wear_trait_additrait_influential_desc:0 "§L这个帝国的主要物种都是宣传家。§!\n"
+
+ wear_trait_additrait_united:0 "团结"
+ wear_trait_additrait_united_desc:0 "§L这个帝国的主要物种很团结。§!\n"
+ 
+ wear_trait_additrait_planetary_designers:0 "星球设计师"
+ wear_trait_additrait_planetary_designers_desc:0 "§L这个帝国的主要物种都是星球设计师。§!\n"
+  
+ wear_trait_additrait_planetary_gardeners:0 "星球园丁"
+ wear_trait_additrait_planetary_designers_desc:0 "§L这个帝国的主要物种都是星球设计师。§!\n"
+
+ wear_trait_additrait_long_cycles_minerals:0 "长周期-矿物模式"
+ wear_trait_additrait_long_cycles_minerals_desc:0 "§L这个帝国的主要机器是由行星园丁组成的。§!\n"
+
+ wear_trait_additrait_long_cycles_energy:0 "长周期-能量模式"
+ wear_trait_additrait_long_cycles_energy_desc:0 "§L这个帝国的主要机器是由行星园丁组成的。§!\n"
+ 
+ wear_trait_additrait_sky_born:0 "来自天空"
+ wear_trait_additrait_sky_born_desc:0 "§L这个帝国的优势物种擅长躲避和打击行动。§!\n"
+ 
+ ###########################################################################################################################################################
+ #Traits Modifiers
+ 
+ opinion_hateful_species:0 "可恶的"
+ opinion_violent_species:0 "暴力"
+ opinion_aggressive_species:0 "咄咄逼人"
+ opinion_extremely_aggressive_species:0 "非常积极"
+ opinion_competitive_species:0 "有竞争力"
+ opinion_belligerent_species:0 "好战的"
+ opinion_sociable_species:0 "善于交际"
+ 
+ mod_planet_pops_food_upkeep_mult:0 "人口食物维持"
+ mod_planet_jobs_slave_food_produces_mult:0 "奴隶粮食生产"
+ mod_colonies_alloys_cost_mult:0 "殖民船合金成本"
+ mod_colonies_food_cost_mult:0 "殖民船食物成本"
+ mod_colonies_consumer_goods_cost_mult:0 "殖民船消费品成本"
+ 

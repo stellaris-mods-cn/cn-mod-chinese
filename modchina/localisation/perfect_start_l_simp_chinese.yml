@@ -1,0 +1,61 @@
+﻿l_simp_chinese:
+
+ ### Edicts ###
+ edict_genius_edict_default:0 "加大科研经费投入 (天才科学家)"
+ edict_genius_edict_default_desc:0 ""
+ edict_genius_edict_default_effect:0 "雇用一名具有§G天才的火花§!特质的新科学家."
+ 
+ edict_genius_edict_hive:0 "突变 (天才科学家)"
+ edict_genius_edict_hive_desc:0 ""
+ edict_genius_edict_hive_effect:0 "产生一名具有§G天才的火花§!特质的自主工蜂."
+ 
+ edict_genius_edict_machine:0 "加强研究算法 (天才科学家)"
+ edict_genius_edict_machine_desc:0 ""
+ edict_genius_edict_machine_effect:0 "装配一名具有 §天才的火花§!特质的新科学家."
+ 
+ edict_recruit_surveyor:0 "征募调查员"
+ edict_recruit_surveyor_desc:0 ""
+ edict_recruit_surveyor_effect:0 "征募一名特质符合要求的新调查员."
+ 
+ edict_recruit_admiral:0 "征募海军上将"
+ edict_recruit_admiral_desc:0 ""
+ edict_recruit_admiral_effect:0 "征募一名特质符合要求的海军上将."
+
+ ### Events ###
+ ps_genius_edict.00.name:0 "天才的火花"
+ ps_genius_edict.00.desc:0 "[researcher.GetName],额外的具有§G天才的火花§!特质的领袖,已被添加至列表."
+ 
+ ps_genius_edict.01.name:0 "新调查员"
+ ps_genius_edict.01.desc:0 "[surveyor.GetName]已添加至领袖列表.请分配特质."
+ ps_genius_edict.01.a:0 "$leader_trait_archaeologist$"
+ ps_genius_edict.01.a.desc:0 "§Y古代文明异常:\n§!异常研究速度 : §G+50%\n§!异常研究失败风险: §G-25%"
+ ps_genius_edict.01.b:0 "$leader_trait_cataloger$"
+ ps_genius_edict.01.b.desc:0 "调查速度: §G+25%"
+ ps_genius_edict.01.c:0 "$leader_trait_carefree$"
+ ps_genius_edict.01.c.desc:0 "异常研究速度: §G+35%"
+ ps_genius_edict.01.d:0 "$leader_trait_careful$"
+ ps_genius_edict.01.d.desc:0 "异常研究失败风险: §G-10%"
+ ps_genius_edict.01.e:0 "$leader_trait_meticulous$"
+ ps_genius_edict.01.e.desc:0 "异常发现几率: §G+10%"
+ ps_genius_edict.01.f:0 "$leader_trait_roamer$"
+ ps_genius_edict.01.f.desc:0 "调查速度: §G+25%"
+
+ ps_genius_edict.02.name:0 "新海军上将"
+ ps_genius_edict.02.desc:0 "[newadmiral.GetName]已添加至领袖列表.请分配特质."
+ ps_genius_edict.02.a:0 "$leader_trait_aggressive$"
+ ps_genius_edict.02.a.desc:0 "射速: §G+5%\n§!战斗中舰船速度: §G+10%"
+ ps_genius_edict.02.b:0 "$leader_trait_cautious$"
+ ps_genius_edict.02.b.desc:0 "射程: §G+20%"
+ ps_genius_edict.02.c:0 "$leader_trait_engineer$"
+ ps_genius_edict.02.c.desc:0 "每月船体再生: §G+2%"
+ ps_genius_edict.02.d:0 "$leader_trait_fleet_logistician$"
+ ps_genius_edict.02.d.desc:0 "舰船维护费: §G-10%"
+ ps_genius_edict.02.e:0 "$leader_trait_gale_speed$"
+ ps_genius_edict.02.e.desc:0 "闪避: §G+50%\n§!亚光速速度: §G+20%\n§!战斗中舰船速度: §G+20%"
+ ps_genius_edict.02.f:0 "$leader_trait_scout$"
+ ps_genius_edict.02.f.desc:0 "传感器范围: §G+25%\n§!亚光速速度: §G+20%"
+ ps_genius_edict.02.g:0 "$leader_trait_trickster$"
+ ps_genius_edict.02.g.desc:0 "亚光速速度: §G+20%\n§!战斗脱离机会: §G+25%"
+ ps_genius_edict.02.h:0 "$leader_trait_unyielding$"
+ ps_genius_edict.02.h.desc:0 "船体值: §G+10%\n§!武器伤害: §G+5%\n§!战斗脱离机会: §R-33%"
+ 

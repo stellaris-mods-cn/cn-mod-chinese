@@ -1,0 +1,42 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # Categories
+ # ###################################
+
+ arcane:0 "神秘的"
+ arcane_desc:0 "真实的宇宙。"
+ 
+ # ###################################
+ # Trade Hub
+ # ###################################
+ 
+ tech_trade_hub:0 "一级贸易中心"
+ tech_trade_hub_desc:0 "一种艺术购物中心，充斥着各种各样的商品。"
+ tech_trade_energy:0 "大型电子商店"
+ tech_trade_energy_desc:0 "一个装满各种小玩意的大超市。一级贸易中心的一个模块。"
+ tech_trade_minerals:0 "矿业协会总部"
+ tech_trade_minerals_desc:0 "一个大型采矿公会的基地。一级贸易中心的一个模块。"
+ tech_trade_food:0 "世界水培农业"
+ tech_trade_food_desc:0 "一个大型水培农场堆满了各种各样的食物。一级贸易中心的一个模块。"
+ tech_trade_weapons:0 "大型枪械经销商"
+ tech_trade_weapons_desc:0 "一个巨大的大型武器经销商。一级贸易中心的一个模块。"
+ tech_trade_army:0 "国家军队招募中心"
+ tech_trade_army_desc:0 "一个庞大的征兵中心。 一级贸易中心的一个模块。"
+ tech_trade_mech:0 "大型工程综合体"
+ tech_trade_mech_desc:0 "一个大型工程专家公会。一级贸易中心的一个模块。"
+ tech_trade_hospital:0 "国家医院"
+ tech_trade_hospital_desc:0 "一间宽敞的医院，里面摆满了各种各样的医疗器械。 一级贸易中心的一个模块。"
+ tech_trade_eco:0 "生态生物模拟器"
+ tech_trade_eco_desc:0 "一种用于生态系统研究的艺术生物穹顶的东西。一级贸易中心的一个模块。"
+ tech_trade_lab:0 "科学发现设施"
+ tech_trade_lab_desc:0 "一个广阔的科学中心充满了最先进的设备。一级贸易中心的一个模块。"
+ tech_trade_school:0 "全国社区大学"
+ tech_trade_school_desc:0 "一个由我们自己的政府资助的世界校园。一级贸易中心的一个模块。"
+ 
+ #####################################
+ # Gateways
+ #####################################
+ gateway_tradehub:0 "§H大贸易中心§!\n§E这项技术将解锁§H大贸易中心§!和它的子模块"
+ gateway_arcane:0 "§H神秘的路径§!\n§E这项技术将会进一步促进该领域的发展。§!"
+ 

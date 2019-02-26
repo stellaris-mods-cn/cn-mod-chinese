@@ -1,0 +1,147 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Habitat Modifiers
+ ###################################################
+ 
+ # 1 h
+ Habitat_Tier_1:0 "建造栖息地：§L高规格§!"
+ Habitat_Tier_1_desc:0 "建造栖息地的结果比预期来的好。"
+ 
+ # 2 h
+ Habitat_Tier_2:0 "建造栖息地：§T建筑之美§!"
+ Habitat_Tier_2_desc:0 "建造栖息地取得了令人难以置信的好结果！这个建筑的架构令人赞不绝口。"
+ 
+ # 3 h
+ Habitat_Tier_3:0 "建造栖息地：§Y完美设计§!"
+ Habitat_Tier_3_desc:0 "栖息地的建造达到了一个完美的结果！建筑是如此的完美，布局优雅而不失崇高。所以内部的系统功能都比预期的好。"
+ 
+ # 4 h
+ Habitat_Stadium:0 "人造重力运动场"
+ Habitat_Stadium_desc:0 "在群众的要求下，这个栖息地配备了一个大体育场。它的内部架构了人造重力发生器，允许大家游玩各种刺激的运动。"
+ 
+ # 5 h
+ Habitat_Trade_Docks:0 "拓展贸易码头"
+ Habitat_Trade_Docks_desc:0 "这个栖息地非常接近繁忙的贸易路线，这使它成为一个理想的贸易站或枢纽。由于这个原因，标准体量的码头已扩容新建，并为贸易商建造了更多船坞。"
+ 
+ # 6 h
+ Habitat_Holonet_Entertainment_Systems:0 "全息娱乐系统"
+ Habitat_Holonet_Entertainment_Systems_desc:0 "在这个栖息地上设置了多样化的娱乐系统。在全息影像和强光发射器的支持下，可让人们体验到各种触觉娱乐。这对身心而言均是无与伦比的奢侈享受。"
+ 
+ # 7 h
+ Habitat_Replicator_Systems:0 "复制系统"
+ Habitat_Replicator_Systems_desc:0 "它取代了食物的基础运输系统和任何可能需要的东西，这个栖息地配备了小型但高效的物质-能量复制器。简单的告诉它你需要什么，它就会在你面前被创造出来！我们正活在未来！"
+ 
+
+ # new 1.9
+ # 8 h
+ Habitat_Spaceroute_Hub:0 "太空贸易枢纽"
+ Habitat_Spaceroute_Hub_desc:0 "这个栖息地横跨了多个星系的贸易网络的枢纽。这是多条贸易路线在此处交汇的理想位置。 "
+ 
+ # 9 h
+ Habitat_Extensive_Moon_Mining:0 "大型月球采矿业务"
+ Habitat_Extensive_Moon_Mining_desc:0 "这个栖息地配置了多个船只对接舱，这有效支持了在月球上大型的采矿业务。"
+
+ # 10 h
+ Habitat_Asteroid_Belt_Mining:0 "小行星带采矿作业"
+ Habitat_Asteroid_Belt_Mining_desc:0 "这个栖息地中心的数个船坞改造添加了支持小行星带采矿作业的功能。"
+
+ # 11 h
+ Habitat_Frequent_Thunderstorms_Research:0 "频繁雷暴的调查"
+ Habitat_Frequent_Thunderstorms_Research_desc:0 "这个栖息地配备了几所先进的科学实验室，致力于研究在这个星球上出现的独特雷暴现象。"
+
+ # 12 h
+ Habitat_Radioactive_Mantle_Mining:0 "放射性地幔挖掘"
+ Habitat_Radioactive_Mantle_Mining_desc:0 "这个栖息地配有一个强大的采矿激光瞄准这行星地表的纹理。行星表面的的采矿系统收集蒸发后的放射性物质并将其运回矿站。"
+
+ # 13 h
+ Habitat_Frequent_Asteroid_Flybys:0 "频繁的小行星飞越"
+ Habitat_Frequent_Asteroid_Flybys_desc:0 "这个栖息地有安装了数个偏转系统，以防止受到数以百计的小行星撞击。小行星撞击主偏移板的时候会产生独特的蒸汽，在太阳的辐射下会短暂地发亮。"
+
+ # 14 h
+ Habitat_Highly_Charged_Particle_Collection:0 "高电荷粒子收集器"
+ Habitat_Highly_Charged_Particle_Collection_desc:0 "这个栖息地设置了几个先进的粒子收集器，致力于研究从星球大气层中喷射出的稀有粒子。"
+
+ # 15 h
+ Habitat_Ancient_Temple_Expeditions:0 "探索古代遗迹"
+ Habitat_Ancient_Temple_Expeditions_desc:0 "这个栖息地作为一个集结场所，几个月就会组织一些探险活动，专门探索和研究下这个星球上的各种遗址。"
+
+ # 16 h
+ Habitat_Experimental_Food_Recycling:0 "试验食物再循环系统"
+ Habitat_Experimental_Food_Recycling_desc:0 "在这个栖息地上安装了一个实验性的食品回收系统，使99.7%的废弃物可以回收循环利用并转化为新的食品供应。"
+
+ # 17 h
+ Habitat_Time_Displaced_Planet_Research:0 "调查时间移位"
+ Habitat_Time_Displaced_Planet_Research_desc:0 "为了更好地理解它的时间转移特性，几个科学团队正在对下面这颗星球进行研究。"
+
+ # 18 h
+ Habitat_Surface_Mining:0 "地表采矿冒险"
+ Habitat_Surface_Mining_desc:0 "从这个栖息地到下面的行星都有大量的采矿探险活动。"
+
+ # 19 h
+ Habitat_Surface_Expeditions:0 "地表探索计划"
+ Habitat_Surface_Expeditions_desc:0 "星球下面的广阔废墟和特征是探索的一个重大机会。所以，一些勘探小组正在利用这个栖息地作为他们的行动基地"
+
+ # 20 h
+ Habitat_Android_Pleasure_Palace_Tourism:0 "智能娱乐旅游局"
+ Habitat_Android_Pleasure_Palace_Tourism_desc:0 "这是一种娱乐的独特形式，即智能娱乐旅游局直接对星球上的人们提供娱乐，栖息地直接向地面输出这种服务，这个对我们的旅游行业来说是一个福音。"
+
+ # 21 h
+ Habitat_Delicious_Ingredients_Trade:0 "香料贸易"
+ Habitat_Delicious_Ingredients_Trade_desc:0 "世界各地所提供的奢华而美味的香料，为香料贸易提供了丰富的原料。"
+
+ # 22 h
+ Habitat_Flat_Terrain_Racing:0 "行星赛车"
+ Habitat_Flat_Terrain_Racing_desc:0 "这颗行星表面平坦无比，这是完美的竞速场地。每天都会在这上面举行几场比赛。"
+
+ # 23 h
+ Habitat_Strange_Alien_Eggs_Restriction:0 "禁忌星球"
+ Habitat_Strange_Alien_Eggs_Restriction_desc:0 "由于这个星球极其凶险的性质，在地表上任何探险或旅行都是被禁止的"
+
+ # 24 h
+ Habitat_Hydrogen_Extraction:0 "提取行星中的氢"
+ Habitat_Hydrogen_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取氢气。"
+
+ # 25 h
+ Habitat_Nitrogen_Extraction:0 "提取行星中的氮"
+ Habitat_Nitrogen_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取氮气。"
+
+ # 26 h
+ Habitat_Chlorine_Extraction:0 "提取行星中的氯"
+ Habitat_Chlorine_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取氯气。"
+
+ # 27 h
+ Habitat_Phosphorus_Extraction:0 "提取行星中的磷"
+ Habitat_Phosphorus_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取磷。"
+
+ # 28 h
+ Habitat_Sulfur_Extraction:0 "提取行星中的硫磺"
+ Habitat_Sulfur_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取硫磺。"
+
+ # 29 h
+ Habitat_Iron_Extraction:0 "提取行星中的铁"
+ Habitat_Iron_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取铁。"
+
+ # 30 h
+ Habitat_Titanium_Extraction:0 "提取行星中的钛"
+ Habitat_Titanium_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取钛。"
+
+ # 31 h
+ Habitat_Gold_Extraction:0 "提取行星中的黄金"
+ Habitat_Gold_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取黄金。"
+
+ # 32 h
+ Habitat_Platinum_Extraction:0 "提取行星中的铂"
+ Habitat_Platinum_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取铂。"
+
+ # 33 h
+ Habitat_Mercury_Extraction:0 "提取行星中的汞"
+ Habitat_Mercury_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取汞。"
+
+ # 34 h
+ Habitat_Cobalt_Extraction:0 "提取行星中的钴"
+ Habitat_Cobalt_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取钴。"
+
+ # 35 h
+ Habitat_Lithium_Extraction:0 "提取行星中的锂"
+ Habitat_Lithium_Extraction_desc:0 "这个栖息地的一部分被用来支持从下面的行星中提取锂。"

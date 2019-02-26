@@ -1,0 +1,242 @@
+﻿l_simp_chinese:
+
+# Buildings
+
+building_cofh_se_betharian_mining:0 "贝矿挖掘网络"
+building_cofh_se_betharian_mining_desc:0 "贝矿挖掘网络是利用贝石电力来进行矿物提取。"
+
+building_cofh_se_diplomatic_embassy:0 "外交使馆"
+building_cofh_se_diplomatic_embassy_desc:0 "这个庞大的文化和官僚机构提升了这个世界的重要性，也提升了我们的帝国。"
+
+building_cofh_se_diplomatic_hub:0 "外交中心"
+building_cofh_se_diplomatic_hub_desc:0 "这个官僚机构是我们帝国外交部门的中心。"
+
+# Energy Buildings
+
+building_cofh_se_energy_silo_1:0 "能源银行 I"
+building_cofh_se_energy_silo_1_desc:0 "能源银行增强了我们帝国的最大储能能力。"
+
+building_cofh_se_energy_silo_2:0 "能源银行 II"
+building_cofh_se_energy_silo_2_desc:0 "$building_cofh_se_energy_silo_1_desc$"
+
+building_cofh_se_energy_silo_3:0 "能源银行 III"
+building_cofh_se_energy_silo_3_desc:0 "$building_cofh_se_energy_silo_1_desc$"
+
+# Food Buildings
+
+building_cofh_se_food_silo_1:0 "农业资源库 I"
+building_cofh_se_food_silo_1_desc:0 "农业资源库增强了我们帝国最大的粮食储存能力。"
+
+building_cofh_se_food_silo_2:0 "农业资源库 II"
+building_cofh_se_food_silo_2_desc:0 "$building_cofh_se_food_silo_1_desc$"
+
+building_cofh_se_food_silo_3:0 "农业资源库 III"
+building_cofh_se_food_silo_3_desc:0 "$building_cofh_se_food_silo_1_desc$"
+
+building_cofh_se_holo_arena:0 "虚拟武术世界"
+building_cofh_se_holo_arena_desc:0 "虚拟武术世界作为平等的娱乐和军事训练，将社区团结在一起，同时撕裂敌人。"
+
+building_cofh_se_fleet_command:0 "舰队支援司令部"
+building_cofh_se_fleet_command_desc:0 "这个庞大的军事设施是我们整个帝国海军支援行动的基地。"
+
+building_cofh_se_fleet_complex:0 "舰队支援舰队"
+building_cofh_se_fleet_complex_desc:0 "这个庞大的军事基地是我们帝国舰队的后勤基地，提高了海军的能力和效率。"
+
+building_cofh_se_retail_center:0 "大型零售中心"
+building_cofh_se_retail_center_desc:0 "家是银河系中最重要的地方。提供方便的平面包装消费品，并提供简单的说明。"
+
+building_cofh_se_robot_maintenance:0 "机器人维修设施"
+building_cofh_se_robot_maintenance_desc:0 "这个庞大的高科技园区被用来维护机器人工人，提高他们的产量。"
+
+building_cofh_se_xeno_food:0 "外星营养工厂"
+building_cofh_se_xeno_food_desc:0 "外星动物群太危险了，不能被关在笼子里，但我们可以让他们获得更美味的东西。"
+
+# Civics
+
+civic_cofh_se_research_speed:0 "研究机构"
+civic_cofh_se_research_speed_desc:0 "这个社会有著名的研究机构和科学卓越的历史。"
+
+civic_cofh_se_hive_research_speed:0 "永不满足的好奇心"
+civic_cofh_se_hive_research_speed_desc:0 "蜂群思维是由知识和自省驱动的，是科学发现的奇迹。"
+
+civic_cofh_se_machine_research_speed:0 "好奇的处理"
+civic_cofh_se_machine_research_speed_desc:0 "机器智能的任务之一是协助科学研究和发现。"
+
+# Events
+
+COFH_SE_FURTHER_RESEARCH:0 "进一步的研究和远程观测可以证实这些理论。\n\n经验测试，也称为“战斗”，可以帮助研究工作。"
+
+cofh_se.101.name:0 "普里索林虫群·天灾研究"
+cofh_se.101.desc:0 "前段时间，我们的舰队遇到的普里索林生物确实是太空的有机生命体。尽管它们数量可观，但它们仍然是具有解剖学局限性的生物物种。\n\n指派一组科学家来研究这些生物可能会暴露他们的弱点。"
+cofh_se.101.a:0 "确认。"
+cofh_se.110.name:0 "发现普里索林弱点"
+cofh_se.110.desc:0 "对普里索林生物的研究已经发现了他们的解剖学中存在的一些潜在的弱点。 $COFH_SE_FURTHER_RESEARCH$"
+
+cofh_se.201.name:0 "多维度观察"
+cofh_se.201.desc:0 "前段时间我们舰队遇到的高维力量似乎完全是由能量造成的。凭借我们对基本力量的认识，我们也许能够找到我们的力量可以利用的弱点。\n\n指派一组科学家来完成对入侵者的多维观测可能会有结果。"
+cofh_se.201.a:0 "确认。"
+cofh_se.210.name:0 "发现的多维生物弱点"
+cofh_se.210.desc:0 "对多维的观察导致他们在其能量场中发现了许多潜在的弱点。 $COFH_SE_FURTHER_RESEARCH$"
+
+cofh_se.301.name:0 "应变分析"
+cofh_se.301.desc:0 "我们的舰队在一段时间以前遇到的应急船是完全未知的设计。然而，他们的建筑的一致性可能会对他们不利——他们的舰船可能有弱点，我们的舰队可以利用这些弱点。\n\n指派一组科学家来对舰船进行工程分析，可能会提供一些见解。"
+cofh_se.301.a:0 "确认。"
+cofh_se.310.name:0 "意外发现弱点"
+cofh_se.310.desc:0 "对应急舰船的分析导致了它们结构中一些潜在弱点的发现。 $COFH_SE_FURTHER_RESEARCH$"
+
+cofh_se.401.name:0 "堕落帝国的观察"
+cofh_se.401.desc:0 "前段时间我们舰队遇到的没落帝国舰队比我们自己的舰队要先进得多。尽管如此，它们的机队结构非常严格，船舶设计的变化也很小。\n\n指派一组科学家研究他们的舰船和技术可能会暴露他们的弱点。"
+cofh_se.401.a:0 "确认。"
+cofh_se.410.name:0 "发现堕落帝国弱点"
+cofh_se.410.desc:0 "对堕落帝国舰队的观察导致了一些潜在弱点的发现，这是由于他们的狂妄自大和基于可能的古老传统的船舶设计。 $COFH_SE_FURTHER_RESEARCH$"
+
+cofh_se.501.name:0 "掠夺者观察"
+cofh_se.501.desc:0 "我们的舰队前些时候遇到的掠夺舰对我们的帝国构成了潜在的威胁。它们代表了银河系的一种混沌力量，理解它们是明智的。\n\n指派一个由科学家组成的特别小组来研究他们的舰船和舰队组织可能会揭示战术上的差距。"
+cofh_se.501.a:0 "确认。"
+cofh_se.510.name:0 "发现掠夺者弱点"
+cofh_se.510.desc:0 "对掠夺者舰队的观察发现了许多潜在的弱点，这是由于他们的舰船设计和作战理论。$COFH_SE_FURTHER_RESEARCH$"
+
+cofh_se.601.name:0 "灰色风暴观察"
+cofh_se.601.desc:0 "我们舰队前些时候遇到的灰色风暴，似乎完全是由纳米组成的。令人印象深刻的是，这种纳米技术可能有我们的力量可以利用的缺陷。\n\n指派一组科学家来对这些舰船进行全面的材料分析，可能会提供一些见解。"
+cofh_se.601.a:0 "确认。"
+cofh_se.610.name:0 "发现灰色风暴弱点"
+cofh_se.610.desc:0 "通过对灰色风暴的观察，发现了其纳米晶格结构中的一些潜在缺陷。$COFH_SE_FURTHER_RESEARCH$"
+
+# Modifiers
+
+damage_vs_country_type_dormant_marauders_mult:0 "对掠夺者的伤害"
+damage_vs_country_type_awakened_marauders_mult:0 "对觉醒掠夺者的伤害"
+damage_vs_country_type_gray_goo_mult:0 "对灰色风暴的伤害"
+
+mod_cofh_se_xeno_food_species:0 "补充营养"
+
+# Requirements
+
+requirement_cofh_se_diplomatic_building:0 "§R其他的外交大楼可能都不存在。§!"
+requirement_cofh_se_fleet_building:0 "§R没有其他的舰队支持建筑.§!"
+requirement_cofh_se_robot_maintenance:0 "§R人工智能可能不被禁止。§!"
+
+# Resources
+
+sr_cofh_se_diplomatic_embassy:0 "外交使团"
+sr_cofh_se_diplomatic_embassy_desc:0 "允许建造 £building §H$building_cofh_se_diplomatic_embassy$§!."
+
+sr_cofh_se_fleet_complex:0 "舰队支援队"
+sr_cofh_se_fleet_complex_desc:0 "允许建造 £building §H$building_cofh_se_fleet_complex$§!."
+
+# Special Projects
+
+COFH_SE_INVESTIGATE_AI:0 "工程分析:应急"
+COFH_SE_INVESTIGATE_AI_DESC:0 "科学部门通过分析应急舰船，努力为我们的舰队获得战斗优势。"
+COFH_SE_INVESTIGATE_EXD:0 "多维观察:高维生物舰队"
+COFH_SE_INVESTIGATE_EXD_DESC:0 "通过观察高维力量，为我们的舰队获得战斗优势。"
+COFH_SE_INVESTIGATE_SWARM:0 "实地研究:普里索林生物"
+COFH_SE_INVESTIGATE_SWARM_DESC:0 "研究普里索林的生物，努力为我们的舰队获得战斗优势。"
+COFH_SE_INVESTIGATE_FE:0 "舰队观察:堕落帝国"
+COFH_SE_INVESTIGATE_FE_DESC:0 "研究堕落帝国舰船，努力为我们的舰队获得战斗优势。"
+COFH_SE_INVESTIGATE_MARAUDERS:0 "舰队观察:掠夺者"
+COFH_SE_INVESTIGATE_MARAUDERS_DESC:0 "任务：科学部门需要研究掠夺者的舰船，以便我们获得战斗优势。"
+COFH_SE_INVESTIGATE_GRAY_GOO:0 "工程分析:灰色风暴"
+COFH_SE_INVESTIGATE_GRAY_GOO_DESC:0 "任务：科学部门需要研究灰色风暴的舰船，为我们的部队争取战斗优势。"
+
+# Technology - Non-Repeatable
+
+# Anti-Crisis
+
+tech_cofh_se_anti_ai_empire:0 "应急对策"
+tech_cofh_se_anti_ai_empire_desc:0 "应急船的工程分析为我们提供了其结构弱点的知识。"
+
+tech_cofh_se_anti_fallen_empire:0 "堕落帝国的对策"
+tech_cofh_se_anti_fallen_empire_desc:0 "对帝国船舶建造和舰队组成的观察为我们提供了他们的弱点。"
+
+tech_cofh_se_anti_exd:0 "高维入侵者的对策"
+tech_cofh_se_anti_exd_desc:0 "多维的多光谱观测揭示了其能量场的可利用缺陷。"
+
+tech_cofh_se_anti_gray_goo:0 "灰色风暴对策"
+tech_cofh_se_anti_gray_goo_desc:0 "对灰色风暴的观察提供了对其结构组成及其弱点的深入了解。"
+
+tech_cofh_se_anti_marauder:0 "掠夺者对策"
+tech_cofh_se_anti_marauder_desc:0 "观察掠夺者的船的构造和舰队的组成给我们了解了他们弱点的知识。"
+
+tech_cofh_se_anti_swarm:0 "普里索林灾难对策"
+tech_cofh_se_anti_swarm_desc:0 "前胸解剖和生理学的实地研究揭示了我们的力量可以利用的弱点。"
+
+# Engineering
+
+tech_cofh_se_inertial_compensators:0 "惯性补偿器"
+tech_cofh_se_inertial_compensators_desc:0 "将我们的战斗机飞行员从重力中隔离出来，使其能够达到更高的速度。"
+
+tech_cofh_se_orbital_drop_pods:0 "轨道空投舱"
+tech_cofh_se_orbital_drop_pods_desc:0 "这些吊舱显著减少了在行星入侵的轨道和行星之间的时间。"
+
+tech_cofh_se_orbital_mineral_processing:0 "轨道矿物加工"
+tech_cofh_se_orbital_mineral_processing_desc:0 "轨道矿物处理设施可以增加深空和陆地产量。"
+
+tech_cofh_se_protocol_droids:0 "协议机器人"
+tech_cofh_se_protocol_droids_desc:0 "能流利地表达600多万种交流方式，对官僚主义有无限的忍耐力。"
+
+tech_cofh_se_research_consortiums:0 "研究协会"
+tech_cofh_se_research_consortiums_desc:0 "在工业部门形成的联盟往往能带来新的想法。"
+
+# Physics
+
+tech_cofh_se_deep_scan:0 "深度扫描算法"
+tech_cofh_se_deep_scan_desc:0 "统计信息理论在调查数据中的应用揭示了可能被忽略的模式和见解。"
+
+tech_cofh_se_fast_scan:0 "多相扫描"
+tech_cofh_se_fast_scan_desc:0 "传感器分辨率和数据分析的改进使得科学扫描能够更快地完成。"
+
+# Society
+
+tech_cofh_se_battlefield_leadership:0 "战场上的领导"
+tech_cofh_se_battlefield_leadership_desc:0 "我们的战地指挥官不需要同情，但他们应该知道如何团结他们的士兵。"
+
+tech_cofh_se_fleet_support:0 "星球边缘支持业务"
+tech_cofh_se_fleet_support_desc:0 "虽然我们的舰队在深空操作，但一个支持网络将允许更有效的部署。"
+
+tech_cofh_se_galactic_prominence:0 "银河日珥"
+tech_cofh_se_galactic_prominence_desc:0 "我们的世界中最大的一个有着复杂的社会政治动态，而且它们在银河系的舞台上也很重要。"
+
+tech_cofh_se_military_logistics:0 "星际军事后勤"
+tech_cofh_se_military_logistics_desc:0 "战术赢得战斗，战略赢得战争，但后勤建设帝国。"
+
+tech_cofh_se_psi_diplomatic_corps:0 "灵能外交使团"
+tech_cofh_se_psi_diplomatic_corps_desc:0 "外交是谈判、姿态和投射的复杂艺术。读心术是一件简单得多的事。"
+
+tech_cofh_se_xeno_confidence:0 "外星野心"
+tech_cofh_se_xeno_confidence_desc:0 "用一种直截了当的方式表达我们的意图——不管它们是什么——有助于与我们的银河系邻居建立更深层次的关系。"
+
+tech_cofh_se_xeno_negotiation:0 "外星谈判"
+tech_cofh_se_xeno_negotiation_desc:0 "虽然具体细节不同于物种，但有一件事是肯定的——每个人都想相信自己得到了一笔好买卖。"
+
+# Technology - Repeatable
+
+# Engineering
+
+tech_cofh_se_repeatable_reduced_ship_cost:0 "自适应舰队建设"
+tech_cofh_se_repeatable_reduced_ship_cost_desc:0 "灵活的装配技术允许船舶建造，最小的改造和材料浪费。"
+
+tech_cofh_se_repeatable_reduced_station_cost:0 "自适应世界建筑"
+tech_cofh_se_repeatable_reduced_station_cost_desc:0 "使用当地的材料和模块化的组装，可以更有效地建造世界。"
+
+tech_cofh_se_repeatable_robot_build_speed:0 "机器人组装优化"
+tech_cofh_se_repeatable_robot_build_speed_desc:0 "优化机器人的装配技术可以让机器人更快地被创造出来。"
+
+tech_cofh_se_repeatable_ship_build_speed:0 "船厂装配协调"
+tech_cofh_se_repeatable_ship_build_speed_desc:0 "采用模块化组装技术和简化流程，可以提高我们船厂的吞吐量。"
+
+tech_cofh_se_repeatable_ship_upgrade_upkeep:0 "应用舰队物流"
+tech_cofh_se_repeatable_ship_upgrade_upkeep_desc:0 "材料科学和运输方面的进步使我们的舰队更容易维护。"
+
+# Physics
+
+tech_cofh_se_repeatable_sapient_ai_improved:0 "正电子算法"
+tech_cofh_se_repeatable_sapient_ai_improved_desc:0 "对正电子计算机进行优化的算法将提高他们的能力，超越任何曾经认为可能的能力。"
+
+tech_cofh_se_repeatable_shield_regen:0 "谐波补给"
+tech_cofh_se_repeatable_shield_regen_desc:0 "调谐护盾，以产生建设性的干扰，他们的谐波，使他们能够更快速地恢复。"
+
+# Society
+
+tech_cofh_se_repeatable_terraforming_improved:0 "强化生态工程"
+tech_cofh_se_repeatable_terraforming_improved_desc:0 "研究当地的生态相互作用，并结合成形技术，使我们能够快速有效地改造世界。"

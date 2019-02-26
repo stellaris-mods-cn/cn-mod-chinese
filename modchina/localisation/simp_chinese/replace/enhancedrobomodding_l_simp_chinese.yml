@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+
+triggered_opinion_robot_emotion_emulators:0 "感情模拟器"
+triggered_opinion_robot_emotion_emulators_m:0 "认知逻辑"
+TRAIT_EMOTION_EMULATORS_EFFECT:0 "有机生物立场影响： §G+25§！\n合成人立场影响： §G+50§！"

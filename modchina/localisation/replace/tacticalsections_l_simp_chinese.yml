@@ -1,0 +1,276 @@
+﻿l_simp_chinese:
+
+ CORVETTE_GUNSHIP: "炮艇模块"
+ CORVETTE_ARMORED: "巡航模块"
+ CORVETTE_JAEGER: "猎鸥核心"
+ 
+ CORVETTE_MISSILE_BOAT: "导弹 舰艏 TSS"
+ 
+ 
+ DESTROYER_BOW_L1: "导弹 舰艏"
+ DESTROYER_BOW_ARTILLERY: "重炮 舰艏"
+ DESTROYER_BOW_ARMORED: "隔舱 舰艏"
+ DESTROYER_BOW_HANGAR: "格纳库 舰艏"
+ DESTROYER_STERN_S1PD1: "哨戒 舰尾"
+ DESTROYER_STERN_ARMORED: "隔舱 舰尾"
+ DESTROYER_STERN_TORPEDO: "导弹 舰尾"
+ 
+ DESTROYER_BOW_GUNSHIP: "炮艇 舰艏 TSS"
+ DESTROYER_BOW_PICKET: "哨戒 舰艏 TSS"
+ DESTROYER_BOW_MISSILE: "导弹 舰艏 TSS"
+ DESTROYER_STERN_PICKET: "哨戒 舰尾 TSS"
+ DESTROYER_STERN_INTERCEPTOR: "拦截 舰尾 TSS"
+ DESTROYER_STERN_GUNSHIP: "炮艇 舰尾 TSS"
+ 
+ 
+ CRUISER_STERN_M1: "导弹 舰尾"
+ CRUISER_BOW_PICKET_SHIP: "监察官 舰艏"
+ CRUISER_BOW_ARMORED: "隔舱 舰艏"
+ CRUISER_BOW_HANGAR: "格纳库 舰艏"
+ CRUISER_MID_ARMORED: "隔舱 核心"
+ CRUISER_MID_MISSILE_HANGAR: "多用甲板 核心"
+ CRUISER_STERN_PICKET_SHIP: "监察官 舰尾"
+ CRUISER_STERN_ARMORED: "隔舱 舰尾"
+ CRUISER_STERN_MISSILE: "齐射 舰尾"
+ CRUISER_STERN_BRIDGE: "后勤 舰尾"
+
+ CRUISER_BOW_ARTILLERY: "重炮 舰艏 TSS"
+ CRUISER_BOW_MISSILE: "导弹 舰艏 TSS"
+ CRUISER_BOW_BROADSIDE: "舷炮 舰艏 TSS"
+ CRUISER_MID_HANGAR: "格纳库 核心 TSS"
+ CRUISER_MID_ARTILLERY: "重炮 核心 TSS"
+ CRUISER_MID_BROADSIDE: "舷炮 核心 TSS"
+ CRUISER_MID_MISSILE: "导弹 核心 TSS"
+ CRUISER_STERN_MISSILE: "齐射 舰尾"
+ CRUISER_STERN_GUNSHIP: "炮艇 舰尾 TSS"
+ 
+ 
+ BATTLESHIP_BOW_M3S2: "导弹 舰艏 TSS"
+ BATTLESHIP_MID_L1M4: "导弹 核心 TSS"
+ BATTLESHIP_STERN_M2: "格纳库 舰尾"
+ BATTLESHIP_BOW_ARMORED: "隔舱 舰艏"
+ BATTLESHIP_BOW_CARRIER: "格纳库 舰艏"
+ BATTLESHIP_MID_ARMORED: "隔舱 核心"
+ BATTLESHIP_MID_SUPERCARRIER: "战机堡垒 核心"
+ BATTLESHIP_STERN_MISSILE: "导弹 舰尾"
+ BATTLESHIP_STERN_ARMORED: "隔舱 舰尾"
+ BATTLESHIP_STERN_MISSILE_HANGAR: "多用甲板 舰尾"
+ BATTLESHIP_STERN_BRIDGE: "后勤 舰尾"
+ 
+ BATTLESHIP_BOW_ARTILLERY: "重炮 舰艏 TSS"
+ BATTLESHIP_BOW_HANGAR: "格纳库 舰艏 TSS"
+ BATTLESHIP_BOW_SPINAL: "脊峰 舰艏 TSS"
+ BATTLESHIP_BOW_MISSILE: "导弹 舰艏 TSS"
+ BATTLESHIP_MID_MISSILE: "导弹 核心 TSS"
+ BATTLESHIP_MID_ARTILLERY: "重炮 核心 TSS"
+ BATTLESHIP_MID_HANGAR: "格纳库 核心 TSS"
+ BATTLESHIP_MID_CARRIER: "航母 核心 TSS"
+ BATTLESHIP_STERN_ARTILLERY: "重炮 舰尾 TSS"
+ BATTLESHIP_STERN_HANGAR: "格纳库 舰尾 TSS"
+ 
+ TITAN_MID_MISSILE: "泰坦 导弹 核心"
+ TITAN_MID_CARRIER: "泰坦 格纳库 核心"
+ TITAN_MID_ARMORED: "泰坦 隔舱 核心"
+ TITAN_MID_MISSILE_ARTILLERY: "泰坦 齐射 核心"
+ TITAN_MID_PERDITION: "泰坦 灾灭 核心"
+ TITAN_STERN_MISSILE: "泰坦 导弹 舰尾"
+ TITAN_STERN_CARRIER: "泰坦 格纳库 舰尾"
+ TITAN_STERN_ARMORED: "泰坦 隔舱 舰尾"
+ TITAN_STERN_MISSILE_ARTILLERY: "泰坦 齐射 舰尾"
+ TITAN_STERN_PERDITION: "泰坦 灾灭 舰尾"
+ 
+ TITAN_BOW_NORMAL_TSS: "泰坦 舰艏 TSS"
+ TITAN_MID_NORMAL_TSS: "TITAN_MID_NORMAL_TSS"
+ TITAN_STERN_NORMAL_TSS: "TITAN_STERN_NORMAL_TSS"
+ 
+ 
+ TECH_UNLOCK_CORVETTE_HULL_1_TITLE: "§H解锁舰船区块:§! 炮艇模块\n§H解锁舰船区块:§! 巡航模块";
+ TECH_UNLOCK_CORVETTE_HULL_1_DESC: "§H炮艇模块:§! 可装配重火力武器的舰船模块.\n§H巡航模块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_CORVETTE_HULL_2_TITLE: "§H解锁舰船区块:§! 猎鸥核心";
+ TECH_UNLOCK_CORVETTE_HULL_2_DESC: "§H炮艇模块:§! 牺牲通用性能以换取火力的舰船模块."
+ TECH_UNLOCK_DESTROYER_HULL_1_TITLE: "§H解锁舰船区块:§! 重炮 舰艏, 哨戒 舰尾, 隔舱 区块";
+ TECH_UNLOCK_DESTROYER_HULL_1_DESC: "§H齐射 舰艏:§! 可装配重火力武器的舰船模块.\n§H哨戒 舰尾:§! 拥有小型武器和点防御武器的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_DESTROYER_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏\n§H解锁舰船区块:§! 导弹 舰尾";
+ TECH_UNLOCK_DESTROYER_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取战机支持能力的舰船模块.\n§H导弹 舰尾:§! 牺牲通用性能以换取导弹支持能力的舰船模块."
+ TECH_UNLOCK_CRUISER_HULL_1_TITLE: "§H解锁舰船区块:§! 监察官 舰艏, 监察官 舰尾, 隔舱 区块";
+ TECH_UNLOCK_CRUISER_HULL_1_DESC: "§H监察官 舰艏/舰尾:§! 专注于点防御的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_CRUISER_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 多用甲板 核心, 齐射 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_CRUISER_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取战机支持能力的舰船模块.\n§H多用甲板 核心:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H齐射 舰尾:§! 牺牲通用性能以换取大量导弹支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_BATTLESHIP_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_BATTLESHIP_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_BATTLESHIP_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 战机堡垒 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_BATTLESHIP_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H战机堡垒 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_TITAN_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 区块, 格纳库 区块, 隔舱 区块, 导弹 齐射 区块";
+ TECH_UNLOCK_TITAN_HULL_1_DESC: "§H导弹 区块:§! 专注于导弹支持力的舰船模块.\n§H格纳库 区块:§! 专注于战机支持力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块.§H齐射 区块:§! 牺牲通用性能以换取综合重火力的舰船模块.\n"
+ TECH_UNLOCK_TITAN_HULL_2_TITLE: "§H解锁舰船区块:§! 灾灭 核心\n§H解锁舰船区块:§! 灾灭 舰尾";
+ TECH_UNLOCK_TITAN_HULL_2_DESC: "§H灾灭 核心/舰尾:§! 专注于轴基武器的舰船模块."
+ 
+ 
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_A_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_A_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_B_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_B_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_C_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_C_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_D_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_D_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_E_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_E_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_F_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_F_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_G_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_G_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_H_HULL_1_TITLE: "§H解锁舰船区块:§! 导弹 舰尾\n§H解锁舰船区块:§! 隔舱 区块";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_H_HULL_1_DESC: "§H导弹 舰尾:§! 拥有导弹支持能力的舰船模块.\n§H隔舱 区块:§! 牺牲火力以换取通用性能的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_A_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_A_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_B_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_B_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_C_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_C_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_D_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_D_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_E_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_E_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_F_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_F_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_G_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_G_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_H_HULL_2_TITLE: "§H解锁舰船区块:§! 格纳库 舰艏, 航母 核心, 多用甲板 舰尾, 后勤 舰尾";
+ TECH_UNLOCK_HEAVY_DREADNOUGHT_TYPE_H_HULL_2_DESC: "§H格纳库 舰艏:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H航母 核心:§! 牺牲通用性能以换取大量战机支持能力的舰船模块.\n§H多用甲板 舰尾:§! 牺牲通用性能以换取导弹和战机支持能力的舰船模块.\n§H后勤 舰尾:§! 牺牲所有火力以换取通用槽位和辅助槽位的舰船模块."
+ 
+ 
+ RS_BATTLECRUISER_STERN_M1: "导弹 舰尾"
+ RS_BATTLECRUISER_BOW_PICKET_SHIP: "监察官 舰艏"
+ RS_BATTLECRUISER_BOW_ARMORED: "隔舱 舰艏"
+ RS_BATTLECRUISER_BOW_HANGAR: "格纳库 舰艏"
+ RS_BATTLECRUISER_MID1_ARMORED: "隔舱 核心"
+ RS_BATTLECRUISER_MID1_MISSILE_HANGAR: "多用甲板 核心"
+ RS_BATTLECRUISER_MID2_ARMORED: "隔舱 核心"
+ RS_BATTLECRUISER_MID2_MISSILE_HANGAR: "多用甲板 核心"
+ RS_BATTLECRUISER_STERN_PICKET_SHIP: "监察官 舰尾"
+ RS_BATTLECRUISER_STERN_ARMORED: "隔舱 舰尾"
+ RS_BATTLECRUISER_STERN_MISSILE: "齐射 舰尾"
+ RS_BATTLECRUISER_STERN_BRIDGE: "后勤 舰尾"
+ 
+ RS_SUPPORT_CRUISER_STERN_M1: "导弹 舰尾"
+ RS_SUPPORT_CRUISER_BOW_ARMORED: "隔舱 舰艏"
+ RS_SUPPORT_CRUISER_MID_ARMORED: "隔舱 核心"
+ RS_SUPPORT_CRUISER_STERN_ARMORED: "隔舱 舰尾"
+ RS_SUPPORT_CRUISER_STERN_PICKET_SHIP: "监察官 舰尾"
+ RS_SUPPORT_CRUISER_STERN_MISSILE: "齐射 舰尾"
+ RS_SUPPORT_CRUISER_STERN_BRIDGE: "后勤 舰尾"
+ 
+ 
+ RS_EA_CRUISER_STERN_M1: "导弹 舰尾"
+ RS_EA_CRUISER_BOW_ARMORED: "隔舱 舰艏"
+ RS_EA_CRUISER_MID_ARMORED: "隔舱 核心"
+ RS_EA_CRUISER_STERN_ARMORED: "隔舱 舰尾"
+ RS_EA_CRUISER_STERN_PICKET_SHIP: "监察官 舰尾"
+ RS_EA_CRUISER_STERN_MISSILE: "齐射 舰尾"
+ RS_EA_CRUISER_STERN_BRIDGE: "后勤 舰尾"
+ 
+ RS_DREADNOUGHT_BOW_L1M1S2: "导弹 舰艏"
+ RS_DREADNOUGHT_MID_L1M4: "导弹 核心"
+ RS_DREADNOUGHT_STERN_M2: "格纳库 舰尾"
+ RS_DREADNOUGHT_BOW_ARMORED: "隔舱 舰艏"
+ RS_DREADNOUGHT_BOW_CARRIER: "格纳库 舰艏"
+ RS_DREADNOUGHT_MID1_ARMORED: "隔舱 核心"
+ RS_DREADNOUGHT_MID1_SUPERCARRIER: "战机堡垒 核心"
+ RS_DREADNOUGHT_MID2_ARMORED: "隔舱 核心"
+ RS_DREADNOUGHT_MID2_SUPERCARRIER: "战机堡垒 核心"
+ RS_DREADNOUGHT_STERN_MISSILE: "导弹 舰尾"
+ RS_DREADNOUGHT_STERN_ARMORED: "隔舱 舰尾"
+ RS_DREADNOUGHT_STERN_MISSILE_HANGAR: "多用甲板 舰尾"
+ RS_DREADNOUGHT_STERN_BRIDGE: "后勤 舰尾"
+ 
+ #########################################
+ # RS Heavy Dreadnought Type A Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_A_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_A_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_A_BOW_ARMORED: "隔舱 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_A_BOW_CARRIER: "格纳库 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_A_MID1_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_A_MID1_SUPERCARRIER: "战机堡垒 核心"
+ #########################################
+ # RS Heavy Dreadnought Type B Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_B_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_B_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_B_MID2_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_B_BOW_ARMORED: "隔舱 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_B_BOW_CARRIER: "格纳库 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_B_MID1_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_B_MID1_SUPERCARRIER: "战机堡垒 核心"
+ #########################################
+ # RS Heavy Dreadnought Type C Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_C_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_MID2_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_STERN_M2:0 "先进 格纳库 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_MID1_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_MID1_SUPERCARRIER: "战机堡垒 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_STERN_MISSILE: "先进 导弹 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_STERN_ARMORED: "先进 隔舱 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_STERN_MISSILE_HANGAR: "先进 多用甲板 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_C_STERN_BRIDGE: "先进 后勤 舰尾"
+ #########################################
+ # RS Heavy Dreadnought Type D Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_D_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_MID2_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_STERN_M2:0 "先进 格纳库 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_MID2_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_MID2_SUPERCARRIER: "战机堡垒 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_STERN_MISSILE: "先进 导弹 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_STERN_ARMORED: "先进 隔舱 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_STERN_MISSILE_HANGAR: "先进 多用甲板 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_D_STERN_BRIDGE: "先进 后勤 舰尾"
+ #########################################
+ # RS Heavy Dreadnought Type E Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_E_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_STERN_M2:0 "先进 格纳库 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_BOW_ARMORED: "隔舱 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_BOW_CARRIER: "格纳库 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_STERN_MISSILE: "先进 导弹 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_STERN_ARMORED: "先进 隔舱 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_STERN_MISSILE_HANGAR: "先进 多用甲板 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_E_STERN_BRIDGE: "先进 后勤 舰尾"
+ #########################################
+ # RS Heavy Dreadnought Type F Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_F_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_MID2_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_STERN_M2:0 "先进 格纳库 舰尾"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_BOW_ARMORED: "隔舱 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_BOW_CARRIER: "格纳库 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_MID2_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_F_MID2_SUPERCARRIER: "战机堡垒 核心"
+ #########################################
+ # RS Heavy Dreadnought Type G Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_G_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_G_MID2_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_G_BOW_ARMORED: "隔舱 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_G_BOW_CARRIER: "格纳库 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_G_MID2_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_G_MID2_SUPERCARRIER: "战机堡垒 核心"
+ #########################################
+ # RS Heavy Dreadnought Type H Sections  #
+ #########################################
+ RS_HEAVY_DREADNOUGHT_TYPE_H_BOW_L1M1S2:0 "导弹 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_H_MID1_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_H_MID2_L2M2:0 "导弹 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_H_BOW_ARMORED: "隔舱 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_H_BOW_CARRIER: "格纳库 舰艏"
+ RS_HEAVY_DREADNOUGHT_TYPE_H_MID1_ARMORED: "隔舱 核心"
+ RS_HEAVY_DREADNOUGHT_TYPE_H_MID1_SUPERCARRIER: "战机堡垒 核心"
+ 
+ BATTLESHIP_BOW_L1M1S2: "导弹 舰艏"
+ BATTLESHIP_MID_L2M2: "导弹 核心"

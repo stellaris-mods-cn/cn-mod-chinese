@@ -1,0 +1,163 @@
+﻿l_simp_chinese:
+#l_english:
+#commented this out so that I get the correct tooltips with my validator
+
+cc_xeno_clashes.2.name:0 "[root.GetName]上的仇恨言论"
+cc_xeno_clashes.2.desc:0 "近期一系列事件导致[root.GetName]上[species1.GetNamePlural]和[species2.GetNamePlural]两族之间的紧张关系持续升温。公众思潮急剧转向排外主义，双方领导都宣称[root.GetName]理应属于本族。以恶毒言论嘲讽对方种族的宣传材料四处流传，[species2.GetNamePlural]族内更是可以听到阴险的暗中讨论，直指如何解决"[species1.GetAdj]问题"。"
+cc_xeno_clashes.2.desc.phile:0 "随着一次怪异的转折，一场原本关于[species1.GetNamePlural]和[species2.GetNamePlural]两族谁更受[root.owner.GetSpeciesNamePlural]]青睐的争论迅速升级激化。公众思潮急剧转向排外主义，双方领导都公开羞辱对立种族，并宣称[root.GetName]理应属于本族。[species2.GetNamePlural]族内更是可以听到阴险的暗中讨论，直指如何解决"[species1.GetAdj]问题"。"
+cc_xeno_clashes.2.phile.own:0 "[root.owner.GetSpeciesNamePlural]必须树立更好的榜样！"
+cc_xeno_clashes.2.phobe.own:0 "外星渣滓不配与[root.owner.GetSpeciesNamePlural]相提并论"
+cc_xeno_clashes.2.own:0 "我们必须维持和平"
+cc_xeno_clashes.2.no_own:0 "$cc_xeno_clashes.2.own$"
+cc_xeno_clashes.2.phobe.no_own:0 "就让外星渣滓们狗咬狗吧"
+
+cc_planet_hate_speech:0 "仇恨言论"
+cc_planet_hate_speech_desc:0 "这颗星球上紧张的物种间关系因恶毒言论而升温。"
+
+cc_xeno_clashes.3.name:0 "[root.GetName]上的物种间紧张局势趋向沸腾"
+cc_xeno_clashes.3.desc.A:0 "在一位重量级[species2.GetName]官员因腐败而被捕后，[species2.GetAdj]民众间爆发了大规模抗议，将[root.GetName]上的物种间紧张局势推向临界点。[species2.GetNamePlural]内部普遍认为[species1.GetAdj]政府一直在打压该族，这次逮捕不过是又一例证。他们决定走上街头，表达对现状的不满。不过其抗议行动遭到了[species1.GetAdj]拥护者们规模同样巨大的对立游行。局势迅速升级失控，警察部门无力将双方分隔，大规模流血事件随之爆发。军队已经出动恢复秩序，但紧张的局面仍然一触即发。\n\n应对这一情况采取何种措施？"
+cc_xeno_clashes.3.desc.B:0 "一位著名[species2.GetName]领袖发表了让[species1.GetNamePlural]回家的言论，随后因仇恨言论被捕。[species2.GetAdj]民众对此事激愤异常，随后爆发了大规模抗议，将[root.GetName]上的物种间紧张局势推向临界点。[species2.GetNamePlural]内部普遍认为[species1.GetAdj]政府一直在打压该族，这次逮捕不过是又一例证。他们决定走上街头，表达对现状的不满。不过其抗议行动遭到了[species1.GetAdj]拥护者们规模同样巨大的对立游行。局势迅速升级失控，警察部门无力将双方分隔，大规模流血事件随之爆发。军队已经出动恢复秩序，但紧张的局面仍然一触即发。\n\n[species1.GetAdj]政府应对这一情况采取何种措施？"
+cc_xeno_clashes.3.A:0 "[root.owner.GetName]中没有[species2.GetNamePlural]的位置"
+cc_xeno_clashes.3.A.tooltip:0 "[root.owner.GetName]中的[species2.GetAdj]人口会感到受到侮辱"
+cc_xeno_clashes.3.B:0 "这种事件令人遗憾，但无法避免"
+cc_xeno_clashes.3.B.tooltip:0 "紧张局势可能升级并扩散开来"
+cc_xeno_clashes.3.C:0 "我们必须寻找让所有种族和谐共处的方法"
+cc_xeno_clashes.3.C.tooltip:0 "一场和解运动--以大笔资金作后盾--将会平息这颗星球上的紧张局势"
+
+cc_xeno_clashes.31.name:0 "[species2.GetAdj]独立阵线成立"
+cc_xeno_clashes.31.desc:0 "致可耻的[root.GetRulerTitle] [root.GetRulerName]：\n\n感谢你证实了[species2.GetAdj]人民长期以来的一个怀疑：我们在[root.GetName]确实不受欢迎。因此你或许会很高兴地得知，我们计划独立，越快越好。[species1.GetAdj]的暴政不能--也不会--永远持续！ \n\n诚挚的，\n[annoyed_xeno.GetName]，\n[species2.GetAdj]独立阵线领导人"
+cc_xeno_clashes.31.tooltip:0 "所有[species2.GetAdj] £pops 人口得到调整值§R$cc_feels_unwelcome$§!, -20% 幸福度 \n更进一步的物种间冲突蓄势待发"
+
+cc_planet_interspecies_tensions:0 "物种间的紧张局势"
+cc_planet_interspecies_tensions_desc:0 "这颗星球上不同物种间的对立情绪空前高涨"
+cc_empire_interspecies_tensions:0 "物种间的紧张局势广泛传播"
+cc_empire_interspecies_tensions_desc:0 "帝国内不同物种间的对立情绪空前高涨"
+cc_feels_unwelcome:0 "感到不被欢迎"
+cc_xenos_disparaged:0 "异族人不受欢迎"
+cc_xenos_disparaged_sup:0 "$cc_xenos_disparaged$"
+cc_xenos_encouraged:0 "鼓励多族和平共存"
+
+cc_xeno_reconciliation:0 "与异族居民和解"
+cc_xeno_reconciliation_desc:0 "在一段时期的冲突与对立后，政府发起了一项种族和解计划，旨在确保不同种族能够和平共处。"
+cc_investment_package:0 "投资礼包"
+cc_investment_package_desc:0 "中央政府为使这颗星球维持稳定而抛出大笔"投资""
+
+cc_xeno_clashes.32.name:0 "[species2.GetAdj]民兵发动攻击！"
+cc_xeno_clashes.32.desc:0 "[species2.GetAdj]独立阵线在[root.GetName]发动了袭击。[species2.GetName]民兵组织毫无预警地突袭了[species1.GetAdj]社群，杀死了大量[species1.GetNamePlural]。"
+cc_xeno_clashes.32.option:0 "我们必须采取行动，避免发生更惨烈的屠杀"
+
+cc_xeno_clashes.33.name:0 "[species2.GetAdj]独立阵线发动攻击！"
+cc_xeno_clashes.33.desc:0 "[species2.GetAdj]独立阵线特工对[root.GetName]上的[species1.GetNamePlural]发动了毁灭性袭击：一颗核弹在一片[species1.GetNamePlural]密集聚居的区域被引爆，伤亡情况尚无统计数据。幸存的[species1.GetNamePlural]请求紧急救援，以防再发生更多的恐怖袭击。"
+cc_xeno_clashes.33.option:0 "$cc_xeno_clashes.32.option$"
+
+
+cc_xeno_clashes.34.name:0 "[species2.GetAdj]独立阵线发动攻击！"
+cc_xeno_clashes.34.desc:0 "The [species2.GetAdj]独立阵线对我们的[root.GetName]政府发动了一次毁灭性的的网络攻击，瘫痪了整个系统并窃取了大量机密信息。趁各部门摇摇欲坠之机，他们计划取而代之，建立一个[species2.GetAdj]主导的行星当局。"
+cc_xeno_clashes.34.option:0 "我们必须重建秩序"
+
+cc_xeno_clashes.35.name:0 "[species2.GetAdj]民兵组织发动攻击！"
+cc_xeno_clashes.35.desc:0 "[species2.GetAdj]独立阵线在[root.GetName]上发动了攻势。其武装组织杀死了我们当地政府的部分官员，剩余人员也已无力继续管理全球。袭击余波未消，[species2.GetNamePlural]已经在计划取而代之，建立一个本族人为主导的行星政府。"
+cc_xeno_clashes.35.option:0 "$cc_xeno_clashes.34.option$"
+
+cc_xeno_clashes.36.name:0 "[species2.GetAdj]独立阵线发动攻击！"
+cc_xeno_clashes.36.desc:0 "[species2.GetAdj]独立阵线特工在[root.GetName]上发动了袭击。一队自杀式袭击者将一枚高能炸弹成功私运进了政府大楼，将其引爆。我们的政府人员及设施损失惨重，运转难以为继，目前正在竭力控制局势。"
+cc_xeno_clashes.36.option:0 "$cc_xeno_clashes.34.option$"
+
+cc_disrupted_government:0 "政府瘫痪"
+cc_disrupted_government_desc:0 "民众间的反叛分子重创了这颗星球的行政机构，正在试图建立一个平行政府。"
+
+cc_xeno_clashes.37.name:0 "[root.GetName]上的大屠杀"
+cc_xeno_clashes.37.desc:0 "[root.GetName]上的局势已经危如累卵，如果我们不立刻干预，一场种族灭绝危机迫在眉睫。[species1.GetNamePlural]和[species2.GetNamePlural]都分别秘密建立了自己的民兵组织，发动了一系列攻击。[species2.GetNamePlural]在早期的交锋中占据上风，占领并摧毁了一座[species1.GetAdj]大型城市，伤亡数据暂不可知。"
+
+cc_xeno_clashes.371.name:0 "[root.GetName]上的大屠杀"
+cc_xeno_clashes.371.desc:0 "[species1.GetAdj]民兵组织领导为自己手下士兵的报复行动寻求政府支持，并保证说他能为死去的同胞复仇，让整颗星球无需再忍受[species2.GetNamePlural]的污秽。我们应当如何回应？"
+cc_xeno_clashes.371.A:0 "就让他们去做必要之恶吧"
+cc_xeno_clashes.371.B:0 "发布戒严令以防再次发生大屠杀"
+
+cc_allowed_genocide_of_us:0 "允许对我们种族的屠杀"
+
+cc_xeno_clashes.372.name:0 "$cc_xeno_clashes.31.name$"
+cc_xeno_clashes.372.desc:0 "致永受诅咒的[root.GetRulerTitle] [root.GetRulerName]，\n\n你已经被我们视为仇敌。你的无耻恶行罄竹难书，你的暴政不能--也不会--永远持续！\n\n真诚的，\n[annoyed_xeno.GetName],\n[species2.GetAdj]独立阵线领导"
+cc_xeno_clashes.372.tooltip:0 "所有[species2.GetAdj] £pops 获得调整值§R$cc_pop_fears_genocide$§!, -50% 幸福度。\n更进一步的物种间冲突蓄势待发"
+
+cc_pop_fears_genocide:0 "惧怕种族屠杀"
+cc_xenos_spared_from_massacre:0 "拯救了异种人群"
+cc_xenos_massacred:0 "屠杀了异种人群"
+
+cc_martial_law:0 "戒严令实施"
+cc_martial_law_desc:0 "中央政府不得不颁布戒严令以维持这颗星球的稳定"
+
+
+cc_xeno_clashes.382.name:0 "物种间紧张局势扩散至[root.GetName]"
+cc_xeno_clashes.382.desc:0 "[root.GetName]上的[species1.GetAdj]和[species2.GetAdj]民众一直密切注视着[from.GetName]上的事态进展，这里的公众议题也开始逐渐向[from.GetName]相同的方向发展。尽管局面还没有明显升级，但两族之间的紧张情绪愈发高涨。"
+
+cc_xeno_clashes.383.name:0 "物种间紧张局势笼罩[root.GetName]"
+cc_xeno_clashes.383.desc:0 "[species2.GetNamePlural]与[species1.GetNamePlural]两族之间的紧张局势已经扩散开来，眼下任何两族共处的场合都弥漫着对立情绪。如果不采取行动，暴力事件将不可避免，并且迫在眉睫！ "
+
+cc_xeno_clashes.383.A:0 "颁布戒严令"
+cc_xeno_clashes.383.B:0 "没有[species2.GetNamePlural]我们过得更好"
+cc_xeno_clashes.383.B.tooltip:0 "物种冲突很可能趋向沸腾"
+
+
+
+cc_xeno_clashes.4.name:0 "[root.GetName]上的物种间紧张局势趋向沸腾"
+cc_xeno_clashes.4.desc:0 "在一位著名[species1.GetName]公众人物被[species2.GetAdj]拥护者刺杀后，[root.GetName]上两族间的紧张局势已被推向临界点。事件导致[species1.GetAdj]民众间爆发了大规模暴力抗议，开始走上街头攻击[species2.GetNamePlural]居民。[species2.GetNamePlural]迅速组织了对立游行，警察部门无力将双方分隔，流血事件层出不穷，事态逐渐失控。军队已经出动恢复秩序，但紧张的局面仍然一触即发。双方都派出代表向行星总督陈情，总督则向中央政府请示如何处理当前局势。\n\n政府应作出何种官方回应？ "
+cc_xeno_clashes.4.A:0 "支持[species1.GetNamePlural]"
+cc_xeno_clashes.4.A.tooltip:0 "[root.owner.GetName]上的[species2.GetAdj]民众会感觉受到侮辱，而[species1.GetNamePlural]则会认为正义得到伸张。"
+cc_xeno_clashes.4.B:0 "支持[species2.GetNamePlural] "
+cc_xeno_clashes.4.B.tooltip:0 "[root.owner.GetName]上的[species1.GetAdj]民众会感觉受到侮辱，而[species2.GetNamePlural]则会认为正义得到伸张。"
+cc_xeno_clashes.4.C:0 "颁布戒严令，直到他们学会如何共处"
+cc_xeno_clashes.4.D:0 "派去一支谈判小组"
+cc_xeno_clashes.4.D.tooltip:0 "或许紧张局势可以通过外交手段得以解决"
+cc_xeno_clashes.4.E:0 "他们都不配待在[root.owner.GetName]."
+cc_xeno_clashes.4.E.tooltip:0 "[root.owner.GetName]上的[species1.GetAdj]及[species2.GetAdj]民众都会感觉受到侮辱"
+
+#E:
+cc_xeno_clashes.41.name:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线成立"
+cc_xeno_clashes.41.desc:0 "致永受诅咒的[root.GetRulerTitle] [root.GetRulerName]，\n\n直到最近，本信函的签署双方之间都纷争不断。然而，你的回应使我们意识到，我们拥有同一个更加强大的公敌--[root.GetSpeciesNamePlural]。我们已经摒弃前嫌，现在将致力于共同创建一个新的和谐国度--独立于[root.GetName]之外。\n\n诚挚的，\n[annoyed_xeno.GetName]及[annoyed_xeno2.GetName]\n[species1.GetAdj]-[species2.GetAdj]独立阵线领导"
+cc_xeno_clashes.41.tooltip:0 "所有[species1.GetAdj]及[species2.GetAdj] £pops 人口获得调整值§R$cc_feels_unwelcome$§!, -20% 幸福度\n更进一步的物种间冲突蓄势待发"
+
+
+cc_xeno_clashes.42.name:0 "[species1.GetAdj]-[species2.GetAdj]民兵组织发动袭击！"
+cc_xeno_clashes.42.desc:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线在[root.GetName]上发动了袭击。 [species1.GetNamePlural]及[species2.GetName]的武装组织毫无预警地突袭了[root.owner.GetSpeciesAdj]社群，杀死了大量[root.owner.GetSpeciesNamePlural]。"
+cc_xeno_clashes.42.option:0 "我们必须采取行动，防止再发生屠杀事件"
+
+cc_xeno_clashes.43.name:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线发动袭击！"
+cc_xeno_clashes.43.desc:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线特工对[root.GetName]上的[root.owner.GetSpeciesNamePlural]发动了毁灭性袭击：一颗核弹在一片[root.owner.GetSpeciesNamePlural]密集聚居的区域被引爆，伤亡情况尚无统计数据。幸存的[root.owner.GetSpeciesNamePlural]请求紧急救援，以防再发生更多的恐怖袭击。"
+cc_xeno_clashes.43.option:0 "$cc_xeno_clashes.42.option$"
+
+
+cc_xeno_clashes.44.name:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线发动袭击！"
+cc_xeno_clashes.44.desc:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线对我们的[root.GetName]政府发动了一次毁灭性的的网络攻击，瘫痪了整个系统并窃取了大量机密信息。趁各部门摇摇欲坠之机，他们计划取而代之，建立一个[species1.GetAdj]-[species2.GetAdj]主导的行星当局。"
+cc_xeno_clashes.44.option:0 "我们必须采取行动恢复秩序"
+
+cc_xeno_clashes.45.name:0 "[species1.GetAdj]-[species2.GetAdj]民兵组织发动袭击！"
+cc_xeno_clashes.45.desc:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线在[root.GetName]上发动了攻势。其武装组织杀死了我们当地政府的部分官员，剩余人员也已无力继续管理全球。袭击余波未消，两族领导人已经在计划取而代之，建立一个由他们为主导的行星政府。"
+cc_xeno_clashes.45.option:0 "$cc_xeno_clashes.44.option$"
+
+cc_xeno_clashes.46.name:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线发动袭击！"
+cc_xeno_clashes.46.desc:0 "[species1.GetAdj]-[species2.GetAdj]独立阵线特工在[root.GetName]上发动了袭击。一队自杀式袭击者将一枚高能炸弹成功私运进了政府大楼，将其引爆。我们的政府人员及设施损失惨重，运转难以为继，目前正在竭力控制局势。"
+cc_xeno_clashes.46.option:0 "$cc_xeno_clashes.44.option$"
+
+cc_xeno_clashes.5.name:0 "[root.GetName]上的谈判破裂"
+cc_xeno_clashes.5.desc:0 "[root.GetName]上旨在解决[species1.GetNamePlural]和[species2.GetNamePlural]之间紧张局势的谈判已宣告破裂。两族对立已无迅速解决的希望。"
+cc_xeno_clashes.5.A:0 "那么我们就用强力来确保和平"
+cc_xeno_clashes.5.B:0 "啊好吧"
+
+cc_xeno_clashes.51.name:0 "[root.GetName]上的紧张局势迎来转机？"
+cc_xeno_clashes.51.desc:0 "旨在消弭[species1.GetNamePlural]和[species2.GetNamePlural]之间紧张局势的谈判使两族得以坐下来认真寻找共识。现在他们一致认为，双方能够轻易确保和平再度降临，只要[root.owner.GetSpeciesNamePlural]政府予以支持。可疑的是，他们口中的支持似乎是指一个大型"发展资助计划"，用以确保行星经济繁荣，防止对立再度发生。"
+cc_xeno_clashes.51.A:0 "他们会得到我们的支持"
+cc_xeno_clashes.51.B:0 "从未见过如此厚颜无耻之人！"
+cc_xeno_clashes.51.B.tooltip:0 "[root.GetName]上的和平可能会再次破裂"
+
+cc_xeno_clashes.52.name:0 "[root.GetName]和平破裂"
+cc_xeno_clashes.52.desc:0 "[root.GetName]上脆弱的停火协议宣告破裂"
+cc_xeno_clashes.52.A:0 "那么我们就用强力来确保和平"
+cc_xeno_clashes.52.B:0 "啊好吧"
+
+cc_xeno_clashes.53.name:0 "[root.GetName]上的和平持续"
+cc_xeno_clashes.53.desc:0 "尽管我们拒绝用政府资金来满足勒索，[species1.GetNamePlural]和[species2.GetNamePlural]并没有像先前威胁地那样重拾暴力对抗。[root.GetName]上不同物种间的脆弱和平仍在持续。"
+
+#cc_ruled_against_our_pops:0 "对我们的公民作出不利裁决"
+cc_ruled_against_us_pops:0 "对我们作出不利裁决"
+cc_ruled_in_our_favour_pops:0 "对我们作出有利裁决"

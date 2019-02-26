@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+
+#PK Roles
+pkrole_total_destroy: "\n§R彻底毁灭§W"
+pkrole_repairable_destroy: "\n§H可挽回的破坏§W"
+pkrole_mind_control: "\n§M精神控制§W"
+pkrole_colony_sweep: "\n§E殖民清扫§W"
+pkrole_assimilation: "\n§Y同化§W"
+pkrole_sabotage: "\n§P破坏§W"
+pkrole_starkiller: "\n§G行星杀手§W"
+#Kill Tags
+pk_kill_machine: "\n§B杀死机械人口§W"
+pk_kill_mechanical: "\n§M杀死机械人口§W"
+pk_kill_hive: "\n§T杀死蜂群人口§W"
+pk_kill_generic: "\n§E杀死普通帝国人口§W"
+#ST Roles
+strole_terraform: "\n§G地形§W"
+strole_boost: "\n§R资源促进§W"
+strole_modtile: "\n§MMOD地块§W"
+strole_popcreate: "\n§P人口创造§W"
+#Misc
+ship_to_ship_w: "\n装运W槽武器"
+#Damage to user
+dta_10000: "\n10000使用者船体伤害"
+#Features
+rise_rebel: "\n能力:触发奴隶反抗(精神控制)"

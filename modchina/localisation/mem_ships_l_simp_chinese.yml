@@ -1,0 +1,30 @@
+﻿l_simp_chinese:
+ mem_DRONE_HANGAR:0 "监狱长无人机机库 类型-I"
+ mem_AWAKENED_DRONE_HANGAR:0 "监狱长无人机机库 类型-II"
+ 
+ mem_AURA_MINEFIELD:0 "守望者亚空间地雷"
+ mem_AURA_SHIELD_RECHARGER:0 "守望者充能立场"
+
+ mem_PROGENITOR_DRIVE:0 "先祖FTL 核心"
+ mem_PROGENITOR_THRUSTER:0 "先祖惰性引擎"
+ mem_PROGENITOR_SENSOR:0 "先祖传感阵列"
+ 
+ mem_PROGENITOR_CPU_XS:0 "先祖联盟 核心"
+ mem_PROGENITOR_CPU_S:0 "先祖联盟 核心"
+ mem_PROGENITOR_CPU_M:0 "先祖联盟 核心"
+ mem_PROGENITOR_CPU_L:0 "先祖联盟 核心"
+ 
+ mem_PROGENITOR_POWER_CORE_S:0 "先祖堕落反应堆 类型-I"
+ mem_PROGENITOR_POWER_CORE_M:0 "先祖堕落反应堆 类型-II"
+ mem_PROGENITOR_POWER_CORE_L:0 "先祖堕落反应堆 类型-III"
+ mem_PROGENITOR_SHIELD_S:0 "先祖波动护盾 类型-I"
+ mem_PROGENITOR_SHIELD_M:0 "先祖波动护盾 类型-II"
+ mem_PROGENITOR_SHIELD_L:0 "先祖波动护盾 类型-III"
+ mem_PROGENITOR_ARMOR_S:0 "先祖波动护甲 类型-I"
+ mem_PROGENITOR_ARMOR_M:0 "先祖波动护甲 类型-II"
+ mem_PROGENITOR_ARMOR_L:0 "先祖波动护甲 类型-III"
+ 
+ mem_PROGENITOR_RECHARGER:0 "先祖波动调制器"
+ mem_PROGENITOR_REPAIR:0 "先祖自动修复系统"
+
+ mem_PROGENITOR_SENSOR_SHIP:0 "先祖传感器阵列"

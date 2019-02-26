@@ -1,0 +1,33 @@
+﻿l_simp_chinese:
+
+ # Writing and Idea by ViolentBeetle
+ # Coding by Rahorus
+
+ # Anomaly Window
+ mem_pioneer_category:0 "小型人造物"
+ mem_pioneer_category_desc:0 "传感器显示有一个小的人造物体在[Root.GetName]轨道上运行。"
+
+ # Anomaly Success
+ mem_pioneer.1.name:0 "外太空探测器"
+ mem_pioneer.1.desc:0 "[Root.GetLeaderName]报告了该对象的成功恢复。在检查中，它似乎是一种风化的原始工艺，专为无人驾驶的星际旅行而设计。推测认为它是在几千年前发射的，并以光速穿过多个星系，直到它被[From.GetName]的引力捕获。 \n\n这艘船的船壳上挂着一块牌子，上面画着奇怪的几何形状，一种未知的恒星系统的图案，还有一幅我们未知的物种的两个裸体生物的图案。还不清楚为什么所有文明都认为在宇宙中传播这样的信息是有用的呢？。"
+ mem_pioneer.1.a:0 "有趣的。"
+ mem_pioneer.1.b:0 "他们显然想被找到。!"
+ mem_pioneer.1.c:0 "一群堕落的人!."
+ 
+ mem_pioneer.2.name:0 "货船"
+ mem_pioneer.2.desc:0 "[Root.GetName]发现的一艘小型飞船被证明是某种外星商业信使。 \n\n这是由两种不明有机物和一种粗糙的化学合成材料制成的，在被海盗伏击时，它显然是在运送珍贵的货物。 \n\n船员们似乎在袭击中丧生。当攻击者带走货物时，船就漫无目的地飘荡，直到被那颗星的引力抓住。"
+ 
+ mem_pioneer.3.name:0 "轻型军用船"
+ mem_pioneer.3.desc:0 "根据[Leader.GetName]的估计，[Root.GetName]发现的这艘船是由几个不同的身份不明的物种组成的军舰。 \n\n根据幸存的数据库，它携带有价值的情报，这将有助于在[From.GetName]密切接近中伏击“叛军”取得军事胜利。 \n\n一个不定时的太阳耀斑引起了整个飞船的火灾，机组人员试图通过减压来扑灭它，结果发现他们的气闸控制和生命维持系统被火灾烧毁了。由于无法抑制，船员们都死了，他们的船壳在星星周围漫无目的地飘荡。"
+ 
+ mem_pioneer.4.name:0 "救生舱"
+ mem_pioneer.4.desc:0 "这艘名为[Root.GetName]的飞船似乎是一种小型的救生舱，运载着一名外星人的木乃伊。 \n\n它似乎是从一个未知的星球向另一个星球发送的，大概是为了逃离某种灾难，让它的乘客有机会住在一个陌生的星球上。 \n\n相反，这个吊舱被这颗恒星的重力所捕获，并一直围绕着它运行，直到吊舱的生命维持系统失效。 \n\n[Leader.GetName]注意到乘客的基因构成异常。如果它存活并成熟，它就有可能成为我们科学家所知的最强和最有弹性的有机物之一，即使没有任何增加。"
+ mem_pioneer.4.a:0 "一个更少的威胁。"
+ 
+ mem_pioneer.5.name:0 "个人旅行机"
+ mem_pioneer.5.desc:0 "[Leader.GetName]不太确定[Leader.GetSheHe]从[From.GetName]的轨道上恢复了什么，但它似乎是某种密封的、自行推进的锥形太空舱，由极其耐用的材料制成。 \n\n其他不寻常的元素包括一个单光面传感器，一个向前面对的杆，一个单向器和一个机械手。舱内，舱内显然装有一个小型的飞行员舱，适合小型多臂生物。 \n\n在过去的某一时刻，它显然受到了攻击，而一股强大的冲击波击中了传感器。事实证明，这对飞行员是致命的。"
+ mem_pioneer.5.a:0 "不管它是什么，它现在已经死了。"
+
+ # Anomaly Failure
+ mem_pioneer.99.name:0 "失败"
+ mem_pioneer.99.desc:0 "[Root.GetLeaderName]遗憾地通知，[Leader.GetSheHe]无法定位和恢复该对象。不管它是什么，它现在可能永远消失了。"

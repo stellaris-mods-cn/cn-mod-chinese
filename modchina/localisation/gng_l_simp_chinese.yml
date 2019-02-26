@@ -1,0 +1,534 @@
+﻿l_simp_chinese:
+ civic_guardian_duty: "监护者的责任"
+ civic_guardian_duty_desc: "这个帝国相信它有责任作为它发现的任何低技术先进种族的守护者。\n\n一些观察团将不那么受限制。" 
+
+ mission_deity_persona:0 "我们是你的神"
+ mission_deity_persona_desc:0 "当地人被引导相信我们是他们的神。我们有效地从上面奴役他们。\n\n"
+ mission_we_guardians:0 "我们是你的守护者"
+ mission_we_guardians_desc:0 "我们积极地帮助和指导当地人，但是我们没有推进他们的技术。他们可以按自己的速度发展，可以要求我们随时离开。\n\n"
+ mission_deity_persona_2:0 "我们是你的神"
+ mission_deity_persona_2_desc:0 "当地人被引导相信我们是他们的神。我们有效地从上面奴役他们。\n\n"
+ mission_we_guardians_2:0 "我们是你的守护者"
+ mission_we_guardians_2_desc:0 "我们积极地帮助和指导当地人，但是我们没有推进他们的技术。他们可以按自己的速度发展，可以要求我们随时离开。\n\n"
+ mission_theobelisk:0 "Q-Bricks" 
+ mission_theobelisk_desc: "我们在这个星球上放置了许多复杂的、完全不可穿透的装置，它们可以监测当地居民的行为，并允许我们对他们的进化路径和速度做出微小的调整，并引导他们作为有知觉的生命形式的整体发展。\n\n"
+ mission_contactus:0 "与我们联系"
+ mission_contactus_desc: "我们传送一种方法，由当地人来设计和建造一艘单人飞船，它需要我们引导进入轨道，然后遥控操作导航系统和超光速推进装置，将飞行员带到一个重要的首次接触会议。\n\n"
+ 
+ edict_independent_obs_stations_on:0 "独立的观测任务"
+ edict_independent_obs_stations_on_desc:1 "观察站指挥官在决定执行哪些任务方面有更大的自由。这使得空间站可以有效地忽略通常适用于某些任务的精神约束。"
+ edict_independent_obs_stations_off:0 "限制的观测任务"
+ edict_independent_obs_stations_off_desc:1 "观察站指挥官不再有更大的自由来决定执行哪些任务。精神上的限制再次适用于某些任务。。"
+ 
+ # Gods
+ gods.1001.name:0 "奴隶项圈"
+ gods.1001.desc:0 "环绕[From.GetName]的观察哨所的指挥官建议在[From.GetName]使用项圈。这些项圈可以用来制服、惩罚或命令穿戴者。"
+ gods.1001.a:0 "优秀的计划。给每个土著都戴上一个项圈。"
+ gods.1001.b:0 "选择奴役那些生物的领袖。"
+ gods.1001.c:0 "不行，这可能会很昂贵，而且可能有风险。"
+ 
+ gods.1101.name:0 "项圈阻力"
+ gods.1101.desc:0 "[From.Owner.GetSpeciesNamePlural]的奴隶项圈运动遭到了相当大的阻力。许多人为了避免被逮捕而躲了起来，并发生了几起针对我们人员的暴力事件。"
+ gods.1101.a:0 "使用更多的力量。寻找那些隐藏的人。"
+ gods.1101.b:0 "避免冲突。只奴役那些愿意的人。"
+ gods.1101.c:0 "停止这个项目。这些事件可能迅速升级为战争。"
+
+ gods.1201.name:0 "项圈耻辱"
+ gods.1201.desc:0 "自从在[From.GetName]上部署奴隶项圈以来，[From.Owner.GetSpeciesNamePlural]之间的暴力升级。那些没有被逮捕的团伙正在袭击那些戴有项圈的人，并且有一些人死亡。"
+ gods.1201.a:0 "这是意料之中的事，不进行干涉。"
+ gods.1201.b:0 "制止这些攻击。"
+ gods.1201.c:0 "把项圈拿掉，这可能没有作用"
+ 
+ gods.1301.name:0 "项圈嫉妒"
+ gods.1301.desc:0 "自从在[From.GetName]上部署奴隶项圈以来，社会系统发生了迅速的变化。那些拥有项圈的[From.Owner.GetSpeciesNamePlural]被那些没有的人所崇拜，人们越来越相信，项圈会让佩戴者更接近他们的神。"
+ gods.1301.a:0 "赋予这个新的精英更多的责任。"
+ gods.1301.b:0 "利用这个机会使他们佩戴项圈。"
+ gods.1301.c:0 "把项圈拿掉，不要创造精英。" 
+ 
+ gods.2001.name:0 "监督者"
+ gods.2001.desc:0 "在[From.GetName]轨道上运行的观察哨的指挥官建议，将[From.Owner.GetSpeciesNamePlural]最忠诚和最顺从的人提升到更负责任的位置，并监督一些在星球上的行动。这将减少我们人员进入星球的需要，也减少了显示我们作为神的地位，使得我们更加神秘、更加像神。"
+ gods.2001.a:0 "好主意。去做吧。"
+ gods.2001.b:0 "这还没有发生?继续吧!"
+ gods.2001.c:0 "不，对于一些野蛮人来说，这是太大的权力。"
+ 
+ gods.2101.name:0 "监督vs监督"
+ gods.2101.desc:0 "在[From.GetName]上的两个监督者允许对他们的神进行正确的崇拜，然而实践中的分歧升级到他们[From.Owner.GetSpeciesNamePlural]之间的暴力。现在街道上有血迹，其他的监督者也开始选择立场。"
+ gods.2101.a:0 "杀了这两个监督者。"
+ gods.2101.b:0 "干预他们，没有理由进行街头战争。"
+ gods.2101.c:0 "让野蛮人继续干下去吧。"
+ 
+ gods.2201.name:0 "狂热者"
+ gods.2201.desc:0 "一个在[From.GetName]上的监督者获得一个狂热者的名声，许多[From.Owner.GetSpeciesNamePlural]被以神的名义杀害。狂热信徒越来越多，暴力行为也随之增多。其他监督者正开始向狂热者寻求指导，而一个竞争对手公开谴责狂热者是异教徒。"
+ gods.2201.a:0 "让狂热者永远消失。"
+ gods.2201.b:0 "众神应该支持他们的冠军。"
+ gods.2201.c:0 "不干涉。让这种事情继续下去。"
+ 
+ gods.3001.name:0 "军事支持"
+ gods.3001.desc:0 "在[From.GetName]轨道上运行的观察哨所的指挥官建议推动建立[From.Owner.GetSpeciesNamePlural]武装组织，授权他们作为我们的执法者。这将减少对星球上的人员需求。"
+ gods.3001.a:0 "继续。给他们一些我们的旧武器和盔甲。"
+ gods.3001.b:0 "请继续，但不要让他们接触我们的任何技术。"
+ gods.3001.c:0 "不。这是个坏主意。我糟糕的指挥官。"
+ 
+ gods.3101.name:0 "激进的分歧"
+ gods.3101.desc:0 "[From.GetName]的两个激进组织允许对他们的神进行正确崇拜行为的分歧升级为暴力。街道上有公开的战争，其他激进组织也开始选择立场。[From.Owner.GetSpeciesNamePlural]被卷入了交火中，许多人加入了反对激进组织的行列，或者形成了新的组织。"
+ gods.3101.a:0 "解散这两个组织。"
+ gods.3101.b:0 "解散所有的武装组织。"
+ gods.3101.c:0 "让野蛮人继续干下去吧。"
+ 
+ gods.3201.name:0 "指挥官"
+ gods.3201.desc:0 "在[From.GetName]的一个武装组织的指挥官迅速赢得了一个忠诚和有能力的神的仆人的名声。星球各地的[From.Owner.GetSpeciesNamePlural]都向指挥官寻求指引，作为他们的神的代表。其他的激进组织正在与这个派别合并。一些激进组织公开表示反对，声称指挥官是一个假先知。有一些暴力事件和一些嫉妒的谴责，但是到目前为止，冲突已经受到限制并且很快被指挥官压制。"
+ gods.3201.a:0 "让这个指挥官永远消失。"
+ gods.3201.b:0 "众神应该支持他们的先知。"
+ gods.3201.c:0 "不干涉。让这种事情发生。"
+ 
+ gods.4001.name:0 "大规模奴隶绑架"
+ gods.4001.desc:0 "在[From.GetName]轨道上的观察站的指挥官报告说，该小组现在有能力绑架大量的[From.Owner.GetSpeciesNamePlural] ，并将他们送到我们的一个星球上，以增加那里的奴隶劳动力。"
+ gods.4001.a:0 "继续。在星球上留下一些。"
+ gods.4001.b:0 "太好了!尽可能多地抓住。"
+ gods.4001.c:0 "我们不需要这些野蛮人!"
+ gods.4001.d:0 "还不是时候，过几个月再问。"
+ 
+ gods.5001.name:0 "他们不买它。"
+ gods.5001.desc:0 "环绕[From.GetName]的观察哨的指挥官对一些[From.Owner.GetSpeciesNamePlural]日益增强的抵抗表示关注，并要求允许一些更严肃的行动向民众证明我们是他们的神。"
+ gods.5001.a:0 "摧毁他们的一些定居点。"
+ gods.5001.b:0 "杀掉一些人，尽可能做大声势。"
+ gods.5001.c:0 "做一些事情，让他们害怕我们!"
+ gods.5001.d:0 "祝福他们。希望他们做一些奢侈和美好的事情。"
+ gods.5001.e:0 "按照你认为合适的方式处理它。"
+ 
+ gods.6001.name:0 "虔诚的信徒"
+ gods.6001.desc:0 "在轨道运行的[From.GetName]指挥官很高兴地报告说，[From.Owner.GetSpeciesNamePlural]被证明他们对神的忠诚和忠实的仆人:那就是我们！"
+ gods.6001.a:0 "不要自满。现在该对他们发泄愤怒!"
+ gods.6001.b:0 "他们在技术上进步了，但要小心。"
+ gods.6001.c:0 "利用这个机会进一步灌输给他们。"
+ gods.6001.d:0 "祝福他们。做点什么都好。奖励他们。"
+ gods.6001.e:0 "好，继续进行。"
+ 
+ # Prepare for colonising
+ gods.8001.name:0 "直接控制"
+ gods.8001.desc:0 "围绕着[From.GetName]的观察站指挥官报告说，这颗行星已经准备好了，它将会被吸收进入帝国。这个地方是军队到行星的另一面的好地方并且完全控制整个星球。"
+ gods.8001.a:0 "Proceed. Nice planet, nice work-force. We will have that."
+ gods.8001.b:0 "不。继续像以前一样。"
+ 
+ # Rapid technological enlightenment to then immediately integrate
+ # Slave resistance
+ # Slave rebellion on homeworld
+ # Slave plot to destroy overlord homeworld or worlds with them on
+ # Taking overlord hostages
+ # Covert alien insurgents sabotage and then takeover the slave world
+ # Sabotage of orbital station
+ # Rebellion on transport and then vanishes - shows up at a different pre-FTL planet is door. Think Alien Nation.
+ 
+ # Guardians
+ guardians.1001.name:0 "请允许我自我介绍一下"
+ guardians.1001.desc:0 "我们需要在[From.Owner.GetSpeciesNamePlural]与[From.GetName]进行第一次接触。.\n\n我们可以选择一个使者来代表我们:一个强大国家的领导人，一个开放思想的科学家，或者几个随机的[From.Owner.GetSpeciesNamePlural] 。\n\n或者，我们可以从轨道发送广播到整个星球，或者在星球上最强大的国家的首都着陆。"
+ guardians.1001.a:0 "联系一个强国的领导人。"
+ guardians.1001.b:0 "用开放的心态与科学家联系。"
+ guardians.1001.c:0 "接触一些随机的信徒。"
+ guardians.1001.d:0 "从轨道上播出广播。"
+ guardians.1001.e:0 "在首都找一艘船。"
+ guardians.1001.f:0 "我们还没有准备好，过段时间再询问我。"
+ 
+ # Leader Contact Good Choice
+ guardians.1101.name:0 "聪明的总统"
+ guardians.1101.desc:0 "据[From.GetName]的观察站的指挥官报告说，对[From.GetName]总统的渗透没有任何问题，非常成功。总统显然对我们的突然出现感到非常惊讶，他似乎由衷地高兴地会见了我们的代表，并同意听取我们的建议。"
+ guardians.1101.a:0 "一个很好的开始。"
+ 
+ # Leader Contact Bad Choice
+ guardians.1201.name:0 "不明智的总统"
+ guardians.1201.desc:0 "据[From.GetName]的观察站的指挥官报告说，对[From.GetName]总统的渗透情况不太好。我们的一些代表被杀，我们队的首席特使被扣为人质。"
+ guardians.1201.a:0 "不要试图回应、不要进行进一步的接触。"
+ guardians.1201.b:0 "救回特使,无论任何代价!"
+ guardians.1201.c:0 "开始谈判。找出他们想要什么。"
+ guardians.1201.d:0 "离开，摧毁观察站。"
+ 
+ # Leader Contact Bad Choice No Contact
+ guardians.1211.name:0 "被忽视的"
+ guardians.1211.desc:0 "据[From.GetName]的观察站的指挥官报告说，[From.GetName]所劫持的人质已经被处决，现在很有可能和其他被杀人员一起在实验室里被解剖。\n\n此外，一些进一步的情报显示，我们的团队所携带的一些技术正在被逆向工程，并取得了相当大的成功。"
+ guardians.1211.a:0 "停止这项研究，把尸体弄回来。"
+ guardians.1211.b:0 "什么也不做。"
+ guardians.1211.c:0 "报复，让[From.Owner.GetSpeciesName]负责。"
+ guardians.1211.d:0 "离开，摧毁观察哨。"
+ 
+ # Leader Contact Bad Choice Rescue
+ guardians.1221.name:0 "后果"
+ guardians.1221.desc:0 "据[From.GetName]观察站指挥官的报告说，[From.GetName]所劫持的人质已被秘密的提取小组悄悄取回。我们的特使还活着，但遭到了酷刑。\n\n指挥官还报告说,其余的死亡人员很可能被送进了解剖实验室。\n\n情报显示[From.Owner.GetSpeciesNamePlural]对我们一些技术的逆向工程是相当成功的."
+ guardians.1221.a:0 "停止这项研究，把尸体弄回来。"
+ guardians.1221.b:0 "什么也不做。"
+ guardians.1221.c:0 "报复，让[From.Owner.GetSpeciesName]负责。"
+ guardians.1221.d:0 "离开，摧毁观察哨。"
+ 
+ # Leader Contact Bad Choice Negotiation
+ guardians.1231.name:0 "谈判"
+ guardians.1231.desc:0 "据[From.GetName]的观察站的指挥官报告说，已经收到了我们的特使安全返回的条件。[From.GetName]总统要求我们给他们武器技术，让我们协助消灭一个敌对国家，然后我们放弃我们的工作，移交给[From.Owner.GetSpeciesNamePlural]."
+ guardians.1231.a:0 "拒绝。"
+ guardians.1231.b:0 "不管发生什么，都要找回我们的使者。"
+ guardians.1231.c:0 "离开，摧毁观察哨。"
+ 
+ # Leader Contact Bad Choice Kill President Success
+ guardians.1241.name:0 "倒垃圾"
+ guardians.1241.desc:0 "据[From.GetName]观测站的指挥官报道，在一次成功的突袭后，导致我们如此多问题的[From.Owner.GetSpeciesName] 总统现在成了前总统。而新上台的总统似乎更愿意与我们合作。\n\n指挥官要求取回在[From.GetName]中被杀人员的尸体，以及丢失的设备。"
+ guardians.1241.a:0 "回收[From.Owner.GetSpeciesNamePlural]的任何尸体和设备。"
+ guardians.1241.b:0 "让[From.Owner.GetSpeciesNamePlural]继续拿着我们的装备。"
+ guardians.1241.c:0 "离开，摧毁观察哨。"
+ 
+ # Leader Contact Bad Choice Kill President Failure
+ guardians.1251.name:0 "血腥的操作"
+ guardians.1251.desc:0 "据[From.GetName]轨道上运行的观察站的指挥官报告说，使[From.Owner.GetSpeciesName]成为前总统的行动并不顺利。安全部队击毙了几名特工，并被迫撤退，目标已经消失。"
+ guardians.1251.a:0 "回收任何尸体和设备"
+ guardians.1251.b:0 "让他们继续拿着我们的装备。"
+ guardians.1251.c:0 "离开，摧毁观察哨。"
+ 
+ # Leader Contact Bad Choice Body/Tech Retrieval Success
+ guardians.1261.name:0 "那不是你的。"
+ guardians.1261.desc:0 "据[From.GetName]的观察站的指挥官报告说，把我们的尸体和他们的设备运回来的行动取得了巨大的成功。\n\n这应该会结束[From.Owner.GetSpeciesNamePlural]对我们或技术的研究。"
+ guardians.1261.a:0 "干得好."
+ guardians.1261.b:0 "现在马上离开，摧毁观察哨。"
+ 
+ # Leader Contact Bad Choice Body/Tech Retrieval Failure
+ guardians.1271.name:0 "我们也会有"
+ guardians.1271.desc:0 "据[From.GetName]轨道上的观察站的指挥官报告说，把我们的尸体和他们的设备拿回来的行动是错误的。\n\n[From.GetName]安全部队杀了我们的特工，夺取了他们的装备。[From.Owner.GetSpeciesNamePlural]现在有更多的研究材料可用。"
+ guardians.1271.a:0 "指挥官，你被解雇了。"
+ guardians.1271.b:0 "离开，摧毁观察哨。"
+ 
+ # Scientist Contact
+ guardians.1301.name:0 "科学家"
+ guardians.1301.desc:0 "据[From.GetName]轨道上运行的观测站指挥官报告说，[From.GetName]非常好。\n\n这位科学家对我们的代表很有热情，并建议他们可以记录一些数据，并在空间站上接受指挥官的采访。"
+ guardians.1301.a:0 "照科学家的建议去做。"
+ guardians.1301.b:0 "好主意，但空间站是禁区。"
+ guardians.1301.c:0 "已经没有数据和访问了。"
+ guardians.1301.d:0 "我们会回到这位科学家的身边。"
+ 
+ # Scientist Contact Station Exam/Interview
+ guardians.1311.name:0 "科学家正在访问"
+ guardians.1311.desc:0 "[From.GetName]的科学家在参观我们的观察站时表现得很专业。空间站的指挥官允许进行粗略的医学检查，并在返回星球前对科学家进行简短的采访。\n\n指挥官强调，我们的客人没有透露任何过于敏感的信息，并且建立了一个非常简单的通讯协议。指挥官有一些监测站是监测科学家的传感器。如果他们开始朝天空大喊，那么就代表他们想和我们说话。"
+ guardians.1311.a:0 "优秀的指挥官。做得很好。"
+ 
+ # Scientist Contact No Station Trap
+ guardians.1321.name:0 "这是一个陷阱!"
+ guardians.1321.desc:0 "据[From.GetName]轨道观测卫星的副指挥官报告称，与[From.Owner.GetSpeciesName]科学家的会面是当局精心设下的圈套。我们的一些代表已被政府部队杀害，我们首席特使，和指挥官被扣为人质。\n\n[From.GetName]给我们的团队留下了一个简短的说明:我将与你们保持联系。不知道这位科学家是否在这次伏击中，永远都不知道这位科学家是否和指挥官一起被杀了。"
+ guardians.1321.a:0 "不要试图回应或任何进一步的接触。"
+ guardians.1321.b:0 "让指挥官回来，不管代价如何!"
+ guardians.1321.c:0 "开始谈判。找出他们想要什么。"
+ guardians.1321.d:0 "离开，摧毁观察哨。"
+ 
+ # Scientist Contact No Station No Trouble
+ guardians.1331.name:0 "科学"
+ guardians.1331.desc:0 "[From.GetName]的科学家在参观实验室时表现得很专业。指挥官进行了一个简短的采访，说服这位科学家把我们到达的消息传遍整个科学界。\n\n这位指挥官强调说，对这位科学家来说，没有什么过于敏感的东西，而且建立了一个非常简单的通信协议。指挥官有一些监测站是监测科学家的传感器。如果他们开始朝天空大喊，那么就代表他们想和我们说话。"
+ guardians.1331.a:0 "干得不错，指挥官。"
+ 
+ # Close Encounters Difficult
+ guardians.1401.name:0 "第三类接触"
+ guardians.1401.desc:0 "在[From.Owner.GetSpeciesNamePlural]上已经与几个随机的[From.GetName]进行远程接触.\n\n人们选择了一个地点，让他们聚集在那里，我们可以在那里见到他们的面部区域，但行星当局已经了解到了事态，并且正在积极地阻止我们选择的使者前往该地点。有少数人被监禁。其余的都变成了猎物。\n\n被选中的地点已经被封锁，当局已经设计了一个骗局来保证[From.Owner.GetSpeciesNamePlural]远离该地区。"
+ guardians.1401.a:0 "不要干涉当局。"
+ guardians.1401.b:0 "取消行动，没有会议了。"
+ guardians.1401.c:0 "协助我们选定的使者参加会议。"
+ guardians.1401.d:0 "改变联络方式，让我们的使者知道。"
+ guardians.1401.e:0 "离开，摧毁观察哨。"
+ 
+ # Close Encounters Easy
+ guardians.1501.name:0 "朝圣"
+ guardians.1501.desc:0 "在[From.Owner.GetSpeciesNamePlural]上已经与几个随机的[From.GetName]进行远程接触.\n\n他们选择了一个地点，让他们聚在一起，在那里我们可以看到面部区域。行星当局已经了解到了事态的发展，并积极协助我们选定的使者前往该地点。\n\n这次会议已经成为公众的共识，成千上万的[From.Owner.GetSpeciesNamePlural]开始兴奋起来。当局正在尽其所能使事情井然有序。"
+ guardians.1501.a:0 "推进会议。"
+ guardians.1501.b:0 "取消这次会议。太多人关注了。"
+ guardians.1501.c:0 "离开，摧毁观察哨。"
+ 
+ # Close Encounters Scrapped
+ guardians.1511.name:0 "被遗弃的"
+ guardians.1511.desc:0 "因为我们决定不去见他们，所以在[From.Owner.GetSpeciesNamePlural]上接触的几个[From.GetName]表现不佳。有些人被监禁在收容所。一些人自杀了。剩下的我们已经记不清了。"
+ guardians.1511.a:0 "我们无能为力。"
+ guardians.1511.b:0 "指挥官，帮助这些[From.Owner.GetSpeciesNamePlural]走出阴影."
+ guardians.1511.c:0 "离开，摧毁观察哨。"
+ 
+ # Close Encounters With Government
+ guardians.1521.name:0 "欢迎来到我们的世界"
+ guardians.1521.desc:0 "虽然在[From.GetName]上联系的所有[From.Owner.GetSpeciesNamePlural]都没有参加我们的安排会议，但也有一些人这样做了。连同一个庞大的政府安全部队和几十个科学家。\n\n无论如何，观察站的指挥官在降落前用几架航天飞机侦察出了这一地区，其中一站是在现场运输的。\n\n指挥官报告说，[From.Owner.GetSpeciesNamePlural]非常希望我们能把我们选择的使者带回到我们的空间站，还有几位科学家。"
+ guardians.1521.a:0 "不，我们来互相问候， 就只有这些。"
+ guardians.1521.b:0 "让我们选择的使者与我们同行。没有科学家。"
+ guardians.1521.c:0 "带着使者和科学家到我们的空间站去。"
+ 
+ # Close Encounters With Emissaries
+ guardians.1531.name:0 "家庭事务"
+ guardians.1531.desc:0 "在[From.GetName]上联系的所有[From.Owner.GetSpeciesNamePlural]并不是我们安排的会议，但有一些是这样做的。一些人带来了一些家庭成员。\n\n观察站的指挥官让一艘航天飞机侦察这一区域，然后亲自降落在该地点的一个空间站上。\n\n指挥官报告说，[From.Owner.GetSpeciesNamePlural]非常希望我们带他们回到我们的科技站，连同他们不想留下的家庭成员。"
+ guardians.1531.a:0 "不，我们来互相问候， 就只有这些。"
+ guardians.1531.b:0 "让我们选择的使者与我们同行。没有家庭成员。"
+ guardians.1531.c:0 "把使者和他们的家人带到我们的空间站。"
+ 
+ # Aiding The Abandoned
+ guardians.1541.name:0 "帮助被遗弃"
+ guardians.1541.desc:0 "在[From.GetName]轨道上运行的观测站的指挥官报告说，一些秘密行动来提取我们所选择的[From.Owner.GetSpeciesName]使者是成功的。他们被直接送到空间站，他们的恢复和训练工作已经开始。"
+ guardians.1541.a:0 "干得好，指挥官."
+ 
+ # Broadcast Good Response
+ guardians.1601.name:0 "希望播出"
+ guardians.1601.desc:0 "使用小型卫星网络和一些无人驾驶飞机，观测站的[From.GetName]指挥官向星球上的每一个[From.Owner.GetSpeciesNamePlural]都表示了问候。\n\n人们的反应非常积极，[From.Owner.GetSpeciesNamePlural]的所有听觉通道现在都指向天空。\n\n欢迎庆祝活动在全球各地继续进行，[From.Owner.GetSpeciesNamePlural]将利用各种方法发送个人信息，以及来自领导人的许多要求，包括先进的技术和知识，或只是优惠待遇。"
+ guardians.1601.a:0 "不进行任何回应，保持神秘感。"
+ guardians.1601.b:0 "和当地人澄清一些事情，指挥官。"
+ guardians.1601.c:0 "太过分了!摧毁观察站。"
+
+ # Broadcast Good Response Clarification
+ guardians.1611.name:0 "澄清"
+ guardians.1611.desc:0 "通过使用小型卫星网络和无人机，[From.GetName]观测站的指挥官在同一时间向星球上的每一个[From.Owner.GetSpeciesNamePlural]发出了第二次广播\n\n指挥官明确表示，我们在这里只是作为向导，我们在这里指导所有的[From.Owner.GetSpeciesNamePlural]，没有任何先进的力量或知识或优惠待遇。\n\n人们的反应又非常积极，[From.Owner.GetSpeciesNamePlural]的听觉通道都被指向天空。\n\n庆祝活动越来越短，越来越不常见，但是各种方法仍然被[From.Owner.GetSpeciesNamePlural]用来发送个人信息，以及来自领导人的更多要求，以获得先进的权力和知识，或者只是享受优惠待遇。"
+ guardians.1611.a:0 "不进行任何回应，保持神秘感。"
+ guardians.1611.b:0 "这就够了，指挥官。"
+ guardians.1611.c:0 "这对我们没有帮助。摧毁观察站。" 
+ 
+ # Broadcast Bad Response
+ guardians.1701.name:0 "恐惧世界"
+ guardians.1701.desc:0 "使用小型卫星网络和一些无人驾驶飞机，环绕[From.GetName]观测站的指挥官在同一时间向星球上的每一个[From.Owner.GetSpeciesName]问好。\n\n反响非常糟糕。全球范围内的大规模自杀事件。军队动员，惊恐的[From.Owner.GetSpeciesNamePlural]在天空呼喊。猫和狗蜷缩在一起。"
+ guardians.1701.a:0 "给当地人时间冷静下来。"
+ guardians.1701.b:0 "广播和平意图!现在!"
+ guardians.1701.c:0 "糟糕，摧毁观察哨。"
+ 
+ # Broadcast Bad Response Peaceful Intent
+ guardians.1711.name:0 "我们为和平而来"
+ guardians.1711.desc:0 "通过使用小型卫星网络和无人机，[From.GetName]观测站的指挥官在同一时间对星球上的每一个[From.Owner.GetSpeciesNamePlural]进行了第二次广播。\n\n指挥官明确表示，我们在这里只是作为和平的向导，我们在这里指导所有的[From.Owner.GetSpeciesNamePlural]，没有任何先进的力量或知识或优惠待遇。\n\n人们的反应变得更积极了，现在可以看到[From.Owner.GetSpeciesNamePlural]的所有听觉通道都指向天空。\n\n几支军队已经从高度戒备状态下撤退了。在天空中吟唱。"
+ guardians.1711.a:0 "这就够了，指挥官。"
+ 
+ # Capital Landing Good Response
+ guardians.1801.name:0 "大家都记得我们停车的地方"
+ guardians.1801.desc:0 "[From.GetName]轨道观测站的指挥官在这个星球上最大的国家公园里降落了一架航天飞机。\n\nN附近的本地人很担心地靠近了，然后愉快地和我们打招呼。指挥官要求找一个[From.Owner.GetSpeciesName]领导人,几分钟后国家的总统来了,代表所有[From.Owner.GetSpeciesNamePlural]欢迎[From.GetName]指挥官.\n\n然后，指挥官安全返回了空间站。"
+ guardians.1801.a:0 "一个很好的开始."
+ guardians.1801.b:0 "这非常可疑，摧毁观测站"
+ 
+ # Capital Landing Bad Response
+ guardians.1851.name:0 "在公园里了"
+ guardians.1851.desc:0 "在环绕[From.GetName]观察站的指挥下，在这个星球的首都的公园里降落一架航天飞机。\n\n附近的[From.Owner.GetSpeciesNamePlural]对航天飞机感到恐惧并攻击它。指挥官无法使当地人平静下来，在任何损害发生之前撤退到空间站。"
+ guardians.1851.a:0 "保持神秘，不要回应这个行为。"
+ guardians.1851.b:0 "让当地人知道我们很沮丧。"
+ guardians.1851.c:0 "失败!摧毁观察哨。"
+ 
+ # Capital Landing Bad Response Upset Polite
+ guardians.1861.name:0 "不高兴"
+ guardians.1861.desc:0 "环绕[From.GetName]的观察站的指挥官与星球上的几个国家领导人进行了远程接触。\n\n大多数[From.Owner.GetSpeciesNamePlural]都进行了道歉。然而，几位领导人并没有道歉，并借此机会要求我们离开他们的世界。"
+ guardians.1861.a:0 "不要回应这些要求，指挥官。"
+ guardians.1861.b:0 "拒绝离开。"
+ guardians.1861.c:0 "摧毁观察哨。"
+ 
+ # Capital Landing Bad Response Upset Angry
+ guardians.1871.name:0 "不高兴"
+ guardians.1871.desc:0 "环绕[From.GetName]的观察站的指挥官与星球上的几个国家领导人进行了远程接触。\n\n指挥官告诉[From.Owner.GetSpeciesNamePlural]，暴力是不能容忍的，我们在这里是为了以和平的意图来指导他们。\n\n几位领导人提出了道歉。但一些人没有，并抓住这个机会要求我们离开他们的世界。"
+ guardians.1871.a:0 "不要回应这些要求，指挥官。"
+ guardians.1871.b:0 "拒绝离开。"
+ guardians.1871.c:0 "摧毁观察哨。"
+ 
+ # Capital Landing Intercepted
+ guardians.1901.name:0 "在公园里崩溃"
+ guardians.1901.desc:0 "在[From.GetName]轨道上运行的观察站的指挥官将一架航天飞机降落到星球上，当地人迅速被拦截并击落。航天飞机在世界上最大的国家首都的公园坠毁。\n\n附近的[From.Owner.GetSpeciesNamePlural]感到恐惧和愤怒。杀了幸存的船员。"
+ guardians.1901.a:0 "保持神秘。不要回应这个行为。"
+ guardians.1901.b:0 "我们需要找回残骸和尸体。"
+ guardians.1901.c:0 "让当地人知道我们很沮丧。"
+ guardians.1901.d:0 "该死的!摧毁观察哨。"
+ 
+ # Capital Landing Intercepted Retrieval Success
+ guardians.1911.name:0 "崩溃恢复"
+ guardians.1911.desc:0 "新指挥官正在[From.GetName]绕轨道运行。带领一个团队恢复失事的航天飞机和机组人员。行动秘密进行，没有[From.Owner.GetSpeciesNamePlural]或恢复人员受到伤害。"
+ guardians.1911.a:0 "做得好指挥官"
+ guardians.1911.b:0 "让当地人知道我们很沮丧。"
+ guardians.1911.c:0 "现在摧毁观察站。"
+ 
+ # Capital Landing Intercepted Retrieval Failure
+ guardians.1921.name:0 "复合的麻烦"
+ guardians.1921.desc:0 "[From.GetName]新上任的指挥官报告说，打捞我们遇难人员遗体和航天飞机残骸的行动是大错特错的。\n\n[From.GetName]安全部队杀死了我们的特工，并夺取了他们的装备。现在，[From.Owner.GetSpeciesNamePlural]有更多的研究资料可供使用。"
+ guardians.1921.a:0 "指挥官，你被解雇了。"
+ guardians.1921.b:0 "让当地人知道我们很沮丧。"
+ guardians.1921.c:0 "离开，摧毁观察哨。"
+ 
+ # Communication Protocols
+ guardians.3001.name:0 "协议"
+ guardians.3001.desc:0 "我们[From.GetName]的空间站已经和[From.GetName]的总统联系，要求建立通信和联系协议，然后由他们的政府管理。\n\n总统希望减少我们与普通民众的互动并消除可能造成的任何负面影响。"
+ guardians.3001.a:0 "同意遵守这些协议。"
+ guardians.3001.b:0 "我们将在这里指导[From.Owner.GetSpeciesNamePlural]."
+ guardians.3001.c:0 "保持神秘的。不要再回复他们。"
+ 
+ # Embassy
+ guardians.5001.name:0 "大使馆"
+ guardians.5001.desc:0 "在我们与[From.Owner.GetSpeciesNamePlural]的最新接触中，指挥官倡导增加我们与他们之间的互动，建议我们在这个星球建立大使馆。.\n\n在[From.GetName轨道上的观察站的指挥官建议，我们应该在空间站上建立一个大使馆，并为那些希望使用它的[From.Owner.GetSpeciesName]提供航天服务。"
+ guardians.5001.a:0 "与倡导者合作，让他们的想法成真"
+ guardians.5001.b:0 "在空间站设立大使馆。"
+ guardians.5001.c:0 "保持神秘。没有大使馆。没有服务。"
+ 
+ # Demonstration
+ guardians.6001.name:0 "示范"
+ guardians.6001.desc:0 "据[From.GetName]观测站的指挥官报道称,有一些麻烦,一群[From.Owner.GetSpeciesNamePlural]示威者在上次会议捣乱.\n\n幸运的是，没有人受到严重伤害，我们的人员安全返回了空间站。"
+ guardians.6001.a:0 "是时候离开了。摧毁空间站。"
+ guardians.6001.b:0 "让当地人知道我们很沮丧。"
+ guardians.6001.c:0 "增强我们使者的安全。"
+ guardians.6001.d:0 "要求[From.GetName]当局改善安全。"
+ guardians.6001.e:0 "保持神秘。不要回应这个行为。"
+ 
+ # Dismissal
+ guardians.7001.name:0 "解雇"
+ guardians.7001.desc:0 "[From.GetName]轨道空间站已经被[From.GetName]总统联系，他要求我们把[From.GetName]空间站移走.\n\n这条信息包括一些尖锐的言辞，如果我们不及时遵守的话，我们就可能带来一些严重后果。"
+ guardians.7001.a:0 "是时候离开了。摧毁空间站。。"
+ guardians.7001.b:0 "以礼貌的态度拒绝。"
+ guardians.7001.c:0 "保持神秘。不要再回复他们。"
+ 
+ # Covert Guidance
+ guardians.8001.name:0 "秘密的指导"
+ guardians.8001.desc:0 "在[From.GetName]轨道上运行的观测站的指挥官建议我们尝试更隐蔽的方法来引导[From.Owner.GetSpeciesNamePlural]。远程交互优先于实际的物理会议。更多的个人接触，较少接触大型公开测试。"
+ guardians.8001.a:0 "我们对于他们来说仍然是一个谜。不错的计划。去做吧。"
+ guardians.8001.b:0 "不,我们是来引导所有[From.Owner.GetSpeciesNamePlural]."
+ guardians.8001.c:0 "这样做，但对所有[From.Owner.GetSpeciesNamePlural]都能接受吗？"
+ 
+ # Theft of our tech
+ # Extremists take hostages
+ # Request for medical aid
+ # Change of attitudes (ethics)
+ # Technological jump due to inspiration
+ # Request for technological advancement
+ # Technological regression
+ # World War (over access to us or getting rid of us)
+ # Station sabotage
+ # Attack on the station
+ # Envoy assassinated
+ # Cult wants to join us in space
+ # Rich group wants to leave their world
+ # Cult starts worshipping us as deities
+ # We're being secretly hybridised!
+ # Bio-weapons being developed to prevent us being on the planet
+ 
+ # Request to become a colony of our empire
+ guardians.9001.name:0 "我们想加入你们"
+ guardians.9001.desc:0 "[From.GetName]观测站的指挥官称，星球上许多大国的联合代表都要求加入我们的帝国，成为一个完整的成员群体。"
+ guardians.9001.a:0 "进行统一。它们成为我们未来的一部分。"
+ guardians.9001.b:0 "不，我们只是来指导他们的。"
+ 
+ # QBRICKS FINISHED
+ qbricks.1000.name: "下一阶段"
+ qbricks.1000.desc: "[From.Owner.GetSpeciesNamePlural]已经开始使用新的技术来使用火，制造更好的工具和武器，并开采有用的矿物。他们也对我们的观察单位更感兴趣，并且有一些尝试去破坏或者移动他们，预期的结果是必定是失败。\n\n这些单位仍然包含大量有用的数据。我们可以检索它们，或者激活它们的自毁程序，或者把它们留在[From.GetName]中。在将来我们仍然可以利用它们。\n\n然而，在他们发展的这个阶段，[From.Owner.GetSpeciesNamePlural]将很难用任何有用的方式来操纵设备。"
+ qbricks.1000.a: "检索单位。"
+ qbricks.1000.b: "激活他们的自毁程序。"
+ qbricks.1000.c: "让他们留在星球上。"
+ 
+ # QBRICKS SETTINGS
+ qbricks.2000.name: "Q-Brick设置"
+ qbricks.2000.desc: "观察单位在[From.GetName]已经建立了一段时间了，我们可以对[From.Owner.GetSpeciesNamePlural]的设置做一些改变来影响他们。行为或使单位周围的土地更肥沃。我们可以: "
+ qbricks.2000.a: "使[From.Owner.GetSpeciesNamePlural] 更加敌视对方。"
+ qbricks.2000.b: "使[From.Owner.GetSpeciesNamePlural] 更加合作。"
+ qbricks.2000.c: "使周围的土地更肥沃。"
+ qbricks.2000.d: "使[From.Owner.GetSpeciesNamePlural] 不那么受约束。"
+ qbricks.2000.e: "使[From.Owner.GetSpeciesNamePlural] 降低人口增长率。"
+ qbricks.2000.f: "把单位放在被动设置上。"
+ 
+ # CONFLICTMAKER
+ # War between nations!
+ qbricks.3100.name: "只有战争!"
+ qbricks.3100.desc: "[From.GetName]每个国家之间都有战争。现在已经没有平民了，除了少数几个被隔离起来进行繁殖和训练的儿童，为了增援，这是不可避免的。\n\n在少数情况下，一小部分[From.Owner.GetSpeciesNamePlural]似乎没有受到冲突制造者的影响，但它们要么很快被敌对势力消灭，要么消失在星球的偏远地区。"
+ qbricks.3100.a: "卓越的进步."
+ qbricks.3100.b: "这最终会使他们更强大。"
+ qbricks.3100.c: "我们做了什么?"
+ # Rapid weapons advancements
+ qbricks.3200.name: "一把锋利的剑"
+ qbricks.3200.desc: "[From.GetName]的六个大陆联盟之间爆发战争。然而[From.Owner.GetSpeciesNamePlural]，他们已经竭尽全力为荣誉而战，并将平民排除在冲突之外。他们在战争中使用外交手段的事实表明，铁的意志不会诉诸野蛮或纯粹的不受抑制的仇恨。\n\n这也为他们提供了更多的[From.Owner.GetSpeciesName]和时间来推进他们的军事技术。他们的武器和盔甲现在由专家大量生产，而且大多质量很好。攻城武器变得越来越复杂。每一个建设项目，船舶都变得更加坚固。\n\n他们甚至有医疗专家治疗伤员和改善他们的生物科学。看起来，战争使大多数国家在制造它的艺术上出类拔萃。"
+ qbricks.3200.a: "[From.Owner.GetSpeciesNamePlural]可能证明是非常有用的。"
+ qbricks.3200.b: "卓越的进步."
+ qbricks.3200.c: "这可能是一个错误。"
+ # Population loss
+ # Mass murders and genocide
+ # Serial killings
+ 
+ # PEACEMAKER
+ # Mass laziness
+ qbricks.4100.name: "懒惰的"
+ qbricks.4100.desc: "和平缔造者已经使[From.GetName]成为一个非常安静的星球。几乎所有的[From.Owner.GetSpeciesNamePlural]已经变得很温顺了。\n\n只有一小部分人继续在农场工作，生产足够的食物来维持小型社区，而这些生物除了吃饭和睡觉之外，似乎没有做其他任何事情。\n\n另一群人利用那些不愿让多数人挨饿的人，集中精力积累个人财富和权力。"
+ qbricks.4100.a: "卓越的进步。"
+ qbricks.4100.b: "社会就是这样运作的。"
+ qbricks.4100.c: "这就是我们想要的吗?"
+ # Unity and unification
+ qbricks.4200.name: "凝聚"
+ qbricks.4200.desc: "和平缔造者已经做出了决定。[From.GetName]已经成为一个高度生产力和团结的[From.GetName]。[From.Owner.GetSpeciesNamePlural]已停止争夺资源、土地和其他物质。\n\n相反，每个[From.Owner.GetSpeciesName]都努力在为社会和社会做贡献方面做得很出色，通常他们都有天生的才能。\n\n有一些[From.Owner.GetSpeciesNamePlural]他们在社会中获得了更高的地位，因为他们的技能有助于维护和平、合作、仲裁出现的少数分歧，并提高[From.Owner.GetSpeciesName]的生产力。为了[From.GetName].\n\n货币、物质收益和经济已经成为[From.Owner.GetSpeciesName]日常生活中一个次要的琐事。."
+ qbricks.4200.a: "卓越的进步。"
+ qbricks.4200.b: "社会就是这样运作的。"
+ qbricks.4200.c: "这就是我们想要的吗?"
+ # Unaffected nation becomes dominant
+ 
+ # FERTILISER
+ # Add food to tile and surrounding tiles (HIDDEN)
+ # More farms
+ qbricks.5300.name: "许多农场"
+ qbricks.5300.desc: "[From.GetName]法人农业正在迅速蔓延发展，相关技术也在不断进步。许多[From.Owner.GetSpeciesNamePlural]已经放弃了其他的交易，集中精力在田地里干活和处理牲畜。\n\n储存和保存食物的方法有了很大改进。也有大量人口激增。"
+ qbricks.5300.a: "卓越的进步。" 
+ # Industrial stagnation
+ qbricks.5500.name: "Mineless"
+ qbricks.5500.desc: "[From.GetName]的一些行业正在消失，取而代之的是土地清理和农业发展。[From.Owner.GetSpeciesNamePlural]对于获取需要的矿物质来改善建筑和工具，并不感兴趣，他们更喜欢用他们拥有的东西来谋生。"
+ qbricks.5500.a: "有趣."
+ # Agricultural advances
+ qbricks.5700.name: "更多的农场"
+ qbricks.5700.desc: "农场继续出现在[From.GetName]上，越来越多更加肥沃的土地被清理,但有效的技术使[From.Owner.GetSpeciesNamePlural]人口持续增长。\n\n观察单位的施肥计划现在显得相当多余，他们的利益不再需要了。"
+ qbricks.5700.a: "理解。" 
+ 
+ # Stimulator
+ # Orgies
+ # STDs
+ # Population rate increases
+ # Incest and mutation
+ 
+ # CORRUPTOR
+ # Reduced productivity
+ 
+ # Population loss
+ qbricks.7100.name: "瘟疫世界"
+ qbricks.7100.desc: "[From.GetName]现在是一个非常病态的世界。[From.Owner.GetSpeciesNamePlural]正迅速变得病态，虚弱和感染像野火一样蔓延。\n\n数千人死于高度传染性的空气瘟疫，街道上到处都是他们的尸体。"
+ qbricks.7100.a: "可怕。"
+ 
+ # Communities falling apart, buildings vanish
+ qbricks.7550.name: "帮派生存"
+ qbricks.7550.desc: "[From.GetName]的人口大量死亡，许多社区已经完全消失，被幸存者所抛弃。\n\n剩下的[From.Owner.GetSpeciesNamePlural]联合在一起，与其他帮派争夺日益减少的资源，或者保护临时营地，以对抗彼此的袭击。"
+ qbricks.7550.a: "有趣." 
+ 
+ # Cleansing of those with plague
+ # Isolated communities
+ # Population growth rate drops
+ qbricks.7200.name: "瘟疫世界"
+ qbricks.7200.desc: "[From.GetName]人口已经大量减少。[From.Owner.GetSpeciesNamePlural]对腐蚀者的各种影响产生了免疫力，但他们的整体免疫系统、出生率和身体力量将会在未来几代人中严重受损。"
+ qbricks.7200.a: "可怕"
+ # Viral mutation and evolution
+ # Zombies?
+ # Survival of the fittest
+ # Fighting over dwindling resources
+ 
+ # PASSIVE
+ # Worship and religion based around units - spiritualism up
+ qbricks.8100.name: "偶像"
+ qbricks.8100.desc: "许多[From.Owner.GetSpeciesNamePlural]已经开始把[From.GetName]观察站当作精神指导和幸福的中心。一些宗教团体和狂热追随者在这些设备附近涌现出来。"
+ qbricks.8100.a: "令人着迷。"
+ 
+ # Scientific curiosity of units - materialism up
+ qbricks.8200.name: "智慧"
+ qbricks.8200.desc: "许多[From.Owner.GetSpeciesNamePlural]已经显示出对[From.GetName]观察站越来越多的科学好奇心，而且大多数人认为它们是由一种高度发达的物种在他们的星球上生存的，而这种物种可能生活在[From.GetName]的界限之外。\n\n考虑到[From.Owner.GetSpeciesNamePlural]的科学和技术处于原始状态，这是个明确的迹象表明他们的观测技术已经是相当先进的。"
+ qbricks.8200.a: "令人着迷。"
+ 
+ # Successful moving of unit - loss of connection?
+ # Successful reverse-engineering of unit - rapid and sudden tech advance and potentially even communication!
+ # Burying of unit - a mystery to be re-discovered centuries later?
+ # Unit is hacked and weaponised!
+ # Unit is successfully destroyed! WTF?
+ # Unit malfunctions and does some extreme shit to the natives.
+
+ # Event Buildings
+ building_qbrick:0 "Q-Brick 观察者"
+ building_qbrick_desc:1 "一种高度复杂和不可穿透的装置，可以监视和修改本机行为。"
+ building_qbrick_peacemaker:0 "Q-Brick 调解者"
+ building_qbrick_peacemaker_desc:1 "一种高度复杂和不可穿透的装置，可以监视和修改本地的行为，使其更加和平与合作。"
+ building_qbrick_conflictmaker:0 "Q-Brick 冲突制造者"
+ building_qbrick_conflictmaker_desc:1 "一个非常复杂和难以穿透的设备，可以监控和修改原生行为，使他们对彼此更加暴力和侵略。"
+ building_qbrick_fertiliser:0 "Q-Brick 肥料"
+ building_qbrick_fertiliser_desc:1 "这是一种高度复杂且难以穿透的装置，可监控本地行为并增加周围土地的肥力。"
+ building_qbrick_corruptor:0 "Q-Brick 腐蚀者"
+ building_qbrick_corruptor_desc:1 "这是一种非常复杂和难以穿透的设备，它能监测当地人的行为，使他们生病，从而使人口增长率下降。"
+ building_qbrick_stimulator:0 "Q-Brick 刺激器"
+ building_qbrick_stimulator_desc:1 "这是一种高度复杂和难以穿透的装置，它能监测当地人的行为，使其不受抑制，增加人口增长率。"
+ 
+ building_primitive_bunker:0 "掩体"
+ building_primitive_bunker_desc:1 " "
+ building_primitive_bunker_2:0 "掩体"
+ building_primitive_bunker_2_desc:1 " "
+ building_primitive_town:0 "小镇"
+ building_primitive_town_desc:1 " "
+ building_primitive_town_2:0 "小镇"
+ building_primitive_town_2_desc:1 " "
+ building_primitive_fortress:0 "堡垒"
+ building_primitive_fortress_desc:1 " "
+ building_primitive_fortress_2:0 "堡垒"
+ building_primitive_fortress_2_desc:1 " "

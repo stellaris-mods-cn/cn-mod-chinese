@@ -1,0 +1,546 @@
+﻿l_simp_chinese:
+
+ORIGIN_ESCORT_KEY: "欧米伽级护航舰中心"
+ORIGIN_ESCORT_MID_KEY: "欧米伽级护航舰水晶塔A"
+ORIGIN_ESCORT_STERN_KEY: "欧米伽级护航舰水晶塔B"
+
+ORIGIN_ASSAULT_ESCORT_KEY: "欧米伽级突击护航舰中心"
+ORIGIN_ASSAULT_ESCORT_MID_KEY: "欧米伽级突击护航舰水晶塔A-B "
+ORIGIN_ASSAULT_ESCORT_STERN_KEY: "欧米伽级突击护航舰水晶塔C-D"
+
+ORIGIN_BATTLECRUISER_BOW_KEY: "欧米伽级战斗巡洋舰枢纽"
+ORIGIN_BATTLECRUISER_KEY: "欧米伽级战斗巡洋舰水晶塔A"
+ORIGIN_BATTLECRUISER_STERN_KEY: "欧米伽级战斗巡洋舰水晶塔B"
+
+ORIGINAL_TITAN_BOW_KEY: "欧米伽级泰坦舰枢纽"
+ORIGINAL_TITAN_KEY: "欧米伽级泰坦舰水晶塔A"
+ORIGINAL_TITAN_HANGAR: "欧米伽级泰坦舰机库"
+ORIGINAL_TITAN_STERN: "欧米伽级泰坦舰水晶塔B"
+
+ORIGIN_GOLIATH_BOW_KEY: "欧米伽级歌利亚枢纽"
+ORIGIN_GOLIATH_KEY: "欧米伽级歌利亚水晶塔A"
+ORIGIN_GOLIATH_HANGAR: "欧米伽级歌利亚机库"
+ORIGIN_GOLIATH_STERN: "欧米伽级歌利亚水晶塔B"
+
+ORIGINAL_COLOSSUS_SECTION: "欧米伽级巨像"
+
+sofe_ancient_weapon: "盖亚方舟舰"
+sofe_ancient_weapon_plural: "盖亚方舟舰"
+sofe_ancient_cruiser: "新星泰坦舰"
+sofe_ancient_cruiser_plural: "新星泰坦舰"
+sofe_ancient_escort: "星云护航舰"
+sofe_ancient_escort_plural: "星云护航舰"
+sofe_ancient_small_military_station: "防御核心"
+sofe_ancient_small_military_station_plural: "防御核心"
+
+aryan: "阿拉达尔"
+NAME_ORIGINAL: "始源"
+NAME_ORIGINAL_PLURAL: "始源"
+ORIGINAL: "先祖"
+original_empire_general: "霸主"
+original_empire_admiral: "总督"
+
+origin_assault_guardian: "天界勇士"
+origin_assault_guardian_desc: "作为曾经始源帝国母星的守护者，这些新一代的神圣存在如今将通过消灭带来救赎，忠诚地为新秩序而服务。"
+origin_guardian: "天界守护者"
+origin_guardian_desc: "这些神圣的守护者保护着孤独的堡垒，始源帝国最后的母星。由于他们千年来的战斗经验，他们已经成为了无人能比的最致命的战士。"
+origin_autarch_guardian: "司战者"
+origin_autarch_guardian_desc: "物竞天择，适者生存。日出则行，危在旦夕。苟延一息，急何能择。优胜劣汰，弱肉强食。孤注一掷，别无选择。成王败寇，强者为尊。"
+
+origin_citadel: "神圣堡垒"
+origin_citadel_plural: "神圣堡垒"
+origin_super_citadel: "黄金王座"
+origin_super_citadel_plural: "黄金王座"
+
+building_crystal_arch: "水晶高塔"
+building_crystal_arch_desc: "光弯曲并显现为我们想要的形状。所有的物质、所有我们已知的创造物都能通过意志之力塑造成型。这股力量驱使着我们的帝国通过无尽斗争的考验。"
+
+building_eden_garden: "宁静花园"
+building_eden_garden_desc: "光明中存在着和平与宁静。当我们思考并将我们的思想集中在我们身体内的鲜活的灵魂，理解一切事物是如何成为现实时，我们找到了和平。这片土地本身与我们结合为一体。"
+
+building_heaven_sanctuary: "永恒之光"
+building_heaven_sanctuary_desc: "我们穿越到彼岸，我们与黑暗作斗争。我们在挑战中茁壮成长并珍视挑战。在团结中找到了力量。全矩阵和永恒之光让我们自由。"
+
+building_grand_fortress: "昆拉斯之盾"
+building_grand_fortress_desc: "当所有的希望似乎都破灭了，当我们的精神都崩溃了，当我们的机器也损毁了。司战者英塔迪斯召集守护者们与古物战斗。但并不是守护者们或猎杀者们拯救了这一天。是仅仅一个人，独自举起他的灵能盾牌保护了圣殿。我们也许永远失去了昆拉斯，但关于他的歌谣将永远被人们传唱。"
+
+building_power_pyramid: "桑托斯之矛"
+building_power_pyramid_desc: "和古物斗争需要的不仅仅是一个人的精神和意志。桑托斯比其他人更了解这一点。他凝望着阿亚，第一颗恒星，然后是伊欧台，抨击古人需要的不仅仅是一个人的心灵和意志。桑托斯比任何人都更明白这一点。他凝视着艾莉亚;先成星斗，再成云台;大海，然后进入伟大的城市埃利顿。\n\n星光……支持思想的海洋……我们伟大国家的综合工程就建在这里。\n\n星状体…灵能…合成。在大混乱的时候被锻造，光明即将来临。"
+
+building_super_shelter: "发现之穹"
+building_super_shelter_desc: "即使我们已经站在了我们前进道路的顶峰，我们已经超越了迄今为止我们所知道的所有挑战。这仍然有一个必须回答的重大问题。在找到答案之前，我们必须坚持下去。完美是我们将追求但永远不会获得的目标。"
+
+building_chamber_of_hope: "希望之室"
+building_chamber_of_hope_desc: "在这个大房间中许多的镜子中仍然清晰地回响着我们过去成就。我们凝视着镜中的景象，看到了过去、现在和可能的未来。即使当我们的身体崩溃，我们的灵魂破碎，我们的帝国覆灭，当我们失去一切，我们仍然还保留着希望。"
+
+building_omega_fortress: "天穹要塞"
+building_omega_fortress_desc: "看看我们最神圣和最尊贵的阶层 - 天界守护者，我们家园的守护神。他们为了追求在战斗中的完美摒弃了所有其他技能。他们肩负重担，但绝不动摇。他们将以勇敢和热情面对所有入侵者。"
+
+building_library_of_fate: "命运图书馆"
+building_library_of_fate_desc: "我们的帝国最终会走向何方?在我们的斗争中，我们学到了很多东西。我们曾以为死亡就是终结。但我们发现，还有比死亡更糟糕的命运。我们的帝国会抓住这个答案的一小部分吗?或者我们会像古人一样倒下。我们必须为一切可能发生的情况做好准备，我们必须观察和了解其他人如何克服他们的斗争。"
+
+building_light_foundry: "光之铸造"
+building_light_foundry_desc: "即使我们有了新发现的力量和力量。我们必须永远不要忘记过去，正是这些因素和工具造就了今天的我们。即使光芒褪去，过去的阴影仍将指引我们。"
+
+####CIVICS AND GOVERNMENT#####
+
+civic_solar_empire: "永恒帝国"
+civic_solar_empire_desc: "始源帝国曾是并且可以说仍然是有史以来最强大的帝国之一，他们的公民永远投身入他们的野心中，数千年的流亡生涯几乎毫不动摇他们对他们为之奋斗的事业的奉献精神。"
+
+civic_eternal_fleet: "永恒舰队"
+civic_eternal_fleet_desc: "始源帝国的舰队确实让人敬畏。他们的舰船不需要维护，他们的舰队司令指挥起舰队来就如身之使臂,臂之使指。"
+
+civic_know_everything: "永恒复仇"
+civic_know_everything_desc: "作为所有技术和文明的先驱者，始源帝国了解大多数技术和设计的内在运作，并不害怕利用敌人的弱点。"
+
+gov_ancient_ascendency: "渴望复仇的古老强国"
+gov_ancient_ascendency_desc: "始源帝国是一个古老的强大帝国，比大多数银河系文明都古老。他们似乎在某种程度上被对堕落帝国复仇的欲望所吞噬。"
+
+###PASSIVE###
+
+civic_solar_empire_passive_desc: "永恒帝国"
+civic_solar_empire_desc_passive_desc: "始源帝国曾是并且可以说仍然是有史以来最强大的帝国之一，他们的公民永远投身入他们的野心中，数千年的流亡生涯几乎毫不动摇他们对他们为之奋斗的事业的奉献精神。"
+
+civic_eternal_fleet_passive: "永恒舰队"
+civic_eternal_fleet_passive_desc: "始源帝国的舰队确实让人敬畏。他们的舰船不需要维护，他们的舰队司令指挥起舰队来就如身之使臂,臂之使指。"
+
+civic_know_everything_passive_desc: "永恒警惕"
+civic_know_everything_desc_passive_desc: "即使他们不再打算在银河中彰显他们的统治地位，始源帝国仍然对所有潜在的威胁保持警惕。"
+
+gov_ancient_ascendency_passive: "神秘的古老强国"
+gov_ancient_ascendency_passive_desc: "始源帝国是一个古老的强大帝国，比大多数银河系文明都古老。他们现在选择被动地从他们的领域观察星系。"
+
+###ASCENDED###
+
+civic_solar_empire_ascended: "永恒帝国"
+civic_solar_empire_desc_ascended_desc: "始源帝国曾是并且可以说仍然是有史以来最强大的帝国之一，他们的公民永远投身入他们的野心中，数千年的流亡生涯几乎毫不动摇他们对他们为之奋斗的事业的奉献精神。"
+
+civic_eternal_fleet_ascended: "永恒舰队"
+civic_eternal_fleet_ascended_desc: "始源帝国的舰队确实让人敬畏。他们的舰船不需要维护，他们的舰队司令指挥起舰队来就如身之使臂,臂之使指。"
+
+civic_know_everything_ascended: "永恒权势"
+civic_know_everything_desc_ascended_desc: "即使不再执意要征服整片银河，始源帝国也不会对质疑他们权力的人让步。"
+
+gov_ancient_ascendency_ascended: "神秘的古老强国"
+gov_ancient_ascendency_ascended_desc: "始源帝国是一个古老的强大帝国，比大多数银河系文明都古老。他们现在选择被动地从他们的领域观察星系。"
+
+#######SUBJECTS
+
+protectorate_of_original: "始源保护国"
+protectorate_of_original_desc: "我们正接受始源帝国的保护。作为我们的忠诚和劳动力的嘉奖，古老的帝国赐予了我们安全、繁荣的经济和与其他先驱者作战的有用的战斗数据。"
+
+banished_of_original: "悔悟"
+banished_of_original_desc: "始源帝国允许我们的帝国暂时存在，但他们不会冒险。因此，我们不被允许进行任何外交或扩张。"
+
+SUBJECT_origin_protectorate: "始源保护国"
+SUBJECT_DESC_origin_protectorate: "始源保护国是一个普通的帝国，它宣誓效忠并屈从于始源帝国。他们必须用20%的舰队容量来支持始源帝国。作为回报，始源帝国给予他们经济利益和针对其他先驱者的特殊战术数据。"
+
+SUBJECT_origin_banished_ascendancy: "永恒的赎罪"
+SUBJECT_DESC_origin_banished_ascendancy: "这个帝国在强大的始源帝国面前羞愧地投降，不被允许参与外交或扩张。他们还被迫向他们的新主人献上大量贡品，作为对他们罪行的忏悔。"
+
+opinion_new_orginal_empire: "新的始源帝国"
+opinion_new_orginal_empire_desc: "通过研究和掌握光物质的力量，我们被许多人认为是始源帝国的继承者。他们不会对我们现在所拥有的威胁力作出良好的反应。"
+
+PROJECT_ALL_ORIGIN_TECH: "始源帝国巅峰"
+PROJECT_ALL_ORIGIN_TECH_DESC: "我们将在始源帝国失败的地方取得成功。我们将利用他们的知识和技术，为银河系打造一个新的未来。我们的野心不会被挫败!!"
+
+PROJECT_LIGHT_MATTER: "光物质能量分析"
+PROJECT_LIGHT_MATTER_DESC: "如果我们想要将和始源帝国的战斗进一步提升，我们必须使用他们自己的力量来对抗他们，或者至少了解他们是如何运作的。n\n一旦我们理解了光物质的概念，我们应该能够装配出更强大的舰船!!"
+
+PROJECT_OFFENSE_ORIGIN_TECH: "始源帝国进攻技术分析"
+PROJECT_OFFENSE_ORIGIN_TECH_DESC: "优越的火力是我们在作战战略中唯一的行动方针。如果他们有更强大的武器，那么我们将使他们成为我们自己的。"
+PROJECT_OFFENSE_ORIGIN_TECH_EXPLAIN: "这将解锁具有L插槽或更高插槽的各种武器组件，以及与武器相关的辅助设备。"
+
+PROJECT_DEFENSE_ORIGIN_TECH: "始源帝国防御技术分析"
+PROJECT_DEFENSE_ORIGIN_TECH_DESC: "点防御，战斗机，装甲和护盾。这些是我们战胜敌人所需要的工具。好的防守不仅仅是好的防守，也是最好的进攻。"
+PROJECT_DEFENSE_ORIGIN_TECH_EXPLAIN: "这将解锁具有M或以下插槽的各种武器装备，包括点防御和战斗机。也将解锁护盾，装甲和相关辅助装置。"
+
+PROJECT_UTILITY_ORIGIN_TECH: "始源帝国战略技术分析"
+PROJECT_UTILITY_ORIGIN_TECH_DESC: "我们必须了解他们的船是如何工作的。从他们的推进器，驱动器到战斗计算机。我们的船必须要有与先祖同样的优势。"
+PROJECT_UTILITY_ORIGIN_TECH_EXPLAIN: "这将解锁各种实用组件，如推进器、驱动器、传感器和作战计算机。它还将解锁其他有用的辅助部件。"
+
+ORIGINAL_ARKSHIP_REBUILD: "方舟舰回收"
+ORIGINAL_ARKSHIP_REBUILD_DESC: "利用从先祖船厂最后获得的资源,我们可以重建始源帝国的盖亚方舟舰:凯撒号。由于这艘船的规模，建造这艘飞船需要大量的物资和时间投入。"
+
+ORIGINAL_FLEET_REBUILD: "黄金舰队"
+ORIGINAL_FLEET_REBUILD_DESC: "利用始源帝国造船厂留下的资源，我们可以组建一支由始源帝国自己设计的庞大舰队。他们可能没有方舟舰那么强大和可怕，但他们应该能更快速更实际。"
+
+trait_bionic_implants: "全矩阵角色网络接口"
+trait_bionic_implants_desc: "这个物种的意识与全矩阵人格融合并交织在一起。两种生物，两个意识……如今作为一个整体运作。他们是许多，他们也是一个。"
+
+trait_ancient_race: "真神"
+trait_ancient_race_desc: "这个物种是真正的神裔，从古代就存在至今了。他们是不老的，能够在各种环境中生存，拥有超自然的力量。"
+
+trait_ancient_knowledge: "完美守时"
+trait_ancient_knowledge_desc: "这个物种的成员总是守时的，使他们比其他物种更有生产力。真的不是太空德国人。"
+
+trait_master_mind: "掌控灵能"
+trait_master_mind_desc: "这个物种已经掌握了灵能，甚至超越了虚境。他们的思想是一体的，他们的道路是清晰的。毫无疑问，他们将毫无畏惧地勇敢前进。"
+
+leader_trait_admiral_ancient_knowledge: "神圣舰队司令"
+leader_trait_admiral_ancient_knowledge_desc: "这位舰队司令有神裔的标志。对更小帝国使用的所有战术都有认识和理解。"
+leader_trait_admiral_bionic_implant: "全矩阵人工智能助理"
+leader_trait_admiral_bionic_implant_desc: "这位舰队司令由全矩阵人工智能助理协助，允许舰队司令能够指挥每艘船，就好像它们是身体的一部分一样。"
+leader_trait_admiral_master_mind: "完美心灵"
+leader_trait_admiral_master_mind_desc: "这位舰队司令拥有完美的灵能，能够提供强大的屏障帮助舰队。"
+
+leader_trait_general_ancient_knowledge: "神圣陆军将领"
+leader_trait_general_ancient_knowledge_desc: "这位将军有神裔的标志。对先驱者从古至今所使用的战场战术有较全面的了解。"
+leader_trait_general_bionic_implant: "全矩阵人工智能助理"
+leader_trait_general_bionic_implant_desc: "这位将军由全矩阵人工智能助理协助，允许将军指挥每一支军队，就像他们是身体的一部分一样。"
+leader_trait_general_master_mind: "完美心灵"
+leader_trait_general_master_mind_desc: "这位陆军将领拥有完美的灵能，能够提供强大的屏障帮助舰队。"
+
+leader_trait_governor_ancient_knowledge: "神圣总督"
+leader_trait_governor_ancient_knowledge_desc: "这位总督有神裔的标志。对先驱者从古至今的治理有着完整的认识。"
+leader_trait_governor_bionic_implant: "全矩阵人工智能助理"
+leader_trait_governor_bionic_implant_desc: "这个管理者由全矩阵人工智能助理协助，允许管理者指导工人，就像他们是身体的一部分一样。"
+leader_trait_governor_master_mind: "完美心灵"
+leader_trait_governor_master_mind_desc: "这名总督拥有完美的灵能，能形成精神联系，并将所有的人口团结在一起，走向统一和力量。"
+
+leader_trait_scientist_ancient_knowledge: "神圣科学家"
+leader_trait_scientist_ancient_knowledge_desc: "这位科学家有着神裔的标志。对自古以来先驱者使用的各种技术有一定的认识和理解。"
+leader_trait_scientist_bionic_implant: "全矩阵人工智能助理"
+leader_trait_scientist_bionic_implant_desc: "这位科学家在全矩阵人工智能助理的协助下，能够以极高的效率完成分析和探索。"
+leader_trait_scientist_master_mind: "完美心灵"
+leader_trait_scientist_master_mind_desc: "这位科学家拥有完美的灵能，能够引导强大的屏障来保护脆弱的科学飞船并大大提高速度。"
+
+leader_trait_ruler_ancient_knowledge: "神圣统治者"
+leader_trait_ruler_ancient_knowledge_desc: "这个统治者有神裔的标志。拥有古代始源帝国皇帝的知识和力量。"
+leader_trait_ruler_bionic_implant: "全矩阵人工智能助理"
+leader_trait_ruler_bionic_implant_desc: "这个统治者由全矩阵人工智能助理协助，允许统治者推动帝国的先驱者舰船建造。"
+leader_trait_ruler_master_mind: "完美心灵"
+leader_trait_ruler_master_mind_desc: "这个统治者拥有完美灵能，能够使用这股力量团结一致、目标明确地指挥和征服整个帝国。"
+
+tb_origin_infestation: "侵扰"
+tb_origin_infestation_desc: "这个地区似乎受到一些未知生物的严重侵扰。清理这一地区将需要巨额投资。"
+
+tb_origin_quarantine_zone: "隔离区"
+tb_origin_quarantine_zone_desc: "这片区域似乎是为了隔离开栖息地的危机而建造的。该地区现在已经被废弃。"
+
+pop_origin_defiant: "挑衅"
+pop_origin_defiant_desc: "始源人仍然违抗我们的规则。除非我们说服他们尽快改变他们的做法，否则我们可能不得不采取极端措施。"
+
+personality_original_empire_personality: "渴望复仇的古人"
+personality_original_empire_personality_desc: "这个古老的帝国想要对堕落的帝国进行复仇，但是它想对银河系的其他部分做什么还不清楚。"
+
+personality_original_empire_passive_personality: "监护人先祖"
+personality_original_empire_passive_personality_desc: "这个先祖帝国似乎只满足于呆在自己的领域内，远远地观察银河系。"
+
+personality_original_empire_ascended_personality: "始源先驱者"
+personality_original_empire_ascended_personality_desc: "始源先驱者在银河中仍是一股强大的活动的势力，不能轻视他们。"
+
+shipsize_colossus_hull_add: "巨像船体添加"
+
+ORIGIN_PLANET_KILLER_NANITE: "纳米清洗"
+ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洗是始源帝国的可怕武器，可以快速用纳米武器改造并清洗整个星球。"
+ORIGIN_PLANET_KILLER_NANITE_ACTION: "纳米清洗"
+
+not_in_crisis: "§R只有在银河系规模的威胁下才能使用银河防御协议。§!"
+edict_origin_final_armada: "§M银河防卫协议 :§! 终极舰队"
+edict_origin_final_armada_desc: "敌人威胁着整个银河系，我们的命运也不确定，如果我们要生存下去，我们必须准备尽可能大的舰队。"
+
+edict_origin_mass_production: "§M银河防御协议 :§! 大规模生产"
+edict_origin_mass_production_desc: "当银河系的命运危在旦夕时，我们不能节省任何开支。所有生产必须提高到最大。我们面临着一个前所未有的敌人。"
+
+edict_origin_persuit_of_knowledge: "§M银河防御协议 :§! 知识就是力量"
+edict_origin_persuit_of_knowledge_desc: "我们必须找到应对当前危机的任何优势。如果我们要打败敌人，就必须尽可能多地了解他们。"
+
+edict_origin_mod_menu_edict: "§E打开堕落帝国之罪菜单§!"
+edict_origin_mod_menu_edict_desc: "此菜单将允许您调整或修复SOFE各个方面."
+
+challenger_original: "始源洞悉"
+challenger_original_desc: "我们对光物质的分析使我们能够将各种有用的方面应用到暗物质的设计中。先驱者曾经打败过始源帝国，我们也能这样，永远地打败他们。"
+
+pleb_original: "平民难度 屌丝的诅咒"
+pleb_original_desc: "有某种可怕的诅咒让你变为一个垃圾废物屌丝。"
+
+easy_original: "简单难度 使命召唤的诅咒"
+easy_original_desc: "按F键表示尊重并赢得比赛。 F F F F F F F F F F F/n/n任务失败。我们下次再试。"
+
+hard_original: "困难难度 苦难的恩惠"
+hard_original_desc: "群星 --- 黑暗之魂？"
+
+terrible_original: "可怕难度 Kolyn 批准"
+terrible_original_desc: "蝙蝠侠啊啊...蝙蝠侠啊啊啊啊 蝙蝠侠啊啊啊 蝙蝠侠啊啊"
+
+######################NEW EMPIRE STUFFS
+
+tech_gatekeepers: "守护者建设"
+tech_gatekeepers_desc: "虽然最初设计为守护者，但守护者仍然是一艘非常强大的舰船，其设计具有多种武器系统，并且非常耐用。"
+
+tech_fe_assault_carrier: "突击航母蓝图"
+tech_fe_assault_carrier_desc: "人们发现，先驱者运输船体的最初用途是作为一艘强大的突击航母。但是由于他们对任何事情都有可怕的能力，他们没能正确地做到这一点。"
+
+tech_psionic_archon: "灵能执政官"
+tech_psionic_archon_desc: "楔石似乎有一个隐藏的功能。基于在古代使用的相同方法，可以通过自愿的容器(无论是有机的还是机械的)引导楔石的力量来创建灵能执政官。结果就是一个非常强大，可以统治地面战场的灵能执政官。"
+
+tech_fe_tower_offense: "毁灭之塔"
+tech_fe_tower_offense_desc: "先驱者之塔设计的一种变体，专为最大火力而设计。虽然这个版本不太耐用，但破坏性更大。"
+
+tech_omega_assault_escort: "欧米伽级突击护航舰设计"
+tech_omega_assault_escort_desc: "这种欧米伽级护航舰的变化是为了增加火力，而花费了更少的点防御和耐久性。这种修改的性质使这个版本更接近巡洋舰。"
+
+tech_omega_escort: "欧米伽级护航舰设计"
+tech_omega_escort_desc: "模块化武器选择系统允许欧米伽级护航舰在不牺牲机动性的情况下部署多个武器库。这是一艘为大屠杀而设计的飞船。"
+
+tech_omega_battlecruiser: "欧米伽级战斗巡洋舰设计"
+tech_omega_battlecruiser_desc: "很像欧米伽级护航舰，欧米伽级战斗巡洋舰的先进模块化性质使其能够部署致命数量的武器和防御，这使得老设计成为一个笑话。"
+
+tech_omega_titan: "欧米伽级泰坦舰设计"
+tech_omega_titan_desc: "有趣的是，根据图表，泰坦在古代的目的是作为一个移动的采矿站。但显然，这艘船作为一艘战斗舰非常有用，它的设计被改变成了我们今天所知道的样子。"
+
+tech_omega_goliath: "欧米伽级歌利亚设计"
+tech_omega_goliath_desc: "欧米伽级歌利亚确实是令人惊叹的。这种设计消除了堕落者设计中存在的所有弱点，而且明显要大得多。也许堕落帝国无法完全复制这种野兽。"
+
+tech_omega_carrier: "欧米伽级航母设计"
+tech_omega_carrier_desc: "难怪堕落帝国放弃了复制突击航母的尝试。这个神秘的欧米伽级航母包含了大量的内部机库,使始源帝国毫无困难地赢得混战。"
+
+tech_omega_tower: "欧米伽级塔设计"
+tech_omega_tower_desc: "如此效率……在先驱者战争中，据说始源帝国在防御方面是坚不可摧的。我们现在开始明白为什么了。"
+
+tech_omega_outpost: "欧米伽级前哨站设计"
+tech_omega_outpost_desc: "即使是最简单的防御形式也充满了难以形容的力量。这些欧米伽级平台会让我们在提升之前无法做到的任何事情变得轻而易举。"
+
+tech_omega_gatekeeper: "欧米伽级守护者设计"
+tech_omega_gatekeeper_desc: "这就是……臭名昭著的古老守护者的真实设计。这是一个奇迹，堕落帝国甚至完全不能逆向研究这个工程。"
+
+
+TECH_UNLOCK_PHOBE_TOWER_TITLE: "§H解锁哨塔分区:§! 屠异 "
+TECH_UNLOCK_PHOBE_TOWER_DESC: "§R屠异分区:§!一个排外先驱者的独特的原型塔格，牺牲了耐用性，改为大规模火力。"
+
+TECH_UNLOCK_OMEGA_ESCORT_TITLE: "§H解锁舰船分区:§! 欧米伽级护航舰"
+TECH_UNLOCK_OMEGA_ESCORT_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_escort_desc$"
+
+TECH_UNLOCK_OMEGA_ASSAULT_ESCORT_TITLE: "§H解锁舰船分区:§! 欧米伽级突击护航舰"
+TECH_UNLOCK_OMEGA_ASSAULT_ESCORT_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_assault_escort_desc$"
+
+TECH_UNLOCK_OMEGA_BATTLECRUISER_TITLE: "§H解锁舰船分区:§! 欧米伽级战斗巡洋舰"
+TECH_UNLOCK_OMEGA_BATTLECRUISER_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_battlecruiser_desc$"
+
+TECH_UNLOCK_OMEGA_TITAN_TITLE: "§H解锁舰船分区:§! 欧米伽级泰坦舰"
+TECH_UNLOCK_OMEGA_TITAN_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_titan_desc$"
+
+TECH_UNLOCK_OMEGA_GOLIATH_TITLE: "§H解锁舰船分区:§! 欧米伽级歌利亚"
+TECH_UNLOCK_OMEGA_GOLIATH_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_goliath_desc$"
+
+TECH_UNLOCK_OMEGA_TOWER_TITLE: "§H解锁舰船分区:§! 欧米伽级哨塔"
+TECH_UNLOCK_OMEGA_TOWER_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_tower_desc$"
+
+TECH_UNLOCK_OMEGA_OUTPOST_TITLE: "§H解锁舰船分区:§! 欧米伽级边境哨站"
+TECH_UNLOCK_OMEGA_OUTPOST_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_outpost_desc$"
+
+TECH_UNLOCK_OMEGA_CARRIER_TITLE: "§H解锁舰船分区:§! 欧米伽级航母"
+TECH_UNLOCK_OMEGA_CARRIER_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_carrier_desc$"
+
+TECH_UNLOCK_OMEGA_GATEKEEPER_TITLE: "§H解锁舰船分区:§! 欧米伽级守护者"
+TECH_UNLOCK_OMEGA_GATEKEEPER_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_gatekeeper_desc$"
+
+INNER_GATE: "内星门"
+OUTER_GATE: "外星门"
+
+mod_shipsize_fe_assault_carrier_hull_add: "突击航母舰体值"
+mod_shipsize_fe_small_station_hull_add: "先驱者哨站舰体值"
+mod_shipsize_fe_large_station_hull_add: "先驱者塔舰体值"
+mod_shipsize_sofe_gatekeeper_warden_hull_add: "守护者舰体值"
+
+
+sofe_outer_gate: "外星门"
+sofe_outer_gate_DESC: "这个巨大的通道通过太阳能辐射，似乎通向了传统方式无法到达的太空。"
+sofe_inner_gate: "内星门"
+sofe_inner_gate_DESC: "这些中继允许舰船在外镜星系和其他分区之间安全移动，而不会遇到不应该被打扰的奇怪、令人毛骨悚然的东西。"
+
+sofe_inner_gate_MEGASTRUCTURE_DETAILS: "这里是内星门"
+sofe_outer_gate_MEGASTRUCTURE_DETAILS: "这里是外星门"
+
+BYPASS_DESC_INACTIVE_SOFE_OUTER_GATE: "§S外星门密闭:§! 我们需要确定一种打破密闭的方法来进入外星门。"
+
+sofe_gatekeeper_warden: "守护守望者"
+sofe_gatekeeper_warden_plural: "守护守望者"
+
+sofe_aegis_guard: "光明之盾"
+sofe_aegis_guard_plural: "光明之盾"
+
+sofe_ancient_archon: "古代灵能执政官"
+sofe_ancient_archon_plural: "古代灵能执政官"
+
+sofe_ancient_archon_servant: "古代灵能仆人"
+sofe_ancient_archon_servant_plural: "古代灵能仆人"
+
+fe_assault_carrier: "先驱者突击航母"
+fe_assault_carrier_plural: "先驱者突击航母"
+
+SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "守护者脊柱"
+SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "守护者关键点"
+SOFE_GATEKEEPER_WARDEN_MID_KEY: "守护者外核心"
+SOFE_GATEKEEPER_WARDEN_STERN_KEY: "守护者内核心"
+NAME_GATEKEEPER_WARDEN: "外星门守护者"
+
+SOFE_GATEKEEPER_OMEGA_SPINAL_KEY: "欧米伽级守护者脊柱"
+SOFE_GATEKEEPER_OMEGA_SHOTO_KEY: "欧米伽级守护者关键点"
+SOFE_GATEKEEPER_OMEGA_MID_KEY: "欧米伽级守护者外核心"
+SOFE_GATEKEEPER_OMEGA_STERN_KEY: "欧米伽级守护者内核心"
+
+SOFE_AEGIS_GUARD_SPINAL_KEY: "宙斯盾塔A"
+SOFE_AEGIS_GUARD_MID_KEY: "宙斯盾核心"
+SOFE_AEGIS_GUARD_STERN_KEY: "宙斯盾塔B"
+
+sofe_assault_carrier_spinal_section: "突击航母脊柱"
+sofe_assault_carrier_hanger1_section: "突击航母机库 A"
+sofe_assault_carrier_hanger2_section: "突击航母机库 B"
+sofe_assault_carrier_hanger3_section: "突击航母机库 C"
+
+sofe_original_assault_carrier_spinal_section: "欧米伽级突击航母脊柱"
+sofe_original_assault_carrier_hanger1_section: "欧米伽级突击航母机库 A"
+sofe_original_assault_carrier_hanger2_section: "欧米伽级突击航母机库 B"
+sofe_original_assault_carrier_hanger3_section: "欧米伽级突击航母机库 C"
+
+FE_LARGE_STATION_OFFENSE_TITANIC: "屠异360无范围分区"
+FE_LARGE_STATION_OFFENSE_HEAVY: "屠异哨塔火炮分区"
+FE_LARGE_STATION_OFFENSE_MISSILE: "屠异哨塔导弹分区"
+FE_LARGE_STATION_OFFENSE_PD: "屠异哨塔辅助分区"
+
+
+OMEGA_LARGE_STATION_OFFENSE_TITANIC: "欧米伽级泰坦分区"
+OMEGA_LARGE_STATION_OFFENSE_HEAVY: "欧米伽级泰坦主要供电分区"
+OMEGA_LARGE_STATION_OFFENSE_MISSILE: "欧米伽级泰坦导弹分区"
+OMEGA_LARGE_STATION_OFFENSE_PD: "欧米伽级泰坦点防御分区"
+
+OMEGA_SMALL_STATION_HEAVY: "欧米伽级平台重型分区"
+OMEGA_SMALL_STATION_MEDIUM: "欧米伽级平台中型分区"
+
+gatekeeper_control_node: "守护者电源导管"
+
+OUTERGATE_GALACTIC: "星门"
+OUTERGATE_GALACTIC_DESC: "该星系包含有一个§E$OUTERGATE_GALACTIC$§!"
+
+sofe_mem_planet_shield_full: "星状沥青煤能源封印"
+sofe_mem_planet_shield_partial: "暗能量封印"
+
+sofe_outergate_weaken_shield: "衰弱的护盾"
+sofe_outergate_weaken_shield_desc: "似乎这些§Y外星门§!的护盾正在衰弱，我们现在应该能够更多地了解大门本身。] \n\n我们已经确定了外星门所在的至少一个位置，但是应该有更多的分散在整个星系中。"
+
+OUTER_GATE_FIRST_ANALYSIS_TITLE: "外星门基本分析"
+OUTER_GATE_FIRST_ANALYSIS_TITLE_DESC: "在我们开始任何其他行动之前，首先我们需要扫描和分析保护外星门的护盾的性质。"
+
+sofe_outergate_steal_fallen_world: "简单但有趣的方式"
+sofe_outergate_steal_fallen_world_desc: "堕落帝国最可能拥有着这些楔石。如果我们有足够的力量，我们就可以向他们索要楔石..§R用鲜血和火焰§!"
+
+sofe_outergate_fabricate_keystone: "复杂但聪明的方法"
+sofe_outergate_fabricate_keystone_desc: "只要我们拥有合适的技术和知识，我们就可以简单地创建自己的楔石。 我们需要了解暗物质能量的工作原理，更重要的是，使用何种材料或合金来构建楔石。"
+
+OUTER_GATE_SMUGGLER_STEAL: "简单但昂贵的方法"
+OUTER_GATE_SMUGGLER_STEAL_DESC: "有一个走私者因其能够从任何人或任何地方窃取任何东西的声誉而闻名，只要价格合适。如果故事是真的，也许我们可以请求他的服务？"
+
+sofe_cb_keystone_claim: "楔石采集"
+sofe_cb_keystone_claim_desc: "你的现在是我的，我的，还是我的，是我的，是我的，是我的，不是你的。"
+
+casus_belli_sofe_cb_keystone_claim: "楔石采集"
+
+sofe_wg_steal_keystone: "盗雨"
+sofe_wg_steal_keystone_desc: "今天我们是来偷敌人的。"
+
+war_goal_sofe_wg_steal_keystone: "盗雨"
+war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得征服权和星际之权应该是我们的楔石。"
+
+OUTER_GATE_FABRICATE_SEAL: "制作楔石"
+OUTER_GATE_FABRICATE_SEAL_DESC: "我们现在可以建立一个新的楔石，技术就在那里。"
+
+wg_steal_keystone_accept: "§Y[From.GetName]§! 被整了, 减少他们的 §Y$country_base_influence_produces_mult$§! (即使他们似乎从来没有利用他们的影响力做任何事，愚蠢的老头) 他们的人口在 §Y10§! 年内将成为整个银河系的笑柄. 他们还必须放弃他们的 §E楔石§! 给 §Y[Root.GetName]§!\n$wg_revoke_claims_accept$"
+
+OUTER_GATE_SECOND_SEAL: "打破第二个封印"
+OUTER_GATE_SECOND_SEAL_DESC: "当我们把楔石基座移近外星门时，它开始像预期的那样反应。我们必须保持连接直到充能完毕为止。"
+
+OUTER_GATE_THIRD_SEAL: "打破第三个封印"
+OUTER_GATE_THIRD_SEAL_DESC: "就像第二个封印一样，我们需要调整楔石与闸门的位置。我们必须保持连接直到充能完毕为止。"
+
+OUTER_GATE_FINAL_SEAL: "打破最后的封印"
+OUTER_GATE_FINAL_SEAL_DESC: "只剩下最后一个封印了……但有些不祥的地方出了问题。我们中的一些人对此有不好的感觉。"
+
+pc_golden_world: "金色世界"
+pc_golden_world_desc: "一个巨大的世界，以某种方式能够维持所有形式的生命而不需要恒星。"
+
+pc_golden_world_habitable: "金色世界"
+pc_golden_world_habitable_desc: "一个泰坦大小的世界，在某种程度上能够在不需要恒星的情况下维持所有形式的生命。"
+
+pc_omega_ringworld_habitable: "欧米伽环世界"
+pc_omega_ringworld_habitable_desc: "欧米伽环世界作为始源帝国伟大的人工系统的可居住部分。"
+
+pc_omega_ringworld_seam: "欧米茄供给环世界"
+pc_omega_ringworld_seam_desc: "欧米茄供应环世界储存了大量的资源，供帝国在需要的时候使用。"
+
+pc_omega_ringworld_tech: "欧米伽供应环"
+pc_omega_ringworld_tech_desc: "欧米伽供应环储存了大量的资源，供帝国在需要时使用。"
+
+sofe_omega_dyson_sphere: "欧米伽星体"
+sofe_omega_dyson_sphere_DESC: "在虚空的黑暗中，没有光，没有星星，没有避风港。只有一件事要做，我们自己制造光明。光明总会找到出路的。"
+sofe_omega_dyson_sphere_MEGASTRUCTURE_DETAILS: "Yret Na'tae!"
+
+sofe_omega_spy_orb_center: "欧米伽战略指挥中心"
+sofe_omega_spy_orb_center_DESC: "外星门可能阻止了我们的回归。但是我们一直在观察着......计划着...... \n\n当银河系忙着做傻事的时候，我们为回归做着准备。"
+sofe_omega_spy_orb_center_MEGASTRUCTURE_DETAILS: "Emp Pa'raheh Ba'rah Kah"
+
+sofe_omega_nexus: "欧米伽枢纽"
+sofe_omega_nexus_DESC: "即使我们达到了提升的顶峰，我们也不能再像那些愚蠢、无用、蹩脚、毫无意义的“堕落帝国”那样，屈服于愚蠢。为什么玩家还要让他们活着，他们在这个游戏中不是很好就是很差"
+sofe_omega_nexus_MEGASTRUCTURE_DETAILS: "Ko'gah Kiah!"
+
+sofe_psionic_dark_archon: "灵能执政官"
+sofe_psionic_dark_archon_desc: "灵能是从纯粹的负面情绪中被召唤出来的，只能产生破坏性的思想。这种不自然的形式是通过将生命注入我们所获得的黑暗神器而创造出来的。"
+
+sofe_omega_mech: "欧米伽战争机器"
+sofe_omega_mech_desc: "这些光物质步行器被设计用来从战场上删除和卸载低等战斗人员，使用四轴焦棱柱状矛。它们是有史以来最致命的战争机器之一。"
+
+tech_omega_warmech: "欧米伽战争机器结构"
+tech_omega_warmech_desc: "通过对欧姆尼矩阵AI的仔细分析，我们可以创造出一个装备有光物质武器库的极其先进和致命的步行器。它们在地面攻击中应该是有用的。"
+
+sofe_golden_world.poi: "活跃的黄金世界"
+sofe_golden_world.poi_desc: "始源帝国正在从这些巨大的恒星世界增援他们的舰队。必须阻止他们。"
+
+SOFE_LARGE_AVATAR_WEAPON: "腐败碎片"
+SOFE_LARGE_AVATAR_WEAPON_DESC: "这些器皿中的黑暗之心，在痛苦和绝望中显现，它们将与敌人分享这痛苦和绝望。"
+
+SOFE_POINT_DEFENSE_AVATAR: "暗涌"
+SOFE_POINT_DEFENSE_AVATAR_DESC: "恐惧是一种幻觉，但幻觉可以变成现实。即使是最有天赋的飞行员也无法逃脱他的船有一天会失事的想象和现实。"
+
+SOFE_PARTICLE_LANCE_AVATAR: "永无止境的仇恨"
+SOFE_PARTICLE_LANCE_AVATAR_DESC: "思想腐蚀。身体破裂。在这个黑暗的宇宙中，只有痛楚和苦难才是所有生命中无可否认的真理。"
+
+SOFE_PERDITION_BEAM_AVATAR: "地狱门召唤师"
+SOFE_PERDITION_BEAM_AVATAR_DESC: "她的一瞥目光就足以将最强大的钢铁和合金变成没有任何物质的垃圾。七约将对所有的存有强制执行。"
+
+BATTLESHIP_SHIP_THRUSTER_AVATAR: "混沌动因"
+BATTLESHIP_SHIP_THRUSTER_AVATAR_DESC: "它移动不是因为它想。它转变并不是因为它想。最后是它的主人的意志告诉它下一步会在哪里有更多的罪孽。"
+
+TITAN_SHIP_THRUSTER_AVATAR: "混沌动因"
+TITAN_SHIP_THRUSTER_AVATAR_DESC: "它移动不是因为它想。它转变并不是因为它想。最后是它的主人的意志告诉它下一步会在哪里有更多的罪孽"
+
+AVATAR_SENSOR_SHIP: "欺骗的艺术"
+AVATAR_SENSOR_SHIP_DESC: "她的眼睛中有你。你以为你能逃避，但没有人能逃避。你的一切企图在女神看来都是谎言。"
+
+LARGE_DARK_MATTER_REACTOR_AVATAR: "恐怖碎片"
+LARGE_DARK_MATTER_REACTOR_AVATAR_DESC: "银河系的混乱和悲伤。人民的痛苦和恐惧。这些是将幻相显化为实相的燃料。"
+
+HUGE_DARK_MATTER_REACTOR_AVATAR: "恐怖碎片"
+HUGE_DARK_MATTER_REACTOR_AVATAR_DESC: "银河系的混乱和悲伤。人民的痛苦和恐惧。这些是将幻相显化为实相的燃料。"
+
+SOFE_ENIGMATIC_SHIELD_AVATAR: "饕餮病房"
+
+SMALL_SOFE_ENIGMATIC_SHIELD_AVATAR: "饕餮病房"
+SMALL_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "能量……需要能量……必须消耗……必须……进食。"
+
+MEDIUM_SOFE_ENIGMATIC_SHIELD_AVATAR: "饕餮病房"
+MEDIUM_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "能量……需要能量……必须消耗……必须……进食。"
+
+LARGE_SOFE_ENIGMATIC_SHIELD_AVATAR: "饕餮病房"
+LARGE_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "能量……需要能量……必须消耗……必须……饲料。"
+
+SOFE_AVATAR_COMPUTER_SNIPER: "骄傲之旗"
+SOFE_AVATAR_COMPUTER_SNIPER_DESC: "即使他们的灵魂永远毁灭，他们的身体永远腐败。有一件事将永远存在于他们黑暗的心中……骄傲。被选为她的化身是最大的荣誉。"
+
+SOFE_AVATAR_COMPUTER_TITAN: "骄傲之旗"
+SOFE_AVATAR_COMPUTER_TITAN_DESC: "即使他们的灵魂永远毁灭，他们的身体永远腐败。有一件事将永远存在于他们黑暗的心中……骄傲。被选为她的化身是最大的荣誉。"
+
+SOFE_AVATAR_DRIVER: "色欲传播"
+SOFE_AVATAR_DRIVER_DESC: "现实不过是幻想。它可以被篡改，也可以被修改。不存在的可以在足够的诱惑下迫使存在。"
+
+

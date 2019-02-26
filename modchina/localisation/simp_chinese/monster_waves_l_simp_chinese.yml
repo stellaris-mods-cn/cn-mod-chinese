@@ -1,0 +1,167 @@
+﻿##########################################################################
+# Localisation for Monster Waves
+#
+# Written by ScepraX
+##########################################################################
+
+l_simp_chinese:
+
+####################################
+# Policy Settings
+####################################
+
+# Monster Wave Policy Settings
+policy_monster_waves:0 "怪物波"
+policy_monster_waves_desc:0 "这决定新的太空生物出现的几率。\n"
+monster_waves_0:0 "禁用"
+monster_waves_0_name:0 "太空生物产生概率：0%"
+monster_waves_0_desc:0 "太空生物将不会出现。\n"
+monster_waves_1:0 "每100个月"
+monster_waves_1_name:0 "太空生物产生概率：1%"
+monster_waves_1_desc:0 "太空生物每100个月会生成 (1% 每个月的生产几率)\n"
+monster_waves_2:0 "每50个月"
+monster_waves_2_name:0 "太空生物产生概率：2%"
+monster_waves_2_desc:0 "太空生物每50个月会生成 (2% 每个月的生产几率)\n"
+monster_waves_3:0 "每33个月"
+monster_waves_3_name:0 "太空生物产生概率：3%"
+monster_waves_3_desc:0 "太空生物每33个月会生成 (3% 每个月的生产几率)\n"
+monster_waves_4:0 "每25个月"
+monster_waves_4_name:0 "太空生物产生概率：4%"
+monster_waves_4_desc:0 "太空生物每25个月会生成 (4% 每个月的生产几率)\n"
+monster_waves_5:0 "每20个月"
+monster_waves_5_name:0 "太空生物产生概率：5%"
+monster_waves_5_desc:0 "太空生物每20个月会生成 (5% 每个月的生产几率)\n"
+monster_waves_6:0 "每17个月"
+monster_waves_6_name:0 "太空生物产生概率：6%"
+monster_waves_6_desc:0 "太空生物每17个月会生成 (6% 每个月的生产几率)\n"
+monster_waves_7:0 "每14个月"
+monster_waves_7_name:0 "太空生物产生概率：7%"
+monster_waves_7_desc:0 "太空生物每14个月会生成 (7% 每个月的生产几率)\n"
+monster_waves_8:0 "每12个月"
+monster_waves_8_name:0 "太空生物产生概率：8%"
+monster_waves_8_desc:0 "太空生物每12个月会生成 (8% 每个月的生产几率)\n"
+monster_waves_9:0 "每11个月"
+monster_waves_9_name:0 "太空生物产生概率：9%"
+monster_waves_9_desc:0 "太空生物每11个月会生成 (9% 每个月的生产几率)\n"
+monster_waves_10:0 "每10个月"
+monster_waves_10_name:0 "太空生物产生概率：10%"
+monster_waves_10_desc:0 "太空生物每10个月会生成 (10% 每个月的生产几率)\n"
+monster_waves_15:0 "每7个月"
+monster_waves_15_name:0 "太空生物产生概率：15%"
+monster_waves_15_desc:0 "太空生物每7个月会生成 (15% 每个月的生产几率)\n"
+monster_waves_20:0 "每5个月"
+monster_waves_20_name:0 "太空生物产生概率：20%"
+monster_waves_20_desc:0 "太空生物每5个月会生成 (20% 每个月的生产几率)\n"
+monster_waves_25:0 "每4个月"
+monster_waves_25_name:0 "太空生物产生概率：25%"
+monster_waves_25_desc:0 "太空生物每4个月会生成 (25% 每个月的生产几率)\n"
+monster_waves_35:0 "每3个月"
+monster_waves_35_name:0 "太空生物产生概率：35%"
+monster_waves_35_desc:0 "太空生物每3个月会生成 (35% 每个月的生产几率)\n"
+monster_waves_50:0 "每2个月"
+monster_waves_50_name:0 "太空生物产生概率：50%"
+monster_waves_50_desc:0 "太空生物每2个月会生成 (50% 每个月的生产几率)\n"
+monster_waves_100:0 "每月"
+monster_waves_100_name:0 "太空生物产生概率：100%"
+monster_waves_100_desc:0 "太空生物每个月必定生成 (100% 每个月的生产几率)\n"
+
+# Monster Waves Boss Policy Settings
+policy_monster_waves_boss:0 "怪物波 设置"
+policy_monster_waves_boss_desc:0 "确定可能出现多少个太空生物。\n"
+monster_waves_boss_1:0 "全部"
+monster_waves_boss_1_name:0 "太空生物种类：30"
+monster_waves_boss_1_desc:0 "总共有30个太空生物(每种太空生物最多6个)同时存在。\n"
+monster_waves_boss_2:0 "有限"
+monster_waves_boss_2_name:0 "太空生物种类：5"
+monster_waves_boss_2_desc:0 "在宇宙中，每种太空生物只允许存在一个。总共有5种太空生物同时存在。\n"
+monster_waves_boss_3:0 "1"
+monster_waves_boss_3_name:0 "太空生物种类：1"
+monster_waves_boss_3_desc:0 "银河系中只允许存在一种太空生物。\n"
+monster_waves_boss_4:0 "禁用"
+monster_waves_boss_4_name:0 "太空生物种类：0"
+monster_waves_boss_4_desc:0 "太空生物将不再出现。\n"
+
+# Monster Waves Difficulty Policy Settings
+policy_monster_waves_difficulty:0 "怪物波 难度"
+policy_monster_waves_difficulty_desc:0 "这个政策可以设置怪物波的难度。\n"
+monster_waves_very_easy:0 "入门"
+monster_waves_very_easy_name:0 "难度:非常简单"
+monster_waves_very_easy_desc:0 "舰队规模：非常小\n"
+monster_waves_easy:0 "初级"
+monster_waves_easy_name:0 "难度:简单"
+monster_waves_easy_desc:0 "舰队规模：小\n"
+monster_waves_medium:0 "中级"
+monster_waves_medium_name:0 "难度:普通"
+monster_waves_medium_desc:0 "舰队规模：一般\n"
+monster_waves_hard:0 "高级"
+monster_waves_hard_name:0 "难度:困难"
+monster_waves_hard_desc:0 "舰队规模：大\n"
+monster_waves_insane:0 "超级"
+monster_waves_insane_name:0 "难度:疯狂"
+monster_waves_insane_desc:0 "舰队规模：非常大\n"
+
+####################################
+# Naming
+####################################
+
+# Ship Names
+monster_waves_cloud:0 "醚云"
+monster_waves_cloud_plural:0 "醚云"
+monster_waves_drone:0 "上古无人机领袖"
+monster_waves_drone_plural:0 "上古无人机领袖"
+monster_waves_drone_carrier:0 "上古无人机航母"
+monster_waves_drone_carrier_plural:0 "上古无人机航母"
+monster_waves_crystal:0 "水晶核心"
+monster_waves_crystal_plural:0 "水晶核心"
+
+####################################
+# Components
+####################################
+
+# Combat Computers
+MONSTER_WAVES_COMBAT_COMPUTER_DRONE:1 "无人机思维"
+MONSTER_WAVES_COMBAT_COMPUTER_DRONE_DESC:1 "无人机的思想。"
+MONSTER_WAVES_COMBAT_COMPUTER_CRYSTAL:1 "晶体思维"
+MONSTER_WAVES_COMBAT_COMPUTER_CRYSTAL_DESC:1 "晶体的思想"
+
+# Drone Strike Craft
+MONSTER_WAVES_DRONE_STRIKE_CRAFT:0 "精密无人机"
+ 
+####################################
+# Event Chains
+####################################
+
+monster_waves_tiyanki_event_chain_title:0 "$story.501.name$"
+monster_waves_tiyanki_event_chain_desc:0 "在这里，您可以查看与$monster_waves_tiyanki_event_chain_title$相关的统计数据:"
+tiyanki_kills_us:0 "§G$monster_waves_tiyanki_event_chain_title$被我们摧毁§!"
+tiyanki_kills_others:0 "§B$monster_waves_tiyanki_event_chain_title$被其他摧毁§!"
+tiyanki_victims_us:0 "§R我们的舰船被$monster_waves_tiyanki_event_chain_title$§!摧毁"
+tiyanki_victims_others:0 "§Y其他被$monster_waves_tiyanki_event_chain_title$§!摧毁的舰船"
+
+monster_waves_amoeba_event_chain_title:0 "$story.101.name$"
+monster_waves_amoeba_event_chain_desc:0 "在这里，您可以查看与$monster_waves_amoeba_event_chain_title$相关的统计信息:"
+amoeba_kills_us:0 "§G$monster_waves_amoeba_event_chain_title$被我们摧毁§!"
+amoeba_kills_others:0 "§B$monster_waves_amoeba_event_chain_title$被其他摧毁§!"
+amoeba_victims_us:0 "§R我们的舰船被$monster_waves_amoeba_event_chain_title$§!摧毁"
+amoeba_victims_others:0 "§Y其他被$monster_waves_amoeba_event_chain_title$§!摧毁的舰船"
+
+monster_waves_cloud_event_chain_title:0 "$story.401.name$"
+monster_waves_cloud_event_chain_desc:0 "在这里，您可以查看与$monster_waves_cloud_event_chain_title$相关的统计信息:"
+cloud_kills_us:0 "§G$monster_waves_cloud_event_chain_title$被我们摧毁§!"
+cloud_kills_others:0 "§B$monster_waves_cloud_event_chain_title$被其他摧毁§!"
+cloud_victims_us:0 "§R我们的舰船被$monster_waves_cloud_event_chain_title$§!摧毁"
+cloud_victims_others:0 "§Y其他被$monster_waves_cloud_event_chain_title$§!摧毁的舰船"
+
+monster_waves_drone_event_chain_title:0 "$story.301.name$"
+monster_waves_drone_event_chain_desc:0 "在这里，您可以查看与$monster_waves_drone_event_chain_title$相关的统计信息:"
+drone_kills_us:0 "§G$monster_waves_drone_event_chain_title$被我们摧毁§!"
+drone_kills_others:0 "§B$monster_waves_drone_event_chain_title$被其他摧毁§!"
+drone_victims_us:0 "§R我们的舰船被$monster_waves_drone_event_chain_title$§!摧毁"
+drone_victims_others:0 "§Y其他被$monster_waves_drone_event_chain_title$§!摧毁的舰船"
+
+monster_waves_crystal_event_chain_title:0 "$story.201.name$"
+monster_waves_crystal_event_chain_desc:0 "在这里，您可以查看与$monster_waves_crystal_event_chain_title$相关的统计信息:"
+crystal_kills_us:0 "§G$monster_waves_crystal_event_chain_title$被我们摧毁§!"
+crystal_kills_others:0 "§B$monster_waves_crystal_event_chain_title$被其他摧毁§!"
+crystal_victims_us:0 "§R我们的舰船被$monster_waves_crystal_event_chain_title$§!摧毁"
+crystal_victims_others:0 "§Y其他被$monster_waves_crystal_event_chain_title$§!摧毁的舰船"

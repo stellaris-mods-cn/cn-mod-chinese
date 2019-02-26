@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Deposits
+ ####################################
+ 
+ d_oc_failing_infrastructure:0 "$d_failing_infrastructure$"
+ d_oc_failing_infrastructure_desc:0 "$d_failing_infrastructure_desc$"
+ 
+ d_oc_vault_complex:0 "拱顶复合体"
+ d_oc_vault_complex_desc:0 "这是一个巨大的地下拱顶综合体，拥有大量迷宫般的实验室，居住模块和娱乐设施，可以避免我们的物种受到炸弹的袭击。虽然现在我们大多数人都住在地面上，但这个建筑群的先进设施仍在使用。"
+
+ ####################################
+ # Origins Buildings
+ ####################################
+ 
+ building_oc_eternal_mausoleum:0 "永恒的陵墓"
+ building_oc_eternal_mausoleum_desc:0 "这是一个巨大的建筑群，供奉着堕落领袖所坚持的永恒和他们所有原则。 "
+ building_oc_eternal_mausoleum_proper:0 "[GetRulerName]'s 大陵墓"
+ building_oc_eternal_mausoleum_desc_proper:0 " [GetRulerName]！！！ ，这座神圣的陵墓令人肃然起敬"

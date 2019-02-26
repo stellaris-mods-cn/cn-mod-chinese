@@ -1,0 +1,62 @@
+﻿l_simp_chinese:
+ mem_left_for_dead_category:0 "在灰烬中"
+ mem_left_for_dead_category_desc:0 "[From.GetName]上遍布着坠落船只的残骸，这是一场很久以前的庞大的太空战斗中的伤痕。对残骸的初步扫描后发现了一些奇怪的特征：有一艘不明原因的被击毁的护卫舰，被自动防御系统包围。在碰撞坠机处，似乎有一个生命迹象。"
+
+ #Anomaly Success
+ mem_left_for_dead.1.name:0 "外交尝试"
+ mem_left_for_dead.1.desc:0 "所有试图与外星生命进行远程通讯的尝试结果都是沉默，因此[Root.GetLeaderName]准备派上一支登陆探险队去调查这艘废弃的船只。团队试探性地进入临时安全边界。当远征队就要穿越边界时，炮塔的枪管就瞄准了[Root.GetLeaderName]，并且聚光灯打开将他们照亮。 一个陌生的声音震动了通信系统。\n\n“URGL'GRV VAR NOM GARBLE'GAAR”。 由于[Root.GetLeaderName]急于尝试翻译外星人语言，因此外星人炮塔开始旋转炮管。“HAAG'OM RAG NAA！” 船员的翻译植入物掌握了语言并开始翻译。“表明你们的身份！你们是马拉喀什军团的士兵，还是米纳维·康科德的特工？你们有十秒钟的时间来回应！”这个外星人显然是一场被遗忘的战争的坚强后盾，他似乎认为这场战争仍在进行中，他仍在继续效忠他的使命！"
+ mem_left_for_dead.1.hive.desc:0 "所有试图与外星生命进行远程沟通的尝试的结果都是沉默，因此[Root.GetLeaderName]准备派上一支初步探索工蜂去调查这艘废弃的船只。团队试探性地进入临时安全边界。当远征队就要穿越边界时，炮塔的枪管就瞄准了[Root.GetLeaderName]，并且聚光灯打开将他们照亮。 一个陌生的声音震动了通信系统。\n\n“URGL'GRV VAR NOM GARBLE'GAAR”。 由于[Root.GetLeaderName]急于尝试翻译外星人语言，因此外星人炮塔开始旋转炮管。“HAAG'OM RAG NAA！” 船员的翻译植入物掌握了语言并开始翻译。“表明你们的身份！你们是马拉喀什军团的士兵，还是米纳维·康科德的特工？你们有十秒钟的时间来回应！”这个外星人显然是一场被遗忘的战争的坚强后盾，他似乎认为这场战争仍在进行中，他仍在继续效忠他的使命！"
+ #To "A Failure of Diplomacy
+ mem_left_for_dead.1.a:0 "我们是米纳维·康科德的特工！"
+ mem_left_for_dead.1.b:0 "我们是马拉喀什军团的士兵！"
+ mem_left_for_dead.1.mil:0 "死吧外星人！"
+ mem_left_for_dead.1.hive_devouring:0 "我们是[Root.Owner.GetName]。你是我们的食物。"
+ #To "Peaceful Contact"
+ mem_left_for_dead.1.c:0 "我们是[Root.Owner.GetSpeciesNamePlural]。我们为和平而来。"
+ mem_left_for_dead.1.hive:0 "我们是[Root.Owner.GetName]。蜂巢带着和平降临。"
+ #To "Deception"
+ mem_left_for_dead.1.phobemil:0 "我们，呃，带着“和平”来的。（谎言）"
+ 
+ mem_left_for_dead.10.name:0 "和平的接触"
+ mem_left_for_dead.10.desc:0 "当调查队解释他们的和平使命时，炮塔旋转开，聚光灯暗了下去，远处的人从指挥舰桥下降到表面。\n\n“一千六百四十二年来我保卫了我的人民，守护了我们最神圣的圣物，我终于解脱了。我不认识你，外星人，但是你的和平使命正是我的人民争取了很长时间才完成的事情，在我那个时代的银河系处于持续的战争，众生没有一个没有受过苦难，但我们中的一些人渴望更有意义的存在，所以我们敢于追求和平，努力改善自己，而不是摧毁我们的敌人。我们付出的代价就在你面前 ——我是我尊敬的人的唯一幸存者。如果你仍要继续为人民获得更好的生活而获取知识，那么我们的遗产可能不会被遗忘，我将我的文明的最大成就，能几乎消除生物衰老的技术，交给你。“\n\n随着这一惊人的要求，外星人似乎在闪闪发光，他的身体慢慢瓦解，被吹散。[Root.GetLeaderName]调查被毁舰船内部，并带回一个奇怪的发光球体。"
+ 
+ mem_left_for_dead.10.hive.desc:0 "当调查队解释我们的和平使命时，炮塔旋转开，聚光灯暗了下去，远处的人从指挥舰桥下降到表面。\n\n“一千六百四十二年来我保卫了我的人民，守护了我们最神圣的圣物，我终于解脱了。我不认识你，外星人，你们的类型对我来说也很陌生，但是你的和平使命正是我的人民争取了很长时间才完成的事情，在我那个时代的银河系处于持续的战争，众生没有一个没有受过苦难，但我们中的一些人渴望更有意义的存在，所以我们敢于追求和平，努力改善自己，而不是摧毁我们的敌人。我们付出的代价就在你面前——我是我尊敬的人的唯一幸存者。如果你仍要继续为人民获得更好的生活而获取知识，那么我们的遗产可能不会被遗忘，我将我的文明的最大成就，能几乎消除生物衰老的技术，交给你。“\n\n随着这一惊人的对话，外星人似乎在闪闪发光，他的身体慢慢瓦解，被吹散。我们的工蜂调查了被毁舰船内部，并带回一个奇怪的发光球体。"
+ mem_left_for_dead.10.a: "解开这个神器的奥秘！"
+ mem_left_for_dead.10.spi: "新圣物！"
+ mem_left_for_dead.10.b: "卖了它！"
+ 
+ mem_unnatural_lifespan:0 "非自然寿命延长"
+ mem_new_holy_relic:0 "新圣器"
+ 
+ mem_left_for_dead.50.name:0 "外交失败"
+ mem_left_for_dead.50.desc:0 "错误的答案。炮塔很快释放出白热的等离子体，焚烧了调查队。没有幸存者。基地很快进入关闭模式，炮塔在地面下滑动，外星生命从所有扫描中消失。"
+ mem_left_for_dead.50.a: "从轨道上轰炸它并回收碎片。"
+ mem_left_for_dead.50.b: "调查残骸所有细微的可用技术。"
+ 
+ mem_left_for_dead.20.name:0 "欺骗"
+ mem_left_for_dead.20.desc:0 "炮塔旋转下来，消失在地表下，随着外星人从毁灭的星舰桥下降，聚光灯暗下来。这个外星人的说着外星语言接近了探险队，但是他注意到“科学家”携带的大量武器装备的速度减慢了。局势陷入紧张僵局，远征队正在等待进一步的命令。"
+ #To Pyrrhic Victory or Artifact Stolen
+ mem_left_for_dead.20.a:0 "停止伪装。现在攻击！"
+ #To Cold War
+ mem_left_for_dead.20.b:0 "等待时机"
+ 
+ mem_left_for_dead.30.name:0 "得不偿失的胜利"
+ mem_left_for_dead.30.desc:0 "调查队向孤独的外星人开火。[Root.GetLeaderName]了打中外星人的躯干，但外星人在这之前重新启动了防御系统。炮塔从土壤里弹出，开始释放出白热的等离子体流。[Root.GetLeaderName]倒下了，但剩下的部队成功击毁了炮塔并确保周边安全。\n\n [Root.GetLeaderName]的尸体被带回船上，并且该区域被清理得有用材料。其中一名士兵从废船上带回一件奇怪的发光物体。"
+ mem_left_for_dead.30.hive.desc:0 "调查队向孤独的外星人开火。[Root.GetLeaderName]了打中外星人的躯干，但外星人在这之前重新启动了安全系统。炮塔从土壤里弹出，开始释放出白热的等离子体流。我们的部队成功击毁了炮塔并确保了周边安全，但几个工蜂，包括[Root.GetLeaderName]被击倒。\n\n 倒下的工蜂们的尸体已处理，并且该区域被清理得有用材料。我们一名工蜂从废船上带回一件奇怪的发光物体。"
+ mem_left_for_dead.30.a:0 "可恶的探险！把这个东西分解成零件！"
+ mem_left_for_dead.30.mat:0 "这个对象可能比它表面看上去更有价值。"
+ 
+ mem_left_for_dead.40.name:0 "窃得文物"
+ mem_left_for_dead.40.desc:0 "在出其不意的情况下调查队迅速制服了外星人。在探索飞船时，一名士兵带回了一个奇怪的发光球体。"
+ mem_left_for_dead.40.hive.desc:0 "在出其不意的情况下调查队迅速制服了外星人。在探索舰船时，我们一名工蜂带回了一个奇怪的发光球体。"
+ mem_left_for_dead.40.a:0 "分解成零件！"
+ mem_left_for_dead.40.mat:0 "这个对象可能比它表面看上去更有价值。"
+ 
+ mem_left_for_dead.60.name:0 "冷战"
+ mem_left_for_dead.60.desc:0 "调查队的翻译植入物终于掌握了外星人的语言。 他正在谈论一些古代战争和他的人民的遗物。 听起来很有利可图！"
+ mem_left_for_dead.60.a:0 "够了！攻击！"
+ 
+ #Anomaly Failure
+ mem_left_for_dead.100.name:0 "失败"
+ mem_left_for_dead.100.desc:0 "当[Root.GetLeaderName]开始探测废船的生命迹象，这座基地进入关机模式。塔楼塌陷到地下隐蔽的位置，聚光灯变黑，那个单独的生命信号迅速消失。看来这个外星人不想被发现。"
+ mem_left_for_dead.100.a:0 "也许这是最好的结果。"

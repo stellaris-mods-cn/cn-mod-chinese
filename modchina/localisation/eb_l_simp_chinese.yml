@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+#Mines
+ eb_mineral:0 "深芯矿井"
+ eb_mineral_desc:0 "一个采矿设施，致力于星球深处开采。"
+#Energy
+ eb_energy:0 "地热发电站"
+ eb_energy_desc:0 "一种发电设施，可以利用行星深处的各种热源。"

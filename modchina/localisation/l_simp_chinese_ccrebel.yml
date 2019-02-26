@@ -1,0 +1,478 @@
+﻿l_simp_chinese:
+
+#Rebellion Modifiers
+revolutionary_boost_05:0 "叛乱先发奖励"
+revolutionary_boost_05_desc:0 "帮助造反者的奖励。\n\n"
+revolutionary_boost_1:0 "$revolutionary_boost_05$"
+revolutionary_boost_1_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_2:0 "$revolutionary_boost_05$"
+revolutionary_boost_2_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_3:0 "$revolutionary_boost_05$"
+revolutionary_boost_3_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_4:0 "$revolutionary_boost_05$"
+revolutionary_boost_4_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_5:0 "$revolutionary_boost_05$"
+revolutionary_boost_5_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_6:0 "$revolutionary_boost_05$"
+revolutionary_boost_6_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_mobilisation:0 "革命动员"
+revolutionary_mobilisation_desc:0 "整个社会都被动员起来使革命取得成功。\n\n"
+revolutionary_mobilisation_0_5:0 "$revolutionary_mobilisation$"
+revolutionary_mobilisation_0_5_desc:0 "$revolutionary_mobilisation_desc$"
+
+nationalist_revolt:0 "民族主义革命热情"
+
+rebellionscript.9.name:0 "$unrest_title$ Revolt on [Root.GetName]!"
+rebellionscript.9.desc:0 "在[rebellion.GetName]的成功革命的激励下，[rebellion.GetSpeciesNamePlural]奋起与[Root.GetName]联合。"
+
+rebellionscript.12.desc.returner:0 "在[rebellion.GetName]的成功革命的激励下，复仇主义分子占领了[Root.GetName]!!他们为自由而战，最终目标是与[fatherland.GetName]重聚。"
+rebellionscript.12.desc.secession:0 "在[rebellion.GetName]的成功革命的激励下，[Root.GetName]上的民众正在反抗!他们想要脱离我们的帝国，现在把自己打扮成[secessionist_rebels.GetName]。"
+
+
+rebellionscript.16.name:0 "脆弱的国家"
+rebellionscript.16.desc:0 "[root.GetName]的民众感觉很脆弱，因为海军规模很小，与敌对的[threat_state1.GetName]相比显得微不足道。因此，在忠诚的民众中存在着不满情绪，而那些心怀不满的人则更愿意表达出来。"
+rebellionscript.16.desc.gestalt:0 "我们人口中的不结盟分子认为，他们有机会挣脱[root.GetName]，因为我们的海军规模很小，与怀有敌意的[threat_state1.GetName]相比显得微不足道。因此，他们更愿意表达自己的不满。"
+
+rebellionscript.17.name:0 "溃败-前方困难重重"
+rebellionscript.17.desc:0 "在经历了[root.GetName]的惨败后，[from.GetName]处于一种混乱的状态，并有分裂的危险:动荡不安，人民对政权失去信心，那些心怀不满的人有勇气推动这个问题，并采取行动。"
+rebellionscript.17.desc.gestalt:0 "在被[from.GetName]击败后，[root.GetName]处于一种混乱状态。不结盟的势力正在公开地争取他们的自由，并可能寻求尽快脱离。"
+
+rebellionscript.25.name:0 "国家电力恢复"
+rebellionscript.25.desc:0 "今天，[Root.GetName]的人民松了一口气，新改革的海军终于揭开了面纱。人口不再感到脆弱，对未来充满信心。"
+rebellionscript.25.desc.gestalt:0 "[Root.GetName]的新舰队终于揭开了面纱。不结盟的分子被它的力量所震慑，并且已经停止了对自由的鼓动，因为他们知道自由不再是可实现的。"
+rebellionscript.25.option:0 "很高兴知道。"
+
+
+rebellionscript.14.name:0 "一波动荡"
+rebellionscript.14.desc:0 "[rebellion2.GetSpeciesNamePlural]党内部不断升级的骚乱导致了[rebellion2.Capital.GetName]的起义，后者在地方当局失去控制后宣布独立。受他们的成功鼓舞，一股民族主义情绪在[rebellion2.GetSpeciesAdj]的[root.GetName]居民中蔓延开来，有报道称，更多的行星将很快尝试加入反抗。此外，其他不满的团体正准备抓住机会，尝试自己的革命。一段混乱的时期即将来临。"
+rebellionscript.141.desc:0 "随着当地政府失去控制，[rebellion2.Capital.GetName]宣布独立。在成功的鼓舞下，[root.GetName]中其他不满的群体正准备抓住机会，尝试自己的革命。一段混乱的时期即将来临。"
+
+rebellionscript.142.name:0 "动荡已经过去"
+rebellionscript.142.desc:0 "袭击[root.GetName]行星的动荡时期似乎已经结束。不满的群体要么实现了自己的目标，要么暂时听任生活在[root.GetName]里。现在，[root.GetSpeciesNamePlural]可以展望未来，试图治愈起义所造成的创伤。"
+
+
+rebellionscript.13.desc.return:0 "在[rebellion.GetName]成功的革命的激励下，[revolt_planet.Planet.GetName]上的奴隶们团结起来，并在武装起义中崛起，目的是与[slave_return.GetName]的兄弟们重聚。随着反政府武装的进攻，局势迅速升级，同时摧毁了几个关键目标。星球的命运现在取决于我们的防御部队。如果他们失败了，[revolt_planet.Planet.GetName]就输了。"
+rebellionscript.13.desc.join:0 "在[rebellion.GetName]成功革命的推动下，[rebellion.GetSpeciesAdj]的[revolt_planet.Planet.GetName]奴隶群体团结起来，在一次武装起义中奋起反抗，试图加入他们的兄弟建立的自由国家。随着反政府武装的进攻，局势迅速升级，同时摧毁了几个关键目标。星球的命运现在取决于我们的防御部队。如果他们失败了，我们就会失去[revolt_planet.Planet.GetName]。"
+rebellionscript.13.desc.standard:0 "在[rebellion.GetName]成功革命的激励下，[revolt_planet.Planet.GetName]上的奴隶群体团结起来，并在武装起义中崛起，为争取自由而奋斗。随着反政府武装的进攻，局势迅速升级，同时摧毁了几个关键目标。星球的命运现在取决于我们的防御部队。如果他们失败了，我们就失去了[revolt_planet.Planet.GetName]。"
+
+rebellionscript.132.name:0 "[from.GetName]"
+rebellionscript.132.desc:0 "你好,朋友。我们是自由战士，曾经的奴隶[old_owner.GetName]，我们在[old_owner.GetRulerTitle] [old_owner.GetRulerName]的压迫下遭受了很多虐待。虽然我们现在是自由的，但银河系是巨大的，充满了危险。长期以来，我们一直把你们视为希望的灯塔，你们成功地维护了[Root.GetSpeciesAdj]的自由。我们已经脱离了这个国家，希望成为你们国家的一部分，如果你们愿意的话?"
+rebellionscript.132.a:0 "加入我们，我们给你自由。"
+
+wave_of_unrest:0 "一波动荡"
+wave_of_unrest_desc:0 "这个国家正经历着一波动荡，因为它的一个星球分裂了，它的成功让全国不满的团体有勇气考虑尝试他们自己的革命。\n\n"
+
+feel_vulnerable_1:0 "感到脆弱"
+feel_vulnerable_2:0 "感到脆弱"
+lost_war_feel_vulnerable:0 "毁灭性的失败-对未来的担忧"
+chance_to_force_change_1:0 "改变的机会"
+chance_to_force_change_2:0 "改变的机会"
+lost_war_chance_to_force_change:0 "毁灭性的失败 - 看到迫使改变的机会"
+chance_to_revolt_1:0 "自由的机会"
+chance_to_revolt_2:0 "自由的机会"
+lost_war_chance_to_revolt:0 "毁灭性的失败 - 看到反抗的机会"
+vulnerable_state_1:0 "脆弱的国家"
+vulnerable_state_1_desc:0 "民众感到脆弱，因为海军规模很小，与敌对国家的海军相比显得微不足道。因此，在忠诚的民众中存在着不满情绪，而那些心怀不满的人则更愿意表达出来。\n\n$cc_vulnerability_tooltip$\n\n"
+vulnerable_state_2:0 "高度脆弱的状态"
+vulnerable_state_2_desc:0 "民众感觉非常脆弱，因为海军规模很小，与敌对国家的海军相比显得微不足道。因此，在忠诚的民众中普遍存在着不满情绪，而那些有不满情绪的人也很容易表达不满。\n\n$cc_vulnerability_tooltip$\n\n"
+lost_war_vulnerable_state:0 "最近的惨败"
+lost_war_vulnerable_state_desc:0 "在最近的失败之后，这个国家正处于一种混乱的状态，并面临着分裂的风险:动荡的程度很高，人民对政权失去信心，那些心怀不满的人有胆量推动这个问题并采取行动。\n\n"
+
+
+
+cc_war_with_kin:0 "与家族的战争"
+
+civic_broken_shackles:0 "断路器的枷锁"
+civic_broken_shackles_desc:0 "这些被解放的奴隶同时也为其他国家的奴隶提供了希望的灯塔，并全力输出他们的革命和解放他们被奴役的兄弟姐妹。"
+civic_tooltip_broken_shackles_effects:2 "§Y自由的召唤:§! §R-15%§! 邻国奴隶的幸福度。\n对于奴隶帝国来说，友好的§Y外交§!是不可能的。\n§Y道德标准§!不能改变\n还必须有§Y$civic_free_republic$§!公民性。"
+
+civic_free_republic:0 "自由的共和国"
+civic_free_republic_desc:0 "这个社会通过对其主人的暴力革命摆脱了奴隶制。为自由而战，为自由而苦，公民不会轻易放弃!"
+civic_tooltip_free_republic_effects:2 "§Y$pop_ethic_egalitarian_attraction_mult$§!增加§G+25%§!.\n当与奴隶帝国作战时§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+15%§!。\n§Y道德准则§!不能改变。\n还必须有§Y$civic_broken_shackles$§!公民性。"
+
+opinion_slaveholder_oppressors:0 "奴隶压迫者"
+opinion_upstart_slaves:0 "暴发户的奴隶"
+opinion_stirring_up_slaves:0 "煽动我们的奴隶"
+
+
+cc_call_of_liberty:0 "自由的召唤"
+cc_planet_call_of_liberty:0 "追求自由"
+cc_planet_call_of_liberty_desc:0 "奴隶民众正在努力实现他们与附近的自由共和国联合的梦想。\n\n"
+
+betrayed_the_revolution:0 "背叛革命"
+betrayed_the_revolution_desc:0 "政府背叛了革命的价值观。\n\n"
+
+
+rebellionscript.41.name:0 "[cc_war_opponent1.GetSpeciesAdj] 爱国主义"
+rebellionscript.41.desc:0 "[cc_war_opponent1.GetSpeciesName]里的[Root.GetName]族人对与[cc_war_opponent1.GetName]开战的前景感到愤怒。许多人认为[cc_war_opponent1.GetName]是他们真正的祖国，他们不愿参与对他们的战争。更极端的分子甚至公开谈论他们对[cc_war_opponent1.GetSpeciesAdj]事业的“爱国义务”，我们相信他们正准备尝试脱离。"
+rebellionscript.41.option:0 "他们会被碾碎。"
+rebellionscript.43.name:0 "在[Root.GetName]的爱国主义反抗"
+rebellionscript.43.desc:0 "[Root.GetName]上的[fatherland.GetSpeciesName]民众支持[fatherland.GetName]，很多人认为[fatherland.GetName]是他们真正的祖国。如果我们控制不了局势，他们就会和[fatherland.GetName]联合起来和我们作战。"
+rebellionscript.46.name:0 "胜利者的要求"
+rebellionscript.46.desc:0 "被打败了。这些行星都是我们的。抵抗是不会被容忍的。"
+rebellionscript.46.option:0 "我们承认失败。"
+#rebellionscript.46.option.tooltip:0 "Planets that seceded to the [Root.GetName] from the [cc_war_victor.GetName] and their allies via patriotic revolts during the recent war will be given back."
+
+#rebellionscript.461.name:0 "Patriot Revolts during the War"
+#rebellionscript.461.desc:0 "During the war, some of our planets defected to the [cc_war_loser.GetName]. However, we were able to overcome the [cc_war_loser.GetSpeciesAdj] fleets and defeat them. We had never consented to recognise these defections, so they were left out of the peace deal. Instead, our negotiating team has demanded that our planets be returned to us immediately, separately to the main peace deal." 
+#rebellionscript.461.option:0 "Good"
+
+#rebellionscript.462.name:0 "The Victor's Demands"
+#rebellionscript.462.desc:0 "We dare not disobey you. You can have the planets back. May you choke on them!"
+#rebellionscript.462.option:0 "Good"
+#rebellionscript.462.option.tooltip:0 "Planets lost to the [cc_war_loser.GetName] via patriot revolts during the recent war will be ceded back."
+
+
+
+cc_slaves_rebel.102.name:0 "游戏开始没有释放的奴隶公民"
+cc_slaves_rebel.102.desc:0 "你只能选择一个公民性开始游戏(§Y$civic_free_republic$§!和§Y$civic_broken_shackles$§!)为自由的奴隶帝国而设计。这将危及奴隶起义的脚本，所以你们的政府已经进行了改革，使他们都有公民权利。"
+cc_slaves_rebel.21.name:0 "放弃革命价值观"
+cc_slaves_rebel.21.desc:0 "民众对[Root.GetName]政府公开将其执政道德从革命价值观上转移感到愤怒。大规模的示威使得[Root.Capital.GetName]停止了，“压迫者去死”的口号也被听到。局势可能迅速升级。政府官员对这一问题上的强烈情绪感到吃惊，许多人支持近期趋势的逆转。然而，社会和政府的其他成员都欢迎从革命中走出来的机会，并坚定地站在银河系大家庭中受人尊敬的一员。"
+cc_slaves_rebel.21.option:0 "扭转."
+cc_slaves_rebel.21.tooltip:0 "道德转向§Y$ethic_fanatic_egalitarian$§!和§Y$ethic_militarist$§!."
+cc_slaves_rebel.21.option.b:0 "放弃革命价值观"
+cc_slaves_rebel.21.option.b.tooltip:0 "增加§R$betrayed_the_revolution$§! 改变:\n§Y$country_resource_unity_mult$§!: §R-33%§!\n§Y$country_resource_influence_mult$§!: §R-33%§!\n§Y$MOD_POP_HAPPINESS$§!: §R-20%§!\n删除公民性:\n§Y$civic_free_republic$§!\n§Y$civic_broken_shackles$§!\n增加公民性:\n§Y$civic_beacon_of_liberty$§!\n§Y$civic_idealistic_foundation$§!"
+cc_slaves_rebel.23.name:0 "革命结束了"
+cc_slaves_rebel.23.desc:0 "[Root.GetName]不再是它自己的主人了。革命失败了。一群垂头丧气的人参加了对[Root.Capital.GetName]的沉默守夜活动，以纪念它的逝去。虽然一些极端的元素主张最后的解脱尝试，但大多数人都认为银河系已经被证明是太大了，它的危害也太大了。而[Root.GetName], and that the golden age of [Root.GetSpeciesName]自由的黄金时代已经结束。"
+cc_slaves_rebel.23.option:0 "这是不可避免的。"
+cc_slaves_rebel.23.tooltip:0 "删除公民性:\n§Y$civic_free_republic$§!\n§Y$civic_broken_shackles$§!\n增加公民性:\n§Y$civic_beacon_of_liberty$§!\n§Y$civic_idealistic_foundation$§!"
+cc_slaves_rebel.4.name:0 "[cc_freed_slaves.GetName]正在煽动我们的奴隶"
+cc_slaves_rebel.4.desc:0 "在[cc_freed_slaves.GetName]的奴隶已经建立了他们自己的国家。如果还不够糟糕的话，他们现在拒绝服从他们的合法主人，并坚持他们现在是“自由的”，他们正试图将他们的革命输出到我们的奴隶人口中。不幸的是，我们的奴隶被他们的榜样所吸引，把他们视为希望的灯塔。我们必须迅速采取行动，避免广泛的动乱。"
+cc_slaves_rebel.4.option:0 "我们将击败他们。"
+cc_slaves_rebel.7.name:0 "[cc_freed_slaves.GetName]呼叫[Root.GetName]"
+cc_slaves_rebel.7.desc:0 "我们在[Root.GetName]上的奴隶把[cc_freed_slaves.GetName]看作是希望的灯塔，当事情不好的时候，我们可以抓住它。这不是什么秘密，如果有机会，他们在退出[cc_freed_slaves.GetName]之前不会三思。最近，由于我们不清楚的原因([cc_freed_slaves.GetName]的秘密活动被怀疑)，这种想法有了一个高峰，并且有公开的反叛的说法。"
+cc_slaves_rebel.7.option:0 "我们要把他们安置在他们的地方。"
+cc_slaves_rebel.8.desc:0 "在[cc_freed_slaves.GetName]的例子(以及秘密活动分子)的启发下，[revolt_planet.Planet.GetName]上的奴隶群体团结起来，并在武装起义中崛起，为争取自由而努力。随着反政府武装的进攻，局势迅速升级，同时摧毁了几个关键目标。星球的命运现在取决于我们的防御部队。如果他们失败了，我们就失去了[revolt_planet.Planet.GetName]。"
+
+
+fighting_for_liberty:0 "为自由而战"
+fighting_for_liberty_desc:0 "自由共和国与奴隶制帝国交战。它不会轻易放弃自由。\n\n"
+
+#war_demand_renounce_free_republic_header:1 "§YCounter-Revolution§!"
+#war_demand_renounce_free_republic_subtext:0 "[parameter:country.GetName]"
+#war_demand_renounce_free_republic_tooltip_header:0 "$war_demand_free_republic_header$"
+#war_demand_renounce_free_republic_tooltip_content:1 "Enforcing a Counter-Revolution on [parameter:country.GetName] will force them to give up their §Y$civic_broken_shackles$§! and §Y$civic_free_republic$§! Civics, and adopt a §Y$auth_dictatorial$§! Government. The enforcer will also gain §Y$unity$§!."
+#war_demand_renounce_free_republic_tooltip_proper_header:0 "$war_demand_free_republic_header$"
+#war_demand_renounce_free_republic_tooltip_proper_content:0 "Enforce a Counter-Revolution on the  [parameter:country.GetName]."
+#war_demand_renounce_free_republic_no_planets:1 "All the Empire's planets will be ceded, nothing left to change form of government."
+
+
+
+#new
+
+
+cc_fe_unrest:0 "平静的社会"
+cc_fe_unrest_desc:0 "千百年来，社会动荡和不稳定的原因已经从社会中根除。"
+cc_fe_unrest_1:0 "$cc_fe_unrest$"
+cc_fe_unrest_1_desc:0 "$cc_fe_unrest_desc$"
+cc_fe_unrest_2:0 "$cc_fe_unrest$"
+cc_fe_unrest_2_desc:0 "$cc_fe_unrest_desc$"
+
+#combination of normal .141 and cc_slaves_rebel.4
+rebellionscript.141.desc.slave:0 "随着对[rebellion2.Capital.GetName]的反抗，奴隶人口中越来越多的动荡达到了顶点。[rebellion2.Capital.GetName]宣布独立，地方当局失去了控制。如果他们现在拒绝服从我们，他们的合法主人，并且坚持他们现在是“自由的”，他们正试图将他们的革命输出到我们剩余的奴隶人口中。不幸的是，我们的奴隶们被他们的榜样所吸引，并开始动员起来。此外，还有[根本]的其他不满群体。他们准备抓住机会，尝试自己的革命。一段混乱的时期即将来临。"
+
+cc_call_of_liberty_nationalist:0 "自由民族主义运动"
+
+cc_call_of_liberty_1:0 "$cc_call_of_liberty$"
+
+free_at_last_1:0 "$free_at_last$"
+free_at_last_1_desc:0 "这个星球终于摆脱了它的压迫者。"
+
+
+cc_compact_empire:0 "紧凑的帝国"
+cc_compact_empire_desc:0 "这个帝国的优势在于它相对紧凑，所有的行星都离首都足够近，易于管理。"
+
+cc_empire_core:0 "帝国核心"
+cc_empire_core_desc:0 "这颗行星位于帝国首都附近的太空区域，因此是帝国核心的一部分。注:FTL技术升级增加了帝国核心的范围。"
+
+cc_terror_state:0 "国家恐怖主义"
+cc_terror_state_desc:0 "国家正在部署其大量的资源——以及任何必要的手段——来控制这个星球，直到清除完成。每个人的行动都经过仔细的跟踪和限制，而草率的处决是常见的。"
+
+#------Sowing Unrest
+
+edict_ccrebel_sow_unrest:0 "播种动荡"
+edict_ccrebel_sow_unrest_desc:0 "使用这个星球作为基地，通过它在附近的敌人星球上散布动乱。\n\n使用说明:\n-这项法令将为每个拥有4条 超空间航道的行星增添不稳定性(如果你已经研究过了§G$tech_ccrebel_unrest_2$§!)它属于一个你并不友好的帝国，只要这个星球有受快乐影响的 £pops 人口。它还将添加一个不幸修饰符的 £pops 人口出现在你的帝国的物种。  受快乐影响的 £pops 人口。它也会给你的帝国的物种增加一个不快乐的修正。\n-如果你研究过 £society  技术§G$tech_ccrebel_unrest_2$§!，它也会为你的帝国的主要思潮创造伦理吸引力(如果这不是目标的道德标准，与帝国思潮相对立), 那么这种道德的 £pops 人口将会得到一个不愉快的修饰。如果你是$ethic_fanatic_egalitarian$，或你是$ethic_fanatic_xenophile$，则你的目标是$ethic_xenophobe$，这也适用于奴隶。"
+
+opinion_ccrebel_stirring_up:0 "激起我们星球上的不安"
+opinion_ccrebel_subsidised:0 "资助我们"
+opinion_ccrebel_subsidised_2:0 "$opinion_ccrebel_subsidised$"
+opinion_ccrebel_subsidised_3:0 "$opinion_ccrebel_subsidised$"
+opinion_ccrebel_subsidising_our_rebels:0 "支持我们的叛军"
+
+ccrebel_planet_being_stirred_up_no_ethic:0 "正在进行的搅动"
+ccrebel_planet_being_stirred_up_no_ethic_desc:0 "另一个帝国正试图煽动这个星球的反抗。"
+ccrebel_planet_being_stirred_up_xenophobe:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophobe_desc:0 "一个$ethic_xenophobe$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_xenophile:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophile_desc:0 "一个$ethic_xenophile$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_egalitarian:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_egalitarian_desc:0 "一个$ethic_egalitarian$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_authoritarian:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_authoritarian_desc:0 "一个$ethic_authoritarian$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_spiritualist:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_spiritualist_desc:0 "一个$ethic_spiritualist$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_materialist:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_materialist_desc:0 "一个$ethic_materialist$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_pacifist:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_pacifist_desc:0 "一个$ethic_pacifist$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+ccrebel_planet_being_stirred_up_militarist:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_militarist_desc:0 "一个$ethic_militarist$帝国正试图煽动这个星球的反抗。煽动这个星球反抗。"
+
+ccrebel_planet_being_stirred_up_no_ethic_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_no_ethic_2_desc:0 "$ccrebel_planet_being_stirred_up_no_ethic_desc$"
+ccrebel_planet_being_stirred_up_xenophobe_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophobe_2_desc:0 "$ccrebel_planet_being_stirred_up_xenophobe_desc$"
+ccrebel_planet_being_stirred_up_xenophile_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophile_2_desc:0 "$ccrebel_planet_being_stirred_up_xenophile_desc$"
+ccrebel_planet_being_stirred_up_egalitarian_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_egalitarian_2_desc:0 "$ccrebel_planet_being_stirred_up_egalitarian_desc$"
+ccrebel_planet_being_stirred_up_authoritarian_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_authoritarian_2_desc:0 "$ccrebel_planet_being_stirred_up_authoritarian_desc$"
+ccrebel_planet_being_stirred_up_spiritualist_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_spiritualist_2_desc:0 "$ccrebel_planet_being_stirred_up_spiritualist_desc$"
+ccrebel_planet_being_stirred_up_materialist_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_materialist_2_desc:0 "$ccrebel_planet_being_stirred_up_materialist_desc$"
+ccrebel_planet_being_stirred_up_pacifist_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_pacifist_2_desc:0 "$ccrebel_planet_being_stirred_up_pacifist_desc$"
+ccrebel_planet_being_stirred_up_militarist_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_militarist_2_desc:0 "$ccrebel_planet_being_stirred_up_militarist_desc$"
+
+ccrebel_planet_being_stirred_up_no_ethic_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_no_ethic_3_desc:0 "$ccrebel_planet_being_stirred_up_no_ethic_desc$"
+ccrebel_planet_being_stirred_up_xenophobe_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophobe_3_desc:0 "$ccrebel_planet_being_stirred_up_xenophobe_desc$"
+ccrebel_planet_being_stirred_up_xenophile_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophile_3_desc:0 "$ccrebel_planet_being_stirred_up_xenophile_desc$"
+ccrebel_planet_being_stirred_up_egalitarian_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_egalitarian_3_desc:0 "$ccrebel_planet_being_stirred_up_egalitarian_desc$"
+ccrebel_planet_being_stirred_up_authoritarian_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_authoritarian_3_desc:0 "$ccrebel_planet_being_stirred_up_authoritarian_desc$"
+ccrebel_planet_being_stirred_up_spiritualist_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_spiritualist_3_desc:0 "$ccrebel_planet_being_stirred_up_spiritualist_desc$"
+ccrebel_planet_being_stirred_up_materialist_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_materialist_3_desc:0 "$ccrebel_planet_being_stirred_up_materialist_desc$"
+ccrebel_planet_being_stirred_up_pacifist_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_pacifist_3_desc:0 "$ccrebel_planet_being_stirred_up_pacifist_desc$"
+ccrebel_planet_being_stirred_up_militarist_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_militarist_3_desc:0 "$ccrebel_planet_being_stirred_up_militarist_desc$"
+
+ccrebel_planet_being_stirred_up_no_ethic_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_no_ethic_4_desc:0 "$ccrebel_planet_being_stirred_up_no_ethic_desc$"
+ccrebel_planet_being_stirred_up_xenophobe_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophobe_4_desc:0 "$ccrebel_planet_being_stirred_up_xenophobe_desc$"
+ccrebel_planet_being_stirred_up_xenophile_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_xenophile_4_desc:0 "$ccrebel_planet_being_stirred_up_xenophile_desc$"
+ccrebel_planet_being_stirred_up_egalitarian_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_egalitarian_4_desc:0 "$ccrebel_planet_being_stirred_up_egalitarian_desc$"
+ccrebel_planet_being_stirred_up_authoritarian_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_authoritarian_4_desc:0 "$ccrebel_planet_being_stirred_up_authoritarian_desc$"
+ccrebel_planet_being_stirred_up_spiritualist_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_spiritualist_4_desc:0 "$ccrebel_planet_being_stirred_up_spiritualist_desc$"
+ccrebel_planet_being_stirred_up_materialist_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_materialist_4_desc:0 "$ccrebel_planet_being_stirred_up_materialist_desc$"
+ccrebel_planet_being_stirred_up_pacifist_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_pacifist_4_desc:0 "$ccrebel_planet_being_stirred_up_pacifist_desc$"
+ccrebel_planet_being_stirred_up_militarist_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_planet_being_stirred_up_militarist_4_desc:0 "$ccrebel_planet_being_stirred_up_militarist_desc$"
+
+
+ccrebel_being_stirred_up:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_being_stirred_up_2:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_being_stirred_up_3:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+ccrebel_being_stirred_up_4:0 "$ccrebel_planet_being_stirred_up_no_ethic$"
+
+ccrebel_sowing_up_planet:0 "播种动荡"
+ccrebel_sowing_up_planet_2:0 "$ccrebel_sowing_up_planet$"
+ccrebel_sowing_up_planet_3:0 "$ccrebel_sowing_up_planet$"
+ccrebel_sowing_up_planet_4:0 "$ccrebel_sowing_up_planet$"
+
+ccrebel_sowing_up_planet_desc:0 "这颗行星正被用作一个基地，通过它在敌人的星球上播种动乱。"
+ccrebel_sowing_up_planet_2_desc:0 "$ccrebel_sowing_up_planet_desc$"
+ccrebel_sowing_up_planet_3_desc:0 "$ccrebel_sowing_up_planet_desc$"
+ccrebel_sowing_up_planet_4_desc:0 "$ccrebel_sowing_up_planet_desc$"
+
+ccrebel_subsidised_1:0 "支持叛军"
+ccrebel_subsidised_1_desc:0 "这个星球是由外国势力资助的一场叛乱的首都。"
+ccrebel_subsidised_2:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_2_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_3:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_3_desc:0 "$ccrebel_subsidised_1_desc$"
+
+ccrebel_subsidiser_1:0 "资助叛军"
+ccrebel_subsidiser_1_desc:0 "这颗行星正被用作叛乱资金的基地。"
+ccrebel_subsidiser_1_1:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_1_1_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_1_2:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_1_2_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_1_3:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_1_3_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_1_4:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_1_4_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_1_5:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_1_5_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_2_5:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_2_5_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_2_4:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_2_4_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_2_3:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_2_3_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_2_2:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_2_2_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_2_1:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_2_1_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_2:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_2_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_3_5:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_3_5_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_3_4:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_3_4_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_3_3:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_3_3_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_3_2:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_3_2_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_3_1:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_3_1_desc:0 "$ccrebel_subsidiser_1_desc$"
+ccrebel_subsidiser_3:0 "$ccrebel_subsidiser_1$"
+ccrebel_subsidiser_3_desc:0 "$ccrebel_subsidiser_1_desc$"
+
+tech_ccrebel_unrest_1:0 "星际间谍"
+tech_ccrebel_unrest_1_desc:0 "向附近的敌人星球传播动乱。"
+tech_ccrebel_unrest_2:0 "叛逆的信仰"
+tech_ccrebel_unrest_2_desc:0 "更好的技术可以提高间谍任务的效率，允许更大范围和更有效地在敌人的星球上散布动乱。"
+
+#Notification that someone is sowing unrest
+ccrebel_sow_unrest.1.name:0 "[ccrebel_sowing_unrest_1.GetName]正在我们的星球上播撒动乱。"
+ccrebel_sow_unrest.1.desc:0 "有消息说，奸诈的[ccrebel_sowing_unrest_1.GetSpeciesNamePlural]正试图向[ccrebel_sow_unrest_target.GetName]和其他附近的星球传播动乱。人们认为他们是在利用[ccrebel_sow_unrest_source.GetName]作为传播仇恨信息的基地。"
+ccrebel_sow_unrest.1.option:0 "They will pay for this."
+
+#Event for deciding whether to subsidise a rebellion
+ccrebel_sow_unrest.4.name:0 "[ccrebel_subsidised_rebels.GetName]期待我们的支持"
+ccrebel_sow_unrest.4.desc:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。我们是[ccrebel_subsidised_rebels.GetName]，来自[ccrebel_subsidised_rebels.Capital.GetName]。你的支持对我们在革命中反对被鄙视的[ccrebel_revolted_from_country.GetName]时提供了宝贵的帮助，然而，我们还远没有安全:我们是一个新国家，[ccrebel_revolted_from_country.GetName]仍然以他们优越的资源威胁着我们。你能给我们提供任何支持吗?"
+ccrebel_sow_unrest.4.desc.not_sown_unrest:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。我们是[ccrebel_subsidised_rebels.GetName]，来自[ccrebel_subsidised_rebels.Capital.GetName]。我们最近背叛了你的敌人，被鄙视的[ccrebel_revolted_from_country.GetName]，仍然用他们优越的资源威胁着我们。为了进一步与他们进行斗争，你能给我们提供任何支持吗?"
+ccrebel_sow_unrest.4.option.A:0 "给他们大量援助。"
+ccrebel_sow_unrest.4.option.B:0 "给他们一般资助。"
+ccrebel_sow_unrest.4.option.C:0 "给他们一点帮助。"
+ccrebel_sow_unrest.4.option.A.tooltip:0 "100 §Y$energy$§!和100 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n100 §Y$energy$§!和100 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。\n这将极大地激怒§R[ccrebel_revolted_from_country.GetName]§!。"
+ccrebel_sow_unrest.4.option.B.tooltip:0 "50 §Y$energy$§!和50 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n50 §Y$energy$§!和50 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。\n这将极大地激怒§R[ccrebel_revolted_from_country.GetName]§!。"
+ccrebel_sow_unrest.4.option.C.tooltip:0 "25 §Y$energy$§!和25 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n25 §Y$energy$§!和25 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。\n这将极大地激怒§R[ccrebel_revolted_from_country.GetName]§!。"
+ccrebel_sow_unrest.4.option.D:0 "我们负担不起——他们得靠自己。"
+
+#Event for deciding whether to continue to do so
+ccrebel_sow_unrest.5.name:0 "[ccrebel_subsidised_rebels.GetName]的补贴已经过期"
+ccrebel_sow_unrest.5.desc:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。在过去的十年里，你们一直在向我们提供补贴——这种补贴对我们来说是无价的，因为我们能够抵御对我们艰苦奋斗的独立的威胁。你会把补贴延伸到未来吗?"
+ccrebel_sow_unrest.5.option.A:0 "继续提供巨额援助。"
+ccrebel_sow_unrest.5.option.A.tooltip:0 "100 §Y$energy$§!和100 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n100 §Y$energy$§!和100 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。"
+ccrebel_sow_unrest.5.option.B:0 "Continue with a medium subsidy."
+ccrebel_sow_unrest.5.option.B.tooltip:0 "50 §Y$energy$§!和50 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n50 §Y$energy$§!和50 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。"
+ccrebel_sow_unrest.5.option.C:0 "Continue with a small subsidy."
+ccrebel_sow_unrest.5.option.C.tooltip:0 "25 §Y$energy$§!和25 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n25 §Y$energy$§!和25 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。"
+ccrebel_sow_unrest.5.option.D:0 "他们不再需要我们的支持。"
+
+ccrebel_sow_unrest.44.name:0 "援助结束"
+ccrebel_sow_unrest.44.desc:0 "对一个叛乱国家的援助已经结束，因为它已经被征服或吞并。"
+
+ccrebel_sow_unrest.51.name:0 "援助到期"
+ccrebel_sow_unrest.51.desc:0 "[ccrebel_subsidised_rebels.GetName]最初的反抗已经过去了30年。他们现在必须学会用两条腿站立。因此，我们对他们的补贴已经结束。"
+
+
+ccrebel_sow_unrest.6.name:0 "武装[ccrebel_subsidised_rebels.GetName]"
+ccrebel_sow_unrest.6.desc:0 "你也想用舰队武装[ccrebel_subsidised_rebels.GetName]吗?"
+ccrebel_sow_unrest.6.option.A:0 "给他们一支庞大的舰队。"
+ccrebel_sow_unrest.6.option.A.tooltip:0 "3 $battleship_plural$, 6 $cruiser_plural$, 12 $destroyer_plural$和24 $corvette_plural$会由§Y[ccrebel_subsidised_rebels.GetName]§!控制。\n600-1000 §Y$energy$§!和600-1000 §Y$minerals$§!会转到§Y[ccrebel_subsidised_rebels.GetName]§!。每月分四期，取决于§Y[root.GetName]§!的支付能力。\n这将极大地激怒§R[ccrebel_revolted_from_country.GetName]§!。"
+ccrebel_sow_unrest.6.option.B:0 "给他们一支小舰队。"
+ccrebel_sow_unrest.6.option.B.tooltip:0 "1 $battleship$, 3 $cruiser_plural$, 6 $destroyer_plural$和12 $corvette_plural$会由§Y[ccrebel_subsidised_rebels.GetName]§!控制。\n300-500 §Y$energy$§!和300-500 §Y$minerals$§!会转到§Y[ccrebel_subsidised_rebels.GetName]§!。每月分四期，取决于§Y[root.GetName]§!的支付能力。\n这将极大地激怒§R[ccrebel_revolted_from_country.GetName]§!."
+ccrebel_sow_unrest.6.option.C:0 "不要给他们舰队。"
+
+
+ccrebel_sow_unrest.7.name:0 "[ccrebel_naughty_country.GetName]正在为[ccrebel_subsidised_rebels.GetName]提供援助"
+ccrebel_sow_unrest.7.desc:0 "我们的情报机构已经发现，背信弃义的[ccrebel_naughty_country.GetName]为[ccrebel_subsidised_rebels.GetName]提供资金，他们公开反对我们。当被问及这些信息时，[ccrebel_naughty_country.GetSpeciesAdj]大使声称不知道任何此类资金，但表示支持[ccrebel_subsidised_rebels.GetSpeciesAdj]的事业。然而，事实不言自明。"
+ccrebel_sow_unrest.7.option:0 "他们会为此付出代价。"
+
+ccrebel_sow_unrest.71.name:0 "[ccrebel_naughty_country.GetName]公开支持[ccrebel_subsidised_rebels.GetName]"
+ccrebel_sow_unrest.71.desc:0 "背信弃义的[ccrebel_naughty_country.GetName]公开支持[ccrebel_subsidised_rebels.GetName]，它已经背叛了我们，为他们提供了资金和舰队。当被问及此事的事实时，[ccrebel_naughty_country.GetSpeciesAdj]大使声称不知道任何此类活动，但表示坚决支持[ccrebel_subsidised_rebels.GetSpeciesAdj]事业。尽管如此，证据本身就说明了一切。"
+ccrebel_sow_unrest.71.option:0 "他们会为此付出代价。"
+
+feature_ccrebel_sow_unrest_better:0 "改良播撒动荡的法令"
+feature_ccrebel_sow_unrest_better_desc:0 "§Y播种动荡§!为你的帝国的主要精神和不愉快的修改添加了道德规范。范围增加50%."
+
+#tech_gene_tailoring_modifier_desc
+
+
+planet_resource_energy_add:0 "行星能量"
+
+
+ccrebel_hm.1.name:0 "抵抗蜂巢"
+ccrebel_hm.1.desc:0 "这个殖民地上的不结盟分子拿起武器反对蜂巢，企图动员起来争取自由。"
+
+ccrebel_hm.2.name:0 "抵制机械"
+ccrebel_hm.2.desc.organic:0 "[root.GetName]上的有机生命形态拿起武器对抗机械，试图动员起来争取自由。"
+ccrebel_hm.2.desc.synth:0 "[root.GetName]上的不结盟分子拿起武器反对机械，企图动员起来争取自由。"
+
+cc_hive_unrest:0 "不安(对蜂巢的反抗)"
+cc_hive_unrest_desc:0 "§H动荡§!发生在这个殖民地上，不结盟的分子拿起武器反对蜂巢，并试图动员他们的自由。"
+cc_machine_unrest:0 "不安(对机械的反抗)"
+cc_machine_unrest_desc:0 "§H动荡§!在这个殖民地上，不结盟的分子拿起武器反对机械，企图动员起来争取他们的自由。"
+
+FLAG_CATEGORY_slave:0 "获得自由的奴隶"
+
+EMPIRE_DESIGN_glukzoran:0 "格鲁哥拉"
+EMPIRE_DESIGN_glukzoran_desc:0 "格鲁哥拉的第一个行星政府是一个压迫性的政府:大约20%的人口通过剥削其他80%的人口而变得非常富有，这些人被用作奴隶，在大多数情况下，在非常恶劣的条件下被饲养。虽然占多数的奴隶定期寻求反抗，但统治集团不能轻易被推翻，因为他们的资源实在是太大了。然而，当革命最终取得成功时，他们的贪婪证明了他们的失败。这个星球的新统治者宣布建立一个自由的共和国，在这个共和国里，所有的格鲁哥拉人都将是平等的，重新分配财富，废除奴隶制和其他压迫行为。它发誓再也不会有格鲁克佐兰人容忍另一个人成为压迫的受害者;事实上，格鲁哥拉星球被重新命名为胡里亚，在格鲁哥拉语言中是“自由”。\n\n那是一代人以前的事了。现在，格鲁哥拉终于解开了星际旅行的秘密，并准备在整个银河系中高举自由的火炬。"
+
+name_list_CCSLAVE1:0 "$FLAG_CATEGORY_slave$"
+
+opinion_rebelled_from_rival:0 "背叛了我们的对手"
+
+cc_vulnerability_tooltip:0 "民众可以放心，要么国家没有军事上压倒性的敌对国家，要么拥有国家所能维持的庞大舰队(>90%的海军力量)。"
+cc_vulnerability_pops_tooltip:0 "£pops  不满的人得到与他们的不满和国家的脆弱成正比的痛苦修正。"
+cc_state_vulnerability_removed:0 "删除所有状态漏洞修正。"
+
+ccrebel.4200.tooltip:0 "叛军将试图占领这个星球。"
+rebellionscript.41.tooltip:0 "在[cc_patriot_pop.GetSpeciesNamePlural]中[root.GetName]获得修正§R$cc_war_with_kin$§! (-30% 幸福度).\n拥有大量[cc_patriot_pop.GetSpeciesAdj]人口的行星可能会§R试图反抗§!."
+cc_slaves_rebel.4.tooltip:0 "在[cc_freed_slaves.GetName]附近的行星上，奴隶的数量会得到修正§R$cc_call_of_liberty$§! (-15% 幸福度)."
+cc_slaves_rebel.7.tooltip:0 "奴隶起义可能迫在眉睫。"
+rebellionscript.14.tooltip:0 "持不同政见的 £pops 人口得到不快修正。\n有50动荡或更高的行星可能会§R试图反抗§!。"
+
+effect_every_neighbor_country:0 "每一个邻国"
+
+ccrebel_no_valid_target_in_range:0 "范围内没有有效目标"
+
+
+war_goal_wg_ccrebel_independence:0 "$war_goal_wg_independence$"
+war_goal_wg_ccrebel_independence_desc:0 "$war_goal_wg_independence_desc$"
+wg_ccrebel_independence_status_quo:0 "$wg_independence_status_quo$如果[Root.GetName]得到一个更大的帝国的支持，它就会退出。"
+wg_ccrebel_independence_accept:0 "$wg_independence_accept$如果[Root.GetName]得到一个更大的帝国的支持，它就会退出。"
+
+
+
+unrest.4220.desc.not_orowner:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。我是[From.GetRulerTitle][From.GetRulerName]的[From.GetName]我代表[From.From.GetName]的人民发言。\n\n我们最近摆脱了[rebelled_against.GetName]我们是一个年轻的国家，而且仍然是一个容易的目标。掠夺性的权力。我们很多[root.GetSpeciesNamePlural]把[Root.GetName]视为我们真正的祖国。我们很高兴加入你们的国家。"
+ 
+ccrebel_wg_script.3.name:0 "[from.GetName]"
+ccrebel_wg_script.3.desc:0 "在我们与[fromfrom.GetName]的战争成功结束后，脱离他们的[from.GetSpeciesAdj叛军已经脱离并加入了我们的国家。"
+ccrebel_wg_script.4.name:0 "[fromfrom.GetName]"
+ccrebel_wg_script.4.desc:0 "我们一直未能阻止[fromfrom.GetName]脱离[from.GetName]."
+
+ccrebel_wg_script.10.name:0 "[from.GetName]请求我们的帮助!"
+ccrebel_wg_script.10.desc.standard:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。我是[From.GetRulerTitle] [From.GetRulerName]的[From.GetName]我代表[From.From.GetName]的人民说话。\n\n我们中的许多[root.GetSpeciesNamePlural]都认为[Root.GetName]是我们真正的祖国。我们只希望加入你们的国家。然而[rebelled_against.GetName]妨碍了我们。我们已经设法暂时摆脱了他们，但我们担心，没有你的支持，这种情况不会持续下去。你会帮助[root.GetSpeciesNamePlural]为所有的人争取更美好的未来吗?"
+ccrebel_wg_script.10.desc.slave:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。我是[From.GetRulerTitle] [From.GetRulerName]的[From.GetName]我代表[From.From.GetName]的人民说话。\n\n我们是自由战士-前奴隶-来自[rebelled_against.GetName]，在[rebelled_against.GetRulerTitle] [rebelled_against.GetRulerName].的压迫下我们遭受了很多虐待。我们一直很欣赏你们的平等主义标准，"[Root.GetSpeciesAdj]"方式，就像我们在国内所说的那样，我们分享你们的价值观。我们只希望加入你们的国家。然而，[rebelled_against.GetName]阻碍了我们。我们已经设法暂时摆脱了他们，但我们担心，没有你的支持，这种情况不会持续下去。你愿意帮助我们为所有受压迫的人民争取更美好的未来吗?"
+ccrebel_wg_script.10.A:0 "我们当然会帮助他们。准备战争!"
+ccrebel_wg_script.10.A.tooltip:0 "如果[rebelled_against.GetName]被击败或被迫维持现状，[from.GetName]将退出并加入[root.GetName]。"
+ccrebel_wg_script.10.B:0 "我们不渴望战争。"
+
+ccrebel_refused_to_help_rebels:0 "拒绝支持我们"
+
+ccrebel_hard:0 "强制性的国家"
+ccrebel_insane:0 "$very_hard_ai$"
+ccrebel_unrest_hard:0 "动乱:困难"
+ccrebel_unrest_hardest:0 "动乱:困难"
+
+policy_ccrebel_unrest:0 "强有力的叛乱动荡选项"
+policy_ccrebel_unrest_desc:0 "把动乱设定在你想要的程度"
+ccrebel_unrest_default:0 "强烈的反叛行为"
+ccrebel_unrest_default_name:0 "$ccrebel_unrest_default$"
+ccrebel_unrest_default_desc:0 "有奴隶制或净化的非玩家派别将会得到-20次动乱，因为经验表明，这些派系倾向于与强大的叛乱斗争。"
+ccrebel_unrest_vanilla:0 "常规值"
+ccrebel_unrest_vanilla_name:0 "$ccrebel_unrest_vanilla$"
+ccrebel_unrest_vanilla_desc:0 "无加成。"
+ccrebel_unrest_hard:0 "困难模式"
+ccrebel_unrest_hard_name:0 "$ccrebel_unrest_hard$"
+ccrebel_unrest_hard_desc:0 "玩家得到+30动乱，所有AI得到+20动乱。"

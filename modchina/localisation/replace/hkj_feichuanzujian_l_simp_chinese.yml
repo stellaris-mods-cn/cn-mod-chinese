@@ -1,0 +1,224 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # Categories
+ # ###################################
+
+tech_black_tech:0 "黑科技"
+tech_black_tech_desc:0 "黑科技在手，宇宙我有"
+
+tech_black_tech1:0 "黑科技指挥上限扩展"
+tech_black_tech1_desc:0 "扩展指挥上限    +300"
+
+tech_black_tech_repeatable_1:0 "防御黑科技"
+tech_black_tech_repeatable_1_desc:0 "防御站循环黑科技"
+
+tech_black_tech_repeatable_2:0 "舰艇黑科技"
+tech_black_tech_repeatable_2_desc:0 "舰艇循环黑科技"
+
+tech_black_tech_repeatable_3:0 "导弹黑科技"
+tech_black_tech_repeatable_3_desc:0 "导弹循环黑科技"
+
+tech_black_tech_repeatable_4:0 "动能黑科技"
+tech_black_tech_repeatable_4_desc:0 "动能循环黑科技"
+
+tech_black_tech_repeatable_5:0 "战斗机黑科技"
+tech_black_tech_repeatable_5_desc:0 "战斗机循环黑科技"
+
+tech_black_tech_repeatable_6:0 "帝国加强黑科技"
+tech_black_tech_repeatable_6_desc:0 "帝国加强循环黑科技"
+
+tech_black_tech_repeatable_7:0 "能量武器黑科技"
+tech_black_tech_repeatable_7_desc:0 "能量武器循环黑科技"
+
+tech_black_tech_repeatable_8:0 "军队黑科技"
+tech_black_tech_repeatable_8_desc:0 "军队加强循环黑科技"
+
+tech_black_tech_repeatable_9:0 "海军黑科技"
+tech_black_tech_repeatable_9_desc:0 "海军上限及指挥上限循环黑科技"
+
+
+SHISHEN_power_core:0 "宇宙魔方"
+SHISHEN_power_core_DESC:0 "宇宙魔方，拥有近乎无限的能量"
+SHISHEN_SMALL_DC:0 "小型宇宙魔方"
+SHISHEN_MEDIUM_DC:0 "中型宇宙魔方"
+SHISHEN_LARGE_DC:0 "大型宇宙魔方"
+SHISHEN_PLATFORM_POWER:0 "巨型宇宙魔方"
+SHISHEN_TITAN_POWER:0 "泰坦宇宙魔方"
+SHISHEN_COLOSSUS_POWER:0 " 巨像宇宙魔方"
+SHISHEN_ION_CANNON:0 "离子炮宇宙魔方"
+
+SHISHEN_SHIELD1:0 "黑科技护盾"
+SHISHEN_SHIELD1_DESC:0 "黑科技护盾，提供更高的护盾"
+SHISHEN_SMALL_SHIELD1:0 "小型黑科技护盾"
+SHISHEN_MEDIUM_SHIELD1:0 "中型黑科技护盾"
+SHISHEN_LARGE_SHIELD1:0 "大型黑科技护盾"
+
+SHISHEN_Heaven_Armory:0 "黑科技水晶涂层"
+SHISHEN_Heaven_Armory_DESC:0 "黑科技水晶涂层，可增加更高的舰体坚固性"
+SHISHEN_Heaven_Armory_SMALL:0 "小型黑科技水晶涂层"
+SHISHEN_Heaven_Armory_MEDIUM:0 "中型黑科技水晶涂层"
+SHISHEN_Heaven_Armory_LARGE:0 "大型黑科技水晶涂层"
+
+SHISHEN_ARMOR1:0 "黑科技装甲"
+SHISHEN_ARMOR1_DESC:0 "黑科技装甲，提供更优秀的甲强度"
+SHISHEN_SMALL_ARMOR1:0 "小型黑科技装甲"
+SHISHEN_MEDIUM_ARMOR1:0 "中型黑科技装甲"
+SHISHEN_LARGE_ARMOR1:0 "大型黑科技装甲"
+
+SHISHEN_XIUFU:0 "黑科技强化组件"
+SHISHEN_XIUFU_DESC:0 "黑科技强化组件，能够极快的修复损伤,提高船体血量,护甲血量.护盾血量.."
+SHISHEN_XIUFU_1:0 "大型黑科技强化组件"
+SHISHEN_XIUFU_2:0 "黑科技强化组件"
+
+SHISHEN_MISSILE:0 "黑科技掠夺者导弹"
+SHISHEN_MISSILE_DESC:0 "黑科技掠夺者导弹，更加完美的制导导弹"
+SHISHEN_LARGE_MISSILE1:0 "黑科技掠夺者导弹"
+
+SHISHEN_SWARMER_MISSILE:0 "黑科技旋风导弹"
+SHISHEN_SWARMER_MISSILE_DESC:0 "黑科技旋风导弹，齐射而出的大威力导弹，轻松击溃对方点防御体系"
+SHISHEN_SWARMER_MISSILE3:0 "黑科技旋风导弹"
+
+SHISHEN_TORPEDO:0 "黑科技破坏者鱼雷"
+SHISHEN_TORPEDO_DESC:0 "黑科技破坏者鱼雷，具有超强的破坏力，一发入魂"
+SHISHEN_TORPEDO1:0 "黑科技破坏者鱼雷"
+
+SHISHEN_ENERGY_LANCE:0 "黑科技长矛"
+SHISHEN_ENERGY_LANCE_DESC:0 "神为何物?有必要知道?我只知道我拥有黑科技的力量"
+SHISHEN_LARGE_ENERGY1:0 "黑科技长矛"
+
+SHISHEN_Energy Lance 1:0 "黑科技平台光矛"
+SHISHEN_LARGE_ENERGY_1_DESC:0 "专为防御平台设计的黑科技光矛,威力更大,射程更远"
+SHISHEN_LARGE_ENERGY_1:0 "星系守卫"
+
+SHISHEN_Energy Lance 2:0 "黑科技光矛"
+SHISHEN_LARGE_ENERGY_2_DESC:0 "黑科技长矛的弱化版,方便量装."
+SHISHEN_LARGE_ENERGY_2:0 "黑科技光矛"
+
+SHISHEN_BOMBERS:0 "黑科技J-20战斗机"
+SHISHEN_BOMBERS_DESC:0 "一款单座双发动机并具备高隐身性、高态势感知、高机动性等能力的战斗机，灵巧的穿梭敌舰之中，对敌方舰船毁灭性打击"
+
+SHISHEN_ENERGY_TORPEDO2:0 "黑科技中子鱼雷"
+SHISHEN_ENERGY_TORPEDO2_DESC:0 "黑科技能量鱼雷靠中子提供超高破坏力，可以击穿护盾"
+SHISHEN_LARGE_ENERGY_TORPEDO2:0 "黑科技中子鱼雷"
+
+SHISHEN_KINETIC_ARTILLERY2:0 "黑科技动能火炮"
+SHISHEN_KINETIC_ARTILLERY2_DESC:0 "黑科技动能火炮，具有超远距离射程与超强的破坏力"
+SHISHEN_LARGE_KINETIC_ARTILLERY2:0 "黑科技动能炮"
+
+SHISHEN_FLAK_BATTERY2:0 "黑科技高射防空炮"
+SHISHEN_FLAK_BATTERY2_DESC:0 "黑科技高射防空炮，能够更好的防御突击船和导弹"
+SHISHEN_LARGE_FLAK_BATTERY2:0 "黑科技防空高射炮"
+
+SHISHEN_Point Defence_4:0 "黑科技能量防空速射炮"
+SHISHEN_POINT_DEFENCE_4_DESC:0 "超高射速,超远射程,完美追踪,摧毁一切来犯战机,导弹"
+SHISHEN_POINT_DEFENCE_4:0 "黑科技能量防空速射炮"
+
+SHISHEN TITAN:0 "黑科技泰坦光矛"
+SHISHEN_TITAN_DESC:0 "毁灭你能见到的所有全部"
+SHISHEN_TITAN:0 "灭星死光"
+
+SHISHEN DENGLIZI:0 "黑科技泰坦光矛"
+SHISHEN_DENGLIZI_DESC:0 "毁灭你能见到的所有全部"
+SHISHEN_DENGLIZI:0 "灭星死光"
+
+SHISHEN drives:0 "黑科技跃进引擎"
+SHISHEN_JUMP_DRIVE_1_DESC:0 "时间.!?空间.!?那只是弱小者的错误认知"
+SHISHEN_JUMP_DRIVE_1:0 "穿越星空"
+
+SHISHEN AI:0 "黑科技平台电脑"
+SHISHEN_AI_DESC:0 "致敬钢铁侠"
+SHISHEN_AI:0 "贾维斯"
+
+SHISHEN CHUANGANQI:0 "黑科技传感器"
+SHISHEN_CHUANGANQI_DESC:0 "传感器.!?还是传说中的神识.!?"
+SHISHEN_CHUANGANQI:0 "全知全能"
+
+SHISHEN TAITAN DUIDI:0 "黑科技对敌模块"
+SHISHEN_TAITAN_DUIDI_DESC:0 "吾辈面前,绝无敌手"
+SHISHEN_TAITAN_DUIDI:0 "黑洞"
+
+SHISHEN TAITAN JIAQIANG:0 "黑科技增幅模块"
+SHISHEN_TAITAN_JIAQIANG_DESC:0 "手掌乾坤,护我帝国"
+SHISHEN_TAITAN_JIAQIANG:0 "白洞"
+
+SHISHEN_TITAN_BOW:0 "曜日"
+
+SHISHEN_TITAN_MID:0 "逐月"
+
+SHSHEN_TITAN_STERN:0 "追星"
+
+SHISHEN_JUXIANG:0 "夙灭"
+
+ION_CANNON_SHISHEN_CORE:0 "陨落"
+
+SHISHEN_BATTLESHIP_MID_SONGAP1:0 "仙王级航母核心"
+
+SHISHEN_BATTLESHIP_BOW_SONGAP:0 "仙王级破坏器"
+ 
+SHISHEN_BATTLESHIP_MID_SONGAP:0 "仙王级核心"
+
+SHISHEN_TORPEDO_MID:0 "仙王级导弹核心"
+
+SHISHEN_ZHANLIEJIAN_WUQI_1:0 "仙王级毁灭核心"
+ 
+SHISHEN_BATTLESHIP_STERN_SONGAP:0 "仙王级壁垒"
+ 
+SHISHEN_CRUISER_BOW_GOD:0 "神王级破坏器"
+ 
+SHISHEN_CRUISER_MID_GOD:0 "神王级防御核心"
+ 
+SHISHEN_CRUISER_STERN_GOD:0 "神王级攻击壁垒"
+ 
+SHISHEN_DESTROYER_BOW_EMPEROR:0 "帝王级破坏器"
+ 
+SHISHEN_DESTROYER_STERN_EMPEROR:0 "帝王级防御壁垒"
+
+SHISHEN_DIWANJI_HUOPAO:0 "帝王级火炮核心"
+
+SHISHEN_DIWANJI_DAODAN:0 "帝王级导弹核心"
+ 
+SHISHEN_CORVETTE_MID_LORDS:0 "领主级核心"
+ 
+SHISHEN_SONGAP_STATION_SECTION:0 "死星模块"
+
+SHISHEN_GOD_STATION_SECTION:0 "神殿攻击模块"
+
+SHISHEN_HEAVY_MILITARY_STATION:0 "神殿防御模块"
+
+edict_shishen_1: "开端"
+edict_shishen_1_desc: "一切的初始"
+
+edict_shishen_2: "中段"
+edict_shishen_2_desc: "开端之后的发展"
+
+edict_shishen_hkj_6: "宇宙真理"
+edict_shishen_hkj_6_desc: "何为宇宙?"
+
+edict_shishen_hkj_2: "真理"
+edict_shishen_hkj_2_desc: "何为真理?"
+
+edict_shishen_hkj_4: "多元宇宙"
+edict_shishen_hkj_4_desc: "无限扩展的宇宙"
+
+edict_shishen_hkj_1: "神迹"
+edict_shishen_hkj_1_desc: "神?神迹?"
+
+edict_shishen_hkj_3: "量子计算"
+edict_shishen_hkj_3_desc: "突破限制,掌控科技"
+
+edict_shishen_hkj_5: "AI的崛起"
+edict_shishen_hkj_5_desc: "整个宇宙不能只有第四天灾"
+
+allow_edict_shishen_land_clearance_1:0 "§HUnlocks Planetary Edict:§! 扩展星球"
+ describe_edict_shishen_land_clearance_1:1 "§这是一个行星的法令，可以永久增加一个行星的大小，单它只能在行星上执行一次。, 也不能在满格的行星上使用。 (25 tiles).§!"
+ edict_shishen_land_clearance_1:0 "扩展星球"
+ edict_shishen_land_clearance_1_desc:0 "铲平高山,填平深坑,扩展生存空间"
+ shishen_land_clearance_increase_size_25:0 "永久地增加行星的大小 §G25§! 格. 只能在行星上使用一次。"
+ shishen_land_clearance_not_max_size:0 "§星球已达最大,无法继续扩展.§!"
+ shishen_land_clearance_perfection_not_max_size:0 "§该星球已使用一次扩展法令,无法再使用第二次.§!"
+
+
+
+
+

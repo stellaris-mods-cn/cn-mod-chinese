@@ -1,0 +1,163 @@
+﻿l_simp_chinese:
+
+FLAG_CATEGORY_drow:0 "卓尔精灵"
+
+####################################
+# Name Lists
+####################################
+
+name_list_DROW1:0 "卓尔精灵:黑暗精灵"
+name_list_DROW2:0 "卓尔精灵:伊力斯瑞"
+
+####################################
+# System Initializers
+####################################
+drow_system_tulshar_initializer_NAME:0 "伊力斯瑞·图沙尔"
+drow_system_tulshar_initializer_DESC:0 "§L你的人民居住在一个人造世界的最后的生存部分。§!\n\n§R注意:这个开始需要卓尔种族!§!\n\n$system_initializer_DESC$"
+
+drow_system_eilistraee_initializer_NAME:0 "伊莉斯特恩天堂"
+drow_system_eilistraee_initializer_DESC:0 "§L你的人民在两个太阳下的天堂里，已经度过了无数的千禧年。§!\n\n$system_initializer_DESC$"
+
+########################
+### PLANET MODIFIERS ###
+########################
+
+drow_glowing_waters:0 "磷光海洋"
+drow_glowing_waters_desc:0 "海洋中的浮游生物在夜间发出微弱的电磁辐射，发出令人愉快的光芒。"
+
+drow_strong_magnetic_field:0 "强磁场"
+drow_strong_magnetic_field_desc:1 "这个星球有一个异常高的磁场。这将干扰我们的许多仪器和计算机。"
+
+drow_valshaquellar_restored:0 "瓦尔沙奎尔 恢复"
+drow_valshaquellar_restored_desc:0 "瓦尔沙奎拉已经恢复到它的前神的荣耀，在此之前§Y结果§!."
+
+drow_trait_xenocidal_terror:0 "排外恐怖"
+drow_trait_xenocidal_terror_desc:0 "星球上的一部分人口神秘地消失了!当地的§R排外§!人们一致认为这一定是谣言。他们不记得据说有§Y失踪§! 人口住在那里。"
+
+####################################
+# Species Classes
+####################################
+DROW:0 "卓尔精灵"
+DROW_desc:1 "物种类对你的帝国没有影响，但是卓尔物种可能会认为其他的卓尔比其他种类的类更少。"
+DROW_plural:0 "伊力斯瑞"
+DROW_insult_01:0 "恶魔"
+DROW_insult_plural_01:0 "恶魔"
+DROW_compliment_01:0 "天使"
+DROW_compliment_plural_01:0 "天使"
+DROW_spawn:0 "孩子"
+DROW_spawn_plural:0 "孩子"
+DROW_sound_01:0 "咆哮"
+DROW_sound_02:0 "呼噜"
+DROW_sound_03:0 "狂吠"
+DROW_sound_04:0 "号叫"
+DROW_sound_05:0 "欢呼声"
+DROW_organ:0 "胃"
+DROW_mouth:0 "口"
+
+####################################
+# Traits
+####################################
+trait_drow:0 "黑暗精灵"
+trait_drow_desc:0 "§L古代埃达尔的一个分支。他们不再不朽，而是变得很长寿的。§!\n"
+trait_drow_savage:0 "黑暗精灵"
+trait_drow_savage_desc:0 "§L一种古老的埃达尔的分支，认为野蛮是一种艺术形式。§!\n"
+trait_drow_xenocidal:0 "排外"
+trait_drow_xenocidal_desc:0 "§L众所周知，这一物种可以消灭生活在同一个世界上的未受奴役的种族。平等主义者、亲外主义和平主义者尤其容易出现这种§Y事故§!.§!\n"
+trait_darkelfmetabolism:0 "伊力斯瑞的警惕"
+trait_darkelfmetabolism_desc:0 "§L为了维护和平，必须时刻准备着战争。§!\n"
+trait_drowwarrior:0 "卓尔精灵战士"
+trait_drowwarrior_desc:0 "§L军事训练和战斗是生活的中心。§!\n"
+
+####################################
+# Civics 
+####################################
+civic_drow_eilistraee:0 "伊莉斯特恩"
+civic_drow_eilistraee_desc:0 "社会各阶层都鼓励卓尔女神的哲学。和平与秩序通过说服是目标。然而，如果失败了，那就应该用武力来造福所有人。不允许存在无限制的混乱。"
+civic_drow_eilistraee_tooltip_effects:0 ""
+civic_drow_warriors:0 "特卡塔斯"
+civic_drow_warriors_desc:0 "一种通过双重力量和诡计来鼓励成功的哲学。其中一个失败了，另一个就成功了。领导者会不断地密谋，不断地导致学习快速或死亡。缺点是信任几乎不存在。"
+civic_drow_warriors_tooltip_effects:0 ""
+civic_drow_arcane:0 "法尔·塔丘拉"
+civic_drow_arcane_desc:0 "社会分为阶级制度，不是基于遗传，而是心灵能力。灵能精英控制着从公众到私人的每一个重大的努力，并且处于持续不断的战斗状态。"
+
+# New restriction text not in vanilla
+civic_drow_tooltip_not_materialistic:0 "没有§Y唯物主义§!"
+
+####################################
+# Diplomacy
+####################################
+
+personality_tulshar_personality:0 "伊力斯瑞·瓦尔沙伦"
+personality_tulshar_personality_desc:0 "瓦尔沙伦认为所有外星生命形式都只适合于征服。他们是高度进取的，扩张主义的，他们不会认为在他们的道路上消灭任何东西。"
+
+personality_eilistraeean_personality:0 "圣骑士"
+personality_eilistraeean_personality_desc:0 "圣骑士，神圣的骑士，相信这是他们的神圣职责，为银河系带来秩序。如果可能的话，要和平，但必要时用武力。他们因在友谊建立时的忠诚而闻名。"
+
+####################
+### PLANET STUFF ###
+####################
+
+## VALSHAQUELLAR ##
+pc_drow_valshaquellar:0 "瓦尔沙奎尔"
+pc_drow_valshaquellar_desc:0 "一个巨大的人造世界，似乎只支持特定的生命形式。"
+pc_drow_valshaquellar_habitability:0 "瓦尔沙奎尔 出生"
+
+trait_pc_drow_valshaquellar_preference:0 "瓦尔沙奎尔 出生"
+trait_pc_drow_valshaquellar_preference_desc:1 "§L气候偏好是由基因水平决定的，通过创造或巧妙的操作。§!"
+
+pc_drow_valshaquellar_tile:0 "瓦尔沙奎尔地形"
+pc_drow_valshaquellar_tile_desc:0 "瓦尔沙奎尔地形只适合某种形式的生命。"
+
+#################
+### BUILDINGS ###
+#################
+
+drow_building_army_primitive:0 "奎拉林 泽凯勒特的先知"
+drow_building_army_primitive_desc:0 "一种古老的秩序，在需要时被召唤。"
+
+##############
+### ARMIES ###
+##############
+
+drow_primitive_army:0 "噬魂蛛"
+
+#####################
+### TILE BLOCKERS ###
+#####################
+
+tb_drow_toxic_wastelands:0 "有毒的荒地"
+tb_drow_toxic_wastelands_desc:0 "§Y事件§!造成这一地区发展令人作呕的绿色植物和可怕的蓝天。这里没有像样的生活方式。"
+
+####################################
+# Nations 
+####################################
+EMPIRE_DESIGN_drow_civ1:0 "伊莉丝翠之子"
+EMPIRE_DESIGN_drow_civ1_desc:0 "故事说，伊里斯特拉人离开了他们原来的家园，逃离了一个“巨大的恶魔”。在他们的女神伊莉丝翠的指引下，或者仅仅是靠运气，他们找到了一个天堂世界，在那里他们仍然满足了许多千年。\n\n最近，作为一个种族，他们的好奇心被激发了，他们现在又一次仰望星空。这次是传播和平与希望的讯息。使用武力。§!\n"
+
+EMPIRE_DESIGN_drow_tulshar_civ:0 "伊力斯瑞·图沙尔"
+EMPIRE_DESIGN_drow_tulshar_civ_desc:0 "从他们有记录的历史开始以来，伊力斯瑞就一直处于内战状态。直到“事件”。他们的世界大部分在某种灾难中被摧毁，但更重要的是一个发现:他们的世界实际上是一个巨大的人造建筑。最后剩下的帝国迅速控制了剩下的一切，开始了全社会的努力。\n\n现在伊力斯瑞试图了解被遗忘的东西，并为他们的世界的部分毁灭报仇。外星人是否与这件事有关，似乎无关紧要。§!\n"
+
+###################
+### EVENT STUFF ###
+###################
+#[Root.GetName]
+## VALSHAQUELLAR ##
+drow_special.1.name:0 "恢复家园"
+drow_special.1.desc:0 "我们最近在 £society §Y$tech_climate_restoration$§! 方面的进展使我们能够正确地分析[From.From.GetName]的情况。我们仍然不确定是什么导致了§Y事件§!。然而，我们认为，完全恢复不适宜居住的地区所必需的知识现在已在我们掌握之中。"
+drow_special.1.a:0 "值得考虑"
+drow_special.2.desc:0 "我们已成功地恢复了[From.From.GetName]，再现了之前的荣耀\n\n修复的部分已经准备好了!"
+drow_special.2.a:0 "荣耀帝国! !"
+DROW_VALSHAQUELLAR_REPAIR_PROJECT:0 "恢复家园"
+DROW_VALSHAQUELLAR_REPAIR_PROJECT_DESC:0 "要想恢复昔日辉煌的巨大栖息地，就必须投入大量资金。一旦修复，以前无法使用的部分最终会变得适合居住。"
+
+####################
+### STAR CLASSES ###
+####################
+
+sc_drow_binary_1:1 "$sc_binary_1$"
+sc_drow_binary_2:1 "$sc_binary_1$"
+sc_drow_binary_3:1 "$sc_binary_1$"
+sc_drow_trinary_1:1 "$sc_trinary_1$"
+sc_drow_trinary_2:1 "$sc_trinary_1$"
+sc_drow_quaternary_1:1 "Quaternary Stars"
+sc_drow_quaternary_2:1 "Quaternary Stars"

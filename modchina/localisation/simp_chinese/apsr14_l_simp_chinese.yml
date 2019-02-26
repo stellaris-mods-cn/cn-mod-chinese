@@ -1,0 +1,215 @@
+﻿l_simp_chinese:
+
+
+ 
+ ### ресурс
+ 
+ apsr14_planet_modifier:0 "银河度假村"
+ apsr14_planet_modifier_desc:0 "在纳米机器的帮助下创造了一个放松的好地方"
+ 
+ apsr14_deposit:0 "$apsr14_planet_modifier$"
+ apsr14_deposit_desc:0 "$apsr14_planet_modifier_desc$\n\n§M$apsr14_deposit_effect$§!" 
+ apsr14_deposit_effect:0 "独特的资源可用: $apsr14_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr14_building_part_b1_text:0 "营地让我们的领导人休息"
+ 
+ apsr14_building_part_b2_text:0 "为我们的领导人提供特别便利的娱乐中心"
+ 
+ apsr14_building_part_b3_text:0 "一切皆有可能的地方"
+ 
+ 
+ apsr14_building_part_m1_text:0 "生产本地纳米机器人副本并对其编程的工厂"
+ 
+ apsr14_building_part_m2_text:0 "自动复制和编程使我们能够增加纳米机器人的可用容量"
+ 
+ apsr14_building_part_m3_text:0 "一个大问题是，纳米机器人的复制和编程"
+ 
+ 
+ apsr14_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr14_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr14_building_part_b1:0 "休息营地"
+ apsr14_building_part_b1_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_b1_text$"
+ 
+ apsr14_building_part_b2:0 "娱乐中心"
+ apsr14_building_part_b2_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_b2_text$"
+ 
+ apsr14_building_part_b3:0 "银河度假村"
+ apsr14_building_part_b3_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_b3_text$"
+ 
+  
+ apsr14_building_part_m1:0 "纳米机器人工厂"
+ apsr14_building_part_m1_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m1_text$"
+ 
+ apsr14_building_part_m2:0 "纳米机器人复制因子"
+ apsr14_building_part_m2_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m2_text$"
+ 
+ apsr14_building_part_m3:0 "纳米技术"
+ apsr14_building_part_m3_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m3_text$"
+ 
+  
+ 
+ ### фейк-здания
+  
+ apsr14_building_part_b1_fake:0 "$apsr14_building_part_b1$"
+ apsr14_building_part_b1_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_b1_text$"
+ 
+ apsr14_building_part_b2_fake:0 "$apsr14_building_part_b2$"
+ apsr14_building_part_b2_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_b2_text$"
+ 
+ apsr14_building_part_b3_fake:0 "$apsr14_building_part_b3$"
+ apsr14_building_part_b3_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_b3_text$"
+ 
+  
+ apsr14_building_part_m1_fake:0 "$apsr14_building_part_m1$"
+ apsr14_building_part_m1_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_m1_text$"
+ 
+ apsr14_building_part_m2_fake:0 "$apsr14_building_part_m2$"
+ apsr14_building_part_m2_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_m2_text$"
+ 
+ apsr14_building_part_m3_fake:0 "$apsr14_building_part_m3$"
+ apsr14_building_part_m3_fake_desc:0 "$apsr14_building_fake_predesc$\n$apsr14_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr14_building_part_b1:0 "度假胜地"
+ tech_apsr14_building_part_b1_desc:0 "建设的§Y度假胜地§!为我们的领导人提供娱乐场所"
+ 
+ tech_apsr14_building_part_b2:0 "娱乐中心"
+ tech_apsr14_building_part_b2_desc:0 "为我们的领导人提供一个更加现代化和可制造的度假胜地"
+ 
+ tech_apsr14_building_part_b3:0 "安塔尔香料"
+ tech_apsr14_building_part_b3_desc:0 "这种物质，发现在§Y娱乐中心§!，显着增加细胞的再生，不同寻常地适应身体"
+ 
+ 
+ tech_apsr14_building_part_m1:0 "使用纳米机械"
+ tech_apsr14_building_part_m1_desc:0 "在有机物称为§Y银河度假村§!的地方发现的纳米机器人可以被重新制造，并编程来构建我们的机械身体"
+ 
+ tech_apsr14_building_part_m2:0 "复制纳米机器人"
+ tech_apsr14_building_part_m2_desc:0 "有了自动复制和编程设置，我们将增加纳米机器人的可用容量"
+ 
+ tech_apsr14_building_part_m3:0 "大规模生产纳米机器人"
+ tech_apsr14_building_part_m3_desc:0 "大规模生产纳米机器人将使我们能够将它们用于我们的机械定居点"
+  
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.14001.title:0 "$apsr14_building_part_b1$ 建成"
+ apsr.14001.desc:0 "在这里，你可以从问题中解脱出来，放松一下——这正是我们的领导人所缺乏的。更准确地说，习惯了缺少直到这一刻。现在我们有了§Y$apsr14101$§!，剩下的领导人将会延长他们的寿命。"
+ apsr.14001.ok-button:0 "非常棒"
+ 
+ apsr.14002.title:0 "$apsr14_building_part_b2$ 建成"
+ apsr.14002.desc:0 "在听取了领导人的意见和建议后，我们扩大和完善了§Y度假胜地§!。现在你们可以在这里放松，享受极大的舒适和快乐，这意味着我们领导人的生命将得到延长。"
+ apsr.14002.ok-button:0 "非常棒"
+ 
+ apsr.14003.title:0 "$apsr14_building_part_b3$ 建成"
+ apsr.14003.desc:0 "我们的§Y娱乐中心§!已经现代化，§P安塔尔香料§!的生产已经建立。我们的领导人可以享受这个地方的好处，增加他们身体的耐力，延长他们的寿命。现在这地方真是个§Y银河度假村§!。"
+ apsr.14003.ok-button:0 "一个真正的伊甸园"
+ 
+ apsr.14004.title:0 "$apsr14_building_part_m1$ 建成"
+ apsr.14004.desc:0 "这个地方的纳米机器人有一个非常有趣的结构。利用它们的特性，我们提高了复制因子的生产率，加快了聚落的组装速度"
+ apsr.14004.ok-button:0 "有趣"
+ 
+ apsr.14005.title:0 "$apsr14_building_part_m2$ 建成"
+ apsr.14005.desc:0 "纳米机器人的自动复制和编程过程。定居点的建设速度显著提高"
+ apsr.14005.ok-button:0 "有趣"
+ 
+ apsr.14006.title:0 "$apsr14_building_part_m3$ 建成"
+ apsr.14006.desc:0 "大规模生产纳米机器人让我们能够更快地建造机械定居点!"
+ apsr.14006.ok-button:0 "有趣"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.14011.title:0 "发现人造物: §M$apsr14_planet_modifier$§!"
+ apsr.14011.desc.bio:0 "由§H[Root.GetLeaderName]§!领导的科学船§H[Root.GetName]§!的一个研究小组报告说，他们发现了一个银河度假胜地。\n在这个地方有一个有机生命形式的完美环境。我们进行了一项研究，发现这种环境是由特殊类型的纳米机器人来调节的。不知什么原因，我们无法控制他们，但我们可以把这个地方作为我们领导人的度假胜地。"
+ apsr.14011.desc.mech:0 "一个研究小组来自科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!的消息。据报道，他们发现了一种不寻常的纳米机器人。 \n当然，我们已经能够制造纳米机器人了，但这些纳米装配器似乎是纳米设计的一个真正的新前沿。问题是它们是在分子水平上被创造和复制的，可能是用来转化物质来娱乐一些有理性思维的有机物，但现在我们可以让它们适应机械体的构造。 \n我们还发现了一个非常适合娱乐的地方，但是使用它并没有什么好处。"
+ apsr.14011.button:1 "难以置信"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.14013.title:0 "发现人造物: §M$apsr14_planet_modifier$§!"
+ apsr.14013.desc.bio:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n在这个地方有一个有机生命形式的完美环境。我们进行了一项研究，发现这种环境是由特殊类型的纳米机器人来调节的。不知什么原因，我们无法控制他们，但我们可以把这个地方作为我们领导人的度假胜地。"
+ apsr.14013.desc.mech:0 "在最近被占领的一颗行星上发现了一个纳米机器人工厂。 \n当然，我们已经能够制造纳米机器人了，但这些纳米组装者似乎是纳米设计的一个全新前沿。问题是它们是在分子水平上被创造和复制的，可能是用来转化物质来娱乐一些理性的有机物，但从现在开始我们可以将它们用于构造机械体。 \n我们也找到了一个非常适合娱乐的地方，但是没有一个好的理由去使用它。"
+ apsr.14013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.14015.title:0 "发现人造物: §M$apsr14_planet_modifier$§!"
+ apsr.14015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n有机生命形式的理想条件是在其中一颗行星上创造的。这些文件表明，造成这种情况的原因是特殊的纳米机器人。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr14_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr14_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr14_resource_planet.Owner.GetName]"
+ apsr.14015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr14_special:0 "$apsr14_planet_modifier$"
+ apsr14_special_desc:0 "$apsr14_planet_modifier_desc$"
+ 
+ APSR14_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR14_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr14_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr14_anomaly:0 "$apsr1_anomaly$"
+ apsr14_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.14601.title:0 "$apsr.14011.title$"
+ apsr.14601.desc:0 "$apsr.14011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr14_planet_stuff_normal:0 "银河度假村经理"
+ job_apsr14_stuff_normal:0 "银河度假村经理"
+ job_apsr14_stuff_normal_plural:0 "银河度假村经理"
+ job_apsr14_stuff_normal_desc:0 "任何类型的假期，你只能想象在任何条件下，任何时期，银河度假村经理可以帮助你"
+ mod_job_apsr14_stuff_normal_add:0 "银河度假村经理"
+   
+ apsr14_planet_stuff_hive:0 "康复工蜂"
+ job_apsr14_stuff_hive:0 "康复工蜂"
+ job_apsr14_stuff_hive_plural:0 "康复工蜂"
+ job_apsr14_stuff_hive_desc:0 "工蜂的物理外壳有时需要修复才能恢复，这种生物可以找到最佳的方法"
+ mod_job_apsr14_stuff_hive_add:0 "康复工蜂"
+   
+ apsr14_planet_replicator_machine:0 "复制单元 v.2.0"
+ job_apsr14_replicator_machine:0 "复制单元 v.2.0"
+ job_apsr14_replicator_machine_plural:0 "复制单元 v.2.0"
+ job_apsr14_replicator_machine_desc:0 "在这个星球的理想条件下，无人机复制器的改进版本达到了令人难以置信的工作速度"
+ mod_job_apsr14_replicator_machine_add:0 "复制单元 v.2.0"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

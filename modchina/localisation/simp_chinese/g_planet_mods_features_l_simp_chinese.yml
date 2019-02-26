@@ -1,0 +1,387 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Tileblockers
+ ###################################################
+ 
+ # Natural Wonders Tileblockers #
+ ################################
+ # 1 nw
+ gpm_tb_Gargantuan_Sinkhole:0 "£gpm_planet_wonder  §E巨大的深坑§!"
+ gpm_tb_Gargantuan_Sinkhole_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n一个巨洞延伸到星球的最深处，尽管我们不知道究竟有多深。这个神秘的地形年代久远，却又坚固而完整。我们的科学家急于研究它的构成和矿物排列规则。最初的读数指向一个巨大的地下通道网络，非常适宜采矿活动。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 2 nw
+ gpm_tb_Discharging_Field:0 "£gpm_planet_wonder  §E强放电场§!"
+ gpm_tb_Discharging_Field_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n奇怪的石制建筑覆盖在这片土地的大部分区域，它不规律地释放出危险的电力。任何导致产生放电现象的东西或者石制建筑的导电材料都超出了我们的理论知识。对这些异常现象的研究可以进一步加速物理学的发展。而且，不断变化的磁场似乎也能激发大多数电子设备。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 3 nw
+ gpm_tb_Giant_Trees:0 "£gpm_planet_wonder  §E参天巨木§!"
+ gpm_tb_Giant_Trees_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n像山一样粗壮的树干和植入地下的根部形成了的复杂的网格系统，每一颗巨树都能容纳完整的生态系统。尽管地表扫描数据表明这一物种在过去的行星中分布很广，但我们至今没有找到较小的样本。我们的科学家无法估计出这些巨树年龄。我们的科学家饶有兴趣地对样本进行生物研究，调查它的活动规律。散落在周围土壤的粉尘有类似化合物的特征。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 4 nw
+ gpm_tb_Crystal_Jungle:0 "£gpm_planet_wonder  §E水晶丛林§!"
+ gpm_tb_Crystal_Jungle_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n在这些茂密的丛林中可以发现丰富的矿物从植被中伸展出来，就像是丛林的废品一样。最初的研究表明，这些水晶是吸引生物的手段，有助于植被的传播，而不同的晶体似乎吸引不同的物种。工程师专家组已经预测了许多应用于矿物提取和晶体生成的机制。在丛林周围的环境中可以找到层层矿床，而这些奇特的植物在这里代代相传。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 5 nw
+ gpm_tb_Floating_Islands:0 "£gpm_planet_wonder  §E漂浮的大陆§!"
+ gpm_tb_Floating_Islands_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n在稀薄的大气中漂浮着一个静止的大陆，它被未知的力量悬浮着。重力读数是稳定的，尽管有些材料在大陆附近有异常现象。我们强烈建议进一步研究来提高我们的物理模型。在漂浮的大陆环境中，亚原子的运动似乎可以产生更多的能量。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 6 nw
+ gpm_tb_Amoeba_Sea:0 "£gpm_planet_wonder  §E变形虫之海§!"
+ gpm_tb_Amoeba_Sea_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n巨大的紫色海洋覆盖着这个星球的的水域，这是数十亿微生物汇集在一起来生存和繁殖的结果。海水被囚禁在动态的细胞结构中，在细菌体内形成巨大而复杂的营养网络，与其他海洋生物互惠共生，相互捕食。认真调查研究被证明是非常明智的，对周围岛屿土壤样本的调查让我们发现了丰富而独特和高肥沃度的生化物质，据报道这是变形虫代谢的副产品。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 7 nw
+ gpm_tb_Glass_Towers:0 "£gpm_planet_wonder  §E玻璃高塔§!"
+ gpm_tb_Glass_Towers_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n巨大的水晶塔状建筑高耸入云，直达天际，白昼时五彩斑斓的光芒洒满大地，而黑夜时则发出不祥的光亮。它的外部结构是高度防水的，而这个设计的原理却鲜为人知。尽管猛烈的暴风雪经常侵袭这一景观，但没有任何一块玻璃粉碎或者变形。不管形成这个塔的高强度材料是什么，据说都与中微子有关，它们很可能帮助我们在工程学领域得到飞跃式发展。周围环境的矿物调查表明，冰川下的冰层深处也蕴含类似的化合物。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 8 nw
+ gpm_tb_Howling_Peaks:0 "£gpm_planet_wonder  §E嚎风山巅§!"
+ gpm_tb_Howling_Peaks_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n空洞而无趣的山脉在持续的强风中回荡和嚎叫。从几英里外就能听到低沉的声音，如果你靠近的话，高亢的声响便会震耳欲聋。这些反射也产生电磁和引力波，更有趣的是。这种现象为何会造成时空扭曲还有待研究。不过理论上它可以改善附近的能源发电的适应性。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 9 nw
+ gpm_tb_Mega_Fungi:0 "£gpm_planet_wonder  §E巨大真菌§!"
+ gpm_tb_Mega_Fungi_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n分布在这个星球上的巨大的有机体，生长着多个孢子的凸出物，这些凸起可以提供有限和缓慢的运动能力。在探险中人们观察到这个奇怪的行为，如果它的任何部分被侵犯，它似乎在数个小时内就会收回凸起物。它会积极但缓慢地寻找我们的科学家留下的食物。它们的网络神经活动的不太频繁，但目前这些机理还没有退化掉。如果附近有足够的研究设施，我们就能更加了解这种真菌。在探险的过程中，它也被视作一种极好的食物。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 10 nw
+ gpm_tb_Energy_Storm:0 "£gpm_planet_wonder  §E能量风暴§!"
+ gpm_tb_Energy_Storm_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n肆虐的能量风暴袭击了这个田园般的星球，在无数的恶性循环中旋转和咆哮。它们的位置是众所周知的，它似乎没有像普通的风暴一样在星球上移动，有强有力的证据表明这些异常现象在无法估计的岁月中固定的。经过我们大胆的科学实验，从它们身上发现了各种放射性能量模式。这是我们的科学家所遇到的最伟大的现象之一，科研部门感到万分震惊并急迫地要求进一步调查。根据初步研究，这种奇怪的能量波极大地改善了周围区域的工作效率，无论是对有机还是无机的工人。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 11 nw
+ gpm_tb_Titanic_Cave:0 "£gpm_planet_wonder  §E巨型洞穴§!"
+ gpm_tb_Titanic_Cave_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n尽管不适合建造或者开采，这些罕见的洞穴为探索行星内部活动和稀有矿物地质提供了一条极好的途径，在深处我们发现了大量的矿物结构，极大提高了我们对岩石天体的了解。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 12 nw
+ gpm_tb_Abandoned_Stargate:0 "£gpm_planet_wonder  §E废弃的星门§!"
+ gpm_tb_Abandoned_Stargate_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n一种使用未知技术建造的神秘门扉。虽然机能已经停止，但不规则的空间扭曲还是在附近随机出现，导致这个区域非常危险，不适合进行建设。不过保持在安全的距离外，这些异常现象可以帮助物理学取得相当大的进展。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 13 nw
+ gpm_tb_Bioluminescent_Forest:0 "£gpm_planet_wonder  §E发光的森林§!"
+ gpm_tb_Bioluminescent_Forest_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n白天，一片宁静的平原。当阳光褪去，从植物到动物，全部的一切都使得森林变成了绚丽多彩的灯光。来自这片森林的生物发光组织样本显示出独特的化合特性，与其他已知的发光生物不同，一些动物似乎已经发展出基于光的复杂交流模式，甚至还会定时闪光和变换颜色。这些差异化的特征非常有利于生物研究。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 14 nw
+ gpm_tb_Land_Reefs:0 "£gpm_planet_wonder  §E地表礁群§!"
+ gpm_tb_Land_Reefs_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n不断生长的矿物上覆盖着不同寻常的微生物。这些矿石成为了这些微生物的避风港，季风带来了构成礁体所需的元素。这些坚固的礁石只要我们少量开采就会成为一种可供我们使用的再生矿物资源。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 15 nw
+ gpm_tb_Lava_Lake:0 "£gpm_planet_wonder  §E熔岩之湖§!"
+ gpm_tb_Lava_Lake_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n不同寻常的大量熔岩遍布在星球大部分地方，形成了喷出有毒气体的熔岩湖。岩浆内部的地热活动十分活跃，使这些区域周围非常适合发电。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+
+ # 16 nw
+ gpm_tb_Collapsed_Habitat:0 "£gpm_planet_wonder  §E崩塌的栖息地§!"
+ gpm_tb_Collapsed_Habitat_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n巨大的残骸覆盖在星球上广阔的区域。这里从前是外星人的栖息地，而有关它的起源还毫无线索，它的技术不同于任何其他已知的栖息地项目。尽管这些神秘标本的产物超出了我们所了解的生物学知识范围，但重要的是，在残骸周围的区域却种植着大量的高营养作物。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+ 
+ # 17 nw
+ gpm_tb_Dangerous_Hives:0 "£gpm_planet_wonder  §E危险的蜂巢§!"
+ gpm_tb_Dangerous_Hives_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n成群的凶恶生物被安放在这些简陋的建筑物里。这些群体覆盖在这个星球的大部分地区并形成庞大的蜂巢网络。在我们的登陆部队下去之前，我强烈建议先进行轨道轰炸。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+ 
+ # 18 nw
+ gpm_tb_Forgotten_Deposit:0 "£gpm_planet_wonder  §E遗忘之地§!"
+ gpm_tb_Forgotten_Deposit_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n这些巨大的设施最初被称为“核庇护所”，如今早已被人们遗忘。虽然大部分的自动化设施仍在运作，但没有找到过去所有者的踪迹。它含有大量的超重化学元素并保存在一种奇怪技术控制的大型容器中，仿佛时间被冻结了一样。遗憾的是，高放射性物质从这个设施的损坏区域泄露了数百年。那些保存下来的元素具有不可估量的稀缺性，极其难以合成。此外，目前的抑制技术几乎不能减缓研究罐外的元素衰减。尽管没有商业价值，但如果我们在周围中设立合适的研究实验室，这对各个知识领域都是极具开创性的实验。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+ 
+ # 19 nw
+ gpm_tb_Ruined_Arcology:0 "£gpm_planet_wonder  §E破灭的理想乡§!"
+ gpm_tb_Ruined_Arcology_desc:0 "§H星球奇观§!£gpm_planet_wonder  是非常罕见的行星地块，它可以为相邻的区域提供大量加成。\n\n这是一座曾经辉煌无比城市，这些巨大的废墟曾代表了可持续建筑的顶峰造诣。各种生态建筑学的领域都是在那被遗忘的时代发展起来的，从最深处的采矿到核心发电，再到上层的分层农业。残存下来的设施得以保存并可以修复，这将大大辅助我们的生产。\n\n§H星球改造§!将§R永久移除§!这个奇观。"
+ 
+ # Standard planetary blockers #
+ ###############################
+ gpm_tb_Toxic_Gas:0 "有毒气体"
+ gpm_tb_Toxic_Gas_desc:0 "巨大的有毒气体云，轻轻地漂浮在这个区域。在这里生活就是自杀。"
+
+ gpm_tb_Locust_Plagues:0 "破坏昆虫"
+ gpm_tb_Locust_Plagues_desc:0 "这些生物不仅看起来比其他任何昆虫都可怕得多，而且似乎对任何有叶子的东西都有无尽的胃口。要除掉这些东西，光靠火是不够的!去掉这些是可取的。"
+ 
+ gpm_tb_Seasonal_Flooding:0 "冲积平原"
+ gpm_tb_Seasonal_Flooding_desc:0 "这些土地周期性地泛滥，以至于在这里定居都是不明智的。强烈建议开发土地和毗邻的河流，并提供洪水堤和墙阻止水淹没一切。"
+
+ gpm_tb_xenomorph_blocker:0 "£blocker£ 漫游异形"
+ gpm_tb_xenomorph_blocker_desc:0 "一群贪婪的生物工程恐怖分子由牙齿、爪子和本能的杀戮欲望组成。"
+
+ gpm_tb_ringworld_blocker:0 "£blocker£ 毁坏的基础设施"
+ gpm_tb_ringworld_blocker_desc:0 "$d_tomb_world_wasteland_desc$"
+
+ # Standard planetary features #
+ ###############################
+ 
+ gpm_tb_Ruined_Battlefield:0 "战场遗址"
+ gpm_tb_Ruined_Battlefield_desc:0 "无尽的遗迹点缀着表面。旗帜，原始和非原始武器以及大量尸体。这些遗骸显示了一场残酷血腥的战争，双方都有伤亡。看来不可能知道谁赢了。也许最好给他们一个合适的葬礼。"
+ 
+ gpm_tb_Spaceship_Graveyard:0 "坠毁的宇宙飞船"
+ gpm_tb_Spaceship_Graveyard_desc:0 "一个巨大的太空船外壳，半埋在陆地上，覆盖了大部分陆地。它似乎在这里坠毁了几百年，如果不是几千年前的话。大多数的技术已经被元素破坏了，但是也许还有一些东西需要学习。"
+ 
+ gpm_tb_Android_Pleasure_Palace:0 "机器人游乐宫"
+ gpm_tb_Android_Pleasure_Palace_desc:0 "这里矗立着一座维护得很好的老建筑。它似乎很活跃，一些人说他们可以看到里面各种机器人类人机器人在互相做奇怪的事情。"
+  
+ gpm_tb_Unusual_Formations:0 "不寻常的构造"
+ gpm_tb_Unusual_Formations_desc:0 "这里可以发现巨大的、数量众多的奇特的自然地质形状。这些地层的大小和形状在某些地区似乎相当一致。"
+  
+ gpm_tb_Ice_Flora:0 "冰植物"
+ gpm_tb_Ice_Flora_desc:0 "柔和的蓝白色花和树点缀着风景。令人惊讶的是，它们如何能在如此寒冷的天气中存活下来，然而它们却在这里。树叶似乎有一种半晶状的结构，能使阳光柔和地折射，在表面投射出奇异美丽的色彩。"
+ 
+ gpm_tb_Planetwide_Forest:0 "无尽森林"
+ gpm_tb_Planetwide_Forest_desc:0 "放眼望去，是一片辽阔的森林。伸展和生长在万物之上，包括河流和山脉。可能很容易迷失在林海中…"
+ 
+ gpm_tb_Dense_Forests:0 "茂密森林"
+ gpm_tb_Dense_Forests_desc:0 "浓密高耸的树冠挡住了整个天空。由于受到保护，在这些覆盖着地表的树下可以发现大量不同寻常的动植物。"
+ 
+ gpm_tb_Proto_Forests:0 "原始森林"
+ gpm_tb_Proto_Forests_desc:0 "小型早期进化形式的自由传播景观。这是一个奇怪的景象，但不知何故却很平静。"
+ 
+ gpm_tb_Temple_of_the_Ancient_One:0 "古代神庙"
+ gpm_tb_Temple_of_the_Ancient_One_desc:0 "这里矗立着一座巨大的石凿寺庙。被遗弃和过度生长的它仍然有来自火或火盆之类东西的光线。谁知道这座寺庙是用来干什么的。"
+ 
+ gpm_tb_Arachnophobia:0 "巨大蛛形纲动物"
+ gpm_tb_Arachnophobia_desc:0 "暂时假设一个世界和我们的世界非常相似。除了蜘蛛可以长到12英尺长，繁殖非常多，擅长躲藏，而且经常成群结队地攻击。 \n-L.L."
+ 
+ gpm_tb_Dunes:0 "沙丘"
+ gpm_tb_Dunes_desc:0 "沙子，更多的沙子，沙滩上到处都是。这些沙丘一直延伸到视野所及的地方，在天空中高耸入云。我们需要作出一些努力来稳定世界上这些地区，然后才能利用这些地区来解决问题。"
+ 
+ gpm_tb_Mushroom_Forest:0 "蘑菇森林"
+ gpm_tb_Mushroom_Forest_desc:0 "巨大的蘑菇森林覆盖着地面。它们相对比较软，应该不需要花时间就可以去掉。不过，它们巨大的蘑菇状顶部确实提供了一点不错的遮阳效果。"
+ 
+ gpm_tb_Oasis:0 "绿洲"
+ gpm_tb_Oasis_desc:0 "这个与世隔绝的地区，被温暖的泉水所包围，是一个郁郁葱葱、杂乱无章的生态系统的家园。"
+ 
+ gpm_tb_Floating_Rocks:0 "漂浮岛屿"
+ gpm_tb_Floating_Rocks_desc:0 "这个星球上的一些矿物或物质使巨大的岩石漂浮在空中，形成漂浮的岛屿，在离地面几十到几百英尺的地方盘旋。"
+  
+ gpm_tb_Ancient_Temple:0 "古老寺庙"
+ gpm_tb_Ancient_Temple_desc:0 "一座古老的寺庙，供奉着久远的过去。"
+
+ gpm_tb_Small_Wildlife:0 "小型野生动物群体"
+ gpm_tb_Small_Wildlife_desc:0 "一群四处游荡的小型野生动物。"
+
+ gpm_tb_Massive_Wildlife:0 "大量野生动物群体"
+ gpm_tb_Massive_Wildlife_desc:0 "一群庞大的野生动物在漫游。"
+
+ gpm_tb_Super_Volcano:0 "超级火山"
+ gpm_tb_Super_Volcano_desc:0 "热活火山主要隐藏在上次喷发的层层物质之下。"
+
+ gpm_tb_Obsidian_Fields:0 "黑曜石场"
+ gpm_tb_Obsidian_Fields_desc:0 "一片广阔的土地，散布着奇怪的黑曜岩地层。"
+
+ gpm_tb_Magnetic_Mountains:0 "磁山"
+ gpm_tb_Magnetic_Mountains_desc:0 "这座山的致密矿物使它具有超强的磁性。"
+
+ gpm_tb_Magnetic_Fields:0 "磁场"
+ gpm_tb_Magnetic_Fields_desc:0 "土壤中的矿物质浓缩了星球的一些自然磁能，并使其具有磁性。"
+
+ gpm_tb_Rich_Crater:0 "丰富的火山口"
+ gpm_tb_Rich_Crater_desc:0 "这个陨石坑里埋藏着一颗矿物丰富的小行星的残骸。"
+
+ gpm_tb_Surface_Mineral_Veins:0 "矿物山脉"
+ gpm_tb_Surface_Mineral_Veins_desc:0 "由于地质活动，这里出现了许多矿脉。"
+
+ gpm_tb_Dense_Metal_Veins:0 "致密金属矿脉"
+ gpm_tb_Dense_Metal_Veins_desc:0 "地下深处的金属矿脉已经在这里出现了数百万年。"
+
+ gpm_tb_Iron_Mountain:0 "铁山"
+ gpm_tb_Iron_Mountain_desc:0 "来自星球核心的碎片穿过地表形成了一座山，这一过程星球了地球大部分的寿命。"
+
+ gpm_tb_Floating_Island:0 "漂浮岛屿"
+ gpm_tb_Floating_Island_desc:0 "不寻常的重力异常使这部分地表悬浮在空中。"
+
+ gpm_tb_Floating_Mountain:0 "漂浮的山"
+ gpm_tb_Floating_Mountain_desc:0 "奇怪的磁场和重力与山脉矿物的相互作用导致它漂浮在地球表面。"
+
+ gpm_tb_Carnivorous_Jungle:0 "丛林肉食"
+ gpm_tb_Carnivorous_Jungle_desc:0 "这片丛林里的大多数植物都喜欢吃肉。"
+
+ gpm_tb_Carnivorous_Forest:0 "肉食性森林"
+ gpm_tb_Carnivorous_Forest_desc:0 " 这片森林里的大多数植物都喜欢吃肉。"
+
+ gpm_tb_Carnivorous_Kelp:0 "食肉海带"
+ gpm_tb_Carnivorous_Kelp_desc:0 "奇怪的海带迅速包裹住祈祷并把它吃掉。"
+
+ gpm_tb_Magma_Ocean:0 "岩浆海洋"
+ gpm_tb_Magma_Ocean_desc:0 "地壳的一个大开口形成了一个永久的岩浆海洋."。
+
+ gpm_tb_Toxic_Vent:0 "有毒气体"
+ gpm_tb_Toxic_Vent_desc:0 "地表喷口喷出有毒气体。"
+
+ gpm_tb_Colossal_Subterranean_Cavern:0 "巨大地下洞穴"
+ gpm_tb_Colossal_Subterranean_Cavern_desc:0 "超致密的岩石使地表下形成了一个巨大的洞穴，而不会塌陷。"
+
+ gpm_tb_Titanic_Hunting_Ground:0 "泰坦狩猎场"
+ gpm_tb_Titanic_Hunting_Ground_desc:0 "成群的大型生物在陆地上漫游。"
+
+ gpm_tb_Unnatural_Crystals:0 "不自然晶体"
+ gpm_tb_Unnatural_Crystals_desc:0 "奇怪的多色晶体在没有矿物存在的地方形成。"
+
+ gpm_tb_Ancient_Battlefield:0 "古战场"
+ gpm_tb_Ancient_Battlefield_desc:0 "很久以前一场战争的遗迹。"
+
+ gpm_tb_Buried_Remains:0 "埋藏物"
+ gpm_tb_Buried_Remains_desc:0 "泰坦战役中被埋葬的遗骸。"
+
+ gpm_tb_Crashed_Fighter:0 "坠毁的战斗机"
+ gpm_tb_Crashed_Fighter_desc:0 "一艘战斗机型飞船坠毁的残骸。"
+
+ gpm_tb_Crashed_Destroyer:0 "坠毁的驱逐舰"
+ gpm_tb_Crashed_Destroyer_desc:0 "一艘驱逐舰大小的失事船只的残骸。"
+
+ gpm_tb_Crashed_Battleship:0 "坠毁的战舰"
+ gpm_tb_Crashed_Battleship_desc:0 "被撞毁的战舰已经在这里停泊了几百年。"
+
+ gpm_tb_Crashed_Capital_Ship:0 "坠毁的主力舰"
+ gpm_tb_Crashed_Capital_Ship_desc:0 "一艘巨大的主力舰很久以前在这里坠毁了。"
+
+ gpm_tb_Crystal_Hills:0 "水晶山"
+ gpm_tb_Crystal_Hills_desc:0 "连绵起伏的山丘上覆盖着水晶。"
+
+ gpm_tb_Colossal_Fish:0 "巨大的鱼"
+ gpm_tb_Colossal_Fish_desc:0 "巨大的鱼群。"
+
+ gpm_tb_Sprawling_Archipelago:0 "庞大群岛"
+ gpm_tb_Sprawling_Archipelago_desc:0 "几个小岛聚集在一起。"
+
+ gpm_tb_Spice_Fields:0 "香料领域"
+ gpm_tb_Spice_Fields_desc:0 "广阔领域豪华香料。"
+
+ gpm_tb_Geometric_Oddities:0 "几何奇异"
+ gpm_tb_Geometric_Oddities_desc:0 "突然发生的地质活动使一些地形发生了奇怪的变化。"
+
+ gpm_tb_garbage_patch:0 "垃圾带"
+ gpm_tb_garbage_patch_desc:0 "一个灭绝的文明留下的未经处理的大垃圾堆。"
+
+ gpm_tb_Industrial_Ruins:0 "工业遗址"
+ gpm_tb_Industrial_Ruins_desc:0 "山谷中到处是废弃的工业废墟。"
+
+ gpm_tb_Radioactive_Dump:0 "放射性废料"
+ gpm_tb_Radioactive_Dump_desc:0 "这里的一个工业设施装满了放射性废料。"
+
+ gpm_tb_Ice_Flower_Field:0 "冰花领域"
+ gpm_tb_Ice_Flower_Field_desc:0 "这些花奇特的生物化学特性使它们能够在零下的温度下生长，同时内部温度保持在略高于冰点的水平。"
+
+ gpm_tb_White_Forest:0 "白森林"
+ gpm_tb_White_Forest_desc:0 "这些树产生一种奇怪的树皮状润滑剂，完全覆盖它们，使它们呈现出不同寻常的亮白色外观。这使得它们能够在这个星球的寒冷的温度下生存。"
+
+ gpm_tb_Strange_Ice_River:0 "奇怪河冰"
+ gpm_tb_Strange_Ice_River_desc:0 "一条流动的冰河。"
+
+ gpm_tb_Massive_Ray_School:0 "大型射线学校"
+ gpm_tb_Massive_Ray_School_desc:0 "巨大的光芒如同鱼的学校。"
+
+ gpm_tb_The_Black_Stone:0 "黑色石头"
+ gpm_tb_The_Black_Stone_desc:0 "丛林中央一块奇怪的黑色石头。"
+
+ gpm_tb_Sprawling_Prestine_Ruins:0 "庞大的原始废墟"
+ gpm_tb_Sprawling_Prestine_Ruins_desc:0 "古代遗迹未受自然因素和时间的影响。"
+
+ gpm_tb_Skyscraper_Village:0 "摩天大楼般的村庄"
+ gpm_tb_Skyscraper_Village_desc:0 "古代文明遗留下来的一个小村庄，到处都是摩天大楼。"
+
+ gpm_tb_Sandworm_Pit:0 "沙虫坑"
+ gpm_tb_Sandworm_Pit_desc:0 "有一种恶臭的生物生活在这个坑里，尖利的牙齿从墙里钻出来，触须从中心钻出来。"
+
+ gpm_tb_Grand_Reef:0 "大暗礁"
+ gpm_tb_Grand_Reef_desc:0 "一个令人难以置信的大珊瑚礁坐落在海底，里面充满了各种奇异的珊瑚。"
+
+ gpm_tb_Glistening_Lake:0 "闪闪发光的湖"
+ gpm_tb_Glistening_Lake_desc:0 "当太阳在早晨升起时，这个湖闪耀的湖面是独一无二的美丽。"
+
+ gpm_tb_Fossilized_Egg_Sacks:0 "化石蛋袋"
+ gpm_tb_Fossilized_Egg_Sacks_desc:0 "巨大的卵袋的化石残骸在一个巨大的峡谷中堆在一起。在过去的几百万年里，它们的生物结构已经变成化石。"
+
+ gpm_tb_Fossilized_Structures:0 "化石结构"
+ gpm_tb_Fossilized_Structures_desc:0 "巨大的化石结构点缀着大地。这些结构过去是由生物材料构成的，经过数百万年的石化。"
+
+ gpm_tb_Fossilized_Creep:0 "化石蠕变"
+ gpm_tb_Fossilized_Creep_desc:0 "一层又厚又脆的化石层覆盖着大片土地。一个生物层的残骸，经过数百万年的石化。"
+
+ gpm_tb_Giant_Skeleton:0 "巨大的骨架"
+ gpm_tb_Giant_Skeleton_desc:0 "一具巨大沙虫的骨架。"
+
+ gpm_tb_Resonating_Ice:0 "产生共鸣的冰"
+ gpm_tb_Resonating_Ice_desc:0 "独特的螺旋结构和表面的磁性金属使冰产生高共振并产生强大的磁场。"
+
+ gpm_tb_Tiny_Herds:0 "小象群"
+ gpm_tb_Tiny_Herds_desc:0 "一群毛茸茸的小动物。"
+
+ gpm_tb_Fertile_Field:0 "肥沃的田野"
+ gpm_tb_Fertile_Field_desc:0 "肥沃的土地，富含营养和水分。"
+ 
+ gpm_tb_Ecological_Brain:0 "生态大脑"
+ gpm_tb_Ecological_Brain_desc:0 "一群生态神经通路，聚集在一起形成脑状结构。"
+
+ gpm_tb_Hot_Springs:0 "温泉"
+ gpm_tb_Hot_Springs_desc:0 "充满热水的沸腾的泉水。"
+
+ gpm_tb_Colossal_Coral_Life:0 "巨大珊瑚生命"
+ gpm_tb_Colossal_Coral_Life_desc:0 "巨大的珊瑚群，里面有各种各样的巨大的海洋生物。"
+
+ gpm_tb_Salt_Flats:0 "大规模盐沼"
+ gpm_tb_Salt_Flats_desc:0 "被蒸发的海洋沉积的一层厚厚的盐覆盖的巨大平坦的地形。"
+
+
+
+
+ # Precursor Deposits #
+ ######################
+ gpm_tb_Precursor_Planetary_Shield:0 "先驱者行星护盾"
+ gpm_tb_Precursor_Planetary_Shield_desc:0 "一个巨大的自我维护和自我供电的护盾阵列站在这里。它的护盾遍布整个星球的表面。"
+ 
+ gpm_tb_Precursor_Capital_Complex:0 "先驱者资本复合体"
+ gpm_tb_Precursor_Capital_Complex_desc:0 "一个巨大的先驱者城市，中间有一个巨大的高耸的建筑。大多数基础设施似乎是可用的。"
+
+ gpm_tb_precursor_ruins_1:0 "先驱者工业废墟"
+ gpm_tb_precursor_ruins_1_desc:0 "很久以前的文明中废弃的工业废墟。"
+ gpm_tb_precursor_ruins_1_empty:0 "古老的工业基础设施"
+ gpm_tb_precursor_ruins_1_empty_desc:0 "$gpm_tb_precursor_ruins_1_desc$"
+
+ gpm_tb_precursor_ruins_2:0 "先驱者城市遗址"
+ gpm_tb_precursor_ruins_2_desc:0 "一个文明早已消失的废弃的城市废墟。"
+ gpm_tb_precursor_ruins_2_empty:0 "毁坏的先驱者城市"
+ gpm_tb_precursor_ruins_2_empty_desc:0 "$gpm_tb_precursor_ruins_2_desc$"
+
+ gpm_tb_precursor_ruins_3:0 "埋藏的先驱者遗迹"
+ gpm_tb_precursor_ruins_3_desc:0 "很久以前的文明的废墟。"
+ gpm_tb_precursor_ruins_3_empty:0 "埋在地下的古代建筑"
+ gpm_tb_precursor_ruins_3_empty_desc:0 "$gpm_tb_precursor_ruins_3_desc$"
+
+ gpm_tb_precursor_ruins_4:0 "先驱者残余物"
+ gpm_tb_precursor_ruins_4_desc:0 "从一个早已消失的文明中分离出来的碎片点缀着这片土地。"
+ gpm_tb_precursor_ruins_4_empty:0 "古代低温管"
+ gpm_tb_precursor_ruins_4_empty_desc:0 "$gpm_tb_precursor_ruins_4_desc$"
+
+ gpm_tb_precursor_ruins_5:0 "先驱者发电机废墟"
+ gpm_tb_precursor_ruins_5_desc:0 "很久以前的文明中废弃的发电机。"
+ gpm_tb_precursor_ruins_5_empty:0 "古代发电机废墟"
+ gpm_tb_precursor_ruins_5_empty_desc:0 "$gpm_tb_precursor_ruins_5_desc$"
+
+ gpm_tb_precursor_ruins_6:0 "先驱者战场"
+ gpm_tb_precursor_ruins_6_desc:0 "远古文明遗留下来的古代战场。"
+ gpm_tb_precursor_ruins_6_empty:0 "弃用废墟"
+ gpm_tb_precursor_ruins_6_empty_desc:0 "$gpm_tb_precursor_ruins_6_desc$"
+
+ gpm_tb_precursor_ruins_7:0 "先驱者残骸"
+ gpm_tb_precursor_ruins_7_desc:0 "来自一个早已消失的文明的无数战场残骸。"
+ gpm_tb_precursor_ruins_7_empty:0 "远古遗迹"
+ gpm_tb_precursor_ruins_7_empty_desc:0 "$gpm_tb_precursor_ruins_7_desc$"
+ 
+ gpm_arcane_technology_deposit:0 "先驱者废墟"
+ gpm_arcane_technology_deposit_desc:0 "一个文明古国的废墟。"
+ 
+ # Habitat planetary features #
+ ###############################
+
+ gpm_tb_moon_mining_infrastructure:0 "月球采矿基础设施"
+ gpm_tb_moon_mining_infrastructure_desc:0 "专门的栖息地基础设施，以支持在附近的卫星上采矿。"
+
+ gpm_tb_asteroid_mining_infrastructure:0 "小行星矿业基础设施"
+ gpm_tb_asteroid_mining_infrastructure_desc:0 "专门的栖息地基础设施，以支持从拖曳小行星采矿。" 
+
+ gpm_tb_orbital_research_infrastructure:0 "轨道研究基础设施"
+ gpm_tb_orbital_research_infrastructure_desc:0 "专门的栖息地基础设施，以支持科学考察星球地壳以下。"
+
+ gpm_tb_alloy_mining_infrastructure:0 "合金矿业基础设施"
+ gpm_tb_alloy_mining_infrastructure_desc:0 "专门的栖息地基础设施，以支持从星球上提取非常稀有的合金。"
+
+ gpm_tb_mineral_mining_infrastructure:0 "矿产矿业基础设施"
+ gpm_tb_mineral_mining_infrastructure_desc:0 "专门的生境基础设施，以支持广泛的行星采矿。"
+
+ gpm_tb_particle_collecting_infrastructure:0 "粒子收集基础设施"
+ gpm_tb_particle_collecting_infrastructure_desc:0 "专门的生境基础设施，以支持收集气体和颗粒。"
+
+ gpm_tb_spice_collecting_infrastructure:0 "香料收集基础设施"
+ gpm_tb_spice_collecting_infrastructure_desc:0 "专门的栖息地基础设施，以支持从星球下面收集香料。"
+

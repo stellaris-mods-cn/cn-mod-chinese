@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ sm_wormhole_generator: "虫洞发生器"
+ sm_wormhole_generator_desc: "除了为进入、离开和穿越星系的舰船提供额外的导航帮助外，该设施还将生成一个稳定的虫洞，将本星系连接到另一个星系，并使用该设施建立一个恒星基地。"
+ 
+ whgenevents.6.name: "虫洞产生"
+ whgenevents.6.desc: "[psi_nav_origin_system.GetName]的恒星基地已经创建了一个连接[psi_nav_destination_system.GetName]的稳定虫洞。\n\n我们还需要一艘科研船来确认虫洞的稳定性，然后才能充分利用它用于空间旅行。"
+ 
+ aura_STARBASE_TRAFFIC_CONTROL: "太空交通管制光环"
+ STARBASE_TRAFFIC_CONTROL: "太空交通控制"

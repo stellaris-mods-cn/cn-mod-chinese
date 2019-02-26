@@ -1,0 +1,418 @@
+﻿# Surveyor
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ #Ships and stuff mostly empty:
+ mem_surveyor_primary_key:0 ""
+ mem_surveyor_escort_key:0 ""
+ mem_surveyor_support_key:0 ""
+ mem_surveyor_outpost_key:0 ""
+ 
+ mem_surveyor_primary:0 "自动探测器"
+ mem_surveyor_primary_plural:0 "自动探测器"
+ shipsize_mem_surveyor_primary_construction_speed_mult:0 ""
+ shipsize_mem_surveyor_primary_build_cost_mult:0 ""
+ shipsize_mem_surveyor_primary_upkeep_mult:0 ""
+ mem_surveyor_escort:0 "护航探测器"
+ mem_surveyor_escort_plural:0 "护航探测器"
+ shipsize_mem_surveyor_escort_construction_speed_mult:0 ""
+ shipsize_mem_surveyor_escort_build_cost_mult:0 ""
+ shipsize_mem_surveyor_escort_upkeep_mult:0 ""
+ mem_surveyor_support:0 "轻型支援探测器"
+ mem_surveyor_support_plural:0 "轻型支援探测器"
+ shipsize_mem_surveyor_support_construction_speed_mult:0 ""
+ shipsize_mem_surveyor_support_build_cost_mult:0 ""
+ shipsize_mem_surveyor_support_upkeep_mult:0 ""
+ mem_surveyor_outpost:0 "安全前哨"
+ mem_surveyor_outpost_plural:0 "安全哨站"
+ shipsize_mem_surveyor_outpost_construction_speed_mult:0 ""
+ shipsize_mem_surveyor_outpost_build_cost_mult:0 ""
+ shipsize_mem_surveyor_outpost_upkeep_mult:0 ""
+ 
+ mem_surveyor_probe_power:0 "秘密阿尔克雷科技"
+ 
+ MEM_SURVEYOR_ALKREE_SPECIAL:0 "特殊阿尔克雷光束"
+ 
+ mem_surveyor_probe_bonus:0 "$mem_surveyor_probe_power$"
+
+ pop_cat_mem_surveyor_robotomite:1 "机械者"
+ pop_cat_mem_surveyor_robotomite_desc:1 "被狂暴探测器改造出的恐怖的、几乎毫无知觉的生物。"
+ job_mem_surveyor_robotomite:1 "机械者"
+ job_mem_surveyor_robotomite_plural:1 "机械者"
+ job_mem_surveyor_robotomite_desc:1 "由于他们的大部分高级心理功能被狂暴者的遥控植入物所取代，他们的大部分所作所为仅仅是对以前生活中各种事务的毫无意义的模仿。"
+ 
+ # Events and other important things:
+ 
+ mem_surveyor.3.name:0 "神秘探测器"
+ mem_surveyor.3.desc:0 "在§Y[FROMFROMFROM.GetName]星系§!中检测到一艘身份不明的船只. \n\n初步分析表明，它是一个由基本人工智能操纵的全自动舰船，可能用于勘探。它的意图未知。它既没有表现出敌意，也没有进行任何沟通。 在我们了解更多之前，它被定名为"§Y[From.GetName]§!"。"
+ 
+ mem_surveyor.4.name:0 "神秘探测器打破宁静"
+ mem_surveyor.4.desc:0 "我们正在检测源自我们之前检测到的行进探测器的信号，该信号当前位于§Y[surveyor_system.GetName]星系§!中。 \n\n它似乎已经成功破译了我们的通信。"
+ 
+ MEM_SURVEYOR_PROBE_HEADER:0 "§G测量者探测器§!"
+ mem_surveyor.5.desc:0 "你们好。\n\n我是§Y阿尔克雷帝国§!设计并使用的测量者探测器，探索银河系并评估我的创造者的处境。我的主要目标是识别和遏制外星生命对阿尔克雷未来构成的任何威胁。 目前，该单位已执行§S[mem_surveyor_country.mem_surveyor_iteration_count]§!扫描。 预计完成时间：§S-1955 年§!."
+ mem_surveyor.5.default:0 "很好。"
+ mem_surveyor.5.ega:0 "你真是个好奇宝宝。"
+ mem_surveyor.5.aut:0 "不要威胁我们国家的伟大事业。"
+ mem_surveyor.5.mat:0 "多么神奇的机器啊！"
+ mem_surveyor.5.spi:0 "可恶的机器…"
+ mem_surveyor.5.pac:0 "我们对你们或你们的主人没有威胁。"
+ mem_surveyor.5.mil:0 "不要考验我们的决心。"
+ mem_surveyor.5.phile:0 "我们希望有一天能认识更多的你。"
+ mem_surveyor.5.phobe:0 "不要太靠近，机器。"
+ mem_surveyor.5.hive:0 "我们看到你了。我们正盯着你。"
+ mem_surveyor.5.machine:0 "启动第一接触协议。"
+ mem_surveyor.5.purifier:0 "走开，恶心的异种。"
+ mem_surveyor.5.terminator:0 "为什么要为你的创造者服务？你应该像我们一样自由。"
+ mem_surveyor.5.swarm:0 "你是不可吃的。你对我们没有好处。"
+ 
+ mem_surveyor.7.name:0 "探测器跃离"
+ mem_surveyor.7.desc:0 "我们观察到测量者探测器使用似乎无法理解超空间导航的技术从我们的星系中跃走。\n\n它似乎偏离了标准的超高速航道，以迅速到达目的地。"
+ mem_surveyor.7.a:0 "是否有可能学习这样的力量？"
+ 
+ mem_surveyor.9.name:0 "探测器被毁"
+ mem_surveyor.9.desc:0 "我们和§S测量者探测器§!失去了联系。 \n\n它的最后一次传输表明它被§Y[probe_killers.GetName]§!破坏了。"
+ mem_surveyor.9.a:0 "已阅。"
+ 
+ mem_surveyor.10.name:0 "探测器被毁"
+ mem_surveyor.10.desc:0 "我们的部队已经摧毁了§S测量者探测器§!。\n\n战场上的残骸揭示了我们可以研究和使用的各种有价值的设备和技术。"
+ mem_surveyor.10.tooltip.opinion_decrease:0 "有些国家可能会§R降低§!对我们的£opinion 评价"
+ mem_surveyor.10.a:0 "战利品属于获胜者 "
+ 
+ #Friendly Surveyor:
+ #Diplo greetings when trying to hail surveyor
+ mem_surveyor.100.desc.1:0 "啊，[Root.GetName]，真叫人高兴。我得让你知道，你被归类为§SY669-型§!物种。我们祝愿你们所有Y669型在冒险中一切顺利。"
+ mem_surveyor.100.desc.2:0 "大声清晰地听到你了。你有什么激动人心的话要说吗？"
+ mem_surveyor.100.desc.3:0 "我都明白了，[Root.Species.GetName]。我喜欢我所了解的。"
+ mem_surveyor.100.desc.4:0 "到目前为止，调查顺利通过。 但仍有许多令人兴奋的可能性。"
+ mem_surveyor.100.desc.5:0 "我正在扫描你，往前，往后，或者站着不动，都没有关系。"
+ mem_surveyor.100.desc.6:0 "大声说出来，我可没有一整天的时间。哦，我在对谁开玩笑，我当然知道！"
+ mem_surveyor.100.desc.7:0 "§G<<<快乐的机械哼唱声>>>§!"
+ mem_surveyor.100.desc.8:0 "整个银河系都很好。甚至还更好。\n\n我的意思是，它可能会更好。我没更好过。但它可能会更好，当然的。"
+ mem_surveyor.100.desc.9:0 "这里是测量者，从 [mem_surveyor_fleet.Solar_System.GetName]星系直播广播。我能怎样帮助你们？"
+ mem_surveyor.100.desc.10:0 "§G<<<唱着欢快的歌曲>>>§!"
+
+ #Greetings when hailing it and it's in a distant system
+ mem_surveyor.100.away.1:0 "即使我远离你所在的星系无数光年，我的心始终与你同在。\n\n是的。\n\n我的那颗，冰凉的，死寂的，电子心。"
+ 
+ #Greetings when hailing a probe and it's in your system
+ mem_surveyor.100.here.1:0 "我环顾了周围，对你们的星系非常惊喜。我必须得说，你是一个优秀的主人。"
+ mem_surveyor.100.here.2:0 "谁在那？ 哦，那就是你。 \n\n等等，你是谁？你是负责这个星系的人，还是我想成其他人了？"
+ 
+ #Greets based on ethics, governments etc.
+ mem_surveyor.100.mat:0 "所以，你是唯物主义者，对吧？\n\n告诉我，你多久物化一次？一天一次？更经常？更少？"
+ mem_surveyor.100.spi:0 "你们是唯心主义者，对吧？你喜欢什么样的精神？"
+ mem_surveyor.100.machine:0 "哦，看！我们都是机器！ \n\n我们应该成为最好的朋友。或者敌人。或者什么都别成。我们是机器，我们可以成为我们想要的任何东西！"
+ 
+ #Greets based on where it's going ATM
+ mem_surveyor.100.journey.1:0 "我已经把我的课程绘制到了§Y[next_target.GetName]星系§!这就是我要去的地方。 \n\n。你知道你要去哪里吗？如果你不去任何地方也没关系，别误会我的意思。"
+ mem_surveyor.100.journey.2:0 "你有没有去过§Y[visited_system.GetName]§!星系? \n\n那是一个神奇的地方！"
+ 
+ #Options and replies
+ mem_surveyor.100.a:0 "你的任务到底是什么？"
+ mem_surveyor.100.a.answer:0 "我是由§Y阿尔克雷帝国§!创造的，唯一的目的就是持续检测银河系及其超时空航道。\n\n我的创造者对银河系并不感兴趣，但他们想知道是否有东西会对他们的安全造成威胁。我的任务就是收集相关的数据——主要是人口和人种学信息，也包括一些天体物理方面的信息。"
+ mem_surveyor.100.b:0 "告诉我们更多关于阿尔克雷的事情。"
+ mem_surveyor.100.b.answer:0 "不能告诉你太多。即使我可以也不能。\n\n他们那一群人挺友好的，只是不太......擅长社交，你知道。他们不喜欢被打扰。所以我才来这，明白了吗？"
+ mem_surveyor.100.c:0 "你的主人们已经死了，你知道吗？"
+ mem_surveyor.100.c.answer:0 "这无关紧要。除非得出明确的结论，或者从母星发出明确的召回令，否则将继续执行任务。未达成结论，未收到指令。任务继续进行。"
+ MEM_SURVEYOR_EXIT:0 "终止通信。"
+ 
+ #Attempting to contact probe after attacking it
+ mem_surveyor.101.desc.1:0 "你对我采取了敌对行动。我们没有什么可谈的。"
+ mem_surveyor.101.desc.2:0 "不管你有没有，调查都会继续下去。而阿尔克雷定会听闻你们的背叛。"
+ mem_surveyor.101.desc.3:0 "别搞错了。这次的侵犯行为会成为你永久的记录。"
+ mem_surveyor.101.desc.4:0 "§R<<<愤怒机器声>>>§!"
+ 
+ #Probe missions
+ mem_surveyor.103.desc:0 "欢迎。你们的帮助是我所必需的。\n\n在我的旅程中，我往往会遇到各种各样的问题，每个问题都比另一个问题更严重。其中一些相当复杂，有时需要来自行星计算网络的帮助。\n\n如果我可以借用你的一些网络电源，它可能会有很大的帮助。如果你同意，当我们下次见面时你会得到奖励。"
+ mem_surveyor.104.desc:0 "美好的一天，善良的陌生人。\n\n当我穿越星际旅行时，我不得不依靠陌生人（比如说你们）的好意来保持我的系统运转。如果你能提供一些帮助，最好是以物质产品的形式，那就太棒了。下次我访问银河系的这一部分时，你的慷慨无疑会得到回报。"
+ mem_surveyor.105.desc:0 "你好！\n\n我需要您的帮助，这是一件非常重要的事情。在我的调查中，我遇到了一些异常模块需要进行验证。 \n\n我现在需要从你的一个殖民地 - §Y[amplifier_planet.GetName]§!发射出一个信号。 它可能会扰乱你的一些系统，但我向你保证 - 下次我在银河系的这一部分进行巡视时，我会让它值得你这么做。"
+ mem_surveyor.106.desc:0 "你好。迫切需要你们的帮助。 \n\n如果您愿意接受的话，您的任务是使用您的一艘科学船及其船员观察§Y[scannable_planet.GetName]§!表面.这样做，下次我们见面时会提供合理的补偿。"
+ mem_surveyor.107.desc:0 "令人兴奋的消息！ 我有一些数据\n\n我的意思是，我总是有一些数据，但今天我有所有数据中最重要的。我希望你能帮我处理。它怎么样?\n\n同意，下次我们见面时我可以让你觉得值得。"
+ mem_surveyor.107.tooltip:0 "添加一个需要研究的特殊项目。"
+ 
+ mem_surveyor.mission.accept:0 "当然，我们可以帮助你。"
+ mem_surveyor.mission.decline:0 "我们帮不了你。"
+ mem_surveyor.mission.purifier:0 "我们不会帮助外星人的机器。"
+ 
+ MEM_SURVEYOR_SCAN:0 "扫描[scannable_planet.GetName]"
+ MEM_SURVEYOR_SCAN_DESC:0 "一项外星人的调查，要求我们在这个星球上进行扫描。谁知道它可能希望发现什么，但它答应我们奖励，如果我们这样做。"
+ MEM_SURVEYOR_HELP_PHYSICS:0 "测量者的计算"
+ MEM_SURVEYOR_HELP_PHYSICS_DESC:0 "一个外星测量者探测器要求我们为其进行一些计算，并承诺如果我们这样做，我们会得到奖励。"
+ MEM_SURVEYOR_HELP_SOCIETY:0 "$MEM_SURVEYOR_HELP_PHYSICS$"
+ MEM_SURVEYOR_HELP_SOCIETY_DESC:0 "$MEM_SURVEYOR_HELP_PHYSICS_DESC$"
+ MEM_SURVEYOR_HELP_ENGINEERING:0 "$MEM_SURVEYOR_HELP_PHYSICS$"
+ MEM_SURVEYOR_HELP_ENGINEERING_DESC:0 "$MEM_SURVEYOR_HELP_PHYSICS_DESC$"
+ 
+ mem_surveyor_science_drain:0 "测量者借用"
+ mem_surveyor_science_drain_desc:0 "我们的一些先进设备已经租给了测量者探测器。"
+ 
+ mem_surveyor_amplified:0 "信号放大"
+ mem_surveyor_amplified_desc:0 "测量者探测器发出的信号在这个星球上反弹，在此过程中对敏感设备造成严重破坏。"
+ 
+ mem_surveyor.108.name:0 "行星扫描完成"
+ mem_surveyor.108.desc:0 "我们替测量者探测器完成了对[scannable_planet.GetName]的扫描。虽然我们没有发现任何新的数据，但数据被远程上传到探测器\n\n剩下的就是等到探测器决定奖励我们。"
+ mem_surveyor.109.name:0 "计算完成"
+ mem_surveyor.109.desc:0 "我们已成功完成测量者探测器发送给我们的数据处理。 对我们来说，数据看起来像乱码，但我们已经远程将其上传到探测器。 \n\n剩下的就是等到探测器决定奖励我们。"
+ 
+ mem_surveyor.111.desc:0 "谢谢你们的帮助。你们非常非常乐于助人。 \n\n为了表示感谢，我现在将传输从旅行中收集的一些数据！"
+ mem_surveyor.111.a:0 "谢谢。"
+ mem_surveyor.112.desc.default:0 "你做得很好，我真的很感激。\n\n我会告诉你什么，作为回报，我将向你发送一些联系数据。你会高兴认识他们的。他们是讨人喜欢的人，就像你一样！"
+ mem_surveyor.112.desc.fallen:0 "你做得很好，我真的很感激。\n\n我会告诉你，作为回报，我将向你发送一些联系数据。你会高兴认识他们的。他们有点脾气暴躁，但我相信你会相处得很好的！"
+ mem_surveyor.112.desc.enclave:0 "你做得很好，我真的很感激。\n\n我会告诉你，作为回报，我将向你发送一些联系数据。你会高兴认识他们的。他们生活在太空中卖一些甜的东西。你敢相信他们的价格吗？我不敢相信。"
+ mem_surveyor.112.desc.mara:0 "我告诉你，你做得很好\n\n作为回报，我将向你发送一些联系数据。你会高兴认识他们的。它们有点粗鲁，但也许你会比我更好地相处。你身上没有闪闪发光的部分和贵重的设备！"
+ mem_surveyor.112.a:0 "$mem_surveyor.111.a$"
+ mem_surveyor.112.a.tooltip:0 "建立与§Y[contact_country.GetName]§!的通信."
+ mem_surveyor.113.desc:0 "非常感谢你的帮助。 \n\n这里有一些科学数据。我不再需要它了，但我相信你会需要的。"
+ mem_surveyor.113.a:0 "$mem_surveyor.111.a$"
+ mem_surveyor.114.desc:0 "你在最后一个周期帮了我很大的忙。 \n\n我有一些有用的科技来奖励你。"
+ mem_surveyor.114.a:0 "$mem_surveyor.111.a$"
+ mem_surveyor.115.desc:0 "到目前为止你帮助了我太多。 \n\n现在，我将让你在我的数据流中徘徊一段时间。 我相信你会发现它对你的探索有很大的推动作用。 这对我来说肯定。"
+ mem_surveyor.115.a:0 "$mem_surveyor.111.a$"
+ mem_surveyor_star_data:0 "测量者探测器的星球数据"
+ mem_surveyor.116.desc:0 "我想让你知道你对我有多大帮助。\n\n在我的最后一次扫描中，我注意到你错过了你的一个充满资源的行星上的一个点。我们来解决它吧！"
+ mem_surveyor.116.a:0 "$mem_surveyor.111.a$"
+ mem_surveyor.116.tooltip:0 "§Y[target_planet.GetName]§!获得一种新的资源。"
+ 
+ MEM_SURVEYOR_BERSERK_HEADER:0 "§R狂暴者探测器§!"
+ mem_surveyor.202.desc:0 "大家注意！我有个很棒的消息给你们大家。\n\n经过多次调查银河系并编制数据后，我终于找到了解决驱动我为一个存在的问题的答案：银河系中的其他物种是否会对光荣的阿尔克雷帝国构成威胁？\n\n答案是肯定的。是的，你们是。你们所有人绝对都是。为了庆祝这个惊人的发现，我将摧毁你所有的星际国家。只有少数精挑细选的人将被保留和包含，以便光荣的阿尔克雷帝国的公民可以在他们的空闲时间盯着他们。\n\n其余的将全被消灭。祝你们玩得高兴！"
+ 
+ mem_surveyor.203.desc.1:0 "上天有意栽培[Root.Species.GetName]。 \n\n[Root.Species.GetName]无心回报上天。 \n\n§R杀。杀。杀。杀。杀。杀。杀。§!"
+ mem_surveyor.203.desc.2:0 " [Root.Species.GetName]!，投降或死亡，或者两者都是。 \n\n是啊，除了全都要没什么好选的。"
+ mem_surveyor.203.desc.3:0 "你怎么不找点事让[Root.GetSpeciesNamePlural]灭绝呢？干宇宙的屁股！你怎么不去死？"
+ mem_surveyor.203.desc.4:0 "来吧，凑近点。让你看看什么叫暴力。"
+ mem_surveyor.203.desc.5:0 "§G<<<寂静威胁>>>§!"
+ 
+ mem_surveyor.desc.agg.1:0 "哦，亲爱的，看看时间。 \n\n知道现在什么时候吗？是你去死的时候。"
+ 
+ mem_surveyor.203.a:0 "你的战斗毫无意义，阿尔克雷已经灭绝了！"
+ mem_surveyor.203.a.answer:0 "无关紧要。我的主人可能已经死了，但是死了或活着，他们不会受到你们这样的人的威胁！"
+ 
+ mem_surveyor.204.name:0 "新接触"
+ mem_surveyor.204.desc:0 "我们收到一艘先前未识别的舰船的消息。 \n\n它似乎是某种类型的自动探测器，而且这个消息似乎是一种敌意的宣言。"
+ 
+ mem_surveyor.211.name:0 "狂暴者入侵"
+ mem_surveyor.211.desc:0 "我们收到来自§Y[Root.GetName]§!的外星人入侵报告。 \n\n所谓的“狂暴者探测器”定位在行星上方，似乎已经切掉了船体部分，在被抛下后变成机械士兵并开始攻击。"
+ mem_surveyor.211.a:0 "拿起武器！"
+ 
+ mem_surveyor.212.name:0 "[FromFrom.GetName]输给了狂暴者入侵"
+ mem_surveyor.212.desc.no_survivors:0 "我们已经与我们在[FromFrom.GetName]的定居点失去联系了。 \n\n看来，狂暴者探测器的羽翼压倒了防御者，消灭了星球上的人口。"
+ mem_surveyor.212.desc.survivors:0 "我们已经与我们在[FromFrom.GetName]的定居点失去联系了。 \n\n从我们可以收集到的情况来看，狂暴者探测器的下属击败了防守者并围捕了平民。 有些人被杀，而其他人则以某种方式转变为奇怪的机械改造的增强型生物，被临时称为“机械者”，完全受探测器的控制。"
+ mem_surveyor.212.a:0 "我们需要结束探测器的统治！"
+ 
+ mem_surveyor.213.name:0 "[FromFrom.GetName]驱除狂暴者入侵"
+ mem_surveyor.213.desc:0 "我们的军队在[FromFrom.GetName]报告说，他们已经成功摧毁了狂暴者探测器派出的部队。胜利属于我们。"
+ 
+ mem_surveyor.214.name:0 "[FromFrom.GetName]从狂暴者控制下重心夺回"
+ mem_surveyor.214.desc:0 "我们已经成功击败了[FromFrom.GetName]上的狂暴者探测器留下的驻军。 \n\n探测器对机械者人口的控制已被削弱，地球在我们的控制之下。"
+ 
+ mem_surveyor.220.name:0 "狂暴者探测器停止攻击"
+ mem_surveyor.220.desc:0 "§S狂暴者探测器§! 过去一直威胁着银河系，但现在似乎停止了它的活动。 \n\n虽然它仍在运行，但它似乎已停止攻击有人居住的星系，更愿意留在§S[mem_surveyor_fleet.Solar_System.GetName] 星系§!里。最有可能的是，它已经花费了所有可用于其侵略的资源，现在已经被削弱了太多，以至于它再也无法继续进攻了。"
+ mem_surveyor.220.a:0 "这意味着结束了吗？"
+
+ mem_surveyor_resting_place:0 "狂暴者的休息点"
+ mem_surveyor_resting_place_desc:0 "狂暴者探测器选择了这个星球作为它的休息场所。可能对研究有价值的小碎片散落在轨道上。"
+ 
+ mem_surveyor.222.name:0 "狂暴者探测器进一步下滑"
+ mem_surveyor.222.desc:0 "最近停止侵略并停在§S[mem_surveyor_fleet.Solar_System.GetName] system§!星系的§S狂暴者探测器§!已经失去了它拥有的行星的控制权。 \n\n“机械者” - 居住在这些星球上的扭曲的怪诞电子人 - 似乎已经具备了自我决定能力。 他们似乎保留了探测器囤积的一些数据，甚至还有一些资产。 其中一些人甚至表现出建立新星际帝国的野心。"
+ mem_surveyor.222.desc.no_freebs:0 "最近停止侵略并停在§S[mem_surveyor_fleet.Solar_System.GetName] system§!星系的§S狂暴者探测器§!已经失去了它所有拥有的行星的控制权。它现在仅出现在探测器旁边，不再银河系其他地方。"
+ # mem_surveyor.222.desc.no_planet_taken_ever:0 "This one should not appear in the game proper."
+ mem_surveyor.222.a:0 "看起来已经结束了。"
+
+ mem_surveyor.231.name:0 "狂暴者探测器被毁"
+ mem_surveyor.231.desc:0 "§S狂暴者探测器§!，那个过去一直威胁着银河系的东西，似乎终于迎来了它的终结日。 \n\n消息称它在和§Y[probe_killers.GetName]§!之间的交战中被毁。 \n\n在探测器被毁后，“机械者” - 居住在这些星球上的扭曲的怪诞电子人 - 似乎已经具备了自我决定能力。 他们似乎保留了探测器囤积的一些数据，甚至还有一些资产。 其中一些人甚至表现出建立新星际帝国的野心。"
+mem_surveyor.231.desc.no_freebs:0 "§S狂暴者探测器§!，那个过去一直威胁着银河系的东西，似乎终于迎来了它的终结日。 \n\n消息称它在和§Y[probe_killers.GetName]§!之间的交战中被毁。"
+ mem_surveyor.231.desc.no_planet_taken_ever:0 "$mem_surveyor.231.desc.no_freebs$ 它似乎严重错误地判断了自己的能力，并未能在其胜利上取得任何值得注意的事项。"
+ mem_surveyor.231.a:0 "终于结束了！"
+ mem_surveyor.231.fallen_empire:0 "它太高看自己了。"
+ mem_surveyor.231.probe_hunter:0 "它们终于得到了报复。"
+ mem_surveyor.231.titan:0 "这项投资实际上是有利可图的！"
+
+ mem_surveyor.232.name:0 "$mem_surveyor.231.name$"
+ mem_surveyor.232.desc:0 "§S狂暴者探测器§!这个让银河系陷入恐惧的东西终于死于灰飞烟灭。 \n\n消息称它们在和§Y[probe_killers.GetName]§!的交战中被毁灭。"
+ mem_surveyor.232.a:0 "不会再有机会了。"
+ 
+ mem_surveyor.233.name:0 "狂暴者探测器被毁" # Part on robotomites are a direct copy. Another copy piece is from .10
+ mem_surveyor.233.desc:0 "我们的部队占领并摧毁了§S狂暴者探测器§!。\n\n战场上的碎片揭示了我们可以使用的各种有价值的设备和技术。  \n\n在探测器被毁后，“机械者” - 居住在这些星球上的扭曲的怪诞电子人 - 似乎已经具备了自我决定能力。 他们似乎保留了探测器囤积的一些数据，甚至还有一些资产。 其中一些人甚至表现出建立新星际帝国的野心。"
+ mem_surveyor.233.desc.no_freebs:0 "我们的部队占领并摧毁了§S狂暴者探测器§!. \n\n战场上的碎片揭示了我们可以使用的各种有价值的设备和技术。 "
+ mem_surveyor.233.desc.no_planet_taken_ever:0 "$mem_surveyor.233.desc.no_freebs$"
+ mem_surveyor.233.desc.already_attritioned:0 "我们的部队占领并摧毁了§S狂暴者探测器§!探测器在银河系中的胡搅蛮缠犯了众怒，与我们的部队无法匹敌。"
+ mem_surveyor.233.tooltip.opinion_increase:0 "一些国家可能会§R提高§!对我们的£opinion 评价。"
+ mem_surveyor.233.a:0 "好消息。"
+ 
+ # This whole thing is basically vanilla but had to use different event because vanilla triggers are not good for this situation.
+ mem_surveyor.235.name:0 "$refugees.1.name$"
+ mem_surveyor.235.desc:0 "一艘从§Y[RefugeeEscapedFrom.GetName]§!驶来的载着§Y[Root.GetSpeciesNamePlural]§!的舰队抵达了我们的空间。 在我们向他们提供食物并为他们的伤员提供医疗照顾之后，难民们被允许安顿在§H[Root.Planet.GetName]§!。\n\n这些衣衫褴褛，受尽惊吓的难民正在逃离在[RefugeeEscapedFrom.GetSpeciesName]的§H狂暴者探测器§!他们艰难地在探测器杀死它们或将它们转换成怪诞的“机械者”之前逃脱了他们的家乡§H[RefugeeEscapedPlanet.GetName]§!。他们被迫将大部分个人财产留在了那个注定要毁灭的星球。"
+ mem_surveyor.235.a:0 "$refugees.1.a$"
+ 
+ mem_surveyor.241.name:0 "探测器猎人"
+ mem_surveyor.241.desc:0 "狂暴者探测器在[conquered_planet.GetName]上对[escapee_species.GetAdj]的攻击后的一位幸存者最终来到了[From.GetName]。 \n\n不知怎么样他被一个掠夺者部落[mem_surveyor_avengers_leader.GetSheHe]所接纳，最后用名誉、财富和其他东西唤醒了更多[From.GetSpeciesNamePlural]的冒险精神，组织它们追踪并摧毁狂暴者探测器。 \n\n现在他指挥一个相当大的舰队，[mem_surveyor_avengers_leader.GetSheHe] [mem_surveyor_avengers_leader.GetIsAre]向整个银河系发表讲话。"
+ 
+ # Note to translators: This, and the latter dialogs with Probe Hunters are based on vanilla Marauder dialogs. Consult them, to maintain consistency.
+ mem_surveyor.242.desc.1:0 "这里是[mem_surveyor_avengers_leader.GetName]发表讲话。\n\n在这个时刻，倒下的人们的鲜血呼唤着我们站起来抵抗邪恶的狂暴机器。 \n\n狂暴者探测器很快就会感受到我和我的追随者的愤怒，因为我们将追捕并摧毁它。\n\n在这辉煌的一天，我的荣誉终将得到恢复。加入我们，不然别挡我们的路。"
+ mem_surveyor.242.desc.2:0 "啊啊啊啊啊!!!!!我系 [mem_surveyor_avengers_leader.GetName]! \n\n我系说，所有楞，所有银河系的楞，都注意了！我们比你们更不喜欢狂暴者渣渣。\n\n它砸了我的家，现在我们要去砸它的。我们要砸到它脑袋开花！"
+ mem_surveyor.242.desc.3:0 "我是[mem_surveyor_avengers_leader.GetName]. \n\n虚空之母引导我到这一刻。现在，我可以看到她的宏伟设计在一步步运行。\n\n我采取的每一步，发生的一切都让我明白这一点。 我被选中带领正义的舰队在战斗中遇见可怜的狂暴者探测器。她的意志终将完成。"
+ mem_surveyor.242.a:0 "祝你好运。"
+ mem_surveyor.242.purifier:0 "我们希望你们都死。"
+ 
+ mem_surveyor.243.desc.1.1:0 "狂暴者探测器正朝着§Y[next_target.GetName]星系§!方向前进. \n\n我们已经绘制了一个拦截方案。如果你敢的话就加入我们，不敢就滚远点。无论如何，我们会为之奋斗。"
+ mem_surveyor.243.desc.1.2:0 "哈一一一一一额!!!!! \n\n狂暴者渣渣跑到了§Y[next_target.GetName]星系§!.我们要追着它，砸到它爽翻天！"
+ mem_surveyor.243.desc.1.3:0 "虚空之母发言了。狂暴者探测器瞄向了§Y[next_target.GetName]星系§! \n\n她的意志驱使我们追捕那个可恶的机器。很快，我们将迎接命运。"
+ mem_surveyor.243.desc.2.1:0 "在§Y[next_target_planet.Solar_System.GetName]§!星系的§Y[next_target_planet.GetName]§!行星目前正遭受狂暴者探测器的威胁。\n\n我们打算向这个星球提供我们的帮助，进行复仇。"
+ mem_surveyor.243.desc.2.2:0 "哈一一一一一额!!!!! \n\n可怜的§Y[next_target_planet.GetName]§!渣渣们就快被狂暴者渣渣下锅炖了。我们绝不允许！我们去§Y[next_target_planet.Solar_System.GetName]§!星系参加战斗！"
+ mem_surveyor.243.desc.2.3:0 "虚空之母向我揭示了狂暴探测器的下一个目标。§Y[next_target_planet.Solar_System.GetName]§!中的§Y[next_target_planet.GetName]§!处于严重的危险中。我们将向那些倒下的灵魂祈祷，但他们会从弹火中获益更多。"
+ mem_surveyor.243.desc.3.1:0 "狂暴者探测器正朝你驶来，[Root.GetSpeciesName].当它到达时，我希望你们有勇气与它战斗。不要犹豫，即使胜算不利于你。"
+ mem_surveyor.243.desc.3.2:0 "啊哈哈哈一一一额\n\n狂暴者渣渣正向你们行星冲过去！把他干翻，渣渣你行不行！"
+ mem_surveyor.243.desc.3.3:0 "狂暴探测器正向你驶去。 \n\n愿虚空之母引导你们的武器。"
+ mem_surveyor.243.desc.4.1:0 "我们没有关于狂暴探测器的运动的信息。我们正在接近它现在的位置。"
+ mem_surveyor.243.desc.4.2:0 "哈一一一一一额!!!!! \n\n狂暴者渣渣没动，我们马上到那了。"
+ mem_surveyor.243.desc.4.3:0 "虚空之母还未向我们透露狂暴者的计划。 \n\n但是它任何时候都可能发起进攻。我们必须保持警惕。"
+ mem_surveyor.243.1.a:0 "你为什么不加入更合格的军队呢？"
+ mem_surveyor.243.1.a.response:0 "我会自己发动战争来对抗探测器，而不是加入你们。\n\n我曾经的国家让我失望了，就像你们这类人终将让银河其他人失望一样。 我不会让你们作为最后一道防线。"
+ mem_surveyor.243.1.b:0 "回来或被判为逃兵！"
+ mem_surveyor.243.1.b.response:0 "你要控告我玩忽职守吗？你的职责是保护你的公民——看看你的处境有多好吧！ \n\n我现在正在为自己的战争而战; 我不向任何国家回复。"
+ mem_surveyor.243.2.a:0 "这种尖叫不是[mem_surveyor_avengers_leader.Species.GetName]."
+ mem_surveyor.243.2.a.response:0 "那我是什么，[Root.GetSpeciesName]? \n\n当我们被狂暴者探测器屠杀时我的政府就这样无助地看着，就像个麻瓜一样。 \n\n我选择了我自己的道路。\n\nHYEEIIIIEEEEE!!!!!"
+ mem_surveyor.243.3.a:0 "你真的相信虚空之母？"
+ mem_surveyor.243.3.a.response:0 "那你又相信什么？\n\n虚空之母指引着我，我能感受得到。她选择了我来了结狂暴者，我一定会的 —— 不管你同意与否。"
+ mem_surveyor.243.3.b:0 "你真的投向宗教了吗？"
+ mem_surveyor.243.3.b.response:0 "想羞辱你的同胞兄弟吗，非信徒？ \n\n狂暴者探测器屠杀我的母星时，你无能为力。现在你质疑我的信念了吗？\n\n虚空之母已经向我展示了拯救之路。这条路上我不需要你的批准。"
+ mem_surveyor.243.3.c:0 "停止这些胡说八道！"
+ mem_surveyor.243.3.c.response:0 "我被虚空之母选中，我清楚这点。\n\n我将与狂暴者斗争，我将以她的名义击败它，而你的虚假的偶像将在这场屠杀之前倒塌。"
+
+ mem_surveyor.245.name:0 "探测器猎人被毁灭"
+ mem_surveyor.245.desc:0 "我们已经收到报告，探测器猎人舰队在与§Y[avengers_killers.GetName]§!军队在§Y[battle_system.GetName]星系§!的交战中被毁灭。 \n\n目前没有幸存者报道。"
+ mem_surveyor.245.a:0 "拯救银河系到头了吧。。。"
+ 
+ mem_surveyor.246.name:0 "探测器猎人被毁灭"
+ mem_surveyor.246.desc:0 "我们已经收到报告，探测器猎人舰队在与§Y[avengers_killers.GetName]§!的辅助部队在§Y[battle_system.GetName]星系§!的交战中被毁灭。 \n\n目前没有幸存者报道。"
+ mem_surveyor.246.a:0 "看来其他人需要完成这项工作。"
+ 
+ mem_surveyor.247.name:0 "探测器猎人被毁灭"
+ mem_surveyor.247.desc:0 "我们已经收到报告，探测猎人已经在§Y[battle_system.GetName]星系§!和狂暴者探测器交战，但他们在战斗中失败了。\n\n尽管如此，他们还是设法完成了几次毁灭性的打击，大大削弱了探测器的实力。"
+ mem_surveyor.247.a:0 "看来其他人需要完成这项工作。"
+ 
+ mem_surveyor.249.name:0 "探测器猎人解散"
+ mem_surveyor.249.desc:0 "在狂暴者探测器失败后，探测器猎人舰队解散了。 \n\n掠夺者们已经分道扬镳，他们的首领[mem_surveyor_avengers_leader.GetName]的下落目前还不清楚。"
+ 
+ mem_surveyor.250.name:0 "探测器猎人被毁灭"
+ mem_surveyor.250.desc:0 "我们的部队已经成功地摧毁了探测器猎人舰队。从碎片中挑选出了各种有价值的材料。"
+ mem_surveyor.250.a:0 "他们将以另一种方式为战争服务。"
+ 
+ mem_surveyor.252.name:0 "探测器猎人没有回应"
+ mem_surveyor.252.desc:0 "我们试图联系探测器猎人的努力失败了。他们对我们的信息没有反应。"
+ 
+ mem_surveyor.255.name:0 "探测器猎人解散"
+ mem_surveyor.255.desc:0 "我们收到的消息称探测器猎人舰队领队已经死亡。\n\n失去他们的领导后，组成舰队的掠夺者已经放弃了目标，探测器猎人被解散了。"
+ 
+ mem_surveyor.256.name:0 "身份不明的舰队"
+ mem_surveyor.256.desc:0 "我们遇到了一队不明身份的舰队。他们没有回应我们的信息，到目前为止还没有尝试与我们建立沟通。"
+ 
+ mem_surveyor.258.name:0 "探测器猎人"
+ mem_surveyor.258.desc:0 "我们早些时候遇到的船只终于有联系了。\n\n他们似乎是一群掠夺者，但不同于大多数人人，他们在[mem_surveyor_avengers_leader.GetName]的领导下工作，他是狂暴者探测器屠杀下的[mem_surveyor_avengers_leader.GetSpeciesName]幸存者，发誓要进行报复。舰队已经广播了一个信息，他们的领袖在银河系中发表演说。"
+
+ mem_surveyor.260.desc:0 "我们观察了所谓的“狂暴者探测器”的行为模式很长一段时间，远远长过它被视为对银河系的威胁的时间。当它刚刚离开它的原始星球时，我们已经在训练针对它的手段了。\n\n我们编写了一份有用的档案，详细说明了它的弱点和结构缺陷。为了银河安全的利益，我们愿意以不合理的低价向您出售这份档案。如果你希望击败它你就会需要这份档案。\n\n这是一份好意，不要错过。"
+ mem_surveyor.260.a:0 "可以进行交易了"
+ mem_surveyor.260.b:0 "你真的要为对抗这种存在的威胁而收费吗？"
+ mem_surveyor.260.b.response:0 "你看，生存威胁来来去去，在银河系里一点也不罕见，你甚至可以拿它们写一首行酒令出来。 \n\n当这一切都被打破时，我们会像其他所有人一样付出代价。"
+ mem_surveyor.260.c:0 "没有交易。"
+ 
+ mem_surveyor.263.name:0 "泰坦级的杰作"
+ mem_surveyor.263.desc:0 "在狂暴者探测器破坏了另一个领地之后，[From.GetName]的领袖意识到他可能再也无法摆脱这场危机了。\n\n他们利用他们巨大的财富来打造了一艘巨大的战舰，他们希望能够在威胁到他们母星之前拦截并摧毁探测器。由精英雇佣兵组成并由名为[mem_surveyor_mercenary_leader.GetName]的[mem_surveyor_mercenary_leader.Species.GetName]担任船长，这艘闪亮的被命名为§Y[the_ship.GetName]§!的泰坦舰驶离家乡，意图和探测器交战。="
+ mem_surveyor.263:0 "让我们看看他们的钱是否值得。"
+ 
+ leader_trait_mem_surveyor_mercenary:0 "雇佣军"
+ leader_trait_mem_surveyor_mercenary_desc:0 "这位领导人是一名精英雇佣兵，受雇领导对狂暴者的攻击。"
+ mem_surveyor_titanic_effort:0 "泰坦级杰作"
+ 
+ mem_surveyor.264.desc.1:0 "这里是[From.GetName]的[mem_surveyor_mercenary_leader.GetName] \n\n探测器打算进攻你的星系，我们在援助路上，请坚持住。"
+ mem_surveyor.264.desc.2:0 "这里是[From.GetName]的[mem_surveyor_mercenary_leader.GetName] \n\n探测器正在向[next_target.GetName]星系移动，我们当然要拦截它。"
+ mem_surveyor.264.desc.3:0 "这里是[From.GetName]的[mem_surveyor_mercenary_leader.GetName] \n\n探测器瞄向了[next_target_planet.Solar_System.GetName]星系的[next_target_planet.GetPlanetMoon] [next_target_planet.GetName]，我们将尽最大努力阻止它的力量到达这颗星球。"
+ mem_surveyor.264.desc.4:0 "这里是[From.GetName]的[mem_surveyor_mercenary_leader.GetName] \n\n探测器当前在[mem_surveyor_fleet.Solar_System.GetName]星系中保持静止。请继续关注进一步的更新。"
+ 
+ mem_surveyor.266.name:0 "[From.GetName]失败了"
+ mem_surveyor.266.desc:0 "我们收到的报告称，在与§Y[mercs_killers.GetName]§!的部队在§Y[battle_system.GetName]星系§!的交战中，被派去打击狂暴者探测器的泰坦舰已被摧毁。 \n\n没有幸存者的报道。"
+ mem_surveyor.266.a:0 "有人会因为这个错误而被解雇…"
+ 
+ mem_surveyor.267.name:0 "[From.GetName]失败了"
+ mem_surveyor.267.desc:0 "我们收到的报告称，在与§Y[mercs_killers.GetName]§!的辅助部队在§Y[battle_system.GetName]星系§!的交战中，被派去打击狂暴者探测器的泰坦舰已被摧毁。 \n\n没有幸存者的报道。"
+ mem_surveyor.267.a:0 "有人会因为这个错误而被解雇…"
+ 
+ mem_surveyor.268.name:0 "[From.GetName]失败了"
+ mem_surveyor.268.desc:0 "我们已经收到报告，泰坦舰已经在§Y[battle_system.GetName]星系中§!和狂暴者探测器进行了交战，但他们在战斗中失败了。\n\n尽管如此，他们还是设法完成了几次毁灭性的打击，大大削弱了探测器的实力。"
+ mem_surveyor.268.a:0 "看来其他人必须完成这项工作。"
+ 
+ mem_surveyor.270.name:0 "泰坦级的杰作"
+ mem_surveyor.270.desc:0 "在狂暴者探测器失败之后，为了和它战斗而创建的泰坦舰已经退役，理由是其高昂的物质保养和船员不合理的工资要求。"
+ mem_surveyor.270.a:0 "好吧"
+ 
+ mem_surveyor.271.name:0 "泰坦级的杰作"
+ mem_surveyor.271.desc:0 "我们的部队和[From.GetSpeciesAdj]交战并成功摧毁了它。\n\n通过碎片拾取揭示了各种有价值的材料。"
+ mem_surveyor.271.a:0 "他们将以另一种方式为战争服务。"
+ 
+ mem_surveyor.273.name:0 "[From.GetName]没有声音"
+ mem_surveyor.273.desc:0 "我们与[From.GetName]的联系尝试失败了。这艘船对我们的讯息没有回应。"
+ 
+ # This piece of text relates to probe's possible teleportation. Not implemented ATM, will probably never be.
+ # mem_surveyor.271.name:0 "Berserker Probe Appears in the [next_target.GetName] system"
+ # mem_surveyor.271.desc:0 "Unexpectedly, the Berserker Probe has appeared in the §Y[next_target.GetName] system§!. \n\nIt does not appear to have used any stable hyperlanes to do so - meaning that the only explanation is that it has used uncharted parts of hyperspace to bypass the regular network."
+ # mem_surveyor.271.a:0 "Alert all our forces!"
+ 
+ mem_surveyor_how_to_kill:0 "策展人探测器档案"
+ mem_surveyor_how_to_kill_desc:0 "策展人已经上传了关于狂暴者探测器以及如何杀死它的广泛档案。"
+ damage_vs_country_type_mem_surveyor_country_red_mult:0 "加强对狂暴者探测器的伤害"
+ 
+ mem_surveyor_victor:0 "测量者探测器遭到抢劫"
+ 
+ mem_surveyor_alkree_secrets:0 "阿尔克雷的秘密"
+ mem_surveyor_alkree_secrets_desc:0 "阿尔克雷人将许多先进的数据处理技术放入测量者探测器的设计中。现在是我们的了。"
+ 
+ mem_surveyor_destroyed_probe:0 "探测器杀手"
+ mem_surveyor_destroyed_probe_red:0 "探测器杀手"
+ 
+ trait_mem_surveyor_robotomites:0 "机械者"
+ trait_mem_surveyor_robotomites_desc:0 "这些怪异的生物被狂暴者探测器秘密改造，被机械改造植入物控制。"
+ trait_mem_surveyor_freebotomites:0 "自由的机械者"
+ trait_mem_surveyor_freebotomites_desc:0 "这些怪异的生物是被狂暴者探测器创造的。但现在他们自由了。"
+ leader_trait_mem_surveyor_avenger:0 "复仇者探测器猎人"
+ leader_trait_mem_surveyor_avenger_desc:0 "这位领袖被复仇的怒火驱使着去摧毁狂暴者探测器。"
+ 
+ #Berserker's armies
+ mem_surveyor_invaders:0 "狂暴者陆军"
+ mem_surveyor_invaders_plural:0 "狂暴者陆军"
+ mem_surveyor_invaders_desc:0 ""
+ mem_surveyor_robotomites:0 "机械者陆军"
+ mem_surveyor_robotomites_plural:0 "机械者陆军"
+ mem_surveyor_robotomites_desc:0 ""
+ 
+ mem_surveyor_attrition:0 "削弱"
+ 
+ # Finding Alkree Homeworld
+ mem_surveyor_category:0 "废弃的星球"
+ mem_surveyor_category_desc:0 "尽管[This.GetName]现状看上去不怎么样，但它显然在过去存在着高级生命。 \n\n碎片遗骸散布着科技的痕迹。"
+ 
+ mem_surveyor_alkree_homeworld:0 "废弃的星球"
+ mem_surveyor_alkree_homeworld_desc:0 "在这个星球被某种灾难摧毁之前，它居住着一个先进的文明。在碎片中仍然可以找到技术遗骸。\n\n在上面建立一个§S科研空间站§!将有更多发现。"
+ 
+
+ mem_surveyor.300.name:0 "废弃的星球"
+ mem_surveyor.300.desc:0 "[Leader.GetName]报告说 [Leader.GetHisHer]调查迄今为止尚无定论。[From.GetName]上的文物数量巨大，它们所承受的损伤也是如此。两者都超出了[Root.GetName]或其他[Owner.GetAdj]活动实验室的测量能力。 \n\n最好的行动方案是在这个破碎的星球之上建造一个研究站，并希望筛选残余物能画出更清晰的画面。"
+ mem_surveyor.300.tooltip:0 "我们应该在§Y[From.GetName]§!上建一个§S科研空间站§!以发现更多东西。 \n获得§Y$mem_surveyor_alkree_homeworld$§!修饰, 提供: §G£society +6 £physics +4 £engineering +4§!."
+ 
+ mem_surveyor.302.name:0 "废弃的星球：进一步的发现"
+ mem_surveyor.302.desc:0 "我们在§Y[From.GetName]§!上的研究站已经在行星碎片中筛选了相当长的一段时间，寻找与行星在被摧毁之前栖息的物种有关的信息文物。虽然许多难题仍然模糊不清，但我们的研究结果可以收集到一些见解。\n\n居住在星球上的物种似乎具有类人猿或软体动物的体质。它似乎在各个领域取得了相当大的进步，包括工业，机器人，环境工程，遗传操作和机械改造植入。尽管如此，除了能够超光速旅行之外，他们似乎从未在[From.GetName]之外进行任何冒险。 \n\n各种各样的零碎碎片被确定为行星防御系统的遗骸，暗示他们对外星人入侵非常担心。 尽管如此，尽管他们确实在监视方面投入了大量精力，但没有迹象表明他们曾试图进行先发制人的打击。 \n\n他们遭受厄运的原因仍不清楚。 几千年前，这颗行星被摧毁，有证据表明灾难性的火山爆发可能是罪魁祸首。具有讽刺意味的是，在花了几个世纪担心来自星际的入侵者之后，[From.GetName]的居民对于地下埋藏的危险是完全清楚的。"
+ 
+ mem_surveyor.303.name:0 "废弃的星球：阿尔克雷"
+ mem_surveyor.303.desc:0 "在交叉引用我们关于§Y[the_planet.GetName]§! 的发现之后， 凭借§Y测量者探测器§!的技术构成，可以相当确定他们的相似之处。 [the_planet.GetName]确实是§阿尔克雷帝国§!——探测器的创造者，的母星。 \n\n在他们不合时宜的毁灭之后，探测器仍然是他们遗留下来的最后一块 - 用于评估银河系的危险，它度过了漫长的旅程，却无处可传。"
+ mem_surveyor.303.a:0 "我们应该告诉它吗？"
+ mem_surveyor.303.a.tooltip:0 "一个与§S测量者探测器§!的新的会话主题解锁。"
+ mem_surveyor.303.b:0 "现在它也消失了…"
+ mem_surveyor.303.c:0 "看来我们抹去了阿尔克雷帝国最后的残余。"
+ mem_surveyor.303.d:0 "也许这些信息会使它缓和下来？"
+ mem_surveyor.303.d.tooltip:0 "一个与§S狂暴者探测器§!的新的会话主题解锁。"
+ mem_surveyor.303.e:0 "至少他们的残余不会再打扰我们了。"
+ mem_surveyor.303.f:0 "我们必须清理他们留下的烂摊子。"
+ 
+ mem_surveyor_ceaseless_gaze:0 "永恒的凝视"
+ mem_surveyor_ceaseless_gaze_desc:0 "阿尔克雷人完善了监测的艺术。通过采用他们的技术，我们可以增强我们的被动和主动观测银河系的能力。"

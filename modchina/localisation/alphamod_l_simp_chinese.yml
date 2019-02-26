@@ -1,0 +1,92 @@
+﻿l_simp_chinese:
+ # TOOLTIPS
+
+ # TRAITS
+ trait_high_metabolism:0 "快速代谢"
+ trait_high_metabolism_desc:1 "§L这个物种需要更多的食物，但更有生产力。§!\n"
+ trait_slow_metabolism:0 "代谢缓慢"
+ trait_slow_metabolism_desc:1 "§L这个物种需要的食物更少，但有些工作可能需要更长时间。§!\n"
+ trait_innovative:0 "创新"
+ trait_innovative_desc:1 "这个社会的知识分子经常有更聪明的想法和更多的方法来实现他们。在游戏开始的时候，他们便会增加帝国的所有研究速度的+5%。"
+ innovative_bonus: "创新"
+ innovative_bonus_desc: "这个社会的知识分子经常有更聪明的想法和更多的方法来实现他们。"
+ 
+ trait_robot_multi_tools:0 "多功能"
+ trait_robot_multi_tools_desc:1 "一种模块化设计，允许交换工具，处理多个劳动密集型任务。"
+ 
+ # BUILDINGS
+ building_colony_control_pre:0 "殖民地运维中心"
+ building_colony_control_pre_desc:1 "扩展一个资本设施，为快速发展的新殖民地提供额外的业务。\n\n§R只能在殖民地首都附近建造。§!"
+ building_colony_control:0 "殖民地数控"
+ building_colony_control_desc:1 "这个设施为迅速发展的新殖民地提供了额外的行动。"
+ building_colony_control2:0 "高级殖民地数控"
+ building_colony_control2_desc:1 "这个设施为集中控制和迅速扩大一个殖民地提供了额外的行动。"
+
+ ruins_surveys.2.name:0 "被发现的遗迹"
+ ruins_surveys.2.desc:0 "我们的一艘科研船在他们正在测量的小行星表面找到了一些遗迹。它们的起源尚不清楚，但初步研究表明，它们是可以修复的先进设备。我们需要在星球上进行殖民来利用它们。"
+ 
+ # EDICTS
+ edict_designate_mining_colony:0 "§R指定矿区§!"
+ edict_designate_mining_colony_desc:1 "这个殖民地将专门从事矿产收购和工业。"
+ edict_designate_research_colony:0 "§B指定研究§!"
+ edict_designate_research_colony_desc:1 "这个殖民地将专门进行研究。"
+ edict_designate_energy_colony:0 "§Y指定商业§!"
+ edict_designate_energy_colony_desc:1 "这个殖民地将专门从事能源生产。"
+ edict_designate_food_colony:0 "§G指定农业§!"
+ edict_designate_food_colony_desc:1 "这个殖民地将专门生产食物。"
+ 
+ # MODIFIERS
+ being_exploited: "利用"
+ being_exploited_desc: "由于缺乏工人权利或商业监管，这一人口被私人雇主利用。"
+ crime_victims: "受害"
+ crime_victims_desc: "这个人口被各种犯罪组织和在这个星球上运行的其他元素所伤害。"
+ exploited_striking: "打击中"
+
+ trait_pc_machine_preference: "机械星球偏好"
+ trait_pc_machine_preference_desc: "机器需要机器."
+
+ PROGRESSIVE_CASTE: "逐步种姓"
+
+ cm_neutral_zone: "中立区"
+ pm_neutral_zone: "中立区"
+
+ # POLICIES
+ policy_population_control:0 "人口控制"
+ policy_population_control_desc:0 "当行星达到被认为接近容量的人口水平时我们应该做什么？"
+ population_control_default_none:0 "不执行控制"
+ population_control_default_none_name:0 "不执行控制"
+ population_control_default_none_desc:0 "人口增长最初不会受到限制，人口密度会继续增加。\n§Y任何一个星球都将有一个行星法令来控制它的人口控制。§!"
+ population_control_default_yes:0 "执行控制"
+ population_control_default_yes_name:0 "执行控制"
+ population_control_default_yes_desc:0 "人口增长最初将被限制，使得人口密度继续增加。\n§Y任何星球都将有一个行星法令来解除对它的控制。§!"
+ 
+ tr_adaptability_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_adaptability_adopt$将使我们的§Y水培农场§! 生产 §Y1§! £minerals  矿物。"
+ 
+ # Ascension Perks
+ ap_all_these_worlds: "所有这些世界都是我们的"
+ ap_all_these_worlds_desc: "我们生存并开发任何世界的能力都非常出色。由于我们卓越的技术能力，任何环境都不会被认为是阻碍。"
+ greater_hostile_world_exploitation: "§G通过跟踪调查，可以大大提高识别不宜居住世界的可能性。§!"
+ 
+ requires_world_shaper_or_mon:1 "$TRIGGER_FAIL$需要世界塑造者或自然掌握飞升天赋。"
+ requires_master_builders:1 "$TRIGGER_FAIL$需要建筑大师飞升天赋。"
+
+ ap_mech_lords: "机甲霸主"
+ ap_mech_lords_desc: "机甲霸主是我们军事力量的终极体现，也是我们帝国真正的战士。没有勇气，便不能拥有群星。"
+ requires_medium_mechs: "需要介质动力机械技术."
+ moar_mechage: "§G把另一个攻击装置解锁，增加一个星球的械甲怪的数量和解锁II型械甲怪的数量。§!"
+ 
+ edict_establish_moonbase: "建立月球基地"
+ edict_establish_moonbase_desc: "利用现有的交通工具，在月球轨道上建立一个殖民地。"
+ moonedhome_system_NAME: "家园 w. 月球"
+ moonedhome_system_DESC: "从一个贫瘠的月球家园开始。"
+
+ country_resource_sr_luxuries_add: "Luxuries £sr_luxuries "
+ country_resource_sr_wealth_add: "Wealth £sr_wealth "
+ 
+ sr_medicals:0 "特效药"
+ sr_medicals_desc:1 "先进的药品和医疗设备。"
+ 
+ TITAN_ALM_M_MID: "雷彻"
+ TITAN_ALM_PD_MID: "平纳"
+ TITAN_ALM_PD_STERN: "斯廷"
+ TITAN_ALM_SC_MID: "航母"

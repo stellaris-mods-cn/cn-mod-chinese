@@ -1,0 +1,27 @@
+﻿l_simp_chinese:
+
+tech_reinforced_transport:0 "强化的运输船蓝图"
+tech_reinforced_transport_desc:0 "根据我们巡洋舰的设计,现在可以制造一艘更坚固的运输船，它的耐久性有所提高"
+
+tech_advanced_transport:0 "先进的运输舰蓝图"
+tech_advanced_transport_desc:0 "根据我们战列舰的设计，现在可以建造一艘更坚固的运输舰，具有非凡的耐用性"
+
+tech_noah_transport:0 "诺亚运输项目"
+tech_noah_transport_desc:0 "随着暗能量的运用越发成熟，现在,我们可以建造一个银河系有史以来最强大的运输基底"
+
+tech_transport_plating:0 "专业运输装甲"
+tech_transport_plating_desc:0 "虽然因为轻型镀层装甲,我们的运输及闪避速度更快.但也有一段时间,必须得够摆脱即将到来的炮火.这种特殊的运输方式将大大提高运输船的生存能力,以降低速度和逃避的成本"
+
+tech_tactical_drop:0 "战术空投舱"
+tech_tactical_drop_desc:0 "我们运输技术的进步使得飞船能够安装比传统更快部署入侵的空投舱,将使我们更快的到达地表并对敌人进行毁灭性的打击"
+
+TECH_UNLOCK_REINFORCED_TRANSPORT_TITLE: "§H解锁运输船体:§! 加强的运输船体"
+TECH_UNLOCK_REINFORCED_TRANSPORT_DESC: "§H加强运输船体:§!一种加固的运输船体,配备了一个中槽,两个小的通用槽和一个辅助槽"
+
+TECH_UNLOCK_ADVANCED_TRANSPORT_TITLE: "§H解锁运输船体:§! 高级运输船体"
+TECH_UNLOCK_ADVANCED_TRANSPORT_DESC: "§H先进运输船体:§! 一种先进的运输船体,配备了一个大的通用槽,两个小的通用槽和两个辅助插槽"
+
+TECH_UNLOCK_NOAH_TRANSPORT_TITLE: "§H解锁运输船体:§! 诺亚运输船体"
+TECH_UNLOCK_NOAH_TRANSPORT_DESC: "§H诺亚运输船体:§! 这是一种非常强大的运输船体，装备有两个大的通用槽,四个小的通用槽和四个辅助槽"
+
+shipsize_transport_hull_add: "运输船体强度"

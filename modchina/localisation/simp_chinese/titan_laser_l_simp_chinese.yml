@@ -1,0 +1,50 @@
+﻿l_simp_chinese:
+ 
+ 
+ TITAN_LASER_PROTOTYPE:0 "泰坦光矛原型"
+ TITAN_LASER_PROTOTYPE_DESC:0 "能量武器的进步为一种新型的纯能量武器原型提供了理论基础。"
+ 
+ BLUE_TITAN_LASER:0 "蓝色泰坦光矛"
+ BLUE_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ 
+ GREEN_TITAN_LASER:0 "绿色泰坦光矛"
+ GREEN_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ 
+ RED_TITAN_LASER:0 "红色泰坦光矛"
+ RED_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ 
+ YELLOW_TITAN_LASER:0 "黄色泰坦光矛"
+ YELLOW_TITAN_LASER_DESC:0 "一种优雅的武器，被文明人用在更文明的时代。"
+ 
+ ORANGE_TITAN_LASER:0 "橙色泰坦光矛"
+ ORANGE_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ 
+ PINK_TITAN_LASER:0 "粉色泰坦光矛"
+ PINK_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ 
+ SAPPHIRE_TITAN_LASER:0 "蓝宝石泰坦光矛"
+ SAPPHIRE_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ 
+ CUSTODIAN_TITAN_LASER:0 "监护者泰坦光矛"
+ CUSTODIAN_TITAN_LASER_DESC:0 "一种优雅的武器，被文明的机器用于更文明的时代。"
+ 
+ TITAN_DISINTEGRATOR:0 "泰坦分解者"
+ TITAN_DISINTEGRATOR_DESC:0 "将第五维度武器与现有的泰坦光矛结合起来，就有可能在这一领域创造出极具破坏性的能量束。"
+ 
+  
+ tech_titan_laser:0 "泰坦光矛"
+ tech_titan_laser_desc:0 "一种优雅的武器，被文明的种族用在更文明的时代。"
+ tech_titan_disintegrator:0 "泰坦分解者"
+ tech_titan_disintegrator_desc:0 "将第五维度武器与现有的泰坦光矛结合起来，就有可能在这一领域创造出极具破坏性的能量束。"
+ tech_titan_laser_prototype:0 "泰坦光矛原型"
+ tech_titan_laser_prototype_desc:0 "能量武器的进步为一种新型的纯能量武器原型提供了理论基础。"
+ 
+ titan_awakening.2.name:0 "愤怒的先祖"
+ titan_awakening.2.desc:0 "我们对泰坦光矛的研究并没有被我们通常安静而冷漠的失落帝国所忽视。这一惊人的技术突破的消息在§H[From.GetSpeciesName]§!引起了广泛的恐慌，他们对曾经辉煌的舰队的现状感到恐惧，民众要求改革。在一次全民公投中，随着民族主义者将政治精英和老旧的官僚主义一并扫地，该机构被推翻。§H[From.GetName]§!重整已经开始了，毫无疑问，这是对银河系新威胁的回应。"
+ titan_awakening.2.a:0 "我们做了什么……"
+ 
+ titan_awakening.4.name:0 "泰坦光矛研究"
+ titan_awakening.4.desc:0 "当有报道称一些肮脏的外星人得到了一个破坏力巨大的泰坦光矛的时候，§H[From.GetName]§! 被激怒了。我们不知道谁是激怒者，但它确实激怒了整个§H[From.GetSpeciesName]§!的人民，他们的武器和舰队。让我们希望他们的舰队不要访问我们的世界。"
+ titan_awakening.4.a:0 "我们做了什么……"
+ 
+ 

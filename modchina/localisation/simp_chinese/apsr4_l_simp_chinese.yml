@@ -1,0 +1,182 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr4_planet_modifier:0 "王殿遗址"
+ apsr4_planet_modifier_desc:0 "这里有一座令人难以置信的宏伟的废墟建筑。从它的风格和装饰来看，曾经强大帝国的统治者曾经坐在这个宝座上。"
+ 
+ apsr4_deposit:0 "$apsr4_planet_modifier$"
+ apsr4_deposit_desc:0 "$apsr4_planet_modifier_desc$\n\n§M$apsr4_deposit_effect$§!" 
+ apsr4_deposit_effect:0 "独特的资源可用: $apsr4_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr4_building_part1_text:0 "重建的一小部分§Y王座大厅§!"
+ 
+ apsr4_building_part2_text:0 "重建的§Y王座大厅§!"
+ 
+ apsr4_building_part3_text:0 "重建，适应和现代化的§Y王座大厅§!"
+ 
+ apsr4_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr4_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr4_building_part1:0 "王座大厅"
+ apsr4_building_part1_desc:0 "$apsr4_building_predesc$\n$apsr4_building_part1_text$"
+ 
+ apsr4_building_part2:0 "王座大厅"
+ apsr4_building_part2_desc:0 "$apsr4_building_predesc$\n$apsr4_building_part2_text$"
+ 
+ apsr4_building_part3:0 "王座大厅"
+ apsr4_building_part3_desc:0 "$apsr4_building_predesc$\n$apsr4_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr4_building_part1_fake:0 "$apsr4_building_part1$"
+ apsr4_building_part1_fake_desc:0 "$apsr4_building_fake_predesc$\n$apsr4_building_part1_text$"
+ 
+ apsr4_building_part2_fake:0 "$apsr4_building_part2$"
+ apsr4_building_part2_fake_desc:0 "$apsr4_building_fake_predesc$\n$apsr4_building_part2_text$"
+ 
+ apsr4_building_part3_fake:0 "$apsr4_building_part3$"
+ apsr4_building_part3_fake_desc:0 "$apsr4_building_fake_predesc$\n$apsr4_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr4_building_part1:0 "自适应设计 I"
+ tech_apsr4_building_part1_desc:0 "这座建筑物的修复需要原始图纸。如果图纸丢失，自适应AI可以根据现有数据提供几种最可能的设计。"
+ 
+ tech_apsr4_building_part2:0 "自适应设计 II"
+ tech_apsr4_building_part2_desc:0 "使用自适应人工智能，我们得到了一个完整的§Y王座大厅§!。"
+ 
+ tech_apsr4_building_part3:0 "自适应设计 III"
+ tech_apsr4_building_part3_desc:0 "它仅仅是不够恢复§Y王座大厅§!!，必须使之现代化，使之发挥最大效益。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.4001.title:0 "$apsr4_building_part1$ 建成"
+ apsr.4001.desc:0 "§Y$apsr4_building_part1$§!修复完成，虽然它没有反映出建筑的宏伟，但它已经能够令人敬畏"
+ apsr.4001.ok-button:0 "有趣!"
+ 
+ apsr.4002.title:0 "$apsr4_building_part2$ 建成"
+ apsr.4002.desc:0 "§Y$apsr4_building_part2$§!真是一座宏伟的建筑!其他帝国对我们充满了敬意，我们在银河舞台上的外交影响力显著增强。"
+ apsr.4002.ok-button:0 "非常棒!"
+ 
+ apsr.4003.title:0 "$apsr4_building_part3$ 建成"
+ apsr.4003.desc:0 "§Y$apsr4_building_part23§!恢复了，现在是我们帝国皇冠上的明珠!盟友虔诚地弯曲膝盖前的伟大和力量帝国。"
+ apsr.4003.ok-button:0 "为我们帝国的荣耀干杯!"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.4011.title:0 "发现一个人造物: §M$apsr4_planet_modifier$§!"
+ apsr.4011.desc:0 "科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!领导的一个研究小组发现了一些奇怪的东西。 \n在这里，有一座令人难以置信的宏伟的废墟建筑，从它的建筑特色和装饰来看，曾经是一个强大帝国的住宅统治者"
+ apsr.4011.button:1 "非常棒"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.4013.title:0 "发现一个人造物: §M$apsr4_planet_modifier$§!"
+ apsr.4013.desc:0 "在一个被占领的行星上发现了一些值得注意的东西。 \n从它的建筑特色和装饰来看，曾经是一个强大帝国的统治者的住所"
+ apsr.4013.button:1 "非常棒"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.4015.title:0 "发现人造物: §M$apsr4_planet_modifier$§!"
+ apsr.4015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，是一座空前美丽的废墟建筑，从建筑和装饰上看，曾经强大的帝国的统治者就坐在里面。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr4_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr4_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr4_resource_planet.Owner.GetName]"
+ apsr.4015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr4_special:0 "$apsr4_planet_modifier$"
+ apsr4_special_desc:0 "$apsr4_planet_modifier_desc$"
+ 
+ APSR4_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR4_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr4_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr4_anomaly:0 "$apsr1_anomaly$"
+ apsr4_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.4601.title:0 "$apsr.4011.title$"
+ apsr.4601.desc:0 "$apsr.4011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr4_planet_servant_normal:0 "王座大厅服务人员"
+ job_apsr4_servant_normal:0 "王座大厅管理员"
+ job_apsr4_servant_normal_plural:0 "王座大厅服务人员"
+ job_apsr4_servant_normal_desc:0 "王座厅工作人员的行政负担是巨大的，不仅要了解很多不同种族的文化特点，还要确保外交会议的安全"
+ mod_job_apsr4_servant_normal_add:0 "王座大厅管理员"
+   
+ apsr4_planet_servant_hive:0 "王座大厅工蜂"
+ job_apsr4_servant_hive:0 "王座大厅工蜂"
+ job_apsr4_servant_hive_plural:0 "王座大厅工蜂"
+ job_apsr4_servant_hive_desc:0 "具有组织才能的工蜂，能够考虑到不同文化和社会模式的种族之间的相互作用的许多特点"
+ mod_job_apsr4_servant_hive_add:0 "王座大厅工蜂"
+   
+ apsr4_planet_servant_machine:0 "王座大厅单元"
+ job_apsr4_servant_machine:0 "王座大厅单元"
+ job_apsr4_servant_machine_plural:0 "王座大厅单元"
+ job_apsr4_servant_machine_desc:0 "单元，监督维护秩序，严格执行司仪的命令"
+ mod_job_apsr4_servant_machine_add:0 "王座大厅单元"
+ 
+   
+ apsr4_planet_custodian_normal:0 "王座大厅管理员工"
+ job_apsr4_custodian_normal:0 "司仪"
+ job_apsr4_custodian_normal_plural:0 "王座大厅管理员工"
+ job_apsr4_custodian_normal_desc:0 "司仪在组织最高级别的各种族代表会议方面具有真正独特的才能"
+ mod_job_apsr4_custodian_normal_add:0 "司仪"
+   
+ apsr4_planet_custodian_hive:0 "王座大厅管理工蜂"
+ job_apsr4_custodian_hive:0 "司仪工蜂"
+ job_apsr4_custodian_hive_plural:0 "王座大厅管理工蜂"
+ job_apsr4_custodian_hive_desc:0 "司仪在组织最高级别的各种族代表会议方面具有真正独特的才能"
+ mod_job_apsr4_custodian_hive_add:0 "司仪工蜂"
+   
+ apsr4_planet_custodian_machine:0 "王座大厅管理单元"
+ job_apsr4_custodian_machine:0 "司仪单元"
+ job_apsr4_custodian_machine_plural:0 "王座大厅管理单元"
+ job_apsr4_custodian_machine_desc:0 "该单元有一个关于为最高一级各种族的代表组织会议和仪式的广泛数据库"
+ mod_job_apsr4_custodian_machine_add:0 "司仪单元"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

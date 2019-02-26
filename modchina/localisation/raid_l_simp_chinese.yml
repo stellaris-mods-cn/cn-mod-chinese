@@ -1,0 +1,95 @@
+﻿l_simp_chinese:
+
+# §Ywords§ = Yellow Words
+# §Rwords§ = Red Words
+# §Gwords§ = Green Words
+# §Bwords§ = Blue Words
+# §Swords§ = Orange Words
+# \n£blocker = Blocker Picture
+# \n£society = Society Picture
+# \n£engineering = Engineering Picture
+# \n£physics = Physics Picture
+# \n£energy = Energy Picture
+# \n£minerals = Minerals Picture
+
+#TEMPLATE
+#youranomalyhere_category: "Name of beginning event"
+#youranomalyhere_category_desc: "Desc of beginning event"
+#youranomalyhere.1.name: "Name of event"
+#youranomalyhere.1.desc: "Desc of event"
+#youranomalyhere.1.a: "first answer"
+#youranomalyhere.1.b: "second answer"
+
+ opinion_raidresources_1:0 "袭击我们的空间站"
+ opinion_raidresources_2:0 "袭击我们的星球"
+ opinion_raidresources_3:0 "行星掠袭者"
+ opinion_raid_policy:0 "袭击进攻政策"
+ opinion_honor:0 "战友"
+
+ raidresource_cannot_raid_tooltip:0 "§Y在这个BUFF到期之前，不能对这个行星进行攻击。§!"
+ 
+ raidresource_planet_get_raided:0 "星球袭击"
+ raidresource_planet_get_raided_desc:0 "这颗行星最近遭到了袭击。在它从损失中恢复之前，它不能被再次袭击。\n\n$raidresource_cannot_raid_tooltip$"
+ raidresource_planet_get_raided_light:0 "$raidresource_planet_get_raided$"
+ raidresource_planet_get_raided_light_desc:0 "$raidresource_planet_get_raided_desc$"
+ raidresource_planet_get_raided_heavy:0 "$raidresource_planet_get_raided$"
+ raidresource_planet_get_raided_heavy_desc:0 "$raidresource_planet_get_raided_desc$"
+ raidresource_planet_get_raided_honor:0 "$raidresource_planet_get_raided$"
+ raidresource_planet_get_raided_honor_desc:0 "这颗行星由军队保护，这颗星球上的任何资源都没有受到影响。\n\n$raidresource_cannot_raid_tooltip$"
+ raidresource_planet_get_raided_restored:0 "恢复"
+ raidresource_planet_get_raided_restored_desc:0 "这个星球的经济恢复到以前的状态。\n\n$raidresource_cannot_raid_tooltip$"
+
+ edict_raidresource_planet_restore:0 "§Y恢复§!"
+ edict_raidresource_planet_restore_desc:0 "利用我们的影响力使行星的经济恢复到曾经的状态。\n\n§E只有当行星被袭击时才可用。§!\n\n§Y恢复后，这个星球将会被免疫袭击10年。§!"
+ 
+ policy_policy_raidresource:0 "袭击星球"
+ policy_policy_raidresource_desc:0 "在战争期间，确保敌对星球的安全是有必要的，其中一些则拥有大量的资源。在这里，如果我们愿意，我们可以决定是否要突袭。"
+ policy_raidresource_medium:0 "中度袭击"
+ policy_raidresource_medium_name:0 "中度袭击"
+ policy_raidresource_medium_desc:0 "获得£energy  §Y能量币§! 和 £minerals  §Y矿物§! 这取决于 £planetsize  行星的大小及其发展程度。一旦突袭，15年内它将不能被袭击\n§E在可能的情况下，自动地袭击星球。§!\n\n§R这次袭击可能造成建筑物损毁和人员伤亡。§!\n§R在战争期间这样做会受到外交惩罚。§!"
+ policy_raidresource_light:0 "轻度袭击"
+ policy_raidresource_light_name:0 "轻度袭击"
+ policy_raidresource_light_desc:0 "获得少量的 £energy  §Y能量币§! 和 £minerals  §Y矿物§! 这取决于 £planetsize  行星的大小及其发展程度。一旦遭到袭击，这个星球在10年内就不能被袭击。\n§E可以选择不袭击这个星球吗?§!\n\n§Y这次突袭没有后果。§!"
+ policy_raidresource_heavy:0 "重度袭击"
+ policy_raidresource_heavy_name:0 "重度袭击"
+ policy_raidresource_heavy_desc:0 "获得大量的 £energy  §Y能量币§! 和 £minerals  §Y矿物§! 这取决于 £planetsize  行星的大小和它的发展程度。一旦遭到袭击，这个星球20年就不能被袭击。\n§E在可能的情况下自动突袭内行星§!\n\n§R这次袭击将导致建筑物损毁，并造成人员伤亡。§!\n§R在战争期间这样做会受到外交惩罚。§!"
+ policy_raidresource_honor:0 "荣耀"
+ policy_raidresource_honor_name:0 "荣耀"
+ policy_raidresource_honor_desc:0 "获得 £unity  §G凝聚力§! 和  £influence  §G影响力§! 这取决于 £planetsize  行星的大小和它的发展。.\n§EAutomatically raid the planet when possible§!\n\n§YThis raid has no consequences.§!"
+ 
+ policy_policy_raidresource_station:0 "袭击空间站"
+ policy_policy_raidresource_station_desc:0 "除了袭击行星，我们还可以决定是否袭击他们的空间站，这样的想法是否会出现在脑海中。"
+ policy_raidresource_station_allow:0 "允许"
+ policy_raidresource_station_allow_name:0 "允许"
+ policy_raidresource_station_allow_desc:0 "袭击一个采矿空间站会给我们 £energy  §Y能量币§! 和 £minerals  §Y矿物§! 相当于我们每月收入的十分之一。\n\n一个研究站会给我们§Y研究点数§! 相当于我们月收入的一半。\n\n当我们有 §Y野蛮掠夺者§! 公民性袭击空间站将会得到£unity  §G凝聚力§! 当我们有 §Y野蛮掠夺者§! 公民性 §Y(2.0 Update)§!\n\n§R这样做会扰乱受害者帝国。§!"
+ policy_raidresource_station_outlaw:0 "取缔"
+ policy_raidresource_station_outlaw_name:0 "取缔"
+ policy_raidresource_station_outlaw_desc:0 "在摧毁采矿和研究站的时候，不会破坏它们。"
+ 
+ raidresource.9.name: "[From.From.From.GetName] 失去了"
+ raidresource.9.desc: "§H[From.From.From.GetName]§! 遭到了 §H[From.GetName]§!的猛烈攻击. \n敌人一旦入侵行动成功，就会掠夺我们的资源。"
+ raidresource.9.a: "阻止他们!"
+ raidresource.9.b: "我们不会忘记。"
+ raidresource.9.c: "那些肮脏的东西将会为此付出代价的!"
+ raidresource.10.name: "保卫[From.From.GetName]"
+ raidresource.10.desc: "我们的军队在确保§H[From.GetName]§!的§H[From.From.GetName]§!安全的同时，也在要求我们是否将这些资源用于我们帝国的收入。"
+ raidresource.10.c: "拿走他们能看到的一切!"
+ raidresource.10.b: "这些肯定会增加我们帝国的收入。"
+ raidresource.10.a: "批准,打扫房间。"
+ raidresource.10.a_fp: "永远清洗那些肮脏东西的房间。"
+ raidresource.10.b_fp: "战胜异族的胜利。"
+ raidresource.10.c_fp: "洗净那些垃圾!"
+ raidresource.10.e: "不，我们不会做这样的事。"
+ raidresource.11.name: "$raidresource.9.name$"
+ raidresource.11.desc: "§H[From.From.From.GetName]§!遭到了§H[From.GetName]§!的猛烈攻击。 \n幸运的是，他们对我们的资源不感兴趣，因此我们没有损失任何东西，除了§H[From.From.From.GetName]§!."
+ raidresource.11.a: "很高兴知道。"
+ raidresource.9.tooltip:0 "§R-[FromFromFrom.raidresource_raid_mulitifier_losses_energy]§! £energy §H能量币§! 和 §R-[FromFromFrom.raidresource_raid_mulitifier_losses_minerals]§! £minerals §H矿物§! 来自 §H[From.GetName]§! 捕捉 §H[From.From.From.GetName]§!."
+ raidresource.9.tooltip_pop:0 "§R[FromFromFrom.raidresource_raid_mulitifier_losses_pop]§! £pops  §HPop§! 死于袭击。"
+ raidresource.9.tooltip_pops:0 "§R[FromFromFrom.raidresource_raid_mulitifier_losses_pop]§! £pops  §HPops§! 在这次突袭中被杀。"
+ raidresource.9.tooltip_capital:0 "由于我们的首都星球被袭击而失去了§R50§! £influence  §H影响力§!"
+ raidresource.9.tooltip_food:0 "大约§R[FromFromFrom.raidresource_raid_mulitifier_losses_food]§! £food §H食物§!在这场袭击中失去。"
+ 
+ raidresource.13.desc: "我们的战士获得了§H[From.From.GetName]§!的§H[From.GetName]§!, 他们在地面冲突中的英勇行为不会被忘记。"
+ raidresource.13.a:0 "胜利!"
+ raidresource.13.c:0 "胜利将属于我们!"
+ raidresource.13.b:0 "来自[Root.GetRulerTitle]!"

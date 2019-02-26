@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+
+ ########################
+ ### Static Modifiers ###
+ ########################
+
+    scorned_earth:0 "被玷污的地表"
+        scorned_earth_desc:0 "管理这个世界的帝国对行星事务不感兴趣，导致了疏忽和效率的管理。"
+ 
+    habitat_under_expansion:0 "栖息地扩大"
+        habitat_under_expansion_desc:0 "这个栖息地目前正在进行翻修。"
+ 
+ #########################
+ ### Dynamic Modifiers ###
+ #########################
+    
+    pc_void_dwelling_habitability:0 "虚空住所适居性"

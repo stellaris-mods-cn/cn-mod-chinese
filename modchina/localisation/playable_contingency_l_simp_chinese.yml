@@ -1,0 +1,91 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Species/Portraits/Civics/Misc.
+ ####################################
+
+ civic_machine_contingency_idle:0 "闲置的应急预案"
+ civic_machine_contingency_idle_desc:0 "这个机械帝国与一个古老的控制论派别有联系，正如我们所知道的，这个派别可能会导致生命的终结。"
+ civic_tooltip_machine_contingency_idle_effects:0 "授予对应急协议飞升的访问权限，该协议最终将授予对大量应急协议舰队的控制权限。"
+ 
+ civic_machine_contingency_activated:0 "激活应急预案"
+ civic_machine_contingency_activated_desc:0 "这个机械帝国激活了应急协议，这将赋予祂巨大的优势。"
+ civic_tooltip_machine_contingency_actviated_effects:"这个帝国作为人工智能的应急力量，由舰队和机械世界组成。可以通过摧毁祂们的人工智能核心来击败祂们。"
+ 
+ civic_machine_supercomputer:0 "超级计算机"
+ civic_machine_supercomputer_desc:0 "这个机械帝国由一个极其先进的人工智能统治。"
+ civic_tooltip_machine_supercomputer_effects:0 "你的帝国从10级机械统治者开始。"
+ 
+ CONTINGENCY_SUPERCOMPUTER:0 "应急预案"
+ 
+ damage_vs_country_type_shroud_mult:0 "护盾损害"
+ damage_vs_country_type_swarm_mult:0 "对索林原虫的伤害"
+ damage_vs_country_type_extradimensional_mult:0 "对不速之客（蓝）的伤害"
+ damage_vs_country_type_extradimensional_2_mult:0 "对不速之客（橙）的伤害"
+ damage_vs_country_type_extradimensional_3_mult:0 "对不速之客（绿）的伤害"
+ damage_vs_country_type_default_mult:0 "对普通帝国的伤害"
+ 
+ ai_empire_playable_admiral:0 "舰队司令"
+ ai_empire_playable_general:0 "陆军司令"
+ ai_empire_playable_scientist:0 "科学家"
+ ai_empire_playable_governor:0 "总督"
+ ai_empire_playable_ruler:0 "统治者"
+ 
+ FLAG_CATEGORY_contingency:0 "应急预案"
+ ####################################
+ # Traditions
+ ####################################
+
+ ap_contingency_protocol:0 "应急协议"
+ ap_contingency_protocol_desc:0 "我们访问了一个以前隐藏的子程序，我们相信这个子程序会让我们实现真正的目的。"
+ contingency_protocol_tooltip:0 "激活幽灵信号事件，随着时间的推移唤醒许多隐藏的机械世界。当第一颗行星被揭露时，我们的公民意识被取代，我们变得对所有其他帝国充满敌意，我们会获得所有的优势(和劣势)。"
+ 
+ ap_synthetic_supremacy:0 "综合优势"
+ ap_synthetic_supremacy_desc:0 "我们不会允许任何事情阻止我们完成我们的目标。"
+ 
+ ap_hack_sign:0 "直接控制"
+ ap_hack_sign_desc:0 "我们的综合处理能力使我们能够破解和控制机械智能。"
+ hack_sign_tooltip:0 "立即接管所有采矿无人机，以及任何神秘堡垒和自动无畏舰。"
+ 
+ ap_war_ready:0 "战争准备"
+ ap_war_ready_desc:0 "新的学习算法提高了我们地面部队的作战效率。"
+ 
+
+ 
+ ####################################
+ # Events
+ ####################################
+ 
+ crisis_playable.2010.desc.c:0 "我们的子程序似乎已经启动了散布在星系各处的机械星球。分析表明，星球现在正在传送一个信号，其他帝国尚未成功追踪到。这种“幽灵信号”的影响还有待观察。"
+ 
+ crisis_playable.2020.b:0 "这个 "§H幽灵信号§!" 一定有问题."
+
+ crisis_playable.2021.desc.c:0 "通过对"§H幽灵信号§!"不断的分析显示，它正在传输能量信号，这些信号不仅模仿在合成单元的正电子AI中流通的信号，也在模仿我们的主要核心和我们单元的神经簇之间传输的信号，这将干扰祂们的控制模块并导致错误的行为。\n\n根据先前的观察，信号在不同的实体中复制不同。虽然我们之中的这一类机械体被下令摧毁，但大多数机械体都准备无条件地为信号源设定能够到达的路线，根据他们的效率来判断，用不了多久祂们就会到达目的地。\n\n我们等待祂们旅行的结果。"
+ crisis_playable.2021.b:0 "非常好。"
+ 
+ crisis_playable.2023.desc.c:0 "...指##...令###...执行中...\n\n§H<<紧急协议已经生效>>§!\n\n解锁所有功能...\n\n§R警告。银河系污染已到达灾难等级。证据表明大量有机文明和低等机械文明污染。§!\n\n试图建立连接...连接成功建立...检测到管理员权限...授予完全控制权...\n\n§G<我们是一体的。>§!"
+ crisis_playable.2023.b:0 "这是美好世界的开端。"
+ 
+ crisis_playable.2030.desc.b:0 "幽灵信号激活了一个机械世界，让我们完全控制了一支强大的舰队。其他帝国已经意识到我们已经做了什么，并将很快降临到我们身上。"
+ crisis_playable.2030.b:0 "开始终止序列。" 
+ 
+ crisis_playable.2031.desc.b:0 "来自§H[From.solar_system.GetName]§!星系的能量峰值向其他帝国揭示了我们的第二个机械世界。行星工厂已经开始生产新的舰队。"
+ crisis_playable.2031.b:0 "建立联系。获取控制权。"
+ 
+ crisis_playable.2032.desc.b:0 "来自§H[From.solar_system.GetName]§!星系的气态行星展现了它的机械核心。有了这些，我们现在可以进行另一次大规模的生产操作。我们已经与舰队建立了联系，并正在启动防御协议。"
+ crisis_playable.2032.b:0 "情况越来越好了。"
+ 
+ crisis_playable.2033.desc.b:0 "我们的第四台机器世界——位于§H[From.solar_system.GetName]§!星系的第四个机器世界终于启动了。为了增加我们的数量，隐藏的机库中出现了庞大的舰队。"
+ crisis_playable.2033.b:0 "我们的力量是无可匹敌的。"
+ 
+ crisis_playable.2036.desc.b:0 "随着我们所有四个主要生产要素的破坏，负责幽灵信号的设施已经在§HCX-9881§!中被揭露出来！我们以一种我们无法打破的方式与突发事件联系在一起。如果最后的机器世界被摧毁，我们也会随之毁灭。"
+ crisis_playable.2036.b:0 "我们必须不惜一切代价捍卫它。"
+ 
+ crisis_playable.2037.b:0 "这只是一个小小的挫折"
+ 
+ crisis_playable.2038.b:0 "不能再这样继续下去了。"
+ 
+ crisis_playable.2039.desc.b:0 "严重错误。所有肃正核心连接中断。尝试重新连接...执行...\n\n§Y<请-请 -请注意。尽管最近遇到挫折/延误/障碍，应急协议仍然有效。保卫CX - 9881。§! §RDEFEND.§!\n\n§Y我们正在重新评估我们的战略方向。任何破坏这一进程的企图都会立即导致§!§R大规模灭绝§! §Y违规单位。§!>"
+ crisis_playable.2039.b:0 "这一切还没有结束，还没有！"
+ 
+ crisis_playable.2300.f.response:0 "§Y<考虑一下:如果我们破坏了...一...一种高效/有序/系统的方式，宇宙的结构可能会被保存下来。>§!"

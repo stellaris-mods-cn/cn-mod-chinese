@@ -1,0 +1,131 @@
+﻿l_simp_chinese:
+ tech_alpha_desert_exploitation_1:0 "先进的沙漠开发"
+ tech_alpha_desert_exploitation_1_desc:1 "用更先进的技术来最大限度地利用沙漠环境。"
+ tech_alpha_desert_exploitation_2:0 "先驱沙漠星球"
+ tech_alpha_desert_exploitation_2_desc:1 "研究沙漠星球的先驱构造方法。"
+ tech_alpha_arctic_exploitation_2:0 "先进的极地开发"
+ tech_alpha_arctic_exploitation_2_desc:1 "用更先进的技术来最大限度地利用极地环境。"
+ tech_alpha_verticalfarms:0 "垂直农场"
+ tech_alpha_verticalfarms_desc:1 "在几乎没有水的世界里，使用富含营养的矿物质和阳光的绿色住宅比水培法更有效。最好的方法是“向上”。"
+
+ ###############
+ # TILE BLOCKERS
+ ################
+
+ tb_massive_glacier_locked:0 "£blocker  保护冰川"
+ tb_massive_glacier_locked_desc:1 "冰，它不能被清除。"
+ tb_wild_crops_locked:0 "£blocker  保护野生作物"
+ tb_wild_crops_locked_desc:1 "一大片坚硬的，营养丰富的植物，被保存下来。它不能被清除。"
+ tb_toxic_kelp_locked:0 "£blocker  保护海藻"
+ tb_toxic_kelp_locked_desc:1 "海洋生物，保存完好。它不能被清除。"
+ tb_noxious_swamp_locked:0 "£blocker  保护沼泽"
+ tb_noxious_swamp_locked_desc:1 "沼泽地带，保存完好。它不能被清除。"
+ tb_dangerous_wildlife_locked:0 "£blocker  野生动物保护区"
+ tb_dangerous_wildlife_locked_desc:1 "野生动物，保存完好。它不能被清除。"
+ tb_active_volcano_locked:0 "£blocker  带螺纹的火山"
+ tb_active_volcano_locked_desc:1 "这座火山正在被挖掘，不能被清除。"
+ tb_ancient_forest_locked:0 "£blocker  保护森林"
+ tb_ancient_forest_locked_desc:1 "一大片森林被保留了下来。它不能被清除。"
+ tb_dense_jungle_locked:0 "£blocker  保护丛林"
+ tb_dense_jungle_locked_desc:1 "这片丛林保存完好，无法清除。"
+ tb_mountain_range_locked: "£blocker  采石场"
+ tb_mountain_range_locked_desc:1 "这座山正在被挖掘，无法清除。"
+ 
+ tb_ancient_forest:0 "£blocker  古老的森林"
+ tb_ancient_forest_desc:1 "一大片古老的森林。"
+ tb_alpine_forest:0 "£blocker  高山森林"
+ tb_alpine_forest_desc:1 "一大片耐寒的树林。"
+ tb_wild_crops:0 "£blocker  野生作物"
+ tb_wild_crops_desc:1 "一大片坚硬的、营养丰富的植物。"
+
+ tb_bottomless_pit:0 "£blocker  无底洞"
+ tb_bottomless_pit_desc:1 "这个坑很宽，很深。"
+ tb_craggy_rocks:0 "£blocker  崎岖的岩石"
+ tb_craggy_rocks_desc:1 "这一块巨大的锋利的岩石块会阻碍这里的扩张。"
+ tb_deep_craters:0 "£blocker  深坑"
+ tb_deep_craters_desc:1 "许多巨大的深坑。"
+ tb_rocky_cliffs:0 "£blocker  岩石峭壁"
+ tb_rocky_cliffs_desc:1 "陡峭的悬崖阻止了这里的扩张。"
+
+ tb_alpha_mountain_range:0 "£blocker  巨大的山脉"
+ tb_alpha_mountain_range_desc:1 "这些山很大，非常大，无论我们多么努力，都不会被移除。"
+ tb_alpha_volcano_chain:0 "£blocker  火山链"
+ tb_alpha_volcano_chain_desc:1 "这一系列火山不能被移除，这是这个星球的永恒的存在。"
+ tb_alpha_ice_cap:0 "£blocker  冰帽"
+ tb_alpha_ice_cap_desc:1 "在这个寒冷的偏远地区，一个永久的厚冰层覆盖着海洋。"
+ 
+ tb_great_oasis:0 "£blocker  大绿洲"
+ tb_great_oasis_desc:1 "几乎是一个内陆的海洋，在这个星球的沙漠深处，到处都是淡水，四周是河岸上郁郁葱葱的植被。"
+ tb_geothermal_springs:0 "£blocker  地热湖泊"
+ tb_geothermal_springs_desc:1 "非常温暖的湖泊，由地热活动加热。"
+ tb_jurrasic_valley:0 "£blocker  侏罗纪峡谷"
+ tb_jurrasic_valley_desc:1 "一些非常大的动物曾经栖息在这个山谷中，但是它们已经死去几百万年了。"
+ tb_jungle_riches:0 "£blocker  丛林宝藏"
+ tb_jungle_riches_desc:1 "这片茂密的丛林里有着丰富的生物多样性，其中大部分是可食用的。"
+ tb_ancient_ruins:0 "£blocker  古代遗迹"
+ tb_ancient_ruins_desc:1 "几千年前，有人或者是非常先进的人曾经在这里居住过。"
+ tb_massive_caverns:0 "£blocker  巨大的洞穴"
+ tb_massive_caverns_desc:1 "在这个星球的这个区域下面有一个巨大的洞穴，里面有许多同样巨大的入口。"
+ tb_alpha_ocean_vortex:0 "£blocker  巨大的漩涡"
+ tb_alpha_ocean_vortex_desc:1 "海水盘旋下降到……大概在海底的某个地方。"
+
+ #############
+ # BUILDINGS
+ #############
+ 
+ building_desalinator:0 "海水淡化工厂"
+ building_desalinator_desc:1 "从海水中去除盐。\n\n§R只能在海洋星球上建造。§!"
+  
+ building_forestry:0 "森林林业"
+ building_forestry_desc:1 "这个产业不仅要负责采购自然燃料和生物燃料，还要确保在未来的许多年里持续不断的扩张和增长。\n\n§R只能建在森林或丛林附近。 \n请注意：所有邻近的森林或丛林都将被保存下来，不能被清除。§!"
+ 
+ building_bio_medical:0 "生物医学实验室"
+ building_bio_medical_desc:1 "该研究机构位于生物多样性的源头附近，可以进一步加深我们对生命的了解，促进医学科学的发展。\n\n§R只能在生物多样性障碍附近建造。\n请注意：所有邻近的生物多样性障碍都将被保存下来，不能被清除。§!"
+ 
+ building_geothermal_tap:0 "地热站"
+ building_geothermal_tap_desc:1 "开发地热能源的工业设施。\n\n§R只能建在活火山附近或火山链附近。\n请注意：所有邻近的火山障碍都将被保存下来，不能被清除。§!"
+ 
+ building_greenhousing:0 "温室"
+ building_greenhousing_desc:1 "使用特殊加工的矿物质和太阳在受控的环境中生产水果和蔬菜。多余的太阳能也被抽走了。\n\n§R只能在干旱或苔原星球上建造。\n不能建在有矿物的地块上。\n只能在有食物或有能量币的地块上建造。§!"
+ 
+ building_ice_rig:1 "冰钻机"
+ building_ice_rig_2:1 "冰钻机 II"
+ building_ice_rig_2_desc:1 "在冰中找到任何有用的天然燃料，并进行危险的研究，需要一个冰冻的环境。" 
+ building_ice_rig_desc:1 "在冰中找到任何有用的天然燃料，并进行危险的研究，需要一个冰冻的环境。\n\n§R只能在冰帽或大冰川附近建造。\n请注意：所有相邻的冰川都将被保存下来，不能被清除。§!"
+ 
+ building_moisture_farm:0 "潮湿农场"
+ building_moisture_farm_desc:1 "产生能量并从大气中收集水用于灌溉农业。\n\n§R只能在沙漠、干旱、草原和死寂星球建造。§!"
+ building_moisture_farm_2:0 "Moisture Farm II"
+ building_moisture_farm_2_desc:1 "产生能量并从大气中收集水用于灌溉农业。\n\n§R只能在沙漠、干旱、草原和死寂星球建造。§!"
+ building_moisture_farm_3:0 "Moisture Farm III"
+ building_moisture_farm_3_desc:1 "产生能量并从大气中收集水用于灌溉农业。\n\n§R只能在沙漠、干旱、草原和死寂星球建造。§!"
+
+ building_sand_sifter:0 "砂筛"
+ building_sand_sifter_desc:1 "这些巨大的移动城市用沙子过滤沙漠中的任何有用的东西。\n\n§R只能在沙漠或死寂星球上。\n不能在有能量币的地块上建造。\n只能在有矿物或有食物的地块上建造。§!"
+ building_sand_sifter_2:0 "砂筛 II"
+ building_sand_sifter_2_desc:1 "这些巨大的移动城市用沙子过滤沙漠中的任何有用的东西。"
+ 
+ building_vertical_farms:0 "垂直农场"
+ building_vertical_farms_desc:1 "在恶劣的环境中，最好的方法是在天空中耕种，而不是在地上。"
+ 
+ building_solar_power_plant:0 "太阳能发电厂"
+ building_solar_power_plant_desc:1 "得益于晴朗的天空，这些巨大的太阳电池板生产出巨大的能量。\n\n§R只能在沙漠、干旱或草原星球建造。\n只能在有能量币的地块上建造。§!"
+  
+ building_mountain_quarry: "采石场"
+ building_mountain_quarry_desc: "不断地采购和加工由山脉提供的矿物。\n\n§R只能在山脉附近建造。\n请注意所有相邻的山脉都会被保存，不能被清理。§!"
+ 
+ # REQUIREMENT TOOLTIPS
+ requirement_biodiversity:0 "§R只能在危险的野生动物、有毒的海藻、丛林、森林、野生作物或有毒的沼泽中建造。§!"
+ requirement_adjacent_forest_or_jungle:0 "§R只能在没有被清除的丛林或森林附近建造。§!"
+ requirement_adjacent_icecap_or_glacier:0 "§R只能在没有被清除的冰帽或巨大冰川附近建造。§!"
+ requirement_volcano:0 "§R只能在活火山或火山链附近建造。§!"
+ requirement_mountains:0 "§RCan only be built adjacent to Mountains.§!"
+ requires_minerals_deposit:0 "§R只能在有矿物的地块上建造。§!"
+ requires_no_minerals_deposit:0 "§R不能在有矿物的地块上建造。§!"
+ requires_energy_deposit:0 "§R只能在有能量币的地块上建造。§!"
+ requires_no_energy_deposit:0 "§R不能在有能量币的地块上建造。§!"
+ requires_minerals_or_food_deposit:0 "§R只能在矿物质或食物上建造。§!"
+ requires_energy_or_food_deposit:0 "§R不能在矿物质或食物上建造。§!"
+ 
+ # MISCELLANEOUS MODIFIERS AND RESOURCE LABELS
+ tile_building_resource_unity_add: "凝聚力产出"

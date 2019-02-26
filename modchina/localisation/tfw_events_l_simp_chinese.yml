@@ -1,0 +1,488 @@
+﻿l_simp_chinese:
+ #l_spanish:
+ #l_french:
+ #l_german:
+ #l_braz_por:
+ #l_polish:
+
+ ####################################
+ # Menu Events (originally created by Malthus for MEM)
+ ####################################
+ # Event Chain
+ tfw_options_chain_title:0 "TFW's Bunch o' Ship Parts 选项"
+ tfw_options_chain_desc:0 "在这里你可以打开/关闭一些§HTFW's BOSP mod§!提供的东西。 当你按下打开/关闭按钮时，它会使其出现的机会等于零，为特定的模式组的技术创造机会。这意味着你和AI永远不会有机会在游戏中接受这些东西，但它可以通过作弊获得。这也意味着你可以在游戏中随时打开/关闭任何东西，但是已经研究过的组件将会和你在一起。"
+
+ # Options Project
+ TFW_OPTIONS_PROJECT:0 "激活菜单"
+ TFW_OPTIONS_PROJECT_DESC:0 "这个项目打开选项菜单。"
+ TFW_OPTIONS_REMOVAL_PROJECT:0 "删除菜单"
+ TFW_OPTIONS_REMOVAL_PROJECT_DESC:0 "这个项目在这个游戏中永久地停用了菜单。只有在你不想看到或使用它的时候才这样做。"
+
+ # Basic Functions
+ tfw_options.back:0 "返回"
+ tfw_options.exit:0 "退出"
+
+ # Main Menu
+ tfw_options.4.name:0 "主菜单"
+ tfw_options.4.desc:0 "从这里你可以选择不同的选项类别。"
+ tfw_options.4.a:0 "选择自动化研究中心"
+ tfw_options.4.b:0 "实验室选项"
+ tfw_options.4.c:0 "武器选项"
+ tfw_options.4.d:0 "反应堆选项"
+ tfw_options.4.e:0 "护甲选项"
+ tfw_options.4.f:0 "护盾选项"
+ tfw_options.4.g:0 "传感器选项"
+ tfw_options.4.h:0 "其他选项"
+
+ # ARC Menu
+ tfw_options.5.name:0 "自动化研究中心"
+ tfw_options.5.desc:0 "从这里你可以打开/关闭解锁ARC技术."
+ tfw_options.5.a:0 "§G打开§! "
+ tfw_options.5.b:0 "§R关闭§! "
+ 
+ # Bioweaponry Lab Menu
+ tfw_options.6.name:0 "实验室"
+ tfw_options.6.desc:0 "从这里你可以打开/关闭解锁技术实验室。"
+ tfw_options.6.a:0 "§G打开§! "
+ tfw_options.6.b:0 "§R关闭§! "
+ tfw_options.debug.1:0 "§G开启§! 科技debug (仅用于测试)"
+ tfw_options.debug.2:0 "§R关闭§! 科技debug (仅用于测试)"
+ 
+ # Weapons Menu
+ tfw_options.7.name:0 "Mod武器"
+ tfw_options.7.desc:0 "从这里你可以打开/关闭解锁Mod武器"
+ tfw_options.7.a:0 "§G打开§! "
+ tfw_options.7.b:0 "§R关闭§! "
+ 
+ # Reactors Menu
+ tfw_options.8.name:0 "Mod反应堆"
+ tfw_options.8.desc:0 "从这里你可以打开/关所有技术解锁的mod反应堆"
+ tfw_options.8.a:0 "§G打开§! "
+ tfw_options.8.b:0 "§R关闭§! "
+ 
+ # Armors Menu
+ tfw_options.9.name:0 "Mod护甲"
+ tfw_options.9.desc:0 "从这里你可以打开/关闭解锁mod护甲"
+ tfw_options.9.a:0 "§G打开§! "
+ tfw_options.9.b:0 "§R关闭§! "
+ 
+ # Shields Menu
+ tfw_options.10.name:0 "Mod护盾"
+ tfw_options.10.desc:0 "从这里你可以打开/关闭解锁mod护盾"
+ tfw_options.10.a:0 "§G打开§! "
+ tfw_options.10.b:0 "§R关闭§! "
+ 
+ # Sensors Menu
+ tfw_options.11.name:0 "Mod传感器"
+ tfw_options.11.desc:0 "从这里你可以打开/关闭解锁mod传感器"
+ tfw_options.11.a:0 "§G打开§! "
+ tfw_options.11.b:0 "§R关闭§! "
+ 
+ # Aux Menu
+ tfw_options.12.name:0 "Mod辅助选项"
+ tfw_options.12.desc:0 "从这里你可以打开/关闭解锁其他的mod物质，如辅助物和推进器。"
+ tfw_options.12.a:0 "§G打开§! "
+ tfw_options.12.b:0 "§R关闭§! "
+
+ 
+ ####################################
+ # Planetary Events 
+ ####################################
+ 
+ #Research Complex was built
+ tfw_planetary.10.name:0 "自动化研究综合体"
+ tfw_planetary.10.desc:0 "我们已经在[ROOT.GetName]完成了§H自动化研究中心§!的建设.自动算法已经上线，准备收集和分析所有的信息。但我们也必须建立试验场和专门的自动化研究实验室，使其更有效。"
+ 
+ #Enemy RC was destroyed 
+ tfw_planetary.50.name:0 "研究综合体"
+ tfw_planetary.50.desc:0 "不幸的是，在我们对[From.From.From.GetName]的占领期间，§H自动化研究中心§!被自我毁灭完全摧毁，所有人员都在爆炸中丧生。"
+ tfw_planetary.50.a:0 "什么是遗憾"
+ tfw_planetary.50.b:0 "我们不需要他们落后的技术。"
+ 
+ #A part of Enemy RC is underground
+ tfw_planetary.51.name:0 "研究综合体"
+ tfw_planetary.51.desc:0 "我们的部队进行了一项地下侦察，发现了在[From.From.From.GetName]的表面下的§H自动化研究区§!的残余部分。扫描仪显示，有几个房间装有一些实验室设备。我们应该进去里面吗?"
+ tfw_planetary.51.a:0 "就这样做"
+ tfw_planetary.51.b:0 "这是不值得的。"
+ 
+ #Spoiled planet
+ tfw_planetary.52.name:0 "研究综合体"
+ tfw_planetary.52.desc:0 "我们探索了[From.From.From.GetName]的地下遗址，我们的部队发现了§H自动化研究综合体§!的融合能源。不知何故，这种力量核心在破坏中幸存了下来。但是在拆除残骸的过程中，它的保护层遭到了严重的破坏。这可能导致全球有毒物质的污染。我们应该立即从这个星球撤离我们的军队。"
+ 
+ #Not spoiled planet
+ tfw_planetary.53.name:0 "研究综合体"
+ tfw_planetary.53.desc:0 "我们已经成功地在[From.From.From.GetName]拆除了残破的§H研究综合体§!，现在寻找对我们有用的东西。"
+
+ #ARC owner warning
+ tfw_planetary.54.name:0 "失去星球"
+ tfw_planetary.54.desc:0 "在[From.From.From.GetName]星球上的战斗中，我们的§H自动化研究综合体§!启动了安全协议将它的所有存在痕迹都抹去了。"
+ tfw_planetary.54.a:0 "这是一个巨大的损失。"
+ 
+ #Gain Bonuses
+ tfw_planetary.61.name:0 "研究综合体"
+ tfw_planetary.61.desc:0 "一直以来，我们在[tfw_planet_with_mrc.GetName]的§H自动化研究中心§!正忙着为我们的科学家们做计算。最后我们得到了一些结果。"
+ tfw_planetary.62.name:0 "获得新技术"
+ tfw_planetary.62.desc:0 "经过多日的计算，我们在[tfw_planet_with_mrc.GetName]的§H自动化研究中心§!取得了科学突破!"
+ tfw_planetary.62.tooltip:0 "获得了一种新技术"
+ 
+ #--------------------------------- 
+ # Techs were gained by ARC
+ # Altion Emitter
+ tech_tfw_exd_altion:0 "Altions"
+ tech_tfw_exd_altion_desc:0 "Altions是具有特殊结构的大型超高能粒子，它们无法从我们的标准粒子加速器中获得。一种全新的强相互作用可以防止它们的快速衰变。\n\n"
+ TECH_UNLOCK_TFW_ALTIONS_TITLE:0 "§H解锁研究:§! 先进Altion部件"
+ TECH_UNLOCK_TFW_ALTIONS_DESC:0 "我们深信altion将会为我们提供更先进的模块设计。"
+ TFW_ALTION_EMITTER:0 "Altion发射器"
+ TFW_ALTION_EMITTER_DESC:0 "这种笨重的武器有效射程较短，但对护盾十分有效。"
+ tech_tfw_altion_emitter:0 "Altion发射"
+ tech_tfw_altion_emitter_desc:0 "我们可以研制出一种战斗型的Altion发射器。这种笨重的武器有效射程较短，但对护盾十分有效。"
+ 
+ # Plasma Bow I
+ TFW_P_BOW_1:0 "等离子炮船艏 I"
+ TFW_P_BOW_1_DESC:0 "一种高效的实验性等离子体加速器。"
+ SMALL_TFW_P_BOW_1:0 "小型等离子炮船艏 I"
+ MEDIUM_TFW_P_BOW_1:0 "中型等离子炮船艏 I"
+ LARGE_TFW_P_BOW_1:0 "大型等离子炮船艏 I"
+ tech_tfw_plasma_bow_1:0 "等离子炮船艏 I"
+ tech_tfw_plasma_bow_1_desc:0 "这种武器具有多种创新技术解决方案，例如先进的等离子体冷凝器和强大的电磁加速器。\n\n"
+ # Plasma Bow II 
+ TFW_P_BOW_2:0 "等离子炮船艏 I II"
+ TFW_P_BOW_2_DESC:0 "一种高效的实验性等离子体加速器。"
+ SMALL_TFW_P_BOW_2:0 "小型等离子炮船艏 II"
+ MEDIUM_TFW_P_BOW_2:0 "中型等离子炮船艏 II"
+ LARGE_TFW_P_BOW_2:0 "大型等离子炮船艏 II"
+ tech_tfw_plasma_bow_2:0 "等离子炮船艏 II"
+ tech_tfw_plasma_bow_2_desc:0 "这种武器具有多种创新技术解决方案，例如先进的等离子体冷凝器和强大的电磁加速器。\n\n"
+ 
+ # Biomechanics (non-vanilla)
+ tech_tfw_biomechanics:0 "生物力学"
+ tech_tfw_biomechanics_desc:0 "这个复杂的学科处于物理学和生物学的交叉点，使我们能够设计出大量能让我们公民的生活更加轻松的设备。\n\n"
+
+ # Adv. Gene Modeling
+ tech_tfw_gene_modeling:0 "先进基因建模"
+ tech_tfw_gene_modeling_desc:0 "我们有足够的计算能力来考虑基因密码的所有特征。这使我们能够更自由地组合部分基因，非常准确地预测它们的特性。\n\n"
+ tech_tfw_gene_modeling_modifier_desc:0 "$species_trait_points_add$: $POINTS|0=+$"
+
+ # Adv. Military Ration
+ tech_tfw_adv_mration:0 "改良军用口粮"
+ tech_tfw_adv_mration_desc:0 "多亏新近的研究发展，我们在军事口粮的一些特性方面取得了有利于我们的士兵的一些进展。\n\n"
+  
+ # High Homogeneous Alloys
+ tech_tfw_hhalloys:0 "高均匀性合金"
+ tech_tfw_hhalloys_desc:0 "合金微观结构上的均匀性直接影响其质量和效率。\n\n"
+ 
+ # Gene gun
+ tech_tfw_gene_gun:0 "基因枪"
+ tech_tfw_gene_gun_desc:0 "基因枪是用于将外源DNA导入至细胞的装置。它可以大规模且高效地转换DNA，但需要特殊的粒子来发射。"
+  
+ ####################################
+ # Bioterrorism
+ ####################################
+ tfw_planetary.70.name:0 "军事生物实验室"
+ tfw_planetary.70.desc:0 "我们已经完成了在§H[ROOT.GetName]§!上的§H军事生物实验室§!的建设。现在我们可以开始开发技术来满足我们军队的需求。然而生物武器的真正潜力必须是使用在生物物种的活体样本上才能被完全发现。进行这样的维护和研究需要特殊的条件，我们将升级这个实验室，大大扩展其能力。"
+ tfw_planetary.70.a:0 "积极发展生物武器是我们的首要任务。"
+ tfw_planetary.70.a.tooltip:0 "我们将不得不采取绑架的方案来获得实验样本，这有可能会很危险。此外，我们无法长期隐藏我们的研究，所以我们得考虑我们的邻居有可能产生的负面反应。\n\n你可以手动升级军事生物实验室。"
+ tfw_planetary.70.b:0 "我们最好限制一下对异族的研究。"
+ tfw_planetary.70.b.tooltip:0 "一种更加合法也更安全的方法是对无生命的外星生物样本进行被动式研究。但是这样做效率相当低。"
+ 
+ tfw_planetary.700.name:0 "生物战争"
+ tfw_planetary.700.desc:0 "§H[ROOT.GetName]§!上的§H生物战争实验室§!被摧毁后，我们无法继续进行和生物战争相关的研究。"
+ tfw_planetary.701.desc:0 "§H[ROOT.GetName]§!上的§H生物战争实验室§!被[tfw_fallen_angry.GetName]摧毁后，我们无法继续进行和生物战争相关的研究，尤其是在他们的密切关注下。"
+ tfw_planetary.711.desc:0 "自从我们输掉这场战争之后，我们的§H生物战争实验室§!在§H[FROM.GetName]§!的要求下被摧毁。在他们的密切关注下，我们无法继续进行有关研究。="
+ tfw_planetary.700.a:0 "真不幸。"
+
+ tfw_planetary.703.name:0 "绑架失败"
+ tfw_planetary.703.desc:0 "我们的人在试图从§H[tfw_planet_abduction.GetName]§!绑架物种中被抓捕。这将极大程度破坏我们和§H[tfw_neighbor_abduction.GetSpeciesNamePlural]§!的外交关系并且会推迟我们的研究 --- 我们在实验中需要他们的基因材料。"
+ tfw_planetary.704.desc:0 "我们从§H[tfw_planet_abduction.GetName]§!绑架物种的计划被打断了。我们的人虽然能够及时逃脱，但他们留下了太多相关§H[tfw_neighbor_abduction.GetSpeciesNamePlural]§!的证据。这将严重破坏我们的外交关系并且会推迟我们的研究 --- 我们在实验中需要他们的基因材料。"
+ tfw_planetary.703.a:0 "那就等一阵子再去试试。"
+
+ tfw_planetary.705.1.desc:0 "肮脏的§H[From.GetSpeciesNamePlural]§!试图从§H[tfw_planet_abduction.GetName]§!绑架我们的殖民者。不幸的是，我们没留下活口。这件事最大的可能是他们在为走私奴隶市场寻找受害者。"
+ tfw_planetary.705.2.desc:0 "走私者试图从§H[tfw_planet_abduction.GetName]§!绑架我们的殖民者。不幸的是，他们的舰船走运地溜走了，但我们有证据表明他们是为§H[From.GetSpeciesNamePlural]§!工作。"
+ tfw_planetary.705.a:0 "我们要对他们宣战！"
+ tfw_planetary.705.b:0 "给他们发送最合适的侮辱。"
+ tfw_planetary.705.c:0 "最好忘掉这件事。"
+ tfw_planetary.705.d:0 "他们只是我们的猎物。"
+ 
+ tfw_planetary.706.1.desc:0 "去你的§H[Root.GetSpeciesNamePlural]§!!把你们肮脏的爪子从我们的边境拿远点，畜生，不然我们将把你们称之为首都的猪圈付之一炬！"
+ tfw_planetary.706.2.desc:0 "§H[Root.GetSpeciesNamePlural]§!很缺奴隶吗？那你们本可以从我们这买！不过我们现在可以看出来，你们更喜欢其他的交易方式。\n肮脏的蠕虫，再有这样的把戏，你们将会被我们的军队践踏！"
+ tfw_planetary.706.3.desc:0 "§H[Root.GetSpeciesNamePlural]§!忘了国界在哪了吗？谁给了你们处置我们的人的权力？离我们的殖民地远点，牲口，这样或许我们会可怜可怜你们这些弱不禁风的物种。"
+ 
+ tfw_planetary.71.name:0 "生物战争"
+ tfw_planetary.71.desc:0 "我们在§H生物战争实验室§!完成了新的实验性武器的研制。这些武器使用了多种被证明是对许多有机物种有效的微生物。我们所有的实验对象都死掉了。"
+ tfw_planetary.710.name:0 "生物战争"
+ tfw_planetary.710.desc:0 "我们的§H生物战争实验室§!已经完成了新的实验性武器的研制。其的主要特点是溶解有机和无机物并将它们转化为富含矿物化合物的特殊溶液。这将使我们获得少量的矿物 --- 终于，这些异族杂碎可以有点小小的利用价值！\n现目前我们正在我们的军队中组建配备有这些武器的特殊净化旅。他们将参与处理被俘虏的人口。但你也可以单独招募他们。\n\n注意：现在肃清人口也会给你少量的矿物。"
+ tfw_planetary.710.a:0 "真棒。"
+
+ tfw_planetary.714.name:0 "生物战争"
+ tfw_planetary.714.desc:0 "向任何星球投放生物武器的最有效方式是使用具有致命生物威胁的容器进行轨道轰炸。我们在最短的时间内开发了这项技术。"
+
+ tfw_planetary.715.name:0 "生物战争"
+ tfw_planetary.715.desc:0 "我们的§H生物战争实验室§!已经完成了能够无视任何保护涂层，快速溶解机械单元的新型微生物菌株的开发！现在我们的武器对有机物和无机物都是致命的。"
+
+ tfw_planetary.73.name:0 "情报报告"
+ tfw_planetary.73.1.desc:0 "我们意识到了§H[tfw_xeno_torturer.GetName]§!进行了与实验性武器有关的某种研究。此外，我们的殖民者的几次失踪可能与这项研究有关，但我们没有足够的证据。由于这些信息的泄漏，这一事实已经公之于众。我们必须对此做出反应。"
+ tfw_planetary.73.2.desc:0 "我们意识到了§H[tfw_xeno_torturer.GetName]§!进行了与实验性武器有关的某种研究。此外，我们的殖民者的几次失踪可能与这项研究有关，但我们没有足够的证据。然而，我们必须对此做出反应。"
+ tfw_planetary.73.a:0 "要求[tfw_xeno_torturer.GetSpeciesNamePlural]做出解释。"
+ tfw_planetary.73.b:0 "[tfw_xeno_torturer.GetSpeciesNamePlural]对我们并不危险。"
+ 
+ tfw_planetary.74.1.desc:0 "[From.From.GetSpeciesNamePlural]！我们收到了一些关于你的新武器的令人不安的消息。嗯...我们希望你没有对我们的公民进行你的...实验。此外，想都别想把你们的这个科学研究用到我们身上。我们警告过你了。"
+ tfw_planetary.74.2.desc:0 "[From.From.GetSpeciesNamePlural]！你们危险的玩具无法帮助你打败我们！在正面交锋里我们会给你们上一课。我们随时为此做好了准备。"
+ tfw_planetary.74.3.desc:0 "你们好，[From.From.GetSpeciesNamePlural]。我们希望你们的新武器不会针对我们。否则我们将不得不采取措施来防止这种威胁。 "
+ tfw_planetary.74.4.desc:0 "[From.From.GetSpeciesNamePlural]... 我们一直希望我们各种族之间能和谐共存，但你们在生物战争领域的研究让我们认为是你孤立的行为。理智一点，不要测试我们的耐心。不要使用生物武器来对付活着的生命。"
+ tfw_planetary.74.a:0 "我们向你保证这不会发生。"
+ tfw_planetary.74.a.tooltip:0 "他们可以选择信或者不信。"
+ tfw_planetary.74.b:0 "想要求得和平，必先准备战争，[tfw_neighbor_xeno.GetSpeciesNamePlural]."
+ tfw_planetary.74.b.tooltip:0 "我们对他们并不是真正的威胁。"
+ tfw_planetary.74.c:0 "这不关你的事，[tfw_neighbor_xeno.GetSpeciesNamePlural]."
+ tfw_planetary.74.c.tooltip:0 "他们可能不会喜欢这个。"
+ tfw_planetary.74.d:0 "§P<断开通讯>§!"
+ tfw_planetary.74.d.tooltip:0 "他们将视我们为威胁。"
+
+ tfw_planetary.75.name:0 "生物战争"
+ tfw_planetary.75.1.desc:0 "今天§H[tfw_xeno_torturer.GetName]§!的[tfw_xeno_torturer.GetRulerTitle] [tfw_xeno_torturer.GetRulerName]发表官方声明称，生物武器的开发是为了防止潜在的外部侵略，因此他们的朋友和盟友不用担心什么。"
+ tfw_planetary.75.2.desc:0 "今天§H[tfw_xeno_torturer.GetName]§!的[tfw_xeno_torturer.GetRulerTitle] [tfw_xeno_torturer.GetRulerName]发表官方声明称，生物武器的开发完全属于为了打击他们外部敌人的有限的军事行动，因此他们的朋友和盟友没有什么可担心的。"
+ tfw_planetary.75.a:0 "我们接受这样的解释。"
+ tfw_planetary.75.b:0 "他们不可信。"
+ 
+ tfw_planetary.76.name:0 "生物战争"
+ tfw_planetary.76.desc:0 "既然，[tfw_neighbor_xeno.GetSpeciesNamePlural]想要一些解释。很好。我们的物种繁荣是至关重要的任务，因此的任何手段都是好手段。所以，这不关你的事。"
+ tfw_planetary.76.a:0 "让我们别再进一步破坏我们的关系了。"
+ tfw_planetary.76.b:0 "我们将在外太空驱散你的傲慢！"
+ 
+ tfw_planetary.77.name:0 "生物战争"
+ tfw_planetary.77.desc:0 "[tfw_xeno_torturer.GetRulerTitle] [tfw_xeno_torturer.GetRulerName]，§H[tfw_xeno_torturer.GetName]§!的领导者，忽略了我们的请求，中断了通讯会话。他没有给我们任何解释就离开了。"
+ tfw_planetary.77.a:0 "我们不需要这样冲突。"
+ tfw_planetary.77.b:0 "我们会让他们后悔的！"
+  
+ tfw_planetary.78.name:0 "生物战争"
+ tfw_planetary.78.desc:0 "[tfw_neighbor_xeno.GetRulerTitle] [tfw_neighbor_xeno.GetRulerName]，§H[tfw_neighbor_xeno.GetName]§!的领导者，官方声明指责我们说谎。他说服了其他领导人尽量减少和我们的外交关系。"
+ tfw_planetary.78.a:0 "他会为此付出代价的！"
+ tfw_planetary.78.b:0 "我们别激化这次冲突。"
+ tfw_planetary.78.c:0 "无所谓 --- 没人在意他们的评价。"
+  
+ tfw_planetary.79.name:0 "生物战争"
+ tfw_planetary.79.desc:0 "[tfw_neighbor_xeno.GetRulerTitle] [tfw_neighbor_xeno.GetRulerName]，§H[tfw_neighbor_xeno.GetName]§!的领导人，发布官方声明称，我们各物种之间有充分的相互理解，他希望进一步和平共处。"
+ tfw_planetary.79.a:0 "好啊。"
+ 
+ tfw_planetary.80.1.desc:0 "你这个败类！当我们粉碎你们的舰队，焚烧你们的星球时，不会让你难受太久的。你会最先就被绞死，§H[tfw_xeno_torturer.GetRulerName]§!。"
+ tfw_planetary.80.2.desc:0 "§H[tfw_xeno_torturer.GetRulerName]§!！你们的种族和你个人将会对成千上万的受折磨的生命负责。我们整个银河系都不会原谅你的行为。"
+ tfw_planetary.80.3.desc:0 "§H[tfw_xeno_torturer.GetSpeciesNamePlural]§!！我们不能原谅这样的冒犯。你将为你的行为负全责。"
+ tfw_planetary.80.a:0 "<断开>"
+
+ tfw_planetary.81.desc:0 "尽管你们继续进行生物武器实验并且不打算与我们合作，但我们仍然希望和平解决这个问题，不希望完全破坏我们的关系。也许将来我们会后悔..."
+ tfw_planetary.81.a:0 "你们当然会。"
+ tfw_planetary.81.b:0 "不用担心这个。"
+ 
+ tfw_planetary.82.name:0 "生物战争"
+ tfw_planetary.82.desc:0 "我们无限制的基因操作使我们能够将无害的食草动物变成可怕的生物。初具雏形的智力和出色的狩猎技巧将帮助他们在任何战斗中占上风。"
+
+ tfw_planetary.820.name:0 "生物战争"
+ tfw_planetary.820.desc:0 "在对其中一个生物样本的基因组进行了研究后，我们偶然发现了细胞共生的一个不寻常的样品。经过一些操作，我们孵化了几种类型的寄生虫，它们可以给它们的载体带来一些好处。每种寄生虫都非常适合特定物种。"
+ 
+ tfw_planetary.821.name:0 "生物战争"
+ tfw_planetary.821.desc:0 "在对其中一个生物样本的基因组进行了研究后，我们偶然发现了一种不寻常的免疫反应。经过一些操作，我们合成了一种影响我们士兵的药物，大大提高了他们的战斗力。"
+
+ tfw_planetary.822.name:0 "生物战争"
+ tfw_planetary.822.desc:0 "在对其中一个生物样本的基因组进行了研究后，我们偶然发现了负责病态服从的基因。通过将这些基因适应到某一物种上，我们可以造出非常顺从的奴隶。"
+ 
+ tfw_planetary.83.name:0 "生物战争"
+ tfw_planetary.83.desc:0 "我们已经完成了一种新型的用于太空战斗的厌氧生物的研究，它能够自爆。它们有足够的智力来突破敌人的导弹防御并找到船体上最好的位置来造成最大的伤害。建议在群集中使用它们。"
+ 
+ tfw_planetary.92.name:0 "来自§H[tfw_fallen_angry.GetName]§!的通信"
+ tfw_planetary.92.desc:0 "幼稚的孩子们，我们一直在观察你们对生物的可怕实验。我们必须结束他们的受苦，[Root.GetSpeciesNamePlural]，这是我们的责任！我们也相信，像你们这样的年轻种族配不上拥有这样能照成大规模毁灭的武器！\n\n趁还为时不晚，毁掉你们的§H生物战争实验室§!。"
+ tfw_planetary.92.a:0 "我们接受你的要求。"
+ tfw_planetary.92.a.tooltip:0 "§H$policy_tfw_bioweaponry$§!政策将被设置为§H$tfw_bioweaponry_passive_name$§!。我们的§R生物战争实验室§!将会被拆除，生物武器将被禁止。"
+ tfw_planetary.92.b:0 "你们吓唬不到我们。"
+ tfw_planetary.92.c:0 "呵呵！亲外杂碎。"
+ 
+ tfw_planetary.93.desc:0 "[Root.GetSpeciesNamePlural]！这是你们最后一次防止灾难发生的机会。限制生物武器的使用，毁掉你们的§H生物战争实验室§!，不然我们将亲自动手。"
+ tfw_planetary.93.a:0 "好吧，我们会这样做的。"
+ tfw_planetary.93.b:0 "没门。"
+ 
+ #---------------------------------
+ # Custom Casus Belli
+ casus_belli_cb_tfw_bioweaponry:0 "生物武器研发"
+ 
+ #Custom War Goal
+ war_goal_wg_tfw_stop_bioweaponry:0 "禁止生物武器"
+ war_goal_wg_tfw_stop_bioweaponry_desc:0 "战争是为了禁止生物武器而发起的。敌人也将被迫支付赔款。"
+ wg_tfw_bioweaponry_accept_them:0 "§Y[From.GetName]§!被迫支付赔款，在§Y10§!年内减少他们的§Y矿物§!和§Y能量§!产出；§Y生物战争实验室§!被摧毁，生物武器被禁止。"
+ war_goal_wg_tfw_stop_bioweaponry_fe:0 "禁止生物武器"
+ war_goal_wg_tfw_stop_bioweaponry_fe_desc:0 "战争是为了禁止生物武器而发起的。敌人也将被迫支付惨重的赔款。"
+ wg_tfw_bioweaponry_fe_accept_them:0 "§Y[From.GetName]§!被迫向他们的邻居支付赔款，在§Y10§!年内大量减少他们的§Y矿物§!和§Y能量§!产出；§Y生物战争实验室§!被摧毁，生物武器被禁止。"
+ 
+ NAME_Redemption_by_War:0 "赦免之战"
+ 
+ # Opinion Modifiers  
+ opinion_tfw_abducted_pops:0 "被绑架"
+ opinion_policy_tfw_bioweaponry:0 "生物武器研发"
+ opinion_angered_fallen_empire_tfw:2 "回应侮辱"
+ opinion_tfw_terms_denied:0 "他们挑起冲突。"
+ opinion_tfw_apology_rejected:0 "他们表现冒犯。"
+ opinion_tfw_insult:0 "严重的侮辱"
+ 
+ # Pop Modifiers
+ pop_bioterror_neg:0 "生物武器研发"
+ pop_bioterror_pos:0 "我们拥有让人恐惧的生物武器！"
+ pop_negative_tfw:0 "软弱的权威"
+ pop_decaying_tfw:0 "衰败"
+ 
+ # Custom Policies
+ policy_tfw_bioweaponry:0 "生物武器"
+ policy_tfw_bioweaponry_desc:0 "发展生物武器将有助于我们更有效地发动战争。然而，这可能会导致令人不快的外交政策后果。"
+ tfw_bioweaponry_active_name:0 "没有限制"
+ tfw_bioweaponry_active:0 "没有限制"
+ tfw_bioweaponry_active_desc:0 "我们将积极地从其他物种收集所有必要的样本，并利用我们的发展来对付他们。\n这个选项意味着我们将能够积极地使用全方位的生物武器对抗其他物种。"
+ tfw_bioweaponry_passive_name:0 "有限发展"
+ tfw_bioweaponry_passive:0 "有限发展"
+ tfw_bioweaponry_passive_desc:0 "我们将只在生物战领域进行被动式研究来避免所有风险。使用模型和模拟的实验不如对活生物体的实验有效。\n这个选项禁止开发和使用高效的大规模毁灭性武器。"
+ 
+ policy_tfw_orbital_bombardment_bio:0 "瘟疫轨道轰炸"
+ policy_tfw_orbital_bombardment_bio_desc:0 "对地面设防点的选择性轨道轰炸和特别选择的大规模污染环境的生物武器相结合。目标是彻底的湮灭。"
+ policy_allow_tfw_bio_disable:0 "§R需要政策： “生物武器” - "无限制"§!"
+ tfw_ob_bio_on_name:0 "瘟疫被批准"
+ tfw_ob_bio_on:0 "瘟疫被批准"
+ tfw_ob_bio_on_desc:0 "我们的部队将用生物武器肃清敌人的星球。"
+ tfw_ob_bio_off_name:0 "瘟疫未通过批准"
+ tfw_ob_bio_off:0 "瘟疫未通过批准"
+ tfw_ob_bio_off_desc:0 "这个时候给最好不要使用这么精致的种族灭绝工具。"
+ 
+ # Building Requirements
+ requires_policy_tfw_bioweaponry:0 "§R生物武器政策必须为"无限制"。§!"
+ requires_tfw_labhq_building:0 "§R需要§Y$tfw_labhq_building$§!和§Y$tfw_prvngrnd_building$§!在星球上。§!"
+ 
+ #########Pestilence Orbital Bombardment##########
+ 
+ tfw_biobombed.11.name:0 "[From.GetName]被毁"
+ tfw_biobombed.11.1.desc:0 "一支属于§H[From.From.GetName]§!的舰队已经灭绝了§H[From.GetName]§!的人口！他们使用了生物武器来对付我们！"
+ tfw_biobombed.11.2.desc:0 "§H[From.GetName]§!被§H[From.From.GetAdjective]§!的军队摧毁。我们所有的工作单元都被瓦解了。"
+ tfw_biobombed.11.a:0 "这是一场纯粹的种族灭绝…"
+ tfw_biobombed.11.b:0 "我们要报仇！"
+ tfw_biobombed.11.c:0 "已确认。"
+ tfw_biobombed.12.name:0 "[From.GetName]被净化"
+ tfw_biobombed.12.1.desc:0 "我们的舰队报告他们已经完成了对§H[From.GetName]§!的净化。无视了所有徒劳的企图，它上面的人口无法在我们的高等武器下隐藏。"
+ tfw_biobombed.12.2.desc:0 "舰队报告: §H[From.GetName]§!被净化。人口数量: 0."
+ tfw_biobombed.11.tooltip:0 "§Y[From.GetName]现在已经减少了一些对环境的破坏.§!"
+ tfw_biobombed.13.name:0 "被污染的星球"
+ tfw_biobombed.13.desc:0 "§H[Root.GetName]§!必须清除剩余的感染 - 否则其人口将慢慢消失。然而，清理工作需要我们的时间，资源和特殊技术。"
+ tfw_biobombed.13.a:0 "清理它。"
+ tfw_biobombed.13.b:0 "我们不需要它。"
+ tfw_biobombed.13.b.tooltip:0 "在有相应的科技后，你可以随时批准此行星法令 - 参见行星法令。"
+ tfw_biobombed.131.b.tooltip:0 "在有相应的科技后，你可以随时批准此行星法令 - 参见行星法令。\n$tech_tfw_pestilence_clearing$科研选项已添加。"
+ tfw_biobombed.14.name:0 "被污染的星球"
+ tfw_biobombed.14.desc:0 "我们清理生物威胁的工作已经完成。现在§H[From.GetName]§!变得更加安全了。"
+ tfw_biobombed.16.name:0 "被污染的星球"
+ tfw_biobombed.16.desc:0 "我们在§H[tfw_contaminated_planet.GetName]§!上工作的单元由于土壤中侵略性微生物的高活性而缓慢腐烂！"
+ tfw_biobombed.17.desc:0 "我们在§H[tfw_contaminated_planet.GetName]§!上的人口由于致命传染性病原体在土壤中的活动而承受着不可避免的伤亡！"
+ tfw_biobombed.18.desc:0 "我们在§H[tfw_contaminated_planet.GetName]§!上的人口承受着不可避免的伤亡！我们的机械单位也渐渐腐烂。这个星球上的土壤仍遭受着严重的污染。"
+ tfw_biobombed.16.a:0 "必须清除[tfw_contaminated_planet.GetName]的有害物！"
+ tfw_biobombed.16.b:0 "别拿这件事打扰我。"
+ 
+ #---------------------------------
+ 
+ # Custom Bombardment Stance 
+ bombardment_tfwbio:0 "瘟疫"
+ bombardment_tfwbio_desc:2 "$bombardment_tfwbio$轰炸的目的是对周围环境造成损害来消除星球上生命形态。\n- 对§Y陆军§!造成§H严重§!伤害\n- 对§Y地块§!造成§E轻度§!伤害\n- 对§Y人口§!造成§R大量§!伤害 \n- 将轰炸未设防的行星\n- 造成大规模灭绝"
+ orbital_bombardment_tfwbio:0 "瘟疫"
+ orbital_bombardment_tfwbio_name:0 "瘟疫轨道轰炸"
+ orbital_bombardment_tfwbio_desc:1 "对地面设防点的选择性轨道轰炸和特别选择的大规模污染环境的生物武器相结合。目标是彻底的湮灭。\n\n§E允许选择“瘟疫”轨道轰炸立场。§!"
+
+ # Contamination-related Edict 
+ edict_tfw_pestilence_clearance:0 "去除污染"
+ edict_tfw_pestilence_clearance_desc:0 "这个星球可以清除剩余的感染 - 这将增加其对有机生命的适应性。 去污过程需要一些时间。"
+ tfw_pestilence_clearance_tooltip:0 "移除§R$tfw_pestilence$§!或§R$tfw_pestilence_habitat$§!修饰和§R$tfw_pestilence_tb$§!, §R$tfw_corroded_tb$§! 地块障碍。"
+ 
+ # Planet Modifiers and Tile Blockers
+ tfw_pestilence_tb:0 "死亡谷"
+ tfw_pestilence_tb_desc:0 "这个地方是最后一次生物战争的回声。由于一些自然的原因，这里的致命物质的浓度非常高。"
+ 
+ tfw_corroded_tb:0 "侵蚀景观"
+ tfw_corroded_tb_desc:0 "这一地区受到能分解无机化合物的特殊微生物的严重影响。"
+ 
+ tfw_pestilence:0 "被污染的星球"
+ tfw_pestilence_desc:0 "这颗行星受到了污染。我们不能肯定它的土壤中潜伏着多少致命物质，但其中一些非常危险。直到这颗行星被清理前，甚至机械单位也会慢慢腐烂。"
+ tfw_pestilence_habitat:0 "被污染的栖息地"
+ tfw_pestilence_habitat_desc:0 "这个栖息地受到污染。甚至机械单位也会慢慢腐烂。幸运的是，这种人工栖息地的土壤具有缓慢净化自身的能力。"
+ 
+ tfw_purified_pop:0 "被净化的人口"
+ tfw_purified_pop_desc:0 "这个星球上的大多数人口被加工成矿物质溶液，这种加工的副产物使其土壤和大气中毒。"
+ 
+ # Empire Modifier
+ tfw_contribution:0 "赔款"
+ tfw_contribution_desc:0 "我们被迫为我们先进技术造成的损害支付赔偿金！"
+ tfw_adv_contribution:0 "苛刻的赔款"
+ tfw_adv_contribution_desc:0 "我们被迫为我们先进技术造成的损害支付苛刻的赔偿金！"
+ 
+ 
+ ######## MOTHER TECH AND TECHS GAINED BY BIOLOGICAL WARFARE LAB ########
+ # Pestilence Bombardment Techs
+ tech_tfw_pest_bombardment:0 "瘟疫"
+ tech_tfw_pest_bombardment_desc:0 "向任何星球投放生物武器的最有效方式是使用具有致命生物威胁的容器进行轨道轰炸。我们在最短的时间内开发了这项技术。\n\n"
+ TECH_UNLOCK_PEST_BOMB_TITLE:0 "§H解锁:§! $bombardment_tfwbio$ 轨道轰炸立场"
+ TECH_UNLOCK_PEST_BOMB_DESC:0 "$bombardment_tfwbio_desc$"
+ 
+ # Pestilence Clearance 
+ tech_tfw_pestilence_clearing:0 "扩大清理"
+ tech_tfw_pestilence_clearing_desc:0 "彻底清洁土壤需要开发能有效中和任何微生物威胁的特殊物质。\n\n"
+ 
+ # Biological Warfare
+ tech_tfw_bioterror:0 "生物战争"
+ tech_tfw_bioterror_desc:0 "这方面的研究有许多优点。我们将能够生产各种战斗药剂，对所有类型的有机生物和机械单位都具有致命的效果。\n\n"
+
+ # Planetary Sieges
+ tech_tfw_infect_ammo:0 "传染性弹药"
+ tech_tfw_infect_ammo_desc:0 "我们军队的特种弹药，含有选定的致命生物毒素和传染剂，对付有机敌人很有效。\n\n"
+
+ tech_tfw_purifiers:0 "净化旅"
+ tech_tfw_purifiers_desc:0 "净化器是经过特殊训练的单位，配备先进的生物武器。这些武器利用独特设计的微生物，将异种污物消化成有用的无机化合物！\n§B我们将能从每个被围困的星球上在杀死上面的人口后获得额外的矿物质。§!"
+ TECH_UNLOCK_PURIFIERS_TITLE:0 "§H解锁:§! $tech_tfw_purifiers$"
+ TECH_UNLOCK_PURIFIERS_DESC:0 "$tech_tfw_purifiers_desc$"
+ 
+ tech_tfw_decay_accelerator:0 "C型"
+ tech_tfw_decay_accelerator_desc:0 "我们的生物武器对无机生物的效率极低。新类型的开发将纠正这一缺陷。\n§B我们的生物武器将能够影响机械单位。§!"
+ TECH_UNLOCK_DECAY_ACC_TITLE:0 "§H解锁:§! $tech_tfw_decay_accelerator$"
+ TECH_UNLOCK_DECAY_ACC_DESC:0 "$tech_tfw_decay_accelerator_desc$"
+ 
+ # Suicide Drones
+ MEDIUM_TFW_KAMIKAZE:0 "自杀式无人机"
+ LARGE_TFW_KAMIKAZE:0 "自杀式无人机"
+ TFW_KAMIKAZE:0 "自杀式无人机"
+ TFW_KAMIKAZE_DESC:0 "这些有机自杀式无人机能够穿透敌人的盾牌，并发现舰船装甲的脆弱性，这使它们非常有效，尽管它们比普通的鱼雷和导弹慢。"
+ tech_tfw_kamikaze:0 "有机自杀式无人机"
+ tech_tfw_kamikaze_desc:0 "经过对有机样本的几次基因操作后，我们能够制造出特殊的有机自杀式无人机，可能在战斗中有用。\n\n"
+ 
+ # Army 
+ tfw_purifier_army:0 "净化者"
+ tfw_purifier_army_desc:0 "$tech_tfw_purifiers_desc$"
+ tfw_purifier_bot:0 "净化机器人"
+ tfw_purifier_bot_desc:0 "$tech_tfw_purifiers_desc$"
+ 
+ # Advanced Custom Traits 
+ trait_tfw_cultivated_symbiosis:0 "栽培共生"
+ trait_tfw_cultivated_symbiosis_desc:0 "§L注入宿主体内的特殊适应的微生物可以提供显着的优势，使宿主的存在更加定性。§!"
+ tech_tfw_cultivated_symbiosis:0 "$trait_tfw_cultivated_symbiosis$"
+ tech_tfw_cultivated_symbiosis_desc:0 "这是生物武器发展的副产品。我们孵化了几种类型的寄生虫，为它们的携带者带来了一些好处。每种寄生虫都非常适合某种物种的寄主。\n\n"
+ TECH_TRAIT_SYMBIOSIS_TITLE:0 "§H解锁特质:§! $trait_tfw_cultivated_symbiosis$"
+ TECH_TRAIT_SYMBIOSIS_DESC:0 "$trait_tfw_cultivated_symbiosis_desc$"
+
+ trait_tfw_combat_stimulators_1:0 "战斗刺激药剂"
+ trait_tfw_combat_stimulators_1_desc:0 "§L这个物种使用合成战斗血清在战场上占据优势。§!"
+ trait_tfw_combat_stimulators_2:0 "战斗刺激药剂"
+ trait_tfw_combat_stimulators_2_desc:0 "§L这个物种使用合成战斗血清在战场上占据优势。§!"
+ trait_tfw_combat_stimulators_3:0 "战斗刺激药剂"
+ trait_tfw_combat_stimulators_3_desc:0 "§L这个物种使用合成战斗血清在战场上占据优势。§!"
+ tech_tfw_combat_stimulators_1:0 "$trait_tfw_combat_stimulators_1$"
+ tech_tfw_combat_stimulators_1_desc:0 "这是生物武器发展的副产品。我们合成了这种药物，它影响了我们的士兵，增加了他们的战斗效率。\n\n"
+ tech_tfw_combat_stimulators_2:0 "$trait_tfw_combat_stimulators_1$"
+ tech_tfw_combat_stimulators_2_desc:0 "这是生物武器发展的副产品。我们合成了这种药物，它影响了我们的士兵，增加了他们的战斗效率。\n\n"
+ tech_tfw_combat_stimulators_3:0 "$trait_tfw_combat_stimulators_1$"
+ tech_tfw_combat_stimulators_3_desc:0 "这是生物武器发展的副产品。我们合成了这种药物，它影响了我们的士兵，增加了他们的战斗效率。\n\n"
+ TECH_TRAIT_STIMULATORS_TITLE:0 "§H解锁特质:§! $trait_tfw_combat_stimulators_1$"
+ TECH_TRAIT_STIMULATORS_DESC:0 "$trait_tfw_combat_stimulators_1_desc$"
+ 
+ trait_tfw_slave_gene:0 "奴隶基因"
+ trait_tfw_slave_gene_desc:0 "§L这个物种从基因上被修饰得温顺服从§!"
+ tech_tfw_slave_gene:0 "奴隶基因"
+ tech_tfw_slave_gene_desc:0 "这是生物武器发展的副产品。通过将这些基因整合到他们的基因组织中，我们可以将任何物种制造成完美的奴隶。\n\n"
+ TECH_TRAIT_SLAVEGENE_TITLE:0 "§H解锁特质:§! $trait_tfw_slave_gene$"
+ TECH_TRAIT_SLAVEGENE_DESC:0 "$trait_tfw_slave_gene_desc$"

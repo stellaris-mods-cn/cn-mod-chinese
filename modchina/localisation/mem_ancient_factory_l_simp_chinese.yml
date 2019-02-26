@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ mem_ancient_factory_category:0 "古怪的建筑物"
+ mem_ancient_factory_category_desc:0 "有一堆巨大又奇特的石製建筑群位于[From.GetName]的赤道。"
+
+ mem_ancient_factory.10.name:0 "被弃置的工厂"
+ mem_ancient_factory.10.desc:0 "根据科学家[Root.GetLeaderName]的调查所得，在[From.GetName]上的石製建筑群原来并非如表面上看起来那麽简单：依照建筑群的损毁情况来判断，其实它是由某个不知名的製造者建造的自动化超型工厂，但早在很久以前已经被弃置。虽然工厂的损毁程度过于严重，导致无法被重新启动以满足我们的需求，可是若果我们能够进一步了解它的複杂结构和原理，说不定可以为我们的工厂和自动化系统带来某程度上的益处。"
+
+ mem_ancient_factory.20.name:0 "古怪的建筑物"
+ mem_ancient_factory.20.desc:0 "在[From.From.GetName]上的所谓奇特石製建筑群原来不过于此 ─ 一堆奇形怪状的巨石。原来它其实是一小块完好的恶地，但由于面积太小而被扫瞄器误以为是已经完全开发的地带。"
+ mem_ancient_factory.20.a:0 "好吧。"

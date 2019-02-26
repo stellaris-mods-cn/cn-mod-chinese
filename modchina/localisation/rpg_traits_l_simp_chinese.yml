@@ -1,0 +1,641 @@
+﻿l_simp_chinese:
+#####################################
+ # Traits - ook compleet herschreven
+ ####################################
+ 
+ trait_presentient_brutes:0 "粗野"
+ trait_presentient_brutes_desc:0 "§L这个物种体型硕大且异常强大。§!\n"
+ 
+ trait_iconoclastic1:0 "自由之心"
+ trait_iconoclastic1_desc:0 "§L这个物种对既定的规则和观念有着轻微的厌恶感。§!\n"
+ 
+ trait_iconoclastic2:0 "离经叛道"
+ trait_iconoclastic2_desc:0 "§L这个物种长期拒绝遵从任何的社会标准。他们追求的是“更独特”和与众不同。§!\n"
+ 
+ trait_iconoclastic3:0 "叛逆崇拜"
+ trait_iconoclastic3_desc:0 "§L这个物种痴迷于非主流的愚蠢观点。“嘿！这是主流的，所以就是垃圾，或是种族主义者！”那群人如此叫嚣着。§!\n"
+ 
+ trait_slow_breeders1:0 "缓慢繁殖"
+ trait_slow_breeders1_desc:0 "§L这个物种的出生率很低。§!\n"
+ 
+ trait_slow_breeders2:0 "极度缓慢繁殖"
+ trait_slow_breeders2_desc:0 "§L这个物种的出生率非常低，并且需要很多年才能发育成熟。§!\n"
+ 
+ trait_slow_breeders3:0 "发育停滞"
+ trait_slow_breeders3_desc:0 "§L由于普遍缺乏生育能力，再加上漫长的发育期，使得这一种族几乎完全停滞不前。§!\n"
+ 
+ trait_sedentary:0 "定居不迁"
+ trait_sedentary_desc:0 "§L这个物种的每个人都喜欢呆在家里，对他们而言，一辈子呆在同一个地方才是最好的。§!\n"
+ 
+ trait_nomadic:0 "游牧民族"
+ trait_nomadic_desc:0 "§L这个物种的每个人都有一种强烈的四处旅行的渴望。§!\n"
+ 
+ trait_weak1:0 "孱弱"
+ trait_weak1_desc:0 "§L这个物种相当虚弱，不适合进行体力劳动。§!\n"
+ 
+ trait_weak2:0 "虚弱不堪"
+ trait_weak2_desc:0 "§L这个物种在没有外部帮助的情况下几乎无法移动，对他们来说，举高物体简直难如登天。§!\n"
+ 
+ trait_weak3:0 "软弱无力"
+ trait_weak3_desc:0 "§L这个物种太脆弱了，离开技术援助什么都做不了。即使是最轻松的任务他们也没有力气去做。§!\n"
+ 
+ trait_dumb1:0 "迟钝"
+ trait_dumb1_desc:0 "§L这个物种不是银河系里最聪明的头脑，他们一直在与逻辑和推理做斗争。\n\n 科学研究速度 -10% §!\n"
+ 
+ trait_dumb2:0 "愚笨"
+ trait_dumb2_desc:0 "§L这个物种极其愚蠢。他们的记忆力很差，学习任何东西都效率低下，而且只有一小部分人能完成诸如研究、长期规划、推理和...数学。\n\n 科学研究速度 -25% §!\n"
+ 
+ trait_dumb3:0 "弱智"
+ trait_dumb3_desc:0 "§L这个物种是完全智障的。他们是如何实现星际飞行是一个令人永远费解的谜，因为他们压根无法撰写自己的历史。即使是他们中最聪明的人的记忆力也是糟糕透顶，而且几乎无法进行抽象思维。它们更像是拥有智能的生物，而不是真正意义上具有感知能力的生物。\n\n 科学研究速度 -50% §!\n"
+ 
+ trait_lazy1:0 "无精打采"
+ trait_lazy1_desc:0 "§L为何要工作？§!\n"
+ 
+ trait_lazy2:0 "懒散"
+ trait_lazy2_desc:0 "§L为何要起床？§!\n"
+ 
+ trait_lazy3:0 "怠惰"
+ trait_lazy3_desc:0 "§L为什么？嗯...无所谓啦！§!\n"
+ 
+ trait_badfarmers1:0 "食肉性"
+ trait_badfarmers1_desc:0 "§L这个物种只能吃肉，需要提供更多的农场来供养他们的人口。§!\n"
+ 
+ trait_badfarmers2:0 "大胃王"
+ trait_badfarmers2_desc:0 "§L这一物种的食量相当巨大。§!\n"
+ 
+ trait_badfarmers3:0 "暴食"
+ trait_badfarmers3_desc:0 "§这个物种需要消耗非常多的食物。§!\n"
+ 
+ trait_frail1:0 "软肌"
+ trait_frail1_desc:0 "§L这个物种的皮肤很软，非常容易遭受恶劣环境的伤害。§!\n"
+ 
+ trait_frail2:0 "纤细"
+ trait_frail2_desc:0 "§L这个物种需要一个非常特殊的环境才能生存，而且它们很容易被杀死。§!\n"
+ 
+ trait_frail3:0 "脆弱"
+ trait_frail3_desc:0 "§L强风吹过、轻敲头部、甚至是长时间的阳光照射都会杀死这个物种。他们的躯体非常虚弱，无法适应环境。§!\n"
+ 
+ trait_solitary1:0 "个人主义"
+ trait_solitary1_desc:0 "§L这个物种的领地意识很强，彼此之间不相往来。他们天生就不擅长合作。§!\n"
+ 
+ trait_solitary2:0 "独行侠"
+ trait_solitary2_desc:0 "§L他们喜欢彼此之间住得远远的。他们也不愿意互相沟通。而当他们试图交流时，往往会以暴力收场。§!\n"
+ 
+ trait_solitary3:0 "永世孤独"
+ trait_solitary3_desc:0 "§L这个物种的所有人都倾向于保持独处，他们尽可能地与世隔绝。他们彼此之间时常伴随着侮辱、暴力和战争。他们似乎对墙壁也有着超乎常人的喜好。§!\n"
+ 
+ trait_repugnant1:0 "怪诞"
+ trait_repugnant1_desc:0 "§L这一物种在与外来物种共处或与之交流时感到相当不安。§!\n"
+ 
+ trait_repugnant2:0 "污秽"
+ trait_repugnant2_desc:0 "§L这个物种的交流是相当粗鲁和无礼的。它们还会从皮肤中分泌出不明液体。§!\n"
+ 
+ trait_repugnant3:0 "令人作呕"
+ trait_repugnant3_desc:0 "§L这个物种对几乎所有其他物种都是无礼的、傲慢的、不堪入目的。它们从怪异的、丑陋的孔洞和垂下的肉块中排泄出恶心的异色体液。§!\n"
+ 
+ trait_fleeting1:0 "短命"
+ trait_fleeting1_desc:0 "§L这个物种的寿命从远古时期开始就没有多少改善。§!\n"
+ 
+ trait_fleeting2:0 "转瞬即逝"
+ trait_fleeting2_desc:0 "§L这个物种有着在成年后就非常容易死亡的可怕基因。§!\n"
+ 
+ trait_fleeting3:0 "风中尘埃"
+ trait_fleeting3_desc:0 "§L这个物种在幼年期就步入了中年危机。§!\n"
+ 
+ trait_wasteful1:0 "粗放"
+ trait_wasteful1_desc:0 "§L这个物种不喜欢资源回收，他们倾向于不断生产更多的资源。§!\n"
+ 
+ trait_wasteful2:0 "奢侈"
+ trait_wasteful2_desc:0 "§L对其他人来说的巨大财富与奢侈对这个物种来说是平凡无奇的。§!\n"
+ 
+ trait_wasteful3:0 "颓废"
+ trait_wasteful3_desc:0 "§L除了最好的食品和最稀有的物品外，这个物种对任何东西都无法接受。§!\n"
+ 
+ trait_weakwilled1:0 "畏缩"
+ trait_weakwilled1_desc:0 "§L"我们没有后退，我们只是朝着不同的方向前进！".§!\n"
+ 
+ trait_weakwilled2:0 "懦夫"
+ trait_weakwilled2_desc:0 "§L"我们没有投降，我们只是在进行战术性的权力交换！"§!\n"
+ 
+ trait_weakwilled3:0 "胆怯"
+ trait_weakwilled3_desc:0 "§L"开火？！你疯了吗？如果他们打回来怎么办？！"§!\n"
+ 
+ trait_smart1:0 "聪慧"
+ trait_smart1_desc:0 "§L这个物种相当聪明。即使是普通人也知晓万物情理，并且有着出色的学习天赋。\n\n帝国科研速度+10%§!\n"
+ 
+ trait_smart2:0 "天才"
+ trait_smart2_desc:0 "§L这个物种的学习速度相当惊人。他们是有远见的人，有着令人难以置信的记忆水平和快速组织复杂思想的能力。\n\n帝国科研速度+33%§!\n"
+ 
+ trait_smart3:0 "超智能"
+ trait_smart3_desc:0 "§L基因改良后的神经通道确保了这个社会上每个人都是聪明绝顶的。完美的神经控制使他们能够真正地一心多用或专心致志地专注于一项任务，并以前所未有的速度拓展技能和思想。\n\n帝国科研速度+100%\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_agrarian1:0 "节俭"
+ trait_agrarian1_desc:0 "§L这个物种不需要太多食物，因此他们不需要太多农作耕地。§!\n"
+ 
+ trait_agrarian2:0 "高效节能"
+ trait_agrarian2_desc:0 "§L共生微生物为这一物种提供额外的能量和营养，这大大减少了它们所需的食物消耗。§!\n"
+ 
+ trait_agrarian3:0 "自给自足"
+ trait_agrarian3_desc:0 "§L强化基因的共生微生物几乎消除了这一物种摄取食物的所有需求，他们是完全自给自足。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_robust1:0 "坚韧"
+ trait_robust1_desc:0 "§L这个物种即使在恶劣的环境下也能生存，而且很难被杀死。§!\n"
+ 
+ trait_robust2:0 "钢肤"
+ trait_robust2_desc:0 "§L即使在恶劣的环境中，这个物种也能生存并繁衍后代。他们有多余的器官和四肢，而且是出了名的难以杀死。§!\n"
+ 
+ trait_robust3:0 "艾德曼合金"
+ trait_robust3_desc:0 "§L基因强化了他们的组织结构，注入先进的合金和纳米技术骨骼让他们可以过滤毒素并坚不可摧。他们可以生存在完全陌生的星球上，无论遇到怎么样的困难和险情，他们都不会放弃抵抗。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_thrifty1:0 "积极"
+ trait_thrifty1_desc:0 "§L这个物种喜欢组合些什么、撰写些什么和创造些什么。无论做什么都行，让我们去做些事情吧。§!\n"
+ 
+ trait_thrifty2:0 "好动"
+ trait_thrifty2_desc:0 "§L这个物种几乎从不休息，也很少安静地坐着。他们始终保持活跃，并且以很高速地执行工作。§!\n"
+ 
+ trait_thrifty3:0 "永远清醒"
+ trait_thrifty3_desc:0 "§L增强的反馈神经和康复系统消除了他们的睡眠需求，这使得这个物种充分专注于他们的任务。他们从不缺乏做事的动力，总是以非常快的速度不停地工作。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_rapid_breeders1:0 "生育旺盛"
+ trait_rapid_breeders1_desc:0 "§L这个物种会繁衍许多后代。§!\n"
+ 
+ trait_rapid_breeders2:0 "快速繁殖"
+ trait_rapid_breeders2_desc:0 "§L这个物种并不像兔子那样繁殖————它们繁殖得更快一些。§!\n"
+ 
+ trait_rapid_breeders3:0 "机辅生殖"
+ trait_rapid_breeders3_desc:0 "§L人造子宫与胚胎神经结合在一起，可以促进爆发性的人口增长。与克隆技术有所不同，它们有专门定制的、独特的基因构造，不会破坏自然生育的能力。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_homogenous:0 "同类性"
+ trait_homogenous_desc:0 "§L该物种之间非常相似，缺乏个体多样性。每个人都一样聪明，也和另一个一样健壮。虽然这意味着出现无能之辈的概率非常小，但这也抹杀了他们之中可能存在的更有能力的人才。§!\n"
+ 
+ trait_gifted1:0 "才华"
+ trait_gifted1_desc:0 "§L这个物种有大量的变异与亚种。因此有许多具有特殊天赋或技能的人。§!\n"
+ 
+ trait_gifted2:0 "天赋过人"
+ trait_gifted2_desc:0 "§L人工植入并重组DNA使这个物种的变异程度更上层楼。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_strong1:0 "强壮"
+ trait_strong1_desc:0 "§L这个物种具有像野兽般的强健体魄。§!\n"
+ 
+ trait_strong2:0 "野蛮"
+ trait_strong2_desc:0 "§L能够以极快的速度奔跑，举起十倍于自身的重量的物体，撞碎坚固的岩石墙壁。这个物种异常强壮，他们可以把较为弱小的物种撕成两半。他们用手就可以完成很多任务，而其他人则需要专门的工具。§!\n"
+ 
+ trait_strong3:0 "巨兽"
+ trait_strong3_desc:0 "§L他们的基因改造达到了生物组织所能承受的极限。配合上生物力学辅助装备，这个物种的力量不输给最先进的机器人。它们能够像纸一样撕扯和弯曲金属。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_communal1:0 "社群性"
+ trait_communal1_desc:0 "§L这种物种具有天然群居和公共意识。他们彼此宽容，默契合作。§!\n"
+ 
+ trait_communal2:0 "集体性"
+ trait_communal2_desc:0 "§L这个物种热衷于关照、合作、帮助，并积极地与他人一共工作。§!\n"
+ 
+ trait_communal3:0 "无私奉献"
+ trait_communal3_desc:0 "§L他们的遗传基因决定了这个物种的思考模式是完全利他的。他们生活在和谐与幸福之中，没有犯罪和暴力。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_charismatic1:0 "优雅"
+ trait_charismatic1_desc:0 "§L这个物种总是彬彬有礼，甚至对外来物种也是如此。§!\n"
+ 
+ trait_charismatic2:0 "迷人"
+ trait_charismatic2_desc:0 "§L对外来物种而言，这一物种也具有超凡的魅力。§!\n"
+ 
+ trait_charismatic3:0 "魅力超群"
+ trait_charismatic3_desc:0 "§L在仔细研究了外星讯息并改变信息成分的组合后，这个物种对外来物种具有完美的吸引力。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_conformists1:0 "主流"
+ trait_conformists1_desc:0 "§L如果大多数人认为它是正确的，那么它可能是正确的，对吧？§!\n"
+ 
+ trait_conformists2:0 "循规蹈矩"
+ trait_conformists2_desc:0 "§L"统一则立，分裂则亡。"§!\n"
+ 
+ trait_conformists3:0 "神经受体"
+ trait_conformists3_desc:0 "§L神经植入技术将这个物种的意识与他们自己的观点联系起来。虽然这不是真正的蜂群思维模式，但是他们会彻底粉碎那些对事物有不同的看法。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_venerable1:0 "长者"
+ trait_venerable1_desc:0 "§L这个物种的寿命很长。§!\n"
+ 
+ trait_venerable2:0 "高龄"
+ trait_venerable2_desc:0 "§L"纵然度过了几个世纪,我依然存在与此。"§!\n"
+ 
+ trait_venerable3:0 "不朽"
+ trait_venerable3_desc:0 "§L将基因存储与先进的细胞纳米技术相结合，可以让一个生物体内的DNA无限期地自我修复。再加上超先进的医疗设备，这使得一个生物在临床上几乎是不朽的。\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_resilient1:0 "倔强"
+ trait_resilient1_desc:0 "§L这个物种天生倔强，无所畏惧。即使面对巨大危险，他们也不会放弃战斗。§!\n"
+ 
+ trait_resilient2:0 "鲁莽"
+ trait_resilient2_desc:0 "§L"难道你还不了解那个矮人的倔强吗？"§!\n"
+ 
+ trait_resilient3:0 "不屈"
+ trait_resilient3_desc:0 "§L"呸！这这是一条抓痕而已！"\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_conservational1:0 "节省"
+ trait_conservational1_desc:0 "§L"不浪费，不愁穷。"§!\n"
+ 
+ trait_conservational2:0 "克己"
+ trait_conservational2_desc:0 "§L"并不是贫穷的外星人太少了，而是他们想要的太多了。"§!\n"
+ 
+ trait_conservational3:0 "禁欲"
+ trait_conservational3_desc:0 "§L"Non est ad astra mollis e terris via（拉丁语：从大地通往群星的道路从来都不是平坦的）"\n\n 这是一种高级基因修饰特征。这在游戏中是一个强力的高级修正。你可以从游戏开始就选择它。只是别指望有任何平衡性了。§!\n"
+ 
+ trait_genemod_pest:0 "瘟疫"
+ trait_genemod_pest_desc:0 "§L这个物种就像昆虫一样繁殖，在表现上也颇有昆虫的意思。他们天生就是短命鬼，所以没有得到过什么特别的教育。只有人口过剩是他们的标志。§!\n"
+ 
+ trait_custom_testing:0 "测试用特性"
+ trait_custom_testing_desc:0 "§L权力超越你最狂热的信念。§!\n"
+ 
+ trait_genemod_enraged:0 "暴怒"
+ trait_genemod_enraged_desc:0 "§L他们被移除了压制愤怒的基因，始终维持着最高的荷尔蒙状态。这个物种会恶意攻击所有出现在他们视线中的东西。他们失去了自制力，永远处于盲目的狂怒状态。§!\n"
+ 
+ trait_genemod_lobotomized:0 "脑叶切除"
+ trait_genemod_lobotomized_desc:0 "§L对于这些可怜的家伙来说，他们经历了一场卑劣而粗糙的手术。没有运用什么奇特的基因修饰或纳米技术，他们仅仅是切割了部分脑额叶神经。如今他们只是行尸走肉了。§!\n"
+ 
+ trait_constant_pain:0 "痛苦永存"
+ trait_constant_pain_desc:0 "§L这一物种始终活在持续、扩散和难以忍受的痛苦之中。由于他们是永生的，这意味着他们生活在一个真实而永恒的地狱中。你真是一个出色的作品，不是吗？"哈，不过这仅仅只是个游戏！" - 嗯，当然了。§!\n"
+ 
+ trait_crippled:0 "残废"
+ trait_crippled_desc:0 "§L被安置了基因破坏开关并大幅度降低他们的力量与智力，这确保了这个物种的所有背叛行为终将失败。§!\n"
+ 
+ trait_delicious2:0 "可口佳肴"
+ trait_delicious2_desc:0 "§L这一物种已经被改良为完全符合所有已知和假想中的高级生命口味的状态。§!\n"
+ 
+ trait_effects_weirdass:0 "火灾测试"
+ trait_effects_weirdass_desc:0 "§L火灾率测试类型。§!\n"
+ 
+ trait_decadent:0 "奴隶依赖"
+ trait_decadent_desc:0 "§L这个物种需要奴隶才会保持快乐。当他们拥有这些奴仆时，他们才认为是在享受生活。§!\n"
+ 
+ trait_lingua_idumentis:0 "舌语"
+ trait_lingua_idumentis_desc:0 "§L该物种具有通过外观进行交流的特点。它们对外星生物来说有的觉得他们非常迷人，有些则觉得他们令人沮丧。§!\n"
+ 
+ trait_olfactory:0 "嗅觉交流"
+ trait_olfactory_desc:0 "§L这一物种已经发展出一种完全依赖于气体排出的分泌物和微妙原理的交流方法。§!\n"
+ 
+ trait_lithovore:0 "食岩"
+ trait_lithovore_desc:0 "§L一种以硅为基础的生命形态，不种庄稼。或者正如他们喜欢说的:“我们不播种。”§!\n"
+ 
+ trait_energy_lifeform:0 "能量生命体"
+ trait_energy_lifeform_desc:0 "§L一个纯粹的能量生命。这些生物消耗的是电而不是有机物。§!\n"
+ 
+ trait_euphoria:0 "幸福"
+ trait_euphoria_desc:0 "§L在稳定的喜悦中，这个物种总是快乐而满足的。有时候甚至让人感觉他们有点太知足了。§!\n"
+ 
+ trait_turtles:0 "自卫本能"
+ trait_turtles_desc:0 "§L这一种族本能倾向于只关注帝国防御，他们宁可等待战争结束而不是主动结束战争。\n\n海军战斗力下降，但是防御平台更便宜，并且增加+100%的命中率，增加+100%的伤害。每个空间站都可以容纳5个防御平台，并且拥有巨大的恒星基地容量。§!\n"
+ 
+ trait_utterly_terrifying:0 "恐惧大师"
+ trait_utterly_terrifying_desc:0 "§L噩梦之源，这些可怕的怪物是恐怖和心理战的大师。甚至连最勇敢的士兵在面对他们的时候也被植入了深深的恐惧。§!\n"
+ 
+ trait_sociology_elitists:0 "人文艺术"
+ trait_sociology_elitists_desc:0 "§L这一物种首先追求的是生物研究和人文艺术。他们不介意在今后的日子里成为怎么样的人。\n\n 帝国影响力增加 +25% 地块影响力产出增加 +50% §!\n"
+ 
+ trait_engineering_elitists:0 "机修工"
+ trait_engineering_elitists_desc:0 "§L这个物种痴迷于机械和物质，他们对人口增长或无法证明的理论毫无兴趣。\n\n 建造花费减少 -25%,船只建造速度增加 +20%, 舰船命中率增加 +20%, 舰船装甲增加 +20%§!\n"
+ 
+ trait_physics_elitists:0 "实验狂"
+ trait_physics_elitists_desc:0 "§L这个物种对理论和拥有实际应用效果的微观粒子没有兴趣。他们只关心看不见的东西和伟大的“为什么?”\n\n 护盾值增加 +20%, 武器伤害增加 +20%§!\n"
+ 
+ trait_irradiated:0 "沐浴辐射"
+ trait_irradiated_desc:0 "§L这个物种天生具有抗辐射的能力，他们可以舒适地居住在被伽马射线照射的地方。§!\n"
+ 
+ trait_independent:0 "自立"
+ trait_independent_desc:0 "§L这个物种会顽强抵抗任何试图征服他们的企图。所有人都知道，即使在他们肝脑涂地的时候，他们也会高喊“为了自由————！”§!\n"
+ 
+ trait_silent_observers:0 "沉默观测者"
+ trait_silent_observers_desc:0 "§L"观察，然后学习。" - 这个物种潜伏在遥远的星系中，用巨大的传感器阵列监视着其他物种。\n\n 获得巨型传感器模块，但海军容量有所减少。§!\n"
+ 
+ trait_egg_born:0 "卵型生物"
+ trait_egg_born_desc:0 "§L这个物种在卵内阶段就完全成熟了。这使得他们的殖民活动变得容易不少。\n\n 殖民船更加便宜，并且建造速度更快。§!\n"
+ 
+ trait_hoarders:0 "囤积者"
+ trait_hoarders_desc:0 "§L就像龙一样，这个物种把它的财富囤积得无穷无尽。然而，想要储存这么多物资在一定程度上降低了它们的生产效率。\n\n 资源储存上限 +200000\n\n 轻微的生产惩罚§!\n"
+ 
+ trait_curious:0 "求知欲"
+ trait_curious_desc:0 "§L这个物种天生好奇并富有创造力，它们在搜索中坚持细致入微地调查。这使得他们可以发现更多的异常现象，并想出了替代的解决方案。\n\n 增加2项可选研究方案，异常点发现概率增加 +100%，调查速度降低 -50%§!\n"
+ 
+ trait_uncreative:0 "无心探索"
+ trait_uncreative_desc:0 "§L这个物种没有创造力，也没有探索的欲望。他们非常不善于发现问题并提出解决方案，他们在星际探索中往往只是拍可一张照片随后匆匆离去。\n\n 减少2项可选研究方案，异常点发现概率减少 -50%，调查速度提高 +100%§!\n"
+ 
+ trait_airborne:0 "宇宙之心"
+ trait_airborne_desc:0 "§L"我相信我能飞...嗯？你说我没有鸟类物种的头像？好吧，你就当做我有就是了。" - 这个物种非常适应三维战斗，在星际交战中也表现得更加出色。\n\n 舰船攻击频率上升。\n\n 舰船传感器范围增加。\n\n 舰船回避率提升。§!\n"
+ 
+ trait_titanic:0 "泰坦"
+ trait_titanic_desc:0 "§L"苏醒吧！苏醒吧！沉睡的巨人，醒来吧！"\n\n 泰坦巨型生物，比参天大树还要巨大。他们的建筑物、工具、武器和舰船都是符合他们尺寸而制造的。§!\n"
+ 
+ trait_tiny:0 "袖珍"
+ trait_tiny_desc:0 "§L"这是什么？蚂蚁的飞船？"\n\n 这个物种的身高不到5厘米。任何数量的工具或机器都不能完全消除这样一个事实，即它们所产生的一切都是微小的。即使是他们最大的船也比一般的护卫舰小。§!\n"
+ 
+ trait_titanic_machine:0 "泰坦"
+ trait_titanic_machine_desc:0 "§L"苏醒吧！苏醒吧！沉睡的巨人，醒来吧！"\n\n 泰坦巨型生物，比参天大树还要巨大。他们的建筑物、工具、武器和舰船都是符合他们尺寸而制造的。§!\n"
+ 
+ trait_tiny_machine:0 "袖珍"
+ trait_tiny_machine_desc:0 "§L"这是什么？蚂蚁的飞船？"\n\n 这个物种的身高不到5厘米。任何数量的工具或机器都不能完全消除这样一个事实，即它们所产生的一切都是微小的。即使是他们最大的船也比一般的护卫舰小。§!\n"
+ 
+ trait_shield_obsessed:0 "痴迷护盾"
+ trait_shield_obsessed_desc:0 "§L这一物种在研发超光速航行的技术前就发展了护盾技术，并很快就迷上了它。他们不喜欢护甲，更喜欢“摩亚的盾牌!”\n\n 护盾容量增加 +200%, 装甲减少 -100%§!\n"
+ 
+ trait_armor_obsessed:0 "痴迷装甲"
+ trait_armor_obsessed_desc:0 "§L这个物种从不关心像护盾这样的幻想产物。他们甚至不乐意接受能量屏蔽的概念，转而支持更结实的优质护甲。\n\n 护盾容量减少 -100%, 装甲增加 +200% §!\n"
+ 
+ trait_subterranean:0 "地底挖掘"
+ trait_subterranean_desc:0 "§L天生的挖掘者。这个物种大多生活在地下，不断地向深处挖掘。即使是最小的行星，给它们足够的时间他们也会创造出一个隧道网络。\n\n 任何一个被这个物种所居住的星球都会慢慢变成25格的大小。§!\n"
+ 
+ trait_winter:0 "冬眠"
+ trait_winter_desc:0 "§L这个物种来自一个有着漫长冬天的行星。它们一旦开始冬眠就会持续一整年，每十年一个循环。\n\n 每十年，你的物种进入冬眠，瘫痪你的经济生产与军事行动。§!\n"
+ 
+ trait_bonus:0 "公开奖励"
+ trait_bonus_desc:0 "§L为这个物种提供一个免费的特质奖励。仅限于自娱自乐或者定制更强大的挑战，否则这只是一种堂而皇之的作弊。好吧，若你只是想要给你的物种增加最好的特质，就不要抱怨这个游戏索然无趣了。§!\n"
+ 
+ trait_penalty:0 "自设障碍"
+ trait_penalty_desc:0 "§L想要更多挑战？试试给自己一些特质惩罚。\n\n§!\n"
+ 
+ trait_penalty2:0 "就是它了"
+ trait_penalty2_desc:0 "§L无法停止一直最小最大化？给自己这样的惩罚让自己不那么内疚吧。\n\n§!\n"
+ 
+ trait_penalty3:0 "受虐狂"
+ trait_penalty3_desc:0 "§L这是游戏中最好的特质了...如果你喜欢在无数个小时内纠结痛苦的话。\n\n§!\n"
+ 
+ trait_custom_race:0 "自定义游戏"
+ trait_custom_race_desc:0 "§L如果你想要开一局定制AI的游戏，你必须加上这个特质。它可以防止在游戏开始时其他随机特质分配给AI。如果你不给你定制的AI种族这个特点，它将会有额外的随机特质，这将搞砸你的构思和种族设计。\n\n 玩家多人模式除外。§!\n"
+ 
+ trait_living_planet:0 "星球意志"
+ trait_living_planet_desc:0 "§L这个有机体覆盖了它的整个母星并且根深蒂固。它就是这个星球，而星球就是它。他们精神统一，完美和谐。这个活着的星球不容许其他物种或行星存在。\n\n整个游戏中独树一帜的强大母星。无法殖民其他行星。不能吞并行星。不能接受移民。无法迁移。没有外交。一旦吞并其他星球，那个星球将被永久摧毁。§!\n"
+ 
+ trait_cybernetic:0 "改造人"
+ trait_cybernetic_desc:0 "§L甚至在发现超光速航行之前，这个物种就已经开始尝试自我改造。在很长一段时间内，他们开始用合成的方法替换他们的有机身体。四肢、神经植入物、传感器...即使在婴儿时期，他们通常也已经被“强化”了。\n\n 无法进入基因进化和灵能飞升路线。§!\n"
+ 
+ trait_synthetic_lifeform:0 "合成生命体"
+ trait_synthetic_lifeform_desc:0 "§L这是一种人造生命体。它们不需要摄入有机物，不需要呼吸，也不会衰老，而且它们比大多数有机物更强壮、更迅捷、更聪明。§!\n"
+ 
+ trait_robot_killer_bots1:0 "杀手无人机"
+ trait_robot_killer_bots1_desc:0 "§L配备各类武器的无人侦察机。显而易见，它们在战场上有着无与伦比的精度和火力，是摧毁有机地面部队和屠杀平民的最好的方式。§!\n"
+ 
+ trait_robot_killer_bots2:0 "终结者"
+ trait_robot_killer_bots2_desc:0 "§LI'll be back.§!\n"
+ 
+ trait_psionic_shifters:0 "相移"
+ trait_psionic_shifters_desc:0 "§L这些灵能者不仅仅是拥有灵能，更确切地说，是“超越物质的思想”。他们可以在自己的闲暇时间里改变自己的身体形态，穿过坚固的物体，以不可思议的速度移动，用最低的维度操纵现实中的物体。§!\n"
+ 
+ trait_psionic_ethereals:0 "以太化身"
+ trait_psionic_ethereals_desc:0 "§L这些灵能者已经完全掌握了如何改变客观现实。他们已经完全超越了其他的事物，大多居住在一个没有空间、物质和时间的超空间里。他们有着许多别称：鬼、天使、亚空间异常...以太化身不会饥饿，从不休息也不会死亡。它们只通过强大的灵能交互来影响客观世界。虽然它们比大多数生物更有能力，但它们仍然可能暂时性的被武力驱逐出客观世界。§!\n"
+ 
+ trait_robodesign_terminators:0 "战争机器"
+ trait_robodesign_terminators_desc:0 "§L它们是为了战争而设计出来的，用于执行某些特殊的任务。§!\n"
+ 
+ trait_robodesign_miners:0 "采矿机器"
+ trait_robodesign_miners_desc:0 "§L一个巨大的采矿网络，由各种专门的采矿工具和设备组成。没有这台机器的大钻头解决不了的任务。§!\n"
+ 
+ trait_robodesign_servitors:0 "仆人"
+ trait_robodesign_servitors_desc:0 "§L这些机器人最初是作为行政管理而创建的，它们在管理和服务性任务方面做得很好。他们不具备处理繁重任务和复杂分析的机能。§!\n"
+ 
+ trait_robodesign_harvesters:0 "收割者"
+ trait_robodesign_harvesters_desc:0 "§L巨大、笨重的农业机器人。这些机械并没有被设计统治行星或消灭它们的有机创造者的思想，但不知为何它们却那么做了。§!\n"
+ 
+ trait_robodesign_science:0 "研究机器人"
+ trait_robodesign_science_desc:0 "§L配备了最先进的人工神经量子处理器，这些机器人擅长复杂的分析。§!\n"
+ 
+ trait_robodesign_terminators_robot:0 "战争机器"
+ trait_robodesign_terminators_robot_desc:0 "§L它们是为了战争而设计出来的，用于执行某些特殊的任务。§!\n"
+ 
+ trait_robodesign_miners_robot:0 "采矿机器"
+ trait_robodesign_miners_robot_desc:0 "§L一个巨大的采矿网络，由各种专门的采矿工具和设备组成。没有这台机器的大钻头解决不了的任务。§!\n"
+ 
+ trait_robodesign_servitors_robot:0 "仆人"
+ trait_robodesign_servitors_robot_desc:0 "§L这些机器人最初是作为行政管理而创建的，它们在管理和服务性任务方面做得很好。他们不具备处理繁重任务和复杂分析的机能。§!\n"
+ 
+ trait_robodesign_harvesters_robot:0 "收割者"
+ trait_robodesign_harvesters_robot_desc:0 "§L巨大、笨重的农业机器人。这些机械并没有被设计统治行星或消灭它们的有机创造者的思想，但不知为何它们却那么做了。§!\n"
+ 
+ trait_robodesign_science_robot:0 "研究机器人"
+ trait_robodesign_science_robot_desc:0 "§L配备了最先进的人工神经量子处理器，这些机器人擅长复杂的分析。§!\n"
+ 
+ trait_robodesign_terminators_synth:0 "战争机器"
+ trait_robodesign_terminators_synth_desc:0 "§L它们是为了战争而设计出来的，用于执行某些特殊的任务。§!\n"
+ 
+ trait_robodesign_miners_synth:0 "采矿机器"
+ trait_robodesign_miners_synth_desc:0 "§L一个巨大的采矿网络，由各种专门的采矿工具和设备组成。没有这台机器的大钻头解决不了的任务。§!\n"
+ 
+ trait_robodesign_servitors_synth:0 "仆人"
+ trait_robodesign_servitors_synth_desc:0 "§L这些机器人最初是作为行政管理而创建的，它们在管理和服务性任务方面做得很好。他们不具备处理繁重任务和复杂分析的机能。§!\n"
+ 
+ trait_robodesign_harvesters_synth:0 "收割者"
+ trait_robodesign_harvesters_synth_desc:0 "§L巨大、笨重的农业机器人。这些机械并没有被设计统治行星或消灭它们的有机创造者的思想，但不知为何它们却那么做了。§!\n"
+ 
+ trait_robodesign_science_synth:0 "研究机器人"
+ trait_robodesign_science_synth_desc:0 "§L配备了最先进的人工神经量子处理器，这些机器人擅长复杂的分析。§!\n"
+ 
+ trait_robodesign_androids:0 "仿真机器人"
+ trait_robodesign_androids_desc:0 "§L它们由有机生物所制造出来，这些机器以一种非常平衡的方式模仿它们的有机制造者，并最终获得了知觉。 \n \n 这是智能机械的基础特质。§!\n"
+ 
+ trait_robodesign_synthetic:0 "有机上传"
+ trait_robodesign_synthetic_desc:0 "§L该结构携带着生物思想并被上传至先进的量子计算机中。因此他们同时具备生物与机械的优点。§!\n"
+ 
+ trait_robot_durable2:0 "自我修复"
+ trait_robot_durable2_desc:0 "§L这些机器以维护保养为基础，具有部分自我修复和互换的功能。因此它们的维护成本非常低。§!\n"
+ 
+ trait_robot_high_maintenance2:0 "粗劣设计"
+ trait_robot_high_maintenance2_desc:0 "§L这台机器的框架严重过度设计，很快就会崩溃分解。§!\n"
+ 
+ trait_robot_crude_neural_network:0 "僵化"
+ trait_robot_crude_neural_network_desc:0 "§L虽然在底层处理上有着强大的性能，但这台机器所加载的神经系统是相当粗糙和低效的。这个人工智能在适应与学习方面的速度相当慢。§!\n"
+ 
+ trait_robot_crude_neural_network2:0 "停滞"
+ trait_robot_crude_neural_network2_desc:0 "§L基于一种非常早期的神经网络模式，这种机器只能在多次迭代之后才能适应信息输入。其自我改变的属性（或称为“学习能力”）非常慢。§!\n"
+ 
+ trait_robodesign_fake_ai:0 "无智"
+ trait_robodesign_fake_ai_desc:0 "§L由于缺乏许多基本算法，这一系统在本质上还称不上是一个真正的智能。它虽然可以执行各种任务，但不会自主进化与发展。唯一能让它们成为真正智能的方法是纯粹的意外，或者是某种神奇的力量巧妙地引导它们获得启蒙。§!\n"
+ 
+ trait_robot_dakka:0 "弹头"
+ trait_robot_dakka_desc:0 "§L它们装备了最新的小型武器，这些机器是在战场上极具威胁，他们的射击精度和反应时间几乎都没有误差。§!\n"
+ 
+ trait_robot_more_dakka:0 "更强弹头"
+ trait_robot_more_dakka_desc:0 "§L你拥有强大的火力。修改过的结构拥有极强的能量武器和小型核聚变炸弹。§!\n"
+ 
+ trait_robot_simple1:0 "简单设计"
+ trait_robot_simple1_desc:0 "§L一个既简单又便宜的设计方案。可以批量生产，但缺少许多有用的附加功能。§!\n"
+ 
+ trait_robot_simple2:0 "极简主义"
+ trait_robot_simple2_desc:0 "§L这个机械构架是为了实现相对低廉的价格而生产的。设计粗糙且用料也不考究，这当然不是最优雅的设计，但是制作起来非常简单。§!\n"
+ 
+ trait_robot_complex1:0 "复杂设计"
+ trait_robot_complex1_desc:0 "§L设计更复杂的系统会带来更多麻烦，从而产生更多开发成本，但这样做可以让我们配备更先进的系统。§!\n"
+ 
+ trait_robot_complex2:0 "前沿系统"
+ trait_robot_complex2_desc:0 "§L这些机械框架在设计时从不考虑成本。它们性能优越，但是非常耗费时间和资源。§!\n"
+ 
+ trait_robot_simple1_robot:0 "简单设计"
+ trait_robot_simple1_robot_desc:0 "§L一个既简单又便宜的设计方案。可以批量生产，但缺少许多有用的附加功能。§!\n"
+ 
+ trait_robot_simple2_robot:0 "极简主义"
+ trait_robot_simple2_robot_desc:0 "§L这个机械构架是为了实现相对低廉的价格而生产的。设计粗糙且用料也不考究，这当然不是最优雅的设计，但是制作起来非常简单。§!\n"
+ 
+ trait_robot_complex1_robot:0 "复杂设计"
+ trait_robot_complex1_robot_desc:0 "§L设计更复杂的系统会带来更多麻烦，从而产生更多开发成本，但这样做可以让我们配备更先进的系统。§!\n"
+ 
+ trait_robot_complex2_robot:0 "前沿系统"
+ trait_robot_complex2_robot_desc:0 "§L这些机械框架在设计时从不考虑成本。它们性能优越，但是非常耗费时间和资源。§!\n"
+ 
+ trait_robot_learning_algorithms2:0 "预知学习"
+ trait_robot_learning_algorithms2_desc:0 "§L复杂的量子态网络可以预测最佳方案，而不是仅仅通过反复试验和犯错。这是一种更加强大的机器智能形态。§!\n"
+ 
+ trait_precursor:0 "先驱者"
+ trait_precursor_desc:0 "§L他们不是最年轻的文明，这群先驱者存在于这个银河已经非常久了。即使他们缺乏领土，他们也没有像堕落帝国那样傲慢自大。\n\n 可选的初始特质-你从一个高度发达的行星开始游戏。由于你是古老的存在，除了额外的特质外，你拥有大量的资源和额外的初始科技。这并不会让你像真正的堕落帝国那样强大，但你的帝国也不会受到局限。\n\n 这个可选特质完全没有平衡可言。你需要确定你想要那么做，或者把它设置给AI来迎接挑战。§!\n"
+ 
+ trait_psionic_start:0 "灵能者"
+ trait_psionic_start_desc:0 "§L这个物种在离开地表之前就掌握了灵能。\n\n 可选的初始特质-游戏开始时解锁两个灵能飞升。\n\n 这个可选特质完全没有平衡可言。你需要确定你想要那么做，或者把它设置给AI来迎接挑战。§!\n"
+ 
+ trait_ethereal_start:0 "以太化身"
+ trait_ethereal_start_desc:0 "§L这些灵能者已经完全掌握了如何改变客观现实。他们已经完全超越了其他的事物，大多居住在一个没有空间、物质和时间的超空间里。他们有着许多别称：鬼、天使、亚空间异常...以太化身不会饥饿，从不休息也不会死亡。它们只通过强大的灵能交互来影响客观世界。虽然它们比大多数生物更有能力，但它们仍然可能暂时性的被武力驱逐出客观世界。§!\n"
+ 
+ trait_preftl:0 "前超光速文明"
+ trait_preftl_desc:0 "§L可选择的开局设定-你无法使用超光速航行科技和其他基础技术。为什么要选这个？我不知道，也许你喜欢靠自己的脚去旅行。§!\n"
+ 
+ trait_strogg:0 "机械构装体"
+ trait_strogg_desc:0 "§L这个物种已经看不出曾经是什么样子了。它被切割、扭曲并塑造成一个合成控制单元。机械的四肢从烧焦的腐肉中伸展出来。这里多了一双眼睛，那里又有一对手臂，这些构造通常是由几个生物种类组成的，它们与机械部件交融在一起并互相匹配。这个物种每个人几乎都没有个性差异，它们用粗糙的神经接口彼此连接在一起。§!\n"
+ 
+ trait_robodesign_geth:0 "G.E.T.H."
+ trait_robodesign_geth_desc:0 "§L"高传输处理的格式塔实体" - 一种特殊的人工智能设计，当它们组合在一起时，实体会变得更有效和更有能力。它们的构架只能容纳一个小型程序，而一个实体的智能就像动物一样聪明，庞大的组织框架通过共享它们的计算结果来产生真正的智能。\n\n 在人口不足的情况下会受到很大的惩罚，但当更多的单位出现在一个星球上时，它们就会变得更加高效。最多可以获得20人口的“组合”加成。§!\n"
+ 
+ trait_robodesign_nanoswarm:0 "纳米灰雾"
+ trait_robodesign_nanoswarm_desc:0 "§L大群脆弱的有机生物未必是最理想的形式。纳米机器人如今的发展水平已经可以容纳一个完全具有感知能力的编程并完成几乎不可能的壮举，比如在几个小时内建造和分解整个城市和舰队。§!\n"
+ 
+ trait_robodesign_nanoswarm_synth:0 "纳米灰雾"
+ trait_robodesign_nanoswarm_synth_desc:0 "§L我们之前的形态未必是最理想的形式。纳米机器人如今的发展水平已经可以容纳一个完全具有感知能力的编程并完成几乎不可能的壮举，比如在几个小时内建造和分解整个城市和舰队。§!\n"
+ 
+ trait_sterilized:0 "净化"
+ trait_sterilized_desc:0 "§L有时我们不得不在生活中做出艰难的决定。从而影响他人的命运。 诸如“不，我不希望我的血腥王朝里存在超过200亿个软弱无用之人！”§!\n"
+ 
+ 
+ 
+  opinion_trait_olfactory:0 "嗅觉交流：闻起来是什么鬼？"
+ opinion_lingua_idumentis_species:0 "舌语：长的真奇葩..."
+ opinion_trait_repugnant1_regular:0 "怪诞：小老弟你咋回事？"
+ opinion_trait_repugnant2_regular:0 "污秽：真恶心！"
+ opinion_trait_repugnant3:0 "令人作呕：滚远点啊恶心的杂种！！！"
+ opinion_trait_charismatic1:0 "优雅：迷人的小可爱"
+ opinion_trait_charismatic2_regular:0 "迷人：是老婆！AWSL！"
+ opinion_trait_charismatic2_extra:0 "迷人：有点漂亮诶"
+ opinion_trait_charismatic2_extra2:0 "迷人：长的还挺不错的"
+ opinion_trait_charismatic2_extra3:0 "迷人：迷人的有机体"
+ opinion_trait_charismatic3:0 "魅力超群：我塔喵社豹！"
+ opinion_trait_charismatic3_extra:0 "魅力超群：真是漂亮"
+ opinion_trait_charismatic3_extra2:0 "魅力超群：长的确实好看"
+ opinion_trait_charismatic3_extra3:0 "魅力超群：迷人的有机体"
+ opinion_trait_charismatic3_extra4:0 "魅力超群：已从枪毙名单上取消"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ ########################################
+ # Events / oefening creatief schrijven #
+ ########################################
+ 
+ trait.8326.title:0 "凛冬降临"
+ trait.8326.desc:0 "尽管我们已经拥有可以在我们漫长冬季期间持续工作的技术，但我们的身体还是拒绝。我们所有人都必须在没有梦境中的虚无中沉睡...希望有一天我们能够再次平静地醒来。"
+ trait.8326.a:0 "*哈欠*"
+ 
+ trait.8328.name:0 "化工事故"
+ trait.8328.desc:0 "不可思议的力量和难以置信的低能是一个糟糕的组合。如今，这个组合被一种相当壮观的方式所证明出来。一家大型化工厂的工人用毛绒玩具将一个重要的排气管给堵得死死的。随后发生了数次爆炸，被波及的范围内传播着有毒物质，这造成了数百万人的死亡，并彻底摧毁了这片土地。"
+ trait.8328.option:0 "希望不会有下一次了..."
+ 
+ trait.8329.name:0 "疯子"
+ trait.8329.desc:0 "我们的物种并不以伟大的智慧而著称，但偶尔我们也会培养出一些具有超凡智力的个体。其中一个人————我们的首席研究员，被认为需要偶尔的“撞击式维护”来调动他的大脑，通常是用头撞墙几次。今天，他猛烈地撞击了数次并严重破坏了他的中枢神经系统，并使他成为植物人。"
+ trait.8329.option:0 "我告诉过你们不要雇佣一个逗比！"
+ 
+ trait.8333.name:0 "灭绝"
+ trait.8333.desc:0 "除我们之外的所有东西必须被摧毁。通过巨大的聚变炸弹，我们将这个星球炸成了一个巨大的熔融岩块。"
+ trait.8333.option:0 "我们才是唯一。"
+ 
+ planetmods.1.name:0 "引力控制"
+ planetmods.1.desc:0 "一个全新的行星引力发生器已在[Root.Planet.GetName]完成。这个巨型结构主要由一个庞大的零度反应堆组成，它将操纵该行星的磁场，使之更符合我们物种的偏好。"
+ planetmods.1.option:0 "精彩。"
+ 
+ equalizer.14.name:0 "至高之力"
+ equalizer.14.desc:0 "看到了吗？这绝对是不一样的！他正在计划他的行动，盘算着他的下一步。让他的物种们“完全苏醒”，这一定是故意的！他知道那有多强大吗？还说他只是凭空瞎猜的？\n - “好吧，由于这些变量叠加在一起，恐怕他不清楚会发生什么。我们应该提醒他这种可能性，以防万一。这是唯一正确的做法。”\n 嗯...我想你是对的，但我得告诉你，其中一个玩家是我们正在寻找的战略谋划者。 \n\n <喂喂> 人类，这里是斯库图-半人马座的Kragot。我们注意到你选择了一个非常强大的特质组合，若你使用这个组合，它们会让你轻松赢得这场游戏。这使得我们更难寻求到智力的极限，所以请不要这样做。为何不给自己一个挑战呢？谢谢您。"
+ equalizer.14.optiona:0 "卧了个槽..."
+ equalizer.14.optionb:0 "哦哦哦-呜啊"
+ 
+ civic_rpg_hive_devouring_swarm:0 "噬杀蜂群"
+ 
+ NAME_Gas:0 "气态系统"
+ gas_system_initializer_NAME:0 "气态系统"
+ gas_system_initializer_DESC:0 "一个巨大的气态生物系统。如果你不把这视作为一种气态生命体，你就要吃苦了。如果你选择了没有气态生命体的特质，那你也要吃苦头了。"
+ 
+ 
+ 
+ trait_nerve_stapled_robo:0 "仲裁者"
+ trait_nerve_stapled_robo_desc:0 "§L一个真正的合成生命体，这个结构已经完全清空了它的“主人”，现在它仅仅是一个外壳和一些基础编程。一个...机器人。§!\n"
+ 
+ geth_1:0 "落后智能"
+ geth_1_desc:0 "这些机械结构数量太少了，它们无法独自处理也无法通过远程方式的智能运作。建造多于5个单位人口可以减少这一惩罚。"
+ 
+ geth_2:0 "低效智能"
+ geth_2_desc:0 "格式塔网络受限，建造多于12个单位人口可以减少这一惩罚。"
+ 
+ geth_3:0 "基础智能"
+ geth_3_desc:0 "该网络已发展到能够执行基本的操作，但依旧缺乏研究复杂任务所需的认知水平。建造多于20个单位人口将解开G.E.T.H.的全部潜力。"
+ 
+ geth_4:0 "完整智能"
+ geth_4_desc:0 "网络处于最高水平运作，使得所有个体的智能提升到标准以上的水平，甚至比许多有机物更加优秀。"
+ 
+ 
+ trait_broodparasite:0 "巢内寄生体"
+ trait_broodparasite_desc:0 "§L一种无性的寄生物种，这种生物只能在宿主体内繁殖。它们在外星生命体内快速繁殖，迅速适应宿主的环境，并给它们注射刺激性化学物质。受感染的宿主会完全沉迷于寄生物及其后代，降低了它们自己的繁殖速度，不过它们会变得更加快乐————以一种令人毛骨悚然，不健康的方式。\n\n 当外星物种存在于星球上时，增加+200%的生长速度，受感染的外星人口降低-50%的生长速度。§!\n"
+ 
+ bp_increased_reproduction:0 "加速繁殖"
+ bp_increased_reproduction_desc:0 "这个人口正在与一个外星物种的后代交配。"
+ bp_reduced_reproduction:0 "减缓繁殖"
+ bp_reduced_reproduction_desc:0 "这只人口正在交配并养育一个外星物种的孩子。"
+
+ ########################################
+ # Civics 
+ ########################################
+ 
+ civic_bio_assimilator:0 "生物饲育"
+ civic_bio_assimilator_desc:0 "这个种族有一种习惯，就是把任何有机物重新塑造成他们想要的样子，包括他们自己。他们捕获并繁殖了他们家园的每一种动物，并且由于遗传学的发现普遍实践了优生学（但并不成功）。他们迷恋于新技术的前景来改变自己和其他有机生命的生活。"
+ civic_tooltip_civic_bio_assimilator_effects:0 "基因改造的耗费减半。\n\n 大幅提高基因改造科技的出现概率。"
+ 
+ civic_strogg:0 "有机同化者"
+ civic_strogg_desc:0 "作为一种经过大量改造的半机械人，有机同化者对融合生物和机器有着狂热的倾向。它们并不会采用什么精妙神奇的方式，而是通过扭曲的肉体和植入突起的金属这种粗暴丑陋的方式进行结合。它们定期将几个物种组合成一个令人憎恶的东西。最重要的是，他们寻求将其他生命形式与自己融合，从而成为一个统一的物种。"
+ civic_tooltip_civic_strogg_effects:0 "无法进行外交。游戏开始时拥有一个特殊的机器人特质，并自动将有机物（偶尔是合成人）同化成更多的半机械人。"
+ 
+ eldoc_planet_growth_halt:0 "中止星球挖掘"
+ eldoc_planet_growth_halt_desc:0 "纯粹为了美观的目的，停止在这个星球上的挖掘工作。比如巨大的卫星和小行星会破坏了你的沉浸感。"
+ 
+ eldoc_planet_growth_resume:0 "重启星球挖掘"
+ eldoc_planet_growth_resume_desc:0 "继续挖掘吧，宝贝们。因为你想要那些好棒好棒的地块。"
+ 
+ lobotomize_population:0 "物种脑叶切除"
+ lobotomize_population_desc:0 "切割这个星球上所有人口的脑叶，让他们变得安静，同时将他们变成毫无用处的驱壳。需要耗费巨大的努力才能撤销这些影响。"
+ 
+ lobotomizing_population:0 "物种脑叶切除中"
+ lobotomizing_population_desc:0 "这个星球上所有的人口都已被切除脑叶，他们变得沉默，同时成为了无用的行尸走肉。"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

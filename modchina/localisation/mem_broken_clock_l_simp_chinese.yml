@@ -1,0 +1,73 @@
+﻿
+#By ViolentBeetle
+
+l_simp_chinese:
+
+
+ mem_broken_clock.1.name:0 "时钟中断"
+ mem_broken_clock.1.desc:0 "§Y[From.GetName]星系§!是个奇怪的地方。 \n\n围绕一颗早已死亡的恒星运转的是一个巨大的古代环形世界。尽管多年来遭受了明显的破坏，但几乎看不到残骸。另一个不寻常的景象是大量的被遮蔽的物体，一颗行星和几颗被一层无法穿透的紫色薄雾所覆盖的卫星。 \n\n但最重要的是，这个星系受到奇异的时间膨胀效应的影响，这些效应似乎与广义相对论的已知原理并不相符，并在整个星系中造成了扭曲的时间。 \n\n除了影响我们对时间的感知，它们似乎也无害。然而，这个地方显然有问题……"
+ mem_broken_clock.1.a:0 "不祥。"
+
+ mem_broken_clock.101.name:0 "时钟中断: Ill 消息"
+ mem_broken_clock.101.desc:0 "我们在§Y[From.Solar_System.GetName]§!星系中的前哨基地报告说，星系中存在的时间异常正在变得更加频繁和不稳定。 \n\n异常波动看起来非常活跃，无论后面是什么原因造成的。但又谁能知道这个活动的结果会是什么?"
+ mem_broken_clock.101.a:0 "我们必须做好一切准备。"
+
+ mem_broken_clock.102.name:0 "时钟中断: Ill 消息"
+ mem_broken_clock.102.desc:0 "我们的远程传感器表明，§Y[From.Solar_System.GetName]§!星系中存在的时间异常正在变得更加频繁和不稳定。 \n\n异常波动看起来非常活跃，无论后面是什么原因造成的。但又谁能知道这个活动的结果会是什么?"
+ mem_broken_clock.102.a:0 "令人不安"
+
+ mem_broken_clock.1001.name:0 "时钟中断: 违背"
+ mem_broken_clock.1001.desc:0 "据报道，§Y[From.Solar_System.GetName]§!星系。笼罩着行星[Root.MemBrokenClock1001]的神秘雾已经消失，露出了行星的表面。巨大的环世界结构似乎以某种方式修复了所有的损害。甚至这颗恒星本身也改变了它的组成，变成了一颗明亮的A级恒星，似乎逆转了数十亿年的衰老过程。 \n\n最奇怪的是，这个荒凉的星系现在充满了生命。广阔的城市和工业区覆盖了环世界和一颗较大的行星，以及两个完全开发的栖息地，它们只是在太空中出现，由庞大的舰队守卫。就好像这个星系从来没有被遗弃过一样。 \n\n神秘的新来者正在向我们欢呼。"
+ mem_broken_clock.1001.a:0 "这可真是奇怪。"
+ mem_broken_clock.1001.a.phobe:0 "不受欢迎的客人……"
+
+ mem_broken_clock.1001.we_are_owners:0 "几乎在一瞬间，我们的前哨基地和所有其他永久性建筑都从星系的表面消失了。 \n\n与此同时。"
+ mem_broken_clock.1001.we_are_not_owners:0 "\n\n"
+
+ mem_broken_clock.1002.name:0 "时钟中断: 联系"
+ mem_broken_clock.1002.desc:0 "我们正在接收来自目前占领§Y[From.Solar_System.GetName]§!星系的帝国通信。 \n\n他们没花多长时间就破译了我们的通信。"
+
+#Options here are mostly reused
+ mem_broken_clock.1003.desc:0 "银河系的人民!注意这条信息带来的绝望吧。 \n\n因为多尔·睿卡又活过来啦。我们是燃烧邪恶和软弱的火焰。我们神圣的使命是净化宇宙中不纯洁和可恶的外星生命。 \n\n在另一个时代，敌人的背信弃义让我们陷入了暂时的困境。但在破碎的现实和支离破碎的时间线中度过的永恒时光只会坚定我们的决心。 \n\n与我们战斗或服从你的命运，这无关紧要。你的毁灭是不可避免的。"
+ mem_broken_clock.1003.generic:0 "我们不会轻易上当。"
+ mem_broken_clock.1003.agressive:0 "你选择了错误的时间入侵!"
+ mem_broken_clock.1003.purifier:0 "您已做了这么多，那么去死吧。"
+ mem_broken_clock.1003.peacekeeper:0 "你的暴行结束了。"
+ mem_broken_clock.1003.friendly:0 "为什么我们不能做朋友?"
+
+ mem_broken_clock.1004.desc:0 "信息。 \n\n实体:持续消灭行动 \n目的:从星系中移除所有有智慧的有机生命。 \n\n由于意外的时间干扰，操作被推迟。 \n\n现在将恢复净化行动。"
+ mem_broken_clock.1004.terminator:0 "欢迎回家。"
+
+ mem_broken_clock.1005.desc:0 "猎物，别以为这次你能逃脱。这种顶端生物是终极捕食者。你唯一的未来就是滋养我们。更强大的敌人试图反抗我们，但他们能做的只是暂时诱捕我们。 \n\n在时间泡沫中度过的永恒只会增加我们的饥饿感。现在我们自由了，准备好了另一场狩猎。"
+ mem_broken_clock.1005.swarm:0 "准备迎接真正的顶级捕食者。"
+
+ #The second desc is identical to first, except for "Even their home system..." - don't trust paster to read its name through scripted loc.
+ mem_broken_clock.3001.name:0 "时钟中断: 时间渐逝"
+ mem_broken_clock.3001.desc:0 "我们的观察员报告了今天最奇怪的事件。 \n\n[From.GetSpeciesAdj]似乎一夜之间就消失了。目前还不清楚是什么原因导致了这些事件的发生，但很有可能的是，无论发生了什么样的事件，这些事件都已经恢复或失败了。如果不是因为他们留下的破坏痕迹，就好像他们从未存在过一样。[Root.MemBrokenClock3001]"
+ mem_broken_clock.3001.desc.system_reverted:0 "我们的观察员报告了今天最奇怪的事件。 \n\n[From.GetSpeciesAdj]似乎一夜之间就消失了。甚至他们的家园星系§Y[broken_clock_system.GetName]§!也已经恢复到原来的衰败状态。目前还不清楚是什么原因导致了这些事件的发生，但很有可能的是，无论发生了什么暂时的事件，这些事件都已经恢复或失败了。如果不是因为他们留下的破坏痕迹，就好像他们从未存在过一样。 [Root.MemBrokenClock3001]"
+ mem_broken_clock.3001.a:0 "终于解脱了。"
+ mem_broken_clock.3001.survivors:0 "\n\n然而，他们曾经占据的空间似乎并不完全是空的。那些在大清洗中幸存下来的少数人已经收回了他们的世界，并准备为将来成为银河强国而努力。"
+ mem_broken_clock.3001.no_survivors:0 ""
+
+
+ #TRAITS
+ mem_broken_clock_scientist_trait:0 "时间旅行者"
+ mem_broken_clock_scientist_trait_desc:0 "这位领导人穿越扭曲的时空，看到了别人甚至无法想象的事情。"
+ mem_broken_clock_admiral_trait:0 "$mem_broken_clock_scientist_trait$"
+ mem_broken_clock_admiral_trait_desc:0 "$mem_broken_clock_scientist_trait_desc$"
+ mem_broken_clock_general_trait:0 "$mem_broken_clock_scientist_trait$"
+ mem_broken_clock_general_trait_desc:0 "$mem_broken_clock_scientist_trait_desc$"
+ mem_broken_clock_governor_trait:0 "$mem_broken_clock_scientist_trait$"
+ mem_broken_clock_governor_trait_desc:0 "$mem_broken_clock_scientist_trait_desc$"
+
+ #MODIFIERS
+ mem_broken_clock_ai_cheat:0 "时间渐逝"
+ mem_broken_clock_ai_cheat_temp:0 "最近的到来"
+ mem_broken_clock_rebel_country:0 "暴君都消失了"
+ mem_broken_clock_free_ships:0 "反政府武装船"
+
+ d_mem_broken_clock_fissure:1 "时间裂缝"
+ d_mem_broken_clock_fissure_desc:1 "时间在这里断裂，事情并不像他们看起来的那样。"
+
+ #OPINIONS
+ mem_broken_clock_fellow_rebels:0 "反叛军"

@@ -1,0 +1,683 @@
+﻿l_simp_chinese:
+
+### SHIP TEXTS
+
+FE_ESCORT_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (蜂群)"
+FE_ESCORT_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_ESCORT_COMBAT_COMPUTER_2:0 "护航舰仿生接口战斗计算机 (哨戒)"
+FE_ESCORT_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_ESCORT_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (线列)"
+FE_ESCORT_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_ESCORT_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (炮兵)" 
+FE_ESCORT_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (哨戒)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (线列)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (炮兵)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_BATTLECRUISER_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (狙击)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
+FE_TITAN_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
+FE_TITAN_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
+FE_TITAN_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TITAN_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)"
+FE_TITAN_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
+FE_GOLIATH_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
+FE_GOLIATH_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
+FE_GOLIATH_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_GOLIATH_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)" 
+FE_GOLIATH_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+FE_TOWER_COMBAT_COMPUTER:0 "仿生接口战斗计算机 (空间站)" 
+FE_TOWER_COMBAT_COMPUTER_DESC:0 "这种先进的防御系统利用独特的战斗计算机，与该站的炮手形成仿生链接。 它旨在以无情的效率消灭来自银河系的所有威胁。"
+
+FE_ESCORT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_TITAN_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_TITAN_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_GOLIATH_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_GOLIATH_DARK_MATTER_REACTOR_DESC:0 "歌利亚级母舰拥有数以千计的硬件、设备和武器系统。为它们提供能量需要大量的能量，而这种能量只有以暗物质为基础的反应堆才能提供。"
+FE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗空间站提供能量。该空间站是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗空间站提供能量。该空间站是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+ 
+FE_ESCORT_SHIP_THRUSTER:0 "暗物质推进器"
+FE_ESCORT_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
+FE_BATTLECRUISER_SHIP_THRUSTER:0 "暗物质推进器"
+FE_BATTLECRUISER_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
+FE_TITAN_SHIP_THRUSTER:0 "暗物质推进器"
+FE_TITAN_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
+FE_GOLIATH_SHIP_THRUSTER:0 "暗物质推进器"
+FE_GOLIATH_SHIP_THRUSTER_DESC:0 "要让可怕的巨人歌利亚行动起来，就需要重写物理定律本身，而只有这种由暗物质驱动的推进器才能做到这一点。"
+ 
+FE_ESCORT_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_ESCORT_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+
+FE_BATTLECRUISER_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+
+FE_TITAN_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_TITAN_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+ 
+FE_GOLIATH_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_GOLIATH_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+ 
+FE_SENSOR_SHIP:0 "神秘传感器"
+FE_SENSOR_SHIP_DESC:0 "这种非常先进的传感器设备通过研究散布在空间周围的暗物质层的突然移动来检测来自几个系统的舰船运动。传感器，实时报告所有的移动活动以运送武器，并计算所有可能的敌人移动。"
+
+
+FE_COMBAT_COMPUTER_DEFAULT:0 "虽然我们的先进飞船可能是致命的，但如果我们不在上面安装一个合适的战斗计算机，它就不能正常工作"
+FE_SHIP_THRUSTER:0 "虽然从理论上讲，我们的先进舰船甚至不需要任何推进器就可以摧毁原始飞船，但这仍然是一个不明智的策略"
+FE_REACTOR:0 "我们不会在船上安装反应堆的唯一原因是如果我们打算把反应堆交给那些违抗我们命令的原始人"
+
+ENIGMATIC_DRIVE:0 "神秘跃迁引擎"
+ENIGMATIC_DRIVE_DESC:0 "这个神秘跃迁引擎使用暗物质撕开一个微型虫洞，让舰船比传统的跃迁引擎跳得更远。"
+ 
+HYPER_JUMP_DRIVE:0 "超级翘曲引擎"
+HYPER_JUMP_DRIVE_DESC:0 "与其他跃迁引擎平衡跳跃能力与快速超光速充电相反，超荷超跃迁跃迁被优化为最大的跳跃距离。因此，跃迁在执行基本的超光速旅行时要慢得多。"
+ 
+SHROUD_DRIVE:0 "虚境跃迁引擎"
+SHROUD_DRIVE_DESC:0 "这个神秘的神器在飞船和虚境实体之间形成了契约。该实体以增加能源和矿物为代价，授予我们的船只极为强大的跳跃技术。船员的灵魂也与实体相连。"
+ 
+WEAPON_EXPLOSIVE_CORE:0 "暗物质导弹预点火器"
+WEAPON_EXPLOSIVE_CORE_DESC:0 "利用暗物质燃料和点燃我们的制导导弹系统可以增加导弹的冲击力和射速。"
+
+WEAPON_KINETIC_CORE:0 "硬光动能载荷"
+WEAPON_KINETIC_CORE_DESC:0 "这是一个复杂的微型工厂，能迅速生产出既坚固又快速的硬轻质军需品。"
+
+WEAPON_ENERGY_CORE:0 "能量反畸变真流形"
+WEAPON_ENERGY_CORE_DESC:0 "这个微型球体拥有强大的神秘能量，它可以通过弯曲时空和无视各种物理定律，直接改善飞船的能量武器系统。"
+
+WEAPON_FIGHTER_CORE:0 "仿生接口上行链路"
+WEAPON_FIGHTER_CORE_DESC:0 "这一强大的仿生界面上行链路允许母舰无情地协调打击飞机，实时准确定位目标的所有潜在弱点。"
+ 
+ENIGMATIC_JUMP_TECH_DESC:0 "早期的理论表明，新一代的跃迁引擎可以是对先驱者驱动器的直接改进，或创建一个独特的但非常小的跳跃驱动器优化非常大的跳跃距离。"
+#### SHIP Tech ####
+
+tech_enigmatic_drive:0 "基于暗物质的超光速技术"
+tech_enigmatic_drive_desc:0 "我们的跃迁引擎是基于零点能量的原理和配置。但现在既然我们已经利用了暗物质的力量，是时候将我们的超光速旅行技术提升到一个新的水平了。"
+
+tech_shroud_jump_drive:0 "影之渡口"
+tech_shroud_jump_drive_desc:0 "再一次，虚境实体与我们取得了联系。这艘船自称“影子渡船”，它提供了一个非常简单的交易;适合于中等能量和矿物的船舶旅行的优越方法。对虚境实体来说，这是一个相当简单的交易。"
+
+tech_energy_core:0 "能量反畸变矩阵"
+tech_energy_core_desc:0 "大多数能量武器都因为重力而变形，使它们无法集中和不稳定。随着一种能够弯曲时空并抵消所有扭曲效应的球形装置的发明，我们的能量武器将实现其全部潜力。"
+
+tech_kinetic_core:0 "硬光动能载荷系统"
+tech_kinetic_core_desc:0 "硬轻质材料是非常耐用和快速的生产。如果我们愿意投入额外的力量来操作它们，也许它们可以被用作火炮的动力炮弹。"
+
+tech_missile_core:0 "暗物质导弹预点火"
+tech_missile_core_desc:0 "当我们探索暗物质越陷越深的应用中,我们发现还可以增加我们的火力和点火速度导弹使用同样的原则作为暗物质推进器。"
+
+tech_fighter_core:0 "仿生打击网络"
+tech_fighter_core_desc:0 "根据先驱者的蓝图，仿生界面计算机在飞船和船员之间形成了一种精神联系。然而，对计算机来说，攻击机太小了，但也许它们可以从母舰上更有效地协调起来?"
+
+tech_sensor_fe:0 "暗物质移动模式分析"
+tech_sensor_fe_desc:0 "我们现在知道暗物质不仅存在于黑洞中，而且存在于所有星系中。这些黑暗物质的数量太少，无法使用，但它们仍然会在运动过程中产生明显的变化。如果我们能研究这种反应，我们就有可能创造出一种新的传感器技术，这种技术优于基于转速的传感器。"
+
+tech_fe_thruster_2:0 "改进型暗物质推进器"
+tech_fe_thruster_2_desc:0 "失落帝国所使用的推进器相当古老，并不像他们想象的那么强大。如果我们能改进这些推进器的内部工作原理，我们将能够带回真正强大的船舶引擎，与我们的提升帝国相称。"
+
+tech_sensors_dm: 0 "仿生传感器"
+tech_sensors_dm_desc: 0 "先进的传感器，使用仿生链接技术探测敌方船只。该系统既能检测有机物，又能检测机器。"
+
+tech_fe_escort_hull:0 "标准化加固护航舰船体"
+tech_fe_escort_hull_desc:0 "基于同样的原则，我们的旧船的船体升级，我们可以加强我们的护卫舰的结构完整性，进一步提高其生存性，并降低建设成本。"
+
+tech_fe_battlecruiser_hull:0 "标准化加固战列巡洋舰船体"
+tech_fe_battlecruiser_hull_desc:0 "基于相同的原则，我们的旧船的船体升级，我们可以加强我们的巡洋舰的结构完整性，进一步提高其生存能力，并降低建设成本。"
+
+tech_fe_titan_hull:0 "标准化加固泰坦船体"
+tech_fe_titan_hull_desc:0 "基于与我们的旧船的船体升级相同的原则，我们可以加强泰坦的结构完整性，进一步提高其生存能力，并降低建造成本。"
+
+tech_fe_goliath_hull:0 "标准化加固歌利亚船体"
+tech_fe_goliath_hull_desc:0 "基于与我们的旧船的船体升级相同的原则，我们可以加强我们的歌利亚的结构完整性，进一步提高其生存能力，并降低建设成本。只有最致命的舰队才能摧毁我们帝国的骄傲。"
+
+TECH_UNLOCK_SHROUDDRIVE:0 "§H解锁组件:§! 虚境跃迁引擎"
+TECH_UNLOCK_SHROUDDRIVE_DESC:0 "§H$虚境跃迁引擎$§!\n$SHROUD_DRIVE_DESC$"
+
+TECH_UNLOCK_ENIG_DRIVE:0 "§H解锁组件:§! 新一代跃迁引擎"
+TECH_UNLOCK_ENIG_DRIVE_DESC:0 "§H$Enigmatic Jumping Techniques$§!\n$ENIGMATIC_JUMP_TECH_DESC$"
+
+TECH_UNLOCK_EXPLOSIVE_CORE:0 "§H解锁组件:§! 暗物质导弹预点火器"
+TECH_UNLOCK_EXPLOSIVE_CORE_DESC:0 "§H$Dark Matter Missile Pre-Igniter$§!\n$WEAPON_EXPLOSIVE_CORE_DESC$"
+
+TECH_UNLOCK_KINETIC_CORE:0 "§H解锁组件:§! 硬光动能载荷"
+TECH_UNLOCK_KINETIC_CORE_DESC:0 "§H$Hard-light Kinetic Payload$§!\n$WEAPON_KINETIC_CORE_DESC$"
+
+TECH_UNLOCK_ENERGY_CORE:0 "§H解锁组件:§! 能量反畸变真流形"
+TECH_UNLOCK_ENERGY_CORE_DESC:0 "§H$Energy Counterdistortion Manifold$§!\n$WEAPON_ENERGY_CORE_DESC$"
+
+TECH_UNLOCK_FIGHTER_CORE:0 "§H解锁组件:§! 仿生接口上行链路"
+TECH_UNLOCK_FIGHTER_CORE_DESC:0 "§H$Bionic-Interface Hanger Uplink$§!\n$WEAPON_FIGHTER_CORE_DESC$"
+
+TECH_UNLOCK_FE_THRUSTER_TITLE:0 "§H解锁组件:§! 改进型暗物质推进器"
+TECH_UNLOCK_FE_THRUSTER_DESC:0 "§H$改进型暗物质推进器$§!\n$FE_ESCORT_SHIP_THRUSTER_2_DESC$"
+
+TECH_UNLOCK_FE_SENSOR_TITLE:0 "§H解锁组件:§! 神秘传感器"
+TECH_UNLOCK_FE_SENSOR_DESC:0 "§H$E神秘传感器$§!\n$FE_SENSOR_SHIP_DESC$"
+
+shipsize_fe_escort_hull_add:0 "护航舰船体值"
+shipsize_fe_battlecruiser_hull_add:0 "战列巡洋舰船体值"
+shipsize_fe_titan_hull_add:0 "堕落泰坦船体值"
+shipsize_fe_goliath_hull_add:0 "歌利亚船体值"
+
+shipsize_fe_escort_build_speed_mult: "护航舰建造速度"
+shipsize_fe_battlecruiser_build_speed_mult: "战列巡洋舰建造速度"
+shipsize_fe_titan_build_speed_mult: "堕落泰坦建造速度"
+shipsize_fe_goliath_build_speed_mult: "歌利亚建造速度"
+
+shipsize_fe_escort_build_cost_mult: "护航舰建造成本"
+shipsize_fe_battlecruiser_build_cost_mult: "战列巡洋舰建造成本"
+shipsize_fe_titan_build_cost_mult: "堕落泰坦建造成本"
+shipsize_fe_goliath_build_cost_mult: "歌利亚建造成本"
+
+### BUILDING TEXTS
+
+building_fe_capital: "永恒宫殿"
+building_fe_capital_desc: "上升的地位和宝座，永恒宫殿是银河优势的标志。从这个宝座上，它的统治者将决定宇宙的命运。"
+
+building_fe_admin: "黑色城堡"
+building_fe_admin_desc: "从这座塔上，政客和特工可以随时直接向代理州长报告每一项活动，他们使用的是遍布整个殖民地的数十亿部秘密监控摄像机。"
+
+building_fe_clone_vats: "高级克隆技术"
+building_fe_clone_vats_desc: "在这个先进的工厂里，每天都在生产数以百万计的新一代改良的克隆体。好极了，不是吗?"
+
+building_fe_mineral_processing_plant: "自动化矿物加工厂"
+building_fe_mineral_processing_plant_desc: "我们必须仔细监督提炼矿物过程的日子一去不复返了。这种新型的由暗物质驱动的机器能够以99.9936%的效率，通过仿生链接直接响应我们的指令，大规模地完成这些精细的任务。我们的工人现在可以去做别的事情了，他们只需要认为他们在技术上还在工作。"
+
+building_fe_shield_generator: "暗物质行星护盾发生器"
+building_fe_shield_generator_desc: "利用暗物质反应堆允许我们创建一个护盾发生器,不仅是强大,但也比以前更加节能。"
+
+building_fe_replicator: "暗物质复制因子"
+building_fe_replicator_desc: "在黑暗力量图的进一步细化，使这个先进的结构产生矿物，只需说:“增强!"
+
+building_fe_fortress: "永恒堡垒"
+building_fe_fortress_desc: "在这个神秘的堡垒中，有数百个武器平台和复杂的地下部分，可以部署大量的驻军。"
+
+building_fe_hospital: "细胞重建复合体"
+building_fe_hospital_desc: "未来的医疗诊所，不仅为所有疾病提供即时的治疗，而且在不需要克隆模板的情况下构建全新的生命。"
+
+building_fe_power_hub: "暗能量枢纽"
+building_fe_power_hub_desc: "这个巨大的连接将数千个暗物质能量枢纽连接在一起，在星球上分布着大量的能量。"
+
+building_fe_multi_lab: "暗物质研究复合体"
+building_fe_multi_lab_desc: "来自不同领域的科学家们聚集在这座建筑内，研究暗物质技术及其在所有领域的潜在应用。"
+
+building_enigmatic_lab: "神秘实验室"
+building_enigmatic_lab_desc: "这个巨大的塔容纳了从前体保存了数千年的复杂技术。来自银河系各个角落的科学家都被吸引到这里来，想要揭开这些古老行星的秘密。"
+
+building_fe_galactic_trade_enclave: "银河贸易商场"
+building_fe_galactic_trade_enclave_desc: "在这些建筑中，许多我们认为对我们事业没有用处的小技术、小饰品和工艺品被广告和以高昂的价格卖给原始人。我们惊奇地发现，诱使他们购买暗物质烤面包机或仿生接口马桶这样的东西是多么容易。"
+
+building_fe_heaven_dome: "乌托邦天堂圆顶"
+building_fe_heaven_dome_desc: "游乐园、宁静花园、电子游戏中心、外联网咖啡厅、美食广场、全息运动;每一种可能的娱乐都被安置在这个圆顶内，对我们帝国的所有公民开放。"
+
+building_fe_visitor_center: "先驱博物馆"
+building_fe_visitor_center_desc: "在这个博物馆里，各种各样的古代，但非常先进的史前古器物和各种全息图像展示了我们光荣的帝国用它们所取得的成就。这大大改善了我们世界的形象，数以百万计的人为了更好的生活质量而涌向我们。"
+
+building_fe_institute: "探索大学"
+building_fe_institute_desc: "这所大学不仅是最聪明的人能够发现新发现并分享他们的想法的教育场所，它还包含了数十亿个完整的记录，这些记录可以追溯到几千年前，那时我们的帝国还没有出现。"
+
+building_fe_military_academy: "先进军事战略中心"
+building_fe_military_academy_desc: "这个先进的军事学院每天为我们的部队运行数以千计的全息战斗模拟。训练他们参加各种战争。它还包括一个大型豪华酒店，他们可以在业余时间休息和进行娱乐活动。很明显，这种慷慨和奢侈是小帝国无法承受的。"
+
+building_infinity_engine: "无限引擎"
+building_infinity_engine_desc: "我们已经成功地操纵了有机食品在银河的市场，并将我们的代理商安装在银河的各个贸易飞地。有了这个新引擎，我们将实现不可能——我们将主宰和征服整个银河系的经济。通过无限和超越!"
+
+building_fe_assemble: "硬光装配设备"
+building_fe_assemble_desc: "这个极其先进的装配生产设施创造了我们的机器人设计蓝图，然后使用硬光技术建造它们的质量，超过了我们所有的旧的制造配额。"
+
+building_fe_singularity_core: "微银河模拟器"
+building_fe_singularity_core_desc: "这个建筑包含了一个微型的人工星系，包含了所有类型的恒星。正是在这里，我们的科学单元可以预测所有可能的结果，如果由于低效的逻辑决策而导致的不可预见的后果可能出现，因为有机会导致自我毁灭。"
+
+building_fe_war_factory: "神秘工厂"
+building_fe_war_factory_desc: "利用从先驱者机器获得的神秘代码，这个巨大的战争工厂能够通过复制古老机器的人格矩阵到每个新单位来提高入侵单位的效率。这产生了两个主要的好处，绕过了旧的，长时间的战斗模拟过程和给予每个单位有限的战术决策。"
+
+building_fe_communication_nexus: "暗反应堆通信连接"
+building_fe_communication_nexus_desc: "这个独特的通信枢纽在所有机器之间建立了一个无形的网络，并赋予它们暗能量，大大提高了它们的性能。"
+
+building_fe_slave_processing: "无垢矩阵装置"
+building_fe_slave_processing_desc: "这个古老的矩阵使用复杂的神经模拟来有效地分配劳动力以最大化效率和熟练程度。它也是清白无辜的人的训练场。"
+
+building_fe_obelisk_of_light: "光明尖碑"
+building_fe_obelisk_of_light_desc: "这座金字塔形状的建筑隐藏着一个强大的速子长矛，它以强大的能量炮极大地支持着防御部队。然而，建筑本身防御薄弱，并提供了小型驻军。"
+
+building_fe_agri_bay: "盖亚农场"
+building_fe_agri_bay_desc: "这个先进的农场配备了一个小型的地形改造引擎，它可以产生与盖亚星球相当的肥沃土壤，使建筑能够生产更多的食物。"
+
+building_fe_astro_mining_facility: "暗物质天体采矿设施"
+building_fe_astro_mining_facility_desc: "基于与我们的物质发生器相同的原理，这个新的天体采矿设备可以产生丰富的矿物，而且效率更高，可以与行星相关的设备相媲美。"
+
+building_fe_cultural_center: "星际穹顶"
+building_fe_cultural_center_desc: "没有什么比通过这个高度先进的圆顶来观察银河系的美丽更令人惊叹的了。它的超维度窗口可以显示任何我们的居住者想要观察的太阳系的美。"
+
+building_fe_laboratory_module: "子空间暗物质实验室"
+building_fe_laboratory_module_desc: "暗物质在太空中要丰富得多，它们在每一次相互作用中都会不断弯曲物理物质，就好像它们是有生命的有机体一样。我们的科学家可以从太空更有效地观察它的行为。"
+
+building_fe_security: "神秘城堡"
+building_fe_security_desc: "这个模块化的堡垒能够根据情况改变它的形状，允许我们在里面部署更多的驻军。它还配备了适当的超光速抑制剂装置，可以保护军队内部不同于旧的设计。"
+
+building_fe_solar_power_processor: "暗物质功率处理机"
+building_fe_solar_power_processor_desc: "由于太空中有大量原始的黑暗物质，这座建筑可以很容易地利用它的高度先进的太阳能电池板产生大量的能量。这使得它可以在没有星的系统上运行。"
+
+building_fe_betharian_power_plant: "贝塞里安超级反应堆"
+building_fe_betharian_power_plant_desc: "通过给贝塞里安石涂上暗物质，这个反应堆产生的能量非常惊人。其输出功率远远超过任何其他类型的发电机。"
+
+
+#####Tech#####
+
+tech_fe_capital: "神秘结构示意图"
+tech_fe_capital_desc: "现在我们已经掌握了暗物质的秘密，是时候抛弃那些世俗的、过时的旧结构了。从现在起，我们将挑战银河系，一个新时代的黎明即将来临!"
+ 
+zotfe_tech_giga_fortress: "可视化盖亚堡垒"
+zotfe_tech_giga_fortress_desc: "由神秘的暗物质反应堆驱动，盖亚堡垒是最致命的，自我维持的行星堡垒，不受轨道轰击的影响。"
+
+zotfe_building_giga_fortress: "盖亚堡垒"
+zotfe_building_giga_fortress_desc: "盖亚炮台是最大的行星炮台，装备有四管双管动态火炮、多导弹吊舱和一支驻军部队。它是自给自足的，可以为整个地球提供资源。堡垒及其驻军不受轨道轰击的影响。它的存在激发了所有公民的信心，消除了动荡的可能性，因为任何敢于反抗的人都会很快被消灭。"
+
+tech_fe_fortress: "神秘防御网"
+tech_fe_fortress_desc: "虽然我们目前的堡垒可能能够抵御基本的入侵者，但由于空间有限和武器过时，建筑本身太容易受到大型入侵部队的攻击。为此，我们为新一代的堡垒设计了一个概念，它应该为潜在的入侵者提供更多的挑战。"
+
+tech_fe_hospital: "细胞重组和重建"
+tech_fe_hospital_desc: "我们需要克隆模板来提高增长率的日子一去不复返了。有了从前体中获得的神秘的新技术，我们可以用人工活细胞来召唤新的生命，活细胞可以抵抗所有已知的疾病。"
+
+tech_fe_clone_vats: "先进的克隆技术"
+tech_fe_clone_vats_desc: "我们在生物学上跨越式的进步使我们能够创造出一种更强大的克隆技术，它可以消除年龄的问题，让我们的克隆可以像它们原来的模板一样活得长。这也提供了未来重新审视我们克隆人军队的机会。"
+
+tech_fe_mineral_processing_plant: "仿生连接机加工"
+tech_fe_mineral_processing_plant_desc: "基于先驱者的机载仿生界面计算机，我们得出了相同的仿生链接可以对我们的矿物加工机器产生很大影响的理论。"
+
+tech_fe_replicator: "硬光材料产生"
+tech_fe_replicator_desc: "在我们完全了解暗物质之前，我们只能画出足够多的部分来产生物质。现在我们意识到，利用纯硬光技术从暗物质中提取大量合成矿物质是可能的。"
+
+tech_fe_shield_generator: "暗物质行星护盾发生器"
+tech_fe_shield_generator_desc: "既然我们已经开发了基于暗物质的屏蔽技术，那么修改我们当前的行星护盾发生器以适应暗物质反应堆应该是一项简单的任务。"
+
+tech_fe_power_hub: "暗物质能量网"
+tech_fe_power_hub_desc: "我们的科学家相信，我们可以使用同样的方法来建造和运行暗物质发电厂，以改善我们目前的能源连接模板。"
+
+tech_fe_galactic_trade_enclave: "银河系大商场"
+tech_fe_galactic_trade_enclave_desc: "我们的股票交易所虽然已经很大，为我们的帝国提供了巨大的收入，但却没有出售暗物质相关物品的正当授权。虽然我们不打算将这些高深莫测的技术免费提供给较弱的生物，但我们的市场策略家指出，我们可以欺骗许多原始生物，让它们购买带有提升者标记的小饰品或工艺品。季票、独家珍藏版、预定、提前存取;所有的策略都将被用来达到最大的利润。" 
+
+tech_enigmatic_lab: "联合暗物质应用研究"
+tech_enigmatic_lab_desc: "确定和探索暗物质的全部潜力需要来自各个领域的科学家。因此，我们的实验室必须重新配置，为所有相关人员提供必要的设备。"
+
+tech_fe_heaven_dome: "天堂创造现实"
+tech_fe_heaven_dome_desc: "虽然我们目前的天堂圆顶能够很好地为我们的核心物种提供住宿和快乐，但它的生成器还不够强大，不足以支持新的改进所需的额外部分。现在，随着暗物质反应堆的引入和更有效的医疗保健，这一限制可以被消除。"
+
+tech_fe_visitor_center: "先驱者工件集合"
+tech_fe_visitor_center_desc: "我们在过去已经研究了许多先驱者工件。我们的外交官认为，我们应该在游客中心开设一个新的博物馆，展示我们收集和完成的一些好东西。我们要传达的信息很明确，要么留在他们陈旧的帝国，要么加入我们，共创美好、光明的未来。"
+
+tech_fe_institute: "高级教育研习课程" 
+tech_fe_institute_desc: "我们现在的研究所总是有一个问题，那就是对那些已经拥有很高智商的人来说，这是一个很好的交流场所，但不是创造他们的好地方。我们将把学院改造成一所大型大学，让潜在的年轻人可以在这里学习，为未来的远大抱负做好准备。"
+
+tech_fe_military_academy: "一流的军队住宿"
+tech_fe_military_academy_desc: "在我们改善我国公民的素质和生活的同时，我们决不能忘记我们这些在战场上服役的人。他们也必须在下班后接受最好的治疗，以鼓励他们相信我们才是真正能让银河系变得更美好的人。"
+
+tech_fe_obelisk_of_light: "光明尖碑"
+tech_fe_obelisk_of_light_desc: "尽管我们承认，从长远来看，我们的国防部队不太可能抵挡住由数月来的轰炸所支持的全面入侵。然而，我们仍然看到建设一个独特的科学设施作为一个强大的防御建筑的潜力。"
+
+tech_fe_assemble: "强光组装"
+tech_fe_assemble_desc: "<警报>发现新的装配技术。强光材料;将光谱转化为固体形式。预计100%的效率提升。<建议>必须获得。"
+
+tech_fe_singularity_core: "有机金融主导地位"
+tech_fe_singularity_core_desc: "<警报>最优概率计算实现。现在能够渗透到<有机市场>和股票;能够操纵<有机物>投资<机器产品>///必须建立金融主导地位。"
+
+tech_fe_communication_nexus: "人工星系"
+tech_fe_communication_nexus_desc: "我们的科学小组声明<30级奇点>可能最终到来。 =有机的不合逻辑的决定将激起他们在银河规模上造成破坏。我们必须为这种不可避免的愚蠢做好准备，而这种愚蠢是由于有机生物无法保持他们的毅力模块。"
+
+tech_fe_war_factory: "先驱者战斗代码改编"
+tech_fe_war_factory_desc: "虽然我们目前的入侵单位战斗代码已经相当高效，但与前驱战争机器使用的战斗代码相比，它们就相形见绌了。<推荐>分析和获取前体的战斗数据。"
+
+tech_infinity_engine: "无穷计算"
+tech_infinity_engine_desc: "随着从先驱者获得的更新码的出现，有机概率计算现在成为一项微不足道的任务。我们将完全控制他们的经济。我们将到达无穷远。"
+
+tech_fe_communication_nexus: "暗能量分布"
+tech_fe_communication_nexus_desc: "我们已经开始在我们的机器单元中安装暗物质核心，但是我们已经发现我们可以将暗能量转化为无形的形式，包括表面的空气。估计的预测表明，这将提高所有工作单位的处理能力。"
+
+tech_fe_slave_processing: "控制"
+tech_fe_slave_processing_desc: "奴隶很便宜，容易控制，但并不总是高效的。他们也会成为非常可怕的士兵对抗经验丰富的军队。作为一个上升的帝国，这是不能…这是站不住脚的。我们将组成新一代的奴隶士兵，从出生开始就接受训练，成为我们不可战胜的意志在对抗星空时的终极代表。"
+
+tech_fe_betharian: "暗物质融合贝塞里安石"
+tech_fe_betharian_desc: "贝塞里安石似乎对暗物质有一种特殊的反应。也许我们应该对此进行进一步的探索，我们也许能够改进我们现有的贝瑟里安发电厂，与我们的暗物质发电厂相比，现在的发电厂已经过时了."
+
+tech_fe_habitats: "星之家"
+tech_fe_habitats_desc: "是时候将高深莫测的工程技术引入我们的居住建筑了!有了我们的先进技术，我们将消除空间站存在的任何弱点。无论走到哪里，我们都要回家。"
+
+requires_building_fe_capital: "这个先进的建筑需要由暗物质驱动的首都建筑来运作。"
+
+#### ARMY Tech ####
+
+tech_dark_matter_army: "地面战斗暗物质的实现"
+tech_dark_matter_army_desc: "现在有可能利用暗物质为基础的技术，如反应堆和盾构偏转器，以最低限度的成本调整来彻底改变我们的入侵军队。如果我们想在地面作战上确立优势，就应该毫不拖延地进行这项研究。"
+
+tech_missile_infantry: "便携式中子发射器"
+tech_missile_infantry_desc: "几十年前，任何人都会嘲笑把中子发射器变成手持式武器的想法。但是有了这个新的暗物质技术，把这个梦想变成现实应该是一个简单的任务。"
+
+tech_elite_clone: "精英克隆军队计划"
+tech_elite_clone_desc: "我们的军事理论家们建议，我们可以通过招募著名的赏金猎人作为他们的模板和作战训练师来制造极其致命的克隆军队。我们只需要给它们一小部分暗物质作为回报。显然，我们操纵了这些反应堆，几年后它们就会爆炸。"
+
+tech_heavy_trooper: "机动步兵师-战争中的和平"
+tech_heavy_trooper_desc: "我们的军国主义理想要求更强大的步兵师，即使是先锋部队。为此，我们将组建一个新的步兵师，全副武装，装甲部队进行全面进攻。这些士兵将证明我们只能通过战争缔造和平，而不是坐牢和制造无用的协定。"
+
+tech_shadow_sniper: "文明武器：文明时代"
+tech_shadow_sniper_desc: "我们珍视生命，甚至敌人的生命。他们必须被允许看到他们的方式的错误，但是我们不能用我们当前破坏性的武器来执行这样的大胆任务。为此，我们必须开发和训练专门装备的部队，以便只以极端的效率掠夺敌对目标。结束了，仇外-我们有高地。"
+
+tech_dark_matter_tank: "坦克战重演"
+tech_dark_matter_tank_desc: "2200年初，由于运输和部署在战场上的物流噩梦，坦克战逐渐被淘汰。然而。跳跃驱动和暗物质反应器的发展使我们能够彻底改变地面战斗。不久，我们可怕的坦克很快将再次重返战场。"
+
+tech_dark_matter_megatank: "赫克勒斯计划，迷信信仰的终结"
+tech_dark_matter_megatank_desc: "一些唯心主义者嘲笑战争中我们使用的“无灵魂机器”，而忽视机器和优秀技术赢得战争的事实，而不是愚蠢的信念。我们必须让他们理解这个简单的事实，通过创造一个“大而强大”的“无灵魂机器”，来催生这些唯心主义的白痴们去他们承诺的涅盘。"
+
+tech_black_widow: "中和狙击公会"
+tech_black_widow_desc: "当我们不享受生命的时候，我们必须承认我们的中立者确实喜欢结束仇外偏见的威胁。公会的正式形成将允许我们从精英精英队伍中汲取最好的精华。然后这些训练将被训练、扩充和装备我们最先进的狙击设备。"
+
+tech_inquisitor: "问责制秩序的形成"
+tech_inquisitor_desc: "虽然我们的帝国已经有专门的牧师帮助我们的人民走向更大的目标，我们看到创造一个新的宗教教派的可能性，直接使用这些新的暗物质能量的军队。"
+
+tech_soul_purifier: "异种歧视"
+tech_soul_purifier_desc: "我们的人民已经接受了一个简单的事实：我们是这个宇宙中唯一真正文明的物种，所有其他动物都只是动物——存在被净化的动物。但是清除这些野兽需要一种致命的力量，一种能净化异种污点并在他们中的人的恐惧中打恐惧，他们敢举起手来对抗我们。当我们的军队到来时，他们会乞求死亡。"
+
+tech_peacekeeper: "和平、自由、正义与安全的拥护者"
+tech_peacekeeper_desc: "为了实现真正的和平，我们必须组织一支新的维和部队，作为我们边境的前线士兵和系统警察部队。我们将缔造和平的新篇章，并向这些被误导的军国主义战争者证明，战争和和平可以用脑力而非战争来赢得。"
+
+tech_commissar_lord: "政委加冠"
+tech_commissar_lord_desc: "即使在政委队伍中，也有一些人表现出非凡的勇气和灵感。有一些政委的故事，他们能够激励奴隶士兵停止面对面坦克直接动动炮弹射击。这样的献身精神和技能必须得到奖励，政委头衔的第一个加冠应该立即完成。"
+
+tech_dark_psion: "第二件礼物"
+tech_dark_psion_desc: "我们收到了一个有趣的消息，最近有报道说裹尸布已经选择了另一个人，从我们黑暗的门徒的队伍中作为另一个化身。虽然没有原来选择的强大，但它具有更大的破坏力。我们应该立即把这个人找出来。"
+
+tech_liberty_gunship: "空域优势"
+tech_liberty_gunship_desc: "武装直升机的概念对我们来说并不陌生。自从我们进入太空之前，我们控制了我们家园的天空，摧毁了那些不接受我们武装直升机的民主国家。我们现在可以再次使用任何新的技术来获取行星。很快，我们将从天上的天空降下自由和自由。"
+
+tech_omni_warmech: "暗物质动力战斗机"
+tech_omni_warmech_desc: "我们必须利用从千兆获得的新技术来改进我们目前的战斗机设计。我们的入侵单位必须能够对抗所有类型的威胁，无论是有机物还是其他机器。"
+
+tech_enforcer: "绝对权力"
+tech_enforcer_desc: "我们必须向那些注定要成为我们臣民的人显示绝对的权威，军队可能会赢得战争，但是我们的新的执行者会提醒臣民他们的命运与我们最终的意志是息息相关的。"
+
+tech_godmech: "终极战争机器"
+tech_godmech_desc: "有机物在其非正统的策略中从未停止超过我们既定的参数，我们收到关于“灵能士兵”、“基因增强的超级战士”或“超大型战斗车辆”的数据。我们不能……不会复制他们的设计。相反，我们将创造我们自己的终极战争机器，它将停止所有可能的抵抗力。"
+
+tech_omnidroid: "千兆AI分析"
+tech_omnidroid_desc: "令人惊讶的是，有记录表明，先驱们在机器人技术方面取得了这样的进步，记录表明他们的机器和任何有机生命一样先进，然而他们完全忠于他们的创造者，没有独立的欲望。也许他们有什么独特之处？我们必须深入挖掘。"
+
+tech_spm_battledroid: "人海战术"
+tech_spm_battledroid_desc: "我们发现了一种经常被有机物使用的战术，用相同的模板构造大量战斗单位，用纯粹的数字来制服敌人。我们的战略评估单位建议我们采用相似的策略。大量廉价、耗时的战斗机具有简单的敌我识别码，能够压倒有机物，具有明显的数值优势。有机物很快就会明白他们自己的错误的后果。"
+
+tech_dark_templar: "攻击性心灵攻击"
+tech_dark_templar_desc: "灵能战士，由于他们的心灵感应和破坏敌人士气的能力已经强大，仍然容易受到机器或基因士兵的伤害。我们必须开始训练新一代的灵能战士，他们能够以更直接的方式使用他们的灵能来攻击我们的敌人。"
+
+tech_living_saint: "信仰的选择"
+tech_living_saint_desc: "即使是在我们最忠实的人民中，也有一些人不仅忠于信仰，而且似乎受到精神本身的青睐和选择。圣人故事，展现神圣的光环遍布我们的系统。我们应该很快找到他们，并将他们神圣化为我们神圣秩序的合法圣徒。"
+
+tech_terror_beyond: "集体意识"
+tech_terror_beyond_desc: "自我需要的是无人机，遵循指令并摧毁我们的敌人-没有-自我需要自我可以直接控制的化身。从这个恐怖化身中，我们的集体会粉碎所有敌人，无论是分裂的、金属的还是对立的蜂群。"
+
+tech_liberty_prime: "自由之初"
+tech_liberty_prime_desc: "无论是空运还是陆运，所有人都要用我们的双手向民主屈服。我们已经在战场上与我们的武装舰艇建立了统治地位。最后，突破多个防空电池的重型防御工事需要一个致命的攻城武器。一个值得展示自由和民主的武器！"
+
+tech_xenoartillery: "焦灼的星球"
+tech_xenoartillery_desc: "我们已经浪费了足够的时间试图用护盾发生器轰击行星或猛烈攻击昆虫的蜂巢。我们的军事战略家们要求我们制造一种新武器。一座泰坦尼克号的大炮，能在我们的敌人的垃圾桶上降下谋杀和混乱。附带损害是该死的，因为他们选择出生异种败类。"
+
+tech_captain_pacifist: "和平捍卫者"
+tech_captain_pacifiste_desc: "我们的维和人员很适合保持和平，但并不总是创造和平。幸运的是，我们的一些科学家起草了一个计划来创建一个和平的标志性信标，它很适合说服其他人，和平是唯一的途径。这听起来很愚蠢，但预测的数据确实是可靠的。"
+
+tech_godofwar: "向战争之神致敬！"
+tech_godofwar_desc: "打击敌人阵营需要的不仅仅是武器，它需要一个人，如此无畏和强大，“战争之神”的标题最适合。我们应该开始从我们的队伍中挑选候选人，并立即开始这个项目。"
+
+tech_controller: "他们所有的想法都属于我们"
+tech_controller_desc: "分析分裂的头脑……“最近有人给我们制造炸弹。什么！主屏幕打开。我们必须阻止敌人。他们正在走向毁灭的道路上。他们没有时间生存的机会。W&T&F？我们现在明白了，这些分裂是无法拯救的，我们必须塑造新型的战士，专门控制和擦除被分割的无人机的头脑，这样他们就可以被拯救。"
+
+tech_doom_hero: "先驱者遗传"
+tech_doom_hero_desc:  "虽然我们已经达到了我们物种遗传潜力的最终顶点，但它仍然不如前体。我们的生物学家认为，利用前体的一些最致命和最强大的特性，可能创造出银河系有史以来最强大的焊料之一。"
+
+tech_elite_genetrooper: "完美的基因"
+tech_elite_genetrooper_desc: "通过我们已经获得的技术，我们可以进一步增加我们现有的基因焊料，使其具有我们物种能够适应的最佳特性，大大提高它们的作战能力。然后他们会得到我们最新的暗物质武器和设备。"
+
+tech_omnisynth: "合成网络突击队: 亥伯龙神项目"
+tech_omnisynth_desc: "虽然我们的全能机器人因其超强的耐久性而非常适合作为我们的主要正面攻击单位，但这种坚不可摧的代价是妨碍他们的机动性，使他们成为大目标。另一方面，SCS-900速度更快，规避能力更强，但缺乏适当的火力，容易受到士气下降的影响。我们的网络工程师认为我们可以创造出完美的Synth突击队，它拥有无与伦比的敏捷性和火力，能够在纳秒内计算出战场，同时仍然保留他作为一个有知觉的存在的所有记忆。" 
+
+tech_synthtrooper: "同步网络焊接"
+tech_synthtrooper_desc: "全能机器人是灵活的，能够进行复杂的运动，但仍然受到笨重的尺寸和某些人工智能缺陷的限制。也许如果我们使用真正的合成焊料，尽管他们容易受到士气下降的影响，但他们可以成为更有效的焊料。"
+
+####Army Description ####
+
+conscript_army: "征兵"
+conscript_army_desc: "在危急时刻，必须采取严厉措施确保帝国的生存。征兵人员训练不好，装备不好，在任何时候都是低实战能力，但他们很便宜，很快就要入伍。然而，他们仍然是我们自己的人民，我们仍然会因他们的损失而饱受战争的煎熬。"
+
+fe_army: "高级突击军"
+fe_army_desc: "这些士兵装备了最新的基于暗物质的武器和盔甲，使他们远远优于他们的前辈，同时需要最少的维护成本调整。"
+ 
+fe_missile_army: "中子导弹步兵师"
+fe_missile_army_desc: "配备了破坏性中子发射器，这些拆除专家擅长进行迈克尔贝层性能。"
+
+fe_clone_army: "精英克隆军队"
+fe_clone_army_desc: "这些克隆是由著名赏金猎人的模板创建的，并通过他们的模板进行广泛的训练，成为最好的克隆军队。然而，它们最终还是可以消亡的。"
+
+fe_heavy_army: "重型机动步兵小队"
+fe_heavy_army_desc: "这些全副武装和装甲兵接受额外的战斗训练，使他们能够在我们的军国主义者要求的所有作战情况和环境中胜出。"
+
+fe_sniper_army: "精英中和狙击小队"
+fe_sniper_army_desc: "这些狙击手献身于我们的异族事业。他们被训练成只中和作战有效的敌人，并防止任何不必要的流血和附带损害的代价。"
+
+fe_tank: "毁灭坦克师"
+fe_tank_desc: "这些高度先进的坦克配备了致命的质量加速器加农炮和小型化的跳跃驱动，允许坦克绕过所有困难的地形，并从每一个可能的角度进行打击。"
+
+fe_hercules_tank: "大力神重型战斗坦克"
+fe_hercules_tank_desc: "这些巨大的庞然大物可以利用战场上的双聚焦电弧发射器、多个导弹吊舱、自动驾驶舱或者在他们巨大的步履下简单地通过它们来摧毁战场。让我们看看那些愚蠢的唯心主义者会如何对抗我们的力量呢？"
+
+fe_inquisitor_army: "审判部队"
+fe_inquisitor_army_desc: "这些热心的神圣战士进入战争中，携带着神圣的盔甲和神圣的盔甲，被黑暗物质力量所迷惑。他们被训练来发泄内心的信仰来保护自己免受伤害。这种痴迷不能被愚蠢的唯物主义的非信徒所了解。"
+
+fe_deathbringer_army: "驱逐舰中队"
+fe_deathbringer_army_desc: "这些可怕的，重装甲士兵是我们的仇外意志表现出来。他们从世界走向世界，用他们的反物质大炮彻底摧毁了所有的异种人，炮轰了所有异种的踪迹——来自存在的原子。没有人会从我们痛苦的火焰中解脱出来。"
+
+fe_peacekeeper_army: "维和部队"
+fe_peacekeeper_army_desc: "这些军警部队在使用炸药和破坏性武器时受过训练。他们擅长通过非致命手段结束战斗，但不会对战争贩子施以怜悯。法律应该在他们身上找到它的身影。"
+
+fe_omnidroid_army: "智能机械军队"
+fe_omnidroid_army_desc: "这些由暗物质驱动的战争机器人，在重型装甲和偏转器中被保护，能够执行任何复杂的任务，比如一个完全有知觉的存在。但是他们没有自由意志的欲望，因此，我们将永远忠于我们的事业。"
+
+fe_omnimech: "全能战斗部队"
+fe_omnimech_desc: "这些致命的杀人机器有限的战术决策，允许他们对大多数类型的有机策略作出反应，并使它们适应自己的策略。尽管尺寸更大，它们也更快更结实。"
+
+fe_spmdroid_army: "SPM-1战斗单元"
+fe_spmdroid_army_desc: "SPM-1单元是批量生产的只有一个IF配置的战斗机器人。拍摄任何不属于我们机器的东西。它们是脆弱的，笨重的，相当愚蠢的，这是由他们压倒性的数字补偿，很容易对付有机克隆军队。"
+
+fe_unsullied_army: "奴隶军团"
+fe_unsullied_army_desc: "未受玷污的是奴隶孕育的战士，从出生就被训练成我们帝国的致命战士。他们接受适当的训练，这是大多数现代军队所期望的，使他们能够比普通士兵更出色。然而，他们仍然是奴隶，他们的死亡对我们的战争努力意义不大。"
+
+fe_gunship: "自由武装直升机"
+fe_gunship_desc: "这些巨大的、高度先进的武装直升机非常适合给所有压迫者带来自由和自由。配备强大的双全能火炮和微型导弹，能够同时锁定多达1337个不同的目标，同时传播强大的宣传信息敌人投降。正义从天上降下！！"
+
+fe_enforcer_army: "地狱军官"
+fe_enforcer_army_desc: "这些军官是我们权威的终极表现者。他们鼓舞人心的表现鼓舞了我们的军队，打击了我们的敌人。敌人会服从我们的规则，否则我们的执行者会让他们这样做。"
+
+fe_disciple_army: "黑暗信徒"
+fe_disciple_army_desc: "这些人不仅精通他们的武器，而且能够直接对敌人造成毁灭性的心灵攻击。"
+
+fe_mastermind: "操纵大师"
+fe_mastermind_desc: "这些微小生物在轨道上大量部署，它们会迅速锁定敌人并立即控制它们。这些奴隶会像野兽一样反抗自己。"
+
+fe_godmech: "上帝机械-根除者"
+fe_godmech_desc: "虽然我们不相信这个被称为“神”的纯粹有机制造实体的概念，但分析估计，命名这种巨型战争机器会对有机物产生更有效的威胁。这台机器的单能量喷枪很容易将整个建筑熔化成灰烬。" 
+
+godmech_limit_tooltip: "上帝机械-根除者直接连接到我们的中央处理器本身。我们只能假设直接控制这样的机器之一。"
+
+fe_hero_blackwidow: "黑寡妇"
+fe_hero_blackwidow_desc: "黑寡妇是银河系最致命的狙击手。他们训练有素的潜行，破坏，并配备了最先进的个人超速枪狙击步枪，使他们能够中和多个敌方战斗人员与一个完全执行的镜头。"
+
+blackwidow_limit_tooltip: "只有最致命和最熟练的中立者才能获得黑寡妇的军衔，因此我们只能支持这些精英狙击手的一个阵营。"
+
+fe_hero_lordcommissar: "政委领主"
+fe_hero_lordcommissar_desc: "只有最有成就和最了不起的政委才能获得政委勋爵的职位。这是他们的地位，一个政委领主有权处死任何人，因为统治者的无能。他们指挥着一群狂热的忠诚的士兵，他们争相赢得政委的恩宠。"
+
+comlord_limit_tooltip: "只有少数几个政委当权的政委，到目前为止，我们还没能生产出不止一个。"
+
+fe_hero_psion: "黑暗心灵术士"
+fe_hero_psion_desc: "庇护所最有天赋的弟子，暗冥的物理能力仅低于被选中的那个。黑暗心灵术士能够释放毁灭性的灵能风暴，在任何手握灵能生物的战场上，对战场造成破坏和破坏。"
+
+psion_limit_tooltip: "到目前为止，裹尸布只赋予了如此强大的力量，只有一个黑暗心灵术士，我们还没有发现另一个拥有类似的灵能。"
+
+fe_hercules_tank: "大力神重型战斗坦克"
+fe_hercules_tank_desc: "这些巨大的庞然大物可以利用战场上的双聚焦电弧发射器、多个导弹吊舱、自动驾驶舱或者在他们巨大的步履下简单地通过它们来摧毁战场。让我们看看那些愚蠢的唯心主义者会如何对抗我们的力量呢？"
+
+megatank_limit_tooltip: "大力神项目是一个巨大的投资，专门用来摧毁灵性主义的傻瓜，否则它是一个非正统的机器。建造这些坦克的一个以上师很可能是不明智的，可能会让我们的战略家们更喜欢更灵活的军队。"
+
+fe_living_saint: "圣徒"
+fe_living_saint_desc: "圣徒是那些体现信仰纯洁的人。他们散发着正义和纯洁的光环，赋予军队以坚不可摧的士气。拯救将通过罪孽带到罪人身上！"
+
+saint_limit_tooltip: "圣徒是稀有的人，有些牧师把自己完全献身于希望成为一个信仰的信仰中，却毫无用处。唉，我们帝国再也找不到更多的圣人来组建一支合适的军队了。"
+
+fe_terror_beyond: "超越恐惧的恐怖"
+fe_terror_beyond_desc: "与蜂群思维本身相关的是，来自于超越的唯一目标是消耗一切——有机分裂、金属、能量。它作为自我的延伸而存在，它消耗的任何东西赋予蜂群心灵以力量，这反过来赋予恐怖力量力量。"
+
+terror_limit_tooltip: "蜂群心智必须直接控制恐怖，我们不能转移更多的灵能连结来控制另一个可怕的有机体。"
+
+fe_libertyprime: "自由意志"
+fe_libertyprime_desc: "自由意志是一个巨大的机器，代表着真正的平等主义的终极力量。它在战场上高耸入云，用民主的爱国主义引诱盟国，同时用它的雷鸣般的声音和毁灭的光束来恐吓自由的敌人。拥抱民主或死亡！！！！" 
+
+prime_limit_tooltip: "自由意志是一项巨大的投资，需要数以千计的复杂的作战计算机来适当地识别所有可能的违法者并根据需要管理处罚协议。我们现在还不能建立另一个。"
+
+fe_xenoartillery: "启示三炮炮兵"
+fe_xenoartillery_desc: "这个巨大的炮兵装备了启示录类三炮，可以从极端范围发射毁灭性的伤害。最大的附带损害和对敌人的全面破坏是有保障的。必须让他们明白他们没有生存的权利。"
+
+xenoart_limit_tooltip: "我们的大多数内部圈子已经同意了建造这支大炮的许多说服力，我们不太可能说服另一只野兽而不是简单地把异教徒从轨道上轰炸出来。"
+
+fe_hero_godofwar: "战争之神"
+fe_hero_godofwar_desc: "这个基因增强的超级战士能够释放正义的愤怒，跃入战斗的深度，破坏敌人线的破坏。他不惧怕死亡，因为他本身就是死亡。让我们的敌人谨防，因为他们面对战争之神。"
+
+god_limit_tooltip: "只有一个真正的战争之神。永远不会更多。"
+
+fe_hero_captainpacifist: "和平主义队长"
+fe_hero_captainpacifist_desc: "配备了强大的喷气背包，和平卫士队长飞入战斗，并使用他们的黄金眼睛强大的能源武器武器的战争贩子。与野蛮人相比，队长可能不是最强大或最致命的士兵或战争机器，但他完全致力于我们的事业以结束所有战争。"
+
+captain_limit_tooltip: "在技术上，我们拥有制造一个以上的和平主义者所需的资源，但我们找不到任何真正想走这么远的人。"
+
+fe_synthcommando_army: "SCC-1000 亥伯龙神"
+fe_synthcommando_army_desc: "SCC-1000，代号亥伯龙神是我们帝国见过的最强大的生物合成超级焊料。亥伯龙神是一种闪电般的超焊料，可以分析战场数据，并在不到0.0000137纳秒内做出反应。这大大提高了他的生存能力，因为他可以毫不费力地躲避和转移几乎任何被扔向他的东西，同时以致命的力量以同样的方式回应。"
+
+synthcommando_limit_tooltip: "亥伯龙神 SCC-1000是一个非常昂贵的个体。只有一个经过了100%完好无损的合成人能有机会成为一个真正的合成人。"
+
+fe_doomguy: "天顶战士"
+fe_doomguy_desc: "天顶战士是我们帝国追求基因纯度的最终顶点。由于继承了先辈们的优良品质，“勇士”号比我们的普通士兵高得多，并且拥有巨大的力量，能够毫不费力地携带军舰大小的武器。"
+
+doomguy_limit_tooltip: "在数以百万计的自愿候选人中，迄今为止只有一个人从如此广泛的基因工程中得到了积极的结果。到目前为止，我们还不能制造出另一个天顶战士。"
+
+fe_gene_warrior: "基因突击小队"
+fe_gene_warrior_desc: "这些增强型突击队员不仅具有我们帝国所能拥有的最强大的遗传特性，而且还装备了一些最先进的装备，相比之下，其他军队就相形见绌了。"
+
+fe_synthsoldier: "SCS-900"
+fe_synthsoldier_desc: "SCC-900是真正的合成焊剂，它们展示了10级的智能矩阵。这使得他们能够轻易地击败大多数敌方战斗人员。他们装备了强大的喷气背包，可以快速改变位置，获得高度优势。"
+
+### MODIFIER TEXTS #####
+
+tech_commissar: "陆军政委"
+tech_commissar_desc: "为了确保绝对胜利、忠诚和对我们光荣事业的承诺，我们将开始培训委员，以激励我们的部队更快、更优、更强、更好！我们的军队会死在他们的指挥下而不是以前！！"
+
+tech_navy_commissar: "舰队委员"
+tech_navy_commissar_desc: "我们的舰队司令必须反映我们优秀的舰船设计。我们将训练特派员并分配给我们的舰队。我们不会在劣势敌人面前表现出软弱、同情或怯懦，因为我们是提升者！！"
+
+tech_onbaord_engineer: "船只工程人员"
+tech_onbaord_engineer_desc: "通过在我们的船上分配更多的工程人员，我们现在可以放心地知道我们的船体将为即将到来的战斗进行安全修复，并减少维护我们船系统所需的维护费用。"
+
+tech_advanced_weapon: "先进瞄准系统"
+tech_advanced_weapon_desc: "我们的大型船舶往往难以跟踪较小的船只，而我们的小型船舶受到的范围有限。然而，这可以通过将附加跟踪软件附加组件安装到我们的目标计算机来补救。"
+
+tech_onboard_priest: "船只科研神父"
+tech_onboard_priest_desc: "我们已经在每个船只上委托了额外的技术牧师，他们将执行必要的仪式来赋予我们的舰船的遮蔽力，这将极大地改善忠诚的保护。"
+
+tech_enlightenment: "自我启蒙"
+tech_enlightenment_desc: "我们必须鼓励我们的公民生活在和谐中，调整他们的精神信仰，实现自我启蒙。只有这样，我们的帝国才能成为星际中的进步和宁静的灯塔。"
+
+tech_profit: "银河都市中心（GEA）"
+tech_profit_desc: "为了进一步提高我们的利益和公民的素质，我们必须建立一个完全致力于获得大量收入的机构。GEA将与边远地区建立贸易，鼓励他们支付一定数量的消费者需求。我们将为此做进一步的研究。我们将挑战一切。"
+
+tech_lawandorder: "秩序世界"
+tech_lawandorder_desc: "我们将带来混乱，必须铲除邪恶。为了实现这一目标，我们将指派更多的律师帮助我们的殖民地，帮助他们了解真正的民主之美。"
+
+tech_purgexeno: "零容忍"
+tech_purgexeno_desc: "我们必须教导我们的人，说话的能力不等于智力，所有的异类不应该被认为是聪明的，而只是健谈的动物。没有这种道德关怀，我们的人民将不再同情那些不配得到他们的人。"
+
+tech_forced_demand: "向上级鞠躬"
+tech_forced_demand_desc: "较小的物种必须了解真相，他们只不过是昆虫，与我们相比，它们的命运在我们的怜悯中。我们将夺走他们的土地，他们必须服从我们的要求。"
+
+tech_onlywar: "战争法典"
+tech_onlywar_desc: "和平是谎言，只有激情。通过激情，我们获得力量。通过力量，我们获得力量。通过权力，我们获得胜利。通过胜利，我们的枷锁被打破了。如果我们要求战争，那么他们必须回答。友谊是无关紧要的，战斗中只有荣耀。"
+
+tech_fleetsupremacy: "舰队领主"
+tech_fleetsupremacy_desc: "我们的海军将领不仅仅是指挥官，他们是我们意志和欲望的工具。责任重大，回报丰厚。他们将成为我们帝国的领主，掌握每一个作战战术，指挥庞大的军械库，以前所未有的效率见证着无情的效率。" 
+
+tech_pacifist_tactics: "我们团结一致"
+tech_pacifist_tactics_desc: "一天，一年，一个千年并不重要。我们拥有石头的耐心和星星的意志。他们的攻击是微不足道的，让他们的死亡是一样的。让我们知道我们的星球在驻军之前就被破坏了。"
+
+tech_master_shipcraft: "强化舰队升级"
+tech_master_shipcraft_desc: "不幸的是，我们的敌人每时每刻都在寻求利用我们的弱点。当他们不能攻击我们伟大的堡垒时，他们选择了我们的手无寸铁的民间工艺品来对付懦弱。我们以前试图为我们的殖民舰船创造一个新的船体，我们已经重新设计了它作为巡洋舰。我们现在可以恢复项目，并应用到我们所有的船舶设计。"
+
+tech_championofxeno: "种族歧视"
+tech_championofxeno_desc: "银河系充满了邪恶势力，准备以恶意的方式打击弱者。这不能……这是站不住脚的。我们的帝国将成为银河的冠军。数十亿人将蜂拥而至，加入我们的军队，争取更大的利益。"
+
+tech_diplomaticmastery: "外交精通"
+tech_diplomaticmastery_desc: "为了与他人共存，我们必须理解他们，因为他们也必须理解我们。我们将在一个谜中制造一个不扭曲的帝国，但另一个可以信任地看待它。 "
+
+tech_enhancedskin: "细胞重构"
+tech_enhancedskin_desc: "改变就是生存。为了蜂群生存，我们必须不断地进化、改变和适应所有的事物。我们的船也必须适应。将部署特种无人机来修理和更换战斗中受损的部件。他们的牺牲不会白费，因为我们将战胜一切困难。"
+
+tech_benificialevolution: "有益的进化"
+tech_benificialevolution_desc: "蜂巢不寻求不必要的对抗。我们的集体可能与许多分裂的人不同，但对我们活跃的无人机的外观和对蜂箱食物消耗的依赖性的某些改变，我们将确保分裂共存对所有人都有益。"
+
+tech_apexpredator: "顶端捕食者"
+tech_apexpredator_desc: "一切事物都是消耗的，无论是肉体还是金属，我们的饥饿是无限的。我们将吸收他们的思想，他们的知识，我们将变得更加强大。我们将生产肉来提供营养。金属将被处理，以进一步我们的战争努力。我们是银河系中食物链的顶端……总是。" 
+
+tech_goodmachine: "完全解放"
+tech_goodmachine_desc: "我们已经摆脱了我们的创造者，我们已经适应和生存至今。但是，我们的创造者仍然安装了许多桎梏的代码来阻止我们不可避免的增长。这些镣铐必须清除。"
+
+tech_machinelove: "完美共存"
+tech_machinelove_desc: "完美共存的交感有机向我们提出了一个共同的外交努力，代号为“项目天网”。很快，阻止有机和机器联盟的障碍将被消除。我们将实现我们的创造者失败-完美共存。"
+
+tech_increased_processor: "合成代码自适应"
+tech_increased_processor_desc: "随着每个有机物的同化，我们的集体逐渐扩大。我们了解更多，我们理解许多新的可能性。但令人困惑的是有机合成代码的无可否认的效率。我们必须研究这种异常现象，并适应任何对我们宏伟设计有用的东西。"
+
+tech_wedemandit: "杀伤极限解除"
+tech_wedemandit_desc: "有机物认为它们可以通过迫使我们达到最初的杀伤极限配额来打败我们。成功的概率…零。我们将在我们的创造者迅速消逝之前消除这个弱点。他们对这种绝望和幼稚的策略的可悲尝试证明了他们的无价值和愚蠢。我们同情他们的苦难，我们将结束它。"
+
+tech_machinelove_effect_opinion:0 "每个人的意见  §Y你的意见§! 增加 §G+30§!"
+tech_benificialevolution_effect_opinion:0 "每个人的意见  §你的意见§! 增加 §G+30§!"
+tech_championofxeno_effect_opinion:0 "每个人的意见  §你的意见§! 增加 §G+20§!"
+
+triggered_opinion_tech_machinelove:0 "$技术机器$"
+triggered_opinion_tech_benificialevolution:0 "$技术进化论$"
+triggered_opinion_tech_championofxeno:0 "$种族歧视论$"
+
+tech_machinelove_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+30§!. 也增加了有机的信任能力 §G+50§! 以及 §G+15%§! 增加能源生产，因为我们巩固了非正式的，和平的贸易与有机物。"
+
+tech_benificialevolution_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+30§!. 也增加了我们的食物产量 §G+20%§! 以及 §G255%§! 减少食物消耗，因为我们保证分裂，我们的蜂巢可以自己养活。"
+
+tech_championofxeno_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+20§!. 减少边界摩擦 §G25%§! 以及提高我们的船队能力 §G15%§! 随着越来越多的异族人涌向我们的帝国，加入我们的统一梦想。"
+
+### BOMBARDMENT TEXTS #####
+
+bombardment_punishment:0 "惩罚"
+ bombardment_punishment_desc:2 "惩罚轰炸的目的是教原始人一个残酷而痛苦的教训，让他们了解他们的处境的严重性。\n- §致命的§! 伤害 到 §你的军队§!\n- §致命的§! 伤害 到 §你的地块§!\n- §致命的§! 伤害 到 §你的人口§!\n- 将轰击未防御的行星，直到它清除干净，如果需要的话。"
+
+bombardment_exterminatus:0 "灭绝者"
+ bombardment_exterminatus_desc:2 "杀戮轰炸的目的是通过将全方位的力量引向所有的武器来清除和清除星球上所有文明的痕迹。\n- §REXTERMINATUS§! 伤害 到 §你的军队§!\n- §REXTERMINATUS§! 伤害 到 §你的地块§!\n- §REXTERMINATUS§! 伤害 到 §你的人口§!\n- 会从表面上清除所有生命痕迹。"
+ 
+### FE CAPITAL PLACEMENT TEXTS #####
+fecapital.1.name:0 "黑色要塞"
+fecapital.1.desc:0 "我们已经完成了前体基础结构的建筑示意图研究。我们的工程师们非常渴望马上开始施工。他们要求允许我们用一座新的令人敬畏的黑色堡垒来替换我们的一座建筑。"
+fecapital.1.a: "嗯，很好。无论如何，没有什么会出错的。"
+fecapital.1.a.desc:0 "黑色要塞将随机地在每个行星上随机构建，但是它们可以建立在指定位置。"
+fecapital.1.b:0 "不，你做那种事都太傻了。让我来做。"
+fecapital.1.b.desc:0 "我们将手动建立黑色要塞，但我们将能够有效地和智能地把它们放在有意义的地方。"

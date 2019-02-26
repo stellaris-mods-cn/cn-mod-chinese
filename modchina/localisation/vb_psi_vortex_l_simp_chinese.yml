@@ -1,0 +1,20 @@
+﻿l_simp_chinese: 
+
+ VB_PSI_BLEAK_VORTEX_TITLE:0 "荒凉的漩涡"
+ vb_psi_vortex.3.desc:0 "这是一个超越物质世界的扭曲领域，一个更大的整体碎片，我们的祖先曾经联系过它们寻求强大的力量。\n\n这是一个奇怪的地方，在我们理解之外的实体潜伏着，等待着我们来请求他们。 \n\n有人说这是一个坏人死后会去的地方。又有些人说，这是我们噩梦从这里来的地方。但我们能肯定的是，是那个陌生人，一个人，或者是给了我们力量和饥饿的东西在这里，等着我们的请求。"
+ vb_psi_vortex.3.a:0 "请求用一个星球来维持生计。"
+ vb_psi_vortex.recently_petitioned:0 "你最近已经向陌生人请愿了。"
+ vb_psi_vortex.not_hungry_enough:0 "你的食物不够低。"
+ vb_psi_vortex.no_valid_planet:0 "你没有一个星球来吸引这个陌生人:星球不应该是你的首都，必须至少有5个灵魂食用者。"
+ vb_psi_vortex.3.b:0 "请求贸易维持资源。"
+ vb_psi_vortex.3.b.tooltip:0 "你会失去2个营养等级。"
+ vb_psi_vortex.too_hungry:0 "你的食物已经太少了。"
+ vb_psi_vortex.3.q:0 "离开漩涡"
+ 
+ 
+ vb_psi_vortex.4.desc:0 "看来你的请求激起了陌生人的兴趣。\n\n"灵魂供给不足，是吗?我可以帮你。有一个可爱的小世界叫§Y[desired_planet.GetName]§!。我可以从你这里拿走，作为回报…好吧，那就说你不会饿死了。""
+ vb_psi_vortex.4.a:0 "交易。"
+ vb_psi_vortex.4.b:0 "没有达成任何协议。"
+ 
+ vb_psi_vortex_boon:0 "陌生人的恩赐"
+ vb_psi_petitioned_vortex:0 "最近请求陌生人"

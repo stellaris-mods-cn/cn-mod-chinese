@@ -1,0 +1,109 @@
+﻿l_simp_chinese:
+
+ ##############################
+ # Megastructures
+ ##############################
+ 
+ # Creator Emitter
+ 
+ hyperlane_creator_emisor_0:0 "超空间航道生成器(发射极)建筑基地"
+ hyperlane_creator_emisor_0_DESC:0 "这个基地将作为未来建造超空间航道发生器(发射极)的基础。"
+ hyperlane_creator_emisor_0_MEGASTRUCTURE_DETAILS:0 "一种通过在星系上向另一星系发射一束离子束来创建新的超空间航道。"
+ 
+ hyperlane_creator_emisor_1:0 "超空间航道生成器(发射极)"
+ hyperlane_creator_emisor_1_DESC:0 "一种通过在星系上向另一星系发射一束离子束来创建新的超空间航道。"
+ 
+ hyperlane_creator_emisor_2:0 "超空间航道生成器(发射极) - 激活"
+ hyperlane_creator_emisor_2_DESC:0 "启动速射电子束的激活序列，将其发射到接收站以产生新的超空间航道。"
+ 
+ # Creator Receptor
+ 
+ hyperlane_creator_receptor_0:0 "超空间航道生成器(接收极)建筑基地"
+ hyperlane_creator_receptor_0_DESC:0 "这个基地将作为未来建造超空间航道(接收极)的基地。"
+ hyperlane_creator_receptor_0_MEGASTRUCTURE_DETAILS:0 "一种通过在星系上向另一星系发射一束离子束来创建新的超空间航道。"
+ 
+ hyperlane_creator_receptor_1:0 "超空间航道生成器(接收极)"
+ hyperlane_creator_receptor_1_DESC:0 "一种通过在星系上向另一星系发射一束离子束来创建新的超空间航道。"
+ 
+ # Remover Emitter
+ 
+ hyperlane_remover_emisor_0:0 "超空间航道删除器(发射极)建筑基地"
+ hyperlane_remover_emisor_0_DESC:0 "这个地点将作为未来建造超空间航道发生器(发射极)的基础。"
+ hyperlane_remover_emisor_0_MEGASTRUCTURE_DETAILS:0 "一种通过在星系上向另一星系发射一束离子束来创建新的超空间航道。"
+ 
+ hyperlane_remover_emisor_1:0 "超空间航道删除器(发射极)"
+ hyperlane_remover_emisor_1_DESC:0 "一种通过在星系上向另一星系发射一束离子束来创建新的超空间航道。"
+ 
+ hyperlane_remover_emisor_2:0 "超空间航道删除器(发射极) - 激活"
+ hyperlane_remover_emisor_2_DESC:0 "启动速射电子束的激活序列，将其发射到接收级，以移除现有的超空间航道。"
+ 
+ # Remover Receptor
+ 
+ hyperlane_remover_receptor_0:0 "超空间航道删除器(接收极)建筑基地"
+ hyperlane_remover_receptor_0_DESC:0 "这个地点将作为未来建造超空间航道(接收级)的基础。"
+ hyperlane_remover_receptor_0_MEGASTRUCTURE_DETAILS:0 "启动速射电子束的激活序列，将其发射到接收级，以移除现有的超空间航道。"
+ 
+ hyperlane_remover_receptor_1:0 "超空间航道删除器(接收极)"
+ hyperlane_remover_receptor_1_DESC:0 "启动速射电子束的激活序列，将其发射到接收级，以移除现有的超空间航道。"
+ 
+ ##############################
+ # Techs
+ ##############################
+ 
+ tech_hyperlane_generation:0 "超空间技术"
+ tech_hyperlane_generation_desc:0 "在超光速引擎的设计和废弃星门激活方面的最新的研究发展了一项技术使我们能够开发新的超空间航道并移除现有的超空间航道，最终使我们能够根据我们的需要和目的重塑银河系的地理位置。"
+ 
+ TECH_UNLOCK_HYPERLANE_GENERATION_TITLE:0 "§H解锁功能：§! 超空间航道"
+ TECH_UNLOCK_HYPERLANE_GENERATION_DESC:0 "§H超空间航道§!\n允许创建和删除超空间航道。"
+ 
+ ##############################
+ # Restrictions
+ ##############################
+ 
+ requires_tech_hyperlane_generation:0 "$TRIGGER_FAIL$需要技术£physics  §Y$tech_hyperlane_generation$§!."
+ 
+ requires_no_existing_generator_emisor:0 "$TRIGGER_FAIL$无法在帝国内建立现有的§Y超空间航道生成器(发射极)§!"
+ requires_existing_generator_receptor:0 "$TRIGGER_FAIL$需要在帝国内有§Y超空间航道生成器(接收极)§!"
+ requires_existing_generator_emisor:0 "$TRIGGER_FAIL$需要现有的§Y超空间航道生成器(发射极)§!连接帝国内的§Y[Root.GetName]§!."
+ requires_no_existing_system_generator_emisor:0 "$TRIGGER_FAIL$无法在星系中建立§Y超空间航道生成器(发射极)§!"
+ requires_no_existing_generator_receptor:0 "$TRIGGER_FAIL$无法在帝国内建立§Y超空间生成器(接收极)§!"
+ 
+ requires_no_existing_remover_emisor:0 "$TRIGGER_FAIL$无法在帝国内建立现有的§Y超空间航道删除器(发射极)§! "
+ requires_existing_remover_receptor:0 "$TRIGGER_FAIL$需要在帝国内有§Y超空间航道删除器(接收极)§!"
+ requires_existing_remover_emisor:0 "$TRIGGER_FAIL$需要现有的§Y超空间航道删除器(发射极)§!连接帝国内的§Y[Root.GetName]§!."
+ requires_no_existing_system_remover_emisor:0 "$TRIGGER_FAIL$无法在星系中建立§Y超空间航道删除器(发射极)§!"
+ requires_no_existing_remover_receptor:0 "$TRIGGER_FAIL$无法在帝国内建立§Y超空间删除器(接收极)§!" 
+
+ ##############################
+ # Events
+ ##############################
+ 
+ hyperlane_generation.1.name:0 "超空间航道生成"
+ hyperlane_generation.1.desc:0 "我们努力在创建一个新的§Y[hyperlane_creator_emisor.GetName]§!和§Y[hyperlane_creator_receptor.GetName]§! 随后证明我们成功了。"
+ 
+ hyperlane_generation.3.name:0 "超空间航道删除"
+ hyperlane_generation.3.desc:0 "我们的努力在删除现有§Y[hyperlane_remover_emisor.GetName]§!和§Y[hyperlane_remover_receptor.GetName]§! 随后证明我们成功了。"
+ 
+ hyperlane_generation.5.name:0 "超空间航道生成器(发射极)建设"
+ hyperlane_generation.5.desc:0 "我们已经完成了在§Y[hyperlane_generator_1.GetName]§!超空间航道生成器(发射极)的第一阶段建设。"
+ 
+ hyperlane_generation.7.name:0 "超空间航道生成器(接收极)建设"
+ hyperlane_generation.7.desc:0 "我们已经完成了在§Y[hyperlane_generator_2.GetName]§!超空间航道生成器(接收极)的第一阶段建设。"
+ 
+ hyperlane_generation.9.name:0 "超空间航道删除器(发射极)建设"
+ hyperlane_generation.9.desc:0 "我们已经完成了在§Y[hyperlane_generator_3.GetName]§!超空间航道删除器(发射极)的第一阶段建设。"
+ 
+ hyperlane_generation.11.name:0 "超空间航道删除器(接收极)建设"
+ hyperlane_generation.11.desc:0 "我们已经完成了在§Y[hyperlane_generator_4.GetName]§!超空间航道删除器(接收极)的第一阶段建设。"
+ 
+ hyperlane_generation.6.name:0 "超空间航道生成器(发射极)完成"
+ hyperlane_generation.6.desc:0 "我们已经完成了在§Y[From.From.GetName]§!超空间航道生成器(发射极)的全部建设。"
+ 
+ hyperlane_generation.8.name:0 "超空间航道生成器(接收极)完成"
+ hyperlane_generation.8.desc:0 "我们已经完成了在§Y[hyperlane_generator_2.GetName]§!超空间航道生成器(接收极)的全部建设。"
+ 
+ hyperlane_generation.10.name:0 "超空间航道删除器(发射极)完成"
+ hyperlane_generation.10.desc:0 "我们已经完成了在§Y[hyperlane_generator_3.GetName]§!超空间航道删除器(发射极)的全部建设。"
+ 
+ hyperlane_generation.12.name:0 "超空间航道删除器(接收极)完成"
+ hyperlane_generation.12.desc:0 "我们已经完成了在§Y[hyperlane_generator_4.GetName]§!超空间航道删除器(接收极)的全部建设。"

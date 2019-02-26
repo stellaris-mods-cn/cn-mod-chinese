@@ -1,0 +1,49 @@
+﻿l_simp_chinese:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+ 
+ ####################################
+ # Battleship
+ ####################################
+ EAC_BATTLESHIP_BOW_AC:1 "先进的航母舰首"
+ EAC_BATTLESHIP_MID_AC:1 "先进的航母核心"
+ EAC_BATTLESHIP_STERN_AC:1 "先进的航母舰尾"
+
+ ####################################
+ # Cruiser
+ ####################################
+ EAC_CRUISER_BOW_G2:1 "导弹巡洋舰舰首"
+ EAC_CRUISER_MID_G3:1 "导弹巡洋舰核心"
+
+ EAC_CRUISER_BOW_S1:0 "轻母舰首"
+ EAC_CRUISER_MID_S2:0 "轻母核心"
+ EAC_CRUISER_STERN_P2:0 "轻母舰尾"
+
+ ####################################
+ # Station Defense
+ ####################################
+ EAC_LIGHT_MILITARY_STATION_SECTION:0 "$LIGHT_MILITARY_STATION_SECTION$"
+ EAC_PD_MILITARY_STATION_SECTION:0 "$PD_MILITARY_STATION_SECTION$"
+ EAC_MEDIUM_MILITARY_STATION_SECTION:0 "$MEDIUM_MILITARY_STATION_SECTION$"
+ EAC_MISSILE_MILITARY_STATION_SECTION:0 "$MISSILE_MILITARY_STATION_SECTION$"
+ EAC_HEAVY_MILITARY_STATION_SECTION:0 "$HEAVY_MILITARY_STATION_SECTION$"
+ EAC_HANGAR_MILITARY_STATION_SECTION:0 "$HANGAR_MILITARY_STATION_SECTION$"
+
+ ####################################
+ # Starbases
+ ####################################
+#  EAC_STARPORT_STARBASE_SECTION:0 "Heavy $STARPORT_STARBASE_SECTION$"
+#  EAC_STARHOLD_STARBASE_SECTION:0 "Heavy $STARHOLD_STARBASE_SECTION$"
+#  EAC_STARFORTRESS_STARBASE_SECTION:0 "Heavy $STARFORTRESS_STARBASE_SECTION$"
+#  EAC_CITADEL_STARBASE_SECTION:0 "Heavy $CITADEL_STARBASE_SECTION$"
+ EAC_BATTERY_STARBASE_SECTION:0 "重型$BATTERY_STARBASE_SECTION$"
+ EAC_MISSILE_STARBASE_SECTION:0 "重型$MISSILE_STARBASE_SECTION$"
+ EAC_HANGAR_STARBASE_SECTION:0 "重型$HANGAR_STARBASE_SECTION$"
+ EAC_CITADEL_STARBASE_SECTION:0 "大口径火炮核心"

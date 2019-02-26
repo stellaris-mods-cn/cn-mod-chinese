@@ -1,0 +1,14 @@
+﻿l_simp_chinese:
+ edict_alpha_relocate_megacitizens:0 "移民"
+ edict_alpha_relocate_megacitizens_desc:1 "将人口从繁华的都市迁移到无人居住的地区。"
+ edict_relocate_megacitizens.tooltip:0 "将人口从繁华的都市迁移到无人居住的地区。"
+ 
+ building_large_city:0 "大都市"
+ building_large_city_desc:1 "许多城市已经成为巨大的混凝土森林和金属迷宫。\n\n§R独一无二的家园。其他城市不能建造。\n解锁星球法令: 移民.§!"
+ 
+ building_jewel_city:0 "珠宝城"
+ building_jewel_city_desc:0 "这是我们永恒的帝国和银河系的真实见证。"
+ building_apex_city:0 "尖端都市"
+ building_apex_city_desc:0 "这是对我们技术和社会成就的真正证明。"
+ building_prison_city:0 "监狱城市"
+ building_prison_city_desc:0 "在城的四围筑起坚固的高墙，将一切的罪犯和被赶散的人都圈在其中。利用监狱中比较顺从的成员来增加劳动力。没有什么可能出错。"

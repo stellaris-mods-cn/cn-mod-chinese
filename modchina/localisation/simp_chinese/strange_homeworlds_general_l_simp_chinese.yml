@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+  climate_gas:0 "气体"
+  climate_inhospitable:0 "荒凉的"
+  climate_harsh:0 "严酷的"
+  climate_artificial:0 "机械"
+  climate_other:0 "其他"
+  gas:0 "§M(气体)§!"
+  inhospitable:0 "§H(荒凉的气候)§!"
+  harsh:0 "§R(严酷的气候)§!"
+  artificial:0 "§M(机械)§!"
+  other:0 "(其他)"
+
+  
+  climate_star:0 "恒星"
+  star:0 "§M(恒星)§!"
+  TYPE_HEADER_09:0 "恒星"
+  

@@ -1,0 +1,57 @@
+﻿l_simp_chinese:
+
+ decision_gpm_Seasonal_Flooding:0 "建立防洪"
+ decision_gpm_Seasonal_Flooding_desc:0 "我们的殖民地将试图找到一个解决办法，帮助遏制世界上频繁发生的季节性洪水。这需要几个月的时间。"
+
+ decision_gpm_Locust_Plagues:0 "消灭虫子"
+ decision_gpm_Locust_Plagues_desc:0 "我们的殖民地将设法找到一种办法来阻止蝗灾妨碍它的发展。"
+ 
+ decision_gpm_Acidic_Seas:0 "使海洋脱酸"
+ decision_gpm_Acidic_Seas_desc:0 "我们的殖民地将试图找到一种解决办法来消除星球海洋的一些酸度。"
+ 
+ decision_gpm_Carnivorous_Flies:0 "分发捕蝇草"
+ decision_gpm_Carnivorous_Flies_desc:0 "我们的殖民地将尝试找到一种解决食肉性苍蝇问题的方法。"
+ 
+ decision_gpm_Lingering_Pollution:0 "清理污染"
+ decision_gpm_Lingering_Pollution_desc:0 "我们的殖民地将努力清除这个星球上残留的空气污染。"
+
+ decision_gpm_Resilent_Parasites:0 "寄生战争"
+ decision_gpm_Resilent_Parasites_desc:0 "我们的殖民地将试图找到一种治疗其居住者寄生虫的疗法。"
+
+
+
+ gpm_decision_limit:224 "\n决策限制: §Y资源§!\n§L每个行星只能添加一个资源§!"
+ gpm_decision_need_colony:224 "£trigger_no£ 在这个星系需要一个§Y殖民地§!。"
+
+ gpm_decision_space_resources_colony:244 "分析星系资源"
+ gpm_decision_space_resources_colony_desc:244 "该殖民地分析将在这个星系中发现的行星上的所有独特特征，并制定最佳策略来开发发现的资源。"
+
+ gpm_decision_precursor_shield_on:224 "启动先驱者行星护盾"
+ gpm_decision_precursor_shield_on_desc:224 "启动先驱者行星护盾"
+ Precursor_Planetary_Shield_on:224 "启动先驱者行星护盾"
+ Precursor_Planetary_Shield_on_desc:224 "见证这完全运作的行星盾的力量!"
+
+ gpm_decision_precursor_shield_off:224 "降低先驱者行星护盾功率"
+ gpm_decision_precursor_shield_off_desc:224 "关闭先驱者行星护盾进行测试决策"
+
+ gpm_decision_dig_for_precursor_artifacts:224 "搜索§Y先驱者物品§!"
+ gpm_decision_dig_for_precursor_artifacts_desc:224 "命令一个新的科学考察队到这个世界去寻找史前文物。"
+ gpm_recent_archeological_expedition:224 "详尽的考察"
+ gpm_recent_archeological_expedition_desc:224 "彻底的探险已经发现了这个下去上所有能找到的东西。在这里寻找更多的人造物是在浪费资源。"
+ gpm_recent_archeological_expeditionTT:224 "§Y在这个星球上再也找不到任何人造物了§!"
+
+
+
+ gpm_decision_thunderstorms_research:224 "寻找雷暴研究矿床"
+ gpm_decision_thunderstorms_research_desc:224 "这个星系中的殖民地将在这个星球上标出一个合适的位置，以便对行星雷暴进行最优的研究。"
+
+ gpm_decision_thunderstorms_energy:224 "发现雷暴能量沉积"
+ gpm_decision_thunderstorms_energy_desc:224 "这个星系中的殖民地将在这个星球上找到一个从行星雷暴中提取能量的最佳位置。"
+
+ gpm_decision_Asteroid_Showers_Minerals:224 "小行星回收无人机"
+ gpm_decision_Asteroid_Showers_Minerals_desc:224 "该星系中的殖民地将指定一个最佳和安全的位置，可以建立一个无人驾驶小行星回收站。"
+
+ # message event letting player know they have to look at planets
+ gpm_decisions.3.name:244 "§Y输入消息§!: 潜在的资源"
+ gpm_decisions.3.desc:244 "在分析了这个星系中行星的调查报告后，我们发现了几个值得调查的地点。我们应该检查这个星系中所有不适合居住的行星，并决定是否要投资资源来开发它们。在获得这些资源之前，我们可能需要研究一些新的方法。"
+ gpm_decisions.2.OK:244 "接收到的消息"

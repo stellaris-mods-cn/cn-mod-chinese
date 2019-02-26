@@ -1,0 +1,96 @@
+﻿l_simp_chinese:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+
+ ####################################
+ # Titan
+ ####################################
+ ultrajuggernaut:0 "剑圣"
+ 
+ ultrajuggernaut_ichi:0 "剑圣 1"
+ ultrajuggernaut_ni:0 "剑圣 2"
+ ultrajuggernaut_san:0 "剑圣 3"
+ ultrajuggernaut_shi:0 "剑圣 4"
+
+ ULTRAJUGGERNAUT_FISSION_REACTOR:0 "裂变反应堆"
+ ULTRAJUGGERNAUT_FUSION_REACTOR:0 "聚变反应堆"
+ ULTRAJUGGERNAUT_COLD_FUSION_REACTOR:0 "冷聚变反应堆"
+ ULTRAJUGGERNAUT_ANTIMATTER_REACTOR:0 "反物质反应堆"
+ ULTRAJUGGERNAUT_ZERO_POINT_REACTOR:0 "零点反应堆"
+ ULTRAJUGGERNAUT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+ 
+ ULTRAJUGGERNAUT_SHIP_THRUSTER_1:0 "化学推进器"
+ ULTRAJUGGERNAUT_SHIP_THRUSTER_2:0 "离子推进器"
+ ULTRAJUGGERNAUT_SHIP_THRUSTER_3:0 "等离体推进器"
+ ULTRAJUGGERNAUT_SHIP_THRUSTER_4:0 "脉冲推进器"
+
+ COMBAT_COMPUTER_ULTRA_DEFAULT:0 "默认剑圣计算机"
+ COMBAT_COMPUTER_ULTRA_LINE_DEFAULT:0 "默认剑圣计算机"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_BASIC:0 "基本战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_BASIC:0 "基本战斗计算机 (哨卫)"
+ COMBAT_COMPUTER_ULTRA_LINE_BASIC:0 "基本战斗计算机 (直线)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_BASIC:0 "基本战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_ADVANCED:0 "先进战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_ADVANCED:0 "先进战斗计算机 (哨卫)"
+ COMBAT_COMPUTER_ULTRA_LINE_ADVANCED:0 "先进战斗计算机 (直线)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_ADVANCED:0 "先进战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_SAPIENT:0 "智能战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_SAPIENT:0 "智能战斗计算机 (哨卫)"
+ COMBAT_COMPUTER_ULTRA_LINE_SAPIENT:0 "智能战斗计算机 (直线)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_SAPIENT:0 "智能战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_PRECOG:0 "预知战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_PRECOG:0 "预知战斗计算机 (哨卫)"
+ COMBAT_COMPUTER_ULTRA_LINE_PRECOG:0 "预知战斗计算机 (直线)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_PRECOG:0 "预知战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_AUTONOMOUS:0 "自动战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_AUTONOMOUS:0 "自动战斗计算机 (哨卫)"
+ COMBAT_COMPUTER_ULTRA_LINE_AUTONOMOUS:0 "自动战斗计算机 (直线)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_AUTONOMOUS:0 "自动战斗计算机 (炮兵)"
+ 
+ tech_ultrajuggernaut:0 "剑圣"
+ tech_ultrajuggernaut_desc:0 "我们的科学家将利用古代科技制造出巨大的光环投影器，让我们创造出巨大的飞船，带领我们的舰队走向胜利。"
+ TECH_UNLOCK_ULTRAJUGGERNAUT_TITLE:0 "§H解锁船型:§! 剑圣"
+ TECH_UNLOCK_ULTRAJUGGERNAUT_DESC:0 "我们的科学家将利用古代科技制造出巨大的光环投影器，让我们创造出巨大的飞船，带领我们的舰队走向胜利。"
+ 
+ sm_ultrajuggernaut_yards:0 "剑圣装配场"
+ sm_ultrajuggernaut_yards_desc:0 "抛弃传统的干船坞概念，剑圣由许多高度移动的独立建筑平台组装而成。\n"
+ sm_ultrajuggernaut_yards_desc_modifier:0 "船厂: §Y剑圣开始建造§!"
+ 
+ ap_ultrajuggernaut:0 "剑圣项目"
+ ap_ultrajuggernaut_desc:0 "这个强大的项目是一位杰出的海军上将的绝妙想法。这是一艘大型飞船的愿景，让我们的舰队进入战斗状态。"
+ 
+ SHIP_AURA_ULTRAJUGGERNAUT_SHIELD_DAMPENER:0 "护盾湮灭者"
+ SHIP_AURA_ULTRAJUGGERNAUT_QUANTUM_DESTABILIZER:0 "量子干扰器"
+ SHIP_AURA_ULTRAJUGGERNAUT_SUBSPACE_SNARE:0 "子空间封锁"
+ SHIP_AURA_ULTRAJUGGERNAUT_WARP_FLUCTUATOR:0 "经纱波动器"
+ SHIP_AURA_ULTRAJUGGERNAUT_INSPIRING_PRESENCE:0 "霸主的存在"
+ SHIP_AURA_ULTRAJUGGERNAUT_TARGETING_GRID:0 "先进瞄准矩阵"
+ SHIP_AURA_ULTRAJUGGERNAUT_NANOBOT_CLOUD:0 "纳米机器人修理场"
+ 
+ ultrajuggernaut_aura_shield_dampener:0 "进攻光环"
+ ultrajuggernaut_aura_quantum_destabilizer:0 "进攻光环"
+ ultrajuggernaut_aura_ship_subspace_snare:0 "进攻光环"
+ ultrajuggernaut_aura_ship_warp_fluctuator:0 "防御光环"
+ ultrajuggernaut_aura_inspiring_presence:0 "防御光环"
+ ultrajuggernaut_aura_targeting_grid:0 "防御光环"
+ ultrajuggernaut_aura_nanobot_cloud:0 "防御光环"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

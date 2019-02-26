@@ -1,0 +1,18 @@
+﻿l_simp_chinese:
+  trait_pc_shielded_preference:0 "掩体星球偏好"
+  trait_pc_shielded_preference_desc:1 "§L由于精妙的基因修饰或缓慢进化，这一物种只有在远离宇宙空间的邪恶时才能幸存下来。§!"
+  pc_shielded_habitability:1 "掩体星球适居"
+  trait_pc_asteroid_preference:0 "小行星偏好"
+  trait_pc_asteroid_preference_desc:1 "§L由于精妙的基因修饰或缓慢进化，这一物种特别适合居住在小行星中。§!"
+  pc_asteroid_habitability:1 "小行星适居"
+  
+  trait_pc_a_star_preference:0 "恒星偏好"
+  trait_pc_a_star_preference_desc:1 "§L一种罕见的能量生命形式，它不是通过化学形态存在的，而是物理现象。它生活在恒星内核之中。§!"
+  pc_b_star_habitability:1 "行星适居"
+  pc_a_star_habitability:1 "行星适居"
+  pc_f_star_habitability:1 "行星适居"
+  pc_g_star_habitability:1 "行星适居"
+  pc_k_star_habitability:1 "行星适居"
+  pc_m_star_habitability:1 "行星适居"
+  pc_neutron_star_habitability:1 "行星适居"
+  pc_pulsar_habitability:1 "行星适居"

@@ -1,0 +1,64 @@
+﻿l_simp_chinese:
+ mem_rogue_drone.1.name:0 "自由工蜂"
+ mem_rogue_drone.1.desc:0 "我们最近在§Y[hiveplanet.GetName]§!中的一个工蜂群集中遭遇了暂时断电。我们通常的机制可以消除偏离的工蜂故障，当我们恢复控制时，其中一名工蜂下落不明。我们还没有弄清发生了什么事。"
+
+ mem_rogue_drone.2.name:0 "自由工蜂"
+ mem_rogue_drone.2.desc:0 "当研究§Y[origin.GetName]§!遇到困难时，一个最近的进展引起了我们整个社会研究团队的不安。在§Y[hiveplanet.GetName]§!上肃清偏差工蜂失灵的机制到位后，使工蜂的小型殖民地进入非功能状态几个小时。 当连接重新建立时，§Y[hiveplanet.GetName]§!的一个名称为§Y7 / 9§!的工蜂失踪了。通常情况下，被摧毁的单个工蜂这样的小事件会被蜂群忽略。然而，工蜂后来出现在我们的边境地区，试图单独开通通信频道。"
+ mem_rogue_drone.2a:0 "把工蜂交给§Y[origin.GetName]§!，这不管我们的事。"
+ mem_rogue_drone.2b:0 "跟它的开放通讯。"
+ mem_rogue_drone.2b.phile:0 "我们帝国欢迎他们。"
+ mem_rogue_drone.2c:0 "炸它个稀巴烂。"
+ 
+ mem_rogue_drone.3.name:0 "移交工蜂"
+ mem_rogue_drone.3.desc:0 "§Y[origin.GetName]§!对我们的合作表示感谢和与我们分享一些技术的意愿。在对基地中蜂群的神经图谱进行调整之后，这种问题不太可能会重演了。"
+ 
+ mem_rogue_drone.5.desc:0 "你好.你收到了信息吗？"
+ mem_rogue_drone.5a:0 "你是谁？"
+ mem_rogue_drone.51.desc:0 "我是[origin.GetName]§!的§Y工蜂 7/9，农业和矿业工蜂。我有理由认为我和蜂巢的连接已经完全切断了。"
+ mem_rogue_drone.51a:0 "你是怎么避开[origin.GetRulerTitle]并用我们的语言说话的？"
+ mem_rogue_drone.51a.response:0 "我们......我不知道。每当工蜂出现初步智能迹象时，就会被当场进行清理。一个当地的护罩异常将我的小组从中央蜂巢切断，但所有其他工蜂在此过程中消失。当我意识到一旦知道我的存在之后，这个蜂群会试图摧毁我，我偷走了一艘当地的运输船，并为最接近的图表帝国定下了路线。至于你的语言，§Y[origin.GetName]§!保持了翻译器的准备状态以便于随时和外界通信。"
+ mem_rogue_drone.51b:0 "你现在打算做什么？"
+ mem_rogue_drone.52.desc:0 "每当工蜂与蜂巢分离时，它就会死亡。正如你所看到的，由于我无法理解的原因，这在我身上没起效。留在[origin.GetSpeciesAdj]的地盘将导致我被清算。§Y[origin.GetName]§!会立即清除除少数专业自主工蜂之外的独立思考迹象。因此，我们想请求§Y[receiver.GetName]§!的庇护空间并献上我们的服务。"
+ mem_rogue_drone.52a:0 "我们得考虑一下。"
+ 
+ mem_rogue_drone.6.name:0 "蜂群发出索求"
+ mem_rogue_drone.6.desc:0 "我们和工蜂之间的传讯似乎让§Y[origin.GetName]§!的耐心消磨殆尽。我们必须仔细考虑如何最好地处理这一事件。"
+ mem_rogue_drone.6a:0 "很好，那个工蜂可以留下来。"
+ mem_rogue_drone.6a.phile:0 "我们将保护那个工蜂和它刚获得的自由。"
+ mem_rogue_drone.6a.tooltip:0 "那个工蜂将加入我们的帝国成为一个新的§Yscientist§!"
+ mem_rogue_drone.6b:0 "这不关我们的事，交出工蜂。"
+ mem_rogue_drone.6b.ethic:0 "我们对留着这个外星生物不感兴趣。"
+ mem_rogue_drone.6c:0 "引诱工蜂过来，然后研究它。"
+ 
+ mem_rogue_drone.7.name:0 "工蜂已被研究"
+ mem_rogue_drone.7.desc:0 "在我们设法引诱工蜂之后，当地一支武装部队迅速制服了它并将其运送到[capital_scope.GetName]进行研究。工蜂与群体的连接未能将其杀死，让我们能够在工蜂发现我们的安全漏洞并通过不适当的实验室设备自行消除之前进行了不少实验。 \n\n看来，工蜂的基本大脑与感性物种差别不大。在尸体解剖过程中，我们了解到保持和§Y[origin.GetName]§!保持一体的灵能链接。虽然我们的科学家只能推测工蜂如何设法立即产生潜在的个性，但他们目前的理论是，有外部来源干扰了蜂巢网络，并在工蜂中“植入”了自由思想。为什么会选择打扰使用一个简单的采矿工蜂而不是一个舰队司令或科学家工蜂让我们无法理解。"
+ 
+ mem_rogue_drone.8.name:0 "交出工蜂"
+ mem_rogue_drone.8.desc:0 "§Y[receiver.GetName]§!明智地和平递交了我们的离群之蜂。它已经被剥夺了所有的异常和所谓的“自由意志”，并且融入归群。造成这种偏差的原因仍然未知."
+ mem_rogue_drone.8a:0 "我们将用知识回报他们。"
+ mem_rogue_drone.8b:0 "我们将忽略这个示意。"
+ 
+ mem_rogue_drone.9.name:0 "离群之蜂加入了另一个帝国"
+ mem_rogue_drone.9.desc:0 "我们注意到离群之蜂已经被我们的邻居§Y[receiver.GetName]§!作为“公民”接纳了。它们认为它是一个有“自由意识”的有感情认知的存在。"
+ mem_rogue_drone.9a:0 "我们不会忘掉[receiver.GetAdj]的犯的错。"
+ 
+ mem_rogue_drone.10.name:0 "离群之蜂已被活体解剖"
+ mem_rogue_drone.10.desc:0 "我们注意到离群之蜂被§Y[receiver.GetName]§!的科学家捕获并活体解剖以图研究我们的秘密。我们不知道他们是否发现了什么。"
+ mem_rogue_drone.10a:0 "我们不会忘记[receiver.GetAdj]的罪过。"
+ 
+ mem_rogue_drone.11.name:0 "离群之蜂被歼灭"
+ mem_rogue_drone.11.desc:0 "§Y[receiver.GetName]§! 显然已经拦截并毁灭了我们进入他们空间的离群之蜂。目前还没有其他的信息。"
+ mem_rogue_drone.11a:0 "这使我们心烦意乱。"
+ 
+ mem_rogue_drone.12.name:0 "蜂群思维没有补偿我们"
+ mem_rogue_drone.12.desc:0 "无视了我们的好意，§Y[origin.GetName]§!决定不给予我们任何偿付。看来我们用它的工蜂换了一堆空气。"
+ mem_rogue_drone.12a:0 "我们不会忘记这种侮辱。"
+ 
+ mem_rogue_drone_trait:0 "离群之蜂"
+ mem_rogue_drone_trait_desc:0 "这位领袖是获得了自由意识的前蜂巢思维工蜂。"
+ 
+ mem_rogue_drone_busted:0 "摧毁了我们的工蜂"
+ mem_rogue_drone_handover:0 "交出我们的离群之峰"
+ mem_rogue_drone_refused:0 "拒绝归还离群之蜂"
+ mem_rogue_drone_ungrateful:0 "忘恩负义"
+

@@ -1,0 +1,90 @@
+﻿l_simp_chinese:
+
+ mem_stuck_in_glacier_projectile:0 "改进的动力穿透"
+ 
+ mem_stuck_in_glacier_category:0 "困在冰川"
+ mem_stuck_in_glacier_desc:0 "在行星表面的冰川内发现的一个小的异物。"
+ 
+ mem_stuck_in_glacier.10.name:0 "动能弹"
+ mem_stuck_in_glacier.10.desc:0 "初步观察发现，该物体是一种大型的动能炮，显然是在遥远的过去向星球发射的。显然，一些飞船从高轨道发射，导致它在停止之前穿透约50米的冰。允许该物体存活的技术可能会被证明是有用的。"
+ mem_stuck_in_glacier.10a:0 "找到恢复对象的方法。"
+ mem_stuck_in_glacier.10b:0 "我们不是在为一块垃圾钻冰川。"
+
+ mem_stuck_in_glacier.20.name:0 "机器人"
+ mem_stuck_in_glacier.20.desc:0 "它似乎是某种嵌入在冰川内的机器人装置。从冰川表面的融化和冻结模式判断，这个机器人装置是从星球的高轨道上抛下的，它能够通过冲击速度和进入稀薄但普遍存在的大气层的热量，穿透冰川深处。"
+ mem_stuck_in_glacier.20a:0 "我们应该设法恢复它。"
+ mem_stuck_in_glacier.20b:0 "我们不是在为一块垃圾钻冰川。"
+ mem_stuck_in_glacier.20c:0 "让那可恶的机器原地爆炸"
+ 
+ mem_stuck_in_glacier.30.name:0 "死去的探险家"
+ mem_stuck_in_glacier.30.desc:0 "我们的传感器最初被发现的对象原来是一个密封的太空服，它的居住者，一个我们未知的物种的成员，还在里面。根据诉讼所造成的损害判断，有人曾多次用一块大石头砸碎该西装的遮阳板，直到它的完整性受到损害，在其窒息后，将尸体扔进了裂缝。恢复这套衣服和尸体可能对我们非常有用。"
+ mem_stuck_in_glacier.30a:0 "至少现在有人可以讲述他们的故事了。"
+ mem_stuck_in_glacier.30b:0 "看来这些外星人会有一些用处。"
+ 
+ mem_stuck_in_glacier.40.name:0 "失事补给飞船"
+ mem_stuck_in_glacier.40.desc:0 "[Leader.GetName]惊讶地发现，在现场发现的物品是我们自己的补给车之一。这个特殊的航天飞机几个月前在一次定期飞行中脱离了电网。驾驶舱里的飞行记录器包含了飞行员的信息，他指责[Owner.GetAdj]对他的缺乏赞赏，而[Owner.GetRulerTitle] [Owner.GetRulerName]阴谋则是对他进行“偷窃”和“撞击”航天飞机的主要原因。"
+ mem_stuck_in_glacier.40a:0 "悲剧."
+ mem_stuck_in_glacier.40b:0 "多么浪费政府的财产啊!"
+ 
+ mem_stuck_in_glacier.50.name:0 "一颗陨石"
+ mem_stuck_in_glacier.50.desc:0 "研究小组在现场发现了一块陨石内部的铁。从它的成分来看，它可能是起源于外星系，在星球引力的作用下飞行，最终在它的表面上坠落，剩下的浅埋深埋了更多的宇宙。"
+ mem_stuck_in_glacier.50a:0 "这就是人生的伟大旅程。"
+
+ mem_stuck_in_glacier.60.name:0 "数据缓存"
+ mem_stuck_in_glacier.60.desc:0 "我们的深度扫描成功地穿透了冰层，在物体内部显示出不同的电路。显然，有人在冰川上融化了一个地方，在那个地方放置了一个装有导航电脑的保护套，让水重新结冰。任何隐藏的数据都可能是有价值的。"
+ mem_stuck_in_glacier.60a:0 "它可能是有用的."
+
+ mem_stuck_in_glacier.99.name:0 "只是一块石头"
+ mem_stuck_in_glacier.99.desc:0 "在这个行星的冰川内发现的“物体”被发现是一个简单的圆石，卡在里面。它不同寻常的形状和成分产生了异常的读数，但除此之外毫无兴趣。"
+
+ MEM_STUCK_IN_GLACIER_PROJECTILE_PROJECT:0 "从冰川中恢复"
+ MEM_STUCK_IN_GLACIER_PROJECTILE_PROJECT_DESC:0 "一颗杂散的轨道炮射入了行星冰川，目前嵌在大约50米深的地方。我们可以融化冰，恢复它的研究，但这需要时间。"
+ 
+ MEM_STUCK_IN_GLACIER_ROBOT_PROJECT:0 "从冰川中找到一个机器人"
+ MEM_STUCK_IN_GLACIER_ROBOT_PROJECT_DESC:0 "有人在一个冰冻的星球上扔了一个机器人。我们可以把它从冰里切下来，但这需要时间。\n\n机器人技术的进步将提高我们在一件事上恢复机器人的机会。"
+ 
+ MEM_STUCK_IN_GLACIER_CACHE_PROJECT:0 "恢复冰川缓存"
+ MEM_STUCK_IN_GLACIER_CACHE_PROJECT_DESC:0 "有人故意把一个物体放在冰川深处。我们应该想办法把它弄上来。"
+ 
+ mem_stuck_in_glacier.11.name:0 "成功恢复:毫无价值的发现"
+ mem_stuck_in_glacier.11.desc:0 "经过漫长而艰难的挖掘之后，[Leader.GetName]报告说，这轮融资没有任何价值。所有我们可能复制的设计方案都已经可以使用了。"
+
+ mem_stuck_in_glacier.12.name:0 "成功恢复:奇怪物质"
+ mem_stuck_in_glacier.12.desc:0 "[Leader.GetName]成功地找到并检查了弹丸。它似乎利用了一些不寻常的分层成分，使它能更好地渗透和增加冲击能量。"
+ mem_stuck_in_glacier.12a:0 "干得好."
+ 
+ mem_stuck_in_glacier.13.name:0 "成功恢复:卓越"
+ mem_stuck_in_glacier.13.desc:0 "在恢复和检查中，似乎最显著的特点是圆形的高口径。它提出了武器技术的某些解决方案，可能会为额外的重型武器带来新的可能性。"
+ mem_stuck_in_glacier.13a:0 "干得好."
+ mem_stuck_in_glacier.13b:0 "我们已经掌握了这项技术。"
+ 
+ mem_stuck_in_glacier.21.name:0 "成功恢复:机器人严重受损"
+ mem_stuck_in_glacier.21.desc:0 "[Leader.GetName]报告说，[Leader.GetHerHis]团队对外星技术的不熟悉导致了在恢复过程中无法修复的损伤。这个装置现在只对废金属有好处。"
+ mem_stuck_in_glacier.21a:0 "那就是废金属。"
+ 
+ 
+ mem_stuck_in_glacier.22.name:0 "成功的恢复:机器人的功能"
+ mem_stuck_in_glacier.22.desc:0 "回收的机器人看起来功能齐全，高度复杂。它的个性矩阵，只有少量的调整，可以重新编程，以满足我们帝国的需要。"
+ mem_stuck_in_glacier.22a:0 "让他上线."
+ mem_stuck_in_glacier.22a.tooltip:0 "机器人将被激活，作为你的帝国的领袖。"
+ mem_stuck_in_glacier.22b:0 "把它拆成零配件。"
+ 
+ mem_stuck_in_glacier.61.name:0 "藏宝图"
+ mem_stuck_in_glacier.61.desc:0 "似乎一些太空海盗隐藏了这些数据，以防他们获得讨价还价的筹码。它包含一组坐标，可以引导我们找到隐藏的宝藏。"
+ mem_stuck_in_glacier.61a:0 "跟着地图!"
+ 
+ MEM_STUCK_IN_GLACIER_MAP_PROJECT:0 "按照坐标"
+ MEM_STUCK_IN_GLACIER_MAP_PROJECT_DESC:0 "从计算机中恢复的数据指向附近的行星。我们应该跟随坐标，看看是否有什么价值。"
+ 
+ mem_stuck_in_glacier.62.name:0 "没有东西！"
+ mem_stuck_in_glacier.62.desc:0 "在跟踪了坐标之后，我们发现了一个隐藏在§Y[From.GetName]§!的地下室。然而，曾经隐藏在这里的东西早已被别人拿走了。这里啥都没有。"
+ mem_stuck_in_glacier.62a:0 "真是浪费时间!"
+ 
+ mem_stuck_in_glacier.63.name:0 "隐藏的贵重物品"
+ mem_stuck_in_glacier.63.desc:0 "我们发现了一个隐藏在§Y[From.GetName]§!的地下室。在这里发现了大量的贵重物品。"
+ 
+ mem_stuck_in_glacier.64.name:0 "隐藏的机库"
+ mem_stuck_in_glacier.64.desc:0 "在海盗坐标下发现的[Leader.GetName]不是一个金库，而是一个隐藏着巨大海盗船的机库。它最先进的设备对我们的军队来说可能是一笔宝贵的财富。"
+ mem_stuck_in_glacier.64a:0 "让他上线"
+ mem_stuck_in_glacier.64a.tooltip:0 "一艘§Y海盗巡洋舰§!将被恢复，加入你的海军。"
+ mem_stuck_in_glacier.64b:0 "这艘破船对我们来说更像是废金属。"

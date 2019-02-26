@@ -1,0 +1,167 @@
+﻿l_simp_chinese:
+ # Juris Civics Expansion
+
+ ####################################
+ # Standard Civics
+ ####################################
+
+ civic_gene_purity:0 "基因纯度"
+ civic_gene_purity_desc:0 "这个社会试图保护它的基因库免受每一种可能的污染，并且只选择最好的标本来保存它的遗产。"
+ civic_universalist:0 "普教论"
+ civic_universalist_desc:0 "国家宗教相信所有的生物都会与神联合，有朝一日不顾信仰。"
+ civic_ecologists:0 "生态学家"
+ civic_ecologists_desc:0 "这个社会对生态学有着空前的掌握。通过仔细的研究，它与大自然和谐相处。"
+ civic_interpersonal_integration:0 "人际整合"
+ civic_interpersonal_integration_desc:0 "在这个社会中，新的公民被积极地欢迎进入这个圈子，并且强烈地鼓励人际关系。"
+ civic_planned_economy:0 "计划经济"
+ civic_planned_economy_desc:0 "在这个压抑的社会里，食品和物资都是在统治权威的一时兴起。谨慎的配给被用来确保每个人都有足够的钱。"
+ civic_corporate_worship:0 "共同礼拜"
+ civic_corporate_worship_desc:0 "这个社会的宗教是高度礼拜式的，需要共同礼拜。寺庙是社会生活的基石。\n\n£build  §Y$building_temple$§!的£unity 凝聚力产出增加§Y+33%§!并增加 £pop 人口幸福度"
+ civic_ruthless_efficiency:0 "无情的效率"
+ civic_ruthless_efficiency_desc:0 "在这个专制的社会里，公民被视为国家机器中的齿轮。国家使用任何必要的手段来达到最高效率。"
+ civic_information_control:0 "信息控制"
+ civic_information_control_desc:0 "在这个社会，同质性得到了稳定的情况，精确的政府控制的媒体。"
+ civic_public_discourse:0 "公共话语"
+ civic_public_discourse_desc:0 "这个社会认为每个公民都有被倾听的权利。政府主办的公共论坛，每一个问题发生，并鼓励所有公民参与。"
+ civic_primus_inter_pares:0 "普里莫斯"
+ civic_primus_inter_pares_desc:0 "这个社会选出的统治者是平等中的第一位，与所有其他领导人同等地位，但具有特殊的荣誉。"
+ civic_evangelist:0 "福音传道者"
+ civic_evangelist_desc:0 "无论是通过和平还是暴力，这个社会相信所有民族都应该为自己的利益而接受国家宗教。"
+ civic_war_engineer:0 "战争工程师"
+ civic_war_engineer_desc:0 "请看我的作品，你的伟大和绝望。"
+ civic_beacon_of_stability:0 "稳定信标"
+ civic_beacon_of_stability_desc:0 "尽管这个社会可能是压制性的，但它是那些希望生活在他人权威之下的人的安全、稳定和安全的灯塔。"
+ civic_telluric_architects:0 "大地建筑师"
+ civic_telluric_architects_desc:0 "地球就像这个社会手中的陶器黏土。从幼年起，他们就以自己的形象重塑了自己的星球，而遥远的世界也不例外。"
+ civic_free_market:0 "自由市场"
+ civic_free_market_desc:0 "这个社会对经济的放任自流的方法已经制造出了一种精密的机器，它能生产出高质量的商品，并提供巨大的贸易机会。"
+ civic_exploration_corps:0 "勘探队"
+ civic_exploration_corps_desc:0 "这个社会试图抓住空虚的秘密。"
+ civic_iron_curtain:0 "铁幕"
+ civic_iron_curtain_desc:0 "这个社会保持对公民的控制，通过严格管理什么和不通过它的边界——不管是思想、人还是资源。"
+ civic_deeper_mysteries:0 "更深的奥秘"
+ civic_deeper_mysteries_desc:0 "这个社会对未知事物的热爱体现在一种孜孜不倦的科学好奇心和求知欲上。没有研究的道路是安全的，从他们窥探的眼睛。\n\n£building  §Y科学实验室§! 现在生产 §Y0.5§! £unity  凝聚力"
+ civic_stellar_cartography:0 "恒星制图"
+ civic_stellar_cartography_desc:0 "这个社会对星星的迷恋和太空旅行的希望导致了一个更有效率的制图系统，它将有助于船舶导航。"
+
+ ####################################
+ # Hive Civics
+ ####################################
+ 
+ civic_hive_hedonists:0 "肉体的光辉"
+ civic_hive_hedonists_desc:0 "蜂群的大脑倾向于使用无人机来享受感官享受。"
+ civic_hive_distributed_calculation:0 "分布式计算"
+ civic_hive_distributed_calculation_desc:0 "在其历史上，蜂巢思维已经发展了在所有无人机上分配复杂计算的能力。"
+ civic_hive_unified_aggression:0 "统一侵略"
+ civic_hive_unified_aggression_desc:0 "蜂群思维对入侵者表现出特别强烈的反应。"
+ civic_hive_unquenchable_curiosity:0 "不可抑制的好奇心"
+ civic_hive_unquenchable_curiosity_desc:0 "自从它醒来后，这个蜂巢的大脑已经观察到星星并梦想着可能是什么。"
+ civic_hive_cooperative_construction:0 "合作建设"
+ civic_hive_cooperative_construction_desc:0 "蜂群的心灵能够在无人机之间协调努力。"
+ civic_hive_xenophile:0 "单心魅力"
+ civic_hive_xenophile_desc:0 "蜂群的思维一直被其他蜂群存在的想法所吸引，甚至蜂巢都局限于一个身体。它急切地在星群中寻找这些奇怪的生物。\n\n单心 £opinion  设置 §G+10§!"
+ civic_hive_theosis:0 "神论"
+ civic_hive_theosis_desc:0 "蜂群心智相信并崇拜比自身更大的力量，或认为自己是神。它的灵能比其他蜂群的心智要强大得多。\n\n可以研究 §GPsionic 科技§!"
+ civic_hive_integrated_morphology:0 "综合形态学"
+ civic_hive_integrated_morphology_desc:0 "蜂巢的无人机被设计成更容易集成，允许它在广阔的网络中投射它的意志。"
+
+ ####################################
+ # Machine Civics
+ ####################################
+ 
+ civic_machine_drone_integration_hubs:0 "无人机一体化枢纽"
+ civic_machine_drone_integration_hubs_desc:0 "机器智能被编程来集中操作。\n\n£building  §Y$building_uplink_node$§!得到额外效果，并且该效果随建筑等级提升而增强：\n\n人口建造速度增加§G+10%§!\n人口建造成本减少§G-5%§!\n人口资源产出增加§G+2%§!"
+ civic_machine_enhanced_organic_processing:0 "强化有机加工"
+ civic_machine_enhanced_organic_processing_desc:0 "在对它的创造者进行实验之后，机器智能特别擅长将其加工成能量。"
+ civic_machine_modular_design_templates:0 "模块化设计模板"
+ civic_machine_modular_design_templates_desc:0 "机器智能无人机的设计具有最大的灵活性。这些单位更有效，但成本更高。"
+ civic_machine_optimized_core_intelligence:0 "优化智能核心"
+ civic_machine_optimized_core_intelligence_desc:0 "这个帝国的中央情报特别先进，非常适合于协调银河文明的日常活动。"
+ civic_machine_organic-friendly_interface:0 "有机友好界面"
+ civic_machine_organic-friendly_interface_desc:0 "这个机器帝国特别喜欢有机物。"
+ civic_machine_reclamation_protocols:0 "重装填协议"
+ civic_machine_reclamation_protocols_desc:0 "这个机器帝国在通过先进的星际基地处理资源时什么都不浪费。"
+ civic_machine_theoretical_travel_models:0 "理论旅行模型"
+ civic_machine_theoretical_travel_models_desc:0 "机器智能专注于假设的天文现象，并预见到各种可能性。"
+ civic_machine_zero-g_construction_algorithms:0 "零重力构造算法"
+ civic_machine_zero-g_construction_algorithms_desc:0 "在遥远的过去，这个机器情报曾经操作过一个小行星采矿公司。其丰富的经验在零重力环境下，当运行星际计算时，环境有一定的好处。"
+ 
+ ####################################
+ # Requirements
+ ####################################
+
+ civic_tooltip_phile_egal:0 "是某种程度的§Y$ethic_egalitarian$§!或者§Y$ethic_xenophobe$§!"
+ civic_tooltip_mil_phobe:0 "不是§Y$ethic_militarist$§!或者§Y$ethic_xenophobe$§!"
+ 
+ ####################################
+ # Opinions
+ ####################################
+
+ triggered_opinion_hive_xenophilia:0 "单心痴迷"
+ triggered_opinion_hive_xenophiles:0 "单心魅力"
+ triggered_opinion_machine_xenophilia:0 "有机着迷"
+ triggered_opinion_machine_xenophiles:0 "有机魅力"
+ 
+ ####################################
+ # Hive Psionic Tech
+ ####################################
+ 
+ #No description change here. Gotta make it look as natural as possible. NOTHING IS WRONG HERE. STOP READING THIS. D:
+ tech_hive_psionic_theory:0 "$tech_psionic_theory$"
+ tech_hive_psionic_theory_desc:1 "$tech_psionic_theory_desc$"
+ tech_hive_telepathy:0 "$tech_telepathy$"
+ tech_hive_telepathy_desc:1 "$tech_telepathy_desc$"
+ tech_hive_precognition_interface:0 "$tech_precognition_interface$"
+ tech_hive_precognition_interface_desc:1 "$tech_precognition_interface_desc$"
+ tech_hive_psi_jump_drive_1:0 "$PSI_JUMP_DRIVE_1$"
+ tech_hive_psi_jump_drive_1_desc:1 "$PSI_JUMP_DRIVE_1_DESC$"
+ hive_psionic_army:0 "$psionic_army$"
+ hive_psionic_army_plural:0 "$psionic_army_plural$"
+ hive_psionic_army_desc:0 "$psionic_army_desc$"
+ 
+ ####################################
+ # Juris Buildings - lazy fix, I know, but I'll get around to a cleaner one next update
+ ####################################
+
+ building_juris_engineering_facility_1:0 "$building_engineering_facility_1$"
+ building_juris_engineering_facility_1_desc:1 "$building_engineering_facility_1_desc$"
+ building_juris_engineering_facility_2:0 "$building_engineering_facility_2$"
+ building_juris_engineering_facility_2_desc:1 "$building_juris_engineering_facility_1_desc$"
+ building_juris_engineering_facility_3:0 "$building_engineering_facility_3$"
+ building_juris_engineering_facility_3_desc:1 "$building_juris_engineering_facility_1_desc$"
+ building_juris_engineering_facility_4:0 "$building_engineering_facility_4$"
+ building_juris_engineering_facility_4_desc:1 "$building_juris_engineering_facility_1_desc$"
+ building_juris_engineering_facility_5:0 "$building_engineering_facility_5$"
+ building_juris_engineering_facility_5_desc:1 "$building_juris_engineering_facility_1_desc$"
+ building_juris_physics_lab_1:0 "$building_physics_lab_1$"
+ building_juris_physics_lab_1_desc:1 "$building_physics_lab_1_desc$"
+ building_juris_physics_lab_2:0 "$building_physics_lab_2$"
+ building_juris_physics_lab_2_desc:1 "$building_juris_physics_lab_1_desc$"
+ building_juris_physics_lab_3:0 "$building_physics_lab_3$"
+ building_juris_physics_lab_3_desc:1 "$building_juris_physics_lab_1_desc$"
+ building_juris_physics_lab_4:0 "$building_physics_lab_4$"
+ building_juris_physics_lab_4_desc:1 "$building_juris_physics_lab_1_desc$"
+ building_juris_physics_lab_5:0 "$building_physics_lab_5$"
+ building_juris_physics_lab_5_desc:1 "$building_juris_physics_lab_1_desc$"
+ building_juris_biolab_1:0 "$building_biolab_1$"
+ building_juris_biolab_1_desc:1 "$building_biolab_1_desc$"
+ building_juris_biolab_2:0 "$building_biolab_2$"
+ building_juris_biolab_2_desc:1 "$building_juris_biolab_1_desc$"
+ building_juris_biolab_3:0 "$building_biolab_3$"
+ building_juris_biolab_3_desc:1 "$building_juris_biolab_1_desc$"
+ building_juris_biolab_4:0 "$building_biolab_4$"
+ building_juris_biolab_4_desc:1 "$building_juris_biolab_1_desc$"
+ building_juris_biolab_5:0 "$building_biolab_5$"
+ building_juris_biolab_5_desc:1 "$building_juris_biolab_1_desc$"
+ building_juris_holotemple:0 "$building_holotemple$"
+ building_juris_holotemple_desc:0 "$building_holotemple_desc$"
+ building_juris_citadel_of_faith:0 "$building_citadel_of_faith$"
+ building_juris_citadel_of_faith_desc:0 "$building_citadel_of_faith_desc$"
+ tech_juris_holographic_rituals:0 "$tech_holographic_rituals$"
+ tech_juris_holographic_rituals_desc:0 "$tech_holographic_rituals_desc$"
+ tech_juris_transcendent_faith:0 "$tech_transcendent_faith$"
+ tech_juris_transcendent_faith_desc:0 "$tech_transcendent_faith_desc$"
+ tech_juris_consecration_fields:0 "$tech_consecration_fields$"
+ tech_juris_consecration_fields_desc:0 "$tech_consecration_fields_desc$"
+ building_juris_sacred_nexus:0 "$building_sacred_nexus$"
+ building_juris_sacred_nexus_desc:0 "$building_sacred_nexus_desc$"

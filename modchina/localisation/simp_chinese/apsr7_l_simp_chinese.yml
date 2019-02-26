@@ -1,0 +1,369 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr7_planet_modifier:0 "异常区域"
+ apsr7_planet_modifier_desc:0 "这里发生的事情既不能用逻辑解释，也不能用科学解释，更不能用错误解释"
+ 
+ apsr7_deposit:0 "$apsr7_planet_modifier$"
+ apsr7_deposit_desc:0 "$apsr7_planet_modifier_desc$\n\n§M$apsr7_deposit_effect$§!" 
+ apsr7_deposit_effect:0 "独特的资源可用: $apsr7_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr7_building_cordon_text:0 "异常区域的主要危险是一群深度突变的动物。这些生物离开这个区域，把星球上有人居住的地方带入混乱。警戒线应该把他们关在禁区内"
+ 
+ apsr7_building_part1_text:0 "建筑,将时间引擎的能量带到安全状态，并使用它的一些能量来满足我们的国家需求"
+ 
+ apsr7_building_part2_text:0 "建筑,它将时间引擎的能量转化为更适合我们的形式:能量币。"
+ 
+ apsr7_building_part3_text:0 "利用位于异常带中心的古老文明实验引擎——时间引擎，我们将获得无限的能量!"
+ 
+ apsr7_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr7_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr7_building_cordon:0 "警戒区"
+ apsr7_building_cordon_desc:0 "$apsr7_building_predesc$\n$apsr7_building_cordon_text$"
+  
+ apsr7_building_part1:0 "障碍物"
+ apsr7_building_part1_desc:0 "$apsr7_building_predesc$\n$apsr7_building_part1_text$"
+ 
+ apsr7_building_part2:0 "摆振装置"
+ apsr7_building_part2_desc:0 "$apsr7_building_predesc$\n$apsr7_building_part2_text$"
+ 
+ apsr7_building_part3:0 "摆振装置"
+ apsr7_building_part3_desc:0 "$apsr7_building_predesc$\n$apsr7_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr7_building_part1_fake:0 "$apsr7_building_part1$"
+ apsr7_building_part1_fake_desc:0 "$apsr7_building_fake_predesc$\n$apsr7_building_part1_text$"
+ 
+ apsr7_building_part2_fake:0 "$apsr7_building_part2$"
+ apsr7_building_part2_fake_desc:0 "$apsr7_building_fake_predesc$\n$apsr7_building_part2_text$"
+ 
+ apsr7_building_part3_fake:0 "$apsr7_building_part3$"
+ apsr7_building_part3_fake_desc:0 "$apsr7_building_fake_predesc$\n$apsr7_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr7_building_cordon:0 "对异常区域的保护"
+ tech_apsr7_building_cordon_desc:0 "首先，有必要找到一些方法来保持区域生物"
+ 
+ tech_apsr7_tank:0 "探测异常区域"
+ tech_apsr7_tank_desc:0 "要到达这个区域的中心，我们需要找到穿越它的方法，保护我们不受外部影响"
+ 
+ tech_apsr7_building_part1:0 "古代引擎调查"
+ tech_apsr7_building_part1_desc:0 "我们必须检查位于异常中心的引擎，以找到最安全的接收其能量的方法。"
+ 
+ tech_apsr7_building_part2:0 "项目钟摆"
+ tech_apsr7_building_part2_desc:0 "这个异常的发电机正在产生大量不受控制的能量。我们的科学家设计了一座新建筑，它将把这些能量循环利用成一种我们可以使用的新形式——能量币"
+ 
+ tech_apsr7_building_part3:0 "钟摆功率的使用"
+ tech_apsr7_building_part3_desc:0 "钟摆位于异常带的中心，它产生大量的能量。它可以为我们帝国的利益服务!"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.7000.title:0 "$apsr7_building_cordon$ 建成"
+ apsr.7000.desc:0 "§Y$Cordon$§!位于建成的异常区域, 从现在起，突变物种不会干扰我们的定居。 \n现在我们可以集中精力探索这个区域，并准备到它的中心探险"
+ apsr.7000.ok-button:0 "开始为探险做准备"
+ apsr.7000.button.effect:1 "先进的水箱设计技术"
+ 
+ apsr.7001.title:0 "$apsr7_building_part1$ 建成"
+ apsr.7001.desc:0 "§Y钟摆§!释放的能量不再浪费在环境中，而是在收集和转化能量币。我们得到了真正取之不尽用之不竭的能源。"
+ apsr.7001.ok-button:0 "非常棒"
+ 
+ apsr.7002.title:0 "$apsr7_building_part2$ 建成"
+ apsr.7002.desc:0 "通过使用改进的透镜来集中能量，不仅可以增加能量流，而且可以减少人员的数量。我们无限的能量来源变成了自主的"
+ apsr.7002.ok-button:0 "优秀"
+ 
+ apsr.7003.title:0 "$apsr7_building_part3$ 建成"
+ apsr.7003.desc:0 "多亏了纳米技术的最新研究，我们能够创造出一种超轻的材料，这是物理学无法解释的。我们重建了钟摆，结果，我们达到了最高效率。这是摆的极限。"
+ apsr.7003.ok-button:0 "吃惊"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.7011.title:0 "发现一个人造物: §M$apsr7_planet_modifier$§!"
+ apsr.7011.desc:0 "§H[Root.GetName]§!科研船上§H[Root.GetLeaderName]§!率领的科学考察队在这个星球发现了一些奇特的东西! \n在这个星球上，有一个异常的区域，那里发生的事情无法用逻辑、科学甚至是错误的方式来解释。如果试图靠近这个区域的中心，设备就会开始闪动，§H[Root.GetLeaderName]§!的观点是我们需要一艘特殊的船去探索这个异常区域和它的心脏"
+ apsr.7011.button:1 "我们必须得到这个人造物!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.7013.title:0 "发现一个人造物: §M$apsr7_planet_modifier$§!"
+ apsr.7013.desc:0 "在一颗行星上，人们发现了一些罕见的生命迹象。 \n在这个星球上，有一个异常地带:既不能用逻辑解释，也不能用科学解释，甚至不能用错误解释的事情就发生在那里。当我们试图靠近该区域的中心时，设备开始出现故障。§H[Root.GetLeaderName]§!认为我们需要一艘特殊的飞船来解释这个异常区域以及它的中间是什么"
+ apsr.7013.button:1 "非常棒"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.7015.title:0 "发现人造物: §M$apsr7_planet_modifier$§!"
+ apsr.7015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，有一个异常区域，那里发生的事情既不能从逻辑的角度解释，也不能借助科学的帮助，甚至不能借助更高的力量来解释。当试图靠近这个异常带的中心时，仪器开始失灵，行星的主人计划建造一艘特殊的船来研究这个异常带及其中心。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr7_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr7_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr7_resource_planet.Owner.GetName]"
+ apsr.7015.button:1 "有趣!"
+ 
+ 
+ 
+   #########################################################################################
+   #                                                                                       #
+   #   #### #####   #   #     #   # ##### ####       ##### #   # ##### #   #  #####  ####  #
+   #  #       #    # #  #     #  #  #     #   #      #     #   # #     ##  #    #   #      #
+   #  #       #   #   # #     # #   #     #   #      #     #   # #     ##  #    #   #      #
+   #   ###    #   #   # #     ##    ####  ####       ####  #   # ####  # # #    #    ###   #
+   #      #   #   ##### #     # #   #     # #        #     #   # #     # # #    #       #  #
+   #      #   #   #   # #     #  #  #     #  #       #      # #  #     #  ##    #       #  #
+   #  ####    #   #   # ##### #   # ##### #   #      #####   #   ##### #  ##    #   ####   #
+   #                                                                                       #
+   #########################################################################################
+  
+  
+  
+ ### СЮЖЕТ - ИССЛЕДОВАНИЕ АНОМАЛЬНОЙ ЗОНЫ (2хх) ###
+ 
+ # Показ сообщения, добавление спецпроекта постройки спецтанка
+ 
+ apsr.7212.title:0 "项目开发完成"
+ apsr.7212.desc:0 "完成一种最优的安全容器的制作，以及开始构建它的时间。这需要一些时间，但我们希望我们的所有努力将得到回报。"
+ apsr.7212.button:1 "开始构建它"
+
+ 
+ 
+ # после постройки спецтанка - проект на запуск экспедиции
+ 
+ apsr.7213.title:0 "异常带探测"
+ apsr.7213.desc:0 "我们已经开发了一个十分安全的容器,现在我们准备派远征异常区域的中心!"
+ apsr.7213.button:1 "Get started"
+
+ 
+ 
+ # конец экcпедиции - доступ к техе на здание 1 уровня
+ 
+ apsr.7215.title:0 "钟摆"
+ apsr.7215.desc:0 "这次探险完全成功了!尽管有一些艰难险阻，高度戒备的船员们还是设法到达了区域中心。一个“时间引擎”似乎就在那里。它是很久以前建造的，几十年来一直在从时间流中积累能量。当它充满了溢出的时间能量时，就会将其喷射到周围的环境中。 \n根据附近找到的现有文档，时间是一个物理过程。钟摆是由文明史上的科学家们发明的，他们提出了一种理论，认为时间可以作为一种与能量有关的物理过程。这个理论的基础是把时间看作是一种产生某种能量的物质过程。后来，定义了决定时间能量释放的数值特征——首先是理论上的，然后是实际的。过去称它为“物理时间”力学，或“重音力学”。 \n不幸的是，或者幸运的是，这样的设备只能存在于一个副本中"
+ apsr.7215.button:1 "有趣"
+ apsr.7215.button.effect:1 ""
+ 
+ 
+ 
+ ## СОБЫТИЯ НАПАДЕНИЯ МУТАНТОВ (22х, 23х, 24х, 25х) ##
+ 
+ 
+ 
+ ## СОБЫТИЯ ПЕРВОГО ГОДА (22х) ##
+ 
+ 
+ # нападение
+  
+ apsr.7221.title:0 "突变体的攻击"
+ apsr.7221.desc:0 "我们从§Y$apsr7_planet_modifier$§!所在的星球上得到消息。 \n一群生物越过异常区域的边界，向我们的一个定居点出发。不幸的是，当应急小组赶到那里时，所有的建筑都已经被震碎，大部分工人都死了"
+ apsr.7221.button:1 "加强对区域边界的控制"
+ apsr.7221.button.tooltip:1 "重建建筑物将需要资源。"
+ 
+ 
+ 
+ ## СОБЫТИЯ ТРЕТЬЕГО ГОДА (23х) ##
+ 
+ 
+ # нападение
+ 
+ apsr.7231.title:0 "突变体的攻击 再一次"
+ apsr.7231.desc:0 "我们从§Y$apsr7_planet_modifier$§!所在的星球上得到消息。 \n一群生物再次穿越了异常区域的边界，向外进发，但这一次我们做好了准备。我们的军队已经参战了"
+ apsr.7231.button:1 "保持防守!"
+ 
+ # поражение
+
+ apsr.7232.title:0 "突变体的攻击 失败"
+ apsr.7232.desc:0 "我们无法控制突变体。这些生物突破了我们的防线，把一些定居点夷为平地，然后又回到了我们的地盘，就好像什么都没发生过一样"
+ apsr.7232.button:1 "该死的!"
+ apsr.7232.button.tooltip:1 "两个定居点被毁。重建建筑物将需要资源。"
+
+ # победа
+
+ apsr.7233.title:0 "突变体的攻击 清算"
+ apsr.7233.desc:0 "我们已经成功地杀死了所有的生物，我们的殖民地不再有危险了——至少现在是这样。但是他们以后可能会再次袭击我们"
+ apsr.7233.button:1 "非常棒"
+ 
+ 
+ 
+ ## СОБЫТИЯ ШЕСТОГО ГОДА (24х) ##
+ 
+ 
+ # нападение
+
+ apsr.7241.title:0 "突变体的攻击 一群"
+ apsr.7241.desc:0 "我们从§Y$apsr7_planet_modifier$§!所在的星球上得到消息。 \n一群变种生物又从异常地带来了!我们已按计划加入战斗。但是由于缺乏专门的防御工事，我们的反击能力受到了很大的限制"
+ apsr.7241.button:1 "保持防守!"
+
+ ## поражение
+
+ apsr.7242.title:0 "突变体的攻击 失败"
+ apsr.7242.desc:0 "我们无法控制突变体。这些生物突破了我们的防线，给这个星球的大部分地区带来了混乱——它们也来到了我们的定居点。一些居民点被完全摧毁，所有能被吞噬的都被吞噬了，现在不能被吞噬的只有残骸。在摧毁了我们的定居点之后，这些生物就像什么都没发生过一样回到了这个区域。我们可能需要建造一些建筑，把他们安置在这个区域内"
+ apsr.7242.button:1 "该死的!"
+ apsr.7242.button.tooltip:1 "三个定居点被毁。重建建筑物将需要资源。"
+
+ ## победа
+
+ apsr.7243.title:0 "突变体的攻击 清算"
+ apsr.7243.desc:0 "我们已经成功地杀死了所有的生物，我们的殖民地不再有危险了——至少现在是这样。但袭击可能会在以后再次发生"
+ apsr.7243.button:1 "非常棒"
+ 
+ 
+ 
+ ## СОБЫТИЯ ДЕСЯТОГО ГОДА (25х) ##
+ 
+ 
+ ## нападение
+
+ apsr.7251.title:0 "突变体的攻击 黑暗"
+ apsr.7251.desc:0 "我们收到了来自星球令人不安的§Y$apsr7_planet_modifier$§!所在的星球上得到消息。 这些生物已经跨越了异常区域边界，现在它们的数量已经超过了所有的限制。固定防御工事没有建成,无法高效突变体。我们无事可做，只能抱最好的希望，依靠我们军队的数量"
+ apsr.7251.button:1 "保持防守!"
+
+ ## поражение
+
+ apsr.7252.title:0 "突变体的攻击 失败"
+ apsr.7252.desc:0 "变种生物突破了我们的军队，现在这个星球成了人间地狱。不可思议的是，它们的数量横扫了整个摧毁能量的计划。在这个星球上的所有生物都死了之后，一种不正常的蓝色迷雾从这个区域的中心扩散开来，覆盖了整个星球。几个小时后，它散开了，现在除了废墟和被诅咒的异常带，星球上什么都没有了……"
+ apsr.7252.button:1 "这是彻底的失败..."
+ apsr.7252.button.tooltip:1 "星球上所有的定居点都被摧毁了。 \n我们失去了殖民地"
+ 
+ ## победа
+
+ apsr.7253.title:0 "突变体的攻击 清算"
+ apsr.7253.desc:0 "我们已经成功地杀死了所有的生物，我们的定居点不再有危险。被杀动物的数量给了我们希望，这样大规模的袭击不会再发生"
+ apsr.7253.button:1 "非常棒"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr7_special:0 "$apsr7_planet_modifier$"
+ apsr7_special_desc:0 "$apsr7_planet_modifier_desc$"
+ 
+ APSR7_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR7_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr7_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ apsr7_tankconstruct_special:0 "Creating a tank of the highest protection"
+ apsr7_tankconstruct_special_DESC:0 "The design of the highest defense tank is designed, it's time to start building it."
+ 
+ apsr7_expedition_special:0 "Expedition to the center of the anomalous zone"
+ apsr7_expedition_special_DESC:0 "We designed the tank of the highest degree of protection, and now we are ready to send the expedition to the center of the anomalous zone. It's time to learn the secret of this place!"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr7_anomaly:0 "有趣 data"
+ apsr7_anomaly_desc:0 "During the research of the [From.GetName] planet's surface we aquired data that definitely needs further investigation."
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.7601.title:0 "$apsr.7011.title$"
+ apsr.7601.desc:0 "$apsr.7011.desc$"
+
+ 
+ 
+ ### текст спецтанка
+ 
+ apsr_defendship_army:0 "Tank of the highest protection project"
+ apsr_defendship_army_desc:0 "It's not a tank - it's a true masterpiece! It's been developed using the most advanced technologies. \n§MIt guarantees us an ability of organizing an expedition to the heart of the anomalous zone§!"
+  
+ 
+ 
+ ### новые должности
+   
+ apsr7_planet_soldier_normal:0 "Cordon Soldiers"
+ job_apsr7_soldier_normal:0 "Cordon Soldier"
+ job_apsr7_soldier_normal_plural:0 "Cordon Soldiers"
+ job_apsr7_soldier_normal_desc:0 "The main task of Cordon is to prevent the mutants from escaping from the Abnormal zone. 需要protection against periodic attacks and attempts to break through the cordon"
+ mod_job_apsr7_soldier_normal_add:0 "Cordon Soldier"
+   
+ apsr7_planet_soldier_hive:0 "Cordon Defense Drones"
+ job_apsr7_soldier_hive:0 "Cordon Defense Drone"
+ job_apsr7_soldier_hive_plural:0 "Cordon Defense Drones"
+ job_apsr7_soldier_hive_desc:0 "The main task of Cordon is to prevent the mutants from escaping from the Abnormal zone. 需要protection against periodic attacks and attempts to break through the cordon"
+ mod_job_apsr7_soldier_hive_add:0 "Cordon Defense Drone"
+   
+ apsr7_planet_soldier_machine:0 "Cordon Defense Drones"
+ job_apsr7_soldier_machine:0 "Cordon Defense Drone"
+ job_apsr7_soldier_machine_plural:0 "Cordon Defense Drones"
+ job_apsr7_soldier_machine_desc:0 "The main task of Cordon is to prevent the mutants from escaping from the Abnormal zone. 需要protection against periodic attacks and attempts to break through the cordon"
+ mod_job_apsr7_soldier_machine_add:0 "Cordon Defense Drone"
+ 
+   
+ apsr7_planet_power_engineer_normal:0 "电力工程师"
+ job_apsr7_power_engineer_normal:0 "电力工程师"
+ job_apsr7_power_engineer_normal_plural:0 "电力工程师"
+ job_apsr7_power_engineer_normal_desc:0 "The duties of the power engineer include overall control of the on-site energy production, optimization of production and consumption processes, tracking network load peaks"
+ mod_job_apsr7_power_engineer_normal_add:0 "电力工程师"
+   
+ apsr7_planet_power_engineer_hive:0 "电力工蜂"
+ job_apsr7_power_engineer_hive:0 "电力工蜂"
+ job_apsr7_power_engineer_hive_plural:0 "电力工蜂"
+ job_apsr7_power_engineer_hive_desc:0 "This being controls the work of ordinary technicians, ensures stable and uninterrupted operation of the facility"
+ mod_job_apsr7_power_engineer_hive_add:0 "电力工蜂"
+   
+ apsr7_planet_power_engineer_machine:0 "电力工蜂"
+ job_apsr7_power_engineer_machine:0 "电力工蜂"
+ job_apsr7_power_engineer_machine_plural:0 "电力工蜂"
+ job_apsr7_power_engineer_machine_desc:0 "This drone model has an improved autonomous AI, whose main task is to monitor the operation of the facility, the work of ordinary drones-technicians, and the optimization of energy generation processes"
+ mod_job_apsr7_power_engineer_machine_add:0 "电力工蜂"
+ 
+   
+ apsr7_planet_technician_normal:0 "合格技术员"
+ job_apsr7_technician_normal:0 "合格技术员"
+ job_apsr7_technician_normal_plural:0 "合格技术员"
+ job_apsr7_technician_normal_desc:0 "Only technicians of the highest qualification are eligible to work in Pendulum"
+ mod_job_apsr7_technician_normal_add:0 "合格技术员"
+   
+ apsr7_planet_technician_hive:0 "合格技术员 drones"
+ job_apsr7_technician_hive:0 "合格技术员 drone"
+ job_apsr7_technician_hive_plural:0 "合格技术员 drones"
+ job_apsr7_technician_hive_desc:0 "Only technician beings of the highest qualification are eligible to work in Pendulum"
+ mod_job_apsr7_technician_hive_add:0 "合格技术员 drone"
+   
+ apsr7_planet_technician_machine:0 "技术单元 v2.0"
+ job_apsr7_technician_machine:0 "技术单元 v2.0"
+ job_apsr7_technician_machine_plural:0 "技术单元 v2.0"
+ job_apsr7_technician_machine_desc:0 "Updated and expensive drone model for working with high-energy substances"
+ mod_job_apsr7_technician_machine_add:0 "技术单元 v2.0"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

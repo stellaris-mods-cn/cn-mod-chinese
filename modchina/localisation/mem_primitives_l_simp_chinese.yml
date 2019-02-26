@@ -1,0 +1,110 @@
+﻿#Small primitive events
+#By ViolentBeetle
+
+l_simp_chinese:
+
+
+ #ONE SMALL STEP
+
+ mem_primitives.101.name:0 "[the_planet.GetName]:一小步"
+ mem_primitives.101.desc:0 "今天，我们在§Y[the_planet.GetName]§!的观察哨站见证了土著原始文明进步的一个重要进步。一艘从星球表面发射的载人飞船到达了它的天然卫星§Y[the_moon.GetName]§!尽管在这个发展阶段，我们不能期望这样的冒险成为永久的，但它是[From.GetName]的主要成就. \n\n观察站的工作人员有良好的判断力，可以避开视线，暂时避开侦查。"
+ mem_primitives.101a:0 "祝贺你。"
+ mem_primitives.101a.phobe:0 "为什么他们不能把自己的脏东西留给自己呢??"
+ mem_primitives.101a.mat:0 "他们走在正确的道路上。"
+ mem_primitives.101a.matphile:0 "他们成长得这么快!"
+ 
+ #WORLD WARS
+ 
+ mem_primitives.301.name:0 "[the_planet.GetName]:全球冲突"
+ mem_primitives.301.desc:0 "今天是§Y[From.GetName]§!的新时代。经过长时间的紧张局势后，一场原本相当轻微的外交事件在多个国际集团之间引发了一场大规模的冲突。几乎整个星球都卷入了这场冲突，死亡人数预计将超过他们可能带来的任何其他事件。 \n\n我们还需要拭目以待，谁会胜出，但毫无疑问，这场严峻的考验将对星球的历史产生深远的影响。"
+ 
+ mem_primitives.303.name:0 "[the_planet.GetName]:战争结束"
+ mem_primitives.303.desc:0 "一场在§Y[the_planet.GetName]§!上持续了一段时间的血腥冲突终于结束了。今天签署的《和平条约》在政治格局上造成了巨大的变化，多个国家一夜之间崛起或失宠。 \n\n但这是终结吗?在巨额赔款、羞辱和领土损失的影响下，输家无疑会在他们能够集中力量的时候就计划好他们的复仇计划。"
+ mem_primitives.303a:0 "停战20年。"
+ 
+ mem_primitives.305.name:0 "[the_planet.GetName]:结束所有的战争"
+ mem_primitives.305.desc:0 "冲突在§Y[From.GetName]§!之间持续了一段时间，双方人员和经济都遭受了灾难性的损失。 \n\n今天，似乎终于结束了交战双方签署的白和平协议。随着战争的创伤记忆在公众的脑海中鲜活起来，这个星球上的人们开始回避军事侵略，看到相互理解，希望永远不会再经历战争的恐怖。"
+ mem_primitives.305a.milphobe:0 "一个可耻的显示。"
+ mem_primitives.305a.pacphile:0 "他们终于看到了曙光。"
+ 
+ mem_primitives.307.name:0 "[the_planet.GetName]:新的全球冲突"
+ mem_primitives.307.desc:0 "今天，§Y[the_planet.GetName]§!脆弱和平再次受挫。的国家遭受了最耻辱的失败在前面的冲突和困难了,最近下降了一个极端民族主义政府的控制下由一个有魅力的领袖,已经显示移位有一段时间了,但这一次其他主要国家最终决定,绥靖政策必须结束。 \n\n这些复仇主义分子武装着他们人民的狂热主义和先进的军事理论，他们是一个强大的力量，由一个同样充满仇恨的国家所支持，但只有时间才能告诉他们，他们是否具备发动战争几乎整个世界的能力，并扭转其历史。"
+ mem_primitives.307a:0 "我们知道最终会发生的。"
+ 
+ mem_primitives.309.name:0 "[the_planet.GetName]:第二次和平"
+ mem_primitives.309.desc:0 "§Y[the_planet.GetName]§!激烈的战争已经结束了。§Y[from.GetName]§!的历史似乎更倾向于重复同一块赢得第一次全球战争的区块，赢得了第二次世界大战。 \n\n随着侵略者被抹杀，他们的意识形态被完全败坏，我们可以预期这将成为这个文明的主要转折点之一。"
+ 
+ mem_primitives.311.name:0 "[the_planet.GetName]:世界新秩序"
+ mem_primitives.311.desc:0 "在所有不利因素的影响下，开始全球冲突的§Y[the_planet.GetName]§!的协议已经取得了胜利。 \n\n他们可能控制不了整个星球，但他们已经恢复了他们的地位，成为了主导力量。由于他们的民族主义言论被证实，他们的战争罪行在众所周知的地毯下被掩盖，我们可以期待§Y[from.GetName]§!的进程会发生深刻的变化!"
+ 
+ #RELIGIONS
+ 
+ mem_primitives.401.name:0 "[the_planet.GetName]:宗教的发展"
+ mem_primitives.401.desc:0 "我们在§Y[the_planet.GetName]§!的观察前哨已经注意到§Y[from.GetName]发生了一个重大转变。§!\n\n一个由神秘主义者创立的、因其煽动行为而被处决的少数教派，已经发展成为一种主要的宗教，并广泛传播。在穷人和被剥夺公民权的人当中，它以宽容和宽容作为其核心价值观，并承诺为那些过着高尚生活的人提供天堂般的回报。 \n\n现在它已经变得突出并且变得强大，我们可以期待它的价值转向更多的霸权态度。"
+ mem_primitives.401a.mat:0 "我们曾有一次这么愚蠢吗??"
+ mem_primitives.401a.sp:0 "我们将看看他们是否在正确的道路上。"
+ mem_primitives.401a.sphile:0 "他们以自己的方式来面对真相。"
+ mem_primitives.401a.sphobe:0 "我们最终会处理这个异端邪说。"
+ 
+ mem_primitives.403.name:0 "[the_planet.GetName]:宗教的发展"
+ mem_primitives.403.desc:0 "我们在§Y[the_planet.GetName]§!的观察前哨已经注意到§Y[from.GetName]发生了一个重大转变。 \n\n一种由部落军阀神秘主义者建立的宗教，通过征服和皈依在大的地区传播。这是一种好战的信念，它与治国之道、颂扬纪律和作出牺牲的意愿紧密相连，以确保其在全球范围内的传播，为那些以其名义进行战斗的人提供了天堂。"
+ 
+ mem_primitives.405.name:0 "[the_planet.GetName]:宗教的发展"
+ mem_primitives.405.desc:0 "我们在§Y[the_planet.GetName]§!的观察前哨已经注意到§Y[from.GetName]发生了一个重大转变。 \n\n一种新的宗教在这个星球上日益突出，通过内省和禁欲来寻求内心的平静。相信所有的灵魂都注定会不断地重生，它承诺它的追随者们有机会摆脱轮回的轮回，在虚无中实现以太的幸福。"
+ 
+ mem_primitives.407.name:0 "[the_planet.GetName]:宗教的发展"
+ mem_primitives.407.desc:0 "我们在§Y[the_planet.GetName]§!的观察前哨已经注意到§Y[from.GetName]发生了一个重大转变。 \n\n一种近乎宗教式的教学，将宗教的装饰与伪科学的表现相结合，在其精英中越来越受欢迎。它告诉我们，困扰社会的大部分问题都来自于星球过去的外星人活动，更确切地说，是一个外星人统治者，他在星球表面上对他的臣民进行了大规模屠杀。 \n\n据说，死去的外星人的鬼魂现在正困扰着这个星球。在人群中引起精神上的痛苦。"
+ mem_primitives.407a:0 "荒谬。我们都没有做过这样的事。"
+ 
+ #EPIDEMICS
+ 
+ mem_primitives.501.name:0 "[the_planet.GetName]:瘟疫"
+ mem_primitives.501.desc:0 "我们在§Y[the_planet.GetName]§!检测到一种新的高毒性细菌!这种高度传染性的疾病像野火一样在星球上蔓延，医学科学和[From.GetName]一样原始，它可能会摧毁整个种群。 \n\n当然，有了我们先进的医学知识，如果我们愿意的话，我们可以很容易地停止它的传播。"
+ mem_primitives.501a:0 "开始开发治疗用品."
+ mem_primitives.501b:0 "我们不应该干涉."
+ mem_primitives.501b.phobe:0 "一切都过去了，他们完了."
+ 
+ mem_primitives.503.name:0 "[from.GetName]被消灭了"
+ mem_primitives.503.desc:0 "关于§Y[the_planet.GetName]§!的观察报告指出，星球上最后一个有知觉的生物已经被蹂躏它表面的瘟疫消灭了。§Y[from.GetName]§!现在正式被认为已经灭绝了，观察哨站已经被拆除了，因为没有什么可以观察的了。 \n\n瘟疫对我们自己的公民来说并不危险，所以如果我们愿意的话，我们可以自由地在这个星球上殖民。"
+ mem_primitives.503a.phobe:0 "一切都过去了，他们完了."
+ mem_primitives.503a.matphobe:0 "他们已经输掉了进化的游戏。"
+ 
+ mem_primitives.505.name:0 "[the_planet.GetName]:瘟疫结束"
+ mem_primitives.505.desc:0 "我们再也看不到任何新的瘟疫病例，它们曾经肆虐过§Y[the_planet.GetName]§!的表面。它可能耗尽了存活的宿主，留下那些自然免疫的宿主。"
+
+ mem_primitives.506.name:0 "[the_planet.GetName]:治愈"
+ mem_primitives.506.desc:0 "[Root.GetName成功地将一种合成疫苗分散到这个星球的大气中，专门用来对抗破坏§Y[the_planet.GetName]§!的瘟疫。 \n\n我们预计感染率将在一个月内降至零。瘟疫实际上已经结束了。"
+ 
+ MEM_PRIMITIVES_BD_CURE_PROJECT:0 "瘟疫疫苗接种"
+ MEM_PRIMITIVES_BD_CURE_PROJECT_DESC:0 "我们实验室设计的合成疫苗可以被秘密地分散到星球的大气中，防止其原始人口被消灭。"
+ 
+ #TERROR
+ 
+ mem_primitives.601.name:0 "[the_planet.GetName]:毁灭性的恐怖袭击"
+ mem_primitives.601.desc:0 "§Y[From.GetName]§!今天发生了重大伤亡事件。几个激进的公民袭击了§Y[the_planet.GetName]§!的一个主要的文化和经济中心，这可能是这个星球历史上最具破坏性的单一事件。 \n\n随着死亡人数的增加和民众心中燃烧的建筑物的图像，这个事件很可能成为这个文明历史的转折点。"
+ mem_primitives.601a.mil:0 "看来有人厌倦了外交……"
+ mem_primitives.601a.pacphobe:0 "至少我们已经长大了。对吧?"
+ 
+ mem_primitives.603.name:0 "[the_planet.GetName]:原子恐怖!"
+ mem_primitives.603.desc:0 "在§Y[the_planet.GetName]§!g的观察站的工作人员报告说，今天发生了大规模的爆炸。他们担心当地人会用核武器来消灭自己，但很明显，这是一场预谋好的事件。表面上看来，一些激进分子从军方手中窃取了一个强大的核装置，并用它摧毁了星球表面的一个人口中心。\n\n如此重大的事件肯定会改变[From.GetName]的历史。"
+ 
+ #Y2K
+ 
+ mem_primitives.701.name:0 "[the_planet.GetName]:数字灾难"
+ mem_primitives.701.desc:0 "在§Y[the_planet.GetName]§!的观察站，目睹了星球基础设施的级联故障。 \n\n§Y[From.GetName]§!, 最近采用的广泛的电子计算机，显然没有做好充分处理日期变化的准备，因为年数的变化已经溢出了他们的变量，将日期重新设置为零。 \n\n我们的研究人员报告说，大多数通信基础设施的关闭和运输和公用事业的中断，以及一些核电站的崩溃。随着紧急代码补丁的发布，这个事件不太可能摧毁文明，但它肯定会影响他们对技术的看法。"
+ mem_primitives.701a:0 "太糟糕了."
+ mem_primitives.701a.sp:0 "他们太相信机器了。"
+ mem_primitives.701a.sphobe:0 "他们为依靠没有灵魂的机器付出了代价。"
+ mem_primitives.701a.mat:0 "惊人的无能..."
+ mem_primitives.701a.matphile:0 "他们会通过学习来使自己进步。"
+
+
+
+ #Fall of Rome
+ 
+ mem_primitives.801.name:0 "[the_planet.GetName]: 帝国的灭亡"
+ mem_primitives.801.desc:0 "我们在§Y[the_planet.GetName]§!的观测者报告称[From.GetSpeciesAdj]文明被一个大帝国统治了近千年。它的领土覆盖了该星球五分之一以上的可居住地表，在巅峰时期占有所有[From.GetSpeciesNamePlural]人口的快三分之一，长期是学习和文化的中心。大量的城市林立，不断有科技被发现，繁荣度一直突破新高。\n\n然而，在过去的五十年里，帝国似乎逐渐衰弱了。内部的冲突和新近崛起的外敌However, over the past fifty years, it seems that the empire has weakened. A combination of internal strife and newly-ascendant external enemies seeking a part of their wealth have laid the empire low. Recently, a large force of what the [From.GetSpeciesAdj] intelligentsia consider "barbarians" penetrated into the heart of the empire and sacked the capital city before rampaging across the imperial heartlands, looting without restraint.\n\nAlthough the barbarians later retreated, we do not believe the empire will survive for long. This could set the [From.GetSpeciesNamePlural] back considerably."
+ mem_primitives.801a:0 "太糟糕了。"
+ mem_primitives.801a.materialist:0 "进步的过程总是颠簸的。"
+ mem_primitives.801a.sphobe:0 "谁管他啊？"
+ mem_primitives.801.tooltip:0 "[from.GetSpeciesNamePlural]退回青铜时代."

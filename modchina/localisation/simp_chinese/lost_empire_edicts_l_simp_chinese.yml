@@ -1,0 +1,30 @@
+﻿l_simp_chinese:
+ 
+ edict_renounce_ascendancy:0 "宏图:放弃优势"
+ edict_renounce_ascendancy_desc:0 "几个世纪以来，我们的帝国勇敢地捍卫着我们不可逾越的理想和我们的生活方式。随着我们的敌人被击败,也许这是最后一次放弃我们的§Y银河优势§!。这样我们的大家庭就都能团聚了，我们的士兵终于可以享受他们的劳动成果，他们帮助建立了帝国。我们的星系现在是一个更好的地方。"
+ edict_reclaim_ascendancy:0 "宏图:提升优势"
+ edict_reclaim_ascendancy_desc:0 "尽管生活在田园诗般的生活中，但我们社会的各个阶层都在怀念我们的帝国具有重要意义的光辉岁月，以及我们在银河系中受到尊敬的力量。只要有足够的公众支持和政治意愿，我们的帝国就能再次成为我们曾经的银河优势，无论结果如何。"
+ edict_rearmament:0 "重整军备计划"
+ edict_rearmament_desc:0 "一个试图让我们保持脆弱的条约必须被打破。我们的国家应该享有自卫的权利，我们的人民应该受到保护，不受外国势力企图夺取我们土地的保护。我们将反对这项条约。"
+ edict_mobilization:0 "秘密动员"
+ edict_mobilization_desc:0 "我们的部队将秘密地动员起来，准备重返银河系。"
+ decision_youth_indoctrination:0 "青年教育"
+ decision_youth_indoctrination_desc:0 "在这个世界上无所事事、游手好闲的年轻人即将发现，驾驶一艘战列舰是多么有趣。最优秀的将被招募到我们的海军部队。"
+ decision_volunteer_conscription:0 "志愿者征兵"
+ decision_volunteer_conscription_desc:0 "我们为渴望为我们的国家而战的退伍军人和志愿者们冲刷这个世界。"
+ 
+ is_at_war:0 "$TRIGGER_FAIL$§R在战争中，我们不能放弃我们的优势。!§!"
+ new_ascended_empire:0 "$TRIGGER_FAIL$§R最近我们刚刚成为巅峰帝国!§!"
+  
+ renounce_ascendancy:0 "我们将不再是一个§Y巅峰帝国§!."
+ reclaim_ascendancy:0 "我们将作为§Y巅峰帝国§!回归银河."
+ rearmament:0 "我们将重新武装我们的国家，藐视条约。"
+ mobilization:0 "我们将动员我们的力量为我们的回归做准备。"
+ youth_indoctrination:0 "我们将教我们的年轻人在上一场战争中使用过时的战舰。他们会喜欢的。"
+ volunteer_conscription:0 "热心的志愿者和前士兵将在最后一场战争中驾驶过时的战舰。"
+ 
+ enable_reclaim_ascendancy_edict:0 "§H解锁宏图:§! §Y重新崛起§!"
+
+ 
+
+ 

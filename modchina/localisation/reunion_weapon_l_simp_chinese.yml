@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+NAME_TORUS:0 "环形防御网络"
+torus_defense:0 "环形防御网络"
+TORUS_CANNON_CORE:0 "环形防御网络"
+torus_reactivation_project:0 "环形防御网络维护"
+torus_reactivation_project_DESC:0 "我们的环形防御网络已经严重损坏。我们应该尽快解决这个问题。"

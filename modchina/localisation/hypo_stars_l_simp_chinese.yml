@@ -1,0 +1,68 @@
+﻿l_simp_chinese:
+ pc_blue_dwarf_star:0 "蓝矮星"
+ pc_blue_dwarf_star_desc:1 "当一个小于0.25倍太阳质量的M级红矮星通过核聚变耗尽了大量的氢，而不是将其变成一个红巨星，它就会变得更热，从而使热力学平衡变得更热，从而变成一个蓝色的矮星。"
+ sc_blue_dwarf_star:0 "§H蓝矮星§!"
+ 
+ pc_black_dwarf_star:0 "黑矮星"
+ pc_black_dwarf_star_desc:1 "这是白矮星演化的最后阶段;超过10 ^ 15年后,它的表面温度不超过5 k,从而辐射能量和热量较少,慢慢地变成一个黑矮星。"
+ sc_black_dwarf_star:0 "§H黑矮星§!"
+ 
+ pc_dark_star:0 "暗星"
+ pc_dark_star_desc:1 "这些恒星也被称为暗物质恒星，它们是在传统恒星形成之前形成的早期宇宙中的恒星。它们大多由重子物质组成，但暗物质成分产生的热量足以阻止核聚变发生，使它们几乎无法用肉眼看到。"
+ sc_dark_star:0 "§H暗星§!"
+ 
+ pc_quasi_star:0 "似星体"
+ pc_quasi_star_desc:1 "也被称为黑洞恒星，这些非常大的恒星形成于早期宇宙，当一个大的原恒星的核心坍缩成一个黑洞，但是它的外层包含了最终在正常情况下会变成超新星的能量爆发。然后，进入黑洞核心的内部物质产生足够的辐射压力，以补偿引力坍缩，并使恒星处于平衡状态。"
+ sc_quasi_star:0 "§H似星体§!"
+ 
+ pc_strange_star:0 "奇异星"
+ pc_strange_star_desc:1 "一些中子星的质量足够大，它们核心的中子会分解成夸克，变成夸克恒星，但是在非常高的压力下，形成中子的夸克的一半可能会转化成奇异夸克。如果这发生在整个恒星的体积，它被重新命名为奇异星。"
+ sc_strange_star:0 "§H奇异星§!"
+ 
+ pc_white_hole:0 "白洞"
+ pc_white_hole_desc:1 "这是一个时空的区域，在这个区域里，所有的时间轨迹都向外流动，这就是，任何东西都不能从外面进入，尽管物质和光线可以逃离它。在这个意义上，它是黑洞的反向，物质和光无法逃脱。"
+ sc_white_hole:0 "§H白洞§!"
+ 
+ 
+ q_star:0 "Q型恒星"
+ q_star_desc:0 "实际上，这不是一个黑洞，而是一颗由奇异物质构成的高密度中子星，有时被称为灰岩坑。"
+ 
+ intermediate_black_hole:0 "中等质量黑洞"
+ intermediate_black_hole_desc:0 "这是一个比恒星黑洞质量更大的黑洞，但比星系中心的超大质量黑洞质量要小。他们有三种起源。第一个状态是它们可以由两个或两个以上的恒星黑洞形成。第二部分提出了恒星群中大质量恒星的碰撞。第三个是原始黑洞在宇宙大爆炸时出现。"
+ 
+ pop_iii_star:0 "第三星族星"
+ pop_iii_star_desc:0 "这颗恒星属于宇宙中形成的第一代恒星，因此含有非常少的重元素。"
+ 
+ tz_object:0 "索恩基特科夫对象"
+ tz_object_desc:0 "这个红巨星的核心有一个中子星，它是由两者之间的碰撞而获得的。"
+ 
+ electroweak_star:0 "电弱星"
+ electroweak_star_desc:0 "这颗恒星中心的温度是如此之高，以致于电磁力和弱核力结合在一起，导致电弱燃烧。这就把夸克变成了轻子，产生了足够的辐射压力来阻止其核心的引力坍缩。"
+ 
+ sr_strange_matter:0 "奇异物质"
+ sr_strange_matter_desc:0 "宇宙中最稳定的物质形式，来自于奇异的恒星。"
+ 
+ sr_quark_gluon_plasma:0 "夸克胶子等离子体"
+ sr_quark_gluon_plasma_desc:0 "这种物质形态类似于早期宇宙的状态。它是在夸克星的核心发现的。"
+ 
+ tech_mine_quark_gluon_plasma:0 "夸克胶子等离子体萃取"
+ tech_mine_quark_gluon_plasma_desc:0 "从夸克星核中提取夸克-胶子等离子体的方法可以详细研究早期宇宙的条件。"
+ 
+ tech_mine_strange_matter:0 "奇怪物质回忆"
+ tech_mine_strange_matter_desc:0 "对于宇宙中最稳定的物质形态的理解，可以解释在空间和陆地上更坚固的结构。"
+ 
+ #
+ 
+ sr_antimatter:0 "反物质"
+ sr_antimatter_desc:0 "它的行为方式与普通物质完全相同，但却有相反的电荷。如果它与普通物质接触，就会湮灭释放光子。"
+ 
+ tech_mine_antimatter:0 "反物质提取"
+ tech_mine_antimatter_desc:0 "新发现的方法可以成功地从反物质星中提取反物质，用于武器和研究。"
+ 
+ pc_antimatter_star:0 "反物质恒星"
+ pc_antimatter_star_desc:1 "它看起来像普通的恒星，但实际上它是由反物质构成的，所以它对任何靠近它的物质都会产生剧烈的反应。"
+ sc_antimatter_star:0 "反物质恒星"
+ 
+ quark_star:0 "似星体"
+ quark_star_desc:0 "这颗中子星核心的温度和压力的条件足够高，可以将中子释放到它们的基本成分中:夸克上下和胶子，形成所谓的夸克胶子等离子体。"
+ 

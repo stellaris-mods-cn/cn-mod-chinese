@@ -1,0 +1,44 @@
+﻿
+#Idea and code by ViolentBeetle
+#Text by anael and ViolentBeetle
+
+l_simp_chinese:
+
+ mem_cracked_category:0 "破解"
+ mem_cracked_category_desc:0 "这颗小行星上布满了断层线，但它们并不是由外部撞击产生的——就好像它是从内部裂开的一样。我们的仪器探测到小行星发出的微弱能量信号。"
+
+ mem_cracked.1.name:0 "进入点"
+ mem_cracked.1.desc:0 "[Root.GetName]报告说，§Y[From.GetName]§!的深度穿透扫描探测到它表面下有一个不寻常的物体——就在断层线被认为开始的地方。\n\n关于这颗小行星的猜测越来越多，但§Y[Root.Leader.GetName]§!认为，结果表明，一艘飞船不知何故被困在了小行星内部。小行星内部的震动紧随最初的传播。无论里面是什么，小行星都不会长期稳定。"
+ mem_cracked.1.a:0 "想办法把这艘船弄走。"
+ mem_cracked.1.b:0 "试图保存这个地点进行长时间的研究。"
+ mem_cracked.1.c:0 "研究造成这种现象的奇怪现象。"
+
+ MEM_CRACKED_CUT_OUT:0 "提取"
+ MEM_CRACKED_CUT_OUT_DESC:0 "无论被困在小行星内的是什么，我们都需要精密的采矿设备才能将其安全运出。一艘工程船可以完成这项工作。"
+
+ mem_cracked.2.name:0 "军舰之外"
+ mem_cracked.2.desc:0 "一艘船确实被困在小行星内。它似乎主要由能量场组成，它的外观和功能与我们自己的技术非常不同。里面没有发现任何船员。 \n\n我们的发现表明，这艘船起源于我们目前的维度，为[Owner.GetAdj]的科学界提出了许多问题。尽管它的设计与众不同，但它仍有可能被改造为我们的军事舰队。"
+ mem_cracked.2.tooltip:0 "一艘新的§Y军舰§!将加入你的帝国。"
+
+ mem_cracked.3.name:0 "科学船外"
+ mem_cracked.3.desc:0 "一艘船确实被困在小行星内。它似乎主要由能量场组成，它的外观和功能与我们自己的技术非常不同。里面没有发现任何船员。\n\n我们的发现表明，这艘船起源于我们目前的维度，为[Owner.GetAdj]的科学界提出了许多问题。尽管它有着不同寻常的设计，它仍然可以被重新设计用于我们的探索舰队。"
+ mem_cracked.3.tooltip:0 "一艘新的§Y科研船§!将加入你的帝国。"
+
+ mem_cracked.4.name:0 "失败"
+ mem_cracked.4.desc:0 "提取小组误读了对小行星内部活动的调查，并通过不明智的钻探触发了它的彻底毁灭。然而，一艘船确实被困在小行星内。检查它的残骸将提供一些关于这艘奇异的船的迷人的科学数据，这艘船与我们所发现的任何船只或材料都没有关系。"
+ mem_cracked.4.a:0 "可能这是更好的结果。"
+
+ mem_cracked.5.name:0 "Jack-In-The-Rock"
+ mem_cracked.5.desc:0 "我们得到了几乎正确的答案——除了没有一艘飞船被困在小行星内，而是两艘。当我们把他们从岩石中解救出来时，两艘船立即启动并将他们的武器系统对准了我们。"
+ mem_cracked.5.a:0 "那些入侵者必须被遏制住。"
+
+ mem_cracked_ship_mod:0 "异界能量"
+ mem_cracked_ship_war_buff:0 "异界能量"
+
+ mem_cracked.10.name:0 "空间裂缝"
+ mem_cracked.10.desc:0 "当§Y[From.GetName]§!接近进行第二次扫描时，碎裂的小行星[Root.GetName]已经在能量的嘈杂声中消失了。在从事故中恢复后，我们的船员报告说他们的船体被奇怪的东西改变了。无论它们的起源是什么，它们的技术已经激起了人们对超光速引擎的争论。"
+ mem_cracked.10.a:0 "多么奇怪..."
+
+ mem_cracked.9999.name:0 "失败"
+ mem_cracked.9999.desc:0 "尽管[Leader.GetHerHis]尽了最大的努力，[Leader.GetName]还是没能找到贯穿§Y[FromFrom.GetName]§!神秘裂缝的原因。毫无疑问，这是一场不可思议的事故，它可能永远超出我们的认知范围，让我们只能研究它的后果。"
+ mem_cracked.9999.a:0 "真是太遗憾了。"

@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+
+#####################################
+# POLICIES
+#####################################
+
+ policy_gatewayBuild:0 "外资星门"
+ policy_gatewayBuild_desc:0 "允许其他帝国在我们的领土内建造星门。\n"
+ gatewayBuild_denied:0 "禁止"
+ gatewayBuild_denied_name:0 "禁止"
+ gatewayBuild_denied_desc:0 "其他帝国无法在我们的领土内建造星门。\n我们不需要他人的资助 -- 禁止其他帝国在我们的领土内建造星门的行为。\n"
+ gatewayBuild_permitted:0 "允许"
+ gatewayBuild_permitted_name:0 "允许"
+ gatewayBuild_permitted_desc:0 "其他帝国能够在我们的领土内建造星门。\n星际高速航线多多益善 -- 允许其他帝国在我们的领土内建造星门的行为。\n"
+

@@ -1,0 +1,316 @@
+﻿#By Caligula
+
+l_simp_chinese:
+
+ mem_lost_emperor_category:0 "神秘飞船"
+ mem_lost_emperor_category_desc:0 "我们的传感器检测到一个小型金属物体正以一个非常近的距离围绕恒星轨道运行。我们应该进一步调查。"
+
+ mem_lost_emperor.1001.name:0 "神秘飞船"
+ mem_lost_emperor.1001.desc:0 "我们在[mem_lost_emperor_system.GetName]星系的星际基地传感器检测到一个小型金属物正以异常近的距离围绕恒星轨道运行。他们非常惊讶，因为该星系已经受控制了很长时间，从来没有看到过这样的物体。不管怎么说，传感器所捕获的证据非常确凿：在那里肯定能发现什么东西。"
+ mem_lost_emperor.1001.option:0 "我们应该进一步调查。"
+
+ mem_lost_emperor_science_investigate:0 "$mem_lost_emperor_category$"
+ mem_lost_emperor_science_investigate_DESC:0 "$mem_lost_emperor_category_desc$"
+
+ mem_lost_emperor.1.name:0 "神秘飞船"
+ mem_lost_emperor.1.desc:0 "最后发现该物体为一个金属太空舱，可能大到足以容纳一个活人。它看上去被一些设计先进的太阳能电池板所覆盖。能量读数显示它消耗了大量的能量，推测部分原因应该是为了让它保持漂浮，以免太过靠近恒星轨道而遭受辐射。\n\n当[root.GetName]将平板上的传感器固定好并向它接近时，它就开始一直向我们广播消息。它用了整整七十二种语言传来消息，上面写着：“危险！保持距离！”"
+ mem_lost_emperor.1.A:0 "最好别管它了。"
+ mem_lost_emperor.1.B:0 "听起来很有趣。让我们来看看。"
+ mem_lost_emperor.1.C:0 "尝试建立通信。"
+
+ mem_lost_emperor.2.name:0 "警告射击"
+ mem_lost_emperor.2.desc:0 "太空舱发出了射击警告。很明显它是带有武装的。我们该怎么办？"
+ mem_lost_emperor.2.A:0 "别管它了。"
+ mem_lost_emperor.2.B:0 "忽略警告。它不可能很强，不是吗？"
+ mem_lost_emperor.2.C:0 "试着和它谈谈。"
+
+ mem_lost_emperor.3.name:0 "舰船被毁"
+ mem_lost_emperor.3.desc:0 "一股强力的电磁脉冲击毁了[root.GetName]，杀死了所有在船上的人。"
+ mem_lost_emperor.3.A:0 "最好别管他了。不值得在这上面耗费力气。"
+ mem_lost_emperor.3.B:0 "下一次派上军队。"
+
+ mem_lost_emperor.4.name:0 "阿兹兰的信息"
+ mem_lost_emperor.4.desc:0 "我是阿兹兰，负责这艘船的实体。我一直负责保护我这里的货物以免银河系遭受他的危害。你们的船当前的航向将让它和我的飞船近到不可接受的范围内。请停止你们的航线，否则我将被迫采取行动。 "
+ mem_lost_emperor.4.A.dialogue:0 "你的货物是什么？"
+ mem_lost_emperor.classified:0 "这是机密信息。"
+ mem_lost_emperor.4.B.dialogue:0 "谁把你放在这里的？"
+ mem_lost_emperor.4.C.dialogue:0 "你绕这颗恒星飞了多久？"
+ mem_lost_emperor.4.D.dialogue:0 "这里有什么不是机密的信息吗？"
+ mem_lost_emperor.4.D.response:0 "为了你们自己的安全，请停止你们当前的航线。你们已经被警告过了。"
+ mem_lost_emperor.4.E.dialogue:0 "这还有其他人我们可以交流的吗？"
+ mem_lost_emperor.4.E.response:0 "这是最后一次给你们的警告。停下，不然我就开炮了。"
+ mem_lost_emperor.4.F.action:0 "我管你说什么。"
+ mem_lost_emperor.4.F.tooltip:0 "不管那东西的警告，我们继续调查。"
+ mem_lost_emperor.4.G.action:0 "好吧。我们会停。"
+ mem_lost_emperor.4.H.action:0 "(撒谎) 好吧。我们会停。"
+ mem_lost_emperor.4.H.action.tooltip:0 "我们将带着军事后援回来。"
+
+ mem_lost_emperor_military_investigate:0 "武力检查该太空舱"
+ mem_lost_emperor_military_investigate_DESC:0 "一颗围绕着这颗恒星的神秘飞船似乎守护着一个重要的秘密。然而不幸的是，它全副武装，由一个AI操控着，这个AI死心塌地地要保护它的秘密不见天日。"
+
+ mem_azran:0 "阿兹兰"
+ mem_azran_plural:0 ""
+ shipsize_mem_azran_construction_speed_mult:0 ""
+ shipsize_mem_azran_build_cost_mult:0 ""
+ shipsize_mem_azran_upkeep_mult:0 ""
+
+ mem_lost_emperor.5.name:0 "飞船启动"
+ mem_lost_emperor.5.desc:0 "我们的船接近了太空舱。阿兹兰再次向我们发出警告让我们停止接近。突然它开始活跃起来，用惊人强力的能量脉冲攻击了我们的舰船。"
+ mem_lost_emperor.5.desc.again:0 "当我们的飞船靠近太空舱时，阿兹兰再次启动与我们的舰队作战。但愿这次尝试比上次更幸运！"
+ mem_lost_emperor.5.option:0 "进入战斗！"
+
+ mem_lost_emperor_military_investigate_1:0 "击败阿兹兰"
+ mem_lost_emperor_military_investigate_1_DESC:0 "一艘名为“阿兹兰”的神秘飞船似乎守护着一个重要的秘密。尽管它体积极小，但作为远古科技的残留物，它拥有着相当强大的火力 --- 我们的舰队在上一次试图用武力破解这些机密的时候就发现了。"
+
+ mem_lost_emperor.6.name:0 "失败！"
+ mem_lost_emperor.6.desc:0 "“阿兹兰”号对我们的舰队来说太强大了！我们的舰船被逼得仓皇逃窜。"
+ mem_lost_emperor.6.A:0 "我们会带着更强的武力返回。"
+ mem_lost_emperor.6.B:0 "够了。我们别管阿兹兰了吧。"
+
+ mem_lost_emperor.7.name:0 "阿兹兰输了！"
+ mem_lost_emperor.7.desc:0 "“阿兹兰”在交火中被制服了。我们设法禁用了它的能量脉冲，并马上可以控制太空舱。一个新的信号正在寻求与我们开放通信。"
+ mem_lost_emperor.7.option:0 "让我们看看他们要说什么。"
+
+ #Dialogue
+ mem_lost_emperor.8.name:0 "神皇 尼奥查达努斯 "
+ mem_lost_emperor.8.desc:0 "我乃不朽者，神皇尼奥查达努斯，托拉洛尼安帝国的统治者，支配银河系的主宰，你合法的王君。我感谢你提供的服务，帮我拜托了这台烦人的机器。现在在我面前跪下，然后你就会获得奖赏。"
+ mem_lost_emperor.8.option:0 "你怎么会在这样一个绕着将死的恒星轨道运行的小飞行舱里的？"
+
+ mem_lost_emperor.9.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.9.desc:0 "你得说“神皇陛下”，你这个白痴！ "
+ mem_lost_emperor.9.A:0 "你疯了。"
+ mem_lost_emperor.9.B:0 "好吧...那么神皇陛下，你在这里干嘛？"
+
+ mem_lost_emperor.10.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.10.desc:0 "你不过是匍匐在我脚下的虫子。不管你愿不愿意你都得服侍我。"
+ mem_lost_emperor.10.A:0 "这场对话结束了。"
+ mem_lost_emperor.10.B:0 "好吧...那么神皇陛下，你在这里干嘛？"
+
+ mem_lost_emperor.11.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.11.desc:0 "我被我§L亲爱的，挚爱的§!妻子囚禁于此。她厌倦了我那些宏伟的计划，但又不希望我死掉，所以安排了在这里把我...保存。"
+ mem_lost_emperor.11.option:0 "她为什么这么做，神皇陛下？"
+
+ mem_lost_emperor.12.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.12.desc:0 "在很久以前，我曾是这片银河的统治者，无数星球臣服在我脚下，但这还不够。我尝试着带我的人民和我一起，提升到另一个维度去。然而，我的对手们嫉妒我的力量，害怕我的计划，这让他们和我的妻子有了共同的理由夺走我的力量。不过，她拒绝杀死我，所以她为我设下了一个我永远无法逃脱的陷阱，并把我放在了这个她希望永远也不会有人找到的地方，而我就会一直在这儿漂浮...一直到永远。"
+ mem_lost_emperor.12.option:0 "这到底是多久以前的事情了，陛下？"
+
+ mem_lost_emperor.13.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.13.desc:0 "从我独立行走开始算已经过了6600万年。我的年纪和这些行星、恒星一样古老，我的智慧也同样如此。这就是我为什么是你们的领袖。"
+ mem_lost_emperor.13.option:0 "你怎么能活这么久，我的皇帝？"
+ mem_lost_emperor.13.response:0 "我即是终极生物体。我的身体经历了前所未有的改变，不管是基因、机械还是精神...我的心灵和肉体都得到了改进。等你把我从§L可恨的盒子里§!放出来，这个没有任何事我做不到，没有任何人能阻止。"
+
+ mem_lost_emperor.14.name:0 "$mem_lost_emperor.8.name$"
+ mem_lost_emperor.14.desc:0 "我即是终极生物体。我的身体经历了前所未有的改变，不管是基因、机械还是精神...我的心灵和肉体都得到了改进。等你把我从§L可恨的盒子里§!放出来，这个没有任何事我做不到，没有任何人能阻止。"
+ mem_lost_emperor.14.option:0 "我懂了。。。"
+
+ mem_lost_emperor.20.name:0 "决定时间"
+ mem_lost_emperor.20.desc:0 "别再问更多问题了。俯首，或是面对我的愤怒。世界的命运取决于你的决定。"
+ mem_lost_emperor.20.desc.scorned:0 "你觉得你能对我做什么呢？要知道我可不会安静地离开。现在在我面前俯首还不算晚。世界的命运取决于你的决定。"
+ mem_lost_emperor.20.accept:0 "我们将为您，我们合法的皇帝欢呼。"
+ mem_lost_emperor.20.accept.tooltip:0 "神皇，尼奥查达努斯成为了[root.GetSpeciesAdj]国的皇帝。他是一位10级的统治者，具有以下特质： $leader_trait_ruler_chosen$, $mem_leader_trait_ruler_ancient_cyborg$, $mem_leader_trait_ruler_knowledge_of_another_age$ and $mem_leader_trait_ruler_lunatic_neoch$, 给予以下加成:\n§G+20%§! $MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$\n§G+1§! 影响力\n§G+25%§! $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$\n§G+5%§! $MOD_POP_ROBOT_PRODUCTION_OUTPUT$\n§R-5%§! 矿物"
+ mem_lost_emperor.20.accept.tooltip2:0 "这个安排将给我们的文明带来相当大的好处。然而，最终还是会付出代价。"
+ mem_lost_emperor.20.accept.tooltip3:0 "[root.GetName]采用了帝制政治制度。"
+ mem_lost_emperor.20.accept.response:0 "很好。你做出了明智的选择。"
+ mem_lost_emperor.20.suggest:0 "你可以接受一个[root.GetRulerTitle]的职位吗？"
+ mem_lost_emperor.20.suggest.response:0 "这是个笑话吗？我是你合法的皇帝，不是什么讨厌的星区总督。"
+ mem_lost_emperor.20.imprison:0 "好吧，你得跟我们一起走，你的知识会很有用。"
+ mem_lost_emperor.20.imprison.tooltip:0 "尝试将神皇尼奥查达努斯带到[root.capital_scope.GetName]的高度警戒监狱。尼奥查达努斯可能在中途，尤其是长途旅行时，逃跑，这将导致不可预测的潜在的可怕后果。\n\n 注意：你必须操控§Y[mem_azran_vanquisher_fleet.GetName]§!尽可能快地赶到§Y[root.capital_scope.GetName]§!或承担有负面后果的风险。每次舰队新进入一个星系时尼奥查达努斯有5%几率逃脱。\n\n成功带回将给予国家修饰，$mem_lost_emperor_fount_of_knowledge_modifier$, 给予 §G+10%§! $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$。"
+ mem_lost_emperor.20.imprison.response:0 "行吧，你们注定了自己的末日。"
+ mem_lost_emperor.20.dissemble:0 "我们可以从你身上学到很多…通过分解你。"
+ mem_lost_emperor.20.dissemble.response:0 "不！你不能…"
+ mem_lost_emperor.20.dissemble.tooltip.success:0 "我们战胜了尼奥查达努斯并获得了显著的科技见解。"
+ mem_lost_emperor.20.dissemble.tooltip.fail:0 "尼奥查达努斯成功地抵抗了我们，并试图逃跑，结果难以预料。"
+ mem_lost_emperor.20.destroy:0 "你是个不稳定的威胁。我们必须摧毁你。"
+ mem_lost_emperor.20.destroy.tooltip:0 "重新校准太空舱的轨道，使它坠入恒星。对太空舱功能的初步学习将有助于我们的研究："
+ mem_lost_emperor.20.destroy.response:0 "不！你不能这样做-"
+
+ mem_lost_emperor.20.release:0 "我们会放你走。你被监禁了太久了。"
+ mem_lost_emperor.20.release.1:0 "尼奥查达努斯将得到一架轻型的飞机并被允许离开监狱。\n"
+ mem_lost_emperor.20.release.2:0 "§R警告:§! 把一个有着不可预估能力的狂妄自大的不朽者释放在你的帝国可能不是一个明智的选择。"
+ 
+ mem_leader_trait_ruler_knowledge_of_another_age:0 "另一个时代的知识"
+ mem_leader_trait_ruler_knowledge_of_another_age_desc:0 "这个人比一些太阳还要长寿。他的视线所看到的是其他古人甚至难以想象的景象，并且能够操纵时至今日已经闻所未闻的技术。这些知识对选举了他作为领袖的种群有着很大的益处。"
+
+ mem_leader_trait_ruler_lunatic_neoch:0 "狂妄自大"
+ mem_leader_trait_ruler_lunatic_neoch_desc:0 "这个人是一个天才...但在特殊方式上也是一个疯子。尽管他有着非凡的成就，但他做事不可预测，随时有必要为他的怪癖买单。"
+
+ mem_leader_trait_ruler_ancient_cyborg:0 "远古赛博格"
+ mem_leader_trait_ruler_ancient_cyborg_desc:0 "这位领袖是古代设计的义体人。他们的身体是真正的奇迹。不太可能再看到他们的同类了。"
+
+ mem_lost_emperor_fount_of_knowledge_modifier:0 "古老知识源泉"
+ mem_lost_emperor_fount_of_knowledge_modifier_desc:0 "一位古老的、不朽的，还有些疯狂的“神皇”正被关押在一个秘密的高度警戒场所。他不断的疯言乱语和频繁而巧妙但最终毫无结果的越狱企图最终为我们的研究带来了巨大恩惠。"
+ 
+ 
+ 
+ #Taking Neochadanus Home
+ mem_lost_emperor.21.name:0 "捕获尼奥查达努斯的太空舱"
+ mem_lost_emperor.21.desc:0 "我们成功将太空舱停放在了我们的一艘飞船上。希望这个关了尼奥查达努斯这么多年的囚笼可以再关长一点，长到足够我们能把他带到我们的首都。在那，我们的科学家和安全官员在为他准备一个高度警戒的监狱。"
+	
+ mem_lost_emperor.23.name:0 "尼奥查达努斯逃跑了！"
+ mem_lost_emperor.23.desc:0 "[root.GetName]的指挥官报告称，在跳转到[fromfrom.GetName]星系期间他们的计算机系统出现了严重的中断。当他们将传感器恢复上线时，他们发现关押着尼奥查达努斯的[mem_neochadanus_ship.GetName]已经消失了。看来这位老皇帝果真袖里有乾坤。显然他破坏程序上传到了飞船的中央计算机中，迅速控制了所有的重要系统。从这开始他成功赢过了全体船员。这艘船已经脱离了我们的雷达，似乎正穿越未知的太空航路。我们不得不等待看它会在哪里重新出现。"
+ mem_lost_emperor.23.tooltip:0 "[mem_neochadanus_ship.GetName]消失了。"
+ 
+ mem_lost_emperor.25.name:0 "不朽的囚犯"
+ mem_lost_emperor.25.desc:0 "我们成功安全将尼奥查达努斯带到我们的首都。他被带至一个位于绝密之地的高度警戒的监狱里，从那里逃脱几乎是不可能的。一组科学家被派遣去帮助我们的安全部门监视他，并从他的胡言乱语和徒劳无功的逃跑企图中学习他们能学习的东西。"
+
+ 
+ 
+ mem_lost_emperor.29.name:0 "$mem_lost_emperor.23.name$"
+ mem_lost_emperor.29.desc:0 "当我们登上太空舱，我们的太空陆战队很快被五里河, our space marine squads were quickly overwhelmed by a fierce onslaught of physical force and cyber attacks on our systems. They were thrown back with significant casualties. Our computing systems likewise suffered, our entire communications net falling offline momentarily. In the confusion, Neochadanus appears to have seized the [mem_neochadanus_ship.GetName]. Having seemingly installed a series of updates to the ship's software systems, the ship was steered through a series of improbable manoeuvres before activating the emergency disengage system.\n\nThe [mem_neochadanus_ship.GetName] has since dropped off our radar. We will have to wait and see where it re-emerges."
+ mem_lost_emperor.29.tooltip:0 "$mem_lost_emperor.23.tooltip$"
+ 
+ #Neochadanus Ascendant (seizes planet)
+ 
+ mem_lost_emperor.30.name:0 "尼奥查达努斯占领了[root.GetName]!"
+ mem_lost_emperor.30.desc:0 "尼奥查达努斯的飞船在[root.solar_system.GetName]重新出现。然而，尼奥查达努斯显然对飞船的系统安装了改进，这意味着我们无法阻止飞船将它的乘客运送至[root.GetName]。在那，仅仅几个小时内，尼奥查达努斯展示了极其强大的网络战能力，获得了整个星球的重要基础设施的控制权，使星球当局别无选择，只能服从他们的新统治者。\n\n从那开始我们在也没听到任何关于该星球上形势的消息，但远程传感器表明神皇已经组建了一支舰队。"
+ mem_lost_emperor.30.A:0 "我们必须夺回失地！"
+ mem_lost_emperor.30.B:0 "让我们静观其变。"
+ 
+ mem_lost_emperor.31.name:0 "接入通讯"
+ mem_lost_emperor.31.desc:0 "凡人们！我乃尼奥查达努斯，银河系的神皇。我被囚禁了6600万年，但现在我自由了！如果你们足够聪明的话，就该自发地跪在我面前，庆贺我的登天。不过我的舰队已经准备好了。"
+ mem_lost_emperor.31.desc.machine:0 "我的机械朋友们！我乃尼奥查达努斯，银河系的神皇。我被囚禁了6600万年，但现在我自由了！如果你们足够聪明的话，就该自发地跪在我面前，庆贺我的登天。不过我的舰队已经准备好了。"
+ mem_lost_emperor.31.option:0 "我明白了..."
+ 
+ mem_lost_emperor.39.name:0 "接入通讯"
+ mem_lost_emperor.39.desc:0 "凡人们！时候终于到了：今天，我和我忠实的助手们将提升到另一个维度，我邀请你们见证这一历史事件，以便有一天也许你们能够跟随我的脚步。再见！\n\n这时出现了眩目的闪光然后视频馈送停止。没有从[from.capital_scope.GetName]或是尼奥查达努斯势力中的其他星球再得到进一步的信号。事实上，他们就像不再存在了一样。 "
+ mem_lost_emperor.39.option:0 "我明白了..."
+ mem_lost_emperor.39.option.purifiers:0 "少了一个要消灭的敌人。"
+    
+ #Neochadanus destroyed (positive follow-up to 20.dissemble)
+ mem_lost_emperor.40.name:0 "尼奥查达努斯被消灭"
+ mem_lost_emperor.40.desc:0 "我们的太空陆战队登上了太空舱。尽管对我们的系统进行了强大的网络攻击，和激烈的物理抵抗导致了我们这边的重大伤亡，这位老皇帝还是被镇压了。\n\n他更像是机器而不是有血有肉的生物，在他不再能造成威胁前，我们被迫对尼奥查达努斯的“硬件”造成巨大伤害。不过，我们的科学家能够通过研究他和他的牢笼获得许多见解。"
+ 
+ mem_last_emperor_synth_boost:0 "古代机器人的见解"
+ mem_last_emperor_synth_boost_desc:0 "对一个自称为“神皇”的古老机器人的拆卸被证明是对我们机器人技术的重大推动。"
+
+ mem_last_emperor_synth_boost_2:0 "$mem_last_emperor_synth_boost$"
+ mem_last_emperor_synth_boost_2_desc:0 "$mem_last_emperor_synth_boost_desc$"
+
+
+ #Fallbacks
+ 
+ mem_lost_emperor.800.name:0 "不朽者之死"
+ mem_lost_emperor.800.desc:0 "神皇，尼奥查达努斯死了！尽管他已经活了6600万年，但即使是他也不能永远活下去。"
+ mem_lost_emperor.800.option:0 "人固有一死。"
+
+ mem_lost_emperor.801.name:0 "被轻视的皇帝"
+ mem_lost_emperor.801.desc:0 "[root.GetSpeciesNamePlural]!你辜负了我对你的信任，不尊重我的立场。你会后悔的。"
+ mem_lost_emperor.801.option:0 "我们等着瞧吧。"
+ mem_lost_emperor.801.tooltip:0 "God-Emperor Neochadanus resigns. We can only guess what he'll do next."
+
+ mem_lost_emperor.803.name:0 "不朽者之死"
+ mem_lost_emperor.803.desc:0 "神皇，尼奥查达努斯死了！尽管他已经活了6600万年，但即使是他也不能永远活下去。\n\n他的助手们对于痛失他们敬爱的领袖感到震惊。为了纪念他，他们把他么的社区改名为“尼奥查达努斯的哀悼者”。他们的新统治者，[from.GetRulerTitle] [from.GetRulerName]已经开始在努力才能不辜负他杰出前任的声誉。"
+ mem_lost_emperor.803.option:0 "$mem_lost_emperor.800.option$"
+ 
+ 
+ mem_neochadanus_scorned:0 "被轻视"
+
+
+
+
+
+ mem_lost_emperor.900.name:0 "神皇发来的信息"
+ mem_lost_emperor.900.desc:0 "凡人们！这里是你们敬爱的皇帝，尼奥查达努斯。作为对你们过去几十年中为我忠实服务的回报，我给你们带来了你们难以想象的繁荣。不过我的时间到了。现在是我提升到下一维度的时候了。作为我对你们做出的工作的回报，我要求你们在这次的努力中支持我。"
+ mem_lost_emperor.900.A:0 "我们当然会支持你。"
+ mem_lost_emperor.900.A.tooltip:0 "\n一旦完成，神皇将离开提升到另一维度。"
+ mem_lost_emperor.900.A.response:0 "谢谢你。"
+ mem_lost_emperor.900.B:0 "不，我们仍然需要你。"
+ mem_lost_emperor.900.B.tooltip:0 "激怒神皇可能是危险的。"
+ mem_lost_emperor.900.B.response:0 "我们等着瞧吧。"
+
+ mem_lost_emperor.901.name:0 "登天日"
+ mem_lost_emperor.901.desc:0 "凡人们！时候终于到了：今天，我和我忠实的助手们将提升到另一个维度，我邀请你们见证这一历史事件，以便有一天也许你们能够跟随我的脚步。我很荣幸能成为你们的皇帝，指引你们走向伟大，回忆到你们总让我饱含深情。毫无疑问，没有我，你们也有能力继续做好。\n\n再见了，[root.GetSpeciesNamePlural]!"
+ mem_lost_emperor.901.option:0 "我们会想念你的。"
+ 
+ mem_lost_emperor.902.name:0 "登天日"
+ mem_lost_emperor.902.desc:0 "在他最后一次向我们传递信息几分钟后，尼奥查达努斯在闪现出的一道耀眼的光芒中上升。他在不同星球上的一些随从们似乎加入了他，参与进了这个过程，同样也消失得无影无踪。我们的科学家对于所发生的事情非常迷惑，因为老皇帝一直保密着他的计划。关于他是否成功以及去了哪里的各种假设无疑将在未来几十年内占据我们科学家们的注意力。"
+ mem_lost_emperor.902.option:0 "确实很神秘..."
+ 
+ mem_lost_emperor.903.name:0 "神皇的消失"
+ mem_lost_emperor.903.desc:0 "神皇的行为一直以来都是不可预测的。然而，这一次的行为却完全让人不安。起初，人们以为他只是决定在没有宣布的情况下访问另一个星球，但在过去的20天里，他在[root.GetName]的任何星球都没有被目击的证明。目前还不清楚其中有什么意义。"
+ mem_lost_emperor.903.option:0 "希望他最终会出现。"
+ mem_lost_emperor.903.tooltip:0 "神皇尼奥查达努斯不再是[root.GetName]的统治者。"
+ 
+ mem_lost_emperor.910.name:0 "阴谋孕育"
+ mem_lost_emperor.910.desc:0 "据报告称，尼奥查达努斯的支持者和最紧密的追随者们有可疑活动。看起来他们正在许多关键行星上不同的位置建立神秘基地。目前还不清楚他们在做什么，但他们的能源消耗正在不断增加！执法官员表示了密切关注，他们不确定是否有足够的资源来对付他们尊敬的，目前仍旧下落不明的前皇帝。"
+ mem_lost_emperor.910.A:0 "也许我们应该支持尼奥查达努斯。"
+ mem_lost_emperor.910.A.tooltip:0 "神皇尼奥查达努斯复职。他将尝试提升到另一维度。\n"
+ mem_lost_emperor.910.B:0 "用我们所有的武力去镇压。"
+
+ mem_lost_emperor.999.name:0 "登天日"
+ mem_lost_emperor.999.desc.1planet:0 "“你们蔑视了我，所以我也将把你们的人带走。愿他们能在我们的目的地那得到教化。”\n\n这是在凌晨早些时候发送给我们政府官员的信息。在这不久后，新闻传出：[mem_disappeared_planet.GetName]消失了。从[mem_disappeared_planet.system.GetName]星系其他地方录制的画面显示了闪出一道亮光，这亮度足以让整个行星都被它掩盖。当它消失时，整个星球也不见了。\n\n我们的科学家很快就到了现场，但是他们仍然对这个行星被从这个维度上移除的过程，或者现在这个星球实际上在哪而感到困惑。我们只能假设尼奥查达努斯在他的努力中取得了成功，无论情况如何，这个星球对我们来说已经消失了。"
+ mem_lost_emperor.999.desc.else:0 "“你们蔑视了我，所以我也将把你们的人带走。愿他们能在我们的目的地那得到教化。”\n\n这是在凌晨早些时候发送给我们政府官员的信息。在这不久后，新闻传出：[root.mem_lost_emperor_planets_count_2]行星们从我们太空中消失。在其他受影响的星系中录制的画面显示了闪出许多亮光，这亮度足以让所有行星都被它掩盖。当它消失时，所有星球也不见了。\n\n我们的科学家很快就到了现场，但是他们仍然对这个行星被从这个维度上移除的过程，或者现在这个星球实际上在哪而感到困惑。我们只能假设尼奥查达努斯在他的努力中取得了成功，并将他忠实的随从们带到了他的旅途中。不管情况如何，这些星球对我们来说已经消失了。"
+ mem_lost_emperor.999.option:0 "骇人听闻"
+ mem_lost_emperor.999.tooltip.1planet:0 "[mem_disappeared_planet.GetName]从游戏中移除。"
+ #This will produce error entries if you have fewer than 10 planets disappearing. This doesn't matter as it is still the best way to do this.
+ mem_lost_emperor.999.tooltip.else:0 "[root.mem_lost_emperor_planets_count_2] planets are removed from the game. They are:\n[mem_disappeared_planet_1.GetName]\n[mem_disappeared_planet_2.GetName]\n[mem_disappeared_planet_3.GetName]\n[mem_disappeared_planet_4.GetName]\n[mem_disappeared_planet_5.GetName]\n[mem_disappeared_planet_6.GetName]\n[mem_disappeared_planet_7.GetName]\n[mem_disappeared_planet_8.GetName]\n[mem_disappeared_planet_9.GetName]\n[mem_disappeared_planet_10.GetName]"
+
+
+
+ 
+ mem_lost_emperor_paying_for_ascension:0 "为提升的准备"
+ mem_lost_emperor_paying_for_ascension_desc:0 "整个国家都在帮助神皇实现他提升到另一维度的原始梦想"
+
+ mem_gov_god_emperor:0 "神圣帝国"
+ mem_gov_god_emperor_desc:0 "这个政府是一个围绕着神皇，不朽者尼奥查达努斯的奇思妙想形成的唯心主义专制政体，他被崇拜为永无过失的活着的神。"
+
+ MEM_GOD_EMPEROR:0 "神皇"
+
+ mem_neochadanus_civic_1:0 "神皇的创新"
+ mem_neochadanus_civic_1_desc:0 "生活在一个受6600万岁不朽者统治的领域里有它的好处。"
+ mem_neochadanus_civic_2:0 "能量动力"
+ mem_neochadanus_civic_2_desc:0 "承接了他以前守护者阿兹兰的传统，神皇的飞船拥有令人敬畏的能量火力和难以穿透的能量护盾。"
+ mem_neochadanus_civic_3:0 "神皇的计划"
+ mem_neochadanus_civic_3_desc:0 "众所周知，天皇以无情的效率推行他的许多建筑项目。"
+
+ NEOCHADANUS_EMPIRE:0 "神皇的领域"
+ NEOCHADANUS_EMPIRE_DESC:0 "一位古代的神皇控制了这片土地。"
+
+ mem_neochadanus_setup_boost:0 "$mem_neochadanus_setup_boost_planet$"
+ mem_neochadanus_setup_boost_planet:0 "尼奥查达努斯治理"
+ mem_neochadanus_setup_boost_planet_desc:0 "有一位六千六百万岁的不朽神皇治理是有好处的。"
+
+ personality_mem_neochadanus_personality:0 "神秘人格崇拜"
+ personality_mem_neochadanus_personality_desc:0 "这个帝国由神秘的尼奥查达努斯统治，一个古老的不朽者，对于升维登天不顾一切。"
+
+ #Diplomacy
+ MEM_NEOCH_HOSTILE_GREETING_1:0 "你们的生命不过是转眼间的流逝。"
+ MEM_NEOCH_HOSTILE_GREETING_2:0 "不管你们愿不愿意，你们都会为我服务。"
+ MEM_NEOCH_NEUTRAL_GREETING_1:0 "说吧，凡人。"
+ MEM_NEOCH_FRIENDLY_GREETING_1:0 "你们的智慧超越了你们的年龄，[from.GetSpeciesName]."
+ MEM_NEOCH_FRIENDLY_GREETING_2:0 "星空会照亮你们在历史中的道路，[from.GetSpeciesName]."
+ MEM_NEOCH_OVERLORD_GREETING_1:0 "你们为我服务是明智的， [from.GetSpeciesName]。我会带领你们走向伟大。"
+ MEM_NEOCH_WAR_GREETING_1:0 "准备受死吧，[from.GetSpeciesName]。我开战的经验比整个[from.GetName]加起来都多。"
+ MEM_NEOCH_WAR_GREETING_2:0 "你们真的以为能打败我？你们的自信就和你们的错误一样离谱。"
+ MEM_NEOCH_DOW_PROPOSE:0 "向神皇跪下，或是面对他的愤怒。"
+ MEM_NEOCH_DOW_ACCEPT:0 "你们真的以为能打败我？你们的自信就和你们的错误一样离谱。"
+ MEM_NEOCH_PEACE_ACCEPT:0 "我认可这个选择。也许以后我会再找时间来征服你们剩下的这些人。"
+ MEM_NEOCH_PEACE_REFUSE:0 "和平？除非你跪倒在我面前。"
+ MEM_NEOCH_DEMAND_VASS_PROPOSE:0 "为你们的神皇服务，而我将带领你们走向荣耀。"
+ MEM_NEOCH_ASK_FOR_VASS_ACCEPT:0 "你们看到了智慧的化身。我将帮助你们实现伟大。"
+ MEM_NEOCH_INSULT_PROPOSE_1:0 "你们口中的智慧只是婴儿们无意识的叨念。"
+ MEM_NEOCH_INSULT_PROPOSE_2:0 "看到你们会让我畏缩。你们什么都不懂。真的，真的什么都不懂。"
+ MEM_NEOCH_INSULT_ACCEPT_FE:0 "我活了6600万年。我见过星星们死去又再生。你觉得我有时间听你们可怜的叫声吗？"
+ 
+#Making the error log shut up
+ effect_random_owned_pop_species:0 "随机拥有的种群"
+
+ 
+ mem_neochadanus_ascendant_admiral:0 "舰队司令"
+ mem_neochadanus_ascendant_general:0 "陆军将领"
+ mem_neochadanus_ascendant_scientist:0 "科学家"
+ mem_neochadanus_ascendant_governor:0 "总督"
+ mem_neochadanus_ascendant_ruler:0 "统治者"
+
+ building_mem_lost_emperor_ancient_palace:0 "尼奥查达努斯的宫殿"
+ building_mem_lost_emperor_ancient_palace_desc:0 "一个巨大的宫殿建筑群，是为了纪念神皇尼奥查达努斯而建造的。"
+ 
+
+ #Some additions
+ mem_lost_emperor.60.name:0 "神皇的帮助"
+ mem_lost_emperor.60.desc:0 "“如果你们像这样做的话……”正如[root.GetSpeciesAdj]科学家们惊讶的看到的那样，尼奥查达努斯对他们在L星门的工作上进行了几次看似简单但实际上非常深刻的修正，明显推进了他们对这一问题研究的进程。 "
+ mem_lost_emperor.60.option:0 "简直不可思议。"
+
+ mem_lost_emperor.61.name:0 "深刻的信息"
+ mem_lost_emperor.61.desc:0 "负责看守尼奥查达努斯的科学家们报告了一个重大的突破：似乎老皇帝对“额外星门”的主题发表了未加防范的评论，这些评论一传达给正研究L星门的[root.GetSpeciesAdj]当局，就激发了新的方法大大推进了他们的研究。"
+ mem_lost_emperor.61.option:0 "真是好消息。"

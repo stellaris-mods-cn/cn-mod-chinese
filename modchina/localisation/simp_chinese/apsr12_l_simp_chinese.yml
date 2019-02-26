@@ -1,0 +1,164 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr12_planet_modifier:0 "频率异常"
+ apsr12_planet_modifier_desc:0 "不知什么原因，这里发出的所有信号几乎都是立即发出的。不使用它是愚蠢的:它给了我们改进物流的可能性"
+ 
+ apsr12_deposit:0 "$apsr12_planet_modifier$"
+ apsr12_deposit_desc:0 "$apsr12_planet_modifier_desc$\n\n§M$apsr12_deposit_effect$§!" 
+ apsr12_deposit_effect:0 "独特的资源可用: $apsr12_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr12_building_part1_text:0 "利用局部异常特征建立的通信中心保证了数据和信息的实时交换"
+ 
+ apsr12_building_part2_text:0 "与通讯中心相邻的物流支持服务，可以在最短的时间内满足我们的物流需求"
+ 
+ apsr12_building_part3_text:0 "利用本地物流异常的特点建立的皇家物流服务基地，使我们的物流服务不受任何延误"
+ 
+ apsr12_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr12_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr12_building_part1:0 "通信中心"
+ apsr12_building_part1_desc:0 "$apsr12_building_predesc$\n$apsr12_building_part1_text$"
+ 
+ apsr12_building_part2:0 "物流支持服务"
+ apsr12_building_part2_desc:0 "$apsr12_building_predesc$\n$apsr12_building_part2_text$"
+ 
+ apsr12_building_part3:0 "帝国后勤基地"
+ apsr12_building_part3_desc:0 "$apsr12_building_predesc$\n$apsr12_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr12_building_part1_fake:0 "$apsr12_building_part1$"
+ apsr12_building_part1_fake_desc:0 "$apsr12_building_fake_predesc$\n$apsr12_building_part1_text$"
+ 
+ apsr12_building_part2_fake:0 "$apsr12_building_part2$"
+ apsr12_building_part2_fake_desc:0 "$apsr12_building_fake_predesc$\n$apsr12_building_part2_text$"
+ 
+ apsr12_building_part3_fake:0 "$apsr12_building_part3$"
+ apsr12_building_part3_fake_desc:0 "$apsr12_building_fake_predesc$\n$apsr12_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr12_building_part1:0 "异常通讯"
+ tech_apsr12_building_part1_desc:0 "有一个点可以将通信中心放置在异常的覆盖区域。信号之间的任何延迟都将消失，任何命令都将立即传递。这种反常现象所提供的巨大机会使它真正变得宝贵"
+ 
+ tech_apsr12_building_part2:0 "空间后勤"
+ tech_apsr12_building_part2_desc:0 "与通讯中心相邻的物流支持服务，可以在最短的时间内满足我们的物流需求。"
+ 
+ tech_apsr12_building_part3:0 "超级物流"
+ tech_apsr12_building_part3_desc:0 "利用本地物流异常的特点建立的皇家物流服务基地，使我们的物流服务不受任何延误。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.12001.title:0 "$apsr12_building_part1$ 建成"
+ apsr.12001.desc:0 "所有的站点都准备好了。电源稳定。设备就位，准备使用"
+ apsr.12001.ok-button:0 "非常棒"
+ 
+ apsr.12002.title:0 "$apsr12_building_part2$ 建成"
+ apsr.12002.desc:0 "与通讯中心相邻的物流支持服务，可以在最短的时间内满足我们的物流需求。"
+ apsr.12002.ok-button:0 "非常棒"
+ 
+ apsr.12003.title:0 "$apsr12_building_part3$ 建成"
+ apsr.12003.desc:0 "利用本地物流异常的特点建立的皇家物流服务基地，使我们的物流服务不受任何延误。"
+ apsr.12003.ok-button:0 "完美"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.12011.title:0 "发现异常区域: §M$apsr12_planet_modifier$§!"
+ apsr.12011.desc:0 "§H[Root.GetName]§!上的§H[Root.GetLeaderName]§!领导的一个研究小组发现了一个异常区域，几乎所有的信号都可以立即传输。"
+ apsr.12011.button:1 "难以置信!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.12013.title:0 "发现异常区域: §M$apsr12_planet_modifier$§!"
+ apsr.12013.desc:0 "12887-a号事件是在游击队行动中发生的，当时发现了一个异常区，几乎立即传送任何信号。"
+ apsr.12013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.12015.title:0 "发现人造物: §M$apsr12_planet_modifier$§!"
+ apsr.12015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上有一种异常现象，信号几乎是瞬间传输的。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr12_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr12_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr12_resource_planet.Owner.GetName]"
+ apsr.12015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr12_special:0 "$apsr12_planet_modifier$"
+ apsr12_special_desc:0 "$apsr12_planet_modifier_desc$"
+ 
+ APSR12_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR12_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr12_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr12_anomaly:0 "$apsr1_anomaly$"
+ apsr12_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.12601.title:0 "$apsr.12011.title$"
+ apsr.12601.desc:0 "$apsr.12011.desc$"
+ 
+ 
+ 
+ ### новые должности
+ 
+ apsr12_planet_manager_normal:0 "协调者"
+ job_apsr12_manager_normal:0 "协调者"
+ job_apsr12_manager_normal_plural:0 "协调者"
+ job_apsr12_manager_normal_desc:0 "在空间军事化的条件下，拖延一直是主要问题，专业协调员利用这种异常情况解决了这个问题"
+ mod_job_apsr12_manager_normal_add:0 "协调者"
+ 
+ apsr12_planet_manager_hive:0 "协调工蜂"
+ job_apsr12_manager_hive:0 "协调工蜂"
+ job_apsr12_manager_hive_plural:0 "协调工蜂"
+ job_apsr12_manager_hive_desc:0 "空间的物理仍然是一个不便之处，各个部分的反应延迟随着到主脑的距离而增加，这种奇怪的异常改变了一切，无人机从中心毫无延迟地传递信号"
+ mod_job_apsr12_manager_hive_add:0 "协调工蜂"
+ 
+ apsr12_planet_manager_machine:0 "协调单元"
+ job_apsr12_manager_machine:0 "协调单元"
+ job_apsr12_manager_machine_plural:0 "协调单元"
+ job_apsr12_manager_machine_desc:0 "这种特殊的无人机模型将主人工智能的信号传递给直接表演者，不会因为距离大都市太远而延迟"
+ mod_job_apsr12_manager_machine_add:0 "协调单元"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

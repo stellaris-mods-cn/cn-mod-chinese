@@ -1,0 +1,69 @@
+﻿l_simp_chinese:
+
+  # Ship Tech 
+  eac_aw_tech_advanced_carrier:0 "先进的航母设计"
+  eac_aw_tech_advanced_carrier_desc:0 "增加新的舰船模块。\n"
+  
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_TITLE:0 "§H先进的航母设计§!"
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_DESC:0 "这一技术为战列舰开启了先进的航母布局。\n"
+  
+  eac_aw_tech_missile_cruiser:0 "导弹巡洋舰设计"
+  eac_aw_tech_missile_cruiser_desc:0 "增加更多的导弹/鱼雷的舰船模块。\n"
+
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_TITLE:0 "§H解锁功能:§! 导弹巡洋舰船模块"
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_DESC:0 "这项技术为巡洋舰解锁重型导弹巡洋舰布局。"
+
+  eac_aw_tech_light_carrier:0 "轻母巡洋舰设计"
+  eac_aw_tech_light_carrier_desc:0 "增加更多巡洋舰的舰载机库模块。\n"
+ 
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_TITLE:0 "§H解锁功能:§! 轻母巡洋舰模块"
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_DESC:0 "这项技术为巡洋舰解锁轻母布局。\n"
+
+  # Starbase Defense Tech
+  eac_aw_tech_repeatable_starbase_defense_platform_capacity_add:0 "星港防御算法"
+  eac_aw_tech_repeatable_starbase_defense_platform_capacity_add_desc:0 "改进的控制算法增加了可被可靠控制的防御平台的数量。"
+
+  # Admiral
+  eac_aw_tech_precision_ordinance:0 "精密条例"
+  eac_aw_tech_precision_ordinance_desc:0 "这一技术允许训练在轨道轰击中的海军上将。"
+
+  EAC_AW_TECH_UNLOCK_ADMIRAL_GROUND_POUNDER_TITLE:0 "§H解锁舰队司令特质:§! 地面进攻"
+  EAC_AW_TECH_UNLOCK_ADMIRAL_GROUND_POUNDER_DESC:0 "$eac_aw_leader_trait_ground_pounder_desc$"
+
+  # Planetary Bombardment Features
+  eac_aw_tech_nanite_clouds:0 "纳米军事重建"
+  eac_aw_tech_nanite_clouds_desc:0 "纳米机器人是纳米级的机器。军事编程使他们能够在战场上工作。"
+  
+  EAC_AW_TECH_UNLOCK_NANITE_CLOUD_TITLE:0 "§H解锁功能:§! 纳米云"
+  EAC_AW_TECH_UNLOCK_NANITE_CLOUD_DESC:0 "§H纳米云§!\n纳米机器人是纳米级的机器。这些纳米粒子被设定成缓慢重建被轰击摧毁的行星炮。"
+
+  # Sublight Turbocharging
+  eac_aw_tech_sublight_turbocharger_1:0 "亚光速涡轮增压"
+  eac_aw_tech_sublight_turbocharger_1_desc:0 "这一技术增加了亚光速涡轮增压器以提高发动机的速度，几乎没有涡轮滞后。"
+
+  eac_aw_tech_sublight_turbocharger_2:0 "改进的亚光速涡轮增压"
+  eac_aw_tech_sublight_turbocharger_2_desc:0 "这一技术增加了改进的亚光速涡轮增压器以提高发动机的速度，几乎没有涡轮滞后。"
+  
+  eac_aw_tech_sublight_turbocharger_3:0 "先进的亚光速涡轮增压"
+  eac_aw_tech_sublight_turbocharger_3_desc:0 "这一技术增加了先进的亚光速涡轮增压器以提高我们的发动机的速度，几乎没有涡轮滞后。"
+
+  # Station Defense
+  eac_tech_space_defense_station_heavy_1:0 "小型防御平台组件"
+  eac_tech_space_defense_station_heavy_1_desc:0 "通过组件小型化，可以添加较厚的结构和附加的炮塔点，以形成与当前防御平台相同形状和大小的重型防御平台。"
+  eac_tech_space_defense_station_heavy_hull_1:0 "改良重型$military_station_small$结构"
+  eac_tech_space_defense_station_heavy_hull_1_desc:0 "强化的框架和增强冲击吸收的防爆盾将确保重型平台的结构完整性，即使在巨大的压力下。"
+  eac_tech_space_defense_station_heavy_hull_2:0 "先进重型$military_station_small$结构"
+  eac_tech_space_defense_station_heavy_hull_2_desc:0 "最新的重型平台船体优化结构完整性和改善舱壁。"
+  eac_tech_large_gun_citadel:0 "大型炮座"
+  eac_tech_large_gun_citadel_desc:0 "一个拥有大型火炮的壁垒。"
+
+  # fix AI with Radar
+  eac_aw_tech_carrier_ai_radar:0 "载波雷达AI定位"
+  eac_aw_tech_carrier_ai_radar_desc:0 "$eac_aw_tech_carrier_ai_radar$"
+
+  # Space Marines
+  eac_aw_tech_space_marines:0 "战斗专业化-太空陆战队"
+  eac_aw_tech_space_marines_desc:0 "把最好最优秀的士兵训练成优秀的太空陆战队员。"
+
+ eac_tech_repeatable_reshuffle:0 "重新考虑选择"
+ eac_tech_repeatable_reshuffle_desc:0 "把你的科学家送回来，提出新的想法。"

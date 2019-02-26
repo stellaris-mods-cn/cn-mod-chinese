@@ -1,0 +1,16 @@
+﻿l_simp_chinese:
+ ####################################
+ # Traits
+ ####################################
+
+ trait_ex_divine:0 "神圣"
+ trait_ex_divine_desc:0 "§L这个物种将比恒星本身更长寿。§!"
+ trait_ex_celestial:0 "神仙"
+ trait_ex_celestial_desc:0 "§L这个物种远远超过其他物种，难怪他们有时被视为神。§!"
+ trait_ex_high_caste:0 "高种姓"
+ trait_ex_high_caste_desc:0 "§L经过几个世纪的基因和控制论改造，形成了一个不朽的统治阶级。§!"
+ trait_ex_low_caste:0 "低种姓"
+ trait_ex_low_caste_desc:0 "§L大量的扩张确保了帝国的奴隶们不仅服从于他们的统治者，而且会欣喜若狂地为他们的每一个心血来潮服务。§!"
+ leader_trait_supreme_tactician:0 "活着的传奇"
+ leader_trait_supreme_tactician_desc:0 "§L只有最伟大的船长才被认为是有生存能力的海军上将，即便如此，他们也必须花费数年时间为自己的角色做准备。因此，在他们指挥下的军官给予他们绝对的忠诚。§!"
+

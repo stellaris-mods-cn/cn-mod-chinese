@@ -1,0 +1,121 @@
+﻿l_simp_chinese:
+
+ apsr_debug.1.title:0 "调试模式"
+ apsr_debug.1.desc:0 "星球资源的手动设置"
+ 
+ apsr_debug.1.nextpage:1 "其他资源"
+ apsr_debug.1.nextpage.tooltip:1 "使用其他资源"
+ apsr_debug.1.close:1 "关闭"
+ 
+ apsr_debug.1.1.yes:1 "§Y资源 1 - §G存在§!§!"
+ apsr_debug.1.1.yes.tooltip:1 "§Y资源 1 - §M$apsr1002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.1.no:1 "§Y资源 1 - §R不存在§!§!"
+ apsr_debug.1.1.no.tooltip:1 "§Y资源 1 - §M$apsr1002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.2.yes:1 "§Y资源 2 - §G存在§!§!"
+ apsr_debug.1.2.yes.tooltip:1 "§Y资源 2 - §M$apsr2002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.2.no:1 "§Y资源 2 - §R不存在§!§!"
+ apsr_debug.1.2.no.tooltip:1 "§Y资源 2 - §M$apsr2002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.3.yes:1 "§Y资源 3 - §G存在§!§!"
+ apsr_debug.1.3.yes.tooltip:1 "§Y资源 3 - §M$apsr3002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.3.no:1 "§Y资源 3 - §R不存在§!§!"
+ apsr_debug.1.3.no.tooltip:1 "§Y资源 3 - §M$apsr3002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.4.yes:1 "§Y资源 4 - §G存在§!§!"
+ apsr_debug.1.4.yes.tooltip:1 "§Y资源 4 - §M$apsr4002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.4.no:1 "§Y资源 4 - §R不存在§!§!"
+ apsr_debug.1.4.no.tooltip:1 "§Y资源 4 - §M$apsr4002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.5.yes:1 "§Y资源 5 - §G存在§!§!"
+ apsr_debug.1.5.yes.tooltip:1 "§Y资源 5 - §M$apsr5002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.5.no:1 "§Y资源 5 - §R不存在§!§!"
+ apsr_debug.1.5.no.tooltip:1 "§Y资源 5 - §M$apsr5002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.6.yes:1 "§Y资源 6 - §G存在§!§!"
+ apsr_debug.1.6.yes.tooltip:1 "§Y资源 6 - §M$apsr6002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.6.no:1 "§Y资源 6 - §R不存在§!§!"
+ apsr_debug.1.6.no.tooltip:1 "§Y资源 6 - §M$apsr6002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.7.yes:1 "§Y资源 7 - §G存在§!§!"
+ apsr_debug.1.7.yes.tooltip:1 "§Y资源 7 - §M$apsr7002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.7.no:1 "§Y资源 7 - §R不存在§!§!"
+ apsr_debug.1.7.no.tooltip:1 "§Y资源 7 - §M$apsr7002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.8.yes:1 "§Y资源 8 - §G存在§!§!"
+ apsr_debug.1.8.yes.tooltip:1 "§Y资源 8 - §M$apsr8002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.8.no:1 "§Y资源 8 - §R不存在§!§!"
+ apsr_debug.1.8.no.tooltip:1 "§Y资源 8 - §M$apsr8002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.9.yes:1 "§Y资源 9 - §G存在§!§!"
+ apsr_debug.1.9.yes.tooltip:1 "§Y资源 9 - §M$apsr9002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.9.no:1 "§Y资源 9 - §R不存在§!§!"
+ apsr_debug.1.9.no.tooltip:1 "§Y资源 9 - §M$apsr9002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.1.10.yes:1 "§Y资源 10 - §G存在§!§!"
+ apsr_debug.1.10.yes.tooltip:1 "§Y资源 10 - §M$apsr10002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.1.10.no:1 "§Y资源 10 - §R不存在§!§!"
+ apsr_debug.1.10.no.tooltip:1 "§Y资源 10 - §M$apsr10002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.title:0 "$apsr_debug.1.title$"
+ apsr_debug.2.desc:0 "$apsr_debug.1.desc$"
+ 
+ apsr_debug.2.nextpage:1 "$apsr_debug.1.nextpage$"
+ apsr_debug.2.nextpage.tooltip:1 "$apsr_debug.1.nextpage.tooltip$"
+ apsr_debug.2.close:1 "$apsr_debug.1.close$"
+ 
+ apsr_debug.2.11.yes:1 "§Y资源 11 - §G存在§!§!"
+ apsr_debug.2.11.yes.tooltip:1 "§Y资源 11 - §M$apsr11002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.11.no:1 "§Y资源 11 - §R不存在§!§!"
+ apsr_debug.2.11.no.tooltip:1 "§Y资源 11 - §M$apsr11002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.12.yes:1 "§Y资源 12 - §G存在§!§!"
+ apsr_debug.2.12.yes.tooltip:1 "§Y资源 12 - §M$apsr12002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.12.no:1 "§Y资源 12 - §R不存在§!§!"
+ apsr_debug.2.12.no.tooltip:1 "§Y资源 12 - §M$apsr12002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.13.yes:1 "§Y资源 13 - §G存在§!§!"
+ apsr_debug.2.13.yes.tooltip:1 "§Y资源 13 - §M$apsr13002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.13.no:1 "§Y资源 13 - §R不存在§!§!"
+ apsr_debug.2.13.no.tooltip:1 "§Y资源 13 - §M$apsr13002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.14.yes:1 "§Y资源 14 - §G存在§!§!"
+ apsr_debug.2.14.yes.tooltip:1 "§Y资源 14 - §M$apsr14002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.14.no:1 "§Y资源 14 - §R不存在§!§!"
+ apsr_debug.2.14.no.tooltip:1 "§Y资源 14 - §M$apsr14002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.15.yes:1 "§Y资源 15 - §G存在§!§!"
+ apsr_debug.2.15.yes.tooltip:1 "§Y资源 15 - §M$apsr15002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.15.no:1 "§Y资源 15 - §R不存在§!§!"
+ apsr_debug.2.15.no.tooltip:1 "§Y资源 15 - §M$apsr15002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.16.yes:1 "§Y资源 16 - §G存在§!§!"
+ apsr_debug.2.16.yes.tooltip:1 "§Y资源 16 - §M$apsr16002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.16.no:1 "§Y资源 16 - §R不存在§!§!"
+ apsr_debug.2.16.no.tooltip:1 "§Y资源 16 - §M$apsr16002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.17.yes:1 "§Y资源 17 - §G存在§!§!"
+ apsr_debug.2.17.yes.tooltip:1 "§Y资源 17 - §M$apsr17002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.17.no:1 "§Y资源 17 - §R不存在§!§!"
+ apsr_debug.2.17.no.tooltip:1 "§Y资源 17 - §M$apsr17002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.18.yes:1 "§Y资源 18 - §G存在§!§!"
+ apsr_debug.2.18.yes.tooltip:1 "§Y资源 18 - §M$apsr18002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.18.no:1 "§Y资源 18 - §R不存在§!§!"
+ apsr_debug.2.18.no.tooltip:1 "§Y资源 18 - §M$apsr18002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.19.yes:1 "§Y资源 19 - §G存在§!§!"
+ apsr_debug.2.19.yes.tooltip:1 "§Y资源 19 - §M$apsr19002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.19.no:1 "§Y资源 19 - §R不存在§!§!"
+ apsr_debug.2.19.no.tooltip:1 "§Y资源 19 - §M$apsr19002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ apsr_debug.2.20.yes:1 "§Y资源 20 - §G存在§!§!"
+ apsr_debug.2.20.yes.tooltip:1 "§Y资源 20 - §M$apsr20002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
+ apsr_debug.2.20.no:1 "§Y资源 20 - §R不存在§!§!"
+ apsr_debug.2.20.no.tooltip:1 "§Y资源 20 - §M$apsr20002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
+ 
+ 
+ 
+ 
+ 
+ 

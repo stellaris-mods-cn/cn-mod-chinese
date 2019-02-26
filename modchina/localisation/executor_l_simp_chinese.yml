@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Hull Sizes
+ ####################################
+ 
+ executor:0 "执行者超级歼星舰"
+ executor_pural:0 "超级歼星舰"
+ 
+ ####################################
+ # Ship Sections
+ ####################################
+ 
+ EXECUTOR_BOW:0 "执行者舰首"
+ EXECUTOR_MID1:0 "执行者中段I"
+ EXECUTOR_MID2:0 "执行者中段II"
+ EXECUTOR_MID3:0 "执行者中段III"
+ EXECUTOR_STERN:0 "Executor Stern"
+ 
+ ####################################
+ # Ship Components
+ ####################################
+ 
+ EXECUTOR_CORE: "执行者核心"
+ EXECUTOR_THRUSTER: "执行者推进器"
+ EXECUTOR_REACTOR: "执行者能源"

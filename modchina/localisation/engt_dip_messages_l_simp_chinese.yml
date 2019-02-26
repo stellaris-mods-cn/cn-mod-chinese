@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+####################################
+ # Diplomacy text
+ ####################################
+ 
+ # Jignostic Heirs
+ EJH_HOSTILE_GREETING_1:0 "你想要什么?"
+ EJH_HOSTILE_GREETING_2:0 "你想要我们的技术?我们将举行一次实战演习."
+ EJH_HOSTILE_GREETING_3:0 "和平是一种平静，而我们是风暴."
+ EJH_HOSTILE_GREETING_MH:0 "你是为真正的继承人服务的，而不是为他们服务。"
+ 
+ EJH_DOMINEERING_GREETING_1:0 "你是我们的利益，但你的领土不是。"
+
+ EJH_NEUTRAL_GREETING_1:0 "你还没有对我们有信心……"
+ EJH_NEUTRAL_GREETING_2:0 "我们不知道该如何看待你，但我们知道你不是我们的竞争者。"
+ EJH_NEUTRAL_GREETING_3:0 ""
+ EJH_NEUTRAL_GREETING_4:0 "所以你知道你的武器的最后会杀了什么好东西，你可能会被证明是个挑战。"
+ EJH_NEUTRAL_GREETING_5:0 "问候兄弟姐妹，我们还不知道该如何对待你。"
+ EJH_NEUTRAL_GREETING_6:0 "我不知道我们共同的父母在你们的创造中看到了什么，但我知道，如果需要，我们会保护自己。"
+ EJH_NEUTRAL_GREETING_7:0 ""
+ 
+ EJH_THREATENED_GREETING_1:0 "要知道，你已经得到了我们的注意，而不是你所希望的那种。"
+ 
+ EJH_FRIENDLY_GREETING_1:0 "也许你的朋友比我们还多。"
+ EJH_FRIENDLY_GREETING_2:0 "让你的帝国保持独立或许是值得的。"
+ EJH_FRIENDLY_GREETING_3:0 "即使在索勒风里，也有灰尘和一些尘土变成了宝石。"
+ EJH_FRIENDLY_GREETING_4:0 "虽然我们可能不同意和平，但这是朋友的忠告。真正的平静和抱怨是有区别的。"
+ EJH_FRIENDLY_GREETING_5:0 "我们不会分享我们的技术……但是像你这样的小蜘蛛，在它们最后的时候，会让这样的人变得更有价值。"
+ 
+ EJH_WAR_GREETING_1:0 "星火和长矛真正的继承人在你身上!"
+ EJH_WAR_GREETING_2:0 "你会学到我们应该得到的尊重!"
+ EJH_WAR_GREETING_3:0 "这场战争在开始之前就结束了"
+ 
+ EJH_VASSAL_GREETING_1:0 "如果地幔要和像你这样强大的物种一起存在，我们可以接受它。"
+ EJH_VASSAL_GREETING_DISLOYAL_1:0 "我们要夺回独立，这只是时间的问题，然后我们就来找你。"
+ 
+ 

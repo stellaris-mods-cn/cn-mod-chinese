@@ -1,0 +1,11 @@
+﻿l_simp_chinese: 
+ABDUCT:1 "掠夺之握" 
+ABDUCT_DESC:0 "大功率牵引光束能成批地劫掠行星人口，并将其传输至我方境内。" 
+tech_pk_abduct:0 "大功率牵引光束" 
+tech_pk_abduct_desc:0 "大功率牵引光束能成批地劫掠行星人口。" 
+FLEETORDER_DESTROY_PLANET_WITH_ABDUCT:0 "正在准备夺取$PLANET|Y$上的民众" 
+MESSAGE_DESC_FOR_ABDUCT:0 "被劫掠" 
+mcpk.701.name:0 "劫掠[From.GetName]的行动成功" 
+mcpk.701.desc:0 "对[From.GetName]上的民众而言，大量人口在[From.From.GetName]出现在行星上空之后无端消失了。" 
+mcpk.701.tooltip:0 "在[From.GetName]上最大程度地夺取了当地的民众" 
+ABDUCT_ACTION:0 "劫掠" 

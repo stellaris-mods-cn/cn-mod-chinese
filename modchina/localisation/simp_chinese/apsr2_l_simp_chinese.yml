@@ -1,0 +1,201 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr2_planet_modifier:0 "深渊"
+ apsr2_planet_modifier_desc:0 "我们的研究人员在这个地方发现了一个很深的裂口，许多裂口和洞穴都含有丰富的矿物质。我们可以开始开发它们，但有一件事令人不安:我们的传感器无法确定这个深渊的深度……"
+ 
+ apsr2_deposit:0 "$apsr2_planet_modifier$"
+ apsr2_deposit_desc:0 "$apsr2_planet_modifier_desc$\n\n§M$apsr2_deposit_effect$§!" 
+ apsr2_deposit_effect:0 "独特的资源可用: $apsr2_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr2_building_part1_text:0 "§Y深渊矿井§!开发接近地表的矿藏。"
+ 
+ apsr2_building_part2_text:0 "§Y深渊矿井§!位于深渊矿藏上部区域。"
+ 
+ apsr2_building_part3_text:0 "§Y深渊矿井§!深渊矿井在深渊的深处开发矿藏。"
+ 
+ apsr2_building_part4_text:0 "深渊的深井达到一个很大的深度，那里有更多的矿物。"
+ 
+ apsr2_building_part5_text:0 "整个深渊现在都是我们的了，我们有足够的矿藏!"
+ 
+ apsr2_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr2_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr2_building_part1:0 "深渊矿井"
+ apsr2_building_part1_desc:0 "$apsr2_building_predesc$\n$apsr2_building_part1_text$"
+ 
+ apsr2_building_part2:0 "深渊矿井"
+ apsr2_building_part2_desc:0 "$apsr2_building_predesc$\n$apsr2_building_part2_text$"
+ 
+ apsr2_building_part3:0 "深渊矿井"
+ apsr2_building_part3_desc:0 "$apsr2_building_predesc$\n$apsr2_building_part3_text$"
+ 
+ apsr2_building_part4:0 "深渊矿井"
+ apsr2_building_part4_desc:0 "$apsr2_building_predesc$\n$apsr2_building_part4_text$"
+ 
+ apsr2_building_part5:0 "深渊矿井"
+ apsr2_building_part5_desc:0 "$apsr2_building_predesc$\n$apsr2_building_part5_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr2_building_part1_fake:0 "$apsr2_building_part1$"
+ apsr2_building_part1_fake_desc:0 "$apsr2_building_fake_predesc$\n$apsr2_building_part1_text$"
+ 
+ apsr2_building_part2_fake:0 "$apsr2_building_part2$"
+ apsr2_building_part2_fake_desc:0 "$apsr2_building_fake_predesc$\n$apsr2_building_part2_text$"
+ 
+ apsr2_building_part3_fake:0 "$apsr2_building_part3$"
+ apsr2_building_part3_fake_desc:0 "$apsr2_building_fake_predesc$\n$apsr2_building_part3_text$"
+ 
+ apsr2_building_part4_fake:0 "$apsr2_building_part3$"
+ apsr2_building_part4_fake_desc:0 "$apsr2_building_fake_predesc$\n$apsr2_building_part4_text$"
+ 
+ apsr2_building_part5_fake:0 "$apsr2_building_part3$"
+ apsr2_building_part5_fake_desc:0 "$apsr2_building_fake_predesc$\n$apsr2_building_part5_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr2_building_part1:0 "深渊:开始"
+ tech_apsr2_building_part1_desc:0 "利用我们的技术，我们可以开始开采接近地表的矿物，而不用冒着坠入深渊的风险。"
+ 
+ tech_apsr2_building_part2:0 "深渊: 穷途末路"
+ tech_apsr2_building_part2_desc:0 "有了更先进的技术，我们就能向深渊深处推进。"
+ 
+ tech_apsr2_building_part3:0 "深渊: 只有向前"
+ tech_apsr2_building_part3_desc:0 "利用我们的地雷和更强大的能源所积累的经验，我们将能够进一步走向深渊!"
+ 
+ tech_apsr2_building_part4:0 "深渊: 深度"
+ tech_apsr2_building_part4_desc:0 "要往下走得更深，需要对深渊进行大量的调查。结果，我们得到了更多更深入的领域。我们从未到过星球表面以下这么远的地方。"
+ 
+ tech_apsr2_building_part5:0 "深渊: 到达底部"
+ tech_apsr2_building_part5_desc:0 "看来我们已经非常接近深渊的底部了。在通讯中断之前，我们的探测器给我们发了一条信息，说有什么东西挡住了我们进入深海的路。是时候看看里面有什么了!"
+ 
+  
+ 
+ ### сообщения при постройке зданий 
+ 
+ apsr.2001.title:0 "深渊:开始"
+ apsr.2001.desc:0 "好消息!能从深渊中提取矿物的建筑成功建成。当然，只有靠近地表的矿藏才会被开采，但通过开发我们的技术，我们将能够到达更深的地方。 \n这一事件被唯一的一件事蒙上了阴影——一些勇敢的灵魂坠入深渊并消失了，探测器被派去寻找他们——他们也消失了。好像深渊不希望我们发现什么…"
+ apsr.2001.ok-button:0 "禁止带著空间的命令下地狱"
+ 
+ apsr.2002.title:0 "深渊: 穷途末路"
+ apsr.2002.desc:0 "矿井继续向深渊深处扩展。再往深处一点点，我们就发现了一些更丰富的矿藏。也许在更深处有更多的矿物!我们需要开发我们的技术并扩大矿井。 \n所有被送入深渊的探测器都完全消失了。此外，我们的深渊在其他帝国也很有名，很多生物都在试图穿越深渊。一些人设法下去探索，另一些人像以前一样消失了。我想知道深渊隐藏着什么样的秘密……"
+ apsr.2002.ok-button:0 "解这个谜是必要的"
+ 
+ apsr.2003.title:0 "深渊: 只有向前"
+ apsr.2003.desc:0 "深渊雷不仅是我们帝国中最深的地方，也是整个已知星系中最深的地方。我们下得越深，发现的矿藏就越丰富。如果这种情况继续下去，深渊矿将成为我们帝国取之不尽的资源! \n我们不太可能试图穿透深渊，最有可能的是之前的失败吓跑了所有的新来者。调查我们所能到达的深渊的深度，并找出我们如何才能更深入，将是有益的。"
+ apsr.2003.ok-button:0 "分配研究经费!"
+ 
+ apsr.2004.title:0 "深渊: 深度"
+ apsr.2004.desc:0 "在我们到达的深度，深渊本身就是由纯矿物构成的。提取它们非常容易，而且开采过程达到了前所未有的强度。然而，这还不是深渊的底部。我们需要学习如何建造真正巨大和不朽的建筑，最终到达底部!"
+ apsr.2004.ok-button:0 "很快..."
+ 
+ apsr.2005.title:0 "深渊: 到达底部"
+ apsr.2005.desc:0 "深渊的底部……我们还没有达到这个目标，可能在未来几十年也不会达到。所有这一切都是因为整个未经探索的深度都堆满了船只、探测仪和闯入其中的胆小鬼的尸体。我们的传感器无法确定这个“墓地”的尽头在哪里。 \n所有的飞船都完好无损地坠入深渊，我们的探测器也安然无恙。尽管探测器可以被重新激活，但没有关于它们的记录信息。就好像他们跳入深渊后立即断开了联系。我们找不到原因，至少找不到一个合适的解释。 \n洞本身也含有纯矿物，这将进一步提高开采水平。此外，通过调查来自深渊的船只，我们可以找到一些有趣的工程解决方案。"
+ apsr.2005.ok-button:0 "也许我们永远不会知道答案，但深渊是值得的"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.2011.title:0 "发现异常现象: $apsr2002$"
+ apsr.2011.desc:0 "星球扫描时,科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!发现一些不寻常的东西。\n在这个星球上已经发现了一个深渊裂缝，许多裂缝和洞穴含有丰富的矿藏。我们可以开始开发它们，但有一件事让我们担心:我们的传感器无法确定这个深渊的深度……"
+ apsr.2011.button:1 "我想知道，底部是什么?"
+
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.2013.title:0 "发现了一个不寻常的现象: $apsr2002$"
+ apsr.2013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西! \n在这个星球上，人们发现了一个很深的裂口，无数的裂缝和含有丰富矿藏的洞穴。我们可以开始开发它们，但有一件事让我们担心:我们的传感器无法确定这个深渊的深度……"
+ apsr.2013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.2015.title:0 "发现人造物: §M$apsr2_planet_modifier$§!"
+ apsr.2015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一个行星上有一个巨大的深渊，无数的裂缝和洞穴中含有丰富的矿藏。但有一件事令人不安:星球主人的传感器无法确定这个深渊的深度……\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr2_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr2_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr2_resource_planet.Owner.GetName]"
+ apsr.2015.button:1 "有趣!"
+ 
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr2_special:0 "$apsr2_planet_modifier$"
+ apsr2_special_desc:0 "$apsr2_planet_modifier_desc$"
+ 
+ APSR2_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR2_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr2_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr2_anomaly:0 "$apsr1_anomaly$"
+ apsr2_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.2601.title:0 "$apsr.2011.title$"
+ apsr.2601.desc:0 "$apsr.2011.desc$"
+ 
+ 
+
+ ### новые должности
+  
+ apsr2_planet_geologist_normal:0 "星球物理学家"
+ job_apsr2_geologist_normal:0 "星球物理学家"
+ job_apsr2_geologist_normal_plural:0 "星球物理学家"
+ job_apsr2_geologist_normal_desc:0 "一名研究深渊的物理性质、化学和矿物组成的专家分析了在极端深度采矿的方法"
+ mod_job_apsr2_geologist_normal_add:0 "星球物理学家"
+ 
+ apsr2_planet_geologist_hive:0 "星球物理学工蜂"
+ job_apsr2_geologist_hive:0 "星球物理学工蜂"
+ job_apsr2_geologist_hive_plural:0 "星球物理学工蜂"
+ job_apsr2_geologist_hive_desc:0 "通过研究深渊的物理性质、化学成分和矿物组成，分析了在极端深度采矿的方法"
+ mod_job_apsr2_geologist_hive_add:0 "星球物理学工蜂"
+ 
+ apsr2_planet_geologist_machine:0 "星球物理学单元"
+ job_apsr2_geologist_machine:0 "星球物理学单元"
+ job_apsr2_geologist_machine_plural:0 "星球物理学单元"
+ job_apsr2_geologist_machine_desc:0 "单元研究了深渊的物理性质、化学成分和矿物组成，分析了在极端深度采矿的方法"
+ mod_job_apsr2_geologist_hive_add:0 "星球物理学单元"
+  
+  
+ apsr2_planet_miner_normal:0 "深渊矿工"
+ job_apsr2_miner_normal:0 "深渊矿工"
+ job_apsr2_miner_normal_plural:0 "深渊矿工"
+ job_apsr2_miner_normal_desc:0 "深渊矿工在深渊的条件下工作，是专业人员的最高标准，极端的条件和对生命的不断威胁，使他们成为宝贵的专业人员"
+ mod_job_apsr2_miner_normal_add:0 "深渊矿工"
+  
+ apsr2_planet_miner_hive:0 "深渊采矿工蜂"
+ job_apsr2_miner_hive:0 "深渊采矿工蜂"
+ job_apsr2_miner_hive_plural:0 "深渊采矿工蜂"
+ job_apsr2_miner_hive_desc:0 "极端的资源开采条件导致了工蜂的高死亡率，但是矿物的价值让我们可以接受损失"
+ mod_job_apsr2_miner_hive_add:0 "深渊采矿工蜂"
+  
+ apsr2_planet_miner_machine:0 "深渊采矿单元"
+ job_apsr2_miner_machine:0 "深渊采矿单元"
+ job_apsr2_miner_machine_plural:0 "深渊采矿单元"
+ job_apsr2_miner_machine_desc:0 "深渊采矿单元使用最新的导航系统，按照最严格的安全协议，考虑到安装设备的成本，有必要监控每架无人机在这种极端地区的安全"
+ mod_job_apsr2_miner_machine_add:0 "深渊采矿单元"
+ 

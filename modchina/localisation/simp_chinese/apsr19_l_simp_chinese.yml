@@ -1,0 +1,208 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr19_planet_modifier:0 "远古食物综合体"
+ apsr19_planet_modifier_desc:0 "这个星球是一个古老文明的食品工厂。不幸的是，它被破坏了很长一段时间，但它可以恢复"
+ 
+ apsr19_deposit:0 "$apsr19_planet_modifier$"
+ apsr19_deposit_desc:0 "$apsr19_planet_modifier_desc$\n\n§M$apsr19_deposit_effect$§!" 
+ apsr19_deposit_effect:0 "独特的资源可用: $apsr19_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr19_building_part_b1_text:0 "古人昔日荣耀的影子"
+ 
+ apsr19_building_part_b2_text:0 "被修复的食物综合体的一小部分"
+ 
+ apsr19_building_part_b3_text:0 "部分修复的食物综合体"
+ 
+ 
+ apsr19_building_part_m1_text:0 "古人昔日荣耀的影子"
+ 
+ apsr19_building_part_m2_text:0 "为从工厂获取电力而改造的食品工厂的一小部分。"
+ 
+ apsr19_building_part_m3_text:0 "部分修复的食品厂被误认为是从工厂获得电力"
+ 
+ 
+ apsr19_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr19_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr19_building_part_b1:0 "远古食物综合体: 蓝图"
+ apsr19_building_part_b1_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_b1_text$"
+ 
+ apsr19_building_part_b2:0 "远古食物综合体: 部分"
+ apsr19_building_part_b2_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_b2_text$"
+ 
+ apsr19_building_part_b3:0 "远古食物综合体"
+ apsr19_building_part_b3_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_b3_text$"
+ 
+  
+ apsr19_building_part_m1:0 "修复后的远古食物综合体: 蓝图"
+ apsr19_building_part_m1_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_m1_text$"
+ 
+ apsr19_building_part_m2:0 "修复后的远古食物综合体: 部分"
+ apsr19_building_part_m2_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_m2_text$"
+ 
+ apsr19_building_part_m3:0 "修复后的远古食物综合体"
+ apsr19_building_part_m3_desc:0 "$apsr19_building_predesc$\n$apsr19_building_part_m3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr19_building_part_b1_fake:0 "$apsr19_building_part_b1$"
+ apsr19_building_part_b1_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_b1_text$"
+ 
+ apsr19_building_part_b2_fake:0 "$apsr19_building_part_b2$"
+ apsr19_building_part_b2_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_b2_text$"
+ 
+ apsr19_building_part_b3_fake:0 "$apsr19_building_part_b3$"
+ apsr19_building_part_b3_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_b3_text$"
+ 
+  
+ apsr19_building_part_m1_fake:0 "$apsr19_building_part_m1$"
+ apsr19_building_part_m1_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_m1_text$"
+ 
+ apsr19_building_part_m2_fake:0 "$apsr19_building_part_m2$"
+ apsr19_building_part_m2_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_m2_text$"
+ 
+ apsr19_building_part_m3_fake:0 "$apsr19_building_part_m3$"
+ apsr19_building_part_m3_fake_desc:0 "$apsr19_building_fake_predesc$\n$apsr19_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr19_building_part_b1:0 "古人荣耀的复兴: 阶段 1"
+ tech_apsr19_building_part_b1_desc:0 "古器物可以而且必须使用。"
+ 
+ tech_apsr19_building_part_b2:0 "古人荣耀的复兴: 阶段 2"
+ tech_apsr19_building_part_b2_desc:0 "古器物可以而且必须使用。"
+ 
+ tech_apsr19_building_part_b3:0 "古人荣耀的复兴: 阶段 3"
+ tech_apsr19_building_part_b3_desc:0 "古器物可以而且必须使用。"
+ 
+ 
+ tech_apsr19_building_part_m1:0 "古人荣耀的复兴: 阶段 1"
+ tech_apsr19_building_part_m1_desc:0 "古器物可以而且必须使用。"
+ 
+ tech_apsr19_building_part_m2:0 "古人荣耀的复兴: 阶段 2"
+ tech_apsr19_building_part_m2_desc:0 "古器物可以而且必须使用。"
+ 
+ tech_apsr19_building_part_m3:0 "古人荣耀的复兴: 阶段 3"
+ tech_apsr19_building_part_m3_desc:0 "古器物可以而且必须使用。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.19001.title:0 "$apsr19_building_part_b1$ 建成"
+ apsr.19001.desc:0 "我们已经建造了第一个§Y$apsr19_building_part_b1$§!，并且刚刚开始获得古人以前的荣耀"
+ apsr.19001.ok-button:0 "奈斯"
+ 
+ apsr.19002.title:0 "$apsr19_building_part_b2$ 建成"
+ apsr.19002.desc:0 "我们恢复了第一个§Y$apsr19_building_part_b2$§!!这是农业和研究古人的一个真正的突破"
+ apsr.19002.ok-button:0 "美妙"
+ 
+ apsr.19003.title:0 "$apsr19_building_part_b3$ 建成"
+ apsr.19003.desc:0 "我们部分恢复了§Y远古食物综合体§!并进入了古代的农业工业"
+ apsr.19003.ok-button:0 "很好"
+ 
+ apsr.19004.title:0 "$apsr19_building_part_m1$ 建成"
+ apsr.19004.desc:0 "我们已经建立了第一个§Y$apsr19_building_part_m1$§!，这只是恢复古人昔日荣耀的开始"
+ apsr.19004.ok-button:0 "很好"
+ 
+ apsr.19005.title:0 "$apsr19_building_part_m2$ 建成"
+ apsr.19005.desc:0 "我们恢复了第一个§Y$apsr19_building_part_m2$§!!这是能量学和古人研究的真正突破"
+ apsr.19005.ok-button:0 "很好"
+ 
+ apsr.19006.title:0 "$apsr19_building_part_m3$ 建成"
+ apsr.19006.desc:0 "我们部分恢复了§Y修复后的远古食物综合体§!并且获得了古人能量学的力量!"
+ apsr.19006.ok-button:0 "很好"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.19011.title:0 "发现一个人造物: §M$apsr19_planet_modifier$§!"
+ apsr.19011.desc:0 "科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!领导的研究小组发现了一些奇怪的东西! \n这个星球是一个古老文明的食品工厂。不幸的是，它已经被破坏了很长一段时间，但它可以恢复"
+ apsr.19011.button:1 "We must get this artifact!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.19013.title:0 "发现一个人造物: §M$apsr19_planet_modifier$§!"
+ apsr.19013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西! \n这个星球是一个古老文明的食品工厂。不幸的是，它已经被破坏了很长一段时间，但它可以恢复"
+ apsr.19013.button:1 "很好!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.19015.title:0 "发现人造物: §M$apsr19_planet_modifier$§!"
+ apsr.19015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\nOn one of the planets is the food complex of the once existing civilization. Unfortunately for a long time destroyed, but to be restored.\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr19_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr19_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr19_resource_planet.Owner.GetName]"
+ apsr.19015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr19_special:0 "$apsr19_planet_modifier$"
+ apsr19_special_desc:0 "$apsr19_planet_modifier_desc$"
+ 
+ APSR19_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR19_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr19_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr19_anomaly:0 "有趣的数据"
+ apsr19_anomaly_desc:0 "在对[From.GetName]行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.19601.title:0 "$apsr.19011.title$"
+ apsr.19601.desc:0 "$apsr.19011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr19_planet_agronomist_normal:0 "农学家"
+ job_apsr19_agronomist_normal:0 "农学家"
+ job_apsr19_agronomist_normal_plural:0 "农学家"
+ job_apsr19_agronomist_normal_desc:0 "具有丰富的农学知识的农业专家"
+ mod_job_apsr19_agronomist_normal_add:0 "农学家"
+ 
+ apsr19_planet_agronomist_hive:0 "农学工蜂"
+ job_apsr19_agronomist_hive:0 "农学工蜂"
+ job_apsr19_agronomist_hive_plural:0 "农学工蜂"
+ job_apsr19_agronomist_hive_desc:0 "工蜂监督土壤肥力和植物生长的维护"
+ mod_job_apsr19_agronomist_hive_add:0 "农学工蜂"
+ 
+ 
+ 
+ apsr19_planet_power_engineer_machine:0 "动力单元"
+ job_apsr19_power_engineer_machine:0 "动力单元"
+ job_apsr19_power_engineer_machine_plural:0 "动力单元"
+ job_apsr19_power_engineer_machine_desc:0 "这个单元模型有一个改进的自主AI，它的主要任务是监控设备的运行，普通技术单元的工作，以及能源生产过程的优化"
+ mod_job_apsr19_power_engineer_machine_add:0 "动力单元"
+ 
+ 
+ 
+ 
+ 

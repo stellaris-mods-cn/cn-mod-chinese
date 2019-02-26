@@ -1,0 +1,210 @@
+﻿l_simp_chinese:
+
+ #
+ 
+ BLOOD_GOD_NEEDS_BLOOD:0 "$TRIGGER_FAIL$§Y血神§!需要血液。"
+
+ ####################################
+ # Traits
+ ####################################
+ 
+ leader_trait_deity:0 "神性"
+ leader_trait_deity_desc:0 "这位领袖拥有难以理解的灵能力量，一个§M神§!,一切如你所愿。"
+
+ 
+ ###############
+ # Authorities #
+ ###############
+
+ auth_deity:0 "神的规则"
+ auth_deity_desc:0 "神圣的政府被一种无法理解的超能力所统治，它控制着整个国家。"
+ 
+ AUTHORITY_GOD:0 "被永远的统治者统治着。\n "
+ AUTH_DEITY_IMMORTAL_RULER:0 "统治者是§H不朽的§!"
+ AUTH_DEITY_ASCENSION_RESTRICTIONS:0 "不能选择§H合成人飞升§!"
+ 
+ ###############
+ # Governments #
+ ###############
+ 
+ gov_holy_empire:0 "神圣帝国"
+ gov_holy_empire_desc:0 "这个政府是一种唯心主义的专制政体，建立在一种难以理解的灵能力量的基础之上。"
+ gov_holy_pant:0 "神圣的万神殿"
+ gov_holy_pant_desc:0 "这个政府是一种唯心主义的专制形式，围绕着多种不可思议的灵能力量而建立。"
+ 
+ gov_war_god:0 "战争之神"
+ gov_war_god_desc:0 "这个政府是一种军国主义形式的专制，围绕着一个代表战争的不可理解的灵能力量。"
+ gov_war_pant:0 "战争万神殿"
+ gov_war_pant_desc:0 "这个政府是一种军国主义形式的独裁统治，建立在多个存有不可思议的灵能力量的基础上，拥有极高权力的神代表战争的各个方面。"
+ gov_peace_god:0 "和平之神"
+ gov_peace_god_desc:0 "这个政府是一种和平主义的专制政体，建立在一种无法理解的灵能力量的基础上，它代表着和平的各个方面。"
+ gov_peace_pant:0 "和平万神殿"
+ gov_peace_pant_desc:0 "这个政府是一种和平主义的专制形式，它围绕着许多具有不可思议的灵能力量的人建立起来，拥有极高权力的神代表着和平的各个方面。"
+ gov_liberty_god:0 "自由之神"
+ gov_liberty_god_desc:0 "这个政府是一种自由主义专制形式，建立在一种无法理解的灵能力量的基础上，它代表着自由的方方面面。"
+ gov_liberty_pant:0 "自由万神殿"
+ gov_liberty_pant_desc:0 "这个政府是一种自由主义专制形式，它是围绕着许多具有不可思议的灵能力量的人建立起来的，拥有极高权力的神代表着自由的各个方面。"
+ gov_authority_god:0 "权威之神"
+ gov_authority_god_desc:0 "这个政府是专制的独裁形式，建立在一种无法理解的灵能力量的基础上，它代表了精英主义的各个方面。"
+ gov_authority_pant:0 "权威万神殿"
+ gov_authority_pant_desc:0 "这个政府是专制的专制形式，它围绕着许多不可思议的灵能力量建立起来，拥有极高权力的神代表了精英主义的各个方面。"
+ gov_morality_god:0 "道德之神"
+ gov_morality_god_desc:0 "这个政府是一种异种形式的独裁制，建立在一个无法理解的灵能力量的周围，他代表着平等的各个方面。"
+ gov_morality_pant:0 "道德万神殿"
+ gov_morality_pant_desc:0 "这个政府是一种异种形式的独裁制，建立在多个存有不可思议的灵能力量的人的周围，拥有极高权力的神代表平等的各个方面。"
+ gov_purity_god:0 "纯洁之神"
+ gov_purity_god_desc:0 "这个政府是一种排外主义的专制政体，建立在一种无法理解的灵能力量的基础上，它代表着纯洁的一面。"
+ gov_purity_pant:0 "纯洁万神殿"
+ gov_purity_pant_desc:0 "这个政府是一种排外主义的专制形式，它是围绕着许多不可思议的灵能力量建立起来的，而拥有极高权力的神代表着纯洁的一面。"
+ gov_blood_god:0 "牺牲法庭"
+ gov_blood_god_desc:0 "这个政府是一个狂热的军国主义专制政体，在那里成立了一个政治委员会来维持他们的吸血鬼神的需要。"
+ gov_blood_pant:0 "牺牲万神殿"
+ gov_blood_pant_desc:0 "这个政府是一个狂热的军国主义专制政体，在那里成立了一个政治委员会来维持他们的吸血鬼神的需要。"
+ 
+ personality_blood_god:0 "血神"
+ personality_benevolent_god:0 "和平之神"
+ personality_liberty_crusaders:0 "自由斗士"
+ personality_holy_zealots:0 "神圣狂热者"
+ personality_blood_god_desc:0 "这个帝国的神对生命的血液和灵魂有着永不满足的饥渴。为了不让自己被牺牲，公民们没有后悔使用外星生命来喂养他们的上帝。"
+ personality_benevolent_god_desc:0 "这个帝国的神认为所有的智慧生命都有价值，他们将寻求与其他帝国的和平合作，希望将他们与神联系在一起。"
+ personality_liberty_crusaders_desc:0 "永远要当心那些会成为暴君的人。这个帝国的神对威权主义有着强烈的厌恶。不管发生什么，无论如何，他们都不会再忍受独裁帝国的统治了。"
+ personality_holy_zealots_desc:0 "这个帝国的神认为自己是银河系的合法统治者，并且不使用武力来强迫别人接受他们作为他们的上帝。"
+ 
+ RT_GOD:0 "神"
+ RT_GODDESS:0 "女神"
+ RT_BLOOD_GOD:0 "血神"
+ RT_BLOOD_GODDESS:0 "血女神"
+ 
+ ##########
+ # Civics #
+ ##########
+ 
+ civic_deity_blood_god:0 "血神"
+ civic_deity_blood_god_desc:0 "这个帝国的神对生命的血液和灵魂有着永不满足的饥渴。为了不让自己被牺牲，公民们没有后悔使用外星生命来喂养他们的上帝。"
+ civic_deity_priests:0 "大祭司"
+ civic_deity_priests_desc:0 "这个帝国的神和大祭司占据了社会的上层。"
+ civic_deity_dissent:0 "强制信仰"
+ civic_deity_dissent_desc:0 "为了平息任何异议，这个帝国的神已经要求一种宗教将他的肖像带向所有的公民。"
+ civic_deity_crusaders:0 "神圣十字军"
+ civic_deity_crusaders_desc:0 "为了回应异端邪说，这个社会发展了一股圣骑士的精英力量。"
+ civic_deity_benevolence:0 "仁慈"
+ civic_deity_benevolence_desc:0 "这个帝国的神对他人的幸福有着无私和无私的关怀。"
+ civic_deity_god_genetics:0 "上帝之神"
+ civic_deity_god_genetics_desc:0 "虽然不是传统意义上的神圣，但通过足够的基因改造，上帝是相对而言的。"
+ civic_deity_zealots:0 "全能"
+ civic_deity_zealots_desc:0 "这个帝国的神有能力创造、毁灭和重新安排物质、能量。"
+ civic_deity_earth:0 "自然之神"
+ civic_deity_earth_desc:0 "这个帝国的神与自然有着紧密的联系。"
+ civic_deity_propaganda:0 "神的宣传"
+ civic_deity_propaganda_desc:0 "这个帝国的神不断地向公众展示他们最好的一面，即使这是不真实的。"
+ civic_deity_tech:0 "无限知识"
+ civic_deity_tech_desc:0 "这个帝国的神有能力知道所有的事情。"
+ civic_deity_pantheon:0 "万神殿"
+ civic_deity_pantheon_desc:0 "这个帝国不仅被一个神所统治，而且许多神和女神反映了许多不同的价值观。"
+ #civic_deity_omnipotence:0 "Omnipotence"
+ #civic_deity_omnipotence_desc:0 "."
+ #civic_deity_omniscience:0 "Omniscience"
+ #civic_deity_omniscience_desc:0 "."
+ 
+ civic_tooltip_blood_god_effects:0 "不能与其他帝国§Y外交§!！\n对其他物种有§Y'牺牲'§!宣战理由。\n§Y外星人§!将永远被牺牲\n从牺牲外星人获得 £unity  §Y凝聚力§!。\n可以使用§Y$bombardment_armageddon$§!轰炸立场\n§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加 §G+33%§!\n§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+33%§!\n§Y$MOD_STARBASE_SHIP_BUILD_COST_MULT$§!减少§G-25%§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+33%§!\n"
+ #civic_tooltip__effects: "."
+ #civic_tooltip__effects: "."
+ 
+ #omnipotence
+ #omniscience
+ 
+ requires_recipient_not_blood_god:1 "$TRIGGER_FAIL$§R他们的统治者是一个§Y血神§!! 他们不参与其他物种的外交活动!§!"
+ requires_actor_not_blood_god:1 "$TRIGGER_FAIL$§我们的统治者是§Y血神§!!我们不参与其他物种的外交活动，我们为§Y血神§!提供血液。"
+ 
+ #####################
+ # Opinion Modifiers #
+ #####################
+ 
+ triggered_norm_opinion_of_blood_god:0 "吸血鬼恶魔"
+ triggered_blood_god_opinion_of_norm:0 "牺牲的候选人"
+ triggered_blood_god_vs_robot:0 "不流血的金属"
+ triggered_servitor_vs_blood_god:0 "生物战利品威胁"
+ triggered_blood_god_vs_blood_god:0 "虚假的神"
+ triggered_blood_god_vs_deity:0 "虚假的神"
+ triggered_deity_vs_blood_god:0 "吸血鬼恶魔"
+ triggered_fe_opinion_blood_god:0 "吸血鬼恶魔"
+ 
+ triggered_zealots_opinion_of_deity:0 "虚假的神"
+ triggered_fan_zealots_opinion_of_deity:0 "虚假的神"
+ triggered_spi_seekers_opinion_of_deity:0 "杰出的神"
+ triggered_fan_seekers_opinion_of_deity:0 "杰出的神"
+ triggered_imperialists_opinion_of_deity:0 "威胁我们的规则"
+ triggered_despots_opinion_of_egal_deity:0 "自由之神"
+ triggered_despots_opinion_of_auth_deity:0 "精英之神"
+ triggered_dc_opinion_of_deity:0 "完整的规则"
+ triggered_dc_opinion_of_auth_deity:0 "精英之神"
+ triggered_dc_opinion_of_egal_deity:0 "自由之神"
+ triggered_federation_opinion_of_yes_deity:0 "稳定的神"
+ triggered_federation_opinion_of_no_deity:0 "不可预知的神"
+ triggered_isolationists_opinion_of_deity:0 "外在威胁"
+ 
+ triggered_deity_egal_vs_auth:0 "虚假的神"
+ triggered_deity_auth_vs_egal:0 "虚假的神"
+ triggered_deity_phil_vs_phob:0 "虚假的神"
+ triggered_deity_phob_vs_phil:0 "虚假的神"
+ triggered_deity_mili_vs_peac:0 "虚假的神"
+ triggered_deity_peac_vs_mili:0 "虚假的神"
+ triggered_deity_egal_vs_egal:0 "自由之神伙伴"
+ triggered_deity_auth_vs_auth:0 "虚假的神"
+ triggered_deity_phil_vs_phil:0 "道德之神伙伴"
+ triggered_deity_phob_vs_phob:0 "虚假的神"
+ triggered_deity_mili_vs_mili:0 "战争之神伙伴"
+ triggered_deity_peac_vs_peac:0 "和平之神伙伴"
+
+ ###################
+ #  Start Messages #
+ ###################
+ 
+ START_SCREEN_PART_TWO_BASIC_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_BASIC_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_WAR_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_WAR_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_PEACE_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_PEACE_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_LIBERTY_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_LIBERTY_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_AUTHORITY_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_AUTHORITY_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_MORALITY_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_MORALITY_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_PURITY_DEITY:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. Many rulers took it upon themselves to offer guidance to our people as we advanced through the ages; however, their rule was weak compared to our [From.GetRulerTitle]. Gradually, the rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_PURITY_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys to rule over the different values that make up our society. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_BLOOD_GOD:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. [ruler.GetHerHis] endless thirst nagged [ruler.GetHerHim] constantly. Meny across [GetHomeWorldName] gave sacrificial offering to [Root.GetRulerName] to appease their [From.GetRulerTitle] an save themselves and loved one from consumption. Gradually, The rule of our [From.GetRulerTitle] found its way to all corners of our world and the faithful were uniting united under the holy will of our [From.GetRulerTitle]...\n\nAs our [From.GetRulerTitle] achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_PART_TWO_BLOOD_PANTHEON:0 "And so, at the dawn of time, [Root.GetRulerName] awoke. In the first years of our world's inception, our [From.GetRulerTitle] created many more Deitys with the same unquenchable thirst. as their endless thirst nagged them constantly, Meny across [GetHomeWorldName] gave sacrificial offering to them to appease their vampiric deitys an save themselves and loved one from consumption. Gradually, the rule of our various Deities found its way to all corners of our world and the faithful were uniting united under the holy will of our many Deities...\n\nAs our various Deities achieved complete dominion over [GetHomeWorldName], the They became aware of other worlds, orbiting other suns. A council of our most learned priests devised new methods of travel, enabling us to cross the vast distances between the stars."
+ START_SCREEN_HHE:0 "Much has happened since the first modern Humans emerged in Africa some 200,000 years ago. As our kind spread rapidly and formed many civilizations as the scientific method moved us forward.\n\nWar after war claimed millions of lives. In the turmoil of it all, the United Nations was created in an effort to create stability. Hovever, it was not to last...\n\nIt was not long before our radiant [From.GetRulerTitle] had smote the last of the world's old nations and achieved complete dominion over [GetHomeWorldName]. However, with none standing in the way of our [From.GetRulerTitle], [ruler.GetSheHe] will have to turn to [ruler.GetHerHis] loyal followers to quench [ruler.GetHerHis] endless thirst. unless, of course, life exists beyond our star, on other worlds, orbiting other suns..."
+ 
+ # Casus Belli
+ casus_belli_cb_sacrificing:0 "牺牲"
+
+ # War Goals
+ war_goal_wg_sacrifice:0 "牺牲"
+ war_goal_wg_sacrifice_desc:0 "战争的目的是为血神收集血液。"
+ war_goal_wg_end_threat_blood:0 "结束威胁"
+ war_goal_wg_end_threat_blood_desc:0 "战争是为了结束对银河系文明的威胁。"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

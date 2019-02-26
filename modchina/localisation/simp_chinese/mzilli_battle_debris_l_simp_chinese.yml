@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+
+sm_mzilli_battle_debris_recycling_center:0 "打捞中心"
+
+sm_mzilli_battle_debris_recycling_center_desc:0 "这个星系中有许多舰船残骸。 它们因为被腐蚀得过于严重以至于无法完整地打捞回来。但如果仅仅是收集它们的残骸，那么从事实上而言就没有什么困难。\n"
+
+sm_mzilli_battle_debris_memorial:0 "战争纪念碑"
+
+sm_mzilli_battle_debris_memorial_desc:0 "许多生命为了这个星系流了很多血。让这场悲剧从记忆中消失是不礼貌的。\n"
+
+requires_mzilli_battle_debris:0 "这个星系必须含有至少一个形成于不久前的战斗残骸区。"

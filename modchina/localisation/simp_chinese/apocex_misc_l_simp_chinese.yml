@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+
+shielded_country: "屏蔽"
+confined_age: "限制年龄"
+confined_age_desc: "他们无法逃离这个星球。"
+
+civic_confined: "屏蔽"
+civic_confined_desc: "屏蔽"
+
+civic_confined_2: "限制"
+civic_confined_2_desc: "屏蔽"
+
+mission_shielded_observation: "观察"
+mission_shielded_observation_desc: "我们能做的只有观察"
+
+gov_shielded_country: "被屏蔽的国家"
+gov_shielded_country_desc: "被屏蔽的国家"

@@ -1,0 +1,365 @@
+﻿l_simp_chinese:
+ bwm_conduit_escort:0 "先驱者"
+ bwm_conduit_escort_mid_key:0 "搜索者护航舰 核心"
+ 
+ bwm_conduit_cruiser:0 "先驱者"
+ bwm_conduit_cruiser_mid_key:0 "搜索者战列巡洋舰 核心"
+ 
+ bwm_conduit_titan:0 "先驱者"
+ bwm_conduit_titan_mid_key:0 "搜索者无畏舰 核心"
+ 
+ bwm_conduit_fortress:0 "先驱者"
+ bwm_conduit_fortress_mid_key:0 "搜索者堡垒 核心"
+ 
+ bwm_conduit_avatar_bound:0 "先驱者"
+ bwm_conduit_avatar_bound_mid_key:0 "搜索者化身 核心"
+ 
+ bwm_conduit_avatar:0 "先驱者"
+ bwm_conduit_avatar_mid_key:0 "搜索者化身 核心"
+ 
+ bwm_conduit_anchor:0 "先驱者"
+ bwm_conduit_anchor_mid_key:0 "搜索者世界锚 核心"
+
+ bwm_conduit_titan_alt:0 "先驱者"
+ bwm_conduit_titan_alt_mid_key:0 "搜索者载体 核心"
+ 
+ bwm_conduit_converter:0 "先驱者"
+ bwm_conduit_converter_mid_key:0 "搜索者转换器 核心"
+ 
+ bwm_conduit_pillar:0 "先驱者"
+ bwm_conduit_pillar_mid_key:0 "搜索者支柱 核心"
+ 
+ bwm_conduit_avatar_alt:0 "先驱者"
+ bwm_conduit_avatar_alt_mid_key:0 "搜索者阿凡达 核心"
+ 
+ bwm_conduit_pillar_plural:0 "先驱者"
+ bwm_conduit_titan_alt_plural:0 "先驱者"
+ bwm_conduit_converter_plural:0 "先驱者"
+ bwm_conduit_avatar_alt_plural:0 "先驱者"
+ bwm_conduit_escort_plural:0 "先驱者"
+ bwm_conduit_cruiser_plural:0 "先驱者"
+ bwm_conduit_titan_plural:0 "先驱者"
+ bwm_conduit_fortress_plural:0 "先驱者"
+ bwm_conduit_avatar_bound_plural:0 "先驱者"
+ bwm_conduit_avatar_plural:0 "先驱者"
+ bwm_conduit_anchor_plural:0 "先驱者"
+
+ bwm_CONDUIT_PRIMARY_WEAPON:0 "搜索者 超级重力扭曲炮"
+ bwm_CONDUIT_STATION_PRIMARY_WEAPON:0 "搜索者 超级重力扭曲炮"
+ bwm_CONDUIT_SECONDARY_WEAPON:0 "搜索者 重力扭曲炮"
+ bwm_CONDUIT_STATION_SECONDARY_WEAPON:0 "搜索者 重力扭曲炮"
+ bwm_CONDUIT_TORPEDO:0 "搜索者 次元破灭鱼雷"
+ bwm_CONDUIT_LARGE_WEAPON:0 "搜索者 三式光子炮"
+ bwm_CONDUIT_LARGE_STATION_WEAPON:0 "搜索者 三式光子炮"
+ bwm_CONDUIT_MEDIUM_WEAPON:0 "搜索者 二式光子炮"
+ bwm_CONDUIT_SMALL_WEAPON:0 "搜索者 一式光子炮"
+ bwm_CONDUIT_PD:0 "搜索者 自律式点防系统"
+
+ bwm_CONDUIT_DRONE_HANGAR:0 "搜索者 无人机格纳库"
+
+ bwm_CONDUIT_DISRUPTION_FIELD_SHIP:0 "搜索者 能量抑制力场"
+ bwm_CONDUIT_DISRUPTION_FIELD_STATION:0 "搜索者 能量抑制力场"
+
+ bwm_conduit_weakness:0 "规则反击"
+ bwm_conduit_weakness_desc:0 "用搜索者的弱点更新目标数据。"
+ damage_vs_country_type_bwm_conduit_guardian_mult:0 "对搜索者的伤害"
+
+ bwm_conduit_eye_alt_object:0 "监护者"
+ 
+ bwm_the_conduit.1:0 "失落的星球"
+ bwm_the_conduit.1.desc:0 "我们的传感器发现一些不寻常的信号。 在 [From.GetName] 有四个"方尖碑"围绕着恒星，看上去像是某个摇篮。我们无法识别上面的任何信号，但这个被屏障保护的世界可能会有我们要的答案。"
+ bwm_the_conduit.1.a:0 "这个星系值得我们关注。"
+ 
+ bwm_the_conduit.5:0 "失落的花园"
+ bwm_the_conduit.5.desc:0 "我们的科学家在 [bwm_garden_system.GetName] 发现了一种能穿透 [bwm_shielded_target.GetName] 的屏障的方式。我们的初步扫描发现它是一个花园世界，我们该如何做？"
+ bwm_the_conduit.5.a:0 "屏障在减弱，这将是很好的殖民地。"
+ bwm_the_conduit.5.a.tooltip:0 "解除 [bwm_garden_system.GetName] 的屏障。"
+ bwm_the_conduit.5.b:0 "有古怪，离开这里。"
+ 
+ bwm_the_conduit.11:0 "第一失落方尖碑"
+ bwm_the_conduit.11.desc:0 "我们相信找到一个方法进入 [Root.System.GetName] 。 我们科学家认为我们可以激活 [Root.GetName] 的设备，这将使我们能够直接探索情况，这是一个很好的调查机会，但谁知道我们能发现什么。"
+ bwm_the_conduit.11.a:0 "执行命令，与它进行链接。"
+ bwm_the_conduit.11.b:0 "这很冒险，我们必须要慎重。"
+ 
+ bwm_the_conduit.12:0 "第二失落方尖碑"
+ bwm_the_conduit.12.desc:0 "我们初步测试和实验证明是可行的！提高功率有助于使我们能够更快完成第二个接口的繁杂任务，我们科学家向我们保证风险不会因此变大。"
+ bwm_the_conduit.12.a:0 "听起来不错，你可以尽情使用。"
+ bwm_the_conduit.12.b:0 "这些已经足够了，我们不需要继续冒险。"
+ 
+ bwm_the_conduit.13:0 "第三失落方尖碑"
+ bwm_the_conduit.13.desc:0 "这个影响已经...值得注意的是，我相信你已经知道。提高对 [Root.GetName] 的方尖碑能量输出功率，我们可以创造亚空间通道连接到其他世界。我们相信我们只运行50%的力量，还有更大潜力等着我们使用。"
+ bwm_the_conduit.13.a:0 "行动但要时刻小心，确保我们可以关掉它。"
+ bwm_the_conduit.13.b:0 "不，太危险了，立刻终止计划。"
+ 
+ bwm_the_conduit.14:0 "第四方失落方尖碑"
+ bwm_the_conduit.14.desc:0 "这个东西被激活之后已经变得有些古怪了，现在 [Root.GetName] 它对这个星球上面的人民产生了很严重的印象，军方提出要求需要充分控制这些石碑，以免出现什么令人遗憾的未知结果。"
+ bwm_the_conduit.14.a:0 "希望这么做是对的，允许100%能量输出。"
+ bwm_the_conduit.14.b:0 "真是一团糟。让我们结束这一切。"
+ 
+ bwm_the_conduit.21:0 "一号石碑的链接"
+ bwm_the_conduit.21.desc:0 "我们的科学家与第一个方尖碑建立了联系，应该可以为我们所用。"
+ #Standard response: EXCELLENT
+ 
+ bwm_the_conduit.22:0 "二号石碑的链接"
+ bwm_the_conduit.22.desc:0 "与第二个方尖碑已同步，现已上线。"
+ #Standard response: EXCELLENT
+ 
+ bwm_the_conduit.23:0 "三号石碑的链接"
+ bwm_the_conduit.23.desc:0 "我们已经连接到第三个方尖碑，它已在线上等候。"
+ #Standard response: EXCELLENT
+ 
+ bwm_the_conduit.24:0 "四号石碑的链接"
+ bwm_the_conduit.24.desc:0 "最后方尖碑已上线，我们可以开始操作了，但总感觉这些石碑很危险。"
+ #Standard response: EXCELLENT
+ 
+ bwm_the_conduit.31:0 "亚空间传输通道一号"
+ bwm_the_conduit.31.desc:0 "第一个方尖碑已经建立了稳定的亚空间通道，检测部门准备计算一下风险。"
+ bwm_the_conduit.31.a:0 "好消息，监测有新进展！"
+ 
+ bwm_the_conduit.32:0 "亚空间传输通道二号"
+ bwm_the_conduit.32.desc:0 "第二个方尖碑已经和第一和方尖碑同样建立的温度的亚空间通道，运作参数和我们预测的计算数据一样，这将是光辉的一笔功绩！"
+ bwm_the_conduit.32.a:0 "我对我们的科学团队有最大的信心。"
+ 
+ bwm_the_conduit.33:0 "亚空间传输通道三号"
+ bwm_the_conduit.33.desc:0 "第三个方尖碑就和我们预测一样，它的表现同样非常优秀和稳定，不过它并没有对"主要"（按照MOD设定推测应该是虚境）造成主要观测影响，也许我们可能在哪里有一些细节被我们疏忽了。"
+ bwm_the_conduit.33.a:0 "做的好！"
+ 
+ bwm_the_conduit.34:0 "亚空间传输通道四号"
+ bwm_the_conduit.34.desc:0 "我们可能对这个方尖碑系统的研究过分的乐观了，最终方尖碑上线之后出现了严重的意外，亚空间通道开始聚合，我们的所有系统已经全部失去了响应，安全协议已经失效，希望我们可以撑过这次挑战）……"
+ bwm_the_conduit.34.a:0 "希望不要酿成大祸。"
+ 
+ bwm_the_conduit.51:0 "天空的守望者"
+ bwm_the_conduit.51.desc:0 "我们在 [bwm_garden_star_locator.GetName]的轨道上发现一个奇怪的不明物体，传感器对它的扫描读数非常异样。"
+ #Standard response: WORRYING
+ 
+ bwm_the_conduit.56:0 "失落的星系"
+ bwm_the_conduit.56.desc:0 "我们似乎失去与 [bwm_conduit_system.GetName] 的一切联系。"
+ bwm_the_conduit.56.a:0 "我的天，到底发生了什么事情？"
+ 
+ bwm_the_conduit.65:0 "末日之回响"
+ bwm_the_conduit.65.desc:0 "我们多个前哨站的雷达系统突然追踪到了大量不明目标闯入多个星系，我的天，它们在攻击我们，这些不明目标是我们的敌人！"
+ 
+ bwm_the_conduit.71:0 "反击的希望"
+ bwm_the_conduit.71.desc:0 "这些不明来源的外星战舰综合实力要比我们强不少，我们应该选择一个更好的办法去解决它们而不是在这里硬碰硬的蒙受不该有的损失。" 
+ bwm_the_conduit.71.a:0 "立刻去寻找解决之道！"
+ bwm_the_conduit.71.b:0 "我们为啥要执迷不悟。"
+
+ bwm_the_conduit.72:0 "反攻的号角"
+ bwm_the_conduit.72.desc:0 "我们科学家相信他们找到了一个如何解决这股坚不可摧的力量的办法，我们应该集合所有力量与敌人决一死战。"
+ bwm_the_conduit.72.a:0 "胜利终将属于我们！"
+ 
+ bwm_the_conduit.99:0 "失落的花园看门者"
+ bwm_the_conduit.99.desc:0 "侦测到高能量反应读数，推测是它核心内部的武器系统上线。"
+ bwm_the_conduit.99.a:0 "小心，我们不知道它还有什么鬼把戏。"
+ 
+ bwm_the_conduit.101:0 "新的黎明"
+ bwm_the_conduit.101.desc:0 "随着外星舰队的败走，我们重新夺回了地面控制权。\n\n战争伤痕这需要时间来抹平，然而还有许多问题没有答案，比如这次入侵的目的是什么？"
+ bwm_the_conduit.101.a:0 "当务之急是先解决眼前的事情。"
+ 
+ bwm_the_conduit.108:0 "外星财产的夺取"
+ bwm_the_conduit.108.desc:0 "有报道说，一个外星帝国在Arcadia的熔岩星球上发现了一艘母船。"
+ 
+ bwm_the_conduit.110:0 "失落的灯塔"
+ bwm_the_conduit.110.desc:0 "我们在 [bwm_garden_clear.GetName] 进行的一系列战后恢复手段有了效果，我们科学家设想解决外星入侵者所造成的的心理创伤以便使得该星球尽快恢复生产。"
+ bwm_the_conduit.110.a:0 "希望这个教训能让我们正确的认识未来。"
+ 
+ bwm_the_conduit.111:0 "普罗维登斯"
+ bwm_the_conduit.111.desc:0 "随着战争的结束，以及对[bwm_garden_planet_loc.GetName]战后恢复的继续进行，我们的工程队则是开始对这场战争遗留的那些奇怪残骸进行了分析。\n\n不得不说就算毁掉的外星战舰也依旧危险，在我们进行了一连串可谓称得上惊心动魄的作业之后，我们在这些残骸之中的数据核心里面得到了一份图纸数据。\n\n这是一种造物的设计图，它对于我们的科技来说并非复杂，我们的研究人员认为，我们是可以同样制造出来和这图纸上一模一样的造物。"
+ bwm_the_conduit.111.a:0 "既然如此，那么我们可以尝试一下。"
+ bwm_the_conduit.111.b:0 "已经经历了这么多，我们还没有尝到教训吗？"
+ 
+ bwm_the_conduit.112:0 "失落的遗产"
+ bwm_the_conduit.112.desc:0 "我们访问并且分析了从 [bwm_conduit_system.GetName] 数据核心里面得到的情报，我们现在可以确定它由两个独立的平台组成。\n\n的第一种似乎是一种巨大的造船厂，利用非常独特的生产理念来制作一些那些外星舰队里面的舰船，虽然它还是需要从我们的太空港里面才可以造出来。\n\另外一个倒是有些非比寻常，它看上去像是一种资源建筑物，但从设计理念推演的数据表明它具备相当高的生产效率，远远超过我们现在已知的主流生产设备，我们的工程团队已经等不及要建造出来这个光是纸面说明就相当有诱惑力的东西了。"
+ bwm_the_conduit.112.a:0 "很棒，告诉那些负责和这个项目的团队，做得好。"
+ 
+ bwm_the_conduit.121:0 "地狱的使者"
+ bwm_the_conduit.121.desc:0 "我们收到来自 [bwm_conduit_system.GetName] 的奇怪的数据。似乎来自 [bwm_garden_molten.GetName]这个炽热的星球深处。"
+ bwm_the_conduit.121.a:0 "交给我们工程船去处理。"
+ bwm_the_conduit.121.b:0 "离开这里，我们不想在这里陷入麻烦。"
+ 
+ bwm_the_conduit.122:0 "利维坦之影"
+ bwm_the_conduit.122.desc:0 "我们回收的对象似乎是在外星文明的星系就遇到过，它看起来像是一个先进的武器平台的核心组成部分，基于我们的以往经验，这种类型的技术，应当在整合在舰队之前进行足够的安全措施。"
+ bwm_the_conduit.122.a:0 "看起来是无害的。"
+ bwm_the_conduit.122.b:0 "在别人得到前，拆掉它是个聪明的决定。"
+ 
+ bwm_the_conduit.130:0 "深渊低语" 
+ bwm_the_conduit.130.desc:0 "我们科学家认为我们能够解开名为'地狱的使者'这个事件船的全部功能，不过需要付出点代价。" 
+ bwm_the_conduit.130.a:0 "等价交换，正常。"
+ bwm_the_conduit.130.b:0 "浪费资源。"
+ 
+ bwm_the_conduit.131:0 "深度漩涡"
+ bwm_the_conduit.131.desc:0 "我们科学家认为，该战舰已全面运作可以部署，在战斗情况下应该能发挥出它应有实力。"
+ bwm_the_conduit.131.a:0 "看起来和以前完全不一样..."
+ bwm_the_conduit.131.a.tooltip:0 "§Y -警告 - 转化过程会产生高能波动。§!"
+
+ bwm_the_conduit.140:0 "破碎的失落星辰之柱"
+ bwm_the_conduit.140.desc:0 "在这个星系之中，四个奇怪的方尖碑环绕在这个远古又奇怪的花园世界。"
+ bwm_the_conduit.140.a:0 "太好了。"
+
+ bwm_the_conduit.200:0 "关于限制的抉择" 
+ bwm_the_conduit.200.desc:0 "我们的的科学家在进一步的研究之中，自信的认为可以进一步解除 '地狱的使者项目' 事件船性能上的所有限制，进而发挥出更加强大的力量，但凡事都有代价，获得力量很可能会在以后对该船造成一些影响，我们要怎么做？" 
+ bwm_the_conduit.200.a:0 "我们已经做过一次了，只要小心使用即可。"
+ bwm_the_conduit.200.b:0 "现在的力量已经够强了，要是偷鸡不成蚀把米那可不行。"
+ 
+ bwm_the_conduit.201:0 "超越自我" 
+ bwm_the_conduit.201.desc:0 "我们的科学家已经完成了对 -地狱的使者- 事件船反应堆的输出调整，这个修改可以让它在短时间内爆发出惊人的战斗力，但副作用也不小。" 
+ bwm_the_conduit.201.a:0 "很不错，但这个能力应该谨慎使用。"
+ bwm_the_conduit.201.a.tooltip:0 "§Y -警告- 一旦脱离爆发模式，该舰性能会大大降低。§!"
+
+ bwm_the_conduit.204:0 "超动力爆发模式"
+ bwm_the_conduit.204.desc:0 "-解除限制阀，爆发模式激活-"
+ bwm_the_conduit.204.a:0 "战舰反应堆输出功率暴增至百分之两百！"
+ 
+ bwm_the_conduit.205:0 "解除爆发模式进入冷却"
+ bwm_the_conduit.205.desc:0 "-激活限制阀，开始冷却反应堆-"
+ bwm_the_conduit.205.a:0 "战舰反应堆能量输出水平低于正常值。"
+ 
+ bwm_the_conduit.133:0 "先古失落遗物-阿凡达"
+ bwm_the_conduit.133.desc:0 "虽然我们能够解开部分关于这艘战舰的古老的力量，但我们还没真正完全了解它是如何运作的，更不用说将它的技术奇迹运用于我们的设计之中。\n\n自从发现这艘战舰以来，我们的科学家已取得多项突破，虽然进展缓慢。他们最新的建议是深入战舰内部研究其框架结构。这样更有助于加快进展速度，但这样会影响战舰作战性能，这会使得帝国舰队实力大幅度下降。\n\n以进步为由，虽然科学家的建议是有很大的风险的，但另一方面，我们是否把握这次机会？"
+ bwm_the_conduit.133.a:0 "如果收获大于付出，那么值得。"
+ bwm_the_conduit.133.a.tooltip:0 "§R - 警告 - 在本项目完成前，战舰容易遭受攻击！§!"
+ bwm_the_conduit.133.b:0 "我们不能失去它。"
+ 
+ bwm_the_conduit.134:0 "原理构造图-阿凡达"
+ bwm_the_conduit.134.desc:0 "当我们科学家完成对战舰的检查时，其中一部分的谜团已被解开，虽然还存在一些未解之谜，但尽管如此，我们还是成功了。\n\n虽然我们还不能完全应用这些技术到我们的设计之中，但是我们科学家有信心能重建这艘战舰的光辉，即使我们不得不更换所有部件以防止损坏。\n\n随着工程继续，战舰的性能已经逐步恢复它以往的光辉，我们从中获得技术是不可限量的，这必将会给我们帝国带来新的发展。"
+ 
+ bwm_CONDUIT_SCHEMATICS_PROJECT:0 "逆向推演工程-阿凡达"
+ bwm_CONDUIT_SCHEMATICS_PROJECT_DESC:0 "进一步研究'化身'使其能够更好了解其运作原理。"
+ 
+ bwm_CONDUIT_LIMIT_BREAK:0 "解除所有限制"
+ bwm_CONDUIT_LIMIT_BREAK_DESC:0 "移除'地狱的使者'事件船上的限制。"
+ 
+ bwm_CONDUIT_UNLOCK:0 "失落的花园"
+ bwm_CONDUIT_UNLOCK_DESC:0 "不知道何种原因， [bwm_shielded_target.GetName] 被一个坚不可摧的护盾笼罩着，我们必须找方法来消除屏障以便发现为了藏些什么！"
+
+ bwm_OBELISK_1_PROJECT:0 "一号方尖碑的接触"
+ bwm_OBELISK_1_PROJECT_DESC:0 "建立与[Root.Planet.GetName]的方尖碑的联系。"
+ 
+ bwm_OBELISK_2_PROJECT:0 "二号方尖碑的接触"
+ bwm_OBELISK_2_PROJECT_DESC:0 "建立与 [Root.Planet.GetName]的方尖碑的联系。"
+ 
+ bwm_OBELISK_3_PROJECT:0 "三号方尖碑的接触"
+ bwm_OBELISK_3_PROJECT_DESC:0 "建立与 [Root.Planet.GetName]的方尖碑的联系。"
+ 
+ bwm_OBELISK_4_PROJECT:0 "四号方尖碑的接触"
+ bwm_OBELISK_4_PROJECT_DESC:0 "建立与 [Root.Planet.GetName]的方尖碑的联系。"
+ 
+ bwm_GARDEN_HELP:0 "来自深渊的暗影"
+ bwm_GARDEN_HELP_DESC:0 "恢复 [bwm_garden_aid.GetName]的秩序。"
+
+ bwm_LAVA_DIVER:0 "地狱终点"
+ bwm_LAVA_DIVER_DESC:0 "发现 [bwm_garden_molten.GetName]的岩浆世界的秘密。"
+
+ bwm_CONDUIT_AWAKENING:0 "暮光之星"
+ bwm_CONDUIT_AWAKENING_DESC:0 "解锁关于'地狱的使者'事件船的真正的力量。"
+  
+ bwm_CONDUIT_WEAKNESS_PROJECT:0 "伤害加成 - 探索者"
+ bwm_CONDUIT_WEAKNESS_PROJECT_DESC:0 "研究探索者和寻找他们的弱点。"
+ 
+ bwm_CONDUIT_GUARDIAN:0 "普罗维登斯"
+ bwm_CONDUIT_GUARDIAN_DESC:0 "解密并发现[bwm_conduit_system.GetName]的秘密。"
+ 
+ bwm_pop_conduit_1:0 "失控"
+ bwm_pop_conduit_1_desc:0 "被花园控制。"
+ 
+ bwm_pop_conduit_2:0 "失控"
+ bwm_pop_conduit_2_desc:0 "被花园控制。"
+ 
+ bwm_pop_conduit_3:0 "失控"
+ bwm_pop_conduit_3_desc:0 "被花园控制。"
+ 
+ bwm_pop_conduit_4:0 "失控"
+ bwm_pop_conduit_4_desc:0 "被花园控制。"
+ 
+ bwm_pop_conduit_5:0 "末日的绝望"
+ bwm_pop_conduit_5_desc:0 "被花园控制。"
+ 
+ bwm_obelisk_1_mod:0 "第一塔"
+ bwm_obelisk_1_mod_desc:0 "它给予我们希望。"
+ 
+ bwm_obelisk_2_mod:0 "第二塔"
+ bwm_obelisk_2_mod_desc:0 "它给予我们未来。"
+ 
+ bwm_obelisk_3_mod:0 "第三塔"
+ bwm_obelisk_3_mod_desc:0 "它给予我们勇气。"
+ 
+ bwm_obelisk_4_mod:0 "第四塔"
+ bwm_obelisk_4_mod_desc:0 "它给予我们新生。"
+ 
+ bwm_obelisk_5_mod:0 "清算之日不在遥远"
+ bwm_obelisk_5_mod_desc:0 "这是新时代的黎明，但代价是什么？"
+ 
+ bwm_obelisk_6_mod:0 "破碎的塔楼"
+ bwm_obelisk_6_mod_desc:0 "我们的人民对曾经发生的事情感到了震惊。"
+ 
+ bwm_obelisk_7_mod:0 "崩塌的无尽螺旋"
+ bwm_obelisk_7_mod_desc:0 "我们的人民终于算是脱离了方尖碑的影响。"
+
+ bwm_obelisk_8_mod:0 "清算之日"
+ bwm_obelisk_8_mod_desc:0 "清算之日已经到来，星球的一切活动和生产都停止了，这就是代价。"
+ 
+ bwm_garden_mod:0 "失落的无尽花园"
+ bwm_garden_mod_desc:0 "一个十分理想又充斥着奇怪感觉的星球，拥有非常完美的生态系统，能满足不同类型生命体的生活需要。"
+
+ requires_building_ancient_obelisk:0 "§R需要-方尖碑接触实验-才能升级。§!"
+ 
+ bwm_building_ancient_factory:1 "自律化工业基地"
+ bwm_building_ancient_factory_desc:1 "§L这是来自失落帝国的遗产 ———失落爸爸。§!"
+
+ bwm_building_dark_matter_power_plant:0 "暗物质螺旋发电站"
+ bwm_building_dark_matter_power_plant_desc:0 "§L无尽的螺旋代表无尽的循环，当你窥探虚无，虚无或许也在窥探你 ———时之虫。§!"
+
+ bwm_building_agri_processing_complex:0 "纳米农产品加工基地"
+ bwm_building_agri_processing_complex_desc:0 "§L很先进的科技所建造起来的农业基地，可以满足很多人口的生活需求，不过，它是谁造的？§!"
+
+ bwm_building_engineering_facility:0 "虚夸克工程操作基地"
+ bwm_building_engineering_facility_desc:1 "§L极其先进的工程科技培育摇篮，是工程学的天堂。§!"
+ 
+ bwm_building_biolab:0 "基因工程培育基地"
+ bwm_building_biolab_desc:1 "§L任何你能想到的生物工程都可以在这里完美的被重现。§!"
+ 
+ bwm_building_physics_lab:0 "虚空探索实验基地"
+ bwm_building_physics_lab_desc:1 "§L宇宙熵正在从有序变成无序，而这里正在从无序变成有序。§!"
+
+ bwm_building_obelisk_0_1:0 "古代方尖碑"
+ bwm_building_obelisk_0_1_desc:0 "一个神秘的方尖碑上刻满了死亡的外星语言字母。"
+ 
+ bwm_building_obelisk_0_2:0 "古代方尖碑"
+ bwm_building_obelisk_0_2_desc:0 "一个神秘的方尖碑上刻满了死亡的外星语言字母。"
+ 
+ bwm_building_obelisk_0_3:0 "古代方尖碑"
+ bwm_building_obelisk_0_3_desc:0 "一个神秘的方尖碑上刻满了死亡的外星语言字母。"
+ 
+ bwm_building_obelisk_0_4:0 "古代方尖碑"
+ bwm_building_obelisk_0_4_desc:0 "一个神秘的方尖碑上刻满了死亡的外星语言字母。"
+ 
+ bwm_building_obelisk_1:0 "神印"
+ bwm_building_obelisk_1_desc:0 "看到这俩字的时候，恭喜你，你中大奖了。"
+ 
+ bwm_building_obelisk_2:0 "神印"
+ bwm_building_obelisk_2_desc:0 "看到这俩字的时候，恭喜你，你中大奖了。"
+ 
+ bwm_building_obelisk_3:0 "神印"
+ bwm_building_obelisk_3_desc:0 "看到这俩字的时候，恭喜你，你中大奖了。"
+ 
+ bwm_building_obelisk_4:0 "神印"
+ bwm_building_obelisk_4_desc:0 "看到这俩字的时候，恭喜你，你中大奖了。"
+ 
+ bwm_lex_conduit_chain_title:0 "失落之伊甸园" 
+ bwm_lex_conduit_chain_desc:0 "一个来源不明，目的不明，实力不明的外星势力驱使着造型古怪的强大外星舰队占领了花园星系，并且迅速建立起来了类似空间锚一样的东西，而且它们会攻击任何企图接近该星系的任何存在。"
+ bwm_conduit_anchor_counter:0 "§H锚被破坏§!"
+ 
+ bwm_conduit_anchor_1_poi:0 "第一锚"
+ bwm_conduit_anchor_1_poi_desc:0 "小心，那些造型怪异的建筑是存在自己的防御系统。"
+ 
+ bwm_conduit_anchor_2_poi:0 "第二锚"
+ bwm_conduit_anchor_2_poi_desc:0 "小心，那些造型怪异的建筑是存在自己的防御系统。"
+ 
+ bwm_conduit_anchor_3_poi:0 "第二锚"
+ bwm_conduit_anchor_3_poi_desc:0 "小心，那些造型怪异的建筑是存在自己的防御系统。"
+ 
+ bwm_conduit_anchor_4_poi:0 "第二锚"
+ bwm_conduit_anchor_4_poi_desc:0 "小心，那些造型怪异的建筑是存在自己的防御系统。"
+ 
+ tb_bwm_paradise:0 "£blocker  杂草丛生的远古遗迹"
+ tb_bwm_paradise_desc:0 "这些遗迹证明了这个星球曾经有过很辉煌的文明，但现在只要遍地的残骸遗迹在诉说着这个文明最后的一丝痕迹，真是可悲。"

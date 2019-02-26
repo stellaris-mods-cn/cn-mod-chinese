@@ -1,0 +1,129 @@
+﻿l_simp_chinese:
+
+ bwm_DRONE_HANGAR:0 "监狱长 无人机格纳库一型"
+ bwm_AWAKENED_DRONE_HANGAR:0 "监狱长 无人机格纳库二型"
+
+ bwm_THRONE_DISRUPTION_FIELD:0 "守望者瓦解立场"
+ bwm_AURA_SHIELD_RECHARGER:0 "守望者充能立场"
+
+ bwm_PROGENITOR_DRIVE:0 "先祖FTL核心"
+ bwm_PROGENITOR_THRUSTER:0 "先祖惰性引擎"
+ bwm_PROGENITOR_SENSOR_SHIP:0 "先祖传感器阵列"
+ bwm_PROGENITOR_SENSOR_STATION:0 "先祖传感器阵列"
+ bwm_BORDER_EXTRUDER:0 "先祖信标"
+ bwm_PROGENITOR_LAB:0 "先祖科学实验室"
+ 
+ bwm_PROGENITOR_CPU_XS:0 "先祖联盟 核心一型"
+ bwm_PROGENITOR_CPU_S:0 "先祖联盟 核心二型"
+ bwm_PROGENITOR_CPU_M:0 "先祖联盟 核心三型"
+ bwm_PROGENITOR_CPU_L:0 "先祖联盟 核心四型"
+
+ bwm_artifact_CRUISER_COMBAT_COMPUTER_1:0 "基础战斗计算机(巡洋舰)"
+ bwm_artifact_CRUISER_COMBAT_COMPUTER_2:0 "中级战斗计算机(巡洋舰)"
+ bwm_artifact_CRUISER_COMBAT_COMPUTER_3:0 "高级战斗计算机(巡洋舰)"
+ bwm_artifact_CRUISER_COMBAT_COMPUTER_4:0 "感觉战斗计算机(巡洋舰)"
+ bwm_artifact_CRUISER_COMBAT_COMPUTER_PRECOG:0 "预知的计算接口(巡洋舰)"
+ 
+ bwm_PROGENITOR_POWER_CORE_L:0 "先祖 三式堕落反应堆"
+ bwm_PROGENITOR_POWER_CORE_M:0 "先祖 二式堕落反应堆"
+ bwm_PROGENITOR_POWER_CORE_S:0 "先祖 一式堕落反应堆"
+ 
+ bwm_PROGENITOR_SHIELD_L:0 "先祖 三式波动护盾"
+ bwm_PROGENITOR_SHIELD_M:0 "先祖 二式波动护盾"
+ bwm_PROGENITOR_SHIELD_S:0 "先祖 一式波动护盾"
+ 
+ bwm_PROGENITOR_ARMOR_L:0 "先祖 三式装甲"
+ bwm_PROGENITOR_ARMOR_M:0 "先祖 二式装甲"
+ bwm_PROGENITOR_ARMOR_S:0 "先祖 一式装甲"
+ 
+ bwm_PROGENITOR_RECHARGER:0 "先祖波动调制器"
+ bwm_PROGENITOR_REPAIR:0 "先祖自动修复系统"
+ 
+ bwm_PROG_REACTOR:0 "先祖堕落反应堆"
+ bwm_PROG_REACTOR_DESC:0 "-强大的能量反应堆-"
+ 
+ bwm_PROG_SHIELD:0 "先祖护盾"
+ bwm_PROG_SHIELD_DESC:0 "-强大的能量护盾技术产物-"
+ 
+ bwm_PROG_ARMOR:0 "先祖护甲"
+ bwm_PROG_ARMOR_DESC:0 "-先进物质科技的产物-"
+ 
+ bwm_PROG_SHIELD_RECHARGER:0 "先祖波动调制器"
+ bwm_PROG_SHIELD_RECHARGER_DESC:0 "-保密-"
+ 
+ bwm_PROG_AUTO_REPAIR:0 "先祖波能调制器"
+ bwm_PROG_AUTO_REPAIR_DESC:0 "-保密-"
+ 
+ tech_bwm_lex_armor:0 "先祖护甲科技"
+ tech_bwm_lex_armor_desc:0 "从先祖技术缓存中恢复出来的一种先进的护甲的设计蓝图。"
+ 
+ tech_bwm_lex_shield:0 "先驱护盾科技"
+ tech_bwm_lex_shield_desc:0 "从先祖技术缓存中恢复出来的一种先进的护盾的设计蓝图。"
+ 
+ tech_bwm_lex_power:0 "先祖堕落反应堆"
+ tech_bwm_lex_power_desc:0 "从先祖技术缓存中恢复出来的一种先进的反应堆的设计蓝图。"
+ 
+ tech_bwm_lex_cpu:0 "先祖联盟 核心"
+ tech_bwm_lex_cpu_desc:0 "从先祖技术缓存中恢复出来的一个古老的战斗计算机的设计蓝图。"
+ 
+ tech_bwm_lex_thruster:0 "先祖惰性引擎"
+ tech_bwm_lex_thruster_desc:0 "从先祖技术缓存中恢复出来的一个古老的惰性引擎的蓝图。"
+ 
+ tech_bwm_lex_drive:0 "先祖FTL 核心"
+ tech_bwm_lex_drive_desc:0 "从先祖技术缓存中恢复出来的古老的跃迁引擎的蓝图。"
+ 
+ tech_bwm_lex_sensor:0 "先祖传感器阵列"
+ tech_bwm_lex_sensor_desc:0 "从先祖技术缓存中恢复出来的传感器阵列的蓝图。"
+ 
+ tech_bwm_lex_hull_repair:0 "波能调制器"
+ tech_bwm_lex_hull_repair_desc:0 "从先祖技术缓存中恢复出来的复杂的自动修复系统的蓝图。"
+ 
+ tech_bwm_lex_shield_repair:0 "波动调制器"
+ tech_bwm_lex_shield_repair_desc:0 "从先祖技术缓存中恢复出来的高级护盾发生器的蓝图。"
+ 
+ tech_bwm_lex_lab:0 "先祖科学实验室"
+ tech_bwm_lex_lab_desc:0 "从先祖技术缓存中恢复出来的船载实验室设施的蓝图。"
+ 
+ TECH_UNLOCK_bwm_LEX_CPU_TITLE:0 "$TECH_UNLOCK_COMPONENT_LINE$ $tech_bwm_lex_cpu$"
+ TECH_UNLOCK_bwm_LEX_CPU_DESC:0 "$tech_bwm_lex_cpu_desc$"
+ 
+ TECH_UNLOCK_bwm_LEX_THRUSTER_TITLE:0 "$TECH_UNLOCK_COMPONENT_LINE$ $tech_bwm_lex_thruster$"
+ TECH_UNLOCK_bwm_LEX_THRUSTER_DESC:0 "$tech_bwm_lex_thruster_desc$"
+ 
+ TECH_UNLOCK_bwm_LEX_DRIVE_TITLE:0 "$TECH_UNLOCK_COMPONENT_LINE$ $tech_bwm_lex_drive$"
+ TECH_UNLOCK_bwm_LEX_DRIVE_DESC:0 "$tech_bwm_lex_drive_desc$"
+ 
+ TECH_UNLOCK_bwm_LEX_SENSOR_TITLE:0 "$TECH_UNLOCK_COMPONENT_LINE$ $tech_bwm_lex_sensor$"
+ TECH_UNLOCK_bwm_LEX_SENSOR_DESC:0 "$tech_bwm_lex_sensor_desc$"
+ 
+ TECH_UNLOCK_bwm_LEX_LAB_TITLE:0 "$TECH_UNLOCK_COMPONENT_LINE$ $tech_bwm_lex_lab$"
+ TECH_UNLOCK_bwm_LEX_LAB_DESC:0 "$tech_bwm_lex_lab_desc$"
+ 
+ bwm_cipher_1_power:0 "第一密码"
+ bwm_cipher_1_power_desc:0 "奇怪的构造似乎被绘制到它的计数器部分。"
+ 
+ bwm_cipher_2_power:0 "第二密码"
+ bwm_cipher_2_power_desc:0 "奇怪的构造似乎被绘制到它的计数器部分。"
+ 
+ bwm_cipher_3_power:0 "第三密码"
+ bwm_cipher_3_power_desc:0 "奇怪的构造似乎被绘制到它的计数器部分。"
+
+ bwm_cipher_full_power:0 "临别挽歌"
+ bwm_cipher_full_power_desc:0 "未来可能是不确定的，但我们将获胜。"
+ 
+ bwm_ring_leviathan_owner:0 "先祖超级武器"
+ 
+ bwm_grave_leviathan_owner:0 "先祖超级武器"
+ 
+ bwm_conduit_leviathan_owner:0 "先祖超级武器"
+ 
+ bwm_gate_leviathan_owner:0 "先祖超级武器"
+ 
+ bwm_planetkiller_victim:0 "摧毁星球"
+ 
+ bwm_artifact_bomb_2_victim:0 "净化星系"
+ 
+ bwm_artifact_bomb_1_victim:0 "摧毁星系"
+ 
+ edict_bwm_nova_burst_authorisation:0 "天箭-新星爆发模式"
+ edict_bwm_nova_burst_authorisation_desc:0 "\n§R警告 - 可能对附近的星体产生不利影响。§!\n"

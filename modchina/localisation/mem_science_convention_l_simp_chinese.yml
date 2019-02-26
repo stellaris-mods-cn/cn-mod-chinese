@@ -1,0 +1,90 @@
+﻿l_simp_chinese:
+ #Science Convention Event mem_sciencecon
+ #Writing by Briv
+ #Script by binaryferret
+ mem_science_convention.1.name:0 "科学大会"
+ mem_science_convention.1.desc:0 "我们的科学家相信，如果我们要举办一个致力于跨学科科学的大型会议，也许能够成为推动我们当前所有研究的途径。"
+ mem_science_convention.1.ayes:0 "极好的主意。"
+ mem_sciencecon_1.a.tooltip:1 "科学会议的筹备工作正在进行，将在12个月内完成。"
+ mem_sciencecon_1.b.tooltip:1 "科学会议的准备工作正在进行中，将在12个月内完成;同时，我们应该发出邀请。"
+ mem_sciencecon_1.c.tooltip:1 "由于资金不足，无法启动科学大会。\nResources required - \n£energy  §Y250§! \n£minerals  §Y250§!"
+ mem_science_convention.1.ano:0 "唉，我们没有足够的资金来进行这样一个宏大的项目。"
+ mem_science_convention.1.b:0 "是的，让我们看看还有谁愿意参加。"
+ mem_science_convention.1.c:0 "不，这是一项艰巨的任务。"
+
+ mem_science_convention.2.name:0 "科学大会的训练完成"
+ mem_science_convention.2.desc:0 "我们会议的准备工作终于完成了，现在剩下的就是打开大门了。"
+ mem_science_convention.2.a:0 "让我们在路上做这个节目吧！"
+
+ mem_science_convention.3.name:0 "巨大的成功！"
+ mem_science_convention.3.desc:0 "跨学科科学大会取得了巨大的成功！来自我们帝国的科学家们聚在一起分享概念和想法，阐述新发明，共同开发新的理论。在所有这些新思想的帮助下，不同的任务被解决了，几个难题已经被解决了，许多现存的机制被简化了，取而代之的是更好的方法。"
+ #If we have invites
+ mem_science_convention.3.a.desc:0 "跨学科科学大会取得了巨大的成功！来自我们帝国的科学家们聚在一起分享概念和想法，阐述新发明，共同开发新的理论。在所有这些新思想的帮助下，不同的任务被解决了，几个难题已经被解决了，许多现存的机制被简化了，取而代之的是更好的方法。对我们各个科学领域的恩赐是不可估量的，我们作为公约的创造者角色使我们在每个人的眼中都更加有利。"
+ #Message for the invited to see
+ mem_science_convention.3.b.desc:0 "我们参加的跨学科科学会议取得了绝对的成功！与§Y[invite_sender.GetName]§!邀请者相比，我们的科学家的存在可以忽略不计。尽管如此，那些研究人员还是和蔼可亲的东道主。自由思想的交流对我们的各种研究和Y邀请者都是非常有益的。§Y[invite_sender.GetAdj]§!的讲座比我们最坚定的乐观主义者认为的更有启发性。我们许多科学家的观点已经发生了巨大的变化，因为他们的观点更加美好，许多人不介意在不久的将来重复这一事件。"
+ mem_science_convention.3.a:0 "这是历史的成就！"
+
+ mem_science_convention.4.name:0 "一个值得注意的事件。"
+ mem_science_convention.4.desc:0 "《跨学科科学公约》正是按照预期进行的。来自不同星球星系的科学家参加了各种智力交流，开辟了一些新的有趣的调查领域。我们的组织者向我们保证，这对我们各个领域的研究都是非常有益的。"
+ #Message for the invited to see
+ mem_science_convention.4.a.desc:0 "尽管我们的科学家们对此表示怀疑，但他们很高兴地报告说，跨学科科学会议的召开令人愉快。尽管已经展示的许多技术和展示的大部分概念已经被我们所知，但是与一个有着完全不同背景的科学社区交换想法和理论的机会已经给我们的科学家们提供了很多的想法，并且与§Y[invite_sender.GetSpeciesNamePlural]§!的理解有了很大的不同，这是他们以前所没有的。"
+ mem_science_convention.4.a:0 "好消息。"
+
+ mem_science_convention.5.name:0 "一个不幸的失败。"
+ mem_science_convention.5.desc:0 "不幸的是，“跨学科公约”并没有像我们所希望的那样顺利。 虽然安全小组严格按照不允许带入建筑物内的物质进行管制，但是有人设法偷偷摸摸带入，导致了几位科学家的上瘾沉迷和公众尴尬。 更重要的是，我们的研究人员似乎已经根据各自的领域发展出一些相互竞争的态势，许多物理学家在激起了我们的工程部门的时候就引起了一场激烈的争论。"
+ #Message for the invited to see
+ mem_science_convention.5.a.desc:0 "跨学科科学的惯例在某种程度上是失败的。尽管我们的主人公尽了最大的努力，一些最不稳定的科学家还是设法通过安全手段偷偷潜入了一些让人上瘾的物质，并加剧了敌对状态，导致了他们的敌对研究人员之间的一些暴力冲突。我们自己的科学家几乎不可能在边说边说，很多人都认为这个事件是“完全浪费时间”。也许下次最好别去参加。"
+ mem_science_convention.5.a:0 "绝对应该受到谴责。"
+
+ mem_science_convention.6.name:0 "大祸！"
+ mem_science_convention.6.desc:0 "“跨学科公约”是绝对的失败。 尽管严格的命令禁止在建筑物内使用任何物质，但我们的安全小组允许各种药物被运入公约，造成了广泛的混乱。 此外，我们员工中的一位尊敬的科学家试图通过过早激活自己设计的实验性武器来打动潜在的同伴。 武器迅速爆炸，引起广泛的恐慌，伤害了几名研究人员，并杀死了科学家。 “公约”已经提早撤离，我们的许多科学人员不得不被拘留。"
+ #If we have invites
+ mem_science_convention.6.a.desc:0 "跨学科的科学大会是一个绝对的失败。尽管我们有严格的命令，禁止在建筑物内使用任何物质，但我们的安全团队允许各种药物被运送到公约中，造成了广泛的混乱。更有甚者，我们工作人员中的一位尊敬的科学家试图通过提前激活他自己设计的实验武器来给潜在的同伴留下深刻的印象。该武器迅速爆炸，引起了广泛的恐慌，几名研究人员受伤，科学家说。该公约被提前疏散，许多科学官员不得不被拘留。这次大会被认为是一次全国性的失败，以前从未见过这样的失败，许多应邀来的客人对我们的看法也不太好。我们的声誉可能需要一段时间才能消除这一污点。"
+ #Message the Invited see
+ mem_science_convention.6.b.desc:0 "我们参加的跨学科科学大会在最好的情况下也是令人憎恶的，最坏的是对我们的人民的直接侮辱。我们的东道主的科学家是不负责任和幼稚的，他们漫不经心地挥舞着危险的技术，把其他人置于危险之中，以满足他们的小竞争。一个人特别想要给一个潜在的伴侣留下深刻的印象，结果导致了几次受伤和失去了自己的生命，这使得这个事件过早而又迅速地结束了。无论这是一种低级趣味的玩笑，还是有意冒犯我们的人民，我们的一些科学家都不相信与§Y[invite_sender.GetName]§!保持外交关系的努力是值得的。"
+ mem_science_convention.6.a:0 "这是一个巨大的尴尬。"
+ mem_science_convention.6.a.host.tooltip:0 "一个科学家死了!"
+
+ mem_science_convention.8.name:0 "邀请[invite_sender.GetName]到科学大会。"
+ mem_science_convention.8.desc:0 "在继续追求学术和科学的启迪的过程中，§Y[invite_sender.GetName]§!已经安排了一场银河系最伟大的思想的聚会。在此，\n\n我们邀请最杰出的科学家来此§Y[This.GetName]§!参与“跨学科科学的会议”。我们的帝国都将从你们的研究人员的参与中受益。"
+ mem_science_convention.8.a:0 "一个有趣的计划。我们接受你邀请。"
+ mem_science_convention.8.b:0 "我们的科学家太忙了，没有时间来做这件事。"
+ #Xenophobic Response (no)
+ mem_science_convention.8.phobe:0 "你所谓的“科学”是原始和粗糙的。不行。"
+ #Spiritualist response (no)
+ mem_science_convention.8.spi:0 "科学不能揭开宇宙的神秘面纱。"
+ #Xenophilic Response (yes)
+ mem_science_convention.8.phile:0 "外星科学和外星科学家?我们会去的。"
+ #Materialist Response (yes)
+ mem_science_convention.8.mat:0 "我们将共同发现一个更美好的未来。"
+ #Collectivist Response (yes)
+ mem_science_convention.8.col:0 "我们必须在科学上共同努力，就像在所有事情上一样。"
+ #Individualist Response (no)
+ mem_science_convention.8.ind:0 "这样的会议只会产生集体思维。"
+
+ mem_science_convention.11.name:0 "邀请参加科学大会"
+ mem_science_convention.11.desc:0 "一个奇妙的想法。我们热切地接受你邀请。"
+ #Erudite explorers
+ mem_science_convention.11.a.desc:0 "我们高兴地看到，[invite_sender.GetRulerTitle] [invite_sender.GetRulerName]还认为，知识的积累是工作的重中之重。我们接受。"
+ # Federation builders
+ mem_science_convention.11.b.desc:0 "这样的事件肯定会加强我们两国之间的外交关系。我们接受。"
+ # Fanatical Befrienders
+ mem_science_convention.11.c.desc:0 "一个科学聚会吗?我们一定会去的！"
+ # Peaceful Traders
+ mem_science_convention.11.d.desc:0 "在市场上浏览新商品从来都不是一个坏主意。我们会去的。"
+ mem_science_convention.11.a:0 "有你在船上真是太好了。"
+
+ mem_science_convention.12.name:0 "邀请参加科学大会"
+ mem_science_convention.12.desc:0 "我们认为目前的报价不符合我们的利益。我们不得不拒绝你邀请。"
+ #Democratic crusaders
+ mem_science_convention.12.a.desc:0 "我们吗?在一个压迫者的大会中?我希望你在开玩笑。"
+ # Xenophobic Isolationists
+ mem_science_convention.12.b.desc:0 "我们宁愿集体消灭自己，也不愿与你这样的人讨论我们的科学，外星人。"
+ # Fanatical Purifiers
+ mem_science_convention.12.c.desc:0 "由一群宇宙的畸变持有思想所组成的会议。一个荒唐的笑话。"
+ mem_science_convention.12.a:0 "真够倒霉的。"
+ 
+ mem_opinion_science_convention_fantastic_time:0 "神奇的科学大会"
+ mem_opinion_science_convention_good_time:0 "良好的科学大会"
+ mem_opinion_science_convention_waste_of_time:0 "科学大会是在浪费时间"
+ mem_opinion_science_convention_scientist_dead:0 "可怕的科学大会"

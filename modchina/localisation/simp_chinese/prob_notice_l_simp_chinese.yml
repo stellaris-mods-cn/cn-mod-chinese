@@ -1,0 +1,55 @@
+﻿l_simp_chinese:
+ # colony depopulated
+ prob.colony_depopulated.bombarder.name:0 "敌对殖民地已摧毁"
+ prob.colony_depopulated.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的敌对殖民地[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸摧毁，只留下残骸和受创的土地。"
+ prob.colony_depopulated.owner.name:0 "我方殖民地被摧毁"
+ prob.colony_depopulated.owner.desc:0 "[prob_system_under_bombardment.GetName]中的我方殖民地[prob_planet_under_bombardment.GetName]已被[prob_bombarder.GetAdj]轨道轰炸摧毁，只留下残骸和受创的土地。"
+ prob.colony_depopulated.controller.name:0 "我方占领的殖民地被摧毁"
+ prob.colony_depopulated.controller.desc:0 "[prob_system_under_bombardment.GetName]中由我方占领的殖民地[prob_planet_under_bombardment.GetName]已被[prob_bombarder.GetAdj]轨道轰炸摧毁，只留下残骸和受创的土地。"
+ 
+ # colony glassed
+ prob.colony_glassed.bombarder.name:0 "敌对殖民地已烧熔"
+ prob.colony_glassed.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的敌对殖民地[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸烧熔，只留下一块灼热的岩石飘浮在轨道上。"
+ prob.colony_glassed.owner.name:0 "我方殖民地被烧熔"
+ prob.colony_glassed.owner.desc:0 "[prob_system_under_bombardment.GetName]中的我方殖民地[prob_planet_under_bombardment.GetName]已被[prob_bombarder.GetAdj]轨道轰炸烧熔，只留下一块灼热的岩石飘浮在轨道上。"
+ prob.colony_glassed.controller.name:0 "我方占领的殖民地被烧熔"
+ prob.colony_glassed.controller.desc:0 "[prob_system_under_bombardment.GetName]中由我方占领的殖民地[prob_planet_under_bombardment.GetName]已被[prob_bombarder.GetAdj]轨道轰炸烧熔，只留下一块灼热的岩石飘浮在轨道上。"
+ 
+ # ringworld section ruined
+ prob.ringworld_destroyed.bombarder.name:0 "敌对环形世界区段已毁坏"
+ prob.ringworld_destroyed.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的敌对环形世界区段[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸毁坏，只留下破碎的残骸，而且绝无可能有幸存者。"
+ prob.ringworld_destroyed.owner.name:0 "我方环形世界区段被毁坏"
+ prob.ringworld_destroyed.owner.desc:0 "[prob_system_under_bombardment.GetName]中的我方环形世界区段[prob_planet_under_bombardment.GetName]已被[prob_bombarder.GetAdj]轨道轰炸毁坏，只留下破碎的残骸，而且绝无可能有幸存者。"
+ prob.ringworld_destroyed.controller.name:0 "我方占领的环形世界区段被毁坏"
+ prob.ringworld_destroyed.controller.desc:0 "[prob_system_under_bombardment.GetName]中由我方占领的环形世界区段[prob_planet_under_bombardment.GetName]已被[prob_bombarder.GetAdj]轨道轰炸毁坏，只留下破碎的残骸，而且绝无可能有幸存者。"
+ 
+ # habitat destroyed
+ prob.habitat_destroyed.bombarder.name:0 "敌对轨道栖所已摧毁"
+ prob.habitat_destroyed.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的一个敌对轨道栖所已被我们的轨道轰炸摧毁，只留下残骸在轨道上，而且绝无可能有幸存者。"
+ prob.habitat_destroyed.owner.name:0 "我方轨道栖所被摧毁"
+ prob.habitat_destroyed.owner.desc:0 "[prob_system_under_bombardment.GetName]中的一个我方轨道栖所已被[prob_bombarder.GetAdj]轨道轰炸摧毁，只留下残骸在轨道上，而且绝无可能有幸存者。"
+ prob.habitat_destroyed.controller.name:0 "我方占领的轨道栖所被摧毁"
+ prob.habitat_destroyed.controller.desc:0 "[prob_system_under_bombardment.GetName]中的一个由我方占领的轨道栖所已被[prob_bombarder.GetAdj]轨道轰炸摧毁，只留下残骸在轨道上，而且绝无可能有幸存者。"
+ 
+ # colony captured
+ prob.colony_captured.bombarder.name:0 "敌对殖民地已攻占"
+ prob.colony_captured.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的敌对殖民地[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸清空了其上的军事设施，失去了抵抗能力，被我们占领。"
+ prob.colony_captured.owner.name:0 "我方殖民地被攻占"
+ prob.colony_captured.owner.desc:0 "[prob_system_under_bombardment.GetName]中的我方殖民地[prob_planet_under_bombardment.GetName]在[prob_bombarder.GetAdj]轨道轰炸下失去了所有军事设施，被占领。"
+ prob.colony_captured.controller.name:0 "我方占领的殖民地被攻占"
+ prob.colony_captured.controller.desc:0 "[prob_system_under_bombardment.GetName]中由我方占领的殖民地[prob_planet_under_bombardment.GetName]在[prob_bombarder.GetAdj]轨道轰炸下失去了所有军事设施，被夺走。"
+ 
+ # colony captured (owner)
+ prob.colony_regained.bombarder.name:0 "殖民地已收复"
+ prob.colony_regained.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的我方殖民地[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸清空了其上的敌对军事设施，重新回归我们的控制。"
+ prob.colony_regained.controller.name:0 "我们占领的殖民地被攻占"
+ prob.colony_regained.controller.desc:0 "[prob_system_under_bombardment.GetName]中由我方占领的殖民地[prob_planet_under_bombardment.GetName]在[prob_bombarder.GetAdj]轨道轰炸下被其拥有者夺回。"
+ 
+ # primitive world interaction
+ prob.primitive_conquered.bombarder.name:0 "原始文明世界已征服"
+ prob.primitive_conquered.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的原始文明世界[prob_planet_under_bombardment.GetName]已认识到了我们的优越地位，向我们投降。它现在是我们的领地了。"
+ prob.primitive_destroyed.bombarder.name:0 "原始文明世界已摧毁"
+ prob.primitive_destroyed.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的原始文明世界[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸摧毁，只留下残骸和受创的土地。"
+ prob.primitive_glassed.bombarder.name:0 "原始文明世界已烧熔"
+ prob.primitive_glassed.bombarder.desc:0 "[prob_system_under_bombardment.GetName]中的原始文明世界[prob_planet_under_bombardment.GetName]已被我们的轨道轰炸烧熔，只留下一块灼热的岩石飘浮在轨道上。"
+ prob.primitive_destroyed.bombarder.option:0 "弱小是原罪。"

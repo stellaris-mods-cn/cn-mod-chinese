@@ -1,0 +1,7 @@
+﻿l_english:
+#Housing
+ set_housing:0 "城市部门"
+ set_housing_desc:0 "这是一个完全致力于住房的星球的一部分，就像一个迷你大都市。"
+ 
+ set_housing2:0 "特大城市"
+ set_housing2_desc:0 "一个完全发达的大都市，可以容纳数百万人!"

@@ -1,0 +1,83 @@
+﻿l_simp_chinese:
+
+#Please Declare war before use SW towards Another Empire
+opinion_apocex_nonhostile: "向非敌对帝国发射超级武器"
+opinion_apocex_nonhostile_mine: "没有宣战就向我的星球发射了超级武器"
+
+#Calm Sunshine
+calm_rayed: "平静的阳光"
+calm_rayed_desc: "平静的阳光照耀着，和平是每个人的欢乐，没有军队有高昂的士气，没有人想要战争"
+#Forced Peace, Bad Idea
+uneasy_peace: "迫使和平"
+uneasy_peace_desc: "强迫自己做和平主义者似乎不是个好主意。"
+
+#Aggressiveness Rayed
+mil_rayed: "侵略性表现"
+mil_rayed_desc: "太多的人加入军队了!在这个星球上，没有足够的钱用于军事，他们无法维持。"
+#Not everyone is welcome to army, Bad Idea
+uneasy_mil: "并不是所有人都欢迎参军"
+uneasy_mil_desc: "太多的人加入军队了!我们不能维持这些!每个人都想当兵，但我们不能让大家都加入!"
+
+#Materialist Trend
+mat_rayed: "唯物主义趋势"
+mat_rayed_desc: "唯心主义已经过去，现在唯物主义时代正在兴起!"
+#Having No-Religion is not easy
+uneasy_mat: "没有宗教信仰并不容易"
+uneasy_mat_desc: "放弃宗教是很困难的..."
+
+#Multiculturism Rise
+phi_rayed: "多元文化崛起"
+phi_rayed_desc: "多元文化是当今这个星球的趋势.."
+#Being Xenophile is hard
+uneasy_phi: "亲外是很难的"
+uneasy_phi_desc: "如同它所说的一样..."
+
+#Xenophobia Rise
+pho_rayed: "排外情绪上升"
+pho_rayed_desc: "在强大的巨人袭击之后，仇外情绪正在蔓延"
+#Xenophobia, Not Easy
+uneasy_pho: "仇外心理,不容易"
+uneasy_pho_desc: "但是，排外主义并不容易.."
+
+#Light of Rebellion
+ega_rayed_a: "叛逆之光"
+ega_rayed_a_desc: "起义，开始为自由而战"
+#Light of Democracy
+ega_rayed_b: "民主之光"
+ega_rayed_b_desc: "光明在照耀，民主在召唤.."
+#Being Egalitarian is difficult
+uneasy_ega: "平等主义是很困难的"
+uneasy_ega_desc: "我应该说得更多吗?"
+
+
+#Authority Adapting
+aut_rayed: "权威的适应"
+aut_rayed_desc: "他们正在调整现有的权威"
+#Uneasy Authority Adapting
+uneasy_aut: "不安的权威适应"
+uneasy_aut_desc: "但是，他们不容易适应"
+
+#Ethic Confusion
+ethic_confusion: "伦理困惑"
+ethic_confusion_desc: "正如上面所说，他们混淆了自己的道德标准"
+
+
+#Psionic Swept
+psiswept1: "灵能扫除"
+psiswept1_desc: "灵能扫除的恐怖仍然存在"
+
+#Psionic Particle
+psiswept2: "灵能粒子"
+psiswept2_desc: "灵能粒子大幅增加基础设施成本和维护"
+
+#Psionic Famine
+psiswept3: "灵能饥荒"
+psiswept3_desc: "灵能波严重干扰资源生产，也干扰人口和合成人的生长"
+
+#Psionic Wave
+psiswept4: "灵波"
+psiswept4_desc: "灵能波中断机器人的建造速度"
+
+#Chronocrisis
+chronocrisis: "时间变化"
+chronocrisis_desc: "这个星球的时间被缩短了"

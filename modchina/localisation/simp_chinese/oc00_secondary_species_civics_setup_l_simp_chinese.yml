@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Civics - Planet Civics
+ ####################################
+ 
+ #Regular Empire
+ civic_cbshing_codominant_evolution:0 "共同进化"
+ civic_cbshing_codominant_evolution_desc:0 "第二个物种是这个社会不可分割的一部分。他们曾经和我们一样成熟，在地球上未开发的地方形成了自己的文明。直到我们把它们和我们自己的物种融合在一起。"
+ civic_oc_codominant_evolution_secondary_species:0 "同属物种"
+ civic_tooltip_oc_codominant_evolution_effects:1 "以 §Y12§! £pop 开始游戏！成为另一个共同的物种。"
+ 
+ #Corporate Empire
+ civic_oc_corp_syncretic_evolution:0 "融合型员工"
+ civic_oc_corp_syncretic_evolution_desc:0 "$civic_syncretic_evolution_desc$"
+ 
+ civic_oc_corp_mechanists:0 "机器人制造商"
+ civic_oc_corp_mechanists_desc:0 "$civic_mechanists_desc$"
+ 
+ civic_oc_corp_codominant_evolution:0 "共同雇员"
+ civic_oc_corp_codominant_evolution_desc:0 "$civic_cbshing_codominant_evolution_desc$"

@@ -1,0 +1,80 @@
+﻿l_simp_chinese: 
+
+ vb_psi_empire:0 "黑暗帝国"
+ vb_psi_empire_desc:0 "这种专制制度的噬魂者政府是由一个人统治的，他训练一个学徒在他们死后代替他们。"
+ VB_PSI_MASTER:0 "主"
+ VB_PSI_MISTRESS:0 "夫人"
+ VB_PSI_APPRENTICE:0 "学徒"
+ VB_PSI_APPRENTICE_F:0 "$VB_PSI_APPRENTICE$"
+ 
+ vb_psi_dictatorship:0 "黑法师议会"
+ vb_psi_dictatorship_desc:0 "这种专制的噬魂者政府让一个人选择尽其一生去使用最高的政治和神秘的权力。"
+ VB_PSI_LICH:0 "巫妖"
+ VB_PSI_LICH_F:0 "$VB_PSI_LICH$"
+ 
+ vb_psi_oligarchy:0 "最高女巫集会"
+ vb_psi_oligarchy_desc:0 "这种“噬魂者”的寡头政治是由一群强大的神秘主义者统治的，他们的目的是控制世俗和对公民的追求。"
+ VB_PSI_SUPREME_WARLOCK:0 "最高术士"
+ VB_PSI_SUPREME_WITCH:0 "最高女巫"
+ 
+ vb_psi_democracy:0 "萨满教"
+ vb_psi_democracy_desc:0 "这种民主形式的“噬魂者”政府是由众多民选官员统治的，他们将选民的政治意愿和黑暗力量都传达给他们。"
+ VB_PSI_HIGH_SHAMAN:0 "最高萨满"
+ VB_PSI_HIGH_SHAMANESS:0 "高级萨满女巫"
+ 
+ civic_vb_psi_soul_eater:0 "噬魂者"
+ civic_vb_psi_soul_eater_desc:0 "这个帝国已经被来自物质世界之外的恶毒腐化了。现在他们被贪得无厌的饥饿所驱使，寻找其他有智慧的生命来吞噬。"
+ civic_vb_psi_soul_eater_effects:0 "主要物种将接受§S噬魂者§!特质。经过30年的宽限期，他们将需要消耗灵魂以保持生产力。\n\n那些缺乏这种特质的外星人，虽然被允许按照帝国的政策居住在帝国里，但他们的灵魂逐渐被侵蚀，最终会屈服于奇怪的疾病，为拥有§S噬魂者§!特质物种提供§S食物§!。\n\n在消耗和提供灵魂之间的平衡将增加§S噬魂者§!人口的产量，以及整体的 £influence §Y影响力§! 和 £unity §Y凝聚力§!产出和研究速度，而饥饿将增加他们的战斗能力。\n\n噬魂者帝国不允许将不能§Y合成人飞升§!或§Y灵能飞升§!,或研究£society §M$tech_psionic_theory$§!。"
+ 
+ civic_vb_psi_touched_by_the_shroud:0 "来自虚境的触摸"
+ civic_vb_psi_touched_by_the_shroud_desc:0 "在整个早期的历史中，这个帝国受到了虚境的影响——这是一个超越物质世界的奇特王国。"
+ civic_vb_psi_touched_by_the_shroud_effects:0 "在游戏开始的时候，帝国会得到§E泽洛§!\n一旦帝国获得了§S飞升§!，将会获得 £society §M$tech_psionic_theory$§!。"
+ 
+ trait_vb_psi_soul_eater:0 "噬魂者"
+ trait_vb_psi_soul_eater_desc:0 "受来自物质世界之外的黑暗能量的影响，这个物种是由对智慧生命的贪得无厌的饥渴所驱动的。"
+ 
+ vb_psi_food_level_0:0 "噬魂者: §R耗尽§!"
+ vb_psi_food_level_1:0 "噬魂者: §R饥饿§!"
+ vb_psi_food_level_2:0 "噬魂者: §P极其饥饿§!"
+ vb_psi_food_level_3:0 "噬魂者: §L饥渴§!"
+ vb_psi_food_level_4:0 "噬魂者: §Y持久§!"
+ vb_psi_food_level_5:0 "噬魂者: §E尽情享受§!"
+ vb_psi_food_level_6:0 "噬魂者: §B饱食§!"
+ vb_psi_food_level_7:0 "噬魂者: §G过饱§!"
+ 
+ vb_psi_food_level_0_pop:0 "耗尽"
+ vb_psi_food_level_1_pop:0 "饥饿"
+ vb_psi_food_level_2_pop:0 "极其饥饿"
+ vb_psi_food_level_3_pop:0 "饥渴"
+ vb_psi_food_level_4_pop:0 "持久"
+ vb_psi_food_level_5_pop:0 "尽情享受"
+ vb_psi_food_level_6_pop:0 "饱食"
+ vb_psi_food_level_7_pop:0 "过饱"
+ vb_psi_soul_malaise:0 "灵魂萎靡"
+ 
+ personality_vb_psi_souleaters_personality:0 "噬魂者"
+ personality_vb_psi_souleaters_personality_desc:0 "噬魂者被贪得无厌的饥饿所驱使，并将不惜一切代价来获得新的灵魂来吞噬。对几乎所有人都怀有敌意，他们只会考虑与那些对他们毫无用处的人结成联盟。"
+ 
+ opinion_vb_psi_souleaters_on_others: "噬魂者"
+ opinion_vb_psi_others_on_souleaters:0 "可怕的噬魂者"
+ opinion_vb_psi_ate_our_species:0 "吞噬我们的灵魂"
+ opinion_vb_psi_souleater_on_souleater:0 "噬魂者伙伴"
+ 
+ START_SCREEN_PART_TWO_SOULEATERS:0 "有时，我们的祖先在物质世界之外发现了一个奇怪的地方。现在没有人记得他们的意图，但他们的追求却给他们带来了可怕的力量和更可怕的饥饿。战争爆发了，鲜血被洒在了被打败的灵魂上，直到只有最强大的人才留下来。然而，我们自己的物种现在仅由捕食者组成。我们不能依靠我们战机生存，这意味着我们必须把目光转向太空，寻找新的猎物。"
+ 
+ vb_psi_not_soul_eaters:0 "$TRIGGER_FAIL$不能是§S噬魂者§!。"
+ 
+ casus_belli_vb_psi_cb_soul_eater:0 "灵魂猎手"
+ casus_belli_vb_cb_containment_soul_eater:0 "$casus_belli_cb_containment$"
+ 
+ vb_wg_end_threat_soul_eater:0 "$war_goal_wg_end_threat$"
+ vb_wg_end_threat_soul_eater_desc:0 "$war_goal_wg_end_threat_desc$"
+ 
+ vb_wg_soul_eating:0 "获取新鲜的灵魂"
+ vb_wg_soul_eating_desc:0 "战争的目的是为了保证新的灵魂供给噬魂者。"
+ 
+ vb_psi_need_to_be_hungry:0 "至少是§P极其饥饿§!。"
+ 
+ #Touched by the Shroud event
+ vb_psi_tocuhed.1.name:0 "灵能理论"
+ vb_psi_tocuhed.1.desc:0 "从黎明开始，我们的历史就包含了具有超自然能力的人的记录:巫师、魔术师、心灵感应者、通灵者——散布在人群中。今天，我们终于完成了对他们的能力进行编目和研究的漫长过程，并准备在背后形成一个有凝聚力和全面的理论。"

@@ -1,0 +1,78 @@
+﻿
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_ashes_category:0 "烧焦的土地"
+ mem_ashes_category_desc:0 "[Root.GetName]的荒芜表面完全没有任何生命。但情况可能并非总是这样。"
+ 
+ mem_ashes.999.name:0 "绝对是一个荒芜世界"
+ mem_ashes.999.desc:0 "[Root.GetName]报告称对[FromFrom.GetName]的持续清扫后确定这里完全没有 - 无论是过去的或是现在的，任何生命的迹象。\n\n所有迹象相反被证明是虚假的信息。"
+ 
+ mem_ashes.1.name:0 "地表之下"
+ mem_ashes.1.desc:0 "尽管[From.GetName]的地表被宇宙射线所摧毁，并且完全没有生命，但在它地底下的东西却讲述了一个不同的故事。\n\n看起来这个星球在某种程度上属于中等程度先进的航天飞行前文明，我们的探险家发现了多个地下结构，可能用于储存，运输和避难。其中最重要的是一个幸存的地下快速运输系统，连接到一个巨大的地堡，可能是一个防辐射避难所。在里面，他们发现了大量仓促设置的原始停滞吊舱，仍然可运作并且在里面有假死的外星人。\n\n该复合物受损太大而无法在现场重新激活，但我们可以提取吊舱并将它们带到其他地方，以便更方便地检查和重新激活。"
+ mem_ashes.1.a:0 "把他们带回家。也许外星人可以得救。"
+ mem_ashes.1.b:0 "把吊舱留在那。我们没有时间做这个。"
+ mem_ashes.1.c:0 "清理掉没用的外星人。"
+ 
+ mem_ashes_underground:0 "地下废墟"
+ mem_ashes_underground_desc:0 "虽然星球表面已经被抹去了生命，但曾经居住过的文明的遗迹却在地下被发现。"
+ 
+ mem_ashes_snack:0 "冷冻点心"
+ country_resource_food_add:0 "每月食物"
+ 
+ mem_ashes_chain_title:0 "从灰烬中"
+ mem_ashes_chain_desc:0 "我们在[their_planet.GetName]上找到的休眠吊舱包含了这个毁灭星球的已知最后幸存者。 contain the last known survivors of the planet's destruction."
+ 
+ MEM_ASHES_EXTRACT:0 "提取休眠吊舱"
+ MEM_ASHES_EXTRACT_DESC:0 "这些休眠吊舱显然是用非常原始的技术草草建造的。时间的摧残使他们更加不可靠。把它们搬离到其他世界需要细致和精确。"
+ 
+ mem_ashes.2.name:0 "检索休眠吊舱"
+ mem_ashes.2.desc:0 "我们已经成功地将休眠吊舱从[their_planet.GetName]转移到我们星球上的安全地带。要复活他们可能是棘手的，但以我们的科技来说可以一帆风顺。"
+ mem_ashes.2.a:0 "我们应该考虑我们的选择..."
+ 
+ MEM_ASHES_REVIVE:0 "唤醒休眠者"
+ MEM_ASHES_REVIVE_DESC:0 "我们现在可以唤醒我们在[their_planet.GetName]上找到的外星人。吊舱并不是非常稳定，但我们有必要的科技可以处理潜在的危险。"
+ 
+ MEM_ASHES_AUTOPSY:0 "解剖休眠者"
+ MEM_ASHES_AUTOPSY_DESC:0 "我们并不怎么需要把这些从[their_planet.GetName]来的外星人唤醒。将他们还鲜活的，冻结的身体解剖开可以告诉我们比清醒的谈话更多的事。"
+ 
+ mem_ashes.3.name:0 "休眠者苏醒"
+ mem_ashes.3.desc:0 "成功激活从[their_planet.GetName]来的休眠舱的复苏协议花了我们相当大的功夫。经过翻译软件的校准，幸存者们得以分享他们的故事...[\n\n他们称自己为[their_species.GetNamePlural]。他们的种族已经迈进了早期太空时代，但当他们的第一个宇宙飞船在建设中时，他们发现了他们的太阳的异常活动。因为预见的灾难性的太阳耀斑，他们的政府秘密安排了在旧的辐射避难所内用他们原始的低温技术保存他们社会上最优秀最聪明的人。\n\n他们的计划是在灾难过去时唤醒他们来重建一个新的文明，然而太阳耀斑来得远比预期的更加严重。\n\n随着整个星球表面被消除，大气层被吹走，解除危险的信号一直没有被收到，吊舱被留放在那等待降解，直到我们的科研人员回收了最后的生存舱。\n\n但现在，随着休眠者的苏醒和逐渐适应，我们不能让他们一直呆在我们的研究设施那。需要安排一个新的永久住所。"
+ mem_ashes.3.a:0 "把他们作为我们帝国的一部分安置在我们这。"
+ mem_ashes.3.a.tooltip:0 "§Y[planet_to_colonize.GetName]§!将被[their_species.GetNamePlural]殖民."
+ mem_ashes.3.b:0 "给他们一个星系并建立保护关系。"
+ mem_ashes.3.b.tooltip:0 "§Y[planet_to_colonize.GetName]§!将被[their_species.GetNamePlural]殖民. [planet_to_colonize.Solar_System.GetName]将让给他们，他们将成为我们的附庸国。"
+ mem_ashes.3.c:0 "让他们定居在我们一个星球上。"
+ mem_ashes.3.c.tooltip:0 "[their_species.GetNamePlural]将定居在我们一个有空闲地方的星球上。"
+ mem_ashes_need_free_space:0 "需要有适合幸存者居住的星球的空闲地。"
+ mem_ashes.3.d:0 "让他们打包"
+ mem_ashes.3.d.tooltip:0 "[their_species.GetNamePlural]将被放逐出我们帝国去寻找自己的家。也许我们会再听到他们的消息..."
+ 
+ mem_ashes_survivors:0 "执著的幸存者"
+ mem_ashes_survivors_desc:0 "这个种族从他们母星星球毁灭中幸存下来并获得了第二次机会。他们打算最大程度的利用这次机会。"
+ 
+ mem_ashes.4.name:0 "休眠者解剖完成"
+ mem_ashes.4.desc:0 "我们的科学家已经完成了对在[their_planet.GetName]上找到的吊舱居民的解剖。所获得的数据是非常宝贵的。但随着这个种族的最后一个幸存者在我们的检查桌上死亡，他们的种族永远灭亡了。"
+ mem_ashes.4.a:0 "这才是人生呀！"
+ mem_ashes.4.b:0 "值得的!"
+ mem_ashes.4.c:0 "数据提取成功。"
+ 
+ mem_ashes.6.name:0 "[their_country.GetName]"
+ mem_ashes.6.desc:0 "你们好！你们还记得我们吗？\n\n虽然你们当时不能或者不愿提供一个你们自己帝国的地方给我们，我们并没有忘记你们的善良，我们会永远感激你们从地下室中拯救了我们。\n\n我们现在过得挺好，也已经为自己找到了一个新的世界。我们的一位在最开始在提出地下室的修建有极大帮助作用的领袖表示希望加入你们的帝国，并为你们提供专业的知识以作为我们感激的标志。你们感兴趣吗？"
+ mem_ashes.6.a:0 "并不特别感兴趣。不用了。"
+ mem_ashes.6.b:0 "很好."
+ mem_ashes.6.b.tooltip:0 "我们将收到一个§Y管理者§!"
+ 
+ MEM_ASHES_ASSIMILATION:0 "同化休眠者"
+ MEM_ASHES_ASSIMILATION_DESC:0 "这是一个难得的机会来研究无法抵抗同化的有机物。他们甚至不需要被唤醒以让我们了解他们和他们的过去。"
+ 
+ mem_ashes.7.title:0 "休眠者被同化"
+ mem_ashes.7.desc:0 "将从[their_planet.GetName]来找到的休眠舱中的休眠者成功提取出来花了我们相当大的功夫。当我们把他们添加到我们的集体中时，我们把他们的故事拼凑了起来。[\n\n他们称自己为[their_species.GetNamePlural]。他们的种族已经迈进了早期太空时代，但当他们的第一个宇宙飞船在建设中时，他们发现了他们的太阳的异常活动。因为预见的灾难性的太阳耀斑，他们的政府秘密安排了在旧的辐射避难所内用他们原始的低温技术保存他们社会上最优秀最聪明的人。\n\n他们的计划是在灾难过去时唤醒他们来重建一个新的文明，然而太阳耀斑来得远比预期的更加严重。\n\n随着整个星球表面被消除，大气层被吹走，解除危险的信号一直没有被收到，吊舱被留放在那等待降解，直到我们回收了最后的生存舱。\n\n现在，随着大量的[their_species.GetNamePlural]被重新激活，我们需要对他们制定一个更永久性的安排。"
+mem_ashes.7.a:0 "把他们放到我们的一颗行星上。"
+ mem_ashes.7.a.tooltip:0 "新吸收的[their_species.GetNamePlural]将被放到[planet_to_colonize.GetName]."
+ mem_ashes.7.b:0 "把他们处理掉。在[Root.GetName]没地方给他们."
+ mem_ashes.7.b.tooltip:0 "[their_species.GetNamePlural]将会被杀死。"
+ 
+ mem_ashes_leader_trait:0 "执著的幸存者"
+ mem_ashes_leader_trait_desc:0 "这位领袖在他们世界的毁灭中幸存下来，并打算从他们的第二次机会中获得最大的成功。"

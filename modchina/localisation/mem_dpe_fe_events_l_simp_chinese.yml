@@ -1,0 +1,83 @@
+﻿l_simp_chinese:
+
+ mem_fe.1.name:0 "寻求古老种族的帮助?"
+ mem_fe.1.desc:0 "尽管在过去的几个世纪里我们取得了巨大的进步，但有些疾病还是连最好的[root.GetSpeciesAdj]医生都无法治愈的。[root.GetRulerTitle][root.GetRulerName]不幸被诊断出这样的疾病。医生们被[root.leader.GetHisHer]罕见的退化性大脑状况的突然发作难住了，这使得[root.leader.GetHimHer]只剩下几个月的生命了。然而，有些文明是如此的先进，以致于对我们的人民来说是一个奇迹的事而在那里生活中一个普遍的事实——在那里，甚至像这样的疾病也已经灭绝了。然而，把他们的注意力吸引到自己身上是有风险的，因为他们的情绪是不可预测的，他们的愤怒是可怕的。然而，如果提出合适的代价，也许那些文明愿意拯救[root.GetRulerName]。"
+ mem_fe.1.materialist:0 "向[mem_materialist_fe.GetSpeciesNamePlural]求助。"
+ mem_fe.1.spiritualist:0 "向[mem_spiritualist_fe.GetSpeciesNamePlural]求助。"
+ mem_fe.1.xenophile:0 "向[mem_xenophile_fe.GetSpeciesNamePlural]求助。"
+ mem_fe.1.xenophobe:0 "向[mem_xenophobe_fe.GetSpeciesNamePlural]求助。"
+ mem_fe.1.machine:0 "向[mem_machine_fe.GetSpeciesNamePlural]求助。"
+ mem_fe.1.no:0 "宁死不屈。"
+ mem_fe.1.no.tooltip:0 "有些代价根本不值得付出。"
+ 
+
+ mem_fe.12.name:0 "[mem_xenophobe_fe.GetSpeciesNamePlural]击落我们的信使"
+ mem_fe.12.desc:0 "[mem_xenophobe_fe.GetSpeciesNamePlural]甚至连听都没听就把我们的信使击落了。我们可以假设他们的答案是“不”。"
+ 
+ mem_fe.15.name:0 "[mem_fe.GetName]的响应"
+ mem_fe.15.desc:0 "收到有机体求助。托管人协议317 - 2激活。信息如下:所有有机物将得到我们的帮助。把病人送到我们的星球里去，我们就能得到§R<<错误:数据块损坏>> <<错误:数据块损坏>>§!。等待响应。"
+ mem_fe.15.A:0 "谢谢，我们很乐意接受你的帮助。"
+ mem_fe.15.B:0 "实际上,我们宁愿不…"
+ 
+ mem_fe.16.name:0 "[root.GetRulerTitle] [root.GetRulerName] "治愈""
+ mem_fe.16.desc:0 "信息通报:您的领袖[root.leader.GetHisHer]已经痊愈。[root.leader.GetSheHeCap]可以自由地在我们的圣地度过剩下的[root.leader.GetHisHer]生活。"
+ 
+ 
+ mem_fe.2.name:0 "[mem_fe.GetName]响应"
+ mem_fe.2.desc.friendly:0 "我们将帮助我们的朋友，以很小的代价。"
+ mem_fe.2.desc.angry:0 "我们不会帮助像你这样的小人物，[root.GetSpeciesName]。"
+ mem_fe.2.desc.change:0 "如果你改变你的生活方式，我们会帮助你，[root.GetSpeciesName]。"
+ mem_fe.2.desc.pay:0 "我们将帮助你, [root.GetSpeciesName],但这是要付出代价的。"
+ mem_fe.2.change:0 "我将做必须做的事。"
+ mem_fe.2.pay:0 "我愿意为生存而付出这样的代价。"
+ mem_fe.2.friendly:0 "$mem_fe.2.pay$"
+ mem_fe.2.nopay:0 "代价太高了——我会死得很惨。"
+
+mem_paying_spirFE:0 "支付给失落帝国"
+mem_paying_friendly_spirFE:0 "$mem_paying_spirFE$"
+mem_paying_xenoFE:0 "$mem_paying_spirFE$"
+mem_paying_friendly_xenoFE:0 "$mem_paying_spirFE$"
+mem_paying_matFE:0 "$mem_paying_spirFE$"
+mem_paying_friendly_matFE:0 "$mem_paying_spirFE$"
+
+ mem_fe.3.name:0 "[root.GetRulerTitle] [root.GetRulerName]痊愈"
+ mem_fe.3.desc:0 "我们已经治愈了你们的领袖。为了表示我们对您的支持，我们在[root.leader.GetHisHer]的基础上增加了一些功能。愿[root.leader.GetSheHe]好好利用它!"
+ mem_fe.3.option.spiritualist:0 "添加特质$leader_trait_ruler_psionic$ 被添加到 [root.leader.GetName]."
+ mem_fe.3.option.xenophile:0 "添加特质$leader_trait_ruler_erudite$ 被添加到 [root.leader.GetName]."
+ mem_fe.3.option.materialist:0 "添加特质$leader_trait_ruler_cyborg$ 被添加到 [root.leader.GetName]."
+ mem_fe.3.option:0 "谢谢你的帮助。我们永远欠你的债。"
+ 
+mem_fe_disturbed_us:0 "打扰我们"
+mem_spurned_our_help:0 "拒绝我们的帮助"
+mem_sought_our_help:0 "寻求我们的帮助"
+
+mem_fe.4.name:0 "[root.GetRulerTitle] [root.GetRulerName]死亡"
+mem_fe.4.desc:0 "[root.GetRulerTitle] [root.GetRulerName]的退化性大脑状况在[mem_fe.GetName]的治疗者看到[root.Leader.GetHimHer]之前突然恶化。"
+ 
+mem_leader_trait_reinvigorated:0 "重焕生机"
+mem_leader_trait_reinvigorated_desc:0 "这个领袖又觉得年轻和充满活力，他被古老文明治好了病。"
+ 
+mem_leader_die_soon:0 "[root.GetRulerTitle] [root.GetRulerName]很快就会死去。"
+
+#Second chain
+ mem_fe.20.name:0 "一个失落帝国的逃亡者"
+ mem_fe.20.desc:0 "你好,我的[root.GetRulerTitle]。我是…额…[mem_escaped_scientist.GetName]你忠实的臣民。\n\n*咯咯叫的笑声*\n\n我最近逃离了[FallenEmpireTaskOrigin.GetName]，在那里我对他们的技术进行了深入的研究。我已经设法把我的大部分材料带来了，我相信我可以复制他们的一些技术。\n\n此外，[FallenEmpireTaskOrigin.GetSpeciesNamePlural]还做了一些……改进……给我。我现在的思维能力已经超越了最伟大的[root.GetSpeciesAdj]天才。这可能有点让我发疯，但没关系。\n\n*咯咯叫的笑声*\n\n嗯，我应该提一下，[FallenEmpireTaskOrigin.GetSpeciesNamePlural]可能有点烦我……我相信，没有什么是你不能处理的。\n\n *咯咯叫的笑声*"
+ mem_fe.20.option:0 "好极了…我想?"
+ mem_fe.20.tooltip:0 "[mem_escaped_scientist.GetName]，这是一个5级科学家$leader_trait_scientist_erudite$, $leader_trait_maniacal$ and $mem_leader_trait_ancient_knowledge$ 被添加到领袖池。"
+ 
+ mem_fe.22.name:0 "[mem_escaped_scientist.GetName]被通缉"
+ mem_fe.22.desc:0 "亲爱的[root.GetSpeciesName]。我们注意到你窝藏了那个精神错乱的罪犯，[mem_escaped_scientist.GetName]。在利用大量危险技术逃离当局的同时，[mem_escaped_scientist.GetSheHeCap]犯下了难以形容的暴行。我们必须归还[mem_escaped_scientist.GetSheHe]这样[mem_escaped_scientist.GetSheHe]就可以因[mem_escaped_scientist.GetHisHer]犯罪而接受审判……为了你自己的安全，你必须把[mem_escaped_scientist.GetHisHer]的缓存交给我们，不能让它落在一个不成熟的种族手中。"
+ mem_fe.22.A:0 "[mem_escaped_scientist.GetSheHeCap]我们能得到庇护吗。"
+ mem_fe.22.A.response:0 "你会后悔的，[root.GetSpeciesName]。"
+ mem_fe.22.B:0 "我们将归还[mem_escaped_scientist.GetHimHer]和[mem_escaped_scientist.GetHisHer]的缓存。"
+ mem_fe.22.B.tooltip:0 "[mem_escaped_scientist.GetName]从领袖池中删除。"
+ mem_fe.22.B.response:0 "你做了正确的选择，[root.GetSpeciesName]。"
+ mem_fe.22.C:0 "(撒谎)我们会把[mem_escaped_scientist.GetHimHer]还给你。但缓存是什么呢?"
+ mem_fe.22.C.tooltip:0 "$mem_fe.22.B.tooltip$ [root.GetName]将秘密夺取[mem_escaped_scientist.GetName]的技术储备:"
+ mem_fe.22.C.response:0 "我不得不提醒你给我小心点,[root.GetSpeciesName]。你在玩火自焚。"
+ 
+
+mem_leader_trait_ancient_knowledge:0 "古老的知识"
+mem_leader_trait_ancient_knowledge_desc:0 "这位科学家亲眼目睹了一个$COUNTRY_FALLEN_EMPIRE$的运作方式，并拥致力于复制这些古老技术。"
+ 
+CCREMOVERULER.tooltip:0 "[root.GetRulerTitle] [root.GetRulerName]从游戏中删除。"

@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Planetwonders
+ ###################################################
+ 
+ Planet_Wonder_Discovered:0 "奇异的星球"
+ Planet_Wonder_Discovered_desc:0 "一个非常独特的行星奇迹在这里被发现。"
+ 
+ Planet_Wonder_Ruined:0 "奇异的废墟"
+ Planet_Wonder_Ruined_desc:0 "一个非常独特的行星奇迹曾经在这个星球上被发现。但是在过度改造星球的过程中，这个奇迹几乎被完全摧毁了。"

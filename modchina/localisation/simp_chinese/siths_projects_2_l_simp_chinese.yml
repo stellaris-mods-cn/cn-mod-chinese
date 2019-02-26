@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Special Projects
+ ####################################
+
+ MAC_CRUST_STUDIES_PROJECT:0 "地壳的研究"
+ MAC_CRUST_STUDIES_PROJECT_DESC:0 "地壳下面隐藏着一个工程奇迹。然而，地壳有多厚，需要多长时间才能移除，还需要进一步调查。"
+  
+ MAC_THIN_COVER_PROJECT:0 "薄型结壳"
+ MAC_THIN_COVER_PROJECT_DESC:0 "覆盖整个机器世界的外壳仍然很薄，剥离它不需要太多的时间和精力。后记，剩下的就是激活休眠系统。"
+ 
+ MAC_THICK_COVER_PROJECT:0 "陈年厚壳"
+ MAC_THICK_COVER_PROJECT_DESC:0 "覆盖整个机器世界的外壳经过很长一段时间的堆积，要把它剥下来需要很多时间和精力。后记，剩下的就是激活休眠系统。"
+
+ MAC_SYSTEM_REACTIVATION_PROJECT:0 "系统激活"
+ MAC_SYSTEM_REACTIVATION_PROJECT_DESC:0 "现在我们有了进入真实表面的适当途径，剩下要做的就是重新激活长时间休眠的系统。"

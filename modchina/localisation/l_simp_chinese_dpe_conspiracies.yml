@@ -1,0 +1,133 @@
+﻿l_simp_chinese:
+#l_english:
+#commented this out so that I get the correct tooltips with my validator
+
+
+dpe_conspiracy.20.name:0 "叛国言论"
+dpe_conspiracy.20.desc:0 "今天早些时候，[authoritarian.GetTitle] [authoritarian.GetName]面向所有主要媒体发表了一场演讲，其中所表达的观点几近谋反：[authoritarian.GetSheHe]设想了[root.GetName]被重重艰险挑战所笼罩的未来，称虚弱且分裂的政府在这种情景中将束手无策，毫无作为。为冲出困境，[authoritarian.GetSheHe]宣扬我们需要一种新的政府形式，由一名能够作出种种艰难决断的强势领袖坐镇，引领[root.GetSpeciesAdj]实现伟大复兴。[authoritarian.GetSheHeCap]暗示说，如果政府未能主动求变，"恳切、富有爱国热情的公民"将不得不自行寻求解决方案。\n\n自发表演说之后，[authoritarian.GetName]保持了低调，行踪成谜。不过[authoritarian.GetSheHe]留下了一则重重加密的信息，为自己的保密行为道歉，但解释说[authoritarian.GetSheHe]担心自己在目前的政治环境中有生命危险。[authoritarian.GetSheHeCap]同时还留下了联系自己的方式，称如果我们愿意"认清现实"就同意与我们谈谈。\n\n我们应如何回应？"
+dpe_conspiracy.20.A:0 "逮捕这个叛徒！"
+dpe_conspiracy.20.A.tooltip:0 "情报机构将试图追踪并逮捕[authoritarian.GetName]"
+dpe_conspiracy.20.B:0 "要求作出解释"
+dpe_conspiracy.20.C:0 "[authoritarian.GetSheHeCap] [authoritarian.GetIsAre]言之有理！"
+dpe_conspiracy.20.D:0 "无视[authoritarian.GetHimHer]"
+
+dpe_conspiracy.21.name:0 "[authoritarian.GetName]被捕！"
+dpe_conspiracy.21.desc:0 "情报机构成功追踪并逮捕了[authoritarian.GetName]。[authoritarian.GetSheHeCap] [authoritarian.GetIsAre]现在因叛国罪而受审。幸运的话这将是我们最后一次听到[authoritarian.GetSheHe]的消息了。"
+
+dpe_conspiracy.211.name:0 "[authoritarian.GetName]承认参与阴谋！"
+dpe_conspiracy.211.desc:0 "在经受严厉讯问后，[authoritarian.GetName]承认参与反对[root.GetRulerTitle]的阴谋。然而当我们从[authoritarian.GetHimHer]口中成功撬出同谋的名字后方才发觉，乱党主体在[authoritarian.GetName]被捕后大为惊恐，现在已主动流亡到了 [rival.GetName]。我们已指示边境武装，阻止他们再度返回[root.GetName]。[root.GetSpeciesAdj]公民们现在可以长舒一口气了。"
+
+dpe_conspiracy.22.name:0 "逮捕[authoritarian.GetName]行动失败！"
+dpe_conspiracy.22.desc:0 "我们的情报机构未能追踪到[authoritarian.GetName]。 [authoritarian.GetHisHerCap]的藏身之处和目前的活动不得而知。谁知道[authoritarian.GetSheHe]在筹划什么呢？"
+
+dpe_conspiracy.23.name:0 "[authoritarian.GetName]进行回应"
+dpe_conspiracy.23.desc:0 "很抱歉，[root.GetRulerName]......但我所讲的都是事实，让人民认清事实是我的责任。为确保[root.GetSpeciesAdj]的美好未来，我将绝无迟疑地采取一切必要行动。"
+dpe_conspiracy.23.option:0 "让[authoritarian.GetHimHer]继续讲"
+
+dpe_conspiracy.24.name:0 "$dpe_conspiracy.23.name$"
+dpe_conspiracy.24.desc:0 "你要知道，我为此事已筹划良久。你唯一保留体面的方法就是主动下台，让强者统领全局。"
+dpe_conspiracy.24.A:0 "绝无可能。逮捕这叛徒！"
+dpe_conspiracy.24.A.tooltip:0 "$dpe_conspiracy.20.A.tooltip$"
+dpe_conspiracy.24.A.response:0 "就这样吧"
+dpe_conspiracy.24.B:0 "也许[authoritarian.GetSheHe]是对的......"
+dpe_conspiracy.24.B.tooltip:0 "$dpe_conspiracy.27.A.tooltip$"
+dpe_conspiracy.24.B.response:0 "好极了。我对[root.GetName]重新燃起了希望"
+dpe_conspiracy.24.C:0 "保持警惕"
+
+dpe_conspiracy.25.name:0 "阴谋暴露！"
+dpe_conspiracy.25.desc:0 "[root.GetSpeciesAdj]情报机构发掘出了一项意图在[root.GetName]建立威权体制政府的庞大阴谋。[authoritarian.GetName]虽是名义领袖，但其背后的支持力量似乎来自许多重量级[root.GetSpeciesNamePlural]政客，以及军队中的某个重要派别。如果阴谋成功，他们有可能会迅速推翻现有体制，重新建立一个威权主义政府。"
+dpe_conspiracy.25.A:0 "采取全面戒严"
+dpe_conspiracy.25.A.tooltip:0 "阴谋参与者将很难出逃"
+dpe_conspiracy.25.B:0 "加倍努力搜捕乱党"
+
+dpe_state_in_lockdown:0 "全面戒严"
+dpe_state_in_lockdown_desc:0 "政府关闭了大部分非核心区域，试图追踪并镇压一个意图谋反的阴谋团体。"
+dpe_state_in_lockdown_faction:0 "公民自由因戒严而受限"
+
+dpe_conspiracy.26.name:0 "阴谋元凶被捕！"
+dpe_conspiracy.26.desc:0 "[root.GetSpeciesAdj]情报及安全机构成功锁定了威权主义阴谋数名头目的身份和藏身之地。凭此情报，他们对乱党展开抓捕，落网之鱼包括[authoritarian.GetName]。威胁已被完全消除。"
+
+dpe_conspiracy.27.name:0 "阴谋！"
+dpe_conspiracy.27.desc:0 ""我本希望事情不必发展至此，但我不能坐视你毁掉[root.GetName]。"\n\n[root.GetRulerTitle] [root.GetRulerName]转过身来，看到[authoritarian.GetName]拿枪指着自己。"不用费心呼叫守卫了，他们是我的人，"[authoritarian.GetName]冷酷的说道。"现在，你有两个选择。你可以签署这份文件，声明支持新政权，然后被流放；或者我就在此时此地取你性命。由你决定。" "
+dpe_conspiracy.27.desc.clever:0 ""我本希望事情不必发展至此，但我不能坐视你毁掉[root.GetName]。"\n\n[root.GetRulerTitle] [root.GetRulerName]转过身来，看到[authoritarian.GetName]拿枪指着自己。"你！"\n\n[authoritarian.GetName]露出冷笑。"是的，我。你差点就抓到我们了，对吧。我几乎就要怀疑自己的决定是否正确了。几乎。"[authoritarian.GetSheHeCap]戏剧化地叹了口气。"不用费心呼叫守卫了，他们是我的人。现在，你有两个选择。你可以签署这份文件，声明支持新政权，然后被流放；或者我就在此时此地取你性命。由你决定。""
+dpe_conspiracy.27.desc.stupid:0 ""我本希望事情不必发展至此，但我不能坐视你毁掉[root.GetName]。"\n\n[root.GetRulerTitle] [root.GetRulerName] 转过身来，看到[authoritarian.GetName]拿枪指着自己。\n\n"我完全没有想到竟然是你，"[root.GetRulerName]说。\n\n[authoritarian.GetName]露出冷笑。"问题就在这里。你的软弱让你从来都无力去做必要之事。"[authoritarian.GetSheHeCap] 戏剧化地叹了口气。"不用费心呼叫守卫了，他们是我的人。现在，你有两个选择。你可以签署这份文件，声明支持新政权，然后被流放；或者我就在此时此地取你性命。由你决定。""
+dpe_conspiracy.27.A:0 "安静的离开"
+dpe_conspiracy.27.A.tooltip:0 "[root.GetRulerTitle] [root.GetRulerName]主动下台，接受流放"
+dpe_conspiracy.27.B:0 "战至最后"
+
+dpe_illegitimate_regime:0 "非法政权"
+dpe_illegitimate_regime_desc:0 "现政权刺杀了前任统治者，通过阴谋得掌大权。"
+
+dpe_seized_control_faction:0 "夺取了权力"
+dpe_lost_control_faction:0 "因阴谋而失去权力"
+
+dpe_conspiracy.28.name:0 "阴谋消散"
+dpe_conspiracy.28.desc:0 "在[authoritarian.GetName]销声匿迹后，叛乱的流言曾经四处传播。然而，我们的情报机构忠于职守，挫败了所有的阴谋企图。反叛活动已经平息，[authoritarian.GetName]被目击到流亡至[rival.GetName]，看来已经向失败低头。"
+
+
+
+
+dpe_conspiracy.1.name:0 "海军向政府请愿"
+dpe_conspiracy.1.desc:0 "致[root.GetRulerTitle] [root.GetRulerName]，\n\n众所周知，帝国海军实力卓绝。我们的成员训练精良，战斗意志冠绝银河，我们的舰船先进强大，令敌人瑟瑟发抖。海军将士们勤勉无休地警惕注视着任何可能威胁国家与人民的挑战，对维护[root.GetName]的安全与稳定、支撑国家的银河地位至关重要。\n\n正因如此，当我看到海军因[root.GetSpeciesAdj]内部政治问题而陷入困境时，我的心情沉痛无比。下到基层士兵，上至舰队司令，我们无不清晰地感受到，海军正在被边缘化，它的贡献被视作理所当然。海军将士们出生入死，所得薪酬却微薄到令人发指。不仅如此，文官干预在我们的运转中无处不在：他们决定我们的人事任命，控制我们的招募及升职政策，甚至会因所谓的"不够谨慎"而随意贬斥一位得胜归来的指挥官。在所有对海军利益攸关的决策上，我们根本无从发声。\n\n这些重重阻碍使得海军越来越难以担负起保卫[root.GetName]的重任。对于[root.GetRulerTitle]您本人来说，这样的局面也是重大隐患。如果再不作出积极改变，我们将很难继续保证国家及您治下政府的稳定。\n\n诚挚的，\n[militarist.GetName],\n [militarist_faction.GetName]领袖兼帝国海军发言人"
+dpe_conspiracy.1.A:0 "是时候采取更加军国主义的路线了"
+dpe_conspiracy.1.B:0 "也许舰队薪酬应该得到提升"
+dpe_extra_naval_expenses:0 "额外的海军维护费"
+dpe_extra_naval_expenses_desc:0 "政府被迫向海军划拨更多资金，以确保他们的忠诚"
+dpe_conspiracy.1.C:0 "海军不得干预政府"
+dpe_conspiracy.1.C.tooltip:0 "舰队军官们将会极为不满。如选择此项回应，应采取措施削减海军影响力（如缩减规模）或以其他手段安抚军国主义派系。"
+dpe_military_petition_rejected:0 "请愿遭拒"
+
+dpe_conspiracy.2.name:0 "海军军官抗命"
+dpe_conspiracy.2.desc:0 "数位高层海军军官似乎开始无视你的命令。你无法通过任何联络手段与他们沟通。顾问们担忧这可能预示着危机。你已经联系了其他一些军阶较低的军官，但他们称没有发现任何异常情况。"
+#CCWORRYING
+
+#(2 days later)
+dpe_conspiracy.3.name:0 "军事政变！"
+dpe_conspiracy.3.desc:0 "这里是[militarist.GetName]。我代表[root.GetSpeciesAdj]海军向你通告。我们的舰队司令们一致同意，为维护国家利益，[root.GetSpeciesAdj]政府必须被置于我们的保护之下。我们的舰炮已将你锁定，地面部队也已包围[root.GetGovtBuilding]。你已无法逃脱。如果不立刻投降，我们的炮火将淹没你和[root.GetGovtBuilding]。你有一个小时考虑时间。"
+dpe_conspiracy.3.option:0 "我们别无选择"
+dpe_conspiracy.3.tooltip:0 "[root.GetRulerTitle] [root.GetRulerName]辞职下台，接受流放"
+
+#GetGovtBuilding:
+ccloc_democracy_building:0 "国会大厦"
+ccloc_oligarchy_building:0 "议会大楼"
+ccloc_others_building:0 "你的宫殿"
+
+dpe_military_coup_faction:0 "军事政变"
+
+#Follow-up event (Paid ransom): 
+dpe_conspiracy.4.name:0 "海军要求更多资金"
+dpe_conspiracy.4.desc:0 "致[root.GetRulerTitle] [root.GetRulerName]，\n\n距上一次您同意资助我们荣耀而勇敢的海军已经过去很久了，现在我们需要更多。随着舰队扩张，舰船老化，新式装备部署，以及舰队司令们对研发项目的支持，之前划拨的那点补助早已捉襟见肘。为此我被委派向您通告，我们迫切需要更多资金，以履行维护国家安全的职责。我们可不能亏待为保家卫国而出生入死的战士们，不是吗？\n\n诚挚的，\n[militarist.GetName]，\n[militarist_faction.GetName]领袖兼[root.GetSpeciesAdj]海军发言人"
+dpe_conspiracy.4.A:0 "好，拿走你索要的赎金。舰队必须继续服从命令，守卫边境。"
+dpe_conspiracy.4.B:0 "军队的天职是服从政府命令。你们最好牢记这一点！"
+dpe_conspiracy.4.B.tooltip:0 "$dpe_conspiracy.1.C.tooltip$"
+dpe_conspiracy.4.C:0 "你刚才提到研发计划？"
+
+dpe_extra_naval_expenses_2:0 "$dpe_extra_naval_expenses$"
+dpe_extra_naval_expenses_2_desc:0 "$dpe_extra_naval_expenses_desc$"
+
+dpe_conspiracy.5.name:0 "海军研发计划"
+dpe_conspiracy.5.desc:0 "海军高层们理解舰队花费了国家大笔预算。有鉴于此，他们决定要将我们的舰队打造成全银河最先进尖端的劲旅。然而，科研人员、军事实验室和配套材料花费不菲，要满足我们严苛的标准更是如此。一旦我们收到所需的资金，就能开始强化各个舰队，最终达到我们的目标，让所有银河种族都对我们的军事力量艳羡惧怕。"
+dpe_conspiracy.5.A:0 "我们很乐意为这项新的研发计划投资"
+dpe_conspiracy.5.B:0 "国家无力负担这种支出"
+dpe_conspiracy.5.B.tooltip:0 "$dpe_conspiracy.1.C.tooltip$"
+
+dpe_navy_RandD:0 "向海军研发项目注资"
+dpe_navy_RandD_desc:0 "国家正为打造现代化舰队而投资"
+
+
+dpe_conspiracy.6.name:0 "高额海军支出徒劳无用？"
+dpe_conspiracy.6.desc:0 "在我们的舰队最近被[fromfrom.GetName]击败后，许多人开始质疑拨给海军的额外资金是否被妥善使用--毕竟，他们无法为[root.GetName]带来胜利。其他部门也早已开始游说要求更多资金，称他们更能帮助[root.GetName]重拾往昔荣耀。"
+dpe_conspiracy.6.A:0 "舰队仍然需要我们的资金"
+#only if the fleet has taken a beating
+dpe_conspiracy.6.B:0 "资金应重新调配，用于重建舰队。"
+dpe_conspiracy.6.C:0 "资金确实应该拨给其他更具实效的领域"
+#only if the fleet is still fully intact
+dpe_conspiracy.6.C.tooltip:0 "$dpe_conspiracy.1.C.tooltip$"
+dpe_conspiracy.6.C.tooltip2:0 "舰队军官们将会极为不满。如选择此项回应，应采取措施控制海军影响力，使其不致威胁政府稳定，或以其他手段安抚军国主义派系。"
+
+dpe_rebuilding_fleet:0 "重建舰队"
+dpe_rebuilding_fleet_desc:0 "在一次战斗落败后，国家正将资金调配给舰队重建工程"
+dpe_rebuilding_fleet_2:0 "$dpe_rebuilding_fleet$"
+dpe_rebuilding_fleet_2_desc:0 "$dpe_rebuilding_fleet_desc$"
+dpe_naval_pay_cut_faction:0 "海军薪酬削减"
+dpe_navy_privileges_cut_faction:0 "海军的福利被削减"

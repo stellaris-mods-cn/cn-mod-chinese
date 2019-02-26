@@ -1,0 +1,67 @@
+﻿l_simp_chinese:
+ ######################
+ # STRATEGIC RESOURCES
+ ######################
+ sr_marks_caste:0 "种姓标志"
+ sr_marks_caste_desc:1 "在社区和社会中接受地位和角色的形式。"
+ sr_artefacts_faith:0 "信仰的文物"
+ sr_artefacts_faith_desc:1 "具有宗教意义的神圣物体。"
+ sr_holy_texts:0 "圣书"
+ sr_holy_texts_desc:1 "圣经、圣经和宗教意义的书。"
+ 
+ building_hall_of_assignment:0 "作业大厅"
+ building_hall_of_assignment_desc:1 "一旦成年，种姓制度就在这里正式分配。种姓血统的记录是精心保存的。\n\n§R只能建在靠近首都建筑的地方。§!"
+ building_power_plant_collective:0 "集体电厂"
+ building_power_plant_collective_desc:1 "专业的技术人员和会计人员管理和维护这个设施。\n\n§R只能在作业大厅附近建造。§!"
+ building_work_collective:0 "集体生产工厂"
+ building_work_collective_desc:1 "一个由农民和工人组成的专家阶层运作和维护这个设施。\n\n§R只能在作业大厅附近建造。§!"
+ building_great_order_1:0 "第一个大都市"
+ building_great_order_1_desc:1 "一个巨大的城市中心，人口众多，有信仰和精神。\n\n§R只能建造在行星都城或升级的首都，或寺庙和升级的寺庙附近建造。§!"
+ building_great_order_2:0 "第二个大都市"
+ building_great_order_2_desc:1 "一个巨大的城市中心，人口众多，有信仰和精神。\n\n§R只能建造在行星都城或升级的首都，或寺庙和升级的寺庙附近建造。§!"
+ building_monastery_of_knowledge:0 "修道院"
+ building_monastery_of_knowledge_desc:1 "科学和技术是有效的魔法，必须认真研究、记录和崇拜，作为我们信仰的礼物。\n\n§R只能建在寺庙附近。§!"
+ building_governerspalace:0 "总督宫"
+ building_governerspalace_desc:1 "一个顺从的贵族代表团提供重要的服务和更多的政府政策的制定。"
+ building_templeofrule:0 "行政殿堂"
+ building_templeofrule_desc:1 "高级神职人员的命令为制定政府政策提供了重要的服务和更多的授权。\n\n§R只能建立在行星管理或更好的资本的行星上。§!"
+
+ # REQUIREMENT TOOLTIPS
+ requirement_adjacent_building_hall_of_assignment:0 "§R只能在作业大厅附近建造。§!"
+ requirement_adjacent_templeofrule:0 "§R只能建在寺庙附近。§!"
+ requirement_adjacent_capital:0 "§R只能建在靠近首都建筑的地方。§!"
+ requirement_adjacent_level1_capital_or_temple:0 "§R只能建造在行星都城或升级的首都，或寺庙和升级的寺庙附近建造。§!"
+
+ # MISCELLANEOUS MODIFIERS AND RESOURCE LABELS
+ shipsize_science_construction_speed_mult: "科研船建造速度"
+ tile_building_resource_unity_add: "凝聚力产出"
+ food_production_construction_speed_mult: "食物建筑建造速度"
+ food_production_build_cost_mult: "食物建筑建造成本"
+ minerals_production_construction_speed_mult: "矿物建筑建造速度"
+ minerals_production_build_cost_mult: "矿物建筑建造成本"
+ energy_production_construction_speed_mult: "能量币建筑建造速度"
+ energy_production_build_cost_mult: "能量币建筑建造成本"
+ unity_production_construction_speed_mult: "凝聚力建筑建造速度"
+ unity_production_build_cost_mult: "凝聚力建筑建造成本"
+ influence_production_construction_speed_mult: "影响力建筑建造速度"
+ influence_production_build_cost_mult: "影响力建筑建造成本"
+ science_production_construction_speed_mult: "科学建筑建造速度"
+ science_production_build_cost_mult: "科学建筑建造成本"
+ 
+ has_technocratic_cultism: "技术官僚主义"
+ 
+ # ARMIES
+ spiritual_templars_army:0 "银河圣堂武士"
+ spiritual_templars_army_plural:1 "圣堂武士的公司"
+ spiritual_templars_army_desc:0 "精神军事狂热者致力于保护和传播信仰。带着大炮和动力装甲。"
+ judges_lawkeepers_army:0 "法官"
+ judges_lawkeepers_army_plural:1 "法官"
+ judges_lawkeepers_army_desc:0 "他们是法律。"
+ 
+ lawkeepers_troop_limit_tooltip:0 "§R需要一个作业大厅。一个星球最多可以建立5个法官军队。§!"
+ sancmilitia_troop_limit_tooltip:0 "§R需要批准的民兵法令。一个星球最多可以建造8支民兵部队。§!"
+ peacekeepers_troop_limit_tooltip:0 "§R一个星球最多能建造3支维和部队。§!"
+ 
+ # EDICTS
+ edict_technocratic_cultism:0 "支配技术官僚主义"
+ edict_technocratic_cultism_desc:1 "科学和技术是一种可以腐蚀灵魂的魔法，只能由那些有最强烈的精神信念的人来管理。当这条法令生效时，修道院将增加产量和影响。\n\n§R我们必须有4个以上的圣书来使用这个法令。§!"

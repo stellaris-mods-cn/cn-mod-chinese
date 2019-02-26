@@ -1,0 +1,510 @@
+﻿l_simp_chinese:
+
+### SHIP COMPONENTS TEXTS
+
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§H解锁组件:§! 天堂装甲"
+TECH_UNLOCK_ORIGIN_ARMOR_DESC: "非常耐用的装甲层，由古代未知材料制成，可以修复任何损坏。"
+
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§H解锁组件:§! 六翼天使装甲镀层"
+TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "这些钢板是由未知材料制成的，不仅非常耐用，而且能够重塑和再生，以修复对船体造成的任何损害。"
+
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§H解锁组件:§! 神圣之盾"
+TECH_UNLOCK_ORIGIN_SHIELD_DESC: "这些炽热的护盾可能是星系所见过的最强能量护盾技术。"
+
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§H解锁组件:§! 光物质推进器"
+TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+      
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§H解锁组件:§! 光物质反应堆"
+TECH_UNLOCK_ORIGIN_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+TECH_UNLOCK_ORIGIN_SENSORS_TITLE: "§H解锁组件:§! 天督传感器"
+TECH_UNLOCK_ORIGIN_SENSORS_DESC: "这些高度先进的传感器可以很容易地穿透敌人的能量读数，并实时地从许多系统报告它们的确切位置。"
+
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§H解锁组件:§! 自主式战斗分析仪"
+TECH_UNLOCK_ORIGIN_CCOM_DESC: "自给式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。"
+
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§H解锁组件:§! 永恒星辰引擎"
+TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "接受光物质。拥抱永恒。群星尽在我们的掌握之中。"
+
+ORIGIN_FLAK_CANNON: "六翼天使防御矩阵"
+ORIGIN_FLAK_CANNON_DESC: "闪避?这可是2300年。再多的闪避也不能让敌人免受由星辰能量制成的枪林弹雨。"
+
+ENERGY_LANCE_POINT_DEFENCE: "宙斯矛点防御系统"
+ENERGY_LANCE_POINT_DEFENCE_DESC: "对旧版本的能量喷枪重新调整并改装远程点位防御系统。"
+
+ORIGIN_STELLARITE_LASER: "星辰激光炮"
+ORIGIN_STELLARITE_LASER_DESC: "$massive_ship_fallen_empire$的星辰射线，$large_ship_fallen_empire$的星辰光矛和$small_ship_fallen_empire$的星辰激光炮。我们的敌人将被燃烧殆尽！！"
+
+ORIGIN_JUDGEMENT_DISRUPTOR: "纳米驱魔雷"
+ORIGIN_JUDGEMENT_DISRUPTOR_DESC: "一股强烈的纳米能量波，将所有物质都化为虚无，包括船上的生物。"
+
+ORIGIN_ARTILLERY: "光物质火炮"
+ORIGIN_ARTILLERY_DESC: "这些火炮射弹注入集中的光物质，能迅速吸收护盾产生的较弱能量，严重损害目标舰船和其电子系统。"
+
+ORIGIN_OMNI_PLASMA: "星辰等离子体加速器"
+ORIGIN_OMNI_PLASMA_DESC: "发射这种武器12秒需要消耗12亿的能量币。敌人可能可以战胜能量喷枪，但他们不可能战胜等离子弹雨。"
+
+ORIGIN_FIGHTER: "圣骑士战斗机"
+ORIGIN_FIGHTER_DESC: "专门设计用于通过导弹和鱼雷使用其自身自动设计的一种太空优越性的打击技术。"
+
+ORIGIN_BOMBER: "十字军轰炸机"
+ORIGIN_BOMBER_DESC: "这些轰炸机高度设防，高速飞行，装备强大的斯特拉瑞特导弹，即使是最坚固的战舰也能在短时间内完成任务。"
+
+HOLY_LANCE: "艾莉亚之光"
+HOLY_LANCE_DESC: "虽然与泰坦光矛基本相同，但添加的光物质聚焦透镜消除了能量喷枪对护盾低效的弱点，使这一美丽的武器拥有了不可否认的优势。"
+
+ORIGIN_ULTIMATE_WEAPON: "神圣审判"
+ORIGIN_ULTIMATE_WEAPON_DESC: "光之武器，阻止邪恶势力的到来。"
+
+ORIGIN_FLAGSHIP_SUPER_WEAPON: "天意"
+ORIGIN_FLAGSHIP_SUPER_WEAPON_DESC: "始源帝国所使用的终极武器。天意能在一次攻击中蒸发大部分舰船，而且这种攻击完全无视护盾和装甲。由于方舟拥有多个反应堆，天意射线比起它的缩小型号充能速度更快。"
+
+ORIGIN_LANCE: "星辰矛炮"
+ORIGIN_LANCE_DESC: "一种非常强大但射速极慢的能量喷枪，利用星辰的力量将敌舰化为尘土。"
+
+STARVIPER_MISSILE: "星蛇导弹"
+STARVIPER_MISSILE_DESC: "优雅的导弹利用星辰能量作为武器。它们是致命的，很难被击落。"
+
+ORIGIN_EXCORSIST_EMITTER: "圣雷"
+ORIGIN_EXCORSIST_EMITTER_DESC: "一种强大的恒星级能量武器，专为始源帝国的先进舰船所使用。"
+
+ORIGIN_EXCORSIST_EMITTER_LARGE: "神圣风暴"
+ORIGIN_EXCORSIST_EMITTER_LARGE_DESC: "力量!无限的力量!伪装者的舰船将被重新组织成一批愚蠢的灰烬和垃圾，他们理应如此，伴随着雷鸣般的掌声。"
+
+CELESTIAL_ARMOR: "天堂装甲"
+CELESTIAL_ARMOR_DESC: "非常耐用的装甲层，由古代未知材料制成，可以修复任何损坏。"
+SERAPH_PLATING: "六翼天使装甲镀层"
+SERAPH_PLATING_DESC: "这些钢板是由未知材料制成的，不仅非常耐用，而且能够重塑和再生，以修复对舰船造成的任何损害。"
+DIVINE_SHIELD: "神圣之盾"
+DIVINE_SHIELD_DESC: "这些炽热的护盾可能是星系所见过的最强能量护盾技术。"
+
+
+MEDIUM_CELESTIAL_ARMOR: "中型天堂装甲"
+MEDIUM_CELESTIAL_ARMOR_DESC: "非常耐用的装甲层，由古代未知材料制成，可以修复任何损坏。"
+
+LARGE_CELESTIAL_ARMOR: "大型天堂装甲"
+LARGE_CELESTIAL_ARMOR_DESC: "非常耐用的装甲层，由古代未知材料制成，可以修复任何损坏。"
+
+MEDIUM_SERAPH_PLATING: "中型六翼天使镀层"
+MEDIUM_SERAPH_PLATING_DESC: "这些钢板是由未知材料制成的，不仅非常耐用，而且能够重塑和再生，以修复对舰船造成的任何损害。"
+
+LARGE_SERAPH_PLATING: "大型六翼天使镀层"
+LARGE_SERAPH_PLATING_DESC: "这些钢板是由未知材料制成的，不仅非常耐用，而且能够重塑和再生，以修复对舰船造成的任何损害。"
+
+MEDIUM_DIVINE_SHIELD: "中型神圣之盾"
+MEDIUM_DIVINE_SHIELD_DESC: "这些炽热的护盾可能是星系所见过的最强能量护盾技术。"
+
+LARGE_DIVINE_SHIELD: "大型神圣之盾"
+LARGE_DIVINE_SHIELD_DESC: "这些炽热的护盾可能是星系所见过的最强能量护盾技术。"
+
+ORIGIN_ESCORT_SHIP_THRUSTER: "光物质推进器"
+ORIGIN_ESCORT_SHIP_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+
+ORIGIN_BATTLECRUISER_SHIP_THRUSTER: "光物质推进器"
+ORIGIN_BATTLECRUISER_SHIP_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+
+ORIGIN_TITAN_SHIP_THRUSTER: "光物质推进器"
+ORIGIN_TITAN_SHIP_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+
+ORIGIN_GOLIATH_SHIP_THRUSTER: "光物质推进器"
+ORIGIN_GOLIATH_SHIP_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+
+ORIGIN_FLAGSHIP_SHIP_THRUSTER: "光物质推进器"
+ORIGIN_FLAGSHIP_SHIP_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+
+ORIGIN_ESCORT_REACTOR: "光物质反应堆"
+ORIGIN_ESCORT_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_BATTLECRUISER_REACTOR: "光物质反应堆"
+ORIGIN_BATTLECRUISER_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_TITAN_REACTOR: "光物质反应堆"
+ORIGIN_TITAN_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_GOLIATH_REACTOR: "光物质反应堆"
+ORIGIN_GOLIATH_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_STATIONS_REACTOR: "光物质反应堆"
+ORIGIN_STATIONS_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_TOWER_REACTOR: "光物质反应堆"
+ORIGIN_TOWER_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_FLAGSHIP_REACTOR: "光物质反应堆"
+ORIGIN_FLAGSHIP_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
+
+ORIGIN_SENSOR: "天督传感器"
+ORIGIN_SENSOR_DESC: "这些高度先进的传感器可以很容易地穿透敌人的能量读数，并实时地从许多系统报告它们的确切位置。"
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER: "$small_ship_fallen_empire$进攻作战分析仪"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。系统针对攻击性战术进行了优化。"
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER: "$small_ship_fallen_empire$防御作战分析仪"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。系统针对防御性战术进行了优化。"
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "$large_ship_fallen_empire$进攻战斗分析仪"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。系统针对攻击性战术进行了优化。"
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "$large_ship_fallen_empire$防御战斗分析仪"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。系统针对防御性战术进行了优化。"
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_TITAN: "泰坦进攻战斗分析仪"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。系统针对攻击性战术进行了优化。"
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_TITAN: "泰坦舰防御战斗分析仪"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。系统针对防御性战术进行了优化。"
+
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "歌利亚进攻战斗分析仪"
+ORIGIN_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。系统针对攻击性战术进行了优化。"
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "歌利亚防御战斗分析仪"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。这个特殊版本是为防御战术而优化的。"
+
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_FLAGSHIP: "盖亚终极战斗分析仪"
+ORIGIN_DEFENSIVE_COMBAT_COMPUTER_FLAGSHIP_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。这个特别的版本是为盖亚方舟优化的。"
+
+ORIGIN_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "恒星基地自动战斗分析仪"
+ORIGIN_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。这个特别的版本是为恒星基地计算机设计的。"
+
+ORIGIN_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "平台自动战斗分析仪"
+ORIGIN_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "自主式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰艇的整个系统以最少的人工输入做出相应的反应。这个特定的版本是为防御平台计算机设计的。"
+
+ORIGIN_JUMP_DRIVE: "永恒星辰引擎"
+ORIGIN_JUMP_DRIVE_DESC: "接受光物质。拥抱永恒。群星尽在我们的掌握之中。"
+
+ORIGIN_AURA_SHIELD_SUPERCHARGER: "神秘扭曲力场"
+ORIGIN_AURA_SHIELD_SUPERCHARGER_DESC: "这个极其强大的扭曲力场摧毁敌方舰船的力量，并将辅助盟军舰船。他们的力量是我们来指挥和征服的。"
+
+ORIGIN_AURA_SUPERAURA: "全矩阵连接"
+ORIGIN_AURA_SUPERAURA_DESC: "全矩阵连接在舰队内所有舰船的计算机之间建立了强大的人工连接场，将它们整合为一个牢不可破的链连。"
+
+AUX_STELLARITE_CORE: "星辰超聚焦核心"
+AUX_STELLARITE_CORE_DESC: "星辰超聚焦核心将光物质的过剩能量转化为能量光环，极大地增强了舰船的武器系统。"
+
+AUX_ENIGMATIC_AI: "神秘数字智能分析仪"
+AUX_ENIGMATIC_AI_DESC: "该独特的战斗计算机理解所有始祖设计的每个内部工作，并将它们的弱点更新到主计算机。按1删除觉醒帝国。按2删除巅峰帝国。按3键删除始源帝国。按4将它们全部消灭。"
+
+aura_origin: "全矩阵连接"
+aura_shield_supercharger_give: "科琳的礼物"
+aura_shield_supercharger_sap: "科琳的诅咒"
+
+#### SHIP Tech ####
+
+origin_tech_armor: "天堂装甲"
+origin_tech_armor_desc: "始源帝国使用的装甲钢板似乎是由一种未知的材料制成，可能来自他们的家乡。它们非常耐用，能够像活金属一样重塑形状。"
+
+origin_tech_artillery: "光物质火炮"
+origin_tech_artillery_desc: "我们已经发现，只要有足够的动能，极其集中的光物质可以被用作威力非常强大的炮弹，可以迅速地吸走敌舰的能量护盾。"
+
+origin_tech_bomber: "十字军轰炸机中队"
+origin_tech_bomber_desc: "根据对始源帝国残骸的分析，我们可以制造出最强大的轰炸机之一"
+
+origin_tech_computer: "自主式战斗分析仪"
+origin_tech_computer_desc: "这些极其先进的战斗计算机似乎否定了其他的多样化战术，它简单地将所有设计的力量分为两类:进攻和防御。"
+
+origin_tech_disruptor: "纳米驱魔雷"
+origin_tech_disruptor_desc: "光物质可以通过正确的聚焦透镜引导到极端致命的武器中。这是一种被称为“驱魔射线”的武器。一种可怕的类似破坏者的能量波把整艘舰船炸得粉碎。"
+
+origin_tech_enigmatic_ai: "神秘数字智能分析仪"
+origin_tech_enigmatic_ai_desc: "这种高深莫测的技术似乎有着独特的用途。这台计算机是专门设计来分析所有古老帝国舰船设计中存在的弱点的。在此之后，新的算法将立即更新到每个武器瞄准系统。"
+
+origin_tech_fighter: "圣骑士战斗机中队"
+origin_tech_fighter_desc: "看来始源帝国部署了这些快速致命的太空超级歼击机，作为对轰炸机和导弹的护卫和定点防御。它们的速度非常快而且能抵御一定的攻击。"
+
+origin_tech_flak: "六翼天使防御矩阵"
+origin_tech_flak_desc: "先进的传感器，神秘的电脑，致命的武器。所有这些因素结合在一起，似乎使这个点防御系统成为任何舰载机和导弹的噩梦。"
+
+origin_tech_goliath_aura: "全矩阵连接"
+origin_tech_goliath_aura_desc: "协调是关键，我们的旗舰将是我们所有舰队的协调中心。"
+
+origin_tech_holy_lance: "艾莉亚之光"
+origin_tech_holy_lance_desc: "这支威力强大的能量喷枪以始源帝国的家园所在的星球命名，是在他们流亡期间，为了回应帝国的覆灭所采用的成群结队的战术而制作的。虽然不如“神意”强大，但艾莉亚之光在对付小型舰船时更有效。"
+
+origin_tech_jump_drive: "永恒跃迁引擎"
+origin_tech_jump_drive_desc: "光物质反应堆让我们能够创造任何银河文明都希望实现的最强大的跳跃动力之一。现在FTL旅行看起来就像驾驶一辆气垫车一样简单。"
+
+origin_tech_lance_point_defence: "宙斯矛点防御系统"
+origin_tech_lance_point_defence_desc: "老一代的能量枪没有太多用处，但有了先进的技术，我们可以把它们变成点防御武器。为什么不呢?"
+
+origin_tech_laser: "星辰激光炮"
+origin_tech_laser_desc: "基于一种原则，始源帝国使用了很多的星辰武器。这种致命的最先进的集束型激光炮塔超越了大多数类似大小的武器。"
+
+origin_tech_missile: "星辰导弹"
+origin_tech_missile_desc: "整颗恒星的能量都被注入这些导弹中。敌人是要煮的还是要炸的?"
+
+origin_tech_plasma: "星辰等离子体加速器"
+origin_tech_plasma_desc: "发射这种武器12秒需要消耗12亿的能量币。敌人可能可以战胜能量喷枪，但他们不可能战胜等离子弹雨。"
+
+origin_tech_plating: "六翼天使装甲镀层"
+origin_tech_plating_desc: "这些钢板是由未知材料制成的，不仅非常耐用，而且能够重塑和再生，以修复对舰船造成的任何损害。"
+
+origin_tech_reactor: "光物质反应堆"
+origin_tech_reactor_desc: "通过迄今为止无法解释的方法，这些发光的反应堆产生的无限能量远远超过了暗物质。 解开这个秘密将能让我们进一步探索新的可能性。我们也将可以利用一些始源帝国的舰船设计。"
+
+origin_tech_sensor: "天督传感器"
+origin_tech_sensor_desc: "这些高度先进的传感器可以很容易地穿透敌人的能量读数，并实时地从许多系统报告它们的确切位置。"
+
+origin_tech_shield: "神圣之盾"
+origin_tech_shield_desc: "这些炽热的护盾可能是银河系内所见过的最强的能量护盾技术。"
+
+origin_tech_stellar_core: "星辰超聚焦核心"
+origin_tech_stellar_core_desc: "有了这些多余的能量，一个人总能利用越来越多的能量。力量!无限的力量!"
+
+origin_tech_stellarite_cannon: "星辰矛炮"
+origin_tech_stellarite_cannon_desc: "尽管比$TITAN_LASER$弱，但这些能量喷枪仍是有史以来最致命的炮塔式能量武器之一。"
+
+origin_tech_supercharger: "神秘扭曲力场"
+origin_tech_supercharger_desc: "这个极其强大的扭曲力场摧毁了敌方舰船的力量，并将辅助盟军船只。他们的力量是我们来指挥和征服的。"
+
+origin_tech_thruster: "光物质推进器"
+origin_tech_thruster_desc: "古老但极其强大的舰船推进器远远超过其他设计。"
+
+origin_tech_ultimate_weapon: "神圣审判之光"
+origin_tech_ultimate_weapon_desc: "始源帝国使用的终极武器。神判巨炮能够在一次攻击中瞬间蒸发掉大部分舰船。完全无视护盾和装甲。但该武器需要非常长时间进行充能，并且射击角度很狭窄。"
+
+origin_tech_celestial_guardian: "天国战士"
+origin_tech_celestial_guardian_desc: "这些精英战士曾经是原始帝国家园的守护者，他们愿意在我们的旗帜下再次为荣耀而战。然而，我们首先需要了解他们的能力，并首先向他们介绍我们的军事理论。"
+
+origin_tech_planet_killer_naniter: "纳米清洗"
+origin_tech_planet_killer_naniter_desc: "纳米清洗是始源帝国的可怕武器，可以迅速地用纳米清洗整个星球。"
+
+ORIGIN_ESCORT_KEY: "始源护航舰 前部"
+ORIGIN_ESCORT_STERN_KEY: "始源护航舰 后部"
+
+ORIGIN_BATTLECRUISER_BOW_KEY: "始源$large_ship_fallen_empire$ 矛"
+ORIGIN_BATTLECRUISER_KEY: "始源$large_ship_fallen_empire$ 装甲"
+ORIGIN_BATTLECRUISER_STERN_KEY: "始源$large_ship_fallen_empire$ 护盾"
+
+ORIGINAL_TITAN_BOW_KEY: "始源泰坦 弓"
+ORIGINAL_TITAN_KEY: "始源泰坦 箭"
+ORIGINAL_TITAN_HANGAR: "始源泰坦 箭袋"
+ORIGINAL_TITAN_STERN: "始源泰坦 斗篷"
+
+ORIGIN_GOLIATH_BOW_KEY: "巨神 先锋"
+ORIGIN_GOLIATH_KEY: "巨神 力量"
+ORIGIN_GOLIATH_HANGAR: "巨神 随从"
+ORIGIN_GOLIATH_STERN: "巨神 替代"
+
+ORIGINAL_COLOSSUS_SECTION: "始源$colossus$"
+
+sofe_ancient_weapon: "盖亚方舟"
+sofe_ancient_weapon_plural: "盖亚方舟"
+sofe_ancient_cruiser: "无畏舰"
+sofe_ancient_cruiser_plural: "无畏舰"
+sofe_ancient_escort: "炮舰"
+sofe_ancient_escort_plural: "炮舰"
+sofe_ancient_small_military_station: "防卫核心"
+sofe_ancient_small_military_station_plural: "防卫核心"
+
+damage_vs_country_type_ascended_empire_mult: "对巅峰帝国的伤害"
+damage_vs_country_type_lost_empire_mult: "对$COUNTRY_FALLEN_EMPIRE$伤害"
+damage_vs_country_type_original_empire_mult: "对始源帝国的伤害"
+
+aryan: "雅利安人"
+NAME_ORIGINAL: "始源"
+NAME_ORIGINAL_PLURAL: "始源"
+ORIGINAL: "人形?"
+original_empire_general: "无政府主义者"
+original_empire_admiral: "总督"
+
+origin_assault_guardian: "天堂监护者"
+origin_assault_guardian_desc: "这些新一代的圣哲们曾经是始源帝国的家园守护者，现在他们忠诚地服务于新秩序，通过毁灭带来拯救。"
+origin_guardian: "天国战士"
+origin_guardian_desc: "这些神圣的守护者保护着孤独的堡垒，始源帝国最后的家园。他们有着几千年的战斗经验，他们已经成为最致命的战士，无人能及。"
+
+origin_citadel: "神圣堡垒"
+origin_citadel_plural: "神圣堡垒"
+origin_super_citadel: "金色王座"
+origin_super_citadel_plural: "金色王座"
+
+building_crystal_arch: "水晶拱塔"
+building_crystal_arch_desc: "为了弥补他们有限的空间，始源帝国建造了这些光能发电塔，可以非常高效地产生大量的能量和矿物质。"
+
+building_eden_garden: "伊甸园"
+building_eden_garden_desc: "始源帝国在L-星团中只有一个星系，他们被困其中，他们将所有的生活奢侈品和食品生产组合成一个高效的建筑包。"
+
+building_heaven_sanctuary: "天堂圣所"
+building_heaven_sanctuary_desc: "数以百万计的帝国剩余的公民居住在这个首都城市，等待着他们对那些冤枉他们的人的报复。"
+
+building_omega_fortress: "ω堡垒"
+building_omega_fortress_desc: "意识到这是他们唯一剩下的星球，始源帝国把所有地面部队集中在这个巨大的堡垒周围，很容易就能抵御几乎任何入侵企图。"
+
+building_power_pyramid: "ω金字塔"
+building_power_pyramid_desc: "这个神秘的建筑连接了每一个始源帝国的建筑光物质电网，以最大化的生产。"
+
+building_super_shelter: "停泊科研船"
+building_super_shelter_desc: "由于始源帝国不再需要调查L-星团周围的星系，他们只是把所有先进的科研船停靠在表面上，在那里作为临时实验室，徒劳地试图发现如何重新打开L-星门。"
+
+building_chamber_of_hope: "希望之室"
+building_chamber_of_hope_desc: "在空虚的黑暗中，只有通过这个古老的冥想室，最初的人们才能找到慰藉、安宁和宁静……和愤怒。"
+
+building_grand_fortress: "宏伟城堡"
+building_grand_fortress_desc: "宏伟的堡垒容纳了始源帝国的支援部队。虽然远不及“欧米茄要塞”那么致命，但它仍拥有强大的防御力量，可以阻止大多数入侵部队。"
+
+building_library_of_fate: "命运之图书馆"
+building_library_of_fate_desc: "始源人类的神圣图书馆包含了许多古代银河事件的记录，每一个被征服的世界。始源帝国后期的每一项重大成就。奇怪的是，在他们成为巅峰帝国之前没有包含任何有用的细节，也许他们想要完全放弃他们的过去?"
+
+civic_solar_empire: "永恒帝国"
+civic_solar_empire_desc: "始源帝国，可以说是史上最强大的帝国之一，他们的公民永远都有野心，数千年的流放对他们的信仰没有丝毫动摇。"
+
+civic_eternal_fleet: "永恒舰队"
+civic_eternal_fleet_desc: "始源帝国舰队非常先进，即使在长期流亡后也不需要维修。他们的海军上将和船员能够指挥他们的船只，就像他们身体的一部分一样。"
+
+civic_know_everything: "永恒复仇"
+civic_know_everything_desc: "作为所有技术和文明的先驱，始源帝国集中了他们所有的努力来研究篡位者的技术的所有内部运作。除非那些利用暗物质的人受到适当的惩罚，否则他们不会停止。"
+
+gov_ancient_ascendency: "远古权势"
+gov_ancient_ascendency_desc: "始源帝国是一个古老的巅峰帝国，早于大多数银河文明。这个帝国的最终目标是——而且很可能仍然是——创建一个“大秩序”，一个统一的银河，遵循一个终极规则。然而，现在看来，始源帝国只寻求复仇和报复"
+
+protectorate_of_original: "始源帝国保护国"
+protectorate_of_original_desc: "我们受到始源帝国的保护。作为对忠诚和权力的交换，古老的上帝赐予了我们安全、经济繁荣和有用的作战数据，以对抗其他古代帝国。"
+
+banished_of_original: "永恒惩罚"
+banished_of_original_desc: "始源帝国要求我们为我们的罪行忏悔，我们必须用人力和资源来支持他们的野心。我们也不允许进行任何外交或扩张。"
+
+SUBJECT_origin_protectorate: "始源帝国保护国"
+SUBJECT_DESC_origin_protectorate: "始源帝国保护国是一个普通的帝国，它宣誓效忠并屈服于始源帝国。他们必须用自己20%的海军能力来支持始源帝国。作为回报，始源帝国给了他们经济上的好处和针对其他远古帝国的特殊战术数据。"
+
+SUBJECT_origin_banished_ascendancy: "永恒赎罪"
+SUBJECT_DESC_origin_banished_ascendancy: "一个强大的巅峰帝国，这个帝国就羞愧地向始源帝国投降。不允许进行外交或扩张的。他们还被迫向他们的新主人支付大量的贡品，以表示他们对罪行的忏悔。"
+
+opinion_new_orginal_empire: "新的始源帝国"
+opinion_new_orginal_empire_desc: "通过研究和掌握光物质的力量，我们被许多人视为始源帝国的继承者。他们不会对我们现在所面临的威胁做出很好的反应。"
+
+PROJECT_ALL_ORIGIN_TECH: "始源帝国的巅峰"
+PROJECT_ALL_ORIGIN_TECH_DESC: "我们将在始源帝国失败的地方取得成功。我们将利用他们的知识和技术，为银河系创造一个新的未来。我们的野心不会受挫!!"
+
+PROJECT_LIGHT_MATTER: "光物质反应堆分析"
+PROJECT_LIGHT_MATTER_DESC: "如果我们想在与始源帝国的战斗中平起平坐，我们必须使用他们自己的力量来对付他们。一旦我们理解了光物质能量的概念，我们将能够驾驶更强大的飞船!!"
+
+PROJECT_OFFENSE_ORIGIN_TECH: "始源帝国进攻分析"
+PROJECT_OFFENSE_ORIGIN_TECH_DESC: "强大的火力是我们在作战策略中唯一的行动方针。如果他们有更强大的武器，那么我们将把它们变成我们自己的。"
+
+PROJECT_DEFENSE_ORIGIN_TECH: "始源帝国防御分析"
+PROJECT_DEFENSE_ORIGIN_TECH_DESC: "装甲，护盾，推进器和跃迁引擎。这些是我们战胜敌人所需要的工具。他们无法击败他们所达不到的东西!"
+
+PROJECT_UTILITY_ORIGIN_TECH: "始源帝国战略分析"
+PROJECT_UTILITY_ORIGIN_TECH_DESC: "我们必须了解他们的电脑是如何工作的。如果可能的话，我们将能够将我们的战术数据应用到他们身上，并使他们的设计适应我们自己的设计。"
+
+ORIGINAL_ARKSHIP_REBUILD: "方舟开拓"
+ORIGINAL_ARKSHIP_REBUILD_DESC: "利用从始源帝国造船厂获得的最后资源，我们可以重建始源帝国的盖亚方舟:凯撒。这艘船的规模需要大量的建造船和时间投资。"
+
+ORIGINAL_FLEET_REBUILD: "金色无敌舰队"
+ORIGINAL_FLEET_REBUILD_DESC: "利用始源帝国造船厂遗留下来的资源，我们可以组装一个庞大的自己的设计舰队。他们可能没有始源帝国的力量强大，但它们被证明更实用。"
+
+trait_bionic_implants: "全矩阵AI助手"
+trait_bionic_implants_desc: "这个物种利用极其强大的感知能力协助它们完成多项任务。"
+
+trait_ancient_race: "神圣之人"
+trait_ancient_race_desc: "这个物种是真正神圣的，从时间开始就存在。他们几乎是不朽的，拥有超自然的力量。"
+
+trait_ancient_knowledge: "守时"
+trait_ancient_knowledge_desc: "这个物种的成员总是守时，使他们比其他物种更多产。"
+
+trait_master_mind: "应然之心"
+trait_master_mind_desc: "这个物种已经掌握了超越虚境的心灵异能。他们的思想是一致的，他们的道路是清晰的。"
+
+leader_trait_admiral_ancient_knowledge: "神圣海军上将"
+leader_trait_admiral_ancient_knowledge_desc: "这位上将具有神圣人民的标志。对小帝国使用的所有战术都有知识和理解。"
+leader_trait_admiral_bionic_implant: "全矩阵AI助手"
+leader_trait_admiral_bionic_implant_desc: "海军上将由全矩阵AI助理协助，允许海军上将指挥每艘船，就好像它们是身体的一部分。"
+leader_trait_admiral_master_mind: "应然之心"
+leader_trait_admiral_master_mind_desc: "这位海军上将已经完善了心灵异能，能够引导强大的屏障帮助指挥舰队。"
+
+leader_trait_general_ancient_knowledge: "神圣将军"
+leader_trait_general_ancient_knowledge_desc: "这位将军具有神圣人民的标志。对先辈从古至今所使用的战场战术有全面的了解。"
+leader_trait_general_bionic_implant: "全矩阵AI助手"
+leader_trait_general_bionic_implant_desc: "这个将军由全矩阵AI助理协助，允许将军指挥每一支军队，就像他们是身体的一部分一样。"
+leader_trait_general_master_mind: "应然之心"
+leader_trait_general_master_mind_desc: "这位将军已经精通心灵异能，能够引导强大的灵能帮助指挥军队。"
+
+leader_trait_governor_ancient_knowledge: "神圣总督"
+leader_trait_governor_ancient_knowledge_desc: "这位统治者具有神圣人民的标志。对先辈自古以来所使用的行政管理有全面的了解。"
+leader_trait_governor_bionic_implant: "全矩阵AI助手"
+leader_trait_governor_bionic_implant_desc: "这位总督有全协助矩阵AI助手,允许总督直接领导劳动力,好像他们是身体的一部分。"
+leader_trait_governor_master_mind: "应然之心"
+leader_trait_governor_master_mind_desc: "这个统治者已经完善了心灵异能，能够形成心灵连接，并将所有人团结在一起，走向统一和力量。"
+
+leader_trait_scientist_ancient_knowledge: "神圣科学家"
+leader_trait_scientist_ancient_knowledge_desc: "这位科学家具有神圣之人的特征。对先辈自古以来使用的所有技术都有一定的了解和认识。"
+leader_trait_scientist_bionic_implant: "全矩阵AI助手"
+leader_trait_scientist_bionic_implant_desc: "这个科学家在全矩阵AI助手的帮助下,允许科学家执行通过与极端的效率分析和探索。"
+leader_trait_scientist_master_mind: "应然之心"
+leader_trait_scientist_master_mind_desc: "这位科学家已经完善了心灵异能，能够引导强大的灵能来保护脆弱的科学飞船，并大大提高了速度。"
+
+leader_trait_ruler_ancient_knowledge: "神之统治者"
+leader_trait_ruler_ancient_knowledge_desc: "这位统治者具有神圣人民的标志。拥有古代始源帝国皇帝的知识和权力。"
+leader_trait_ruler_bionic_implant: "全矩阵AI助手"
+leader_trait_ruler_bionic_implant_desc: "这位领袖在全矩阵AI助手协助下,让统治者提高帝国的舰船结构。"
+leader_trait_ruler_master_mind: "应然之心"
+leader_trait_ruler_master_mind_desc: "这位统治者已经完善了心灵异能，能够以统一和目的使用异能来指挥和征服帝国。"
+
+tb_origin_infestation: "侵扰"
+tb_origin_infestation_desc: "这一地区似乎受到一些未知生物的严重侵扰。清理这一地区需要大量的投资。"
+
+tb_origin_quarantine_zone: "隔离区"
+tb_origin_quarantine_zone_desc: "这片区域似乎是为了隔离这片栖息地内的危机。该地区现在已经被遗弃。"
+
+pop_origin_defiant: "无视始源人民"
+pop_origin_defiant_desc: "始源帝国仍然蔑视我们的规则。除非我们说服他们尽快改变做法，否则我们可能不得不采取极端措施。"
+
+processing_original: "处理始源人民"
+processing_original_desc: "始源人民被处理进我们的电网，给我们巨大的资源提升。"
+
+consuming_original: "同化始源人民"
+consuming_original_desc: "始源人民被同化到我们的蜂群思维中，赋予我们巨大的知识和力量。"
+
+personality_original_empire_personality: "归来的先祖"
+personality_original_empire_personality_desc: "现在还不清楚返回的祖先想要星系什么……"
+
+shipsize_colossus_hull_add: "$colossus$船体值增加"
+
+ORIGIN_PLANET_KILLER_NANITE: "纳米清洗"
+ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洗是始源帝国的可怕武器，可以迅速地用纳米清洗整个世界。"
+ORIGIN_PLANET_KILLER_NANITE_ACTION: "纳米清洗"
+
+FLEETORDER_DESTROY_PLANET_WITH_ORIGIN_PLANET_KILLER_NANITE: "准备用纳米清洗$PLANET|Y$ "
+MESSAGE_DESC_FOR_ORIGIN_PLANET_KILLER_NANITE: "从什么地方得到的"
+is_nanited: "§R$TRIGGER_FAIL$目标已经是一个纳米世界§!"
+
+ESCORT_OFFENSIVE_BEHAVIOR_DESC: "§H护送进攻战术:§! 这艘舰船将进入近距离并形成攻击线。(§Y60§!)."
+ESCORT_DEFENSIVE_BEHAVIOR_DESC: "§H护送防御战术:§! 这艘舰船将留在后面形成防线。(§Y100§!)."
+
+BATTLECRUISER_OFFENSIVE_BEHAVIOR_DESC: "§H巡洋舰进攻战术:§! 这艘舰船将进入近距离并形成攻击线。 (§Y110§!)."
+BATTLECRUISER_DEFENSIVE_BEHAVIOR_DESC: "§H巡洋舰防御战术:§! 这艘舰船将留在后面形成防线。(§Y150§!)."
+
+TITAN_OFFENSIVE_BEHAVIOR_DESC: "§H泰坦进攻战术:§! 这艘舰船将进入近距离并形成攻击线。 (§Y130§!)."
+TITAN_DEFENSIVE_BEHAVIOR_DESC: "§H泰坦防御战术:§! 这艘舰船将留在后面形成防线。(§Y最大§!)."
+
+GOLIATH_OFFENSIVE_BEHAVIOR_DESC: "§H歌利亚进攻战术:§! 这艘舰船将进入近距离并形成攻击线。 (§Y150§!)."
+GOLIATH_DEFENSIVE_BEHAVIOR_DESC: "§H歌利亚防御战术:§! 这艘舰船将留在后面形成防线。(§YMax§!)."
+
+FLAGSHIP_DEFENSIVE_BEHAVIOR_DESC: "§H旗舰防御战术:§! 该舰将以无情的效率扫描和消灭所有敌对目标。(§Y250§!)."
+
+not_in_crisis: "§R只有在威胁到星系规模的情况下，才能使用银河系防御协议。§!"
+edict_origin_final_armada: "§M银河防御协议:§! 最后的无敌舰队"
+edict_origin_final_armada_desc: "面对威胁着整个银河系和我们命运的敌人，如果我们要生存下去，我们必须准备尽可能多的舰队。"
+
+edict_origin_mass_production: "§M银河防御协议:§! 大规模生产"
+edict_origin_mass_production_desc: "当银河系的命运岌岌可危时，我们不能节省任何开支。所有产品必须提高到最大。我们面临着前所未有的敌人。"
+
+edict_origin_persuit_of_knowledge: "§M银河防御协议:§! 知识就是力量"
+edict_origin_persuit_of_knowledge_desc: "我们必须找到应对当前危机的任何优势。如果我们要打败敌人，就必须尽可能多地了解他们。"
+
+edict_origin_mod_menu_edict: "§E打开 Sins of the Fallen Empire 菜单§!"
+edict_origin_mod_menu_edict: "此菜单将允许您调整或修复SOFE的各个方面。"
+
+challenger_original: "始源帝国洞察力"
+challenger_original_desc: "通过对光物质的分析，我们可以将各种有用的方面应用到暗物质的设计中。失落帝国已经打败了始源帝国，我们还会这样做。永远都会"
+
+pleb_original: "平民的诅咒"
+pleb_original_desc: "有什么东西用可怕的减魔法诅咒你，使你成为一个垃圾的平民。"
+
+easy_original: "使命召唤的诅咒"
+easy_original_desc: "按F表示尊敬并赢得战斗。 F F F F F F F F F F F/n/n任务失败了。我们下次会拿到的。"
+
+hard_original: "艰苦的恩惠"
+hard_original_desc: "Stellaris之黑暗之魂? "
+
+terrible_original: "Kolyn 通过"
+terrible_original_desc: "BATMANNNN...BATMANNNNNNNNNN BATMANNNNNN BATMANNNNN"

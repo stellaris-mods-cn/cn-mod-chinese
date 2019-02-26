@@ -1,0 +1,116 @@
+﻿l_simp_chinese:
+
+#AEXMENU
+apocex_menu_title: "ApocEX菜单"
+apocex_menu_desc: "ApocEX的菜单"
+#CXMENU SP
+CX_MENU_OPEN: "打开巨像菜单"
+CX_MENU_OPEN_DESC: "设置巨像"
+apocex_generic.30.title: "ApocEX巨像菜单"
+apocex_generic.30.desc: "ApocEX巨像配置菜单"
+#CXMENU:巨像政策
+apocex_generic.30.cp.on: "巨像政策: §G 打开 §!"
+apocex_generic.30.cp.off: "巨像政策: §R 关闭 §!"
+#CXMENU:Planet Killers
+apocex_generic.30.pk.on: "更多行星杀手: §G 打开 §!"
+apocex_generic.30.pk.off: "更多行星杀手: §R 关闭 §!"
+#CXMENU:Supertools
+apocex_generic.30.st.on: "超级工具: §G 打开 §!"
+apocex_generic.30.st.off: "超级工具: §R 关闭 §!"
+#CXMENU:Upgraded Colossus
+apocex_generic.30.uc.on: "升级巨像: §G 打开 §!"
+apocex_generic.30.uc.off: "升级巨像: §R 关闭 §!"
+#CXMENU:Colossus Component
+apocex_generic.30.cc.on: "巨像组件: §G 打开 §!"
+apocex_generic.30.cc.off: "巨像组件: §R 关闭 §!"
+#IXMENU SP
+IX_MENU_OPEN: "打开离子加农炮菜单"
+IX_MENU_OPEN_DESC: "设置离子加农炮"
+apocex_generic.50.title: "ApocEX离子加农炮菜单"
+apocex_generic.50.desc: "ApocEX离子加农炮配置菜单"
+#IXMENU:Improved
+apocex_generic.50.ioni.on: "改进的离子加农炮部分: §G 打开 §!"
+apocex_generic.50.ioni.off: "改进的离子加农炮部分: §R 关闭 §!"
+#IXMENU:Striker
+apocex_generic.50.ions.on: "前锋大炮部分: §G 打开 §!"
+apocex_generic.50.ions.off: "前锋大炮部分: §R 关闭 §!"
+#IXMENU:XL
+apocex_generic.50.ionx.on: "XL大炮部分: §G 打开 §!"
+apocex_generic.50.ionx.off: "XL大炮部分: §R 关闭 §!"
+#IXMENU:Hybrid
+apocex_generic.50.ionh.on: "混合炮部分: §G 打开 §!"
+apocex_generic.50.ionh.off: "混合炮部分: §R 关闭 §!"
+#IXMENU:Doomsday
+apocex_generic.50.iond.on: "末日大炮部分: §G 打开 §!"
+apocex_generic.50.iond.off: "末日大炮部分: §R 关闭 §!"
+#TXMENU SP
+TX_MENU_OPEN: "打开泰坦菜单"
+TX_MENU_OPEN_DESC: "设置Titan"
+apocex_generic.70.title: "ApocEX泰坦菜单"
+apocex_generic.70.desc: "ApocEX泰坦配置菜单"
+#TXMENU:Sections
+apocex_generic.70.ts.on: "更多泰坦部分: §G 打开 §!"
+apocex_generic.70.ts.off: "更多泰坦部分: §R 关闭 §!"
+#TXMENU:Titan Component
+apocex_generic.70.tc.on: "泰坦组件: §G 打开 §!"
+apocex_generic.70.tc.off: "泰坦组件: §R 关闭 §!"
+#AXMENU SP
+AX_MENU_OPEN: "打开光环菜单"
+AX_MENU_OPEN_DESC: "设置光环"
+apocex_generic.90.title: "ApocEX光环菜单"
+apocex_generic.90.desc: "ApocEX光环配置菜单"
+#AXMENU:Additional Auras
+apocex_generic.90.aa.on: "额外的光环: §G 打开 §!"
+apocex_generic.90.aa.off: "额外的光环: §R 关闭 §!"
+#AXMENU:Ion Cannon
+apocex_generic.90.ia.on: "离子加农炮光环: §G 打开 §!"
+apocex_generic.90.ia.off: "离子加农炮光环: §R 关闭 §!"
+#AXMENU:Colossus
+apocex_generic.90.ca.on: "巨像光环: §G 打开 §!"
+apocex_generic.90.ca.off: "巨像光环: §R 关闭 §!"
+#AXMENU:Tidebreaker
+apocex_generic.90.ta.on: "破浪者光环: §G 打开 §!"
+apocex_generic.90.ta.off: "破浪者光环: §R 关闭 §!"
+#AXMENU:Hurricane
+apocex_generic.90.ha.on: "飓风光环: §G 打开 §!"
+apocex_generic.90.ha.off: "飓风光环: §R 关闭 §!"
+#AXMENU:White Night
+apocex_generic.90.wa.on: "白夜光环: §G 打开 §!"
+apocex_generic.90.wa.off: "白夜光环: §R 关闭 §!"
+#AXMENU:Sun Shooter
+apocex_generic.90.sa.on: "太阳射手光环: §G 打开 §!"
+apocex_generic.90.sa.off: "太阳射手光环: §R 关闭 §!"
+#VXMENU SP
+VX_MENU_OPEN: "打开Voidcraft菜单"
+VX_MENU_OPEN_DESC: "设置Voidcraft"
+apocex_generic.110.title: "ApocEX Voidcraft菜单"
+apocex_generic.110.desc: "ApocEX Voidcraft配置菜单"
+#VXMENU:Tidebreaker
+apocex_generic.110.vt.on: "破浪者: §G 打开 §!"
+apocex_generic.110.vt.off: "破浪者: §R 关闭 §!"
+#VXMENU:Hurricane
+apocex_generic.110.vh.on: "飓风: §G 打开 §!"
+apocex_generic.110.vh.off: "飓风: §R 关闭 §!"
+#VXMENU:White Night
+apocex_generic.110.vw.on: "白夜: §G 打开 §!"
+apocex_generic.110.vw.off: "白夜: §R 关闭 §!"
+#VXMENU:Sun Shooter
+apocex_generic.110.vs.on: "太阳射手: §G 打开 §!"
+apocex_generic.110.vs.off: "太阳射手: §R 关闭 §!"
+#WXMENU SP
+WX_MENU_OPEN: "打开武器菜单"
+WX_MENU_OPEN_DESC: "设置武器"
+apocex_generic.130.title: "ApocEX武器菜单"
+apocex_generic.130.desc: "ApocEX武器配置菜单"
+#WXMENU:T槽
+apocex_generic.130.wt.on: "T槽(通用槽位): §G 打开 §!"
+apocex_generic.130.wt.off: "T槽(通用槽位):: §R 关闭 §!"
+#WXMENU:W槽
+apocex_generic.130.ww.on: "W槽(通用槽位): §G 打开 §!"
+apocex_generic.130.ww.off: "W槽(通用槽位): §R 关闭 §!"
+#WXMENU:FE T Weapon
+apocex_generic.130.wf.on: "T槽(FE): §G 打开 §!"
+apocex_generic.130.wf.off: "T槽(FE):: §R 关闭 §!"
+#WXMENU:FE W Weapon
+apocex_generic.130.wfw.on: "W槽(FE): §G 打开 §!"
+apocex_generic.130.wfw.off: "W槽(FE):: §R 关闭 §!"

@@ -1,0 +1,195 @@
+﻿l_simp_chinese:
+
+ # eac_start.1.name:0 "Home System Surveyed?"
+ # eac_start.1.desc:0 "Dear [Root.GetSpeciesName], Do you wish to start your empire with your home system already surveyed?"
+ # eac_start.1.yes:0 "Yes. That sounds like a wonderful idea."
+ # eac_start.1.no:0 "No. Are you crazy?"
+ 
+ # Common
+ eac_close_window:0 "关闭"
+
+ eac_university_header:0 ""
+ eac_university_blank.tooltip:0 ""
+ 
+ #############################
+ # University Window
+ #############################
+ eac_university.1.name:0 "[Root.GetName] 大学"
+ eac_university.1.desc:0 "在这里，您可以招募您需要的领导者。 只需选择合适的学校即可"
+ 
+ # Options
+ eac_university.1.admiral:0 "[Root.GetSpeciesName] 海军学院"
+ eac_university.1.admiral.tooltip:0 "查看 [Root.GetSpeciesName] 海军学院招募新的海军上将。"
+ 
+ eac_university.1.general:0 "[Root.GetSpeciesName] 陆军战争学院"
+ eac_university.1.general.tooltip:0 "查看 [Root.GetSpeciesName] 陆军战争学院招募新将军。"
+ 
+ eac_university.1.scientist:0 "[Root.GetSpeciesName] 科学学院"
+ eac_university.1.scientist.tooltip:0 "查看 $eac_university.1.scientist$ 招募新科学家。"
+ 
+ eac_university.1.governor:0 "[Root.GetSpeciesName] 公共服务学院"
+ eac_university.1.governor.tooltip:0 "查看 [Root.GetSpeciesName] 公共服务学院招聘新的总督。"
+
+ eac_return_to_university:0 "回到 $eac_university.1.name$"
+ eac_return_to_naval_academy:0 "回到 $eac_university.1.admiral$"
+ eac_return_to_army_war_college:0 "回到 $eac_university.1.general$"
+ eac_return_to_college_of_sciences:0 "回到 $eac_university.1.scientist$"
+ eac_return_to_school_of_public_service:0 "回到 $eac_university.1.governor$"
+ 
+ 
+ #############################
+ # Naval Academy
+ #############################
+ eac_university.2.name:0 "$eac_university.1.admiral$"
+ eac_university.2.desc:0 "在这里，您可以招募您需要的海军上将。 只需选择您需要的特征即可。"
+ 
+ # Admiral Traits
+ leader_trait_aggressive_desc.tooltip:0 "£leader_trait_aggressive  §H$leader_trait_aggressive$§!\n\n$MOD_SHIP_FIRE_RATE_MULT$: §G+5%§!\n$MOD_SHIP_SPEED_MULT$: §G+10%§!\n--------------\n$leader_trait_aggressive_desc$\n\n"
+ leader_trait_cautious_desc.tooltip:0 "£leader_trait_cautious  §H$leader_trait_cautious$§!\n\n$MOD_SHIP_WEAPON_RANGE_MULT$: §G+20%§!\n--------------\n$leader_trait_cautious_desc$\n\n"
+ leader_trait_engineer_desc.tooltip:0 "£leader_trait_engineer  §H$leader_trait_engineer$§!\n\n$MOD_SHIP_HULL_REGEN_ADD_PERC$: §G+0.5%§!\n$MOD_SHIP_ARMOR_REGEN_ADD_PERC$: §G+0.5%§!\n--------------\n$leader_trait_engineer_desc$\n\n"
+ leader_trait_fleet_logistician_desc.tooltip:0 "£leader_trait_fleet_logistician  §H$leader_trait_fleet_logistician$§!\n\n$mod_ships_upkeep_mult$: §G-10%§!\n--------------\n$leader_trait_fleet_logistician_desc$\n\n"
+ leader_trait_gale_speed_desc.tooltip:0 "£leader_trait_gale_speed  §H$leader_trait_gale_speed$§!\n\n$MOD_SHIP_EVASION_MULT$: §G+5%§!\n$MOD_SHIP_SPEED_MULT$: §G+20%§!\n--------------\n$leader_trait_gale_speed_desc$\n\n"
+#  eac_aw_leader_trait_ground_pounder_desc.tooltip:0 "£eac_aw_leader_trait_ground_pounder  §HGround Pounder§!\n\n$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$: §G+25%§!\n--------------\n$eac_aw_leader_trait_ground_pounder_desc$\n\n"
+ leader_trait_maintenance_loop_desc.tooltip:0 "£leader_trait_fleet_logistician  §H$leader_trait_maintenance_loop$§!\n\n$MOD_SHIP_UPKEEP_MULT$: §G-10%§!\n--------------\n$leader_trait_maintenance_loop_desc$\n\n"
+#  eac_leader_trait_navigator_desc.tooltip:0 "£eac_leader_trait_navigator  §H$eac_leader_trait_navigator$§!\n\n$MOD_SHIP_WINDDOWN_MULT$: §G-25%§!\n$MOD_SHIP_WINDUP_MULT$: §G-25%§!\n--------------\n$eac_leader_trait_navigator_desc$\n\n"
+ leader_trait_scout_desc.tooltip:0 "£leader_trait_scout  §H$leader_trait_scout$§!\n\n$MOD_SHIP_SENSOR_RANGE_ADD$: §G+1§!\n$MOD_SHIP_HYPERLANE_RANGE_ADD$: §G+2§!\n$MOD_SHIP_SPEED_MULT$: §G+10%§!\n--------------\n$leader_trait_scout_desc$\n\n"
+#  admiral_starbase_technician_desc.tooltip:0 "£admiral_starbase_technician  §H$admiral_starbase_technician$§!\n\n$shipclass_starbase_hull_mult$: §G+15%§!\n--------------\n$admiral_starbase_technician_desc$\n\n"
+ leader_trait_trickster_desc.tooltip:0 "£leader_trait_trickster  §H$leader_trait_trickster$§!\n\n$MOD_SHIP_EMERGENCY_FTL$: §G-15%§!\n$MOD_SHIP_DISENGAGE_CHANCE_MULT$: §G+25%§!\n--------------\n$leader_trait_trickster_desc$\n\n"
+ leader_trait_unyielding_desc.tooltip:0 "£leader_trait_unyielding  §H$leader_trait_unyielding$§!\n\n$MOD_SHIP_HULL_MULT$: §G+10%§!\n$MOD_SHIP_WEAPON_DAMAGE$: §G+5%§!\n$MOD_SHIP_DISENGAGE_CHANCE_MULT$: §R-33%§!\n--------------\n$leader_trait_unyielding_desc$\n\n"
+
+ # Admiral Success Window
+ eac_university.29.name:0 "招募海军上将"
+ eac_university.29.desc:0 "你将会在海军上将领导池中找到 §E[eac_last_leader_created.GetName]§！"
+ eac_university.29.recruit_another_admiral:0 "招募另一名海军上将"
+ eac_university.29.recruit_another_admiral.tooltip:0 "$eac_university.1.admiral.tooltip$"
+
+ #############################
+ # Army War College
+ #############################
+ eac_university.3.name:0 "$eac_university.1.general$"
+ eac_university.3.desc:0 "在这里，您可以招募您需要的将军。 只需选择您需要的特征即可。"
+
+ # General Traits
+ leader_trait_army_logistician_desc.tooltip:0 "£leader_trait_army_logistician  §H$leader_trait_army_logistician$§!\n\n$MOD_ARMY_UPKEEP_MULT$: §G-20%§!\n--------------\n$leader_trait_army_logistician_desc$\n\n"
+ leader_trait_butcher_desc.tooltip:0 "£leader_trait_butcher  §H$leader_trait_butcher$§!\n\n$MOD_ARMY_DAMAGE_MULT$: §G+10%§!\n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$: §Y+33%§!\n--------------\n$leader_trait_butcher_desc$\n\n"
+ leader_trait_charismatic_desc.tooltip:0 "£leader_trait_charismatic  §H$leader_trait_charismatic$§!\n\n$MOD_ARMY_MORALE$: §G+25%§!\n--------------\n$leader_trait_charismatic_desc$\n\n"
+ leader_trait_demoralizer_desc.tooltip:0 "£leader_trait_butcher  §H$leader_trait_demoralizer$§!\n\n$MOD_ARMY_MORALE_DAMAGE_MULT$: §G+30%§!\n--------------\n$leader_trait_demoralizer_desc$\n\n"
+ leader_trait_glory_seeker_desc.tooltip:0 "£leader_trait_glory_seeker  §H$leader_trait_glory_seeker$§!\n\n$MOD_ARMY_MORALE$: §G+10%§!\n$MOD_ARMY_DAMAGE_MULT$: §G+5%§!\n--------------\n$leader_trait_glory_seeker_desc$\n\n"
+ leader_trait_parts_cannibalizer_desc.tooltip:0 "£leader_trait_army_logistician  §H$leader_trait_parts_cannibalizer$§!\n\n$MOD_ARMY_UPKEEP_MULT$: §G-20%§!\n--------------\n$leader_trait_parts_cannibalizer_desc$\n\n"
+ leader_trait_restrained_desc.tooltip:0 "£leader_trait_restrained  §H$leader_trait_restrained$§!\n\n$MOD_ARMY_DISENGAGE_CHANCE_MULT$: §G+20%§!\n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$: §Y-33%§!\n--------------\n$leader_trait_restrained_desc$\n\n"
+
+
+ # General Success Window
+ eac_university.39.name:0 "招募将军"
+ eac_university.39.desc:0 "你将会在将领领导池中找到 §E[eac_last_leader_created.GetName]§！"
+ eac_university.39.recruit_another_general:0 "招募另一位将军"
+ eac_university.39.recruit_another_general.tooltip:0 "$eac_university.1.general.tooltip$"
+ 
+ #############################
+ # College of Sciences Window
+ #############################
+ eac_university.4.name:0 "$eac_university.1.scientist$"
+ eac_university.4.desc:0 "为您的科学家选择专业领域。"
+ 
+ eac_university_general_trait_header:0 "通用"
+ eac_university_survey_trait_header:0 "§E探索技能§!"
+ eac_university_physics_trait_header:0 "§B物理学§!"
+ eac_university_society_trait_header:0 "§G社会学§!"
+ eac_university_engineering_trait_header:0 "§H工程学§!"
+
+ eac_recruit_scientist_desc:0 "在这里，您可以招募您需要的科学家。 只需选择您需要的特征即可。"
+ 
+ # Science - General
+ leader_trait_custom_AI_assistant_desc.tooltip:0 "£leader_trait_custom_AI_assistant  §H$leader_trait_custom_AI_assistant$§!\n\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+5%§!\n$MOD_SHIP_SCIENCE_SURVEY_SPEED$: §G+10%§!\n$MOD_SHIP_ANOMALY_RESEARCH_SPEED$: §G+15%§!\n--------------\n$leader_trait_custom_AI_assistant_desc$\n\n"
+ leader_trait_maniacal_desc.tooltip:0 "£leader_trait_maniacal  §H$leader_trait_maniacal$§!\n\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+5%§!\n--------------\n$leader_trait_maniacal_desc$\n\n"
+ leader_trait_sapient_AI_assistant_desc.tooltip:0 "£leader_trait_sapient_AI_assistant  §H$leader_trait_sapient_AI_assistant$§!\n\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+10%§!\n$MOD_SHIP_SCIENCE_SURVEY_SPEED$: §G+20%§!\n$MOD_SHIP_ANOMALY_RESEARCH_SPEED$: §G+30%§!\n--------------\n$leader_trait_sapient_AI_assistant_desc$\n\n"
+ leader_trait_spark_of_genius_desc.tooltip:0 "£leader_trait_spark_of_genius  §H$leader_trait_spark_of_genius$§!\n\n$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$: §G+10%§!\n--------------\n$leader_trait_spark_of_genius_desc$\n\n"
+ 
+ # Science - Survey
+ leader_trait_archaeologist_desc.tooltip:0 "£leader_trait_archaeologist  §H$leader_trait_archaeologist$§!\n\n$leader_trait_archaeologist_tooltip$\n--------------\n$leader_trait_archaeologist_desc$\n\n"
+ leader_trait_carefree_desc.tooltip:0 "£leader_trait_carefree  §H$leader_trait_carefree$§!\n\n$MOD_SHIP_ANOMALY_RESEARCH_SPEED$: §G+35%§!\n--------------\n$leader_trait_carefree_desc$\n\n"
+#  leader_trait_careful_desc.tooltip:0 "£leader_trait_careful  §H$leader_trait_careful$§!\n\n$MOD_$: §G+20%§!\n--------------\n$leader_trait_careful_desc$\n\n"
+ leader_trait_cataloger_desc.tooltip:0 "£leader_trait_roamer  §H$leader_trait_cataloger$§!\n\n$MOD_SHIP_SCIENCE_SURVEY_SPEED$: §G+25%§!\n--------------\n$leader_trait_cataloger_desc$\n\n"
+ leader_trait_meticulous_desc.tooltip:0 "£leader_trait_meticulous  §H$leader_trait_meticulous$§!\n\n$MOD_SHIP_ANOMALY_GENERATION_CHANCE$: §G+10%§!\n--------------\n$leader_trait_meticulous_desc$\n\n"
+ leader_trait_roamer_desc.tooltip:0 "£leader_trait_roamer  §H$leader_trait_roamer$§!\n\n$MOD_SHIP_SCIENCE_SURVEY_SPEED$: §G+25%§!\n--------------\n$leader_trait_roamer_desc$\n\n"
+ 
+ # Science - Physics
+ leader_trait_expertise_computing_desc.tooltip:0 "£leader_trait_expertise_computing  §H$leader_trait_expertise_computing$§!\n\n$mod_category_computing_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_computing_desc$\n\n"
+ leader_trait_expertise_field_manipulation_desc.tooltip:0 "£leader_trait_expertise_field_manipulation  §H$leader_trait_expertise_field_manipulation$§!\n\n$mod_category_field_manipulation_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_field_manipulation_desc$\n\n"
+ leader_trait_expertise_particles_desc.tooltip:0 "£leader_trait_expertise_particles  §H$leader_trait_expertise_particles$§!\n\n$mod_category_particles_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_particles_desc$\n\n"
+ eac_leader_trait_advanced_physics:0 "§M擅长所有行业 - 物理学§!"
+ eac_leader_trait_advanced_physics_plain:0 "擅长所有行业 - 物理学"
+ eac_leader_trait_advanced_physics_desc:0 "一直致力于研究所有核心物理学科的领导者:\n   $leader_trait_expertise_computing$\n   $leader_trait_expertise_field_manipulation$\n   $leader_trait_expertise_particles$"
+ eac_leader_trait_advanced_physics_desc.tooltip:0 "£leader_trait_expertise_computing £leader_trait_expertise_field_manipulation £leader_trait_expertise_particles  \n\n§H$eac_leader_trait_advanced_physics_plain$§!\n\n$mod_category_computing_research_speed_mult$: §G+15%§!\n$mod_category_field_manipulation_research_speed_mult$: §G+15%§!\n$mod_category_particles_research_speed_mult$: §G+15%§!\n--------------\n$eac_leader_trait_advanced_physics_desc$\n\n"
+ 
+ # Science - Biology
+ leader_trait_expertise_biology_desc.tooltip:0 "£leader_trait_expertise_biology  §H$leader_trait_expertise_biology$§!\n\n$mod_category_biology_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_biology_desc$\n\n"
+ leader_trait_expertise_military_theory_desc.tooltip:0 "£leader_trait_expertise_military_theory  §H$leader_trait_expertise_military_theory$§!\n\n$mod_category_military_theory_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_military_theory_desc$\n\n"
+ leader_trait_expertise_new_worlds_desc.tooltip:0 "£leader_trait_expertise_new_worlds  §H$leader_trait_expertise_new_worlds$§!\n\n$mod_category_new_worlds_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_new_worlds_desc$\n\n"
+ leader_trait_expertise_psionics_desc.tooltip:0 "£leader_trait_expertise_psionics  §H$leader_trait_expertise_psionics$§!\n\n$mod_category_psionics_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_psionics_desc$\n\n"
+ leader_trait_expertise_statecraft_desc.tooltip:0 "£leader_trait_expertise_statecraft  §H$leader_trait_expertise_statecraft$§!\n\n$mod_category_statecraft_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_statecraft_desc$\n\n"
+ eac_no_tech_leader_trait_expertise_psionics:0 "§MSearch for $leader_trait_expertise_psionics$§!"
+ eac_no_tech_leader_trait_expertise_psionics_plain:0 "搜索 $leader_trait_expertise_psionics$"
+ eac_no_tech_leader_trait_expertise_psionics_desc:0 "没有 §Y$tech_psionic_theory$§! 找到这位领导者还需要一年的时间。\n\n$leader_trait_expertise_psionics_desc$"
+ eac_no_tech_leader_trait_expertise_psionics_desc.tooltip:0 "£leader_trait_expertise_psionics  §H$eac_no_tech_leader_trait_expertise_psionics_plain$§!\n\n$mod_category_psionics_research_speed_mult$: §G+15%§!\n--------------\n$eac_no_tech_leader_trait_expertise_psionics_desc$\n\n"
+ eac_leader_trait_advanced_society:0 "§M擅长所有行业 - 社会学§!"
+ eac_leader_trait_advanced_society_plain:0 "擅长所有行业 - 社会学"
+ eac_leader_trait_advanced_society_desc:0 "一个致力于研究所有核心社会学科的领导者:\n   $leader_trait_expertise_biology$\n   $leader_trait_expertise_military_theory$\n   $leader_trait_expertise_new_worlds$\n   $leader_trait_expertise_statecraft$\n   $leader_trait_expertise_psionics$ 从事研究。"
+ eac_leader_trait_advanced_society_desc.tooltip:0 "£leader_trait_expertise_biology £leader_trait_expertise_military_theory £leader_trait_expertise_new_worlds £leader_trait_expertise_statecraft £leader_trait_expertise_psionics  \n\n§H$eac_leader_trait_advanced_society_plain$§!\n$mod_category_biology_research_speed_mult$: §G+15%§!\n$mod_category_military_theory_research_speed_mult$: §G+15%§!\n$mod_category_new_worlds_research_speed_mult$: §G+15%§!\n$mod_category_statecraft_research_speed_mult$: §G+15%§!\n$mod_category_psionics_research_speed_mult$ (从事研究): §G+15%§!\n--------------\n$eac_leader_trait_advanced_society_desc$\n\n"
+ 
+ # Science - Engineering
+ leader_trait_expertise_industry_desc.tooltip:0 "£leader_trait_expertise_industry  §H$leader_trait_expertise_industry$§!\n\n$mod_category_industry_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_industry_desc$\n\n"
+ leader_trait_expertise_materials_desc.tooltip:0 "£leader_trait_expertise_materials  §H$leader_trait_expertise_materials$§!\n\n$mod_category_materials_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_materials_desc$\n\n"
+ leader_trait_expertise_propulsion_desc.tooltip:0 "£leader_trait_expertise_propulsion  §H$leader_trait_expertise_propulsion$§!\n\n$mod_category_propulsion_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_propulsion_desc$\n\n"
+ leader_trait_expertise_voidcraft_desc.tooltip:0 "£leader_trait_expertise_voidcraft  §H$leader_trait_expertise_voidcraft$§!\n\n$mod_category_voidcraft_research_speed_mult$: §G+15%§!\n--------------\n$leader_trait_expertise_voidcraft_desc$\n\n"
+ eac_leader_trait_advanced_engineering:0 "§M擅长所有行业 - 工程学§!"
+ eac_leader_trait_advanced_engineering_plain:0 "擅长所有行业 - 工程学"
+ eac_leader_trait_advanced_engineering_desc:0 "一直致力于研究所有核心工程学科的领导者:\n   $leader_trait_expertise_industry$\n   $leader_trait_expertise_materials$\n   $leader_trait_expertise_propulsion$\n   $leader_trait_expertise_voidcraft$"
+ eac_leader_trait_advanced_engineering_desc.tooltip:0 "£leader_trait_expertise_industry £leader_trait_expertise_materials £leader_trait_expertise_propulsion £leader_trait_expertise_voidcraft  \n\n§H$eac_leader_trait_advanced_engineering_plain$§!\n\n$mod_category_industry_research_speed_mult$: §G+15%§!\n$mod_category_materials_research_speed_mult$: §G+15%§!\n$mod_category_propulsion_research_speed_mult$: §G+15%§!\n$mod_category_voidcraft_research_speed_mult$: §G+15%§!\n--------------\n$eac_leader_trait_advanced_engineering_desc$\n\n"
+ 
+ eac_university.46.name:0 "没有领导者空间！"
+ eac_university.46.desc:0 "我们搜索并找到了一个灵能领导者，但是当我们试图雇佣他们时，没有领导者位置可用。 部分退款将被存入。"
+
+ # Scientist Success Window
+ eac_university.49.name:0 "科学家招募"
+ eac_university.49.desc:0 "你将会在科学家领导池中找到 §E[eac_last_leader_created.GetName]§！"
+ eac_university.49.recruit_another_scientist:0 "招募另一位科学家"
+ eac_university.49.recruit_another_scientist.tooltip:0 "$eac_university.1.scientist.tooltip$"
+ 
+ #############################
+ # School of Public Service
+ #############################
+ eac_university.5.name:0 "$eac_university.1.governor$"
+ eac_university.5.desc:0 "在这里，您可以招募您需要的总督。 只需选择您需要的特征即可。"
+
+ # Governors
+ leader_trait_agrarian_upbringing_desc.tooltip:0 "£leader_trait_agrarian_upbringing  §H$leader_trait_agrarian_upbringing$§!\n\n$mod_planet_jobs_food_produces_mult$: §G+10%§!\n--------------\n$leader_trait_agrarian_upbringing_desc$\n\n"
+ leader_trait_ai_aided_design_desc.tooltip:0 "£leader_trait_retired_fleet_officer  §H$leader_trait_ai_aided_design$§!\n\n$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$: §G+20%§!\n$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$: §G-10%§!\n--------------\n$leader_trait_ai_aided_design_desc$\n\n"
+ leader_trait_analytical_desc.tooltip:0 "£ £leader_trait_intellectual  §H$leader_trait_analytical$§!\n\n$mod_planet_jobs_physics_research_produces_mult$: §G+10%§!\n$mod_planet_jobs_society_research_produces_mult$: §G+10%§!\n$mod_planet_jobs_engineering_research_produces_mult$: §G+10%§!\n--------------\n$ leader_trait_analytical_desc$\n\n"
+ leader_trait_architectural_interest_desc.tooltip:0 "£leader_trait_architectural_interest  §H$leader_trait_architectural_interest$§!\n\n$mod_planet_buildings_cost_mult$: §G-10%§!\n$mod_planet_districts_cost_mult$: §G-10%§!\n$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+10%§!\n--------------\n$leader_trait_architectural_interest_desc$\n\n"
+ 
+ leader_trait_army_veteran_desc.tooltip:0 "£leader_trait_army_veteran  §H$leader_trait_army_veteran$§!\n\n$MOD_PLANET_ARMY_BUILD_SPEED_MULT$: §G+20%§!\n$MOD_PLANET_ARMY_BUILD_COST_MULT$: §G-20%§!\n$MOD_ARMY_DEFENSE_DAMAGE_MULT$: §G+20%§!\n--------------\n$leader_trait_army_veteran_desc$\n\n"
+ leader_trait_bulldozer_desc.tooltip:0 "£leader_trait_environmental_engineer  §H$leader_trait_bulldozer$§!\n\n$mod_deposit_blockers_cost_mult$: §G-25%§!\n$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$: §G-25%§!\n--------------\n$leader_trait_bulldozer_desc$\n\n"
+#  leader_trait_bureaucrat_alpha_desc.tooltip:0 "£leader_trait_bureaucrat_alpha  §H$leader_trait_bureaucrat_alpha$§!\n\n$tile_resource_energy_mult$: §G+10%§!\n$MOD_POP_HAPPINESS$: §G+5%§!\n--------------\n$leader_trait_bureaucrat_alpha_desc$\n\n"
+#  leader_trait_diplomat_alpha_desc.tooltip:0 "£leader_trait_diplomat_alpha  §H$leader_trait_diplomat_alpha$§!\n\n$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$: §G+5%§!\n$MOD_POP_HAPPINESS$: §G+5%§!\n$tile_resource_unity_mult$: §G+10%§!\n--------------\n$leader_trait_diplomat_alpha_desc$\n\n"
+ 
+#  leader_trait_ecologist_alpha_desc.tooltip:0 "£leader_trait_ecologist_alpha  §H$leader_trait_ecologist_alpha$§!\n\n$MOD_POP_ENVIRONMENT_TOLERANCE$: §G+5%§!\n$tile_resource_food_mult$: §G+10%§!\n$tile_resource_minerals_mult$: §R-10%§!\n$MOD_POP_GROWTH_SPEED$: §G+10%§!\n--------------\n$leader_trait_ecologist_alpha_desc$\n\n"
+#  eac_leader_trait_electrician_desc.tooltip:0 "£trait_ruler_investor  §H$eac_leader_trait_electrician$§!\n\n$tile_resource_energy_mult$: §G+15%§!\n--------------\n$eac_leader_trait_electrician_desc$\n\n"
+ leader_trait_environmental_engineer_desc.tooltip:0 "£leader_trait_environmental_engineer  §H$leader_trait_environmental_engineer$§!\n\n$mod_deposit_blockers_cost_mult$: §G-25%§!\n$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$: §G-25%§!\n--------------\n$leader_trait_environmental_engineer_desc$\n\n"
+ leader_trait_intellectual_desc.tooltip:0 "£leader_trait_intellectual  §H$leader_trait_intellectual$§!\n\n$mod_planet_jobs_physics_research_produces_mult$: §G+10%§!\n$mod_planet_jobs_society_research_produces_mult$: §G+10%§!\n$mod_planet_jobs_engineering_research_produces_mult$: §G+10%§!\n--------------\n$leader_trait_intellectual_desc$\n\n"
+ 
+ leader_trait_iron_fist_desc.tooltip:0 "£leader_trait_iron_fist  §H$leader_trait_iron_fist$§!\n\n$mod_planet_jobs_slave_produces_mult$: §G+10%§!\n--------------\n$leader_trait_iron_fist_desc$\n\n"
+#  leader_trait_marshall_alpha_desc.tooltip:0 "£leader_trait_marshall_alpha  §H$leader_trait_marshall_alpha$§!\n\n$MOD_PLANET_UNREST_ADD$: §G-20§!\n$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$: §G+10%§!\n$MOD_PLANET_MIGRATION_ALL_PULL$: §Y-10%§!\n$tile_resource_energy_mult$: §R-5%§!\n--------------\n$leader_trait_marshall_alpha_desc$\n\n"
+#  eac_leader_trait_miningboss_desc.tooltip:0 "£trait_ruler_industrialist  §H$eac_leader_trait_miningboss$§!\n\n$tile_resource_minerals_mult$: §G+10%§!\n$mining_network_build_cost_mult$: §G-20%§!\n--------------\n$eac_leader_trait_miningboss_desc$\n\n"
+#  leader_trait_pioneer_alpha_desc.tooltip:0 "£leader_trait_pioneer_alpha  §H$leader_trait_pioneer_alpha$§!\n\n$tile_resource_minerals_mult$: §G+5%§!\n$MOD_POP_ENVIRONMENT_TOLERANCE$: §G+5%§!\n--------------\n$leader_trait_pioneer_alpha_desc$\n\n"
+ 
+#  leader_trait_prodigy_desc.tooltip:0 "£leader_trait_prodigy  §H$leader_trait_prodigy$§!\n\n$MOD_LEADER_SPECIES_EXP_GAIN$: §G+75%§!\n$tile_resource_unity_mult$: §G+5%§!\n$MOD_POP_HAPPINESS$: §G+5%§!\n--------------\n$leader_trait_prodigy_desc$\n\n"
+ leader_trait_retired_fleet_officer_desc.tooltip:0 "£leader_trait_retired_fleet_officer  §H$leader_trait_retired_fleet_officer$§!\n\n$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$: §G+20%§!\n$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$: §G-10%§!\n--------------\n$leader_trait_retired_fleet_officer_desc$\n\n"
+ leader_trait_righteous_desc.tooltip:0 "£leader_trait_righteous  §H$leader_trait_righteous$§!\n\n$MOD_PLANET_CRIME_ADD$: §G-25§!\n--------------\n$leader_trait_righteous_desc$\n\n"
+ leader_trait_warbot_tinkerer_desc.tooltip:0 "£leader_trait_hammer  §H$leader_trait_warbot_tinkerer$§!\n\n$MOD_PLANET_ARMY_BUILD_SPEED_MULT$: §G+20%§!\n$MOD_PLANET_ARMY_BUILD_COST_MULT$: §G-20%§!\n$MOD_ARMY_DEFENSE_DAMAGE_MULT$: §G+20%§!\n--------------\n$leader_trait_warbot_tinkerer_desc$\n\n"
+
+ # Governor Success Window
+ eac_university.59.name:0 "招募总督"
+ eac_university.59.desc:0 "你将会在总督领导池中找到 §E[eac_last_leader_created.GetName]§！"
+ eac_university.59.recruit_another_governor:0 "招募另一位总督"
+ eac_university.59.recruit_another_governor.tooltip:0 "$eac_university.1.governor.tooltip$"

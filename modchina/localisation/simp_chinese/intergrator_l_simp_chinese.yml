@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+INTERGRATOR:1 "数据整合"
+INTERGRATOR_DESC:0 "向大气中散布大量纳米整合机器人，它们侵入智慧生命并逐渐转化宿主的有机躯体或无机外壳，最终将宿主彻底整合为被机械智慧控制的机械人口。"
+tech_pk_intergrate:0 "纳米整合机器人"
+tech_pk_intergrate_desc:0 "纳米整合机器人能侵入智慧生命并逐渐转化宿主的有机躯体或无机外壳，最终将其整合进我们的正电子思维网络。"
+FLEETORDER_DESTROY_PLANET_WITH_INTERGRATOR:0 "正在准备整合$PLANET|Y$上的民众"
+MESSAGE_DESC_FOR_INTERGRATOR:0 "被整合"
+mcpk.401.name:0 "数据整合完成"
+mcpk.401.desc:0 "[From.GetName]整合完成。\n\n§Y<同化完毕>§!"
+mcpk.401.tooltip:0 "数据整合完成"
+mcpk.401.tooltip.adjust:0 "数据整合仍未完成.."
+mcpk.401.adjust:0 "调整策略..  §Y泛河系同化协议激活中..§!"
+INTERGRATOR_ACTION:0 "集成"

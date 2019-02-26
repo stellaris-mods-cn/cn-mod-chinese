@@ -1,0 +1,168 @@
+﻿l_simp_chinese:
+ pc_o_star:0 "O类恒星"
+ pc_o_star_desc:1 "这些罕见的恒星仅在几百万年的时间内就通过核燃料燃烧，释放出大量的热量和光。它们令人难以置信的亮度使它们很容易被看见，即使是在数百光年之外。"
+ sc_o:0 "§HO类恒星§!"
+ pc_rg_star:0 "红巨星"
+ pc_rg_star_desc:1 "红巨星是低质量垂死挣扎的恒星。它的核心已经耗尽了氢，开始燃烧氦，导致外层膨胀。"
+ sc_rg:0 "§H红巨星§!"
+ pc_rsg_star:0 "红超巨星"
+ pc_rsg_star_desc:1 "红巨星是即将结束生命的高质量恒星。它们的质量使它们能在超新星爆炸前融合更重、更奇异的元素。"
+ sc_rsg:0 "§H红超巨星§!"
+ pc_rhg_star:0 "红超超巨星"
+ pc_rhg_star_desc:1 "大量的恒星以红巨星的形式结束它们的生命。这些恒星离它们自毁于一颗特别灾难性的超新星还不到100万年。"
+ sc_rhg:0 "§H红超超巨星§!"
+ pc_kg_star:0 "橙巨星"
+ pc_kg_star_desc:1 "橙巨星和红巨星非常相似，但是它们更温暖，也更明亮。"
+ sc_kg:0 "§H橙巨星§!"
+ pc_ksg_star:0 "橙超巨星"
+ pc_ksg_star_desc:1 "橙超巨星是即将结束生命的高质量恒星。它们的质量使它们能在超新星爆炸前融合更重、更奇异的元素。"
+ sc_ksg:0 "§H橙超巨星§!"
+ pc_khg_star:0 "橙超超巨星"
+ pc_khg_star_desc:1 "橙巨星是非常稀有和古老的恒星，它们比红巨星更热。这些恒星离它们自毁于一颗特别灾难性的超新星还不到100万年。"
+ sc_khg:0 "§H橙超超巨星§!"
+ pc_wd_star:0 "白矮星"
+ pc_wd_star_desc:1 "白矮星是低质量恒星生命的终结。这是一个红巨星把它的燃料吹走后形成的暗淡的形状，导致外层被吹走，使核心慢慢冷却。"
+ sc_wd:0 "§H白矮星§!"
+ pc_l_star:0 "L类恒星"
+ pc_l_star_desc:1 "像这样的棕矮星还不足以维持定义“真”恒星的聚变反应。L级褐矮星产出了可观的热量和光，但它们的体积更大。"
+ sc_l:0 "§HL类恒星§!"
+ pc_t_star:0 "T类恒星"
+ pc_t_star_desc:1 "这些棕矮星输出的辐射量微乎其微，与烤箱的辐射相当。围绕这些行星的行星主要是由潮汐能或地热能加热的。"
+ sc_t:0 "§HT类恒星§!"
+ pc_y_star:0 "Y类恒星"
+ pc_y_star_desc:1 "这些物体在恒星和行星之间的模糊线上。它们几乎不会发出任何热量或光。围绕这些天体运行的行星仅通过地热能来加热。"
+ sc_y:0 "§HY类恒星§!"
+ pc_wr_star:0 "沃尔夫—拉叶型星"
+ pc_wr_star_desc:1 "沃尔夫-拉叶星，具有极高的光度和温度。通常出现在星云中，这是由于在这些恒星演化周期的前一阶段——红巨星状态，其外层气体在聚变反应中被迅速抛出所致。"
+ sc_wr:0 "§H沃尔夫—拉叶型星§!"
+ pc_temporal_inhibitor:0 "时间抑制器"
+ pc_temporal_inhibitor_desc:1 "这个古老的结构产生了星系奇怪的时间域。是谁建造了它?"
+ pc_pr_star:0 "原始星"
+ pc_pr_star_desc:1 "这颗恒星似乎是宇宙中最早的恒星之一!恒星由纯氢直接从大爆炸本身产生，甚至在星系形成之前。这些最初的恒星在它们形成后的几百万年里都被烧光了，但是这个唯一的幸存者生活在一个独特的时间范围内，它永远不会变老或死亡。"
+ sc_pr:0 "§H原始星§!"
+ pc_grn_star:0 "绿星"
+ pc_grn_star_desc:1 "它是如何存在的?正常的恒星会产生绿光，但通常会被其他波长的光淹没，形成白星;然而，这颗恒星正在产生一种独特的石灰绿光，除此之外别无其他。我们的理论还不能解释这种反常现象。"
+ sc_grn:0 "§H绿星§!"
+ pc_barycenter:0 "重心"
+ pc_barycenter_desc:1 "这不是一个实际的物体;相反，它是两个二元物体轨道的假想点。"
+ sc_rouge:0 "§H流浪行星§!"
+ 
+ magnetar:0 "磁星"
+ magnetar_desc:0 "这颗年轻的中子星投射出一种极强的磁场，它比普通恒星强几百万倍。这些磁场将逐渐减弱为一颗成熟的中子星。"
+ carbon_star:0 "碳星"
+ carbon_star_desc:0 "碳恒星是巨大的恒星，其高层大气中含有异常大量的碳。碳吸收了不同波长的光，使恒星发出明显的红宝石色。"
+ quasar:0 "似星体"
+ quasar_desc:0 "这个黑洞的吸积盘很大而且非常明亮。顾名思义，它们就像小型的类星体。"
+ quark_star:0 "夸克星"
+ quark_star_desc:0 "这颗奇异的恒星非常接近崩溃成黑洞; 只有夸克可以相互排斥才能防止内爆。"
+ oxygen_star:0 "富氧星"
+ oxygen_star_desc:0 "由于其核心的后期融合过程，这颗垂死的恒星在其大气中的氧气量异常高。"
+ 
+ morestars_rouge_empire_init_NAME:0 "流浪行星"
+ morestars_rouge_empire_init_DESC:0 "一个流浪行星星系。在太空中没有中央恒星和行星系统。 §H警告:§! 由于您的启动系统中缺少对象，所以这个星系更加困难。"
+ 
+ # NOT DONE YET READ NO FURTHER!!! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # YOU SHALL NOT PASS!!!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #DONT MAKE ME DO THIS!!!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #ALRIGHT YOU ASKED FOR IT!!!
+ #https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #NOW YOU HAVE SUFFERED HUMILIATION! YOU MAY PASS AND GET SPOILERS
+ 
+ 
+ morestars.1.name:0 "神秘的恒星"
+ morestars.1.desc:0 "我们偶然发现了一颗巨大的恒星，它的质量是我们以前见过的任何一颗恒星的几倍。在我们进入它的重力场之前，没有任何异常的迹象，我们的船只几乎无法承受难以想象的高温，于是我们的传感器被毁掉了。更奇怪的是，这四个巨大的结构在其影响范围之外运行。"
+ morestars.1a:0 "这是什么地方?"
+ #绿星 events
+ morestars.2.name:0 "奇异星"
+ morestars.2.desc:0 "一个绿星!我们的领导人起初肯定这是一种恶作剧或恶作剧，但进一步的报道证实了这位明星令人困惑的色彩。是什么原因导致它采用了这样的一种颜色呢?"
+ morestars.2a:0 "一个有趣的发现."
+ morestars.5.name:0 "流浪行星"
+ morestars.5.desc:0 "生成多少流浪行星?"
+ morestars.5a:0 "10"
+ morestars.5b:0 "20"
+ morestars.5c:0 "30"
+ morestars.5d:0 "40"
+ morestars.5e:0 "50"
+ morestars.5f:0 "不生成"

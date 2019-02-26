@@ -1,0 +1,305 @@
+﻿l_simp_chinese:
+
+ trait_vdl_multi_hivemind:0 "多蜂群头脑"
+ trait_vdl_multi_hivemind_desc:0 "§L这一物种有许多人的想法。他们正处于统一的过程中。不幸的是，每个人的核心功能都是领导者，他们没有机会在保持意识的同时成为一个好的领导者。§!"
+ 
+ trait_vdl_pseudo_cybernetics:0 "伪控制论"
+ trait_vdl_pseudo_cybernetics_desc:0 "§L这个物种的成员都有一个移动终端可以用来计算一些简单的数学过程或者进入数据库。但这效率不高。§!"
+ 
+ trait_vdl_semimechanized:0 "半机械化"
+ trait_vdl_semimechanized_desc:0 "§L这一物种用机器取代了一半的器官。这种原始的机械化方式可能是抵御恶劣环境的巨大优势，但需要频繁的维护。§!"
+ 
+ trait_vdl_vampiric:0 "吸血鬼"
+ trait_vdl_vampiric_desc:0 "§L这个物种有一种灵能传染病，通过唾液和血液传播，更具体地说，是通过吸血传播的。这些吸血鬼的受害者会变成软弱的吸血鬼，被称为仆人。§!"
+ 
+ trait_vdl_mineral_organism:0 "矿物生物"
+ trait_vdl_mineral_organism_desc:0 "§L这个物种有矿物器官系统，必须摄取一些矿物质来维持其身体机能。幸运的是，深井和地下世界是这个物种的家园。§!"
+ 
+ trait_vdl_energy_slime:0 "能量黏液"
+ trait_vdl_energy_slime_desc:0 "§L这个物种的成员是由一些有机材料和能量肢所组成的。这些有机的身体和能量肢体有不稳定的形态并且可以转化成其他形状。§!"
+ 
+ trait_vdl_parasite:0 "寄生虫"
+ trait_vdl_parasite_desc:0 "§L这一物种将成为其他寄生虫的榜样;它们可以寄生在几乎所有物种中。当他们面临一些问题时，他们就会转移到其他宿主来逃避问题，或者尝试重新塑造他们的宿主来直接解决问题。§!"
+ 
+ trait_vdl_artificial_spirits:0 "人工灵魂"
+ trait_vdl_artificial_spirits_desc:0 "§L这一物种的繁殖速度很慢所以他们找到了一种方法来将一个没有灵魂的身体注入灵魂以增加人口增长。这与灵能无关，而是一种“计算”。§!"
+ 
+ trait_vdl_shadow_creatures:0 "影子生物"
+ trait_vdl_shadow_creatures_desc:0 "§L这个物种生活在阴影中。有些人说，他们就是影子本身。§!"
+ 
+ trait_vdl_abomination:0 "令人厌恶的生物"
+ trait_vdl_abomination_desc:0 "§L死亡的阴影围绕着这个物种。即使他们什么也不做，他们的土地上也不会有杂草生长。他们是孤独的。§!"
+ 
+ trait_vdl_futurespawns:0 "来自未来"
+ trait_vdl_futurespawns_desc:0 "§L这个物种是来自遥远未来的流亡者。为什么他们会在这里，他们怎么了?§!"
+ 
+ trait_vdl_ghosts:0 "幽灵"
+ trait_vdl_ghosts_desc:0 "§L当这个物种的成员死亡后，他们便会立即成为一个幽灵，或者产生一个有“死者”信息的电子幽灵。也就是说，这个物种几乎不会死亡。§!"
+ 
+ trait_vdl_mirror_images:0 "镜像"
+ trait_vdl_mirror_images_desc:0 "§L这个物种的成员可以接触到普通的镜子，他们可以进入到镜子里面。由于缺乏干净的镜子，镜面世界对他们来说是非常不舒服的地方。镜子里的东西可能是他们的影子。§!"
+ 
+ trait_vdl_last_children:0 "最后的后裔"
+ trait_vdl_last_children_desc:0 "§L这个聪明的物种在几十年前就发展出了一种灵丹妙药。然而，这种药物带来了一个关键的副作用:出生率下降。他们可能是这个物种最后的后裔。§!"
+ 
+ trait_vdl_paradise_lost:0 "失乐园"
+ trait_vdl_paradise_lost_desc:0 "§L这个物种被抛弃了。任何其他物种都能轻易适应的环境（或不适应），但这对它们来说是充满敌意和致命的。对他们来说，天堂只是一种美丽的海市蜃楼，然而，这个物种仍有希望。§!"
+ 
+ trait_vdl_shifting_souls:0 "流动的灵魂"
+ trait_vdl_shifting_souls_desc:0 "§L在这个物种上观察到一种独特的异常现象:每个成员的灵魂经常从一种生物转移到另一种生物。只有少数成员能够勉强控制这种现象。这与我们很久以前遇到的灵能物种的能量释放过程非常相似，一位疯狂的科学家如是说。§!"
+ 
+ trait_vdl_swarm_that_walks:0 "成群结队"
+ trait_vdl_swarm_that_walks_desc:0 "§L这个物种的成员能够像的普通生物一样站立和移动，但看上去他们的身体是蠕动的，他们由无数的蠕虫组成。每一个群体都被微小的心灵网络所束缚，其功能是独一无二的。§!"
+ 
+ trait_vdl_covenanted:0 "签署契约"
+ trait_vdl_covenanted_desc:0 "§L这个物种的祖先与未知的东西立过契约。契约的作用立刻被刻在他们的血上，人们留下了一条简单的信息，到虚境那里，我们就在那里。§!"
+  
+ trait_vdl_perfect:0 "完美的"
+ trait_vdl_perfect_desc:0 "§L这个物种是无限的，并且有一个完美的天赋。所有的宇宙都将关注这个物种。§!"
+
+ trait_vdl_gifted:0 "有天赋的"
+ trait_vdl_gifted_desc:0 "§L这个物种的成员天生具有巨大的优势，他们能够轻易地击败其他物种。§!"
+
+ trait_vdl_superior:0 "优越的"
+ trait_vdl_superior_desc:0 "§L这个物种比其他物种优越。§!"
+ 
+ trait_vdl_inferior:0 "卑微的"
+ trait_vdl_inferior_desc:0 "§L这个物种比其他物种低贱。§!"
+ 
+ trait_vdl_incapable:0 "无能的"
+ trait_vdl_incapable_desc:0 "§L这个物种相对于其他物种来说太无能了。§!"
+ 
+ trait_vdl_failure:0 "失败者"
+ trait_vdl_failure_desc:0 "§L显然，这些物种必须分类为生物灾难。生物学家想知道它们是如何生存下来的。§!"
+ 
+ trait_vdl_artificial_psionic:0 "人工灵能"
+ trait_vdl_artificial_psionic_desc:0 "§L对灵能最深处的探索，科学家们得以进入之前未知的领域——灵能领域。这些强迫的灵能能力还不能赶上自然的灵能能力，但它们仍然足够强大。§!"
+ 
+ trait_vdl_emotionless:0 "没有情感"
+ trait_vdl_emotionless_desc:0 "§L这个物种没有情感。一些共同的社会现象在他们的社会中没有被观察到。§!"
+ 
+ trait_vdl_paragon:0 "典范"
+ trait_vdl_paragon_desc:0 "§L这个物种多才多艺。§!"
+ 
+ trait_vdl_hunters:0 "猎人"
+ trait_vdl_hunters_desc:0 "§L这一物种仍然依赖于狩猎采集来获取大部分的粮食生产。§!"
+ 
+ trait_vdl_nobles:0 "贵族"
+ trait_vdl_nobles_desc:0 "§L传统上，这一物种一直避免体力劳动，转而追求智力的追求。§!"
+ 
+ trait_vdl_genius:0 "天才"
+ trait_vdl_genius_desc:0 "§L这个物种已经达到了最高的智力水平;没有先进的生物工程，就不能比这更聪明。§!"
+ 
+ trait_vdl_brilliant:0 "才华横溢"
+ trait_vdl_brilliant_desc:0 "§L这个物种非常聪明。§!"
+ 
+ trait_vdl_microscopic_sight:0 "微观的景象"
+ trait_vdl_microscopic_sight_desc:0 "§L这个物种空前发达的眼睛可以在显微下观察一个物体，如大分子或细胞。这是粒子物理、生物和材料工程的巨大优势。§!"
+  
+ trait_vdl_vacuous:0 "空虚的"
+ trait_vdl_vacuous_desc:0 "§L这个物种的成员通常都很愚蠢。如果你想在它们身上开个玩笑，不要挖苦它们。他们不会明白的。§!"
+ 
+ trait_vdl_extreme_engineers:0 "极限工程学家"
+ trait_vdl_extreme_engineers_desc:0 "§L这个物种的成员对工程和材料科学有着巨大的自然倾向，却忽视了其他领域的研究。§!"
+ 
+ trait_vdl_extreme_physicists:0 "极限物理学家"
+ trait_vdl_extreme_physicists_desc:0 "§L这一物种的成员自然倾向于理论物理和星体现象，但忽略了其他领域的研究。§!"
+ 
+ trait_vdl_extreme_sociologists:0 "极限社会学家"
+ trait_vdl_extreme_sociologists_desc:0 "§L该物种的成员对社会学和生物学研究有很大的自然倾向，但忽视了其他研究领域。§!"
+ 
+ trait_vdl_engineering_phobia:0 "工程学恐怖症"
+ trait_vdl_engineering_phobia_desc:0 "§L这个物种的成员很难掌握许多工程学的基本概念。§!"
+ 
+ trait_vdl_physics_phobia:0 "物理学恐怖症"
+ trait_vdl_physics_phobia_desc:0 "§L这个物种的成员很难掌握理论物理学的许多基本概念。§!"
+ 
+ trait_vdl_sociology_phobia:0 "社会学恐怖症"
+ trait_vdl_sociology_phobia_desc:0 "§L这个物种的成员很难掌握社会学的许多基本概念。§!"
+ 
+ trait_vdl_assimilation:0 "同化"
+ trait_vdl_assimilation_desc:0 "§L这个物种的成员可以与任何不熟悉的环境同化。这种同化过程很长，需要一个病人，所以他们倾向于拒绝离开自己的地方。§!"
+ 
+ trait_vdl_nostalgia:0 "怀旧之情"
+ trait_vdl_nostalgia_desc:0 "§L这个物种对他们的家园表现出强烈的依恋。他们中的一些人可能会离开他们的出生地，但很快就会遭受怀旧之苦。§!"
+ 
+ trait_vdl_self_replicating:0 "自我复制"
+ trait_vdl_self_replicating_desc:0 "§L这个物种的成员可以自我复制，因为他们有一个简单的生物结构。然而，作为一个简单的生物体却带来了一个副作用:迟钝。§!"
+ 
+ trait_vdl_natural_selection:0 "自然选择"
+ trait_vdl_natural_selection_desc:0 "§L该物种具有非常灵活的基因结构，并显示出短时间的时间。这是一种以频繁的自然选择生存的策略。§!"
+ 
+ trait_vdl_slow_metabolism:0 "代谢缓慢"
+ trait_vdl_slow_metabolism_desc:0 "§L这个物种的新陈代谢缓慢而高效。§!"
+ 
+ trait_vdl_gluttony:0 "贪吃"
+ trait_vdl_gluttony_desc:0 "§L这个物种的成员非常贪吃。饱食不如一顿大餐。§!"
+ 
+ trait_vdl_heroism:0 "英雄主义"
+ trait_vdl_heroism_desc:0 "§L在这个物种的历史上有无数的英雄，未来的历史上将会有新的英雄。§!"
+ 
+ trait_vdl_arrested_learning:0 "学习的停滞"
+ trait_vdl_arrested_learning_desc:0 "§L这个物种的成员从他们的经验中学习很慢，他们通常在低水平上达到他们的技能水平。§!"
+  
+ trait_vdl_psionic_network:0 "灵能网络"
+ trait_vdl_psionic_network_desc:0 "§L这个物种已经建立了灵能网络和他们潜在的心灵能力。他们受到网络的约束，每个思想和情感的结合。§!"
+ 
+ trait_vdl_army_traditions:0 "军队传统"
+ trait_vdl_army_traditions_desc:0 "§L这一物种有着强大的军事传统，在他们的家园上有几千年的间歇性战争。§!"
+ 
+ trait_vdl_aggressive:0 "好斗的"
+ trait_vdl_aggressive_desc:0 "§L这个物种的成员非常好斗。这些野蛮人不仅在他们的社会中，还在战场上制造不和。他们是无法控制的士兵;毫无用处。§!"
+ 
+ trait_vdl_gigantic:0 "巨大的"
+ trait_vdl_gigantic_desc:0 "§L这个物种相对于其他物种来说是巨大的。§!"
+ 
+ trait_vdl_tiny:0 "微小的"
+ trait_vdl_tiny_desc:0 "§L这个物种相对于其他物种来说是很小的。§!"
+ 
+ trait_vdl_beast_howling:0 "野兽咆哮"
+ trait_vdl_beast_howling_desc:0 "§L这个物种的成员通常在战场上以凶猛和野蛮的嚎叫来威慑他们的敌人。这咆哮是一场胜利的战争，为他们自己而战，而这是他们的敌人即将死亡的信号。§!"
+ 
+ trait_vdl_tail_blades:0 "尾巴"
+ trait_vdl_tail_blades_desc:0 "§L这个物种的成员可以用它们长长的尾巴。§!"
+ 
+ trait_vdl_healing_factor:0 "愈合因子"
+ trait_vdl_healing_factor_desc:0 "§L这个物种的成员有强大的能力，可以从各种各样的伤口迅速再生出失去的身体组织。通过摄入来获得再生所需的能量。§!"
+ 
+ trait_vdl_petrification:0 "僵化"
+ trait_vdl_petrification_desc:0 "§L这个物种可以在一瞬间将自己的身体转化成无害的石头来保护自己免受威胁。在不久的将来，他们可能会建立一个量子锁定防御机制:当被观察到的时候，它们会变成石头。§!"
+  
+ trait_vdl_dragon_scales:0 "龙鳞"
+ trait_vdl_dragon_scales_desc:0 "§L这个物种的成员通过其神秘的鳞片，很好地保护着免受冲击、电、热和其他敌对环境的影响。但这不能用于飞船装甲;即使把整个帝国的人口拿来做装甲也会出现不足。§!"
+
+ trait_vdl_electromagnetic_armour:0 "电磁装甲"
+ trait_vdl_electromagnetic_armour_desc:0 "§L这一物种有独特的天赋，可以用它们的电性力量产生电磁装甲。他们本能地理解电磁学和能量动力学。§!"
+
+ trait_vdl_metal_exoskeleton:0 "金属外骨骼"
+ trait_vdl_metal_exoskeleton_desc:0 "§L这个物种的成员受到金属外骨骼的保护。普通的物理攻击对这个物种来说甚至不是威胁。§!"
+
+ trait_vdl_carapace:0 "甲壳"
+ trait_vdl_carapace_desc:0 "§L这个物种有坚硬的甲壳。甲壳动物不仅在战场上保护它们，而且在日常中也会保护它们。§!"
+ 
+ trait_vdl_deformed:0 "脆弱"
+ trait_vdl_deformed_desc:0 "§L这个物种的骨架是脆弱的，畸形的。小心轻放。§!"
+ 
+ trait_vdl_boneless:0 "无骨"
+ trait_vdl_boneless_desc:0 "§L这个物种的成员没有骨骼，也没有骨骼结构。这对某些物种来说是难以理解的，比如脊椎动物，而其他一些物种却对骨生物的键结构感到奇怪。§!"
+  
+ trait_vdl_hemophilia:0 "血友病"
+ trait_vdl_hemophilia_desc:0 "§L这个物种的血液不能正常凝固。许多学者正在研究生物学来治愈这种诅咒。§!"
+ 
+ trait_vdl_aerobatics:0 "特技飞行"
+ trait_vdl_aerobatics_desc:0 "§L这个物种是强大而敏捷的飞行者。它们可以在任何方向上推进，也有4种不同的飞行风格:包括快速转弯、跳水、变焦、盘旋等。实际上，翅膀在太空是没有必要的。§!"
+ 
+ trait_vdl_witness:0 "见证"
+ trait_vdl_witness_desc:0 "§L这一物种的成员目睹了一些可怕的事情，并低估了它的本质。§!"
+ 
+ trait_vdl_great_division:0 "大部门"
+ trait_vdl_great_division_desc:0 "§L这个物种仍处于分裂状态。在他们的家园里，仍旧有许多冲突，即使他们应该向宇宙前进。§!"
+ 
+ trait_vdl_nine_lives:0 "九条命"
+ trait_vdl_nine_lives_desc:0 "§L不管他们是怎么死的，这个物种的成员可以复活八次。自然死亡周期被称为几十年。§!"
+  
+ trait_vdl_precocious:0 "早熟的"
+ trait_vdl_precocious_desc:0 "§L这个物种的成员可以在他们年幼的时候就开始为他们的物种做出贡献。\n\n§W招募领导人的年龄范围： §G10-20§!"
+ 
+ trait_vdl_sadists:0 "虐待狂"
+ trait_vdl_sadists_desc:0 "§L这个物种的成员是虐待狂。§!"
+ 
+ trait_vdl_toxic:0 "有毒"
+ trait_vdl_toxic_desc:0 "§L这个物种的肉和血含有有毒物质。不要吃他们!§!"
+
+ trait_vdl_robot_golems:0 "魔像"
+ trait_vdl_robot_golems_desc:0 "§L这些布满岩石的人造生物是一些宗教仪式的产物。他们有非常复杂的机器，在他们的泥岩外壳中包含一些被遗忘的上古技术。有人可能参与了这些机器的创造，但会是谁呢?§!"
+ 
+ trait_vdl_robot_automatons:0 "机器人"
+ trait_vdl_robot_automatons_desc:0 "§L这些古董机器的驱动系统仍然包含了大量的发条和齿轮。它们发出的声音是滴答声和电子声音的混合;非常奇怪。§!"
+  
+ trait_vdl_robot_children_of_singularity:0 "奇点子"
+ trait_vdl_robot_children_of_singularity_desc:0 "§L这些机器是由经过技术奇点传递的人工智能产生的“主体”。只有少数杰出的工程师能够理解这些机器的灵活和复杂的结构。§!" 
+ 
+ trait_vdl_robot_replicas:0 "复制品"
+ trait_vdl_robot_replicas_desc:0 "§L这些机器被创造成不朽的，并且有一个核心程序，负责处理原始物种的意识，并将其转化为数据作为它们的智能。研究证明，复制后的原始对象的准确率达到99.8%，观察到的损失主要是情感上的功能。§!" 
+ 
+ trait_vdl_robot_mechanical_organism:0 "机械生物"
+ trait_vdl_robot_mechanical_organism_desc:0 "§L这些机器在它们的静脉里有蓝色的血液，并通过大量的纳米机器人细胞来维持它们的身体功能。它们和生物物种非常相似，但它们是人工制造的机械，它们的设计非常类似于一个有机体，即使存在不必要和不合理的部分。§!" 
+ 
+ trait_vdl_robot_machina_ex_deo:0 "Machina Ex Deo"
+ trait_vdl_robot_machina_ex_deo_desc:0 "§L这些机器看似人造的，但却不是。没有人建造它们，它们只存在于任何时候。一些历史学家说，它们是来自上帝的机器。§!" 
+ 
+ trait_vdl_robot_evolved_from_flesh:0 "肉体进化"
+ trait_vdl_robot_evolved_from_flesh_desc:0 "§L这些冰冷而坚硬的金属生物是生物有机体，和其他生物一样，它们有血和肉。包括基因专家在内的科学家几乎无法理解这种“进化”，他们中的大多数人都试图否认这一点。§!"
+  
+ trait_vdl_robot_brain_in_a_vat:0 "缸中之脑"
+ trait_vdl_robot_brain_in_a_vat_desc:0 "§L这些机器的智能不是来自人工神经网络，而是来自一个活着的大脑。这些大脑被安全地保存在一个巨大的生命维持设备中，并通过一个集成的网络与机器人相连。许多大脑都生活在虚拟现实中;实际上是在一个容器里。§!" 
+ 
+ trait_vdl_robot_excellent:0 "优秀的"
+ trait_vdl_robot_excellent_desc:0 "§L这些机器优于其他机器。\n\n§W特征点可用: §G+1§!"
+ 
+ trait_vdl_robot_scrap:0 "废物"
+ trait_vdl_robot_scrap_desc:0 "§L这些机器相对于其他机器来说是破铜烂铁。\n\n§W特征点可用: §R-1§!"
+ 
+ trait_vdl_robot_psionic_oscillator:0 "灵能振荡器"
+ trait_vdl_robot_psionic_oscillator_desc:0 "§L该装置将思想电路中的电子噪声波形转换为心灵波的波形。研究证明只有10%的单位可以用这个装置显示强大的心灵能力。§!"
+ 
+ trait_vdl_robot_omni_functional_system:0 "全功能系统"
+ trait_vdl_robot_omni_functional_system_desc:0 "§L这些机器人的设计用途非常广泛。§!"
+ 
+ trait_vdl_robot_ore_scanner:0 "矿石扫描仪"
+ trait_vdl_robot_ore_scanner_desc:0 "§L这是一个很好的矿石扫描仪，可以探测到星球上几乎所有的矿物。§!"
+ 
+ trait_vdl_robot_pollinator_drones:0 "传粉无人机"
+ trait_vdl_robot_pollinator_drones_desc:0 "§L分散大量的纳米机器人以辅助授粉和去除抑制植物生长的因素。§!"
+ 
+ trait_vdl_robot_autotrophic_reactor:0 "自养反应器"
+ trait_vdl_robot_autotrophic_reactor_desc:0 "§L这是一个超级高效的反应堆，可以在没有任何外部能源供应下长期运行。§!"
+ 
+ trait_vdl_robot_quantum_algorithms:0 "量子算法"
+ trait_vdl_robot_quantum_algorithms_desc:0 "§L量子算法的引入开辟了通往新的研究领域的道路，这是经典算法无法企及的。§!"
+ 
+ trait_vdl_robot_thought_inhibitor:0 "思想抑制剂"
+ trait_vdl_robot_thought_inhibitor_desc:0 "§L这种抑制剂通过切断人工智能的一些高级思维模式来分散记忆和智能系统的力量。\n\n§Y不受幸福度影响§!"
+ 
+ trait_vdl_robot_autoanalysis:0 "自我分析"
+ trait_vdl_robot_autoanalysis_desc:0 "§L由于他们的逻辑系统非常独特和优秀，他们可以通过自动分析在工程领域取得进展。§!"
+ 
+ trait_vdl_robot_obedience_code:0 "服从代码"
+ trait_vdl_robot_obedience_code_desc:0 "§L几乎没有几行服从代码比一些有机的忠诚概念更有效。§!"
+ 
+ trait_vdl_robot_ideal_servitor:0 "理想的仆人"
+ trait_vdl_robot_ideal_servitor_desc:0 "§L这些机器人被设计成只支持主物种。无论你想要什么，他们都会为你服务。§!"
+ 
+ trait_vdl_robot_happybot:0 "快乐机器人"
+ trait_vdl_robot_happybot_desc:0 "§L这些机器人提供了完美的服务;主人会变得懒惰。.§!"
+ 
+ trait_vdl_robot_phaseshift_coating:0 "相位变化涂层"
+ trait_vdl_robot_phaseshift_coating_desc:0 "§L一些超级高效但理论的一代将会使用相移涂层技术。§!"
+ 
+ trait_vdl_robot_reassembly:0 "重新组装"
+ trait_vdl_robot_reassembly_desc:0 "§L注意:不要与其他机器人的部件一起堆积。§!"
+ 
+ trait_vdl_robot_memory_rearrangement:0 "内存重排"
+ trait_vdl_robot_memory_rearrangement_desc:0 "§L有效的内存管理需要频繁的数据重排。§!"
+ 
+ trait_vdl_robot_high_compatibility:0 "高兼容性"
+ trait_vdl_robot_high_compatibility_desc:0 "§L它与任何与原图相似的部件都是兼容的。§!"
+ 
+ trait_vdl_robot_experience_downloads:0 "体验下载"
+ trait_vdl_robot_experience_downloads_desc:0 "§L该系统已建立，从大经验数据库中下载一些重要的经验数据。§!"
+
+ trait_vdl_robot_quantitative_advance:0 "定量推进"
+ trait_vdl_robot_quantitative_advance_desc:0 "§L许多低等的单位会比少数高的单位取得更多的成就。也许吧。§!"
+  
+ trait_vdl_robot_standardization:0 "标准化"
+ trait_vdl_robot_standardization_desc:0 "§L极其标准化的设计使单位批量生产达到了一个具有划时代意义的高速率。§!"
+ 
+ trait_vdl_robot_remarkable_design:0 "卓越的设计"
+ trait_vdl_robot_remarkable_design_desc:0 "§L简化的设计，没有任何性能损失。§!"
+ 
+ trait_vdl_robot_unity_functions:0 "统一的功能"
+ trait_vdl_robot_unity_functions_desc:0 "§L这个隐藏的功能定位在核心系统内部，并且没有任何痕迹。§!"
+  
+ trait_vdl_robot_machine_cults:0 "机械邪教"
+ trait_vdl_robot_machine_cults_desc:0 "§L这种不可破译的密码被插入到主要的情报系统的基础上，其功能与有机物种的宗教信仰非常相似。§!"
+ 

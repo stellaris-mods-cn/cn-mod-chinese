@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+ ###################
+ # Decisions
+ ###################
+ decision_eac_empire_university:0 "£eac_lightbulb 进入帝国大学"
+ decision_eac_empire_university_desc:1 "访问帝国大学，以一定的价格招募量身定制的领导者。"
+ decision_eac_empire_university_tooltip:0 "打开帝国大学屏幕以选择新的领导者。"
+ 
+ # Static Modifiers
+ eac_waiting_for_psionic_leader:0 "寻找灵能领袖"
+ eac_waiting_for_psionic_leader_desc:0 "寻找灵能领袖" 

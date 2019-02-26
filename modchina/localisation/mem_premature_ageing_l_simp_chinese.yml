@@ -1,0 +1,36 @@
+﻿l_simp_chinese:
+ mem_premature_ageing_category:0 "过早老化"
+ mem_premature_ageing_category_desc:0 "[From.GetName]的质量、能源输出和光谱图样，都比同类及同龄的星体有着很大的差异，暗示它有加速老化的可能性。"
+ 
+ mem_premature_ageing.1.name:0 "失败"
+ mem_premature_ageing.1.desc:0 "毋庸置疑地，这颗星体比我们预料中老化得更快，更会在二百万年内转化为超新星───比平常的快了至少二十亿年。可是，我们无法判断这奇怪现象的因由。"
+ mem_premature_ageing.1.a:0 "太可惜了。"
+ 
+ mem_premature_ageing.2.name:0 "恒星熄灭者"
+ mem_premature_ageing.2.desc:0 "从长期休眠的能量痕迹及靠近星体日冕的突破点得知，[From.GetName]的加速老化是人为做成的。看起来在数百万年前，一条射线从某个遥远的星系，利用我们难以理解的工具发射出来，并击中这个星体。\n\n这可能是一种武器，或是一次极具规模的民间工程。它把星体的核心完全穿透了，弄翻了内部的核聚变过程，借此希望将它提早变成超新星。不幸中之大幸的是，这项工程未能成功达到如此毁灭性的目标，不过在二百万年前的旁观者肯定充分感受到射线的威力。"
+ mem_premature_ageing.2.normal:0 "我们未能追踪这项武器的来源实在是太可惜了。"
+ mem_premature_ageing.2.alternate:0 "我们可能追踪到这项武器的来源。"
+ 
+ MEM_PREMATURE_AGEING_WEAPON_TRACING_PROJECT:0 "追踪恒星熄灭者"
+ MEM_PREMATURE_AGEING_WEAPON_TRACING_PROJECT_DESC:0 "一件能够穿透时空连续体并且以比光速更快地传送庞大能量的武器，就算已经过了数百万年，它的子空间突破点依然停留在星体的周遭。运用上某点技巧，我们便可以追踪到这项武器的来源。"
+ 
+ mem_premature_ageing.3.name:0 "找到来源"
+ mem_premature_ageing.3.desc:0 "我们实在太幸运了！平常被视为没有太多用处的追踪方法，今次竟然因为庞大能量而大派用场。我们已经确认了能量是来自一个遥远的星系。"
+ 
+ #Event chain
+ mem_premature_ageing_chain_title:0 "找出武器的来源"
+ mem_premature_ageing_chain_desc:0 "我们应该尝试找出武器的来源，从那里我们可能获得更多关于令恒星加速衰退的科技。"
+ mem_premature_ageing_asteroid_checked:0 "找到来源"
+ 
+ #Point of Interest
+ mem_premature_ageing_weapon_origin.1.name:0 "武器的来源"
+ mem_premature_ageing_weapon_origin.1.desc:0 "武器应该是在这个位置发射。"
+ 
+ MEM_PREMATURE_AGEING_WEAPON_ANALYZE_PROJECT:0 "调查小行星"
+ MEM_PREMATURE_AGEING_WEAPON_ANALYZE_PROJECT_DESC:0 "我们成功在星系内的小行星带，找到突破点留下的残余物。如果我们事前不知道要找甚么，我们根本不会留意到它的存在，不过现在看来，这里可能就是要找到武器的地方。"
+ 
+ mem_premature_ageing.5.name:0 "恒星熄灭者"
+ mem_premature_ageing.5.desc:0 "对于不知情者而言，这可能只是一块飘浮在太空的普通石头，对我们来说却是另一回事。利用经过我们特别调节的侦测器，我们可以看得出这颗小行星是一套极之先进的能量转移系统的一部分。在其他人眼中，它可能只是不起眼的矿石，但它其实曾经是某个星球内核心的极为复杂电路系统。\n\n看起来这项武器只是被用过一次，由于过于强大的能量负荷完全撕裂了整个星球，变成了我们眼见的小行星带。这项隐藏了多年的远古科技比我们的更先进几千年，可是就算在这个状态，单单研究它的能量分配系统都提供了不少关于能源武器科技的资讯。 "
+ 
+ mem_premature_ageing_solar_extinguisher_tech:0 "恒星熄灭者科技"
+ mem_premature_ageing_solar_extinguisher_tech_desc:0 "经过一轮研究，我们已经成功微调我们的能源武器科技，可以输出更多伤害。"

@@ -1,0 +1,111 @@
+﻿l_simp_chinese:
+ ######################
+ # STRATEGIC RESOURCES
+ ######################
+ sr_biomass:0 "生物质"
+ sr_biomass_desc:1 "浓密、茂密的植物或丰富的海洋动物，它们不总是可以食用的，至少在加工之前是这样。"
+ sr_exotic_foods:0 "异域美食"
+ sr_exotic_foods_desc:1 "奇异的外来植物和动物的生命形式，非常美味(¯﹃¯)。"
+ sr_natural_fuels:0 "天然燃料"
+ sr_natural_fuels_desc:1 "木材、石油、煤炭、天然气和其他自然燃料仍然是非常有价值的能源来源。"
+
+ #############
+ # BUILDINGS
+ #############  
+ building_cultivator:0 "生物栽培者"
+ building_cultivator_desc:0 "一种试图保存和整合生物量的农业研究设施，而不是简单地对其进行加工、转化或销毁。\n\n§R只能建在生物质矿床上§!"
+ building_biomass_sourcer:0 "生物质提取厂"
+ building_biomass_sourcer_desc:0 "从来源收集生物质并分离出可食用的任何物质。\n\n§R只能在有生物质的地块上建造。§!"
+ building_biomass_sourcer_2:0 "生物质提取厂 II"
+ building_biomass_sourcer_2_desc:0 "从来源收集生物质并分离出可食用的任何物质。"
+ building_biomass_sourcer_3:0 "生物质提取厂 III"
+ building_biomass_sourcer_3_desc:0 "从来源收集生物质并分离出可食用的任何物质。"
+ 
+ building_biomass_furnace:0 "生物质燃料炉"
+ building_biomass_furnace_desc:0 "将生物质转化为能源。\n\n§R只能在有生物质的地块上建造。§!"
+
+ building_biomass_filtrator:0 "生物质滤器"
+ building_biomass_filtrator_desc:1 "将生物质转化为能源和粮食，并为其他农业提供肥料和养分土壤解决方案。\n\n§R只能在有生物质的地块附近建造。§!"
+ building_biomass_filtrator_2:0 "生物质滤器 II"
+ building_biomass_filtrator_2_desc:1 "将生物质转化为能源和粮食，并为其他农业提供肥料和养分土壤解决方案。"
+
+ building_biomass_processor:0 "生物质处理器"
+ building_biomass_processor_desc:1 "将生物质加工成食品和储存舱，以防止降解，更容易运输。\n\n§R只能在生物质滤器附近建立。§!"
+ 
+ building_bio_manufacturing_plant:0 "生物质转化工厂"
+ building_bio_manufacturing_plant_desc:0 "一些生物质是为方便运输和转化为可食用食品而准备的，但大多数都是通过这种设备转化为工业和制造业的有用材料。\n\n§R只能在生物质滤器附近建立。§!"
+ building_bio_manufacturing_plant_2:0 "生物质转化工厂 II"
+ building_bio_manufacturing_plant_2_desc:0 "一些生物质是为方便运输和转化为可食用食品而准备的，但大多数都是通过这种设备转化为工业和制造业的有用材料。"
+ 
+ building_fuel_sourcer:0 "天然燃料开发厂"
+ building_fuel_sourcer_desc:1 "获得天然燃料。\n\n§R只能在有天然燃料的地块上建造。§!"
+ building_fuel_sourcer_2:0 "天然燃料开发厂 II"
+ building_fuel_sourcer_2_desc:1 "获得天然燃料。"
+ building_fuel_sourcer_3:0 "天然燃料开发厂 III"
+ building_fuel_sourcer_3_desc:1 "获得天然燃料。"
+ 
+ building_fuel_refinery_0:0 "天然燃料精炼厂"
+ building_fuel_refinery_0_desc:1 "提炼天然燃料使其更有效。\n\n§R只能在天然燃料开发附近建造。§!"
+ building_fuel_refinery:0 "天然燃料精炼厂 II"
+ building_fuel_refinery_desc:1 "提炼天然燃料使其更有效。"
+ building_fuel_refinery_2:0 "天然燃料精炼厂 III"
+ building_fuel_refinery_2_desc:1 "提炼天然燃料使其更有效。"
+ 
+ building_materials_manufacturing_pre:0 "生产工厂"
+ building_materials_manufacturing_pre_desc:1 "使用自然材料为其他工业过程生产有用的部件，如建筑施工，以及许多常见的消费品。§!"
+ 
+ building_alpha_fuel_converter:0 "天然燃料转换器"
+ building_alpha_fuel_converter_desc:1 "将天然燃料转化为能源和其他许多有用的材料，同时也能高效地储存能量。\n\n§R只能在天然燃料精炼厂附近建造。§!"
+ building_alpha_fuel_converter_x:0 "天然燃料转换器 II"
+ building_alpha_fuel_converter_x_desc:1 "将天然燃料转换成清洁能源和许多其他有用的材料，同时也能高效地储存能源。"
+ building_alpha_fuel_converter_xx:0 "天然燃料转换器 III"
+ building_alpha_fuel_converter_xx_desc:1 "将天然燃料转换成更清洁的能源和许多其他有用的材料，同时也能高效地储存能源。"
+ 
+ building_adv_natfuels_processor:0 "天然燃料处理器"
+ building_adv_natfuels_processor_desc:0 "将大量的自然燃料转化为能量和矿物质。\n\n§R只能在天然燃料开发厂附近建造。§!"
+
+ building_traditional_farm:0 "传统农场"
+ building_traditional_farm_desc:1 "传统的农场是建立在肥沃的土壤上的。\n\n§R只能在有食物的地块上建造。§!"
+ building_traditional_plantation:0 "传统种植园"
+ building_traditional_plantation_desc:1 "传统的种植园在生物密集地区生产食物。\n\n§R只能在有食物的地块上建造。\n只能在热带星球上建造。§!"
+ building_preservation:0 "博物馆"
+ building_preservation_desc:1 "传统方法，当地野生动物，遗产。保存完好。"
+ 
+ building_garden_construction:0 "花园"
+ building_garden_construction_desc:0 "将生物多样性的地区转换成美丽的花园区域。\n\n§R只能在有生物质的地块上建造。§!"
+ 
+ building_exotics_farm: "异国农场"
+ building_exotics_farm_desc: "研究和整合外来食品。\n\n§R只能建立在异国风味的食物上。§!"
+ building_food_hybridiser:0 "杂交植物工厂"
+ building_food_hybridiser_desc:1 "当地和进口的农产品与外来的外来食品拼接在一起，将世界上最好的农产品结合在一起。\n\n§R只能在有异域美食的地块上建造。§!"
+ building_exotics_bizarre:0 "奇异市场"
+ building_exotics_bizarre_desc:1 "一个专门从事不同寻常的食物、饮料和其他乐趣的市场。\n\n§R需要所在的行星有杂交食物。§!"
+
+ building_fuel_sourcer_clean: "清洁燃料源"
+ building_fuel_sourcer_clean_desc: "通过消除加工自然燃料的矿物元素的需要，可以纯粹出于它们对能源生产的好处，减少废物副产品的生产，并允许对资源进行长期的保护。\n\n§R只能建立在天然燃料上§!"
+ 
+ # REQUIREMENT TOOLTIPS
+ requirement_natural_fuels_deposit:0 "§R只能在有天然燃料的地块上建造。§!"
+ requirement_adjacent_fuel_sourcer:0 "§R只能在天然燃料开发厂附近建造。§!"
+ requirement_adjacent_fuel_refinery:0 "§R只能在天然燃料精炼厂附近建造。§!"
+ requirement_farmland:0 "§R只能在有食物的地块上建造。§!"
+ requirement_exotic_foods:0 "§R只能在有异域美食的地块上建造。§!"
+ requirement_biomass_deposit:0 "§R只能在有生物质的地块上建造。§!"
+ requirement_adjacent_biomass_sourcer:0 "§R只能在生物质开发厂附近建造。§!"
+ requirement_adjacent_biomass_filtrator:0 "§R只能在生物质滤器附近建立。§!"
+ 
+ # MISCELLANEOUS MODIFIERS AND RESOURCE LABELS
+ planet_resource_sr_natural_fuels_add: "天然燃料"
+ tile_building_resource_unity_add: "凝聚力产出"
+ food_production_construction_speed_mult: "食物建筑建造速度"
+ food_production_build_cost_mult: "食品建筑建造成本"
+ minerals_production_construction_speed_mult: "矿物建筑建造速度"
+ minerals_production_build_cost_mult: "矿物建筑建造成本"
+ energy_production_construction_speed_mult: "能量币建筑建造速度"
+ energy_production_build_cost_mult: "能量币食品建筑建造成本"
+ unity_production_construction_speed_mult: "凝聚力建筑建造速度"
+ unity_production_build_cost_mult: "凝聚力建筑建造成本"
+ influence_production_construction_speed_mult: "影响力建筑建造速度"
+ influence_production_build_cost_mult: "影响力建筑建造成本"
+ science_production_construction_speed_mult: "科学建筑建造速度"
+ science_production_build_cost_mult: "科学建筑建造成本"

@@ -1,0 +1,53 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # Decisions
+ # ###################################
+ 
+ decision_mastery_of_nature_ii:0 "掌控自然"
+ decision_mastery_of_nature_ii_desc:0 "$decision_mastery_of_nature_desc$"
+ decision_low_orbit_urbanisation:0 "低轨道城市群"
+ decision_low_orbit_urbanisation_desc:0 "构建行星低轨道栖息地群需要对行星的低轨道卫星网络和交通控制基础设施使用高质量的低重量合金进行大规模改造。行星第三产业的一部分可以在不损失效率的情况下重新安置，商业活动甚至可以从中受益，从而为行星表面更多的活动腾出空间。" 
+ decision_subterranean_urbanisation:0 "地下城市群"
+ decision_subterranean_urbanisation_desc:0 "有可能永远不会有足够的空间。不是在地面上，也不是在空中，更不是在太空中，不是在任何地方。 一个简单的概念，但是有用的。  如果原始人可以制作一堆金字塔形的石头，我们肯定可以挖一个洞来居住。当然，最终会在那里生活的人最少，但是我得到了我的钱，所以我为什么要关心。"
+ decision_autonomous_ptn:0 "自治行星传输网络"
+ decision_autonomous_ptn_desc:0 "Galaxy News Radio报道：[在任何时候，城市3DRoads中67％的车辆只有一名乘客。] [摩纳哥太空火箭的人数比人多。] [Xracon说Xrance的燃油税计划已经废弃。] [想想这里阅读更多]。\n通过摆脱这种过度消费主义的低效率，可以获得很大的空间，减少污染，重新安置财富。 说服拥有车辆，飞机和火箭的人这些不是衡量生活质量的标准是困难的，说服公司停止告诉人们为什么每3年需要一个新火箭则相当困难，但最后 这一天一切都会是最好的。 我们必须准备退还几万亿辆车辆，然后再回收这些车辆，以便进行基础设施调整或返回到一些早期太空时代的原型。 我们还没有就此问过任何人的意见，但是Space Xeno的派对已经开始参加派对了。"
+ decision_verticalised_farming:0 "立体农业"
+ decision_verticalised_farming_desc:0 "先生，根据最新报告，监护矩阵已将他们的农业立体化。\n什么，机器人？农业？！ 你给我滚出去！\n不是那样的先生，我的意思是农场，立体农场。\n你知道那是什么吗？ 这是一个绝妙的主意，现在只需要找到我的法令生成AI-Alexa的！\n我很感激您，我知道您会看到它的妙处的，我们可以在一些原始的污垢上浪费更少的空间，并建立更多的娱乐中心，或者，或者......先生？\n哦，当然，农场，对，是的，是的，当然是的，这就是我所说的。"
+ 
+ # ###################################
+ # Modifiers
+ # ###################################
+ 
+ mastery_of_nature_1:0 "$decision_mastery_of_nature_ii$"
+ mastery_of_nature_1_desc:0 "$decision_mastery_of_nature_desc$"
+ mastery_of_nature_2:0 "$decision_mastery_of_nature_ii$"
+ mastery_of_nature_2_desc:0 "$decision_mastery_of_nature_desc$"
+ low_orbit_urbanisation_1:0 "$decision_low_orbit_urbanisation$"
+ low_orbit_urbanisation_1_desc:0 "$decision_low_orbit_urbanisation_desc$"
+ low_orbit_urbanisation_2:0 "$decision_low_orbit_urbanisation$"
+ low_orbit_urbanisation_2_desc:0 "$decision_low_orbit_urbanisation_desc$"
+ low_orbit_urbanisation_3:0 "$decision_low_orbit_urbanisation$"
+ low_orbit_urbanisation_3_desc:0 "$decision_low_orbit_urbanisation_desc$"
+ subterranean_urbanisation_1:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_1_desc:0 "$decision_subterranean_urbanisation_desc$"
+ subterranean_urbanisation_2:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_2_desc:0 "$decision_subterranean_urbanisation_desc$"
+ subterranean_urbanisation_3:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_3_desc:0 "$decision_subterranean_urbanisation_desc$"
+ subterranean_urbanisation_4:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_4_desc:0 "$decision_subterranean_urbanisation_desc$"
+ autonomous_ptn_1:0 "$decision_autonomous_ptn$"
+ autonomous_ptn_1_desc:0 "$decision_autonomous_ptn_desc$"
+ autonomous_ptn_2:0 "$decision_autonomous_ptn$"
+ autonomous_ptn_2_desc:0 "$decision_autonomous_ptn_desc$"
+ autonomous_ptn_tmp:0 "有争议的行星政策"
+ #"YOU MAY TAKE OUR RIGHTS BUT YOU WON'T TAKE OUR ROCKETS"
+ autonomous_ptn_tmp_desc:0 "不是每个人都乐于使用公共空间电梯，就好像它是世界末日，但他们有一天会看到希望。"
+ vertical_fm_1:0 "$decision_verticalised_farming$"
+ vertical_fm_1_desc:0 "$decision_verticalised_farming_desc$"
+ vertical_fm_2:0 "$decision_verticalised_farming$"
+ vertical_fm_2_desc:0 "$decision_verticalised_farming_desc$"
+ vertical_fm_3:0 "$decision_verticalised_farming$"
+ vertical_fm_3_desc:0 "$decision_verticalised_farming_desc$"
+ 

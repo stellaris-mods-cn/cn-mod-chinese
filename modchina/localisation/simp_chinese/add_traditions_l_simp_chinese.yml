@@ -1,0 +1,407 @@
+﻿l_simp_chinese:
+
+################################################################
+# BUILDINGS
+################################################################
+ 
+ add_traditions_building_starship_construction_institute:0 "星舰建造研究所" 
+ add_traditions_building_starship_construction_institute_desc:0 "这座庞大的建筑群内聚集了最聪明的头脑，他们将协调全帝国所有军舰的研究和建造。"
+ 
+ add_traditions_building_starship_construction_subprocessor:0 "舰船管理单元" 
+ add_traditions_building_starship_construction_subprocessor_desc:0 "这个庞大的综合体包含了一个用于子处理器单元的大型主机，其唯一目的是监督所有在机械意识管理下的军舰研究和建造。"
+ 
+################################################################
+# NAVAL
+################################################################
+
+ tradition_naval:0 "海军"
+ tradition_naval_desc:0 "显而易见，星际舰队在宇宙外交中扮演着重要的角色。"
+
+# Adopt
+
+ tr_naval_adopt:0 "海军传统"
+ tr_naval_adopt_desc:0 "$tradition_naval_desc$\n\n$tr_naval_adopt_effect$\n\n$tr_naval_finish_effect$"
+ tr_naval_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_ADMIRAL_SKILL_LEVELS$§!增加§Y2§!并且§Y$MOD_SHIP_EXPERIENCE_GAIN_MULT$§!增加§G+50%§!."
+
+# Finish
+ 
+ tr_naval_finish:0 "海军传统完成"
+ tr_naval_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_naval_adopt$可以增加§Y船体值§!,§Y装甲§!并且§Y护盾值§!每日可以恢复§Y+0.5%§!"
+ 
+ # tr_naval_1
+ 
+ tr_naval_1:0 "星舰建造研究所"
+ tr_naval_1_desc:0 "§H解锁建筑：§! $add_traditions_building_starship_construction_institute$."
+ tr_naval_1_delayed:0 "同时拥有星舰建造研究所和足够的骨干核心，使得我们能够改善和优化整体造船的效率和升级过程。无论是从设计环节还是到最终舰船出港，都令人刮目相看。"
+ 
+ tr_naval_1_machine:0 "舰船管理单元"
+ tr_naval_1_machine_desc:0 "§H解锁建筑：§! $add_traditions_building_starship_construction_subprocessor$."
+ tr_naval_1_machine_delayed:0 "委任舰船管理单元部门的主要目的是监督和优化我们的舰船设计，使我们能够改进和优化整体造船和升级过程并提高船厂的效率。"
+ 
+ tr_naval_1_hive:0 "舰船最优进化"
+ tr_naval_1_hive_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+10%§!,同时§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!和§Y$MOD_COUNTRY_SHIP_UPGRADE_COST_MULT$§!都减少§G10%§!"
+ tr_naval_1_hive_delayed:0 "在现有舰队和未来舰队之间分配资源时，严格的经济计划允许蜂群减少不必要的浪费，并使用这些剩余资源投入到更多的舰船中去。"
+ 
+ # tr_naval_2
+ 
+ tr_naval_2:0 "飞船工程兵团"
+ tr_naval_2_desc:0 "舰船的§Y船体值§!,§Y装甲§!和§Y护盾值§!增加§G+5%§!。"
+ tr_naval_2_delayed:0 "我们经验丰富的工程师团队采用先进的改良技术。他们在维护舰船期间可以提高战舰的护盾性能，同时提高结构船体和装甲的完整性。"
+ 
+ tr_naval_2_machine:0 "海军优化协议"
+ tr_naval_2_machine_desc:0 "舰船的§Y船体值§!,§Y装甲§!和§Y护盾值§!增加§G+5%§!。"
+ tr_naval_2_machine_delayed:0 "舰队管理单元在维护期间将使用先进的优化协议。这不仅能够提高护盾性能，还能增强船体结构和装甲的完整性。"
+ 
+ tr_naval_2_hive:0 "坚韧船体外壳"
+ tr_naval_2_hive_desc:0 "舰船的§Y船体值§!和§Y装甲§!增加§G+10%§!."
+ tr_naval_2_hive_delayed:0 "更坚硬的再生骨骼使得我们的蜂群舰船能够更好地抵御恶劣的环境，比如敌人的炮火。"
+ 
+ # tr_naval_3
+ 
+ tr_naval_3:0 "回避方针"
+ tr_naval_3_desc:0 "舰船的§Y$MOD_SHIP_EVASION_MULT$§!将增加§G+10%§!。"
+ tr_naval_3_delayed:0 "在太空战斗中学习如何躲避敌方火力可以提高舰队在遭遇敌人时的整体表现。"
+ 
+ # tr_naval_4
+ 
+ tr_naval_4:0 "战术撤退"
+ tr_naval_4_desc:0 "舰船 §Y$MOD_SHIP_DISENGAGE_CHANCE_MULT$§! 增加§G+20%§!，在§Y$MOD_SHIP_EMERGENCY_FTL$§!的时候减少§G10%§!。"
+ tr_naval_4_delayed:0 "知道如何找到合适的时机将受损船只从战斗中撤出是一种高明的战术，它可以节约大量的时间和资源，而不是让我们耗在这些无意义的事情上。"
+ 
+ # tr_naval_5
+ 
+ tr_naval_5:0 "改良太空航行"
+ tr_naval_5_desc:1 "船只的§Y亚光速航行速度§!提高§G+20%§!。"
+ tr_naval_5_delayed:0 "了解太空旅行的诸多细微差别——例如先进的三角测距法，找到进入超空间航道更好的切入点，以及利用太空实体的重力井，比如对我们有利的行星和恒星，将允许我们更好地规划航线，大大减少恒星系的旅行时间。"
+ 
+    
+################################################################
+# STATECRAFT
+################################################################
+
+ tradition_statecraft:0 "国策"
+ tradition_statecraft_desc:0 "改革并完善政府职能是建设完美社会的一项重要任务。"
+ 
+ tradition_statecraft_machine:0 "效率"
+ tradition_statecraft_machine_desc:0 "机械智能必须自我检查以提高其在代码层面和执行过程中各个方面的效率。"
+ 
+ tradition_statecraft_hive:0 "植培"
+ tradition_statecraft_hive_desc:0 "心智不是天生完美的。它可以和蜂群一同寻求生存过程中的最佳效率。"
+ 
+# Adopt
+
+ tr_statecraft_adopt:0 "国策传统"
+ tr_statecraft_adopt_desc:0 "$tradition_statecraft_desc$\n\n$tr_statecraft_adopt_effect$\n\n$tr_statecraft_finish_effect$"
+ tr_statecraft_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!增加§Y2§!。"
+
+ tr_statecraft_machine_adopt:0 "效率传统"
+ tr_statecraft_machine_adopt_desc:0 "$tradition_statecraft_machine_desc$\n\n$tr_statecraft_machine_adopt_effect$\n\n$tr_statecraft_finish_effect$"
+ tr_statecraft_machine_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!增加§Y2§!。"
+ 
+ tr_statecraft_adopt_hive:0 "植培传统"
+ tr_statecraft_adopt_hive_desc:0 "$tradition_statecraft_hive_desc$\n\n$tr_statecraft_hive_adopt_effect$\n\n$tr_statecraft_finish_effect$"
+ tr_statecraft_hive_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!增加§Y2§!。"
+
+# Finish
+
+ tr_statecraft_finish:0 "国策传统完成"
+ tr_statecraft_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_statecraft_adopt$可以让我们的§Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§!增加§G+1§!。"
+
+ # tr_statecraft_1
+
+ tr_statecraft_1:0 "大型国家机关"
+ tr_statecraft_1_desc:0 "§Y领袖容量§!增加§Y3§!名。"
+ tr_statecraft_1_delayed:0 "政府是社会的基础，它将带领我们前往全新的境界和美好未来，所以国家机器当然是越大越好!"
+
+ tr_statecraft_1_machine:0 "改善托管模式"
+ tr_statecraft_1_machine_desc:0 "§Y领袖容量§!增加§Y3§!名。"
+ tr_statecraft_1_machine_delayed:0 "将改良的CPU托管协议应用于几个专业领域指定任务的半感知子处理器单元，便可以提高整个系统的性能。"
+
+ tr_statecraft_1_hive:0 "自治权力"
+ tr_statecraft_1_hive_desc:0 "§Y领袖容量§!增加§Y3§!名。"
+ tr_statecraft_1_hive_delayed:0 "自主执行任务而可控工蜂的进化将大大提高蜂群的整体泛用性。"
+
+ # tr_statecraft_2
+ 
+ tr_statecraft_2:0 "政府支援"
+ tr_statecraft_2_desc:0 "§Y$MOD_TRADITION_COST_NUM_COLONIES_MULT$§!和§Y$MOD_TRADITION_COST_NUM_SYSTEMS_MULT$§!减少§G10%§!。"
+ tr_statecraft_2_delayed:0 "政府部门拥有国家最有才华的智库和精英，让这些专家与当地政府密切合作能够大大提高整体行政的效率。"
+ 
+ tr_statecraft_2_machine:0 "高级修复系统"
+ tr_statecraft_2_machine_desc:0 "§Y$MOD_TRADITION_COST_NUM_COLONIES_MULT$§!和§Y$MOD_TRADITION_COST_NUM_SYSTEMS_MULT$§!减少§G10%§!。"
+ tr_statecraft_2_machine_delayed:0 "在所有机组上安装半智能过载修复系统，激活并控制那些产生重大错误或严重损坏的机组，并将其送往最近的维修中心进行整修或回收，这大大提高了系统的整体性能。"
+ 
+ tr_statecraft_2_hive:0 "脑虫进化"
+ tr_statecraft_2_hive_desc:0 "§Y$MOD_TRADITION_COST_NUM_COLONIES_MULT$§!和§Y$MOD_TRADITION_COST_NUM_SYSTEMS_MULT$§!减少§G10%§!。"
+ tr_statecraft_2_hive_delayed:0 "自主工蜂的进一步的受控进化导致了大脑的出现，这个器官的目的在于监视和控制远程系统中的工蜂，并通过覆盖的神经元保持与蜂群的连接。"
+ 
+ # tr_statecraft_3
+  
+ tr_statecraft_3:0 "公共辩论"
+ tr_statecraft_3_desc:0 "£influence  §Y$MOD_COUNTRY_FACTION_INFLUENCE_MULT$§!增加§G+25%§!。"
+ tr_statecraft_3_delayed:0 "政治党派之间的公开辩论可以分享他们关于如何治理国家的意见和想法，这对提高政府的整体效率是非常有益的。"
+ 
+ tr_statecraft_3_machine:0 "更新迭代"
+ tr_statecraft_3_machine_desc:0 "§Y$MOD_POP_ROBOT_PRODUCTION_OUTPUT$§!增加§G+10%§!。"
+ tr_statecraft_3_machine_delayed:0 "高效的监控子系统允许主机快速发现和修复回收损坏和故障的单元并用新的单元替换它们，这将提高整体资源的产出。"
+ 
+ tr_statecraft_3_hive:0 "循环工蜂"
+ tr_statecraft_3_hive_desc:0 "§Y$country_resource_food_mult$§!增加§G+20%§!。"
+ tr_statecraft_3_hive_delayed:0 "监督系统允许迅速处理受伤和失控的工蜂，这些工蜂将转为为额外的生物质来源，并立即用新的生物质来源替代它们，这增加了蜂群社会的整体资源产出。"
+ 
+ # tr_statecraft_4
+
+ tr_statecraft_4:0 "审查制度"
+ tr_statecraft_4_desc:0 "§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!增加§Y2§!。并且§Y$MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$§!增加§Y1§!。"
+ tr_statecraft_4_delayed:0 "在国家层面上对大众媒体进行微妙的控制，这让我们更容易地管理国家公民。"
+ 
+ tr_statecraft_4_machine:0 "软件同步更新"
+ tr_statecraft_4_machine_desc:0 "§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!增加§Y2§!。并且§Y$MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$§!增加§Y1§!。"
+ tr_statecraft_4_machine_delayed:0 "定期更新自主单元软件，大大降低了故障发生的几率，提高了系统的整体稳定性。"
+ 
+ tr_statecraft_4_hive:0 "思想投射"
+ tr_statecraft_4_hive_desc:0 "§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!增加§Y2§!。并且§Y$MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$§!增加§Y1§!。"
+ tr_statecraft_4_hive_delayed:0 "通过具有天生灵感的工蜂作为思想的连接枢纽，我们可以提高对大量蜂群的整体控制。"
+ 
+ # tr_statecraft_5
+ 
+ tr_statecraft_5:0 "高级社会心理学"
+ tr_statecraft_5_desc:0 "§Y$MOD_COUNTRY_EDICT_COST$§!减少§G10%§!。并且§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+10%§!。"
+ tr_statecraft_5_delayed:0 "了解整个社会将如何对某些事件和刺激做出反应，使我们更容易预见后果，并据此制定相应的计划。"
+ 
+ tr_statecraft_5_machine:0 "高级预测算法"
+ tr_statecraft_5_machine_desc:0 "§Y$MOD_COUNTRY_EDICT_COST$§!减少§G10%§!。并且§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+10%§!。"
+ tr_statecraft_5_machine_delayed:0 "持续运行某种特定任务的子处理器用来对未来事件作出可能性的模拟，这允许我们相应地进行前期规划。"
+ 
+ tr_statecraft_5_hive:0 "预知培育"
+ tr_statecraft_5_hive_desc:0 "§Y$MOD_COUNTRY_EDICT_COST$§!减少§G10%§!。并且§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+10%§!。"
+ tr_statecraft_5_hive_delayed:0 "不断培养思维的潜意识直觉，对未来可能发生的事件做出预测，这样我们就能提前作出相应的判断。"
+ 
+ ################################################################
+ # INSPIRATION
+ ################################################################
+
+ tradition_inspiration:0 "启迪"
+ tradition_inspiration_desc:0 "梦想和奉献本身就非常强大，更不用说它们组合在一起的力量。"
+ 
+ tradition_inspiration_machine:0 "校正"
+ tradition_inspiration_machine_desc:0 "从长远来看，即使是微小的调整也能在未来带来巨大的进步。"
+ 
+ tradition_inspiration_hive:0 "进化"
+ tradition_inspiration_hive_desc:0 "不断地适应并进化，即使是微不足道的改变在未来也有可能带来巨大的优势。"
+ 
+ # Adopt 
+
+ tr_inspiration_adopt:0 "启迪传统"
+ tr_inspiration_adopt_desc:0 "$tradition_inspiration_desc$\n\n$tr_inspiration_adopt_effect$\n\n$tr_inspiration_finish_effect$"
+ tr_inspiration_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_GENERAL_SKILL_LEVELS$§!增加§Y2§!。并且所有£pops  人口的£happiness  §Y$MOD_POP_HAPPINESS$§!提升了§G+5%§!。"
+
+ tr_inspiration_machine_adopt:0 "校正传统"
+ tr_inspiration_machine_adopt_desc:0 "$tradition_inspiration_machine_desc$\n\n$tr_inspiration_machine_adopt_effect$\n\n$tr_inspiration_finish_effect$"
+ tr_inspiration_machine_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_GENERAL_SKILL_LEVELS$§!增加§Y2§!。并且§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!提升了§G+5%§!。"
+ 
+ tr_inspiration_hive_adopt:0 "进化传统"
+ tr_inspiration_hive_adopt_desc:0 "$tradition_inspiration_hive_desc$\n\n$tr_inspiration_hive_adopt_effect$\n\n$tr_inspiration_finish_effect$"
+ tr_inspiration_hive_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_GENERAL_SKILL_LEVELS$§!增加§Y2§!。并且£pops  §Y$MOD_POP_RESOURCE_OUTPUT$§!提升了§G+5%§!。"
+ 
+ # Finish
+ 
+ tr_inspiration_finish:0 "启迪传统完成"
+ tr_inspiration_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_inspiration_adopt$可以让我们的£unity  §Y凝聚力§!产出提升§G+15%§!。"
+ 
+ # tr_inspiration_1
+ 
+ tr_inspiration_1:0 "创意建造"
+ tr_inspiration_1_desc:0 "§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!提升§G+20%§!并且 £unity  §Y凝聚力§!产出提高§G+5%§!。"
+ tr_inspiration_1_delayed:0 "在建造过程中运用创造性来解决建造方案可以大大减少建造它们的时间。"
+ 
+ tr_inspiration_1_machine:0 "模块建造"
+ tr_inspiration_1_machine_desc:0 "§Y$MOD_PLANET_BUILDING_COST_MULT$§!降低了§G15%§!。"
+ tr_inspiration_1_machine_delayed:0 "通过预制模块来组装建筑物大大降低了开发成本"
+ 
+ tr_inspiration_1_hive:0 "自体延伸"
+ tr_inspiration_1_hive_desc:0 "§Y$MOD_PLANET_BUILDING_UPKEEP_MULT$§!降低了§G15%§!。"
+ tr_inspiration_1_hive_delayed:0 "使用先进的遗传技术来生长建筑而不是建造建筑可以大大降低维护成本。"
+ 
+ # tr_inspiration_2
+ 
+ tr_inspiration_2:0 "求知欲"
+ tr_inspiration_2_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§!增加§Y1§!并且§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!提高§G+25%§!。"
+ tr_inspiration_2_delayed:0 "鼓励人们永不停止对知识的追求，打开了所有公民的全新视野。"
+ 
+ tr_inspiration_2_machine:0 "调度生产线"
+ tr_inspiration_2_machine_desc:0 "£pops  §Y$MOD_POP_ROBOT_BUILD_COST_MULT$§!减少§G10%§!。"
+ tr_inspiration_2_machine_delayed:0 "优化生产线和装配过程大大减少了我们在生产新设备时浪费的资源。" 
+
+ tr_inspiration_2_hive:0 "可控突变"
+ tr_inspiration_2_hive_desc:0 "£food  §Y$country_resource_food_mult$§!增加§G+20%§!。"
+ tr_inspiration_2_hive_delayed:0 "利用可控的良性突变来改变蜂群生长过程中植物特性，从而大大提高生物产量。"
+ 
+ # tr_inspiration_3
+ 
+ tr_inspiration_3:0 "完美主义"
+ tr_inspiration_3_desc:1 "£influence  §Y$MOD_COUNTRY_INFLUENCE_GAIN_MULT$§!增加§G+10%§!。£unity  §Y凝聚力§!产出提高§G+5%§!。"
+ tr_inspiration_3_delayed:0 "过去的伟大成就激励着人们时刻想着成为更好的自己，哪怕只是比别人优秀丝毫。"
+ 
+ tr_inspiration_3_machine:0 "万能模块工具"
+ tr_inspiration_3_machine_desc:1 "§Y£energy  能源产出§! 和 §Y£minerals 矿物产出§!提高§G+5%§!。"
+ tr_inspiration_3_machine_delayed:0 "使用模块化的万能工具显著提高了我们资源采集的速度。"
+ 
+ tr_inspiration_3_hive:0 "互益共生"
+ tr_inspiration_3_hive_desc:1 "§Y£minerals  矿物产出§!提高§G+10%§!。"
+ tr_inspiration_3_hive_delayed:0 "与蜂群特别培养的半开化地下生物形成共生关系并协助我们进行矿物提取后，显著提高了矿物产量。"
+ 
+ # tr_inspiration_4
+ 
+ tr_inspiration_4:0 "健康生活"
+ tr_inspiration_4_desc:0 "§Y$MOD_LEADER_AGE$§!延长了§G+10§!年，并且 £pops  §Y$MOD_POP_GROWTH_SPEED$§!提升了§G+15%§!。"
+ tr_inspiration_4_delayed:0 "只需略微鼓励人们过健康的生活不仅能延长他们的寿命，还能让他们更渴望结交新朋友。"
+ 
+ tr_inspiration_4_machine:0 "批量备件生产"
+ tr_inspiration_4_machine_desc:0 "£pop  §Y$MOD_POP_ROBOT_UPKEEP_MULT$§!减少§G10%§!。"
+ tr_inspiration_4_machine_delayed:0 "大量生产机器人的备件可以有效地修复损坏的单元而不用更换新的部件，这大大降低了它们的维护成本。"
+ 
+ tr_inspiration_4_hive:0 "增长潜力"
+ tr_inspiration_4_hive_desc:0 "£pops §Y$MOD_POP_GROWTH_SPEED$§!提高§G+25%§!。"
+ tr_inspiration_4_hive_delayed:0 "严格的饲养控制可显著提高工蜂的质量和生长速度。更多的工蜂意味着他们可以收集更多的资源。" 
+
+ # tr_inspiration_5
+
+ tr_inspiration_5:0 "深层理解"
+ tr_inspiration_5_desc:0 "£physics  §Y物理学§!, £society  §Y社会学§! 和 £engineering  §Y工程学§!产出增加§G+10%§!。"
+ tr_inspiration_5_delayed:0 "科学的本质并不是关于数字、方程、计算或算法的。它是属于理解范畴的。" 
+
+################################################################
+# EXPLORATION
+################################################################
+
+ tradition_exploration:0 "研究"
+ tradition_exploration_desc:0 "我们不会停止探索，我们所有研究的终点就是我们第一次抵达并开始了解的地方。"
+
+ # Adopt
+
+ tr_exploration_adopt:0 "研究传统"
+ tr_exploration_adopt_desc:0 "$tradition_exploration_desc$\n\n$tr_exploration_adopt_effect$\n\n$tr_exploration_finish_effect$"
+ tr_exploration_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_SENSOR_RANGE_ADD$§!和§Y超空间航道侦测范围§!增加§Y1§!。"
+
+# Finish
+
+ tr_exploration_finish:0 "研究传统完成"
+ tr_exploration_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_exploration_adopt$可以令§Y$MOD_TRADITION_COST_NUM_SYSTEMS_MULT$§!减少§G20%§!。"
+ 
+ # tr_exploration_1 
+
+ tr_exploration_1:0 "人才倡议"
+ tr_exploration_1_desc:0 "§Y领袖等级上限§!提高§Y2§!，并且§Y$MOD_COUNTRY_LEADER_CAP$§!增加§Y2§!。"
+ tr_exploration_1_delayed:0 "银河辽阔且充满神秘。即使是试图理解其中的一小部分，我们也需要那些能够有效理解它的人才。"
+
+ # tr_exploration_2
+
+ tr_exploration_2:0 "科学依据"
+ tr_exploration_2_desc:0 "§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!降低§Y25%§!。"
+ tr_exploration_2_delayed:0 "尽管科研船不断地探索新的世界，但仍然需要更多的时间和努力来研究它们已经发现的事物。若我们做好详细规划便可大大减少费用。"
+
+ # tr_exploration_3
+ 
+ tr_exploration_3:0 "应用科学"
+ tr_exploration_3_desc:0 "每拥有一种战略资源£physics  §Y物理学§!， £society  §Y社会学§! 和 £engineering  §Y工程学§! 产出提高 §G+3%§!。最多提高到§G+30%§!。"
+ tr_exploration_3_delayed:0 "找到有趣的东西是一回事，但好好利用它则是另一回事。从这些发现中找到新的应用方向才能帮助帝国长远发展。"
+
+ # tr_exploration_4
+
+ tr_exploration_4:0 "高级探测协议"
+ tr_exploration_4_desc:0 "§Y$MOD_SHIP_SCIENCE_SURVEY_SPEED$§!增加§G+25%§!，并且§Y$MOD_SHIP_ANOMALY_GENERATION_CHANCE$§!提高§G+10%§!。"
+ tr_exploration_4_delayed:0 "勘测新世界的方法大大受益于高级勘测程序的应用，这将允许我们发现宇宙隐藏的一面，而不是在无关紧要的数据上浪费时间。"
+
+ # tr_exploration_5
+
+ tr_exploration_5:0 "改良数据分析"
+ tr_exploration_5_desc:1 "§Y$MOD_SHIP_ANOMALY_RESEARCH_SPEED$§!提高§G+30%§!。"
+ tr_exploration_5_delayed:0 "将各不相同的、且已被调查完毕的星系和行星组成大型数据库，以此来改进我们对新的未知事物和异常现象的分析。"
+ 
+ # Applied Science Res Mult
+ 
+ country_strategic_resources_resource_physics_research_mult:0 "$tr_exploration_3$"
+ country_strategic_resources_resource_physics_research_max_mult:0 "$tr_exploration_3$ 最大效果"
+ country_strategic_resources_resource_society_research_mult:0 "$tr_exploration_3$"
+ country_strategic_resources_resource_society_research_max_mult:0 "$tr_exploration_3$ 最大效果"
+ country_strategic_resources_resource_engineering_research_mult:0 "$tr_exploration_3$"
+ country_strategic_resources_resource_engineering_research_max_mult:0 "$tr_exploration_3$ 最大效果"
+ 
+################################################################
+# AGGRESSION
+################################################################
+
+ tradition_aggression:0 "侵略"
+ tradition_aggression_desc:0 "对于足够强大的物种来说，竞争是必不可少的。"
+ tr_aggression_adopt:0 "侵略传统"
+ tr_aggression_adopt_desc:0 "$tradition_aggression_desc$\n\n$tr_aggression_adopt_effect$\n\n$tr_aggression_finish_effect$"
+ tr_aggression_adopt_effect:0 "§R目前不可用-正在开发中§!\n§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_MAX_RIVALRIES$§!增加§Y2§!。"
+
+ tr_aggression_finish:0 "侵略传统完成"
+ tr_aggression_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_aggression_adopt$可以令§Y$MOD_COUNTRY_RIVALRY_INFLUENCE_GAIN$§!增加§G+50%§!。"
+ 
+ tr_aggression_1:0 "统治宣告"
+ tr_aggression_1_desc:0 "§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§!增加§Y2§!，并且§Y$MOD_COUNTRY_STARBASE_INFLUENCE_COST_MULT$§!减少§G5%§!。"
+ tr_aggression_1_delayed:0 "无论等待我们的是什么，我们都会生存下去。我们会忍耐，会变得更强。"
+ 
+ tr_aggression_2:0 "暴力主张"
+ tr_aggression_2_desc:0 "§Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§!降低§G20%§!。"
+ tr_aggression_2_delayed:0 "我们唯一的敌人是我们自身的潜力。其他的东西只是前进道路上的阻碍，它们迟早会被清除。"
+ 
+ tr_aggression_3:0 "团结链接"
+ tr_aggression_3_desc:0 "£unity  §Y凝聚力§!产出提高§G+10%§!。"
+ tr_aggression_3_delayed:0 "宇宙浩瀚无垠，可怕的存在雌伏在深处，虎视眈眈地等待着弱者自投罗网。但是我们会团结起来，我们无坚不摧。"
+ 
+ tr_aggression_4:0 "净火"
+ tr_aggression_4_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+5%§!,\n§Y$MOD_COUNTRY_CLEAR_BLOCKER_COST_MULT$§!降低§G-33%§!。"
+ tr_aggression_4_delayed:0 "我们凌驾于自然之上，而不是自然支配着我们。用我们的热情清除路上一切的障碍，通向帝国伟大的道路。"
+ 
+ tr_aggression_5:0 "无情协商"
+ tr_aggression_5_desc:1 "我们所有星球上的§Y$MOD_COUNTRY_UNREST_UNHAPPY_SLAVE_EFFECT_MULT$§!降低§G20%§!。"
+ tr_aggression_5_delayed:0 "我们的道路是至高无上的，没有人可以妥协或是怀疑。每个人都应该知道这一点。"
+ 
+ 
+ # AGGRESSION SWAP
+ tradition_aggression_purifiers:0 "侵略"
+ tradition_aggression_purifiers_desc:0 "对于足够强大的物种来说，竞争是必不可少的。"
+ tr_aggression_purifiers_adopt:0 "侵略传统"
+ tr_aggression_purifiers_adopt_desc:0 "$tradition_aggression_purifiers_desc$\n\n$tr_aggression_purifiers_adopt_effect$\n\n$tr_aggression_purifiers_finish_effect$"
+ tr_aggression_purifiers_adopt_effect:0 "§R目前不可用-正在开发中§!\n§E$TRADITIONS_ADOPT$:§!\n§Y舰船的$MOD_SHIP_FIRE_RATE_MULT$§! 增加§G5%§!，并且§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G10%§!。"
+ 
+ tr_aggression_purifiers_finish:0 "侵略传统完成"
+ tr_aggression_purifiers_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_aggression_purifiers_adopt$可以令§Y$MOD_COUNTRY_INFLUENCE_GAIN_ADD$§!增加§G1§!。"
+ 
+ 
+ tradition_aggression_perfection:0 "防卫"
+ tradition_aggression_perfection_desc:0 "与其他帝国竞争的最佳方式是最大限度保护我们的帝国。"
+ tr_aggression_perfection_adopt:0 "防卫传统"
+ tr_aggression_perfection_adopt_desc:0 "$tradition_aggression_perfection_desc$\n\n$tr_aggression_perfection_adopt_effect$\n\n$tr_aggression_perfection_finish_effect$"
+ tr_aggression_perfection_adopt_effect:0 "§R目前不可用-正在开发中§!\n§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_STARBASE_UPKEEP_MULT$§!降低§G20%§!。"
+ 
+ tr_aggression_perfection_2:0 "坚实国防"
+ tr_aggression_perfection_2_desc:0 "§Y$shipsize_military_station_medium_upkeep_mult$§!和§Y$shipsize_military_station_large_upkeep_mult$§!降低§G15%§!。"
+ tr_aggression_perfection_2_delayed:0 "通过防御工事的强大力量，可以提高我们外交谈判的分量。"
+ 
+ tr_aggression_perfection_5:0 "决心"
+ tr_aggression_perfection_5_desc:1 "我们所有星球上的§Y$MOD_COUNTRY_UNREST_UNHAPPY_POP_EFFECT_MULT$§!降低§G20%§!。"
+ tr_aggression_perfection_5_delayed:0 "即使我们的周围充满了敌意，我们也绝不会动摇。"
+ 
+ tr_aggression_perfection_finish:0 "防卫传统完成"
+ tr_aggression_perfection_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_aggression_perfection_adopt$可以令§Y$MOD_COUNTRY_INFLUENCE_GAIN_ADD$§!增加§G1§!。"
+ 
+ 
+ tradition_aggression_hive:0 "侵略"
+ tradition_aggression_hive_desc:0 "对于足够强大的物种来说，竞争是必不可少的。"
+ 
+ tr_aggression_hive_5:0 "无情牺牲"
+ tr_aggression_hive_5_desc:1 "§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§!提高§G10%§!。"
+ tr_aggression_hive_5_delayed:0 "有时蜂群的一员必须牺牲自己才能赢得战争。他们的生物质将被转化为舰船的原始矿物，成为他们牺牲的最好回报。"
+ 
+ 
+ tradition_aggression_machine:0 "侵略"
+ tradition_aggression_machine_desc:0 "不断地竞争，再竞争……我们才能进化为更加强大的存在。"
+ 
+ tr_aggression_machine_5:0 "可选延迟维修"
+ tr_aggression_machine_5_desc:1 "§Y$MOD_SHIP_UPKEEP_MULT$§!降低§G10%§!。"
+ tr_aggression_machine_5_delayed:0 "在指挥战舰时，我们的单位可能不得不超出预期能力的限制。即使这些单位会产生部分错误也是计算后符合收益的。"

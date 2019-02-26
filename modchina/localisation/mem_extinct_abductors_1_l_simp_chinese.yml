@@ -1,0 +1,195 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Extinct Abductors
+ # Code by Malthus
+ ########################
+ 
+ # Initial Anomaly Text
+ mem_extinct_abductors_category:0 "古代建筑群"
+ mem_extinct_abductors_category_desc:0 "我们的勘探团队在§Y[From.GetName]§!上的偏远地区侦测到一堆结构十分複杂的建筑群，但是没有找到任何被殖民的迹象。我们的队员希望作进一步调查。"
+
+ # Extinct Abductors Anomaly Failure
+ mem_extinct_abductors.2.name:0 "古代建筑群"
+ mem_extinct_abductors.2.desc:0 "我们的勘探团队找不到任何特别的地方，这个地方所有有用的资料和科技好像都被人清空了。我们依然未能够肯定上一批居住者有意将东西处理掉，还是被拾荒者捡走。"
+ mem_extinct_abductors.2.a:0 "好吧，我们继续。"
+
+ # Extinct Abductors Anomaly Critical Failure
+ mem_extinct_abductors.3.name:0 "壮烈牺牲"
+ mem_extinct_abductors.3.desc:0 "位于建筑物的深处，我们在§Y[From.GetName]§!上的勘探队伍被一种奇怪的物质所感染，他们在之后才发觉原来这种危险的物质会诱使有机体产生突变，而之前的持有者亦曾经在这种物质上做过不少测试。正当他们尝试登舰离开之际，几个受感染的船员开始变成不似人形的怪物，外表充满著痛苦和愤怒。这些突变就像野火一样地在船员之间蔓延，而在这千钧一髮的一刻，首席科学家§Y[Root.GetLeaderName]§!趁自己未因突变而失去自我意志时，设法将飞船撞向星球的地表上。接下来的衝击毁掉§Y[From.GetName]§!大部份，包括早前勘探过的建筑物，成功阻止了一个威胁。"
+ mem_extinct_abductors.3.a:0 "真是个勇敢的人！"
+ 
+ mem_extinct_abductors.47.desc:0 "如果出现这个事件表示有某种问题发生。它不会产生影响但请把BUG报告给MEM团队。"
+ 
+ ########################
+ # Uplifting Race Line
+ ########################
+ 
+ # Extinct Abductors Anomaly Success
+ mem_ea_uplifter.1.name:0 "惊人发现"
+ mem_ea_uplifter.1.desc:0 "虽然在§Y[From.GetName]§!上被发现的建筑群曾经受到猛烈的轰炸，但大致上是完好无缺。话虽如此，建筑内部却并不是同一回事。我们的团队勉强地在这个跟迷宫没有分别的地方、穿过倒塌的通道和房间内进行探索，但他们的辛劳亦有回报：他们在一个位于地底三层之下的大厅内发掘出数以千计的冷冻舱，而舱内则载有各形各色种族的外星人尸体，相信有几千年历史。当中有些更是源自§Y[Root.Owner.GetSpeciesAdj]§!！ "
+ mem_ea_uplifter.1.a:0 "这怎麽可能？"
+ 
+ # Extinct Abductors Outpost Investigation Project
+ MEM_EA_UPLIFTER_INVESTIGATION:0 "时空凝止"
+ MEM_EA_UPLIFTER_INVESTIGATION_DESC:0 "我们的科学家希望可以继续调查在§Y[From.GetName]§!上发现的冷冻舱"
+ 
+ # Extinct Abductors Outpost Investigation Project Completed #TODO: Test location
+ mem_ea_uplifter.2.name:0 "时空凝止"
+ mem_ea_uplifter.2.desc:0 "除了我们的种族外，我们的科学家已经辨认到在§Y[From.From.GetName]§!上发现的冷冻舱内另外至少五个种族，当中最寻常的一个——两足行走且身形较小的——被我们的团队视为这个地方的建造者。由于所有尸体都埋藏在同一个地点，这不禁令人想到：究竟他们是否自愿来到这个地方？ \n\n从我们的科学家在重组中央电脑的资料记忆来看，答案是：他们是自愿的。在零碎的资料中可以看到，这有可能是一个提升各个种族生活水平及科技的大型项目，由这个地方的建造者负责。他们亦找到其馀四个种族的来源地座标，我们应该调查一下，而其他队伍则留下来继续处理馀下数据。"
+ mem_ea_uplifter.2.a:0 "真有趣。"
+ 
+ # Uplifter Event Chain
+ mem_ea_uplifter_chain_title:0 "逝者的根源"
+ mem_ea_uplifter_chain_desc:0 "调查更多有关在其馀冷冻舱被发现的种族及其来源地。"
+ mem_ea_uplifter_worlds_visited:0 "已调查的来源地"
+ 
+ # Points of Interest for Event Chain
+ mem_ea_uplifter_system_1:0 "第一个星系的座标"
+ mem_ea_uplifter_system_1_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_1.GetName]可能就是其中一个被急冻的种族的来源地。"
+ mem_ea_uplifter_system_2:0 "第二个星系的座标"
+ mem_ea_uplifter_system_2_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_2.GetName]可能就是其中一个被急冻的种族的来源地。"
+ mem_ea_uplifter_system_3:0 "第三个星系的座标"
+ mem_ea_uplifter_system_3_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_3.GetName]可能就是其中一个被急冻的种族的来源地。"
+ mem_ea_uplifter_system_4:0 "第四个星系的座标"
+ mem_ea_uplifter_system_4_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_4.GetName]可能就是其中一个被急冻的种族的来源地。"
+ 
+ # Arriving in the 4 Systems and Getting the Coordinates of the Planet and Project
+ # Toxic World (Project 1)
+ mem_ea_uplifter.3.name:0 "到达第一个座标"
+ mem_ea_uplifter.3.desc:0 "我们已经到达从古代数据库得来的第一个座标，而座标所显示的星球被一层厚厚的毒气所笼罩著，我们的科研团队正准备开始扫瞄。"
+ mem_ea_uplifter.3.a:0 "立即去办。"
+ # Molten World (Project 2)
+ mem_ea_uplifter.4.name:0 "到达第二个座标"
+ mem_ea_uplifter.4.desc:0 "当我们的船隻刚刚到达从古代数据库得来的第二个座标，船隻的感应器就已经接几个收到散落在星系内且带有敌意的讯号。如果想继续进行调查的话，我们需要准备一战。"
+ mem_ea_uplifter.4.a:0 "继续。"
+ # Frozen World (Project 3)
+ mem_ea_uplifter.5.name:0 "到达第三个座标"
+ mem_ea_uplifter.5.desc:0 "第三个种族的来源地座标带领我们来到一个被数公里厚所覆盖的冰冻星球，我们准备好开始调查。"
+ mem_ea_uplifter.5.a:0 "了解。"
+ # Barren World (Project 4) Here Some Crystals will spawn to disturb you when doing the project
+ mem_ea_uplifter.6.name:0 "到达第四个座标"
+ mem_ea_uplifter.6.desc:0 "当我们到达这个星系并且进行了简单的扫瞄之后，我们确认这个荒芜的星球就是在冷冻舱内第四个种族的来源地，不过已经没有任何生命迹象。我们的科学家应该调查一下。"
+ mem_ea_uplifter.6.a:0 "让他们开始吧。"
+ 
+ # Projects on the 4 Planets for more Information about the other Species found at the Anomaly
+ MEM_EA_UPLIFTER_SYSTEM_1_INVESTIGATION:0 "充满毒气的世界"
+ MEM_EA_UPLIFTER_SYSTEM_1_INVESTIGATION_DESC:0 " [This.GetName]曾经是某个原始文明的聚居地，它究竟发生了甚麽事？"
+ MEM_EA_UPLIFTER_SYSTEM_2_INVESTIGATION:0 "被熔化的世界"
+ MEM_EA_UPLIFTER_SYSTEM_2_INVESTIGATION_DESC:0 "[This.GetName]曾经是某个原始文明的聚居地，它究竟发生了甚麽事？"
+ MEM_EA_UPLIFTER_SYSTEM_3_INVESTIGATION:0 "冰封的世界"
+ MEM_EA_UPLIFTER_SYSTEM_3_INVESTIGATION_DESC:0 "[This.GetName]曾经是某个原始文明的聚居地，它究竟发生了甚麽事？"
+ MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_01:0 "荒凉的世界"
+ MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_01_DESC:0 "[This.GetName]曾经是某个原始文明的聚居地，它究竟发生了甚麽事？"
+ # A giant Space Crystal attacks shortly after the Barren World Investigation 
+ mem_crystal_ship_giant_blue:0 "古代结晶体统治者"
+ mem_crystal_ship_giant_blue_plural:0 "古代结晶体统治者"
+ MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_02:0 "奇特的结晶体"
+ MEM_EA_UPLIFTER_SYSTEM_4_INVESTIGATION_02_DESC:0 "在§Y[Prev.GetName]§!的表面发现了很多奇特的结晶体，会不会就是那些原始文明消失的原因？"
+ 
+ # Finishing the Projects
+ # Toxic World (Project 1)
+ mem_ea_uplifter.7.name:0 "科技的风险"
+ mem_ea_uplifter.7.desc:0 "我们的科研团队在§Y[mem_ea_homeworld_1.GetName]§!上发现了许多遗迹，显示这裡曾经有一个极度工业化的文明于此地落地生根。可是这个文明所使用的科技为这裡的生态系统带来了非常坏的影响，由于无法找出解决问题的方法，这裡的人承受随之而来的毁灭性后果。我们的首席科学家§Y[Root.GetLeaderName]§! 认为这个星球能够重振昔日光辉。"
+ mem_ea_uplifter.7.a:0 "每次进步都充满著风险…"
+ # Molten World (Project 2)
+ mem_ea_uplifter.8.name:0 "炼狱"
+ mem_ea_uplifter.8.desc:0 "§Y[mem_ea_homeworld_2.GetName]§! ─ 一个可能曾经适合居住的，现在只不过是被火山烟雾覆盖、一条条熔岩河流、以及全年下著剧烈酸雨的地方。\n\n为什麽会变成这样？难道只是为了满足那上无情的机器人对物质无穷无尽的饥渴？这个星系埋藏了丰富的矿物，相信因此而吸引了它们来到此处，然后像蝗虫似的将这个星球的资源耗尽。我们无法从这个星球上得知任何关于原始文明的资料。"
+ mem_ea_uplifter.8.a:0 "这有可能发生在我们身上…"
+ # Frozen World (Project 3)
+ mem_ea_uplifter.9.name:0 "殒石撞击"
+ mem_ea_uplifter.9.desc:0 "§Y[mem_ea_homeworld_3.GetName]§!的居住者在几千年前全都变成了灾难的受害者。我们的扫瞄显示在厚厚的冰层之下找到了有八千年历史的撞击痕迹，经过一轮流星雨之后，凛冬已经成为这个星球恒久的常态。"
+ mem_ea_uplifter.9.a:0 "这裡没有我们可以帮得上忙的地方。"
+ # Barren World (Project 4_01)
+ mem_ea_uplifter.101.name:0 "不速之客"
+ mem_ea_uplifter.101.desc:0 "§Y[mem_ea_homeworld_4.GetName]§!的表面完全失去了生命迹象，这裡甚至有极少发现去证明曾经有文明存在过。\n\n可是我们的科学家却在此刻有突破性的进展————结晶体的形成。这些结晶体的体积高阔大约一或两米，每个结晶体之间都相距约几十米，布满整个星球的表面。\n\n在§Y[Root.GetName]§!收集了一些结晶体样本之后，就侦测到敌人位于星系边缘的警号，所有船员更立即奔回§Y[Root.GetName]§!并准备离开轨道。"
+ mem_ea_uplifter.101.a:0 "单是研究船不足以去应付这些生物！ "
+ # Barren World (Project 4_02) Death by Space Crystals
+ mem_ea_uplifter.10.name:0 "结晶体"
+ mem_ea_uplifter.10.desc:0 "我们依然未能解答为何这些结晶体会选择这个星球作为它们的宿主，不过这个决定得出的结果却显而易见，因为我们的科研团队只找到了曾经称霸这个星球的生物、残留极少的踪迹。他们的末日是无可避免的，原因是他们的科技过于落后而无法抵抗外来者的入侵。而小型的结晶体应该是耗尽了整个星球的矿物质，从而使这个曾经充满生气又茂盛的星球变得死气沉沉。\n\n现在巨大结晶体已经被击败，我们的科学家有两个提议：我们可以採集这些含有丰富矿物的结晶体，或者研究它们的不规则生长过程。"
+ mem_ea_uplifter.10.a:0 "採集结晶体。"
+ mem_ea_uplifter.10.b:0 "研究结晶体。"
+ 
+ # Finishing the Event Chain
+ mem_ea_uplifter.11.name:0 "更多疑问"
+ mem_ea_uplifter.11.desc:0 "在完成我们的调查后，我们几乎没有得到任何关于该建筑群建造者的提升计划的额外知识。由于以上种族无一存活，这留下了更多的谜团。为什麽他们得不到先进外星民族的任何帮助？为什麽这些先进外星人最初有这个想法？现在这些先进外星人又到了哪裡去？"
+ mem_ea_uplifter.11.a:0 "我们必须找出答案！"
+ 
+ # Half a year later after your scientists worked through all the data you get the coordinates of the homesystem of the uplifter species
+ mem_ea_uplifter.13.name:0 "突破"
+ mem_ea_uplifter.13.desc:0 "经过几年的努力，我们的科学家在§Y[mem_ea_start.GetName]§!上的古老建筑物内成功修复部分本身严重损毁的资料库，现在我们可以查看之前读取无法的资料。在众多纪录当中，我们亦得知一个名为「奥利拉」的种族及其来源地，他们的国家看来长期跟侵略者处于战争状态。虽然他们拥有较先进的科技，但是他们却处于劣势。当这个哨站被攻击时，他们不得已躲在冷冻舱，等候从未到达的救援。"
+ mem_ea_uplifter.13.a:0 "他们被击败了吗？"
+ 
+ # Points of Interest for Uplifter Homesystem
+ mem_ea_uplifter_system_5:0 "奥利拉的发源地地"
+ mem_ea_uplifter_system_5_desc:0 "我们的资料显示 [mem_ea_uplifter_system_5.GetName]星系就是奥利拉的发源地。"
+ 
+ # Entering the Uplifter Homesystem for the First Time
+ mem_ea_uplifter.14.name:0 "古战场"
+ mem_ea_uplifter.14.desc:0 "当我们来到哈里斯索星系就已经印证了科学家的推测————奥利拉人输掉了这场战争，而他们的星系充斥著颓垣败瓦。\n\n我们的探测器接收到源自其中一个星体的一些奇怪能源读数，但是看起来被一个先进的能量罩保护著，我们无法从中得到任何有用的资讯。"
+ mem_ea_uplifter.14.a:0 "让我们靠过去看一看。"
+ 
+ # Uplifter Homesystem Event Chain
+ mem_ea_uplifter_homesystem_chain_title:0 "奥利拉一族"
+ mem_ea_uplifter_homesystem_chain_desc:0 "我们必须知道究竟这个古代民族发生了甚麽事？"
+ mem_ea_uplifter_homesystem_investigated:0 "疑团解开"
+ 
+ # Shielded Homeplanet Investigation
+ MEM_EA_UPLIFTER_HOMESYSTEM_INVESTIGATION:0 "被罩著的星球"
+ MEM_EA_UPLIFTER_HOMESYSTEM_INVESTIGATION_DESC:0 "一个先进的能量罩保护著。它用来保护甚麽？有没有可能这个星球上有生命存在？"
+ 
+ # Dialogue with the AI System of the Uplifter Race
+ mem_ea_uplifter.15.name:0 "最后的奥利拉人"
+ mem_ea_uplifter.15.desc_01:0 "啊…你们终于来了。"
+ mem_ea_uplifter.15.desc_02:0 "贪婪蚕食了他们的心智、以仇恨断绝与外界的来往，更一步一步将他们推往悲痛和血腥；纵使他们能够以高速代步，却使自身裹足不前；机械给予他们丰足，却使他们欲求不满；知识令他们变得愤世嫉俗，智慧使他们冷酷无情；他们想得太多却感受太少。比起机械，他们更需要友情；比起智慧，他们更需要怜悯。缺少这些品格，他们的生活充斥著暴力，更威胁著其他生命。"
+ mem_ea_uplifter.15.a:0 "难道我们曾经得到你的帮助才拥有今日的科技？"
+ mem_ea_uplifter.15.b:0 "你是谁？"
+ mem_ea_uplifter.15.b.response:0 "我的名字叫Chap'Lin，奥利拉一族最后的成员， 但我只是他潜意识的投影，而不是他的真人。他是被他的族人推举代表我们一族去会见愿意追随我们步伐的人。"
+ mem_ea_uplifter.15.c:0 "你到底是甚麽？"
+ mem_ea_uplifter.15.c.response:0 "我是奥利拉一族成员Chap'Lin的潜意识所投射出来的映像。虽然我不是活生生的人，但我不只是人工智能那麽简单。我现时的处境可以说是集荣誉和负担于一身，而我很乐意成担这个责任。自从我们一族的最后一人逝去后，我的职责就是打理好这个星球留下来的事物，以及确保保护罩能够持续运作，不过我最重要的任务依然是等候你们的来临。"
+ mem_ea_uplifter.15.d:0 "你的一族究竟发生了甚麽事？"
+ mem_ea_uplifter.15.d.response:0 "曾经有一段时间，先进的科技使我们变得盲目，看不到预料之中的结果。我们不顾一切去追求长生不老，但当我们意识到后果时，情况已经变得覆水难收。无止境地製造複製人使我们一族变成不育，许多族人更因为体内基因恶化而病死。"
+ mem_ea_uplifter.15.e:0 "为什麽你们会帮助其他外星文明，更给予他们珍贵的科技？"
+ mem_ea_uplifter.15.e.response:0 "当我们知道无法摆脱这个无可避免的局面后，我们看不到有一个文明准备或愿意为保护一些较落后的种族挺身而出，所以我们决定帮助他们发展太空科技，使他们有朝一日可以保护自己和抵抗外敌，更希望在长远的未来担当保护其他外星文明的重任。"
+ mem_ea_uplifter.15.f:0 "你们的帝国是甚麽样子的？"
+ 
+ # Dialogue second window for longer answer
+ mem_ea_uplifter.16.name:0 "最后的奥利拉人"
+ mem_ea_uplifter.16.desc_01:0 "我们根本不想拥有一个帝国，这不是我们的行事方式。我们不想统治或征服任何人，我们只想尽我们所能去帮助别人。所有高智慧生物应该帮助其他人，我们只想跟别人开心地共存，而不是互相怨恨。我们从来不想憎恨或鄙视其他人，因为我们相信这个宇宙可以包容任何人，从而互相照应，让所有人都过著自由和快乐的生活。可是，有些人却不抱著相同看法…"
+ mem_ea_uplifter.16.desc_02:0 "没错，你们的种族是我们的「门生」之中前途最明亮的。很可惜，在能够达成目的之前，那群觊觎我们一族的人乘人不备对我们展开攻击。纵使我们的科技比敌人先进得多，但我们始终寡不敌众。到了最后，我们被逼撤退到我们的来源地，之后更成了我们的监牢。在这裡，我们眼白白看著我们的子嗣一个个逝去。现在，我们一族都将希望寄託于你们手上。"
+ mem_ea_uplifter.16.a:0 "不同看法？"
+ mem_ea_uplifter.16.b:0 "你想我们去保护弱小？"
+ 
+ # Dialogue third and last window with final reward
+ mem_ea_uplifter.17.name:0 "最后的奥利拉人"
+ mem_ea_uplifter.17.desc.01:0 "我一直都在观察著你们文明如何发展，你们选择了以战争解决问题使我们十分痛心，很多破坏和痛苦都因此而起。不过，我仍然看到你们一直拥有的潜力，希望你们好好利用它去保护其他生命。\n\n你们会否跟随我们的步伐，接受这个使命？"
+ mem_ea_uplifter.17.desc.02:0 "我一直都在观察著你们文明如何发展，你们选择了一条黑暗的道路使我们十分痛心，恐惧和暴力只会带给你们衰落而不是伟大。不过，我仍然看到你们一直拥有的潜力，希望你们好好利用它去保护其他生命。\n\n你们会否跟随我们的步伐，接受这个使命？"
+ mem_ea_uplifter.17.desc.03:0 "我一直都在观察著你们文明如何发展，你们在这些年来有重大跃进，这令我感到十分自豪。\n\n你们准备好跟随我们的步伐，担起保护其他生命这个责任？"
+ mem_ea_uplifter.17.a:0 "我们承诺会肩负这个重任。"
+ mem_ea_uplifter.17.a.tooltip:0 " 你的帝国政府将改为高级形式(如果不是一个高级政府的话)，同时你还将收到5%研究速度奖励。"
+ mem_ea_uplifter.17.a.response:0 "我衷心的感谢你。如有必要的话，我亦会带领著我们一族剩下最后的一艘船加入你的舰队。不过，这个星球将会在几个小时之后自我毁灭，因为不能让我们的科技落入别有用心的人手中，后果可能会不堪设想。"
+ mem_ea_uplifter.17.b:0 "抱歉，这种看法我们不敢苟同。"
+ # This tooltip is also the tooltip for option c
+ mem_ea_uplifter.17.b.tooltip:0 "开拓自己的命运\n\n你的帝国获得5%幸福度奖励"
+ # This response is also the response for option c
+ mem_ea_uplifter.17.b.response:0 "听到你的决定令我十分懊悔，可是我不能够亦不会强逼你们改变初衷。未来你们依然有希望改变主意，但是我已经走到时间尽头。不一会儿，保护罩将会耗尽所有能量，而我不会容许我们的科技落入别有用心的人手中，因为后果可能会不堪设想。这个星球将会在几个小时之后自我毁灭。我建议你们远离这裡，并祝福你们最终能够带来和平。保重，[Root.GetSpeciesNamePlural]。"
+ mem_ea_uplifter.17.c:0 "我们不会改变自己！"
+ mem_ea_uplifter.17.d:0 "如果这是我们的命运，我们乐意接受。"
+ mem_ea_uplifter.17.d.tooltip:0 "你的帝国执政思潮将改为$ethic_materialist$，$ethic_pacifist$和$ethic_xenophile$，政府形式变为民主制，同时还获得5%的研究速度加成。"
+ mem_ea_uplifter.17.d.response:0 "我很高兴你们能跟随我们一族的步伐，如有必要的话，我亦会带领著我们一族剩下最后的一艘船加入你的舰队。不过，这个星球将会在几个小时之后自我毁灭，因为不能让我们的科技落入别有用心的人手中。"
+ 
+ # Happiness Modifier
+ mem_ea_forging_own_destiny:0 "开拓自己的命运"
+ mem_ea_knowledge_of_the_ancients:0 "远古的知识"
+
+ # Orila Cruiser
+ mem_eventship_03:0 "打击巡洋舰"
+ mem_eventship_03_plural:0 "打击巡洋舰"
+ 
+ # The Way - Civic
+ civic_mem_the_way:0 "所选择的道路"
+ civic_mem_the_way_desc:0 "这个社会接受了一个古老的先驱文明的价值和遗产，以传播更多的善。"
+ 
+ # Way of the Ancients - Government
+ gov_mem_way_of_the_ancients:0 "远古之道"
+ gov_mem_way_of_the_ancients_desc:0 "这个国家接受了一个古老的先驱文明的价值和遗产，以传播更多的善。"

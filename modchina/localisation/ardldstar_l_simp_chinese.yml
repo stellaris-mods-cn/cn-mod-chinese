@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+
+ arendelledstar:0 "死星"
+ 
+ ####################################
+ # Ship Sections
+ ####################################
+ ARENDELLESTAR_OUTER:0 "超表面壳"
+ ARENDELLESTAR_CORE:0 "上层建筑核心"
+ ARENDELLESTAR_SUPERS:0 "主要上层建筑"
+ ARENDELLESTAR_HANGARBAY: "格纳库"
+ ####################################
+ # Ship Components
+ ####################################
+ shipclass_arendelledstar:0 "死星"
+ shipclass_arendelledstar_name:0 "死星 $NUM$"
+ ardlreactorcore:0 "主反应堆堆芯"
+ 
+ DSARDL_CORE: "超级计算机网络"
+ DSARDL_THRUSTER: "超级推进器"
+ DSARDL_REACTOR: "主反应堆堆芯"
+ 
+ PLANET_KILLER_CRYSTAL_BEAM: "凯伯超级激光"

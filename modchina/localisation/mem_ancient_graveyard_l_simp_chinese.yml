@@ -1,0 +1,18 @@
+﻿
+#Idea by ViolentBeetle
+#Code by BLimmie (Oppen_heimer)
+l_simp_chinese:
+  
+ mem_ancient_graveyard_category:0 "奇怪的图案"
+ mem_ancient_graveyard_category_desc:0 "我们的探测器在这个星球上的溪谷，接收到一些奇怪的读数。这些东西看起来由有规律的格状模式所组成，间中有少许金属製的尖刺状物体，体积之细令我们难以在轨道上察觉到。我们应该立即加以考察。"
+
+ mem_ancient_graveyard.1.name:0 "北邙垒垒"
+ mem_ancient_graveyard.1.desc:0 "我们的勘探团队发现该地域插住了几十亿支由当地原住民製造、面向著天空的脉衝雷射枪，每支枪的顶端部分都放置了有奇特设计的头盔面甲，延绵不断地点缀著整个溪谷。我们估计这个地方可能是一批在一场既遥远但已被遗忘的战争中，阵亡士兵的安身之处。这个墓地虽然在真空下仍然能够保持完整，但是我们的科学家对于那些武器不太感兴趣。经过对地底再进一步的探测，也未能为的们带来有用的资讯，这裡究竟发生过甚麽事情实在无从得知。"
+
+ mem_ancient_graveyard.2.name:0 "估算错误"
+ mem_ancient_graveyard.2.desc:0 "这个看起来很奇怪的图案原来只不过是由我们的探测器机件调整失误产生的回音，而我们的勘探团队在下面甚麽也没找到，另外我们的探测器在第二次进行扫瞄时亦未能得到同样结果。"
+
+ mem_ancient_graveyard.1.default:0 "让他们安息吧。"
+ mem_ancient_graveyard.1.xenophobe:0 "又一堆死去的外星人，不是吧？"
+
+ mem_ancient_graveyard.2.dissapointing:0 "令人失望。"

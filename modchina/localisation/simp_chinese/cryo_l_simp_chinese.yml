@@ -1,0 +1,11 @@
+﻿l_simp_chinese: 
+CRYO:1 "永恒冰封" 
+CRYO_DESC:0 "这种能吸收目标能量、制造行星级冷源的射线能够冰封一整颗行星，将行星永久冰封为 冰封星球。" 
+tech_pk_cryo:0 "绝对零度" 
+tech_pk_cryo_desc:0 "这种能吸收目标能量、制造行星级冷源的射线能够冰封一整颗行星，使其无法被任何一种高等智慧生命所适应。" 
+FLEETORDER_DESTROY_PLANET_WITH_CRYO:0 "正在准备彻底冰封$PLANET|Y$" 
+MESSAGE_DESC_FOR_CRYO:0 "被永久性冻结" 
+mcpk.501.name:0 "[From.GetName]被冻结" 
+mcpk.501.desc:0 "[From.GetName]成为了一块大雪球。\n\n[From.GetName]表层的一切生命都已被灭绝。地表建筑虽然被完整地保留了下来，但也不会有任何人员对它们的运作进行维护了。" 
+mcpk.501.tooltip:0 "[From.GetName]现在是§Y冰封星球§!" 
+CRYO_ACTION:0 "冻结" 

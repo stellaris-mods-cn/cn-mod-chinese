@@ -1,0 +1,88 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Hive Encounter
+ # Text by Caligula
+ # Code by Malthus 
+ ########################
+ # Hivemind player decides whether or not to message a normal empire
+ mem_hive_encounter.2.name:0 "智能个体生命形式"
+ mem_hive_encounter.2.desc:0 "当[root.GetName]开始行走于星辰时我们遇到了一个新的概念：个体生命形式中的智力与任何整体意识都没有联系。\n\n是我们以前认为不可能的事情。我们已经在思想过程中投入了相当多的子程序来解决这个问题，即这是如何产生的，但还没有取得很大的进展。为了加快这一进程，也许我们应该请求[mem_hive_encounter_normal_country.GetName]向我们提供一些样本，它是此类社会组成中较为友善的一员。"
+ mem_hive_encounter.2.a:0 "我们将寻求他们的合作。"
+ mem_hive_encounter.2.b:0 "我们不需要他们的帮助。"
+
+ # Normal empire receives hive proposal
+ mem_hive_encounter.3.name:0 "传递中的信息"
+ mem_hive_encounter.3.desc:0 "你好，[root.species.GetNamePlural],\n\n当我们开始探索星空时，我们遇到了像你自己这样的文明，它不是基于蜂巢思维的。个体生命形式中的智力概念对我们来说是新奇的，它推翻了我们以前认为是真实的许多信仰。我们对这些情况是如何发生的感到困惑，并希望进行研究。\n\n因此，我们希望您向我们发送一些您的物种样本，供我们观察。我们保证不会对他们造成损害。作为回报，我们可以向您提供我们的优惠贸易，以及非生命力[mem_hive_encounter_hive_country.GetSpeciesAdj]工蜂的样本，您可以在其上执行自己的实验。"
+ mem_hive_encounter.3.a:0 "当然。我们看看有没有志愿者。"
+ mem_hive_encounter.3.b:0 "我们可以派一些罪犯来，我们不需要他们。"
+ mem_hive_encounter.3.c:0 "我们可以寄给你一些死者的样本。"
+ mem_hive_encounter.3.d:0 "我们帮不了你。"
+
+ # volunteers found
+ mem_hive_encounter.4.name:0 "准备好的志愿者"
+ mem_hive_encounter.4.desc:0 "许多志愿者已经准备好成为[mem_hive_encounter_hive_country.species.GetNamePlural]的测试对象。出于好奇心、冒险精神和某些情况下的绝望，他们愿意放弃现在的生活，住在蜂巢里。"
+ mem_hive_encounter.4.b:0 "很好"
+
+ # no volunteers found
+ mem_hive_encounter.5.name:0 "找不到志愿者"
+ mem_hive_encounter.5.desc:0 "我们呼吁公众自愿成为[mem_hive_encounter_hive_country.GetName]的测试对象，但却被置若罔闻，我们是否应该讨论另外的方案，以满足[mem_hive_encounter_hive_country.GetName]请求？"
+
+ # hive receives answer
+ mem_hive_encounter.6.desc.a:0 "我们找到了一组准备好的志愿者，他们将作为你的测试对象。我们相信您会确保他们会毫发无缺！"
+ mem_hive_encounter.6.desc.b:0 "我们已经决定，我们可以从我们的监狱里为您提供一些死刑犯。如果你能确保他们永远不会回到 [mem_hive_encounter_normal_country.GetAdj]，我们将十分感激."
+ mem_hive_encounter.6.desc.c:0 "我们会寄给你一些死亡人员的样本。你可以随意处置它们。"
+ mem_hive_encounter.6.desc.d:0 "我们很遗憾地通知你，我们不能帮助你。我们不认为向外国传递我们物种的生物秘密是合适的，不管他们的意图多么高尚。"
+ mem_hive_encounter.6.a:0 "感谢您的合作。"
+ mem_hive_encounter.6.b:0 "不幸。"
+
+ # specimens arrive
+ mem_hive_encounter.7.name:0 "研究可以开始了"
+ mem_hive_encounter.7.desc.a:0 "标本已经到达。尽管他们对我们的调查一直很合作，甚至似乎有兴趣了解更多关于他们的信息，但我们仍在努力弄清楚他们的大脑是如何工作的。测试表明每个样本似乎花费了大量令人不安的时间思考大量的想法。不同主题之间的交叉引用证实了这些思想确实是相互独立的，并且常常有很大的分歧。一个社会怎么能建立在如此缺乏中心方向的基础上呢？"
+ mem_hive_encounter.7.desc.b:0 "样本已经到达。他们好像敬畏我们，在我们眼前显出困苦和恼怒。有趣的是，他们大多数的愤怒都指向他们自己的政府，我们很难判断他们的行为是否正常，因为他们是被排斥的，未能融入社会。尽管如此，我们对他们社会允许的思想自由水平很感兴趣。一个文明如何能建立在如此缺乏中心方向的基础上？"
+ mem_hive_encounter.7.desc.c:0 "样本已经到达。令人遗憾的是，没有发送活体样本，这意味着我们无法检查个体在行动中的工作方式。然而，我们已经准备了一系列的实验来看看哪些秘密可以被发现。"
+ mem_hive_encounter.7.a:0 "让我们开始学习吧。"
+
+ # results for hive
+ mem_hive_encounter.8.name:0 "成功的结论"
+ mem_hive_encounter.8.desc.a:0 "我们对样本的研究已经证明是卓有成效的。我们不仅了解了具有个体智力的生命形式如何相互作用，以及如何与我们自己相互作用——为我们提供了许多关于外星行为的洞察——而且我们还能够对他们的大脑工作进行测试。看来，尽管他们的文明和我们的文明——以及我们的生物学——在神经和遗传结构方面存在巨大差异，但在某种程度上仍存在可比性。他们和我们之间的主要区别在于，他们缺乏心灵连接的能力，这意味着每个人的思想基本上都被留给自己的装置。样本的大脑相应地比我们的普通工蜂的大脑发达得多。\n\n我们相信，总有一天，我们将能够随意应用和移除灵能链接，基本上使我们能够将其他种群整合到[root.GetName]中，同时，我们对生物学和国家运行基础的理解也得到了提高。"
+ mem_hive_encounter.8.desc.b:0 "我们对样本的研究已经证明是卓有成效的。我们不仅了解了具有个体智力的生命形式如何相互作用，以及如何与我们自己相互作用——为我们提供了许多关于外星行为的洞察——而且我们还能够对他们的大脑工作进行测试。看来，尽管他们的文明和我们的文明——以及我们的生物学——在神经和遗传结构方面存在巨大差异，但在某种程度上仍存在可比性。他们和我们之间的主要区别在于，他们缺乏心灵连接的能力，这意味着每个人的思想基本上都被留给自己的装置。样本的大脑相应地比我们的普通工蜂的大脑发达得多。\n\n我们相信，总有一天，我们将能够随意应用和移除灵能链接，基本上使我们能够将其他种群整合到[root.GetName]中，同时，我们对生物学和国家运行基础的理解也得到了提高。"
+ mem_hive_encounter.8.a:0 "很好"
+
+ # drones arrive
+ mem_hive_encounter.9.name:0 "研究可以开始了"
+ mem_hive_encounter.9.desc:0 "来自[mem_hive_encounter_hive_country.GetName]的工蜂已经抵达。到目前为止，他们已经证明对我们的科学测试没有任何反应——看来把他们从蜂巢的其他部分分离已经基本上切断了给予他们生命的力量。由于无法独立思考，他们现在缺乏方向性，几乎完全依赖于我们的看护人来维持生命。我们的科学家可能必须迅速行动，如果他们想了解更多关于他们的信息！"
+
+ # results for normal country
+ mem_hive_encounter.10.name:0 "关于蜂巢工蜂的发现"
+ mem_hive_encounter.10.desc.a:0 "我们的科学家们分析了在工蜂死亡前近最大的努力进行了研究分析，结果表明似乎有某种灵能链接将单个工蜂绑定到蜂巢主脑，并允许主脑控制它。尽管在研究中存在无法具体观察的困难——我们无法重新激活这一联系——但我们的科学家模拟了其能够精确定位大脑中用来建立联系的部分的，尽管他们对大脑功能的假设在很大程度上是推测性的。\n\n他们不相信[mem_hive_encounter_hive_country.GetSpeciesAdj]的工蜂天生就不能独立思考-他们的神经结构中没有任何东西能阻止独立思考这一过程。\n\n似乎所提供的样本没有足够的发育来支持独立意识的产生,如果说有什么不同的话，它们类似于智慧前的生命形式，但却没有生存本能可言。\n\n我们的科学家们相信，我们可能能够创造或移除连接[mem_hive_encounter_hive_country.GetSpeciesAdj]的灵能链接，从而有效地让我们创造出独立的个体。同时，我们对生物学和外星遗传学的基础知识也有了进一步的了解。另外，[mem_hive_encounter_leader.GetName]现在对灵能学有了新的兴趣。"
+ mem_hive_encounter.10.desc.b:0 "我们的科学家们分析了在工蜂死亡前近最大的努力进行了研究分析，结果表明似乎有某种灵能链接将单个工蜂绑定到蜂巢主脑，并允许主脑控制它。尽管在研究中存在无法具体观察的困难——我们无法重新激活这一联系——但我们的科学家模拟了其能够精确定位大脑中用来建立联系的部分的，尽管他们对大脑功能的假设在很大程度上是推测性的。\n\n他们不相信[mem_hive_encounter_hive_country.GetSpeciesAdj]的工蜂天生就不能独立思考-他们的神经结构中没有任何东西能阻止独立思考这一过程。\n\n似乎所提供的样本没有足够的发育来支持独立意识的产生,如果说有什么不同的话，它们类似于智慧前的生命形式，但却没有生存本能可言。\n\n我们的科学家们相信，我们可能能够创造或移除连接[mem_hive_encounter_hive_country.GetSpeciesAdj]的灵能链接，从而有效地让我们创造出独立的个体。同时，我们对生物学和外星遗传学的基础知识也有了进一步的了解。另外，[mem_hive_encounter_leader.GetName]现在对灵能学有了新的兴趣。"
+ mem_hive_encounter.10.a:0 "很好"
+
+ # decision for hive whether or not to send back the volunteers
+ mem_hive_encounter.11.name:0 "我们的客人"
+ mem_hive_encounter.11.desc:0 "正如我们所同意的，现在是我们把志愿者归还的时候了。当然，我们可以保留它们以供进一步研究，但是[mem_hive_encounter_normal_country speciesGetNamePlural]很可能不会接受这一点！"
+ mem_hive_encounter.11.a:0 "把它们送回去。"
+ mem_hive_encounter.11.b:0 "拘留它们。"
+
+ # volunteers return
+ mem_hive_encounter.12.name:0 "志愿者返回"
+ mem_hive_encounter.12.desc:0 "我们派往[mem_hive_encounter_hive_country.GetName的志愿者已经返回我们这里。他们声称，无论这意味着什么，“开眼”的经历拓宽了他们的“视野”。据所有人所说，[mem_hive_encounter_hive_country.GetName被证明是很好的东道主。"
+ mem_hive_encounter.12.a:0 "很好"
+
+ # volunteers missing
+ mem_hive_encounter.13.name:0 "志愿者被拘留了！"
+ mem_hive_encounter.13.desc:0 "尽管约定的返回日期已过，但[mem_hive_encounter_hive_country.GetName]拒绝将我们的志愿者对象返回给我们。他们声称他们需要更多的时间来完成他们的研究。"
+ mem_hive_encounter.13.a:0 "太过分了！"
+
+ # opinion modifiers
+ mem_opinion_hive_encounter_helped:0 "提供样本"
+ mem_opinion_hive_encounter_help_refused:0 "拒绝支持"
+ mem_opinion_hive_encounter_good_hosts:0 "热情的东道主"
+ mem_opinion_hive_encounter_dishonourable:0 "不光彩的"
+
+ # static modifiers
+ mem_hive_encounter_dealed_with_xenos:0 "与异种打交道"
+ mem_hive_encounter_traded_prisoners:0 "卖掉囚犯"
+ mem_hive_encounter_desecrated_corpses:0 "亵渎尸体"
+ 

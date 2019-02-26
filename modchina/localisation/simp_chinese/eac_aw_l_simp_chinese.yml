@@ -1,0 +1,182 @@
+﻿l_simp_chinese:
+
+###################
+# Decisions
+################### 
+ decision_eac_scattergun_prioity_on:0 "设定运输船目标 开"
+ decision_eac_scattergun_prioity_on_desc:1 "当运输船在轨道上时，设置螺旋炮或轨道炮炮组优先瞄准运输船。"
+ decision_eac_scattergun_prioity_off:0 "设定运输船目标 关"
+ decision_eac_scattergun_prioity_off_desc:1 "将弯管炮或轨道炮电池恢复到正常射击模式(无类型优先)。"
+ 
+ planet_eac_scattergun_transport_targeting:0 "运输船目标 开"
+ planet_eac_scattergun_transport_targeting_tooltip:0 "炮台首先瞄准运输船。"
+ planet_eac_scattergun_transport_targeting_desc:0 "在轨道上，轨道炮优先瞄准运输船。"
+
+###################
+# Edicts
+###################
+ edict_eac_defend_the_homeland_peacetime:0 "$unity_ambition$ 保卫祖国"
+ edict_eac_defend_the_homeland_peacetime_desc:0 "提高防御部队的训练和士气，以更好地击退入侵者。"
+
+ edict_eac_defend_the_homeland_at_war:0 "$edict_eac_defend_the_homeland_peacetime$"
+ edict_eac_defend_the_homeland_at_war_desc:0 "$edict_eac_defend_the_homeland_peacetime_desc$由于战争已经开始，成本增加了。"
+ 
+ edict_eac_at_war_menu:0 "£ship_stats_damage EAC: 战争状态菜单"
+ edict_eac_at_war_menu_desc:0 "访问EAC: 战争状态菜单"
+ 
+ edict_eac_scattergun_prioity_on:0 "设置交通目标 开"
+ edict_eac_scattergun_prioity_on_desc:0 "设置行星炮，当运输船在轨道上时优先瞄准。"
+ edict_eac_scattergun_prioity_off:0 "设置交通目标 关"
+ edict_eac_scattergun_prioity_off_desc:0 "将行星炮返回到正常射击模式(不支持舰队类型)。"
+ 
+ ###################
+ # Ship Parts
+ ###################
+ EAC_ARTILLERY_120_BEHAVIOR_DESC:1 "§H炮兵战术:§! 这艘船将在远距离(§Y120§!)对目标使用远程武器。"
+ EAC_ARTILLERY_MAX_BEHAVIOR_DESC:1 "§H炮兵战术:§! 这艘船将停留在武器的最大射程，并向目标发射远程武器。"
+ EAC_CARRIER_BEHAVIOR_DESC:1 ""§H航母战术:§! 这艘船将在远距离(§Y250§!)使用舰载机攻击。"
+
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED:0 "先进战斗计算机 (火炮-远程)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT:0 "智能战斗计算机 (火炮-远程)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG:0 "预知接口 (火炮-远程)"
+
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED:0 "先进战斗计算机 (火炮-最大射程)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_SAPIENT:0 "智能战斗计算机 (火炮-最大射程)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_PRECOG:0 "预知接口 (火炮-最大射程)"
+
+ EAC_COMBAT_COMPUTER_CARRIER_ADVANCED:0 "先进战斗计算机 (航母-最大射程)"
+ EAC_COMBAT_COMPUTER_CARRIER_SAPIENT:0 "智能战斗计算机 (航母-最大射程)"
+ EAC_COMBAT_COMPUTER_CARRIER_PRECOG:0 "预知接口 (航母-最大射程)"
+
+ EAC_AW_SUBLIGHT_TURBOCHARGER_1:0 "亚光速涡轮增压器"
+ EAC_AW_SUBLIGHT_TURBOCHARGER_1_DESC:1 "在推进器上增加一个涡轮增压器以加快系统的运行速度。"
+ 
+ EAC_AW_SUBLIGHT_TURBOCHARGER_2:0 "改进的亚光速涡轮增压器"
+ EAC_AW_SUBLIGHT_TURBOCHARGER_2_DESC:1 "$EAC_SUBLIGHT_TURBOCHARGER_1_DESC$"
+ 
+ EAC_AW_SUBLIGHT_TURBOCHARGER_3:0 "先进的亚光速涡轮增压器"
+ EAC_AW_SUBLIGHT_TURBOCHARGER_3_DESC:1 "$EAC_SUBLIGHT_TURBOCHARGER_1_DESC$"
+ 
+ EAC_SCOUT_HANGAR_1:0 "战斗机"
+ EAC_SCOUT_HANGAR_1_DESC:1 "一架战斗机提供基本的打击能力，在母舰附近骚扰敌人轰炸机和攻击艇。"
+ EAC_STRIKE_CRAFT_HANGAR_1:0 "战斗轰炸机"
+ EAC_STRIKE_CRAFT_HANGAR_1_DESC:0 "这些有人驾驶的轰炸机从母舰上发射，依靠他们的速度和小的尺寸来维持足够长的时间来突破敌人的防御。"
+ EAC_STRIKE_CRAFT_HANGAR_2:0 "改进的战斗轰炸机"
+ EAC_STRIKE_CRAFT_HANGAR_2_DESC:0 "下一代的轰炸机，具有改进的航空电子设备，更好的处理特点和更强大的武器。"
+ EAC_STRIKE_CRAFT_HANGAR_3:0 "先进战斗轰炸机"
+ EAC_STRIKE_CRAFT_HANGAR_3_DESC:0 "轰炸机设计的进一步改进，这些先进轰炸机是飞行员的梦想。他们的表现远远超过了以前的设计。"
+
+ EAC_CARRIER_RADAR:0 "载波雷达"
+ EAC_CARRIER_RADAR_DESC:0 "舰载雷达在很远的距离瞄准目标舰船。 (250)"
+
+ ###################
+ # Messages
+ ###################
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON:0 "遭受行星袭击的船队"
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON_DESC:0 "舰船 $SHIP|H$§! §W在舰队§! $FLEET|H$§!正在遭到来自$PLANET|H$§!的攻击！"
+
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON:0 "被行星炮摧毁的舰船"
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON_DESC:0 "舰船$SHIP|H$§! §W在舰队§! $FLEET|H$§!在$PLANET|H$§!上被行星炮摧毁了。"
+ 
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL:0 "行星炮正在运行"
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL_DESC:0 "$PLANET|H$§!行星炮正在运行，舰队$FLEET|H$§!正在受到攻击！"
+ 
+ ###################
+ # Events
+ ###################
+ eac_add_carrier_design:0 "增加先进的航母设计"
+ eac_add_carrier_design.tooltip:0 "如果删除，则将先进的载波设计与载波雷达组件重新相加。"
+
+ eac_at_war.2.name:0 "£ship_stats_damage EAC: 战争状态菜单"
+ eac_at_war.2.desc:0 "EAC菜单: 战争特性"
+ eac_at_war.2.EnableAiShield:0 "允许AI建造行星护盾发生器。"
+ eac_at_war.2.EnableAiShield.tooltip:0 "设置一个标志，允许AI建造行星护盾发生器，如果他们有技术。普通帝国不允许这样做。"
+ eac_at_war.2.DisableAiShield:0 "阻止AI建造行星护盾发生器"
+ eac_at_war.2.DisableAiShield.tooltip:0 "清除允许AI建造行星H的标志，如果他们有技术的话。香草不允许这样。"
+ eac_at_war.option_blank:0 " "
+ eac_at_war.2.VanillaCitadels:0 "使用常规型壁垒核心"
+ eac_at_war.2.VanillaCitadels.tooltip:0 "“常规堡垒”核心部分有1个鱼雷和12个中型武器插槽。"
+ eac_at_war.2.LargeGunCitadels:0 "使用大型武器堡垒核心"
+ eac_at_war.2.LargeGunCitadels.tooltip:0 "堡垒核心部分有1个鱼雷和12个大型武器槽。"
+ eac_at_war.2.HelpSystem:0 "显示EAC:战争帮助系统"
+ eac_at_war.2.HelpSystem.tooltip:0  "打开这个mod的帮助系统。"
+ eac_aw_close_window:0 "关闭"
+
+ ###################
+ # Station Defense
+ ###################
+ shipsize_eac_military_station_heavy_small_upkeep_mult:0 "重型 $shipsize_military_station_small_upkeep_mult$"
+ shipsize_eac_military_station_heavy_small_build_cost_mult:0 "重型 $shipsize_military_station_small_build_cost_mult$"
+ shipsize_eac_military_station_heavy_small_construction_speed_mult:0 "重型防御平台建设速度"
+ shipsize_eac_military_station_heavy_small_hull_add:0 "重型防御平台船体"
+ eac_military_station_heavy_small_plural:0 "重型 $military_station_small_plural$"
+ eac_military_station_heavy_small:0 "重型 $military_station_small$"
+ EAC_PLATFORM_FISSION_REACTOR:0 "$PLATFORM_FISSION_REACTOR$"
+ EAC_PLATFORM_FUSION_REACTOR:0 "$PLATFORM_FUSION_REACTOR$"
+ EAC_PLATFORM_COLD_FUSION_REACTOR:0 "$PLATFORM_COLD_FUSION_REACTOR$"
+ EAC_PLATFORM_ANTIMATTER_REACTOR:0 "$PLATFORM_ANTIMATTER_REACTOR$"
+ EAC_PLATFORM_ZERO_POINT_REACTOR:0 "$PLATFORM_ZERO_POINT_REACTOR$"
+ EAC_PLATFORM_DARK_MATTER_REACTOR:0 "$PLATFORM_DARK_MATTER_REACTOR$"
+ sm_eac_gun_battery:0 "重炮模块"
+ sm_eac_gun_battery_desc:0 "向恒星基地添加4个L武器槽。\n"
+ sm_eac_missile_battery:0 "重型导弹模块"
+ sm_eac_missile_battery_desc:0 "向星基地增加4个鱼雷武器槽。\n"
+ sm_eac_hangar_bay:0 "重型机库模块"
+ sm_eac_hangar_bay_desc:0 "向恒星基地增加4个飞机库。\n"
+
+#  shipsize_eac_military_station_medium_upkeep_mult:0 "$shipsize_military_station_medium_upkeep_mult$"
+#  shipsize_eac_military_station_medium_build_cost_mult:0 "$shipsize_military_station_medium_build_cost_mult$"
+#  shipsize_eac_military_station_medium_construction_speed_mult:0 "$shipsize_eac_military_station_medium_construction_speed_mult$"
+#  eac_military_station_medium_plural:0 "$military_station_medium_plural$"
+#  eac_military_station_medium:0 "$military_station_medium$"
+
+ ###################
+ # Traits
+ ###################
+ eac_aw_leader_trait_ground_pounder:0 "地面进攻\n§W$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$: §G+25%§!"
+ eac_aw_leader_trait_ground_pounder_desc:0 "这位海军上将擅长轨道轰炸，使用技能和精确的条例来快速完成任务。"
+
+ ###################
+ # Modifiers
+ ###################
+ eac_aw_admiral_ground_pounder:0 "地面上的将军"
+ eac_aw_admiral_ground_pounder_desc:0 "一个正在轰炸这个星球的海军上将专门从事轨道轰炸。"
+
+ # Armies
+ eac_space_marines_army:0 "太空陆战队"
+ eac_space_marines_army_plural:0 "太空陆战队"
+ eac_space_marines_army_desc:0 "太空陆战队是一支精锐的战斗部队，只有最好的士兵。"
+ space_marines_limit_fail_tooltip:0 "£trigger_no §R你已经在训练[owner.eac_aw_total_space_marines]了。你的帝国只能支持[owner.eac_aw_max_space_marines]太空陆战队。§!"
+ space_marines_limit_pass_tooltip:0 "£trigger_yes §G你可以训练更多的[owner.eac_aw_available_space_marines]太空陆战队。你的帝国只能支持[owner.eac_aw_max_space_marines]太空陆战队。§!"
+
+ job_eac_military_technician_energy:0 "能量武器技术员"
+ job_eac_military_technician_energy_plural:0 "能量武器技术员"
+ job_eac_military_technician_energy_desc:0 "行星炮需要熟练的工人来操作设备和监督操作。"
+ job_eac_military_technician_energy_effect_desc:0 "£job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ 产出 £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_technician_energy_add:0 "$job_eac_military_technician_energy$ 工作"
+ mod_job_eac_military_technician_energy_per_pop:0 "§G+1§! $job_eac_military_technician_energy$ 工作每 $VALUE$ 人口"
+ mod_job_eac_military_technician_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_energy_add£ 每 $VALUE$ £pop£"
+
+ job_eac_military_technician_kinetic:0 "动能武器技术员"
+ job_eac_military_technician_kinetic_plural:0 "动能武器技术员"
+ job_eac_military_technician_kinetic_desc:0 "行星炮电池需要熟练的工人来操作设备和监督操作。"
+ job_eac_military_technician_kinetic_effect_desc:0 "£job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ 产出 £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_technician_kinetic_add:0 "$job_eac_military_technician_kinetic$ 工作"
+ mod_job_eac_military_technician_kinetic_per_pop:0 "§G+1§! $job_eac_military_technician_kinetic$ 工作每 $VALUE$ 人口"
+ mod_job_eac_military_technician_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_kinetic_add£ 每 $VALUE$ £pop£"
+
+ job_eac_military_drone_energy:0 "能量武器单元"
+ job_eac_military_drone_energy_plural:0 "能量武器单元"
+ job_eac_military_drone_energy_desc:0 "行星炮电池需要熟练的单元来操作设备和监督操作。"
+ job_eac_military_drone_energy_effect_desc:0 "£job_eac_military_drone_energy£ $job_eac_military_drone_energy_plural$ 产出 £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_drone_energy_add:0 "$job_eac_military_drone_energy$ 工作"
+ mod_job_eac_military_drone_energy_per_pop:0 "§G+1§! $job_eac_military_drone_energy$ 工作每 $VALUE$ 人口"
+ mod_job_eac_military_drone_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_energy_add£ 每 $VALUE$ £pop£"
+
+ job_eac_military_drone_kinetic:0 "动能武器单元"
+ job_eac_military_drone_kinetic_plural:0 "动能武器单元"
+ job_eac_military_drone_kinetic_desc:0 "行星炮电池需要熟练的单元来操作设备和监督操作。"
+ job_eac_military_drone_kinetic_effect_desc:0 "£job_eac_military_drone_kinetic£ $job_eac_military_drone_kinetic_plural$ 产出 £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_drone_kinetic_add:0 "$job_eac_military_drone_kinetic$ 工作"
+ mod_job_eac_military_drone_kinetic_per_pop:0 "§G+1§! $job_eac_military_drone_kinetic$ 工作每 $VALUE$ 人口"
+ mod_job_eac_military_drone_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_kinetic_add£ 每 $VALUE$ £pop£"

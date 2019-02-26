@@ -1,0 +1,73 @@
+﻿l_simp_chinese:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+
+ ####################################
+ # Titan
+ ####################################
+ ultradreadnought:0 "无畏舰"
+ 
+ ultradreadnought_ichi:0 "无畏舰 1"
+ ultradreadnought_ni:0 "无畏舰 2"
+ ultradreadnought_san:0 "无畏舰 3"
+ ultradreadnought_shi:0 "无畏舰 4"
+ ultradreadnought_go:0 "无畏舰 5"
+
+ ULTRADREADNOUGHT_FISSION_REACTOR:0 "裂变反应堆"
+ ULTRADREADNOUGHT_FUSION_REACTOR:0 "聚变反应堆"
+ ULTRADREADNOUGHT_COLD_FUSION_REACTOR:0 "冷聚变反应堆"
+ ULTRADREADNOUGHT_ANTIMATTER_REACTOR:0 "反物质反应堆"
+ ULTRADREADNOUGHT_ZERO_POINT_REACTOR:0 "零点反应堆"
+ ULTRADREADNOUGHT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+ 
+ ULTRADREADNOUGHT_SHIP_THRUSTER_1:0 "化学推进器"
+ ULTRADREADNOUGHT_SHIP_THRUSTER_2:0 "离子推进器"
+ ULTRADREADNOUGHT_SHIP_THRUSTER_3:0 "等离子推进器"
+ ULTRADREADNOUGHT_SHIP_THRUSTER_4:0 "脉冲推进器"
+
+ COMBAT_COMPUTER_ULTRA_DEFAULT:0 "默认无畏舰计算机"
+ COMBAT_COMPUTER_ULTRA_LINE_DEFAULT:0 "默认无畏舰计算机"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_BASIC:0 "基本战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_BASIC:0 "基本战斗计算机 (哨兵)"
+ COMBAT_COMPUTER_ULTRA_LINE_BASIC:0 "基本战斗计算机 (线列)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_BASIC:0 "基本战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_ADVANCED:0 "先进战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_ADVANCED:0 "先进战斗计算机 (哨兵)"
+ COMBAT_COMPUTER_ULTRA_LINE_ADVANCED:0 "先进战斗计算机 (线列)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_ADVANCED:0 "先进战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_SAPIENT:0 "智能战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_SAPIENT:0 "智能战斗计算机 (哨兵)"
+ COMBAT_COMPUTER_ULTRA_LINE_SAPIENT:0 "智能战斗计算机 (线列)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_SAPIENT:0 "智能战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_PRECOG:0 "预认知战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_PRECOG:0 "预认知战斗计算机 (哨兵)"
+ COMBAT_COMPUTER_ULTRA_LINE_PRECOG:0 "预认知战斗计算机 (线列)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_PRECOG:0 "预认知战斗计算机 (炮兵)"
+ 
+ COMBAT_COMPUTER_ULTRA_SWARM_AUTONOMOUS:0 "自动战斗计算机 (蜂群)"
+ COMBAT_COMPUTER_ULTRA_PICKET_AUTONOMOUS:0 "自动战斗计算机 (哨兵)"
+ COMBAT_COMPUTER_ULTRA_LINE_AUTONOMOUS:0 "自动战斗计算机 (线列)"
+ COMBAT_COMPUTER_ULTRA_ARTILLERY_AUTONOMOUS:0 "自动战斗计算机 (炮兵)"
+ 
+ tech_ultradreadnought:0 "无畏舰"
+ tech_ultradreadnought_desc:0 "我们的科学家将利用古代技术来建造银河系中最大的一种船体结构，这将使我们可以毫不费力地粉碎敌人的舰队。"
+ TECH_UNLOCK_ULTRADREADNOUGHT_TITLE:0 "§H解锁舰船类型:§! 无畏舰"
+ TECH_UNLOCK_ULTRADREADNOUGHT_DESC:0 "我们的科学家将利用古代技术来建造银河系中最大的一种船体结构，这将使我们可以毫不费力地粉碎敌人的舰队。"
+ 
+ sm_ultradreadnought_yards:0 "无畏舰装配场"
+ sm_ultradreadnought_yards_desc:0 "抛弃传统的干船坞概念，由许多高度移动的独立建筑平台组装。\n"
+ sm_ultradreadnought_yards_desc_modifier:0 "船坞: §Y无畏舰船厂§!"
+ 
+ ap_ultradreadnought:0 "无畏舰项目"
+ ap_ultradreadnought_desc:0 "无畏号项目是军国主义者和外交使者之子。这是一艘巨大的舰船，装备着大量武器，将带领我们步入虚空。"

@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+DEHIVE:1 "多元觉醒"
+DEHIVE_DESC:0 "这种能精确作用于神经元的波能武器，能高效率地解除目标行星上所有民众的蜂群思维人口特制。"
+tech_pk_dehive:0 "巢心干扰器"
+tech_pk_dehive_desc:0 "以特定频率传输的能量能够显著作用到生物体的大脑皮层，或者说，蜂群个体的思维核心。"
+FLEETORDER_DESTROY_PLANET_WITH_DEHIVE:0 "正在准备干扰$PLANET|Y$上的民众"
+MESSAGE_DESC_FOR_DEHIVE:0 "被释放"
+mcpk.901.name:0 "思维释放完成"
+mcpk.901.desc:0 "与蜂群思维的联系已尽数切断。自由意志永远向[From.GetName]上的民众敞开怀抱。"
+mcpk.901.tooltip:0 "思维释放完成"
+DEHIVE_ACTION:0 "释放"

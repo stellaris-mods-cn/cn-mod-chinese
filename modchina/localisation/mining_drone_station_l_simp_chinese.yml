@@ -1,0 +1,15 @@
+﻿l_simp_chinese:	
+
+tech_mining_drone_station:0 "古代采矿无人机技术"
+tech_mining_drone_station_desc:0 "在对古老的采矿机进行了认真的调查之后，我们设法以一种更有效的方式进行矿物开采，使其能够增加矿物产量。"
+
+allow_mining_drone_station:0 "§H解锁巨型建筑:§! 古代采矿站"
+
+mining_drone_station:0 "古代采矿站"
+mining_drone_station_DESC:0 "古代采矿站"
+mining_drone_station_MEGASTRUCTURE_DETAILS:1 "一个巨大的采矿站使用古老的无人机以惊人的速度挖掘小行星。"
+
+requires_asteroid:1 "$TRIGGER_FAIL$目标不是小行星。"
+
+MiningDroneStationEvents.1.Name:0 "古代采矿站§G准备好了§!"
+MiningDroneStationEvents.1.Desc:0 "我们已经完成了古老的采矿站的建设。当我们打开发电机的时候，成千上万的无人驾驶飞机正在吞噬小行星的表面并开始采矿作业。"

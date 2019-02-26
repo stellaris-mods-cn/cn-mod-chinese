@@ -1,0 +1,36 @@
+﻿l_simp_chinese:
+ 
+ # Ring World Section Completed
+ megastructure_notifications.2222.name:0 "环世界部分完成"
+ megastructure_notifications.2222.desc:0 "在[From.From.GetName]星系的环形世界框架上，我们的工程师已经完成了其中一个部分。它花费了多年的努力和无数我们最聪明的工程师，现在它非常稳定，并为居住做好了准备。"
+ megastructure_notifications.2222.a:0 "今天是个好日子。"
+ 
+ # Dyson Sphere Stage 3 Completed
+ megastructure_notifications.3333.name:0 "戴森球形面板安装完毕"
+ megastructure_notifications.3333.desc:0 "在成功安装更多的太阳能面板后，[From.From.GetName]星系中戴森球的能量输出显著增加。\n\n我们现在已经完成了一半，这是一个令人印象深刻的里程碑。"
+ megastructure_notifications.3333.a:0 "确实让人印象深刻"
+ 
+ # Dyson Sphere Stage 4 Completed
+ megastructure_notifications.4444.name:0 "戴森球形面板安装完毕"
+ megastructure_notifications.4444.desc:0 "随着越来越多的戴森球面板安装完毕，[From.From.GetName]星系变得愈发黑暗。即使是现在，我们的工程师也难以抑制他们对项目完工前景的兴奋。\n\n我们将成为这个恒星真正的主人。" 
+ megastructure_notifications.4444.a:0 "优秀的."
+ 
+ # Sentry Spire Completed
+ megastructure_notifications.5555.name:0 "哨兵尖顶"
+ megastructure_notifications.5555.desc:0 "一个令人印象深刻的塔尖现在从哨兵阵列延伸，装着一个振荡鳍阵列。通过仔细的校准和操作，塔尖消除了背景辐射的噪音，使我们的科学家能够隔离微弱的信号。"
+ megastructure_notifications.5555.a:0 "什么也不能影响我们的视野。"
+ 
+ # Science Nexus Aerials Completed
+ megastructure_notifications.6666.name:0 "哨兵天线"
+ megastructure_notifications.6666.desc:0 "从哨兵阵列发射出来的巨大的天线，它们有着难以置信的精确度。在该设施的范围内，伴随而来的提升不能被低估。"
+ megastructure_notifications.6666.a:0 "很快，银河所有东西将无处可藏。"
+ 
+  # Gateway Construction Site Completed
+ megastructure_notifications.7777.name:0 "星门建造基地完成"
+ megastructure_notifications.7777.desc:0 "一个新星门的初始建设基地已经完成。我们只需要下令，建造就会开始。"
+ megastructure_notifications.7777.a:0 "优秀的."
+ 
+  # Gateway Completed
+ megastructure_notifications.8888.name:0 "星门"
+ megastructure_notifications.8888.desc:0 "[From.From.GetName]星系的工程师已经完成了新星门的建设。它的子空间航道将随时在线，将其连接到其他活动星门。"
+ megastructure_notifications.8888.a:0 "宇宙正在变得越来越小."

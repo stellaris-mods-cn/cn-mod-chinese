@@ -1,0 +1,992 @@
+﻿l_simp_chinese:
+ #l_spanish:
+ #l_french:
+ #l_german:
+ #l_braz_por:
+ #l_polish:
+ # ###################################
+ # Reactors
+ # ###################################
+ #Optimized Antimatter Reactor (obsolete)
+ TFW_ANTIMATTER_REACTOR_OPTIMIZED:0 "反物质聚变反应堆"
+ TFW_ANTIMATTER_REACTOR_OPTIMIZED_DESC:0 "这个反应堆利用了反物质融合的力量。"
+ tech_tfw_antimatter_reactor_optimized:0 "反物质融合"
+ tech_tfw_antimatter_reactor_optimized_desc:0 "量子场论是不断发展的。我们最近的研究表明，零点反应堆对整个银河系来说可能太危险了。因此，我们应该利用其他的能源，例如利用控制的反物质聚变的能量的反应堆。尽管技术上这是倒退。\n\n"
+ TECH_UNLOCK_TFW_ANTIMATTER_OPT_TITLE:0 "§H解锁组件:§! $TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ TECH_UNLOCK_TFW_ANTIMATTER_OPT_DESC:0 "§H$TFW_ANTIMATTER_REACTOR_OPTIMIZED$§!\n$TFW_ANTIMATTER_REACTOR_OPTIMIZED_DESC$"
+ 
+ #Darkmatter Reactor (obsolete)
+ TFW_DARKMATTER_REACTOR:0 "暗物质反应堆"
+ TFW_DARKMATTER_REACTOR_DESC:0 "这个反应堆利用了暗物质衰变的能力。"
+ tech_tfw_darkmatter_reactor:0 "暗物质的力量"
+ tech_tfw_darkmatter_reactor_desc:0 "重子暗物质作为能量来源的利用比反物质融合更有效。然而，这需要更复杂的技术解决方案来进行提取和处理。\n\n"
+ TECH_UNLOCK_TFW_DARKMATTER_TITLE:0 "§H解锁组件:§! $TFW_DARKMATTER_REACTOR$"
+ TECH_UNLOCK_TFW_DARKMATTER_DESC:0 "§H$TFW_DARKMATTER_REACTOR$§!\n$TFW_DARKMATTER_REACTOR_DESC$"
+ 
+ #Optimized Darkmatter Reactor (obsolete)
+ TFW_DARKMATTER_REACTOR_OPTIMIZED:0 "轴子反应堆"
+ TFW_DARKMATTER_REACTOR_OPTIMIZED_DESC:0 "这是一个先进的黑暗物质反应堆。"
+ tech_tfw_darkmatter_reactor_optimized:0 "轴子提取"
+ tech_tfw_darkmatter_reactor_optimized_desc:0 "轴子是一种基本粒子，是冷暗物质的组成部分。我们已经在我们的反应堆中发现了轴子的应用，因此我们可以大大提高它们的效率。\n\n"
+ TECH_UNLOCK_TFW_DARKMATTER_OPT_TITLE:0 "§H解锁组件:§! $TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ TECH_UNLOCK_TFW_DARKMATTER_OPT_DESC:0 "§H$TFW_DARKMATTER_REACTOR_OPTIMIZED$§!\n$TFW_DARKMATTER_REACTOR_OPTIMIZED_DESC$"
+ 
+ #Singularity Reactor
+ TFW_SINGULARITY_REACTOR:0 "奇点反应堆"
+ TFW_SINGULARITY_REACTOR_DESC:0 "这个反应堆使用了它内部一个黑洞的蛮力。不要进入。"
+ tech_tfw_singularity_reactor:0 "奇异的力量"
+ tech_tfw_singularity_reactor_desc:0 "利用人工维护的黑洞的潮汐力，我们可以增加我们的动力反应堆的输出。不幸的是，他们不能在FTL旅行中使用。\n\n"
+ TECH_UNLOCK_TFW_SINGULARITY_TITLE:0 "§H解锁组件:§! $TFW_SINGULARITY_REACTOR$"
+ TECH_UNLOCK_TFW_SINGULARITY_DESC:0 "§H$TFW_SINGULARITY_REACTOR$§!\n$TFW_SINGULARITY_REACTOR_DESC$"
+ 
+ #Trisingularity Reactor (optimized)
+ TFW_SINGULARITY_REACTOR_OPTIMIZED:0 "三奇点反应堆"
+ TFW_SINGULARITY_REACTOR_OPTIMIZED_DESC:0 "这是一个高科技的小黑洞，完美的同步，使其产生更多的能量。"
+ tech_tfw_singularity_reactor_optimized:0 "先进的奇点控制"
+ tech_tfw_singularity_reactor_optimized_desc:0 "我们可以支持更小直径的局部黑洞。通过将多个黑洞结合在一起，并使其潮汐力同步，我们就能实现输出功率的正增长。\n\n"
+ TECH_UNLOCK_TFW_SINGULARITY_OPT_TITLE:0 "§H解锁组件:§! $TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ TECH_UNLOCK_TFW_SINGULARITY_OPT_DESC:0 "§H$TFW_SINGULARITY_REACTOR_OPTIMIZED$§!\n$TFW_SINGULARITY_REACTOR_OPTIMIZED_DESC$"
+ 
+ ### ADV BIO ### 
+ TFW_BIO_REACTOR_I:0 "生物反应器 I"
+ TFW_BIO_REACTOR_I_DESC:0 "从有机溶液中产生能量。这种类型的反应堆维护起来更容易，也更便宜。"
+ tech_tfw_bio_reactor_1:0 "生物能源电池"
+ tech_tfw_bio_reactor_1_desc:0 "我们在使用有机材料的过程中所取得的进展将使我们能够从有机溶液中产生大量的能量。\n\n"
+ TECH_UNLOCK_TFW_BIO_I_TITLE:0 "§H解锁组件:§! $TFW_BIO_REACTOR_I$"
+ TECH_UNLOCK_TFW_BIO_I_DESC:0 "§H$TFW_BIO_REACTOR_I$§!\n$TFW_BIO_REACTOR_I_DESC$"
+ 
+ TFW_BIO_REACTOR_II:0 "生物反应器 II"
+ TFW_BIO_REACTOR_II_DESC:0 "从有机溶液中产生更多的能量。这种类型的反应堆维护起来更容易，也更便宜。"
+ tech_tfw_bio_reactor_2:0 "先进能源电池"
+ tech_tfw_bio_reactor_2_desc:0 "我们可以开始为我们的能源细胞设计改进，使它们更有效。\n\n"
+ TECH_UNLOCK_TFW_BIO_II_TITLE:0 "§H解锁组件:§! $TFW_BIO_REACTOR_II$"
+ TECH_UNLOCK_TFW_BIO_II_DESC:0 "§H$TFW_BIO_REACTOR_II$§!\n$TFW_BIO_REACTOR_II_DESC$"
+ 
+ ### ADV SYNTH ### 
+ TFW_WIMP_REACTOR:0 "WIMP萃取器"
+ TFW_WIMP_REACTOR_DESC:0 "这个改进版的暗物质反应堆使用WIMP转换。由于提高了对过载的抵抗能力，他们在敌人的炮火下更稳定地工作，提高了舰艇的战斗力。"
+ tech_tfw_wimp_reactor:0 "WIMP的力量"
+ tech_tfw_wimp_reactor_desc:0 "有可能提取和操纵WIMPs(冷暗物质的非常大的颗粒)产生大量的能量。\n\n"
+ TECH_UNLOCK_TFW_SYNTH_I_TITLE:0 "§H解锁组件:§! $TFW_WIMP_REACTOR$"
+ TECH_UNLOCK_TFW_SYNTH_I_DESC:0 "§H$TFW_WIMP_REACTOR$§!\n$TFW_WIMP_REACTOR_DESC$"
+ 
+ TFW_TACHYON_REACTOR:0 "速子反应堆"
+ TFW_TACHYON_REACTOR_DESC:0 "这是一个高科技的速子陷阱，也能产生能量。由于提高了对过载的抵抗能力，他们在敌人的炮火下更稳定地工作，提高了舰艇的战斗力。"
+ tech_tfw_tachyon_reactor:0 "速子的力量"
+ tech_tfw_tachyon_reactor_desc:0 "通过延时量子来产生大量的能量是可能的。尽管捕捉速子是一项困难得多的任务。\n\n"
+ TECH_UNLOCK_TFW_SYNTH_II_TITLE:0 "§H解锁组件:§! $TFW_TACHYON_REACTOR$"
+ TECH_UNLOCK_TFW_SYNTH_II_DESC:0 "§H$TFW_TACHYON_REACTOR$§!\n$TFW_TACHYON_REACTOR_DESC$"
+ 
+ ### ADV PSI ### 
+ TFW_PSI_REACTOR_1:0 "Psi电池"
+ TFW_PSI_REACTOR_1_DESC:0 "一种特殊的胶囊，包含有灵能力量的生物界面。它能够产生和转换灵能能量，并利用内部算法来提高武器制导系统的战斗预知能力。"
+ tech_tfw_psi_reactor_1:0 "Psi能量提取"
+ tech_tfw_psi_reactor_1_desc:0 "通过研究提取和利用生物能接口的心灵异能的方法，我们将能够创造一种全新类型的动力反应堆。由于它们的灵能性质，这些反应堆不需要几个供应系统，这将使它们的维护成本更低。\n\n"
+ TECH_UNLOCK_TFW_PSI_I_TITLE:0 "§H解锁组件:§! $TFW_PSI_REACTOR_1$"
+ TECH_UNLOCK_TFW_PSI_I_DESC:0 "§H$TFW_PSI_REACTOR_1$§!\n$TFW_PSI_REACTOR_1_DESC$"
+ 
+ TFW_PSI_REACTOR_2:0 "Psi贮备"
+ TFW_PSI_REACTOR_2_DESC:0 "一个紧凑的同步Psi细胞集群会产生大量的能量。改进武器制导系统，使用内部算法进行战斗预知。"
+ tech_tfw_psi_reactor_2:0 "同步Psi传输"
+ tech_tfw_psi_reactor_2_desc:0 "我们可以改进我们的psi-反应器，使不同的psi反应器在一个集群中结合在一起。\n\n"
+ TECH_UNLOCK_TFW_PSI_II_TITLE:0 "§H解锁组件:§! $TFW_PSI_REACTOR_2$"
+ TECH_UNLOCK_TFW_PSI_II_DESC:0 "§H$TFW_PSI_REACTOR_2$§!\n$TFW_PSI_REACTOR_2_DESC$"
+ 
+ # Dark Matter 2
+ TFW_DARKMATTER_REACTOR_2:0 "改进的暗物质核心"
+ TFW_DARKMATTER_REACTOR_2_DESC:0 "改进的萃取器提高了反应器的效率。"
+ tech_tfw_darkmatter_reactor_2:0 "改进的暗物质核心"
+ tech_tfw_darkmatter_reactor_2_desc:0 "改进的提取器提高了反应器的效率。\n\n"
+ TECH_UNLOCK_TFW_DARKMATTER_REACTOR_2_TITLE:0 "§H解锁组件:§! $TFW_DARKMATTER_REACTOR_2$"
+ TECH_UNLOCK_TFW_DARKMATTER_REACTOR_2_DESC:0 "§H$TFW_DARKMATTER_REACTOR_2$§!\n$TFW_DARKMATTER_REACTOR_2_DESC$"
+ 
+ # CORVETTE
+ CORVETTE_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ CORVETTE_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ CORVETTE_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ CORVETTE_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ CORVETTE_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ CORVETTE_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ CORVETTE_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ CORVETTE_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ CORVETTE_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ CORVETTE_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ CORVETTE_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ CORVETTE_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # DESTROYER
+ DESTROYER_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ DESTROYER_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ DESTROYER_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ DESTROYER_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ DESTROYER_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ DESTROYER_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ DESTROYER_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ DESTROYER_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ DESTROYER_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ DESTROYER_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ DESTROYER_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ DESTROYER_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # CRUISER
+ CRUISER_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ CRUISER_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ CRUISER_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ CRUISER_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ CRUISER_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ CRUISER_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ CRUISER_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ CRUISER_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ CRUISER_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ CRUISER_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ CRUISER_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ CRUISER_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # BATTLESHIP
+ BATTLESHIP_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ BATTLESHIP_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ BATTLESHIP_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ BATTLESHIP_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ BATTLESHIP_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ BATTLESHIP_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ BATTLESHIP_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ BATTLESHIP_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ BATTLESHIP_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ BATTLESHIP_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ BATTLESHIP_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ BATTLESHIP_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # TITAN
+ TITAN_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ TITAN_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ TITAN_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ TITAN_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ TITAN_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ TITAN_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ TITAN_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ TITAN_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ TITAN_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ TITAN_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ TITAN_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ TITAN_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # COLOSSUS
+ COLOSSUS_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ COLOSSUS_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ COLOSSUS_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ COLOSSUS_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ COLOSSUS_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ COLOSSUS_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ COLOSSUS_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ COLOSSUS_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ COLOSSUS_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ COLOSSUS_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ COLOSSUS_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ COLOSSUS_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # PLATFORM
+ PLATFORM_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ PLATFORM_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ PLATFORM_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ PLATFORM_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ PLATFORM_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ PLATFORM_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ PLATFORM_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ PLATFORM_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ PLATFORM_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ PLATFORM_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ PLATFORM_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ PLATFORM_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ # ION CANNON 
+ ION_CANNON_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ ION_CANNON_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ ION_CANNON_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ ION_CANNON_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ ION_CANNON_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ ION_CANNON_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ ION_CANNON_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ ION_CANNON_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ ION_CANNON_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ ION_CANNON_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ ION_CANNON_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ ION_CANNON_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+  
+ # STARBASE
+ STARBASE_TFW_ANTIMATTER_REACTOR_OPTIMIZED:1 "$TFW_ANTIMATTER_REACTOR_OPTIMIZED$"
+ STARBASE_TFW_DARKMATTER_REACTOR:1 "$TFW_DARKMATTER_REACTOR$"
+ STARBASE_TFW_DARKMATTER_REACTOR_OPTIMIZED:1 "$TFW_DARKMATTER_REACTOR_OPTIMIZED$"
+ STARBASE_TFW_SINGULARITY_REACTOR:1 "$TFW_SINGULARITY_REACTOR$"
+ STARBASE_TFW_SINGULARITY_REACTOR_OPTIMIZED:1 "$TFW_SINGULARITY_REACTOR_OPTIMIZED$"
+ STARBASE_TFW_BIO_REACTOR_I:1 "$TFW_BIO_REACTOR_I$"
+ STARBASE_TFW_BIO_REACTOR_II:1 "$TFW_BIO_REACTOR_II$"
+ STARBASE_TFW_PSI_REACTOR_1:1 "$TFW_PSI_REACTOR_1$"
+ STARBASE_TFW_PSI_REACTOR_2:1 "$TFW_PSI_REACTOR_2$"
+ STARBASE_TFW_WIMP_REACTOR:1 "$TFW_WIMP_REACTOR$"
+ STARBASE_TFW_TACHYON_REACTOR:1 "$TFW_TACHYON_REACTOR$"
+ STARBASE_TFW_DARKMATTER_REACTOR_2:1 "$TFW_DARKMATTER_REACTOR_2$"
+ 
+ ###########################
+ # Shield Amplifiers
+ ###########################
+ #
+ TFW_SHIELD_AMPLIFIER_1:0 "护盾放大器 I"
+ TFW_SHIELD_AMPLIFIER_1_DESC:0 "提高舰船护盾的更新速度和舰船的恢复速度。"
+ tech_tfw_shield_amplifier_1:0 "护盾放大器 I"
+ tech_tfw_shield_amplifier_1_desc:0 "这个复杂的系统包括能源电容器和一个特殊的护盾放大器,同时增加不同的船模块的有效性。\n\n"
+
+ TFW_SHIELD_AMPLIFIER_2:0 "护盾放大器 II"
+ TFW_SHIELD_AMPLIFIER_2_DESC:0 "提高舰船护盾的更新速度和舰船的恢复速度。"
+ tech_tfw_shield_amplifier_2:0 "护盾放大器 II"
+ tech_tfw_shield_amplifier_2_desc:0 "这个复杂的系统包括能源电容器和一个特殊的护盾放大器,同时增加不同的船模块的有效性。\n\n"
+
+ TFW_SHIELD_AMPLIFIER_3:0 "护盾放大器 III"
+ TFW_SHIELD_AMPLIFIER_3_DESC:0 "提高舰船护盾的更新速度和舰船的恢复速度。 §E提供额外的电磁保护。§!"
+ tech_tfw_shield_amplifier_3:0 "护盾放大器 III"
+ tech_tfw_shield_amplifier_3_desc:0 "这个复杂的系统包括能源电容器和一个特殊的护盾放大器,同时增加不同的船模块的有效性。 §E提供额外的电磁保护。§!\n\n"
+ 
+ #HIVE
+ TFW_HIVE_AMPLIFIER_1:0 "蜂巢放大器 I"
+ TFW_HIVE_AMPLIFIER_1_DESC:0 "降低信号潜伏期，增加舰船的机动性和射速。"
+ tech_tfw_hive_amplifier_1:0 "蜂巢放大器 I"
+ tech_tfw_hive_amplifier_1_desc:0 "这个节点包含一个小的能量源和各种传送器来改善心理连接。\n\n"
+ 
+ TFW_HIVE_AMPLIFIER_2:0 "蜂巢放大器 II"
+ TFW_HIVE_AMPLIFIER_2_DESC:0 "降低信号潜伏期，增加舰船的机动性和射速。"
+ tech_tfw_hive_amplifier_2:0 "蜂巢放大器 II"
+ tech_tfw_hive_amplifier_2_desc:0 "这个节点包含一个小的能量源和各种传送器来改善心理连接。\n\n"
+ 
+ TFW_HIVE_AMPLIFIER_3:0 "蜂巢放大器 III"
+ TFW_HIVE_AMPLIFIER_3_DESC:0 "降低信号潜伏期，增加舰船的机动性和射速。 §E提供额外的电磁保护。§!"
+ tech_tfw_hive_amplifier_3:0 "蜂巢放大器 III"
+ tech_tfw_hive_amplifier_3_desc:0 "这个节点包含一个小的能量源，特殊的保护电路和各种传输器来改善我的精神连接。 §E提供额外的电磁保护。§!\n\n"
+
+ ###########################
+ # Repair Drones
+ ###########################
+ #Standard
+ TFW_AUTO_REPAIR_1:0 "修复无人机 I"
+ TFW_AUTO_REPAIR_1_DESC:0 "这些无人机修理损坏的船体和模块。"
+ tech_tfw_auto_repair_1:0 "修复无人机"
+ tech_tfw_auto_repair_1_desc:0 "舰船修理过程的自动化将允许我们建立移动修理平台。\n\n"
+ 
+ TFW_AUTO_REPAIR_2:0 "修复无人机 II"
+ TFW_AUTO_REPAIR_2_DESC:0 "这些无人机能够更快地修复受损的船体和模块。"
+ tech_tfw_auto_repair_2:0 "改进的修理无人机"
+ tech_tfw_auto_repair_2_desc:0 "自动化的进一步发展将使我们的维修无人机更加有效。\n\n"
+ 
+ TFW_AUTO_REPAIR_3:0 "修复无人机 III"
+ TFW_AUTO_REPAIR_3_DESC:0 "先进的太空无人机修理损坏的船体和模块非常快。"
+ tech_tfw_auto_repair_3:0 "先进的修复无人机"
+ tech_tfw_auto_repair_3_desc:0 "有了更复杂的维修系统，我们的无人机将能够更快地修复受损的船只。\n\n"
+
+ #Psi Repair Drones
+ #MOTHER TECH
+ tech_tfw_psi_machinery:0 "灵能机械"
+ tech_tfw_psi_machinery_desc:0 "我们的灵能进展允许我们设计特殊的电子机制，能够接收和执行我们的灵能命令。\n\n"
+ TECH_UNLOCK_PD_TITLE:0 "§H解锁发展:§! Psi无人机"
+ TECH_UNLOCK_PD_DESC:0 "在我们的宇宙飞船中，可以通过不同的方式来应用移动的无人平台。"
+
+ TFW_AUTO_REPAIR_PSI1:0 "Psi 修复无人机 I"
+ TFW_AUTO_REPAIR_PSI1_DESC:0 "这些无人机修理损坏的船体和模块。"
+ tech_tfw_auto_repair_psi1:0 "Psi修复无人机"
+ tech_tfw_auto_repair_psi1_desc:0 "移动修理平台对某些灵能流进行渗透将是修复我们船只的有效方法。\n\n"
+
+ TFW_AUTO_REPAIR_PSI2:0 "Psi 修复无人机 II"
+ TFW_AUTO_REPAIR_PSI2_DESC:0 "这些无人机能够更快地修复受损的船体和模块。"
+ tech_tfw_auto_repair_psi2:0 "改善的Psi修复无人机"
+ tech_tfw_auto_repair_psi2_desc:0 "维修系统的进一步发展将使我们的维修过程更快。\n\n"
+
+ TFW_AUTO_REPAIR_PSI3:0 "Psi修复无人机 III"
+ TFW_AUTO_REPAIR_PSI3_DESC:0 "先进的太空无人机修理损坏的船体和模块非常快。"
+ tech_tfw_auto_repair_psi3:0 "先进的Psi修复无人机"
+ tech_tfw_auto_repair_psi3_desc:0 "使用更复杂的灵能系统，我们的无人机将能够更有效地修复受损的船只。\n\n"
+
+ #Synth Repair Drones
+ TFW_AUTO_REPAIR_SYNTH1: "修理机器人 I"
+ TFW_AUTO_REPAIR_SYNTH1_DESC: "小型自主维修无人驾驶飞机。"
+ tech_tfw_auto_repair_synth1:0 "修理机器人"
+ tech_tfw_auto_repair_synth1_desc:0 "这些小型无人机即使在敌人炮火下，也能有效地修复受损的船体结构。\n\n"
+ 
+ TFW_AUTO_REPAIR_SYNTH2: "修理机器人 II"
+ TFW_AUTO_REPAIR_SYNTH2_DESC: "小型自主维修无人驾驶飞机。"
+ tech_tfw_auto_repair_synth2:0 "改进的修理机器人"
+ tech_tfw_auto_repair_synth2_desc:0 "我们可以改进我们的舰船修理系统以提高他们的效率。\n\n"
+ 
+ TFW_AUTO_REPAIR_SYNTH3: "修理机器人 III"
+ TFW_AUTO_REPAIR_SYNTH3_DESC: "小型自主维修无人驾驶飞机。"
+ tech_tfw_auto_repair_synth3:0 "先进的修理机器人"
+ tech_tfw_auto_repair_synth3_desc:0 "现在我们有几个额外的方法来改进舰船修理无人机。\n\n"
+ 
+ ###########################
+ # Enigmatic Stuff
+ ###########################
+ TFW_ENIGMATIC_DECODER_2:0 "改进的神秘解码器"
+ TFW_ENIGMATIC_DECODER_2_DESC:0 "新算法的开发，提高了解码器的计算能力和预测效率。"
+ tech_tfw_enigmatic_decoder_2:0 "改进的神秘解码器"
+ tech_tfw_enigmatic_decoder_2_desc:0 "新算法的开发，提高了解码器的计算能力和预测效率。\n\n"
+ 
+ TFW_ENIGMATIC_ENCODER_2:0 "改进的神秘编码器"
+ TFW_ENIGMATIC_ENCODER_2_DESC:0 "这个编码器的时钟频率的增加使它能够更快地计算，大大提高了它的效率。"
+ tech_tfw_enigmatic_encoder_2:0 "改进的神秘编码器"
+ tech_tfw_enigmatic_encoder_2_desc:0 "这个编码器的时钟频率的增加使它能够更快地计算，大大提高了它的效率。\n\n"
+ 
+ ###########################
+ # Unique Armors
+ ###########################
+ # Crystal-Merged
+ SMALL_TFW_CRYSTAL_ARMOR_3:0 "小型晶体融合电镀"
+ MEDIUM_TFW_CRYSTAL_ARMOR_3:0 "中型晶体融合电镀"
+ LARGE_TFW_CRYSTAL_ARMOR_3:0 "大型晶体融合电镀"
+ TFW_CRYSTAL_ARMOR_3:0 "晶体融合电镀"
+ TFW_CRYSTAL_ARMOR_3_DESC:0 "这种电镀提高了船体结构的耐久性。"
+ tech_tfw_crystal_armor_3:0 "晶体多金属"
+ tech_tfw_crystal_armor_3_desc:0 "我们对晶体扩散过程的进一步实验给了我们新的方法来提高船体结构的耐久性。\n\n"
+ # Crystalline Alloy 
+ SMALL_TFW_CRYSTAL_ARMOR_4:0 "小型晶体扩散电镀"
+ MEDIUM_TFW_CRYSTAL_ARMOR_4:0 "中型晶体扩散电镀"
+ LARGE_TFW_CRYSTAL_ARMOR_4:0 "大型晶体扩散电镀"
+ TFW_CRYSTAL_ARMOR_4:0 "晶体扩散电镀"
+ TFW_CRYSTAL_ARMOR_4_DESC:0 "这种电镀提高了船体结构的耐久性。"
+ tech_tfw_crystal_armor_4:0 "水晶扩散"
+ tech_tfw_crystal_armor_4_desc:0 "我们对水晶细胞的研究可以帮助我们改进我们的水晶电镀技术，提高船体结构的耐久性。\n\n"
+
+ # Dragon Scale Armor 
+ SMALL_TFW_DRAGON_ARMOR_2:0 "小型加强龙鳞电镀"
+ MEDIUM_TFW_DRAGON_ARMOR_2:0 "中型加强龙鳞电镀"
+ LARGE_TFW_DRAGON_ARMOR_2:0 "大型加强龙鳞电镀"
+ TFW_DRAGON_ARMOR_2:0 "加强龙鳞电镀"
+ TFW_DRAGON_ARMOR_2_DESC:0 "通过对龙鳞片分子生长的干扰，可以达到进一步强化的目的。"
+ tech_tfw_dragon_armor_2:0 "龙鳞强化"
+ tech_tfw_dragon_armor_2_desc:0 "通过对龙鳞片分子生长的干扰，可以达到进一步强化的目的。\n\n"
+ 
+ ###########################
+ # Advanced Armors
+ ###########################
+ #Adv Armor
+ TFW_ARMOR_6:0 "中子合金装甲"
+ TFW_ARMOR_6_DESC:0 "采用一些合金元素提高了高密度紧凑的微中子网格。"
+ SMALL_TFW_ARMOR_6:0 "小型中子合金装甲"
+ MEDIUM_TFW_ARMOR_6:0 "中型中子合金装甲"
+ LARGE_TFW_ARMOR_6:0 "大型中子合金装甲"
+ tech_tfw_ship_armor_6:0 "中子合金"
+ tech_tfw_ship_armor_6_desc:0 "由于它的体式，它很难处理。尽管如此，我们已经开发了一套特殊的工艺流程，以制造出特别耐用的中子合金。\n\n"
+ 
+ TFW_ARMOR_7:0 "奇异装甲"
+ TFW_ARMOR_7_DESC:0 "由几层紧密包裹的奇异物质组成。"
+ SMALL_TFW_ARMOR_7:0 "小型奇异装甲"
+ MEDIUM_TFW_ARMOR_7:0 "中型奇异装甲"
+ LARGE_TFW_ARMOR_7:0 "大型奇异装甲"
+ tech_tfw_ship_armor_7:0 "奇异夸克"
+ tech_tfw_ship_armor_7_desc:0 "奇异微子是小型片段奇怪的物质和由几种夸克组成。从暗物质中提取奇异物质并将其组装成紧凑的集群，我们可以创造一种全新的舰船装甲。\n\n"
+
+ TFW_ARMOR_8:0 "超子装甲"
+ TFW_ARMOR_8_DESC:0 "更先进的盔甲，使用奇异的夸克制造。"
+ SMALL_TFW_ARMOR_8:0 "小型超子装甲"
+ MEDIUM_TFW_ARMOR_8:0 "中型超子装甲"
+ LARGE_TFW_ARMOR_8:0 "大型超子装甲"
+ tech_tfw_ship_armor_8:0 "超子物质"
+ tech_tfw_ship_armor_8_desc:0 "超子是一种奇异的物质，它们可以聚集在更密集的装甲团中。\n\n"
+
+ TFW_ARMOR_9:0 "戴巴利安装甲"
+ TFW_ARMOR_9_DESC:0 "高耐久稳定的戴巴利安装甲."
+ SMALL_TFW_ARMOR_9:0 "小型戴巴利安装甲"
+ MEDIUM_TFW_ARMOR_9:0 "中型戴巴利安装甲"
+ LARGE_TFW_ARMOR_9:0 "大型戴巴利安装甲"
+ tech_tfw_ship_armor_9:0 "戴巴利安稳定"
+ tech_tfw_ship_armor_9_desc:0 "提高舰船装甲的更复杂的方法是使用稳定的高能戴巴利安变换及其强大的核力。\n\n"
+
+ TFW_ARMOR_10:0 "戴巴利安合金装甲"
+ TFW_ARMOR_10_DESC:0 "先进的装甲类型，使用特殊的戴巴利安合金。"
+ SMALL_TFW_ARMOR_10:0 "小型戴巴利安合金装甲"
+ MEDIUM_TFW_ARMOR_10:0 "中型戴巴利安合金装甲"
+ LARGE_TFW_ARMOR_10:0 "大型戴巴利安合金装甲"
+ tech_tfw_ship_armor_10:0 "戴巴利安合金"
+ tech_tfw_ship_armor_10_desc:0 "我们的技术进步使我们能够制造出可用于新型装甲的戴巴利安合金。\n\n"
+
+ #####BIO ARMOR#####
+ TFW_BIOARMOR_1:0 "生物装甲"
+ TFW_BIOARMOR_1_DESC:0 "这种装甲结合了快速的船体再生和适当的结构强度。"
+ SMALL_TFW_BIOARMOR_1:0 "小型生物装甲"
+ MEDIUM_TFW_BIOARMOR_1:0 "中型生物装甲"
+ LARGE_TFW_BIOARMOR_1:0 "大型生物装甲"
+ tech_tfw_bioarmor_1:0 "生物装甲"
+ tech_tfw_bioarmor_1_desc:0 "我们在加速细胞复制方面的进展使我们能够创造一种新的装甲，它将为我们提供快速的船体再生和适当的结构强度。\n\n"
+ 
+ TFW_BIOARMOR_2:0 "改进的生物装甲"
+ TFW_BIOARMOR_2_DESC:0 "这种装甲结合了快速的船体再生和一个突出的结构强度。"
+ SMALL_TFW_BIOARMOR_2:0 "小型改进的生物装甲"
+ MEDIUM_TFW_BIOARMOR_2:0 "中型改进的生物装甲"
+ LARGE_TFW_BIOARMOR_2:0 "大型改进的生物装甲"
+ tech_tfw_bioarmor_2:0 "改进的生物装甲"
+ tech_tfw_bioarmor_2_desc:0 "生物装甲的进一步发展使我们能够提高其结构强度，保持其快速的再生能力。\n\n"
+
+ #####PSI ARMOR#####
+ TFW_PSIARMOR_1:0 "灵能装甲"
+ TFW_PSIARMOR_1_DESC:0 "它装备了灵能能量发射器来阻挡一部分受到的伤害。通过消耗灵能能量也增加了舰船的能量护盾。"
+ SMALL_TFW_PSIARMOR_1:0 "小型灵能装甲"
+ MEDIUM_TFW_PSIARMOR_1:0 "中型灵能装甲"
+ LARGE_TFW_PSIARMOR_1:0 "大型灵能装甲"
+ tech_tfw_psiarmor_1:0 "灵能装甲"
+ tech_tfw_psiarmor_1_desc:0 "在装甲框架中使用最简单的灵能发射器可以生成一些小的灵能能量来阻挡攻击以提升装甲的防护效果。\n\n"
+ 
+ TFW_PSIARMOR_2:0 "改良型灵能装甲"
+ TFW_PSIARMOR_2_DESC:0 "它装备了灵能能量发射器,可以更有效地阻挡受到的伤害。通过消耗灵能能量也增加了舰船的能量护盾。"
+ SMALL_TFW_PSIARMOR_2:0 "小型改良型灵能装甲"
+ MEDIUM_TFW_PSIARMOR_2:0 "中型改良型灵能装甲"
+ LARGE_TFW_PSIARMOR_2:0 "大型改良型灵能装甲"
+ tech_tfw_psiarmor_2:0 "改良型灵能装甲"
+ tech_tfw_psiarmor_2_desc:0 "强化灵能发射器使这种装甲更有效地吸收伤害。\n\n"
+ 
+ ################################################################################
+ # WEAPONS #####
+ 
+ #Energy Torpedoes 3
+ TFW_ENERGY_TORPEDO_3:0 "氘核鱼雷"
+ TFW_ENERGY_TORPEDO_3_DESC:0 "这些鱼雷装备了氘核，它们对任何装甲的原子结构都是有效的。"
+ tech_tfw_energy_torpedoes_3:0 "氘核鱼雷"
+ tech_tfw_energy_torpedoes_3_desc:0 "如果我们能够加速氘的核物质，它可以有效的对抗船体结构。\n\n"
+
+ #Energy Torpedoes 4
+ TFW_ENERGY_TORPEDO_4:0 "氚鱼雷"
+ TFW_ENERGY_TORPEDO_4_DESC:0 "这些鱼雷装备有氚炸弹，这使得它们对船体结构非常有效。"
+ tech_tfw_energy_torpedoes_4:0 "氚鱼雷"
+ tech_tfw_energy_torpedoes_4_desc:0 "氚弹头具有更强的破坏力，可轻易取代氘弹头。但是最主要难点在于氚的大量生产。\n\n"
+
+ #KINETIC_ARTILLERY_3
+ TFW_KINETIC_ARTILLERY_3:0 "高斯大炮"
+ TFW_KINETIC_ARTILLERY_3_DESC:0 "改进的大型高斯炮"
+ tech_tfw_kinetic_artillery_3:0 "高斯大炮"
+ tech_tfw_kinetic_artillery_3_desc:0 "有一些方法可以改进我们的基于高斯的枪支系统，使它们更有效。\n\n"
+
+ #KINETIC_ARTILLERY_4
+ TFW_KINETIC_ARTILLERY_4:0 "先进高斯巨炮"
+ TFW_KINETIC_ARTILLERY_4_DESC:0 "用于重型火炮平台的先进高斯系统。"
+ tech_tfw_kinetic_artillery_4:0 "先进高斯巨炮"
+ tech_tfw_kinetic_artillery_4_desc:0 "下一代高斯巨炮拥有先进的炮塔装填装置和许多其他小改进。\n\n"
+
+ #LASERSTORM
+ SMALL_TFW_LASERSTORM:0 "小型激光风暴"
+ MEDIUM_TFW_LASERSTORM:0 "中型激光风暴"
+ LARGE_TFW_LASERSTORM:0 "大型激光风暴"
+ TFW_LASERSTORM:0 "激光风暴"
+ TFW_LASERSTORM_DESC:0 "快速激光平台"
+ tech_tfw_laserstorm:0 "快速激光"
+ tech_tfw_laserstorm_desc:0 "研究新的冷却方法将大大提高我们激光平台的发射率。.\n\n"
+
+ #ADV_LASERSTORM
+ SMALL_TFW_ADV_LASERSTORM:0 "小型激光漩涡"
+ MEDIUM_TFW_ADV_LASERSTORM:0 "中型激光漩涡"
+ LARGE_TFW_ADV_LASERSTORM:0 "大型激光漩涡"
+ TFW_ADV_LASERSTORM:0 "激光漩涡"
+ TFW_ADV_LASERSTORM_DESC:0 "改进的快速激光平台"
+ tech_tfw_adv_laserstorm:0 "先进的快速激光"
+ tech_tfw_adv_laserstorm_desc:0 "有一些方法可以改进我们的快速激光平台。\n\n"
+
+ #GAUSS_MORTAR
+ SMALL_TFW_GAUSS_MORTAR:0 "小型高斯迫击炮"
+ MEDIUM_TFW_GAUSS_MORTAR:0 "中型高斯迫击炮"
+ LARGE_TFW_GAUSS_MORTAR:0 "大型高斯迫击炮"
+ TFW_GAUSS_MORTAR:0 "高斯迫击炮"
+ TFW_GAUSS_MORTAR_DESC:0 "下一代的基于高斯的武器平台。"
+ tech_tfw_gauss_6:0 "高斯武器"
+ tech_tfw_gauss_6_desc:0 "改进的高斯加速系统将会增加发射的速度，从而能够过载和部分穿透敌人的能量护盾。\n\n"
+
+ #GAUSS_HOWITZER
+ SMALL_TFW_GAUSS_HOWITZER:0 "小型高斯榴弹炮"
+ MEDIUM_TFW_GAUSS_HOWITZER:0 "中型高斯榴弹炮"
+ LARGE_TFW_GAUSS_HOWITZER:0 "大型高斯榴弹炮"
+ TFW_GAUSS_HOWITZER:0 "高斯榴弹炮"
+ TFW_GAUSS_HOWITZER_DESC:0 "反盾角色高斯武器增加了炮弹的速度。"
+ tech_tfw_gauss_7:0 "超加速度"
+ tech_tfw_gauss_7_desc:0 "下一个版本的高斯迫击炮将弹丸的速度增加,能够过载和更有效地穿透敌人的能量护盾。\n\n"
+ 
+ #AUTOCANNON_4
+ TFW_AUTOCANNON_4:0 "火神自动加农炮"
+ TFW_AUTOCANNON_4_DESC:0 "接下来，改进了快速旋转自动火炮的模式。"
+ tech_tfw_autocannons_4:0 "火神自动加农炮"
+ tech_tfw_autocannons_4_desc:0 "我们可以用新的桶和供应系统进一步改进我们的自动加农炮，提高它们的战斗力。\n\n"
+ 
+ #AUTOCANNON_5
+ TFW_AUTOCANNON_5:0 "雷电自动火炮"
+ TFW_AUTOCANNON_5_DESC:0 "快速旋转自动火炮最有效的模式。"
+ tech_tfw_autocannons_5:0 "雷电自动火炮"
+ tech_tfw_autocannons_5_desc:0 "我们仍然可以为我们的自动加农炮实现一些技术解决方案来改进它们。\n\n"
+ 
+ #AUTOCANNON_6
+ TFW_AUTOCANNON_6:0 "复仇者自动炮"
+ TFW_AUTOCANNON_6_DESC:0 "这是快速旋转式自动炮的进一步发展。"
+ tech_tfw_autocannons_6:0 "复仇者自动炮"
+ tech_tfw_autocannons_6_desc:0 "又一个成功的技术解决方案可以改善我们的旋转式自动炮的特性。\n\n"
+ 
+ #Missiles
+ #Energon Missile Launcher
+ TFW_AA_MISSILE_1:0 "能量导弹"
+ TFW_AA_MISSILE_1_DESC:0 "这些高爆的导弹使用能量炸药摧毁敌方舰上所有的装甲。"
+ tech_tfw_aa_missiles_1:0 "能量导弹"
+ tech_tfw_aa_missiles_1_desc:0 "我们的火箭导弹可以装载能量，这将大大增加他们的装甲穿透能力。\n\n"
+
+ #Grinder Missile Launcher
+ TFW_AA_MISSILE_2:0 "研磨导弹"
+ TFW_AA_MISSILE_2_DESC:0 "这些导弹混合了许多不同的先进化合物制造了毁灭性的爆炸。"
+ tech_tfw_aa_missiles_2:0 "研磨导弹"
+ tech_tfw_aa_missiles_2_desc:0 "研磨导弹使用多种不同的高级化合物混合，在敌人的护盾后面制造毁灭性的爆炸。\n\n"
+ 
+ #Tandem Missile Launcher
+ TFW_AS_MISSILE_1:0 "凯勒导弹"
+ TFW_AS_MISSILE_1_DESC:0 "这些导弹能部分穿透装甲。由于它们的质量，它们在导弹和鱼雷之间占据了中间位置。"
+ tech_tfw_as_missiles_1:0 "串联弹头"
+ tech_tfw_as_missiles_1_desc:0 "这些导弹具有特殊的设计的中微子弹头穿透装甲层，而大部分的炸药则发射到飞船的内部结构中。然而，它们的大量增加会产生消极的后果。\n\n"
+
+ #Dybarion Tandem Missiles
+ TFW_AS_MISSILE_2:0 "超子凯勒导弹"
+ TFW_AS_MISSILE_2_DESC:0 "这些导弹能部分穿透装甲。由于它们的质量，它们在导弹和鱼雷之间占据了中间位置。"
+ tech_tfw_as_missiles_2:0 "超子凯勒导弹"
+ tech_tfw_as_missiles_2_desc:0 "高密度的超离子物质比中性离子好得多，并且允许我们增加电荷的质量，使导弹的总质量保持在同一水平。\n\n"
+
+ #Swarmer Missiles
+ TFW_SWARMER_MISSILE_3:0 "台风导弹"
+ TFW_SWARMER_MISSILE_3_DESC:0 "进一步发展具有增强弹头的旋风式导弹系统。"
+ tech_tfw_swarmer_missiles_3:0 "台风导弹"
+ tech_tfw_swarmer_missiles_3_desc:0 "进一步发展的旋风式导弹和增强的弹头使我们进入这种先进的导弹系统。\n\n"
+ 
+ #Vortex Missiles
+ TFW_SWARMER_MISSILE_4:0 "涡旋导弹"
+ TFW_SWARMER_MISSILE_4_DESC:0 "进一步发展具有增强弹头的旋风式导弹系统。"
+ tech_tfw_swarmer_missiles_4:0 "涡旋导弹"
+ tech_tfw_swarmer_missiles_4_desc:0 "我们改进了导弹制导系统以提高我们的导弹的有效性。\n\n"
+ 
+ #Tempest Missiles
+ TFW_SWARMER_MISSILE_5:0 "暴风导弹"
+ TFW_SWARMER_MISSILE_5_DESC:0 "进一步发展具有增强弹头的旋风式导弹系统。"
+ tech_tfw_swarmer_missiles_5:0 "暴风导弹"
+ tech_tfw_swarmer_missiles_5_desc:0 "这是我们的导弹系统的进一步改进。\n\n"
+ 
+ #Mother Tech for PT
+ tech_tfw_pt:0 "等离子体容器"
+ tech_tfw_pt_desc:0 "引导等离子体容器允许我们开发一些新型的等离子武器。\n\n"
+ TECH_UNLOCK_PT_TITLE:0 "§H解锁发展:§! 等离子导弹"
+ TECH_UNLOCK_PT_DESC:0 "等离子体导弹不能穿透敌人的护盾，但它们对装甲和船体结构造成非常高的伤害。"
+
+ #Plasma Missiles
+ SMALL_TFW_P_T1:0 "小型等离子导弹"
+ MEDIUM_TFW_P_T1:0 "中型等离子导弹"
+ LARGE_TFW_P_T1:0 "大型等离子导弹"
+ TFW_P_T1:0 "等离子导弹"
+ TFW_P_T1_DESC:0 "等离子导弹不能穿透敌人的护盾，但它们对装甲和船体结构造成非常高的伤害。它们可以放置在任何武器槽中，以压倒敌人的防御系统。"
+ tech_tfw_pt1:0 "等离子导弹"
+ tech_tfw_pt1_desc:0 "我们可以发展特殊的等离子导弹，结合一些等离子和导弹武器的好处。\n\n"
+
+ #Adv. Plasma Missiles
+ SMALL_TFW_P_T2:0 "小型QGP导弹"
+ MEDIUM_TFW_P_T2:0 "中型QGP导弹"
+ LARGE_TFW_P_T2:0 "大型QGP导弹"
+ TFW_P_T2:0 "QGP导弹"
+ TFW_P_T2_DESC:0 "这些导弹使用高能等离子体物质，称为“夸克汤”，对装甲和船体结构造成严重伤害。它们可以放置在任何武器槽中，以压倒敌人的防御系统。"
+ tech_tfw_pt2:0 "夸克胶子等离子体"
+ tech_tfw_pt2_desc:0 "使用高能夸克-胶子等离子体的等离子导弹,我们将大大增加他们的伤害。\n\n"
+ 
+ #Torpedoes
+ #Antimatter Torpedoes
+ TFW_TORPEDO_4:0 "反物质鱼雷"
+ TFW_TORPEDO_4_DESC:0 "这种鱼雷装备有反物质弹头，可以穿透敌人的护盾。"
+ tech_tfw_torpedoes_4:0 "反物质鱼雷"
+ tech_tfw_torpedoes_4_desc:0 "我们的鱼雷武器的进一步发展，使用反物质湮灭过程的新型弹头，对船体结构造成更大的破坏。\n\n"
+ 
+ #Darkmatter Torpedoes
+ TFW_TORPEDO_5:0 "暗物质鱼雷"
+ TFW_TORPEDO_5_DESC:0 "这些鱼雷装备有暗物质，可以穿透敌人的护盾。"
+ tech_tfw_torpedoes_5:0 "暗物质鱼雷"
+ tech_tfw_torpedoes_5_desc:0 "我们的鱼雷武器的进一步发展使用了新的一种弹头，利用暗物质湮灭过程对船体结构造成额外的伤害。\n\n"
+ 
+ #Strangelet Torpedoes
+ TFW_TORPEDO_6:0 "奇异夸克鱼雷"
+ TFW_TORPEDO_6_DESC:0 "这些鱼雷配备了奇异物质，可以穿透敌人的护盾。"
+ tech_tfw_torpedoes_6:0 "奇异夸克鱼雷"
+ tech_tfw_torpedoes_6_desc:0 "这些鱼雷的特殊弹头在爆炸中产生了奇怪的物质，造成了长期的破坏过程。\n\n"
+ 
+ #STORMFIRE PD
+ TFW_STORMFIRE_PD:0 "尖端防御堡垒"
+ TFW_STORMFIRE_PD_DESC:0 "改进的速射防御系统为我们提供了更大的防御导弹和攻击艇。"
+ tech_tfw_stormfire_pd:0 "尖端防御堡垒"
+ tech_tfw_stormfire_pd_desc:0 "这一改进的快速防御系统将为我们提供更大的防御敌人导弹和攻击舰。\n\n"
+
+ #Peacekeeper P-D
+ TFW_PEACEKEEPER:0 "中介尖端防御"
+ TFW_PEACEKEEPER_DESC:0 "激光点防御系统，具有较高的精度和战斗力。"
+ tech_tfw_peacekeeper:0 "中介尖端防御"
+ tech_tfw_peacekeeper_desc:0 "先进的冷却系统可以改进激光点防御武器。\n\n"
+
+ TFW_PEACEKEEPER_2:0 "维和点防御"
+ TFW_PEACEKEEPER_2_DESC:0 "在点防御系统中的另一个进步。"
+ tech_tfw_peacekeeper_2:0 "维和点防御"
+ tech_tfw_peacekeeper_2_desc:0 "我们可以进一步改进我们的激光点防御和新的轻型发射室。\n\n"
+  
+ #FLAK 4
+ TFW_FLAK_4:0 "先进的防空炮"
+ TFW_FLAK_4_DESC:0 "这是一个改良版的标准高炮。"
+ tech_tfw_flak_batteries_4:0 "先进的防空炮"
+ tech_tfw_flak_batteries_4_desc:0 "新的炮筒和补给系统将使它更有效地对付敌人的导弹和攻击艇。\n\n"
+ 
+ #PHASERS
+ SMALL_TFW_PHASER_1:0 "小型微波激射枪"
+ MEDIUM_TFW_PHASER_1:0 "中型微波激射枪"
+ LARGE_TFW_PHASER_1:0 "大型微波激射枪"
+ TFW_PHASER_1:0 "微波激射枪"
+ TFW_PHASER_1_DESC:0 "这种武器在很短的范围内非常有效。"
+ tech_tfw_phaser_1:0 "微波激射枪"
+ tech_tfw_phaser_1_desc:0 "微波激射器是一种微波发生器，可以安装在我们的船上作为特殊的短程武器。它们能成功穿透护盾阵列和装甲结构。\n\n"
+ 
+ SMALL_TFW_PHASER_2:0 "小型相位枪"
+ MEDIUM_TFW_PHASER_2:0 "中型相位枪"
+ LARGE_TFW_PHASER_2:0 "大型相位枪"
+ TFW_PHASER_2:0 "相位枪"
+ TFW_PHASER_2_DESC:0 "新一代的微波激射枪具有更高的损伤属性。"
+ tech_tfw_phaser_2:0 "相位转换"
+ tech_tfw_phaser_2_desc:0 "脉泽武器的发展为我们提供了一些不平凡的微波放大方法。这一技术采用了特殊的相位跳跃技术，该技术可获得额外的高能脉冲发射穿透盾阵列和装甲结构。\n\n"
+ 
+ SMALL_TFW_PHASER_3:0 "小型波形相位器"
+ MEDIUM_TFW_PHASER_3:0 "中型波形相位器"
+ LARGE_TFW_PHASER_3:0 "大型波形相位器"
+ TFW_PHASER_3:0 "波形相位器"
+ TFW_PHASER_3_DESC:0 "波形相位器在短距离内，仍然是致命的，有效地穿透敌人的护盾。"
+ tech_tfw_phaser_3:0 "波形相位器s"
+ tech_tfw_phaser_3_desc:0 "应用波干涉我们的移相器我们可以设计强大的武器相位枪,能够很有效的穿透敌人的护盾和装甲。\n\n"
+ 
+ #Phase Spear
+ MEDIUM_TFW_PHASE_SPEAR:0 "中型相位矛"
+ LARGE_TFW_PHASE_SPEAR:0 "大型相位矛"
+ TFW_PHASE_SPEAR:0 "相位矛"
+ TFW_PHASE_SPEAR_DESC:0 "发射高相干波，对能量场和装甲非常有效."
+ tech_tfw_phase_spear:0 "相位放大"
+ tech_tfw_phase_spear_desc:0 "分相波的放大将导致精确的相位武器，对船体结构更有效。\n\n"
+ 
+ ##################SYNTH COMMON WEAPONS####################
+ #Molecular Crusher I
+ TFW_MOL_CRUSHER_S_1:0 "小型物质溶剂"
+ TFW_MOL_CRUSHER_M_1:0 "中型物质溶剂"
+ TFW_MOL_CRUSHER_L_1:0 "物质溶剂"
+ TFW_MOL_CRUSHER_1:0 "物质溶剂"
+ TFW_MOL_CRUSHER_1_DESC:0 "精心设计的在分子水平上破坏各种无机和有机化合物。"
+ tech_tfw_molecular_crusher_1:0 "战斗电磁学"
+ tech_tfw_molecular_crusher_1_desc:0 "似乎有可能产生和引导强大的电磁场，在敌人的舰船装甲中摧毁分子键。\n\n"
+
+ TFW_MOL_CRUSHER_S_2:0 "小型电磁干扰器"
+ TFW_MOL_CRUSHER_M_2:0 "中型电磁干扰器"
+ TFW_MOL_CRUSHER_L_2:0 "大型电磁干扰器"
+ TFW_MOL_CRUSHER_2:0 "电磁干扰器"
+ TFW_MOL_CRUSHER_2_DESC:0 "它显着改进以摧毁各种物质。不管那有多少有机生命。"
+ tech_tfw_molecular_crusher_2:0 "电磁干扰器"
+ tech_tfw_molecular_crusher_2_desc:0 "这种武器使用更强大的发电机向目标发射更强的电磁场。\n\n"
+ 
+ TFW_MOL_CRUSHER_L_3:0 "分子破碎器"
+ TFW_MOL_CRUSHER_3:0 "分子破碎器"
+ TFW_MOL_CRUSHER_3_DESC:0 "大型分子粉碎器产生强大的电磁场造成更大的伤害。"
+ tech_tfw_molecular_crusher_3:0 "分子破碎器"
+ tech_tfw_molecular_crusher_3_desc:0 "分子破碎器产生强大的电磁场造成更大的伤害。但它对护盾仍然没有那么有效。\n\n"
+   
+ ################################################ADVANCED TYPES OF WEAPONS###################################################################################
+ #MOTHER TECH FOR SYNT RESEARCHES
+ tech_tfw_adv_weapons:0 "先进的舰船模块"
+ tech_tfw_adv_weapons_desc:0 "有许多不同的技术解决方案可以应用于提高舰船系统的效率。\n\n"
+ TECH_UNLOCK_ADV_WEAPONS_TITLE:0 "§H解锁发展:§! 先进的舰船部件类型。"
+ TECH_UNLOCK_ADV_WEAPONS_DESC:0 "先进的舰船组件将帮助我们创造和维护强大的空间舰队。"
+
+ #MOTHER TECH FOR PSI RESEARCHES
+ tech_tfw_focused_psi_flows:0 "聚焦Psi流"
+ tech_tfw_focused_psi_flows_desc:0 "我们的灵能材料。我们可以在战斗中使用我们的灵能，我们只需要为我们的心灵能量发明一些聚焦的元素。\n\n"
+ TECH_UNLOCK_PSI_WEAPONS_TITLE:0 "§H解锁发展:§! 先进的灵能技术。"
+ TECH_UNLOCK_PSI_WEAPONS_DESC:0 "我们的神用这独特的武器祝福我们!这听起来令人难以置信，但专注的心灵能量可以有效地用于我们的武器系统。"
+
+ #MOTHER TECH FOR BIO RESEARCHES
+ tech_tfw_rapid_cell_replication:0 "加速细胞复制"
+ tech_tfw_rapid_cell_replication_desc:0 "加速细胞复制将允许我们使用特殊的小型生物武器来制造不同类型的生物武器，这些生物武器可以在我们的舰船上安装到武器系统中。\n\n"
+ TECH_UNLOCK_BIO_WEAPONS_TITLE:0 "§H解锁发展:§! 生物战斗技术."
+ TECH_UNLOCK_BIO_WEAPONS_DESC:0 "战斗生物技术可以给我们提供新的作战战术，在空间和陆战上非常有用。也有一些方法来开发具有特殊能力的新型装甲。"
+  
+ #BIOCANNON
+ SMALL_TFW_BIOCANNON:0 "小型生物武器"
+ MEDIUM_TFW_BIOCANNON:0 "中型生物武器"
+ LARGE_TFW_BIOCANNON:0 "大型生物武器"
+ TFW_BIOCANNON:0 "生物武器"
+ TFW_BIOCANNON_DESC:0 "这种武器发射凝厚的硅基微生物造成大型船装甲受损。此外，它们还积极吸收能量场，也有效地削弱了护盾阵列。"
+ tech_tfw_biocannon:0 "空间生物武器"
+ tech_tfw_biocannon_desc:0 "厚凝硅为基础的微生物地引起大型船装甲受损。此外，它们还积会收能量场，也有效地削弱了护盾阵列。\n\n"
+ 
+ #PSICANNON
+ SMALL_TFW_PSICANNON:0 "小型Psi大炮"
+ MEDIUM_TFW_PSICANNON:0 "中型Psi大炮"
+ LARGE_TFW_PSICANNON:0 "大型Psi大炮"
+ TFW_PSICANNON:0 "Psi大炮"
+ TFW_PSICANNON_DESC:0 "这种武器产生一种特殊的灵能场，对护盾和装甲同样有效。"
+ tech_tfw_psicannon:0 "灵能武器"
+ tech_tfw_psicannon_desc:0 "Psi大炮产生一种特殊的灵能场，同样有效地对抗护盾和装甲。\n\n"
+ 
+ #GRAVICANNON
+ SMALL_TFW_GRAVICANNON:0 "小型重力加农炮"
+ MEDIUM_TFW_GRAVICANNON:0 "中型重力加农炮"
+ LARGE_TFW_GRAVICANNON:0 "大型重力加农炮"
+ TFW_GRAVICANNON:0 "重力加农炮"
+ TFW_GRAVICANNON_DESC:0 "这种武器产生一个强大的速子场，同样有效地对付护盾和装甲。"
+ tech_tfw_gravicannon:0 "重力武器"
+ tech_tfw_gravicannon_desc:0 "重力场产生一个强的速子场，同样有效地对抗护盾和装甲。\n\n"
+ 
+ #Tachyonic Destabilizer Aura
+ TFW_JAMMER_AURA:0 "快速稳定剂"
+ TFW_JAMMER_AURA_DESC:0 "创造了一个如此强大的超音域，使它能够克服能量护盾，并对舰船表面的不同模块造成伤害。§E注意:损坏适用于没有特殊保护的所有船舶(也包括在这个复杂的模块中)。§!"
+ TFW_NSC_JAMMER_AURA:0 "快速稳定剂"
+ TFW_NSC_JAMMER_AURA_DESC:0 "创造一个强大能量瞬变场，以便它能够克服能量护盾并对舰船表面上的不同模块造成伤害.§E注意：伤害适用于没有特殊保护的范围内的所有舰船（这也包含在这个复杂的模块中）.§!"
+ tech_tfw_jammer:0 "快速稳定剂"
+ tech_tfw_jammer_desc:0 "这一来源创造了一个如此巨大的能量的超音域，因此它能够克服能量屏蔽和对舰船表面的不同模块造成伤害。§E注意:损坏适用于没有特殊保护的所有船舶(也包括在这个复杂的模块中)。§!\n\n"
+ tfw_aura_jammer:0 "速度干扰"
+ 
+ #Attractor Aura
+ TFW_ATTRACTOR_AURA:0 "吸引子模块"
+ TFW_ATTRACTOR_AURA_DESC:0 "使用有方向性的引力子。造成了当地的重力坑，影响了许多船的特性。"
+ TFW_NSC_ATTRACTOR_AURA:0 "吸引子模块"
+ TFW_NSC_ATTRACTOR_AURA_DESC:0 "使用定向流量引力子。产生局部重力坑，对陷入其中的船舶的一些特性产生不利影响。"
+ tech_tfw_attractor:0 "吸引子模块"
+ tech_tfw_attractor_desc:0 "这个独特的模块使用了强定向的引力子。它造成了当地的重力坑，影响了许多船只的特征。\n\n"
+ tfw_aura_attractor:0 "引力湍流"
+ 
+ #############NEXT TIER#######################
+ #Devourer Torpedoes
+ TFW_INFECTOR:0 "吞食者鱼雷"
+ TFW_INFECTOR_DESC:0 "这些远程有机鱼雷非常有效地对付装甲舰艇，并能穿透能量护盾。"
+ tech_tfw_infector:0 "吞食者鱼雷"
+ tech_tfw_infector_desc:0 "战斗生物技术的进一步发展为我们提供了一种特殊的远程有机鱼雷，它对装甲船的外壳非常有效，可以穿透能量护盾。\n\n"
+ 
+ #PSILANCE
+ TFW_PSILANCE:0 "Psi光矛"
+ TFW_PSILANCE_DESC:0 "发出高范围的灵能自然的强大流动，同样有效的对抗护盾和装甲。"
+ tech_tfw_psilance:0 "Psi光矛"
+ tech_tfw_psilance_desc:0 "灵能武器的进一步发展，将产生具有先进能力的远程武器。\n\n"
+ 
+ #GRAVILANCE
+ TFW_GRAVILANCE:0 "引力光矛"
+ TFW_GRAVILANCE_DESC:0 "发射一种高范围的引力子，它对护盾和装甲同样有效。"
+ tech_tfw_gravilance:0 "引力光矛"
+ tech_tfw_gravilance_desc:0 "引力的进一步发展，产生了具有先进能力的远程武器。\n\n"
+ 
+ #KINETIC_HAMMER
+ TFW_KINETIC_HAMMER:0 "动力锤"
+ TFW_KINETIC_HAMMER_DESC:0 "这种大型炮是最有效的动能武器，它使用特殊合金弹丸。"
+ tech_tfw_kinetic_hammer:0 "动力锤"
+ tech_tfw_kinetic_hammer_desc:0 "经过研究我们可以升级的加速系统大炮来创建一个新的层额外的大型动能武器。\n\n"
+ 
+ #ARC EMITTER III
+ TFW_ARC_EMITTER_3:0 "导弧发射极"
+ TFW_ARC_EMITTER_3_DESC:0 "这是一个高精密的发射器，增加了伤害。"
+ tech_tfw_arc_emitter_3:0 "电弧引导"
+ tech_tfw_arc_emitter_3_desc:0 "我们的弧光发射器的进一步发展引导我们引导闪电弧，在战斗中更有效。\n\n"
+ 
+ #ENERGY LANCE III
+ TFW_ENERGY_LANCE_3:0 "能量光矛"
+ TFW_ENERGY_LANCE_3_DESC:0 "能量光矛充分利用强大的能量。"
+ tech_tfw_energy_lance_3:0 "能量激发"
+ tech_tfw_energy_lance_3_desc:0 "这种武器的特殊能量电容器可以释放出更强大的速子通量，提高其战斗效率。\n\n"
+ 
+ ###########################
+ # SHIELDS
+ ###########################
+ #VI
+ TFW_STAB_HYPER_SHIELD:0 "稳定的护盾"
+ TFW_STAB_HYPER_SHIELD_DESC:0 "超护盾以质子的硬流稳定。"
+ SMALL_TFW_STAB_HYPER_SHIELD:0 "小型稳定的护盾"
+ MEDIUM_TFW_STAB_HYPER_SHIELD:0 "中型稳定的护盾"
+ LARGE_TFW_STAB_HYPER_SHIELD:0 "大型稳定的护盾"
+ tech_tfw_stab_hyper_shields:0 "超级稳定"
+ tech_tfw_stab_hyper_shields_desc:0 "有一些方法可以通过不同粒子的硬流来提高屏蔽的稳定性。\n\n"
+ 
+ #VII 
+ TFW_OPT_HYPER_SHIELD:0 "优化的超级护盾"
+ TFW_OPT_HYPER_SHIELD_DESC:0 "正电子的硬流进行了优化。"
+ SMALL_TFW_OPT_HYPER_SHIELD:0 "小型优化的超级护盾"
+ MEDIUM_TFW_OPT_HYPER_SHIELD:0 "中型优化的超级护盾"
+ LARGE_TFW_OPT_HYPER_SHIELD:0 "大型优化的超级护盾"
+ tech_tfw_opt_hyper_shields:0 "过度优化"
+ tech_tfw_opt_hyper_shields_desc:0 "用正电子的硬流来影响超护盾将进一步提高它们的强度。\n\n"
+
+ #VIII 
+ TFW_ENERGON_SHIELD:0 "能量护盾"
+ TFW_ENERGON_SHIELD_DESC:0 "这些屏蔽使用能量发射器。"
+ SMALL_TFW_ENERGON_SHIELD:0 "小型能量护盾"
+ MEDIUM_TFW_ENERGON_SHIELD:0 "中型能量护盾"
+ LARGE_TFW_ENERGON_SHIELD:0 "大型能量护盾"
+ tech_tfw_energon_shields:0 "能量辐射"
+ tech_tfw_energon_shields_desc:0 "研究能量源发射机用于盾构发电机将显著提高我们的护盾的能量能力。\n\n"
+
+ #IX 
+ TFW_CASCADE_SHIELD:0 "级联护盾"
+ TFW_CASCADE_SHIELD_DESC:0 "这些屏蔽发电机使用级联过程来维护。"
+ SMALL_TFW_CASCADE_SHIELD:0 "小型级联护盾"
+ MEDIUM_TFW_CASCADE_SHIELD:0 "中型级联护盾"
+ LARGE_TFW_CASCADE_SHIELD:0 "大型级联护盾"
+ tech_tfw_cascade_shields:0 "级联屏蔽"
+ tech_tfw_cascade_shields_desc:0 "这种类型的屏蔽产生将使用稳定的级联效应，发生在高能能量场。\n\n"
+
+ #X
+ TFW_RESONANT_SHIELD:0 "共振护盾"
+ TFW_RESONANT_SHIELD_DESC:0 "这些先进的护盾在他们的发电机中使用串联能量效应的共振。"
+ SMALL_TFW_RESONANT_SHIELD:0 "小型共振护盾"
+ MEDIUM_TFW_RESONANT_SHIELD:0 "中型共振护盾"
+ LARGE_TFW_RESONANT_SHIELD:0 "大型共振护盾"
+ tech_tfw_resonant_shields:0 "共振护盾"
+ tech_tfw_resonant_shields_desc:0 "高功率发电机级联稳定的进一步改进，使我们有可能提高护盾的有效性。\n\n"
+
+ # SPECIAL
+ # PSI (granted by Shroud)
+ TFW_PSI_SHIELD_II:0 "聚焦灵能护盾"
+ TFW_PSI_SHIELD_II_DESC:0 "改进的灵能发射器增加了我们的心灵护盾的力量。"
+ SMALL_TFW_PSI_SHIELD_II:0 "小型聚焦灵能护盾"
+ MEDIUM_TFW_PSI_SHIELD_II:0 "中型聚焦灵能护盾"
+ LARGE_TFW_PSI_SHIELD_II:0 "大型聚焦灵能护盾"
+ tech_tfw_psionic_shield_2:0 "改进的聚焦灵能护盾"
+ tech_tfw_psionic_shield_2_desc:0 "使用特殊设计的发射器，我们可以增加心灵护盾的力量。\n\n"
+ 
+ # Enigmatic (granted by FE)
+ TFW_DARK_MATTER_DEFLECTOR_II:0 "改进的暗物质护盾"
+ TFW_DARK_MATTER_DEFLECTOR_II_DESC:0 "这些屏蔽由新的发射体和利用暗物质能量的特殊设计的电容器组成。"
+ SMALL_TFW_DARK_MATTER_DEFLECTOR_II:0 "小型改进的暗物质护盾"
+ MEDIUM_TFW_DARK_MATTER_DEFLECTOR_II:0 "中型改进的暗物质护盾"
+ LARGE_TFW_DARK_MATTER_DEFLECTOR_II:0 "大型改进的暗物质护盾"
+ tech_tfw_dark_matter_deflector_2:0 "改进的暗物质护盾"
+ tech_tfw_dark_matter_deflector_2_desc:0 "改进这种精湛的技术是一项艰巨的任务，但我们的科学进步使我们能够做到这一点。\n\n"
+ 
+ ######################################################################################
+ #Zero-Point Thrusters (OBSOLETE AFTER 2.0.2)
+ TFW_SHIP_THRUSTER_5:0 "零点推进器"
+ TFW_SHIP_THRUSTER_5_DESC:0 "这些推进器利用量子真空来辅助推力。"
+ DESTROYER_TFW_SHIP_THRUSTER_5:0 "$TFW_SHIP_THRUSTER_5$"
+ DESTROYER_TFW_SHIP_THRUSTER_5_DESC:0 "$TFW_SHIP_THRUSTER_5_DESC$"
+ CRUISER_TFW_SHIP_THRUSTER_5:0 "$TFW_SHIP_THRUSTER_5$"
+ CRUISER_TFW_SHIP_THRUSTER_5_DESC:0 "$TFW_SHIP_THRUSTER_5_DESC$"
+ BATTLESHIP_TFW_SHIP_THRUSTER_5:0 "$TFW_SHIP_THRUSTER_5$"
+ BATTLESHIP_TFW_SHIP_THRUSTER_5_DESC:0 "$TFW_SHIP_THRUSTER_5_DESC$"
+ TITAN_TFW_SHIP_THRUSTER_5:0 "$TFW_SHIP_THRUSTER_5$"
+ TITAN_TFW_SHIP_THRUSTER_5_DESC:0 "$TFW_SHIP_THRUSTER_5_DESC$"
+ COLOSSUS_TFW_SHIP_THRUSTER_5:0 "$TFW_SHIP_THRUSTER_5$"
+ COLOSSUS_TFW_SHIP_THRUSTER_5_DESC:0 "$TFW_SHIP_THRUSTER_5_DESC$"
+ tech_tfw_thrusters_5:0 "零点推进器"
+ tech_tfw_thrusters_5_desc:0 "零点或量子真空推进器不需要任何推进剂，因为它们利用量子真空来辅助推力。\n\n"
+ TECH_TFW_THRUSTER_5_TITLE:0 "§H解锁组件:§! $TFW_SHIP_THRUSTER_5$"
+ TECH_TFW_THRUSTER_5_DESC:0 "$TFW_SHIP_THRUSTER_5_DESC$"
+ 
+ #Raider Thrusters
+ TFW_RAIDER_THRUSTER_1:0 "突击推进器"
+ TFW_RAIDER_THRUSTER_1_DESC:0 "这是一个优秀的推进器，对于那些喜欢打和跑战术和伏击的人来说，他们会增加亚光速，而不是一场公平的战斗。"
+ DESTROYER_TFW_RAIDER_THRUSTER_1:0 "$TFW_RAIDER_THRUSTER_1$"
+ DESTROYER_TFW_RAIDER_THRUSTER_1_DESC:0 "$TFW_RAIDER_THRUSTER_1_DESC$"
+ CRUISER_TFW_RAIDER_THRUSTER_1:0 "$TFW_RAIDER_THRUSTER_1$"
+ CRUISER_TFW_RAIDER_THRUSTER_1_DESC:0 "$TFW_RAIDER_THRUSTER_1_DESC$"
+ BATTLESHIP_TFW_RAIDER_THRUSTER_1:0 "$TFW_RAIDER_THRUSTER_1$"
+ BATTLESHIP_TFW_RAIDER_THRUSTER_1_DESC:0 "$TFW_RAIDER_THRUSTER_1_DESC$"
+ TITAN_TFW_RAIDER_THRUSTER_1:0 "$TFW_RAIDER_THRUSTER_1$"
+ TITAN_TFW_RAIDER_THRUSTER_1_DESC:0 "$TFW_RAIDER_THRUSTER_1_DESC$"
+ tech_tfw_raider_thrusters_1:0 "突击推进器"
+ tech_tfw_raider_thrusters_1_desc:0 "这种推进器的特点是速度限制明显增加，但过载的危险限制了以这种速度机动的能力，特别是对于大型船只。\n\n"
+ TECH_TFW_RAIDER_THRUSTER_1_TITLE:0 "§H解锁组件:§! $TFW_RAIDER_THRUSTER_1$"
+ TECH_TFW_RAIDER_THRUSTER_1_DESC:0 "$TFW_RAIDER_THRUSTER_1_DESC$"
+
+ TFW_RAIDER_THRUSTER_2:0 "海盗推进器"
+ TFW_RAIDER_THRUSTER_2_DESC:0 "这是一个优秀的推进器，对于那些喜欢打和跑战术和伏击的人来说，他们会增加亚光速，而不是一场公平的战斗。"
+ DESTROYER_TFW_RAIDER_THRUSTER_2:0 "$TFW_RAIDER_THRUSTER_2$"
+ DESTROYER_TFW_RAIDER_THRUSTER_2_DESC:0 "$TFW_RAIDER_THRUSTER_2_DESC$"
+ CRUISER_TFW_RAIDER_THRUSTER_2:0 "$TFW_RAIDER_THRUSTER_2$"
+ CRUISER_TFW_RAIDER_THRUSTER_2_DESC:0 "$TFW_RAIDER_THRUSTER_2_DESC$"
+ BATTLESHIP_TFW_RAIDER_THRUSTER_2:0 "$TFW_RAIDER_THRUSTER_2$"
+ BATTLESHIP_TFW_RAIDER_THRUSTER_2_DESC:0 "$TFW_RAIDER_THRUSTER_2_DESC$"
+ TITAN_TFW_RAIDER_THRUSTER_2:0 "$TFW_RAIDER_THRUSTER_2$"
+ TITAN_TFW_RAIDER_THRUSTER_2_DESC:0 "$TFW_RAIDER_THRUSTER_2_DESC$"
+ tech_tfw_raider_thrusters_2:0 "海盗推进器"
+ tech_tfw_raider_thrusters_2_desc:0 "这种推进器的特点是最高可能的速度限制，但是过载的危险限制了在这种速度下机动的能力，特别是对于大型船只。\n\n"
+ TECH_TFW_RAIDER_THRUSTER_2_TITLE:0 "§H解锁组件:§! $TFW_RAIDER_THRUSTER_2$"
+ TECH_TFW_RAIDER_THRUSTER_2_DESC:0 "$TFW_RAIDER_THRUSTER_2_DESC$"
+ 
+ #STRIKE CRAFT
+ TFW_FIGHTER_4:0 "冲击战斗机联队"
+ TFW_FIGHTER_4_DESC:0 "这些拦截器对敌人的火力会稍微持久一点，并且会对敌舰造成更大的伤害。"
+ TFW_BOMBER_4:0 "战术轰炸机联队"
+ TFW_BOMBER_4_DESC:0 "这些轰炸机对敌人的火力稍作抵抗，并对敌舰造成更大的伤害。"
+ TFW_DRONE_FIGHTER:0 "无人机战斗机联队"
+ TFW_DRONE_FIGHTER_DESC:0 "这些无人攻击型无人机由飞行员远程控制，但作战效能不高。"
+ TFW_DRONE_BOMBER:0 "无人轰炸机联队"
+ TFW_DRONE_BOMBER_DESC:0 "这些无人攻击型无人机由飞行员远程控制，但作战效能不高。"
+ TFW_PSI_FIGHTER:0 "Psi战斗机联队"
+ TFW_PSI_FIGHTER_DESC:0 "我们的飞行员可以远程控制这些无人机，而不需要太多的战斗效能。"
+ TFW_PSI_BOMBER:0 "Psi轰炸机联队"
+ TFW_PSI_BOMBER_DESC:0 "我们的飞行员可以远程控制这些无人机，而不需要太多的战斗效能。"
+ TFW_STRIKE_SWARM:0 "攻击无人机群"
+ TFW_STRIKE_SWARM_DESC:0 "这些高度智能的无人机旨在通过其数量和先进战术来克服敌人的防御。"
+ TFW_STRIKE_HIVE:0 "攻击蜂群"
+ TFW_STRIKE_HIVE_DESC:0 "这是一种先进的攻击机，完美的设计来克服敌人的防御。"
+ 
+ tech_tfw_strike_craft_4:0 "战术攻击艇"
+ tech_tfw_strike_craft_4_desc:0 "我们可以显著增加我们的攻击技能的几个参数，例如武器伤害和生存能力。\n\n"
+ tech_tfw_strike_drone:0 "打击无人机"
+ tech_tfw_strike_drone_desc:0 "这些无人攻击型无人机由飞行员远程控制，但作战效能不高。\n\n"
+ tech_tfw_psi_strike_craft:0 "Psi打击无人机"
+ tech_tfw_psi_strike_craft_desc:0 "我们的飞行员可以远程控制这些无人机，而不需要太多的战斗效能。\n\n"
+ tech_tfw_machine_strike_swarm:0 "攻击无人机群"
+ tech_tfw_machine_strike_swarm_desc:0 "这些高度智能的无人机旨在通过其数量和先进战术来克服敌人的防御。\n\n"
+ tech_tfw_strike_craft_hive:0 "攻击蜂群"
+ tech_tfw_strike_craft_hive_desc:0 "我们是最有经验的蜂群战术。我们先进的攻击机将粉碎敌人的防御。"
+ 
+ #############SENSORS#################
+ TFW_SHIP_SENSOR_5:0 "涡流传感器"
+ TFW_SHIP_SENSOR_5_DESC:0 "这些改进的速子传感器的工作范围更广，接收精度更高。"
+ tech_tfw_sensors_5:0 "涡流传感器"
+ tech_tfw_sensors_5_desc:0 "改进的带先进有效阵列的速子传感器在更大范围内工作的接收精度更高。\n\n"
+ 
+ TFW_SHIP_SENSOR_6:0 "弦传感器"
+ TFW_SHIP_SENSOR_6_DESC:0 "弦传感器接收到最近闭合的量子弦振动的信息。这些传感器能够在更大范围内工作。"
+ tech_tfw_sensors_6:0 "弦分析"
+ tech_tfw_sensors_6_desc:0 "弦理论的深入发展揭示了设计具有先进能力的传感器的几种新方法。\n\n"
+ 
+ TFW_SHIP_SENSOR_7:0 "D膜传感器"
+ TFW_SHIP_SENSOR_7_DESC:0 "这些传感器对D -膜的波动进行最深入的分析，并在非常大的范围内工作。"
+ tech_tfw_sensors_7:0 "D膜分析"
+ tech_tfw_sensors_7_desc:0 "我们对M理论的深刻理解使我们能够开发出在更大范围内完美工作的高级传感器。\n\n"
+
+ TFW_SHIP_PSI_SENSOR:0 "预测传感器"
+ TFW_SHIP_PSI_SENSOR_DESC:0 "这些传感器在数据处理中使用特殊的灵能算法，使它们能够更精确地工作。"
+ tech_tfw_psi_sensors:0 "预测传感器"
+ tech_tfw_psi_sensors_desc:0 "预测传感器在数据处理中使用特殊的灵能算法，使它们能够更精确地工作。\n\n"
+ 
+ TECH_UNLOCK_TFW_SENSOR_5_TITLE:0 "§H解锁组件:§! $TFW_SHIP_SENSOR_5$"
+ TECH_UNLOCK_TFW_SENSOR_5_DESC:0 "§H$TFW_SHIP_SENSOR_5$§!\n$TFW_SHIP_SENSOR_5_DESC$"
+ TECH_UNLOCK_TFW_SENSOR_6_TITLE:0 "§H解锁组件:§! $TFW_SHIP_SENSOR_6$"
+ TECH_UNLOCK_TFW_SENSOR_6_DESC:0 "§H$TFW_SHIP_SENSOR_6$§!\n$TFW_SHIP_SENSOR_6_DESC$"
+ TECH_UNLOCK_TFW_SENSOR_7_TITLE:0 "§H解锁组件:§! $TFW_SHIP_SENSOR_7$"
+ TECH_UNLOCK_TFW_SENSOR_7_DESC:0 "§H$TFW_SHIP_SENSOR_7$§!\n$TFW_SHIP_SENSOR_7_DESC$"
+ TECH_UNLOCK_TFW_SENSOR_8_TITLE:0 "§H解锁组件:§! $TFW_SHIP_PSI_SENSOR$"
+ TECH_UNLOCK_TFW_SENSOR_8_DESC:0 "§H$TFW_SHIP_PSI_SENSOR$§!\n$TFW_SHIP_PSI_SENSOR_DESC$"
+ 
+ ###################################
+ ###########UNIQIE STUFF###############
+ ###################################
+
+ ######################################BUILDINGS AND RESOURCES###################################
+ tech_tfw_weapon_research_center:0 "自动数据处理"
+ tech_tfw_weapon_research_center_desc:0 "自动化数据处理将有助于我们的科学家将某些职责转移到人工智能上。\n\n"
+ TECH_UNLOCK_TFW_ARC_TITLE:0 "§H解锁一些建筑:§! 自动化研究综合体, 试验场, 大型粒子对撞机, 海军材料实验室, 生物技术实验室."
+ TECH_UNLOCK_TFW_ARC_DESC:0 "先进的研究中心包括主楼和几个实验室建筑，重点研究不同的研究方向。"
+ 
+ #Buildings (ARC)
+ tfw_labhq_building: "自动化研究综合体"
+ tfw_labhq_building_desc:0 "这个主要的建筑收集和处理来自我们自动化研究实验室的所有数据。一个小型科学家进行研究与先进的人工智慧的帮助。"
+ tfw_prvngrnd_building:0 "试验场"
+ tfw_prvngrnd_building_desc:0 "根据不同的测试和满足我们的科学家的所有要求是必要的。"
+ tfw_physics_lab_building:0 "大型粒子对撞机"
+ tfw_physics_lab_building_desc:0 "这是一种专门用来研究高能粒子碰撞的装置。"
+ tfw_engineer_lab_building:0 "海军材料实验室"
+ tfw_engineer_lab_building_desc:0 "在此我们可以研究和获得具有不同价值特征的新型合金。"
+ tfw_building_biotech_lab:0 "生物技术实验室"
+ tfw_building_biotech_lab_desc:0 "这个实验室专门从事各种各样的研究，结合无机和有机化合物的优点。"
+ 
+ #Biological Warfare Labs
+ tfw_building_military_biolab:0 "军事生物实验室"
+ tfw_building_military_biolab_desc:1 "军事生物实验室与其他生物实验室合作，从事军事需求方面的科学研究。研究主要利用异星动植物的合法样本和先进的电脑模拟和模型进行。"
+ 
+ tfw_building_bioweaponry_lab:0 "生物武器实验室"
+ tfw_building_bioweaponry_lab_desc:1 "本实验室开发了不同的化学战剂，对包括非有机异种在内的各种氙气都是致命的。这是一种非常残酷的战争方式。"

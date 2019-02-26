@@ -1,0 +1,60 @@
+﻿l_simp_chinese:
+
+ ### Staggered Habitat text
+  
+ requires_sync_orbit:0 "必须建立在同步轨道上。"
+ 
+ tb_stag_hab_unbuilt_habitat:0 "£blocker  未建成的栖地"
+ tb_stag_hab_unbuilt_habitat_desc:0 "空置的地块只能等待额外的栖地建设。"
+ tb_stag_hab_unbuilt_habitat_voidborn:0 "£blocker  不稳定结构区域"
+ tb_stag_hab_unbuilt_habitat_voidborn_desc:0 "只有在太空中出生的种族才能在这里安全地进行建造。"
+ tb_stag_hab_unbuilt_habitat_master_builder:0 "£blocker  危险结构区"
+ tb_stag_hab_unbuilt_habitat_master_builder_desc:0 "我们必须要成为建筑大师之后，才能在不破坏栖地的情况下建造这一部分。"
+ tb_stag_hab_asteroid:0 "£blocker  小行星表面"
+ tb_stag_hab_asteroid_desc:0 "这一栖地位于小行星表面，需要特殊工程才能安全进入。"
+ tb_stag_hab_near_solar:0 "£blocker  近日点"
+ tb_stag_hab_near_solar_desc:0 "这一栖地的位置环绕在恒星周围的空间边缘，需要对所涉及的物理学有详细的了解才能安全进入。"
+ 
+ sr_stag_hab_sync_orbit:0 "同步轨道"
+ sr_stag_hab_sync_orbit_desc:0 "这个栖息地似乎悬停在母星轨道上，因此非常适合某些用途。"
+
+ building_stag_hab_space_elevator:0 "太空电梯"
+ building_stag_hab_space_elevator_desc:0 "在栖地和星球之间移动资源的能力对工业来说是一个巨大的好处。"
+ building_stag_hab_trading_hub:0 "轨道交易中心"
+ building_stag_hab_trading_hub_desc:0 "星球与恒星之间的商业中心。"
+ building_stag_hab_weather_control:0 "农业协调中心"
+ building_stag_hab_weather_control_desc:0 "气象卫星，并与下方的星球进行全球性的协调，最大限度地提高粮食产量。"
+ building_stag_hab_science_centre:0 "轨道科学中心"
+ building_stag_hab_science_centre_desc:0 "能够与星球上的所有研究设施进行交流，是知识和信息交流的中心。"
+ building_stag_hab_propaganda_centre:0 "宣传中心"
+ building_stag_hab_propaganda_centre_desc:0 "建立思想警察总部，监控社区和趋势，使人口保持一致。"
+ 
+ building_stag_hab_astro_mining_facility_1:0 "采矿站 I"
+ building_stag_hab_astro_mining_facility_1_desc:0 "进行基本矿物提炼和从捕获的小行星中提取。"
+ building_stag_hab_solar_power_processor_1:0 "太阳能处理器 I"
+ building_stag_hab_solar_power_processor_1_desc:0 "基本太阳能处理器分配位于栖息地外壳上的太阳能板阵列中捕获的太阳能。"
+ building_stag_hab_agri_bay_1:0 "轨道水培 I"
+ building_stag_hab_agri_bay_1_desc:0 "一部分栖地建设成了农业水培区，用于种植蔬菜——远远胜过空间补给！"
+ building_stag_hab_laboratory_module_1:0 "低重力实验室 I"
+ building_stag_hab_laboratory_module_1_desc:0 "用于在低重力下进行科学研究的栖地模块。"
+ building_stag_hab_cultural_center_1:0 "休闲区 I"
+ building_stag_hab_cultural_center_1_desc:0 "居住区用于放松的基本公共设施。"
+
+ staggered_habitat_MEGASTRUCTURE_DETAILS:1 "一个 §Y$staggered_habitat$§! 这是一个理论上自给自足的太空站，设计成随着人口的增长而扩大。"
+ staggered_habitat_CONSTRUCTION_INFO_DELAYED:2 "一个模式块的栖息地只有一个地块，只能容纳于特定的栖地 Â£building  Â§YBuildingsÂ§!."
+ staggered_habitat:0 "模块化栖地"
+ staggered_habitat_DESC:0 " Â§HPopsÂ§! 和 Â§HBuildingsÂ§! 远离表面。"
+ 
+ tech_stag_hab_asteroid_mining:0 "小行星采矿"
+ tech_stag_hab_asteroid_mining_desc:0 "一个支撑结构网络允许扩展到其他不适合居住的物体。"
+ tech_stag_hab_near_solar:0 "近日点建筑"
+ tech_stag_hab_near_solar_desc:0 "在辐射和热屏蔽方面的进步允许扩展到其他不适宜居住的地区。"
+ tech_stag_hab_increase_size1:0 "改进的栖地结构"
+ tech_stag_hab_increase_size1_desc:0 "随着我们在太空中变得更加自由，我们能够增加我们轨道栖息地的大小。"
+ tech_stag_hab_increase_size2:0 "巨大的栖地结构"
+ tech_stag_hab_increase_size2_desc:0 "我们的建造技术使轨道结构成为可能，而这在一代人前还只是科幻小说。"
+ tech_stag_hab_space_elevator:0 "太空电梯"
+ tech_stag_hab_space_elevator_desc:0 "曾经是科幻小说中的梦想，而现在我们有能力让离开这个星球不比穿越大陆困难。"
+ 
+ ### while the modifier exists, there is no text for it in vanilla
+ tile_resource_unity_add:0 "一致输出"

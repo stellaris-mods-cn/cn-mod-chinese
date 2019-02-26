@@ -1,0 +1,484 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Survey & Discovery Events
+ ###################################################
+ 
+ # Survey Events #
+ #################
+ # these are just dialogue box texts for these events, more will be added later.
+ gpm_survey.AMAZING:0 "真是令人惊叹！"
+ gpm_survey.INTERESTING:0 "有趣！"
+ gpm_survey.FASCINATING:0 "真是迷人！"
+ gpm_survey.UNBELIEVABLE:0 "难以置信。"
+ gpm_survey.INSPIRING:0 "真是鼓舞人心啊。"
+ gpm_survey.BEAUTY:0 "真是漂亮..."
+ gpm_survey.HORRIFYING:0 "真是可怕。"
+ gpm_survey.OMEN:0 "不是一个好预兆。"
+ gpm_survey.HORROR:0 "真是恐怖.."
+ gpm_survey.MASSIVE:0 "太严重了.."
+ gpm_survey.NEAT:0 "真棒!"
+ gpm_survey.LEAVE:0 "我们最好离开.."
+ gpm_survey.HELL:0 "我们最好从远处研究.."
+ gpm_survey.SEEN:0 "这听起来很熟悉.."
+ gpm_survey.SPACE:0 "\n--- 此外: ---\n"
+ gpm_survey.INVESTIGATE.0:0 "§L指导你的首席科学家以 £influence§! 重新审视这个世界§!\n--------------\n"
+ gpm_survey.INVESTIGATE.PRECURSOR_ARTIFACT_TT:0 "§L指导您的首席科学家以一些 £influence§! 重新审视这个世界的先驱者史前古器物§!\n--------------\n"
+ gpm_survey.INVESTIGATE.PRECURSOR_ARTIFACT:0 "找到§L[Root.Owner.gpm_precursor_empire_name]§!史前古器物"
+ gpm_survey.INVESTIGATE.1:0 "仔细看一下"
+ gpm_survey.INVESTIGATE.2:0 "进一步研究这个"
+ gpm_survey.INVESTIGATE.3:0 "执行额外的调查"
+ gpm_survey.INVESTIGATE.4:0 "需要进一步调查"
+ gpm_survey.INVESTIGATE.5:0 "再做一次探险"
+ gpm_survey.INVESTIGATE.6:0 "我们需要更多的信息"
+ gpm_survey.INVESTIGATE.7:0 "这个世界看起来很有趣"
+ gpm_survey.INVESTIGATE.8:0 "执行分离分析"
+
+ GPM_DISCOVERY_EXPEDITION:0 "科学家§H[From.GetLeaderName]§!将领导一次广泛的、潜在危险的科学考察，希望能有令人兴奋的发现或发现有趣的秘密。\n"
+
+ GPM_DISCOVERY_TERRAFORM_1:0 "$gpm_survey.2.name$"
+ GPM_DISCOVERY_TERRAFORM_1_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.TERRAFORM_TECH$\n$gpm_survey.REWARDS.EXPLORATION$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_TERRAFORM_2:0 "$gpm_survey.3.name$"
+ GPM_DISCOVERY_TERRAFORM_2_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.TERRAFORM_TECH$\n$gpm_survey.REWARDS.EXPLORATION$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_TERRAFORM_3:0 "$gpm_survey.4.name$"
+ GPM_DISCOVERY_TERRAFORM_3_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.TERRAFORM_TECH$\n$gpm_survey.REWARDS.EXPLORATION$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_PRECURSOR_REMNANTS:0 "$gpm_survey.5.name$"
+ GPM_DISCOVERY_PRECURSOR_REMNANTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$"
+ GPM_DISCOVERY_PRECURSOR_ENERGY_GRID:0 "$gpm_survey.6.name$"
+ GPM_DISCOVERY_PRECURSOR_ENERGY_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.ENERGY$"
+ GPM_DISCOVERY_PRECURSOR_SATTELITE_GRID:0 "$gpm_survey.7.name$"
+ GPM_DISCOVERY_PRECURSOR_SATTELITE_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.DEPOSIT$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_PRECURSOR_CITY:0 "$gpm_survey.8.name$"
+ GPM_DISCOVERY_PRECURSOR_CITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_SHIPYARD:0 "$gpm_survey.9.name$"
+ GPM_DISCOVERY_PRECURSOR_SHIPYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SHIP_TECH$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_PLANETARY_GUN:0 "$gpm_survey.10.name$"
+ GPM_DISCOVERY_PRECURSOR_PLANETARY_GUN_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n	"
+ GPM_DISCOVERY_PRECURSOR_BUNKER_GRID:0 "$gpm_survey.11.name$"
+ GPM_DISCOVERY_PRECURSOR_BUNKER_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ARMOR_TECH$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_MECHS:0 "$gpm_survey.12.name$"
+ GPM_DISCOVERY_PRECURSOR_MECHS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ARMY$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_PLANETARY_SHIELD:0 "$gpm_survey.13.name$"
+ GPM_DISCOVERY_PRECURSOR_PLANETARY_SHIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SHIELD_TECH$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_PRECURSOR_FLOATING_CITY:0 "$gpm_survey.14.name$"
+ GPM_DISCOVERY_PRECURSOR_FLOATING_CITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ENGINEERING$\n	"
+ GPM_DISCOVERY_PRECURSOR_CAPITAL:0 "$gpm_survey.15.name$"
+ GPM_DISCOVERY_PRECURSOR_CAPITAL_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$"
+ GPM_DISCOVERY_PRECURSOR_COM_HUB:0 "$gpm_survey.16.name$"
+ GPM_DISCOVERY_PRECURSOR_COM_HUB_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.COMMUNICATIONS$\n$gpm_survey.REWARDS.PHYSICS$\n"
+ GPM_DISCOVERY_PRECURSOR_SINGULARITY:0 "$gpm_survey.17.name$"
+ GPM_DISCOVERY_PRECURSOR_SINGULARITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.UNKNOWN$"
+ GPM_DISCOVERY_GAIA:0 "$gpm_survey.18.name$"
+ GPM_DISCOVERY_GAIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_HOLY_PLANET:0 "$gpm_survey.19.name$"
+ GPM_DISCOVERY_HOLY_PLANET_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$\n$gpm_survey.REWARDS.HOLYWORLD$"
+ GPM_DISCOVERY_FLOATING_ISLANDS:0 "$gpm_survey.20.name$"
+ GPM_DISCOVERY_FLOATING_ISLANDS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SHIP_TECH$\n$REWARDS.SCIENTIST_EXPERIENCE$\n$gpm_survey.REWARDS.MINERALS$"
+ GPM_DISCOVERY_BATTLEFIELD:0 "$gpm_survey.21.name$"
+ GPM_DISCOVERY_BATTLEFIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_SHIP_GRAVEYARD:0 "$gpm_survey.22.name$"
+ GPM_DISCOVERY_SHIP_GRAVEYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ARTIFICIAL_WATER:0 "$gpm_survey.23.name$"
+ GPM_DISCOVERY_ARTIFICIAL_WATER_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PLEASURE_PALACE:0 "$gpm_survey.24.name$"
+ GPM_DISCOVERY_PLEASURE_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ANCIENT_TEMPLE:0 "$gpm_survey.25.name$"
+ GPM_DISCOVERY_ANCIENT_TEMPLE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE:0 "$gpm_survey.26.name$"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PLASMOID_LIFE:0 "$gpm_survey.27.name$"
+ GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "科学家§H[From.GetLeaderName]§!将领导一次广泛的、有潜在危险的太空行走，以调整飞船的传感器，以期做出激动人心的发现或揭开来自恒星的有趣的秘密。\n $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE:0 "$gpm_survey.28.name$"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PROTO_FOREST:0 "$gpm_survey.29.name$"
+ GPM_DISCOVERY_PROTO_FOREST_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.ENERGY$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_HIVE_WORLD:0 "$gpm_survey.30.name$"
+ GPM_DISCOVERY_HIVE_WORLD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SHIP$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ARACHNAPHOBIA:0 "$gpm_survey.31.name$"
+ GPM_DISCOVERY_ARACHNAPHOBIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_GIANT_WORM:0 "$gpm_survey.32.name$"
+ GPM_DISCOVERY_GIANT_WORM_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ARTIFICIAL_CORE:0 "$gpm_survey.33.name$"
+ GPM_DISCOVERY_ARTIFICIAL_CORE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_SURFACE_OF_BONES:0 "$gpm_survey.34.name$"
+ GPM_DISCOVERY_SURFACE_OF_BONES_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ALIEN_EGGS:0 "$gpm_survey.35.name$"
+ GPM_DISCOVERY_ALIEN_EGGS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_MUSHROOM_FORESTS:0 "$gpm_survey.36.name$"
+ GPM_DISCOVERY_MUSHROOM_FORESTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+
+ # blue(B)  physics
+ # teal (E)  unity
+ # green (G)  society
+ # orange (H)  engineering
+ # brown (L)
+ # purple (M)  techs
+ # light red (P)
+ # red (R)
+ # dark orange (S)
+ # light grey (T)
+ # white (W)
+ # yellow (Y)  modifiers, other rewards
+
+ # text icons: interface/texticons.gfx
+
+ gpm_survey.REWARDS.BONUS:0 "\n§E潜在的发现:§!\n"
+ gpm_survey.REWARDS.EXPLORATION:0 " £discovery_exploration  §Y探索加成§!"
+ gpm_survey.REWARDS.TERRAFORM_TECH:0 " £discovery_planet  §Y地貌改造技术§!"
+ gpm_survey.REWARDS.PHYSICS_TECH:0 " £discovery_physics_tech  §Y物理学技术§!"
+ gpm_survey.REWARDS.ENGINEERING_TECH:0 " £discovery_engineering_tech  §Y工程学技术§!"
+ gpm_survey.REWARDS.SOCIETY_TECH:0 " £discovery_society_tech  §Y社会学技术§!"
+ gpm_survey.REWARDS.WEAPON_TECH:0 " £ship_stats_damage  §Y武器技术§!"
+ gpm_survey.REWARDS.SHIP_TECH:0 " £shipclass_military  §Y舰船技术§!"
+ gpm_survey.REWARDS.ARMOR_TECH:0 " £shipclass_military  §Y装甲技术§!"
+ gpm_survey.REWARDS.SHIELD_TECH:0 " £shipclass_military  §Y护盾技术§!"
+ gpm_survey.REWARDS.INDUSTRY_TECH:0 " £building  §Y工业技术§!"
+ gpm_survey.REWARDS.PHYSICS:0 " £physics  §Y物理学研究§!"
+ gpm_survey.REWARDS.ENGINEERING:0 " £engineering  §Y工程学研究§!"
+ gpm_survey.REWARDS.SOCIETY:0 " £society  §Y社会学研究§!"
+ gpm_survey.REWARDS.UNITY:0 " £unity  §Y凝聚力§!"
+ gpm_survey.REWARDS.EMPIRE_MODIFIER:0 " £discovery_modifier  §Y帝国修正§!"
+ gpm_survey.REWARDS.ENERGY:0 " £energy  §Y能量币§!"
+ gpm_survey.REWARDS.MINERALS:0 " £minerals  §Y矿物§!"
+ gpm_survey.REWARDS.FOOD:0 " £food  §Y食物§!"
+ gpm_survey.REWARDS.ALLOYS:0 " £alloys  §Y合金§!"
+ gpm_survey.REWARDS.MOTES:0 " £volatile_motes  §Y不稳定的微粒§!"
+ gpm_survey.REWARDS.GASSES:0 " £exotic_gases  §Y外星气体§!"
+ gpm_survey.REWARDS.CRYSTALS:0 " £rare_crystals  §Y罕见水晶§!"
+ gpm_survey.REWARDS.ARCANE_TECHNOLOGY:0 " £arcane_technology  §M奥术技术§!"
+  gpm_survey.REWARDS.DEPOSIT:0 " £discovery_planet  §Y星球资源§!"
+ gpm_survey.REWARDS.ARMY:0 " £discovery_army  §Y独特军队§!"
+ gpm_survey.REWARDS.COMMUNICATIONS:0 " £discovery_communications  §Y尝试沟通§!"
+ gpm_survey.REWARDS.UNKNOWN:0 " £discovery_danger_tech  §R警告: -- {{§M=技术=§!§R}}§!"
+ gpm_survey.REWARDS.PRECURSOR_ARTIFACT:0 " £discovery_precursor §Y[Root.Owner.gpm_precursor_empire_name]史前古器物!"
+ gpm_survey.REWARDS.TRAIT:0 " £pops  §Y科学家特质§!"
+ gpm_survey.REWARDS.HOLYWORLD:0 " £discovery_holy  §Y神圣信号§!"
+ gpm_survey.REWARDS.SHIP:0 " £discovery_ship  §Y独特舰船§!"
+ gpm_survey.REWARDS.SCIENTIST_EXPERIENCE:0 " £discovery_experience  §Y科学家经验§!"
+ gpm_survey.REWARDS.:0 ""
+ gpm_survey.REWARDS.HOLYWORLD_TT:0 "在花了很长时间研究星球的显著特征之后，我们的§H[Prev.GetName]§!科学团队准备报告他们的发现。\n\n你们的科学家在探索时，偶然发现了一系列的信号，这些信号似乎是警告人们远离这个星球的源头。\n在你们的科学家有机会开始更仔细地检查这些信标之前，你们的一个科学成员摔倒了，撞翻了一个使整个信标阵列短路的电源继电器。谁知道那样做发生了什么…"
+ gpm_survey.REWARDS.HIVESHIP_TT:0 "在花了很长时间研究星球的显著特征之后，我们的§H[Prev.GetName]§!科学团队准备报告他们的发现。\n\n在一次进入蜂巢的探险中，探险队的一个队员无意中发现了在蜂巢深处的一个孵化室。最初他们想研究它，但当其中一名科学家触碰这个腔室时，这个想法很快就消失了。当覆盖在孵化室的生物层破裂，一层厚厚的紫色软泥开始渗漏时，几声尖厉的吼声在蜂巢上空回荡。不久，蜂巢的顶部开始打开，几个小生物从蜂箱中出来，径直飞向科学小组。他们似乎并不怀有敌意，而且似乎对科学家表现出一种逆来顺受的依恋。"
+ gpm_survey.communicationTT:0 "我们已经成功地使用!§E先驱者通信中心§!与一个遥远的来源建立联系。一个真正重要的时刻!"
+ gpm_survey.randomdepositsTT:0 "在这个世界上发现了更多的§Y资源§!。"
+ gpm_survey.mechsTT:0 "§L在探索一个废弃的机库时，你的科学考察队意外地激活了两个功能齐全的机库。他们似乎在等待命令。§!\n获得两个巨大§E先驱者机械§!。"
+ gpm_survey.holyplanetTT:0 "§Y神圣星球§!修正删除。\n添加§Y亵渎神圣星球§!修正。"
+ gpm_survey.hiveshipTT:0 "获得三个§Y生物飞船§!"
+
+ LOC_TEST:0 "$gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EXPLORATION$\n$gpm_survey.REWARDS.TERRAFORM_TECH$\n$gpm_survey.REWARDS.PHYSICS_TECH$\n$gpm_survey.REWARDS.ENGINEERING_TECH$\n$gpm_survey.REWARDS.SOCIETY_TECH$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ENERGY$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.FOOD$\n$gpm_survey.REWARDS.DEPOSIT$\n$gpm_survey.REWARDS.ARMY$\n$gpm_survey.REWARDS.COMMUNICATIONS$\n$gpm_survey.REWARDS.UNKNOWN$\n$gpm_survey.REWARDS.PRECURSOR_ARTIFACT$\n$gpm_survey.REWARDS.TRAIT$\n$gpm_survey.REWARDS.HOLYWORLD$\n$gpm_survey.REWARDS.SHIP$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$\n"
+
+ # discovery reward BIOLOGICAL
+ gpm_survey.REWARD:0 "在花了很长时间研究星球的显著特征之后，我们的§H[Prev.GetName]§!科学团队准备报告他们的发现。\n\n科学家§H[Prev.GetLeaderName]§!报告说，科学小组在研究这颗独特的行星上又有了一些新的发现!这一新发现大大扩展了我们对宇宙的理解。\n"
+
+ # discovery reward MACHINE
+ gpm_survey.REWARD.mach:0 "在花了很长时间研究星球在我们的科学矩阵下面的显著特征之后，§H[Prev.GetName]§!准备报告它的发现。\n\n科学单位§H[Prev.GetLeaderName]§!已经报告了科学矩阵已经做了几个额外的发现研究这个星球!在此收集的额外数据将大大扩展我们对宇宙的模拟精度。\n"
+ 
+
+ # refers to the planet modifier: "Very Hot Core"
+ gpm_survey.2.name:0 "发现：灼热的星球内核！"
+ gpm_survey.2.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
+ 	# hive mind
+ gpm_survey.2.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
+ 	# machine empire
+ gpm_survey.2.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
+ 
+ gpm_survey.2.b:0 "添加帝国修正：\n§H探索星球改造 1/3§!\n    星球改造速度增加：§G+10%§!"
+ gpm_survey.2.c:0 "做更彻底的调查吗"
+ 
+ gpm_survey.3.name:0 "发现：对星球内核进一步的理解"
+ gpm_survey.3.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
+ 	# hive mind
+ gpm_survey.3.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
+ 	# machine empire
+ gpm_survey.3.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
+ 
+ gpm_survey.3.b:0 "添加帝国修正：\n§H探索星球改造 2/3§!\n    星球改造速度增加：§G+20%§!"
+ 
+ gpm_survey.4.name:0 "发现：星球改造之梦"
+ gpm_survey.4.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
+ 	# hive mind
+ gpm_survey.4.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
+ 	# machine empire
+ gpm_survey.4.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
+ 
+ gpm_survey.4.a:0 "尤里卡！"
+ gpm_survey.4.b:0 "添加帝国修正：\n§H探索星球改造 3/3§!\n    星球改造速度增加：§G+30%§!"
+ 
+ 
+ # Discovery Events #
+ ####################
+ gpm_terraform_speed_one:0 "探索星球改造 1/3"
+ gpm_terraform_speed_one:0 "地貌改造速度增加。"
+ gpm_terraform_speed_two:0 "探索星球改造 2/3"
+ gpm_terraform_speed_two:0 "地貌改造速度增加。"
+ gpm_terraform_speed_three:0 "探索星球改造 3/3"
+ gpm_terraform_speed_three:0 "地貌改造速度增加。"
+
+
+
+ # precursor remnants
+ gpm_survey.5.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!残骸！"
+ gpm_survey.5.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上留下了大量的基础设施，看起来是由某个古老的星际帝国所建造的。"
+ 	# hive mind
+ gpm_survey.5.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上留下了大量的基础设施，看起来是由某个古老的星际帝国所建造的。"
+ 	# machine empire
+ gpm_survey.5.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上留下了大量的基础设施，看起来是由某个古老的星际帝国所建造的。"
+ 
+ # precursor energy grid
+ gpm_survey.6.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!能源网！"
+ gpm_survey.6.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！虽然我们在太空中就看到了它们，但这些庞大的能源网格却证明了它的神秘之处。在这些庞大的能源网周围到处都是摇摇欲坠的建筑废墟、破败不堪的道路，以及其他大量区域。很明显，一个强盛的文明曾经居住在这个星球上，并利用这些能源网络将电力从一个城市传输到另一个城市，从街灯到各个房间的供电。令人惊讶的是，它们似乎也被用来照亮所有的东西，这就解释了为什么从近地轨道上就可以看到它们。\n\n我们的科学家们并不完全了解它们的组成元素。它似乎是一种半透明的物质核心，由一层由未知材料制成的某种超耐蚀外层晶体的液体层所包围。\n\n我们的科学家认为，这些巨大的网络是由星球地底深处的巨大热能植物所驱动的。不幸的是，这些网络中的巨大热喷口导致温度过高，再加上深度的原因，目前我们无法观测它们。我们的科学家确信，这些网络进行一些微小的修改应该就能与我们自己的能源系统兼容。"
+ 	# hive mind
+ gpm_survey.6.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！虽然我们在太空中就看到了它们，但这些庞大的能源网格却证明了它的神秘之处。在这些庞大的能源网周围到处都是摇摇欲坠的建筑废墟、破败不堪的道路，以及其他大量区域。很明显，一个强盛的文明曾经居住在这个星球上，并利用这些能源网络将电力从一个城市传输到另一个城市，从街灯到各个房间的供电。令人惊讶的是，它们似乎也被用来照亮所有的东西，这就解释了为什么从近地轨道上就可以看到它们。\n\n我们的科学家们并不完全了解它们的组成元素。它似乎是一种半透明的物质核心，由一层由未知材料制成的某种超耐蚀外层晶体的液体层所包围。\n\n我们的科学家认为，这些巨大的网络是由星球地底深处的巨大热能植物所驱动的。不幸的是，这些网络中的巨大热喷口导致温度过高，再加上深度的原因，目前我们无法观测它们。我们的科学家确信，这些网络进行一些微小的修改应该就能与我们自己的能源系统兼容。"
+ 	# machine empire
+ gpm_survey.6.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！虽然我们在太空中就看到了它们，但这些庞大的能源网格却证明了它的神秘之处。在这些庞大的能源网周围到处都是摇摇欲坠的建筑废墟、破败不堪的道路，以及其他大量区域。很明显，一个强盛的文明曾经居住在这个星球上，并利用这些能源网络将电力从一个城市传输到另一个城市，从街灯到各个房间的供电。令人惊讶的是，它们似乎也被用来照亮所有的东西，这就解释了为什么从近地轨道上就可以看到它们。\n\n我们的科学家们并不完全了解它们的组成元素。它似乎是一种半透明的物质核心，由一层由未知材料制成的某种超耐蚀外层晶体的液体层所包围。\n\n我们的科学家认为，这些巨大的网络是由星球地底深处的巨大热能植物所驱动的。不幸的是，这些网络中的巨大热喷口导致温度过高，再加上深度的原因，目前我们无法观测它们。我们的科学家确信，这些网络进行一些微小的修改应该就能与我们自己的能源系统兼容。"
+ 
+ # precursor satellite grid
+ gpm_survey.7.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!卫星网格！"
+ gpm_survey.7.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球有着几百个小型小的先驱者卫星阵列，它们围绕着星球的近地轨道旋转。目前我们尚不清楚它们是否被用于交流或监测，但我们的科学家们一致认为我们可以从研究它们学会很多东西。"
+ 	# hive mind
+ gpm_survey.7.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球有着几百个小型小的先驱者卫星阵列，它们围绕着星球的近地轨道旋转。目前我们尚不清楚它们是否被用于交流或监测，但我们的科学家们一致认为我们可以从研究它们学会很多东西。"
+ 	# machine empire
+ gpm_survey.7.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球有着几百个小型小的先驱者卫星阵列，它们围绕着星球的近地轨道旋转。目前我们尚不清楚它们是否被用于交流或监测，但我们的科学家们一致认为我们可以从研究它们学会很多东西。"
+ 
+ # precursor city
+ gpm_survey.8.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!都市！"
+ gpm_survey.8.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 我们在这个星球上发现了一个属于未知星际帝国的古城遗迹。尽管我们的科学家坚持认为这座城市早在很久以前就已经被岁月和气候侵蚀得满目疮痍，但大多数看起来还是很完整的。"
+ 	# hive mind
+ gpm_survey.8.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 我们在这个星球上发现了一个属于未知星际帝国的古城遗迹。尽管我们的科学家坚持认为这座城市早在很久以前就已经被岁月和气候侵蚀得满目疮痍，但大多数看起来还是很完整的。"
+ 	# machine empire
+ gpm_survey.8.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 我们在这个星球上发现了一个属于未知星际帝国的古城遗迹。尽管我们的科学家坚持认为这座城市早在很久以前就已经被岁月和气候侵蚀得满目疮痍，但大多数看起来还是很完整的。"
+ 
+ # precursor shipyards
+ gpm_survey.9.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!船坞！"
+ gpm_survey.9.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 几个古老的大型造船厂围绕在这个星球的周围。部分看起来破损严重，另一些看起来依旧可以运作。 虽然在这些空间站内没有探测到任何舰船或者资源，但我们判断它可能是全自动维护的系统。其中有专门为在真空中卸载材料而设计的区域。在这些巨大的空间站深处，有一个用我们尚未完全理解的技术所构成的重力核心，它似乎就是空间站能够保持能源供给和停留在轨道上如此之久原因。或许有一天我们可以将这个技术收入囊中。"
+ 	# hive mind
+ gpm_survey.9.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 几个古老的大型造船厂围绕在这个星球的周围。部分看起来破损严重，另一些看起来依旧可以运作。 虽然在这些空间站内没有探测到任何舰船或者资源，但我们判断它可能是全自动维护的系统。其中有专门为在真空中卸载材料而设计的区域。在这些巨大的空间站深处，有一个用我们尚未完全理解的技术所构成的重力核心，它似乎就是空间站能够保持能源供给和停留在轨道上如此之久原因。或许有一天我们可以将这个技术收入囊中。"
+ 	# machine empire
+ gpm_survey.9.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 几个古老的大型造船厂围绕在这个星球的周围。部分看起来破损严重，另一些看起来依旧可以运作。 虽然在这些空间站内没有探测到任何舰船或者资源，但我们判断它可能是全自动维护的系统。其中有专门为在真空中卸载材料而设计的区域。在这些巨大的空间站深处，有一个用我们尚未完全理解的技术所构成的重力核心，它似乎就是空间站能够保持能源供给和停留在轨道上如此之久原因。或许有一天我们可以将这个技术收入囊中。"
+ 
+ # precursor planetary guns
+ gpm_survey.10.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!行星兵器！"
+ gpm_survey.10.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 星球上到处都是大规模的武器。它们是在几百万年前建造而成的，至今依旧可以发射到近地轨道的高度。"
+ 	# hive mind
+ gpm_survey.10.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 星球上到处都是大规模的武器。它们是在几百万年前建造而成的，至今依旧可以发射到近地轨道的高度。"
+ 	# machine empire
+ gpm_survey.10.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 星球上到处都是大规模的武器。它们是在几百万年前建造而成的，至今依旧可以发射到近地轨道的高度。"
+ 
+ # precursor bunker grid
+ gpm_survey.11.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!地堡网格！"
+ gpm_survey.11.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个古老的先驱者文明遗留了一个巨大而又宽阔的地堡系统。"
+ 	# hive mind
+ gpm_survey.11.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个古老的先驱者文明遗留了一个巨大而又宽阔的地堡系统。"
+ 	# machine empire
+ gpm_survey.11.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个古老的先驱者文明遗留了一个巨大而又宽阔的地堡系统。"
+ 
+ # precursor mechs
+ gpm_survey.12.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!机甲！"
+ gpm_survey.12.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 大批被遗弃的巨型机械战甲矗立在这个星球的表面，等待被重新激活。他们厚重的装甲和庞大的身躯表明它们可能主要是为了防御目的而被创造出来的。"
+ 	# hive mind
+ gpm_survey.12.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 大批被遗弃的巨型机械战甲矗立在这个星球的表面，等待被重新激活。他们厚重的装甲和庞大的身躯表明它们可能主要是为了防御目的而被创造出来的。"
+ 	# machine empire
+ gpm_survey.12.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 大批被遗弃的巨型机械战甲矗立在这个星球的表面，等待被重新激活。他们厚重的装甲和庞大的身躯表明它们可能主要是为了防御目的而被创造出来的。"
+ 
+ # precursor planetary shields
+ gpm_survey.13.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!行星护盾！"
+ gpm_survey.13.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 一个巨大的护盾系统分布在这个星球上。重新激活它可能需要消耗大量的能量，不过它可以为每个人提供一个安全的避风港。"
+ 	# hive mind
+ gpm_survey.13.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 一个巨大的护盾系统分布在这个星球上。重新激活它可能需要消耗大量的能量，不过它可以为每个人提供一个安全的避风港。"
+ 	# machine empire
+ gpm_survey.13.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 一个巨大的护盾系统分布在这个星球上。重新激活它可能需要消耗大量的能量，不过它可以为每个人提供一个安全的避风港。"
+ 
+ # precursor floating city
+ gpm_survey.14.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!浮游都市！"
+ gpm_survey.14.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上存在几个自给自足的漂浮城市。这些城市看上去略有受损，但在其他方面依旧可靠。地表上有一些城市的废墟，我们很好奇它们是否也曾经漂浮过。"
+ 	# hive mind
+ gpm_survey.14.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上存在几个自给自足的漂浮城市。这些城市看上去略有受损，但在其他方面依旧可靠。地表上有一些城市的废墟，我们很好奇它们是否也曾经漂浮过。"
+ 	# machine empire
+ gpm_survey.14.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上存在几个自给自足的漂浮城市。这些城市看上去略有受损，但在其他方面依旧可靠。地表上有一些城市的废墟，我们很好奇它们是否也曾经漂浮过。"
+ 
+ # precursor capital complex
+ gpm_survey.15.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!综合行政中心！"
+ gpm_survey.15.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 在这个星球上有一座巨大的废墟城市，城市中央屹立着一座巨大高耸的建筑物。我们相信这个建筑是这个城市的中心，如果这里就是整个星球的城市区域的话，这也许就是首都。"
+ 	# hive mind
+ gpm_survey.15.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 在这个星球上有一座巨大的废墟城市，城市中央屹立着一座巨大高耸的建筑物。我们相信这个建筑是这个城市的中心，如果这里就是整个星球的城市区域的话，这也许就是首都。"
+ 	# machine empire
+ gpm_survey.15.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 在这个星球上有一座巨大的废墟城市，城市中央屹立着一座巨大高耸的建筑物。我们相信这个建筑是这个城市的中心，如果这里就是整个星球的城市区域的话，这也许就是首都。"
+ 
+ # precursor communication hub
+ gpm_survey.16.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!通讯枢纽！"
+ gpm_survey.16.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 在这个星球的废墟中矗立着一座巨大的尖塔。它的中央仍然向着太空发射着光束。我们相信这是用来连接到卫星网络的。也许是用于通信或监视，我们应该尝试将我们自己的系统与它的系统结合起来。"
+ 	# hive mind
+ gpm_survey.16.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 在这个星球的废墟中矗立着一座巨大的尖塔。它的中央仍然向着太空发射着光束。我们相信这是用来连接到卫星网络的。也许是用于通信或监视，我们应该尝试将我们自己的系统与它的系统结合起来。"
+ 	# machine empire
+ gpm_survey.16.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 在这个星球的废墟中矗立着一座巨大的尖塔。它的中央仍然向着太空发射着光束。我们相信这是用来连接到卫星网络的。也许是用于通信或监视，我们应该尝试将我们自己的系统与它的系统结合起来。"
+ 
+ # precursor singularity drive
+ gpm_survey.17.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!奇点驱动！"
+ gpm_survey.17.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球似乎有类似科研室和实验设施的地下区域，中心房间通往一个巨大的奇点驱动，它与能量产生了共鸣。房间里的自动机器人似乎不断地彼此隔离，然后重新组合，没有明显的行为模式。"
+ 	# hive mind
+ gpm_survey.17.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球似乎有类似科研室和实验设施的地下区域，中心房间通往一个巨大的奇点驱动，它与能量产生了共鸣。房间里的自动机器人似乎不断地彼此隔离，然后重新组合，没有明显的行为模式。"
+ 	# machine empire
+ gpm_survey.17.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球似乎有类似科研室和实验设施的地下区域，中心房间通往一个巨大的奇点驱动，它与能量产生了共鸣。房间里的自动机器人似乎不断地彼此隔离，然后重新组合，没有明显的行为模式。"
+ 
+ # gaia world
+ gpm_survey.18.name:0 "发现：盖亚星球！"
+ gpm_survey.18.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球有着理想的的大气层和自主调节的生态系统。由于拥有各种不同维度的地区，这为丰富多样的生物群落提供了最佳的生存环境，大多数的生命形式都可以在这里生存。"
+ 	# hive mind
+ gpm_survey.18.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球有着理想的的大气层和自主调节的生态系统。由于拥有各种不同维度的地区，这为丰富多样的生物群落提供了最佳的生存环境，大多数的生命形式都可以在这里生存。"
+ 	# machine empire
+ gpm_survey.18.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球有着理想的的大气层和自主调节的生态系统。由于拥有各种不同维度的地区，这为丰富多样的生物群落提供了最佳的生存环境，大多数的生命形式都可以在这里生存。"
+ 
+ # holy planet
+ gpm_survey.19.name:0 "发现：奇怪的星球！"
+ gpm_survey.19.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的地表看起来很正常，却有一些不自然的因素。大小形状不一的奇怪石头以有趣又非随机的模式分布在在地表上。它们散发出迷人的光芒，就像宝石一样。一些船员希望能近距离一探究竟，但另一些船员怀疑这些排列是一个危险警告。"
+ 	# hive mind
+ gpm_survey.19.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的地表看起来很正常，却有一些不自然的因素。大小形状不一的奇怪石头以有趣又非随机的模式分布在在地表上。它们散发出迷人的光芒，就像宝石一样。一些船员希望能近距离一探究竟，但另一些船员怀疑这些排列是一个危险警告。"
+ 	# machine empire
+ gpm_survey.19.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的地表看起来很正常，却有一些不自然的因素。大小形状不一的奇怪石头以有趣又非随机的模式分布在在地表上。它们散发出迷人的光芒，就像宝石一样。一些船员希望能近距离一探究竟，但另一些船员怀疑这些排列是一个危险警告。"
+ 
+ # floating islands
+ gpm_survey.20.name:0 "发现：浮空岛屿！"
+ gpm_survey.20.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的岛屿非常迷人但违背了物理定律，一些矿物或物质使大型岩石漂浮在空中形成漂浮的岛屿，它们悬浮在距离地表数十到数百英尺的天空上。"
+ 	# hive mind
+ gpm_survey.20.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的岛屿非常迷人但违背了物理定律，一些矿物或物质使大型岩石漂浮在空中形成漂浮的岛屿，它们悬浮在距离地表数十到数百英尺的天空上。"
+ 	# machine empire
+ gpm_survey.20.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的岛屿非常迷人但违背了物理定律，一些矿物或物质使大型岩石漂浮在空中形成漂浮的岛屿，它们悬浮在距离地表数十到数百英尺的天空上。"
+ 
+ # ruined battlefield
+ gpm_survey.21.name:0 "发现：战场遗址！"
+ gpm_survey.21.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的扫描仪探测到各种伤痕累累的地形和废墟散落在这个星球上，似乎数个世纪前这里经历过一场大规模的星际战争，在这个星球上我们的科学家发现了许多在战争中没有使用过的毁灭性武器。在各种废墟和武器的残骸中，我们的科学家们发现了无数的尸体。估计有数十亿人在这场战争中失去了生命。"
+ 	# hive mind
+ gpm_survey.21.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的扫描仪探测到各种伤痕累累的地形和废墟散落在这个星球上，似乎数个世纪前这里经历过一场大规模的星际战争，在这个星球上我们的科学家发现了许多在战争中没有使用过的毁灭性武器。在各种废墟和武器的残骸中，我们的科学家们发现了无数的尸体。估计有数十亿人在这场战争中失去了生命。"
+ 	# machine empire
+ gpm_survey.21.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的扫描仪探测到各种伤痕累累的地形和废墟散落在这个星球上，似乎数个世纪前这里经历过一场大规模的星际战争，在这个星球上我们的科学家发现了许多在战争中没有使用过的毁灭性武器。在各种废墟和武器的残骸中，我们的科学家们发现了无数的尸体。估计有数十亿人在这场战争中失去了生命。"
+ 
+ # spaceship graveyard
+ gpm_survey.22.name:0 "发现：飞船墓地！"
+ gpm_survey.22.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的扫描仪探测到大量的合金物质和化学成分散落在这个星球的地表。一场巨大的战争曾经在天空中肆虐，现在星球地表上到处散落着统治过这个星球的未知文明废弃的飞船残骸。"
+ 	# hive mind
+ gpm_survey.22.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的扫描仪探测到大量的合金物质和化学成分散落在这个星球的地表。一场巨大的战争曾经在天空中肆虐，现在星球地表上到处散落着统治过这个星球的未知文明废弃的飞船残骸。"
+ 	# machine empire
+ gpm_survey.22.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的扫描仪探测到大量的合金物质和化学成分散落在这个星球的地表。一场巨大的战争曾经在天空中肆虐，现在星球地表上到处散落着统治过这个星球的未知文明废弃的飞船残骸。"
+ 
+ # artificial water
+ gpm_survey.23.name:0 "发现：人造海水！"
+ gpm_survey.23.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球看起来很正常。但仔细观察后会发现，这里水的成分不是自然形成的！它们由一种奇怪的纳米复合材料组合而成，呈现出液体的特征。\n我们做了一些测试，似乎这些纳米分子的唯一目的就是在各个方面都表现得像水一样。所以饮用它们应该是安全的。"
+ 	# hive mind
+ gpm_survey.23.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球看起来很正常。但仔细观察后会发现，这里水的成分不是自然形成的！它们由一种奇怪的纳米复合材料组合而成，呈现出液体的特征。\n我们做了一些测试，似乎这些纳米分子的唯一目的就是在各个方面都表现得像水一样。所以饮用它们应该是安全的。"
+ 	# machine empire
+ gpm_survey.23.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球看起来很正常。但仔细观察后会发现，这里水的成分不是自然形成的！它们由一种奇怪的纳米复合材料组合而成，呈现出液体的特征。\n我们做了一些测试，似乎这些纳米分子的唯一目的就是在各个方面都表现得像水一样。所以饮用它们应该是安全的。"
+ 
+ # android pleasure palace
+ gpm_survey.24.name:0 "发现：机器人游乐场！"
+ gpm_survey.24.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的科学家发现一个奇怪的建筑结构似乎显示出活动的迹象。它们位于在这个星球之外，我们必须进一步调查。这个建筑是由各种各样的机器人操作的，栩栩如生。所以科学家们最初认为它们是有知觉的。它们似乎维护管理着这个地方，不仅为游客提供各种服务，而且彼此之间也提供帮助。一些机器人插入了一些看起来很奇怪的设备，这些发光设备晃动着并连接到另一个机器人的部件上。其他机器人则把一个机器人挂在墙上，用一个类似绳子的装置击打它。目前尚不清楚是谁建造的，但这里似乎是一个有趣的地方。"
+ 	# hive mind
+ gpm_survey.24.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的科学家发现一个奇怪的建筑结构似乎显示出活动的迹象。它们位于在这个星球之外，我们必须进一步调查。这个建筑是由各种各样的机器人操作的，栩栩如生。所以科学家们最初认为它们是有知觉的。它们似乎维护管理着这个地方，不仅为游客提供各种服务，而且彼此之间也提供帮助。一些机器人插入了一些看起来很奇怪的设备，这些发光设备晃动着并连接到另一个机器人的部件上。其他机器人则把一个机器人挂在墙上，用一个类似绳子的装置击打它。目前尚不清楚是谁建造的，但这里似乎是一个有趣的地方。"
+ 	# machine empire
+ gpm_survey.24.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的科学家发现一个奇怪的建筑结构似乎显示出活动的迹象。它们位于在这个星球之外，我们必须进一步调查。这个建筑是由各种各样的机器人操作的，栩栩如生。所以科学家们最初认为它们是有知觉的。它们似乎维护管理着这个地方，不仅为游客提供各种服务，而且彼此之间也提供帮助。一些机器人插入了一些看起来很奇怪的设备，这些发光设备晃动着并连接到另一个机器人的部件上。其他机器人则把一个机器人挂在墙上，用一个类似绳子的装置击打它。目前尚不清楚是谁建造的，但这里似乎是一个有趣的地方。"
+ 
+ # ancient temple
+ gpm_survey.25.name:0 "发现：古老寺庙！"
+ gpm_survey.25.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在这个星球上发现了一座专门用来纪念某个已经逝去的年代的古老庙宇。壁画上的文字表明，这是一个由许多不同的外来物种共同拥有的寺庙。墙上的图像把外星人描绘成具有非凡神力的生物，他们挥舞着发光的棍子，用意念即可移动物体，不断地进行冥想。这似乎是一种古代文化，它包容多样性并希望保护所有人。"
+ 	# hive mind
+ gpm_survey.25.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在这个星球上发现了一座专门用来纪念某个已经逝去的年代的古老庙宇。壁画上的文字表明，这是一个由许多不同的外来物种共同拥有的寺庙。墙上的图像把外星人描绘成具有非凡神力的生物，他们挥舞着发光的棍子，用意念即可移动物体，不断地进行冥想。这似乎是一种古代文化，它包容多样性并希望保护所有人。"
+ 	# machine empire
+ gpm_survey.25.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在这个星球上发现了一座专门用来纪念某个已经逝去的年代的古老庙宇。壁画上的文字表明，这是一个由许多不同的外来物种共同拥有的寺庙。墙上的图像把外星人描绘成具有非凡神力的生物，他们挥舞着发光的棍子，用意念即可移动物体，不断地进行冥想。这似乎是一种古代文化，它包容多样性并希望保护所有人。"
+ 
+ # crystal moon palace
+ gpm_survey.26.name:0 "发现：水晶宫殿！"
+ gpm_survey.26.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的科学家在这个星球表面发现了一个完全由水晶建成的美丽宫殿，内部充斥着奇怪的符文和神秘的装置，我们希望能从中破解出关于这个失落已久的未知文明的信息。"
+ 	# hive mind
+ gpm_survey.26.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的科学家在这个星球表面发现了一个完全由水晶建成的美丽宫殿，内部充斥着奇怪的符文和神秘的装置，我们希望能从中破解出关于这个失落已久的未知文明的信息。"
+ 	# machine empire
+ gpm_survey.26.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 我们的科学家在这个星球表面发现了一个完全由水晶建成的美丽宫殿，内部充斥着奇怪的符文和神秘的装置，我们希望能从中破解出关于这个失落已久的未知文明的信息。"
+ 
+ # plasmoid life
+ gpm_survey.27.name:0 "发现：等离子生物！"
+ gpm_survey.27.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 不知为何，这颗恒星上进化出完全由等离子体构成的生命体，它们具有极高的科研价值。遗憾的是我们无法近距离进行研究，因为太阳的高温辐射超出了我们传感器的承受能力。\n "
+ 	# hive mind
+ gpm_survey.27.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 不知为何，这颗恒星上进化出完全由等离子体构成的生命体，它们具有极高的科研价值。遗憾的是我们无法近距离进行研究，因为太阳的高温辐射超出了我们传感器的承受能力。\n "
+ 	# machine empire
+ gpm_survey.27.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 不知为何，这颗恒星上进化出完全由等离子体构成的生命体，它们具有极高的科研价值。遗憾的是我们无法近距离进行研究，因为太阳的高温辐射超出了我们传感器的承受能力。\n "
+ 
+ # temple of the ancient one
+ gpm_survey.28.name:0 "发现：奇怪的寺庙！"
+ gpm_survey.28.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 若不是因为它那致命的诱惑，那用神秘岩石凿成的庙宇之美，那令人叹为观止的奇光异景，人们怎么可能会花上那么多时间驻步欣赏。涂画在墙上故事几乎是在警告前来的探险家们，他们在寺庙周围徘徊，在黑暗中度过了数天。最后，他们无法抗拒出现的强大的幻觉和幻听，也无法抗拒疯狂想要进入圣殿的冲动。如今出现在你面前的，是一个被祭坛火焰所照亮的神圣密室。"
+ 	# hive mind
+ gpm_survey.28.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 若不是因为它那致命的诱惑，那用神秘岩石凿成的庙宇之美，那令人叹为观止的奇光异景，人们怎么可能会花上那么多时间驻步欣赏。涂画在墙上故事几乎是在警告前来的探险家们，他们在寺庙周围徘徊，在黑暗中度过了数天。最后，他们无法抗拒出现的强大的幻觉和幻听，也无法抗拒疯狂想要进入圣殿的冲动。如今出现在你面前的，是一个被祭坛火焰所照亮的神圣密室。"
+ 	# machine empire
+ gpm_survey.28.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 若不是因为它那致命的诱惑，那用神秘岩石凿成的庙宇之美，那令人叹为观止的奇光异景，人们怎么可能会花上那么多时间驻步欣赏。涂画在墙上故事几乎是在警告前来的探险家们，他们在寺庙周围徘徊，在黑暗中度过了数天。最后，他们无法抗拒出现的强大的幻觉和幻听，也无法抗拒疯狂想要进入圣殿的冲动。如今出现在你面前的，是一个被祭坛火焰所照亮的神圣密室。"
+ 
+ # proto forest
+ gpm_survey.29.name:0 "发现：原始森林！"
+ gpm_survey.29.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的树木相当矮小，这些原始森林似乎是森林最早期的形态。我们将添加一个详细的分析数据对这个星球进行研究。"
+ 	# hive mind
+ gpm_survey.29.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的树木相当矮小，这些原始森林似乎是森林最早期的形态。我们将添加一个详细的分析数据对这个星球进行研究。"
+ 	# machine empire
+ gpm_survey.29.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球的树木相当矮小，这些原始森林似乎是森林最早期的形态。我们将添加一个详细的分析数据对这个星球进行研究。"
+ 
+ # hive world
+ gpm_survey.30.name:0 "发现：蜂群遗迹！"
+ gpm_survey.30.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。" 
+ 	# hive mind
+ gpm_survey.30.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。" 
+ 	# machine empire
+ gpm_survey.30.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。" 
+
+ # arachnophobia
+ gpm_survey.31.name:0 "发现：地狱！"
+ gpm_survey.31.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 拥有利齿巨口的巨型蜘蛛已经在这个星球泛滥成灾，我们从来没有见过如此恐怖的情景。\n 我们意识到踏足这个星球是自杀行为，我们甚至听到夜间从树顶和洞穴传来的嘶嘶声和巨型蜘蛛爬上我们飞船上时无尽的敲击声。我们只想离开这个鬼地方，再也不会回来，永远都不会！"
+ 	# hive mind
+ gpm_survey.31.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 拥有利齿巨口的巨型蜘蛛已经在这个星球泛滥成灾，我们从来没有见过如此恐怖的情景。\n 我们意识到踏足这个星球是自杀行为，我们甚至听到夜间从树顶和洞穴传来的嘶嘶声和巨型蜘蛛爬上我们飞船上时无尽的敲击声。我们只想离开这个鬼地方，再也不会回来，永远都不会！"
+ 	# machine empire
+ gpm_survey.31.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 拥有利齿巨口的巨型蜘蛛已经在这个星球泛滥成灾，我们从来没有见过如此恐怖的情景。\n 我们意识到踏足这个星球是自杀行为，我们甚至听到夜间从树顶和洞穴传来的嘶嘶声和巨型蜘蛛爬上我们飞船上时无尽的敲击声。我们只想离开这个鬼地方，再也不会回来，永远都不会！"
+
+ # giant worm
+ gpm_survey.32.name:0 "发现：巨型蠕虫！"
+ gpm_survey.32.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 生活在沙丘下的巨大蠕虫。它们很容易被地表上有节奏的振动所吸引，它们会立刻破坏引起这个振动的根源，似乎这是保卫它们领土的方式。它们的防备心很强，因此，看到一条蠕虫并活着述说给他人听本身就是一件稀罕事。沙虫是非常具有领土意识的，当两只蠕虫互相感知到彼此的存在时，它们会发起你死我活的争夺战，从它们深穴般的喉咙里发出难闻的气味。虽然有着潜在的风险，但我们必须冒这个险。"
+ 	# hive mind
+ gpm_survey.32.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 生活在沙丘下的巨大蠕虫。它们很容易被地表上有节奏的振动所吸引，它们会立刻破坏引起这个振动的根源，似乎这是保卫它们领土的方式。它们的防备心很强，因此，看到一条蠕虫并活着述说给他人听本身就是一件稀罕事。沙虫是非常具有领土意识的，当两只蠕虫互相感知到彼此的存在时，它们会发起你死我活的争夺战，从它们深穴般的喉咙里发出难闻的气味。虽然有着潜在的风险，但我们必须冒这个险。"
+ 	# machine empire
+ gpm_survey.32.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 生活在沙丘下的巨大蠕虫。它们很容易被地表上有节奏的振动所吸引，它们会立刻破坏引起这个振动的根源，似乎这是保卫它们领土的方式。它们的防备心很强，因此，看到一条蠕虫并活着述说给他人听本身就是一件稀罕事。沙虫是非常具有领土意识的，当两只蠕虫互相感知到彼此的存在时，它们会发起你死我活的争夺战，从它们深穴般的喉咙里发出难闻的气味。虽然有着潜在的风险，但我们必须冒这个险。"
+ 
+ # artificial core
+ gpm_survey.33.name:0 "发现：人造核心！"
+ gpm_survey.33.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球早在内核冻结和磁场消失后就已经死亡了，但是在这个星球的核心，有着一个由曾经统治的帝国所制造的巨大装置，以某种方式保持了核心的旋转和磁场的活跃。"
+ 	# hive mind
+ gpm_survey.33.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球早在内核冻结和磁场消失后就已经死亡了，但是在这个星球的核心，有着一个由曾经统治的帝国所制造的巨大装置，以某种方式保持了核心的旋转和磁场的活跃。"
+ 	# machine empire
+ gpm_survey.33.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球早在内核冻结和磁场消失后就已经死亡了，但是在这个星球的核心，有着一个由曾经统治的帝国所制造的巨大装置，以某种方式保持了核心的旋转和磁场的活跃。"
+ 
+ # surface of bones
+ gpm_survey.34.name:0 "发现：骸骨之地！"
+ gpm_survey.34.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 骨头，头骨，尸体，这个星球被你目睹的一切所覆盖着。多么可怕的景象啊。无论这里曾经爆发了怎么样的战争，那都是非常残酷的。"
+ 	# hive mind
+ gpm_survey.34.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 骨头，头骨，尸体，这个星球被你目睹的一切所覆盖着。多么可怕的景象啊。无论这里曾经爆发了怎么样的战争，那都是非常残酷的。"
+ 	# machine empire
+ gpm_survey.34.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 骨头，头骨，尸体，这个星球被你目睹的一切所覆盖着。多么可怕的景象啊。无论这里曾经爆发了怎么样的战争，那都是非常残酷的。"
+ 
+ # strange alien eggs
+ gpm_survey.35.name:0 "发现：奇怪的蛋！"
+ gpm_survey.35.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球上发现了几个类似沼泽的粘液地区，它们被迷雾所掩盖。说真的，我们不想在这种粘稠的鬼地方工作，所以我们记录了探测结果后就离开了。虽然有些人报告称在这些泥泞的沼泽中发现了粘在地面上的奇怪巨蛋。但就像我在航行日志中提到的那样，我是不会回去的，那是别人的活儿。"
+ 	# hive mind
+ gpm_survey.35.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球上发现了几个类似沼泽的粘液地区，它们被迷雾所掩盖。说真的，我们不想在这种粘稠的鬼地方工作，所以我们记录了探测结果后就离开了。虽然有些人报告称在这些泥泞的沼泽中发现了粘在地面上的奇怪巨蛋。但就像我在航行日志中提到的那样，我是不会回去的，那是别人的活儿。"
+ 	# machine empire
+ gpm_survey.35.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这个星球上发现了几个类似沼泽的粘液地区，它们被迷雾所掩盖。说真的，我们不想在这种粘稠的鬼地方工作，所以我们记录了探测结果后就离开了。虽然有些人报告称在这些泥泞的沼泽中发现了粘在地面上的奇怪巨蛋。但就像我在航行日志中提到的那样，我是不会回去的，那是别人的活儿。"
+ 
+ # mushroom forest
+ gpm_survey.36.name:0 "发现：蘑菇森林！"
+ gpm_survey.36.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在这个星球上，巨型蘑菇取代了树木的地位，形成了一望无际的蘑菇森林。这些蘑菇非常奇特，周期性喷射出孢子薄雾。它们摸上去非常柔软，非常容易清除。我们的一个军官开玩笑说，很想知道它们的味道如何。"
+ 	# hive mind
+ gpm_survey.36.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在这个星球上，巨型蘑菇取代了树木的地位，形成了一望无际的蘑菇森林。这些蘑菇非常奇特，周期性喷射出孢子薄雾。它们摸上去非常柔软，非常容易清除。我们的一个军官开玩笑说，很想知道它们的味道如何。"
+ 	# machine empire
+ gpm_survey.36.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在这个星球上，巨型蘑菇取代了树木的地位，形成了一望无际的蘑菇森林。这些蘑菇非常奇特，周期性喷射出孢子薄雾。它们摸上去非常柔软，非常容易清除。我们的一个军官开玩笑说，很想知道它们的味道如何。"
+
+ # Planet Wonder
+ gpm_survey.700.name:0 "发现：奇异的星球！"
+ gpm_survey.700.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在首次科学考察的过程中，在这个星球上发现了一个非比寻常的特征。我们的科学家对它所代表的意义肃然起敬。在所有的理论、所有的发现与曾经目睹过的所有星球中，没有人曾经见过这样的东西。它是这个银河真正的奇迹..."
+ 	# hive mind
+ gpm_survey.700.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在首次科学考察的过程中，在这个星球上发现了一个非比寻常的特征。我们的科学家对它所代表的意义肃然起敬。在所有的理论、所有的发现与曾经目睹过的所有星球中，没有人曾经见过这样的东西。它是这个银河真正的奇迹..."
+ 	# machine empire
+ gpm_survey.700.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在首次科学考察的过程中，在这个星球上发现了一个非比寻常的特征。我们的科学家对它所代表的意义肃然起敬。在所有的理论、所有的发现与曾经目睹过的所有星球中，没有人曾经见过这样的东西。它是这个银河真正的奇迹..."
+
+ gpm_survey.9100.name:0 "§Y[From.GetName]§!:发现战略资源"
+ gpm_survey.9100.desc:0 "在[Root.GetName][From.GetName]的调查,发现了一种以前未知的战略资源被称为§H先驱者技术§!。这些极其先进的技术的确切起源尚不清楚，但我们知道它们是古老的。以前从未发现过如此复杂的东西。"
+ gpm_survey.9100.tooltip:0 "£gpm_arcane_technology£§Y$gpm_arcane_technology$§!\n§E$gpm_arcane_technology_desc$§!"

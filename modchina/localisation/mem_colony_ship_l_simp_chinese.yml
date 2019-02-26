@@ -1,0 +1,83 @@
+﻿l_simp_chinese:
+
+ mem_colony_ship.2.name:0 "接近警戒"
+ mem_colony_ship.2.desc:0 "早期预警系统探测到一个不明物体以大约三分之一的光速接近§Y[the_system.GetName]星系§!。\n\n收集到的数据仍不确定，但考虑到物体的速度，它很可能是人造物品——原始设计的星际飞船。\n\n它没有回应我们的任何警告，所以它的意图未知，但它当前的路径将表明目前未被占领的行星§Y[the_planet.GetName]§!是它的最终目的地。预计它将绕过我们所有建筑，它要么坠毁、着陆，要么绕星球运行。"
+ mem_colony_ship.2.a:0 "让我们拭目以待吧。"
+ mem_colony_ship.2.b:0 "摧毁它。我们不能冒险。"
+ 
+ mem_colony_ship_size:0 ""
+ mem_colony_ship_size_plural:0 ""
+ 
+ mem_colony_ship.3.name:0 "闯入者被毁"
+ mem_colony_ship.3.desc:0 "我们成功地将闯入§Y[FromFrom.Solar_System.GetName]星系§!的不明船只击毁。\n\n潜在的威胁已经被消除，但它的使命是什么，以及它所携带的人员的身份将永远是个谜。"
+ mem_colony_ship.3.a:0 "我们别无选择。"
+ mem_colony_ship.3.b:0 "没有人能毫无后果地闯入我们的空间。"
+ mem_colony_ship.3.c:0 "状态:周边安全。"
+ mem_colony_ship.3.d:0 "他们得到了他们应得的。"
+ 
+ mem_colony_ship.6.name:0 "失败"
+ mem_colony_ship.6.desc:0 "我们一直跟踪的那艘不明身份的船成功地抵达§Y[the_planet.GetName]§!. \n\n然而，在试图进入星球大气层时，飞船的系统似乎失灵了，导致它坠落到地表，撞击留下的只是一个正在冒烟的坑洞。"
+ mem_colony_ship.6.a:0 "这就是所有的吗?"
+ 
+ d_mem_colony_ship_crater:0 "冲击坑"
+ d_mem_colony_ship_crater_desc:0 "一艘大胆但又不幸的星际飞船在星际旅行中相当虎头蛇尾的结束的提醒。"
+ 
+ mem_gov_colony_ship:0 "临时殖民政府"
+ mem_gov_colony_ship_desc:0 "为管理新大陆的殖民者而建立的一种松散的特设权威。"
+ RT_MEM_COLONIAL_MARSHAL:0 "殖民元帅"
+ RT_MEM_COLONIAL_MARSHAL_FEMALE:0 "殖民元帅"
+ 
+ mem_colony_ship_civic_one:0 "意识形态的党派之争"
+ mem_colony_ship_civic_two:0 "前沿瓦解"
+ mem_colony_ship_civic_one_desc:0 ""
+ mem_colony_ship_civic_two_desc:0 ""
+ 
+ mem_recently_colonized_age:0 "新殖民地"
+ mem_recently_colonized_age_desc:0 "最近从相对原始的工艺中脱颖而出的无序的殖民者正试图适应他们在一个陌生世界的新生活。最终，他们将能够实现稳定的增长和技术进步…或者在尝试中走向灭亡。"
+ 
+ mem_colony_ship.8.name:0 "堕落星球"
+ mem_colony_ship.8.desc:0 "一段时间前侵入我们空间的不明飞行器似乎已经成功地完成了一次行星降落。\n\n它携带着一种叫[landed_country.GetSpeciesName]的物种的成员，以及在这个星球上建立一个原始殖民地，他们决定把这个地方叫做§Y[the_planet.GetName]§!。 \n\n他们似乎根本没有注意到我们在星系中的存在，这表明他们的传感器要么遭受了严重的破坏，要么一开始就并不能找到我们。"
+ mem_colony_ship.8.a:0 "是时候通知他们他们的违法行为了。"
+ mem_colony_ship.8.b:0 "现在忽略它们。"
+ mem_colony_ship.8.b.tooltip:0 "我们现在不会和他们联系，但是将来我们可以像和其他原始文明一样与他们交流。"
+ mem_colony_ship.8.c:0 "这是打击他们的最佳时机。"
+ 
+ mem_colony_ship.10.name:0 "开放与[the_planet.GetName]的通讯频道"
+ mem_colony_ship.10.desc:0 "高贵的[root.GetSpeciesNamePlural]，请原谅我们殖民了你们的星球。我们之前不知道你们对这个星系的领土主张，实际上甚至连你们的星际帝国也无从了解。我们的母星如今面临着迫近的厄运，这是我们唯一生存下来的机会，§Y[the_planet.GetName]§!是我们认为最有可能能维持生命的星球。我们如今很清楚，你们文明的成就远远超过我们迄今所取得的成就。请怜悯我们，给我们第二次生存的机会。"
+ mem_colony_ship.10.desc.machine:0 "§L哎,机器人!太空机器人在接近我们。好了,保持冷静。现在不是恐慌的时候。§! \n\n听着,嗯……高贵的[Root.GetSpeciesNamePlural]吗?请原谅我们殖民了你们的星球。我们之前不知道你们对这个星系的领土主张，实际上甚至连你们的星际帝国也无从了解。(更不用说知道居然会有机械帝国的存在)。我们的母星如今面临着迫近的厄运，这是我们唯一生存下来的机会，§Y[the_planet.GetName]§!是我们认为最有可能能维持生命的星球。我们如今很清楚，你们文明的成就远远超过我们迄今所取得的成就。求求你们了，如果你们有怜悯这个概念的话，请怜悯我们，给我们第二次生存的机会。"
+ mem_colony_ship.10.a:0 "你们将成为我们帝国的一部分。"
+ mem_colony_ship.10.a.tooltip:0 "[the_planet.GetName]将被吞并。"
+ mem_colony_ship.10.b:0 "你们可以作为我们的保护国保留这个星系。"
+ mem_colony_ship.10.b.tooltip:0 "星系将交给殖民者，他们将成为我们的§S保护国§!。"
+ mem_colony_ship.10.c:0 "你们可以作为我们的附庸国保留这个星系。"
+ mem_colony_ship.10.c.tooltip:0 "星系将交给殖民者，他们将成为我们的§S附庸§!。"
+ mem_colony_ship.10.d:0 "你们这些可怜的家伙。你们的麻烦现在结束了。"
+ mem_colony_ship.10.d.tooltip:0 "一名机械看护单位将被派往[the_planet.GetName]去照顾可怜的殖民者。"
+ mem_colony_ship.10.e:0 "断开连接。"
+ mem_colony_ship.10.e.tooltip:0 "我们不会采取任何行动，但我们以后将能够像对待任何其他原始文明一样与他们进行互动。"
+ 
+ mem_colony_ship.12.name:0 "[Root.GetName]局势稳定"
+ mem_colony_ship.12.desc:0 "[Root.GetName]殖民者的新家[Root.Owner.GetAdj]上的局势从殖民者登陆的那一刻起就一直很混乱。然而，尽管[Root.Owner.GetSpeciesNamePlural]技术简陋，领导乏力，但在过去的几年里，他们还是取得了长足的进步。\n\n星球上的形势已经稳定下来，基础设施已经建立，居民们可以再次被归类为早期太空时代的文明。"
+ 
+ mission_mem_colony_ship_technological_enlightenment:0 "$mission_technological_enlightenment_9$"
+ mission_mem_colony_ship_technological_enlightenment_desc:0 "$mission_technological_enlightenment_9_desc$"
+ 
+ MEM_COLONY_SHIP_NOT_NOW:0 "这些原始人现在太混乱了。"
+
+ building_mem_colony_ship_shelter:0 "原始殖民地"
+ building_mem_colony_ship_shelter_desc:0 "那艘前FTL殖民船的残余物为它搭载的乘客提供了一个可居住的庇护所，成为了他们在星球地表开疆拓土计划的中心点。"
+ building_mem_colony_ship_protocity:0 "原始城市"
+ building_mem_colony_ship_protocity_desc:0 "用当地材料最先建成的建筑是作为该原始殖民地的核心区。它现在还不算一座城市，但幸运的话，总有一天它会成为众多城市中最大的那个。"
+ building_mem_colony_ship_farming_outpost:0 "农业前哨"
+ building_mem_colony_ship_farming_outpost_desc:0 "一个庞大的农业前哨网络覆盖了被勘探后的土地，试图从外星土壤中尽可能多地榨取营养。"
+ building_mem_colony_ship_industrial_outpost:0 "工业前哨"
+ building_mem_colony_ship_industrial_outpost_desc:0 "精妙布置好的工厂提供了工具、机械和其他出色殖民者在异星生存和发展会需要用到的货物。"
+ building_mem_colony_ship_power_outpost:0 "能量前哨"
+ building_mem_colony_ship_power_outpost_desc:0 "发电站网络利用可利用的自然资源为殖民地发展生产电能。"
+ building_mem_colony_ship_mining_outpost:0 "采矿前哨"
+ building_mem_colony_ship_mining_outpost_desc:0 "为殖民地提供必要的矿产资源而在浅层矿藏周围建立的采矿城镇和营地网络。"
+
+ job_mem_colony_ship_colonist:0 "$job_colonist$"
+ job_mem_colony_ship_colonist_plural:0 "$job_colonist_plural$"
+ job_mem_colony_ship_colonist_desc:0 "适应陌生新世界并不容易。如果没有一个星际帝国的支持，那就更难了。"
+ mod_job_mem_colony_ship_colonist_add:0 "$job_mem_colony_ship_colonist$ 职位"

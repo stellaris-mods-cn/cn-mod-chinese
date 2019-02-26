@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+ ####################################
+ # Civics
+ ####################################
+ civic_sapient_intervention:0 "聪明的干预"
+ civic_sapient_intervention_desc:0 "大多数人认为它仅仅是一个顾问:但是机器智能从阴影中统治着帝国。"
+ civic_sapient_intervention_effects:5 "你可以获得特殊的活动，允许你花费大量的精力来提高你的影响力，获得率和管理道德的吸引力等等。"
+ civic_planetary_senate:0 "行星参议院"
+ civic_planetary_senate_desc:0 "争论没完没了。影响变革的斗争是漫长而艰巨的……但当各派在某些问题上达成一致时，没有什么能阻止他们。"
+ civic_psionic_heritage:0 "灵能遗产"
+ civic_psionic_heritage_desc:0 "通过进化的侥幸或过去的基因篡改，民众已经表现出低水平的心灵感应和心灵遥控，这引发了全国的痴迷。"
+ civic_psionic_heritage_effects:5 "游戏开始便拥有§G灵能理论§!技术。"
+ civic_only_war:0 "只有战争"
+ civic_only_war_desc:0 "在遥远未来的黑暗中……"
+ civic_only_war_effects:5 "游戏开始时的§G真正战争§!政策已经解锁。\n§G+1§! £mod_job_exwarmaster_add£ 战争大师 §Y33§! £pop 每人口, 统治者增加的军队伤害§G5%§! 海军能力§G+3%§!\n凝聚力: §R-5%§!\n幸福度: §R-5%§!\n研究速度: §R-5%§!"
+ civic_industrial_nightmare:0 "工业的噩梦"
+ civic_industrial_nightmare_desc:0 "这个文明将乐于以效率的名义剥去世界的外衣。"
+ civic_forsaken:0 "离弃"
+ civic_forsaken_desc:0 "也许这个国家玩弄着禁忌的知识。也许是他们激怒了银河系的一个帝国，而这个帝国在战争中是最好的。如今，这个卑微的社会只保留了他们昔日荣耀的极小一部分。"
+ civic_forsaken_effects:5 "获得§G+1 研究方案§! 和 §G+10% 研究速度§!。 然而，你的物种也受到了破坏特性的折磨，影响幸福度、凝聚力输出和生长速度。"
+ civic_divine_legacy:0 "神圣遗产"
+ civic_divine_legacy_desc:0 "这种物种可以存活数个世纪，但情况并非总是如此。他们寿命的不自然膨胀导致了各种社会变化。"
+ civic_manufactured_species:0 "生产的品种"
+ civic_manufactured_species_desc:0 "这个社会利用了基因工程劳动力，尽管他们的起源并不一定是大众所知道的。"
+ civic_manufactured_species_secondary_species:0 "工程的劳动力"
+ civic_manufactured_species_effects:5 "游戏开始时拥有§Y4§! £pop  被基因改造的人口。"
+ civic_decadent_hierarchy:0 "颓废的层次结构"
+ civic_decadent_hierarchy_desc:0 "十几个贵族家庭和商业行会为了争夺控制权而发生冲突。帝国几乎没有功能。但是一个新的统治者已经开始改变这一切……即使是最颓废的统治者也会害怕和尊敬。"
+ civic_power_core:0 "权力的核心"
+ civic_power_core_desc:0 "这个社会把他们的精力集中在研究一个过去时代的遗迹上，促进了他们的能源生产，但却阻碍了他们其他的研究工作。"
+ civic_harmonious_order:0 "和谐的秩序"
+ civic_harmonious_order_desc:0 "通过巨大的努力，这个国家迎来了和平与合作的黄金时代。他们相信，银河的其他成员也会分享他们对和平的承诺。"
+ civic_engineering_world:0 "工程世界"
+ civic_engineering_world_desc:0 "这个帝国坚信，事实证明的和实际的东西总是胜过理论，它依赖于令人印象深刻的古老基础设施，但却不愿在其他领域探索这种硬件的应用。如果没有坏，就不要修理。"
+
+
+

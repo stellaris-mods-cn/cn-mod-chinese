@@ -1,0 +1,364 @@
+﻿l_simp_chinese:
+
+#Political Events is too long and unwieldy. Hopefully I will add more things here.
+
+#Rebellion Modifiers
+revolutionary_boost_05:0 "反叛势力初始加成"
+revolutionary_boost_05_desc:0 "使得反叛势力有能力造成麻烦\n\n"
+revolutionary_boost_1:0 "$revolutionary_boost_05$"
+revolutionary_boost_1_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_2:0 "$revolutionary_boost_05$"
+revolutionary_boost_2_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_3:0 "$revolutionary_boost_05$"
+revolutionary_boost_3_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_4:0 "$revolutionary_boost_05$"
+revolutionary_boost_4_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_5:0 "$revolutionary_boost_05$"
+revolutionary_boost_5_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_boost_6:0 "$revolutionary_boost_05$"
+revolutionary_boost_6_desc:0 "$revolutionary_boost_05_desc$"
+revolutionary_mobilisation:0 "革命动员"
+revolutionary_mobilisation_desc:0 "整个社会都为革命胜利而动员了起来\n\n"
+revolutionary_mobilisation_0_5:0 "$revolutionary_mobilisation$"
+revolutionary_mobilisation_0_5_desc:0 "$revolutionary_mobilisation_desc$"
+
+
+cc_events_mod.57.name:0 "新锐企业强势崛起"
+cc_events_mod.57.desc:0 "[dpe_merchant_planet.GetName]上一家私人商业公司正在你的人民中越来越受欢迎。这家公司的科学家研发出了现代计算科学的数种独创应用，使得直到不久之前对于普罗大众来说都难以企及的狂野梦想得以实现！公司CEO[dpe_CEO.GetName]迅速成为了[root.GetName]最富有的人之一。[dpe_CEO.GetSheHeCap]已为自己的产品申请了专利，以确保其优势地位。"
+
+cc_events_mod.57.A:0 "[dpe_CEO.GetSheHeCap]会得到专利的"
+cc_events_mod.57.B:0 "将相关研究查封——它对国家利益至关重要"
+cc_events_mod.57.C:0 "否决专利申请，鼓励竞争"
+
+dpe_encouraged_competition:0 "鼓励竞争"
+dpe_disgruntled_CEO:0 "不满的CEO"
+dpe_disgruntled_CEO_desc:0 "本地一位重量级企业家的专利申请被政府回绝"
+dpe_patents_national_interest:0 "维护了国家利益"
+dpe_patents_denied_faction:0 "专利被拒"
+dpe_innovative_CEO:0 "勇于创新的CEO"
+dpe_innovative_CEO_desc:0 "一位勇于创新的CEO使得这颗星球因充满商机而闻名"
+dpe_innovative_CEO_faction:0 "$dpe_innovative_CEO$"
+
+
+#Unity Planet
+dpe_smallpos_events.2.name:0 "[root.GetName]向[root.owner.GetRulerTitle] [root.owner.GetRulerName]致敬"
+dpe_smallpos_events.2.desc:0 "[root.GetName]长期以来都是[root.owner.GetName]政府最坚定的支持者之一。今天，他们的行星总管为一尊[root.owner.GetRulerTitle] [root.owner.GetRulerName]的塑像揭幕，以赞颂[root.owner.leader.GetSheHe]为这颗星球及整个国家作出的贡献，并宣示当地对[root.owner.GetName]的忠诚。"
+
+dpe_unity_planet:0 "政府支持者"
+dpe_unity_planet_desc:0 "这颗星球的公民属于政府最坚定的支持者行列之中"
+
+
+#Leader Debate
+dpe_smallpos_events.4.name:0 "[root.GetRulerTitle] [root.GetRulerName]雄辩无敌！"
+dpe_smallpos_events.4.desc:0 "由[dpe_dissident_faction_leader.GetName]领导的[dpe_dissident_faction.GetName]派系一段时间以来对政府政策大加鞭笞，削弱了国内团结。今天，在一场面向全体[root.GetSpeciesAdj]民众的辩论中，[root.GetRulerTitle] [root.GetRulerName]与[dpe_dissident_faction_leader.GetName]正面交锋，令人信服地驳斥了对方的所有批评，同时为大家描绘了一幅令全体[root.GetSpeciesNamePlural]都心向往之的美好未来图景。"
+dpe_smallpos_events.4.option:0 "我们大家可以带着这股重新燃起的乐观继续前行了！"
+
+dpe_smallpos_events.5.name:0 "[root.GetRulerTitle] [root.GetRulerName]毫无说服力！"
+dpe_smallpos_events.5.desc:0 "由[dpe_dissident_faction_leader.GetName]领导的[dpe_dissident_faction.GetName]派系一段时间以来对政府政策大加鞭笞，削弱了国内团结。今天，在一场面向全体[root.GetSpeciesAdj]民众的辩论中，[root.GetRulerTitle] [root.GetRulerName]与[dpe_dissident_faction_leader.GetName]正面交锋，试图驳斥对方的批评。然而他的努力适得其反，反而是[dpe_dissident_faction_leader.GetName]显得更具说服力。此事更进一步地削弱了执政派系的影响力。"
+
+dpe_persuasive_leader:0 "雄辩的领袖"
+dpe_unpersuasive_leader:0 "笨嘴拙舌的领袖"
+
+
+
+
+
+#Coding: Not too high mtth but big chance of 0. Governor will be more likely on planets with monarchies and democracies (extra flavour text there), admiral and general with military academies, and scientist with universities. Also via ethics and absolute number of planets (boost when >12 and >25)
+
+dpe_smallpos_events.11.name:0 "天才科学家崭露头角"
+dpe_smallpos_events.11.desc:0 "[dpe_talent_leader.GetName]是一位[root.GetDPETalentFlavour][dpe_talent_planet.GetName] [root.GetDPETalentFlavour1]的教授，专精于[root.GetDPETalentField]领域。[dpe_talent_leader.GetHimHer]在自己的领域取得了突破性进展。你的一些顾问建议聘用[dpe_talent_leader.GetHimHer]，让[dpe_talent_leader.GetHimHer]在国家层面继续开展研究，不过其母星的学术团体十分希望能将[dpe_talent_leader.GetHimHer]留在当地。"
+dpe_smallpos_events.11.A:0 "聘用[dpe_talent_leader.GetHimHer]"
+#Spend normal leader costs
+dpe_smallpos_events.11.A.tooltip:0 "[dpe_talent_leader.GetName]是一位专精于[root.GetDPETalentField]的3级科学家，拥有特性$leader_trait_dpe_talented$，现将加入领袖库。"
+dpe_smallpos_events.11.B:0 "[dpe_talent_leader.GetSheHeCap]对[dpe_talent_planet.GetName]更有价值"
+
+dpe_planet_talented_physicist:0 "天才物理学家"
+dpe_planet_talented_physicist_desc:0 "这颗行星因一位天才物理学家的贡献而受益"
+dpe_planet_talented_engineer:0 "天才工程师"
+dpe_planet_talented_engineer_desc:0 "这颗行星因一位天才工程师的贡献而受益"
+dpe_planet_talented_biologist:0 "天才生物学家"
+dpe_planet_talented_biologist_desc:0 "这颗行星因一位天才生物学家的贡献而受益"
+dpe_planet_talented_compscientist:0 "天才计算机科学家"
+dpe_planet_talented_compscientist_desc:0 "这颗行星因一位天才计算机科学家的贡献而受益"
+dpe_planet_talented_socscientist:0 "天才社会学家"
+dpe_planet_talented_socscientist_desc:0 "这颗行星因一位天才社会学家的贡献而受益"
+
+
+dpe_smallpos_events.12.name:0 "天才将领崭露头角"
+dpe_smallpos_events.12.desc:0 "[dpe_talent_leader.GetName]是一位[root.GetDPETalentFlavour][dpe_talent_planet.GetName][root.GetDPETalentFlavour1]的军官，其领袖才能令来访的[root.GetSpeciesAdj]陆军官员们如此印象深刻，他们直接建议将[dpe_talent_leader.GetSheHe]提升为帝国陆军将领。然而，[dpe_talent_planet.GetName]十分希望将[dpe_talent_leader.GetHimHer]留在当地以负责行星防卫。"
+dpe_smallpos_events.12.A:0 "提拔[dpe_talent_leader.GetHimHer] "
+dpe_smallpos_events.12.A.tooltip:0 "[dpe_talent_leader.GetName]是一位3级将领，拥有特性$leader_trait_dpe_talented$及$leader_trait_charismatic$，现将加入领袖库。"
+dpe_smallpos_events.12.B:0 "[dpe_talent_leader.GetSheHeCap]对[dpe_talent_planet.GetName]更有价值"
+
+dpe_planet_talented_general:0 "天才将领"
+dpe_planet_talented_general_desc:0 "这颗行星因一位天才将领的领导而受益"
+
+
+dpe_smallpos_events.13.name:0 "杰出政治家崭露头角"
+dpe_smallpos_events.13.desc:0 "[dpe_talent_leader.GetName]是[root.GetDPETalentFlavour] [dpe_talent_planet.GetName][root.GetDPETalentFlavour1]，[dpe_talent_leader.GetHisHer]领袖气质与杰出政绩令来访的[root.GetSpeciesAdj]官员印象深刻。他们建议在扩充[root.GetName]统治结构的高层时优先考虑这一人选。然而，[dpe_talent_leader.GetName]深受[dpe_talent_planet.GetName]民众爱戴，他们不愿看到自己的领袖离开。"
+dpe_smallpos_events.13.A:0 "提拔[dpe_talent_leader.GetHimHer] "
+dpe_smallpos_events.13.A.tooltip:0 "[dpe_talent_leader.GetName]是一位3级总督，拥有特性$leader_trait_dpe_talented$及$leader_trait_intellectual$，现将加入领袖库。"
+dpe_smallpos_events.13.B:0 "[dpe_talent_leader.GetSheHeCap]对[dpe_talent_planet.GetName]更有价值"
+
+dpe_planet_talented_governor:0 "能力出众的政治家"
+dpe_planet_talented_governor_desc:0 "这颗行星因一位杰出政治家的领导而受益"
+
+
+dpe_smallpos_events.14.name:0 "天才舰队军官崭露头角"
+dpe_smallpos_events.14.desc:0 "[dpe_talent_leader.GetName]是一位负责驻守[dpe_talent_starport_system.GetName]恒星基地的舰队军官，[dpe_talent_leader.GetHisHer]领导能力令来访的[root.GetSpeciesAdj]舰队官员如此印象深刻，他们直接建议将[dpe_talent_leader.GetSheHe]提升为帝国舰队司令。"
+dpe_smallpos_events.14.A:0 "提拔[dpe_talent_leader.GetHimHer]"
+dpe_smallpos_events.14.A.tooltip:0 "[dpe_talent_leader.GetName]是一位3级司令，拥有特性$leader_trait_dpe_talented$及$leader_trait_aggressive$，现将加入领袖库。"
+dpe_smallpos_events.14.B:0 "[dpe_talent_leader.GetSheHeCap]在现在的职位更能发挥价值"
+
+dpe_starbase_talented_admiral:0 "天才舰队军官"
+dpe_starbase_talented_admiral_desc:0 "这处星港因一位杰出舰队军官的领导而受益"
+
+#GetDPETalentFlavour + [dpe_talent_planet.GetName] + GetDPETalentFlavour1
+dpe_talent_flavour_scientist_university:0 "任职于"
+dpe_talent_flavour_scientist_university1:0 "大学"
+dpe_talent_flavour_scientist_default:0 "来自"
+dpe_talent_flavour_blank:0 ""
+
+dpe_talent_flavour_general_academy:0 "毕业于"
+dpe_talent_flavour_general_academy1:0 "军事学院"
+dpe_talent_flavour_general_default:0 "当地将军"
+
+dpe_talent_flavour_governor_royal:0 "一位"
+dpe_talent_flavour_governor_royal1:0 "皇室成员"
+dpe_talent_flavour_governor_democracy:0 "一位活跃于"
+dpe_talent_flavour_governor_democracy1:0 "民主体制中的政治家"
+dpe_talent_flavour_governor_default:0 "当地官员"
+
+#GetDPETalentField: Uses Vanilla "materials" etc localisations
+
+
+
+
+
+#These are actually for colony events, but that file is bloated
+#+2/3 or 3/4 of normal attraction
+cc_authoritarian_influence1:0 "君主制的精神遗产"
+cc_authoritarian_influence1_desc:0 "这颗星球保留着对一位过去统治这里的本地君主的记忆，并深受其影响。"
+
+cc_egalitarian_influence1:0 "直接民主制的精神遗产"
+cc_egalitarian_influence1_desc:0 "这颗星球保留着对过去直接民主自治体系的记忆，并深受其影响。"
+
+cc_xenophile_influence1:0 "亲外主义精神遗产"
+cc_xenophile_influence1_desc:0 "这颗星球保留着对以前当地一位备受爱戴的亲外主义活动家的记忆，并深受其影响。"
+
+cc_xenophobe_influence1:0 "排外主义精神遗产"
+cc_xenophobe_influence1_desc:0 "这颗星球以前曾活跃着一名充满个人魅力的“霸权家”，他致力于保护这里免受外来影响。至今民众依然保留着对他的记忆，并深受其影响。"
+
+cc_materialist_influence1:0 "唯物主义精神遗产"
+cc_materialist_influence1_desc:0 "这颗星球保留着对以前当地一位备受爱戴的学者的记忆，并深受其影响。"
+
+cc_spiritualist_influence1:0 "唯心主义精神遗产"
+cc_spiritualist_influence1_desc:0 "这颗星球保留着对以前当地一位备受爱戴的长老的记忆，并深受其影响。"
+
+cc_pacifist_influence1:0 "和平主义精神遗产"
+cc_pacifist_influence1_desc:0 "这颗星球保留着对以前当地一位备受爱戴的和平主义活动家的记忆，并深受其影响。"
+
+cc_militarist_influence1:0 "$cc_militarist_influence$"
+cc_militarist_influence1_desc:0 "这颗星球以前曾活跃着一名退休舰队军官，被称为“行星使节”。至今民众依然保留着对他的记忆，并深受其影响。"
+
+leader_trait_dpe_talented:0 "天赋异禀"
+leader_trait_dpe_talented_desc:0 "这位领袖拥有常人难以企及的天才，能够轻松成为自己领域中的大师。"
+
+
+
+
+dpe_leader.1.desc:0 "在[system.GetName]星系最近的战斗中，[ship.GetName]号的舰长[officer.GetName]表现卓越，令舰队司令[dpe_admiral.GetName]大为折服，正式要求为这名军官升职。如果您认为我们需要一名新的舰队司令，我们会立即提拔[officer.GetHimHer]。请您示下。"
+dpe_leader.2.desc:0 "在最近的战斗中，由于高层将领的缺席，下层军官们得以崭露头角：[ship.GetName]号的舰长[officer.GetName]主动担起指挥重任，并引领我们取得胜利。舰队中的许多高层都对[officer.GetHimHer]所显露的能力赞赏有加，要求为其升职。我们要提拔[officer.GetHimHer]吗？"
+dpe_leader.1.A:0 "好极了，提拔[officer.GetHimHer] "
+dpe_leader.1.A.tooltip:0 "一位2级舰队司令会被加入领袖库"
+dpe_leader.1.B:0 "我们已经有足够的高层将领"
+dpe_talented_captain:0 "技艺高超的舰长"
+
+
+cc_luddite.30.name:0 "机械劳工大受欢迎"
+cc_luddite.30.desc:0 "随着机械劳工被引入[root.GetName]，[root.GetSpeciesAdj]民众对人工智能与机器人的热情不断高涨。一些反对者担忧大规模应用机器人将会带来冲击与潜在威胁，但他们的观点正逐渐被边缘化。新技术带来的生活水准提升已将疑虑的声音一扫而空。现在大家都对机器人趋之若鹜，相关新兴企业如雨后春笋般蓬勃发展。"
+cc_antiluddite:0 "机械劳工大受欢迎"
+
+
+
+ dpe_dissent_planet:0 "反政府暗流"
+ dpe_dissent_planet_desc:0 "这个星球上的民众对最近的政府决定有些不满。"
+ dpe_posenergy_planet:0 "能量盈余"
+ dpe_posenergy_planet_desc:0 "良好的天气和刻苦的工作使这颗行星的能量产出超过了其生产目标。"
+ dpe_negenergy_planet:0 "能量短缺"
+ dpe_negenergy_planet_desc:0 "恶劣的天气迫使这颗行星未达成其能源生产目标。"
+ dpe_posminerals_planet:0 "发现新矿藏"
+ dpe_posminerals_planet_desc:0 "新发现的矿脉使这个星球上的采矿企业的利润大幅度增加。"
+ dpe_negminerals_planet:0 "矿物贫化"
+ dpe_negminerals_planet_desc:0 "这颗行星上的矿藏正逐渐枯竭，这意味着矿业企业必须花更多的时间寻找新的矿藏。"
+
+ dpe_smallpos_events.20.name:0 "[root.GetName]上正在酝酿动荡"
+ dpe_smallpos_events.20.desc.A:0 "对于政府最近对一个关键基础设施项目的决定，[root.GetName]有相当大的异议。这导致了该星球各种潜在问题浮出水面，激发了人民对当前政府的不满浪潮。"
+ dpe_smallpos_events.20.desc.B:0 "对于政府最近增加地方税收标准的决定，[root.GetName]有相当大的异议。结果，各种潜在问题浮出水面，导致当前政府的不满浪潮。"
+
+ dpe_smallpos_events.21.name:0 "[root.GetName]上的能量盈余"
+ dpe_smallpos_events.21.desc:0 "良好的天气和当地员工的刻苦工作使[root.getname]的能量产出超过了其生产目标。"
+ dpe_smallpos_events.21.desc.gestalt:0 "良好的天气和当地的劳工无人机的刻苦工作使[root.getname]的能量产出超过了其生产目标。"
+
+ dpe_smallpos_events.22.name:0 "[root.GetName]上的能量短缺"
+ dpe_smallpos_events.22.desc:0 "[root.GetName]最大的大陆所经历的漫长而严酷的冬季，导致能源消耗显著增加，同时降低了太阳能生产的效率。因此，[root.GetName]正经历着能源短缺。"
+ dpe_smallpos_events.22.desc.gestalt:0 "$dpe_smallpos_events.22.desc$"
+
+ dpe_smallpos_events.23.name:0 "[root.GetName]上发现新矿藏"
+ dpe_smallpos_events.23.desc:0 "[root.GetName]上的矿业公司报告发现了一个储量巨大的新矿脉。这肯定会促进生产！"
+ dpe_smallpos_events.23.desc.gestalt:0 "我们在[root.GetName]上的采矿无人机报告发现了一个储量巨大的新矿脉。这肯定会促进生产！"
+
+ dpe_smallpos_events.24.name:0 "[root.GetName]上的矿物贫化"
+ dpe_smallpos_events.24.desc:0 "[root.GetName]上的矿藏正逐渐枯竭，这意味着矿业企业不得不花费额外的时间进行新矿脉勘测以取代它们。"
+ dpe_smallpos_events.24.desc.gestalt:0 "[root.GetName]上的矿藏正逐渐枯竭，这意味着矿业无人机不得不花费额外的时间进行新矿脉勘测以取代它们。"
+
+
+
+
+###Defecting Leaders
+
+ dpe_defect_leader.2.name:0 "正在传递的信息"
+ dpe_defect_leader.2.desc.military:0 "[root.GetRulerTitle]万岁!我是 [dpe_defect_leader.GetName],[dpe_defected_country.GetName]至高无上的[dpe_defect_leader.GetTitle]，但是，我的忠臣们仍然滞留于[dpe_defected_country.GetSpeciesNamePlural]，我拥有dpe_defected_country.GetSpeciesNamePlural]最高军事机密的获取渠道,如果你为我提供针对[dpe_defected_country.GetSpeciesAdj]当权者的保护，我想我们有合作的机会。"
+ dpe_defect_leader.2.desc.civilian:0 "[root.GetRulerTitle]万岁!我是 [dpe_defect_leader.GetName],[dpe_defected_country.GetName]至高无上的[dpe_defect_leader.GetTitle]，但是，我的忠臣们仍然滞留于[dpe_defected_country.GetSpeciesNamePlural]，我拥有dpe_defected_country.GetSpeciesNamePlural]秘密物资储备的隐藏地点,如果你为我提供针对[dpe_defected_country.GetSpeciesAdj]当权者的保护，我想我们有合作的机会。"
+ dpe_defect_leader.2.A:0 "你是真正的[root.GetSpeciesName]."
+ dpe_defect_leader.2.A.tooltip:0 "[dpe_defect_leader.GetTitle] [dpe_defect_leader.GetName]将加入[root.GetName]，[dpe_defected_country.GetName]将会感到极大的冒犯。\n"
+ dpe_defects_scientist_tooltip:0 "[root.GetName]获得了研究成果.\n"
+ dpe_defects_governor_tooltip:0 "[root.GetName]获得一笔能量和矿物质。\n"
+ dpe_defect_leader.2.B:0 "我们不会接受叛徒。"
+ dpe_defect_leader.2.B.tooltip:0 "把[dpe_defect_leader.GetHimHer]交给[dpe_defected_country.GetSpeciesNamePlural]。他们会很高兴的。"
+
+ dpe_defect_leader.3.name:0 "[dpe_defect_leader.GetTitle]叛变！"
+ dpe_defect_leader.3.desc.military:0 "[dpe_defect_leader.GetName]窃取了我们的军事机密并叛逃到了[from.GetName]。这是我们军队体系的严重污点,这一事件催生了我国社会上强烈的排外思潮运动,人民要求当权者真正的成为[root.GetSpeciesAdj]的政府。"
+ dpe_defect_leader.3.desc.civilian:0 "[dpe_defect_leader.GetName]窃取了我们的经济机密并叛逃到了[from.GetName]。这是我们政府体系的严重污点,这一事件催生了我国社会上强烈的排外思潮运动,人民要求当权者真正的成为[root.GetSpeciesAdj]的政府。"
+ dpe_defect_leader.3.A:0 "也许他们是对的！"
+ dpe_defect_leader.3.B:0 "必须向[from.GetSpeciesNamePlural]提出抗议！"
+
+ dpe_defect_leader.4.name:0 "正在传递的信息"
+ dpe_defect_leader.4.desc.military:0 "你好, [root.GetSpeciesName]. [dpe_defect_leader.GetName], 是你的[dpe_defect_leader.GetTitle]之一, 联系了我们，提议带着你们的军事机密叛逃到我方。经过我们的评估，我们拒绝了[dpe_defect_leader.GetHisHer]。现在，你们的叛徒就你们自己自行处理吧。"
+ dpe_defect_leader.4.desc.civilian:0 "你好, [root.GetSpeciesName]. [dpe_defect_leader.GetName], 是你的[dpe_defect_leader.GetTitle]之一, 联系了我们，提议带着你们的经济机密叛逃到我方。经过我们的评估，我们拒绝了[dpe_defect_leader.GetHisHer]。现在，你们的叛徒就你们自己自行处理吧。"
+ dpe_defect_leader.4.A:0 "感谢，内务部，立刻逮捕[dpe_defect_leader.GetHimHer]!"
+ dpe_defect_leader.4.B:0 "这就是为什么我们不应该让异形担任在政府内任职的原因！"
+
+ dpe_defect_leader.6.desc.military:0 "我们对[dpe_defect_leader.GetName]的信心似乎放错了地方。[dpe_defect_leader.GetName]窃取了我们的军事机密并叛逃到了[from.GetName]。这是我们军队体系的严重污点,这一事件催生了我国社会上强烈的排外思潮运动,人民要求当权者真正的成为[root.GetSpeciesAdj]的政府。"
+ dpe_defect_leader.6.desc.civilian:0 "我们对[dpe_defect_leader.GetName]的信心似乎放错了地方。[dpe_defect_leader.GetName]窃取了我们的经济机密并叛逃到了[from.GetName]。这是我们政府体系的严重污点,这一事件催生了我国社会上强烈的排外思潮运动,人民要求当权者真正的成为[root.GetSpeciesAdj]的政府。"
+
+ dpe_defect_leader.20.desc.military:0 "似乎 [dpe_defect_leader.GetName]注意到我们对 [dpe_defect_leader.GetHimHer]的调查。[dpe_defect_leader.GetName]窃取了我们的军事机密并叛逃到了[from.GetName]。这是我们军队体系的严重污点,这一事件催生了我国社会上强烈的排外思潮运动,人民要求当权者真正的成为[root.GetSpeciesAdj]的政府。"
+ dpe_defect_leader.20.desc.civilian:0 "似乎 [dpe_defect_leader.GetName]注意到我们对 [dpe_defect_leader.GetHimHer]的调查。[dpe_defect_leader.GetName]窃取了我们的经济机密并叛逃到了[from.GetName]。这是我们政府体系的严重污点,这一事件催生了我国社会上强烈的排外思潮运动,人民要求当权者真正的成为[root.GetSpeciesAdj]的政府。"
+
+ dpe_defect_leader.5.name:0 "不忠诚的指控"
+ dpe_defect_leader.5.desc:0 "[dpe_defect_leader.GetTitle] [dpe_defect_leader.GetName]的员工声称[dpe_defect_leader.GetSheHe]正准备叛逃[dpe_defect_to_country.GetName]。他们声称无意中听到了[dpe_defect_leader.GetHimHer]和其他[dpe_defect_to_country.GetSpeciesNamePlural]的秘密谈话，然而，这名员工无法提供证据来支持他的故事。"
+ dpe_defect_leader.5.A:0 "我们对[dpe_defect_leader.GetSheHeCap]充满信心!"
+ dpe_defect_leader.5.A.defects:0 "[dpe_defect_leader.GetName]叛变！"
+ dpe_defect_leader.5.A.not_defects:0 "[dpe_defect_leader.GetName]仍然忠诚。\n受到[dpe_defect_leader.GetHisHer]的启发与政府在[dpe_defect_leader.GetHimHer]叛逃事件中展示出的态度，该国获得了$dpe_defect_trust_in_xenos$修正,获得 +5%公民幸福度与+50%排外思潮吸引力。"
+ dpe_defect_leader.5.B:0 "立即逮捕[dpe_defect_leader.GetHimHer]!"
+ dpe_defect_leader.5.B.tooltip:0 "[dpe_defect_to_country.GetName]可能会进行反抗。"
+ dpe_defect_leader.5.C:0 "谨慎地调查[dpe_defect_leader.GetHimHer]"
+ dpe_defect_leader.5.C.caught_guilty:0 "[dpe_defect_leader.GetName]被判有罪。"
+ dpe_defect_leader.5.C.flees:0 "在我们抓住[dpe_defect_leader.GetName]之前[dpe_defect_leader.GetHimHer]就叛逃了。"
+ dpe_defect_leader.5.C.no_evidence:0 "[dpe_defect_leader.GetName]被免除责任。"
+ dpe_defect_leader.5.C.caught_investigating_not_guilty:0 "[dpe_defect_leader.GetName]揭发我们的怀疑，并辞职以示抗议。"
+
+ dpe_defect_leader.7.name:0 "值得信赖"
+ dpe_defect_leader.7.desc:0 "看来我们对[dpe_defect_leader.GetName]的信心并没有错,[dpe_defect_leader.GetSheHe]不仅没有背叛, 而且[dpe_defect_leader.GetSheHe]成功地恢复了公众对[dpe_defect_leader.GetHimHer]的信心, 现在[dpe_defect_leader.GetName]被视为异族融入 [root.GetSpeciesAdj]社会的典范。"
+
+ dpe_defect_leader.8.name:0 "[dpe_defect_leader.GetName]是叛徒"
+ dpe_defect_leader.8.desc:0 "我们对[dpe_defect_leader.GetName]的调查发现了[dpe_defect_leader.GetSheHe] [dpe_defect_leader.GetIsAre]计划叛逃的明确证据。我们必须立即采取行动！"
+ dpe_defect_leader.8.A:0 "立刻逮捕[dpe_defect_leader.GetHimHer]!"
+ dpe_defect_leader.8.B:0 "让我们测试一下[dpe_defect_to_country.GetSpeciesNamePlural]."
+ dpe_defect_leader.8.B.tooltip:0 "我们将继续监视[dpe_defect_leader.GetName]并在知道[dpe_defect_to_country.GetSpeciesNamePlural]是否会接受[dpe_defect_leader.GetName]后立即逮捕[dpe_defect_leader.GetHimHer]。"
+
+ dpe_defect_leader.9.name:0 "没有不法行为的证据"
+ dpe_defect_leader.9.desc:0 "我们对[dpe_defect_leader.GetName]的调查没有发现任何证据表明[dpe_defect_leader.GetSheHe] [dpe_defect_leader.GetWasWere]计划叛逃。在公开表示我们对[dpe_defect_leader.GetName]的信任之后，我们可以松一口气，并考虑结束这件事。"
+
+ dpe_defect_leader.10.name:0 "辞职信"
+ dpe_defect_leader.10.desc:0 "尊敬的[root.GetRulerTitle], 我发现了你对我不忠于[root.GetName]的秘密调查。 作为一个国家公民与精英,我对国家缺乏对我的信任感到非常失望。因此，很遗憾，我必须提出辞职。我不能为这样的政府服务。"
+
+ dpe_defect_leader.11.name:0 "国家监禁"
+ dpe_defect_leader.11.desc:0 "我们注意到，[dpe_defect_leader.GetName], 一个[root.GetSpeciesAdj]高级政府官员,正面临破坏政府、间谍等罪行的数项严重控诉. 监禁[dpe_defect_leader.GetHisHer]可能会在[from.GetSpeciesNamePlural]中造成很不好的影响。"
+ dpe_defect_leader.11.A:0 "提出投诉。"
+ dpe_defect_leader.11.B:0 "该人的命运与我们无关。"
+
+ dpe_defect_leader.12.name:0 "正在传递的信息"
+ dpe_defect_leader.12.desc:0 "[root.GetSpeciesName]，我们听说你迫害我们的一个国民，[dpe_defect_leader.GetName],我们要求对[dpe_defect_leader.GetSheHe]提供政治避难。"
+ dpe_defect_leader.12.A:0 "你可以引渡[dpe_defect_leader.GetHimHer]。"
+ dpe_defect_leader.12.B:0 "没门"
+
+ dpe_defect_leader.13.name:0 "$dpe_title_response$"
+ dpe_defect_leader.13.desc:0 "好的，可以把[dpe_defect_leader.GetHimHer]交给你们,[dpe_defect_leader.GetSheHeCap] [dpe_defect_leader.GetIsAre]对我们毫无用处。"
+
+ dpe_defect_leader.14.name:0 "$dpe_title_response$"
+ dpe_defect_leader.14.desc:0 "不行,[dpe_defect_leader.GetSheHeCap]必须获得应有的惩罚."
+ dpe_defect_leader.14.option:0 "你会后悔的。"
+
+ dpe_defect_leader.18.name:0 "行动暴露"
+ dpe_defect_leader.18.desc:0 "你们真的认为这不会逃过我们的注意吗？我们的一位政府官员正计划叛逃？[dpe_defect_leader.GetName]已被逮捕，将继续被我们拘留。我们对你们的行动非常失望。"
+ dpe_defect_leader.18.option:0 "真是失败。"
+
+
+ dpe_defector_scientist_from:0 "叛逃的科学家"
+ dpe_defector_governor_from:0 "叛逃的总督"
+ dpe_defector_military_receive:0 "军事机密"
+ dpe_defector_military_receive_desc:0 "另一个国家的叛逃者带来了他们的军事秘密，这在一段时间内给了我们的海军在战斗中的优势。"
+ dpe_defector_military_from:0 "军事机密泄露"
+ dpe_defector_military_from_desc:0 "一个叛逃到另一个国家的人带走了我们的军事秘密，在一段时间内让我们的海军将处于劣势。"
+ dpe_defector_xenophobe_faction:0 "异族叛逃者"
+
+ dpe_defector_governor_text:0 "国家资源"
+ dpe_defector_scientist_text: "科技"
+
+ dpe_told_of_defector:0 "叛逃者信息"
+ dpe_took_in_defector:0 "接受叛逃者"
+ 
+ dpe_defect_leader_interference:0 "干扰"
+ dpe_defect_leader_incarcerated_national:0 "国家监禁"
+ dpe_defector_xenophobia:0 "仇外浪潮"
+ dpe_defector_xenophobia_desc:0 "我国政府内一个身居高位的异族人叛逃到我们的一个敌人那边，已经使公众对所有异族人产生了反感。"
+ dpe_defector_arbitrary_detention:0 "异族公民任意拘留"
+ dpe_defect_trust_in_xenos:0 "相信异族人"
+ dpe_defect_trust_in_xenos_desc:0 "政府公开给予杰出的异族人的信任的积极例子将会帮助我们建立了一个更加开放的社会。"
+
+
+
+#Election Events
+
+ dpe_election_events.10.name:0 "[root.ruler.GetName]的不当言论"
+ dpe_election_events.10.desc:0 "新当选的[root.GetRulerTitle], [root.ruler.GetName],被证实在[root.ruler.GetSheHe]竞选的过程中，发表了一系列侮辱少数族群的言论，这为[root.ruler.GetHerHim]创造了很多对头，一个由[root.ruler.GetHisHer]敌人组成的联盟看是煽动我们的人民公开对抗[root.ruler.GetHisHer]的当选，他们表示将反对在[root.ruler.GetHisHer]执政期间制定的任何措施"
+ dpe_election_events.10.A:0 "打击异见分子。"
+ dpe_election_events.10.B:0 "我们必须容忍这种情况。"
+ dpe_election_events.10.C:0 "妥协并准备进行新的选举。"
+
+ dpe_election_events.15.name:0 "选举舞弊指控"
+ dpe_election_events.15.desc:0 "反对派领导人对最近选举的最终结果提出了质疑。他们声称，支持[dpe_election_scandal_planet.GetName]的关键星球[dpe_election_scandal_planet.GetName]上的几个重点投票区的投票参与率明显高于当地合格选民数量。许多公民因此走上街头进行抗议， [dpe_election_scandal_accuser.GetTitle] [dpe_election_scandal_accuser.GetName], 控方中最有发言权的人，已经正式要求对事件进行调查。"
+ dpe_election_events.15.A:0 "驳回指控。"
+ dpe_election_events.15.B:0 "开始正式调查。"
+ dpe_election_events.15.B.1:0 "[root.ruler.GetTitle] [root.ruler.GetName]无罪， [dpe_election_scandal_accuser.GetTitle] [dpe_election_scandal_accuser.GetName]被迫辞职。"
+ dpe_election_events.15.B.2:0 "[root.ruler.GetTitle] [root.ruler.GetName]被判有罪并被迫辞职。"
+
+ dpe_election_events.16.name:0 "没有不法行为的证据"
+ dpe_election_events.16.desc:0 "我们对选民舞弊的调查未能提供任何证据来证实反对党提出的指控。 [root.GetRulerTitle] [root.GetRulerName]要求[dpe_election_scandal_accuser.GetName]自行辞职，并永不涉政。"
+ dpe_election_events.16.option:0 "民主的胜利。"
+ dpe_election_events.16.tooltip:0 "从游戏中移除[dpe_election_scandal_accuser.GetTitle] [dpe_election_scandal_accuser.GetName]"
+
+ dpe_election_events.17.name:0 "发现不法行为证据"
+ dpe_election_events.17.desc:0 "我们对选民舞弊行为的调查已经发现了大量的证据,证据表明大量的选票被从电子投票系统中删除，许多支持[root.GetRulerName]的选票被证明是来自死亡已久的公民。当局已经逮捕了[root.GetRulerName]和其他协助舞弊的嫌疑人。"
+ dpe_election_events.17.option:0 "把[root.ruler.GetHerHim]绳之以法！"
+
+
+ dpe_election_events.80.name:0 "赞扬[root.GetRulerName]"
+ dpe_election_events.80.desc:0 "虽然或许有过冲突意见,但现在新的[root.GetRulerTitle], [root.GetRulerName], 被人民誉为能够统一[root.GetName]各个派系的至高之人，时间会告诉我们[root.ruler.GetSheHe]在这项努力中是否会获得成功，但最初的迹象是令人鼓舞的。"
+ dpe_election_events.80.desc.fac_revolt:0 "虽然或许有过冲突意见,但现在新的[root.GetRulerTitle], [root.GetRulerName], 被人民誉为能够统一[root.GetName]各个派系的至高之人，因此[cc_rebellious_faction.GetName]]已经同意暂时停止其分离主义煽动。时间会告诉我们[root.ruler.GetSheHe]在这项努力中是否会获得成功，但最初的迹象是令人鼓舞的。"
+
+ dpe_disillusioned_with_democracy:0 "民主幻想的破灭"
+ dpe_disillusioned_with_democracy_desc:0 "公众对民主的运作失去了信心。"
+
+ dpe_election_scandal_upset_faction:0 "对选举结果感到不安"
+ dpe_political_crackdown_faction:0 "政治镇压"
+ dpe_upset_intolerant_ruler_faction:0 "被统治者侮辱"
+
+ dpe_political_crackdown:0 "政治镇压"
+ dpe_political_crackdown_desc:0 "政府正在镇压所有表达异议的声音。"
+
+ dpe_election_unifying_candidate:0 "一个统治者"
+ dpe_election_unifying_candidate:0 "一个统治者"
+ 
+ dpe_election_unifying_candidate_faction:0 "一个统治者"

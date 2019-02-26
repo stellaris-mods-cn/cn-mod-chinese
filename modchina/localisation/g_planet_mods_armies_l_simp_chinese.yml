@@ -1,0 +1,46 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Armies
+ ###################################################
+ 
+ # normal
+ # 1 army
+ c_precursor_mech_army:0 "回收先驱者机甲"
+ c_precursor_mech_army_desc:0 "回收先驱者机甲花费了很多资源，但我们最终还是成功了!耸立在殖民地之上，拥有巨大的机载武器，这些械甲怪是一种可怕的地面武器。不幸的是，这台机器的庞大意味着我们只能用它来防御。"
+ 
+ precursor_mech_army_trigger_tooltip:0 "§B只能在有先驱者的星球上募集。§!"
+ 
+ # 2 army
+ c_precursor_bunker_army:0 "先驱者地堡单位"
+ c_precursor_bunker_army_plural:0 "先驱者地堡单位"
+ c_precursor_bunker_army_desc:0 "打捞先驱者的地堡。这颗星球上的地堡网格的复杂程度是惊人的。显然是由先进的人工智能设计的。似乎每个地堡都是一个自我维护的系统，我们可以利用它来发挥我们的优势。几乎无法穿透的壁垒意味着我们的敌人需要几个月才能通过。只要有足够的这些掩体，我们就可以无限期地抵御敌对势力。"
+ 
+ precursor_bunker_army_trigger_tooltip:0 "§B只能在有先驱者的星球上募集。§!"
+ 
+ # 3 army
+ c_giant_arachnid_army:0 "巨大的蜘蛛军队"
+ c_giant_arachnid_army_desc:0 "鲜血、汗水和眼泪……大部分是血和眼泪，我们设法驯服了蜘蛛!一个控制性的植入物让我们控制这些巨大的蛛形纲动物。他们通常会尝试吃掉任何他们遇到的东西。从轨道上扔下蛛形纲动物也许足够吓人，但也足以赢得战争!"
+ 
+ giant_arachnid_army_trigger_tooltip:0 "§B只能在有巨大蛛形纲动物的星球上募集。§!\n§R你只能拥有5只蜘蛛军队。§!"
+ 
+ # new 1.9
+ # Machine Empire
+ # 1 army
+ c_precursor_mech_army_machine:0 "先驱者动力甲部队"
+ c_precursor_mech_army_machine_desc:0 "先驱者动力甲部队。 以这些机器作为基础，我们整合了大量的我们自己的系统。 人造关节和肌肉被用来在需要时强制运动。 此外，一个新的电源和一个控制单元都是让这些机器重新运作所需要的。"
+ 
+ precursor_mech_army_machine_trigger_tooltip:0 "§B只能在有先驱者动力甲的星球上募集。§!"
+ 
+ # 2 army
+ c_precursor_bunker_army_machine:0 "先驱者地堡群"
+ c_precursor_bunker_army_machine_plural:0 "先驱者地堡群"
+ c_precursor_bunker_army_machine_desc:0 "先驱者地堡群。 这颗星球上的地堡网格的复杂性是惊人的。显然是由先驱者的人工智能设计的。似乎每个地堡都是一个自我维护的系统，我们可以利用它来发挥我们的优势。几乎无法穿透的墙意味着我们的敌人需要几个月才能通过。只要有足够的这些掩体，我们就可以无限期地抵御敌对势力。通过引入自给自足的无人机群，我们可以确保网格中的每个掩体都能消除任何潜在的入侵者。"
+ 
+ precursor_bunker_army_machine_trigger_tooltip:0 "§B只能在有先驱者地堡的星球上募集。§!"
+ 
+ # 3 army
+ c_giant_arachnid_army_machine:0 "控制性蛛形纲动物群"
+ c_giant_arachnid_army_machine_desc:0 "对这些蛛形纲动物使用广泛的控制论和深度脑植入物，我们设法获得了对这些暴力生物的完全控制。 快速育种计划确保可以使用这些生物的大量供应。 程序设计表现得像一个紧凑、快速移动的群体，他们将确保在几乎任何类型的情况下都能够胜过我们的敌人。"
+ 
+ giant_arachnid_army_machine_trigger_tooltip:0 "§B只能在有巨型蜘蛛动物的星球上募集。§!\n§RC你只能拥有5只蜘蛛军队。§!"

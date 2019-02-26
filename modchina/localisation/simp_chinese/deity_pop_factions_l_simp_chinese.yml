@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ ####################################
+ #	Pop factions
+ ####################################
+ # Demand TITLES are run straight from a pop faction with no
+ # assembled event scope, [Owner.GetName] to get country name.
+ # Tooltips, DESCS and events use the usual [Root.Owner.GetName]
+
+
+ ### NEW FACTIONS
+
+ # Descriptors
+ pft_blood_god:2 "献祭派"
+ pft_blood_god_desc:4 "献祭派希望拯救自己不被牺牲给他们的吸血鬼神。他们把外星生命看作是自己物种生命的完美替代品。\n\n§Lv§!"
+ 
+ 
+ # Blood god
+ BLOOD_FOR_THE_BLOOD_GOD:1 "血之神"
+ NO_BLOOD_FOR_THE_BLOOD_GOD:1 "血神无血"
+ BLOOD_FOR_THE_BLOOD_GOD_DESC:1 "$civic_deity_blood_god_desc$"

@@ -1,0 +1,191 @@
+﻿ # Buildings and jobs
+l_simp_chinese:
+
+ # BUILDINGS AND JOBS
+ building_vbp_hive_pool:0 "原始池"
+ building_vbp_hive_pool_desc:0 "蜂巢主脑第一次睁开眼睛的地方，随着蜂巢的生长和成熟，它最终将会耗尽。"
+ job_vbp_master_drone:0 "神经节个体"
+ job_vbp_master_drone_plural:0 "神经节个体"
+ job_vbp_master_drone_desc:0 "这一最聪明、最任性的生物正处于觉醒集体意识的边缘，祂已经控制了母星上较小的生物。"
+ mod_job_vbp_master_drone_add:0 "$job_vbp_master_drone$ Jobs"
+ job_vbp_prowler_drone:0 "保卫者工蜂"
+ job_vbp_prowler_drone_plural:0 "保卫者工蜂"
+ job_vbp_prowler_drone_desc:0 "几乎不需要睡眠的工蜂徘徊在产卵场周围，不断寻找着猎物和入侵者。"
+ building_vbp_warren:0 "营养蜂房"
+ building_vbp_warren_desc:0 "一个安全的地方，工蜂可以在这里休息，并从为蜂巢服务时遭受的创伤中恢复过来。"
+ building_vbp_mine:0 "矿坑"
+ building_vbp_mine_desc:0 "地面上的一个洞，工蜂去了那里，带回了大量宝贵的资源。"
+ building_vbp_farm:0 "食物区"
+ building_vbp_farm_desc:0 "为专门的工蜂留出的大片土地，用于为蜂巢提供食物。"
+ job_vbp_miner_drone:0 "挖掘者工蜂"
+ job_vbp_miner_drone_plural:0 "挖掘者工蜂"
+ job_vbp_miner_drone_desc:0 "工蜂使用原始工具来获取岩石、矿石和其他矿产资源。"
+ mod_job_vbp_miner_drone_add:0 "$job_vbp_miner_drone$ Jobs"
+ job_vbp_farmer_drone:0 "生产者工蜂"
+ job_vbp_farmer_drone_plural:0 "生产者工蜂"
+ job_vbp_farmer_drone_desc:0 "这种工蜂的任务是生产食物来维持整个蜂巢。"
+ mod_job_vbp_farmer_drone_add:0 "$job_vbp_farmer_drone$ Jobs"
+ building_vbp_factory:0 "蜂巢工业区"
+ building_vbp_factory_desc:0 "工蜂可以从事各种先进工业活动的偏远地区。"
+ building_vbp_power_plant:0 "蜂巢能源区"
+ building_vbp_power_plant_desc:0 "专门用于满足蜂巢不断增长的能源需求的区域。"
+ job_vbp_industry_drone:0 "工业无人机"
+ job_vbp_industry_drone_plural:0 "工业无人机"
+ job_vbp_industry_drone_desc:0 "专门在工业设施中工作的敏捷工蜂。"
+ mod_job_vbp_industry_drone_add:0 "$job_vbp_industry_drone$ Jobs"
+ job_vbp_technician_drone:0 "$job_technician_drone$"
+ job_vbp_technician_drone_plural:0 "$job_technician_drone_plural$"
+ job_vbp_technician_drone_desc:0 "维护蜂巢电网的精密工蜂。"
+ mod_job_vbp_technician_drone_add:0 "$job_vbp_technician_drone$ Jobs"
+ job_vbp_warrior_drone:0 "$job_warrior_drone$"
+ job_vbp_warrior_drone_plural:0 "$job_warrior_drone_plural$"
+ job_vbp_warrior_drone_desc:0 "强大的工蜂守护着蜂巢，随时准备保护它免受入侵者的攻击。"
+ mod_job_vbp_warriror_drone_add:0 "$job_vbp_warrior_drone$ Jobs"
+
+ vbp_col_primitive_hive:0 "原始蜂群世界"
+ vbp_col_primitive_hive_desc:0 "这个世界上存在这萌芽状态的蜂群思维，祂是如此的年轻，以至于无法飞抵太空。"
+
+ # AGES
+
+ vbp_hive_id_stage:0 "原始认知阶段"
+ vbp_hive_id_stage_desc:0 "原始蜂群意识仍处于早期发展阶段，主要受原始本能的支配。在饥饿感和原始恐惧的驱动下缓慢发展，祂距离太空飞行还有很长的路要走。"
+ 
+ vbp_hive_ego_stage:0 "自我阶段"
+ vbp_hive_ego_stage_desc:0 "原始蜂群意识已经达到了几乎完全的自我意识和现实认知，并且已经发展出连贯和复杂的思维过程。蜂群正在利用复杂的工具和科学原理来实现共同的目标。"
+ 
+ vbp_hive_superego_stage:0 "超我阶段"
+ vbp_hive_superego_stage_desc:0 "原始蜂群意识已经对周围环境有了完全的认识和理解，能够提出复杂的问题，并找到相应的解决方案。大量的工蜂正在建造高度精密的设备，并利用先进的知识来实现极其复杂的目标。他们很快就会登临太空。"
+
+ #GOVERNMENTS
+ vbp_hive_mind:0 "原始蜂群思维"
+ vbp_hive_mind_desc:0 "一个年轻的、不发达的蜂群头脑，仍然局限于它的母星，还没有充分发挥它的潜力。"
+ 
+ vbp_hive_civic_id_one:0 "我们饥饿..."
+ vbp_hive_civic_id_two:0 "我们成长..."
+ 
+ vbp_hive_civic_ego_one:0 "我们是谁？"
+ vbp_hive_civic_ego_two:0 "我们想要什么？"
+ 
+ vbp_hive_civic_superego_one:0 "我们的目的是什么？"
+ vbp_hive_civic_superego_two:0 "还有什么？"
+ 
+ vbp_hive_civic_id_one_desc:0 "我们饥饿..."
+ vbp_hive_civic_id_two_desc:0 "我们成长..."
+ 
+ vbp_hive_civic_ego_one_desc:0 "我们是谁？"
+ vbp_hive_civic_ego_two_desc:0 "我们想要什么？"
+ 
+ vbp_hive_civic_superego_one_desc:0 "我们的目的是什么？"
+ vbp_hive_civic_superego_two_desc:0 "还有什么？"
+
+ # ARMIES
+ vbp_hive_guardians:0 "蜂巢守护者"
+ vbp_hive_guardians_plural:0 "蜂巢守护者"
+ vbp_hive_guardians_desc:0 "专门保护蜂巢免受外部威胁的工蜂。"
+
+ #MODIFIERS
+ vbp_hive_irradiated_planet:0 "放射性污染"
+ vbp_hive_irradiated_planet_desc:0 "几千年前，这个星球似乎经历了一场大规模的核灾难。虽然污染随着时间的推移已经逐渐消失，但在某些地方，辐射仍然存在。"
+
+ #BLOCKERS
+ d_vbp_hive_desolate_city:0 "荒凉的城市"
+ d_vbp_hive_desolate_city_desc:0 "很久以前生活在这个星球上的物种留下的遗迹。"
+
+ #EVENTS
+ vbp_hive.100.name:0 "发现[primitive_civ.GetName]"
+ vbp_hive.100.id:0 "[Root.GetName]发现了漫游在[From.GetName]表面的原始生物。\n\n虽然每个个体的智力都非常有限，但似乎有一个统一的智能似乎在引导他们。\n\n看来，将它们结合在一起的蜂巢意识非常原始且兽性十足，无法完全有意识地行动。尽管如此，它仍然显示出拥有萌芽智慧的迹象。\n\n我们应该考虑在蜂群思维的世界之上建造一个§Y观察站§!来更仔细地研究它。"
+ vbp_hive.100.ego:0 "[Root.GetName]发现了漫游在[From.GetName]表面的原始生物。\n\n虽然每个个体的智力都非常有限，但似乎有一个统一的智能似乎在引导他们。\n\n工蜂正在使用复杂的工具，复杂的结构散布在星球地表上，这表明蜂巢思维已经发展出了完全的心智能力，并且正在争取更多资源。\n\n我们应该考虑在蜂群思维的世界之上建造一个§Y观察站§!来更仔细地研究它。"
+ vbp_hive.100.superego:0 "[Root.GetName]发现了漫游在[From.GetName]表面的原始生物。\n\n虽然每个个体的智力都非常有限，但似乎有一个统一的智能似乎在引导他们。\n\n蜂群已经发展出了极其先进的基础设施和工业体系，并且正在试验先进的技术，他们向太空拓展似乎是不可避免的。\n\n我们应该考虑在蜂群思维的世界之上建造一个§Y观察站§!来更仔细地研究它。"
+ 
+ vbp_hive.201.name:0 "[From.GetName]:自我阶段"
+ vbp_hive.201.desc:0 "我们在[From.Capital_scope.GetName]上空观察站报告说，下面的生命活动增多了。\n\n[From.GetSpeciesName]工蜂越来越多，也越来越活跃，祂们以更加复杂的行为模式运动。随着工业化的第一个迹象显现，技术工具正在被调整并在各个单元之间分配。\n\n看起来[From.GetName]现在已经产生了完全的自我意识到并感知到了周围的环境，进入了§Y自我阶段§!."
+ 
+ vbp_hive.211.name:0 "[From.GetName]:超我阶段"
+ vbp_hive.211.desc:0 "我们在[From.Capital_scope.GetName]上空观察站报告说，下面的生命活动增多了。\n\n[From.GetSpeciesName]工蜂已经遍布星球的大部分地区，并开始使用复杂的工具和科学仪器。除了发展工业，祂们现在还在进行各种科学研究。\n\n似乎[From.GetName]已经超越了简单的物质需求，开始将注意力转向科学和哲学追求，进入了§Y超我阶段§!."
+ 
+ vbp_hive.221.name:0 "[From.GetName]:首次发射"
+ vbp_hive.221.desc:0 "[From.GetName]已经掌握了迈向太空时代的最后一个里程碑：发射了祂们的第一个超光速探测器。祂们终于准备离开[From.Capital_scope.GetName]. \n\n我们的观察站已经被拆除。"
+ 
+ vbp_hive.231.name:0 "[From.GetName]发射了一个空间站"
+ vbp_hive.231.desc:0 "Our observation outpost over [From.Capital_scope.GetName]上空的观察站报告说，下面的原始蜂群意识已经成功地将一个空间站发射到稳定的近地轨道上。空间站上的工蜂似乎正在进行各种实验，以帮助蜂群进行科学研究。\n\n这是他们发展的一个重要里程碑。"
+ 
+ vbp_hive.241.name:0 "[From.GetName]已经灭亡了"
+ vbp_hive.241.desc:0 "目前还不清楚[From.Capital_scope.GetName]上的蜂群是死于某种奇怪的疾病，还是统治他们的蜂群意识死于漫长时光的蹂躏，或许甚至是祂自己因为某种神秘原因而选择终结了自己的生命。\n\n无论如何，[From.GetName]已经不复存在。今天早些时候，星球上的工蜂都已全员暴毙。"
+ 
+ vbp_hive.400.name:0 "[From.GetName]:成功提升"
+ vbp_hive.400.desc:0 "今天，我们的顾问完成了他们的使命，将崭露头角的[From.Owner.GetName]带入太空时代。\n\n我们的前哨站已经被拆除，新的开明的蜂群意识成为我们新的附庸国。"
+ 
+ vbp_hive.410.name:0 "[From.GetName]:控制"
+ vbp_hive.410.desc:0 "我们触动了控制[From.GetName]群体的原始蜂群意识，并向祂发起了一场意志之战。\n\n面对我们更古老、更聪明、更坚强的头脑，祂是这是没有任何机会的。\n\n很快祂就倒下了，祂的工蜂变成了我们的工蜂。[From.GetName]已在我们的控制之下。"
+ vbp_hive.410.a:0 "我们现在是一体了..."
+ vbp_hive.410.a.tooltip:0 "我们是 §Y[From.GetName]§! 及其群体的新主人。\n请查看 §S种族§! 界面以决定祂们的命运。"
+ 
+ vbp_hive.420.name:0 "[From.GetName]:分解"
+ vbp_hive.420.desc:0 "通过毒药、病毒制剂、精神药物和心理操纵，我们逐渐瓦解了曾经控制[From.GetName]的原始蜂群意识。\n\n没有一个统一的意识来引导祂们，曾经构成蜂群的生物已经恢复到充满兽性的前智慧时代。"
+ vbp_hive.420.a.tooltip:0 "§Y[From.GetName]§!现在被一种前智慧物种所占据。有了正确的技术，我们可能会将它们提升回之前的程度...或者消灭他们，并占据这个星球。"
+ 
+ vbp_hive.430.name:0 "[From.GetName]:思维解离"
+ vbp_hive.430.desc:0 "我们先进的生物技术不仅将原始蜂群思维解离开来，还赋予了每一只工蜂独立思维。\n\n现在，他们仍然被他们新发现的个人智慧和自由意志所迷惑，他们已经承认我们是他们的合法统治者——就像我们的科学家之前预计的那样..."
+ vbp_hive.430.a:0 "欢迎来到[Root.GetName]，拥抱你们的自由!"
+ vbp_hive.430.a.tooltip:0 "§Y[From.GetName]§!现在是我们的了，它新个性化的人口现在是我们的主题。\n请查看 §S种族§! 界面以决定他们的命运。"
+ 
+ vbp_hive.501.name:0 "[From.GetName]:进展迅速"
+ vbp_hive.501.desc:0 "[Root.GetName]和[From.Owner.GetName]有很多共同点，两者都是蜂群思维，我们很快就能通过充当顾问蜂群个体联系起来。\n\n我们的任何想法都让[From.Owner.GetName]感兴趣，而且祂正在迅速适应新发现的事实。"
+ vbp_hive.501.a:0 "不断的学习，年轻的蜂群。"
+ 
+ vbp_hive.511.name:0 "[From.GetName]:进展缓慢"
+ vbp_hive.511.desc:0 "我们派往[From.GetName]的顾问单位正经历着与有机的原始蜂巢思维联系的巨大困难。祂发现机器化生命形式，并称之为“没有生命的生命”，祂认为这是既可怕又迷人的，尽管祂愿意学习，但我们很难将我们的概念融入祂能理解的语言中..."
+ 
+ vbp_hive.521.name:0 "[From.GetName]:进展缓慢"
+ vbp_hive.521.desc:0 "我们的顾问报告说，星球上的教育项目的进展比他们预期的要慢。\n\n原始蜂群意识对个体智慧物种的概念感到不安和惊讶，但是愿意相信我们。然而，把我们的概念用这样一个人能够理解的语言表达并不容易。"
+ 
+ vbp_hive.531.name:0 "[From.GetName]:抵抗"
+ vbp_hive.531.desc:0 "我们被拉进了一个奇怪的异国梦境，在那里，未成熟的[From.Owner.GetName]蜂群思维沉睡。\n\n“我们知道你是什么，[Root.GetName]，”——上面写着，——“我们知道你想要什么。知道吗，[From.Owner.GetName]不是你的玩物，也不是弱小的猎物。我们准备战斗。”\n\n之后我们被从蜂群意识的头脑中驱逐出去，看起来祂的意志比我们预期的更加顽强。"
+ vbp_hive.531.a:0 "祂会向我们屈服的。"
+ 
+ vbp_hive.541.name:0 "[From.GetName]:免疫响应"
+ vbp_hive.541.desc:0 "[From.Owner.GetName]似乎察觉到了我们试图瓦解祂的阴谋。\n\n在传染病蔓延到整个蜂群之前，它成功地隔离并清除了被我们影响的蜂群个体。\n\n这让我们的进度倒退，但我们会及时适应并超越祂设下的屏障。"
+ vbp_hive.541.a:0 "无论如何，我们都会成功..."
+ 
+ vbp_hive.601.name:0 "[From.GetName]破坏"
+ vbp_hive.601.desc:0 "我们在[hive_planet.GetName]上的战斗取得了胜利，但是附带的损失是巨大的。\n\n蜂群个体已经全部死亡，只留下了一个荒凉的星球。
+ vbp_hive.601.poollost:0 "甚至对我们来说很有价值的孵化池也已经枯萎死亡，仅留下了一个无用的干枯外壳。"
+ vbp_hive.601.a:0 "本来可以更好的..."
+ vbp_hive.601.a.hive:0 "我们战胜了弱小的蜂群思维"
+ vbp_hive.601.a.machine:0 "结果令人满意，虫害消除了。"
+ 
+ vbp_hive.602.name:0 "[From.GetName]瓦解"
+ vbp_hive.602.desc:0 "O我们在[hive_planet.GetName]上的战斗取得了胜利，但是附带的损失是巨大的。\n\n为了确保最终的胜利，我们的部队有效地清除了蜂群思维与下属个体的所有联系，把它的工蜂变成了没有头脑的野兽。"
+ vbp_hive.602.poollost:0 "甚至对我们来说很有价值的孵化池也已经枯萎死亡，仅留下了一个无用的干枯外壳。"
+ vbp_hive.602.a:0 "我们将会决定它们今后的命运。"
+ 
+ vbp_hive.603.name:0 "[From.GetName]主导"
+ vbp_hive.603.desc:0 "我们克服了原始蜂群思维的阻力，抑制了它的神经冲动。\n\n祂的工蜂暂时处于我们的控制之下，但是需要采取额外的措施，因为我们不能永远保持这种控制。"
+ vbp_hive.603.hive:0 "我们已经克服了原始蜂群思维的阻力，把祂的精华运用到我们自己身上。\n\n祂成为了我们的一部分，祂的工蜂现在正处于我们的控制之下。"
+ vbp_hive.603.poollost:0 "然而，本来对我们很有价值的孵化池已经枯萎死亡，只留下了一个无用的干枯外壳。"
+ vbp_hive.603.a.hive:0 "我们现在是一体了。"
+ vbp_hive.603.a.tooltip:0 "我们已经成为 §Y[From.GetName]§! 及其人口的新主人。\n请查看 §S种族§! 界面以决定他们的命运。"
+
+ #OBSERVATION OUTPOST MISSIONS
+ mission_vbp_hive_observation:0 "观察"
+ mission_vbp_hive_observation_desc:0 "原始蜂群思维将会被研究\n\n"
+ 
+ mission_vbp_hive_enlightenment_0:0 "技术提升"
+ mission_vbp_hive_enlightenment_0_desc:0 "原始蜂群思维将会被传授先进的技术，让它更快地到达太空时代。\n\n§E完成后，这项任务将创建一个蜂群思维国家，成为我们的附庸。§!\n\n"
+ 
+ mission_vbp_hive_enlightenment_1:0 "$mission_vbp_hive_enlightenment_0$"
+ mission_vbp_hive_enlightenment_1_desc:0 "$mission_vbp_hive_enlightenment_0_desc$"
+ 
+ mission_vbp_hive_enlightenment_2:0 "$mission_vbp_hive_enlightenment_0$"
+ mission_vbp_hive_enlightenment_2_desc:0 "$mission_vbp_hive_enlightenment_0_desc$"
+ 
+ vbp_hive_TOO_DUMB:0 "不能在§Y原始认知阶段§!中提升原始蜂巢思维。"
+ 
+ mission_vbp_hive_subdue:0 "征服原始蜂群思维"
+ mission_vbp_hive_subdue_desc:0 "我们将准备与原始蜂群意识争夺统治地位。随着年龄越来越大、越来越聪明、越来越坚强，我们一定会征服并吸收祂。\n\n§E完成后，该星球将被吞并，原始蜂群将成为我们蜂群思维的一部分。§!\n\n"
+ 
+ mission_vbp_hive_break_apart_0:0 "摧毁原始蜂群思维"
+ mission_vbp_hive_break_apart_0_desc:0 "我们将逐渐削弱原始蜂群意识，让祂失去对蜂巢的控制。随着时间的推移，祂会死去，而祂的工蜂会变成没脑子的野兽。\n\n§E完成后，土著人将会退化到原始的前智慧时代，如果我们想的话，我们可以在这之后再次提升它们。§!\n\n"
+ 
+ mission_vbp_hive_break_apart_1:0 "瓦解原始蜂群思维"
+ mission_vbp_hive_break_apart_1_desc:0 "我们将逐渐削弱原始蜂群意识，让它失去对无人机的控制。随着时间的推移，祂会死去，而在我们的指导下，祂原本的工蜂将会获得独立心智。\n\n§E一旦完成，这项任务将吞并这个星球，祂的工蜂将成为我们具有独立意志的公民。§!\n\n"

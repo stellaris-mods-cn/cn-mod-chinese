@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+
+# Fallen Ancients - The Preserve Start tile blockers
+ tb_fapreserve_xeno_preserve:0 "£blocker  外星人保护区"
+ tb_fapreserve_xeno_preserve_desc:0 "整个地区都被划为濒危外来物种的保护区。"
+ 
+ tb_fapreserve_ruined_fezoo:0 "£blocker  毁坏的外星人保护区"
+ tb_fapreserve_ruined_fezoo_desc:0 "一个高度复杂的保护区废墟，它曾经完美地维持着“保存”的外来物种的自然栖息地，直到所有的外来物种被屠杀。"

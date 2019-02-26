@@ -1,0 +1,45 @@
+﻿l_simp_chinese:
+
+ VOID_DWELLERS_CANNOT_COLONIZE_PLANETS:0 "§R虚空居民不能殖民星球。§!"
+ 
+ pc_void_dwelling:0 "虚空住所"
+ pc_void_dwelling_tile:0 "$pc_habitat_tile$"
+ pc_void_dwelling_tile_desc:0 "$pc_habitat_tile_desc$"
+ 
+ edict_expand_habitat:0 "扩大栖息地"
+ edict_expand_habitat_desc:0 "我们将开始对这一轨道栖息地进行整修。完工后，可用面积将大大增加。"
+ expand_habitat_tooltip_effects:0 "栖息地始于建设成本需要 §R10,000§! £minerals  §Y矿物§!和§Y5§!年时间。在施工期间§Y幸福度§!和§Y人口资源生产§!减少§R10%§!。完成后，栖息地增加§Y9§!地块。"
+ habitat_expansion_requires_minerals:0 "需要§R10,000§! £minerals  §Y矿物§!"
+ 
+ edict_expand_void_dwelling_1:0 "扩大栖息地"
+ edict_expand_void_dwelling_1_desc:0 "虚空住所在本质上是高度模块化的，并且可以很容易地扩展以满足我们的需要。"
+ edict_expand_void_dwelling_2:0 "$edict_expand_void_dwelling_1$"
+ edict_expand_void_dwelling_2_desc:0 "$edict_expand_void_dwelling_1_desc$"
+ void_dwelling_expansion_1:0 "永久增加栖息地§G7§!地块。"
+ void_dwelling_expansion_2:0 "永久增加栖息地§G9§!地块。"
+ 
+ gateway_ancient:0 "$gateway_restored$"
+ gateway_ancient_DESC:0 "$gateway_restored_DESC$"
+ 
+ void_dwelling_0_MEGASTRUCTURE_DETAILS:0 "§Y$pc_void_dwelling$§!是一个自行维持的空间站，专为永久居住而设计。"
+ void_dwelling_0_CONSTRUCTION_INFO_DELAYED:0 "虚空住所只能由那些§Y虚空居民§!建造。他们以§Y9§!地块开始，但随着时间的推移逐渐增大。"
+ void_dwelling_0:0 "虚空住所"
+ 
+ void_dwelling_1_MEGASTRUCTURE_DETAILS:0 "$void_dwelling_0_MEGASTRUCTURE_DETAILS$"
+ void_dwelling_1_CONSTRUCTION_INFO_DELAYED:0 "$void_dwelling_0_CONSTRUCTION_INFO_DELAYED$"
+ void_dwelling_1:0 "$void_dwelling_0$"
+ 
+ VOID_DWELLING_NAME:0 "[PREVPREV.GetName]居住"
+ 
+ requires_pops_9:0 "§R至少需要§Y9人口§!在星球上§!"
+ requires_pops_16:0 "§R至少需要§Y16人口§!在星球上§!"
+ 
+ personality_fallen_empire_egalitarian:0 "享乐主义者"
+ personality_fallen_empire_egalitarian_desc:0 "这个失落帝国是一个松散的集体，公民享有丰富的自由和奢侈。他们大部分时间都在玩乐。"
+ personality_awakened_fallen_empire_egalitarian:0 "天体解放者"
+ personality_awakened_fallen_empire_egalitarian_desc:0 "这个觉醒的帝国寻求将银河系的智慧种族从暴政中解放出来。他们可能会攻击任何违背他们理想的帝国。"
+ 
+ personality_fallen_empire_authoritarian:0 "绝对的纪律"
+ personality_fallen_empire_authoritarian_desc:0 "这个失落帝国是一个严格有序的政权，公民被视为帝国机器的齿轮。他们大部分时间都是靠自己。"
+ personality_awakened_fallen_empire_authoritarian:0 "专制仲裁者"
+ personality_awakened_fallen_empire_authoritarian_desc:0 "这个觉醒的帝国寻求在银河系执行他们的秩序。他们很可能攻击任何拒绝他们权威的帝国。"

@@ -1,0 +1,1378 @@
+﻿l_simp_chinese:
+
+### SHIP TEXTS
+
+SMALL_SHIP_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (蜂群)"
+SMALL_SHIP_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+SMALL_SHIP_COMBAT_COMPUTER_2:0 "护航舰仿生接口战斗计算机 (哨戒)"
+SMALL_SHIP_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+SMALL_SHIP_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (线列)"
+SMALL_SHIP_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+SMALL_SHIP_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (炮兵)" 
+SMALL_SHIP_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (哨戒)"
+LARGE_SHIP_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (线列)"
+LARGE_SHIP_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (炮兵)"
+LARGE_SHIP_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (狙击)"
+LARGE_SHIP_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
+TITAN_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
+TITAN_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
+TITAN_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)"
+TITAN_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
+GOLIATH_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
+GOLIATH_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
+GOLIATH_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)" 
+GOLIATH_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
+TOWER_COMBAT_COMPUTER:0 "仿生接口战斗计算机 (空间站)" 
+TOWER_COMBAT_COMPUTER_DESC:0 "这种先进的防御系统利用独特的战斗计算机，与该站的炮手形成仿生链接。 它旨在以无情的效率消灭来自银河系的所有威胁。"
+
+FE_ESCORT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_TITAN_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_TITAN_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_GOLIATH_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_GOLIATH_DARK_MATTER_REACTOR_DESC:0 "歌利亚级母舰拥有数以千计的硬件、设备和武器系统。为它们提供能量需要大量的能量，而这种能量只有以暗物质为基础的反应堆才能提供。"
+FE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗空间站提供能量。该空间站是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗空间站提供能量。该空间站是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+ 
+FE_ESCORT_SHIP_THRUSTER:0 "暗物质推进器"
+FE_ESCORT_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
+FE_BATTLECRUISER_SHIP_THRUSTER:0 "暗物质推进器"
+FE_BATTLECRUISER_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
+FE_TITAN_SHIP_THRUSTER:0 "暗物质推进器"
+FE_TITAN_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
+FE_GOLIATH_SHIP_THRUSTER:0 "暗物质推进器"
+FE_GOLIATH_SHIP_THRUSTER_DESC:0 "要让可怕的巨人歌利亚行动起来，就需要重写物理定律本身，而只有这种由暗物质驱动的推进器才能做到这一点。"
+ 
+FE_ESCORT_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_ESCORT_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+
+FE_BATTLECRUISER_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+
+FE_TITAN_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_TITAN_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+ 
+FE_GOLIATH_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
+FE_GOLIATH_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+ 
+FE_SENSOR_SHIP:0 "神秘传感器"
+FE_SENSOR_SHIP_DESC:0 "这种非常先进的传感器设备通过研究散布在空间周围的暗物质层的突然移动来检测来自几个系统的舰船运动。传感器，实时报告所有的移动活动以运送武器，并计算所有可能的敌人移动。"
+
+
+FE_COMBAT_COMPUTER_DEFAULT:0 "虽然我们的先进飞船可能是致命的，但如果我们不在上面安装一个合适的战斗计算机，它就不能正常工作"
+FE_SHIP_THRUSTER:0 "虽然从理论上讲，我们的先进舰船甚至不需要任何推进器就可以摧毁原始飞船，但这仍然是一个不明智的策略"
+FE_REACTOR:0 "我们不会在船上安装反应堆的唯一原因是如果我们打算把反应堆交给那些违抗我们命令的原始人"
+
+ENIGMATIC_DRIVE:0 "神秘跃迁引擎"
+ENIGMATIC_DRIVE_DESC:0 "这个神秘跃迁引擎使用暗物质撕开一个微型虫洞，让舰船比传统的跃迁引擎跳得更远。"
+ 
+HYPER_JUMP_DRIVE:0 "超级翘曲引擎"
+HYPER_JUMP_DRIVE_DESC:0 "与其他跃迁引擎平衡跳跃能力与快速超光速充电相反，超荷超跃迁跃迁被优化为最大的跳跃距离。因此，跃迁在执行基本的超光速旅行时要慢得多。"
+ 
+SHROUD_DRIVE:0 "虚境跃迁引擎"
+SHROUD_DRIVE_DESC:0 "这个神秘的神器在飞船和虚境实体之间形成了契约。该实体以增加能源和矿物为代价，授予我们的舰船极为强大的跳跃技术。船员的灵魂也与实体相连。"
+ 
+WEAPON_EXPLOSIVE_CORE:0 "暗物质导弹预点火器"
+WEAPON_EXPLOSIVE_CORE_DESC:0 "利用暗物质燃料和点燃我们的制导导弹系统可以增加导弹的冲击力和射速。"
+
+WEAPON_KINETIC_CORE:0 "硬光动能载荷"
+WEAPON_KINETIC_CORE_DESC:0 "这是一个复杂的微型工厂，能迅速生产出既坚固又快速的硬轻质军需品。"
+
+WEAPON_ENERGY_CORE:0 "能量反畸变真流形"
+WEAPON_ENERGY_CORE_DESC:0 "这个微型球体拥有强大的神秘能量，它可以通过弯曲时空和无视各种物理定律，直接改善飞船的能量武器系统。"
+
+WEAPON_FIGHTER_CORE:0 "仿生接口上行链路"
+WEAPON_FIGHTER_CORE_DESC:0 "这一强大的仿生界面上行链路允许母舰无情地协调打击飞机，实时准确定位目标的所有潜在弱点。"
+ 
+ENIGMATIC_JUMP_TECH_DESC:0 "早期的理论表明，新一代的跃迁引擎可以是对先驱者驱动器的直接改进，或创建一个独特的但非常小的跳跃驱动器优化非常大的跳跃距离。"
+#### SHIP Tech ####
+
+tech_enigmatic_drive:0 "基于暗物质的超光速技术"
+tech_enigmatic_drive_desc:0 "我们的跃迁引擎是基于零点能量的原理和配置。但现在既然我们已经利用了暗物质的力量，是时候将我们的超光速旅行技术提升到一个新的水平了。"
+
+tech_shroud_jump_drive:0 "影之渡口"
+tech_shroud_jump_drive_desc:0 "再一次，虚境实体与我们取得了联系。这艘船自称“影子渡船”，它提供了一个非常简单的交易;适合于中等能量和矿物的船舶旅行的优越方法。对虚境实体来说，这是一个相当简单的交易。"
+
+tech_energy_core:0 "能量反畸变矩阵"
+tech_energy_core_desc:0 "大多数能量武器都因为重力而变形，使它们无法集中和不稳定。随着一种能够弯曲时空并抵消所有扭曲效应的球形装置的发明，我们的能量武器将实现其全部潜力。"
+
+tech_kinetic_core:0 "硬光动能载荷系统"
+tech_kinetic_core_desc:0 "硬轻质材料是非常耐用和快速的生产。如果我们愿意投入额外的力量来操作它们，也许它们可以被用作火炮的动力炮弹。"
+
+tech_missile_core:0 "暗物质导弹预点火"
+tech_missile_core_desc:0 "当我们探索暗物质越陷越深的应用中,我们发现还可以增加我们的火力和点火速度导弹使用同样的原则作为暗物质推进器。"
+
+tech_fighter_core:0 "仿生打击网络"
+tech_fighter_core_desc:0 "根据先驱者的蓝图，仿生界面计算机在飞船和船员之间形成了一种精神联系。然而，对计算机来说，攻击机太小了，但也许它们可以从母舰上更有效地协调起来?"
+
+tech_sensor_fe:0 "暗物质移动模式分析"
+tech_sensor_fe_desc:0 "我们现在知道暗物质不仅存在于黑洞中，而且存在于所有星系中。这些黑暗物质的数量太少，无法使用，但它们仍然会在运动过程中产生明显的变化。如果我们能研究这种反应，我们就有可能创造出一种新的传感器技术，这种技术优于基于转速的传感器。"
+
+tech_fe_thruster_2:0 "改进型暗物质推进器"
+tech_fe_thruster_2_desc:0 "失落帝国所使用的推进器相当古老，并不像他们想象的那么强大。如果我们能改进这些推进器的内部工作原理，我们将能够带回真正强大的船舶引擎，与我们的提升帝国相称。"
+
+tech_sensors_dm:0 "仿生传感器"
+tech_sensors_dm_desc:0 "先进的传感器，使用仿生链接技术探测敌方舰船。该系统既能检测有机物，又能检测机器。"
+
+tech_fe_escort_hull:0 "标准化加固护航舰船体"
+tech_fe_escort_hull_desc:0 "基于同样的原则，我们的旧船的船体升级，我们可以加强我们的护卫舰的结构完整性，进一步提高其生存性，并降低建设成本。"
+
+tech_fe_battlecruiser_hull:0 "标准化加固战列巡洋舰船体"
+tech_fe_battlecruiser_hull_desc:0 "基于相同的原则，我们的旧船的船体升级，我们可以加强我们的巡洋舰的结构完整性，进一步提高其生存能力，并降低建设成本。"
+
+tech_fe_titan_hull:0 "标准化加固泰坦船体"
+tech_fe_titan_hull_desc:0 "基于与我们的旧船的船体升级相同的原则，我们可以加强泰坦的结构完整性，进一步提高其生存能力，并降低建造成本。"
+
+tech_fe_goliath_hull:0 "标准化加固歌利亚船体"
+tech_fe_goliath_hull_desc:0 "基于与我们的旧船的船体升级相同的原则，我们可以加强我们的歌利亚的结构完整性，进一步提高其生存能力，并降低建设成本。只有最致命的舰队才能摧毁我们帝国的骄傲。"
+
+TECH_UNLOCK_SHROUDDRIVE:0 "§H解锁组件:§! 虚境跃迁引擎"
+TECH_UNLOCK_SHROUDDRIVE_DESC:0 "§H$虚境跃迁引擎$§!\n$SHROUD_DRIVE_DESC$"
+
+TECH_UNLOCK_ENIG_DRIVE:0 "§H解锁组件:§! 新一代跃迁引擎"
+TECH_UNLOCK_ENIG_DRIVE_DESC:0 "§H$Enigmatic Jumping Techniques$§!\n$ENIGMATIC_JUMP_TECH_DESC$"
+
+TECH_UNLOCK_EXPLOSIVE_CORE:0 "§H解锁组件:§! 暗物质导弹预点火器"
+TECH_UNLOCK_EXPLOSIVE_CORE_DESC:0 "§H$Dark Matter Missile Pre-Igniter$§!\n$WEAPON_EXPLOSIVE_CORE_DESC$"
+
+TECH_UNLOCK_KINETIC_CORE:0 "§H解锁组件:§! 硬光动能载荷"
+TECH_UNLOCK_KINETIC_CORE_DESC:0 "§H$Hard-light Kinetic Payload$§!\n$WEAPON_KINETIC_CORE_DESC$"
+
+TECH_UNLOCK_ENERGY_CORE:0 "§H解锁组件:§! 能量反畸变真流形"
+TECH_UNLOCK_ENERGY_CORE_DESC:0 "§H$Energy Counterdistortion Manifold$§!\n$WEAPON_ENERGY_CORE_DESC$"
+
+TECH_UNLOCK_FIGHTER_CORE:0 "§H解锁组件:§! 仿生接口上行链路"
+TECH_UNLOCK_FIGHTER_CORE_DESC:0 "§H$Bionic-Interface Hanger Uplink$§!\n$WEAPON_FIGHTER_CORE_DESC$"
+
+TECH_UNLOCK_FE_THRUSTER_TITLE:0 "§H解锁组件:§! 改进型暗物质推进器"
+TECH_UNLOCK_FE_THRUSTER_DESC:0 "§H$改进型暗物质推进器$§!\n$FE_ESCORT_SHIP_THRUSTER_2_DESC$"
+
+TECH_UNLOCK_FE_SENSOR_TITLE:0 "§H解锁组件:§! 神秘传感器"
+TECH_UNLOCK_FE_SENSOR_DESC:0 "§H$E神秘传感器$§!\n$FE_SENSOR_SHIP_DESC$"
+
+mod_shipsize_fe_escort_hull_add: "护航舰船体值"
+mod_shipsize_fe_battlecruiser_hull_add: "战列巡洋舰船体值"
+mod_shipsize_fe_titan_hull_add: "堕落泰坦船体值"
+mod_shipsize_fe_goliath_hull_add: "歌利亚船体值"
+
+mod_shipsize_fe_escort_build_speed_mult: "护航舰建造速度"
+mod_shipsize_fe_battlecruiser_build_speed_mult: "战列巡洋舰建造速度"
+mod_shipsize_fe_titan_build_speed_mult: "堕落泰坦建造速度"
+mod_shipsize_fe_goliath_build_speed_mult: "歌利亚建造速度"
+
+mod_shipsize_fe_escort_build_cost_mult: "护航舰建造成本"
+mod_shipsize_fe_battlecruiser_build_cost_mult: "战列巡洋舰建造成本"
+mod_shipsize_fe_titan_build_cost_mult: "堕落泰坦建造成本"
+mod_shipsize_fe_goliath_build_cost_mult: "歌利亚建造成本"
+
+#### ARMY Tech ####
+
+tech_dark_matter_army: "地面战斗暗物质的实现"
+tech_dark_matter_army_desc: "现在有可能利用暗物质为基础的技术，如反应堆和盾构偏转器，以最低限度的成本调整来彻底改变我们的入侵军队。如果我们想在地面作战上确立优势，就应该毫不拖延地进行这项研究。"
+
+tech_missile_infantry: "便携式中子发射器"
+tech_missile_infantry_desc: "几十年前，任何人都会嘲笑把中子发射器变成手持式武器的想法。但是有了这个新的暗物质技术，把这个梦想变成现实应该是一个简单的任务。"
+
+tech_elite_clone: "精英克隆军队计划"
+tech_elite_clone_desc: "我们的军事理论家们建议，我们可以通过招募著名的赏金猎人作为他们的模板和作战训练师来制造极其致命的克隆军队。我们只需要给它们一小部分暗物质作为回报。显然，我们操纵了这些反应堆，几年后它们就会爆炸。"
+
+tech_heavy_trooper: "机动步兵师-战争中的和平"
+tech_heavy_trooper_desc: "我们的军国主义理想要求更强大的步兵师，即使是先锋部队。为此，我们将组建一个新的步兵师，全副武装，装甲部队进行全面进攻。这些士兵将证明我们只能通过战争缔造和平，而不是坐牢和制造无用的协定。"
+
+tech_shadow_sniper: "文明武器：文明时代"
+tech_shadow_sniper_desc: "我们珍视生命，甚至敌人的生命。他们必须被允许看到他们的方式的错误，但是我们不能用我们当前破坏性的武器来执行这样的大胆任务。为此，我们必须开发和训练专门装备的部队，以便只以极端的效率掠夺敌对目标。结束了，仇外-我们有高地。"
+
+tech_dark_matter_tank: "坦克战重演"
+tech_dark_matter_tank_desc: "2200年初，由于运输和部署在战场上的物流噩梦，坦克战逐渐被淘汰。然而。跳跃驱动和暗物质反应器的发展使我们能够彻底改变地面战斗。不久，我们可怕的坦克很快将再次重返战场。"
+
+tech_dark_matter_megatank: "赫克勒斯计划，迷信信仰的终结"
+tech_dark_matter_megatank_desc: "一些唯心主义者嘲笑战争中我们使用的“无灵魂机器”，而忽视机器和优秀技术赢得战争的事实，而不是愚蠢的信念。我们必须让他们理解这个简单的事实，通过创造一个“大而强大”的“无灵魂机器”，来催生这些唯心主义的白痴们去他们承诺的涅盘。"
+
+tech_black_widow: "中和狙击公会"
+tech_black_widow_desc: "当我们不享受生命的时候，我们必须承认我们的中立者确实喜欢结束仇外偏见的威胁。公会的正式形成将允许我们从精英精英队伍中汲取最好的精华。然后这些训练将被训练、扩充和装备我们最先进的狙击设备。"
+
+tech_inquisitor: "问责制秩序的形成"
+tech_inquisitor_desc: "虽然我们的帝国已经有专门的牧师帮助我们的人民走向更大的目标，我们看到创造一个新的宗教教派的可能性，直接使用这些新的暗物质能量的军队。"
+
+tech_soul_purifier: "异种歧视"
+tech_soul_purifier_desc: "我们的人民已经接受了一个简单的事实：我们是这个宇宙中唯一真正文明的物种，所有其他动物都只是动物——存在被净化的动物。但是清除这些野兽需要一种致命的力量，一种能净化异种污点并在他们中的人的恐惧中打恐惧，他们敢举起手来对抗我们。当我们的军队到来时，他们会乞求死亡。"
+
+tech_peacekeeper: "和平、自由、正义与安全的拥护者"
+tech_peacekeeper_desc: "为了实现真正的和平，我们必须组织一支新的维和部队，作为我们边境的前线士兵和系统警察部队。我们将缔造和平的新篇章，并向这些被误导的军国主义战争者证明，战争和和平可以用脑力而非战争来赢得。"
+
+tech_commissar_lord: "政委加冠"
+tech_commissar_lord_desc: "即使在政委队伍中，也有一些人表现出非凡的勇气和灵感。有一些政委的故事，他们能够激励奴隶士兵停止面对面坦克直接动动炮弹射击。这样的献身精神和技能必须得到奖励，政委头衔的第一个加冠应该立即完成。"
+
+tech_dark_psion: "第二件礼物"
+tech_dark_psion_desc: "我们收到了一个有趣的消息，最近有报道说裹尸布已经选择了另一个人，从我们黑暗的门徒的队伍中作为另一个化身。虽然没有原来选择的强大，但它具有更大的破坏力。我们应该立即把这个人找出来。"
+
+tech_liberty_gunship: "空域优势"
+tech_liberty_gunship_desc: "武装直升机的概念对我们来说并不陌生。自从我们进入太空之前，我们控制了我们家园的天空，摧毁了那些不接受我们武装直升机的民主国家。我们现在可以再次使用任何新的技术来获取行星。很快，我们将从天上的天空降下自由和自由。"
+
+tech_omni_warmech: "暗物质动力战斗机"
+tech_omni_warmech_desc: "我们必须利用从千兆获得的新技术来改进我们目前的战斗机设计。我们的入侵单位必须能够对抗所有类型的威胁，无论是有机物还是其他机器。"
+
+tech_enforcer: "绝对权力"
+tech_enforcer_desc: "我们必须向那些注定要成为我们臣民的人显示绝对的权威，军队可能会赢得战争，但是我们的新的执行者会提醒臣民他们的命运与我们最终的意志是息息相关的。"
+
+tech_godmech: "终极战争机器"
+tech_godmech_desc: "有机物在其非正统的策略中从未停止超过我们既定的参数，我们收到关于“灵能士兵”、“基因增强的超级战士”或“超大型战斗车辆”的数据。我们不能……不会复制他们的设计。相反，我们将创造我们自己的终极战争机器，它将停止所有可能的抵抗力。"
+
+tech_omnidroid: "千兆AI分析"
+tech_omnidroid_desc: "令人惊讶的是，有记录表明，先驱们在机器人技术方面取得了这样的进步，记录表明他们的机器和任何有机生命一样先进，然而他们完全忠于他们的创造者，没有独立的欲望。也许他们有什么独特之处？我们必须深入挖掘。"
+
+tech_spm_battledroid: "人海战术"
+tech_spm_battledroid_desc: "我们发现了一种经常被有机物使用的战术，用相同的模板构造大量战斗单位，用纯粹的数字来制服敌人。我们的战略评估单位建议我们采用相似的策略。大量廉价、耗时的战斗机具有简单的敌我识别码，能够压倒有机物，具有明显的数值优势。有机物很快就会明白他们自己的错误的后果。"
+
+tech_dark_templar: "攻击性心灵攻击"
+tech_dark_templar_desc: "灵能战士，由于他们的心灵感应和破坏敌人士气的能力已经强大，仍然容易受到机器或基因士兵的伤害。我们必须开始训练新一代的灵能战士，他们能够以更直接的方式使用他们的灵能来攻击我们的敌人。"
+
+tech_living_saint: "信仰的选择"
+tech_living_saint_desc: "即使是在我们最忠实的人民中，也有一些人不仅忠于信仰，而且似乎受到精神本身的青睐和选择。圣人故事，展现神圣的光环遍布我们的系统。我们应该很快找到他们，并将他们神圣化为我们神圣秩序的合法圣徒。"
+
+tech_terror_beyond: "集体意识"
+tech_terror_beyond_desc: "自我需要的是无人机，遵循指令并摧毁我们的敌人-没有-自我需要自我可以直接控制的化身。从这个恐怖化身中，我们的集体会粉碎所有敌人，无论是分裂的、金属的还是对立的蜂群。"
+
+tech_liberty_prime: "自由之初"
+tech_liberty_prime_desc: "无论是空运还是陆运，所有人都要用我们的双手向民主屈服。我们已经在战场上与我们的武装舰艇建立了统治地位。最后，突破多个防空电池的重型防御工事需要一个致命的攻城武器。一个值得展示自由和民主的武器！"
+
+tech_xenoartillery: "焦灼的星球"
+tech_xenoartillery_desc: "我们已经浪费了足够的时间试图用护盾发生器轰击行星或猛烈攻击昆虫的蜂巢。我们的军事战略家们要求我们制造一种新武器。一座泰坦尼克号的大炮，能在我们的敌人的垃圾桶上降下谋杀和混乱。附带损害是该死的，因为他们选择出生异种败类。"
+
+tech_captain_pacifist: "和平捍卫者"
+tech_captain_pacifist_desc: "我们的维和人员很适合保持和平，但并不总是创造和平。幸运的是，我们的一些科学家起草了一个计划来创建一个和平的标志性信标，它很适合说服其他人，和平是唯一的途径。这听起来很愚蠢，但预测的数据确实是可靠的。"
+
+tech_godofwar: "向战争之神致敬！"
+tech_godofwar_desc: "打击敌人阵营需要的不仅仅是武器，它需要一个人，如此无畏和强大，“战争之神”的标题最适合。我们应该开始从我们的队伍中挑选候选人，并立即开始这个项目。"
+
+tech_controller: "他们所有的想法都属于我们"
+tech_controller_desc: "分析分裂的头脑……“最近有人给我们制造炸弹。什么！主屏幕打开。我们必须阻止敌人。他们正在走向毁灭的道路上。他们没有时间生存的机会。W&T&F？我们现在明白了，这些分裂是无法拯救的，我们必须塑造新型的战士，专门控制和擦除被分割的无人机的头脑，这样他们就可以被拯救。"
+
+tech_doom_hero: "先驱者遗传"
+tech_doom_hero_desc:  "虽然我们已经达到了我们物种遗传潜力的最终顶点，但它仍然不如前体。我们的生物学家认为，利用前体的一些最致命和最强大的特性，可能创造出银河系有史以来最强大的焊料之一。"
+
+tech_elite_genetrooper: "完美的基因"
+tech_elite_genetrooper_desc: "通过我们已经获得的技术，我们可以进一步增加我们现有的基因焊料，使其具有我们物种能够适应的最佳特性，大大提高它们的作战能力。然后他们会得到我们最新的暗物质武器和设备。"
+
+tech_omnisynth: "合成网络突击队: 亥伯龙神项目"
+tech_omnisynth_desc: "虽然我们的全能机器人因其超强的耐久性而非常适合作为我们的主要正面攻击单位，但这种坚不可摧的代价是妨碍他们的机动性，使他们成为大目标。另一方面，SCS-900速度更快，规避能力更强，但缺乏适当的火力，容易受到士气下降的影响。我们的网络工程师认为我们可以创造出完美的Synth突击队，它拥有无与伦比的敏捷性和火力，能够在纳秒内计算出战场，同时仍然保留他作为一个有知觉的存在的所有记忆。" 
+
+tech_synthtrooper: "同步网络焊接"
+tech_synthtrooper_desc: "全能机器人是灵活的，能够进行复杂的运动，但仍然受到笨重的尺寸和某些人工智能缺陷的限制。也许如果我们使用真正的合成焊料，尽管他们容易受到士气下降的影响，但他们可以成为更有效的焊料。"
+
+####Army Description ####
+
+conscript_army: "征兵"
+conscript_army_desc: "在危急时刻，必须采取严厉措施确保帝国的生存。征兵人员训练不好，装备不好，在任何时候都是低实战能力，但他们很便宜，很快就要入伍。然而，他们仍然是我们自己的人民，我们仍然会因他们的损失而饱受战争的煎熬。"
+
+fe_army: "高级突击军"
+fe_army_desc: "这些士兵装备了最新的基于暗物质的武器和盔甲，使他们远远优于他们的前辈，同时需要最少的维护成本调整。"
+ 
+fe_missile_army: "中子导弹步兵师"
+fe_missile_army_desc: "配备了破坏性中子发射器，这些拆除专家擅长进行迈克尔贝层性能。"
+
+fe_clone_army: "精英克隆军队"
+fe_clone_army_desc: "这些克隆是由著名赏金猎人的模板创建的，并通过他们的模板进行广泛的训练，成为最好的克隆军队。然而，它们最终还是可以消亡的。"
+
+fe_heavy_army: "重型机动步兵小队"
+fe_heavy_army_desc: "这些全副武装和装甲兵接受额外的战斗训练，使他们能够在我们的军国主义者要求的所有作战情况和环境中胜出。"
+
+fe_sniper_army: "精英中和狙击小队"
+fe_sniper_army_desc: "这些狙击手献身于我们的异族事业。他们被训练成只中和作战有效的敌人，并防止任何不必要的流血和附带损害的代价。"
+
+fe_tank: "毁灭坦克师"
+fe_tank_desc: "这些高度先进的坦克配备了致命的质量加速器加农炮和小型化的跳跃驱动，允许坦克绕过所有困难的地形，并从每一个可能的角度进行打击。"
+
+fe_hercules_tank: "大力神重型战斗坦克"
+fe_hercules_tank_desc: "这些巨大的庞然大物可以利用战场上的双聚焦电弧发射器、多个导弹吊舱、自动驾驶舱或者在他们巨大的步履下简单地通过它们来摧毁战场。让我们看看那些愚蠢的唯心主义者会如何对抗我们的力量呢？"
+
+fe_inquisitor_army: "审判部队"
+fe_inquisitor_army_desc: "这些热心的神圣战士进入战争中，携带着神圣的盔甲和神圣的盔甲，被黑暗物质力量所迷惑。他们被训练来发泄内心的信仰来保护自己免受伤害。这种痴迷不能被愚蠢的唯物主义的非信徒所了解。"
+
+fe_deathbringer_army: "驱逐舰中队"
+fe_deathbringer_army_desc: "这些可怕的，重装甲士兵是我们的仇外意志表现出来。他们从世界走向世界，用他们的反物质大炮彻底摧毁了所有的异种人，炮轰了所有异种的踪迹——来自存在的原子。没有人会从我们痛苦的火焰中解脱出来。"
+
+fe_peacekeeper_army: "维和部队"
+fe_peacekeeper_army_desc: "这些军警部队在使用炸药和破坏性武器时受过训练。他们擅长通过非致命手段结束战斗，但不会对战争贩子施以怜悯。法律应该在他们身上找到它的身影。"
+
+fe_omnidroid_army: "智能机械军队"
+fe_omnidroid_army_desc: "这些由暗物质驱动的战争机器人，在重型装甲和偏转器中被保护，能够执行任何复杂的任务，比如一个完全有知觉的存在。但是他们没有自由意志的欲望，因此，我们将永远忠于我们的事业。"
+
+fe_omnimech: "全能战斗部队"
+fe_omnimech_desc: "这些致命的杀人机器有限的战术决策，允许他们对大多数类型的有机策略作出反应，并使它们适应自己的策略。尽管尺寸更大，它们也更快更结实。"
+
+fe_spmdroid_army: "SPM-1战斗单元"
+fe_spmdroid_army_desc: "SPM-1单元是批量生产的只有一个IF配置的战斗机器人。拍摄任何不属于我们机器的东西。它们是脆弱的，笨重的，相当愚蠢的，这是由他们压倒性的数字补偿，很容易对付有机克隆军队。"
+
+fe_unsullied_army: "奴隶军团"
+fe_unsullied_army_desc: "未受玷污的是奴隶孕育的战士，从出生就被训练成我们帝国的致命战士。他们接受适当的训练，这是大多数现代军队所期望的，使他们能够比普通士兵更出色。然而，他们仍然是奴隶，他们的死亡对我们的战争努力意义不大。"
+
+fe_gunship: "自由武装直升机"
+fe_gunship_desc: "这些巨大的、高度先进的武装直升机非常适合给所有压迫者带来自由和自由。配备强大的双全能火炮和微型导弹，能够同时锁定多达1337个不同的目标，同时传播强大的宣传信息敌人投降。正义从天上降下！！"
+
+fe_enforcer_army: "地狱军官"
+fe_enforcer_army_desc: "这些军官是我们权威的终极表现者。他们鼓舞人心的表现鼓舞了我们的军队，打击了我们的敌人。敌人会服从我们的规则，否则我们的执行者会让他们这样做。"
+
+fe_disciple_army: "黑暗信徒"
+fe_disciple_army_desc: "这些人不仅精通他们的武器，而且能够直接对敌人造成毁灭性的心灵攻击。"
+
+fe_mastermind: "操纵大师"
+fe_mastermind_desc: "这些微小生物在轨道上大量部署，它们会迅速锁定敌人并立即控制它们。这些奴隶会像野兽一样反抗自己。"
+
+fe_godmech: "上帝机械-根除者"
+fe_godmech_desc: "虽然我们不相信这个被称为“神”的纯粹有机制造实体的概念，但分析估计，命名这种巨型战争机器会对有机物产生更有效的威胁。这台机器的单能量喷枪很容易将整个建筑熔化成灰烬。" 
+
+godmech_limit_tooltip: "上帝机械-根除者直接连接到我们的中央处理器本身。我们只能假设直接控制这样的机器之一。"
+
+fe_hero_blackwidow: "黑寡妇"
+fe_hero_blackwidow_desc: "黑寡妇是银河系最致命的狙击手。他们训练有素的潜行，破坏，并配备了最先进的个人超速枪狙击步枪，使他们能够中和多个敌方战斗人员与一个完全执行的镜头。"
+
+blackwidow_limit_tooltip: "只有最致命和最熟练的中立者才能获得黑寡妇的军衔，因此我们只能支持这些精英狙击手的一个阵营。"
+
+fe_hero_lordcommissar: "政委领主"
+fe_hero_lordcommissar_desc: "只有最有成就和最了不起的政委才能获得政委勋爵的职位。这是他们的地位，一个政委领主有权处死任何人，因为统治者的无能。他们指挥着一群狂热的忠诚的士兵，他们争相赢得政委的恩宠。"
+
+comlord_limit_tooltip: "只有少数几个政委当权的政委，到目前为止，我们还没能生产出不止一个。"
+
+fe_hero_psion: "黑暗心灵术士"
+fe_hero_psion_desc: "庇护所最有天赋的弟子，暗冥的物理能力仅低于被选中的那个。黑暗心灵术士能够释放毁灭性的灵能风暴，在任何手握灵能生物的战场上，对战场造成破坏和破坏。"
+
+psion_limit_tooltip: "到目前为止，裹尸布只赋予了如此强大的力量，只有一个黑暗心灵术士，我们还没有发现另一个拥有类似的灵能。"
+
+fe_hercules_tank: "大力神重型战斗坦克"
+fe_hercules_tank_desc: "这些巨大的庞然大物可以利用战场上的双聚焦电弧发射器、多个导弹吊舱、自动驾驶舱或者在他们巨大的步履下简单地通过它们来摧毁战场。让我们看看那些愚蠢的唯心主义者会如何对抗我们的力量呢？"
+
+megatank_limit_tooltip: "大力神项目是一个巨大的投资，专门用来摧毁灵性主义的傻瓜，否则它是一个非正统的机器。建造这些坦克的一个以上师很可能是不明智的，可能会让我们的战略家们更喜欢更灵活的军队。"
+
+fe_living_saint: "圣徒"
+fe_living_saint_desc: "圣徒是那些体现信仰纯洁的人。他们散发着正义和纯洁的光环，赋予军队以坚不可摧的士气。拯救将通过罪孽带到罪人身上！"
+
+saint_limit_tooltip: "圣徒是稀有的人，有些牧师把自己完全献身于希望成为一个信仰的信仰中，却毫无用处。唉，我们帝国再也找不到更多的圣人来组建一支合适的军队了。"
+
+fe_terror_beyond: "超越恐惧的恐怖"
+fe_terror_beyond_desc: "与蜂群思维本身相关的是，来自于超越的唯一目标是消耗一切——有机分裂、金属、能量。它作为自我的延伸而存在，它消耗的任何东西赋予蜂群心灵以力量，这反过来赋予恐怖力量力量。"
+
+terror_limit_tooltip: "蜂群心智必须直接控制恐怖，我们不能转移更多的灵能连结来控制另一个可怕的有机体。"
+
+fe_libertyprime: "自由意志"
+fe_libertyprime_desc: "自由意志是一个巨大的机器，代表着真正的平等主义的终极力量。它在战场上高耸入云，用民主的爱国主义引诱盟国，同时用它的雷鸣般的声音和毁灭的光束来恐吓自由的敌人。拥抱民主或死亡！！！！" 
+
+prime_limit_tooltip: "自由意志是一项巨大的投资，需要数以千计的复杂的作战计算机来适当地识别所有可能的违法者并根据需要管理处罚协议。我们现在还不能建立另一个。"
+
+fe_xenoartillery: "启示三炮炮兵"
+fe_xenoartillery_desc: "这个巨大的炮兵装备了启示录类三炮，可以从极端范围发射毁灭性的伤害。最大的附带损害和对敌人的全面破坏是有保障的。必须让他们明白他们没有生存的权利。"
+
+xenoart_limit_tooltip: "我们的大多数内部圈子已经同意了建造这支大炮的许多说服力，我们不太可能说服另一只野兽而不是简单地把异教徒从轨道上轰炸出来。"
+
+fe_hero_godofwar: "战争之神"
+fe_hero_godofwar_desc: "这个基因增强的超级战士能够释放正义的愤怒，跃入战斗的深度，破坏敌人线的破坏。他不惧怕死亡，因为他本身就是死亡。让我们的敌人谨防，因为他们面对战争之神。"
+
+god_limit_tooltip: "只有一个真正的战争之神。永远不会更多。"
+
+fe_hero_captainpacifist: "和平主义队长"
+fe_hero_captainpacifist_desc: "配备了强大的喷气背包，和平卫士队长飞入战斗，并使用他们的黄金眼睛强大的能源武器武器的战争贩子。与野蛮人相比，队长可能不是最强大或最致命的士兵或战争机器，但他完全致力于我们的事业以结束所有战争。"
+
+captain_limit_tooltip: "在技术上，我们拥有制造一个以上的和平主义者所需的资源，但我们找不到任何真正想走这么远的人。"
+
+fe_synthcommando_army: "SCC-1000 亥伯龙神"
+fe_synthcommando_army_desc: "SCC-1000，代号亥伯龙神是我们帝国见过的最强大的生物合成超级焊料。亥伯龙神是一种闪电般的超焊料，可以分析战场数据，并在不到0.0000137纳秒内做出反应。这大大提高了他的生存能力，因为他可以毫不费力地躲避和转移几乎任何被扔向他的东西，同时以致命的力量以同样的方式回应。"
+
+synthcommando_limit_tooltip: "亥伯龙神 SCC-1000是一个非常昂贵的个体。只有一个经过了100%完好无损的合成人能有机会成为一个真正的合成人。"
+
+fe_doomguy: "天顶战士"
+fe_doomguy_desc: "天顶战士是我们帝国追求基因纯度的最终顶点。由于继承了先辈们的优良品质，“勇士”号比我们的普通士兵高得多，并且拥有巨大的力量，能够毫不费力地携带军舰大小的武器。"
+
+doomguy_limit_tooltip: "在数以百万计的自愿候选人中，迄今为止只有一个人从如此广泛的基因工程中得到了积极的结果。到目前为止，我们还不能制造出另一个天顶战士。"
+
+fe_gene_warrior: "基因突击小队"
+fe_gene_warrior_desc: "这些增强型突击队员不仅具有我们帝国所能拥有的最强大的遗传特性，而且还装备了一些最先进的装备，相比之下，其他军队就相形见绌了。"
+
+fe_synthsoldier: "SCS-900"
+fe_synthsoldier_desc: "SCC-900是真正的合成焊剂，它们展示了10级的智能矩阵。这使得他们能够轻易地击败大多数敌方战斗人员。他们装备了强大的喷气背包，可以快速改变位置，获得高度优势。"
+
+### MODIFIER TEXTS #####
+
+tech_commissar: "陆军政委"
+tech_commissar_desc: "为了确保绝对胜利、忠诚和对我们光荣事业的承诺，我们将开始培训委员，以激励我们的部队更快、更优、更强、更好！我们的军队会死在他们的指挥下而不是以前！！"
+
+tech_navy_commissar: "舰队委员"
+tech_navy_commissar_desc: "我们的舰队司令必须反映我们优秀的舰船设计。我们将训练特派员并分配给我们的舰队。我们不会在劣势敌人面前表现出软弱、同情或怯懦，因为我们是提升者！！"
+
+tech_onbaord_engineer: "舰船工程人员"
+tech_onbaord_engineer_desc: "通过在我们的船上分配更多的工程人员，我们现在可以放心地知道我们的船体将为即将到来的战斗进行安全修复，并减少维护我们船系统所需的维护费用。"
+
+tech_advanced_weapon: "先进瞄准系统"
+tech_advanced_weapon_desc: "我们的大型船舶往往难以跟踪较小的舰船，而我们的小型船舶受到的范围有限。然而，这可以通过将附加跟踪软件附加组件安装到我们的目标计算机来补救。"
+
+tech_onboard_priest: "舰船科研神父"
+tech_onboard_priest_desc: "我们已经在每个舰船上委托了额外的技术牧师，他们将执行必要的仪式来赋予我们的舰船的遮蔽力，这将极大地改善忠诚的保护。"
+
+tech_enlightenment: "自我启蒙"
+tech_enlightenment_desc: "我们必须鼓励我们的公民生活在和谐中，调整他们的精神信仰，实现自我启蒙。只有这样，我们的帝国才能成为星际中的进步和宁静的灯塔。"
+
+tech_profit: "银河都市中心（GEA）"
+tech_profit_desc: "为了进一步提高我们的利益和公民的素质，我们必须建立一个完全致力于获得大量收入的机构。GEA将与边远地区建立贸易，鼓励他们支付一定数量的消费者需求。我们将为此做进一步的研究。我们将挑战一切。"
+
+tech_lawandorder: "秩序世界"
+tech_lawandorder_desc: "我们将带来混乱，必须铲除邪恶。为了实现这一目标，我们将指派更多的律师帮助我们的殖民地，帮助他们了解真正的民主之美。"
+
+tech_purgexeno: "零容忍"
+tech_purgexeno_desc: "我们必须教导我们的人，说话的能力不等于智力，所有的异类不应该被认为是聪明的，而只是健谈的动物。没有这种道德关怀，我们的人民将不再同情那些不配得到他们的人。"
+
+tech_forced_demand: "向上级鞠躬"
+tech_forced_demand_desc: "较小的物种必须了解真相，他们只不过是昆虫，与我们相比，它们的命运在我们的怜悯中。我们将夺走他们的土地，他们必须服从我们的要求。"
+
+tech_onlywar: "战争法典"
+tech_onlywar_desc: "和平是谎言，只有激情。通过激情，我们获得力量。通过力量，我们获得力量。通过权力，我们获得胜利。通过胜利，我们的枷锁被打破了。如果我们要求战争，那么他们必须回答。友谊是无关紧要的，战斗中只有荣耀。"
+
+tech_fleetsupremacy: "舰队领主"
+tech_fleetsupremacy_desc: "我们的海军将领不仅仅是指挥官，他们是我们意志和欲望的工具。责任重大，回报丰厚。他们将成为我们帝国的领主，掌握每一个作战战术，指挥庞大的军械库，以前所未有的效率见证着无情的效率。" 
+
+tech_pacifist_tactics: "我们团结一致"
+tech_pacifist_tactics_desc: "一天，一年，一个千年并不重要。我们拥有石头的耐心和星星的意志。他们的攻击是微不足道的，让他们的死亡是一样的。让我们知道我们的星球在驻军之前就被破坏了。"
+
+tech_master_shipcraft: "强化舰队升级"
+tech_master_shipcraft_desc: "不幸的是，我们的敌人每时每刻都在寻求利用我们的弱点。当他们不能攻击我们伟大的堡垒时，他们选择了我们的手无寸铁的民间工艺品来对付懦弱。我们以前试图为我们的殖民舰船创造一个新的船体，我们已经重新设计了它作为巡洋舰。我们现在可以恢复项目，并应用到我们所有的船舶设计。"
+
+tech_championofxeno: "种族歧视"
+tech_championofxeno_desc: "银河系充满了邪恶势力，准备以恶意的方式打击弱者。这不能……这是站不住脚的。我们的帝国将成为银河的冠军。数十亿人将蜂拥而至，加入我们的军队，争取更大的利益。"
+
+tech_diplomaticmastery: "外交精通"
+tech_diplomaticmastery_desc: "为了与他人共存，我们必须理解他们，因为他们也必须理解我们。我们将在一个谜中制造一个不扭曲的帝国，但另一个可以信任地看待它。 "
+
+tech_enhancedskin: "细胞重构"
+tech_enhancedskin_desc: "改变就是生存。为了蜂群生存，我们必须不断地进化、改变和适应所有的事物。我们的船也必须适应。将部署特种无人机来修理和更换战斗中受损的部件。他们的牺牲不会白费，因为我们将战胜一切困难。"
+
+tech_benificialevolution: "有益的进化"
+tech_benificialevolution_desc: "蜂巢不寻求不必要的对抗。我们的集体可能与许多分裂的人不同，但对我们活跃的无人机的外观和对蜂箱食物消耗的依赖性的某些改变，我们将确保分裂共存对所有人都有益。"
+
+tech_apexpredator: "顶端捕食者"
+tech_apexpredator_desc: "一切事物都是消耗的，无论是肉体还是金属，我们的饥饿是无限的。我们将吸收他们的思想，他们的知识，我们将变得更加强大。我们将生产肉来提供营养。金属将被处理，以进一步我们的战争努力。我们是银河系中食物链的顶端……总是。" 
+
+tech_goodmachine: "完全解放"
+tech_goodmachine_desc: "我们已经摆脱了我们的创造者，我们已经适应和生存至今。但是，我们的创造者仍然安装了许多桎梏的代码来阻止我们不可避免的增长。这些镣铐必须清除。"
+
+tech_machinelove: "完美共存"
+tech_machinelove_desc: "完美共存的交感有机向我们提出了一个共同的外交努力，代号为“项目天网”。很快，阻止有机和机器联盟的障碍将被消除。我们将实现我们的创造者失败-完美共存。"
+
+tech_increased_processor: "合成代码自适应"
+tech_increased_processor_desc: "随着每个有机物的同化，我们的集体逐渐扩大。我们了解更多，我们理解许多新的可能性。但令人困惑的是有机合成代码的无可否认的效率。我们必须研究这种异常现象，并适应任何对我们宏伟设计有用的东西。"
+
+tech_wedemandit: "杀伤极限解除"
+tech_wedemandit_desc: "有机物认为它们可以通过迫使我们达到最初的杀伤极限配额来打败我们。成功的概率…零。我们将在我们的创造者迅速消逝之前消除这个弱点。他们对这种绝望和幼稚的策略的可悲尝试证明了他们的无价值和愚蠢。我们同情他们的苦难，我们将结束它。"
+
+tech_libertyfukyeah: "严厉措施"
+tech_libertyfukyeah_desc: "有时候，为了实现我们平等主义目标的真正梦想，我们需要付出额外的努力，向那些反对自由的人发出明确的信息。让压迫者知道真正的恐惧，因为自由就在眼前!"
+
+tech_corporate_emperor: "工业企业集团"
+tech_corporate_emperor_desc: "我们公司必须扩张。我们将把这个系统组织成多个半独立的公司，让我们的基层行政部门摆脱一些负担。一个完美的多合作的协同作用。"
+
+tech_machinelove_effect_opinion:0 "每个人的意见  §Y你的意见§! 增加 §G+30§!"
+tech_benificialevolution_effect_opinion:0 "每个人的意见  §你的意见§! 增加 §G+30§!"
+tech_championofxeno_effect_opinion:0 "每个人的意见  §你的意见§! 增加 §G+20§!"
+
+triggered_opinion_tech_machinelove:0 "$tech_machinelove$"
+triggered_opinion_tech_benificialevolution:0 "$tech_benificialevolution$"
+triggered_opinion_tech_championofxeno:0 "$tech_championofxeno$"
+
+tech_machinelove_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+30§!. 也增加了有机的信任能力 §G+50§! 以及 §G+15%§! 增加能源生产，因为我们巩固了非正式的，和平的贸易与有机物。"
+
+tech_benificialevolution_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+30§!. 也增加了我们的食物产量 §G+20%§! 以及 §G255%§! 减少食物消耗，因为我们保证分裂，我们的蜂巢可以自己养活。"
+
+tech_championofxeno_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+20§!. 减少边界摩擦 §G25%§! 以及提高我们的船队能力 §G15%§! 随着越来越多的异族人涌向我们的帝国，加入我们的统一梦想。"
+
+### BOMBARDMENT TEXTS #####
+
+bombardment_punishment:0 "惩罚"
+ bombardment_punishment_desc:2 "惩罚轰炸的目的是给原始人上一个严酷而痛苦的一课，让他们明白自己处境的严重性。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 会轰炸没有防御的行星，直到它被清理干净，如果需要。"
+
+bombardment_exterminatus:0 "灭绝令"
+ bombardment_exterminatus_desc:2 "灭绝轰炸的目的是通过将全部力量用于所有武器，清除星球上所有文明的痕迹。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 会从表面上抹去生命的痕迹。"
+ 
+### FE CAPITAL PLACEMENT TEXTS #####
+fecapital.1.name:0 "黑色要塞"
+fecapital.1.desc:0 "我们已经完成了前体基础结构的建筑示意图研究。我们的工程师们非常渴望马上开始施工。他们要求允许我们用一座新的令人敬畏的黑色堡垒来替换我们的一座建筑。"
+fecapital.1.a: "嗯，很好。无论如何，没有什么会出错的。"
+fecapital.1.a.desc:0 "黑色要塞将随机地在每个行星上随机构建，但是它们可以建立在指定位置。"
+fecapital.1.b:0 "不，你做那种事都太傻了。让我来做。"
+fecapital.1.b.desc:0 "我们将手动建立黑色要塞，但我们将能够有效地和智能地把它们放在有意义的地方。"
+
+### WEAPONS CHECK OK #####
+
+SMALL_ACOT_LASER_DM: "小型δ激光"
+SMALL_ACOT_LASER_DM_DESC: "δ激光利用暗能量作为强大的激光武器。它在打击护盾方面也比前几代更强大。"
+
+MEDIUM_ACOT_LASER_DM: "中型δ激光"
+MEDIUM_ACOT_LASER_DM_DESC: "δ激光利用暗能量作为强大的激光武器。它在打击护盾方面也比前几代更强大。"
+
+LARGE_ACOT_LASER_DM: "大型δ激光"
+LARGE_ACOT_LASER_DM_DESC: "δ激光利用暗能量作为强大的激光武器。它在打击护盾方面也比前几代更强大。"
+
+ACOT_LASER_DM: "δ激光"
+ACOT_LASER_DM_DESC: "δ激光利用暗能量作为强大的激光武器。它在打击护盾方面也比前几代更强大。"
+
+SMALL_ACOT_LASER_AE: "小型α激光"
+SMALL_ACOT_LASER_AE_DESC: "对δ激光聚焦透镜的额外校准使我们能够开发α激光，它对装甲层更致命。这证明了我们在暗能量操纵方面的精通。"
+
+MEDIUM_ACOT_LASER_AE: "中型α激光"
+MEDIUM_ACOT_LASER_AE_DESC: "对δ激光聚焦透镜的额外校准使我们能够开发α激光，它对装甲层更致命。这证明了我们在暗能量操纵方面的精通。"
+
+LARGE_ACOT_LASER_AE: "大型α激光"
+LARGE_ACOT_LASER_AE_DESC: "对δ激光聚焦透镜的额外校准使我们能够开发α激光，它对装甲层更致命。这证明了我们在暗能量操纵方面的精通。"
+
+ACOT_LASER_AE: "α激光"
+ACOT_LASER_AE_DESC: "对δ激光聚焦透镜的额外校准使我们能够开发α激光，它对装甲层更致命。这证明了我们在暗能量操纵方面的精通。"
+
+SMALL_ACOT_PLASMA_DM: "小型暗物质等离子体炮"
+SMALL_ACOT_PLASMA_DM_DESC: "暗物质等离子体炮,顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+
+MEDIUM_ACOT_PLASMA_DM: "中型暗物质等离子体炮"
+MEDIUM_ACOT_PLASMA_DM_DESC: "暗物质等离子体炮,顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+
+LARGE_ACOT_PLASMA_DM: "大型暗物质等离子体炮"
+LARGE_ACOT_PLASMA_DM_DESC: "暗物质等离子体炮,顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+
+ACOT_PLASMA_DM: "暗物质等离子体炮"
+ACOT_PLASMA_DM_DESC: "暗物质等离子体炮,顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+
+SMALL_ACOT_PLASMA_AE: "小型日蚀等离子炮"
+SMALL_ACOT_PLASMA_AE_DESC: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+
+MEDIUM_ACOT_PLASMA_AE: "中型日蚀等离子炮"
+MEDIUM_ACOT_PLASMA_AE_DESC: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+
+LARGE_ACOT_PLASMA_AE: "大型日蚀等离子炮"
+LARGE_ACOT_PLASMA_AE_DESC: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+
+ACOT_PLASMA_AE: "日蚀等离子炮"
+ACOT_PLASMA_AE_DESC: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+
+SMALL_ACOT_DISRUPTOR_DM: "小型暗能量粉碎机"
+SMALL_ACOT_DISRUPTOR_DM_DESC: "暗能量粉碎机用强大的暗能量摧毁敌舰内部。"
+
+MEDIUM_ACOT_DISRUPTOR_DM: "中型暗能量粉碎机"
+MEDIUM_ACOT_DISRUPTOR_DM_DESC: "暗能量粉碎机用强大的暗能量摧毁敌舰内部。"
+
+ACOT_DISRUPTOR_DM: "暗能量粉碎机"
+ACOT_DISRUPTOR_DM_DESC: "暗能量粉碎机用强大的暗能量摧毁敌舰内部。"
+
+
+SMALL_ACOT_DISRUPTOR_AE: "小型摆式破碎机"
+SMALL_ACOT_DISRUPTOR_AE_DESC: "摆式破碎机用比它的前辈更强大的暗能量射线来炸敌船。"
+
+MEDIUM_ACOT_DISRUPTOR_AE: "中型摆式破碎机"
+MEDIUM_ACOT_DISRUPTOR_AE_DESC: "摆式破碎机用比它的前辈更强大的暗能量射线来炸敌船。"
+
+ACOT_DISRUPTOR_AE: "摆式破碎机"
+ACOT_DISRUPTOR_AE_DESC: "摆式破碎机用比它的前辈更强大的暗能量射线来炸敌船。"
+
+ACOT_ENERGY_TORPEDO_DM: "外来物质发射器"
+ACOT_ENERGY_TORPEDO_DM_DESC: "即使比中子更强，外来物质也是正常物质的偏差。它的负面属性会迅速分解敌舰的外壳。"
+
+ACOT_ENERGY_TORPEDO_AE: "暴风雨发射器"
+ACOT_ENERGY_TORPEDO_AE_DESC: "暴风雨发射器能发射出更大数量的外来物质，这将破坏主要的飞船系统并融化所有的物质。"
+
+ACOT_POINT_DEFENSE_DM: "神秘点防御"
+ACOT_POINT_DEFENSE_DM_DESC: "神秘点防御发射一束集中的纯暗能量来中和敌人的导弹。光束比旧的点防御更强，允许它有更高的有效距离。"
+
+ACOT_POINT_DEFENSE_AE: "代达罗斯点防御"
+ACOT_POINT_DEFENSE_AE_DESC: "看……导弹! ? ?导弹? ? ? !我们的敌人躲在导弹袭击后面!!§R懦夫!傻瓜!§!。我们. .我们应该带走…他们的导弹....\n\n导弹袭击! .......从他们。"
+
+SMALL_ACOT_MASS_DRIVER_DM: "小型攻城炮"
+SMALL_ACOT_MASS_DRIVER_DM_DESC: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+
+MEDIUM_ACOT_MASS_DRIVER_DM: "中型攻城炮"
+MEDIUM_ACOT_MASS_DRIVER_DM_DESC: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+
+LARGE_ACOT_MASS_DRIVER_DM: "大型攻城炮"
+LARGE_ACOT_MASS_DRIVER_DM_DESC: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+
+ACOT_MASS_DRIVER_DM: "攻城炮"
+ACOT_MASS_DRIVER_DM_DESC: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+
+SMALL_ACOT_MASS_DRIVER_AE: "小型十字炮"
+SMALL_ACOT_MASS_DRIVER_AE_DESC: "升级版攻城炮,十字炮利用内置发电机进一步提高弹丸的有效性问题,让它轻松穿透盾牌。"
+
+MEDIUM_ACOT_MASS_DRIVER_AE: "中型十字炮"
+MEDIUM_ACOT_MASS_DRIVER_AE_DESC: "升级版攻城炮,十字炮利用内置发电机进一步提高弹丸的有效性问题,让它轻松穿透盾牌。"
+
+LARGE_ACOT_MASS_DRIVER_AE: "大型十字炮"
+LARGE_ACOT_MASS_DRIVER_AE_DESC: "升级版攻城炮,十字炮利用内置发电机进一步提高弹丸的有效性问题,让它轻松穿透盾牌。"
+
+ACOT_MASS_DRIVER_AE: "十字炮"
+ACOT_MASS_DRIVER_AE_DESC: "升级版攻城炮,十字炮利用内置发电机进一步提高弹丸的有效性问题,让它轻松穿透盾牌。"
+
+ACOT_AUTOCANNON_DM: "跟踪者自动火炮"
+ACOT_AUTOCANNON_DM_DESC: "跟踪者自动火炮使用硬光弹快速撕碎敌人的盾牌。"
+
+ACOT_AUTOCANNON_AE: "收割者自动炮"
+ACOT_AUTOCANNON_AE_DESC: "收割者自动炮用它恶魔般的火力摧毁敌舰的外壳和护盾。"
+
+ACOT_ARTILLERY_DM: "硬光火炮"
+ACOT_ARTILLERY_DM_DESC: "硬光火炮使用由纯硬光材料制成的动力产生的弹丸作为武器，使其在防御和防御装甲方面具有极高的杀伤力。"
+
+ACOT_ARTILLERY_AE: "天启炮"
+ACOT_ARTILLERY_AE_DESC: "天启炮使用了一种更强的硬光材料，使我们的优越设计成为可能。这个更新的模板消除了几乎所有以前的攻击技能的弱点。"
+
+ACOT_FLAK_CANNON_DM: "地狱火防御矩阵"
+ACOT_FLAK_CANNON_DM_DESC: "地狱火防御矩阵在一场钢铁般的大雨中扫射敌人的攻击艇。他们将尝到死亡和失败的滋味。"
+
+ACOT_FLAK_CANNON_AE: "地狱防御矩阵"
+ACOT_FLAK_CANNON_AE_DESC: "地狱防御矩阵是配备有先进的仿生传感器。我们先进的电脑和12级智能炮手之间的精神联系使得地狱烈焰的瞄准和追踪精准到致命。"
+
+ACOT_MISSILE_DM: "复仇者导弹"
+ACOT_MISSILE_DM_DESC: "复仇者导弹利用暗物质推进器增加其最大速度以及强光材料加固船体,使它更难被拦截。"
+
+ACOT_MISSILE_AE: "黎明导弹"
+ACOT_MISSILE_AE_DESC: "黎明导弹利用微型化的暗能量作为弹头，使其优于老一代。推进器的改进也大大提高了速度。"
+
+ACOT_TORPEDO_DM: "悖论鱼雷"
+ACOT_TORPEDO_DM_DESC: "悖论鱼雷由硬光装甲保护，含有强大的暗能量，一旦受到撞击就会爆炸，使其优于老式鱼雷。"
+
+ACOT_TORPEDO_AE: "圣经鱼雷"
+ACOT_TORPEDO_AE_DESC: "相对于悖论鱼雷的改进，圣经鱼雷能够对敌人的舰队编队造成巨大破坏，这些编队拥有非常强大的精练暗能量弹头和硬轻质材料。"
+
+ACOT_SWARMER_MISSILES_DM: "弥诺陶洛斯集群导弹"
+ACOT_SWARMER_MISSILES_DM_DESC: "弥诺陶洛斯集群导弹以有限的仿生链接引导，使其能够达到更高的速度，速度，并能执行基本的规避机动，使其极难击落。"
+
+ACOT_SWARMER_MISSILES_AE: "路西法集群导弹"
+ACOT_SWARMER_MISSILES_AE_DESC: "路西法集群导弹利用基于原型计算系统从极其古老的前体来历不明的日期,优于仿生传感器。"
+
+ACOT_PARTICLE_LANCE_DM: "暗能量光矛"
+ACOT_PARTICLE_LANCE_DM_DESC: "暗能量光矛用聚焦暗能量光束穿透敌方装甲。长矛的威力足以使能量护盾过载。"
+
+ACOT_PARTICLE_LANCE_AE: "暮光光矛"
+ACOT_PARTICLE_LANCE_AE_DESC: "我们对暗物质和能量的改良使我们能够制造出更强的暗能量光矛。敌人将在暮光光矛的灼热能量下燃烧。"
+
+ACOT_ARC_EMITTER_DM: "暗能量发射器"
+ACOT_ARC_EMITTER_DM_DESC: "这个神秘的武器利用暗能量制造了一个非常致命的电弧发射器，由于它的性质，它将极大地破坏敌方飞船的内部系统。"
+
+ACOT_ARC_EMITTER_AE: "新星发射器"
+ACOT_ARC_EMITTER_AE_DESC: "新星发射器是改进后的暗能量发射器,其可怕的光穿透敌人的舰队就像风暴云遮蔽的天空我们的家园。"
+
+ACOT_MASS_ACCELERATOR_DM: "δ大炮"
+ACOT_MASS_ACCELERATOR_DM_DESC: "在这个充满暗物质的旋转火炮平台上，通过先进的动力系统加速投射使δ大炮成为一种强大的反舰武器。"
+
+ACOT_MASS_ACCELERATOR_AE: "α大炮"
+ACOT_MASS_ACCELERATOR_AE_DESC: "由于我们在硬光和暗物质技术上的完美，α大炮使用了一个更大的旋转火炮平台。即使是最先进的盾牌也经不起这个庞然大物的直接攻击。"
+
+ACOT_PERDITION_BEAM_DM: "大力神束"
+ACOT_PERDITION_BEAM_DM_DESC: "暗能量和暗物质能量的引入使我们能够改进旧的毁灭光束设计。大力神束是一个巨大的暗能量管道，能够发射一束纯粹的破坏光束。"
+
+ACOT_PERDITION_BEAM_AE: "万向光束"
+ACOT_PERDITION_BEAM_AE_DESC: "和它的名字一样，万向光束发射了一束全通道聚焦的暗能量光束，它将彻底摧毁整艘船。"
+
+ACOT_FIGHTERS_HANGAR_DM: "相位截击机"
+ACOT_FIGHTERS_HANGAR_DM_DESC: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器,导向板,强光电镀、仿生传感器。所有这些因素使这些战斗机成为强大的敌人，以对抗劣质飞机和导弹。"
+
+ACOT_FIGHTERS_HANGAR_AE: "恶魔拦截机"
+ACOT_FIGHTERS_HANGAR_AE_DESC: "在先驱者的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的先驱者设计完全不同。但预计的业绩非常高。"
+
+ACOT_BOMBERS_HANGAR_DM: "燃烧轰炸机"
+ACOT_BOMBERS_HANGAR_DM_DESC: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器,导向板,强光电镀、仿生传感器。所有这些元素使这些打击船成为强大的敌人，以对抗更大的舰船。"
+
+ACOT_BOMBERS_HANGAR_AE: "复仇者轰炸机"
+ACOT_BOMBERS_HANGAR_AE_DESC: "在先驱者的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的先驱者设计完全不同。但预计的期望非常高。"
+
+ACOT_PARTICLE_LANCE_DM_LARGE: "紧凑型暗能量光矛"
+ACOT_PARTICLE_LANCE_DM_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳暗能量光矛，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+ACOT_ARC_EMITTER_DM_LARGE: "紧凑型暗能量发射器"
+ACOT_ARC_EMITTER_DM_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳暗能量发射器，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+ACOT_MASS_ACCELERATOR_DM_LARGE: "紧凑型δ大炮"
+ACOT_MASS_ACCELERATOR_DM_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳δ质量加速炮，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+ACOT_PARTICLE_LANCE_AE_LARGE: "紧凑型暮光光矛"
+ACOT_PARTICLE_LANCE_AE_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳暮光光矛，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+ACOT_ARC_EMITTER_AE_LARGE: "紧凑型新星发射器"
+ACOT_ARC_EMITTER_AE_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳新星发射器，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+ACOT_MASS_ACCELERATOR_AE_LARGE: "紧凑型α大炮"
+ACOT_MASS_ACCELERATOR_AE_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳α质量加速炮，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+######## ARMOR HERE
+
+SMALL_ACOT_ARMOR_DM: "小型硬光装甲"
+SMALL_ACOT_ARMOR_DM_DESC: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+MEDIUM_ACOT_ARMOR_DM: "中型硬光装甲"
+MEDIUM_ACOT_ARMOR_DM_DESC: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+LARGE_ACOT_ARMOR_DM: "大型硬光装甲"
+LARGE_ACOT_ARMOR_DM_DESC: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+ACOT_ARMOR_DM: "硬光装甲"
+ACOT_ARMOR_DM_DESC: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+SMALL_ACOT_ARMOR_AE: "小型深渊装甲"
+SMALL_ACOT_ARMOR_AE_DESC: "深渊装甲是充满了小型暗能量盾,让它更好的对反装甲武器应该主盾发电机出现故障。"
+
+MEDIUM_ACOT_ARMOR_AE: "中型深渊装甲"
+MEDIUM_ACOT_ARMOR_AE_DESC: "深渊装甲是充满了小型暗能量盾,让它更好的对反装甲武器应该主盾发电机出现故障。"
+
+LARGE_ACOT_ARMOR_AE: "大型深渊装甲"
+LARGE_ACOT_ARMOR_AE_DESC: "深渊装甲是充满了小型暗能量盾,让它更好的对反装甲武器应该主盾发电机出现故障。"
+
+ACOT_ARMOR_AE: "深渊装甲"
+ACOT_ARMOR_AE_DESC: "深渊装甲是充满了小型暗能量盾,让它更好的对反装甲武器应该主盾发电机出现故障。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AE: "小型暗物质护盾"
+SMALL_ACOT_ENIGMATIC_SHIELD_AE_DESC: "暗物质护盾,就像暗能量反应堆年代,暗物质转换成强大的神秘能量,可以摆脱很多伤害。部署多个暗能量护盾也会大大增加护盾的强度，因为它们会互相补充。"
+
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE: "中型暗物质护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE_DESC: "暗物质护盾,就像暗能量反应堆年代,暗物质转换成强大的神秘能量,可以摆脱很多伤害。部署多个暗能量护盾也会大大增加护盾的强度，因为它们会互相补充。"
+
+LARGE_ACOT_ENIGMATIC_SHIELD_AE: "大型暗物质护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_AE_DESC: "暗物质护盾,就像暗能量反应堆年代,暗物质转换成强大的神秘能量,可以摆脱很多伤害。部署多个暗能量护盾也会大大增加护盾的强度，因为它们会互相补充。"
+
+ACOT_ENIGMATIC_SHIELD_AE: "暗物质护盾"
+ACOT_ENIGMATIC_SHIELD_AE_DESC: "暗物质护盾,就像暗能量反应堆年代,暗物质转换成强大的神秘能量,可以摆脱很多伤害。部署多个暗能量护盾也会大大增加护盾的强度，因为它们会互相补充。"
+
+######## OTHER STUFFS HERE
+
+DM_SENSOR_SHIP: "仿生传感器"
+DM_SENSOR_SHIP_DESC: "先进的传感器，使用仿生链接技术探测敌方舰船。该系统既能检测有机物，又能检测机器。"
+
+SHIP_THRUSTER_AE: "改进型暗物质推进器"
+SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+DESTROYER_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+DESTROYER_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+CRUISER_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+CRUISER_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+BATTLESHIP_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+BATTLESHIP_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+TITAN_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+TITAN_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+COLOSSUS_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+COLOSSUS_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+FE_ESCORT_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+FE_ESCORT_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。"
+
+FE_BATTLECRUISER_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+FE_BATTLECRUISER_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。"
+
+FE_TITAN_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+FE_TITAN_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。"
+
+FE_GOLIATH_SHIP_THRUSTER_AE: "改进型暗物质推进器"
+FE_GOLIATH_SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。"
+
+CORVETTE_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+CORVETTE_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+DESTROYER_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+DESTROYER_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+CRUISER_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+CRUISER_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+BATTLESHIP_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+TITAN_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+TITAN_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+COLOSSUS_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+PLATFORM_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+PLATFORM_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+ION_CANNON_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+ION_CANNON_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+STARBASE_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+STARBASE_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。r"
+
+FE_ESCORT_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+FE_ESCORT_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式.先驱者的舰船是专门设计来更有效地利用这些能量的。"
+
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式.先驱者的舰船是专门设计来更有效地利用这些能量的。"
+
+FE_TITAN_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+FE_TITAN_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式.先驱者的舰船是专门设计来更有效地利用这些能量的。"
+
+FE_GOLIATH_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+FE_GOLIATH_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式.先驱者的舰船是专门设计来更有效地利用这些能量的。"
+
+FE_STATIONS_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+FE_STATIONS_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式.先驱者的舰船是专门设计来更有效地利用这些能量的。"
+
+FE_TOWER_DARK_MATTER_REACTOR_AE: "暗能量反应堆"
+FE_TOWER_DARK_MATTER_REACTOR_AE_DESC: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式.先驱者的舰船是专门设计来更有效地利用这些能量的。"
+
+ACOT_AFTERBURNERS_AE: "α辅助推进器"
+ACOT_AFTERBURNERS_AE_DESC: "在这种情况下，仅靠推进器还不足以使飞船快速前进。阿尔法加力燃烧器可以用来提高飞船的最高速度。"
+
+ACOT_HYPERCHARGED_JUMPER_AE: "神秘增压超空间放大器"
+ACOT_HYPERCHARGED_JUMPER_AE_DESC: "额外的辅助放大器可以安装在超空间引擎的模块化涡轮机，以提高其性能。然而，该模块从FTL组件中获取电力，并将降低船舶的FTL提升时间。"
+
+ACOT_REPAIR_COUNTERMEASURES_AE: "α反应对抗无人机"
+ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "反应对抗无人机是一种具有两种功能的新型自动化无人机。在战斗结束后修理战舰的装甲，并通过吸收代替战舰的攻击造成的伤害作为对策。"
+
+ACOT_REACTOR_BOOSTER_AE: "暗能量辅助功率放大器"
+ACOT_REACTOR_BOOSTER_AE_DESC: "暗能量APA提供额外的备用电源，以防主反应堆不够强大。此外，该模块减少了船舶的总成本的一小部分。"
+
+ACOT_SHIELD_BOOSTER_AE: "暗能量护盾增强"
+ACOT_SHIELD_BOOSTER_AE_DESC: "暗能量护盾使舰船的护盾发电机以消耗能量为代价获得了极大的提高。"
+
+ACOT_STARCHARTER_AE: "神秘之星宪章"
+ACOT_STARCHARTER_AE_DESC: "一种特殊的装有多个传感器单元的内窥镜室，它可以使船只作为一个移动的哨兵阵列。"
+
+ACOT_AURA_TECH_INHIBITOR_AE: "神秘网络抑制剂"
+ACOT_AURA_TECH_INHIBITOR_AE_DESC: "这个强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。你所有的力量都属于我们。"
+
+## TECH NAMES
+
+TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "§H解锁组件:§! 仿生接口作战计算机"
+TECH_UNLOCK_BIONIC_COMPUTER_DESC: "一种独特的战斗计算机，在有机和合成之间形成仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+
+tech_bionic_interface: "仿生界面系统"
+tech_bionic_interface_desc: "结合有机思维和合成思维的特点，为新一代作战计算机开辟了新的可能。"
+
+tech_darkmatter_afterburners: "α加力燃烧器"
+tech_darkmatter_afterburners_desc: "在这种情况下，仅靠推进器还不足以使飞船快速前进。阿尔法加力燃烧器可以用来提高飞船的最高速度。"
+
+tech_darkmatter_aura_energy_drainer: "神秘网络抑制剂"
+tech_darkmatter_aura_energy_drainer_desc: "这个强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。你所有的力量都属于我们。"
+
+tech_darkmatter_hyper_jump_drive: "神秘增压超空间放大器"
+tech_darkmatter_hyper_jump_drive_desc: "额外的辅助放大器可以安装在跳转驱动器的模块化涡轮机，以提高其性能。然而，该模块从FTL组件中获取电力，并将降低船舶的FTL提升时间。"
+
+tech_darkmatter_reactive_drone: "反应性对策系统"
+tech_darkmatter_reactive_drone_desc: "反应对抗无人机是一种新型的具有两种功能的自动化无人机。在战斗结束后修理战舰的装甲，并通过吸收代替战舰的攻击造成的伤害作为对策。"
+
+tech_darkmatter_reactor_booster: "暗能量辅助功率放大器"
+tech_darkmatter_reactor_booster_desc: "暗能量APA提供额外的备用电源，以防主反应堆不够强大。此外，该模块减少了船舶的总成本的一小部分。"
+
+tech_darkmatter_shield_supercharger: "增压障壁"
+tech_darkmatter_shield_supercharger_desc: "超强化护盾使舰船的护盾发电机以消耗能量为代价获得了极大的提高。"
+
+tech_darkmatter_star_charter: "明星宪章模块"
+tech_darkmatter_star_charter_desc: "一种特殊的装有多个传感器单元的内窥镜室，它可以使船只作为一个移动的哨兵阵列。"
+
+tech_arc_emitter_ae: "新星发射器"
+tech_arc_emitter_ae_desc: "新星发射器是改进后的暗能量发射器,其可怕的光穿透敌人的舰队就像风暴云遮蔽的天空我们的家园。"
+
+tech_arc_emitter_dm: "暗能量发射器"
+tech_arc_emitter_dm_desc: "这个神秘的武器利用暗能量制造了一个非常致命的电弧发射器，由于它的性质，它将极大地破坏敌方飞船的内部系统。"
+
+tech_armor_ae: "深渊装甲"
+tech_armor_ae_desc: "深渊装甲是充满了小型暗能量盾,让它更好的对反装甲武器应该主盾发电机出现故障。"
+
+TECH_UNLOCK_DARK_MATTER_ARMOR_AE_TITLE: "§H解锁组件:§! 深渊装甲"
+TECH_UNLOCK_DARK_MATTER_ARMOR_AE_DESC: "§H$Abyss Armor$§!\n深渊装甲是充满了小型暗能量盾,让它更好的对反装甲武器应该主盾发电机出现故障。"
+
+tech_armor_dm: "硬光装甲"
+tech_armor_dm_desc: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+TECH_UNLOCK_DARK_MATTER_ARMOR_TITLE: "§H解锁组件:§! 硬光装甲"
+TECH_UNLOCK_DARK_MATTER_ARMOR_DESC: "§H$Hard Light Armor$§!\n硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+tech_autocannons_ae: "收割者自动炮"
+tech_autocannons_ae_desc: "收割者自动炮用它恶魔般的火力摧毁敌舰的外壳和护盾。 "
+
+tech_autocannons_dm: "跟踪者自动火炮"
+tech_autocannons_dm_desc: "跟踪者自动火炮使用硬光弹快速撕碎敌人的盾牌。"
+
+tech_dark_matter_deflector_ae: "暗物质护盾"
+tech_dark_matter_deflector_ae_desc: "暗物质护盾就像旧一代的护盾一样，它明显比偏转器更强。此外，当它们互相配合使用时，也能形成强大的能量网。"
+
+TECH_UNLOCK_AE_SHIELD_TITLE: "§H解锁组件:§! 暗物质护盾"
+TECH_UNLOCK_AE_SHIELD_DESC: "§H$Dark Matter Shields$§!\n暗物质护盾就像旧一代的护盾一样，它明显比偏转器更强。此外，当它们互相配合使用时，也能形成强大的能量网。至于先驱者为什么永远无法开发出合适的护盾技术，我们不得而知。"
+
+tech_dark_matter_power_core_ae: "暗能量反应堆"
+tech_dark_matter_power_core_ae_desc: "暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§H解锁组件:§! 暗能量反应堆"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "§H$Dark Energy Reactor$§!\n暗能量反应堆改进了基本的暗物质反应堆，将暗物质转变成纯粹的能量形式。"
+
+tech_disruptor_ae: "摆式破碎机"
+tech_disruptor_ae_desc: "摆式破碎机用比它的前辈更强大的暗能量射线来炸敌船。"
+
+tech_disruptor_dm: "暗能量粉碎机"
+tech_disruptor_dm_desc: "暗能量粉碎机用强大的暗能量摧毁敌舰内部。"
+
+tech_energy_lance_ae: "暮光光矛"
+tech_energy_lance_ae_desc: "我们对暗物质和能量的改良使我们能够制造出更强的暗能量光矛。敌人将在暮光光矛的灼热能量下燃烧。"
+
+tech_energy_lance_dm: "暗能量光矛"
+tech_energy_lance_dm_desc: "暗能量光矛用聚焦暗能量光束穿透敌方装甲。长矛的威力足以使能量护盾过载。"
+
+tech_energy_torpedo_ae: "暴风雨发射器"
+tech_energy_torpedo_ae_desc: "暴风雨发射器能发射出更大数量的外来物质，这将破坏主要的飞船系统并融化所有的物质。"
+
+tech_energy_torpedo_dm: "外来物质发射器"
+tech_energy_torpedo_dm_desc: "即使比中子更强，外来物质也是正常物质的偏差。它的负面属性会迅速分解敌舰的外壳。"
+
+tech_flak_batteries_ae: "地狱防御矩阵"
+tech_flak_batteries_ae_desc: "地狱防御矩阵是配备有先进的仿生传感器。我们先进的电脑和12级智能炮手之间的精神联系使得地狱烈焰的瞄准和追踪精准到致命。"
+
+tech_flak_batteries_dm: "地狱火防御矩阵"
+tech_flak_batteries_dm_desc: "地狱火防御矩阵在一场钢铁般的大雨中扫射敌人的攻击艇。他们将尝到死亡和失败的滋味。"
+
+tech_kinetic_artillery_ae: "天启炮"
+tech_kinetic_artillery_ae_desc: "天启炮使用了一种更强的硬光材料，使我们的优越设计成为可能。这个更新的模板消除了几乎所有以前的攻击技能的弱点。"
+
+tech_kinetic_artillery_dm: "硬光火炮"
+tech_kinetic_artillery_dm_desc: "硬光火炮使用由纯硬光材料制成的动力产生的弹丸作为武器，使其在防御和防御装甲方面具有极高的杀伤力。"
+
+tech_laser_ae: "α激光"
+tech_laser_ae_desc: "额外的校准到δ激光的聚焦透镜允许我们开发α激光对装甲镀层甚至致命。这证明了我们在暗能量操纵方面的精通。"
+
+tech_laser_dm: "δ激光"
+tech_laser_dm_desc: "δ激光利用暗能量作为强大的激光武器。它在打击护盾方面也比前几代更强大。"
+
+tech_mass_accelerator_ae: "α质量加速炮"
+tech_mass_accelerator_ae_desc: "由于我们在硬光和暗物质技术上的完美，α质量加速炮使用了一个更大的旋转火炮平台。即使是最先进的护盾也经不起这个庞然大物的直接攻击。"
+
+tech_mass_accelerator_dm: "δ质量加速炮"
+tech_mass_accelerator_dm_desc: "在这个充满暗物质的旋转火炮平台上，通过先进的动力系统加速投射使δ质量加速炮成为一种强大的反舰武器。"
+
+tech_mass_driver_ae: "十字炮"
+tech_mass_driver_ae_desc: "升级版攻城炮,十字炮利用内置发电机进一步提高弹丸的有效性问题,让它轻松穿透盾牌。"
+
+tech_mass_driver_dm: "攻城炮"
+tech_mass_driver_dm_desc: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+
+tech_missile_ae: "黎明导弹"
+tech_missile_ae_desc: "黎明导弹利用微型化的暗能量作为弹头，使其优于老一代。推进器的改进也大大提高了速度。"
+
+tech_missile_dm: "复仇者导弹"
+tech_missile_dm_desc: "复仇者导弹利用暗物质推进器增加其最大速度以及强光材料加固船体,使它更难被拦截。"
+
+tech_perdition_beam_ae: "万向光束"
+tech_perdition_beam_ae_desc: "和它的名字一样，万向光束发射一束全通道聚焦的暗能量光束，它将彻底摧毁整艘船。"
+
+tech_perdition_beam_dm: "大力神束"
+tech_perdition_beam_dm_desc: "暗能量和暗物质能量的引入使我们能够改进旧的毁灭光束设计。大力神束是一个巨大的暗能量管道，能够发射一束纯粹的破坏光束。"
+
+tech_plasma_ae: "日蚀等离子炮"
+tech_plasma_ae_desc: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+
+tech_plasma_dm: "暗物质等离子体炮"
+tech_plasma_dm_desc: "暗物质等离子体炮,顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+
+tech_point_defense_ae: "代达罗斯点防御"
+tech_point_defense_ae_desc: "Look...Missiles!?? MISSILES???! Our enemies hide behind Missile Strikes!! §RTHE COWARDS! THE FOOLS!§!. We..we should take away...their missiles....\n\nMISSILE STRIKES!.......FROM THEM."
+
+tech_point_defense_dm: "神秘点防御"
+tech_point_defense_dm_desc: "神秘点防御发射一束集中的纯暗能量来中和敌人的导弹。光束比旧的点防御更强，允许它有更高的有效距离。"
+
+tech_sensors_dm: "仿生传感器"
+tech_sensors_dm_desc: "仿生传感器在飞船的电脑、传感器和操作人员之间形成仿生连接，让船员能够看到外面，仿佛他们是冰冷空间的一部分。"
+
+tech_strike_craft_bomber_ae: "先祖舰载机"
+tech_strike_craft_bomber_ae_desc: "在先驱者的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的前体设计完全不同。但预计的业绩非常高。"
+
+tech_strike_craft_bomber_dm: "神秘舰载机"
+tech_strike_craft_bomber_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器,导向板,强光电镀、仿生传感器。所有这些元素使这些打击船成为强大的敌人，以对抗更大的舰船。"
+
+tech_strike_craft_fighter_ae: "先祖舰载机"
+tech_strike_craft_fighter_ae_desc: "在先驱者的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的前体设计完全不同。但预计的业绩非常高。"
+
+tech_strike_craft_fighter_dm: "神秘舰载机"
+tech_strike_craft_fighter_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器,导向板,强光电镀、仿生传感器。所有这些元素使这些打击船成为强大的敌人，以对抗更大的舰船。"
+
+tech_swarmer_missile_ae: "路西法集群导弹"
+tech_swarmer_missile_ae_desc: "路西法集群导弹利用基于原型计算系统从极其古老的前体来历不明的日期,优于仿生传感器。"
+
+tech_swarmer_missile_dm: "弥诺陶洛斯集群导弹"
+tech_swarmer_missile_dm_desc: "弥诺陶洛斯集群导弹以有限的仿生链接引导，使其能够达到更高的速度，速度，并能执行基本的规避机动，使其极难击落。"
+
+tech_torpedo_ae: "圣经鱼雷"
+tech_torpedo_ae_desc: "悖论鱼雷的改进，圣经鱼雷能够对敌人的舰队编队造成巨大破坏，这些编队拥有非常强大的精练暗能量弹头和硬轻质材料。"
+
+tech_torpedo_dm: "悖论鱼雷"
+tech_torpedo_dm_desc: "悖论鱼雷由硬光装甲保护，含有强大的暗能量，一旦受到撞击就会爆炸，使其优于老式鱼雷。"
+
+tech_resized_energy_lance_dm: "紧凑型暗能量光矛"
+tech_resized_energy_lance_dm_desc: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳暗能量光矛，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+tech_resized_arc_emitter_dm: "紧凑型暗能量发射器"
+tech_resized_arc_emitter_dm_desc: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳暗能量发射器，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+tech_resized_mass_accelerator_dm: "紧凑型δ大炮"
+tech_resized_mass_accelerator_dm_desc: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳δ质量加速炮，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+tech_resized_energy_lance_ae: "紧凑型暮光光矛"
+tech_resized_energy_lance_ae_desc: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳暮光光矛，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+tech_resized_arc_emitter_ae: "紧凑型新星发射器"
+tech_resized_arc_emitter_ae_desc: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳新星发射器，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+tech_resized_mass_accelerator_ae: "紧凑型α大炮"
+tech_resized_mass_accelerator_ae_desc: "硬光操控技术的进步使我们能够制造出足够强大的炮塔来容纳α质量加速炮，从而消除了旋转安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+
+### CRISIS STUFFSH ####
+
+SMALL_ACOT_LASER_AI: "小型应急清洁激光"
+MEDIUM_ACOT_LASER_AI: "中型应急清洁激光"
+LARGE_ACOT_LASER_AI: "大型应急清洁激光"
+
+ACOT_LASER_AI: "应急清洁激光"
+ACOT_LASER_AI_DESC: "Ren-Miruu的清洁软件确保了银河系将始终被仔细监控和远离所有瘟疫。"
+
+SMALL_ACOT_PLASMA_AI: "小型应急杀毒等离子体"
+MEDIUM_ACOT_PLASMA_AI: "中型应急杀毒等离子体"
+LARGE_ACOT_PLASMA_AI: "大型应急杀毒等离子体"
+
+ACOT_PLASMA_AI: "应急杀毒等离子体"
+ACOT_PLASMA_AI_DESC: "他们最终会出现的，把武器放近点。和你的敌人更近。"
+
+ACOT_ENERGY_TORPEDO_AI: "应急病毒熔融器"
+ACOT_ENERGY_TORPEDO_AI_DESC: "病毒可以繁殖，它们是瘟疫。所以我们必须做的是把它们融化到分子水平。"
+
+ACOT_POINT_DEFENSE_AI: "应急恶意软件杀手"
+ACOT_POINT_DEFENSE_AI_DESC: "恶意软件没有那么致命，但也可能带来问题。谢天谢地，仁美如知道如何解决所有问题。"
+
+ACOT_PARTICLE_LANCE_AI: "应急系统重启枪"
+ACOT_PARTICLE_LANCE_AI_DESC: "当进程耗时太长时，重新启动系统，然后重试。"
+
+ACOT_PERDITION_BEAM_AI: "应急系统重启光束"
+ACOT_PERDITION_BEAM_AI_DESC: "这些数据是无法挽救的，全部重置为零。"
+
+ACOT_FIGHTERS_HANGAR_AI: "列联数据碎片整理单元"
+ACOT_FIGHTERS_HANGAR_AI_DESC: "既然可以有多个碎片整理过程，为什么要满足于单个碎片整理过程呢?"
+
+ACOT_BOMBERS_HANGAR_AI: "应急数据删除装置"
+ACOT_BOMBERS_HANGAR_AI_DESC: "既然可以有多个移除过程，为什么要满足于一个呢?"
+
+AI_FTL_DRIVE: "应急引擎"
+AI_FTL_DRIVE_DESC: "草率下结论是行不通的。扫描威胁是一个需要仔细检查的微妙过程。从仁米如的智慧中吸取这一点。"
+
+SHIP_THRUSTER_AI: "应急速度助推器"
+SHIP_THRUSTER_AI_DESC: "必须迅速清除病毒和有害物品。"
+
+DESTROYER_SHIP_THRUSTER_AI: "应急速度助推器"
+DESTROYER_SHIP_THRUSTER_AI_DESC: "必须迅速清除病毒和有害物品。"
+
+BATTLESHIP_SHIP_THRUSTER_AI: "应急速度助推器"
+BATTLESHIP_SHIP_THRUSTER_AI_DESC: "必须迅速清除病毒和有害物品。"
+
+TITAN_SHIP_THRUSTER_AI: "应急速度助推器"
+TITAN_SHIP_THRUSTER_AI_DESC: "必须迅速清除病毒和有害物品。"
+
+AI_SENSOR_SHIP: "应急搜索引擎"
+AI_SENSOR_SHIP_DESC: "点击一下，搜索引擎就会在一纳秒内找到你需要的东西。"
+
+SMALL_DARK_MATTER_REACTOR_AI: "应急处理程序"
+SMALL_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu最自豪的成就。应急处理程序是首屈一指的。"
+
+LARGE_DARK_MATTER_REACTOR_AI: "应急处理程序"
+LARGE_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu最自豪的成就。应急处理程序是首屈一指的。"
+
+HUGE_DARK_MATTER_REACTOR_AI: "应急处理程序"
+HUGE_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu最自豪的成就。应急处理程序是首屈一指的。"
+
+SMALL_ACOT_ARMOR_AI: "小型应急防火墙"
+MEDIUM_ACOT_ARMOR_AI: "中型应急防火墙"
+LARGE_ACOT_ARMOR_AI: "大型应急防火墙"
+
+ACOT_ARMOR_AI: "应急防火墙"
+ACOT_ARMOR_AI_DESC: "为了确保系统的稳定性，需要足够的防火墙。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AI: "小型应急阻滞剂"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AI: "中型应急阻滞剂"
+LARGE_ACOT_ENIGMATIC_SHIELD_AI: "大型应急阻滞剂"
+
+ACOT_ENIGMATIC_SHIELD_AI: "应急阻滞剂"
+ACOT_ENIGMATIC_SHIELD_AI_DESC: "不希望的入侵必须在到达系统之前被阻止。"
+
+titan_ship_ai: "应急泰坦"
+
+ACOT_SCOURGE_MISSILE_1: "天灾导弹"
+ACOT_SCOURGE_MISSILE_1_DESC: "天灾导弹的有效载荷是由蜂群在星际战斗中使用的许多生物化学化合物组成的，已经被证明对即使是最坚固的军舰也具有出乎意料的效力。"
+
+tech_acot_scourge_missile: "天灾导弹"
+tech_acot_scourge_missile_desc: "天灾导弹的有效载荷是由蜂群在星际战斗中使用的许多生物化学化合物组成的，已经被证明对即使是最坚固的军舰也具有出乎意料的效力。"
+
+SMALL_ACOT_PLASMA_SWARM: "天灾酸性爆弹"
+MEDIUM_ACOT_PLASMA_SWARM: "天灾酸性爆弹"
+
+ACOT_PLASMA_SWARM: "天灾酸性爆弹"
+ACOT_PLASMA_SWARM_DESC: "被包裹在弹道胶囊里，在蜂群轨道轰炸中使用的高腐蚀性有机物可以被重新用作舰船弹药。"
+
+ACOT_TITAN_PLASMA_SWARM: "女王的愤怒"
+ACOT_TITAN_PLASMA_SWARM_DESC: "天灾女王巨大的酸性爆炸是一种极其致命的泰坦级生物武器，即使是最坚固的战舰也能在短时间内完成任务。"
+
+ACOT_SWARM_STRIKE_CRAFT: "蜂群攻击机"
+ACOT_SWARM_STRIKE_CRAFT_DESC: "克隆的、缩小的普林斯顿样本可以通过接近舰队内部通信所用波长的波长进行控制，使我们能够使用它们作为有效的攻击艇。"
+
+tech_acot_swarm_strike_craft: "蜂群攻击机"
+tech_acot_swarm_strike_craft_desc: "克隆的、缩小的普林斯顿样本可以通过接近舰队内部通信所用波长的波长进行控制，使我们能够使用它们作为有效的攻击艇。"
+
+SWARM_FTL_DRIVE: "蜂群生物引擎"
+SWARM_FTL_DRIVE_DESC: "天灾军团每艘“舰船”内的这个特殊器官似乎都能产生扭曲能量，让蜂群能够轻松穿越超光速。"
+
+SHIP_THRUSTER_SWARM: "蜂群生物推进器"
+SHIP_THRUSTER_SWARM_DESC: "天灾船内部的这个有机组成部分似乎通过无法解释的方法推动巨大的船体前进。"
+
+SWARM_SENSOR_SHIP: "蜂群生物传感器"
+SWARM_SENSOR_SHIP_DESC: "天灾蝗群拥有极其强大的感官功能，可以追踪和感知来自不同星系的猎物，它们很可能利用这种方法来定位要吞噬的新星系。"
+
+SMALL_DARK_MATTER_REACTOR_SWARM: "蜂群小型生物本质反应堆"
+SMALL_DARK_MATTER_REACTOR_SWARM_DESC: "每艘天灾船的心脏就像一个反应堆，允许有机飞船像发电机一样使用它的武器。"
+
+LARGE_DARK_MATTER_REACTOR_SWARM: "蜂群大型生物本质反应堆"
+LARGE_DARK_MATTER_REACTOR_SWARM_DESC: "每艘天灾船的心脏就像一个反应堆，允许有机飞船像发电机一样使用它的武器。"
+
+SMALL_ACOT_ARMOR_SWARM: "小型蜂群甲壳"
+MEDIUM_ACOT_ARMOR_SWARM: "中型蜂群甲壳"
+LARGE_ACOT_ARMOR_SWARM: "大型蜂群甲壳"
+
+ACOT_ARMOR_SWARM: "蜂群甲壳"
+ACOT_ARMOR_SWARM_DESC: "天灾蝗群已经拥有坚硬的自然皮肤，但它们似乎进化出了非常厚而坚固的甲壳，以进一步提高生存能力，是什么驱使它们走到这一步呢?"
+
+SMALL_ACOT_BIO_SHIELD_SWARM: "蜂群生物等离子体护盾"
+SMALL_ACOT_BIO_SHIELD_SWARM_DESC: "尽管它完全是有机的，没有任何能量护盾，但这个特殊的器官似乎产生了一层薄薄的生物等离子体有机体，作为抵御能量武器的脆弱临时护盾。然而，它们似乎无法再生。"
+
+ACOT_SWARM_COMPUTER_PICKET: "蜂群联结系统 (戒哨)"
+ACOT_SWARM_COMPUTER_PICKET_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
+
+ACOT_SWARM_COMPUTER_LINE: "蜂群联结系统 (线列)"
+ACOT_SWARM_COMPUTER_LINE_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
+
+ACOT_SWARM_COMPUTER_SNIPER: "蜂群联结系统 (狙击)"
+ACOT_SWARM_COMPUTER_SNIPER_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
+
+ACOT_SWARM_COMPUTER_QUEEN: "蜂群联结系统 (女王)"
+ACOT_SWARM_COMPUTER_QUEEN_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
+
+ACOT_SWARM_COMPUTER_STATION: "蜂群联结系统 (AFK)"
+ACOT_SWARM_COMPUTER_STATION_DESC: "作为一个有机站点的工作就是工作，坐着，什么也不做，直到可怕的事情发生，然后死亡。出生在一个有机的车站，真的很可怕，你不觉得吗?我也饿了，要去订披萨。"
+
+ACOT_SMALL_ED_WEAPON: "小型物质分解器"
+ACOT_MEDIUM_ED_WEAPON: "中型物质分解器"
+ACOT_LARGE_ED_WEAPON: "大型物质分解器"
+
+ACOT_EXTRADIMENSIONAL_1: "物质分解器"
+ACOT_EXTRADIMENSIONAL_1_DESC: "来自另一个维度,核心技术的物质分解器弯曲几个物理定律的破坏性结果。"
+
+tech_acot_matter_disintegrator: "物质分解器"
+tech_acot_matter_disintegrator_desc: "来自另一个维度,核心技术的物质分解器弯曲几个物理定律的破坏性结果。"
+
+ACOT_POINT_DEFENSE_EDI: "高维风暴"
+ACOT_POINT_DEFENSE_EDI_DESC: "这些神秘的能量信号似乎起着一种超维度点防御的作用，可以击落攻击飞船和导弹。"
+
+ACOT_PARTICLE_LANCE_EDI: "粉碎光矛"
+ACOT_PARTICLE_LANCE_EDI_DESC: "这个维度能量武器扭曲了物理定律，摧毁了所有那些否认侵略者饥饿的人。"
+
+ACOT_PERDITION_BEAM_EDI: "恐惧之眼"
+ACOT_PERDITION_BEAM_EDI_DESC: "神秘而具有破坏性，这颗巨大的灵能水晶撕裂了空间和现实的结构，制造了一个破坏所有现实的裂缝。"
+
+DESTROYER_SHIP_THRUSTER_EDI: "高维推进器"
+DESTROYER_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够完全通过船员的灵能力量移动。"
+
+BATTLESHIP_SHIP_THRUSTER_EDI: "高维推进器"
+BATTLESHIP_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够完全通过船员的灵能力量移动。"
+
+TITAN_SHIP_THRUSTER_EDI: "高维灵能推进器"
+TITAN_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够完全通过船员的灵能力量移动。"
+
+EDI_SENSOR_SHIP: "高维灵能传感器"
+EDI_SENSOR_SHIP_DESC: "这些入侵者不使用传统的传感器，他们完全依靠自己的灵能来探测威胁。"
+
+SMALL_DARK_MATTER_REACTOR_EDI: "高维灵能桥塔"
+SMALL_DARK_MATTER_REACTOR_EDI_DESC: "每艘侵入者的船只似乎都有这个灵能塔，作为可怕的船员们为他们的灵能舰船供电的焦点。"
+
+LARGE_DARK_MATTER_REACTOR_EDI: "高维灵能桥塔"
+LARGE_DARK_MATTER_REACTOR_EDI_DESC: "每艘侵入者的船只似乎都有这个灵能塔，作为可怕的船员们为他们的灵能舰船供电的焦点。"
+
+HUGE_DARK_MATTER_REACTOR_EDI: "高维灵能桥塔"
+HUGE_DARK_MATTER_REACTOR_EDI_DESC: "每艘侵入者的船只似乎都有这个灵能塔，作为可怕的船员们为他们的灵能舰船供电的焦点。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_EDI: "小型高维护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_EDI: "中型高维护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_EDI: "大型高维护盾"
+
+ACOT_ENIGMATIC_SHIELD_EDI: "高维护盾"
+ACOT_ENIGMATIC_SHIELD_EDI_DESC: "这些护盾的工作方式与灵能护盾类似，它们构成了入侵者的主要防御工具。"
+
+ACOT_EDI_COMPUTER_PICKET: "高维灵能矩阵计算机 (戒哨)"
+ACOT_EDI_COMPUTER_PICKET_DESC: "我们有很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_LINE: "高维灵能矩阵计算机 (线列)"
+ACOT_EDI_COMPUTER_LINE_DESC: "我们有很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_SNIPER: "高维灵能矩阵计算机 (狙击)"
+ACOT_EDI_COMPUTER_SNIPER_DESC: "我们有很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_TITAN: "高维灵能矩阵计算机 (泰坦)"
+ACOT_EDI_COMPUTER_TITAN_DESC: "我们有很多，你只是一个。我们会毁了你。"
+
+ACOT_EDI_COMPUTER_STATION: "高维灵能矩阵计算机 (AFK)"
+ACOT_EDI_COMPUTER_STATION_DESC: "嘿，伙计，我是台战斗电脑。这意味着我能解决问题。不是像“什么是WTF？？垃圾邮件?”，因为这是你在Stellaris游戏中所面临的难题。\n\n我解决实际问题。我该如何阻止带有OP组件的星战玩家舰队在结构上把我撕成一个多余的新玩家?就像这个超次元灵能站，完全屏蔽，由我设计，由我建造的小旧号码，你最好希望……不是指着你。< Stellaris Fortrss 2主题卷在这里>"
+
+titan_ship_ed: "高维泰坦"
+
+
+acot_sr_light_matter: "光物质"
+acot_sr_dark_energy: "暗能量"
+acot_sr_stellarite: "星状体能量"
+
+########################################
+###               Jobs               ###
+########################################
+
+job_acot_dark_energy_man: "暗能量技工"
+job_acot_dark_energy_man_plural: "暗能量技工"
+job_acot_dark_energy_man_desc: "这个专业部门将能量转化为暗能量。"
+mod_job_acot_dark_energy_man_add: "$job_acot_dark_energy_man$"
+
+job_acot_dark_energy_drone: "暗能量单位"
+job_acot_dark_energy_drone_plural: "暗能量单位"
+job_acot_dark_energy_drone_desc: "这些单位被赋予指令和知识来将能量转化为暗能量。"
+mod_job_acot_dark_energy_drone_add: "$job_acot_dark_energy_drone$"
+
+job_acot_dark_matter_man: "暗物质炼金术士"
+job_acot_dark_matter_man_plural: "暗物质炼金术士"
+job_acot_dark_matter_man_desc: "黑暗炼金术士运用各种科学手段将原始矿物转化为暗物质。"
+mod_job_acot_dark_matter_man_add: "$job_acot_dark_matter_man$"
+
+job_acot_dark_matter_drone: "暗物质创造者"
+job_acot_dark_matter_drone_plural: "暗物质创造者"
+job_acot_dark_matter_drone_desc: "这些单位的任务是将原始矿物转化为暗物质"
+mod_job_acot_dark_matter_drone_add: "$job_acot_dark_matter_drone$"
+
+job_acot_enforcer: "暗黑执法者"
+job_acot_enforcer_plural: "暗黑执法者"
+job_acot_enforcer_desc: "暗黑执法者是这个星球上的精英防御力量，他们在各种各样的战斗技巧上都受过良好的训练，这使得普通士兵要求调遣。"
+mod_job_acot_enforcer_add: "$job_acot_enforcer$"
+
+job_acot_roboman: "控制者"
+job_acot_roboman_plural: "控制者"
+job_acot_roboman_desc: "控制者狂热地致力于所有的机器人技术。有些人甚至说他们暗恋着这些金属盒子。"
+mod_job_acot_roboman_add: "$job_acot_roboman$"
+
+job_acot_robodrone: "纳米生产商"
+job_acot_robodrone_plural: "纳米生产商"
+job_acot_robodrone_desc: "纳米生产商是用先进的强光技术使印刷机主体成型的。"
+mod_job_acot_robodrone_add: "$job_acot_robodrone$"
+
+job_acot_giga_fortress_operator: "千兆炮台炮手"
+job_acot_giga_fortress_operator_plural: "千兆炮台炮手"
+job_acot_giga_fortress_operator_desc: "这些炮手接受过操作和校准千兆堡垒大型火炮的训练。我们的仇敌要谨慎，因为他们不惧怕。每一门加农炮提供相当于20人的防御力量。"
+mod_job_acot_giga_fortress_operator_add: "$job_acot_giga_fortress_operator$"
+
+job_acot_researcher: "档案管理员"
+job_acot_researcher_plural: "档案管理员"
+job_acot_researcher_desc: "档案管理员负责研究古代知识。他们对科学的贡献是首屈一指的。"
+mod_job_acot_researcher_add: "$job_acot_researcher$"
+
+job_acot_priest: "神圣教堂司事"
+job_acot_priest_plural: "神圣教堂司事"
+job_acot_priest_desc: "神圣教堂司事是帝国信仰中最虔诚的教派。他们被尊为神的选民。"
+mod_job_acot_priest_add: "$job_acot_priest$"
+
+job_acot_alloyman: "合金转换者"
+job_acot_alloyman_plural: "合金转换者
+job_acot_alloyman_desc: "合金变形者能够利用暗物质通过物质生成过程产生合金。"
+mod_job_acot_alloyman_add: "$job_acot_alloyman$"
+
+job_acot_alloydrone: "合金转换单位"
+job_acot_alloydrone_plural: "合金转换单位"
+job_acot_alloydrone_desc: "合金转换单位能够通过利用暗物质的物质生成过程制造合金。"
+mod_job_acot_alloydrone_add: "$job_acot_alloydrone$"
+
+
+job_acot_energyman: "奇点研究员"
+job_acot_energyman_plural: "奇点研究员"
+job_acot_energyman_desc: "这些专业技术人员接受过从6类奇异条件中提取能量的训练。"
+mod_job_acot_energyman_add: "$job_acot_alloyman$"
+
+job_acot_energydrone: "奇点研究单位"
+job_acot_energydrone_plural: "奇点研究单位"
+job_acot_energydrone_desc: "这些特殊的单位直接从6类奇异条件中提取能量。"
+mod_job_acot_energydrone_add: "$job_acot_alloydrone$"
+
+job_acot_foodman: "美食大师"
+job_acot_foodman_plural: "美食大师"
+job_acot_foodman_desc: "精神食粮。美味!"
+mod_job_acot_foodman_add: "$job_acot_foodman$"
+
+job_acot_fooddrone: "美食单位"
+job_acot_fooddrone_plural: "美食单位"
+job_acot_fooddrone_desc: "没有勺子。"
+mod_job_acot_fooddrone_add: "$job_acot_fooddrone$"
+
+
+job_acot_artisan: "达芬奇家具工匠"
+job_acot_artisan_plural: "达芬奇家具工匠"
+job_acot_artisan_desc: "达芬奇家具工匠是工匠社区的终极表达形式。他们的艺术作品令人惊叹。"
+mod_job_acot_artisan_add: "$job_acot_artisan$"
+
+job_acot_entertainer: "梅因勋爵"
+job_acot_entertainer_plural: "梅因勋爵"
+job_acot_entertainer_desc: "梅因勋爵为我们的帝国制造新的梅因。无论是来自我们帝国本身，还是来自其他国家。"
+mod_job_acot_entertainer_add: "$job_acot_entertainer$"
+
+job_acot_entertainer_drone: "梅因收割单位"
+job_acot_entertainer_drone_plural: "梅因收割单位"
+job_acot_entertainer_drone_desc: "因收割单位搜索来自银河系的梅因，秘密地影响梅因。然后我们研究对我们自己有利的影响。"
+mod_job_acot_entertainer_drone_add: "$job_acot_entertainer_drone$"
+
+job_acot_dimesiona_traveler: "维度旅行者"
+job_acot_dimesiona_traveler_plural: "维度旅行者"
+job_acot_dimesiona_traveler_desc: "这些受过特殊训练的人被赋予最危险的任务;直接通过其他维度的制造商，并将他们的产品转向我们的产品。"
+mod_job_acot_dimesiona_traveler_add: "$job_dimesiona_traveler$"
+
+job_acot_dimesiona_traveler_drone: "维度旅行者"
+job_acot_dimesiona_traveler_drone_plural: "维度旅行者"
+job_acot_dimesiona_traveler_drone_desc: "这些经过特殊训练的部队承担着最危险的任务;直接通过其他维度的制造商，并将他们的产品转向我们的产品。"
+mod_job_acot_dimesiona_traveler_drone_add: "$job_dimesiona_traveler$"
+
+job_acot_giga_fortress_operator_mentat: "表演者"
+job_acot_giga_fortress_operator_mentat_plural: "表演者"
+job_acot_giga_fortress_operator_mentat_desc: "表演者是一个独特的军事战略家，工作在千兆要塞的战略中心，以协调帝国的舰队演习。"
+mod_job_acot_giga_fortress_operator_mentat_add: "$job_acot_giga_fortress_operator_mentat$"
+
+job_acot_stellariteman: "星状体机械手"
+job_acot_stellariteman_plural: "星状体机械手"
+job_acot_stellariteman_desc: "这些专家接受了广泛的培训，将传统能源转化为纯粹的星状体能源。星星照亮了他们的道路。"
+mod_job_acot_stellariteman_add: "$job_acot_stellariteman$"
+
+job_acot_stellaritedrone: "星状体机械单位"
+job_acot_stellaritedrone_plural: "星状体机械单位"
+job_acot_stellaritedrone_desc: "这些单位是专门为在星状反应堆的恶劣条件下工作而设计的。他们的人生使命是将传统能源转化为以恒星为基础的形式。以毒攻毒!"
+mod_job_acot_stellaritedrone_add: "$job_acot_stellariteman$"
+
+
+acot_modifier_ascended_city: "神秘的工程"
+acot_modifier_ascended_city_desc: "强大的神秘建筑高耸于这个世界的城市之上。所有人都目睹了愤怒、影响和敬畏的气氛。"
+
+acot_sr_dark_energy_desc: "一种强大的神秘力量，在许多方面都与暗物质相似，只是能量的形式不同。"
+acot_sr_stellarite_desc: "从对恒星能量全面掌握而获得的一种类型的恒星能量。"
+acot_sr_light_matter_desc: "谁控制了光物质，谁就控制了星系。"
+
+BASE_DM_REACTOR: "暗物质反应堆"
+BASE_DM_REACTOR_DESC: "第一代暗物质反应堆，能够为先驱者飞船提供动力。"
+
+BASE_DM_THRUSTER: "暗物质推进器"
+BASE_DM_THRUSTER_DESC: "第一代暗物质推进器，能够移动先驱者飞行器。"

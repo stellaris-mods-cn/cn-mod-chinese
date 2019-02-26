@@ -1,0 +1,152 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr10_planet_modifier:0 "扭转涡流"
+ apsr10_planet_modifier_desc:0 "这种自然现象产生了一种奇怪的空间湍流，影响着周围的基本粒子"
+ 
+ apsr10_deposit:0 "$apsr10_planet_modifier$"
+ apsr10_deposit_desc:0 "$apsr10_planet_modifier_desc$\n\n§M$apsr10_deposit_effect$§!" 
+ apsr10_deposit_effect:0 "独特的资源可用: $apsr10_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr10_building_part1_text:0 "这个池产生稳定的量子泡沫，由于扭转涡流的力量，它可以保持在我们的维度。它产生的能量等于填满的池子"
+ 
+ apsr10_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr10_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr10_building_part1:0 "能量池"
+ apsr10_building_part1_desc:0 "$apsr10_building_predesc$\n$apsr10_building_part1_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr10_building_part1_fake:0 "$apsr10_building_part1$"
+ apsr10_building_part1_fake_desc:0 "$apsr10_building_fake_predesc$\n$apsr10_building_part1_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr10_building_part1:0 "能量实体化"
+ tech_apsr10_building_part1_desc:0 "强大的线轴可以在不损失任何能量的情况下保持我们维度中的能量粒子"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.10001.title:0 "$apsr10_building_part1$ 完成"
+ apsr.10001.desc:0 "今天我们取得了技术突破!一组科学家和工程师已经完成一个不可思议的引擎,可以解决我们所有的能源问题多年来!当然，这台发电机的工作需要一些动力，但它的潜力是无限的!"
+ apsr.10001.ok-button:0 "我们必须充分利用这一点"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.10011.title:0 "发现人工制品: §M$apsr10_planet_modifier$§!"
+ apsr.10011.desc:0 "起初，我们没有发现任何可疑的东西，但在我们开始测量这个星球的能量场之后，我们发现在一些地方存在着一种“量子泡沫”——一种由“冻结的”量子和电子构成的能量，它们没有移动，但是……同时移动。最奇怪的是它的大退化期。也许我们可以用它来满足我们的兴趣?"
+ apsr.10011.button:1 "我们必须采取行动!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.10013.title:0 "发现人工制品: §M$apsr10_planet_modifier$§!"
+ apsr.10013.desc:0 "正如老档案所说，这个星球上存在一个子空间异常。以前的所有者曾尝试使用它，但没有成功。我们的预测是一样的，也许我们会这样做。"
+ apsr.10013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.10015.title:0 "发现人造物: §M$apsr10_planet_modifier$§!"
+ apsr.10015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n从档案数据来看，星球上存在空间异常。以前的所有者试图利用这一点，但他们没有成功。我们的预测一致:这种反常现象具有巨大的商业潜力。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr10_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr10_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr10_resource_planet.Owner.GetName]"
+ apsr.10015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr10_special:0 "$apsr10_planet_modifier$"
+ apsr10_special_desc:0 "$apsr10_planet_modifier_desc$"
+ 
+ APSR10_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR10_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr10_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr10_anomaly:0 "$apsr1_anomaly$"
+ apsr10_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.10601.title:0 "$apsr.10011.title$"
+ apsr.10601.desc:0 "$apsr.10011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr10_planet_power_engineer_normal:0 "电力工程师"
+ job_apsr10_power_engineer_normal:0 "电力工程师"
+ job_apsr10_power_engineer_normal_plural:0 "电力工程师"
+ job_apsr10_power_engineer_normal_desc:0 "电力工程师的职责包括现场能源生产的整体控制，生产和消耗过程的优化，跟踪网络负荷峰值"
+ mod_job_apsr10_power_engineer_normal_add:0 "电力工程师"
+   
+ apsr10_planet_power_engineer_hive:0 "电力工蜂"
+ job_apsr10_power_engineer_hive:0 "电力工蜂"
+ job_apsr10_power_engineer_hive_plural:0 "电力工蜂"
+ job_apsr10_power_engineer_hive_desc:0 "这是控制普通技术人员的工作，确保稳定和不间断的运行的设施"
+ mod_job_apsr10_power_engineer_hive_add:0 "电力工蜂"
+   
+ apsr10_planet_power_engineer_machine:0 "电力单元"
+ job_apsr10_power_engineer_machine:0 "电力单元"
+ job_apsr10_power_engineer_machine_plural:0 "电力单元"
+ job_apsr10_power_engineer_machine_desc:0 "这个单元有一个改进的自主AI，它的主要任务是监控设备的运行，普通单元技术人员的工作，以及能源生产过程的优化"
+ mod_job_apsr10_power_engineer_machine_add:0 "电力单元"
+ 
+   
+ apsr10_planet_technician_normal:0 "合格技术员"
+ job_apsr10_technician_normal:0 "合格技术员"
+ job_apsr10_technician_normal_plural:0 "合格技术员"
+ job_apsr10_technician_normal_desc:0 "只有具有最高资质的技术人员才能胜任扭转领域的工作"
+ mod_job_apsr10_technician_normal_add:0 "合格技术员"
+   
+ apsr10_planet_technician_hive:0 "合格技术工蜂"
+ job_apsr10_technician_hive:0 "合格技术工蜂"
+ job_apsr10_technician_hive_plural:0 "合格技术工蜂"
+ job_apsr10_technician_hive_desc:0 "只有具有最高资质的技术人员才适合从事扭转领域的工作"
+ mod_job_apsr10_technician_hive_add:0 "合格技术工蜂"
+   
+ apsr10_planet_technician_machine:0 "技术员单元 v2.0"
+ job_apsr10_technician_machine:0 "技术员单元 v2.0"
+ job_apsr10_technician_machine_plural:0 "技术员单元 v2.0"
+ job_apsr10_technician_machine_desc:0 "更新和昂贵的无人机模型工作与高能物质"
+ mod_job_apsr10_technician_machine_add:0 "技术员单元 v2.0"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

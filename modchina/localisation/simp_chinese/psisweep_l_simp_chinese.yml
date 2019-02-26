@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+tech_pk_psisweep:0 "灵能投射器"
+tech_pk_psisweep_desc:0 "灵能投射器能够横扫整个行星，摧毁行星上所有的建筑物，使所有能被救赎的人接受我们的信仰并彻底清算那些不可被拯救的人。"
+PSIONIC_SWEEP:0 "狂热清算"
+PSIONIC_SWEEP_DESC:0 "用灵能投射器横扫整个行星，摧毁行星上所有的建筑物，使所有能被救赎的人接受我们的信仰并彻底清算那些不可被拯救的人。"
+mcpk.201.name:0 "清算执行"
+mcpk.201.desc:0 "[From.From.GetName]上的灵能的嗡声逐渐淡去，一瞬间万物寂静。[From.GetName]上的人群在废墟中跪倒着忏悔自己无知的过去，灵能射线从他们心智絮网中发散着，每个生命都对自己的未来做出了正确的选择。\n\n如果他们之前不明白的话，现在他们发自内心地明白：我们都只是某个更伟大事物的一部分。"
+mcpk.201.infested.desc:0 "灵能扫去了[From.GetName]上各种有机生命扭曲蠕动的被感染的地表上的一切污染。"
+mcpk.201.tooltip:0 "所有§Y$trait_mechanical$§!，§Y$trait_machine_unit$§!或§Y$trait_hive_mind$§!人口都被灵能共振§R摧毁§!。\n\n所有残存的§Y生物§!人口变成§Y$ethic_spiritualist$§!。\n\n[This.GetName]上的所有建筑物都被摧毁。"
+PSIONIC_SWEEP_ACTION:0 "仲裁"
+FLEETORDER_DESTROY_PLANET_WITH_PSIONIC_SWEEP:0 "正在准备清算$PLANET|Y$上的民众"
+MESSAGE_DESC_FOR_PSIONIC_SWEEP:0 "被执行清算"

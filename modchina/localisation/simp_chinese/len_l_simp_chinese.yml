@@ -1,0 +1,187 @@
+﻿l_simp_chinese:
+
+ # ##################################
+ # Technologies
+ # ##################################
+ 
+ len_tech_life_engineering:0 "生命工程"
+ len_tech_life_engineering_desc:0 "有了这些技术，我们就能设计出智慧生命。现在，我们可以派出我们的科学家，用适应的物种来填充外面的世界。"
+ len_tech_society_engineering:0 "社会工程"
+ len_tech_society_engineering_desc:0 "在学习如何创造生命后，我们可以改进程序来创造原始但有知觉的物种。"
+ len_tech_society_uplift:0 "令人振奋的社会"
+ len_tech_society_uplift_desc:0 "明知的教学策略和持续的进步将会促进更先进社会的出现。"
+ len_tech_promethean_project:0 "普罗米修斯的应变"
+ len_tech_promethean_project_desc:0 "一种非常先进的基因菌株，可以被整合到一个活的物种中，使其成为一种强有力的种族。然而，我们的一些专家担心使用这种东西会有副作用。"
+ 
+ # ##################################
+ # Feature Flags
+ # ##################################
+ 
+ len_create_pre_sentient:0 "创建智慧"
+ len_create_pre_sentient_desc:0 "允许我们的科学家在未殖民的星球上设计出智慧生命。"
+ len_create_pre_ftl:0 "创建原始生命"
+ len_create_pre_ftl_desc:0 "允许我们的科学家在未殖民的星球上设计原始生命。"
+ len_society_uplift:0 "推进原始社会"
+ len_society_uplift_desc:0 "允许将观测物种推进到下一个进化阶段。"
+ 
+ # ##################################
+ # Traits
+ # ##################################
+ 
+ len_trait_engineered:0 "工程"
+ len_trait_engineered_desc:0 "§L这个物种是由一个先进的种族设计和创造的。§!\n"
+ len_trait_life_engineering_unit:0 "生命工程监测"
+ len_trait_life_engineering_unit_desc:0 "§L这个单元配备了高科技设备，可以比大多数机器更快地研究遗传学。§!\n"
+ len_trait_engineered_scourge:0 "工程灾难"
+ len_trait_engineered_scourge_desc:0 "§L该物种被设计为一种生物武器，可以在没有相同生物毒株的情况下吃任何其他物种。 它的设计不适用于其他任务。§!\n"
+ len_trait_promethean:0 "独创性的"
+ len_trait_promethean_desc:0 "这个物种被大量设计成为一个强大而智能的种族。"
+ 
+ # ##################################
+ # Special Projects
+ # ##################################
+ 
+ len_project_life_engineering:0 "智慧生命工程"
+ len_project_life_engineering_DESC:0 "我们的科学家将开发一个简单的物种。这个物种将非常适合这个环境。"
+ 
+ len_project_society_engineering:0 "原始生命工程"
+ len_project_society_engineering_DESC:0 "我们的科学家将开发出一种能够完美地融入环境的智能物种。"
+ 
+ len_lef_project_create_society:0 "在[ROOT.GetName]上创建原始生命"
+ len_lef_project_create_society_DESC:0 "我们的科学家准备了一个项目，在这个星球上建立一个原始社会。在这个过程之后，我们可以建立一个观测站研究他们。"
+ 
+ # ##################################
+ # Events
+ # ##################################
+ 
+ len_life_engineering.1.name:0 "生命工程的机会"
+ len_life_engineering.1.desc:0 "我们的科学家认为他们可以在这里部署新的生命。我们应该准备一个项目吗?"
+ len_life_engineering.1.a:0 "是的，准备在这个星球部署§Y智慧生命§!。"
+ len_life_engineering.1.b:0 "是的，准备在这个星球部署§Y石器时代原始生命§!."
+ len_life_engineering.1.c:0 "是的，准备在这个星球部署§Y中世纪原始生命§!."
+ len_life_engineering.1.d:0 "是的，准备在这个星球部署§Y工业原始生命§!."
+ len_life_engineering.1.abort:0 "不，不要在这里准备任何项目。"
+ len_life_engineering.11.name:0 "物种创建"
+ len_life_engineering.11.desc:0 "我们的科学家在§Y[len_species_planet.GetName]§!. 上完成了前期智能物种的工程设计。 我们的首席工程师称他们为[len_species.GetName]，并建议提升这些生物将其融入我们的社会。"
+ len_life_engineering.101.name:0 "创建原始生命（石器时代）"
+ len_life_engineering.101.desc:0 "我们的科学家在§Y[len_species_planet.GetName]§!上完成了原始文明的工程设计。 他们报告说，他们的新石器时代文化已经掌握了火种，并发展了一种基本的口语，希望他们很快就会发展他们的社会。\n\n我们应该建立一个§Y观测站§!，以便更好的研究他们"
+ len_life_engineering.102.name:0 "创建原始生命（中时代）"
+ len_life_engineering.102.desc:0 "我们的科学家在§Y[len_species_planet.GetName]§!上完成了原始文明的工程设计。 他们报告说，他们的新石器时代文化已经掌握了火种，并发展了一种基本的口语，希望他们很快就会发展他们的社会。\n\n我们应该建立一个§Y观测站§!，以便更好的研究他们"
+ len_life_engineering.103.name:0 "创建原始生命（工业时代）"
+ len_life_engineering.103.desc:0 "我们的科学家在§Y[len_species_planet.GetName]§!上完成了原始文明的工程设计。 他们报告说，他们的新石器时代文化已经掌握了火种，并发展了一种基本的口语，希望他们很快就会发展他们的社会。\n\n我们应该建立一个§Y观测站§!，以便更好的研究他们"
+ 
+ len_life_seed_events.2.name:0 "成熟的生命种子"
+ len_life_seed_events.2.desc:0 "The $len_building_life_engineering_facility$ on §Y[ROOT.GetName]§! has reported that all $len_building_life_seed$s are fully grown into mature environments. This is an important milestone in the Life Engineering Project on the planet. We can now activate our devices to finalize the project."
+ 
+ len_life_creator.0.name:0 "创造生命"
+ len_life_creator.0.desc:0 "我们的科学家在§Y[ROOT.GetName]§!的准备工作已经进行到最后一步. 你现在可以选择我们的科学家应该设计哪种物种。"
+ len_life_creator.100.name:0 "新物种的发展"
+ len_life_creator.100.desc:0 "The Life Engineering Team is happy to announce our new §Y[len_species.GetClass]§! species. Several individuals of the species called §Y[len_species.GetName]§! are now wandering around [len_species_planet.GetName]."
+ 
+ len_lef_project_events.2.name:0 "开始生命工程"
+ len_lef_project_events.2.desc:0 "我们的科学家把这个项目准备得很好，现在准备开始工作。他们需要一些时间来处理这个过程，但是我们会在完成的时候通知你。"
+ len_lef_project_events.5.name:0 "泰坦工程"
+ len_lef_project_events.5.desc:0 "我们的科学家完成了称为泰坦的生命形式。这些生物体型庞大，所以我们只创造了一些。把他们释放到荒野后，他们就独立了。"
+ len_lef_project_events.6.name:0 "普罗米修斯项目"
+ len_lef_project_events.6.desc:0 "我们最终在我们的试验对象下找到了匹配。它的身体接受了修改，现在正在进化到一种新的生活方式。然而，所有其他研究对象都因极端突变而死亡。这似乎是由于拒绝了普罗米修斯基因的改造。"
+ len_lef_project_events.8.name:0 "初始项目开始"
+ len_lef_project_events.8.desc:0 "[ROOT.GetName]的科学中心启动了一个项目，在这个星球上形成一个原始社会。 我们的专家灌输人们忘记他们对前生活的回忆。 这将需要一些时间，但他们将成为这个过程中的原始人。"
+ 
+ len_primitive_survivors.10.name:0 "休眠人口"
+ len_primitive_survivors.10.desc:0 "原始项目在[ROOT.GetName]上表现良好。 人口已经陷入停滞状态，他们对前任生活的大部分回忆将被原始的思想所取代。 停滞将持续十年左右。 然后人民将作为一个原始世界的公民醒来。"
+ len_primitive_survivors.110.name:0 "石器时代的觉醒"
+ len_primitive_survivors.110.desc:0 "原始项目在[ROOT.GetName]已经完成了。人口从停滞中觉醒并在石器时代开始他们的新生活。"
+ len_primitive_survivors.120.name:0 "中世纪时代觉醒"
+ len_primitive_survivors.120.desc:0 "原始项目在[ROOT.GetName]已经完成了。人口从停滞中觉醒并在中世纪开始他们的新生活。"
+ len_primitive_survivors.130.name:0 "工业时代的觉醒"
+ len_primitive_survivors.130.desc:0 "原始项目在[ROOT.GetName]已经完成了。人口从停滞中觉醒并在工业时代开始他们的新生活。"
+ 
+ # ##################################
+ # Edicts
+ # ##################################
+ 
+ edict_len_edict_prevent_growth:0 "防止人口增长"
+ edict_len_edict_prevent_growth_desc:1 "在行星上添加一个BUFF，防止有机生物的生长。"
+ edict_len_edict_undo_prevent_growth:0 "防止人口增长"
+ edict_len_edict_undo_prevent_growth_desc:1 "移除BUFF以防止有机生物的生长。."
+ edict_len_edict_prevent_life_engineering_event:0 "禁用生命工程活动"
+ edict_len_edict_prevent_life_engineering_event_desc:1 "我们的科研船不再问你他们是否应该准备一个行星上的生命工程项目。"
+ 
+ # ##################################
+ # Observation Missions
+ # ##################################
+ 
+ mission_len_society_advance_1:0 "先进社会"
+ mission_len_society_advance_1_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_2:0 "先进社会"
+ mission_len_society_advance_2_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_3:0 "先进社会"
+ mission_len_society_advance_3_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_4:0 "先进社会"
+ mission_len_society_advance_4_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_5:0 "先进社会"
+ mission_len_society_advance_5_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_6:0 "先进社会"
+ mission_len_society_advance_6_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_7:0 "先进社会"
+ mission_len_society_advance_7_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_8:0 "先进社会"
+ mission_len_society_advance_8_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ mission_len_society_advance_9:0 "先进社会"
+ mission_len_society_advance_9_desc:0 "我们的科学家教授这个物种，以便原始物种可以进入他们进化的下一个阶段。"
+ 
+ # ##################################
+ # Buildings
+ # ##################################
+ 
+ len_building_lef_project_requirement:0 "§L所有$len_building_life_seed$必须增加，并且在这个行星上至少有一个$len_building_hive$存在。§!"
+ len_building_life_engineering_in_progress:0 "§L生命工程项目仍在进行中。§!"
+ len_promethian_project_requirement_planet:0 "§L星球必须有至少§Y10§!单位人口，才能有足够的试验对象。§!"
+ len_promethian_project_requirement_tile:0 "§L设备必须有人口来进行操作。§!"
+ 
+ len_building_life_engineering_facility:0 "生命工程设施"
+ len_building_life_engineering_facility_desc:0 "一个用新的实验技术来设计新物种的实验室。"
+ 
+ len_building_life_seed:0 "生命种子"
+ len_building_life_seed_desc:0 "一种具有一些生命荚果和生命种子装置的设施。一簇纳米机器维持生命的种子并帮助它生长。种子最终会生长，直到它变成一个成熟的环境来创造生命。"
+ 
+ len_building_hive:0 "生命工程蜂巢"
+ len_building_hive_desc:0 "$len_building_life_seed$的成熟环境。在蜂巢中有几个有机体生物，它们代表着早期的生命形式和进化的开始。整个环境由纳米机器维护。我们的科学家可以利用这个蜂巢来创造生命或收获更多的研究。"
+ len_building_hive_reservoir:0 "生命工程蜂巢水库"
+ len_building_hive_reservoir_desc:0 "一个$len_building_hive$与观察装置一起研究居住在蜂巢的生物。纳米机器被重新编程，使蜂箱处于一个稳定的状态，这使得对有机体的研究几乎是无止境的。在这种状态下，我们的科学家不能再用它来创造生命。但是他们可以从那个水库学到很多东西。"
+ 
+ len_building_lef_project_presentient:0 "创建智慧生命"
+ len_building_lef_project_presentient_desc:0 "启动一个生命工程项目来创建一个新的物种。所有$len_building_hive$将在此过程中使用。对于$len_building_hive$新物种将被创建。"
+ len_building_lef_project_sentient:0 "创建物体"
+ len_building_lef_project_sentient_desc:0 "启动一个生命工程项目来创建一个新的物种。所有$len_building_hive$将在此过程中使用。对于$len_building_hive$新物种将被创建。"
+ len_building_lef_project_titanic:0 "泰坦的生活"
+ len_building_lef_project_titanic_desc:0 "启动一个生命工程项目，在这个世界上创造巨大的生物。在此过程之后，泰坦的生命形式将被释放到大自然中。"
+ len_building_lef_project_promethean:0 "普罗米修斯项目"
+ len_building_lef_project_promethean_desc:0 "开始一个生命工程项目来修改具有实验基因的物种。 修改将应用于所有人口。"
+ len_building_lef_project_primitives_stone_age:0 "原始社会（石器时代）"
+ len_building_lef_project_primitives_stone_age_desc:0 "开始一个社会工程项目，让这个星球上的社区回归到一个原始的时代。 我们的团队将消除每一个进步的迹象。"
+ len_building_lef_project_primitives_late_medieval_age:0 "原始社会（中世纪）"
+ len_building_lef_project_primitives_late_medieval_age_desc:0 "$len_building_lef_project_primitives_stone_age_desc$"
+ len_building_lef_project_primitives_industrial_age:0 "原始社会（工业）"
+ len_building_lef_project_primitives_industrial_age_desc:0 "$len_building_lef_project_primitives_stone_age_desc$"
+ 
+ # ##################################
+ # Static Modifiers
+ # ##################################
+
+ len_prevent_growth:0 "防止人口增长"
+ len_prevent_growth_desc:0 "我们的科学家需要他们在生活工程项目的空间生活，以便人口不再增长。"
+ 
+ # ##################################
+ # Species Classes
+ # ##################################
+ 
+ len_life_engineering_unit:0 "生命工程远程控制"
+ 
+ # ##################################
+ # Primitive ages
+ # ##################################
+ 
+ len_hibernation_age:0 "休眠模式"
+ len_hibernation_age_desc:0 "这个国家停滞不前。 人口在密室内，等待着他们的觉醒。"
+ 

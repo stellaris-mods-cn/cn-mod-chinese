@@ -1,0 +1,35 @@
+﻿l_simp_chinese:
+
+# Buildings
+
+building_cofh_se_geo_complex:0 "地貌改造复合体"
+building_cofh_se_geo_complex_desc:0 "一个致力于研究和操纵行星物理的研究中心。可升级为专用反应堆设施。\n\n§G减轻正在进行地貌改造星球的痛苦。§!"
+
+building_cofh_se_geo_institute:0 "地貌改造研究所"
+building_cofh_se_geo_institute_desc:0 "一个致力于研究和操纵行星物理学的大型研究机构，极大地帮助我们的地貌改造进程。\n\n§G减轻正在进行地貌改造星球的痛苦。§!"
+
+building_cofh_se_geo_reactor_engineering:0 "构造稳定反应堆"
+building_cofh_se_geo_reactor_engineering_desc:0 "研究和操纵构造条件，提高行星矿物产量的工程研究设施。\n\n§G减轻正在进行地貌改造星球的痛苦。§!"
+
+building_cofh_se_geo_reactor_physics:0 "活跃的调制反应堆"
+building_cofh_se_geo_reactor_physics_desc:0 "一个研究和操纵大气能量条件，提高行星能量产量的物理研究机构。\n\n§G减轻正在进行地貌改造星球的痛苦。§!"
+
+building_cofh_se_geo_reactor_society:0 "植物注射反应器"
+building_cofh_se_geo_reactor_society_desc:0 "一种社会研究机构，它调查和操纵植物生命所必需的条件，提高行星的粮食产量。\n\n§G减轻正在进行地貌改造星球的痛苦。§!"
+
+# Modifiers
+
+cofh_se_geo_terraforming_adaptation:0 "自适应地貌改造过程"
+
+# Technology - Non-Repeatable
+
+# Society
+
+tech_cofh_se_geophysics:0 "应用星球物理"
+tech_cofh_se_geophysics_desc:0 "通过星球物理控制的应用，我们可以更快速地建立世界，并在此过程中获得科学的见解。"
+
+tech_cofh_se_geoengineering:0 "行星地貌改造工程"
+tech_cofh_se_geoengineering_desc:0 "通过对星球物理过程的研究，我们可以更细致地描绘已经有人居住的世界，防止对居住在星球上的人为干扰。"
+
+COFH_SE_TECH_GEOPHYSICS_TITLE:0 "§H解锁功能:§! 星球物理分析"
+COFH_SE_TECH_GEOPHYSICS_DESC:0 "§H星球物理分析§!\n地貌改造后的行星和清除地块障碍将提供£society £physics £engineering §Y研究点数§!."

@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+
+#W Slots
+#Doomsday Beam
+APOCEX_DOOMSDAY_BEAM: "世界末日"
+APOCEX_DOOMSDAY_BEAM_DESC: "终极激光武器，穿透护盾和装甲"
+#Colossus Ray
+PERDITION_BEAM_COLOSSUS: "巨像射线"
+PERDITION_BEAM_COLOSSUS_DESC: "巨像的激光武器"

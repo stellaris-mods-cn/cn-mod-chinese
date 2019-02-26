@@ -1,0 +1,1946 @@
+﻿l_simp_chinese:
+ 
+################################################################
+# ACADEMY
+################################################################
+tradition_est_academy:0 "学院"
+tradition_est_academy_desc:0 "学院、学校和大学遍布我们的帝国，那些希望达到顶点的人通过他们错综复杂的等级制度来实现。"
+tr_est_academy_adopt:0 "学院传统"
+tr_est_academy_adopt_desc:0 "$tradition_est_academy_desc$\n\n$tr_est_academy_adopt_effect$\n\n$tr_est_academy_finish_effect$"
+tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n给每个星球上提供§Y1§!可选择的 £job_researcher£ §Y$job_researcher$ 职位§!"
+
+tr_est_academy_1:0 "公共教育"
+tr_est_academy_1_desc:0 "§Y帝国领袖池容量§!增加加§Y3§!."
+tr_est_academy_1_delayed:0 "教育是一种属于所有人的权利。通过公共教育，我们确保为我们所有公民提供基本的教育水平。遍地撒网，才能重点捞鱼。"
+
+tr_est_academy_2:0 "强制性高等教育"
+tr_est_academy_2_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§!增加§Y1§!."
+tr_est_academy_2_delayed:0 "通过确保我们大多数公民获得高等教育，我们可以确保我们社会的各种职能由有能力的领导人执行。"
+
+tr_est_academy_3:0 "学习，忘却，再学习，"
+tr_est_academy_3_desc:0 "§Y领袖经验收益§!增加§G+25%§!."
+tr_est_academy_3_delayed:0 "我们重视学习，不仅仅是为了知识，而是作为一个过程本身。这使我们的领导者更能够从他们的经验中学习。"
+
+tr_est_academy_4:0 "象牙塔"
+tr_est_academy_4_desc:0 "向有£building  §Y$building_research_lab_3$§!的星球上提供§Y1§! £job_head_researcher£ §Y$job_head_researcher$ 职位§!"
+tr_est_academy_4_delayed:0 "那些已经达到学术阶梯顶端的人们将获得无限的资源来追求新的知识。在他们的象牙塔中，他们可以自由地进行研究，而不受外界的干扰。"
+
+tr_est_academy_5:0 "军事学校"
+tr_est_academy_5_desc:0 "§Y陆军初始经验§!和§Y舰队初始经验§!增加§G+200§!. 此外我们所有的§Y舰队司令§!和§Y陆军将领§!§Y最高等级§!增加§Y1§!."
+tr_est_academy_5_delayed:0 "通过确所有的军事人员能进行全面的基础教育，可以确保我们舰队的效率达到最大化。"
+
+tr_est_academy_finish:0 "完成学院传统"
+tr_est_academy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_academy_adopt$将允许领袖达到§Y5§!级时升级他们的一个特质。升级后的特质是正常的两倍。"
+
+### Swap - Shroudborn ###
+
+tradition_est_shroudborn:0 "虚境出生"
+tradition_est_shroudborn_desc:0 "我们也许是银河系中最强大的灵能存在。与我们接触的普通灵能都会死亡或发疯。"
+tr_est_shroudborn_adopt:0 "虚境出生传统"
+tr_est_shroudborn_adopt_desc:0 "$tradition_est_shroudborn_desc$\n\n$tr_est_shroudborn_adopt_effect$\n\n$tr_est_shroudborn_finish_effect$"
+tr_est_shroudborn_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity §Y凝聚力§!产出增加§G+10%§!."
+
+tr_est_shroudborn_1:0 "侵入心灵"
+tr_est_shroudborn_1_desc:0 "§Y$MOD_SHIP_EVASION_MULT$§!增加§G+10%§!."
+tr_est_shroudborn_1_delayed:0 "我们能够侵入凡人的头脑，阅读他们的思想，预测他们的行动。"
+
+tr_est_shroudborn_2:0 "思维抑制"
+tr_est_shroudborn_2_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!增加§G+15%§!，此外对于所有邻国§Y星际基地影响力花费§!和§Y宣称影响力花费§!增加§R+15%§!(我们的盟国，共同防御契约国或我们的附庸国不受影响)。"
+tr_est_shroudborn_2_delayed:0 "当我们进入到凡人的思想中时，我们可以使他们的思想变得迟钝，抑制他们的感受，减少他们的野心或战斗的意志。"
+tr_est_shroudborn_2_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!增加§G+30%§!."
+
+tr_est_shroudborn_3:0 "永恒观察者"
+tr_est_shroudborn_3_desc:0 "§Y行星传感器范围§!增加§Y2§!."
+tr_est_shroudborn_3_delayed:0 "在整个银河系各处，我们总是在场，看着时间和生命的流逝。"
+
+tr_est_shroudborn_4:0 "第七感"
+tr_est_shroudborn_4_desc:0 "§Y异常点发现几率§!增加§G+10%§!且§Y调查速度§!增加§G+20%§!."
+tr_est_shroudborn_4_delayed:0 "通过我们与虚境的联系，我们已经对银河系形成了第七感，感知到我们通常不会感知到的感觉。"
+
+tr_est_shroudborn_5:0 "能量具现"
+tr_est_shroudborn_5_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§!增加§G+15%§!且§Y能量武器伤害§!增加§G+15%§!."
+tr_est_shroudborn_5_delayed:0 "我们的意志如此强大，以至我们能够在物质世界中显化它，增加我们的舰船武器和防御的能力。"
+
+tr_est_shroudborn_finish:0 "完成虚境出生传统"
+tr_est_shroudborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_shroudborn_adopt$使§Y领袖经验收益§!增加§G+25%§!."
+
+### Swap - Hacking ###
+
+tradition_est_hacking:0 "黑客"
+tradition_est_hacking_desc:0 "我们机敏到能够进入其他帝国的计算机系统，改变他们对我们的喜好。"
+tr_est_hacking_adopt:0 "黑客传统"
+tr_est_hacking_adopt_desc:0 "$tradition_est_hacking_desc$\n\n$tr_est_hacking_adopt_effect$\n\n$tr_est_hacking_finish_effect$"
+tr_est_hacking_adopt_terminator:0 "黑客传统"
+tr_est_hacking_adopt_terminator_desc:0 "$tradition_est_hacking_desc$\n\n$tr_est_hacking_adopt_effect$\n\n$tr_est_hacking_finish_terminator_effect$"
+tr_est_hacking_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y研究速度(计算机学)§!增加§G+25%§!."
+
+tr_est_hacking_1:0 "系统操作"
+tr_est_hacking_1_desc:0 "§Y$MOD_SHIP_EVASION_MULT$§!增加§G+10%§!."
+tr_est_hacking_1_delayed:0 "通过小心地操纵敌舰的瞄准系统，我们可以减少他们在战斗中成功瞄准我们船的能力。"
+
+tr_est_hacking_2:0 "通信中断"
+tr_est_hacking_2_desc:0 "所有普通邻国帝国§Y行星探测范围§!和§Y舰船§! §Y传感器范围§!减少§R1§!且§Y星际基地影响力花费§!增加§R+25%§!（和我们有联盟、共同防御契约的帝国或我们的附庸国不受影响）。"
+tr_est_hacking_2_delayed:0 "我们可以破坏外国通讯系统，减少我们邻国在其帝国内部有效沟通的能力。"
+tr_est_hacking_2_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§! 增加§G+30%§!."
+
+tr_est_hacking_3:0 "间谍软件"
+tr_est_hacking_3_desc:0 "§y行星传感器范围§！增加§Y2§！。"
+tr_est_hacking_3_delayed:0 "我们可以黑进其他帝国的监视和观测系统，利用它们更好地了解我们帝国周围的空间。"
+
+tr_est_hacking_4:0 "恶意软件"
+tr_est_hacking_4_desc:0 "对所有宿敌国家§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!减少§R-10%§!且§Y建筑维护§!增加§R+15%§!。"
+tr_est_hacking_4_delayed:0 "通过对我们宿敌的计算机系统进行有害攻击，我们可以降低他们管理帝国的效率。"
+
+tr_est_hacking_4_terminator:0 "$tr_est_hacking_4$"
+tr_est_hacking_4_terminator_desc:0 "其他所有帝国§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!减少§R-10%§!且§Y建筑维护§!增加§R+15%§!。"
+tr_est_hacking_4_terminator_delayed:0 "通过对其他计算机系统执行有害攻击，我们可以降低他们运行帝国的效率。"
+
+tr_est_hacking_4_passive_AI:0 "恶意软件"
+tr_est_hacking_4_passive_AI_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+tr_est_hacking_4_passive_AI_delayed:0 "通过对我们竞争对手的计算机系统进行有害攻击，我们可以降低他们管理帝国的效率。"
+
+tr_est_hacking_5:0 "数据库挖掘"
+tr_est_hacking_5_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G+10%§!."
+tr_est_hacking_5_delayed:0 "通过挖掘其他帝国的数据库，我们可以在自己的研究项目中找到有价值的信息。"
+
+tr_est_hacking_finish:0 "完成黑客传统"
+tr_est_hacking_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_hacking_adopt$使从§Y宿敌§!获得的£influence §Y影响力§!增加§G+30%§!."
+tr_est_hacking_finish_terminator_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_hacking_adopt$使§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!增加§G+25%§!."
+
+################################################################
+# ADMINISTRATUM
+################################################################
+tradition_est_administratum:0 "中央政务院"
+tradition_est_administratum_desc:0 "大批的职员和官僚监督我们的帝国。他们是确保我们的帝国按照按统治者规定运作的人。"
+tr_est_administratum_adopt:0 "中央政务院传统"
+tr_est_administratum_adopt_desc:0 "$tradition_est_administratum_desc$\n\n$tr_est_administratum_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
+tr_est_administratum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y领袖维护费§!减少§G-20%§!."
+
+tr_est_administratum_1:0 "简化招聘流程"
+tr_est_administratum_1_desc:0 "§Y$MOD_LEADER_COST$§!减少§G-25%§!."
+tr_est_administratum_1_delayed:0 "由于我们帝国需要大量的新兵，因此我们无法保留旧的招聘流程。他们需要进行精简，以便每位潜在招聘人员都能够通过我们招聘人员的最低限度人力工作进行处理。"
+
+tr_est_administratum_2:0 "精英推广政策"
+tr_est_administratum_2_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§!增加§Y1§!。此外，所有§Y统治者§!初始拥有一个额外的特质。"
+tr_est_administratum_2_delayed:0 "以前的日子里，政治观点，阴谋诡计和小小的抱怨都可能会影响晋升。新的严格指导方针和晋升决定确保不再是这种情况。"
+
+tr_est_administratum_3:0 "高效政府机构"
+tr_est_administratum_3_desc:0 "§Y舰船建造速度§!增加§G+10%§!, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!增加§G+25%§!且§Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!减少§G-25%§!."
+tr_est_administratum_3_delayed:0 "日益见长的官僚作风威胁着我们行政效率的下降。通过采用新的、改进的官僚技术，我们将确保这不会发生。"
+
+tr_est_administratum_4:0 "标准化星球管理"
+tr_est_administratum_4_desc:0 "使拥有§Y星区总督§!的完全开发的殖民地的§Y区域建造花费§!减少§G-25%§!."
+tr_est_administratum_4_delayed:0 "我们控制着大量的行星，随着我们帝国的发展，他们的地方政府面临分化的风险。通过制定行星管理的标准模板，我们将确保在我们所有星球上都有类似的治理。"
+
+tr_est_administratum_5:0 "监督局"
+tr_est_administratum_5_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+50%§!."
+tr_est_administratum_5_delayed:0 "监督局是我们行政部门的一个独立组织。其代表，监督员将遍布我们的帝国，确保它按照规定进行管理。被监督员投以注意将是每一个当地管理员最高的恐惧。"
+
+tr_est_administratum_finish:0 "完成中央政务院传统"
+tr_est_administratum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_administratum_adopt$解锁一个额外的§Y国家理念槽§!。"
+
+### Swap - Omnipresence ###
+
+tradition_est_omnipresence:0 "无所不在"
+tradition_est_omnipresence_desc:0 "我们是一个整体，我们无处不在。我们能够充分重视事物的宏伟计划和最无关紧要的工蜂的细微动作。"
+tr_est_omnipresence_adopt:0 "无所不在传统"
+tr_est_omnipresence_adopt_desc:0 "$tradition_est_omnipresence_desc$\n\n$tr_est_omnipresence_adopt_effect$\n\n$tr_est_administratum_finish_effect$"
+tr_est_omnipresence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y反常性§! 减少 §G-20%§!."
+
+tr_est_omnipresence_1:0 "总信息处理"
+tr_est_omnipresence_1_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§!增加§Y1§!."
+tr_est_omnipresence_1_delayed:0 "我们每天都面临着大量的想法和信息。通过记录即使是最微不足道的输入，我们也可以更好地从经验中学习，从而进一步磨练我们的能力。"
+
+tr_est_omnipresence_2:0 "完全进驻工蜂"
+tr_est_omnipresence_2_desc:0 "§Y舰船建造速度§!增加§G+10%§!, §Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!增加§G+25%§!且§Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!减少§G-25%§!."
+tr_est_omnipresence_2_delayed:0 "我们将完全控制每个单独的工蜂，而不是让他们的行为很大程度上取决于反射，从而最大限度地提高其效率。"
+
+tr_est_omnipresence_3:0 "增加容量"
+tr_est_omnipresence_3_desc:0 "§Y行政管理上限§!增加§G20§!."
+tr_est_omnipresence_3_delayed:0 "随着我们在整个银河系的扩展，我们的容量也需要扩展，以适应不断扩大的工蜂数量。"
+
+tr_est_omnipresence_4:0 "同步控制"
+tr_est_omnipresence_4_delayed:0 "同一时间某些类似的任务在我们的几个世界进行。通过开发技术来同时控制这些过程，我们可以提高认知效率。"
+
+tr_est_omnipresence_5:0 "高级认知神经突触"
+tr_est_omnipresence_5_delayed:0 "通过改进我们的存在在我们的领域内流动的方式，我们将能够控制它。"
+
+tr_est_omnipresence_5_machines:0 "发射塔"
+tr_est_omnipresence_5_machines_delayed:0 "通过构建专门的发射塔来广播或感知信号，我们可以更好地控制我们领域的运作。"
+
+tr_est_omnipresence_finish:0 "完成无所不在传统"
+tr_est_omnipresence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_omnipresence_adopt$解锁一个额外的§Y国家理念槽§!."
+
+################################################################
+# AESTHETICS
+################################################################
+tradition_est_aesthetics:0 "美学"
+tradition_est_aesthetics_desc:0 "美可以被感知，但不能被解释，没有它，我们在这个星系中的存在将是空洞的。"
+tr_est_aesthetics_adopt:0 "美学传统"
+tr_est_aesthetics_adopt_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_effect$\n\n$tr_est_aesthetics_finish_effect$"
+tr_est_aesthetics_adopt_spiritualist_desc:0 "$tradition_est_aesthetics_desc$\n\n$tr_est_aesthetics_adopt_spiritualist_effect$\n\n$tr_est_aesthetics_finish_effect$"
+tr_est_aesthetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+15%§!到有 £building §Y$building_autochthon_monument$§!建筑链存在的星球上。"
+tr_est_aesthetics_adopt_spiritualist_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+15%§!到有£building §Y$building_temple$§!建筑链存在的星球上。"
+
+tr_est_aesthetics_1:0 "文学作品"
+tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§!增加§G+15%§!."
+tr_est_aesthetics_1_delayed:0 "我们的作家和诗人的作品将在数千年内启发着数十亿人的灵魂。一件作品完成后，它将持续到永恒，每天它的存在使这个星系成为一个更好的地方。"
+
+tr_est_aesthetics_2:0 "艺术家公会"
+tr_est_aesthetics_2_desc:0 "在一个星球上每§Y40§! £pop  §Y人口§!提供§Y1§! §Y文化工作者职位§! 和 §Y1§! §Y演艺人员职位§! 。"
+tr_est_aesthetics_2_delayed:0 "受人尊敬的艺术家工会收集了我们帝国中最有技能的艺术家，他们为他们的技能而精心挑选，为帝国服务，为帝国带来更大的好处和利益。"
+
+tr_est_aesthetics_3:0 "敬畏灵感"
+tr_est_aesthetics_3_desc:0 "外星帝国£opinion §Y评价§!增加§G+15§!且§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!增加§G+5%§!."
+tr_est_aesthetics_3_xenophile_desc:0 "外星帝国£opinion §Y评价§!增加§G+15§!, §Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! 增加 §G+5%§!,且 §Y移民吸引力§! 增加 §G+25%§!."
+tr_est_aesthetics_3_delayed:0 "来访我们的帝国的外国外交官对我们的建筑物感到敬畏。他们对他们走过的每个大厅的美景都赞叹不已。之后他们将在我们文明观摩到的荣耀的消息带回自己的帝国。"
+
+tr_est_aesthetics_3_xenophobe:0 "战争艺术"
+tr_est_aesthetics_3_xenophobe_desc:0 "当我们处于战争状态时，我们的£unity §Y凝聚力§! 产出增加§G+20%§!。"
+tr_est_aesthetics_3_xenophobe_delayed:0 "战争中有美丽。每一场战役都是一件艺术品。成千上万在战场上灭亡的人将成为我们的将军杰作的一部分。"
+
+tr_est_aesthetics_3_IP:0 "追求完美"
+tr_est_aesthetics_3_IP_desc:0 "我们的£unity §Y凝聚力§! 产出增加§G+10%§!."
+tr_est_aesthetics_3_IP_delayed:0 "我们对周围的星系几乎不在乎，在我们存在的宁静中，我们只有一个目标; 圆满的艺术之美。""
+
+tr_est_aesthetics_4:0 "宏伟建筑"
+tr_est_aesthetics_4_desc:0 "§Y住房§! 增加 §G+15%§!."
+tr_est_aesthetics_4_delayed:0 "我们的建筑将是我们最伟大的遗产，他将在我们逝去后不断的重复述说我们的伟大。"
+
+tr_est_aesthetics_5:0 "银河奇迹"
+tr_est_aesthetics_5_desc:0 "启用§Y5§!昂贵的帝国唯一奇迹建筑，每一个建筑提供给星球和帝国大量的额外好处。建造奇迹需要一个£building §Y$building_capital_2$§!，且一个星球上仅允许建造一个奇迹。"
+tr_est_aesthetics_5_delayed:0 "我们的帝国拥有银河系中一些最伟大的奇迹建筑。即使在这个银河系最偏远的地方，它们的伟大也是众所周知的。"
+
+tr_est_aesthetics_finish:0 "完成美学传统"
+tr_est_aesthetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\nAdopting all $tr_est_aesthetics_adopt$ 使£culture_workers §Y文化工作者§!产出的£society  §Y社会学研究§!增加§Y2§!."
+
+### Swap - Age ###
+tradition_est_age:0 "悠久历史"
+tradition_est_age_desc:0 "自银河系诞生以来我们就一直在这里。我们见证了第一个银河帝国的崛起，从那以后我们看到了许多其他帝国的兴衰。"
+
+tr_est_age_adopt:0 "时代传统"
+tr_est_age_adopt_desc:0 "$tradition_est_age_desc$\n\n$tr_est_age_adopt_effect$\n\n$tr_est_age_finish_effect$"
+tr_est_age_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_AGE$§!增加§Y25§!."
+tr_est_age_adopt_machines:0 "时代传统"
+tr_est_age_adopt_machines_desc:0 "$tradition_est_age_desc$\n\n$tr_est_age_adopt_machines_effect$\n\n$tr_est_age_finish_effect$"
+tr_est_age_adopt_machines_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y机械改造点§!增加§Y1§!."
+
+tr_est_age_1:0 "骄傲"
+tr_est_age_1_desc:0 "我们的£unity §Y凝聚力§!产出增加§G+10%§!."
+tr_est_age_1_delayed:0 "我们已经看到其他的起起落落，经受了长时间等待的考验。我们知道别人的错误，在我们走上辉煌的漫长道路时，我们不会重复他们的错误。"
+
+tr_est_age_2:0 "优越"
+tr_est_age_2_desc:0 "从§Y宿敌§!获得的£influence §Y影响力§! 增加§G+25%§!."
+tr_est_age_2_delayed:0 "当我们的对手的祖先甚至没有进化出视力的时候，我们已经抬头仰望星空。这个银河里的年轻人必须知道他们的位置，并跪拜在高级的智慧身下。"
+
+tr_est_age_2_devouring_swarm:0 "$tr_est_age_2$"
+tr_est_age_2_devouring_swarm_desc:0 "通过吞食有机£pop §Y人口§!获得额外的§G+50%§! £society §Y社会学研究§!。"
+tr_est_age_2_devouring_swarm_delayed:0 "当我们的对手的祖先甚至没有进化出视力的时候，我们已经抬头仰望星空。这个银河里的年轻人应该死在高级的智慧手上。"
+
+tr_est_age_2_terminator:0 "$tr_est_age_2$"
+tr_est_age_2_terminator_desc:0 "肃清有机£pop §Y人口§!获得额外§G+50%§! £unity §Y凝聚力§!。"
+tr_est_age_2_terminator_delayed:0 "$tr_est_age_2_devouring_swarm_delayed$"
+
+tr_est_age_2_assimilators:0 "$tr_est_age_2$"
+tr_est_age_2_assimilators_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+tr_est_age_2_assimilators_delayed:0 "$tr_est_age_2_devouring_swarm_delayed$"
+
+tr_est_age_3:0 "智慧"
+tr_est_age_3_desc:0 "§Y$mod_country_base_influence_produces_add$§!增加§Y1§!."
+tr_est_age_3_delayed:0 "在亿万年里，我们积累了大量的经验。们从我们自己的错误和其他人的错误中吸取教训。几个世纪以来，我们已经计划了帝国的最终崛起。如果力量失败了，那智慧也将占获胜。"
+
+tr_est_age_3_machines:0 "$tr_est_age_3$"
+tr_est_age_3_machines_desc:0 "$tr_est_age_3_desc$"
+tr_est_age_3_machines_delayed:0 "$tr_est_age_3_delayed$"
+
+tr_est_age_4:0 "古老的知识"
+tr_est_age_4_desc:0 "§Y研究速度§!增加§G+5%§!."
+tr_est_age_4_delayed:0 "在过去几千年中，我们发展了我们的技术。更重要的是，我们观察到许多古老帝国的技术并将其融入我们自己的技术中。这种古老的知识将有助于我们探索星河。"
+
+tr_est_age_5:0 "世纪轮回"
+tr_est_age_5_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!且§Y回避§!增加§G+5%§!。外星帝国£opinion §Y评价§!增加§G+10§!."
+tr_est_age_5_delayed:0 "凡人出生，凡人死亡，只有我们永存。他们认为他们是独一无二的，但我们看到它们的同类至少已经一千次。他们已经成长了。我们知道如何打击他们，操纵他们，以及如何制服他们。"
+
+tr_est_age_5_no_dip:0 "$tr_est_age_5$"
+tr_est_age_5_no_dip_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!且§Y回避§!增加§G+5%§!."
+tr_est_age_5_no_dip_delayed:0 "凡人出生，凡人死亡，只有我们永存。他们认为他们是独一无二的，但我们看到它们的同类至少已经一千次。他们已经成长了。我们知道如何毁灭他们。"
+
+tr_est_age_finish:0 "完成时代传统"
+tr_est_age_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_age_adopt$ 使§Y$MOD_LEADER_SKILL_LEVELS$§!增加§Y2§!."
+
+################################################################
+# Archivist
+################################################################
+tradition_est_archivist:0 "档案管理员"
+tradition_est_archivist_desc:0 "除非被记录下来，否则任何事情都不算真正发生，也不算真正存在。我们的档案包含了这个星系中最伟大的知识，在那里它将为后代保存下来。"
+tr_est_archivist_adopt:0 "档案管理员传统"
+tr_est_archivist_adopt_desc:0 "$tradition_est_archivist_desc$\n\n$tr_est_archivist_adopt_effect$\n\n$tr_est_archivist_finish_effect$"
+tr_est_archivist_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们可以选择§Y2§! 研究种类使§Y研究速度§!增加§G+15%§!."
+
+tradition_est_archivist_GC:0 "$tradition_est_archivist$"
+tradition_est_archivist_GC_desc:0 "除非被记录下来，否则任何事情都不算真正发生，也不算真正存在。我们的任务是记录这个星系的每一个事件和存在，并将这些记录保存到永恒。"
+
+tr_est_archivist_1:0 "原始生命形式的研究"
+tr_est_archivist_1_desc:0 "我们有§Y10%§!几率在我们所有星球上（包括以后新征服的星球，每个星球只能生效1次）生成§Y$d_alien_pets_deposit$ 资源点§! . 解锁§Y$mission_est_archivist_1_document_civilization_1$§!观察任务，可产生§Y5§! £unity  §Y凝聚力§! 和 §Y10§! £society  §Y社会学研究§!, 当§Y$tech_society_2$§!/§Y$tech_society_3$§!科技研究完成时增加到 §Y10§! 和  §Y15§!/§Y15§! 和  §Y20§!."
+tr_est_archivist_1_delayed:0 "生命在银河里不算常见，只在少部分行星上能发现。每次出现的生命都是独一无二的，与银河中的其他地方不同。一定要从研究这些生命形式中获益。我们将调查他们的生物学并记录他们的文化。"
+
+tr_est_archivist_1_purifier:0 "武器收藏"
+tr_est_archivist_1_purifier_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+15%§!且§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+tr_est_archivist_1_purifier_delayed:0 "我们每个制造的每种武器类型至少有一个副本被分类并储存在我们的武器收藏中。我们还积极收集我们堕落的敌人制造的武器，这些武器也将经过广泛研究后进入我们的收藏。"
+
+tr_est_archivist_2:0 "图书管理员"
+tr_est_archivist_2_desc:0 "领袖有§Y25%§!几率获得§Y图书管理员§!特质，使他们的§Y研究速度§!减少§R-5%§!，§Y调查速度§!减少§R-15%§!，并且使他们的§Y花费§! 和 §Y维护费§! 增加 §R+50%§!。。这样的领袖会使我们的 §Y物理学§!, §Y社会学§!或§Y工程学§ §Y研究速度§!增加§G+10%§!, 不管他们在不在任何领域领导研究。"
+tr_est_archivist_2_delayed:0 "尊敬的图书管理员的受命负责我们档案的运行。他们可以获得我们世代相传的知识。"
+
+tr_est_archivist_2_GC:0 "信息保存者"
+tr_est_archivist_2_GC_desc:0 "领袖有§Y25%§!几率获得§Y保存者§!特质，, 使他们的§Y研究速度§!减少§R-5%§!，§Y调查速度§!减少§R-15%§!，并且使他们的§Y花费§! 和 §Y维护费§! 增加 §R+50%§!。这样的领袖会使我们的 §Y物理学§!, §Y社会学§!或§Y工程学§! §Y研究速度§!增加§G+10%§!, 不管他们在不在任何领域领导研究。"
+tr_est_archivist_2_GC_delayed:0 "为了提高回收效率，除了在心中存储信息之外，我们还会将其存储在专门的记忆工蜂中。 这些工蜂专门存储大量知识，并确定何时需要这些知识。 但是，它们在对其他许多方面没有用处。"
+
+tr_est_archivist_2_AI_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G+10%§!."
+
+tr_est_archivist_3:0 "历史记录"
+tr_est_archivist_3_desc:0 "我们的£unity §Y凝聚力§! 产出增加§G+5%§!且§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+10%§!."
+tr_est_archivist_3_delayed:0 "我们对帝国的历史进行了细致的记录，每个事件和个人都被记录下来，我们采取的每一个行动也是如此。 通过对我们共同历史的这种认识，我们更紧密地结合在一起。"
+
+tr_est_archivist_3_GC:0 "物理记录"
+tr_est_archivist_3_GC_desc:0 "£unity §Y凝聚力§! 产出增加§G+10%§!."
+tr_est_archivist_3_GC_delayed:0 "为了确保不惜一切代价保留我们的记录，我们将在物理状态下对我们的知识进行备份，除此之外将其保存在我们自己的心灵中。"
+
+tr_est_archivist_4:0 "银河记录"
+tr_est_archivist_4_desc:0 "§Y异常点发现几率§!增加§G+10%§!。当我们调查完一个星系后获得额外§G5§! £influence §Y影响力§!。"
+tr_est_archivist_4_delayed:0 "我们将记录这个星河，绘制每个行星的图像，记录每个星系和它所包含的每个天体。"
+
+tr_est_archivist_5:0 "保存知识"
+tr_est_archivist_5_desc:0 "每研究完成§Y4§!个科技增加£unity §Y凝聚力§!产出§Y1§!。"
+tr_est_archivist_5_delayed:0 "我们研究的每一个结果，每一项技术都应该加入到我们的档案中保留下来，这样可以使那些能够接替我们的人受益。"
+
+tr_est_archivist_finish:0 "完成档案管理员传统"
+tr_est_archivist_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_archivist_adopt$ §H解锁建筑:§! £building §Y$building_est_archivist_finish_archive$§!\n§E这是一个生产凝聚力并提高星球科研产出的建筑。§!\n"
+
+################################################################
+# Chivalry
+################################################################
+tradition_est_chivalry:0 "骑士精神"
+tradition_est_chivalry_desc:0 "我们的理想既不会弯曲，也不会破碎。无论发生什么，不动摇，我们必须是高尚的。"
+tr_est_chivalry_adopt:0 "骑士精神传统"
+tr_est_chivalry_adopt_desc:0 "$tradition_est_chivalry_desc$\n\n$tr_est_chivalry_adopt_effect$\n\n$tr_est_chivalry_finish_effect$"
+tr_est_chivalry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n所有领袖获得§Y$leader_trait_admiral_est_chivalry$§!特质，提供小的好处。在一场战斗中获胜的§Y陆军将领§!和§Y舰队司令§!有几率获得§Y$leader_trait_admiral_est_chivalry_hero$§!特质，提供大的好处。（获得特质的几率取决于战场环境）。"
+
+tr_est_chivalry_1:0 "交战规则"
+tr_est_chivalry_1_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+10%§!."
+tr_est_chivalry_1_delayed:0 "舰队参与遵循一套严格的规则作战。打破这种骑士精神的行为，会让所有的舰队司令不屑一顾。"
+
+tr_est_chivalry_2:0 "荣誉"
+tr_est_chivalry_2_desc:0 "§Y信任度增长§!增加§G+30%§!.外星帝国£opinion §Y评价§!增加§G+20§!."
+tr_est_chivalry_2_no_dip_desc:0 "所有£pops §Y人口§! £happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!."
+tr_est_chivalry_2_delayed:0 "一个人应该努力争取荣誉，因为个人的价值和荣誉的程度是一样的。"
+
+tr_est_chivalry_3:0 "职业道德"
+tr_est_chivalry_3_desc:0 "由职位产生的£energy §Y能量币§!, £food §Y食物§!且£minerals §Y矿物§! 产出增加§G+5%§!."
+tr_est_chivalry_3_delayed:0 "无论任务本身是卑贱或是重要，努力地执行任务是一种荣耀。"
+
+tr_est_chivalry_4:0 "战士的勇气"
+tr_est_chivalry_4_desc:0 "§Y陆军士气§!增加§G+25%§!，§Y陆军维护§!，§Y陆军建造花费§!减少§G-15%§!."
+tr_est_chivalry_4_delayed:0 "勇敢战斗是一种美德。正因为如此，我们的公民纷纷从军，给自己一个机会证明自己的价值。"
+
+tr_est_chivalry_5:0 "辉煌战斗"
+tr_est_chivalry_5_desc:0 "摧毁敌方的舰船和空间站提供£unity §Y凝聚力§!。数量随舰船和空间站的规模增加。"
+tr_est_chivalry_5_delayed:0 "战斗提供了更有价值的机会，在战斗的火焰中，个性中最伟大的一面将被锻造。"
+
+tr_est_chivalry_finish:0 "完成骑士精神传统"
+tr_est_chivalry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_chivalry_adopt$ 允许统治者选择一种美德，提供一系列好处。"
+tr_est_chivalry_finish_effect_AI:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_chivalry_adopt$ 使§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!增加 §Y2§!"
+
+### Swap - The Swarm ###
+
+tradition_est_the_swarm:0 "蜂群"
+tradition_est_the_swarm_desc:0 "我们的名字来源自我们的数量。"
+
+tr_est_the_swarm_adopt:0 "蜂群传统"
+tr_est_the_swarm_adopt_desc:0 "$tradition_est_the_swarm_desc$\n\n$tr_est_the_swarm_adopt_effect$\n\n$tr_est_the_swarm_finish_effect$"
+tr_est_the_swarm_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_planet_pops_upkeep_mult$§!减少§G-10%§!."
+
+tr_est_the_swarm_1:0 "成群"
+#tr_est_the_swarm_1_desc:0 "建成一支陆军时，产生一支额外的相同的陆军。 §Y生长速度§!增加§G+5%§!."
+tr_est_the_swarm_1_desc:0 "§Y陆军建造速度§!增加§G+50%§!且§Y生长速度§!增加§G+10%§!."
+tr_est_the_swarm_1_delayed:0 "我们控制下的工蜂的数量远远超过任何凡人帝国的人口量。如此多的数量以至于我们的降落时，整个地面都在颤动。"
+
+tr_est_the_swarm_1_machines:0 "成群"
+tr_est_the_swarm_1_machines_desc:0 "§Y陆军建设速度§!增加§G+50%§!且§Y机器人装配速度§!增加§G+10%§!."
+tr_est_the_swarm_1_machines_delayed:0 "我们控制下的工蜂的数量远远超过任何凡人帝国的人口量。如此多的数量以至于我们的降落时，整个地面都在颤动。"
+
+tr_est_the_swarm_2:0 "压倒性的数量"
+tr_est_the_swarm_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+15%§!且§Y舰队指挥上限§!增加§G+10%§!."
+tr_est_the_swarm_2_delayed:0 "我们主要的海军战术是用优越的数字压倒敌人。我们会一波接一波地派出舰队，直到敌方失去了所有的战斗能力。"
+
+tr_est_the_swarm_3:0 "成群的舰队"
+tr_est_the_swarm_3_desc:0 "§Y护卫舰建造速度§! 增加 §G+50%§! 且 §Y护卫舰建造花费§! 减少 §G-10%§!."
+tr_est_the_swarm_3_delayed:0 "我们的舰队由大量小型船只组成。虽然他们缺乏较大型船只的质量，但如果数量足够多，他们很容易摧毁任何舰队。"
+
+tr_est_the_swarm_4:0 "人口爆炸"
+tr_est_the_swarm_4_desc:0 "新殖民地开始时多额外§Y1§!个£pops 人口。此外，§Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!增加§G+25%§!."
+tr_est_the_swarm_4_delayed:0 "一旦我们在一个星球上定居下来，随着大量工蜂的快速生产，我们的人口数量会爆炸式增长。不久前，一颗行星很快就会充满活力。"
+
+tr_est_the_swarm_5:0 "在星系中传播"
+tr_est_the_swarm_5_desc:0 "每生产一个§Y殖民船§!产生一个额外的§Y殖民船§!。"
+tr_est_the_swarm_5_AI_desc:0 "新殖民地开始时多额外§Y1§!个£pops 人口。此外，§Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!增加§G+25%§!."
+tr_est_the_swarm_5_delayed:0 "我们像瘟疫一样在银河系传播。在我们定居一个行星之后不久，我们会传播到它的邻居那不适合居住的星球会长时间不碰。"
+
+tr_est_the_swarm_finish:0 "完成蜂群传统"
+tr_est_the_swarm_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有的$tr_est_the_swarm_adopt$ 使我们的 $tr_est_the_swarm_adopt$ §Y行政管理能力§! 增加 §G25§!."
+
+################################################################
+# COMMERCE
+################################################################
+tradition_est_commerce:0 "商业"
+tradition_est_commerce_desc:0 "有贸易的地方就有利润。贸易是银河系的命脉，从中我们可以获得巨大的财富。"
+tr_est_commerce_adopt:0 "商业传统"
+tr_est_commerce_adopt_desc:0 "$tradition_est_commerce_desc$\n\n$tr_est_commerce_adopt_effect$\n\n$tr_est_commerce_finish_effect$"
+tr_est_commerce_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n在每个星球上提供§Y3§!额外的 £job_clerk£ §Y$job_clerk$ 职位§!"
+
+tr_est_commerce_1:0 "经济繁荣"
+tr_est_commerce_1_desc:0 "当我们的£energy §Y能量币§!收益为正时，我们的£energy §Y能量币§!产出增加§G+15%§!。"
+tr_est_commerce_1_delayed:0 "由于我们成功的财政政策，我们的经济正在蓬勃发展。我们的公民和企业都增强了购买力，消费力和生产力。这些有利条件将使我们的帝国能够增加对基础设施和军队的支出。"
+
+tr_est_commerce_2:0 "鼓励地方经济"
+tr_est_commerce_2_desc:0 "解锁3个新的星球法令，使我们的£food §Y食物§!， £energy §Y能量币§!或£minerals §Y矿物§!其中一项产出增加§G+20%§!同时另两项减少§R-15%§!."
+tr_est_commerce_2_delayed:0 "我们应该鼓励我们的每一个星球以各自不同的方式发展本地经济。放松某些帝国的规定，我们可以让星球更好地适应当地的条件，从而提高他们的生产力。"
+
+tr_est_commerce_3:0 "金融改革"
+tr_est_commerce_3_desc:0 "£trade_value  §Y贸易价值§! 产出增加 §G+25%§!."
+tr_est_commerce_3_delayed:0 "当我们还固定在自己的恒星系的时候我们的金融系统还是适应的。如今我们是银河系的一部分，有无数种付款方式。因此，我们的旧金融体系将需要改革。"
+
+tr_est_commerce_4:0 "贸易船队"
+tr_est_commerce_4_desc:0 "§Y贸易 $MOD_STARBASE_TRADE_COLLECTION_RANGE_ADD$§! 和 §Y$MOD_STARBASE_TRADE_PROTECTION_RANGE_ADD$§! 增加 §G1§! 且 §YS星际基地§! 提供额外 §G10§! §Y$MOD_STARBASE_TRADE_PROTECTION_ADD$§!."
+tr_est_commerce_4_delayed:0 "我们在整个帝国内建立了一个成体系的贸易船队系统。这使我们整个帝国能有效和安全地运输货物。"
+
+tr_est_commerce_5:0 "巨商"
+tr_est_commerce_5_desc:0 "§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§! 增加 §G+5%§! 且 §Y$MOD_COUNTRY_TRADE_FEE$§! 减少 §G-5%§!."
+tr_est_commerce_5_delayed:0 "如果贸易是艺术，我们就是它的主人。在银河系中没有什么东西是我们没有买过或者卖过的，这里总是有利可图。"
+
+tr_est_commerce_5_no_dip:0 "流体经济"
+tr_est_commerce_5_no_dip_desc:0 "§Y$MOD_COUNTRY_TRADE_FEE$§! 减少 §G-10%§!."
+tr_est_commerce_5_no_dip_delayed:0 "在我们的帝国，商品交换的速度几乎快到无法追踪。"
+
+tr_est_commerce_finish:0 "完成商业传统"
+tr_est_commerce_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_commerce_adopt$ 将使 £job_clerk£ §Y职员§! 产生额外 §G1§!  £energy  §Y能量币§!."
+
+## Swap - Benevolence
+
+tradition_est_benevolence:0 "仁慈"
+tradition_est_benevolence_desc:0 "我们不应该对我们遇到的人造成不合理的伤害。就像我们一样，他们在这个星系中占有一席之地。"
+tr_est_benevolence_adopt:0 "仁慈传统"
+tr_est_benevolence_adopt_desc:0 "$tradition_est_benevolence_desc$\n\n$tr_est_benevolence_adopt_effect$\n\n$tr_est_benevolence_finish_effect$"
+tr_est_benevolence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y外交维护花费§!减少§G-33%§!."
+
+tr_est_benevolence_1:0 "贸易协定"
+tr_est_benevolence_1_desc:0 "§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!增加§G+10%§!且£energy §Y能量币§!产出增加§G+5%§!."
+tr_est_benevolence_1_delayed:0 "虽然我们没有占有的概念，但它对于银河系中的其他众生至关重要。通过与其他文明的贸易交易，我们可以获得在我们自己的星球上很难找到的商品。"
+
+tr_est_benevolence_2:0 "和平交往"
+tr_est_benevolence_2_desc:0 "减少§Y边境摩擦§!§G-50%§!且增加§Y信任度成长§!§G+20%§!."
+tr_est_benevolence_2_delayed:0 "我们和其他文明接洽不需要咄咄逼人。相反，让所有人知道我们的舰船不会攻击那些没有伤害的船只。"
+
+tr_est_benevolence_3:0 "外国大使馆"
+tr_est_benevolence_3_desc:0 "外星帝国£opinion §Y评价§!增加§G+30§!."
+tr_est_benevolence_3_delayed:0 "我们会派代表工蜂到其他帝国，通过它我们将能够直接与他们的统治者联系。 这样我们可以增进与银河系其他居民的良好关系，并防止误解。"
+
+tr_est_benevolence_4:0 "温和方式"
+tr_est_benevolence_4_desc:0 "我们所有星球上的£stability  §Y$MOD_PLANET_STABILITY_ADD$§! 增加 §G5%§! "
+tr_est_benevolence_4_delayed:0 "我们的思想，从不受到脾气或冲动的影响，总是像微风一样保持冷静。"
+
+tr_est_benevolence_5:0 "思想共享"
+tr_est_benevolence_5_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G+5%§!."
+tr_est_benevolence_5_delayed:0 "虽然银河系的凡人携带着低劣的思想，但他们可能会提出一些有趣的想法。通过研究他们的技术和文化，我们可能会发现一些可能对我们自己的研究项目有用的东西。"
+
+tr_est_benevolence_finish:0 "完成仁慈传统"
+tr_est_benevolence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_benevolence_adopt$ 使我们对 §Y堕落帝国§! ，§Y觉醒帝国§!和§Y末世危机§! 的§Y武器伤害§!增加§G+20%§!."
+
+################################################################
+# CYBERNETICS
+################################################################
+tradition_est_cybernetics:0 "控制论"
+tradition_est_cybernetics_desc:0 "当机器能为我们做的时候，为什么要我们自己做？"
+tr_est_cybernetics_adopt:0 "控制论传统"
+tr_est_cybernetics_adopt_desc:0 "$tradition_est_cybernetics_desc$\n\n$tr_est_cybernetics_adopt_effect$\n\n$tr_est_cybernetics_finish_effect$"
+tr_est_cybernetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y研究速度(计算机学)§!增加§G+25%§!."
+
+tr_est_cybernetics_1:0 "深度神经网络"
+tr_est_cybernetics_1_desc:0 "来自§Y职位§!的£energy §Y能量币§!产出增加§G+10%§!."
+tr_est_cybernetics_1_robots_desc:0 "来自§Y机器人§!的£energy §Y能量币§!产出增加§G+10%§!."
+tr_est_cybernetics_1_delayed:0 "先进的神经网络技术允许机器执行以前只有有感知能力的生物才能管理的任务。"
+
+tr_est_cybernetics_2:0 "无人管理人工智能科研人员"
+tr_est_cybernetics_2_desc:0 "来自§Y职位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!."
+tr_est_cybernetics_2_desc:0 "来自§Y职位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!."
+tr_est_cybernetics_2_delayed:0 "AI技术的进步允许AI们更能接触到最高级的任务。一些研究课题显示特别适合AI研究人员。凭借非正统的思维和强大的处理能力，他们着手了具体的问题。研究人员会偶尔检查他们的进展情况，并找出如何将其纳入我们当前的科学理论。"
+
+tr_est_cybernetics_3:0 "作战模拟"
+tr_est_cybernetics_3_desc:0 "§Y舰船准确性§!增加§G+10%§!."
+tr_est_cybernetics_3_delayed:0 "随着计算能力的提高，我们可以进行越来越精确的模拟。我们的战舰可以利用这些技能不断模拟战斗中的可能发展。这些数据然后可以提供给舰船指挥官在决策过程中使用。"
+
+tr_est_cybernetics_4:0 "AI控制舰船"
+tr_est_cybernetics_4_desc:0 "所有没有 §Y舰队司令§!管理的舰队§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+20%§!且§Y回避§!增加§G+20%§!。"
+tr_est_cybernetics_4_AI_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§!增加§Y1§!且§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+5%§!."
+tr_est_cybernetics_4_delayed:0 "让有有限的感官输入和处理能力的生物体受我们舰队指挥只会是愚蠢的。我们应该启用AI指挥官，它可以同时控制船队中的所有船只。他们可以在任何时候对战斗有完整的感知，并确保所有船只步调一致。"
+
+tr_est_cybernetics_5:0 "模拟现实"
+tr_est_cybernetics_5_desc:0 "所有£pops §Y人口§!的 £happiness  §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!."
+tr_est_cybernetics_5_slaves_desc:0 "所有£pops §Y人口§! £happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!, 所有§Y奴隶§!£happiness §Y$MOD_POP_HAPPINESS$§! 增加额外§G+5%§!."
+tr_est_cybernetics_5_delayed:0 "当我们可以创造一个我们喜欢的世界时，为什么要在这个世界上度过我们的一生呢？我们的公民越来越多地开始花时间去选择他们可以按照自己的意愿塑造的另类现实。"
+
+tr_est_cybernetics_finish:0 "完成控制论传统"
+tr_est_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_cybernetics_adopt$ §H解锁建筑:§! £building  $building_est_cybernetics_finish_automated_farm$, $building_est_cybernetics_finish_automated_power_plant$ 和 $building_est_cybernetics_finish_automated_mine$\n§E他们分别产出 §G6§! £menergy  §Y能量币§!/§G10§! £food  §Y食物§!/§G6§! £minerals  §Y矿物§!，同时使星球上的 §Y$mod_district_generator_max$§!/§Y$mod_district_farming_max$§!/§Y$mod_district_mining_max$§! 减少 §Y1§!。每个星球最多可以容纳三个这样的建筑§!"
+tr_est_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_cybernetics_adopt$ §H解锁建筑:§! £building  $building_est_cybernetics_finish_automated_farm$, $building_est_cybernetics_finish_automated_power_plant$ 和 $building_est_cybernetics_finish_automated_mine$\n§E他们分别产出 §G6§! £menergy  §Y能量币§!/§G10§! £food  §Y食物§!/§G6§! £minerals  §Y矿物§!，同时使星球上的 §Y$mod_district_generator_max$§!/§Y$mod_district_farming_max$§!/§Y$mod_district_mining_max$§! 减少 §Y1§!。每个星球最多可以容纳三个这样的建筑§!"
+  
+### Swap - Biogenesis ###
+ 
+tradition_est_biogenesis:0 "生物合成"
+tradition_est_biogenesis_desc:0 "我们的文明不是建起来的，而是长出来的。我们是一个巨大有机体，散布在整个银河。"
+tr_est_biogenesis_adopt:0 "生物合成传统"
+tr_est_biogenesis_adopt_desc:0 "$tradition_est_biogenesis_desc$\n\n$tr_est_biogenesis_adopt_effect$\n\n$tr_est_biogenesis_finish_effect$"
+tr_est_biogenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+10%§!且§Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!增加§G+25%§!."
+
+tradition_est_biogenesis_ap:0 "生物合成"
+tradition_est_biogenesis_ap_desc:0 "我们的文明不是建起来的，而是长出来的。"
+tr_est_biogenesis_adopt_ap:0 "生物合成传统"
+tr_est_biogenesis_adopt_ap_desc:0 "$tradition_est_biogenesis_ap_desc$\n\n$tr_est_biogenesis_adopt_effect$\n\n$tr_est_biogenesis_finish_effect$"
+
+tr_est_biogenesis_1:0 "生物工程"
+tr_est_biogenesis_1_desc:0 "§Y$mod_planet_buildings_upkeep_mult$§!和§Y建筑花费§!减少§G-10%§!."
+tr_est_biogenesis_1_delayed:0 "我们的建筑不是用石头和混凝土建造的，相反，我们从有机组织中培养它们，蓝图并不存在于纸张上或计算机中，而是被编码为结构本身的DNA。"
+
+tr_est_biogenesis_2:0 "生化飞船"
+tr_est_biogenesis_2_desc:0 "§Y月舰体再生§!增加§G+1%§!."
+tr_est_biogenesis_2_delayed:0 "我们的舰船是有生命的，从我们的设计出来的有机组织制作生长而成。"
+
+tr_est_biogenesis_3:0 "杂食动物"
+tr_est_biogenesis_3_desc:0 "我们的£food §Y食物§!产出增加§G+20%§!."
+tr_est_biogenesis_3_delayed:0 "所有类型的有机物质都可以消耗并转化为能量或用于生长新的组织。"
+
+tr_est_biogenesis_4:0 "产卵池"
+tr_est_biogenesis_4_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!增加§G+20%§!."
+tr_est_biogenesis_4_delayed:0 "工蜂从指定的产卵池中以连续的速度产卵。每个产卵池产生一个指定类型的工蜂。这将使我们能够以比以前更高的速度生产工蜂。"
+
+tr_est_biogenesis_4_ap:0 "产卵池"
+tr_est_biogenesis_4_ap_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!增加§G+20%§!"
+tr_est_biogenesis_4_ap_delayed:0 "不再使用传统的繁殖手段，我们可以使用产卵池以前所未有的速度创造新的个体。"
+
+tr_est_biogenesis_5:0 "不断进化"
+tr_est_biogenesis_5_desc:0 "§Y$species_trait_points_add$§!增加§Y1§!且修饰物种时间减少§G-5%§!."
+tr_est_biogenesis_5_delayed:0 "进化是一个没有目标的过程。尽管思想是恒定，我们的形体总是随着我们在整个银河系中扩展而不断变化。"
+
+tr_est_biogenesis_5_pre_gene_mod:0 "不断进化"
+tr_est_biogenesis_5_pre_gene_mod_desc:0 "§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!增加§G+10%§!且§Y研究速度（生物学）§!增加§G+10%§!."
+tr_est_biogenesis_5_pre_gene_mod_delayed:0 "进化是一个没有目标的过程。尽管思想是恒定，我们的形体总是随着我们在整个银河系中扩展而不断变化。"
+
+tr_est_biogenesis_5_ap:0 "不断进化"
+tr_est_biogenesis_5_ap_desc:0 "§Y$species_trait_points_add$§!增加§Y1§!且修饰物种时间减少§G-5%§!."
+tr_est_biogenesis_5_ap_delayed:0 "进化是一个没有目标的过程。我们的形体随着我们在银河中的扩展不断变化。"
+
+tr_est_biogenesis_finish:0 "完成生物合成传统"
+tr_est_biogenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_biogenesis_adopt$ 解锁一个可以使£food §Y食物§! 转化为 £minerals §Y矿物§!的政策."
+tr_est_biogenesis_AI_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_biogenesis_adopt$使 £food §Y食物§!和£minerals §Y矿物§!产出增加§G+10%§!."
+ 
+### Swap - Serverbound ###
+ 
+tradition_est_processing:0 "主机服务"
+tradition_est_processing_desc:0 "埋在我们星球表面的下方的巨大的服务器大厅，提供了大量的处理能力，从而扩展了我们的头脑的能力。"
+tr_est_processing_adopt:0 "主机服务传统"
+tr_est_processing_adopt_desc:0 "$tradition_est_processing_desc$\n\n$tr_est_processing_adopt_effect$\n\n$tr_est_processing_finish_effect$"
+tr_est_processing_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y行政管理上限§! 增加 §G20§!."
+
+tr_est_processing_1:0 "记忆库"
+tr_est_processing_1_desc:0 "£engineering §Y工程学§!,£physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!."
+tr_est_processing_1_delayed:0 "我们将保持巨大的记忆库，在里面收集着从觉醒以来我们收集到的各种信息。我们无法知道哪一部分信息会有用，但有些信息肯定会有用。"
+
+tr_est_processing_2:0 "培训数据库"
+tr_est_processing_2_desc:0 "你的领导者被动以缓慢的速度获得经验。"
+tr_est_processing_2_delayed:0 "我们的工蜂从我们所经历的各种场景收集大量数据。通过将这些数据保存在数据库中，我们可以运行模拟和评估来训练我们当前的工蜂程序。"
+
+tr_est_processing_3:0 "数据核心"
+tr_est_processing_3_desc:0 "£energy §Y能量币§!产出增加§G+15%§!."
+tr_est_processing_3_delayed:0 "在我们的行星表面下，我们将建立大型服务器大厅，为我们在帝国运行的各种系统提供处理能力。"
+
+tr_est_processing_4:0 "协调终端"
+tr_est_processing_4_desc:0 "§Y领袖维护费§!减少§Y-20%§!."
+tr_est_processing_4_delayed:0 "我们控制着大量的工蜂，它们都拥有不同程度的自主权。为了支持这个网络，我们将建设专门的协调终端。其中的每一个终端都将能够接收大量工蜂的输入，并协助他们对当前情况的响应。"
+
+tr_est_processing_5:0 "信令网络"
+tr_est_processing_5_desc:0 "超出行政管理上限的惩罚减少 §G-10%§!."
+tr_est_processing_5_delayed:0 "当我们在整个星系蔓延时，我们之前的信号系统开始变得过时。我们将在我们的星球上建立新的专用信号站。利用它们的巨大容量，这些设备将能够在整个我们的领域有效地传输信号，同时还可以在中断方面提供额外的稳健性。这些将创建一个高容量的网络，每个信号都通过多条路径传输，以确保高质量的传输。"
+
+tr_est_processing_finish:0 "完成主机服务传统"
+tr_est_processing_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_processing_adopt$ 使§Y能量存储上限§! 增加 §G100000%§!."
+ 
+### Swap - Shroudborn (psi) ###
+ 
+tradition_est_shroudborn_ap:0 "虚境出生"
+tradition_est_shroudborn_ap_desc:0 "我们一直认为我们的起源在于凡人的世界。但是，自觉醒后，我们开始意识到，也许我们实际上是在虚境中诞生的生物。"
+tr_est_shroudborn_ap_adopt:0 "虚境出生传统"
+tr_est_shroudborn_ap_adopt_desc:0 "$tradition_est_shroudborn_ap_desc$\n\n$tr_est_shroudborn_ap_adopt_effect$\n\n$tr_est_shroudborn_ap_finish_effect$"
+tr_est_shroudborn_ap_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity §Y凝聚力§!产出增加§G+10%§!."
+
+tr_est_shroudborn_ap_1:0 "心灵入侵"
+tr_est_shroudborn_ap_1_desc:0 "$tr_est_shroudborn_1_desc$"
+tr_est_shroudborn_ap_1_delayed:0 "我们能够侵入他人的思想，阅读他们的思想，预测他们的行为。"
+
+tr_est_shroudborn_ap_2:0 "思维抑制"
+tr_est_shroudborn_ap_2_desc:0 "$tr_est_shroudborn_2_desc$"
+tr_est_shroudborn_ap_2_delayed:0 "当我们进入他人的思想时，我们能够沉闷他们的思想，压制他们的感情，减少他们的野心或战斗的意志。"
+
+tr_est_shroudborn_ap_2_passive_AI:0 "思维抑制"
+tr_est_shroudborn_ap_2_passive_AI_desc:0 "$tr_est_shroudborn_2_passive_AI_desc$"
+tr_est_shroudborn_ap_2_passive_AI_delayed:0 "当我们进入他人的思想时，我们能够沉闷他们的思想，压制他们的感情，减少他们的野心或战斗的意志。"
+
+tr_est_shroudborn_ap_3:0 "观察者"
+tr_est_shroudborn_ap_3_desc:0 "$tr_est_shroudborn_3_desc$"
+tr_est_shroudborn_ap_3_delayed:0 "观察者是一组特殊的灵媒。在深沉的冥想状态中，他们的头脑可以穿过护罩，并从深处看到真实的世界。他们为我们提供了关于整个银河发生的所有事情的宝贵信息。"
+
+tr_est_shroudborn_ap_4:0 "第七感"
+tr_est_shroudborn_ap_4_desc:0 "$tr_est_shroudborn_4_desc$"
+tr_est_shroudborn_ap_4_delayed:0 "通过我们与虚境的联系，我们已经对银河形成了第七感，感知我们通常不会感觉到的事情。"
+
+tr_est_shroudborn_ap_5:0 "能量具现"
+tr_est_shroudborn_ap_5_desc:0 "$tr_est_shroudborn_5_desc$"
+tr_est_shroudborn_ap_5_delayed:0 "我们的精神力量是如此的强大，以至于我们能够在物质世界中体现它，增加我们的舰船武器和防御力量。"
+
+tr_est_shroudborn_ap_finish:0 "完成虚境出生传统"
+tr_est_shroudborn_ap_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_shroudborn_ap_adopt$ 使§Y领袖经验收益§!增加§G+25%§!."
+
+################################################################
+# FAITH
+################################################################
+tradition_est_faith:0 "信仰"
+tradition_est_faith_desc:0 "这个星系浩瀚而充满奇迹，但我们绝不能让它带我们误入歧途。"
+
+tr_est_faith_adopt:0 "信仰传统"
+tr_est_faith_adopt_not_spiritualist:0 "$tr_est_faith_adopt$"
+tr_est_faith_adopt_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_effect$"
+tr_est_faith_adopt_authoritarian_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_authoritarian_effect$"
+tr_est_faith_adopt_egalitarian_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_egalitarian_effect$"
+tr_est_faith_adopt_materialist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_materialist_effect$"
+tr_est_faith_adopt_spiritualist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_spiritualist_effect$"
+tr_est_faith_adopt_militarist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_militarist_effect$"
+tr_est_faith_adopt_pacifist_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_pacifist_effect$"
+tr_est_faith_adopt_xenophile_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_xenophile_effect$"
+tr_est_faith_adopt_xenophobe_desc:0 "$tradition_est_faith_desc$\n\n$tr_est_faith_adopt_effect$\n\n$tr_est_faith_finish_xenophobe_effect$"
+tr_est_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n所有£pops §Y入口§!£happiness §Y$MOD_POP_HAPPINESS$§!§增加§G+5%§!"
+
+tr_est_faith_1:0 "一个信仰"
+tr_est_faith_1_desc:0 "我们的£unity §Y凝聚力§!产出增加§G+10%§!."
+tr_est_faith_1_delayed:0 "之前我们的信仰曾破裂过。 现在，当我们接触到了星空，我们团结在一个统一形式的信仰下。"
+
+tr_est_faith_2:0 "圣书"
+tr_est_faith_2_desc:0 "使我们所有星球上的§Y$MOD_PLANET_STABILITY_ADD$§!增加§G5§!。"
+tr_est_faith_2_delayed:0 "包含我们信仰核心的圣书应被写出并分发给我们所有的公民。"
+
+#tr_est_faith_3:0 "礼拜场所"
+#tr_est_faith_3_delayed:0 "我们的公民定期访问各个礼拜场所。在那里，他们可以在他们的信仰中找到内心的平静、希望或指引。"
+tr_est_faith_3:0 "神职人员"
+tr_est_faith_3_desc:0 "星球上每§Y25§! £pop 人口提供§Y1§! £job_priest£ §Y$job_priest$ 职位§!"
+tr_est_faith_3_spiritualist_desc:0 "§Y$job_priest$§! 产出 §Y1§! 额外的 £unity §Y凝聚力§! 且少消耗 §Y1§!  £consumer_goods §Y消费品§!."
+tr_est_faith_3_delayed:0 "信仰最杰出的仆人，神职人员们，向我们的公民的信仰提供了内心的平静、希望和指引。"
+
+tr_est_faith_4:0 "传道士"
+tr_est_faith_4_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+25%§!."
+tr_est_faith_4_delayed:0 "传道士在我们的帝国中旅行，宣讲我们最高祭司和先知所宣讲的神圣信息。这确保了他们的话语能够能传达给大众。"
+
+tr_est_faith_5:0 "圣教军"
+tr_est_faith_5_desc:0 "§Y$MOD_ARMY_MORALE$§!增加§G+25%§!且§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+tr_est_faith_5_delayed:0 "在战争中我们的动机是由神指示的。我们的勇士准备为他们的信仰而死去。"
+
+tr_est_faith_finish:0 "完成信仰传统"
+tr_est_faith_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 我们可以选择一项 §Y思潮§! 使该 §Y思潮吸引力§! 增加 §G+50%§!."
+tr_est_faith_finish_authoritarian_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_authoritarian_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_egalitarian_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_egalitarian_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_materialist_effect:0 "§E$TRADITIONS_FINISH$:§!\采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_materialist_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_spiritualist_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_spiritualist_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_militarist_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_militarist_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_pacifist_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_pacifist_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_xenophile_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_xenophile_attraction_mult$§! 增加 §G+50%§!."
+tr_est_faith_finish_xenophobe_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_faith_adopt$ 使 §Y$mod_pop_ethic_xenophobe_attraction_mult$§! 增加 §G+50%§!."
+
+### Swap - Purposefulness ###
+tradition_est_purposefullness:0 "目的性"
+tradition_est_purposefullness_desc:0 "我们不可能是凭空出现在银河中的。我们在这里是有原因的，是为了实现我们的目的。"
+
+tr_est_purposefullness_adopt:0 "目的性传统"
+tr_est_purposefullness_adopt_desc:0 "$tradition_est_purposefullness_desc$\n\n$tr_est_purposefullness_adopt_effect$\n\n$tr_est_purposefullness_finish_effect$"
+tr_est_purposefullness_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n从§Y宿敌§!获得的§Y影响力收入§!增加§G+25%§!."
+tr_est_purposefullness_adopt_no_rivals_desc:0 "$tradition_est_purposefullness_desc$\n\n$tr_est_purposefullness_adopt_no_rivals_effect$\n\n$tr_est_purposefullness_finish_effect$"
+tr_est_purposefullness_adopt_no_rivals_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_WEAPON_DAMAGE$§! 增加§G+5%§!."
+
+tr_est_purposefullness_1:0 "一个目的"
+tr_est_purposefullness_1_delayed:0 "虽然任务艰巨，但我们将毫不犹豫地完成任务。"
+
+tr_est_purposefullness_2:0 "成功的手段"
+tr_est_purposefullness_2_desc:0 "$tr_est_faith_3_desc$"
+tr_est_purposefullness_2_delayed:0 "当我们在这个星系醒来时，我们不仅被赋予了一个目标，而且还有实现它的手段。"
+
+tr_est_purposefullness_3:0 "暴力的选择"
+tr_est_purposefullness_3_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+20%§!且§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+tr_est_purposefullness_3_delayed:0 "任务的完成是至关重要的，对银河中的其他人的损害可能是不幸的，但无关紧要。"
+
+tr_est_purposefullness_4:0 "决心"
+tr_est_purposefullness_4_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!增加§G+15%§!且§Y$MOD_SHIP_SPEED_MULT$§!增加§G+10%§!."
+tr_est_purposefullness_4_delayed:0 "我们不会犹豫，也不会失败。我们必将成功。"
+tr_est_purposefullness_4_machines:0 "$tr_est_purposefullness_4$"
+tr_est_purposefullness_4_machines_desc:0 "§Y机器人装配速度§! 增加 §G+15%§! 且§Y$MOD_SHIP_SPEED_MULT$§! 增加 §G+10%§!."
+tr_est_purposefullness_4_machines_delayed:0 "$tr_est_purposefullness_4_delayed$"
+
+tr_est_purposefullness_5:0 "根深蒂固的工蜂反射"
+tr_est_purposefullness_5_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+25%§!."
+tr_est_purposefullness_5_delayed:0 "即使是最无关紧要的工蜂也有一个基本的目的意识，它可以指导他们更好地完成他们平凡的任务。"
+
+tr_est_purposefullness_finish:0 "完成目的性传统"
+tr_est_purposefullness_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_purposefullness_adopt$ 使§Y$country_resource_influence_add$§!增加§Y1§!."
+
+################################################################
+# FOUNDATION
+################################################################
+tradition_est_foundation:0 "基础"
+tradition_est_foundation_desc:0 "其他人则试图将他们的帝国扩展到很宽。 我们致力于实现更深入，更根本的目标。"
+tr_est_foundation_adopt:0 "基础传统"
+tr_est_foundation_adopt_desc:0 "$tradition_est_foundation_desc$\n\n$tr_est_foundation_adopt_effect$\n\n$tr_est_foundation_finish_effect$"
+tr_est_foundation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使£engineering  §Y工程学§!, £physics  §Y物理学§! 和 £society  §Y社会学§! 产出增加 §G+10%§!.\n\n (如果达到了150以上行政管理能力则替换为联邦传统). "
+
+tr_est_foundation_1:0 "共同事业"
+tr_est_foundation_1_desc:0 "£unity §Y凝聚力§!产出增加§G+10%§!."
+tr_est_foundation_1_delayed:0 "我们都为了共同的目标而团结一致。我们每个人都知道我们每个人都是实现我们目标的机器中的一个重要齿轮。"
+
+tr_est_foundation_2:0 "中央政府"
+tr_est_foundation_2_desc:0 "£energy §Y能量币§!,£engineering §Y工程学§!,£physics §Y物理学§!和£society §Y社会学§!产出增加§G+25%§!在我们的 §G首都世界§!。如果我们研究了§Y$tech_colonial_centralization$§!/§Y$tech_galactic_administration$§!科技将提高到 §G+50%§!/ §G+75%§!。"
+tr_est_foundation_2_delayed:0 "我们的政府集中于可以管理我们控制的相对较少的世界的资本。"
+
+tr_est_foundation_3:0 "宏大设计"
+tr_est_foundation_3_desc:0 "§Y$mod_country_base_influence_produces_add$§!增加§Y1§!."
+tr_est_foundation_3_delayed:0 "一切的中心是宏伟的设计。这是我们所遵循的，只有少数人知道它到最小的细节。"
+
+tr_est_foundation_4:0 "情报搜集部队"
+tr_est_foundation_4_desc:0 "§Y舰船传感器范围§!增加§G+1§!且§Y调查速度§!增加§G+10%§!."
+tr_est_foundation_4_delayed:0 "我们的情报搜集部队在银河系旅行，并不断发回关于银河状态的信息。这些信息对我们的事业至关重要，或者至少尽量减少了外界的干扰。"
+
+tr_est_foundation_5:0 "扩大海军"
+tr_est_foundation_5_desc:0 "每一个控制中的核心世界增加我们的§Y舰队容量§!§Y1§!。每研究一个舰队学说增加额外§Y1§!。"
+tr_est_foundation_5_AI_desc:0 "每研究一个§Y舰队学说§!增加§Y舰队容量§! §G20§!。 此外，§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§! 增加§Y1§!."
+tr_est_foundation_5_delayed:0 "银河里有一些阻碍我们执行任务的东西。我们必须确保有一支强大的舰队来保卫我们的事业。"
+
+tr_est_foundation_finish:0 "完成基础传统"
+tr_est_foundation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有的 $tr_est_foundation_adopt$ 使£happiness §Y幸福度§!增加§G+5%§!."
+
+### Swap - Confederacy ###
+
+tradition_est_confederacy:0 "联邦"
+tradition_est_confederacy_desc:0 "我们帝国的每一部分都拥有极大的自治权。但对银河来说，我们是一个统一战线。"
+tr_est_confederacy_adopt:0 "联邦传统"
+tr_est_confederacy_adopt_desc:0 "$tradition_est_confederacy_desc$\n\n$tr_est_confederacy_adopt_effect$\n\n$tr_est_confederacy_finish_effect$"
+tr_est_confederacy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n增加£minerals §Y矿物§!产出§G+10%§!."
+
+tr_est_confederacy_1:0 "当地指挥结构"
+tr_est_confederacy_1_desc:0 "§Y总督招募花费§!减少§G-50%§!."
+tr_est_confederacy_1_delayed:0 "我们不是把重要职位的任务集中到一起，而是让每个地方政府使用他们自己的指挥结构。"
+
+tr_est_confederacy_2:0 "限制联邦政府权力"
+tr_est_confederacy_2_desc:0 "§Y$MOD_PLANET_CRIME_ADD$§! 减少 §G-20§!."
+tr_est_confederacy_2_delayed:0 "集中权力就是从它所属的地方偷窃它。为了保证我们众多国家的主权，我们将对联邦政府可能采用的权力施加严格的限制。"
+
+tr_est_confederacy_3:0 "国民大会"
+tr_est_confederacy_3_desc:0 "§Y派系影响力收入§!增加§G+50%§!."
+tr_est_confederacy_3_delayed:0 "国民议会是我国政府的重要组成部分。这里来自全国各地的地方代表会面讨论并就重要的国家事务进行投票。"
+
+tr_est_confederacy_4:0 "自治州"
+tr_est_confederacy_4_desc:0 "我们的§Y附庸国§! 得到§G+10%§! £happiness §Y$MOD_POP_HAPPINESS$§!和§G+20%§! §Y$MOD_NAVY_SIZE_MULT$§!,此外他们对我们的£opinion §Y评价§!增加§G+50§!."
+tr_est_confederacy_4_delayed:0 "我们的帝国由国家，地方政府，独立星球，联邦空间和其他教派的复杂结构组成，每个国家都有不同程度的自治。许多这些都被允许在很大程度上管理自己。"
+
+tr_est_confederacy_4_no_subj:0 "忠诚"
+tr_est_confederacy_4_no_subj_desc:0 "由首都距离造成的§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!负面影响减少§G-33%§!."
+tr_est_confederacy_4_no_subj_delayed:0 "我们的帝国包含许多派系，大部分行星和部门都拥有不寻常的自治权。虽然我们可能会在很多议题上意见不一致，但我们都忠于我们的统一帝国和共同事业。"
+
+tr_est_confederacy_5:0 "分散的军事力量"
+tr_est_confederacy_5_desc:0 "§Y边境哨站维护花费§!减少§G-33%§!."
+tr_est_confederacy_5_delayed:0 "我们的边境如此之大以至于一个人需要花费一生去旅行却也只看到一小部分。"
+
+tr_est_confederacy_finish:0 "完成联邦传统"
+tr_est_confederacy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_confederacy_adopt$使帝国规模照成的惩罚减少§G-5%§!."
+ 
+### Swap - Subminds ###
+
+tradition_est_subminds:0 "次级意识"
+tradition_est_subminds_desc:0 "通过将我们的思想分成几个部分，我们可以毫不费力地控制一个大帝国。通过频繁合并和分割各种次级意识，我们确保我们的整个领域得到连贯一致的管理。"
+tr_est_subminds_adopt:0 "次级意识传统"
+tr_est_subminds_adopt_desc:0 "$tradition_est_subminds_desc$\n\n$tr_est_subminds_adopt_effect$\n\n$tr_est_subminds_finish_effect$"
+tr_est_subminds_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n增加£minerals §Y矿物§!!产出§G+10%§!."
+
+tr_est_subminds_1:0 "动态思维"
+tr_est_subminds_1_desc:0 "§Y$MOD_LEADER_COST$§! 减少 §G-20%§! 且 §Y总督招募花费§! 减少 §G-30%§!."
+tr_est_subminds_1_delayed:0 "我们的思维是动态的，很适合把自己的小块分开。这大大提高了我们创建自主工蜂的能力。"
+
+tr_est_subminds_2:0 "微融合"
+tr_est_subminds_2_desc:0 "£unity §Y凝聚力§!增加§G15%§!且§Y消费品花费§!减少§G-15%§!在所有有§Y总督§!管理的§Y星区§!。"
+tr_est_subminds_2_delayed:0 "通过不断地在头脑和我们创造的各种潜意识之间进行微观融合，我们可以确保我们思想的各个组成部分总是一致行动。"
+
+tr_est_subminds_3:0 "控制次级意识参数"
+tr_est_subminds_3_desc:0 "解锁一项政策，该政策允许你星区中的任一 £minerals  /£energy  /£food /£engineering £physics £society /£unity 的产出增加§G+15%§!/§G+15%§!/§G+20%§!/§G+10%§!/§G+20%§!。"
+tr_est_subminds_3_delayed:0 "通过仔细制作我们创建的次级意识，我们可以更好地调整它们以适应我们打算做的特定任务。"
+
+tr_est_subminds_3_machines:0 "$tr_est_subminds_3$"
+tr_est_subminds_3_machines_desc:0 "解锁一项政策，该政策允许你星区中的任一 £minerals  §Y矿物§!/£energy  §Y能量币§!/£engineering  §Y工程研究§! £physics  §Y物理研究§! £society  §Y社会研究§!/£unity  §Y凝聚力§! 的产出增加 §G+15%§!/§G+15%§!/§G+10%§!/§G+20%§!。一次只能激活一个。"
+tr_est_subminds_3_machines_delayed:0 "$tr_est_subminds_3_delayed$"
+
+tr_est_subminds_3_AI:0 "$tr_est_subminds_3$"
+tr_est_subminds_3_AI_desc:0 "使 £minerals  §Y矿物§! 和 £energy  §Y能量币§! 产出增加 §G+5%§!."
+tr_est_subminds_3_AI_delayed:0 "$tr_est_subminds_3_delayed$"
+
+tr_est_subminds_4:0 "工蜂独立性"
+tr_est_subminds_4_desc:0 "我们的£minerals §Y矿物§!产出增加§G+5%§!,此外§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+10%§!且§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!增加§G+15%§!."
+tr_est_subminds_4_delayed:0 "我们帝国的每一个工蜂都装载有一个我们意志的小而独立的碎片。通过这粒独立性，他们可以改善许多琐碎任务的决策过程。"
+tr_est_subminds_4_machines:0 "$tr_est_subminds_4$"
+tr_est_subminds_4_machines_desc:0 "$tr_est_subminds_4_desc$""
+tr_est_subminds_4_machines_delayed:0 "$tr_est_subminds_4_delayed$"
+
+tr_est_subminds_5:0 "指定系统思想"
+tr_est_subminds_5_desc:0 "$tr_est_confederacy_5_desc$"
+tr_est_subminds_5_delayed:0 "每个系统都将被指定到自己负责运行该系统所需的简单任务的次级意识。 这样，更高级的意识可以集中在更大的图景上。"
+
+tr_est_subminds_finish:0 "完成次级意识传统"
+tr_est_subminds_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_subminds_adopt$ 使 §Y领袖维护费§! 减少 §G-15%§! 且 §Y帝国领袖池容量§! 增加 §Y2§!."
+
+################################################################
+# FRIENDSHIP
+################################################################
+tradition_est_friendship:0 "友谊"
+tradition_est_friendship_desc:0 "每个人都应该被视为朋友，直到他们显出异象。银河系中的所有人都是不同的，但在这种多样性中我们可以找到力量。"
+tr_est_friendship_adopt:0 "友谊传统"
+tr_est_friendship_adopt_desc:0 "$tradition_est_friendship_desc$\n\n$tr_est_friendship_adopt_effect$\n\n$tr_est_friendship_finish_effect$"
+tr_est_friendship_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n不受初次接触 £opinion  §Y评价§! 惩罚。当我们和其他帝国接触时获得£unity  §Y凝聚力§! 。此外，§Y信任度增长§! 增加 §G+20%§!."
+
+tr_est_friendship_1:0 "外国大使馆"
+tr_est_friendship_1_desc:0 "外星帝国 £opinion §Y评价§!增加§G+30§!."
+tr_est_friendship_1_delayed:0 "在他们向我们显出异样之前，我们会将那些生活在我们国境之外的人视为我们的朋友。我们会派大使馆到他们的世界去学习他们的方式，并且传授他们关于我们的方式。"
+
+tr_est_friendship_2:0 "和平之道"
+tr_est_friendship_2_desc:0 "§Y边境摩擦§!减少§G-50%§!且§Y附加伤害§!减少§G-50%§!."
+tr_est_friendship_2_delayed:0 "武力解决武力，战争滋生战争，死亡只会带来死亡。要打破这个恶性循环，我们必须先张开双手，向银河系展示我们的善意。"
+
+tr_est_friendship_2_militarist:0 "战友"
+tr_est_friendship_2_militarist_desc:0 "使§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+10%§!且在战争中至少有一个盟友时§Y舰船建造速度§!增加§G+25%§!。"
+tr_est_friendship_2_militarist_delayed:0 "所有的事情都是大家一起做才更好，尤其是战争。我们一起庆祝胜利并哀悼我们的失败。我们会一起击败敌人，或者站在盟友的一边灭亡。"
+
+tr_est_friendship_3:0 "开放社会"
+tr_est_friendship_3_desc:0 "§Y$MOD_PLANET_IMMIGRATION_PULL_MULT$§!增加§G+30%§!且§Y$mod_pop_ethic_xenophile_attraction_mult$§!增加§G+15%§!."
+tr_est_friendship_3_not_xenophile_desc:0 "§Y$MOD_PLANET_MIGRATION_ALL_PULL$§!增加§G+40%§!."
+tr_est_friendship_3_delayed:0 "我们的社会对其他人开放。在这里，众生可以聚集在一起并组成一个大家庭。"
+
+tr_est_friendship_4:0 "文化熔炉"
+tr_est_friendship_4_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G+5%§!."
+tr_est_friendship_4_delayed:0 "各种各样的生物聚集在我们的世界，不同文化观念融合在了一起。这种文化融合是新技术进步的主要基础。"
+
+tr_est_friendship_5:0 "兄弟会"
+tr_est_friendship_5_desc:0 "使所有至少有§Y3§!种物种的星球£energy §Y能量币§!和£unity §Y凝聚力§!产出增加§G+10%§!。"
+tr_est_friendship_5_delayed:0 "我们拒绝接受银河系是仇恨和战争的无光之夜，和平和博爱的黎明永远不会成为现实。我们相信无条件的友谊会有最后的结果。"
+
+tr_est_friendship_finish:0 "完成友谊传统"
+tr_est_friendship_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_friendship_adopt$ 使 §Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!增加§G+30%§!且§Y宜居性§!增加§G+5%§!"
+
+### Swap - Malice ###
+
+tradition_est_malice:0 "怨恨"
+tradition_est_malice_desc:0 "他人的痛苦是我们的喜悦。只有通过毁灭其他文明，我们才能证明我们的伟大。"
+
+tradition_est_malice_GC:0 "怨恨"
+tradition_est_malice_GC_desc:0 "他人的痛苦是我们的喜悦。只有通过毁灭其他文明，我们才能证明我们的伟大。"
+
+tr_est_malice_adopt:0 "怨恨传统"
+tr_est_malice_adopt_desc:0 "$tradition_est_malice_desc$\n\n$tr_est_malice_adopt_effect$\n\n$tr_est_malice_finish_effect$"
+tr_est_malice_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使我们§Y辱骂过§!的帝国的£happiness  §Y幸福度§!减少§R-10%§!."
+
+tr_est_malice_adopt_alt:0 "$tr_est_malice_adopt$"
+tr_est_malice_adopt_alt_desc:0 "$tradition_est_malice_desc$\n\n$tr_est_malice_adopt_alt_effect$\n\n$tr_est_malice_finish_effect$"
+tr_est_malice_adopt_alt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+15%§!"
+
+tr_est_malice_1:0 "面包和水"
+tr_est_malice_1_desc:0 "§Y奴隶维护花费§!减少§G-50%§!."
+tr_est_malice_1_delayed:0 "我们的奴隶不会得到比他们维持生活所需更多的支持。我们不会花一丝一毫的力气给他们任何安慰。他们的存在确实是可悲的。"
+
+tr_est_malice_1_no_slaves:0 "施虐狂"
+tr_est_malice_1_no_slaves_desc:0 "我们成功入侵过的星球的§Y稳定性§!在for §Y20§! 年内减少§R20§!  (如果我们征服了此星球，该修饰将移除)."
+tr_est_malice_1_no_slaves_delayed:0 "那些在我们占领的星球上被俘虏的人们是不幸的，即使我们离开这个星球，这些人也将永远被曾遭受的恐怖噩梦所困扰"
+
+tr_est_malice_1_no_slaves_passive_AI:0 "$tr_est_malice_1_no_slaves$"
+tr_est_malice_1_no_slaves_passive_AI_desc:0 "§Y陆军伤害§! 增加 §G+25%§!"
+tr_est_malice_1_no_slaves_passive_AI_delayed:0 "$tr_est_malice_1_no_slaves_delayed$"
+
+tr_est_malice_2:0 "根除希望"
+tr_est_malice_2_desc:0 "§Y奴隶政治权力§!减少§G-20%§!且他们的§Y强制迁移花费§!减少§G-25%§! 。"
+tr_est_malice_2_delayed:0 "那些在我们社会中充当奴隶的可怜人早已放弃了所有逃离生命的希望。他们已经接受了他们的命运，并且知道这是他们将要获得的一切，从而继续他们悲惨的存在。"
+
+tr_est_malice_2_no_slaves:0 "恐惧笼罩"
+tr_est_malice_2_no_slaves_desc:0 "每当我们宣战时，在 §Y10§! 年内使对方的§Y生长速度§! 减少 §R-20%§!, §Y舰队容量§! 减少 §R-10%§! 且 £happiness  §Y幸福度§! 减少 §R-10%§! ."
+tr_est_malice_2_no_slaves_delayed:0 "我们对他人来说畏惧的化身，恐怖的预兆。许多人在听到一丁点我们可能接近的流言时就吓得屁滚尿流。"
+
+tr_est_malice_2_various_AI:0 "$tr_est_malice_2_no_slaves$"
+tr_est_malice_2_various_AI_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! 增加 §G+5%§!"
+tr_est_malice_2_various_AI_delayed:0 "$tr_est_malice_2_no_slaves_delayed$"
+
+tr_est_malice_3:0 "不是任何人的朋友"
+tr_est_malice_3_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!增加§Y3§!."
+tr_est_malice_3_delayed:0 "没有人会认为我们是他们的朋友。这与我们无关。我们不需要任何朋友。"
+
+tr_est_malice_3_no_rivals:0 "蹂躏"
+tr_est_malice_3_no_rivals_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+20%§!切§Y附带损害§!增加§G+33%§!."
+tr_est_malice_3_no_rivals_delayed:0 "当我们的军队在银河系中移动时，他们除了一片狼藉的废墟几乎不留任何东西。"
+
+tr_est_malice_4:0 "对立者"
+tr_est_malice_4_desc:0 "从§Y宿敌§!获得的£influence §Y影响力收入§!增加§G+30%§!."
+tr_est_malice_4_delayed:0 "我们被认为是银河系每一个文明的真正对抗者。是对每个人生存的威胁。确实，这就是我们。"
+
+tr_est_malice_4_no_rivals:0 "$tr_est_malice_4$"
+tr_est_malice_4_no_rivals_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+5%§!."
+tr_est_malice_4_no_rivals_delayed:0 "$tr_est_malice_4_delayed$"
+
+tr_est_malice_5:0 "毁灭的喜悦"
+tr_est_malice_5_desc:0 "摧毁敌人舰船和空间站提供£unity §Y凝聚力§!。增加数量由舰船或站点的规模提高。"
+tr_est_malice_5_delayed:0 "我们在别人的苦难中获得巨大的快乐。摧毁别人创造的东西是我们的目的。"
+
+tr_est_malice_finish:0 "完成怨恨传统"
+tr_est_malice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_malice_adopt$ 使§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+10%§!."
+
+### Swap - Perseverance (IP) ###
+tradition_est_perseverance_IP:0 "毅力"
+tradition_est_perseverance_IP_desc:0 "时间的磨砺，外部的入侵以及银河内的冷漠。我们会忍受这一切。"
+
+tr_est_perseverance_IP_adopt:0 "毅力传统"
+tr_est_perseverance_IP_adopt_desc:0 "$tradition_est_perseverance_IP_desc$\n\n$tr_est_perseverance_IP_adopt_effect$\n\n$tr_est_perseverance_IP_finish_effect$"
+tr_est_perseverance_IP_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HITPOINTS_MULT$§!和§Y$MOD_ARMY_HEALTH$§!增加§G+10%§!."
+
+tr_est_perseverance_IP_1:0 "$tr_est_perseverance_1$"
+tr_est_perseverance_IP_1_desc:0 "$tr_est_perseverance_1_desc$"
+tr_est_perseverance_IP_1_delayed:0 "$tr_est_perseverance_1_delayed$"
+
+tr_est_perseverance_IP_2:0 "$tr_est_perseverance_3$"
+tr_est_perseverance_IP_2_desc:0 "$tr_est_perseverance_3_desc$"
+tr_est_perseverance_IP_2_delayed:0 "只有通过强有力的防御，我们才能防止外来者的入侵。"
+
+tr_est_perseverance_IP_3:0 "$tr_est_perseverance_2$"
+tr_est_perseverance_IP_3_desc:0 "$tr_est_perseverance_4_desc$"
+tr_est_perseverance_IP_3_delayed:0 "$tr_est_perseverance_2_delayed$"
+
+tr_est_perseverance_IP_4:0 "$tr_est_perseverance_4$"
+tr_est_perseverance_IP_4_desc:0 "§Y宜居性§! 和 §Y$MOD_ARMY_HEALTH$§! 增加 §G+10%§!"
+tr_est_perseverance_IP_4_delayed:0 "$tr_est_perseverance_4_delayed$"
+
+tr_est_perseverance_IP_5:0 "$tr_est_perseverance_5$"
+tr_est_perseverance_IP_5_desc:0 "$tr_est_perseverance_5_no_rivals_desc$"
+tr_est_perseverance_IP_5_delayed:0 "$tr_est_perseverance_5_delayed$"
+
+tr_est_perseverance_IP_finish:0 "完成毅力传统"
+tr_est_perseverance_IP_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_perseverance_adopt$使§Y$MOD_LEADER_AGE$§!增加§Y25§!."
+
+################################################################
+# GREED
+################################################################
+tradition_est_greed:0 "贪婪"
+tradition_est_greed_desc:0 "我们自己的价值仅受我们所拥有的价值的限制。"
+tradition_est_desires:0 "欲望"
+tradition_est_desires_desc:0 "我们被欲望所驱动。无论我们能收集多少，我们总是想要更多。"
+
+tr_est_greed_adopt:0 "贪婪传统"
+tr_est_greed_adopt_desc:0 "$tradition_est_greed_desc$\n\n$tr_est_greed_adopt_effect$\n\n$tr_est_greed_finish_effect$"
+tr_est_greed_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们的£minerals §Y矿物§!产出增加§G+10%§!."
+
+tr_est_greed_1:0 "囤积者"
+tr_est_greed_1_desc:0 "£influence£ §Y$mod_country_influence_produces_add$§!增加§Y0.5§!/§Y1§!/§Y1.5§!/§Y2§!如果我们至少有 §Y300§!/§Y4000§!/§Y15000§!/§Y40000§存储的£energy §Y能量币§!."
+tr_est_greed_1_AI_desc:0 "§Y月影响力§!增加§G1§!."
+tr_est_greed_1_delayed:0 "收集和积累深入了我们的灵魂。我们是我们拥有的，而我们将拥有一切。"
+
+tr_est_greed_2:0 "无情的谈判者"
+tr_est_greed_2_desc:0 "§Y宣称影响力花费§!减少§G-10%§!。解锁§Y无情的谈判者§!政策，可使§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!提高§G5%§!/§G10%§!/§G15%§!同时使外星帝国£opinion §Y评价§!减少§R-15§!/§R-30§!/§R-45§!."
+tr_est_greed_2_AI_desc:0 "§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!增加§G+5%§!且§Y宣称影响力花费§!减少§G-10%§!."
+tr_est_greed_2_delayed:0 "我们将用一切手段来得到我们想要的。其他人可能不喜欢我们，但这不关我们的事。"
+
+tr_est_greed_2_no_dip:0 "争夺土地"
+tr_est_greed_2_no_dip_desc:0 "§Y星际基地影响力花费§!减少§G-15%§!."
+tr_est_greed_2_no_dip_delayed:0 "银河系现在充满了空荡荡的星星。如果我们不宣称它们，其他人就会。我们必须在太迟之前争夺一切。"
+
+tr_est_greed_3:0 "握紧拳头"
+tr_est_greed_3_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! 和 §Y食物消费§!减少§G-10%§!."
+tr_est_greed_3_delayed:0 "每一笔用出去的钱都是损失的钱。让我们不要把任何资源浪费在那些可以少花钱的人身上。"
+tr_est_desires_3:0 "节俭"
+tr_est_desires_3_desc:0 "§Y$mod_planet_jobs_upkeep_mult$§! 减少 §G-10%§!."
+tr_est_desires_3_delayed:0 "另一种获得更多的方法是少花。"
+
+tr_est_greed_4:0 "勒索"
+tr_est_greed_4_desc:0 "解锁 §Y$policy_est_greed_4_extortion$§! 政策, 允许我们的  £energy §Y能量币§! 产出增加 §G15%§!/§G30%§!/§G45%§!, 同时使所有 £pop  §Y人口§! £happiness  §Y幸福度§! 减少 §R15%§!/§R20%§!/§R30%§!."
+tr_est_greed_4_delayed:0 "我们会索取我们认为我们能够得到的一切，强迫我们的公民耗尽他们的每一份财产。"
+
+tr_est_desires_4:0 "追求宝藏"
+tr_est_desires_4_desc:0 "§Y高级战略资源§! 产出增加 §G+33%§!."
+tr_est_desires_4_delayed:0 "我们对宇宙中最有价值的材料的渴望近乎强迫，拥有这些稀有物品的欲望超过了我们收藏中的其他一切。"
+
+tr_est_greed_5:0 "贿赂"
+tr_est_greed_5_desc:0 "可启用一项§Y帝国法令§!，可以让你付出£energy §Y能量币§!使一个选定的§Y派系§!的£happiness §Y幸福度§!增加§G+5%§!."
+tr_est_greed_5_AI_desc:0 "使所有 £pops 人口的£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!."
+tr_est_greed_5_delayed:0 "我们帝国各派的领导人贪婪而易受贿赂。既然取悦那些声称代表他们的人更容易，那我们为什么还要去取悦一般民众呢？"
+
+tr_est_desires_5:0 "伟大渴望"
+tr_est_desires_5_desc:0 "每殖民或征服一个星球时获得£unity §Y凝聚力§!."
+tr_est_desires_5_delayed:0 "这种内心的饥饿是永不熄灭的火焰，是永无止境的欲望，它驱使我们消耗，当我们无力再消耗时，它将带给我们毁灭。"
+
+tr_est_greed_finish:0 "完成贪婪传统"
+tr_est_greed_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_greed_adopt$使我们的£energy §Y能量币§!产出增加§G+10%§!."
+
+################################################################
+# INDUSRTY
+################################################################
+tradition_est_industry:0 "工业"
+tradition_est_industry_desc:0 "我们的世界被烟雾覆盖,充满了工厂，可以生产任何我们甚至银河系也可能需要的东西。"
+tr_est_industry_adopt:0 "工业传统"
+tr_est_industry_adopt_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_effect$\n\n$tr_est_industry_finish_effect$"
+tr_est_industry_adopt_robots_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_robots_effect$\n\n$tr_est_industry_finish_effect$"
+tr_est_industry_adopt_GC_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_robots_effect$\n\n$tr_est_industry_finish_GC_effect$"
+tr_est_industry_adopt_machines_desc:0 "$tradition_est_industry_desc$\n\n$tr_est_industry_adopt_robots_effect$\n\n$tr_est_industry_finish_GC_effect$"
+tr_est_industry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使所有我们星球上的§Y矿物区§!可建数量增加§Y2§!."
+tr_est_industry_adopt_robots_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使所有我们星球上的§Y矿物区§!可建数量增加§Y2§!.此外，在修饰机械人口时可以使用§Y$trait_robot_est_industry_adopt$§!特质"
+
+tr_est_industry_1:0 "新勘探技术"
+tr_est_industry_1_desc:0 "从§Y采矿空间站§!获得的 £minerals  §Y矿物§! 产出增加 §G+20%§!."
+tr_est_industry_1_delayed:0 "我们开发了新的勘探技术。这些技术让我们查明了以前未知的矿藏，现在可以开采了。"
+
+tr_est_industry_2:0 "轨道采矿作业"
+tr_est_industry_2_desc:0 "§Y研究速度（工业）§!增加§G+15%§!。此外，几个新的稀有科技将被添加到科技面板上。"
+tr_est_industry_2_delayed:0 "我们的行业使用的是最尖端的技术，与其他帝国相比，它们的效率更高。"
+
+tr_est_industry_3:0 "大锻造厂"
+tr_est_industry_3_desc:0 "§H解锁建筑:§! $building_est_industry_3_blast_furnace$\n§E该建筑使 £job_foundry£ §Y$job_foundry$s§! £alloys  §Y合金§! 产出增加 §G1§! 且他们的 £energy §Y能源§! 消耗增加 §R2§!§!"
+tr_est_industry_3_GC_desc:0 "§H解锁建筑:§! $building_est_industry_3_blast_furnace$\n§E该建筑使 £job_alloy_drone£ §Y$job_alloy_drone$s§! £alloys  §Y合金§! 产出增加 §G1§! 且他们的 £energy  §Y能源§! 消耗增加 §R2§!§!"
+tr_est_industry_3_delayed:0 "我们的高炉比银河系中的任何其他高炉都大。他们能够精炼大量的金属矿石，并生产出优质，高品质的金属。"
+
+tr_est_industry_4:0 "批量生产"
+tr_est_industry_4_robots:0 "批量生产"
+tr_est_industry_4_desc:0 "§Y舰船建造速度§!增加§G+25%§!."
+tr_est_industry_4_robots_desc: "§Y机器人装配速度§!增加§G+20%§!."
+tr_est_industry_4_delayed:0 "我们的工厂能够大批量生产标准化部件，可以用来建造我们舰队所需的船只。"
+tr_est_industry_4_robots_delayed:0 "我们的工厂能够大批量生产标准化组件，可以用来构建我们国家所需的机器人。"
+
+#tr_est_industry_5:0 "工业革命"
+#tr_est_industry_5_delayed:0 "通过新的采矿技术和新的高科技工厂的结合，我们进入了一场工业革命。"
+tr_est_industry_5:0 "锻造世界"
+tr_est_industry_5_desc:0 "可启用§Y$decision_est_industry_5_activate$§! 决策, 使星球£minerals  §Y矿物§!, £alloys  §Y合金§!, 和 £consumer_goods  §Y消费品§! 产出增加 §G+20%§!, 同时减少t £food  §Y食物§! 产出, £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§!, 和 §Y$MOD_PLANET_IMMIGRATION_PULL_MULT$§!  §R-25%§!, 此外 £happiness §Y幸福度§! 减少 §R-10%§!."
+tr_est_industry_5_GC_desc:0 "可启用 §Y$decision_est_industry_5_GC_activate$§! 决策, 使星球 £minerals  §Y矿物§! 和 £alloys  §Y合金§! 产出增加 §G+20%§!, 同时减少星球 £food  §Y食物§! 产出和 £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§! §R-30%§!."
+tr_est_industry_5_machines_desc:0 "可启用 §Y$decision_est_industry_5_machines_activate$§! 决策, 使星球 £minerals  §Y矿物§! 和 £alloys  §Y合金§! 产出增加 §G+20%§!, 同时减少星球 £energy  §Y能源§! 产出和 £mod_pop_assembly_speed  §Y$MOD_POP_ASSEMBLY_SPEED$§! §R-25%§!."
+tr_est_industry_5_delayed:0 "我们早已了解建立特殊锻造世界的艺术。这些世界将专门用于我们的矿山和工业，并且其产量能够超出银河系中几乎任何其他行星。"
+
+tr_est_industry_finish:0 "完成工业传统"
+tr_est_industry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_industry_adopt$ 使 £job_foundry£ §Y$job_foundry$§! 和 £job_artisan£ §Y$job_artisan$§! 维护费减少 §G-25%§!."
+tr_est_industry_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有的 $tr_est_industry_adopt$ 使 £job_alloy_drone£ §Y$job_alloy_drone$§! 和 £job_artisan_drone£ §Y$job_artisan_drone$§! 维护费减少 §G-25%§!."
+
+################################################################
+# ISOLATION
+################################################################
+tradition_est_isolation:0 "孤立主义"
+tradition_est_isolation_desc:0 "如果我们希望保持我们的生活方式，我们必须防止银河系对我们社会有任何影响。"
+tradition_est_isolation_GC:0 "孤立主义"
+tradition_est_isolation_GC_desc:0 "与银河系的人类接触不会产生任何好处。"
+
+tr_est_isolation_adopt:0 "孤立主义传统"
+tr_est_isolation_adopt_desc:0 "$tradition_est_isolation_desc$\n\n$tr_est_isolation_adopt_effect$\n\n$tr_est_isolation_finish_effect$"
+tr_est_isolation_adopt_GC_desc:0 "$tradition_est_isolation_GC_desc$\n\n$tr_est_isolation_adopt_effect$\n\n$tr_est_isolation_finish_GC_effect$"
+tr_est_isolation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y行政管理上限§!增加§Y25§!."
+
+tr_est_isolation_1:0 "强化边界"
+tr_est_isolation_1_desc:0 "§Y星际基地维护花费§!减少§G-15%§!，此外，所有§Y星际基地§!能拥有额外的§Y3§!§Y防御平台§!."
+tr_est_isolation_1_delayed:0 "我们不相信外人能保持距离。我们的边界必须加强以防范任何形式的侵略。"
+
+tr_est_isolation_2:0 "激烈的扞卫者"
+tr_est_isolation_2_desc:0 "§Y$MOD_ARMY_DEFENSE_MORALE_MULT$§!增加§G+50%§!且在我们境内的舰船§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加 §G+20%§!。"
+tr_est_isolation_2_delayed:0 "我们准备不惜任何代价扞卫我们的生活方式。任何入侵都必须停止。"
+
+tr_est_isolation_3:0 "缓冲区"
+tr_est_isolation_3_desc:0 "§Y帝国规模§!造成的惩罚减少§G-10%§!."
+tr_est_isolation_3_delayed:0 "我们将在我们的世界和其他世界之间建立缓冲区。这些广阔的空间确保我们能够安全地与外界保持距离。"
+
+tr_est_isolation_4:0 "警惕外来影响"
+tr_est_isolation_4_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+15%§!."
+tr_est_isolation_4_delayed:0 "外部的影响可能是任何形式。我们必须警惕任何可能改变我们生活方式的东西。"
+
+tr_est_isolation_4_GC:0 "永恒沉默"
+tr_est_isolation_4_GC_desc:0 "§Y边境摩擦§!减少§G-80%§!."
+tr_est_isolation_4_GC_delayed:0 "在我们的空间里只有寂静。我们对整个星系的影响是微不足道的。我们的邻居知道我们的存在，但没有理由关心我们的存在。"
+
+tr_est_isolation_5:0 "隐士领域"
+tr_est_isolation_5_desc:0 "当我们除了§Y互不侵犯条约§!以外没有其他外交条约时我们的£unity §Y凝聚力§!产出增加§G+20%§!。"
+tr_est_isolation_5_delayed:0 "我们将继续是一个与世隔绝的社会，与银河系的其他部分隔绝。在我们的世界中，我们将独立于外部虚空中发生的事情而过我们的生活。"
+
+tr_est_isolation_5_GC:0 "安宁"
+tr_est_isolation_5_GC_desc:0 "当我们除了§Y互不侵犯条约§!以外没有其他外交条约时我们的£unity §Y凝聚力§!产出增加§G+20%§!。"
+tr_est_isolation_5_GC_delayed:0 "只有我们和虚空。在沉默中，我们可以听到思想在永恒中回荡。"
+
+tr_est_isolation_finish:0 "完成孤立主义传统"
+tr_est_isolation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_isolation_adopt$使当我们没有战争时所有£pops人口£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+10%§!。"
+ 
+tr_est_isolation_finish_GC:0 "完成孤立主义传统"
+tr_est_isolation_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_isolation_adopt$使当我们没有战争时§Y$mod_country_influence_produces_add$§!增加 §G1§!。"
+ 
+### Swap - Proselytism ###
+
+tradition_est_proselytism:0 "劝教"
+tradition_est_proselytism_desc:0 "我们的理想和生活方式自然要优于其他人。我们有责任在银河系中传播它们。"
+
+tr_est_proselytism_adopt:0 "劝教传统"
+tr_est_proselytism_adopt_desc:0 "$tradition_est_proselytism_desc$\n\n$tr_est_proselytism_adopt_effect$\n\n$tr_est_proselytism_finish_effect$"
+tr_est_proselytism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity §Y凝聚力§!产出增加§G+15%§!且所有在我们星球上属于我们§Y思潮§!的非奴隶£pops 人口£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!。"
+tr_est_proselytism_adopt_no_slaves:0 "$tr_est_proselytism_adopt$"
+tr_est_proselytism_adopt_no_slaves_desc:0 "$tradition_est_proselytism_desc$\n\n$tr_est_proselytism_adopt_no_slaves_effect$\n\n$tr_est_proselytism_finish_effect$"
+tr_est_proselytism_adopt_no_slaves_effect:0 "§E$TRADITIONS_ADOPT$:§!\n£unity §Y凝聚力§!产出增加§G+15%§!且所有在我们星球上属于我们§Y思潮§!的所有£pops 人口£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!。"
+tr_est_proselytism_adopt_AI:0 "劝教传统"
+tr_est_proselytism_adopt_AI_desc:0 "$tradition_est_proselytism_desc$\n\n$tr_est_proselytism_adopt_effect$\n\n$tr_est_proselytism_finish_effect$"
+tr_est_proselytism_adopt_AI_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们的£unity §Y凝聚力§!产出增加§G+10%§!."
+
+tr_est_proselytism_1:0 "传教士"
+tr_est_proselytism_1_desc:0 "在所有邻近的帝国增加导向我们§Y思潮§!的§Y思潮吸引力§!§G+25%§! (对§Y极端思潮§!效果加倍)。§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+5%§!."
+tr_est_proselytism_1_passive_AI_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 增加§G+20%§!."
+tr_est_proselytism_1_delayed:0 "我们的传教士前往我们帝国边缘的世界，前往邻近帝国的世界。在那里，他们会将民众转向为正确的道路。"
+
+tr_est_proselytism_2:0 "圣战"
+tr_est_proselytism_2_desc:0 "当我们处于对抗至少有一项相反的§Y思潮§!的§Y战争领导国§!的§Y战争§!时，使§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+10%§!，§Y$MOD_ARMY_MORALE$§!增加§G+25%§!, §Y$MOD_NAVY_SIZE_MULT$§!增加§G+15%§!且§Y舰船建造速度§!增加§G+15%§!。"
+tr_est_proselytism_2_delayed:0 "对于那些拒绝在我们的话语中看到真相的人，只有一种选择，就是用武力改变他们的思想。毕竟，这只是为了他们自己最好的。"
+
+tr_est_proselytism_3:0 "同化政策"
+tr_est_proselytism_3_desc:0 "被征服的£pops §Y人口§!不会受到§Y刚被征服§!的惩罚。"
+tr_est_proselytism_3_delayed:0 "随着越来越多的人被纳入我们的帝国，必须采取措施确保他们正确并充分地融入我们的社会。"
+
+tr_est_proselytism_4:0 "秩序之国"
+tr_est_proselytism_4_desc:0 "对我们所有的附属国导向我们的§Y思潮§!的§Y思潮吸引力§!增加§G+25%§!(对§Y极端思潮!效果加倍). §Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+15%§!."
+tr_est_proselytism_4_delayed:0 "秩序之国的任务是确保我们所有的公民都表现出对我们家园的热爱。它的代表也将前往我们的领域并确保他们也遵循我们的理想。"
+
+tr_est_proselytism_4_alt:0 "$tr_est_proselytism_4$"
+tr_est_proselytism_4_alt_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+15%§!且我们所有星球上的§Y$MOD_PLANET_UNREST_ADD$§!减少§G-15%§!。"
+tr_est_proselytism_4_alt_delayed:0 "$tr_est_proselytism_4_delayed$"
+
+tr_est_proselytism_5:0 "例外论"
+tr_est_proselytism_5_desc:0 "使£pops §Y人口§!的£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!且在§Y战争§!胜利后§G10§!年内我们的£unity §Y凝聚力§!产出增加§G+15%§!。该加成在输掉§Y战争§!时会失去。"
+tr_est_proselytism_5_delayed:0 "我们知道我们的帝国真正优于其他帝国。银河系中所有被误导的其他帝国都应该努力融入我们的帝国，或者效仿我们的帝国。最终我们会显示他们的劣等性。"
+
+tr_est_proselytism_finish:0 "完成劝教传统"
+tr_est_proselytism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_proselytism_adopt$ 将给你的星球每§Y30§! £pop 人口 §Y1§! £job_est_inquisitor£ §Y$job_est_inquisitor$ 职位§! (对 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 和 §Y犯罪率减少§!带来小量加成, 同时生产少量的 £unity §Y凝聚力§!.). "
+
+################################################################
+# JUSTICE
+################################################################
+tradition_est_justice:0 "司法"
+tradition_est_justice_desc:0 "每个人都应该无条件地遵守法律，因为它凌驾于一切之上。"
+tr_est_justice_adopt:0 "司法传统"
+tr_est_justice_adopt_desc:0 "$tradition_est_justice_desc$\n\n$tr_est_justice_adopt_effect$\n\n$tr_est_justice_finish_effect$"
+tr_est_justice_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§在我们所有星球上的§Y犯罪率§!减少§G-25§!。"
+
+tr_est_justice_1:0 "法律面前人人平等"
+tr_est_justice_1_desc:0 "所有£pops §Y人口§!£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!且我们的£unity §Y凝聚力§!产出增加§G+5%§!."
+tr_est_justice_1_delayed:0 "法律高于一切。 每个人，无论他们是谁，都必须遵守它。法律无视他们的阶级，地位或财富。"
+
+tr_est_justice_2:0 "法务部"
+tr_est_justice_2_desc:0 "§Y海盗增长§! 减少 §G-33%§! 且 §Y$MOD_COUNTRY_ADMIN_CAP_ADD$§! 增加 §G10§!."
+tr_est_justice_2_delayed:0 "法务部的秩序的代表走遍我们的帝国。这些法律代表有充分的权利在我们帝国最边缘的世界行使司法权，否则它可能不复存在。"
+
+tr_est_justice_3:0 "最高法院"
+tr_est_justice_3_desc:0 "§Y法令期限§!增加§G+10%§!且§Y法令花费§!减少§G-10%§!."
+tr_est_justice_3_delayed:0 "最高法院对我们政府的活动进行管理，以确保他们的行为不违背法律规定。"
+
+tr_est_justice_4:0 "宪法"
+tr_est_justice_4_desc:0 "£stability  §Y稳定性§! 增加 §G5§!."
+tr_est_justice_4_delayed:0 "我们的宪法包含了我们司法制度的最基本原则。它规定了我们帝国的裁决以及公民的权利和责任。"
+
+tr_est_justice_5:0 "法律完善"
+tr_est_justice_5_desc:0 "我们的£influence §Y影响力§!产出增加§G+25%§!."
+tr_est_justice_5_delayed:0 "几个世纪以来，我们完善了我们的法律法规。现在终于法律的文字和法律的精神是一样的。"
+
+tr_est_justice_finish:0 "完成司法传统"
+tr_est_justice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_justice_adopt$ 使当我们至少有 §Y750§!/§Y1000§! 存储的 £influence §Y影响力§!时我们的 £unity §Y凝聚力§! 产出增加 §G+15%§!/§G30%§! ."
+
+### Swap - Destruction ###
+
+tradition_est_destruction:0 "毁灭"
+tradition_est_destruction_desc:0 "我们的目标很简单。毁灭这个星系中的所有生命。"
+tr_est_destruction_adopt:0 "毁灭传统"
+tr_est_destruction_adopt_desc:0 "$tradition_est_destruction_desc$\n\n$tr_est_destruction_adopt_effect$\n\n$tr_est_destruction_finish_effect$"
+tr_est_destruction_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+20%§!."
+
+tr_est_destruction_1:0 "破坏的工作"
+tr_est_destruction_1_desc:0 "每净化一个£pop §Y人口§!获得§Y5§! £influence §Y影响力§!。"
+tr_est_destruction_1_delayed:0 "我们夺走的每一条生命都是净化这个银河的一步。"
+
+tr_est_destruction_2:0 "生而为战"
+tr_est_destruction_2_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!和§Y陆军伤害§!增加§G+10%§!."
+tr_est_destruction_2_delayed:0 "我们是为了战斗而生，只有在战斗中我们才能为自己的真正目的服务。"
+
+tr_est_destruction_3:0 "不懈追捕"
+tr_est_destruction_3_desc:0 "使正在战斗中的敌对舰队§Y舰船逃离几率§!减少§R-33%§!。"
+tr_est_destruction_3_delayed:0 "在任何情况下，我们都不能让我们的敌人生存。无论发生什么情况，我们都要追捕他们并杀死他们。"
+
+tr_est_destruction_4:0 "恐惧"
+tr_est_destruction_4_desc:0 "使邻近的普通帝国£unity §Y凝聚力§!产出和§Y生长速度§!减少§R-20%§!."
+tr_est_destruction_4_delayed:0 "每个人都知道我们是谁。他们知道我们的目的并且我们有能力实现它。我们在银河系的存在就会在其居民身上造成恐怖。"
+
+tr_est_destruction_4_passive_AI:0 "恐惧"
+tr_est_destruction_4_passive_AI_desc:0 "§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!增加§G+25%§!."
+tr_est_destruction_4_passive_AI_delayed:0 "每个人都知道我们是谁。他们知道我们的目的并且我们有能力实现它。我们在银河系的存在就会在其居民身上造成恐怖。"
+
+tr_est_destruction_5:0 "银河天罚"
+tr_est_destruction_5_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!增加§Y2§!且从§Y宿敌§!获得的£influence §Y影响力收入§!增加§G+20%§!."
+tr_est_destruction_5_delayed:0 "随着我们的力量增长，当我们追寻我们的目的时，银河系的凡人们意识到要么他们摧毁我们，要么我们摧毁他们。"
+
+tr_est_destruction_5_no_rivals:0 "$tr_est_destruction_5$"
+tr_est_destruction_5_no_rivals_desc:0 "当我们处于战争状态时我们的£influence §Y$mod_country_base_influence_produces_add$§!增加§Y2§!。"
+tr_est_destruction_5_no_rivals_delayed:0 "$tr_est_destruction_5_delayed$"
+
+tr_est_destruction_finish:0 "完成毁灭传统"
+tr_est_destruction_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_destruction_adopt$将对所有我们战争中的对手使§Y厌战度收入§!增加§R+20%§!。"
+
+#Not displayed.
+tr_est_destruction_finish_passive_ai_effect:0 "§E$TRADITIONS_FINISH$:§!\n采取所有的$tr_est_destruction_adopt$使§Y厌战度收入§!减少§G-15%§!."
+
+################################################################
+# LIBERTY
+################################################################
+tradition_est_liberty:0 "自由"
+tradition_est_liberty_desc:0 "那些剥夺他人自由的人不配拥有自由。"
+
+tradition_est_liberty_slavery:0 "$tradition_est_liberty$"
+tradition_est_liberty_slavery_desc:0 "无论如何，我们所有人都会拥有自由。虽然不是每个人都能接受，但他们都有机会在他们的存在中获得伟大。"
+
+tr_est_liberty_adopt:0 "自由传统"
+tr_est_liberty_adopt_desc:0 "$tradition_est_liberty_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_effect$"
+tr_est_liberty_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n在所有星球上增加§G10§!§Y舒适度§!."
+
+tr_est_liberty_adopt_no_migration:0 "$tr_est_liberty_adopt$"
+tr_est_liberty_adopt_no_migration_desc:0 "$tradition_est_liberty_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_no_migration_effect$"
+
+tr_est_liberty_adopt_slavery:0 "$tr_est_liberty_adopt$"
+tr_est_liberty_adopt_slavery_desc:0 "$tradition_est_liberty_slavery_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_effect$"
+
+tr_est_liberty_adopt_slavery_no_migration:0 "$tr_est_liberty_adopt$"
+tr_est_liberty_adopt_slavery_no_migration_desc:0 "$tradition_est_liberty_slavery_desc$\n\n$tr_est_liberty_adopt_effect$\n\n$tr_est_liberty_finish_no_migration_effect$"
+
+tr_est_liberty_1:0 "普世权利"
+tr_est_liberty_1_desc:0 "£influence£ §Y$mod_country_influence_produces_add$§! 增加 §Y1§!."
+tr_est_liberty_1_delayed:0 "我们宣布普遍权利永远属于我们所有人：无论我们是谁，无论我们来自何方。"
+
+tr_est_liberty_1_slavery:0 "合理规则"
+tr_est_liberty_1_slavery_desc:0 "所有§Y奴隶§!的£happiness §Y幸福度§!增加§G+20%§!."
+tr_est_liberty_1_slavery_delayed:0 "毫无疑问，这是规则，我们的法律基于原则的最真实和最美德。无论是磨砺还是个人生活经历的困难都只能由运气不佳和个人缺点来解释。"
+
+tr_est_liberty_2:0 "言论自由"
+tr_est_liberty_2_desc:0 "当没有§Y派系§被压制时所有§Y派系§的£happiness §Y幸福度§!增加§G+5%§!。"
+tr_est_liberty_2_AI_desc:0 "所有§Y派系§的£happiness §Y幸福度§!增加§G+3%§!."
+tr_est_liberty_2_delayed:0 "每个人都有权发表自己的意见和想法而不受法律的影响,这是很重要的。这是我们公民的权利。"
+
+tr_est_liberty_3:0 "边境精神"
+tr_est_liberty_3_desc:0 "新殖民地获得额外§Y1§!的初始£pops 人口。此外，在新殖民一个星球时使星球上所有£pops 人口的£happiness §Y$MOD_POP_HAPPINESS$§!在§Y20§!年内增加§G+20%§!。"
+tr_est_liberty_3_delayed:0 "我们的公民充满乐观，纷纷涌向我们的新殖民地。对他们来说，新殖民地提供了巨大的机会，并且许下一笔极棒的财富。"
+
+tr_est_liberty_3_slavery:0 "天命"
+tr_est_liberty_3_slavery_desc:0 "新殖民地获得额外§Y1§!的初始£pops 人口。此外，§Y宣称影响力花费§!减少§G-10%§!."
+tr_est_liberty_3_slavery_delayed:0 "当我们凝视着星系时，我们看到一片闪耀的星星。我们必须伸出手去宣称那些星星，因为我们的命运就是主宰它们。"
+
+tr_est_liberty_4:0 "梦想"
+tr_est_liberty_4_desc:0 "§Y帝国领袖池容量§!增加§Y2§!且§Y领袖花费§!减少§G-15%§!."
+tr_est_liberty_4_delayed:0 "未来的成功不应该由出生决定。相反，每个人都应该有机会获得成功并走向伟大。"
+
+tr_est_liberty_5:0 "正义事业"
+tr_est_liberty_5_desc:0 "当我们在与允许奴隶制或肃清的领导人的战争时，§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+15%§!且§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+25%§!。"
+tr_est_liberty_5_delayed:0 "我们将永远反对任何形式的压迫。我们准备为那些不够强大的人挺身而出。"
+
+tr_est_liberty_5_less_nice:0 "信念"
+tr_est_liberty_5_less_nice_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+20%§!."
+tr_est_liberty_5_less_nice_delayed:0 "我们的理想代表了这个银河系中一切正确和优秀的东西。有些人声称会有不同的意见，但他们企图贬损我们是出于嫉妒和恶意。"
+
+tr_est_liberty_finish:0 "完成自由传统"
+tr_est_liberty_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_liberty_adopt$使§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!增加§G+20%§!且§Y派系影响力收入§!增加§G+15%§!."
+tr_est_liberty_finish_no_migration:0 "$tr_est_liberty_finish$"
+tr_est_liberty_finish_no_migration_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_liberty_adopt$ 使我们的£trade_value §Y贸易价值§!产出增加§G+20%§!."
+
+### Swap - Fury ###
+tradition_est_fury:0 "怒火"
+tradition_est_fury_desc:0 "在我们内心燃烧着仇恨的永恒之火。当我们释放我们的愤怒时，火焰只会变淡，却从不熄灭。"
+tr_est_fury_adopt:0 "怒火传统"
+tr_est_fury_adopt_desc:0 "$tradition_est_fury_desc$\n\n$tr_est_fury_adopt_effect$\n\n$tr_est_fury_finish_effect$"
+tr_est_fury_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n解锁§Y怒火§!政策，可以设置从§Y0§!级到§Y5§!级,分别减少外星帝国的£opinion §Y评价§! §R-0§!/§R-10§!/§R-25§!/§R-45§!/§R-70§!/§R-100§!。每个级别都会提高各种怒火传统的效率。\n使§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+5%§!且每个§Y怒火等级§!增加额外§G+1%§!。"
+
+tr_est_fury_1:0 "仇恨"
+tr_est_fury_1_desc:0 "从§Y宿敌§!获得的£influence §Y影响力收入§!增加§G+25%§!， 且每个§Y怒火等级§!增加额外§G+5%§!."
+tr_est_fury_1_delayed:0 "我们无法忍受敌人的存在，他们仅仅存在于这个星系对我们来说就是一种痛苦，只有通过他们的毁灭才能缓解痛苦。"
+
+tr_est_fury_1_no_rivals:0 "鲁莽"
+tr_est_fury_1_no_rivals_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!增加§G+5%§!且每个§Y怒火等级§增加额外§G+3%§!。"
+tr_est_fury_1_no_rivals_delayed:0 "我们毫不犹豫地把自己投入战斗中，因为等待的每一秒都是痛苦的一秒。"
+
+tr_est_fury_2:0 "战争精神"
+tr_est_fury_2_desc:0 "§Y厌战度获得§!减少§G-5%§!且每个§Y怒火等级§!增加减少§G-9%§!。"
+tr_est_fury_2_delayed:0 "我们不像其他人一样被战争折磨，因为这确实是我们的自然状态，只有在战争中，我们才能全身心去追求或者渴望死亡和毁灭。"
+
+tr_est_fury_3:0 "斗争狂热"
+tr_est_fury_3_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+20%§!且每个§Y怒火等级§!增加额外§G+6%§!。"
+tr_est_fury_3_delayed:0 "在战斗中迷失自我是容易的，只需放手拥抱狂热。我们失去了所有的思想和印象，只有我们的武器和敌人的血液。"
+
+tr_est_fury_4:0 "战斗狂怒"
+tr_est_fury_4_desc:0 "每当我们的舰队在战斗中摧毁其他舰队(非常小的舰队不算)使§Y$MOD_SHIP_FIRE_RATE_MULT$§!和该舰队的§Y$MOD_SHIP_SPEED_MULT$§!增加§G+10%§!。效果持续§Y4§!月并且每个§Y怒火等级§!额外§Y4§!月。"
+tr_est_fury_4_delayed:0 "只有在激烈的战斗中，我们才真正解除了愤怒的痛苦。只有在战斗中我们才能释放我们所有的愤怒。只有在战斗中我们才能摆脱这种仇恨的痛苦。"
+
+tr_est_fury_5:0 "掠夺者"
+tr_est_fury_5_desc:0 "当我们成功入侵星球时我们有§Y5%§的几率杀掉星球上的每个£pop §Y人口§!。杀掉£pop §Y人口§!的几率随每个§Y怒火等级§!增加§G3%§!。从每个被杀的£pop §Y人口§!上获得小数量的£unity §Y凝聚力§!。每个星球在§Y10§!内只会被影响一次。该效果可以通过§Y$policy_est_fury_5_ravage$§!政策关闭。"
+tr_est_fury_5_delayed:0 "当我们不能把我们的愤怒发泄在敌人的活人身上时，我们只能通过摧毁他们所建的东西来表达它。它只是夺走生命的一个可怜的替代品，但由于缺乏生命去屠戮将不得不这样做。"
+
+tr_est_fury_5_passive_AI:0 "$tr_est_fury_5$"
+tr_est_fury_5_passive_AI_desc:0 "每当我们成功入侵一个星球时获得小量£unity §Y凝聚力§!. 此外，§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+10%§!."
+tr_est_fury_5_passive_AI_delayed:0 "$tr_est_fury_5_delayed$"
+
+tr_est_fury_finish:0 "完成怒火传统"
+tr_est_fury_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_fury_adopt$使每个§Y怒火等级§!下§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+2%§!。"
+
+################################################################
+# MECHANICUM
+################################################################
+tradition_est_mechanicum:0 "机械教会"
+tradition_est_mechanicum_desc:0 "别人认为的魔术对我们来说仅仅是简单的工程。没有哪个项目对我们来说太大或太难而无法完成。"
+tradition_est_mechanicum_GC:0 "机械教会"
+tradition_est_mechanicum_GC_desc:0 "$tradition_est_mechanicum_desc$"
+
+tr_est_mechanicum_adopt:0 "机械教会传统"
+tr_est_mechanicum_adopt_desc:0 "$tradition_est_mechanicum_desc$\n\n$tr_est_mechanicum_adopt_effect$\n\n$tr_est_mechanicum_finish_effect$"
+tr_est_mechanicum_adopt_GC:0 "$tr_est_mechanicum_adopt$"
+tr_est_mechanicum_adopt_GC_desc:0 "$tradition_est_mechanicum_GC_desc$\n\n$tr_est_mechanicum_adopt_effect$\n\n$tr_est_mechanicum_finish_GC_effect$"
+tr_est_mechanicum_adopt_robots_desc:0 "$tradition_est_mechanicum_GC_desc$\n\n$tr_est_mechanicum_adopt_robots_effect$\n\n$tr_est_mechanicum_finish_effect$"
+tr_est_mechanicum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HULL_MULT$§! 和§Y$MOD_SHIP_ARMOR_MULT$§!增加§G+10%§!."
+tr_est_mechanicum_adopt_robots_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ROBOT_UPKEEP_MULT$§!减少§G-15%§!."
+
+tr_est_mechanicum_1:0 "工程兵团"
+tr_est_mechanicum_1_GC:0 "空间建构艺术"
+tr_est_mechanicum_1_desc:0 "使§Y工程船§!的§Y维护花费§!和§Y建造花费§!减少§G-50%§!。§Y矿物空间站建造花费§!减少§G-20%§."
+tr_est_mechanicum_1_delayed:0 "虽然许多人认为工程学是一门好的专业，但很少有人像我们这样珍惜它。工程师被认为是我们社会的顶峰，甚至一位低级工程师也受到高度尊重。我们毫不犹豫地投资于我们的工程师，我们的工程兵团是银河系中最广泛的一员。"
+tr_est_mechanicum_1_GC_delayed:0 "从很早以前我们就完善了空间建筑的艺术。只需花费很少的力气或构建，舰船就能够建造新的空间站。"
+
+tr_est_mechanicum_2:0 "开发新的蓝图"
+tr_est_mechanicum_2_GC:0 "开发新的蓝图"
+tr_est_mechanicum_2_machines:0 "开发新的蓝图"
+tr_est_mechanicum_2_desc:0 "§Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! 增加 §G+15%§!."
+tr_est_mechanicum_2_robots_desc:0 "§Y机器人修饰点数§! 增加 §Y1§!."
+tr_est_mechanicum_2_machines_desc:0 "§Y机械修饰点数§! 增加 §Y1§!."
+tr_est_mechanicum_2_delayed:0 "在标准模板遍布整个帝国的同时，我们也鼓励新的改进设计。这项任务是为我们最熟练的工程师保留下来的。"
+tr_est_mechanicum_2_GC_delayed:0 "我们对大多数构造使用标准模板。然而，我们将始终寻求改善这些模板，并确保我们开发新的模板。"
+tr_est_mechanicum_2_machines_delayed:0 "我们对大多数构造使用标准模板。然而，我们将始终寻求改善这些模板，并确保我们开发新的模板。"
+
+tr_est_mechanicum_3:0 "战争机器"
+tr_est_mechanicum_3_desc:0 "§H解锁陆军:§! §Y$est_titan_army$§!, §Y$est_mechanical_knights_army$§!.\n§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+10%§!."
+tr_est_mechanicum_3_delayed:0 "大型战争机器是战场上一道壮观的景象。各种双足步行的生物能够将高级装甲和较重的武器装备成为正规部队。"
+
+tr_est_mechanicum_4:0 "伟大设计"
+tr_est_mechanicum_4_GC:0 "$tr_est_mechanicum_4$"
+tr_est_mechanicum_4_megastruct_GC:0 "$tr_est_mechanicum_4$"
+tr_est_mechanicum_4_desc:0 "§Y星际基地舰体值§!增加§G+33%§!."
+tr_est_mechanicum_4_megastruct_desc:0 "§Y巨型结构建造速度§!增加§G+20%§!且§Y巨型结构建造花费§!减少§G-10%§!."
+tr_est_mechanicum_4_megastruct_GC_desc:0 "$tr_est_mechanicum_4_megastruct_desc$"
+tr_est_mechanicum_4_delayed:0 "我们的工程师能够设计的结构远远超过银河系其他地方的结构。确实，我们为建设项目的如此规模感到自豪。"
+tr_est_mechanicum_4_GC_delayed:0 "我们能够设计出远比星系中其他地方更为突出的构造。确实，我们建筑项目的如此规模让其他世俗帝国感到敬畏。"
+tr_est_mechanicum_4_megastruct_GC_delayed:0 "我们能够设计出远比星系中其他地方更为突出的构造。确实，我们建筑项目的如此规模让其他世俗帝国感到敬畏。"
+
+tr_est_mechanicum_5:0 "工程师协会"
+tr_est_mechanicum_5_desc:0 "§H解锁建筑:§! "工程师会馆\n§E该建筑提供 £job_est_engineer£ §Y$job_est_engineer$§!, 和 £job_technician£ §Y$job_technician$ 职位§!, 同时加强了星球 £engineering  §Y工程学研究§! 产出. 需要至少一个 £building  §Y$building_major_capital$§! 来建造它§!."
+tr_est_mechanicum_5_robots_desc:0 "§H解锁建筑:§! 工程师会馆\n§E该建筑提供 £job_est_engineer£ §Y$job_est_engineer$§!, £job_technician£ §Y$job_technician$§!, 和 £job_roboticist£ §Y$job_roboticist$ 职位§!, 同时加强了星球 £engineering  §Y工程学研究§! 产出. 需要至少一座 £building  §Y$building_major_capital$§! 来建造它§!."
+tr_est_mechanicum_5_delayed:0 "受人尊敬的工程师协会可能是我们帝国内最强大的组织。他们培养新的工程师，并且垄断了我们工程技术的所有发展权。这个秩序的大师也是我们社会中极具影响力的成员，在我们的政府中占有许多重要席位。"
+tr_est_mechanicum_5_GC:0 "自我维修协议"
+tr_est_mechanicum_5_GC_desc:0 "§Y每日舰体回复§! 和 §Y装甲修复§! 增加 §G+0.5%§!."
+tr_est_mechanicum_5_GC_delayed:0 "专门的机器可以让我们的船只一旦受到损坏就开始自我修复。"
+
+tr_est_mechanicum_finish:0 "完成机械教会传统"
+tr_est_mechanicum_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_mechanicum_adopt$使从£job_technician£ §Y$job_technician$s§!获得的£energy §Y能量币§!产出增加§G1§!."
+tr_est_mechanicum_finish_GC_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_mechanicum_adopt$使从£job_technician_drone£ §Y$job_technician_drone$!获得的£energy §Y能量币§!产出增加§G1§!."
+
+################################################################
+# MILITARISM
+################################################################
+tradition_est_militarism:0 "军国主义"
+tradition_est_militarism_desc:0 "我们的军队是在银河系中保护我们的存在。围绕它建立我们的社会是很自然的。"
+tr_est_militarism_adopt:0 "军国主义传统"
+tr_est_militarism_adopt_desc:0 "$tradition_est_militarism_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_militarism_finish_effect$"
+tr_est_militarism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使§Y$mod_planet_jobs_produces_mult$§!增加§G+5%§!当我们达到或超出§Y海军容量§!时"
+
+tr_est_militarism_1:0 "征兵"
+tr_est_militarism_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! 减少 §G-25%§!. 此外每个星球每 §Y10§! £pop 人口获得 §Y1§! £job_soldier£ §Y$job_soldier$ 职位§! ."
+tr_est_militarism_1_delayed:0 "每个人都可能被选入我们的军队。为我们的军队服务被认为是公民的义务。即使对于那些继续从事其他职业的人来说，在军队的纪律结构中服务也是一种很好的经验。"
+
+tr_est_militarism_2:0 "改革军队结构"
+tr_est_militarism_2_desc:0 "§Y陆军将领技能§!增加§Y2§!,§Y陆军将领招募花费§!减少§G-50%§!,§Y陆军经验收益§!增加 §G+50%§!."
+tr_est_militarism_2_delayed:0 "我们的陆军仍然像我们离开太阳系之前那样组织起来。现在军队由星际舰队主导，陆军主要用于控制和入侵行星。我们必须改革我们的军队以更好地适应这个新角色。"
+
+tr_est_militarism_3:0 "大舰队"
+tr_est_militarism_3_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+10%§!且§Y舰队控制上限§!增加§G+20%§!."
+tr_est_militarism_3_delayed:0 "§H§!我们将投入更多资源来扩大我们的舰队。当它成为银河里最大的舰队群时，它无疑会在整个银河系统中被恐惧。"
+
+#tr_est_militarism_4:0 "Fortress Worlds"
+#tr_est_militarism_4_delayed:0 "Only the most skilled besieger would be able to conquer one of our fortress worlds. These planets contains several layers of the most advanced defences we are able to produce and they guard some of the most important locations within our empire."
+r_est_militarism_4:0 "武器制造大师"
+tr_est_militarism_4_desc:0 "使§Y舰船组件§!的§Y特殊资源§!的消耗减少§G-25%§!."
+tr_est_militarism_4_delayed:0 "我们的铁匠制造出一些整个银河系中能找到的最精细的武器和装甲。几乎没有任何舰队司令不眼红我们舰队的质量。"
+
+tr_est_militarism_5:0 "舰队威望"
+tr_est_militarism_5_desc:0 "我们所有的舰队司令§Y领袖经验收益§!增加§G+25%§!，此外我们可以免费保有§G1§! §Y舰队司令§! ."
+tr_est_militarism_5_delayed:0 "舰队司令是我们社会中最受尊敬的人物之一。他们不仅在军队中，而且在整个社会中都拥有很大的影响力。"
+
+tr_est_militarism_finish:0 "完成军国主义传统"
+tr_est_militarism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_militarism_adopt$ 使§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!增加§G+25%§!."
+
+### Swap - Might ###
+
+tradition_est_might:0 "强权"
+tradition_est_might_desc:0 "只有通过我们的军队的力量，才能保证我们在这个星系中的存在。"
+tr_est_might_adopt:0 "强权传统"
+tr_est_might_adopt_desc:0 "$tradition_est_might_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_might_finish_effect$"
+
+tr_est_might_1:0 "天生勇士"
+tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!减少§G-33%§!且§Y陆军经验收益§!增加§G+25%§!。此外，在我们星球上的每§Y10§!£pop §Y人口§!获得§Y1§! £job_warrior_drone£ §Y$job_warrior_drone$ 职位§!。"
+tr_est_might_1_delayed:0 "战士的本能贯穿于我们所有的工蜂中，当战斗来临时，他们每个人都已准备就绪。"
+
+tr_est_might_1_machines:0 "$tr_est_might_1$"
+tr_est_might_1_machines_desc:0 "$tr_est_might_1_desc$"
+tr_est_might_1_machines_delayed:0 "战士的本能贯穿于我们所有的单位中，当战斗来临时，他们每个人都已准备就绪。"
+
+tr_est_might_2:0 "狡猾的捕食者"
+tr_est_might_2_desc:0 "§Y陆军将领技能§!增加§Y2§!,§Y陆军将领招募花费§!减少§G-50%§!,§Y$MOD_ARMY_MORALE_DAMAGE_MULT$§!增加 §G+20%§!."
+tr_est_might_2_delayed:0 "我们的军事手段对这个星系的凡人来说似乎是非正统的，但它们是有效的。恐惧将在敌人面对我们这不可理解的力量时攥紧他们的心脏。"
+
+# Third tradition is the same as militarism, The Grand Armada.
+
+# Fourth tradition is the same as militarism, Fortress Worlds.
+
+tr_est_might_5:0 "战斗直觉"
+tr_est_might_5_desc:0 "$tr_est_militarism_5_desc$"
+tr_est_might_5_delayed:0 "我们对战争有自然的感觉，远远超过任何凡人。"
+
+tr_est_might_finish:0 "完成强权传统"
+tr_est_might_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_might_adopt$使§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!增加§G+15%§!且§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+
+################################################################
+# MYSTERY
+################################################################
+tradition_est_mysticism:0 "神秘"
+tradition_est_mysticism_desc:0 "保密和欺骗确保只有少数人知道我们的社会运作方式的每一个细节。"
+tr_est_mysticism_adopt:0 "神秘传统"
+tr_est_mysticism_adopt_desc:0 "$tradition_est_mysticism_desc$\n\n$tr_est_mysticism_adopt_effect$\n\n$tr_est_mysticism_finish_effect$"
+tr_est_mysticism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y传感器范围§!增加§Y1§!.此外, 我们邻居的§Y传感器范围§! 减少 §R-1§! (联邦同伴、附庸国和宗主国除外)."
+tr_est_mysticism_adopt_passive_AI_desc:0 "$tradition_est_mysticism_desc$\n\n$tr_est_mysticism_adopt_passive_AI_effect$\n\n$tr_est_mysticism_finish_effect$"
+tr_est_mysticism_adopt_passive_AI_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y传感器范围§! 增加 §Y1§!."
+
+tr_est_mysticism_1:0 "隐秘笼罩"
+tr_est_mysticism_1_desc:0 "从£pop §Y统治者人口§!获得的§Y派系影响力收入§! 和 §Y资源产出§!增加§G+25%§!."
+tr_est_mysticism_1_democratic_desc:0 "从£pop §Y统治者人口§!获得的§Y资源产出§!增加§G+25%§! 且 §!选举影响力花费§! 减少 §G-25%§!."
+tr_est_mysticism_1_oligarchic_desc:0 "从£pop §Y统治者人口§!获得的§Y资源产出§!增加§G+25%§! 且 §!选举影响力花费§! 减少 §G-50%§!."
+tr_est_mysticism_1_dictatorial_desc:0 "从£pop §Y统治者人口§!获得的§Y资源产出§!增加§G+25%§! 且 §!选举影响力花费§! 减少 §G-75%§!."
+tr_est_mysticism_1_delayed:0 "我们的社会笼罩在一层隐秘中，很少有人知道它的运作细节。掌权的位置以不明确的方式填充。大量的有着各种职能和不明确的招聘流程的协会，组织，党派组成了社会的各个层面。"
+
+tr_est_mysticism_2:0 "隐性资产"
+tr_est_mysticism_2_desc:0 "§Y先进的战略资源§! 产出增加 §G+50%§!."
+tr_est_mysticism_2_delayed:0 "秘密设施提取了我们帝国中最宝贵的资源。那些使用这些神秘设施的人要么发誓保守秘密，不能与大世界沟通，要么就是根本不知道他们真正发挥了什么作用。"
+
+tr_est_mysticism_3:0 "禁忌知识的追寻"
+tr_est_mysticism_3_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!增加§G+15%§!."
+tr_est_mysticism_3_psionics_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! 和研究速度 (灵能学) 增加 §G+15%§!."
+tr_est_mysticism_3_delayed:0 "小规模的研究人员聚集在我们帝国，深入研究在其他帝国经常被限制的议题。"
+
+tr_est_mysticism_4:0 "航海家公会"
+tr_est_mysticism_4_desc:0 "§Y舰船逃脱几率§! 增加 §G+33%§!."
+tr_est_mysticism_4_delayed:0 "秘密的导航员协会负责所有民用和军用船舶的导航。非会员既不被允许也没有能力操纵我们的船只。"
+
+tr_est_mysticism_5:0 "秘族"
+tr_est_mysticism_5_desc:0 "所有领袖获得§Y神秘§!特质，提供小量加成。"
+tr_est_mysticism_5_delayed:0 "我们社会中许多强大的个人都被认为拥有超自然力量。这些人是否真正拥有他们被所说那样的力量是未知的。"
+
+tr_est_mysticism_finish:0 "完成神秘传统"
+tr_est_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_mysticism_adopt$ 给我们的星球每§Y50§! £pop 人口§Y1§!个 £job_est_shadow_administrator£ §Y$job_est_shadow_administrator$ 职位§!"
+
+### Swap - Philosophy ###
+
+tradition_est_philosophy:0 "哲学"
+tradition_est_philosophy_desc:0 "正如凡人认为的那样，我们不仅仅是自然的力量。我们可能是银河系中最有智慧的存在，我们一直在考虑存在最深奥的奥秘。"
+
+tr_est_philosophy_adopt:0 "哲学传统"
+tr_est_philosophy_adopt_desc:0 "$tradition_est_philosophy_desc$\n\n$tr_est_philosophy_adopt_effect$\n\n$tr_est_philosophy_finish_effect$"
+tr_est_philosophy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y传感器范围§!增加§Y1§!."
+
+tr_est_philosophy_1:0 "宇宙的本质"
+tr_est_philosophy_1_desc:0 "§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!增加§G+20%§!."
+tr_est_philosophy_1_delayed:0 "当我们第一次醒来时，宇宙就在那里。我们进入睡眠很久以后，宇宙将会持续。最重要的是，它是永恒的。"
+
+tr_est_philosophy_2:0 "虚境的本质"
+tr_est_philosophy_2_desc:0 "$tr_est_mysticism_4_desc$"
+tr_est_philosophy_2_delayed:0 "虚境是虚幻的，是我们现实的一部分，不，还不是。它的本质究竟是什么？"
+
+tr_est_philosophy_3:0 "死亡的本质"
+tr_est_philosophy_3_desc:0 "外星帝国£opinion §Y评价§!增加§G+20§!. 当和普通帝国交战时§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!。"
+tr_est_philosophy_3_delayed:0 "凡人都是好奇的东西。他们的生活如此变幻无常。他们的思想如此脆弱。"
+tr_est_philosophy_3_no_dip:0 "死亡的本质"
+tr_est_philosophy_3_no_dip_desc:0 "当和普通帝国交战时§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+10%§!。"
+tr_est_philosophy_3_no_dip_delayed:0 "凡人都是好奇的东西。他们的生活如此变幻无常。他们的思想如此脆弱。"
+
+tr_est_philosophy_4:0 "我们自己的本质"
+tr_est_philosophy_4_desc:0 "我们的£unity §Y凝聚力§!产出增加§G+10%§!."
+tr_est_philosophy_4_delayed:0 "我们存在的原因是什么？是什么力量唤醒了我们这个世界，又是什么力量使我们沉睡？"
+
+tr_est_philosophy_5:0 "存在的本质"
+tr_est_philosophy_5_desc:0 "在每个星球上提供§Y3§! 额外的 £job_spawning_drone£ §Y$job_spawning_drone$ 职位§!"
+tr_est_philosophy_5_delayed:0 "为什么这里存在着事物，而他们本可以不存在？"
+tr_est_philosophy_5_machines:0 "$tr_est_philosophy_5$"
+tr_est_philosophy_5_machines_desc:0 "在每个星球上提供§Y3§! 额外的  £job_replicator£ §Y$job_replicator$ 职位§!"
+tr_est_philosophy_5_machines_delayed:0 "$tr_est_philosophy_5_delayed$"
+
+tr_est_philosophy_finish:0 "完成神秘传统"
+tr_est_philosophy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所$tr_est_philosophy_adopt$ 使£influence §Y影响力收入§!增加§G+20%§!."
+
+################################################################
+# NATURE
+################################################################
+tradition_est_natural:0 "自然"
+tradition_est_natural_desc:0 "我们的生活始于大自然。 当我们接触到星空时，我们必须保持谦卑的起点，否则我们将失去自我。"
+tr_est_natural_adopt:0 "自然传统"
+tr_est_natural_adopt_desc:0 "$tradition_est_natural_desc$\n\n$tr_est_natural_adopt_effect$\n\n$tr_est_natural_finish_effect$"
+tr_est_natural_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!增加§G+10%§!且§Y研究速度（生物学）§!增加§G+10%§!."
+
+tradition_est_natural_hive:0 "$tradition_est_natural$"
+tradition_est_natural_hive_desc:0 "我们的思想没有终点，因为它伸展到最原始的生物体，进入我们世界的土壤。"
+tr_est_natural_adopt_hive:0 "$tr_est_natural_adopt$"
+tr_est_natural_adopt_hive_desc:0 "$tradition_est_natural_hive_desc$\n\n$tr_est_natural_adopt_hive_effect$\n\n$tr_est_natural_finish_hive_effect$"
+tr_est_natural_adopt_hive_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们的£food §Y食物§!产出增加§G+15%§!."
+
+tradition_est_natural_machines:0 "$tradition_est_natural$"
+tradition_est_natural_machines_desc:0 "我们周围的大自然是我们的缺失的一切。只有当我们让它成为我们的一部分，我们才能达到完美。"
+tr_est_natural_adopt_machines:0 "$tr_est_natural_adopt$"
+tr_est_natural_adopt_machines_desc:0 "$tradition_est_natural_machines_desc$\n\n$tr_est_natural_adopt_machines_effect$\n\n$tr_est_natural_finish_machines_effect$"
+tr_est_natural_adopt_machines_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们的£unity §Y凝聚力§!产出增加§G+5%§!且§Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!增加§G+50%§!."
+
+tr_est_natural_1:0 "适应社会"
+tr_est_natural_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+10%§!."
+tr_est_natural_1_delayed:0 "我们已经学会了适应我们的环境，而不是让我们的环境适应我们。"
+
+tr_est_natural_1_GC:0 "节俭"
+tr_est_natural_1_GC_desc:0 "§Y职位资源消耗§! 减少 §G-10%§!."
+tr_est_natural_1_GC_delayed:0 "我们必须认识到大自然赋予我们的资源是无限的，浪费它们是不值得的。"
+
+#tr_est_natural_2:0 "如鱼得水"
+#tr_est_natural_2_desc:0 "§Y$MOD_PLANET_FORTIFICATION_STRENGTH$§!增加§G+100%§!."
+#tr_est_natural_2_delayed:0 "我们的军队穿越在我们家乡的荒野中如鱼得水。利用大自然作为掩护，在对手的脆弱的时刻从大自然中突袭而出。我们是游击战的真正主人。"
+
+tr_est_natural_2:0 "自然财富"
+tr_est_natural_2_desc:0 "在我们的星球上生成§Y2§!不同的资源点(也包括我们新获得的星球，每一个星球只能受到一次影响)."
+tr_est_natural_2_delayed:0 "我们周围的自然资源丰富，可以被那些知道在哪里找到它们的人利用。"
+
+tr_est_natural_3:0 "自然之力"
+tr_est_natural_3_desc:0 "£blocker §Y$MOD_PLANET_CLEAR_BLOCKER_COST_MULT$§!减少§G-50%§!."
+tr_est_natural_3_delayed:0 "我们并没有推动大自然走向社会，而是学会了在大自然中建立了社会，不需要破坏大自然为自己腾出空间。"
+
+tr_est_natural_3_hive:0 "天人合一"
+tr_est_natural_3_hive_desc:0 "使§YPlanet $mod_planet_max_districts_add$§! 增加 §Y1§!."
+tr_est_natural_3_hive_delayed:0 "当我们到达新的世界时，我们不应该尝试去控制它的原生的生态，相反我们应该尝试将它融入我们的心中，使它成为我们的一部分。"
+
+tr_est_natural_3_machines:0 "反向力量"
+tr_est_natural_3_machines_desc:0 "从每一个殖民星球的障碍物中收到§G50§! £influence §Y影响力§!。"
+tr_est_natural_3_machines_delayed:0 "我们的本质与我们周围的自然非常相反。但我们是紧密结合在一起的。我们结合的矛盾是让它强大的原因。"
+
+tr_est_natural_4:0 "自给自足"
+tr_est_natural_4_desc:0 "我们所有星球每有§Y10§! £pop 人口都会收到§Y1§! £job_farmer£ §Y$job_farmer$ 职位§!。此外， £pop §Y人口食物消费§!减少§G-10%§!."
+tr_est_natural_4_delayed:0 "我们的世界上大多数人在某种程度上是自给自足的，而不是仅仅依靠集中的粮食生产。在某种程度上，他们可以自己生产食物。"
+
+tr_est_natural_4_GC:0 "$tr_est_natural_3$"
+tr_est_natural_4_GC_desc:0 "$tr_est_natural_3_desc$"
+tr_est_natural_4_GC_delayed:0 "$tr_est_natural_3_delayed$"
+
+tr_est_natural_5:0 "非消费主义"
+tr_est_natural_5_desc:0 "使£pop §Y人口§! §Y食物§!, §Y消费品§!, §Y住房§!, 和 §Y舒适度§! 使用减少 §G-5%§!."
+tr_est_natural_5_delayed:0 "当别人看重物质的时候，我们超越了这种低级的行为。"
+
+tr_est_natural_5_GC:0 "自然保护"
+tr_est_natural_5_GC_desc:0 "§H解锁建筑:§!保护区 (星球唯一。 生产§Y9§! £unity §Y凝聚力§!并使星球的£society  §Y社会学§! 产出增加 §G+20%§!. 使星球 £minerals  §Y矿物§! 产出减少 §R-10%§! 且区域上限 §R-1§!)."
+tr_est_natural_5_GC_delayed:0 "每个行星都有自己的自然栖息地，在银河系中独一无二。我们必须确保至少有一部分保留，不会中断，保持它在我们抵达之前的状态。"
+
+tr_est_natural_5_GC_AI:0 "自然保护"
+tr_est_natural_5_GC_AI_desc:0 " £unity §Y凝聚力§!产出增加§G+15%§!且£society §Y社会学§!产出增加§G+5%§!."
+tr_est_natural_5_GC_AI_delayed:0 "每个行星都有自己的自然栖息地，在银河系中独一无二。我们必须确保至少有一部分保留，不会中断，保持它在我们抵达之前的状态。"
+
+tr_est_natural_finish:0 "完成自然传统"
+tr_est_natural_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_natural_adopt$ $tr_est_natural_5_GC_desc$"
+
+tr_est_natural_finish_AI:0 "完成自然传统"
+tr_est_natural_finish_AI_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_natural_adopt$ $tr_est_natural_5_GC_AI_desc$"
+
+tr_est_natural_finish_hive:0 "完成自然传统"
+tr_est_natural_finish_hive_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_natural_adopt$使§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!增加§G+10%§!且§Y研究速度（生物学）§!增加§G+15%§!."
+
+tr_est_natural_finish_machines:0 "完成自然传统"
+tr_est_natural_finish_machines_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_natural_adopt$使§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§!增加§G+20%§!."
+
+################################################################
+# ORDER
+################################################################
+tradition_est_order:0 "秩序"
+tradition_est_order_desc:0 "每个人都在宏大计划中都有自己的角色。执行分配的任务是每个人的责任。"
+tr_est_order_adopt:0 "秩序传统"
+tr_est_order_adopt_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_effect$\n\n$tr_est_order_finish_effect$"
+tr_est_order_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§!减少§G-20%§!."
+tr_est_order_adopt_egali_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_egali_effect$\n\n$tr_est_order_finish_effect$"
+tr_est_order_adopt_egali_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 增加 §G+15%§!."
+
+tradition_est_order_egali:0 "秩序"
+tradition_est_order_egali_desc:0 "一个成功的星际帝国只能在绝对秩序的基础上运行。"
+tr_est_order_adopt_egali_desc:0 "$tradition_est_order_desc$\n\n$tr_est_order_adopt_egali_effect$\n\n$tr_est_order_finish_effect$"
+tr_est_order_adopt_egali_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 增加 §G+15%§!."
+
+tr_est_order_1:0 "宣传部"
+tr_est_order_1_desc:0 "压制一个派系§YFaction§!仅花费一半数量的£influence §Y影响力§!且使£happiness §Y派系幸福度§!仅减少§G-10%§!。此外，§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+5%§!."
+tr_est_order_1_delayed:0 "人民所知道的真理，就是我们希望他们知道的真理。我们的宣传部确保了这一点。"
+
+tr_est_order_1_AI:0 "宣传部"
+tr_est_order_1_AI_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+10%§!. §Y影响力收入§!增加§G0.5§!."
+tr_est_order_1_AI_delayed:0 "人民所知道的真理，就是我们希望他们知道的真理。我们的宣传部确保了这一点。"
+
+tr_est_order_1_egali:0 "防止虚假信息"
+tr_est_order_1_egali_desc:0 "§Y$mod_pop_ethic_egalitarian_attraction_mult$§!增加§G+15%§!且§Y$MOD_PLANET_CRIME_ADD$§!减少§G-10%§!在我们所有的星球上。"
+tr_est_order_1_egali_delayed:0 "许多人希望通过散布虚假信息来动摇我们的公民。这任何情况下都不能成功。"
+
+tr_est_order_2:0 "国家批准党派"
+tr_est_order_2_desc:0 "所有§Y派系§!的£happiness §Y幸福度§!增加§G+3%§!."
+tr_est_order_2_delayed:0 "我们不是建立一个他们所希望的政党，而是建立了一套经过批准的政党，有固定的议程，允许在我们的帝国内运作。"
+
+tr_est_order_2_egali:0 "政治稳定"
+tr_est_order_2_egali_desc:0 "$tr_est_order_2_desc$"
+tr_est_order_2_egali_delayed:0 "随着我们的帝国越来越大，我们努力维护政治稳定，否则我们会四分五裂。每个政党和个人都有责任确保我们的政治制度顺利进行，无论是争端还是威望，都不妨碍我们帝国的运转。"
+
+tr_est_order_3:0 "标准化工作计划"
+tr_est_order_3_desc:0 "从§Y劳工§!获得的£food §Y食物§!和£minerals §Y矿物§!产出增加§G+10%§!."
+tr_est_order_3_slavery_desc:0 "从§Y奴隶§!获得的£food §Y食物§! 和 £minerals §Y矿物§!增加§G+15%§!."
+tr_est_order_3_delayed:0 "为了更好地组织我们的劳动力，我们把工作计划标准化了。相同工作的两名工人不管他们工作地点如何，他们将在相同的条件下工作。"
+
+tr_est_order_4:0 "规范社会"
+tr_est_order_4_desc:0 "§Y$mod_planet_jobs_upkeep_mult$§! 减少 §G-10%§!."
+tr_est_order_4_delayed:0 "从细节上看，我们应该规范社会的运转。这确保了我们每个人都知道他们在任何情况下都能做什么。每个人都知道他们的同龄人受着同样的规则的约束，这鼓励了我们社会的信任。最后，这让我们的政府得到更好的控制，我们的文明不陷入混乱。"
+
+tr_est_order_4_auth:0 "计划生育"
+tr_est_order_4_auth_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!增加§G+20%§!."
+tr_est_order_4_auth_delayed:0 "到目前为止，生育是自由和无管制的。随着我们帝国的扩张，我们再也无法承受人口增长中的这些不确定性。每年地方政府都会制定出生新人的计划，并指定公民生产这些新人"
+
+tr_est_order_5:0 "维持秩序"
+tr_est_order_5_desc:0 "星球上每§Y15§! £pop 人口提供 §Y1§! £job_enforcer£ §Y$job_enforcer$ 职位§!."
+tr_est_order_5_delayed:0 "我们的社会没有一个组织不受益于我们政府的监督和控制。为了确保一个有效率的帝国，我们不能让任何意外甚至更糟的对独立个人或机构的粗放管理发生。"
+
+tr_est_order_5_egali:0 "权利和责任"
+tr_est_order_5_egali_desc:0 " £pop_cat_worker §Y劳工人口§!的£happiness §Y幸福度§! 和 §Y$MOD_COUNTRY_NAVAL_CAP_MULT$§! 增加 §G+10%§!."
+tr_est_order_5_egali_delayed:0 "正如每个公民都有自己的社会权利一样，他们也对自己的同龄人负有责任。一个成功的文明只能建立在执政机构和公民之间的信任基础上，他们知道他们的权利将得到保护，就像他们将履行对整个文明的责任一样。"
+
+tr_est_order_finish:0 "完成秩序传统"
+tr_est_order_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_order_adopt$使§Y人口消费品消耗§! 和 §Y住房使用§!减少§G-10%§!."
+
+### Swap - Cooperativity ###
+
+tradition_est_cooperativity:0 "协同效应"
+tradition_est_cooperativity_desc:0 "虽然每个工蜂缺乏先进的认知，但通过认知协作，他们的智能能力得到了极大的放大。通过这种方式，大量的工蜂可以完成高级任务而不需要意识的输入。"
+tr_est_cooperativity_adopt:0 "协同效应传统"
+tr_est_cooperativity_adopt_desc:0 "$tradition_est_cooperativity_desc$\n\n$tr_est_cooperativity_adopt_effect$\n\n$tr_est_cooperativity_finish_effect$"
+tr_est_cooperativity_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使至少有§Y25/50/100§!£pop §Y人口§!的星球§的Y资源产出§!增加§G+3/6/10%§!。"
+
+tr_est_cooperativity_1:0 "战士小组"
+tr_est_cooperativity_1_desc:0 "§Y$MOD_ARMY_DAMAGE_MULT$§!增加§G+20%§!且§Y$MOD_ARMY_UPKEEP_MULT$§!减少§G-10%§!."
+tr_est_cooperativity_1_delayed:0 "战士们被分成小簇，以确保战士雄蜂不会被孤立。只要他们在团体中作战，他们就可以利用协同能力来提高他们的战术意识，并提高战斗力。"
+
+tr_est_cooperativity_2:0 "工人队伍"
+tr_est_cooperativity_2_desc:0 "从§Y简单工蜂§!获得的£food §Y食物§! 和 £minerals §Y矿物§!增加§G+10%§!."
+tr_est_cooperativity_2_delayed:0 "工作工蜂分组到精心设计的团队，每个工蜂都可以为当地思维网络提供互补的心理能力。这将提高工作效率。"
+
+tr_est_cooperativity_2_machines:0 "$tr_est_cooperativity_2$"
+tr_est_cooperativity_2_machines_desc:0 "从§Y简单工蜂§!获得的£energy §Y能源§! 和 £minerals §Y矿物§!增加§G+10%§!."
+tr_est_cooperativity_2_machines_delayed:0 "$tr_est_cooperativity_2_delayed$"
+
+tr_est_cooperativity_3:0 "输入共享"
+tr_est_cooperativity_3_desc:0 "§Y领袖经验收益§!增加§G+20%§!."
+tr_est_cooperativity_3_delayed:0 "自主工蜂可以将自己融入当地的工蜂网络，参与并从输入存储的感知中学习。"
+
+tr_est_cooperativity_4:0 "认知中心"
+tr_est_cooperativity_4_desc:0 "所有领袖获得§Y认知中枢§!特性，提供小量加成。"
+tr_est_cooperativity_4_delayed:0 "自主工蜂和普通工蜂相比具有更高的认知能力。通过将自己整合到当地的工蜂网络中，他们可以大大增强他们的能力。"
+
+tr_est_cooperativity_5:0 "生长阶段"
+tr_est_cooperativity_5_desc:0 "可启用§Y生长阶段§! 星球决策, 使 §Y生长速度§! 增加 §G+50%§! 同时使 §Y人口资源产出§! 减少 §R-25%§! 并使 §Y人口食物消费§! 增加 §R+50%§!."
+tr_est_cooperativity_5_delayed:0 "为了弥补工蜂数量极少的缺点，殖民地可以进入一个特殊的生长阶段，减少工蜂的能力，但大大提高生产率。"
+
+tr_est_cooperativity_5_AI:0 "生长阶段"
+tr_est_cooperativity_5_AI_desc:0 "使§Y生长速度§!增加§G+15%§!."
+tr_est_cooperativity_5_AI_delayed:0 "为了弥补工蜂数量极少的缺点，殖民地可以进入一个特殊的生长阶段，减少工蜂的能力，但大大提高生产率。"
+
+tr_est_cooperativity_5_machines:0 "$tr_est_cooperativity_5$"
+tr_est_cooperativity_5_machines_desc:0 "可启用§Y机器人建造阶段§! 星球决策, 使 §Y机器人建筑速度§! 增加 §G+50%§! 同时使 §Y人口资源产出§! 减少 §R-25%§! 并使 §Y人口能源消费§! 增加 §R+50%§!."
+tr_est_cooperativity_5_machines_delayed:0 "$tr_est_cooperativity_5_delayed$"
+
+tr_est_cooperativity_5_AI_machines:0 "$tr_est_cooperativity_5$"
+tr_est_cooperativity_5_AI_machines_desc:0 "使§Y机器人建造速度§!增加§G+15%§!."
+tr_est_cooperativity_5_AI_machines_delayed:0 "$tr_est_cooperativity_5_delayed$"
+
+tr_est_cooperativity_finish:0 "完成协同传统"
+tr_est_cooperativity_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_cooperativity_adopt$ 使新殖民地初始带有§Y2§!额外的£pops 人口。"
+
+################################################################
+# Piracy
+################################################################
+tradition_est_piracy:0 "劫掠"
+tradition_est_piracy_desc:0 "资产属于那些足够强大可以抓住它们的人。"
+tradition_est_piracy_GC:0 "掠夺者"
+tradition_est_piracy_GC_desc:0 "$tradition_est_piracy_desc$"
+
+tr_est_piracy_adopt:0 "劫掠传统"
+tr_est_piracy_adopt_desc:0 "$tradition_est_piracy_desc$\n\n$tr_est_piracy_adopt_effect$\n\n$tr_est_piracy_finish_effect$"
+tr_est_piracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n解锁§Y$war_goal_est_wg_plunder$§!战争目标此外，§Y海盗增长§!减少§G-25%§!."
+
+tr_est_piracy_adopt_special:0 "$tr_est_piracy_adopt$"
+tr_est_piracy_adopt_special_desc:0 "$tradition_est_piracy_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
+tr_est_piracy_adopt_special_effect:0 "§E$TRADITIONS_ADOPT$:§!\tr_est_piracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n战时增加£minerals  §Y矿物§!产出 §G+20%§!。"
+
+tr_est_piracy_adopt_GC:0 "劫掠传统"
+tr_est_piracy_adopt_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_GC_effect$\n\n$tr_est_piracy_finish_effect$"
+tr_est_piracy_adopt_GC_effect:0 "§E$TRADITIONS_ADOPT$:§!\n解锁§Y$war_goal_est_wg_plunder$§!战争目标.此外，§Y舰船速度§!增加§G+10%§!."
+
+tr_est_piracy_adopt_special_GC:0 "$tr_est_piracy_adopt_GC$"
+tr_est_piracy_adopt_special_GC_desc:0 "$tradition_est_piracy_GC_desc$\n\n$tr_est_piracy_adopt_special_effect$\n\n$tr_est_piracy_finish_effect$"
+
+tr_est_piracy_1:0 "食腐动物"
+tr_est_piracy_1_desc:0 "摧毁敌方舰船和空间站提供£minerals §Y矿物§!. 数量多少取决于舰船和空间站的大小。空间站被摧毁获得的更多。"
+tr_est_piracy_1_delayed:0 "无论我们的敌人会拥有什么，即使我们将不得不从他们的尸体或舰船的残骸中夺取它，我们都会找到一切的有用的东西。"
+
+tr_est_piracy_2:0 "袭击者"
+tr_est_piracy_2_desc:0 "允许我们袭击邻国，每年获得£minerals §Y矿物§!和£energy §Y能量币§! (数量取决与各个帝国的大小). 袭击邻国将使他们的£energy §Y能量币§!产出减少§R-10%§!且他们对我们的£opinion §Y评价§!减少§R-100§!. 我们可以通过§Y$policy_est_piracy_raiding$§!政策选择袭击哪个邻国。"
+tr_est_piracy_2_AI_desc:0 "我们的£energy §Y能量币§!产出增加§G+10%§!."
+tr_est_piracy_2_delayed:0 "我们是技术娴熟的突袭者，能够将跨越边界的小型突击方派往外国帝国，攻击不设防定居点和贸易船只。我们会拿走任何我们能够找到的有价值的东西然后消失。"
+
+tr_est_piracy_3:0 "破坏者"
+tr_est_piracy_3_desc:0 "对于我们的§Y宿敌§!使£food §Y食物§!和£minerals §Y矿物§!产出减少§R-15%§!且使§Y建筑维护§!增加§R+15%§!。§Y$MOD_COUNTRY_MAX_RIVALRIES$§!增加§Y1§!."
+tr_est_piracy_3_other_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§! 增加 §G+5%§! 且§Y$MOD_COUNTRY_MAX_RIVALRIES$§! 增加 §G1§!."
+tr_est_piracy_3_delayed:0 "我们对待敌人几乎不存在爱，如果能让敌人失败我们甚至能损人不利己。为了确保这个我们会用出最卑鄙的手段。"
+
+tr_est_piracy_4:0 "无情的战士"
+tr_est_piracy_4_desc:0 "§Y$MOD_SHIP_FIRE_RATE_MULT$§!和§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+5%§!."
+tr_est_piracy_4_delayed:0 "我们是非常残忍的战士，对我们的敌人毫无怜悯之心。"
+
+tr_est_piracy_5:0 "弱肉强食"
+tr_est_piracy_5_desc:0 "所有£pop_cat_ruler §Y统治者人口的§!£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+15%§!，所有£pop_cat_worker §Y劳工§!和£pop_cat_slave §Y奴隶人口§!的§Y政治权利§!减少§G-25%§!."
+tr_est_piracy_5_slavery_desc:0 "所有£pop_cat_ruler  §Y统治者人口§! 的 £happiness  §Y$MOD_POP_HAPPINESS$§! 增加 §G+15%§! 且所有£pop_cat_worker  §Y劳工§! 和  £pop_cat_slave  §Y奴隶人口§! 的 §Y政治权力§! 减少 §G-25%§!."
+tr_est_piracy_5_delayed:0 "弱者应向弱者屈服是自然规律。"
+
+tr_est_piracy_5_nice:0 "自由的灵魂"
+tr_est_piracy_5_nice_desc:0 "§Y$MOD_POP_MIGRATION_SPEED$§!增加§G+15%§!且§Y$MOD_SHIP_SPEED_MULT$§!增加§G+10%§!."
+tr_est_piracy_5_nice_delayed:0 "生活是一场冒险，我们不会让任何事情阻碍我们。"
+
+tr_est_piracy_5_hive:0 "吞噬异族"
+tr_est_piracy_5_hive_desc:0 "在成功入侵的星球上每一个£pop §Y人口§!产生§Y10§! £food。$tr_est_piracy_2$ 传统也产生£food §Y食物§!. §Y加工产出§!增加§G+30%§!."
+tr_est_piracy_5_hive_delayed:0 "我们对吃的东西并不挑剔,有什么就吃什么。凡人的血肉会像其他一切一样美好。"
+
+tr_est_piracy_5_hive_livestock:0 "吞噬异族"
+tr_est_piracy_5_hive_livestock_desc:0 "在成功入侵的星球上每一个£pop §Y人口§!产生§Y10§! £food。$tr_est_piracy_2$ 传统也产生£food §Y食物§!. §Y加工产出§!增加§G+30%§!.§Y牲口§! 产生 §Y1§! 额外的 £food §Y食物§!."
+tr_est_piracy_5_hive_livestock_delayed:0 "我们对吃的东西并不挑剔,有什么就吃什么。凡人的血肉会像其他一切一样美好。"
+
+tr_est_piracy_5_machines:0 "再利用机器"
+tr_est_piracy_5_machines_desc:0 "在被征服的星球上生产§Y3§! 机械m£pop §Y人口§!。"
+tr_est_piracy_5_machines_delayed:0 "整个银河系中各个帝国使用着不同类型的机械。虽然一切都不如我们生产的那么好，但是肯定会有一些我们可以利用的东西？"
+
+tr_est_piracy_finish:0 "完成劫掠传统"
+tr_est_piracy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_piracy_adopt$ 使§Y陆军伤害§!增加§G+15%§!. 每当我们成功入侵一个星球将收到£minerals §Y矿物§!。此外，该星球在§Y10§!年内§Y资源产出§!减少§R-25%§!(该修饰在我们征服它后移除）."
+
+#This one is not actually displayed.
+tr_est_piracy_finish_passive_AI:0 "完成劫掠传统"
+tr_est_piracy_finish_passive_AI_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_piracy_adopt$使§Y陆军伤害§!增加§G+25%§!.每当我们成功入侵一颗星球时将收到£minerals §Y矿物§!。"
+
+################################################################
+# SPACEBORN
+################################################################
+tradition_est_spaceborn:0 "逐星"
+tradition_est_spaceborn_desc:0 "自从我们第一次看到头顶的虚空时，我们就知道那是我们真正的家。"
+
+tradition_est_spaceborn_GC:0 "$tradition_est_spaceborn$"
+tradition_est_spaceborn_GC_desc:0 "自从我们第一次看到头顶的虚空时，我们就知道那是我们真正的归属地。"
+
+tr_est_spaceborn_adopt:0 "逐星传统"
+tr_est_spaceborn_adopt_desc:0 "$tradition_est_spaceborn_desc$\n\n$tr_est_spaceborn_adopt_effect$\n\n$tr_est_spaceborn_finish_effect$"
+tr_est_spaceborn_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y星际基地容量§!§G+20%§!。"
+
+tr_est_spaceborn_adopt_GC:0 "$tr_est_spaceborn_adopt$"
+tr_est_spaceborn_adopt_GC_desc:0 "$tradition_est_spaceborn_GC_desc$\n\n$tr_est_spaceborn_adopt_effect$\n\n$tr_est_spaceborn_finish_effect$"
+
+tr_est_spaceborn_1:0 "渴望虚空"
+tr_est_spaceborn_1_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+15%§!且§Y舰船建造花费§!减少§G-5%§!."
+tr_est_spaceborn_1_delayed:0 "自从我们第一次尝到太空飞行以来，我们已经将目光从地面上升到了天空，因为我们已经在那里，我们渴望回到那里。"
+
+tr_est_spaceborn_1_GC:0 "虚空的呼唤"
+tr_est_spaceborn_1_GC_delayed:0 "宇宙的空虚，它召唤我们。只有在它的怀抱中，我们才能找到和平。"
+
+tr_est_spaceborn_2:0 "太空门户"
+tr_est_spaceborn_2_desc:0 "§Y太空港建造花费§!和§Y太空港升级花费§!减少§G-25%§!."
+tr_est_spaceborn_2_delayed:0 "现在我们终于有办法在我们的一个真正的家中建立自己。"
+
+tr_est_spaceborn_3:0 "虚空行者"
+tr_est_spaceborn_3_desc:0 "§Y舰船速度§!增加§G+25%§!."
+tr_est_spaceborn_3_delayed:0 "在漫游太空时，我们处于真正的本性中。很少有人有我们天生的天赋。"
+
+tr_est_spaceborn_4:0 "观星者"
+tr_est_spaceborn_4_desc:0 "所有有我们控制的行星的星系中的§Y星球§!产出§Y5§!额外的£energy §Y能量§!."
+tr_est_spaceborn_4_delayed:0 "孤独的光井分散在黑暗的永恒之中。这是一幅奇妙的景色，但千万不要凝视太久，否则会被它们迷人的景象所吸引。"
+
+tr_est_spaceborn_5:0 "逐星"
+tr_est_spaceborn_5_desc:0 "§Y星际基地建造花费§!减少§G-20%§!，§Y星际基地建造速度§!增加§G+50%§!. §Y星际基地模块建造花费§!减少§G-20%§!且§Y星际基地模块建造速度§!增加§G+50%§!."
+tr_est_spaceborn_5_megastruct_desc:0 "§Y星际基地建造花费§!减少§G-20%§!, §Y星际基地建造速度§!增加§G+50%§!且§Y巨型结构建造速度§!增加§G+33%§!."
+tr_est_spaceborn_5_habitat_desc:0 "§Y星际基地模块建造花费§!减少§G-20%§!且§Y星际基地模块建造速度§!增加§G+50%§!.此外，所有§Y栖息地§!的§Y$MOD_planet_jobs_produces_mult$§!增加§G+15%§!。"
+tr_est_spaceborn_5_habitat_megastruct_desc:0 "§Y巨型结构建造速度§!增加§G+33%§!且所有§Y栖息地§!的§Y$MOD_planet_jobs_produces_mult$§!增加§G+15%§!。"
+tr_est_spaceborn_5_delayed:0 "自从我们第一次进入太空，我们就知道，这是我们属于的地方。"
+
+tr_est_spaceborn_finish:0 "完成逐星传统"
+tr_est_spaceborn_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_spaceborn_adopt$使§Y矿物空间站§!和§Y研究空间站§!的§Y建筑花费§!减少§G-25%§!."
+
+################################################################
+# COLLECTIVISM/INDIVIDUALISM
+################################################################
+tradition_est_coll_indv:0 "集体/个体"
+tradition_est_coll_indv_desc:0 "只有作为更大的事物的一部分，个人才能实现真正的伟大。\n\n我们的帝国本身没有价值，只有构成它的个人才有价值。"
+tr_est_coll_indv_adopt:0 "集体主义/个人主义 传统"
+tr_est_coll_indv_adopt_desc:0 "$tradition_est_collectivism_desc$\n\n$tradition_est_individualism_desc$\n\n$tr_est_coll_indv_adopt_effect$\n\n$tr_est_coll_indv_finish_effect$"
+tr_est_coll_indv_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们的£unity §Y凝聚力§!产出增加§G+10%§!.\n\n每当一个领袖升级时，获得§Y10§! £influence  §Y影响力§!."
+
+tr_est_coll_indv_1:0 "$tr_est_collectivism_1$/$tr_est_individualism_1$"
+tr_est_coll_indv_1_desc:0 "$tr_est_collectivism_1_desc$\n\n$tr_est_individualism_1_desc$"
+tr_est_coll_indv_1_delayed:0 "$tr_est_collectivism_1_delayed$\n\n$tr_est_individualism_1_delayed$"
+
+tr_est_coll_indv_2:0 "$tr_est_collectivism_2$/$tr_est_individualism_2$"
+tr_est_coll_indv_2_desc:0 "$tr_est_collectivism_2_desc$\n\n$tr_est_individualism_2_desc$"
+tr_est_coll_indv_2_delayed:0 "$tr_est_collectivism_2_delayed$\n\n$tr_est_individualism_2_delayed$"
+
+tr_est_coll_indv_3:0 "$tr_est_collectivism_3$/$tr_est_individualism_3$"
+tr_est_coll_indv_3_desc:0 "$tr_est_collectivism_3_desc$\n\n$tr_est_individualism_3_desc$"
+tr_est_coll_indv_3_delayed:0 "$tr_est_collectivism_3_delayed$\n\n$tr_est_individualism_3_delayed$"
+
+tr_est_coll_indv_4:0 "$tr_est_collectivism_4$/$tr_est_individualism_4$"
+tr_est_coll_indv_4_desc:0 "$tr_est_collectivism_4_desc$\n\n$tr_est_individualism_4_desc$"
+tr_est_coll_indv_4_delayed:0 "$tr_est_collectivism_4_delayed$\n\n$tr_est_individualism_4_delayed$"
+
+tr_est_coll_indv_5:0 "$tr_est_collectivism_5$/$tr_est_individualism_5$"
+tr_est_coll_indv_5_desc:0 "$tr_est_collectivism_5_desc$\n\n$tr_est_individualism_5_desc$"
+tr_est_coll_indv_5_delayed:0 "$tr_est_collectivism_5_delayed$\n\n$tr_est_individualism_5_delayed$"
+
+tr_est_coll_indv_finish:0 "完成集体主义/个人主义传统"
+tr_est_coll_indv_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_collectivism_adopt$使§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+25%§!.\n\n采用所有$tr_est_individualism_adopt$ 将使所有可用领袖的初始等级提高到§Y2§!."
+
+### Swap - Collectivism ###
+tradition_est_collectivism:0 "集体主义"
+tradition_est_collectivism_desc:0 "总和大于部分。 每个人都应该把自己的利益放在一边，因为只有他们一起才能实现真正的伟大。"
+tr_est_collectivism_adopt:0 "集体主义传统"
+tr_est_collectivism_adopt_desc:0 "$tradition_est_collectivism_desc$\n\n$tr_est_collectivism_adopt_effect$\n\n$tr_est_collectivism_finish_effect$"
+tr_est_collectivism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们的£unity §Y凝聚力§!产出增加§G+10%§!."
+
+tr_est_collectivism_1:0 "拼图的一部分"
+tr_est_collectivism_1_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§!减少§G-10%§!且§Y$MOD_COUNTRY_RESETTLEMENT_COST_MULT$§!减少§G-15%§!."
+tr_est_collectivism_1_delayed:0 "每个人都只是一块，而他们所扮演的角色却很小，重要的是每一个人毫不犹豫地在更大的计划中发挥作用。"
+tr_est_collectivism_1_no_resettlement:0 "$tr_est_collectivism_1$"
+tr_est_collectivism_1_no_resettlement_desc:0 "§Y$MOD_POP_CONSUMER_GOODS_MULT$§! 减少 §G-15%§!."
+tr_est_collectivism_1_no_resettlement_delayed:0 "$tr_est_collectivism_1_delayed$"
+
+tr_est_collectivism_2:0 "团结起来"
+tr_est_collectivism_2_desc:0 "§Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§!增加§G+10%§!且我们的£unity §Y凝聚力§!产出增加§G+5%§!."
+tr_est_collectivism_2_delayed:0 "团结则存分裂则亡。只有共同才能面对银河系的挑战。"
+
+tr_est_collectivism_3:0 "合作"
+tr_est_collectivism_3_desc:0 "在没有任何§Y犯罪率§!的星球§Y资源产出§!增加§G+5%§!。"
+tr_est_collectivism_3_delayed:0 "如果存在分工和竞争，那么就不可能有真正的合作。只有通过共同努力，才能发挥我们的真正潜力。"
+
+tr_est_collectivism_4:0 "准备服务"
+tr_est_collectivism_4_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+15%§!且§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!减少§G-15%§!."
+tr_est_collectivism_4_delayed:0 "为我们的军队服务是服务我们帝国的最佳途径之一。在整个我们的疆域内，没有一个人在帝国要求他们的服务时不会来。"
+
+tr_est_collectivism_5:0 "自我牺牲"
+tr_est_collectivism_5_desc:0 "§Y$MOD_ARMY_MORALE$§!增加§G+20%§!且£pop_cat_worker §Y劳工人口§!的£happiness §Y幸福度§!增加§G+5%§!."
+tr_est_collectivism_5_delayed:0 "多数人的需求大于少数人的需求。"
+
+tr_est_collectivism_finish:0 "完成集体主义传统"
+tr_est_collectivism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_collectivism_adopt$使§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+25%§!."
+
+### Swap - Individualism ###
+
+tradition_est_individualism:0 "个人主义"
+tradition_est_individualism_desc:0 "我们的帝国本身没有价值，只有组成它的个人才有价值。"
+tr_est_individualism_adopt:0 "个人主义传统"
+tr_est_individualism_adopt_desc:0 "$tradition_est_individualism_desc$\n\n$tr_est_individualism_adopt_effect$\n\n$tr_est_individualism_finish_effect$"
+tr_est_individualism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n每当一个领袖升级，获得§Y10§! £influence §Y影响力§!."
+
+tr_est_individualism_1:0 "追崇独创性"
+tr_est_individualism_1_desc:0 "§Y科学家等级上限§!增加§Y1§!. 此外，每当一个§Y科学家§!升级，一年内奖励一个类别里的的§Y研究速度§!增加§G+50%§! 同时使他们的Y异常点发现几率§!增加§G+25%§!."
+tr_est_individualism_1_delayed:0 "独创力的特质在我们的科学界受到尊重，拥有它的人受到尊重，并且在追求知识方面获得全力支持。"
+
+tr_est_individualism_1_AI:0 "$tr_est_individualism_1$"
+tr_est_individualism_1_AI_desc:0 "§Y$MOD_LEADER_SCIENTIST_SKILL_LEVELS$§! 和 §Y科学家初始等级§! 增加 §Y1§!."
+tr_est_individualism_1_AI_delayed:0 "$tr_est_individualism_1_delayed$"
+
+tr_est_individualism_2:0 "人才培养"
+tr_est_individualism_2_desc:0 "§Y舰队司令初始等级§!增加§Y1§!. 此外，每当一个§Y舰队司令§!升级时，一年内奖励他们的§Y$MOD_SHIP_SPEED_MULT$§!, §Y$MOD_SHIP_FIRE_RATE_MULT$§!和§Y$MOD_SHIP_INTERSTELLAR_SPEED_MULT$§!增加§G+25%§!."
+tr_est_individualism_2_delayed:0 "我们将把最有才能的个人晋升到军队内最有权力的阵地。作为高级官员，他们可以利用他们独特的技能来帮助我们的帝国。"
+
+tr_est_individualism_2_AI:0 "$tr_est_individualism_2$"
+tr_est_individualism_2_AI_desc:0 "§Y$MOD_LEADER_ADMIRAL_SKILL_LEVELS$§! 和 §Y舰队司令初始等级§! 增加 §Y1§!."
+tr_est_individualism_2_AI_delayed:0 "$tr_est_individualism_2_delayed$"
+
+tr_est_individualism_3:0 "能者居之"
+tr_est_individualism_3_desc:0 "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!增加§Y1§!.此外，每当我们的§Y统治者§!升级, 一年内减少§Y建筑§!, §Y陆军§!, §Y舰船§!, §Y星际基地§!和§Y清理障碍物§!的花费§G-15%§!."
+tr_est_individualism_3_delayed:0 "只有最有成就的人才能被允许统治我们的帝国。只有那些技术娴熟的人才会被选为这个崇高的任务。"
+
+tr_est_individualism_3_AI:0 "$tr_est_individualism_3$"
+tr_est_individualism_3_AI_desc:0 "§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!增加§2§!."
+tr_est_individualism_3_AI_delayed:0 "$tr_est_individualism_3_delayed$"
+
+tr_est_individualism_4:0 "事业追求"
+tr_est_individualism_4_desc:0 "§Y领袖维护费§! 减少 §G-20%§! 且 §Y$MOD_LEADER_SKILL_LEVELS$§! 增加 §Y1§!."
+tr_est_individualism_4_delayed:0 "我们的帝国充满了追求事业生涯的人，他们梦想达到他们的职业顶峰，并将尽其所能到达那里。"
+
+tr_est_individualism_5:0 "个人抱负"
+tr_est_individualism_5_desc:0 "移民增长率增加 §G+25%§! 且 §Y领袖经验收益§! 增加 §G+20%§!."
+tr_est_individualism_5_delayed:0 "每个人都有自己的野心以及尝试和实现它们的动力。"
+
+tr_est_individualism_finish:0 "完成个人主义传统"
+tr_est_individualism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_individualism_adopt$使£pop_cat_ruler §Y统治者人口§!的§Y政治权利§! 和 §Y资源产出§!增加§G+50%§!."
+
+### Swap - Perseverance ###
+tradition_est_perseverance:0 "毅力"
+tradition_est_perseverance_desc:0 "时间的折磨，失败的痛苦，我们的敌人的武器，这个银河系的冷漠。我们将忍受这一切。"
+
+tr_est_perseverance_adopt:0 "毅力传统"
+tr_est_perseverance_adopt_desc:0 "$tradition_est_perseverance_desc$\n\n$tr_est_perseverance_adopt_effect$\n\n$tr_est_perseverance_finish_effect$"
+tr_est_perseverance_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HITPOINTS_MULT$§!和§Y$MOD_ARMY_HEALTH$§!增加§G+10%§!."
+
+tr_est_perseverance_adopt_machines:0 "毅力传统"
+tr_est_perseverance_adopt_machines_desc:0 "$tradition_est_perseverance_desc$\n\n$tr_est_perseverance_adopt_effect$\n\n$tr_est_perseverance_finish_machines_effect$"
+
+tr_est_perseverance_1:0 "耐力"
+tr_est_perseverance_1_desc:0 "§Y$MOD_SHIP_ARMOR_MULT$§!增加§G+15%§!。此外，使所有星球的§Y轰炸伤害§!减少§G-60%§!(有£building §Y$building_planetary_shield_generator$§!建筑的星球减少§G-15%§!)."
+tr_est_perseverance_1_delayed:0 "无论我们的敌人如何试图击败我们，我们都不会崩溃。无论我们的身心受到什么伤害，我们都会忍受。"
+
+tr_est_perseverance_2:0 "坚持不懈"
+tr_est_perseverance_2_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!增加§G+15%§!."
+tr_est_perseverance_2_delayed:0 "我们的态度就像潮水一样不可避免和不变。一旦作出决定，就不需要犹豫或思考，只需要执行面前的任务。"
+
+tr_est_perseverance_3:0 "防守者"
+tr_est_perseverance_3_desc:0 "§Y防御平台上限§! 增加 §G3§! 且 §Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§! 增加 §G+25%§!."
+tr_est_perseverance_3_delayed:0 "进攻可以赢得战斗甚至战争，但只有在防守的军事基础上，我们才能建立一个经得起时间考验的帝国。"
+
+tr_est_perseverance_4:0 "持久"
+tr_est_perseverance_4_desc:0 "§Y战争厌战度收入§!减少§G-25%§!."
+tr_est_perseverance_4_delayed:0 "来吧，可能所有的坏运气都会被耐力征服。"
+
+tr_est_perseverance_5:0 "复仇主义"
+tr_est_perseverance_5_desc:0 "从§Y宿敌§!获得的£influence §Y影响力收入§!增加§G+10%§!.此外，当我们输掉一场战争时在§Y10§!年内我们的§Y资源产出§!和§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+10%§!。"
+tr_est_perseverance_5_delayed:0 "强者和弱者之间的差异是有没有放弃。"
+
+tr_est_perseverance_5_no_rivals:0 "$tr_est_perseverance_5$"
+tr_est_perseverance_5_no_rivals_desc:0 "§Y战争厌战度收入§!减少§G-5%§!.此外，当我们输掉一场战争时在§Y20§!年内我们的§Y资源产出§!和§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+10%§!。"
+tr_est_perseverance_5_no_rivals_delayed:0 "$tr_est_perseverance_5_delayed$"
+
+tr_est_perseverance_finish:0 "完成毅力传统"
+tr_est_perseverance_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_perseverance_adopt$使§Y$MOD_LEADER_AGE$§!增加§Y25§!."
+tr_est_perseverance_finish_machines:0 "完成毅力传统"
+tr_est_perseverance_finish_machines_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_perseverance_adopt$ 使§Y$MOD_SHIP_HITPOINTS_MULT$§!增加§G+15%§!."

@@ -1,0 +1,156 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr16_planet_modifier:0 "远古图书馆"
+ apsr16_planet_modifier_desc:0 "这整个星球是一个由古老文明收集的知识的整体档案。不幸的是，它很久以前就毁了，但现在有机会修复它。"
+ 
+ apsr16_deposit:0 "$apsr16_planet_modifier$"
+ apsr16_deposit_desc:0 "$apsr16_planet_modifier_desc$\n\n§M$apsr16_deposit_effect$§!" 
+ apsr16_deposit_effect:0 "独特的资源可用: $apsr16_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr16_building_part1_text:0 "古人昔日荣耀的影子"
+ 
+ apsr16_building_part2_text:0 "一小部分重建的知识档案"
+ 
+ apsr16_building_part3_text:0 "部分重建的知识档案"
+ 
+ apsr16_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr16_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr16_building_part1:0 "远古图书馆: 蓝图"
+ apsr16_building_part1_desc:0 "$apsr16_building_predesc$\n$apsr16_building_part1_text$"
+ 
+ apsr16_building_part2:0 "远古图书馆: 部分"
+ apsr16_building_part2_desc:0 "$apsr16_building_predesc$\n$apsr16_building_part2_text$"
+ 
+ apsr16_building_part3:0 "远古图书馆"
+ apsr16_building_part3_desc:0 "$apsr16_building_predesc$\n$apsr16_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr16_building_part1_fake:0 "$apsr16_building_part1$"
+ apsr16_building_part1_fake_desc:0 "$apsr16_building_fake_predesc$\n$apsr16_building_part1_text$"
+ 
+ apsr16_building_part2_fake:0 "$apsr16_building_part2$"
+ apsr16_building_part2_fake_desc:0 "$apsr16_building_fake_predesc$\n$apsr16_building_part2_text$"
+ 
+ apsr16_building_part3_fake:0 "$apsr16_building_part3$"
+ apsr16_building_part3_fake_desc:0 "$apsr16_building_fake_predesc$\n$apsr16_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr16_building_part1:0 "重拾古人的荣耀: 阶段 1"
+ tech_apsr16_building_part1_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ tech_apsr16_building_part2:0 "重拾古人的荣耀: 阶段 2"
+ tech_apsr16_building_part2_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ tech_apsr16_building_part3:0 "重拾古人的荣耀: 阶段 3"
+ tech_apsr16_building_part3_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.16001.title:0 "$apsr16_building_part1$ completed"
+ apsr.16001.desc:0 "我们已经重建了第一个§Y$apsr16_building_part1$§!，这只是恢复古人昔日荣耀的第一步"
+ apsr.16001.ok-button:0 "完美"
+ 
+ apsr.16002.title:0 "$apsr16_building_part2$ completed"
+ apsr.16002.desc:0 "我们重建了第一个§Y$apsr16_building_part2$§!!这确实是科学和研究古人文明的一大突破!"
+ apsr.16002.ok-button:0 "完美"
+ 
+ apsr.16003.title:0 "$apsr16_building_part3$ completed"
+ apsr.16003.desc:0 "我们已经在一定程度上重建了§Y远古图书馆§!，并获得了古人的技术!"
+ apsr.16003.ok-button:0 "完美"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.16011.title:0 "发现一个人造物: §M$apsr16_planet_modifier$§!"
+ apsr.16011.desc:0 "科学船§H[Root.GetLeaderName]§!§H[Root.GetName]§!领导的研究小组发现了一些奇怪的东西。\n整个星球是一个由古老文明收集的知识的整体档案。不幸的是，它很久以前就毁了，但现在有机会修复它。"
+ apsr.16011.button:1 "我们必须得到这个东西!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.16013.title:0 "发现一个人造物: §M$apsr16_planet_modifier$§!"
+ apsr.16013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n整个星球是一个由古老文明收集的知识的整体档案。不幸的是，它很久以前就毁了，但现在有机会修复它。"
+ apsr.16013.button:1 "很好!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.16015.title:0 "发现人造物: §M$apsr16_planet_modifier$§!"
+ apsr.16015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\nOn one of the planets is an archive of knowledge of the once existing civilization. Unfortunately for a long time destroyed, but to be restored.\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr16_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr16_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr16_resource_planet.Owner.GetName]"
+ apsr.16015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr16_special:0 "$apsr16_planet_modifier$"
+ apsr16_special_desc:0 "$apsr16_planet_modifier_desc$"
+ 
+ APSR16_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR16_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr16_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr16_anomaly:0 "有趣的数据"
+ apsr16_anomaly_desc:0 "在对[From.GetName]行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.16601.title:0 "$apsr.16011.title$"
+ apsr.16601.desc:0 "$apsr.16011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr16_planet_scientist_normal:0 "远古图书馆科学家"
+ job_apsr16_scientist_normal:0 "远古图书馆科学家"
+ job_apsr16_scientist_normal_plural:0 "远古图书馆科学家"
+ job_apsr16_scientist_normal_desc:0 "科学家分析远古图书馆探索档案古代文明遗留下来的知识、技术和信息。"
+ mod_job_apsr16_scientist_normal_add:0 "远古图书馆科学家"
+   
+ apsr16_planet_scientist_hive:0 "远古图书馆科学工蜂"
+ job_apsr16_scientist_hive:0 "远古图书馆科学工蜂"
+ job_apsr16_scientist_hive_plural:0 "远古图书馆科学工蜂"
+ job_apsr16_scientist_hive_desc:0 "科学工蜂分析远古图书馆探索档案古代文明遗留下来的知识、技术和信息。"
+ mod_job_apsr16_scientist_hive_add:0 "远古图书馆科学工蜂"
+   
+ apsr16_planet_scientist_machine:0 "远古图书馆科学单元"
+ job_apsr16_scientist_machine:0 "远古图书馆科学单元"
+ job_apsr16_scientist_machine_plural:0 "远古图书馆科学单元"
+ job_apsr16_scientist_machine_desc:0 "科学单元分析远古图书馆探索档案古代文明遗留下来的知识、技术和信息。"
+ mod_job_apsr16_scientist_machine_add:0 "远古图书馆科学单元"
+ 
+ 
+ 
+ 
+ 

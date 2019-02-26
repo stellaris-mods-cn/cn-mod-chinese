@@ -1,0 +1,156 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr20_planet_modifier:0 "远古娱乐综合体"
+ apsr20_planet_modifier_desc:0 "这个星球是一个古老文明的娱乐场所。不幸的是，大部分建筑群已经被破坏了很长一段时间，但我们有机会修复它。"
+ 
+ apsr20_deposit:0 "$apsr20_planet_modifier$"
+ apsr20_deposit_desc:0 "$apsr20_planet_modifier_desc$\n\n§M$apsr20_deposit_effect$§!" 
+ apsr20_deposit_effect:0 "独特的资源可用: $apsr20_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr20_building_part1_text:0 "古人昔日荣耀的影子"
+ 
+ apsr20_building_part2_text:0 "修复后的远古娱乐综合体的一小部分"
+ 
+ apsr20_building_part3_text:0 "部分修复的远古娱乐综合体"
+ 
+ apsr20_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr20_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr20_building_part1:0 "远古娱乐综合体: 蓝图"
+ apsr20_building_part1_desc:0 "$apsr20_building_predesc$\n$apsr20_building_part1_text$"
+ 
+ apsr20_building_part2:0 "远古娱乐综合体: 部分"
+ apsr20_building_part2_desc:0 "$apsr20_building_predesc$\n$apsr20_building_part2_text$"
+ 
+ apsr20_building_part3:0 "远古娱乐综合体"
+ apsr20_building_part3_desc:0 "$apsr20_building_predesc$\n$apsr20_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr20_building_part1_fake:0 "$apsr20_building_part1$"
+ apsr20_building_part1_fake_desc:0 "$apsr20_building_fake_predesc$\n$apsr20_building_part1_text$"
+ 
+ apsr20_building_part2_fake:0 "$apsr20_building_part2$"
+ apsr20_building_part2_fake_desc:0 "$apsr20_building_fake_predesc$\n$apsr20_building_part2_text$"
+ 
+ apsr20_building_part3_fake:0 "$apsr20_building_part3$"
+ apsr20_building_part3_fake_desc:0 "$apsr20_building_fake_predesc$\n$apsr20_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr20_building_part1:0 "重拾古人的荣耀: 阶段 1"
+ tech_apsr20_building_part1_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ tech_apsr20_building_part2:0 "重拾古人的荣耀: 阶段 2"
+ tech_apsr20_building_part2_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ tech_apsr20_building_part3:0 "重拾古人的荣耀: 阶段 3"
+ tech_apsr20_building_part3_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.20001.title:0 "$apsr20_building_part1$ 建成"
+ apsr.20001.desc:0 "我们已经建立了第一个§Y$apsr20_building_part1$§!，这只是恢复古人昔日荣耀的开始"
+ apsr.20001.ok-button:0 "完美"
+ 
+ apsr.20002.title:0 "$apsr20_building_part2$ 建成"
+ apsr.20002.desc:0 "我们重建了第一个§Y$apsr20_building_part2$§!!这在文化和研究古人方面确实是一个突破"
+ apsr.20002.ok-button:0 "完美"
+ 
+ apsr.20003.title:0 "$apsr20_building_part3$ 建成"
+ apsr.20003.desc:0 "我们部分恢复了§Y远古娱乐综合体§!并接触到了古人的文化"
+ apsr.20003.ok-button:0 "完美"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.20011.title:0 "发现一个人造物: §M$apsr20_planet_modifier$§!"
+ apsr.20011.desc:0 "§H[Root.GetName]§!上的§H[Root.GetLeaderName]§!领导的一个研究小组发现了一些奇怪的东西。这个星球是一个古老文明的娱乐场所。不幸的是，大部分建筑在很久以前就被毁了，但我们有机会修复它"
+ apsr.20011.button:1 "我们必须得到这个东西!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.20013.title:0 "发现一个人造物: §M$apsr20_planet_modifier$§!"
+ apsr.20013.desc:0 "在最近被占领的一颗行星上，发现了一些奇特的东西。 \n这个星球是一个古老文明的娱乐场所。不幸的是，大部分建筑在很久以前就被毁了，但我们有机会修复它"
+ apsr.20013.button:1 "很好!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.20015.title:0 "发现人造物: §M$apsr20_planet_modifier$§!"
+ apsr.20015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\nOn one of the planets is the cultural complex of the once existing civilization. Unfortunately for a long time destroyed, but to be restored.\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr20_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr20_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr20_resource_planet.Owner.GetName]"
+ apsr.20015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr20_special:0 "$apsr20_planet_modifier$"
+ apsr20_special_desc:0 "$apsr20_planet_modifier_desc$"
+ 
+ APSR20_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR20_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr20_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr20_anomaly:0 "有趣的数据"
+ apsr20_anomaly_desc:0 "在对[From.GetName]行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.20601.title:0 "$apsr.20011.title$"
+ apsr.20601.desc:0 "$apsr.20011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr20_planet_servant_normal:0 "服务人员"
+ job_apsr20_servant_normal:0 "管理员"
+ job_apsr20_servant_normal_plural:0 "服务人员""
+ job_apsr20_servant_normal_desc:0 "员工的行政负担是巨大的，有必要考虑到不同种族的许多文化特征"
+ mod_job_apsr20_servant_normal_add:0 "管理员"
+   
+ apsr20_planet_servant_hive:0 "服务工蜂"
+ job_apsr20_servant_hive:0 "服务工蜂"
+ job_apsr20_servant_hive_plural:0 "服务工蜂"
+ job_apsr20_servant_hive_desc:0 "工蜂，拥有组织才能，能够与不同的文化和社会范式同时互动"
+ mod_job_apsr20_servant_hive_add:0 "服务工蜂"
+   
+ apsr20_planet_servant_machine:0 "服务单元"
+ job_apsr20_servant_machine:0 "服务单元"
+ job_apsr20_servant_machine_plural:0 "服务单元"
+ job_apsr20_servant_machine_desc:0 "单元，拥有组织才能，能够与不同的文化和社会范式同时互动"
+ mod_job_apsr20_servant_machine_add:0 "服务单元"
+ 
+ 
+ 
+ 
+ 

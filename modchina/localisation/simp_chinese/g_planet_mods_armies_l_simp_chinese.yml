@@ -1,0 +1,50 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Armies
+ ###################################################
+ 
+ # normal
+ # 1 army
+ gpm_precursor_mech_army:0 "废弃的先驱者机甲"
+ gpm_precursor_mech_army_plural:0 "废弃的先驱者机甲"
+ gpm_precursor_mech_army_desc:0 "回收先驱者机甲耗费了我们很多资源，但我们还是成功了！这个耸立在殖民地之上的巨大兵器成为了一道景象。遗憾的是，这个机载武器庞大的体积意味着我们只能用它进行防御工事。"
+ 
+ precursor_mech_army_trigger_tooltip:0 "§B只能在拥有先驱者机甲的星球上建造。§!"
+ 
+ # 2 army
+ gpm_precursor_bunker_army:0 "先驱者地堡"
+ gpm_precursor_bunker_army_plural:0 "先驱者地堡"
+ gpm_precursor_bunker_army_desc:0 "回收先驱者地堡后，我们发现这个星球上的地堡网络拥有惊人的复杂性。这显然是先进的人工智能设计的产物。似乎每个地堡都是一个自我维护的系统，而我们可以利用它来发挥我们的优势。几乎无法摧毁的墙体意味着我们的敌人需要几个月才能突破。只要有足够的地堡掩体，我们就可以无期限地抵御敌对势力的入侵。"
+ 
+ precursor_bunker_army_trigger_tooltip:0 "§B只能在拥有先驱者地堡的星球上建造。§!"
+ 
+ # 3 army
+ gpm_giant_arachnid_army:0 "巨型蜘蛛部队"
+ gpm_giant_arachnid_army_plural:0 "巨型蜘蛛部队"
+ gpm_giant_arachnid_army_desc:0 "我们用鲜血、汗水和泪水...好吧，大部分是血和泪来设法驯服了蜘蛛群！我们通过一种植入控制器来操纵这些巨大的蛛形纲生物。它们试图捕食任何它们眼前的东西。从近地轨道上空降蜘蛛大军不仅足够吓人，并足以为我们赢得战争的胜利！"
+ 
+ giant_arachnid_army_trigger_tooltip:0 "§B只能在拥有巨型蜘蛛部队的星球上建造。§!\n§R只能拥有5个§!"
+ 
+ # new 1.9
+ # Machine Empire
+ # 1 army
+ gpm_precursor_mech_army_machine:0 "改造先驱者机甲"
+ gpm_precursor_mech_army_machine_plural:0 "改造先驱者机甲"
+ gpm_precursor_mech_army_machine_desc:0 "改造先驱者机甲，是将这些机甲作为基础，然后在上面集成了大量属于我们的系统。在必要的地方，我们依靠人工的关节和肌肉来运作。另外，为了让这些机甲可以再度运行，我们为它安装了一个新的电源和控制单元。"
+ 
+ precursor_mech_army_machine_trigger_tooltip:0 "§B只能在拥有先驱者机甲的星球上建造。§!"
+ 
+ # 2 army
+ gpm_precursor_bunker_army_machine:0 "先驱者地堡群"
+ gpm_precursor_bunker_army_machine_plural:0 "先驱者地堡群"
+ gpm_precursor_bunker_army_machine_desc:0 "回收先驱者地堡群后，我们发现这个星球上的地堡网络拥有惊人的复杂性。这显然是先进的人工智能设计的产物。似乎每个地堡都是一个自我维护的系统，而我们可以利用它来发挥我们的优势。几乎无法摧毁的墙体意味着我们的敌人需要几个月才能突破。只要有足够的地堡掩体，我们就可以无期限地抵御敌对势力的入侵。通过引入自给自足的无人机群，我们可以确保网络中的每个掩体都能消除潜在的入侵者。"
+ 
+ precursor_bunker_army_machine_trigger_tooltip:0 "§B只能在拥有先驱者地堡的星球上建造。§!"
+ 
+ # 3 army
+ gpm_giant_arachnid_army_machine:0 "可控蜘蛛群"
+ gpm_giant_arachnid_army_machine_plural:0 "可控蜘蛛群"
+ gpm_giant_arachnid_army_machine_desc:0 "在这些蛛形纲动物上使用大量的控制机构和植入机器后，我们成功地控制了这些暴力生物。快速繁殖确保这些生物的大量供应。它们就像一组紧密的、迅速移动的蜂群一样，在任何情况下都能确保我们战胜敌人。"
+ 
+ giant_arachnid_army_machine_trigger_tooltip:0 "§B只能在拥有巨型蜘蛛部队的星球上建造。§!\n§R只能拥有5个§!"

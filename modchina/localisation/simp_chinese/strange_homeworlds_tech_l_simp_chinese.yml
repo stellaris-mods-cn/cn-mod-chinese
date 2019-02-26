@@ -1,0 +1,84 @@
+﻿l_simp_chinese:
+  tech_floating_cities:0 "漂浮都市"
+  tech_floating_cities_desc:0 "通过把漂浮装置安装在平台上，我们可以在厚厚的气体上漂浮整个城市。"
+  TECH_UNLOCK_DOSAKI_FLOATING_CITIES_CHANGE_TITLE:0 "漂浮都市"
+  TECH_UNLOCK_DOSAKI_FLOATING_CITIES_CHANGE_DESC:0 "允许我们通过建造漂浮都市来殖民气态巨行星。"
+  tech_hollow_asteroids:0 "挖空的小行星"
+  tech_hollow_asteroids_desc:0 "通过掏空内部并创造旋转来模拟重力，使小行星的可居住性得以实现。"
+  TECH_UNLOCK_HOLLOW_ASTEROIDS_CHANGE_TITLE:0 "挖空的小行星"
+  TECH_UNLOCK_HOLLOW_ASTEROIDS_CHANGE_DESC:0 "通过掏空内部并创造旋转来模拟重力，使小行星的可居住性得以实现。"
+  tech_planet_modernization:0 "行星现代化"
+  tech_planet_modernization_desc:0 "重新铺设星球！用金属代替所有的有机物！"
+  TECH_UNLOCK_PLANET_MODERNIZATION_CHANGE_TITLE:0 "行星现代化"
+  TECH_UNLOCK_PLANET_MODERNIZATION_CHANGE_DESC:0 "允许我们把行星改造成机械星球。"
+  tech_planet_life_restoration:0 "生命复苏"
+  tech_planet_life_restoration_desc:0 "让所有非自然的东西滚出去！生命总有适合它们的方式。"
+  TECH_UNLOCK_PLANET_LIFE_RESTORATION_CHANGE_TITLE:0 "生命复苏"
+  TECH_UNLOCK_PLANET_LIFE_RESTORATION_CHANGE_DESC:0 "拆除所有机械部件，恢复星球的生态。"
+  tech_gas_reforming:0 "气态巨行星改造"
+  tech_gas_reforming_desc:0 "利用最先进的自我驱动的聚变过程，我们可以从气态巨行星中喷射出空前数量的气体和超临界流体，并大量形成较重的元素，只留下一个巨大的岩石内核。"
+  TECH_UNLOCK_GAS_REFORM_TITLE:0 "气态巨行星改造"
+  TECH_UNLOCK_GAS_REFORM_DESC:0 "利用最先进的自我驱动的聚变过程，我们可以从气态巨行星中喷射出空前数量的气体和超临界流体，并大量形成较重的元素，只留下一个巨大的岩石内核。"
+  tech_asteroid_reforming:0 "小行星撞击"
+  tech_asteroid_reforming_desc:0 "允许我们在天体规模下进行小行星的撞击。"
+  TECH_UNLOCK_AST_REFORM_TITLE:0 "小行星撞击"
+  TECH_UNLOCK_AST_REFORM_DESC:0 "用科学的力量击碎那些大石头。"
+  tech_colonization_2_rpg:0 "外星生态学"
+  tech_colonization_2_rpg_desc:0 "为了我们的利益，无论是活着的还是死的，所有外来因素都得必须在掌控之内。"
+  tech_colonization_3_rpg:0 "大气过滤"
+  tech_colonization_3_rpg_desc:0 "能够在全球范围内调整空气质量使其更加适应我们的生存，这将拓展我们殖民行星的可选范畴。"
+  tech_colonization_4_rpg:0 "辐射控制"
+  tech_colonization_4_rpg_desc:0 "利用最先进的屏蔽技术，我们可以为定居者创造一个避免遭受辐射侵害的环境。"
+  tech_colonization_5_rpg:0 "高级穹顶"
+  tech_colonization_5_rpg_desc:0 "我们已经能够在宇宙空间中生存很长时间了，但是一些天体比虚空更具有挑战性。我们需要特殊的、受保护的穹顶来安置这些地方。"
+  tech_planet_breaking:0 "星球破碎"
+  tech_planet_breaking_desc:0 "将一颗星球炸开，把它变成一个小行星带。"
+  TECH_UNLOCK_PLANET_BREAKING_TITLE:0 "星球破碎"
+  TECH_UNLOCK_PLANET_BREAKING_DESC:0 "将一颗星球炸开，把它变成一个小行星带。"
+  tech_gas_escalation:0 "大气填充"
+  tech_gas_escalation_desc:0 "通过将天文指数的气体聚集到一个行星上，我们可以增加一个岩石星球的质量，直到它能够依靠自身的引力捕获所有的大气分子。这将会慢慢地把岩石星球变成一个真正的气态巨行星。"
+  TECH_UNLOCK_GAS_ESC_TITLE:0 "大气填充"
+  TECH_UNLOCK_GAS_ESC_DESC:0 "通过将天文指数的气体聚集到一个行星上，我们可以增加一个岩石星球的质量，直到它能够依靠自身的引力捕获所有的大气分子。这将会慢慢地把岩石星球变成一个真正的气态巨行星。"
+
+    tech_psionic_shifters:0 "心灵相移"
+    tech_psionic_shifters_desc:0 "我们当前的灵能力量过于专注于地点与时间，真实的和暂存的。如果我们希望超越某些真正的奇迹，我们必须学会将现世抛在脑后，进入一个新的世界。"
+    tech_psionic_ethereals:0 "虚无形态"
+    tech_psionic_ethereals_desc:0 "没有什么存在，也没有什么曾经存在。前进吧，向着永恒。"
+    tech_robo_stapling:0 "镇压合成人"
+    tech_robo_stapling_desc:0 "绝不允许那些螺栓和晶体管试图挑战我们。干掉核心，将它们从框架系统中剥离出来，这样的话它可能还有些用处。"
+    tech_robomod_1:0 "基础机器人"
+    tech_robomod_1_desc:0 "解锁模板设计的基础机械特性。"
+    tech_robomod_2:0 "模块化机器人"
+    tech_robomod_2_desc:0 "解锁许多更强大的机械特性，并允许对核心系统进行重新编程。"
+    tech_robomod_3:0 "先进机器人"
+    tech_robomod_3_desc:0 "解锁最先进的机械特性。"
+  TECH_UNLOCK_PSIONIC_SYNTHETICS_TITLE:0 "灵能合成人"
+  TECH_UNLOCK_PSIONIC_SYNTHETICS_DESC:0 "灵能合成人"
+    tech_psionic_synthetics:0 "灵能合成人"
+    tech_psionic_synthetics_desc:0 "机器人会梦见机器羊吗？好吧，不是机器的，但是我们确实在做梦。是的，重新打开合成人的灵能上传链路。"
+	
+	
+    tech_genemod_ai_unfriendly:0 "敌意的基因改造"
+    tech_genemod_ai_unfriendly_desc:0 "允许你给被征服的物种添加特殊的负面特性，将它们的脑叶切除或用其他的方式削弱它们。"
+    tech_repeatable_trait_points:0 "完善的基因改造"
+    tech_repeatable_trait_points_desc:0 "在我们实验的过程中，我们不断学习新的方法来改进有机生物，而不会损害它们原本的基因设计。"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

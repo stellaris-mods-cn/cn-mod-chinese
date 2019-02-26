@@ -1,0 +1,31 @@
+﻿l_simp_chinese:
+
+ tr_expansion_voyagers:0 "星际旅行者"
+    tr_expansion_voyagers_desc:0 "每当建立一个前哨基地，就会获得3个月的 £unity  §Y凝聚力§!产量。此外，我们还将获得 £physics  §Y$tech_wormhole_stabilization$§! 技术。"
+    tr_expansion_voyagers_delayed:0 "我们受万德之欲望的驱使。星星在召唤我们，我们将跟随。"
+ 
+ tr_expansion_migrant_fleets:0 "移民舰队"
+    tr_expansion_migrant_fleets_desc:0 "§Y迁移速度§!增加 §G+50%§! 和 §Y移民成本§! 减少 §G-25%§!. 此外， §Y锚地§! 增加 §Y1§! 额外的 §Y海军容量§!."
+    tr_expansion_migrant_fleets_delayed:0 "我们的海军是我们社会的中坚力量。在人口和军事上，它把我们的远近的星系结合在一起。这是我们的力量。"
+     
+ tr_expansion_subspace_ansibles:0 "子空间结构"
+    tr_expansion_subspace_ansibles_desc:0 "星系数量增加对§Y$TRADITION_COST$§!的影响减少§G100%§!。"
+    tr_expansion_subspace_ansibles_delayed:0 "高带宽的子空间的开发使得星系之间的通信更加有效。"
+    
+ tr_expansion_adopt_void_dwellers:0 "$tr_expansion_adopt$"
+ tr_expansion_adopt_void_dwellers_desc:0 "$tradition_expansion_desc$\n\n$tr_expansion_adopt_void_dwellers_effect$\n\n$tr_expansion_finish_void_dwellers_effect$"
+ tr_expansion_adopt_void_dwellers_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$shipsize_starbase_outpost_build_cost_mult$§!减少§G20%§!."
+ tr_expansion_finish_void_dwellers_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所以$tr_expansion_adopt_void_dwellers$ 减少§Y空白住处§!§G20%§! £influence  §Y影响力§! 的成本。"
+ 
+ tr_prosperity_adopt_void_dwellers:0 "$tr_prosperity_adopt$"
+ tr_prosperity_adopt_void_dwellers_desc:0 "$tradition_prosperity_desc$\n\n$tr_prosperity_adopt_void_dwellers_effect$\n\n$tr_prosperity_finish_void_dwellers_effect$"
+ tr_prosperity_adopt_void_dwellers_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§! 和 §Y$MOD_COUNTRY_MINING_STATION_COST_MULT$§! 减少§G15%§!."
+ tr_prosperity_finish_void_dwellers_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_prosperity_adopt$ 减少 §G25%§! §Y$shipsize_mining_station_upkeep_mult$§! ."
+ 
+ tr_diplomacy_adaptive_aquaponics:0 "自适应共生"
+    tr_diplomacy_adaptive_aquaponics_desc:0 "§Y£food  食物产出§! 增加§G+10%§!. 此外, §Y水培法海湾§! 产出额外的 §Y3§!  £food  食物。"
+    tr_diplomacy_adaptive_aquaponics_delayed:0 "通过建立闭环生态系统，将剩余生物量转化为有用的营养物质，可以大大提高水培单位的效率。"
+    
+ tr_diplomacy_port_authorities:0 "港务局"
+    tr_diplomacy_port_authorities_desc:0 "§H解锁建筑:§! $building_port_authority$"
+    tr_diplomacy_port_authorities_delayed:0 "建立一个半独立的组织，致力于运营我们的港口，有潜力提高运输效率。"

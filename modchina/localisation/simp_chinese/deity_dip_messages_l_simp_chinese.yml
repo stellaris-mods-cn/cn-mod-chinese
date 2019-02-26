@@ -1,0 +1,82 @@
+﻿l_simp_chinese:
+####################################
+ # Diplomacy text
+ ####################################
+ 
+ # Blood God
+ BG_HOSTILE_GREETING_01:0 "为什么是他们的朋友，什么风把你带到了[Root.GetRulerTitle]的法庭上。来点点心，来点……§R血§!。"
+ BG_HOSTILE_GREETING_02:0 "你们这个的物种不是很可爱，我可以把你们都§R吃掉§!！"
+ BG_HOSTILE_GREETING_03:0 "没必要害怕……的朋友。"
+ BG_HOSTILE_GREETING_04:0 "你知道，献血是一个不同的原因……特别是对那些需要它的人。"
+ BG_HOSTILE_GREETING_05:0 "你能快点吗?[From.GetRulerName]，我有个祭会要参加。"
+ BG_HOSTILE_GREETING_11:0 "Tut Tut Tut。真是浪费，没有血，只有金属，真悲哀。"
+ BG_HOSTILE_GREETING_12:0 "不要跟我说话，油，我要血。"
+ BG_HOSTILE_GREETING_13:0 "没有灵魂的机器，[From.GetSpeciesName]。你对我毫无用处。"
+ BG_HOSTILE_GREETING_14:0 "你想要什么，油……金属…电线……唉,太失望了!"
+ BG_HOSTILE_GREETING_15:0 "这是你献的祭物吗。不,谢谢,真的……"
+ BG_HOSTILE_GREETING_21:0 "."
+ BG_HOSTILE_GREETING_22:0 "."
+ BG_HOSTILE_GREETING_23:0 "."
+ BG_HOSTILE_GREETING_24:0 "."
+ BG_HOSTILE_GREETING_25:0 "."
+ BG_DOMINEERING_GREETING_01:0 "你知道的，你是可以牺牲的，但你会成为伟大的斗士……"
+ BG_DOMINEERING_GREETING_02:0 "你有没有想过为[Root.GetRulerTitle]服务而不是和他们战斗……"
+ BG_NEUTRAL_GREETING_01:0 "伟大的[From.GetRulerName]，[Root.GetRulerTitle]能为你做什么?"
+ BG_NEUTRAL_GREETING_02:0 "为什么是他们的朋友，什么风把你带到了[Root.GetRulerTitle]的法庭上。来点点心，来点……§R血§!。"
+ BG_NEUTRAL_GREETING_03:0 "没必要害怕……的朋友。"
+ BG_NEUTRAL_GREETING_04:0 "你能不能快点，[From.GetRulerName]，我有个祭会要参加。"
+ BG_NEUTRAL_GREETING_05:0 "别误会我的意思，但是我最喜欢的是[From.GetSpeciesName]的血……"
+ BG_THREATENED_GREETING_01:0 "我不知道你想要做什么，[From.GetSpeciesSpawnName]，某种威胁?这真是可爱。"
+ BG_THREATENED_GREETING_02:0 "我不知道你想要做什么，[From.GetSpeciesName]什么威胁?我是[From.GetSpeciesSpawnName]之神，你吓不倒我。"
+ BG_FRIENDLY_GREETING_01:0 "啊，如果不是我们容光焕发的[From.GetSpeciesNamePluralCompliment]，那么，[Root.GetRulerTitle]是它的好朋友。"
+ BG_FRIENDLY_GREETING_02:0 "别误会我的意思，但是我最喜欢的是[From.GetSpeciesName]的血……"
+ BG_FRIENDLY_GREETING_03:0 "[From.GetSpeciesName]的灵能力量相当强大，他一个人走了，这几乎是一种耻辱……几乎"
+ BG_FRIENDLY_GREETING_04:0 "没必要害怕……的朋友。"
+ BG_FRIENDLY_GREETING_05:0 "为什么是你，[From.GetSpeciesName]，你不会碰巧知道我在哪里可以买到……§R血§!"
+ BG_WAR_GREETING_01:0 "现在我是你的神。"
+ BG_WAR_GREETING_02:0 "[Root.GetRulerTitle]的血液。"
+ BG_WAR_GREETING_03:0 "我已经变得很饿了，[From.GetSpeciesName]，你应该现在就去。"
+ BG_WAR_GREETING_04:0 "我把这当作你的祭品。"
+ 
+ # Peaceful Deity
+ 
+ # Liberty Crusaders
+ 
+ # Holy Zealots
+ 
+ # Vassal greetings
+ DC_HOSTILE_GREETING_01:0 "在[From.GetRulerName]的统治下，[From.GetSpeciesName]永远不会有真正自由。"
+ DC_HOSTILE_GREETING_02:0 "联合国[Root.GetAdj]活动委员会的成员，[From.GetRulerTitle]."
+ DC_HOSTILE_GREETING_03:0 "当[From.GetAdj]人们投票选举[From.GetRulerName]为[From.GetRulerTitle]时，你怎么能称自己为真正的民主呢??"
+ DC_HOSTILE_GREETING_04:0 "如果一场革命还没有开始推翻[From.GetRulerTitle] [From.GetRulerName]的霸权，那它肯定很快就会到来。"
+ DC_HOSTILE_GREETING_05:0 "总有一天，[From.GetSpeciesName]会像庄严的[From.GetSpeciesNamePluralCompliment]一样，在自由的天空中翱翔，而不是在被[From.GetSpeciesNameInsult] [From.GetRulerTitle]束缚的时候。"
+ DC_HOSTILE_GREETING_06:0 "虽然你的善良永远不会懂得民主的意义，但我们会教你战争的意义。"
+ DC_DOMINEERING_GREETING_01:0 "我们可以对小暴君有些耐心，但不多。"
+ DC_DOMINEERING_GREETING_02:0 "作为一条规则，我们至少试着理解这是不同的但在你的情况下我们愿意破例一次。"
+ DC_NEUTRAL_GREETING_01:0 "一个自由开放的社会，自由开放地进行外交活动。"
+ DC_NEUTRAL_GREETING_02:0 "[From.GetSpeciesAdj]人的权利对我们至关重要。[From.GetAdj]政府的权力是次要的。"
+ DC_NEUTRAL_GREETING_03:0 "你的人民有发言权。他们有自由吗?"
+ DC_NEUTRAL_GREETING_04:0 "如果你认为你比他们更了解你的人民的权利，[From.GetRulerTitle]，你对权利和人一无所知。"
+ DC_NEUTRAL_GREETING_05:0 "我们的人发现你的群体思维很吸引人，并且想更多地了解你的世界观。你对先进的社会概念如民主和自由有什么理解?"
+ DC_THREATENED_GREETING_01:0 "你的专制扩张主义并没有被忽视。我们一直在起草一份正式的外交诉状，但我们正试图准确地表达我们的措辞。"
+ DC_THREATENED_GREETING_02:0 "是的，我们是不同的，但我们仍然希望我们的两个帝国能在这个星系和平共处。"
+ DC_FRIENDLY_GREETING_01:0 "[From.GetAdj]的人已经为自己做了一个很好的选择，选择了像你这样的[From.GetRulerTitle]。"
+ DC_FRIENDLY_GREETING_02:0 "自由之风正在横扫银河系。我们的人民和你的人民是幸运的，他们是最先享受他们的人。"
+ DC_FRIENDLY_GREETING_03:0 "我们可以看到你还没有准备好讨论改革，但是我们感谢你对星区稳定的贡献。"
+ DC_FRIENDLY_GREETING_04:0 "尽管在任何真正的民主社会中，不同意见和言论是必须的，但我们认识到更精简的决策过程的好处。我们欣赏你的效率。"
+ DC_WAR_GREETING_01:0 "我们会给你自由，或者给你死亡，请选择。"
+ DC_WAR_GREETING_02:0 "你可以夺走我们的生命，但你永远夺不走我们的道德优越感。"
+ DC_WAR_GREETING_03:0 "民主国家之间不进行战争。但[From.GetRulerName]的政权不能被认为是真正的民主。"
+ DC_WAR_GREETING_04:0 "我们胜利的日子将会被铭记为[From.GetSpeciesNamePlural]的锁链被打破的那一天。"
+ DC_WAR_GREETING_05:0 "准备轨道解放。"
+ 
+ FP_HOSTILE_GREETING_01:0 "不可能与可憎的事情进行谈判。"
+ FP_HOSTILE_GREETING_02:0 "我们的报告表明，您已培养出了理解多种外文语言的翻译人员。我们还没有。"
+ FP_HOSTILE_GREETING_03:0 "你必须为[From.GetSpeciesAdj]种族的进化和继续存在而做出合理的解释。"
+ FP_HOSTILE_GREETING_04:0 "我们的学者已经得出结论，[From.GetSpeciesName]的目的是作为一个物种可以被腐化的多种方式之一的例子。既然我们已经收到了信息，我们就必须着手让你成为像你这样的物种。"
+ FP_THREATENED_GREETING_01:0 "尽管有你的力量，黑暗势力是不允许占上风的。宇宙本身将会清除你的存在。"
+ FP_WAR_GREETING_01:0 "没有必要害怕。毁灭你的种族是更伟大的东西的一部分，而生存的意志，迫使你反抗，将会坚持生命的存在。"
+ FP_WAR_GREETING_02:0 "现在投降，你们的所有[From.GetSpeciesSpawnNamePlural]将被残忍地屠杀而不是用来研究新武器对[From.GetSpeciesAdj]生理学的影响。"
+ FP_WAR_GREETING_03:0 "你必须被摧毁最后的[From.GetSpeciesName]。这是我们庄严的职责，在一个没有[From.GetSpeciesNameInsult]的世界里，我们怀着喜悦的心情进行着。"
+ FP_WAR_GREETING_04:0 "对于每一个结束的[From.GetSpeciesAdj]生命，对于每一个在其诞生前灭亡的[From.GetSpeciesSpawnName]，星系中的每一颗恒星都会发出更明亮的光芒。"
+ FP_WAR_GREETING_05:0 "这场战争将带来一个和平、正义、道德、文化、体育、家庭生活以及所有其他生命形式的毁灭的时代。"

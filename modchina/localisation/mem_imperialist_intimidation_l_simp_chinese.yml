@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+ mem_imperialist_intimidation.2.name:0 "[hegimp.GetName]的舰队在威胁我们的殖民地"
+ mem_imperialist_intimidation.2.desc_01:0 "[hegimp.GetName]已宣称了我们邻近的星域。[hegimp.GetAdj]开始加强军队实力并派遣了一支舰队进入边境区域。官方称，这些战舰只不过执行常规演习，但他们的信息非常明确：[hegimp.GetName]将在此驻守。因此[Root.GetName]的人口已经开始聚集起来宣誓要保卫领土完整。"
+ mem_imperialist_intimidation.2.holyorder:0 "信仰正义的武器绝不会动摇。"
+ mem_imperialist_intimidation.2.desc_02:0 "[hegimp.GetName]已宣称了我们邻近的星域。[hegimp.GetAdj]开始加强军队实力并派遣了一支舰队进入边境区域。官方称，这些战舰只不过执行常规演习，但他们的信息非常明确：[hegimp.GetName]将在此驻守。因此[Root.GetName]的民兵志愿者激增至前所未有的数量。"
+ mem_imperialist_intimidation.2.letthemcome:0 "为了[Root.GetName]!"
+ mem_imperialist_intimidation.2.desc_03:0 "[hegimp.GetName]已宣称了我们邻近的星域。[hegimp.GetAdj]开始加强军队实力并派遣了一支舰队进入边境区域。官方称，这些战舰只不过执行常规演习，但他们的信息非常明确：[hegimp.GetName]将在此驻守。作为结果，我们帝国各地的人们纷纷动员起来保护我们的同胞们。"
+ mem_imperialist_intimidation.2.unitedfront:0 "我们的国家绝不会让[Root.GetName]失望."
+ mem_imperialist_intimidation.2.desc_04:0 "[hegimp.GetName]已宣称了我们邻近的星域。[hegimp.GetAdj]开始加强军队实力并派遣了一支舰队进入边境区域。官方称，这些战舰只不过执行常规演习，但他们的信息非常明确：[hegimp.GetName]将在此驻守。作为结果，[Root.GetName]的人们团结起来，祈祷获得勇气度过这一艰难的时期。"
+ mem_imperialist_intimidation.2.prayer:0 "我们不会屈服于绝望。"
+ mem_imperialist_intimidation.2.desc_05:0 "[hegimp.GetName]已宣称了我们邻近的星域。[hegimp.GetAdj]开始加强军队实力并派遣了一支舰队进入边境区域。官方称，这些战舰只不过执行常规演习，但他们的信息非常明确：[hegimp.GetName]将在此驻守。然而，[Root.GetName]的人们回应这些挑衅之举的做法是通过转移他们的注意力到内心。"
+ mem_imperialist_intimidation.2.default:0 "他们不屈服于恐惧是明智的。"
+ 

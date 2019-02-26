@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+
+assim.1.name:0 "真正的同化!"
+assim.1.desc:0 "~ => 禁用纳米机器人_限制\n~ ...\n~ 25%\n~ 50%\n~ 75%\n~ 100% 完成!\n~ =>增加_同化_目标 星球\n~ ...\n~ 完成!\n~ ##########\n~ !警告!\n~ ##########\n~ 被同化的行星将由可居住的行星形成\n~ , 那上面一定有至少一架同化过的无人机。\n~ 同化星球是非常有效的，但是也非常不稳定\n~ 它的能源网络。\n~ 如果一个被同化的星球已经足够地被轰炸\n~ 一旦落入敌人手中，就会发生大规模的爆炸。\n~ ##########\n~ !警告!\n~ ##########\n~ 将资源从机器人生产转移到行星基础设施...\n~ => 等待指令...."
+
+ap_assimilated_worlds:0 "真正的同化"
+ap_assimilated_worlds_desc:0 "如果我们去掉纳米机器人的限制，我们就能同化整个行星并把它们变成高效的行星。\n计算表明，我们的人口资源的产出(当同化完成时)将高达75%。\n不幸的是，我们必须转移资源来维持这些行星，因此制造机器人将更加困难"
+
+pc_assimilated:0 "(25%) 同化星球"
+pc_assimilated_desc:0 "这颗行星的效率达到了最高的25%。但它也很不稳定。轰炸或征服它，都会引起爆炸。(这颗行星有90%的(轰击)和100%的(征服)概率再次被改造。)"
+pc_assimilated2:0 "(50%) 同化星球"
+pc_assimilated2_desc:0 "这颗行星的效率达到了最高的50%。但它也很不稳定。轰炸或征服它，都会引起爆炸。(这颗行星有90%的(轰击)和100%的(征服)概率再次被改造。)"
+pc_assimilated3:0 "(75%) 同化星球"
+pc_assimilated3_desc:0 "这颗行星的效率达到了最高的75%。但它也很不稳定。轰炸或征服它，都会引起爆炸。(这颗行星有90%的(轰击)和100%的(征服)概率再次被改造。)"
+pc_assimilated4:0 "同化星球"
+pc_assimilated4_desc:0 "这颗行星的效率达到了顶峰。但它也很不稳定。轰炸或征服它，都会引起爆炸。(这颗行星有90%的(轰击)和100%的(征服)概率再次被改造。)"
+
+trait_adapted_to_environment:0 "适应同化星球"
+trait_adapted_to_environment_desc:0 "他们已经适应了更高效的环境。"
+pc_assimilated_habitability:0 "同化星球宜居性"
+pc_assimilated2_habitability:0 "同化星球宜居性"
+pc_assimilated3_habitability:0 "同化星球宜居性"
+pc_assimilated4_habitability:0 "同化星球宜居性"
+
+pc_assimilated_tile:0 "同化地貌"
+pc_assimilated_tile_desc:0 "这个地块已经被我们的意识同化了"
+pc_assimilated2_tile:0 "同化地貌"
+pc_assimilated2_tile_desc:0 "这个地块已经被我们的意识同化了"
+pc_assimilated3_tile:0 "同化地貌"
+pc_assimilated3_tile_desc:0 "这个地块已经被我们的意识同化了"
+pc_assimilated4_tile:0 "同化地貌"
+pc_assimilated4_tile_desc:0 "这个地块已经被我们的意识同化了"
+
+triggered_negative_opinion_of_true_assimilators:0 "真正的同化者"

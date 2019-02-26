@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Pop Modifiers
+ ####################################
+ bp_increased_reproduction:0 "加速繁殖"
+ bp_increased_reproduction_desc:0 "这个人口正与外星人口结合并养育他们的孩子。"
+ bp_reduced_reproduction:0 "减缓繁殖"
+ bp_reduced_reproduction_desc:0 "这个人口正在和一个外星人结合并抚养他们的孩子。"

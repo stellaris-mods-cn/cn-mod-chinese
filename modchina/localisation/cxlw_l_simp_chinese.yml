@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ SHIP_COLOSSUS_ARMED_SECTION:0 "武装巨像"
+ COLOSSUS_ARMED_BEHAVIOR_DESC:0 "§H炮兵战术:§!巨像将移动到距离敌舰 (100) 的位置进行静止远程火力输出。"
+ COMBAT_COMPUTER_COLOSSUS_ARMED:0 "武装巨像战斗计算机"
+ PERDITION_BEAM_COLOSSUS:0 "巨像毁灭光束"

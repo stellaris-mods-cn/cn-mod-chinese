@@ -1,0 +1,64 @@
+﻿l_simp_chinese:
+  #Base
+ mem_satellite_cloud_category:0 "卫星云"
+ mem_satellite_cloud_category_desc:0 "我们传感器检测到有物体接近§Y[Root.GetName]§!。进一步扫描是有必要的。"
+
+  #Failure 1
+ mem_satellite_cloud.201.name:0 "观察失败"
+ mem_satellite_cloud.201.desc:0 "科学家§Y[Root.GetLeaderName]§!报告说，虽然人造物体无疑存在于恒星的日冕，但由于强大的引力和电磁干扰使得打捞无法进行，更何况是在远处观察对象呢。神秘的物体可能永远在我们的掌握之外。"
+
+  #Failure 2
+ mem_satellite_cloud.202.name:0 "未能检索"
+ mem_satellite_cloud.202.desc:0 "科学家§Y[Root.GetLeaderName]§!的初步报告揭示了数百颗环绕恒星运行的卫星。然而由于过于靠近§Y[Root.GetName]§!，它似乎被某个传感器绊倒，导致整个卫星云打开它们的推进器后，掉入恒星的日冕。即使卫星在某种程度能存在恒星内部，但现在要想恢复它们，完全超出我们的能力范围之内。"
+
+  #Critical Failure 1
+ mem_satellite_cloud.301.name:0 "观察严重失败"
+ mem_satellite_cloud.301.desc:0 "我们调查在§Y[From.GetName]§!的轨道的物体并试图取回靠近恒星的日冕的时候，结果它飞得太靠近恒星了导致被摧毁了。神秘的物体可能永远在我们的掌握之外。"
+
+  #Critical Failure 2
+ mem_satellite_cloud.302.name:0 "无人唤醒"
+ mem_satellite_cloud.302.desc:0 "我们收到来自§Y[Root.GetName]§!的求救信号。原来是一群无人机，在恒星的日冕下休眠。我们设法靠近将其修复复活。"
+ mem_satellite_cloud.retreat:0 "撤退！"
+
+  #Art Installation
+ mem_satellite_cloud.1.name:0 "艺术装置"
+ mem_satellite_cloud.1.desc:0 "数以百计的菱柱形物体，而且每个都有独特形状和结构，被放置在恒星周围，恒星的光芒通过它们分散着不寻常的光谱。大多数的棱镜似乎随着时间的推移已经损坏，但仍有小部分依然被人描述为\"迷人的。\""
+
+  #Solarium
+ mem_satellite_cloud.2.name:0 "日光浴"
+ mem_satellite_cloud.2.desc:0 "据我们观察，有数百颗栖息地卫星利用这先进的太阳帆并停靠在§Y[From.GetName]§!。它们每个都有着明显特点就是透明的圆顶只向着恒星，这表明该物体具有难以想象的耐热性。如今这些卫星分崩离析，似乎被遗弃了。虽然无法安全恢复，但是我们科学家认为我们能够通过远程扫描获得有用的数据。"
+
+  #Cloud Computing
+ mem_satellite_cloud.3.name:0 "云计算"
+ mem_satellite_cloud.3.desc:0 "经过彻底的扫描，我们的科研小组报道一种先进的能源系统，利用庞大的卫星网络包围着恒星的存在。根据§Y[Root.GetLeaderName]§!称它们似乎有超拉伸纤维光学，这表明它们所吸收的能量被用于进行某种计算。虽然这些卫星已经损坏，但是我们的发现为我们提供了一种先进的计算方式。"
+
+  #Observatory
+ mem_satellite_cloud.4.name:0 "天文台"
+ mem_satellite_cloud.4.desc:0 "§Y[Root.GetLeaderName]§!报告数以百计的抛物线天线环绕§Y[From.GetName]§!的恒星并全定向向外。看来，卫星利用恒星能量大量发送出站和处理入站信号。虽然卫星云破损至无法修复，但为我们提供有价值的恒星观测技术。"
+
+  #Scrap Metal
+ mem_satellite_cloud.5.name:0 "废金属"
+ mem_satellite_cloud.5.desc:0 "一团巨大的碎片云绕着恒星运行。们可能曾经是一个卫星网络，但现在几乎无法修复。即使我们冒着风险去回收这些破铜烂铁。"
+
+  #Stellar Converter
+ mem_satellite_cloud.6.name:0 "恒星的转换器"
+ mem_satellite_cloud.6.desc:0 "数百颗太阳能电池板位于§Y[From.GetName]§!的恒星附近。它们有着大规模的能源转换器节点，似乎曾被用于传递大量的太阳能至其他地方，但是现在它们已经严重损坏。然而，这些残骸能为我们提供宝贵的能源利用经验。"
+
+  #Stellar Scoop
+ mem_satellite_cloud.7.name:0 "星勺"
+ mem_satellite_cloud.7.desc:0 "据我们观察发现，有许多的高级空间站，周围还漂浮着大量的等离子体。可能是某个大型容器的中转站。不幸的是，这些站废弃已久，而且大多数的储存容器已经破损泄露。虽然无法修复，但是我们可以极其容易获得周围的等离子体。"
+
+  #Pyrovore Colony
+ mem_satellite_cloud.8.name:0 "Pyrovore群落"
+ mem_satellite_cloud.8.desc:0 "这些未知结构都是大而透明的面向着恒星的圆顶，这表明它们曾用于作为温室或者水培实验室。但大多数的圆顶已经破碎，但奇怪的是，某些实验室还存在活物，而且是在接近恒星的极为苛刻的条件的地方。这些原始生物看似已经适应了太空的极端环境，而且覆盖卫星。我们虽然不可能移动这些生物样本，但是我们可以远程距离观测这一切。"
+
+ mem_satellite_cloud.dissapointing:0 "失落。"
+ mem_satellite_cloud.useful:0 "那是有用的。"
+
+## IGNORE FOR NOW ##
+
+# Translators, only one ship in the fleet has the joke name and one with with meme name. Feel free to translate them however you wish
+# mem_satellite_cloud.fleetname:0 "Ancient Solar Drones"
+# mem_satellite_cloud.shipname:0 "Solar Drone v2.0b"
+# mem_satellite_cloud.shipnamejoke:0 "Solar Drone v4.2c"
+# mem_satellite_cloud.shipnamememe:0 "The Game"

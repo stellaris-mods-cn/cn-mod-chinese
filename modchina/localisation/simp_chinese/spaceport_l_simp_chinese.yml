@@ -1,0 +1,54 @@
+﻿l_simp_chinese:
+ stb_sciencepost:0 "研究基地"
+ stb_markerpost:0 "边境哨所"
+ stb_navoutpost:0 "导航前哨"
+ stb_mineoutpost:0 "采矿前哨"
+ stb_listeningpost:0 "情报站"
+ stb_defencepost:0 "防御站"
+ stb_silopost: "资源仓库"
+ stb_hydroponicspost: "水耕平台"
+ 
+
+ aura_STARBASE_TRAFFIC_CONTROL: "太空交通管制光环"
+ STARBASE_TRAFFIC_CONTROL: "太空交通管制"
+ sm_space_traffic_control: "太空交通 CnCC"
+ sm_alpha_mining_ops_cnc: "采矿作业 CnCC"
+ sm_fleet_command_hq: "舰队司令部"
+ sm_starbasedrydock: "干船坞"
+ sm_expandedresource_silo: "扩展仓"
+ sm_defence_monitor_outpost: "防御站"
+ sm_solar_panelling: "太阳能电池板阵列"
+ 
+ sm_minerals_sb_processing: "矿物处理器"
+ sm_sbbiolab: "生物科学实验室"
+ sm_sbenglab: "工程车间"
+ sm_sbphylab: "数据处理中心"
+ 
+ requires_orbital_mining_deposit: "在这个星系中，必须至少有一个行星生产矿物或能量币。"
+ requires_orbital_science_deposit: "在这个星系中，必须至少有一个行星生产科研点。"
+ requires_no_colonized_planet: "在这个星系中不应该有预先建立的殖民地。"
+
+ ####################
+ # SPACEPORT MODULES
+ ####################
+ 
+ sm_early_warning_monitor:0 "预警监控"
+ sm_orbital_hospital:0 "轨道医院"
+ sm_station_bar:0 "酒吧"
+ sm_trade_port:0 "贸易港" 
+ sm_transport_shuttles:0 "穿梭网络"
+ sm_commerce_guild:0 "商业行会"
+ sm_data_core:0 "数据核心"
+ sm_industrial_replicator:0 "工业复制器"
+ sm_tourist_promenade:0 "旅游长廊"
+ sm_comms_relay:0 "通讯中心"
+ sm_food_replicators:0 "食物复制器"
+ sm_alpha_orbital_labs:0 "研究机构"
+ sm_alpha_pioneers_temple:0 "先驱者寺庙"
+ 
+ sm_station_marine_post:0 "海军国防部队"
+ 
+ planet_resource_unity_add: "凝聚力"
+ planet_resource_physics_research_add: "物理研究"
+ planet_resource_society_research_add: "社会研究"
+ planet_resource_engineering_research_add: "工程研究"

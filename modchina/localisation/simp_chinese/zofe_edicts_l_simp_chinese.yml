@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+ 
+ decision_make_xeno_preserve:0 "项目:创建外星保护区"
+ decision_make_xeno_preserve_desc:0 "创造我们这一代的外星保护区，保护银河系中智慧物种的多样性，一直是我们的梦想。"
+
+ decision_abolish_xeno_preserve:0 "废除外星保护区"
+ decision_abolish_xeno_preserve_desc:0 "我们将废除这个星球上的外星保护区"。"
+
+ 
+ edict_rejuvenate_society:0 "复兴崛起"
+ edict_rejuvenate_society_desc:0 "在一个仍然充满敌人的星系中，我们不能自满。为了复兴我们的国家，我们开展了根除社会堕落现象的运动。"
+ 
+ edict_punishment_protocols:0 "$unity_ambition$ 惩罚协议"
+ edict_punishment_protocols_desc:0 "对于那些不愿服从我们明显优势的人，现在是采取惩罚措施的时候了。我们知道他们所有的战术和弱点，我们很乐意安排一次演示。"
+ 

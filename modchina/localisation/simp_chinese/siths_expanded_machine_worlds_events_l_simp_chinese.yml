@@ -1,0 +1,141 @@
+﻿l_simp_chinese:
+
+ FANTASTIC:0 "Fantastic."
+
+ ####################################
+ # Anomaly Categories
+ ####################################
+ # ROOT = PLANET SCOPE
+ # FROM = SHIP SCOPE
+ 
+ MAC_COVER_CAT:0 "旧世界"
+ MAC_COVER_CAT_DESC:0 "根据初步的扫描结果，[Root.GetName]显示出一些奇怪的性质，并且给出的读数与人们对这类行星的预期完全不符。"
+ 
+ MAC_COVER_COLD_CAT:0 "旧世界"
+ MAC_COVER_COLD_CAT_DESC:0 "根据初步的扫描结果，[Root.GetName]显示出一些奇怪的性质，并且给出的读数与人们对这类行星的预期完全不符……"
+ 
+ ####################################
+ # Anomaly Events
+ ####################################
+ 
+ sith_machine_anomaly.1.name:0 "陈年世界"
+ sith_machine_anomaly.1.desc.v1:0 "[From.GetName]的表面看起来很正常，然而科学官员[Root.GetLeaderName]告诉我们，他们的研究已经证明，在表面之下，它根本不是。在贫瘠的地表下存在着一种近行星分布的金属。这个世界曾经是一个机器世界，在几百万年甚至几十亿年前就消失了，随着时间的推移，它吸收了足够多的物质，形成了一个外壳。真正的表面在下面，科学官员[Root.GetLeaderName]声称，有了足够的资源，我们可以剥开薄薄的外壳，重新激活下面休眠的系统，让我们的机器以更高的效率工作。"
+ sith_machine_anomaly.1.desc.v2:0 "[From.GetName]的表面看起来很正常，然而科学官员[Root.GetLeaderName]告诉我们，他们的研究已经证明，在表面之下，它根本不是。在贫瘠的地表下存在着一种近行星分布的金属。这个世界曾经是一个机器世界，在几百万年甚至几十亿年前就消失了，随着时间的推移，它吸收了足够多的物质，形成了一个外壳。真正的表面在下面。虽然我们缺乏任何机制可以在这样一个世界上工作，科学官员[Root.GetLeaderName]声称，有了足够的资源，我们可能会剥开薄薄的外壳，重新激活潜伏在下面的系统，在未来的某一天潜在地有利于[Root.Owner.GetName]。"
+ sith_machine_anomaly.1.desc.v3.hive:0 "[From.GetName]的表面看起来很正常，然而科学官员[Root.GetLeaderName]告诉我们，他们的研究已经证明，在表面之下，它根本不是。在贫瘠的地表下存在着一种近行星分布的金属。这个世界曾经是一个机器世界，在几百万年甚至几十亿年前就消失了，随着时间的推移，它吸收了足够多的物质，形成了一个外壳。真正的表面在下面。尽管[Root.Owner.GetName]对这样的世界毫无兴趣，但[Root.GetLeaderName]建议大家去探索并重新激活它，以获取大量的物理和工程知识。"
+ sith_machine_anomaly.1.desc.v4.mach:0 "[From.GetName]的表面看起来很正常，然而科学官员[Root.GetLeaderName告诉我们，他们的研究已经证明，在表面之下，它根本不是。在贫瘠的地表下存在着一种近行星分布的金属。这个世界曾经是一个机器世界，在几百万年甚至几十亿年前就消失了，随着时间的推移，它吸收了足够多的物质，形成了一个外壳。真正的表面在下面。[Root.Owner.GetName]可能从它的重新激活中获得巨大的潜在利益，科学官员[Root.GetLeaderName]已经计算出了需要的资源和系统，以剥离地壳和重新激活休眠系统，以允许从轨道或殖民研究巨大的物理和工程。"
+ 
+ sith_machine_anomaly.2.name:0 "薄壳"
+ sith_machine_anomaly.2.desc:0 "科学家[Root.GetLeaderName]报告说，[From.From.GetName]上的物质积累仍然相对年轻，或者没有那么多的物质可以积累。地壳仍然很薄(与标准世界的地壳相比)，到达下面的机器世界的时间和精力是相当多的，但应该是相对较快的。\n\n一个专门的项目已经发布来揭开它的面纱。"
+ sith_machine_anomaly.3.name:0 "厚壳"
+ sith_machine_anomaly.3.desc:0 "科学家[Root.GetLeaderName]报告说[From.From.GetName]上的物质积累已经发生了很长时间，或者它的轨道曾经是大量物质的家园。外壳很厚，很结实。到达机器世界的时间和精力是非常可观的。\n\n一个专门的项目已经发布来揭开它的面纱。"
+ 
+ sith_machine_anomaly.4.name:0 "地壳移除成功"
+ sith_machine_anomaly.4.desc:0 "科学官员[Root.GetLeaderName]自豪地报告说，[From.From.GetName]上的地壳移除工作已经完成。现在剩下的唯一任务是重新激活长时间休眠的系统。一旦完成，它将极大地丰富[Root.Owner.GetSpeciesAdj]科研。"
+
+ sith_machine_anomaly.5.name:0 "系统激活完成" #Energy
+ sith_machine_anomaly.5.desc:0 "科学家[Root.GetLeaderName]自豪地报告说，系统重新激活成功。世界上有一些结构，一旦我们让它们重新运转起来，就能增加能源生产。"
+  
+ sith_machine_anomaly.5.desc.material:0 "科学家[Root.GetLeaderName]自豪地报告说，在[From.From.GetName]上重新激活系统是卓有成效的。数据显示，地球将是一个非常有价值的能源来源。"
+ sith_machine_anomaly.5.desc.spirit:0 "科学官员[Root.GetLeaderName]谦虚地报告说，没有灵魂的世界[From.From.GetName]重新激活已经完成。水晶球占卜揭示了我们能够利用的高浓度能量。"
+ sith_machine_anomaly.5.desc.mil:0 "科学官员[Root.GetLeaderName]严厉地报告说，[From.From.GetName]系统的重新激活已经完成。研究表明，高浓度的能量将对维持舰队有价值。"
+ sith_machine_anomaly.5.desc.pac:0 "科学家[Root.GetLeaderName]微笑着报告说[From.From.GetName]上系统的重新激活没有冲突。研究表明，高浓度的能量对维持和平是有价值的。"
+ sith_machine_anomaly.5.desc.phile:0 "科学家[Root.GetLeaderName兴奋地报告说，重新激活具有历史意义的[From.From.GetName]是成功的。它的创造者们已经留下了一份能量的遗产，我们现在有礼貌地接触到它。"
+ sith_machine_anomaly.5.desc.phobe:0 "科学家[Root.GetLeaderName]紧张地报告说，重新激活[From.From.GetName]的外星结构是在最少污染的情况下完成的。大量的能量对我们是有用的。"
+ sith_machine_anomaly.5.desc.coll:0 "科学官员[Root.GetLeaderName]平静地报告说，[From.From.GetName]系统的重新激活已经成功。合作的报告揭示了我们现在可以接触到的高浓度能量。"
+ sith_machine_anomaly.5.desc.ind:0 "科学家[Root.GetLeaderName]高兴地报告，[From.From.GetName]上的系统恢复成功。增加多个报告的高浓度的能源，我们将有机会获得。"
+ sith_machine_anomaly.5.desc.hive:0 "科学家[Root.GetLeaderName]有条不紊地报告[From.From.GetName]上系统的重新激活已经完成。虽然表面不适合永久定植，但它确实具有[Root.Owner.GetSpeciesAdj]可以从轨道上获得的高浓度能量。"
+ sith_machine_anomaly.5.desc.mach:0 "科学家[Root.GetLeaderName]系统地报告系统的重新激活是成功的。计算状态[From.From.GetName]现在已经准备好进行定殖，读数状态为[Root.Owner.GetSpeciesAdj]可以充分利用的高浓度能量。"
+ 
+ 
+ sith_machine_anomaly.6.name:0 "系统激活完成" #Minerals
+ sith_machine_anomaly.6.desc:0 "科学家[Root.GetLeaderName]自豪地报告说，系统的重新激活是成功的。星球上有一些结构，一旦我们让它们重新运转起来，就会增加矿物的产量。"
+ 
+ sith_machine_anomaly.6.desc.material:0 "科学家[Root.GetLeaderName]自豪地报告说，[From.From.GetName]系统的重新激活已经取得了丰硕的成果。数据显示，星球将是一个非常宝贵的矿物资源。"
+ sith_machine_anomaly.6.desc.spirit:0 "科学家[Root.GetLeaderName]谦虚地报告说，没有灵魂的世界[From.From.GetName]的重新激活已经完成。水晶球占卜揭示了我们能够利用的高浓度矿物质。"
+ sith_machine_anomaly.6.desc.mil:0 "科学家[Root.GetLeaderName]严厉地报告，[From.From.GetName]系统的重新激活已经完成。研究表明，高浓度的矿物质将对维持舰队有价值。"
+ sith_machine_anomaly.6.desc.pac:0 "科学家[Root.GetLeaderName]微笑地报告，[From.From.GetName]上系统的重新激活没有冲突。研究表明，高浓度的矿物质对维持和平很有价值。"
+ sith_machine_anomaly.6.desc.phile:0 "科学家[Root.GetLeaderName]兴奋地报告说，重新激活具有历史意义的[From.From.GetName]是成功的。它的创造者们留下了一份宝贵的矿物遗产，我们现在很有礼貌地接触到了。"
+ sith_machine_anomaly.6.desc.phobe:0 "科学家[Root.GetLeaderName]紧张地报告说，[From.From.GetName]的外星结构的重新激活是在最少污染的情况下完成的。大量的矿物质对我们有用。"
+ sith_machine_anomaly.6.desc.coll:0 "科学家[Root.GetLeaderName]平静地报告，[From.From.GetName]上的系统重新激活已经成功。合作的报告揭示了我们现在可以接触到的高浓度矿物质。"
+ sith_machine_anomaly.6.desc.ind:0 "科学家[Root.GetLeaderName]高兴地报告说，[From.From.GetName]上系统的重新激活是成功的。增加了我们现在可以接触到的高浓度矿物质的多重报告。"
+ sith_machine_anomaly.6.desc.hive:0 "科学家[Root.GetLeaderName]有条不紊地报告[From.From.GetName]上系统的重新激活已经完成。虽然表面不适合永久定植，但它确实有高浓度的矿物，[Root.Owner.GetSpeciesAdj]可以从轨道上获得。"
+ sith_machine_anomaly.6.desc.mach:0 "科学家[Root.GetLeaderName]系统地报告系统的重新激活是成功的。计算结果表明，[From.From.GetName]已经准备好进行定殖，并且可以充分利用[Root.Owner.GetSpeciesAdj]的高浓度矿物。"
+ 
+
+ sith_machine_anomaly.7.name:0 "系统激活完成" #Physics
+ sith_machine_anomaly.7.desc:0 "科学家[Root.GetLeaderName]自豪地报告说，系统的重新激活是成功的。这个星球有一些结构，可以增加我们的物理学知识，一旦我们让它们重新运行。"
+ 
+ sith_machine_anomaly.7.desc.material:0 "科学家[Root.GetLeaderName]自豪地报告说，在[From.From.GetName]上重新激活系统是卓有成效的。阅读资料显示，这颗行星包含的数据网络将是一个非常有价值的物理学研究来源。"
+ sith_machine_anomaly.7.desc.spirit:0 "科学家[Root.GetLeaderName]谦虚地报告说，没有灵魂的世界[From.From.GetName]的重新激活已经完成。水晶球占卜已经发现了我们可以利用的物理学研究数据网络。"
+ sith_machine_anomaly.7.desc.mil:0 "科学家[Root.GetLeaderName]严厉地报告，[From.From.GetName]系统的重新激活已经完成。研究发现，物理学研究的数据网络将对改进舰队有价值。"
+ sith_machine_anomaly.7.desc.pac:0 "科学家[Root.GetLeaderName]微笑地报告，[From.From.GetName]上系统的重新激活没有冲突。研究发现，物理学研究的数据网络对维持和平很有价值。"
+ sith_machine_anomaly.7.desc.phile:0 "科学家[Root.GetLeaderName]兴奋地报告说，重新激活具有历史意义的[From.From.GetName]是成功的。它的创造者们留下了大量的数据网络，这些数据网络充满了物理学研究，我们现在可以亲切地使用这些数据网络。"
+ sith_machine_anomaly.7.desc.phobe:0 "科学家[Root.GetLeaderName]紧张地报告说，[From.From.GetName]的外星结构的重新激活是在最少污染的情况下完成的。物理学研究的大量数据将对我们有用。"
+ sith_machine_anomaly.7.desc.coll:0 "科学家[Root.GetLeaderName]平静地报告说[From.From.GetName]上系统的重新激活已经成功。合作的报告揭示了一个复杂的数据网络的物理学研究，我们现在可以访问。"
+ sith_machine_anomaly.7.desc.ind:0 "科学家[Root.GetLeaderName]高兴地报告说，[From.From.GetName]上系统的重新激活是成功的。添加的多个报告已经发现了令人印象深刻的数据网络的物理学研究，现在可以访问。"
+ sith_machine_anomaly.7.desc.hive:0 "科学家[Root.GetLeaderName]有条不紊地报告[From.From.GetName]上系统的重新激活已经完成。虽然该表面不适合永久定植，但它确实有高价值的物理学研究，[Root.Owner.GetSpeciesAdj]可以从轨道上获取。"
+ sith_machine_anomaly.7.desc.mach:0 "科学家[Root.GetLeaderName]系统地报告系统的重新激活是成功的。计算状态ddd现在已经可以进行定殖化，并且可以读取具有高度物理学研究集中的状态数据网络，[Root.Owner.GetSpeciesAdj]可以充分利用这些数据网络。"
+ 
+ 
+ sith_machine_anomaly.8.name:0 "系统激活完成" #Society
+ sith_machine_anomaly.8.desc:0 "科学家[Root.GetLeaderName]自豪地报告说，系统的重新激活是成功的。这个世界有一些结构，可以增加我们对社会学的认识，一旦我们让它们重新运转。"
+ 
+ sith_machine_anomaly.8.desc.material:0 "科学家[Root.GetLeaderName]自豪地报告说，在[From.From.GetName]上重新激活系统是卓有成效的。阅读资料显示，这颗行星包含的数据网络将是一个非常有价值的社会学研究来源。"
+ sith_machine_anomaly.8.desc.spirit:0 "科学家[Root.GetLeaderName]谦虚地报告说，没有灵魂的世界[From.From.GetName]的重新激活已经完成。水晶球占卜已经发现了我们可以利用的社会学研究数据网络。"
+ sith_machine_anomaly.8.desc.mil:0 "科学家[Root.GetLeaderName]严厉地报告，[From.From.GetName]系统的重新激活已经完成。研究发现，社会学研究的数据网络将对改进舰队有价值。"
+ sith_machine_anomaly.8.desc.pac:0 "科学家[Root.GetLeaderName]微笑地报告，[From.From.GetName]上系统的重新激活没有冲突。研究发现，社会学研究的数据网络对维持和平很有价值。"
+ sith_machine_anomaly.8.desc.phile:0 "科学家[Root.GetLeaderName]兴奋地报告说，重新激活具有历史意义的[From.From.GetName]是成功的。它的创造者们留下了大量的数据网络，这些数据网络充满了社会学研究，我们现在可以亲切地使用这些数据网络。"
+ sith_machine_anomaly.8.desc.phobe:0 "科学家[Root.GetLeaderName]紧张地报告说，[From.From.GetName]的外星结构的重新激活是在最少污染的情况下完成的。社会学研究的大量数据将对我们有用。"
+ sith_machine_anomaly.8.desc.coll:0 "科学家[Root.GetLeaderName]平静地报告说[From.From.GetName]上系统的重新激活已经成功。合作的报告揭示了一个复杂的数据网络的社会学研究，我们现在可以访问。"
+ sith_machine_anomaly.8.desc.ind:0 "科学家[Root.GetLeaderName]高兴地报告说，[From.From.GetName]上系统的重新激活是成功的。添加的多个报告已经发现了令人印象深刻的数据网络的社会学研究，现在可以访问。"
+ sith_machine_anomaly.8.desc.hive:0 "科学家[Root.GetLeaderName]有条不紊地报告[From.From.GetName]上系统的重新激活已经完成。虽然该表面不适合永久定植，但它确实有高价值的社会学研究，[Root.Owner.GetSpeciesAdj]可以从轨道上获取。"
+ sith_machine_anomaly.8.desc.mach:0 "科学家[Root.GetLeaderName]系统地报告系统的重新激活是成功的。计算状态ddd现在已经可以进行定殖化，并且可以读取具有高度社会学研究集中的状态数据网络，[Root.Owner.GetSpeciesAdj]可以充分利用这些数据网络。"
+ 
+ 
+ sith_machine_anomaly.9.name:0 "系统激活完成" #Engineering
+ sith_machine_anomaly.9.desc:0 "科学家[Root.GetLeaderName]自豪地报告说，系统的重新激活是成功的。世界上有一些结构，可以增加我们的工程学知识，一旦我们让它们重新运行。"
+ 
+ sith_machine_anomaly.9.desc.material:0 "科学家[Root.GetLeaderName]自豪地报告说，在[From.From.GetName]上重新激活系统是卓有成效的。阅读资料显示，这颗行星包含的数据网络将是一个非常有价值的工程学研究来源。"
+ sith_machine_anomaly.9.desc.spirit:0 "科学家[Root.GetLeaderName]谦虚地报告说，没有灵魂的世界[From.From.GetName]的重新激活已经完成。水晶球占卜已经发现了我们可以利用的工程学研究数据网络。"
+ sith_machine_anomaly.9.desc.mil:0 "科学家[Root.GetLeaderName]严厉地报告，[From.From.GetName]系统的重新激活已经完成。研究发现，工程学研究的数据网络将对改进舰队有价值。"
+ sith_machine_anomaly.9.desc.pac:0 "科学家[Root.GetLeaderName]微笑地报告，[From.From.GetName]上系统的重新激活没有冲突。研究发现，工程学研究的数据网络对维持和平很有价值。"
+ sith_machine_anomaly.9.desc.phile:0 "科学家[Root.GetLeaderName]兴奋地报告说，重新激活具有历史意义的[From.From.GetName]是成功的。它的创造者们留下了大量的数据网络，这些数据网络充满了工程学研究，我们现在可以亲切地使用这些数据网络。"
+ sith_machine_anomaly.9.desc.phobe:0 "科学家[Root.GetLeaderName]紧张地报告说，[From.From.GetName]的外星结构的重新激活是在最少污染的情况下完成的。工程学研究的大量数据将对我们有用。"
+ sith_machine_anomaly.9.desc.coll:0 "科学家[Root.GetLeaderName]平静地报告说[From.From.GetName]上系统的重新激活已经成功。合作的报告揭示了一个复杂的数据网络的工程学研究，我们现在可以访问。"
+ sith_machine_anomaly.9.desc.ind:0 "科学家[Root.GetLeaderName]高兴地报告说，[From.From.GetName]上系统的重新激活是成功的。添加的多个报告已经发现了令人印象深刻的数据网络的工程学研究，现在可以访问。"
+ sith_machine_anomaly.9.desc.hive:0 "科学家[Root.GetLeaderName]有条不紊地报告[From.From.GetName]上系统的重新激活已经完成。虽然该表面不适合永久定植，但它确实有高价值的工程学研究，[Root.Owner.GetSpeciesAdj]可以从轨道上获取。"
+ sith_machine_anomaly.9.desc.mach:0 "科学家[Root.GetLeaderName]系统地报告系统的重新激活是成功的。计算状态ddd现在已经可以进行定殖化，并且可以读取具有高度工程学研究集中的状态数据网络，[Root.Owner.GetSpeciesAdj]可以充分利用这些数据网络。"
+ 
+ 
+ sith_machine_anomaly.10.name:0 "关键的系统错误" #OOPSlol
+ sith_machine_anomaly.10.desc:0 "科学家[Root.GetLeaderName]报告说，重新激活系统被证明是一个问题。一旦长时间休眠的系统重新启动，它很快就会被错误所淹没，这些错误很快就会在它的表面和表面下产生大量爆炸，导致星球被炸得四分五裂。但这些遗骸至少让我们有机会接触到大量的矿产。"
+ 
+ sith_machine_anomaly.10.hive.a:0 "这实际上可能有更大的用处。"
+ 
+ sith_machine_anomaly.10.material.a:0 "在野外旅行要收取能量。"
+ sith_machine_anomaly.10.spirit.a:0 "允许我们所有的人来探望死者。"
+ sith_machine_anomaly.10.mil.a:0 "用残骸作为我们舰队的试验场。"
+ sith_machine_anomaly.10.pac.a:0 "打开一个纪念馆，里面装满了从废墟中挖出来的文物。"
+ sith_machine_anomaly.10.phile.a:0 "建立一个纪念碑来纪念死者。"
+ sith_machine_anomaly.10.phobe.a:0 "一个统一的提醒者，反对外界的影响。"
+ sith_machine_anomaly.10.coll.a:0 "失败是不能容忍的。机组人员的榜样将带来团结。"
+ sith_machine_anomaly.10.ind.a:0 "有人会在这个活动中找到机会。"
+  
+ sith_machine_anomaly.10.material.b:0 "筛选破碎的圆环进行分析"
+ sith_machine_anomaly.10.spirit.b:0 "对有经验的人加以严格限制。"
+ sith_machine_anomaly.10.mil.b:0 "用这些残骸作为我们军队的试验场。"
+ sith_machine_anomaly.10.pac.b:0 "向公众开放一个可以自由欣赏的纪念馆。"
+ sith_machine_anomaly.10.phile.b:0 "创建一个星球纪念碑。"
+ sith_machine_anomaly.10.phobe.b:0 "它可能起源于氙，但矿石就是矿石。"
+ sith_machine_anomaly.10.coll.b:0 "建立一个矿井，派任何异议者去那里工作。"
+ 
+ sith_machine_anomaly.10.desc.material:0 "科学家[Root.GetLeaderName]令人不安地报告说，[From.From.GetName]上的系统的重新激活非常失败。一旦长时间休眠的系统重新启动，它很快就会被错误所淹没，这些错误很快就会在它的表面和下面产生大量爆炸，导致星球和地面部队被炸得四分五裂。"
+ sith_machine_anomaly.10.desc.spirit:0 "科学家[Root.GetLeaderName]谦虚地报告说，重新激活没有灵魂的世界[From.From.GetName]已经被扼杀了。一旦这个没有灵魂的系统重新启动，它很快就会在它的表面和表面下爆炸，导致世界被炸得四分五裂。[Root.GetName]只能退后一步，默默地看着星球的毁灭和相当数量的科学团队。"
+ sith_machine_anomaly.10.desc.mil:0 "科学家[Root.GetLeaderName]郑重报告，[From.From.GetName]上的系统重新激活失败。一旦这个长期处于休眠状态的系统重新启动，它很快就会被错误所淹没，这些错误很快就会在它的表面和表面下形成无数千亿吨大小的爆炸，导致整个世界被炸得四分五裂。[Root.GetName]只能在它表面上发回关于星球和科学团队损失的报告。"
+ sith_machine_anomaly.10.desc.pac:0 "科学家[Root.GetLeaderName]悲伤地报告，[From.From.GetName]上系统的重新激活并非没有冲突。一旦长时间休眠的系统重新启动，它很快就会被错误淹没，这些错误很快就会在它的表面和表面下爆发出无数次爆炸。[Root.GetName]只能在悲伤中后退，看着星球的毁灭和相当数量的科学团队。"
+ sith_machine_anomaly.10.desc.phile:0 "科学家[Root.GetLeaderName]痛苦地报告说，重新激活具有历史意义的[From.From.GetName]失败了。一旦这个长期处于休眠状态的系统重新启动，它就会引发连锁反应，在其表面和表面下发生多次爆炸。尽管[Root.GetName]尽了最大的努力，地面部队还是没能获救。机组人员只能退后一步，惊恐地看着科学团队和星球的毁灭。"
+ sith_machine_anomaly.10.desc.phobe:0 "科学家[Root.GetLeaderName]轻描淡写地报告说，[From.From.GetName]的xeno结构的激活失败了。一旦这个长期处于休眠状态的系统重新启动，它很快就会被淹没，在它的表面和表面下引发大量爆炸，导致整个星球被炸得四分五裂。[Root.GetName]只能退后一步，看着星球的毁灭，以及它表面上的小型科学团队。"
+ sith_machine_anomaly.10.desc.coll:0 "科学家[Root.GetLeaderName]紧张地报告说，尽管他们尽了最大的努力，[From.From.GetName]上系统的重新激活还是彻底失败了。并不是由于[Root.GetLeaderName]的无能，在长时间休眠的系统重新激活后不久，它很快就不堪重负，无法关闭，导致在其表面和表面下发生多次大规模爆炸。[Root.GetName]只能在合作他们的报告的同时逃离星球和科研团队的毁灭。"
+ sith_machine_anomaly.10.desc.ind:0 "科学家[Root.GetLeaderName]很不高兴地报告说，[From.From.GetName]上的系统的重新激活失败了。一旦长时间休眠的系统重新启动，它很快就会被错误所淹没，这些错误会在它的表面和表面下产生大量令人印象深刻的爆炸，导致整个星球和地面部队被炸得支离破碎。"
+ sith_machine_anomaly.10.desc.hive:0 "科学家[Root.GetLeaderName]有条不紊地报告[From.From.GetName]上系统的重新激活遇到了可怕的命运。一旦长时间休眠的系统重新启动，它很快就会被错误所淹没，这些错误很快就会在它的表面和表面下产生大量爆炸，导致星球被炸得四分五裂。"
+ sith_machine_anomaly.10.desc.mach:0 "科学家[Root.GetLeaderName]系统地报告说，重新激活系统是一个严重的错误。长时间休眠的系统重新激活，但很快就被无法计算的错误所淹没，导致地面网络的许多成员超负荷关闭。在不到0.404次循环之后，世界各地的系统在其表面和表面下接连发生了无数次爆炸，导致了一个充满希望的星球的终结。"

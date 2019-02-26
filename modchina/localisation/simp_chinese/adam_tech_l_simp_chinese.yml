@@ -1,0 +1,60 @@
+﻿l_simp_chinese:
+
+ tech_mining_large_scale:0 "大规模的开采"
+ tech_mining_large_scale_desc:0 "一个更大的矿场允许从行星中提取更多的矿物。"
+ tech_matter_fabricating:0 "制造问题"
+ tech_matter_fabricating_desc:0 "有了大量的能量，就有可能创造出有价值的矿物。"
+ tech_micro_star_forge:0 "微星锻造"
+ tech_micro_star_forge_desc:0 "虽然它没有环绕恒星那么大，但是这个巨大的设施创造了大量的资源来交换更高的能源使用。"
+
+ tech_power_plant_singularity:0 "奇点发电理论"
+ tech_power_plant_singularity_desc:0 "黑洞和暗物质之间的相互作用可以使大量的能量，如果暗物质被正确的使用。"
+ tech_white_matter_extraction:0 "白质的反应"
+ tech_white_matter_extraction_desc:0 "白质是暗物质的一种反类型，它可以作为暗物质发电的主要催化剂。"
+ tech_white_matter_compression:0 "白质压缩"
+ tech_white_matter_compression_desc:0 "我们知道，与传统物理知识相悖的是，压缩的白质在没有任何外部能量输入的情况下成倍地增加，从而允许真正的永久发电。无论它是否违反了物理定律，空间和金钱只是对这类发电机的限制。"
+ 
+ tech_mech_army:0 "战舰制造工厂"
+ tech_mech_army_desc:0 "在前线作战的人工合成材料一直要求装备精良的机械装置进行战争。这个大型设施被设计用来制造大规模的战斗机器人来满足士兵们的所有需求。"
+ tech_elite_training:0 "灵能精英作战训练"
+ tech_elite_training_desc:0 "更强的灵能焊料可以将山磨成粉末，并在瞬间将大型坦克粉碎成垃圾。我们可以进一步训练和增强他们成为真正的超级战士。"
+ 
+ tech_adam_biolab_5:0 "生物工程的建议"
+ tech_adam_biolab_5_desc:0 "仅仅掌握生命的秘密是不够的。我们必须抓住生命本身的机会。"
+ tech_adam_engineering_lab_5:0 "结构理论"
+ tech_adam_engineering_lab_5_desc:0 "新发现的材料的性质使我们能够理解这些成分。"
+ tech_adam_physics_lab_5:0 "物质能量理论"
+ tech_adam_physics_lab_5_desc:0 "最近的一些发现，例如暗物质，让我们重新思考物质与能量之间的关系。"
+ 
+ tech_adam_biolab_6:0 "完美生物工程"
+ tech_adam_biolab_6_desc:0 "进一步的研究将使我们在生物学问题上真正地完善这些改进。"
+ tech_adam_engineering_lab_6:0 "带状结构理论"
+ tech_adam_engineering_lab_6_desc:0 "对材料成分的完全理解可以使我们在工程项目上达到新的高度。"
+ tech_adam_physics_lab_6:0 "万有理论"
+ tech_adam_physics_lab_6_desc:0 "最后，我们将拥有解释宇宙万物的理论，提供无与伦比的知识。"
+
+ tech_adam_centralized_research_institution:0 "集中研究机构"
+ tech_adam_centralized_research_institution_desc:0 "仅仅研究机构是不够的。我们需要另一个中心来实现科学突破。"
+
+ tech_adam_religion_of_science:0 "科学的宗教"
+ tech_adam_religion_of_science_desc:0 "我们需要一种不依赖幻想或任何非感官的宗教。也许科学是我们所有人的宗教。"
+
+ tech_ada_the_knowledge:0 "知识"
+ tech_ada_the_knowledge_desc:0 "科学只不过是更大的概念和知识的一部分。如果知识的最后一支蜡烛熄灭，我们将失去理智，无知的黑暗将永远统治我们。它必须有一座灯塔来保护知识之光。"
+
+
+ tech_adam_agriculture_processing:0 "农业工艺处理"
+ tech_adam_agriculture_processing_desc:0 "为了满足每个人的需要，精心设计了一个庞大的食品加工设施。"
+
+ tech_ada_small_scale_ecological_adaptation:0 "小规模的生态适应"
+ tech_ada_small_scale_ecological_adaptation_desc:0 "基于我们已经收集的地表成形技术，这些增强的天堂圆顶为人口提供了更好的支持。"
+
+ tech_ada_utopian_society:0 "乌托邦社会"
+ tech_ada_utopian_society_desc:0 "用这些圆顶作为基础，也许我们可以为每个人追求真正的乌托邦。"
+ 
+ tech_ada_sanctuary_proposal:0 "圣所的提议"
+ tech_ada_sanctuary_proposal_desc:0 "我们为更好的社会所做的不懈努力的最终结果是“庇护所”，它几乎已经完成，只有最后的批准。"
+
+ tech_ada_the_hope:0 "希望"
+ tech_ada_the_hope_desc:0 "这个特别的巨型建筑，一个伟大的“灯塔”，有一个目的:希望。也许这就是我们从一开始就缺少的东西。这个庞大的中心旨在为所有人带来希望。"
+ 

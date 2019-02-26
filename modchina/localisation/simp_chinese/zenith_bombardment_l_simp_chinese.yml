@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ 
+ bombardment_xeno_abduction:0 "绑架外星人"
+ bombardment_xeno_abduction_desc:1 "\n$bombardment_xeno_abduction$ 用专门的突袭机瞄准敌人的人口中心，从他们星球的地表上挖出漂亮的小外星人，带回我们的世界来完成我们的收集。\n- 这将§Y不会§! 伤害 §Y军队§!\n- §Y不会§! 伤害 §Y地块§!\n- §Y不会§! 伤害 §Y人口§!\n- 我们将 §Y绑架§! 人口，只要有可能，而不会是杀死他们。\n- 将 §R不会§! 绑架或杀死最后 §Y5§! 个人口\n"
+ 
+ allow_xeno_abduction:0 "\n允许 §Y绑架外星人§! 轨道轰炸立场"
+ 

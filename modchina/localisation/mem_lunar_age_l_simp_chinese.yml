@@ -1,0 +1,217 @@
+﻿#LUNAR AGE
+
+l_simp_chinese:
+ 
+ #CIVICS
+ civic_mem_colonial_greed:0 "殖民贪欲"
+ civic_mem_colonial_administration:0 "殖民政府"
+ civic_mem_land_of_opportunity:0 "充满机会的土地"
+ civic_mem_declaration_of_independence:0 "独立宣言"
+ civic_mem_rebellion_quelled:0 "叛乱平息"
+ civic_mem_never_again:0 "永不再犯"
+ civic_mem_memories_of_homeworld:0 "母星回忆"
+ 
+ civic_mem_colonial_greed_desc:0 "香料必须流动。（这个市民不该被看到）"
+ civic_mem_colonial_administration_desc:0 "$civic_mem_colonial_greed_desc$"
+ civic_mem_land_of_opportunity_desc:0 "$civic_mem_colonial_greed_desc$"
+ civic_mem_declaration_of_independence_desc:0 "$civic_mem_colonial_greed_desc$"
+ civic_mem_rebellion_quelled_desc:0 "$civic_mem_colonial_greed_desc$"
+ civic_mem_never_again_desc:0 "$civic_mem_colonial_greed_desc$"
+ civic_mem_memories_of_homeworld_desc:0 "$civic_mem_colonial_greed_desc$"
+ 
+ #GOVERNMENTS
+ mem_gov_fragmented_nation_states:0 "$gov_fragmented_nation_states$"
+ mem_gov_fragmented_nation_states_desc:0 "$gov_fragmented_nation_states_desc$"
+ 
+ mem_gov_colony:0 "轨道殖民地"
+ mem_gov_colony_desc:0 "一个为母星利益，由母星管理的属地。"
+ 
+ MEM_RULER_GOVERNOR:0 "行星总督"
+ MEM_RULER_GOVERNOR_FEMALE:0 "$MEM_RULER_GOVERNOR$"
+ 
+ mem_gov_colony_democratic:0 "国会共和国"
+ mem_gov_colony_democratic_desc:0 "在早期行星统一时形成的这种原始形式的民主，追求在确保全体居民通过民选代表影响全球政治。仍然缺乏统一的行星政府，组成地区保留重要的主权。"
+ 
+ MEM_RULER_COLONY_DEM:0 "总理"
+ MEM_RULER_COLONY_DEM_FEMALE:0 "$MEM_RULER_COLONY_DEM$"
+ 
+ mem_gov_colony_oligarchic:0 "联合行星委员会"
+ mem_gov_colony_oligarchic_desc:0 "在早期行星统一时形成的这种原始形式的寡头统治，力图在一小群未经选举的官员的控制下管理星球事务。仍然缺乏统一的行星政府，组成地区保留重要的主权。"
+ 
+ MEM_RULER_COLONY_OLI:0 "主席"
+ MEM_RULER_COLONY_OLI_FEMALE:0 "主席"
+ 
+ mem_gov_colony_dictatorial:0 "行星专政"
+ mem_gov_colony_dictatorial_desc:0 "在早期行星统一时形成的这种原始独裁形式，力图在一位官员的绝对权力下保护其行星利益。仍然缺乏统一的行星政府，组成地区保留重要的主权。"
+ 
+ MEM_RULER_COLONY_DIC:0 "第一公民"
+ MEM_RULER_COLONY_DIC_FEMALE:0 "$MEM_RULER_COLONY_DEM$"
+ 
+ mem_gov_colony_imperial:0 "行星王国"
+ mem_gov_colony_imperial_desc:0 "在早期行星统一时形成的这种原始形式的君主制，力图将统一整个行星统一在一个单一的世袭权力下。仍然缺乏统一的行星政府，组成地区保留重要的主权。"
+ 
+ MEM_RULER_COLONY_IMP:0 "国王"
+ MEM_RULER_COLONY_IMP_FEMALE:0 "女王"
+ 
+ #AGES
+ mem_lunar_age:0 "月球时代"
+ mem_lunar_age_desc:0 "一个相当不寻常的发展阶段，由于接邻一个可居住的世界，这个文明开始在突破光障之前殖民其他行星。"
+ 
+ mem_lunar_age_colony:0 "月球殖民地"
+ mem_lunar_age_colony_desc:0 "一个在FTL前的文明抵达的星球，由冒险家，流浪者和机会主义者组成。"
+ 
+ #MODIIFIERS
+ mem_lunar_age_annex_modifier:0 "从我们自己手上拯救了我们"
+ 
+ mem_lunar_age_supported_us:0 "支持我们"
+ mem_lunar_age_supported_rebels:0 "支持叛军"
+ mem_lunar_age_supported_tyrants:0 "支持暴君"
+ mem_lunar_age_tried_annexation:0 "试图吞并我们"
+ mem_lunar_age_refused_request:0 "拒绝我们的请求"
+ mem_lunar_age_refused_to_stop:0 "拒绝停止启发我们的殖民地"
+ 
+ #BUILDINGS
+ mem_lunar_age_monument:0 "战争纪念馆"
+ mem_lunar_age_monument_desc:0 "致力于在毫无意义的战争中丧生的所有生命的纪念。永不再犯。"
+ 
+ #OBSERVATION OUTPOST ISSUES
+ mem_lunar_age_cant_englighten:0 "该文明在过多动荡中无法启发"
+ mem_lunar_age_promised:0 "我们保证不单方面启发殖民地。"
+ 
+ mission_mem_lunar_technological_enlightenment:0 "$mission_technological_enlightenment_9$"
+ mission_mem_lunar_technological_enlightenment_desc:0 "$mission_technological_enlightenment_9_desc$"
+ 
+ #First contact events
+ mem_lunar_age.1.name:0 "月球年代"
+ mem_lunar_age.1.desc:0 "[Root.GetName]的船员报告说，在扫描行星的同时，他们发现了一个原始文明。\n\n虽然他们还没有掌握星际飞行，但这些所谓的[From.Owner.GetName]已经离开了它的母星世界[From.GetName]的边界，并开始殖民他们的天然卫星[the_moon.GetName]。\n\n显然，这颗卫星是天然宜居住的，这使他们能够轻松地在那里安置大量人口。因为其母星的国家政府和企业的专门利用这个殖民地的剥削政策，这两个星球之间的关系并不稳定。\n\n我们应该考虑在他们的星球上建立一个§Y观测站§!以更仔细地研究他们。"
+ 
+ mem_lunar_age.2.name:0 "月球年代"
+ mem_lunar_age.2.desc:0 "[Root.GetName]的船员报告说，在扫描行星的同时，他们发现了一个原始文明。\n\n然而，他们称为[From.GetName]的月球实际上并不是他们的母星，而是一个殖民地，他们的大部分人口居住在[From.GetName]的初始星球 - [the_planet.GetName]上。\n\n显然，这颗卫星是天然宜居住的，这使他们能够轻松地在那里安置大量人口。因为其母星的国家政府和企业的专门利用这个殖民地的剥削政策，这两个星球之间的关系并不稳定。\n\n我们应该考虑在他们的世界上建立一个§Y观测站§!以更仔细地研究他们。"
+ 
+ #Independence path
+ 
+ mem_lunar_age.301.name:0 "独立讨论"
+ mem_lunar_age.301.desc:0 "[From.GetName]的人们已经有一段时间不满意他们与大部分[home_faction.GetName]之间的关系。\n\n最近，这种不满情绪尤其明显，当地居民在街头暴动，政客在黑暗的房间里阴谋诡计。如果没有什么改变，看上去[home_faction.GetName]将面临暴力起义和潜在的毁灭性内战。"
+ 
+ mem_lunar_age.303.name:0 "准许独立"
+ mem_lunar_age.303.desc:0 "意想不到的转折发生了，[home_faction.GetName]许多国家政府的管理机构已经与其月球对手签署了一项条约。\n\n这项新协议旨在缓解对殖民者造成的不公正对待，并赋予他们充分的自治，经济和政治独立。"
+ 
+ mem_lunar_age.305.name:0 "实现独立"
+ mem_lunar_age.305.desc:0 "[moon_faction.capital_scope.GetName]的公民今天正式过渡到完全主权。一个跨越整个月球，称自己为[moon_faction.GetName]的新国家已经正式公布其宪法并全面控制了行政部门。"
+ 
+ mem_lunar_age.306.name:0 "拒绝独立"
+ mem_lunar_age.306.desc:0 "可以预见的是，[home_faction.GetName]的精英们并没有对他们的殖民地的试图脱身表示善意。\n\n如果目前的过程不尽快发生变化，我们可以预料两个行星之间将发生全面战争。"
+ 
+ mem_lunar_age.308.name:0 "殖民地动员"
+ mem_lunar_age.308.desc:0 "最新宣布的消息，[moon_faction.GetName]现在已经在控制几乎整个[moon_faction.capital_scope.GetName]，开始积极动员星际战争。\n\n走向毁灭性的战争已设定。"
+ 
+ mem_lunar_age.310.name:0 "母星准备战争"
+ mem_lunar_age.310.desc:0 "在[moon_faction.capital_scope.GetName]上进行持续殖民统治的[home_faction.capital_scope.GetName]的国家正积极调动他们的部队，以回应自称为[moon_faction.GetName]的行动。\n\n根据我们的估计，战争在这一点上是不可避免的......除非有意料之外的人选择干涉。"
+ mem_lunar_age.310.a:0 "这不是我们的战斗。"
+ mem_lunar_age.310.a.tooltip:0 "$mem_lunar_age.312.a.tooltip$"
+ mem_lunar_age.310.b:0 "我们现身并开始谈判。"
+ 
+ mem_lunar_age.312.name:0 "$TRANSMISSION$ 来自[home_faction.capital_scope.GetName]"
+ mem_lunar_age.312.desc:0 "你好...外星人。我们已收到你提出的干预我们事务的提议。\n\n让我这样说吧：我们 不 感 兴 趣。我们不信任你，也不认可你的权威。远离我们的事务。"
+ mem_lunar_age.312.a:0 "很好.接下来发生的事情完全取决于你们自己。"
+ mem_lunar_age.312.a.phile: "不！你们犯了一个严重的错误！"
+ mem_lunar_age.312.a.tooltip:0 "战争将在§Y[moon_faction.GetName]§!和§Y[home_faction.GetName]§!之间爆发."
+ mem_lunar_age.312.b:0 "你们必须谈判，不然我们将亲手毁灭你们。"
+ mem_lunar_age.312.b.tooltip:0 "我们可以逼迫§Y[moon_faction.GetName]§!和§Y[home_faction.GetName]§!进入谈判，但他们不会高兴。"
+ 
+ mem_lunar_age.313.benign:0 "你们好，外星朋友。我被授权与你们通信。\n\n[home_faction.capital_scope.GetName]的大多数国家的代表，还有来自所谓的[moon_faction.GetName]的代表，今天聚集在了一起，听你讲话。也许在你的帮助下，我们可以避免可怕的灾难。"
+ mem_lunar_age.313.aggro:0 "很好，外星人。意识到你的火力，我们将不得不屈服于你的要求，听从你的话。\n\n[home_faction.capital_scope.GetName]的大多数国家的代表，还有来自所谓的[moon_faction.GetName]的代表，今天聚集在了一起等待你的干涉结果。你有什么要说的？"
+ mem_lunar_age.313.a:0 "[moon_faction.GetName]应该独立。"
+ mem_lunar_age.313.a.tooltip:0 "[moon_faction.GetName]将正式与他们在[home_faction.capital_scope.GetName]的母星分离。"
+ mem_lunar_age.313.a.response:0 "很好。只要我们双方都各自管理各自的计划，我们就可以达成协议。 那些[moon_faction.capital_scope.GetName]可以有其自主性。正式承认[moon_faction.GetName]为具有自主权的国家的程序将很快完成。"
+ mem_lunar_age.313.b:0 "恢复原状。殖民地属于他来自母星的赞助人。"
+ mem_lunar_age.313.b.tooltip:0 "[moon_faction.GetName]将不再作为一个独立的国家存在。"
+ mem_lunar_age.313.b.response:0 "成交。我已经迫不及待想告诉来自所谓[moon_faction.GetName]的代表们他们的独立完蛋了。"
+ mem_lunar_age.313.c:0 "你们无法自己管理好自己。我们会为你做的。"
+ mem_lunar_age.313.c.tooltip:0 "我们将试图吞并[home_faction.capital_scope.GetName]和[moon_faction.capital_scope.GetName]。不过当地人不会乖乖就范。"
+ 
+ mem_lunar_age.314.desc:0 "很好。你说的有道理。\n\n你们走遍了整个银河系，而我们只是在一块岩石上争吵。独立已经将我们带进了彻底毁灭的边缘。 \n\n我们臣服于你们的权威。"
+ 
+ mem_lunar_age.315.desc:0 "什么？你一定在开玩笑。\n\n一开始你向主人传递谈判，而现在你要求我们向你投降？这种情况绝不会发生。\n\n我们已经准备好了保卫自己，即使这场战争毫无希望，我们也将和你斗争到底。来征服我们的世界吧，外星人，如果你敢的话。"
+ mem_lunar_age.315.a:0 "你们会后悔的。"
+ 
+ mem_lunar_age.317.name:0 "[home_faction.GetAdj]母星投降"
+ mem_lunar_age.317.desc:0 "在[moon_faction.capital_scope.GetName]和[home_faction.capital_scope.GetName]之间进行简短的核导弹交流后，在母星剩余的国家政府发出了无条件投降宣言。,\n\n自称的[moon_faction.GetName]已经获得独立于其以前母星的权力地位。"
+ 
+ mem_lunar_age.319.name:0 "[home_faction.GetAdj]殖民地投降"
+ mem_lunar_age.319.desc:0 "在[moon_faction.capital_scope.GetName]和[home_faction.capital_scope.GetName]之间进行简短的核导弹交流后,事情变得清晰起来，羽翼未丰的分离主义者的军事力量无法抗衡母星的既定军事力量。自称的[moon_faction.capital_scope.GetName]已经宣布无条件投降，并允许[home_faction.capital_scope.GetName]的官员再次控制月球。"
+ 
+ mem_lunar_age.321.name:0 "[home_faction.GetAdj]母星被摧毁"
+ mem_lunar_age.321.desc:0 "在[moon_faction.capital_scope.GetName]和[home_faction.capital_scope.GetName]之间进行简短的核导弹交流后，殖民军队压倒了母星的防御，并且造成了毁灭性的打击。\n\n看起来[home_faction.capital_scope.GetName]的人口已经消失，行星本身已进入核冬季。\n\n尽管殖民地胜利了，他们远远不是快乐的，许多人为战争中的巨大生命损失而哀悼。"
+ 
+ mem_lunar_age.323.name:0 "[home_faction.GetAdj]殖民地被摧毁"
+ mem_lunar_age.323.desc:0 "在[moon_faction.capital_scope.GetName]和[home_faction.capital_scope.GetName]之间进行简短的核导弹交流后，月球殖民地羽翼未丰的防御工事已被证明在扭转母星的攻击方面远远不足。 \n\n看起来[moon_faction.capital_scope.GetName]的人口已被消灭，月球本身已进入核冬季。\n\n所有在[home_faction.capital_scope.GetName]上的国家都在为这场战争的生命损失而哀悼。"
+ 
+ mem_lunar_age.325.name:0 "[home_faction.GetName]已被摧毁"
+ mem_lunar_age.325.desc:0 "[moon_faction.capital_scope.GetName]和[home_faction.capital_scope.GetName]之间的核打击交换迅速升级。双方都证明了他们能够发挥更大的进攻能力，而不是防御能力。\n\n经过短暂的核交流后，两个世界的人口都被摧毁了，行星和月球都进入了核冬季。"
+ 
+ #Nuclear war
+ mem_lunar_age.401.name:0 "[From.GetName]陷入核战争"
+ mem_lunar_age.401.desc:0 "我们的观测站报告了在[the_planet.GetName]上发生的国家之间的大规模战争。\n\n这似乎是在为月球[moon_faction.capital_scope.GetName]的殖民权的争夺的殖民权利长期争议的高潮，冲突已经升级为使用核武器。\n\n截至目前，[the_planet.GetName]正在进入核冬天的状态，其人口死亡或没有生存希望。\n\n然而，[moon_faction.GetName]仍然存在，在[From.GetName]月球上的殖民者无助地看着他们的亲属摧毁自己。现在他们是负责继承他们物种遗产的人。"
+ mem_lunar_age.401.a:0 "我们来看看他们是如何处理这个遗产的。"
+ 
+ #Enlightenment events
+ mem_lunar_age.501.name:0 "来自[country_we_uplifted.GetName]的要求"
+ mem_lunar_age.501.homeworld:0 "你好，朋友。\n\n我们感谢您为启发我们的文明所做的努力，并邀请我们进入一个新时代，然而，我们仍然需要解决一个问题。\n\n我们在[country_we_not_uplifted.capital_scope.GetName]上的殖民地同胞在这个过程中被抛在后面，仍然无法踏入这一进步的奇迹。他们恳求我们启发他们。\n\n我们要求您的同意，让我们吞并他们的世界，让他们加入我们新发现的前进。"
+ mem_lunar_age.501.moon: "你好，朋友。\n\n我们感谢您为启发我们的文明所做的努力，并邀请我们进入一个新时代，然而，我们仍然需要解决一个问题。\n\n我们在[country_we_not_uplifted.capital_scope.GetName]上的母星同胞在这个过程中被抛在后面，仍然无法踏入这一进步的奇迹。他们恳求我们启发他们。\n\n我们要求您的同意，让我们吞并他们的世界，让他们加入我们新发现的前进。"
+ mem_lunar_age.501.a:0 "拒绝。我们对他们有不同的计划。"
+ mem_lunar_age.501.b:0 "允许。"
+ 
+ mem_lunar_age.503.name:0 "$TRANSMISSION$来自[home_faction.capital_scope.GetName]"
+ mem_lunar_age.503.desc:0 "你好，外星人。\n\n我们注意到，你派出了顾问，以完成在[moon_faction.capital_scope.GetName]上“启发”我们的殖民者的任务。\n\n我们发现你这样做的事实是忽略了殖民地的合法主人，这是不能接受的。\n\n因此，我们要求你要不然也将你的顾问派给我们，要不然你召回派到我们的殖民地的顾问。"
+ mem_lunar_age.503.a:0 "我们想启发谁就启发谁。"
+ mem_lunar_age.503.a.tooltip:0 "这将激怒在§Y[home_faction.capital_scope.GetName]§!上的政府，他们可能采取行动来破坏我们的努力成果。"
+ mem_lunar_age.503.b:0 "很好.我们将召回我们的顾问。"
+ mem_lunar_age.503.b.tooltip:0 "如果我们向这个要求妥协，我们以后将不能在不启发§Y[home_faction.capital_scope.GetName]§!的同时启发在§Y[moon_faction.capital_scope.GetName]§!上的人口。"
+ mem_lunar_age.503.c:0 "很好.我们会将顾问也派到你们的世界。"
+ mem_lunar_age.5.c.tooltip:0 "在[home_faction.capital_scope.GetName]的观测哨所的任务将被设置为§Y$mem_lunar_technological_enlightenment$§!. \n\n$mem_lunar_age.503.b.tooltip$"
+ mem_lunar_age.503.c.fail_text:0 "我们不控制在[home_faction.capital_scope.GetName]的观测哨所."
+ 
+ mem_lunar_age.507.name:0 "在[moon_faction.capital_scope.GetName]!的核恐怖"
+ mem_lunar_age.507.desc:0 "看来在§Y[home_faction.capital_scope.GetName]§!的政府正拼命破坏我们在§Y[moon_faction.capital_scope.GetName]§!上的启发工作。\n\n今天，他们的间谍在我们的一个化合物内偷运了一颗原子弹，并将其引爆，导致我们的顾问以及大量当地公民死亡。\n\n这无疑会扰乱我们的努力。"
+ mem_lunar_age.507.a:0 "疯子！"
+ 
+ mem_lunar_age.508.name:0 "在[moon_faction.capital_scope.GetName]!的恐怖行为"
+ mem_lunar_age.508.desc:0 "今日我们对§Y[moon_faction.capital_scope.GetName]§!的启发工作被来自§Y[home_faction.capital_scope.GetName]§!的间谍破坏了。\n\n毫无疑问，针对我们的顾问和当地联络官进行暗杀的恐怖活动无疑会使我们的工作推迟。"
+ mem_lunar_age.508.a:0 "野蛮人。"
+ 
+ #DEBUG MENU - NO NEED TO PROOFREAD OR TRANSLATE
+ mem_lunar_age.9990.name:0 "LUNAR AGE调试菜单"
+ mem_lunar_age.9990.desc:0 "这是Lunar Age debug的调士菜单。在这里你可以做任何事情。\n\n建议您使用作弊码来控制这个系统。\n\n如果条件不满足，事件就不会发生。\n\n星系名称是§Y[lunar_age_system.GetName]§!。如果你没看到名字，就意味着它没有在游戏中出现。你必须重新启动它，因为星系初始化器以非常神秘的方式工作。"
+ mem_lunar_age.9990.a:0 "强制生成（不会产生第二个）"
+ mem_lunar_age.9990.b:0 "放置POI"
+ mem_lunar_age.9990.c:0 "强制结束宽限期"
+ mem_lunar_age.9990.d:0 "强制独立"
+ mem_lunar_age.9990.e:0 "强制箱庭世界使用核弹"
+ mem_lunar_age.9990.f:0 "强制箱庭世界进入太空时代"
+ mem_lunar_age.9990.g:0 "什么也不做"
+ mem_test_poi_title:0 "月球时代星系"
+ mem_test_poi_desc:0 "那算一个"
+
+
+ d_mem_lunar_age_monument:0 "$mem_lunar_age_monument$"
+ d_mem_lunar_age_monument_desc:0 "$mem_lunar_age_monument_desc$"
+
+ building_mem_lunar_age_elevator:1 "原始太空电梯"
+ building_mem_lunar_age_elevator_desc:1 "紧密的碳纳米管制成的大规模缆线将行星表面与轨道上的空间站点连接起来。对于低技术物种来说是进行星际贸易的必须条件。"
+
+ building_mem_lunar_age_colonial_administration:0 "殖民地政府"
+ building_mem_lunar_age_colonial_administration_desc:0 "监督殖民地行动的庞大行政大楼。一堵巨大的墙将其与特权较低的移民隔离开来，确保他们对财产所有权和利润分配的那些缺乏教养的意见不被听见。"
+
+ building_mem_lunar_age_colonial_housing:0 "殖民地住房"
+ building_mem_lunar_age_colonial_housing_desc:0 "广阔的居民住宅区，殖民地工人们在这花费许多时间充实自己的生活。"
+
+ job_mem_lunar_age_trader:1 "月球商人"
+ job_mem_lunar_age_trader_plural:1 "月球商人"
+ job_mem_lunar_age_trader_desc:1 "去开采头顶的月球可不是一件轻松惬意的事，但总得有人去做。"
+ mod_job_mem_lunar_age_trader_add:1 "$job_mem_lunar_age_trader$ 职位"
+
+ job_mem_lunar_age_administrator:1 "殖民地管理者"
+ job_mem_lunar_age_administrator_plural:1 "殖民地管理者"
+ job_mem_lunar_age_administrator_desc:1 "代表下面这个星球上的公司和政府负责管理殖民事务的官员。"
+ mod_job_mem_lunar_age_administrator_add:1 "$job_mem_lunar_age_administrator$ 职位"

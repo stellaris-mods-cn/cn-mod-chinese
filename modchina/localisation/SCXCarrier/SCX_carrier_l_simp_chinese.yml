@@ -1,0 +1,95 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # SHIPS/STRUCTURES
+ ####################################
+
+ SCX_CARRIER: "航母"
+
+ SCX_Carrier: "航母"
+ SCX_Carrier_plural: "航母"
+ 
+ ###################################
+ # SHIP COMPONENTS
+ ###################################
+ 
+ SCX_CARRIER_FISSION_REACTOR:1 "$FISSION_REACTOR$"
+ SCX_CARRIER_FUSION_REACTOR:1 "$FUSION_REACTOR$"
+ SCX_CARRIER_COLD_FUSION_REACTOR:1 "$COLD_FUSION_REACTOR$"
+ SCX_CARRIER_ANTIMATTER_REACTOR:1 "$ANTIMATTER_REACTOR$"
+ SCX_CARRIER_ZERO_POINT_REACTOR:1 "$ZERO_POINT_REACTOR$"
+ SCX_CARRIER_DARK_MATTER_REACTOR:1 "$DARK_MATTER_REACTOR$"
+ 
+ SCX_CARRIER_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+ SCX_CARRIER_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+ SCX_CARRIER_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+ SCX_CARRIER_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+ SCX_CARRIER_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+ SCX_CARRIER_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+ SCX_CARRIER_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+ SCX_CARRIER_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+ SCX_CARRIER_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+ SCX_CARRIER_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+ 
+ ###################################
+ # SHIP COMPUTERS
+ ###################################
+ 
+ SCX_COMBAT_COMPUTER_CARRIER_DEFAULT:0 "基本战斗计算机"
+ SCX_COMBAT_COMPUTER_CARRIER_BASIC:0 "战斗计算机 (航母)"
+ SCX_COMBAT_COMPUTER_CARRIER_ADVANCED:0 "先进战斗计算机 (航母)"
+ SCX_COMBAT_COMPUTER_CARRIER_SAPIENT:0 "聪慧战斗计算机 (航母)"
+ SCX_COMBAT_COMPUTER_CARRIER_AUTONOMOUS:0 "自主智慧驾驶 (航母)"
+ SCX_COMBAT_COMPUTER_CARRIER_PRECOG:0 "预知接口 (航母)"
+ 
+ SCX_CARRIER_DEF_BEHAVIOR_DESC:0 "§H航母行为:§! 这艘船将留在舰队的后面，提供攻击机支援。"
+ 
+ ####################################
+ # TECH STUFF
+ ####################################
+ 
+ tech_scx_carrier_1: "航母"
+ tech_scx_carrier_1_desc: "新的设施和舰队理论的调整允许建造航母级军用舰艇。"
+
+ TECH_UNLOCK_SCX_CARRIER_CONSTRUCTION_TITLE: "§H解锁舰船类型:§! 航母"
+ TECH_UNLOCK_SCX_CARRIER_CONSTRUCTION_DESC: "§H航母§!\nA 专用于部署攻击机。它装备了最少的武器，但能够不断制造和发射大量的小型飞船。"
+ 
+ tech_scx_carrier_hull_1:0 "改进航母船体"
+ tech_scx_carrier_hull_1_desc:0 "建筑技术的进步将使建造更坚固和更耐用的航母成为可能。"
+ tech_scx_carrier_hull_2:0 "先进航母船体"
+ tech_scx_carrier_hull_2_desc:0 "最新一代的舰体优化了结构完整性领域和改进了舱壁。"
+ tech_scx_carrier_build_speed:0 "标准化航母模式"
+ tech_scx_carrier_build_speed_desc:0 "为航母的建模和施工建立新的标准，大大提高了生产的效率。"
+ 
+ ####################################
+ # Dynamic Modifiers
+ ####################################
+ 
+ mod_shipsize_SCX_Carrier_build_speed_mult: "航母构建速度"
+ mod_shipsize_SCX_Carrier_build_cost_mult: "航母构建成本"
+ mod_shipsize_SCX_Carrier_hull_add: "航母船体值"
+
+ ####################################
+ # SHIP SECTIONS
+ ####################################
+ 
+ # Carrier
+ 
+ SCX_Carrier_BOW_M1S2SHB_1: "Coverage Bow"
+ SCX_Carrier_BOW_M2S4_2: "Pinpoint Bow"
+ SCX_Carrier_BOW_M3S2: "Barrage Bow"
+
+ SCX_Carrier_MID1_M4SHB: "Fleet Carrier Core 1"
+ SCX_Carrier_MID1_S4LHB_2: "Super Carrier Core 1"
+ SCX_Carrier_MID1_S4LHB_3: "Graviton Catapult Core 1"
+
+ SCX_Carrier_MID2_M4SHB: "Fleet Carrier Core 2"
+ SCX_Carrier_MID2_S4LHB_2: "Super Carrier Core 2"
+ SCX_Carrier_MID2_S4LHB_3: "Graviton Catapult Core 2"
+
+ SCX_Carrier_STERN_M1S2_1: "Fussilade Stern"
+ SCX_Carrier_STERN_M1S2_2: "Barrier Stern"
+ SCX_Carrier_STERN_M2: "Broadside Stern"
+ SCX_Carrier_STERN_S4_1: "Barrage Stern"
+ SCX_Carrier_STERN_S4_2: "Pinpoint Stern"
+ SCX_Carrier_STERN_S4_3: "Coverage Stern"

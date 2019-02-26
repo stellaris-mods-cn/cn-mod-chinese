@@ -1,0 +1,66 @@
+﻿
+#By ViolentBeetle
+l_simp_chinese:
+ mem_ark_object:0 "古老的空间站"
+
+ mem_ark.2.name:0 "太空怪谈"
+ mem_ark.2.desc:0 "除了生活在那里的原始文明，§Y[the_planet.GetName]§!的其他一些东西也引起了我们的注意。 \n\n一个空间站正在环绕星球运行，它比当地居民拥有的任何技术都要先进得多，但又太过原始，无法由外星智慧生物建造。"
+ mem_ark.2.a:0 "有趣。"
+ mem_ark.2.a.tooltip:0 "在星球上方建造一个§S观测站§!，或者征服它来获取更多信息。"
+
+ mem_ark.4.name:0 "不属于这里的东西"
+ mem_ark.4.desc:0 "我们观察§Y[the_planet.GetName]§!已经有很长一段时间了，并且证实了当地居民没有办法建造和发射空间站。 \n\n这个空间站一定是别人在他们的世界之上建造的。"
+ mem_ark.4.a:0 "我们需要更多的了解。"
+ 
+ #This event uses title and options from .4
+ mem_ark.5.desc:0 "我们在§Y[the_planet.GetName]§!的殖民者已经确认在[the_planet.GetPlanetMoon]上空的轨道上存在一个原始的空间站。 \n\n[mem_ark_grounders.GetNamePlural]没有办法构建这样一个结构，所以现在的问题是，谁因为什么或者为了什么而建造了这个空间站?"
+
+ MEM_ARK_PROJECT:0 "调查空间站"
+ MEM_ARK_PROJECT_DESC:0 "位于§Y[the_planet.GetName]§!之上的空间站看起来明显是不太正常——那些本来可以建造它的人显然还不够先进。"
+
+ mem_ark.100.name:0 "方舟"
+ mem_ark.100.desc:0 "在[the_planet.GetName]轨道上大约已经有500年的历史了。 \n\n从[Root.GetName]科研人员所能收集到的数据来看，星球实际上在空间站建造时经历了一场核战争或类似的灾难。目前被称为[mem_ark_grounders.GetNamePlural]的物种经历了严重突变的幸存者的后代，而最后一个原始物种[mem_ark_sky_people.GetNamePlural]在轨道上找到了避难所。 \n\n装载着低温太空舱和各种设备的登陆舱仍然附着在空间站上，等待部署。表面上看，原本要发射火箭的维修人员耗尽了补给，在表面被认为适宜居住之前就死亡了。这一阶段，除了向下发吊舱之外，任何企图都会毁坏它。"
+ mem_ark.100.a:0 "打开太空舱。"
+ mem_ark.100.a.tooltip:0 "一个[mem_ark_sky_people.GetName] £pop  人口添加到星球上。"
+ mem_ark.100.a.delayed:0 "我们应该在星球有空间的时候打开太空舱。"
+ mem_ark.100.a.delayed.tooltip:0 "在§Y[the_planet.GetName]§!中添加一个行星法令，给一个空的地块添加一个新的£pop  人口。"
+ mem_ark.100.b:0 "最好不要碰任何东西。"
+ mem_ark.100.c:0 "把一切设施关闭，研究空间站。"
+ mem_ark.100.d:0 "关闭空间站，毁灭所有太空舱。"
+
+ mem_ark.102.name:0 "[the_planet.GetName]: 知识就是力量"
+ mem_ark.102.desc:0 "看来，在§Y[the_planet.GetName]§!表面上的[mem_ark_grounders.GetAdj]原住民和[mem_ark_sky_people.GetAdj]新来者之间最初的紧张关系之后，他们终于实现了持久的和平。 \n\n[mem_ark_sky_people.GetNamePlural]用各种各样的技术设备让每个人眼花缭乱，给具有科学头脑的[mem_ark_grounders.GetNamePlural]留下了深刻的印象，他们要求新来者成为他们的新领导人。"
+ mem_ark.102.a:0 "一个明智的选择。"
+ mem_ark.102.b:0 "感到忧虑。"
+
+ mem_ark.103.name:0 "[the_planet.GetName]: 优势火力"
+ mem_ark.103.desc:0 "在§Y[the_planet.GetName]§!表面上的[mem_ark_grounders.GetAdj]土著和[mem_ark_sky_people.GetAdj]新来者最初的紧张关系之后，冲突爆发成一场全面的战争。 \n\n然而，无论有多少[mem_ark_grounders.GetAdj]战士冲进了这些固若金汤的后来者的阵地，他们都无法与[mem_ark_sky_people.GetNamePlural]带来的自动武器抗衡。最后，土著人别无选择，只好把所有的权力交给侵略者。"
+ mem_ark.103.a:0 "精彩的表演。"
+ mem_ark.103.b:0 "他们有一天可能会成为威胁……"
+ mem_ark.103.c:0 "那真的是必要的吗?"
+
+ mem_ark.104.name:0 "[the_planet.GetName]: 和平与和谐"
+ mem_ark.104.desc:0 "[mem_ark_sky_people.GetNamePlural]在§Y[the_planet.GetName]§!表面上融入[mem_ark_grounders.GetAdj]社会并没有什么困难。 \n\n他们中的大多数人似乎迷恋[mem_ark_grounders.GetNamePlural]发展出来的简单和平的生活方式，不想回到给他们的文明带来毁灭的高科技社会。"
+ mem_ark.104.a:0 "对他们来说很好。"
+ mem_ark.104.b:0 "少一个值得担心的威胁。"
+ mem_ark.104.c:0 "嗯,那可真是愚蠢的。"
+
+ mem_ark.105.name:0 "[the_planet.GetName]: 天神"
+ mem_ark.105.desc:0 "[mem_ark_sky_people.GetNamePlural]似乎很幸运。[mem_ark_grounders.GetAdj]文化以[mem_ark_sky_people.GetAdj]物种突变前的意象为特色，作为一种神圣的形式或居住在失乐园的圣人。 \n\n现在，[mem_ark_grounders.GetNamePlural]突然遇到了这样的人，大多数人对他们宣誓效忠，称他们为神。大多数[mem_ark_sky_people.GetNamePlural]似乎对这种发展很满意。"
+ mem_ark.105.a:0 "这是什么异端!"
+ mem_ark.105.b:0 "白痴，全都是。"
+ mem_ark.105.c:0 "今天我要审判一个人，到底是谁这么幸运呢?"
+
+ #MODIFIERS
+ mem_ark_just_landed:0 "刚刚着陆"
+ mem_ark_background_radiation:0 "受污染的"
+ mem_ark_background_radiation_desc:0 "这颗行星的辐射水平明显升高。这还不足以让生活变得不可能，但却会让生活变得不愉快。"
+ mem_ark_station_in_orbit:0 "轨道空间站"
+ mem_ark_station_in_orbit_desc:0 "这颗行星被一个难以解释的空间站环绕。"
+
+ #EDICT
+ decision_mem_ark_release_pods:0 "释放太空舱"
+ decision_mem_ark_release_pods_desc:0 "轨道站的太空舱将被释放以安置到其中一个空地上。"
+ mem_ark_need_tile:0 "需要星球上有空闲的住房。"
+ mem_ark_edict_tooltip:0 "一个[mem_ark_sky_people.GetName] £pop  人口将被添加到这个星球上。"
+

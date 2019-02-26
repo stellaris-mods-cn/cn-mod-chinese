@@ -1,0 +1,132 @@
+﻿l_simp_chinese:
+ #Hollow Asteroid Anomaly
+ #Writing and idea by ViolentBeetle
+ #Code by Malthus
+ 
+ #Modifiers
+ mem_hollow_asteroid_resort:0 "特殊的度假胜地"
+ mem_hollow_asteroid_protector:0 "人民保护者"
+ mem_hollow_asteroid_tactics:0 "突袭战术"
+ mem_opinion_pirate_hunter:0 "海盗猎手"
+ mem_opinion_pirate_extradite:0 "拒绝引渡俘虏"
+ mem_opinion_pirate_extradite_accepted:0 "接收引渡俘虏"
+ 
+ #Anomaly Category Text
+ mem_hollow_asteroid_category:0 "一颗中空的小行星？"
+ mem_hollow_asteroid_category_desc:0 "根据我们的扫描结果，这颗小行星的质量对于它的大小来说太低了，这表明在岩石表面之下它实际上可能是空心的。"
+ 
+ #Light Failure
+ mem_hollow_asteroid.1.name:0 "一个中空的小行星"
+ mem_hollow_asteroid.1.desc:0 "确实发现小行星是空洞的。 事实上，它不是一个单一的小行星本身，而是一群几个更小的小行星，以某种方式变得纠缠并被扩散的一面焊接在一起。 一个好奇的结构，虽然价值不大。"
+ mem_hollow_asteroid.1.a:0 "令人失望的…"
+ 
+ #Critical Failure
+ mem_hollow_asteroid.2.name:0 "那是个陷阱！"
+ mem_hollow_asteroid.2.desc:0 "看来这颗小行星的空心部分是在安装某种外星装置。然而，当我们的科学团队设法破坏墙壁时，他们显然触发了某种自毁机制，使小行星与他们和他们的船一起蒸发。"
+ mem_hollow_asteroid.2.a:0 "多么可怕！"
+ 
+ #Success: Space Mausoleum
+ mem_hollow_asteroid.10.name:0 "太空陵墓"
+ mem_hollow_asteroid.10.desc:0 "当我们的科学团队发现自己的方式时，他们发现了一些意想不到的事情：死亡的外星人。 在小行星的墙壁上排列着一百多具尸体，他们穿着装饰性的衣服，身边还有各种各样显然是日常用品，它们是在太空真空中保存下来的。我们的分析表明，他们都在三十万年前死亡。 这个结构是关于这个未知的外来物种，他们的生活方式和生理的一个独特的知识来源。"
+ mem_hollow_asteroid.10.a:0 "我们可以从中学到很多东西。"
+ mem_hollow_asteroid.10.b:0 "难道他们没有听说过回收利用吗？"
+ mem_hollow_asteroid.10.c:0 "他们试图接近神…"
+ mem_hollow_asteroid.10.d:0 "他们的风俗很吸引人。"
+ 
+ #Success: Space Resort
+ mem_hollow_asteroid.20.name:0 "被遗弃的太空度假村"
+ mem_hollow_asteroid.20.desc:0 "这颗小行星的内部有一个令人难以置信的景象。多个栖息地的太空舱紧贴着小行星的墙壁，而它的中心则是一个巨大的透明球体，里面有多个人工环境。它被长期抛弃和停用，它可以轻松地重新启动，并且最小的调整可以满足我们的需要。"
+ mem_hollow_asteroid.20.a:0 "把它变成一个商业胜地。"
+ mem_hollow_asteroid.20.b:0 "确保尽可能多的市民享受这个地方。"
+ mem_hollow_asteroid.20.c:0 "拆卸结构并研究它。"
+ 
+ #Success: Ancient Art Exhibition
+ mem_hollow_asteroid.30.name:0 "古老的艺术展览"
+ mem_hollow_asteroid.30.desc:0 "我们的科学家发现了一些非常奇怪的东西。这颗小行星的内壁布满了成千上万颗被象形文字和几何图案所覆盖的巨大晶体。在不同的形状、颜色和雕刻品之间，他们找不到一对完全相同的晶体。每一颗水晶现在都被记录在档案中，但是它们的创造者想要表达的可能永远是一个谜。"
+ mem_hollow_asteroid.30.a:0 "这些都是美丽的。"
+ mem_hollow_asteroid.30.b:0 "如果没有别的，那就是集合理论中的一个很好的练习。"
+ mem_hollow_asteroid.30.c:0 "这是对创造奇迹的一种恰当的致敬。"
+ mem_hollow_asteroid.30.d:0 "要是它的创造者还在和我们分享他们的愿景就好了…"
+ 
+ #Success: Panopticon
+ mem_hollow_asteroid.40.name:0 "圆形监狱"
+ mem_hollow_asteroid.40.desc:0 "当科学小组突破小行星内部时，他们发现了无数固定在外墙上的小型生命舱。一个大的球体被固定在空间的中心，可以清楚地看到每个生命舱。这颗小行星似乎被一个以前不为人知的古老物种利用，作为一个高度安全的监狱，其理念是少数守卫可以秘密观察囚犯;两处遗址仍是乱丢垃圾的建筑。从空间站的电脑中提取的数据线索来看，故障的软件更新似乎把居民锁在了系统之外，让他们挨饿。目前还不清楚他们为什么没有获救，至少他们的尸体没有被发现。"
+ mem_hollow_asteroid.40.a:0 "我们应该研究这个监狱的设计。"
+ 
+ #Success: Kraken Quest Start
+ mem_hollow_asteroid.50.name:0 "废弃的项目"
+ mem_hollow_asteroid.50.desc:0 "随着我们的科学团队在空空小行星内进化，他们发现了一个复杂的隧道系统，导致一个空心的核心。 显然是人工设计的内衬电缆，支撑塔和未知目的的大型罐体，密封封闭，不易打开。 一个小小的天体隐藏在小行星内部，包含数据终端。 然而，需要时间来解码它们可能包含的信息。"
+ mem_hollow_asteroid.50.a:0 "得到工作。"
+ 
+ #Project finished
+ mem_hollow_asteroid.51.name:0 "在制作中的克拉肯"
+ mem_hollow_asteroid.51.desc:0 "我们从[From.GetName]内的终端拉出的数据包含令人难以置信的高度令人不安的信息。 这个整个地方假设成为一个强大的人的身体，被称为克拉肯，是古代种族极基因工程的产物。 核心和隧道将填充由保存在罐内的基因种子生长的有机组织。 自我推进，自我维持，在创造者的精神控制之下，它能够自己对抗整个舰队获胜。\n\n但是，这个项目没有完成。 罐子的使用年限对克拉肯基因种子造成遗传损害，使其不能使用。 然而，凭借其令人难以置信的再生能力，从另一个克拉肯引进的组织可以修复它，并允许我们创造自己的野兽。"
+ mem_hollow_asteroid.51.a:0 "尝试找到一个海怪的收获……"
+ mem_hollow_asteroid.51.b:0 "取消项目。有些东西最好不要动…"
+ 
+ #Success: Pirate Quest Start
+ mem_hollow_asteroid.100.name:0 "海盗"
+ mem_hollow_asteroid.100.desc:0 "看来，自然形成的洞穴系统内的小行星吸引了一批罪犯，谁不喜欢我们的探索他们的藏身处。他们调动了一队武装部队，他们用武器迅速接近。"
+ mem_hollow_asteroid.100.a:0 "准备参与！"
+ 
+ #Pirate Ships destroyed
+ mem_hollow_asteroid.102.name:0 "海盗舰队被击败"
+ mem_hollow_asteroid.102.desc:0 "最后的海盗保卫者已经被解决。一个战术团队现在可以进入他们的藏身之处以获取他们的基地并保护它。"
+ mem_hollow_asteroid.102.a:0 "派遣海军陆战队。"
+ mem_hollow_asteroid.102.b:0 "不需要这个。把整个基地挖出来。"
+ 
+ #Boarding Project
+ MEM_HOLLOW_ASTEROID_PIRATES:0 "登上海盗基地"
+ MEM_HOLLOW_ASTEROID_PIRATES_DESC:0 "我们的舰队已占领了该地区。是时候派入我们的地面部队了。"
+ 
+ #Pirate Base captured : Pirate Hideout Quest Line
+ mem_hollow_asteroid.103.name:0 "海盗的藏身之处"
+ mem_hollow_asteroid.103.desc:0 "我们的战术队伍通过海盗的防守，从防守中遇到绝望但无果的抵制。 其中许多这些袭击者在射击中丧生，但其中几个成功制服，现在被拘留，等待讯问。 此外，多年来他们从民用运输中偷走了大量的抢劫物品。"
+ mem_hollow_asteroid.103.a:0 "工作做得很好。"
+ mem_hollow_asteroid.103.b:0 "工作做得很好。"
+ 
+ #Pirate Trial
+ mem_hollow_asteroid.104.name:0 "海盗审判"
+ mem_hollow_asteroid.104.desc.01:0 "我们早些时候被捕的海盗团伙是由我们自己的帝国的公民组成的！ 那些罪犯在我们的主要旅行路线以外偷偷偷船，然后他们以偷运和袭击民用的方式生活。 进一步的讯问证实这些海盗单独行动，现在所有这些海盗都是死亡或被拘留的，我们可以向我们的公民保证恐怖终于结束了。\n\n仍然要决定俘虏应该怎么办。"
+ mem_hollow_asteroid.104.desc.02:0 "我们羁押的海盗团伙被发现主要由§Y[mem_hollow_asteroid_pirates_foreign_country.GetAdjective]§!公民组成！他们多年来一直恐吓民用航道，主要针对前国家。 进一步的讯问清楚地表明，他们是单独行动的，现在整个帮派都是死亡或被捕的。\n\n§Y[mem_hollow_asteroid_pirates_foreign_country.GetAdjective]§!提出了引渡海关的正式请求，以便他们可以对他们的家园的罪行进行审判。 拒绝他们的请求可能对我们的外交关系造成严重后果。"
+ mem_hollow_asteroid.104.a:0 "举行公开审判。"
+ mem_hollow_asteroid.104.a.tooltip:0 "将举行公开审判。“人民保护者”的修正将被添加到我们的帝国10年内提高5%的幸福感。"
+ mem_hollow_asteroid.104.b:0 "立即处决这些叛徒。"
+ mem_hollow_asteroid.104.b.tooltip:0 "这些叛徒将被公开处决加强我们的影响。"
+ mem_hollow_asteroid.104.c:0 "举行公开审判。"
+ mem_hollow_asteroid.104.c.tooltip:0 "公开审判将举行。 “人民保护者”修正案将被添加到我们的帝国，在10年内将幸福提高5%。 另外除了§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!之外的所有已知的帝国！ 将获得“海盗猎人”修正。§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!将被严重冒犯。"
+ mem_hollow_asteroid.104.d:0 "立即处决这些海盗。"
+ mem_hollow_asteroid.104.d.tooltip:0 "这些海盗将公开执行，加强我们的影响力。 另外除了§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!之外的所有已知的帝国！ 将获得“海盗猎人”意见修饰词。§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!将被严重冒犯。"
+ mem_hollow_asteroid.104.e:0 "引渡海盗。"
+ mem_hollow_asteroid.104.e.tooltip:0 "所有已知的帝国将获得“海盗猎人”意见修饰词。§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!将对我们的决定感到满意。"
+ mem_hollow_asteroid.104.f:0 "给他们一笔交易。"
+ mem_hollow_asteroid.104.f.tooltip:0 "俘虏们将被给予特赦以获得他们的合作。§Y[mem_hollow_asteroid_pirates_foreign_country.GetName]§!将被严重冒犯。"
+ mem_hollow_asteroid.104.g:0 "给他们一笔交易。"
+ mem_hollow_asteroid.104.g.tooltip:0 "战俘们将被给予一份减刑，以表示他们的合作。"
+ 
+ #The Deal: Secret stash
+ mem_hollow_asteroid.105.name:0 "秘密宝藏"
+ mem_hollow_asteroid.105.desc:0 "我们与被扣留的海盗打交道。 为了换取减刑，他们同意向我们提供多年来获得的大量抢劫的地点。 在回收的物品中，我们发现了大量有价值的物资和贵金属。"
+ mem_hollow_asteroid.105.a:0 "很好的交易。"
+ 
+ #The Deal: Raiding Tactics
+ mem_hollow_asteroid.106.name:0 "突袭战术"
+ mem_hollow_asteroid.106.desc:0 "为了换取减刑，一些海盗提供了他们的战术专长。多年的袭击让他们学会了一些规避和操纵的技巧，我们自己的舰队司令也有很多东西要向他们学习。这将使我们在今后的冲突中占优势。"
+ mem_hollow_asteroid.106.a:0 "很好的交易。"
+ 
+ #The Deal: Hidden Battlecruiser
+ mem_hollow_asteroid.107.name:0 "隐藏的战列巡洋舰"
+ mem_hollow_asteroid.107.desc:0 "作为交换，一些被逮捕的海盗提供给我们一些他们在走私活动中发现的独特的东西。一艘先进的军舰，在承受了巨大的损失后，似乎被它的船员遗弃了。根据他们的故事，他们把它拖到附近的一个小行星场，把它藏在那里，希望有一天能够重新激活它，但是这样的一天从来没有到来。有了我们帝国的资源，我们应该能够把这艘战舰恢复到正常工作状态。"
+ mem_hollow_asteroid.107.a:0 "有趣的"
+ 
+ #Repairing the Battlecruiser
+ MEM_HOLLOW_ASTEROID_PIRATES_CRUISER:0 "修理战列舰"
+ MEM_HOLLOW_ASTEROID_PIRATES_CRUISER_DESC:0 "根据海盗们的说法，这艘船状况不佳。但是我们的科学家和工程师对他们修理它的能力持乐观态度。"
+ 
+ #Hidden Battlecruiser restored
+ mem_hollow_asteroid.108.name:0 "修复完成"
+ mem_hollow_asteroid.108.desc:0 "海盗引起我们的军舰确实令人着迷。 我们从来没有见过类似的船只 - 也许永远不会，因为它的起源仍然是我们的一个谜。 现在，由于这个遗弃已被修复，其系统再次启动，强大的船只准备在我们的舰队中服役。 可能新的船员比以前的主人有更多的运气。"
+ mem_hollow_asteroid.108.a:0 "的确是一艘奇怪的船。"
+
+ mem_hollow_asteroid.110.desc:0 " "
+ em_opinion_pirate_extradite_accepted:0 """"

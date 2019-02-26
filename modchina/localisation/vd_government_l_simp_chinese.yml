@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+
+ civic_void_dwellers:0 "虚空居民"
+ civic_void_dwellers_desc:0 "这个社会抛弃了它的行星根源，完全融入了太空生活。"
+ civic_tooltip_void_dwellers_effects:1 "不能殖民§H行星§!\n§Y$MOD_COUNTRY_STARBASE_CAPACITY_MULT$§!增加§G+33%§!\n§Y$MOD_COUNTRY_STARBASE_INFLUENCE_COST_MULT$§!减少§G-40%§!\n§Y$MOD_STARBASE_UPGRADE_COST_MULT$§!减少§G-25%§!\n§Y$MOD_SHIP_UPKEEP_MULT$§!减少§G-10%§!\n游戏开始时拥有§Y$tech_starbase_3$§!技术\n§H解锁巨型建筑:§! 虚空住所"
+
+ RT_KHAN:0 "可汗"
+ RT_KHATUN:0 "可敦"
+ RT_GRAND_ADMIRAL:0 "海军上将"
+ RT_GRAND_ADMIRAL_FEMALE:0 "$RT_GRAND_ADMIRAL$"
+ RT_RECTOR:0 "校长"
+ RT_RECTOR_FEMALE:0 "$RT_RECTOR$"
+ RT_HEGEMON:0 "霸主"
+ RT_HEGEMON_FEMALE:0 "$RT_HEGEMON$"
+ 
+ gov_nomadic_khanate:0 "游牧汗国"
+ gov_nomadic_khanate_desc:0 "一切"
+ gov_despoiler_khanate:0 "掠夺者"
+ gov_despoiler_khanate_desc:0 "一切"
+ gov_admiralty:0 "海军部"
+ gov_admiralty_desc:0 "这个政府由管理国家军事和民事事务的海军上将组成。"
+ gov_maritime_republic:0 "海上共和国"
+ gov_maritime_republic_desc:0 "一切"
+ gov_stellar_hegemony:0 "恒星霸权"
+ gov_stellar_hegemony_desc:0 "一切"

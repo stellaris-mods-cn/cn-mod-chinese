@@ -1,0 +1,76 @@
+﻿##########################################################################
+# Localisation for Starbase Defenses Extended
+#
+# Written by ScepraX
+##########################################################################
+
+l_simp_chinese:
+
+# Names
+EXTENDED_MILITARY_STATION_MEDIUM:0 "$MILITARY_STATION_MEDIUM$"
+extended_military_station_medium:0 "$military_station_medium$"
+extended_military_station_medium_plural:0 "$military_station_medium_plural$"
+
+EXTENDED_MILITARY_STATION_LARGE:0 "$MILITARY_STATION_LARGE$"
+extended_military_station_large:0 "$military_station_large$"
+extended_military_station_large_plural:0 "$military_station_large_plural$"
+
+# Sections
+SDE_LIGHT_MILITARY_STATION_SECTION:0 "$LIGHT_MILITARY_STATION_SECTION$"
+SDE_PD_MILITARY_STATION_SECTION:0 "$PD_MILITARY_STATION_SECTION$"
+SDE_MEDIUM_MILITARY_STATION_SECTION:0 "$MEDIUM_MILITARY_STATION_SECTION$"
+SDE_MISSILE_MILITARY_STATION_SECTION:0 "$MISSILE_MILITARY_STATION_SECTION$"
+SDE_HEAVY_MILITARY_STATION_SECTION:0 "$HEAVY_MILITARY_STATION_SECTION$"
+SDE_HANGAR_MILITARY_STATION_SECTION:0 "$HANGAR_MILITARY_STATION_SECTION$"
+
+SDE_LIGHT_LARGE_MILITARY_STATION_SECTION:0 "$LIGHT_MILITARY_STATION_SECTION$"
+SDE_PD_LARGE_MILITARY_STATION_SECTION:0 "$PD_MILITARY_STATION_SECTION$"
+SDE_MEDIUM_LARGE_MILITARY_STATION_SECTION:0 "$MEDIUM_MILITARY_STATION_SECTION$"
+SDE_MISSILE_LARGE_MILITARY_STATION_SECTION:0 "$MISSILE_MILITARY_STATION_SECTION$"
+SDE_HEAVY_LARGE_MILITARY_STATION_SECTION:0 "$HEAVY_MILITARY_STATION_SECTION$"
+SDE_HANGAR_LARGE_MILITARY_STATION_SECTION:0 "$HANGAR_MILITARY_STATION_SECTION$"
+
+# Reactors
+SDE_STATION_FISSION_REACTOR:1 "$FISSION_REACTOR$"
+SDE_STATION_FUSION_REACTOR:1 "$FUSION_REACTOR$"
+SDE_STATION_COLD_FUSION_REACTOR:1 "$COLD_FUSION_REACTOR$"
+SDE_STATION_ANTIMATTER_REACTOR:1 "$ANTIMATTER_REACTOR$"
+SDE_STATION_ZERO_POINT_REACTOR:1 "$ZERO_POINT_REACTOR$"
+SDE_STATION_DARK_MATTER_REACTOR:1 "$DARK_MATTER_REACTOR$"
+
+SDE_FORTRESS_FISSION_REACTOR:1 "$FISSION_REACTOR$"
+SDE_FORTRESS_FUSION_REACTOR:1 "$FUSION_REACTOR$"
+SDE_FORTRESS_COLD_FUSION_REACTOR:1 "$COLD_FUSION_REACTOR$"
+SDE_FORTRESS_ANTIMATTER_REACTOR:1 "$ANTIMATTER_REACTOR$"
+SDE_FORTRESS_ZERO_POINT_REACTOR:1 "$ZERO_POINT_REACTOR$"
+SDE_FORTRESS_DARK_MATTER_REACTOR:1 "$DARK_MATTER_REACTOR$"
+
+# Society technologies
+tech_starbase_defenses_extended_1:0 "$tech_space_defense_station_1$ II"
+tech_starbase_defenses_extended_1_desc:0 "$tech_space_defense_station_improvement_desc_machine_intelligence$"
+tech_starbase_defenses_extended_2:0 "$tech_space_defense_station_2$ II"
+tech_starbase_defenses_extended_2_desc:0 "$tech_space_defense_station_improvement_desc_machine_intelligence$"
+tech_starbase_defenses_extended_3:0 "$tech_space_defense_station_3$ II"
+tech_starbase_defenses_extended_3_desc:0 "$tech_space_defense_station_improvement_desc_machine_intelligence$"
+
+# Engineering technologies
+tech_defense_station_hull_1:0 "$tech_defense_platform_hull_1$ II"
+tech_defense_station_hull_1_desc:0 "$tech_defense_platform_hull_1_desc$"
+tech_defense_fortress_hull_1:0 "$tech_defense_platform_hull_1$ III"
+tech_defense_fortress_hull_1_desc:0 "$tech_defense_platform_hull_1_desc$"
+
+# Modifiers
+shipsize_extended_military_station_medium_hull_mult:0 "防御基地船体值"
+shipsize_extended_military_station_medium_hull_add:0 "$shipsize_extended_military_station_medium_hull_mult$"
+shipsize_extended_military_station_large_hull_mult:0 "壁垒船体值"
+shipsize_extended_military_station_large_hull_add:0 "$shipsize_extended_military_station_large_hull_mult$"
+shipsize_extended_military_station_medium_build_cost_mult:0 "$shipsize_military_station_medium_build_cost_mult$"
+shipsize_extended_military_station_large_build_cost_mult:0 "$shipsize_military_station_large_build_cost_mult$"
+shipsize_extended_military_station_medium_upkeep_mult:1 "$shipsize_military_station_medium_upkeep_mult$"
+shipsize_extended_military_station_large_upkeep_mult:1 "$shipsize_military_station_large_upkeep_mult$"
+
+# Traits
+trait_ruler_fortifier_2:0 "$trait_ruler_fortifier$"
+trait_ruler_fortifier_2_desc:0 "$trait_ruler_fortifier_desc$"
+trait_ruler_fortifier_3:0 "$trait_ruler_fortifier$"
+trait_ruler_fortifier_3_desc:0 "$trait_ruler_fortifier_desc$"

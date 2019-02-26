@@ -1,0 +1,289 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr9_planet_modifier:0 "镮元素"
+ apsr9_planet_modifier_desc:0 "不稳定矿物在多频段电磁干扰波的作用下改变其质量，也会产生和改变重力场。很可能是由大爆炸后压缩物质的残余形成的。"
+ 
+ apsr9_deposit:0 "$apsr9_planet_modifier$"
+ apsr9_deposit_desc:0 "$apsr9_planet_modifier_desc$\n\n§M$apsr9_deposit_effect$§!" 
+ apsr9_deposit_effect:0 "独特的资源可用: $apsr9_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr9_building_part1_text:0 "通过研究镮元素推进在宇宙中存在的物理过程的理解。"
+ 
+ apsr9_building_part2_text:0 "通过研究镮元素在一个体面的层面上,我们设法获得大量的令人印象深刻的数据。"
+ 
+ apsr9_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+  
+ 
+ 
+ ### нормальные здания
+  
+ apsr9_building_part1:0 "白台研究设施"
+ apsr9_building_part1_desc:0 "$apsr9_building_predesc$\n$apsr9_building_part1_text$"
+ 
+ apsr9_building_part2:0 "白台研究设施"
+ apsr9_building_part2_desc:0 "$apsr9_building_predesc$\n$apsr9_building_part2_text$"
+  
+ 
+ 
+ ### фейк-здания
+  
+ apsr9_building_part_fake:0 "毁坏的白台研究设施"
+ apsr9_building_part_fake_desc:0 "§M独特建筑遗址§!\n§W--------------§!\n我们在着陆时不小心破坏了当地的§Y研究设施§!..."
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr9_building_part1:0 "研究镮元素"
+ tech_apsr9_building_part1_desc:0 "镮元素是研究宇宙的好机会吗"
+ 
+ tech_apsr9_upgrade_1:0 "镮元素: 第一个实验"
+ tech_apsr9_upgrade_1_desc:0 "我们已经成功完成了镮元素研究的第一阶段"
+ 
+ tech_apsr9_upgrade_2:0 "镮元素: 第二个实验"
+ tech_apsr9_upgrade_2_desc:0 "我们已经成功完成了镮元素研究的第二阶段"
+ 
+ tech_apsr9_upgrade_3:0 "镮元素: 第三个实验"
+ tech_apsr9_upgrade_3_desc:0 "我们已经成功完成了镮元素研究的第三阶段"
+ 
+ tech_apsr9_building_part2:0 "镮元素研究结果"
+ tech_apsr9_building_part2_desc:0 "在对镮元素进行了相当程度的研究之后，我们获得了大量令人印象深刻的数据。"
+ 
+  
+ TECH_APSR9_EXPERIMENT1_TITLE:0 "第一次成功的实验"
+ TECH_APSR9_EXPERIMENT1_DESC:0 "宇宙知识的第一步"
+ 
+ TECH_APSR9_EXPERIMENT2_TITLE:0 "第二次成功的实验"
+ TECH_APSR9_EXPERIMENT2_DESC:0 "我们在宇宙知识方面取得了重大进展。"
+ 
+ TECH_APSR9_EXPERIMENT3_TITLE:0 "第三次成功的实验"
+ TECH_APSR9_EXPERIMENT3_DESC:0 "我们离知道宇宙的秘密只有一步之遥。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ 
+ ## построен этап 1
+ 
+ apsr.9001.title:0 "白台研究设施"
+ apsr.9001.desc:0 "§Y白台研究设施§!终于开始在§H[Root.GetName]§!星球上工作了! \n设施是自给自足的:在这里你可以找到避难所、通讯设施、支持站、发电厂、几个变电站和使用核技术的反应堆。\n这一设施包括数量惊人的地下实验室、试验点和管理机构，其中大多数都有高科技设备。\n现在大规模§M镮元素§!研究计划已定。白台管理层要求为更先进、更精确的实验提供资金。"
+ apsr.9001.desc.ruined:0 "§Y白台研究设施§!终于在§H[Root.GetName]§!星球上重建了!\n不幸的是，所有关于§M镮元素§!实验的数据都丢失了。所有的实验都必须从头开始。§Y白台§!管理层要求为试验提供资金。"
+ apsr.9001.desc.get.back:0 "我们已经成功控制了§H[Root.GetName]§!星球上的§Y白台研究设施§!\n不幸的是，所有关于§M镮元素§!实验的数据都丢失了。所有的实验都必须从头开始。§Y白台§!管理层要求为试验提供资金。"
+ apsr.9001.button.2:0 "当然，我们对这项研究很感兴趣"
+ apsr.9001.button.2.tooltip:1 "我们每月将花费§R10§! £energy 能量币和§R10§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +500 phys and bonus
+ apsr.9001.button.1:0 "我想，我们可以节省一些资源"
+ apsr.9001.button.1.tooltip:1 "我们每月将花费§R5§! £energy 能量币和§R5§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +250 phys
+ apsr.9001.button.0:0 "不幸的是，我们无能为力"
+ apsr.9001.button.0.tooltip:1 "我们将一无所获"
+  
+ ### успешный эксперимент 1
+ 
+ apsr.9002.title:0 "白台研究设施"
+ apsr.9002.desc.if0:0 "我们有来自§H[Root.GetName]§!星球的§Y白台研究设施§!消息!\n尽管缺乏资金，实验还是成功地结束了。不幸的是§R没有发现什么新东西§!。\n现在一个更大的研究项目计划使用§M镮元素§!，§Y«白台»§!的管理层坚持要求分配资金以达到计划的效果。"
+ apsr.9002.desc.if1:0 "我们有来自§H[Root.GetName]§!星球的§Y白台研究设施§!消息!\n在实验中，我们§Н取得了一些发现§!，但它们不会影响我们的科学研究。\n现在一个更大的研究项目计划使用§M镮元素§!,§Y«白台»§!的管理层希望拨出更多的资金来达到计划的效果。"
+ apsr.9002.desc.if2:0 "我们有来自§H[Root.GetName]§!星球的§Y白台研究设施§!消息!\n随着我们在实验中投入资金的使用，§G有了几个重大的发现§!，可以推动我们的科学向前发展。\n现在一个更大的研究项目计划使用§M镮元素§!,§Y«白台»§!期望分配必要的资金以达到计划的效果。"
+ apsr.9002.desc.get.back:0 "$apsr.9001.desc.get.back$"
+ apsr.9002.button.5:0 "继续研究"
+ apsr.9002.button.5.tooltip:1 "我们每月将花费§R25§! £energy 能量币和§R25§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +1000 phys and bonus
+ apsr.9002.button.3:0 "现在就满足于此吧"
+ apsr.9002.button.3.tooltip:1 "我们每月将花费§R10§! £energy 能量币和§R10§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +500 phys
+ apsr.9002.button.1:0 "不幸的是，我们无能为力"
+ apsr.9002.button.1.tooltip:1 "我们将一无所获。但这就足够了吗?"
+ 
+ ### успешный эксперимент 2
+ 
+ apsr.9003.title:0 "白台研究设施"
+ apsr.9003.desc.if1:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n尽管缺乏资金，实验还是成功地结束了。不幸的是§R没有发现什么新东西§!。\n现计划在晶体内部结构失稳的基础上，利用§M镮元素§!进行实验， §Y«白台»§!管理层督促为安全研究提供资金。"
+ apsr.9003.desc.if3:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n在实验中，我们§Н取得了一些发现§!, 但是它们不会对我们科学的发展产生很大的影响。\n现在计划在晶体内部结构失稳的基础上用§M镮元素§!进行实验，§Y«白台»§!管理层督促为安全研究提供资金。"
+ apsr.9003.desc.if5:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n随着我们在实验中投入资金的使用，§G有了几个重大的发现§!，可以推动我们的科学向前发展。\n现在计划在晶体内部结构失稳的基础上用§M镮元素§!进行实验，§Y«白台»§!管理层督促为安全研究提供资金。"
+ apsr.9003.desc.get.back:0 "$apsr.9001.desc.get.back$"
+ apsr.9003.button.8:0 "你可以信赖我们"
+ apsr.9003.button.8.tooltip:1 "我们每月将花费§R50§! £energy 能量币和§R50§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +1500 phys and bonus
+ apsr.9003.button.5:0 "我们可以提供部分资金"
+ apsr.9003.button.5.tooltip:1 "我们每月将花费§R20§! £energy 能量币和§R20§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +750 phys
+ apsr.9003.button.2:0 "幸的是，我们无能为力"
+ apsr.9003.button.2.tooltip:1 "谁知道呢，它去哪儿了……"
+ 
+ ### успешный эксперимент 3
+ 
+ apsr.9004.title:0 "白台研究设施"
+ apsr.9004.desc.if2:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n尽管缺乏资金，实验还是成功地结束了。不幸的是§R没有发现什么新东西§!。\n§Y白台§!的管理人员声称他们能够获得编号为«GG-3883»的§M镮元素§!晶体的特别干净样品。尽管晶体增加了不稳定性，但在§Y白台§!中他们肯定会成功。我们只需要拨出实验经费。"
+ apsr.9004.desc.if5:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n在实验中，我们§Н取得了一些发现§!,但是它们不会对我们科学的发展产生很大的影响。\n§Y白台§!的管理人员声称他们能够获得编号为«GG-3883»的§M镮元素§!晶体的特别干净样品。尽管晶体增加了不稳定性，但在§Y白台§!中他们肯定会成功。我们只需要拨出实验经费。"
+ apsr.9004.desc.if8:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n随着我们在实验中投入资金的使用，§G有了几个重大的发现§!，可以推动我们的科学向前发展。\n§Y白台§!的管理人员声称他们能够获得编号为«GG-3883»的§M镮元素§!晶体的特别干净样品。尽管晶体增加了不稳定性，但在§Y白台§!中他们肯定会成功。我们只需要拨出实验经费。"
+ apsr.9004.desc.get.back:0 "$apsr.9001.desc.get.back$"
+ apsr.9004.button.11:0 "我们将提供充分的实验"
+ apsr.9004.button.11.tooltip:1 "我们每月将花费§R100§! £energy 能量币和§R100§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +2000 phys and bonus
+ apsr.9004.button.7:0 "不要期望太多"
+ apsr.9004.button.7.tooltip:1 "我们每月将花费§R40§! £energy 能量币和§R40§! £minerals 矿物来维护建筑，§Y"白台"§!将会有更多的岗位。"
+ ### +1000 phys
+ apsr.9004.button.3:0 "不幸的是，我们无能为力"
+ apsr.9004.button.3.tooltip:1 "我们甚至应该允许科学家玩弄不稳定的物质吗?"
+
+ ### успешный эксперимент 4
+ 
+ apsr.9005.title:0 "白台研究设施"
+ apsr.9005.desc.if3:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n尽管缺乏资金，实验还是完成了。在传导过程中，科学家们§R几乎失去§!了对晶体失稳反应的控制，但他们能够采取措施，从而防止了最坏的情况。\n据说，他是一位杰出的物理学博士。在撬棍和母亲的帮助下，弗里曼成功地迅速排除了反质谱仪的故障。 \n§Y$apsr9101$§!通过不断的研究，使我们的物理研究有了进一步的提高。"
+ apsr.9005.desc.if7:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n尽管缺乏资金，实验还是完成了。在传导过程中，科学家们§R几乎失去§!了对晶体失稳反应的控制，但他们能够采取措施，从而防止了最坏的情况。\n据说，他是一位杰出的物理学博士。在撬棍和母亲的帮助下，弗里曼成功地迅速排除了反质谱仪的故障。 \n§Y$apsr9101$§!通过不断的研究，使我们的物理研究有了进一步的提高。"
+ apsr.9005.desc.if11:0 "我们有来自§H[Root.GetName]§!星球§Y白台研究设施§!的消息。\n利用我们在实验中投入的资金，实验顺利完成。在传导过程中，科学家们§R几乎失去§!了对晶体失稳反应的控制，但他们能够采取措施，从而防止了最坏的情况。 \n据说，他是一位杰出的物理学博士。在撬棍和母亲的帮助下，弗里曼成功地迅速排除了反质谱仪的故障。 \n§Y$apsr9101$§!通过不断的研究，使我们的物理研究有了进一步的提高。"
+ apsr.9005.finalbutton:0 "良好的结果"
+ apsr.9005.finalbutton.tooltip:1 "现在可以升级§Y白台研究设施§!了。你§G将继续§!获得之前实验的所有奖励。"
+
+ ### улучшено до этапа 2
+ 
+ apsr.9009.title:0 "白台研究设施"
+ apsr.9009.desc:0 "我们成功地升级了§H[Root.GetName]§!上的§Y$apsr9101$§!! \n现在我们帝国最好的物理学家正在那里进行他们的研究。这是真正取之不尽用之不竭的知识源泉!"
+ apsr.9009.ok-button:0 "Excellent"
+ 
+ 
+ 
+ ## Взрыв планеты (НЕУДАЧНЫЙ ЭКСПЕРИМЕНТ)
+ 
+ apsr.9301.title:0 "镮元素级联"
+ apsr.9301.desc:0 "$RULER$,在实验期间镮元素一个错误导致了级联衰变的物质。过了一会儿，反应达到了最大强度，不知怎么地转移到了星球上的所有沉积物中。\n不幸的是，这导致了殖民地和整个星球的彻底毁灭。反应后,镮元素合成,现在可以直接从外太空获取。\n然而，现在埃特纽斯失去了他的大部分财产，而他的研究成果却微乎其微……"
+ apsr.9301.ok-button:1 "彻底的失败" 
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.9011.title:0 "发现一个人造物: §M$apsr9_planet_modifier$§!"
+ apsr.9011.desc:0 "来自科学船§H[Root.GetName]§!的一个研究小组发现了一些东西! \n在这个小小的星球上，有一些不稳定矿物的沉积物，它们似乎有能力改变其质量，扭曲重力场，或者在多频段电磁波的影响下形成一个自我。我们假设它可以是大爆炸留下的压缩物质"
+ apsr.9011.button:1 "我们必须得到这个人造物!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.9013.title:0 "发现一个人造物: §M$apsr9_planet_modifier$§!"
+ apsr.9013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n在这个星球上，存在着一些不稳定矿物的沉积物，它们可以改变其质量，扭曲重力场，或者在多频段电磁波的作用下形成一个自生体。它似乎起源于大爆炸留下的压缩物质"
+ apsr.9013.desc.ruined:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n在这个星球上，存在着一些不稳定矿物的沉积物，它们可以改变其质量，扭曲重力场，或者在多频段电磁波的作用下形成一个自生体。它似乎起源于大爆炸留下的压缩物质，这里也建造了一个研究矿物的建筑，但不幸的是，我们不小心破坏了它……"
+ apsr.9013.button:1 "极好!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.9015.title:0 "发现人造物: §M$apsr9_planet_modifier$§!"
+ apsr.9015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，有一种不稳定矿物的矿床，当它暴露在不同频率的电磁波中时，能够改变其质量，并产生和扭曲重力场。这些可能是大爆炸后压缩物质的残余。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr9_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr9_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr9_resource_planet.Owner.GetName]"
+ apsr.9015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr9_special:0 "$apsr9_planet_modifier$"
+ apsr9_special_desc:0 "$apsr9_planet_modifier_desc$"
+ 
+ APSR9_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特的星球信息"
+ APSR9_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr5_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr9_anomaly:0 "有趣的数据"
+ apsr9_anomaly_desc:0 "在对[From.GetName] 行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.9601.title:0 "$apsr.9011.title$"
+ apsr.9601.desc:0 "$apsr.9011.desc$"
+ 
+ 
+ 
+ ### модификатор изучения
+ 
+ apsr9_experiment1_goodsponsor:0 "研究机构资助"
+ apsr9_experiment1_goodsponsor_desc:0 "我们目前正在资助当地的一些镮元素的实验。"
+ apsr9_experiment2_goodsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment2_goodsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ apsr9_experiment3_goodsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment3_goodsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ apsr9_experiment4_goodsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment4_goodsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ apsr9_experiment1_badsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment1_badsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ apsr9_experiment2_badsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment2_badsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ apsr9_experiment3_badsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment3_badsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ apsr9_experiment4_badsponsor:0 "$apsr9_experiment1_goodsponsor$"
+ apsr9_experiment4_badsponsor_desc:0 "$apsr9_experiment1_goodsponsor_desc$"
+ 
+ 
+ 
+ ### новые должности
+  
+ apsr9_planet_scientist_normal:0 "白台研究设施科学家"
+ job_apsr9_scientist_normal:0 "白台研究设施科学家"
+ job_apsr9_scientist_normal_plural:0 "白台研究设施科学家"
+ job_apsr9_scientist_normal_desc:0 "“贝拉亚梅萨”研究中心的所有员工均拥有最高资质，并从事该研究中心本身的维护和研究活动。"
+ mod_job_apsr9_scientist_normal_add:0 "白台研究设施科学家"
+   
+ apsr9_planet_scientist_hive:0 "白台研究设施工蜂"
+ job_apsr9_scientist_hive:0 "白台研究设施工蜂"
+ job_apsr9_scientist_hive_plural:0 "白台研究设施工蜂"
+ job_apsr9_scientist_hive_desc:0 "所有的工蜂，居住在综合体，专门维护技术和研究"
+ mod_job_apsr9_scientist_hive_add:0 "白台研究设施工蜂"
+   
+ apsr9_planet_scientist_machine:0 "白台研究设施单位"
+ job_apsr9_scientist_machine:0 "白台研究设施单位"
+ job_apsr9_scientist_machine_plural:0 "白台研究设施单位"
+ job_apsr9_scientist_machine_desc:0 "专门用于研究活动的无人机也支持综合体的性能。"
+ mod_job_apsr9_scientist_machine_add:0 "白台研究设施单位"
+  
+  
+ apsr9_planet_head_scientist_normal:0 "白台研究设施首席科学家"
+ job_apsr9_head_scientist_normal:0 "白台研究设施首席科学家"
+ job_apsr9_head_scientist_normal_plural:0 "白台研究设施首席科学家"
+ job_apsr9_head_scientist_normal_desc:0 "“白台”研究综合体的首席科学家们正全力投入研究"
+ mod_job_apsr9_head_scientist_normal_add:0 "白台研究设施首席科学家"
+   
+ apsr9_planet_head_scientist_hive:0 "白台研究设施工蜂"
+ job_apsr9_head_scientist_hive:0 "白台研究设施工蜂"
+ job_apsr9_head_scientist_hive_plural:0 "白台研究设施"工蜂
+ job_apsr9_head_scientist_hive_desc:0 "科学工蜂专注于研究，不参与任何其他活动"
+ mod_job_apsr9_head_scientist_hive_add:0 "白台研究设施工蜂"
+   
+ apsr9_planet_head_scientist_machine:0 "白台研究设施单位"
+ job_apsr9_head_scientist_machine:0 "白台研究设施单位"
+ job_apsr9_head_scientist_machine_plural:0 "白台研究设施单位"
+ job_apsr9_head_scientist_machine_desc:0 "专为镮元素实验设计的单位"
+ mod_job_apsr9_head_scientist_machine_add:0 "白台研究设施"单位
+  
+  
+ apsr9_planet_gordon_freeman_normal:0 "戈登弗里曼"
+ job_apsr9_gordon_freeman_normal:0 "戈登弗里曼"
+ job_apsr9_gordon_freeman_normal_plural:0 "戈登弗里曼"
+ job_apsr9_gordon_freeman_normal_desc:0 "工程师兼物理学家,感谢他们过去试验镮元素,几乎以一个灾难性的级联成功。"
+ mod_job_apsr9_gordon_freeman_normal_add:0 "戈登弗里曼"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

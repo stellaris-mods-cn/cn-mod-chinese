@@ -1,0 +1,311 @@
+﻿l_simp_chinese:
+
+ ENERGY_LANCE_2_LARGE:0 "大型速子光矛"
+ ENERGY_LANCE_2_LARGE_DESC:0 "武器制造的改进使我们能够制造出更小的速子光矛。"
+ 
+ tech_resized_energy_lance_2:0 "大型速子光矛"
+ tech_resized_energy_lance_2_desc:0 "武器制造的改进使我们能够制造出更小的速子光矛。"
+  
+ ARC_EMITTER_2_LARGE:0 "大型电弧发射器"
+ ARC_EMITTER_2_LARGE_DESC:0 "武器制造的改进使我们能够制造更小的电弧发射器。"
+ 
+ tech_resized_arc_emitter_2:0 "大型电弧发射器"
+ tech_resized_arc_emitter_2_desc:0 "武器制造的改进使我们能够制造更小的电弧发射器。"
+  
+ MASS_ACCELERATOR_2_LARGE:0 "大型千兆加农炮"
+ MASS_ACCELERATOR_2_LARGE_DESC:0 "武器制造技术的改进使我们能够吧千兆炮做的更小。"
+  
+ tech_resized_mass_accelerator_2:0 "大型千兆加农炮"
+ tech_resized_mass_accelerator_2_desc:0 "武器制造技术的改进使我们能够吧千兆炮做的更小。"
+
+ PSI_MISSILE_SYSTEM:0 "灵能导弹系统"
+ PSI_MISSILE_SYSTEM_DESC:0 "一种由灵能能力控制的实验导弹系统，通过船员的意志力完全控制导弹。"
+ 
+ tech_psi_missile_system:0 "灵能导弹系统"
+ tech_psi_missile_system_desc:0 "一种由灵能能力控制的实验导弹系统，通过船员的意志力完全控制导弹。"
+ 
+ SHADOW_STRIKE_CRAFT:0 "暗影突击艇"
+ SHADOW_STRIKE_CRAFT_DESC:0 "灵感来自于无尽神机，下一代多用途的攻击机很难被发现，甚至更难被击中。"
+
+ SHADOW_STRIKE_FIGHTER:0 "影子攻击战斗机"
+ SHADOW_STRIKE_FIGHTER_DESC:0 "灵感来自于无尽神机的防御机制，这些极其敏捷的人工智能控制战斗机将其脆弱的部分隐藏在戒备森严的盔甲和盾牌中。它们在摧毁其他原始飞船和导弹方面非常有效。"
+ 
+ tech_shadow_strike_craft:0 "暗影突击艇"
+ tech_shadow_strike_craft_desc:0 "灵感来自于无尽神机，下一代多用途的攻击机很难被发现，甚至更难被击中。"
+
+ HELLFIRE_AUTOCANNONS:0 "地狱火自动炮"
+ HELLFIRE_AUTOCANNONS_DESC:0 "这种自动加农炮能对敌人进行猛烈攻击。"
+ 
+ tech_hellfire_autocannons:0 "地狱火自动炮s"
+ tech_hellfire_autocannons_desc:0 "这种自动加农炮能对敌人进行猛烈攻击。"
+ 
+ TERROR_CANNON:0 "恐怖炮"
+ TERROR_CANNON_DESC:0 "这种致命的大炮能激发巨大的恐惧。"
+ 
+ tech_terror_cannon:0 "恐怖炮"
+ tech_terror_cannon_desc:0 "这种致命的大炮能激发巨大的恐惧。"
+ 
+ ION_DISRUPTOR:0 "离子分解器"
+ ION_DISRUPTOR_DESC:0 "发射离子束摧毁敌方船只的实验武器。"
+ 
+ tech_ion_disruptor:0 "离子分解器"
+ tech_ion_disruptor_desc:0 "发射离子束摧毁敌方船只的实验武器。"
+ 
+ COMPACT_OMNI_LANCE:0 "紧凑型全向光矛"
+ COMPACT_OMNI_LANCE_DESC:0 "紧凑型全向光矛是其对应的小型版本:全向光矛。"
+ 
+ tech_compact_omni_lance:0 "紧凑型全向光矛"
+ tech_compact_omni_lance_desc:0 "根据我们在速子光矛的小型化的经验，理论上也可能有更小的全向光矛。"
+ 
+ OMNI_LANCE:0 "全向光矛"
+ OMNI_LANCE_DESC:0 "只有银河中最文明的帝国才会使用全向光矛作为他们选择的武器。"
+ 
+ tech_omni_lance:0 "全向光矛"
+ tech_omni_lance_desc:0 "只有银河中最文明的帝国才会使用全向光矛作为他们选择的武器。"
+ 
+ COMPACT_OMNI_EMITTER:0 "紧凑型全向电弧发射器"
+ COMPACT_OMNI_EMITTER_DESC:0 "紧凑型全向电弧发射器是其对应的小型版本:电弧发射器。"
+ 
+ tech_compact_omni_emitter:0 "紧凑型全向电弧发射器"
+ tech_compact_omni_emitter_desc:0 "根据我们在速子光矛的小型化的经验，理论上也可能有更小的全向电弧发射器。"
+ 
+ OMNI_EMITTER:0 "全向电弧发射器"
+ OMNI_EMITTER_DESC:0 "全向电弧发射器是帝国的强大的象征，能够从远处攻击敌人的舰队。"
+ 
+ tech_omni_emitter:0 "全向电弧发射器"
+ tech_omni_emitter_desc:0 "全向电弧发射器是帝国的强大的象征，能够从远处攻击敌人的舰队。"
+ 
+ COMPACT_OMNI_CANNON:0 "紧凑型全向大炮"
+ COMPACT_OMNI_CANNON_DESC:0 "紧凑型全向大炮是其对应的小型版本:全向大炮。"
+ 
+ tech_compact_omni_cannon:0 "紧凑型全向大炮"
+ tech_compact_omni_cannon_desc:0 "基于我们对千兆加农炮小型化的经验，从理论上讲，更小的全向大炮也是可能的。"
+ 
+ OMNI_CANNON:0 "全向大炮"
+ OMNI_CANNON_DESC:0 "全向大炮是一种可以在很远的距离发射炮弹的巨大的大炮。"
+ 
+ tech_omni_cannon:0 "全向大炮"
+ tech_omni_cannon_desc:0 "全向大炮是一种可以在很远的距离发射炮弹的巨大的大炮。"
+ 
+ MASSIVE_AUTOCANNONS:0 "大型自动火炮"
+ MASSIVE_AUTOCANNONS_DESC:0 "这种大型自动加农炮，旨在造成最大的破坏和混乱。"
+ 
+ tech_massive_autocannons:0 "大型自动火炮s"
+ tech_massive_autocannons_desc:0 "这种大型自动加农炮，旨在造成最大的破坏和混乱。"
+
+ PORTAL_GENERATOR:0 "传送门生成器"
+ PORTAL_GENERATOR_DESC:0 "传送门生成器撕开时空的结构,创建一个未知的传送门,使用高维度来攻击敌人。"
+ 
+ tech_portal_generator:0 "传送门生成器"
+ tech_portal_generator_desc:0 "传送门生成器撕开时空的结构,创建一个未知的传送门,使用高维度来攻击敌人。"
+ 
+ DIMENSIONAL_WEAPON:0 "维度光束"
+ DIMENSIONAL_WEAPON_DESC:0 "维度光束是一种第五维武器，它的设计目的是为了给敌舰的每一个维度造成巨大的伤害。"
+ 
+ tech_dimensional_weapon:0 "维度光束"
+ tech_dimensional_weapon_desc:0 "维度光束是一种第五维武器，它的设计目的是为了给敌舰的每一个维度造成巨大的伤害。"
+ 
+ DRAGON_BREATH:0 "龙之吐息"
+ DRAGON_BREATH_DESC:0 "利用“龙火”背后的科学原理，这种武器模拟了它的效果，达到了百分之百的相似度和声音效果。"
+ 
+ tech_dragon_breath:0 "龙之吐息"
+ tech_dragon_breath_desc:0 "利用“龙火”背后的科学原理，这种武器模拟了它的效果，达到了百分之百的相似度和声音效果。"
+ 
+ STELLARITE_WEAPON:0 "星状射线"
+ STELLARITE_WEAPON_DESC:0 "利用星状射线最可怕的武器背后的科学原理，一种破坏性的纯太阳能被释放到敌人身上。"
+ 
+ tech_stellarite_weapon:0 "星状射线"
+ tech_stellarite_weapon_desc:0 "利用星状射线最可怕的武器背后的科学原理，一种破坏性的纯太阳能被释放到敌人身上。"
+ 
+ SCRAPPER_WEAPON:0 "神秘武器"
+ SCRAPPER_WEAPON_DESC:0 "这种武器使我们的科学家感到困惑。我们只知道它起作用，而且奇怪的粒子在固定频率下被释放，对敌舰造成巨大的伤害。"
+ 
+ tech_scrapper_weapon:0 "神秘武器"
+ tech_scrapper_weapon_desc:0 "这种武器使我们的科学家感到困惑。我们只知道它起作用，而且奇怪的粒子在固定频率下被释放，对敌舰造成巨大的伤害。"
+ 
+ ELDER_TIYANKI_WEAPON:0 "提杨凯武器"
+ ELDER_TIYANKI_WEAPON_DESC:0 "提杨凯太空生物的武器被我们的高级工程师们模仿。"
+ 
+ tech_elder_tiyanki_weapon:0 "提杨凯武器"
+ tech_elder_tiyanki_weapon_desc:0 "鉴于我们对泰坦尼克武器的了解，以及我们对提杨凯太空鲸的了解，我们的顶尖工程师可以尝试制造一种我们自己的巨大的提杨凯武器。"
+ 
+ GRAY_GOO_BEAM:0 "灰濛梁"
+ GRAY_GOO_BEAM_DESC:0 "这种武器的作用使科学家感到困惑。我们所知道的是，某些以特定频率发射的粒子会对敌方船只造成巨大伤害。"
+ 
+ tech_gray_goo_beam:0 "灰濛梁"
+ tech_gray_goo_beam_desc:0 "研究报告说，这种灰色的粘液粘性很好。这神秘的武器是什么?"
+ 
+ DARK_ENERGY_SHIELD:0 "暗能量护盾"
+ DARK_ENERGY_SHIELD_DESC:0 "这些护盾利用暗能量以一种似乎完全违背自然规律的方式来击退飞来的炮弹。"
+ 
+ MEDIUM_DARK_ENERGY_SHIELD:0 "中型暗能量护盾"
+ MEDIUM_DARK_ENERGY_SHIELD_DESC:0 "这些护盾利用暗能量以一种似乎完全违背自然规律的方式来击退飞来的炮弹。"
+ 
+ LARGE_DARK_ENERGY_SHIELD:0 "大型暗能量护盾"
+ LARGE_DARK_ENERGY_SHIELD_DESC:0 "这些护盾利用暗能量以一种似乎完全违背自然规律的方式来击退飞来的炮弹。"
+ 
+ tech_dark_energy_shield:0 "暗能量护盾"
+ tech_dark_energy_shield_desc:0 "这些护盾利用暗能量以一种似乎完全违背自然规律的方式来击退飞来的炮弹。"
+ 
+ psi_deflector:0 "灵能屏障护盾"
+ psi_deflector_DESC:0 "灵能屏障护盾从他们的船员那里吸取力量。"
+ 
+ MEDIUM_psi_deflector:0 "中型灵能屏障护盾"
+ MEDIUM_psi_deflector_DESC:0 "灵能屏障护盾从他们的船员那里吸取力量。"
+ 
+ LARGE_psi_deflector:0 "大型灵能屏障护盾"
+ LARGE_psi_deflector_DESC:0 "灵能屏障护盾从他们的船员那里吸取力量。"
+ 
+ tech_psi_deflector:0 "灵能屏障护盾"
+ tech_psi_deflector_desc:0 "灵能屏障护盾从他们的船员那里吸取力量。"
+ 
+ DARK_MATTER_PLATING:0 "暗物质电镀"
+ DARK_MATTER_PLATING_DESC:0 "这种电镀利用了无形的暗物质来提高舰船的完整性。"
+ 
+ MEDIUM_DARK_MATTER_PLATING:0 "中型暗物质电镀"
+ MEDIUM_DARK_MATTER_PLATING_DESC:0 "这种电镀利用了无形的暗物质来提高舰船的完整性。"
+ 
+ LARGE_DARK_MATTER_PLATING:0 "大型暗物质电镀"
+ LARGE_DARK_MATTER_PLATING_DESC:0 "这种电镀利用了无形的暗物质来提高舰船的完整性。"
+ 
+ tech_dark_matter_plating:0 "暗物质电镀"
+ tech_dark_matter_plating_desc:0 "这种电镀利用了无形的暗物质来提高舰船的完整性。"
+ 
+ IMPROVED_DRAGON_ARMOR:0 "改良的龙甲"
+ IMPROVED_DRAGON_ARMOR_DESC:0 "这种护甲似乎可以改善在龙鳞上发现的独特矿物纳米结构。"
+ 
+ MEDIUM_IMPROVED_DRAGON_ARMOR:0 "中型改良的龙甲"
+ MEDIUM_IMPROVED_DRAGON_ARMOR_DESC:0 "这种护甲似乎可以改善在龙鳞上发现的独特矿物纳米结构。"
+ 
+ LARGE_IMPROVED_DRAGON_ARMOR:0 "大型改良的龙甲"
+ LARGE_IMPROVED_DRAGON_ARMOR_DESC:0 "这种护甲似乎可以改善在龙鳞上发现的独特矿物纳米结构。"
+ 
+ tech_improved_dragon_armor:0 "改良的龙甲"
+ tech_improved_dragon_armor_desc:0 "这种护甲似乎可以改善在龙鳞上发现的独特矿物纳米结构。"
+  
+ TITAN_ARMOR:0 "泰坦护甲"
+ TITAN_ARMOR_DESC:0 "这个护甲的密度比中子的密度大，是由这个星系已知的最坚硬的物质构成的。"
+ 
+ MEDIUM_TITAN_ARMOR:0 "中型泰坦护甲"
+ MEDIUM_TITAN_ARMOR_DESC:0 "这个护甲的密度比中子的密度大，是由这个星系已知的最坚硬的物质构成的。"
+ 
+ LARGE_TITAN_ARMOR:0 "大型泰坦护甲"
+ LARGE_TITAN_ARMOR_DESC:0 "这个护甲的密度比中子的密度大，是由这个星系已知的最坚硬的物质构成的。"
+ 
+ tech_titan_armor:0 "泰坦护甲"
+ tech_titan_armor_desc:0 "这个护甲的密度比中子的密度大，是由这个星系已知的最坚硬的物质构成的。"
+ 
+
+
+ fallen_weaponry.2.name:0 "先驱者兵工厂被发现"
+ fallen_weaponry.2.desc:0 "我们在§H[Root.GetName]§!上找到了一个隐藏的设施。从它的自动安全系统和匆忙设置的路障来看，这个先驱者无意让它的任何武器落入不法之手。\n\n在进入这个复杂的区域后，我们勇敢的团队搜寻了我们可以使用的设备。虽然大多数设备要么是过时的，要么是我们已经掌握的技术，我们的科学家们发现了一些具有耐人寻味特征的武器原型。\n\n我们的科学家请求允许对这些原型武器进行调查，这样我们就可以确定它们的前体技术是否与我们的相兼容。"
+ fallen_weaponry.2.a:0 "这些§H神圣守护者§!到底有什么秘密？"
+ fallen_weaponry.2.b:0 "这些§H知识管理者§!到底都有些什么东西？"
+ fallen_weaponry.2.c:0 "这些§H神秘观察者§!到底做了什么奇怪的实验？"
+ fallen_weaponry.2.d:0 "这些§H军事孤立者§!到底拥有什么武器？"
+ fallen_weaponry.2.e:0 "这些§H古代看护者§!到底做了什么奇怪的实验？"
+ 
+ fallen_weaponry.2011.name:0 "先驱者原型技术: §Y$tech_psi_barrier$§!"
+ fallen_weaponry.2011.desc:0 "灵能护盾是一种强大的护盾技术，它似乎可以从它的船员身上吸取他们天生的灵能能力，并将它们放大成某种能够保护整个舰船的护盾。\n\n我们的档案显示，这个项目主要是某位科学家的作品，他后来成为了圣徒。他曾一度被称为“§H神圣博士§!”。因为他的杰出贡献和创新的天赋。\n\n似乎“§H神圣博士§!”意识到对手对能源武器的过度依赖，以及一场迫在眉睫的战争，但不幸的是，他在灵能护盾完成之前就去世了，而在他去世后，这个项目也就夭折了。"
+ fallen_weaponry.2012.name:0 "先驱者原型武器: §Y$tech_psi_missile_system$§!"
+ fallen_weaponry.2012.desc:0 "灵能导弹系统是由年轻的“§H神圣博士§!”所发明的。他在所有方面都有天赋(或者至少记录上是这么说的)， “§H神圣博士§!”说，“我们将不断收到来自外领域创新的新想法，而灵能导弹系统就是其中一个项目。”\n\n设计用来对抗最困难的点防御系统，每一个灵能导弹是由它的船员控制，使每一颗导弹改变飞行模式，并使拥有机动的力量，这仅仅只凭意念。\n\n不幸的是，这个项目在'§H神圣博士§!'死后被停止了。"
+ fallen_weaponry.2021.name:0 "先驱者原型技术: §Y$tech_dark_matter_plating$§!"
+ fallen_weaponry.2021.desc:0 "暗物质电镀技术使用无形的银河系物质结合在一起,然后改进到分子水平上在舰船上它可以用来支撑船体的完整性。唯物主义的先驱者，也许都意识到他们的对手有能力穿透护盾和护甲，把船体的完整性高低看做是他们的灾难。\n\n有趣的是，领导这个项目的科学家并非来自这个帝国。她的存在最早的记录是在一个文件中记录她的聪明才智被浪费在一些邻近的原始帝国，而这个原始帝国获得了她作为矿物和能量币的交换。这并不令人感到意外,她常被称为'§H欧兰德§!'. '§H欧兰德§!'很快就掌握了暗物质技术的基本原理，并负责开发这个项目。然而，不知什么原因，它从未完成。"
+ fallen_weaponry.2022.name:0 "先驱者原型武器: §Y$tech_shadow_strike_craft$§!"
+ fallen_weaponry.2022.desc:0 "当唯物主义者遇到了他们称之为"影子工艺"的东西时首先提到了'§H无尽神机§!'。它激起了他们的兴趣，它的技术激发了他们设计新一代的攻击型舰船工艺，它们比银河系中任何一个人所见过的都更加难以捉摸。\n\n记录显示'§H欧兰德§!' !是这个项目的主要科学家，这个项目在她死亡后，在银河的记忆之中消失了。"
+ fallen_weaponry.2031.name:0 "先驱者原型技术: §Y$tech_improved_dragon_armor$§!"
+ fallen_weaponry.2031.desc:0 "负责改良龙甲的科学家被认为是先驱者记录中的一个相当大的角色，他被同事亲切地称为§HB教授§!，他的性格似乎在以一种不寻常对外星生活的痴迷和对偏执的偏执之间产生了分歧。一度,他们的帝国遇到某种“龙”，§HB教授§!对这种生物的生物学特别着迷。 §HB教授§!一直在研究改良龙甲直到他在[Root.GetName]去世。"
+ fallen_weaponry.2032.name:0 "先驱者原型武器: §Y$tech_hellfire_autocannons$§!"
+ fallen_weaponry.2032.desc:0 "地狱火自动炮是§HB教授§!的杰作。当听到宿敌已经超越其他国家的自动火炮技术时， §HB教授§!立即开始研制自己帝国的武器。他在自己的日记中高兴地写道：“这些排外的混蛋将会见识到一个令人愉快的东西。”\n\n不幸的是, §HB教授§!提出的这种武器的构想被认为过于激进，尽管在其他科学家的支持下，这个项目在最高领导层被否决了。§HB教授§!悲叹道:“这些顽固分子什么时候才能得到应得的报应?”"
+ fallen_weaponry.2041.name:0 "先驱者原型技术: §Y$tech_titan_armor$§!"
+ fallen_weaponry.2041.desc:0 "泰坦护甲是是由已知的星系中最坚硬的材料制成的，它是由一个叫做§H守望者§的先驱科学家策划的。不幸的是，在其他地方似乎很少有人提及他，这对于他这种才干的科学家来说是极不寻常的。有人会认为有人试图抹去这位科学家的记忆，不管出于什么原因……"
+ fallen_weaponry.2042.name:0 "先驱者原型武器: §Y$tech_terror_cannon$§!"
+ fallen_weaponry.2042.desc:0 "恐怖炮是为了播种恐惧而设计的。就像这个先驱帝国的其他武器一样，他们对外星生命的蔑视反映在他们对名字和战斗策略的使用上。然而,负责这种武器的科学家也被称为§H守望者§!。我们只能假定，在他遭遇不幸的命运之前，他只是半心半意地从事这个项目。"
+ fallen_weaponry.2051.name:0 "先驱者原型技术: §Y$tech_dark_energy_shield$§!"
+ fallen_weaponry.2051.desc:0 "在他们与未知力量斗争的某个时刻，古代的看护人把暗能量看成是答案，而不是暗物质。暗能量是驱动物质的无形力量，如果它能被稳定和控制，它就可以被用于保护。许多研究单位被派去执行这项任务，但由于某种原因，这个项目被放弃了。"
+ fallen_weaponry.2052.name:0 "先驱者原型武器: §Y$tech_ion_disruptor$§!"
+ fallen_weaponry.2052.desc:0 "离子分解器在某些方面是基于离子加农炮的,但很明显,古老的看护人试图使用这种武器作为最后手段阻止一个未知的力量。武器已经在原型阶段，但无论出于什么原因，都没有看到大规模生产，战争结束后，这个项目就在黑暗中消失了。"
+ 
+ fallen_weaponry.3.name:0 "先驱者研究设施"
+ fallen_weaponry.3.desc:0 "在§H[Root.GetName]§!发现的武器设施中发现了几个文件提到了这个星球上的另一个秘密研究基地。经过多年的调查工作，我们终于找到了这个先驱研究实验室，似乎古人的秘密在召唤我们。\n\n在这些有几千年的数据文件中，经常提到这些“全向武器”，当我们不确定它们到底是什么时，我们下载了整个存档以确保安全。这是一个微妙的过程，从一个古老的机器中提取出大量的信息。无论这些“全向武器”是什么，我们不能让他们落入坏人之手，他们的秘密将留在我们身边。\n\n我们的科学家估计至少需要一个世纪的时间来分析先驱数据库中发现的所有信息。"
+ fallen_weaponry.3.a:0 "什么是§Y全向电弧发生器§!?这听起来可不妙。"
+ fallen_weaponry.3.b:0 "什么是§Y全向光矛§!?这听起来可不妙。"
+ fallen_weaponry.3.c:0 "什么是§Y全向大炮§!?这听起来可不妙。"
+ fallen_weaponry.3.d:0 "看看§Y大型自动火炮§!的块头，他们简直疯了!"
+ fallen_weaponry.3.e:0 "什么是§Y全向光矛§!?这听起来可不妙。"
+ 
+ fallen_weaponry.301.name:0 "先驱者武器蓝图: §Y$tech_omni_emitter$§!"
+ fallen_weaponry.301.desc:0 "晚年,'§H神圣博士§!'看来是疯了。他的日记和作品变得飘忽不定，因为他不断听到“来自远方的声音”。然而，人们对“全向电弧发射器”或它的起源，以及这些想法的来源却知之甚少。\n\n也许设想作为神圣的象征，全向电弧发射器将绕过所有敌人的护盾和护甲，迅速地“炮轰那些不信教的和异教徒的”，他善意地用他自己的话说。我们对这个项目的初步分析表明，如果全向电弧的发射器能够完成的话，它将是非常强大的。"
+ fallen_weaponry.302.name:0 "先驱者武器蓝图: §Y$tech_omni_lance$§!"
+ fallen_weaponry.302.desc:0 "全向能量光矛的构思诞生在'§H欧兰德§!'人生的晚期。它是一种强大的武器，但它的优雅是不可否认的，使它成为银河系中最文明的帝国的首选武器。\n\n尽管赢得了许多科学奖项,并且拥有最高的生活水准。'§H欧兰德§!'也经常写一些同事对她外貌的评论，以及她在寻找朋友和融入新社会时的孤独。她也有乡愁，也想念故乡，但是帝国永远不可能允许她回去。\n\n讽刺的是，她创造了最优雅的武器来美化社会。但是，这个帝国只把她当作原始文明的宠物。对他们来说,她就是'§H欧兰德§!'（意为外乡人），可有可无。"
+ fallen_weaponry.303.name:0 "先驱者武器蓝图: §Y$tech_omni_cannon$§!"
+ fallen_weaponry.303.desc:0 "传说中，当§HB教授§!的一个同事无意拿走了§HB教授§!经常带来的东西，并把它扔出窗外时，全向大炮的概念就出现在了他的脑海中。§HB教授§!再也没有找到他的东西，但它还是激发了全向大炮的灵感，他很快就在蓝图上取得了进展。这幅蓝图是在§HB教授§!被发现死于家中时的最高领导批准的。"
+ fallen_weaponry.304.name:0 "先驱者武器蓝图: §Y$tech_massive_autocannons$§!"
+ fallen_weaponry.304.desc:0 "大型自动火炮可能是有史以来最大的自动炮,但一些设计缺陷显示,这是科学家§H守望者§!领导的项目，§H守望者§!显然对它不太在意。然而，他的痛苦似乎源于他对一种外星的热爱。与其他物种的交配被他的偏执的社会观念被认为是反常的和高度不可接受的。随着岁月的流逝,§H守望者§!他将自己与帝国的极端排外思潮划清界限，漫不经心地将其武器设计上的缺陷作为某种抗议。然而，这些缺点可以用现代技术加以纠正。"
+ fallen_weaponry.305.name:0 "先驱者武器蓝图: §Y$tech_omni_lance$§!"
+ fallen_weaponry.305.desc:0 "我们已经破译了这一未知力量的文献，古代看护者们与之斗争的是偶发事件，这是一种机械智能，力量似乎与古代的看护人相匹敌。在其漫长战争,古老的看护人试图推迟应急提前通过开发更强大的武器——全向光矛，这是文明的象征与横冲直撞的机器的噩梦。然而，当突发事件引发一波网络攻击时，大多数研究单位都被破坏，无法继续武器的发展。"
+ 
+ fallen_weaponry.4.name:0 "先驱者的神奇武器"
+ fallen_weaponry.4.desc:0 "在处理先驱者档案中发现的数据时，我们发现了可以追溯到大十字军东征的最后几天的武器设计。但它仅仅是概念图，我们的科学家还不能确定他们是否真的可能存在，或者他们的发明者是不是疯了。一些调查结果没有意义，一些重要的信息仍然缺失。\n\n如果我们要把这些武器带到我们的帝国中，我们就需要大量的时间和资源来进行我们自己的研究。"
+ fallen_weaponry.4.a:0 "什么是§Y$tech_portal_generator$§!！这可能吗？"
+ fallen_weaponry.4.b:0 "什么是§Y$tech_dimensional_weapon$§!！这可能吗？"
+ fallen_weaponry.4.c:0 "如何模仿§Y$tech_dragon_breath$§!！这可能吗？"
+ fallen_weaponry.4.d:0 "如何模仿§Y$tech_stellarite_weapon$§!！这可能吗？"
+ fallen_weaponry.4.e:0 "如何完成§Y$tech_mysterious_weapon$§!的研制工作?"
+ 
+ fallen_weaponry.401.name:0 "先驱者神奇武器: §Y$tech_portal_generator$§!"
+ fallen_weaponry.401.desc:0 "在他最后的日子里，'§H神圣博士§!'他开始失去理智，他不停地写的“来自远方的声音”变得更强了。他的噩梦不断，身体也开始衰竭。\n\n然而,他写道,作为另一个天使的声音出现在他的脑海中,爱的低语告诉'§H神圣博士§!'如果它能进入这个领域，它就能拯救他。在他的病床前，'§H神圣博士§!'创造了他最后的武器——传送门生成器,将他的“爱”带到了另一边。他相信他的救赎即将到来，他的苦难将会结束，这是唯一能使他免于即将死亡的事情。随后，没有几天'§H神圣博士§!'便去世了。"
+ fallen_weaponry.402.name:0 "先驱者神奇武器: §Y$tech_dimensional_weapon$§!"
+ fallen_weaponry.402.desc:0 "在科学圈里，这是一个恐慌的时刻，当新闻打破了他们的唯心主义者的宿敌对手的意图，把墙推倒在不同的维度之间，可能带来灾难性的后果。尽管遭受严重的抑郁和乡愁，'§H欧兰德§!'还是帮助研究了'§H神圣博士§!'的武器概念，并认为这个唯心的武器还没有投入使用，维度光束就会被概念化,以应对潜在的异次元入侵者。幸运的是，唯物主义帝国的竞争对手没有完成这个武器所以维度光束项目被搁置了。几天后,'§H欧兰德§!'自杀了，唯物主义社会就像她从未存在过一样继续下去。"
+ fallen_weaponry.403.name:0 "先驱者神奇武器: §Y$tech_dragon_breath$§!"
+ fallen_weaponry.403.desc:0 "我们的记录表明,§HB教授§!事实上，他是为了他的工作而被暗杀的。他们排外主义的对手不会允许这样的武器出现。尽管仍处于早期设计阶段,§HB教授§!似乎已经弄明白了如何模仿以太龙的主要武器，它的想法把排外主义者吓坏了。§HB教授§!刺杀事件引发了一场持续了一个世纪的战争，但这一武器从未完成。"
+ fallen_weaponry.404.name:0 "先驱者神奇武器: §Y$tech_stellarite_weapon$§!"
+ fallen_weaponry.404.desc:0 "前不久§H守望者§!和他的异族情人私奔，激怒了整个社会，他被赋予研究一个特殊的太空怪物的任务，这个怪物是先驱者所遇到的——噬星者。§H守望者§!在概念中画好了武器蓝图和基本参数。但是不久，他便放弃了这个计划，去追求自己的生活，在一个遥远的世界，没有人会评判他的关系。主流媒体非常愤怒的,他们没有时间去浪费诽谤§H守望者§!的行为。先驱帝国从未找到他们失踪的科学家,只要有可能,我们可以试图把§H守望者§!对其他“纯洁心灵”科学家的发明找出来。我们的科学家计算出星状射线可能已经完成,一场伟大的圣战结束了。"
+ fallen_weaponry.405.name:0 "先驱者神奇武器: §Y$tech_mysterious_weapon$§!"
+ fallen_weaponry.405.desc:0 "针对古代看护人的网络攻击是突发事件，但最初是核心系统。在当年,病毒感染了许多古代管理者的研究单位,因为他们开始着手神秘武器。这种文件和结果一样几乎不存在，因为应急计划试图从管理员的鼻子底下制造这种武器。当古代的看护人意识到这一阴谋时，它迫使所有的研究单位停止工作，从此不再从事研究工作。"
+ 
+ PROJECT_PSI_BARRIER:0 "先驱者原型技术: §Y$tech_psi_barrier$§!"
+ PROJECT_PSI_BARRIER_DESC:0 "在[Root.GetName]上获得的原型武器装备在构建技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n我们的科学家还不确定§Y$tech_psi_barrier$§!的实际功能。"
+ PROJECT_PSI_MISSILES:0 "先驱者原型武器: §Y$tech_psi_missile_system$§!"
+ PROJECT_PSI_MISSILES_DESC:0 "在[Root.GetName]获得的武器装备——原型导弹技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而，我们的科学界对§Y$tech_psi_missile_system$§!非常感兴趣。"
+ PROJECT_DARK_MATTER_PLATING:0 "先驱者原型技术: §Y$tech_dark_matter_plating$§!"
+ PROJECT_DARK_MATTER_PLATING_DESC:0 "在[Root.GetName]的武器库中获得的原型在船体完整性增强方面有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而,毫无疑问， §Y$tech_dark_matter_plating$§!提高我们舰队的作战能力。"
+ PROJECT_SHADOW_STRIKE_CRAFT:0 "先驱者原型武器: §Y$tech_shadow_strike_craft$§!"
+ PROJECT_SHADOW_STRIKE_CRAFT_DESC:0 "在[Root.GetName]的武器库中获得的原型打击工艺技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而,毫无疑问,§Y$tech_shadow_strike_craft$§!优于我们目前的技术。"
+ PROJECT_IMPROVED_DRAGON_ARMOR:0 "先驱者原型技术: §Y$tech_improved_dragon_armor$§!"
+ PROJECT_IMPROVED_DRAGON_ARMOR_DESC:0 "在[Root.GetName]武器库获得的原型在装甲技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而，毫无疑问，§Y$tech_improved_dragon_armor$§!比§Y$tech_dragon_armor$§!更好。"
+ PROJECT_HELLFIRE_AUTOCANNON:0 "先驱者原型武器: §Y$tech_hellfire_autocannons$§!"
+ PROJECT_HELLFIRE_AUTOCANNON_DESC:0 "在[Root.GetName]获得的原型自动火炮技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而,§Y$tech_hellfire_autocannons$§!是我们舰队可以使用的技术。"
+ PROJECT_TITAN_ARMOR:0 "先驱者原型技术: §Y$tech_titan_armor$§!"
+ PROJECT_TITAN_ARMOR_DESC:0 "在[Root.GetName]武器库获得的原型装甲技术上有一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而，§Y$tech_titan_armor$§!是我们的舰队可以使用的技术。"
+ PROJECT_TERROR_CANNON:0 "先驱者原型武器: §Y$tech_terror_cannon$§!"
+ PROJECT_TERROR_CANNON_DESC:0 "在[Root.GetName]武器库获得的原型动能火炮上有一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n尽管如此，学术界仍在讨论这种武器是否真的能转化为§YTera Cannon§!或者§Y$tech_terror_cannon$§!."
+ PROJECT_DARK_ENERGY_SHIELD:0 "先驱者原型技术: §Y$tech_dark_energy_shield$§!"
+ PROJECT_DARK_ENERGY_SHIELD_DESC:0 "在[Root.GetName]武器库获得的原型护盾技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而,§Y$tech_dark_energy_shield$§!是我们舰队可以使用的技术。"
+ PROJECT_ION_DISRUPTOR:0 "先驱者原型武器: §Y$tech_ion_disruptor$§!"
+ PROJECT_ION_DISRUPTOR_DESC:0 "在[Root.GetName]武器库获得的原型技术方面有一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而,§Y$tech_ion_disruptor$§!是我们舰队可以使用的技术。"
+ PROJECT_OMNI_EMITTER:0 "先驱者武器蓝图: §Y$tech_omni_emitter$§!"
+ PROJECT_OMNI_EMITTER_DESC:0 "从[Root.GetName]的研究机构获得的蓝图显示了在发射器技术方面的一个有趣的突破。不管出于什么原因，这种武器的发展被放弃了。我们的科学家需要相当长的时间才能处理和翻译有关这个项目的所有数据文件。\n\n我们还不知道为什么这个特殊的武器被称为§Y$tech_omni_emitter$§!."
+ PROJECT_OMNI_LANCE:0 "先驱者武器蓝图: §Y$tech_omni_lance$§!"
+ PROJECT_OMNI_LANCE_DESC:0 "B从[Root.GetName]的研究机构获得的蓝图显示了能源光矛的一个有趣的突破。不管出于什么原因，这种武器的发展被放弃了。我们的科学家需要相当长的时间才能处理和翻译有关这个项目的所有数据文件。\n\n我们还不知道为什么这个特殊的武器被称为§Y$tech_omni_lance$§!。"
+ PROJECT_OMNI_CANNON:0 "先驱者武器蓝图: §Y$tech_omni_cannon$§!"
+ PROJECT_OMNI_CANNON_DESC:0 "从[Root.GetName]的研究机构获得的蓝图显示了在动力加农炮上的一个有希望的突破。不管出于什么原因，这种武器的发展被放弃了。我们的科学家需要相当长的时间才能处理和翻译有关这个项目的所有数据文件。\n\n我们还不知道为什么这个特殊的武器被称为§Y$tech_omni_cannon$§!。"
+ PROJECT_MASSIVE_AUTOCANNONS:0 "先驱者武器蓝图: §Y$tech_massive_autocannons$§!"
+ PROJECT_MASSIVE_AUTOCANNONS_DESC:0 "从[Root.GetName]研究机构获得的蓝图显示了在自动火炮技术上的一个有希望的突破。不管出于什么原因，这种武器的发展被放弃了。我们的科学家需要相当长的时间才能处理和翻译有关这个项目的所有数据文件。\n\n我们只知道,如果完成,§Y$tech_massive_autocannons$§!将会成为有史以来最为强大的自动火炮。"
+ PROJECT_PORTAL_GENERATOR:0 "先驱者神奇武器: §Y$tech_portal_generator$§!"
+ PROJECT_PORTAL_GENERATOR_DESC:0 "从[Root.GetName]研究机构获得的概念艺术。想象一下这种不寻常的武器。然而，这种“神奇武器”从未实现过，而且发展也从未真正开始。我们的科学家在开始研究这个项目之前，需要相当长的时间才能收集所有的数据文件。\n\n在这个阶段,我们的科学家不知道§Y$tech_portal_generator$§!是怎么工作的，如果它真的有用的话。"
+ PROJECT_DIMENSIONAL_WEAPON:0 "先驱者神奇武器: §Y$tech_dimensional_weapon$§!"
+ PROJECT_DIMENSIONAL_WEAPON_DESC:0 "从[Root.GetName]研究机构获得的概念艺术。想象一下这种不寻常的武器。然而，这种“神奇武器”从未实现过，而且发展也从未真正开始。我们的科学家在开始研究这个项目之前，需要相当长的时间才能收集所有的数据文件。\n\n在这个阶段,我们的科学家不知道§Y$tech_dimensional_weapon$§!是怎么工作的，如果它真的有用的话。"
+ PROJECT_DRAGON_BREATH:0 "先驱者神奇武器: §Y$tech_dragon_breath$§!"
+ PROJECT_DRAGON_BREATH_DESC:0 "从[Root.GetName]研究机构获得的概念艺术。想象一下这种不寻常的武器。然而，这种“神奇武器”从未实现过，而且发展也从未真正开始。我们的科学家在开始研究这个项目之前，需要相当长的时间才能收集所有的数据文件。\n\n在这个阶段,我们的科学家不知道§Y$tech_dragon_breath$§!是怎么工作的，如果它真的有用的话。"
+ PROJECT_STELLARITE_WEAPON:0 "先驱者神奇武器: §Y$tech_stellarite_weapon$§!"
+ PROJECT_STELLARITE_WEAPON_DESC:0 "从[Root.GetName]研究机构获得的概念艺术。想象一下这种不寻常的武器。然而，这种“神奇武器”从未实现过，而且发展也从未真正开始。我们的科学家在开始研究这个项目之前，需要相当长的时间才能收集所有的数据文件。\n\n在这个阶段,我们的科学家不知道§Y$tech_stellarite_weapon$§!是怎么工作的，如果它真的有用的话。"
+ PROJECT_SCRAPPER_WEAPON:0 "先驱者神奇武器: §Y$tech_mysterious_weapon$§!"
+ PROJECT_SCRAPPER_WEAPON_DESC:0 "从[Root.GetName]研究机构获得的概念艺术。想象一下这种不寻常的武器。然而，这种“神奇武器”从未实现过，而且发展也从未真正开始。我们的科学家在开始研究这个项目之前，需要相当长的时间才能收集所有的数据文件。\n\n在这个阶段,我们的科学家不知道§Y$tech_mysterious_weapon$§!是怎么工作的，如果它真的有用的话。"
+ 
+ 
+ titan_weapons.6.name:0 "突破维度!"
+ titan_weapons.6.desc:0 "我们的科学家们怀疑在一段时间内,我们之间的维度墙和接下来的维度疲软是由于我们使用了传送门生成器。幸运的是，我们成功地纠正了设备故障……是，我们完全进入了维度。我们应该重新评估我们使用武器后，把这个东西送回它的本源。"
+ titan_weapons.6.a:0 "准备舰队!"
+ 
+ 

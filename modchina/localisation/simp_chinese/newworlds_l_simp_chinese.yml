@@ -1,0 +1,86 @@
+﻿l_simp_chinese:
+
+ 
+ # Uninhabitable Planets/bodies
+ 
+ pc_orbiting_asteroid:0 "轨道小行星"
+ pc_orbiting_asteroid_desc:0 "可能是被行星重力捕获的小行星。\n\n"
+ pc_hot_reducing:0 "热温室星球"
+ pc_hot_reducing_desc:0 "一种由岩石构成的行星，具有厚厚的高压大气层。大气中的气体造成了失控的温室效应，造成了极高的地表温度。"
+ pc_cold_reducing:0 "冷温室星球"
+ pc_cold_reducing_desc:0 "一颗大气层稠密的岩石行星。尽管远离母恒星，大气中的气体已经造成了温室效应，使得像甲烷和乙烷这样的外来液体存在于其表面。"
+ pc_volcanic:0 "火山星球"
+ pc_volcanic_desc:0 "通常是小而贫瘠的行星，到处都是火山活动。这种活动将二氧化碳困在大气中，造成温室效应，使温度保持在非常高的水平，而与星球在恒星星系中的位置无关。当火山活动最终停止时，星球“死亡”，变成一个不活跃的星球。"
+ pc_radiated:0 "烧焦的星球"
+ pc_radiated_desc:0 "位于恒星星系热区内的小型岩石星球。由于不适合类人生命存在，这些行星具有高度不稳定的辐照表面。稀薄的大气层(如果有的话)主要由氦和钠组成。在严酷的白天，温度可以接近450摄氏度，因为几乎没有大气来保存热量，它可以在晚上冷到零下200摄氏度。在这被辐射照耀的时间上还没有观察到生命。"
+ pc_dwarf_planetoid:0 "矮小行星"
+ pc_dwarf_planetoid_desc:0 "矮小行星是一个通常不符合用于行星的标准的微小天体，这包括月亮、小行星和小的类似行星的物体。矮类行星可以由岩石或冰组成，许多甚至不是球形的，并且有由各种更小的物体组成的偏心轨道。"
+ pc_hot_giant:0 "热巨星"
+ pc_hot_giant_desc:0 "大气层主要由氢和氦组成的大型气态行星。这颗行星离母恒星很近，所以表面温度很高，轨道周期很短。由于时间短，白天长，加上强烈的风和超旋转的赤道射流，大气层是极端和奇异的。"
+ pc_ice_giant:0 "冰巨星"
+ pc_ice_giant_desc:0 "这些冰冻的庞然大物在成分上与它们的气态同类有很大的不同。核心大部分是岩石和冰，周围是水、甲烷和氨的脆弱层。此外，磁场是急剧倾斜的旋转轴。这些行星形成于恒星星系的边缘。"
+ 
+ # Habitable Planets - New Worlds Originals
+ 
+ pc_primordial:0 "原始星球"
+ pc_primordial_desc:0 "当熔融星球冷却时，地壳和核心会凝固，如果条件合适，星球就会变成原始状态。这些贫瘠的星球见证了许多地质活动，从火山爆发中释放出来的蒸汽凝结成水，形成了第一个浅海，在那里细菌可能生长并最终茁壮成长。随着原始行星的核心冷却，火山活动减少，行星最终过渡到一个更适合居住的阶层。"
+ pc_primordial_habitability:0 "原始星球宜居性"
+ pc_primordial_tile:0 "贫瘠地形"
+ pc_primordial_tile_desc:0 "岩石和无生命地带。"
+ trait_pc_primordial_preference:0 "原始星球 $preference$"
+ trait_pc_primordial_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ 
+ pc_desolate:0 "荒凉星球"
+ pc_desolate_desc:0 "贫瘠多岩石的世界，大气稀薄。地表覆盖着流星撞击坑，完全没有生命。水可以在冻结状态的地表或深层地下水库中发现。"
+ pc_desolate_habitability:0 "荒凉星球宜居性"
+ pc_desolate_tile:0 "荒凉地形"
+ pc_desolate_tile_desc:0 "岩石贫瘠土地。"
+ trait_pc_desolate_preference:0 "荒凉星球 $preference$"
+ trait_pc_desolate_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ 
+ pc_irradiated_marginal:0 "辐照边际星球"
+ pc_irradiated_marginal_desc:0 "这些类地行星表面贫瘠且受辐射，缺乏强大的磁层来保护其免受恒星辐射。尽管表面条件恶劣，但可以发现液态水海洋提供了足够的辐射保护，使一些海洋植被和生物得以生存。"
+ pc_irradiated_marginal_habitability:0 "辐照边际星球宜居性"
+ pc_irradiated_marginal_tile:0 "辐照边际地形"
+ pc_irradiated_marginal_tile_desc:0 "受辐射和干燥的地形。"
+ trait_pc_irradiated_marginal_preference:0 "辐照边际星球 $preference$"
+ trait_pc_irradiated_marginal_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ 
+ pc_marginal_warm:0 "温边际星球"
+ pc_marginal_cold:0 "冷边际星球"
+ pc_marginal_warm_desc:0 "这些边际星球，通常与类地行星相似，但由于毒性、大气压、重力或其他因素，条件并不理想。温暖的亚纲往往是岩石和森林覆盖的，虽然它们适合生命，但稀缺的水资源使自然进化更加困难。"
+ pc_marginal_cold_desc:0 "这些边际星球，通常与类地行星相似，但由于毒性、大气压、重力或其他因素，条件并不理想。除了在低纬度地区可以找到液态水和植被外，寒冷的亚纲通常是寒冷和多岩石的，有大量的冷冻水。"
+ pc_marginal_warm_habitability:0 "温边际星球宜居性"
+ pc_marginal_cold_habitability:0 "冷边际星球宜居性"
+ pc_marginal_warm_tile:0 "温带地区"
+ pc_marginal_warm_tile_desc:0 "森林地形多样，气候温和。"
+ pc_marginal_cold_tile:0 "寒冷地区"
+ pc_marginal_cold_tile_desc:0 "积雪覆盖的地形上有一些植被。"
+ trait_pc_marginal_warm_preference:0 "温边际星球 $preference$"
+ trait_pc_marginal_warm_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ trait_pc_marginal_cold_preference:0 "冷边际星球 $preference$"
+ trait_pc_marginal_cold_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ 
+ pc_hothouse:0 "温室星球"
+ pc_hothouse_desc:0 "这是一个多岩石的星球，大气目前正经历着失控的温室效应，造成地表温度升高。" 
+ pc_hothouse_habitability:0 "温室星球宜居性"
+ pc_hothouse_tile:0 "烧焦的地形"
+ pc_hothouse_tile_desc:0 "干燥，敌对和非常热的沙漠景观点缀着片状岩石。"
+ trait_pc_hothouse_preference:0 "温室星球 $preference$"
+ trait_pc_hothouse_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+
+ ###Terraforming Modifier
+ adapted_environ:0 "适应环境"
+ adapted_environ_desc:0 "这个星球已经经历了小规模的地貌改造工程，现在更适合建立一个能够支持生命的殖民地。自动化的地下基础设施已经建成，正在等待第一批殖民者的到来。" 
+ 
+ ###NW Engine Start Sol
+ nwengine.09.name:0 "New Worlds Sol Start"
+ nwengine.09.desc:0 "来自私营部门的传言称，金星和土卫六的地下有液态或冷冻的水，可能会使人类在那里繁衍生息。你想调查这些谣言吗?\n\n§G选项 A:§!荒谬。\n\n§G选项 B:§!如果金星能被开发出来，有一天它可能会与地球竞争，派出一个探险队去调查，但是忽略关于土卫六的传言，因为土卫六太冷了。\n\n§G选项 C:§!金星太热了，我们怎么能改变这样的环境呢?但是如果在土卫六的外部系统中有一个边远的哨站，我们不应该忽视它!\n\n§G选项 D:§!任何能够在地球之外运营的私人公司都应该受到重视!探索两种可能性。"
+ nwengine.09.a:0 "选项 A"
+ nwengine.09.b:0 "选项 B"
+ nwengine.09.c:0 "选项 C"
+ nwengine.09.d:0 "选项 D"
+ 
+ ###Decisions
+ decision_adapted_environment:0 "适应环境"
+ decision_adapted_environment_desc:0 "我们可以派遣带有所需建筑材料的自动化无人机去勘察理想的殖民地，建造基础设施，为我们在这个充满敌意的世界里的第一批殖民者提供更好的条件。"

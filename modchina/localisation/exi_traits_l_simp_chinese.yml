@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ ####################################
+ # Traits
+ ####################################
+
+ trait_ex_broken:0 "破碎的"
+ trait_ex_broken_desc:0 "§L这个物种在他们遥远的过去遭受了一些灾难性的失败，使他们的身体和精神伤痕累累。§!"
+ trait_ex_ancient:0 "古老的"
+ trait_ex_ancient_desc:0 "§L大多数其他的智人就像蜉蝣一样。§!"
+ trait_ex_gef:0 "G.E.F."
+ trait_ex_gef_desc:0 "§L这些基因工程的力量是专门创造来完成所有帝国的肮脏工作。他们的高级大脑功能被故意限制。§!"

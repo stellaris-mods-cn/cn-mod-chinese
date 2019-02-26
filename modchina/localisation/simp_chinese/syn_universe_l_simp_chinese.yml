@@ -1,0 +1,293 @@
+﻿
+l_simp_chinese:
+ ####################################
+ # EDICT MENU
+ ####################################
+ edict_syn_universe_menu:0 "Mod菜单：Synapse Universe"
+ edict_syn_universe_menu_desc:0 "用于开发测试"
+
+ ####################################
+ # modifier
+ ####################################
+ shipsize_titan_syn_hull_add:0 "神圣泰坦船体值"
+ shipsize_cruiser_syn_hull_add:0 "神圣巡洋舰船体值"
+ shipsize_escort_syn_hull_add:0 "神圣护卫舰船体值"
+ 
+ static_planet_resource_physics_research_add:0 "星球物理研究"
+ static_planet_resource_society_research_add:0 "星球社会研究"
+ static_planet_resource_engineering_research_add:0 "星球工程研究"
+
+ ####################################
+ # static modifier
+ ####################################
+ pm_syn_world_refugee:0 "神圣标记"
+ pm_syn_world_daedalus:0 "戴达罗斯标记"
+ pm_syn_world_katiros:0 "凯蒂罗斯标记"
+ pm_syn_world_ikaros:0 "阿尔法天使标记"
+ pm_syn_world_nymph:0 "贝塔天使标记"
+ pm_syn_world_astraea:0 "西格马天使标记"
+ pm_syn_world_chaos:0 "欧米茄天使标记"
+ 
+ ####################################
+ # STARSE MODULES BUILDINGS
+ ####################################
+ sm_syn_sb_yard_t1:0 "宙斯造船厂-T1"
+ sm_syn_sb_yard_t2:0 "宙斯造船厂-T2"
+ sm_syn_sb_yard_t3:0 "宙斯造船厂-T3"
+ sm_syn_sb_yard_titan:0 "可变翼稳定器"
+
+ sm_syn_sb_def_t1:0 "宙斯壁垒-T1"
+ sm_syn_sb_def_t2:0 "宙斯壁垒-T2"
+ sm_syn_sb_def_t3:0 "宙斯壁垒-T3"
+ sm_syn_sb_def_pandora:0 "潘多拉壁垒"
+
+ sm_syn_sb_aura_ikaros:0 "(空间站) 天王星"
+ sm_syn_sb_aura_nymph:0 "(空间站) 阿弗罗特"
+ sm_syn_sb_aura_astraea:0 "(空间站) 克律萨俄耳"
+ sm_syn_sb_aura_chaos:0 "(空间站) 查奥斯"
+
+ ####################################
+ # SHIP Sizes
+ ####################################
+ titan_syn:0 "神圣泰坦"
+ escort_syn:0 "神圣护卫舰"
+ cruiser_syn:0 "神圣巡洋舰"
+ wartitan_syn:0 "神圣战争泰坦"
+ leviathan_syn:0 "神圣利维坦"
+ station_syn:0 "神圣哨兵"
+ starbase_outpost_syn:0 "神圣前哨"
+ starbase_citadel_syn:0 "神圣壁垒"
+ bomb_syn:0 "微型黑洞"
+
+ titan_syn_plural:0 "神圣泰坦"
+ escort_syn_plural:0 "神圣护卫舰"
+ cruiser_syn_plural:0 "神圣巡洋舰"
+ wartitan_syn_plural:0 "神圣战争泰坦"
+ leviathan_syn_plural:0 "神圣利维坦"
+ station_syn_plural:0 "神圣哨兵"
+ starbase_outpost_syn_plural:0 "神圣前哨"
+ starbase_citadel_syn_plural:0 "神圣壁垒"
+ bomb_syn_plural:0 "微型黑洞"
+
+ ####################################
+ # ship section
+ #################################### 
+ ship_syn_null_key:0 ""
+
+ titan_syn_bastion_key:0 "宙斯壁垒"
+ escort_syn_bastion_key:0 "宙斯壁垒"
+ cruiser_syn_bastion_key:0 "宙斯壁垒"
+ station_syn_bastion_key:0 "宙斯壁垒"
+ wartitan_syn_bastion_key:0 "宙斯壁垒"
+ leviathan_syn_bastion_key:0 "宙斯壁垒"
+ starbase_outpost_syn_bastion_key:0 "宙斯壁垒"
+ starbase_citadel_syn_bastion_key:0 "宙斯壁垒"
+
+ ship_syn_fin_funnel_01_key:0 "宙斯监护者-01"
+ ship_syn_fin_funnel_02_key:0 "宙斯监护者-02"
+ ship_syn_fin_funnel_03_key:0 "宙斯监护者-03"
+ ship_syn_pandora_fin_funnel_01_key:0 "潘多拉监护者-01"
+ ship_syn_pandora_fin_funnel_02_key:0 "潘多拉监护者-02"
+ ship_syn_pandora_fin_funnel_03_key:0 "潘多拉监护者-03"
+ titan_syn_pandora_bastion_key:0 "潘多拉壁垒"
+ station_syn_pandora_bastion_key:0 "潘多拉壁垒"
+
+ titan_syn_bastion_x_key:0 "宙斯壁垒"
+ station_syn_bastion_x_key:0 "宙斯壁垒"
+ starbase_citadel_syn_bastion_x_key:0 "宙斯壁垒"
+ titan_syn_pandora_bastion_x_key:0 "潘多拉壁垒"
+ station_syn_pandora_bastion_x_key:0 "潘多拉壁垒"
+
+ ####################################
+ # components
+ ####################################
+ syn_combat_computer_diver:0 "宙斯驱动  "
+ syn_combat_computer_ranger:0 "宙斯游侠"
+ syn_combat_computer_guard:0 "宙斯守卫"
+ syn_combat_computer_bombarder:0 "宙斯轰炸"
+ syn_combat_computer_sniper:0 "宙斯狙击手"
+ syn_combat_computer_station:0 "宙斯哨兵"
+ 
+ syn_ftl:0 "宙斯FTL"
+ syn_sensor:0 "宙斯传感器"
+ syn_thruster_escort:0 "宙斯推进器"
+ syn_thruster_cruiser:0 "宙斯推进器"
+ syn_thruster_titan:0 "宙斯推进器"
+
+ syn_power_bak:0 "神圣贝克核心"
+ syn_power_sanctuary:0 "神圣避难所核心"
+ syn_power_escort:0 "神圣护卫舰核心"
+ syn_power_cruiser:0 "神圣巡洋舰核心"
+ syn_power_titan:0 "神圣天使核心"
+ syn_power_station:0 "神圣哨兵核心"
+ syn_power_wartitan:0 "神圣战争泰坦核心"
+ syn_power_leviathan:0 "神圣利维坦核心"
+ syn_power_outpost:0 "神圣前哨核心"
+ syn_power_citadel:0 "神圣壁垒核心"
+
+ syn_power_pandora_r1:0 "潘多拉核心 T1"
+ syn_power_pandora_r2:0 "潘多拉核心 T2"
+ syn_power_pandora_r3:0 "潘多拉核心 T3"
+ syn_power_pandora_op:0 "潘多拉核心"
+ 
+ syn_aura_titan_ikaros:0 "(泰坦) 天王星"
+ syn_aura_titan_nymph:0 "(泰坦) 克律萨俄耳"
+ syn_aura_titan_astraea:0 "(泰坦) 查奥斯"
+ syn_aura_titan_chaos:0 "(泰坦) 查奥斯"
+ syn_aura_station_ikaros:0 "(空间站) 天王星"
+ syn_aura_station_nymph:0 "(空间站) 克律萨俄耳"
+ syn_aura_station_astraea:0 "(空间站) 查奥斯"
+ syn_aura_station_chaos:0 "(空间站) 查奥斯"
+ syn_aura_station_accelerator:0 "重力助推"
+ syn_aura_bomb_t1:0 "微型黑洞 T1"
+ syn_aura_bomb_t2:0 "微型黑洞 T2"
+ syn_aura_bomb_t3:0 "微型黑洞 T3"
+ syn_aura_bomb_t4:0 "微型黑洞 T4"
+
+ syn_shield:0 "宙斯护盾"
+ syn_armor:0 "宙斯护甲"
+ syn_aux_defence:0 "宙斯辅助防御"
+ syn_aux_offence:0 "宙斯辅助进攻"
+ syn_shield_large:0 "宙斯护盾"
+ syn_shield_medium:0 "宙斯护盾"
+ syn_armor_large:0 "宙斯护甲"
+ syn_armor_medium:0 "宙斯护甲"
+
+ syn_flak:0 "宙斯点防御"
+ syn_energy_torpedo:0 "宙斯能量鱼雷"
+ syn_energy_lance:0 "宙斯点能量光矛"
+ syn_titan_laser:0 "宙斯末日炮"
+
+ syn_flak_pandora:0 "潘多拉净化点防御"
+ syn_energy_torpedo_pandora:0 "潘多拉净化点鱼雷"
+ syn_energy_lance_pandora:0 "潘多拉净化光矛"
+ syn_titan_laser_pandora:0 "潘多拉末日炮"
+
+ ####################################
+ # Traits
+ ####################################
+ trait_synapse_species:0 "超越神圣"
+ trait_synapse_angeloid:0 "神圣天使"
+ 
+ ####################################
+ # TECH
+ ####################################
+ tech_nirvana:0 "天堂的呼唤"
+ tech_syn_base:0 "神圣系统基地"
+ tech_syn_angeloid:0 "神圣天使基地"
+ tech_syn_daedalus:0 "神圣代达罗斯标记"
+ tech_syn_katiros:0 "神圣凯蒂罗斯标记"
+ tech_syn_ikaros:0 "神圣阿尔法类天使"
+ tech_syn_nymph:0 "神圣贝塔类天使"
+ tech_syn_astraea:0 "神圣西格玛类天使"
+ tech_syn_chaos:0 "神圣欧米伽类天使"
+ tech_syn_fin_funnel_01:0 "神圣监护人-01"
+ tech_syn_fin_funnel_02:0 "神圣监护人-02"
+ tech_syn_fin_funnel_03:0 "神圣监护人-03"
+ tech_syn_pandora:0 "神圣潘多拉标记"
+
+ ####################################
+ # event chain
+ ####################################
+ ship_syn_battle_chain_title:0 "神圣战斗日志"
+ ship_syn_battle_chain_desc:0 ""
+ ship_syn_battle_lv1:0 "小小的胜利"
+ ship_syn_battle_lv2:0 "重大胜利"
+ ship_syn_battle_lv3:0 "巨大的胜利"
+ ship_syn_battle_lv4:0 "史诗般的胜利"
+ ship_syn_battle_lv5:0 "世界毁灭了"
+ ship_syn_total_battle:0 "总胜利"
+ 
+ ship_syn_casualty_chain_title:0 "突触伤亡日志"
+ ship_syn_casualty_chain_desc:0 ""
+ ship_syn_lost_escort:0 "失去的护卫舰"
+ ship_syn_lost_cruiser:0 "失去的巡洋舰"
+ ship_syn_lost_wartitan:0 "失去的战争泰坦"
+ ship_syn_lost_leviathan:0 "失去的利维坦"
+ ship_syn_lost_titan:0 "失去的天使"
+ ship_syn_total_lost:0 "总伤亡"
+ 
+ titan_syn_consume_chain_title:0 "神圣泰坦战斗日志"
+ titan_syn_consume_chain_desc:0 "泰坦参与的战斗记录"
+ titan_syn_consume_lv1:0 "消耗小量食物"
+ titan_syn_consume_lv2:0 "消耗大量食物"
+ titan_syn_consume_lv3:0 "星系利维坦消耗"
+ titan_syn_consume_lv4:0 "星系极端消耗"
+ titan_syn_total_consume:0 "总食物消耗"
+ 
+ ####################################
+ # static modifier DESC
+ ####################################
+ pm_syn_world_refugee_desc:0 ""
+ pm_syn_world_daedalus_desc:0 ""
+ pm_syn_world_katiros_desc:0 ""
+ pm_syn_world_ikaros_desc:0 ""
+ pm_syn_world_nymph_desc:0 ""
+ pm_syn_world_astraea_desc:0 ""
+ pm_syn_world_chaos_desc:0 ""
+
+ ####################################
+ # behaviors DESC
+ ####################################
+ syn_behavior_diver_DESC:0 "群战术:跟随舰队，直到敌人进入其射程，并在最小射程范围内包围敌人。"
+ syn_behavior_ranger_DESC:0 "突击战术:向前冲，然后逃离敌人，准备再次进攻。"
+ syn_behavior_guard_DESC:0 "纠察战术:跟随舰队，在主战场上保持防御队形。"
+ syn_behavior_bombarder_DESC:0 "炮兵战术:向前冲锋并保持在最小射程。"
+ syn_behavior_sniper_DESC:0 "狙击战术:向前冲，保持最大射程。"
+
+ ####################################
+ # components DESC
+ ####################################
+ syn_ftl_DESC:0 "支持复活和传送"
+ syn_sensor_DESC:0 "支持超载"
+
+ syn_power_outpost_DESC:0 "支持自动空间站建设"
+ syn_power_citadel_DESC:0 "支持自动空间站建设"
+ syn_power_pandora_citadel_DESC:0 "支持自动空间站建设"
+ syn_power_pandora_r1_DESC:0 "支持微黑洞生成和行星重塑。"
+ syn_power_pandora_r2_DESC:0 "支持微黑洞生成和行星重塑。"
+ syn_power_pandora_r3_DESC:0 "支持微黑洞生成和行星重塑。"
+ syn_power_pandora_op_DESC:0 "支持微黑洞生成和行星重塑。"
+ 
+ syn_aura_titan_ikaros_DESC:0 "天使能力的关键。"
+ syn_aura_titan_nymph_DESC:0 "天使能力的关键。"
+ syn_aura_titan_astraea_DESC:0 "天使能力的关键。"
+ syn_aura_titan_chaos_DESC:0 "天使能力的关键。"
+ 
+ syn_aux_def_DESC:0 ""
+ syn_aux_off_DESC:0 ""
+ syn_shield_DESC:0 ""
+ syn_armor_DESC:0 ""
+
+ syn_flak_DESC:0 ""
+ syn_energy_torpedo_DESC:0 ""
+ syn_energy_lance_DESC:0 ""
+ syn_titan_laser_DESC:0 ""
+
+ syn_flak_pandora_DESC:0 "最大范围和最小范围无限制"
+ syn_energy_torpedo_pandora_DESC:0 "最大范围和最小范围无限制"
+ syn_energy_lance_pandora_DESC:0 "最大范围和最小范围无限制"
+ syn_titan_laser_pandora_DESC:0 ""
+
+ ####################################
+ # Traits DESC
+ ####################################
+ trait_synapse_species_desc:0 ""
+ trait_synapse_angeloid_desc:0 ""
+
+ ####################################
+ # TECH DESC
+ ####################################
+ tech_nirvana_desc:0 ""
+ tech_syn_base_desc:0 ""
+ tech_syn_angeloid_desc:0 "解锁天使特质"
+ tech_syn_daedalus_desc:0 ""
+ tech_syn_katiros_desc:0 ""
+ tech_syn_ikaros_desc:0 ""
+ tech_syn_nymph_desc:0 ""
+ tech_syn_astraea_desc:0 ""
+ tech_syn_chaos_desc:0 ""
+ tech_syn_fin_funnel_01_desc:0 "解锁泰坦和哨兵第二艘船。"
+ tech_syn_fin_funnel_02_desc:0 "解锁泰坦和哨兵第三艘船。"
+ tech_syn_fin_funnel_03_desc:0 "解锁泰坦和哨兵第四艘船。"
+ tech_syn_pandora_desc:0 "解锁泰坦，哨兵和壁垒潘多拉飞船的部分。"

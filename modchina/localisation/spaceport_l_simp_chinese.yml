@@ -1,0 +1,52 @@
+﻿#l_braz_por:
+l_simp_chinese:
+#l_french:
+#l_german:
+#l_polish:
+#l_russian:
+#l_spanish:
+
+fleet_coordinator_1: "舰队协调"
+fleet_coordinator_1_desc: "舰队容量增加，船舶维修减少由一个专门的行动中心管理舰队供应，跟踪和通信。"
+fleet_coordinator_2: "舰队协调 (2)"
+fleet_coordinator_2_desc: "$fleet_coordinator_1_desc$"
+fleet_coordinator_3: "舰队协调 (3)"
+fleet_coordinator_3_desc: "$fleet_coordinator_1_desc$"
+fleet_coordinator_4: "舰队协调 (4)"
+fleet_coordinator_4_desc: "$fleet_coordinator_1_desc$"
+fleet_coordinator_5: "舰队协调 (5)"
+fleet_coordinator_5_desc: "$fleet_coordinator_1_desc$\n\n注意:有超过5个以上的舰队协调中心恒星基地的只提供冗余，没有进一步的船舶维护或舰队容量加成。"
+
+####################
+# SPACEPORT MODULES
+####################
+
+ sm_early_warning_monitor: "预警监测"
+ sm_orbital_hospital: "轨道医院"
+ sm_station_bar: "酒吧"
+ sm_trade_port: "贸易港" 
+ sm_transport_shuttles: "穿梭网络"
+ sm_commerce_guild: "商业行会"
+ sm_data_core: "数据核心"
+ sm_industrial_replicator: "工业复制器"
+ sm_tourist_promenade: "旅游长廊"
+ sm_comms_relay: "通讯中心"
+ sm_fleet_coordinator: "舰队协调中心"
+ sm_food_replicators: "食物复制器"
+ sm_alpha_orbital_labs: "研究机构"
+ sm_alpha_modular_construction_bay: "模块化建筑湾"
+ sm_alpha_pioneers_temple: "先驱者圣殿"
+ 
+sm_spaceport_shields_1: "护盾发生器 Mk 1"
+sm_spaceport_shields_2: "护盾发生器 Mk 2"
+sm_spaceport_shields_3: "护盾发生器 Mk 3"
+sm_spaceport_shield_capacitor: "护盾电容器"
+
+sm_spaceport_extraarmour_1: "船体强化 I"
+sm_spaceport_extraarmour_2: "船体强化 II"
+sm_spaceport_extraarmour_3: "船体强化 III"
+
+sm_station_marine_post: "太空国防部队"
+
+spaceport_hospital: "轨道医院"
+spaceport_hospital_desc: "轨道上的医疗设施提高了星球上的生活质量。"

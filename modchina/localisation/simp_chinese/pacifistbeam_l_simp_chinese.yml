@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+tech_pk_pacifist:0 "和平鸽"
+tech_pk_pacifist_desc:0 "使用我们的灵能科技，我们可以操纵有机生物的思维并使他们成为和平主义者。但因为某些原因，目标行星上的蜂群思维和机械将只能为我们的和平事业献身。"
+FLEETORDER_DESTROY_PLANET_WITH_PACIFIST_BEAM:0 "正在准备教化$PLANET|Y$上的民众"
+MESSAGE_DESC_FOR_PACIFIST_BEAM: "被和平化" 
+pacifisted:0 "上善之道" 
+pacifisted_desc:0 "上善光辉所发射的灵能粒子使这颗行星拥有巨大的和平思潮吸引力。"
+PACIFIST_BEAM:0 "上善辉光"
+PACIFIST_BEAM_DESC:0 "这种灵能光束将使目标行星上几乎所有的有机生物成为和平主义者，并大幅增加和平思潮吸引力。但是蜂群思维和机械却会因为过度活跃的思维波动致死。"
+PACIFIST_BEAM_ACTION:0 "感召"
+mcpk.101.name:0 "和平理想在[From.GetName]被广为传播"
+mcpk.101.desc:0 "和平理想在[From.GetName]被广为传播，这主要归功于[From.From.GetName]的灵能辉光，而那些生理上无法承受如此强烈的思维操纵的人口则已经被清除。"
+mcpk.101.tooltip:0 "所有§Y$trait_mechanical$§!，§Y$trait_machine_unit$§!或§Y$trait_hive_mind$§!人口都被清除，残存的§Y生物§!人口转变为和平思潮。" 

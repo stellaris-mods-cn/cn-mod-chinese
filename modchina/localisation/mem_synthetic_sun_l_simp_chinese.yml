@@ -1,0 +1,70 @@
+﻿l_simp_chinese:
+ #TEXTS
+ mem_synthetic_sun.1.name:0 "这不是月球"
+ mem_synthetic_sun.1.desc:0 "从§Y[Root.GetName]§!被殖民以来，它的月球§Y[the_moon.GetName]§!对居民来说似乎从来都不太对劲。他们无法从轨道力学中完全理解，现在他们发现了原因。\n\n在相对较薄的地壳下，这个月球竟然充满了外星来的奇怪设备。事实上，整个月球可能都是几千年前人造建造的。\n\n这个猜测是疯狂的，现在明智的做法是找到设备的目的。"
+ mem_synthetic_sun.1a:0 "我们应该进一步探索。"
+ mem_synthetic_sun.1b:0 "太危险了。把它封起来。"
+ 
+ mem_synthetic_sun.2.name:0 "人造太阳"
+ mem_synthetic_sun.2.desc:0 "[Leader.GetName]报告了一项[Leader.GetSheHe]在探索§Y[the_moon.GetName]§!时的惊人的发现。\n\n看起来，这个月球内部的设备是一个巨大的聚变反应堆，用来小规模复制恒星内部的过程。它如果被激活，将会开始一个可持续反应，为在这下面的§Y[the_planet.GetName]§!作为第二个太阳提供额外的能量；然而，没人清楚它可能会是多强大或危险，尤其是对§Y[the_planet.GetName]§!的气候来说。 \n\n有人建议简单地将原料设备报废并进行逆向工程。"
+ mem_synthetic_sun.2a:0 "我们需要考虑我们的选择。"
+ 
+ mem_synthetic_sun.3.name:0 "拆除人造太阳"
+ mem_synthetic_sun.3.desc:0 "我们的人员完成了最后一个人造太阳设备的报废。虽然它远远超出了我们目前的理解水平，但它不仅为我们提供了有价值的材料，而且为我们提供了对先进技术的宝贵见解......\n\n尽管如此，有些人认为我们摧毁了人造太阳错过了一个很好的机会。"
+ 
+ mem_synthetic_sun.4.name:0 "激活人造太阳"
+ mem_synthetic_sun.4.desc:0 "[Root.GetName]的工作人员成功激活了一个在§Y[the_moon.GetName]§!内的外星机器。\n\n它目前处于激活阶段，需要几个月的时间才能达到满容量。[Leader.GetName]不愿意在它完全运转是还停留在这表面。"
+ mem_synthetic_sun.4a:0 "现在我们就等着。"
+ 
+ mem_synthetic_sun.6.name:0 "人造太阳上线"
+ mem_synthetic_sun.6.desc:0 "在[the_moon.GetName]的内部设备已经成功达到满容量。它的地壳坍塌，变为一个巨大的巨变等离子体星球，温暖的光线投射在下面的星球上，有利于我们的食物生长和能量生产。\n\n它如此之小，不会达到恒星的真实容量，所以通过与行星的接近度来补偿。它也没有一颗真正的恒星的寿命，预计仅仅几千年就会消失。"
+ 
+ mem_synthetic_sun.7.name:0 "人造太阳导致气候变化"
+ mem_synthetic_sun.7.changes:0 "由于人造太阳的能量不断涌入，对行星气候产生了深远的影响。"
+ mem_synthetic_sun.7.cold:0 "$mem_synthetic_sun.7.changes$ \n\n在整体气候变暖的情况下，许多冰川开始融化，导致冰冻水回到液态和蒸气状态，同时使水体和有利于植物生长的区域显着扩大。"
+ mem_synthetic_sun.7.wet:0 "$mem_synthetic_sun.7.changes$ \n\n在整体气候变暖的情况下，地表水的蒸发量急剧增加。 曾经被湖泊和海洋覆盖的地区已经让位于旱地，而森林地区已经缩小，让位于沙漠。"
+ mem_synthetic_sun.7a.tooltip:0 "这颗行星的类别改变了。"
+ 
+ mem_synthetic_sun.8.name:0 "人造太阳使生命繁荣兴旺"
+ mem_synthetic_sun.8.desc:0 "$mem_synthetic_sun.7.changes$ \n\n随着准太阳能持续良好的校准供应，星球上的生命蓬勃发展，生物多样性也随之腾飞。 [the_planet.GetName]现在比以往更加适宜生命居住。"
+ 
+ mem_synthetic_sun.9.name:0 "死亡太阳"
+ mem_synthetic_sun.9.desc:0 "[the_moon.GetName]中的设备已达到其最大容量。但是，它的产出远不如我们所期望的。\n\n无论是我们科学家的错误，还是该项目就是这样打算的，§Y[Root.GetName]§! 现在正在受到一个强大的辐射源的环绕。仅仅这些我们还可以保护我们的人口，但据报道，当地的生态系统在一夜之间枯萎并死亡，使得这个星球远不能适宜居住。"
+ 
+ mem_synthetic_sun.10.name:0 "人造太阳超载"
+ mem_synthetic_sun.10.desc:0 "目前还不清楚这是一个故障还是其创建者的故意选择，但来自完全动力人造太阳的热量融化了[Root.GetName]的外壳。\n\n几千年后[the_moon.GetName]上的等离子体球可能会冷却下来，而下面的行星可能会再次被殖民。然而，直到那时，我们都失去了它。"
+ 
+ mem_synthetic_sun.11.name:0 "人造太阳爆炸"
+ mem_synthetic_sun.11.desc:0 "与我们的预期相反，这个太阳没有塌陷成等离子球。 \n\n相反，当达到满负荷时，它立刻烧毁整个储备，在我们银河系外的某个地方产生巨大的定向爆发能量。\n\n这次事件对这颗星球完整性的造成了完全失败，使它漂浮在轨道上的碎块轰击了下面的行星。"
+ mem_synthetic_sun.11a:0 "我们刚毁了某些人的一天，不是吗？"
+ 
+ mem_synthetic_sun.12.name:0 "人造太阳熄灭"
+ mem_synthetic_sun.12.desc:0 "不幸的是，我们希望激活的人造太阳未能稳定其产量。\n\n没有像我们所希望的那样爆裂成一个等离子球，而是将其表面温度提高几度，然后关闭，这次是永久性的关闭。"
+ mem_synthetic_sun.12a:0 "令人失望。"
+ 
+ #PROJECTS
+ MEM_SYNTHETIC_SUN_EXPLORE:0 "探索奇怪的月球"
+ MEM_SYNTHETIC_SUN_EXPLORE_DESC:0 "[the_moon.GetName]不仅仅是一个星体，而是一个由奇怪的机器填充的巨大工程。我们需要弄清楚它到底是什么。"
+ 
+ mem_synthetic_sun_chain_title:0 "人造太阳"
+ mem_synthetic_sun_chain_desc:0 "我们已经发现了一种设备，它有可能把一个贫瘠的月球变成一颗恒星。"
+ 
+ MEM_SYNTHETIC_SUN_ACTIVATE:0 "激活人造太阳"
+ MEM_SYNTHETIC_SUN_ACTIVATE_DESC:0 "我们可以激活人造太阳并发现它的真实能力。激活这种机器的风险很大......但潜在的回报也是如此。"
+ 
+ MEM_SYNTHETIC_SUN_DISMANTLE:0 "拆除人造太阳"
+ MEM_SYNTHETIC_SUN_DISMANTLE_DESC:0 "我们可以简单地拆卸设备，剥离它的材料和有价值的数据进行逆向工程，留下空心的月亮壳。我们会避免激活它的风险，但我们也会错过可能的奖励。"
+ 
+ #MODIFIER
+ mem_synthetic_sun_modifier:0 "人造太阳"
+ mem_synthetic_sun_modifier_desc:0 "这颗行星被一个巨大的等离子球所环绕，这个等离子球以柔和的光线照射它，增加了它的能量和食物产量。"
+ 
+ mem_synthetic_sun_radiation:0 "死亡太阳"
+ mem_synthetic_sun_radiation_desc:0 "这颗行星由一个巨大的等离子球环绕着，降低了地表的高能辐射。"
+ 
+ mem_synthetic_sun_rain:0 "轨道碎片"
+ mem_synthetic_sun_rain_desc:0 "经过一个错误的尝试将这个星球的月亮变成另一个太阳后，碎片正在下降到这个星球的表面。"
+ 
+ #PLANET CLASS
+ pc_mem_synthetic_sun:0 "人造太阳"
+ pc_mem_synthetic_sun_desc:0 "一个巨大的等离子球，如果从它所环绕的行星表面观察到的话，它可能会被误认为是太阳。\n\n实际上，它比一颗真正的恒星要暗淡得多，并且比它更小，如果不是以先进技术为核心，它将永远不可能维持它的反应。"

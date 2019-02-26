@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+    
+    habitat.1.name:0 "[This.GetName]扩大"
+    habitat.1.desc:0 "现在，[This.GetName]的翻修已经完成，新的部分已经准备好用于居住和开发。"

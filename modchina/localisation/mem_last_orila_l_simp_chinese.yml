@@ -1,0 +1,145 @@
+﻿l_simp_chinese:
+#################################################
+# Text by Malthus                               #
+#################################################
+# Last Orila follow up quest
+ 
+ mem_last_orila_ship_debuff:0 "古老的骄傲"
+
+ # Ship sizes
+ mem_ancient_alt_science:0 "科研巡洋舰"
+ mem_ancient_alt_science_plural:0 "科研巡洋舰"
+ 
+ # Wreckage ambient object
+ mem_pride_of_harilla_object:0 "哈莱拉的骄傲"
+ mem_pride_of_harilla_object_desc:0 "毕竟，它的存在证明了它的先进设计。"
+ 
+ # Reactor ambient object
+ mem_pride_of_harilla_reactor_object:0 "丢失的反应堆"
+ mem_pride_of_harilla_reactor_object_desc:0 "这是“哈利拉的骄傲”号丢失的反应堆"
+ 
+ mem_last_orila_1_chain_title:0 "逝去的荣光"
+ mem_last_orila_1_chain_desc:0 "很久以前，奥利拉的舰队被诱入陷阱。他们的敌人摧毁了奥利拉舰队入轨的恒星，巨大的爆炸撕碎了奥利拉的舰队。\n\n当时奥利拉旗舰的指挥官Chap'Lin本人是少数幸存者之一。舰队中的其他所有船只都被完全摧毁，但“哈里拉的骄傲”号虽然遭到严重破坏，却在爆炸中幸存了下来。幸存的幸存者被迫放弃了船只，至今仍未收回。\n\n舰队的损失摧毁奥利拉。他们对于技术上较差的敌人如何能够摧毁一颗完整的恒星感到困惑。随着文明的瓦解，奥利拉人只能认为这一定是一个外部力量的杰作，然而他们最后的堡垒在任何证据被发现之前就倒下了。\n\n随着奥利拉的灭绝，恒星坍塌的真正原因仍然是个谜。但残骸可能还在那里。如果我们要恢复和修复它，它一定能够帮助我们。"
+ 
+ mem_last_orila_2_chain_title:0 "逝去的荣光"
+ mem_last_orila_2_chain_desc:0 "我们已经找到了哈利拉的骄傲的残骸。在研究的过程中，一队海盗船袭击了我们的研究团队。根据Chap'Lin的的说法，这艘船的反应堆不见了。鉴于他们的攻击性行为，这些海盗一定已经意识到这片残骸的价值，并且已经开始为先进技术寻找它的踪迹。我们找到失踪的反应堆的唯一希望是追踪海盗们回到他们的基地。"
+ 
+ # 1st Point of Interest
+ mem_last_orila_1_system:0 "决定性的失败"
+ mem_last_orila_1_system_desc:0 "很久以前，奥利拉的舰队被他们的敌人引诱到一个陷阱里。"
+ 
+ # Chap'Lin messages the player after some time has passed
+ mem_last_orila.1.name:0 "失去的舰队"
+ mem_last_orila.1.desc:0 "来自Chap’lin的消息。他对我们的数据库的研究证实了他自己的大部分过时的信息，似乎进展得很好。\n\n数据同步的结果是他认为在[root.GetName]有些特别的东西。据他说，这一信息所附的坐标可能会使我们知道最终导致奥利拉灭亡的决定性失败。\n\n更详细的信息将在情报日志。"
+ mem_last_orila.1.a:0 "我们应该去那里。"
+ 
+ # Arrival in the system where the wreckage is
+ mem_last_orila.2.name:0 "到达菲洛斯σ"
+ mem_last_orila.2.desc:0 "我们已经到达了菲洛斯σ星系，这是很久以前奥利拉的命运被封锁的地方。\n\n[root.GetName]的中央桥监视器显示了一个放大的画面，看起来是一个残骸场和一个巨大的黑洞。幸运的是，根据我们的传感器，它仍然在安全的距离之内。\n\n一个调查项目已经被添加到情报日志中。"
+ mem_last_orila.2.a:0 "很好。咱们别再浪费时间了。"
+ 
+ MEM_LAST_ORILA_WRECKAGE_INVESTIGATION:0 "哈莱拉的骄傲"
+ MEM_LAST_ORILA_WRECKAGE_INVESTIGATION_DESC:0 "残骸仍然在菲洛斯σ星系中，尽管它的年代久远却仍然完好无损。我们应该尽快调查一下。如果我们能够修复它，它一定会很好地服务于[root.owner.GetName]"
+ 
+ # Pirate fleet approaches the wreckage
+ mem_last_orila.3.name:0 "身份不明的舰队"
+ mem_last_orila.3.desc:0 "一个身份不明的舰队进入了这个星系。它正在接近奥利拉战舰的残骸，并且拒绝所有通讯。我们必须假设他们怀有敌意。\n\n我们不能冒险让这项古老的技术落入他人之手。"
+ mem_last_orila.3.a:0 "派我们的舰队去拦截他们。"
+ 
+ # Completed project to investigate wreckage, new system spawned filled with pirates and stolen energy core
+ mem_last_orila.5.name:0 "失踪的核心"
+ mem_last_orila.5.desc:0 "我们对飞船残骸的调查显示，我们之前打过的海盗并不是第一个下手的。据Chap'Lin说，这艘船的一个重要部分失踪了——反应堆模块。\n\n幸运的是，我们可以通过推断攻击者的传入向量来追踪攻击者的起源。我们只能希望他们首先负责移除反应堆模块。"
+ mem_last_orila.5.a:0 "这条线索就是我们所拥有的。"
+ 
+ # 2nd Point of Interest
+ mem_last_orila_2_system:0 "海盗舰队的来源"
+ mem_last_orila_2_system_desc:0 "根据我们的传感器数据，攻击我们研究团队的海盗舰队来自这个星系。"
+ 
+ mem_last_orila.6.name:0 "海盗巢穴"
+ mem_last_orila.6.desc:0 "我们的舰队到达了海盗的星系。他们确实从残骸中取出了反应堆模块。它已经被我们的传感器发现了。不幸的是，这个星系戒备森严，考虑到我们之前与这些不法分子的接触，外交似乎不是一个好的选择。"
+ mem_last_orila.6.a:0 "清理星系，确保反应堆安全。"
+ 
+ MEM_LAST_ORILA_REACTOR_PICKUP_1:0 "反应堆的调查"
+ MEM_LAST_ORILA_REACTOR_PICKUP_1_DESC:0 "已经找到了丢失的反应堆模块。我们的科学家必须先对它进行检查，然后我们才能继续我们的修复“哈莱拉的骄傲”的计划。"
+ 
+ mem_last_orila.7.name:0 "反应堆调查完成"
+ mem_last_orila.7.desc:0 "我们的科学家对反应堆模块仍然完好无损这一事实感到欣慰。幸运的是，在我们的舰队到达之前，海盗们似乎没有足够的时间来摆弄它。尽管有老化的原因，但考虑到这种情况，该模块看起来还是很好。我们现在应能将其连接到Chap'Lin的船上。"
+ mem_last_orila.7.a:0 "很好,继续."
+ 
+ mem_last_orila_pickup_1:0 "反应堆连接"
+ mem_last_orila_pickup_1_desc:0 "现在我们准备好将反应堆模块连接到Chap'Lin舰船上。把“斯莱普尼斯”带到这些坐标上。"
+
+ MEM_LAST_ORILA_REACTOR_PICKUP_2:0 "反应堆连接"
+ MEM_LAST_ORILA_REACTOR_PICKUP_2_DESC:0 "现在我们准备好将反应堆模块连接到Chap'Lin舰船上。"
+ 
+ mem_last_orila.81.name:0 "连接成功"
+ mem_last_orila.81.desc:0 "“斯莱普尼斯”已经完成连接过程，并准备继续。"
+ mem_last_orila.81.a:0 "干得好，继续。"
+ 
+ mem_last_orila.9.name:0 "连接失败"
+ mem_last_orila.9.desc:0 "没有Chap'Lin的舰船参与，我们无法完成连接项目。"
+ mem_last_orila.9.a:0 "了解."
+ 
+ MEM_LAST_ORILA_HULL_PICKUP_1:0 "船体稳定"
+ MEM_LAST_ORILA_HULL_PICKUP_1_DESC:0 "船体模块严重受损，需要大量的维修，我们才能继续我们的计划，重新组装'哈莱拉的骄傲'。"
+ 
+ mem_last_orila.10.name:0 "船体稳定完成"
+ mem_last_orila.10.desc:0 "船体的完整性已恢复到可接受的水平。它仍将需要大量的维修，但至少应该能够被转移到[root.owner.Capital.GetName]。我们现在应该能把它和Chap'Lin的船连接起来。"
+ mem_last_orila.10.a:0 "很好,继续。"
+
+ mem_last_orila_pickup_2:0 "船体连接"
+ mem_last_orila_pickup_2_desc:0 "我们现在已经准备好将船体模块连接到船上。把“斯莱普尼斯”带到这些坐标。"
+ 
+ MEM_LAST_ORILA_HULL_PICKUP_2:0 "船体的连接"
+ MEM_LAST_ORILA_HULL_PICKUP_2_DESC:0 "我们现在已经准备好把船体模块连接到Chap'Lin的船上。"
+ 
+ mem_last_orila_3_chain_title:0 "逝去的荣光"
+ mem_last_orila_3_chain_desc:0 "现在，我们已经找回了“哈莱拉的骄傲”的残骸，现在是时候恢复它古老的荣耀了。"
+ 
+ mem_last_orila.12.name:0 "连接完成"
+ mem_last_orila.12.desc:0 "由于所有的模块连接到船只上，[root.Capital.GetName]的轨道船坞正在等待他的到来，以开始恢复过程。"
+ mem_last_orila.12.a:0 "了解."
+ 
+ mem_last_orila_pickup_3:0 "修复准备工作"
+ mem_last_orila_pickup_3_desc:0 "“哈莱拉的骄傲”正在等待在我们的[mem_last_orila_capital.GetName]的轨道造船厂进行修复。"
+
+ MEM_LAST_ORILA_RESTORATION_1:0 "修复准备工作"
+ MEM_LAST_ORILA_RESTORATION_1_DESC:0 "我们[root.owner.Capital.GetName]的轨道船坞正在等待“哈莱拉的骄傲”开始恢复。"
+ 
+ mem_last_orila.14.name:0 "修复延期"
+ mem_last_orila.14.desc:0 "没有Chap'Li的船，我们无法完成准备工作。"
+ mem_last_orila.14.a:0 "了解."
+ 
+ MEM_LAST_ORILA_RESTORATION_2:0 "修复中"
+ MEM_LAST_ORILA_RESTORATION_2_DESC:0 "在我们的轨道造船厂，“哈莱拉的骄傲”正在[root.owner.Capital.GetName]恢复昔日的光辉。"
+ 
+ # Restoration ambient object
+ mem_pride_of_harilla_restoration_object:0 "哈莱拉的骄傲"
+ mem_pride_of_harilla_restoration_object_desc:0 "这艘船目前正在进行大规模修理。"
+ 
+ mem_last_orila.15.name:0 "修复完成?"
+ mem_last_orila.15.desc:0 "“哈莱拉的骄傲”终于被修复了，至少最初看来是这样的。Chap'Lin解释说，尽管维修很成功，但舰船的许多系统都处于次最优水平。即使他拥有广泛的知识，也可能需要数年时间才能适应古老技术所做的相当原始的修复，并以新的形式释放出这艘船的全部潜力。他恳求离开去进行舰船的校准工作。"
+ mem_last_orila.15.a:0 "稍后我们将讨论……我想。"
+ 
+ # If the player loses the ship before finishing the quest
+ mem_last_orila.18.name:0 "船丢失了"
+ mem_last_orila.18.desc:0 "由于失去了Chap'Lin的船，所有恢复“哈莱拉的骄傲”的希望都消失了。幸运的是，搜索残骸的工程团队能够找回他完好无损的数据核心。他将被带到[root.Capital.GetName]去进一步帮助[root.GetName]\n\n剩下的残骸碎片至少对我们未来的研究工作是有价值的。已将进一步研究的项目添加到情况日志中。"
+ mem_last_orila.18.a:0 "至少我们没有失去他。"
+ 
+ mem_last_orila.19.name:0 "船丢失了"
+ mem_last_orila.19.desc:0 "由于失去了Chap'Lin的船，所有恢复“哈莱拉的骄傲”的希望都消失了。幸运的是，搜索残骸的工程团队能够找回他完好无损的数据核心。他将被带到[root.Capital.GetName]去进一步帮助[root.GetName]。"
+ mem_last_orila.19.a:0 "至少我们没有失去他。"
+ 
+ MEM_LAST_ORILA_WRECKAGE_STUDY:0 "古代舰船设计"
+ MEM_LAST_ORILA_WRECKAGE_STUDY_DESC:0 "尽管船体严重受损，许多内部系统仍然可以通过研究来提高我们在工程领域的知识。"
+ 
+ MEM_LAST_ORILA_REACTOR_STUDY:0 "古老的反应堆技术"
+ MEM_LAST_ORILA_REACTOR_STUDY_DESC:0 "虽然我们目前是否能复制它还值得怀疑，但通过研究这一古老的技术，我们仍能在物理领域中极大地加深我们的理解。"
+ 
+ mem_last_orila.20.name:0 "船舶设计研究完成"
+ mem_last_orila.20.desc:0 "我们在[root.GetName]船上的科学家已经完成了他们对古代残骸的研究。这艘船在沉没之前一定是一艘令人印象深刻的船。尽管如此，我们在基于其系统的研究中取得了重大进展。"
+ mem_last_orila.20.a:0 "继续."
+ 
+ mem_last_orila.21.name:0 "反应堆研究完成"
+ mem_last_orila.21.desc:0 "我们在[root.GetName]的科学家已经完成了他们对古代反应堆的研究。这个人工制品能够产生的能量，使我们最先进的能源发电机也相形见绌。我们从研究这一古老的技术中获得的洞察力将极大地帮助我们进一步的技术进步。"
+ mem_last_orila.21.a:0 "很好."

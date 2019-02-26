@@ -1,0 +1,118 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # How these files work:
+ # Only edit stuff between " "
+ # Change the number from :0 to :1 after you edit so I know which parts have been updated
+ # \n = next line (forces next line)
+ # &G or any other next letter is colour code, you can ignore this. Feel free to keep a space behind it. Example: "&G This text is green &!" &G = green
+ # &! ends the previous colour code. This is required so do not delete otherwise everything turns to the previous colour.
+ # I'll add what I would like for descriptions by a comment like this: "# The description below needs to be a bit longer, add in some details and descriptive words where able". or "# This description needs to be at least a paragraph longer, needs a bit more creative description about <this> or <that>"
+ # Unless specified Max 10 lines of writing for each description.
+ ####################################
+ 
+ gpm_ego:0 ""
+ gpm_ego_plural:0 ""
+ GPM_EGO_KEY:0 ""
+
+ 
+ ####################################
+ # ego communications
+ ####################################
+ gpm_guardian.100.name:0 "大胆地去. ."
+ gpm_guardian.100.desc:0 "进入§H[From.GetName]§!后，科研船§H[Root.GetLeaderName]§!上的科学家§H[Root.GetName]§!在恒星轨道上发现了大量的空间碎片。传感器估计，大部分碎片的轨道与星系中仅有的两颗行星大致相同。其中一个似乎是一个熔融星球。\n\n§H[Root.GetName]§!的扫描仪还能在第二颗行星上检测到异常数量的碳和其他各种有机物质，这可能预示着一个繁荣的生态系统。我们一定要在这两个星球上展开全面的探索性研究。"
+ gpm_guardian.100.a:0 "让我们一起看看"
+
+ gpm_guardian.101.name:0 "第一次访问"
+ gpm_guardian.101.desc:0 "尽管对§HMeredith§!星球进行了彻底的调查，科学家§H[Root.GetLeaderName]§!仍无法找到任何确凿的证据来证明这里发生了什么。一些材料样本确实与我们在第二颗行星上的传感器相匹配。我们应该在那里进行下一步调查。"
+ gpm_guardian.101.a:0 "让我们继续"
+ gpm_guardian.101.b:0 "进入下一阶段"
+
+ gpm_guardian.102.name:0 "一个不受欢迎的访客?"
+ gpm_guardian.102.desc:0 "科研船§H[Root.GetName]§!的传感器正在疯狂地与当地的传输数据，它出现了一些东西，或者在这个星球上我试图与我们交流的人。\n\n§H等等!§!传感器数据表明不是星球上的某个人试图交流，而是星球本身!"
+ gpm_guardian.102.a:0 "显示在屏幕上!"
+ gpm_guardian.102.b:0 "显示在屏幕上!"
+
+ gpm_guardian.105.name:0 "我是§H赞达§!"
+ gpm_guardian.105.desc:0 "在金属飞船里的小动物,你为什么来见§H赞达§!??我好久没有访客了。"
+ gpm_guardian.105.a:0 "我们只是在探索，赞达。"
+ gpm_guardian.105.b:0 "我们来这里是为了宣称我们的主权。"
+ gpm_guardian.105.c:0 "§Y威胁等级:§! §R极端危险§! §Y---§! §R!消灭!§!"
+ gpm_guardian.105.d:0 "哦，伟大的勇士，我们终于找到了你!"
+ gpm_guardian.105.e:0 "我们在和平中到来"
+ gpm_guardian.105.f:0 "无论你厌恶什么，你都会被净化!"
+ gpm_guardian.105.g:0 "你是谁?"
+
+ gpm_guardian.110.name:0 "§H赞达，生命星球§!"
+ gpm_guardian.110.desc:0 "我们曾经也是探险家"
+ gpm_guardian.110.a:0 "我们吗?你好像一个人在这里。"
+
+ gpm_guardian.111.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.111.desc:0 "我们曾经是两个人。我，还有我的朋友。我的朋友. .哦，我多么想念她…"
+ gpm_guardian.111.a:0 "你朋友怎么了?"
+
+ gpm_guardian.112.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.112.desc:0 "她是整个银河系中最美丽的行星。我们在一起很快乐，只是看着星星闪烁。然后他们来了。他们..他们烧了她!我为之而生的一切都已不复存在。所有我想做的是和§H梅瑞狄斯§!一起看星星。我现在所做的就是看着她被烧成灰烬。星光不再给我带来幸福。"
+ gpm_guardian.112.a:0 "这是谁干的?"
+ gpm_guardian.112.b:0 "听到这个消息我很难过"
+
+ gpm_guardian.120.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.120.desc:0 "一个古老而强大的帝国。他们自称§L塞伯勒克斯§!，他们活着只是为了别人的痛苦。我们想做的就是看星星。他们杀了她。为此，我结束了他们。他们所有人。"
+ gpm_guardian.120.a:0 "他们全部？"
+
+ gpm_guardian.121.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.121.desc:0 "是的. .他们所有人。我让他们的星球与他们作对。慢慢地,他们窒息而死。慢慢地，他们被活活地吃掉了。慢慢地，我让他们感受到他们带给我的痛苦。"
+ gpm_guardian.121.a:0 "我想最好还是让你安静点，赞达。"
+ gpm_guardian.121.b:0 "也许最好从远处研究你"
+ gpm_guardian.121.c:0 "真迷人"
+ gpm_guardian.121.d:0 "你会成为很好的武器，赞达"
+ gpm_guardian.121.e:0 "现在就把你的敌意放下比较好，所以我们会和平相处的。"
+
+ gpm_guardian.130.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.130.desc:0 "不要为小孩感到难过。我见过许多物种的兴衰。看来银河系只知道暴力。"
+ gpm_guardian.130.a:0 "谁袭击了你?"
+
+ gpm_guardian.140.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.140.desc:0 "谢谢你们，小家伙们，我没想到你们会这么好心。也许我会给你一个机会。为了表示我的谢意，请在我照看朋友期间陪伴我只要你不打扰我。"
+ gpm_guardian.140.a:0 "谢谢你,赞达。我们可以这样做。"
+ gpm_guardian.140.aTT:0 "§G赞达,生命星球§!将允许你殖民它。."
+
+ gpm_guardian.150.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.150.desc:0 "只要你不打扰我，你可以把你想要的都研究出来。但我警告你，保持距离，我不能掉以轻心。"
+ gpm_guardian.150.a:0 "我们理解,赞达。"
+ gpm_guardian.150.aTT:0 "§G赞达，生命星球§!非常高兴。\n你将获得以下奖励:\n£pops §Y科学家§!\n"
+ gpm_guardian.160.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.160.desc:0 "暴力循环似乎还在继续…很好，可怜的小家伙，那么你也会在这里找到你的结局!"
+ gpm_guardian.160.a:0 "攻击"
+ gpm_guardian.160.aTT:0 "§R赞达，生命星球变得非常愤怒§!"
+
+ gpm_guardian.161.name:0 "大小确实很重要"
+ gpm_guardian.161.desc:0 "你们这些小家伙永远学不会…\n\n§Y走开!§!"
+ gpm_guardian.161.a:0 "我们会回来的!"
+
+ gpm_guardian.162.name:0 "唯一.."
+ gpm_guardian.162.desc:0 "当我们最后的扫射击中这个星球生物时，它发出了最后一个信息。\n\n§Y    我的爱人，看来我见到你比我想象的要快得多。§!"
+ gpm_guardian.162.a:0 "这颗行星处于休眠状态。"
+ gpm_guardian.162.aTT:0 "§G赞达，生命星球§!不再活动。\n赞达变成了可殖民的§G盖亚星球§!。"
+
+ gpm_guardian.170.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.170.desc:0 "伟大的?我很久没被这样称呼了。现在我要告诉你们可怜的小家伙们。我不是神，也不是什么神秘的东西。不要崇拜我!"
+ gpm_guardian.170.a:0 "你在考验我们，太棒了!"
+
+ gpm_guardian.171.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.171.desc:0 "我不是!我没有!别乱说!哦!?你和他们一样!那些杀了我朋友的人!"
+ gpm_guardian.171.a:0 "喜欢他们吗?"
+
+ gpm_guardian.172.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.172.desc:0 "一个古老而强大的帝国。他们称自己为<name>，他们活着的唯一目的就是以他们荒谬的宗教的名义忍受别人的痛苦。我们想做的就是看星星。他们以他们荒谬的宗教的名义牺牲了她!为此，我结束了他们的存在。他们所有人。"
+ gpm_guardian.172.a:0 "你结束了他们?"
+
+ gpm_guardian.173.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.173.desc:0 "是的. .他们所有人。我让他们的星球与他们作对。慢慢地,他们窒息而死。慢慢地，他们被活活地吃掉了。慢慢地，我让他们感受到他们带给我的痛苦。"
+ gpm_guardian.173.a:0 "答案很清楚，你也必须牺牲!"
+ gpm_guardian.173.b:0 "也许你不是我们寻找的那个伟大的人。"
+
+ gpm_guardian.180.name:0 "$gpm_guardian.110.name$"
+ gpm_guardian.180.desc:0 "和平?和平永伴死亡。小宝贝，和平真的是你所追求的吗?"
+ gpm_guardian.180.a:0 "是的，那么您在做什么?"
+

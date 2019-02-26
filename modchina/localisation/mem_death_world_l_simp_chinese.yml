@@ -1,0 +1,274 @@
+﻿l_simp_chinese:
+ #Modifiers
+ mem_death_world_1:0 "危险的当地生物"
+ mem_death_world_1_desc:0 "这个星球上的当地生物对殖民者来说非常具有攻击性和敌对性，破坏了星球上的日常行动。"
+ 
+ mem_death_world_2:0 "怀有敌意的当地生物"
+ mem_death_world_2_desc:0 "这个星球上的当地生物具有高度的侵略性，并且对殖民者而言存在着不断的危险。"
+ 
+ mem_death_world_3:0 "大自然的报复"
+ mem_death_world_3_desc:0 "当地生物不断对殖民者进行攻击，甚至连继续生存下去都是一场斗争。"
+ 
+ mem_death_world_ransacked:0 "洗劫"
+ mem_death_world_ransacked_desc:0 "有些动物闯入行星设施，造成大规模运行中断。"
+ 
+ mem_death_world_stinged:0 "刺伤"
+ mem_death_world_stinged_desc:0 "在有毒生物冲入栖息地后，当地居民仍感到不安。"
+ 
+ mem_death_world_insects:0 "虫灾"
+ mem_death_world_insects_desc:0 "大量昆虫蜂拥而至，扰乱了日常生活。"
+ 
+ mem_death_world_militia_supported:0 "生存主义民兵组织"
+ mem_death_world_militia_supported_desc:0 "这个星球基于生存主义传统有一个强大的民兵组织。"
+ 
+ mem_death_world_militia:0 "生存主义运动"
+ mem_death_world_militia_desc:0 "这个星球上有很强的生存主义传统。"
+ 
+ mem_death_world_militia_rejected:0 "生存主义者气馁"
+ mem_death_world_militia_rejected_desc:0 "随着生存主义运动形成的不受欢迎，殖民者们不禁想知道他们的政府实际上站在哪一方。"
+ 
+ mem_death_world_death_swarm:0 "死亡虫群"
+ mem_death_world_death_swarm_desc:0 "有毒害虫袭击造成大量死亡后，殖民者仍然处于震惊之中。"
+ 
+ mem_death_world_stampede:0 "踩踏"
+ mem_death_world_stampede_desc:0 "殖民者对近期发生的破坏其设施的踩踏事件感到不安。"
+ 
+ mem_death_world_wasteland:0 "生物质废弃地"
+ mem_death_world_wasteland_desc:0 "这个星球上充满了用于科学研究的死亡的生物质。"
+ 
+ mem_death_world_graveyard:0 "野生动物的墓地"
+ mem_death_world_graveyard_desc:0 "这个星球上到处都是用于进行科学研究的死去的野生动物。"
+ 
+ mem_death_world_toxic:0 "死亡世界"
+ mem_death_world_toxic_desc:0 "这个星球肆虐着对其他所有生物抱有敌意的外星生物，使这个星球无法居住。"
+ 
+ mem_death_world_harmony:0 "和谐的生命形式"
+ mem_death_world_harmony_desc:0 "许多具有侵略性的野生外星物种已经被驯服，现在由殖民者的意志引导。"
+ 
+ mem_death_world_planetmind:0 "星球意识"
+ mem_death_world_planetmind_desc:0 "在地表深处，存在着一颗与地表居民的意志紧密相连的有意识的行星智慧。"
+ 
+ mem_death_world_dead_planetmind:0 "死亡的星球意识"
+ mem_death_world_dead_planetmind_desc:0 "地表深处是一个死亡的星球意识，向那些有兴趣进行尸检的人提供了大量的研究数据。"
+ 
+ mem_pc_death_habitability:0 "死亡世界宜居性"
+ 
+ #Armies
+ 
+ mem_alpha_torrasque_army:0 "阿尔法雷兽"
+ mem_torrasque_army:0 "雷兽"
+ mem_hunter_killer_army:0 "猎杀队"
+
+ mem_alpha_torrasque_army_plural:0 "阿尔法雷兽"
+ mem_torrasque_army_plural:0 "雷兽"
+ mem_hunter_killer_army_plural:0 "猎杀队"
+
+ mem_alpha_torrasque_army_desc:0 "在死亡世界的巨兽中最为强大的存在，这个庞然大物既是当地野生生物的领袖，也是最危险的武器。"
+ mem_torrasque_army_desc:0 "有着如山一般的肌肉与尖牙，这只巨兽可以对付一整支军队并赢得胜利。"
+ mem_hunter_killer_army_desc:0 "由大量不同群体的相对弱小的生物为一个同一的目的组成 - 寻找并摧毁星球上不受欢迎的客人。"
+ 
+ #Texts
+  mem_death_world_LOST:0 "失去了星球。"
+ 
+ mem_death_world.1.name:0 "危险的觉醒"
+ mem_death_world.1.desc:0 "§Y[Root.GetName]§!之前的温和的生态系统似乎正在经历迅速的变化。多个以前温顺的本地生物正在变得更加敌视我们的殖民者并展开了攻击。在侵略性突然上升后发生了很多受伤事件。如果这种趋势继续下去，行星医疗系统可能会不堪重负。"
+ 
+ #for hive minds
+ mem_death_world.1.desc.hive:0 "§Y[Root.GetName]§!之前的温和的生态系统似乎正在经历迅速的变化。多个以前温顺的本地生物正在变得更加敌视我们的工蜂并展开了攻击。许多工蜂报告了在侵略性上升之后受到的突然袭击。如果这种趋势继续下去，我们的损害恢复能力可能会不堪重负."
+ 
+ #for machine empires or only non-happiness robot colonists
+ mem_death_world.1.desc.machine:0 "§Y[Root.GetName]§!之前的温和的生态系统似乎正在经历迅速的变化。多个以前温顺的本地生物正在变得更加敌视我们的单位并展开了攻击。许多单位报告了在侵略性上升之后受到的突然袭击。如果这种趋势继续下去，我们的修复能力可能会不堪重负."
+ 
+ #for only synth pops (with happiness)
+ mem_death_world.1.desc.synth:0 "§Y[Root.GetName]§!之前的温和的生态系统似乎正在经历迅速的变化。多个以前温顺的本地生物正在变得更加敌视我们的殖民者并展开了攻击。许多合成人报告了在侵略性上升之后受到的突然袭击。如果这种趋势继续下去，我们的修复能力可能会不堪重负."
+ 
+ mem_death_world.2.name:0 "洗劫一空的存储"
+ mem_death_world.2.desc:0 "大量小型本地啮齿动物以某种方式进入了§Y[Root.GetName]§!的行星存储设施。尽管它们体积很小，但它们对存储在那里的敏感设备造成了相当大的损害。许多物品需要尽快更换。"
+ 
+ #I changed the title for the benefit of hive minds
+ mem_death_world.3.name:0 "殖民者受伤"
+ mem_death_world.3.desc:0 "§Y[Root.GetName]§!的公民被警告留在室内，但这次是不够的。一个栖息地建筑被从通风井出现的有毒生物渗透进入，并蛰伤了居民。虽然没有死亡事件，但市民对此事感到非常痛心，一些受害者可能不得不花费大量时间恢复过来。"
+ #Hive version
+ mem_death_world.3.desc.hive:0 "虽然我们的工蜂在§Y[Root.GetName]§!一直处于高度戒备状态，我们依然无法阻止这起不幸事件的发生。一个栖息地建筑被从通风井出现的有毒生物渗入并刺伤了我们的工蜂。虽然没有死亡事故，但我们的一些工蜂遭受重大损失，其他人不得不采取额外的预防措施以防止重复发生。"
+ mem_death_world.3a:0 "讨厌的害虫。"
+ 
+ #Modifier for hive minds - cut resource output instead of happiness
+ mem_death_world_stinged_hive:0 "刺伤"
+ mem_death_world_stinged_hive_desc:0 "我们的工蜂在被有毒生物袭击后被迫采取额外的预防措施。"
+ 
+ mem_death_world.4.name:0 "虫灾"
+ mem_death_world.4.desc:0 "大量的大型昆虫在§Y[Root.GetName]§!各地出现。尽管它们单独来说不算太危险，但其中的大部分会威胁会破坏星球上的基础设施，它们的坚硬的甲壳堵塞了行星车辆的公用设施和发动机。"
+ mem_death_world.4a:0 "恶心的虫子。"
+ 
+ mem_death_world.5.name:0 "野生动物攻击性增长"
+ mem_death_world.5.desc:0 "我们从§Y[Root.GetName]§!拿到的一手报告，当地的野生动物积极猎杀殖民者。虽然伤亡率较低，但其增长速度不容忽视。当地生物表现出迅速的表型变化，因为它们比任何进化模型都能预测的更快地适应我们的战术和方法。"
+ #Gestalt
+ mem_death_world.5.desc.gestalt:0 "我们从§Y[Root.GetName]§!拿到的一手报告，当地的野生动物积极猎杀和摧毁我们的工蜂。虽然伤亡率较低，但其正在增长的趋势不容忽视。当地生物表现出迅速的表型变化，因为它们比任何进化模型都能预测的更快地适应我们的战术和方法。"
+ mem_death_world.5a:0 "必须做点什么。"
+ 
+ mem_death_world.6.name:0 "生存主义民兵组织"
+ mem_death_world.6.desc:0 "因为担心他们在行星上的未来，许多在§Y[Root.GetName]§!上的殖民者选择投入时间研究武器和野生动物生存技术，以防遭受当地生物攻击。生存主义运动正在逐渐获得新成员。"
+ mem_death_world.6a:0 "支持积积极性"
+ mem_death_world.6b:0 "允许积极性"
+ mem_death_world.6c:0 "阻止积极性"
+ 
+ mem_death_world.7.name:0 "死亡虫群"
+ mem_death_world.7.desc:0 "今天，一大群异常猛烈的甲虫从§Y[Root.GetName]§!的天空下降。在当局可以作出反应之前，多名平民工人被多次咬伤，并很快死于致命的毒液。"
+ mem_death_world.7.desc.hive:0 "今天，一大群异常猛烈的甲虫从§Y[Root.GetName]§!的天空下降。在当局可以作出反应之前，多名工蜂被多次咬伤，并很快死于致命的毒液。"
+ 
+ mem_death_world.8.name:0 "狂奔踩踏"
+ mem_death_world.8.desc:0 "多个大型，以往看上去温顺的哺乳动物聚集起来并攻击了§Y[Root.GetName]§!上的设施。它们用锤子形状的头撞墙，直到墙体破裂为止。 然后这些生物进一步践踏这些设施，造成重大损失，然后逃到荒野中。值得庆幸的是，工人们得以逃离，并将平民伤亡控制在最低限度。"
+ mem_death_world.8.desc.gestalt:0 "多个大型，以往看上去温顺的哺乳动物聚集起来并攻击了§Y[Root.GetName]§!上的设施。它们用锤子形状的头撞墙，直到墙体破裂为止。 然后这些生物进一步践踏这些设施，造成重大损失，然后逃到荒野中。值得庆幸的是，我们的工蜂得以逃离，并将伤亡控制在最低限度。"
+ mem_death_world.8a:0 "它们需要被阻止。"
+ 
+ mem_death_world.9.name:0 "大自然的报复"
+ mem_death_world.9.desc:0 "在§Y[Root.GetName]§!上的当地生物每一天都变得更加具有攻击性和组织性。他们能够执行复杂的演习并躲避我们的部队。这个星球现在处于死亡世界的边缘，简单的日常生存是一项艰巨的任务。"
+ mem_death_world.9a:0 "我们需要找到一种方法在太迟之前阻止它。"
+ 
+ mem_death_world.10.name:0 "纯净运动"
+ mem_death_world.10.desc:0 "§Y[Root.GetName]§!上的殖民者遭受了足够的创伤经历，使它们对外星生物极度不信任，不喜欢。排外运动正在兴起。 "
+ mem_death_world.10a:0 "令人不安。"
+ mem_death_world.10b:0 "他们知道什么怎么做好。"
+
+ mem_death_world.11.name:0 "寻找解决办法"
+ mem_death_world.11.desc:0 "在§Y[Root.GetName]§!上的持续情况促使很多专家提出解决的办法。随着野生动物的侵略性增加，采取措施是明确的。我们只需要选择要做什么。"
+ mem_death_world.11.desc.gestalt:0 "在§Y[Root.GetName]§!上的持续情况促使我们投入几个子程序来寻找解决危机的办法。随着野生动物的侵略性增加，采取措施是明确的。我们只需要选择要做什么。"
+ mem_death_world.11a:0 "我们必须设法消灭攻击性生物。"
+ mem_death_world.11b:0 "我们必须更密切地研究野生动物。"
+ mem_death_world.11c:0 "我们应该建造防御工事，然后寄希望于最好的结果。"
+ mem_death_world.11d:0 "在这背后的力量本质上必然是灵能 - 我们可以挖掘它。"
+ mem_death_world.11e:0 "这些生物是整体的一部分。我们需要学习更多的东西。"
+ 
+ mem_death_world.12.name:0 "与自然之战"
+ mem_death_world.12.desc:0 "对§Y[Root.GetName]§!上的敌意生态系统进行的广泛调查揭露了几个脆弱点，如果它们受到打击，将会破坏整个生态系统。军事指挥官提出了两种可能的解决方案：\n\n通过在安全的轨道上部署特定的武器，专门用来摧毁野生动物，他们可以安全地执行该计划，但是附带损害将是巨大的。\n\n地面行动成功的可能性较小，并可能需要其他世界的增援部队，但应保持行星的盖亚潜能不变。"
+ mem_death_world.12.desc.gestalt:0 "对§Y[Root.GetName]§!上的敌意生态系统进行的广泛调查揭露了几个脆弱点，如果它们受到打击，将会破坏整个生态系统。我们的程序已经确定两种可能的解决方案：\n\n通过在安全的轨道上部署特定的武器，专门用来摧毁野生动物，他们可以安全地执行该计划，但是附带损害将是巨大的。\n\n地面行动成功的可能性较小，并可能需要其他世界的增援部队，但应保持行星的盖亚潜能不变。"
+ mem_death_world.12a:0 "让我们考虑一下我们的选择。"
+ 
+ mem_death_world.13.name:0 "清除野生动物"
+ mem_death_world.13.desc:0 "我们的预测是正确的。当我们用先进武器袭击时，整个敌对生态系统崩溃了。\n\n然而，解决方案并非没有副作用。整个过度生长星球生态系统受到的大规模突然破坏释放出能量，导致迅速的气候变化，并将世界变成了荒地。"
+ mem_death_world.13a:0 "至少那也是我们的荒地。"
+ 
+ mem_death_world.14.name:0 "灭绝危机"
+ mem_death_world.14.desc:0 "当地的生态系统已经感受到了我们的侵略。它正在准备进攻！"
+ mem_death_world.14a:0 "准备战斗！"
+ 
+ mem_death_world.15.name:0 "我们的部队胜利了。"
+ mem_death_world.15.desc:0 "正如我们的分析预计的那样，在弱点的多次打击破坏了生态系统，足以导致大规模的崩溃。几乎所有的生态位都被打乱了，留下的饥饿和迷失方向的生物对我们扫荡行动来说是轻松目标。"
+ mem_death_world.15a:0 "我们拯救了星球"
+ 
+ mem_death_world.16.name:0 "我们的部队输了。"
+ mem_death_world.16.desc:0 "我们曾预计野生动物的强烈抵抗，但我们并没有预料到会这么强。我们的军队被击溃和消灭。\n\n由于我们的侵略行为，生态系统迅速转向向大气中排放有毒气体，并迅速改变其构成，使其不适合我们居住。"
+ mem_death_world.16.desc.machine:0 "我们曾预计野生动物的强烈抵抗，但我们并没有预料到会这么强。我们的军队被击溃和消灭。\n\n看来受到我们的侵略行为的刺激，生态系统迅速转向向大气中排放有毒气体，并迅速改变其构成，使其甚至不适合我们机械单位居住。"
+ 
+ mem_death_world.17.name:0 "综合野生动物研究"
+ mem_death_world.17.desc:0 "§Y[Root.GetName]§!对恶意野生动物进行广泛的采样和尸体解剖已被证明在理解其性质方面非常有价值。\n\n尽管它们分别是隔离的，遗传基因上不同的物种，但它们似乎都有异物粘在组织中，不知何故将它们粘合在一起。持续的免疫抑制可以防止宿主抗体的靶向性。了解这种效应使我们看到了解决问题的可能方法。"
+ mem_death_world.17a:0 "我们可以利用这些组织来帮助我们的殖民者与星球和平相处。"
+ mem_death_world.17a.hive:0 "我们可以利用这些组织来帮助我们的工蜂与星球和平相处。"
+ mem_death_world.17b:0 "我们能找到一种方法来扰乱免疫抑制吗？"
+ 
+ mem_death_world.18.name:0 "与自然和谐相处"
+ mem_death_world.18.desc:0 "第一批测试对象显示出巨大的潜力来控制和指导将这个星球上的野生动物绑定在一起的奇怪组织。他们能够避免遭到本土物种的袭击。很快，安全可使用的的组织植入物分放到人群中。\n\n组织并不是没有副作用。受试者发现很难在其他世界范围内工作，但是相对控制这颗行星付出的代价是很小的。新形成的共生关系加速了野生动植物的蔓延，使星球变成了一个陌生的新世界，一个除了少数植入了内部粘结组织的人外敌视所有人的世界。"
+ mem_death_world.18.desc.hive:0 "第一批测试工蜂显示出巨大的潜力来控制和指导将这个星球上的野生动物绑定在一起的奇怪组织。他们能够避免遭到本土物种的袭击。很快，安全可使用的的组织植入物分放到工蜂中。\n\n组织并不是没有副作用。工蜂无法在其他世界范围内全效工作，但是相对控制这颗行星付出的代价是很小的。新形成的共生关系加速了野生动植物的蔓延，使星球变成了一个陌生的新世界，一个除了少数植入了内部粘结组织的人外敌视所有人的世界。"
+ mem_death_world.18a:0 "让人着迷。"
+ 
+ mem_death_world.19.name:0 "免疫自杀"
+ mem_death_world.19.desc:0 "一个小而有效的链病毒剂 - 一种§Y[Root.GetName]§!的当地生物无法适应的东西。流行病正在蔓延到当地的生物种群中，导致其生物体发生致命的排斥反应。很快，所有危险的生物都将灭亡。"
+ mem_death_world.19a:0 "完美."
+ 
+ mem_death_world.20.name:0 "围墙内的花园"
+ mem_death_world.20.desc:0 "我们的工程师已经制定了一项计划，以保护殖民者的栖息地免受日益增长的危险，并且不必直接与他们对抗就能安抚当地的野生动物。通过结合使用地震模拟锤装置，电磁干扰器和声波栅栏，我们应该能够阻止任何在我们领域内的进一步的活动。"
+ mem_death_world.20.desc.gestalt:0 "我们的工程师已经制定了一项计划，以保护我们的工蜂免受日益增长的危险，并且不必直接与他们对抗就能安抚当地的野生动物。通过结合使用地震模拟锤装置，电磁干扰器和声波栅栏，我们应该能够阻止任何在我们领域内的进一步的活动。"
+ mem_death_world.20a:0 "准备施工。"
+ mem_death_world.20.tooltip:0 "我们现在可以建立一个§Y威慑中心§!来停止侵扰。"
+ 
+ mem_death_world.21.name:0 "威慑中心现在开始运作"
+ mem_death_world.21.desc:0 "我们已经成功地部署了我们的防御工事。虽然有些地区因为无法使用他来保护自己而不得不被放弃，剩下的那些地方应该能免受进一步的入侵。"
+ mem_death_world.21a:0 "让我们的时代有和平。"
+
+ mem_death_world.22.name:0 "威慑枢纽拆除"
+ mem_death_world.22.desc:0 "由于我们的粗心决定拆除在§Y[Root.GetName]§!上的§Y威慑中心§!，我们允许了当地生物起来对抗我们。这个殖民地将在一小时内泛滥成灾。"
+
+ mem_death_world.23.name:0 "灵能存在"
+ mem_death_world.23.desc:0 "我们是对的！野生动物确实有一个指导它们的集体思想，由灵力活动促成。看起来地表深处生长着一个巨大的心灵，它通过感染生物的肉体碎片引导这个星球的生物。这应该允许我们能够与之沟通...或者摧毁它。"
+ mem_death_world.23a:0 "与星球意识的灵能链接"
+ mem_death_world.23b:0 "使用新发现的知识来解决问题的根源。"
+
+ mem_death_world.24.name:0 "星球意识平复"
+ mem_death_world.24.desc:0 "来自我们帝国的多名灵能专家已前往§Y[Root.GetName]§!与引导它的思想进行交流。他们的集体意志驱动着贯穿了整个星球生态系统的灵能连接。这次的精神攻击让这个星球无法抵抗，并且已经被成功地平息了，它的兽性将会由我们终结。"
+ mem_death_world.24a:0 "我们意志是坚强的。"
+
+ mem_death_world.25.name:0 "星球意识胜利"
+ mem_death_world.25.desc:0 "来自我们帝国的多名灵能专家已前往§Y[Root.GetName]§!与引导它的思想进行交流。他们的集体意志驱动着贯穿了整个星球生态系统的灵能连接。不幸的是，这个星球意识比他们预期的更加强大。\n\n它不仅摧毁了他们的思想，而且从中学到了如何直接攻击殖民者的思想。很快，大部分殖民地都在其控制之下。显然因为担心进一步的袭击，它已经改变了生态系统的生物循环，产生一个不适合我们的大气层，这意味着我们失去了永久的殖民地。"
+
+ mem_death_world.26.name:0 "万恶之源"
+ mem_death_world.26.desc:0 "通过我们的灵能专家绘制的星球意识结构，我们的科学家能够找到几个主要的为整个系统提供动力的代谢节点。通过大型钻井平台在这些节点内注入数吨高度强效的神经毒素，我们能够实时观察到星球静脉萎缩并死亡，同时地表上的生命恢复正常。"
+ mem_death_world.26a:0 "胜利属于我们！"
+ mem_death_world.26b:0 "如此悲惨的损失。但我们别无选择。"
+ 
+ mem_death_world.27.name:0 "星球意识的回答"
+ mem_death_world.27.desc:0 "我们搜寻了这个星球的深处，我们找到了答案。地表深处，行星意识等待着。它听到了我们。\n\n我们感受到它的原始力量，但我们更强大。 它也感觉到了我们，并选择了顺从。"
+ mem_death_world.27a:0 "好的。我们现在是一体。"
+ mem_death_world.27a.tooltip:0 "星球意识和它所引导的将加入我们。"
+ mem_death_world.27b:0 "好的。现在去死吧。"
+ 
+ mem_death_world.28.name:0 "星球意识拒绝我们"
+ mem_death_world.28.desc:0 "地表深处，星球意识等待着我们。但是当我们的存在触及它时，它拒绝了我们。\n\n它已经让这个星球上的生物变得对所有外人都是敌对的。 我们的存在已不再可能。"
+ 
+ mem_death_world.29.name:0 "星球肆虐"
+ mem_death_world.29.desc:0 "§Y[Root.GetName]§!上的生物已经发生了戏剧性的变化。它的新陈代谢已经改变为呼出对殖民者极其毒性并对殖民地设备具有腐蚀性的气体。当我们的殖民者死亡或被迫逃离时，当地生态系统蓬勃发展。"
+ 
+ #Chain & Projects
+ 
+ mem_death_world_chain_title:0 "死亡世界"
+ mem_death_world_chain_desc:0 "面对来自当地生态系统不断加剧的侵略，我们需要在它完全和它的绰号一样之前找到一种方法在所谓的“死亡世界”中解决危机。"
+ 
+ MEM_DEATH_WORLD_WAR_ON_NATURE:0 "观察野生动物的行为"
+ MEM_DEATH_WORLD_WAR_ON_NATURE_DESC:0 "我们的科学家应该从轨道上观察行星，寻找攻击的薄弱点。"
+MEM_DEATH_WORLD_WILDLIFE_REMOVAL:0 "清除野生动物"
+ MEM_DEATH_WORLD_WILDLIFE_REMOVAL_DESC:0 "一种来自轨道的强力武器，专为破坏外星生态系统而设计。它很可能毁灭这个星球，但它肯定会消除威胁。"
+ 
+ MEM_DEATH_WORLD_EXTERMINATION_OR_BUST:0 "灭绝或破坏！"
+ MEM_DEATH_WORLD_EXTERMINATION_OR_BUST_DESC:0 "地面解决方案应该允许我们摧毁敌对的生态系统，同时保持行星的盖亚潜能不变。 \n\n§R我们有这个机会！但如果我们的行星队伍不够强大，我们可能会永久失去这颗星球§!"
+ 
+ MEM_DEATH_WORLD_STUDY_THE_NATURE:0 "研究野生动物"
+ MEM_DEATH_WORLD_STUDY_THE_NATURE_DESC:0 "对当地野生动物的观察和检查应该能让我们更好地了解其机制。"
+ 
+ MEM_DEATH_WORLD_IN_HARMONY:0 "与自然的和谐"
+ MEM_DEATH_WORLD_IN_HARMONY_DESC:0 "我们必须找到一条使我们的殖民者与大自然和谐相处的方法。"
+ 
+ MEM_DEATH_WORLD_SUICIDE:0 "免疫系统自杀"
+ MEM_DEATH_WORLD_SUICIDE_DESC:0 "我们可以利用野生动物中的粘结组织来摧毁敌对的生态系统。"
+ 
+ MEM_DEATH_WORLD_WALLED_GARDEN:0 "围墙中的花园"
+ MEM_DEATH_WORLD_WALLED_GARDEN_DESC:0 "我们应该制定一种方法，让当地的野生动物回归，而不是让它干扰我们的殖民地"
+ 
+ MEM_DEATH_WORLD_PSIONIC:0 "灵能活动试验野生动物"
+ MEM_DEATH_WORLD_PSIONIC_DESC:0 "我们必须发现星球的生物是否由智力更高的意识所驱动"
+ 
+ MEM_DEATH_WORLD_PLANETMIND:0 "星球意识"
+ MEM_DEATH_WORLD_PLANETMIND_DESC:0 "我们必须让强大的星球意识参与意志之战"
+ 
+ MEM_DEATH_WORLD_ROOT:0 "万恶之源"
+ MEM_DEATH_WORLD_ROOT_DESC:0 "我们可以用我们自己的灵能影响来制定和打击强大的星球意识，而不用冒着直接暴露于自己的灵能力的风险。"
+ 
+ MEM_DEATH_WORLD_HIVE:0 "发现行星背后的蜂群思想"
+ MEM_DEATH_WORLD_HIVE_DESC:0 "强大的思想指导着这个星球上的生物。我们必须寻找并联系它。"
+ 
+ # Planet
+ 
+ mem_pc_death:0 "死亡世界"
+ mem_pc_death_desc:0 "一个具有高度多样性，高度侵略性和高度敌对意识的生态系统的星球。只有少数人能够在其表面上生存和发展。"
+ 
+ trait_mem_pc_death_preference:0 "死亡世界的偏好"
+ trait_mem_pc_death_preference_desc:0 "小小的修改使得这个物种能够与死亡世界的生态系统和谐共处，但却阻止他们在远离它时还能茁壮成长。"
+ 
+ mem_pc_death_tile:0 "死亡世界地形"
+ mem_pc_death_tile_desc:0 "郁郁葱葱的地形充满了大自然，很少有外人能在这里生存下来。"
+ 
+ d_mem_death_world_blocker:0 "大自然的复仇"
+ d_mem_death_world_blocker_desc:0 "由于充满了敌对的外星生物，这个地区不得不被废弃并隔离起来。"
+ 
+ #Building
+ 
+ d_mem_death_world_deterrence_hub:0 "威慑中心"
+ d_mem_death_world_deterrence_hub_desc:0 "控制殖民地防御本地野生动物的大型综合设施。"

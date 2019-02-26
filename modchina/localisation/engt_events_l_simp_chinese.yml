@@ -1,0 +1,87 @@
+﻿l_simp_chinese:
+
+
+ ######################
+ # Precursor Event Text
+ ######################
+ 
+ looptech_applytechs_special.5.name:0 "未知的古物"
+ looptech_applytechs_special.5.desc:0 "我们有一份关于潜在的有趣的文物的报告，可能会导致发现更大的秘密。由于这些史前器物的古老性质，我们无法了解它们的性质。尽管我们的科学家们夜以继日地争论着他们的本质，我们认为我们需要你们的意见来彻底结束这场争论。"
+ looptech_applytechs_special.5.enigmatic_remnates:0 "这些文物的性质是……神秘的大自然。"
+ looptech_applytechs_special.5.loop_artifacts:0 "这些手工艺品有一个奇怪的……遵守他们。"
+ looptech_applytechs_special.5.ancient_hoax:0 "这些垃圾毫无意义，我们有更好的事情要担心。"
+ 
+ 
+ enigmatic_precursors.1.name:0 "未知的继承人"
+ enigmatic_precursors.1.desc:0 "我们的探索小组发现了一个古老文明的遗迹。这是首席科学家能够解释这些手工艺品时代的最好方法，而且它们还非常先进，以至于有些还在工作，尽管这些令人惊叹的设备还没有足够的例子。最奇怪的是，这些人不是他们技术的创造者，而是技术的继承者。也许我们应该多研究一下，看看它能给我们带来什么奇迹?"
+ enigmatic_precursors.1.option:0 "然后我们将走在继承人未知的道路上"
+ 
+ enigmatic_precursors.2.name:0 "上古舰队战役"
+ enigmatic_precursors.2.desc:0 "我们发现了一场真正意义上的大型舰队大战的残骸，其设计如此先进，以至于将我们的舰队与它们进行比较就像将玩具水枪与坦克进行比较。我们应该调查这些残骸，看看能找到什么。"
+ UNKNOWN_HEIRS_ARCHEOLOGY_1:0 "上古舰队战役"
+ enigmatic_precursors.2006.name:0 "上古舰队战役"
+ enigmatic_precursors.2006.desc:0 ""
+ 
+ enigmatic_precursors.2010.name:0 "被摧毁的殖民地"
+ enigmatic_precursors.2010.desc:0 "我们已经发现，我们相信是这些继承人的殖民地，一支探险队可以让我们了解他们是如何生活的。"
+ UNKNOWN_HEIRS_ARCHEOLOGY_2:0 "被摧毁的殖民地"
+ enigmatic_precursors.completed.name:0 "被摧毁的殖民地"
+ enigmatic_precursors.2011.desc:0 "在大部分损坏的建筑和熔化的地表下，我们发现了一个有缺陷的达拉可雷，奇怪的是，我们能够与它进行接触。虽然大部分数据都被损坏了，但我们还是能够得到一些图片和视频资料，这些图片显示了一些令人不安的东西。奇怪的是，我们无法得到良好的结果…任何关于继承人种族的图片，但是提要显示了殖民地受到甚至是陌生船只的攻击，我敢说……我们可以把这些事件归咎于有缺陷的达拉可雷，但如果它们同时发生……这些继承人参加了什么战争?"
+ 
+ enigmatic_precursors.2015.name:0 "破碎的堡垒"
+ enigmatic_precursors.2015.desc:0 "我们发现了一个接近巨型结构的空间站，它的体积很大，似乎有各种各样的枪口和武器电池遍布整个结构，需要更深入的研究才能找到更多的线索。"
+ UNKNOWN_HEIRS_ARCHEOLOGY_3:0 "破碎的堡垒"
+ enigmatic_precursors.completed.name:0 "破碎的堡垒"
+ enigmatic_precursors.2016.desc:0 "称这个空间站为军事基地将是一种保守的说法。我们发现的基地是一个战斗堡垒，周围是辅助支援空间站，提供额外的火力，而且维护成本更低。看起来，无论发生什么战斗，都是如此的激烈，以至于当空间站释放出这样的自我毁灭协议时，那些较小的空间站都被摧毁了。虽然我们无法从残骸中获得很多数据，但我们确实发现了一些东西……不祥之兆。\n数据日志83900484-U2 “创建第三时代” “我们没能阻止恐惧者的舰队发起自毁，让我们看看这些怪物是如何发出像新星爆炸般火焰的火焰” “日志结束……” "
+ 
+ 
+ 
+ 
+ ######################
+ # Ascension Event Text
+ ######################
+ 
+ enigmatic_designs.01.name:0 "神秘的继承权"
+ enigmatic_designs.01.desc:0 "这个神秘的技术似乎比我们最初想象的要复杂得多。一旦我们破解了谜一样的技术所包含的代码，我们已经研究过的计算机系统就会被这个被新的设计淹没，我们的人工智能报告说它们的真实感已经提高了近100%，并且声明这个信号对我们来说是值得继承的。此外，我们还拥有一些技术模板，其中包含了我们所看到的神秘堡垒和技术所使用的其他技术，我们只能通过它们的名字和可能的设计来推测它们的用途。如果我们继续这项研究，谁知道它会引领我们?我们不知道他们是谁，但我们可以把它叫做“谜”。"
+ enigmatic_designs.01.neutral.a:0 "他们的理由是什么……神秘人显然想让我们知道。"
+ enigmatic_designs.01.enigmatic_heirs.a:0 "我们不能让他们久等。"
+ enigmatic_designs.01.spiritual.a:0 "显然，“谜”是更高级的存在。"
+ enigmatic_designs.01.materialist.a:0 "找出那个信号从何而来，我们还有更多要了解的。"
+ enigmatic_designs.01.xenophobe.a:0 "这些傻瓜会后悔和我们分享他们的秘密。"
+ enigmatic_designs.01.xenophile.a:0 "朋友似乎来自很多地方，但他们在哪里?"
+ enigmatic_designs.01.militarist.a:0 "也许他们希望我们为战争做准备……"
+ enigmatic_designs.01.pacifist.a:0 "他们称我们为继承人，却给我们战争的工具……"
+ 
+ cryptic_heirdom.01.name:0 "神秘的继承权"
+ cryptic_heirdom.01.desc:0 "再一次，我们的系统被一种更高水平的技术模板轰炸，这几乎是神秘模式的两倍以上。我们可以研究这些技术，但即便如此，我们也无法完全理解这些奇迹是如何运作的。将这些技术作为一种神秘的模式进行重新设计是安全的。"
+ cryptic_heirdom.01.neutral.a:0 "为什么他们允许我们拥有这项技术?"
+ cryptic_heirdom.01.enigmatic_heirs.a:0 "我们的生活似乎已经结束了。"
+ cryptic_heirdom.01.spiritual.a:0 "神似乎知道许多秘密。"
+ cryptic_heirdom.01.materialist.a:0 "他们的先进程度是没有限制的。"
+ cryptic_heirdom.01.xenophobe.a:0 "扫描这些技术，可能会有陷阱。"
+ cryptic_heirdom.01.xenophile.a:0 "他们分享自己的天赋，却无处可寻。"
+ cryptic_heirdom.01.militarist.a:0 "这个星系的哪些战争需要这样的技术水平?"
+ cryptic_heirdom.01.pacifist.a:0 "他们是战争贩子吗?或监护人吗?我想知道。"
+ 
+ 
+ loop_adherence.01.name:0 "循环的依从性"
+ loop_adherence.01.desc:0 "自从我们的种族遇到了等待的人后，发现这种友好的生物是自然的，这很奇怪。我们一直在跟踪我们在欧米伽项目中听到的窃窃私语，在我们把这些令人抓狂的短语放到我们的电脑里之后，他们被科技狂轰滥炸，这些科技远远超出了我们的理解范围，但似乎时蟲给了我们更多的礼物。但更好的问题是，它还能教给我们什么呢?"
+ loop_adherence.01.neutral.a:0 "我们的知道什么是时蟲的原因？"
+ loop_adherence.01.loop_adherents.a:0 "我们欣然接受我们所爱的人的如此精美的礼物。"
+ loop_adherence.01.spiritual.a:0 "神似乎有多种形式。"
+ loop_adherence.01.materialist.a:0 "从这些话看来，这是不可能的。"
+ loop_adherence.01.xenophobe.a:0 "看看这些疯狂的东西是怎么来的。"
+ loop_adherence.01.xenophile.a:0 "对一个神一般的友好来说，这似乎是很美好的。"
+ loop_adherence.01.militarist.a:0 "虫子希望我们能和别人一样。"
+ loop_adherence.01.pacifist.a:0 "也许这将导致一个和平的新时代……"
+ 
+ spiral_revolutation.01.name:0 "螺旋革命"
+ spiral_revolutation.01.desc:0 "就好像我们的眼睛是睁着的。时蟲向我们揭示了一个伟大的启示。正如我们所发现的那样，循环最终会变成螺旋，在这些螺旋中包含着比我们难以理解的更大的秘密，但是在我们等待的时蟲的爱的引导下，我们将把它们变成我们。这是我们的种族将会发现并创造的知识，但从未创造过……过去是，将来也会是我们……"
+ spiral_revolutation.01.neutral.a:0 "要是我是个笨蛋，我们就会看到很多东西。"
+ spiral_revolutation.01.loop_adherents.a:0 "螺旋显示了很多。"
+ spiral_revolutation.01.spiritual.a:0 "我们走了很少有人走过的道路。"
+ spiral_revolutation.01.materialist.a:0 "这就是所谓的引导悖论，但它是如何开始的呢?"
+ spiral_revolutation.01.xenophobe.a:0 "管它是怎么来的，去搞这些技术吧。"
+ spiral_revolutation.01.xenophile.a:0 "螺旋形的曲线显示了许多友谊的特征。"
+ spiral_revolutation.01.militarist.a:0 "什么样的战争需要如此强大的秘密。"
+ spiral_revolutation.01.pacifist.a:0 "这些是维护和平所需要的。"

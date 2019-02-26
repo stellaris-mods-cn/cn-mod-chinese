@@ -1,0 +1,34 @@
+﻿l_simp_chinese:
+ 
+ 
+ inspiring_warlord:0 "鼓舞人心的军阀"
+ inspiring_warlord_desc:0 "君主激励这个帝国去战斗。"
+ 
+ demilitarized_state:0 "非军事状态"
+ demilitarized_state_desc:0 "这个国家是非军事化的，限制了它能派出的船只的数量。"
+ 
+ new_world_order:0 "世界新秩序"
+ new_world_order_desc:0 "社会正遭受着适应新秩序的影响。"
+ 
+ democratized_utopia:0 "民主化的乌托邦"
+ democratized_utopia_desc:0 "这显然是一个民主化的乌托邦。"
+ 
+ fe_satrapy:0 "总督的辖地"
+ fe_satrapy_desc:0 "作为一个总督，我们有义务从我们的人口中提供一定数量的新兵。"
+ 
+ the_preserve:0 "保护区"
+ the_preserve_desc:0 "这颗行星拥有各种各样的智慧生命，是伟大的外星保护计划的一部分。"
+ 
+ has_preserve_world_planet:0 "保护外星物种"
+ has_preserve_world_planet_desc:0 "我们已经在我们的边界内指定了一个盖亚世界作为保护区。"
+ 
+ op_vs_plebs:0 "OP vs Plebs"
+ op_vs_plebs_desc:0 "我们知道他们所有的战术，他们所有的缺点和弱点。"
+ 
+ auxiliary_overlord: "辅助装置"
+ auxiliary_overlord_desc:0 "我们的辅助装置大大增强了我们装配下一代机器的能力。"
+ 
+ fe_xeno_preserve:0 "外星保护区"
+ fe_xeno_preserve_desc:0 "一个巨大的综合体被设计用来保护从银河系收集来的各种各样的智慧生命。"
+ 
+ 

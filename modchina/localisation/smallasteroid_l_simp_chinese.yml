@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+ 
+ ####################################
+ # Extra Planet Classes
+ ####################################
+ 
+  habitable_environment:0 "宜居环境"
+  habitable_environment_desc:0 "这颗行星或小行星有一个预先存在的可居住环境，使它更容易居住。"
+  asteroid_rich:0 "矿产丰富的小行星"
+  asteroid_rich_desc:0 "这颗小行星含有丰富的宝贵矿藏。"
+  pc_small_asteroid:0 "小行星"
+  pc_small_asteroid_desc:0 "一颗小的小行星，小到不能殖民，但大到足以在黑暗中脱颖而出。" 
+  belt_lowg_lab:0 "低重力实验室"
+  belt_lowg_lab_desc:0 "小行星带着非常低的重力，为各种各样的科学实验室提供了绝佳的场所，远离了行星引力的不断存在。这一设施虽然不便宜，但将为人类文明的科学产出提供有力的推动力。"
+ 

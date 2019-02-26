@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+ ######################
+ # STRATEGIC RESOURCES
+ ######################
+ sr_actinides:0 "锕系元素"
+ sr_actinides_desc:1 "放射性元素。"
+
+ #############
+ # BUILDINGS
+ #############  
+ building_alpha_fuel_converter_fission:0 "核裂变装置"
+ building_alpha_fuel_converter_fission_desc:0 "将锕系元素原子分裂成能量。\n\n§R只能建在锕系元素或核研究中心附近。§!"
+ building_alpha_fuel_converter_2:0 "核聚变装置"
+ building_alpha_fuel_converter_2_desc:1 "通过核聚变，这个装置将燃料转换成能量和许多其他有用的材料，而且在储存能量方面也很高效。"
+ building_alpha_fuel_converter_3:0 "冷聚变装置"
+ building_alpha_fuel_converter_3_desc:1 "通过冷聚变过程，这个装置将燃料转化为能量和许多其他有用的材料，同时也能高效地储存能量。"
+ building_alpha_fuel_converter_4:0 "零点装置"
+ building_alpha_fuel_converter_4_desc:1 "通过真空能量提取，该设备将燃料转化为清洁能源和许多其他有用的材料。它在储存能量方面也非常高效。"
+ building_nuclear_research:0 "核研究中心"
+ building_nuclear_research_desc:1 "获取和提炼锕系元素，并对其进行研究。\n\n§R只能在有锕系元素的地块上建造。§!"
+ building_actinides_mine:0 "锕系元素开采中心"
+ building_actinides_mine_desc:1 "获得锕系元素。\n\n§R只能在有锕系元素的地块上建造。§!"
+ 
+ # REQUIREMENT TOOLTIPS
+ requirement_has_actinides:0 "§R只能在有锕系元素的地块上建造。§!"
+ requirement_adjacent_actinides_sourcer:0 "§R只能建在锕系元素或核研究中心附近。§!"

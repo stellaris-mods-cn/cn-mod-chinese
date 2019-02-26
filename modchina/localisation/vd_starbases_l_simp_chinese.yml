@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+
+########################
+### Starbase Modules ###
+########################
+
+ sm_mining_terminal:1 "矿业终端"
+    sm_mining_terminal_desc:0 "一种用于处理从小行星和行星星系中收集的矿物质的终端。\n"
+    requires_asteroid_belt:0 "§R需要一个§Y小行星带§!在星系中。§!"
+    requires_asteroid_belt_or_colony:0 "§R需要§Y殖民地§!或§Y小行星带§!在星系中§!。"
+ sm_engineering_bay:0 "工程湾"
+    sm_engineering_bay_desc:0 "一种维护和修理停靠舰船的设施。\n"
+ sm_processing_hub:0 "加工中心"
+     sm_processing_hub_desc:0 "一种用于进一步提炼由采矿终端处理的矿石的设施。\n"
+     sm_processing_hub_desc_modifier:0 "矿业终端: §G+1§! £minerals\n\n"
+     
+######################
+### Starbase Types ###
+######################
+
+ stb_mining_base:0 "矿业基地"

@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+    trait_robot_ascended_upkeep:0 "高级服务机器"
+    trait_robot_ascended_upkeep_desc:1 "使用超导线路工作，通常是软质的和护理密集型收割机，以及精确工程，这种机器设计的目的是为了服务彼此和他人。"
+    trait_robot_ascended_production:0 "先进的材料处理器"
+    trait_robot_ascended_production_desc:1 "这种种类的机器由锻造工厂使用强大的中子合金制成，可以承受来自深度采矿和来自大规模锻造的热量的更大压力。"
+    trait_robot_ascended_calculator:0 "高级计算系统"
+    trait_robot_ascended_calculator_desc:1 "就像一台行走的超级计算机，这种几乎具有虚拟外观的机器能够在很远的距离上实时地与其他机器进行交流。"
+    trait_robot_ascended_amenity:0 "程序化压缩系统"
+    trait_robot_ascended_amenity_desc:1 "减少大型机器对他们的影响，使他们能够照顾好自己。这主要有助于推动这个机器种族的思维方式。"
+    trait_robot_assembly_line:0 "程序化装配线"
+    trait_robot_assembly_line_desc:1 "这个机器种族的底层代码中渗透了一个基于组装其他同类机器的深层次函数。"
+    trait_robot_leaders:0 "程序化领导能力掌握"
+    trait_robot_leaders_desc:1 "在这一机器种族编码的最前线是一种强烈的决心，成为他们领域中的最好的，拒绝接受在达到完美之前放弃的概念。"

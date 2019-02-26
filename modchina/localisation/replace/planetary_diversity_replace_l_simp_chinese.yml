@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ 
+ ####Replace Vanilla Localisations
+ 
+ climate_dry:0 "炎热干燥气候"
+ climate_cold:0 "寒冷干燥气候"
+ climate_wet:0 "炎热湿润气候"
+ dry:0 "§H（炎热干燥气候）§!"
+ cold:0 "§E（寒冷干燥气候）§!"
+ wet:0 "§G（炎热湿润气候）§!"
+ 

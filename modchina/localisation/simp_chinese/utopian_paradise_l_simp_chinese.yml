@@ -1,0 +1,39 @@
+﻿l_simp_chinese:
+
+ col_ae_capital_utopian:0 "乌托邦资本"
+ col_ae_capital_utopian_desc:0 "一个巅峰帝国的乌托邦式首都。"
+ col_ae_colony_utopian:0 "乌托邦世界"
+ col_ae_colony_utopian:0 "一个巅峰帝国的乌托邦世界。"
+
+ district_utopian_city:0 "乌托邦城市地区"
+ district_utopian_city_desc:0 "乌托邦城市的各个街区都被建设得完美无缺。它们是自给自足的，不需要维护。"
+ 
+ district_utopian_leisure:0 "乌托邦休闲区"
+ district_utopian_leisure_desc:0 "乌托邦世界的休闲区让市民们尽情娱乐，在完全的幸福中度过余生，不受外界的烦恼困扰。"
+ 
+ decision_paradise_creation_no_districts:0 "£trigger_no£ 星球必须不受地区和建筑发展的破坏。"
+ 
+ decision_paradise_creation:0 "创造天堂"
+ decision_paradise_creation_desc:0 "当大自然被设计得完美无缺时，它在已知的宇宙中无与伦比的美丽将是留给我们年轻一代的一份合适的遗产。乌托邦天堂世界是由§Y$pc_gaia$§!或§Y$pc_ringworld_habitable$§!创造的。"
+ 
+ tech_paradise_creation:0 "乌托邦世界"
+ tech_paradise_creation_desc:0 "结合我们在地形、景观和工程方面的造诣，我们可以在宇宙中创造一个真正的奇迹，为我们的公民创造一个乌托邦式的世界。" 
+ 
+ tech_fe_ancient_factory:1 "自主制造厂"
+ tech_fe_ancient_factory_desc:1 "由暗物质驱动，完全自主，这个工程奇迹是技术和工业的顶峰。"
+ 
+ tech_fe_dark_matter_power_plant:0 "暗物质发电厂"
+ tech_fe_dark_matter_power_plant_desc:0 "由暗物质驱动，完全自主，这个工程奇迹是技术和工业的顶峰。"
+ 
+ tech_fe_agri_processing_complex:0 "农业加工联合体"
+ tech_fe_agri_processing_complex_desc:0 "由暗物质驱动，完全自主，这个工程奇迹是技术和工业的顶峰。"
+ 
+ building_fe_ancient_factory:1 "自主制造厂"
+ building_fe_ancient_factory_desc:1 "由暗物质驱动，完全自主，这个工程奇迹是技术和工业的顶峰。"
+ 
+ building_fe_dark_matter_power_plant:0 "暗物质发电厂"
+ building_fe_dark_matter_power_plant_desc:0 "由暗物质驱动，完全自主，这个工程奇迹是技术和工业的顶峰。"
+ 
+ building_fe_agri_processing_complex:0 "农业加工联合体"
+ building_fe_agri_processing_complex_desc:0 "由暗物质驱动，完全自主，这个工程奇迹是技术和工业的顶峰。"
+ 

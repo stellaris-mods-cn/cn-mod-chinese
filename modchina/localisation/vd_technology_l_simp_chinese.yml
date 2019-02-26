@@ -1,0 +1,47 @@
+﻿l_simp_chinese:
+
+ tech_void_acclimation:0 "微重力适应"
+    tech_void_acclimation_desc:0 "虽然我们已经适应了太空，但生活在一个微重力环境中仍然可以让某些人，尤其是外来者感到困惑。我们应该努力解决这个问题。"
+ 
+ tech_orbital_redevelopment:0 "轨道重建"
+    tech_orbital_redevelopment_desc:0 "改进的轨道结构技术使我们能够在不严重破坏其功能的情况下修复现有的栖息地，使我们能够扩展以前建造的栖息地。"
+ 
+ tech_microgravity_fabricators:0 "微重力制造"
+ tech_microgravity_fabricators_desc:0 "$building_microgravity_fabricators_desc$"
+ 
+ tech_isotope_refinery:0 "密集的同位素精炼"
+ tech_isotope_refinery_desc:0 "$building_isotope_refinery_desc$"
+ 
+ TECH_UNLOCK_LABORATORY_COMPLEX_PHYSICS_TITLE:0 "实验中心: §G+1§! £physics  物理学研究"
+    TECH_UNLOCK_LABORATORY_COMPLEX_PHYSICS_DESC:0 "§H$tech_physics_lab_3$§!\n帝国修正\n$TECH_UNLOCK_LABORATORY_COMPLEX_PHYSICS_TITLE$"
+ TECH_UNLOCK_LABORATORY_COMPLEX_SOCIETY_TITLE:0 "实验中心: §G+1§! £society  社会学研究"
+    TECH_UNLOCK_LABORATORY_COMPLEX_SOCIETY_DESC:0 "§H$tech_biolab_3$§!\n帝国修正\n$TECH_UNLOCK_LABORATORY_COMPLEX_SOCIETY_TITLE$"
+ TECH_UNLOCK_LABORATORY_COMPLEX_ENGINEERING_TITLE:0 "实验中心: §G+1§! £engineering  工程学研究"
+    TECH_UNLOCK_LABORATORY_COMPLEX_ENGINEERING_DESC:0 "§H$tech_engineering_lab_3$§!\n帝国修正\n$TECH_UNLOCK_LABORATORY_COMPLEX_ENGINEERING_TITLE$"
+ 
+ tech_improved_astro_mining_bay:0 "原位矿物处理"
+    tech_improved_astro_mining_bay_desc:0 "通过对从小行星上获取的矿物进行加工，我们可以大大提高效率。"
+    TECH_UNLOCK_IMPROVED_ASTRO_MINING_BAY_TITLE:0 "星体采矿港湾: §G+1§! £minerals  矿物"
+    TECH_UNLOCK_IMPROVED_ASTRO_MINING_BAY_DESC:0 "§H$tech_improved_astro_mining_bay$§!\n帝国修正\n$TECH_UNLOCK_IMPROVED_ASTRO_MINING_BAY_TITLE$"
+    
+  tech_improved_solar_power_processor:0 "共生光电"
+    tech_improved_solar_power_processor_desc:0 "太阳能电池板产生的余热可以被转移，以产生额外的电力。"
+    TECH_UNLOCK_IMPROVED_SOLAR_POWER_PROCESSOR_TITLE:0 "太阳能处理器: §G+1§! £energy  能量币"
+    TECH_UNLOCK_IMPROVED_SOLAR_POWER_PROCESSOR_DESC:0 "§H$tech_improved_solar_power_processor$§!\n帝国修正\n$TECH_UNLOCK_IMPROVED_SOLAR_POWER_PROCESSOR_TITLE$"
+ 
+ tech_improved_aeroponics_facility:0 "零重力共生"
+    tech_improved_aeroponics_facility_desc:0 "通过水产养殖系统回收有机废物，我们可以提高我们的轨道飞机设施的生产力。"
+    TECH_UNLOCK_IMPROVED_AEROPONICS_FACILITY_TITLE:0 "空气设施: §G+1§! £food  食物\n水培法海湾: §G+2§! £food  食物"
+    TECH_UNLOCK_IMPROVED_AEROPONICS_FACILITY_DESC:0 "§H$tech_improved_aeroponics_facility$§!\n帝国修正\n$TECH_UNLOCK_IMPROVED_AEROPONICS_FACILITY_TITLE$"
+ 
+ tech_hedonistic_abundance:0 "享乐主义"
+ tech_hedonistic_abundance_desc:0 ""
+ 
+ tech_autonomous_fabricators:0 "自治的制造商"
+ tech_autonomous_fabricators_desc:0 ""
+ 
+ tech_dark_matter_power_plant:0 "暗物质发电厂"
+ tech_dark_matter_power_plant_desc:0 ""
+ 
+ tech_agri_processing_complex:0 "农产品加工联合体"
+ tech_agri_processing_complex_desc:0 ""

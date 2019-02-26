@@ -1,0 +1,90 @@
+﻿##########################################################################
+# Localisation for Automated Trade events
+#
+# Written by ScepraX
+##########################################################################
+
+l_simp_chinese:
+
+# Names
+AUTOMATED_TRADE_FREIGHTER:0 "货船"
+AUTOMATED_TRADE_TANKER:0 "油船"
+AUTOMATED_TRADE_PASSENGER_LINER:0 "客船"
+
+automated_trade_freighter:0 "货船"
+automated_trade_freighter_plural:0 "货船"
+automated_trade_tanker:0 "油船"
+automated_trade_tanker_plural:0 "油船"
+automated_trade_passenger_liner:0 "客船"
+automated_trade_passenger_liner_plural:0 "客船"
+
+# Components
+AUTOMATED_TRADE_FISSION_REACTOR:1 "$FISSION_REACTOR$"
+AUTOMATED_TRADE_FUSION_REACTOR:1 "$FUSION_REACTOR$"
+AUTOMATED_TRADE_COLD_FUSION_REACTOR:1 "$COLD_FUSION_REACTOR$"
+AUTOMATED_TRADE_ANTIMATTER_REACTOR:1 "$ANTIMATTER_REACTOR$"
+AUTOMATED_TRADE_ZERO_POINT_REACTOR:1 "$ZERO_POINT_REACTOR$"
+AUTOMATED_TRADE_DARK_MATTER_REACTOR:1 "$DARK_MATTER_REACTOR$"
+
+AUTOMATED_TRADE_SHIP_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+AUTOMATED_TRADE_SHIP_THRUSTER_1_DESC:0 "$SHIP_THRUSTER_1_DESC$"
+AUTOMATED_TRADE_SHIP_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+AUTOMATED_TRADE_SHIP_THRUSTER_2_DESC:0 "$SHIP_THRUSTER_2_DESC$"
+AUTOMATED_TRADE_SHIP_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+AUTOMATED_TRADE_SHIP_THRUSTER_3_DESC:0 "$SHIP_THRUSTER_3_DESC$"
+AUTOMATED_TRADE_SHIP_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+AUTOMATED_TRADE_SHIP_THRUSTER_4_DESC:0 "$SHIP_THRUSTER_4_DESC$"
+AUTOMATED_TRADE_SHIP_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+AUTOMATED_TRADE_SHIP_THRUSTER_5_DESC:0 "$SHIP_THRUSTER_5_DESC$"
+ 
+####################################
+# Policy Settings
+####################################
+
+# Automated Trade Policy Settings
+policy_automated_trade:0 "贸易自动化"
+policy_automated_trade_desc:0 "管理贸易自动化\n"
+automated_trade_0:0 "禁用"
+automated_trade_0_name:0 "贸易自动化：禁用"
+automated_trade_0_desc:0 "贸易自动化被禁用\n"
+automated_trade_10:0 "最大货船数：10"
+automated_trade_10_name:0 "贸易自动化：10"
+automated_trade_10_desc:0 "最多10艘贸易船\n"
+automated_trade_20:0 "最大货船数：20"
+automated_trade_20_name:0 "贸易自动化：20"
+automated_trade_20_desc:0 "最多20艘贸易船\n"
+automated_trade_30:0 "最大货船数：30"
+automated_trade_30_name:0 "贸易自动化：30"
+automated_trade_30_desc:0 "最多30艘贸易船\n"
+automated_trade_40:0 "最大货船数：40"
+automated_trade_40_name:0 "贸易自动化：40"
+automated_trade_40_desc:0 "最多40艘贸易船\n"
+automated_trade_50:0 "最大货船数：50"
+automated_trade_50_name:0 "贸易自动化：50"
+automated_trade_50_desc:0 "最多50艘贸易船\n"
+automated_trade_75:0 "最大货船数：75"
+automated_trade_75_name:0 "贸易自动化：75"
+automated_trade_75_desc:0 "最多75艘贸易船\n"
+automated_trade_100:0 "最大货船数：100"
+automated_trade_100_name:0 "贸易自动化：100"
+automated_trade_100_desc:0 "最多100艘贸易船\n"
+automated_trade_150:0 "最大货船数：150"
+automated_trade_150_name:0 "贸易自动化：150"
+automated_trade_150_desc:0 "最多150艘贸易船\n"
+automated_trade_200:0 "最大货船数：200"
+automated_trade_200_name:0 "贸易自动化：200"
+automated_trade_200_desc:0 "最多200艘贸易船\n"
+automated_trade_300:0 "最大货船数：300"
+automated_trade_300_name:0 "贸易自动化：300"
+automated_trade_300_desc:0 "最多300艘贸易船\n"
+automated_trade_400:0 "最大货船数：400"
+automated_trade_400_name:0 "贸易自动化：400"
+automated_trade_400_desc:0 "最多400艘贸易船\n"
+automated_trade_500:0 "最大货船数：500"
+automated_trade_500_name:0 "贸易自动化：500"
+automated_trade_500_desc:0 "最多500艘贸易船\n"
+automated_trade_666:0 "最大货船数：无限"
+automated_trade_666_name:0 "贸易自动化：无限"
+automated_trade_666_desc:0 "无限的贸易船\n"
+
+

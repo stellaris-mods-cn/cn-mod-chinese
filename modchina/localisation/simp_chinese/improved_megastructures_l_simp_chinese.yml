@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+ ## Resource Processor itself
+ ms_resource_processor_0:0 "恒星熔炉"
+ ms_resource_processor_0_DESC:1 "恒星熔炉建设基地"
+ ms_resource_processor_0_MEGASTRUCTURE_DETAILS:1 "我们能生产大量的矿物，但是需要极高能量。"
+ ms_resource_processor_1:0 "恒星熔炉 1"
+ ms_resource_processor_1_DESC:1 "恒星虹吸管已经就位，从恒星中提取有用的物质。"
+ ms_resource_processor_2:0 "恒星熔炉 2"
+ ms_resource_processor_2_DESC:1 "继续建设我们的恒星熔炉"
+ ms_resource_processor_3:0 "恒星熔炉 3"
+ ms_resource_processor_3_DESC:1 "继续建设我们的恒星熔炉"
+ ms_resource_processor_4:0 "恒星熔炉 4"
+ ms_resource_processor_4_DESC:1 "继续建设我们的恒星熔炉"
+ ms_resource_processor_5:0 "恒星熔炉"
+ ms_resource_processor_5_DESC:1 "恒星熔炉消耗大量的能量来产生大量的物质。"

@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ ####################################
+ # buildings
+ ####################################
+ building_psi_academy:0 "灵能学院"
+ building_psi_academy_desc:1 "一个巨大的教育和训练综合体来实现人们的心灵潜能。"
+ building_psi_academy_2:0 "先进的灵能学院"
+ building_psi_academy_2_desc:1 "额外的实验室、psi健身房和住宅侧翼确保学院的存在在全球都能感受到。"
+ building_psi_academy_3:0 "灵能高等学校"
+ building_psi_academy_3_desc:1 "尖端的发射器和放大器将您的学习经验带到一个顶峰。现在就报名参加8年的课程吧!"

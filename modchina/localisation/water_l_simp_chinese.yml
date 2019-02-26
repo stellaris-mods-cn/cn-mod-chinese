@@ -1,0 +1,62 @@
+﻿l_simp_chinese:
+ ######################
+ # STRATEGIC RESOURCES
+ ######################
+ sr_h2o:0 "水"
+ sr_h2o_desc:1 "几乎所有的生命都需要水才能生存。"
+ sr_ice:0 "冰"
+ sr_ice_desc:1 "自然冷冻的水"
+ sr_space_ice:0 "冰(太空)"
+ sr_space_ice_desc:1 "在太空中发现的天然冷冻的一氧化二氢。"
+
+ #############
+ # BUILDINGS
+ #############
+ building_ice_processor:1 "冰处理器"
+ building_ice_processor_desc:1 "融化和过滤冰来提供有用的矿物质和营养物质。\n\n§R只能在冰上建造。§!"
+ building_ice_processor_2:1 "重冰处理器"
+ building_ice_processor_2_desc:1 "融化和过滤冰来提供有用的矿物质和营养物质。"
+ building_ice_processor_3:1 "先进的冰处理器"
+ building_ice_processor_3_desc:1 "融化和过滤冰来提供有用的矿物质和营养物质。"
+ 
+ building_hydro_plant:0 "水力发电装置"
+ building_hydro_plant_desc:1 "用水来产生能量。\n\n§R只能在有水和能量币的地块上建造。§!"
+ building_hydro_plant_2:0 "水力发电装置 II"
+ building_hydro_plant_2_desc:1 "用水来产生能量。§!"
+ 
+ building_water_excavator:0 "水挖掘机"
+ building_water_excavator_desc:1 "从地表以下获得工业级的水井。\n\n§R只能在水上建造。§!"
+ building_water_excavator_2:0 "水挖掘机 II"
+ building_water_excavator_2_desc:1 "一种先进的工业机械，用于从地表以下取水。§!"
+ 
+ building_reservoir:0 "水库"
+ building_reservoir_desc:1 "储存和分配水。\n\n§R只能在水上建造。§!"
+ building_reservoir_2:0 "水库 II"
+ building_reservoir_2_desc:1 "储存和分配水。\n\n§R只能在水上建造。§!"
+ building_reservoir_3:0 "水库 III"
+ building_reservoir_3_desc:1 "储存和分配水。\n\n§R只能在水上建造。§!"
+ 
+ building_fishing_yard:0 "渔场"
+ building_fishing_yard_desc:1 "传统的捕鱼场仍然可以从海洋带来大量的食物。\n\n§R只能建在一个有水的地块上。\n只能在海洋星球上建造。§!"
+ building_wet_farm:0 "潮湿的农场"
+ building_wet_farm_desc:0 "在浅淡水和潮湿土壤中生长的农产品。\n\n§R只能在有水和食物的地块上建造。§!"
+ 
+ building_basic_farm_adv:0 "密集的水培农场"
+ building_basic_farm_adv_desc:1 "水培法耕作，重点是利用更多的水来提高大穹顶的产量，并继续研究以改善这一过程。\n\n§R只能建在一个水枢纽附近。§!"
+ building_hydroponics_farm_1_adv:0 "密集的水培农场 II"
+ building_hydroponics_farm_1_adv_desc:1 "更大的收益，更多的穹顶，更多的研究。"
+ building_hydroponics_farm_2_adv:0 "密集的水培农场 III"
+ building_hydroponics_farm_2_adv_desc:1 "巨大的收益，巨大的穹顶，巨量的研究。"
+ 
+ building_water_distributor:0 "供水器"
+ building_water_distributor_desc:1 "一个大型工厂，用它来分配水。\n\n§R只能建在一个水枢纽附近。§!"
+ building_water_treatment:0 "水处理厂"
+ building_water_treatment_desc:1 "一个大型的水处理厂，净化被污染的水以维持自然的水循环。\n\n§R只能建在一个水枢纽附近。§!"
+ 
+ # REQUIREMENT TOOLTIPS
+ requires_ice_deposit:0 "§R只能在冰上建造。§!"
+ requirement_has_water:0 "§R只能在水上建造。§!"
+ requirement_has_water_and_minerals:0 "§R只能在有矿物和水的地块上建造。§!"
+ requirement_wet_farmland:0 "§R只能在有水和食物的地块上建造。§!"
+ requirement_water_and_energy:0 "§R只能在有水和能量币的地块上建造。§!"
+ requirement_adjacent_water_hub:0 "§R只能建在一个水枢纽附近。§!"

@@ -1,0 +1,156 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr17_planet_modifier:0 "远古发电联合体"
+ apsr17_planet_modifier_desc:0 "这个星球是一个古老文明的发电站。不幸的是，它被破坏了很长一段时间，但也有可能恢复"
+ 
+ apsr17_deposit:0 "$apsr17_planet_modifier$"
+ apsr17_deposit_desc:0 "$apsr17_planet_modifier_desc$\n\n§M$apsr17_deposit_effect$§!" 
+ apsr17_deposit_effect:0 "独特的资源可用: $apsr17_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr17_building_part1_text:0 "古人昔日荣耀的影子"
+ 
+ apsr17_building_part2_text:0 "一小部分修复后的电站"
+ 
+ apsr17_building_part3_text:0 "部分修复的电站"
+ 
+ apsr17_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr17_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr17_building_part1:0 "远古发电联合体: 蓝图"
+ apsr17_building_part1_desc:0 "$apsr17_building_predesc$\n$apsr17_building_part1_text$"
+ 
+ apsr17_building_part2:0 "远古发电联合体: 部分"
+ apsr17_building_part2_desc:0 "$apsr17_building_predesc$\n$apsr17_building_part2_text$"
+ 
+ apsr17_building_part3:0 "远古发电联合体"
+ apsr17_building_part3_desc:0 "$apsr17_building_predesc$\n$apsr17_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr17_building_part1_fake:0 "$apsr17_building_part1$"
+ apsr17_building_part1_fake_desc:0 "$apsr17_building_fake_predesc$\n$apsr17_building_part1_text$"
+ 
+ apsr17_building_part2_fake:0 "$apsr17_building_part2$"
+ apsr17_building_part2_fake_desc:0 "$apsr17_building_fake_predesc$\n$apsr17_building_part2_text$"
+ 
+ apsr17_building_part3_fake:0 "$apsr17_building_part3$"
+ apsr17_building_part3_fake_desc:0 "$apsr17_building_fake_predesc$\n$apsr17_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr17_building_part1:0 "重拾古人的荣耀: 阶段 1"
+ tech_apsr17_building_part1_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ tech_apsr17_building_part2:0 "重拾古人的荣耀: 阶段 2"
+ tech_apsr17_building_part2_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ tech_apsr17_building_part3:0 "重拾古人的荣耀: 阶段 3"
+ tech_apsr17_building_part3_desc:0 "过去文明的产物可以而且必须使用。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.17001.title:0 "$apsr17_building_part1$ completed"
+ apsr.17001.desc:0 "我们建造了第一个§Y$apsr17_building_part1$§!，这只是恢复古人昔日荣耀的开始"
+ apsr.17001.ok-button:0 "完美"
+ 
+ apsr.17002.title:0 "$apsr17_building_part2$ completed"
+ apsr.17002.desc:0 "我们重建了第一个§Y$apsr17_building_part2$§!!这是研究古人的一大突破!"
+ apsr.17002.ok-button:0 "完美"
+ 
+ apsr.17003.title:0 "$apsr17_building_part3$ completed"
+ apsr.17003.desc:0 "我们在一定程度上恢复了§Y远古发电联合体§!，并利用了古代电力系统的全球能量学"
+ apsr.17003.ok-button:0 "完美"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.17011.title:0 "发现一个人造物: §M$apsr17_planet_modifier$§!"
+ apsr.17011.desc:0 "科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!领导的研究小组发现了一些奇妙的东西 \n这个星球是一个古老文明的发电站。不幸的是，它早就被毁了，但还可以恢复"
+ apsr.17011.button:1 "我们必须得到这个东西!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.17013.title:0 "发现一个人造物: §M$apsr17_planet_modifier$§!"
+ apsr.17013.desc:0 "在我们的一颗新行星上，发现了一些奇特的东西。 \n这个星球是一个古老文明的发电站。不幸的是，它早就被毁了，但还可以恢复"
+ apsr.17013.button:1 "Great!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.17015.title:0 "发现人造物: §M$apsr17_planet_modifier$§!"
+ apsr.17015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\nOn one of the planets is the power plant of the once existing civilization. Unfortunately for a long time destroyed, but to be restored.\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr17_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr17_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr17_resource_planet.Owner.GetName]"
+ apsr.17015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr17_special:0 "$apsr17_planet_modifier$"
+ apsr17_special_desc:0 "$apsr17_planet_modifier_desc$"
+ 
+ APSR17_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR17_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr17_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr17_anomaly:0 "有趣的数据"
+ apsr17_anomaly_desc:0 "在对[From.GetName]行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.17601.title:0 "$apsr.17011.title$"
+ apsr.17601.desc:0 "$apsr.17011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr17_planet_power_engineer_normal:0 "电力工程师"
+ job_apsr17_power_engineer_normal:0 "电力工程师"
+ job_apsr17_power_engineer_normal_plural:0 "电力工程师"
+ job_apsr17_power_engineer_normal_desc:0 "电力工程师的职责包括现场能源生产的整体控制，生产和消耗过程的优化，跟踪网络负荷峰值"
+ mod_job_apsr17_power_engineer_normal_add:0 "电力工程师"
+   
+ apsr17_planet_power_engineer_hive:0 "电力工蜂"
+ job_apsr17_power_engineer_hive:0 "电力工蜂"
+ job_apsr17_power_engineer_hive_plural:0 "电力工蜂"
+ job_apsr17_power_engineer_hive_desc:0 "这是控制普通技术人员的工作，确保稳定和不间断的运行的设施"
+ mod_job_apsr17_power_engineer_hive_add:0 "电力工蜂"
+   
+ apsr17_planet_power_engineer_machine:0 "电力单元"
+ job_apsr17_power_engineer_machine:0 "电力单元"
+ job_apsr17_power_engineer_machine_plural:0 "电力单元"
+ job_apsr17_power_engineer_machine_desc:0 "这个单元模型有一个改进的自主AI，它的主要任务是监控设备的运行，普通技术单元的工作，以及能源生产过程的优化"
+ mod_job_apsr17_power_engineer_machine_add:0 "电力单元"
+ 
+ 
+ 
+ 
+ 

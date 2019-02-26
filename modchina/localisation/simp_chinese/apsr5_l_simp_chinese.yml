@@ -1,0 +1,163 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr5_planet_modifier:0 "不朽都市"
+ apsr5_planet_modifier_desc:0 "星球上只有一个城市，但它覆盖了所有的表面，甚至湖泊和海洋。它还保存得非常好，不受腐蚀和破坏的地方，这是很久以前被抛弃了。"
+ 
+ apsr5_deposit:0 "$apsr5_planet_modifier$"
+ apsr5_deposit_desc:0 "$apsr5_planet_modifier_desc$\n\n§M$apsr5_deposit_effect$§!" 
+ apsr5_deposit_effect:0 "独特的资源可用: $apsr5_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr5_building_part1_text:0 "一个研究古代建筑、逻辑和艺术的小研究中心。"
+ 
+ apsr5_building_part2_text:0 "研究中心，专门研究古代建筑、逻辑和艺术。"
+ 
+ apsr5_building_part3_text:0 "一个研究古代建筑、逻辑和艺术的大型研究中心。"
+ 
+ apsr5_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr5_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr5_building_part1:0 "远古信息处理中心"
+ apsr5_building_part1_desc:0 "$apsr5_building_predesc$\n$apsr5_building_part1_text$"
+ 
+ apsr5_building_part2:0 "远古信息处理中心"
+ apsr5_building_part2_desc:0 "$apsr5_building_predesc$\n$apsr5_building_part2_text$"
+ 
+ apsr5_building_part3:0 "远古信息处理中心"
+ apsr5_building_part3_desc:0 "$apsr5_building_predesc$\n$apsr5_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr5_building_part1_fake:0 "$apsr5_building_part1$"
+ apsr5_building_part1_fake_desc:0 "$apsr5_building_fake_predesc$\n$apsr5_building_part1_text$"
+ 
+ apsr5_building_part2_fake:0 "$apsr5_building_part2$"
+ apsr5_building_part2_fake_desc:0 "$apsr5_building_fake_predesc$\n$apsr5_building_part2_text$"
+ 
+ apsr5_building_part3_fake:0 "$apsr5_building_part3$"
+ apsr5_building_part3_fake_desc:0 "$apsr5_building_fake_predesc$\n$apsr5_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr5_building_part1:0 "远古密码 I"
+ tech_apsr5_building_part1_desc:0 "建筑物的位置，它们的建筑结构，各个元素，甚至元素的化学组成和物理特征都是古人知识的宝库，这些知识受到我们需要理解的密码的保护。"
+ 
+ tech_apsr5_building_part2:0 "远古密码 II"
+ tech_apsr5_building_part2_desc:0 "建筑物的位置，它们的建筑结构，各个元素，甚至元素的化学组成和物理特征都是古人知识的宝库，这些知识受到我们需要理解的密码的保护。"
+ 
+ tech_apsr5_building_part3:0 "远古密码 III"
+ tech_apsr5_building_part3_desc:0 "建筑物的位置，它们的建筑结构，各个元素，甚至元素的化学组成和物理特征都是古人知识的宝库，这些知识受到我们需要理解的密码的保护。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.5001.title:0 "$apsr5_building_part1$ 建成"
+ apsr.5001.desc:0 "我们已经构建了§Y$apsr5_building_part1$§!，这将使我们接近古人的理解。现在我们终于可以在我们看来最普通的东西上看到符号和古代铭文了，我们必须尽一切努力去破译一切。"
+ apsr.5001.ok-button:0 "奈斯"
+ 
+ apsr.5002.title:0 "$apsr5_building_part2$ 建成"
+ apsr.5002.desc:0 "我们改进了§Y$apsr5_building_part2$§!，它将使我们更接近于了解古人。最后理解§Y不朽都市§!在这个星球上的存在意味着什么。"
+ apsr.5002.ok-button:0 "完美"
+ 
+ apsr.5003.title:0 "$apsr5_building_part3$ 建成"
+ apsr.5003.desc:0 "我们改进了§Y$apsr5_building_part3$§!，现在我们终于了解了古人。结果是，整个§Y不朽都市§!——对于曾经生活在这个星球上的种族来说，这是一个难以置信的社会实验。结果我们不得而知，但我们仍然可以从中受益。"
+ apsr.5003.ok-button:0 "太棒了"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.5011.title:0 "发现文物: §M$apsr5_planet_modifier$§!"
+ apsr.5011.desc:0 "在扫描这颗行星时，我们的探险队从§H[Root.GetName]§!上发现了一些有趣的东西。星球上只有一个城市，但它覆盖了所有的表面，甚至湖泊和海洋。它还保存得非常好，不受腐蚀和破坏的地方，这是很久以前被抛弃了。无论谁住在那里都是在早期的太空时代，但他们的一些工程决策甚至对我们来说都是革命性的。"
+ apsr.5011.button:1 "难以置信!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.5013.title:0 "发现文物: §M$apsr5_planet_modifier$§!"
+ apsr.5013.desc:0 "在我们新占领的一颗行星上，我们发现了一些有趣的东西!星球上只有一个城市，但它覆盖了所有的表面，甚至湖泊和海洋。它还保存得非常好，不受腐蚀和破坏的地方，这是很久以前被抛弃了。无论谁住在那里都是在早期的太空时代，但他们的一些工程决策甚至对我们来说都是革命性的。"
+ apsr.5013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.5015.title:0 "发现人造物: §M$apsr5_planet_modifier$§!"
+ apsr.5015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n其中一颗行星上有一座不寻常的城市，没有任何生命迹象。此外，这座城市是星球上唯一的城市。“工业”的发展水平大约是太空时代的开始，但城市中使用的工程理念，即使以我们文明的标准来衡量，也是革命性的。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr5_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr5_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr5_resource_planet.Owner.GetName]"
+ apsr.5015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr5_special:0 "$apsr5_planet_modifier$"
+ apsr5_special_desc:0 "$apsr5_planet_modifier_desc$"
+ 
+ APSR5_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR5_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr5_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr5_anomaly:0 "$apsr1_anomaly$"
+ apsr5_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.5601.title:0 "$apsr.5011.title$"
+ apsr.5601.desc:0 "$apsr.5011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr5_planet_manager_normal:0 "不朽都市管理者"
+ job_apsr5_manager_normal:0 "不朽都市经理"
+ job_apsr5_manager_normal_plural:0 "不朽都市管理者"
+ job_apsr5_manager_normal_desc:0 "公用事业的组织管理"
+ mod_job_apsr5_manager_normal_add:0 "不朽都市经理"
+   
+ apsr5_planet_manager_hive:0 "不朽都市管理工蜂"
+ job_apsr5_manager_hive:0 "不朽都市经理工蜂"
+ job_apsr5_manager_hive_plural:0 "不朽都市管理工蜂"
+ job_apsr5_manager_hive_desc:0 "公用事业的组织管理"
+ mod_job_apsr5_manager_hive_add:0 "不朽都市经理工蜂"
+   
+ apsr5_planet_manager_machine:0 "不朽都市管理单元"
+ job_apsr5_manager_machine:0 "不朽都市经理单元"
+ job_apsr5_manager_machine_plural:0 "不朽都市管理单元"
+ job_apsr5_manager_machine_desc:0 "公用事业的组织管理"
+ mod_job_apsr5_manager_machine_add:0 "不朽都市经理单元"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

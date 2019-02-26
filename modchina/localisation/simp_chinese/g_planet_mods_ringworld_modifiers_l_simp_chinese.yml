@@ -1,0 +1,49 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Ringworld Modifiers
+ ###################################################
+ 
+ # 1 m
+ Ringworld_Tier_1:0 "环世界建设:§L超规格§!"
+ Ringworld_Tier_1_desc:0 "环世界的建设进程已经取得了比预期更好的结果！"
+ 
+ # 2 m
+ Ringworld_Tier_2:0 "环世界建设:§T架构之美§!"
+ Ringworld_Tier_2_desc:0 "环世界的建设进程已经取得了令人难以置信的好成绩！这个伟大建筑的设计简直是令人叹为观止。"
+ 
+ # 3 m
+ Ringworld_Tier_3:0 "环世界建设:§Y完美设计§!"
+ Ringworld_Tier_3_desc:0 "环世界的建设过程得到了一个完美的结果！该建筑如此精妙，它的布局堪称完美。这个环世界的所有支援系统的功能都比预期的好。"
+ 
+ # 4 m
+ Ringworld_Breath_Taking_view:0 "惊叹的美景"
+ Ringworld_Breath_Taking_view_desc:0 "这个环世界的人造大气非常清澈，你可以看到大部分环世界和行星的景色。这可以说是激动人心的。如此非凡的景象，令人很好奇究竟是如何做到的。"
+ 
+ # 5 m
+ Ringworld_Neural_Nexus:0 "神经连接"
+ Ringworld_Neural_Nexus_desc:0 "这个环世界的部分区域配备了一节宽的神经网络，允许核心系统连结并控制这个环世界的每一个方面。"
+ 
+ # 6 m
+ Ringworld_Idyllic_Gardens:0 "恬静的花园"
+ Ringworld_Idyllic_Gardens_desc:0 "这个区域的庭院景色美极了。不仅是花的颜色，植物和树木都很令人放松，这怡人的气味仿佛将你带到了另一个世界。"
+ 
+ # 7 m
+ Ringworld_Xeno_Zoo:0 "外星动物园"
+ Ringworld_Xeno_Zoo_desc:0 "一个大型的外星动物园已被安置在这个环形世界里，这可以让它的居民放松并了解这个环世界之外的宇宙。"
+ 
+ # 8 m
+ Ringworld_Badlands:0 "恶劣之地"
+ Ringworld_Badlands_desc:0 "这个环世界的很大一部分是为了更为简朴的生活。人们可以选择住在这里，这里的一切需要自给自足。这是一个适合给任何需要逃离现实一切的人的好地方。"
+ 
+ # 9 m
+ Ringworld_Battle_Simularors:0 "战争模拟场"
+ Ringworld_Battle_Simularors_desc:0 "在环形世界的这一区域周围建立了大型的人工战场，它允许我们的军队在各种环境中训练。从零重力的战斗环境到城市甚至丛林作战区域。因此，军队的训练效果得到了提升。"
+ 
+ # 10 m
+ Ringworld_Endless_Ocean:0 "无尽之海"
+ Ringworld_Endless_Ocean_desc:0 "这个环世界的区域是以创造一个单纯的、没有边际的海洋来设计的。"
+ 
+ # 11 m
+ Ringworld_Mass_Transit_Systems:0 "公共交通系统"
+ Ringworld_Mass_Transit_Systems_desc:0 "在环形世界的这一段，一个复杂的公共交通系统网格可以使交通非常高效和快速，这大大降低了运输成本和时间。"

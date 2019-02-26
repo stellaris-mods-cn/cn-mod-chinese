@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # Categories
+ # ###################################
+
+ tech_psionic_focus:0 "灵能聚焦"
+ tech_psionic_focus_desc:0 "我们已经证明这些现象是真实的。我们现在应该寻求更好地理解它们。"
+ tech_limited_telekinesis:0 "有限灵能力量"
+ tech_limited_telekinesis_desc:0 "通过学习和训练我们的灵能能力有可能用他们的头脑移动物体，有效地增加他们的体力。"
+ tech_maintained_telekinesis:0 "保持灵能能力"
+ tech_maintained_telekinesis_desc:0 "我们的远动学现在可以在很长一段时间内举起更大的物体，极大地帮助船舶和建筑物的装配。"
+ tech_universal_psionics:0 "普遍灵能"
+ tech_universal_psionics_desc:0 "这些能力现在如此普遍，以致于每个阶层的工人都能受益。"
+ tech_immersive_simulations:0 "身临其境的模拟"
+ tech_immersive_simulations_desc:0 "我们可以巧妙地引导大脑使用自己的处理能力来制造令人信服的感觉和体验。换句话说，我们可以控制想象力。"
+ tech_true_warfare:0 "真正战争"
+ tech_true_warfare_desc:0 "武器的变化。改变人。但战争?战争永远不会改变。"
+ tech_psionic_studies:0 "灵能的研究"
+ tech_psionic_studies_desc: "来自帝国各地的专家们将不断学习和研究，增进我们对曾经被视为神话的力量的理解。"

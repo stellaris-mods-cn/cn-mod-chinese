@@ -1,0 +1,20 @@
+﻿
+l_simp_chinese:
+
+ ####################################
+ # TRAITS
+ ####################################
+ trait_gpm_forgotten_species:0 "被遗忘者"
+ trait_gpm_forgotten_species_desc:0 "§L你的物种发现自己处于一个未被开发的星球。你们学习的很快，迫切想知道你们在银河系中的位置。§!"
+ TRAIT_GPM_FORGOTTEN_SPECIES_EFFECT:0 ""
+ 
+ trait_gpm_mega_adaptive:0 "死界民族"
+ trait_gpm_mega_adaptive_desc:0 "§L这个物种起源于一个死亡的世界，物竞天择只会让最为强大的物种生存下来。§!"
+ TRAIT_GPM_MEGA_ADAPTIVE_EFFECT:0 ""
+ 
+ trait_gpm_high_status:0 "受到尊崇的新生命"
+ trait_gpm_high_status_desc:0 "§L你的物种起源是未知的，银河系中大部分物种也许都是如此。但是你觉得你的存在需要得到尊崇。§!"
+ TRAIT_GPM_HIGH_STATUS_EFFECT:0 "与其它帝国的信任成长增加 §G15%§!\n你的物种获得了来自 §H失落帝国§! 的评价奖励。"
+
+leader_trait_gpm_guilli:0 "疯狂的科学家"
+leader_trait_gpm_guilli_desc:0 "G'uil-li在赞达上生活了很长一段时间，大部分时间都致力于了解赞达和宇宙。但这让他有点生气。"

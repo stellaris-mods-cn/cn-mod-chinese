@@ -1,0 +1,74 @@
+﻿l_simp_chinese:
+ #Vazuran Event System
+ #Text & Code by Malthus
+
+ ########################################################
+ # Ambient Objects
+ ########################################################
+
+ mem_vazuran_event_system_starbase_object:0 "远古残骸区"
+ mem_vazuran_event_system_swarm_large_object:0 "虚空生物体遗骸"
+
+ ########################################################
+ # Technology
+ ########################################################
+
+ tech_mem_scourge_damage_bonus:0 "虚空生物甲壳薄弱点"
+ tech_mem_scourge_damage_bonus_desc:0 "当面对另一个虫群入侵的可能时，唯一合理的行动方案就是尽可能地做足准备。我们的科学家可以通过所收集的标本来发现这些生物可能存在的任何弱点 - 如果它们有的话。假如它们会再次到来，我们将需要用到任何我们能用到的优势来充分保护我们自己。"
+
+ ########################################################
+ # System 1 Events
+ ########################################################
+
+ # A ship reaches the system
+ mem_vazuran_systems.1.name:0 "墓地"
+
+ ########################################################
+ # Scourge Event Chain
+ ########################################################
+
+ # Scourge Story Line Intro
+ mem_vazuran_systems.1a.desc:0 "[root.GetName]报告说已经到达了[root.solar_system.GetName]。船长描述了一个可怕的场面：多颗行星被粉碎，整个星系散落着碎片残骸。更奇怪的是，在这些残骸中散布着和我们数据库不匹配的有机外壳。需要进一步的调查。"
+ mem_vazuran_systems.1.a:0 "展开调查。"
+
+ # Scourge Event Chain
+ mem_vazuran_event_system_scourge_chain_title:0 "被破坏的星系"
+ mem_vazuran_event_system_scourge_chain_desc:0 "研究在[mem_vazuran_event_system_01.GetName]星系中发生灾变事件遗留下的残骸。"
+ mem_vazuran_event_system_scourge_projects_researched:0 "完成调查"
+ 
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01:0 "生物舰船调查"
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_01_DESC:0 "我们在[root.solar_system.GetName]星系的科学家们已经对碎片场中死亡太空生物识别出至少两种类型，不过目前还不清楚它们是同一种生物的不同生长阶段还是两种不同的物种。"
+ 
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02:0 "碎片调查"
+ MEM_VAZURAN_EVENT_SYSTEM_SCOURGE_INVESTIGATION_02_DESC:0 "在这些数不胜数的碎片场中，还有一些较大的残骸。通过它们似乎是能让我们能发现更多关于这里发生的事的最好的机会。"
+
+ # Finishing Bioship Investigation
+ mem_vazuran_systems.101.name:0 "基因工程？"
+ mem_vazuran_systems.101.desc:0 "在研究了多个标本后，现在很清楚的是，尽管共享了几个遗传标记和特征，但分类为[root.solar_system.GetName]-X1和-X2的不同表型实际上是不同的物种。这两种分类中的每一个的个体标本之间没有遗传变异，这意味着它们是无性繁殖或克隆而来的。\n\n这些生物体本身似乎是基因工程的产物，因为以它们目前状态来看自然进化不太可能。X1和X2都具有特别硬化的甲壳，其耐用性与军用级装甲板相似，同时它们拥有可能能充当有机体射弹的动能驱动器的器官，我们的探测队在各种残骸中也发现了许多埋藏着的此类射弹。通过对残骸区域的判断，它们一定是强大的战斗单位。"
+ mem_vazuran_systems.101.a:0 "令人不安"
+
+ # Finishing Debris Investigation
+ mem_vazuran_systems.102.name:0 "牺牲与责任"
+ mem_vazuran_systems.102.desc:0 "在花费了数周时间探索散布在[root.solar_system.GetName]星系的巨大碎片区域中的各种残骸后，我们的探测团队取得了重大突破。调查其中一艘沉船时，很清楚地让他们确定了这里前舰队的旗舰。此外，这艘船还被发现存放了一个仍然完整的数据存储器，我们的科学家们可以通过其中的数据重建大约四千年前发生的事件。\n\n他们的帝国与一股来自银河外的虚空生物体组成的入侵势力进行了绝望的战争，这些生物体能消耗所有的生物质，消耗的生物质越多，它们的生长也越来越强。\n\n随着这些虫群接近这个曾经繁衍出了多个定居星球的人口中心，并且在范围内只有一组舰队能够及时与进攻者会面，舰队司令不得不作出艰难的决定。他知道他既不能拯救他的人民，也无法打败他的敌人，他决定摧毁星系中的所有殖民星球，拒绝给予敌人为之而来的生物质，也让其他舰队获得尽可能更多的时间面对这场威胁。\n\n这位舰队司令的最后一篇日志写道: §S有些人可能质疑我是否有这个权利去摧毁拥有数百亿灵魂的行星，但那些理解我的人会意识到我根本没有权利让他们活下去。当我们整个银河系都岌岌可危的时候，任何牺牲都不会太大。他们尽了他们的责任，我们也一样如此.....§!\n\n我们的存在似乎证明他的牺牲并非徒劳。"
+ mem_vazuran_systems.102.a:0 "许多人的需要胜过少数人的需要。"
+ mem_vazuran_systems.102.b:0 "灭绝过程已经完成。这里不需要我们的服务。"
+ mem_vazuran_systems.102.c:0 "真有礼貌…他们净化了自己，免得我们亲自动手。"
+ mem_vazuran_systems.102.d:0 "浪费了这么多的生物质…"
+
+ # Finishing Scourge Event Chain
+ mem_vazuran_systems.103.name:0 "虫群"
+ mem_vazuran_systems.103.desc:0 "随着对这里曾经发生的事情以及另一次银河外入侵的威胁的认知，我们的科学家们呼吁进行大规模准备工作，以防这些虫群返回。据我们所知，这一入侵势力可能还只是一个先头部队，尽管它很明显有这样的危险性和威胁性。鉴于这一迫在眉睫的阴影，科学家中的一些人已经提出了一项建议，对现有样本进行深入研究，以便找到可能的弱点以防我们以后面对这个敌人。"
+ mem_vazuran_systems.103.a:0 "我们应该为这种情况做准备。"
+
+ ########################################################
+ # Colony Trap Event Chain
+ ########################################################
+
+ # Colony Trap Story Line Intro
+ mem_vazuran_systems.1b.desc:0 "REPLACE_ME"
+ mem_vazuran_systems.1.b:0 "展开调查。"
+
+ # Scourge Event Chain
+ mem_vazuran_event_system_colony_trap_chain_title:0 "被破坏的星系"
+ mem_vazuran_event_system_colony_trap_chain_desc:0 "研究在[mem_vazuran_event_system_01.GetName]星系中发生灾变事件遗留下的残骸。"
+ mem_vazuran_event_system_colony_trap_projects_researched:0 "完成调查"

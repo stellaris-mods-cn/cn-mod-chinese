@@ -1,0 +1,18 @@
+﻿l_simp_chinese:
+ ####################################
+ # jobs
+ ####################################
+ job_expsion:0 "灵能"
+ job_expsion_plural:0 "灵能"
+ job_expsion_desc:0 "所有年龄的老手在不断的监督下学习和训练，希望展现心灵感应和心灵动力的能力。"
+ job_expsion_effect_desc:0 "£job_expsion£ $job_expsion_plural$ produce £unity£ §Y$unity$§! 和 £society£ §Y$society_research$§!."
+ mod_job_expsion_add:0 "$job_expsion$ 工作"
+ mod_job_expsion_per_pop:0 "§G+1§! $job_expsion$ 工作 $VALUE$ 每人口"
+ mod_job_expsion_per_pop_short:0 "\n§G+1§! £mod_job_expsion_add£ per $VALUE$ £pop"
+ job_exwarmaster:0 "战争大师"
+ job_exwarmaster_plural:0 "战争大师"
+ job_exwarmaster_desc:0 "如果战斗一定会取得胜利，那么你必须战斗。"
+ job_exwarmaster_effect_desc:0 "£job_expsion£ $job_exwarmaster_plural$增加军队伤害§G5%§!海军能力§G3%§!."
+ mod_job_exwarmaster_add:0 "$job_exwarmaster$ 工作"
+ mod_job_exwarmaster_per_pop:0 "§G+1§! $job_exwarmaster$ 工作 $VALUE$ 每人口"
+ mod_job_exwarmaster_per_pop_short:0 "\n§G+1§! £mod_job_exwarmaster_add£ 每 $VALUE$ £pop"

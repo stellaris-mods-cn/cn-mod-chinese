@@ -1,0 +1,31 @@
+﻿l_simp_chinese:
+
+ # Anomaly categories
+
+ antimatter_star_anom:0 "暴力之星"
+ antimatter_star_anom_desc:0 "从远处看，这颗星似乎完全是普通的，但仔细观察后，它显然会对任何接近它的物质产生剧烈的反应。"
+ antimatter_star_planet:0 "破碎的星球"
+ antimatter_star_planet_desc:0 "这颗行星几乎完全被摧毁成几块，就好像发生了一件非常暴力的事情。"
+ 
+ # Anomaly events
+ 
+ hypostars.1.name:0 "反物质恒星"
+ hypostars.1.desc:0 "尽管[From.GetName]对任何外部物质的强烈反应，[Root.GetName]仍设法深入调查这颗奇怪的恒星。[Root.GetName] 所进行的研究表明，[From.GetName]是一颗完全由反物质组成的恒星，而反物质则是与构成宇宙其余部分的常规物质相反的电荷。它很可能是在一个反物质星系中形成的，随机的机会被从那里逐出，最终进入我们的星系。[From.GetName]对外界物质的暴力反应来自这样一个事实:如果任何反物质和它的物质相互接近，它们就会湮灭并在相当大的爆炸中产生辐射。[Root.GetName]的机组人员建议进一步调查此事，以确定它是否有实际用途。"
+ hypostars.2.name:0 "破碎的星球"
+ hypostars.2.desc:0 "通过谨慎的检查，在科学官员[Root.GetName]的指导下，[Root.GetLeaderName]的机组人员确定[From.GetName] 遭受了来自其母星的反物质的猛烈喷射。它很可能被[Fromfrom.GetName]所捕获，在这些轰鸣声之后，这个行星就被分割成碎片，并将在未来继续消融，可能最终成为环绕恒星的小行星带。"
+ 
+ hypostars_antimatter_project:0 "关于反物质星的进一步调查"
+ hypostars_antimatter_project_DESC:0 "我们的科学家希望对新发现的反物质星进行更详尽的调查，能够产生一些实际的应用，并为我们宇宙的构成提供一些线索。"
+ 
+ hypostars.401.name:0 "我们对宇宙的理解在增长。"
+ hypostars.401.desc:0 "我们对反物质星球的科学家进行了长时间的调查，这导致我们对反物质及其性质的认识大大增加，使我们更接近能够将其用于实际的军事和科学目的。"
+ 
+ # Anomaly failures
+ 
+ hypostars.201.name:0 "决定命运的耀斑"
+ hypostars.203.name:0 "绝望的努力"
+ hypostars.202.name:0 "彻底的毁灭"
+ 
+ hypostars.201.desc:0 "一场意外的太阳耀斑让[Root.GetName]措手不及，它破坏了飞船的主推进器，使其无法运行。幸运的是，船员们可以毫发无损地逃脱。"
+ hypostars.203.desc:0 "这颗破碎的行星的残骸区域使[Root.GetName]的导航变得非常困难，因为在相对较小的空间里有大量的岩石。它也干扰了飞船的扫描仪，所以这项研究在完成之前就被放弃了。"
+ hypostars.202.desc:0 "当[Root.GetName]正在进行调查时，一颗小行星正与反物质恒星相撞。这在恒星的色球层引发了一场特别强烈的爆炸，导致了一股强大的日冕物质抛射到[Root.GetName]中，摧毁了它和它的工作人员。"

@@ -1,0 +1,295 @@
+﻿l_simp_chinese:
+
+
+#Disalbed
+AB_CRACKER: "禁用"
+AB_SHIELDER: "禁用"
+AB_NEUTRON: "禁用"
+AB_GODRAY: "禁用"
+AB_NANOBOTS: "禁用"
+AB_CRACKER_DESC: "错误"
+AB_SHIELDER_DESC: "错误"
+AB_NEUTRON_DESC: "错误"
+AB_GODRAY_DESC: "错误"
+AB_NANOBOTS_DESC: "错误"
+
+#Vanilla Planet Killer
+APOCEX_CRACKER: "$PLANET_KILLER_CRACKER$"
+APOCEX_PACIFIER: "$PLANET_KILLER_SHIELDER$"
+APOCEX_NEUTRON: "$PLANET_KILLER_NEUTRON$"
+APOCEX_SPRRAY: "$PLANET_KILLER_GODRAY$"
+APOCEX_NANOBOTS: "$PLANET_KILLER_NANOBOTS$"
+APOCEX_CRACKER_DESC: "$PLANET_KILLER_CRACKER_DESC$"
+APOCEX_PACIFIER_DESC: "$PLANET_KILLER_SHIELDER_DESC$"
+APOCEX_NEUTRON_DESC: "$PLANET_KILLER_NEUTRON_DESC$"
+APOCEX_SPRRAY_DESC: "$PLANET_KILLER_GODRAY_DESC$"
+APOCEX_NANOBOTS_DESC: "$PLANET_KILLER_NANOBOTS_DESC$"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_CRACKER: "$FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_CRACKER$"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_PACIFIER: "$FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_SHIELDER$"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_NEUTRON: "$FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NEUTRON$"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_SPRRAY: "$FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_GODRAY$"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_NANOBOTS: "$FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NANOBOTS$"
+MESSAGE_DESC_FOR_APOCEX_CRACKER: "$MESSAGE_DESC_FOR_PLANET_KILLER_CRACKER$"
+MESSAGE_DESC_FOR_APOCEX_PACIFIER: "$MESSAGE_DESC_FOR_PLANET_KILLER_SHIELDER$"
+MESSAGE_DESC_FOR_APOCEX_NEUTRON: "$MESSAGE_DESC_FOR_PLANET_KILLER_NEUTRON$"
+MESSAGE_DESC_FOR_APOCEX_SPRRAY: "$MESSAGE_DESC_FOR_PLANET_KILLER_GODRAY$"
+MESSAGE_DESC_FOR_APOCEX_NANOBOTS: "$MESSAGE_DESC_FOR_PLANET_KILLER_NANOBOTS$"
+APOCEX_CRACKER_ACTION: "$PLANET_KILLER_CRACKER_ACTION$"
+APOCEX_PACIFIER_ACTION: "$PLANET_KILLER_SHIELDER_ACTION$"
+APOCEX_NEUTRON_ACTION: "$PLANET_KILLER_NEUTRON_ACTION$"
+APOCEX_SPRRAY_ACTION: "$PLANET_KILLER_GODRAY_ACTION$"
+APOCEX_NANOBOTS_ACTION: "$PLANET_KILLER_NANOBOTS_ACTION$"
+
+#Calm Sunshine
+APOCEX_PACRAY: "平静的阳光"
+APOCEX_PACRAY_DESC: "平静的阳光是一种灵能激光，它能将波普转化为和平主义者，杀死那些不能遵循这一道德准则的人"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_PACRAY: "让陆军在$PLANET|Y$撤退"
+MESSAGE_DESC_FOR_APOCEX_PACRAY: "在这方面，平定是否得到了执行"
+APOCEX_PACRAY_ACTION: "创造和平"
+#Calm Sunshine:Event
+apocex_pk.101.name: "平静的阳光普照[From.GetName]"
+apocex_pk.101.desc: "平静的阳光普照，和平无处不在，没有人想要，战斗。\n我们成功地把他们变成了和平主义者"
+apocex_pk.101.tooltip: "[From.GetName]的所有军队都退役了，[From.GetName]的每个有机成员都是和平主义者"
+
+#Militaris Ray
+APOCEX_MILRAY: "军国主义射线"
+APOCEX_MILRAY_DESC: "军国主义射线是一种灵能激光，它能将人口转化为军国主义，并能杀死不能遵循这一伦理的人"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_MILRAY: "在$PLANET|Y$创造军国主义"
+MESSAGE_DESC_FOR_APOCEX_MILRAY: "它被军事化了吗"
+APOCEX_MILRAY_ACTION: "创造军国主义"
+#Militarist Ray:Event
+apocex_pk.201.name: "军国主义普照[From.GetName]"
+apocex_pk.201.desc: "去做吧"
+apocex_pk.201.tooltip: "[From.GetName]的所有人口现在都是军国主义者"
+
+#God Vanisher
+APOCEX_MATRAY: "上帝消失"
+APOCEX_MATRAY_DESC: "只需要使用格拉特网络(灵能)，将上帝从受害者中删除"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_MATRAY: "上帝在$PLANET|Y$消失"
+MESSAGE_DESC_FOR_APOCEX_MATRAY: "上帝是否强制删除它"
+APOCEX_MATRAY_ACTION: "从星球上删除宗教"
+#God Vanisher:Event
+apocex_pk.301.name: "上帝已在[From.GetName]被删除"
+apocex_pk.301.desc: "[From.GetName]里的每个人都不再是唯心主义者，他们是极端唯物主义者"
+apocex_pk.301.tooltip: "所有人口[From.GetName]现在都是唯物主义者"
+
+#Xenophile Ray
+APOCEX_PHIRAY: "亲外射线"
+APOCEX_PHIRAY_DESC: "他们应该害怕异种人吗?完全地不"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_PHIRAY: "Make Xenophile global in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_PHIRAY: "Xenophile Rayed by"
+APOCEX_PHIRAY_ACTION: "Conver ethic into xenophile"
+#Xenophile Ray:Event
+apocex_pk.401.name: "Xenophobia Vanished in [From.GetName]"
+apocex_pk.401.desc: "[From.GetName], xenophobia is now unacceptable"
+apocex_pk.401.tooltip: "All POPs in [From.GetName] is now xenophile"
+
+#Xenophobe Ray
+APOCEX_PHORAY: "Xenophobe Ray"
+APOCEX_PHORAY_DESC: "They must fear XENO"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_PHORAY: "Make Xenophobe global in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_PHORAY: "Xenophobe Rayed by"
+APOCEX_PHORAY_ACTION: "Spread Xenophobia"
+#Xenophobe Ray:Event
+apocex_pk.501.name: "Xenophobia Induced in [From.GetName]"
+apocex_pk.501.desc: "[From.GetName], xenophobia is now common"
+apocex_pk.501.tooltip: "All POPs in [From.GetName] is now xenophobe"
+
+#Liberty Ray
+APOCEX_EGARAY: "Liberty Ray"
+APOCEX_EGARAY_DESC: "Chane POP's ethic into egalitarian, kills mechanical/hive pops, If you want, you can trigger revolt"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_EGARAY: "Spread Egalitarian Ethic $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_EGARAY: "Spreaded Ethic Egalitarian in"
+APOCEX_EGARAY_ACTION: "Spread Egalitarian Ethic"
+#Liberty Ray:Event
+apocex_pk.601.name: "Egalitarian Ethic in [From.GetName]"
+apocex_pk.601.desc: "In [From.GetName], egalitarian ethic spreaded"
+apocex_pk.601.tooltip: "All POPs in [From.GetName] is now egalitarian"
+#Liberty Ray:Revolt
+apocex_pk.601.revolt: "Optional Ability:Rise Ribellion"
+apocex_pk.601.tooltip.revolt: "The Enslaved and Purged will rise, conquer the oppressor!"
+#Liberty Ray:Revolt:Message
+apocex_pk.603.name: "Rise of slave rebel, revolt in [From.From.GetName]"
+apocex_pk.603.desc: "Massive Slave Rebellion is Reported in [From.From.GetName], Rebel's goal is destroy current authority and liberate ALL slaves in galaxy"
+apocex_pk.603.option.a: "They will be punished, because they shattered someone's liberty"
+apocex_pk.603.option.b: "Fight for liberty has begun.."
+
+#Authoritarian Ray
+APOCEX_AUTRAY: "Authoritarian Ray"
+APOCEX_AUTRAY_DESC: "Shut up! Slaves will adapt their role!"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_AUTRAY: "Closing mouth of Egalitarian $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_AUTRAY: "had forced Authritarian Ethic Adapted by"
+APOCEX_AUTRAY_ACTION: "Help Adapting Authoritarian Ethic"
+#Authority Adapter:Event
+apocex_pk.701.name: "Authoritian Rayed [From.GetName]"
+apocex_pk.701.desc: "TODO"
+apocex_pk.701.tooltip: "All organic POPs in [From.GetName] is now authoritarian"
+
+#Ethic Confuser
+APOCEX_ETHIC_CONFUSER: "Ethic Confuser"
+APOCEX_ETHIC_CONFUSER_DESC: "Psionic waves will destroy machines, and make them ethic confused"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_ETHIC_CONFUSER: "Change Mind randomly $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_ETHIC_CONFUSER: "had Ethic disrupted by"
+APOCEX_ETHIC_CONFUSER_ACTION: "Ethic Disrupting"
+#Ethic Confuser:Event
+apocex_pk.801.name: "Ethic Confusion [From.GetName]"
+apocex_pk.801.desc: "[From.GetName] 's people is changing mind frequently"
+apocex_pk.801.tooltip: "Some POPs in [From.GetName] 's ethic changed"
+
+#Continent Burner
+APOCEX_BURNER: "Continent Burner"
+APOCEX_BURNER_DESC: "Giantic thermal laser which is powerful enough to burn continent"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_BURNER: "Burn $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_BURNER: "'s continent Burned by"
+APOCEX_BURNER_ACTION: "Burn Planet"
+#Continent Burner:Event
+apocex_pk.901.name: "Planet Burned [From.GetName]"
+apocex_pk.901.desc: "[From.GetName] 's surface is burning yet, partially"
+apocex_pk.901.tooltip: "Some tile has blocker and pops/buildings in that tile destroyed"
+
+#World Blazer
+APOCEX_BLAZER: "World Blazer"
+APOCEX_BLAZER_DESC: "Giantic thermal laser which is powerful enough to burn entire planet"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_BLAZER: "Blaze $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_BLAZER: "'s surface blazed by"
+APOCEX_BLAZER_ACTION: "Blaze"
+#World Blazer:Event
+apocex_pk.1001.name: "Blazed [From.GetName]"
+apocex_pk.1001.desc: "[From.GetName]'s surface is glowing like fire"
+apocex_pk.1001.tooltip: "Some POPs in [From.GetName] is now molten world"
+
+
+#Psionic Sweeper
+APOCEX_PSISWEEP: "Psionic Sweeper"
+APOCEX_PSISWEEP_DESC: "Psionical wave which anihilates planet infrastructure"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_PSISWEEP: "Sweep with psionic at $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_PSISWEEP: "'s infrastructures destroyed by"
+APOCEX_PSISWEEP_ACTION: "Psionic Sweep"
+#Psionic Sweeper:Event
+apocex_pk.1101.name: "Psionic Sweeping at [From.GetName]"
+apocex_pk.1101.desc: "[From.GetName]'s infrastructures messed up by psionic sweep"
+apocex_pk.1101.tooltip: "[From.GetName]'s infrastructures were horribly destroyed"
+
+#Organic Synthesizer
+APOCEX_SYNTHESIZER: "Organic Synthesizer"
+APOCEX_SYNTHESIZER_DESC: "Synthetic Evolution is pinnacle of technology\n Resistence is fertile, get new body, get immortality.\n Tear the flesh, get shiny new metal body\nSalvation is coming."
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_SYNTHESIZER: "Liberate at flesh at $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_SYNTHESIZER: "'s people synthesized by'"
+APOCEX_SYNTHESIZER_ACTION: "Liberate from flesh"
+#Organic Synthesizer:Event
+apocex_pk.1201.name: "Synthesizing [From.GetName]"
+apocex_pk.1201.desc: "Look at your body,\n resistence is fertile and foolish\n You are now free from flesh\n People in [From.GetName] is free for dying flesh..."
+apocex_pk.1201.tooltip: "[From.GetName]'s people synthesized"
+
+
+#Organic Intergrator
+APOCEX_INTERGRATOR: "Organic Intergrator"
+APOCEX_INTERGRATOR_DESC: "Resistence is fertile\nJoin us\nJust Join us"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_INTERGRATOR: "Intergrate $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_INTERGRATOR: "'s people intergrated by"
+APOCEX_INTERGRATOR_ACTION: "Intergrate"
+#Organic Intergrator:Event
+apocex_pk.1301.name: "Intergration of [From.GetName]"
+apocex_pk.1301.desc: "They joined us\nThey and we are one"
+apocex_pk.1301.tooltip: "[From.GetName]'s intergrated"
+
+#Genetic Paster
+APOCEX_GENEPASTE: "Genetic Paster"
+APOCEX_GENEPASTE_DESC: "Everyone will be like us."
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_GENEPASTE: "Paste Genetic in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_GENEPASTE: "'s people genetically pasted by"
+APOCEX_GENEPASTE_ACTION: "Paste Genetic"
+#Genetic Paster:Event
+apocex_pk.1401.name: "Genetic Paste in [From.GetName]"
+apocex_pk.1401.desc: "....\nThey are like us..."
+apocex_pk.1401.tooltip: "[From.GetName]'s Genetically Pasted"
+
+#Cryo Ray
+APOCEX_CRYO: "Cryo Ray"
+APOCEX_CRYO_DESC: "Freeze... or YOUR PLANET will be freezed"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_CRYO: "Freeze $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_CRYO: "'s surface frozen by"
+APOCEX_CRYO_ACTION: "Freeze"
+#Cryo Ray:Event
+apocex_pk.1501.name: "Freezing [From.GetName]"
+apocex_pk.1501.desc: "Now, they will be freezed, because they put planet in front of our burning rage"
+apocex_pk.1501.tooltip: "[From.GetName] is now Frozen Planet"
+
+
+#Hive Intergrator
+APOCEX_HIVER: "Hive Intergrator"
+APOCEX_HIVER_DESC: "We are one, you will be one"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_HIVER: "Intergrating $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_HIVER: "'s pop has intergrated by"
+APOCEX_HIVER_ACTION: "Intergrate into hive"
+#Hive Intergrator:Event
+apocex_pk.1601.name: "[From.GetName]'s intergration"
+apocex_pk.1601.desc: "We are one, they are one, we and they are one."
+apocex_pk.1601.tooltip: "[From.GetName]'s pop intergrated into hive"
+
+#Hive Shatterer
+APOCEX_DEHIVER: "Hive Shatterer"
+APOCEX_DEHIVER_DESC: "Here is our genetic weapon.\nThis weapons frees hive mind pops\nDo I have to say more?"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_DEHIVER: "Preparing welcome to free will event in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_DEHIVER: "'s pop freed by"
+APOCEX_DEHIVER_ACTION: "Shatter hive"
+#Hive Shatterer:Event
+apocex_pk.1701.name: "[From.GetName]'s hive"
+apocex_pk.1701.desc: "Welcome to free will, [From.GetName]'s Pops"
+apocex_pk.1701.tooltip: "[From.GetName]'s pop freed from hive"
+
+#Mass Abduction
+APOCEX_MASS_ABDUCT: "Mass Abduction"
+APOCEX_MASS_ABDUCT_DESC: "Just abduct, who cares stealing pops?"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_MASS_ABDUCT: "Abducting pops in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_MASS_ABDUCT: "'s pop abducted by"
+APOCEX_MASS_ABDUCT_ACTION: "Mass Abduct"
+#Mass Abduction:Event
+apocex_pk.1801.name: "[From.GetName]'s pop abducted"
+apocex_pk.1801.desc: "Do I have to say more?\n We abducted their pops!"
+apocex_pk.1801.tooltip: "[From.GetName]'s pop abducted"
+
+#Singularity Imploder
+APOCEX_SINGULARITY_IMPLODER: "Singulariy Imploder"
+APOCEX_SINGULARITY_IMPLODER_DESC: "Just put singularity, thats all\nAnd take physics research\nDONE!"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_SINGULARITY_IMPLODER: "Putting singularity in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_SINGULARITY_IMPLODER: "'s devoured by singularity which imploded by"
+APOCEX_SINGULARITY_IMPLODER_ACTION: "Putting singularity"
+#Singularity Imploder:Event
+apocex_pk.1901.name: "Singularity Imploder"
+apocex_pk.1901.desc: "DONE!, not take physics research and watch result of destruction"
+apocex_pk.1901.tooltip: "[From.GetName] is now blackhole"
+
+#Core Fuser
+APOCEX_CORE_FUSER: "Core Fuser"
+APOCEX_CORE_FUSER_DESC: "Let's watch stars birth, with destruction of life"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_CORE_FUSER: "Fusing star in $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_CORE_FUSER: "'s devoured by star which created by"
+APOCEX_CORE_FUSER_ACTION: "Fusing artifical star"
+#Core Fuser:Event
+apocex_pk.2001.name: "Core Fuser"
+apocex_pk.2001.desc: "Watch star's birth, enjoy destruction"
+apocex_pk.2001.tooltip: "[From.GetName] is now artifical star"
+
+#Chronocrisis
+APOCEX_CHRONOCRISIS: "Chronocrisis"
+APOCEX_CHRONOCRISIS_DESC: "Alter the time, they will freeze, for while"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_CHRONOCRISIS: "Deccelrating $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_CHRONOCRISIS: "'s time deccelarated by"
+APOCEX_CHRONOCRISIS_ACTION: "Speed Down"
+#Chronocrisis:Event
+apocex_pk.2101.name: "Chronocrisis"
+apocex_pk.2101.desc: "They are dooing nothing, they completely stoped"
+apocex_pk.2101.tooltip: "[From.GetName]'s time distorted"
+
+#EMP Wave
+APOCEX_EMP: "EMP Wave"
+APOCEX_EMP_DESC: "Regress them into primitive, anihilate their technology"
+FLEETORDER_DESTROY_PLANET_WITH_APOCEX_EMP: "Regressing $PLANET|Y$"
+MESSAGE_DESC_FOR_APOCEX_EMP: "'s technology regressed by"
+APOCEX_EMP_ACTION: "Regress"
+#EMP Wave:Event
+apocex_pk.2201.name: "EMP Wave in [From.GetName]"
+apocex_pk.2201.desc: "Their technologies obliterated, they are just mere primitive"
+apocex_pk.2201.tooltip: "[From.GetName]'s technology obliterated"
+

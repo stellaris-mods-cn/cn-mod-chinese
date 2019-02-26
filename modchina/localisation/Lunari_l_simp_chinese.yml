@@ -1,0 +1,179 @@
+﻿l_simp_chinese:
+name_list_Lunari:0 "月亮精灵"
+
+####################################
+# Civics and traits
+####################################
+
+civic_elven_shields:0 "护盾继电器"
+civic_elven_shields_desc:0 "护盾技术优先于其他形式的防御。新的护盾继电器和电阻放大器很快被实现。这需要额外的注意，以确保新船能适当地装备，以处理不断改进的护盾技术。"
+
+trait_pc_lunari_arctic_preference:0 "极地星球偏好"
+trait_pc_lunari_arctic_preference_desc:1 "§L气候偏好是由基因水平、进化过程或熟练操作决定的。§!"
+
+####################################
+# Planets
+####################################
+
+pc_lunari_shielded:0 "被屏蔽的月亮"
+pc_lunari_shielded_desc:0 "这颗卫星被某种不可穿透的能量护盾包围着。它提供了星系中唯一重要的光源，同时也放射出大量的心灵能量。所有对表面的扫描，如果存在的话，都是通过未知的方式反射回来的。"
+
+pc_lunari_arctic:0 "冰冷星球"
+pc_lunari_arctic_desc:0 "寒冷的岩石星球，含氮氧的大气。两极非常巨大，大量的水可以被永久冻结为冰川冰。"
+
+pc_lunari_arctic_tile:0 "冻结的地形"
+pc_lunari_arctic_tile_desc:0 "冰雪覆盖的地形，没有植被。"
+
+pc_lunari_arctic_habitability:1 "冻结星球适居性"
+
+####################################
+# Modifiers and tile blockers
+####################################
+
+lunari_dark_planet:0 "被遮蔽的星球"
+lunari_dark_planet_desc:0 "§L这个星球又黑又冷。唯一的光由附近的月亮提供。普通的月食常常遮蔽了唯一的光源。很少有生命形式能够适应这种情况。§!"
+
+lunari_thunderstorms:0 "灵气气候"
+lunari_thunderstorms_desc:0 "§L这个星球正遭受着几乎无休无止的雷暴。频繁的闪电和暴风雪使人难以生存，更不用说建造和维护建筑物了。研究风暴的原因和利用雷击的能量可能会有一些好处。§!"
+
+lunari_ultra_rich:0 "晶体的形成"
+lunari_ultra_rich_desc:0 "§L奇怪的晶体结构点缀着这个星球的表面。仔细观察就会发现它们是由珍贵的矿物组成的。这将极大地改善任何采矿工作。§!"
+
+lunari_auroras:0 "月亮极光"
+lunari_auroras_desc:0 "§L每当月亮从水面上看到时，就会有巨大的棱柱状的光在天空中飞舞。这种现象被认为是由中间层的一层薄薄的晶体引起的。无论它是什么原因造成的，这都是激动人心的。§!"
+
+lunari_living_groves:0 "恶毒的树林"
+lunari_living_groves_desc:0 "§L某些森林有奇怪的树状结构，与女性的形态相似，实际上是活的，非常危险。在沟通方面的尝试最终被证明是失败的，因为有知觉的树似乎只有谋杀的想法。到目前为止，有关冻结呼吸和其他特异功能的报道还没有得到证实。§!"
+
+lunari_flower_oasis:0 "冰花"
+lunari_flower_oasis_desc:0 "§L林谷从风和暴风雪中分离出来，有一种神奇的冰花存在。花瓣和细丝看起来好像是由小冰晶组成的。这就产生了一种壮观的棱镜效应，即使是少量的光也存在。这些花被月亮精灵认为是神圣的，甚至不小心踩到便是死刑。§!"
+
+lunari_ice_spires:0 "冰塔尖"
+lunari_ice_spires_desc:0 "§L巨大的冰尖顶似乎违背了已知的物理定律，它们散布在这个星球上。它们似乎是由几乎完美的柱子上的水直接向上流动而形成的，然后瞬间冻结。在严密的检查中，水似乎仍在向上流动，进一步混淆了对其形成的理解。§!"
+
+
+tb_lunari_living_grove:0 "恶毒的树林"
+tb_lunari_living_grove_desc:0 "§L奇怪的树形结构，就像女性的形态，实际上是活的，非常危险。在沟通方面的尝试最终被证明是失败的，因为有知觉的树似乎只有谋杀的想法。到目前为止，有关冻结呼吸和其他特异功能的报道还没有得到证实。§!"
+
+tb_lunari_ice_spires:0 "冰尖顶"
+tb_lunari_ice_spires_desc:0 "§L巨大的冰尖顶似乎违背了已知的物理定律，它们散布在这个星球上。它们似乎是由几乎完美的柱子上的水直接向上流动而形成的，然后瞬间冻结。在严密的检查中，水似乎仍在向上流动，进一步混淆了对其形成的理解。§!"
+
+####################################
+# Diplomacy
+####################################
+
+personality_lunari_personality:0 "马尼什·林恩"
+personality_lunari_personality_desc:0 "马尼什·林恩 “月亮之人”，是高度精神、骄傲和无情的人。他们在战争中非常熟练，在需要的时候会毫不犹豫地施以酷刑或处决他们的敌人。不过，月亮精灵愿意与他人合作，如果他们表现出尊重的话。他们可能会成为一个真正有价值的盟友。"
+
+LUN_HOSTILE_GREETING_01:0 "你在这里不受欢迎， [From.GetSpeciesName]。如果你现在停止烦扰我们，我们可能仍会宽恕你微不足道的生命。"
+LUN_HOSTILE_GREETING_02:0 "你尝试我们的耐心, [From.GetSpeciesName]。你寻找的是死亡吗?"
+LUN_HOSTILE_GREETING_03:0 "[Root.GetRulerTitle] [Root.GetRulerName]是你不满意。我们没什么可说的。"
+LUN_DOMINEERING_GREETING_01:0 "是时候说真话了， [From.GetRulerTitle]。你是弱。你不能保护你的人民，你不能保护你的星球，你不能保护你的头衔。成为我们的一员是你继续存在的唯一机会。"
+LUN_NEUTRAL_GREETING_01:0 "责任是我们每个人的责任，但责任是一件孤独的事情。我怀疑我们是否能从兄弟关系中获益良多。在你的旅途中，月亮祝福你。"
+LUN_NEUTRAL_GREETING_02:0 "我们不太关心你或你的事情。不过,[Root.GetRulerTitle] [Root.GetRulerName]对您所能提供的东西感兴趣。"
+LUN_NEUTRAL_GREETING_03:0 "沟通真的需要吗?很好，你可以说话了。"
+LUN_NEUTRAL_GREETING_04:0 "如果这是一个贸易优惠，我们会考虑的。否则就没什么可讨论的了。"
+LUN_NEUTRAL_GREETING_05:0 "哦，这是[From.GetSpeciesName]中的一个。别费心了，我们不指望你能尊重甚至理解我们的生活方式和宗教信仰。"
+LUN_THREATENED_GREETING_01:0 "很难不知道你在想什么。如果不能预测，你就什么都不是。但是要小心…因为我们已经为你准备好了。"
+LUN_FRIENDLY_GREETING_01:0 "我们听到很多关于你的事情。主要是好东西。"
+LUN_FRIENDLY_GREETING_02:0 "愿月亮保佑你。[Root.GetRulerTitle] [Root.GetRulerName]对你和[From.GetSpeciesNamePlural]文化特别感兴趣。请不要拘束，随意与我们分享一些有趣的故事。"
+LUN_FRIENDLY_GREETING_03:0 "如果我们能帮上忙，一定要来找我们。愿月亮保佑你。"
+LUN_FRIENDLY_GREETING_04:0 "现在，我们很高兴看到这个人。受欢迎的, [Root.GetRulerTitle] [Root.GetRulerName] 很想和你谈谈。"
+LUN_WAR_GREETING_01:0 "如果这不是你的直接投降，请滚开！"
+LUN_WAR_GREETING_02:0 "你现在有勇气联系我们吗?谈话的时间早已过去了。"
+LUN_WAR_GREETING_03:0 "*chuckle*\n[Root.GetRulerTitle] [Root.GetRulerName] 对这场战争感到很有趣。愿月亮怜悯你。"
+LUN_WAR_GREETING_04:0 "看来我们已经被打败了。尽情享受你的胜利……现在。"
+LUN_VASSAL_GREETING_01:0 "你的结果比我们想象的要有趣得多。[Root.GetRulerTitle] [Root.GetRulerName]愿意和你一起工作。"
+LUN_VASSAL_GREETING_DISLOYAL_01:0 "在所有的耻辱中，[Root.GetName]的服务对象[From.GetSpeciesAdj]真是糟糕。"
+LUN_DOW_PROPOSE_01:0 "让我们看看[From.GetSpeciesNamePlural]是否像他们认为的那样强硬。准备好，因为这是战争。愿女神宽恕你，因为我们将一无所有。"
+
+####################################
+# Weapons
+####################################
+
+LUNAR_DISCHARGE_1:0 "不稳定的月之能量"
+LUNAR_DISCHARGE_1_DESC:1 "一种新的武器，它试图通过定向敌人的位置来利用累积的月之能量。虽然它高度不稳定，但会造成我们敌人的灾难性伤害。"
+SMALL_LUNAR_DISCHARGE_1:0 "不稳定的月之能量"
+MEDIUM_LUNAR_DISCHARGE_1:0 "不稳定的月之能量"
+LARGE_LUNAR_DISCHARGE_1:0 "不稳定的月之能量"
+
+LUNAR_DISCHARGE_2:0 "月之电弧"
+LUNAR_DISCHARGE_2_DESC:1 "将储存的月之能量释放到比以前更稳定的目标。"
+SMALL_LUNAR_DISCHARGE_2:0 "月之电弧"
+MEDIUM_LUNAR_DISCHARGE_2:0 "月之电弧"
+LARGE_LUNAR_DISCHARGE_2:0 "月之电弧"
+
+LUNAR_DISCHARGE_3:0 "聚焦月之电弧"
+LUNAR_DISCHARGE_3_DESC:1 "最近的突破让我们月之电弧可以精准确定敌方目标和它那令人难以置信的命中率。在大多数情况下，它们完全绕过了护甲。"
+SMALL_LUNAR_DISCHARGE_3:0 "聚焦月之电弧"
+MEDIUM_LUNAR_DISCHARGE_3:0 "聚焦月之电弧"
+LARGE_LUNAR_DISCHARGE_3:0 "聚焦月之电弧"
+
+LUNAR_DISCHARGE_4:0 "月亮之怒"
+LUNAR_DISCHARGE_4_DESC:1 "最先进的月之电弧。把月亮女神的愤怒真正地带给任何反对我们的人。"
+SMALL_LUNAR_DISCHARGE_4:0 "月亮之怒"
+MEDIUM_LUNAR_DISCHARGE_4:0 "月亮之怒"
+LARGE_LUNAR_DISCHARGE_4:0 "月亮之怒"
+
+LUNAR_SURGE_1:0 "月之涌浪"
+LUNAR_SURGE_1_DESC:1 "一个巨大版本的月之电弧武器,这些利用月亮超电容器来创建一个非常强大的电弧。"
+LARGE_LUNAR_SURGE_1:0 "月之涌浪"
+
+LUNAR_SURGE_2:0 "聚焦月之涌浪"
+LUNAR_SURGE_2_DESC:1 "我们的高级版本月亮涌浪武器,有着惊人的定位精度以及毁灭性的伤害。"
+LARGE_LUNAR_SURGE_2:0 "聚焦月之涌浪"
+
+LUNAR_SURGE_3:0 "月之怒"
+LUNAR_SURGE_3_DESC:1 "最终月之电弧,结合多年的专业知识和技术能力。这些武器瞄准的敌舰将真正了解女神的狂暴。"
+LARGE_LUNAR_SURGE_3:0 "月之怒"
+
+LUNAR_POINT_DEFENSE_1:0 "月之电弧点防御"
+LUNAR_POINT_DEFENSE_1_DESC:1 "通过控制月之电弧小爆发,可以配置一个武器摧毁来袭的小目标。"
+
+LUNAR_POINT_DEFENSE_2:0 "月亮的祝福"
+LUNAR_POINT_DEFENSE_2_DESC:1 "一个先进的变体球电弧武器，它是为小目标而设计的。它的效率只能归功于女神的祝福。"
+
+####################################
+# Techs
+####################################
+
+tech_lunar_discharge_1:0 "月亮电容器"
+tech_lunar_discharge_1_desc:1 "多年的月亮研究让我们了解了如何利用它所提供的巨大能量。\n\n"
+
+tech_lunar_discharge_2:0 "校准月亮电容器"
+tech_lunar_discharge_2_desc:1 "我们的舰载月之电弧电容器著称的不稳定传播和巨大的损害。校准他们将确保月之电弧武器系统总是造成实质性的伤害。\n\n"
+
+tech_lunar_discharge_3:0 "月之电弧: 目标计算机"
+tech_lunar_discharge_3_desc:1 "专门的计算机可以让我们的武器瞄准那些特别容易受到能源冲击的敌舰的特定区域。\n\n"
+
+tech_lunar_discharge_4:0 "月之电弧: 电容器电池"
+tech_lunar_discharge_4_desc:1 "我们可以利用电池来提高我们的月亮武器的可用功率。这将增加产出和破坏性的潜力。\n\n"
+
+tech_lunar_surge_1:0 "月亮超级电容器"
+tech_lunar_surge_1_desc:1 "我们的月亮电容器的庞大版本能够存储比小型电容器多300%的能量。这使得我们的主力舰月之电弧到目前为止无法实现权力的武器。\n\n"
+
+tech_lunar_surge_2:0 "月之涌浪: 聚焦阵列"
+tech_lunar_surge_2_desc:1 "最近的突破允许更强大而集中的月之电弧，这大大超过了我们之前的认识。\n\n"
+
+tech_lunar_surge_3:0 "月之涌浪: 聚焦晶格"
+tech_lunar_surge_3_desc:1 "如果我们把我们的聚焦阵列组合成一系列的晶格，我们就能达到以前无法想象的精确和破坏性的水平。\n\n"
+
+tech_lunar_point_defense_1:0 "月之电弧: 积极的对策"
+tech_lunar_point_defense_1_desc:1 "通过控制月之电弧小爆发,可以配置一个武器摧毁来袭的小目标。\n\n"
+
+tech_lunar_point_defense_2:0 "月亮点防御: 双聚焦系统"
+tech_lunar_point_defense_2_desc:1 "使用两个单独的聚焦系统,可以减少排放在我们之间的冷却时间点防御电弧武器。\n\n"
+
+####################################
+# Prescripted stuff
+####################################
+
+EMPIRE_DESIGN_lunariciv:0 "银月亮统治"
+EMPIRE_DESIGN_lunariciv_desc:0 "没有什么能比提出月亮精灵更能让一名外星生物学家感到困惑。它们起源于一个近乎死亡的冰冻星球。星球绕着一对黑洞运行。他们星系中唯一的光是由一个奇怪的发光的月亮提供的，不知怎么的，它会排斥任何扫描的尝试。根据所有的说法，他们根本不应该存在。\n\nLunari自己发现这样的问题非常愚蠢。答案很明显:他们是由他们的女神创造的，任何想要质疑这一事实的傻瓜都应该看看他们的月亮。\n\n相对来说，在银河中，Lunari看起来很友好，平易近人。有传言说，他们以最痛苦的方式根除了他们。然而，这样的谈话很可能是由于没有任何正式的指控而产生的懒惰思想的结果。或者至少，没有人能活到足够长的时间。\n"
+
+elven_lunari_system_initializer_NAME:0 "无日国度"
+elven_lunari_system_initializer_DESC:0 "一个冷的双黑洞星系。唯一的光源是附近的一个奇怪的月亮。\n\n§注意：这个开始需要精灵族!§!\n\n$system_initializer_DESC$"
+
+
+
+

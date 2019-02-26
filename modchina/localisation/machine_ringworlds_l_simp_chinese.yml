@@ -1,0 +1,641 @@
+﻿l_simp_chinese:
+
+#########
+#Habitat#
+#########
+
+ pc_habitat_machine:0 "机械轨道栖息地"
+ pc_habitat_machine_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_energy_alpha:0 "能源机械轨道栖息地 1"
+ pc_habitat_machine_energy_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_energy_beta:0 "能源机械轨道栖息地 2"
+ pc_habitat_machine_energy_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_energy_ceta:0 "能源机械轨道栖息地 3"
+ pc_habitat_machine_energy_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_mineral_alpha:0 "矿物机械轨道栖息地 1"
+ pc_habitat_machine_mineral_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_mineral_beta:0 "矿物机械轨道栖息地 2"
+ pc_habitat_machine_mineral_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_mineral_ceta:0 "矿物机械轨道栖息地 3"
+ pc_habitat_machine_mineral_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_science_alpha:0 "科研机械轨道栖息地 1"
+ pc_habitat_machine_science_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_science_physics_beta:0 "物理学机械轨道栖息地 2"
+ pc_habitat_machine_science_physics_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_science_physics_ceta:0 "物理学机械轨道栖息地 3"
+ pc_habitat_machine_science_physics_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_science_society_beta:0 "社会学机械轨道栖息地 2"
+ pc_habitat_machine_science_society_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_science_society_ceta:0 "社会学机械轨道栖息地 3"
+ pc_habitat_machine_science_society_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_science_engineering_beta:0 "工程学机械轨道栖息地 2"
+ pc_habitat_machine_science_engineering_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_science_engineering_ceta:0 "工程学机械轨道栖息地 3"
+ pc_habitat_machine_science_engineering_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+  
+ pc_habitat_machine_military_alpha:0 "军事机械轨道栖息地 1"
+ pc_habitat_machine_military_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_military_beta:0 "军事机械轨道栖息地 2"
+ pc_habitat_machine_military_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_military_ceta:0 "军事机械轨道栖息地 3"
+ pc_habitat_machine_military_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_unity_alpha:0 "联合机械轨道栖息地 1"
+ pc_habitat_machine_unity_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_unity_beta:0 "联合机械轨道栖息地 2"
+ pc_habitat_machine_unity_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_unity_ceta:0 "联合机械轨道栖息地 3"
+ pc_habitat_machine_unity_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_assimilator_alpha:0 "同化者机械轨道栖息地 1"
+ pc_habitat_machine_assimilator_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_assimilator_beta:0 "同化者机械轨道栖息地 2"
+ pc_habitat_machine_assimilator_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_assimilator_ceta:0 "同化者机械轨道栖息地 3"
+ pc_habitat_machine_assimilator_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_exterminator_alpha:0 "净化者机械轨道栖息地 1"
+ pc_habitat_machine_exterminator_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_exterminator_beta:0 "净化者机械轨道栖息地 2"
+ pc_habitat_machine_exterminator_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_exterminator_ceta:0 "净化者机械轨道栖息地 3"
+ pc_habitat_machine_exterminator_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ 
+ pc_habitat_machine_servitor_alpha:0 "机仆机械轨道栖息地 1"
+ pc_habitat_machine_servitor_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_servitor_beta:0 "机仆机械轨道栖息地 2"
+ pc_habitat_machine_servitor_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+ pc_habitat_machine_servitor_ceta:0 "机仆机械轨道栖息地 3"
+ pc_habitat_machine_servitor_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
+
+ 
+###########
+#Ringworld#
+###########
+ 
+ pc_ringworld_machine_uninhabitable_damaged: "不适宜居住的环世界"
+ pc_ringworld_machine_uninhabitable_damaged_desc: "一个巨大的环世界环绕着太阳的一部分。这一区域曾经是可居住的，但巨大的破坏使得它的表面完全不适合生物或合成人。"
+   
+ pc_ringworld_assimilator_machine_uninhabitable_damaged: "不适宜居住的环世界"
+ pc_ringworld_assimilator_machine_uninhabitable_damaged_damaged_desc: "一个巨大的环世界环绕着太阳的一部分。这一区域曾经是可居住的，但巨大的破坏使得它的表面完全不适合生物或合成人。"
+ 
+ pc_ringworld_exterminator_machine_uninhabitable_damaged: "不适宜居住的环世界"
+ pc_ringworld_exterminator_machine_uninhabitable_damaged_desc: "一个巨大的环世界环绕着太阳的一部分。这一区域曾经是可居住的，但巨大的破坏使得它的表面完全不适合生物或合成人。"
+   
+ pc_ringworld_servitor_machine_uninhabitable_damaged: "不适宜居住的环世界"
+ pc_ringworld_servitor_machine_uninhabitable_damaged_desc: "一个巨大的环世界环绕着太阳的一部分。\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
+  
+ pc_ringworld_machine_ruined: "毁坏的机械环世界"
+ pc_ringworld_machine_ruined_desc: "一个巨大的环世界环绕着太阳的一部分。这一区域曾经是可居住的，但巨大的破坏使得它的表面完全不适合生物或合成人。"
+   
+ pc_ringworld_habitable_machine: "机械环世界"
+ pc_ringworld_habitable_machine_desc: "一个巨大的环世界环绕着太阳的一部分\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
+ pc_ringworld_machine_tile: "控制论地形"
+ pc_ringworld_machine_tile_desc: "地形屏蔽了子表面超导晶格。"
+ 
+ pc_ringworld_machine_energy_alpha: "能源机械环世界 1"
+ pc_ringworld_machine_energy_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加允许增加能量收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_energy_beta: "能源机械环世界 2"
+ pc_ringworld_machine_energy_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了能量的收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_energy_ceta: "能源机械环世界 3"
+ pc_ringworld_machine_energy_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强了能量的收集和效力。摆脱了行星、球形存在的限制。"
+
+ pc_ringworld_machine_mineral_alpha: "矿物机械环世界 1"
+ pc_ringworld_machine_mineral_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加了矿物的收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_mineral_beta: "矿物机械环世界 2"
+ pc_ringworld_machine_mineral_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了矿物的收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_mineral_ceta: "矿物机械环世界 3"
+ pc_ringworld_machine_mineral_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。允许最大限度地收集矿物和提高效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_science_alpha: "科研机械环世界 1"
+ pc_ringworld_machine_science_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。以作为研究的基础。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_science_physics_beta: "物理学机械环世界 2"
+ pc_ringworld_machine_science_physics_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了物理学的研究和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_science_physics_ceta: "物理学机械环世界 3"
+ pc_ringworld_machine_science_physics_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了物理学的研究和效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_science_society_beta: "社会学机械环世界 2"
+ pc_ringworld_machine_science_society_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强社会学的研究和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_science_society_ceta: "社会学机械环世界 3"
+ pc_ringworld_machine_science_society_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强社会学的研究和效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_science_engineering_beta: "工程学机械环世界 2"
+ pc_ringworld_machine_science_engineering_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强工程学的研究和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_science_engineering_ceta: "工程学机械环世界 3"
+ pc_ringworld_machine_science_engineering_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强工程学的研究和效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_military_alpha: "军事机械环世界 1"
+ pc_ringworld_machine_military_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加军事单位的管理能力。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_military_beta: "军事机械环世界 2"
+ pc_ringworld_machine_military_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加军事单位的管理能力。摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_military_ceta: "军事机械环世界 3"
+ pc_ringworld_machine_military_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增加军事单位的管理能力。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_unity_alpha: "联合机械环世界 1"
+ pc_ringworld_machine_unity_alpha_desc: "一个巨大的环世界环绕着太阳的一部分 Augmented to allow for increased generation of unity.摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_unity_beta: "联合机械环世界 2"
+ pc_ringworld_machine_unity_beta_desc: "一个巨大的环世界环绕着太阳的一部分 Augmented to allow for greater generation of unity.摆脱了行星、球形存在的限制。"
+ pc_ringworld_machine_unity_ceta: "联合机械环世界 3"
+ pc_ringworld_machine_unity_ceta_desc: "一个巨大的环世界环绕着太阳的一部分 Augmented to allow for maximum generation of unity.摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_assimilator_ruined: "毁坏的同化者环世界"
+ pc_ringworld_machine_assimilator_ruined_desc: "一个巨大的环世界环绕着太阳的一部分。这部分地区遭受了巨大的破坏，但至少在一定程度上仍可居住。"
+ 
+ pc_ringworld_machine_assimilator_alpha: "同化者机械环世界 1"
+ pc_ringworld_machine_assimilator_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加科学和文化的输出。"
+ pc_ringworld_machine_assimilator_beta: "同化者机械环世界 2"
+ pc_ringworld_machine_assimilator_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加科学和文化的输出。"
+ pc_ringworld_machine_assimilator_ceta: "同化者机械环世界 3"
+ pc_ringworld_machine_assimilator_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增加科学和文化的输出。"
+   
+
+ pc_ringworld_machine_exterminator_ruined: "毁坏的净化者环世界"
+ pc_ringworld_machine_exterminator_ruined_desc: "一个巨大的环世界环绕着太阳的一部分。这部分地区遭受了巨大的破坏，但至少在一定程度上仍可居住。"
+ 
+ pc_ringworld_machine_exterminator_alpha: "净化者机械环世界 1"
+ pc_ringworld_machine_exterminator_alpha_desc: "一个巨大的环世界环绕着太阳的一部分增强对有机终止的管理。"
+ pc_ringworld_machine_exterminator_beta: "净化者机械环世界 2"
+ pc_ringworld_machine_exterminator_beta_desc: "一个巨大的环世界环绕着太阳的一部分增强对有机终止的管理。"
+ pc_ringworld_machine_exterminator_ceta: "净化者机械环世界 3"
+ pc_ringworld_machine_exterminator_ceta_desc: "一个巨大的环世界环绕着太阳的一部分增强对有机终止的管理。"
+ 
+ pc_ringworld_machine_servitor_ruined: "毁坏的机仆环世界"
+ pc_ringworld_machine_servitor_ruined_desc: "一个巨大的环世界环绕着太阳的一部分。这部分地区遭受了巨大的破坏，但至少在一定程度上仍可居住。"
+  
+   
+ pc_ringworld_machine_servitor_alpha: "机仆机械环世界 1"
+ pc_ringworld_machine_servitor_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增强有机生物的环境。"
+ pc_ringworld_machine_servitor_beta: "机仆机械环世界 2"
+ pc_ringworld_machine_servitor_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强有机生物的环境。"
+ pc_ringworld_machine_servitor_ceta: "机仆机械环世界 3"
+ pc_ringworld_machine_servitor_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强有机生物的环境。"
+
+
+ 
+ pc_ringworld_machine_ruined_tile: "破旧的控制论环世界镀层"
+ pc_ringworld_machine_ruined_tile_desc: "古金属地形与大部分破坏的地下超导晶格相互交织。"
+ 
+ 
+ pc_ringworld_habitable_machine_tile: "控制论环世界镀层"
+ pc_ringworld_habitable_machine_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_energy_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_energy_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_energy_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_energy_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_energy_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_energy_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+
+ pc_ringworld_machine_mineral_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_mineral_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_mineral_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_mineral_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_mineral_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_mineral_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_science_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_science_physics_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_physics_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_science_physics_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_physics_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_science_society_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_society_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_science_society_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_society_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_science_engineering_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_engineering_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_science_engineering_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_science_engineering_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_military_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_military_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_military_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_military_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_military_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_military_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_unity_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_unity_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_unity_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_unity_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_unity_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_unity_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_assimilator_ruined_tile: "破旧的控制论环世界镀层"
+ pc_ringworld_machine_assimilator_ruined_tile_desc: "古金属地形与大部分破坏的地下超导晶格相互交织。"
+ 
+ pc_ringworld_machine_assimilator_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_assimilator_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_assimilator_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_assimilator_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_assimilator_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_assimilator_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_exterminator_ruined_tile: "破旧的控制论环世界镀层"
+ pc_ringworld_machine_exterminator_ruined_tile_desc: "古金属地形与大部分破坏的地下超导晶格相互交织。"
+ 
+ pc_ringworld_machine_exterminator_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_exterminator_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_exterminator_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_exterminator_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_exterminator_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_exterminator_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_machine_servitor_ruined_tile: "破旧的控制论环世界镀层"
+ pc_ringworld_machine_servitor_ruined_tile_desc: "古金属地形与大部分破坏的地下超导晶格相互交织。"
+ 
+ pc_ringworld_machine_servitor_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_machine_servitor_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_servitor_beta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_servitor_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_servitor_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_machine_servitor_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+
+ pc_habitat_machine_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_energy_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_energy_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_energy_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_energy_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_energy_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_energy_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_mineral_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_mineral_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_mineral_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_mineral_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_mineral_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_mineral_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_science_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_science_physics_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_physics_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_science_physics_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_physics_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_science_society_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_society_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_science_society_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_society_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_science_engineering_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_engineering_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_science_engineering_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_science_engineering_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+  
+ pc_habitat_machine_military_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_military_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_military_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_military_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_military_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_military_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_unity_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_unity_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_unity_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_unity_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_unity_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_unity_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_assimilator_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_assimilator_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_assimilator_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_assimilator_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_assimilator_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_assimilator_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_exterminator_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_exterminator_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_exterminator_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_exterminator_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_exterminator_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_exterminator_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ pc_habitat_machine_servitor_alpha_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_servitor_alpha_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_servitor_beta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_servitor_beta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ pc_habitat_machine_servitor_ceta_tile:0 "控制论栖息地地形"
+ pc_habitat_machine_servitor_ceta_tile_desc:0 "人造重力发电机上的系统，以及被屏蔽了地下超导晶格。"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pc_ringworld_habitable_machine: "机械环世界"
+ pc_ringworld_habitable_machine_desc: "一个巨大的环世界环绕着太阳的一部分\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
+ pc_ringworld_penrose_machine_tile: "控制论地形"
+ pc_ringworld_penrose_machine_tile_desc: "被屏蔽的亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_energy_alpha: "能源机械环世界 1"
+ pc_ringworld_penrose_machine_energy_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加允许增加能量收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_energy_beta: "能源机械环世界 2"
+ pc_ringworld_penrose_machine_energy_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了能量的收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_energy_ceta: "能源机械环世界 3"
+ pc_ringworld_penrose_machine_energy_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强了能量的收集和效力。摆脱了行星、球形存在的限制。"
+
+ pc_ringworld_penrose_machine_mineral_alpha: "矿物机械环世界 1"
+ pc_ringworld_penrose_machine_mineral_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加了矿物的收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_mineral_beta: "矿物机械环世界 2"
+ pc_ringworld_penrose_machine_mineral_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了矿物的收集和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_mineral_ceta: "矿物机械环世界 3"
+ pc_ringworld_penrose_machine_mineral_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。允许最大限度地收集矿物和提高效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_science_alpha: "科研机械环世界 1"
+ pc_ringworld_penrose_machine_science_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。以作为研究的基础。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_science_physics_beta: "物理学机械环世界 2"
+ pc_ringworld_penrose_machine_science_physics_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强以允许更大的物理研究和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_science_physics_ceta: "物理学机械环世界 3"
+ pc_ringworld_penrose_machine_science_physics_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了物理的研究和效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_science_society_beta: "社会学机械环世界 2"
+ pc_ringworld_penrose_machine_science_society_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强社会的研究和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_science_society_ceta: "社会学机械环世界 3"
+ pc_ringworld_penrose_machine_science_society_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强社会的研究和效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_science_engineering_beta: "工程学机械环世界 2"
+ pc_ringworld_penrose_machine_science_engineering_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强工程学的研究和效率。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_science_engineering_ceta: "工程学机械环世界 3"
+ pc_ringworld_penrose_machine_science_engineering_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强工程学的研究和效率。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_military_alpha: "军事机械环世界 1"
+ pc_ringworld_penrose_machine_military_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加军事单位的管理能力。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_military_beta: "军事机械环世界 2"
+ pc_ringworld_penrose_machine_military_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加军事单位的管理能力。摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_military_ceta: "军事机械环世界 3"
+ pc_ringworld_penrose_machine_military_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增加军事单位的管理能力。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_unity_alpha: "联合机械环世界 1"
+ pc_ringworld_penrose_machine_unity_alpha_desc: "一个巨大的环世界环绕着太阳的一部分 Augmented to allow for increased generation of unity.摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_unity_beta: "联合机械环世界 2"
+ pc_ringworld_penrose_machine_unity_beta_desc: "一个巨大的环世界环绕着太阳的一部分 Augmented to allow for greater generation of unity.摆脱了行星、球形存在的限制。"
+ pc_ringworld_penrose_machine_unity_ceta: "联合机械环世界 3"
+ pc_ringworld_penrose_machine_unity_ceta_desc: "一个巨大的环世界环绕着太阳的一部分 Augmented to allow for maximum generation of unity.摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_penrose_machine_assimilator_alpha: "同化者机械环世界 1"
+ pc_ringworld_penrose_machine_assimilator_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增加科学和文化的输出。"
+ pc_ringworld_penrose_machine_assimilator_beta: "同化者机械环世界 2"
+ pc_ringworld_penrose_machine_assimilator_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加科学和文化的输出。"
+ pc_ringworld_penrose_machine_assimilator_ceta: "同化者机械环世界 3"
+ pc_ringworld_penrose_machine_assimilator_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增加科学和文化的输出。"
+   
+ pc_ringworld_penrose_machine_exterminator_alpha: "净化者机械环世界 1"
+ pc_ringworld_penrose_machine_exterminator_alpha_desc: "一个巨大的环世界环绕着太阳的一部分增强对有机终止的管理。"
+ pc_ringworld_penrose_machine_exterminator_beta: "净化者机械环世界 2"
+ pc_ringworld_penrose_machine_exterminator_beta_desc: "一个巨大的环世界环绕着太阳的一部分增强对有机终止的管理。"
+ pc_ringworld_penrose_machine_exterminator_ceta: "净化者机械环世界 3"
+ pc_ringworld_penrose_machine_exterminator_ceta_desc: "一个巨大的环世界环绕着太阳的一部分增强对有机终止的管理。"
+   
+ pc_ringworld_penrose_machine_servitor_alpha: "机仆机械环世界 1"
+ pc_ringworld_penrose_machine_servitor_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。增强有机生物的环境。"
+ pc_ringworld_penrose_machine_servitor_beta: "机仆机械环世界 2"
+ pc_ringworld_penrose_machine_servitor_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增强有机生物的环境。"
+ pc_ringworld_penrose_machine_servitor_ceta: "机仆机械环世界 3"
+ pc_ringworld_penrose_machine_servitor_ceta_desc: "一个巨大的环世界环绕着太阳的一部分。增强有机生物的环境。"
+
+ pc_ringworld_penrose_habitable_machine_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_habitable_machine_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_energy_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_energy_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_energy_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_energy_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_energy_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_energy_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+
+ pc_ringworld_penrose_machine_mineral_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_mineral_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_mineral_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_mineral_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_mineral_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_mineral_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_science_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_science_physics_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_physics_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_science_physics_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_physics_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_science_society_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_society_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_science_society_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_society_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_science_engineering_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_engineering_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_science_engineering_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_science_engineering_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_military_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_military_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_military_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_military_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_military_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_military_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_unity_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_unity_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_unity_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_unity_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_unity_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_unity_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_assimilator_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_assimilator_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_assimilator_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_assimilator_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_assimilator_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_assimilator_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_ringworld_penrose_machine_exterminator_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_exterminator_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_exterminator_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_exterminator_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_exterminator_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_exterminator_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_servitor_alpha_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_servitor_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_servitor_beta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_servitor_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_penrose_machine_servitor_ceta_tile: "控制论环世界镀层"
+ pc_ringworld_penrose_machine_servitor_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ 
+ 
+ 
+ 
+ 
+ pc_squareworld_habitable_desc:0 "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。"
+ 
+ 
+ pc_square_ringworld_habitable_machine: "机械环世界"
+ pc_square_ringworld_habitable_machine_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。"
+ pc_square_ringworld_machine_tile: "控制论地形"
+ pc_square_ringworld_machine_tile_desc: "被屏蔽的地下超导晶格。"
+ 
+ pc_square_ringworld_machine_energy_alpha: "能源机械环世界 1"
+ pc_square_ringworld_machine_energy_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增加能量收集和有效效率。"
+ pc_square_ringworld_machine_energy_beta: "能源机械环世界 2"
+ pc_square_ringworld_machine_energy_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增加能量收集和有效效率。"
+ pc_square_ringworld_machine_energy_ceta: "能源机械环世界 3"
+ pc_square_ringworld_machine_energy_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增加能量收集和有效效率。"
+
+ pc_square_ringworld_machine_mineral_alpha: "矿物机械环世界 1"
+ pc_square_ringworld_machine_mineral_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增加矿物的收集和效率。"
+ pc_square_ringworld_machine_mineral_beta: "矿物机械环世界 2"
+ pc_square_ringworld_machine_mineral_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增加矿物的收集和效率。"
+ pc_square_ringworld_machine_mineral_ceta: "矿物机械环世界 3"
+ pc_square_ringworld_machine_mineral_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增加矿物的收集和效率。"
+ 
+ pc_square_ringworld_machine_science_alpha: "科研机械环世界 1"
+ pc_square_ringworld_machine_science_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。扩充成为增加研究的基础。"
+ 
+ pc_square_ringworld_machine_science_physics_beta: "物理学机械环世界 2"
+ pc_square_ringworld_machine_science_physics_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强以允许更大的物理研究和效率。"
+ pc_square_ringworld_machine_science_physics_ceta: "物理学机械环世界 3"
+ pc_square_ringworld_machine_science_physics_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加了物理的研究和效率。"
+ 
+ pc_square_ringworld_machine_science_society_beta: "社会学机械环世界 2"
+ pc_square_ringworld_machine_science_society_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强社会的研究和效率。"
+ pc_square_ringworld_machine_science_society_ceta: "社会学机械环世界 3"
+ pc_square_ringworld_machine_science_society_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强社会的研究和效率。"
+ 
+ pc_square_ringworld_machine_science_engineering_beta: "工程学机械环世界 2"
+ pc_square_ringworld_machine_science_engineering_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强工程学的研究和效率。"
+ pc_square_ringworld_machine_science_engineering_ceta: "工程学机械环世界 3"
+ pc_square_ringworld_machine_science_engineering_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强工程学的研究和效率。"
+ 
+ pc_square_ringworld_machine_military_alpha: "军事机械环世界 1"
+ pc_square_ringworld_machine_military_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加军事单位的管理能力。"
+ pc_square_ringworld_machine_military_beta: "军事机械环世界 2"
+ pc_square_ringworld_machine_military_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加军事单位的管理能力。"
+ pc_square_ringworld_machine_military_ceta: "军事机械环世界 3"
+ pc_square_ringworld_machine_military_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加军事单位的管理能力。"
+ 
+ pc_square_ringworld_machine_unity_alpha: "联合机械环世界 1"
+ pc_square_ringworld_machine_unity_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。 Augmented to allow for increased generation of unity."
+ pc_square_ringworld_machine_unity_beta: "联合机械环世界 2"
+ pc_square_ringworld_machine_unity_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。 Augmented to allow for greater generation of unity."
+ pc_square_ringworld_machine_unity_ceta: "联合机械环世界 3"
+ pc_square_ringworld_machine_unity_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。让我们能获得最大的凝聚力。"
+  
+ pc_square_ringworld_machine_assimilator_alpha: "同化者机械环世界 1"
+ pc_square_ringworld_machine_assimilator_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加科学和文化的输出。"
+ pc_square_ringworld_machine_assimilator_beta: "同化者机械环世界 2"
+ pc_square_ringworld_machine_assimilator_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加科学和文化的输出。"
+ pc_square_ringworld_machine_assimilator_ceta: "同化者机械环世界 3"
+ pc_square_ringworld_machine_assimilator_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增加科学和文化的输出。"
+ 
+ pc_square_ringworld_machine_exterminator_alpha: "净化者机械环世界 1"
+ pc_square_ringworld_machine_exterminator_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增强对有机终止的管理。"
+ pc_square_ringworld_machine_exterminator_beta: "净化者机械环世界 2"
+ pc_square_ringworld_machine_exterminator_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。增强对有机终止的管理。"
+ pc_square_ringworld_machine_exterminator_ceta: "净化者机械环世界 3"
+ pc_square_ringworld_machine_exterminator_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。扩大允许最大限度地管理有机终止。"
+ 
+  
+ pc_square_ringworld_machine_servitor_alpha: "机仆机械环世界 1"
+ pc_square_ringworld_machine_servitor_alpha_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强有机生物的环境。"
+ pc_square_ringworld_machine_servitor_beta: "机仆机械环世界 2"
+ pc_square_ringworld_machine_servitor_beta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强有机生物的环境。"
+ pc_square_ringworld_machine_servitor_ceta: "机仆机械环世界 3"
+ pc_square_ringworld_machine_servitor_ceta_desc: "一个位于方形世界上的特殊栖息地。这个地方奇特的景色和自然景色使许多人着迷。。增强有机生物的环境。"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pc_square_ringworld_habitable_machine_tile: "控制论环世界镀层"
+ pc_square_ringworld_habitable_machine_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_energy_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_energy_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_energy_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_energy_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_energy_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_energy_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+
+ pc_square_ringworld_machine_mineral_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_mineral_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_mineral_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_mineral_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_mineral_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_mineral_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_science_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_science_physics_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_physics_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_science_physics_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_physics_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_science_society_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_society_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_science_society_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_society_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_science_engineering_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_engineering_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_science_engineering_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_science_engineering_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_military_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_military_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_military_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_military_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_military_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_military_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_unity_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_unity_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_unity_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_unity_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_unity_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_unity_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_assimilator_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_assimilator_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_assimilator_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_assimilator_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_assimilator_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_assimilator_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 
+ pc_square_ringworld_machine_exterminator_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_exterminator_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_exterminator_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_exterminator_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_exterminator_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_exterminator_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_servitor_alpha_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_servitor_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_servitor_beta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_servitor_beta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_square_ringworld_machine_servitor_ceta_tile: "控制论环世界镀层"
+ pc_square_ringworld_machine_servitor_ceta_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ 

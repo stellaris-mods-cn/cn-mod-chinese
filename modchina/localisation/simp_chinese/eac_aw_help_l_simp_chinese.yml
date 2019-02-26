@@ -1,0 +1,56 @@
+﻿l_simp_chinese:
+
+#################################
+# EAC At War Help System        #
+#################################
+
+# Main Screen
+ eac_aw_help.1.name:0 "EAC: 战争帮助系统"
+ eac_aw_help.1.desc:0 "选择下面的选项."
+ eac_aw_help.1.EnableAiShield:0 "允许AI建造星球护盾发生器"
+ eac_aw_help.1.EnableAiShield.tooltip:0 "设置一个标志，使AI能够在拥有该技术的情况下建造星球护盾发生器。但常规不允许如此。"
+ eac_aw_help.1.DisableAiShield:0 "阻止AI建造星球护盾发生器"
+ eac_aw_help.1.DisableAiShield.tooltip:0 "清除允许AI建造星球护盾发生器的标志，如果他们拥有该技术。但常规不允如许。"
+ eac_aw_help.option_blank:0 " "
+
+ eac_aw_help.1.VanillaCitadels:0 "使用常规大本营核心部分"
+ eac_aw_help.1.VanillaCitadels.tooltip:0 "“常规堡垒”核心部分有1个鱼雷和12个中型武器插槽。"
+ eac_aw_help.1.LargeGunCitadels:0 "使用大型武器堡垒核心部分"
+ eac_aw_help.1.LargeGunCitadels.tooltip:0 "这个堡垒核心部分有1个鱼雷和12个大型武器槽。"
+
+ eac_aw_help.1.EnableAdvancedCarriers:0 "启用先进的航母技术"
+ eac_aw_help.1.EnableAdvancedCarriers.tooltip:0 "§Y目前禁用§!\n\n设置一个标志，允许先进的航母技术出现在游戏中。"
+ eac_aw_help.1.DisableAdvancedCarriers:0 "禁用先进的航母技术"
+ eac_aw_help.1.DisableAdvancedCarriers.tooltip:0 "§Y目前启用§!\n\n清除允许先进的航母技术出现在游戏中的标志。"
+
+ eac_aw_help.1.EnableLightCarriers:0 "启用轻母巡洋舰技术"
+ eac_aw_help.1.EnableLightCarriers.tooltip:0 "§Y目前禁用§!\n\n设置一个标志，允许轻型载波技术出现在游戏中。"
+ eac_aw_help.1.DisableLightCarriers:0 "禁用轻母巡洋舰技术"
+ eac_aw_help.1.DisableLightCarriers.tooltip:0 "§Y目前启用§!\n\n清除允许轻母巡洋舰技术出现在游戏中的标志。"
+
+ eac_aw_help.1.EnableHeavyDefensePlatforms:0 "启用重型防御平台"
+ eac_aw_help.1.EnableHeavyDefensePlatforms.tooltip:0 "§Y目前禁用§!\n\n设置一个标志，允许重型防御平台技术出现在游戏中。"
+ eac_aw_help.1.DisableHeavyDefensePlatforms:0 "禁用重型防御平台"
+ eac_aw_help.1.DisableHeavyDefensePlatforms.tooltip:0 "§Y目前启用§!\n\n清除允许重型防御平台技术出现在游戏中的标志。"
+
+ eac_aw_help.1.EnableSpaceMarines:0 "启用太空陆战队"
+ eac_aw_help.1.EnableSpaceMarines.tooltip:0 "§Y目前禁用§!\n\n设置一个标志，允许太空陆战队技术出现在游戏中。"
+ eac_aw_help.1.DisableSpaceMarines:0 "禁用太空陆战队"
+ eac_aw_help.1.DisableSpaceMarines.tooltip:0 "§Y目前启用§!\n\n清除允许太空陆战队技术出现在游戏中的标志。"
+
+ eac_aw_help.1.HelpSystem:0 "显示EAC: 战争帮助系统"
+ eac_aw_help.1.HelpSystem.tooltip:0  "打开这个mod的帮助系统。"
+
+ eac_aw_help.2.name:0 "EAC: 战争帮助系统"
+ eac_aw_help.2.desc:0 "选择下面的选项。" eac_aw_help.1.MissileCruisers:0 "技术: $eac_aw_tech_missile_cruiser$"
+ eac_aw_help.2.MissileCruisers:0 "技术: $eac_aw_tech_missile_cruiser$"
+ eac_aw_help.2.AdvancedCarriers:0 "技术: $eac_aw_tech_advanced_carrier$"
+ eac_aw_help.2.NaniteCloud:0 "技术: $eac_aw_tech_nanite_clouds$"
+ eac_aw_help.2.DefensePlatforms:0 "技术: $eac_aw_tech_repeatable_starbase_defense_platform_capacity_add$ (可重复)"
+ eac_aw_help.2.PlanetaryCannons:0 "建筑:行星炮"
+
+ eac_aw_help_main_menu:0 "帮助主菜单"
+
+ # Missle Cruisers
+ eac_aw_help.3.name:0 "$eac_aw_tech_missile_cruiser$"
+ eac_aw_help.3.desc:0 "\n£help_missile_cruisers \n\n\n这项技术增加了一个新的舰首， §H$EAC_CRUISER_BOW_G2$§!, 和其核心部分, §H$EAC_CRUISER_MID_G3$§!, 对巡洋舰分别提供2个点防御槽和3个导弹槽。"

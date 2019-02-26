@@ -1,0 +1,13 @@
+﻿l_simp_chinese: 
+ # Mechs
+ tech_alpha_lightmechs:0 "轻型战斗机甲"
+ tech_alpha_lightmechs_desc:1 "是时候训练我们最好的战士来驾驶快速机械战机了。"
+ tech_alpha_mediummechs:0 "中型战斗机甲"
+ tech_alpha_mediummechs_desc:1 "现在是训练我们最好的战士来驾驶大型机械战争机器的时候了。"
+ tech_alpha_heavymechs:0 "重型战斗机甲"
+ tech_alpha_heavymechs_desc:1 "现在是训练我们最好的战士来驾驶重型机械战争机器的时候了。"
+ tech_alpha_assaultmechs:0 "突击机甲"
+ tech_alpha_assaultmechs_desc:1 "现在是训练我们最好的战士来操控大型机械战争机器的时候了。"
+
+ tech_alpha_farmdroids:0 "机器农场"
+ tech_alpha_farmdroids_desc:1 "通过一些巧妙的编程，使它们变得更专业，以及对其机械功能的适应，使机器人成为高效的农民并不难。"

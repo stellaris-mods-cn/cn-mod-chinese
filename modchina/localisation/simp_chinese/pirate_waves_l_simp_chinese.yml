@@ -1,0 +1,106 @@
+﻿l_simp_chinese:
+
+####################################
+# Policy Settings
+####################################
+
+# Spawn chance
+policy_pirate_waves:0 "海盗波"
+policy_pirate_waves_desc:0 "这决定海盗出现的几率\n"
+pirate_waves_0:0 "禁用"
+pirate_waves_0_name:0 "海盗将不会出现。"
+pirate_waves_0_desc:0 "将不会出现新的海盗\n"
+pirate_waves_1:0 "100个月"
+pirate_waves_1_name:0 "海盗产生概率：1%"
+pirate_waves_1_desc:0 "海盗每100个月会生成 (1% 每个月的生产几率)\n"
+pirate_waves_2:0 "50个月"
+pirate_waves_2_name:0 "海盗产生概率：2%"
+pirate_waves_2_desc:0 "海盗每50个月会生成 (2% 每个月的生产几率)\n"
+pirate_waves_3:0 "33个月"
+pirate_waves_3_name:0 "海盗产生概率：3%"
+pirate_waves_3_desc:0 "海盗每33个月会生成 (3% 每个月的生产几率)\n"
+pirate_waves_4:0 "25个月"
+pirate_waves_4_name:0 "海盗产生概率：4%"
+pirate_waves_4_desc:0 "海盗每25个月会生成 (4% 每个月的生产几率)\n"
+pirate_waves_5:0 "20个月"
+pirate_waves_5_name:0 "海盗产生概率：5%"
+pirate_waves_5_desc:0 "海盗每20个月会生成 (5% 每个月的生产几率)\n"
+pirate_waves_6:0 "17个月"
+pirate_waves_6_name:0 "海盗产生概率：6%"
+pirate_waves_6_desc:0 "海盗每17个月会生成 (6% 每个月的生产几率)\n"
+pirate_waves_7:0 "14个月"
+pirate_waves_7_name:0 "海盗产生概率：7%"
+pirate_waves_7_desc:0 "海盗每14个月会生成 (7% 每个月的生产几率)\n"
+pirate_waves_8:0 "12个月"
+pirate_waves_8_name:0 "海盗产生概率：8%"
+pirate_waves_8_desc:0 "海盗每12个月会生成 (8% 每个月的生产几率)\n"
+pirate_waves_9:0 "11个月"
+pirate_waves_9_name:0 "海盗产生概率：9%"
+pirate_waves_9_desc:0 "海盗每11个月会生成 (9% 每个月的生产几率)）\n"
+pirate_waves_10:0 "10个月"
+pirate_waves_10_name:0 "海盗产生概率：10%"
+pirate_waves_10_desc:0 "海盗每10个月会生成 (10% 每个月的生产几率)\n"
+pirate_waves_15:0 "7个月"
+pirate_waves_15_name:0 "海盗产生概率：15%"
+pirate_waves_15_desc:0 "海盗每7个月会生成 (15% 每个月的生产几率)\n"
+pirate_waves_20:0 "5个月"
+pirate_waves_20_name:0 "海盗产生概率：20%"
+pirate_waves_20_desc:0 "海盗每5个月会生成 (20% 每个月的生产几率)\n"
+pirate_waves_25:0 "4个月"
+pirate_waves_25_name:0 "海盗产生概率：25%"
+pirate_waves_25_desc:0 "海盗每4个月会生成 (25% 每个月的生产几率)\n"
+pirate_waves_35:0 "3个月"
+pirate_waves_35_name:0 "海盗产生概率：35%"
+pirate_waves_35_desc:0 "海盗每3个月会生成 (35% 每个月的生产几率)\n"
+pirate_waves_50:0 "2个月"
+pirate_waves_50_name:0 "海盗产生概率：50%"
+pirate_waves_50_desc:0 "海盗每2个月会生成 (50% 每个月的生产几率)\n"
+pirate_waves_100:0 "每个月"
+pirate_waves_100_name:0 "海盗产生概率：100%"
+pirate_waves_100_desc:0 "海盗每1个月会生成 (100% 每个月的生产几率)\n"
+
+# Difficulty
+policy_pirate_waves_difficulty:0 "海盗波 难度"
+policy_pirate_waves_difficulty_desc:0 "这个政策可以设置海盗波的难度\n"
+pirate_waves_very_easy:0 "入门"
+pirate_waves_very_easy_name:0 "难度:非常简单"
+pirate_waves_very_easy_desc:0 "舰队规模：非常小\n"
+pirate_waves_easy:0 "初级"
+pirate_waves_easy_name:0 "难度:简单"
+pirate_waves_easy_desc:0 "舰队规模：小\n"
+pirate_waves_medium:0 "中级"
+pirate_waves_medium_name:0 "难度:普通"
+pirate_waves_medium_desc:0 "舰队规模：一般\n"
+pirate_waves_hard:0 "高级"
+pirate_waves_hard_name:0 "难度:困难"
+pirate_waves_hard_desc:0 "舰队规模：大\n"
+pirate_waves_insane:0 "超级"
+pirate_waves_insane_name:0 "难度:疯狂"
+pirate_waves_insane_desc:0 "舰队规模：非常大\n"
+
+####################################
+# Renaming
+####################################
+
+pirate_cruiser:0 "$cruiser$"
+pirate_cruiser_plural:0 "$cruiser_plural$"
+
+####################################
+# Event Chain
+####################################
+
+pirate_waves_pirate_event_chain_title:0 "$pirate.5.name$"
+pirate_waves_pirate_event_chain_desc:0 "在这里，您可以查看与$pirate_waves_pirate_event_chain_title$相关的统计信息:"
+pirate_kills_us:0 "§G$pirate_waves_pirate_event_chain_title$被我们摧毁§!"
+pirate_kills_others:0 "§B$pirate_waves_pirate_event_chain_title$被其他摧毁§!"
+pirate_kills_pirates:0 "§M$pirate_waves_pirate_event_chain_title$被摧毁$pirate_waves_pirate_event_chain_title$§!"
+pirate_victims_us:0 "§R我们的舰船被$pirate_waves_pirate_event_chain_title$§!"
+pirate_victims_others:0 "§Y其他被$pirate_waves_pirate_event_chain_title$§!摧毁的舰船"
+
+####################################
+# Notifications
+####################################
+
+pirate_waves.50.name:0 "$pirate.50.name$"
+pirate_waves.50.desc:0 "$pirate.5.desc$"
+pirate_waves.50.a:0 "$pirate.50.a$"

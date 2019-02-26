@@ -1,0 +1,69 @@
+﻿l_simp_chinese:
+
+ apsr.2.title:0 "奇异天体"
+ apsr.2.desc:0 "$RULER$，在我们观测新恒星诞生的过程中，我们的天文学家从一颗来自遥远星系的未知行星中接收到一段奇怪的信号，经过多次尝试后，我们已将其成功解密，遗憾的是，信号在传输过程中因受到超新星干扰而严重失真，但我们已经理解了其中一部分信息。大意是说，在我们的星系中，有一些行星具有极高的开发价值：从完全由奇异物质组成的行星，到包含会对生活在之上的生命体造成潜移默化影响的人造物的行星，不一而足。虽然直到现在我们也不知道是谁发出了这个信号，但我们认为绝非空穴来风，也许有朝一日我们会揭开它们的秘密。"
+ apsr.2.button:1 "我们必须捷足先登！"
+ apsr.2.desc_with_civic:0 "$RULER$, 在观测新恒星诞生的同时，我们的天文学家收到了一个来自遥远星系的未知行星发出的奇怪信号。在多次攻击之后，我们成功地进行了解密。不幸的是，由于超新星的存在，信号被严重破坏，但我们已经了解了它的一些部分。\n据说!在我们的星系有§M一些星球§，可以给他们的主人带来巨大的利益:从行星上完全由奇怪的物质组成的行星，这些行星包含着对生活在这里的人们产生影响的奇怪的物品。\n显然，我们不知道是谁发出了这个信号，但看起来这是关于我们星球上的一个地方。如果这是真的，那么银河系中还有其他拥有类似资源的行星。我们应该找到他们。"
+ apsr.2.button_with_civic:1 "这是我们的优势。"
+
+
+ apsr_beacons_title:0 "奇异天体"
+ apsr_beacons_desc:0 "我们接收到一段严重干扰的信息，大意是说我们星系中有一些行星是独一无二的，具有不可思议的特征。"
+
+ AI_discount_APSR:0 "AI加成"
+ apsr_unique_building_build_cost_mult:0 "APSR建造成本"
+ apsr_unique_building_construction_speed_mult:0 "APSR建造速度"
+ apsr1_anomaly_research_speed_mult:0 "APSR异常点 1 研究时间"
+ apsr2_anomaly_research_speed_mult:0 "APSR异常点 2 研究时间"
+ apsr3_anomaly_research_speed_mult:0 "APSR异常点 3 研究时间"
+ apsr4_anomaly_research_speed_mult:0 "APSR异常点 4 研究时间"
+ apsr5_anomaly_research_speed_mult:0 "APSR异常点 5 研究时间"
+ apsr6_anomaly_research_speed_mult:0 "APSR异常点 6 研究时间"
+ apsr7_anomaly_research_speed_mult:0 "APSR异常点 7 研究时间"
+ apsr8_anomaly_research_speed_mult:0 "APSR异常点 8 研究时间"
+ apsr9_anomaly_research_speed_mult:0 "APSR异常点 9 研究时间"
+ apsr10_anomaly_research_speed_mult:0 "APSR异常点 10 研究时间"
+ apsr11_anomaly_research_speed_mult:0 "APSR异常点 11 研究时间"
+ apsr12_anomaly_research_speed_mult:0 "APSR异常点 12 研究时间"
+ apsr13_anomaly_research_speed_mult:0 "APSR异常点 13 研究时间"
+ apsr14_anomaly_research_speed_mult:0 "APSR异常点 14 研究时间"
+ apsr15_anomaly_research_speed_mult:0 "APSR异常点 15 研究时间"
+ apsr16_anomaly_research_speed_mult:0 "APSR异常点 16 研究时间"
+ apsr17_anomaly_research_speed_mult:0 "APSR异常点 17 研究时间"
+ apsr18_anomaly_research_speed_mult:0 "APSR异常点 18 研究时间"
+ apsr19_anomaly_research_speed_mult:0 "APSR异常点 19 研究时间"
+ apsr20_anomaly_research_speed_mult:0 "APSR异常点 20 研究时间"
+ 
+ apsr_civic_unique_capital:0 "选择"
+ apsr_civic_unique_capital_desc:0 "这一种族是在一个资源异常丰富的星球上发展起来的。因此，由于长期的研究，像这样的资源变得非常容易使用。"
+ apsr_civic_unique_capital_effects:11 "§G$apsr_unique_building_build_cost_mult$§!降低2倍，§G$apsr_unique_building_construction_speed_mult$§!增加2倍。此外，§G研究新资源利用技术的机会§!也将增加。\n§M为开始资本添加一个独特的资源。§!\n\n§R注意! 这不会影响生成参数，因此可以复制资源!§!\n§Y资源数据: 1-6, 8, 10-15§!"
+
+
+
+ apsr_requires_building_capital:0 "§R需要§Y$building_capital_1$§!或§Y$building_machine_capital_1$§!在星球上§!"
+
+
+ ### новый ресурс
+  
+ apsr_knowledge:0 "远古知识"
+ apsr_knowledge_desc:0 "关于如何使用独特资源的信息。\n§M改善独特的建筑需要古老的知识。§!"
+ 
+ ### новые должности
+ 
+ apsr_planet_prospector_normal:0 "分析师"
+ job_apsr_prospector_normal:0 "分析师"
+ job_apsr_prospector_normal_plural:0 "分析师"
+ job_apsr_prospector_normal_desc:0 "他们对古代文明的数据库和知识进行分析和分层，使之适应现代条件"
+ mod_job_apsr_prospector_normal_add:0 "分析师"
+ 
+ apsr_planet_prospector_hive:0 "分析工蜂"
+ job_apsr_prospector_hive:0 "分析工蜂"
+ job_apsr_prospector_hive_plural:0 "分析工蜂"
+ job_apsr_prospector_hive_desc:0 "他们对古代文明的数据库和知识进行分析和分层，使之适应现代条件。"
+ mod_job_apsr_prospector_hive_add:0 "分析工蜂"
+ 
+ apsr_planet_prospector_machine:0 "分析单元"
+ job_apsr_prospector_machine:0 "分析单元"
+ job_apsr_prospector_machine_plural:0 "分析单元"
+ job_apsr_prospector_machine_desc:0 "T他们对古代文明的数据库和知识进行分析和分层，使之适应现代条件。"
+ mod_job_apsr_prospector_machine_add:0 "分析单元"

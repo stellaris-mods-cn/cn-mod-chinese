@@ -1,0 +1,14 @@
+﻿l_english:
+ ####################################
+ # Traits
+ ####################################
+
+ trait_ex_broken:0 "Broken"
+ trait_ex_broken_desc:0 "§LThis species suffered some catastrophic defeat in their distant past, scarring their bodies and psyche.§!"
+ trait_ex_ancient:0 "Ancient"
+ trait_ex_ancient_desc:0 "§LMost other sapients are like mayflies to this species.§!"
+ trait_ex_gef:0 "G.E.F."
+ trait_ex_gef_desc:0 "§LThese genetically engineered forces were specifically created to do all the empire's dirty work.§!"
+ trait_ex_monstrous:0 "Monstrous"
+ trait_ex_monstrous_effect:0 "§G+75%§! Morale damage and §G+10§! Leader lifespan, but other empires have §R-25§! Opinion."
+ trait_ex_monstrous_desc:0 "§LThis species is horrific. Even the most stalwart opponents find them terrifying.§!"

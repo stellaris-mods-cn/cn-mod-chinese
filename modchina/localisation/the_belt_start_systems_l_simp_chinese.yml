@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+
+
+sol_mars_system_initializer_NAME:0 "火星太阳系"
+ 
+sol_mars_system_initializer_DESC:0 "在一个不那么红的星球上。"
+sol_both_system_initializer_NAME:0 "地球和火星溶胶系统。"
+ 
+sol_both_system_initializer_DESC:0 "两个行星比一个好!通常…"
+sol_asteroid_system_initializer_NAME:0 "太阳小行星系"
+
+sol_asteroid_system_initializer_DESC:0 "模仿地球的太阳系，现在有可居住的小行星。"
+deneb_asteroid_system_initializer_NAME:0 "天津四小行星星系"
+
+deneb_asteroid_system_initializer_DESC:0 "人类开始的太阳系，现在有可居住的小行星。"

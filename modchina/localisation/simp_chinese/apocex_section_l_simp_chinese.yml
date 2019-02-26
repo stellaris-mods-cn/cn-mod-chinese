@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+#Cannon
+IMPROVED_ION_CANNON: "改良离子加农炮"
+STRIKER_CANNON: "前锋大炮核心"
+XL_CANNON: "XL大炮核心"
+HYBRID_CANNON: "混合炮核心"
+DOOMSDAY_CANNON: "世界末日炮核心"
+#Colossus
+SHIP_COLOSSUS_CARRIER: "巨像航母"
+SHIP_BATTLECOLOSSUS: "战列舰"
+SHIP_HARDENED_COLOSSUS: "硬化巨像"
+#TITANS
+TITAN_HANGER: "Titan Hanger"
+TITAN_SHIELD: "泰坦护盾"
+TITAN_DOOMSDAY_BOW: "世界末日舰首"

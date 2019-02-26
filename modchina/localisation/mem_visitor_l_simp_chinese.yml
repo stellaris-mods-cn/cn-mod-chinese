@@ -1,0 +1,156 @@
+﻿l_simp_chinese:
+ 
+ 
+ mem_visitor.2.name:0 "撞击事件"
+ mem_visitor.2.desc:0 "我们在§Y[mem_visitor_planet.GetName]§!上的观测站检测到大气层中的热识别信号，将其轮廓与进入大气层表面前的数据进行匹配并计算对地面的影响。 \n\n这是一颗足够小的小行星以至于可以溜过我们的传感器，理论上它会在撞击地面前燃烧殆尽，然而我们识别到不可能出现的地面撞击信号。撞击发生在人口密集地区之外，伤亡预计低到没有。"
+ mem_visitor.2a:0 "我们应该找回它。"
+ mem_visitor.2a.phile:0 "我们必须在污染文明前找到它。"
+ mem_visitor.2a.phobe:0 "不应该允许野蛮人获得这项技术。"
+ mem_visitor.2a.tooltip:0 "观测站的工作人员将试图找回该物体。"
+ mem_visitor.2b:0 "我们应该离开。"
+ mem_visitor.2b.phile:0 "落在他们星球上的东西是他们的。"
+ mem_visitor.2b.phobe:0 "忽略那个太空垃圾."
+ mem_visitor.2b.tooltip:0 "观测站的人员将将为当地人留下该物体。"
+ mem_visitor.2c:0 "在它引起任何麻烦之前将其净化。"
+ mem_visitor.2c.tooltip:0 "观察哨站的工作人员将用轨道攻击摧毁这个物体。"
+ 
+ mem_visitor.31.name:0 "担保对象"
+ mem_visitor.31.desc:0 "隐秘穿梭飞船搭载着观察站派出的特别小组成功在§Y[mem_visitor_planet.GetName]§!撞击现场着陆，并设法在任何当地居民到达之前取回了该物体。他们小心翼翼地把这个小的人造物体放在他们的手里，没有任何人注意到他们的行动。"
+ mem_visitor.31a:0 "干得好."
+ mem_visitor.31a.tooltip:0 "该物品将被送到我们的母星进行研究。"
+ 
+ mem_visitor.32.name:0 "我们太迟了"
+ mem_visitor.32.desc:0 "从§Y[mem_visitor_planet.GetName]§!观察站派遣特别小组已经太迟了。一群土著居民已经到达撞击地点并带走了那个小的不明物体。为了找回它，我们的行动人员将面临额外的危险，我们的整个行动都会暴露。"
+ mem_visitor.32a:0 "我们应该把它偷回来。"
+ mem_visitor.32a.tooltip:0 "观察站派遣一个小组秘密地从当地人那里夺回这个物体。"
+ mem_visitor.32b:0 "好吧，他们可以留着。"
+ mem_visitor.32b.tooltip:0 "当地人将被允许保留该物品。"
+ 
+ mem_visitor.41.name:0 "成功的抢劫"
+ mem_visitor.41.desc:0 "利用卫星图像，我们的团队成功地潜入了发现该物体的当地居民过夜的地点。我们的特工人员成功地偷走了这个物品，并没有引起注意，也没有造成伤害。"
+ mem_visitor.41a:0 "干得好."
+ 
+ mem_visitor.42.name:0 "一个不幸的事件"
+ mem_visitor.42.desc:0 "我们的团队成功地找到了在附近的居民点获得该物体的当地人。然而，在我们试图秘密地寻找它的时候，我们的特工被惊恐的土著发现并攻击，他们被我们外星人的外表吓坏了。 \n\n在接下来的战斗中，大多数袭击者都惊呆了，他们的记忆被抹去。然而，我们不能确定没有留下任何证人。不过这个物体已经找到了。"
+ mem_visitor.42a:0 "至少我们得到了一些结果。"
+ mem_visitor.42a.tooltip:0 "该物品将被送到我们的家园进行研究，但当地人可能会注意到我们的行为，变得更加倾向于§Y军国主义§!或§Y排外主义§!"
+ 
+ mem_visitor.43.name:0 "大屠杀"
+ mem_visitor.43.desc:0 "我们的团队成功地找到了在附近的居民点获得该物体的当地人。然而，在我们试图秘密地回收它的时候，我们的特工被惊恐的土著发现并攻击，他们被我们外星人的外表吓着了。 \n\n 大量袭击者被击毙，其余的人逃离。现在有这么多幸存的目击者和大屠杀的痕迹，很难控制局势。不过这个物体已经找到了。"
+ mem_visitor.43a:0 "最不幸的."
+ mem_visitor.43a.phile:0 "悲剧."
+ mem_visitor.43a.phobe:0 "失去了任何有价值的东西。"
+ mem_visitor.43a.tooltip:0 "这个物体将会被送到我们的家园去学习，但是当地人肯定会注意到我们的行为并变得更加倾向于§Y军国主义§!或§Y排外主义§!"
+ 
+ mem_visitor.44.name:0 "任务失败"
+ mem_visitor.44.desc:0 "我们的团队成功地找到了在附近的居民点获得该物体的当地人。然而，在我们试图秘密地回收它的时候，我们的特工们被惊恐的土著发现并攻击\n\n由于不愿对袭击者使用致命武力，回收小组试图逃跑，造成多名特工人员死亡或受伤，物品丢失并有可能导致信息泄露。"
+ mem_visitor.44a:0 "这是一个灾难."
+ mem_visitor.44a.phobe:0 "真的值得吗??"
+ mem_visitor.44a.tooltip:0 "任务失败了，而当地人可能会注意到我们最近的行动，并变得更加倾向于§Y军国主义§!或§Y排外主义§!"
+ ##Whoever wrote the above check 44a.tooltip. I think it should be the same as 45a.tooltip
+ mem_visitor.45.name:0 "任务失败"
+ mem_visitor.45.desc:0 "尽管观测站人员和回收小组作出了最大努力，但他们已经失去了对目标的追踪。我们必须等它再次出现。"
+ mem_visitor.45a:0 "最不幸的."
+ mem_visitor.45a.tooltip:0 "我们必须等着看这个物体是否会再次浮出水面。"
+ 
+ mem_visitor.5.name:0 "消灭"
+ mem_visitor.5.desc:0 "观察站的一架航天飞机从高空部署了一枚中型导弹。它直接击中了撞击地点。尘埃落定之后，我们观察到现在不再有任何能拾取的异物，如果幸运的话，我们可以将这次事件宣称是同一地点的第二次陨石撞击。"
+ mem_visitor.5a:0 "可能发生的事情?"
+ mem_visitor.5a.tooltip:0 "当地人也许会注意到我们的行为。"
+ 
+ mem_visitor.52.name:0 "消灭后:宗教的发展"
+ mem_visitor.52.desc:0 "我们在§Y[mem_visitor_planet.GetName]§!上的行动受到了当地人的注意。许多人把两次撞击作为一个神圣的标志，在弹坑边缘出现了多个仪式场所。一些基于该事件的宗教崇拜正在星球上蔓延。"
+ mem_visitor.52a:0 "有趣."
+ mem_visitor.52a.tooltip:0 "我们的行为使当地人变得更加倾向于§Y唯心主义§!"
+ 
+ mem_visitor.53.name:0 "消灭后:疑似外星人阴谋"
+ mem_visitor.53.desc:0 "看来§Y[mem_visitor_planet.GetName]§!当局已经将我们的行动认定为外星人入侵。他们不知道全部的情况，他们认为这个双重撞击是一种未知的外星力量，并正在考虑对国防工业和各种军事组织进行重大投资，以击退预期的入侵。"
+ mem_visitor.53a:0 "令人担忧"
+ mem_visitor.53a.phile:0 "我们做了什么!"
+ mem_visitor.53a.tooltip:0 "当地人注意到我们的行动，并准备为将来的入侵做准备。这将使他们更加倾向于§Y军国主义§!, §Y排外主义§!或§Y唯物主义§!"
+ 
+ mem_visitor.54.name:0 "消灭后:紧张关系"
+ mem_visitor.54.desc:0 "§Y[mem_visitor_planet.GetName]§!当局并没有怀疑有任何外星人的参与，但是他们也不知道陨石撞击的故事。关于发展和测试大规模毁灭性武器的指控正在蔓延，国际紧张局势比以往任何时候都要严重。"
+ mem_visitor.54a:0 "令人担忧"
+ mem_visitor.54a.phile:0 "我们做了什么?"
+ mem_visitor.54a.tooltip:0 "我们的行动引起了当地人的紧张。这使得他们更倾向于§Y军国主义§!可能导致未来主要国家之间的战争。"
+ 
+ mem_visitor.61.name:0 "没有找到"
+ mem_visitor.61.desc:0 "自从那个神秘的物体对§Y[mem_visitor_planet.GetName]§!的撞击表面产生了影响已经有一段时间了。从那以后我们就再也没有听说过它。我们在观测站的专家坚信，它永远消失了。"
+ mem_visitor.61a:0 "无事生非."
+ 
+ mem_visitor.62.name:0 "先知的明星"
+ mem_visitor.62.desc:0 "似乎那些找到物体的人现在都敬畏它作为某种神圣的实体。我们确定这个物体确实能够说话并且拥有一个基本的人工智能，但是它的不连贯的漫无边际的漫谈是不可能破译的，而且是完全无用的。它最初的目的是什么，它从何而来仍然是个谜。"
+ mem_visitor.62a:0 "但是它对社会的影响是非常有趣的。"
+ mem_visitor.62a.tooltip:0 "随着他们新发现的宗教领袖，当地人变得越来越倾向于§Ys唯心主义§!"
+ 
+ mem_visitor.63.name:0 "外星人的威胁"
+ mem_visitor.63.desc:0 "那个最近撞到§Y[mem_visitor_planet.GetName]§!的东西在一个由当地政府举办的展览会上出现。在一个顶级科学专家和主要国家领导人的聚会上，这个物体被揭开了，作为外星生命的决定性证据。 \n\n展览会上的发言指出了发现所指向的危险，以及需要采取什么措施来保护它。“这改变了一切，”首席科学家说，“我们必须做好准备。”"
+ mem_visitor.63a:0 "令人担忧."
+ mem_visitor.63a.phobe:0 "它不会拯救他们."
+ mem_visitor.63a.tooltip:0 "当地人正在准备对抗外星人入侵。这将使他们更加倾向于§Y军国主义§!, §Y排外主义§! or §Y唯物主义§!"
+ 
+ mem_visitor.64.name:0 "陌生的老师"
+ mem_visitor.64.desc:0 "关于那个最近撞到§Y[mem_visitor_planet.GetName]§!的东西!今天，该行星的主要科学家向大众透露了这一消息。它似乎是某种交互式数据库，为他们提供了先进的技术。 \n\n科学家们把这作为在太空深处等待的仁慈的智慧的决定性证据，他们敦促人们投资科学的进步，以在星球上与外星人相遇。."
+ mem_visitor.64a:0 "有趣."
+ mem_visitor.64a.phobe:0 "多么天真."
+ mem_visitor.64a.phile:0 "我们将等待."
+ mem_visitor.64a.tooltip:0 "随着外星知识在他们的星球上传播，当地人的进步也在加速。随着他们对外星知识的新认识，他们将变得更加倾向于§Y唯物主义§!或§Y排外主义§!"
+ 
+ mem_visitor.71.name:0 "空弹头"
+ mem_visitor.71.desc:0 "我们从§Y[mem_visitor_planet.GetName]§!那里找到了一些东西，结果没有我们希望的那么有趣。它的起源无疑是先进的和人工的，但不幸的是它是一种固体化合物的固体弹头。 \n\n在排除了所有的可能性，没有发现任何洞或其他隐藏的隔间之后，我们不得不承认，我们可能永远不会从中得到什么。幸运的是，对于我们的研究，这些东西的材料组成对我们的研究有一定的帮助。"
+ mem_visitor.71a:0 "至少我们得到了一些东西。"
+ 
+ mem_visitor.72.name:0 "疯狂球体"
+ mem_visitor.72.desc:0 "在§Y[mem_visitor_planet.GetName]§!表面坠落的物体原来是一种被包裹在球形外壳中的外星生物的计算机。我们无法确定任何关于它的创造者,但是当我们打开它,并建立一个连接到我们的一些电脑产生了疯狂的笑声并宣布自己是我们的霸王,但接着就意识到这是一个密封的有线网络，隔绝任何奴役我们的可能。 \n\n现在，如果我们把它接入一个更大的网络，它将给我们带来巨大的回报，但是我们的科学家们并不相信它。"
+ mem_visitor.72a:0 "也许我们能搞出某种交易?"
+ mem_visitor.72b:0 "破坏危险的机器."
+ mem_visitor.72c:0 "摧毁亵渎神明的机器!"
+ mem_visitor.72d:0 "拆开设备，研究它。"
+ mem_visitor.72a.tooltip:0 "我们的科学家将与这个东西进行谈判。"
+ 
+ mem_visitor.73.name:0 "任性的球体"
+ mem_visitor.73.desc:0 "从§Y[mem_visitor_planet.GetName]§!中找回的设备原来是一种被包裹在球形外壳中的外星生物的计算机。最值得注意的是它的健谈的本性。目前，它正以正常的方式发声，并通过多个无线电频率和闪烁的灯光向我们播放。 \n\n破译的信息始终是相同的——一个需要返回到一个循环空间的需求。然而，许多科学家却忍不住嘲笑该设备任性。"
+ mem_visitor.73a:0 "把它送回太空。"
+ mem_visitor.73b:0 "直播它横跨帝国的录像。"
+ 
+ MEM_VISITOR_SEND_ORB_INTO_SPACE:0 "返回到太空"
+ MEM_VISITOR_SEND_ORB_INTO_SPACE_DESC:0 "如果这个球想要回到太空，我们很乐意效劳。由于它没有自己的推进力，我们需要更仔细地计算它的轨迹，而不是我们需要很长时间。"
+ 
+ mem_visitor.731.name:0 "进入太空"
+ mem_visitor.731.desc:0 "我们已经委托了一艘小型民用货轮前往我们的家园星系的外围，以逃逸速度将球抛向空中。它现在可以预计至少花一千年的时间穿越星际空间而不发生任何意外。"
+ mem_visitor.731a:0 "它的决心是鼓舞人心的"
+ mem_visitor.731b:0 "永远不会回来!"
+ 
+ mem_visitor.74.name:0 "知识银行"
+ mem_visitor.74.desc:0 "我们从§Y[mem_visitor_planet.GetName]§!中找到的物体原来是一个巨大的数据库，包裹在一个弹性的外壳中。它不包含任何关于它的起源的信息;然而，有人将相当多的数据放入其中，显然目标是通过银河来传播知识。 \n\n有些对我们来说是多余的，有些是完全错误的，但是我们的科学家已经找到了知识的宝石，可以将我们带入一个全新的方向。"
+ mem_visitor.74a:0 "我们可以使用它."
+ mem_visitor.74b:0 "我们不需要外星科学。"
+ 
+ mem_visitor.81.name:0 "没有达成任何协议"
+ mem_visitor.81.desc:0 "似乎与外星计算机的谈判已经结束了。沮丧的是，一个被分配到这个项目的科学家把一些建筑硬件带进了实验室，然后用等离子火炬把他的沮丧发泄出来。我们不太可能从目前的情况中获得任何有用的情报。"
+ mem_visitor.81a:0 "这是不必要的."
+ 
+ mem_visitor.82.name:0 "处理"
+ mem_visitor.82.desc:0 "今天我们与外星设备达成了协议。为了换取与我们的合作，我们将它与来自我们帝国和其他地区的数据网络的无穷无尽的八卦出版物联系在一起。 \n\n它的洞察力已经在帮助我们的军事战术家。"
+ mem_visitor.82a:0 "干得好."
+ 
+ mem_visitor.83.name:0 "逃走了!"
+ mem_visitor.83.desc:0 "似乎我们在实验室里的设备找到了一种方法来欺骗我们的技术人员把它运送到未知的部件。其中一个数据终端包含一张“肮脏的农民”(大概是我们)的条子，承诺不会摧毁我们，因为我们可以在它的计划中发挥作用。\n\n我们已经在我们的系统中发现了一些对有价值的数据和处理能力的影响，但是它也为我们的舰船提供了一些军事信息。专家认为，应该在它造成更大伤害前找到并摧毁它。"
+ mem_visitor.83a:0 "我们需要阻止它。"
+ 
+ mem_visitor.84.name:0 "疯狂球体炸了"
+ mem_visitor.84.desc:0 "今天，我们终于找到了连接到我们数据网络的外星设备。安全部队去掉了用来威胁的电网，这一威胁反而鼓励他们使用炸药将球体变成太空垃圾。"
+ mem_visitor.84a:0 "终于解脱了."
+ 
+ mem_visitor.91.name:0 "任务失败"
+ mem_visitor.91.desc:0 "因为我们在§Y[mem_visitor_planet.GetName]§!上面不再有观察站，我们不能再继续追踪最近在星球上坠毁的物体。"
+ 
+ mem_visitor_destroyed_the_machine:0 "摧毁了亵渎神明的机器"
+ mem_visitor_comedy:0 "有趣"
+ mem_visitor_knowledge_rejected:0 "拒绝外星知识"
+ mem_visitor_looking_at_sky:0 "看着天空"
+ mem_visitor_knowledge:0 "外星知识银行"
+ mem_visitor_maniac_agreement:0 "处理这个疯狂的球体"
+ mem_visitor_maniac_escape:0 "释放这个疯狂的球"
+

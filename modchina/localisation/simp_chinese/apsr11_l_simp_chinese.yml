@@ -1,0 +1,238 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr11_planet_modifier:0 "萤火虫群"
+ apsr11_planet_modifier_desc:0 "我们的一位科学家发现了一个生物奇迹:这些萤火虫!"
+ 
+ apsr11_deposit:0 "$apsr11_planet_modifier$"
+ apsr11_deposit_desc:0 "$apsr11_planet_modifier_desc$\n\n§M$apsr11_deposit_effect$§!" 
+ apsr11_deposit_effect:0 "独特的资源可用: $apsr11_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr11_building_part_b1_text:0 "通过长时间的选择，第一批殖民者培育出了一种特殊的萤火虫，能够生活在人工合成的环境中"
+ 
+ apsr11_building_part_b2_text:0 "最近繁殖的萤火虫不仅是可燃的，而且是有营养的。"
+ 
+ apsr11_building_part_b3_text:0 "多吃转基因萤火虫会让人产生饱腹感"
+ 
+ 
+ apsr11_building_part_m1_text:0 "经过对当地物种的长期研究，我们的科学家得出结论，个体之间是相互联系的，在遇到外部危险时，会共同作出反应"
+ 
+ apsr11_building_part_m2_text:0 "研究萤火虫的集体意识让我们扩展了对有机社会结构的认识"
+ 
+ apsr11_building_part_m3_text:0 "目睹萤火虫创造文明，让我们拓展了对社会结构的认识，提高了我们社会学研究的水平"
+ 
+ 
+ apsr11_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr11_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr11_building_part_b1:0 "萤火虫农场"
+ apsr11_building_part_b1_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_b1_text$"
+ 
+ apsr11_building_part_b2:0 "萤火虫农场"
+ apsr11_building_part_b2_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_b2_text$"
+ 
+ apsr11_building_part_b3:0 "萤火虫农场"
+ apsr11_building_part_b3_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_b3_text$"
+ 
+  
+ apsr11_building_part_m1:0 "集体心理研究中心"
+ apsr11_building_part_m1_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_m1_text$"
+ 
+ apsr11_building_part_m2:0 "集体心理研究中心"
+ apsr11_building_part_m2_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_m2_text$"
+ 
+ apsr11_building_part_m3:0 "集体心理研究中心"
+ apsr11_building_part_m3_desc:0 "$apsr11_building_predesc$\n$apsr11_building_part_m3_text$"
+ 
+  
+ 
+ ### фейк-здания
+  
+ apsr11_building_part_b1_fake:0 "$apsr11_building_part_b1$"
+ apsr11_building_part_b1_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_b1_text$"
+ 
+ apsr11_building_part_b2_fake:0 "$apsr11_building_part_b2$"
+ apsr11_building_part_b2_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_b2_text$"
+ 
+ apsr11_building_part_b3_fake:0 "$apsr11_building_part_b3$"
+ apsr11_building_part_b3_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_b3_text$"
+ 
+  
+ apsr11_building_part_m1_fake:0 "$apsr11_building_part_m1$"
+ apsr11_building_part_m1_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_m1_text$"
+ 
+ apsr11_building_part_m2_fake:0 "$apsr11_building_part_m2$"
+ apsr11_building_part_m2_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_m2_text$"
+ 
+ apsr11_building_part_m3_fake:0 "$apsr11_building_part_m3$"
+ apsr11_building_part_m3_fake_desc:0 "$apsr11_building_fake_predesc$\n$apsr11_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr11_building_part_b1:0 "可燃萤火虫"
+ tech_apsr11_building_part_b1_desc:0 "通过长时间的选择，第一批殖民者培育出了一种特殊的可燃萤火虫，这种萤火虫可以生活在人工合成的环境中"
+ 
+ tech_apsr11_building_part_b2:0 "营养萤火虫"
+ tech_apsr11_building_part_b2_desc:0 "孵化出的萤火虫不仅是可燃的，而且营养丰富"
+ 
+ tech_apsr11_building_part_b3:0 "转基因萤火虫"
+ tech_apsr11_building_part_b3_desc:0 "此外，转基因萤火虫可以诱导饱足感"
+ 
+ 
+ tech_apsr11_building_part_m1:0 "萤火虫集体意识"
+ tech_apsr11_building_part_m1_desc:0 "经过对当地物种的长期研究，我们的科学家得出结论，个体之间是相互联系的，在遇到外部危险时，会共同作出反应"
+ 
+ tech_apsr11_building_part_m2:0 "原始萤火虫"
+ tech_apsr11_building_part_m2_desc:0 "研究萤火虫的集体意识让我们扩展了对有机社会结构的认识"
+ 
+ tech_apsr11_building_part_m3:0 "希金德拉·萨尼恩斯-萤火虫的心灵"
+ tech_apsr11_building_part_m3_desc:0 "这听起来可能难以置信，但萤火虫已经形成了自己的文明!"
+  
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.11001.title:0 "$apsr11_building_part_b1$ 完成"
+ apsr.11001.desc:0 "§Y$apsr11_building_part_b1$§!是我们最近发明的，它能使一种特殊的萤火虫种群繁殖并吃掉"
+ apsr.11001.ok-button:0 "奈斯"
+ 
+ apsr.11002.title:0 "$apsr11_building_part_b2$ 完成"
+ apsr.11002.desc:0 "从事萤火虫繁殖的§Y$apsr11_building_part_b2$§!提高了它的生产能力，现在它生产更多的食物。此外，对萤火虫的特殊处理也给了它们增加食物价值的机会"
+ apsr.11002.ok-button:0 "真奇妙"
+ 
+ apsr.11003.title:0 "$apsr11_building_part_b3$ 完成"
+ apsr.11003.desc:0 "§Y$apsr11_building_part_b3$§!被证明是非常有用的。人们发现，一只红色萤火虫经过特殊处理后，可以让整个群体感到满足。"
+ apsr.11003.ok-button:0 "真香"
+ 
+ apsr.11004.title:0 "$apsr11_building_part_m1$ 完成"
+ apsr.11004.desc:0 "通过构建§Y$apsr11_building_part_m1$§!，我们有能力研究红萤火虫的集体意识及其特征。谁知道它会给我们带来什么?"
+ apsr.11004.ok-button:0 "有趣"
+ 
+ apsr.11005.title:0 "$apsr11_building_part_m2$ 完成"
+ apsr.11005.desc:0 "§Y$apsr11_building_part_m2$§!在红萤火虫种群中记录了一个原始理性思维的开端。通过对§Y集体心理研究中心§!的投资，我们可以提高其在扩大社会学研究范围方面的效率"
+ apsr.11005.ok-button:0 "有趣"
+ 
+ apsr.11006.title:0 "$apsr11_building_part_m3$ 完成"
+ apsr.11006.desc:0 "§Y$apsr11_building_part_m3$§!正在报道一个奇妙的现象。原始的红萤火虫种群已经进化并创造了自己的文明。我们继续观察他们"
+ apsr.11006.ok-button:0 "难以置信"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.11011.title:0 "发现异常: §M$apsr11_planet_modifier$§!"
+ apsr.11011.desc:0 "一个由§H[Root.GetName]§!科研船§H[Root.GetLeaderName]§!领导的研究小组发现了一些不寻常的东西!以下是日志摘录: \n§P«我们的团队刚刚走出超空间，在确定的坐标下对星系进行探索。以低于光速的速度接近其中一颗行星时，我突然收到其中一个传感器发出的信号。我们扫描了这颗行星，结果发现它的特征和我们自己的行星非常相似。 \n我们决定用机载望远镜更仔细地观察它，然后我们注意到在行星较暗的一面发出了微红色的光。 \n是由某种岩石引起的吗?通过液体还是气体?也许是微观世界?或植物吗?但是思考是没有意义的。我们已经决定着陆了。我们的驾驶员做得很巧妙。 «关掉引擎», «激活«周界»还有所有的外部灯光»。我们终于做到了»§!"
+ apsr.11011.button:1 "下一个"
+ 
+ apsr.11022.title:0 "发现异常: §M$apsr11_planet_modifier$§!"
+ apsr.11022.desc:0 "§P«是的，在那里的表面有固体岩石。石头、岩石板块、延伸到远处的特殊裂缝……而已。没有红色的。它是什么呢?传感器显示的是当地的大气特征——非常接近我们星球上的大气特征。 \n在那一刻，我们的驾驶员告诉我们，他打算重置舰船设备，以切换到备用电池。也许有些联系是不正确的……船上的灯熄灭了几秒钟后又重新亮了起来。我觉得好像看到了什么东西，于是让飞行员把外部灯光调暗»§!"
+ apsr.11022.button:1 "下一个"
+ 
+ apsr.11023.title:0 "发现异常: §M$apsr11_planet_modifier$§!"
+ apsr.11023.desc:0 "§P«然后我们又能看到它发光了，它似乎在动!我环顾四周。小火花飞溅，所有的岩石和山丘都被红色的光所覆盖，从我衣服的外部传感器传来沙沙的声音，像是嗡嗡的声音。 \n这些黄红相间的火星到处漂浮着。其中一个正好从我面前经过。它们是活着的生物……像昆虫…当地的萤火虫……但发光的红色。实际上就是这样。这个星系中第一个有人居住的星球，由萤火虫和其他已知的生物居住。那真是一件了不起的事!我们在灯塔上留下了记号。引擎开始嗡嗡作响，我们离开那个星球去执行另一个任务»§!"
+ apsr.11023.button:1 "难以置信!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.11013.title:0 "发现异常: §M$apsr11_planet_modifier$§!"
+ apsr.11013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n这颗行星是一群红色萤火虫的栖息地，只有在夜间才能看到它们。此外，它们还表现出集体思维的一些特征。我们简单地研究过它们，我们的观点是它们在经过某种方式的加工后，对于有机生命形式来说是非常有营养的"
+ apsr.11013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.11015.title:0 "发现人造物: §M$apsr11_planet_modifier$§!"
+ apsr.11015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在这个星球上生活着一群只能在黑暗中看到的红色萤火虫。此外，他们表现出集体意识的迹象。在对它们进行了流利的研究之后，星球的主人得出结论，经过一些加工，它们对于有机生命形式来说是非常有营养的。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr11_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr11_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr11_resource_planet.Owner.GetName]"
+ apsr.11015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr11_special:0 "$apsr11_planet_modifier$"
+ apsr11_special_desc:0 "$apsr11_planet_modifier_desc$"
+ 
+ APSR11_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR11_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr11_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr11_anomaly:0 "$apsr1_anomaly$"
+ apsr11_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.11601.title:0 "$apsr.11011.title$"
+ apsr.11601.desc:0 "$apsr.11011.desc$"
+ apsr.11601.button:0 "$apsr.11011.button$"
+ apsr.11602.title:0 "$apsr.11014.title$"
+ apsr.11602.desc:0 "$apsr.11014.desc$"
+ apsr.11602.button:0 "$apsr.11014.button$"
+ apsr.11603.title:0 "$apsr.11015.title$"
+ apsr.11603.desc:0 "$apsr.11015.desc$"
+ 
+ 
+ 
+ ### новые должности
+ 
+ apsr11_planet_scientist_machine:0 "增殖单元"
+ job_apsr11_scientist_machine:0 "增殖单元"
+ job_apsr11_scientist_machine_plural:0 "增殖单元"
+ job_apsr11_scientist_machine_desc:0 "增殖单元这一特殊的多功能模型，为“萤火虫”这一生物物种的栖息地、繁殖和生存提供了最佳条件，从事选择和培育，以进一步研究进化和社会变化的过程"
+ mod_job_apsr11_scientist_machine_add:0 "增殖单元"
+ 
+ apsr11_planet_agronomist_normal:0 "育种者"
+ job_apsr11_agronomist_normal:0 "育种者"
+ job_apsr11_agronomist_normal_plural:0 "育种者"
+ job_apsr11_agronomist_normal_desc:0 "为了增加所获得的资源，该公司从事萤火虫这一生物物种的培育、种内、受控杂交和有用性状的选择"
+ mod_job_apsr11_agronomist_normal_add:0 "育种者"
+ 
+ apsr11_planet_agronomist_hive:0 "增殖工蜂"
+ job_apsr11_agronomist_hive:0 "增殖工蜂"
+ job_apsr11_agronomist_hive_plural:0 "增殖工蜂"
+ job_apsr11_agronomist_hive_desc:0 "为增加所获得的资源，从事萤火虫这一生物物种的培育、种内、受控杂交和有用性状的选择"
+ mod_job_apsr11_agronomist_hive_add:0 "增殖工蜂"
+ 
+ apsr11_planet_farmer_normal:0 "农民"
+ job_apsr11_farmer_normal:0 "农民"
+ job_apsr11_farmer_normal_plural:0 "农民"
+ job_apsr11_farmer_normal_desc:0 "收获、维持人口水平和监测其状况、健康、营养，这并不是农民职责中包括的一份完整的责任清单"
+ mod_job_apsr11_farmer_normal_add:0 "农民"
+ 
+ apsr11_planet_farmer_hive:0 "农业工蜂"
+ job_apsr11_farmer_hive:0 "农业工蜂"
+ job_apsr11_farmer_hive_plural:0 "农业工蜂"
+ job_apsr11_farmer_hive_desc:0 "收获、维持人口水平和监测其状况、健康、营养，这并不是农民职责中包括的一份完整的责任清单"
+ mod_job_apsr11_farmer_hive_add:0 "农业工蜂"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

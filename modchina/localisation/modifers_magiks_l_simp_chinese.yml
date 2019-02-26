@@ -1,0 +1,37 @@
+﻿l_simp_chinese:
+
+    ### Species ###
+    
+ triggered_opinion_robot_waifu_bots:0 "Kawaii 统治者"
+ triggered_opinion_robot_waifu_bots_xenophile:0 "最佳女统治者"
+ triggered_opinion_robot_waifu_bots_xenophobe:0 "肮脏的武器"
+ triggered_opinion_robot_waifu_bots_rivals:0 "废物"
+ 
+ triggered_opinion_draconic_nobility:0 "有威严的统治者"
+ triggered_opinion_draconic_nobility_xenophile:0 "奢侈的统治者"
+ triggered_opinion_draconic_nobility_xenophobe:0 "受人尊敬的统治者"
+ triggered_opinion_draconic_nobility_fellow_nobles:0 "贵族"
+ 
+ triggered_opinion_draconic_pride:0 "傲慢的统治者"
+ 
+ triggered_opinion_multidem_migrants:0 "陌生的外国人"
+ triggered_opinion_multidem_migrants_xenophile:0 "迷人的外国人"
+ triggered_opinion_multidem_migrants_fellow_refugees:0 "难民同胞"
+ 
+ triggered_opinion_voidseepers:0 "真正的外星人"
+ triggered_opinion_voidseepers_xenophile:0 "真正的外星人"
+ triggered_opinion_fellow_voidseepers:0 "其他逃犯"
+ triggered_opinion_voidseepers_fellow_refugees:0 "难民同胞"
+ triggered_opinion_voidseepers_true_evil:0 "终极邪恶"
+ 
+ triggered_opinion_infernal_origin_fellow_refugees:0 "难民同胞"
+ triggered_opinion_infernal_origin_spiritualist:0 "恶魔代理"
+ triggered_opinion_fellow_infernal_origin:0 "恶魔逃犯"
+ 
+ triggered_opinion_dark_cultists_bad:0 "恶魔崇拜者"
+ triggered_opinion_dark_cultists_good:0 "黑暗统治者"
+ triggered_opinion_dark_cultists_demons:0 "邪恶的领袖"
+ 
+ triggered_opinion_anti_demon_spiritualist:0 "恶魔首领"
+ 
+ triggered_opinion_mulcubi_one_track_mind:0 "一心一意的领导者"

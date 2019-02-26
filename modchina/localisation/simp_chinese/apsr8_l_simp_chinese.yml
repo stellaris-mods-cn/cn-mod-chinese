@@ -1,0 +1,182 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr8_planet_modifier:0 "钜元素"
+ apsr8_planet_modifier_desc:0 "一种不稳定的放射性物质。理论上，它可以作为一种燃料，用于一个非常强大的反应堆"
+ 
+ apsr8_deposit:0 "$apsr8_planet_modifier$"
+ apsr8_deposit_desc:0 "$apsr8_planet_modifier_desc$\n\n§M$apsr8_deposit_effect$§!" 
+ apsr8_deposit_effect:0 "独特的资源可用: $apsr8_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr8_building_part1_text:0 "使用钜元素能量的电站原型"
+ 
+ apsr8_building_part2_text:0 "一种改进的使用钜元素能量的电站模型"
+ 
+ apsr8_building_part3_text:0 "一种高效率使用钜元素铯能量的电站"
+ 
+ apsr8_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr8_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr8_building_part1:0 "钜元素反应堆:原型"
+ apsr8_building_part1_desc:0 "$apsr8_building_predesc$\n$apsr8_building_part1_text$"
+ 
+ apsr8_building_part2:0 "钜元素反应堆"
+ apsr8_building_part2_desc:0 "$apsr8_building_predesc$\n$apsr8_building_part2_text$"
+ 
+ apsr8_building_part3:0 "钜元素反应堆"
+ apsr8_building_part3_desc:0 "$apsr8_building_predesc$\n$apsr8_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr8_building_part1_fake:0 "$apsr8_building_part1$"
+ apsr8_building_part1_fake_desc:0 "$apsr8_building_fake_predesc$\n$apsr8_building_part1_text$"
+ 
+ apsr8_building_part2_fake:0 "$apsr8_building_part2$"
+ apsr8_building_part2_fake_desc:0 "$apsr8_building_fake_predesc$\n$apsr8_building_part2_text$"
+ 
+ apsr8_building_part3_fake:0 "$apsr8_building_part3$"
+ apsr8_building_part3_fake_desc:0 "$apsr8_building_fake_predesc$\n$apsr8_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr8_building_part1:0 "钜元素稳定化"
+ tech_apsr8_building_part1_desc:0 "为了利用大量的钜元素来发电，只需要对几十年前使用的旧核反应堆进行改造。唯一的问题是稳定这种物质，但一些想法已经可以提出"
+ 
+ tech_apsr8_building_part2:0 "钜元素反应堆现代化"
+ tech_apsr8_building_part2_desc:0 "利用钜元素的合成和分解多级反应，可以提高钜元素反应器的能量信用流量"
+ 
+ tech_apsr8_building_part3:0 "钜元素能量"
+ tech_apsr8_building_part3_desc:0 "通过了解反应堆内部的反应，我们得出结论，钜元素可以被更有效地利用"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.8001.title:0 "$apsr8_building_part1$ 完成"
+ apsr.8001.desc:0 "钜元素现在被用于最合适的地方——为我们的帝国提供能源"
+ apsr.8001.ok-button:0 "很好"
+ 
+ apsr.8002.title:0 "$apsr8_building_part2$ 完成"
+ apsr.8002.desc:0 "钜元素反应堆建筑完成,能量币生产流动大大增加"
+ apsr.8002.ok-button:0 "非常棒"
+ 
+ apsr.8003.title:0 "$apsr8_building_part3$ 完成"
+ apsr.8003.desc:0 "§Y$apsr8_building_part3$§!的能量已经达到顶峰，能量流已经超出了我们的任何预期"
+ apsr.8003.ok-button:0 "非常棒"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.8011.title:0 "资源发现: §M$apsr8_planet_modifier$§!"
+ apsr.8011.desc:0 "来自科研船§H[Root.GetName]§!的§H[Root.GetLeaderName]§!发现了一些奇怪的东西。 \n在这个星球上，存在着一种具有巨大潜力的不稳定放射性物质。我们可以试着用我们祖先使用核能的方式来使用它"
+ apsr.8011.button:1 "难以置信"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.8013.title:0 "资源发现: §M$apsr8_planet_modifier$§!"
+ apsr.8013.desc:0 "在一个被占领的行星上发现了一些奇怪的东西。由于星球地壳不薄，有大量不稳定的放射性物质发生，具有很大的潜力。我们可以试着用我们祖先使用核能的方式来使用它"
+ apsr.8013.button:1 "非常棒!"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.8015.title:0 "发现人造物: §M$apsr8_planet_modifier$§!"
+ apsr.8015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n其中一颗行星上有一个巨大的不稳定放射性物质场，具有巨大的潜力。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr8_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr8_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr8_resource_planet.Owner.GetName]"
+ apsr.8015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr8_special:0 "$apsr8_planet_modifier$"
+ apsr8_special_desc:0 "$apsr8_planet_modifier_desc$"
+ 
+ APSR8_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR8_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr8_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr8_anomaly:0 "$apsr1_anomaly$"
+ apsr8_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.8601.title:0 "$apsr.8011.title$"
+ apsr.8601.desc:0 "$apsr.8011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr8_planet_power_engineer_normal:0 "电力工程师"
+ job_apsr8_power_engineer_normal:0 "电力工程师"
+ job_apsr8_power_engineer_normal_plural:0 "电力工程师"
+ job_apsr8_power_engineer_normal_desc:0 "电力工程师的职责包括现场能源生产的整体控制，生产和消耗过程的优化，跟踪网络负荷峰值"
+ mod_job_apsr8_power_engineer_normal_add:0 "电力工程师"
+   
+ apsr8_planet_power_engineer_hive:0 "电力工蜂"
+ job_apsr8_power_engineer_hive:0 "电力工蜂"
+ job_apsr8_power_engineer_hive_plural:0 "电力工蜂"
+ job_apsr8_power_engineer_hive_desc:0 "这是控制普通技术人员的工作，确保稳定和不间断的运行的设施"
+ mod_job_apsr8_power_engineer_hive_add:0 "电力工蜂"
+   
+ apsr8_planet_power_engineer_machine:0 "电力单元"
+ job_apsr8_power_engineer_machine:0 "电力单元"
+ job_apsr8_power_engineer_machine_plural:0 "电力单元"
+ job_apsr8_power_engineer_machine_desc:0 "这个单元模型有一个改进的自主AI，它的主要任务是监控设备的运行，普通技术单元的工作，以及能源生产过程的优化"
+ mod_job_apsr8_power_engineer_machine_add:0 "电力单元"
+ 
+   
+ apsr8_planet_technician_normal:0 "合格技术员"
+ job_apsr8_technician_normal:0 "合格技术员"
+ job_apsr8_technician_normal_plural:0 "合格技术员"
+ job_apsr8_technician_normal_desc:0 "只有具有最高资格的技术人员才有资格操作钜元素"
+ mod_job_apsr8_technician_normal_add:0 "合格技术员"
+   
+ apsr8_planet_technician_hive:0 "合格技术员工蜂"
+ job_apsr8_technician_hive:0 "合格技术员工蜂"
+ job_apsr8_technician_hive_plural:0 "合格技术员工蜂"
+ job_apsr8_technician_hive_desc:0 "只有具有最高资格的技术人员才有资格操作钜元素"
+ mod_job_apsr8_technician_hive_add:0 "合格技术员工蜂"
+   
+ apsr8_planet_technician_machine:0 "技术单元 v2.0"
+ job_apsr8_technician_machine:0 "技术单元 v2.0"
+ job_apsr8_technician_machine_plural:0 "技术单元 v2.0"
+ job_apsr8_technician_machine_desc:0 "更新和昂贵的单元模型工作与高能物质"
+ mod_job_apsr8_technician_machine_add:0 "技术单元 v2.0"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

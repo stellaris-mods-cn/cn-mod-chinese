@@ -1,0 +1,74 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Civics - Planet Civics
+ ####################################
+ 
+ #Regular Empire
+ civic_cbshing_eco_shift:0 "气候变化"
+ civic_cbshing_eco_shift_desc:0 "这个社会是在星球气候适宜的时候发展起来的。随着气候的变化，他们必须学会适应日渐严酷的环境。"
+ civic_tooltip_oc_climate_shift_effects:1 "$MOD_POP_AMENITIES_USAGE_MULT$: §G-10%§!\n对于这些物种来说，他们的家园世界不是一个最完美的气候。"
+ 
+ civic_cbshing_nuclear_vault:0 "核库"
+ civic_cbshing_nuclear_vault_desc:0 "由于大型地下拱顶的保护，所以这个社会在核战争中的幸存下来。 虽然现在他们团结起来，成功地保护了自己的社会，但他们对残酷的地面生活没有任何准备。"
+ civic_tooltip_oc_nuclear_vault_effects:1 "$MOD_POP_HOUSING_USAGE_MULT$: §G-10%§!\n首都以 §Y$pc_nuked$§! 开始，由一个独特的 §Y$d_oc_vault_complex$§! 储存, 其中给出了若干个 §Y研究§! 和 §Y设施§! 以及首都星球的奖金"
+ 
+ civic_cbshing_nuclear_mutation:0 "核突变"
+ civic_cbshing_nuclear_mutation_desc:0 "这个物种的出现是由辐射诱变引起的。它们在自己家园荒芜的表面上进化，而且对外来的环境更加耐寒。"
+ civic_tooltip_oc_nuclear_mutation_effects:1 "家园是一个 §Y$pc_nuked$§!\n可居住性偏好设置为 §Y$trait_pc_nuked_preference$§!."
+ 
+ civic_cbshing_voidborne:0 "低重力适宜"
+ civic_cbshing_voidborne_desc:0 "这个社会长期生活在太空里。长时间的低重力生活使他们无法生活在任何星球上。"
+ civic_tooltip_oc_voidborne_effects:1 "$mod_planet_jobs_specialist_produces_mult$: §G+15%§!\n$mod_station_gatherers_produces_mult$: §G+5%§!\n$mod_station_researchers_produces_mult$: §G+5%§!\n§Y$MOD_ARMY_DAMAGE_MULT$§! 减少 §R-20%§!\n家园是一个 §Y$pc_habitat$§! (大小: £planetsize  §Y6§!). 可居住性偏好设置为 §Y$trait_pc_habitat_preference$§!, 使其他类型的行星不适宜居住。"
+ 
+ #Hive Empire
+ civic_oc_hive_post_apocalyptic:0 "$civic_post_apocalyptic$"
+ civic_oc_hive_post_apocalyptic_desc:0 "受核战争的洗礼，这个蜂巢面临着灭顶之灾，但结果是他们幸存了下来。它们的蜂巢被摧毁但人民完好无损，于是他们在旧世界的灰烬中重建了蜂巢。"
+ 
+ civic_oc_hive_life_seeded:0 "$civic_life_seeded$"
+ civic_oc_hive_life_seeded_desc:0 "这个蜂巢虽然已经发展成为一个天堂，但这可能只是为他们设计的。"
+
+ civic_oc_hive_nuclear_vault:0 "核库"
+ civic_oc_hive_nuclear_vault_desc:0 "受到大型地下拱顶的保护，这个蜂巢未被核战争的摧毁。 但在地下孕育的同时，他们面对地面生活的残酷现实没有任何准备。"
+
+ civic_oc_hive_nuclear_mutation:0 "核突变"
+ civic_oc_hive_nuclear_mutation_desc:0 "这个物种的出现是由辐射诱变引起的。它们在自己家园荒芜的表面上进化，而且对外来的环境更加耐寒。"
+
+ civic_oc_hive_hive_world:0 "蜂巢世界"
+ civic_oc_hive_hive_world_desc:0 "这个蜂巢已经在它的小世界上达到了一定的规模，它与地形融为一体。现在，只要是不属于蜂巢的生物都会受到地形本身的攻击。"
+ civic_tooltip_oc_hive_world_effects:1 "家园是一个 §Y$pc_hive$§! (大小: £planetsize£ §Y12§!)."
+
+ #Machine Empire
+ civic_cbshing_robo_nuked_start:0 "核开始"
+ civic_cbshing_robo_nuked_start_desc:0 "重新启动主处理器后，这台智能的机器醒了过来，但他很快发现世界被摧毁了。 "
+ civic_tooltip_oc_robo_nuked_start_effects:1 "首都以 §Y$pc_nuked$§! 开始。 任何 §Y$SECONDARY_SPECIES$§! 的宜居性偏好为 §Y$trait_pc_nuked_preference$§! "
+ 
+ civic_cbshing_machine_world:0 "机械世界"
+ civic_cbshing_machine_world_desc:0 "为了最大限度地提高效率，机器智能将他们的小行星变成了一个 §Y机械世界§!. 由于稀薄的大气主要由工业污染物组成，所以无法维持任何生物类的生命。"
+ civic_tooltip_oc_machine_world_effects:1 "家园是一个 §Y$pc_machine$§! (大小: £planetsize£ §Y12§!)."
+ 
+ #Corporate Empire
+ civic_oc_corp_post_apocalyptic:0 "$civic_post_apocalyptic$"
+ civic_oc_corp_post_apocalyptic_desc:0 "$civic_post_apocalyptic_desc$"
+ 
+ civic_oc_corp_life_seeded:0 "$civic_life_seeded$"
+ civic_oc_corp_life_seeded_desc:0 "$civic_life_seeded_desc$"
+ 
+ civic_oc_corp_climate_shift:0 "$civic_cbshing_eco_shift$"
+ civic_oc_corp_climate_shift_desc:0 "$civic_cbshing_eco_shift_desc$"
+ 
+ civic_oc_corp_nuclear_vault:0 "$civic_cbshing_nuclear_vault$"
+ civic_oc_corp_nuclear_vault_desc:0 "$civic_cbshing_nuclear_vault_desc$"
+ 
+ civic_oc_corp_nuclear_mutation:0 "$civic_cbshing_nuclear_mutation$"
+ civic_oc_corp_nuclear_mutation_desc:0 "$civic_cbshing_nuclear_mutation_desc$"
+ 
+ ####################################
+ # Origins Start Messages
+ ####################################
+ 
+ START_SCREEN_PART_ONE_NUCLEAR_MUTATION:0 "自从第一个原始 [GetSpeciesName] 社区在 [GetHomeWorldName] 的大荒地上形成以来，我们的文明才得以传播和繁荣。"
+ START_SCREEN_PART_ONE_VOIDBORNE:0 "很久以前，第一个原始 [GetSpeciesNamePlural] 逃脱了我们建立的 [GetHomeWorldName] 家园, 并建立了一个生活在虚空中的文明。"
+ 
+ START_SCREEN_PART_TWO_CLIMATE_SHIFT:0 "随着我们的科学知识的增长，我们对环境的理解和对世界气候变化的认识也在增长。这一深刻的知识统一了各个民族国家的共同目标：确保我们的物种在严酷的新世界中生存。"
+ START_SCREEN_PART_TWO_NUCLEAR_VAULT:0 "在我们历史的早期，许多国家争夺权力，终于在我们的原子时代以一场巨大的悲剧告终。数百枚核弹头的爆炸使我们的世界变成了废墟。如果不是伟大的地下金库和领导它们的领导人，我们的物种将无法生存和重建今天的世界。"

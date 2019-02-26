@@ -1,0 +1,54 @@
+﻿l_simp_chinese:
+
+# Modifiers
+
+cofh_se_pm_toxic:0 "残余毒性"
+cofh_se_pm_toxic_desc:0 "这个星球的有毒历史在它的生态系统中徘徊。在这里，生活还得再挣扎一些。"
+
+cofh_se_pm_barren:0 "稀薄大气"
+cofh_se_pm_barren_desc:0 "尽管是现在，这个星球的大气层仍然非常薄，使在这里生活变得更加困难。"
+
+cofh_se_pm_barren_cold:0 "稀薄大气"
+cofh_se_pm_barren_cold_desc:0 "尽管是现在，这个星球的大气层仍然非常薄，使在这里生活变得更加困难。"
+
+cofh_se_pm_molten:0 "受限制的构造"
+cofh_se_pm_molten_desc:0 "在适宜居住的情况下，强烈地震事件仍在全球范围内肆虐。建筑需要大量的强化。"
+
+cofh_se_pm_frozen:0 "操纵星球"
+cofh_se_pm_frozen_desc:0 "在适宜居住的同时，这个星球的磁场仍然极其微弱，只提供了极少的宇宙辐射保护。"
+
+# Requirements
+
+requirement_cofh_se_no_black_hole_neutron_star_pulsar:0 "§R恒星可能不是黑洞、中子星或脉冲星。§!"
+requirement_cofh_se_no_dyson_sphere:0 "§R恒星周围可能没有戴森球。§!"
+requirement_cofh_se_no_megastructure:0 "§R轨道上可能没有巨型结构。§!"
+requirement_cofh_se_not_terraforming_candidate:0 "§R这种方法对于地貌改造候选者来说是不必要的。§!"
+requirement_cofh_se_valid_planet_size:0 "§R行星的大小必须在允许的范围之内。§!"
+
+# Technology - Non-Repeatable
+
+# Society
+
+tech_cofh_se_atmospheric_purification:0 "大气净化"
+tech_cofh_se_atmospheric_purification_desc:0 "先进的过滤和净化系统允许在一个行星的大气中去除几乎所有的有毒废物。"
+
+tech_cofh_se_atmosphere_creation:0 "大气创造"
+tech_cofh_se_atmosphere_creation_desc:0 "只要有足够的时间和资源，即使是最荒凉的星球，也能创造出大气。"
+
+tech_cofh_se_dynamo_manipulation:0 "操纵星球"
+tech_cofh_se_dynamo_manipulation_desc:0 "对基本力的操纵，甚至可以让最遥远的冰冻星球孕育生命。"
+
+tech_cofh_se_tectonic_restriction:0 "构造限制"
+tech_cofh_se_tectonic_restriction_desc:0 "对基本力的控制允许有广泛的火山活动的星球被征服。"
+
+COFH_SE_TECH_UNLOCK_TERRAFORMING_TOXIC_CHANGE_TITLE:0 "§H解锁功能:§! 大气净化"
+COFH_SE_TECH_UNLOCK_TERRAFORMING_TOXIC_CHANGE_DESC:0 "§H大气净化§!\n允许我们把有毒星球变成特定的宜居星球。"
+
+COFH_SE_TECH_UNLOCK_TERRAFORMING_BARREN_CHANGE_TITLE:0 "§H解锁功能:§! 大气创造"
+COFH_SE_TECH_UNLOCK_TERRAFORMING_BARREN_CHANGE_DESC:0 "§H大气创造§!\n允许我们把贫瘠星球变成特定的可居住星球。"
+
+COFH_SE_TECH_UNLOCK_TERRAFORMING_FROZEN_CHANGE_TITLE:0 "§H解锁功能:§! 操纵星球"
+COFH_SE_TECH_UNLOCK_TERRAFORMING_FROZEN_CHANGE_DESC:0 "§H操纵星球§!\n允许我们把冰冻星球变成特定的可居住星球。"
+
+COFH_SE_TECH_UNLOCK_TERRAFORMING_MOLTEN_CHANGE_TITLE:0 "§H解锁功能:§! 构造限制"
+COFH_SE_TECH_UNLOCK_TERRAFORMING_MOLTEN_CHANGE_DESC:0 "§H构造限制§!\nA允许我们把熔融星球变成特定的宜居星球。"

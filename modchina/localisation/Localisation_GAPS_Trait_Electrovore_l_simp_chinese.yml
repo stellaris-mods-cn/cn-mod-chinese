@@ -1,0 +1,59 @@
+﻿l_simp_chinese:
+
+ 
+ #TRAITS
+ Trait_GAPS_Electrovore:0 "电食者"
+ Trait_GAPS_Electrovore_desc:0 "这类种群喜欢通过受电击进食。\n§M特殊种群修饰:§! 这类种群食用能源而不是食物。他们开局带有一个$district_generator$ 来替代本有的每个 $district_farming$ 。\n§E舰队司令每级修饰:§! 对护盾的伤害 §G+3%§! \n§S科技§!\n§Y£physics_research 粒子物理科技 T1 (能量运转):§! 允许决策:\n   £decision §L决策 (能量运转):§! 电食者人口维护费§G-25%§!, 能源维护费§R+125%§!.\n§Y£physics_research 粒子物理科技 T2 (能量转移):§! 舰队中有电食者舰队司令带领的舰船获得开火速率§G+20%§!, 每当他们摧毁一艘敌舰时亚光速速度在10天内§G+20%§!。\n§Y£physics_research 粒子物理科技 T3 (能量增强):§! 允许法令\n§L切换法令 (能量兴奋剂):§! 花费 §R1000§! £energy. 国家能源产出 §R-25%§!. 所有建造速度 §G+20%§!, 科研速度 §G+10%§!, 亚光速速度 §G+20%§!, 射速 §G+20%§!, 人口幸福度 §G+20%§!. 当该法令关闭时在§Y3600§!天内或法令再次启用前§R+30§!犯罪度。"
+ 
+ Trait_GAPS_Electrovore_Adm_LV1:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV2:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV3:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV4:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV5:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV6:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV7:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV8:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV9:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV10:0 "电食者舰队司令"
+ 
+ Trait_GAPS_Electrovore_Adm_LV1_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV2_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV3_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV4_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV5_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV6_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV7_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV8_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV9_desc:0 "电食者舰队司令"
+ Trait_GAPS_Electrovore_Adm_LV10_desc:0 "电食者舰队司令"
+ #Descisions
+ decision_GAPS_energy_work_on:0 "能量运转开启"
+ decision_GAPS_energy_work_on:0 "能量运转开启"
+ decision_GAPS_energy_work_on_short:0 "电食者人口维护费 §G-25%§!, 能源维护费 §R+125%§!"
+ decision_GAPS_energy_work_of:0 "能量运转关闭"
+ decision_GAPS_energy_work_off:0 "移除能量运转修饰"
+ decision_GAPS_energy_work_off_short:0 "移除能量运转修饰"
+ #Edicts
+ edict_Edict_GAPS_Energy_Doping:0 "能量兴奋剂"
+ edict_Edict_GAPS_Energy_Doping_desc:0 "给他们上点兴奋剂来获取更好的生产力"
+ edict_Edict_GAPS_Energy_Doping_Stop:0 "End 能量兴奋剂"
+ edict_Edict_GAPS_Energy_Doping_Stop_desc:0 "由于兴奋剂成瘾的戒断反应导致10年的难受期。除非你决定给他们更多。"
+ #TECHS
+ Tech_GAPS_Energy_Work:0 "能量运转"
+ Tech_GAPS_Energy_Work_desc:0 "能量运转"
+ Tech_GAPS_Energy_Reclamation:0 "能量转移"
+ Tech_GAPS_Energy_Reclamation_desc:0 "舰队中有电食者舰队司令带领的舰船获得开火速率§G+20%§!, 每当他们摧毁一艘敌舰时亚光速速度在10天内§G+20%§!。"
+ Tech_GAPS_Energy_Boosting:0 "能量增强"
+ Tech_GAPS_Energy_Boosting_desc:0 "能量增强"
+ #edicts
+ edict_Edict_GAPS_drone_campaign_electrovore:0 "$edict_drone_campaign$"
+ edict_Edict_GAPS_learning_campaign_electrovore:0 "$edict_learning_campaign$"
+ edict_Edict_GAPS_war_drone_campaign_electrovore:0 "$edict_war_drone_campaign$"
+ decision_planet_food_boost_electrovore:0 "电食者 $decision_planet_food_boost$"
+ decision_planet_food_boost_electrovore_desc:0 "电食者 $decision_planet_food_boost_desc$"
+ #MODIFIERS
+ Pop_Modifier_GAPS_Energy_Work:0 "能量运转"
+ 
+ 
+ 
+ 

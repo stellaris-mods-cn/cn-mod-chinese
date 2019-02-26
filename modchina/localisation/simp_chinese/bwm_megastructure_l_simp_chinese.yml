@@ -1,0 +1,184 @@
+﻿l_simp_chinese:
+
+ tech_bwm_solar_envoy:0 "船舶原理图 - 太阳使者"
+ tech_bwm_solar_envoy_desc:0 "在Araboth星系发现的武器的详细原理图。"
+ 
+ tech_bwm_gravekeeper:0 "船舶原理图 - 守墓者"
+ tech_bwm_gravekeeper_desc:0 "在Danann星系发现的武器的详细原理图。"
+ 
+ tech_bwm_magma_diver:0 "船舶原理图 - 化身"
+ tech_bwm_magma_diver_desc:0 "在Arcadia星系发现的武器的详细原理图。"
+ 
+ tech_bwm_lex_garden:0 "失落遗产"
+ tech_bwm_lex_garden_desc:0 "古代科技从Arcadia星系的守墓者上得到的。"
+ 
+ must_build_around_asteroid:1 "$TRIGGER_FAIL$必须围绕矿物丰富的小行星建造。"
+ 
+ requires_no_existing_solar_envoy:0 "$TRIGGER_FAIL$不能建造多个太阳使者。"
+ requires_no_existing_gravekeeper:0 "$TRIGGER_FAIL$不能建造多个守墓者。"
+ requires_no_existing_magma_diver:0 "$TRIGGER_FAIL$不能建造多个化身。"
+ requires_no_existing_conduit_shipyard:0 "$TRIGGER_FAIL$不能建造多个永恒造船厂。"
+ requires_no_existing_bwm_conduit_project:0 "$TRIGGER_FAIL$无法同时建造多个巨型建筑。"
+ 
+ requires_bwm_conduit_shipyard:0 "$TRIGGER_FAIL$没有巨型建筑 -永恒造船厂- 无法处理该建造要求。"
+ 
+ bwm_solar_envoy_project_00:0 "太阳使者站点"
+ bwm_solar_envoy_project_00_DESC:0 "该建造基地是设计先祖武器的地方'$bwm_solar_envoy_project_01$'."
+ bwm_solar_envoy_project_00_MEGASTRUCTURE_DETAILS:0 "先祖武器的原理图 §Y$bwm_solar_envoy_project_01$§!."
+
+ bwm_solar_envoy_project_01:0 "太阳使者"
+ bwm_solar_envoy_project_01_DESC:0 "$bwm_solar_envoy_project_01$ - §Y1/1§! 完成"
+ 
+ bwm_gravekeeper_project_00:0 "守墓者站点"
+ bwm_gravekeeper_project_00_DESC:0 "该建造基地是设计先祖武器的地方 '$bwm_gravekeeper_project_01$'."
+ bwm_gravekeeper_project_00_MEGASTRUCTURE_DETAILS:0 "先祖武器的原理图 §Y$bwm_gravekeeper_project_01$§!."
+
+ bwm_gravekeeper_project_01:0 "守墓者"
+ bwm_gravekeeper_project_01_DESC:0 "$bwm_gravekeeper_project_01$ - §Y1/1§! 完成"
+ 
+ bwm_magma_diver_project_00:0 "化身站点"
+ bwm_magma_diver_project_00_DESC:0 "该建造基地是设计先祖武器的地方 '$bwm_magma_diver_project_01$'."
+ bwm_magma_diver_project_00_MEGASTRUCTURE_DETAILS:0 "先祖武器的原理图 §Y$bwm_magma_diver_project_01$§!."
+
+ bwm_magma_diver_project_01:0 "化身"
+ bwm_magma_diver_project_01_DESC:0 "$bwm_magma_diver_project_01$ - §Y1/1§! 完成"
+ 
+ bwm_conduit_corvette_00:0 "永恒舰队 - 护卫舰"
+ bwm_conduit_corvette_00_DESC:0 "$bwm_conduit_corvette_00$ - §Y1/1§! 完成"
+ bwm_conduit_corvette_00_MEGASTRUCTURE_DETAILS:0 "八艘先祖护卫舰的施工令。"
+ 
+ bwm_conduit_destroyer_00:0 "永恒舰队 - 战列巡洋舰"
+ bwm_conduit_destroyer_00_DESC:0 "$bwm_conduit_destroyer_00$ - §Y1/1§! 完成"
+ bwm_conduit_destroyer_00_MEGASTRUCTURE_DETAILS:0 "四艘先祖战列舰的施工令。"
+ 
+ bwm_conduit_cruiser_00:0 "永恒舰队 - Titan"
+ bwm_conduit_cruiser_00_DESC:0 "$bwm_conduit_cruiser_00$ - §Y1/1§! 完成"
+ bwm_conduit_cruiser_00_MEGASTRUCTURE_DETAILS:0 "Construction order for 2 progenitor titans"
+ 
+ bwm_conduit_battleship_00:0 "永恒舰队 - Carrier"
+ bwm_conduit_battleship_00_DESC:0 "$bwm_conduit_battleship_00$ - §Y1/1§! 完成"
+ bwm_conduit_battleship_00_MEGASTRUCTURE_DETAILS:0 "Construction order for 1 progenitor carrier"
+ 
+ bwm_conduit_shipyard_00:0 "永恒堡垒"
+ bwm_conduit_shipyard_00_DESC:0 "该建造基地是设计先祖武器的地方 '$bwm_conduit_shipyard_09$'."
+ bwm_conduit_shipyard_00_MEGASTRUCTURE_DETAILS:0 "先祖武器的原理图 §Y$bwm_conduit_shipyard_09$§!."
+ 
+ bwm_conduit_shipyard_01:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_01_DESC:0 "$bwm_conduit_shipyard_09$ - §Y1/9§! 完成"
+ 
+ bwm_conduit_shipyard_02:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_02_DESC:0 "$bwm_conduit_shipyard_09$ - §Y2/9§! 完成"
+ 
+ bwm_conduit_shipyard_03:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_03_DESC:0 "$bwm_conduit_shipyard_09$ - §Y3/9§! 完成"
+ 
+ bwm_conduit_shipyard_04:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_04_DESC:0 "$bwm_conduit_shipyard_09$ - §Y4/9§! 完成"
+ 
+ bwm_conduit_shipyard_05:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_05_DESC:0 "$bwm_conduit_shipyard_09$ - §Y5/9§! 完成"
+ 
+ bwm_conduit_shipyard_06:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_06_DESC:0 "$bwm_conduit_shipyard_09$ - §Y6/9§! 完成"
+ 
+ bwm_conduit_shipyard_07:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_07_DESC:0 "$bwm_conduit_shipyard_09$ - §Y7/9§! 完成"
+ 
+ bwm_conduit_shipyard_08:0 "部分永恒堡垒的配件"
+ bwm_conduit_shipyard_08_DESC:0 "$bwm_conduit_shipyard_09$ - §Y8/9§! 完成"
+ 
+ bwm_conduit_shipyard_09:0 "永恒堡垒"
+ bwm_conduit_shipyard_09_DESC:0 "$bwm_conduit_shipyard_09$ - §Y9/9§! 完成"
+ 
+ requires_no_existing_bwm_converter:0 "$TRIGGER_FAIL$只能建造一个永恒熔炉"
+ 
+ bwm_conduit_converter_00:0 "永恒熔炉基址"
+ bwm_conduit_converter_00_DESC:0 "一个强大的斥力阵列已经布置在恒星周围，为远古巨型结构的设计做准备。 '$bwm_conduit_converter_08$'."
+ bwm_conduit_converter_00_MEGASTRUCTURE_DETAILS:0 "先祖武器的原理图 §Y$bwm_conduit_converter_08$§!."
+ 
+ bwm_conduit_converter_01:0 "永恒熔炉基址"
+ bwm_conduit_converter_01_DESC:0 "该建造基地是设计先祖武器的地方 '$bwm_conduit_converter_08$'."
+ 
+ bwm_conduit_converter_02:0 "永恒熔炉基址"
+ bwm_conduit_converter_02_DESC:0 "$bwm_conduit_converter_08$ - §Y1/6§! 完成"
+ 
+ bwm_conduit_converter_03:0 "永恒熔炉基址"
+ bwm_conduit_converter_03_DESC:0 "$bwm_conduit_converter_08$ - §Y2/6§! 完成"
+ 
+ bwm_conduit_converter_04:0 "永恒熔炉基址"
+ bwm_conduit_converter_04_DESC:0 "$bwm_conduit_converter_08$ - §Y3/6§! 完成"
+ 
+ bwm_conduit_converter_05:0 "永恒熔炉基址"
+ bwm_conduit_converter_05_DESC:0 "$bwm_conduit_converter_08$ - §Y4/6§! 完成"
+ 
+ bwm_conduit_converter_06:0 "永恒熔炉基址"
+ bwm_conduit_converter_06_DESC:0 "$bwm_conduit_converter_08$ - §Y5/6§! 完成"
+ 
+ bwm_conduit_converter_07:0 "永恒熔炉基址"
+ bwm_conduit_converter_07_DESC:0 "$bwm_conduit_converter_08$ - §Y6/6§! 完成"
+ 
+ bwm_conduit_converter_08:0 "永恒熔炉"
+ bwm_conduit_converter_08_DESC:0 "基于阿卡迪亚系统中的监护仪设计的先祖武器的全功能复制品。可以将解散或被摧毁的舰队转化为资源。"
+ 
+ # bwm_enigma_cache_1_0:0 "Monolith"
+ # bwm_enigma_cache_1_0_DESC:0 ""
+ # bwm_enigma_cache_1_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_2_0:0 "Monolith"
+ # bwm_enigma_cache_2_0_DESC:0 ""
+ # bwm_enigma_cache_2_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_3_0:0 "Monolith"
+ # bwm_enigma_cache_3_0_DESC:0 ""
+ # bwm_enigma_cache_3_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_4_0:0 "Monolith"
+ # bwm_enigma_cache_4_0_DESC:0 ""
+ # bwm_enigma_cache_4_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_5_0:0 "Monolith"
+ # bwm_enigma_cache_5_0_DESC:0 ""
+ # bwm_enigma_cache_5_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_6_0:0 "Monolith"
+ # bwm_enigma_cache_6_0_DESC:0 ""
+ # bwm_enigma_cache_6_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_7_0:0 "Monolith"
+ # bwm_enigma_cache_7_0_DESC:0 ""
+ # bwm_enigma_cache_7_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_8_0:0 "Monolith"
+ # bwm_enigma_cache_8_0_DESC:0 ""
+ # bwm_enigma_cache_8_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_9_0:0 "Monolith"
+ # bwm_enigma_cache_9_0_DESC:0 ""
+ # bwm_enigma_cache_9_0_MEGASTRUCTURE_DETAILS:0 ""
+ 
+ # bwm_enigma_cache_1_1:0 "Monolith"
+ # bwm_enigma_cache_1_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_2_1:0 "Monolith"
+ # bwm_enigma_cache_2_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_3_1:0 "Monolith"
+ # bwm_enigma_cache_3_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_4_1:0 "Monolith"
+ # bwm_enigma_cache_4_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_5_1:0 "Monolith"
+ # bwm_enigma_cache_5_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_6_1:0 "Monolith"
+ # bwm_enigma_cache_6_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_7_1:0 "Monolith"
+ # bwm_enigma_cache_7_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_8_1:0 "Monolith"
+ # bwm_enigma_cache_8_1_DESC:0 ""
+ 
+ # bwm_enigma_cache_9_1:0 "Monolith"
+ # bwm_enigma_cache_9_1_DESC:0 ""

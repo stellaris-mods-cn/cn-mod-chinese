@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+SINGULARITY:1 "虚无零点"
+SINGULARITY_DESC:0 "任何一颗天体，都有自己最终的归宿。"
+tech_pk_singularity:0 "秭级奇点发生器"
+tech_pk_singularity_desc:0 "在目标位置产生一个奇点，并快速吸收物质进而发展成为一颗黑洞，毁灭途径的一切事物。"
+FLEETORDER_DESTROY_PLANET_WITH_SINGULARITY:0 "正在准备在$PLANET|Y$内部产生奇点"
+MESSAGE_DESC_FOR_SINGULARITY:0 "被转化为黑洞"
+mcpk.1001.name:0 "奇点产生"
+mcpk.1001.desc:0 "[From.GetName]内部出现了一个奇点。\n\n这个奇点本身已经是一颗小型黑洞，用不了多久，整个[From.GetName]都会分崩离析，最后进入它的视界线。"
+mcpk.1001.tooltip:0 "黑洞生成"
+SINGULARITY_ACTION:0 "奇点化"

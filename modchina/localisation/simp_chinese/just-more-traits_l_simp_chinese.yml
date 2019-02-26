@@ -1,0 +1,160 @@
+﻿l_simp_chinese:
+
+ ## Species Traits ##
+ 
+ trait_just-more-traits_flexible:0 "灵活"
+ trait_just-more-traits_flexible_desc:0 "§L该物种能够忍受环境条件的某些显著差异。§!\n"
+ trait_just-more-traits_hardy:0 "哈代"
+ trait_just-more-traits_hardy_desc:0 "§L该物种在各种环境条件下尤其具有弹性和适应性。§!\n"
+ trait_just-more-traits_sensitive:0 "敏感"
+ trait_just-more-traits_sensitive_desc:0 "§L该物种更喜欢特定的生活条件，对环境的变化不太满意。§!\n"
+ trait_just-more-traits_particular:0 "挑剔"
+ trait_just-more-traits_particular_desc:0 "§L该物种需要在非常特定的范围内的环境条件，以保持内容。§!\n"
+ trait_just-more-traits_exacting:0 "苛求"
+ trait_just-more-traits_exacting_desc:0 "§L该物种需要精确的环境条件，并将容忍很少的差异，从他们的首选准则。§!\n"
+ 
+ trait_just-more-traits_gardeners:0 "园丁"
+ trait_just-more-traits_gardeners_desc:0 "§L这种植物显示出非凡的园艺才能。在规模上，这大大增加了他们殖民地的农业产量。§!\n"
+ trait_just-more-traits_inattentive:0 "怠慢"
+ trait_just-more-traits_inattentive_desc:0 "§L这个物种似乎总是有比农作物更好的事情要做，而且它们的农业产量很低。§!\n"
+ trait_just-more-traits_huntergatherers:0 "采猎者"
+ trait_just-more-traits_huntergatherers_desc:0 "§L农业从来就不是这个物种的天性。它们喜欢跟踪猎物或寻找食物，这限制了它们生产食物的最大能力。§!\n"
+ 
+# trait_just-more-traits_empathic:0 "Empathic"
+# trait_just-more-traits_empathic_desc:0 "§L...§!\n"
+# trait_just-more-traits_abominable:0 "Abominable"
+# trait_just-more-traits_abominable_desc:0 "§L...§!\n"
+
+ trait_just-more-traits_harmonious:0 "和睦"
+ trait_just-more-traits_harmonious_desc:0 "§L这种动物的态度非常随和。他们能够在任何条件下找到满足的来源。§!\n"
+ trait_just-more-traits_cynical:0 "愤世嫉俗"
+ trait_just-more-traits_cynical_desc:0 "§L这种物种以悲观和不信任著称。蔑视和抱怨是他们的天性。§!\n"
+ 
+ trait_just-more-traits_compliant:0 "顺从"
+ trait_just-more-traits_compliant_desc:0 "§L这个物种的成员通常非常愿意服从群体的决定。他们乐于助人的天性往往使他们受到当局的青睐。§!\n"
+ trait_just-more-traits_contrarians:0 "持异议"
+ trait_just-more-traits_contrarians_desc:0 "§L这个物种的成员似乎在进行一场抗议运动。他们总是唱反脸，理所当然地拒绝大多数人的意见。§!\n"
+ 
+ trait_just-more-traits_longlived:0 "长寿"
+ trait_just-more-traits_longlived_desc:0 "§L享受着看似取之不尽的活力，这个物种的成员比银河系的平均寿命要长几十年。§!\n"
+ trait_just-more-traits_indelible:0 "不可磨灭"
+ trait_just-more-traits_indelible_desc:0 "§L特别是身体强健，有几个多余的器官和组织，这种物种的成员往往活得很长。银河系中很少有生命的寿命可以与之相比。§!\n"
+ trait_just-more-traits_ephemeral:0 "朝生暮死"
+ trait_just-more-traits_ephemeral_desc:0 "§L由于寿命短暂，这一物种的成员必须希望寿命有质量，而不是数量，以使他们的生活有意义。§!\n"
+ 
+ trait_just-more-traits_ascetic:0 "苦行者"
+ trait_just-more-traits_ascetic_desc:0 "§L这个物种喜欢简朴的生活方式，不追求别人认为是最基本的快乐。§!\n"
+ trait_just-more-traits_extravagant:0 "奢侈"
+ trait_just-more-traits_extravagant_desc:0 "§L这个物种对快乐有着永不满足的胃口，经常挥霍在不合理的奢侈品和富丽堂皇上。§!\n"
+ 
+ trait_just-more-traits_hardworking:0 "勤劳"
+ trait_just-more-traits_hardworking_desc:0 "§L众所周知，这个物种一直埋头苦干，由于他们的勤奋，获得了更高的矿物产量。§!\n"
+ trait_just-more-traits_lazy:0 "懒惰"
+ trait_just-more-traits_lazy_desc:0 "§L工作是艰苦的，这种动物的成员对工作有一定的过敏。他们宁愿午睡也不愿加班。§!\n"
+ trait_just-more-traits_lethargic:0 "昏昏欲睡"
+ trait_just-more-traits_lethargic_desc:0 "§L这一物种的成员是银河系中最糟糕的矿工之一，几乎不可能激励他们去做艰苦的劳动。§!\n"
+ 
+ trait_just-more-traits_curious:0 "好奇"
+ trait_just-more-traits_curious_desc:0 "§L这个物种的成员总是充满好奇心，渴望学习。这种品质使他们成为成功的探险家和科学家。§!\n"
+ trait_just-more-traits_dull:0 "无趣"
+ trait_just-more-traits_dull_desc:0 "§L有些迟钝，这个物种的成员不是很善于观察。§!\n"
+ trait_just-more-traits_addled:0 "腐坏"
+ trait_just-more-traits_addled_desc:0 "§L学习新信息和掌握新技能对这种物种来说是极具挑战性的。他们的教育进展非常缓慢，而且在智力领域表现不佳。§!\n"
+ 
+ trait_just-more-traits_migratory:0 "迁徙"
+ trait_just-more-traits_migratory_desc:0 "§L流浪癖吞噬了这个物种。他们正在回家的路上。§!\n"
+ trait_just-more-traits_rooted:0 "根深蒂固"
+ trait_just-more-traits_rooted_desc:0 "§L这一物种的成员身体上被束缚在他们的家园，只有在英勇的努力或消耗资源的情况下，他们才会长途跋涉。§!\n"
+ 
+ trait_just-more-traits_virtuosos:0 "大师"
+ trait_just-more-traits_virtuosos_desc:0 "§L这一物种的成员学习事物的速度特别快，擅长于各种各样的追求，而似乎不需要付出任何努力。§!\n"
+ trait_just-more-traits_dimwitted:0 "愚蠢"
+ trait_just-more-traits_dimwitted_desc:0 "§L这个物种的个体成员往往是愚蠢的。对他们来说，学习是一个漫长、痛苦和重复的过程。§!\n"
+ 
+ trait_just-more-traits_fecund:0 "多产"
+ trait_just-more-traits_fecund_desc:0 "§L这个物种非常多产，在一个连续的循环中产生大量可育的后代。§!\n"
+ trait_just-more-traits_barren:0 "不育"
+ trait_just-more-traits_barren_desc:0 "§L繁殖对这种物种来说是一个过于复杂和微妙的过程，容易失败。§!\n"
+ 
+ trait_just-more-traits_unbreakable:0 "牢不可破"
+ trait_just-more-traits_unbreakable_desc:0 "§L当他们的家园被攻击时，这个物种会以超自然的决心战斗到死。只有最勇敢、装备最精良的人才敢袭击它们的洞穴。§!\n"
+ 
+ trait_just-more-traits_tenacious:0 "顽强"
+ trait_just-more-traits_tenacious_desc:0 "§L持久性和韧性定义了这个物种。就个人而言，他们比几乎任何其他人都能更努力地战斗和工作。§!\n"
+ trait_just-more-traits_feeble:0 "薄弱"
+ trait_just-more-traits_feeble_desc:0 "§L经过数百万年的逃腿，这种物种的成员比格里萨尼亚的泥虫还要软。它们甚至能举起自己的肢体，这真是个奇迹。§!\n"
+ 
+ trait_just-more-traits_prodigious:0 "奇妙"
+ trait_just-more-traits_prodigious_desc:0 "§L这个物种非常有天赋，如果他们活得够久，他们就有能力成为银河系历史上真正的传奇人物。§!\n"
+ 
+ trait_just-more-traits_prudent:0 "谨慎"
+ trait_just-more-traits_prudent_desc:0 "§L明智和实际，这个物种知道如何建立一个储备金。§!\n"
+ trait_just-more-traits_idle:0 "无所事事"
+ trait_just-more-traits_idle_desc:0 "§L不愿或不能抓住投资机会，这一物种的成员在现代银河经济中积累财富有困难。§!\n"
+ trait_just-more-traits_spendthrifts:0 "挥霍无度"
+ trait_just-more-traits_spendthrifts_desc:0 "§L这种动物非常不善于理财，它们以善于挥霍财富而闻名。§!\n"
+ 
+ trait_just-more-traits_ritualists:0 "精通仪礼"
+ trait_just-more-traits_ritualists_desc:0 "§L这个物种的成员遵守无数的仪式和仪式。这些共同的经历是他们身份的核心，创造了坚实的文化基础。§!\n"
+ trait_just-more-traits_fractious:0 "易怒"
+ trait_just-more-traits_fractious_desc:0 "§L这个物种的成员很容易发怒，他们之间似乎经常发生冲突。§!\n"
+ 
+  ## Robot Traits ##
+  
+ trait_just-more-traits_robot_robosexuals:0 "机器人性欲"
+ trait_just-more-traits_robot_robosexuals_desc:0 "§L这些机器配备了所有必要的程序和硬件，以从事与有机物的性接触。§!\n"
+  
+ trait_just-more-traits_robot_nanoplasticforms:0 "纳米塑性形态"
+ trait_just-more-traits_robot_nanoplasticforms_desc:0 "§L这些机器是用非常灵活的先进材料制造的。§!\n"
+  
+ trait_just-more-traits_robot_ultrahardmaterials:0 "超硬材料"
+ trait_just-more-traits_robot_ultrahardmaterials_desc:0 "§L这些机器的物理结构是由弹性极强的金属和多陶瓷制成的。§!\n"
+  
+ trait_just-more-traits_robot_subspaceomnibus:0 "子空间组合"
+ trait_just-more-traits_robot_subspaceomnibus_desc:0 "§L这些机器的大部分处理运行在子空间交换电路上，节省了用于其他功能的电力资源。§!\n"
+  
+ trait_just-more-traits_robot_reflexivelearning:0 "反射性学习"
+ trait_just-more-traits_robot_reflexivelearning_desc:0 "§L复杂的编程允许这些机器在遇到新情况时具有高级的交叉引用功能。§!\n"
+  
+ trait_just-more-traits_robot_agribots:0 "农业机器人"
+ trait_just-more-traits_robot_agribots_desc:0 "§L这些机器配备了先进的照顾协议和优化的硬件为农业功能。§!\n"
+  
+ trait_just-more-traits_robot_proceduralintuition:0 "程序直觉"
+ trait_just-more-traits_robot_proceduralintuition_desc:0 "§L这些机器配备了一个由数万亿资源编译而成的正电子库，使它们能够以惊人的速度适应各种情况。§!\n"
+  
+ trait_just-more-traits_robot_rapidrouting:0 "快速路由"
+ trait_just-more-traits_robot_rapidrouting_desc:0 "§L高效的电路设计使这些机器比其他机器更快地转发和处理信息。§!\n"
+  
+ trait_just-more-traits_robot_broadcastdirectives:0 "广播指令"
+ trait_just-more-traits_robot_broadcastdirectives_desc:0 "§L这些机器定期接收广播节目的更新，以确保符合最新的政府政策。§!\n"
+  
+ trait_just-more-traits_robot_nanofabricated:0 "纳米技术"
+ trait_just-more-traits_robot_nanofabricated_desc:0 "§L这些机器几乎完全是由快速纳米制造的印刷技术制造的。§!\n"
+  
+ trait_just-more-traits_robot_nanodisassemblers:0 "纳米分解"
+ trait_just-more-traits_robot_nanodisassemblers_desc:0 "§L这些机器配备了先进的工业纳米浆料分配器来快速处理原材料。§!\n"
+  
+ trait_just-more-traits_robot_subliminalcoding:0 "阈下编码"
+ trait_just-more-traits_robot_subliminalcoding_desc:0 "§L在这些机器上运行的每一行例行程序中都有一种团结一致的倾向。§!\n"
+  
+ trait_just-more-traits_robot_templatedparts:0 "模板化部分"
+ trait_just-more-traits_robot_templatedparts_desc:0 "§L通用部件标准化大大降低了这些机器的单位成本。§!\n"
+  
+ trait_just-more-traits_robot_hypervoltagewiring:0 "高压线路"
+ trait_just-more-traits_robot_hypervoltagewiring_desc:0 "§L这些机器使用先进的快速脉冲技术在它们的系统中分配功率。§!\n"
+  
+ trait_just-more-traits_robot_massive:0 "巨大"
+ trait_just-more-traits_robot_massive_desc:0 "§L这些机器绝对是巨大的。§!\n"
+  
+ trait_just-more-traits_robot_bespokecircuitry:0 "定制电路"
+ trait_just-more-traits_robot_bespokecircuitry_desc:0 "§L每台机器都是独一无二的，需要比标准化模型更长的时间来构建。§!\n"
+  
+ trait_just-more-traits_robot_opulentdesign:0 "华丽的设计"
+ trait_just-more-traits_robot_opulentdesign_desc:0 "§L这些机器的设计没有节省任何费用。更换零部件的成本相当高昂。§!\n"
+  
+ trait_just-more-traits_robot_premiumcomponents:0 "优质组件"
+ trait_just-more-traits_robot_premiumcomponents_desc:0 "§L这些机器不是由出价最低的人制造的。§!\n"
+  
+ trait_just-more-traits_robot_volatilememory:0 "易失存储器"
+ trait_just-more-traits_robot_volatilememory_desc:0 "§L为了促进其他功能，这些机器必须使用高速数据交换和碎片化内存存储。§!\n"
+

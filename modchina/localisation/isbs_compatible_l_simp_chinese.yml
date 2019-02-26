@@ -1,0 +1,18 @@
+﻿
+l_simp_chinese:
+ ####################################
+ # other component
+ ####################################
+ NO_AI_TITAN_CORE_FALLEN:0 "圣堂武士核心 NO AI"
+ NO_AI_TITAN_CORE_01:0 "复仇者核心 NO AI"
+ NO_AI_TITAN_CORE_02:0 "堡垒核心 NO AI"
+ NO_AI_TITAN_CORE_03:0 "哨兵核心 NO AI"
+ NO_AI_LEVIATHAN_CORE_01:0 "战神核心 NO AI"
+ NO_AI_LEVIATHAN_CORE_02:0 "阿蒂米斯核心 NO AI"
+
+ NO_AI_TITAN_CORE_FALLEN_DESC:0 ""
+ NO_AI_TITAN_CORE_01_DESC:0 ""
+ NO_AI_TITAN_CORE_02_DESC:0 ""
+ NO_AI_TITAN_CORE_03_DESC:0 ""
+ NO_AI_LEVIATHAN_CORE_01_DESC:0 ""
+ NO_AI_LEVIATHAN_CORE_02_DESC:0 ""

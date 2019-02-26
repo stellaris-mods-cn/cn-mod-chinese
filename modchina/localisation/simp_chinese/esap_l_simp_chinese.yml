@@ -1,0 +1,319 @@
+﻿l_simp_chinese:
+ ap_esap_artificial_procreation:0 "人工繁殖"
+ ap_esap_artificial_procreation_desc:0 "确保我们物种的人口繁衍是自然规律所留给我们的一项重要任务。我们在生物技术方面的突破使我们能够培育出全新的个体，这将会大大简化生殖过程。"
+ #ap_esap_artificial_procreation_tooltip:0 "§YGrowth Speed§! increased by §G+30%§! and §YFood Consumption§! decreased by §G-25%§!.
+
+ ap_esap_cyber_1:0 "机械之神"
+ ap_esap_cyber_1_desc:0 "创造出能够自我思考并执行工作的机械物种是我们最大的成就。当我们的文明走向终结之时，一个更加伟大的文明将可以取而代之。"
+ ap_esap_cyber_1_tooltip:0 "§Y机器人§!与§Y智能人§! £pops  §Y人口§!没有 £unity  §Y凝聚力§!惩罚。生产§Y合成人§! £pops  §Y人口§!会增加 §G+20%§! £unity  §Y凝聚力§!。每当一个单位的机械 £pops  §Y人口§!被创建后，可得到 £unity  §Y凝聚力§!奖励。"
+ 
+ ap_esap_psi_1:0 "心灵干涉"
+ ap_esap_psi_1_desc:0 "我们的灵能在不断成长的过程中学会了如何使用它们来影响他人的心智————特别是那些心灵软弱的可怜之辈。我们可以用来抑制或增幅敌人的情绪，并在他们的帝国中传播沮丧、愤怒和恐惧。"
+ ap_esap_psi_1_tooltip:0 "我们所有的 §Y宿敌§! 星球增加 §G30§! §Y$MOD_PLANET_UNREST_ADD$§!，他们的 £pop  §Y人口§! £happiness  §Y$MOD_POP_HAPPINESS$§! 降低 §G-15%§! 并导致他们帝国的 £unity  §Y凝聚力§! 产出降低 §G-25%§!."
+ 
+ ap_esap_bio_cyber_psi:0 "终极飞升"
+ ap_esap_bio_cyber_psi_desc:0 "我们已经触摸到这个银河中的伟大奇迹，我们绝不能蒙蔽双眼，让其他未知的可能性永远暗藏在无限的黑暗中。"
+ ap_esap_bio_cyber_psi_tooltip:0 "拥有灵能潜质特性的领袖转化为灵能特性的概率提高到两倍。\n在所有三种飞升路线中都能获得第一阶段的加成，但都无法在任何路线上得到后续阶段的额外优势。"
+ bio_cyber_psi_req_1:0 "$TRIGGER_FAIL$需要以下飞升天赋之一： §Y$ap_mind_over_matter$§!， §Y$ap_the_flesh_is_weak$§! 或 §Y$ap_engineered_evolution$§!。"
+ bio_cyber_psi_req_2:0 "$TRIGGER_FAIL$没有以下飞升天赋之一： §Y$ap_transcendence$§!， §Y$ap_synthetic_evolution$§! 或 §Y$ap_evolutionary_mastery$§!。"
+ bio_cyber_psi_req_3:0 "$TRIGGER_FAIL$没有以下飞升天赋之一： §Y$ap_esap_psi_1$§!， §Y$ap_esap_cyber_1$§! 或 §Y$ap_esap_artificial_procreation$§!。"
+
+ ap_esap_bio_cyber_psi_2:0 "完美飞升"
+ ap_esap_bio_cyber_psi_2_desc:0 "我们对宇宙已经了如指掌，万物鸿蒙，臻于化神。"
+ ap_esap_bio_cyber_psi_2_tooltip:0 "拥有灵能潜质特性的领袖转化为灵能特性的概率不再是原来的两倍。\n三条飞升路线全部开启。"
+ bio_cyber_psi_2_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_bio_cyber_psi$§! 飞升天赋。"
+
+ ap_esap_habitat_2:0 "深空家园"
+ ap_esap_habitat_2_desc:0 "当我们能够创造出更好的世界的时候，为什么我们要让自己被银河系所创造的世界所束缚呢？"
+ ap_esap_habitat_2_tooltip:0 "解锁 §Y$mod_esap_habitat_expansion$§! 星球法令，所有 £pop  §Y人口§! 减少 §G-5%§! £happiness  §Y$MOD_POP_HAPPINESS$§! ，维持 §Y1.5§! 年。法令结束后，该居住地的大小增加 §Y1§! 格。"
+ ap_esap_habitat_2_req:0 "$TRIGGER_FAIL$需要 §Y$ap_voidborn$§! 飞升天赋。"
+ 
+ ap_esap_gov_1:0 "极效官僚"
+ ap_esap_gov_1_desc:0 "一般来说官僚机构非常容易出现运作不佳的状况，但在我们的帝国里却并非如此。我们的管理者始终坚信一点，那就是没有什么东西是完美的。"
+ ap_esap_gov_1_tooltip:0 "该飞升天赋属于§Y政府天赋§!。\n§Y法令持续时间§!增加§G+100%§!并且每解锁一个§Y政府天赋§!该效果就增加§G+20%§!。"
+ 
+ ap_esap_gov_2:0 "英才提拔"
+ ap_esap_gov_2_desc:0 "我们的帝国中存在着无数类型的人才，他们就是我们不断寻求的不世英杰。只要我们渴望得到他们，我们当然会知道如何找到他们。"
+ ap_esap_gov_2_tooltip:0 "该飞升天赋属于§Y政府天赋§!。\n§Y$MOD_COUNTRY_LEADER_CAP$§!增加§G+10§!并且每解锁一个§Y政府天赋§!该效果就§G+2§!。"
+ 
+ ap_esap_gov_3:0 "帝国威望"
+ ap_esap_gov_3_desc:0 "从我们前往宇宙建立了第一个殖民地到如今我们的帝国发展到如此令人惊叹的规模，这些辉煌成就是数千年前还没有步入太空的祖先们所料不及的。"
+ ap_esap_gov_3_tooltip:0 "该飞升天赋属于§Y政府天赋§!。\n§Y$MOD_COUNTRY_INFLUENCE_GAIN_ADD$§!增加§G+0.5§!，并且每解锁一个§Y政府天赋§!该效果额外增加§G+0.3§!。\n每解锁一个§Y政府天赋§!我们的§Y影响力储备§!就增加§G+500§!。"
+ 
+ ap_esap_gov_4:0 "派系主义"
+ ap_esap_gov_4_desc:0 "我们帝国的各个派系都有自己的利益和诉求。只要我们促使他们合作团结，他们的技术与能力便可以成为推动国家发展的助力。"
+ ap_esap_gov_4_tooltip:0 "该飞升天赋属于§Y政府天赋§!。\n每解锁一个§Y政府天赋§!我们所有派系的£happiness §Y幸福度§!就增加§G+1%§!。"
+ 
+ ap_esap_gov_5:0 "帝国特权"
+ ap_esap_gov_5_desc:0 "随着我们文明的不断发展，它的心跳也必须传播到银河更远的地方。更多的星系必须掌控在帝国的直接支配之下。"
+ ap_esap_gov_5_tooltip:0 "该飞升天赋属于§Y政府天赋§!。\n§Y$SYSTEM_CAP_TITLE$§!增加§G+3§!并且每解锁一个§Y政府天赋§!该效果就增加§G+1§!。"
+ 
+ ap_esap_art_of_war:0 "战争韬略"
+ ap_esap_art_of_war_desc:0 "胜者之所以会得胜，是因为他们先掌握胜利的因素才发动战争；败者之所以会失败，是因为他们先点燃了战火才试图去争取胜利。"
+ ap_esap_art_of_war_tooltip:0 ""
+ ap_esap_art_of_war_req_1:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_not_war$§! 飞升天赋。" 
+ 
+ ap_esap_energy:0 "星际经济"
+ ap_esap_energy_desc:0 "我们的经济是在我们仍然局限于一个星系的时候形成的。如今这个落后腐朽的模式已被完全根除。我们即将拥抱的是真正的星河经济。"
+ #ap_esap_energy_tooltip:0 "No effect implemented."
+ ap_esap_energy_req_1:0 "$TRIGGER_FAIL$需要 £physics  §Y$tech_power_hub_2$§! 科技。"
+ ap_esap_energy_req_2:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_not_energy$§! 飞升天赋。" 
+ 
+ ap_esap_multicult:0 "多元文化"
+ ap_esap_multicult_desc:0 "虽然我们的帝国起源于一个种族，但后来许多其他的物种也加入了我们的行列。是时候承认我们是一个多民族的帝国了。"
+ ap_esap_multicult_tooltip:0 "其他帝国对我们的£opinion  §Y$OPINION$§! 增加§G+30§!。"
+ 
+ ap_esap_adv_buildings:0 "尖端设施"
+ ap_esap_adv_buildings_desc:0 "我们的工程师团队完善了我们帝国中已知的几种工业设施。这大大增加了我们的资源产出，远远超出了我们先前的设想。"
+ ap_esap_adv_buildings_tooltip:0 "§H解锁建筑：§! §Y$building_esap_adv_buildings_energy$§!， §Y$building_esap_adv_buildings_food$§! 和 §Y$building_esap_adv_buildings_minerals$§! \n这些设施可以产出大量的 £energy  §Y$MONEY$§!，£food  §Y食物§!和 £minerals §Y矿物§!。"
+ ap_esap_adv_buildings_req_1:0 "$TRIGGER_FAIL$需要 £physics  §Y$tech_power_plant_4$§! 科技。"
+ ap_esap_adv_buildings_req_2:0 "$TRIGGER_FAIL$需要 £society  §Y$tech_nano_vitality_crops$§! 科技。"
+ ap_esap_adv_buildings_req_3:0 "$TRIGGER_FAIL$需要 £engineering  §Y$tech_mining_network_4$§! 科技。"
+ ap_esap_adv_buildings_req_4:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_adv_comp$§! 飞升天赋。"
+ 
+ ap_esap_adv_buildings_machine:0 "尖端设施"
+ ap_esap_adv_buildings_machine_desc:0 "我们的工程师团队完善了我们帝国中已知的几种工业设施。这大大增加了我们的资源产出，远远超出了我们先前的设想。"
+ ap_esap_adv_buildings_machine_tooltip:0 "§H解锁建筑：§! §Y$building_esap_adv_buildings_energy$§! 和 §Y$building_esap_adv_buildings_minerals$§! \n这些设施可以产出大量的 £energy  §YE$MONEY$§!和 £minerals §Y矿物§!。"
+ 
+ ap_esap_adv_comp:0 "未来舰队"
+ ap_esap_adv_comp_desc:0 "我们的舰队是银河中鹤立鸡群的存在。所有其他帝国都仰慕着我们设计的高超舰船，它们在浩瀚的银星之中战无不胜，所向披靡。"
+ ap_esap_adv_comp_tooltip:0 "§H解锁组件：§!§Y$ESAP_MISSILE_6$§!， §Y$ESAP_LASER_6$§!， §Y$ESAP_MASS_DRIVER_6$§!， §Y$ESAP_ARMOR_6$§!， §Y$ESAP_SHIELD_6$§! 和 §Y$ESAP_REACTOR_6$§!。"
+ ap_esap_adv_comp_req_1:0 "$TRIGGER_FAIL$需要以下科技之一： £physics  §Y$tech_lasers_5$§!， £engineering  §Y$tech_missiles_5$§! 或 £engineering  §Y$tech_mass_drivers_5$§!。"
+ ap_esap_adv_comp_req_2:0 "$TRIGGER_FAIL$需要以下科技之一： £physics  §Y$tech_zero_point_power$§!， £physics  §Y$tech_shields_5$§! 或 £engineering  §Y$tech_ship_armor_5$§!。"
+ ap_esap_nature_1_req_3:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_adv_buildings$§! 飞升天赋。"
+ 
+ ap_esap_colony:0 "星河为家"
+ ap_esap_colony_desc:0 "银河系浩瀚广袤，但并不是无界的。若我们不去拥有它，别人便会捷足先登。"
+ ap_esap_colony_tooltip:0 "每当§Y殖民船§!建造时，就会产生额外的§Y殖民船§!。"
+ ap_esap_colony_req_1:0 "$TRIGGER_FAIL$需要至少 §G3§! 颗星球。"
+ ap_esap_colony_req_2:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_not_colony$§! 飞升天赋。" 
+ 
+ ap_one_purpose:0 "唯一目标"
+ ap_one_purpose_desc:0 "我们存在于这个银河可被一个单一目的来定义。那就是我们存在的原因。"
+  
+ ap_one_vision_req_1:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_not_unity$§! 飞升天赋。" 
+ ap_interstellar_dominion_req_1:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_not_border$§! 飞升天赋。" 
+ 
+ ap_esap_military_station:0 "难攻不落"
+ ap_esap_military_station_desc:0 "在银河系中的某些宵小之徒企图夺走我们的东西。我们将竭尽全力阻止他们的行动。我们的防御工事是银河系中最令人钦佩的，我们大部分的堡垒都能在没有支援的情况下击退整个舰队。"
+ #ap_esap_military_station_tooltip:0 ""
+ ap_esap_military_station_req:0 "$TRIGGER_FAIL$需要 £engineering  §Y$tech_space_defense_station_1$§! 科技。"
+ 
+ ap_esap_battleship:0 "战祸巨兽"
+ ap_esap_battleship_desc:0 "对舰船而言，尺寸与当量才是最重要的。一艘没有装备精良的武器和先进装甲的战舰是不足以应对即将而来的战争的。"
+ ap_esap_battleship_tooltip:0 "所有战舰的§Y射程§!增加§G+25%§!，§Y船体值§!增加§G+25%§!，§Y装甲值§!增加§G+15%§!。"
+ 
+ ap_esap_habitability:0 "生态适应"
+ ap_esap_habitability_desc:0 "银河系中存在着各种生态群落，就像布满四周的行星一样。并不是每一个环境都适合于我们，最好的办法是将我们的社会适应当地的环境。"
+ #ap_esap_habitability_tooltip:0 "No effect implemented."
+ 
+ ap_esap_nature_1:0 "亲生命性"
+ ap_esap_nature_1_desc:0 "我们定居的每一个星球都是独一无二的。通过认识到这一点，我们可以充分发挥它们的潜力。"
+ ap_esap_nature_1_tooltip:0 "在每年年底之时，每个新殖民或者被征服的星球都有§Y20%§!的几率获得额外的资源产出，持续§Y10年§!。\n该$ASCENSION_PERKS$开启后也会影响每个被我们控制的星球。"
+ ap_esap_nature_1_req_1:0 "$TRIGGER_FAIL$需要以下飞升天赋之一： §Y$ap_mastery_of_nature$§!， §Y$ap_world_shaper$§! 或 §Y$ap_esap_habitability$§!。"
+
+ ap_esap_nature_2:0 "驾驭自然"
+ ap_esap_nature_2_desc:0 "大自然在永恒的进化之中，我们也一样。我们可以用自己的方式来驾驭共生的自然进化。塑造我们的世界，塑造我们的自我。"
+ ap_esap_nature_2_tooltip:0 "获得一项冷却时间为§Y50年§!的法令。\n该法令有§G75%/50%/30%/15%/5%/0%§!的几率在地块上生成新的资源，但每次使用后几率会减少。\n获得两条法令，可以去除大部分的消极或中性的星球修正。"
+ ap_esap_nature_2_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_nature_1$§! 飞升天赋。" 
+ 
+ ap_esap_rare_tech:0 "宇宙之秘"
+ ap_esap_rare_tech_desc:0 "宇宙中蕴藏了太多无法解释的奥秘，那些有眼无珠的愚昧之人注定无法洞悉真相。"
+ ap_esap_rare_tech_tooltip:0 "解锁 §Y15§! 个全新的稀有科技和研究。"
+ ap_esap_rare_tech_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_technological_ascendancy$§! 飞升天赋。"
+ ap_esap_rare_tech_req_2:0 "$TRIGGER_FAIL$至少已经研究了 §G10§! 个稀有科技。"
+ 
+ ap_esap_repeat_tech:0 "科技登峰"
+ ap_esap_repeat_tech_desc:0 "一个文明的发展程度可以由它所掌握的技术水平来判断。这是一场我们不会输的竞赛，我们永远不会满足于我们所知道的。"
+ ap_esap_repeat_tech_tooltip:0 "当我们研究§Y循环科技§!时，该科技的§Y研究速度§!增加§G+50%§!。"
+ ap_esap_repeat_tech_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_technological_ascendancy$§! 飞升天赋。"
+ ap_esap_repeat_tech_req_2:0 "$TRIGGER_FAIL$至少有§Y循环科技§!的研究选项。"
+ 
+ ap_esap_mining_1:0 "深核提取"
+ ap_esap_mining_1_desc:0 "直到今天我们才意识到，在我们星球的核心深处埋藏着丰富的矿物资源。是时候将它们从地心深处取出来了。"
+ ap_esap_mining_1_tooltip:0 "解锁一条为期§Y15年§!的星球法令。 \n该法令使该星球的§Y幸福度§!和§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!降低§R-10%§!，并且有§Y50%§!的几率在每个地块上生成§G2§!£minerals §Y矿物§!。\n该法令每次使用后资源生成的几率降低§R-5%§!。"
+ ap_esap_mining_1_req_1:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_nature_1$§! 飞升天赋。"
+ ap_esap_mining_1_req_2:0 "$TRIGGER_FAIL$需要 £engineering  §Y$tech_mining_network_4$§! 科技。"
+ 
+ ap_esap_mining_2:0 "灼热熔炉"
+ ap_esap_mining_2_desc:0 "天空布满了烟雾，土地被工业废弃物所覆盖。我们的熔岩星球可能不是银河系中最美的地方。然而，它们的生产能力远远超过了银河系其他任何一个星球。"
+ ap_esap_mining_2_tooltip:0 "我们可以将星球改造成§Y熔岩星球§!，这将使£minerals §Y矿物§!产出增加§G+50%§!并且§Y舰船建造速度§!增加§G+100%§! \n £physics  §YP物理研究§!， £society  §Y社会研究§!， £engineering  §Y工程研究§!， £unity  §Y凝聚力§!和 £food  §Y食物§!产出减少§G-75%§!并且 £energy  §Y$MONEY$§!产出减少§G-25%§!。\n星球§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!减少§G-20%§!并且§Y幸福度§!减少§G-10%§!。"
+ ap_esap_mining_2_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_mining_1$§! 飞升天赋。" 
+ 
+ ap_esap_ecumenopolis:0 "星球之都"
+ ap_esap_ecumenopolis_desc:0 "我们的文明最初起源于我们祖先很久以前定居并形成的都市。我们已经实现了他们的理想，我们的城市覆盖整个星球。每个行星都市都能容纳更多的居民，最终覆盖整个帝国。"
+ ap_esap_ecumenopolis_tooltip:0 "可以花费§Y250影响力§!指定一个星球作为§Y行星都市§!，每有一个星球人口增加额外的§Y200§!$MONEY$。\n清除星球上所有的地块资源。  \n星球§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+20%§!，§Y舰船建造速度§!增加§G+50%§!，§Y食物消耗§!增加§R+100%§!，§Y$MOD_POP_CONSUMER_GOODS_MULT$§!增加§R+200%§!，§Y机器人建造成本§!增加§R+50%§!并且§Y机器人维护费用§!增加§R+100%§!。\n§Y生长速度§!减少§R-50%§!，§Y机械人口建造速度§!减少§R-50%§!并且§Y机械人口幸福度§!减少§R-10%§!。\n解锁§Y15个§!可以在世界都市星球建造的建筑。\n这些建筑可以通过研究§Y$tech_esap_ecumenopolis_2$§!和§Y$tech_esap_ecumenopolis_3$§!科技进行升级。"
+ ap_esap_ecumenopolis_req_1:0 "$TRIGGER_FAIL$需要 £society  §Y$tech_galactic_administration$§! 科技。"
+ 
+ ap_esap_smallworld:0 "小型世界"
+ ap_esap_smallworld_desc:0 "银河系中有数十亿颗行星，其中只有一小部分是适宜生命存在的。它们或大或小，每一颗星球都是一笔财富。没有必要吹毛求疵，我们不仅要学会如何管理大型星球，也要正确利用那些小型的。"
+ ap_esap_smallworld_tooltip:0 "我们所有星球的地块数量变成§Y16个§!。"
+ 
+ ap_esap_border_n_war:0 "黩武之道"
+ ap_esap_border_n_war_desc:0 "我们对银河系的征服才刚刚开始。我们不会停止步伐，直到整个浩瀚星宇都在我们的掌控之下。"
+ ap_esap_border_n_war_tooltip:0 "每当有我们征服一颗星球，我们就会获得£influence  §Y影响力§!和 £unity  §Y凝聚力§!。\n获得数量取决于征服的星球大小。\n在侵略战争中，我们的§Y射速§!增加§G+15%§!"
+ ap_esap_border_n_war_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_interstellar_dominion$§! 飞升天赋。"
+ ap_esap_border_n_war_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_art_of_war$§! 飞升天赋。"
+ 
+ ap_esap_border_n_colony:0 "银河主张"
+ ap_esap_border_n_colony_desc:0 "只要我们伸出手去抓住它，那么整个银河都将是我们的。"
+ ap_esap_border_n_colony_tooltip:0 "所有§Y哨站§!的§Y$MOD_SHIP_HITPOINTS_MULT$§!增加§G+500%§!。"
+ ap_esap_border_n_colony_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_interstellar_dominion$§! 飞升天赋。"
+ ap_esap_border_n_colony_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_colony$§! 飞升天赋。"
+ 
+ ap_esap_colony_n_energy:0 "帝国野心"
+ ap_esap_colony_n_energy_desc:0 "我们的野心是建立一个整个星系都从未见过的伟大帝国。"
+ ap_esap_colony_n_energy_tooltip:0 "被殖民的星球拥有£building  §Y$building_capital_1$§!建筑。\n新建立的殖民地在§Y10年§!内§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!增加§G+100%§!，§Y$MOD_POP_GROWTH_SPEED$§!增加§G+25%§!并且§Y$MOD_PLANET_BUILDING_COST_MULT$§!减少§G-25%§!。"
+ ap_esap_colony_n_energy_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_colony$§! 飞升天赋。"
+ ap_esap_colony_n_energy_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_energy$§! 飞升天赋。"
+ 
+ ap_esap_energy_n_unity:0 "富国安邦"
+ ap_esap_energy_n_unity_desc:0 "经济利润可以用于许多事情，比如我们的舰队船只和行星建设。我们已经认识到利润有着自己的意义。一个帝国的强盛不仅可以根据其舰队规模和行星数量来判断，还可以通过其拥有的财富来定位。"
+ ap_esap_energy_n_unity_tooltip:0 "获得相当与每月£energy  §Y$MONEY$§!利润§Y33%§!的£unity  §Y凝聚力§!。\n该效果最高能获得§Y1000§!的凝聚力。 你无法得到超过每 §Y2§! £pop §Y帝国人口§! §G1§! £unity  §Y凝聚力§!。"
+ ap_esap_energy_n_unity_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_energy$§! 飞升天赋。"
+ ap_esap_energy_n_unity_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_one_vision$§! 飞升天赋。"
+ ap_esap_energy_n_unity_req_3:0 "$TRIGGER_FAIL$需要 §Y$ap_one_purpose$§! 飞升天赋。"
+
+ ap_esap_unity_n_war:0 "战斗信仰"
+ ap_esap_unity_n_war_desc:0 "从文明诞生初始，我们就在无止境地战斗。只有通过战争，我们才能向他人展示我们的力量。"
+ ap_esap_unity_n_war_tooltip:0 "当我们处于战争状态时，£unity  §Y凝聚力§!产出增加§G+25%§!并且所有人口£happiness  §Y$MOD_POP_HAPPINESS$§!增加§G+15%§!。\n当我们征服一个星球后，该星球的人口会被我们的主流思潮所吸引。"
+ ap_esap_unity_n_war_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_one_vision$§! 飞升天赋。"
+ ap_esap_unity_n_war_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_art_of_war$§! 飞升天赋。"
+ ap_esap_unity_n_war_req_3:0 "$TRIGGER_FAIL$需要 §Y$ap_one_purpose$§! 飞升天赋。"
+ 
+ ap_esap_materialist_1:0 "观测群星"
+ ap_esap_materialist_1_desc:0 "作为这个星系的居民，我们有责任去了解它的方方面面。每一颗恒星、行星和卫星都将被记录、测绘并归档。"
+ ap_esap_materialist_1_tooltip:0 "§Y$MOD_SHIP_UPKEEP_MULT$§!减少§G-75%§!并且§Y$MOD_SHIP_SPEED_MULT$§!增加§G+50%§!。"
+ 
+ ap_esap_xenophobe_1:0 "奴隶掠夺"
+ ap_esap_xenophobe_1_desc:0 "从其他帝国抢来的奴隶被视作我们帝国的宝贵财富。这些外星生物不值一提，我们要求他们持续工作，而他们的健康不是我们关心的问题。为了强化我们的奴隶供应链，我们将会派遣突袭队到邻近的星球并掠夺他们的居民。"
+ ap_esap_xenophobe_1_tooltip:0 "§Y解锁星球法令：§! §G$esap_raid_for_slaves$§!\n该法令允许你掠夺领国的奴隶。\n该法令需要§G50§!£energy  §Y$MONEY$§! 和§G10§! £influence  §Y影响力§!并且每个星球一年只能执行一次。\n掠夺奴隶会造成少量§Y不满§!。"
+ 
+ ap_esap_xenophile_1:0 "移民热潮"
+ ap_esap_xenophile_1_desc:0 "总是有那些不满足于他们的星球，在制度下受到不公对待的人们。不过我们可以主动去寻找他们，为他们提供新的家园，让他们在我们的星球上安居乐业，拓展我们帝国的多样化和全面性。"
+ ap_esap_xenophile_1_tooltip:0 "解锁星球法令，可以让你选择其他外星物种移民到这个星球。"
+
+ ap_esap_militarist_1:0 "卓越星港"
+ ap_esap_militarist_1_desc:0 "我们的太空港是连接我们的行星和银河系的存在。他们为我们的舰队建造船只，保卫我们的星球免受侵略者的骚扰。没有这些，我们的帝国将化为乌有。"
+ ap_esap_militarist_1_tooltip:0 "所有达到§Y4§!级的§Y$STARBASE_STARBASE_TAB$§!解锁全新模块。\n§Y$sm_esap_assembly_yards$§!提高舰船建造能力并且不能和其他装配厂一起使用。\n§Y$sm_esap_logistics$§!结合了§Y$STARBASE_SHIPYARD_TAB$§!和§Y$sm_crew_quarters$§!的功能并且不能和其一起使用。\n§Y$sm_esap_reinforce_hull$§!和§Y$sm_esap_long_range$§!提高太空作战能力。"
+ ap_esap_militarist_1_req_1:0 "$TRIGGER_FAIL$需要 £engineering  §Y$tech_battleships$§! 科技。"
+ ap_esap_militarist_1_req_2:0 "$TRIGGER_FAIL$需要 £society  §Y$tech_doctrine_fleet_support$§! 科技。"
+ 
+ ap_esap_pacifism_1:0 "稳健投资"
+ ap_esap_pacifism_1_desc:0 "复利是这个世界上第八大奇迹，明白这个事实的人可以用它赚的更多，并且...嗯...不需要付出任何东西。"
+ ap_esap_pacifism_1_tooltip:0 "每月获得$MONEY$存贮量§Y1.5%§!的§Y$MONEY$§!。你无法得到超过每个 £pop §Y帝国人口§! §G1§! £energy §Y$MONEY$§!。"
+ 
+ ap_esap_authoritarian_1:0 "种群控制"
+ ap_esap_authoritarian_1_desc:0 "我们的公民只是我们伟大帝国下的一小部分。毫无疑问，这些碎片会往需要他们的地方去。"
+ ap_esap_authoritarian_1_tooltip:0 ""
+ 
+ ap_esap_egalitarian_1:0 "理想国度"
+ ap_esap_egalitarian_1_desc:0 "我们的帝国仅仅是达到目的的手段。人民才是我们的命运。只有当我们能为所有的公民提供最好的生活条件时，我们的帝国才能被称为是完整的。"
+ ap_esap_egalitarian_1_tooltip:0 "当我们所有的人口都处于§Y乌托邦生活水平§!时，£unity  §Y凝聚力§!产出和§Y人口生长速度§!增加§G+25%§!。"
+ 
+ ap_esap_hive_swarm_1:0 "虫群之心"
+ ap_esap_hive_swarm_1_desc:0 "My name is Legion, for we are many.（吾名“军团”...因为吾等为数众多）————《圣经·马可福音》第五章第九节"
+ #ap_esap_hive_swarm_1_tooltip:0 "Effect"
+ 
+ ap_esap_hive_swarm_2:0 "无尽蜂群"
+ ap_esap_hive_swarm_2_desc:0 "天空变得昏暗，大地为之颤动，蜂群降临。"
+ ap_esap_hive_swarm_2_tooltip:0 "每当一艘§Y巡洋舰§!建造完成，获得一艘额外的 §Y巡洋舰§!。每当人口生长完成便会获得额外的人口。"
+ ap_esap_hive_swarm_2_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_hive_swarm_1$§! 飞升天赋。" 
+ 
+ ap_esap_hive_devouring:0 "饥食饕餮"
+ ap_esap_hive_devouring_desc:0 "我们吞噬这个宇宙的生命，我们变得愈发强大。饥火永不熄灭，渴求至死方休。"
+ ap_esap_hive_devouring_tooltip:0 "人口被§R净化§!获得的 £society  §Y社会研究§增加§G+300%§!并且获得一定数量的 £food  §Y食物§!。"
+ ap_esap_hive_devouring_addon_tooltip:0 "人口被§R净化§!获得的£society  §Y社会研究§增加§G+300%§!并且获得一定数量的 £food  §Y食物§!。该效果也适用于使用§R净化星球§!的§Y战争诉求§!。"
+ ap_esap_hive_devouring_modifier_desc:0 "§Y$HITPOINTS$§!增加§G+15%§!\n§Y$MOD_SHIP_HULL_REGEN_ADD_PERC$§!增加§G+0.5%§!"
+ 
+ ap_esap_hive_consume_planet:0 "星球湮灭"
+ ap_esap_hive_consume_planet_desc:0 "湮灭一颗行星是一个非常细致的过程。首先要对所有的宏观生物进行处理。接下来是过滤土壤、吸收海洋。最后再将排出大气层。"
+ ap_esap_hive_consume_planet_tooltip:0 "获得一项法令来湮灭一颗行星，将其转化为贫瘠星球。该星球每有一个地块就获得§G250§! £energy  §Y$MONEY$§!和 £food  §Y食物§!并且获得§G1500§ £minerals §Y矿物§!。"
+ 
+ ap_esap_hive_mind:0 "思维入侵"
+ ap_esap_hive_mind_desc:0 "我们的思想迅速而强大。在我们开始支配这个银河系的时候，我们的大脑已经学会了如何浸染和控制外来生物。"
+ ap_esap_hive_mind_tooltip:0 "当一颗星球被征服时，星球上所有的人口都转化成§Y蜂群思维§!。"
+ 
+ ap_esap_not_war:0 "抵制暴力"
+ ap_esap_not_war_desc:0 "战争从来没有胜利者。无论谁以胜者自居都是自欺欺人的，在冲突之中所有人都是失败者。"
+ #ap_esap_not_war_tooltip:0 "Effect"
+ ap_esap_not_war_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_border_n_colony$§! 飞升天赋。" 
+ ap_esap_not_war_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_energy_n_unity$§! 飞升天赋。" 
+ ap_esap_not_war_req_3:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_art_of_war$§! 飞升天赋。"
+ 
+ ap_esap_not_border:0 "谦逊之德"
+ ap_esap_not_border_desc:0 "声称银河系是自己的征服者是傲慢自大的。我们应该努力发展我们的社会，把重心放在我们文明的繁荣之上。"
+ ap_esap_not_border_tooltip:0 "在进攻战争中我们的 £unity  §Y凝聚力§!产出减少§R-60%§!并且人口£happiness  §Y幸福度§!减少§R-30%§! 。"
+ ap_esap_not_border_addon_tooltip:0 "割让星球的战争诉求花费增加§G+200%§!。"
+ ap_esap_not_border_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_unity_n_war$§! 飞升天赋。" 
+ ap_esap_not_border_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_colony_n_energy$§! 飞升天赋。" 
+ ap_esap_not_border_req_3:0 "$TRIGGER_FAIL$没有 §Y$ap_interstellar_dominion$§! 飞升天赋。"
+ 
+ ap_esap_not_unity:0 "海纳百川"
+ ap_esap_not_unity_desc:0 "强迫公民团结只会束缚他们。为了使我们的帝国充分发挥其潜力，我们必须让我们的公民自由。"
+ ap_esap_not_unity_tooltip:0 "§Y派系幸福度§!增加§G+10%§!。\n我们所有的星球£unity  §Y凝聚力§!， £energy  §Y$MONEY$§!， £engineering  §Y工程研究§!， £physics  §Y物理研究§!和 £society  §Y社会研究§!产出减少§R-15%§!。\n并且星球上每有一种不同的§Y道德标准§!，该星球的 £unity  §Y凝聚力§!， £energy  §Y$MONEY$§!， £engineering  §Y工程研究§!， £physics  §Y物理研究§!和 £society  §Y社会研究§!产出增加§G+5%§!。"
+ ap_esap_not_unity_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_border_n_war$§! 飞升天赋。" 
+ ap_esap_not_unity_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_colony_n_energy$§! 飞升天赋。" 
+ ap_esap_not_unity_req_3:0 "$TRIGGER_FAIL$没有 §Y$ap_one_vision$§! 飞升天赋。"
+ ap_esap_not_unity_req_4:0 "$TRIGGER_FAIL$没有 §Y$ap_one_purpose$§! 飞升天赋。"
+  
+ ap_esap_not_colony:0 "集权管理"
+ ap_esap_not_colony_desc:0 "我们帝国的核心就是国家本身。处于边缘的那些世界永远无法成为像我们一样伟大的帝国，他们只需满足于成为伟大的一个组成部分即可。"
+ ap_esap_not_colony_tooltip:0 "所有直辖星球的 £energy  §Y$MONEY$§!， £food  §Y食物§!和 £minerals §Y矿物§!产出增加§G+25%§!。 所有星区管辖的星球 £energy  §Y$MONEY$§!， £food  §Y食物§!和£minerals §Y矿物§!产出减少§R-15%§!。"
+ ap_esap_not_colony_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_border_n_war$§! 飞升天赋。" 
+ ap_esap_not_colony_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_energy_n_unity$§! 飞升天赋。" 
+ ap_esap_not_colony_req_3:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_colony$§! 飞升天赋。"
+ 
+ ap_esap_not_energy:0 "金融革命"
+ ap_esap_not_energy_desc:0 "我们将会摆脱老旧经济的桎梏，把它改变为全新的形态。这将是我们社会中一个巨大的转变，虽然当前的影响还微不足道，但在未来可以证明这一努力带来的巨大成就。"
+ ap_esap_not_energy_tooltip:0 "(禁用大部分减少舰船和建筑维护的修正)"
+ ap_esap_not_energy_req_1:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_border_n_colony$§! 飞升天赋。" 
+ ap_esap_not_energy_req_2:0 "$TRIGGER_FAIL$需要 §Y$ap_esap_unity_n_war$§! 飞升天赋。" 
+ ap_esap_not_energy_req_3:0 "$TRIGGER_FAIL$没有 §Y$ap_esap_energy$§! 飞升天赋。" 
+ 
+ ap_esap_spiritualist_2:0 "万潮归心"
+ ap_esap_spiritualist_2_desc:0 "在很长一段时间里，异教徒和异见人士一直存在于我们的世界中。随着岁月流逝，他们终将会意识到他们已经误入歧途。我们需要采取更加积极的方法，将正确的真理之道展现在他们的面前————即使这是一个漫长的过程。"
+ ap_esap_spiritualist_2_tooltip:0 "解锁§Y$esap_spiritualist_2_convert$§!行星法令\n该法令会将§G1-4§!人口转化为$ethic_spiritualist$思潮。"
+ 
+ ap_esap_materialist_2:0 "探本溯源"
+ ap_esap_materialist_2_desc:0 "我们对新技术的追求达到了新的高度。科技对早期的我们来说，是追求一个更好、更先进社会的意义，而现在这已经变成了一个目的。宇宙的未解之谜如今就是对我们文明的一种嘲讽。只有完全掌握宇宙的知识和运作规律，我们才是完整的。"
+ ap_esap_materialist_2_tooltip:0 "每当研究新科技时，就会获得一定的£unity  §Y凝聚力§!。"
+ 
+ ap_esap_xenophobe_2:0 "异种净化"
+ ap_esap_xenophobe_2_desc:0 "每一颗我们征服的行星都必须仔细而全面地清除异种感染的痕迹。为了确保我们新的殖民者的安全，只有净化一切后我们才能安排迁徙，这才是最大限度地为他们提供保障。"
+ ap_esap_xenophobe_2_tooltip:0 "每当我们征服一颗星球，星球上的原有物种就会被§R净化§!（若原有物种拥有公民身份则被剥夺）。§R净化完成§!后会产生§Y4§!个我们的创始物种。"
+
+ ap_esap_xenophile_2:0 "和衷共济"
+ ap_esap_xenophile_2_desc:0 "真正意义上的伟大都是依靠合作来实现的。若我们携手并进，我们可以将整个银河带入一个崭新的纪元。"
+ ap_esap_xenophile_2_tooltip:0 "所有联盟成员的§Y海军容量§!增加§G+25%§!，§Y$HITPOINTS$§!增加§G+15%§!， £food  §Y食物§!， £energy  §Y$MONEY$§!和£minerals §Y矿物§!产出增加§G+15%§!，盟友对你的§Y$OPINION$§!增加+§G50§!。"
+ 
+ ap_esap_militarist_2:0 "战祸之主"
+ ap_esap_militarist_2_desc:0 "我们的文明在踏上深空后变化颇多，但战争却永远没有停息过。它刻在我们的灵魂深处，成为我们不朽的生存意义。这是我们的信仰————为我们的生活带来喜悦，为我们的敌人带去毁灭。"
+ ap_esap_militarist_2_tooltip:0 "当我们处于和平状态时，£happiness §Y$MOD_POP_HAPPINESS$§!减少§R-3%§!和£unity  §Y凝聚力§!减少§G-5%§!。\n该效果会每年会增至§Y2§!倍，最高可达§Y10§!倍。\n进入战争状态后该效果会减少一倍。"
+ 
+ ap_esap_pacifism_2:0 "和平年代"
+ ap_esap_pacifism_2_desc:0 "战争从未有胜者，所有人都是败者。为了挖掘出我们帝国的真正潜力，我们必须把那些琐碎争吵抛在脑后。我们将踏向一个全新的时代，一个和平的时代。"
+ ap_esap_pacifism_2_tooltip:0 "当我们处于和平状态时，£energy §Y$MONEY$ §!和 £unity §Y凝聚力§!产出增加§G+1%§!。这个效果会每年变成§Y5§!倍，最高增加§Y50§!倍\n进入战争状态后该效果每年会减少五倍。"
+ 
+ ap_esap_authoritarian_2:0 "绝对权力"
+ ap_esap_authoritarian_2_desc:0 "一个国家，就像一个单一的有机体，只能有一个意志贯彻于银河四方。而公民就像躯体里的细胞，毋庸置疑需要履行他们的职责。就是这样，它就该是这样，一切总是这样的。"
+ ap_esap_authoritarian_2_tooltip:0 "移除所有的派系。"
+ 
+ ap_esap_egalitarian_2:0 "自我实现"
+ ap_esap_egalitarian_2_desc:0 "我们的公民并不是在为我们的帝国服务。相反，我们的帝国才是为了实现公民诉求而存在的。只有当我们每个人都充分发挥自己的潜能之时，我们才能达到理想中的完美。也只有这样，我们的帝国才能被视作真正的伟大。"
+ ap_esap_egalitarian_2_tooltip:0 "解锁一组特殊的领袖特质。 每个领袖有§G25%§!的几率在升级时获得这些特质。"
+ 
+ ap_esap_civic_mechanists:0 "智械大师"
+ ap_esap_civic_mechanists_desc:0 "经过多年以来的发展，我们已经完全掌握机器人建造的工艺。这已不仅仅局限于一种技术，而是一项惊叹的艺术。"
+ ap_esap_civic_mechanists_tooltip:0 "每当一个机械 £pop  §Y人口§! 被建造出来，会得到一个额外的机械 £pop  §Y人口§!。"
+ 
+ ap_esap_civic_syncretic_evolution:0 "分层进化"
+ ap_esap_civic_syncretic_evolution_desc:0 "描述"
+ ap_esap_civic_syncretic_evolution_tooltip:0 "效果"
+ 
+ ap_esap_civic_fanatic_purifiers:0 "狂热灭绝"
+ ap_esap_civic_fanatic_purifiers_desc:0 "我们永不停歇，直至我们将整个银河的物种都清洗为我们认同的纯正种族。当我们净化了一个星系后，我们将继续前往下一个需要我们的地方。" 
+ ap_esap_civic_fanatic_purifiers_tooltip:0 "§R净化§! £pop 人口会获得 £unity §Y凝聚力§!。"
+ ap_esap_civic_fanatic_purifiers_addon_tooltip:0 "§R净化§! £pop 人口会获得 £unity §Y凝聚力§!。 当一颗星球被 §Y净化星球§! 战争借口所净化时，也能得到对应数量的 £unity  §Y凝聚力§!。"
+ 
+

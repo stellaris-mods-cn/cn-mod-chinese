@@ -1,0 +1,49 @@
+﻿l_simp_chinese:
+  
+  ####################################
+  # Tile Blockers
+  ####################################
+ 
+  tb_ancient_garbage_dump:0 "£blocker  古老的垃圾场"
+  tb_ancient_garbage_dump_desc:0 "§Y增加 £engineering  研究到邻近地块§!\n\n这个地区到处是一些古代文明留下的各种各样的废墟。"
+  tb_geothermal_activity:0 "£blocker  地热活动"
+  tb_geothermal_activity_desc:0 "§Y增加 £energy  邻近的地块。§!\n\n在这个地区，许多间歇泉向大气中释放出大量的热水和蒸汽。"
+  tb_precursor_city:0 "£blocker  先驱者城市废墟"
+  tb_precursor_city_desc:0 "§Y增加 £society  研究到邻近地块§!\n\n整个地区都是废墟，曾经是一座雄伟的城市，一个早已消失的文明。"
+  tb_anomalous_zone:0 "£blocker  异常区"
+  tb_anomalous_zone_desc:0 "§Y增加 £physics  研究到邻近地块§!\n\n在这一地区，出现了非常奇怪和异常的现象，需要研究。"
+  tb_fertile_plains:0 "£blocker  肥沃的平原"
+  tb_fertile_plains_desc:0 "§Y增加 £food  邻近的地块。§!\n\n这一地区因其独特的性质而引人注目，这对邻近地区的收成产生了有益的影响。"
+  tb_natural_mines:0 "£blocker  自然矿"
+  tb_natural_mines_desc:0 "§Y增加 £minerals  邻近的地块。§!\n\n这一地区有许多洞穴和峡谷，矿藏丰富。"
+  
+  ####################################
+  # Planet Decision
+  ####################################
+  
+  #New
+  decision_protective_equipment:0 "防护设备"
+  decision_protective_equipment_desc:0 "这一决定创造了一些政府计划，强制所有在不利世界的殖民者提供个人防护装备。"
+  
+  ####################################
+  # Tooltip Massages
+  ####################################
+  
+  has_dangerous_wildlife:0 "有一个行星修正 $dangerous_wildlife$"
+  has_toxic_atmosphere:0 "有一个行星修正 $toxic_atmosphere$"
+  has_greenhouse_world:0 "有一个行星修正 $greenhouse_world$"
+  has_red_giant:0 "有一个行星修正 $red_giant$"
+  has_yellow_giant:0 "有一个行星修正 $yellow_giant$"
+  has_blue_giant:0 "有一个行星修正 $blue_giant$"
+  has_scorched_world:0 "有一个行星修正 $scorched_world$"
+
+  ####################################
+  # Army
+  ####################################
+  
+  #New
+  night_monsters:0 "夜间怪物"
+  night_monsters_desc:0 "当黑暗来临时，神秘的生物会攻击并摧毁星球上所有的生命。"
+  hardened_army:0 "冷酷的战士"
+  hardened_army_desc:0 "这些顽强而致命的战士能够经受最严酷的条件。"
+ 

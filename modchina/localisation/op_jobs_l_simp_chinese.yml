@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ ####################################
+ # jobs
+ ####################################
+ job_oparchivist:0 "Archivist"
+ job_oparchivist_plural:0 "Archivist"
+ job_oparchivist_desc:0 "Archivists are somewhere between celebrity and saint, dedicating their lives to the preservation of that which their society holds most sacred: knowledge."
+ job_oparchivist_effect_desc:0 "£job_oparchivist£ $job_oparchivist_plural$ produce §Y$Research$§!."
+ mod_job_oparchivist_add:0 "$job_oparchivist$ Jobs"
+ mod_job_oparchivist_per_pop:0 "§G+1§! $job_oparchivist$ Job per $VALUE$ Pops"
+ mod_job_oparchivist_per_pop_short:0 "\n§G+1§! £mod_job_oparchivist_add£ per $VALUE$ £pop"

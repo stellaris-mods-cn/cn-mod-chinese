@@ -1,0 +1,107 @@
+﻿l_simp_chinese:
+
+ #Anomaly
+ 
+ mem_snowed_in_category:0 "冰冻遗迹"
+ mem_snowed_in_category_desc:0 "听起来也许不大可能，§Y[Root.GetName]§!的冻结表面似乎曾经有过生命。从表面上仍然可以看到曾经蓬勃发展的文明的遗迹。"
+ 
+ #Events
+ 
+ mem_snowed_in.1.name:0 "冰冻遗迹"
+ mem_snowed_in.1.desc:0 "对§Y[From.GetName]§!的观察证实了我们最初的假设 - 在它的冰冻表面上都有废墟。广阔的大都市区仍然可以在不同的地区被识别出来。 初步分析表明，这个星球曾经是工业文明的家园，直到一场神秘的灾难造成当前的冰河时代，并将整个星球变成冰冷的荒原。"
+ 
+ mem_snowed_in.3.name:0 "寒冰里的生命"
+ mem_snowed_in.3.desc.first:0 "我们对§Y[mem_snowed_in_planet.GetName]§!的持续监测发现了一些意想不到的事情。\n\n看上去在行星地表深处仍有一个能量源处于活动状态。从我们的研究站进行更深层次的探索证实，一开始的灾变造成了从冰河时代的幸存者仍生活在地下深处。"
+ mem_snowed_in.3.desc.second:0 "看来一开始让§Y[mem_snowed_in_planet.GetName]§!变成冰冻荒原的灾变下有一组幸存者仍存活在地下深处。\n\n我们的研究站已经确定了他们的地下栖息地。"
+ mem_snowed_in.3.a:0 "与他们建立沟通。"
+ mem_snowed_in.3.b:0 "继续观察它们。"
+ mem_snowed_in.3.c:0 "幸存者？不会很长时间。"
+ mem_snowed_in.3.d:0 "幸存者？我们应该猎捕它们。"
+ mem_snowed_in.3.tooltip:0 "§Y[mem_snowed_in_planet.GetName]§!上的£society §G社会学§!产出将会增加"
+ 
+ mem_snowed_in.5.name:0 "建立联系"
+ mem_snowed_in.5.desc:0 "截取了来自§Y[mem_snowed_in_planet.GetName]§!的地下栖息地的足够数据之后，我们能够解码外星人的语言和数据协议。\n\n现在我们已经准备好与地下居民建立联系了。"
+ 
+ mem_snowed_in.6.name:0 "与[mem_snowed_in_planet.GetName]通信"
+ mem_snowed_in.6.desc.first:0 "您好，我代表§Y[mem_snowed_in_species.GetSpeciesName]文明§!的临时政府... 额，剩下的那部分。 \n\n你们真的是太空文明吗？你们可能看出来了我们的世界并不处于最好的状态。也许在你们强大的帝国某个星球上有我们的位置？"
+ mem_snowed_in.6.desc.second:0 "哦，你好像是新来的。\n\n我不清楚上面发生了什么，但是我会告诉你们我和在之前来的人说过的那些话。\n\n我代表§Y[mem_snowed_in_species.GetSpeciesName]文明§!的临时政府，你们可能看出来了我们的世界并不处于最好的状态。也许在你们强大的帝国某个星球上有我们的位置？"
+ mem_snowed_in.6.a:0 "你们的世界发生了什么？"
+ mem_snowed_in.6.a.response:0 "我没办法说得很确切。它刚开始时，我们的科学不够先进，不能完全理解发生的事...但现在，我们几乎没任何科学了。也许有人造成了我们星球轨道的不稳定。我们花了几个世纪的时间，远离恒星，所以我们才能够适应...但是现在我们被困在这里，被外面几乎绝对零度包围。"
+ mem_snowed_in.6.b:0 "可以安排这个。"
+ mem_snowed_in.6.b.tooltip:0 "来自§Y[mem_snowed_in_planet.GetName]§!的难民将逐渐搬入我们的世界，只要我们有足够的可居住空间。"
+ mem_snowed_in.6.c:0 "我们不会放你们任何人进去。"
+ mem_snowed_in.6.c.gestalt:0 "像你们这样的个人主义者不属于我们。"
+ mem_snowed_in.6.c.response:0 "我懂了。真不幸。\n\n我们已经坚持了这么久，不用你的帮助，我们会找到生存的办法的"
+ mem_snowed_in.6.c.xenophobe:0 "你们的物种应受灭绝，[mem_snowed_in_species.GetSpeciesNameInsult]."
+ mem_snowed_in.6.c.xenophobe.response:0 "我懂了。\n\n一个简单的“不”就够了。"
+ mem_snowed_in.6.d:0 "我们可以为你们提供技术帮助你们生存。"
+ mem_snowed_in.6.d.response:0 "和我们希望的不太一样...不过肯定会有帮助。"
+ mem_server_room.6.e:0 "我们会祈祷你们得救。"
+ mem_server_room.6.e.response:0 "搞笑吗？！祈祷？\n\n哦当然，为什么不呢。你们的祈祷那当然会帮助我们不被冻死。"
+ 
+ mem_snowed_in.7.name:0 "轨道轰炸完毕"
+ mem_snowed_in.7.desc:0 "我们的部队已经成功向§Y[mem_snowed_in_planet.GetName]§!地表投放了炸弹。地堡已经坍塌，躲在那里的人已经被淘汰。"
+ mem_snowed_in.7.tooltip:0 "§Y[mem_snowed_in_planet.GetName]§!上的£society §G社会学§!产出将随着土著居民的死亡而显著减少。"
+ 
+ mem_snowed_in.8.name:0 "地堡入侵完成"
+ mem_snowed_in.8.desc:0 "我们的攻击工蜂已经通过了§Y[mem_snowed_in_planet.GetName]§!表面之下的地堡。地堡的居民原始的抵抗迅速被击溃，它们已被成功抓获供我们使用。"
+ mem_snowed_in.8.a:0 "我们开盛宴。"
+ mem_snowed_in.8.b:0 "吸收他们的知识并清除它们。"
+ mem_snowed_in.8.c:0 "同化他们并安置他们在一个更适合居住的地方。"
+ mem_snowed_in.8.c.tooltip:0 "一些£pop 人口将做成电子人被带到我们的世界"
+ 
+ mem_snowed_in.9.name:0 "疏散完毕"
+ mem_snowed_in.9.desc:0 "§Y[mem_snowed_in_planet.GetName]§!上最后一名幸存者已经移居到我们的世界去了。这个行星现在完全空了。"
+ 
+ mem_snowed_in.999.name:0 "带错路"
+ mem_snowed_in.999.desc:0 "我们对§Y[fromfrom.GetName]§!的原始评估似乎是不正确的。\n\n这个星球被特殊形状的锯齿状岩石覆盖，但显然没有任何种类的人造结构。"
+ mem_snowed_in.999.a:0 "额…好吧…"
+ 
+ #Projects
+ 
+ MEM_SNOWED_IN_ESTABLISH_CONTACT:0 "建立通信"
+ MEM_SNOWED_IN_ESTABLISH_CONTACT_DESC:0 "在§Y[mem_snowed_in_planet.GetName]§!地表下的堡垒似乎存在有智慧的生命。我们应该能够拦截和破译他们的通信并学习他们的语言。"
+ 
+ MEM_SNOWED_IN_DESTROY:0 "摧毁地堡"
+ MEM_SNOWED_IN_DESTROY_DESC:0 "在§Y[mem_snowed_in_planet.GetName]§!地表下的堡垒似乎存在有智慧的生命。这是不容继续存在的。\n\n只要有足够精确的打击，我们可以轻松使其坍塌，让居民暴露在残骸和绝对零度的环境中。"
+ 
+ MEM_SNOWED_IN_ASSAULT:0 "占领碉堡"
+ MEM_SNOWED_IN_ASSAULT_DESC:0 "在§Y[mem_snowed_in_planet.GetName]§!地表下的堡垒似乎存在有智慧的生命。通过一小支突击部队我们应该可以捕获它们以供进一步使用。"
+ 
+ #Traits
+ 
+ trait_mem_snowed_in_survivors:0 "冰冻世界幸存者"
+ trait_mem_snowed_in_survivors_desc:0 "该物种在其原始环境毁灭后生存了下来，适应了生活在一个微小的栖息地，被外部接近绝对零度的气温包围。"
+ 
+ #Modifiers
+ 
+ mem_snowed_in_ruins:0 "冰冻遗迹"
+ mem_snowed_in_ruins_desc:0 "这个星球表面有一个死去文明的遗址。"
+ 
+ mem_snowed_in_civilisation:0 "冰冻的幸存者"
+ mem_snowed_in_civilisation_desc:0 "尽管地表完全被冻结，但仍有有机生命在地表之下继续存在。"
+ 
+ mem_snowed_in_civilisation_destroyed:0 "灭亡的文明"
+ mem_snowed_in_civilisation_destroyed_desc:0 "原本逃离新冰河时代到地下的有机物无论如何都被太空外的入侵所摧毁了。"
+ 
+ mem_snowed_in_civilisation_evacuated:0 "废墟"
+ mem_snowed_in_civilisation_evacuated_desc:0 "曾经居住在这里的文明的最后残余已经抛弃了这个世界去寻找更适宜居住的地方。"
+ 
+ mem_snowed_in_eat_everyone:0 "冰冻的幸存者"
+ mem_snowed_in_eat_everyone_desc:0 "有时候这些逃过了世界毁灭的人最后就这样成了零食。"
+ 
+ #Modifiers
+ mem_snowed_in_ruins:0 "冰冻遗迹"
+ mem_snowed_in_ruins_desc:0 "这个星球表面有一个死去文明的遗址。"
+ 
+ mem_snowed_in_civilisation:0 "冰冻的幸存者"
+ mem_snowed_in_civilisation_desc:0 "尽管地表完全被冻结，但仍有有机生命在地表之下继续存在。"
+ 
+ mem_snowed_in_civilisation_destroyed:0 "灭亡的文明"
+ mem_snowed_in_civilisation_destroyed_desc:0 "原本逃离新冰河时代到地下的有机物无论如何都被太空外的入侵所摧毁了。"
+ 
+ mem_snowed_in_civilisation_evacuated:0 "废墟"
+ mem_snowed_in_civilisation_evacuated_desc:0 "曾经居住在这里的文明的最后残余已经抛弃了这个世界去寻找更适宜居住的地方。"
+ 
+ mem_snowed_in_eat_everyone:0 "冰冻的幸存者"
+ mem_snowed_in_eat_everyone_desc:0 "有时候这些逃过了世界毁灭的人最后就这样成了零食。"

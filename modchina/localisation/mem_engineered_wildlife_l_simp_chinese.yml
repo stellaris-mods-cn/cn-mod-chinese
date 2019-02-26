@@ -1,0 +1,20 @@
+﻿
+#By ViolentBeetle
+l_simp_chinese:
+
+mem_engineered_wildlife_category:0 "奇特的野生动物"
+mem_engineered_wildlife_category_desc:0 "我们的扫描显示，[root.GetName]的原生野生动物的行为模式不同寻常。还需要进一步研究，看看这将如何影响潜在的殖民化努力。"
+
+mem_engineered_wildlife.1.name:0 "野生动物是……可爱的"
+mem_engineered_wildlife.1.desc:0 "在我们的研究人员面前，[from.GetName]的本土野生动物非常安静。更重要的是，到目前为止遇到的每一个物种都给船员们带来了审美上的愉悦，创造了保护和友谊的感觉。虽然[root.leader.GetName]最初担心这可能是某种信息素或其他外星人现象，但研究结果表明，这些动物被简单地认为是“可爱的”。来自[from.GetName]的动物令人愉悦的天性是如此的普遍，以至于它不可能是自然进化的结果，而目前的主流理论是，这个世界可能在过去是基因工程的目标来创造某种动物园。无论如何，如果我们选择在星球上定居，当地动物的友好本性将受到欢迎。"
+mem_engineered_wildlife.1.option:0 "这可真是意想不到。"
+
+mem_cute_wildlife:0 "可爱的野生动物"
+mem_cute_wildlife_desc:0 "这个星球上有各种各样的野生动物标本，它们都是经过基因改造变得可爱的。"
+
+
+mem_engineered_wildlife.2.name:0 "到处都充满敌意的野生动物!"
+mem_engineered_wildlife.2.desc:0 "[from.GetName]的本土野生动物是难以置信的敌对和危险![root.GetName]的几名工作人员在获取野生动物样本时迷路了，每一种生物都以某种方式对有机生命是致命的。我们捕获的物种的遗传样本显示了基因篡改的明显证据。[from.GetName]很有可能是外星生物武器开发的实验室，但最终还是失败了。这些生物是否摧毁了它们的创造者还不得而知。不管怎样，如果我们选择殖民的话，这些生物的敌对本性将会给我们的殖民者造成巨大的障碍。"
+
+mem_engineered_wildlife_dangerous:0 "危险的野生动物"
+mem_engineered_wildlife_dangerous_desc:0 "这个星球上有各种致命的、经过基因改造的野生动物标本。"

@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+ #Base
+ mem_flight_recorder_category:0 "不明信号"
+ mem_flight_recorder_category_desc:0 "我们收到来自§Y[Root.GetName]§!的重复信号，大概是遇险信号或定位信标。"
+
+ #Success
+ mem_flight_recorder.1.name:0 "飞行记录器"
+ mem_flight_recorder.1.desc:0 "§Y[Root.GetName]§!已截获并回收小装置绕行的§Y[From.GetName]§!。从提取的数据得知这是来自巡洋舰的飞行记录器，在恒星周围遭遇武装劫持后被抛弃。根据听到那一组声音，那群劫机者要么是自由战士，要么是民族狂热分子。防守人员则描述恐怖分子试图破坏他们的国家的和平稳定，而劫机者则描述了他们是解放者，要摆脱帝国的压迫。无论是哪种，这种原始飞行数据可能对我们的研究有所帮助。"
+
+ #Failure
+ mem_flight_recorder.2.name:0 "信号丢失"
+ mem_flight_recorder.2.desc:0 "§Y[Root.GetName]§!无法再次分离并跟踪信号。可能它的源头永远得消失了。"
+ 
+ mem_flight_recorder.dissapointing:0 "令人失望"
+
+ #Critical Failure
+ mem_flight_recorder.3.name:0 "陷阱"
+ mem_flight_recorder.3.desc:0 "在§Y[From.GetName]§!的飞船打捞不久之后，我们失去与他们的联系。看来这台设备在装上飞船时候是可远程操控的，很可能是某种陷进。"

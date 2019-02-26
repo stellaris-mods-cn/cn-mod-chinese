@@ -1,0 +1,3 @@
+﻿l_default:
+ format.freed_slaves.1: "[This.GetSpeciesName] <freed_slaves>"
+ format.freed_slaves.2: "<freed_slaves_desc> [This.GetSpeciesName] <freed_slaves_1>"

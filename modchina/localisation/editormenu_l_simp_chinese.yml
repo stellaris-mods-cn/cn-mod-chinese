@@ -1,0 +1,160 @@
+﻿l_simp_chinese:
+ editormenu.1.name: "EditorMenu - [emu_target.GetName]"
+ editormenu.1.desc: "国家: §H[ROOT.GetName]§!\n目标: §Y[emu_target.GetName]§!"
+ 
+ editormenu.welcome: "欢迎使用§HEditorMenu§!!\n§HEditorMenu§!是通过从星系视图(而不是星图视图)中选择行星/恒星/小行星来调用的，并在控制台输入:\n      §Gevent editormenu.1§!\n如果菜单没有打开，确保你已经从星系视图中选择了一个行星/恒星，并且目前正在控制你自己的国家。";
+ 
+ editormenu.observe: "§G进入观察模式§!"
+ editormenu.observe.desc: "这将你的物种控制转换为编辑菜单的伪国家，可以看到整个星系。\n使用此模式编辑您的物种尚未遇到的对象和星系。\n§Y注意: 在这种模式下，请暂停游戏，以防止AI控制你的国家。§!\n你可以在编辑菜单的观察模式下再次打开这个菜单回到你的国家。"
+ editormenu.country: "§G回到玩家模式§!"
+ 
+ editormenu.1.a:    "  $PLANETVIEW_PLANET_CLASS$ §H>§!"
+ editormenu.3.desc: "选择$PLANETVIEW_PLANET_CLASS$"
+ 
+ editormenu.1.b:    "  $PLANET_SIZE$ §H>§!"
+ editormenu.4.desc: "最大行星大小: §H25§!\n最大卫星大小: §H18§!"
+ 
+ editormenu.1.e:    "  $PLANETVIEW_PLANET_MODIFIERS$ §H>§!"
+ editormenu.7.desc: "增加$PLANETVIEW_PLANET_MODIFIERS$"
+ editormenu.71:     "§G绿色修正§!"
+ editormenu.72:     "§Y黄色修正§!"
+ editormenu.73:     "§R红色修正§!" 
+ editormenu.7.a:    "添加行星环"
+ editormenu.7.b:    "去除行星环"
+ editormenu.7.r:    "§R删除所有非脚本的修正§!"
+
+ editormenu.1.d:    "  $STRATEGIC_RESOURCE$ §H>§!"
+ editormenu.6.desc: "设置$STRATEGIC_RESOURCE$"
+ editormenu.6.a:    "§R删除轨道资源§!"
+ 
+ editormenu.1.c:    "  轨道资源 §H>§!"
+ editormenu.5.desc: "设置轨道资源"
+ 
+ editormenu.1.g:    "  添加地表资源 §H>§!"
+ editormenu.9.desc: "将资源添加到没有建筑物的空地块上。\n不会将地表的资源添加到空轨道地块上。" 
+ 
+ editormenu.1.h:    "  去除地表资源 §H>§!"
+ editormenu.10.desc: "从单个地块中去除资源。\n这不会移除带有建筑物的资源。\n最低产量的地块首先被移除。" 
+ editormenu.10.a:   "删除地表混合资源"
+ editormenu.10.b:   "§R删除所有地表资源§!"
+ 
+ editormenu.1.j: "  文明 §H>§!"
+ 
+ editormenu.1.i: "  §E银河系选项§! §H>§!"
+ editormenu.12.desc: "星系和事件菜单";
+ editormenu.1.k: "  §E事件模块§! §H>§!"
+ editormenu.noevents: "事件模块子mod没有安装。\n查看Steam页面了解更多信息。"
+ 
+ editormenu.1.noanomaly: "设置此选项将确保在此对象上不会产生随机异常。\n这对于防止可能替换/删除资源、更改对象类或导致不需要的修改发生在该对象上的随机事件非常有用。"
+
+ editormenu.return: "§H返回§!"
+ editormenu.return2: "§H主菜单§!"
+ editormenu.exit: "§H关闭菜单§!"
+ 
+ editormenu.2.name: "警告!"
+ editormenu.2.desc: "游戏把这个对象设置为§R$PREVENT_ANOMALY$§!.\n改变在星系创建过程中特别标记的对象的类可能会导致意想不到的结果:使用这些对象的脚本、事件和异常可能会中断，或者可能无法正常工作。\n你确定要继续吗?"
+
+ editormenu.3.a: "$pc_barren$ (冷)"
+ editormenu.3.b: "§G宜居§!"
+ editormenu.3.c: "§M不宜居§!"
+ editormenu.3.d: "§B$STAR$§!"
+
+ editormenu.4.a: "$PLANET_SIZE$ §G+1§!"
+ editormenu.4.b: "$PLANET_SIZE$ §G+2§!"
+ editormenu.4.c: "$PLANET_SIZE$ §G+5§!"
+ editormenu.4.d: "$PLANET_SIZE$ §G+10§!"
+ editormenu.4.e: "$PLANET_SIZE$ §R-1§!"
+ editormenu.4.f: "$PLANET_SIZE$ §R-2§!"
+ editormenu.4.g: "$PLANET_SIZE$ §R-5§!"
+ editormenu.4.h: "$PLANET_SIZE$ §R-10§!"
+ 
+  
+ editormenu.9.a: " $energy$£energy£ §H>§!"
+ editormenu.9.b: " $minerals$£minerals£ §H>§!"
+ editormenu.9.c: " $food$£food£ §H>§!"
+ editormenu.9.d: " $volatile_motes$£volatile_motes£ §H>§!"
+ editormenu.9.e: " $exotic_gases$£exotic_gases£ §H>§!"
+ editormenu.9.f: " $rare_crystals$£rare_crystals£ §H>§!"
+ editormenu.9.g: " $POPULATION$£pops£" 
+ editormenu.9.h: " $PRESAPIENT$"
+ editormenu.9.i: " $sr_alien_pets$£alien_pets£"
+ editormenu.9.j: " $sr_betharian$£betharian£"
+ 
+ editormenu.11.a: "正常"
+ editormenu.11.b: "丰富"
+ editormenu.11.c: "大量"
+ editormenu.11.d: "巨量"
+ 
+ editormenu.12.a: "  特殊的星系 §H>§!"
+ editormenu.12.e: "  毁坏的巨型建筑 §H>§!"
+ editormenu.12.b: "  超空间航道编辑器 §H>§!"
+ editormenu.12.d: "  虫洞对 §H>§!"
+ 
+ editormenu.19.desc: "选择一个文明类型来衍生。"
+ editormenu.19.a: "§R种族灭绝§!"
+ editormenu.19.b: "$stone_age$ to $renaissance_age$"
+ editormenu.19.c: "$steam_age$ to $early_space_age$"
+ editormenu.19.gen: "在摧毁了一个殖民地之后，这里将不再可被殖民，直到游戏有滴答声响起。"
+ 
+ editormenu.13.desc: "在星系中选择一个新的星系。\n现有的星系位置可以在星系地图上被标记。\n§Y注意:如果你刚刚开始了一个新的游戏，一些来自这些选项的星系可能会生成失败。\n为了让这些选项发挥作用，这个星系的初始保存和加载是必要的。§!"
+ editormenu.13.ping: "生成星系"
+ 
+ editormenu.13.k: "§E设置在§Y[emu_target.System.GetName]§!附近生成§! "
+ editormenu.13.l: "§E设置为随机位置产生§!"
+ 
+ editormenu.13.sys_random: "目前，这个菜单的下一个星系将在一个随机的位置产生。\n切换这个选项，如果你想要一个星系从这个菜单在当前目标的星系附近生成。\n此选项仅与此菜单相关，并在选择任何选项后重新设置为“随机”。"
+ editormenu.13.sys_origin: "目前，该菜单下的下一个星系将在§Y[emu_target.System.GetName]§!附近生成。\n如果你想要一个“随机”，就切换这个选项吧!从这个菜单中生成一个星系。"
+ 
+ editormenu.13.a: "§Y$editormenu.13.ping$: $leviathans.1000.name$§!"
+ editormenu.13.b: "§Y$editormenu.13.ping$: $leviathans.610.name$§!"
+ editormenu.13.c: "§Y$editormenu.13.ping$: $leviathans.3001$§!"
+ editormenu.13.d: "§Y$editormenu.13.ping$: $leviathans.3100$§!"
+ editormenu.13.e: "§Y$editormenu.13.ping$: $leviathans.3202$§!"
+ editormenu.13.f: "§Y$editormenu.13.ping$: $leviathans.1030.name$§!"
+ editormenu.13.g: "§Y$editormenu.13.ping$: $leviathans.2101.name$§!"
+ editormenu.13.h: "§Y$editormenu.13.ping$: $galactic_features.2.name$§!"
+ editormenu.13.sanctuary: "避难所星系"
+ editormenu.13.i: "§Y$editormenu.13.ping$: $editormenu.13.sanctuary$§!"
+ editormenu.13.j: "§Y$editormenu.13.ping$: $leviathans.2010.name$§!"
+ editormenu.130: "独特星系>§"
+ editormenu.130.a: "水晶巢穴"
+ editormenu.130.b: "§Y$editormenu.13.ping$: $editormenu.130.a$§!"
+ editormenu.130.c: "AI叛乱"
+ editormenu.130.d: "§Y$editormenu.13.ping$: $editormenu.130.c$§!"
+ editormenu.130.e: "Crystal Manufactory version of Basic 4"
+ editormenu.130.f: "§Y$editormenu.13.ping$: $editormenu.130.e$§!"
+ editormenu.130.g: ""
+ editormenu.130.h: "§Y$editormenu.13.ping$: $editormenu.130.g$§!"
+ editormenu.131: "利维坦§H>§"
+ 
+ editormenu.21.c: "§Y$editormenu.13.ping$: $dyson_sphere_ruined$§!"
+ editormenu.21.d: "§Y$editormenu.13.ping$: $think_tank_ruined$§!"
+ editormenu.21.e: "§Y$editormenu.13.ping$: $spy_orb_ruined$§!"
+ editormenu.21.f: "§Y$editormenu.13.ping$: $utopia.2016.name$§!"
+
+ editormenu.12.f: "在§Y[emu_target.System.GetName]§!星系创建$apoc.1.name$"
+ editormenu.12.g: "删除§Y[emu_target.System.GetName]§!星系的$apoc.1.name$" 
+ editormenu.12.gwt: "星门不会出现在物理上，除非游戏中出现了一些滴答声或游戏被保存和加载。"
+ editormenu.12.h: "在 §Y[emu_target.System.GetName]§! 创建 $lgate_disabled$"
+ editormenu.12.i: "在 §Y[emu_target.System.GetName]§! 去除 $lgate_disabled$"
+ editormenu.12.lgate: "要激活L-星团情况日志，必须将星门放到一个未开发的星系中。直到游戏中的一些滴答声通过或者游戏被保存并加载，星门才会出现。"
+ 
+ editormenu.15.desc: "创建或删除两个星系之间的超空间航道。\n首先，使用下面的菜单将当前选择的对象星系设置为原点。\n然后，将菜单完全关闭，并导航到一个星系中的行星/恒星，超空间航道从原点星系生成或删除。\n在选择该星系中的对象后，再次打开此菜单，您将可以选择连接或删除两个星系之间的超空间航道。\n§Y注意:即使超空间航道在内部被正确地创建和移除，可视的星系地图也不会被重新渲染，直到游戏中的两个计时点或游戏被保存和加载。§!"
+ 
+ editormenu.15.a: "保存§Y[emu_target.System.GetName]§!作为起点"
+ editormenu.15.b: "起点: §Y[emu_hyp_origin.GetName]§!"
+ editormenu.15.c: "目标: §Y[emu_target.System.GetName]§!"
+ editormenu.15.d: "生成超空间航道"
+ editormenu.15.e: "删除超空间航道"
+ editormenu.15.f: "§R清除起点位置§!"
+ 
+ editormenu.18.desc: "在两个星系之间创建一个虫洞对。\n首先，将当前选择星系设置为起点使用下面的菜单。\n然后，将菜单完全关闭，导航到一个星系中的行星/恒星，虫洞对将连接到起点星系。\n在选择该星系中的对象后再次打开此菜单，您将可以选择在这两个星系之间创建一个虫洞对。\n§Y注意:目前不能删除虫洞。§!"
+ 
+ editormenu.18.a: "起点: §Y[emu_whl_origin.GetName]§!"
+ editormenu.18.b: "创建一对虫洞"
+ 
+ editormenu.sys_ping_message:0 "星系地图上有一个星系。"
+  
+ decision_editormenu: "Editor Menu"
+ decision_editormenu_desc: "打开Editor Menu"
+ 

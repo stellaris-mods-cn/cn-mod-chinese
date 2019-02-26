@@ -1,0 +1,25 @@
+﻿
+#By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_wargame_observer_object:0 "废弃的空间站"
+
+ # Anomaly deprecated, saved for posterity
+ #mem_wargame_station_category:0 "Silent Observer"
+ #mem_wargame_station_category_desc:0 "An abandoned station is orbiting [This.GetName], quietly watching over the system."
+
+ mem_wargame.1.name:0 "古战场"
+ mem_wargame.1.desc:0 "§Y[From.GetName]三星星系§!是相当不寻常的景象。 \n\n它散落着碎片，但也充满了生命，星系中的多个行星似乎承载着原始文明。 \n\n我们正在探测一个废弃的空间站，它围绕着一个孤立的行星运行，静静地观察着这个星系。"
+ mem_wargame.1.a:0 "我们应该调查。"
+
+ MEM_WARGAME_EXPLORE_STATION:0 "探索空间站"
+ MEM_WARGAME_EXPLORE_STATION_DESC:0 "调查§Y[mem_wargame_system.GetName]星系§!的时候。我们遇到了一个绕着其中一个行星运行的废弃的空间站。它可能包含关于星系过去的有趣信息。"
+
+ mem_wargame.2.name:0 "战争游戏"
+ mem_wargame.2.desc:0 "[Root.GetName]报告了对一个绕着[mem_wargate_station_planet.GetName]轨道运行的奇怪空间站的成功调查。 \n\n从幸存的数据核来看，这个星系是作为一个大规模的实验，或者可能是一种娱乐形式而建立的。 \n\n四种生物被一个未知的帝国提升，这个帝国提供了受他们自己控制的战舰，并开始互相争斗，而他们可以在星系的郊区安全隐蔽地观看。 \n\n当一群来自四种物种的阴谋者潜入空间站并屠杀船上所有人的时候，实验突然结束了。奇怪的是，没有报复随之而来，当地人由于缺乏维持他们天赋的技术所需要的实际知识，很快就恢复了原始生活。"
+ mem_wargame.2.ega:0 "这一切都很有趣，直到有人被淘汰出局。"
+ mem_wargame.2.pac:0 "如此的野蛮..."
+ mem_wargame.2.pacphobe:0 "玩愚蠢的游戏-赢取愚蠢奖励。"
+ mem_wargame.2.mil:0 "听起来有趣。"
+ mem_wargame.2.mat:0 "这可能很有教育意义。"

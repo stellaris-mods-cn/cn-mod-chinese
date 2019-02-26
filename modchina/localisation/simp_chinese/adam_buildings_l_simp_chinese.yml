@@ -1,0 +1,68 @@
+﻿l_simp_chinese:
+
+ building_mech_factory:0 "战舰工厂"
+ building_psionic_training_center:0 "精英灵能培训中心"
+
+ building_adam_biolab_5:0 "生物实验室 V"
+ building_adam_biolab_6:0 "生物实验室 VI"
+ building_adam_engineering_facility_5:0 "工程设施 V"
+ building_adam_engineering_facility_6:0 "工程设施 VI"
+ building_adam_physics_lab_5:0 "物理实验室 V"
+ building_adam_physics_lab_6:0 "物理实验室 VI"
+ 
+ building_ada_science_center:0 "科学中心"
+ building_ada_advanced_science_center:0 "先进的科学中心"
+ building_ada_academy_of_science:0 "科学院"
+ building_ada_faith_of_science:0 "信仰科学"
+ building_ada_lighthouse_of_knowledge:0 "灯塔的知识"
+ 
+ singularity_building_power_plant_6:0 "奇点发电厂"
+ white_matter_building_power_plant_7:0 "微型黑洞发电厂"
+ compressed_white_matter_building_power_plant_8:0 "白质发电厂"
+ 
+ large_scale_building_mining_network_6:0 "大型矿业网络"
+ large_scale_building_autonomous_fabricators_7:0 "大型自治制造机"
+ building_planetary_forge_8:0 "行星锻造"
+ 
+ building_adam_agri_processing_complex:0 "农业加工联合体"
+
+ building_ada_heavenly_island:0 "天堂岛"
+ building_ada_sphere_of_utopia:0 "乌托邦世界"
+ building_ada_beacon_of_sanctuary:0 "圣所的灯塔"
+ building_ada_lighthouse_of_hope:0 "希望的灯塔"
+
+ 
+ building_mech_factory_desc:0 "这个巨大的工厂为合成士兵组装了巨大的机械平台。"
+ building_psionic_training_center_desc:0 "一种非常强大的灵能护盾，保护星球上的其他部分，使其免受伤害。"
+
+ building_adam_biolab_5_desc:0 "更先进的生物设备主要集中在提高生命本身。"
+ building_adam_biolab_6_desc:0 "对设备的精度进行了大量的改进，力求完美。"
+ building_adam_engineering_facility_5_desc:0 "一个新的工程设施，专注于新的材料理论。"
+ building_adam_engineering_facility_6_desc:0 "为新发现的理论及其应用提供最先进的设备。"
+ building_adam_physics_lab_5_desc:0 "对暗物质和它的反应的强烈的实验是在这个新的物理实验室中进行."
+ building_adam_physics_lab_6_desc:0 "这个庞大的物理实验室完全专注于研究白质。"
+
+ building_ada_science_center_desc:0 "这个中心科学中心提高了其他研究大楼的资源产出。"
+ building_ada_advanced_science_center_desc:0 "更先进的科学中心在发展由其他研究建筑。"
+ building_ada_academy_of_science_desc:0 "更先进的科学中心在发展由其他研究所，这个最大科学中心将促进全国所有的科学发展。"
+ building_ada_faith_of_science_desc:0 "如果有一座科学教堂，这座建筑就是。在这里，发现和进步被崇拜。"
+ building_ada_lighthouse_of_knowledge_desc:0 "重要的是要保持知识的活力。也许这就是我们真正需要的。"
+ 
+ singularity_building_power_plant_6_desc:0 "白质是一个黑洞的相对较弱的东西，这种植物仍然产生大量的能量强辐射。"
+ white_matter_building_power_plant_7_desc:0 "一个完美的微黑洞产生巨大的能量与暗物质。"
+ compressed_white_matter_building_power_plant_8_desc:0 "不断重复的白质会在这个植物上创造无穷无尽的能量。"
+ 
+ large_scale_building_mining_network_6_desc:0 "安装了巨大的工具以在行星上提取更多的矿物到它的极限。"
+ large_scale_building_autonomous_fabricators_7_desc:0 "从星球的极限中解放出来，这个装置现在从能量本身中产生矿物质。"
+ building_planetary_forge_8_desc:0 "一个微型恒星锻造厂正忙着制造人们需要的所有宝贵的矿物质。"
+ 
+ building_adam_agri_processing_complex_desc:0 "农业加工综合体是一个大规模的食品复制工厂，可以创造各种各样的食品，为所有人口提供最好的品质。"
+
+
+ building_ada_heavenly_island_desc:0 "结合额外的医疗支持和改进的闭环生态系统，这个增强的天堂圆顶为所有公民提供了更好的条件。"
+
+ building_ada_sphere_of_utopia_desc:0 "为了为所有人服务，天堂穹顶增加了人员、基础设施和行星生态系统增强器，旨在实现这个特定领域的真正的乌托邦。"
+
+ building_ada_beacon_of_sanctuary_desc:0 "通过关注那些处于最坏情况的人，这个圆顶的效果远远大于最初的乌托邦计划。更强大的行星生态系统增强剂为所有区域提供了舒适。"
+
+ building_ada_lighthouse_of_hope_desc:0 "这可能只是一幢美化的建筑，但希望本身永远是真实的。"

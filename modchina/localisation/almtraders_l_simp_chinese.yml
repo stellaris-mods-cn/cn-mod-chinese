@@ -1,0 +1,51 @@
+﻿l_simp_chinese: 
+ ap_trade_guilds: "贸易协会"
+ ap_trade_guilds_desc: "贸易是我们经济的基础，我们将采取措施在我们所有的盟友中培育这一信念，建立一个跨越星辰的强大商业企业。"
+ requires_diplomacy_tradition: "要求所有的外交传统都被采用。"
+ requires_interstellar_trade: "需要星际贸易倡议技术，没有贸易禁运和禁止私营企业。"
+ increased_trade_stuffs: "§G提供星际贸易倡议技术给所有附庸，联盟中的其他帝国或与你签订防御条约、移民条约的帝国。\n打开行星的第三条对外出口贸易通道。\n增加基于行星的贸易建筑的产量。§!"
+ 
+ edict_cancel_f_trade_route_3: "结束贸易协会出口"
+ edict_cancel_f_trade_route_3_desc: "贸易行会将停止向外国帝国出口。"
+ edict_establish_f_trade_route_3: "建立贸易协会出口"
+ edict_establish_f_trade_route_3_desc: "贸易行会将货物出口到邻近帝国的星球。"
+ 
+ edict_clean_down_routes: "§R(DEV) 调整对外贸易 (DEV)§!"
+ edict_clean_down_routes_desc: "立即移除所有帝国所有行星的所有对外贸易路线修正物和所有帝国的贸易相关意见修正。§R用于测试或重置现有的游戏存档。你会浪费影响力!§!"
+ 
+ edict_expand_trade_opportunities: "扩大贸易机会"
+ edict_expand_trade_opportunities_desc: "拥有必要技术的邻近帝国中的行星将增加建造以行星为基础的贸易建筑的机会，从而有可能提供更多的贸易路线。"
+ edict_procure_imports: "采购进口"
+ edict_procure_imports_desc: "我们要求邻国贸易伙伴建立通往我们世界的进口航线。"
+ 
+ f_export_route_3: "贸易协会路线(出口)"
+ f_export_route_3_desc: "贸易协会正在向邻国帝国的一个星球出口商品。"
+ f_import_route_3: "贸易协会路线(进口))"
+ f_import_route_3_desc: "贸易协会正在从邻国帝国的一个星球进口商品。"
+ 
+ opinion_guildpartners: "公会合作伙伴"
+ opinion_guildmasters: "公会主席"
+ opinion_rejected_trade_guild: "拒绝贸易伙伴关系"
+ opinion_compete_trade_guild: "贸易协会竞争对手"
+ 
+ pft_militarist_corporates: "防务公司"
+ pft_militarist_corporates_desc: "和平通常对商业是有利的，但是在这个派系的战争中，商业是有利的。\n\n§L军国主义精神§!"
+ pft_pacifist_corporates: "消耗品公司"
+ pft_pacifist_corporates_desc: "和平有益于商业，而当它持续的时候，这个派系想要卖给你欲望和商品，或者至少你需要的一切生活方式都是你应得的。\n\n§L和平主义精神§!"
+ pft_materialist_corporates: "科技公司"
+ pft_materialist_corporates_desc: "科学技术等于巨大的利润，这个派别在其中赢得它。\n\n§L唯物主义精神§!"
+ 
+ pft_domestic_tradeguild: "国内贸易联盟"
+ pft_domestic_tradeguild_desc: "这个派系是国内贸易商的合作社，他们不希望外国贸易给他们带来竞争。\n\n§L排外主义精神§!"
+ pft_foreign_tradeguild: "对外贸易联盟"
+ pft_foreign_tradeguild_desc: "这个派系是贸易商和商人的合作，他们希望不受限制地与外国帝国做生意。\n\n§L亲外主义精神§!"
+ 
+ PROSPERITY_WANTS_WEALTH_10: "美好的财富"
+ PROSPERITY_NO_WEALTH_10: "财富在哪里?"
+ PROSPERITY_WANTS_WEALTH_10_DESC: "如果帝国没有至少10 £sr_wealth [Root.GetName]将会很不高兴。"
+ 
+ PROSPERITY_WANTS_WEALTH_25: "更美好的财富"
+ PROSPERITY_NO_WEALTH_25: "想要更多财富。"
+ PROSPERITY_WANTS_WEALTH_25_DESC: "如果帝国至少拥有25 £sr_wealth  [Root.GetName]将会很高兴。"
+ 
+ almtradersevents.4100.desc: "贸易路线管理已重新编码在MOD，以更好地跟踪哪条路线起源于谁。\n\n外国出口现在分为三种类型:基本商品、奢侈品和行会商品。对于每种类型的路由，都分别跟踪意见修正。\n\n你现在需要1x贸易商品来建立基本商品出口，1x贸易商品和1x奢侈品来建立奢侈品出口。这将反映在你的股票中。如今，外国进口商品的回报是财富。\n\n你还会对每一个有出口的星球重新投资，这恼人但必要的重置，因为你将不得不再次打开它们。抱歉。"

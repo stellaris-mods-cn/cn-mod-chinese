@@ -1,0 +1,42 @@
+﻿l_simp_chinese:
+
+ 
+ #TRAITS
+ Trait_GAPS_Bioelectric:0 "生物电流"
+ Trait_GAPS_Bioelectric_desc:0 "这个种群天生就能发出强大的电击。因此他们如何创造和应用能量有着特殊的领悟。 \n§M人口特殊效果:§! 这些人口不管做什么都可以产出§G0.2§! £energy。\n§E领袖修饰:§! 每升一级法令时长§R+5%§!而不是§Y+10%§!。每升一级能量存储上限§G+2000§!。\n§E舰队司令修饰:§! 替代每升一级§R+3%§!舰船开火速率，他们获得了每升一级§G+5%§!能力武器攻击速度和§G+0.1%§!每日护盾恢复速度。\n§S科技§!\n§Y£physics_research 粒子物理T2 (生物电流舰船能源):§! 需要 §Y$tech_reactor_boosters_1$§!。可用辅助组件。 \n     §L£ship_modifier 舰船辅助组件(生物电流反应器):§! 花费: §R5§! £alloys , 舰船能量§G+100§!，舰船射速§G+5%§!，护盾值§G+10%§!\n§Y£physics_research 粒子物理科技T3 (生物电流扩大器）:§! 需要§Y$tech_reactor_boosters_1$§!. 可用建筑: \n     §L£building 星球建筑（生物电流扩大器）:§! 花费§R100§! £food §R200§! £minerals. 从人口获得的£energy 能量币§G+100%§! ，从职位获得的£energy 能量币§G+5%§!. 技工职位§G+1§!"
+ 
+ Trait_GAPS_Bioelectric_Adm_LV1:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV2:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV3:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV4:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV5:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV6:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV7:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV8:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV9:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV10:0 "生物电流舰队司令"
+ 
+ Trait_GAPS_Bioelectric_Adm_LV1_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV2_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV3_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV4_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV5_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV6_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV7_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV8_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV9_desc:0 "生物电流舰队司令"
+ Trait_GAPS_Bioelectric_Adm_LV10_desc:0 "生物电流舰队司令"
+ #BUILDINGS
+ building_energy_grid_bio:0 "生物电流扩大器"
+ building_energy_grid_bio_desc:0 "增加所有该星球上的人口生产出的能量。"
+ mod_planet_pops_energy_produces_mult:0 "从£pops 人口获得的£energy 能量币 "
+ #SHIP PARTS
+ Ship_Part_Aux_GAPS_Bioelectric_Reactor_Booster:0 "生物电动反应堆"
+ Ship_Part_Aux_GAPS_Bioelectric_Reactor_Booster_DESC:1 "它可自行生产能量。"
+ Set_Ship_Part_Aux_GAPS_Bioelectric_Reactor_Booster:0 "$Ship_Part_Aux_GAPS_Bioelectric_Reactor_Booster$"
+ Set_Ship_Part_Aux_GAPS_Bioelectric_Reactor_Booster_DESC:1 "$Ship_Part_Aux_GAPS_Bioelectric_Reactor_Booster_DESC$"
+ #TECHNOLOGY NAMES
+ Tech_GAPS_Bioelectric_Ship_Power:0 "生物电流舰船能源"
+ Tech_GAPS_Bioelectric_Amplification:0 "生物电流扩大"
+ Tech_GAPS_Bioelectric_Ship_Power_desc:1 "生物电流舰船能源"
+ Tech_GAPS_Bioelectric_Amplification_desc:1 "生物电流扩大"

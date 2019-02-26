@@ -1,0 +1,63 @@
+﻿l_simp_chinese:
+
+# Buildable Pops
+
+cofh_se_clone_1:0 "克隆人"
+cofh_se_clone_1_desc:0 "§L克隆种群迅速发展成为我们帝国的主要物种。但是，在成熟之后有一段适应期。§!"
+
+# Buildings
+
+building_cofh_se_clone_facility:0 "基因组复制设备"
+building_cofh_se_clone_facility_desc:0 "一种先进的生物工业复合体，允许大规模克隆。\n\n§R不允许建立克隆军队。§!"
+
+# Modifiers
+
+cofh_se_clone_adapting:0 "社会适应"
+cofh_se_clone_adapting_desc:0 "这个群体正在适应我们的社会并学习我们的文化。"
+
+cofh_se_clone_maturing:0 "成熟的克隆"
+cofh_se_clone_maturing_desc:0 "这个克隆种群目前正在增长。"
+
+# Opinions
+
+opinion_cofh_se_cloning_limited_spiritualist:0 "不自然的繁殖"
+opinion_cofh_se_cloning_limited_fanatic_spiritualist:0 "不自然的繁殖"
+
+opinion_cofh_se_cloning_full_spiritualist:0 "没有灵魂的克隆"
+opinion_cofh_se_cloning_full_fanatic_spiritualist:0 "没有灵魂的克隆"
+
+# Policies
+
+policy_cofh_se_mass_cloning:0 "大规模克隆"
+policy_cofh_se_mass_cloning_desc:0 "克隆技术的出现提出了关于它用于创造整个种群的问题。"
+
+cofh_se_mass_cloning_none:0 "禁止"
+cofh_se_mass_cloning_none_name:0 "禁止大规模克隆"
+cofh_se_mass_cloning_none_desc:0 "虽然一个是有用的技术，但克隆应该限于小规模的应用。\n\n§E£building §H$building_cofh_se_clone_facility$§! 效果有限。\n\n无法创造克隆人口§§!"
+
+cofh_se_mass_cloning_limited:0 "有限的"
+cofh_se_mass_cloning_limited_name:0 "克隆设施增加"
+cofh_se_mass_cloning_limited_desc:0 "我们的人口将会得到在专门设施中饲养的克隆人的支持。\n\n§E£building §H$building_cofh_se_clone_facility$§! 人口增长大大增加。\n\n无法创造克隆人口§!"
+
+cofh_se_mass_cloning_full:0 "不受限制的"
+cofh_se_mass_cloning_full_name:0 "允许克隆种群"
+cofh_se_mass_cloning_full_desc:0 "所有的克隆种群都可能被创造出来，从而使我们能够快速地增加我们的数量。\n\n§E£building §H$building_cofh_se_clone_facility$§! 人口增长大大增加。\n\n可以创造出克隆人口§!"
+
+# Technology
+
+# Society
+
+tech_cofh_se_mass_cloning:0 "大规模克隆"
+tech_cofh_se_mass_cloning_desc:0 "克隆技术的进步使人口增长达到了以前难以想象的规模。"
+
+COFH_SE_TECH_UNLOCK_CLONE_POP_TITLE:0 "§H解锁可建造的人口:§! 克隆人"
+COFH_SE_TECH_UNLOCK_CLONE_POP_DESC:0 "§H克隆人§!\n$cofh_se_clone_1_desc$"
+
+# War Demands
+
+war_demand_cofh_se_abolish_mass_cloning_header:1 "§H禁止大规模克隆§!"
+war_demand_cofh_se_abolish_mass_cloning_subtext:0 "[parameter:country.GetName]"
+war_demand_cofh_se_abolish_mass_cloning_tooltip_header:0 "$war_demand_cofh_se_abolish_mass_cloning_header$"
+war_demand_cofh_se_abolish_mass_cloning_tooltip_content:0 "[parameter:country.GetName] 将被迫禁止大规模克隆。"
+war_demand_cofh_se_abolish_mass_cloning_tooltip_proper_header:0 "$war_demand_cofh_se_abolish_mass_cloning_header$"
+war_demand_cofh_se_abolish_mass_cloning_tooltip_proper_content:1 "[parameter:country.GetName] 将被迫禁止大规模克隆。我们还将获得§G100§! £influence  "

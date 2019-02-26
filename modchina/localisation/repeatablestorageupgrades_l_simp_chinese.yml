@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+ tech_repeatable_mineral_storage_boost:0 "矿物压缩"
+ tech_repeatable_mineral_storage_boost_desc:0 "压缩技术的突破能使我们存储更多矿物。"
+ tech_repeatable_energy_storage_boost:0 "电容器改良"
+ tech_repeatable_energy_storage_boost_desc:0 "电容器的改良使我们能够存储更多$MONEY$"
+ tech_repeatable_influence_storage_boost:0 "影响集权化"
+ tech_repeatable_influence_storage_boost_desc:0 "通过精心策划和长期项目，我们可以储存更多的影响力。"

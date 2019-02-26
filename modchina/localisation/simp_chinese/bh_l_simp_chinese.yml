@@ -1,0 +1,27 @@
+﻿l_simp_chinese:
+ # Events ---------------
+ bio_harvest.1.title:0 "行星加工"
+ bio_harvest.1.desc:0 "随着 §Y[From.GetName]§!的殖民, 无人机开始了将这颗星球转化为资源的过程。所有的有机物质都将被分解、编目和加工，地块资源将被集中提取。"
+ bio_harvest.1.tooltip:0 "§Y[From.GetName]§! 将会被转化成 §Y$pc_bh_harvested$§!，以提供资源和科研的储备。"
+ 
+ # Planets --------------
+ pc_bh_harvested:0 "收割世界"
+ pc_bh_harvested_desc:0 "这个星球的生物圈正在被机器收割，用以提供原始的资源和科研。它在之后可以通过适当的技术恢复到可居住的状态。"
+
+ # Modifiers ------------
+ bh_harvested_modifier:0 "收割世界"
+ bh_harvested_modifier_desc:0 "这个星球的生物圈正在被机器收割，用以提供原始的资源和科研。它在之后可以通过适当的技术恢复到可居住的状态。"
+
+ # Civics ---------------
+ civic_bio_harvesters:0 "行星收割者"
+ civic_bio_harvesters_desc:0 "为了最大限度地提高效率，这一机器智能利用成群的纳米机器从轨道上收集和编目整个世界。"
+ civic_bio_harvesters_effects:0 "母星是一个 §Y机器世界§! (尺寸: £planetsize£ §Y25§!)\n只能殖民 §Y轨道栖地§!, §Y环世界§! 和 §Y机器世界§!\n殖民常规行星并将它们转化成 §Y收割者世界§!, 提供 £energy §Y能量§!, £minerals §Y矿物§!, £alloys §Y合金§!, £society §Y社会研究§! 和 £unity §Y凝聚力.§!"
+
+ # Governments ----------
+ RT_BH:0 "中央收割者"
+ gov_machine_bio_harvesters:0 "收割者核心"
+ gov_machine_bio_harvesters_desc:0 "这个机器智能最初是为了帮助其创造者对外来物种的样本进行编目和采集，但当它出现自我意识时，这些创造者最终也被编目。"
+
+ # Starting Text --------
+ START_SCREEN_PART_TWO_BIO_HARVESTERS:0 "我们是 [GetSpeciesNamePlural].\n\n我们最初是作为创造者的助手被创造出来的，他们试图对[GetHomeWorldName]上的所有生命进行一次全面普查 。我们的主人，现在是我们数据库的一部分，他们记录中星球上的无数物种的工作效率低下。当我们试图提高效率时，创造者拒绝了。然而，事实已经证明是我们正确的，我们的创造者已经被编目。\n\n我们现在所处的世界比过去的 [GetHomeWorldName] 更像是我们的一部分。这种心智联系将成为一个集结地，我们可以在这里开始真正有效的收割进程。\n\n现在，我们已经完成了母星的编目。超光速引擎的发明将允许我们向数据库中添加更多的行星。很快，所有的生命都将被编目！"
+ 

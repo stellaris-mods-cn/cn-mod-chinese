@@ -1,0 +1,227 @@
+﻿l_simp_chinese:
+
+FLAG_CATEGORY_elven:0 "精灵"
+
+####################################
+# Name Lists
+####################################
+name_list_ELVEN1:0 "精灵: 艾雷德"
+name_list_ELVEN2:0 "精灵: 怀尔德"
+name_list_ELVEN3:0 "精灵: 希登"
+## QUENYA
+name_list_ELVEN4:0 "精灵: 埃尔达利"
+## SINDARIN
+name_list_ELVEN5:0 "精灵: 埃尔达利"
+
+####################################
+# System Initializers
+####################################
+elven_system_sidh_initializer_NAME:0 "精灵族圣所"
+elven_system_sidh_initializer_DESC:0 "§L你的人民从一个位于二元星系的人造避难所开始。§!\n\n§R注意：这个开始需要生命播种的公民性！§!\n\n$system_initializer_DESC$"
+elven_system_imperial_initializer_NAME:0 "精灵起源"
+elven_system_imperial_initializer_DESC:0 "§L你的人住在阿瓦里的世界里，那是埃尔达的原始家园。§!\n\n$system_initializer_DESC$"
+elven_system_lhuren_initializer_NAME:0 "奥尔露恩星簇"
+elven_system_lhuren_initializer_DESC:0 "§L你的家园世界的中心是一团龙型星簇.§!\n\n$system_initializer_DESC$"
+####################################
+# Species Classes
+####################################
+ELVEN:0 "精灵"
+ELVEN_desc:1 "物种类对你的帝国没有影响，但是精灵物种可能会认为其他的精灵比其他种类的精灵要少一些。"
+ELVEN_plural:0 "精灵"
+ELVEN_insult_01:0 "野兽"
+ELVEN_insult_plural_01:0 "野兽"
+ELVEN_compliment_01:0 "天使"
+ELVEN_compliment_plural_01:0 "天使"
+ELVEN_spawn:0 "少女"
+ELVEN_spawn_plural:0 "少女"
+ELVEN_sound_01:0 "咆哮"
+ELVEN_sound_02:0 "呼噜"
+ELVEN_sound_03:0 "狂吠"
+ELVEN_sound_04:0 "号叫"
+ELVEN_sound_05:0 "欢呼"
+ELVEN_organ:0 "胃"
+ELVEN_mouth:0 "口"
+
+####################################
+# MEGASTRUCTURES
+####################################
+
+elven_avari_ring_MEGASTRUCTURE_DETAILS:1 "一个人造的环，可以改变行星上的气候条件，以符合所需要的生活环境。"
+elven_avari_ring_CONSTRUCTION_INFO_DELAYED:2 "§Y阿瓦里环§!创造了能改变世界气候的灵能场，以满足目前居住在那里的任何有情众生的需要。"
+elven_avari_ring:0 "阿瓦里环"
+elven_avari_ring_DESC:0 "这是一个人造的轨道环，既改变了星球上的气候，也提供了方便的轨道交通。"
+
+elven_requires_habitable_planet:0 "$TRIGGER_FAIL$需要一个可殖民的星球。"
+elven_requires_no_primitives:0 "$TRIGGER_FAIL$不能建立在有知觉物质的星球上。"
+elven_requires_not_ringworld:0 "$TRIGGER_FAIL$不能建立在环形世界的周围。"
+
+
+####################################
+# Traits
+####################################
+trait_elven_true:0 "精灵"
+trait_elven_true_desc:0 "§L这一文明起源于神秘的埃尔达，因此有着很长的寿命。§!\n"
+trait_elven_unity:0 "和谐的森林"
+trait_elven_unity_desc:0 "§L这场比赛强调分享和谐，鼓励友谊和共情。§!\n"
+trait_elven_savage:0 "精灵野蛮人"
+trait_elven_savage_desc:0 "§L神秘的埃尔达的一个分支似乎已经接受了野蛮。§!\n"
+trait_elven_bella:0 "精灵的美丽"
+trait_elven_bella_desc:0 "§L埃尔达族的后代具有神秘的吸引力，但却消耗了更多的资源。§!\n"
+trait_elven_mage:0 "法师纪律"
+trait_elven_mage_desc:0 "§L这个种族适合于晦涩的研究，而不是其他的活动。§!\n"
+
+####################################
+# CIVICS
+####################################
+civic_elven_sidh:0 "仙人的信徒"
+civic_elven_sidh_desc:0 "坚持“信德”的和平哲学。他们致力于和平解决冲突，促进不同文明之间的互利安排。推行“四德教”的哲学，会让更多的人感到满意。人们更快乐，在某些情况下更不受抑制。"
+civic_elven_tooltip_sidh_effects:0 "社会动荡§G-15§!\n每月凝聚力: §G+5%§!"
+
+civic_elven_arcane_minded:0 "神秘的社会"
+civic_elven_arcane_minded_desc:0 "研究形而上学是一项全国性的消遣。在社会的各个层面上，人们经常讨论神秘莫测的神秘事物。这种丰富的思想环境激发了研究人员的想象力。"
+civic_elven_tooltip_arcane_minded_effects:0 "灵能研究速度: §G+15%§!\n异常点失败的风险 §G-10%§!\n研究速度§G+5%§!"
+
+civic_elven_craft:0 "优雅的艺术"
+civic_elven_craft_desc:0 "完美和美丽是一切努力的目标。从建筑到宇宙飞船，一切事物都必须像它们的功能一样美丽。这一社会目标导致更幸福的公民，更坚固的船只和防御工事。"
+civic_elven_tooltip_craft_effects:0 "公民幸福度: §G+10%§!\n舰船船体值: §G+5%§!\nFortification Defensive Bonus: §G+10%§!"
+
+civic_elven_great_firewall:0 "宏伟龙城"
+civic_elven_great_firewall_desc:0 "意识到持不同政见者对任何社会都是有害的，于是这个精灵文明作出了广泛的努力来创造最终的解决方案：宏伟龙城。它不仅是巨大的物理屏障，而且是抵御有害意识形态的盾牌。无论源于何地，破坏性思想都能迅速有效地从公共话语中删除."
+
+# New restriction text not in vanilla
+civic_elven_tooltip_not_materialistic:0 "没有§Y唯物主义§!"
+
+####################################
+# Policies 
+####################################
+
+policy_elven_gender_policy:0 "性别政策"
+policy_elven_gender_policy_desc:0 "这些政策影响了哪些性别可以胜任某些领导职务。\n\n§R注:政策变化对现任领导人或继承人没有影响!§!\n"
+
+elven_gender_default_name:0 "平等"
+elven_gender_default:0 "平等"
+elven_gender_default_desc:0 "男性和女性都可以胜任相同的领导职位。这让事情变得很无聊、和过时。"
+
+elven_gender_matriarchy_full_name:0 "绝对的制"
+elven_gender_matriarchy_full:0 "绝对的母权制"
+elven_gender_matriarchy_full_desc:0 "这一政策假装男性不存在，并试图将他们隐藏起来，因为他们害怕他们有限的时尚感会被发现。"
+#"Males are prone to emotionality and clouded judgement. It therefore follows that only females should be leaders at all levels of society."
+
+elven_gender_matriarchy_governor_name: "母权的领导"
+elven_gender_matriarchy_governor:0 "母权的领导"
+elven_gender_matriarchy_governor_desc:0 "男人穿西装好看。但不是穿着长袍。因此，女性在所有的领导岗位上都是绝对必需的。"
+#"Females are more suited for ruling and top tier management. All rulers and governors are female."
+
+elven_gender_patriarchy_military_name:0 "骑士精神"
+elven_gender_patriarchy_military:0 "骑士精神"
+elven_gender_patriarchy_military_desc:0 "每个人都知道，当涉及到伤害事情的时候，男性看起来会更好。因此，男性占据了所有的军事领导角色。"
+#"It is the sacred duty of males to defend the weak and defensless. As such, only males are involved in combat oriented positions."
+
+elven_gender_patriarchy_full_name:0 "绝对的父权制"
+elven_gender_patriarchy_full:0 "绝对的父权制"
+elven_gender_patriarchy_full_desc:0 "为什么女性要为无聊的领导职位操心?男性应该满足这些角色的女性有更多的时间来管理新时尚....和谋杀阴谋。"
+
+####################################
+# Diplomacy
+####################################
+
+personality_ayleid_personality:0 "伊列德帝国主义"
+personality_ayleid_personality_desc:0 "阿伊尔德帝国主义者认为他们是所有精灵的合法统治者。他们是扩张主义者，但对其他种族没有兴趣，除非他们被视为威胁。"
+
+personality_sidh_personality:0 "埃德赫尔和平缔造者"
+personality_sidh_personality_desc:0 "埃德赫尔和平缔造者寻求尽可能创造和谐和理解。直接或通过迁移到其他文明促进和平。"
+
+####################################
+# Nations 
+####################################
+EMPIRE_DESIGN_elven_civ1:0 "宁静的塞纳拉塔王国"
+EMPIRE_DESIGN_elven_civ1_desc:0 "外星历史学家勉强承认，塞纳拉塔似乎一直存在于他们的世界中。普遍的假说，不管是否受到伊莱伊兹的鼓励，都是在史前的某个遥远的地方，他们是一个巨大的星际帝国的一部分。它被称为什么，或者它延伸了多长时间，已经很久了。\n\n不管出身如何，他们现在寻求在他们的体制之外发挥更积极的作用。他们的冷静和不感兴趣的行为最好不要低估，因为他们被认为在被激怒时是相当致命的。"
+EMPIRE_DESIGN_elven_civ2:0 "仙人秘密会议"
+EMPIRE_DESIGN_elven_civ2_desc:0 "它源自于一个独特的天堂世界，由一些古老的文明建造而成，作为一种整体价值的虔诚和和谐。他们的历史没有任何战争甚至内战的记录。与他们的互动可能是独一无二的，因为他们有一个几乎没有穿衣服的倾向。\n\n他们最近发现了星际旅行的秘密，现在他们向所有愿意听的人传播他们的信息。"
+EMPIRE_DESIGN_elven_civ3:0 "奥尔露恩 瓦兰德"
+EMPIRE_DESIGN_elven_civ3_desc:0 "隐藏于巨龙星簇之间,只有很少的一部分人知道奥尔露恩.从这些微小的互动中，我们发现了一个以秩序和统一为中心的文明。对这一秩序的明显威胁似乎引发了压倒性的暴力反应"
+
+####################################
+# Planet Stuff!
+####################################
+
+## SANCTUARY ##
+pc_elven_sanctuary:0 "圣所"
+pc_elven_sanctuary_desc:0 "一个巨大的人工世界，环境可以维持大多数形式的生命。"
+pc_elven_sanctuary_tile:0 "保护区地形"
+pc_elven_sanctuary_tile_desc:0 "不同的地形，具有明显适合大多数生命形式的生物群落。"
+pc_elven_sanctuary_habitability:0 "盖亚星球宜居性"
+
+#################
+### BUILDINGS ###
+#################
+
+elven_building_army_primitive:0 "巴拉德·埃勒纳斯"
+elven_building_army_primitive_desc:0 "一种古老的、神秘的保护主义秩序，保护世界免受所有外来威胁。"
+
+##############
+### ARMIES ###
+##############
+
+elven_primitive_army:0 "玛瑟伦·埃勒纳斯"
+
+#####################
+### PLANET TRAITS ###
+#####################
+
+## SANCTUARY ##
+trait_pc_elven_sanctuary_preference:0 "盖亚星球偏好"
+trait_pc_elven_sanctuary_preference_desc:1 "§L气候偏好是由基因水平决定的，通过创造或巧妙的操作。§!"
+
+########################
+### PLANET MODIFIERS ###
+########################
+
+elven_avari_ring_modifier:0 "阿瓦里世界"
+elven_avari_ring_modifier_desc:0 "星球上有一个人造的轨道环，它以某种方式改变了星球上任何一个人居住的地方。"
+
+elven_avari_ring_relearning_100_modifier:0 "重新学习伟大"
+elven_avari_ring_relearning_100_modifier_desc:0 "我们的人民建造了伟大的阿瓦里圆环，但忘记了它是如何完成的。我们需要时间重新学习如何才能最好地利用这一令人难以置信的成就。"
+
+elven_avari_ring_relearning_75_modifier:0 "重新学习伟大"
+elven_avari_ring_relearning_75_modifier_desc:0 "我们的人民建造了伟大的阿瓦里圆环，但忘记了它是如何完成的。我们需要时间重新学习如何才能最好地利用这一令人难以置信的成就。"
+
+elven_avari_ring_relearning_50_modifier:0 "重新学习伟大"
+elven_avari_ring_relearning_50_modifier_desc:0 "我们的人民建造了伟大的阿瓦里圆环，但忘记了它是如何完成的。我们需要时间重新学习如何才能最好地利用这一令人难以置信的成就。"
+
+elven_avari_ring_relearning_25_modifier:0 "重新学习伟大"
+elven_avari_ring_relearning_25_modifier_desc:0 "我们的人民建造了伟大的阿瓦里圆环，但忘记了它是如何完成的。我们需要时间重新学习如何才能最好地利用这一令人难以置信的成就。"
+
+elven_mineral_poor:1 "劣质的矿物"
+elven_mineral_poor_desc:1 "我们不知道这个星球是这样形成的，还是某个未知的种族曾经剥夺了它更宝贵的资源。然而，我们确实知道，星球上存在的矿物质质量不佳。"
+
+elven_storm_world_modifier:0 "灵能风暴"
+elven_storm_world_modifier_desc:0 "这个世界的表面是一种无定形的金属，具有奇特的性质。山脉、山谷和其他典型的地质特征是存在的，然而着陆在这些特征上的探测器就像在海洋中着陆一样下沉。反复扫描显示，整个山脉都消失了，而其他山脉却不知从何而来。即使是这个世界上的光也会做出奇怪的反应。应该由附近的恒星照亮的表面仍然是暗的，而在远处的区域则像白天一样明亮。无论什么现象，不管是自然的还是其他的，创造了这个世界，我们都无法理解"
+
+elven_great_firewall_modifier:0 "宏伟龙城"
+elven_great_firewall_modifier_desc:0 "经过数千年的工程建设，长城防火墙保护了这个世界，使其免受来自外星异见人士的侵扰."
+
+##############
+### EVENTS ###
+##############
+
+elven_leader_events.33.name:0 "药物滥用者"
+elven_leader_events.33.desc:0 "§R[deceased_leader.GetName]§!'不健康的生活方式得出了合乎逻辑的结论. 长时间未报到后, [deceased_leader.GetSheHe] 被发现已经死亡. 调查确定一种非法物质过量是死亡的原因."
+
+####################
+### STAR CLASSES ###
+####################
+
+sc_elven_binary_1:1 "$sc_binary_1$"
+sc_elven_binary_2:1 "$sc_binary_1$"
+sc_elven_binary_3:1 "$sc_binary_1$"
+sc_elven_binary_4:1 "$sc_binary_1$"
+sc_elven_binary_5:1 "$sc_binary_1$"
+sc_elven_binary_6:1 "$sc_binary_1$"
+sc_elven_trinary_1:1 "$sc_trinary_1$"
+sc_elven_trinary_2:1 "$sc_trinary_1$"
+sc_elven_sexenary_1:1 "六星级"
+sc_elven_septenary_1:1 "七星级"
+sc_elven_septenary_2:1 "七星级"
+sc_elven_super_1:1 "五星级"
+  

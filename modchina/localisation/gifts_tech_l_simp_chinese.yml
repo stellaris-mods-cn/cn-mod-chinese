@@ -1,0 +1,16 @@
+﻿l_simp_chinese:
+ # Natural Fuels
+ tech_alpha_natfuel_sourcing_2:0 "现代化改进方法"
+ tech_alpha_natfuel_sourcing_2_desc:1 "在技术扩张的时代，为获取和精炼自然燃料提供了方法。"
+ tech_alpha_natfuel_sourcing_3:0 "超级燃料"
+ tech_alpha_natfuel_sourcing_3_desc:1 "获得和精炼自然燃料以及生产高级能源的高级方法。"
+ 
+ # Food and Farming
+ tech_alpha_preservations:0 "保存"
+ tech_alpha_preservations_desc:1 "人口过剩不再是人们关注的问题，因此我们应该保护我们的一些传统和环境。"
+ tech_alpha_traditional_farming:0 "农业传统"
+ tech_alpha_traditional_farming_desc:1 "很明显，我们知道如何耕种，但我们仍必须证明，在我们继续使用传统方法之前，新方法不一定更好。"
+ tech_alpha_food_hybrids:0 "杂交食物"
+ tech_alpha_food_hybrids_desc:1 "从基因上把食物拼接在一起，在单一的植物中包含最好的特性，而不影响味道。"
+ tech_biomass_processing:0 "生物质处理"
+ tech_biomass_processing_desc:1 "更有效的利用生物质的方法。"

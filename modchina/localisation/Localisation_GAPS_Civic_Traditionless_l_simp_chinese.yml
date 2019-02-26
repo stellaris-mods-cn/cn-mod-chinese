@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ 
+ Civic_GAPS_Traditionless:0 "无传统"
+ Civic_GAPS_Traditionless_desc:0 "你没有凝聚力收入，将通过其他方式补偿。 \n§S科技§!\n§Y£society_research 政治学科技 T1 可重复 UL (其他方式飞升):§! 飞升点数 §G+1§!, 公民理念点数 §G+1§!, 法令时长 §G+10%§!\n§Y£society_research 政治学科技 T1 可重复 5L (其他方式治理):§! 领袖维护费 §G-5%§!, 领袖花费 §G-5%§!, 决策颁布速度§G+5%§!, 决策花费 §G-5%§!"
+ Tech_GAPS_Traditionless_Ascension:0 "通过其他方式飞升"
+ Tech_GAPS_Traditionless_Ascension_desc:0 ""
+ Tech_GAPS_Traditionless_Governing:0 "以其他方式治理"
+ Tech_GAPS_Traditionless_Governing_desc:0 ""

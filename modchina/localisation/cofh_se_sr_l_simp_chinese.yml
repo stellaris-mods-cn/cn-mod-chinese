@@ -1,0 +1,39 @@
+﻿l_simp_chinese:
+
+# Buildings
+
+building_cofh_se_dark_matter:0 "暗物质集中器"
+building_cofh_se_dark_matter_desc:0 "这个工业研究中心利用§Y$sr_dark_matter$§!为宇宙飞船制造重力操纵装置。"
+
+building_cofh_se_engos:0 "恩吉欧气体扩散站"
+building_cofh_se_engos_desc:0 "这个工业研究中心创造并扩散了烟雾化的§Y$sr_engos$§!，促进了我们整个帝国人口的健康。"
+
+building_cofh_se_garanthium:0 "迦蓝矿工厂"
+building_cofh_se_garanthium_desc:0 "这个工业研究中心使用§Y$sr_garanthium$§!生产飞船部件，协助我们的造船厂建设工作。"
+
+building_cofh_se_living_metal:0 "活性金属仓库"
+building_cofh_se_living_metal_desc:0 "这个工业研究中心使用§Y$sr_living_metal$§!，为我们的舰队提供后勤保障。"
+
+building_cofh_se_lythuric:0 "莱素气体稳定装置"
+building_cofh_se_lythuric_desc:0 "这个工业研究中心利用§Y$sr_lythuric$§!构造行星防御和发电厂使用的组件。"
+
+building_cofh_se_neutronium:0 "零素矿石军械库"
+building_cofh_se_neutronium_desc:0 "这个工业研究中心使用§Y$sr_neutronium$§!生产军事装备，大大加强了我们的军队。"
+
+building_cofh_se_orillium:0 "奥利姆矿石炸药厂"
+building_cofh_se_orillium_desc:0 "这个工业研究中心用§Y$sr_orillium$§!，用于采矿和建筑。"
+
+building_cofh_se_pitharan:0 "皮萨兰星尘蒸馏设备"
+building_cofh_se_pitharan_desc:0 "这一工业研究综合提炼出了§Y$sr_pitharan$§!，得到的产品被用于农业和发电厂。"
+
+building_cofh_se_satramene:0 "萨特拉烯扩散装置"
+building_cofh_se_satramene_desc:0 "这一工业研究的复杂性创造并扩散了雾化的§Y$sr_satramene$§!，这可以在谈判的过程中被谨慎使用。"
+
+building_cofh_se_teldar:0 "特尔达水晶净化厂"
+building_cofh_se_teldar_desc:0 "这个工业研究中心使用§Y$sr_teldar$§!生产工业设备!，提高我们的矿物加工和建筑生产率。"
+
+building_cofh_se_yuranic:0 "育兰晶沉积装置"
+building_cofh_se_yuranic_desc:0 "这个工业研究中心使用§Y$sr_yuranic$§!生产先进的计算电路，加强我们的研究工作。"
+
+building_cofh_se_zro:0 "泽珞扩散站"
+building_cofh_se_zro_desc:0 "这个工业研究中心创造并扩散微型雾化的§Y$sr_zro$§!，唤醒并增强了我们大众的潜在的灵能力量。"

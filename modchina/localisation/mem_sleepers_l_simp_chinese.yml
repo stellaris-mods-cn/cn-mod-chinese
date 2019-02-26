@@ -1,0 +1,142 @@
+﻿l_simp_chinese:
+ 
+ ########################
+ # Sleepers 
+ # by ViolentBeetle, Malthus proofread by LamilLerran
+ ########################
+ 
+ #Modifier
+ mem_sleepers_energy_cost:0 "偿还贷款"
+ mem_sleepers_research_boost:0 "欧扎里人专长"
+ 
+ #Leader Trait
+ mem_leader_trait_last_ozari:0 "最后的欧扎里"
+ mem_leader_trait_last_ozari_desc:0 "欧扎里人特别擅长的生物技术。"
+ #Project
+ MEM_SLEEPERS_SCAN:0 "惊人的能量读数"
+ MEM_SLEEPERS_SCAN_DESC:0 "我们对§Y[From.GetName]§!的观察正在报道来自这个星球的不寻常和令人担忧的信号。需要专家来全面分析形势，但初步数据显示，灾难可能迫在眉睫。"
+ 
+ mem_sleepers.2.name:0 "下面"
+ mem_sleepers.2.desc:0 "我们对§Y[From.GetName]§!的观察，正在报道来自这个星球的不寻常和令人担忧的信号。他们正在从这个星球表面的一个孤立的区域中获取能量信号。这一信号的强度超出了本土技术所能产生的任何东西，而且与我们自己的发电厂非常相似。更令人担忧的是，这一迹象清楚地表明，能源来源的不稳定正在加剧。如果我们不迅速采取行动，这很可能会以灾难告终。"
+ mem_sleepers.2.a:0 "派专家来调查此事。"
+ 
+ #Failed to do the project (Soft Fail)
+ mem_sleepers.3.name:0 "归零地"
+ mem_sleepers.3.desc:0 "一场巨大的地下爆炸撕裂了§Y[From.From.From.GetName]§!，将火山灰和岩石送到大气中，与超级火山喷发形成竞争。无论在事件中心遗址发现了什么，现在肯定都被蒸发了。\n\n我们的观察报告说，目睹了这一事件的当地人对这场灾难感到震惊，当地的文化正经历着由恐惧而产生的灵性的激增。"
+ mem_sleepers.3.a:0 "看起来情况可能会更糟。"
+ 
+ #Failed to do the project (Hard Fail)
+ mem_sleepers.4.name:0 "归零地"
+ mem_sleepers.4.desc:0 "一场巨大的地下爆炸撕裂了§Y[From.From.From.GetName]§!，将火山灰和岩石送到大气中，其能量超过了超级火山喷发的能量。它在整个星球的大气层中引发了超音速的压力，一连串的大地震，以及令人窒息的尘埃和煤渣，足以将整个星球变成永久的黄昏。这场灾难摧毁了生物圈，摧毁了当地的文明。无论我们在地面上找到什么，都肯定是蒸发了。由于没有人可以观察，我们的观察站被关闭了。"
+ mem_sleepers.4.a:0 "我希望我们能阻止这件事。"
+ mem_sleepers.4.b:0 "多么浪费，一个像样的星球……"
+ 
+ #Finished Project
+ mem_sleepers.5.name:0 "地下墓穴"
+ mem_sleepers.5.desc:0 "§Y[From.From.From.GetName]§!我们的科学团队需要精确的钻探，但最终导致他们进入一个巨大的洞穴系统。一进去，研究小组就发现了一个隐藏在里面的大型人工结构。这种结构是用太空时代技术明确建造的，比星球上的土著人所能具备的能力要早几个世纪。在这个结构中，船员们吃惊地发现无数的睡眠豆荚的壁衬、包含的外星人不仅与§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的人不一致，也不像我们所知道的其他物种，更有大量先进军事装备的储备。然而，在终端和标签上使用的语言与我们从观察当地人那里学到的语言有着惊人的相似之处。\n\n我们的工程师已经对反应堆控制的情况进行了评估，在早期的发现之后，这一情况被证明是相当的不确定的。几个世纪，如果不是几千年，没有维护就已经造成了损失，但是随着我们技术水平的稳定，反应堆应该是微不足道的，特别是如果我们愿意牺牲我们自己的一些资源的话。"
+ mem_sleepers.5.a:0 "试着稳定它，重新激活保险库。"
+ mem_sleepers.5.a.tooltip:0 "该项目将使用500个能源点。"
+ mem_sleepers.5.b.tooltip:0 "由于我们缺少所需的500个能源点，我们不得不从私营部门借款。"
+ mem_sleepers.5.c:0 "只要把所有的系统都废了，就可以拆去贵重物品。"
+ mem_sleepers.5.c.tooltip:0 "我们的团队将开始拆除所有不需要的东西，但这些都是金库的结构完整性所必需的。"
+ mem_sleepers.5.d:0 "异种的生命不值得我们的团队冒险。让它炸毁。"
+ 
+ #Looting the Vault and potentially getting uplifting tech option
+ mem_sleepers.6.name:0 "科技财富"
+ mem_sleepers.6.desc:0 "在关闭了沉睡者的舱并将他们的居住者送到他们最后的休息之后，我们的团队开始分析所有可能有用的材料，以及储存在地窖中央服务器上的历史和技术数据。\n\n这个地方的建筑者自称为欧扎里人（Ozari）。它们似乎没有实现星际飞行，但它们在生物技术方面非常先进。这一进步导致了他们自己的灭亡，他们提升了今天的§Y[mem_sleepers_natives.GetSpeciesNamePlural]§! 的明显祖先作为奴隶种族，然而他们很快就起义了。§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!几乎使他们的前主人灭绝了，只有少数欧扎里人在这个地下设施中找到了避难所。\n\n这可能对欧扎里人来说不是很好，但我们的科学家们在我们发现的技术的片段中看到了巨大的潜力。"
+ mem_sleepers.6.a:0 "另一个技术突破。干得好!"
+ 
+ #Some sleepers awake and attack your looting team (small explosion) Scientist dies
+ mem_sleepers.7.name:0 "从坟墓里"
+ mem_sleepers.7.desc:0 "当我们的科学团队忙于拆除这个设施时，一个隐藏的故障安全机制一定会唤醒一些沉睡者。他们对我们队的工作一点也不满意，交火爆发了。我们的优势火力迅速地扭转了战斗的趋势。但不是很快。\n\n在意识到末日即将来临的时候，这些最后的睡眠者启动了保险库的自我毁灭机制——这波及到了我们的队伍，我们的首席科学家，与他们。\n\n那巨大的地下爆炸撕裂了§Y[From.From.From.From.GetName]§的外壳。将火山灰和岩石送到大气中，与超级火山喷发形成相争。保险库中没有了任何东西。\n\n观察报告说，目睹了这一事件的当地人对这场灾难感到震惊，当地的文化正经历着由恐惧而产生的灵性的激增，这是在神的愤怒之前。"
+ mem_sleepers.7.a:0 "他们不会被遗忘。"
+ 
+ #Letting it blow up as a xenophobe
+ mem_sleepers.8.name:0 "归零地"
+ mem_sleepers.8.desc:0 "那巨大的地下爆炸撕裂了§Y[From.From.From.From.GetName]§的外壳。将火山灰和岩石送到大气中，与超级火山喷发形成相争。保险库中没有了任何东西。\n\n观察报告说，目睹了这一事件的当地人对这场灾难感到震惊，当地的文化正经历着由恐惧而产生的灵性的激增，这是在神的愤怒之前。"
+ mem_sleepers.8.a:0 "嗯…不管。"
+ 
+ #Letting it blow up as a xenophobe
+ mem_sleepers.9.name:0 "归零地"
+ mem_sleepers.9.desc:0 "一场巨大的地下爆炸撕裂了§Y[From.From.From.GetName]§!，将火山灰和岩石送到大气中，其能量超过了超级火山喷发的能量。它在整个星球的大气层中引发了超音速的压力，一连串的大地震，以及令人窒息的尘埃和煤渣，足以将整个星球变成永久的黄昏。我们的科学家被这次爆炸的规模所震惊，因为它远远超出了之前的预期，破坏了生物圈并摧毁了当地的文明。由于没有什么可观察的，我们的观察站已经被关闭了。"
+ mem_sleepers.9.a:0 "多么浪费，一个像样的星球……"
+ 
+ #Remnants prelude narration
+ mem_sleepers.45.name:0 "唤醒"
+ mem_sleepers.45.desc:0 "随着能量的涌入，灯光迅速照亮了拱顶的寂静走廊。卧铺舱一个接一个地打开。我们的团队匆忙赶到会议室，在那里，睡眠者社会的领导人居住于此。他们来到这里，迅速地找到了外星人。语言与当地原语所使用的语言有明显的联系，而且只需要几句话就能建立翻译和交流。"
+ mem_sleepers.45.a:0 "那么，是时候听听他们的声音了。"
+ mem_sleepers.45.a.tooltip:0 "我们来讨论这些外星人的历史和命运。"
+ 
+ #Sleepers Awake
+ mem_sleepers.50.name:0 "睡眠者醒来"
+ mem_sleepers.50.desc:0 "我们是§YOzari§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。由此引发的战争把我们带到了灭绝的边缘，而我们的幸存者则在这个墓穴中寻求庇护。"
+ mem_sleepers.50.a:0 "你现在要做什么？"
+ mem_sleepers.50.a.response:0 "该是§YOzari§!的时代了！来迎接被我们提升之人的后代。"
+ 
+ #Sleepers meet natives peacefully - player choice if integrating, protectorate or free empire
+ mem_sleepers.51.name:0 "对恩人的回报"
+ mem_sleepers.51.desc:0 "§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!他们可能已经失去了他们以前的主人所拥有的大部分技术，但是他们并没有忘记那些最初给他们感觉的人。他们的记忆就像神的神话和传说一样，被他们忘恩负义的祖先们背叛了。\n\n一旦§YOzari§!透露自己，§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!他们会为从坟墓里回来的恩人感到高兴。他们的关系又重新建立起来，两国的领导人都承诺永远不会重复过去的错误。现在，他们向我们表示希望讨论他们与我们帝国的关系。"
+ mem_sleepers.51.a:0 "邀请他们加入我们的帝国。"
+ mem_sleepers.51.a.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将和平地融入我们的帝国。"
+ mem_sleepers.51.b:0 "邀请他们加入我们作为保护国。"
+ mem_sleepers.51.b.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将成为我们帝国的保护国。"
+ mem_sleepers.51.c:0 "他们应该建立自己的命运。"
+ mem_sleepers.51.c.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将成为一个独立的帝国。"
+ mem_sleepers.51.d:0 "我们对处理这些异族不感兴趣。"
+ 
+ #Sleepers eradicate natives - player choice if integrating, protectorate or free empire
+ mem_sleepers.101.name:0 "清算的日子"
+ mem_sleepers.101.desc:0 "The §Y[mem_sleepers_natives.GetSpeciesNamePlural]§!也许曾经能够推动文明的发展，使他们接近灭绝，但他们不再拥有他们的祖先所拥有的力量。他们所拥有的技术是在时间上丢失的，没有他们的前主人的指导，他们被迫白手起家建立起自己的文明。在他们几乎不存在的技术上，他们与§YOzari§!是不相匹配的！使用武器储备，在几天内，滑翔机和无人驾驶飞机的攻击杀死了大部分的原住民，留下了被唤醒的§YOzari§!作为§Y[From.From.From.From.From.GetName]§!的唯一的主人。。。。。。。。。他们的领袖现在正为我们希望与我们的帝国讨论他们的关系而欢呼。"
+ mem_sleepers.101.a:0 "背叛永远不能被原谅...让他们加入我们的行列。"
+ mem_sleepers.101.a.xenophobe:0 "尽管他们是异种，他们的决心是令人钦佩的。让他们加入我们的行列。"
+ mem_sleepers.101.a.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将和平地融入我们的帝国。"
+ mem_sleepers.101.b:0 "邀请他们加入我们作为保护国。"
+ mem_sleepers.101.b.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将成为我们帝国的保护国。"
+ mem_sleepers.101.c:0 "他们的暴行是不可接受的。停止一切联系。"
+ mem_sleepers.101.c.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将成为一个独立的帝国。"
+ mem_sleepers.101.d:0 "我们对处理这些异族不感兴趣。"
+ 
+ #Remnants prelude narration
+ mem_sleepers.145.name:0 "唤醒"
+ mem_sleepers.145.desc:0 "只有几个舱室亮了起来。我们的科学家赶紧提取并稳定了其中的外星人。我们很容易地建立通信，因为他们所讲的语言与当代本土人所讲的多种语言密切相关。\n\n不是所有的人都把他们物种灭亡的消息告诉了我们，但是我们找到了一个领导人，他坚持不懈地活着，并且似乎能够为这个群体说话。"
+ mem_sleepers.145.a:0 "那么，是时候听听他们的声音了。"
+ mem_sleepers.145.a.tooltip:0 "我们来讨论这些外星人的历史和命运"
+ 
+ #Remnants
+ mem_sleepers.150.name:0 "残余"
+ mem_sleepers.150.desc:0 "我们是§YOzari§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。我们试图制造出“冰人”来躲避屠杀，但我担心这是唯一一个完成的。我们在这个世界上再也没有位置了。我们的物种几乎灭绝了，我们自己的造物也不太可能善待我们。也许你可以在你的人民中给予我们庇护?"
+ mem_sleepers.150.a:0 "我们将共享我们的家园，你们将分享你们的专业知识。"
+ mem_sleepers.150.a.tooltip:0 "§YOzari Remnants§!将以他们的专业知识支持我们的生物技术研究，以换取避难所。"
+ mem_sleepers.150.a.response:0 "我们深表谢意。你不会后悔的。"
+ mem_sleepers.150.b:0 "对不起，你属于这里。你欠你的造物这么多。"
+ mem_sleepers.150.b.response:0 "似乎我们没有其他选择了。你不欢迎我们，我们也不能呆在这里。"
+ mem_sleepers.150.c:0 "我们宁愿让你摆脱你的痛苦，异种。"
+ mem_sleepers.150.c.response:0 "这不必要。那我们就去…"
+ 
+ #Last Remnants die
+ mem_sleepers.151.name:0 "最后一个Ozari去世了"
+ mem_sleepers.151.desc:0 "今天我们得知了§YOzari§!的最后一名，从星球§Y[From.From.From.From.From.GetName]§!死去。这不仅标志着他们骄傲的种族的结束，也标志着我们长期合作的结束。他们在生物工程方面的专业知识——即使是我们最优秀的头脑也难以实现——将会被我们的科学工作人员严重忽视。"
+ mem_sleepers.151.a:0 "愿他们安息。"
+ mem_sleepers.151.b:0 "它们是一种资产，仅此而已。"
+ 
+ #Primitive civilization evolves with help of Ozari
+ mem_sleepers.152.name:0 "进步的道路"
+ mem_sleepers.152.desc:0 "自上个§YOzari§!年已经过去了！走出去与他们的过去和解。似乎他们在生活中找到了一个新的目标。§Y[From.From.From.From.From.GetName]'s§!原始文明取得了显著的进步——显然是§YOzari§!的影响力。"
+ mem_sleepers.152.a:0 "对他们有好处。"
+ 
+ #The Last Prelude
+ mem_sleepers.195.name:0 "唤醒"
+ mem_sleepers.195.desc:0 "尽管我们尽了最大的努力，但反应堆很快就失败了。我们能够直接引导足够的能量来恢复一个单一的舱室。我们的科学家们冲到舱室里，发现了一个外星人，他似乎戴着领导的徽章。\n\n我们已经建立了沟通，这是一个相当微不足道的任务，因为领导者的语言与当代当地人所说的多种语言密切相关。 更具挑战性的是，当我们说我们无法拯救任何其他物种时，即使在不同物种系之间也是明显的痛苦。 但现在我们相信这个唯一的幸存者已经准备好了。"
+ mem_sleepers.195.a:0 "这是我们倾听的时候了。"
+ mem_sleepers.195.a.tooltip:0 "我们来讨论这些外星人的历史和命运"
+ 
+ #The Last
+ mem_sleepers.200.name:0 "最后一个"
+ mem_sleepers.200.desc:0 "我们是§YOzari§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。我们试图制造出“冰人”来躲避屠杀，但这是唯一一个完成的，所以我现在是我唯一的一个。我再也不属于这个世界了。也许你会让我和你一起加入到群星之中?"
+ mem_sleepers.200.a:0 "如果你能分享你的专业知识，你可以和我们一起生活。"
+ mem_sleepers.200.a.tooltip:0 "最后一个Ozari将加入我们的帝国，成为一名拥有生物技术专长的科学家。"
+ mem_sleepers.200.a.response:0 "我将向你提供我所知道的一切。你不会后悔这个决定的。"
+ mem_sleepers.200.b:0 "对不起，我们不能允许这样做。"
+ mem_sleepers.200.b.response:0 "但我该去哪里？！"
+ mem_sleepers.200.c:0 "我们为什么不把工作做完，让你摆脱痛苦呢?"
+ mem_sleepers.200.c.response:0 "那就这样吧。我没有权力阻止你…"

@@ -1,0 +1,13 @@
+﻿l_simp_chinese: 
+EMP:1 "电磁洪流" 
+EMP_DESC:0 "用高能电磁脉冲扫过整个行星表面，彻底损坏所有机械并将建筑群变为大片废墟。如果可能的话，星球文明将会倒退到中世纪。" 
+tech_pk_emp:0 "京级电磁振荡发生器" 
+tech_pk_emp_desc:0 "这种电磁脉冲尤其擅长毁坏机械体和电子设备，甚至能动摇整个行星的表层构造" 
+FLEETORDER_DESTROY_PLANET_WITH_EMP:0 "正在准备瘫痪$PLANET|Y$上的所有设备" 
+MESSAGE_DESC_FOR_EMP:0 "被瘫痪" 
+mcpk.601.name:0 "[From.GetName]上的科技水平倒退回中世纪。"
+mcpk.601.desc:0 "所有[From.GetName]上的电子设备和机械都被彻底瘫痪，没有任何手段阻止其地表上正在发生的技术倒退。" 
+mcpk.601.tooltip:0 "所有§Y$trait_mechanical$§!和§Y$trait_machine_unit$§!人口被清除" 
+EMP_ACTION:0 "扫描" 
+is_gestalt:0 "无法瞄准§Y$trait_hive_mind$§!"
+too_primitive:0 "那颗行星上没有任何值得瘫痪的目标。"

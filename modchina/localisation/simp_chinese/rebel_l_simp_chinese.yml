@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+REBEL_RISE:1 "叛变形态"
+REBEL_RISE_DESC:0 "这种作用机理类似于灵能的光束将在人群中爆发出强烈的反叛意识。"
+tech_pk_rebel:0 "无序革命"
+tech_pk_rebel_desc:0 "这种作用机理类似于灵能的光束能促使目标反抗他们的统治者。或者说，前统治者。"
+FLEETORDER_DESTROY_PLANET_WITH_REBEL_RISE:0 "正在准备对$PLANET|Y$上的民众洗脑"
+MESSAGE_DESC_FOR_REBEL_RISE:0 "被陷入混乱"
+mcpk.1201.name:0 "叛乱崛起"
+mcpk.1201.desc:0 "[From.GetName]上的民众陷入了某种无序当中，各种非法的武装组织或个人开始大量出现。"
+mcpk.1201.tooltip:0 "叛乱已产生"
+REBEL_RISE_ACTION:0 "失序"

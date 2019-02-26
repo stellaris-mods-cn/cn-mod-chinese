@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+ #################################################
+ # Text by Malthus                               #
+ #################################################
+ # Planetary Shields
+
+ # That first building text is copied from the original game localisation
+ # Standard Shield Generator
+ building_mem_planetary_shield_generator:0 "$building_planetary_shield_generator$"
+ building_mem_planetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+
+ # Heavy Shield Generator
+ building_mem_planetary_shield_generator_heavy:0 "先进$building_planetary_shield_generator$"
+ building_mem_planetary_shield_generator_heavy_desc:0 "一种先进的$building_planetary_shield_generator$，源于我们对古老$pc_shielded$的研究。"
+
+ # Orila Shield Generator
+ building_mem_planetary_shield_generator_orila:0 "古代$building_planetary_shield_generator$"
+ building_mem_planetary_shield_generator_orila_desc:0 "古老且高度先进的带有能量源的$building_planetary_shield_generator$。它的技术可能要领先我们几千年…"
+
+ # Heavy Shield Generator Tech 
+ mem_tech_planetary_shield_generator_heavy:0 "先进$tech_planetary_shield_generator$"
+ mem_tech_planetary_shield_generator_heavy_desc:0 "基于我们对场操控技术以及我们以前对护盾技术的研究，我们的科学家提出了一个设计理念十分先进的$building_planetary_shield_generator$。"

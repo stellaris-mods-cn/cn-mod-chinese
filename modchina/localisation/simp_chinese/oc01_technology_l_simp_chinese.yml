@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Technologies
+ ####################################
+ tech_oc_tomb_creation:0 "创造坟墓世界"
+ tech_oc_tomb_creation_desc:0 "在一个我们认为最不适宜居住的环境中生活是不理智的，所以我们打算重建这些生态退化的世界。"
+ TECH_UNLOCK_TERRAFORMING_NUKED_CREATION_CHANGE_TITLE:0 "§H解锁功能§! 创造坟墓世界"
+ TECH_UNLOCK_TERRAFORMING_NUKED_CREATION_CHANGE_DESC:1 "§H创造坟墓世界§!\n允许我们把行星改造成生态被破坏的坟墓世界。"

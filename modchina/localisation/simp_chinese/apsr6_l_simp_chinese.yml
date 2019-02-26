@@ -1,0 +1,163 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr6_planet_modifier:0 "古卷"
+ apsr6_planet_modifier_desc:0 "这封信躺在一个超级安全的地堡里。它是用不同的语言写成的，不同的部分似乎是在不同的时期写成的"
+ 
+ apsr6_deposit:0 "$apsr6_planet_modifier$"
+ apsr6_deposit_desc:0 "$apsr6_planet_modifier_desc$\n\n§M$apsr6_deposit_effect$§!" 
+ apsr6_deposit_effect:0 "独特的资源可用: $apsr6_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr6_building_part1_text:0 "这个营地是科学家们试图进入超级防护掩体的基地，同时研究它的设备。"
+ 
+ apsr6_building_part2_text:0 "在我们的科学家最终到达的一个超级保护的地堡里，发现了一种§Y古卷§!——一种用未知语言书写的另一种文明的文件。"
+ 
+ apsr6_building_part3_text:0 "这座建筑只有一个目的——充分和充分地学习§Y古卷§!"
+ 
+ apsr6_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
+ 
+ apsr6_building_fake_predesc:0 "§M解锁建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr6_building_part1:0 "科学家营地"
+ apsr6_building_part1_desc:0 "$apsr6_building_predesc$\n$apsr6_building_part1_text$"
+ 
+ apsr6_building_part2:0 "研究古卷基地"
+ apsr6_building_part2_desc:0 "$apsr6_building_predesc$\n$apsr6_building_part2_text$"
+ 
+ apsr6_building_part3:0 "书院:研究古卷的学院"
+ apsr6_building_part3_desc:0 "$apsr6_building_predesc$\n$apsr6_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr6_building_part1_fake:0 "$apsr6_building_part1$"
+ apsr6_building_part1_fake_desc:0 "$apsr6_building_fake_predesc$\n$apsr6_building_part1_text$"
+ 
+ apsr6_building_part2_fake:0 "$apsr6_building_part2$"
+ apsr6_building_part2_fake_desc:0 "$apsr6_building_fake_predesc$\n$apsr6_building_part2_text$"
+ 
+ apsr6_building_part3_fake:0 "$apsr6_building_part3$"
+ apsr6_building_part3_fake_desc:0 "$apsr6_building_fake_predesc$\n$apsr6_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr6_building_part1:0 "渗透"
+ tech_apsr6_building_part1_desc:0 "我们发现了一个超级受保护的地堡，根据一些信息判断，里面有一个§Y古卷§!——另一种文明的某种文件。"
+ 
+ tech_apsr6_building_part2:0 "诺灵威斯汀"
+ tech_apsr6_building_part2_desc:0 "我们的信息太少，无法理解§Y古卷§!所使用的语言。然而，研究大气层的化学成分，地堡建筑将允许设计条件，形成的语言的第一个文明编写的一部分§Y古卷§!。所以我们至少可以理解其中的一些意思。"
+ 
+ tech_apsr6_building_part3:0 "分析§Y古卷§!"
+ tech_apsr6_building_part3_desc:0 "在破译了部分§Y古卷§!之后，我们获得了宝贵的知识。现在你需要完全破译它!"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.6001.title:0 "$apsr6_building_part1$ 建成"
+ apsr.6001.desc:0 "我们的科学家在这个超级保护的地堡附近定居下来，开始研究它，并试图进入里面。"
+ apsr.6001.ok-button:0 "保持联系"
+ 
+ apsr.6002.title:0 "$apsr6_building_part2$ 建成"
+ apsr.6002.desc:0 "我们已经开始研究§Y古卷§!，到目前为止，我们唯一能够理解的是——创造§Y古卷§!的文明曾经与一个强大的敌人作战，摧毁它所经过的一切。要了解更多，需要进一步的研究。"
+ apsr.6002.ok-button:0 "听起来很吓人"
+ 
+ apsr.6003.title:0 "$apsr6_building_part3$ 建成"
+ apsr.6003.desc:0 "在我们详细检查了§Y古卷§!之后，我们可以确认我们的恐惧。事实上，创造§Y古卷§!的文明是在与来自银河系之外的、正在毁灭所有智慧生命的强大敌人作战。幸运的是，§Y古卷§!描述了对付它们的方法，并且有针对未知威胁的武器原型"
+ apsr.6003.ok-button:0 "我们得准备好"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.6011.title:0 "发现一个人造物: §M$apsr6_planet_modifier$§!"
+ apsr.6011.desc:0 "§H[Root.GetLeaderName]§!领导的科学考察队发现了一些奇特的东西! \n在这个星球上，有一座建筑，它的内部有着一个来历不明、用途不明的信息"
+ apsr.6011.button:1 "真吸引人"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.6013.title:0 "发现一个人造物: §M$apsr6_planet_modifier$§!"
+ apsr.6013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n在这个星球上有一座建筑，它的起源和用途都是未知的。"
+ apsr.6013.button:1 "真吸引人"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.6015.title:0 "发现人造物: §M$apsr6_planet_modifier$§!"
+ apsr.6015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上有一个结构，里面有一封来历不明的古卷。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr6_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr6_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr6_resource_planet.Owner.GetName]"
+ apsr.6015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr6_special:0 "$apsr6_planet_modifier$"
+ apsr6_special_desc:0 "$apsr6_planet_modifier_desc$"
+ 
+ APSR6_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR6_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr6_planet_modifier$§!的特殊资源的信息，它位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr6_anomaly:0 "$apsr1_anomaly$"
+ apsr6_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.6601.title:0 "$apsr.6011.title$"
+ apsr.6601.desc:0 "$apsr.6011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr6_planet_scientist_normal:0 "异种语言学者"
+ job_apsr6_scientist_normal:0 "异种语言学者"
+ job_apsr6_scientist_normal_plural:0 "异种语言学者"
+ job_apsr6_scientist_normal_desc:0 "研究和解码古代文明语言的专家"
+ mod_job_apsr6_scientist_normal_add:0 "异种语言学者"
+
+ apsr6_planet_scientist_hive:0 "异种语言工蜂"
+ job_apsr6_scientist_hive:0 "异种语言工蜂"
+ job_apsr6_scientist_hive_plural:0 "异种语言工蜂"
+ job_apsr6_scientist_hive_desc:0 "专门研究和破译古代文明语言的工蜂"
+ mod_job_apsr6_scientist_hive_add:0 "异种语言工蜂"
+
+ apsr6_planet_scientist_machine:0 "异种语言单元"
+ job_apsr6_scientist_machine:0 "异种语言单元"
+ job_apsr6_scientist_machine_plural:0 "异种语言单元"
+ job_apsr6_scientist_machine_desc:0 "专门研究和解码古代文明语言的单元"
+ mod_job_apsr6_scientist_machine_add:0 "异种语言单元"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

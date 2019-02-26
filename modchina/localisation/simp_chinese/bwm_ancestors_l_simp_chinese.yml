@@ -1,0 +1,201 @@
+﻿l_simp_chinese:
+
+ pc_bwm_star_dummy:0 ""
+ pc_bwm_star_dummy_desc:0 ""
+
+ pc_bwm_planet_dummy:0 ""
+ pc_bwm_planet_dummy_desc:0 ""
+
+ bwm_apostle_seal:0 "守护者"
+ bwm_apostle_seal_mid_key:0 "守护者 核心"
+ 
+ bwm_apostle_s_cloud:0 "先祖"
+ bwm_apostle_s_cloud_mid_key:0 "被解放的先祖 核心"
+
+ bwm_apostle_m_cloud:0 "先祖"
+ bwm_apostle_m_cloud_mid_key:0 "被解放的先祖 核心"
+  
+ bwm_apostle_l_cloud:0 "先祖"
+ bwm_apostle_l_cloud_mid_key:0 "被解放的先祖 核心"
+ 
+ bwm_apostle_xl_cloud:0 "先祖"
+ bwm_apostle_xl_cloud_mid_key:0 "被解放的先祖 核心"
+ 
+  bwm_apostle_xxl_cloud:0 "先祖"
+ bwm_apostle_xxl_cloud_mid_key:0 "被解放的先祖 核心"
+ 
+ bwm_apostle_scout:0 "先祖"
+ bwm_apostle_scout_mid_key:0 "先祖侍祭 核心"
+ 
+ bwm_apostle_station:0 "先祖"
+ bwm_apostle_station_mid_key:0 "先祖神殿 核心"
+ 
+ bwm_apostle_1:0 "先祖"
+ bwm_apostle_1_mid_key:0 "先祖容器 核心"
+ 
+ bwm_apostle_2:0 "先祖"
+ bwm_apostle_2_mid_key:0 "先祖容器 核心"
+ 
+ bwm_apostle_3:0 "先祖"
+ bwm_apostle_3_mid_key:0 "先祖容器 核心"
+ 
+ bwm_apostle_4:0 "先祖"
+ bwm_apostle_4_mid_key:0 "先祖容器 核心"
+ 
+ bwm_apostle_egg:0 "先祖"
+ bwm_apostle_egg_mid_key:0 "先祖容器 核心"
+ 
+ bwm_apostle_child:0 "先祖"
+ bwm_apostle_child_mid_key:0 "先祖容器 核心"
+ 
+ bwm_apostle_seal_plural:0 "守护者"
+ bwm_apostle_s_cloud_plural:0 "解放"
+ bwm_apostle_m_cloud_plural:0 "解放"
+ bwm_apostle_l_cloud_plural:0 "解放"
+ bwm_apostle_xl_cloud_plural:0 "解放"
+ bwm_apostle_xxl_cloud_plural:0 "解放"
+ bwm_apostle_scout_plural:0 "先祖"
+ bwm_apostle_station_plural:0 "先祖"
+ bwm_apostle_1_plural:0 "先祖"
+ bwm_apostle_2_plural:0 "先祖"
+ bwm_apostle_3_plural:0 "先祖"
+ bwm_apostle_4_plural:0 "先祖"
+ bwm_apostle_egg_plural:0 "先祖"
+ bwm_apostle_child_plural:0 "先祖"
+
+ bwm_ANCESTOR_PRIMARY_WEAPON:0 "先祖能量扭曲炮"
+ bwm_ANCESTOR_SECONDARY_WEAPON:0 "先祖重力炮"
+ bwm_ANCESTOR_SECONDARY_STATION_WEAPON:0 "先祖重力炮"
+ bwm_ANCESTOR_TORPEDO:0 "先祖次元破灭鱼雷"
+ bwm_ANCESTOR_LARGE_WEAPON:0 "先祖 三式光子炮"
+ bwm_ANCESTOR_MEDIUM_WEAPON:0 "先祖 二式光子炮"
+ bwm_ANCESTOR_SMALL_WEAPON:0 "先祖 一式光子炮"
+ bwm_ANCESTOR_PD:0 "先祖 自律式飞行防御系统"
+ 
+ bwm_ANCESTOR_STAR_XXL_WEAPON:0 "先祖 五式超重力火炮"
+ bwm_ANCESTOR_STAR_XL_WEAPON:0 "先祖 四式超重力火炮"
+ bwm_ANCESTOR_STAR_L_WEAPON:0 "先祖 三式超重力火炮"
+ bwm_ANCESTOR_STAR_M_WEAPON:0 "先祖 二式超重力火炮"
+ bwm_ANCESTOR_STAR_S_WEAPON:0 "先祖 一式超重力火炮"
+ 
+ bwm_ANCESTOR_FIGHTER_HANGAR:0 "先祖 无人机格纳库一型" 
+ bwm_ANCESTOR_BOMBER_HANGAR:0 "先祖 无人机格纳库二型"
+ 
+ bwm_ANCESTOR_PRISON_AURA:0 "守护者次元抑制力场"
+ bwm_ANCESTOR_DAMAGE_AURA_S:0 "先祖 时空分解者一型"
+ bwm_ANCESTOR_DAMAGE_AURA_M:0 "先祖 时空分解者二型"
+ bwm_ANCESTOR_DAMAGE_AURA_L:0 "先祖 时空分解者三型"
+ bwm_ANCESTOR_DAMAGE_AURA_XL:0 "先祖 时空分解者四型"
+ bwm_ANCESTOR_DAMAGE_AURA_XXL:0 "先祖 时空分解者五型"
+ bwm_ANCESTOR_SCOUT_AURA:0 "先祖 能量活性化力场"
+ bwm_ANCESTOR_BOSS_AURA:0 "先祖 惊悚力场"
+ 
+ bwm_building_crisis_ruin:0 "废墟"
+ bwm_building_crisis_ruin_desc:0 "§只留下了一片灰烬和残骸。§!"
+ 
+ tb_bwm_nature:0 "£疯狂生长"
+ tb_bwm_nature_desc:0 "大自然已经进入了某种疯狂的状态。"
+ 
+ bwm_ancestor_weakness:0 "溶解"
+ bwm_ancestor_weakness_desc:0 "可以利用几个先祖舰船的弱点，更新我们舰船的火控数据。"
+ damage_vs_country_type_bwm_ancestor_guardian_mult:0 "对先祖造物的伤害"
+ 
+ bwm_ANCESTOR_WEAKNESS_PROJECT:0 "武器校准-先祖"
+ bwm_ANCESTOR_WEAKNESS_PROJECT_DESC:0 "研究'坦森的选择'和发现它们的弱点。"
+ 
+ bwm_pop_ancestor:0 "德森的标记"
+ bwm_pop_ancestor_desc:0 "轻触开启黎明前的选择。"
+ 
+ bwm_ancestor_in_system:0 "德森的发光"
+ bwm_ancestor_in_system_desc:0 "德森的发光存在。"
+ 
+ bwm_ancestor_garden_world:0 "原始花园世界"
+ bwm_ancestor_garden_world_desc:0 "德森的选择已经将这个世界变成个郁郁葱葱的天堂。"
+ 
+ bwm_ancestor.40:0 "陨落天堂的使者"
+ bwm_ancestor.40.desc:0 "我们的船体扫描仪发现[From.GetName]存在剧烈反应的物体，奇怪的是这里并没有任何星球或小行星。我建议谨慎移动舰队靠近以便采集数据。"
+ bwm_ancestor.40.a.tooltip:0 "§警告 - 检测到高能反应。§!"
+ 
+ bwm_ancestor.41:0 "破坏"
+ bwm_ancestor.41.desc:0 "封印被解除，但它的物理形式造成能量产生不稳定的反应。不知道这种做法是不是很稳妥？"
+ bwm_ancestor.41.a:0 "时间会诉说一切。"
+ 
+ bwm_ancestor.42:0 "第三次冲击"
+ bwm_ancestor.42.desc:0 "这个超正方体在[bwm_prison_system_local.GetName]打破了它的原始形态。虽然变化减少，但其能量波动已上升到危险水平。"
+ bwm_ancestor.42.a:0 "现在没有回头路了。"
+ 
+ bwm_ancestor.43:0 "圣十字架的救赎"
+ bwm_ancestor.43.desc:0 "这个超正方体在[bwm_prison_system_local.GetName]自爆了。在越来越多的能量被释放出来，它似乎暂时扭曲了物理规则，正如我们所了解的它的崩溃是源自它高密度的能量聚集。"
+ bwm_ancestor.43.a:0 "做好最坏的准备。"
+ 
+ bwm_ancestor.44:0 "黎明前的选择"
+ bwm_ancestor.44.desc:0 "一个巨大力量的生物从那个崩溃的十字架造物中伸了出来。"
+ bwm_ancestor.44.a:0 "这可不是什么好兆头。"
+ 
+ bwm_ancestor.45:0 "蝶蛹"
+ bwm_ancestor.45.desc:0 "奇怪的利维坦在漫游我们的银河系时候在分子层面进行了重组，通过扫描重组后的躯体，我们估计它的威力还在持续上升。"
+ bwm_ancestor.45.a:0 "还能更疯狂？"
+ 
+ bwm_ancestor.46:0 "创世纪"
+ bwm_ancestor.46.desc:0 "一艘战舰从利维坦上"浮现"，一个看似机械的东西是如何从生物体上出现，这超出我们认知的范围。鉴于这奇怪的能力，我们应该提高我们的军事水平以便应对。"
+ bwm_ancestor.46.a:0 "这怎么可能）？"
+ 
+ bwm_ancestor.47:0 "白板"
+ bwm_ancestor.47.desc:0 "自然回收是人为的改变，恢复平衡。"
+ bwm_ancestor.47.a:0 "困惑。"
+ 
+ bwm_ancestor.48:0 "焦土"
+ bwm_ancestor.48.desc:0 "轰炸此前的再生世界，其美貌征服任何痕迹。"
+ bwm_ancestor.48.a:0 "这是不自然的。"
+ 
+ bwm_ancestor.49:0 "神之子封印"
+ bwm_ancestor.49.desc:0 "你这个傲慢和好战的傻瓜。你把我们亿万年来竭力保护的封印给打破了，在某种程度上你的原始技术引起了我们的注意。现在你将为此付出代价，希望这不是太迟了。"
+ bwm_ancestor.49.a:0 "抱歉，这就是我所需要的。"
+ bwm_ancestor.49.a.response:0 "好吧，希望你知道你到底在做什么。"
+
+ bwm_ancestor.51:0 "神之陨落"
+ bwm_ancestor.51.desc:0 "神之子的困扰已在我们星系被消灭，已经没有明显读数再次被发现。我们应该向我们的海军将领致敬，是他们为了世界和平奉献了自己。"
+ bwm_ancestor.51.a:0 "噩梦终于结束了。"
+ 
+ bwm_ancestor.52:0 "遥测 - 坦森的预言"
+ bwm_ancestor.52.desc:0 "我们设法从奇怪外星人的最近经过的的亚空间得到一个可用于传感器的识别码。现在应该能追踪到它。"
+ 
+ bwm_ancestor.53:0 "- 警告 -"
+ bwm_ancestor.53.desc:0 "敌军战舰已经进行了紧急跃迁！"
+ 
+ bwm_ancestor.61:0 "东山再起"  
+ bwm_ancestor.61.desc:0 "我们武器对敌人的攻击是无效的。我们还在持续的重大损失，应该立即撤军并试图找出一种方法突破敌人的防御。" 
+ bwm_ancestor.61.a:0 "我们不是那么容易被打败的。"
+ bwm_ancestor.61.b:0 "我们为啥要执迷不悟。"
+ 
+ bwm_ancestor.62:0 "终点站" 
+ bwm_ancestor.62.desc:0 "我们科学家相信他们已经开发出了能消除能抵抗任何攻击的奇怪的护盾的武器。我们士兵渴望在敌人身上校验这些新式装备的效果。" 
+ bwm_ancestor.62.a:0 "胜利终将属于我们！"
+
+ bwm_lex_ancestor_chain_title:0 "黎明之子 - 神之使者" 
+ bwm_lex_ancestor_chain_desc:0 "古老的敌人，曾经因为对银河系人民的罪行而被放逐，如今不知不觉中摆脱了千年的束缚，现在能凭着自由意志行动。" 
+ bwm_ancestor_worlds:0 "§Y改造世界（被神之子占据的星球）§!" 
+ bwm_ancestor_worlds_cleansed:0 "§Y改造世界的洁净（被消灭的星球）§!" 
+ bwm_ancestor_kills_us:0 "§G选择我们的将死之人（你击杀的敌军数量）§!" 
+ bwm_ancestor_kills_others:0 "§G选择其他的将死之人（其他人击杀的敌军数量）§!" 
+ bwm_ancestor_victims:0 "§转换容器（神之子生产的战舰）§!" 
+ bwm_ancestor_herald_counter:0 "§H预示着征服（被神之子消灭的文明）。§!"
+ 
+ bwm_ancestor_herald_1_poi:0 "第一报道"
+ bwm_ancestor_herald_1_poi_desc:0 "指定'第一报道'的亚空间识别码。"
+ 
+ bwm_ancestor_herald_2_poi:0 "第二报道"
+ bwm_ancestor_herald_2_poi_desc:0 "指定'第二报道'的亚空间识别码。"
+ 
+ bwm_ancestor_herald_3_poi:0 "第三报道"
+ bwm_ancestor_herald_3_poi_desc:0 "指定'第三报道'的亚空间识别码。"
+ 
+ bwm_ancestor_herald_4_poi:0 "第四报道"
+ bwm_ancestor_herald_4_poi_desc:0 "指定'第四报道'的亚空间识别码。"
+ 
+ bwm_ancestor_herald_5_poi:0 "第五报道"
+ bwm_ancestor_herald_5_poi_desc:0 "指定'第五报道'的亚空间识别码。"
+ 
+ bwm_ancestor_herald_6_poi:0 "第六报道"
+ bwm_ancestor_herald_6_poi_desc:0 "指定'第六报道'的亚空间识别码。"
+ 

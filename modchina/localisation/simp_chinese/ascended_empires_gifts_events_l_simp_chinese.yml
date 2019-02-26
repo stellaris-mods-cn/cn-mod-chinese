@@ -1,0 +1,88 @@
+﻿l_simp_chinese:
+
+ ascended_empires_gifts.2.name:0 "来自天堂的礼物"
+ ascended_empires_gifts.2.desc.spiritualist:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役、变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。只有最忠诚的人才配得上我们的奖赏，他们会帮助我们对银河系中所有反对我们的人施以惩罚。我们应该考虑一下§H[NoobEmpire.GetName]§!是否值得这个慷慨的礼物。我们的科学家建议我们可能需要移除一些更高级的组件，这样§H[NoobEmpire.GetSpeciesNamePlural]§!就不会被他们的操作搞得太混乱。这些设备将被以更少的按钮和更简单得操作设备所取代，并被修改为适合他们的生活特征，使得飞行员更容易地处理不佳的形状。我们也可能需要安装反修补装置，以防止§H[NoobEmpire.GetSpeciesNamePlural]§!意外导致舰船爆炸。"
+ ascended_empires_gifts.2.desc.materialist:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役、变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。毕竟，他们舰队的状态也反映在我们身上，而他们所称的“军舰”的粗陋的船体实际上非常糟糕。我们应该考虑一下§H[NoobEmpire.GetName]§!是不是这个慷慨的礼物的受赠人。这艘船会给我们的臣民们留下最深刻的印象——但不幸的是，他们必须定期处理。我们的科学家建议我们可能要移除一些更先进的组件，所以§H[NoobEmpire.GetSpeciesNamePlural]§!不会被他们的操作搞得太混乱。这些设备将被更少的按钮和操作更简单设备所取代，并被修改为适合他们的生活特征，飞行员更容易地处理不佳的形状。我们也可能需要安装反修补装置，以防止§H[NoobEmpire.GetSpeciesNamePlural]§!意外导致飞船爆炸。"
+ ascended_empires_gifts.2.desc.xenophobe:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役或变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。尽管我们蔑视外星生命，但只有向他人展示屈从的好处，才能维持统治地位。我们应该考虑§H[NoobEmpire.GetName]§!是不是这个慷慨的礼物的受赠人。它将成为那些抵抗我们的人的力量的象征。我们的科学家建议我们可能不得不删除一些更高级的组件,因此§H[NoobEmpire.GetSpeciesNamePlural]§!可能对他们的操作感到过分困惑。这些设备将被更少的按钮和操作更简单得设备所取代，并被修改为适合他们的生活特征，飞行员更容易地处理不佳的形状。我们可能还需要安装反修补设备,以防止§H[NoobEmpire.GetSpeciesNamePlural]§!的原始思想爆炸。"
+ ascended_empires_gifts.2.desc.xenophile:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役或变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。当他们处于我们的和平条约和保护之下时，但当战争来临的时候，我们不会措手不及。我们应该考虑如果§H[NoobEmpire.GetName]§!是不是这个慷慨的礼物的受赠人。将进行风险评估，以确保我们的军舰被误用的可能性极小。我们的科学家们建议，我们可能还要移除一些更先进的组件。这些将被更适合§H[NoobEmpire.GetSpeciesNamePlural]§!的技术取代，这样他们操纵我们的船了就不会有任何麻烦了。我们也可能需要安装反修补装置，并警告他们不要分析或拆卸组件。§H[NoobEmpire.GetSpeciesNamePlural]§!会在试图理解我们的技术时伤害自己。"
+ ascended_empires_gifts.2.desc.militarist:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役或变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。毕竟，他们舰队的状态也反映在我们身上，而他们所称的“军舰”的粗陋的船体实际上非常糟糕。我们应该考虑一下§H[NoobEmpire.GetName]§!是否值得这个慷慨的礼物。这艘船将作为我们力量的象征，我们的臣民——不幸的是——必须被处理。我们的科学家建议我们可能不得不删除一些更高级的组件,因此，§H[NoobEmpire.GetSpeciesNamePlural]§!可能会对他们的操作感到万分困惑。这些设备将被更少的按钮和操作更简单设备所取代，并被修改为适合他们的生活特征，飞行员更容易地处理不佳的形状。我们可能还需要安装反修补设备,防止§H[NoobEmpire.GetSpeciesNamePlural]§!!意外地导致舰船爆炸。"
+ ascended_empires_gifts.2.desc.pacifist:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役或变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。当我们在武装冲突时，我们的一些研究对象甚至缺乏最基本的防御。我们应该考虑一下§H[NoobEmpire.GetName]§!是否值得这个慷慨的礼物。一个小而有效的防御舰队将成为他们的灯塔，这将使我们对银河系的非军事化抱有希望。我们的科学家们建议，我们可能还要移除一些更先进的组件。这些将被更熟悉§H[NoobEmpire.GetSpeciesNamePlural]§!的技术取代，这样他们来操纵我们的船就不会有任何麻烦了。我们也可能需要安装反修补装置，并警告他们不要分析或拆卸组件。§H[NoobEmpire.GetSpeciesNamePlural]§!在试图理解我们的技术时，可能会严重伤害自己。"
+ ascended_empires_gifts.2.desc.authoritarian:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役或变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。尽管我们的地位是主人，但我们的地位只能通过向他人展示从众的好处来维持。我们应该考虑一下§H[NoobEmpire.GetName]§!是否值得这个慷慨的礼物。这些船将作为我们善意的象征。我们的科学家建议我们可能不得不删除一些更高级的组件,因此,§H[NoobEmpire.GetSpeciesNamePlural]§!可能会对他们的操作感到万分困惑。这些设备将被更少的按钮和操作更简单设备所取代，并被修改为适合的生活特征，允许他们这个低等种族中更容易地操作。我们可能还需要安装反修补设备,防止§H[NoobEmpire.GetSpeciesNamePlural]§!意外地导致舰船爆炸。"
+ ascended_empires_gifts.2.desc.egalitarian:0 "我们最近从我们庞大的舰队中退役了一批过时的军舰，这些军舰是由于退役或变成景点或在博物馆展览而造成的。然而，如果我们决定把它们作为礼物送给我们忠诚的臣民，他们可能会有更大的作用。毕竟，他们选择站在我们的一边，与我们一起对抗银河系的不平等、不公和暴政。我们应该考虑一下§H[NoobEmpire.GetName]§!是否值得这个慷慨的礼物。它将成为我们所有人的灯塔，我们的希望寄托在一个自由的星系上。我们的科学家们建议，我们可能还要移除一些更先进的组件。这些将被更熟悉§H[NoobEmpire.GetSpeciesNamePlural]§!的技术取代，这样他们操作舰船就不会有任何问题了。我们也可能需要安装反修补装置，并警告他们不要分析或拆卸组件。我们不希望§H[NoobEmpire.GetSpeciesNamePlural]§!在试图理解我们的技术时伤害了自己。"
+ 
+ ascended_empires_gifts.2.a:0 "护卫舰就可以了。"
+ ascended_empires_gifts.2.b:0 "给他们一个护航编队。"
+ ascended_empires_gifts.2.c:0 "给他们一艘战列巡洋舰。"
+ ascended_empires_gifts.2.d:0 "给他们一队战列巡洋舰。"
+ ascended_empires_gifts.2.e:0 "给他们一个完整的舰队。"
+ ascended_empires_gifts.2.f:0 "他们可配不上我们的船。"
+ 
+ NAME_Surplus_Escort: "剩余的护航舰"
+ NAME_Surplus_Battlecruiser: "剩余的战列巡洋舰"
+ 
+ NAME_Surplus_Escort_I: "剩余的护航舰 I"
+ NAME_Surplus_Escort_II: "剩余的护航舰 II"
+ NAME_Surplus_Escort_III: "剩余的护航舰 III"
+ NAME_Surplus_Battlecruiser_I: "剩余的战列巡洋舰 I"
+ NAME_Surplus_Battlecruiser_II: "剩余的战列巡洋舰 II"
+ NAME_Surplus_Battlecruiser_III: "剩余的战列巡洋舰 III" 
+ 
+ ascended_empires_gifts.3.name:0 "来自§H[AscendedEmpireGifter.GetName]§!"
+ ascended_empires_gifts.3.desc:0 "[NoobEmpire.GetSpeciesName],我们决定用一份礼物来为你们的帝国增光，作为我们无限善行的象征。不要浪费我们的慷慨，也不要把我们的恩惠视为理所当然。"
+ ascended_empires_gifts.3.desc.a.spiritualist:0 "我们决定送你们一些我们多余的护卫舰，作为你们信仰我们的回报。我们已经冒昧地更换了一些更先进的组件，这样你们就不会被他们的操作搞得太混乱了，剩下的都安装了反修补装置，以防止你们意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.a.materialist:0 "[NoobEmpire.GetSpeciesName],作为一个[AscendedEmpireGifter.GetSpeciesName]。你们的舰队的状态也反映在我们身上，你们所称的“战舰”的那些粗陋的庞然大物的确反得很糟糕。为了达到这个目的，我们决定送给你们一些我们的多余的护航舰，它们应该给你们经常与之互动的其他野蛮人留下最深刻的印象。\n\n我们已经替换了一些更先进的组件，这样你们就不会对他们的操作感到非常困惑，剩下的已经安装了反修复设备，所以不要试图分析或拆卸船只。无论如何，你们都不可能理解他们的内在运作。"
+ ascended_empires_gifts.3.desc.a.xenophile:0 "我们[AscendedEmpireGifter.GetSpeciesName]相信[NoobEmpire.GetSpeciesNamePlural]是维持星系平衡和生物多样性的重要物种，但我们担心你们的舰队太弱，无法抵抗其他更有侵略性的物种。为了帮助你们保护自己，我们决定送你们一些多余的护卫舰。\n\n我们已经用更熟悉的技术取代了一些更先进的组件。[NoobEmpire.GetSpeciesNamePlural]，所以你们应该毫不费力地操作它们。同时，请不要试图分析或拆卸船只，我们不希望你们伤害自己!"
+ ascended_empires_gifts.3.desc.a.xenophobe:0 "我们已决定送你们一些我们的多余的护卫舰,作为你们的继续屈从给予生物·奖励。我们已经冒昧地更换了一些更先进的组件，并配备了反修补装置。相信我，当你们试图理解这一技术时，你们的思维很可能会爆炸。"
+ ascended_empires_gifts.3.desc.a.militarist:0 "我们决定送你们一些我们的多余的护卫舰，因为你们的军队也可能会对我们有所反应。我们已经冒昧地更换了一些更先进的组件，并配备了反修补装置。这是为了你们自己的安全，以防你们的工程师意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.a.pacifist:0 "我们已经决定给你们一些多余的护卫舰，因为你们似乎缺乏最基本的防御。我们已经冒昧地用您更熟悉的技术替换了一些更高级的组件，并将其余的组件安装到反修补设备中。请不要试图分析或拆卸这艘船。你们会伤到自己的!"
+ ascended_empires_gifts.3.desc.a.authoritarian:0 "我们决定礼物我们的一些盈余护送船只,作为奖励你们遵守我们的规则。我们已经冒昧地用更先进的设备替换了一些更先进的部件，并安装了反修补装置。这是为了防止你们的工程师意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.a.egalitarian:0 "我们决定礼物我们的一些盈余护送船只,作为奖励你们的继续支持反对暴政的力量。我们已经冒昧地将一些更高级的组件替换为您自己熟悉的技术，并将其余的组件安装到反修补设备中。我们不希望你们在试图理解我们的技术时伤害自己。"
+ 
+ ascended_empires_gifts.3.desc.b.spiritualist:0 "我们决定礼物我们的一些盈余巡洋舰,作为你们的信仰奖励。我们已经冒昧地更换了一些更先进的组件，这样你们就不会被他们的操作搞得太混乱了，剩下的都安装了反修补装置，以防止你们意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.b.materialist:0 "[NoobEmpire.GetSpeciesName],作为一个[AscendedEmpireGifter.GetSpeciesName]你们的舰队的状态也反映在我们身上，你们所称的“战舰”的那些粗陋的庞然大物的确反映得很糟糕。为了达到这个目的，我们决定给你们一些剩余的战列巡洋舰，它们应该给你们经常接触的其他野蛮人留下最深刻的印象。\n\n我们已经替换了一些更先进的组件，这样你们就不会对他们的操作感到非常困惑，剩下的已经安装了反修复设备，所以不要试图分析或拆卸船只。无论如何，你们都不可能理解他们的内在运作。"
+ ascended_empires_gifts.3.desc.b.xenophile:0 "我们[AscendedEmpireGifter.GetSpeciesName]相信[NoobEmpire.GetSpeciesNamePlural]是维持星系平衡和生物多样性的重要物种，但我们担心你们的舰队太弱，无法抵抗其他更有侵略性的物种。为了帮助你们保护自己，我们已经决定给你们一些剩余的战列巡洋舰。\n\n我们已经用更熟悉的技术取代了一些更先进的组件。[NoobEmpire.GetSpeciesNamePlural], 所以操作它们应该没问题。同时，请不要试图分析或拆卸船只，我们不希望你们伤害自己!"
+ ascended_empires_gifts.3.desc.b.xenophobe:0 "我们决定礼物我们的一些多余战列巡洋舰,作为你们继续服从我们的奖励。我们已经冒昧地更换了一些更先进的组件，并配备了反修补装置。相信我，当你们试图理解这一技术时，你们的思维很可能会爆炸。"
+ ascended_empires_gifts.3.desc.b.militarist:0 "我们已经决定给你们一些多余的战列巡洋舰，因为你们的军事力量也会影响我们。我们已经冒昧地更换了一些更先进的组件，并配备了反修补装置。这是为了你们自己的安全，以防你们的工程师意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.b.pacifist:0 "我们已经决定给你们一些多余的战列巡洋舰，因为你们似乎缺乏最基本的防御。我们已经冒昧地用您更熟悉的技术替换了一些更高级的组件，并将其余的组件安装到反修补设备中。请不要试图分析或拆卸这艘船。你们会伤到自己的!"
+ ascended_empires_gifts.3.desc.b.authoritarian:0 "我们决定礼物我们的一些多余战列巡洋舰,作为你们遵守我们规则的奖励。我们已经冒昧地用更先进的设备替换了一些更先进的部件，并安装了反修补装置。这是为了防止你们的工程师意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.b.egalitarian:0 "我们决定礼物我们的一些多余的战列巡洋舰,作为你们的继续支持反对暴政力量奖励的。我们已经冒昧地将一些更高级的组件替换为您自己熟悉的技术，并将其余的组件安装到反修补设备中。我们不希望你们在试图理解我们的技术时伤害自己。"
+ 
+ ascended_empires_gifts.3.desc.c.spiritualist:0 "我们已经决定给你们完整的舰队,作为你们信仰的奖励。我们已经冒昧地更换了一些更先进的组件，这样你们就不会被他们的操作搞得太混乱了，剩下的都安装了反修补装置，以防止你们意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.c.materialist:0 "[NoobEmpire.GetSpeciesName],作为一个[AscendedEmpireGifter.GetSpeciesName]你们的舰队的状态也反映在我们身上，你们所称的“战舰”的那些粗陋的庞然大物的确反映得很糟糕。为了达到这个目的，我们决定给你们一个完整的补充，给你们经常与之互动的其他野蛮人带来最令人印象深刻，。\n\n我们已经替换了一些更先进的组件，这样你们就不会对他们的操作感到非常困惑，剩下的已经安装了反修复设备，所以不要试图分析或拆卸船只。无论如何，你们都不可能理解他们的内在运作。"
+ ascended_empires_gifts.3.desc.c.xenophile:0 "我们[AscendedEmpireGifter.GetSpeciesName]相信[NoobEmpire.GetSpeciesNamePlural]是维持星系平衡和生物多样性的重要物种，但我们担心你们的舰队太弱，无法抵抗其他更有侵略性的物种。为了帮助你们保护自己，我们决定给你们一支完整的换掉。\n\n我们已经用更熟悉的技术取代了一些更先进的组件。[NoobEmpire.GetSpeciesNamePlural], 所以操作它们应该没问题。同时，请不要试图分析或拆卸船只，我们不希望你们伤害自己!"
+ ascended_empires_gifts.3.desc.c.xenophobe:0 "我们已经决定给你们一支完整的舰队,作为一个奖励你们继续谄媚。我们已经冒昧地更换了一些更先进的组件，并配备了反修补装置。相信我，当你们试图理解这一技术时，你们的思维很可能会爆炸。"
+ ascended_empires_gifts.3.desc.c.militarist:0 "我们已决定将我们的船只作为你们的军事力量，向你们提供全面的舰队。我们已经冒昧地更换了一些更先进的组件，并配备了反修补装置。这是为了你们自己的安全，以防你们的工程师意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.c.pacifist:0 "我们已经决定给你们一支完整的舰队，因为你们似乎缺乏最基本的防御。我们已经冒昧地用您更熟悉的技术替换了一些更高级的组件，并将其余的组件安装到反修补设备中。请不要试图分析或拆卸这艘船。你们会伤到自己的!"
+ ascended_empires_gifts.3.desc.c.authoritarian:0 "我们已经决定给你们完整的舰队,作为你们遵守我们规则的奖励。我们已经冒昧地用更先进的设备替换了一些更先进的部件，并安装了反修补装置。这是为了防止你们的工程师意外地导致飞船爆炸。"
+ ascended_empires_gifts.3.desc.c.egalitarian:0 "我们已经决定给你们一支完整的舰队,作为一个奖励你们的继续支持反对暴政的力量。我们已经冒昧地将一些更高级的组件替换为您自己熟悉的技术，并将其余的组件安装到反修补设备中。我们不希望你们在试图理解我们的技术时伤害自己。"
+ 
+ ascended_empires_gifts.3.a:0 "我们欣然接受!"
+ 
+ ascended_empires_gifts.5.name:0 "困难"
+ ascended_empires_gifts.5.desc:0 "富人和穷人之间的差距正在[NoobEmpire.GetName]扩大。由于“紧缩”措施导致生活水平下降和福利减少，国家很快就会发现自己站在了人民的错误一边，金融机构充分利用了一个被摧毁的、元气大伤的政府。我们可以用大量的信贷来帮助[NoobEmpire.GetSpeciesNamePlural]最穷的人重新站起来。它可以在很大程度上减轻一些痛苦，并确保其政府的仍对我们忠诚。"
+ ascended_empires_gifts.5.a:0 "给他们优惠."
+ ascended_empires_gifts.5.b:0 "我们颗不做慈善事业."
+ 
+ ascended_empires_gifts.6.name:0 "来自§H[AscendedEmpireGifter.GetName]§!"
+ ascended_empires_gifts.6.desc:0 "我们观察到你们的原始物种是如何遭受极端贫穷和金融机构猖獗的暴利。我们[AscendedEmpireGifter.GetSpeciesName] 听到了[NoobEmpire.GetSpeciesNamePlural]的困境，并在我们无限的仁慈中，决定给你们一些能量币。这个慈善捐款是为了提高你们原始生活方式的标准，在任何情况下都不要被滥用。"
+ ascended_empires_gifts.6.a:0 "我们欣然接受!"
+ 
+ ascended_empires_gifts.8.name:0 "基础设施恢复"
+ ascended_empires_gifts.8.desc:0 "在[NoobEmpire.GetName]，基础设施的恢复的状态不太好，即使是对于一个原始帝国来说也是如此。由于采矿作业的不足，他们从过去的战争或自然灾害中恢复得很慢。由于缺乏矿物，在行星上的重建工作经常被中止，有时甚至是无限期的。相反，我们优越的采矿设施使我们能够在一天内提取出更多的矿物，而不是一个月都采不到说明东西的可怜机器。作为他们的领主，我们可以考虑捐出一大笔矿产来帮助他们振兴原始经济。"
+ ascended_empires_gifts.8.a:0 "送他们矿物."
+ ascended_empires_gifts.8.b:0 "这听起来像是他们的问题，而且颗不关我们的事。"
+ 
+ ascended_empires_gifts.9.name:0 "来自 §H[AscendedEmpireGifter.GetName]§!"
+ ascended_empires_gifts.9.desc:0 "请接受我们的馈赠，你们将继续服务[AscendedEmpireGifter.GetName]。鉴于你们自己采矿业务的原始缺陷，我们相信你们会发现这笔金额是非常慷慨的。"
+ ascended_empires_gifts.9.a:0 "这真是太好了!"
+ 
+ ascended_empires_gifts.11.name:0 "缺乏进展"
+ ascended_empires_gifts.11.desc:0 "一段时间以来，我们一直很关注[NoobEmpire.GetName]的技术进展。他们的低效率技术让人难以忍受，而且以这样的速度，他们永远也不会意识到他们真正的潜力，或者对我们辉煌的帝国有任何用处。为了这一点，我们的科学家们建议让[NoobEmpire.GetName]访问我们的数据库。然而，这种访问应该仅限于更简单的技术，因为[NoobEmpire.GetSpeciesNamePlural]不太可能理解我们更先进的技术。"
+ ascended_empires_gifts.11.a:0 "让他们访问我们的数据库。"
+ ascended_empires_gifts.11.b:0 "不。我们的技术在我们手中更安全。"
+ 
+ ascended_empires_gifts.12.name:0 "来自§H[AscendedEmpireGifter.GetName]§!"
+ ascended_empires_gifts.12.desc:0 "[Root.GetSpeciesName],我们注意到你们技术进步进展实在太慢。由于你们是[AscendedEmpireGifter.GetName]的宝贵对象，我们决定与你们分享我们对宇宙的一些理解。这不是我们为任何物种所做的事情，所以一定要继续对我们有用处——忘恩负义的东西可不是我们想要的。"
+ ascended_empires_gifts.12.a:0 "我们将学到什么秘密??"
+ 
+ 

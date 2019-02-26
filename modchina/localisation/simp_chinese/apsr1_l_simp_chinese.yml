@@ -1,0 +1,163 @@
+﻿l_simp_chinese:
+
+
+ 
+ ### ресурс
+ 
+ apsr1_planet_modifier:0 "星权之征"
+ apsr1_planet_modifier_desc:0 "在这里，我们发现了奇异的外星宫殿的古代遗迹，它以其巨大的规模和艺术作品的准确性超过了所有其他类似的建筑，可以与其他文明最好的艺术作品相媲美。在它的王座大厅里，我们发现了一个巨大而详细的银河系全息图。一旦我们看到这一点，我们就毫不怀疑我们的国家将取得胜利!"
+ 
+ apsr1_deposit:0 "$apsr1_planet_modifier$"
+ apsr1_deposit_desc:0 "$apsr1_planet_modifier_desc$\n\n§M$apsr1_deposit_effect$§!" 
+ apsr1_deposit_effect:0 "独特的资源可用: $apsr1_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr1_building_part1_text:0 "外星遗迹修复 §Y宫殿群§!"
+ 
+ apsr1_building_part2_text:0 "完全修复后的§Y宫殿群§!，采用了新的视觉投影技术，作为对现实的补充"
+ 
+ apsr1_building_part3_text:0 "随着§Y宫殿群§!的全面修复，这里§Y星际力量的象征§!"
+ 
+ apsr1_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr1_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr1_building_part1:0 "星际力量方尖碑"
+ apsr1_building_part1_desc:0 "$apsr1_building_predesc$\n$apsr1_building_part1_text$"
+ 
+ apsr1_building_part2:0 "星际力量纪念碑"
+ apsr1_building_part2_desc:0 "$apsr1_building_predesc$\n$apsr1_building_part2_text$"
+ 
+ apsr1_building_part3:0 "星际力量象征"
+ apsr1_building_part3_desc:0 "$apsr1_building_predesc$\n$apsr1_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr1_building_part1_fake:0 "$apsr1_building_part1$"
+ apsr1_building_part1_fake_desc:0 "$apsr1_building_fake_predesc$\n$apsr1_building_part1_text$"
+ 
+ apsr1_building_part2_fake:0 "$apsr1_building_part2$"
+ apsr1_building_part2_fake_desc:0 "$apsr1_building_fake_predesc$\n$apsr1_building_part2_text$"
+ 
+ apsr1_building_part3_fake:0 "$apsr1_building_part3$"
+ apsr1_building_part3_fake_desc:0 "$apsr1_building_fake_predesc$\n$apsr1_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr1_building_part1:0 "星际力量 I"
+ tech_apsr1_building_part1_desc:0 "我们可以通过修复这些令人惊叹的废墟，使它们成为主要的行星地标，以及在王座大厅建造权力纪念碑，来增加我们对邻国的影响力"
+ 
+ tech_apsr1_building_part2:0 "星际力量 II"
+ tech_apsr1_building_part2_desc:0 "文化进步得越来越快。我们应该使我们的土地现代化，以便跟上这一进程。将增强现实技术与设计技术相结合，让每一次参观都令人难忘!"
+ 
+ tech_apsr1_building_part3:0 "星际力量 III"
+ tech_apsr1_building_part3_desc:0 "对于如何使用这个工件，我们已经有了一些想法。在它的帮助下，我们将增加我们对邻国的影响!"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.1001.title:0 "$apsr1_building_part1$ completed"
+ apsr.1001.desc:0 "我们已经修复了外星人的§Y宫殿群§!，现在我们的公民可以自由访问它。它还吸引了邻国的注意，使我们有机会对它们施加更大的影响。"
+ apsr.1001.ok-button:0 "很好"
+ 
+ apsr.1002.title:0 "$apsr1_building_part2$ completed"
+ apsr.1002.desc:0 "设计技术结合的增强现实技术可以使每个访问§Y星际力量纪念碑§!的人真正难忘，吸引了越来越多的关注，激起了其他帝国的兴趣……"
+ apsr.1002.ok-button:0 "Excellent"
+ 
+ apsr.1003.title:0 "$apsr1_building_part3$ completed"
+ apsr.1003.desc:0 "通过重建§Y$apsr1002$§!，并将其用于我们自己的目的，我们银河影响力得到了显著提升"
+ apsr.1003.ok-button:0 "这是我们的时代!"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.1011.title:0 "发现一个人造物: §M$apsr1_planet_modifier$§!"
+ apsr.1011.desc:0 "科研船§H[Root.GetName]§!§H[Root.GetLeaderName]§!领导的研究小组发现了一些有趣的东西。 \n我们在这个星球上发现了外星宫殿的古代遗迹。在它的王座大厅里，我们发现了一个巨大而详细的银河系全息图。一旦我们看到这一点，我们就毫不怀疑我们的国家将取得胜利!"
+ apsr.1011.button:1 "我们必须得到这个东西!"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.1013.title:0 "发现一个人造物: §M$apsr1_planet_modifier$§!"
+ apsr.1013.desc:0 "我们在这个最近被占领的星球上发现了一些有趣的东西 \n这个地方有一栋用途不明的建筑物。在建筑的中间有一个没有任何可见设备的“漂浮”的预言。科学家认为这个古老的信息是写给我们的。他们认为我们是注定要统治他人的种族。"
+ apsr.1013.button:1 "很好"
+
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.1015.title:0 "发现人造物: §M$apsr1_planet_modifier$§!"
+ apsr.1015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，有一种未知目的的建筑，在它的中心，不使用任何可见的装置，预言就悬在那里。科学家认为，这一古老的信息是针对人类的，人类注定是万物的统治者。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr1_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr1_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr1_resource_planet.Owner.GetName]"
+ apsr.1015.button:1 "有趣!"
+ 
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr1_special:0 "$apsr1_planet_modifier$"
+ apsr1_special_desc:0 "$apsr1_planet_modifier_desc$"
+ 
+ APSR1_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR1_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr1_planet_modifier$§!的特殊资源的信息，它位于§Y$COUNTRY$§!控制下的§Y$PLANET$§!行星上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr1_anomaly:0 "有趣的数据"
+ apsr1_anomaly_desc:0 "在对[From.GetName]行星表面的研究中，我们得到了肯定需要进一步研究的数据。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.1601.title:0 "$apsr.1011.title$"
+ apsr.1601.desc:0 "$apsr.1011.desc$"
+ 
+ 
+ 
+ ### новые должности
+  
+ apsr1_planet_custodian_normal:0 "占星家"
+ job_apsr1_custodian_normal:0 "占星家"
+ job_apsr1_custodian_normal_plural:0 "占星家"
+ job_apsr1_custodian_normal_desc:0 "星象学跟踪和分析发生在银河地图上的变化。谁拥有信息，谁就拥有整个世界"
+ mod_job_apsr1_custodian_normal_add:0 "占星家"
+ 
+ apsr1_planet_custodian_hive:0 "占星工蜂"
+ job_apsr1_custodian_hive:0 "占星工蜂"
+ job_apsr1_custodian_hive_plural:0 "占星工蜂"
+ job_apsr1_custodian_hive_desc:0 "天文学工蜂专门分析和预测银河地图上的变化的影响"
+ mod_job_apsr1_custodian_hive_add:0 "占星工蜂"
+ 
+ apsr1_planet_custodian_machine:0 "占星单元"
+ job_apsr1_custodian_machine:0 "占星单元"
+ job_apsr1_custodian_machine_plural:0 "占星单元"
+ job_apsr1_custodian_machine_desc:0 "天文学单位专门分析和预测银河地图上的变化的影响"
+ mod_job_apsr1_custodian_machine_add:0 "占星单元"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

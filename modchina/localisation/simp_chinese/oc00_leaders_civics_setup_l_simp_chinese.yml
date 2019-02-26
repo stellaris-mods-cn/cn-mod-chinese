@@ -1,0 +1,243 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Origins Civics - Leaders
+ ####################################
+ 
+ #Regular Empire
+ civic_cbshing_eternal_leader:0 "灵能不朽"
+ civic_cbshing_eternal_leader_desc:0 "这个社会长期以来都是由一个不朽的灵能统治者领导的."
+ civic_tooltip_oc_eternal_leader_effects:1 "游戏开始时，你的统治者拥有特质§Y$leader_trait_oc_eternal_leader$§!, 因此是不朽的, 拥有独特的灵能力量.\n$MOD_COUNTRY_ADMIN_CAP_ADD$: §G+20§!"
+ 
+ civic_oc_digitally_eternal:0 "机械永恒"
+ civic_oc_digitally_eternal_desc:0 "这个社会由一位很久以前将他意识上传到终端的统治者领导."
+ civic_tooltip_oc_digitally_eternal_effects:1 "游戏开始时，你的统治者拥有特质§Y$leader_trait_oc_digitally_eternal$§!, 因此是机械不朽的,拥有独特的优化能力.\n$MOD_COUNTRY_ADMIN_CAP_ADD$: §G+20§!"
+
+ civic_oc_clinically_eternal:0 "基因长生"
+ civic_oc_clinically_eternal_desc:0 "这个社会长期以来由一个临床的统治阶级领导，他们的生命通过滥用昂贵的药物和持续的医疗程序被人为延长."
+ civic_tooltip_oc_clinically_eternal_effects:1 "游戏开始时，你的领袖拥有特质§Y$leader_trait_oc_clinically_eternal$§!, 可以让他们再活500年.\n$MOD_COUNTRY_ADMIN_CAP_ADD$: §G+20§!"
+ 
+ #Corporate Empire (Unused)
+ civic_oc_corp_eternal_leader:0 "不朽首席执行官"
+ civic_oc_corp_eternal_leader_desc:0 "这个社会长期以来由一位不朽首席执行官领导."
+ 
+ civic_oc_corp_digitally_eternal:0 "机械首席执行官"
+ civic_oc_corp_digitally_eternal_desc:0 "这个社会长期以来由一位机械首席执行官领导，他很久以前就将意识上传到了终端." 
+ 
+ ####################################
+ # Origins Traits
+ ####################################
+ leader_trait_oc_eternal_leader:0 "永恒"
+ leader_trait_oc_eternal_leader_desc:0 "这位统治者是一位永恒不朽之人，拥有难以置信的强大灵能."
+ leader_trait_oc_eternal_leader_weakened:0 "永恒（年轻）"
+ leader_trait_oc_eternal_leader_weakened_desc:0 "这位领袖是不朽的，但他的灵能还不够强大. 经过数十年的训练，他将释放他的真正潜力."
+ leader_trait_oc_digitally_eternal:0 "上传者"
+ leader_trait_oc_digitally_eternal_desc:0 "这位领袖的意识很久以前就已经上传到了帝国的中央计算机."
+ leader_trait_oc_clinically_eternal:0 "临床延寿"
+ leader_trait_oc_clinically_eternal_desc:0 "这位领袖计划打算永远的活着，当然能有五百年也不错."
+  
+ ####################################
+ # Origins Resource Category
+ ####################################
+ boons:0 "恩赐"
+ 
+ ####################################
+ # Origins Edicts
+ ####################################
+ edict_oc_eternal_blessing_workers:0 "永恒祝福:神圣灵气"
+ edict_oc_eternal_blessing_workers_desc:0 "永恒使用他天生的灵能光环赋予我们灵气."
+ edict_oc_eternal_blessing_sensor:0 "永恒祝福:千里眼"
+ edict_oc_eternal_blessing_sensor_desc:0 "永恒使用他天生的千里眼能力来帮助我们的船只看透太空深处."
+ edict_oc_eternal_blessing_research:0 "永恒祝福:天才指导"
+ edict_oc_eternal_blessing_research_desc:0 "永恒使用他的聪明才智来指导我们的科学家进行技术突破."
+ edict_oc_eternal_blessing_unity:0 "永恒祝福:情感操纵"
+ edict_oc_eternal_blessing_unity_desc:0 "永恒使用他的灵能来影响公民对政府的情感."
+ edict_oc_eternal_blessing_force:0 "永恒祝福:力场操控"
+ edict_oc_eternal_blessing_force_desc:0 "永恒使用他的灵能操控能量场，保护我们的飞船，提高我们的能量生产."
+ edict_oc_eternal_blessing_repair:0 "永恒祝福:船体操纵"
+ edict_oc_eternal_blessing_repair_desc:0 "永恒使用他的灵能操纵船体，让我们的飞船能更快的进行修复."
+ edict_oc_eternal_blessing_matter:0 "永恒祝福:物质操纵"
+ edict_oc_eternal_blessing_matter_desc:0 "永恒使用他的灵能操控物质，在空气中创造出矿物质和合金."
+ edict_oc_eternal_blessing_speed:0 "永恒祝福:虚空操纵"
+ edict_oc_eternal_blessing_speed_desc:0 "永恒使用他的灵能来影响虚空，让我们的飞船能够更快地航行."
+ edict_oc_eternal_blessing_growth:0 "永恒祝福:气象操纵"
+ edict_oc_eternal_blessing_growth_desc:0 "永恒使用他的灵能操控整个帝国行星上的天气，提高作物产量和生活环境."
+
+ edict_oc_eternal_optimization_research:0 "优化恩赐:研究实验室"
+ edict_oc_eternal_optimization_research_desc:0 "这位领袖利用其计算能力加快研究速度."
+ edict_oc_eternal_optimization_civindustry:0 "优化恩赐:民用工业"
+ edict_oc_eternal_optimization_civindustry_desc:0 "这位领袖利用其计算能力提高民用工业的生产效率."
+ edict_oc_eternal_optimization_milindustry:0 "优化恩赐:军用工业"
+ edict_oc_eternal_optimization_milindustry_desc:0 "这位领袖利用其计算能力提高军用工业的生产效率."
+ edict_oc_eternal_optimization_sensor:0 "优化恩赐:预测性勘探"
+ edict_oc_eternal_optimization_sensor_desc:0 "这位领袖利用其计算能力分析外星信号，预测外星飞船可能存在的位置."
+ edict_oc_eternal_optimization_unity:0 "优化恩赐: 信息操纵"
+ edict_oc_eternal_optimization_unity_desc:0 "这位领袖利用他们的计算能力来操纵我们帝国的信息，改善公民对政府的看法."
+ edict_oc_eternal_optimization_force:0 "优化恩赐: 市场操纵"
+ edict_oc_eternal_optimization_force_desc:0 "这位领袖利用其计算能力来操纵市场，提高贸易产值，提高能源生产."
+ edict_oc_eternal_optimization_repair:0 "优化恩赐: 高级舰船建模"
+ edict_oc_eternal_optimization_repair_desc:0 "这位领袖利用其计算能力改进舰船设计和建模，加速舰船建造速度."
+ edict_oc_eternal_optimization_matter:0 "优化恩赐: 高级架构"
+ edict_oc_eternal_optimization_matter_desc:0 "这位领袖利用其计算能力改进建筑设计和建模，加速建筑建造速度."
+ edict_oc_eternal_optimization_speed:0 "优化恩赐: 高级FTL"
+ edict_oc_eternal_optimization_speed_desc:0 "这位领袖利用其计算能力绘制虚空路径，提高舰船航行速度."
+ edict_oc_eternal_optimization_growth:0 "优化恩赐: 高级气象模拟"
+ edict_oc_eternal_optimization_growth_desc:0 "这位领袖利用其计算能力模拟行星天气模式，提高作物产量和生活环境."
+
+ ####################################
+ # Origins Modifiers
+ ####################################
+ oc_eternal_blessing_passive_small:0 "小祝福"
+ oc_eternal_blessing_passive_small_desc:0 "永恒的存在对我们的帝国而言仅仅是一个小小的祝福. 我们的许多公民向永恒祈祷以求拯救."
+ oc_eternal_blessing_passive_medium:0 "心灵链接"
+ oc_eternal_blessing_passive_medium_desc:0 "在唤醒了我们物种的潜在灵能之后，帝国的许多公民在感受永恒的光环时感到幸福."
+ oc_eternal_blessing_passive_large:0 "灵能祝福"
+ oc_eternal_blessing_passive_large_desc:0 "唤醒了我们物种的灵能，我们的帝国从中获益，这种能力可以传达到我们无所不知的永恒中."
+ oc_eternal_exhausted:0 "永恒疲惫"
+ oc_eternal_exhausted_desc:0 "我们的永恒领袖在试图向我们的帝国授予灵能恩惠时，疲惫不堪，现在必须休息."
+ oc_eternal_mourning:0 "永恒哀悼"
+ oc_eternal_mourning_desc:0 "我们的国家哀悼我们永恒领袖的死亡."
+
+ oc_eternal_boost_passive_small:0 "小提升"
+ oc_eternal_boost_passive_small_desc:0 "上传者的存在给我们帝国的科学家带来了一点小小的推动。 许多研究人员受益于上传者快速可靠的计算。"
+ oc_eternal_boost_passive_medium:0 "控制论链接"
+ oc_eternal_boost_passive_medium_desc:0 "通过先进的控制论将我们的物种成员联系起来，我们的许多公民都可以从上传者的计算中受益."
+ oc_eternal_boost_passive_large:0 "合成上行链路"
+ oc_eternal_boost_passive_large_desc:0 "将我们的物种上传到机械存在之后，我们的帝国能够同时与我们无所不知的领导者联系."
+ oc_eternal_boost_science:0 "研究优先"
+ oc_eternal_boost_science_desc:0 "我们的工程师调整了上传者的人格，因此它将专注于促进帝国的研究能力."
+ oc_eternal_boost_military:0 "军事优先"
+ oc_eternal_boost_military_desc:0 "我们的工程师调整了上传者的人格，因此它将专注于提升帝国的军事能力."
+ oc_eternal_boost_specialist:0 "专家优先"
+ oc_eternal_boost_specialist_desc:0 "我们的工程师调整了上传者的人格，因此它将专注于提升帝国的专家产出."
+ 
+ oc_eternal_error:0 "上传者故障"
+ oc_eternal_error_desc:0 "上传者在尝试最新的优化计算时出现故障，并且当前正在运行诊断程序以确定根本原因." 
+ oc_eternal_crash:0 "上传者离线"
+ oc_eternal_crash_desc:0 "上传者的致命故障对我们国家而言是一个很大的挫折."
+ 
+ ####################################
+ # Origins Tooltips
+ ####################################
+ eternal_leader_exhausted:0 "永恒感到 §R疲惫§"
+ digitally_eternal_error:0 "上传者出现 §R故障§"
+ 
+ ####################################
+ # Origins Start Messages
+ ####################################
+ START_SCREEN_PART_TWO_ETERNAL_LEADER:0 "在我们历史早期的混乱时代，许多国家争权逐利, 直到永恒 [GetRulerTitle] [GetRulerName] 的出现. 只有在强大统一的领导下，我们才能充分发挥自己的潜力，迎来和平稳定和科学进步的发展时期也就是顺其自然的事了."
+ START_SCREEN_PART_TWO_ETERNAL_LEADER_CORP:0 "在我们历史早期的混乱时代，许多企业和国家争权逐利.直到永恒 [GetRulerTitle] [GetRulerName] 的出现.只有在强大统一的领导下，我们才能充分发挥自己的潜力，迎来商业繁荣和科学进步的发展时期也就是顺其自然的事了."
+ START_SCREEN_PART_TWO_DIGITALLY_ETERNAL:0 "在我们历史早期的混乱时代，许多国家争权逐利, 直到 [GetRulerTitle] [GetRulerName] 的出现. [ruler.GetHerHis] 将他的意识上传到终端, 并用他的计算能力来优化我们的社会, 我们才能充分发挥自己的潜力，迎来和平稳定和科学进步的发展时期也就是顺其自然的事了."
+ START_SCREEN_PART_TWO_DIGITALLY_ETERNAL_CORP:0 "在我们历史早期的混乱时代，许多企业和国家争权逐利.直到 [GetRulerTitle]   [GetRulerName] 的出现. [ruler.GetHerHis] 将他的意识上传并用他的计算能力来优化我们的社会, 我们才能充分发挥自己的潜力，迎来商业繁荣和科学进步的发展时期也就是顺其自然的事了."
+ START_SCREEN_PART_TWO_CLINICALLY_ETERNAL:0 "在我们历史早期的混乱时代，许多国家争权逐利,直到长寿公式被发现,通过基因技术长生的统治阶级统一了我们的社会,我们才能充分发挥自己的潜力，迎来商业繁荣和科学进步的发展时期也就是顺其自然的事了."
+
+ ####################################
+ # Origins Buildings
+ ####################################
+ building_oc_eternal_mausoleum:0 "永恒的陵墓"
+ building_oc_eternal_mausoleum_desc:0 "一座巨大的建筑位于首都的中心，蕴含着我们陨落的永恒领袖所代表的永恒和所有原则."
+ 
+ ####################################
+ # Origins Special Projects & Event Chains
+ ####################################
+ OC_DE_UPLOAD_LEADER_PROJECT:0 "上传领导者"
+ OC_DE_UPLOAD_LEADER_PROJECT_DESC:0 "为了让 [root.GetName] 的秩序恢复稳定, 我们开始上传 [root.GetRulerName] 的意识. [ruler.GetHerHis]的思想将被永远的保存，作为 [root.GetName] 的核心."
+
+ ####################################
+ # Origins Events
+ ####################################
+ SHALL_BE_DONE:0 "理应如此!"
+ 
+ origins_civics_leader_quest_events.110.name:0 "上传新核心"
+ origins_civics_leader_quest_events.110.desc:0 "上传者的离线导致的无核心状态不断挑战着我们的国家. 没有由 [root.GetSpeciesName] 计算机接口提供的连续支持,  [root.GetName] 的科学和经济进步已经停滞不前.\n\n现在, 通过选择好的新统治者，我们可以恢复上传者离线时丢失的内容. 通过覆盖上传者与所选领导者的认知模式，我们将能够恢复系统的正常运作. [root.GetRulerTitle] [root.GetRulerName] 的意识将成为我们帝国新的核心."
+ origins_civics_leader_quest_events.111.name:0 " [ruler.GetName] 已上传"
+ origins_civics_leader_quest_events.111.desc:0 "当神经接口设备从 [ruler.GetHerHis] 没有生命的身体断开时，核心终端被重新启动， [root.GetRulerTitle] [ruler.GetName] 完全集成到我们的系统中.\n\n [ruler.GetName] 的独特意识已经在我们的帝国上留下了印记，我们的帝国重新恢复稳定. 由 [root.GetRulerTitle] [ruler.GetName] 进行的民意调查表明， [ruler.GetSheHe] 接管核心时公民满意度有所提高."
+ origins_civics_leader_quest_events.112.name:0 "一个新的上传者?"
+ origins_civics_leader_quest_events.112.desc:0 "在存档核心终端时，我们的一位学徒技术人员发现了一个位于隐藏子目录中的标记文件. 打开此文件时，她发现这是由 [firsteternalleader.GetName] 创建的原始神经接口设备的蓝图设计，该设备允许 [firsteternalleader.GetHerHim] 将 [firsteternalleader.GetHerHis] 意识上传到核心终端。 通过这一发现，我们的工程师认为他们可以重新创建神经接口，让我们上传新的意识来领导我们.\n\n [root.GetRulerTitle]  [root.GetRulerName] 志愿成为上传者永久领导我们的国家."
+ origins_civics_leader_quest_events.113.name:0 "上传：进度报告"
+ origins_civics_leader_quest_events.113.desc:0 "随着 [root.GetRulerName] 的意识上传到核心终端, 我们的工程师可以调整[ruler.GetHerHis]的人格优先级. 以更好地满足我们帝国的需求. 问题是，我们应该给上传者强调哪些优先事项？"
+ origins_civics_leader_quest_events.113.desc.first:0 "随着 [root.GetRulerName] 的意识上传到核心终端, 我们首席工程师的脑子里闪过一个念头。 他认为，他能够调整 [ruler.GetHerHis] 的人格优先级. 以更好地满足我们帝国的需求。 问题是，我们应该给上传者强调哪些优先事项？"
+ origins_civics_leaders_quest_events.113.a:0 "强调研究"
+ origins_civics_leaders_quest_events.113.a.tip:0 "我们将尝试调整上传者的优先事项，专注于提升研究能力."
+ origins_civics_leaders_quest_events.113.b:0 "强调军事"
+ origins_civics_leaders_quest_events.113.b.tip:0 "我们将尝试调整上传者的优先事项，专注于提升军事能力."
+ origins_civics_leaders_quest_events.113.c:0 "强调专家"
+ origins_civics_leaders_quest_events.113.c.tip:0 "我们将尝试调整上传者的优先事项，专注于提升专家能力."
+ origins_civics_leaders_quest_events.113.d:0 "这是不道德的."
+ origins_civics_leaders_quest_events.113.d.tip:0 "这个以及每个未来上传者的人格将永远不会被修改.\n\n§Y失去修改任何潜在未来统治者的能力.§"
+ #不负责的机翻汉化#
+ origins_civics_on_action_leader_events.102.name:0 "永恒的疲惫"
+ origins_civics_on_action_leader_events.102.a:0 "我们的永恒 [root.GetRulerTitle] [root.GetRulerName] ，在尝试进行最新的祝福仪式，使我们的帝国受益时耗尽了 [ruler.GetHerHis] 的灵能力量。 [ruler.GetSheHe] 宣布 [ruler.GetSheHe] 现在回到 [ruler.GetHerHis] 的房间休息."
+ origins_civics_on_action_leader_events.102.a.tooltip:0 "§R我们的永恒领袖将无法在一段时间内授予 [ruler.GetHerHis] 灵能祝福.§"
+ origins_civics_on_action_leader_events.103.name:0 "上传者的故障"
+ origins_civics_on_action_leader_events.103.a:0 "我们上传者 [root.GetRulerTitle] [root.GetRulerName] 在尝试进行最新的优化计算，以造福我们的帝国时发生错误.   [ruler.GetSheHe] 声明 [ruler.GetSheHe] 现在应清除 [ruler.GetHerHis] 缓冲区并运行多个诊断程序以确定根本原因."
+ origins_civics_on_action_leader_events.103.a.tooltip:0 "§R我们上传者一段时间内将无法运行 [ruler.GetHerHis] 的优化程序.§"
+ origins_civics_on_action_leader_events.104.name:0 "永恒的逝去"
+ origins_civics_on_action_leader_events.104.a:0 "永恒的 [root.GetRulerTitle] 坐在无限大厅的永恒王座上。 [root.GetRulerTitle] 在 [root.GetHomeWorldName] 统治了 [from.GetName] 无数代人. [root.GetRulerTitle] [from.GetName] 是黑暗时代我们公民的指路明灯，现在......如果没有 [from.GetHerHis] 的指导，我们必须靠自己打造未来。 许多公民因担心不确定性而低声说话。 更多的人要求劝说我们的伟大领袖，以便即使在死亡中 [root.GetRulerTitle] 也可以继续统治 [root.GetName] ."
+ origins_civics_on_action_leader_events.104.b:0 "永恒的 [root.GetRulerTitle] 坐落在无限大厅的永恒宝座上。 我们的公民再次哀悼失去我们的指路明灯。 我们祈祷大祭司将神圣的永恒转世，以便我们很快得到永恒的指导."
+ origins_civics_on_action_leader_events.104.c:0 "倒在永恒的王座上，在无穷大的大厅里，躺着我们永恒的 [root.GetRulerTitle] 流血的身体，被选中的人杀死。无数代人以来, [root.GetRulerTitle] [from.GetName] 统治着 [root.GetHomeWorldName] .  [root.GetRulerTitle] [from.GetName] 是黑暗时代我们公民的指路明灯，现在......我们看到虚境的选择者将带领我们迈向更光明的未来."
+ origins_civics_on_action_leader_events.104.d:0 "我们的永恒 [root.GetRulerTitle] [from.GetName] 已经死了！ 在 [from.GetHerHis] 卧室被外星人杀死。 这种令人发指的行为深深地困扰和激怒了我们的公民。无数代 [root.GetRulerTitle] [from.GetName] 统治了 [root.GetHomeWorldName] . [root.GetRulerTitle] [from.GetName] 是黑暗时代我们公民的指路明灯，现在......如果没有 [from.GetHerHis] 的领导，我们就不得不靠自己打造未来。 我们的许多公民亵渎地说 [root.GetRulerTitle] [from.GetName] 愚蠢。."
+ origins_civics_on_action_leader_events.104.e:0 "我们永恒的 [root.GetRulerTitle] [from.GetName] 已经死了！在 [from.GetHerHis] 卧室被外星人杀死。这一令人发指的行为深深地激怒了我们的公民。我们的公民再次哀悼失去我们的指路明灯。我们祈祷大祭司将我们永恒的轮回神圣化，以便我们能很快接受永恒的指引。."
+ origins_civics_on_action_leader_events.104.f:0 "倒在永恒的王座上，在无限的殿堂里，我们流血的永恒 [root.GetRulerTitle] ,  [from.HerHis] 尸体被 [from.HerHis] 在保卫我们帝国的英勇努力中，身上布满了伤口。 无数代 [root.GetRulerTitle] [from.GetName] 统治了 [root.GetHomeWorldName] . [root.GetRulerTitle] [from.GetName] 是黑暗时代我们公民的指路明灯，现在......如果没有  [from.GetHerHis] 的指导，我们必须靠自己打造未来。 许多公民因担心不确定性而低声说话。 更多的人要求劝说我们的伟大领袖，以便即使在死亡中 [root.GetRulerTitle] 也可以继续统治 [root.GetName] ."
+ origins_civics_on_action_leader_events.104.g:0 "在无限大厅的永恒宝座上坍塌，让我们流血的永恒 [root.GetRulerTitle] , [from.HerHis] 尸体被 [from.HerHis] 勇敢的捍卫我们的帝国的伤口所覆盖。 我们的公民再次哀悼失去我们的指路明灯。 我们祈祷大祭司将神圣的永恒转世，以便我们很快得到永恒的指导。"
+ origins_civics_on_action_leader_events.105.name:0 "上传者离线"
+ origins_civics_on_action_leader_events.105.a:0 "在闪烁的灯光和咆哮的汽车喇叭中，技术人员惊恐地看着 [root.GetRulerTitle] [from.GetName] 的全息图变暗。 一个接一个地，组成我们的上传者领袖的服务器关闭，直到最后核心终端，原始神经接口，眨眼.\n\n我们的科学家努力恢复和重启 [root.GetRulerTitle] [from.GetName] 被证明毫无结果，只有零碎的 [from.GetName] 的人格偶尔会重新出现。 如果没有 [from.GetName] 如何将 [from.GetSheHe] 自我上传到核心终端的原始信息，我们的国家可能永远不会像以前那样完美。"
+ origins_civics_on_action_leader_events.105.b:0 "在闪光灯和喇叭声中，技术人员将 [root.GetRulerTitle] [from.GetName] 的全息图视为昏暗的。 一个接一个地，组成我们的上传者领导者的服务器银行关闭，直到最后核心终端，原始神经接口，眨眼。.\n\n我们的科学家努力恢复和重启 [root.GetRulerTitle] [from.GetName] 被证明毫无结果，只有零碎的 [from.GetName] 的人格偶尔会重新出现。 虽然我们的国家可能永远不会像以前那样完美，但我们的技术已经发展到可以取代 [from.GetName] 的程度。"
+ origins_civics_on_action_leader_events.105.c:0 "伴随着刺耳的警报声和闪烁的警示灯， [from.GetName] [root.GetRulerTitle] 的全息图逐渐消失。 我们的技术人员束手无措地看着核心终端通过试图保护神经接口免受崩溃而将组成上传者领袖意识的服务器关闭.\n\n我们的科学家为恢复和重新启动承载着 [from.GetName] [root.GetRulerTitle] 意识服务器的行为已被证明毫无作用，只有零碎的 [from.GetName] 人格偶尔会重新出现。 我们的科学家需要一些时间来上传新的人格并将其与核心终端联系起来。"
+  
+ ####################################
+ # Origins Modifiers - Old
+ ####################################
+ oc_eternal_leader_default_boon:0 "永恒祝福：休眠"
+ oc_eternal_leader_default_boon_desc:0 "永恒现在没有使用他强大的灵能，能够专注于影响政府的许多部门."
+ oc_digitally_eternal_default_boon:0 "优化恩赐：待命"
+ oc_digitally_eternal_default_boon_desc:0 "上传者没有利用其强大的计算能力，能够专注于优化国家研究."
+ # Eternal Leader Boons
+ oc_eternal_boon_cooldown_effect:0 "永恒祝福：疲惫"
+ oc_eternal_boon_cooldown_effect_desc:0 "我们的永恒领袖已经耗尽了他所有的灵能，这需要时间来恢复."
+ oc_eternal_boon_stability:0 "永恒祝福：稳定"
+ oc_eternal_boon_stability_desc:0 "我们的永恒领袖专注于帝国的稳定，聚集政客，以及鼓励对永恒的信仰."
+ oc_eternal_boon_exploration:0 "永恒祝福：探索"
+ oc_eternal_boon_exploration_desc:0 "我们的永恒领袖正专注于探索银河系，激励我们的科学家寻求对自然法则的新认识."
+ oc_eternal_boon_military:0 "永恒祝福：命令"
+ oc_eternal_boon_military_desc:0 "我们的永恒领袖正专注于我们的军事指挥，激励我们的部队并指导我们度过黑暗."
+ oc_eternal_boon_development:0 "永恒祝福：发展"
+ oc_eternal_boon_development_desc:0 "我们的永恒领袖致力于发展经济，鼓励贸易增长和建筑建设."
+ # Digitally Eternal Optimizations
+ oc_eternal_optimization_stability:0 "优化恩赐：稳定"
+ oc_eternal_optimization_stability_desc:0 "上传者正在优化我们的官僚机构，纠正错误，以改善警务，政府稳定性和资源使用."
+ oc_eternal_optimization_stability_neg:0 "优化错误：稳定"
+ oc_eternal_optimization_stability_neg_desc:0 "上传者已经出现故障，导致我们的官僚机构出现错误，这让我们的民众感到困惑."
+ oc_eternal_optimization_exploration:0 "优化恩赐：探索"
+ oc_eternal_optimization_exploration_desc:0 "上传者正在优化我们的科学部门，通过汇集的计算机服务为我们提供独特的见解."
+ oc_eternal_optimization_exploration_neg:0 "优化错误：探索"
+ oc_eternal_optimization_exploration_neg_desc:0 "上传者已经出现故障，导致我们的科学界产生混乱并放慢研究进度。"
+ oc_eternal_optimization_military:0 "优化恩赐：命令"
+ oc_eternal_optimization_military_desc:0 "上传者正在优化我们的军事指挥，提高我军的整体准确性和射击率."
+ oc_eternal_optimization_military_neg:0 "优化错误：命令"
+ oc_eternal_optimization_military_neg_desc:0 "上传者已经出现故障，导致我们的军事分支机构发生混乱，减缓了指挥工作效率。"
+ oc_eternal_optimization_development:0 "优化恩赐：发展"
+ oc_eternal_optimization_development_desc:0 "上传者正在优化行星发展，降低建筑成本并提高公民的生产力."
+ oc_eternal_optimization_development_neg:0 "优化错误：发展"
+ oc_eternal_optimization_development_neg_desc:0 "上传者已经出现故障，使我们的行星发展减缓，公民陷入混乱."
+ 
+ ####################################
+ # Origins Edicts - Old
+ ####################################
+ edict_oc_edict_boon_eternal_stability:0 "$oc_eternal_boon_stability$"
+ edict_oc_edict_boon_eternal_stability_desc:0 "我们的永恒领袖将把他灵能能量集中在稳定和团结我们的帝国上.\n\n§Y祝福长度不是由法令长度决定的§!"
+ edict_oc_edict_boon_eternal_exploration:0 "$oc_eternal_boon_exploration$"
+ edict_oc_edict_boon_eternal_exploration_desc:0 "我们的永恒领袖将把他的灵能能量集中在对科学和银河系的理解上.\n\n§Y祝福长度不是由法令长度决定的§!"
+ edict_oc_edict_boon_eternal_military:0 "$oc_eternal_boon_military$"
+ edict_oc_edict_boon_eternal_military_desc:0 "我们的永恒领袖将把他的灵能能量集中在军事指挥能力上.\n\n§Y祝福长度不是由法令长度决定的§!"
+ edict_oc_edict_boon_eternal_development:0 "$oc_eternal_boon_development$"
+ edict_oc_edict_boon_eternal_development_desc:0 "我们的永恒领袖将把他的灵能能量集中在鼓舞人心和促进行星发展和生产上.\n\n§Y祝福长度不是由法令长度决定的§!"
+ 
+ edict_oc_edict_optimization_eternal_stability:0 "$oc_eternal_optimization_stability$"
+ edict_oc_edict_optimization_eternal_stability_desc:0 "上传者将专注于优化官僚机构，增加我们帝国的稳定性.\n\n§Y恩赐长度不是由法令长度决定的§!"
+ edict_oc_edict_optimization_eternal_exploration:0 "$oc_eternal_optimization_exploration$"
+ edict_oc_edict_optimization_eternal_exploration_desc:0 "上传者将专注于优化科学部门，协助科学界了解我们的星系.\n\n§Y恩赐长度不是由法令长度决定的§!"
+ edict_oc_edict_optimization_eternal_military:0 "$oc_eternal_optimization_military$"
+ edict_oc_edict_optimization_eternal_military_desc:0 "上传者将专注于优化军事指挥，提高我军的整体命中准确性和火力.\n\n§Y恩赐长度不是由法令长度决定的§!"
+ edict_oc_edict_optimization_eternal_development:0 "$oc_eternal_optimization_development$"
+ edict_oc_edict_optimization_eternal_development_desc:0 "上传者将专注于优化行星发展，鼓励建设和增加产量.\n\n§Y恩赐长度不是由法令长度决定的§!"

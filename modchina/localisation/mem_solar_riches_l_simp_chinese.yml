@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+
+ ###################
+ # Solar Riches
+ ###################
+ 
+ mem_solar_riches_category:0 "太阳能财富"
+ mem_solar_riches_category_desc:0 "对这颗恒星的扫描表明附近可能存在一系列的小结构。我们发现的估计是一个缓慢衰减的轨道。"
+ 
+ mem_solar_riches.1.name:0 "太阳能财富发现"
+ mem_solar_riches.1.desc:0 "科学官§Y[Root.GetLeaderName]§!发现了一些由一种未知的外星种族建造的破旧的太阳能收集器。即使是在糟糕的情况下，他们仍然会继续收集太阳能，比我们自己管理的效率更高。"
+ mem_solar_riches.1.a:0 "提取能量储备和将其报废。"
+ mem_solar_riches.1.b:0 "研究其基础结构。"
+ 
+ mem_solar_riches.2.name:0 "失败轨迹"
+ mem_solar_riches.2.desc:0 "§Y[Root.GetLeaderName]§!有报道称，所有这些结构的痕迹都消失了，并为计算不存在的物体的轨道衰变所花费的资源道歉。"
+ 

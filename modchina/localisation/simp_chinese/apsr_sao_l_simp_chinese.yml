@@ -1,0 +1,261 @@
+﻿l_simp_chinese:
+
+######################
+### SAO FAN EVENTS ###
+######################
+
+
+
+ ### STORY
+ 
+ #launcher
+ apsr_sao.2.title:0 "«Aincrad» 项目"
+ apsr_sao.2.desc:0 "$RULER$,在我们最近屏蔽了行星§H[From.GetName]§!之后，首席科学家[event_target:apsr_sao_societyleader.GetName]提出了一个空前规模的实验，它将覆盖整个行星。\n根据项目摘要，我们需要开发先进的增强现实技术，通过该技术，星球上的所有居民将被迫生活在一个半模拟的世界中。游戏世界中的死亡也意味着现实世界中的死亡。\n除了生存的意志，玩家还会被我们的承诺所激励，在游戏的最后一关结束时，移除他们的星球与银河系其他地方的屏障，并给予世界居民完全的自由。至少对那些幸存下来的人来说是这样。"
+ apsr_sao.2.button_1:0 "准备«Aincrad»项目的启动"
+ apsr_sao.2.button_1.tooltip:0 "开启§M«Aincrad» 项目§!事件链。"
+ apsr_sao.2.button_2:0 "不，这是愚蠢的想法"
+ apsr_sao.2.button_2.tooltip:0 "«Aincrad»项目永远不会启动"
+ 
+ #on research all 5 techs
+ apsr_sao.3.title:0 "$apsr_sao.2.title$"
+ apsr_sao.3.desc:0 "$RULER$，我们已经成功地完成了启动«Aincrad»项目的准备工作。下次当我们的巨像保护一个有人居住的星球时，这个项目就会被激活。所有的居民都将卷入一场残酷而危险的游戏，他们的生命和未来都将受到威胁。"
+ apsr_sao.3.button_1:0 "以科学的名义，严厉但必要"
+ apsr_sao.3.button_1.tooltip:0 "«Aincrad»项目将在下一次行星屏蔽时启动"
+ apsr_sao.3.button_2:0 "这将惹恼许多人，但该项目仍将启动"
+ apsr_sao.3.button_2.tooltip:0 "$apsr_sao.3.button_1.tooltip$\n§R我们的公民将感到不快§!"
+ apsr_sao.3.button_3:0 "足够了。关闭这个项目"
+ apsr_sao.3.button_3.tooltip:0 "§R我们的科学家不会感激浪费他们的时间§!"
+ 
+ # wrong planet owner
+ apsr_sao.92.title:0 "$apsr_sao.2.title$"
+ apsr_sao.92.desc:0 "即使我们保护了行星§H[From.GetName]§!,«Aincrad»项目也不能启动，因为格式塔意识物种不适合这个实验。\n我们应该找到另一个星球。"
+ apsr_sao.92.button:0 "这是公认的。"
+ apsr_sao.92.button.tooltip:0 "为了启动«Aincrad»项目，我们需要一个没有蜂群思维或格式塔意识居住的行星" 
+ 
+ #second pacifier shot
+ apsr_sao.4.title:0 "$apsr_sao.2.title$"
+ apsr_sao.4.desc:0 "在成功屏蔽了行星§H[From.GetName]§!后，«Aincrad»项目终于生效。将测试对象的意识与我们的先进的人工现实技术联系起来的工作已经开始。再过几天，所有公民都将卷入这场生死攸关的游戏。"
+ apsr_sao.4.button:0 "游戏进行中"
+ apsr_sao.4.button.tooltip:0 "«Aincrad»项目已经启动"
+ 
+ # integration complete
+ apsr_sao.5.title:0 "$apsr_sao.2.title$"
+ apsr_sao.5.desc:0 "$RULER$，我们被告知AR集成工作已经在§H[event_target:apsr_sao_planetname.GetName]§!星球上完成\n一切准备就绪，可以开始实验了。"
+ apsr_sao.5.button:0 "开始"
+ apsr_sao.5.button.tooltip:0 "这是一条漫长的道路" 
+ 
+ # choose show planet story or no
+ apsr_sao.6.title:0 "$apsr_sao.2.title$"
+ apsr_sao.6.desc:0 "$RULER$，«Aincrad»项目对行星§H[event_target:apsr_sao_planetname.GetName]§!完全有效。你可能会发现在游戏发行后玩家对事件的记录很有趣。"
+ apsr_sao.6.button_1:0 "让我知道后续"
+ apsr_sao.6.button_1.tooltip:0 "描述居民所看到的事件"
+ apsr_sao.6.button_2:0 "我不感兴趣，只告诉我关键事件"
+ apsr_sao.6.button_2.tooltip:0 "每1-2年提供一次新的信息"
+ 
+ # planet story - part 1
+ apsr_sao.7.title:0 "事件日志"
+ apsr_sao.7.desc:0 "这是§H[event_target:apsr_sao_planetname.GetName]§!星球上的好天气。落日余辉照亮了这座半毁半毁的城市。大多数人已经接受了自己的命运——与银河系其他部分隔绝。虽然许多人不能这样生活，但其余的人准备继续生活下去。"
+ apsr_sao.7.button:0 "下一个"
+ apsr_sao.7.button.tooltip:0 "行星事件日志§H[event_target:apsr_sao_planetname.GetName]§!" 
+ 
+ # planet story - part 2
+ apsr_sao.8.title:0 "$apsr_sao.7.title$"
+ apsr_sao.8.desc:0 "然而，就在最后一丝§Y[event_target:apsr_sao_planetname.GetStarName]§!光线照亮这座城市的时候，环绕星球的地盾开始闪烁，在地盾上散布着一块六边形的区域，上面刻有难以理解的文字。\n恐慌在这颗现在泛红的星球表面爆发。一些人试图躲藏，一些人祈祷，一些人干脆跪下，等待不可避免的结果。"
+ apsr_sao.8.button:0 "$apsr_sao.7.button$"
+ apsr_sao.8.button.tooltip:0 "$apsr_sao.7.button.tooltip$" 
+ 
+ # planet story - part 3
+ apsr_sao.9.title:0 "$apsr_sao.7.title$"
+ apsr_sao.9.desc:0 "六边形区域开始漏出一种厚厚的红色液体，让人想起某些物种的血液。液体的流动加剧了，但没有一滴落到地上。它们悬在空中，逐渐聚集成一个点。"
+ apsr_sao.9.button:0 "$apsr_sao.7.button$"
+ apsr_sao.9.button.tooltip:0 "$apsr_sao.7.button.tooltip$" 
+ 
+ # planet story - part 4
+ apsr_sao.10.title:0 "$apsr_sao.7.title$"
+ apsr_sao.10.desc:0 "后来，这种液体变成了某种存在的形式，在此之前是看不见的。\n«§H[event_target:apsr_sao_planetname.GetName]§!之人»-这是一个声音-«你肯定注意到你的星球被包围在一个无法穿透的力场中，你不能指望离开。但如果我告诉你，事实上，你的星球周围根本没有任何领域，你看到和感觉到的一切都是一个骗局——一个增强现实模拟的产物，你会怎么说?这都是游戏?然后什么?»”"
+ apsr_sao.10.button:0 "$apsr_sao.7.button$"
+ apsr_sao.10.button.tooltip:0 "$apsr_sao.7.button.tooltip$" 
+ 
+ # planet story - part 5
+ apsr_sao.11.title:0 "$apsr_sao.7.title$"
+ apsr_sao.11.desc:0 "«但是尽管你周围没有什么是真实的，离开这个游戏是不可能的。唯一的出路——到达比赛的终点并击败最终的老板。然后你就会回到现实世界。但最后一点很重要:如果你在游戏中死去，你也会在现实世界中死去。祝你好运!”»\n在这些话之后，被分解成深红的液体流，退回到行星保护层的六边形海中。然后，六边形自己消失了，留下了明亮的星空。"
+ apsr_sao.11.button:0 "$apsr_sao.7.button$"
+ apsr_sao.11.button.tooltip:0 "$apsr_sao.7.button.tooltip$" 
+ 
+ # planet story - part 6
+ apsr_sao.12.title:0 "$apsr_sao.7.title$"
+ apsr_sao.12.desc:0 "在那个不知名的人消失之后，在他出现时已经停止的恐慌又重新燃起，重新燃起了力量。游戏中不幸的居民不仅仅是害怕，他们还被吓坏了。他们现在的生活是一个谎言，这一事实甚至令他们当中最坚忍的人感到震惊。未来等待我们的是未知的。\n\n记录到此结束。"
+ apsr_sao.12.button:0 "相当有趣。"
+ apsr_sao.12.button.tooltip:0 "现在，§H[event_target:apsr_sao_planetname.GetName]§!的命运掌握在人民手中" 
+ 
+ # 1 year from begin
+ apsr_sao.13.title:0 "$apsr_sao.2.title$"
+ apsr_sao.13.desc:0 "自实验开始以来的一年中，星球上的人口已经减少了20%。死亡的原因从与游戏中创造的怪物相遇，到自杀甚至谋杀。\n现在在§H[event_target:apsr_sao_planetname.GetName]§!这个星球上，一切都或多或少地安定下来了，那些不情愿的玩家们开始玩游戏，希望能撑到最后。"
+ apsr_sao.13.button:0 "随时告知我最新的进展情况"
+ 
+ # 2-3 years from begin (5-7)
+ apsr_sao.14.title:0 "$apsr_sao.2.title$"
+ apsr_sao.14.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n游戏的玩家已经清除了总计100的[Root.apsr_sao_level_count]。进步如此之快，付出了代价——死亡人数可能还会进一步攀升"
+ apsr_sao.14.button:0 "让我们看看它们是由什么组成的"
+ 
+ # 3-5 years from begin (8-12)
+ apsr_sao.15.title:0 "$apsr_sao.2.title$"
+ apsr_sao.15.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n[Root.apsr_sao_level_count]已清除。星球上的居民正在联合起来，组织联合行动，以尽量减少风险和损失。目前，他们的组织水平相当薄弱，但这里有一些潜力。\n我们可以预期他们的水平清理速度会加快，伤亡人数会减少。"
+ apsr_sao.15.button:0 "有趣"
+ 
+ # 4-7 years from begin (13-22)
+ apsr_sao.16.title:0 "$apsr_sao.2.title$"
+ apsr_sao.16.desc:0 "居民组织在§H[event_target:apsr_sao_planetname.GetName]§!星球上的努力已经取得成果。就在刚才，他们设法清除了[Root.apsr_sao_level_count]。如果一切都按照这一轨迹继续下去，那么他们似乎很可能在未来几十年内走到游戏的终点。"
+ apsr_sao.16.button:0 "Bravo"
+ 
+ # 5-9 years from begin (18-32)
+ apsr_sao.17.title:0 "$apsr_sao.2.title$"
+ apsr_sao.17.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n玩家在清除游戏中继续取得进展。他们已经通过了[Root.apsr_sao_level_count]等级。但是自从这个实验开始以来，星球上的成年人口已经减少了40%。如果事情继续以这种速度发展，§H[event_target:apsr_sao_planetname.GetName]§!星球上的人们可能会遇到一些严重的问题。."
+ apsr_sao.17.button:0 "继续观察"
+ 
+ # 6-11 years from begin (23-39)
+ apsr_sao.18.title:0 "$apsr_sao.2.title$"
+ apsr_sao.18.desc:0 "$RULER$,坏消息。首席科学家[event_target:apsr_sao_societyleader.GetName]已经决定加入游戏。\n当我们知道这一点时，已经太晚了。他的飞船设法在行星护盾上制造了一个小缺口，并穿透了内部。此外，他乔装打扮，我们找不到他。\n在其他新闻中，星球§H[event_target:apsr_sao_planetname.GetName]§!的人们已经清除了[Root.apsr_sao_level_count]。"
+ apsr_sao.18.button:0 "留意情况"
+ 
+ # 7-13 years from begin (27-45)
+ apsr_sao.19.title:0 "$apsr_sao.2.title$"
+ apsr_sao.19.desc:0 "在§H[event_target:apsr_sao_planetname.GetName]§!星球上，实验还在继续。通过游戏的速度在逐渐下降。这可能与参与人数的减少有关——无论是死亡，还是对死亡的恐惧。此时，[Root.apsr_sao_level_count]已被清除。"
+ apsr_sao.19.button:0 "继续观察"
+ 
+ # 8-15 years from begin (31-51)
+ apsr_sao.20.title:0 "$apsr_sao.2.title$"
+ apsr_sao.20.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n从实验开始到现在已经过去了足够多的时间，即使星球上的成年人口已经减少了一半，下一代已经取代了他们。也许到游戏结束时，新一代将完全取代旧一代。[Root.apsr_sao_level_count]级别已清除。"
+ apsr_sao.20.button:0 "有趣"
+ 
+ # 9-17 years from begin (34-57)
+ apsr_sao.21.title:0 "$apsr_sao.2.title$"
+ apsr_sao.21.desc:0 "$RULER$，更多的§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n通过游戏的速度继续下降。越来越多的年轻人来到这里取代老一辈，但尽管战斗部队不断涌入，组织却越来越糟糕。与此同时，一个新的行会在这个星球上出现了，叫做“血誓骑士”，他们利用自己多年的经验来策划突袭。在他们的帮助下，[Root.apsr_sao_level_count]级别被成功清除。"
+ apsr_sao.21.button:0 "让我们特别关注这个行会"
+ 
+ # 10-19 years from begin (39-64)
+ apsr_sao.22.title:0 "$apsr_sao.2.title$"
+ apsr_sao.22.desc:0 "$RULER$，我们有来自§H[event_target:apsr_sao_planetname.GetName]§!的新闻。\n公会«血誓骑士»在最近的时间里获得了大量的支持，这要归功于它独特的突袭组织方式，这导致了较低的死亡率，以及它的有魅力的指挥官，一个天生的领袖。事件的转变可能会加速游戏的完成，因为他们已经完成了[Root.apsr_sao_level_count]。"
+ apsr_sao.22.button:0 "Collect more information"
+ 
+ # 11-21 years from begin (45-71)
+ apsr_sao.23.title:0 "$apsr_sao.2.title$"
+ apsr_sao.23.desc:0 "$RULER$行星新闻§H[event_target:apsr_sao_planetname.GetName]§!。\n《血盟骑士》继续清除，将伤亡人数降至零。[Root.apsr_sao_level_count]已经清除!我们的科学家表示担心，我们可能没有充分平衡水平的难度。在任何情况下，都不建议在此时更改任何内容，以避免不一致和数据不同步。"
+ apsr_sao.23.button:0 "让我们看看接下来会发生什么"
+ 
+ # 12-23 years from begin (52-81)
+ apsr_sao.24.title:0 "$apsr_sao.2.title$"
+ apsr_sao.24.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n«血誓骑士»已经完全吸收了所有其他团体和联盟，成为地球上唯一一个致力于完成游戏的组织。进步的速度是惊人的-几天前[Root.apsr_sao_level_count]被清除。公会领袖继续亲自领导清理关卡的工作，并以各种可能的方式试图说服人们继续战斗。"
+ apsr_sao.24.button:0 "这项实验接近完成"
+ 
+ # 13-25 years from begin (57-88)
+ apsr_sao.25.title:0 "$apsr_sao.2.title$"
+ apsr_sao.25.desc:0 "$RULER$,还有来自星球§H[event_target:apsr_sao_planetname.GetName]§!的更多新闻。\n通过游戏的进展已经有所下降——[Root.apsr_sao_level_count]刚刚被清除。尽管《血誓骑士》的领袖魅力非凡，但人们已经厌倦了战斗，厌倦了对死亡的恐惧，只想过平静的生活。我们的专家预测公会将不可避免地崩溃。要是比赛能在那个时间到来之前结束就好了。"
+ apsr_sao.25.button:0 "继续观察"
+ 
+ # 14-27 years from begin (62-95)
+ apsr_sao.26.title:0 "$apsr_sao.2.title$"
+ apsr_sao.26.desc:0 "$RULER$,，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n人们正在离开«血誓骑士»。与此同时，年轻一代拒绝冒着生命危险去完成某种神秘的游戏，因为他们不再相信自己是在模拟游戏中。他们相信他们的生活和周围的世界，他们唯一能记得的，就是现实。我们的科学家已经在研究这种现象。\n尽管存在这些问题，«血誓骑士»继续在游戏中前进。他们目前的目标是[Root.apsr_sao_level_count]。"
+ apsr_sao.26.button:0 "奇怪的行为"
+ 
+ # 15-29 years from begin (67-102)
+ apsr_sao.27.title:0 "$apsr_sao.2.title$"
+ apsr_sao.27.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n参与游戏的玩家数量正在迅速下降。《血誓骑士》显然开始失势了。虽然它们的影响仍然相当大，但本组织即将崩溃和清平速度的突然下降是显而易见的。尽管如此，就在几天前，[Root.apsr_sao_level_count]已经被清除。然而，我们不知道公会是否有足够的力量到达终点。"
+ apsr_sao.27.button:0 "末日即将来临"
+ 
+ # 16-31 years from begin (72-109)
+ apsr_sao.28.title:0 "$apsr_sao.2.title$"
+ apsr_sao.28.desc:0 "$RULER$，来自§H[event_target:apsr_sao_planetname.GetName]§!更多的新闻。\n《血誓骑士》继续他们在游戏中的缓慢进程。尽管存在问题，他们还是设法使[Root.apsr_sao_level_count]达到最佳水平。但很明显，公会已经到了极限。我们预计它将在2-3年内崩溃，因为许多熟练的战士已经离开，新招募的年轻战士非常少。"
+ apsr_sao.28.button:0 "他们是每个人获胜的最好机会……"
+ 
+ # 17-33 years from begin (74-113)
+ apsr_sao.29.title:0 "$apsr_sao.2.title$"
+ apsr_sao.29.desc:0 "$RULER$来自§H[event_target:apsr_sao_planetname.GetName]§!的紧急新闻。\n我们找到了我们的科学家，消失了那么多年!更准确地说，他是被§H[event_target:apsr_sao_planetname.GetName]§!星球上的一个居民发现的。事实证明，这位科学家利用他对«Aincrad»项目的知识，能够迅速在游戏中崛起，并成为最具影响力的玩家之一。甚至你，$RULER$，肯定听说过他。他不是别人，正是《《血誓骑士》的首领!这是由于他对游戏的了解，他们能够如此快速的通过关卡而很少损失。不幸的是，在他被确认身份后，星球上的人们确信他是最终的老板并杀死了他，而比赛中没有任何反应使他们打消了继续尝试的念头。似乎[Root.apsr_sao_level_count]最终不会被清除…"
+ apsr_sao.29.button:0 "这真的是结束吗?"
+ 
+ # 18-35 years from begin (76-117)
+ apsr_sao.30.title:0 "$apsr_sao.2.title$"
+ apsr_sao.30.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n《血誓骑士》已经完全崩溃了。剩下的战士，至少是那些认为仍有必要战斗的人，仍在清除水平，但效力大大降低。尽管如此，[Root.apsr_sao_level_count]已经被清除。但他们的力量足以完成剩下的工作吗?"
+ apsr_sao.30.button:0 "看来他们的力气快用完了"
+ 
+ # 19-37 years from begin (77-120)
+ apsr_sao.31.title:0 "$apsr_sao.2.title$"
+ apsr_sao.31.desc:0 "$RULER$，更多来自§H[event_target:apsr_sao_planetname.GetName]§!的新闻。\n在《血誓骑士》解散后，一些小团体仍在努力完成游戏。但它们的效力每天都在下降，每一个伤亡都在下降。没有人愿意再冒生命危险。新战士的增援部队不再到达，相反，经验丰富的战士们放弃了战斗，在和平与安静中度过他们的日子。[Root.apsr_sao_level_count]是剩下的战士团队希望能够克服的最后一个目标。"
+ apsr_sao.31.button:0 "最后一丝希望"
+ 
+ # 20-39 years from begin (78-122)
+ apsr_sao.32.title:0 "$apsr_sao.2.title$"
+ apsr_sao.32.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n尽管损失惨重，困难重重，剩下的战士们——非常缓慢，但顽强不屈——继续保持着战斗力。[Root.apsr_sao_level_count]已经过了大量的努力和大量的人员伤亡。它们不太可能持续太久……"
+ apsr_sao.32.button:0 "显然，他们的力量是不够的"
+ 
+ # 21-41 years from begin (79-124) this is end (peoples or game)
+ apsr_sao.33.title:0 "$apsr_sao.2.title$"
+ apsr_sao.33.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n最后一批战士在清除[Root.apsr_sao_level_count]后放下武器。没有人会试图完成游戏。没有人愿意去尝试。星球上的居民继续生活在他们的增强现实世界中，就好像它是真实的，而不仅仅是我们的虚构。\n科学家们不再认为这个星球值得我们关注，而«Aincrad»项目，尽管它没有结束，但已经被证明是值得的科学努力。"
+ apsr_sao.33.button:0 "即便如此，这也并非徒劳无功"
+  
+ # final
+ apsr_sao.final.title:0 "$apsr_sao.2.title$"
+ apsr_sao.final.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n最后一关终于过关了!全世界的人都在庆祝他们的胜利。根据实验协议，AR设备立即关闭，导致怪物消失，游戏的任何迹象从人们的生活中消失。现在是由我们来决定——我们是要把这个保护罩从星球上移开，还是让它保持原样?"
+ apsr_sao.final.button_1:0 "我们的诺言就是我们的契约"
+ apsr_sao.final.button_1.tooltip:0 "也许他们忘记是谁把它们放在那里了……" 
+ apsr_sao.final.button_2:0 "解除屏蔽?当然是不!"
+ apsr_sao.final.button_2.tooltip:0 "行星§H[event_target:apsr_sao_planetname.GetName]§!将永远与宇宙隔离。" 
+ apsr_sao.final.button_3:0 "可怜的生命。让他们承受更多的痛苦"
+ apsr_sao.final.button_3.tooltip:0 "$apsr_sao.final.button_2.tooltip$" 
+ 
+ # if planet is open
+ apsr_sao.34.title:0 "$apsr_sao.2.title$"
+ apsr_sao.34.desc:0 "从§H[event_target:apsr_sao_planetname.GetName]§!行星上解除屏蔽的计划已经完成，现在人们可以自由地离开地表前往其他星球。他们的快乐是无限的，更重要的是，他们认为我们是他们的解放者，并希望成为我们帝国的一部分。对于最初是谁切断了他们与宇宙的联系的问题，他们没有回答，说他们不记得了。"
+ apsr_sao.34.button:0 "我们很高兴地欢迎他们"
+ apsr_sao.34.button.tooltip:0 "$apsr_sao.2.title$成功完成" 
+ 
+ 
+ 
+ ### TECHNOLOGY
+ 
+ tech_apsr_sao_1:0 "图像投影技术"
+ tech_apsr_sao_1_desc:0 "§R$apsr_sao.2.title$§!\n我们必须首先开发一种方法，把我们的信息传递给星球的人口。"
+ tech_apsr_sao_2:0 "增强现实技术"
+ tech_apsr_sao_2_desc:0 "§R$apsr_sao.2.title$§!\n这是我们即将进行的实验的基础技术。"
+ tech_apsr_sao_3:0 "意识干涉技术"
+ tech_apsr_sao_3_desc:0 "§R$apsr_sao.2.title$§!\n没有人会自愿同意这样的实验。我们将用武力把他们连接起来。"
+ tech_apsr_sao_4:0 "实现战略发展"
+ tech_apsr_sao_4_desc:0 "§R$apsr_sao.2.title$§!\n已经开发了所需的技术，现在我们必须制定一种机制和战略来部署这些技术。"
+ tech_apsr_sao_5:0 "启动«Aincrad»项目"
+ tech_apsr_sao_5_desc:0 "§R$apsr_sao.2.title$§!\n项目启动前的最后准备工作。"
+ TECH_UNLOCK_APSR_SAO_TITLE:0 "§R$apsr_sao.2.title$§!"
+ TECH_UNLOCK_APSR_SAO_DESC:0 "§R$apsr_sao.2.title$§!\n一个最残酷的实验，将在整个星球上进行。"
+
+ 
+ 
+ ### PLANET MODIFIER
+ 
+ apsr_sao_project:0 "«Aincrad»项目"
+ apsr_sao_project_desc:0 "在这个星球上正在进行一项异常残酷的实验。"
+ 
+ 
+ 
+ ### EMPIRE MODOFIERS
+ 
+ apsr_sao_event3_xenophile:0 "对«Aincrad»项目不满"
+ apsr_sao_event3_xenophile_desc:0 "我们的人民对一项不必要的残酷实验表示不满。你会阻止它的，当然不，对吗?"
+ apsr_sao_event3_endproject:0 "科学家罢工"
+ apsr_sao_event3_endproject_desc:0 "为推出«Aincrad»项目而浪费了多年的时间…这一切都是徒劳的吗?"
+ apsr_sao_project_bad_complete:0 "«Aincrad»项目"
+ apsr_sao_project_bad_complete_desc:0 "«Aincrad»项目还没有完成，但是尽管如此，我们还是从我们的观察中学习到了一些东西。"
+ apsr_sao_project_good_complete:0 "«Aincrad»项目"
+ apsr_sao_project_good_complete_desc:0 "«Aincrad»项目获得了完全的成功!"
+ 
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr_sao_open_shield:0 "解除屏蔽"
+ apsr_sao_open_shield_DESC:0 "这个星球上的人口已经成功地通过了我们的试验，现在我们将从他们的星球上移除屏障。"
+ 
+ 
+ 
+ ### OPINION MODIFIER
+ 
+ apsr_sao_freedom:0 "解除屏蔽"
+ 

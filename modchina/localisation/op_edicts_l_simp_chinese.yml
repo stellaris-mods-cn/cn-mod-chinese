@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+ ####################################
+ # Edicts ####################################
+
+
+
+ edict_regeneration:0 "再生"
+ edict_regeneration_desc:0 "§L皮肤会愈合，骨头会愈合:为什么我们的船体会有所不同?§!"
+ edict_geneboost:0 "基因增强"
+ edict_geneboost_desc:0 "§L我们的人民将是健康的化身。§!"
+ edict_neuron_density:0 "神经元密度"
+ edict_neuron_density_desc:0 "§L我们不需要只关注肌肉。大脑是一个器官，这也是可以改进的。§!"
+ edict_bonecraft:0 "骨工艺"
+ edict_bonecraft_desc:0 "§L密度比石头和钢铁还大，而且只用了一半的时间就建成了。§!"
+ edict_regeneration2:0 "再生"
+ edict_regeneration2_desc:0 "§L皮肤会愈合，骨头会愈合:为什么我们的船体会有所不同?§!"
+ edict_geneboost2:0 "基因增强"
+ edict_geneboost2_desc:0 "§L我们的人民将是健康的化身。§!"
+ edict_neuron_density2:0 "神经元密度"
+ edict_neuron_density2_desc:0 "§L我们不需要只关注肌肉。大脑是一个器官，这也是可以改进的。§!"
+ edict_bonecraft2:0 "骨工艺"
+ edict_bonecraft2_desc:0 "§L密度比石头和钢铁还大，而且只用了一半的时间就建成了。§!"

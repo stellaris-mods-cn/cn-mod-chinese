@@ -1,0 +1,26 @@
+﻿
+l_simp_chinese:
+
+ ####################################
+ # CIVICS
+ ####################################
+ civic_tooltip_gpm_death_world_effects:0 "从一个§Y死寂星球§!开始游戏：\n £pop  人口成长速度： §R-50%§!\n 行星陆军建设速度： §R-25%§!\n 行星移民吸引力: §R-100%§!\n\n§Y母星§!:\n 开始游戏时，母星会带有 §G3§! 个 §R严酷的§!星球修正。\n\n获得 §Y死界民族§! 的特质，并给予：\n 适居度： §G+30%§!\n 海军上将技能等级： §G+2§!\n 武器伤害： §G+50%§!\n 陆军获得经验值： §G+100%§!\n 本物种领袖获得经验: §G+100%§!"
+	
+ civic_tooltip_gpm_precursor_world_effects:0 " £pop  人口生活品消耗： §R+15%§!\n\n§Y母星§!:\n 开始游戏时，母星会带有 §Y1§! 个 £pop 人口。\n 开始游戏时，母星会带有 §Y3§! 个 £building  高级建筑。\n 开始游戏时，母星会带有 §Y2§! 个 §E先驱者§! 星球修正。\n\n获得 §Y被遗忘者§! 的特质，并给予：\n 领袖等级上限： §G+2§!\n 领袖获得经验： §G+100%§!"
+
+ civic_tooltip_gpm_precursor_world_machine_effects:0 "§Y帝国§!:\n £pop  人口优势使用: §R+10%§!\n\n§Y家园§!:\n 游戏开始时从§E先驱者§!废墟开始\n 游戏开始时有§Y2§! §E先驱者§!行星修正。\n\n§Y物种§!:\n 获得§Y被遗忘的物种§!特质,给予:\n   领袖等级: §G+2§!\n   领袖经验获得: §G+100%§!"
+ 
+ 
+ civic_tooltip_gpm_fallen_empire_colony_effects:0 "§Y崇高地位§!：\n 月度影响力： §G+1§! \n\n§Y停滞传承§!：\n 研究速度： §R-10%§!\n 人口成长速度： §R-10%§!\n\n§Y母星§!:\n 从一个 §Y随机§! 的行星类型开始游戏。\n 开始游戏时，母星拥有 §Y3§! 个 £pop  人口。\n 开始游戏时，母星会带有 §Y4§! 个 £building  高级建筑。\n 开始游戏时，母星会带有 §Y2§! 个 §H失落帝国§! 的星球修正。\n\n获得 §Y受到尊崇的新生命§! 的特质，并给予：\n 与其他帝国的信任成长： §G+15%§!\n §Y尊崇之子§! §G+40§! §H失落帝国§! 的评价奖励。"
+ 
+ 
+ civic_gpm_death_world:0 "死亡世界"
+ civic_gpm_death_world_desc:0 "游戏开始时，你出生在一个非常冰冷与致命的星球。那是一个迫使你们物种进化为一个拥有高度适应性和强大物种的世界。"
+ civic_gpm_precursor_world:0 "觉醒的先驱者行星"
+ civic_gpm_precursor_world_machine:0 "$civic_gpm_precursor_world$"
+ civic_gpm_precursor_world_desc:0 "游戏开始时，你出生在银河中某个毁灭的先驱者星球上。你的物种从古老的低温系统中苏醒。成千上万的古老文明遗迹如今依旧存在。你能在繁星中找到你应得的位置吗？"
+ civic_gpm_precursor_world_machine_desc:0 "$civic_gpm_precursor_world_desc$"
+ civic_gpm_fallen_empire_colony:0 "失落帝国的殖民地"
+ civic_gpm_fallen_empire_colony_desc:0 "游戏开始时，你出生在银河系中某个被遗忘的 §H失落帝国§! 的殖民地上。你的物种古老悠久并得到远古看护人的精心照料。这个星球配置着完整的乌托邦式的自洽系统，确保你的物种永远衣食无缺。"
+
+ 

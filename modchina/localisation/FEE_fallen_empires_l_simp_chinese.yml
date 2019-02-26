@@ -1,0 +1,309 @@
+﻿l_simp_chinese:
+
+#--	
+#--		--------------------------- --------------------------- --------------------------- ---------------------------
+#--		Fallen Empire Expanded - Localisation for Fallen Empires Expanded
+#--		--------------------------- --------------------------- --------------------------- ---------------------------
+#--		
+#--		PREFACE
+#--		•	This file provides the localisation for names and descriptions for Fallen Empires Expanded
+#--		•	Without this file, names and description will be missing and unavailable.
+#--
+#--		--------------------------- --------------------------- --------------------------- ---------------------------
+#--	
+
+#	--------------------------- --------------------------- ---------------------------
+#	Fallen Empire Governments and Civics
+#	common/governments/FEE_governments.txt
+#	common/governments/civics/FEE_civics.txt
+#	--------------------------- --------------------------- ---------------------------  
+
+ gov_dormant_hive:0 "沉睡的意识"
+ gov_dormant_hive_desc:0 "一个强大的蜂群思维统治着这个失落帝国，谢天谢地，它现在已经沉睡了很久了。"
+ gov_awakened_swarm:0 "觉醒意识"
+ gov_awakened_swarm_desc:0 "统治这个失落帝国的蜂群思维已经觉醒，现在正在寻求恢复它的统治地位。"
+ civic_gestalt_torpor:0 "麻木的意识"
+ civic_gestalt_torpor_desc:0 "这个强大的蜂群思维现在在漫长的黑暗中沉睡。"
+ civic_passive_drones:0 "被动的工蜂"
+ civic_passive_drones_desc:0 "大批服从蜂巢的工蜂在等待蜂巢的回归。"
+ civic_invigorated_coalescence:0 "精力充沛的聚结"
+ civic_invigorated_coalescence_desc:0 "蜂巢的觉醒。"
+ civic_rejuvenated_drones:0 "新生工蜂"
+ civic_rejuvenated_drones_desc:0 "为了给它们指引方向，意识苏醒了，蜂群思维的工蜂们敏捷地执行任务。"
+ 
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Fallen Empire Personalities
+#	common/personalities/FEE_fallen_empire_personalities.txt
+#	--------------------------- --------------------------- ---------------------------   
+
+ personality_fallen_empire_militarist:0 "军事至上者"
+ personality_fallen_empire_militarist_desc:0 "这个失落帝国致力于维护自己的军事优势，超越其他帝国。舰队实力的大幅扩张可能激起他们的愤怒。"
+ personality_awakened_fallen_empire_militarist:0 "沙文主义者"
+ personality_awakened_fallen_empire_militarist_desc:0 "这个觉醒帝国试图以他们的军事优势吞并银河系的其他种族。他们可能会攻击任何显示军事弱点的帝国。"
+ personality_fallen_empire_hivemind:0 "沉睡的蜂群"
+ personality_fallen_empire_hivemind_desc:0 "这个失落帝国是一个有组织的帝国，然而蜂巢似乎正在处于休眠的状态，工蜂只是做最低限度的需要维持蜂巢。"
+ personality_awakened_fallen_empire_hivemind:0 "愤怒的蜂群"
+ personality_awakened_fallen_empire_hivemind_desc:0 "蜂群思维已经摆脱了它的沉睡状态，唤醒了它完整的、可怕的意识。蜂群正从长时间的睡眠中挨饿，只希望充饥。"
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Fallen Empire Events
+#	events/
+#	--------------------------- --------------------------- --------------------------- 
+ 
+ 
+ fallen_empires_awakening.7.name:0 "蜂群苏醒"
+ fallen_empires_awakening.7.desc:0 "它始于§H[From.GetAdjective]§!发出的一系列非常微弱的心灵感应脉冲。我们称它为几乎不引人注意的天体怪事，我们记录下它们的发现，然后把它们忘得一干二净。直到最近，它都是毫不起眼的。只有当脉冲变成尖叫声时，我们才注意到。千百年来，§H[From.GetName]§!第一次醒来，摆脱了他们的沉睡状态并完全唤醒意识。蜂群思维正在为它积聚所有力量，使众多工蜂处于苏醒状态，并让它们恢复§H[From.GetSpeciesName]§!军事力量。§H[From.GetSpeciesName]§!的意图尚不清楚，但随着银河系其他先驱者帝国的再次出现，这一事件肯定不是巧合。"
+ fallen_empires_awakening.7.a:0 "蜂群复活了..."
+ 
+ fallen_empires_awakening.11.name:0 "在黑暗中挣扎"
+ fallen_empires_awakening.11.spiritualist.desc:0 "多年来，我们的灵能探求者一直在探测来自§H[From.GetAdjective]§!的非常强的灵能活动，比我们以前记录的要强大得多。但是我们现在所探测到的是非常令人不安的。我们所有的人都感受到了，一种隐隐的痛苦。对于我们更有天赋的灵能个体来说，这种感觉是难以忍受的，而且有潜在的危险——虚境在痛苦中尖叫，这种反馈的强度如此之大，以至于我们的许多灵能者丧失了灵能能力，导致了突然致命的脑出血。现在我们知道原因了。§H[From.GetName]§!在千禧年里第一次醒来;突然间，数以百万计的思想和灵魂再次积极地与灵能接触。我们最强的灵能者假定异能的巨大的快速积累已经导致虚境受损,在银河系释放出某种§M灵能风暴§!，现在我们的精神层面上的结果，我们一定要像我们在物质平面上所做的那样。"
+ fallen_empires_awakening.11.default.desc:0 "它始于§H[From.GetAdjective]§!行为的戏剧性转变。[From.GetSpeciesName]一直在准备、收集信息、为旧铸造厂供电、回收封存的舰队，最令人不安的是，在银河系释放了某种邪恶的灵能武器。所有的有机物种都经历过一种不适感，它们的后脑勺隐隐作痛，这种感觉挥之不去，也让我们的医学专家感到困惑。我们社会的神秘主义者把它比作一个所谓的§M灵能风暴§!，它会破坏大脑调谐至的波长。无论如何解释，重要的是，在一个时代里，§H[From.GetName]§!第一次将目光投向了他们的边界之外，并放眼整个银河系。\n\n随着正在衰败的造船厂得到修复和改装，泰坦铸造厂的休眠系统开始运行，银河系的其余部分只剩下一个问题——这个曾经沉睡的巨大目标，在他们夺回失去的古老荣耀的过程中，谁会首先成为他们的目标?"
+ fallen_empires_awakening.11.a:0 "暴风雨就要来了..."
+ fallen_empires_awakening.11.effects.tooltip:0 "当灵能风暴增强时，我们可能会遭受后果…"
+ 
+ FEE_awakened.2.title:0 "军事超级大国"
+ FEE_awakened.2.desc:0 "§H[From.GetName]§!的觉醒不是偶然的，这些年来他们也没有完全闲着。他们一直在通过他们的能力，§R[MilitaristPuppet.GetName]§!发挥他们的影响力，同时隐藏了一个巨大的军事建设，其他星系，储存物资和船只。现在，§H[From.GetSpeciesName]§!已经团结成一个整体，再次作为一个复兴超级大国。这不是偶然;这一直是他们的计划。"
+ FEE_awakened.2.a:0 "一股新的力量近在咫尺..."
+ 
+ FEE_awakened.3.title:0 "至高无上的霸主"
+ FEE_awakened.3.desc:0 "当§H[From.GetName]§!觉醒时，我们期待一个符合他们身份和个性的回应。但我们感到失望。到目前为止，§H[From.GetName]§!只对他们早已灭亡的帝国的遗迹采取了一些行动。然而，最近我们收到了来自§H[From.GetAdjective]§!大使的消息，声称完全恢复的§H[From.GetName]§!即将到来，并警告所有反对他们的人将面临极大的危险。"
+ FEE_awakened.3.a:0 "陈词滥调还是承诺?" 
+ 
+# Spiritualist Events
+ 
+ FEE_awakened.303.title:0 "来自§H[FallenEmpireTaskOrigin.GetName]§!"
+ FEE_awakened.303.desc:0 "你好，[Root.GetSpeciesNamePlural]，我们有个请求。嗯，这只是一些请求，因为你可以选择拒绝，但我们没有选择接受你的拒绝。我们的神通过面纱与我们接触;他们饿了，需要牺牲。由于我们的盟约禁止我们透露的原因，这种牺牲一定是一个年轻的种族。然而，一个灵魂并不等于另一个灵魂，你可以选择送我们一个同类的领袖，或者送一群你的平民百姓，任何一个都可以满足我们的主人。神的姑息不能再等了，你说呢?"
+ FEE_awakened.303.a:0 "你可以带走一个领袖。"
+ FEE_awakened.303.a.tooltip:0 "§H[AscendedSpiritualistLeaderTarget.GetName]§!将被§H[FallenEmpireTaskOrigin.GetName]§!带走(或是牺牲?)。"
+ FEE_awakened.303.b: "我们提供一些我们的人给你。"
+ FEE_awakened.303.b.tooltip: "一个§H[Root.GetSpeciesName]人口§!会被§H[FallenEmpireTaskOrigin.GetName]§!带走(或是牺牲?)。"
+ FEE_awakened.303.c: "想都不要想，我们决不向屠杀投降!"
+ FEE_awakened.306.title:0 "时间结束"
+ FEE_awakened.306.desc:0 "随着银河危机的开始，更倾向于灵性的银河人已经宣告了末日的来临，尖叫着银河系的毁灭就在眼前。对于§B[From.GetName]§!的狂热者来说，这场危机只是强化了他们长期以来的信念，即银河系已经变得不纯洁，神圣的审判就在我们身上。我们从§B[From.GetAdjective]§!收到如下传输:\n §E天启降临在我们身上。这是神圣的意志，然而你，和其他像你一样的人，决定与末日的工具斗争，试图阻止不可避免发生的事。我们不愿冒着任何干涉的风险来达到目的，所以我们把事情掌握在自己手中。我们已经与周期结束形成了一个契约，并由此确保了灾难的到来。审判已经过去,你已经找到了希望。"
+ FEE_awakened.306.a: "终点就在眼前!"
+ FEE_awakened.306.b: "神奇的废话。"
+ FEE_awakened.306.c: "我们应该担心吗?"
+ 
+ 
+ FEE_crisis.3.title:0 "灵能风暴需要受害者"
+ FEE_crisis.3.desc:0 "§M灵能风暴§!无情地摧毁了我们的灵能群体的心灵，我们能做的也只有这么多，来保护他们免受心灵和身体的削弱。不幸的是，我们在§Y[FEEPsionicPopDeathPlanet.GetName]§!上失去了无数的生命。死亡人数的完整统计还没有完成，但是有报道说，成千上万的民众尖叫着，直到他们的声带爆裂，眼眶撕裂，然后死于剧烈的脑出血。我们必须想出一些办法来阻止这场风暴，否则更多的风暴将会死亡。"
+ FEE_crisis.3.a: "可怜的人们..."
+ FEE_crisis.4.a.tooltip: "一个灵能人口在[FEEPsionicPopDeathPlanet.GetName]上§R死亡§!。"
+ FEE_crisis.4.title:0 "灵能风暴将领袖逼疯"
+ FEE_crisis.4.desc:0 "§M灵能风暴§!在我们人民的头脑中肆虐，给他们带来噩梦、恶魔般的幻象，有时甚至造成神经损伤。我们只能做这么多来保护我们的人民不受这场风暴的影响，看来我们必须记录下这场危机的另一个受害者。§Y[FEEPsionicLeaderDeath]§!最近精神完全崩溃，毫无节制地攻击他的同伴和同事，肆意自残，不停地尖叫。尽管我们尽了最大的努力，我们还是救不了[FEEPsionicLeaderDeath.GetHerHim]。我们必须采取行动，在更多的人死亡之前阻止这场风暴。"
+ FEE_crisis.4.a:0 "这条路太可怕了。"
+ FEE_crisis.4.tooltip:0 "[FEEPsionicLeaderDeath] §R死亡§!。"
+ FEE_crisis.5.title:0 "灵能风暴加剧"
+ FEE_crisis.5.desc:0 "就好像我们目前的困境不会变得更糟一样，我们所有的信息都表明§M灵能风暴§!变得更糟了。我们灵能人口正面临着更大的风险，承受着这场暴力大灾难的恶劣影响，而且还没有减弱的迹象，我们可能只看到了银河系范围内灾难的开始。"
+ FEE_crisis.5.a:0 "我们能做些什么?"
+ FEE_crisis.6.title:0 "灵能风暴变成了灾难"
+ FEE_crisis.6.desc:0 "正如我们预测的那样，§M灵能风暴§!进一步加剧，成为真正毁灭性的银河事件。灵能群体正在被这场狂暴的风暴大规模地杀死，尽管目前的迹象表明它并没有变得更糟，但很难想象它会变得更糟。"
+ FEE_crisis.6.a:0 "这是命中注定吗?"
+ FEE_crisis.8.title:0 "灵能风暴消退"
+ FEE_crisis.8.desc:0 "随着对其创造负责的人的破坏，所谓的§M灵能风暴§!似乎已经减弱。目前还不清楚，银河系是否会真正从对其人民的恶毒和无情的攻击中恢复过来。从很远的地方伤害人民并造成这种动乱的能力充其量也只能是令人不安的- -我们必须确保，如果这种动乱再次发生，我们将准备好对抗这场风暴。"
+ FEE_crisis.8.a:0 "真的结束了吗?"
+ 
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Puppet States
+#	common/subjects/FEE_fallen_empire_subjects.txt
+#	--------------------------- --------------------------- ---------------------------   
+ 
+ SUBJECT_puppet:0 "傀儡国"
+ SUBJECT_DESC_puppet:0 "傀儡国是一种在外交和军事上独立的主体，是他们的领主的代理人。他们贡献§Y35%§!的能量币和矿物向他们的领主进贡。他们被允许独立于他们的领主进行殖民和战争。"
+ DIPLOMACY_IS_SUBJECT:1 "$EMPIRE|H$§!的§T$TYPE$"
+ SUBJECT_feedthrall:0 "征收国"
+ SUBJECT_DESC_feedthrall:0 "征收国是一种外交和军事上独立国家，但是他们必须提供§Y40%§!的粮食来供应他们的领主，再加上§Y15%§!的能源币作为“保险”。他们被允许独立于他们的领主进行殖民和战争。"
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Planet Classes
+#	common/planet_classes/FEE_planet_classes.txt
+#	--------------------------- --------------------------- ---------------------------
+
+ FEE_pc_fractured_planet:0 "巢穴星球"
+ FEE_pc_fractured_planet_desc:0 "一颗破碎的星球，到处都是蜂巢的巢穴，是一个古老的蜂群思维的巢穴。"
+ 
+ FEE_pc_fractured_planet_tile:0 "巢穴地形"
+ FEE_pc_fractured_planet_tile_desc:0 "由巢、洞穴组成的蜂巢，数千年的蜂房活动形成。"
+  
+
+#	--------------------------- --------------------------- ---------------------------
+#	Fallen Empire Diplomatic Messages
+#	common/diplo_phrases/FEE_diplo_phrases.txt
+#	common/actions/FEE_actions.txt
+#	--------------------------- --------------------------- ---------------------------
+
+ 01_DEMAND_FEEDTHRALL_SELECT:0 "征收国?我们不是你的牛!" 
+ 01_DEMAND_FEEDTHRALL_PROPOSE:0 "你没必要变成美味佳肴。接受我们的统治，支付资源，你就会幸免。"
+ 01_DEMAND_FEEDTHRALL_ACCEPT:0 "我们接受并将成为您的喂养奴役。"
+ 01_DEMAND_FEEDTHRALL_REFUSE:0 "我们永远不会成为你的储藏室。"
+ 01_ASK_BECOME_FEEDTHRALL_SELECT:0 "你准备好接受你作为[Root.GetName]征收国的合法地位了吗"
+ 01_ASK_BECOME_FEEDTHRALL_PROPOSE:0 "我们的饥饿是无止境的，你知道你无法抵挡我们。你只能作为我们的征收国生存。"
+ 01_ASK_BECOME_FEEDTHRALL_ACCEPT:0 "我们很高兴你接受了，很好，奴隶。我们饿了。"
+ 01_ASK_BECOME_FEEDTHRALL_REFUSE:0 "我们受够了你们，我们对你们提供的东西的渴望已经满足了。"
+ 
+ ACTION_DEMAND_FEEDTHRALL_TYPE:0 "要求征收"
+ ACTION_DEMAND_FEEDTHRALL_TYPE_DESC:0 "我们可以要求他们成为我们的征收国。如果他们接受，我们将无法攻击他们，但他们将不得不支付他们§Y40%§!的食物收入和§Y15%§!的能量币收入。否则它们就是独立的。"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_TYPE:0 "请求征收"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_TYPE_DESC:0 "我们可以要求成为他们的征收国。如果他们接受,他们将无法攻击我们,但我们将不得不支付他们§Y40%§!我们的食品收入和§Y15%§!能量币收入。否则我们就是独立的。"
+ ACTION_DEMAND_FEEDTHRALL_TITLE:0 "要求征收"
+ ACTION_DEMAND_FEEDTHRALL_DESC:0 "我们可以要求他们成为我们的征收国。如果他们接受,我们将无法攻击他们,但他们将不得不支付§Y40%§!他们的食物收入和§Y15%§!能量币收入。否则它们就是独立的。"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_TITLE:0 "请求征收"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_DESC:0 "我们可以要求成为他们的征税国。如果他们接受,他们将无法攻击我们,但我们将不得不支付他们§Y40%§!我们的食物收入和§Y15%§!能量币收入。否则我们就是独立的。"
+ ACTION_DEMAND_FEEDTHRALL_PROPOSAL_FAILED_ACTOR:0 "我们给予§H[Recipient.GetName]§!征收国的提议被拒绝了。"
+ ACTION_DEMAND_FEEDTHRALL_PROPOSAL_FAILED_RECIPIENT:0 "§H[Actor.GetName]§!的征收国被自动拒绝了。"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_PROPOSAL_FAILED_ACTOR:0 "我们申请加入§H[Recipient.GetName]§!的请求被拒绝了。"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_PROPOSAL_FAILED_RECIPIENT:0 "要求对§H[Actor.GetName]§!征收的要求被自动拒绝了。"
+ MESSAGE_DEMAND_FEEDTHRALL_TITLE:0 "征收国要求"
+ MESSAGE_ASK_TO_BECOME_FEEDTHRALL_TITLE:0 "征收国提供"
+ ACTION_DEMAND_FEEDTHRALL_NOTIFICATION:2 "§H[From.GetName]§!在§H[Root.GetName]§!建立了一个征税国。\n\n他们会献上贡品以避免成为晚餐。"
+ ACTION_ASK_TO_BECOME_FEEDTHRALL_NOTIFICATION:2 "§H[Root.GetName]§用f§H[From.GetName]§!建立了一个征税国。\n\n他们会献上贡品以避免成为晚餐。"
+ 
+ 01_FEE_HM_DORMANT_GREETING:0 "现在还不是我们的时候，让我们去睡觉吧。"
+ 02_FEE_HM_DORMANT_GREETING:0 "蜂巢沉睡着，无知的[From.GetSpeciesNameInsult]."
+ 03_FEE_HM_DORMANT_GREETING:0 "蜂群在休眠，你为什么打扰我们?"
+ 04_FEE_HM_DORMANT_GREETING:0 "你真幸运，我们还在睡觉，可怜的[From.GetSpeciesNamePlural]。"
+ 05_FEE_HM_DORMANT_GREETING:0 "待我们苏醒的时候，一切都将是糠秕。"
+ 06_FEE_HM_DORMANT_GREETING:0 "我们的意识可能是嗜睡的，但我们的武器肯定不是。"
+ 07_FEE_HM_DORMANT_GREETING:0 "安静的黑暗并不怕你，[From.GetSpeciesName]。"
+ 08_FEE_HM_DORMANT_GREETING:0 "你想唤醒你自己的命运?"
+ 
+ 01_FEE_HM_AWAKENED_GREETING:0 "我们军团。"
+ 02_FEE_HM_AWAKENED_GREETING:0 "我们是蜂群。害怕我们。"
+ 03_FEE_HM_AWAKENED_GREETING:0 "我们好饿啊。你来吃饭了吗?"
+ 04_FEE_HM_AWAKENED_GREETING:0 "我们以为你的[From.GetSpeciesName]很难吃，但你仍然是食物。"
+ 05_FEE_HM_AWAKENED_GREETING:0 "我们想的一样。我们只想着养活自己。"
+ 06_FEE_HM_AWAKENED_GREETING:0 "我们分享的合一并不会削弱我们享用你的[From.GetSpeciesName]的欲望。"
+ 07_FEE_HM_AWAKENED_GREETING:0 "饥饿..."
+ 08_FEE_HM_AWAKENED_GREETING:0 "蜂群正在挨饿，而你在这里……"
+ 
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Fallen Empire War Demands
+#	common/war_demand_types/FEE_subject_war_demands.txtt
+#	--------------------------- --------------------------- ---------------------------
+
+ war_demand_make_feedthrall_header:0 "§Y创建征收国§!"
+ war_demand_make_feedthrall_subtext:0 "[parameter:country.GetName]"
+ war_demand_make_feedthrall_tooltip_header:0 "$war_demand_make_feedthrall_header$"
+ war_demand_make_feedthrall_tooltip_content:0 "让[parameter:country.GetName]成为另一个国家的征收国。 $SUBJECT_DESC_feedthrall$"
+ war_demand_make_feedthrall_tooltip_proper_header:0 "$war_demand_make_feedthrall_tooltip_header$"
+ war_demand_make_feedthrall_tooltip_proper_content:0 "使[parameter:country.GetName]成为[GetCountry.GetName]的征收国。 $SUBJECT_DESC_feedthrall$" 
+
+
+#	--------------------------- --------------------------- ---------------------------
+#	Opinion Modifiers
+#	common/opinion_modifiers/FEE_opinion_modifiers.txt
+#	--------------------------- --------------------------- ---------------------------  
+ 
+ FEE_opinion_militarist_fleet_power_dangerous:0 "危险的舰队实力"
+ FEE_opinion_militarist_fleet_power_threatening:0 "有威胁舰队实力"
+ FEE_opinion_militarist_fleet_power_formidable:0 "强大的舰队"
+ FEE_opinion_militarist_fleet_power_major:0 "强大的舰队"
+ FEE_opinion_militarist_fleet_power_moderate:0 "有一定实力的舰队"
+ FEE_opinion_militarist_fleet_power_minor:0 "脆弱的舰队"
+ FEE_opinion_militarist_fleet_power_trival:0 "微不足道的舰队"
+ FEE_opinion_militarist_fleet_power_none:0 "与军事无关"
+
+ FEE_opinion_militarist_awakened_equivalent:0 "银河伙伴"
+ FEE_opinion_militarist_awakened_powerful:0 "强大的帝国"
+ FEE_opinion_militarist_awakened_noteworthy:0 "值得注意的帝国"
+ FEE_opinion_militarist_awakened_potent:0 "有能力的帝国"
+ FEE_opinion_militarist_awakened_capable:0 "平庸的帝国"
+ FEE_opinion_militarist_awakened_mediocre:0 "弱小的帝国"
+ FEE_opinion_militarist_awakened_weak:0 "弱不禁风的帝国"
+ FEE_opinion_militarist_awakened_powerless:0 "无防备" 
+
+ FEE_opinion_militarist_vassal_relations:0 "傀儡国关系"
+ 
+ FEE_opinion_militarist_vassal_belligerent:0 "好战的"
+ 
+ FEE_opinion_militarist_crisis:0 "银河危机-无关舰队力量"
+ 
+ opinion_FEE_awakened_consciousness:0 "愤怒的蜂群"
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Modifiers
+#	common/static_modifiers/FEE_global_static_modifiers.txt
+#	--------------------------- --------------------------- ---------------------------
+
+ FEE_hive_arcology:0 "泰坦建筑"
+ FEE_hive_arcology_desc:0 "这个巨大的世界是由筑巢的蜂房雕刻出来的地下医术编织而成的。这个世界的大小意味着它拥有丰富的容易获得的资源。"
+ FEE_gave_up_leader:0 "放弃了一个领袖"
+ FEE_gave_up_leader_desc:0 "我们心甘情愿地交出了一个领袖，让他来做牺牲品——我们的人民是不会高兴的。"
+ FEE_gave_up_leader_xenophobe:0 "放弃了一个领袖"
+ FEE_gave_up_leader_xenophobe_desc:0 "我们心甘情愿地交出了一个领袖作为牺牲品，我们的人民是不会发怒的。"
+ FEE_gave_up_leader_xenophile:0 "放弃了一个领袖"
+ FEE_gave_up_leader_xenophile_desc:0 "我们心甘情愿地交出了一个领袖作为牺牲品，我们的人民是不会发怒的。"
+ FEE_superstate:0 "形成了军国主义超级大国"
+ FEE_no_superstate:0 "支离破碎的军国主义超级大国"
+ 
+ FEE_psionic_ascendance:0 "灵能崛起"
+ FEE_psionic_ascendance_desc:0 "这个帝国通过灵能风暴获得了无所不能的力量。"
+ FEE_psionic_storm_dispelled:0 "灵能反弹"
+ FEE_psionic_storm_dispelled_desc:0 "随着灵能风暴的消失，这个帝国遭受了突然切断其力量来源的后果。"
+
+
+#	--------------------------- --------------------------- ---------------------------
+#	Ship Design/Ship Size Names
+#	TODO
+#	--------------------------- --------------------------- ---------------------------
+
+ NAME_Progenitor: "祖先"  
+ NAME_Overlord: "霸主"  
+ NAME_Drone: "工蜂"  
+ NAME_Hive: "蜂群"  
+ NAME_Beholder: "眼魔"  
+ NAME_Drone-Constructor: "工蜂建造者"  
+ NAME_Drone-Seeder:0 "工蜂播种者"
+
+ FEE_hivemind_FE_battlecruiser: "巡洋舰" 
+ FEE_hivemind_FE_battlecruiser_plural: "巡洋舰"
+ FEE_hivemind_FE_titan: "泰坦" 
+ FEE_hivemind_FE_titan_plural: "泰坦"
+ FEE_hivemind_FE_escort: "护航舰" 
+ FEE_hivemind_FE_escort_plural: "护航舰"
+ FEE_hivemind_FE_fortress: "蜂巢堡垒"
+ FEE_hivemind_FE_fortress_plural: "蜂巢堡垒"
+ FEE_hivemind_FE_outpost: "蜂巢前哨" 
+ FEE_hivemind_FE_outpost_plural: "蜂巢前哨"
+  
+ 
+#	--------------------------- --------------------------- ---------------------------
+#	Player Homeworlds
+#	common/solar_system_initializers/FEE_player_starting_homeworld_initializer.txt
+#	--------------------------- --------------------------- ---------------------------  
+ 
+ FEE_fallen_1_1_player_NAME:0 "§H无限灯塔\n"
+ FEE_fallen_1_1_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L完整的环世界由四个宜居部分组成。\n§G   - 4x 环形区段 (25)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_1_3_player_NAME:0 "§H稳定灯塔\n"
+ FEE_fallen_1_3_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L部分被摧毁的环世界由一个宜居部分组成。\n§G   - 1x 环形区段 (25)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_2_player_NAME:0 "§H天堂王座\n"
+ FEE_fallen_2_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L一个唯心主义帝国的所在地;由两个盖亚星球组成。\n§G   - 1x 盖亚星球 (25)\n§G   - 1x 盖亚星球 (15)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_3_player_NAME:0 "§H天空之父\n"
+ FEE_fallen_3_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L王国的合并;三个盖亚星球围绕着它的父亲般的气态巨星运行。\n§G   - 1x 盖亚卫星 (20)\n§G   - 1x 盖亚卫星 (12)\n§G   - 1x 盖亚卫星 (10)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_4_player_NAME:0 "§H核心\n"
+ FEE_fallen_4_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L一个与世隔绝的帝国的家园，两个盖亚星球;一个绕着另一个转。\n§G   - 1x 盖亚星球 (25)\n§G   - 1x 盖亚卫星 (12)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_5_player_NAME:0 "§H天堂发电机\n"
+ FEE_fallen_5_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L古老的机器吸取了空虚的精髓;一个局部的环世界和一个最后的盖亚世界。\n§G   - 1x 环形区段 (25)\n§G   - 1x 盖亚星球 (25)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_6_player_NAME:0 "§H苍天圣所\n"
+ FEE_fallen_6_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L围绕着太空中的虚空之星;三个不同轨道上的盖亚世界。\n§G   - 1x 盖亚星球 (25)\n§G   - 2x 盖亚卫星s (20)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_7_player_NAME:0 "§H飘渺堡垒\n"
+ FEE_fallen_7_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L在其先祖的摇篮中铸造的一枚活戒指;环世界有四个可居住的部分。\n§G   - 4x 环形区段 (25)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_8_player_NAME:0 "§H永恒城堡\n"
+ FEE_fallen_8_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L腐朽帝国的最后堡垒;盖亚世界和理想世界围绕其恒星的安全运行。\n§G   - 1x 盖亚卫星 (25)\n§G   - 1x Ideal Habitable Planet (25)\n\n$system_initializer_DESC$"
+
+ FEE_fallen_earth_player_NAME:0 "§H地球 \n"
+ FEE_fallen_earth_player_DESC:0 "§HFallen Empires Expanded\n--------------------------------\n§L人类的避难所，宇宙都市是一个停滞不前的政权，有过多种多样的行星。\n§G     金星 - 热带星球 (16)\n§G     地球 - 盖亚星球 (25)\n§G     火星 - 草原星球 (16)\n§G     欧罗巴 - 海洋卫星 (16)\n§G     土卫六 - 北极之月 (12)\n\n§H家园: §R地球联盟\n\n$system_initializer_DESC$"
+
+ FEE_fallen_terran_wasteland_player_NAME:0 "§H人族荒地\n"
+ FEE_fallen_terran_wasteland_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L一个外星入侵者的王座和种族灭绝的墓地，有大量不同的行星。\n§G     金星 - 沙漠星球 (16)\n§G     地球 - 坟墓星球 (25)\n§G     火星 - 盖亚星球 (25)\n§G     欧罗巴 - 坟墓之月 (25)\n§G     土卫六 - 苔原卫星 (16)\n§G     泰坦尼亚 - 北极之月 (16)\n\n§H家园: §R太阳之权\n\n$system_initializer_DESC$"

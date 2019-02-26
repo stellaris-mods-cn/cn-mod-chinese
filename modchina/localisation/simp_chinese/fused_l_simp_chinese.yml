@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+SOLAR:1 "星核聚变"
+SOLAR_DESC:0 "这种超乎所有人想象力的武器是名副其实的行星杀手。它能重定向行星内核所发生的量子隧穿效应，在极少个周期内将整个行星变为一团炽热的等离子火球。"
+tech_pk_fuser:0 "秭级聚变器"
+tech_pk_fuser_desc:0 "从行星到恒星，其实只有一步之遥。"
+FLEETORDER_DESTROY_PLANET_WITH_SOLAR:0 "正在准备使$PLANET|Y$聚变"
+MESSAGE_DESC_FOR_SOLAR:0 "被点燃"
+mcpk.1101.name:0 "恒星的诞生"
+mcpk.1101.desc:0 "[From.GetName]昔日的模样已经无法分辨——一颗恒星已经永久地取代了它的位置。"
+mcpk.1101.tooltip:0 "[From.GetName]现在是一颗恒星"
+SOLAR_ACTION:0 "点燃"

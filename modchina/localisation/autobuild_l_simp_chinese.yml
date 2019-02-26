@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ # loc keys
+ # menu
+ autobuild_menu.1.name:0 "Autobuild(自动建造MOD)"
+ autobuild_menu.1.desc:0 "主菜单。"
+ autobuild_picture_off:0 "§H删除§!菜单上愚蠢图片。"
+ autobuild_fleet_on_all:0 "§G指令§! 所有工程船舶均由自动建造进行。"
+ autobuild_fleet_on_one:0 "§G指令§! 一艘工程船自动建造。"
+ autobuild_fleet_allow.tooltip:0 "任何船只都适合自动建造。"
+ autobuild_fleet_on.tooltip:0 "工程船只将被分配到自动建造研究站(不是现在)和采矿站。如果您希望根据需要使用它们，请禁用此选项或构建一个新的工程船。船舶将被标记为“事件受阻”，这是正常的。"
+ autobuild_fleet_off:0 "§R撤销§! 所有来自自动建造的船只。"
+ #

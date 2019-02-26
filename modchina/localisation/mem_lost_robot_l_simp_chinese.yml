@@ -1,0 +1,66 @@
+﻿l_simp_chinese:
+ 
+# Initial Event
+mem_lost_robot.1.name:0 "丢失的机器人"
+ mem_lost_robot.1.desc:0 "我们在[Root.GetName]月球采矿站的管理员报告说一个'AL'型机器人在上一批我们向他们的运输中丢失。\n\n他们请求我们调查并将其送到月球以使其可以开始采矿任务。"
+ mem_lost_robot.1.accept:0 "他们一定搞错了。检查发货清单。"
+ mem_lost_robot.1.deny:0 "只是丢了个机器人。没有它他们也行。"
+
+# Retrieve the robot
+mem_lost_robot.2.name:0 "丢失的机器人"
+ mem_lost_robot.2.desc:0 "在检查了航班清单和收据后，在上次装运的货物中似乎确实有一个机器人失踪了。\n\n我们在这里看到两个可能。它要么被遗弃在用于将它送到月球的太空货物的某个地方，要么它从来没有离开过行星，还在生产它的工厂的某个地方。"
+ mem_lost_robot.2.cargo:0 "检查太空货舱。"
+ mem_lost_robot.2.factory:0 "检查工厂库存。"
+
+# Check the cargo - Delayed
+mem_lost_robot.10.name:0 "货物中没有任何东西"
+ mem_lost_robot.10.desc:0 "不幸的是，机器人不在货船上。更糟糕的是，我们在搜索过程中损失了相当长的一段时间，因为我们不得不等待货物从另一次交货中返回。\n\n我们现在可以尝试检查工厂，因为我们知道它从未在货船上。"
+ mem_lost_robot.10.factory:0 "是的，看看工厂。"
+ mem_lost_robot.10.abandon:0 "这不值得我们浪费时间。取消搜索。"
+ 
+# Check the cargo - Normal
+mem_lost_robot.11.name:0 "货物中没有任何东西"
+ mem_lost_robot.11.desc.first:0 "不幸的是，机器人不在货船上。 我们现在可以尝试检查工厂，因为我们知道它从未在货船上。"
+ mem_lost_robot.11.desc.second:0 "不幸的是，机器人也不在货物中。作为最后的手段，也许我们应该尝试搜索[Root.GetName]的地表。如果机器人不知怎么逃了，它可能还在工厂周围。"
+ mem_lost_robot.11.factory:0 "是的，看看工厂。"
+ mem_lost_robot.11.planet:0 "好吧，看看这个星球。"
+ mem_lost_robot.11.abandon:0 "这不值得我们浪费时间。取消搜索。"
+
+# Check the factory
+mem_lost_robot.20.name:0 "工厂里什么都没有"
+ mem_lost_robot.20.desc.first:0 "在花了很多时间在[Root.GetName]上检查工厂之后，我们确信机器人不再在那里了。它可能被遗忘在太空货物，所以也许我们应该在那里搜索。"
+ mem_lost_robot.20.desc.second:0 "在花了很多时间在[Root.GetName]上检查工厂之后，我们可以确信机器人不再在那里了。作为最后的手段，也许我们应该尝试搜索[Root.GetName]的表面。如果机器人不知怎么逃了，它可能还在工厂周围。"
+ mem_lost_robot.20.cargo:0 "好的，调查一下货物。"
+ mem_lost_robot.20.planet:0 "很好。检查行星表面。"
+ mem_lost_robot.20.abandon:0 "停止浪费资源。取消搜索。"
+
+# Robot retrieved 
+mem_lost_robot.30.name:0 "机器人回收"
+ mem_lost_robot.30.desc.cargo:0 "我们从上到下检查了货船后，终于找到了那个机器人，它逃离货舱后被困在管理人的房间里。我们将把它安排在重新发送到月球之前。"
+ mem_lost_robot.30.desc.factory:0 "在彻底搜查了这座巨大的工厂之后，我们发现机器人卡在传送带下面。我们不知道它是怎么在这里结束的，也不知道它为什么离开它的位置，但是我们会在把它送上月球之前安排一些重新编程。"
+
+# Disinto fired 
+mem_lost_robot.101.name:0 "悲剧"
+ mem_lost_robot.101.desc:0 "我们终于找到了机器人。显然，它在被装上了应该把它送到月球上去的货船前从工厂里逃了出来。然后，它隐藏在[Root.GetName]上，建造了被称为Disinto的采矿设备，它本应该是在月球上制造的。不幸的是，一旦被激活，它就产生了一个巨大的陨石坑，造成巨大的破坏，并立即杀死周围地区的大部分人口。从陨石坑的大小来判断，机器人肯定改进了最初的Disinto设计，以便能够传递这种能量。Disinto激活后被毁坏，尽管机器人本身在冲击波中幸存下来，但在这个过程中失去了记忆，所以我们无法对这种改进后的采矿设备进行回收。"
+ mem_lost_robot.101.a:0 "这是一个悲剧。"
+ mem_lost_robot_101.tooltip:0 "一个巨大的陨石坑是在星球表面产生，造成周围的人口死亡并破坏了我们的设施。"
+
+# Robot found with broken disinto
+mem_lost_robot.102.name:0 "无用的发现"
+ mem_lost_robot.102.desc.luck:0 "[Root.GetName]当局报道在野外发现了一只孤独的机器人。在报道之后，我们在森林中空地上找到了失踪的“AL”型机器人。它完全失去了理智，显然正在试图建造一个名为Disinto的采矿设备，这个设备会在星球表面形成一个大坑。幸运的是，我们及时赶到，阻止了它被激活，从而避免了灾难。"
+ mem_lost_robot.102.desc:0 "经过广泛的搜索，我们终于找到了机器人。这是一个故障单位，它试图在这个星球而不是月球上建造一个名为Disinto的采矿设备。如果被激活，该设备将在行星表面创建一个大火山口。幸运的是，该设备与其创建者一样出现故障，因此我们避免了潜在的悲剧。"
+ mem_lost_robot.102.a:0 "把它报废了做原料。"
+
+# Robot found with working disinto
+mem_lost_robot.103.name:0 "幸运的发现"
+ mem_lost_robot.103.desc.luck:0 "[Root.GetName]当局报道在野外发现了一只孤独的机器人。在报道之后，我们在森林中空地上找到了失踪的“AL”型机器人。我们还发现了一个Disinto，一个在[Root.GetName]的月球上使用的挖掘设备，机器人正在建造它。\n\n仔细检查后发现，机器人似乎将Disinto的设计改进到了我们无法想象的程度。 早期估计表明，使用这种新设计可以帮助我们大幅提高矿产量。"
+ mem_lost_robot.103.desc:0 "经过广泛的搜索，我们终于找到了机器人。我们还发现了一个Disinto，一种用于机器人在[Root.GetName]月球上建造的的采矿设备。早期的估计表明，使用这种新的设计可以帮助我们大大增加我们的矿物产量。"
+ mem_lost_robot.103.a:0 "那真的很有用。"
+
+ # Modifier
+mem_lost_robot_enhanced_mining:0 "强化开采"
+ mem_lost_robot_enhanced_mining_desc:0 "使用改进的Disinto提高了我们的矿物开采效率。"
+
+# Tile Blockers
+d_mem_lost_robot_crater:0 "Disinto陨石坑"
+ d_mem_lost_robot_crater_desc:0 "在Disinto被激活后，它留下了一个巨大的陨石坑和大范围的破坏。"

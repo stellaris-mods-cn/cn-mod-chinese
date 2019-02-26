@@ -1,0 +1,57 @@
+﻿
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ trait_mem_crawler_pet_owner: "爬行宠物"
+ trait_mem_crawler_pet_owner_desc: "这位领袖拥有一只独一无二的宠物爬行动物。"
+ trait_mem_crawler_pet_owner_ruler: "$trait_mem_crawler_pet_owner$"
+ trait_mem_crawler_pet_owner_ruler_desc: "$trait_mem_crawler_pet_owner_desc$"
+ 
+ mem_crawler_anomaly: "孤独的生命信号"
+ mem_crawler_anomaly_desc: "在原本死气沉沉的[This.GetName]表面发现了微弱的生命迹象。"
+ 
+ mem_crawler.1.name: "盒子里的虫子"
+ mem_crawler.1.desc: "在追踪到§Y[From.GetName]§!表面探测到的生命迹象后，[Leader.GetName]发现了它的来源——一个拴在小行星表面的大玻璃盒。在里面，[Leader.GetSheHe]发现了一个巨大的生物。 \n\n它有着细长的分节体，约40厘米长，被黑色几丁质板覆盖，由138条腿支撑。它的尾巴末端有一个倒钩，而它的头末端有一个大嘴巴，嘴巴上装饰着两个巨大的下颌骨，旁边长着敏感的长毛和18个不同大小的珠状眼睛，其中一半正在看[Leader.GetName]，默默的判断着[Leader.GetHerHim]的意图。 \n\n有人故意把这个容器放在这里，里面有足够的能量和供给，可以让这个生物存活很多年。问题是:我们现在该怎么办?"
+ mem_crawler.1.a: "把这个生物交给[Leader.GetName]。"
+ mem_crawler.1.xenophile: "它太可爱了!我们应该照顾好它。"
+ mem_crawler.1.b: "拿去[Owner.Capital_Scope.GetName]解剖。"
+ mem_crawler.1.c: "杀了它!用火杀死它!"
+ mem_crawler.1.swarm: "让[Leader.GetName]吃掉这个生物。"
+ 
+ mem_crawler.2.name: "宠物爬虫"
+ mem_crawler.2.desc: "随着它的前任主人的去世，这个爬行生物已经被转移到了[new_owner.GetName]。\n\n[new_owner.GetSheHeCap]承诺会好好照顾这个生物。"
+ mem_crawler.2.tooltip: "§Y[new_owner.GetName]§!成为爬行生物的新所有者。"
+ 
+ mem_crawler.4.name: "宠物爬虫"
+ mem_crawler.4.desc: "报告指出，在[From.Leader.GetName]管理下的宠物爬虫在最近的一次交战中丧生。"
+ mem_crawler.4.a: "耻辱。"
+ 
+ mem_crawler.5.name: "宠物爬虫"
+ mem_crawler.5.desc: "在[crawler_owner.GetName]的照顾下，爬行生物表现得比预期的更聪明。 \n\n这种生物能够识别路过的人，并与他们建立联系，当负责喂养它或维护它的栖息地的人走近时，它会表现出兴奋。当不被打扰的时候，它看起来很友好，有时甚至很好玩。"
+ 
+ mem_crawler.6.name: "爬虫死了"
+ mem_crawler.6.desc: "[crawler_owner.GetName]报告说[crawler_owner.GetHerHis]护理的爬虫已经死了。 \n\n今晚，它在它最喜欢的地方最后一次躺在一盏加热灯下，盘成一团，停止了呼吸。从那以后就没有发现任何生命迹象，而这种生物的高龄可能是罪魁祸首。由于我们还不知道这种生物的起源，也不知道其他地方是否有其他爬行动物，我们很有可能目睹了这种物种的完全灭绝。"
+ mem_crawler.6.a: "安息吧。"
+ mem_crawler.6.b: "宣布今日为全国爬虫节。"
+ mem_crawler.6.c: "现在我们可以安全地解剖它了。"
+ 
+ mem_crawler.10.desc: "它已经到了我们的注意,你的一个公民,[crawler_owner.GetName]，收养了一种你们称之为§Y爬行者§!的爬行动物外星生物作为宠物。\n\n该生物与[request_sender.GetName]的创始神圣文本中的描述相吻合——一个强大的恶魔，吞噬虚空的黑暗者。在怪物变得更强大之前杀死它是非常重要的。"
+ mem_crawler.10.a: "我们不是为了某个传说而杀了我们的宠物。"
+ mem_crawler.10.a.mat: "这是愚蠢的。你也是愚蠢的。"
+ mem_crawler.10.a.spi: "我们的圣经里没有这样的记载。"
+ mem_crawler.10.b: "很好。事情会成功的。"
+ mem_crawler.10.b.tooltip: "宠物将从我们的领地上移除。"
+ mem_crawler.11.desc: "你好。 \n\n我们的[request_sender.GetRulerTitle][request_sender.Ruler.GetName]是一个伟大的收藏家和有着异国情调的存在。我们注意到你发现了一种独特的生物，你称之为爬行动物。 \n\n如果你愿意出售,我们将支付你 £energy §Y1000§!。我们成交了吗?"
+ mem_crawler.11.a: "不成交。"
+ mem_crawler.11.b: "成交。"
+ mem_crawler.11.b.tooltip: "爬虫将从我们这里移走并转移到[request_sender.Ruler.GetTitle] [request_sender.Ruler.GetName]的动物园。"
+ mem_crawler.12.desc: "作为银河系生命的保护者，收集濒危物种是我们义不反顾的责任。你所说的爬虫是我们感兴趣的。 \n\n如果您愿意交给我们，我们将不胜感激。我们会好好照顾它的，我们保证。"
+ mem_crawler.12.a: "不会发生的。"
+ mem_crawler.12.b: "很好。"
+ mem_crawler.12.b.tooltip: "$mem_crawler.10.b.tooltip$"
+ 
+ mem_crawler_harboring: "窝藏恶魔"
+ mem_crawler_killed: "杀死恶魔"
+ mem_crawler_denied_request: "拒绝出售爬虫"
+

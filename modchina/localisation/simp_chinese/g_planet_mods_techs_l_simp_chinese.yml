@@ -1,0 +1,65 @@
+﻿l_simp_chinese:
+
+ ###################################################
+ # Techs
+ ###################################################
+ 
+ # 1 tech
+ tech_gpm_tb_Toxic_Gas:0 "投放化学中和剂"
+ tech_gpm_tb_Toxic_Gas_desc:0 "想要清除漂浮在这片土地上的有毒气体是很难的。我们最好的是在它们上面喷洒一层化学中和剂。"
+ #----- Patch 1.9
+ tech_gpm_tb_Toxic_Gas_hive_mind:0 "全球传播中和剂"
+ tech_gpm_tb_Toxic_Gas_desc_hive_mind:0 "这个群体将竭尽全力在这些星球上传播化学中和剂。"
+ tech_gpm_tb_Toxic_Gas_machine_intelligence:0 "非腐蚀性合金"
+ tech_gpm_tb_Toxic_Gas_desc_machine_intelligence:0 "通过使用我们的标准化建筑材料和一种特殊的非腐蚀性合金元素，我们可以将有毒气体从我们的建筑中排出。"
+ #-----
+ 
+ # 2 tech
+ tech_gpm_tb_Unusual_Formations:0 "大规模拆除"
+ tech_gpm_tb_Unusual_Formations_desc:0 "由于这些地层拥有不稳定的性质，我们只需要一些炸药。"
+ #----- Patch 1.9
+ tech_gpm_tb_Unusual_Formations_machine_intelligence:0 "有序的清理"
+ tech_gpm_tb_Unusual_Formations_desc_machine_intelligence:0 "这个星球地形结构的完整性是高度变化的，为了更有效的建设和改造，我们需要重新整顿地形。"
+ #-----
+ 
+ # 3 tech
+ tech_gpm_tb_Locust_Plagues:0 "天敌"
+ tech_gpm_tb_Locust_Plagues_desc:0 "通过将无害的天敌引入生态环境中，我们应该能够控制蝗群泛滥。我们非常肯定这个计划不会出问题。"
+ #----- Patch 1.9
+ tech_gpm_tb_Locust_Plagues_hive_mind:0 "系统性灭绝"
+ tech_gpm_tb_Locust_Plagues_desc_hive_mind:0 "为了有效与这些虫群作战，我们应该区分部门和户外工作领域。使用专门的设备和生物学的天敌来系统地消灭蝗虫群。"
+ tech_gpm_tb_Locust_Plagues_machine_intelligence:0 "人工捕食者"
+ tech_gpm_tb_Locust_Plagues_desc_machine_intelligence:0 "我们精密制作的机械昆虫将被派出捕杀每一个蝗虫。"
+ #-----
+ 
+ # 4 tech
+ tech_gpm_tb_Seasonal_Flooding:0 "洪水管理"
+ tech_gpm_tb_Seasonal_Flooding_desc:0 "洪灾应对策略通常涉及多个工程项目，它们大体可归为两类。硬性工程项目包括建造人工结构，通过科学、技术和一点蛮力的结合来防止河流泛滥。软性工程项目则相反，那些项目利用自然资源和当地对河流的知识来减少洪水造成的损失。"
+ #----- Patch 1.9
+ tech_gpm_tb_Seasonal_Flooding_machine_intelligence:0 "防洪排水系统"
+ tech_gpm_tb_Seasonal_Flooding_desc_machine_intelligence:0 "人工蓄水池和地下排水系统可用来缓冲由于自然或改造星球变化中出现的任何洪水。"
+ #-----
+ 
+ # 5 tech
+ tech_gpm_tb_Arachnophobia:0 "它们可不是闹着玩的！"
+ tech_gpm_tb_Arachnophobia_desc:0 "如果可以的话，我们也想乘坐下一艘飞船离开这里！遗憾的是我们不能，所以我们必须处理这些巨型蜘蛛。也许一个巨大的火焰喷射器可以做到这点，毕竟带火的玩意儿§R总是§!那么可靠！"
+ #----- Patch 1.9
+ tech_gpm_tb_Arachnophobia_hive_mind:0 "围剿它们的巢穴"
+ tech_gpm_tb_Arachnophobia_desc_hive_mind:0 "在这些巨型蜘蛛的巢穴周围，将安装一个控制细胞的系统。这将极大减少他们的繁殖数量并维持在一个我们可以接受的范围里。而那些在系统影响下残存的蜘蛛将被猎杀。"
+ tech_gpm_tb_Arachnophobia_machine_intelligence:0 "控制蜘蛛群"
+ tech_gpm_tb_Arachnophobia_desc_machine_intelligence:0 "强行植入机械控制单元将使我们能够支配这些蛛形纲动物的行为。我们也可以下达指令杀死他们。一个编组的无人机将被用来诱捕、引导，并将这些控制装置植入蜘蛛的大脑中。"
+ #-----
+ 
+ # 6 tech
+ tech_gpm_tb_Dunes:0 "清除沙丘"
+ tech_gpm_tb_Dunes_desc:0 "沙丘清除项目包括成功种植植被。仅仅在沙漠地区散布和留下种子是一种潜在的浪费，因为强风可以把种子吹走。任何沙丘或洼地中幼苗的种植都应在潮湿的条件下进行，随后覆盖一层沙子。成熟的植被个体应在深孔中种植，植株的顶部剪短，以减少风的阻力。"
+
+ # 7 tech
+ tech_gpm_arcane_deciphering:0 "奥术破译"
+ tech_gpm_arcane_deciphering_desc:0 "围绕第一个 £arcane_technology §M奥术技术§!发现形成一个研究基地，并就如何处理这种奇怪技术的进一步人工制品制定指导方针。"
+ gpm_arcane_deciphering_desc:0 "§H解锁法令:§! 神秘法令"
+
+ # 8 tech
+ gpm_tech_space_surveying:224 "行星测量"
+ gpm_tech_space_surveying_desc:224 "在你的殖民星系中，解开行星决策，将资源集中到不适合居住的星球上。"
+ gpm_space_surveying_desc:224 "解开不适合居住的星球决策"

@@ -1,0 +1,80 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+
+edict_acot_mod_menu_edict: "§Y打开ZOFE ACOT菜单§!"
+edict_acot_mod_menu_edict_desc: "用你扭曲现实的力量来决定在这个你决定要篡改的小星系里什么东西应该被允许，什么东西不应该被允许。\n\n副作用包括健忘症，脱发，四度烧伤，可怕的伤害和模因感染。在没有第35类奇点事件的情况下不要调用这个。"
+
+edict_acot_execute_all_hedonist: "处决所有享乐主义者。"
+edict_acot_execute_all_hedonist_desc: "这些无用的白痴正在把我们的帝国拖垮，就像那些堕落的傻瓜一样。我们必须清除这个弱点，如果它们没有用处，那么它们就必须死亡。不要给任何机会，因为如果这些可恨的昆虫，可恨的小斑点被允许入侵我们的帝国。他们会把我们的帝国变成废墟。"
+
+edict_acot_fight_hedonism: "胜利通过牺牲"
+edict_acot_fight_hedonism_desc: "在危难时刻，我们必须抛弃个人的欲望，团结起来反对威胁我们所有人的敌人。和平与安宁的时刻将稍后到来，但就目前而言，我们必须为未来而战。\n\n我们所有的父辈都必须记住如何战斗，如何发挥他们的力量，即使这只是暂时的。"
+
+acot_mod_options_title: "古老隐藏技术选项菜单"
+acot_mod_options_desc: "这个菜单允许你禁用你想要摆脱的ACOT中的某些元素，以防万一你不喜欢/有更好的东西，这些东西让这里的东西变成一个笑话或者更糟糕，但不会阻止FE。 暗物质技术是暗物质力量可以获得的任何帝国的技术。 这是FE的技术。 巅峰层技术是FE技术的改进，也是AFE将逐步获得的。"
+
+acot_mod_options.1.a: "武器技术§G启用§!. §R禁用§!?"
+acot_mod_options.1.a.tooltip: "禁用所有ACOT 暗物质技术和巅峰武器技术。 已经研究过的组件仍然可用。\n\n§R警告§!: 某些武器在暗能量反应堆和推进器后面被控制。 如果这些是禁用的，它们也是无法获得的。"
+acot_mod_options.1.b: "武器技术§R禁用d§!. §G启用§!?"
+acot_mod_options.1.b.tooltip: "启用所有ACOT 暗物质技术和Ascended-Tier武器技术，只要满足所有其他条件，它们就会变得可研究。"
+
+acot_mod_options.2.a: "防御性组件§G启用§!. §R禁用§!?"
+acot_mod_options.2.a.tooltip: "禁用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 已经研究过的组件仍然可用。\n\n§R警告§!: 禁用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 已经研究过的组件仍然可用。..."
+acot_mod_options.2.b: "防御性组件§R禁用d§!. §G启用§!?"
+acot_mod_options.2.b.tooltip: "启用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 只要满足所有其他条件，它们将变得可研究。"
+
+acot_mod_options.3.a: "辅助组件§G启用§!. §R禁用§!?"
+acot_mod_options.3.a.tooltip: "禁用所有ACOT辅助技术，包括每种武器类型的武器核心。 已经研究过的组件仍然可用。"
+acot_mod_options.3.b: "辅助组件§R禁用d§!. §G启用§!?"
+acot_mod_options.3.b.tooltip: "启用所有ACOT辅助技术，包括每种武器类型的武器核心。"
+
+acot_mod_options.4.a: "舰船电脑§G启用§!. §R禁用§!?"
+acot_mod_options.4.a.tooltip: "禁用所有ACOT船舶技术，包括反应堆，跳跃驱动器，推进器和传感器。 已经研究过的组件仍然可用。\n\n§R警告§!: 禁用此功能将使许多其他ACOT技术无法用于研究。"
+acot_mod_options.4.b: "舰船电脑§R禁用d§!. §G启用§!?"
+acot_mod_options.4.b.tooltip: "启用所有ACOT船舶技术，包括反应堆，跳跃驱动器，推进器和传感器。"
+
+acot_mod_options.5.a: "陆军技术§G启用§!. §R禁用§!?"
+acot_mod_options.5.a.tooltip: "禁用所有ACOT军队技术。 现有的军队将继续§Yactive§!,他们将永远困扰你的帝国，没有什么是你可能希望完成以结束这种可怕的命运。"
+acot_mod_options.5.b: "陆军技术§R禁用d§!. §G启用§!?"
+acot_mod_options.5.b.tooltip: "启用所有ACOT军队技术，让你的帝国招募/建造/训练/变形/召唤/召唤/实现AE级军队。"
+
+acot_mod_options.6.a: "建筑技术§G启用§!. §R禁用§!?"
+acot_mod_options.6.a.tooltip: "禁用所有ACOT建筑技术。 已经建造的建筑物仍然可用，迫使你的帝国质疑银河系的现实，为什么他们可以拥有在这个星系循环中不被理解的建筑物，其存在被拒绝。 你的人民很快就会意识到生存的无用。"
+acot_mod_options.6.b: "建筑技术§R禁用d§!. §G启用§!?"
+acot_mod_options.6.b.tooltip: "启用所有ACOT建筑技术。 恭喜，你已经决定启用这个mod可能最着名的技术人员...为什么你再次禁用它？ 必须是千兆堡垒。"
+
+acot_mod_options.7.a: "轨道轰炸/灭绝令§G启用§!. §R禁用§!?"
+acot_mod_options.7.a.tooltip: "禁止玩家和AI使用惩罚和外部轰炸的能力。 有用的，如果你搞砸了，并希望通过撕裂现实的面料来欺骗你的胜利之路，并防止你的敌人把你的世界变成汤罐。"
+acot_mod_options.7.b: "轨道轰炸/灭绝令§R禁用d§!. §G启用§!?"
+acot_mod_options.7.b.tooltip: "启用玩家和AI的能力，使用惩罚和外部轰炸。 兄弟之战!!，今天敌人在我们家门口。 我们知道自己的职责，我们会做到。 我们为升华帝国作为前体而奋斗，我们以皇太子的名义进行战斗。 如果我们今天死了，我们就会死。 但是§R不§!,我们不会§R死§！。 它将是品尝§R死亡§的敌人！ 和§R失败§！。 你知道吗...§REXTERMINATUS§！"
+
+acot_mod_options.8.a: "执政道德技术§G启用§!. §R禁用§!?"
+acot_mod_options.8.a.tooltip: "禁用所有ACOT独特的基于道德的技术。 即使您已经明确告诉游戏不这样做，已经研究过的技术也会给予奖励，对您来说没有希望。 结束了，阿纳金。 我有制高点。"
+acot_mod_options.8.b: "执政道德技术§R禁用d§!. §G启用§!?"
+acot_mod_options.8.b.tooltip: "启用所有ACOT独特的基于道德的技术。 如果您已经研究过它们，它们将再次成为可构建的。 是时候浪费所有这些影响。"
+
+acot_mod_options.9: "设置AI的资源加成"
+acot_mod_options.9.tooltip: "设定AE AI应该获得多少额外资源，选择不给他们任何资源将很可能导致他们非常弱，不能成为一个威胁。"
+
+acot_mod_options.exit: "我必须离开，我的人民需要我。"
+acot_mod_options.exit.tooltip: "你将结束这种明显不自然，腐败的现实弯曲的力量，并回到你的总体规划，这可能涉及为堕落的仇外事件做一些真正可怕的事情。 至少那是你应该做的。\n\nDO IT ANAKIN.  I am Batman"
+
+
+acot_mod_options.200: "AE AI难度设置"
+
+acot_mod_options.200.a: "将AE AI的加成改为 : §W无§!"
+acot_mod_options.200.b: "将AE AI的加成改为 : §Y基本§!"
+acot_mod_options.200.c: "将AE AI的加成改为 : §GOPAF§!"
+
+acot_mod_options.200.a.desc: "使用此选项将AE的加成更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §R无§!\n\nAE AI不会有任何加成，他们会公平竞争，很有可能死于自己的愚蠢和无能。如果你喜欢一款只有你自己才能表现出色的游戏，那就太好了。"
+acot_mod_options.200.b.desc: "使用此选项将AE的奖金更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §G基本§!\n\nAE AI将从其基本资源中获得一笔固定的加成，这或多或少会让它们作为一个适当的AE发挥作用。很好，如果你至少认为AI是一个相当大的威胁。"
+acot_mod_options.200.c.desc: "使用此选项将AE的奖金更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §BOPAF§!\n\nAE AI会在正常收入的两倍的基础上获得双倍的收入，如果你真的想让AE AI对你造成威胁的话。也许这一次AI真的会杀了你(但很可能不会)"
+
+ easy_acot: "HEHE"
+ easy_acot_desc: "噢,是的"
+ hard_acot: "我有POWARRRRRRRRRRRRRRRRRRRRRR"
+ hard_acot_desc: "阿尔萨斯!在阿尔萨斯还没死之前阻止它阿尔萨斯!"
+
+ return_to_menu: "返回主要选项"

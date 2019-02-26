@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+ 
+ ######################################################
+ ######################################################
+ #####                                            #####
+ #####    Crisis Manager                          #####
+ #####                                            #####
+ #####    Temp. fix of a bug in Vanilla:          #####
+ #####    Purging of Prethoryn and Contingency    #####
+ #####                                            #####
+ ######################################################
+ ###################################################### 
+ 
+ CmtModifierPrethorynPurging:0 "虫群的猎物"
+ CmtModifierPrethorynPurging_desc:0 "虫群正在捕猎星球上的平民。\n§Y1§! 将会每§Y10§减少1£pop£."
+ CmtModifierContingencyPurging:0 "肃正的对象"
+ CmtModifierContingencyPurging_desc:0 "肃正协议正在清除星球上的平民。\n§Y1§! 将会每§Y10§减少1£pop£."
+ 
+ 
+ 

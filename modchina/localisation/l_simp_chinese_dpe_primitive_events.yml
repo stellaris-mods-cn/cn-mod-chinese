@@ -1,0 +1,123 @@
+﻿l_simp_chinese:
+
+mem_dpe_primitives.2.name:0 "天空之光"
+mem_dpe_primitives.2.primitive:0 "[mem_dpe_primitive_planet.GetName]上的原始文明见证了最近在[mem_dpe_primitive_system.GetName]星系中发生的太空战斗，对他们来说，这似乎是无法解释的天空中的巨型闪光，他们把这解释为他们的神之间的战斗——从某种意义上说，这是对的。"
+mem_dpe_primitives.2.renaissance:0 "[mem_dpe_primitive_planet.GetName]上的原始文明见证了最近在[mem_dpe_primitive_system.GetName]星系中发生的太空战斗，对他们来说，这似乎是无法解释的天空中的巨型闪光，他们正在萌芽的天文学界一直在不知所措地解释这些目击事件——不过许多更迷信的人把它解释为某种来自神的信息，或者说是神与神之间的战斗——从某种意义上说，这是对的。"
+mem_dpe_primitives.2.machine:0 "[mem_dpe_primitive_planet.GetName]上的原始文明见证了最近在[mem_dpe_primitive_system.GetName]星系中发生的太空战斗，对他们来说，这似乎是无法解释的天空中的巨型闪光，尽管他们对天文学的理解越来越深入，但科学家们仍被天空中无法解释的光和闪光的目击所困扰，这与他们以前见过的情况完全不相符——这就为星球上的阴谋论者提供了证据，他们——正确地说，事实上——相信在[mem_dpe_primitive_system.GetName]星系中存在着外星人，尽管到目前为止他们还没有办法证明这一点——从某种意义上说，这是对的。"
+mem_dpe_primitives.2.space_age:0 "[mem_dpe_primitive_planet.GetName]上的原始文明见证了最近在[mem_dpe_primitive_system.GetName]星系中发生的太空战斗，他们的天文学家在他们的力所能及的范围内建立了一个相对简陋的银河系图像，并计划派遣几架无人机去调查受战争影响的系统区域，现在在[mem_dpe_primitive_civ.GetSpeciesAdj]社会中，许多人公开推测这是外星人活动的证据，他们发现我们的存在只是时间问题。"
+
+mem_dpe_primitive_events.2.amusing:0 "有趣."
+mem_dpe_primitive_events.2.irrelevant:0 "我们对原始异种的所作所为不感兴趣."
+mem_dpe_primitive_events.2.terminator:0 "消灭他们的计划将提上议程."
+mem_dpe_primitive_events.2.devourer:0 "已经到了收获食物的时候了."
+
+ mem_dpe_primitive_events.3.name:0 "持续无线电信号"
+ mem_dpe_primitive_events.3.desc.evil:0 "我们正在收集一些来自[mem_dpe_primitive_planet.GetName]上早期太空时代文明的持续、重复的无线电信号。它似乎指向星系中我们的太空基地，这似乎表明他们已经探测到我们的存在."
+ mem_dpe_primitive_events.3.desc:0 "$mem_dpe_primitive_events.3.desc.evil$ 我们的科学家正致力于破译信息."
+ mem_dpe_primitive_events.3.desc.gestalt:0 "$mem_dpe_primitive_events.3.desc.evil$ 我们已经指定了一个子程序来破译消息."
+ mem_dpe_primitive_events.3.option.evil:0 "我们对他们毫无价值的废话一点也不在乎."
+
+ mem_dpe_primitive_events.5.name:0 "来自[mem_dpe_primitive_civ.GetSpeciesAdj]的消息"
+ #I tried to make this easier for translators and less bloating on the word count
+ mem_dpe_primitive_events.5.desc.message_start:0 "告那些在我们的天空中旅行的人：\n\n这条信息来自于由[mem_dpe_primitive_civ.GetSpeciesAdj]所有主要国家组成的国际议会.\n\n我们不知道你是谁。我们只能假设您注意到我们的存在，但出于某种原因选择不与我们联系。毫无疑问，我们对你是无害的，因为即使我们想伤害你，我们也无法做到."
+ mem_dpe_primitive_events.5.desc.spiritualist:0 "$mem_dpe_primitive_events.5.desc.message_start$ 我们无法想象你们的成就,无法猜测你们在星空行走时发现的至真之理.在这无法言说的时候，我们唯一的兴趣是确保[mem_dpe_primitive_civ.GetSpeciesAdj]种族的生存延续.\n\n由于无法再向人民隐藏你们存在的信息,我们决定联系你们，以展示友好与合作的意愿。 或许我们现在无法匹敌你们的实力,但在你们的友好指引下，或许在数年后,我们会与你们一样在星空中漫步.发现那恒古不变的真理，当那一天成为现实时, 我们希望成为你们的朋友和伙伴,而非你们眼中的异端与敌人。我们真挚而谦卑的希望你们能同意我们的请求.\n\n我们将在希望与战栗中等待你们的回应.\n\n您谦卑的\n[mem_dpe_primitive_civ.GetSpeciesAdj]联合议会。"
+ mem_dpe_primitive_events.5.desc.else:0 "$mem_dpe_primitive_events.5.desc.message_start$ 在这不确定的时候，我们唯一的兴趣是确保[mem_dpe_primitive_civ.GetSpeciesAdj]种族的生存延续.\n\n由于无法再向人民隐藏你们存在的信息,我们决定联系你们，以展示友好与合作的意愿。 或许我们现在无法匹敌你们的实力,但在你们的友好指引下，或许在数年后我们将会成为你们谦卑的附庸。我们真挚而谦卑的希望你们能同意我们的请求.\n\n我们将在希望与战栗中等待你们的回应.\n\n您谦卑的\n[mem_dpe_primitive_civ.GetSpeciesAdj]联合议会。"
+ mem_dpe_primitive_events.5.A:0 "不要回答."
+ mem_dpe_primitive_events.5.B:0 "我们欢迎你们来到银河系社区."
+ mem_dpe_primitive_events.5.B.tooltip:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural]将会成为[root.GetSpeciesAdj]的保护对象."
+ mem_dpe_primitive_events.5.B.tooltip.inwards_protection:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural]将会成为[root.GetSpeciesAdj]的附庸."
+ mem_dpe_primitive_events.5.C:0 "原始物种配不上我们的帝国."
+ mem_dpe_primitive_events.5.D:0 "你将臣服于我们面前, [mem_dpe_primitive_civ.GetSpeciesNamePlural]."
+
+
+ mem_dpe_primitive_events.6.name:0 "[mem_dpe_primitive_civ.GetSpeciesAdj]的回应"
+ mem_dpe_primitive_events.6.desc:0 "听到这个消息我们很难过,我们将加倍努力，争取达到你们的高度。也许有一天，我们将一起在星空漫步."
+ mem_dpe_primitive_events.6.A:0 "或许吧."
+ mem_dpe_primitive_events.6.B:0 "可疑."
+
+
+
+
+ mem_dpe_primitive_events.20.name:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural] 发射探测器"
+ mem_dpe_primitive_events.20.desc:0 "尽管我们拒绝与他们联系，但似乎 [mem_dpe_primitive_civ.GetSpeciesNamePlural]向我们的太空基地发射了一个探测器以对我们进行调查，如果允许探测器到达我们的太空基地附近，我们将无法阻止他们发现我们的存在。我们应该采取什么行动？"
+ mem_dpe_primitive_events.20.A:0 "摧毁探测器."
+ mem_dpe_primitive_events.20.B:0 "让探测器找到我们."
+ mem_dpe_primitive_events.20.C:0 "联络: $mem_dpe_primitive_events.5.B$"
+ mem_dpe_primitive_events.20.D:0 "联络: $mem_dpe_primitive_events.5.C$"
+ mem_dpe_primitive_events.20.E:0 "联络:  $mem_dpe_primitive_events.5.D$"
+
+ mem_dpe_primitive_events.21.name:0 "我们被发现了"
+ mem_dpe_primitive_events.21.desc:0 "[mem_dpe_primitive_civ.GetSpeciesAdj]的探测器已经在 [mem_dpe_primitive_system.GetName] 星系中发现了我们的太空基地. 它已经轨道运行了好几次，拍摄了许多我们的空间站的图像，并将这些图像传回[mem_dpe_primitive_planet.GetName],这系列照片在[mem_dpe_primitive_civ.GetSpeciesNamePlural]中引起了相当大的轰动，代表了外星人在其星系中存在的不可否认的证据。关于如何应对这一事态的争论正在进行中。"
+ mem_dpe_primitive_events.21.desc.no_post:0 "[mem_dpe_primitive_civ.GetSpeciesAdj]的探测器已经在 [mem_dpe_primitive_system.GetName] 星系中发现了我们的太空基地. 它已经轨道运行了好几次，拍摄了许多我们的空间站的图像，并将这些图像传回[mem_dpe_primitive_planet.GetName],这系列照片在[mem_dpe_primitive_civ.GetName]中引起了相当大的轰动，代表了外星人在其星系中存在的不可否认的证据。关于如何应对这一事态的争论正在进行中。"
+ mem_dpe_primitive_events.21.option:0 "我们将监控局势变化."
+
+ mem_dpe_primitive_events.12.name:0 "$mem_dpe_primitive_events.5.name$"
+ mem_dpe_primitive_events.12.desc:0 "致那些随意践踏我们领土的人：\n\n这是一条来自[mem_dpe_primitive_civ.GetSpeciesAdj]联合国际议会的信息。\n\n请注意，这个星系已经是有物种定居的了，它属于[mem_dpe_primitive_civ.GetSpeciesAdj]的人民,我们将战斗至最后一刻，以确保该星系的安全.。你们或许在科技的成就远远超出我们的想象，但是我们枕戈待旦,我们正义不屈。撤出这个星系,不然即视为与我们开战.\n\n[mem_dpe_primitive_civ.GetSpeciesAdj]联合国际议会"
+ mem_dpe_primitive_events.12.A:0 "不要回答."
+ mem_dpe_primitive_events.12.B:0 "如你所愿。我们将尊重你们的主权."
+ mem_dpe_primitive_events.12.C:0 "傲慢的孩子们！你将臣服于我们的巨舰大炮!"
+
+ mem_dpe_primitive_snub:0 "傲慢"
+
+ mem_dpe_primitive_events.16.name:0 "不可能发生的叛乱"
+ mem_dpe_primitive_events.16.desc:0 "我们在[mem_dpe_primitive_planet.GetName]上的观察站报告[mem_dpe_primitive_civ.GetSpeciesNamePlural]已经将搜索探测器的毁灭视为星系中存在敌意外星生物的证据，并开始准备一支原始但高度武装的太空舰队，显然，他们希望消灭在[mem_dpe_primitive_system.GetName] 中我们的存在。"
+ mem_dpe_primitive_events.16.desc.probe:0 "我们在[mem_dpe_primitive_planet.GetName]上的观察站报告[mem_dpe_primitive_civ.GetSpeciesNamePlural]开始准备一支原始但高度武装的太空舰队，显然，他们希望消灭在[mem_dpe_primitive_system.GetName] 中我们的存在。"
+ mem_dpe_primitive_events.16.option:0 "我们将做好准备."
+ 
+ mem_dpe_primitive_events.17.name:0 "原始打击舰队侦测"
+ mem_dpe_primitive_events.17.desc:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural]的一支打击舰队出发了！几十艘“原始巡洋舰”正驶向我们的太空基地。整个[mem_dpe_primitive_civ.GetSpeciesAdj] 都屏息凝望着他们的媒体节目，他们文明的命运取决于这次任务的结果"
+ mem_dpe_primitive_events.17.desc.post:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural]的一支打击舰队出发了！几十艘“原始巡洋舰”正驶向我们的太空基地。整个[mem_dpe_primitive_civ.GetSpeciesAdj] 都屏息凝望着他们的媒体节目，他们文明的命运取决于这次任务的结果"
+ mem_dpe_primitive_events.17.option:0 "武器系统准备!"
+ mem_dpe_primitive_events.17.tooltip:0 "三十艘原始巡洋舰正朝着我们的[mem_dpe_primitive_system.GetName]太空基地驶去!"
+ 
+ MEM_DPE_PROTO_CORVETTE_MID_S3:0 "Proto-Corvette Section"
+ mem_dpe_proto_corvette:0 "Proto-Corvette"
+ mem_dpe_proto_corvette_plural:0 "Proto-Corvettes"
+ shipsize_mem_dpe_proto_corvette_construction_speed_mult:0 ""
+ shipsize_mem_dpe_proto_corvette_build_cost_mult:0 ""
+ shipsize_mem_dpe_proto_corvette_upkeep_mult:0 ""
+
+
+
+ mem_dpe_primitive_events.30.name:0 "[mem_dpe_primitive_civ.GetSpeciesAdj]舰队被摧毁"
+ mem_dpe_primitive_events.30.desc:0 "我们已经摧毁了 [mem_dpe_primitive_civ.GetSpeciesAdj] 的原始舰队。 [mem_dpe_primitive_civ.GetSpeciesNamePlural]的命运由我们决定。我们应该怎么做?"
+ mem_dpe_primitive_events.30.desc.help:0 "[from.GetName]已经为我们摧毁了[mem_dpe_primitive_civ.GetSpeciesAdj]的舰队。[mem_dpe_primitive_civ.GetSpeciesNamePlural]的命运由我们决定。我们应该怎么做?"
+ mem_dpe_primitive_events.30.desc.unasked_for_help:0 "[from.GetName]已经为我们摧毁了[mem_dpe_primitive_civ.GetSpeciesAdj]的舰队。 但是，由于我们目前无法控制[mem_dpe_primitive_system.GetName]星系，因此我们无法从这一轮事件中获益。"
+ mem_dpe_primitive_events.30.A:0 "灭绝他们"
+ mem_dpe_primitive_events.30.B:0 "要求他们投降"
+ mem_dpe_primitive_events.30.C:0 "我们不希望他们进入我们的帝国"
+ mem_dpe_primitive_events.30.C.tooltip:0 "为了避免进一步的冲突，我们将把[mem_dpe_primitive_system.GetName]交给他们"
+
+ mem_dpe_primitive_events.31.name:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural] 不复存在"
+ mem_dpe_primitive_events.31.desc:0 "看来[mem_dpe_primitive_planet.GetName]的联合政府对他们即将被征服的结果感到非常痛苦，以至于他们实施了一个毁灭性的最终解决方案：核毁灭。整个[mem_dpe_primitive_civ.GetSpeciesAdj]的核武库同时发射，袭击了每个主要的人口中心。这个星球几乎立刻变成了核荒地。这场灾难的少数幸存者很快就会死于辐射中毒。"
+
+ mem_dpe_primitive_events.32.name:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural]投降"
+ mem_dpe_primitive_events.32.desc:0 "我们无法承受你的进攻，[root.GetSpeciesName]。我们投降。"
+
+ mem_dpe_destroy_primitives:0 "寸草不生"
+ mem_dpe_destroy_primitives_DESC:0 "消灭那些敢于反抗我们的原始人."
+ 
+ mem_dpe_primitive_events.33.name:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural] 不复存在"
+ mem_dpe_primitive_events.33.desc:0 "我们已经完全消灭了定居于 [mem_dpe_primitive_planet.GetName]的原始人,现在这个星球正等待我们的殖民者去开拓"
+
+
+ mem_dpe_primitive_events.35.name:0 "我们失去了对[mem_dpe_primitive_system.GetName]星系的控制"
+ mem_dpe_primitive_events.35.desc:0 "[mem_dpe_primitive_civ.GetSpeciesNamePlural]摧毁了我们的太空基地！他们将能够从我们设施的残骸中获取星级航行技术，他们将很快能够离开星系的边界！"
+ mem_dpe_primitive_events.35.tooltip:0 "如果我们不在720天内摧毁 [mem_dpe_primitive_civ.GetSpeciesNamePlural] , 他们将成为一个完整的太空国家"
+
+ mem_dpe_primitive_events.36.name:0 "[mem_dpe_primitive_system.GetName]星系失去控制权"
+ mem_dpe_primitive_events.36.desc:0 "[mem_dpe_primitive_civ.GetName]从我们太空基地的残骸中解开了FTL引擎的秘密，他们现在有资格成为银河系的星际国家。"
+ mem_dpe_primitive_events.36.tooltip:0 "[mem_dpe_primitive_civ.GetName] 获得了FTL科技. [mem_dpe_primitive_system.GetName] 星系的控制权被他们夺取了"
+
+ mem_dpe_primitive_events.37.name:0 "正在传输的信息"
+ mem_dpe_primitive_events.37.desc.hostile:0 "致那些压迫我们的人:\n\n你们在我们母星系的存在已经被完全消灭，你们不受欢迎,任何进一步的越界都会引起全面战争"
+ mem_dpe_primitive_events.37.desc.conciliatory:0 "[root.GetSpeciesNamePlural],如你所知，我们已经从你手中夺取了属于我们的东西。然而，我们不希望持久的敌对行动。我们两国人民之间没有必要持续敌对。请接受我们和平的请求。"
+ mem_dpe_primitive_events.37.A:0 "如你所愿"
+ mem_dpe_primitive_events.37.B.hostile:0 "我们将重获属于我们的东西"
+ mem_dpe_primitive_events.37.B.conciliatory:0 "和平？很快你将会见识什么是真正的“和平”"
+ mem_dpe_primitive_events.37.C:0 "异种渣滓! 在这个银河系里没有你的位置。"
+ mem_dpe_primitive_events.37.D:0 "为什么食物会说话?"
+ mem_dpe_primitive_events.37.E:0 "<<<启用武器协议>>>"
+
+ mem_dpe_primitive_conflict:0 "家园星系冲突"
+ mem_dpe_primitives_boost:0 "迟到者加成"

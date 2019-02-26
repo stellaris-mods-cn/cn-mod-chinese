@@ -1,0 +1,21 @@
+﻿l_simp_chinese:
+ mem_crystal_pyramid_category:0 "奇怪的光线"
+ mem_crystal_pyramid_category_desc:0 "在[From.GetName]，人们可以在清澈透明的冰层表面下，看到一束长达数公里的光束。无论是甚麽东西发出这道光线，相对地它都能够产生庞大的能量。"
+ 
+ mem_crystal_pyramid.1.name:0 "水晶金字塔"
+ mem_crystal_pyramid.1.desc:0 "在[From.GetName]的表面下，光源终于被发现了 — 一座巨大又平滑无比的金字塔位于冰层的底部，由透明且不断变色的水晶构成，相信那道奇怪的光线由此而来。至于这座金字塔为何在这裡出现、它究竟如何发出光线、以至于它为何还在这裡，或者在跟它展开联繫之前，我们都无法解答。我们亦因此要作深入调查。"
+
+ MEM_CRYSTAL_PYRAMID_PROJECT:0 "水晶金字塔"
+ MEM_CRYSTAL_PYRAMID_PROJECT_DESC:0 "在[crystal_pyramid_planet.GetName]上调查水晶金字塔的科学家团队请求我们调派更多人手去协助考察。"
+ 
+ mem_crystal_pyramid.2.name:0 "刹那间的释放"
+ mem_crystal_pyramid.2.desc:0 "这座水晶金字塔好像在回应[Root.GetLeaderName]，在[From.GetName]冰层下的光线渐渐地变得更为强烈，之后就突然消失了，一切回复黑暗。我们其后在冰层之下发现了一个广而深的地洞，形状跟金字塔一模一样，相信这就是光源的所在地，意味著原本在这裡的东西已经不复存在。不论它消失的原因是甚麽，[Root.GetName]号都收集到足够的资料和能量。"
+ mem_crystal_pyramid.2.a:0 "幸好我们也不是未见过奇怪的事物。"
+ 
+ mem_crystal_pyramid.3.name:0 "更奇怪的事情"
+ mem_crystal_pyramid.3.desc:0 "当团队到达位于[crystal_pyramid_planet.GetName]底部的金字塔时，[Root.GetLeaderName]向我们报告关于这座金字塔的本质。看来这座金字塔由一种我们从未见过的物料兴建而成，而这种物料更能抵挡任何伤害。而金字塔发出的波动并没有特定的规律，但依然为我们的科学家提供了不少资讯。与此同时，社会上仍然有关于金字塔创造者身分的争论，我们需继续深入研究它。"
+ mem_crystal_pyramid.3.a:0 "有些事物总是超出我们的认知范围。"
+ 
+ mem_crystal_pyramid.4.name:0 "水晶的家族"
+ mem_crystal_pyramid.4.desc:0 "当由[Root.GetLeaderName]所带领的採矿团队到达金字塔时，它发出阵阵的暗淡红光。其中一个工人更违反了 [Root.GetLeaderName]的命令，将其紧握的肢体触碰了金字塔，在下一秒金字塔已经消失了。在同一刻，一组外星结晶体突然出现在星球上的轨道。"
+ mem_crystal_pyramid.4.a:0 "我有不祥的预兆。"

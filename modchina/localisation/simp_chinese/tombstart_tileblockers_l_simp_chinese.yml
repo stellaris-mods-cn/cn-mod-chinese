@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+# Tombstart Customized Tile Blockers
+# Bomb crater has cheaper cost but same flavor text
+ tb_tombstart_bomb_crater:0 "£blocker  弹坑"
+ tb_tombstart_bomb_crater_desc:0 "这个巨大的弹坑是由一个毁灭性的超级氢弹爆炸产生的。"
+# City Ruins has cheaper cost but same flavor text
+ tb_tombstart_city_ruins:0 "£blocker  城市遗址"
+ tb_tombstart_city_ruins_desc:0 "这里曾经是一座宏伟的都市，而现在只是一个延伸到远方的金属架构。"
+# Radioactive Wasteland has cheaper cost but same flavor text
+ tb_tombstart_radioactive_wasteland:0 "£blocker  放射性废土"
+ tb_tombstart_radioactive_wasteland_desc:0 "很少有生物能在这片荒凉、充满辐射的荒地上生存。"

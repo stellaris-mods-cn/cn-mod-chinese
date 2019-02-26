@@ -1,0 +1,549 @@
+﻿l_simp_chinese:
+ ####################################
+ # 物种 特性
+ ####################################
+ trait_latent_magic:0 "潜在的奥秘"
+ trait_latent_magic_desc:2 "§T整个物种已苏醒了引发奇迹的潜能。.§!\n"
+
+ trait_magic:0 "奥法"
+ trait_magic_desc:2 "§T现实屈服于这个物种所引发的奇迹。当他们不休时，还会需要更多的科技吗？§!\n"
+ 
+ trait_fake_magic:0 "奥法嫁接"
+ trait_fake_magic_desc:2 "§R这个物种是对自然和奇迹的憎恶，过多地强行植入奥术制品使其可以执行真正的引发奇迹之人所能执行的工作。§!\n"
+
+ ####################################
+ # 领袖 特性
+ ####################################
+ leader_trait_expertise_magic:0 "专业技术: 奥法科技。"
+ leader_trait_expertise_magic_desc:0 "经过多年的研究，这位领导者被认为是奥法科技领域的专家。"
+
+ mod_category_magic_research_speed_mult:0 "研究速度（奥法科技）"
+
+ leader_trait_magic_ascended:0 "奇迹汇聚"
+ leader_trait_magic_ascended_desc:0 "这位领袖拥有的奥法力量如此强大，甚至引发了使其不朽的奇迹。"
+
+ leader_trait_admiral_magic_ascended:0 "奇迹汇聚"
+ leader_trait_admiral_magic_ascended_desc:0 "这位领袖拥有的奥法力量如此强大，甚至引发了使其不朽的奇迹。"
+ leader_trait_general_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_general_magic_ascended_desc:0 "这位领袖拥有的奥法力量如此强大，甚至引发了使其不朽的奇迹。"
+ leader_trait_governor_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_governor_magic_ascended_desc:0 "这位领袖拥有的奥法力量如此强大，甚至引发了使其不朽的奇迹。"
+ leader_trait_scientist_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_scientist_magic_ascended_desc:0 "这位领袖拥有的奥法力量如此强大，甚至引发了使其不朽的奇迹。"
+ leader_trait_ruler_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_ruler_magic_ascended_desc:0 "这位领袖拥有的奥法力量如此强大，甚至引发了使其不朽的奇迹。"
+
+ leader_trait_admiral_magic:0 "奥法之主"
+ leader_trait_admiral_magic_desc:0 "这位领袖是一名强大的奇迹引发者。"
+ leader_trait_general_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_general_magic_desc:0 "这位领袖是一名强大的奇迹引发者。"
+ leader_trait_governor_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_governor_magic_desc:0 "这位领袖是一名强大的奇迹引发者。"
+ leader_trait_scientist_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_scientist_magic_desc:0 "这位领袖是一名强大的奇迹引发者。"
+ leader_trait_ruler_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_ruler_magic_desc:0 "这位领袖是一名强大的奇迹引发者。"
+
+ ####################################
+ # 高级资源
+ ####################################
+
+ arcane_technology:0 "奥法制品"
+ arcane_technology_desc:0 "这种神秘的制品能够通过未知的方式创造奇迹。"
+
+ mana_crystals:0 "魔力水晶"
+ mana_crystals_desc:0 "极具价值，充满了奥法能量的水晶。"
+
+ ####################################
+ # 国家理念
+ ####################################
+
+ civic_arcane_heritage:0 "奥法遗产"
+ civic_arcane_heritage_desc:0 "这个物种以某种方式进化出了引发和创造奇迹的能力。 他们的整个社会围绕着他们所拥有的奥法技术展开。\n\n以一个拥有多个奥法世界修正的星球开始游戏。\n\n初始建筑将被置换为相应的奥法建筑。\n\n解锁一系列的奥法科技。\n\n物种将拥有潜在的魔力特性。"
+
+ ####################################
+ # 殖民地类型
+ ####################################
+ #ritual.0.desc:0 "£L££O££R££E££M£  £I££P££S££U££M£  £D££O££L££O££R£  £S££I££T£  £A££M££E££T£  £C££O££N££S££E££C££T££E££T££U££R£  £A££D££I££P££I££S££C££I££N££G£  £E££L££I££T£  £S££E££D£  £D££O£  £E££I££U££S££M££O££D£  £T££E££M££P££O££R£  £I££N££C££I££D££I££D££U££N££T£  £U££T£  £L££A££B££O££R££E£  £E££T£  £D££O££L££O££R££E£  £M££A££G££N££A£  £A££L££I££Q££U££A£  £U££T£  £E££N££I££M£  £A££D£  £M££I££N££I££M£  £V££E££N££I££A££M£  £Q££U££I££S£  £N££O££S££T££R££U££D£  £E££X££E££R££C££I££T££A££T££I££O££N£  £U££L££L££A££M££C££O£  £L££A££B££O££R££I££S£  £N££I££S££I£  £U££T£  £A££L££I££Q££U££I££P£  £E££X£  £E££A£  £C££O££M££M££O££D££O£  £C££O££N££S££E££Q££U££A££T£ ."
+ 
+ col_industry:0 "工业星球"
+ col_industry_desc:1 "这个星球是民用和军用工业的混合体。"
+
+ col_factory:0 "工厂星球"
+ col_factory_desc:1 "这个星球专门从事制造业，工坊和民用工业。"
+
+ ####################################
+ # 工作类型 (部分已弃用)
+ ####################################
+ planet_alchemists:0 "奥法职业"
+ 
+ ####################################
+ # 统治者职业
+ ####################################
+ planet_minister:0 "§M 奥法部长 §!"
+
+ job_minister:0 "奥法部长"
+ job_minister_plural:0 "奥法部长"
+ job_minister_desc:0 "管理整个星球的奥法事项是艰巨的任务，需要专业且训练有素的人才。"
+ job_minister_effect_desc:0 "§H£job_minister£ §P$job_minister$§!: §G+10§!£unity£, §G+50§!£mod_planet_stability_add£!"
+ mod_job_minister_add:0 "§M$job_minister$§! §H职业§!"
+ mod_job_minister_per_pop:0 "§G+1§! $job_minister$ Job per $VALUE$ Pops"
+ mod_job_minister_per_pop_short:0 "\n§G+1§!£mod_job_minister_add£ per $VALUE$ £pop£"
+
+ job_lord_magic:0 "巫师"
+ job_lord_magic_plural:0 "巫师"
+ job_lord_magic_desc:0 "巫师是强大到令人难以置信的个体，能够单枪匹马地压制起义并使其他人的忠诚得到前所未有的提升。"
+ job_lord_magic_effect_desc:0 "§H£job_lord_magic£ §M$job_lord_magic_plural$§!: §G+5§!£unity£, §G+5§!£mod_planet_stability_add£, §G+15§!£mod_planet_amenities_add£§!"
+ mod_job_lord_magic_add:0 "§M$job_lord_magic$§! §H职业§!"
+ mod_job_lord_magic_per_pop:0 "§G+1§! §M$job_lord_magic$§! Job per $VALUE$ Pops"
+ mod_job_lord_magic_per_pop_short:0 "\n§G+1§! §M£mod_job_lord_magic_add£§! per $VALUE$ £pop£"
+ 
+ job_head_unspeakable:0 "奥法探求者之首"
+ job_head_unspeakable_plural:0 "奥法探求者之首"
+ job_head_unspeakable_desc:0 "奥法探求者之首负责协调奥法探求者，管理新知识的获取。"
+ job_head_unspeakable_effect_desc:0 "§H£job_head_unspeakable£ §P$job_head_unspeakable$§!: §G+1§!£arcane_technology£, §G+10§!£unity£, §G+5§! £mod_planet_stability_add£§!"
+ mod_job_head_unspeakable_add:0 "§P$job_head_unspeakable$§! §H职业§!"
+ mod_job_head_unspeakable_per_pop:0 "§G+1§! $job_head_unspeakable$ Job per $VALUE$ Pops"
+ mod_job_head_unspeakable_per_pop_short:0 "\n§G+1§!£mod_job_head_unspeakable_add£ per $VALUE$ £pop£"
+
+ job_magic_administrator:0 "博学者"
+ job_magic_administrator_plural:0 "博学者"
+ job_magic_administrator_desc:0 "博学者组成了奥法官僚机构的倒数第二层。 "
+ job_magic_administrator_effect_desc:0 "§H£job_magic_administrator£ §M$job_magic_administrator_plural$§!: §G+5§!£unity£, §G+6§!£mod_trade_value_add£, §G+10§!£mod_planet_amenities_add£§!"
+ mod_job_magic_administrator_add:0 "§M$job_magic_administrator$§! §H职业§!"
+ mod_job_magic_administrator_per_pop:0 "§G+1§! §M$job_magic_administrator$§! Job per $VALUE$ Pops"
+ mod_job_magic_administrator_per_pop_short:0 "\n§G+1§! §M£mod_job_magic_administrator_add£§! per $VALUE$ £pop£"
+
+ job_druid:0 "德鲁伊"
+ job_druid_plural:0 "德鲁伊"
+ job_druid_desc:0 "德鲁伊负责处理奇迹仪式的所有事物，从计算到准备，而最重要的是执行仪式。"
+ job_druid_effect_desc:0 "§H£job_druid£ §M$job_druid_plural$§!: §G+5§!£unity£, §G+15§!£society£, §G+5§!£mod_planet_amenities_add£§!"
+ mod_job_druid_add:0 "§M$job_druid$§! §H职业§!"
+ mod_job_druid_per_pop:0 "§G+1§! §M$job_druid$§! Job per $VALUE$ Pops"
+ mod_job_druid_per_pop_short:0 "\n§G+1§! §M£mod_job_druid_add£§! per $VALUE$ £pop£"
+
+ ####################################
+ # 专家职业
+ ####################################
+ job_auror:0 "傲罗"
+ job_auror_plural:0 "傲罗"
+ job_auror_desc:0 "傲罗强制执行并规范奥法科技的使用。"
+ job_auror_effect_desc:0 "§H£job_auror£ §P$job_auror_plural$§!: §R-1§!£arcane_technology£, §G+5§!£unity£, §G-25§!£crime£, §G+2§!£defense_army£§!"
+ mod_job_auror_add:0 "§P$job_auror$§! §H职业§!"
+ mod_job_auror_per_pop:0 "§G+1§! $job_auror$ Job per $VALUE$ Pops"
+ mod_job_auror_per_pop_short:0 "\n§G+1§!£mod_job_auror_add£ per $VALUE$ £pop£"
+
+ job_magizoologist:0 "奥法生物学家"
+ job_magizoologist_plural:0 "奥法生物学家"
+ job_magizoologist_desc:0 "奥法生物学家寻找、分类和记录所有奥法生物，不管它们是X级还是XXXXX级。寻找方法来控制它们，甚至在必要时消灭它们。 "
+ job_magizoologist_effect_desc:0 "§H£job_magizoologist£ §M$job_magizoologist_plural$§!: §G+5§!£unity£, §G+10§!£society£§!"
+ mod_job_magizoologist_add:0 "§M$job_magizoologist$§! §H职业§!"
+ mod_job_magizoologist_per_pop:0 "§G+1§! §M$job_magizoologist$§! Job per $VALUE$ Pops"
+ mod_job_magizoologist_per_pop_short:0 "\n§G+1§! §M£mod_job_magizoologist_add£§! per $VALUE$ £pop£"
+ 
+ job_healer:0 "治愈者"
+ job_healer_plural:0 "治愈者"
+ job_healer_desc:0 "治愈者通过引发奇迹的方式治疗普通科技所无法治愈的病人。 "
+ job_healer_effect_desc:0 "§H£job_healer£ §P$job_healer_plural$§!: §R-1§!£arcane_technology£, §G+10§!£mod_planet_amenities_add£, §G+15%§!£mod_pop_growth_speed£§!"
+ mod_job_healer_add:0 "§P$job_healer$§! §H职业§!"
+ mod_job_healer_per_pop:0 "§G+1§! $job_healer$ Job per $VALUE$ Pops"
+ mod_job_healer_per_pop_short:0 "\n§G+1§!£mod_job_healer_add£ per $VALUE$ £pop£"
+
+ job_magic_artisan:0 "魔力工匠"
+ job_magic_artisan_plural:0 "魔力工匠"
+ job_magic_artisan_desc:0 "魔力工匠利用奥法能力生产大量商品。 "
+ job_magic_artisan_effect_desc:0 "§H£job_magic_artisan£ §P$job_magic_artisan_plural$§!: §R-4§!(£minerals£,£mana_crystals£), §G+12§!£consumer_goods£§!"
+ mod_job_magic_artisan_add:0 "§P$job_magic_artisan$§! §H职业§!"
+ mod_job_magic_artisan_per_pop:0 "§G+1§! $job_magic_artisan$ Job per $VALUE$ Pops"
+ mod_job_magic_artisan_per_pop_short:0 "\n§G+1§!£mod_job_magic_artisan_add£ per $VALUE$ £pop£"
+
+ job_magic_foundry:0 "奇术师"
+ job_magic_foundry_plural:0 "奇术师"
+ job_magic_foundry_desc:0 "奇术师将原材料嬗变为高级合金。"
+ job_magic_foundry_effect_desc:0 "§H£job_magic_foundry£ §P$job_magic_foundry_plural$§!: §R-4§!(£minerals£,£mana_crystals£), §G+9§!£alloys£§!"
+ mod_job_magic_foundry_add:0 "§P$job_magic_foundry$§! §H职业§!"
+ mod_job_magic_foundry_per_pop:0 "§G+1§! $job_magic_foundry$ Job per $VALUE$ Pops"
+ mod_job_magic_foundry_per_pop_short:0 "\n§G+1§!£mod_job_magic_foundry_add£ per $VALUE$ £pop£"
+
+ job_magic_entertainer:0 "附魔师"
+ job_magic_entertainer_plural:0 "附魔师"
+ job_magic_entertainer_desc:0 "附魔师赋予物体特殊的属性和能力，通过施加附魔。"
+ job_magic_entertainer_effect_desc:0 "§H£job_magic_entertainer£ §P$job_magic_entertainer_plural$§!: §R-2§!£consumer_goods£, §R-1§!£arcane_technology£, §G+5§!£unity£, §G+15§!£mod_planet_amenities_add£§!"
+ mod_job_magic_entertainer_add:0 "§P$job_magic_entertainer$§! §H职业§!"
+ mod_job_magic_entertainer_per_pop:0 "§G+1§! $job_magic_entertainer$ Job per $VALUE$ Pops"
+ mod_job_magic_entertainer_per_pop_short:0 "\n§G+1§!£mod_job_magic_entertainer_add£ per $VALUE$ £pop£"
+
+ job_alchemist:0 "炼金术士"
+ job_alchemist_plural:0 "炼金术士"
+ job_alchemist_desc:0 "炼金术士运用他们丰富的知识来制造奥法制品。"
+ job_alchemist_effect_desc:0 "§H£job_alchemist£ §P$job_alchemist_plural$§!: §R-3§!(£minerals£,£alloys£,£consumer_goods£,£mana_crystals£), §G+6§!£arcane_technology£§!"
+ mod_job_alchemist_add:0 "§P$job_alchemist$§! §H职业§!"
+ mod_job_alchemist_per_pop:0 "§G+1§! $job_alchemist$ Job per $VALUE$ Pops"
+ mod_job_alchemist_per_pop_short:0 "\n§G+1§!£mod_job_alchemist_add£ per $VALUE$ £pop£"
+
+ job_magic_researcher:0 "奥法探求者"
+ job_magic_researcher_plural:0 "奥法探求者"
+ job_magic_researcher_desc:0 "奥法探求者深入奥法之中去研究它，寻求奇迹，哪怕违反自然规则。"
+ job_magic_researcher_effect_desc:0 "§H£job_magic_researcher£ §P$job_magic_researcher_plural$§!: §R-1§!£arcane_technology£, §G+5§! (£physics£ £society£ £engineering£)§!"
+ mod_job_magic_researcher_add:0 "§P$job_magic_researcher$§! §H职业§!"
+ mod_job_magic_researcher_per_pop:0 "§G+1§! $job_magic_researcher$ Job per $VALUE$ Pops"
+ mod_job_magic_researcher_per_pop_short:0 "\n§G+1§!£mod_job_magic_researcher_add£ per $VALUE$ £pop£"
+
+ ####################################
+ # 工人职业
+ ####################################
+ job_hit_wizard:0 "打击法师"
+ job_hit_wizard_plural:0 "打击法师"
+ job_hit_wizard_desc:0 "打击法师是执法者中的精英，训练有素地追捕囚犯。"
+ job_hit_wizard_effect_desc:0 "§H£job_hit_wizard£ §P$job_hit_wizard_plural$§!: §R-1§!£arcane_technology£, §G+5§!£mod_country_naval_cap_add£, §G+5§!£defense_army£§!"
+ mod_job_hit_wizard_add:0 "§P$job_hit_wizard$§! §H职业§!"
+ mod_job_hit_wizard_per_pop:0 "§G+1§! $job_hit_wizard$ Job per $VALUE$ Pops"
+ mod_job_hit_wizard_per_pop_short:0 "\n§G+1§!£mod_job_hit_wizard_add£ per $VALUE$ £pop£"
+
+ job_magic_clerk:0 "奇才"
+ job_magic_clerk_plural:0 "奇才"
+ job_magic_clerk_desc:0 "奇才负责管理奥法人员的档案。"
+ job_magic_clerk_effect_desc:0 "§H£job_magic_clerk£ §M$job_magic_clerk_plural$§!: §G+3§!£mod_trade_value_add£, §G+3§!£mod_planet_amenities_add£§!"
+ mod_job_magic_clerk_add:0 "§M$job_magic_clerk$§! §H职业§!"
+ mod_job_magic_clerk_per_pop:0 "§G+1§! §M$job_magic_clerk$§! Job per $VALUE$ Pops"
+ mod_job_magic_clerk_per_pop_short:0 "\n§G+1§! §M£mod_job_magic_clerk_add£§! per $VALUE$ £pop£"
+
+ job_mana_harvester:0 "奥法收割者"
+ job_mana_harvester_plural:0 "奥法收割者"
+ job_mana_harvester_desc:0 "奥法收割者收集来自周围的地形一切形式的原始魔力。"
+ job_mana_harvester_effect_desc:0 "§H£job_mana_harvester£ §M$job_mana_harvester_plural$§!: §G+15§!£mana_crystals£§!"
+ mod_job_mana_harvester_add:0 "§M$job_mana_harvester$§! §H职业§!"
+ mod_job_mana_harvester_per_pop:0 "§G+1§! §M$job_mana_harvester$§! Job per $VALUE$ Pops"
+ mod_job_mana_harvester_per_pop_short:0 "\n§G+1§! §M£mod_job_mana_harvester_add£§! per $VALUE$ £pop£"
+
+ ####################################
+ # Magical Capitals
+ ####################################
+ building_arcane_colony_shelter:0 "奥法委员会"
+ building_arcane_colony_shelter_desc:0 "巫师委员会不知疲倦地研究和管理神秘起源的文物。"
+
+ building_arcane_capital:0 "奥法协会"
+ building_arcane_capital_desc:0 "奥法协会不知疲倦地研究和管理神秘起源的文物"
+
+ building_arcane_major_capital:0 "奥法法院"
+ building_arcane_major_capital_desc:0 "奥法法院不知疲倦地研究和管理神秘起源的文物"
+
+ building_arcane_system_capital:0 "奥法部"
+ building_arcane_system_capital_desc:0 "奥法部门不知疲倦地研究和管理神秘起源的文物"
+
+ ####################################
+ # Government Buildings
+ ####################################
+ building_magic_estates:0 "巫师庄园"
+ building_magic_estates_desc:0 "宫殿和豪宅，在他们的荣耀中熠熠生辉。包括这里以及周围的乡村和居住在那里的农民都是他们的。"
+
+ building_magic_bureaucratic_complex:0 "奥法官僚主义"
+ building_magic_bureaucratic_complex_desc:0 "官僚办公室，分办事处和子办事处的迷宫政府综合体通过奥法制品的整合提高了无限效率。"
+
+ building_auror_house:0 "傲罗之家"
+ building_auror_house_desc:0 "法律和秩序的纪念碑。 傲罗和打击法师就在这里。"
+
+ building_auror_department:0 "傲罗系"
+ building_auror_department_desc:0 "一个致力于法院和奥法执法的大型综合体。"
+
+ ####################################
+ # Deposit Buildings
+ ####################################
+ building_ritual_site:0 "仪式现场"
+ building_ritual_site_desc:0 "在这个魔力汇聚点，我们进行强大的年度仪式。"
+
+ building_dragon_preserve:0 "龙保护区"
+ building_dragon_preserve_desc:0 "在这些加强的龙保护区中，奥法生物学家的专家团队聚集在一起研究和控制这些奇异的野兽，甚至允许驯服的野兽用于战争。"
+
+ building_giant_liason:0 "巨人联络员"
+ building_giant_liason_desc:0 "虽然他们缺乏我们的情报，但我们的奥法学家仍然能够与他们进行推理和进行基本外交，包括招募他们加入我们的军队。"
+
+ building_mana_harvester:0 "法力收割机"
+ building_mana_harvester_desc:0 "在这个区域里，充满结晶的纯净奥法通过行星运动沉积在该区域。"
+
+ building_magic_storm_facility:0 "奥法风暴观测设施"
+ building_magic_storm_facility_desc:0 "奥法探求者观察奥法风暴对当地环境的影响"
+
+ building_tempest_appeasement:0 "暴风追踪设施"
+ building_tempest_appeasement_desc:0 "当地 $ job_druid $ 队伍追踪这个巨大的奥法风暴的运动，并在必要时执行仪式缓和。"
+
+ building_magizoologist_department:0 "奥法生物学家部门"
+ building_magizoologist_department_desc:0 "驻地的奥法生物学家研究并对当地奥法动植物进行分类。"
+
+ ####################################
+ # Special Buildings
+ ####################################
+ building_alchemist_guild_1:0 "炼金锻造"
+ building_alchemist_guild_1_desc:0 "炼金术士日以继夜地工作，借助于神秘技术改造奇特物质。 "
+ building_alchemist_guild_2:0 "炼金学院 "
+ building_alchemist_guild_2_desc:0 "炼金术士聚集和分享发现的地方。 "
+ building_alchemist_guild_3:0 "炼金大学"
+ building_alchemist_guild_3_desc:0 "来自整个星球的炼金术士聚集在这里进行研究。"
+
+ ####################################
+ # Magic-Enhanced Vanilla Buildings
+ ####################################
+ # Magical Resource Silo
+ building_magic_resource_silo:0 "空间扭曲仓库"
+ building_magic_resource_silo_desc:0 "庞大的资源空间和存储设施与尺寸折叠技术相结合，可以安全地保存大量资源。"
+
+ # Food Processing Facilities
+ building_magic_food_processing_facility:0 "奥法食品加工设施"
+ building_magic_food_processing_facility_desc:0 "在这些设施中加工的食物的营养价值大大增加。"
+
+ building_magic_food_processing_center:0 "奥法食品加工中心"
+ building_magic_food_processing_center_desc:0 "自动化流水线设施，可以处理大量的食物。"
+
+ # Energy Processing Facilities
+ building_magic_energy_grid:0 "奥法能源网络"
+ building_magic_energy_grid_desc:0 "过精心校准的电网可最大限度地提高发电机的输出功率。"
+
+ building_magic_energy_nexus:0 "奥法能源中枢"
+ building_magic_energy_nexus_desc:0 "这个庞大的设施集中了星球上的所有能源网，提高了效率。"
+
+ # Mineral Processing Facilities
+ building_magic_mineral_purification_plant:2 "奥法矿物加工厂"
+ building_magic_mineral_purification_plant_desc:2 "通过这些工厂加工的矿物的质量得到了提高。"
+
+ building_magic_mineral_purification_hub:2 "奥法矿物加工中心"
+ building_magic_mineral_purification_hub_desc:2 "接收矿物的大规模收集装置，然后运送到加工阵列。"
+
+ # Magical Alloy Foundries
+ building_magic_foundry_1:0 "奥法铸造厂"
+ building_magic_foundry_1_desc:0 "这些铸造厂的通过奥法科技增强了常见的合金生产技术。"
+
+ building_magic_foundry_2:0 "奥法巨型锻造厂 "
+ building_magic_foundry_2_desc:0 "这些工业园区是大规模的奥法增强锻造中心，提供大量的设施。"
+
+ building_magic_foundry_3:0 "奥法纳米工厂"
+ building_magic_foundry_3_desc:0 "先进的制造中心辅以增强型纳米机器，制造出大量高质量的合金。"
+
+ # Magical Civilian Factories
+ building_magic_factory_1:0 "奥法作坊"
+ building_magic_factory_1_desc:0 "为行星提供广泛的民用制造商和住房。"
+
+ building_magic_factory_2:0 "奥法加工厂 "
+ building_magic_factory_2_desc:0 "部分自动化流程可帮助设计人员创建和分发奥法科技。"
+
+ building_magic_factory_3:0 "奥法工业复合体 "
+ building_magic_factory_3_desc:0 "一个巨大的工业综合体，由具有巨大奥法生产能力的设计师加强。"
+
+ # Magical reserach Labs
+ building_magic_research_lab_1:0 "奥法研究实验室"
+ building_magic_research_lab_1_desc:0 "奥法研究实验室为所有研究提供基本设施，包括世俗和奥法探求者的研究。"
+
+ building_magic_research_lab_2:0 "奥法研究综合体"
+ building_magic_research_lab_2_desc:0 "升级的研究设施，能够容纳更多的奥法探求者"
+
+ building_magic_research_lab_3:0 "奥法探求研究综合体"
+ building_magic_research_lab_3_desc:0 "这些先进的研究设施为其行星奥法探求者提供了最新的设备。"
+
+ building_magic_institute:0 "奥法研究所"
+ building_magic_institute_desc:0 "奥法研究所是一个庞大的综合体，将不同领域的前沿聚集在一起，实现前所未有的协同作用，提高整个星球的研究成果。"
+
+ # Magical Commercial Buildings
+ building_magic_commercial_zone:0 "奥法商业区"
+ building_magic_commercial_zone_desc:0 "这些商业区是高耸的办公楼和商业中心的所在地。"
+
+ building_magic_commercial_megaplex:0 "巨型奥法商业区"
+ building_magic_commercial_megaplex_desc:0 "大厦和高耸的建筑直入云霄，遮挡了恒星逸散的光芒。"
+
+ building_magic_galactic_stock_exchange:0 "巨型奥法商业区"
+ building_magic_galactic_stock_exchange_desc:0 "大厦和高耸的建筑直入云霄，遮挡了恒星逸散的光芒。"
+ 
+ # Magical Unity Buildings
+ building_magic_temple:0 "Temple"
+ building_magic_temple_desc:0 "Simple constructs erected since time immemorial, temples are places of quiet contemplation and communion with that which unites us all."
+
+ building_magic_holotemple:0 "Holotemple"
+ building_magic_holotemple_desc:0 "An enhanced form of its rough-hewn predecessors, the latest in Spiritualist technology creates a mutable reality inside the Holotemple - all for deeper meditation and more intense devotion."
+
+ building_magic_sacred_nexus:0 "Sacred Nexus"
+ building_magic_sacred_nexus_desc:0 "The latest developments in field technology allow worshipers to directly experience the divine influence of sacred ground."
+
+ building_magic_citadel_of_faith:0 "Citadel of Faith"
+ building_magic_citadel_of_faith_desc:0 "A massive complex offering refuge and seclusion from the material world, for all comers."
+
+ # Magical Army Buildings
+ building_magic_military_academy:0 "Military Academy"
+ building_magic_military_academy_desc:1 "Military Academies improve local recruitment rates and offer a higher standard of training."
+
+ building_magic_stronghold:0 "Stronghold"
+ building_magic_stronghold_desc:0 "A planetary stronghold housing a substantial garrison force to protect the world from invasion and rebellion."
+
+ building_magic_fortress:0 "Fortress"
+ building_magic_fortress_desc:2 "A massive fortress complex with an expanded garrison and training facilities for soldiers."
+
+ building_magic_planetary_shield_generator:0 "Planetary Shield Generator"
+ building_magic_planetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+
+ # Magic Amenity Buildings
+ building_magic_luxury_residence:0 "奥法豪华住宅"
+ building_magic_luxury_residence_desc:0 "设计精美的住宅大楼设有豪华公寓。 自由应用奥法科技是保持更多古怪设计不受崩溃的唯一因素。"
+
+ building_magic_paradise_dome:0 "奥法乐园穹顶"
+ building_magic_paradise_dome_desc:0 "一个完全封闭的居住圆顶，拥有独立的生态系统和完全可定制的局部气候控制系统，是富人或幸运者的居住天堂。"
+
+ building_magic_communal_housing:0 "奥法公共住房"
+ building_magic_communal_housing_desc:0 "一块统一的住房，具有标准化，不可变的符文结构。"
+
+ building_magic_communal_housing_large:0 "奥法乌托邦"
+ building_magic_communal_housing_large_desc:0 "令人难以置信的神奇空间工程壮举，让每个居民都能生活在同一片天堂。"
+
+ building_enchanter_guild_1:0 "奥法师公会"
+ building_enchanter_guild_1_desc:0 "奥法师不知疲倦地努力开发新的附魔，并在无数项目上与他人协商。"
+
+ building_enchanter_guild_2:0 "行星结界论坛"
+ building_enchanter_guild_2_desc:0 "这些巨大的娱乐设施是来自这个世界的奥法师，并聚集在一起，以便分享和分享他们的工作。 每日展示，会议和论坛是我们提供的最少的内容。"
+
+ building_healer_guild_1:0 "奥法诊所"
+ building_healer_guild_1_desc:0 "奥法诊所利用实际奥法科技的最新突破来治愈那些科学无法实现的技术。"
+
+ building_healer_guild_2:0 "奥法医院"
+ building_healer_guild_2_desc:0 "奥法医院提供的服务可以满足整个星球人口的需求。"
+
+ ####################################
+ # Districts
+ ####################################
+ district_magic_dom:0 "奥法研究区"
+ district_magic_dom_plural:0 "奥法研究区"
+ district_magic_dom_desc:0 "庞大的实验室建筑群，无数 $ job_magic_researcher_plural $ 和他们的部门监督员。"
+
+ district_magic_industry:0 "奥法工业区"
+ district_magic_industry_plural:0 "奥法工业区"
+ district_magic_industry_desc:0 "奥法增强型铸造厂，锻造厂和工厂的工业园区。"
+
+ district_magic_rural:0 "乡村"
+ district_magic_rural_plural:0 "乡村"
+ district_magic_rural_desc:0 "奥法政府倾向于高度分散，将大部分人口留在乡村。"
+ mod_district_magic_rural_max:0 "Max $district_magic_rural_plural$"
+
+ ####################################
+ # Techs
+ ####################################
+ magic:0 "奥法科技"
+ magic_desc:0 "神秘的奥秘起源。"
+
+ gateway_magic:0 "这将导致应用奥法科技的进一步发展。"
+
+ tech_alchemist_guilds:0 "炼金术锻造"
+ tech_alchemist_guilds_desc:0 "炼金术士使用其巨大的知识嬗变特殊材料，不断制造奥法石。"
+
+ tech_magical_theory:0 "奥法理论"
+ tech_magical_theory_desc:0 "我们通过对魔术可以完成的基础研究开始我们的进步。"
+
+ tech_ministry_magic_0:0 "奥法委员会"
+ tech_ministry_magic_0_desc:0 "特殊巫术的本地聚会提供了奥法监管的基础。"
+
+ tech_ministry_magic_1:0 "奥法协会"
+ tech_ministry_magic_1_desc:0 "受尊敬的法师区域协会管理他们自己的星球部分，帮助使用神秘的传播方法。"
+
+ tech_ministry_magic_2:0 "奥法官僚"
+ tech_ministry_magic_2_desc:0 "通过整合最新的奥法科技，使全行星的官僚网络成为可能。"
+
+ tech_ministry_magic_3:0 "奥法部"
+ tech_ministry_magic_3_desc:0 "作为官僚过剩和神秘技术的最终融合，奥法部提供了所有主题。"
+
+ tech_magical_theory:0 "奥法理论"
+ tech_magical_theory_desc:0 "通过我们对奥法的研究，我们发现了如何用奥法来增强我们的技术。"
+
+ tech_magic_ships_1:0 "Mu级船舰模块"
+ tech_magic_ships_1_desc:0 "通过仔细研究，我们设法用奥法制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ships_2:0 "Eta级船舰模块"
+ tech_magic_ships_2_desc:0 "通过仔细研究，我们设法用奥法制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ships_3:0 "Tau级船舰模块"
+ tech_magic_ships_3_desc:0 "通过仔细研究，我们设法用奥法制品增强了我们船舶系统中一些更棘手的方面"
+
+ tech_magic_ships_4:0 "Phi级船舰模块"
+ tech_magic_ships_4_desc:0 "通过仔细研究，我们设法用奥法制品增强了我们船舶系统中一些更棘手的方面"
+
+ ####################################
+ # Ascension Perks
+ ####################################
+ ap_arcane_awakening:0 "奥法觉醒"
+ ap_arcane_awakening_desc:0 "我们随时准备唤醒我们物种中潜在的奥法力量。"
+
+ ap_arcane_ascension:0 "奥法飞升"
+ ap_arcane_ascension_desc:0 "我们随时准备完全唤醒我们神秘的力量，并获得神性。\n\n解锁 §M奥术觉醒！行星决策。"
+
+ magic_tooltip:0 "我们物种的所有成员都将释放他们充满奥法的潜力。"
+
+ arcane_awakening_tooltip:0 "我们物种的潜在奥法能力会在某些人身上被唤醒。"
+
+ ####################################
+ # Ascension Perk Requirements
+ ####################################
+ no_magical:0 " $TRIGGER_FAIL$ 我们不可能经历任何奥法提升的阶段。"
+ requires_technology_magical_theory:0 " $ TRIGGER_FAIL $ 需要 §Y$ tech_magical_theory $§！ 技术。"
+ requires_ap_arcane_ascension:1 " $ TRIGGER_FAIL $ 需要 §Y$ ap_arcane_ascension $§！ 飞升。"
+ requires_not_ap_arcane_ascension:1 " $TRIGGER_FAIL$ 可能没有 §Y$ap_arcane_ascension$§! 飞升。"
+ requires_arcane_empire:0 " $TRIGGER_FAIL$ 只有 §M 奥术遗产 §! 或者 §M奥术觉醒§! 可以进行奥法飞升。"
+ already_arcane:0 " $TRIGGER_FAIL$ 我们已经开始释放我们的奥法力量。"
+ ASCENDING_SPECIES_MUST_BE_ORGANIC:0  "$TRIGGER_FAIL$ 只有有机物种才能发展出奥法的力量。"
+ ASCENDING_SPECIES_IS_ALREADY_MAGIC_1:0 " $TRIGGER_FAIL$ 这个物种已经具有奥法的力量。"
+ ASCENDING_SPECIES_IS_ALREADY_MAGIC_2:0 " $TRIGGER_FAIL$ 这个物种已经具有潜在的魔力。"
+ ASCENDING_SPECIES_CANT_BE_HIVE:0 " $TRIGGER_FAIL$ 蜂群不能发展奥法的力量。"
+ ASCENDING_SPECIES_IS_PSIONIC:0 " $TRIGGER_FAIL$ 灵能物种不能奥法提升。"
+ TRANSCENDING_SPECIES_IS_MAGIC:0 " $TRIGGER_FAIL$ 奥法物种不能觉醒灵能。"
+
+ ####################################
+ # Building Requirements
+ ####################################
+ requires_building_arcane_capital:0 "§R需要在星球上建设 §Y$building_arcane_capital$§! .§!"
+ requires_building_arcane_major_capital:0 "§R需要在星球上建设 §Y$building_arcane_major_capital$§! .§!"
+ requires_building_arcane_system_capital:0 "§R需要在星球上建设 §Y$building_arcane_system_capital$§! .§!"
+ requires_magical_building:0 "§R在星球上建设任何 §Ymagical building§! .§!"
+
+ ####################################
+ # Job Requirements
+ ####################################
+ MAGIC_RULER_JOB_TRIGGER:0 "这项工作只能由奥法自由人口使用 §YFull Citizenship§! "
+ MAGIC_SPECIALIST_JOB_TRIGGER:0 "这项工作只能由没有被清除的奥法自由人口来完成。"
+ MAGIC_WORKER_JOB_TRIGGER:0 "这项工作只能由未被清除的奥法人口完成。"
+
+ ####################################
+ # Event Localisation
+ ####################################
+ 
+ magic_start_menu.1.name:0 "奥法遗产开始菜单"
+ magic_start_menu.1.desc:0 "决定你想在游戏中产生多少奥法世界。" 
+ magic_start_menu.1.none:0 "§R不生成§!"
+ magic_start_menu.1.low:0 "§G低§!"
+ magic_start_menu.1.normal:0 "§B普通§!"
+ magic_start_menu.1.high:0 "§M高§!"
+
+ magic.2650.name:0 "奥法飞升"
+ magic.2650.desc:0 "被称为 [Root.GetSpeciesName] 的物种经历了只能被描述为大觉醒的事件。 一段时间以来，我们已经意识到我们物种固有的巨大潜力，但这种能力只表现在少数人......直到现在。\n\n几乎在一夜之间, [Root.GetSpeciesNamePlural] 无处不在 他们充满奥法能力。似乎某种 [Root.GetSpeciesName] 奥法能量的公共池终于达到了一个关键的临界点，唤醒了沉睡在我们灵魂中的潜在能力。\n\n我们已经与奥法融为一体。 我们现在即是神明。"
+ magic.2650.a:0 "我们终以觉醒。"
+
+ magic.3651.name:0 "奥法觉醒"
+ magic.3651.desc:0 "我们灵魂中有一小部分潜力被解锁了。 我们物种的潜在奥法能力现在才开始在某些个体中出现。"
+ magic.3651.a:0 "卓越"
+ magic.3651.b:0 "辉煌"
+
+ magic.2605.name:0 " [magic_leader.GetTitle] 觉醒了奥法潜力"
+ magic.2605.desc:0 "在进行常规测试后， [magic_leader.GetTitle] [magic_leader.GetName] 已被确定为奥法之王，奥法自己选择的具有奇异力量的个体，以实现她的意志。"
+ magic.2605.a:0 "这些新能力将为我们提供更好的服务。"
+
+ magic.6666.name:0 "奥法遗产"
+ magic.6666.desc:0 "这个世界充满了奥法，它的环境奥法塑造了我们和周围的环境。"
+ magic.6666.a:0 "卓越"
+
+ magic.111.name:0 "奥法低吟"
+ magic.111.desc:0 "我们已经意识到我们的人口中有关 [Root.GetName] 的谣言，我们的人口中存在能够执行以前仅在神话和传说中看到过的壮举的子区域。 如果我们进一步调查这些谣言，我们可能会将这种假设的能力授予其他人。"
+ magic.111.a:0 "我们将不遗余力地揭开这些神秘的奥秘。"
+ magic.111.b:0 "我们没有时间这样做。"
+ magic.111.c:0 "我们没有时间去迷信这些。"
+
+ ####################################
+ # Faction Missions
+ ####################################
+ TRADITIONALIST_MAGIC_HERITAGE:2 "奥法遗产"
+ TRADITIONALIST_NO_MAGIC_HERITAGE:1 " $TRADITIONALIST_MAGIC_HERITAGE$ "
+ TRADITIONALIST_MAGIC_HERITAGE_DESC:2 "让你的优势物种具有神奇的功效（具有特征 §YMagic§！ 或 §YLatentMagic§！ ）将取悦 [Root.GetName] 。"
+
+ TRADITIONALIST_MAGIC_PURSUIT:2 "奥法追求"
+ TRADITIONALIST_NO_MAGIC_PURSUIT:1 " $TRADITIONALIST_MAGIC_PURSUIT$ "
+ TRADITIONALIST_MAGIC_PURSUIT_DESC:2 "采用 §YArcaneAscension§！  飞升将取悦 [Root.GetName] 。"
