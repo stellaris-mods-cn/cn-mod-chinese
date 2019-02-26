@@ -1,0 +1,27 @@
+{
+  "name": "cn-mod-chinese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellaris-mods-cn/cn-mod-chinese.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellaris-mods-cn/cn-mod-chinese/issues"
+  },
+  "homepage": "https://github.com/stellaris-mods-cn/cn-mod-chinese#readme",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "through2": "^3.0.0",
+    "vinyl": "^2.2.0",
+    "vinyl-fs": "^3.0.3",
+    "yaml": "^1.3.2",
+    "yargs": "^13.2.1"
+  }
+}

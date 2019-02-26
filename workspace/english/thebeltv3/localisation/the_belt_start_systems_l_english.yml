@@ -1,0 +1,15 @@
+﻿l_english:
+
+
+sol_mars_system_initializer_NAME:0 "Mars Sol System"
+ 
+sol_mars_system_initializer_DESC:0 "A New start on a not so red planet."
+sol_both_system_initializer_NAME:0 "Earth and Mars Sol System"
+ 
+sol_both_system_initializer_DESC:0 "Two planets are better than one! Usually..."
+sol_asteroid_system_initializer_NAME:0 "Sol Asteroids System"
+
+sol_asteroid_system_initializer_DESC:0 "System modeled after Earth's solar system, now with habitable asteroids."
+deneb_asteroid_system_initializer_NAME:0 "Deneb Asteroids System"
+
+deneb_asteroid_system_initializer_DESC:0 "The Commonwealth of Man's starting solar system, now with habitable asteroids."
