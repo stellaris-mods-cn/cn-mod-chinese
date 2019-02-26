@@ -1,4 +1,4 @@
-l_english:
+l_default:
   the_belt_building_asteroid_life_support_system:0 "生命维持系统"
   the_belt_building_asteroid_life_support_system_desc:0 "环境控制和生命支持系统设计用于供应空气、水和食物，调整正确的温度和压力，以及处理废物回收。它还能屏蔽有害的外部影响，如辐射和微陨石。"
   asteroid_environment:0 "小行星"
