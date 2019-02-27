@@ -38,7 +38,7 @@
 ## asteroid_blackmarket -> Blackmarket ##
   asteroid_blackmarket_desc:0 "黑市可能会增加你的收入，但也会提供滋生犯罪的土壤"
 ## asteroid_blackmarket_desc -> A blackmarket will earn you some money, but increases an planets crime. ##
-  ap_the_belt_asteroid_miners:0 "小行星采矿大师"
+  ap_the_belt_asteroid_miners:0 "小行星采矿专家"
 ## ap_the_belt_asteroid_miners -> Asteroid Miners ##
-  ap_the_belt_asteroid_miners_desc:0 "更加低廉的成本获得殖民小行星并且开采矿物，马上开拓你的殖民地吧！"
+  ap_the_belt_asteroid_miners_desc:0 "更加低廉的成本获得殖民小行星并且开采矿物，马上开拓你的殖民地吧。"
 ## ap_the_belt_asteroid_miners_desc -> Where can you get cheap minerals, asteroids of course. Go colonize them. ##
