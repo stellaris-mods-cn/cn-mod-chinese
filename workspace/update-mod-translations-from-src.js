@@ -2,6 +2,8 @@ const path = require('path')
 // const YAML = require('yaml')
 const fs = require('mz/fs')
 const vfs = require('vinyl-fs')
+const chalk = require('chalk')
+const log = require('fancy-log')
 const through = require('through2')
 // const convertEncoding = require('gulp-convert-encoding');
 // const rename = require('gulp-rename')
@@ -45,6 +47,8 @@ function syReplaceKeyValuePair(content, replacer) {
 
 const dirSourceLocalisation = path.join(dirSource, target, 'localisation');
 
+log('reading...', `${chalk.bold(target)}/localisation/*/*_english.yml`);
+
 vfs.src(
     path.join(dirSourceLocalisation, '*/*_english.yml'),
     { removeBOM: false }
@@ -54,11 +58,14 @@ vfs.src(
     const filepath = file.path;
     const filedir = path.dirname(filepath);
     const basename = path.basename(filepath);
-    const relativePathFromLocalisation = path.dirname(path.relative(dirSourceLocalisation, filepath));
+    const relativeFilePathFromLocalisation = path.relative(dirSourceLocalisation, filepath);
+    const relativeDirPathFromLocalisation = path.dirname(
+      relativeFilePathFromLocalisation
+    );
 
-    const relativePathFromLocalisationArr = relativePathFromLocalisation.split('/');
+    const relativeDirPathFromLocalisationArr = relativeDirPathFromLocalisation.split('/');
 
-    const isScoped = relativePathFromLocalisationArr[0] === 'english';
+    const isScoped = relativeDirPathFromLocalisationArr[0] === 'english';
 
     const basenameChinese = basename.replace(/_english\.yml$/gi, '_simp_chinese.yml');
 
@@ -74,9 +81,24 @@ vfs.src(
 
     const isExists = await fs.exists(filepathTranslated);
 
+    let newRelativeDirPathFromLocalisation = ''
+    if (isScoped) {
+      const dirs = [...relativeDirPathFromLocalisationArr];
+      dirs[0] = 'simp_chinese';
+      newRelativeDirPathFromLocalisation = dirs.join('/');
+    }
+    file.path = path.join(
+      dirSourceLocalisation, newRelativeDirPathFromLocalisation, basenameChinese
+    );
+
     if (!isScopedExists && !isExists) {
       // 如果是新文件，则直接重命名复制
-      return next();
+      log(
+        chalk.green.bold('new'), 
+        'from', 
+        chalkBaseName(relativeFilePathFromLocalisation)
+      );
+      return next(null, file);
     }
 
     const lastTranslatedContent = await fs.readFile(
@@ -90,23 +112,29 @@ vfs.src(
         return wrap(translated || value)+"\n"+
         `## ${key} -> ${value} ##`
       }).replace(/l_english:/, 'l_simp_chinese:');
-
-    let newRelativePathFromLocalisation = ''
-    if (isScoped) {
-      const dirs = [...relativePathFromLocalisationArr];
-      dirs[0] = 'simp_chinese';
-      newRelativePathFromLocalisation = dirs.join('/');
-    }
     
     file.contents = Buffer.from(newContent);
-    file.path = path.join(
-      dirSourceLocalisation, newRelativePathFromLocalisation, basenameChinese
+
+    log(
+      chalk.blue.bold('merged'), 
+      'from', 
+      chalkBaseName(relativeFilePathFromLocalisation)
     );
-    // console.log(newRelativePathFromLocalisation)
-    next(null, file); 
-    // next();
+
+    next(null, file);
+  }))
+  .pipe(through.obj((file, _, next) => {
+    next(null, file);
   }))
   // .pipe(convertEncoding({to: 'utf8', iconv: { addBOM: true }}))
-  .pipe(vfs.dest(path.join(dirDest, target, 'localisation')));
+  .pipe(vfs.dest(path.join(dirDest, target, 'localisation')))
+  .on('end', _ => log(chalk.green.bold('done~')))
+  .on('error', log.error);
 
 })();
+
+function chalkBaseName(fielpath, wrapBaseName = a => chalk.bold(a)) {
+  const baseName = path.basename(fielpath);
+  const dirName = path.dirname(fielpath);
+  return `${dirName}/${wrapBaseName(baseName)}`;
+}
