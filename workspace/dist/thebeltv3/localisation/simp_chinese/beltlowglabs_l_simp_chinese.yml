@@ -4,41 +4,41 @@
   belt_lowg_lab_desc:0 "小行星带着非常低的重力，为各种各样的科学实验室提供了绝佳的场所，远离了行星引力的不断存在。这一设施虽然不便宜，但将为人类文明的科学产出提供有力的推动力。"
 ## belt_lowg_lab_desc -> Asteroids, with their very low gravity, make great places for science labs of all kinds, free from the constant presence of planetary gravity. While not cheap to run, this facility will provide a substantial boost to science output for our civilization. ##
 
-  mod_pc_habitable_asteroid_habitability:0 "Asteroid Habitability"
+  mod_pc_habitable_asteroid_habitability:0 "小行星宜居喜好"
 ## mod_pc_habitable_asteroid_habitability -> Asteroid Habitability ##
-  district_asteroid_housing:0 "Living Quarters"
+  district_asteroid_housing:0 "宿舍区"
 ## district_asteroid_housing -> Living Quarters ##
-  district_asteroid_housing_desc:0 "These living quarters provide a lot of housing."
+  district_asteroid_housing_desc:0 "睡觉的地方。"
 ## district_asteroid_housing_desc -> These living quarters provide a lot of housing. ##
-  district_asteroid_mining:0 "Asteroid Mines"
+  district_asteroid_mining:0 "小行星采矿场"
 ## district_asteroid_mining -> Asteroid Mines ##
-  district_asteroid_mining_desc:0 "These mines provide a lot of jobs."
+  district_asteroid_mining_desc:0 "提高原料生产，同时增加就业。"
 ## district_asteroid_mining_desc -> These mines provide a lot of jobs. ##
-  district_asteroid_cultural:0 "Leisure Districts"
+  district_asteroid_cultural:0 "休闲区"
 ## district_asteroid_cultural -> Leisure Districts ##
-  district_asteroid_cultural_desc:0 "These districts will stop your workers getting carzy."
+  district_asteroid_cultural_desc:0 "劳逸结合。"
 ## district_asteroid_cultural_desc -> These districts will stop your workers getting carzy. ##
-  district_farming_barren:0 "Agri Domes"
+  district_farming_barren:0 "圆顶农场"
 ## district_farming_barren -> Agri Domes ##
-  district_farming_barren_desc:0 "Agri Domes are a good way to increases you food production outside of the core planets."
+  district_farming_barren_desc:0 "圆顶农场是增加食物生产最直接的办法。"
 ## district_farming_barren_desc -> Agri Domes are a good way to increases you food production outside of the core planets. ##
-  district_generator_luna:0 "Generator District"
+  district_generator_luna:0 "发电机区域"
 ## district_generator_luna -> Generator District ##
-  district_generator_luna_desc:0 "Employ some pops and get some money in return? What are you waiting for?"
+  district_generator_luna_desc:0 "获得更多的能源，你还再等什么！"
 ## district_generator_luna_desc -> Employ some pops and get some money in return? What are you waiting for? ##
-  district_science_luna:0 "Luna Science Labs"
+  district_science_luna:0 "卫星科研实验室"
 ## district_science_luna -> Luna Science Labs ##
-  district_science_luna_desc:0 "Start your Low-G Research companies on Luna today."
+  district_science_luna_desc:0 "立刻开始在卫星上开展你的低重力实验吧。"
 ## district_science_luna_desc -> Start your Low-G Research companies on Luna today. ##
-  district_civilian_industry_barren:0 "Civilian Industrys"
+  district_civilian_industry_barren:0 "民用工业"
 ## district_civilian_industry_barren -> Civilian Industrys ##
-  district_civilian_industry_barren_desc:0 "Produce your everyday goods for your pops."
+  district_civilian_industry_barren_desc:0 "为居民生产各式各样的产品。"
 ## district_civilian_industry_barren_desc -> Produce your everyday goods for your pops. ##
-  asteroid_blackmarket:0 "Blackmarket"
+  asteroid_blackmarket:0 "黑市"
 ## asteroid_blackmarket -> Blackmarket ##
-  asteroid_blackmarket_desc:0 "A blackmarket will earn you some money, but increases an planets crime."
+  asteroid_blackmarket_desc:0 "黑市可能会增加你的收入，但也会提供滋生犯罪的土壤"
 ## asteroid_blackmarket_desc -> A blackmarket will earn you some money, but increases an planets crime. ##
-  ap_the_belt_asteroid_miners:0 "Asteroid Miners"
+  ap_the_belt_asteroid_miners:0 "小行星采矿大师"
 ## ap_the_belt_asteroid_miners -> Asteroid Miners ##
-  ap_the_belt_asteroid_miners_desc:0 "Where can you get cheap minerals, asteroids of course. Go colonize them."
+  ap_the_belt_asteroid_miners_desc:0 "更加低廉的成本获得殖民小行星并且开采矿物，马上开拓你的殖民地吧！"
 ## ap_the_belt_asteroid_miners_desc -> Where can you get cheap minerals, asteroids of course. Go colonize them. ##

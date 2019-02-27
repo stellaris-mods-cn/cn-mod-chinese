@@ -27,11 +27,11 @@
 ## pc_asteroid_tile -> Hollowed Asteroid Cavern ##
   pc_asteroid_tile_desc:0 "人造的洞穴"
 ## pc_asteroid_tile_desc -> Artifical cavern ##
-  trait_pc_habitable_asteroid_preference:0 "Asteroid Preference"
+  trait_pc_habitable_asteroid_preference:0 "小行星宜居偏好"
 ## trait_pc_habitable_asteroid_preference -> Asteroid Preference ##
   trait_pc_habitable_asteroid_preference_desc:1 "Asteroid preference for people living on asteroids."
 ## trait_pc_habitable_asteroid_preference_desc -> Asteroid preference for people living on asteroids. ##
-  pc_habitable_asteroid_habitability:0 "Asteroid Habitability"
+  pc_habitable_asteroid_habitability:0 "小行星宜居性"
 ## pc_habitable_asteroid_habitability -> Asteroid Habitability ##
   asteroid_home_system_sighted_chain_title:0 "发现小行星"
 ## asteroid_home_system_sighted_chain_title -> Asteroid Sighted ##

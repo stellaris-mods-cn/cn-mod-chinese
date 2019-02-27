@@ -31,7 +31,7 @@
 ## trait_pc_asteroid_preference_continental -> Asteroid Preference ##
   trait_pc_asteroid_preference_continental_desc:1 "人口对小行星的偏好。"
 ## trait_pc_asteroid_preference_continental_desc -> Asteroid preference for population from continental worlds. ##
-  pc_asteroid_habitability:0 "行星适居性"
+  pc_asteroid_habitability:0 "行星宜居性"
 ## pc_asteroid_habitability -> Asteroid Habitability ##
   pc_molten_tile:0 "熔化的地面"
 ## pc_molten_tile -> Molten ground ##
@@ -54,29 +54,29 @@
   pc_frozen_tile_desc:0 "布满岩石的世界覆盖着一层厚厚的永久冻结的冰。"
 ## pc_frozen_tile_desc -> Rocky world covered in a thick layer of permanently frozen ice ##
   
-  pc_barren_habitable:0 "Habitable Barren"
+  pc_barren_habitable:0 "荒芜宜居"
 ## pc_barren_habitable -> Habitable Barren ##
-  pc_barren_habitable_desc:0 "This dust planet might not be so cosy, but you could somehow survive."
+  pc_barren_habitable_desc:0 "这些小行星虽然啥都没有，但生命还是能存活下来。"
 ## pc_barren_habitable_desc -> This dust planet might not be so cosy, but you could somehow survive. ## 
-  pc_frozen_habitable:0 "Habitable Frozen"
+  pc_frozen_habitable:0 "寒冷宜居"
 ## pc_frozen_habitable -> Habitable Frozen ##
-  pc_frozen_habitable_desc:0 "Puh, this is cold, do we really want to live here?"
+  pc_frozen_habitable_desc:0 "哇！这里太冷了，我们真的要在这住下来吗？"
 ## pc_frozen_habitable_desc -> Puh, this is cold, do we really want to live here? ## 
-  pc_molten_habitable:0 "Habitable Molten"
+  pc_molten_habitable:0 "岩浆宜居"
 ## pc_molten_habitable -> Habitable Molten ##
-  pc_molten_habitable_desc:0 "Damm that's hot."
+  pc_molten_habitable_desc:0 "热热热热....！"
 ## pc_molten_habitable_desc -> Damm that's hot. ##
   
-  district_wind_turbine_belt:0 "Wind Turbine"
+  district_wind_turbine_belt:0 "风力涡轮机组"
 ## district_wind_turbine_belt -> Wind Turbine ##
-  district_wind_turbine_belt_plural:0 "Wind Turbines"
+  district_wind_turbine_belt_plural:0 "风力涡轮机组"
 ## district_wind_turbine_belt_plural -> Wind Turbines ##
-  district_wind_turbine_belt_desc:0 "Wind turbines generate energy using natural winds."
+  district_wind_turbine_belt_desc:0 "从星际空间的尘埃和气体中获取机械能并转化为能源"
 ## district_wind_turbine_belt_desc -> Wind turbines generate energy using natural winds. ##
   
-  district_local_industrys_belt:0 "Local Industry"
+  district_local_industrys_belt:0 "本地工业"
 ## district_local_industrys_belt -> Local Industry ##
-  district_local_industrys_belt_plural:0 "Local Industrys"
+  district_local_industrys_belt_plural:0 "本地工业"
 ## district_local_industrys_belt_plural -> Local Industrys ##
-  district_local_industrys_belt_desc:0 "Local industrys produce limeted amounts of alloys."
+  district_local_industrys_belt_desc:0 "本地工业能生产一定数量的合金"
 ## district_local_industrys_belt_desc -> Local industrys produce limeted amounts of alloys. ##

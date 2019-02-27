@@ -1,23 +1,22 @@
 ﻿l_simp_chinese:
 
-
-sol_mars_system_initializer_NAME:0 "火星太阳系"
+sol_mars_system_initializer_NAME:0 "包括火星的恒星系"
 ## sol_mars_system_initializer_NAME -> Mars Sol System ##
  
-sol_mars_system_initializer_DESC:0 "在一个不那么红的星球上。"
+sol_mars_system_initializer_DESC:0 "在一个淡红色星球上开始旅程。"
 ## sol_mars_system_initializer_DESC -> A New start on a not so red planet. ##
-sol_both_system_initializer_NAME:0 "地球和火星溶胶系统。"
+sol_both_system_initializer_NAME:0 "包括地球和火星的恒星系。"
 ## sol_both_system_initializer_NAME -> Earth and Mars Sol System ##
  
 sol_both_system_initializer_DESC:0 "两个行星比一个好!通常…"
 ## sol_both_system_initializer_DESC -> Two planets are better than one! Usually... ##
-sol_asteroid_system_initializer_NAME:0 "太阳小行星系"
+sol_asteroid_system_initializer_NAME:0 "在恒星系的小行星"
 ## sol_asteroid_system_initializer_NAME -> Sol Asteroids System ##
 
-sol_asteroid_system_initializer_DESC:0 "模仿地球的太阳系，现在有可居住的小行星。"
+sol_asteroid_system_initializer_DESC:0 "模仿太阳系中地球之外的行星系统，还包括有可居住的小行星。"
 ## sol_asteroid_system_initializer_DESC -> System modeled after Earth's solar system, now with habitable asteroids. ##
-deneb_asteroid_system_initializer_NAME:0 "天津四小行星星系"
+deneb_asteroid_system_initializer_NAME:0 "天津四的恒星系"
 ## deneb_asteroid_system_initializer_NAME -> Deneb Asteroids System ##
 
-deneb_asteroid_system_initializer_DESC:0 "人类开始的太阳系，现在有可居住的小行星。"
+deneb_asteroid_system_initializer_DESC:0 "一个很像我们人类的太阳系的恒星系，还包括有可居住的小行星。"
 ## deneb_asteroid_system_initializer_DESC -> The Commonwealth of Man's starting solar system, now with habitable asteroids. ##
