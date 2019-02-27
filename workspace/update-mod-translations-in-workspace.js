@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('mz/fs')
 const vfs = require('vinyl-fs')
 const through = require('through2')
-const convertEncoding = require('gulp-convert-encoding');
+// const convertEncoding = require('gulp-convert-encoding');
 // const rename = require('gulp-rename')
 const argv = require('yargs')
   .usage('$0 -t <target_mod_name>')
@@ -92,6 +92,6 @@ vfs.src(
     next(null, file); 
     // next();
   }))
-  .pipe(convertEncoding({to: 'utf8', iconv: { stripBOM: false, addBOM: true }}))
+  // .pipe(convertEncoding({to: 'utf8', iconv: { addBOM: true }}))
   .pipe(vfs.dest(path.join(dirDest, target, 'localisation')))
 
