@@ -35,7 +35,8 @@ function syReplaceKeyValuePair(content, replacer) {
 const dirSourceLocalisation = path.join(dirSource, target, 'localisation');
 
 vfs.src(
-    path.join(dirSourceLocalisation, '*/*_english.yml')
+    path.join(dirSourceLocalisation, '*/*_english.yml'),
+    { removeBOM: false }
   )
   .pipe(through.obj(async (file, _, next) => {
     // 合并最新的mod文本文件和已经翻译的文本文件.
@@ -74,7 +75,7 @@ vfs.src(
     const keyMap = syParseAsObject(lastTranslatedContent);
     const newContent = syReplaceKeyValuePair(file.contents, (key, value) => {
       return keyMap[key] || value;
-    }).replace(/^l_english/, 'l_simp_chinese');
+    }).replace(/l_english:/, 'l_simp_chinese:');
 
     let newRelativePathFromLocalisation = ''
     if (isScoped) {
