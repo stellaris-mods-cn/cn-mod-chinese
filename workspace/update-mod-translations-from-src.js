@@ -5,19 +5,22 @@ const vfs = require('vinyl-fs')
 const through = require('through2')
 // const convertEncoding = require('gulp-convert-encoding');
 // const rename = require('gulp-rename')
-const argv = require('yargs')/* (['--help']) */
-  .usage(`
+const yargs = require('yargs');
+const helpMessage = `
+usage:
 $0 -t <target_mod_name>
 or
 npm run update-mod-trans-from-src -- -t <target_mod_name>
-`)
+`
+const argv = yargs/* (['--help']) */
+  .usage(helpMessage).help()
   .alias('t', 'target')
   // .alias('r', 'relativePath')
   .argv;
 
 ;(function () {
 const { target } = argv;
-if (!target) return;
+if (!target) return yargs(['--help']).usage(helpMessage).help().argv;
 
 const dir = __dirname;
 const dirTranlated = path.join(dir, '../mod/modchina');
@@ -101,4 +104,5 @@ vfs.src(
   }))
   // .pipe(convertEncoding({to: 'utf8', iconv: { addBOM: true }}))
   .pipe(vfs.dest(path.join(dirDest, target, 'localisation')));
+  
 })();
