@@ -5,17 +5,24 @@ const vfs = require('vinyl-fs')
 const through = require('through2')
 // const convertEncoding = require('gulp-convert-encoding');
 // const rename = require('gulp-rename')
-const argv = require('yargs')
-  .usage('$0 -t <target_mod_name>')
+const argv = require('yargs')/* (['--help']) */
+  .usage(`
+$0 -t <target_mod_name>
+or
+npm run update-mod-trans-from-src -- -t <target_mod_name>
+`)
   .alias('t', 'target')
   // .alias('r', 'relativePath')
   .argv;
 
+;(function () {
 const { target } = argv;
+if (!target) return;
+
 const dir = __dirname;
 const dirTranlated = path.join(dir, '../mod/modchina');
-const dirSource = path.join(dir, 'english');
-const dirDest = path.join(dir, 'chinese');
+const dirSource = path.join(dir, 'src');
+const dirDest = path.join(dir, 'dist');
 
 function syParseAsObject(content) {
   const result = {};
@@ -93,5 +100,5 @@ vfs.src(
     // next();
   }))
   // .pipe(convertEncoding({to: 'utf8', iconv: { addBOM: true }}))
-  .pipe(vfs.dest(path.join(dirDest, target, 'localisation')))
-
+  .pipe(vfs.dest(path.join(dirDest, target, 'localisation')));
+})();

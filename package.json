@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "update-mod-trans-from-src": "node workspace/update-mod-translations-from-src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
