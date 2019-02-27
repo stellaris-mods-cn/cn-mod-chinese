@@ -29,7 +29,7 @@ const dirDest = path.join(dir, 'dist');
 
 function syParseAsObject(content) {
   const result = {};
-  syReplaceKeyValuePair(content, function(key, value) {
+  syReplaceKeyValuePair(content, function(_, key, value) {
     result[key] = value;
   })
   return result;
@@ -38,7 +38,8 @@ function syParseAsObject(content) {
 function syReplaceKeyValuePair(content, replacer) {
   const contentStr = content.toString();
   return contentStr.replace(/([\w\.]+)(:\d*)?\s+"(.+)"/gi, function (_, key, suffix, value) {
-    return `${key}${suffix} "${replacer(key, value)}"`;
+    const wrap = final => `${key}${suffix} "${final}"`
+    return replacer(wrap, key, value);
   });
 }
 
@@ -83,9 +84,12 @@ vfs.src(
     );
 
     const keyMap = syParseAsObject(lastTranslatedContent);
-    const newContent = syReplaceKeyValuePair(file.contents, (key, value) => {
-      return keyMap[key] || value;
-    }).replace(/l_english:/, 'l_simp_chinese:');
+    const newContent = syReplaceKeyValuePair(
+      file.contents, (wrap, key, value) => {
+        const translated = keyMap[key]
+        return wrap(translated || value)+"\n"+
+        `## ${key} -> ${value} ##`
+      }).replace(/l_english:/, 'l_simp_chinese:');
 
     let newRelativePathFromLocalisation = ''
     if (isScoped) {
@@ -104,5 +108,5 @@ vfs.src(
   }))
   // .pipe(convertEncoding({to: 'utf8', iconv: { addBOM: true }}))
   .pipe(vfs.dest(path.join(dirDest, target, 'localisation')));
-  
+
 })();
