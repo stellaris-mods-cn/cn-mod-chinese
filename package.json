@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stellaris-mods-cn/cn-mod-chinese#readme",
   "dependencies": {
+    "gulp-convert-encoding": "^2.0.1",
     "mz": "^2.7.0",
     "through2": "^3.0.0",
     "vinyl": "^2.2.0",

@@ -55,7 +55,7 @@ l_simp_chinese:
   asteroid.11.c:0 "轨道卫队将抓住下一个。"
   asteroid.11.c.tooltip:0 "独立的采矿作业将继续进行。"
   asteroid.12.t:0 "灭绝的威胁"
-  asteroid.12.desc: "There are approximately ten thousand asteroids in the asteroid belt of size ten kilometers or larger which is enough to cause mass extinction on any planet. And there are many more asteroids, maybe not large enough to wipe out civilization on [Root.Capital.GetName], but big enough to obliterate a good part of it. The indendent mining operations in our home system are not currently thoroughly monitored and are a constant threat for the security of [Root.Capital.GetName]."
+  asteroid.12.desc: "小行星直径10公里或更大的小行星带大约有1万颗小行星，这足以造成任何行星的大规模灭绝。还有更多的小行星，也许还不足以摧毁[Root.Capital.GetName]的文明，但足够大到足以抹去它的大部分。我们的家庭系统内的采矿作业目前没有被彻底监测，而且对[Root.Capital.GetName]的安全构成持续的威胁。"
   asteroid.12.a:0 "建立一个轨道警卫"
   asteroid.12.a.tooltip:0 "建立一个从现在开始监视小行星的轨道守卫，并密切监视任何非授权的轨迹，减少小行星撞击星球的机会。"
   asteroid.12.b:0 "没有必要."
