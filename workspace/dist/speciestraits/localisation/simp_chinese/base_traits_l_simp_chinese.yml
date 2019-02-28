@@ -5,7 +5,7 @@ trait_tool_supremacy_desc:0 "§L这种生物平淡无奇。 但是，生产和�
 ## trait_tool_supremacy_desc -> §LThis type of species have no advantage unlike other species. However, skills to produce and utilize tools ensure their advancement.§!\n ##
 trait_two_legged:0 "站立"
 ## trait_two_legged -> Two Legged ##
-trait_two_legged_desc:0 "§L这种生物只能通过自己的肢体稳定站立，这可以释放其他肢体，以便在其他方面使用。§!\n"
+trait_two_legged_desc:0 "§L这种生物可以通过自己的肢体稳定站立，这可以释放其他肢体，以便在其他方面使用。§!\n"
 ## trait_two_legged_desc -> §LThis type of species can stand up stably only with two limbs, which freed up their other limbs to be used on other ways.§!\n ##
 trait_long_childhood:0 "漫长的幼年期"
 ## trait_long_childhood -> Long Childhood ##
