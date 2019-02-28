@@ -1,0 +1,11 @@
+﻿l_simp_chinese:
+ 
+ trait_asteroid_miners:0 "小行星矿业公司"
+## trait_asteroid_miners -> Asteroid Miners ##
+ trait_asteroid_miners_desc:0 "没有什么是不可能的……"
+## trait_asteroid_miners_desc -> §LNothing is out of reach...§!\n ##
+ 
+ trait_pc_asteroid_preference:0 "小行星的偏好"
+## trait_pc_asteroid_preference -> Asteroid Preference ##
+ trait_pc_asteroid_preference_desc:0 "气候偏好是由基因水平、进化过程或熟练操作决定的。"
+## trait_pc_asteroid_preference_desc -> §LClimate preference is determined at the genetic level, by eons of evolution or skillful manipulation.§!\n ##
