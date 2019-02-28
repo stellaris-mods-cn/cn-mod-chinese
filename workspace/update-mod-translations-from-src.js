@@ -70,7 +70,7 @@ vfs.src(
     const basenameChinese = basename.replace(/_english\.yml$/gi, '_simp_chinese.yml');
 
     const filepathTranslated = path.join(
-      dirTranlated, 'localisation', basenameChinese
+      dirTranlated, 'localisation', relativeDirPathFromLocalisation, basenameChinese
     );
 
     const filepathScopedTranslated = path.join(
@@ -91,21 +91,18 @@ vfs.src(
       dirSourceLocalisation, newRelativeDirPathFromLocalisation, basenameChinese
     );
 
-    if (!isScopedExists && !isExists) {
-      // 如果是新文件，则直接重命名复制
-      log(
-        chalk.green.bold('new'), 
-        'from', 
-        chalkBaseName(relativeFilePathFromLocalisation)
-      );
-      return next(null, file);
+    let keyMap = {};
+
+    if (isScopedExists) {
+      const content = await fs.readFile(filepathScopedTranslated);
+      keyMap = syParseAsObject(content);
     }
 
-    const lastTranslatedContent = await fs.readFile(
-      isScopedExists ? filepathScopedTranslated : filepathTranslated
-    );
+    if (isExists) {
+      const content = await fs.readFile(filepathTranslated);
+      keyMap = syParseAsObject(content);
+    }
 
-    const keyMap = syParseAsObject(lastTranslatedContent);
     const newContent = syReplaceKeyValuePair(
       file.contents, (wrap, key, value) => {
         const translated = keyMap[key]
@@ -115,12 +112,21 @@ vfs.src(
     
     file.contents = Buffer.from(newContent);
 
-    log(
-      chalk.blue.bold('merged'), 
-      'from', 
-      chalkBaseName(relativeFilePathFromLocalisation)
-    );
-
+    if (!isScopedExists && !isExists) {
+      // 如果是新文件，则直接重命名复制
+      log(
+        chalk.green.bold('new'), 
+        'from', 
+        chalkBaseName(relativeFilePathFromLocalisation)
+      );
+    } else {
+      log(
+        chalk.blue.bold('merged'), 
+        'from', 
+        chalkBaseName(relativeFilePathFromLocalisation)
+      );
+    }
+    
     next(null, file);
   }))
   .pipe(through.obj((file, _, next) => {
