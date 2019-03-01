@@ -69,12 +69,32 @@
  trait_pc_hothouse_preference:0 "温室星球 $preference$"
  trait_pc_hothouse_preference_desc:0 "$trait_pc_arctic_preference_desc$"
 
+ pc_underground_rocky:0 "无大气星球"
+ pc_underground_rocky_desc:0 "一个贫瘠的岩石星球，地下熔岩管据信是在玄武岩熔岩流中形成的。它们不受地表温度变化的影响，这将为居民提供一个稳定的环境。"
+ pc_underground_rocky_habitability:0 "Rocky sub-surface Habitability"
+ pc_underground_rocky_tile:0 "地下地形"
+ pc_underground_rocky_tile_desc:0 "岩石地下景观。"
+ trait_pc_underground_rocky_preference:0 "岩石子表面$preference$"
+ trait_pc_underground_rocky_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+ 
+ pc_underground_icy:0 "冰冻星球"
+ pc_underground_icy_desc:0 "一个冰冻的星球，地下洞穴被认为是在地热源附近形成的，这些地热源融化了周围的冰。它们为居民提供了一个稳定的环境，温度高于冰点，并能获得液态水。"
+ pc_underground_icy_habitability:0 "冰层下的可居住性"
+ pc_underground_icy_tile:0 "地下地形"
+ pc_underground_icy_tile_desc:0 "冰冷的地下景观。"
+ trait_pc_underground_rocky_preference:0 "冰子表面$preference$"
+ trait_pc_underground_rocky_preference_desc:0 "$trait_pc_arctic_preference_desc$"
+
  ###Terraforming Modifier
  adapted_environ:0 "适应环境"
  adapted_environ_desc:0 "这个星球已经经历了小规模的地貌改造工程，现在更适合建立一个能够支持生命的殖民地。自动化的地下基础设施已经建成，正在等待第一批殖民者的到来。" 
+ subterranean_rocky_candidate:0 "地下殖民地候选者"
+ subterranean_rocky_candidate_desc:0 "这个星球虽然贫瘠，没有生命，但它有巨大的地下洞穴，可以用来创造人工环境来维持生命。"
+ subterranean_icy_candidate:0 "地下殖民地候选者"
+ subterranean_icy_candidate_desc:0 "这个星球虽然贫瘠，没有生命，但它有巨大的地下洞穴，可以用来创造人工环境来维持生命。"
  
  ###NW Engine Start Sol
- nwengine.09.name:0 "New Worlds Sol Start"
+ nwengine.09.name:0 "太阳新世界"
  nwengine.09.desc:0 "来自私营部门的传言称，金星和土卫六的地下有液态或冷冻的水，可能会使人类在那里繁衍生息。你想调查这些谣言吗?\n\n§G选项 A:§!荒谬。\n\n§G选项 B:§!如果金星能被开发出来，有一天它可能会与地球竞争，派出一个探险队去调查，但是忽略关于土卫六的传言，因为土卫六太冷了。\n\n§G选项 C:§!金星太热了，我们怎么能改变这样的环境呢?但是如果在土卫六的外部系统中有一个边远的哨站，我们不应该忽视它!\n\n§G选项 D:§!任何能够在地球之外运营的私人公司都应该受到重视!探索两种可能性。"
  nwengine.09.a:0 "选项 A"
  nwengine.09.b:0 "选项 B"
@@ -84,3 +104,28 @@
  ###Decisions
  decision_adapted_environment:0 "适应环境"
  decision_adapted_environment_desc:0 "我们可以派遣带有所需建筑材料的自动化无人机去勘察理想的殖民地，建造基础设施，为我们在这个充满敌意的世界里的第一批殖民者提供更好的条件。"
+
+ ###Deposits
+ d_mineral_rich_rock:0 "矿产丰富的岩石"
+ d_mineral_rich_rock_desc:0 "这些岩石富含发展采矿业所必需的优质矿物。"
+ d_geothermal_rock:0 "热岩"
+ d_geothermal_rock_desc:0 "这些岩石可以开采出来产生地热能。"
+ d_rock:0 "坚硬的岩石"
+ d_rock_desc:0 "这个多岩石的地区可以被挖掘出来，为殖民地腾出更多的空间。"
+ d_ice:0 "冻结的冰"
+ d_ice_desc:0 "这个冰冻的区域可以融化，为蚁群腾出更多的空间。"
+ 
+ ###Anomalies
+ TERRAFORMING_CANDIDATE_EFFECT:0 "一旦 £society£ §H$tech_terrestrial_sculpting$§! 技术得到研究，§Y[From.GetName]§!将能够被改造。" 
+ subterranean_rocky_candidate_category:0 "稳定的地下熔岩管"
+ subterranean_rocky_candidate_category_desc:0 "这个贫瘠无生命的世界表面有巨大的熔岩管。"
+ subterranean_icy_candidate_category:0 "稳定的地下洞穴"
+ subterranean_icy_candidate_category_desc:0 "这个冰封无生命的星球在地表附近有巨大的洞穴。"
+ nw_anomaly.1.name:0 "发现地下殖民地候选者"
+ nw_anomaly.1.desc.intro:0 "我们对[From.GetName]的详细调查显示，它在地表附近有巨大的洞穴。这些材料在表面提供了一定的防辐射保护，并可用于创建具有可呼吸空气和压力的密封环境。"
+ nw_anomaly.1.desc.1:0 "$nw_anomaly.1.desc.intro$\n\n从理论上讲，创造一个人工稳定的环境是可能的，但我们还不具备完成这项任务的技术。"
+ nw_anomaly.1.desc.2:0 "$nw_anomaly.1.desc.intro$\n\n我们确实有技术来创造一个人工稳定的环境，它将允许我们在这里建立一个殖民地来开发星球的资源。"
+ nw_anomaly.2.name:0 "发现地下殖民地候选者"
+ nw_anomaly.2.desc.intro:0 "我们对[From.GetName]的详细调查显示，它在地表附近有巨大的洞穴。这些材料在表面提供了一定的防辐射保护，并可用于创建具有可呼吸空气和压力的密封环境。"
+ nw_anomaly.2.desc.1:0 "$nw_anomaly.1.desc.intro$\n\n从理论上讲，创造一个人工稳定的环境是可能的，但我们还不具备完成这项任务的技术。"
+ nw_anomaly.2.desc.2:0 "$nw_anomaly.1.desc.intro$\n\n我们确实有技术来创造一个人工稳定的环境，它将允许我们在这里建立一个殖民地来开发星球的资源。"

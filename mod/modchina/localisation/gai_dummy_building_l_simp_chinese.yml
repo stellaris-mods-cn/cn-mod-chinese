@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ zz_gai_dummy_building:0 "虚设AI建筑"
+ zz_gai_dummy_building_desc:0 "这座建筑用来阻止ai（包括ai部分）建造无用的建筑，因为它没有足够的可工作人口。你也可以建造这些建筑。以便你的总督ai可以利用它。当ai需要建
+造一栋建筑并且少于2个工作岗位时，它会自动摧毁！
+"
