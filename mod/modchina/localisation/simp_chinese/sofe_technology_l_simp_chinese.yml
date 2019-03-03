@@ -544,3 +544,30 @@ SOFE_AVATAR_DRIVER: "色欲传播"
 SOFE_AVATAR_DRIVER_DESC: "现实不过是幻想。它可以被篡改，也可以被修改。不存在的可以在足够的诱惑下迫使存在。"
 
 
+sofe_outer_class: "外星门"
+
+sofe_inner_class: "欧米茄星世界"
+
+district_sofe_omega_city: "光之堡垒"
+district_sofe_omega_city_desc: "在空虚的寒冷黑暗中，在光的温暖中寻求慰藉。让它流过身体，与群星合而为一"
+
+district_sofe_omega_logistics: "命运图书馆"
+district_sofe_omega_logistics_desc: "回首过去，理解古人的磨难和牺牲。永远不会忘记他们。"
+
+district_sofe_omega_progression: "反射塔"
+district_sofe_omega_progression_desc: "在浩瀚无情的海洋上，生命繁荣，进化自然。观察过程，理解自然规律。然后想想未来，以及未来的许多可能性。"
+
+tech_planet_killer_naniter: "巨石柱"
+tech_planet_killer_naniter_desc: "在古代，先祖播下了各种生命和行星的种子，但总有一天，进化会走向错误的方向，或者出现一些不该出现的东西。巨石柱就是解决这类问题的方法。这个巨大的武器将整个世界转移到一个记忆球中，有效地将这个星球从银河系中移除。居民将继续在他们的星球上生活，不构成任何威胁。\n\n如果使用不当，这的确是一种可怕的武器。"
+
+ACOT_PLANET_KILLER_NANITE_ACTION: "记忆网络传输"
+
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$上发射巨石柱"
+MESSAGE_DESC_FOR_ACOT_PLANET_KILLER_NANITE: "被从存在中抹去"
+is_a_golden_world: "§R$TRIGGER_FAIL$不应该这样被摧毁。§!"
+
+ACOT_PLANET_KILLER_NANITE: "巨石柱"
+ACOT_PLANET_KILLER_NANITE_DESC: "先祖的一种古代武器，用来将行星储存在一个记忆球中。这将允许这颗行星和它的居住者继续生活，同时将这颗行星完全从星系中移除。一个可怕的武器在错误的手中。"
+
+
+
