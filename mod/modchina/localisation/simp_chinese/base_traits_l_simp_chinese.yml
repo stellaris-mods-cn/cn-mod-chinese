@@ -13,9 +13,9 @@ trait_long_childhood_desc:0 "§L这种生物需要很长的时间才能成为社
 ## trait_long_childhood_desc -> §LThis type of species need longer time to be a grown member of society than other species. However, it ensures them time to experience many more.§!\n ##
 trait_developed_neocortex:0 "发达的神经皮层"
 ## trait_developed_neocortex -> Developed Neocortex ##
-trait_developed_neocortex_desc:0 "§L这种生物已经发展出非常先进的脑功能，使它们通常比其他物种获得更多智能优势。§!\n"
+trait_developed_neocortex_desc:0 "§L这种生物已经发展出非常活跃而且有效的神经系统，使它们通常比其他物种获得更多智能优势。§!\n"
 ## trait_developed_neocortex_desc -> §LThis type of species has developed highly advanced brain function, enabling them to generally achieve more than other species.§!\n ##
-trait_sustainable_body_temperature:0 "调节体温"
+trait_sustainable_body_temperature:0 "恒温"
 ## trait_sustainable_body_temperature -> Sustainable Temperature ##
 trait_sustainable_body_temperature_desc:0 "§L这种生物可以通过转换体内能量来控制体温，使它们能够更好地栖息在其他物种无法生存的极端地方。§!\n"
 ## trait_sustainable_body_temperature_desc -> §LThis type of species can manage their body temperature by converting the energy in their body, enabling them to inhabit extreme places that other species cannot.§!\n ##
@@ -27,25 +27,25 @@ trait_egg_laying:0 "通过产卵繁殖"
 ## trait_egg_laying -> Egg-laying ##
 trait_egg_laying_desc:0 "§L这种生物通过产卵繁殖，这使它们在繁殖方面非常有成效，但却容易受到其他的影响。§!\n"
 ## trait_egg_laying_desc -> §LThis type of species lay eggs in order to reproduce, which enables them very productive on reproduction, but vulnerable to others.§!\n ##
-trait_cold_blooded:0 "无法调节体温"
+trait_cold_blooded:0 "不恒温"
 ## trait_cold_blooded -> Cold-Blooded ##
-trait_cold_blooded_desc:0 "§L这种生物无法很好的调节自己的体温，这意味着它们无法生活在极端环境中，但较低的代谢频率，能够延长个体寿命。§!\n"
+trait_cold_blooded_desc:0 "§L这种生物无法很好的调节自己的体温（冷血生物），这意味着它们无法生活在极端环境中，但较低的代谢频率，能够延长个体寿命。§!\n"
 ## trait_cold_blooded_desc -> §LThis type of species are cold blooded, which means they are unable to live in extreme environments, but enabling them to live longer.§!\n ##
-trait_amphibian:0 "两栖能力"
+trait_amphibian:0 "两栖"
 ## trait_amphibian -> Amphibian ##
 trait_amphibian_desc:0 "§L这种生物可以生活在陆地和海洋（不一定是水组成的海洋）中，使他们能够更高效率的利用自己母星的环境。§!\n"
 ## trait_amphibian_desc -> §LThis type of species could live in both land and sea, enabling them to utilize entire ocean with ease.§!\n ##
-trait_flyable:0 "飞行能力"
+trait_flyable:0 "飞行"
 ## trait_flyable -> Flyable ##
 trait_flyable_desc:0 "§L这种生物可以飞行，这意味着他们的建筑物可以腾出很多空间。§!\n"
 ## trait_flyable_desc -> §LThis type of species can fly, which mean that they dont need stairs or elevators on their buildings, freeing up some space.§!\n ##
-trait_exceptional_eyesight:0 "卓越视力"
+trait_exceptional_eyesight:0 "视力非凡"
 ## trait_exceptional_eyesight -> Exceptional Eyesight ##
 trait_exceptional_eyesight_desc:0 "§L这种生物视力非凡，这有助于它们更容易找到猎物。§!\n"
 ## trait_exceptional_eyesight_desc -> §LThis type of species can see farther and accurately than other species, which help them to find prey far easier.§!\n ##
-trait_heavy_eater:0 "消耗大量粮食"
+trait_heavy_eater:0 "贪吃"
 ## trait_heavy_eater -> Heavy Eater ##
-trait_heavy_eater_desc:0 "§LThis type of species need to consume immense amount of food in order to sustain their body.§!\n"
+trait_heavy_eater_desc:0 "§L这种生物需要消耗非常多的粮食来维持生存。§!\n"
 ## trait_heavy_eater_desc -> §LThis type of species need to consume immense amount of food in order to sustain their body.§!\n ##
 trait_exoskeleton:0 "外骨骼"
 ## trait_exoskeleton -> Exoskeleton ##

@@ -136,7 +136,7 @@
  trait_additrait_mob_mentality:0 "乌合之众"
  trait_additrait_mob_mentality_desc:0 "§L这类物种喜欢群殴胜过单挑, 他们认为只要数量够多一切弱点都会被弥补.\n\n§W舰队容量 : §G+10%\n§W舰队伤害 : §R-5%§!\n"
  
- trait_additrait_living_ships:0 "生化飞船"
+ trait_additrait_living_ships:0 "活体飞船"
  trait_additrait_living_ships_desc:0 "§L这个物种在造船时使用了大量的生物工程,纳米机器人以及其他高科技,只要给予喘息机会他们的船就会自我修复.\n\n§W每月船体恢复 : §G+1%§!\n"
  
  trait_additrait_pioneers:0 "开拓者"
@@ -256,8 +256,8 @@
  wear_trait_additrait_mob_mentality:0 "乌合之众"
  wear_trait_additrait_mob_mentality_desc:0 "§L这个帝国的主要物种使用人海战术。§!\n"
  
- wear_trait_additrait_living_ships:0 "生化飞船"
- wear_trait_additrait_living_ships_desc:0 "§L这个帝国的主要物种使用生化飞船。§!\n"
+ wear_trait_additrait_living_ships:0 "活体飞船"
+ wear_trait_additrait_living_ships_desc:0 "§L这个帝国的主要物种使用活体飞船。§!\n"
  
  wear_trait_additrait_pioneers:0 "开拓者"
  wear_trait_additrait_pioneers_desc:0 "§L这个帝国的主要物种由开拓者组成。§!\n"

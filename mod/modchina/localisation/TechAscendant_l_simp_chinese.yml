@@ -72,7 +72,7 @@
  breakthrough.military_theory.desc:0 "他们现在了解先进的社会军事理论。"
 
  spread_chance:0 "传播机会增加:"
- living_sections:0 "生活船舶部分§G可用§!"
+ living_sections:0 "活体船舶部分§G可用§!"
 
  materials.tooltip:0 "§Y[materials_origin.GetName]:§! \n§G+25% £engineering \n+20%§! $MOD_SHIP_ARMOR_MULT$  \n解锁 §YNanofabrication Bay§!: 双倍造船产能 \n\n§Y$spread_chance$§! \n$leader_trait_expertise_materials$\n$ethic_materialist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_master_builders$\n$ap_mastery_of_nature$"
  industry.tooltip:0 "§Y[industry_origin.GetName]:§! \n§G+25%§! £engineering \n$mod_planet_farmers_minerals_produces_add$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_industry$\n$ethic_pacifist$ $ETHICS$\n$tr_domination_adopt$\n$ap_machine_worlds$\n$ap_galactic_wonders$\n$ap_arcology_project$"
@@ -140,7 +140,7 @@
  mod_planet_nobles_influence_produces_add:0 "$planet_nobles$ £influence£"
  mod_planet_executives_influence_produces_add:0 "$planet_executives$ £influence£"
  
- ORGANIC:"生活"
+ ORGANIC:"活体"
 
  nano_shipyard_desc_modifier:0 "双倍造船产能"
  sm_nano_shipyard:0 "纳米制造舱"
