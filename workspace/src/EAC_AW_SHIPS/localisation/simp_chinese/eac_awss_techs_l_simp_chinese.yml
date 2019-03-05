@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+
+  # Ship Tech 
+  eac_aw_tech_advanced_carrier:0 "Advanced Carrier Designs"
+  eac_aw_tech_advanced_carrier_desc:0 "Adds new strike craft focused ship sections.\n"
+  
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_TITLE:0 "§HAdvanced Carrier Designs§!"
+  EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_DESC:0 "This technology unlocks the Advanced Carrier layout for Battleships and Titans.\n"
+  
+  eac_aw_tech_missile_cruiser:0 "Missile Cruiser Designs"
+  eac_aw_tech_missile_cruiser_desc:0 "Adds more missile / torpedo focused ship sections.\n"
+
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_TITLE:0 "§HUnlocks Feature:§! Missile Cruiser Ship Sections"
+  EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_DESC:0 "This technology unlocks a heavier missile cruiser layout for Cruisers"
+
+  eac_aw_tech_light_carrier:0 "Cruiser Light Carrier Designs"
+  eac_aw_tech_light_carrier_desc:0 "Adds new strike craft focused ship sections to cruisers.\n"
+ 
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_TITLE:0 "§HUnlocks Feature:§! Light Carrier Cruiser Ship Sections"
+  EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_DESC:0 "This technology unlocks the Light Carrier layout for Cruisers.\n"
