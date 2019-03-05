@@ -1,0 +1,98 @@
+﻿l_simp_chinese:
+
+###################
+# Decisions
+################### 
+ decision_eac_scattergun_prioity_on:0 "设定运输船目标 开"
+## decision_eac_scattergun_prioity_on -> Set Transport Targeting On ##
+ decision_eac_scattergun_prioity_on_desc:1 "当运输船在轨道上时，设置螺旋炮或轨道炮炮组优先瞄准运输船。"
+## decision_eac_scattergun_prioity_on_desc -> Sets the coilgun or railgun battery to prioritize targeting transport ships when they are in orbit. ##
+ decision_eac_scattergun_prioity_off:0 "设定运输船目标 关"
+## decision_eac_scattergun_prioity_off -> Set Transport Targeting Off ##
+ decision_eac_scattergun_prioity_off_desc:1 "将弯管炮或轨道炮电池恢复到正常射击模式(无类型优先)。"
+## decision_eac_scattergun_prioity_off_desc -> Returns the coilgun or railgun battery to normal firing mode (no preference on fleet type). ##
+ 
+ planet_eac_scattergun_transport_targeting:0 "运输船目标 开"
+## planet_eac_scattergun_transport_targeting -> Transport Targeting On ##
+ planet_eac_scattergun_transport_targeting_tooltip:0 "炮台首先瞄准运输船。"
+## planet_eac_scattergun_transport_targeting_tooltip -> Gun battery targeting transport ships first. ##
+ planet_eac_scattergun_transport_targeting_desc:0 "在轨道上，轨道炮优先瞄准运输船。"
+## planet_eac_scattergun_transport_targeting_desc -> The coilgun or railgun battery is set to prioritize targeting transport ships when they are in orbit. ##
+
+ ###################
+ # Messages
+ ###################
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON:0 "遭受行星袭击的船队"
+## EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON -> Fleet Under Planetary Attack ##
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON_DESC:0 "舰船 $SHIP|H$§! §W在舰队§! $FLEET|H$§!正在遭到来自$PLANET|H$§!的攻击！"
+## EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON_DESC -> Ship $SHIP|H$§! §Win fleet§! $FLEET|H$§! is under fire from a planetary cannon on $PLANET|H$§!. ##
+
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON:0 "被行星炮摧毁的舰船"
+## EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON -> Ship Destroyed By Planetary Cannon ##
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON_DESC:0 "舰船$SHIP|H$§! §W在舰队§! $FLEET|H$§!在$PLANET|H$§!上被行星炮摧毁了。"
+## EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON_DESC -> Ship $SHIP|H$§! §Win fleet§! $FLEET|H$§! has been destroyed by a planetary cannon on $PLANET|H$§!. ##
+ 
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL:0 "行星炮正在运行"
+## EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL -> Planetary Cannon Operational ##
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL_DESC:0 "$PLANET|H$§!行星炮正在运行，舰队$FLEET|H$§!正在受到攻击！"
+## EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL_DESC -> The planetary cannon on $PLANET|H$§! is once again operational. Fleet $FLEET|H$§! is vulnerable. ##
+
+ job_eac_military_technician_energy:0 "能量武器技术员"
+## job_eac_military_technician_energy -> Energy Weapon Technician ##
+ job_eac_military_technician_energy_plural:0 "能量武器技术员"
+## job_eac_military_technician_energy_plural -> Energy Weapon Technicians ##
+ job_eac_military_technician_energy_desc:0 "行星炮需要熟练的工人来操作设备和监督操作。"
+## job_eac_military_technician_energy_desc -> Planetary cannons require skilled labor to operate equipment and oversee operations. ##
+ job_eac_military_technician_energy_effect_desc:0 "£job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ 产出 £physics£ §Y$physics_research$§!"
+## job_eac_military_technician_energy_effect_desc -> £job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ produce £physics£ §Y$physics_research$§! ##
+ mod_job_eac_military_technician_energy_add:0 "$job_eac_military_technician_energy$ 工作"
+## mod_job_eac_military_technician_energy_add -> $job_eac_military_technician_energy$ Jobs ##
+ mod_job_eac_military_technician_energy_per_pop:0 "§G+1§! $job_eac_military_technician_energy$ 工作每 $VALUE$ 人口"
+## mod_job_eac_military_technician_energy_per_pop -> §G+1§! $job_eac_military_technician_energy$ Job per $VALUE$ Pops ##
+ mod_job_eac_military_technician_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_energy_add£ 每 $VALUE$ £pop£"
+## mod_job_eac_military_technician_energy_per_pop_short -> \n§G+1§! £mod_job_eac_military_technician_energy_add£ per $VALUE$ £pop£ ##
+
+ job_eac_military_technician_kinetic:0 "动能武器技术员"
+## job_eac_military_technician_kinetic -> Kinetic Weapon Technician ##
+ job_eac_military_technician_kinetic_plural:0 "动能武器技术员"
+## job_eac_military_technician_kinetic_plural -> Kinetic Weapon Technicians ##
+ job_eac_military_technician_kinetic_desc:0 "行星炮电池需要熟练的工人来操作设备和监督操作。"
+## job_eac_military_technician_kinetic_desc -> Planetary gun batteries require skilled labor to operate equipment and oversee operations. ##
+ job_eac_military_technician_kinetic_effect_desc:0 "£job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ 产出 £engineering£ §Y$engineering_research$§!"
+## job_eac_military_technician_kinetic_effect_desc -> £job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ produce £engineering£ §Y$engineering_research$§! ##
+ mod_job_eac_military_technician_kinetic_add:0 "$job_eac_military_technician_kinetic$ 工作"
+## mod_job_eac_military_technician_kinetic_add -> $job_eac_military_technician_kinetic$ Jobs ##
+ mod_job_eac_military_technician_kinetic_per_pop:0 "§G+1§! $job_eac_military_technician_kinetic$ 工作每 $VALUE$ 人口"
+## mod_job_eac_military_technician_kinetic_per_pop -> §G+1§! $job_eac_military_technician_kinetic$ Job per $VALUE$ Pops ##
+ mod_job_eac_military_technician_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_kinetic_add£ 每 $VALUE$ £pop£"
+## mod_job_eac_military_technician_kinetic_per_pop_short -> \n§G+1§! £mod_job_eac_military_technician_kinetic_add£ per $VALUE$ £pop£ ##
+
+ job_eac_military_drone_energy:0 "能量武器单元"
+## job_eac_military_drone_energy -> Energy Weapon Drone ##
+ job_eac_military_drone_energy_plural:0 "能量武器单元"
+## job_eac_military_drone_energy_plural -> Energy Weapon Drones ##
+ job_eac_military_drone_energy_desc:0 "行星炮电池需要熟练的单元来操作设备和监督操作。"
+## job_eac_military_drone_energy_desc -> Planetary cannons require skilled drones to operate equipment and oversee operations. ##
+ job_eac_military_drone_energy_effect_desc:0 "£job_eac_military_drone_energy£ $job_eac_military_drone_energy_plural$ 产出 £physics£ §Y$physics_research$§!"
+## job_eac_military_drone_energy_effect_desc -> £job_eac_military_drone_energy£ $job_eac_military_drone_energy_plural$ produce £physics£ §Y$physics_research$§! ##
+ mod_job_eac_military_drone_energy_add:0 "$job_eac_military_drone_energy$ 工作"
+## mod_job_eac_military_drone_energy_add -> $job_eac_military_drone_energy$ Jobs ##
+ mod_job_eac_military_drone_energy_per_pop:0 "§G+1§! $job_eac_military_drone_energy$ 工作每 $VALUE$ 人口"
+## mod_job_eac_military_drone_energy_per_pop -> §G+1§! $job_eac_military_drone_energy$ Job per $VALUE$ Pops ##
+ mod_job_eac_military_drone_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_energy_add£ 每 $VALUE$ £pop£"
+## mod_job_eac_military_drone_energy_per_pop_short -> \n§G+1§! £mod_job_eac_military_drone_energy_add£ per $VALUE$ £pop£ ##
+
+ job_eac_military_drone_kinetic:0 "动能武器单元"
+## job_eac_military_drone_kinetic -> Kinetic Weapon Drone ##
+ job_eac_military_drone_kinetic_plural:0 "动能武器单元"
+## job_eac_military_drone_kinetic_plural -> Kinetic Weapon Drones ##
+ job_eac_military_drone_kinetic_desc:0 "行星炮电池需要熟练的单元来操作设备和监督操作。"
+## job_eac_military_drone_kinetic_desc -> Planetary gun batteries require skilled drones to operate equipment and oversee operations. ##
+ job_eac_military_drone_kinetic_effect_desc:0 "£job_eac_military_drone_kinetic£ $job_eac_military_drone_kinetic_plural$ 产出 £engineering£ §Y$engineering_research$§!"
+## job_eac_military_drone_kinetic_effect_desc -> £job_eac_military_drone_kinetic£ $job_eac_military_drone_kinetic_plural$ produce £engineering£ §Y$engineering_research$§! ##
+ mod_job_eac_military_drone_kinetic_add:0 "$job_eac_military_drone_kinetic$ 工作"
+## mod_job_eac_military_drone_kinetic_add -> $job_eac_military_drone_kinetic$ Jobs ##
+ mod_job_eac_military_drone_kinetic_per_pop:0 "§G+1§! $job_eac_military_drone_kinetic$ 工作每 $VALUE$ 人口"
+## mod_job_eac_military_drone_kinetic_per_pop -> §G+1§! $job_eac_military_drone_kinetic$ Job per $VALUE$ Pops ##
+ mod_job_eac_military_drone_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_kinetic_add£ 每 $VALUE$ £pop£"
+## mod_job_eac_military_drone_kinetic_per_pop_short -> \n§G+1§! £mod_job_eac_military_drone_kinetic_add£ per $VALUE$ £pop£ ##

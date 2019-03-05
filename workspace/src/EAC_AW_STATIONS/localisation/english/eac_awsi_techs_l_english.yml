@@ -1,0 +1,15 @@
+﻿l_english:
+
+  # Starbase Defense Tech
+  eac_aw_tech_repeatable_starbase_defense_platform_capacity_add:0 "Starport Defense Algorithms"
+  eac_aw_tech_repeatable_starbase_defense_platform_capacity_add_desc:0 "Improved control algorithms increase the number of defense platforms that can be reliably controlled."
+
+  # Station Defense
+  eac_tech_space_defense_station_heavy_1:0 "Miniaturized Defense Platform Components"
+  eac_tech_space_defense_station_heavy_1_desc:0 "Through component miniaturization, thicker hulls and additional turret points can be added to create a Heavy Defense Platform in the same shape and size as the current Defense Platform."
+  eac_tech_space_defense_station_heavy_hull_1:0 "Improved Heavy $military_station_small$ Hulls"
+  eac_tech_space_defense_station_heavy_hull_1_desc:0 "A reinforced framework and blast shields with enhanced impact absorption will ensure the structural integrity of the heavy platform even under immense pressure."
+  eac_tech_space_defense_station_heavy_hull_2:0 "Advanced Heavy $military_station_small$ Hulls"
+  eac_tech_space_defense_station_heavy_hull_2_desc:0 "The latest heavy platform hulls have optimized structural integrity fields and improved bulkheads."
+  eac_tech_large_gun_citadel:0 "Large Gun Citadels"
+  eac_tech_large_gun_citadel_desc:0 "A citadel core with large gun mounts."
