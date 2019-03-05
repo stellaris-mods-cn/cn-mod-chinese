@@ -3,338 +3,634 @@
  # Technologies
  ###################################################
 
- tech_materials_breakthrough:0 "材料突破"
- tech_materials_breakthrough_desc:0 "REPLACE_ME"
- tech_industry_breakthrough:0 "产业突破"
- tech_industry_breakthrough_desc:0 "REPLACE_ME"
- tech_rocketry_breakthrough:0 "火箭突破"
- tech_rocketry_breakthrough_desc:0 "REPLACE_ME"
- tech_particles_breakthrough:0 "粒子突破"
- tech_particles_breakthrough_desc:0 "REPLACE_ME"
- tech_voidcraft_breakthrough:0 "裂缝突破"
- tech_voidcraft_breakthrough_desc:0 "REPLACE_ME"
- tech_field_manipulation_breakthrough:0 "立场操纵突破"
- tech_field_manipulation_breakthrough_desc:0 "REPLACE_ME"
- tech_computing_breakthrough:0 "计算突破"
- tech_computing_breakthrough_desc:0 "REPLACE_ME"
- tech_psionics_breakthrough:0 "灵能突破"
- tech_psionics_breakthrough_desc:0 "REPLACE_ME"
- tech_new_worlds_breakthrough:0 "新世界突破"
- tech_new_worlds_breakthrough_desc:0 "REPLACE_ME"
- tech_biology_breakthrough:0 "生物学突破"
- tech_biology_breakthrough_desc:0 "REPLACE_ME"
- tech_statecraft_breakthrough:0 "政治的突破"
- tech_statecraft_breakthrough_desc:0 "REPLACE_ME"
- tech_military_theory_breakthrough:0 "军事理论突破"
- tech_military_theory_breakthrough_desc:0 "REPLACE_ME"
+ tech_materials_breakthrough: "材料突破"
+## tech_materials_breakthrough -> Breakthrough: Nanofabrication ##
+ tech_materials_breakthrough_desc: "REPLACE_ME"
+## tech_materials_breakthrough_desc -> We can make tiny tiny robots that make other tiny tiny robots. It will be adorable, and could not at all create terrifying grey goo ##
+ tech_industry_breakthrough: "产业突破"
+## tech_industry_breakthrough -> Breakthrough: Organic Silicon Processing ##
+ tech_industry_breakthrough_desc: "REPLACE_ME"
+## tech_industry_breakthrough_desc -> We can harvest minerals the way plants harvest sunlight. Instead of digging for geologic leftovers, we will grow minerals directly. ##
+ tech_rocketry_breakthrough: "火箭突破"
+## tech_rocketry_breakthrough -> Breakthrough: Inertialess Drive ##
+ tech_rocketry_breakthrough_desc: "REPLACE_ME"
+## tech_rocketry_breakthrough_desc -> Sure, for every force there is an equal and opposite reaction. But what if a localized hyperspace field could allow us to expel excess inertia into subspace, while maintaining a comfortable 1 G in transit? Yes. That makes sense. Take that, physics. ##
+ tech_particles_breakthrough: "粒子突破"
+## tech_particles_breakthrough -> Breakthrough: Predictive Quantum Mechanics ##
+ tech_particles_breakthrough_desc: "REPLACE_ME"
+## tech_particles_breakthrough_desc -> You cannot know both a particles speed and location, but what if we just got really good at guessing one of them? ##
+ tech_voidcraft_breakthrough: "太空船模块突破"
+## tech_voidcraft_breakthrough -> Breakthrough: Living Starships ##
+ tech_voidcraft_breakthrough_desc: "REPLACE_ME"
+## tech_voidcraft_breakthrough_desc -> Ships will become extensions of their crew, integrated with neural circuitry, self-preservation protocols, and regenerative properties. Unfortunately, this means that ships themselves may submit discomfort complaints if you change or upgrade their components too much. Bureaucracy never ends. ##
+ tech_field_manipulation_breakthrough: "立场操纵突破"
+## tech_field_manipulation_breakthrough -> Breakthrough: Temporal Shielding ##
+ tech_field_manipulation_breakthrough_desc: "REPLACE_ME"
+## tech_field_manipulation_breakthrough_desc -> Time is a far more efficient shield than any energy barrier. Small-scale temporal displacement fields will ensure that attacks cannot hit what is no longer there. ##
+ tech_computing_breakthrough: "计算突破"
+## tech_computing_breakthrough -> Breakthrough: Contained Singularity ##
+ tech_computing_breakthrough_desc: "REPLACE_ME"
+## tech_computing_breakthrough_desc -> Self optimizing AI does carry a risk of becoming exponentially more intelligent than its creators. But we have put this one in a very strong box, not to mention the 3 laws we hardcoded into its programming. Everything is perfectly safe, I assure you. ##
+ tech_psionics_breakthrough: "灵能突破"
+## tech_psionics_breakthrough -> Breakthrough: Psychohistory ##
+ tech_psionics_breakthrough_desc: "REPLACE_ME"
+## tech_psionics_breakthrough_desc -> Individuals are erratic, but mobs are predictable. Using a combination of history, sociology, and statistics we can predict the future of entire empires. ##
+ tech_new_worlds_breakthrough: "新世界突破"
+## tech_new_worlds_breakthrough -> Breakthrough: The Final Frontier ##
+ tech_new_worlds_breakthrough_desc: "REPLACE_ME"
+## tech_new_worlds_breakthrough_desc -> Standardized planning, factory produced deployable housing, and efficient management will expediate new colonies on the frontier. ##
+ tech_biology_breakthrough: "生物学突破"
+## tech_biology_breakthrough -> Breakthrough: Genetic Recoding ##
+ tech_biology_breakthrough_desc: "REPLACE_ME"
+## tech_biology_breakthrough_desc -> Evolution is a powerful but slow process, even genetic manipulation takes a generation to take effect. Now, we can edit the entire genome of a living organism in real time. ##
+ tech_statecraft_breakthrough: "政治的突破"
+## tech_statecraft_breakthrough -> Breakthrough: Universal Translators ##
+ tech_statecraft_breakthrough_desc: "REPLACE_ME"
+## tech_statecraft_breakthrough_desc -> Language is not only a barrier between different species, it separates various cultures within nearly every race. The universal translator has the potential to revolutionize both xeno-diplomacy and internal politics as well. ##
+ tech_military_theory_breakthrough: "军事理论突破"
+## tech_military_theory_breakthrough -> Breakthrough: Grand Strategy Simulations ##
+ tech_military_theory_breakthrough_desc: "REPLACE_ME"
+## tech_military_theory_breakthrough_desc -> By training our command staff with computer simulations from what has become known as the 4X school, our leaders will be better equipped to explore, expand, exploit, or exterminate as needed. ##
 
  ###################################################
  # Events
  ###################################################
  
- materials_breakthrough.title:0 "[materials_origin.GetName] 理解了先进材料方法"
- industry_breakthrough.title:0 "[industry_origin.GetName] 理解了先进的工业技术"
- rocketry_breakthrough.title:0 "[rocketry_origin.GetName] 理解了先进火箭技术"
- particles_breakthrough.title:0 "[particles_origin.GetName] 理解了高级粒子应用"
- voidcraft_breakthrough.title:0 "[voidcraft_origin.GetName] 理解了先进的裂缝技术"
- field_manipulation_breakthrough.title:0 "[field_manipulation_origin.GetName] 理解了先进力场论"
- computing_breakthrough.title:0 "[computing_origin.GetName] 理解了高级计算机算法"
- psionics_breakthrough.title:0 "[psionics_origin.GetName] 理解了先进灵能理论"
- new_worlds_breakthrough.title:0 "[new_worlds_origin.GetName] 理解了新世界扩张学"
- biology_breakthrough.title:0 "[biology_origin.GetName] 理解了高级生物学"
- statecraft_breakthrough.title:0 "[statecraft_origin.GetName] 理解了先进政治学"
- military_theory_breakthrough.title:0 "[military_theory_origin.GetName] 理解先进军事理论"
-
- breakthrough.friendly.desc:0 "我们与 [spread_origin.GetSpeciesNamePlural] 有良好的关系, 因此，我们可以通过贸易来了解他们的秘密。我们的科学家们已经忙于理论化我们如何将这种新技术应用到我们自己的研究中去。"
- breakthrough.hostile.desc:0 "这个 [spread_origin.GetSpeciesNamePlural] 他们不是我们的朋友，他们警惕地守护着他们新发现的技术。我们的间谍们对任何可以让我们为自己揭开这些秘密的信息保持警觉。国务院提倡外交手段，如果我们能重新回到 [spread_origin.GetName], 也许他们会和我们分享他们的创新"
- spread.deteriorated.title:0 "[spread_origin.GetName] 分类技术秘密"
- spread.deteriorated.desc:0 "我们的关系与 [spread_origin.GetSpeciesNamePlural] 已经恶化，他们驱逐了我们的科学家。如果我们想了解他们的技术，我们就必须找到其他方法或修补我们国家之间的裂痕。"
- spread.improved.title:0 "科学无国界"
- spread.improved.desc:0 "友谊与日俱增 [spread_origin.GetSpeciesNamePlural] 人口领先于 [spread_origin.GetName] 打开他们的研究设施 [root.GetSpeciesAdj] 科学家。很快，我们也将从他们先进的技术突破中获益。"
- spread.lost.title:0 "技术知识流失"
- spread.lost.desc:0 "我们再也学不到秘密了 [spread_origin.GetName]. 没有边界，它们的进步可能会给科学家们留下一段时间的谜团。"
- breakthrough_engineering.title:0 "£engineering  [spread_origin.GetName] 有了突破 £engineering"
- breakthrough_physics.title:0 "£physics  [spread_origin.GetName] 有了突破 £physics"
- breakthrough_society.title:0 "£society  [spread_origin.GetName] 有了突破 £society"
- breakthrough_unity.title:0 "£unity  [spread_origin.GetName] 有了突破 £unity"
+ materials_breakthrough.title: "[materials_origin.GetName] 理解了先进材料方法"
+## materials_breakthrough.title -> £engineering  Breakthrough: Nanofabrication £engineering ##
+ industry_breakthrough.title: "[industry_origin.GetName] 理解了先进的工业技术"
+## industry_breakthrough.title -> £engineering  Breakthrough: Organic Silicon Processing £engineering ##
+ rocketry_breakthrough.title: "[rocketry_origin.GetName] 理解了先进火箭技术"
+## rocketry_breakthrough.title -> £engineering  Breakthrough: Inertialess Drive £engineering ##
+ particles_breakthrough.title: "[particles_origin.GetName] 理解了高级粒子应用"
+## particles_breakthrough.title -> £physics  Breakthrough: Predictive Quantum Mechanics £physics ##
+ voidcraft_breakthrough.title: "[voidcraft_origin.GetName] 理解了先进的太空船模块技术"
+## voidcraft_breakthrough.title -> £engineering  Breakthrough: Living Starships £engineering ##
+ field_manipulation_breakthrough.title: "[field_manipulation_origin.GetName] 理解了先进力场论"
+## field_manipulation_breakthrough.title -> £physics  Breakthrough: Temporal Shielding £physics ##
+ computing_breakthrough.title: "[computing_origin.GetName] 理解了高级计算机算法"
+## computing_breakthrough.title -> £physics  Breakthrough: Contained Singularity £physics ##
+ psionics_breakthrough.title: "[psionics_origin.GetName] 理解了先进灵能理论"
+## psionics_breakthrough.title -> £unity  Breakthrough: Psychohistory £unity ##
+ new_worlds_breakthrough.title: "[new_worlds_origin.GetName] 理解了新世界扩张学"
+## new_worlds_breakthrough.title -> £society  Breakthrough: The Final Frontier £society ##
+ biology_breakthrough.title: "[biology_origin.GetName] 理解了高级生物学"
+## biology_breakthrough.title -> £society  Breakthrough: Genetic Recoding £society ##
+ statecraft_breakthrough.title: "[statecraft_origin.GetName] 理解了先进政治学"
+## statecraft_breakthrough.title -> £society  Breakthrough: Universal Translators £society ##
+ military_theory_breakthrough.title: "[military_theory_origin.GetName] 理解先进军事理论"
+## military_theory_breakthrough.title -> £society  Breakthrough: Grand Strategy Simulations £society ##
  
- breakthrough.materials.desc:0 "他们现在了解先进的工业材料方法。"
- breakthrough.industry.desc:0 "他们现在了解先进的工程技术。"
- breakthrough.rocketry.desc:0 "他们现在了解先进的工业火箭。"
- breakthrough.particles.desc:0 "他们现在了解先进的物理粒子应用。"
- breakthrough.voidcraft.desc:0 "他们现在了解先进的裂缝技术。"
- breakthrough.field_manipulation.desc:0 "他们现在懂得先进的物理力场理论。"
- breakthrough.computing.desc:0 "他们现在了解先进的物理计算算法。"
- breakthrough.psionics.desc:0 "他们现在明白了先进的灵能理论"
- breakthrough.new_worlds.desc:0 "他们现在了解先进的新世界扩张学。"
- breakthrough.biology.desc:0 "他们现在了解先进的社会生物学。"
- breakthrough.statecraft.desc:0 "他们现在懂得了先进的社会习俗。"
- breakthrough.military_theory.desc:0 "他们现在了解先进的社会军事理论。"
+ breakthrough.friendly.desc: "我们与 [spread_origin.GetSpeciesNamePlural] 有良好的关系, 因此，我们可以通过贸易来了解他们的秘密。我们的科学家们已经忙于理论化我们如何将这种新技术应用到我们自己的研究中去。"
+## breakthrough.friendly.desc -> We have good relations with the [spread_origin.GetSpeciesNamePlural], so in time we may learn their secrets through trade. Our scientists are already busy theorizing how we could adapt this new technology to our own research. ##
+ breakthrough.hostile.desc: "这个 [spread_origin.GetSpeciesNamePlural] 他们不是我们的朋友，他们警惕地守护着他们新发现的技术。我们的间谍们对任何可以让我们为自己揭开这些秘密的信息保持警觉。国务院提倡外交手段，如果我们能重新回到 [spread_origin.GetName], 也许他们会和我们分享他们的创新"
+## breakthrough.hostile.desc -> The [spread_origin.GetSpeciesNamePlural] are not exactly our friends, and they are guarding their newfound technology vigilantly. Our spies are on alert for any information that may allow us to unlock these secrets for ourselves. The state department advocates a diplomatic approach, if we can get back into the good graces of the [spread_origin.GetName], perhaps they will share their innovations with us. ##
+ spread.deteriorated.title: "[spread_origin.GetName] 分类技术秘密"
+## spread.deteriorated.title -> [spread_origin.GetName] Classifies their Technological Secrets ##
+ spread.deteriorated.desc: "我们的关系与 [spread_origin.GetSpeciesNamePlural] 已经恶化，他们驱逐了我们的科学家。如果我们想了解他们的技术，我们就必须找到其他方法或修补我们国家之间的裂痕。"
+## spread.deteriorated.desc -> Our relationship with the [spread_origin.GetSpeciesNamePlural] has deteriorated, and they have expelled our scientists from their borders. If we want to understand their technology, we will have to find other means or mend the rift between our nations. ##
+ spread.improved.title: "科学无国界"
+## spread.improved.title -> Science Knows No Borders ##
+ spread.improved.desc: "友谊与日俱增 [spread_origin.GetSpeciesNamePlural] 人口领先于 [spread_origin.GetName] 打开他们的研究设施 [root.GetSpeciesAdj] 科学家。很快，我们也将从他们先进的技术突破中获益。"
+## spread.improved.desc -> The growing friendship with the [spread_origin.GetSpeciesNamePlural] population has lead the [spread_origin.GetName] to open their research facilities to [root.GetSpeciesAdj] scientists. Soon we too will benefit from their advanced technological breakthroughs. ##
+ spread.lost.title: "技术知识流失"
+## spread.lost.title -> Technical Knowledge Lost ##
+ spread.lost.desc: "我们再也学不到秘密了 [spread_origin.GetName]. 没有边界，它们的进步可能会给科学家们留下一段时间的谜团。"
+## spread.lost.desc -> We can no longer learn the secrets of the [spread_origin.GetName]. Either we no longer share a border or they have managed to engineer their technology too enigmatically to emulate. Their advancements are likely to remain mysteries to our scientists for some time. ##
+ breakthrough_engineering.title: "£engineering  [spread_origin.GetName] 有了突破 £engineering"
+## breakthrough_engineering.title -> £engineering  [spread_origin.GetName] has made a Breakthrough £engineering ##
+ breakthrough_physics.title: "£physics  [spread_origin.GetName] 有了突破 £physics"
+## breakthrough_physics.title -> £physics  [spread_origin.GetName] has made a Breakthrough £physics ##
+ breakthrough_society.title: "£society  [spread_origin.GetName] 有了突破 £society"
+## breakthrough_society.title -> £society  [spread_origin.GetName] has made a Breakthrough £society ##
+ breakthrough_unity.title: "£unity  [spread_origin.GetName] 有了突破 £unity"
+## breakthrough_unity.title -> £unity  [spread_origin.GetName] has made a Breakthrough £unity ##
+ 
+ breakthrough.materials.desc: "他们现在了解先进的工业材料方法。"
+## breakthrough.materials.desc -> Nanofabrication has long been a dream of our scientists, but today [materials_origin.GetSpeciesName] researchers have made it a reality. The ability to construct molecules from the ground up, the chance to play with the very building blocks of the universe as if they were Legos, opens entirely new fields for materials technology. The admiralty believes this knowledge would allow for nearly impenetrable hull plating, and it is certain to revolutionize nearly all fields of engineering. ##
+ breakthrough.industry.desc: "他们现在了解先进的工程技术。"
+## breakthrough.industry.desc -> Silicon lifeforms were once a trope of early [root.GetSpeciesName] science fiction, with novels and television episodes depicting indecipherable rock-like aliens. [industry_origin.GetAdj] scientists have been able to create silicon based life in the flesh... if you can call it flesh. These creatures are essentially living, growing minerals. Instead of mining deep underground for metals and crystals, the raw materials of advanced society can simply be grown. The engineering applications of living minerals are staggering. Some claim it is to be start of a 12th industrial revolution, while others claim that this is the logical conclusion of a long history of resource exploitation, what better end could there be than to find out how to give life to and then exploit the resources themselves. And yes, now you really can have a pet rock. ##
+ breakthrough.rocketry.desc: "他们现在了解先进的工业火箭。"
+## breakthrough.rocketry.desc -> The biggest limitation of sub-light space travel is not our thrust technology, but our own biology. Ships can handle far greater G-forces than the squishy beings inside them. [rocketry_origin.GetAdj] scientists have shown that a small targeted hyperspace field directly between our engines and the rest of the ship can absorb inertia, effectively reducing any amount of external acceleration to a tolerable interior G force. Apparently there is a small chance that bits of the ship and crew could also leak into hyperspace, but that is a minor price to pay for this kind speed. The test crew did return with 98% of their limbs, which is within the margin of error. This technology will surely revolutionize ship design and have far reaching applications in engineering. ##
+ breakthrough.particles.desc: "他们现在了解先进的物理粒子应用。"
+## breakthrough.particles.desc -> The uncertainty principle has long fascinated amateur [root.GetSpeciesName] science enthusiasts, who have often misused it to make absurd claims about small furry animals in boxes. [particles_origin.GetAdj] researchers have announced that they can know a particles precise position, and simultaneously have a really really good guess about its speed. Predictive quantum mechanics will completely reshape our understanding of particle physics, with the first of many applications in increasing the output of fusion reactors. A [particles_origin.GetAdj] scientist explained the breakthrough this way: Imagine you have a blorg in a box. You don't know if the blorg is alive or dead, so until you look in the box it is in a state of quantum superposition, the blorg is both alive and dead. But, if we know the blorg is alive, we can guess with near certainty that the blorg wants friends. That is basically how predictive quantum mechanics works. ##
+ breakthrough.voidcraft.desc: "他们现在了解先进的太空船模块技术。"
+## breakthrough.voidcraft.desc -> Captains have spoken about their ships as if they were living beings since our ancestors were traveling in wooden ships powered by the wind. Today, old superstitions are a reality as [voidcraft_origin.GetAdj] scientists have developed prototypes of organic starships. Made out of a combination of metal and tissue, held together by synaptic circuits, these living voidcraft can sense their surroundings, avoid danger, and heal themselves from superficial injuries. They have hopes and dreams, and make their home among the stars. What new wonders in engineering will these incredible ships bring to our universe? ##
+ breakthrough.field_manipulation.desc: "他们现在懂得先进的物理力场理论。"
+## breakthrough.field_manipulation.desc -> Shields have always functioned to mitigate damage by placing either a physical or energy based barrier between the attacked and the attacker. [field_manipulation_origin.GetAdj] scientists have found a way to place that barrier not in space, but in time. While true time travel remains out of reach, temporal shielding uses small scale time displacement fields to offset incoming ordinance by a few seconds, preventing it from hitting what it was aimed at. Sadly, time displacement fields are only stable for extremely short periods, so going back in time to tell yourself to make better life choices or what the winning lottery numbers will be remains the stuff of science fiction. Nonetheless, the applications of this technology for physics research are astounding. ##
+ breakthrough.computing.desc: "他们现在了解先进的物理计算算法。"
+## breakthrough.computing.desc -> The fear that a creation will surpass the capabilities of its creator has been fodder for literature on our world since before we even knew about computing. To this day old stories of monsters being assembled out of parts of the dead or some such nonsense still inspire a cult-like following. However, [computing_origin.GetAdj] scientists have finally done it, creating a self improving intelligence that rapidly made their brightest minds seem like ants in comparison to the new singularity. Conveniently, [computing_origin.GetAdj] researchers also put that super-intelligence inside an unstable hyperspace field which they can shut down at any moment. Critics say such an all powerful being cannot be contained forever, and that eventually the intelligence will simply talk the scientists into releasing it. But such an idea is absurd, why would anyone in their right mind let a likely angry and malevolent super-intelligence out of its box? Well, until such time as it does escape, the researchers are rapidly expanding their knowledge of physics and finding new avenues of research in all fields by learning from the being. ##
+ breakthrough.psionics.desc: "他们现在明白了先进的灵能理论"
+## breakthrough.psionics.desc -> Predicting the future has long been relegated to the fringes of our society, with soothsayers and fortune tellers merely telling tales that their audience already wants to hear. However, while the future of an individual is chaotic and unpredictable, the behavior of large groups, planets, and entire empires is quite knowable, just as the path of a single molecule in a gas is chaos, we can nonetheless predict the behavior the gas as a group as it fills a container despite knowing little about the individual molecules within. [psionics_origin.GetAdj] researchers have shown that through a combination of statistics, sociology, and history they can apply this to the galaxy at large, and the larger the group, the more accurate the future they can predict. Their newfound uncanny ability to predict the future is leading to advances in all fields, and unifying their people as never before. Perhaps this is all a great act however, a few deranged [psionics_origin.GetSpeciesNamePlural] have broken free and claimed that they foresee impending doom for the entire galaxy. They have started some sort of 'Foundation' to preserve knowledge through a thousand years of darkness. They are clearly lunatics to be ignored. ##
+ breakthrough.new_worlds.desc: "他们现在了解先进的新世界扩张学。"
+## breakthrough.new_worlds.desc -> New colonies were once a wild lawless land, full of foolhardy but well meaning characters and a sense of adventure. While a romantic notion popular in books and holovids, this was never a highly efficient system for spreading to new worlds. [new_worlds_origin.GetAdj] researchers have streamlined colony protocols and tamed the frontier with the stroke of a pen and some orderly ordinances. New [new_worlds_origin.GetSpeciesName] colonies will develop at a faster rate and secure larger, self sufficient populations with ease. Each new colony can be seen as an incubator for new social structures, a vast social experiment that could revolutionize [new_worlds_origin.GetSpeciesAdj] society. ##
+ breakthrough.biology.desc: "他们现在了解先进的社会生物学。"
+## breakthrough.biology.desc -> Genetics manipulation was once considered an ethical dilemma by early [root.GetSpeciesName] society. It would be too easy to create a permanent underclass of the genetically inferior, and conflict with genetically enhanced super-[root.GetSpeciesNamePlural] was a common trope of period science fiction. However, [biology_origin.GetAdj] scientists have discovered a way to make instant edits directly to living subjects, revolutionizing genetics, biology, and their society at large. Now evolution does not have to wait for generations to have an effect, and societal stratification is a not a concern as anyone anytime could alter their genome as they see fit. Somehow, this is not exactly a comforting thought. ##
+ breakthrough.statecraft.desc: "他们现在懂得了先进的社会习俗。"
+## breakthrough.statecraft.desc -> In early [root.GetSpeciesAdj] science fiction, universal translators were little more than a plot device, language barriers were inconvenient to the flow of most 30 minute episodes. Yet today, [statecraft_origin.GetAdj] researchers have developed a real life portable device that can allow natural communication between anyone. With the idealistic belief that simple communication could be the last, best hope for peace, [statecraft_origin.GetName] has built a station in neutral territory to prevent future wars, a place where [statecraft_origin.GetSpeciesNamePlural] and aliens could work out their differences peacefully. Its a port of call, home away from home for diplomats, hustlers, entrepreneurs and wanderers. The name of the place is Babylon 5. Perhaps we should send an ambassador. ##
+ breakthrough.military_theory.desc: "他们现在了解先进的社会军事理论。"
+## breakthrough.military_theory.desc -> The lessons of history are the keys to the future. It seems that nearly every [military_theory_origin.GetSpeciesName] on [military_theory_origin.GetHomeWorldName] has become obsessed with a series of grand strategy games that depict various time periods from their history. Some cover the great wars of their past, the struggles of feudal lords to gain power when [military_theory_origin.GetSpeciesNamePlural] were still a primitive race, or more recent events like exploration and expansion into space. It seems that this fascination with history and strategy has cultivated a crop of leaders far better equipped to understand complex situations and deal with tactics and logistics to lead large fleets into battle. ##
 
- spread_chance:0 "传播机会增加:"
- living_sections:0 "活体船舶部分§G可用§!"
+ spread_chance: "传播机会增加:"
+## spread_chance -> Spread chance increased by: ##
+ living_sections: "活体船舶部分§G可用§!"
+## living_sections -> Living Ship Sections §GAvailable§! ##
 
- materials.tooltip:0 "§Y[materials_origin.GetName]:§! \n§G+25% £engineering \n+20%§! $MOD_SHIP_ARMOR_MULT$  \n解锁 §YNanofabrication Bay§!: 双倍造船产能 \n\n§Y$spread_chance$§! \n$leader_trait_expertise_materials$\n$ethic_materialist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_master_builders$\n$ap_mastery_of_nature$"
- industry.tooltip:0 "§Y[industry_origin.GetName]:§! \n§G+25%§! £engineering \n$mod_planet_farmers_minerals_produces_add$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_industry$\n$ethic_pacifist$ $ETHICS$\n$tr_domination_adopt$\n$ap_machine_worlds$\n$ap_galactic_wonders$\n$ap_arcology_project$"
- rocketry.tooltip:0 "§Y[rocketry_origin.GetName]:§! \n§G+25% £engineering \n+25%§! $MOD_SHIP_SPEED_MULT$ \n§G+5§! $MOD_SHIP_EVASION_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_propulsion$\n$ethic_militarist$ $ETHICS$\n$tr_supremacy_adopt$\n$ap_galactic_force_projection$\n$ap_nihilistic_acquisition$"
- voidcraft.tooltip:0 "§Y[voidcraft_origin.GetName]:§! \n§G+25% £engineering \n+1§! $MOD_SHIP_HULL_REGEN_ADD_PERC$\n§G+10%§! $MOD_SHIP_HITPOINTS_MULT$\n$living_sections$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_voidcraft$\n$ethic_xenophobe$ $ETHICS$\n$tr_expansion_adopt$\n$tr_harmony_adopt$\n$ap_voidborn$\n$ap_colossus$"
- particles.tooltip:0 "§Y[particles_origin.GetName]:§! \n§G+30% £physics \n+15%§! $mod_planet_jobs_energy_produces_mult$ \n§G+15%§! $mod_station_gatherers_energy_produces_mult$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_particles$\n$ethic_authoritarian$ $ETHICS$\n$tr_discovery_adopt$\n$ap_defender_of_the_galaxy$\n$ap_technological_ascendancy$"
- field_manipulation.tooltip:0 "§Y[field_manipulation_origin.GetName]:§! \n§G+30% £physics \n+20%§! $MOD_SHIP_SHIELD_HP_MULT$ \n§G+5§! $MOD_SHIP_SHIELD_REGEN_ADD_PERC$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_field_manipulation$\n$ethic_pacifist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_grasp_the_void$\n$ap_enigmatic_engineering$"
- computing.tooltip:0 "§Y[computing_origin.GetName]:§! \n§G+30% £physics \n+1§! $MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$ \n§G+40§! $MOD_COUNTRY_ADMIN_CAP_ADD$ \n\n\n§Y$spread_chance$§! \n$leader_trait_expertise_computing$\n$ethic_materialist$ $ETHICS$\n$tr_domination_adopt$\n$ap_the_flesh_is_weak$\n$ap_synthetic_evolution$\n$ap_synthetic_age$"
- psionics.tooltip:0 "§Y[psionics_origin.GetName]:§! \n§G+10%§! £engineering £physics £society \n$Psychohistorians_desc$ \n基金会加成: \n$foundation_established_desc$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_psionics$\n$ethic_spiritualist$ $ETHICS$\n$tr_harmony_adopt$\n$ap_mind_over_matter$\n$ap_transcendence$\n$ap_transcendent_learning$"
- new_worlds.tooltip:0 "§Y[new_worlds_origin.GetName]:§! \n§G+25% £society \n+50%§! $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$\n§G+2§! $MOD_COLONY_START_NUM_POPS_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_new_worlds$\n$ethic_xenophile$ $ETHICS$\n$tr_expansion_adopt$\n$tr_diplomacy_adopt$\n$ap_world_shaper$\n$ap_consecrated_worlds$\n$ap_hive_worlds$"
- biology.tooltip:0 "§Y[biology_origin.GetName]:§! \n§G+25% £society \n+2§! $species_trait_points_add$\n§G-25%§! $MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_biology$\n$ethic_xenophile$ $ETHICS$\n$tr_discovery_adopt$\n$ap_engineered_evolution$\n$ap_evolutionary_mastery$\n$ap_xeno_compatibility$"
- statecraft.tooltip:0 "§Y[statecraft_origin.GetName]:§! \n§G+25% £society \n+1§! £influence \n§G+50§! $MOD_COUNTRY_TRUST_CAP_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_statecraft$\n$ethic_egalitarian$ $ETHICS$\n$tr_diplomacy_adopt$\n$ap_imperial_prerogative$\n$ap_one_vision$\n$ap_executive_vigor$\n$ap_shared_destiny$\n$ap_universal_transactions$"
- military_theory.tooltip:0 "§Y[military_theory_origin.GetName]:§! \n§G+25% £society \n+20§! $MOD_COUNTRY_COMMAND_LIMIT_ADD$\n§G+2§! $MOD_LEADER_SKILL_LEVELS$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_military_theory$\n$ethic_militarist$ $ETHICS$\n$tr_supremacy_adopt$\n$ap_interstellar_dominion$\n$ap_eternal_vigilance$"
+ materials.tooltip: "§Y[materials_origin.GetName]:§! \n§G+25% £engineering \n+20%§! $MOD_SHIP_ARMOR_MULT$  \n解锁 §YNanofabrication Bay§!: 双倍造船产能 \n\n§Y$spread_chance$§! \n$leader_trait_expertise_materials$\n$ethic_materialist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_master_builders$\n$ap_mastery_of_nature$"
+## materials.tooltip -> §Y[materials_origin.GetName]:§! \n§G+25% £engineering \n+20%§! $MOD_SHIP_ARMOR_MULT$  \nUnlocks §YNanofabrication Bay§!: Doubles shipyard capacity \n\n§Y$spread_chance$§! \n$leader_trait_expertise_materials$\n$ethic_materialist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_master_builders$\n$ap_mastery_of_nature$ ##
+ industry.tooltip: "§Y[industry_origin.GetName]:§! \n§G+25%§! £engineering \n$mod_planet_farmers_minerals_produces_add$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_industry$\n$ethic_pacifist$ $ETHICS$\n$tr_domination_adopt$\n$ap_machine_worlds$\n$ap_galactic_wonders$\n$ap_arcology_project$"
+## industry.tooltip -> §Y[industry_origin.GetName]:§! \n§G+25%§! £engineering \n$mod_planet_farmers_minerals_produces_add$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_industry$\n$ethic_pacifist$ $ETHICS$\n$tr_domination_adopt$\n$ap_machine_worlds$\n$ap_galactic_wonders$\n$ap_arcology_project$ ##
+ rocketry.tooltip: "§Y[rocketry_origin.GetName]:§! \n§G+25% £engineering \n+25%§! $MOD_SHIP_SPEED_MULT$ \n§G+5§! $MOD_SHIP_EVASION_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_propulsion$\n$ethic_militarist$ $ETHICS$\n$tr_supremacy_adopt$\n$ap_galactic_force_projection$\n$ap_nihilistic_acquisition$"
+## rocketry.tooltip -> §Y[rocketry_origin.GetName]:§! \n§G+25% £engineering \n+25%§! $MOD_SHIP_SPEED_MULT$ \n§G+5§! $MOD_SHIP_EVASION_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_propulsion$\n$ethic_militarist$ $ETHICS$\n$tr_supremacy_adopt$\n$ap_galactic_force_projection$\n$ap_nihilistic_acquisition$ ##
+ voidcraft.tooltip: "§Y[voidcraft_origin.GetName]:§! \n§G+25% £engineering \n+1§! $MOD_SHIP_HULL_REGEN_ADD_PERC$\n§G+10%§! $MOD_SHIP_HITPOINTS_MULT$\n$living_sections$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_voidcraft$\n$ethic_xenophobe$ $ETHICS$\n$tr_expansion_adopt$\n$tr_harmony_adopt$\n$ap_voidborn$\n$ap_colossus$"
+## voidcraft.tooltip -> §Y[voidcraft_origin.GetName]:§! \n§G+25% £engineering \n+1§! $MOD_SHIP_HULL_REGEN_ADD_PERC$\n§G+10%§! $MOD_SHIP_HITPOINTS_MULT$\n$living_sections$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_voidcraft$\n$ethic_xenophobe$ $ETHICS$\n$tr_expansion_adopt$\n$tr_harmony_adopt$\n$ap_voidborn$\n$ap_colossus$ ##
+ particles.tooltip: "§Y[particles_origin.GetName]:§! \n§G+30% £physics \n+15%§! $mod_planet_jobs_energy_produces_mult$ \n§G+15%§! $mod_station_gatherers_energy_produces_mult$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_particles$\n$ethic_authoritarian$ $ETHICS$\n$tr_discovery_adopt$\n$ap_defender_of_the_galaxy$\n$ap_technological_ascendancy$"
+## particles.tooltip -> §Y[particles_origin.GetName]:§! \n§G+30% £physics \n+15%§! $mod_planet_jobs_energy_produces_mult$ \n§G+15%§! $mod_station_gatherers_energy_produces_mult$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_particles$\n$ethic_authoritarian$ $ETHICS$\n$tr_discovery_adopt$\n$ap_defender_of_the_galaxy$\n$ap_technological_ascendancy$ ##
+ field_manipulation.tooltip: "§Y[field_manipulation_origin.GetName]:§! \n§G+30% £physics \n+20%§! $MOD_SHIP_SHIELD_HP_MULT$ \n§G+5§! $MOD_SHIP_SHIELD_REGEN_ADD_PERC$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_field_manipulation$\n$ethic_pacifist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_grasp_the_void$\n$ap_enigmatic_engineering$"
+## field_manipulation.tooltip -> §Y[field_manipulation_origin.GetName]:§! \n§G+30% £physics \n+20%§! $MOD_SHIP_SHIELD_HP_MULT$ \n§G+5%§! $MOD_SHIP_SHIELD_REGEN_ADD_PERC$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_field_manipulation$\n$ethic_pacifist$ $ETHICS$\n$tr_prosperity_adopt$\n$ap_grasp_the_void$\n$ap_enigmatic_engineering$ ##
+ computing.tooltip: "§Y[computing_origin.GetName]:§! \n§G+30% £physics \n+1§! $MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$ \n§G+40§! $MOD_COUNTRY_ADMIN_CAP_ADD$ \n\n\n§Y$spread_chance$§! \n$leader_trait_expertise_computing$\n$ethic_materialist$ $ETHICS$\n$tr_domination_adopt$\n$ap_the_flesh_is_weak$\n$ap_synthetic_evolution$\n$ap_synthetic_age$"
+## computing.tooltip -> §Y[computing_origin.GetName]:§! \n§G+30% £physics \n+1§! $MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$ \n§G+40§! $MOD_COUNTRY_ADMIN_CAP_ADD$ \n\n\n§Y$spread_chance$§! \n$leader_trait_expertise_computing$\n$ethic_materialist$ $ETHICS$\n$tr_domination_adopt$\n$ap_the_flesh_is_weak$\n$ap_synthetic_evolution$\n$ap_synthetic_age$ ##
+ psionics.tooltip: "§Y[psionics_origin.GetName]:§! \n§G+10%§! £engineering £physics £society \n$Psychohistorians_desc$ \n基金会加成: \n$foundation_established_desc$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_psionics$\n$ethic_spiritualist$ $ETHICS$\n$tr_harmony_adopt$\n$ap_mind_over_matter$\n$ap_transcendence$\n$ap_transcendent_learning$"
+## psionics.tooltip -> §Y[psionics_origin.GetName]:§! \n§G+10%§! £engineering £physics £society \n$Psychohistorians_desc$ \nThe Foundation added to Capital: \n$foundation_established_desc$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_psionics$\n$ethic_spiritualist$ $ETHICS$\n$tr_harmony_adopt$\n$ap_mind_over_matter$\n$ap_transcendence$\n$ap_transcendent_learning$ ##
+ new_worlds.tooltip: "§Y[new_worlds_origin.GetName]:§! \n§G+25% £society \n+50%§! $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$\n§G+2§! $MOD_COLONY_START_NUM_POPS_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_new_worlds$\n$ethic_xenophile$ $ETHICS$\n$tr_expansion_adopt$\n$tr_diplomacy_adopt$\n$ap_world_shaper$\n$ap_consecrated_worlds$\n$ap_hive_worlds$"
+## new_worlds.tooltip -> §Y[new_worlds_origin.GetName]:§! \n§G+25% £society \n+50%§! $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$ \n$new_frontier$ \n$new_frontier_desc$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_new_worlds$\n$ethic_xenophile$ $ETHICS$\n$tr_expansion_adopt$\n$tr_diplomacy_adopt$\n$ap_world_shaper$\n$ap_consecrated_worlds$\n$ap_hive_worlds$ ##
+ biology.tooltip: "§Y[biology_origin.GetName]:§! \n§G+25% £society \n+2§! $species_trait_points_add$\n§G-25%§! $MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_biology$\n$ethic_xenophile$ $ETHICS$\n$tr_discovery_adopt$\n$ap_engineered_evolution$\n$ap_evolutionary_mastery$\n$ap_xeno_compatibility$"
+## biology.tooltip -> §Y[biology_origin.GetName]:§! \n§G+25% £society \n+2§! $species_trait_points_add$\n§G-25%§! $MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_biology$\n$ethic_xenophile$ $ETHICS$\n$tr_discovery_adopt$\n$ap_engineered_evolution$\n$ap_evolutionary_mastery$\n$ap_xeno_compatibility$ ##
+ statecraft.tooltip: "§Y[statecraft_origin.GetName]:§! \n§G+25% £society \n+1§! £influence \n§G+50§! $MOD_COUNTRY_TRUST_CAP_ADD$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_statecraft$\n$ethic_egalitarian$ $ETHICS$\n$tr_diplomacy_adopt$\n$ap_imperial_prerogative$\n$ap_one_vision$\n$ap_executive_vigor$\n$ap_shared_destiny$\n$ap_universal_transactions$"
+## statecraft.tooltip -> §Y[statecraft_origin.GetName]:§! \n§G+25%§! £society \n§G+50§! $MOD_COUNTRY_TRUST_CAP_ADD$ \n§G+40§! $OPINION$ \n§G+25%§! $MOD_COUNTRY_TRADE_ATTRACTIVENESS$ \n$REMOVE_RIVALS$ \n\n§Y$spread_chance$§! \n$leader_trait_expertise_statecraft$\n$ethic_egalitarian$ $ETHICS$\n$tr_diplomacy_adopt$\n$ap_imperial_prerogative$\n$ap_one_vision$\n$ap_executive_vigor$\n$ap_shared_destiny$\n$ap_universal_transactions$ ##
+ military_theory.tooltip: "§Y[military_theory_origin.GetName]:§! \n§G+25% £society \n+20§! $MOD_COUNTRY_COMMAND_LIMIT_ADD$\n§G+2§! $MOD_LEADER_SKILL_LEVELS$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_military_theory$\n$ethic_militarist$ $ETHICS$\n$tr_supremacy_adopt$\n$ap_interstellar_dominion$\n$ap_eternal_vigilance$"
+## military_theory.tooltip -> §Y[military_theory_origin.GetName]:§! \n§G+25% £society \n+20§! $MOD_COUNTRY_COMMAND_LIMIT_ADD$\n§G+2§! $MOD_LEADER_SKILL_LEVELS$\n\n§Y$spread_chance$§! \n$leader_trait_expertise_military_theory$\n$ethic_militarist$ $ETHICS$\n$tr_supremacy_adopt$\n$ap_interstellar_dominion$\n$ap_eternal_vigilance$ ##
 
  ###################################################
  # Mapmode
  ###################################################
 
- breakthrough_12:"12 突破"
- breakthrough_11:"11 突破"
- breakthrough_10:"10 突破"
- breakthrough_9:"9 突破"
- breakthrough_8:"8 突破"
- breakthrough_7:"7 突破"
- breakthrough_6:"6 突破"
- breakthrough_5:"5 突破"
- breakthrough_4:"4 突破"
- breakthrough_3:"3 突破"
- breakthrough_2:"2 突破"
- breakthrough_1:"1 突破"
- breakthrough_0:"0 突破"
- beyond_breakthroughs:"这个国家超越了突破"
- Breakthroughs_desc:"这个国家研究的技术突破总数"
- edict_Breakthrough_reset:"突破图模式复位"
- edict_Breakthrough_reset_desc:"计算每个帝国的突破数量。"
+ breakthrough_12:"12 Breakthroughs"
+ breakthrough_11:"11 Breakthroughs"
+ breakthrough_10:"10 Breakthroughs"
+ breakthrough_9:"9 Breakthroughs"
+ breakthrough_8:"8 Breakthroughs"
+ breakthrough_7:"7 Breakthroughs"
+ breakthrough_6:"6 Breakthroughs"
+ breakthrough_5:"5 Breakthroughs"
+ breakthrough_4:"4 Breakthroughs"
+ breakthrough_3:"3 Breakthroughs"
+ breakthrough_2:"2 Breakthroughs"
+ breakthrough_1:"1 Breakthroughs"
+ breakthrough_0:"0 Breakthroughs"
+ beyond_breakthroughs:"This country is beyond breakthroughs"
+ Breakthroughs_desc:"Total number of technology breakthroughs this country has researched"
+ edict_Breakthrough_reset:"Breakthrough Mapmode Reset"
+ edict_Breakthrough_reset_desc:"Recounts the number of breakthroughs each empire has. No effect unless continuing from an old save. Will disappear once used."
 
  ###################################################
  # Modifiers
  ###################################################
  
- mod_planet_farmers_minerals_produces_add:"£job_farmer£ §Y$job_farmer_plural$§! 现在还生产 §Y$minerals$§! £minerals£"
- mod_planet_jobs_specialist_unity_produces_add:"所有 $SPECIALISTS$ 还生产 §Y$unity$§! £unity£"
- mod_station_gatherers_energy_produces_mult:"£energy£ 恒星基地能量币"
- mod_planet_jobs_ruler_influence_produces_add:"大多数 $RULERS$ 现在还生产 §Y$influence$§! £influence£"
+ mod_planet_farmers_minerals_produces_add:"£job_farmer£ §Y$job_farmer_plural$§! now also produce §Y$minerals$§! £minerals£"
+ mod_planet_jobs_specialist_unity_produces_add:"All $SPECIALISTS$ also produce §Y$unity$§! £unity£"
+ mod_station_gatherers_energy_produces_mult:"£energy£ Energy Credits from Stations"
+ mod_planet_jobs_ruler_influence_produces_add:"Most $RULERS$ now also produce §Y$influence$§! £influence£"
 
- Psychohistorians:0 "基金会"
- Psychohistorians_desc:0 "§G+0.5§! £unity£ §Y$unity$§! 来自 $SPECIALISTS$"
+ Psychohistorians: "基金会"
+## Psychohistorians -> The Foundation ##
+ Psychohistorians_desc: "§G+0.5§! £unity£ §Y$unity$§! 来自 $SPECIALISTS$"
+## Psychohistorians_desc -> §G+0.5§! £unity£ §Y$unity$§! from $SPECIALISTS$ ##
 
- mod_planet_colonists_unity_produces_add:0 "$job_colonist_plural$ £unity£"
- mod_planet_researchers_unity_produces_add:0 "$planet_researchers$ £unity£"
- mod_planet_priests_unity_produces_add:0 "$planet_priests$ £unity£"
- mod_planet_metallurgists_unity_produces_add:0 "$planet_metallurgists$ £unity£"
- mod_planet_enforcers_unity_produces_add:0 "$planet_enforcers$ £unity£"
- mod_planet_telepaths_unity_produces_add:0 "$planet_telepaths$ £unity£"
- mod_planet_artisans_unity_produces_add:0 "$planet_artisans$ £unity£"
- mod_planet_entertainers_unity_produces_add:0 "$planet_entertainers$ £unity£"
- mod_planet_culture_workers_unity_produces_add:0 "$planet_culture_workers$ £unity£"
- mod_planet_chemists_unity_produces_add:0 "$planet_chemists$ £unity£"
- mod_planet_translucers_unity_produces_add:0 "$planet_translucers$ £unity£"
- mod_planet_refiners_unity_produces_add:0 "planet_refiners £unity£"
- mod_planet_pop_assemblers_unity_produces_add:0 "$planet_pop_assemblers$ £unity£"
- mod_planet_doctors_unity_produces_add:0 "$planet_doctors$ £unity£"
- mod_planet_managers_unity_produces_add:0 "$planet_managers$ £unity£"
- mod_planet_administrators_influence_produces_add:0 "$planet_administrators$ £influence£"
- mod_planet_nobles_influence_produces_add:0 "$planet_nobles$ £influence£"
- mod_planet_executives_influence_produces_add:0 "$planet_executives$ £influence£"
+ mod_planet_colonists_unity_produces_add: "$job_colonist_plural$ £unity£"
+## mod_planet_colonists_unity_produces_add -> $job_colonist_plural$ £unity£ ##
+ mod_planet_researchers_unity_produces_add: "$planet_researchers$ £unity£"
+## mod_planet_researchers_unity_produces_add -> $planet_researchers$ £unity£ ##
+ mod_planet_priests_unity_produces_add: "$planet_priests$ £unity£"
+## mod_planet_priests_unity_produces_add -> $planet_priests$ £unity£ ##
+ mod_planet_metallurgists_unity_produces_add: "$planet_metallurgists$ £unity£"
+## mod_planet_metallurgists_unity_produces_add -> $planet_metallurgists$ £unity£ ##
+ mod_planet_enforcers_unity_produces_add: "$planet_enforcers$ £unity£"
+## mod_planet_enforcers_unity_produces_add -> $planet_enforcers$ £unity£ ##
+ mod_planet_telepaths_unity_produces_add: "$planet_telepaths$ £unity£"
+## mod_planet_telepaths_unity_produces_add -> $planet_telepaths$ £unity£ ##
+ mod_planet_artisans_unity_produces_add: "$planet_artisans$ £unity£"
+## mod_planet_artisans_unity_produces_add -> $planet_artisans$ £unity£ ##
+ mod_planet_entertainers_unity_produces_add: "$planet_entertainers$ £unity£"
+## mod_planet_entertainers_unity_produces_add -> $planet_entertainers$ £unity£ ##
+ mod_planet_culture_workers_unity_produces_add: "$planet_culture_workers$ £unity£"
+## mod_planet_culture_workers_unity_produces_add -> $planet_culture_workers$ £unity£ ##
+ mod_planet_chemists_unity_produces_add: "$planet_chemists$ £unity£"
+## mod_planet_chemists_unity_produces_add -> $planet_chemists$ £unity£ ##
+ mod_planet_translucers_unity_produces_add: "$planet_translucers$ £unity£"
+## mod_planet_translucers_unity_produces_add -> $planet_translucers$ £unity£ ##
+ mod_planet_refiners_unity_produces_add: "planet_refiners £unity£"
+## mod_planet_refiners_unity_produces_add -> $planet_refiners$ £unity£ ##
+ mod_planet_pop_assemblers_unity_produces_add: "$planet_pop_assemblers$ £unity£"
+## mod_planet_pop_assemblers_unity_produces_add -> $planet_pop_assemblers$ £unity£ ##
+ mod_planet_doctors_unity_produces_add: "$planet_doctors$ £unity£"
+## mod_planet_doctors_unity_produces_add -> $planet_doctors$ £unity£ ##
+ mod_planet_managers_unity_produces_add: "$planet_managers$ £unity£"
+## mod_planet_managers_unity_produces_add -> $planet_managers$ £unity£ ##
+ mod_planet_administrators_influence_produces_add: "$planet_administrators$ £influence£"
+## mod_planet_administrators_influence_produces_add -> $planet_administrators$ £influence£ ##
+ mod_planet_nobles_influence_produces_add: "$planet_nobles$ £influence£"
+## mod_planet_nobles_influence_produces_add -> $planet_nobles$ £influence£ ##
+ mod_planet_executives_influence_produces_add: "$planet_executives$ £influence£"
+## mod_planet_executives_influence_produces_add -> $planet_executives$ £influence£ ##
  
- ORGANIC:"活体"
+ ###################################################
+ # Flavor Events
+ ###################################################
 
- nano_shipyard_desc_modifier:0 "双倍造船产能"
- sm_nano_shipyard:0 "纳米制造舱"
- sm_nano_shipyard_desc:0 "一群纳米机器人可以以惊人的效率组装新船。"
+ ORGANIC:"Living"
 
- foundation_established:0 "基金会加成: §Y心理历史学§! §G+1§!"
- foundation_established_desc:0 "§Y心理历史学§!: §G+1 £influence£ +30 £society£ +5 £stability£§! \n在战争中，在天堂之战中，在持续的危机中，效果加倍"
- job_psychohistorian:0 "心理历史学"
- job_psychohistorian_plural:0 "心理历史学"
- planet_psychohistorians:0 "心理历史学"
- job_psychohistorian_desc:0 "心理历史学家声称，他们可以用数理社会学的原理，对非常多的人未来的行为做出一般性的预测，即使不能预测出具体的细节，也能大致地预测未来历史的走向。他们试图通过未来充满冲突和黑暗的时代来保存社会的知识。"
- job_psychohistorian_effect_desc:0 "£job_psychohistorian£ $job_psychohistorian_plural$ 产出 §G+1§! £influence£ 影响力 §G+30§! £society£ 社会学 §G+5§! £stability£ 稳定度\n在战争中，在天堂之战中，在持续的危机中，效果加倍"
- mod_job_psychohistorian_add:0 "$job_psychohistorian$ Job"
- job_psychohistorian_gestalt:0 "心理历史学"
- job_psychohistorian_gestalt_plural:0 "心理历史学"
- job_psychohistorian_gestalt_desc:0 "心理历史学家声称，他们可以用数理社会学的原理，对非常多的人未来的行为做出一般性的预测，即使不能预测出具体的细节，也能大致地预测未来历史的走向。他们试图通过未来充满冲突和黑暗的时代来保存社会的知识。"
- job_psychohistorian_gestalt_effect_desc:0 "£job_psychohistorian£ $job_psychohistorian_plural$ 产出 §G+1§! £influence£ 影响力 §G+30§! £society£ 社会学 §G+5§! £stability£ 稳定度\n在战争中，在天堂之战中，在持续的危机中，效果加倍"
- mod_job_psychohistorian_gestalt_add:0 "$job_psychohistorian_gestalt$ Job"
+ nano_shipyard_desc_modifier: "双倍造船产能"
+## nano_shipyard_desc_modifier -> Doubles shipyard capacity ##
+ sm_nano_shipyard: "纳米制造舱"
+## sm_nano_shipyard -> Nanofabrication Bay ##
+ sm_nano_shipyard_desc: "一群纳米机器人可以以惊人的效率组装新船。"
+## sm_nano_shipyard_desc -> A swarm of nanobots can assemble new ships with remarkable efficiency. ##
 
- mod_planet_psychohistorians_produces_mult:0 "心理历史学产出"
+ foundation_established: "基金会加成: §Y心理历史学§! §G+1§!"
+## foundation_established -> The Foundation added to Capital: §YPsychohistorians§! §G+1§! ##
+ foundation_established_desc: "§Y心理历史学§!: §G+1 £influence£ +30 £society£ +5 £stability£§! \n在战争中，在天堂之战中，在持续的危机中，效果加倍"
+## foundation_established_desc -> §YPsychohistorians§!: §G+1 £influence£ +30 £society£ +5 £stability£§! \nEffect doubles while at war, during the War in Heaven, and during an ongoing crisis ##
+ job_psychohistorian: "心理历史学"
+## job_psychohistorian -> Psychohistorian ##
+ job_psychohistorian_plural: "心理历史学"
+## job_psychohistorian_plural -> Psychohistorians ##
+ planet_psychohistorians: "心理历史学"
+## planet_psychohistorians -> Psychohistorians ##
+ job_psychohistorian_desc: "心理历史学家声称，他们可以用数理社会学的原理，对非常多的人未来的行为做出一般性的预测，即使不能预测出具体的细节，也能大致地预测未来历史的走向。他们试图通过未来充满冲突和黑暗的时代来保存社会的知识。"
+## job_psychohistorian_desc -> Using the principles of Mathematical Sociology to make general predictions about the future behavior of very large groups of people, Psychohistorians claim they can predict the arc of future history in broad strokes, if not the specifics. They seek to preserve the collected knowledge of society through a future age of strife and darkness. ##
+ job_psychohistorian_effect_desc: "£job_psychohistorian£ $job_psychohistorian_plural$ 产出 §G+1§! £influence£ 影响力 §G+30§! £society£ 社会学 §G+5§! £stability£ 稳定度\n在战争中，在天堂之战中，在持续的危机中，效果加倍"
+## job_psychohistorian_effect_desc -> £job_psychohistorian£ $job_psychohistorian_plural$ produce §G+1§! £influence£ influence §G+30§! £society£ society §G+5§! £stability£ stability\nEffect doubles while at war, during the War in Heaven, and during an ongoing crisis ##
+ mod_job_psychohistorian_add: "$job_psychohistorian$ Job"
+## mod_job_psychohistorian_add -> $job_psychohistorian$ Job ##
+ job_psychohistorian_gestalt: "心理历史学"
+## job_psychohistorian_gestalt -> Psychohistorian ##
+ job_psychohistorian_gestalt_plural: "心理历史学"
+## job_psychohistorian_gestalt_plural -> Psychohistorians ##
+ job_psychohistorian_gestalt_desc: "心理历史学家声称，他们可以用数理社会学的原理，对非常多的人未来的行为做出一般性的预测，即使不能预测出具体的细节，也能大致地预测未来历史的走向。他们试图通过未来充满冲突和黑暗的时代来保存社会的知识。"
+## job_psychohistorian_gestalt_desc -> Using the principles of Mathematical Sociology to make general predictions about the future behavior of very large groups of people, Psychohistorians claim they can predict the arc of future history in broad strokes, if not the specifics. They seek to preserve the collected knowledge of society through a future age of strife and darkness. ##
+ job_psychohistorian_gestalt_effect_desc: "£job_psychohistorian£ $job_psychohistorian_plural$ 产出 §G+1§! £influence£ 影响力 §G+30§! £society£ 社会学 §G+5§! £stability£ 稳定度\n在战争中，在天堂之战中，在持续的危机中，效果加倍"
+## job_psychohistorian_gestalt_effect_desc -> £job_psychohistorian£ $job_psychohistorian_plural$ produce §G+1§! £influence£ influence §G+30§! £society£ society §G+5§! £stability£ stability\nEffect doubles while at war, during the War in Heaven, and during an ongoing crisis ##
+ mod_job_psychohistorian_gestalt_add: "$job_psychohistorian_gestalt$ Job"
+## mod_job_psychohistorian_gestalt_add -> $job_psychohistorian_gestalt$ Job ##
+
+ mod_planet_psychohistorians_produces_mult: "心理历史学产出"
+## mod_planet_psychohistorians_produces_mult -> Psychohistorian Output ##
  
- d_the_foundation:0 "基金会"
- d_the_foundation_desc:0 "一群科学家、数学家和社会学家致力于通过他们预测的银河系黑暗时代的回归来保护知识和技术"
- d_the_foundation_gestalt:0 "基金会"
- d_the_foundation_gestalt_desc:0 "一群科学家、数学家和社会学家致力于通过他们预测的银河系黑暗时代的回归来保护知识和技术"
+ d_the_foundation: "基金会"
+## d_the_foundation -> The Foundation ##
+ d_the_foundation_desc: "一群科学家、数学家和社会学家致力于通过他们预测的银河系黑暗时代的回归来保护知识和技术"
+## d_the_foundation_desc -> A group of scientists, mathematicians, and sociologists dedicated to preserving knowledge and technology through what they predict to be a return of the dark ages across the galaxy ##
+ d_the_foundation_gestalt: "基金会"
+## d_the_foundation_gestalt -> The Foundation ##
+ d_the_foundation_gestalt_desc: "一群科学家、数学家和社会学家致力于通过他们预测的银河系黑暗时代的回归来保护知识和技术"
+## d_the_foundation_gestalt_desc -> A group of scientists, mathematicians, and sociologists dedicated to preserving knowledge and technology through what they predict to be a return of the dark ages across the galaxy ##
 
- foundation_war.title:0 "在这个充满冲突的时代，这是一盏明灯"
- foundation_war.desc:0 "当前的冲突后,大大增加了影响力和合法性的基金会上我们的首都。这是我们的精神历史学家预言的黑暗时代来临的预兆吗?民众会相信任何能给他们带来希望的东西，现在让他们听从一些自我放纵的统计学家和社会学家的教导，对稳定政府是有帮助的。我们不应该认真对待银河系即将陷入混乱和衰落的观点，不是吗?"
- age_of_strife.tooltip:0 "§Y$job_psychohistorian_plural$§!: \n§G+2 £influence£ +60 £society£ +10 £stability£§! \n只要我们在打仗，天堂之战，或有危机，这种影响就会一直存在。"
+ foundation_war.title: "在这个充满冲突的时代，这是一盏明灯"
+## foundation_war.title -> A Light in this Age of Strife ##
+ foundation_war.desc: "当前的冲突后,大大增加了影响力和合法性的基金会上我们的首都。这是我们的精神历史学家预言的黑暗时代来临的预兆吗?民众会相信任何能给他们带来希望的东西，现在让他们听从一些自我放纵的统计学家和社会学家的教导，对稳定政府是有帮助的。我们不应该认真对待银河系即将陷入混乱和衰落的观点，不是吗?"
+## foundation_war.desc -> The current conflict has dramatically increased the clout and legitimacy of The Foundation on our capital. Is this the herald of the coming age of darkness that our Psychohistorian predicts? The masses will believe anything that offers them hope, and for now letting them flock to the teachings of a few self indulgent statisticians and sociologists is helpful to the stability government. The idea that the galaxy is on brink of devolving into a state of chaos and decline is not one we should take seriously, is it? ##
+ age_of_strife.tooltip: "§Y$job_psychohistorian_plural$§!: \n§G+2 £influence£ +60 £society£ +10 £stability£§! \n只要我们在打仗，天堂之战，或有危机，这种影响就会一直存在。"
+## age_of_strife.tooltip -> §Y$job_psychohistorian_plural$§!: \n§G+2 £influence£ +60 £society£ +10 £stability£§! \nThis effect will remain for as long as we are at war, there is a War in Heaven, or an ongoing crisis. ##
 
- Psychohistorian_crisis:0 "预示着黑暗"
- Psychohistorian_crisis_desc:0 "我们的心理历史学家声称，他们在保护我们的技术和文化，以应对未来可能会很惨淡的局面。只要我们在打仗，天堂之战，或有危机，这种影响就会一直存在。"
+ Psychohistorian_crisis: "预示着黑暗"
+## Psychohistorian_crisis -> Heralds of Darkness ##
+ Psychohistorian_crisis_desc: "我们的心理历史学家声称，他们在保护我们的技术和文化，以应对未来可能会很惨淡的局面。只要我们在打仗，天堂之战，或有危机，这种影响就会一直存在。"
+## Psychohistorian_crisis_desc -> Our psychohistorian claims to be preserving our technology and culture for a future that may otherwise be bleak. This effect will remain for as long as we are at war, there is a War in Heaven, or an ongoing crisis. ##
 
- foundation_destroyed.title:0 "基金会破坏"
- foundation_destroyed.desc:0 "[This.GetName]的心理历史学家长期以来一直使用数学和社会学的结合来预测一个冲突和黑暗的未来时代。他们试图保护在这里收集的有关他们文化的知识。他们没有成功。他们预见到自己文明的衰落是正确的，因为我们的军队掌握了他们的秘密，摧毁了他们宝贵的基金会。他们的黑暗时代就是我们的光荣时代。"
- Good_Riddance:0 "终于解脱"
+ foundation_destroyed.title: "基金会破坏"
+## foundation_destroyed.title -> Foundation destroyed ##
+ foundation_destroyed.desc: "[This.GetName]的心理历史学家长期以来一直使用数学和社会学的结合来预测一个冲突和黑暗的未来时代。他们试图保护在这里收集的有关他们文化的知识。他们没有成功。他们预见到自己文明的衰落是正确的，因为我们的军队掌握了他们的秘密，摧毁了他们宝贵的基金会。他们的黑暗时代就是我们的光荣时代。"
+## foundation_destroyed.desc -> Psychohistorians on [This.GetName] had long used a combination of mathematics and sociology to predict a coming age of strife and darkness. They attempted to protect the collected knowledge of their culture here. They were not successful. They were right to foresee the decline of their civilization, for our forces have seized their secrets and brought about the destruction of their precious foundation. Their age of darkness is our age of glory. ##
+ Good_Riddance: "终于解脱"
+## Good_Riddance -> Good Riddance ##
 
- foundation_captured.title:0 "[This.GetName]基金会的整合"
- foundation_captured.desc:0 "在我们的政府接管之前，所谓的[This.GetName]基金会支持一位精神历史学家，他的工作是记录社会的技术和文化历史，并在即将到来的黑暗中保护它。他们带着近乎宗教般的热情接受任务，小心翼翼地保守秘密。到目前为止，他们拒绝我们的特工进入他们的金库，也拒绝承认适当的权威。我们应该容忍他们的行动,让基金会继续工作,或者我们应该抓住他们的数据库和结束这不可思议的统计和迷信吗?"
+ foundation_captured.title: "[This.GetName]基金会的整合"
+## foundation_captured.title -> Integration of The [This.GetName] Foundation ##
+ foundation_captured.desc: "在我们的政府接管之前，所谓的[This.GetName]基金会支持一位精神历史学家，他的工作是记录社会的技术和文化历史，并在即将到来的黑暗中保护它。他们带着近乎宗教般的热情接受任务，小心翼翼地保守秘密。到目前为止，他们拒绝我们的特工进入他们的金库，也拒绝承认适当的权威。我们应该容忍他们的行动,让基金会继续工作,或者我们应该抓住他们的数据库和结束这不可思议的统计和迷信吗?"
+## foundation_captured.desc -> Until our govornment assumed control, the so called Foundation on [This.GetName] supported a head Psychohistorian, whose job it was to chronicle the technological and cultural history of society, and to preserve it through a darkness that is to come. They take their task with an almost religious zeal, and guard their secrets jealously. So far they have refused our agents access to their vaults, and refuse to recognize proper authorities. Should we tolerate their actions and allow The Foundation to continue its work, or should we seize their databanks and put an end to this uncanny mix of statistics and superstition? ##
 
- Disband_foundation:0 "关闭它"
- Capture_foundation:0 "继续工作"
- Move_foundation:0 "结合我们在[Root.Capital.GetName]的努力"
+ Disband_foundation: "关闭它"
+## Disband_foundation -> Shut it Down ##
+ Capture_foundation: "继续工作"
+## Capture_foundation -> Continue the Work ##
+ Move_foundation: "结合我们在[Root.Capital.GetName]的努力"
+## Move_foundation -> Combine our efforts on [Root.Capital.GetName] ##
 
- foundation_lost.title:0 "基金会关闭"
- foundation_lost.desc:0 "耻辱的失败后,基金会在我们的前首都被毁,我们心理历史学家假定是死了。他们保护我们社会所收集的知识的努力过早地结束了。也许这就是黑暗的预言。所有的希望都破灭了吗?"
- Catastrophic:0 "灾难"
+ foundation_lost.title: "基金会关闭"
+## foundation_lost.title -> The Foundation Lost ##
+ foundation_lost.desc: "耻辱的失败后,基金会在我们的前首都被毁,我们心理历史学家假定是死了。他们保护我们社会所收集的知识的努力过早地结束了。也许这就是黑暗的预言。所有的希望都破灭了吗?"
+## foundation_lost.desc -> Following a humiliating defeat, The Foundation on our former capital was destroyed, and our Psychohistorian is presumed to be dead. Their efforts to protect the collected knowledge of our society have come to a premature end. Perhaps this is the foretold age of darkness. Is all hope lost? ##
+ Catastrophic: "灾难"
+## Catastrophic -> Catastrophic ##
 
- new_frontier:0 "增加§Y新边疆§!修正到新殖民地。"
- new_frontier_desc:0 "§Y新边疆§!: \n§G+50%§! $MOD_POP_GROWTH_SPEED$ \n§G+100%§! $MOD_POP_GROWTH_FROM_IMMIGRATION$ \n§Y持续20年§!"
+ new_frontier: "增加§Y新边疆§!修正到新殖民地。"
+## new_frontier -> Adds §YNew Frontier§! modifier to new colonies ##
+ new_frontier_desc: "§Y新边疆§!: \n§G+50%§! $MOD_POP_GROWTH_SPEED$ \n§G+100%§! $MOD_POP_GROWTH_FROM_IMMIGRATION$ \n§Y持续20年§!"
+## new_frontier_desc -> §YNew Frontier§!: \n§G+50%§! $MOD_POP_GROWTH_SPEED$ \n§G+100%§! $MOD_POP_GROWTH_FROM_IMMIGRATION$ \n§YLasts 20 years§! ##
 
- pm_new_frontier:0 "新边疆"
- pm_new_frontier_desc:0 "我们的殖民者有一种奇怪的冲动，去探索陌生的新世界，去寻找新的生命和新的文明，去勇敢地去前人从未去过的地方。"
+ pm_new_frontier: "新边疆"
+## pm_new_frontier -> New Frontier ##
+ pm_new_frontier_desc: "我们的殖民者有一种奇怪的冲动，去探索陌生的新世界，去寻找新的生命和新的文明，去勇敢地去前人从未去过的地方。"
+## pm_new_frontier_desc -> Our colonists have a strange compulsion to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no one has gone before. ##
 
+ rival_lost.title: "Why Can't We be Friends?"
+## rival_lost.title -> Why Can't We be Friends? ##
+ rival_lost.desc: "After a breakthrough in universal translation devices, [From.GetName] diplomats have launched a targeted propaganda campaign to brand their empire as "not the bad guys." While this may not be believed by the wiser members of our govornment, popular pressure and so called sympathy for the [From.GetSpeciesAdj] people has forced us to end our rivalry, at least for now."
+## rival_lost.desc -> After a breakthrough in universal translation devices, [From.GetName] diplomats have launched a targeted propaganda campaign to brand their empire as "not the bad guys." While this may not be believed by the wiser members of our govornment, popular pressure and so called sympathy for the [From.GetSpeciesAdj] people has forced us to end our rivalry, at least for now. ##
+ untrustworthy: "They still cannot be trusted"
+## untrustworthy -> They still cannot be trusted ##
+ 
+ opinion_statecraft_breakthrough: "Universal Translators"
+## opinion_statecraft_breakthrough -> Universal Translators ##
+ universal_translators: "Universal Translators"
+## universal_translators -> Universal Translators ##
+ statecraft_opinion_boost: "§YUniversal Opinion and Trade boost§!"
+## statecraft_opinion_boost -> §YUniversal Opinion and Trade boost§! ##
+ statecraft_opinion_boost_desc: "§G+40§! Opinion with regular empires \n§G+25%§! Trade Attractiveness \nAny nation you are currently not at war with will be forced to remove you as a rival"
+## statecraft_opinion_boost_desc -> §G+40§! Opinion with regular empires \n§G+25%§! Trade Attractiveness \nAny nation you are currently not at war with will be forced to remove you as a rival ##
+ REMOVE_RIVALS: "Any nation not currently not at war will be forced to remove this empire as a rival."
+## REMOVE_RIVALS -> Any nation not currently not at war will be forced to remove this empire as a rival. ##
+
+ nanotech_clue.title: "L-Gates: Not Magic - New Study Finds"
+## nanotech_clue.title -> L-Gates: Not Magic - New Study Finds ##
+ nanotech_clue.desc: "Our breakthrough in Nanofabrication has made the once mysterious gateways considerably less mysterious. Our scientists believe it won't be long before we have the ability to build and manipulate these structures ourselves. However, the gates construction seems to lack the control markers we use to keep nanites in check, it is curious how the original gate builders managed to maintain control over a swarm of self replicating nano-bots. Our scientists point out that the fact that they completed the network so long ago clearly indicates that such nanite technology is safe, surely."
+## nanotech_clue.desc -> Our breakthrough in Nanofabrication has made the once mysterious gateways considerably less mysterious. Our scientists believe it won't be long before we have the ability to build and manipulate these structures ourselves. However, the gates construction seems to lack the control markers we use to keep nanites in check, it is curious how the original gate builders managed to maintain control over a swarm of self replicating nano-bots. Our scientists point out that the fact that they completed the network so long ago clearly indicates that such nanite technology is safe, surely. ##
+ nano_Lgate.tooltip: "$clues$ §G+2§!"
+## nano_Lgate.tooltip -> $clues$ §G+2§! ##
+ 
  ###################################################
  # Repeatable Tech
  ###################################################
 
- tech_repeatable_improved_alloy_output:0 "合金加工效率基准"
- tech_repeatable_improved_alloy_output_desc:0 "成为合金。"
- tech_repeatable_improved_station_output:0 "提取最大化协议"
- tech_repeatable_improved_station_output_desc:0 "我们怎样才能从这块石头里得到更多的东西呢?先生，你已经有了整块石头。我想要更多!"
- tech_repeatable_improved_motes_output:0 "激发尘粒形成"
- tech_repeatable_improved_motes_output_desc:0 "谁控制尘埃，谁就控制宇宙。"
- tech_repeatable_improved_gases_output:0 "网状气体分布"
- tech_repeatable_improved_gases_output_desc:0 "气体可以填满任何容器的体积。很方便，我们有一些非常大的容器。"
- tech_repeatable_improved_crystals_output:0 "增强结晶过程"
- tech_repeatable_improved_crystals_output_desc:0 "水晶是永远。"
- tech_repeatable_improved_ship_escape:0 "紧急故障保险冗余"
- tech_repeatable_improved_ship_escape_desc:0 "勇敢地逃跑。"
- tech_repeatable_improved_ship_speed:0 "改进的脉冲阀组"
- tech_repeatable_improved_ship_speed_desc:0 "满足对速度的需求。"
- tech_repeatable_improved_ship_evasion:0 "皮卡德机动"
- tech_repeatable_improved_ship_evasion_desc:0 "如果我们在敌人面前做超空间跳跃，他们永远不会知道是什么击中了他们。等等，皮卡德是谁?"
- tech_repeatable_improved_shield_damage:0 "预测频率调制"
- tech_repeatable_improved_shield_damage_desc:0 "调整我们的武器频率以匹配目标护盾的谐波。"
- tech_repeatable_improved_armor_damage:0 "烧蚀弹道"
- tech_repeatable_improved_armor_damage_desc:0 "漂亮的新盔甲只意味着我们需要漂亮的新子弹。"
- tech_repeatable_improved_hull_damage:0 "违反指控"
- tech_repeatable_improved_hull_damage_desc:0 "这类武器技术上被银河UN 2164宣布为非法，但没有人注意到。"
- tech_repeatable_reduced_building_maintenance:0 "光子流调节"
- tech_repeatable_reduced_building_maintenance_desc:0 "调节光子流最有效的方法是记得关灯..."
- tech_repeatable_reduced_ship_maintenance:0 "杰弗瑞管"
- tech_repeatable_reduced_ship_maintenance_desc:0 "不知以什么方式，小型冗余的小空间，似乎无法让我们的船舶更加高效地运行。"
- tech_repeatable_reduced_ship_cost_small:0 "流线型的工艺支持"
- tech_repeatable_reduced_ship_cost_small_desc:0 "我们的轻巡洋舰会遮住太阳的。"
- tech_repeatable_reduced_ship_cost_large:0 "资本融于优化"
- tech_repeatable_reduced_ship_cost_large_desc:0 "舰队的存在。"
- tech_repeatable_ship_build_speed:0 "大规模侵犯原则"
- tech_repeatable_ship_build_speed_desc:0 "当我们的人有船可以开火时，把他们带到前线是最有效的。"
- tech_repeatable_trade_value:0 "量子经济学"
- tech_repeatable_trade_value_desc:0 "市场在直接观察下的表现是不同的，因为消费者的行为取决于消费者在问题被提出来之前没有意识到的因素。量子金融是在没有实际观察市场的情况下操纵市场的艺术，因此无论如何也要改变它。"
- tech_repeatable_sensors:0 "深空探测系统"
- tech_repeatable_sensors_desc:0 "你可以跑，但你躲不了。"
- tech_repeatable_worker_production:0 "生产效率优化"
- tech_repeatable_worker_production_desc:0 "你今天完成指标了吗?"
- tech_repeatable_worker_production_robot:0 "卑微的等待时间减少"
- tech_repeatable_worker_production_robot_desc:0 "对简单的作业子程序进行批处理，每循环可以提高性能0.0387391秒。"
- tech_repeatable_worker_production_hive:0 "蜂群生产"
- tech_repeatable_worker_production_hive_desc:0 "蜂巢的渴望。"
- tech_repeatable_specialist_production:0 "充分就业驱动"
- tech_repeatable_specialist_production_desc:0 "不要问你的帝国能为你做什么，而要问你能为你的帝国做什么。"
- tech_repeatable_robot_specialist_production:0 "协调的任务分配"
- tech_repeatable_robot_specialist_production_desc:0 "减少空闲无人机分配的延迟。"
- tech_repeatable_hive_specialist_production:0 "集体组织"
- tech_repeatable_hive_specialist_production_desc:0 "不要问集体能为我们做些什么，而要问我们能为集体做些什么。"
- tech_repeatable_terraforming:0 "生态培育"
- tech_repeatable_terraforming_desc:0 "你又在做峡湾了?它们确实给人一种可爱的巴洛克风格的感觉。"
- tech_repeatable_pop_growth:0 "大气春药"
- tech_repeatable_pop_growth_desc:0 "为更大的利益而生育。"
- tech_repeatable_pop_assembly:0 "组装算法"
- tech_repeatable_pop_assembly_desc:0 "比如，“自动装配程序自动装配”的速度快了5倍。"
- tech_repeatable_housing:0 "高密度开发"
- tech_repeatable_housing_desc:0 "让更多的人适应更少的空间，并确保他们对此感到高兴的艺术。"
- tech_repeatable_fire_rate:0 "作战部钻井"
- tech_repeatable_fire_rate_desc:0 "熟能生巧。"
- tech_repeatable_militarization:0 "军事化社会"
- tech_repeatable_militarization_desc:0 "帝国需要你!今天加入海军。"
- tech_repeatable_gestalt_militarization:0 "军事化的意识"
- tech_repeatable_gestalt_militarization_desc:0 "银河系是我们的。"
- tech_repeatable_force_disparity:0 "原则:决不后退一步"
- tech_repeatable_force_disparity_desc:0 "永不放弃，永不投降。"
- tech_repeatable_improved_titan:0 "阿达曼合金"
- tech_repeatable_improved_titan_desc:0 "我喜欢大船，我不会说谎。"
- tech_repeatable_collateral_damage:0 "原则:全面战争"
- tech_repeatable_collateral_damage_desc:0 "其他的都是异端邪说。"
- tech_repeatable_collateral_reduction:0 "外科手术式打击力量"
- tech_repeatable_collateral_reduction_desc:0 "战争是地狱。但我们不必成为恶魔。"
+ tech_repeatable_improved_alloy_output: "合金加工效率基准"
+## tech_repeatable_improved_alloy_output -> Alloy Processing Efficiency Benchmarks ##
+ tech_repeatable_improved_alloy_output_desc: "成为合金。"
+## tech_repeatable_improved_alloy_output_desc -> Become the Alloy. ##
+ tech_repeatable_improved_station_output: "提取最大化协议"
+## tech_repeatable_improved_station_output -> Extraction Maximization Protocols ##
+ tech_repeatable_improved_station_output_desc: "我们怎样才能从这块石头里得到更多的东西呢?先生，你已经有了整块石头。我想要更多!"
+## tech_repeatable_improved_station_output_desc -> How can we get more out of this rock? Sir, you already have the entire rock. I want more! ##
+ tech_repeatable_improved_motes_output: "激发尘粒形成"
+## tech_repeatable_improved_motes_output -> Motivated Mote Making ##
+ tech_repeatable_improved_motes_output_desc: "谁控制尘埃，谁就控制宇宙。"
+## tech_repeatable_improved_motes_output_desc -> He who controls the motes, controls the universe. ##
+ tech_repeatable_improved_gases_output: "网状气体分布"
+## tech_repeatable_improved_gases_output -> Reticulated Gas Distribution ##
+ tech_repeatable_improved_gases_output_desc: "气体可以填满任何容器的体积。很方便，我们有一些非常大的容器。"
+## tech_repeatable_improved_gases_output_desc -> Gas will fill the volume of any container. Conveniently we have some really big containers. ##
+ tech_repeatable_improved_crystals_output: "增强结晶过程"
+## tech_repeatable_improved_crystals_output -> Augmented Crystallization Processess ##
+ tech_repeatable_improved_crystals_output_desc: "水晶是永远。"
+## tech_repeatable_improved_crystals_output_desc -> Crystals are forever. ##
+ tech_repeatable_improved_ship_escape: "紧急故障保险冗余"
+## tech_repeatable_improved_ship_escape -> Emergency Failsafe Redundancies ##
+ tech_repeatable_improved_ship_escape_desc: "勇敢地逃跑。"
+## tech_repeatable_improved_ship_escape_desc -> To bravely run away. ##
+ tech_repeatable_improved_ship_speed: "改进的脉冲阀组"
+## tech_repeatable_improved_ship_speed -> Improved Impulse Manifolds ##
+ tech_repeatable_improved_ship_speed_desc: "满足对速度的需求。"
+## tech_repeatable_improved_ship_speed_desc -> Fulfilling a need for speed. ##
+ tech_repeatable_improved_ship_evasion: "皮卡德机动"
+## tech_repeatable_improved_ship_evasion -> The Picard Maneuver ##
+ tech_repeatable_improved_ship_evasion_desc: "如果我们在敌人面前做超空间跳跃，他们永远不会知道是什么击中了他们。等等，皮卡德是谁?"
+## tech_repeatable_improved_ship_evasion_desc -> If we perform a micro hyperspace jump right in front of the enemy, they will never know what hit them. Also wait, who is this Picard guy? ##
+ tech_repeatable_improved_shield_damage: "预测频率调制"
+## tech_repeatable_improved_shield_damage -> Predictive Frequency Modulation ##
+ tech_repeatable_improved_shield_damage_desc: "调整我们的武器频率以匹配目标护盾的谐波。"
+## tech_repeatable_improved_shield_damage_desc -> Tune our weapon frequencies to match target shield harmonics. ##
+ tech_repeatable_improved_armor_damage: "烧蚀弹道"
+## tech_repeatable_improved_armor_damage -> Ablative Ballistics ##
+ tech_repeatable_improved_armor_damage_desc: "漂亮的新盔甲只意味着我们需要漂亮的新子弹。"
+## tech_repeatable_improved_armor_damage_desc -> Fancy new armor just means we need fancy new bullets. ##
+ tech_repeatable_improved_hull_damage: "违反指控"
+## tech_repeatable_improved_hull_damage -> Breaching Charges ##
+ tech_repeatable_improved_hull_damage_desc: "这类武器技术上被银河UN 2164宣布为非法，但没有人注意到。"
+## tech_repeatable_improved_hull_damage_desc -> This class of weaponry was technically outlawed by the Galactic UN 2164, but no one has paid any attention. ##
+ tech_repeatable_reduced_building_maintenance: "光子流调节"
+## tech_repeatable_reduced_building_maintenance -> Photon Flow Regulation ##
+ tech_repeatable_reduced_building_maintenance_desc: "调节光子流最有效的方法是记得关灯..."
+## tech_repeatable_reduced_building_maintenance_desc -> The most effective way to regulate photon flow is to remember to turn off the lights... ##
+ tech_repeatable_reduced_ship_maintenance: "杰弗瑞管"
+## tech_repeatable_reduced_ship_maintenance -> Jefferies Tubes ##
+ tech_repeatable_reduced_ship_maintenance_desc: "不知以什么方式，小型冗余的小空间，似乎无法让我们的船舶更加高效地运行。"
+## tech_repeatable_reduced_ship_maintenance_desc -> Somehow, small redundant crawlspaces that go no where and do nothing seem to make our ships run more efficiently. ##
+ tech_repeatable_reduced_ship_cost_small: "流线型的工艺支持"
+## tech_repeatable_reduced_ship_cost_small -> Streamlined Support Craft ##
+ tech_repeatable_reduced_ship_cost_small_desc: "我们的轻巡洋舰会遮住太阳的。"
+## tech_repeatable_reduced_ship_cost_small_desc -> Our corvettes will blot out the sun. ##
+ tech_repeatable_reduced_ship_cost_large: "资本融于优化"
+## tech_repeatable_reduced_ship_cost_large -> Capital Construstion Optimization ##
+ tech_repeatable_reduced_ship_cost_large_desc: "舰队的存在。"
+## tech_repeatable_reduced_ship_cost_large_desc -> The Fleet in Being. ##
+ tech_repeatable_ship_build_speed: "大规模侵犯原则"
+## tech_repeatable_ship_build_speed -> Doctrine: Mass Assault ##
+ tech_repeatable_ship_build_speed_desc: "当我们的人有船可以开火时，把他们带到前线是最有效的。"
+## tech_repeatable_ship_build_speed_desc -> Getting our men to the frontline is most effective when they have ships to fire from. ##
+ tech_repeatable_trade_value: "量子经济学"
+## tech_repeatable_trade_value -> Quantum Economics ##
+ tech_repeatable_trade_value_desc: "市场在直接观察下的表现是不同的，因为消费者的行为取决于消费者在问题被提出来之前没有意识到的因素。量子金融是在没有实际观察市场的情况下操纵市场的艺术，因此无论如何也要改变它。"
+## tech_repeatable_trade_value_desc -> Markets behave differently when under direct observation, because consumers behavior depends on factors that the consumer is unaware of until the matter is brought up. Quantum Finance is the art of manipulating markets without actually observing the market, and therefore altering it anyway. ##
+ tech_repeatable_sensors: "深空探测系统"
+## tech_repeatable_sensors -> Deep Space Detection Systems ##
+ tech_repeatable_sensors_desc: "你可以跑，但你躲不了。"
+## tech_repeatable_sensors_desc -> You can run, but you can't hide. ##
+ tech_repeatable_worker_production: "生产效率优化"
+## tech_repeatable_worker_production -> Production Efficiency Optimization ##
+ tech_repeatable_worker_production_desc: "你今天完成指标了吗?"
+## tech_repeatable_worker_production_desc -> Did you meet your quotas today? ##
+ tech_repeatable_worker_production_robot: "卑微的等待时间减少"
+## tech_repeatable_worker_production_robot -> Menial Latency Reduction ##
+ tech_repeatable_worker_production_robot_desc: "对简单的作业子程序进行批处理，每循环可以提高性能0.0387391秒。"
+## tech_repeatable_worker_production_robot_desc -> Batch processing of simple job subroutines can improve performance by 0.0387391 second per cycle. ##
+ tech_repeatable_worker_production_hive: "蜂群生产"
+## tech_repeatable_worker_production_hive -> Swarm Production ##
+ tech_repeatable_worker_production_hive_desc: "蜂巢的渴望。"
+## tech_repeatable_worker_production_hive_desc -> The hive hungers. ##
+ tech_repeatable_specialist_production: "充分就业驱动"
+## tech_repeatable_specialist_production -> Full Employment Drive ##
+ tech_repeatable_specialist_production_desc: "不要问你的帝国能为你做什么，而要问你能为你的帝国做什么。"
+## tech_repeatable_specialist_production_desc -> Ask not what your empire can do for you, but what you can do for your empire. ##
+ tech_repeatable_robot_specialist_production: "协调的任务分配"
+## tech_repeatable_robot_specialist_production -> Coordinated Task Assignment ##
+ tech_repeatable_robot_specialist_production_desc: "减少空闲无人机分配的延迟。"
+## tech_repeatable_robot_specialist_production_desc -> Reduced latency in idle drone allocation. ##
+ tech_repeatable_hive_specialist_production: "集体组织"
+## tech_repeatable_hive_specialist_production -> Collective Organization ##
+ tech_repeatable_hive_specialist_production_desc: "不要问集体能为我们做些什么，而要问我们能为集体做些什么。"
+## tech_repeatable_hive_specialist_production_desc -> Ask not what the collective can do for us, but what we can do for the collective. ##
+ tech_repeatable_terraforming: "生态培育"
+## tech_repeatable_terraforming -> Ecopoiesis ##
+ tech_repeatable_terraforming_desc: "你又在做峡湾了?它们确实给人一种可爱的巴洛克风格的感觉。"
+## tech_repeatable_terraforming_desc -> Are you doing fjords again? They do give a continent a lovely baroque feel. ##
+ tech_repeatable_pop_growth: "大气春药"
+## tech_repeatable_pop_growth -> Atmospheric Aphrodisiacs ##
+ tech_repeatable_pop_growth_desc: "为更大的利益而生育。"
+## tech_repeatable_pop_growth_desc -> Procreate for the greater good. ##
+ tech_repeatable_pop_assembly: "组装算法"
+## tech_repeatable_pop_assembly -> Assembly Algorithims ##
+ tech_repeatable_pop_assembly_desc: "比如，“自动装配程序自动装配”的速度快了5倍。"
+## tech_repeatable_pop_assembly_desc -> Say 'automated assemblers assemble autonomously' five times fast. ##
+ tech_repeatable_housing: "高密度开发"
+## tech_repeatable_housing -> High Density Development ##
+ tech_repeatable_housing_desc: "让更多的人适应更少的空间，并确保他们对此感到高兴的艺术。"
+## tech_repeatable_housing_desc -> The art of fitting more people into less space, and making sure they are happy about it. ##
+ tech_repeatable_fire_rate: "作战部钻井"
+## tech_repeatable_fire_rate -> Battlestation Drilling ##
+ tech_repeatable_fire_rate_desc: "熟能生巧。"
+## tech_repeatable_fire_rate_desc -> Practice makes perfect. ##
+ tech_repeatable_militarization: "军事化社会"
+## tech_repeatable_militarization -> Militarized Society ##
+ tech_repeatable_militarization_desc: "帝国需要你!今天加入海军。"
+## tech_repeatable_militarization_desc -> The Empire Wants You! Join the navy today. ##
+ tech_repeatable_gestalt_militarization: "军事化的意识"
+## tech_repeatable_gestalt_militarization -> Militarized Consciousness ##
+ tech_repeatable_gestalt_militarization_desc: "银河系是我们的。"
+## tech_repeatable_gestalt_militarization_desc -> The galaxy is ours for the taking. ##
+ tech_repeatable_force_disparity: "原则:决不后退一步"
+## tech_repeatable_force_disparity -> Doctrine: Not One Step Back ##
+ tech_repeatable_force_disparity_desc: "永不放弃，永不投降。"
+## tech_repeatable_force_disparity_desc -> Never give up, Never surrender. ##
+ tech_repeatable_improved_titan: "阿达曼合金"
+## tech_repeatable_improved_titan -> Adamantium Alloys ##
+ tech_repeatable_improved_titan_desc: "我喜欢大船，我不会说谎。"
+## tech_repeatable_improved_titan_desc -> I like big ships and I cannot lie. ##
+ tech_repeatable_collateral_damage: "原则:全面战争"
+## tech_repeatable_collateral_damage -> Doctrine: Total War ##
+ tech_repeatable_collateral_damage_desc: "其他的都是异端邪说。"
+## tech_repeatable_collateral_damage_desc -> Anything else is Heresy. ##
+ tech_repeatable_collateral_reduction: "外科手术式打击力量"
+## tech_repeatable_collateral_reduction -> Doctrine: Surgical Strike Forces ##
+ tech_repeatable_collateral_reduction_desc: "战争是地狱。但我们不必成为恶魔。"
+## tech_repeatable_collateral_reduction_desc -> War is hell. But we do not have to be demons. ##
  
  
- collateral_reduction:0 "与 $tech_repeatable_collateral_damage$ §Y互相排斥§!"
- collateral_reduction_desc:0 "§Y$tech_repeatable_collateral_reduction$§!: \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$ -10% \n$MOD_COUNTRY_TRUST_CAP_ADD$ +10"
- collateral_damage:0 "与 $tech_repeatable_collateral_reduction$ §Y互相排斥§!"
- collateral_damage_desc:0 "§Y$tech_repeatable_collateral_damage$§!: \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$ +10% \n$MOD_ARMY_MORALE_DAMAGE_MULT$ +10%"
- specialization_militarization:0 "军事§Y专业化§!"
- specialization_militarization_desc:0 "这减少了机会发现§Y生产§!和§Y处理§!工作专门化"
- specialization_processing:0 "处理§Y专业化§!"
- specialization_processing_desc:0 "这减少了机会发现§Y生产§!和§Y军事§!工作专门化"
- specialization_production:0 "生产§Y专业化§!"
- specialization_production_desc:0 "这减少了机会发现§Y军事§!和§Y处理§!工作专门化"
- specialization_shields:0 "护盾伤害§Y专业化§!"
- specialization_shields_desc:0 "这减少了机会发现§Y装甲§!和§Y船体§!武器专门化"
- specialization_armor:0 "装甲伤害§Y专业化§!"
- specialization_armor_desc:0 "这减少了机会发现§Y护盾§!和§Y船体§!武器专门化"
- specialization_hull:0 "船体伤害§Y专业化§!"
- specialization_hull_desc:0 "这减少了机会发现§Y装甲§!和§Y护盾§!武器专门化"
- specialization_support:0 "支援舰载机§Y焦点§!"
- specialization_support_desc:0 "这减少的机会发现§Y主力舰§!建设重点"
- specialization_capital:0 "主力舰§Y焦点§!"
- specialization_capital_desc:0 "这减少的机会发现§Y支援工艺§!建设重点"
- escape_focus:0 "逃避策略§Y焦点§!"
- escape_focus_desc:0 "这减少的机会发现§Y绝不后撤§!策略重点 \n\n§Y$tech_repeatable_force_disparity$§!: $MOD_FORCE_DISPARITY_FIRE_RATE_MULT$ +10%"
- no_retreat_focus:0 "无战术撤退§Y焦点§!"
- no_retreat_focus_desc:0 "这减少的机会发现§Y逃避§!策略重点 \n\n§Y$tech_repeatable_improved_ship_escape$§!: $MOD_SHIP_DISENGAGE_CHANCE_MULT$ +10%"
+ collateral_reduction: "与 $tech_repeatable_collateral_damage$ §Y互相排斥§!"
+## collateral_reduction -> §YMutually exclusive§! with $tech_repeatable_collateral_damage$ ##
+ collateral_reduction_desc: "§Y$tech_repeatable_collateral_reduction$§!: \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$ -10% \n$MOD_COUNTRY_TRUST_CAP_ADD$ +10"
+## collateral_reduction_desc -> §Y$tech_repeatable_collateral_reduction$§!: \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$ -10% \n$MOD_COUNTRY_TRUST_CAP_ADD$ +10 ##
+ collateral_damage: "与 $tech_repeatable_collateral_reduction$ §Y互相排斥§!"
+## collateral_damage -> §YMutually exclusive§! with $tech_repeatable_collateral_reduction$ ##
+ collateral_damage_desc: "§Y$tech_repeatable_collateral_damage$§!: \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$ +10% \n$MOD_ARMY_MORALE_DAMAGE_MULT$ +10%"
+## collateral_damage_desc -> §Y$tech_repeatable_collateral_damage$§!: \n$MOD_ARMY_COLLATERAL_DAMAGE_MULT$ +10% \n$MOD_ARMY_MORALE_DAMAGE_MULT$ +10% ##
+ specialization_militarization: "军事§Y专业化§!"
+## specialization_militarization -> Militarization §YSpecialization§! ##
+ specialization_militarization_desc: "这减少了机会发现§Y生产§!和§Y处理§!工作专门化"
+## specialization_militarization_desc -> This decreases the chance of discovering §YProduction§! and §YProcessing§! job specializations ##
+ specialization_processing: "处理§Y专业化§!"
+## specialization_processing -> Processing §YSpecialization§! ##
+ specialization_processing_desc: "这减少了机会发现§Y生产§!和§Y军事§!工作专门化"
+## specialization_processing_desc -> This decreases the chance of discovering §YProduction§! and §YMilitarization§! job specializations ##
+ specialization_production: "生产§Y专业化§!"
+## specialization_production -> Production §YSpecialization§! ##
+ specialization_production_desc: "这减少了机会发现§Y军事§!和§Y处理§!工作专门化"
+## specialization_production_desc -> This decreases the chance of discovering §YMilitarization§! and §YProcessing§! job specializations ##
+ specialization_shields: "护盾伤害§Y专业化§!"
+## specialization_shields -> Shield Damage §YSpecialization§! ##
+ specialization_shields_desc: "这减少了机会发现§Y装甲§!和§Y船体§!武器专门化"
+## specialization_shields_desc -> This decreases the chance of discovering §YArmor§! and §YHull§! weapon specializations ##
+ specialization_armor: "装甲伤害§Y专业化§!"
+## specialization_armor -> Armor Damage §YSpecialization§! ##
+ specialization_armor_desc: "这减少了机会发现§Y护盾§!和§Y船体§!武器专门化"
+## specialization_armor_desc -> This decreases the chance of discovering §YShield§! and §YHull§! weapon specializations ##
+ specialization_hull: "船体伤害§Y专业化§!"
+## specialization_hull -> Hull Damage §YSpecialization§! ##
+ specialization_hull_desc: "这减少了机会发现§Y装甲§!和§Y护盾§!武器专门化"
+## specialization_hull_desc -> This decreases the chance of discovering §YArmor§! and §YShield§! weapon specializations ##
+ specialization_support: "支援舰载机§Y焦点§!"
+## specialization_support -> Support Craft §YFocus§! ##
+ specialization_support_desc: "这减少的机会发现§Y主力舰§!建设重点"
+## specialization_support_desc -> This decreases the chance of discovering the §YCapital Ship§! construction focus ##
+ specialization_capital: "主力舰§Y焦点§!"
+## specialization_capital -> Capital Ship §YFocus§! ##
+ specialization_capital_desc: "这减少的机会发现§Y支援工艺§!建设重点"
+## specialization_capital_desc -> This decreases the chance of discovering the §YSupport Craft§! construction focus ##
+ escape_focus: "逃避策略§Y焦点§!"
+## escape_focus -> Escape Tactics §YFocus§! ##
+ escape_focus_desc: "这减少的机会发现§Y绝不后撤§!策略重点 \n\n§Y$tech_repeatable_force_disparity$§!: $MOD_FORCE_DISPARITY_FIRE_RATE_MULT$ +10%"
+## escape_focus_desc -> This decreases the chance of discovering the §YNo Retreat§! tactics focus \n\n§Y$tech_repeatable_force_disparity$§!: $MOD_FORCE_DISPARITY_FIRE_RATE_MULT$ +10% ##
+ no_retreat_focus: "无战术撤退§Y焦点§!"
+## no_retreat_focus -> No Retreat Tactics §YFocus§! ##
+ no_retreat_focus_desc: "这减少的机会发现§Y逃避§!策略重点 \n\n§Y$tech_repeatable_improved_ship_escape$§!: $MOD_SHIP_DISENGAGE_CHANCE_MULT$ +10%"
+## no_retreat_focus_desc -> This decreases the chance of discovering the §YEscape§! tactics focus \n\n§Y$tech_repeatable_improved_ship_escape$§!: $MOD_SHIP_DISENGAGE_CHANCE_MULT$ +10% ##
 
  ###################################################
  # Policies
  ###################################################
 
- policy_research_priority:0 "研究哲学"
- policy_research_priority_desc:0 "我们可以决定哪些领域的研究得到最多的关注和资助。"
- research_balanced_name:0 "$balanced$"
- balanced:0 "平衡研究"
- balanced_desc:0 "科学的多学科方法，所有的研究将以同样的热情进行。 \n\n"
- research_engineering_name:0 "聚焦工程学"
- engineering_society:0 "£engineering£ 实用方法 £physics£"
- engineering_society_desc:0 "我们需要能产生结果的技术，创造一个“对话框”并不能让我们达到目的。 \n\n§Y聚焦工程学§!:"
- engineering_physics:0 "£engineering£ 现实世界的解决方案 £society£"
- engineering_physics_desc:0 "我们需要帮助我们建立一个更美好的世界的技术，而不是关于非常小的事情的理论。 \n\n§YEngineering Focus§!:"
- research_engineering_max_name:0 "优先级:工程学"
- engineering:0 "£engineering£ 优先级:工程学 £engineering£"
- engineering_desc:0 "无论我们多么了解宇宙的规律或它们是如何相互作用的，宇宙仅仅是我们能从它中得出的东西。\n\n§Y工程优先§!:"
- research_society_name:0 "聚焦社会学"
- society_engineering:0 "£society£ 哲学的方法 £physics£"
- society_engineering_desc:0 "首先，我们必须明白我们为什么要做我们所做的事，否则重点是什么?\n\n§Y聚焦社会学§!:"
- society_physics:0 "£society£ 平等的要求 £engineering£"
- society_physics_desc:0 "不为普通公民的利益而寻求的技术根本不需要寻求。 \n\n§Y聚焦社会学§!:"
- research_society_max_name:0 "优先级:社会学"
- society:0 "£society£ 优先级:社会学 £society£"
- society_desc:0 "我们自己代表着宇宙的主要奥秘。粒子和材料的内部运动只是有待解决的难题。完美的自我是我们真正的使命。 \n\n§Y社会学优先§!:"
- research_physics_name:0 "聚焦物理学"
- physics_engineering:0 "£physics£ 理论方法 £society£"
- physics_engineering_desc:0 "我们必须理解科学是如何和为什么存在的，担心如何利用科学的问题可能会在以后出现。\n\n§Y聚焦物理学§!:"
- physics_society:0 "£physics£ 硬科学第一 £engineering£"
- physics_society_desc:0 "简单的事实是，社会科学缺乏其他学科认为理所当然的基本数学严谨性。 \n\n§Y聚焦物理学§!:"
- research_physics_max_name:0 "优先级:物理学"
- physics:0 "£physics£ 优先级:物理学 £physics£"
- physics_desc:0 "每个原子、夸克和粒子都遵循一套普遍规律。理解他们就是理解宇宙的剧本。 \n\n§Y物理学优先§!:"
- research_engineering_min_name:0 "广义:理论"
- engineering_generalization:0 "£physics£ 泛型:理论 £society£"
- engineering_generalization_desc:0 "我们必须首先理解支撑一切的基本规律。 \n\n§Y工程概括§!:"
- research_society_min_name:0 "泛型:实验"
- society_generalization:0 "£engineering£ 泛型:实验 £physics£"
- society_generalization_desc:0 "我们必须研究什么是可测试的、可测量的和可重复的。其他的都是猜测。 \n\n§Y社会推广§!:"
- research_physics_min_name:0 "通用:应用程序"
- physics_generalization:0 "£society£ 通用:应用程序 £engineering£" physics_generalization:0 "£society£ 通用:应用程序 £engineering£"
- physics_generalization_desc:0 "如果我们看不见它，摸不到它，用不到它，或从中获益，那么研究它的意义何在? \n\n§Y物理泛化§!:"
+ policy_research_priority: "研究哲学"
+## policy_research_priority -> Research Philosophy ##
+ policy_research_priority_desc: "我们可以决定哪些领域的研究得到最多的关注和资助。"
+## policy_research_priority_desc -> We can decide what fields of research get the most attention and funding. ##
+ research_balanced_name: "$balanced$"
+## research_balanced_name -> $balanced$ ##
+ balanced: "平衡研究"
+## balanced -> Balanced Research ##
+ balanced_desc: "科学的多学科方法，所有的研究将以同样的热情进行。 \n\n"
+## balanced_desc -> A multi-disciplinary approach to the sciences, all research will be pursued with equal fervor. \n\n ##
+ research_engineering_name: "聚焦工程学"
+## research_engineering_name -> Engineering Focus ##
+ engineering_society: "£engineering£ 实用方法 £physics£"
+## engineering_society -> £engineering£ Practical Approach £physics£ ##
+ engineering_society_desc: "我们需要能产生结果的技术，创造一个“对话框”并不能让我们达到目的。 \n\n§Y聚焦工程学§!:"
+## engineering_society_desc -> We need technology that produces results, creating a "dialog" didn't get us to the stars. \n\n§YEngineering Focus§!: ##
+ engineering_physics: "£engineering£ 现实世界的解决方案 £society£"
+## engineering_physics -> £engineering£ Real World Solutions £society£ ##
+ engineering_physics_desc: "我们需要帮助我们建立一个更美好的世界的技术，而不是关于非常小的事情的理论。 \n\n§YEngineering Focus§!:"
+## engineering_physics_desc -> We need technology that helps us build a better world, not theories about things that are very small. \n\n§YEngineering Focus§!: ##
+ research_engineering_max_name: "优先级:工程学"
+## research_engineering_max_name -> Priority: Engineering ##
+ engineering: "£engineering£ 优先级:工程学 £engineering£"
+## engineering -> £engineering£ Priority: Engineering £engineering£ ##
+ engineering_desc: "无论我们多么了解宇宙的规律或它们是如何相互作用的，宇宙仅仅是我们能从它中得出的东西。\n\n§Y工程优先§!:"
+## engineering_desc -> The universe merely is what we can make out of it, no matter how well we understand its laws or how they interact. \n\n§YEngineering Priority§!: ##
+ research_society_name: "聚焦社会学"
+## research_society_name -> Society Focus ##
+ society_engineering: "£society£ 哲学的方法 £physics£"
+## society_engineering -> £society£ Philosophical Approach £physics£ ##
+ society_engineering_desc: "首先，我们必须明白我们为什么要做我们所做的事，否则重点是什么?\n\n§Y聚焦社会学§!:"
+## society_engineering_desc -> First, we must understand why we are doing what we do, otherwise what is the point? \n\n§YSociety Focus§!: ##
+ society_physics: "£society£ 平等的要求 £engineering£"
+## society_physics -> £society£ Egalitarian Mandate £engineering£ ##
+ society_physics_desc: "不为普通公民的利益而寻求的技术根本不需要寻求。 \n\n§Y聚焦社会学§!:"
+## society_physics_desc -> Technology that is not sought for the benefit of the common citizen need not be sought at all. \n\n§YSociety Focus§!: ##
+ research_society_max_name: "优先级:社会学"
+## research_society_max_name -> Priority: Society ##
+ society: "£society£ 优先级:社会学 £society£"
+## society -> £society£ Priority: Society £society£ ##
+ society_desc: "我们自己代表着宇宙的主要奥秘。粒子和材料的内部运动只是有待解决的难题。完美的自我是我们真正的使命。 \n\n§Y社会学优先§!:"
+## society_desc -> We ourselves represent the primary mysteries of the universe. The inner workings of particles and materials are simply puzzles to be solved. The perfection of the self is our true calling. \n\n§YSociety Priority§!: ##
+ research_physics_name: "聚焦物理学"
+## research_physics_name -> Physics Focus ##
+ physics_engineering: "£physics£ 理论方法 £society£"
+## physics_engineering -> £physics£ Theoretical Approach £society£ ##
+ physics_engineering_desc: "我们必须理解科学是如何和为什么存在的，担心如何利用科学的问题可能会在以后出现。\n\n§Y聚焦物理学§!:"
+## physics_engineering_desc -> We must understand the how and why of science, worrying about what to do with it can come later. \n\n§YPhysics Focus§!: ##
+ physics_society: "£physics£ 硬科学第一 £engineering£"
+## physics_society -> £physics£ Hard Science First £engineering£ ##
+ physics_society_desc: "简单的事实是，社会科学缺乏其他学科认为理所当然的基本数学严谨性。 \n\n§Y聚焦物理学§!:"
+## physics_society_desc -> The simple fact is the social sciences lack the basic mathematical rigor other branches take for granted. \n\n§YPhysics Focus§!: ##
+ research_physics_max_name: "优先级:物理学"
+## research_physics_max_name -> Priority: Physics ##
+ physics: "£physics£ 优先级:物理学 £physics£"
+## physics -> £physics£ Priority: Physics £physics£ ##
+ physics_desc: "每个原子、夸克和粒子都遵循一套普遍规律。理解他们就是理解宇宙的剧本。 \n\n§Y物理学优先§!:"
+## physics_desc -> Every atom, quark, and particle operates under a common set of Universal Laws. Understanding them is understanding the script to the universe. \n\n§YPhysics Priority§!: ##
+ research_engineering_min_name: "广义:理论"
+## research_engineering_min_name -> Generalized: Theory ##
+ engineering_generalization: "£physics£ 泛型:理论 £society£"
+## engineering_generalization -> £physics£ Generic: Theory £society£ ##
+ engineering_generalization_desc: "我们必须首先理解支撑一切的基本规律。 \n\n§Y工程概括§!:"
+## engineering_generalization_desc -> We must first understand the basic laws that underpin everything. \n\n§YEngineering Generalization§!: ##
+ research_society_min_name: "泛型:实验"
+## research_society_min_name -> Generic: Experiments ##
+ society_generalization: "£engineering£ 泛型:实验 £physics£"
+## society_generalization -> £engineering£ Generic: Experiment £physics£ ##
+ society_generalization_desc: "我们必须研究什么是可测试的、可测量的和可重复的。其他的都是猜测。 \n\n§Y社会推广§!:"
+## society_generalization_desc -> We must research what is testable, measurable, and repeatable. Anything else is guesswork. \n\n§YSociety Generalization§!: ##
+ research_physics_min_name: "通用:应用程序"
+## research_physics_min_name -> Generic: Applications ##
+ physics_generalization: "£society£ 通用:应用程序 £engineering£" physics_generalization:0 "£society£ 通用:应用程序 £engineering£"
+## physics_generalization -> £society£ Generic: Application £engineering£ ##
+ physics_generalization_desc: "如果我们看不见它，摸不到它，用不到它，或从中获益，那么研究它的意义何在? \n\n§Y物理泛化§!:"
+## physics_generalization_desc -> If we cannot see it, touch it, use it, or profit from it, what is the point of studying it? \n\n§YPhysics Generalization§!: ##
