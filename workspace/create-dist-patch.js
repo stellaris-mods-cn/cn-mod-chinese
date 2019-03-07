@@ -2,6 +2,9 @@ const path = require('path')
 const vfs = require('vinyl-fs')
 const yargs = require('yargs');
 const mergeStream = require('merge-stream')
+const log = require('fancy-log')
+const chalk = require('chalk')
+const through = require('through2')
 
 const argv = yargs /* (['--help']) */
   .alias('t', 'targets')
@@ -20,11 +23,16 @@ const argv = yargs /* (['--help']) */
 
   mergeStream(...argv.targets.map(t => {
     const base = path.join(dirWorkspaceDist, t);
-    console.log('argv.targets', t, base)
+    let isFirst = true;
     return vfs.src(
       path.join(base, 'localisation/**/*.yml'), {
         base
-      })
+      }).pipe(through.obj((f, _, next) => {
+        isFirst && log('loading target', chalk.blue.bold(t));
+        isFirst = false;
+        log('file', chalk.bold(path.relative(base, f.path)));
+        return next(null, f);
+      }))
   }))
     .pipe(vfs.dest(path.join(dirToDist, `modchina-patch-${now}`)));
 
