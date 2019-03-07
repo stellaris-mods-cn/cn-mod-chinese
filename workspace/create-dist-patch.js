@@ -28,9 +28,8 @@ const argv = yargs /* (['--help']) */
       path.join(base, 'localisation/**/*.yml'), {
         base
       }).pipe(through.obj((f, _, next) => {
-        isFirst && log('loading target', chalk.blue.bold(t));
         isFirst = false;
-        log('file', chalk.bold(path.relative(base, f.path)));
+        log(`file of ${chalk.blue.bold(t)}`, chalk.bold(path.relative(base, f.path)));
         return next(null, f);
       }))
   }))
