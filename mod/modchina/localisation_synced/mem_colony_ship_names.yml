@@ -1,7 +1,0 @@
-﻿l_default:
-
- NAME_MEM_Unidentified_Vessel_Fleet:0 "不明舰船"
- NAME_MEM_Unidentified_Vessel_Name:0 "不明舰船"
- NAME_MEM_Unidentified_Vessel:0 "闯入者"
- 
- NAME_mem_colony_ship_country:0 "[This.GetSpeciesName]殖民地"
