@@ -26,7 +26,7 @@ const argv = yargs /* (['--help']) */
     let isFirst = true;
     return vfs.src(
       path.join(base, 'localisation/**/*.yml'), {
-        base
+        base, removeBOM: false
       }).pipe(through.obj((f, _, next) => {
         isFirst = false;
         log(`file of ${chalk.blue.bold(t)}`, chalk.bold(path.relative(base, f.path)));
