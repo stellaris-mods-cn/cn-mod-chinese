@@ -1,0 +1,57 @@
+﻿l_english:
+
+###################
+# Decisions
+################### 
+ decision_eac_scattergun_prioity_on:0 "Set Transport Targeting On"
+ decision_eac_scattergun_prioity_on_desc:1 "Sets the coilgun or railgun battery to prioritize targeting transport ships when they are in orbit."
+ decision_eac_scattergun_prioity_off:0 "Set Transport Targeting Off"
+ decision_eac_scattergun_prioity_off_desc:1 "Returns the coilgun or railgun battery to normal firing mode (no preference on fleet type)."
+ 
+ planet_eac_scattergun_transport_targeting:0 "Transport Targeting On"
+ planet_eac_scattergun_transport_targeting_tooltip:0 "Gun battery targeting transport ships first."
+ planet_eac_scattergun_transport_targeting_desc:0 "The coilgun or railgun battery is set to prioritize targeting transport ships when they are in orbit."
+
+ ###################
+ # Messages
+ ###################
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON:0 "Fleet Under Planetary Attack"
+ EAC_MESSAGE_SHIP_UNDER_FIRE_PLANETARY_CANNON_DESC:0 "Ship $SHIP|H$§! §Win fleet§! $FLEET|H$§! is under fire from a planetary cannon on $PLANET|H$§!."
+
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON:0 "Ship Destroyed By Planetary Cannon"
+ EAC_MESSAGE_SHIP_DESTROYED_PLANETARY_CANNON_DESC:0 "Ship $SHIP|H$§! §Win fleet§! $FLEET|H$§! has been destroyed by a planetary cannon on $PLANET|H$§!."
+ 
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL:0 "Planetary Cannon Operational"
+ EAC_MESSAGE_PLANETARY_CANNON_OPERATIONAL_DESC:0 "The planetary cannon on $PLANET|H$§! is once again operational. Fleet $FLEET|H$§! is vulnerable."
+
+ job_eac_military_technician_energy:0 "Energy Weapon Technician"
+ job_eac_military_technician_energy_plural:0 "Energy Weapon Technicians"
+ job_eac_military_technician_energy_desc:0 "Planetary cannons require skilled labor to operate equipment and oversee operations."
+ job_eac_military_technician_energy_effect_desc:0 "£job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ produce £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_technician_energy_add:0 "$job_eac_military_technician_energy$ Jobs"
+ mod_job_eac_military_technician_energy_per_pop:0 "§G+1§! $job_eac_military_technician_energy$ Job per $VALUE$ Pops"
+ mod_job_eac_military_technician_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_energy_add£ per $VALUE$ £pop£"
+
+ job_eac_military_technician_kinetic:0 "Kinetic Weapon Technician"
+ job_eac_military_technician_kinetic_plural:0 "Kinetic Weapon Technicians"
+ job_eac_military_technician_kinetic_desc:0 "Planetary gun batteries require skilled labor to operate equipment and oversee operations."
+ job_eac_military_technician_kinetic_effect_desc:0 "£job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ produce £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_technician_kinetic_add:0 "$job_eac_military_technician_kinetic$ Jobs"
+ mod_job_eac_military_technician_kinetic_per_pop:0 "§G+1§! $job_eac_military_technician_kinetic$ Job per $VALUE$ Pops"
+ mod_job_eac_military_technician_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_kinetic_add£ per $VALUE$ £pop£"
+
+ job_eac_military_drone_energy:0 "Energy Weapon Drone"
+ job_eac_military_drone_energy_plural:0 "Energy Weapon Drones"
+ job_eac_military_drone_energy_desc:0 "Planetary cannons require skilled drones to operate equipment and oversee operations."
+ job_eac_military_drone_energy_effect_desc:0 "£job_eac_military_drone_energy£ $job_eac_military_drone_energy_plural$ produce £physics£ §Y$physics_research$§!"
+ mod_job_eac_military_drone_energy_add:0 "$job_eac_military_drone_energy$ Jobs"
+ mod_job_eac_military_drone_energy_per_pop:0 "§G+1§! $job_eac_military_drone_energy$ Job per $VALUE$ Pops"
+ mod_job_eac_military_drone_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_energy_add£ per $VALUE$ £pop£"
+
+ job_eac_military_drone_kinetic:0 "Kinetic Weapon Drone"
+ job_eac_military_drone_kinetic_plural:0 "Kinetic Weapon Drones"
+ job_eac_military_drone_kinetic_desc:0 "Planetary gun batteries require skilled drones to operate equipment and oversee operations."
+ job_eac_military_drone_kinetic_effect_desc:0 "£job_eac_military_drone_kinetic£ $job_eac_military_drone_kinetic_plural$ produce £engineering£ §Y$engineering_research$§!"
+ mod_job_eac_military_drone_kinetic_add:0 "$job_eac_military_drone_kinetic$ Jobs"
+ mod_job_eac_military_drone_kinetic_per_pop:0 "§G+1§! $job_eac_military_drone_kinetic$ Job per $VALUE$ Pops"
+ mod_job_eac_military_drone_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_kinetic_add£ per $VALUE$ £pop£"

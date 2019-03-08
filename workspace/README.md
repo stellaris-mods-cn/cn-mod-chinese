@@ -9,4 +9,6 @@
 
 3. 到`./workspace/dist/<模组目录名>/localisation`中查看合并后的文件，翻译未翻译的词组，如果mod更新改动较大，建议对已翻译的文本进行必要的校对。
 
+3.1 执行`node ./workspace/create-dist-patch -t <模组目录名1> <模组目录名2> <模组目录名...>`, 会在`mod/patches`目录下生成对应的增量布丁包。可以直接把补丁包发给作者。
+
 4. 把最终翻译好的文件提交给`!!!CN!!! MOD CHINESE`的作者。

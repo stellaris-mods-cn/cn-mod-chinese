@@ -1,0 +1,15 @@
+﻿l_english:
+
+ ###################
+ # Ship Parts
+ ###################
+ EAC_ARTILLERY_120_BEHAVIOR_DESC:1 "§HArtillery Tactics:§! The ship will stay at long (§Y120§!) range and fire its long range weapons on the target."
+ EAC_ARTILLERY_MAX_BEHAVIOR_DESC:1 "§HArtillery Tactics:§! The ship will stay at weapons' max range and fire its long range weapons on the target."
+
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED:0 "Advanced Combat Computer (Artillery - Long Range)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT:0 "Sapient Combat Computer (Artillery - Long Range)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG:0 "Precognitive Interface (Artillery - Long Range)"
+
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED:0 "Advanced Combat Computer (Artillery - Max Range)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_SAPIENT:0 "Sapient Combat Computer (Artillery - Max Range)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_MAX_PRECOG:0 "Precognitive Interface (Artillery - Max Range)"

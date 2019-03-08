@@ -50,7 +50,7 @@ const dirSourceLocalisation = path.join(dirSource, target, 'localisation');
 log('reading...', `${chalk.bold(target)}/localisation/*/*_english.yml`);
 
 vfs.src(
-    path.join(dirSourceLocalisation, '*/*_english.yml'),
+    path.join(dirSourceLocalisation, '**/*_english.yml'),
     { removeBOM: false }
   )
   .pipe(through.obj(async (file, _, next) => {

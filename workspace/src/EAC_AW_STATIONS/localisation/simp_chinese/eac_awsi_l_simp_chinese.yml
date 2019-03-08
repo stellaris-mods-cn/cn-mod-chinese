@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+
+ ###################
+ # Station Defense
+ ###################
+ shipsize_eac_military_station_heavy_small_upkeep_mult:0 "Heavy $shipsize_military_station_small_upkeep_mult$"
+ shipsize_eac_military_station_heavy_small_build_cost_mult:0 "Heavy $shipsize_military_station_small_build_cost_mult$"
+ shipsize_eac_military_station_heavy_small_construction_speed_mult:0 "Heavy Defense Platform Construction Speed"
+ mod_shipsize_eac_military_station_heavy_small_hull_add:0 "Heavy Defense Platform Hull Points"
+ eac_military_station_heavy_small_plural:0 "Heavy $military_station_small_plural$"
+ eac_military_station_heavy_small:0 "Heavy $military_station_small$"
+ EAC_PLATFORM_FISSION_REACTOR:0 "$PLATFORM_FISSION_REACTOR$"
+ EAC_PLATFORM_FUSION_REACTOR:0 "$PLATFORM_FUSION_REACTOR$"
+ EAC_PLATFORM_COLD_FUSION_REACTOR:0 "$PLATFORM_COLD_FUSION_REACTOR$"
+ EAC_PLATFORM_ANTIMATTER_REACTOR:0 "$PLATFORM_ANTIMATTER_REACTOR$"
+ EAC_PLATFORM_ZERO_POINT_REACTOR:0 "$PLATFORM_ZERO_POINT_REACTOR$"
+ EAC_PLATFORM_DARK_MATTER_REACTOR:0 "$PLATFORM_DARK_MATTER_REACTOR$"
+ sm_eac_gun_battery:0 "Heavy Gun Battery"
+ sm_eac_gun_battery_desc:0 "Adds four large-size weapon slots to the Starbase.\n"
+ sm_eac_missile_battery:0 "Heavy Missile Battery"
+ sm_eac_missile_battery_desc:0 "Adds four torpedo weapon slots to the Starbase.\n"
+ sm_eac_hangar_bay:0 "Heavy Hangar Bay"
+ sm_eac_hangar_bay_desc:0 "Adds four hangars for strike craft to the Starbase.\n"

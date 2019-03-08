@@ -1,0 +1,39 @@
+﻿l_simp_chinese:
+ ####################################
+ # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
+ #
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-word "Core"
+ # Front sections have a flavor-name followed by the key-word "Breaker"
+ # Rear sections have a flavor-name followed by the key-word "Bulwark"
+ #
+ ####################################
+ 
+ EAC_TITAN_BOW:0 "Titan Carrier Bow"
+ EAC_TITAN_MID:0 "Titan Carrier Core"
+ EAC_TITAN_STERN:0 "Titan Carrier Stern"
+
+ EAC_TITAN_BOW_2XL:0 "Titan Spinal Mounts Bow"
+ EAC_TITAN_BOW_1XL_4G:0 "Titan Missile Bow"
+ EAC_TITAN_MID_1L_4G_4P:0 "Titan Missile Core I"
+ EAC_TITAN_MID_6G_2S:0 "Titan Missile Core II"
+ EAC_TITAN_MID_2L_2M_4S:0 "Titan Balanced Core"
+ EAC_TITAN_MID_2H_2M_2S_2P:0 "Titan Hanger Core"
+ EAC_TITAN_STERN_2G_4P:0 "Titan Missile Stern"
+ EAC_TITAN_STERN_8S:0 "Titan Gunship Stern"
+
+ ####################################
+ # Battleship
+ ####################################
+ EAC_BATTLESHIP_BOW_AC:1 "Advanced Carrier Bow"
+ EAC_BATTLESHIP_MID_AC:1 "Advanced Carrier Core"
+ EAC_BATTLESHIP_STERN_AC:1 "Advanced Carrier Stern"
+
+ ####################################
+ # Cruiser
+ ####################################
+ EAC_CRUISER_BOW_G2:1 "Missile Cruiser Bow"
+ EAC_CRUISER_MID_G3:1 "Missile Cruiser Core"
+
+ EAC_CRUISER_BOW_S1:0 "Light Carrier Bow"
+ EAC_CRUISER_MID_S2:0 "Light Carrier Core"
+ EAC_CRUISER_STERN_P2:0 "Light Carrier Stern"
