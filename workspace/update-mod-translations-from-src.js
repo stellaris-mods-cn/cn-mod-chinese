@@ -39,7 +39,7 @@ function syParseAsObject(content) {
 
 function syReplaceKeyValuePair(content, replacer) {
   const contentStr = content.toString();
-  return contentStr.replace(/([\w\.]+)(:\d*)?\s+"(.+)"/gi, function (_, key, suffix, value) {
+  return contentStr.replace(/([\w\.]+)(:\d*)?\s?"(.+)"/gi, function (_, key, suffix, value) {
     const wrap = final => `${key}${suffix} "${final}"`
     return replacer(wrap, key, value);
   });
