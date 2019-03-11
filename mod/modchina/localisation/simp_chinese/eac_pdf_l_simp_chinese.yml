@@ -156,12 +156,12 @@
 ## EAC_PDF_PATROL_CRAFT_1_MID_S2 -> $CORVETTE_MID_S3$ ##
  EAC_PDF_PATROL_CRAFT_1_MID_T1:0 "$CORVETTE_MID_M1S1$"
 ## EAC_PDF_PATROL_CRAFT_1_MID_T1 -> $CORVETTE_MID_M1S1$ ##
- EAC_PDF_PATROL_CRAFT_1_MID_M1:0 "Heavy Interceptor"
+ EAC_PDF_PATROL_CRAFT_1_MID_M1:0 "重型拦截器"
 ## EAC_PDF_PATROL_CRAFT_1_MID_M1 -> Heavy Interceptor ##
  EAC_PDF_PATROL_CRAFT_1_MID_S1PD1:0 "$CORVETTE_MID_S2PD1$"
 ## EAC_PDF_PATROL_CRAFT_1_MID_S1PD1 -> $CORVETTE_MID_S2PD1$ ##
 
- EAC_PDF_PATROL_CRAFT_2_MID_M1S1:0 "Heavy Interceptor"
+ EAC_PDF_PATROL_CRAFT_2_MID_M1S1:0 "重型拦截器"
 ## EAC_PDF_PATROL_CRAFT_2_MID_M1S1 -> Heavy Interceptor ##
  EAC_PDF_PATROL_CRAFT_2_MID_T1S1:0 "$CORVETTE_MID_M1S1$"
 ## EAC_PDF_PATROL_CRAFT_2_MID_T1S1 -> $CORVETTE_MID_M1S1$ ##
@@ -169,7 +169,7 @@
 ## EAC_PDF_PATROL_CRAFT_2_MID_S3 -> $CORVETTE_MID_S3$ ##
  EAC_PDF_PATROL_CRAFT_2_MID_S2PD1:0 "$CORVETTE_MID_S2PD1$"
 ## EAC_PDF_PATROL_CRAFT_2_MID_S2PD1 -> $CORVETTE_MID_S2PD1$ ##
- EAC_PDF_PATROL_CRAFT_2_MID_T1P2:0 "Missle Interceptor"
+ EAC_PDF_PATROL_CRAFT_2_MID_T1P2:0 "导弹拦截器"
 ## EAC_PDF_PATROL_CRAFT_2_MID_T1P2 -> Missle Interceptor ##
 
  eac_pdf_patrol_craft_1:0 "I型巡逻舰"
@@ -213,7 +213,7 @@
 ## eac_tech_patrol_craft_1 -> Patrol Craft I ##
  eac_tech_patrol_craft_1_desc:0 "A modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$."
 ## eac_tech_patrol_craft_1_desc -> A modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$. ##
- EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE:0 "§HUnlocks Ship Type:§! I型巡逻舰"
+ EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! I型巡逻舰"
 ## EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE -> §HUnlocks Ship Type:§! Patrol Craft I ##
  EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_DESC:0 "§HI型巡逻舰§!\nThe I型巡逻舰 is the most basic military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts."
 ## EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_DESC -> §HPatrol Craft I§!\nThe Patrol Craft I is the most basic military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts. ##
@@ -221,7 +221,7 @@
 ## eac_tech_patrol_craft_2 -> Patrol Craft II ##
  eac_tech_patrol_craft_2_desc:0 "An improved modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$.\n§ROriginal $eac_pdf_patrol_craft_1$ designs will no longer be used.§!\nAdds §G+2§! ship building jobs to the $eac_pdf_base$."
 ## eac_tech_patrol_craft_2_desc -> An improved modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$.\n§ROriginal $eac_pdf_patrol_craft_1$ designs will no longer be used.§!\nAdds §G+2§! ship building jobs to the $eac_pdf_base$. ##
- EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE:0 "§HUnlocks Ship Type:§! II型巡逻舰"
+ EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! II型巡逻舰"
 ## EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE -> §HUnlocks Ship Type:§! Patrol Craft II ##
  EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_DESC:0 "§HII型巡逻舰§!\nThe II型巡逻舰 is an improved military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts."
 ## EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_DESC -> §HPatrol Craft II§!\nThe Patrol Craft II is an improved military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts. ##

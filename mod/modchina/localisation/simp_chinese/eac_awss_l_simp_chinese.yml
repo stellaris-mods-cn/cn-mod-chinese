@@ -1,4 +1,4 @@
-l_simp_chinese:
+﻿l_simp_chinese:
 
  ###################
  # Ship Parts
@@ -8,11 +8,11 @@ l_simp_chinese:
  EAC_ARTILLERY_MAX_BEHAVIOR_DESC:1 "§HArtillery Tactics:§! 飞船会在尽可能远的距离攻击敌人。"
 ## EAC_ARTILLERY_MAX_BEHAVIOR_DESC -> §HArtillery Tactics:§! The ship will stay at weapons' max range and fire its long range weapons on the target. ##
 
- EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED:0 "高级作战计算机 (火炮 - 远距离)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED:0 "高级作战计算机 (火炮 - (§Y120§!)远距离)"
 ## EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED -> Advanced Combat Computer (Artillery - Long Range) ##
- EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT:0 "睿智作战计算机 (火炮 - 远距离)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT:0 "睿智作战计算机 (火炮 - (§Y120§!)远距离)"
 ## EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT -> Sapient Combat Computer (Artillery - Long Range) ##
- EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG:0 "预知接口 (火炮 - 远距离)"
+ EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG:0 "预知接口 (火炮 - (§Y120§!)远距离)"
 ## EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG -> Precognitive Interface (Artillery - Long Range) ##
 
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED:0 "高级作战计算机 (火炮 - 超远距离)"
