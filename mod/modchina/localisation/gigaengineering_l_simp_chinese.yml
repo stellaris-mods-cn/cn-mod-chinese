@@ -1119,7 +1119,7 @@
  giga_planetary_computer_desc:0 "这颗行星是一台巨大的计算机，因此为研究提供了大量的计算能力。"
  
  pc_giga_planetary_computer:0 "行星计算复合体"
- pc_giga_planetary_computer_desc:0 "行星大小的计算机。整个地壳和地幔被一层层巨大的处理器所取代。生活在其表面的持久性有机污染物可以以看不见的效率和速度从事研究工作。但他还是不能运行万星。"
+ pc_giga_planetary_computer_desc:0 "行星大小的计算机。整个地壳和地幔被一层层巨大的处理器所取代。生活在其表面的人口可以以看不见的效率和速度从事研究工作。但这还是不能运行万星。"
  
  district_planetary_computer:0 "行星计算节点"
  district_planetary_computer_plural:0 "行星计算节点"

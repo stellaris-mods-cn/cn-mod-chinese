@@ -651,7 +651,7 @@
  CrisisManagerMenu.3230b.tooltip:1 "危机派系需要陆军和赢得地面战斗才能占领地球"
  CrisisManagerMenu.3230c.tooltip:1 "无论是通过地面战或轨道轰炸,所有地面守卫死亡后，危机可占领该星球"
  CrisisManagerMenu.3230d.tooltip:1 "只要轨道轰炸造成100%伤害，危机派系即可占领星球"
- CrisisManagerMenu.3230e.tooltip:1 "$CrisisManagerMenu.3230d.tooltip$\n\n清除被占领行星上的持久性有机污染物将立即完成"
+ CrisisManagerMenu.3230e.tooltip:1 "$CrisisManagerMenu.3230d.tooltip$\n\n清除被占领行星上的人口将立即完成"
  
  CrisisManagerMenu.3230.name:1 "$CrisisManagerMenu.3230.title$ $CrisisManagerTitleC$"
  CrisisManagerMenu.3230.desc1:1 "$CrisisManagerMenu.3230.desc$\n\n$CmtCurrent$§W$CrisisManagerMenu.3230a.title$§!"

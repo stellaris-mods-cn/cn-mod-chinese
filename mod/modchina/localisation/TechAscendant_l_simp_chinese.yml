@@ -165,32 +165,53 @@
  # Mapmode
  ###################################################
 
- breakthrough_12:"12 Breakthroughs"
- breakthrough_11:"11 Breakthroughs"
- breakthrough_10:"10 Breakthroughs"
- breakthrough_9:"9 Breakthroughs"
- breakthrough_8:"8 Breakthroughs"
- breakthrough_7:"7 Breakthroughs"
- breakthrough_6:"6 Breakthroughs"
- breakthrough_5:"5 Breakthroughs"
- breakthrough_4:"4 Breakthroughs"
- breakthrough_3:"3 Breakthroughs"
- breakthrough_2:"2 Breakthroughs"
- breakthrough_1:"1 Breakthroughs"
- breakthrough_0:"0 Breakthroughs"
- beyond_breakthroughs:"This country is beyond breakthroughs"
- Breakthroughs_desc:"Total number of technology breakthroughs this country has researched"
- edict_Breakthrough_reset:"Breakthrough Mapmode Reset"
- edict_Breakthrough_reset_desc:"Recounts the number of breakthroughs each empire has. No effect unless continuing from an old save. Will disappear once used."
+ breakthrough_12: "12 Breakthroughs"
+## breakthrough_12 -> 12 Breakthroughs ##
+ breakthrough_11: "11 Breakthroughs"
+## breakthrough_11 -> 11 Breakthroughs ##
+ breakthrough_10: "10 Breakthroughs"
+## breakthrough_10 -> 10 Breakthroughs ##
+ breakthrough_9: "9 Breakthroughs"
+## breakthrough_9 -> 9 Breakthroughs ##
+ breakthrough_8: "8 Breakthroughs"
+## breakthrough_8 -> 8 Breakthroughs ##
+ breakthrough_7: "7 Breakthroughs"
+## breakthrough_7 -> 7 Breakthroughs ##
+ breakthrough_6: "6 Breakthroughs"
+## breakthrough_6 -> 6 Breakthroughs ##
+ breakthrough_5: "5 Breakthroughs"
+## breakthrough_5 -> 5 Breakthroughs ##
+ breakthrough_4: "4 Breakthroughs"
+## breakthrough_4 -> 4 Breakthroughs ##
+ breakthrough_3: "3 Breakthroughs"
+## breakthrough_3 -> 3 Breakthroughs ##
+ breakthrough_2: "2 Breakthroughs"
+## breakthrough_2 -> 2 Breakthroughs ##
+ breakthrough_1: "1 Breakthroughs"
+## breakthrough_1 -> 1 Breakthroughs ##
+ breakthrough_0: "0 Breakthroughs"
+## breakthrough_0 -> 0 Breakthroughs ##
+ beyond_breakthroughs: "This country is beyond breakthroughs"
+## beyond_breakthroughs -> This country is beyond breakthroughs ##
+ Breakthroughs_desc: "Total number of technology breakthroughs this country has researched"
+## Breakthroughs_desc -> Total number of technology breakthroughs this country has researched ##
+ edict_Breakthrough_reset: "Breakthrough Mapmode Reset"
+## edict_Breakthrough_reset -> Breakthrough Mapmode Reset ##
+ edict_Breakthrough_reset_desc: "Recounts the number of breakthroughs each empire has. No effect unless continuing from an old save. Will disappear once used."
+## edict_Breakthrough_reset_desc -> Recounts the number of breakthroughs each empire has. No effect unless continuing from an old save. Will disappear once used. ##
 
  ###################################################
  # Modifiers
  ###################################################
  
- mod_planet_farmers_minerals_produces_add:"£job_farmer£ §Y$job_farmer_plural$§! now also produce §Y$minerals$§! £minerals£"
- mod_planet_jobs_specialist_unity_produces_add:"All $SPECIALISTS$ also produce §Y$unity$§! £unity£"
- mod_station_gatherers_energy_produces_mult:"£energy£ Energy Credits from Stations"
- mod_planet_jobs_ruler_influence_produces_add:"Most $RULERS$ now also produce §Y$influence$§! £influence£"
+ mod_planet_farmers_minerals_produces_add: "£job_farmer£ §Y$job_farmer_plural$§! now also produce §Y$minerals$§! £minerals£"
+## mod_planet_farmers_minerals_produces_add -> £job_farmer£ §Y$job_farmer_plural$§! now also produce §Y$minerals$§! £minerals£ ##
+ mod_planet_jobs_specialist_unity_produces_add: "All $SPECIALISTS$ also produce §Y$unity$§! £unity£"
+## mod_planet_jobs_specialist_unity_produces_add -> All $SPECIALISTS$ also produce §Y$unity$§! £unity£ ##
+ mod_station_gatherers_energy_produces_mult: "£energy£ Energy Credits from Stations"
+## mod_station_gatherers_energy_produces_mult -> £energy£ Energy Credits from Stations ##
+ mod_planet_jobs_ruler_influence_produces_add: "Most $RULERS$ now also produce §Y$influence$§! £influence£"
+## mod_planet_jobs_ruler_influence_produces_add -> Most $RULERS$ now also produce §Y$influence$§! £influence£ ##
 
  Psychohistorians: "基金会"
 ## Psychohistorians -> The Foundation ##
@@ -238,7 +259,8 @@
  # Flavor Events
  ###################################################
 
- ORGANIC:"Living"
+ ORGANIC: "活体"
+## ORGANIC -> Living ##
 
  nano_shipyard_desc_modifier: "双倍造船产能"
 ## nano_shipyard_desc_modifier -> Doubles shipyard capacity ##
