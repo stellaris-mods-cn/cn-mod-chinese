@@ -1242,11 +1242,11 @@
  ###Terraforming Candidate Ideas
  pdterraforming_candidate_category_ai:0 "AI地貌改造"
 ## pdterraforming_candidate_category_ai -> AI Terraforming ##
- pdterraforming_candidate_categoryai_desc:0 "AI Terraforming"
+ pdterraforming_candidate_categoryai_desc:0 "AI地貌改造"
 ## pdterraforming_candidate_categoryai_desc -> AI Terraforming ##
- pdterraforming_candidate_category:0 "Ancient Signs of Life"
+ pdterraforming_candidate_category:0 "古老的生物遗迹"
 ## pdterraforming_candidate_category -> Ancient Signs of Life ##
- pdterraforming_candidate_category_desc:0 "This inhabitable planet is showing signs of once having supported a biosphere."
+ pdterraforming_candidate_category_desc:0 "在这个可居住的星球发现曾经支持过生物圈的迹象。"
 ## pdterraforming_candidate_category_desc -> This inhabitable planet is showing signs of once having supported a biosphere. ##
  pdanomaly.01.name:0 "Terraforming Candidate Discovered"
 ## pdanomaly.01.name -> Terraforming Candidate Discovered ##
@@ -2020,9 +2020,9 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## mod_job_nightside_miner_per_pop -> §G+1§! $job_nightside_miner$ Job per $VALUE$ Pops ##
  mod_job_nightside_miner_per_pop_short:0 "\n§G+1§! £mod_nightside_miner_add£ 每 $VALUE$ £pop£"
 ## mod_job_nightside_miner_per_pop_short -> \n§G+1§! £mod_nightside_miner_add£ per $VALUE$ £pop£ ##
- d_ancient_motes:0 "Ancient Volatiles Deposit"
+ d_ancient_motes:0 "古代可挥发沉积物"
 ## d_ancient_motes -> Ancient Volatiles Deposit ##
- d_ancient_motes_desc:1 "Places that were once dense forests have been long buried over the eons. The remains have become dense because of the high gravity which has caused a coalization effect that produces rare motes and other high energy volatiles."
+ d_ancient_motes_desc:1 "古老的茂密森林埋葬在这个地方。由于高重力导致产生稀有元素和其他高能量挥发物的煤化效应，残骸变得致密。"
 ## d_ancient_motes_desc -> Places that were once dense forests have been long buried over the eons. The remains have become dense because of the high gravity which has caused a coalization effect that produces rare motes and other high energy volatiles. ##
  job_volatile_miner:0 "挥发物开采工人"
 ## job_volatile_miner -> Volatiles Miner ##
@@ -2143,37 +2143,37 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## TRAIT_TECHNOORGANIC_PREFERENCE_EFFECT -> $WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
 
  ###Retinal World
- pc_retinal:0 "Retinal World"
+ pc_retinal:0 "视黄醛世界"
 ## pc_retinal -> Retinal World ##
- pc_retinal_desc:0 "Rocky world with a nitrogen-oxygen atmosphere. Active and stable hydrosphere with great landmasses that are separated by oceans. Plant life is retinaldehyde-based instead of chlorophyll-based giving the planet a distictive purple hue."
+ pc_retinal_desc:0 "具有氮氧气氛的岩石世界。 积极稳定的水圈，海洋分隔的大陆地。 植物生命是基于视黄醛的而不是基于叶绿素的，给予行星一种紫色的暗色调。"
 ## pc_retinal_desc -> Rocky world with a nitrogen-oxygen atmosphere. Active and stable hydrosphere with great landmasses that are separated by oceans. Plant life is retinaldehyde-based instead of chlorophyll-based giving the planet a distictive purple hue. ## 
- pc_retinal_tile:0 "Retinal Terrain"
+ pc_retinal_tile:0 "视黄醛地貌"
 ## pc_retinal_tile -> Retinal Terrain ##
- pc_retinal_tile_desc:0 "Purple forested terrain with a mild climate."
+ pc_retinal_tile_desc:0 "紫色森林覆盖的地形，气候温和。"
 ## pc_retinal_tile_desc -> Purple forested terrain with a mild climate. ##
- trait_pc_retinal_preference:0 "Retinal Preference"
+ trait_pc_retinal_preference:0 "视黄醛世界偏好"
 ## trait_pc_retinal_preference -> Retinal Preference ##
  trait_pc_retinal_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_retinal_preference_desc -> $trait_pc_arctic_preference_desc$ ##
- pc_retinal_habitability:0 "Retinal Habitability"
+ pc_retinal_habitability:0 "视黄醛世界宜居"
 ## pc_retinal_habitability -> Retinal Habitability ##
- mod_pc_retinal_habitability:0 "Retinal Habitability"
+ mod_pc_retinal_habitability:0 "视黄醛世界宜居"
 ## mod_pc_retinal_habitability -> Retinal Habitability ##
  START_SCREEN_PART_ONE_RETINAL:0 "In the eons since the first primitive [GetSpeciesName] communities took shape in the rich meadows of [GetHomeWorldName], our civilization has spread and prospered."
 ## START_SCREEN_PART_ONE_RETINAL -> In the eons since the first primitive [GetSpeciesName] communities took shape in the rich meadows of [GetHomeWorldName], our civilization has spread and prospered. ##
- TRAIT_RETINAL_PREFERENCE_EFFECT:0 "Retinal Habitability:$pd80$\n$WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$"
+ TRAIT_RETINAL_PREFERENCE_EFFECT:0 "视黄醛世界宜居:$pd80$\n$WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$"
 ## TRAIT_RETINAL_PREFERENCE_EFFECT -> Retinal Habitability:$pd80$\n$WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
 
  ###Biolumen Deposit/Jobs
- d_biolumen_nature_preserve:0 "Bioluminescent Nature Preserve"
+ d_biolumen_nature_preserve:0 "发光生物自然保护区"
 ## d_biolumen_nature_preserve -> Bioluminescent Nature Preserve ##
- d_biolumen_nature_preserve_desc:1 "The jungles of this planet are so unique, and the life forms so numerous, that setting up preserves for study with giving us the ability to research them in great detail."
+ d_biolumen_nature_preserve_desc:1 "这个星球上的丛林是如此独特，生命形式如此众多，为研究奠定了基础，使我们能够非常详细地研究它们。"
 ## d_biolumen_nature_preserve_desc -> The jungles of this planet are so unique, and the life forms so numerous, that setting up preserves for study with giving us the ability to research them in great detail. ##
- job_jungle_ranger:0 "Bioluminescent Jungle Ranger"
+ job_jungle_ranger:0 "发光生物研究员"
 ## job_jungle_ranger -> Bioluminescent Jungle Ranger ##
- job_jungle_ranger_plural:0 "Bioluminescent Jungle Rangers"
+ job_jungle_ranger_plural:0 "发光生物研究员"
 ## job_jungle_ranger_plural -> Bioluminescent Jungle Rangers ##
- job_jungle_ranger_desc:0 "These dedicated researchers study and protect the unique life on this planet for both medical and practical applications. They also educate and guide groups through the jungle."
+ job_jungle_ranger_desc:0 "这些专门的研究人员研究和保护这个星球上的独特生命，用于医疗和实际应用。 他们还教育和指导团队穿越丛林。"
 ## job_jungle_ranger_desc -> These dedicated researchers study and protect the unique life on this planet for both medical and practical applications. They also educate and guide groups through the jungle. ##
  job_jungle_ranger_effect_desc:0 "job_jungle_ranger $job_jungle_ranger_plural$ study and guide through the jungles using £consumer_goods£ §Y$consumer_goods$§! and turning them into £society£, £tradevalue£ and £amenities£."
 ## job_jungle_ranger_effect_desc -> job_jungle_ranger $job_jungle_ranger_plural$ study and guide through the jungles using £consumer_goods£ §Y$consumer_goods$§! and turning them into £society£, £tradevalue£ and £amenities£. ##
@@ -2225,35 +2225,35 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## edict_eludium_research_desc -> By giving labs access to refined Eludium we can boost the output of physics departments. ##
 
  ###Prairie World
- pc_prairie:0 "Prairie World"
+ pc_prairie:0 "草原世界"
 ## pc_prairie -> Prairie World ##
- pc_prairie_desc:0 "Rocky world with a nitrogen-oxygen atmosphere. Seasonal hydrosphere with a single great landmass with large inland seas. Dry summers are contrasted by cold harsh winters."
+ pc_prairie_desc:0 "具有氮氧气氛的岩石世界。季节性水圈，有一个巨大的陆地和大型内陆海域。干燥的夏季与寒冷严寒的冬季形成鲜明对比。"
 ## pc_prairie_desc -> Rocky world with a nitrogen-oxygen atmosphere. Seasonal hydrosphere with a single great landmass with large inland seas. Dry summers are contrasted by cold harsh winters. ##
- pc_prairie_tile:0 "Prairie Terrain"
+ pc_prairie_tile:0 "草原地貌"
 ## pc_prairie_tile -> Prairie Terrain ##
- pc_prairie_tile_desc:0 "Great plains and a seasonal climate."
+ pc_prairie_tile_desc:0 "大平原和季节性气候。"
 ## pc_prairie_tile_desc -> Great plains and a seasonal climate. ##
- trait_pc_prairie_preference:0 "Prairie Preference"
+ trait_pc_prairie_preference:0 "草原地貌偏好"
 ## trait_pc_prairie_preference -> Prairie Preference ##
  trait_pc_prairie_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_prairie_preference_desc -> $trait_pc_arctic_preference_desc$ ##
- pc_prairie_habitability:0 "Prairie Habitability"
+ pc_prairie_habitability:0 "草原地貌宜居"
 ## pc_prairie_habitability -> Prairie Habitability ##
- mod_pc_prairie_habitability:0 "Prairie Habitability"
+ mod_pc_prairie_habitability:0 "草原地貌宜居"
 ## mod_pc_prairie_habitability -> Prairie Habitability ##
  START_SCREEN_PART_ONE_PRAIRIE:0 "In the eons since the first primitive [GetSpeciesName] communities took shape in the great plains of [GetHomeWorldName], our civilization has spread and prospered."
 ## START_SCREEN_PART_ONE_PRAIRIE -> In the eons since the first primitive [GetSpeciesName] communities took shape in the great plains of [GetHomeWorldName], our civilization has spread and prospered. ##
- TRAIT_PRAIRIE_PREFERENCE_EFFECT:0 "Prairie Habitability:$pd80$\n$DRY_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd20$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$"
+ TRAIT_PRAIRIE_PREFERENCE_EFFECT:0 "草原地貌宜居:$pd80$\n$DRY_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd20$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$"
 ## TRAIT_PRAIRIE_PREFERENCE_EFFECT -> Prairie Habitability:$pd80$\n$DRY_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd20$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
 
  ###Crystal Deposit/Jobs
- d_crystal_guild:0 "Acean Carvers Guild"
+ d_crystal_guild:0 "海洋雕刻作坊"
 ## d_crystal_guild -> Acean Carvers Guild ##
- d_crystal_guild_desc:1 "This facility is used by the guild to carve the Acean crystal into many different usable items. The highly refined Acean is kept as a trade good."
+ d_crystal_guild_desc:1 "居住者使用该设施将海洋水晶雕刻成许多不同的可用物品。高度精致的海洋产品作为贸易商品保存。"
 ## d_crystal_guild_desc -> This facility is used by the guild to carve the Acean crystal into many different usable items. The highly refined Acean is kept as a trade good. ##
- job_crystal_carver:0 "Crystal Carver"
+ job_crystal_carver:0 "水晶雕刻师"
 ## job_crystal_carver -> Crystal Carver ##
- job_crystal_carver_plural:0 "Crystal Carvers"
+ job_crystal_carver_plural:0 "水晶雕刻师"
 ## job_crystal_carver_plural -> Crystal Carvers ##
  job_crystal_carver_desc:0 "These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at."
 ## job_crystal_carver_desc -> These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at. ##
@@ -2269,55 +2269,55 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## crystal -> Crystal Planet ##
  crystal_desc:0 "整个星球上可以看到巨大的晶体沉积物。人们更幸福，生命总体上以惊人的速度增长 - 银河系中没有其他地方像这里。"
 ## crystal_desc -> Giant crystal deposits can be seen everywhere on the surface of this planet. These crystals seem to have a positive effect on life's ability to reproduce and are very beautiful. ##
- building_crystal_pillar:0 "Acean Crystal Pillar"
+ building_crystal_pillar:0 "古老的水晶柱"
 ## building_crystal_pillar -> Acean Crystal Pillar ##
- building_crystal_pillar_desc:0 "Crystal Pillars use highly advanced electromagnetic field generators to boost the natural power of the crystals. Surrounding flora and fauna propagate at an accelerated rate."
+ building_crystal_pillar_desc:0 "这些水晶柱使用非常先进的电磁场发生器来增强晶体的自然能量。 周围的动植物群以更快的速度繁殖。"
 ## building_crystal_pillar_desc -> Crystal Pillars use highly advanced electromagnetic field generators to boost the natural power of the crystals. Surrounding flora and fauna propagate at an accelerated rate. ##
  tech_crystal_pillar:0 "水晶柱增强"
 ## tech_crystal_pillar -> Crystal Pillar ##
  tech_crystal_pillar_desc:0 "使用高度先进的电磁场已证明可以提高艾森的效能，将其几十英尺的范围移至几十公里。 如果这个过程是可重复的，理论上我们可以在任何星球上使用便携式晶体发射器来提高农业产量。"
 ## tech_crystal_pillar_desc -> By carving and sending Acean crystal off world we can replicate its amazing properties on any planet. ##
- edict_cyrstal_growth:0 "Acean Population Boost"
+ edict_cyrstal_growth:0 "人口增长电磁场"
 ## edict_cyrstal_growth -> Acean Population Boost ##
- edict_cyrstal_growth_desc:0 "By setting up Acean crystal field boosters in populated areas we can improve population growth rates."
+ edict_cyrstal_growth_desc:0 "通过在人口稠密地区建立水晶柱，我们可以提高人口增长率。"
 ## edict_cyrstal_growth_desc -> By setting up Acean crystal field boosters in populated areas we can improve population growth rates. ##
- sr_acean:0 "Acean Crystal"
+ sr_acean:0 "古老的水晶洞"
 ## sr_acean -> Acean Crystal ##
- sr_acean_desc:0 "This unique crystal has incredibly positive effects on reproduction of natural life around it."
+ sr_acean_desc:0 "这种独特的水晶对周围自然生物的繁殖产生了令人难以置信的积极影响。"
 ## sr_acean_desc -> This unique crystal has incredibly positive effects on reproduction of natural life around it. ##
- d_holy_temple:0 "Holy Temple"
+ d_holy_temple:0 "寺庙遗迹"
 ## d_holy_temple -> Holy Temple ##
- d_holy_temple_desc:0 "This temple is a blessing and is open to pilgrim from all over the empire to pray in front of its divine powers."
+ d_holy_temple_desc:0 "这座寺庙是一种祝福，对来自帝国各地的朝圣者开放，在神圣的力量面前祈祷。"
 ## d_holy_temple_desc -> This temple is a blessing and is open to pilgrim from all over the empire to pray in front of its divine powers. ##
 
  #Rare&Unique World Buildable Deposits
- decision_geothermal_slurry:0 "Build Geothermal Slurry Site"
+ decision_geothermal_slurry:0 "建造地热泥浆场"
 ## decision_geothermal_slurry -> Build Geothermal Slurry Site ##
- decision_geothermal_slurry_desc:0 "The unique geothermal activity on this world allows for the construction of a site to utilize many of the rare minerals in the geothermal pools."
+ decision_geothermal_slurry_desc:0 "这个世界上独特的地热活动允许建造一个利用地热池中许多稀有矿物的场地。"
 ## decision_geothermal_slurry_desc -> The unique geothermal activity on this world allows for the construction of a site to utilize many of the rare minerals in the geothermal pools. ##
- decision_superhabitable_mine:0 "Build Ancient Motes Mine"
+ decision_superhabitable_mine:0 "修复古老的微粒矿场"
 ## decision_superhabitable_mine -> Build Ancient Motes Mine ##
- decision_superhabitable_mine_desc:0 "The dense gravity and rich biomass give us unique mining opportunities on this plant, with a dedicated mining centre we could take advantage of this."
+ decision_superhabitable_mine_desc:0 "密集的重力和丰富的生物质为我们提供了独特的采矿机会，我们可以利用这个专门的采矿中心。"
 ## decision_superhabitable_mine_desc -> The dense gravity and rich biomass give us unique mining opportunities on this plant, with a dedicated mining centre we could take advantage of this. ##
- decision_nightside_mining:0 "Build Night-Side Mining Base"
+ decision_nightside_mining:0 "建立夜间采矿基地"
 ## decision_nightside_mining -> Build Night-Side Mining Base ##
- decision_nightside_mining_desc:0 "The minerals found on the night-side of the planet will be fully accessible with this dedicated mining operation."
+ decision_nightside_mining_desc:0 "通过这种专门的采矿作业基地，用来在夜间开采矿物。"
 ## decision_nightside_mining_desc -> The minerals found on the night-side of the planet will be fully accessible with this dedicated mining operation. ##
- decision_nature_preserve:0 "Build Bioluminescent Nature Preserve"
+ decision_nature_preserve:0 "建立生物发光自然保护区"
 ## decision_nature_preserve -> Build Bioluminescent Nature Preserve ##
- decision_nature_preserve_desc:0 "The research and medical potential of the glowing jungles of this world are possibly endless. By sectioning off parts of the planet we can study the jungle in great detail."
+ decision_nature_preserve_desc:0 "这个世界上发光的丛林的研究和医疗潜力可能是无穷无尽的。通过建立研究基地，我们可以非常详细地研究丛林。"
 ## decision_nature_preserve_desc -> The research and medical potential of the glowing jungles of this world are possibly endless. By sectioning off parts of the planet we can study the jungle in great detail. ##
- decision_eludium_centre:0 "Build Eludium Processing Centre"
+ decision_eludium_centre:0 "建立稀有元素处理中心"
 ## decision_eludium_centre -> Build Eludium Processing Centre ##
- decision_eludium_centre_desc:0 "The unique element Eludium is far too valuable to leave in the ground, once we build a processing centre we will be able to mine it efficiently."
+ decision_eludium_centre_desc:0 "独特的元素非常有价值，不能留在地下，一旦我们建立了一个加工中心，我们就能有效地开采它。"
 ## decision_eludium_centre_desc -> The unique element Eludium is far too valuable to leave in the ground, once we build a processing centre we will be able to mine it efficiently. ##
- decision_crystal_guilds:0 "Build Crystal Guild Hall"
+ decision_crystal_guilds:0 "建造水晶大厅"
 ## decision_crystal_guilds -> Build Crystal Guild Hall ##
- decision_crystal_guilds_desc:0 "By building a hall to carve and utilize the existing crystal we can support a powerful industry off world."
+ decision_crystal_guilds_desc:0 "通过建造一个雕刻和利用现有水晶的大厅，可以展示我们强大的实力。"
 ## decision_crystal_guilds_desc -> By building a hall to carve and utilize the existing crystal we can support a powerful industry off world. ##
- decision_graveyard_wells:0 "Build Tiyanki Graveyard Drilling Wells"
+ decision_graveyard_wells:0 "建造缇杨凯墓地挖掘井"
 ## decision_graveyard_wells -> Build Tiyanki Graveyard Drilling Wells ##
- decision_graveyard_wells_desc:0 "If we build drilling wells we can utilize the rich bounty left by the Tiyanki buried just under the planet's surface."
+ decision_graveyard_wells_desc:0 "如果我们建造钻井，我们可以利用埋在地球表面下的缇杨凯遗体留下的丰富资源。"
 ## decision_graveyard_wells_desc -> If we build drilling wells we can utilize the rich bounty left by the Tiyanki buried just under the planet's surface. ##
 
  ###Graveyard Deposit/Jobs
@@ -2361,15 +2361,15 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## d_tiyanki_station -> Tiyanki Research Station ##
  d_tiyanki_station_desc:0 "虽然我们选择避免缇杨凯落到地面，但我们仍然可以利用它们的尸体来学习关于宇宙旅程的一切。"
 ## d_tiyanki_station_desc -> While we choose to divert the Tiyanki from reaching the surface we can still use their corpses to learn everything we can about their cosmic journey. ##
- d_graveyard_well:0 "Tiyanki Graveyard Drilling Rig"
+ d_graveyard_well:0 "缇杨凯墓地挖掘井"
 ## d_graveyard_well -> Tiyanki Graveyard Drilling Rig ##
- d_graveyard_well_desc:0 "Many of the exotic materials found on this planet have been deposited by falling Tiyanki and condensed over time. This well burrows deep into the ground to extract the rich natural gas deposits found just below the planet's surface."
+ d_graveyard_well_desc:0 "在这个星球上发现的许多奇异材料都是由缇杨凯坠落沉积并随着时间的推移凝结而成。 这口井深埋在地下，以提取地球表面下方的丰富天然气沉积物。"
 ## d_graveyard_well_desc -> Many of the exotic materials found on this planet have been deposited by falling Tiyanki and condensed over time. This well burrows deep into the ground to extract the rich natural gas deposits found just below the planet's surface. ##
- job_tiyanki_roughneck:0 "Tiyanki Roughneck"
+ job_tiyanki_roughneck:0 "缇杨凯墓地挖掘井操作员"
 ## job_tiyanki_roughneck -> Tiyanki Roughneck ##
- job_tiyanki_roughneck_plural:0 "Tiyanki Roughnecks"
+ job_tiyanki_roughneck_plural:0 "缇杨凯墓地挖掘井操作员"
 ## job_tiyanki_roughneck_plural -> Tiyanki Roughnecks ##
- job_tiyanki_roughneck_desc:0 "These specialized workers dig deep into the planet to gain the rare gasses trapped under the surface. The amount of extra energy generated by releasing this gas is also collected for use."
+ job_tiyanki_roughneck_desc:0 "这些专业工人深入地球深处，以获取被困在地表下的稀有气体。 还收集通过释放该气体产生的额外能量的量以供使用。"
 ## job_tiyanki_roughneck_desc -> These specialized workers dig deep into the planet to gain the rare gasses trapped under the surface. The amount of extra energy generated by releasing this gas is also collected for use. ##
  job_tiyanki_roughneck_effect_desc:0 "job_tiyanki_roughneck $job_tiyanki_roughneck_plural$ collect resources by turning £consumer_goods£ §Y$consumer_goods$§! into £energy£ £exoticgas£ £tradevalue£ for use."
 ## job_tiyanki_roughneck_effect_desc -> job_tiyanki_roughneck $job_tiyanki_roughneck_plural$ collect resources by turning £consumer_goods£ §Y$consumer_goods$§! into £energy£ £exoticgas£ £tradevalue£ for use. ##
@@ -2380,17 +2380,17 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  mod_job_tiyanki_roughneck_per_pop_short:0 "\n§G+1§! £mod_job_tiyanki_roughneck_add£ per $VALUE$ £pop£"
 ## mod_job_tiyanki_roughneck_per_pop_short -> \n§G+1§! £mod_job_tiyanki_roughneck_add£ per $VALUE$ £pop£ ##
  #Techno-Organic
- decision_subsurface_assembly:0 "Build Subsurface Assembly Centre"
+ decision_subsurface_assembly:0 "建立地下装配中心"
 ## decision_subsurface_assembly -> Build Subsurface Assembly Centre ##
- decision_subsurface_assembly_desc:0 "We have come across some abandoned site that appears to be where some of the synthetic life is created, it should be possible to update them to our needs."
+ decision_subsurface_assembly_desc:0 "我们发现了一些废弃的地下网络隧道，似乎是曾经某种工厂设施，应该可以根据我们的需求翻新并利用它们。"
 ## decision_subsurface_assembly_desc -> We have come across some abandoned site that appears to be where some of the synthetic life is created, it should be possible to update them to our needs. ##
- d_subsurface_assembly:0 "Sub-Surface Assembly Centre"
+ d_subsurface_assembly:0 "地下装配中心"
 ## d_subsurface_assembly -> Sub-Surface Assembly Centre ##
  d_subsurface_assembly_desc:0 "Hidden below the surface we have found abandoned assembly centre, we have repurposed some of them to suit our needs."
 ## d_subsurface_assembly_desc -> Hidden below the surface we have found abandoned assembly centre, we have repurposed some of them to suit our needs. ##
- job_synth_assembler:0 "Synthetic Life Assembler"
+ job_synth_assembler:0 "机械装配员"
 ## job_synth_assembler -> Synthetic Life Assembler ##
- job_synth_assembler_plural:0 "Synthetic Life Assemblers"
+ job_synth_assembler_plural:0 "机械装配员"
 ## job_synth_assembler_plural -> Synthetic Life Assemblers ##
  job_synth_assembler_desc:0 "These specialized workers use these sophisticated sites to study and create robots."
 ## job_synth_assembler_desc -> These specialized workers use these sophisticated sites to study and create robots. ##
@@ -2404,57 +2404,57 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## mod_job_synth_assembler_per_pop_short -> \n§G+1§! £mod_job_synth_assembler_add£ per $VALUE$ £pop£ ##
 
  #Nearby Unique
- pd_floating_nearby_init_NAME:0 "Floating Neighbour"
+ pd_floating_nearby_init_NAME:0 "浮空世界邻居"
 ## pd_floating_nearby_init_NAME -> Floating Neighbour ##
  pd_floating_nearby_init_DESC:0 "One of your neighbour systems will have the unique Floating World, it will not spawn again in the game."
 ## pd_floating_nearby_init_DESC -> One of your neighbour systems will have the unique Floating World, it will not spawn again in the game. ##
- pd_crystal_nearby_init_NAME:0 "Crystal Neighbour"
+ pd_crystal_nearby_init_NAME:0 "水晶世界邻居"
 ## pd_crystal_nearby_init_NAME -> Crystal Neighbour ##
  pd_crystal_nearby_init_DESC:0 "One of your neighbour systems will have the unique Crystal World, it will not spawn again in the game."
 ## pd_crystal_nearby_init_DESC -> One of your neighbour systems will have the unique Crystal World, it will not spawn again in the game. ##
- pd_graveyard_nearby_init_NAME:0 "Graveyard Neighbour"
+ pd_graveyard_nearby_init_NAME:0 "墓地世界邻居"
 ## pd_graveyard_nearby_init_NAME -> Graveyard Neighbour ##
  pd_graveyard_nearby_init_DESC:0 "One of your neighbour systems will have the unique Tiyanki Graveyard World, it will not spawn again in the game."
 ## pd_graveyard_nearby_init_DESC -> One of your neighbour systems will have the unique Tiyanki Graveyard World, it will not spawn again in the game. ##
- pd_technoorganic_nearby_init_NAME:0 "Techno-Organic Neighbour"
+ pd_technoorganic_nearby_init_NAME:0 "有机技术邻居"
 ## pd_technoorganic_nearby_init_NAME -> Techno-Organic Neighbour ##
  pd_technoorganic_nearby_init_DESC:0 "One of your neighbour systems will have the unique Techno-Organic World, it will not spawn again in the game."
 ## pd_technoorganic_nearby_init_DESC -> One of your neighbour systems will have the unique Techno-Organic World, it will not spawn again in the game. ##
- pd_archive_nearby_init_NAME:0 "Archive Neighbour"
+ pd_archive_nearby_init_NAME:0 "档案馆星球邻居"
 ## pd_archive_nearby_init_NAME -> Archive Neighbour ##
  pd_archive_nearby_init_DESC:0 "One of your neighbour systems will have the unique Archive Habitat, it will not spawn again in the game."
 ## pd_archive_nearby_init_DESC -> One of your neighbour systems will have the unique Archive Habitat, it will not spawn again in the game. ##
 
  #Megacorps Unique Starts
- civic_mega_crystal_world:0 "Crystal Home"
+ civic_mega_crystal_world:0 "水晶世界"
 ## civic_mega_crystal_world -> Crystal Home ##
  civic_mega_crystal_world_desc:0 "The dominant species of this planet has evolved amoung the crystal pillars of this unique world."
 ## civic_mega_crystal_world_desc -> The dominant species of this planet has evolved amoung the crystal pillars of this unique world. ##
- civic_mega_floating_world:0 "Floating Home"
+ civic_mega_floating_world:0 "浮空世界"
 ## civic_mega_floating_world -> Floating Home ##
  civic_mega_floating_world_desc:0 "The dominant species of this planet has evolved amoung the floating islands of this unique world."
 ## civic_mega_floating_world_desc -> The dominant species of this planet has evolved amoung the floating islands of this unique world. ##
- civic_mega_graveyard_world:0 "Graveyard Home"
+ civic_mega_graveyard_world:0 "墓地世界"
 ## civic_mega_graveyard_world -> Graveyard Home ##
  civic_mega_graveyard_world_desc:0 "The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world."
 ## civic_mega_graveyard_world_desc -> The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world. ##
- civic_mega_technoorganic_world:0 "Techno-Organic Home"
+ civic_mega_technoorganic_world:0 "有机技术世界"
 ## civic_mega_technoorganic_world -> Techno-Organic Home ##
  civic_mega_technoorganic_world_desc:0 "The dominant species of this planet has evolved amoung the synthetic forest of this unique world."
 ## civic_mega_technoorganic_world_desc -> The dominant species of this planet has evolved amoung the synthetic forest of this unique world. ##
- civic_hive_crystal_world:0 "Crystal Home"
+ civic_hive_crystal_world:0 "水晶世界"
 ## civic_hive_crystal_world -> Crystal Home ##
  civic_hive_crystal_world_desc:0 "The dominant species of this planet has evolved amoung the crystal pillars of this unique world."
 ## civic_hive_crystal_world_desc -> The dominant species of this planet has evolved amoung the crystal pillars of this unique world. ##
- civic_hive_floating_world:0 "Floating Home"
+ civic_hive_floating_world:0 "浮空世界"
 ## civic_hive_floating_world -> Floating Home ##
  civic_hive_floating_world_desc:0 "The dominant species of this planet has evolved amoung the floating islands of this unique world."
 ## civic_hive_floating_world_desc -> The dominant species of this planet has evolved amoung the floating islands of this unique world. ##
- civic_hive_graveyard_world:0 "Graveyard Home"
+ civic_hive_graveyard_world:0 "墓地世界"
 ## civic_hive_graveyard_world -> Graveyard Home ##
  civic_hive_graveyard_world_desc:0 "The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world."
 ## civic_hive_graveyard_world_desc -> The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world. ##
- civic_hive_technoorganic_world:0 "Techno-Organic Home"
+ civic_hive_technoorganic_world:0 "有机技术世界"
 ## civic_hive_technoorganic_world -> Techno-Organic Home ##
  civic_hive_technoorganic_world_desc:0 "The dominant species of this planet has evolved amoung the synthetic forest of this unique world."
 ## civic_hive_technoorganic_world_desc -> The dominant species of this planet has evolved amoung the synthetic forest of this unique world. ##
