@@ -10,7 +10,7 @@
 ## EAC_COMBAT_COMPUTER_CARRIER_PRECOG -> Precognitive Interface (Carrier - Max Range) ##
 
  # Fighters 
- EAC_FIGHTER_HANGAR_1:0 "战斗机"
+ EAC_FIGHTER_HANGAR_1:0 "标准型战斗机"
 ## EAC_FIGHTER_HANGAR_1 -> Combat Fighters ##
  EAC_FIGHTER_HANGAR_1_DESC:1 "A flight of fighter craft provides basic strike craft capability, harassing enemy bombers and strike craft in the vicinity of the mothership."
 ## EAC_FIGHTER_HANGAR_1_DESC -> A flight of fighter craft provides basic strike craft capability, harassing enemy bombers and strike craft in the vicinity of the mothership. ##
@@ -24,7 +24,7 @@
 ## EAC_FIGHTER_HANGAR_3_DESC -> A further refinement in combat fighter design, these advanced fighters are a pilot's dream. Their performance far exceeds that of previous models. ##
 
  # Strike Craft
- EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1:0 "高爆武器强击机"
+ EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1:0 "标准型强击机"
 ## EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1 -> Disruptor Strike Craft ##
  EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1_DESC:0 "Equipted with Disruptors, these advanced strike craft fire high-energy bolts that weaken and destroy the molecular bonds that hold the target's constituent atoms together. They are capable of passing through shields and armor to wreak havoc directly on enemy hull and crew."
 ## EAC_STRIKE_CRAFT_HANGAR_DISRUPTOR_1_DESC -> Equipted with Disruptors, these advanced strike craft fire high-energy bolts that weaken and destroy the molecular bonds that hold the target's constituent atoms together. They are capable of passing through shields and armor to wreak havoc directly on enemy hull and crew. ##
@@ -78,10 +78,9 @@
  EAC_BOMBER_HANGAR_NEUTRON_TORPEDO_DESC:0 "Equipped with miniature neutron torpedos, these bombers launch energy projectiles that consist of tightly concentrated neutrons capable of causing immense damage to the hull of enemy ships."
 ## EAC_BOMBER_HANGAR_NEUTRON_TORPEDO_DESC -> Equipped with miniature neutron torpedos, these bombers launch energy projectiles that consist of tightly concentrated neutrons capable of causing immense damage to the hull of enemy ships. ## 
 
-# 舰上侦察机
- EAC_CARRIER_RADAR:0 "舰载侦察机" 
+ EAC_CARRIER_RADAR:0 "舰载雷达" 
 ## EAC_CARRIER_RADAR -> Carrier Radar ##
- EAC_CARRIER_RADAR_DESC:0 "Carrier radar to target ships at a very long distance (450)"
+ EAC_CARRIER_RADAR_DESC:0 "舰载雷达能在非常远的距离(§Y450§!)锁定目标"
 ## EAC_CARRIER_RADAR_DESC -> Carrier radar to target ships at a very long distance (450) ##
 
  # Ship Sections
