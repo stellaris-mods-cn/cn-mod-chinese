@@ -1,0 +1,234 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr21_planet_modifier:0 "远古工厂复合体"
+ apsr21_planet_modifier_desc:0 "整个星球是一个古老文明的工厂建筑群。 不幸的是，它已经毁了很长时间，但它可以恢复"
+ 
+ apsr21_deposit:0 "$apsr21_planet_modifier$"
+ apsr21_deposit_desc:0 "$apsr21_planet_modifier_desc$\n\n§M$apsr21_deposit_effect$§!" 
+ apsr21_deposit_effect:0 "独特的资源可用: $apsr21_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr21_building_part_b1_text:0 "古人过去荣耀的影子"
+ 
+ apsr21_building_part_b2_text:0 "恢复的工厂复合体的小部分"
+ 
+ apsr21_building_part_b3_text:0 "部分修复的工厂复合体"
+ 
+ 
+ apsr21_building_part_m1_text:0 "昔日荣耀的古人的影子"
+ 
+ apsr21_building_part_m2_text:0 "修复后的工厂复合体的小部分，用于获取合金"
+ 
+ apsr21_building_part_m3_text:0 "部分修复的工厂复合体经过改造以获得合金"
+ 
+ 
+ apsr21_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr21_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr21_building_part_b1:0 "远古工厂复合体: 蓝图"
+ apsr21_building_part_b1_desc:0 "$apsr21_building_predesc$\n$apsr21_building_part_b1_text$"
+ 
+ apsr21_building_part_b2:0 "远古工厂复合体: 部分"
+ apsr21_building_part_b2_desc:0 "$apsr21_building_predesc$\n$apsr21_building_part_b2_text$"
+ 
+ apsr21_building_part_b3:0 "远古工厂复合体"
+ apsr21_building_part_b3_desc:0 "$apsr21_building_predesc$\n$apsr21_building_part_b3_text$"
+ 
+  
+ apsr21_building_part_m1:0 "修正 - 远古工厂复合体: 蓝图"
+ apsr21_building_part_m1_desc:0 "$apsr21_building_predesc$\n$apsr21_building_part_m1_text$"
+ 
+ apsr21_building_part_m2:0 "修正 - 远古工厂复合体: 部分"
+ apsr21_building_part_m2_desc:0 "$apsr21_building_predesc$\n$apsr21_building_part_m2_text$"
+ 
+ apsr21_building_part_m3:0 "修正 - 远古工厂复合体"
+ apsr21_building_part_m3_desc:0 "$apsr21_building_predesc$\n$apsr21_building_part_m3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr21_building_part_b1_fake:0 "$apsr21_building_part_b1$"
+ apsr21_building_part_b1_fake_desc:0 "$apsr21_building_fake_predesc$\n$apsr21_building_part_b1_text$"
+ 
+ apsr21_building_part_b2_fake:0 "$apsr21_building_part_b2$"
+ apsr21_building_part_b2_fake_desc:0 "$apsr21_building_fake_predesc$\n$apsr21_building_part_b2_text$"
+ 
+ apsr21_building_part_b3_fake:0 "$apsr21_building_part_b3$"
+ apsr21_building_part_b3_fake_desc:0 "$apsr21_building_fake_predesc$\n$apsr21_building_part_b3_text$"
+ 
+  
+ apsr21_building_part_m1_fake:0 "$apsr21_building_part_m1$"
+ apsr21_building_part_m1_fake_desc:0 "$apsr21_building_fake_predesc$\n$apsr21_building_part_m1_text$"
+ 
+ apsr21_building_part_m2_fake:0 "$apsr21_building_part_m2$"
+ apsr21_building_part_m2_fake_desc:0 "$apsr21_building_fake_predesc$\n$apsr21_building_part_m2_text$"
+ 
+ apsr21_building_part_m3_fake:0 "$apsr21_building_part_m3$"
+ apsr21_building_part_m3_fake_desc:0 "$apsr21_building_fake_predesc$\n$apsr21_building_part_m3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr21_building_part_b1:0 "古人复兴的荣耀：阶段 1"
+ tech_apsr21_building_part_b1_desc:0 "可以而且必须使用古人的遗留物。"
+ 
+ tech_apsr21_building_part_b2:0 "古人复兴的荣耀：阶段 2"
+ tech_apsr21_building_part_b2_desc:0 "可以而且必须使用古人的遗留物。"
+ 
+ tech_apsr21_building_part_b3:0 "古人复兴的荣耀：阶段 3"
+ tech_apsr21_building_part_b3_desc:0 "可以而且必须使用古人的遗留物。"
+ 
+ 
+ tech_apsr21_building_part_m1:0 "古人复兴的荣耀：阶段 1"
+ tech_apsr21_building_part_m1_desc:0 "可以而且必须使用古人的遗留物。"
+ 
+ tech_apsr21_building_part_m2:0 "古人复兴的荣耀：阶段 2"
+ tech_apsr21_building_part_m2_desc:0 "可以而且必须使用古人的遗留物。"
+ 
+ tech_apsr21_building_part_m3:0 "古人复兴的荣耀：阶段 3"
+ tech_apsr21_building_part_m3_desc:0 "可以而且必须使用古人的遗留物。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.21001.title:0 "$apsr21_building_part_b1$完成"
+ apsr.21001.desc:0 "我们已经建造了第一个§Y$apsr21_building_part_b1$§!，并开始获得古人的昔日荣耀"
+ apsr.21001.ok-button:0 "Nice"
+ 
+ apsr.21002.title:0 "$apsr21_building_part_b2$完成"
+ apsr.21002.desc:0 "我们已经恢复了第一个§Y$apsr21_building_part_b2$§!！ 这是农业产业和古人研究的真正突破"
+ apsr.21002.ok-button:0 "Wonderful"
+ 
+ apsr.21003.title:0 "$apsr21_building_part_b3$完成"
+ apsr.21003.desc:0 "我们已经部分恢复§Y远古工厂复合体§!并获得了古人的农业工业"
+ apsr.21003.ok-button:0 "非常棒！"
+ 
+ apsr.21004.title:0 "$apsr21_building_part_m1$完成"
+ apsr.21004.desc:0 "我们已经建造了第一个§Y$apsr21_building_part_m1$§!，它只是恢复昔日古人荣耀的开始"
+ apsr.21004.ok-button:0 "非常棒！"
+ 
+ apsr.21005.title:0 "$apsr21_building_part_m2$完成"
+ apsr.21005.desc:0 "我们已经恢复了第一个§Y$apsr21_building_part_m2$§!!这是能量学和古人研究的真正突破"
+ apsr.21005.ok-button:0 "非常棒！"
+ 
+ apsr.21006.title:0 "$apsr21_building_part_m3$完成"
+ apsr.21006.desc:0 "我们已经部分恢复§Y修正 - 远古工厂复合体§!并获得了古人精力充沛的力量！"
+ apsr.21006.ok-button:0 "非常棒！"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.21811.title:0 "性能恢复"
+ apsr.21811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr21_building_part_b1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.21811.ok-button:0 "非常棒"
+ 
+ apsr.21812.title:0 "性能恢复"
+ apsr.21812.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr21_building_part_b2$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.21812.ok-button:0 "非常棒"
+ 
+ apsr.21813.title:0 "性能恢复"
+ apsr.21813.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr21_building_part_b3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.21813.ok-button:0 "非常棒"
+ 
+ apsr.21814.title:0 "性能恢复"
+ apsr.21814.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr21_building_part_m1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.21814.ok-button:0 "非常棒"
+ 
+ apsr.21815.title:0 "性能恢复"
+ apsr.21815.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr21_building_part_m2$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.21815.ok-button:0 "非常棒"
+ 
+ apsr.21816.title:0 "性能恢复"
+ apsr.21816.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr21_building_part_m3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.21816.ok-button:0 "非常棒"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.21011.title:0 "发现人造物: §M$apsr21_planet_modifier$§!"
+ apsr.21011.desc:0 "由§H[Root.GetLeaderName]§!科研船§H[Root.GetName]§!领导的一个研究小组发现了一些奇特的东西！ \n整个星球是一个古老文明的工厂建筑群。 不幸的是，它已经被毁了很长时间，但它可以恢复"
+ apsr.21011.button:1 "我们必须得到这个人造物！"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.21013.title:0 "发现人造物: §M$apsr21_planet_modifier$§!"
+ apsr.21013.desc:0 "在我们的一个新行星上发现了一些特殊的东西！\n整个星球都是古老文明的工厂建筑群。 不幸的是，它已经被毁了很长时间，但它可以恢复"
+ apsr.21013.button:1 "非常棒！"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.21015.title:0 "发现人造物: §M$apsr21_planet_modifier$§!"
+ apsr.21015.desc:0 "我们的情报部门在查看有关其他帝国行星的信息的同时，发现了一些有趣的东西！\n其中一个行星是曾经存在的文明的食物综合体。 不幸的是很长一段时间被毁，但待恢复。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr21_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr21_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr21_resource_planet.solar_system.GetName]§! \n§Y星球所有者:§! §W[event_target:apsr21_resource_planet.Owner.GetName]§!"
+ apsr.21015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr21_special:0 "$apsr21_planet_modifier$"
+ apsr21_special_desc:0 "$apsr21_planet_modifier_desc$"
+ 
+ APSR21_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR21_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr21_planet_modifier$§!的特殊资源的信息，该资源位于§Y$PLANET$§!控制下的星球§Y$COUNTRY$§!上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr21_anomaly:0 "有趣的数据"
+ apsr21_anomaly_desc:0 "在对[From.GetName]行星表面进行研究期间，我们获得的数据肯定需要进一步调查。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.21601.title:0 "$apsr.21011.title$"
+ apsr.21601.desc:0 "$apsr.21011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr21_planet_artisan_normal:0 "艺工"
+ job_apsr21_artisan_normal:0 "艺工"
+ job_apsr21_artisan_normal_plural:0 "艺工"
+ job_apsr21_artisan_normal_desc:0 "使用当地远古工厂复合体的力量创造各种消费品的专家"
+ mod_job_apsr21_artisan_normal_add:0 "艺工"
+ 
+ apsr21_planet_foundry_hive:0 "艺术工蜂"
+ job_apsr21_foundry_hive:0 "艺术工蜂"
+ job_apsr21_foundry_hive_plural:0 "艺术工蜂"
+ job_apsr21_foundry_hive_desc:0 "使用当地远古工厂复合体的力量创造各种消费品的工蜂"
+ mod_job_apsr21_foundry_hive_add:0 "艺术工蜂"
+ 
+ apsr21_planet_foundry_machine:0 "艺术单元"
+ job_apsr21_foundry_machine:0 "艺术单元"
+ job_apsr21_foundry_machine_plural:0 "艺术单元"
+ job_apsr21_foundry_machine_desc:0 "使用当地远古工厂复合体的力量创造各种消费品的单元"
+ mod_job_apsr21_foundry_hive_add:0 "艺术单元"
+ 
+ 
+ 
+ 
+ 

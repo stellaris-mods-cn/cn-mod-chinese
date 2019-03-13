@@ -79,6 +79,22 @@
  apsr.4003.title:0 "$apsr4_building_part3$ 建成"
  apsr.4003.desc:0 "§Y$apsr4_building_part23§!恢复了，现在是我们帝国皇冠上的明珠!盟友虔诚地弯曲膝盖前的伟大和力量帝国。"
  apsr.4003.ok-button:0 "为我们帝国的荣耀干杯!"
+
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.4811.title:0 "性能恢复"
+ apsr.4811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr4_building_part1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.4811.ok-button:0 "非常棒"
+ 
+ apsr.4812.title:0 "性能恢复"
+ apsr.4812.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr4_building_part2$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.4812.ok-button:0 "非常棒"
+ 
+ apsr.4813.title:0 "性能恢复"
+ apsr.4813.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr4_building_part3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.4813.ok-button:0 "非常棒"
  
  
  
@@ -101,7 +117,7 @@
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.4015.title:0 "发现人造物: §M$apsr4_planet_modifier$§!"
- apsr.4015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，是一座空前美丽的废墟建筑，从建筑和装饰上看，曾经强大的帝国的统治者就坐在里面。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr4_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr4_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr4_resource_planet.Owner.GetName]"
+ apsr.4015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，是一座空前美丽的废墟建筑，从建筑和装饰上看，曾经强大的帝国的统治者就坐在里面。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr4_resource_planet.GetName]§!  \n§Y星球分类:§! §W[event_target:apsr20_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr4_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr4_resource_planet.Owner.GetName]§!"
  apsr.4015.button:1 "有趣!"
 
  

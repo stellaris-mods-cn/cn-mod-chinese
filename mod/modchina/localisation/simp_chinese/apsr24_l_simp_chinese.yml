@@ -1,0 +1,141 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr24_planet_modifier:0 "魔符"
+ apsr24_planet_modifier_desc:0 "魔符 - 这个星球的非官方名称，由发现者给出。 这个名字的原因不明。\n这个星球有两个独特的特征。 首先，行星的整个表面都异常通电，以及能够直接从陆地获取能量。 其次，奇怪的盒子散布在整个星球上，不时出现各种资源。"
+ 
+ apsr24_deposit:0 "$apsr24_planet_modifier$"
+ apsr24_deposit_desc:0 "$apsr24_planet_modifier_desc$\n\n§M$apsr24_deposit_effect$§!" 
+ apsr24_deposit_effect:0 "独特的资源可用: $apsr24_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr24_building_part1_text:0 "使用异常电气化土壤潜在差异的发电站。 随着时间的推移，建筑物将“抽出”一定半径内的所有能量，并且需要将发电厂移动到另一个地方。"
+ apsr24_building_part0_text:0 "发电厂，从一定半径的土地“抽出”所有能量。 需要移动到另一个充满能量的地方"
+ apsr24_building_talisman_text:0 "一个自动化的复合体，用于收集和处理出现在奇怪框中的各种资源。\n§M资源每年都在变化！§!"
+ 
+ apsr24_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr24_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr24_building_part1:0 "发电站"
+ apsr24_building_part1_desc:0 "$apsr24_building_predesc$\n$apsr24_building_part1_text$"
+  
+ apsr24_building_part0:0 "耗尽的电站"
+ apsr24_building_part0_desc:0 "$apsr24_building_predesc$\n$apsr24_building_part0_text$"
+  
+ apsr24_building_talisman:0 "魔符"
+ apsr24_building_talisman_desc:0 "$apsr24_building_predesc$\n$apsr24_building_talisman_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr24_building_part1_fake:0 "$apsr24_building_part1$"
+ apsr24_building_part1_fake_desc:0 "$apsr24_building_fake_predesc$\n$apsr24_building_part1_text$"
+  
+ apsr24_building_talisman_fake:0 "$apsr24_building_talisman$"
+ apsr24_building_talisman_fake_desc:0 "$apsr24_building_fake_predesc$\n$apsr24_building_talisman_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr24_building_part1:0 "使用表面能量"
+ tech_apsr24_building_part1_desc:0 "不应该浪费以非官方名称“魔符”渗透到整个星球表面的能量。"
+ 
+ tech_apsr24_building_talisman:0 "魔符的奥秘"
+ tech_apsr24_building_talisman_desc:0 "奇怪的盒子，其中各种资源不时出现，每个根据其自己的计时器更新。 通过计算和组织此更新的时间，我们可以自动化收集资源。\n§M资源每年都在变化！§!"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.24001.title:0 "电站建成"
+ apsr.24001.desc:0 "以其极其电气化的表面而闻名的行星«魔符»现在将这种能量带给我们。 利用星球表面潜在差异的发电厂会消耗少量矿物，但逐渐耗尽能源供应，发电站需要转移到另一个地方。"
+ apsr.24001.ok-button:0 "优秀"
+ 
+ apsr.24002.title:0 "«魔符»综合体"
+ apsr.24002.desc:0 "«魔符»综合体是一个完全自动化的综合体，它收集各种资源，这些资源偶尔出现在一些奇怪的盒子里，看起来像某些种族使用的保险箱。 有趣的是，这些盒子里的资源总是不同的，惊喜是你不可能猜到的。"
+ apsr.24002.ok-button:0 "开始收集资源"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.24811.title:0 "性能恢复"
+ apsr.24811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr24_building_part1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.24811.ok-button:0 "非常棒"
+ 
+ apsr.24812.title:0 "性能恢复"
+ apsr.24812.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr24_building_talisman$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.24812.ok-button:0 "非常棒"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.24011.title:0 "发现人造物: §M$apsr24_planet_modifier$§!"
+ apsr.24011.desc:0 "由§H[Root.GetLeaderName]§!科研船§H[Root.GetName]§!领导的一个研究小组发现了一些奇特的东西！ \n其中一个行星有两个独特的特征。 首先，行星的整个表面都异常通电，以及能够直接从陆地获取能量的能量。 其次，奇怪的盒子散布在整个星球上，不时出现各种资源。"
+ apsr.24011.button:1 "我们必须得到这个星球！"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.24013.title:0 "发现人造物: §M$apsr24_planet_modifier$§!"
+ apsr.24013.desc:0 "我们的一颗新行星非常不寻常！\n这个星球有两个独特的特征。 首先，行星的整个表面都异常通电，以及能够直接从陆地获取能量的能量。 其次，奇怪的盒子散布在整个星球上，不时出现各种资源。"
+ apsr.24013.button:1 "真奇特!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.24015.title:0 "发现人造物: §M$apsr24_planet_modifier$§!"
+ apsr.24015.desc:0 "我们的情报部门在查看有关其他帝国行星的信息的同时，发现了一些有趣的东西！\n其中一个行星有两个独特的特征。 这个星球有两个独特的特征。 首先，行星的整个表面都异常通电，以及能够直接从陆地获取能量的能量。 其次，奇怪的盒子散布在整个星球上，不时出现各种资源。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr24_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr24_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr24_resource_planet.solar_system.GetName]§! \n§Y星球所有者:§! §W[event_target:apsr24_resource_planet.Owner.GetName]§!"
+ apsr.24015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr24_special:0 "$apsr24_planet_modifier$"
+ apsr24_special_desc:0 "$apsr24_planet_modifier_desc$"
+ 
+ APSR24_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特的星球信息"
+ APSR24_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr24_planet_modifier$§!的特殊资源的信息，该资源位于§Y$PLANET$§!控制下的星球§Y$COUNTRY$§!上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr24_anomaly:0 "$apsr1_anomaly$"
+ apsr24_anomaly_desc:0 "$apsr1_anomaly_desc$"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.24601.title:0 "$apsr.24011.title$"
+ apsr.24601.desc:0 "$apsr.24011.desc$"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

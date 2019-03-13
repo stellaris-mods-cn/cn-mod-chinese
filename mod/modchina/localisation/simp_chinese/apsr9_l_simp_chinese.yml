@@ -180,7 +180,7 @@
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.9015.title:0 "发现人造物: §M$apsr9_planet_modifier$§!"
- apsr.9015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，有一种不稳定矿物的矿床，当它暴露在不同频率的电磁波中时，能够改变其质量，并产生和扭曲重力场。这些可能是大爆炸后压缩物质的残余。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr9_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr9_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr9_resource_planet.Owner.GetName]"
+ apsr.9015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，有一种不稳定矿物的矿床，当它暴露在不同频率的电磁波中时，能够改变其质量，并产生和扭曲重力场。这些可能是大爆炸后压缩物质的残余。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr9_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr9_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr9_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr9_resource_planet.Owner.GetName]§!"
  apsr.9015.button:1 "有趣!"
 
  
@@ -241,20 +241,20 @@
  apsr9_planet_scientist_hive:0 "白台研究设施工蜂"
  job_apsr9_scientist_hive:0 "白台研究设施工蜂"
  job_apsr9_scientist_hive_plural:0 "白台研究设施工蜂"
- job_apsr9_scientist_hive_desc:0 "所有的工蜂，居住在综合体，专门维护技术和研究"
+ job_apsr9_scientist_hive_desc:0 "所有的工蜂，居住在复合体，专门维护技术和研究"
  mod_job_apsr9_scientist_hive_add:0 "白台研究设施工蜂"
    
  apsr9_planet_scientist_machine:0 "白台研究设施单位"
  job_apsr9_scientist_machine:0 "白台研究设施单位"
  job_apsr9_scientist_machine_plural:0 "白台研究设施单位"
- job_apsr9_scientist_machine_desc:0 "专门用于研究活动的无人机也支持综合体的性能。"
+ job_apsr9_scientist_machine_desc:0 "专门用于研究活动的无人机也支持复合体的性能。"
  mod_job_apsr9_scientist_machine_add:0 "白台研究设施单位"
   
   
  apsr9_planet_head_scientist_normal:0 "白台研究设施首席科学家"
  job_apsr9_head_scientist_normal:0 "白台研究设施首席科学家"
  job_apsr9_head_scientist_normal_plural:0 "白台研究设施首席科学家"
- job_apsr9_head_scientist_normal_desc:0 "“白台”研究综合体的首席科学家们正全力投入研究"
+ job_apsr9_head_scientist_normal_desc:0 "“白台”研究复合体的首席科学家们正全力投入研究"
  mod_job_apsr9_head_scientist_normal_add:0 "白台研究设施首席科学家"
    
  apsr9_planet_head_scientist_hive:0 "白台研究设施工蜂"

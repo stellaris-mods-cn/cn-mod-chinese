@@ -68,17 +68,33 @@
  
  ### сообщения при постройке зданий
  
- apsr.16001.title:0 "$apsr16_building_part1$ completed"
+ apsr.16001.title:0 "$apsr16_building_part1$完成"
  apsr.16001.desc:0 "我们已经重建了第一个§Y$apsr16_building_part1$§!，这只是恢复古人昔日荣耀的第一步"
  apsr.16001.ok-button:0 "完美"
  
- apsr.16002.title:0 "$apsr16_building_part2$ completed"
+ apsr.16002.title:0 "$apsr16_building_part2$完成"
  apsr.16002.desc:0 "我们重建了第一个§Y$apsr16_building_part2$§!!这确实是科学和研究古人文明的一大突破!"
  apsr.16002.ok-button:0 "完美"
  
- apsr.16003.title:0 "$apsr16_building_part3$ completed"
+ apsr.16003.title:0 "$apsr16_building_part3$完成"
  apsr.16003.desc:0 "我们已经在一定程度上重建了§Y远古图书馆§!，并获得了古人的技术!"
  apsr.16003.ok-button:0 "完美"
+
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.16811.title:0 "性能恢复"
+ apsr.16811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr16_building_part1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.16811.ok-button:0 "非常棒"
+ 
+ apsr.16812.title:0 "性能恢复"
+ apsr.16812.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr16_building_part2$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.16812.ok-button:0 "非常棒"
+ 
+ apsr.16813.title:0 "性能恢复"
+ apsr.16813.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr16_building_part3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.16813.ok-button:0 "非常棒"
  
  
  
@@ -101,7 +117,7 @@
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.16015.title:0 "发现人造物: §M$apsr16_planet_modifier$§!"
- apsr.16015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\nOn one of the planets is an archive of knowledge of the once existing civilization. Unfortunately for a long time destroyed, but to be restored.\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr16_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr16_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr16_resource_planet.Owner.GetName]"
+ apsr.16015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n其中一个行星是对曾经存在的文明的知识档案。 不幸的是很长一段时间被毁，但待恢复。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr16_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr16_resource_planet.GetClassName]§!  \n§Y星系名称:§! §W[event_target:apsr16_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr16_resource_planet.Owner.GetName]§!"
  apsr.16015.button:1 "有趣!"
 
  
@@ -112,7 +128,7 @@
  apsr16_special_desc:0 "$apsr16_planet_modifier_desc$"
  
  APSR16_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
- APSR16_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr16_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ APSR16_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr16_planet_modifier$§!的特殊资源的信息，该资源位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!."
  
  
  

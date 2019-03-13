@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
-
 FLAG_CATEGORY_drow:0 "卓尔精灵"
 
 ####################################
@@ -54,6 +53,8 @@ DROW_sound_05:0 "欢呼声"
 DROW_organ:0 "胃"
 DROW_mouth:0 "口"
 
+RT_VALSHARESS:0 "瓦纱瑞丝"
+
 ####################################
 # Traits
 ####################################
@@ -76,12 +77,13 @@ civic_drow_eilistraee_desc:0 "社会各阶层都鼓励卓尔女神的哲学。�
 civic_drow_eilistraee_tooltip_effects:0 ""
 civic_drow_warriors:0 "特卡塔斯"
 civic_drow_warriors_desc:0 "一种通过双重力量和诡计来鼓励成功的哲学。其中一个失败了，另一个就成功了。领导者会不断地密谋，不断地导致学习快速或死亡。缺点是信任几乎不存在。"
-civic_drow_warriors_tooltip_effects:0 ""
 civic_drow_arcane:0 "法尔·塔丘拉"
 civic_drow_arcane_desc:0 "社会分为阶级制度，不是基于遗传，而是心灵能力。灵能精英控制着从公众到私人的每一个重大的努力，并且处于持续不断的战斗状态。"
 
+civic_tooltip_drow_warriors_effects:0 "领导者和统治者易患§Y疾病§!\n不能使用§Y平等主义§!, §Y骑士精神§!和§Y绝对的父权制§!性别政策。\n$MOD_COUNTRY_INFLUENCE_GAIN_ADD$: §G+1§!\n$MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n$mod_leaders_cost_mult$: §G-50%§!\n$MOD_COUNTRY_ELECTION_INFLUENCE_COST$: §G-50%§!\n$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!\n$mod_category_psionics_research_speed_mult$: §G+25%§!\n$MOD_COUNTRY_TRUST_CAP_ADD$: §R-50§!\n$MOD_COUNTRY_TRUST_GROWTH$: §R-75%§!\n"
+
 # New restriction text not in vanilla
-civic_drow_tooltip_not_materialistic:0 "没有§Y唯物主义§!"
+civic_drow_tooltip_not_materialistic:0 "无§Y唯物主义§!"
 
 ####################################
 # Diplomacy
@@ -92,6 +94,10 @@ personality_tulshar_personality_desc:0 "瓦尔沙伦认为所有外星生命形�
 
 personality_eilistraeean_personality:0 "圣骑士"
 personality_eilistraeean_personality_desc:0 "圣骑士，神圣的骑士，相信这是他们的神圣职责，为银河系带来秩序。如果可能的话，要和平，但必要时用武力。他们因在友谊建立时的忠诚而闻名。"
+
+gov_drow_matriarchal_council:0 "母系委员会"
+gov_drow_matriarchal_council_desc:0 "这个政府是寡头政治的一种唯心主义形式，绝对的领导权掌握在各个议院的女性领导人手中。家族之间为争夺政治影响力而进行的残酷竞争和继承权之争得到了鼓励，但公开谋杀是非法的。"
+
 
 ####################
 ### PLANET STUFF ###
@@ -144,11 +150,14 @@ EMPIRE_DESIGN_drow_tulshar_civ_desc:0 "从他们有记录的历史开始以来�
 ## VALSHAQUELLAR ##
 drow_special.1.name:0 "恢复家园"
 drow_special.1.desc:0 "我们最近在 £society §Y$tech_climate_restoration$§! 方面的进展使我们能够正确地分析[From.From.GetName]的情况。我们仍然不确定是什么导致了§Y事件§!。然而，我们认为，完全恢复不适宜居住的地区所必需的知识现在已在我们掌握之中。"
-drow_special.1.a:0 "值得考虑"
-drow_special.2.desc:0 "我们已成功地恢复了[From.From.GetName]，再现了之前的荣耀\n\n修复的部分已经准备好了!"
-drow_special.2.a:0 "荣耀帝国! !"
-DROW_VALSHAQUELLAR_REPAIR_PROJECT:0 "恢复家园"
-DROW_VALSHAQUELLAR_REPAIR_PROJECT_DESC:0 "要想恢复昔日辉煌的巨大栖息地，就必须投入大量资金。一旦修复，以前无法使用的部分最终会变得适合居住。"
+drow_special.1.a.desc:0 "通过使用§Y$decision_mastery_of_nature$§!后，我们可以正确地分析[event_target:elves_planet_valshaquellar.GetName]情况。我们仍不清楚是什么原因导致了这一§Y事件§!。然而，我们认为，全面恢复不适宜居住地区所必需的知识现在已在我们的掌握之中。"
+drow_special.1.a:0 "值得考虑。"
+drow_special.2.name:0 "修复完成"
+drow_special.2.desc:0 "我们成功地恢复了[From.From.GetName]的辉煌!\n\n修复的部分已经准备好解决!"
+drow_special.2.a:0 "向帝国致敬!"
+drow_decision_valshaquellar_repair:0 "修复瓦尔沙奎勒"
+drow_decision_valshaquellar_repair_desc:0 "要使这片巨大的栖息地恢复昔日的辉煌，将需要大笔投资。一旦修复，以前无法使用的部分将最终成为可居住的。"
+drow_decision_valshaquellar_repair_tooltip:0 "最高区划增至§Y30§!\n发现新的资源"
 
 ####################
 ### STAR CLASSES ###
@@ -161,3 +170,83 @@ sc_drow_trinary_1:1 "$sc_trinary_1$"
 sc_drow_trinary_2:1 "$sc_trinary_1$"
 sc_drow_quaternary_1:1 "Quaternary Stars"
 sc_drow_quaternary_2:1 "Quaternary Stars"
+
+#######################
+### PLANET FEATURES ###
+#######################
+
+## TULSHAR ##
+
+d_elven_planetary_cheel_xsaus:0 "Che'el Xsa'us"
+d_elven_planetary_cheel_xsaus_desc:0 "在事件发生之前，这里就已经是废墟了。据推测，这曾经是一座重要的城市，但无论它的重要性如何，都早已被遗忘。由于一个令人不安的事实:任何人、飞船、探测器或任何在废墟范围内发送的东西都不会返回，所以废墟特别臭名昭著。现代的尝试包括远程轰炸，但没有明显的效果。这些废墟中存在的任何力量都超出了目前的理解。"
+
+d_elven_planetary_murrpau_sanguine:0 "红血球"
+d_elven_planetary_murrpau_sanguine_desc:0 "长着毛的寄生四足动物具有飞行能力，即使是新生的鼠兔也可能是致命的。幸运的是，它们都是独居的，并且将狩猎时间限制在光线较暗的条件下。尽管它们几乎以任何生物的血液为食，但实验已经最终表明，它们偏爱有情生物的血液。到目前为止，还没有对这一现象作出解释。"
+
+d_elven_planetary_zhevalshath_blocker:0 "瓦尔沙斯"
+d_elven_planetary_zhevalshath_blocker_desc:0 "在过去，只有最强大的统治者才能宣称拥有哲瓦尔沙斯的主权并守住它。黑曜石墙奇迹般地转移了现代武器的方向。由于该事件对社会造成的破坏，它现在被遗弃和年久失修。让这座堡垒重新适于居住将需要大笔投资，但并非不可能。"
+
+d_elven_planetary_zhevalshath:0 "瓦尔沙斯"
+d_elven_planetary_zhevalshath_desc:0 "瓦尔沙斯与其说是宫殿，不如说是堡垒，它传统上是世界上最强大的统治者的所在地。厚重的黑曜石墙无论从地面还是从空中都能让人望而生畏。现在，同样的城墙上布满了现代化的防御武器，这肯定会阻止任何人进攻。在其漫长的历史上，它现在第一次拥有了一个统治者的宝座，这个统治者不仅覆盖了整个行星，而且还覆盖了恒星本身。"
+
+d_elven_planetary_subterranean_hydroponics:0 "地下水培法"
+d_elven_planetary_subterranean_hydroponics_desc:0 "巨大的洞穴从地下的岩石中挖出来，唯一的目的就是耕种。"
+
+d_elven_planetary_buried_sea:0 "埋葬在海里"
+d_elven_planetary_buried_sea_desc:0 "一个巨大的地下海洋与以化学物质为基础的生命形式相结合。其中很多都很有营养。"
+
+d_elven_planetary_happy_lizard_farms:0 "有毒的爬行动物农场"
+d_elven_planetary_happy_lizard_farms_desc:0 "它们在史前被驯化，这个地区是一个非常大和非常有毒的爬行动物的家园，现在主要居住在养牛场。它们的肉是营养丰富的食物，而毒素对于消灭各种生命形式同样有用。"
+
+d_elven_planetary_shroom_flats:0 "蘑菇公寓"
+d_elven_planetary_shroom_flats_desc:0 "覆盖着巨大扁平真菌森林的地区。在这些森林中有“肥厚的头盔”，一种可以种植的食用菌。"
+
+d_elven_planetary_luminous_lichen:0 "发光地衣"
+d_elven_planetary_luminous_lichen_desc:0 "磷光地衣生长在这个地区，不仅可食用，而且很有味道。"
+
+d_elven_planetary_ancient_dynamos:0 "古老发电机"
+d_elven_planetary_ancient_dynamos_desc:0 "未知文明创造的古代发电机。阴谋论者喜欢编造故事，说他们是一些被遗忘的外星种族的最后残余。公认的理论是，它们只是一个帝国的唯一积极结果，这个帝国太不重要了，以至于历史无法记住。"
+
+d_elven_planetary_sunken_geysers:0 "地下间歇泉"
+d_elven_planetary_sunken_geysers_desc:0 "神秘地按等时间隔喷发的地下间歇泉。"
+
+d_elven_planetary_serpentine_trench:0 "蜿蜒水沟"
+d_elven_planetary_serpentine_trench_desc:0 "有高速水流的长而弯曲的水下沟渠。它最著名的用途是在水下比赛项目中，它也能够很容易地作为水力发电的一个来源。"
+
+d_elven_planetary_metal_wastefields:0 "金属废料场"
+d_elven_planetary_metal_wastefields_desc:0 "一处古老的遗址，似乎主要由纯金属和各种合金组成，形成大片的土地。除了设计的顺序，没有明显的迹象表明谁创建了这些字段，也没有明确的目的。"
+
+d_elven_planetary_aurous_fissures:0 "金色裂缝"
+d_elven_planetary_aurous_fissures_desc:0 "该地区独特的自然构造形成了近乎纯金的裂缝。它们周期性地喷发，并且具有足够低的热量，可以毫不费力地开采出来。"
+
+d_elven_planetary_carbon_subterrane:0 "地下碳洞"
+d_elven_planetary_carbon_subterrane_desc:0 "整个洞穴充满固体结晶碳。这是一个自然奇观，也是一个很好的原材料来源。"
+
+
+## EILISTRAEEN ##
+
+d_elven_planetary_feral_fairies:0 "吞噬仙灵"
+d_elven_planetary_feral_fairies_desc:0 "成群飞行的一种小型有知觉的生物。众所周知，他们拥有语言和基本的技术形式。除此之外的任何信息都容易受到这样一个事实的阻碍，即它们会聚集并吞噬任何愚蠢到试图接触的人。在少数情况下，他们经常偷食物和任何他们能够携带的东西。他们很少直接攻击定居点，尽管过去曾有成群结队的人将整个住宅夷为平地的案例。"
+
+d_elven_planetary_feral_fairies_blocker:0 "吞噬仙灵"
+d_elven_planetary_feral_fairies_blocker_desc:0 "成群飞行的一种小型有知觉的生物。众所周知，他们拥有语言和基本的技术形式。除此之外的任何信息都容易受到这样一个事实的阻碍，即它们会聚集并吞噬任何愚蠢到试图接触的人。在少数情况下，他们经常偷食物和任何他们能够携带的东西。他们很少直接攻击定居点，尽管过去曾有成群结队的人将整个住宅夷为平地的案例。"
+
+d_elven_planetary_glowing_forests:0 "发光森林"
+d_elven_planetary_glowing_forests_desc:0 "具有高度植物生命的森林，能发出基于化学物质的光。虽然有吸引力，但它们也很危险，因为发光植物通常是食肉的。有些植物甚至以大型动物甚至愚蠢的市民为食。如果操作安全，这些植物可以被收获来生产具有各种独特性质的化合物。"
+
+d_elven_planetary_glowing_forests_blocker:0 "发光森林"
+d_elven_planetary_glowing_forests_blocker_desc:0 "具有高度植物生命的森林，能发出基于化学物质的光。虽然有吸引力，但它们也很危险，因为发光植物通常是食肉的。有些植物甚至以大型动物甚至愚蠢的市民为食。如果操作安全，这些植物可以被收获来生产具有各种独特性质的化合物。"
+
+d_elven_planetary_cheel_krezust:0 "Che'el K'rezust"
+d_elven_planetary_cheel_krezust_desc:0 "载着[From.GetSpeciesAdj的方舟船第一次安全着陆的古代遗址和[From.GetName]上的第一个城市。经过亿万年的不断扩张，它现在是一个庞大的巨型城市，被认为是[GetSpeciesAdj]文化的首都。[GetName]"
+
+d_elven_planetary_glowing_oceans:0 "磷光海洋"
+d_elven_planetary_glowing_oceans_desc:0 "海洋中的浮游生物在夜间发出微弱的电磁辐射，发出令人愉快的辉光。"
+
+## FALLEN EMPIRES ##
+
+d_drow_planetary_cheel_phalar_blocker:0
+d_drow_planetary_cheel_phalar_blocker_desc:0
+
+d_drow_planetary_cheel_phalar_cursed:0
+d_drow_planetary_cheel_phalar_cursed_desc:0

@@ -31,13 +31,13 @@
  
  apsr15_building_part41_text:0 "银河系最大的电站"
  
- apsr15_building_part42_text:0 "银河系最大的采矿综合体"
+ apsr15_building_part42_text:0 "银河系最大的采矿复合体"
  
- apsr15_building_part43_text:0 "银河系中最大的农场综合体"
+ apsr15_building_part43_text:0 "银河系中最大的农场复合体"
  
  apsr15_building_part44_text:0 "银河系最大的博物馆"
  
- apsr15_building_part45_text:0 "银河系最大的科学综合体"
+ apsr15_building_part45_text:0 "银河系最大的科学复合体"
  
  apsr15_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
  
@@ -80,7 +80,7 @@
  apsr15_building_part44:0 "大型中央博物馆"
  apsr15_building_part44_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part44_text$"
  
- apsr15_building_part45:0 "大型中央科学综合体"
+ apsr15_building_part45:0 "大型中央科学复合体"
  apsr15_building_part45_desc:0 "$apsr15_building_predesc$\n$apsr15_building_part45_text$"
  
  
@@ -155,7 +155,7 @@
  apsr.15032.button2:0 "关注食物"
   
  apsr.15033.title:0 "$apsr15_building_part33$ 建成"
- apsr.15033.desc:0 "§Y$apsr15_building_part33$§!是一个由农场、公园和纪念碑组成的独特综合体，创造了一种与当地自然融为一体的感觉。 \n但是作为函数划分的结果，结果会比我们希望的要低。为了达到最高的效率，有必要把建立的重点放在生产一种资源上。 \n有一种选择是利用所有有利可图的表面来安排农场，或用娱乐和文化设施覆盖它。 \n现在唯一需要做的就是选择我们应该关注的资源"
+ apsr.15033.desc:0 "§Y$apsr15_building_part33$§!是一个由农场、公园和纪念碑组成的独特复合体，创造了一种与当地自然融为一体的感觉。 \n但是作为函数划分的结果，结果会比我们希望的要低。为了达到最高的效率，有必要把建立的重点放在生产一种资源上。 \n有一种选择是利用所有有利可图的表面来安排农场，或用娱乐和文化设施覆盖它。 \n现在唯一需要做的就是选择我们应该关注的资源"
  apsr.15033.button1:0 "关注食物"
  apsr.15033.button2:0 "关注凝聚力"
   
@@ -166,15 +166,15 @@
  
  
  apsr.15041.title:0 "$apsr15_building_part41$ 建成"
- apsr.15041.desc:0 "在矿井中放置额外的电池和冷却系统使我们能够大大增加我们的能量币。而且，我们拥有整个银河系最大的电站综合体!"
+ apsr.15041.desc:0 "在矿井中放置额外的电池和冷却系统使我们能够大大增加我们的能量币。而且，我们拥有整个银河系最大的电站复合体!"
  apsr.15041.ok-button:0 "真奇妙"
   
  apsr.15042.title:0 "$apsr15_building_part42$ 建成"
- apsr.15042.desc:0 "由于所有的电力单位都集中于向设施本身提供能源和安排额外的进入矿井，矿物的开采已经大大扩大。而且，现在我们拥有整个银河系最大的采矿综合体!"
+ apsr.15042.desc:0 "由于所有的电力单位都集中于向设施本身提供能源和安排额外的进入矿井，矿物的开采已经大大扩大。而且，现在我们拥有整个银河系最大的采矿复合体!"
  apsr.15042.ok-button:0 "真奇妙"
   
  apsr.15043.title:0 "$apsr15_building_part43$ 建成"
- apsr.15043.desc:0 "通过在地下区域放置综合植物营养系统，并利用所有可用的地面来安排农场，我们大大增加了植物的生长和接收的食物量。而且，现在我们拥有整个银河系最大的农场综合体!"
+ apsr.15043.desc:0 "通过在地下区域放置综合植物营养系统，并利用所有可用的地面来安排农场，我们大大增加了植物的生长和接收的食物量。而且，现在我们拥有整个银河系最大的农场复合体!"
  apsr.15043.ok-button:0 "真奇妙"
   
  apsr.15044.title:0 "$apsr15_building_part44$ 建成"
@@ -206,7 +206,7 @@
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.15105.title:0 "发现人造物: §M$apsr15_planet_modifier$§!"
- apsr.15105.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上有一个地方，非常不寻常——它有肥沃的土壤，大量的矿物质，还有一个特殊的磁场，你能说得出来的。在这里，您可以构造一个单元来提取任何类型的资源。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr15_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr15_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr15_resource_planet.Owner.GetName]"
+ apsr.15105.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上有一个地方，非常不寻常——它有肥沃的土壤，大量的矿物质，还有一个特殊的磁场，你能说得出来的。在这里，您可以构造一个单元来提取任何类型的资源。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr15_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr15_resource_planet.GetClassName]§!  \n§Y星系名称:§! §W[event_target:apsr15_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr15_resource_planet.Owner.GetName]§!"
  apsr.15105.button:1 "有趣!"
 
  
@@ -326,13 +326,13 @@
  apsr15_planet_scientist_hive:0 "科研工蜂"
  job_apsr15_scientist_hive:0 "科研工蜂"
  job_apsr15_scientist_hive_plural:0 "科研工蜂"
- job_apsr15_scientist_hive_desc:0 "科学综合体的所有生物都具有最高的资格，它们既从事综合体本身的维护，也从事研究活动"
+ job_apsr15_scientist_hive_desc:0 "科学复合体的所有生物都具有最高的资格，它们既从事复合体本身的维护，也从事研究活动"
  mod_job_apsr15_scientist_hive_add:0 "科研工蜂"
    
  apsr15_planet_scientist_machine:0 "科研单元"
  job_apsr15_scientist_machine:0 "科研单元"
  job_apsr15_scientist_machine_plural:0 "科研单元"
- job_apsr15_scientist_machine_desc:0 "专门用于研究活动的无人机也支持该综合体的工作"
+ job_apsr15_scientist_machine_desc:0 "专门用于研究活动的无人机也支持该复合体的工作"
  mod_job_apsr15_scientist_machine_add:0 "科研单元"
  
  

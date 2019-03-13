@@ -31,6 +31,12 @@
  apsr_sao.92.desc:0 "即使我们保护了行星§H[From.GetName]§!,«Aincrad»项目也不能启动，因为格式塔意识物种不适合这个实验。\n我们应该找到另一个星球。"
  apsr_sao.92.button:0 "这是公认的。"
  apsr_sao.92.button.tooltip:0 "为了启动«Aincrad»项目，我们需要一个没有蜂群思维或格式塔意识居住的行星" 
+
+ # wrong planer type
+ apsr_sao.93.title:0 "$apsr_sao.2.title$"
+ apsr_sao.93.desc:0 "尽管我们筛选了行星§H[From.GetName]§!，但«Aincrad»项目的启动是不可能的，因为这类行星不能保证研究团队的稳定工作。\n我们需要找到另一颗行星。"
+ apsr_sao.93.button:0 "明白了"
+ apsr_sao.93.button.tooltip:0 "要启动“Aincrad”项目，需要一个普通类型的行星。那些原本不打算定居的特殊和经过改造的行星并不适合。\n\n§M注意-只有标准类型的行星是合适的，如大陆，沙漠，理想星球和其他的星球。其他MOD添加的行星类型将不起作用。§!" 
  
  #second pacifier shot
  apsr_sao.4.title:0 "$apsr_sao.2.title$"

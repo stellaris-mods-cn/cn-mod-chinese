@@ -1,0 +1,172 @@
+﻿l_simp_chinese:
+ 
+
+ 
+ ### ресурс
+ 
+ apsr23_planet_modifier:0 "远古回收复合体"
+ apsr23_planet_modifier_desc:0 "整个星球是一个古老的文明回收复合体。 不幸的是，它很久以前就被毁了，但它可以恢复"
+ 
+ apsr23_deposit:0 "$apsr23_planet_modifier$"
+ apsr23_deposit_desc:0 "$apsr23_planet_modifier_desc$\n\n§M$apsr23_deposit_effect$§!" 
+ apsr23_deposit_effect:0 "独特的资源可用: $apsr23_planet_modifier$"
+ 
+ 
+ 
+ ### описания зданий
+ 
+ apsr23_building_part1_text:0 "古人过去荣耀的影子"
+ 
+ apsr23_building_part2_text:0 "修复后的回收复合体的小碎片"
+ 
+ apsr23_building_part3_text:0 "部分修复的回收复合体"
+ 
+ apsr23_building_predesc:0 "§M独特建筑§!\n§W--------------§!"
+ 
+ apsr23_building_fake_predesc:0 "§M独特建筑§!\n§R我们没有合适的技术来最大化的从这个建筑中获利!§!\n§W--------------§!"
+ 
+ 
+ 
+ ### нормальные здания
+  
+ apsr23_building_part1:0 "远古回收复合体：蓝图"
+ apsr23_building_part1_desc:0 "$apsr23_building_predesc$\n$apsr23_building_part1_text$"
+ 
+ apsr23_building_part2:0 "远古回收复合体：部分"
+ apsr23_building_part2_desc:0 "$apsr23_building_predesc$\n$apsr23_building_part2_text$"
+ 
+ apsr23_building_part3:0 "远古回收复合体"
+ apsr23_building_part3_desc:0 "$apsr23_building_predesc$\n$apsr23_building_part3_text$"
+ 
+ 
+ 
+ ### фейк-здания
+  
+ apsr23_building_part1_fake:0 "$apsr23_building_part1$"
+ apsr23_building_part1_fake_desc:0 "$apsr23_building_fake_predesc$\n$apsr23_building_part1_text$"
+ 
+ apsr23_building_part2_fake:0 "$apsr23_building_part2$"
+ apsr23_building_part2_fake_desc:0 "$apsr23_building_fake_predesc$\n$apsr23_building_part2_text$"
+ 
+ apsr23_building_part3_fake:0 "$apsr23_building_part3$"
+ apsr23_building_part3_fake_desc:0 "$apsr23_building_fake_predesc$\n$apsr23_building_part3_text$"
+ 
+ 
+ 
+ ### технологии
+ 
+ tech_apsr23_building_part1:0 "重获古人的荣耀：阶段 1"
+ tech_apsr23_building_part1_desc:0 "过去文明的文物可以而且必须使用。"
+ 
+ tech_apsr23_building_part2:0 "重获古人的荣耀：阶段 2"
+ tech_apsr23_building_part2_desc:0 "过去文明的文物可以而且必须使用。"
+ 
+ tech_apsr23_building_part3:0 "重获古人的荣耀：阶段 3"
+ tech_apsr23_building_part3_desc:0 "过去文明的文物可以而且必须使用。"
+ 
+ 
+ 
+ ### сообщения при постройке зданий
+ 
+ apsr.23001.title:0 "$apsr23_building_part1$完成"
+ apsr.23001.desc:0 "我们已经建造了第一个§Y$apsr23_building_part1$§!，它只是恢复昔日古人荣耀的开始"
+ apsr.23001.ok-button:0 "Perfect"
+ 
+ apsr.23002.title:0 "$apsr23_building_part2$完成"
+ apsr.23002.desc:0 "我们重建了第一个§Y$apsr23_building_part2$§!!这是该行业和研究古人的真正突破"
+ apsr.23002.ok-button:0 "Perfect"
+ 
+ apsr.23003.title:0 "$apsr23_building_part3$完成"
+ apsr.23003.desc:0 "我们已经部分恢复§Y远古回收复合体§!并获得了古代工业的成就"
+ apsr.23003.ok-button:0 "Perfect"
+ 
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.23811.title:0 "性能恢复"
+ apsr.23811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr23_building_part1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.23811.ok-button:0 "非常棒"
+ 
+ apsr.23812.title:0 "性能恢复"
+ apsr.23812.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr23_building_part2$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.23812.ok-button:0 "非常棒"
+ 
+ apsr.23813.title:0 "性能恢复"
+ apsr.23813.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr23_building_part3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.23813.ok-button:0 "非常棒"
+ 
+ 
+ 
+ ### сообщение при исследовании планеты с ресурсом
+ 
+ apsr.23011.title:0 "发现人造物: §M$apsr23_planet_modifier$§!"
+ apsr.23011.desc:0 "由§H[Root.GetLeaderName]§!科研船§H[Root.GetName]§!领导的一个研究小组发现了一些奇特的东西！ \n整个星球是一个古老的文明回收复合体。 不幸的是，很久以前就被毁了，但它可以恢复"
+ apsr.23011.button:1 "我们必须得到这个人造物！"
+ 
+ 
+ 
+ ### сообщение при получении планеты с ресурсом
+ 
+ apsr.23013.title:0 "发现人造物: §M$apsr23_planet_modifier$§!"
+ apsr.23013.desc:0 "整个星球是一个古老的文明回收复合体。 不幸的是，很久以前就被毁了，但它可以恢复"
+ apsr.23013.button:1 "非常棒！!"
+ 
+ 
+ 
+ ### сообщение при получении информации от разведки (проверка раз в 5 лет)
+ 
+ apsr.23015.title:0 "发现人造物: §M$apsr23_planet_modifier$§!"
+ apsr.23015.desc:0 "我们的情报部门在检查有关其他帝国行星的信息的同时，发现了一些有趣的东西！\n其中一个行星是曾经存在的文明的回收复合体。 不幸的是很长一段时间被毁，但待恢复。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr23_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr23_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr23_resource_planet.solar_system.GetName]§! \n§Y星球所有者:§! §W[event_target:apsr23_resource_planet.Owner.GetName]§!"
+ apsr.23015.button:1 "有趣!"
+
+ 
+ 
+ ### SPECIAL PROJECT
+ 
+ apsr23_special:0 "$apsr23_planet_modifier$"
+ apsr23_special_desc:0 "$apsr23_planet_modifier_desc$"
+ 
+ APSR23_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
+ APSR23_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr23_planet_modifier$§!的特殊资源的信息，该资源位于§Y$PLANET$§!控制下的星球§Y$COUNTRY$§!上。"
+ 
+ 
+ 
+ ### Аномалия
+ 
+ apsr23_anomaly:0 "有趣的数据"
+ apsr23_anomaly_desc:0 "在对[From.GetName]行星表面进行研究期间，我们获得的数据肯定需要进一步调查。"
+
+ 
+ 
+ ### сообщение при изучении аномалии
+ 
+ apsr.23601.title:0 "$apsr.23011.title$"
+ apsr.23601.desc:0 "$apsr.23011.desc$"
+ 
+ 
+ 
+ ### новые должности
+   
+ apsr23_planet_processing_normal:0 "回收商"
+ job_apsr23_processing_normal:0 "回收商"
+ job_apsr23_processing_normal_plural:0 "回收商"
+ job_apsr23_processing_normal_desc:0 "使用当地远古回收复合体的力量创造稀有资源的专家"
+ mod_job_apsr23_processing_normal_add:0 "回收商"
+ 
+ apsr23_planet_processing_hive:0 "回收工蜂"
+ job_apsr23_processing_hive:0 "回收工蜂"
+ job_apsr23_processing_hive_plural:0 "回收工蜂"
+ job_apsr23_processing_hive_desc:0 "使用当地远古回收复合体的力量创造稀有资源的工蜂"
+ mod_job_apsr23_processing_hive_add:0 "回收工蜂"
+ 
+ apsr23_planet_processing_machine:0 "回收单元"
+ job_apsr23_processing_machine:0 "回收单元"
+ job_apsr23_processing_machine_plural:0 "回收单元"
+ job_apsr23_processing_machine_desc:0 "使用当地远古回收复合体的力量创造稀有资源的单元"
+ mod_job_apsr23_processing_hive_add:0 "回收单元"
+ 
+ 
+ 
+ 
+ 

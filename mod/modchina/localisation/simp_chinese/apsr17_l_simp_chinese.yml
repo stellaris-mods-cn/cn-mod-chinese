@@ -68,17 +68,33 @@
  
  ### сообщения при постройке зданий
  
- apsr.17001.title:0 "$apsr17_building_part1$ completed"
+ apsr.17001.title:0 "$apsr17_building_part1$完成"
  apsr.17001.desc:0 "我们建造了第一个§Y$apsr17_building_part1$§!，这只是恢复古人昔日荣耀的开始"
  apsr.17001.ok-button:0 "完美"
  
- apsr.17002.title:0 "$apsr17_building_part2$ completed"
+ apsr.17002.title:0 "$apsr17_building_part2$完成"
  apsr.17002.desc:0 "我们重建了第一个§Y$apsr17_building_part2$§!!这是研究古人的一大突破!"
  apsr.17002.ok-button:0 "完美"
  
- apsr.17003.title:0 "$apsr17_building_part3$ completed"
+ apsr.17003.title:0 "$apsr17_building_part3$完成"
  apsr.17003.desc:0 "我们在一定程度上恢复了§Y远古发电联合体§!，并利用了古代电力系统的全球能量学"
  apsr.17003.ok-button:0 "完美"
+
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.17811.title:0 "性能恢复"
+ apsr.17811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr17_building_part1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.17811.ok-button:0 "非常棒"
+ 
+ apsr.17812.title:0 "性能恢复"
+ apsr.17812.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr17_building_part2$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.17812.ok-button:0 "非常棒"
+ 
+ apsr.17813.title:0 "性能恢复"
+ apsr.17813.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr17_building_part3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.17813.ok-button:0 "非常棒"
  
  
  
@@ -94,14 +110,14 @@
  
  apsr.17013.title:0 "发现一个人造物: §M$apsr17_planet_modifier$§!"
  apsr.17013.desc:0 "在我们的一颗新行星上，发现了一些奇特的东西。 \n这个星球是一个古老文明的发电站。不幸的是，它早就被毁了，但还可以恢复"
- apsr.17013.button:1 "Great!"
+ apsr.17013.button:1 "非常棒！!"
 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.17015.title:0 "发现人造物: §M$apsr17_planet_modifier$§!"
- apsr.17015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\nOn one of the planets is the power plant of the once existing civilization. Unfortunately for a long time destroyed, but to be restored.\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr17_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr17_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr17_resource_planet.Owner.GetName]"
+ apsr.17015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n其中一个行星是曾经存在的文明的发电厂。 不幸的是很长一段时间被毁，但待恢复。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr17_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr17_resource_planet.GetClassName]§!  \n§Y星系名称:§! §W[event_target:apsr17_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr17_resource_planet.Owner.GetName]§!"
  apsr.17015.button:1 "有趣!"
 
  
@@ -112,7 +128,7 @@
  apsr17_special_desc:0 "$apsr17_planet_modifier_desc$"
  
  APSR17_MESSAGE_SR_INFORMED_TITLE:0 "关于一个独特星球的信息"
- APSR17_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr17_planet_modifier$§!, which is located on the planet §Y$PLANET$§!控制下的§Y$COUNTRY$§!."
+ APSR17_MESSAGE_SR_INFORMED:0 "我们收到了关于一种叫做§M$apsr17_planet_modifier$§!的特殊资源的信息，该资源位于§Y$PLANET$§!控制下的§Y$COUNTRY$§!."
  
  
  

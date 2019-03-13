@@ -57,6 +57,14 @@
  apsr.10011.title:0 "发现人工制品: §M$apsr10_planet_modifier$§!"
  apsr.10011.desc:0 "起初，我们没有发现任何可疑的东西，但在我们开始测量这个星球的能量场之后，我们发现在一些地方存在着一种“量子泡沫”——一种由“冻结的”量子和电子构成的能量，它们没有移动，但是……同时移动。最奇怪的是它的大退化期。也许我们可以用它来满足我们的兴趣?"
  apsr.10011.button:1 "我们必须采取行动!"
+
+ 
+ 
+ ### сообщения при замене фейк-зданий на настоящие
+ 
+ apsr.10811.title:0 "性能恢复"
+ apsr.10811.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr10_building_part1$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
+ apsr.10811.ok-button:0 "非常棒"
  
  
  
@@ -71,7 +79,7 @@
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.10015.title:0 "发现人造物: §M$apsr10_planet_modifier$§!"
- apsr.10015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n从档案数据来看，星球上存在空间异常。以前的所有者试图利用这一点，但他们没有成功。我们的预测一致:这种反常现象具有巨大的商业潜力。\n\n§G信息:§!\n§Y星球名称:§! [event_target:apsr10_resource_planet.GetName] \n§Y星系名称:§! [event_target:apsr10_resource_planet.solar_system.GetName] \n§Y星球所有权:§! [event_target:apsr10_resource_planet.Owner.GetName]"
+ apsr.10015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n从档案数据来看，星球上存在空间异常。以前的所有者试图利用这一点，但他们没有成功。我们的预测一致:这种反常现象具有巨大的商业潜力。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr10_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr10_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr10_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr10_resource_planet.Owner.GetName]§!"
  apsr.10015.button:1 "有趣!"
 
  
