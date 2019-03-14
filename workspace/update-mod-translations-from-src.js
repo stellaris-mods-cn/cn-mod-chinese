@@ -17,6 +17,7 @@ npm run update-mod-trans-from-src -- -t <target_mod_name>
 const argv = yargs/* (['--help']) */
   .usage(helpMessage).help()
   .alias('t', 'target')
+  .default('comment', true)
   // .alias('r', 'relativePath')
   .argv;
 
@@ -106,8 +107,8 @@ vfs.src(
     const newContent = syReplaceKeyValuePair(
       file.contents, (wrap, key, value) => {
         const translated = keyMap[key]
-        return wrap(translated || value)+"\n"+
-        `## ${key} -> ${value} ##`
+        return wrap(translated || value)
+        +(argv.comment ? ("\n"+`## ${key} -> ${value} ##`) : (''))
       }).replace(/l_english:/, 'l_simp_chinese:');
     
     file.contents = Buffer.from(newContent);
