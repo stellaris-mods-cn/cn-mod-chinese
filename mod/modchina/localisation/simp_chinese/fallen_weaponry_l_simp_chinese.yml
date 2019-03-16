@@ -27,9 +27,6 @@
  SHADOW_STRIKE_CRAFT:0 "暗影突击艇"
  SHADOW_STRIKE_CRAFT_DESC:0 "灵感来自于无尽神机，下一代多用途的攻击机很难被发现，甚至更难被击中。"
 
- SHADOW_STRIKE_FIGHTER:0 "影子攻击战斗机"
- SHADOW_STRIKE_FIGHTER_DESC:0 "灵感来自于无尽神机的防御机制，这些极其敏捷的人工智能控制战斗机将其脆弱的部分隐藏在戒备森严的盔甲和盾牌中。它们在摧毁其他原始飞船和导弹方面非常有效。"
- 
  tech_shadow_strike_craft:0 "暗影突击艇"
  tech_shadow_strike_craft_desc:0 "灵感来自于无尽神机，下一代多用途的攻击机很难被发现，甚至更难被击中。"
 
@@ -196,7 +193,6 @@
  tech_titan_armor_desc:0 "这个护甲的密度比中子的密度大，是由这个星系已知的最坚硬的物质构成的。"
  
 
-
  fallen_weaponry.2.name:0 "先驱者兵工厂被发现"
  fallen_weaponry.2.desc:0 "我们在§H[Root.GetName]§!上找到了一个隐藏的设施。从它的自动安全系统和匆忙设置的路障来看，这个先驱者无意让它的任何武器落入不法之手。\n\n在进入这个复杂的区域后，我们勇敢的团队搜寻了我们可以使用的设备。虽然大多数设备要么是过时的，要么是我们已经掌握的技术，我们的科学家们发现了一些具有耐人寻味特征的武器原型。\n\n我们的科学家请求允许对这些原型武器进行调查，这样我们就可以确定它们的前体技术是否与我们的相兼容。"
  fallen_weaponry.2.a:0 "这些§H神圣守护者§!到底有什么秘密？"
@@ -264,8 +260,8 @@
  fallen_weaponry.405.name:0 "先驱者神奇武器: §Y$tech_mysterious_weapon$§!"
  fallen_weaponry.405.desc:0 "针对古代看护人的网络攻击是突发事件，但最初是核心系统。在当年,病毒感染了许多古代管理者的研究单位,因为他们开始着手神秘武器。这种文件和结果一样几乎不存在，因为应急计划试图从管理员的鼻子底下制造这种武器。当古代的看护人意识到这一阴谋时，它迫使所有的研究单位停止工作，从此不再从事研究工作。"
  
- PROJECT_PSI_BARRIER:0 "先驱者原型技术: §Y$tech_psi_barrier$§!"
- PROJECT_PSI_BARRIER_DESC:0 "在[Root.GetName]上获得的原型武器装备在构建技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n我们的科学家还不确定§Y$tech_psi_barrier$§!的实际功能。"
+ PROJECT_psi_deflector:0 "先驱者原型技术: §Y$tech_psi_barrier$§!"
+ PROJECT_psi_deflector_DESC:0 "在[Root.GetName]上获得的原型武器装备在构建技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n我们的科学家还不确定§Y$tech_psi_barrier$§!的实际功能。"
  PROJECT_PSI_MISSILES:0 "先驱者原型武器: §Y$tech_psi_missile_system$§!"
  PROJECT_PSI_MISSILES_DESC:0 "在[Root.GetName]获得的武器装备——原型导弹技术上有了一个有趣的突破。然而，该原型仍处于测试阶段，没有大规模生产。在我们的科学家能够处理和翻译所有数据文件之前，需要相当长的时间才能恢复其开发。\n\n然而，我们的科学界对§Y$tech_psi_missile_system$§!非常感兴趣。"
  PROJECT_DARK_MATTER_PLATING:0 "先驱者原型技术: §Y$tech_dark_matter_plating$§!"

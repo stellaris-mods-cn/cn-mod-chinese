@@ -52,6 +52,18 @@
  war_goal_wg_ascended_empire_abduction:0 "诱导"
  war_goal_wg_ascended_empire_abduction_desc:0 "为了安全起见，我们发动了战争。但这也是为了他们自己的利益。"
  war_goal_wg_ascended_empire_end_threat_colossus:0 "$war_goal_wg_end_threat$"
+ war_goal_wg_ascended_empire_end_threat_colossus_desc:0 "发动战争是为了结束敌人使用巨像的威胁。"
+ war_goal_wg_ascended_empire_absorption:0 "消灭"
+ war_goal_wg_ascended_empire_absorption_desc:0 "发动战争是为了彻底消灭敌人。"
+ war_goal_wg_banish_ascendancy:0 "消除优势"
+ war_goal_wg_banish_ascendancy_desc:0 "战争是为了驱逐另一个巅峰帝国，消除他们对我们银河系的腐败影响。"
+ war_goal_wg_total_annihilation:0 "横扫千军"
+ war_goal_wg_total_annihilation_desc:0 "对敌人发动一场歼灭战争，消灭他们的一切存在的痕迹和力量基础。"
+ war_goal_wg_dismantle_ascendancy:0 "消除优势"
+ war_goal_wg_dismantle_ascendancy_desc:0 "战争是为了摧毁一个失落帝国留下的遗产。"
+ 
+ 
+ war_goal_wg_ascended_empire_end_threat_colossus:0 "$war_goal_wg_end_threat$"
  war_goal_wg_ascended_empire_end_threat_colossus_desc:0 "战争是为了用巨像来结束敌人的威胁。"
  war_goal_wg_ascended_empire_absorption:0 "净化"
  war_goal_wg_ascended_empire_absorption_desc:0 "战争是为了消灭敌人而发动的。"

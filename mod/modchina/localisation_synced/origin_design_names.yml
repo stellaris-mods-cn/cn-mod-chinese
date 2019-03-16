@@ -10,6 +10,13 @@
  NAME_ORIGIN_TOWER: "超越"
  NAME_AUSCHWITZ: "本德勒布莱克"
  
+NAME_OE_Super_Starbase_Playable: "堡垒之光"
+
+NAME_PROGENITOR_ESCORT: "猎人"
+NAME_PROGENITOR_BATTLECRUISER: "星辰侠"
+NAME_PROGENITOR_TITAN: "举星者"
+NAME_PROGENITOR_AVATAR: "艾莉亚的纪念"
+
  NAME_Origin_Colossus_Fleet: "驱逐舰"
  NAME_Origin_Fleet: "海军"
  NAME_Origin_Fleet_Arkship: "防御舰队"
@@ -55,7 +62,7 @@ NAME_ANCIENT_ARCHON: "远古执政官阿凡达"
 NAME_ANCIENT_ARCHON_NAME: "恨意翻涌"
 NAME_ANCIENT_ARCHON_SERVANT: "远古执政官"
 
-gatekeeper_control_node: "守门人电力管道"
+gatekeeper_control_node: "守门人能量核心"
 
 NAME_Frontier_Egress: "新边疆"
 NAME_Outer_EgressA: "索菲娅"

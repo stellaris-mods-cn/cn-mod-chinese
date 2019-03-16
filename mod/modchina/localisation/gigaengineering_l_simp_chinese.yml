@@ -1343,7 +1343,7 @@
  shroudbuff_desc:0 "灵能虹吸器提供了与虚境的直接连接，并产生虚境能量，极大地增强了我们的心灵能力!"
  
  gigamenu.999.name:0 "Gigastructures 2.2"
- gigamenu.999.desc:0 "你好!这个2.2版本的Gigastructural Engineering & More已经基本完成。然而，请注意，轨道极乐世界、虚拟世界、星际栖息地和彭罗斯环世界/炸弹已经被暂时禁用，因此它们可以更新到新的2.2机制。\n\n§R尼科尔-戴森光束也被暂时禁用，因为它是一个令人讨厌的意大利面条代码球，有崩溃游戏的倾向。它将被重新编码。§!"
+ gigamenu.999.desc:0 "您好!这2.2版的Gigastructural Engineering & More但是，请注意虚拟世界已经暂时禁用，因此可以将它们更新到新的2.2机制。"
  gigamenu.999.a: "已确认。"
  
  iodizium_deficit:0 "碘赤字"

@@ -9,6 +9,12 @@ decision_transform_into_awesome_machine_desc: "为了使这个星球能够支持
 decision_transform_into_awesome_hive: "卓越的进化"
 decision_transform_into_awesome_hive_desc: "对于蜂群来说，当前的集群对于最近的任务来说效率低下而且无力。蜂群必须进一步进化。蜂群必须令人敬畏。"
 
+decision_open_chambers_menu: "进入改造室"
+decision_open_chambers_menu_desc: "进化仍在继续"
+
+decision_open_assembly_menu: "访问纳米组装"
+decision_open_assembly_menu_desc: "没有什么是我们无法控制的。"
+
 ### BUILDING TEXTS
 
 building_ae_ancient_palace: "暗黑宫殿"
@@ -283,3 +289,21 @@ building_stellarite_generator_desc: "很壮观，不是吗?创造一颗人造的
 
 building_stellarite_nexus: "星状体能源管道"
 building_stellarite_nexus_desc: "将场强增加到10级在技术上仍然在可接受的参数范围内。距离核选项还有20级。"
+
+building_fe_clone_vats: "先进的克隆大桶" 
+building_fe_clone_vats_desc: "我们的敌人扰乱了我们的再生过程。我们虽多，他们却只有一个。我们要消灭他们。\n\n麦蒂赢了，完美无缺的胜利。" 
+
+building_ae_clone_vats: "改造室"
+building_ae_clone_vats_desc: "为什么要浪费资源来培养未来的领导者呢?\n\n这个建筑开启了一个新的行星决策进入狂欢室终端。"
+
+tech_ae_clone_vats: "改造室"
+tech_ae_clone_vats_desc: "随着我们先进的基因工程和提升，我们现在可以开始掌握自己的命运，克服生活中的所有缺点。我们将定义进化论。\n\n§Y一旦建在一个行星上，将开启一个新的行星决策进入舱室。§!"
+
+trait_acot_robot_scv: "先进的服务"
+trait_acot_robot_scv_desc: "这台机器的建造是为了最大限度地为帝国服务，强调最大产出和生产力。还有超过六百万种专门针对享乐主义有机食品的侮辱。"
+
+trait_acot_robot_superman_engines: "无限引擎"
+trait_acot_robot_superman_engines_desc: "这台机器增加了强大的神秘算法，使它们更加智能。当然比大多数臭皮包更聪明。"
+
+trait_acot_robot_heavy_duty: "基业常青"
+trait_acot_robot_heavy_duty_desc: "这台机器非常注重耐用性和寿命。这台机器不仅能够快速学习复杂的任务，占用最少的空间，还有望相对轻松地扼住对手的喉咙，使其变得复杂，并将其骨头折断。"

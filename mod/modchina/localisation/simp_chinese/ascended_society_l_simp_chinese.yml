@@ -96,3 +96,9 @@
  building_synthetic_living_metal_desc:0 "活性金属的性能可以在现有技术水平上进行综合生产。"
  building_synthetic_zro:0 "合成泽洛设施"
  building_synthetic_zro_desc:0  "在我们目前的技术水平上合成泽洛是可能的。"
+
+
+
+ edict_paradise_creation:0 "创造天堂"
+ edict_paradise_creation_desc:0 当大自然被设计得完美无缺时，它在已知宇宙中无与伦比的美丽将是留给我们年轻人的一份合适的遗产。乌托邦天堂世界是由§Y$pc_gaia$§!或§Y$pc_ringworld_habitable$§!创造的。"
+ 

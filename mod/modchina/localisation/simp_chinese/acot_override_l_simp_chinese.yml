@@ -266,3 +266,9 @@ tech_energy_lance_contingency_desc: "奇怪的是，与通常的能量光矛技�
 
 tech_perdition_beam_contingency: "应变泰坦梁"
 tech_perdition_beam_contingency_desc: "很明显，无论他们的创造者是谁，他们至少已经足够先进，拥有暗物质知识。 然而，这些技术的设计对附近的有机物非常致命。 难道他们的创作者也不完全是有机的吗？"
+
+tech_energy_lance_edi: "粉碎光矛"
+tech_energy_lance_edi_desc: "这个维度能量武器扭曲了物理定律，去摧毁所有那些否认侵略者饥饿的人。"
+
+acot_modifier_being_purged: "借来的时间"
+acot_modifier_being_purged_desc: "这个星球正在被标记为终结，它的人口生活在一个借来的时间。除非星球被迅速回收，否则它们将全部变成汤。"

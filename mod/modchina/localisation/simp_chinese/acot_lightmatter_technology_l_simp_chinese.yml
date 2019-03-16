@@ -1,7 +1,6 @@
 ﻿l_simp_chinese:
 
 ### SHIP COMPONENTS TEXTS
-
 TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§H解锁组件:§! 天堂装甲"
 TECH_UNLOCK_ORIGIN_ARMOR_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
 
@@ -17,8 +16,8 @@ TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "古老但极其强大的舰船推进器远远
 TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§H解锁组件:§! 光物质反应堆"
 TECH_UNLOCK_ORIGIN_REACTOR_DESC: "通过迄今为止无法解释的方法，这些发光的发电机产生的无限能量远远超过了暗物质。"
 
-TECH_UNLOCK_ORIGIN_SENSORS_TITLE: "§H解锁组件:§! 天督传感器"
-TECH_UNLOCK_ORIGIN_SENSORS_DESC: "这些高度先进的传感器可以很容易地穿透敌人的能量读数，并实时地从许多系统报告它们的确切位置。"
+TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§H解锁组件:§! 天督传感器"
+TECH_UNLOCK_ORIGIN_OENSORS_DESC: "这些高度先进的传感器可以很容易地穿透敌人的能量读数，并实时地从许多系统报告它们的确切位置。"
 
 TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§H解锁组件:§! 自主式战斗分析仪"
 TECH_UNLOCK_ORIGIN_CCOM_DESC: "自给式战斗分析仪是一种非常先进的战斗计算机，可以实时分析战场情况，预测最佳的行动路线，然后自动指示舰船的整个系统以最少的人工输入做出相应的反应。"
@@ -88,9 +87,6 @@ ACOT_ULTIMATE_WEAPON_DESC: "作为有史以来最强大的武器之一，神圣�
 
 ACOT_FLAGSHIP_SUPER_WEAPON: "神的干预"
 ACOT_FLAGSHIP_SUPER_WEAPON_DESC: "由六个巨大的方舟电力塔组成，神圣干涉光束比小型主力舰使用的光束更强、更快。"
-
-ACOT_PLANET_KILLER_NANITE: "神的惩罚"
-ACOT_PLANET_KILLER_NANITE_DESC: "你 到此结束。"
 
 ACOT_ARMOR_OE: "天堂装甲"
 ACOT_ARMOR_OE_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
@@ -217,14 +213,6 @@ hostile_tech_inhibitor_aura: "友好网络放大器"
 
 shipsize_colossus_hull_add: "巨像船体增加"
 
-ORIGIN_PLANET_KILLER_NANITE: "纳米清洁剂"
-ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洁剂是始源帝国可怕的武器，它可以迅速地用纳尼特改造和清洗整个世界。"
-ORIGIN_PLANET_KILLER_NANITE_ACTION: "纳米清洗"
-
-FLEETORDER_DESTROY_PLANET_WITH_ORIGIN_PLANET_KILLER_NANITE: "准备用纳米粒子清洗$PLANET|Y$"
-MESSAGE_DESC_FOR_ORIGIN_PLANET_KILLER_NANITE: "被纳米粒子清除"
-is_nanited: "§R$TRIGGER_FAIL$目标已经是纳米星球"
-
 tech_lightmatter_afterburners: "ω加力燃烧器"
 tech_lightmatter_afterburners_desc: "在这种情况下，仅靠推进器还不足以使飞船快速前进。欧米茄加力燃烧器可以用来驱动船靠近，这样你就可以用你的剑攻击他们!霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海…"
 
@@ -306,9 +294,6 @@ tech_lightmatter_shield_desc: "这种基于光物质的护盾甚至比星状护�
 tech_lightmatter_shield_supercharger: "光物质超级屏障"
 tech_lightmatter_shield_supercharger_desc: "超级强化的护盾使船只的护盾发生器的强度几乎是上一代的两倍。"
 
-tech_planet_killer_naniter: "纳米焦炭"
-tech_planet_killer_naniter_desc: "用模因包围这个星球，把它变成模因池。"
-
 tech_lightmatter_thruster: "光物质推进器"
 tech_lightmatter_thruster_desc: "非常强大的推进器，利用光物质的力量以难以形容的速度前进。"
 
@@ -327,5 +312,33 @@ tech_computer_lightmatter_desc: "全矩阵作战分析仪是目前研制的最�
 tech_lightmatter_analyzer_ai: "全矩阵反生命方程数据库"
 tech_lightmatter_analyzer_ai_desc: "这个数据库包含所有关于所有祖先时代设计的所有弱点、缺陷和可利用机制的全部详细信息，可以上传到所有舰艇的武器系统。"
 
-building_light_foundry: "光之铸造厂"
-building_light_foundry_desc: "OPAF."
+ACOT_MASS_DRIVER_SUPER: "§Y和平炮§!"
+ACOT_MASS_DRIVER_SUPER_DESC: "§Y集中你的愤怒和热情，把它们表现成勇敢的碎片，它们将穿透任何阻挡带来最终和平的盾牌。§!"
+
+ACOT_ARTILLERY_SUPER: "§Y利维坦猎人§!"
+ACOT_ARTILLERY_SUPER_DESC: "§Y旧星系有许多威胁，为了使它成为一个更好的地方，守护者必须保持警惕。抛开怜悯的幻想，结束这些生物的痛苦，为了银河系的美好。§!"
+
+ACOT_LASER_SUPER: "§Y神圣之眼§!"
+ACOT_LASER_SUPER_DESC: "§Y即使最小的光明也能驱散最大的黑暗。不要让任何东西阻挡拯救的道路!\n\nNi Nato Saun'thos!§! "
+
+ACOT_LANCE_SUPER: "§Y光辉之怒§!"
+ACOT_LANCE_SUPER_DESC: "§Y星汉灿烂!我们的力量正在崛起!见证我们的提升!让我们的敌人小心，天上守卫者的光芒将会闪耀!§!"
+
+ACOT_FIGHTERS_HANGAR_SUPER: "§Y艾娜之傲§!"
+ACOT_FIGHTERS_HANGAR_SUPER_DESC: "§Y天神守卫者必须精通所有的战斗。无论是陆地、空气、海洋还是太空。助教艾娜。传说中的守护者，用一个圣骑士的战斗技能摧毁了西迪厄斯帝国的巨像。§!"
+
+ACOT_MISSILE_SUPER: "§Y荣誉之刃§!"
+ACOT_MISSILE_SUPER_DESC: "§Y拿起你的武器。不要把它们当作工具，不要把它们当作设备，而是把它们当作你意志的延伸。把这些导弹变成刀片，把挡在你面前的一切都砍断。无人能挡!§!"
+
+ACOT_ARMOR_SUPER: "§Y圣盾§!"
+ACOT_ARMOR_SUPER_DESC: "§Y让你的思想远离所有的诱惑。让他们毫无意义的武器攻击你的船吧，因为他们没有目标和信念。那些注意力不集中的人，会在我们的防御面前动摇。§!"
+
+SMALL_ACOT_ARMOR_SUPER: "§Y圣盾§!"
+MEDIUM_ACOT_ARMOR_SUPER: "§Y圣盾§!"
+LARGE_ACOT_ARMOR_SUPER: "§Y圣盾§!"
+
+ACOT_LANCE_OMEGA: "§Y忿怒§!"
+ACOT_LANCE_OMEGA_DESC: "§Y在古代，在三头同盟的佃户还没有被记录下来之前，掌握帝国意志的是愤怒的拉莎塔斯的力量。这种统治制度也许已经不复存在，但他们与古人的光荣和斗争的故事将永远流传下去。§!"
+
+ACOT_PERDITION_BEAM_OMEGA: "§Y艾莉亚之光§!"
+ACOT_PERDITION_BEAM_OMEGA_DESC: "§Y虽然艾莉亚的温暖已不复存在，但我们仍然尊重它的重要性。因为是艾莉亚——第一颗给我们带来希望的星星。\n\n我们怀着更大的目标继续前进。让我们的敌人小心点，因为他们要面对艾莉亚的儿女!§!"

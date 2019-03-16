@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+l_simp_chinese:
 
 ORIGIN_ESCORT_KEY: "欧米伽级护航舰中心"
 ORIGIN_ESCORT_MID_KEY: "欧米伽级护航舰水晶塔A"
@@ -37,8 +38,23 @@ aryan: "阿拉达尔"
 NAME_ORIGINAL: "始源"
 NAME_ORIGINAL_PLURAL: "始源"
 ORIGINAL: "先祖"
+original_empire_ruler: "无政府主义者"
 original_empire_general: "霸主"
 original_empire_admiral: "总督"
+original_empire_scientist: "冥想者"
+original_empire_governor: "执行者"
+
+original_empire_passive_ruler: "无政府主义者"
+original_empire_passive_general: "无政府主义者"
+original_empire_passive_admiral: "总督"
+original_empire_passive_scientist: "冥想者"
+original_empire_passive_governor: "执行者"
+
+original_empire_active_ruler: "无政府主义者"
+original_empire_active_general: "无政府主义者"
+original_empire_active_admiral: "总督"
+original_empire_active_scientist: "冥想者"
+original_empire_active_governor: "执行者"
 
 origin_assault_guardian: "天界勇士"
 origin_assault_guardian_desc: "作为曾经始源帝国母星的守护者，这些新一代的神圣存在如今将通过消灭带来救赎，忠诚地为新秩序而服务。"
@@ -51,6 +67,8 @@ origin_citadel: "神圣堡垒"
 origin_citadel_plural: "神圣堡垒"
 origin_super_citadel: "黄金王座"
 origin_super_citadel_plural: "黄金王座"
+origin_super_citadel_playable: "金色王座"
+origin_super_citadel_playable_plural: "金色王座"
 
 building_crystal_arch: "水晶高塔"
 building_crystal_arch_desc: "光弯曲并显现为我们想要的形状。所有的物质、所有我们已知的创造物都能通过意志之力塑造成型。这股力量驱使着我们的帝国通过无尽斗争的考验。"
@@ -212,15 +230,6 @@ leader_trait_ruler_bionic_implant_desc: "这个统治者由全矩阵人工智能
 leader_trait_ruler_master_mind: "完美心灵"
 leader_trait_ruler_master_mind_desc: "这个统治者拥有完美灵能，能够使用这股力量团结一致、目标明确地指挥和征服整个帝国。"
 
-tb_origin_infestation: "侵扰"
-tb_origin_infestation_desc: "这个地区似乎受到一些未知生物的严重侵扰。清理这一地区将需要巨额投资。"
-
-tb_origin_quarantine_zone: "隔离区"
-tb_origin_quarantine_zone_desc: "这片区域似乎是为了隔离开栖息地的危机而建造的。该地区现在已经被废弃。"
-
-pop_origin_defiant: "挑衅"
-pop_origin_defiant_desc: "始源人仍然违抗我们的规则。除非我们说服他们尽快改变他们的做法，否则我们可能不得不采取极端措施。"
-
 personality_original_empire_personality: "渴望复仇的古人"
 personality_original_empire_personality_desc: "这个古老的帝国想要对堕落的帝国进行复仇，但是它想对银河系的其他部分做什么还不清楚。"
 
@@ -231,10 +240,6 @@ personality_original_empire_ascended_personality: "始源先驱者"
 personality_original_empire_ascended_personality_desc: "始源先驱者在银河中仍是一股强大的活动的势力，不能轻视他们。"
 
 shipsize_colossus_hull_add: "巨像船体添加"
-
-ORIGIN_PLANET_KILLER_NANITE: "纳米清洗"
-ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洗是始源帝国的可怕武器，可以快速用纳米武器改造并清洗整个星球。"
-ORIGIN_PLANET_KILLER_NANITE_ACTION: "纳米清洗"
 
 not_in_crisis: "§R只有在银河系规模的威胁下才能使用银河防御协议。§!"
 edict_origin_final_armada: "§M银河防卫协议 :§! 终极舰队"
@@ -344,6 +349,18 @@ mod_shipsize_fe_small_station_hull_add: "先驱者哨站舰体值"
 mod_shipsize_fe_large_station_hull_add: "先驱者塔舰体值"
 mod_shipsize_sofe_gatekeeper_warden_hull_add: "守护者舰体值"
 
+progenitor_escort: "守护神"
+progenitor_escort_plural: "守护神"
+
+progenitor_battlecruiser: "Progenitor Stellarcraft"
+progenitor_battlecruiser_plural: "Progenitor Stellarcraft"
+
+progenitor_titan: "Progenitor Abrogator"
+progenitor_titan_plural: "Progenitor Abrogators"
+
+progenitor_avatar: "Progenitor Avatar"
+progenitor_avatar_plural: "Progenitor Avatars"
+
 
 sofe_outer_gate: "外星门"
 sofe_outer_gate_DESC: "这个巨大的通道通过太阳能辐射，似乎通向了传统方式无法到达的太空。"
@@ -414,7 +431,7 @@ gatekeeper_control_node: "守护者电源导管"
 OUTERGATE_GALACTIC: "星门"
 OUTERGATE_GALACTIC_DESC: "该星系包含有一个§E$OUTERGATE_GALACTIC$§!"
 
-sofe_mem_planet_shield_full: "星状沥青煤能源封印"
+sofe_mem_planet_shield_full: "星状能源封印"
 sofe_mem_planet_shield_partial: "暗能量封印"
 
 sofe_outergate_weaken_shield: "衰弱的护盾"
@@ -436,17 +453,24 @@ sofe_cb_keystone_claim: "楔石采集"
 sofe_cb_keystone_claim_desc: "你的现在是我的，我的，还是我的，是我的，是我的，是我的，不是你的。"
 
 casus_belli_sofe_cb_keystone_claim: "楔石采集"
+casus_belli_cb_oe_punishment: "比武审判"
+
+sofe_wg_oe_humiliation: "比武审判"
+sofe_wg_oe_humiliation_desc: "这是对力量的考验。为帝国的荣耀而战!"
+
+war_goal_sofe_wg_oe_humiliation: "比武审判"
+war_goal_sofe_wg_oe_humiliation_desc: "宣战是为了考验双方的力量。仅此而已。只是玩玩而已。"
 
 sofe_wg_steal_keystone: "盗雨"
-sofe_wg_steal_keystone_desc: "今天我们是来偷敌人的。"
+sofe_wg_steal_keystone_desc: "今天我们来这里是为了偷取敌人。"
 
 war_goal_sofe_wg_steal_keystone: "盗雨"
-war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得征服权和星际之权应该是我们的楔石。"
+war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得楔石，通过征服的权利和星之星的权利，应该是我们的。"
 
-OUTER_GATE_FABRICATE_SEAL: "制作楔石"
-OUTER_GATE_FABRICATE_SEAL_DESC: "我们现在可以建立一个新的楔石，技术就在那里。"
+OUTER_GATE_FABRICATE_SEAL: "捏造的楔石"
+OUTER_GATE_FABRICATE_SEAL_DESC: "我们现在可以建立一个新的基石，技术就在那里。"
 
-wg_steal_keystone_accept: "§Y[From.GetName]§! 被整了, 减少他们的 §Y$country_base_influence_produces_mult$§! (即使他们似乎从来没有利用他们的影响力做任何事，愚蠢的老头) 他们的人口在 §Y10§! 年内将成为整个银河系的笑柄. 他们还必须放弃他们的 §E楔石§! 给 §Y[Root.GetName]§!\n$wg_revoke_claims_accept$"
+war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得楔石，通过征服的权利和星之星的权利，应该是我们的。"
 
 OUTER_GATE_SECOND_SEAL: "打破第二个封印"
 OUTER_GATE_SECOND_SEAL_DESC: "当我们把楔石基座移近外星门时，它开始像预期的那样反应。我们必须保持连接直到充能完毕为止。"
@@ -462,6 +486,9 @@ pc_golden_world_desc: "一个巨大的世界，以某种方式能够维持所有
 
 pc_golden_world_habitable: "金色世界"
 pc_golden_world_habitable_desc: "一个泰坦大小的世界，在某种程度上能够在不需要恒星的情况下维持所有形式的生命。"
+
+pc_goodman_gaia_world: "欧米茄盖亚世界"
+pc_goodman_gaia_world_desc: "盖亚世界的完美版本。大气中充满了轻物质，这使得轰击变得困难。"
 
 pc_omega_ringworld_habitable: "欧米伽环世界"
 pc_omega_ringworld_habitable_desc: "欧米伽环世界作为始源帝国伟大的人工系统的可居住部分。"
@@ -569,5 +596,99 @@ is_a_golden_world: "§R$TRIGGER_FAIL$不应该这样被摧毁。§!"
 ACOT_PLANET_KILLER_NANITE: "巨石柱"
 ACOT_PLANET_KILLER_NANITE_DESC: "先祖的一种古代武器，用来将行星储存在一个记忆球中。这将允许这颗行星和它的居住者继续生活，同时将这颗行星完全从星系中移除。一个可怕的武器在错误的手中。"
 
+BASE_STELLARITE_COMBAT_COMPUTER: "恒星原型-矩阵计算机"
+BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不起眼的开始。"
 
+BASE_STELLARITE_THRUSTER: "原型推进器"
+BASE_STELLARITE_THRUSTER_DESC: "驱动我们飞船的第一个引擎。"
 
+BASE_STELLARITE_REACTOR: "星状反应堆原型"
+BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面."
+
+PROGENITOR_ASSAULT_ESCORT_KEY: "Hunter Codex"
+PROGENITOR_ASSAULT_ESCORT_MID_KEY: "Escort Codex"
+PROGENITOR_ASSAULT_ESCORT_STERN_KEY: "PDS Codex"
+
+PROGENITOR_BATTLECRUISER_BOW_KEY: "Operator Pedestal"
+PROGENITOR_BATTLECRUISER_KEY: "Music Pedestal"
+PROGENITOR_BATTLECRUISER_STERN_KEY: "Keyboard Pedestal"
+
+PROGENITOR_TITAN_BOW_KEY: "Crafter Codex"
+PROGENITOR_TITAN_KEY: "Abrogator Codex"
+PROGENITOR_TITAN_HANGAR: "Titan Codex"
+PROGENITOR_TITAN_STERN: "Starlifter Codex"
+
+PROGENITOR_AVATAR_BOW_KEY: "Operator Stadium"
+PROGENITOR_AVATAR_KEY: "Music Stadium"
+PROGENITOR_AVATAR_HANGAR: "Chorus Stadium"
+PROGENITOR_AVATAR_STERN: "Keyboard Stadium"
+
+tech_progenitor_escort: "先祖护航舰"
+tech_progenitor_escort_desc: "Soup Can"
+
+tech_progenitor_battlecruiser: "先祖军舰"
+tech_progenitor_battlecruiser_desc: "Not a BC"
+
+tech_progenitor_titan: "先祖奥格特"
+tech_progenitor_titan_desc: "完全没有采矿站与施工船混合"
+
+tech_progenitor_avatar: "先祖化身"
+tech_progenitor_avatar_desc: "不是电影。Na'vi就像这个版本中的异种一样被彻底消灭了。"
+
+sm_sofe_omega_shipyard: "光之锻炉"
+sm_sofe_omega_shipyard_desc: "我们将夺回我们的命运。明星的到来。"
+
+sm_sofe_gun_battery: "光矩阵塔"
+sm_sofe_gun_battery_desc: "有时需要额外的防御。敌人不能攻破我们的防线"
+
+sm_sofe_pd_battery: "哨兵模块"
+sm_sofe_pd_battery_desc: "即使是最强大的空间站也可能落入最小的船只。我们将确保我们的领域永远不会受到挑战。"
+
+sm_sofe_module_lm_generator: "极光四射"
+sm_sofe_module_lm_generator_desc: "即使我们失去我们的家园，我们的星球，我们的家庭。我们总会找到办法的。无论我们身在何处，阳光都照耀着我们。"
+
+sm_sofe_module_defense_matrix: "防御矩阵"
+sm_sofe_module_defense_matrix_desc: "让黑暗成为一部分。"
+
+job_sofe_oceanmaster: "海洋专家"
+job_sofe_oceanmaster_plural: "海洋专家"
+job_sofe_oceanmaster_desc: "从海洋深处，在这个星球的金色宝座里躺着海洋之王。对他们来说，空间本身就是无尽的问题海洋，等待着好奇的头脑来回答。"
+mod_job_sofe_oceanmaster_add: "$job_sofe_oceanmaster$"
+
+job_sofe_protector: "百夫长"
+job_sofe_protector_plural: "百夫长"
+job_sofe_protector_desc: "百夫长是抵御入侵者的第一道防线。每个军团由10个营组成，每个营有10个百夫长。永远不会多，永远不会少。\n\n他们装备着强大的光能武器和盔甲，飞上天空，用雨水摧毁所有入侵者。"
+mod_sofe_protector_add: "$job_sofe_protector$"
+
+job_sofe_celestial_force: "天尊"
+job_sofe_celestial_force_plural: "天尊"
+job_sofe_celestial_force_desc: "在正式成为正式的守护者之前，天尊必须掌握所有形式的战斗和战斗策略。天尊之间激烈的斗殴经常发生，双方的战斗人员都不会表现出怜悯之心，直到死亡总数达到为止，决斗才会结束。胜利者进入下一课，失败者被治愈并重新注入新的身体。\n\n在战争时期，天尊会形成一道防线，冲锋在天神守护者的前面，为他们的名字赢得荣耀和歌声。"
+mod_sofe_celestial_force_add: "$job_sofe_celestial_force$"
+
+job_sofe_meditator: "冥想者"
+job_sofe_meditator_plural: "冥想者"
+job_sofe_meditator_desc: "冥想者比思考者有更高的目标。这些聪明的命运建筑师不去思考伟大的问题，而是去思考当下。轻物质可能是他们目前拥有的最强大的武器，但还可以做进一步的改进。只有破烂不堪的帝国才会停滞不前。"
+mod_sofe_meditator_add: "$job_sofe_meditator$"
+
+job_sofe_thinkers: "思想家"
+job_sofe_thinkers_plural: "思想家"
+job_sofe_thinkers_desc: "当没有被指定任何特定的目的，这些普通人花他们的时间关心别人的需要，通过思考所有的必需品的存在。然而，他们最重要的角色，是冥想，无论是在海洋深处、山巅、恒星的核心，还是只有一个目标而无法理解的地方;来回答这个伟大的问题。"
+mod_sofe_thinkers_add: "$job_sofe_thinkers$"
+
+job_sofe_lightsmith: "铸光匠"
+job_sofe_lightsmith_plural: "铸光匠"
+job_sofe_lightsmith_desc: "铸光匠将光物质编织和锻造成战争武器或有目的的工具。任何他们能想到并知道如何去做的事情，都将通过他们的意志显现出来。\n\n简单地说，他们可以通过纯粹的意志力创造任何东西，只要他们知道这些东西的内部工作原理和本质是如何构成的。"
+mod_sofe_lightsmith_add: "$job_sofe_lightsmith$"
+
+job_sofe_dreamwalker: "梦想编织者"
+job_sofe_dreamwalker_plural: "梦想编织者"
+job_sofe_dreamwalker_desc: "所有的先祖都是通过光而统一的。但是为了确保统一是力量的源泉而不是弱点，梦想编织者在物质王国和光之间旅行，确保命运和希望的交响乐总是为了他们的统一而排列在一起。先祖们的歌声将会持续上亿万年。无论花费多少。"
+mod_sofe_dreamwalker_add: "$job_sofe_dreamwalker$"
+
+job_sofe_lifebinder: "生命之索"
+job_sofe_lifebinder_plural: "生命之索"
+job_sofe_lifebinder_desc: "每一个先祖的存在都是由两种合成构成的;活的自我和合成的自我。生命绑定者拥有神秘的知识来将生命编织进包含自我意识的生物合成体中。\n\n一变成二，二变成一。自我和全矩阵的角色被创造。然后知识被传递，新的生活…新的生命诞生了。\n\n此外，生命绑定者负责编织他们灵魂的一部分来创造不那么先进的建筑，比如守卫、看门人、猎人、工匠和看门人。"
+mod_sofe_lifebinder_add: "$job_sofe_lifebinder$"
+
+ACOT_AURA_SHITTY_SE: "秃顶，有一种时髦的气质"
+ACOT_AURA_SHITTY_SE_DESC: "一个暂时的光环意味着秃顶和f00lish帝国谁试图产生设计的船舶，他们无法建立。文字无法表达这个名为Chirumiru ShiRoz的实体现在有多疯狂，他捣毁键盘，制造出这个愚蠢的、完全多余的光环，因为可怕的人工智能一直在生成错误日志，因为它想设计一艘它甚至不知道如何建造的飞船。\n\n200%疯了。"

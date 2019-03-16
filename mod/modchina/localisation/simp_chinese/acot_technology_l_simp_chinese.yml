@@ -220,7 +220,7 @@ tech_commissar_lord: "政委加冠"
 tech_commissar_lord_desc: "即使在政委队伍中，也有一些人表现出非凡的勇气和灵感。有一些政委的故事，他们能够激励奴隶士兵停止面对面坦克直接动动炮弹射击。这样的献身精神和技能必须得到奖励，政委头衔的第一个加冠应该立即完成。"
 
 tech_dark_psion: "第二件礼物"
-tech_dark_psion_desc: "我们收到了一个有趣的消息，最近有报道说裹尸布已经选择了另一个人，从我们黑暗的门徒的队伍中作为另一个化身。虽然没有原来选择的强大，但它具有更大的破坏力。我们应该立即把这个人找出来。"
+tech_dark_psion_desc: "我们收到了一个有趣的消息，最近有报道说虚境已经选择了另一个人，从我们黑暗的门徒的队伍中作为另一个化身。虽然没有原来选择的强大，但它具有更大的破坏力。我们应该立即把这个人找出来。"
 
 tech_liberty_gunship: "空域优势"
 tech_liberty_gunship_desc: "武装直升机的概念对我们来说并不陌生。自从我们进入太空之前，我们控制了我们家园的天空，摧毁了那些不接受我们武装直升机的民主国家。我们现在可以再次使用任何新的技术来获取行星。很快，我们将从天上的天空降下自由和自由。"
@@ -353,7 +353,7 @@ comlord_limit_tooltip: "只有少数几个政委当权的政委，到目前为�
 fe_hero_psion: "黑暗心灵术士"
 fe_hero_psion_desc: "庇护所最有天赋的弟子，暗冥的物理能力仅低于被选中的那个。黑暗心灵术士能够释放毁灭性的灵能风暴，在任何手握灵能生物的战场上，对战场造成破坏和破坏。"
 
-psion_limit_tooltip: "到目前为止，裹尸布只赋予了如此强大的力量，只有一个黑暗心灵术士，我们还没有发现另一个拥有类似的灵能。"
+psion_limit_tooltip: "到目前为止，虚境只赋予了如此强大的力量，只有一个黑暗心灵术士，我们还没有发现另一个拥有类似的灵能。"
 
 fe_hercules_tank: "大力神重型战斗坦克"
 fe_hercules_tank_desc: "这些巨大的庞然大物可以利用战场上的双聚焦电弧发射器、多个导弹吊舱、自动驾驶舱或者在他们巨大的步履下简单地通过它们来摧毁战场。让我们看看那些愚蠢的唯心主义者会如何对抗我们的力量呢？"
@@ -1281,6 +1281,11 @@ job_acot_giga_fortress_operator_plural: "千兆炮台炮手"
 job_acot_giga_fortress_operator_desc: "这些炮手接受过操作和校准千兆堡垒大型火炮的训练。我们的仇敌要谨慎，因为他们不惧怕。每一门加农炮提供相当于20人的防御力量。"
 mod_job_acot_giga_fortress_operator_add: "$job_acot_giga_fortress_operator$"
 
+job_acot_giga_fortress_operator_ancient: "千兆炮炮手"
+job_acot_giga_fortress_operator_ancient_plural: "千兆炮炮手"
+job_acot_giga_fortress_operator_ancient_desc: "这些炮手被训练来操作和校准千兆炮。我们的仇敌当谨慎，因为他们不惧怕。每门大炮提供相当于20名防御部队。"
+mod_job_acot_giga_fortress_operator_ancient_add: "$job_acot_giga_fortress_operator$"
+
 job_acot_researcher: "档案管理员"
 job_acot_researcher_plural: "档案管理员"
 job_acot_researcher_desc: "档案管理员负责研究古代知识。他们对科学的贡献是首屈一指的。"
@@ -1376,3 +1381,24 @@ BASE_DM_REACTOR_DESC: "第一代暗物质反应堆，能够为先驱者飞船提
 
 BASE_DM_THRUSTER: "暗物质推进器"
 BASE_DM_THRUSTER_DESC: "第一代暗物质推进器，能够移动先驱者飞行器。"
+
+ACOT_PSI_STORM: "虚境风暴"
+ACOT_PSI_STORM_DESC: "我们将敌人的仇恨转化为一场非常非常强大的死亡风暴。力量!无限的力量!!!"
+
+ACOT_CLOUDBALL_SHROUD: "灵能束缚"
+ACOT_CLOUDBALL_SHROUD_DESC: "受我们意志支配的一小片灵能云。它将震动和鞭笞敌人的形状。"
+
+ACOT_MISSILE_SHROUD_XL: "灵能蜂群"
+ACOT_MISSILE_SHROUD_XL_DESC: "有了我们对灵能的精通，我们现在可以强迫较弱的虚境实体把它的力量借给我们的意志。但是因为它是一个xl插槽，我们可以一次扔六个，很棒，对吧?"
+
+ACOT_MISSILE_SHROUD: "虚境螺栓"
+ACOT_MISSILE_SHROUD_DESC: "有了我们对灵能的精通，我们现在可以强迫较弱的虚境实体把它的力量借给我们的意志。"
+
+tech_shroud_missile: "约束意志"
+tech_shroud_missile_desc: "我们已经开始掌握我们真正的心灵力量，我们正在快速学习如何支配较小的虚境实体。我们可以用它们的力量制造出完全由破坏性意志制成的强大的灵能闪电。"
+
+tech_shroud_hanger: "死亡之球"
+tech_shroud_hanger_desc: "强者统治弱者是天性。尽管我们还不了解虚境的真正性质，但我们对它的居民已经有了足够的了解。以我们目前的力量，我们应该能够支配虚空中一些较弱的存有，并让他们为我们的事业服务。"
+
+tech_shroud_storm: "毁灭之风"
+tech_shroud_storm_desc: "主命令，虚境必须响应召唤。敌人会被我们强大的力量消灭。"
