@@ -72,13 +72,13 @@ vfs.src(
 
     const filepathTranslated = path.join(
       dirTranlated, 'localisation', relativeDirPathFromLocalisation, basenameChinese
-    );
+    ).replace(/english\//gi, 'simp_chinese/');
 
-    const filepathScopedTranslated = path.join(
-      dirTranlated, 'localisation/simp_chinese', basenameChinese
-    );
+    // const filepathScopedTranslated = filepathTranslated
+      
+    // console.log('filepathTranslated', filepathTranslated);
 
-    const isScopedExists = await fs.exists(filepathScopedTranslated);
+    // const isScopedExists = await fs.exists(filepathScopedTranslated);
 
     const isExists = await fs.exists(filepathTranslated);
 
@@ -94,10 +94,10 @@ vfs.src(
 
     let keyMap = {};
 
-    if (isScopedExists) {
-      const content = await fs.readFile(filepathScopedTranslated);
-      keyMap = syParseAsObject(content);
-    }
+    // if (isScopedExists) {
+    //   const content = await fs.readFile(filepathScopedTranslated);
+    //   keyMap = syParseAsObject(content);
+    // }
 
     if (isExists) {
       const content = await fs.readFile(filepathTranslated);
@@ -113,7 +113,7 @@ vfs.src(
     
     file.contents = Buffer.from(newContent);
 
-    if (!isScopedExists && !isExists) {
+    if (!isExists) {
       // 如果是新文件，则直接重命名复制
       log(
         chalk.green.bold('new'), 
