@@ -533,7 +533,7 @@ colonyexpanded.131.desc:0 "从 §H[From.From.GetName]§！的废墟中恢复数�
 ## colonyexpanded.131.desc -> After recovering a data library from the ruins of §H[From.From.GetName]§!, Science Officer [Root.GetLeaderName] has made a remarkable discovery. The crystal structures, originally thought to be inert minerals, are in fact the remains of the planet's original inhabitants. These silicate lifeforms dominated this section of the galaxy unopposed hundreds of millions of years ago, operating under a strict caste system based on gem type. The most recent records available show their civilization in collapse from rebellion and civil war.\n\nThese revelations have raised conserns about potential mining operations on §H[From.From.GetName]§!. While rare crystals are immensely valuable, these crystals are the remains of a unique lifeform, and some feel that their corpses should be respected. ##
 colonyexpanded.131.a:0 "应该进一步研究这个世界。"
 ## colonyexpanded.131.a -> This world should be studied further. ##
-colonyexpanded.131.b:0 "稀有的水晶!? 别废话了，马上开采。"
+colonyexpanded.131.b:0 "稀有的水晶！别废话了，应该马上开采。"
 ## colonyexpanded.131.b -> Rare crystals are too valuable to be left unmined. ##
 
 
