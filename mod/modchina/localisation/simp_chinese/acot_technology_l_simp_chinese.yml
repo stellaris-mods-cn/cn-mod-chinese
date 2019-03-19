@@ -2,105 +2,50 @@
 
 ### SHIP TEXTS
 
-SMALL_SHIP_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (蜂群)"
-SMALL_SHIP_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-SMALL_SHIP_COMBAT_COMPUTER_2:0 "护航舰仿生接口战斗计算机 (哨戒)"
-SMALL_SHIP_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-SMALL_SHIP_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (线列)"
-SMALL_SHIP_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-SMALL_SHIP_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (炮兵)" 
-SMALL_SHIP_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-LARGE_SHIP_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (哨戒)"
-LARGE_SHIP_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-LARGE_SHIP_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (线列)"
-LARGE_SHIP_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-LARGE_SHIP_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (炮兵)"
-LARGE_SHIP_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-LARGE_SHIP_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (狙击)"
-LARGE_SHIP_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-TITAN_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
-TITAN_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-TITAN_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
-TITAN_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-TITAN_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
-TITAN_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-TITAN_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)"
-TITAN_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-GOLIATH_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
-GOLIATH_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-GOLIATH_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
-GOLIATH_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-GOLIATH_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
-GOLIATH_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-GOLIATH_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)" 
-GOLIATH_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-TOWER_COMBAT_COMPUTER:0 "仿生接口战斗计算机 (空间站)" 
-TOWER_COMBAT_COMPUTER_DESC:0 "这种先进的防御系统利用独特的战斗计算机，与该站的炮手形成仿生链接。 它旨在以无情的效率消灭来自银河系的所有威胁。"
+ACOT_LR_BEHAVIOR_DESC: "§H重型火炮:§! 这艘船将会远离其他的船去压制目标的雨火。 (§Y120§!)."
+ACOT_MAX_RANGE_BEHAVIOR_DESC: "§H后防线支持:§! 该船将保持最远的距离，在其他船只后面掩护，并支持他们的远程武器。(§Y100§!)."
 
-FE_ESCORT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
-FE_BATTLECRUISER_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_BATTLECRUISER_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
-FE_TITAN_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_TITAN_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的飞船提供动力。这艘飞船是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
-FE_GOLIATH_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_GOLIATH_DARK_MATTER_REACTOR_DESC:0 "歌利亚级母舰拥有数以千计的硬件、设备和武器系统。为它们提供能量需要大量的能量，而这种能量只有以暗物质为基础的反应堆才能提供。"
-FE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗空间站提供能量。该空间站是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
-FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗空间站提供能量。该空间站是专门设计来绘制和维持暗物质能量平衡，释放反应堆的最大潜力。"
+FE_ESCORT_SHIP_THRUSTER_2: "改进型暗物质推进器"
+FE_ESCORT_SHIP_THRUSTER_2_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+
+FE_BATTLECRUISER_SHIP_THRUSTER_2: "改进型暗物质推进器"
+FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+
+FE_TITAN_SHIP_THRUSTER_2: "改进型暗物质推进器"
+FE_TITAN_SHIP_THRUSTER_2_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
  
-FE_ESCORT_SHIP_THRUSTER:0 "暗物质推进器"
-FE_ESCORT_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
-FE_BATTLECRUISER_SHIP_THRUSTER:0 "暗物质推进器"
-FE_BATTLECRUISER_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
-FE_TITAN_SHIP_THRUSTER:0 "暗物质推进器"
-FE_TITAN_SHIP_THRUSTER_DESC:0 "这艘先进的飞船被设计用来充分利用暗物质的力量。因此，这些推进器比我们帝国以前使用的普通飞船更有效。"
-FE_GOLIATH_SHIP_THRUSTER:0 "暗物质推进器"
-FE_GOLIATH_SHIP_THRUSTER_DESC:0 "要让可怕的巨人歌利亚行动起来，就需要重写物理定律本身，而只有这种由暗物质驱动的推进器才能做到这一点。"
+FE_GOLIATH_SHIP_THRUSTER_2: "改进型暗物质推进器"
+FE_GOLIATH_SHIP_THRUSTER_2_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
  
-FE_ESCORT_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
-FE_ESCORT_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+FE_SENSOR_SHIP: "神秘传感器"
+FE_SENSOR_SHIP_DESC: "这种非常先进的传感器设备通过研究散布在空间周围的暗物质层的突然移动来检测来自几个系统的舰船运动。传感器，实时报告所有的移动活动以运送武器，并计算所有可能的敌人移动。"
 
-FE_BATTLECRUISER_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
-FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+FE_COMBAT_COMPUTER_DEFAULT: "虽然我们的先进飞船可能是致命的，但如果我们不在上面安装一个合适的战斗计算机，它就不能正常工作"
+FE_SHIP_THRUSTER: "虽然从理论上讲，我们的先进舰船甚至不需要任何推进器就可以摧毁原始飞船，但这仍然是一个不明智的策略"
+FE_REACTOR: "我们不会在船上安装反应堆的唯一原因是如果我们打算把反应堆交给那些违抗我们命令的原始人"
 
-FE_TITAN_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
-FE_TITAN_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+ENIGMATIC_DRIVE: "神秘跃迁引擎"
+ENIGMATIC_DRIVE_DESC: "这个神秘跃迁引擎使用暗物质撕开一个微型虫洞，让舰船比传统的跃迁引擎跳得更远。"
  
-FE_GOLIATH_SHIP_THRUSTER_2:0 "改进型暗物质推进器"
-FE_GOLIATH_SHIP_THRUSTER_2_DESC:0 "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。一艘文明科技，换一艘更文明的船。"
+HYPER_JUMP_DRIVE: "超级翘曲引擎"
+HYPER_JUMP_DRIVE_DESC: "与其他跃迁引擎平衡跳跃能力与快速超光速充电相反，超荷超跃迁跃迁被优化为最大的跳跃距离。因此，跃迁在执行基本的超光速旅行时要慢得多。"
  
-FE_SENSOR_SHIP:0 "神秘传感器"
-FE_SENSOR_SHIP_DESC:0 "这种非常先进的传感器设备通过研究散布在空间周围的暗物质层的突然移动来检测来自几个系统的舰船运动。传感器，实时报告所有的移动活动以运送武器，并计算所有可能的敌人移动。"
-
-
-FE_COMBAT_COMPUTER_DEFAULT:0 "虽然我们的先进飞船可能是致命的，但如果我们不在上面安装一个合适的战斗计算机，它就不能正常工作"
-FE_SHIP_THRUSTER:0 "虽然从理论上讲，我们的先进舰船甚至不需要任何推进器就可以摧毁原始飞船，但这仍然是一个不明智的策略"
-FE_REACTOR:0 "我们不会在船上安装反应堆的唯一原因是如果我们打算把反应堆交给那些违抗我们命令的原始人"
-
-ENIGMATIC_DRIVE:0 "神秘跃迁引擎"
-ENIGMATIC_DRIVE_DESC:0 "这个神秘跃迁引擎使用暗物质撕开一个微型虫洞，让舰船比传统的跃迁引擎跳得更远。"
+SHROUD_DRIVE: "虚境跃迁引擎"
+SHROUD_DRIVE_DESC: "这个神秘的神器在飞船和虚境实体之间形成了契约。该实体以增加能源和矿物为代价，授予我们的舰船极为强大的跳跃技术。船员的灵魂也与实体相连。"
  
-HYPER_JUMP_DRIVE:0 "超级翘曲引擎"
-HYPER_JUMP_DRIVE_DESC:0 "与其他跃迁引擎平衡跳跃能力与快速超光速充电相反，超荷超跃迁跃迁被优化为最大的跳跃距离。因此，跃迁在执行基本的超光速旅行时要慢得多。"
- 
-SHROUD_DRIVE:0 "虚境跃迁引擎"
-SHROUD_DRIVE_DESC:0 "这个神秘的神器在飞船和虚境实体之间形成了契约。该实体以增加能源和矿物为代价，授予我们的舰船极为强大的跳跃技术。船员的灵魂也与实体相连。"
- 
-WEAPON_EXPLOSIVE_CORE:0 "暗物质导弹预点火器"
-WEAPON_EXPLOSIVE_CORE_DESC:0 "利用暗物质燃料和点燃我们的制导导弹系统可以增加导弹的冲击力和射速。"
+WEAPON_EXPLOSIVE_CORE: "暗物质导弹预点火器"
+WEAPON_EXPLOSIVE_CORE_DESC: "利用暗物质燃料和点燃我们的制导导弹系统可以增加导弹的冲击力和射速。"
 
-WEAPON_KINETIC_CORE:0 "硬光动能载荷"
-WEAPON_KINETIC_CORE_DESC:0 "这是一个复杂的微型工厂，能迅速生产出既坚固又快速的硬轻质军需品。"
+WEAPON_KINETIC_CORE: "硬光动能载荷"
+WEAPON_KINETIC_CORE_DESC: "这是一个复杂的微型工厂，能迅速生产出既坚固又快速的硬轻质军需品。"
 
-WEAPON_ENERGY_CORE:0 "能量反畸变真流形"
-WEAPON_ENERGY_CORE_DESC:0 "这个微型球体拥有强大的神秘能量，它可以通过弯曲时空和无视各种物理定律，直接改善飞船的能量武器系统。"
+WEAPON_ENERGY_CORE: "能量反畸变真流形"
+WEAPON_ENERGY_CORE_DESC: "这个微型球体拥有强大的神秘能量，它可以通过弯曲时空和无视各种物理定律，直接改善飞船的能量武器系统。"
 
-WEAPON_FIGHTER_CORE:0 "仿生接口上行链路"
-WEAPON_FIGHTER_CORE_DESC:0 "这一强大的仿生界面上行链路允许母舰无情地协调打击飞机，实时准确定位目标的所有潜在弱点。"
+WEAPON_FIGHTER_CORE: "仿生接口上行链路"
+WEAPON_FIGHTER_CORE_DESC: "这一强大的仿生界面上行链路允许母舰无情地协调打击飞机，实时准确定位目标的所有潜在弱点。"
  
-ENIGMATIC_JUMP_TECH_DESC:0 "早期的理论表明，新一代的跃迁引擎可以是对先驱者驱动器的直接改进，或创建一个独特的但非常小的跳跃驱动器优化非常大的跳跃距离。"
+ENIGMATIC_JUMP_TECH_DESC: "早期的理论表明，新一代的跃迁引擎可以是对先驱者驱动器的直接改进，或创建一个独特的但非常小的跳跃驱动器优化非常大的跳跃距离。"
 #### SHIP Tech ####
 
 tech_enigmatic_drive:0 "基于暗物质的超光速技术"
@@ -185,9 +130,6 @@ mod_shipsize_fe_goliath_build_cost_mult: "歌利亚建造成本"
 
 tech_dark_matter_army: "地面战斗暗物质的实现"
 tech_dark_matter_army_desc: "现在有可能利用暗物质为基础的技术，如反应堆和盾构偏转器，以最低限度的成本调整来彻底改变我们的入侵军队。如果我们想在地面作战上确立优势，就应该毫不拖延地进行这项研究。"
-
-tech_missile_infantry: "便携式中子发射器"
-tech_missile_infantry_desc: "几十年前，任何人都会嘲笑把中子发射器变成手持式武器的想法。但是有了这个新的暗物质技术，把这个梦想变成现实应该是一个简单的任务。"
 
 tech_elite_clone: "精英克隆军队计划"
 tech_elite_clone_desc: "我们的军事理论家们建议，我们可以通过招募著名的赏金猎人作为他们的模板和作战训练师来制造极其致命的克隆军队。我们只需要给它们一小部分暗物质作为回报。显然，我们操纵了这些反应堆，几年后它们就会爆炸。"
@@ -278,15 +220,9 @@ tech_synthtrooper_desc: "全能机器人是灵活的，能够进行复杂的运�
 
 ####Army Description ####
 
-conscript_army: "征兵"
-conscript_army_desc: "在危急时刻，必须采取严厉措施确保帝国的生存。征兵人员训练不好，装备不好，在任何时候都是低实战能力，但他们很便宜，很快就要入伍。然而，他们仍然是我们自己的人民，我们仍然会因他们的损失而饱受战争的煎熬。"
-
 fe_army: "高级突击军"
 fe_army_desc: "这些士兵装备了最新的基于暗物质的武器和盔甲，使他们远远优于他们的前辈，同时需要最少的维护成本调整。"
  
-fe_missile_army: "中子导弹步兵师"
-fe_missile_army_desc: "配备了破坏性中子发射器，这些拆除专家擅长进行迈克尔贝层性能。"
-
 fe_clone_army: "精英克隆军队"
 fe_clone_army_desc: "这些克隆是由著名赏金猎人的模板创建的，并通过他们的模板进行广泛的训练，成为最好的克隆军队。然而，它们最终还是可以消亡的。"
 
@@ -499,12 +435,15 @@ tech_championofxeno_modifier_desc:0 "每个人的意见  §你的意见§! 增�
 
 ### BOMBARDMENT TEXTS #####
 
-bombardment_punishment:0 "惩罚"
- bombardment_punishment_desc:2 "惩罚轰炸的目的是给原始人上一个严酷而痛苦的一课，让他们明白自己处境的严重性。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 会轰炸没有防御的行星，直到它被清理干净，如果需要。"
+bombardment_punishment: "惩罚"
+ bombardment_punishment_desc: "惩罚轰炸的目的是给原始人上一个严酷而痛苦的一课，让他们明白自己处境的严重性。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 会轰炸没有防御的行星，直到它被清理干净，如果需要。"
 
-bombardment_exterminatus:0 "灭绝令"
- bombardment_exterminatus_desc:2 "灭绝轰炸的目的是通过将全部力量用于所有武器，清除星球上所有文明的痕迹。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 会从表面上抹去生命的痕迹。"
+bombardment_exterminatus: "灭绝令"
+ bombardment_exterminatus_desc: "灭绝轰炸的目的是通过将全部力量用于所有武器，清除星球上所有文明的痕迹。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 会从表面上抹去生命的痕迹。"
  
+bombardment_final_destionation: "§Y净化§!"
+bombardment_final_destionation_desc: "§Y净化§!  旨在净化星球从亵渎和污染的性质，我们的敌人。\n- 对§Y军队§!造成§R致命§!伤害\n- 对§Y地块§!造成§R致命§!伤害\n- 对§Y人口§!造成§R致命§!伤害\n- 将在初始轰击结束时部署轻质弹。"
+
 ### FE CAPITAL PLACEMENT TEXTS #####
 fecapital.1.name:0 "黑色要塞"
 fecapital.1.desc:0 "我们已经完成了前体基础结构的建筑示意图研究。我们的工程师们非常渴望马上开始施工。他们要求允许我们用一座新的令人敬畏的黑色堡垒来替换我们的一座建筑。"
@@ -979,7 +918,7 @@ tech_plasma_dm: "暗物质等离子体炮"
 tech_plasma_dm_desc: "暗物质等离子体炮,顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
 
 tech_point_defense_ae: "代达罗斯点防御"
-tech_point_defense_ae_desc: "Look...Missiles!?? MISSILES???! Our enemies hide behind Missile Strikes!! §RTHE COWARDS! THE FOOLS!§!. We..we should take away...their missiles....\n\nMISSILE STRIKES!.......FROM THEM."
+tech_point_defense_ae_desc: "看导弹……!?? 导弹???! 我们的敌人躲在导弹袭击的后面!! §R懦夫!傻瓜!§!. 我们……我们应该把……他们的导弹....\n\n导弹袭击!.......从他们那里。"
 
 tech_point_defense_dm: "神秘点防御"
 tech_point_defense_dm_desc: "神秘点防御发射一束集中的纯暗能量来中和敌人的导弹。光束比旧的点防御更强，允许它有更高的有效距离。"

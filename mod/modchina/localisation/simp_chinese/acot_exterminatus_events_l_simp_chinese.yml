@@ -6,4 +6,15 @@ exterminatus_event.2.desc:0 "我们的敌人已经消灭了我们的一个殖民
 exterminatus_event.2.a: "这种暴行必须予以报复!"
 exterminatus_event.3.desc:0 "我们的海军上将已经通知我们，他们已经完成了他们的任务，§H[From.GetName]§!的消灭已经结束。这颗行星现在只是一个没有生命的熔核。"
 exterminatus_event.3.a:0 "让这成为他们的一课吧!"
-bombed_to_molten_world:0 "§Y[From.GetName]现在是一个燃烧的熔融星球。§!"
+bombed_to_molten_world: "§Y[From.GetName]现在是一个燃烧的熔融星球。§!"
+bombed_to_star: "§Y[From.GetName]会变成一颗燃烧的星星。§!"
+
+exterminatus_event.5.name: "[From.GetName]初步净化完成"
+exterminatus_event.5.desc: "我们的海军将领很高兴地报告，§H[From.GetName]§!净化的初级阶段已经完成。他们正在等待最后的弹头型号订单。我们该怎么办呢?”"
+exterminatus_event.5.a: "完美。把它变成一个ω盖亚星球!"
+exterminatus_event.5.b: "把它变成盖亚星球。我们正在为星系服务。"
+exterminatus_event.5.c: "唯一的救赎就是用火来净化!"
+exterminatus_event.5.d: "在我们荣耀的火焰中点燃它!被火净化!"
+
+exterminatus_event.6.desc: "我们的敌人已经在我们的一个殖民地上完成了净化的初级阶段。殖民地和我们人民在那里的一切痕迹都消失了。我们确实知道，但我们也知道他们之后打算对星球做什么。"
+exterminatus_event.6.a: "他们会为此付出代价的!"

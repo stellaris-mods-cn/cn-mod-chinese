@@ -69,9 +69,9 @@
  
  #Sleepers Awake
  mem_sleepers.50.name:0 "睡眠者醒来"
- mem_sleepers.50.desc:0 "我们是§YOzari§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。由此引发的战争把我们带到了灭绝的边缘，而我们的幸存者则在这个墓穴中寻求庇护。"
+ mem_sleepers.50.desc:0 "我们是§Y欧扎里人§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。由此引发的战争把我们带到了灭绝的边缘，而我们的幸存者则在这个墓穴中寻求庇护。"
  mem_sleepers.50.a:0 "你现在要做什么？"
- mem_sleepers.50.a.response:0 "该是§YOzari§!的时代了！来迎接被我们提升之人的后代。"
+ mem_sleepers.50.a.response:0 "该是§Y欧扎里人§!和我们提升的那些后辈们见面的时候了。"
  
  #Sleepers meet natives peacefully - player choice if integrating, protectorate or free empire
  mem_sleepers.51.name:0 "对恩人的回报"
@@ -86,7 +86,7 @@
  
  #Sleepers eradicate natives - player choice if integrating, protectorate or free empire
  mem_sleepers.101.name:0 "清算的日子"
- mem_sleepers.101.desc:0 "The §Y[mem_sleepers_natives.GetSpeciesNamePlural]§!也许曾经能够推动文明的发展，使他们接近灭绝，但他们不再拥有他们的祖先所拥有的力量。他们所拥有的技术是在时间上丢失的，没有他们的前主人的指导，他们被迫白手起家建立起自己的文明。在他们几乎不存在的技术上，他们与§YOzari§!是不相匹配的！使用武器储备，在几天内，滑翔机和无人驾驶飞机的攻击杀死了大部分的原住民，留下了被唤醒的§YOzari§!作为§Y[From.From.From.From.From.GetName]§!的唯一的主人。。。。。。。。。他们的领袖现在正为我们希望与我们的帝国讨论他们的关系而欢呼。"
+ mem_sleepers.101.desc:0 "§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!也许曾经能够推动文明的发展，使他们接近灭绝，但他们不再拥有他们的祖先所拥有的力量。他们所拥有的技术是在时间上丢失的，没有他们的前主人的指导，他们被迫白手起家建立起自己的文明。在他们几乎不存在的技术上，他们与§YOzari§!是不相匹配的！使用武器储备，在几天内，滑翔机和无人驾驶飞机的攻击杀死了大部分的原住民，留下了被唤醒的§YOzari§!作为§Y[From.From.From.From.From.GetName]§!的唯一的主人。。。。。。。。。他们的领袖现在正为我们希望与我们的帝国讨论他们的关系而欢呼。"
  mem_sleepers.101.a:0 "背叛永远不能被原谅...让他们加入我们的行列。"
  mem_sleepers.101.a.xenophobe:0 "尽管他们是异种，他们的决心是令人钦佩的。让他们加入我们的行列。"
  mem_sleepers.101.a.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将和平地融入我们的帝国。"
@@ -104,9 +104,9 @@
  
  #Remnants
  mem_sleepers.150.name:0 "残余"
- mem_sleepers.150.desc:0 "我们是§YOzari§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。我们试图制造出“冰人”来躲避屠杀，但我担心这是唯一一个完成的。我们在这个世界上再也没有位置了。我们的物种几乎灭绝了，我们自己的造物也不太可能善待我们。也许你可以在你的人民中给予我们庇护?"
+ mem_sleepers.150.desc:0 "我们是§Y欧扎里人§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。我们试图制造出“冰人”来躲避屠杀，但我担心这是唯一一个完成的。我们在这个世界上再也没有位置了。我们的物种几乎灭绝了，我们自己的造物也不太可能善待我们。也许你可以在你的人民中给予我们庇护?"
  mem_sleepers.150.a:0 "我们将共享我们的家园，你们将分享你们的专业知识。"
- mem_sleepers.150.a.tooltip:0 "§YOzari Remnants§!将以他们的专业知识支持我们的生物技术研究，以换取避难所。"
+ mem_sleepers.150.a.tooltip:0 "§Y欧扎里人残存者§!将以他们的专业知识支持我们的生物技术研究，以换取避难所。"
  mem_sleepers.150.a.response:0 "我们深表谢意。你不会后悔的。"
  mem_sleepers.150.b:0 "对不起，你属于这里。你欠你的造物这么多。"
  mem_sleepers.150.b.response:0 "似乎我们没有其他选择了。你不欢迎我们，我们也不能呆在这里。"
@@ -114,14 +114,14 @@
  mem_sleepers.150.c.response:0 "这不必要。那我们就去…"
  
  #Last Remnants die
- mem_sleepers.151.name:0 "最后一个Ozari去世了"
- mem_sleepers.151.desc:0 "今天我们得知了§YOzari§!的最后一名，从星球§Y[From.From.From.From.From.GetName]§!死去。这不仅标志着他们骄傲的种族的结束，也标志着我们长期合作的结束。他们在生物工程方面的专业知识——即使是我们最优秀的头脑也难以实现——将会被我们的科学工作人员严重忽视。"
+ mem_sleepers.151.name:0 "最后的欧扎里人去世了"
+ mem_sleepers.151.desc:0 "今天我们得知了最后的§Y欧扎里人§!，在星球§Y[From.From.From.From.From.GetName]§!死去。这不仅标志着他们骄傲的种族的结束，也标志着我们长期合作的结束。他们在生物工程方面的专业知识——即使是我们最优秀的头脑也难以实现——将会被我们的科学工作人员严重忽视。"
  mem_sleepers.151.a:0 "愿他们安息。"
  mem_sleepers.151.b:0 "它们是一种资产，仅此而已。"
  
  #Primitive civilization evolves with help of Ozari
  mem_sleepers.152.name:0 "进步的道路"
- mem_sleepers.152.desc:0 "自上个§YOzari§!年已经过去了！走出去与他们的过去和解。似乎他们在生活中找到了一个新的目标。§Y[From.From.From.From.From.GetName]'s§!原始文明取得了显著的进步——显然是§YOzari§!的影响力。"
+ mem_sleepers.152.desc:0 "自最后的§Y欧扎里人§!走出来与他们的过去和解已经过去了多年。似乎他们在生活中找到了一个新的目标。§Y[From.From.From.From.From.GetName]§!的 原始文明取得了显著的进步——显然是因为§YOzari§!的影响力。"
  mem_sleepers.152.a:0 "对他们有好处。"
  
  #The Last Prelude
@@ -132,9 +132,9 @@
  
  #The Last
  mem_sleepers.200.name:0 "最后一个"
- mem_sleepers.200.desc:0 "我们是§YOzari§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。我们试图制造出“冰人”来躲避屠杀，但这是唯一一个完成的，所以我现在是我唯一的一个。我再也不属于这个世界了。也许你会让我和你一起加入到群星之中?"
+ mem_sleepers.200.desc:0 "我们是§Y欧扎里人§!，是这个世界上的第一个后裔。同于你的探险，我们的物种从来没有进入过星星。取而代之的是，我们掌握了生物学和遗传学，在我们的家园中，一个同类物种的提升达到了顶峰，这是一种§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!的物种。作为士兵，劳动者。会有一天，我们有希望与其平等的。然而,§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!并没有像我们那样看到世界，尽管科学知识被我们年轻的堂兄弟们广泛地拒绝了，但是他们有了数量上的优势。我们试图制造出“冰人”来躲避屠杀，但这是唯一一个完成的，所以我现在是我唯一的一个。我再也不属于这个世界了。也许你会让我和你一起加入到群星之中?"
  mem_sleepers.200.a:0 "如果你能分享你的专业知识，你可以和我们一起生活。"
- mem_sleepers.200.a.tooltip:0 "最后一个Ozari将加入我们的帝国，成为一名拥有生物技术专长的科学家。"
+ mem_sleepers.200.a.tooltip:0 "最后的欧扎里人将加入我们的帝国，成为一名拥有生物技术专长的科学家。"
  mem_sleepers.200.a.response:0 "我将向你提供我所知道的一切。你不会后悔这个决定的。"
  mem_sleepers.200.b:0 "对不起，我们不能允许这样做。"
  mem_sleepers.200.b.response:0 "但我该去哪里？！"

@@ -1032,8 +1032,157 @@
  
  requires_no_existing_nidavellir:0 "$TRIGGER_FAIL$不能建造超过一个黑暗原野超级锻造工厂。"
   
+ 
+ ###CITY RINGS###
+ city_ringworlds.2.name:0 "§H生态都市环世界§!: [Root.GetName] Covered"
+ city_ringworlds.2.desc:0 "一层又一层的城市景观覆盖了环世界的表面。\n\n我们自己的人造星球，一个环形世界的一部分，已经完全被一个巨大的城市所覆盖，向四面八方延伸了成千上万公里。要徒步穿越这座能够容纳数万亿灵魂的巨大城市，需要几十年的时间。" 
+ city_ringworlds.2.a:0 "令人印象深刻。"
+ 
+ decision_ringworld_arcology_project:0 "环世界生态建筑的项目"
+ decision_ringworld_arcology_project_effects:1 "将这一环世界部分变成§Y$pc_ringworld_city$§!，增加£housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y资源生产§!和§Y人口增长§!，并以环世界整个表面被改造为代价解锁了特殊的£district£ §Y生态建筑学区划§!，从而阻止了所有£district£ §Y发电机§!和§Y农业区划§!。"
+ decision_ringworld_arcology_project_effects_short:2 "增加£housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y资源产量§!和§Y人口增长§!\n只能使用£district£ §Y生态建筑学区划§!\n禁用£district£ §Y发电机§!和§Y农业区划§!"
+ decision_ringworld_arcology_project_requirements:0 "£trigger_no£ §R星球上所有的区划必须被§! §Y$district_city_plural$§!填满"
+ decision_ringworld_arcology_project_desc:1 "不断延伸的生态环境将把这个环世界的部分统一为一个巨大的超级城市，银河系有史以来最大的城市。"
+ 
+ pc_ringworld_city:0 "世界都市环世界"
+ pc_ringworld_city_desc:0 "环城世界完全被城市工业扩张所吞没。它原来的岩石圈从轨道上已经看不见了。"
+ 
+ pc_ringworld_eco_city:0 "生态建筑学环世界"
+ pc_ringworld_eco_city_desc:0 "环世界完全被城市生态科学的蔓延所吞没。它原来的岩石圈从轨道上已经看不见了。"
+
+ district_arcology_ringworld_housing:0 "生态建筑学"
+ district_arcology_ringworld_housing_plural:0 "生态建筑学"
+ district_arcology_ringworld_housing_desc:0 "利用这些特殊的生态城市区域，综合垂直建筑被用来最大化地表面积上的人口密度。"
+ district_arcology_ringworld_arms_industry:0 "铸造生态建筑学"
+ district_arcology_ringworld_arms_industry_plural:0 "铸造生态建筑学"
+ district_arcology_ringworld_arms_industry_desc:0 "这个以军事工业为导向的生态都市地区充斥着冶炼厂的轰鸣声和冶金学的铿锵声。"
+ district_arcology_ringworld_civilian_industry:0 "工业生态建筑学"
+ district_arcology_ringworld_civilian_industry_plural:0 "工业生态建筑学"
+ district_arcology_ringworld_civilian_industry_desc:0 "满是工匠和民用工业的作坊排列在这个地区拥挤的街道上。"
+ district_arcology_ringworld_leisure:0 "休闲生态建筑学"
+ district_arcology_ringworld_leisure_plural:0 "休闲生态建筑学"
+ district_arcology_ringworld_leisure_desc:0 "在那里，居民在他们的休闲时间放松。"
+ 
+ decision_ringworld_arcology_project:0 "转换为生产生态建筑学"
+ decision_ringworld_eco_arcology_project:0 "转换成生态/科学生态建筑学"
+ 
+ mod_district_city_max:0 "最大$district_city_plural$"
+ 
+ d_for_bad_ai:0 "£blocker  人工智能修复区"
+ d_for_bad_ai_desc:0 "防止人工智能在你的视线范围之外建造。"
+ 
+ pc_ringworld_machine:0 "机械环世界"
+ pc_ringworld_machine_desc:0 "被人造结构覆盖的环形世界。稀薄的大气主要由工业污染物构成，无法维持生物生命。"
+ 
+ pc_ringworld_hive:0 "蜂巢环世界"
+ pc_ringworld_hive_desc:0 "整个环形世界是一个巨大的生物体，与塑造它的蜂群思维有着心灵上的联系。任何不属于蜂房的生物，只要一踏上这里，就会受到地形本身的攻击。"
+ 
+ district_ringworld_mining_uncapped:0 "物质合成区"
+ district_ringworld_mining_uncapped_plural:0 "物质合成区"
+ district_ringworld_mining_uncapped_desc:0 "这些发电机利用先进的技术将能源转化为原材料。"
+ district_ringworld_farming_uncapped:0 "$district_farming$"
+ district_ringworld_farming_uncapped_plural:0 "$district_farming_plural$"
+ district_ringworld_farming_uncapped_desc:0 "$district_farming_desc$"
+ district_ringworld_generator_uncapped:0 "$district_generator$"
+ district_ringworld_generator_uncapped_plural:0 "$district_generator_plural$"
+ district_ringworld_generator_uncapped_desc:0 "$district_generator_desc$"
+ 
+ ###MARCH UPDATE###
+ barren_terraform_2_disabled:0 "动态核心点火器"
+ barren_terraform_2_disabled_DESC:0 "这个古老的动态核心点火器是由一个未知的文明在亿万年前建造的。它用掉了一些古老的电源，而且似乎还能运行。"
+ barren_terraform_3_restored:0 "开始地貌改造"
+ barren_terraform_3_restored_DESC:0 "命令这个古老的巨型结构重新启动下面星球的地貌改造过程。"
+ 
+ helioforming_candidate:0 "点燃候选者"
+ helioforming_candidate_desc:0 "尽管从技术上讲，这颗巨大的气体巨星并不是一颗褐矮星，但它独特的成分和高密度可以使它在合适的技术条件下点燃成为一颗恒星。"
+ 
+ gasgiant_ignitor_7:0 "拆卸亚恒星压缩机"
+ gasgiant_ignitor_7_DESC:0 "将拆除这个亚恒星压缩机，如果它需要拆除无论什么原因。"
+ 
+ crystal_drill_0:0 "超大型晶体提取器建筑工地"
+ crystal_drill_0_DESC:0 "这个轨道平台是未来在这个熔融世界里建造巨型水晶的基地。它为开始建造这个巨大的空间站提供了必要的人员和基础设施。"
+ crystal_drill_0_MEGASTRUCTURE_DETAILS:0 "一颗巨大的水晶从一颗熔化的行星的核心吸引了大量的稀有水晶和矿物质。"
+ 
+ crystal_drill_1:0 "晶体提取器炼油枢纽"
+ crystal_drill_1_DESC:0 "水晶钻孔的精炼中心将用于净化和精炼从行星核心抽出的大量熔融岩石，并从中分离出珍贵的晶体。"
+
+ crystal_drill_2:0 "晶体提取器万有引力发生器"
+ crystal_drill_2_DESC:0 "重力发生器在星球下方的采矿过程中起着至关重要的作用，因为它提供能量，并作为钻孔主钻的催化剂。"
+
+ crystal_drill_3:0 "晶体提取器"
+ crystal_drill_3_DESC:0 "完全运作的晶体提取器，直接从行星熔化的核心中提取大量的晶体和矿物。"
+ 
+ gigaeng.23000.name:0 "晶体提取器建筑工地竣工"
+ gigaeng.23000.desc:0 "在[FromFrom.GetName]星系中，一个未来的晶体提取器的施工基地已经完成。在这个支架上，我们将建造一个巨大的空间站，它将发射一束巨大的激光束，直接射入熔融世界的核心，从中获取纯净的晶体。"
+ gigaeng.23000.a:0 "太好了。"
+ 
+ gigaeng.23001.name:0 "晶体提取器完成"
+ gigaeng.23001.desc:0 "我们的工程师已经完成了[FromFrom.GetName]星系中晶体提取器管主要枢纽的建设。这个巨大的空间站环绕着一个熔融星球运行，里面有熔炉和精炼厂，专门把熔融的岩石提纯成稀有的晶体，如果我们想要有效地开采下面的世界，这是必不可少的。"
+ gigaeng.23001.a:0 "很好。"
+ 
+ gigaeng.23002.name:0 "晶体提取器重力发生器完成"
+ gigaeng.23002.desc:0 "我们的晶体提取器超级重力发生器现在完成了!这个巨大的结构完全环绕着超级巨星的中心，并将为它提供能量。它还将作为超级大钻头主钻的催化剂，并大幅增强其重力牵引梁的强度。"
+ gigaeng.23002.a:0 "太棒了。"
+ 
+ gigaeng.23003.name:0 "晶体提取器完成!"
+ gigaeng.23003.desc:0 "我们的晶体提取器已经在[FromFrom.GetName]星系中完全完成!它装备了一束巨大的轨道激光束，已经穿透了地球的地壳和地幔，并进入了地球的核心。大量的晶体和矿物正在从这个星球地狱般的中心被拉出来，这对我们的工业肯定是非常有用的。"
+ gigaeng.23003.a:0 "不可思议!"
+  
+ tech_crystal_drill:0 "核心晶体收获"
+ tech_crystal_drill_desc:0 "当天体内部的极端压力与极端温度相遇时，就会形成稀有的晶体。然后，把它们带到水面上来，我们可以在那里收获它们，这取决于随机的机会。然而，这个幸运因素可以通过直接钻到一个世界的核心来消除，并直接从那里获取珍贵的水晶!"
+ 
+ must_build_around_molten:0 "$TRIGGER_FAIL$必须建立在一个熔融星球。"
+ too_small_planet:0 "$TRIGGER_FAIL$这颗行星太小了。"
+ 
+ crystal_drill_title:0 "§H解锁巨型建筑:§! 晶体提取器"
+ crystal_drill_desc:0 "一个巨大的轨道设施，它直接钻孔进入一个熔化的行星的核心，提取大量的稀有晶体。"
+ 
+ gigamenu.2.crystal.on:0 "晶体提取器 | §B启用§!"
+ gigamenu.2.crystal.off:0 "晶体提取器 | §R禁用§!"
+ 
+ atmosphere_vacuum_0:0 "超大气冷凝器建筑工地"
+ atmosphere_vacuum_0_MEGASTRUCTURE_DETAILS:0 "一种巨大的仪器，围绕着一个巨大的气态巨星而建造，以开采它的大气层以获取资源。"
+ atmosphere_vacuum_0_DESC:0 "未来超大气冷凝的施工基地。它拥有必要的个人和基础设施，可以围绕这个天然气巨头建造一个南加州大学。"
+ 
+ atmosphere_vacuum_1:0 "超大气冷凝器轨道装置"
+ atmosphere_vacuum_1_DESC:0 "这个巨大的圆环围绕着这个气态巨行星展开，并容纳了用于发电的聚变反应堆，以及用于从气态巨行星大气层中收集外来气体和挥发性尘埃的净化设施。"
+ 
+ atmosphere_vacuum_2:0 "超大气冷凝器"
+ atmosphere_vacuum_2_DESC:0 "一种完整的、可操作的超大气压下的集气器，稳定地从气态巨星中收集大量气体。聚变反应堆利用收集的氢气产生大量的能量。"
+ 
+ pc_metallic_hydrogen:0 "金属H.巨人"
+ pc_metallic_hydrogen_desc:0 "一个巨大的金属氢球。它的上层大气被人为地剥离，暴露出这颗行星奇特的氢地幔。"
+ 
+ tech_atmo_vacuum:0 "全球大气露天矿"
+ tech_atmo_vacuum_desc:0 "气态巨星的大气中充满了各种资源，比如外来气体和挥发性尘埃。巨大的牵引光束，加上核聚变和精炼设备，可以让我们稳定地开采一个天然气巨人的大气层，获取它所有的资源。"
+ 
+ atmo_drill_title:0 "§H解锁巨型建筑:§! 超大气冷凝器"
+ atmo_drill_desc:0 "超大气冷凝器(简称S.U.C.C.)是一个巨大的设施，它包裹着一个气态巨行星。它利用巨大的牵引光束，稳定地收集星球的大气层，并将其提炼成能量、气体和挥发性尘埃。"
+ 
+ gasgiant.1006.title:0 "S.U.C.C. 耗尽"
+ gasgiant.1006.desc:0 "在[FromFrom.GetName]星系中，我们的超大气冷凝器现在已经到达了这个气态巨行星的岩石内核。这里已经没有可供开采的大气了，这个曾经的气态巨星已经变成了一个矿产丰富的贫瘠的小世界。巨型结构本身已经拆除，核心现在可以以我们想要的任何方式使用。"
+ gasgiant.1006.a:0 "一切都必须结束。"
+ 
+ gigamenu.2.succ.on:0 "S.U.C.C. | §B启用§!"
+ gigamenu.2.succ.off:0 "S.U.C.C. | §R禁用!"
+ 
+ gigaeng.24000.name:0 "S.U.C.C. 施工基地完成"
+ gigaeng.24000.desc:0 "[FromFrom.GetName]星系中未来施工基地完成的施工基地已经完成!在这个支架上，我们将建造一个巨大的装置，它将稳定地收集气体巨星的大气层，并将其过滤成外来气体。它还将利用大气中发现的氢，通过聚变反应堆产生能量。\n\n记住，它最终会耗尽，留下一个贫瘠的世界。"
+ gigaeng.24000.a:0 "想出这个缩写花了多长时间?"
+ 
+ gigaeng.24001.name:0 "S.U.C.C. 轨道器完成"
+ gigaeng.24001.desc:0 "我们的超大气冷凝器在[FromFrom.GetName]星系中完成了其轨道仪的研制。这个巨大的环为从地球大气层中收集气体、尘埃和能量提供了必要的设施。现在，我们必须开始研究实际的拖拉机横梁本身。"
+ gigaeng.24001.a:0 "太好了。"
+ 
+ gasgiant.1000.title:0 "S.U.C.C. 运作!"
+ gasgiant.1000.desc:0 "我们在[FromFrom.GetName]星系中的超大气冷凝器现在可以运行了!它的牵引光束已经被激活，这个气态巨星的大气层正在被稳定地收集。\n\n据我们的科学家说，它将在几十年后耗尽。"
+ gasgiant.1000.a:0 "不可思议!"
+ 
+ gigamenu.2.cityring.on:0 "世界都市环世界 | §B启用§!"
+ gigamenu.2.cityring.off:0 "世界都市环世界 | §R禁用§!"
+ 
  ###PALUUSH & BUNCH OF FIXES###
- ruinedmega.111.name:0 "Fallen Flat"
+ ruinedmega.111.name:0 "堕落的平面"
  ruinedmega.111.desc:0 "我们探索[From.GetName]星系的科学船发现了一颗非常非常奇怪的“行星”。\n\n一个人造起源的平坦星球!更奇怪的是，这里似乎居住着原始文明!那些被人造重力发生器束缚在地面上的原始生物一旦离开他们的世界，很可能会感到非常困惑。\n\n没有人知道这件事是怎么发生的。也许没有人会知道。"
  ruinedmega.111.a:0 "这可真独特。"
  
@@ -1050,9 +1199,9 @@
  building_paluush_homes:0 "帕鲁什大都市"
  building_paluush_homes_desc:0 "由帕鲁什人建造的巨大城市。尽管使用了原始的技术，它仍然非常高效和有组织，几乎可以与太空时代的城市建筑相媲美。"
 
- planet_ring_0:0 "轨道生态建筑施工基地" 
- planet_ring_0_DESC:0 "轨道生态建筑的建筑工地，这是一个环绕星球的微型环形世界。它将为我们的工业提供大量的空间。"
- planet_ring_0_MEGASTRUCTURE_DETAILS:0 "一个环绕行星的小环形世界，提供额外的区位。对于更大的行星来说更贵，但是他们受益更多。"
+ planet_ring_g_0:0 "轨道生态建筑施工基地" 
+ planet_ring_g_0_DESC:0 "轨道生态建筑的建筑工地，这是一个环绕星球的微型环形世界。它将为我们的工业提供大量的空间。"
+ planet_ring_g_0_MEGASTRUCTURE_DETAILS:0 "一个环绕行星的小环形世界，提供额外的区位。对于更大的行星来说更贵，但是他们受益更多。"
  
  planet_ring_0_13:0 "小型轨道生态建筑施工基地" 
  planet_ring_0_13_DESC:0 "轨道生态建筑的建筑工地，这是一个环绕星球的微型环形世界。它将为我们的工业提供大量的空间。"
@@ -1069,8 +1218,8 @@
  planet_ring_1_13:0 "小型轨道生态建筑"
  planet_ring_1_13_DESC:0 "一个小型环形世界环绕着一个小星球，提供额外的区域。"
  
- planet_ring_1:0 "轨道生态建筑"
- planet_ring_1_DESC:0 "一个小型环形世界，环绕着一个中等大小的行星，提供额外的区域。"
+ planet_ring_g_1:0 "轨道生态建筑"
+ planet_ring_g_1_DESC:0 "一个小型环形世界，环绕着一个中等大小的行星，提供额外的区域。"
  
  planet_ring_1_25:0 "大型轨道生态建筑"
  planet_ring_1_25_DESC:0 "一个小型环形世界，环绕着一个大的行星，提供额外的区域。"

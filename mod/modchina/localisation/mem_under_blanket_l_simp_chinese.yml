@@ -12,11 +12,15 @@
  mem_under_blanket.2.name:0 "领导危机"
  mem_under_blanket.2.desc:0 "在一个简短的科研联合会之后，所有资源和资金都被分配到位，探险队也几乎准备好开始探险了。然而，他们还不能决定应该由谁来领导这次探险。他们征求你的意见。\n\n值得注意的是，在探险的整个过程中，选定的科学家将无法执行任何其他任务。\n\n探险领导的候选人是："
  mem_under_blanket.2.expertleader:0 "[mem_under_blanket_expert_leader.GetName],被公认为是该领域的专家。"
+ mem_under_blanket.2.expertleader.tooltip: "[mem_under_blanket_expert_leader.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
  mem_under_blanket.2.expertleader.random:0 "[mem_under_blanket_expert_leader_random.GetName],他的个人简历非常引人注目。"
+ mem_under_blanket.2.expertleader.random.tooltip: "[mem_under_blanket_expert_leader_random.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
  mem_under_blanket.2.newbieleader:0 "[mem_under_blanket_newbie_leader.GetName],以他果断的性格为人熟知。"
+ mem_under_blanket.2.newbieleader.tooltip: "[mem_under_blanket_newbie_leader.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
  mem_under_blanket.2.newbieleader.random:0 "[mem_under_blanket_newbie_leader_random.GetName],展现了相当高的天分。"
+ mem_under_blanket.2.newbieleader.random.tooltip: "[mem_under_blanket_newbie_leader_random.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
  mem_under_blanket.2.randomleader:0 "[mem_under_blanket_random_leader.GetName],有能力的科学家，同时也是时刻准备好赴汤蹈火的志愿者。"
- mem_under_blanket.2.tooltip:0 "[mem_under_blanket_selected_leader.GetName]将会完全集中于此任务上，因此无法为我们执行其他的操作。"
+ mem_under_blanket.2.randomleader.tooltip: "[mem_under_blanket_random_leader.GetName] 将完全专注于此任务，因此无法为我们执行任何其他操作。"
 
  # Ground Team
  mem_under_blanket.3.name:0 "地面团队"
@@ -97,8 +101,4 @@
 # Modifiers
  d_mem_crystalline_caverns: "捕食者洞穴"
  d_mem_crystalline_caverns_desc: "一个充满稀有晶体的洞穴，被危险的食肉动物保护着。"
- mem_under_blanket_muutagan_crystals:0 "穆塔根晶体"
- mem_under_blanket_teldar_crystals:0 "特尔达水晶"
- mem_under_blanket_yurantic_crystals:0 "育兰晶"
- country_resource_sr_teldar_add:0 "特尔达水晶"
- country_resource_sr_yurantic_add:0 "育兰晶"
+ mem_under_blanket.2.tooltip:0 "[mem_under_blanket_selected_leader.GetName]将会完全集中于此任务上，因此无法为我们执行其他的操作。"

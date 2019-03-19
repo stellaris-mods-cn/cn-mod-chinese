@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+civic_sofe_pursuit_answer: "巅峰之道"
+civic_sofe_pursuit_answer_desc: "这个古老的帝国只对一个目标感兴趣;在亿万年前由先祖传授给他们的真正飞升。所有其他优先事项都排在这项任务之后。\n\n§Y你的帝国将开始一同通往一条飞升之道。\n§R各种欺骗因素可能会阻碍或阻止你的崛起。不要轻举妄动§!"
+civic_sofe_inner_strength: "匿踪薄雾"
+civic_sofe_inner_strength_desc: "银河系充满了恶意。这个帝国只追求真正的飞升，而不是扩张，也不是征服。\n\n§E不能扩长到初始给定的星系之外§!\n§E你只能形成防御和不侵略条约，联邦只会寻求剥削你的帝国。§!\n§E您将从已经研究过的某些技术开始。§!"
+
+gov_ancient_seekers: "寻求真正的飞升"
+gov_ancient_seekers_desc: "这个古老帝国的起源可以追溯到上亿年前，在第一次先祖战争之前。他们受到了来自外部的影响和时间的破坏，他们的老师，神秘的先祖的老师。\n\n他们唯一的兴趣是实现真正的飞升，就像他们的老师所展示的那样。"
+
+starbase_outpost_influence_cost_add: "前哨站影响力成本增加"
+auth_sofe_ancients: "§Y上古之力§!"
+auth_sofe_ancients_desc: "§Y这种权威自古就存在;派别的概念是可笑的，伦理是幼稚的天真。只有一个使命，一个目标。一个领导帝国的领袖，如果这个领袖被证明是不称职的，另一个将会出现。§!"
+
+sofe_playable_oe_start_NAME: "圣所之纱"
+sofe_playable_oe_start_DESC: "可玩的始源帝国启动星系。\n\n从已经控制的多个星系开始。"
+
+personality_sofe_playable_oe_personality: "寻求真正的飞升"
+personality_sofe_playable_oe_personality_desc: "这个古老帝国的起源可以追溯到上亿年前，在第一次先祖战争之前。他们受到了来自外部的影响和时间的破坏，他们的老师，神秘的祖先的老师。\n\n他们唯一的兴趣是实现真正的飞升，就像他们的老师所展示的那样。"

@@ -443,7 +443,7 @@ sofe_gateway.401.eternal.b: "你想指挥我们?滚开，你们这些原始人�
 sofe_gateway.401.desc.myself: "哟，糟透了。[root.GetRulerName]这是我，§H[root.GetRulerName]§!，我从另一个星际会议来警告你，已经到了游戏的中期，愚蠢的§Y外星门§!将开始引起bug，故障和崩溃。马上关掉游戏。去吃点东西，或者做点别的什么?\n\n哦，对了，顺便说一下，在我的课上，我要被始源擦干了，所以你知道…不要擦拭。哈哈哈\n\n再见!记住,迷因。只有Chirumiru ShiRoZ才能制造出这样一个充满的愚蠢事件。Cioa !"
 sofe_gateway.401.myself.a: "走开。除了我，没人命令我。等一下…"	
 sofe_gateway.401.myself.b: "别再打破第四堵墙了，你这个笨蛋。我的天。"	
-sofe_gateway.401.myself.c: "ITS A TECH ALPHA, OF COURSE IT CAN CRASH."	
+sofe_gateway.401.myself.c: "这是一个技术ALPHA，当然它也会崩溃"	
 sofe_gateway.401.myself.d: "什么?这不是剧本的一部分…愚蠢的ShiRoZ。"	
 
 sofe_gateway.401.a: "等等,你不能控制§E守门人§!?哈哈。"	
@@ -578,7 +578,7 @@ sofe_gateway.5.b.explain: "慢慢来，兄弟。我知道价格有点贵，但�
 sofe_gateway.5.c: "好吧，这是值得的"
 sofe_gateway.5.c.explain: "嘿，别这么说。你是那个想要他们玩具的人。我只关心它可能只是某种先驱者的自动娱乐工具。\n\n开玩笑的，别想太多。"
 
-sofe_gateway.5.d: "成交。让我们看看你能不能再做一次。"
+sofe_gateway.5.d: "成交，让我们看看你能不能再做一次。"
 sofe_gateway.5.c.explain: "当然，我会的，我是了不起的，我可以被征服。给我两个月的时间，你就知道了。"
 
 sofe_gateway.501.name: "不可能的任务"
@@ -588,7 +588,7 @@ sofe_gateway.501.a: "这家伙太好了，不可能是个走私犯。"
 sofe_gateway.601.name: "路就在前面"
 sofe_gateway.601.desc: "我们现在有一扇外星门。根据我们早期的分析，外层屏蔽远不如现在耗尽的内层屏蔽先进。我们需要彻底调查这个防护盾，以便开始全面分析。"
 
-sofe_gateway.602.name: "神秘的封印"
+sofe_gateway.602.name: "神秘封印"
 sofe_gateway.602.desc: "初步分析已完成。正如所怀疑的那样，§Y外星门§!被一种似乎是基于暗能量的能量封印所锁住，这无疑是堕落帝国的杰作。这道封印似乎与外星门产生了一种独特的反应，舰船和空间站可以在没有任何明显变化的情况下通过护盾，但这些门似乎被时间锁住了。\n\n分析确定要禁用此屏蔽，总共必须绕过§B四种§!锁定机制。\n\n首先，我们必须找到一块楔石来阻止入侵。只要有足够的知识，我们就可以自己制造一个。我们也可以直接攻击那些倒下的人来要求他们的钥匙。最后，我们还可以聘请传奇走私犯为我们做这项工作。"
 sofe_gateway.602.a: "这么多的选择。如此少的时间。"
 
@@ -625,7 +625,7 @@ sofe_gateway.701.stellarite_choice_desc: "象征着星象的符号"
 sofe_gateway.701.psionic_choice: "§M白紫色符号§!"
 sofe_gateway.701.psionic_choice_desc: "象征着灵能的符号"
 
-sofe_gateway.13.name: "Another Riddle"
+sofe_gateway.13.name: "另一个谜"
 
 sofe_gateway.riddle_correct: "成功!"
 sofe_gateway.riddle_incorrect: 
@@ -680,7 +680,7 @@ sofe_gateway.711.a: "去做吧，就这么办"
 sofe_gateway.711.a.response: "§Y<<确认>>§! 服务完成。\n\n再见,主人。愿你们在旅途中取得成功，愿我们的替代者超越我们的能力范围。"
 sofe_gateway.711.a.berserk: "§Y<<确认>>§! 服务完成。\n\n再见,主人。你能找到……\n\n§R<<错误>>§! §R<<错误>>§! §R<<错误>>§!\n\n§R<<不可接受的命令>>§! §R<<无效>>§! §R<<不可接受>>§!\n\n§R<<警报>>! 探测到有保护空间的敌对实体。托管协议启动……必须消除对生命的所有威胁。§! "
 
-sofe_gateway.711.b: "不。终止序列。"
+sofe_gateway.711.b: "不，终止序列。"
 sofe_gateway.711.b.response: "Y<<肯定>>§! 序列中止。恢复以前的活动。\n\n祝你有一个美好而富有成效的一年。"
 
 sofe_gateway.712.name: "机器早已不复存在"
@@ -757,7 +757,7 @@ sofe_crisis.501.e_explain: "危机还将继续。原来的帝国将开始使用�
 sofe_crisis.501.b.response: "很好, [root.GetName]。让和平恢复。\n\n你已经向我们证明了你的力量和勇气。接受我们的礼物，好好利用它们。\n\n我们将饶有兴趣地观察你的下一个结局。"
 sofe_crisis.501.c.response: "我们造成了巨大的破坏，你们寻求正义，正如我们在上次战争中寻求正义一样，这是可以理解的。\n\n很好。如果你想要战争，那当然可以。我们将捍卫自己。愿胜利者定义正义。"
 sofe_crisis.501.d.response: "到那时就必如此。我们将深入探索更遥远的未来，找到我们所寻求的答案。\n\n我们剩下的领土是你们的。使用它们。\n\n那么,永别了,[root.GetName]。历史现在属于你们,我们不会再见面了。"
-sofe_crisis.501.e.response: "……我明白了.\n\n那就去死吧。NEIN NEIN NEIN NEIN NEIN !"
+sofe_crisis.501.e.response: "……我明白了。\n\n那就去死吧。NEIN NEIN NEIN NEIN NEIN !"
 
 sofe_crisis.5001.name: "避免危机"
 sofe_crisis.5001.desc: "始源帝国已经退却了。他们召回了所有的舰队，所有的敌对行动都停止了。现在他们似乎满足于从星系团中观察星系。"
@@ -782,7 +782,7 @@ sofe_crisis.9101.b: "这是愚蠢的。罪吗?是他们冤枉了我们!"
 sofe_crisis.9101.c: "我们的先祖很愚蠢。我们必须做得更好。"
 
 origin.9700.desc: "Vad'ikos!\n\n所以你决定反对我们。不幸的是，并不是下落不明。\n\n那么好吧，伟大的[root.GetSpeciesName]让这一刻燃烧得如此明亮，我们所有人都将被永远记住!\n\nRasha'ta 是永恒的![root.GetName]也是永恒的!\n\n愿最好的巅峰帝国胜出!"
-origin.9700.desc.a: "Glory to all who stands against fate!"
+origin.9700.desc.a: "荣耀归于所有与命运抗争的人!"
 
 origin.9701.desc: "Vad'ikos!\n\n太好了!我很高兴我们都有了更大的了解。\n\n这将是关键时刻!两个巅峰帝国，联合起来对抗这个混乱的领域。[root.GetSpeciesName]始源帝国站在你这边作为一个盟友!不要让任何人发现我们的不足!为了[root.GetRulerName]的荣耀和首相!\n\n让秩序恢复!"
 origin.9701.desc.a: "让我们重新定义这个星系!"

@@ -3,9 +3,12 @@
  # Traits
  ####################################
 
- trait_ex_broken:0 "破碎的"
- trait_ex_broken_desc:0 "§L这个物种在他们遥远的过去遭受了一些灾难性的失败，使他们的身体和精神伤痕累累。§!"
- trait_ex_ancient:0 "古老的"
- trait_ex_ancient_desc:0 "§L大多数其他的智人就像蜉蝣一样。§!"
+ trait_ex_broken:0 "损坏"
+ trait_ex_broken_desc:0 "§L这个物种在遥远的过去遭受了一些灾难性的失败，在他们的身体和心灵上留下了伤疤。§!"
+ trait_ex_ancient:0 "古老"
+ trait_ex_ancient_desc:0 "§L对于这个物种来说，大多数其他的智人就像蜉蝣一样。§!"
  trait_ex_gef:0 "G.E.F."
- trait_ex_gef_desc:0 "§L这些基因工程的力量是专门创造来完成所有帝国的肮脏工作。他们的高级大脑功能被故意限制。§!"
+ trait_ex_gef_desc:0 "§L这些基因工程部队是专门用来做帝国所有肮脏工作的。§!"
+ trait_ex_monstrous:0 "巨大"
+ trait_ex_monstrous_effect:0 "§G+75%§!士气伤害和§G+10§!领袖寿命，但其他帝国有§R-25§好感度。"
+ trait_ex_monstrous_desc:0 "§L这个物种太可怕了。即使是最坚定的反对者也觉得他们很可怕。§!"

@@ -196,7 +196,7 @@ l_simp_chinese:
  mem_lost_emperor.801.name:0 "被轻视的皇帝"
  mem_lost_emperor.801.desc:0 "[root.GetSpeciesNamePlural]!你辜负了我对你的信任，不尊重我的立场。你会后悔的。"
  mem_lost_emperor.801.option:0 "我们等着瞧吧。"
- mem_lost_emperor.801.tooltip:0 "God-Emperor Neochadanus resigns. We can only guess what he'll do next."
+ mem_lost_emperor.801.tooltip:0 "神皇，尼奥查达努斯辞职了。我们只能猜测他下一步会做什么。"
 
  mem_lost_emperor.803.name:0 "不朽者之死"
  mem_lost_emperor.803.desc:0 "神皇，尼奥查达努斯死了！尽管他已经活了6600万年，但即使是他也不能永远活下去。\n\n他的助手们对于痛失他们敬爱的领袖感到震惊。为了纪念他，他们把他么的社区改名为“尼奥查达努斯的哀悼者”。他们的新统治者，[from.GetRulerTitle] [from.GetRulerName]已经开始在努力才能不辜负他杰出前任的声誉。"

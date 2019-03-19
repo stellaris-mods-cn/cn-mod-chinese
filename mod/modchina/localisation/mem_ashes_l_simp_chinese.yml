@@ -1,4 +1,4 @@
-﻿
+﻿#Among the Ashes
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -62,7 +62,7 @@ l_simp_chinese:
  mem_ashes.6.desc:0 "你们好！你们还记得我们吗？\n\n虽然你们当时不能或者不愿提供一个你们自己帝国的地方给我们，我们并没有忘记你们的善良，我们会永远感激你们从地下室中拯救了我们。\n\n我们现在过得挺好，也已经为自己找到了一个新的世界。我们的一位在最开始在提出地下室的修建有极大帮助作用的领袖表示希望加入你们的帝国，并为你们提供专业的知识以作为我们感激的标志。你们感兴趣吗？"
  mem_ashes.6.a:0 "并不特别感兴趣。不用了。"
  mem_ashes.6.b:0 "很好."
- mem_ashes.6.b.tooltip:0 "我们将收到一个§Y管理者§!"
+ mem_ashes.6.b.tooltip:0 "我们将收到一位新§Y总督§!"
  
  MEM_ASHES_ASSIMILATION:0 "同化休眠者"
  MEM_ASHES_ASSIMILATION_DESC:0 "这是一个难得的机会来研究无法抵抗同化的有机物。他们甚至不需要被唤醒以让我们了解他们和他们的过去。"

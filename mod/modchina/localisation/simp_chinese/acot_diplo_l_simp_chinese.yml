@@ -1,0 +1,63 @@
+﻿l_simp_chinese:
+
+### SHIP TEXTS
+
+
+acot_diplo.3.name: "来自§Y[event_target:interested_buyer.GetName]§!的传入传输"
+acot_diplo.3.desc.friendly: "你好,朋友。我们对你发现这种神秘的§E暗物质力量§!印象深刻。作为您值得信赖的盟友和朋友，我们想请您与我们分享这些令人难以置信的知识。\n\n§Y[from.GetName]希望你的帝国会尊重我们的友谊?"
+acot_diplo.3.desc.neutral: "你好,§Y[root.GetName]§!。\n\n我们最近了解到您的帝国在技术上的进步，特别是这个新的电源称为"§E暗物质力量§!"!我们的帝国希望更多地了解这种力量。也许你有兴趣和我们分享这些知识?如果你能这样做，我们将不胜感激。"
+
+acot_diplo.3.a: "你只要问就行了!我们将派一个科学小组去帮助!"
+acot_diplo.3.a.response: "你太慷慨了§Y[from.GetRulerName]§!永远不会忘记§Y[root.GetRulerName]§!今天对我们帝国的仁慈。我们很荣幸有你作为我们的盟友，朋友!"
+
+acot_diplo.3.b: "当然，§Y[from.GetName]§!是我们的朋友。"
+acot_diplo.3.b.response: "谢谢你！§Y[from.GetRulerName]§!永远不会忘记§Y[root.GetRulerName]§!今天对我们帝国的仁慈。愿我们的关系繁荣昌盛，愿我们的力量共同统治世界!"
+
+acot_diplo.3.c: "我们可以教你们的科学家适当的技能。"
+acot_diplo.3.c.response: "这很合理。这可能需要一段时间，但有了一些财富，我们也将能够发展这样的力量。我们感谢你的帮助。"
+
+acot_diplo.3.d: "不怎么样。"
+acot_diplo.3.d.response: "我明白了…你终于露出了你的真面目。你不把我们当作朋友或盟友，而仅仅把我们当作敌人?或者更糟。我们不会忘记这一点，你的任何朋友也不会忘记。让银河系知道[root.GetName]的真正性质。"
+
+acot_diplo.3.e: "滚开,弱鸡。"
+acot_diplo.3.e.response: "什...你怎么敢!.."
+
+
+acot_diplo.5.name: "科研船伏击!"
+acot_diplo.5.desc: "我们的一艘科研船被一群不知名的海盗伏击了!他们似乎是被我们的一个敌人雇佣的，毫无疑问，他们试图窃取我们的技术。计算机估计对方将在两年内完成。我们必须迅速行动!"
+acot_diplo.5.desc.enigma: "我们的一艘科研船被一群不知名的海盗伏击了!他们似乎是被我们的一个敌人雇佣的，毫无疑问，他们试图窃取我们的技术。由于我们神秘的设计，海盗将不得不采取额外的努力，大约需要四年时间来完成突袭。"
+acot_diplo.5.a: "联系海盗，看看他们想要什么。"
+
+acot_diplo.6.name: "侠盗星状体车手"
+acot_diplo.6.desc: "海盗们成功地袭击了我们的科研船，船上所有有价值的部件都被走私给了海盗的客户，据报道科学小组被变成了汤罐头。"
+acot_diplo.6.a: "哦，糟糕。"
+
+acot_diplo.7.name: "抢救成功!"
+acot_diplo.7.desc: "企图袭击我们科研船的海盗已不复存在。船上的船员表现出惊恐的迹象，但没有受伤。我们技术的秘密仍然掌握在我们手中。"
+
+acot_diplo.8.name: "入侵控制"
+acot_diplo.8.desc.a: "恩顺，蟾蜍们!\n\n这是§Y阿坦·帕奇§!,§R厄庇克·勒让兹§!的§E好名声§!。我被告知要踩着这只小湿皮，因为它在那里发着绿光。\n\n我不在里面，但是我得到了报酬。goooodz不同。就这些，癞蛤蟆!\n\nUhhhh……怎么关掉这个闹钟?"
+acot_diplo.8.desc.b: "你好，帅哥先生!\n\n我是§Y领主地理人§!,他是§E掠夺者§!§R陈腐引擎§!,的指挥官，猎狗的主人，大可汗的鞭笞，一千米迷因的掠夺者，基因的窃取者，毁灭的商人，植物的猎手，真菌的食用者，提杨凯的祸根。\n\n你和你所有的同类都是懦夫!卑微的马屁精!你一定是在模仿那堆你称之为[root.GetRulerTitle]的垃圾!你跟他一样死了，一样没用!我在突袭你的科学飞船，[ROOT.GetName]，而你什么也没做!我看到你珍贵的飞船，挂在轨道上，携带着无价的文物!我在这里!如果你敢，就面对我吧!"
+acot_diplo.8.desc.c: "看!科研船!科研船!\n\n我们的敌人躲在金属盒子里!\n\n懦夫!傻瓜!\n\n我们……我们应该拿走他们的金属盒子!\n\n如果我们今天死去，我们将带着荣耀死去……我们死英雄之死…\n\n但是没有……\n\n我们不会死。你将尝到死亡和失败的滋味!正如你所知道的!\n\n我们的海盗驻扎在太空，准备偷你的船!"
+
+acot_diplo.8.a: "这太愚蠢了…召集一支救援队!"
+acot_diplo.8.b: "你敢吗? ? ?你敢???"
+########## MODIFIERS ###############
+
+dm_with_assist_tooltip: "这将改善我们的盟友之间的关系，但将大大惹恼其他谁不喜欢§Y[event_target:interested_buyer.GetName]§!。"
+
+triggered_opinion_give_dm_with_assist: "教授暗物质知识"
+
+triggered_opinion_give_dm_with_assist_neighbour: "暗物质的力量圣诞老人的行为"
+
+triggered_opinion_give_dm_normal: "教授暗物质能量"
+
+triggered_opinion_give_dm_normal_neighbour: "暗物质的力量圣诞老人的行为"
+
+triggered_opinion_refuse_dm_friendly: "从盟友那里否认了暗物质的知识"
+
+triggered_opinion_give_dm_to_enemy: "将暗物质知识传授给敌人。"
+
+triggered_opinion_refuse_dm_friendly_others: "真正的颜色。"
+
+triggered_opinion_refuse_dm_neutral: "否认知道暗物质"

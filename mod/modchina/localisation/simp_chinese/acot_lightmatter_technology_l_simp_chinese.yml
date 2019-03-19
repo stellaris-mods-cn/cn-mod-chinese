@@ -306,6 +306,12 @@ tech_lightmatter_weapon_core_desc: "如果我们现在的枪不能足够快地�
 tech_warp_lightmatter_cannon: "闯入者空间区扭炮"
 tech_warp_lightmatter_cannon_desc: ""闯入者空间区扭炮发射一个巨大的弹头，包裹着光物质能量，通过微虫洞扭曲自己进入敌舰，绕过行进力，同时仍然保持全部的动能、速度和速度。我们的飞船在爆炸的时候甚至可以看向别处，因为酷哥们不会看爆炸。"
 
+tech_lightmatter_titan_accelerator: "埃布林格翘曲星炮"
+tech_lightmatter_titan_accelerator_desc: "基于前面模型中使用的类似技术，但应用略有不同。排空的光物质爆炸装置中的引潮炮扭曲，不仅会造成巨大的破坏，而且还会进一步扩散到飞船内部，将整个飞船变成一个火球。"
+
+ACOT_TITAN_CANNON_OE: "艾布林格把星炮船扭曲成火球"
+ACOT_TITAN_CANNON_OE_DESC: "就像给敌人的船带来毁灭的浪潮，除了它是纯粹的光波物质。"
+
 tech_computer_lightmatter: "全矩阵分析仪
 tech_computer_lightmatter_desc: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。"
 

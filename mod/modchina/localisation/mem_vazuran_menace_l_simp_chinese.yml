@@ -179,10 +179,23 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  mem_vazurans.7b.desc:0 "你以为你对我们的技术的修改会被忽视？你现在将为你的亵渎付出代价......"
  mem_vazurans.7.a:0 "终止传输。"
 
- # Colony lost to Vazuran Terror attack
+ #Colony lost to Vazuran Terror attack
  mem_vazurans.8.name:0 "失去殖民地"
  mem_vazurans.8.desc:0 "瓦祖安人并不满足于仅仅夺走我们的资源。整个殖民队都已被摧毁，而我们目前仍无法应对这些暴行。"
  mem_vazurans.8.a:0 "必须想办法阻止他们！"
+ mem_vazurans.8.b:0 "We have to protect our people... somehow!"
+
+ #Colony attacked by Vazuran Raid
+ mem_vazurans.9.name:0 "Colony Raided"
+ mem_vazurans.9.desc.a:0 "Our colony on [mem_vazurans_raid_planet_name.Getname] has been hit by a Vazuran raiding fleet. Countless citizens lost their lives to this reckless attack and the planet's infrastructure has been devastated.\n\nDespite this horrific outcome, the casualties and damage would have been even greater had it not been for our planetary defenses."
+ mem_vazurans.9.desc.b:0 "Our colony on [mem_vazurans_raid_planet_name.Getname] has been hit by a Vazuran raiding fleet. Countless citizens lost their lives to this reckless attack and the planet's infrastructure has been devastated."
+ mem_vazurans.9.a:0 "We will endure!"
+ mem_vazurans.9.b:0 "We have to strengthen our defenses!"
+ mem_vazurans.9.c:0 "We have to protect our people...But how?!"
+
+ #Planetary defense project
+ MEM_VAZURANS_DEFENSE_PLAN:0 "Strengthening the Defenses"
+ MEM_VAZURANS_DEFENSE_PLAN_DESC:0 "Following the devastating attack on one of our colonies, an initiative has been launched to find ways to better protect our people against the Vazuran menace."
 
  #Information event about a known empire being attacked
  mem_vazurans.20.name:0 "银河风暴"
@@ -285,6 +298,11 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  mem_vazurans.206.desc:0 "我们的科学家设法破译了部分数据核心。 到目前为止，似乎每个样本都是其他样本的完全复制品，包含有相同的信息 - 这应该是增加其保存可能性的策略。所包含的数据非常庞大，并且将使我们的科学家花费数月甚至数年时间来完全破译。\n第一个条目，显然是一个标题页，已被翻译：\n\n“我们曾以为自己立于不败之地。我们曾以为我们可以阻止'毁灭者'。我们曾以为自己并不会像他们所毁灭的其他年轻的种族一样 - 我们曾在银河系中旅行超过千年。但是他们击败了我们。当这个信息被发现时，我们曾经骄傲的种族将不复存在了。我们留下这个记录，希望我们最珍贵的宝藏，我们最伟大的哲学家的话 - 我们的文化遗产 - 能比我们被灭绝的种族更长寿。“"
  mem_vazurans.206.a:0 "做得好"
  
+ #Finished Planet defense project
+ mem_vazurans.240.name:0 "达成行星防御新方案 "
+ mem_vazurans.240.desc:0 "自从这项雄心勃勃的尝试开始以来，无数方法被提出，又被弃置。如今似乎出现了一丝希望。\n\n长期以来，我们一直都使用着护盾来保护我们的飞船和太空站，但将这项技术应用到行星尺寸上在经济上一直被视为不可行的。然而，鉴于瓦祖兰人对[root.GetName]的威胁迫在眉睫，这项技术的长期支持者终于成功获得了实现其目标所需的资金。"
+ mem_vazurans.240.a:0 "开始研究。"
+
  #Damper field quest start 1
  mem_vazurans.251.name:0 "发现外星残骸"
  mem_vazurans.251.desc:0 "在[root.GetName]的常规矿产勘探作业期间，勘探者意外地发现：被天然碎片半掩的一个古老的残骸。政府官员很快被告知这一特殊的发现。"

@@ -157,7 +157,7 @@
  job_mem_food_constructor_dust_gatherer_plural:1 "食品粉尘收集者"
  job_mem_food_constructor_dust_gatherer_desc:1 "更简单、更轻松的农业替代选择。当可以仅仅用铁锹和桶就能得到相同结果时，谁还会需要轮作和收割这么麻烦的东西？"
  job_mem_food_constructor_dust_gatherer_effect_desc:1 "£job_mem_dust_gatherer£ $job_mem_food_constructor_dust_gatherer_plural$ 生产 £food£ §Y$food$§!. 他们的产出岁食品构造器产量增加而增加."
- mod_job_mem_food_constructor_dust_gatherer_add:1 "$job_mem_food_constructor_dust_gatherer$ Jobs"
+ mod_job_mem_food_constructor_dust_gatherer_add:1 "$job_mem_food_constructor_dust_gatherer$ 职位"
  mod_job_mem_food_constructor_dust_gatherer_per_pop:1 "§G+1§! $job_mem_food_constructor_dust_gatherer$ 职位每 $VALUE$ 人口"
  mod_job_mem_food_constructor_dust_gatherer_per_pop_short:1 "\n§G+1§! £job_mem_dust_gatherer£ 每 $VALUE$ £pop£"
 
@@ -175,3 +175,20 @@
  
  mem_food_constructor_debuff_0:1 "年复一年的摧残"
 
+ mem_reesan_habitat_ruined:0 "被毁的瑞森栖息地"
+ mem_reesan_habitat_ruined_DESC:0 "这种结构曾经是瑞森企业的中心，也是许多人的家。巨大的互锁环早已断裂，其核心的电源已经熄灭，但它可以恢复。"
+ mem_reesan_habitat_ruined_MEGASTRUCTURE_DETAILS:0 ""
+ mem_reesan_habitat_ruined_CONSTRUCTION_INFO_DELAYED:0 ""
+ mem_reesan_habitat_restored:0 "重新恢复的瑞森栖息地"
+ mem_reesan_habitat_restored_DESC:0 "栖息地已经重建，其核心的能量重新点燃，使该结构能重获生机。"
+ # Those two lines don't actually seem to do anything, but might be useful, just in case.
+ mem_reesan_habitat_restored_MEGASTRUCTURE_DETAILS:0 "$habitat_0_MEGASTRUCTURE_DETAILS$"
+ mem_reesan_habitat_restored_CONSTRUCTION_INFO_DELAYED:0 "$habitat_0_CONSTRUCTION_INFO_DELAYED$"
+
+ d_mem_reesan_ring:0 "专有瑞森超级结构物"
+ d_mem_reesan_ring_desc:0 "环绕空间站的可居住带，为建造而优化。力场发生器确保了额外的稳定性。"
+ d_mem_reesan_core:0 "瑞森核心"
+ d_mem_reesan_core_desc:0 "在收容区域内捕获的微奇点为该站提供了有效且可访问的电源。"
+
+ mem_requires_voidborn_ap: "§R需要 §Y$ap_voidborn$§R 飞升或 §Y$tech_mega_engineering$§R Technology.§!"
+ mem_requires_starbase_4_tech: "§R需要 §Y$tech_starbase_4$§R 或 §Y$tech_mega_engineering$§R 科技.§!"

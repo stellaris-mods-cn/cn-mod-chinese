@@ -51,6 +51,7 @@ ACOT_POINT_DEFENSE_SE: "点防御系统"
 ACOT_POINT_DEFENSE_SE_DESC: "日益强大的导弹和攻击艇要求我们采取不同的对策。我们以能源为基础的点防御现在已经调整为强大的、缓慢发射的远程防御屏障，这些屏障可以为战斗本身做出更大贡献。"
 
 ACOT_ARC_EMITTER_SE: "星状体能量放电器"
+ACOT_ARC_EMITTER_SE_TITAN: "聚焦钨铬钴合金能量释放器"
 ACOT_ARC_EMITTER_SE_DESC: "新一代发射体采用了一种基于星状体技术的新设计。然而，这个概念在很大程度上仍然是相同的，一种能够发射强大能量的武器，绕过盾牌和盔甲。"
 
 ACOT_PERDITION_BEAM_SE: "毁灭之光"
@@ -258,7 +259,7 @@ damage_vs_country_type_ascended_empire_mult: "对巅峰帝国的伤害"
 damage_vs_country_type_lost_empire_mult: "对失落帝国的伤害"
 damage_vs_country_type_original_empire_mult: "对始源帝国的伤害"
 
-shipize_colossus_hull_add: "巨像船体增加"
+shipsize_colossus_hull_add: "巨像船体增加"
 
 ORIGIN_PLANET_KILLER_NANITE: "纳米清洁剂"
 ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洁剂是原帝国可怕的武器，它可以迅速地用纳尼特改造和清洗整个世界。"
@@ -385,8 +386,66 @@ tech_stellarite_weapon_core_desc: "超聚焦星核将周围材料的多余能量
 tech_warp_stellarite_cannon: "核武化变形技术"
 tech_warp_stellarite_cannon_desc: "纯粹的动能能做的也就只有这么多了，随着舰船保护和防御力量的不断增强，以及能源武器在该领域迅速占据主导地位，我们的科学家正在寻找更好的方法来改善我们目前的质量加速器。虽然这个概念听起来很奇怪也很愚蠢，但是有可能将整个加农炮变成一个强大的“战壕发生器”，它可以撕裂空间结构，将弹头送入敌舰内部，绕过护盾，完全行驶一段距离。现在唯一的问题是，如何在保持弹丸速度和速度的同时做到这一点?"
 
+ACOT_TITAN_CANNON_SE: "泰坦曲速星炮"
+ACOT_TITAN_CANNON_SE_DESC: "想象一下向敌舰内部发射一颗微型恒星……然后想象一下向那艘船发射一颗即将变成超新星的恒星……把这幅画吗?"
+
+tech_stellarite_titan_accelerator: "大型曲速加农炮"
+tech_stellarite_titan_accelerator_desc: "在更大的舰船上，有更强的发电机和更大的空间来放置脊炮，在发射武器之前，可以用挥发性星状石能量给炮弹增压到临界水平。这需要很长时间，但会产生同样破坏性的结果。"
+
 tech_computer_stellarite: "恒星战斗分析器"
 tech_computer_stellarite_desc: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
 
-tech_stellarite_nexus: "星状体能源管道"
+tech_stellarite_nexus: "星状体能量核心"
 tech_stellarite_nexus_desc: "通过对奇异发生器做一些改变，我们应该能够调整并操纵能量场，将暗能量转化为星状能量。安全回流要求这个过程应该自动化。"
+
+tech_stellarite_army: "星状体动力设备"
+tech_stellarite_army_desc: "军队武器，手持设备和由星状星能量驱动的动力服。我们将把第二个太阳带到敌人的地面防御工事上。"
+
+stellarite_army: "σ净化器"
+stellarite_army_desc: "这些士兵装备有σ战斗装备，并拥有广泛的火炮和空中支援，使他们能够用灼热的热量清理战场。"
+
+stellarite_bomberman: "太阳炸弹"
+stellarite_bomberman_desc: "这些天他们有时间进行地面战斗。"
+
+tech_stellarite_bomberman: "星状阵雨"
+tech_stellarite_bomberman_desc: "有时候你就是懒得用军队入侵敌人的星球。既然我们可以在敌人的堡垒上投下一颗星，为什么还要拿我们士兵的生命冒险呢?"
+
+tech_stelar_advanced_ships: "星状体船舶设计"
+tech_stelar_advanced_ships_desc: "星状体能源的出现使我们能够大大减少每艘船的主反应堆所需的空间，使我们能够开发出更坚固的船体。"
+
+STELLAR_COLONIZATION_SECTION: "Stellar Colonyman"
+STELLAR_SCIENCESHIP_SECTION: "Stellar Doctor"
+STELLAR_CONSTRUCTION_SECTION: "Stellar SCV"
+
+STELLAR_CORVETTE_MID_A: "Stellar Corvette A"
+STELLAR_CORVETTE_MID_B: "Stellar Corvette B"
+STELLAR_CORVETTE_MID_C: "Stellar Corvette C"
+
+STELLAR_DESTROYER_BOW_1: "Stellar Destroyer Bow A"
+STELLAR_DESTROYER_BOW_2: "Stellar Destroyer Bow B"
+STELLAR_DESTROYER_BOW_3: "Stellar Destroyer Bow C"
+STELLAR_DESTROYER_STERN_1: "Stellar Destroyer Stern A"
+STELLAR_DESTROYER_STERN_2: "Stellar Destroyer Stern B"
+STELLAR_DESTROYER_STERN_3: "Stellar Destroyer Stern C"
+
+STELLARITE_CRUISER_BOW_1: "Stellar Cruiser Bow A"
+STELLARITE_CRUISER_BOW_2: "Stellar Cruiser Bow B"
+STELLARITE_CRUISER_MID_1: "Stellar Cruiser Mid A"
+STELLARITE_CRUISER_MID_2: "Stellar Cruiser Mid B"
+STELLARITE_CRUISER_MID_3: "Stellar Cruiser Mid C"
+STELLARITE_CRUISER_STERN_1: "Stellar Cruiser Stern A"
+STELLARITE_CRUISER_STERN_2: "Stellar Cruiser Stern B"
+
+STELLARITE_BATTLESHIP_BOW_1: "Stellar Battlleship Bow A"
+STELLARITE_BATTLESHIP_BOW_2: "Stellar Battlleship Bow B"
+STELLARITE_BATTLESHIP_BOW_3: "Stellar Battlleship Bow C"
+STELLARITE_BATTLESHIP_MID_1: "Stellar Battlleship Mid A"
+STELLARITE_BATTLESHIP_MID_2: "Stellar Battlleship Mid B"
+STELLARITE_BATTLESHIP_MID_3: "Stellar Battlleship Mid C"
+STELLARITE_BATTLESHIP_STERN_1: "Stellar Battlleship Stern"
+
+STELLARITE_TITAN_BOW_1: "Stellar Titan Spinal Bow"
+STELLARITE_TITAN_BOW_2: "Stellar Titan Supercarrier Bow"
+STELLARITE_TITAN_MID: "Stellar Titan Mid"
+STELLARITE_TITAN_STERN: "Stellar Titan Stern"
+

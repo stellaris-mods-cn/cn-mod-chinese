@@ -191,7 +191,7 @@ tech_super_assembly: "超级组装"
 tech_super_assembly_desc: "我们的机器人专家总是认为只有一个机器人师在一个小建筑上工作，为整个世界生产机器人，这是一个愚蠢而可怕的决定。现在是我们补救那个愚蠢和愚蠢的问题的时候了。说真的，我们以前为什么不考虑这个？"
 
 tech_super_assembly_ae: "纳米组装"
-tech_super_assembly_ae: "即使增加了工作人员，我们的机器人生产似乎也受到设备大小的限制。但是有了纳米机器技术，我们现在可以使制造者和制造商的数量翻倍。哔-啵。你是一个机器人，你在这里做无聊的工作，所以我们可以做一些有趣的事情。"
+tech_super_assembly_ae_desc: "即使增加了工作人员，我们的机器人生产似乎也受到设备大小的限制。但是有了纳米机器技术，我们现在可以使制造者和制造商的数量翻倍。哔-啵。你是一个机器人，你在这里做无聊的工作，所以我们可以做一些有趣的事情。"
 
 tech_dark_matter_synthersizer: "黑洞合成"
 tech_dark_matter_synthersizer_dec: "我们现在有了一种可靠的技术，可以潜在地合成一个城市大小的黑洞，而不会对地球其他地方造成任何危险。这将允许我们大量地提取暗物质和暗能量。这座大楼是自动化的，但维护保养却相当高。"
@@ -287,7 +287,7 @@ requires_building_fe_capital_machine: "为了进一步改善这座建筑，需�
 building_stellarite_generator: "星状体发电机"
 building_stellarite_generator_desc: "很壮观，不是吗?创造一颗人造的恒星，在那里我们可以提取它的力量来满足我们内心的欲望。我们所有的反对意见都将化为泡影。地狱是的!"
 
-building_stellarite_nexus: "星状体能源管道"
+building_stellarite_nexus: "星状体能量核心"
 building_stellarite_nexus_desc: "将场强增加到10级在技术上仍然在可接受的参数范围内。距离核选项还有20级。"
 
 building_fe_clone_vats: "先进的克隆大桶" 

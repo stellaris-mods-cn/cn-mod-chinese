@@ -1,4 +1,4 @@
-﻿
+﻿######################################################
 # Space Monster Attacks
 # Text by Malthus
 # Code by Malthus
@@ -9,11 +9,11 @@ l_simp_chinese:
  mem_crystal_ship_giant:0 "古代水晶王"
  mem_crystal_ship_giant_plural:0 "古代水晶王"
  
- mem_crystal_harvest:0 "晶体收获"
- mem_crystal_harvest_desc:0 "定期采集这些晶体会使这个群落的矿物产量最大化，同时显著减少其农业产量。"
+ d_mem_crystals_mining:0 "晶体场"
+ d_mem_crystals_mining_desc:0 "一个覆盖着由一个古老的太空水晶产生的半活矿物结构的区域。定期收获这些晶体将显着提高该殖民地的矿物产量，但代价是生态系统衰弱和农业产量减少。"
  
- mem_crystal_study:0 "晶体研究"
- mem_crystal_study_desc:0 "研究这些晶体将有利于这个群体的研究工作，同时大幅减少其矿物和农业产出。"
+ d_mem_crystals_science:0 "晶体场"
+ d_mem_crystals_science_desc:0 "覆盖有由一种古老的太空晶体催生的半活矿物地层的恒丰区域。研究这些晶体将有利于殖民地的研究工作，同时降低其矿物和农业产量。"
  
  mem_crystal_removal:0 "晶体去除"
  mem_crystal_removal_desc:0 "这块殖民地的大部分努力都是为了清除已经遍布星球的水晶侵扰。"

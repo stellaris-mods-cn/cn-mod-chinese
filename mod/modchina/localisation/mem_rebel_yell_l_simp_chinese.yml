@@ -1,0 +1,97 @@
+﻿# Rebel Yell
+# By ViolentBeetle
+
+l_simp_chinese:
+ 
+ pc_mem_broken_city: "$pc_broken$"
+ pc_mem_broken_city_desc: "这个星球曾经有一个巨大的城市覆盖了它的整个表面，但是某种灾难性的事件把这个星球撕裂了。 \n\n从轨道上仍然可以看到大量生态建筑的遗迹，它们被巨大的力量扭曲和撕裂。"
+ 
+ mem_rebel_yell.1.name: "闹鬼的星系"
+ mem_rebel_yell.1.desc: "[From.GetName]星系似乎包含了大规模交战的剩余部分。 \n\n尽管战斗已经进行了很长时间，但太空中仍然散落着大量轨道碎片。但是这个星系还有更多的东西。\n\n[Root.GetName]报告说，它检测到一个微弱的信号正在星系中广播，但尽管我们尽了一切努力，仍无法确定其来源。调查信号的来源需要更强大和更精确的设备，最好放在一个固定的前哨站。"
+ mem_rebel_yell.1.a: "多么奇怪..."
+ mem_rebel_yell.1.a.tooltip: "为了找到信号的来源，我们应该在[From.GetName]星系建造一个§S哨站§!"
+ mem_rebel_yell.1.b: "把这个星系记下来。"
+ mem_rebel_yell.1.b.tooltip: "$mem_rebel_yell.1.a.tooltip$ \n一个§Y兴趣点§!将被添加到我们的项目日志中。"
+ mem_rebel_yell.poi.1.name: "[the_system.GetName]星系"
+ mem_rebel_yell.poi.1.desc: "我们应该在这里建立并维持一个前哨站。"
+ mem_rebel_yell.2.name: "[the_system.GetName]星系中的信号"
+ mem_rebel_yell.2.desc: "我们在[the_system.GetName]星系中已经存在了很长一段时间，今天我们终于能够跟踪信号到[the_planet.GetPlanetMoon] [the_planet.GetName]。\n\n隐藏的广播在重复时发送相同的加密消息，通过接近原点的研究，我们应该能够了解更多。"
+ mem_rebel_yell.2.a: "我们必须弄清事情的真相。"
+ mem_rebel_yell.2.b: "忘记它吧。"
+ mem_rebel_yell.3.name: "Rebel Yell"
+ mem_rebel_yell.3.desc: "我们对[the_planet.GetName]的调查已经有了结果。[Root.GetName]能够完全记录并破译来自[the_planet.GetPlanetMoon]的信号。 \n\n该信号是一个军事广播，针对通过该星系的“抵抗舰”。 \n\n从[Leader.GetName]所能收集到的资料来看，[the_system.GetName]是大约两千年前上述抵抗运动遭受巨大失败的地方，他们与之作战的部队几乎消灭了他们。\n\n广播指示幸存者撤退到一个星系。然而，该星系的坐标与我们所知的超空间网络并不匹配。是他们错了，还是有其他方法可以到达那里?"
+ mem_rebel_yell.4.name: "在[the_system.GetName]星系发现虫洞"
+ mem_rebel_yell.4.desc: "我们对通过[the_system.GetName]星系广播的加密信号的了解，使我们能够看到隐藏在星系外围虫洞的某种干扰。也许这就是到达加密消息中指定的坐标的方法?"
+ mem_rebel_yell.4.a: "我们应该调查这个虫洞。"
+ mem_rebel_yell.4.a.tooltip: "一个新的§S虫洞§!在§Y[the_system.GetName]星系中打开§!。"
+ # mem_rebel_yell.4.b: "REPLACE_ME"
+ # mem_rebel_yell.poi.2.name: "REPLACE_ME"
+ # mem_rebel_yell.poi.2.desc: "REPLACE_ME"
+ 
+ MEM_REBEL_YELL_RESOLVE_SIGNAL: "解码信号"
+ MEM_REBEL_YELL_RESOLVE_SIGNAL_DESC: "这个奇怪的信号来自§Y[the_planet.GetName]§!，然后在星系周围反弹以隐藏其来源。我们应该接近它的来源，研究它，并有希望破译它。"
+ 
+ mem_rebel_yell_poi_chain_title: "闹鬼的星系"
+ mem_rebel_yell_poi_chain_desc: "一个微弱的信号正围绕着[the_system.GetName]星系。在那里设立前哨站应该能让我们最终发现更多东西。"
+ 
+ mem_rebel_yell_investigation_chain_title: "秘密信号"
+ mem_rebel_yell_investigation_chain_desc: "一个微弱的信号正围绕着[the_system.GetName]星系，我们应该弄清事情的真相。"
+ 
+ mem_rebel_yell_paladin:0 "$battleship$"
+ mem_rebel_yell_paladin_plural:0 "$battleship_plural$"
+ shipsize_mem_rebel_yell_paladin_construction_speed_mult:0 ""
+ shipsize_mem_rebel_yell_paladin_build_cost_mult:0 ""
+ shipsize_mem_rebel_yell_paladin_upkeep_mult:0 ""
+ mem_rebel_yell_knight:0 "拦截器"
+ mem_rebel_yell_knight_plural:0 "拦截器"
+ shipsize_mem_rebel_yell_knight_construction_speed_mult:0 ""
+ shipsize_mem_rebel_yell_knight_build_cost_mult:0 ""
+ shipsize_mem_rebel_yell_knight_upkeep_mult:0 ""
+ 
+ mem_rebel_yell_paladin_section_key:0 ""
+ mem_rebel_yell_knight_section_key:0 ""
+ 
+ MEM_REBEL_YELL_XL_WEAPON: "高能外来粒子冲击器"
+ MEM_REBEL_YELL_M_WEAPON: "外来粒子撞击器"
+ 
+ mem_rebel_yell.5.name:0 "最后的堡垒"
+ mem_rebel_yell.5.desc:0 "在虫洞的另一边，我们发现了一支小型舰队驻扎在其中一颗行星的轨道上。这似乎是抵抗运动失败后撤退的地方。 \n\n尽管年事已高，但这些船只的状况相当良好，装备精良。动力信号仍然可以在飞船内探测到——我们应该谨慎接近。"
+ mem_rebel_yell.7.desc:0 "停下！你是谁?你为什么要向我的飞船开火?别对我的船开枪!表明你的身份!"
+ mem_rebel_yell.7.a:0 "你先向我们开火的，你是谁?"
+ mem_rebel_yell.8.desc:0 "好吧，你看起来不像…他们，那就放心了。 \n\n我是[princess_species.GetName]王国的[princess.GetName]。我父亲曾经领导银河系与自称为瓦祖兰的生物进行了一场殊死搏斗。我们失败了。我们的舰队被摧毁，我们的世界一个接一个地沦陷。 \n\n最终，我们被迫撤退到一个隐蔽的星系，这里。我们希望会有更多的幸存者来，但没有人来。一旦我们的补给开始耗尽，我们就把船的控制权移交给一个自动保管员，让自己进入低温睡眠状态。随着时间的推移，睡眠舱出现故障，或者不得不关闭，以保存电力和保存最重要的人员。最终只剩下排名最高的幸存者。那就是我。 \n\n你的攻击似乎使我们的人工智能系统瘫痪，迫使我紧急苏醒。 \n\n飞船的系统失灵了，我的时间不多了。在这个星系里没有我的容身之地。无论你是谁，我愿意以我的忠诚和我的旗舰来换取你的拯救。"
+ mem_rebel_yell.8.a:0 "我们接受你的提议。"
+ mem_rebel_yell.8.b:0 "我们会救你，但要毁了这艘船。"
+ mem_rebel_yell.8.c:0 "我们可以用你的船。而不是你。"
+ mem_rebel_yell.8.d:0 "我们不需要你和你的飞船。"
+ mem_rebel_yell.8.e:0 "瓦祖兰?我们也遇到了他们。"
+ mem_rebel_yell.8.e.response:0 "在我们落入这些怪物的魔掌多年之后，它们仍然在威胁着银河系，这让我非常痛苦。 \n\n但我早该料到。似乎没有什么能阻止他们。"
+ 
+ mem_rebel_yell_custodian_trait:0 "电阻托管人"
+ mem_rebel_yell_custodian_trait_desc:0 "这个人工智能系统已经被用来管理一支休眠的舰队。抵抗运动万岁!"
+ mem_rebel_yell_recon_custodian_trait:0 "抗侦察托管人"
+ mem_rebel_yell_recon_custodian_trait_desc:0 "这个人工智能系统已经被派去管理一个侦察舰队，而船员们却不舒服。抵抗运动万岁!"
+ mem_rebel_yell_princess_trait:0 "叛逆的公主"
+ mem_rebel_yell_princess_trait_desc:0 "一位经验丰富的武士公主，曾率领皇家舰队对抗瓦祖兰的威胁。"
+ 
+#  The anomaly is now attached to Stuck in Glacier
+#  mem_rebel_yell_silver_lining_category:0 "Silver Lining"
+#  mem_rebel_yell_silver_lining_category_desc:0 "We are detecting the presence of a large metallic object within the asteroid ice of [This.GetName]. The profile matches the shape of a military space ship."
+ 
+ mem_rebel_yell.9.name:0 "一线希望"
+ mem_rebel_yell.9.desc:0 "[Root.GetName]证实了最初的理论，即[From.GetName]冰壳内的物体是一艘船。据推测，它大约在两千年前降落在火星表面，后来被冰层覆盖。找回这艘船是件棘手的事，但这不是我们的建筑船所不能做的。"
+ mem_rebel_yell.9.a:0 "开始吧。"
+ mem_rebel_yell.10.name:0 "迷失骑士"
+ mem_rebel_yell.10.desc:0 "[Root.GetName]报告说，从[From.GetName]打捞一艘船的努力是成功的。根据船上的日志判断，这艘船是一艘“银色骑士”级拦截机，在执行巡逻任务时，它被迫躲在小行星上以躲避更强大的敌人。飞行员躲在一个停滞室里，当电源耗尽时死亡。 \n\n尽管在一颗冰小行星内停留了很长一段时间，但这艘飞船的状态非常好，可以投入使用。它拥有一些非正统设计的武器。"
+ mem_rebel_yell.10.a:0 "使这艘船投入使用。"
+ mem_rebel_yell.10.a.tooltip:0 "获得一艘新战舰。"
+ mem_rebel_yell.10.b:0 "把战船报废换零件。"
+ mem_rebel_yell.10.c:0 "拆船作研究用。"
+ 
+ MEM_REBEL_YELL_RECOVER_SHIP:0 "打捞冰冻的船"
+ MEM_REBEL_YELL_RECOVER_SHIP_DESC:0 "在[the_asteroid.GetName]厚厚的冰层里，我们发现了一艘飞船的存在。我们应该能够在工程船上使用专门的设备来切割它。"
+ 
+ mem_rebel_yell_knight_salvage_section_key: ""
+ 
+ mem_rebel_yell.12.name: "入侵警报"
+ mem_rebel_yell.12.desc: "我们在[signal_system.GetName]星系中探测到敌方舰队。它似乎是出于某种未知的目的从虫洞进入的。"
+ mem_rebel_yell.12.a: "作战部!"

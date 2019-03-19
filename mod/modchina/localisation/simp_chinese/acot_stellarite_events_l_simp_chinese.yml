@@ -1,0 +1,60 @@
+﻿l_simp_chinese:
+
+stellarite_events.1.name: "星状体?什么是星状体???"
+stellarite_events.1.desc: "我们有一个有趣的情况。显然，我们的一位科学家声称，在用我们先进的谜一样的传感器扫描了一段时间的能量信号后，发现了一种新型的能量。科学家声称，恒星的能量可以转化为一种比暗物质更高级的能量源。\n\n我们还不能证实这一说法的真实性，因为这似乎与太阳能有关。甚至在我们的帝国有能力进行太空旅行之前，我们就已经知道了。"
+stellarite_events.1.a: "有意思，我们应该探索一下。"
+stellarite_events.1.b: "太阳能已经有几百年的历史了，傻瓜。"
+ 
+RESEARCH_STELLARITE_POWER: "明星的到来"
+RESEARCH_STELLARITE_POWER_DESC: "来自我们帝国各地的科学家将聚集在一起，就这个新能源的真相展开辩论。要证实这种大胆的说法还需要相当长的时间。"
+
+RESEARCH_STELLARITE_POWER_AGAIN: "第二个太阳"
+RESEARCH_STELLARITE_POWER_AGAIN_DESC: "我们的一些科学家仍然相信在这个新的能源中有一定的可能性。第二项公约将进一步探讨，但这将花费令人痛苦的长时间。"
+
+RESEARCH_STELLARITE_COMPONENTS: "太阳之子"
+RESEARCH_STELLARITE_COMPONENTS_DESC: "我们仍在探索星状体力量的所有可能的战斗应用。为我们选定的领域设计蓝图将花费相当多的时间。"
+
+RESEARCH_STELLARITE_COPY: "跟随趋势"
+RESEARCH_STELLARITE_COPY_DESC: "有人刚刚发现了新玩具，所以自然最好的做法就是为了我们自己的利益去偷。Mwa哈哈哈哈。"
+
+stellarite_events.2.name: "恒星"
+stellarite_events.2.desc: "确认了!经过几次失败的实验，该团队已经完成了一个基于太阳能的新型电源的原型。在一个更先进和更大的规模上，!§H星状星之力§!!\n\n这是一种真正利用恒星全部潜能的力量，而不是像过去的普通太阳能那样只是借用它。星辰就在我们的掌握之中。"
+
+stellarite_events.3.name: "傻瓜"
+stellarite_events.3.desc: "不幸的是，科学团队得出的结论是，这种可怕的力量并不存在。这位科学家很可能指的是太阳能，但我们都知道这一点。没有什么让人印象深刻。"
+stellarite_events.3.a: "这是不可能的!我们必须挖得更深。"
+stellarite_events.3.b: "真是浪费我们的时间和精力。"
+ 
+stellarite_events.4.name: "懦夫!傻瓜!"
+stellarite_events.4.desc: "在无数次试图证明这种力量存在的尝试失败后，这些愚蠢的科学家收拾行囊，羞愧地离开了实验室，以避免被我们其他帝国所效仿。显然，这些人辜负了我们。"
+stellarite_events.4.a: "我们应该把……他们的财产。"
+
+  
+stellarite_events.5.name: "压倒性的力量!"
+stellarite_events.5.desc: "完成了!我们已经完成了星状体反应堆的大规模生产。随着这项新发明的出现，未来将有多种应用于各种战斗的终端，我们应该立即开始探索它们!"
+stellarite_events.5.a: "让我们开始吧!"
+ 
+stellarite_events.6.name: "通往黎明之门"
+stellarite_events.6.desc: "我们准备好开始探索了"
+stellarite_events.6.a: "定向光束和能量武器!皮尤尤尤!"
+stellarite_events.6.a.desc: "这将解锁与激光、等离子体、光矛和毁灭光束相关的武器。"
+stellarite_events.6.b: "自始至终!迫使我们的敌人屈服!"
+stellarite_events.6.b.desc: "这将解锁与自动加农炮、高斯炮、火炮和硬光有效载荷相关的动能武器。"
+stellarite_events.6.c: "命运眷顾勇敢者。使用渗透技术。"
+stellarite_events.6.c.desc: "这将解锁与导弹、干扰物和发射器相关的武器。"
+stellarite_events.6.d: "进攻是最好的防御。他们杀不死就打不死。"
+stellarite_events.6.d.desc: "这将解锁与护盾、装甲和点防御系统相关的组件。"
+stellarite_events.6.e: "质量重于数量，我们只是需要更好的船。"
+stellarite_events.6.e.desc: "这将解锁舰船部件，如推进器，战斗电脑，传感器，跃迁引擎。"
+stellarite_events.6.f: "让我们更有策略一点，建筑，舰船区域和军队呢?"
+stellarite_events.6.f.desc: "这将解锁独特的星际军队，建筑和先进的舰船部分。"
+stellarite_events.6.g: "我们有我们所需要的一切。不需要更多的东西了。"
+stellarite_events.6.g.desc: "如果你是在一个旧的游戏存档里，并已拥有所有的星状体技术，选择这个选项。但请记住，添加有几个新的技术。"
+
+stellarite_events.8.name: "明日之后"
+stellarite_events.8.desc: "我们已经完成了我们的星状体技术的新原理图的定稿，所有相关产品已经准备好批量生产和现场测试。"
+stellarite_events.8.a: "精益求精!"
+
+stellarite_events.9.name: "昨日之后"
+stellarite_events.9.desc: "我们收到报告说有一种新型的力量正在被使用，叫做太阳能或星状体之类的。报告相当不可靠。但这似乎很不寻常。让他们单独拥有这些技术将是一种浪费。我们应该复制他们的设计，毕竟……"
+stellarite_events.9.a: "你的就是我的，我的也还是我的。"

@@ -164,6 +164,19 @@ l_simp_chinese:
  mem_sadrell.1104.name: "研究前哨"
  mem_sadrell.1104.desc: "在[From.GetName]上被[This.GetName]恢复的大量工件都和§Y萨德雷尔§!有关，他们是曾经居住在这里的物种。\n\n这颗[From.GetPlanetMoon]星球似乎主要用于教育和科学研究，但其中大部分在过去的某些时候被轨道轰击所摧毁。 一个相对完整的校区仍然隐藏在偏远的山谷中。"
  mem_sadrell.1104.a.tooltip: "£building  §Y$building_mem_sadrell_research_lab$§!在行星表面被发现。"
+
+ mem_sadrell.1200.name: "虚空之家被摧毁"
+ mem_sadrell.1200.desc.normal: "在[FROMFROMFROM.Solar_System.GetName]星系的交战期间，我们的部队摧毁了一座属于[From.GetName]的可居住空间站. \n\n所有居住者在战争中死亡，而空间站被还原为可打捞的碎石。"
+ mem_sadrell.1200.desc.ass: "在与[From.GetAdj]部队交战期间，我们摧毁了在[FROMFROMFROM.Solar_System.GetName]星系中的一个可居住空间站。这里的废墟将提供各种有价值的打捞物。"
+ mem_sadrell.1200.pac: "多么可怕的生命损失。"
+ mem_sadrell.1200.mil: "非常好。"
+ mem_sadrell.1200.auth: "这将教会他们一些尊重。"
+ mem_sadrell.1200.pur: "更多死掉的异族。太棒了！"
+ mem_sadrell.1200.term: "有机空间站被终结"
+ mem_sadrell.1200.swarm: "HAK! HAK! HAK!"
+
+ #OPINIONS
+ mem_sadrell_void_home_wrecker: "虚空之家破坏者 "
  
  # Anomalies
  mem_sadrell_toxic_terraform_category: "穿过雾气"
@@ -224,7 +237,7 @@ l_simp_chinese:
  mem_sadrell_watery_planet_desc: "萨德雷尔文明的遗迹仍能在海洋表面下找到。"
  mem_sadrell_science_planet: "萨德雷尔科研中心"
  mem_sadrell_science_planet_desc: "许多古老的萨德雷尔科研中心仍然凌乱散步在星球表面。"
- mem_sadrell_austerity: "Sadrell Austerity"
+ mem_sadrell_austerity: "萨德雷尔紧缩"
  
  # Ships
  mem_sadrell_void_home:0 "生活空间站"
