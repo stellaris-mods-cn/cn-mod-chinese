@@ -230,13 +230,13 @@
  d_mana_plains:0 "魔力场"
  d_mana_plains_desc:0 "结晶魔法在这些领域中缓慢生长。"
 
- mod_building_mana_harvester_max:0 "Max $building_mana_harvester$"
- mod_building_tempest_appeasement_max:0 "Max $building_tempest_appeasement$"
- mod_building_magizoologist_department_max:0 "Max $building_magizoologist_department$"
- mod_building_dragon_preserve_max:0 "Max $building_dragon_preserve$"
- mod_building_giant_liason_max:0 "Max $building_giant_liason$"
- mod_building_magic_storm_facility_max:0 "Max $building_magic_storm_facility$"
- mod_building_ritual_site_max:0 "Max $building_ritual_site$"
+ mod_building_mana_harvester_max:0 "最大$building_mana_harvester$"
+ mod_building_tempest_appeasement_max:0 "最大$building_tempest_appeasement$"
+ mod_building_magizoologist_department_max:0 "最大$building_magizoologist_department$"
+ mod_building_dragon_preserve_max:0 "最大$building_dragon_preserve$"
+ mod_building_giant_liason_max:0 "最大$building_giant_liason$"
+ mod_building_magic_storm_facility_max:0 "最大$building_magic_storm_facility$"
+ mod_building_ritual_site_max:0 "最大$building_ritual_site$"
 
  ####################################
  # Decisions

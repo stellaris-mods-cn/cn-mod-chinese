@@ -440,7 +440,7 @@ sofe_gateway.401.desc.eternal: "我不知道也不关心你来自哪个维度，
 sofe_gateway.401.eternal.a: "走开，你在浪费所有人的时间。"	
 sofe_gateway.401.eternal.b: "你想指挥我们?滚开，你们这些原始人。"	
 
-sofe_gateway.401.desc.myself: "哟，糟透了。[root.GetRulerName]这是我，§H[root.GetRulerName]§!，我从另一个星际会议来警告你，已经到了游戏的中期，愚蠢的§Y外星门§!将开始引起bug，故障和崩溃。马上关掉游戏。去吃点东西，或者做点别的什么?\n\n哦，对了，顺便说一下，在我的课上，我要被始源擦干了，所以你知道…不要擦拭。哈哈哈\n\n再见!记住,迷因。只有Chirumiru ShiRoZ才能制造出这样一个充满的愚蠢事件。Cioa !"
+sofe_gateway.401.desc.myself: "哟,糟透了。[root.GetRulerName]。是我,§H[root.GetRulerName]§!。我从另一个Stellaris游戏来警告您，这个游戏已经到了中期，愚蠢的§Y外星门§!开始引起bug、故障和崩溃。马上关掉游戏。去吃点东西，或者做点别的什么?\n\n对了，顺便说一下，在我的课程中，我就要被始源擦掉了，所以你知道……不要被抹杀。哈哈哈\n\n再见!记住，模因。只有Chirumiru ShiRoZ才能制造出这样一个充满模因的愚蠢事件。Cioa!"
 sofe_gateway.401.myself.a: "走开。除了我，没人命令我。等一下…"	
 sofe_gateway.401.myself.b: "别再打破第四堵墙了，你这个笨蛋。我的天。"	
 sofe_gateway.401.myself.c: "这是一个技术ALPHA，当然它也会崩溃"	

@@ -17,3 +17,5 @@ sofe_playable_oe_start_DESC: "可玩的始源帝国启动星系。\n\n从已经�
 
 personality_sofe_playable_oe_personality: "寻求真正的飞升"
 personality_sofe_playable_oe_personality_desc: "这个古老帝国的起源可以追溯到上亿年前，在第一次先祖战争之前。他们受到了来自外部的影响和时间的破坏，他们的老师，神秘的祖先的老师。\n\n他们唯一的兴趣是实现真正的飞升，就像他们的老师所展示的那样。"
+
+CANNOT_ADD_CLAIM_PLAYABLE_OE: "§R我们的首要任务是飞升，而不是毫无意义的主张。§!"

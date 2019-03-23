@@ -1,0 +1,45 @@
+﻿l_simp_chinese:
+
+ HYPERION:0 "亥伯龙神"
+ HYPERION_plural:0 "亥伯龙神"
+ 
+ HYPERION_BOW:0 "超巡洋舰船体"
+ HYPERION_STERN:0 "超巡洋舰船体"
+ 
+ HYPERION_COMBAT_COMPUTER_LINE_1:0 "基本作战计算机"
+ HYPERION_COMBAT_COMPUTER_LINE_2:0 "作战计算机（线列）"
+ HYPERION_COMBAT_COMPUTER_LINE_3:0 "高级作战计算机（线列）"
+ HYPERION_COMBAT_COMPUTER_LINE_4:0 "智能作战计算机 (线列)"
+ HYPERION_COMBAT_COMPUTER_LINE_5:0 "自主舰船智能 (线列)"
+ HYPERION_COMBAT_COMPUTER_LINE_PRECOG:0 "预知接口 (线列)"
+ 
+ HYPERION_COMBAT_COMPUTER_ARTILLERY_1:0 "基本作战计算机"
+ HYPERION_COMBAT_COMPUTER_ARTILLERY_2:0 "作战计算机（炮击）"
+ HYPERION_COMBAT_COMPUTER_ARTILLERY_3:0 "高级作战计算机（炮击）"
+ HYPERION_COMBAT_COMPUTER_ARTILLERY_4:0 "智能作战计算机 (炮击)"
+ HYPERION_COMBAT_COMPUTER_ARTILLERY_5:0 "自主舰船智能 (炮击)"
+ HYPERION_COMBAT_COMPUTER_ARTILLERY_PRECOG:0 "预知接口 (炮击)"
+ 
+ HYPERION_FISSION_REACTOR:0 "裂变反应堆"
+ HYPERION_FISSION_REACTOR_DESC:0 "这种能源通过感生裂变为舰船提供能源，但同时也会生成有害的核废料。"
+ HYPERION_FUSION_REACTOR:0 "聚变反应堆"
+ HYPERION_FUSION_REACTOR_DESC:0 "核聚变可为舰船提供大量能源，且不会有裂变那样的危险。"
+ HYPERION_COLD_FUSION_REACTOR:0 "冷核聚变反应堆"
+ HYPERION_COLD_FUSION_REACTOR_DESC:0 "在相对低温下维持核聚变的技术将会催生新一代的舰载聚变反应堆。"
+ HYPERION_ANTIMATTER_REACTOR:0 "反物质反应堆"
+ HYPERION_ANTIMATTER_REACTOR_DESC:0 "通过利用正反物质结合产生的能源，我们生成舰船能源的效率将会远超核聚变。"
+ HYPERION_ZERO_POINT_REACTOR:0 "零点反应堆"
+ HYPERION_ZERO_POINT_REACTOR_DESC:0 "这些发电机能够从真空中获取能源，可以几乎无限地为舰船供能。没有比这更有效率的发电方式了。"
+ HYPERION_DARK_MATTER_REACTOR:0 "暗物质反应堆"
+ HYPERION_DARK_MATTER_REACTOR_DESC:0 "这些发电机似乎以某种方式直接从暗物质中获取能量，提供的能量超过了根据物理学定律应该提供的能量。"
+ 
+ HYPERION_SHIP_THRUSTER_1:0 "化学推进器"
+ HYPERION_SHIP_THRUSTER_1_DESC:0 "设计简单且效率一般，通过常规燃料产生动力的化学推进器。"
+ HYPERION_SHIP_THRUSTER_2:0 "离子推进器"
+ HYPERION_SHIP_THRUSTER_2_DESC:0 "这些电动推进器是用离子波生成的推力，不需要推进剂。"
+ HYPERION_SHIP_THRUSTER_3:0 "等离子推进器"
+ HYPERION_SHIP_THRUSTER_3_DESC:0 "一种高级的推进形式，等离子推进器可以使舰体拥有更快的亚光速和更好的机动性。"
+ HYPERION_SHIP_THRUSTER_4:0 "脉冲推进器"
+ HYPERION_SHIP_THRUSTER_4_DESC:0 "在亚光速条件下，这种高度熔合状态的推进器为舰体提供了无与伦比的机动性和速度优势。"
+ HYPERION_SHIP_THRUSTER_5: 暗物质推进器
+ HYPERION_SHIP_THRUSTER_5_DESC: "这些舰船推进器利用暗物质技术，以一种似乎违反了多个物理法则的方式来产生推进力。"

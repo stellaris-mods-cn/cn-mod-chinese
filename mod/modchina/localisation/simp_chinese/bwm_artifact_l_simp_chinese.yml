@@ -71,7 +71,7 @@
  bwm_ARTIFACT_WEAPON:0 "灵能速子长矛"
  bwm_ARTIFACT_WEAPON_DESC:0 "该武器能将灵能聚集起来从而形成强大的光束，不仅可以扭曲时空，还可以带来无法想象的灾难。"
  
- bwm_artifact_cipher_chain_title:0 锁与匙"
+ bwm_artifact_cipher_chain_title:0 "锁与匙"
  bwm_artifact_cipher_chain_desc:0 "收集密码并移动到Nihara星系激活遗迹，。"
  bwm_artifact_cipher_counter:0 "密码的收集"
  

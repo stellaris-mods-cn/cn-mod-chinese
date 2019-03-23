@@ -6,7 +6,8 @@
  mod_megastructures_cost_mult:0 "巨型建筑建造成本"
  mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "点防御武器射速"
  mod_tradition_cost_empire_size_mult:0 "来自帝国规模的传统成本"
- 
+ mod_decisions_cost_mult:0 "行星决策成本"
+
 sls_physics_add_lv0:0 "物理学研究负责人"
  sls_physics_add_lv1:0 "$sls_physics_add_lv0$"
  sls_physics_add_lv2:0 "$sls_physics_add_lv0$"

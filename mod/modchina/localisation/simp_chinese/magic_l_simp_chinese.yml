@@ -95,6 +95,8 @@
  ####################################
  planet_alchemists:0 "奥法职业"
  mod_planet_alchemists_produces_mult:0 "£job_alchemist£ Alchemists Output"
+ mod_planet_alchemists_arcane_technology_produces_add:0 "£job_alchemist£ Alchemists £arcane_artifacts£ Output"
+ mod_planet_alchemists_upkeep_mult:0 "£job_alchemist£ Alchemists Upkeep"
 
  ####################################
  # 统治者职业
@@ -470,9 +472,6 @@
 
  gateway_magic:0 "这将导致应用奥法科技的进一步发展。"
 
- tech_alchemist_guilds:0 "炼金术锻造"
- tech_alchemist_guilds_desc:0 "炼金术士使用其巨大的知识嬗变特殊材料，不断制造奥法石。"
-
  tech_magical_theory:0 "奥法理论"
  tech_magical_theory_desc:0 "我们通过对魔术可以完成的基础研究开始我们的进步。"
 
@@ -610,7 +609,7 @@
 
  LIGHT_DEFIANT:0 "挑衅"
  LIGHT_NOT_DEFIANT:0 "$LIGHT_DEFIANT$"
- LIGHT_DEFANT_DESC:0 "拥有一个公开支持敌对派系的少数党将极大地惹恼[Root.GetName]。"
+ LIGHT_DEFIANT_DESC:0 "拥有一个公开支持敌对派系的少数党将极大地惹恼[Root.GetName]。"
 
  LIGHT_ASCENDANT:0 "上升"
  LIGHT_NOT_ASCENDANT:0 "$LIGHT_ASCENDANT$"
@@ -618,7 +617,7 @@
 
  DARK_DEFIANT:0 "黑暗的挑衅"
  DARK_NOT_DEFIANT:0 "$DARK_DEFIANT$"
- DARK_DEFANT_DESC:0 "$DARK_DEFIANT$"
+ DARK_DEFIANT_DESC:0 "$LIGHT_DEFIANT_DESC$"
 
  DARK_ASCENDANT:0 "黑暗的上升"
  DARK_NOT_ASCENDANT:0 "$DARK_ASCENDANT$"

@@ -1,0 +1,53 @@
+﻿l_simp_chinese:
+
+ #####################################
+ # Terran Dominion
+ ##################################### 
+
+ korhal_system_NAME:0 "克哈星系"
+ korhal_system_DESC:0 "从克哈星系开始，人族统治的领地。"
+ 
+ city_of_augustgrad:0 "奥古斯特格勒市"
+ city_of_augustgrad_desc:0 "蒙斯克的非常具有影响力的首都，在它从人族联盟的遗迹中恢复后，以纪念奥古斯都蒙斯克而命名。除了克哈皇宫和行星防御系统外，多米尼加的许多军事领导层都位于这座城市。" 
+ 
+ building_korhalpalace:0 "克哈皇宫"
+ building_korhalpalace_desc:0 "人族皇帝的皇宫。一座戒备森严的建筑，能提供包括行星入侵防御的众多功能。"
+ 
+ civic_terran_dominion:0 "人族武装部队"
+ civic_terran_dominion_desc:0 "人族军队是银河系中最通用和最具适应性的部队之一。装备有CMC动力战斗服、包围坦克、灵能增强型幽灵特工和大型作战机器，它们非常适合应付任何入侵。人族结构也是高度移动和模块化的，这降低了他们的维护成本。简言之，人类工程学有一种技巧，可以在需要的时候改进技术。解锁§Y灵能理论§!和 §Y动力外骨骼§!."   
+ 
+ #####################################
+ # Terran
+ #####################################
+ 
+ terran:0 "人族"
+ terran_desc:0 "人族联合"
+ terran_adj:0 "人族"
+ terran_plural:0 "人族"
+ terran_insult_01:0 "蛮横的人族"
+ terran_insult_plural_01:0 "狂傲的人族"
+ terran_compliment_01:0 "荣光皇帝"
+ terran_compliment_plural_01:0 "克哈之子"
+ terran_spawn:0 "人族之子"
+ terran_spawn_plural:0 "人族之子"
+ terran_sound_01:0 "咆哮"
+ terran_sound_02:0 "咕噜"
+ terran_sound_03:0 "狂吠"
+ terran_sound_04:0 "恸哭"
+ terran_sound_05:0 "啜泣"
+ terran_organ:0 "包围坦克"
+ terran_mouth:0 "攻城坦克"
+ 
+ 
+ #####################################
+ # Flags
+ #####################################  
+ 
+ FLAG_CATEGORY_Terran:0 "泰伦帝国"
+ 
+ #####################################
+ # Namelists
+ #####################################  
+ 
+ name_list_terran:0 "泰伦帝国"
+ 

@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
-l_simp_chinese:
 
 ORIGIN_ESCORT_KEY: "欧米伽级护航舰中心"
 ORIGIN_ESCORT_MID_KEY: "欧米伽级护航舰水晶塔A"
@@ -38,6 +37,10 @@ aryan: "阿拉达尔"
 NAME_ORIGINAL: "始源"
 NAME_ORIGINAL_PLURAL: "始源"
 ORIGINAL: "先祖"
+COLOR_ORIGINAL: "Progenitors Colorable"
+PRE_ORIGINAL: "光之探索者"
+COLOR_PRE_ORIGINAL: "Light Seekers Colorable"
+THESAN: "有趣的殖民地"
 original_empire_ruler: "无政府主义者"
 original_empire_general: "霸主"
 original_empire_admiral: "总督"
@@ -352,14 +355,14 @@ mod_shipsize_sofe_gatekeeper_warden_hull_add: "守护者舰体值"
 progenitor_escort: "守护神"
 progenitor_escort_plural: "守护神"
 
-progenitor_battlecruiser: "Progenitor Stellarcraft"
-progenitor_battlecruiser_plural: "Progenitor Stellarcraft"
+progenitor_battlecruiser: "恒星飞船恒星飞船"
+progenitor_battlecruiser_plural: "恒星飞船恒星飞船"
 
-progenitor_titan: "Progenitor Abrogator"
-progenitor_titan_plural: "Progenitor Abrogators"
+progenitor_titan: "先祖废除者"
+progenitor_titan_plural: "先祖废除者"
 
-progenitor_avatar: "Progenitor Avatar"
-progenitor_avatar_plural: "Progenitor Avatars"
+progenitor_avatar: "先祖化身"
+progenitor_avatar_plural: "先祖化身"
 
 
 sofe_outer_gate: "外星门"
@@ -383,6 +386,9 @@ sofe_ancient_archon_plural: "古代灵能执政官"
 
 sofe_ancient_archon_servant: "古代灵能仆人"
 sofe_ancient_archon_servant_plural: "古代灵能仆人"
+
+sofe_ancient_archon_thrall: "探测警告者"
+sofe_ancient_archon_thrall_plural: "探测警告者"
 
 fe_assault_carrier: "先驱者突击航母"
 fe_assault_carrier_plural: "先驱者突击航母"
@@ -468,9 +474,9 @@ war_goal_sofe_wg_steal_keystone: "盗雨"
 war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得楔石，通过征服的权利和星之星的权利，应该是我们的。"
 
 OUTER_GATE_FABRICATE_SEAL: "捏造的楔石"
-OUTER_GATE_FABRICATE_SEAL_DESC: "我们现在可以建立一个新的基石，技术就在那里。"
+OUTER_GATE_FABRICATE_SEAL_DESC: "我们现在可以建立一个新的楔石，技术就在那里。"
 
-war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得楔石，通过征服的权利和星之星的权利，应该是我们的。"
+wg_steal_keystone_accept: "§Y[From.GetName]§!模因，减少他们的§Y$country_base_influence_produces_mult$§!(即使他们似乎从来没有使用他们的影响，无论如何，愚蠢的爷爷)和他们的pop将成为整个银河系的笑柄§Y10§!年。他们也必须把他们的§E楔石§!拱手让给§Y[Root.GetName]§!\n$wg_revoke_claims_accept$"
 
 OUTER_GATE_SECOND_SEAL: "打破第二个封印"
 OUTER_GATE_SECOND_SEAL_DESC: "当我们把楔石基座移近外星门时，它开始像预期的那样反应。我们必须保持连接直到充能完毕为止。"
@@ -523,8 +529,12 @@ tech_omega_warmech_desc: "通过对欧姆尼矩阵AI的仔细分析，我们可�
 sofe_golden_world.poi: "活跃的黄金世界"
 sofe_golden_world.poi_desc: "始源帝国正在从这些巨大的恒星世界增援他们的舰队。必须阻止他们。"
 
+##
 SOFE_LARGE_AVATAR_WEAPON: "腐败碎片"
 SOFE_LARGE_AVATAR_WEAPON_DESC: "这些器皿中的黑暗之心，在痛苦和绝望中显现，它们将与敌人分享这痛苦和绝望。"
+
+SOFE_XL_AVATAR_WEAPON: "审判之炮"
+SOFE_XL_AVATAR_WEAPON_DESC: "黑暗之心在这些容器里看到痛苦和绝望，他们将与敌人分享。"
 
 SOFE_POINT_DEFENSE_AVATAR: "暗涌"
 SOFE_POINT_DEFENSE_AVATAR_DESC: "恐惧是一种幻觉，但幻觉可以变成现实。即使是最有天赋的飞行员也无法逃脱他的船有一天会失事的想象和现实。"
@@ -537,9 +547,6 @@ SOFE_PERDITION_BEAM_AVATAR_DESC: "她的一瞥目光就足以将最强大的钢�
 
 BATTLESHIP_SHIP_THRUSTER_AVATAR: "混沌动因"
 BATTLESHIP_SHIP_THRUSTER_AVATAR_DESC: "它移动不是因为它想。它转变并不是因为它想。最后是它的主人的意志告诉它下一步会在哪里有更多的罪孽。"
-
-TITAN_SHIP_THRUSTER_AVATAR: "混沌动因"
-TITAN_SHIP_THRUSTER_AVATAR_DESC: "它移动不是因为它想。它转变并不是因为它想。最后是它的主人的意志告诉它下一步会在哪里有更多的罪孽"
 
 AVATAR_SENSOR_SHIP: "欺骗的艺术"
 AVATAR_SENSOR_SHIP_DESC: "她的眼睛中有你。你以为你能逃避，但没有人能逃避。你的一切企图在女神看来都是谎言。"
@@ -570,40 +577,95 @@ SOFE_AVATAR_COMPUTER_TITAN_DESC: "即使他们的灵魂永远毁灭，他们的�
 SOFE_AVATAR_DRIVER: "色欲传播"
 SOFE_AVATAR_DRIVER_DESC: "现实不过是幻想。它可以被篡改，也可以被修改。不存在的可以在足够的诱惑下迫使存在。"
 
+SOFE_AURA_TECH_INHIBITOR_THESAN: "无效区"
+
+SOFE_THESAN_AUX_COMA: "昏迷人"
+
+##
+
+##SOFE_LARGE_AVATAR_WEAPON: "Corrupted Shard"
+##SOFE_LARGE_AVATAR_WEAPON_DESC: "The dark hearts within these vessels seeth with torment and despair, one which they will share with the enemies."
+
+##SOFE_POINT_DEFENSE_AVATAR: "Dark Surge"
+##SOFE_POINT_DEFENSE_AVATAR_DESC: "Fear is an illusion, but can be made into reality. Not even the most gifted pilot can escape the image and reality that his ship may one day crash."
+
+##SOFE_PARTICLE_LANCE_AVATAR: "Unending Hatred"
+##SOFE_PARTICLE_LANCE_AVATAR_DESC: "Minds corrode. Body breaks. In this grimdark universe, only pain and suffering is the undeniable truth of all life."
+
+##SOFE_PERDITION_BEAM_AVATAR: "Hellgate Summoner"
+##SOFE_PERDITION_BEAM_AVATAR_DESC: "A glimpse of her gaze is enough to turn even the mightiest steel and alloy into trash, devoid of all substances. The seven pacts will be enforced upon all beings."
+
+
+
+##BATTLESHIP_SHIP_THRUSTER_AVATAR: "Chaos Motivators"
+##BATTLESHIP_SHIP_THRUSTER_AVATAR_DESC: "It moves not because it wants. It turns not because it wishes. In the end, it is the will of its master that tells where next will it commit more sins."
+
+##TITAN_SHIP_THRUSTER_AVATAR: "Chaos Motivators"
+##TITAN_SHIP_THRUSTER_AVATAR_DESC: "It moves not because it wants. It turns not because it wishes. In the end, it is the will of its master that tells where next will it commit more sins."
+
+##AVATAR_SENSOR_SHIP: "Art of Deception"
+##AVATAR_SENSOR_SHIP_DESC: "Eye have you. You think you can evade, but none evades Thesan. All your attempts are but lies in the eyes of the goddess."
+
+##LARGE_DARK_MATTER_REACTOR_AVATAR: "Shard of Terror"
+##LARGE_DARK_MATTER_REACTOR_AVATAR_DESC: "The galaxy's turmoil and grief. The people's suffering and fear. These are the fuels that which manifest illusions into realities."
+
+##HUGE_DARK_MATTER_REACTOR_AVATAR: "Shard of Terror"
+##HUGE_DARK_MATTER_REACTOR_AVATAR_DESC: "The galaxy's turmoil and grief. The people's suffering and fear. These are the fuels that which manifest illusions into realities."
+
+##SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
+
+##SMALL_SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
+##SMALL_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "Energies...need energies....Must consume....Must.....feed."
+
+##MEDIUM_SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
+##MEDIUM_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "Energies...need energies....Must consume....Must.....feed."
+
+##LARGE_SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
+##LARGE_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "Energies...need energies....Must consume....Must.....feed."
+
+##SOFE_AVATAR_COMPUTER_SNIPER: "Banner of Pride"
+##SOFE_AVATAR_COMPUTER_SNIPER_DESC: "Even with their souls forever undone, their bodies eternally corrupted. There is one thing that will always exist in their dark hearts...pride. To be chosen as her avatars is the greatest honor."
+
+##SOFE_AVATAR_COMPUTER_TITAN: "Banner of Pride"
+##SOFE_AVATAR_COMPUTER_TITAN_DESC: "Even with their souls forever undone, their bodies eternally corrupted. There is one thing that will always exist in their dark hearts...pride. To be chosen as her avatars is the greatest honor."
+
+##SOFE_AVATAR_DRIVER: "Lustful Propagator"
+##SOFE_AVATAR_DRIVER_DESC: "Realities are but illusions. It can be tampered, it can be modified. Non-existence can be forced into existence with enough temptation."
+
 
 sofe_outer_class: "外星门"
 
-sofe_inner_class: "欧米茄星世界"
+sofe_inner_class: "ω星际世界"
 
-district_sofe_omega_city: "光之堡垒"
-district_sofe_omega_city_desc: "在空虚的寒冷黑暗中，在光的温暖中寻求慰藉。让它流过身体，与群星合而为一"
+district_sofe_omega_city: "堡垒之光"
+district_sofe_omega_city_desc: "在寒冷黑暗的虚空中，在温暖的阳光中寻求慰藉。让它流过身体，与星辰融为一体"
 
 district_sofe_omega_logistics: "命运图书馆"
-district_sofe_omega_logistics_desc: "回首过去，理解古人的磨难和牺牲。永远不会忘记他们。"
+district_sofe_omega_logistics_desc: "回顾过去，了解古人的磨难和牺牲。永远不会忘记他们。"
 
 district_sofe_omega_progression: "反射塔"
-district_sofe_omega_progression_desc: "在浩瀚无情的海洋上，生命繁荣，进化自然。观察过程，理解自然规律。然后想想未来，以及未来的许多可能性。"
+district_sofe_omega_progression_desc: "在浩瀚无情的海洋上，生命蓬勃发展，进化如鱼得水。观察过程，了解自然规律。然后想想未来，以及未来的许多潜力。"
 
 tech_planet_killer_naniter: "巨石柱"
-tech_planet_killer_naniter_desc: "在古代，先祖播下了各种生命和行星的种子，但总有一天，进化会走向错误的方向，或者出现一些不该出现的东西。巨石柱就是解决这类问题的方法。这个巨大的武器将整个世界转移到一个记忆球中，有效地将这个星球从银河系中移除。居民将继续在他们的星球上生活，不构成任何威胁。\n\n如果使用不当，这的确是一种可怕的武器。"
+tech_planet_killer_naniter_desc: "在古代，先祖孕育了各种各样的生命和行星，但也有进化走错方向的时候，或者有一些事情是注定不会发生的。巨石柱这类问题的解决方案。这种巨大的武器将整个世界变成一个记忆球，有效地将行星从星系中移除。居民们将继续在他们的星球上生活，不会构成任何威胁。\n\n如果使用不当，这确实是一种可怕的武器。"
 
 ACOT_PLANET_KILLER_NANITE_ACTION: "记忆网络传输"
 
-FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$上发射巨石柱"
-MESSAGE_DESC_FOR_ACOT_PLANET_KILLER_NANITE: "被从存在中抹去"
-is_a_golden_world: "§R$TRIGGER_FAIL$不应该这样被摧毁。§!"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$上点燃巨石柱"
+MESSAGE_DESC_FOR_ACOT_PLANET_KILLER_NANITE: "从存在中抹去"
+is_a_golden_world: "§R$TRIGGER_FAIL$目标不应该这样被摧毁。§!"
 
 ACOT_PLANET_KILLER_NANITE: "巨石柱"
-ACOT_PLANET_KILLER_NANITE_DESC: "先祖的一种古代武器，用来将行星储存在一个记忆球中。这将允许这颗行星和它的居住者继续生活，同时将这颗行星完全从星系中移除。一个可怕的武器在错误的手中。"
+ACOT_PLANET_KILLER_NANITE_DESC: "一种远古先祖武器，用来把行星储存在一个记忆球里。这将允许这颗行星和它的居民继续生活，同时将这颗行星完全从银河系中移除。一个可怕的武器在错误的手中。"
 
-BASE_STELLARITE_COMBAT_COMPUTER: "恒星原型-矩阵计算机"
+BASE_STELLARITE_COMBAT_COMPUTER: "原始晶片计算机"
 BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不起眼的开始。"
 
 BASE_STELLARITE_THRUSTER: "原型推进器"
 BASE_STELLARITE_THRUSTER_DESC: "驱动我们飞船的第一个引擎。"
 
-BASE_STELLARITE_REACTOR: "星状反应堆原型"
-BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面."
+BASE_STELLARITE_REACTOR: "星状体原型反应堆"
+BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面。"
 
 PROGENITOR_ASSAULT_ESCORT_KEY: "Hunter Codex"
 PROGENITOR_ASSAULT_ESCORT_MID_KEY: "Escort Codex"
@@ -690,5 +752,5 @@ job_sofe_lifebinder_plural: "生命之索"
 job_sofe_lifebinder_desc: "每一个先祖的存在都是由两种合成构成的;活的自我和合成的自我。生命绑定者拥有神秘的知识来将生命编织进包含自我意识的生物合成体中。\n\n一变成二，二变成一。自我和全矩阵的角色被创造。然后知识被传递，新的生活…新的生命诞生了。\n\n此外，生命绑定者负责编织他们灵魂的一部分来创造不那么先进的建筑，比如守卫、看门人、猎人、工匠和看门人。"
 mod_job_sofe_lifebinder_add: "$job_sofe_lifebinder$"
 
-ACOT_AURA_SHITTY_SE: "秃顶，有一种时髦的气质"
-ACOT_AURA_SHITTY_SE_DESC: "一个暂时的光环意味着秃顶和f00lish帝国谁试图产生设计的船舶，他们无法建立。文字无法表达这个名为Chirumiru ShiRoz的实体现在有多疯狂，他捣毁键盘，制造出这个愚蠢的、完全多余的光环，因为可怕的人工智能一直在生成错误日志，因为它想设计一艘它甚至不知道如何建造的飞船。\n\n200%疯了。"
+name_list_ORIGIN: "先祖"
+name_list_ORIGIN_desc: "模因,杰克。"
