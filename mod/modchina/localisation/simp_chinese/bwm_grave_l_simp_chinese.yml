@@ -38,13 +38,13 @@
  bwm_gravekeeper.1.a:0 "这里看上去经历过一场战争。"
  
  bwm_gravekeeper.2:0 "守墓者"
- bwm_gravekeeper.2.desc:0 " [Root.GetName] 我们的船员获取了访问权限，科学家[Root.GetLeaderName] 认为这会启动空间站的安全协议并且激活空间站的防御装置（激活墓园事件，激活空间站协议会让你失去一个科研船，注意）。"
+ bwm_gravekeeper.2.desc:0 " [Root.GetName] 我们的船员获取了访问权限，科学家[Root.GetLeaderName] 认为这会启动空间站的安全协议并且激活空间站的防御装置。"
  bwm_gravekeeper.2.a:0 "还有哪里可能出问题？"
  bwm_gravekeeper.2.a.tooltip:0 "恢复 [bwm_grave_star.GetName]的运作。"
  bwm_gravekeeper.2.b:0 "让它继续沉睡。"
  
  bwm_gravekeeper.10:0 "冥府的牧羊人" 
- bwm_gravekeeper.10.desc:0 "激活成功！设施开始全面运作。就剩下几个安全协议需要解除，那么我们就会取得最高控制权限。我们的担心是徒劳的（想多了，待会准备拉科研船）。" 
+ bwm_gravekeeper.10.desc:0 "激活成功！设施开始全面运作。就剩下几个安全协议需要解除，那么我们就会取得最高控制权限。我们的担心是徒劳的。" 
  bwm_gravekeeper.10.a:0 "这只需要几天时间就可以完成。"
  
  bwm_gravekeeper.11:0 "墨菲定律" 
@@ -85,7 +85,7 @@
  bwm_gravekeeper.60.b:0 "浪费资源。"
  
  bwm_gravekeeper.61:0 "墓地觉醒"
- bwm_gravekeeper.61.desc:0 "我们科学家认为，该战舰已全面运作可以部署，在战斗情况下应该能发挥出它应有实力（随便找个敌人让它去打一下就可以升级了，注意，它升级的时候会秒杀附近的所有舰船，请注意）。"
+ bwm_gravekeeper.61.desc:0 "我们科学家认为，该战舰已全面运作可以部署，在战斗情况下应该能发挥出它应有实力。"
  bwm_gravekeeper.61.a:0 "让我们看看它能用多久。"
  bwm_gravekeeper.61.a.tooltip:0 "§Y - 警告 - 转化过程会产生高能波动。§!"
 

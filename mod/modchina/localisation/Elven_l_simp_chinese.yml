@@ -162,6 +162,7 @@ pc_elven_sanctuary_desc:0 "一个巨大的人工世界，环境可以维持大�
 pc_elven_sanctuary_tile:0 "保护区地形"
 pc_elven_sanctuary_tile_desc:0 "不同的地形，具有明显适合大多数生命形式的生物群落。"
 pc_elven_sanctuary_habitability:0 "盖亚星球宜居性"
+mod_pc_elven_sanctuary_habitability:0 "盖亚星球宜居性"
 
 #############
 ### STARS ###
@@ -198,6 +199,9 @@ trait_pc_elven_sanctuary_preference_desc:1 "§L气候偏好是由基因水平决
 elven_avari_ring_modifier:0 "阿瓦里世界"
 elven_avari_ring_modifier_desc:0 "星球上有一个人造的轨道环，它以某种方式改变了星球上任何一个人居住的地方。"
 
+elven_avari_shield_modifier:0 "阿瓦里护盾"
+elven_avari_shield_modifier_desc:0 "这个世界被一个巨大的护盾包裹着，它保护人们免受攻击，并使表面上的民众平静下来。"
+
 elven_avari_ring_relearning_100_modifier:0 "重新学习伟大"
 elven_avari_ring_relearning_100_modifier_desc:0 "我们的人民建造了伟大的阿瓦里圆环，但忘记了它是如何完成的。我们需要时间重新学习如何才能最好地利用这一令人难以置信的成就。"
 
@@ -233,8 +237,8 @@ elven_leader_events.33.desc:0 "§R[deceased_leader.GetName]§!'不健康的生�
 ### STAR CLASSES ###
 ####################
 
-sc_elven_prismatic:1 "Prismatic Star"
-sc_elven_prismatic_black_hole:1 "Prismatic Black Hole"
+sc_elven_prismatic:1 "棱镜恒星"
+sc_elven_prismatic_black_hole:1 "棱镜黑洞"
 sc_elven_binary_1:1 "$sc_binary_1$"
 sc_elven_binary_2:1 "$sc_binary_1$"
 sc_elven_binary_3:1 "$sc_binary_1$"

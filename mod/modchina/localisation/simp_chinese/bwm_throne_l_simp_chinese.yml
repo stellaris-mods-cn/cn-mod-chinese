@@ -65,7 +65,7 @@
  bwm_throne_watchers.45.b:0 "浪费资源。"
  
  bwm_throne_watchers.46:0 "太阳使者" 
- bwm_throne_watchers.46.desc:0 "我们的科学家相信战舰现已恢复运作，可以准备部署；我们应该能够在作战情况下使用它的全部功能（随便找个敌人让它打一次就可以升级，不过注意它升级的时候会秒杀附近的舰船）。" 
+ bwm_throne_watchers.46.desc:0 "我们的科学家相信战舰现已恢复运作，可以准备部署；我们应该能够在作战情况下使用它的全部功能。" 
  bwm_throne_watchers.46.a:0 "让我看看这是否有所值得。"
  bwm_throne_watchers.46.a.tooltip:0 "§Y - 警告 - 转化过程会产生高能波动。§!"
 

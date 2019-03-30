@@ -42,6 +42,52 @@ acot_diplo.8.desc.c: "看!科研船!科研船!\n\n我们的敌人躲在金属盒
 
 acot_diplo.8.a: "这太愚蠢了…召集一支救援队!"
 acot_diplo.8.b: "你敢吗? ? ?你敢???"
+
+acot_diplo.10.name: "来自太空爷爷的传入信号"
+acot_diplo.10.desc.spiritualist: "异教徒!你敢用你那亵渎神圣的堕落技术玷污神圣的暗物质技术??这一暴行不容忽视!\n\n作为唯一真信仰的神圣守卫者，我们要求你们立刻交出你们技术，否则我们将给你们这种错误的人带来神圣的惩罚!"
+acot_diplo.10.desc.materialist: "这是什么意思?[FallenEmpireTaskTarget.GetName]，你违反了《食品法典》第133337-163641页关于使用危险技术的既定规定。§R"在任何情况下，平民帝国都不应该拥有比政府更先进的技术，因为他们是平民，他们应该保持可悲的地位，而不是优越或压倒性的。"§!。\n\n我们现在必须执法，没收你们所有的技术。我们将更好地利用它们。抵抗，我们将使用致命的力量。"
+acot_diplo.10.desc.xenophile: "[FallenEmpireTaskTarget.GetName],您正在尝试使用不应该使用的技术。我们可以看到，您将使用它的恶意目的。这是我们不能允许的。我们[FallenEmpireTaskOrigin.GetName]是这个故事的英雄，因此我们有责任确保你们的错误行为不能继续下去。\n\n把这些技术还给我们，我们就不会把你写成罪犯。"
+acot_diplo.10.desc.xenophobe: "你们学到了比我们这些存在了几百万年的人更好的技术。作为你们合法的主人，我们命令并征服你们，给我们技术，我们将杀死你们。拒绝，我们就杀了你。选择是显而易见的。"
+
+acot_diplo.10.a: "蛤蛤蛤蛤蛤蛤蛤蛤蛤蛤蛤蛤!"
+acot_diplo.10.a.tooltip: "蛤蛤蛤蛤蛤蛤!\n\n它将使失落帝国觉醒并向我们宣战。"
+acot_diplo.10.a.response: "§R带, 戴 待!§!"
+
+acot_diplo.10.b: "咩,把它。它不能把你从我们可怕的愤怒中拯救出来。"
+acot_diplo.10.b.tooltip: "失落帝国将会觉醒，并获得所有先进的技术，而这些技术，他们在过去的数百万年里，不知何故都没能学会，而我们可以在短短几年内学会。但至少他们不会马上向我们宣战。"
+acot_diplo.10.b.response: "我们将看到。执行人，准备没收所有的技术，并把技术藏到我们的祖国学习。"
+
+acot_diplo.10.c: "§Y(欺骗 100)§!请把它拿走吧!别生气。"
+acot_diplo.10.c.tooltip: "我们将假装给他们提供技术，但他们几乎不知道里面的缓存装满了14类奇异炸弹，将导致大规模爆炸。\n\n很明显这将激怒他们，但谁在乎呢~。"
+acot_diplo.10.c.response: "非常好。执行人，准备没收所有的技术，并把技术藏到我们的祖国学习。"
+
+acot_diplo.13.name: "老头儿醒了"
+acot_diplo.13.desc: "银河系中发生了一件有趣的事情。显然，一定有人让[FallenEmpireTaskOrigin.GetName]非常非常生气，因为这些太空爷爷们决定不再做无用的人，并再次觉醒来夺回他们失去的荣耀。"
+acot_diplo.13.a: "是的,是的。有什么大不了的。"
+acot_diplo.13.b: "好吧，这是注定要发生的。"
+
+acot_diplo.16.desc: "不可能的!我们击败了? ?什么?什么时候?谁?如何? ? ?\n\n你被骗了!你必须!一堆像你这样的铁盒子是不可能打败我们的!"
+acot_diplo.16.a: "你们现在要把你们的技术交给我们"
+acot_diplo.16.b: "你现在必须全额赔偿给我们的损失。"
+acot_diplo.16.c: "现在你将向你失去的整个星系广播…现在"
+
+acot_diplo.17.desc: "你们这些平民对战争一无所知。尽管你设想了一种更好的技术，但你还是输了，这一事实证明你是多么的垃圾。你们这些愚蠢的船只根本无法对抗我们古老的海军。\n\n我们现在将处决你们所有的领导人，因为他们很臭，你们所有的技术将由我们来指挥和征服。你的资源会枯竭。你的舰队将被摧毁。\n\n谢谢，祝你玩得开心。"
+acot_diplo.17.a: "呕."
+
+acot_diplo.18.name: "史诗般的失败"
+acot_diplo.18.desc.other: "哇!刚刚发生了一件令人震惊的事。显然，[FallenEmpireTaskOrigin.GetName]!的资本体系出了严重的问题!首都星球刚刚爆炸，所有环绕该星系的舰队都变成了冒烟的陨石坑。\n\n他们一定是出了什么严重的问题。"
+acot_diplo.18.desc.: "成功了!它确实起作用了!愚蠢的爷爷们把我们的技术装备运到他们的首都，然后爆炸了!bong!\n\n报告显示，驻扎在他们家园上的整个海军都被蒸发了，这个臭烘烘的家园现在只是一片烧焦的脆饼。"
+acot_diplo.18.a: "这表明他们的智能水平只能是弱智。"
+acot_diplo.18.b: "他们被称为失落帝国是有原因的，杰克。"
+
+acot_diplo.19.name: "胜利的航行"
+acot_diplo.19.desc.other: "哇!刚刚发生了一件令人震惊的事。显然，[FallenEmpireTaskOrigin.GetName]的资本体系出了严重的问题!首都星球爆炸了，引起了巨大的连锁反应，不知怎么的，导致了整个帝国的基础设施燃烧成巨大的暗物质爆炸。失落帝国已不复存在。"
+acot_diplo.19.desc: "成功了!它确实起作用了!事实上……这可能太好了……\n\n愚蠢的爷爷们把我们的技术装备运到他们的首都，然后它爆炸了，引起了巨大的连锁反应，不知怎么把他们的整个帝国都炸了。他们的甲板和挥发性暗物质反应堆一定是太过时了，太旧了，无法容纳。"
+acot_diplo.19.a: "真是浪费空间。终于解脱了。"
+acot_diplo.19.b: "有人会哀悼他们吗?他们很烦人。"
+
+
+acot_diplo.20.desc: "银河系的居民们，我们是[event_target:mountain_king_loser.GetName]，我们在这里广播一个非常重要的信息…\n\n我们愚蠢，无用，什么都不是，只是一群太空老人。在我们的傲慢中，我们已经向令人惊讶的可怕的[event_target:mountain_king_victor:GetName]宣战，并且由于我们深刻的判断错误而被击垮。\n\n我们为自己的坏行为向所有人道歉。请不要吃我们……\n\n我们…我们…够了!!\n\n§Y<打碎玻璃杯的声音和愤怒的跺脚声>§!"
 ########## MODIFIERS ###############
 
 dm_with_assist_tooltip: "这将改善我们的盟友之间的关系，但将大大惹恼其他谁不喜欢§Y[event_target:interested_buyer.GetName]§!。"
@@ -61,3 +107,6 @@ triggered_opinion_give_dm_to_enemy: "将暗物质知识传授给敌人。"
 triggered_opinion_refuse_dm_friendly_others: "真正的颜色。"
 
 triggered_opinion_refuse_dm_neutral: "否认知道暗物质"
+
+ war_goal_acot_wg_mountain_king: "有一个"
+ war_goal_acot_wg_mountain_king_desc: "战争是为了显示谁是真正的交易，真正的王，真正的模因。"

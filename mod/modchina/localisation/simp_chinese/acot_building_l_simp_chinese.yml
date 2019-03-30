@@ -119,13 +119,23 @@ building_ae_ancient_cryo_chamber: "先进的低温箱"
 building_ae_ancient_cryo_chamber_desc: "是的，做一个毁了的冷冻室毕竟不是一个明智的决定。"
 
 
+building_fe_mineral_processing_plant: "先进矿物加工设备"
+building_fe_mineral_processing_plant_desc: "为了更美好的未来，这是一项崇高的任务。这里加工的材料为更光明的明天铺平了道路。"
 
+building_ae_mineral_processing_plant: "α处理器超级复合体"
+building_ae_mineral_processing_plant_desc: "这个区域大小的巨型综合体能够将最原始、最愚蠢的矿物转化为高质量、高产的矿物。"
 
+building_fe_power_hub: "暗能量电网"
+building_fe_power_hub_desc: "先进的超级计算机和高深莫测的屏幕使这一新一代的电网不仅提供额外的能源增加，而且为额外的能源区提供额外的空间。"
 
+building_ae_power_hub: "α主电源连接区"
+building_ae_power_hub_desc: "在这个星球的首都大楼上，利用先进的工程网络系统，这个枢纽可以创建一个全球范围的能源网络，从而大幅提高能源产量。"
 
+building_fe_institute: "δ科学复合体"
+building_fe_institute_desc: "我们进入了发现的边缘。当我们到达目的地时，我们会进一步推进。"
 
-
-
+building_ae_institute: "α主控研究综合体"
+building_ae_institute_desc: "这里有无数的古代艺术品、博物馆、实验室，还有大量枯燥的纸张作品，这些都是为那些以知识为食的人准备的。据说，任何进入其中的研究人员，永远不会回来。"
 
 tech_ae_affluence_center: "完美的工匠气质"
 tech_ae_affluence_center_desc: "创造消费品不仅仅是为了满足人们的需求，更是为了以令人难以置信的方式满足他们。我们的艺术和产品是首屈一指的。"
@@ -175,8 +185,8 @@ tech_giga_fortress_desc: "千兆堡垒由神秘的暗能量反应堆提供动力
 tech_ae_stronghold: "神秘防御网"
 tech_ae_stronghold_desc: "虽然我们现有的堡垒可能能够抵御基本的入侵者，但由于空间有限和武器过时，建筑本身太容易受到大规模入侵部队的攻击。为此，我们为新一代堡垒设计了一个概念，它应该为潜在的入侵者提供更多的挑战。"
 
-tech_dark_energy_psg: "暗能量行星屏蔽发生器"
-tech_dark_energy_psg_desc: "现在我们已经开发了神秘的屏蔽技术，修改我们当前的行星屏蔽发生器以适应新系统应该是一项简单的任务。"
+tech_dark_energy_psg: "暗能量行星护盾发生器"
+tech_dark_energy_psg_desc: "现在我们已经开发了神秘的护盾技术，修改我们当前的行星屏蔽发生器以适应新系统应该是一项简单的任务。"
 
 tech_ae_dark_energy_psg: "天空之盾装置"
 tech_ae_dark_energy_psg_desc: "虽然暗能量PSG提供了可接受的防轰击保护，但我们的许多战术家都指出，除此之外，建筑本身通常是无用的。 他们建议我们创建一个更大的装置，不仅提供更好的保护，而且还为我们的研究人员提供科学实验室插件。"
@@ -194,7 +204,7 @@ tech_super_assembly_ae: "纳米组装"
 tech_super_assembly_ae_desc: "即使增加了工作人员，我们的机器人生产似乎也受到设备大小的限制。但是有了纳米机器技术，我们现在可以使制造者和制造商的数量翻倍。哔-啵。你是一个机器人，你在这里做无聊的工作，所以我们可以做一些有趣的事情。"
 
 tech_dark_matter_synthersizer: "黑洞合成"
-tech_dark_matter_synthersizer_dec: "我们现在有了一种可靠的技术，可以潜在地合成一个城市大小的黑洞，而不会对地球其他地方造成任何危险。这将允许我们大量地提取暗物质和暗能量。这座大楼是自动化的，但维护保养却相当高。"
+tech_dark_matter_synthersizer_desc: "我们现在有了一种可靠的技术，可以潜在地合成一个城市大小的黑洞，而不会对地球其他地方造成任何危险。这将允许我们大量地提取暗物质和暗能量。这座大楼是自动化的，但维护保养却相当高。"
 
 tech_dark_matter_synthersizer_ae: "黑暗的四根柱子"
 tech_dark_matter_synthersizer_ae_desc: "基于与尺寸制造者相同的原理，暗门连接;由四根暗能量柱保持稳定，可以从其他维度提取大量的暗物质和暗能量。这个过程虽然复杂，但更安全，因此减少了维护费用。"
@@ -215,23 +225,47 @@ tech_ae_dark_energy_pylon_desc: "现在我们对暗物质结晶的整个过程�
 tech_mine_dark_energy: "暗能量牵引"
 tech_mine_dark_energy_desc: "我们还发现了另一种神秘的元素——暗能量。如果我们要利用这种新能源，我们必须了解如何提取，更重要的是，如何产生它。"
 
+tech_fe_institute: "高等研究机构" 
+tech_fe_institute_desc: "我们现在的研究所总是有一个问题，那就是它是一个适合那些已经拥有伟大才智的人交往的好地方，但不是创造他们的好地方。我们将把学院改造成一所大型大学，在那里，潜在的年轻人可以学习，为未来的远大抱负做好准备。"
 
+tech_fe_clone_vats: "先进克隆技术"
+tech_fe_clone_vats_desc: "我们在生物学上的跨越式进步，使我们能够创造出一种更强大的克隆技术，消除年龄惩罚问题，让我们的克隆体活得和它们原来的模板一样长。这也为将来重新审视我们的克隆人军队提供了机会。"
+
+tech_fe_power_hub: "暗物质能量网"
+tech_fe_power_hub_desc: "我们的科学家相信，我们可以用同样的方法来建造和运行暗物质发电厂，以改进我们目前的能源连接模板。"
+
+tech_fe_mineral_processing_plant: "仿生联动机械加工"
+tech_fe_mineral_processing_plant_desc: "基于先驱者号舰载仿生接口计算机，我们提出了利用相同的仿生链路对我国选矿机进行有效控制的理论。"
+
+tech_fe_food_processing: "农业巨型综合体"
+tech_fe_food_processingt_desc: "更常见的情况是，我们所处的困境是，有些行星太烦人了，无法做出绿色的苹果，或者行星根本就没有绿色。但随着更好的能源的出现，我们可以建立一个自给自足的大型农业综合体，从而消除所有这些问题。到处都是青苹果。"
+
+tech_fe_transmutor: "超级变送器"
+tech_fe_transmutor_desc: "在过去，生产战略资源需要专门的建筑。由于空间有限，这是非常低效的。但是，有了我们的新技术，我们应该能够把所有这些都合并成一个紧凑的建筑，可以把矿物质转化成我们需要的东西。"
+
+tech_fe_alloy_foundry: "黑暗铸造"
+tech_fe_alloy_foundry_desc: "星球表面的空间是有限的，但我们对合金的需求是有限的。为了最大限度地提高效率，我们必须进一步发展空间管理。"
+
+building_fe_alloy_forge: "黑暗铸造"
+building_fe_alloy_forge_desc: "通过淘汰的过程，我们将旧铸造厂内的多余空间全部移除，为更多的制造机器腾出空间。"
+
+building_ae_alloy_forge: "超级合金铸造"
+building_ae_alloy_forge_desc: "效率是胜利的关键。今天是合金，明天是胜利的武器!"
+
+building_fe_transmutor: "神秘变换器穹顶"
+building_fe_transmutor_desc: "为这么简单的资源浪费这么多的建筑空间是愚蠢的，这一弱点将随着圆顶的出现而得到纠正。"
+
+building_ae_transmutor: "超级透射球"
+building_ae_transmutor_desc: "气体、晶体或尘埃。这些平凡的资源在我们的帝国中仍然有一些利基应用。我们将把它们全部从一个专门用于这项任务的建筑中产生出来。"
+
+tech_fe_transmutor"
 ### OLD TECH
 
 tech_fe_hospital: "细胞重组和重建"
 tech_fe_hospital_desc: "我们要求克隆模板来提高生长速度的日子一去不复返了。有了从前体获得的新神秘技术，我们可以用对所有已知疾病都具有抵抗力的人造活细胞来召唤新生命。"
 
-tech_fe_clone_vats: "先进的克隆技术"
-tech_fe_clone_vats_desc: "我们在生物学上突飞猛进的进步使我们能够创造出一种更强大的克隆技术，它消除了年龄惩罚的问题，使我们的克隆与原始模板一样长寿。这也为将来可能重新访问我们的克隆人军队提供了机会。"
-
-tech_fe_mineral_processing_plant: "仿生学链接机械加工"
-tech_fe_mineral_processing_plant_desc: "基于前体船舰载仿生接口计算机，我们得出了同样的仿生链路可以用于我国选矿机械的理论。"
-
 tech_fe_replicator: "强光物质产生"
 tech_fe_replicator_desc: "在我们完全理解暗物质之前，我们只能勉强画出足够产生物质的部分。现在我们意识到，利用暗物质的纯强光技术来构建大量的合成矿物是可能的。"
-
-tech_fe_power_hub: "暗物质能量栅极"
-tech_fe_power_hub_desc: "我们的科学家相信，我们可以应用同样的方法来建造和运行暗物质发电厂，以改善我们目前的能源联系模板。"
 
 tech_fe_galactic_trade_enclave: "银河系的商业中心"
 tech_fe_galactic_trade_enclave_desc: "我们的证券交易所虽然已经非常庞大，为我们的帝国提供了大量的收入，但却没有适当的授权来销售暗物质相关的物品。虽然我们不打算将这些神秘的技术免费提供给低等生物，但我们的市场策略指出，我们可以欺骗许多原始生物去购买带有提升者标记的琐碎小饰品或人工制品。季票、独家收藏版、预购、早入;所有的策略都将被用来实现最大的利润。" 
@@ -241,9 +275,6 @@ tech_fe_heaven_dome_desc: "虽然我们目前的“天堂穹顶”模型在为�
 
 tech_fe_visitor_center: "前体工件集合"
 tech_fe_visitor_center_desc: "在过去，我们已经研究了许多前驱手工艺品。我们的外交官认为，我们应该在游客中心开辟一个新的博物馆区，展示我们收集和完成的一些更好的东西。我们要传达的信息是明确的，要么留在他们陈旧的帝国里，要么加入我们，为一个更美好、更光明的未来而努力。"
-
-tech_fe_institute: "高级教育研习课程" 
-tech_fe_institute_desc: "我们现在的研究所总是有一个问题，它是一个很好的地方让那些已经拥有伟大智慧的人交流，但不一定是一个好的地方来创造他们。我们将把这个学院改造成一所大型大学，有潜力的年轻人可以在这里学习，为未来的远大抱负做好准备。"
 
 tech_fe_military_academy: "一流的军队住宿"
 tech_fe_military_academy_desc: "在提高我国公民素质和生活水平的同时，我们决不能忘记我们这些在战场上服役的人。他们也必须在休息时得到最好的治疗，以鼓励他们，我们才是真正能让银河系变得更美好的那个人。"
@@ -307,3 +338,9 @@ trait_acot_robot_superman_engines_desc: "这台机器增加了强大的神秘算
 
 trait_acot_robot_heavy_duty: "基业常青"
 trait_acot_robot_heavy_duty_desc: "这台机器非常注重耐用性和寿命。这台机器不仅能够快速学习复杂的任务，占用最少的空间，还有望相对轻松地扼住对手的喉咙，使其变得复杂，并将其骨头折断。"
+
+building_fe_food_processing_complex: "农业超级复合体"
+building_fe_food_processing_complex_desc: "由中央暗物质设施驱动的多个农业生物穹顶，将确保地球上永远有新鲜的青苹果，或我们政府用于食品的任何东西。"
+
+building_ae_food_processing_complex: "农业超级复合体"
+building_ae_food_processing_complex_desc: "星球上是否没有绿色并不重要，因为绿色无处不在，而绿色是好的。"

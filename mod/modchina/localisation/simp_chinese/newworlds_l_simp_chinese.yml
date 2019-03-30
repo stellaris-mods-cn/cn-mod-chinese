@@ -71,7 +71,7 @@
 
  pc_underground_rocky:0 "无大气星球"
  pc_underground_rocky_desc:0 "一个贫瘠的岩石星球，地下熔岩管据信是在玄武岩熔岩流中形成的。它们不受地表温度变化的影响，这将为居民提供一个稳定的环境。"
- pc_underground_rocky_habitability:0 "Rocky sub-surface Habitability"
+ pc_underground_rocky_habitability:0 "岩石表面以下宜居性"
  pc_underground_rocky_tile:0 "地下地形"
  pc_underground_rocky_tile_desc:0 "岩石地下景观。"
  trait_pc_underground_rocky_preference:0 "岩石子表面$preference$"
@@ -88,7 +88,9 @@
  ###Terraforming Modifier
  adapted_environ:0 "适应环境"
  adapted_environ_desc:0 "这个星球已经经历了小规模的地貌改造工程，现在更适合建立一个能够支持生命的殖民地。自动化的地下基础设施已经建成，正在等待第一批殖民者的到来。" 
- subterranean_rocky_candidate:0 "地下殖民地候选者"
+ underground_colony:0 "封闭地下环境"
+ underground_colony_desc:0 "这个星球有一个封闭的地下环境，有稳定的条件来发展殖民地。"
+  subterranean_rocky_candidate:0 "地下殖民地候选者"
  subterranean_rocky_candidate_desc:0 "这个星球虽然贫瘠，没有生命，但它有巨大的地下洞穴，可以用来创造人工环境来维持生命。"
  subterranean_icy_candidate:0 "地下殖民地候选者"
  subterranean_icy_candidate_desc:0 "这个星球虽然贫瘠，没有生命，但它有巨大的地下洞穴，可以用来创造人工环境来维持生命。"
@@ -104,7 +106,9 @@
  ###Decisions
  decision_adapted_environment:0 "适应环境"
  decision_adapted_environment_desc:0 "我们可以派遣带有所需建筑材料的自动化无人机去勘察理想的殖民地，建造基础设施，为我们在这个充满敌意的世界里的第一批殖民者提供更好的条件。"
-
+ decision_underground_colonization:0 "地下殖民地规划"
+ decision_underground_colonization_desc:0 "我们可以利用这个没有无生命星球的地下特征，比如洞穴网络或熔岩管，把它们密封起来，创造一个适合居住的压力、大气和温度的人工环境。蚁群将需要更高的能量，扩张需要进一步挖掘，但它将提供获取新资源的途径。"
+ 
  ###Deposits
  d_mineral_rich_rock:0 "矿产丰富的岩石"
  d_mineral_rich_rock_desc:0 "这些岩石富含发展采矿业所必需的优质矿物。"
@@ -116,7 +120,6 @@
  d_ice_desc:0 "这个冰冻的区域可以融化，为蚁群腾出更多的空间。"
  
  ###Anomalies
- TERRAFORMING_CANDIDATE_EFFECT:0 "一旦 £society£ §H$tech_terrestrial_sculpting$§! 技术得到研究，§Y[From.GetName]§!将能够被改造。" 
  subterranean_rocky_candidate_category:0 "稳定的地下熔岩管"
  subterranean_rocky_candidate_category_desc:0 "这个贫瘠无生命的世界表面有巨大的熔岩管。"
  subterranean_icy_candidate_category:0 "稳定的地下洞穴"
@@ -129,3 +132,20 @@
  nw_anomaly.2.desc.intro:0 "我们对[From.GetName]的详细调查显示，它在地表附近有巨大的洞穴。这些材料在表面提供了一定的防辐射保护，并可用于创建具有可呼吸空气和压力的密封环境。"
  nw_anomaly.2.desc.1:0 "$nw_anomaly.1.desc.intro$\n\n从理论上讲，创造一个人工稳定的环境是可能的，但我们还不具备完成这项任务的技术。"
  nw_anomaly.2.desc.2:0 "$nw_anomaly.1.desc.intro$\n\n我们确实有技术来创造一个人工稳定的环境，它将允许我们在这里建立一个殖民地来开发星球的资源。"
+
+ ###Buildings
+ building_helium-3_reactor:0 "氦-3反应堆"
+ building_helium-3_reactor_desc:0 "以氦-3为燃料的核聚变发电厂，由风化层精炼厂提炼。"
+ mod_building_helium-3_reactor_max:0 "最大$building_helium-3_reactor$"
+ building_regolith_refinery:0 "风化层炼油厂"
+ building_regolith_refinery_desc:0 "提炼从地表开采的风化层，生产优质矿物、氦-3气体和其他贵重金属的工厂。"
+ mod_building_regolith_refinery_max:0 "最大$building_regolith_refinery$"
+ building_precious_metal_foundry:0 "贵金属铸造"
+ building_precious_metal_foundry_desc:0 "由风化层精炼厂提炼的贵金属变成贵重合金的铸造厂。"
+ mod_building_precious_metal_foundry_max:0 "最大$building_precious_metal_foundry$"
+ building_aeroponic_complex:0 "气雾栽培法复合体"
+ building_aeroponic_complex_desc:0 "另一种种植食物的方法是，当没有可供耕种的土地时，仍然可以在封闭的空气或雾状环境中种植植物。"
+ mod_building_aeroponic_complex_max:0 "最大$building_aeroponic_complex$"
+ building_pressurized_arcology:0 "加压生态建筑学"
+ building_pressurized_arcology_desc:0 "一种压力巨大的结构，可容纳大量人口。"
+ mod_building_pressurized_arcology_max:0 "最大$building_pressurized_arcology$"

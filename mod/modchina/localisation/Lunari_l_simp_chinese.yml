@@ -12,6 +12,12 @@ trait_pc_lunari_arctic_preference:0 "极地星球偏好"
 trait_pc_lunari_arctic_preference_desc:1 "§L气候偏好是由基因水平、进化过程或熟练操作决定的。§!"
 
 ####################################
+# TECHS
+####################################
+tech_lunari_shield_power_relays:0 "月球护盾能源继电器"
+tech_lunari_shield_power_relays_desc:0 "女神给了我们一种新的护盾技术的灵感。虽然价格昂贵，但它将显著提高我们的护盾能力。"
+
+####################################
 # Planets
 ####################################
 
@@ -24,7 +30,8 @@ pc_lunari_arctic_desc:0 "寒冷的岩石星球，含氮氧的大气。两极非�
 pc_lunari_arctic_tile:0 "冻结的地形"
 pc_lunari_arctic_tile_desc:0 "冰雪覆盖的地形，没有植被。"
 
-pc_lunari_arctic_habitability:1 "冻结星球适居性"
+pc_lunari_arctic_habitability:0 "冻结星球适居性"
+mod_pc_lunari_arctic_habitability:0 "冻土适居性"
 
 ####################################
 # Modifiers and tile blockers

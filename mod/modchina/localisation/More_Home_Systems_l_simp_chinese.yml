@@ -56,7 +56,7 @@
  pc_mhs_nuked_by_asteroids_tile_desc:0 "寒风吹袭草原。"
  
  #################################################################################
- # PASTE HERE - Here starts the purely english part of the Loc File - PASTE HERE #
+ # PASTE HERE - Here starts the purely simp_chinese part of the Loc File - PASTE HERE #
  #################################################################################
  mhs_qastliani_system_NAME:0 "Qastliani星系"
  mhs_qastliani_system_DESC:0 "Qastliani星系, 曾经是一个古老的被遗忘的文明的家园，现在又是一个年轻的物种的摇篮，达到了他们的发源地。\n\n家园 - 大小 16\n\n一颗太阳,一颗被摧毁的世界,两颗熔岩星球,八颗小行星,一颗气态巨星和四颗冰封世界\n\n$system_initializer_DESC$"

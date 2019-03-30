@@ -1,6 +1,6 @@
-﻿l_english:
+﻿l_simp_chinese:
   # Ruler
-  elven_accident_events.211.name:1 "§R事故§!"
+  elven_accident_events.211.name:0 "§R事故§!"
   elven_accident_events.211.desc:0 "§R[assassinated_leader.GetName]§!被[assassinated_leader.GetHerHis]的大女儿谋杀了。[assassinated_leader.GetSheHe]会接替她的位置吗?女神和议会将作出决定。"
 
   # Governor

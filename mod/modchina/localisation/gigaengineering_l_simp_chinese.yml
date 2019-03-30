@@ -1889,14 +1889,14 @@
  ruinedmega.51.a:0 "非常好。"
 
  blackhole_generator_ruined:0 "毁坏的$blackhole_generator_2$"
- blackhole_generator_ruined_DESC:0 "一个毁坏的$blackhole_generator_2$。这个结构是为了容纳可控的人工寄点而建造的。看起来它是遭受了巨大的爆炸而导致不能运行。尽管困难，但我们的科学家认为修复是可行的。"
+ blackhole_generator_ruined_DESC:0 "一个毁坏的$blackhole_generator_2$。这个结构是为了容纳可控的人工奇点而建造的。看起来它是遭受了巨大的爆炸而导致不能运行。尽管困难，但我们的科学家认为修复是可行的。"
  blackhole_generator_restored:0 "$blackhole_generator_2$"
  blackhole_generator_restored_DESC:0 "$blackhole_generator_2_DESC$"
  ruinedmega.60.name:0 "毁坏的$blackhole_generator_2$"
  ruinedmega.60.desc:0 "我们的科研船在Oxx-Oxx星系遇到了些神奇的东西。探测器显示出星系边缘有一座废弃的星门和一座围绕\n\n船员们还发现了星系中有个$pc_nuked$，这让他们相信这个星系曾经是一个古老帝国的重要殖民地。"
  ruinedmega.60.a:0 "令人着迷。"
  ruinedmega.61.name:0 "$blackhole_generator_2$修复完成！"
- ruinedmega.61.desc:0 "我们的工程师成功将$blackhole_generator_2$修复并重新激活。这个结构开始产生一个 巨大的可控寄点，而我们可以从中获取大量的能量，并且我们可以将辐射以物质的形式储存。"
+ ruinedmega.61.desc:0 "我们的工程师成功将$blackhole_generator_2$修复并重新激活。这个结构开始产生一个 巨大的可控奇点，而我们可以从中获取大量的能量，并且我们可以将辐射以物质的形式储存。"
  ruinedmega.61.a:0 "这是怎么做到的呢?"
  
  megastructure_collision:0 "$MEGASTRUCTURE$碰撞痕迹"

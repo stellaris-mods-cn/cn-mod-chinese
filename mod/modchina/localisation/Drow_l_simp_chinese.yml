@@ -107,6 +107,7 @@ gov_drow_matriarchal_council_desc:0 "这个政府是寡头政治的一种唯心�
 pc_drow_valshaquellar:0 "瓦尔沙奎尔"
 pc_drow_valshaquellar_desc:0 "一个巨大的人造世界，似乎只支持特定的生命形式。"
 pc_drow_valshaquellar_habitability:0 "瓦尔沙奎尔 出生"
+mod_pc_drow_valshaquellar_habitability:0 "瓦尔沙奎尔 宜居性"
 
 trait_pc_drow_valshaquellar_preference:0 "瓦尔沙奎尔 出生"
 trait_pc_drow_valshaquellar_preference_desc:1 "§L气候偏好是由基因水平决定的，通过创造或巧妙的操作。§!"
@@ -150,7 +151,7 @@ EMPIRE_DESIGN_drow_tulshar_civ_desc:0 "从他们有记录的历史开始以来�
 ## VALSHAQUELLAR ##
 drow_special.1.name:0 "恢复家园"
 drow_special.1.desc:0 "我们最近在 £society §Y$tech_climate_restoration$§! 方面的进展使我们能够正确地分析[From.From.GetName]的情况。我们仍然不确定是什么导致了§Y事件§!。然而，我们认为，完全恢复不适宜居住的地区所必需的知识现在已在我们掌握之中。"
-drow_special.1.a.desc:0 "通过使用§Y$decision_mastery_of_nature$§!后，我们可以正确地分析[event_target:elves_planet_valshaquellar.GetName]情况。我们仍不清楚是什么原因导致了这一§Y事件§!。然而，我们认为，全面恢复不适宜居住地区所必需的知识现在已在我们的掌握之中。"
+drow_special.1a.desc:0 "通过使用§Y$decision_mastery_of_nature$§!后，我们可以正确地分析[event_target:elves_planet_valshaquellar.GetName]情况。我们仍不清楚是什么原因导致了这一§Y事件§!。然而，我们认为，全面恢复不适宜居住地区所必需的知识现在已在我们的掌握之中。"
 drow_special.1.a:0 "值得考虑。"
 drow_special.2.name:0 "修复完成"
 drow_special.2.desc:0 "我们成功地恢复了[From.From.GetName]的辉煌!\n\n修复的部分已经准备好解决!"

@@ -2,6 +2,41 @@
 
 ### SHIP TEXTS
 
+SMALL_SHIP_COMBAT_COMPUTER_1: "仿生接口作战计算机 (蜂群)"
+SMALL_SHIP_COMBAT_COMPUTER_1_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+SMALL_SHIP_COMBAT_COMPUTER_2: "仿生接口作战计算机 (哨兵)"
+SMALL_SHIP_COMBAT_COMPUTER_2_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+SMALL_SHIP_COMBAT_COMPUTER_3: "仿生接口作战计算机 (线列)"
+SMALL_SHIP_COMBAT_COMPUTER_3_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+SMALL_SHIP_COMBAT_COMPUTER_4: "仿生接口作战计算机 (炮兵)" 
+SMALL_SHIP_COMBAT_COMPUTER_4_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_1: "仿生接口作战计算机 (哨兵)"
+LARGE_SHIP_COMBAT_COMPUTER_1_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_2: "仿生接口作战计算机 (线列)"
+LARGE_SHIP_COMBAT_COMPUTER_2_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_3: "仿生接口作战计算机 (炮兵)"
+LARGE_SHIP_COMBAT_COMPUTER_3_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+LARGE_SHIP_COMBAT_COMPUTER_4: "仿生接口作战计算机 (重型火炮)"
+LARGE_SHIP_COMBAT_COMPUTER_4_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_1: "仿生接口作战计算机 (线列)"
+TITAN_COMBAT_COMPUTER_1_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_2: "仿生接口作战计算机 (炮兵)"
+TITAN_COMBAT_COMPUTER_2_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_3: "仿生接口作战计算机 (重型火炮)"
+TITAN_COMBAT_COMPUTER_3_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+TITAN_COMBAT_COMPUTER_4: "仿生接口作战计算机 (后防线支持)"
+TITAN_COMBAT_COMPUTER_4_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_1: "仿生接口作战计算机 (线列)"
+GOLIATH_COMBAT_COMPUTER_1_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_2: "仿生接口作战计算机 (炮兵)"
+GOLIATH_COMBAT_COMPUTER_2_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_3: "仿生接口作战计算机 (重型火炮)"
+GOLIATH_COMBAT_COMPUTER_3_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+GOLIATH_COMBAT_COMPUTER_4: "仿生接口作战计算机 (后防线支持)" 
+GOLIATH_COMBAT_COMPUTER_4_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+TOWER_COMBAT_COMPUTER: "仿生接口作战计算机 (空间站)" 
+TOWER_COMBAT_COMPUTER_DESC: "这种先进的防御系统采用了一种独特的战斗计算机，与基地的炮手形成了仿生连接。它的目的是删除和卸载所有未注册的威胁，从银河无情的效率。"
+
 ACOT_LR_BEHAVIOR_DESC: "§H重型火炮:§! 这艘船将会远离其他的船去压制目标的雨火。 (§Y120§!)."
 ACOT_MAX_RANGE_BEHAVIOR_DESC: "§H后防线支持:§! 该船将保持最远的距离，在其他船只后面掩护，并支持他们的远程武器。(§Y100§!)."
 
@@ -137,8 +172,8 @@ tech_elite_clone_desc: "我们的军事理论家们建议，我们可以通过�
 tech_heavy_trooper: "机动步兵师-战争中的和平"
 tech_heavy_trooper_desc: "我们的军国主义理想要求更强大的步兵师，即使是先锋部队。为此，我们将组建一个新的步兵师，全副武装，装甲部队进行全面进攻。这些士兵将证明我们只能通过战争缔造和平，而不是坐牢和制造无用的协定。"
 
-tech_shadow_sniper: "文明武器：文明时代"
-tech_shadow_sniper_desc: "我们珍视生命，甚至敌人的生命。他们必须被允许看到他们的方式的错误，但是我们不能用我们当前破坏性的武器来执行这样的大胆任务。为此，我们必须开发和训练专门装备的部队，以便只以极端的效率掠夺敌对目标。结束了，仇外-我们有高地。"
+tech_shadow_Heavy Artillery: "更文明时代的文明武器"
+tech_shadow_Heavy Artillery_desc: "我们珍视所有的生命，即使是敌人的生命。必须允许他们看到他们的做法的错误，但是我们不能用我们目前的毁灭性武器来执行这样大胆的任务。为此目的，我们必须发展和训练专门装备的军队，以极端有效地摧毁敌对目标。一切都结束了，仇外者，我们已经占据了制高点。"
 
 tech_dark_matter_tank: "坦克战重演"
 tech_dark_matter_tank_desc: "2200年初，由于运输和部署在战场上的物流噩梦，坦克战逐渐被淘汰。然而。跳跃驱动和暗物质反应器的发展使我们能够彻底改变地面战斗。不久，我们可怕的坦克很快将再次重返战场。"
@@ -229,8 +264,8 @@ fe_clone_army_desc: "这些克隆是由著名赏金猎人的模板创建的，�
 fe_heavy_army: "重型机动步兵小队"
 fe_heavy_army_desc: "这些全副武装和装甲兵接受额外的战斗训练，使他们能够在我们的军国主义者要求的所有作战情况和环境中胜出。"
 
-fe_sniper_army: "精英中和狙击小队"
-fe_sniper_army_desc: "这些狙击手献身于我们的异族事业。他们被训练成只中和作战有效的敌人，并防止任何不必要的流血和附带损害的代价。"
+fe_Heavy Artillery_army: "精锐重型火炮部队"
+fe_Heavy Artillery_army_desc: "这些重型火炮献身于我们的异族事业。他们被训练成只用非致命的注射来中和有效的敌人，并不惜一切代价防止任何不必要的流血和附带伤害."
 
 fe_tank: "毁灭坦克师"
 fe_tank_desc: "这些高度先进的坦克配备了致命的质量加速器加农炮和小型化的跳跃驱动，允许坦克绕过所有困难的地形，并从每一个可能的角度进行打击。"
@@ -423,9 +458,11 @@ tech_machinelove_effect_opinion:0 "每个人的意见  §Y你的意见§! 增加
 tech_benificialevolution_effect_opinion:0 "每个人的意见  §你的意见§! 增加 §G+30§!"
 tech_championofxeno_effect_opinion:0 "每个人的意见  §你的意见§! 增加 §G+20§!"
 
-triggered_opinion_tech_machinelove:0 "$tech_machinelove$"
-triggered_opinion_tech_benificialevolution:0 "$tech_benificialevolution$"
-triggered_opinion_tech_championofxeno:0 "$tech_championofxeno$"
+triggered_opinion_tech_machinelove: "$tech_machinelove$"
+triggered_opinion_tech_benificialevolution: "$tech_benificialevolution$"
+triggered_opinion_tech_championofxeno: "$tech_championofxeno$"
+
+triggered_opinion_tech_youhavedankmatter: "天哪，平民现在有暗物质了!"
 
 tech_machinelove_modifier_desc:0 "每个人的意见  §你的意见§! 增加了 §G+30§!. 也增加了有机的信任能力 §G+50§! 以及 §G+15%§! 增加能源生产，因为我们巩固了非正式的，和平的贸易与有机物。"
 
@@ -1098,8 +1135,8 @@ ACOT_SWARM_COMPUTER_PICKET_DESC: "天灾军团的舰船完全同步工作。因�
 ACOT_SWARM_COMPUTER_LINE: "蜂群联结系统 (线列)"
 ACOT_SWARM_COMPUTER_LINE_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
 
-ACOT_SWARM_COMPUTER_SNIPER: "蜂群联结系统 (狙击)"
-ACOT_SWARM_COMPUTER_SNIPER_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
+ACOT_SWARM_COMPUTER_Heavy Artillery: "蜂群蜂巢连接 (重型火炮)"
+ACOT_SWARM_COMPUTER_Heavy Artillery_DESC: "天灾军团的战船完全同步作战。因为他们被束缚在一个绝对的和永恒的意志的蜂群。他们被创造出来是为了服务于这一意愿。"
 
 ACOT_SWARM_COMPUTER_QUEEN: "蜂群联结系统 (女王)"
 ACOT_SWARM_COMPUTER_QUEEN_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
@@ -1160,8 +1197,8 @@ ACOT_EDI_COMPUTER_PICKET_DESC: "我们有很多，你只是一个。我们会毁
 ACOT_EDI_COMPUTER_LINE: "高维灵能矩阵计算机 (线列)"
 ACOT_EDI_COMPUTER_LINE_DESC: "我们有很多，你只是一个。我们会毁了你。"
 
-ACOT_EDI_COMPUTER_SNIPER: "高维灵能矩阵计算机 (狙击)"
-ACOT_EDI_COMPUTER_SNIPER_DESC: "我们有很多，你只是一个。我们会毁了你。"
+ACOT_EDI_COMPUTER_Heavy Artillery: "超维灵能矩阵计算机 (重型火炮)"
+ACOT_EDI_COMPUTER_Heavy Artillery_DESC: "我们又许多，你只有一个。我们会毁了你。"
 
 ACOT_EDI_COMPUTER_TITAN: "高维灵能矩阵计算机 (泰坦)"
 ACOT_EDI_COMPUTER_TITAN_DESC: "我们有很多，你只是一个。我们会毁了你。"
@@ -1341,3 +1378,8 @@ tech_shroud_hanger_desc: "强者统治弱者是天性。尽管我们还不了解
 
 tech_shroud_storm: "毁灭之风"
 tech_shroud_storm_desc: "主命令，虚境必须响应召唤。敌人会被我们强大的力量消灭。"
+
+sentinel_sphere: "先驱者炮兵"
+sentinel_sphere_plural: "先驱者炮兵"
+
+fallen_empire_sentinel_hull_key: "哨兵核心"

@@ -50,6 +50,7 @@ ACOT_POINT_DEFENSE_OE: "光矛点防御系统"
 ACOT_POINT_DEFENSE_OE_DESC: "这种可以随意操纵光物质的能力使PDS能够发射相当于微枪能量武器的武器。这种影响对所有目标都是破坏性的，特别是与其他PDS相比。"
 
 ACOT_ARC_EMITTER_OE: "神圣风暴放电器"
+ACOT_ARC_EMITTER_OE_TITAN: "集中神圣风暴释放器"
 ACOT_ARC_EMITTER_OE_DESC: "神圣风暴放电器用高频固化的光物质劈穿敌舰。"
 
 ACOT_PERDITION_BEAM_OE: "艾莉亚之光"
@@ -348,3 +349,15 @@ ACOT_LANCE_OMEGA_DESC: "§Y在古代，在三头同盟的佃户还没有被记�
 
 ACOT_PERDITION_BEAM_OMEGA: "§Y艾莉亚之光§!"
 ACOT_PERDITION_BEAM_OMEGA_DESC: "§Y虽然艾莉亚的温暖已不复存在，但我们仍然尊重它的重要性。因为是艾莉亚——第一颗给我们带来希望的星星。\n\n我们怀着更大的目标继续前进。让我们的敌人小心点，因为他们要面对艾莉亚的儿女!§!"
+
+ACOT_AURA_SHITTY_SE: "秃顶，有一种时髦的气质"
+ACOT_AURA_SHITTY_SE_DESC: "一个暂时的光环意味着秃顶和f00lish帝国谁试图产生设计的船舶，他们无法建立。文字无法表达这个名为Chirumiru ShiRoz的实体现在有多疯狂，他捣毁键盘，制造出这个愚蠢的、完全多余的光环，因为可怕的人工智能一直在生成错误日志，因为它想设计一艘它甚至不知道如何建造的飞船。\n\n200% MAD."
+
+BASE_STELLARITE_COMBAT_COMPUTER: "星状体计算机原型"
+BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不起眼的开始。"
+
+BASE_STELLARITE_THRUSTER: "星状体推进器原型"
+BASE_STELLARITE_THRUSTER_DESC: "驱动我们飞船的第一个引擎。"
+
+BASE_STELLARITE_REACTOR: "星状体反应堆原型"
+BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面。"

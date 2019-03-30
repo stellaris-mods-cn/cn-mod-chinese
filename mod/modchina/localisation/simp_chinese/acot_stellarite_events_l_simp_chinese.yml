@@ -58,3 +58,21 @@ stellarite_events.8.a: "精益求精!"
 stellarite_events.9.name: "昨日之后"
 stellarite_events.9.desc: "我们收到报告说有一种新型的力量正在被使用，叫做太阳能或星状体之类的。报告相当不可靠。但这似乎很不寻常。让他们单独拥有这些技术将是一种浪费。我们应该复制他们的设计，毕竟……"
 stellarite_events.9.a: "你的就是我的，我的也还是我的。"
+
+stellarite_events.10.name: "类12星状异常!"
+stellarite_events.10.desc: "警报!不稳定的异常检测。似乎我们对星状体技术的鲁莽和贪婪的使用导致了一个非常奇怪的基于星状体的存在从我们的一个星系中出现。它现在正试图以吃我们为乐。"
+stellarite_events.10.a.desc: "警报!不稳定的异常检测。另一种星状生物出现了。它希望变成一个披萨，并声称只要我们存在，它就会回来。我们必须停止存在，它才不会出现。"
+stellarite_events.10.a: "不，应该吃的是那个动物。"
+stellarite_events.10.b: "又来了?很好,吃了它。我们当然不会停止生存。"
+
+stellarite_events.12.name: "大爆炸!"
+stellarite_events.12.desc: "由于我们在[FROM.GetName]上不顾后果地使用钨铬钴合金反应堆，发电机在长时间暴露在彼此巨大的热浪下后，发生了熔毁。这导致了一个强大的爆炸，炸毁了反应堆，把我们的一些人变成了历史的灰烬。"
+stellarite_events.12.a: "哦。"
+
+stellarite_events.13.name: "大规模XPLOSION!"
+stellarite_events.13.desc: "由于我们在[FROM.GetName]上不顾后果地使用钨铬钴合金反应堆，一名技术人员在长时间工作后按错了按钮，导致发电机严重熔毁。发电机爆炸，造成了巨大的灾难，摧毁了殖民地。报告显示，所有人口现在都已适当烧烤。\n\n一队医护人员已经被派去试图治愈幸存者，但是没有幸存者。"
+stellarite_events.13.a: "嗯……等等，不，这确实是个坏消息!"
+
+stellarite_events.14.name: "死神来了"
+stellarite_events.14.desc: "由于我们在[FROM.GetName]上不顾后果地使用钨铬酸盐反应堆，负责维护系统的一名技术人员意外地从发电机轴上坠落，导致整个建筑物爆炸。由此引发的事故造成了巨大的破坏，现在星球除了熔岩和大火什么都不是。"
+stellarite_events.14.a: "好吧。"

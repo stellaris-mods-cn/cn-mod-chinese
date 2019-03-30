@@ -13,10 +13,18 @@
  
  taskforce_xeno_start.100.name:0 "外星入侵"
  taskforce_xeno_start.100.desc:0 "[Root.Capital.GetName]入侵在几十年前就已经发生了。一个陌生的外星帝国落在了毫不知情的[Root.GetAllianceName]的家园，他们的动机当时还不知道。当时，他们是一个由各个民族国家组成的原始的原子时代文明。"
+
+ taskforce_xeno_start.100.fallback:0 "外星特别工作组被激活..."
+ taskforce_xeno_start.100.generals:0 "军事参谋长联席会议召开.."
+ taskforce_xeno_start.100.council:0 "一个国际委员会成立了..."
+ taskforce_xeno_start.100.imperialdiet:0 "一个帝国的饮食..."
+ taskforce_xeno_start.100.shareholders:0 "举行全公司的EGM会议..."
+ taskforce_xeno_start.100.science:0 "学院聚集了他们最好最聪明的学生..."
+ taskforce_xeno_start.100.kurultai:0 "族群的伟大的忽里勒台..."
+ taskforce_xeno_start.100.holywarriors:0 "教皇陛下召集了一个教会委员会..."
  taskforce_xeno_start.100.a:0 "一个国家委员会被召集起来..."
  taskforce_xeno_start.100.b:0 "我们马上就被§R打败了!§!\n"
- taskforce_xeno_start.100.c:0 "我们都知道历史，别让它再重演了!"
- 
+
  taskforce_xeno_start.101.name:0 "战争结束"
  taskforce_xeno_start.101.desc:0 "经过多年的战争，外星入侵者被排斥在[Root.System.GetName]之外。虽然我们的工作挽救了数十亿人的生命，我们获得了许多高度先进的技术，但这次胜利是有代价的，星球上许多城市的基础设施都被彻底摧毁了。"
  taskforce_xeno_start.101.a:0 "让我们努力重建家园!"
@@ -25,6 +33,24 @@
  taskforce_xeno_start.102.desc:0 "黑暗再次降临;但是现在我知道了，无数个世纪的石头睡眠被一个摇篮的噩梦所困扰，而那野兽，它的时刻终于到来了……"
  taskforce_xeno_start.102.a:0 "向[Root.Capital.GetName]低头?[Root.Capital.GetName]宁愿化成灰烬！！！"
 
+ taskforce_xeno_start.103.name:0 "外星特别工作组"
+ taskforce_xeno_start.103.desc:0 "入侵的头几个小时使大多数国家陷入完全孤立无援的境地。当我们奋力抵抗外星人的猛攻时，城市被烧毁，数百万人死亡。就在那时，外星特别工作组诞生了。了解到威胁的真正规模，我们的领导人将最好的精英组织训练成一支精英部队，与我们的军队一起对抗仇外威胁。由于资源分散，我们被迫作出艰难的选择，这些决定对我们的人民产生了持久的影响。"
+ taskforce_xeno_start.103.a:0 "空中拦截"
+ taskforce_xeno_start.103.b:0 "部署外星热点"
+ taskforce_xeno_start.103.c:0 "保护行星贵宾"
+ 
+ taskforce_xeno_start.104.name:0 "恐怖爆炸事件"
+ taskforce_xeno_start.104.desc:0 "城市被烧毁，国际贸易崩溃，军队混乱不堪，恐惧蔓延。外星人试图在[Root.Capital.GetName]中散布破坏和混乱。那是一个艰难选择和妥协的时代，有限的资源把我们推到了边缘，迫使我们做出了很大的牺牲。"
+ taskforce_xeno_start.104.a:0 "保护关键基础设施"
+ taskforce_xeno_start.104.b:0 "优先国际合作"
+ taskforce_xeno_start.104.c:0 "保卫我们的人口中心"
+
+ taskforce_xeno_start.105.name:0 "逆向工程"
+ taskforce_xeno_start.105.desc:0 "外星人发现我们并不是那么容易被征服的，我们建立了自己的防御，学会了适应，并在每一寸[Root.Capital.GetName]的血泊中冲锋陷阵。一旦我们捕获并开始对Xeno的技术进行逆向工程，形势就开始逆转。我们文明中最伟大的人物团结起来保卫所有[Root.GetNamePlural]。"
+ taskforce_xeno_start.105.a:0 "外星星系的突破"
+ taskforce_xeno_start.105.b:0 "异种生物学的突破"
+ taskforce_xeno_start.105.c:0 "外星工程的突破"
+ 
  taskforce_xeno_start.106.name:0 "外星特遣部队"
  taskforce_xeno_start.106.desc:0 "“这个委员会选择了特遣部队。”几个世纪以来，历史学家们将讨论这些简单的词语所产生的影响，这些简单的词汇是由国际理事会在回应外星威胁时所表达的。一开始，我们被击败了，被超越了，我们需要把所有的事情都搞清楚。"
  taskforce_xeno_start.106.a:0 "清理掉他们!"
@@ -33,26 +59,53 @@
  
  taskforce_xeno_start.107.name:0 "恐怖爆炸事件"
  taskforce_xeno_start.107.desc:0 "城市燃烧，贸易崩溃，恐惧泛滥。外星人试图在[Root.Capital.GetName]中传播破坏和混乱。这是一个艰难抉择的时代，我们的资源有限，被推向了崩溃的边缘。"
+
  taskforce_xeno_start.107.a:0 "保护关键基础设施"
+ taskforce_xeno_start.107.democracy:0 "多国部队消灭了外星母舰"
+ taskforce_xeno_start.107.imperial:0 "帝国精英击毁了外星母舰"
+ taskforce_xeno_start.107.corporate:0 "商业间谍渗透并破坏了外星母舰"
+ taskforce_xeno_start.107.science:0 "外星母舰系统的一个漏洞导致了反应堆熔毁"
+ taskforce_xeno_start.107.clans:O "联合族人击溃了外星母舰"
  taskforce_xeno_start.107.b:0 "优先与他们合作"
- taskforce_xeno_start.107.c:0 "保卫我们的人口中心"
 
  taskforce_xeno_start.108.name:0 "逆向工程"
  taskforce_xeno_start.108.desc:0 "外星人发现我们没有那么容易被征服，我们建立了自己的防御系统，学会了适应并为每一寸[Root.Capital.GetName]的血液充电。当我们捕获并开始逆向外星技术时，浪潮开始转向。我们的文明团结起来捍卫所有的[Root.GetNamePlural]."
- taskforce_xeno_start.108.a:0 "外星系的突破性进展"
- taskforce_xeno_start.108.b:0 "外星生物学的突破"
- taskforce_xeno_start.108.c:0 "外星工程学的突破"
+
+ taskforce_xeno_start.108.vengence:0 "复仇协定" 
+ taskforce_xeno_start.108.defend:0 "堡垒主义"
+ taskforce_xeno_start.108.peace:0 "知识和和平"
+ taskforce_xeno_start.108.churchofxeno:0 "神圣的外星教"
+ taskforce_xeno_start.108.crusade:0 "外星十字军东征"
+ taskforce_xeno_start.108.rebuild:0 "开拓文化"
+ taskforce_xeno_start.108.science:0 "关注异种研究"
  
- taskforce_xeno_start.109.name:0 "力挽狂澜"
- taskforce_xeno_start.109.desc:0 "许多[Root.Capital.GetName]国家都很绝望，而且也无法抵抗他们自己的抵抗。把我们这个星球上支离破碎的国家变成了[Root.Owner.GetName]。团结在一条旗帜下，我们终于有了一个战斗的机会，潮水开始向异族进攻。"
+ taskforce_xeno_start.109.name:0 "复仇协定"
+ taskforce_xeno_start.109.desc:0 "我们永远不会原谅，永远不会忘记外星人对我们人民所做的一切。政府和[Root.Capital.GetName]的人民已经发誓永远不会在我们与他们的斗争中休息。我们将猎取他们的同类，如果我们发现他们，我们将没有怜悯，没有宽容，只有全面的战争和对他们的人民的彻底毁灭。这是我们的准则，我们的法律，我们的目的。"
  taskforce_xeno_start.109.a:0 "瞄准他们" 
- taskforce_xeno_start.109.b:0 "启动热电离层轰炸"
- taskforce_xeno_start.109.c:0 "打击他们的卫星网络"
 
  taskforce_xeno_start.110.name:0 "再一次!"
  taskforce_xeno_start.110.desc:0 "我们一次又一次地清除了我们家园的异种。日复一日，我们开始把他们打回去。他们终于开始撤退了。我们的牺牲在所难免，通过运气和独创性，我们在他们的护甲上制造一道道裂缝。他们舰队的瑰宝，指挥入侵的旗舰已经暴露了。最后一次，进攻开始了，人们仿佛听到了战争的怒号!"
  taskforce_xeno_start.110.a:0 "他们让步一英寸，我们就走一英里!" 
 
+ taskforce_xeno_start.111.name:0 "知识 & 和平"
+ taskforce_xeno_start.111.desc:0 "我们仍然不知道为什么外星人会受到攻击，但是有很多报道表明并非所有的外星人都是敌对的。也许社会并不像我们想象的那样是一个统一的恶。我们应该专注于研究异族的生活，如果我们遇到以前的敌人，尝试对话和交流"
+ taskforce_xeno_start.111.a:0 "以眼还眼会使整个星系失明" 
+ 
+ taskforce_xeno_start.112.name:0 "外星教"
+ taskforce_xeno_start.112.desc:0 "在每一场战争中都有合作者，然而，当外星人掌权时，他们花了很多时间招募我们的民众加入他们的军队，并用他们先进的技术在我们人民的眼中神化自己。当我们最初战斗并杀死他们的时候，我们的大部分人口已经开始崇拜外星族，并将战争解释为一种罪恶的行为。虽然不是完全占上风，异族教会日益增长的影响力将对我们国家的政策产生重大影响。如果我们发现外星帝国，我们的社会可能会分裂。"
+ taskforce_xeno_start.112.a:0 "我就欢迎我们的外星霸主" 
+ 
+ taskforce_xeno_start.113.name:0 "外星十字军东征"
+ taskforce_xeno_start.113.desc:0 "不仅仅是他们征服我们的简单企图，外星人在我们的信仰面前吐口水，试图在我们的眼睛里死去。这样的异端是永远不能原谅的。我们必须发起一场伟大的十字军东征，把我们的信仰之光带给我们所发现的一切。我们若找不着，就必须把他们灭绝"
+ taskforce_xeno_start.113.a:0 "神的意愿!" 
+ 
+ taskforce_xeno_start.114.name:0 "科学基础"
+ taskforce_xeno_start.114.desc:0 "凭借他们的技术优势，外星人几乎消灭了我们的人民。正是他们技术的逆向工程给了我们赢得战争所需要的战斗机会。外星人特别工作组的工程师和科学家已经成为我们人民的英雄，我们的文化现在拥抱知识作为我们力量和生存的基础"
+ taskforce_xeno_start.114.a:0 "科学的宗教的主要特点是它是有效的" 
+ 
+ taskforce_xeno_start.115.name:0 "重建 & 恢复"
+ taskforce_xeno_start.115.desc:0 "为了实现共同目标，我们的人民团结一致，孜孜不倦地重建和更新[Root.Capital.GetName]。随着时间的推移，我们为收拾残局和重建而进行的绝望斗争，已将我们的文化塑造成建立在团结、兄弟情谊和开拓决心之上的文化"
+ taskforce_xeno_start.115.a:0 "我们站在一起" 
  
  ##Modifiers
  
@@ -60,7 +113,14 @@
  taskforce_xeno_interceptors:0 "特遣部队:截击机"
  taskforce_xeno_elan:0 "特遣部队:特种部队"
  taskforce_xeno_unity:0 "特遣部队: 行政保护"
- 
+  taskforce_xeno_vengeance_pact:0 "复仇协定"
+ taskforce_xeno_bastions:0 "堡垒 & 要塞"
+ taskforce_xeno_peace:0 "外星战后和平"
+ taskforce_xeno_church_of_xeno:0 "外星教"
+ taskforce_xeno_crusade:0 "外星十字军东征"
+ taskforce_xeno_foundation:0 "科学基础"
+ taskforce_xeno_pioneers:0 "开拓文化"
+  
  ##Buildings
   
  building_taskforce_headquarters:0 "外星特遣部队总部"

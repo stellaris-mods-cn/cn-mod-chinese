@@ -21,7 +21,10 @@
   twq_fallen_3_DESC:0 "亲外主义失落帝国开始"
   tww_fallen_4_NAME:0 "核心"
   tww_fallen_4_DESC:0 "排外主义失落帝国开始"
-  
+  FEE_ringworld_NAME:0 "无限灯塔"
+  FEE_ringworld_DESC:0 "老唯物主义者的人生开始了"
+
+
   EE_ringworld_NAME:0 "循环"
   EE_ringworld_DESC:0 "永恒帝国环形世界开始"
   twtwee_fallen_1_NAME:0 "伟大的枢纽"
@@ -106,12 +109,12 @@
   edict_time_warp:0 "时间隧道"
   edict_time_warp_desc:0 "有了这条法令，速度就加快了!您可以显著地促进缺省帝国的开发和技术进步。不要忘记关闭它，除非你想要更有挑战性的默认帝国"
   
-  l_english:
+  l_simp_chinese:
   z8_fe.6.name:0 "一股强大的力量在搅动"
  
  
   sys_162_init_NAME:0 "永恒的完美"
-  sys_162_init_DESC:0 "先进的安瓿瓶启动系统，完成了对自然和物理规律本身的完整掌握。 "
+  sys_162_init_DESC:0 "先进的先驱者启动星系，完成了对自然和物理规律本身的完整掌握。 "
  
  
   tw_fallen_1_1_NAME:0 "无限灯塔"
@@ -361,24 +364,24 @@
  
  ap_tw_awakening:0 "觉醒"
  ap_tw_awakening_desc:0 "是时候让我们的帝国觉醒起来，夺回它失去的遗产了!"
- allow_awakening:0 "这个飞升的额外效果将会唤醒你的帝国。"
+ allow_awakening:0 "这个飞升的效果将会觉醒你的帝国。"
  ap_tw_communication:0 "建立通信"
  ap_tw_communication_desc:0 "为了执行古老的协议，我们应该把我们的命令广播给孩子们。"
  allow_communication:0 "这一飞升将建立与所有其他帝国的沟通。"
- ap_tw_red:0 "古老的传统"
+ ap_tw_red:0 "古老传统"
  ap_tw_red_desc:0 "尊重我们的骄傲，永恒的传统是我们的社会繁荣的必要条件。"
  allow_red:0 "这个飞升的效果将为你的帝国带来更多的凝聚力。"
  ap_tw_purple:0 "长期被遗忘的原则"
- ap_tw_purple_desc:0 "我们知道这个星系所拥有的秘密，我们祖先的真理，超越一切的力量。这些原则必须在我们的帝国内得到坚持，以免我们忘记我们是什么。"
- allow_purple:0 "飞升的额外收益将在你的王国内产生快乐。"
- requires_fallenw:0 "这种提升额外技能需要一个没落帝国的古老知识。"
- ap_tw_green:0 "永恒的统一"
+ ap_tw_purple_desc:0 "我们知道这个星系所拥有的秘密，我们先祖的真理，超越一切的力量。这些原则必须在我们的帝国内得到坚持，以免我们忘记我们是什么。"
+ allow_purple:0 "飞升将在你的王国内产生快乐。"
+ requires_fallenw:0 "这个飞升需要一个失落帝国的古老知识。"
+ ap_tw_green:0 "永恒统一"
  ap_tw_green_desc:0 "我们看到一个星系，一个宇宙。我们的观点是永远的，并将继续如此。我们必须将此传达给每一个可能的众生。"
- allow_green:0 "这个飞升的额外好处增加了你的政府的道德吸引力。"
+ allow_green:0 "这个飞升增加了你的政府的道德吸引力。"
  ap_tw_dark_blue:0 "永恒的蔑视"
  ap_tw_dark_blue_desc:0 "我们看到文明被自身的活力所毁灭。如果我们要保护这个星系内的生命，尤其是我们自己的生命，我们就必须团结起来，抵御这场永无止境的风暴。"
- allow_blue:0 "这个飞升额外技能会增加你对游戏结束时的危机派系和对虚境的伤害。"
- ap_tw_orange:0 "壁垒的持久性"
+ allow_blue:0 "这个飞升会增加你对游戏结束时的危机派系和对虚境的伤害。"
+ ap_tw_orange:0 "壁垒持久性"
  ap_tw_orange_desc:0 "我们是真正文明的堡垒。虽然我们的光辉时代已经过去，但我们将永远坚持下去。"
  allow_orange:0 "这个飞升强化了我们的军事基地。"
  ap_tw_white:0 "远古飞升"
@@ -387,11 +390,11 @@
  ap_tw_materialist_desc:0 "科学是理解宇宙的终极工具。我们的帝国必须建立在这个事实的基础上，建立在科学的基础上。"
  materialist_tool_1:0 "无永恒的代价"
  requires_ethic_materialist:0 "这个飞升需要§Y极端唯物主义§! (知识的守护者)"
- ap_tw_spiritualist:0 "古人的信仰"
+ ap_tw_spiritualist:0 "远古信仰"
  ap_tw_spiritualist_desc:0 "我们必须在我们的圣地内走我们永恒启迪的道路。这要求消除我们的物质需要。"
  spiritualist_tool_1:0 "无永恒的代价"
  requires_ethic_spiritualist:0 "这个飞升需要§Y极端唯心主义§! (神圣守护者)"
- ap_tw_xenophobe:0 "永恒的隔离"
+ ap_tw_xenophobe:0 "永恒隔离"
  ap_tw_xenophobe_desc:0 "我们的人民是上帝的选民。被选来统治这个星系和其中的一切。其他任何人都不能参与这一命运。"
  xenophobe_tool_1:0 "无永恒的代价"
  requires_ethic_xenophobe:0 "这个飞升需要§Y极端排外主义§!(激进孤立主义者)"
@@ -443,7 +446,7 @@
  eternium_tooltip:0 "为你的帝国创造20个永久的基本收入"
  mod_planet_pops_eternium_produces_mult:0 "人口永恒输出"
 
- ap_tw_preserver:0 "祖先的命运"
+ ap_tw_preserver:0 "先祖的命运"
  ap_tw_preserver_desc:0 "在我们认为值得保护的生命之前，这是我们的责任和任务。"
  ap_tw_preserver_tooltip:0 "授予永久温室建筑的使用权，这产生了许多凝聚力，美德和传统，作为交换，失去了在上述星球上建造区域的能力。"
 

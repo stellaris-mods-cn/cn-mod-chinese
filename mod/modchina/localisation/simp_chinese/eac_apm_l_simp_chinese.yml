@@ -71,6 +71,9 @@
  eac_apm_focus_all_overcrowding_modifier:0 "专注于迁出无家可归者"
  eac_apm_focus_all_overcrowding_modifier_desc:0 "星球已被标记为迁出所有无家可归人口，无论他们就业状况如何。"
 
+ eac_apm_focus_assimilating_modifier:0 "同化焦点"
+ eac_apm_focus_assimilating_modifier_desc:0 "行星已经被标记允许同化人口迁徙。"
+
  ###################
  # Policies
  ###################
@@ -107,6 +110,15 @@
  eac_apm_force_migrate_less_40:0 "$eac_apm_force_migrate_less_40_name$"
  eac_apm_force_migrate_less_40_desc:0 "无论就业或住房状况如何，移动低于40%宜居性星球上的人口。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
 
+ policy_eac_auto_pop_migration_target:0 "自动人口迁移 - 自由职业"
+ policy_eac_auto_pop_migration_target_desc:0 "设定目标星球上要求自由职业的政策。"
+ eac_apm_freejobs_require:0 "要求"
+ eac_apm_freejobs_require_name:0 "要求"
+ eac_apm_freejobs_require_desc:0 "要求目标星球上的自由职业。"
+ eac_apm_freejobs_ignore:0 "忽略"
+ eac_apm_freejobs_ignore_name:0 "忽略"
+ eac_apm_freejobs_ignore_desc:0 "忽略目标星球上的工作。"
+
  ###################
  # Events
  ###################
@@ -129,7 +141,9 @@
  eac_apm_decisions.1.no_migration.tooltip:0 "将此星球作为人口自动迁移的一个禁止迁出地点，人口不会被自动迁移出这个星球。"
  eac_apm_decisions.1.all_overcrowding:0 "设置专注于迁出无家可归者"
  eac_apm_decisions.1.all_overcrowding.tooltip:0 "将此星球上的所有无家可归人口迁出，无论他们就业状况如何。"
- eac_apm_missing_required_cost:0 "缺少必需的成本来启用这个专注目标"
+ eac_apm_decisions.1.all_assimilating:0 "同化焦点"
+ eac_apm_decisions.1.all_assimilating.tooltip:0 "标志着这个星球允许同化人口迁移。"
+  eac_apm_missing_required_cost:0 "缺少必需的成本来启用这个专注目标"
  eac_apm_has_focus_set:0 "不能设置多个专注目标。"
  
  eac_apm.999.title:0 "$edict_eac_show_job_and_housing_info_edict$"

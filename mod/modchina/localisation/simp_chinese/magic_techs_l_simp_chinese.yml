@@ -10,6 +10,21 @@
  tech_alchemist_guilds:0 "炼金术锻造"
  tech_alchemist_guilds_desc:0 "炼金术士使用其巨大的知识嬗变特殊材料，不断制造魔法石。"
 
+ tech_alchemist_guilds_2:0 "大型炼金锻造机"
+ tech_alchemist_guilds_2_desc:0 "$tech_alchemist_guilds_desc$"
+
+ tech_alchemist_guilds_3:0 "炼金术大学"
+ tech_alchemist_guilds_3_desc:0 "$tech_alchemist_guilds_desc$"
+
+ tech_arcanist_guilds:0 "巧匠行业"
+ tech_arcanist_guilds_desc:0 "秘法师用他们的知识和技能从平凡的材料中创造出神秘的神器。"
+
+ tech_arcanist_guilds_2:0 "巧匠铸造厂"
+ tech_arcanist_guilds_2_desc:0 "$tech_arcanist_guilds_desc$"
+
+ tech_arcanist_guilds_3:0 "巧匠复制器"
+ tech_arcanist_guilds_3_desc:0 "$tech_arcanist_guilds_desc$"
+
  tech_magical_theory:0 "魔法理论"
  tech_magical_theory_desc:0 "我们通过对魔术可以完成的基础研究开始我们的进步。"
 
@@ -58,26 +73,8 @@
  tech_magic_regenerative_hull_tissue_1:0 "魔力再生系统"
  tech_magic_regenerative_hull_tissue_1_desc:0 "解锁魔力再生系统."
 
- tech_magic_kinetic_artillery_1:0 "魔力动能大炮"
- tech_magic_kinetic_artillery_1_desc:0 "解锁魔力动能大炮."
-
- tech_magic_mass_accelerator_1:0 "魔力质量加速器"
- tech_magic_mass_accelerator_1_desc:0 "解锁魔力质量加速器."
-
- tech_magic_autocannons_1:0 "魔力自动机炮"
- tech_magic_autocannons_1_desc:0 "解锁魔力自动机炮."
-
- tech_magic_flak_batteries_1:0 "魔力防空火炮"
- tech_magic_flak_batteries_1_desc:0 "解锁魔力防空火炮."
-
  tech_magic_missiles_1:0 "魔力导弹"
  tech_magic_missiles_1_desc:0 "解锁魔力导弹."
-
- tech_magic_swarmer_missiles_1:0 "魔力旋风导弹"
- tech_magic_swarmer_missiles_1_desc:0 "解锁魔力旋风导弹."
-
- tech_magic_torpedoes_1:0 "魔力鱼雷"
- tech_magic_torpedoes_1_desc:0 "解锁魔力鱼雷."
 
  tech_magic_reactor_boosters_1:0 "魔力反应堆助推器"
  tech_magic_reactor_boosters_1_desc:0 "解锁魔力反应堆助推器."
@@ -85,23 +82,8 @@
  tech_magic_lasers_1:0 "魔力激光发射器"
  tech_magic_lasers_1_desc:0 "解锁魔力激光发射器."
 
- tech_magic_energy_lance_1:0 "魔力光矛"
- tech_magic_energy_lance_1_desc:0 "解锁魔力光矛."
-
  tech_magic_plasma_1:0 "魔力等离子炮"
  tech_magic_plasma_1_desc:0 "解锁魔力等离子炮."
-
- tech_magic_arc_emitter_1:0 "魔力聚焦电弧发射器"
- tech_magic_arc_emitter_1_desc:0 "解锁魔力聚焦电弧发射器."
-
- tech_magic_disruptors_1:0 "魔力裂解器"
- tech_magic_disruptors_1_desc:0 "解锁魔力裂解器."
-
- tech_magic_energy_torpedoes_1:0 "魔力能量发射器"
- tech_magic_energy_torpedoes_1_desc:0 "解锁魔力能量发射器."
-
- tech_magic_perdition_beam_1:0 "魔力毁灭光束"
- tech_magic_perdition_beam_1_desc:0 "解锁魔力毁灭光束."
 
  tech_magic_pd_tracking_1:0 "魔力点防御"
  tech_magic_pd_tracking_1_desc:0 "解锁魔力点防御."
@@ -130,20 +112,8 @@
  tech_magic_mass_accelerator_2:0 "以太质量加速器"
  tech_magic_mass_accelerator_2_desc:0 "解锁以太质量加速器."
 
- tech_magic_autocannons_2:0 "以太自动机炮"
- tech_magic_autocannons_2_desc:0 "解锁以太自动机炮."
-
- tech_magic_flak_batteries_2:0 "以太防空火炮"
- tech_magic_flak_batteries_2_desc:0 "解锁以太防空火炮."
-
  tech_magic_missiles_2:0 "以太导弹"
  tech_magic_missiles_2_desc:0 "解锁以太导弹."
-
- tech_magic_swarmer_missiles_2:0 "以太旋风导弹"
- tech_magic_swarmer_missiles_2_desc:0 "解锁以太旋风导弹."
-
- tech_magic_torpedoes_2:0 "以太鱼雷"
- tech_magic_torpedoes_2_desc:0 "解锁以太鱼雷."
 
  tech_magic_reactor_boosters_2:0 "以太反应堆助推器"
  tech_magic_reactor_boosters_2_desc:0 "解锁以太反应堆助推器."
@@ -157,17 +127,8 @@
  tech_magic_plasma_2:0 "以太等离子炮"
  tech_magic_plasma_2_desc:0 "解锁以太等离子炮."
 
- tech_magic_arc_emitter_2:0 "以太聚焦电弧发射器"
- tech_magic_arc_emitter_2_desc:0 "解锁以太聚焦电弧发射器."
-
- tech_magic_disruptors_2:0 "以太裂解器"
- tech_magic_disruptors_2_desc:0 "解锁以太裂解器."
-
  tech_magic_energy_torpedoes_2:0 "以太能量发射器"
  tech_magic_energy_torpedoes_2_desc:0 "解锁以太能量发射器."
-
- tech_magic_perdition_beam_2:0 "以太毁灭光束"
- tech_magic_perdition_beam_2_desc:0 "解锁以太毁灭光束."
 
  tech_magic_pd_tracking_2:0 "以太点防御"
  tech_magic_pd_tracking_2_desc:0 "解锁以太点防御."
@@ -196,20 +157,8 @@
  tech_magic_mass_accelerator_3:0 "秘术质量加速器"
  tech_magic_mass_accelerator_3_desc:0 "解锁秘术质量加速器."
 
- tech_magic_autocannons_3:0 "秘术自动机炮"
- tech_magic_autocannons_3_desc:0 "解锁秘术自动机炮."
-
- tech_magic_flak_batteries_3:0 "秘术防空火炮"
- tech_magic_flak_batteries_3_desc:0 "解锁秘术防空火炮."
-
  tech_magic_missiles_3:0 "秘术导弹"
  tech_magic_missiles_3_desc:0 "解锁秘术导弹."
-
- tech_magic_swarmer_missiles_3:0 "秘术旋风导弹"
- tech_magic_swarmer_missiles_3_desc:0 "解锁秘术旋风导弹."
-
- tech_magic_torpedoes_3:0 "秘术鱼雷"
- tech_magic_torpedoes_3_desc:0 "解锁秘术鱼雷."
 
  tech_magic_reactor_boosters_3:0 "秘术反应堆助推器"
  tech_magic_reactor_boosters_3_desc:0 "解锁秘术反应堆助推器."
@@ -222,12 +171,6 @@
 
  tech_magic_plasma_3:0 "秘术等离子炮"
  tech_magic_plasma_3_desc:0 "解锁秘术等离子炮."
-
- tech_magic_arc_emitter_3:0 "秘术聚焦电弧发射器"
- tech_magic_arc_emitter_3_desc:0 "解锁秘术聚焦电弧发射器."
-
- tech_magic_disruptors_3:0 "秘术裂解器"
- tech_magic_disruptors_3_desc:0 "解锁秘术裂解器."
 
  tech_magic_energy_torpedoes_3:0 "秘术能量发射器"
  tech_magic_energy_torpedoes_3_desc:0 "解锁秘术能量发射器."
@@ -262,20 +205,8 @@
  tech_magic_mass_accelerator_4:0 "使者质量加速器"
  tech_magic_mass_accelerator_4_desc:0 "解锁使者质量加速器."
 
- tech_magic_autocannons_4:0 "使者自动机炮"
- tech_magic_autocannons_4_desc:0 "解锁使者自动机炮."
-
- tech_magic_flak_batteries_4:0 "使者防空火炮"
- tech_magic_flak_batteries_4_desc:0 "解锁使者防空火炮."
-
  tech_magic_missiles_4:0 "使者导弹"
  tech_magic_missiles_4_desc:0 "解锁使者导弹."
-
- tech_magic_swarmer_missiles_4:0 "使者旋风导弹"
- tech_magic_swarmer_missiles_4_desc:0 "解锁使者旋风导弹."
-
- tech_magic_torpedoes_4:0 "使者鱼雷"
- tech_magic_torpedoes_4_desc:0 "解锁使者鱼雷."
 
  tech_magic_reactor_boosters_4:0 "使者反应堆助推器"
  tech_magic_reactor_boosters_4_desc:0 "解锁使者反应堆助推器."
@@ -288,12 +219,6 @@
 
  tech_magic_plasma_4:0 "使者等离子炮"
  tech_magic_plasma_4_desc:0 "解锁使者等离子炮."
-
- tech_magic_arc_emitter_4:0 "使者聚焦电弧发射器"
- tech_magic_arc_emitter_4_desc:0 "解锁使者聚焦电弧发射器."
-
- tech_magic_disruptors_4:0 "使者裂解器"
- tech_magic_disruptors_4_desc:0 "解锁使者裂解器."
 
  tech_magic_energy_torpedoes_4:0 "使者能量发射器"
  tech_magic_energy_torpedoes_4_desc:0 "解锁使者能量发射器."

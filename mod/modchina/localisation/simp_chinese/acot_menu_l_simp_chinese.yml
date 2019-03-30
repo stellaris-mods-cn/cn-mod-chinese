@@ -66,6 +66,9 @@ acot_mod_options.10.a.tooltip: "禁用所有与暗物质有关的ACOT事件。�
 acot_mod_options.10.b: "暗物质事件§R禁用§!。 §G启用§!?"
 acot_mod_options.10.b.tooltip: "启用所有关于暗物质的ACOT事件。这将导致一些事件的发生，比如pleb要求使用暗物质技术或者从你的科学飞船上偷东西。如果你更愿意人工智能最终变得更好，那就很好。"
 
+acot_mod_options.11: "给我星状体科技就行了"
+acot_mod_options.11.tooltip: "你的愿望将会实现，但是技术将会由超越你的帝国存在的模因代理提供。\n\n现在回去，执行者。把塔萨达和黑暗圣堂武士交给爱尔，秘会也许会对你仁慈。"
+
 acot_mod_options.200: "AE AI难度设置"
 
 acot_mod_options.200.a: "将AE AI的加成改为 : §W无§!"
@@ -115,8 +118,8 @@ acot_mod_options.4.2.b.tooltip: "我们的领导人将履行他们的职责，�
 resurface_protocol: "不朽协议进行"
 resurface_protocol_desc: "永恒的服务。"
 
-acot_mod_options.5.title: "不朽协议进行"
-acot_mod_options.5.desc: "我们的领导人之一，[From.GetName]已经被终止。但不朽协议是有效的，将能够重建[From.GetName]回来。\n\n然而，如果[From.GetName]因为不称职或无节制而被解雇，该单位将不会返回。 \n\n我们继续好吗?"
-acot_mod_options.5.a: "是的，我们会重建[From.GetName]，我们有技术。"
-acot_mod_options.5.a.explain: "不会让你们解雇的领导人回来。"
-acot_mod_options.5.b: "[From.GetName]对我们来说既烦人又没用，我们应当得到一个更好的模型。"
+acot_mod_options.50.title: "不朽协议进行"
+acot_mod_options.50.desc: "我们的领导人之一，[From.GetName]已经被终止。但不朽协议是有效的，将能够重建[From.GetName]回来。\n\n然而，如果[From.GetName]因为不称职或无节制而被解雇，该单位将不会返回。 \n\n我们继续好吗?"
+acot_mod_options.50.a: "是的，我们会重建[From.GetName]，我们有技术。"
+acot_mod_options.50.a.explain: "不会让你们解雇的领导人回来。"
+acot_mod_options.50.b: "[From.GetName]对我们来说既烦人又没用，我们应当得到一个更好的模型。"

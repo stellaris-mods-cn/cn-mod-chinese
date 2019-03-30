@@ -155,11 +155,11 @@
  bwm_artifact.35.desc:0 "目前没有 $bwm_artifact_bomb_1_plural$ 可以给我们继续引爆。"
  
  bwm_artifact.50.name:0 "幽冥之境 - 致命的诱惑"
- bwm_artifact.50.desc:0 "该星系处在不可穿透的未知起源的云中。我们的传感器无法深入到内部，这将需要时间来调整以适应新的情况（请将科研船换上原版最好的探测器，MOD的不行，不然无法激活后续事件）。"
+ bwm_artifact.50.desc:0 "该星系处在不可穿透的未知起源的云中。我们的传感器无法深入到内部，这将需要时间来调整以适应新的情况。"
  bwm_artifact.50.a:0 "给科研船换装新的探测器。"
  
  bwm_artifact.51.name:0 "幽冥之境 - 夺命的旅途"
- bwm_artifact.51.desc:0 "我们发现在气态巨星的附近存在一些空间站，这值得我们进一步调查（研究后开启三个密码事件）。"
+ bwm_artifact.51.desc:0 "我们发现在气态巨星的附近存在一些空间站，这值得我们进一步调查。"
  bwm_artifact.51.a:0 "那就去做。"
  
  bwm_artifact.52.name:0 "幽冥之境 - 远古的痕迹"

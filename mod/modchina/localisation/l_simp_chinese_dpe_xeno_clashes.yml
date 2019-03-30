@@ -1,5 +1,5 @@
 ﻿l_simp_chinese:
-#l_english:
+#l_simp_chinese:
 #commented this out so that I get the correct tooltips with my validator
 
 cc_xeno_clashes.2.name:0 "[root.GetName]上的仇恨言论"
