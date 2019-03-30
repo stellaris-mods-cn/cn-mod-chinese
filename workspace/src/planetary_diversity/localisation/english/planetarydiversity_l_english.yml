@@ -1309,3 +1309,33 @@ fallingtiyanki:0 "Recently Fallen Tiyanki"
  pop_liberation_fever_desc:0 "Liberation Fever"
  colony.107.desc.nuked_pref:0 "Nuke Pref"
  colony.107.a.tooltip:0 "Colony Event 107.a"
+
+ #Machine Special World Starts
+ civic_machine_crystal_world:0 "Crystal Home"
+ civic_machine_crystal_world_desc:0 "The dominant species of this planet has evolved amoung the crystal pillars of this unique world."
+ civic_machine_floating_world:0 "Floating Home"
+ civic_machine_floating_world_desc:0 "The dominant species of this planet has evolved amoung the floating islands of this unique world."
+ civic_machine_graveyard_world:0 "Graveyard Home"
+ civic_machine_graveyard_world_desc:0 "The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world."
+ civic_machine_technoorganic_world:0 "Techno-Organic Home"
+ civic_machine_technoorganic_world_desc:0 "The dominant species of this planet has evolved amoung the synthetic forest of this unique world."
+
+ #Crystal/Floating Hive/Robot Jobs
+ job_crystal_hive:0 "Crystal Carver"
+ job_crystal_hive_plural:0 "Crystal Carvers"
+ job_crystal_hive_desc:0 "These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at."
+ job_crystal_hive_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£."
+ job_crystal_robot:0 "Crystal Carver"
+ job_crystal_robot_plural:0 "Crystal Carvers"
+ job_crystal_robot_desc:0 "These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at."
+ job_crystal_robot_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£."
+ job_eludium_hive:0 "Eludium Expert"
+ job_eludium_hive_plural:0 "Eludium Experts"
+ job_eludium_hive_desc:0 "These hive workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well."
+ job_eludium_hive_effect_desc:0 "$job_eludium_hive$ $job_eludium_hive_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£."
+ job_eludium_robot:0 "Eludium Expert"
+ job_eludium_robot_plural:0 "Eludium Experts"
+ job_eludium_robot_desc:0 "These robot workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well."
+ job_eludium_robot_effect_desc:0 "$job_eludium_robot$ $job_eludium_robot_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£."
+
+ 
