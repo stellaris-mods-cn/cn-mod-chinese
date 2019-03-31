@@ -2482,53 +2482,53 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## colony.107.a.tooltip -> Colony Event 107.a ##
 
  #Machine Special World Starts
- civic_machine_crystal_world:0 "Crystal Home"
+ civic_machine_crystal_world:0 "水晶家园"
 ## civic_machine_crystal_world -> Crystal Home ##
- civic_machine_crystal_world_desc:0 "The dominant species of this planet has evolved amoung the crystal pillars of this unique world."
+ civic_machine_crystal_world_desc:0 "这个星球的主要物种已经在这个独特的水晶星球上进化。"
 ## civic_machine_crystal_world_desc -> The dominant species of this planet has evolved amoung the crystal pillars of this unique world. ##
- civic_machine_floating_world:0 "Floating Home"
+ civic_machine_floating_world:0 "浮岛家园"
 ## civic_machine_floating_world -> Floating Home ##
- civic_machine_floating_world_desc:0 "The dominant species of this planet has evolved amoung the floating islands of this unique world."
+ civic_machine_floating_world_desc:0 "这个星球的主要物种是在这个独特的漂浮岛屿上进化而来的。"
 ## civic_machine_floating_world_desc -> The dominant species of this planet has evolved amoung the floating islands of this unique world. ##
- civic_machine_graveyard_world:0 "Graveyard Home"
+ civic_machine_graveyard_world:0 "墓地家园"
 ## civic_machine_graveyard_world -> Graveyard Home ##
- civic_machine_graveyard_world_desc:0 "The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world."
+ civic_machine_graveyard_world_desc:0 "这个星球的主要物种已经在这个独特的提杨凯墓地中进化。"
 ## civic_machine_graveyard_world_desc -> The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world. ##
- civic_machine_technoorganic_world:0 "Techno-Organic Home"
+ civic_machine_technoorganic_world:0 "电子生物家园"
 ## civic_machine_technoorganic_world -> Techno-Organic Home ##
- civic_machine_technoorganic_world_desc:0 "The dominant species of this planet has evolved amoung the synthetic forest of this unique world."
+ civic_machine_technoorganic_world_desc:0 "这个星球的主要物种在这个独特的人造森林中进化而来。"
 ## civic_machine_technoorganic_world_desc -> The dominant species of this planet has evolved amoung the synthetic forest of this unique world. ##
 
  #Crystal/Floating Hive/Robot Jobs
- job_crystal_hive:0 "Crystal Carver"
+ job_crystal_hive:0 "水晶雕刻工蜂"
 ## job_crystal_hive -> Crystal Carver ##
- job_crystal_hive_plural:0 "Crystal Carvers"
+ job_crystal_hive_plural:0 "水晶雕刻工蜂"
 ## job_crystal_hive_plural -> Crystal Carvers ##
- job_crystal_hive_desc:0 "These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at."
+ job_crystal_hive_desc:0 "这些水晶雕刻工蜂，可以把天然的艾森水晶做成各种形状，增强了水晶的效果。"
 ## job_crystal_hive_desc -> These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at. ##
- job_crystal_hive_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£."
+ job_crystal_hive_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$通过使用艾森水晶雕刻物品将£consumer_goods£ §Y$consumer_goods$§!把它们变成£tradevalue£, £acean£和£crystal£。"
 ## job_crystal_hive_effect_desc -> $job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£. ##
- job_crystal_robot:0 "Crystal Carver"
+ job_crystal_robot:0 "水晶雕刻单元"
 ## job_crystal_robot -> Crystal Carver ##
- job_crystal_robot_plural:0 "Crystal Carvers"
+ job_crystal_robot_plural:0 "水晶雕刻单元"
 ## job_crystal_robot_plural -> Crystal Carvers ##
- job_crystal_robot_desc:0 "These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at."
+ job_crystal_robot_desc:0 "这些水晶雕刻单元，用于把天然的艾森水晶做成各种形状，增强了水晶的效果。"
 ## job_crystal_robot_desc -> These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at. ##
- job_crystal_robot_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£."
+ job_crystal_robot_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$通过使用艾森水晶雕刻物品将£consumer_goods£ §Y$consumer_goods$§!把它们变成£tradevalue£, £acean£和£crystal£。"
 ## job_crystal_robot_effect_desc -> $job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£. ##
- job_eludium_hive:0 "Eludium Expert"
+ job_eludium_hive:0 "零重素工蜂"
 ## job_eludium_hive -> Eludium Expert ##
- job_eludium_hive_plural:0 "Eludium Experts"
+ job_eludium_hive_plural:0 "零重素工蜂"
 ## job_eludium_hive_plural -> Eludium Experts ##
- job_eludium_hive_desc:0 "These hive workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well."
+ job_eludium_hive_desc:0 "这些工蜂个体既净化又研究稀有元素零重素，允许将其运出星球，极大地增加了我们对物理学的理解。净化副产物也会产生 £motes£。"
 ## job_eludium_hive_desc -> These hive workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well. ##
  job_eludium_hive_effect_desc:0 "$job_eludium_hive$ $job_eludium_hive_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£."
 ## job_eludium_hive_effect_desc -> $job_eludium_hive$ $job_eludium_hive_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£. ##
- job_eludium_robot:0 "Eludium Expert"
+ job_eludium_robot:0 "零重素处理单元"
 ## job_eludium_robot -> Eludium Expert ##
- job_eludium_robot_plural:0 "Eludium Experts"
+ job_eludium_robot_plural:0 "零重素处理单元"
 ## job_eludium_robot_plural -> Eludium Experts ##
- job_eludium_robot_desc:0 "These robot workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well."
+ job_eludium_robot_desc:0 "这些处理单元既净化又研究稀有元素零重素，允许将其运出星球，极大地增加了我们对物理学的理解。净化副产物也会产生 £motes£。"
 ## job_eludium_robot_desc -> These robot workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well. ##
  job_eludium_robot_effect_desc:0 "$job_eludium_robot$ $job_eludium_robot_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£."
 ## job_eludium_robot_effect_desc -> $job_eludium_robot$ $job_eludium_robot_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£. ##
