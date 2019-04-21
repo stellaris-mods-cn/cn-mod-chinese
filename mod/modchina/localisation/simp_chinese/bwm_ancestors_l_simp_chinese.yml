@@ -177,9 +177,9 @@
  bwm_ancestor_worlds:0 "§Y改造世界（被神之子占据的星球）§!" 
  bwm_ancestor_worlds_cleansed:0 "§Y改造世界的洁净（被消灭的星球）§!" 
  bwm_ancestor_kills_us:0 "§G选择我们的将死之人（你击杀的敌军数量）§!" 
- bwm_ancestor_kills_others:0 "§G选择其他的将死之人（其他人击杀的敌军数量）§!" 
+ bwm_ancestor_kills_others:0 "§G选择其他的将死之人（其他帝国击杀的敌军数量）§!" 
  bwm_ancestor_victims:0 "§转换容器（神之子生产的战舰）§!" 
- bwm_ancestor_herald_counter:0 "§H预示着征服（被神之子消灭的文明）。§!"
+ bwm_ancestor_herald_counter:0 "§H预示着征服（被神之子消灭的文明）§!"
  
  bwm_ancestor_herald_1_poi:0 "第一报道"
  bwm_ancestor_herald_1_poi_desc:0 "指定'第一报道'的亚空间识别码。"

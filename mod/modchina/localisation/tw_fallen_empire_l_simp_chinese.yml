@@ -23,8 +23,8 @@
   tww_fallen_4_DESC:0 "排外主义失落帝国开始"
   FEE_ringworld_NAME:0 "无限灯塔"
   FEE_ringworld_DESC:0 "老唯物主义者的人生开始了"
-
-
+ requires_cosmic_energy_theory:0 "需要宇宙能量理论。宇宙能量理论要求对暗物质和星能量(如果安装了ACOT)有基本的了解"
+  
   EE_ringworld_NAME:0 "循环"
   EE_ringworld_DESC:0 "永恒帝国环形世界开始"
   twtwee_fallen_1_NAME:0 "伟大的枢纽"

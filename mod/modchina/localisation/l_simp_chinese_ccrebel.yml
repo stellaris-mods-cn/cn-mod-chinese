@@ -22,7 +22,7 @@ revolutionary_mobilisation_0_5_desc:0 "$revolutionary_mobilisation_desc$"
 
 nationalist_revolt:0 "民族主义革命热情"
 
-rebellionscript.9.name:0 "$unrest_title$ Revolt on [Root.GetName]!"
+rebellionscript.9.name:0 "$unrest_title$在[Root.GetName]上反抗！"
 rebellionscript.9.desc:0 "在[rebellion.GetName]的成功革命的激励下，[rebellion.GetSpeciesNamePlural]奋起与[Root.GetName]联合。"
 
 rebellionscript.12.desc.returner:0 "在[rebellion.GetName]的成功革命的激励下，复仇主义分子占领了[Root.GetName]!!他们为自由而战，最终目标是与[fatherland.GetName]重聚。"
@@ -40,6 +40,9 @@ rebellionscript.17.desc.gestalt:0 "在被[from.GetName]击败后，[root.GetName
 rebellionscript.25.name:0 "国家电力恢复"
 rebellionscript.25.desc:0 "今天，[Root.GetName]的人民松了一口气，新改革的海军终于揭开了面纱。人口不再感到脆弱，对未来充满信心。"
 rebellionscript.25.desc.gestalt:0 "[Root.GetName]的新舰队终于揭开了面纱。不结盟的分子被它的力量所震慑，并且已经停止了对自由的鼓动，因为他们知道自由不再是可实现的。"
+rebellionscript.25.desc.ally:0 "今天，[Root.GetName]的人民终于松了一口气，因为从[cc_strong_ally.GetName]的领袖确认了他们将在战争中援助我们。现在我们有了[cc_strong_ally.GetAdj]的支持，我们的人民不在感到弱小绝望，能够充满信心地展望未来。"
+rebellionscript.25.desc.gestalt.ally:0 "[cc_strong_ally.GetName]的统治阶层向我们保证，他们将在战争中支持我们。由于担心[cc_strong_ally.GetAdj]强大的舰队力量，那些不结盟分子已经不再鼓动自由，因为他们知道自由不再现实。"
+rebellionscript.25.option:0 "很高兴知道。"
 rebellionscript.25.option:0 "很高兴知道。"
 
 
@@ -114,7 +117,7 @@ rebellionscript.46.option:0 "我们承认失败。"
 #rebellionscript.46.option.tooltip:0 "Planets that seceded to the [Root.GetName] from the [cc_war_victor.GetName] and their allies via patriotic revolts during the recent war will be given back."
 
 #rebellionscript.461.name:0 "Patriot Revolts during the War"
-#rebellionscript.461.desc:0 "During the war, some of our planets defected to the [cc_war_loser.GetName]. However, we were able to overcome the [cc_war_loser.GetSpeciesAdj] fleets and defeat them. We had never consented to recognise these defections, so they were left out of the peace deal. Instead, our negotiating team has demanded that our planets be returned to us immediately, separately to the main peace deal." 
+#rebellionscript.461.desc:0 "During the war, some of our planets defected to the [cc_war_loser.GetName]. However, we were able to overcome the [cc_war_loser.GetSpeciesAdj] fleets and defeat them. We had never consented to recognise these defections, so they were left out of the peace deal. Instead, our negotiating team has demanded that our planets be returned to us immediately, separately to the main peace deal."
 #rebellionscript.461.option:0 "Good"
 
 #rebellionscript.462.name:0 "The Victor's Demands"
@@ -190,8 +193,8 @@ cc_terror_state_desc:0 "国家正在部署其大量的资源——以及任何�
 
 #------Sowing Unrest
 
-edict_ccrebel_sow_unrest:0 "播种动荡"
-edict_ccrebel_sow_unrest_desc:0 "使用这个星球作为基地，通过它在附近的敌人星球上散布动乱。\n\n使用说明:\n-这项法令将为每个拥有4条 超空间航道的行星增添不稳定性(如果你已经研究过了§G$tech_ccrebel_unrest_2$§!)它属于一个你并不友好的帝国，只要这个星球有受快乐影响的 £pops 人口。它还将添加一个不幸修饰符的 £pops 人口出现在你的帝国的物种。  受快乐影响的 £pops 人口。它也会给你的帝国的物种增加一个不快乐的修正。\n-如果你研究过 £society  技术§G$tech_ccrebel_unrest_2$§!，它也会为你的帝国的主要思潮创造伦理吸引力(如果这不是目标的道德标准，与帝国思潮相对立), 那么这种道德的 £pops 人口将会得到一个不愉快的修饰。如果你是$ethic_fanatic_egalitarian$，或你是$ethic_fanatic_xenophile$，则你的目标是$ethic_xenophobe$，这也适用于奴隶。"
+ccrebel_sow_unrest:0 "播种动荡"
+ccrebel_sow_unrest_desc:0 "使用这个星球作为基地，通过它在附近的敌人星球上散布动乱。\n\n使用说明:\n-这项法令将为每个拥有4条 超空间航道的行星增添不稳定性(如果你已经研究过了§G$tech_ccrebel_unrest_2$§!)它属于一个你并不友好的帝国，只要这个星球有受快乐影响的 £pops 人口。它还将添加一个不幸修饰符的 £pops 人口出现在你的帝国的物种。  受快乐影响的 £pops 人口。它也会给你的帝国的物种增加一个不快乐的修正。\n-如果你研究过 £society  技术§G$tech_ccrebel_unrest_2$§!，它也会为你的帝国的主要思潮创造伦理吸引力(如果这不是目标的道德标准，与帝国思潮相对立), 那么这种道德的 £pops 人口将会得到一个不愉快的修饰。如果你是$ethic_fanatic_egalitarian$，或你是$ethic_fanatic_xenophile$，则你的目标是$ethic_xenophobe$，这也适用于奴隶。"
 
 opinion_ccrebel_stirring_up:0 "激起我们星球上的不安"
 opinion_ccrebel_subsidised:0 "资助我们"
@@ -293,8 +296,38 @@ ccrebel_sowing_up_planet_4_desc:0 "$ccrebel_sowing_up_planet_desc$"
 
 ccrebel_subsidised_1:0 "支持叛军"
 ccrebel_subsidised_1_desc:0 "这个星球是由外国势力资助的一场叛乱的首都。"
+ccrebel_subsidised_1_1:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_1_1_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_1_2:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_1_2_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_1_3:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_1_3_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_1_4:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_1_4_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_1_5:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_1_5_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_2_5:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_2_5_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_2_4:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_2_4_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_2_3:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_2_3_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_2_2:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_2_2_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_2_1:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_2_1_desc:0 "$ccrebel_subsidised_1_desc$"
 ccrebel_subsidised_2:0 "$ccrebel_subsidised_1$"
 ccrebel_subsidised_2_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_3_5:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_3_5_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_3_4:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_3_4_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_3_3:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_3_3_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_3_2:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_3_2_desc:0 "$ccrebel_subsidised_1_desc$"
+ccrebel_subsidised_3_1:0 "$ccrebel_subsidised_1$"
+ccrebel_subsidised_3_1_desc:0 "$ccrebel_subsidised_1_desc$"
 ccrebel_subsidised_3:0 "$ccrebel_subsidised_1$"
 ccrebel_subsidised_3_desc:0 "$ccrebel_subsidised_1_desc$"
 
@@ -343,7 +376,7 @@ tech_ccrebel_unrest_2_desc:0 "更好的技术可以提高间谍任务的效率�
 #Notification that someone is sowing unrest
 ccrebel_sow_unrest.1.name:0 "[ccrebel_sowing_unrest_1.GetName]正在我们的星球上播撒动乱。"
 ccrebel_sow_unrest.1.desc:0 "有消息说，奸诈的[ccrebel_sowing_unrest_1.GetSpeciesNamePlural]正试图向[ccrebel_sow_unrest_target.GetName]和其他附近的星球传播动乱。人们认为他们是在利用[ccrebel_sow_unrest_source.GetName]作为传播仇恨信息的基地。"
-ccrebel_sow_unrest.1.option:0 "They will pay for this."
+ccrebel_sow_unrest.1.option:0 "他们会为此付出代价的。"
 
 #Event for deciding whether to subsidise a rebellion
 ccrebel_sow_unrest.4.name:0 "[ccrebel_subsidised_rebels.GetName]期待我们的支持"
@@ -362,9 +395,9 @@ ccrebel_sow_unrest.5.name:0 "[ccrebel_subsidised_rebels.GetName]的补贴已经�
 ccrebel_sow_unrest.5.desc:0 "来自[Root.GetRulerTitle] [Root.GetRulerName]的问候。在过去的十年里，你们一直在向我们提供补贴——这种补贴对我们来说是无价的，因为我们能够抵御对我们艰苦奋斗的独立的威胁。你会把补贴延伸到未来吗?"
 ccrebel_sow_unrest.5.option.A:0 "继续提供巨额援助。"
 ccrebel_sow_unrest.5.option.A.tooltip:0 "100 §Y$energy$§!和100 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n100 §Y$energy$§!和100 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。"
-ccrebel_sow_unrest.5.option.B:0 "Continue with a medium subsidy."
+ccrebel_sow_unrest.5.option.B:0 "继续提供中额援助。"
 ccrebel_sow_unrest.5.option.B.tooltip:0 "50 §Y$energy$§!和50 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n50 §Y$energy$§!和50 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。"
-ccrebel_sow_unrest.5.option.C:0 "Continue with a small subsidy."
+ccrebel_sow_unrest.5.option.C:0 "继续提供低额援助。"
 ccrebel_sow_unrest.5.option.C.tooltip:0 "25 §Y$energy$§!和25 §Y$minerals$§!将从§Y[ccrebel_subsidising_planet.GetName]§!未来10年的收入中扣除。\n25 §Y$energy$§!和25 §Y$minerals$§!在未来的十年里，这将增加§Y[ccrebel_subsidised_rebels.GetName]§!的收入。"
 ccrebel_sow_unrest.5.option.D:0 "他们不再需要我们的支持。"
 
@@ -394,6 +427,9 @@ ccrebel_sow_unrest.71.option:0 "他们会为此付出代价。"
 
 feature_ccrebel_sow_unrest_better:0 "改良播撒动荡的法令"
 feature_ccrebel_sow_unrest_better_desc:0 "§Y播种动荡§!为你的帝国的主要精神和不愉快的修改添加了道德规范。范围增加50%."
+
+feature_ccrebel_sow_unrest:0 "播种动荡的决定"
+feature_ccrebel_sow_unrest_desc:0 "建立行星作为基地，通过它在附近的敌方行星上播下动乱的种子。"
 
 #tech_gene_tailoring_modifier_desc
 
@@ -473,6 +509,24 @@ ccrebel_unrest_default_desc:0 "有奴隶制或净化的非玩家派别将会得�
 ccrebel_unrest_vanilla:0 "常规值"
 ccrebel_unrest_vanilla_name:0 "$ccrebel_unrest_vanilla$"
 ccrebel_unrest_vanilla_desc:0 "无加成。"
-ccrebel_unrest_hard:0 "困难模式"
+ccrebel_unrest_hard:0 "动乱:困难"
 ccrebel_unrest_hard_name:0 "$ccrebel_unrest_hard$"
 ccrebel_unrest_hard_desc:0 "玩家得到+30动乱，所有AI得到+20动乱。"
+
+
+mod_planets_unity_produces_add:0 "$mod_country_unity_produces_mult$"
+mod_planets_influence_produces_add:0 "$mod_country_influence_produces_mult$"
+mod_planets_minerals_produces_add:0 "$mod_country_minerals_produces_mult$"
+mod_planets_energy_produces_add:0 "$mod_country_energy_produces_mult$"
+
+
+
+casus_belli_ccrebel_cb_sowing_unrest:0 "播种动荡"
+war_goal_wg_ccrebel_stop_su:0 "停止播种动荡"
+war_goal_wg_ccrebel_stop_su_desc:0 "战争是为了阻止敌人在其他国家播下动乱和干涉的种子。"
+
+wg_ccrebel_stop_su_accept:0 "§Y[from.GetName]§!将停止在§Y[root.GetAdj]§!上的播种动荡。\n并且§Y[from.GetName]§!在15年内不能使用播种动荡。"
+
+ccrebel_su_war_lost:0 "和平条约禁止散播动乱。"
+edict_ccrebel_sow_unrest:0 "播种动荡"
+edict_ccrebel_sow_unrest_desc:0 "使用这个星球作为基地，通过它在附近的敌人星球上散布动乱。\n\n使用说明:\n-这项法令将为每个拥有4条 超空间航道的行星增添不稳定性(如果你已经研究过了§G$tech_ccrebel_unrest_2$§!)它属于一个你并不友好的帝国，只要这个星球有受快乐影响的 £pops 人口。它还将添加一个不幸修饰符的 £pops 人口出现在你的帝国的物种。  受快乐影响的 £pops 人口。它也会给你的帝国的物种增加一个不快乐的修正。\n-如果你研究过 £society  技术§G$tech_ccrebel_unrest_2$§!，它也会为你的帝国的主要思潮创造伦理吸引力(如果这不是目标的道德标准，与帝国思潮相对立), 那么这种道德的 £pops 人口将会得到一个不愉快的修饰。如果你是$ethic_fanatic_egalitarian$，或你是$ethic_fanatic_xenophile$，则你的目标是$ethic_xenophobe$，这也适用于奴隶。"

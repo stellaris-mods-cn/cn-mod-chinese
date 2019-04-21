@@ -54,12 +54,9 @@
  tech_gpm_tb_Dunes:0 "清除沙丘"
  tech_gpm_tb_Dunes_desc:0 "沙丘清除项目包括成功种植植被。仅仅在沙漠地区散布和留下种子是一种潜在的浪费，因为强风可以把种子吹走。任何沙丘或洼地中幼苗的种植都应在潮湿的条件下进行，随后覆盖一层沙子。成熟的植被个体应在深孔中种植，植株的顶部剪短，以减少风的阻力。"
 
- # 7 tech
- tech_gpm_arcane_deciphering:0 "奥术破译"
- tech_gpm_arcane_deciphering_desc:0 "围绕第一个 £arcane_technology §M奥术技术§!发现形成一个研究基地，并就如何处理这种奇怪技术的进一步人工制品制定指导方针。"
+ tech_gpm_arcane_deciphering:0 "解读远古知识"
+ tech_gpm_arcane_deciphering_desc:0 "在第一个 £arcane_technology §M远古先驱科技§!的发现地建造一个研究基地，而关于如何处理这些远古造物，我们需要一份明确的说明指南。"
  gpm_arcane_deciphering_desc:0 "§H解锁法令:§! 神秘法令"
-
- # 8 tech
  gpm_tech_space_surveying:224 "行星测量"
  gpm_tech_space_surveying_desc:224 "在你的殖民星系中，解开行星决策，将资源集中到不适合居住的星球上。"
  gpm_space_surveying_desc:224 "解开不适合居住的星球决策"

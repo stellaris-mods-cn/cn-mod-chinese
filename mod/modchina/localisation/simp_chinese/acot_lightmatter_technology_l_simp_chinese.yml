@@ -75,7 +75,7 @@ ACOT_MISSILE_OE: "双重光明导弹"
 ACOT_MISSILE_OE_DESC: "“光明使者”导弹不仅比“星蛇”更具破坏力，而且是成对发射的。这使得它们在火力加倍的情况下更难被击落。"
 
 ACOT_FIGHTERS_HANGAR_OE: "圣骑士拦截机"
-ACOT_FIGHTERS_HANGAR_OE: "最先进的拦截机，胜过所有更糟糕的一代。开始打猎吧。"
+ACOT_FIGHTERS_HANGAR_OE_DESC: "最先进的拦截机，胜过所有更糟糕的一代。开始打猎吧。"
 
 ACOT_BOMBERS_HANGAR_OE: "十字军轰炸机"
 ACOT_BOMBERS_HANGAR_OE_DESC: "最先进的轰炸机，胜过所有更糟糕的一代。是时候上演真正的表演了。"
@@ -281,7 +281,7 @@ tech_lightmatter_reactive_drone: "Ω级反应无人机板"
 tech_lightmatter_reactive_drone_desc: "他是最成熟的，最耐用的，Ω级提供最好的保护，无维护。他们的贡献将载入我们帝国的档案。"
 
 tech_lightmatter_reactor: "掌握光物质"
-tech_lightmatter_reactor_desc: "通过与古人遗传相融合的星状体、灵能和合成能量的组合，光物质是一种能够自我繁殖并提供无穷无尽能量供应的生命形式。"
+tech_lightmatter_reactor_desc: "通过与古人遗传相融合的星能量、灵能和合成能量的组合，光物质是一种能够自我繁殖并提供无穷无尽能量供应的生命形式。"
 
 tech_ultimate_weapon: "神圣审判"
 tech_ultimate_weapon_desc: "作为有史以来最强大的武器之一，神圣审判以光物质和灵能的破坏力投射出祖先的终极表现形式"
@@ -353,11 +353,11 @@ ACOT_PERDITION_BEAM_OMEGA_DESC: "§Y虽然艾莉亚的温暖已不复存在，�
 ACOT_AURA_SHITTY_SE: "秃顶，有一种时髦的气质"
 ACOT_AURA_SHITTY_SE_DESC: "一个暂时的光环意味着秃顶和f00lish帝国谁试图产生设计的船舶，他们无法建立。文字无法表达这个名为Chirumiru ShiRoz的实体现在有多疯狂，他捣毁键盘，制造出这个愚蠢的、完全多余的光环，因为可怕的人工智能一直在生成错误日志，因为它想设计一艘它甚至不知道如何建造的飞船。\n\n200% MAD."
 
-BASE_STELLARITE_COMBAT_COMPUTER: "星状体计算机原型"
+BASE_STELLARITE_COMBAT_COMPUTER: "星能量计算机原型"
 BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不起眼的开始。"
 
-BASE_STELLARITE_THRUSTER: "星状体推进器原型"
+BASE_STELLARITE_THRUSTER: "星能量推进器原型"
 BASE_STELLARITE_THRUSTER_DESC: "驱动我们飞船的第一个引擎。"
 
-BASE_STELLARITE_REACTOR: "星状体反应堆原型"
+BASE_STELLARITE_REACTOR: "星能量反应堆原型"
 BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面。"

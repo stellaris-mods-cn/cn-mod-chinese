@@ -19,3 +19,60 @@ personality_sofe_playable_oe_personality: "寻求真正的飞升"
 personality_sofe_playable_oe_personality_desc: "这个古老帝国的起源可以追溯到上亿年前，在第一次先祖战争之前。他们受到了来自外部的影响和时间的破坏，他们的老师，神秘的先祖老师。\n\n他们唯一的兴趣是实现真正的飞升，就像他们的老师所展示的那样。"
 
 CANNOT_ADD_CLAIM_PLAYABLE_OE: "§R我们的首要任务是飞升，而不是毫无意义的主张。§!"
+
+
+
+
+
+
+
+
+###############LOREKEEEPER######################
+
+sofe_lorekeeper.0.name: "知识管理者"
+sofe_lorekeeper.0.desc.a: "主持..."
+sofe_lorekeeper.0.desc.b: "远古智慧的觉醒..."
+sofe_lorekeeper.0.desc.c: "你好，[root.GetRulerTitle]。今天，什么知识可以使你受益?"
+sofe_lorekeeper.0.desc.d: "觉醒意识……你需要什么，探索者?"
+sofe_lorekeeper.0.desc.e: "尊敬的同学们，请说，请听。"
+sofe_lorekeeper.0.desc.f: "建立矩阵链接。我们正在倾听。"
+sofe_lorekeeper.0.desc.g: "为你们服务，探索者们。"
+sofe_lorekeeper.0.desc.h: "我们感觉到光…然而，它是如此遥远。我们感觉到我们的生活意识在召唤我们回到它……\n\n啊,探索者。原谅我们的注意力不集中。"
+sofe_lorekeeper.0.desc.i: "我们是知识管理者。四个意识合而为一。这一次，我们将会发现什么知识和智慧?"
+
+sofe_lorekeeper.0.d: "你好!"
+
+playable_oe_init.1.desc: "你好，[root.GetRulerTitleName]。\n\n我们相信，长期的孤立并没有使贵国人民失去联系。你们克服了许多考验，完善了你们的社会。现在，帝国统一在一个目标下;寻找光明……照亮我们先祖的那盏灯。\n\n从现在开始的旅程将是艰难的，你曾经知道许多亿年前的星系将不复存在。许多月命将试图阻止你走上这条道路，前方将有更多的考验。你必须怀着伟大的目标继续前进。\n\n你们现有的武器已经足够了，但是你们需要更好的舰船来保卫你们自己。我们已经为您准备了一支护卫舰队，并将为您提供必要的知识，以更多生产力。好好利用它们，探索者。\n\n愿光明照亮你的道路，愿你的旅程是充满光荣的故事。"
+playable_oe_init.1.a: "我们现在处于什么周期?"
+playable_oe_init.1.a.1.response: "大约是第23个千禧年;大起义以来的第三个周期。光的秩序已经不复存在，只有少数的Tora'yoh仍然存在，但它们在很大程度上已经从银河的影响中消失了。他们暂时不会构成威胁，但你必须小心，因为他们仍然拥有巨大的力量。\n\n这一巨大威胁仍在肆虐，但其目前的位置和计划尚不清楚。很可能还没有在这个补丁中实现。"
+playable_oe_init.1.a.2.response: "大约是第23个千禧年;大起义以来的第三个周期。光明秩序已经不复存在，Tora'yoh在一场毫无意义的战争之后，被自己的愚蠢所征服。\n\n这一巨大威胁仍在肆虐，但其目前的位置和计划尚不清楚。很可能还没有在这个补丁中实现。"
+playable_oe_init.1.b: "给我们这些舰船不是违背了教义吗?"
+playable_oe_init.1.b.response: "在正常情况下，是的。我们很想看看你们能造出什么样的太空飞船。\n\n不幸的是。时间不站在我们这边。用不了多久，你的存在就会为别人所知，你需要这些舰船来抵御他们。\n\n这些舰船是按照你的帝国的设计建造的，并且配备了你已经了解的技术，所以它不应该把你带离你的命运太远。好好利用它们，探索者。"
+playable_oe_init.1.c: "大起义后发生了什么?"
+playable_oe_init.1.c.response: "我的人民被疏散到外围地区后，战争以僵局告终。大部分幸存下来的被灵魂转移，外星门现在已经被密封。\n\n这个星系的光已经被移除，以确保这个巨大的威胁不会破坏它。我们文明的所有痕迹，除了星门本身，都已被移除。\n\n我能隐约感觉到我的人民在另一边的存在。他们做得很好。\n\nTora'yoh无法做出妥协，他们对自己发动了超过2万年的战争，现在被归档为“阿森松战争”。银河系被烧毁，家园被摧毁。大多数盖亚星球已经退化。至少有64532个物种已经灭绝或濒临灭绝。巨大的威胁仍然存在，潜伏在阴影中。他们正在等待Chirumiru在未来的补丁中实现它们。\n\n但现在，你应该专注于你自己的命运，探索者们。这仅仅是个开始。"
+playable_oe_init.1.d: "Ni Nato Saun'thos。星辰在召唤。"
+playable_oe_init.1.d.response: "Ni Nato [root.GetRulerName]。被光祝福吧，探索者。"
+
+sofe_lorekeeper.0.a: "我们需要你的帮助。"
+
+sofe_lorekeeper.0.b: "我们希望更多地了解银河系"
+sofe_lorekeeper.0.b.response: "我很想帮你，但目前的补丁还不支持问题。不过，你可以到MOD的不和谐频道去问Chirumiru本人。"
+
+sofe_lorekeeper.1.desc: "当然，我们很荣幸能为您的旅程提供帮助。但请记住，这是你的旅程，我们只能帮助你的基本必需品。你有什么想法?"
+sofe_lorekeeper.1.a: "我们需要额外的供应。"
+sofe_lorekeeper.1.a.response: "很好，我们将对你们的产品进行调整，使你们保持繁荣。"
+sofe_lorekeeper.1.b: "我们缺乏基本的战略资源。"
+sofe_lorekeeper.1.b.response: "可以理解，在早期很难找到这些资源。我们可以提供帮助。"
+sofe_lorekeeper.1.c: "我们在我们的帝国内寻求更好的和谐。"
+sofe_lorekeeper.1.c.response: "明白了，我们将确保你们的人民继续致力于这项事业，探索者们。"
+
+ sofe_ca_damagenerf_lite: "厄洛斯"
+ sofe_ca_damagenerf_lite_desc: "科布拉"
+ sofe_ca_damagenerf_heavy: "HEAVIOUS"
+ sofe_ca_damagenerf_heavy_desc: "阿希托肖克"
+ sofe_lorekeeper_alloys_t1: "知识管理者之恩惠"
+ sofe_lorekeeper_alloys_t1_desc: "知识管理者为我们提供了额外的矿物、能量币和食物。"
+ sofe_lorekeeper_sr_t1: "知识管理者之穹顶"
+ sofe_lorekeeper_sr_t1_desc: "知识管理者为我们提供的额外战略资源。"
+ sofe_lorekeeper_unity_t1: "知识管理者之和谐"
+ sofe_lorekeeper_unity_t1_desc: "知识管理者为我们提供了额外的凝聚力、影响里和控制力。"

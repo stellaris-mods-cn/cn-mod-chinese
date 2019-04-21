@@ -10,6 +10,9 @@
  apsr9_deposit:0 "$apsr9_planet_modifier$"
  apsr9_deposit_desc:0 "$apsr9_planet_modifier_desc$\n\n§M$apsr9_deposit_effect$§!" 
  apsr9_deposit_effect:0 "独特的资源可用: $apsr9_planet_modifier$"
+
+ apsr9_destroyed_planet_modifier:0 "镮元素"
+ apsr9_destroyed_planet_modifier_desc:0 "不稳定矿物在多频率电磁干扰波的作用下会改变其质量，并产生和改变引力场。不幸的是，在一次不成功的科学实验之后，它的部分储备连同星球一起被摧毁了。"
  
  
  
@@ -163,7 +166,7 @@
  ### сообщение при исследовании планеты с ресурсом
  
  apsr.9011.title:0 "发现一个人造物: §M$apsr9_planet_modifier$§!"
- apsr.9011.desc:0 "来自科学船§H[Root.GetName]§!的一个研究小组发现了一些东西! \n在这个小小的星球上，有一些不稳定矿物的沉积物，它们似乎有能力改变其质量，扭曲重力场，或者在多频段电磁波的影响下形成一个自我。我们假设它可以是大爆炸留下的压缩物质"
+ apsr.9011.desc:0 "来自科研船§H[Root.GetName]§!的一个研究小组发现了一些东西! \n在这个小小的星球上，有一些不稳定矿物的沉积物，它们似乎有能力改变其质量，扭曲重力场，或者在多频段电磁波的影响下形成一个自我。我们假设它可以是大爆炸留下的压缩物质"
  apsr.9011.button:1 "我们必须得到这个人造物!"
  
  

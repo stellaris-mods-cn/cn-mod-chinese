@@ -472,7 +472,7 @@ tr_est_cybernetics_1_delayed:0 "先进的神经网络技术允许机器执行以
 
 tr_est_cybernetics_2:0 "无人管理人工智能科研人员"
 tr_est_cybernetics_2_desc:0 "来自§Y职位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!."
-tr_est_cybernetics_2_desc:0 "来自§Y职位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!."
+tr_est_cybernetics_2_robots_desc:0 "来自§Y职位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!."
 tr_est_cybernetics_2_delayed:0 "AI技术的进步允许AI们更能接触到最高级的任务。一些研究课题显示特别适合AI研究人员。凭借非正统的思维和强大的处理能力，他们着手了具体的问题。研究人员会偶尔检查他们的进展情况，并找出如何将其纳入我们当前的科学理论。"
 
 tr_est_cybernetics_3:0 "作战模拟"
@@ -1019,7 +1019,7 @@ tr_est_industry_3_delayed:0 "我们的高炉比银河系中的任何其他高炉
 tr_est_industry_4:0 "批量生产"
 tr_est_industry_4_robots:0 "批量生产"
 tr_est_industry_4_desc:0 "§Y舰船建造速度§!增加§G+25%§!."
-tr_est_industry_4_robots_desc: "§Y机器人装配速度§!增加§G+20%§!."
+tr_est_industry_4_robots_desc:0 "§Y机器人装配速度§!增加§G+20%§!."
 tr_est_industry_4_delayed:0 "我们的工厂能够大批量生产标准化部件，可以用来建造我们舰队所需的船只。"
 tr_est_industry_4_robots_delayed:0 "我们的工厂能够大批量生产标准化组件，可以用来构建我们国家所需的机器人。"
 

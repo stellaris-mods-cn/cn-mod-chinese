@@ -1,0 +1,79 @@
+﻿l_simp_chinese:
+  
+  # STRATEGIC RESOURCES
+
+  leng_breeder: "生命育种者"
+  leng_breeder_desc: "各种生命工程部件的设备，创造先进的生命形态。"
+
+  # SPECIES TRAITS
+  
+  leng_trait_engineered: "设计"
+  leng_trait_engineered_desc: "这个物种是由一个先进的生命工程师设计的。"
+
+  # FEATURE FLAGS
+
+  leng_feature_life_engineering: "生命工程"
+  leng_feature_life_engineering_desc: "这项技术使创造新物种成为可能。"
+
+  # TECHNOLOGIES
+
+  leng_tech_life_engineering: "生命工程"
+  leng_tech_life_engineering_desc: "通过提供必要的材料，有可能创造出单细胞生物的进化环境。通过控制这一过程，任何生物都能迅速进化成智能生物。"
+
+  # DECISIONS
+
+  leng_decision_life_engineering_project: "生命工程项目"
+  leng_decision_life_engineering_project_desc: "在这个星球上启动一个L.E.P(Life Engineering Project)。"
+
+  leng_decision_life_engineering_project_prim: "生命工程项目"
+  leng_decision_life_engineering_project_prim_desc: "在这个星球上启动一个L.E.P(Life Engineering Project)。"
+
+  # BUILDINGS
+
+  leng_building_evo_lab_1: "进化实验室"
+  leng_building_evo_lab_1_desc: "在这些设施中，生命工程师创造设备来设置和控制生物进化过程。"
+
+  # JOBS
+
+  job_leng_life_engineer: "生命工程师"
+  job_leng_life_engineer_plural: "生命工程师"
+  job_leng_life_engineer_desc: "忘记你是谁，成为某人需要的人。也许这就是生命的意义。"
+  job_leng_life_engineer_effect_desc: "£job_leng_life_engineer£ $job_leng_life_engineer_plural$将£consumer_goods£ §Y$consumer_goods$§!转变为£leng_breeder£ §Y$leng_breeder$§!"
+  mod_job_leng_life_engineer_add: "$job_leng_life_engineer$工作"
+  mod_job_leng_life_engineer_per_pop: "每$VALUE$人口§G+1§! $job_leng_life_engineer$"
+  mod_job_leng_life_engineer_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_leng_life_engineer_add£"
+
+  job_leng_life_engineer_hive: "生命工程工蜂"
+  job_leng_life_engineer_hive_plural: "生命工程工蜂"
+  job_leng_life_engineer_hive_desc: "创造多种多样的工蜂加强蜂巢，从而使我们的生存变得更有吸引力。"
+  job_leng_life_engineer_hive_effect_desc: "£job_leng_life_engineer_hive£ $job_leng_life_engineer_hive_plural$将£minerals£ §Y$minerals$§!转变为£leng_breeder£ §Y$leng_breeder$§!"
+  mod_job_leng_life_engineer_hive_add: "$job_leng_life_engineer_hive$工作"
+  mod_job_leng_life_engineer_hive_per_pop: "每$VALUE$人口§G+1§! $job_leng_life_engineer_hive$"
+  mod_job_leng_life_engineer_hive_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_leng_life_engineer_hive_add£"
+
+  job_leng_life_engineer_mech: "生命工程单位"
+  job_leng_life_engineer_mech_plural: "生命工程单位"
+  job_leng_life_engineer_mech_desc: "创造生物可以将我们的网络效率提高20%。"
+  job_leng_life_engineer_mech_effect_desc: "£job_leng_life_engineer_mech£ $job_leng_life_engineer_mech_plural$将£minerals£ §Y$minerals$§!转变为£leng_breeder£ §Y$leng_breeder$§!"
+  mod_job_leng_life_engineer_mech_add: "$job_leng_life_engineer_mech$工作"
+  mod_job_leng_life_engineer_mech_per_pop: "每$VALUE$人口§G+1§! $job_leng_life_engineer_mech$
+  mod_job_leng_life_engineer_mech_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_leng_life_engineer_mech_add£"
+
+  # EVENTS
+
+  leng_project_event.1.name: "设计进化"
+  leng_project_event.1.desc: "单细胞生物向原始生物迅速发展。科学家现在可以选择哪种类型的物种应该为下一步的进化做好准备。"
+  leng_project_event.1.hum: "创建§Y$HUM$§!物种。"
+  leng_project_event.1.mam: "创建§Y$MAM$§!物种。"
+  leng_project_event.1.rep: "创建§Y$REP$§!物种。"
+  leng_project_event.1.avi: "创建§Y$AVI$§!物种。"
+  leng_project_event.1.art: "创建§Y$ART$§!物种。"
+  leng_project_event.1.mol: "创建§Y$MOL$§!物种。"
+  leng_project_event.1.fun: "创建§Y$FUN$§!物种。"
+  leng_project_event.1.plant: "创建§Y$PLANT$§!物种。"
+
+  leng_project_event.100.name: "生命工程项目完成"
+  leng_project_event.100.desc: "生命工程师在§Y[leng_project_planet.GetName]§!上完成了进化周期。我们欢迎§Y[leng_project_species.GetName]§!来到银河系。"
+ 
+  leng_project_event.101.name: "生命工程项目完成"
+  leng_project_event.101.desc: "生命工程师在§Y[leng_project_planet.GetName]§!上完成了进化周期。我们欢迎§Y[leng_project_species.GetName]§!来到银河系。"

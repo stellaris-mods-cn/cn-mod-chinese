@@ -74,7 +74,7 @@ l_simp_chinese:
  mem_vestigial_wormhole.8.swarm.tooltip: "我们会像对待每个人一样对待八腿……"
  
  mem_vestigial_wormhole.9.name: "幽灵船"
- mem_vestigial_wormhole.9.desc: "[Leader.GetName]报告成功登上了通过[Solar_System.GetName]星系虫洞出现的神秘飞船。 \n\n[Leader.GetSheHe]和[Leader.GetHerHis]的船员在舱内发现的东西很难解释。这艘船显然是为有机船员设计的，但没有发现任何生物或可识别的遗骸。唯一能说明有机物曾经存在的东西是船员的椅子上还绑着一件空太空服。没有迹象表明船员发生了什么，假设它一开始就存在。 \n\n这艘船似乎是为探索而设计的，可以被改装成另一艘科学船。"
+ mem_vestigial_wormhole.9.desc: "[Leader.GetName]报告成功登上了通过[Solar_System.GetName]星系虫洞出现的神秘飞船。 \n\n[Leader.GetSheHe]和[Leader.GetHerHis]的船员在舱内发现的东西很难解释。这艘船显然是为有机船员设计的，但没有发现任何生物或可识别的遗骸。唯一能说明有机物曾经存在的东西是船员的椅子上还绑着一件空太空服。没有迹象表明船员发生了什么，假设它一开始就存在。 \n\n这艘船似乎是为探索而设计的，可以被改装成另一艘科研船。"
  mem_vestigial_wormhole.9.a: "让它如此。"
  mem_vestigial_wormhole.9.a.tooltip: "我们得到一艘新的§S科研船§!。"
  mem_vestigial_wormhole.9.b: "拆除这艘船，研究它的秘密。"

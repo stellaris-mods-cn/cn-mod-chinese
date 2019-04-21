@@ -43,6 +43,8 @@ NAME_PROGENITOR_AVATAR: "艾莉亚的纪念"
  NAME_Failure: "错误"
  NAME_Horror: "监狱"
 
+ NAME_SOFE_LOREKEEPER: "知识管理者"
+
 
  leader_the_executor: "永恒女神"
  leader_kolyn: "先祖凯撒"
@@ -61,6 +63,7 @@ NAME_GATEKEEPER_WARDEN: "星门守护者"
 NAME_ANCIENT_ARCHON: "远古执政官阿凡达"
 NAME_ANCIENT_ARCHON_NAME: "恨意翻涌"
 NAME_ANCIENT_ARCHON_SERVANT: "远古执政官"
+NAME_ANCIENT_ARCHON_THRALL: "加德西"
 
 gatekeeper_control_node: "守门人能量核心"
 
@@ -83,3 +86,6 @@ NAME_Planet_WardenA: "力量守护者"
 NAME_Planet_WardenB: "希望守护者"
 NAME_Planet_WardenC: "智慧守护者"
 NAME_Planet_WardenD: "团结守护者"
+
+NAME_The_Great_Veil: "伟大的面纱"
+NAME_The_Lorekeeper: "知识管理者领域"

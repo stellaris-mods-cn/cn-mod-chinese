@@ -85,40 +85,6 @@ building_giga_fortress_obelisk_desc: "安装的方尖碑的光模块大大加强
 building_giga_fortress_fe: "古代千兆堡垒"
 building_giga_fortress_fe_desc: "一个古老的，但仍然非常强大的泰坦尺寸的自我维持行星堡垒，它有着武装到牙齿的东西与入侵对抗。爆炸原始生物或野生生物是这些享乐主义者仍然享受的唯一的事情之一就像仍然被认为是“工作”一样"
 
-
-
-
-
-
-
-building_ae_affluence_center: "达芬奇密码"
-building_ae_affluence_center_desc: "让更广大的银河系人民知道，我们的产品是由我们最好的艺术家所设计的最精美的产品。"
-
-building_ae_class_4_singularity: "第6级奇点"
-building_ae_class_4_singularity_desc: "记住，关键是永远不要达到30级奇点。在那之前，加2分可能不是什么大问题。"
-
-building_ae_dimensional_fabricator: "维度阈值门"
-building_ae_dimensional_fabricator_desc: "我们有技术从我们帝国的其他维度中提取材料这些维度已经从其他帝国的其他维度中提取了材料这些维度已经从其他帝国的其他维度中提取了材料...."
-
-building_ae_sky_dome: "模因收割机"
-building_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让人们接触到足够多的迷因，他们就会学会欣赏艺术。所有的模因都流传了下来。迷因还是被迷因，杰克。"
-
-building_ae_empyrean_shrine: "宏伟的大教堂"
-building_ae_empyrean_shrine_desc: "一个真正鼓舞人心的建筑。每座大教堂对我们神圣的帝国来说都是神圣的，他们的歌声和信仰的合唱可以在星星上听到。"
-
-building_ae_master_archive: "宏伟的档案库"
-building_ae_master_archive_desc: "古老的历史跨越银河系，延续了数千年。档案保管员夜以继日地工作，试图揭开被遗忘者的秘密。"
-
-building_ae_nano_forge: "暗黑熔炉"
-building_ae_nano_forge_desc: "在这个熔炉的火坑里，令人毛骨悚然的人把不存在变成了存在。"
-
-building_ae_nourishment_center: "巨型农业综合体"
-building_ae_nourishment_center_desc: "来自银河系各地的厨师和厨师聚集在这里，探索新的食材和口味。美食!"
-
-building_ae_ancient_cryo_chamber: "先进的低温箱"
-building_ae_ancient_cryo_chamber_desc: "是的，做一个毁了的冷冻室毕竟不是一个明智的决定。"
-
-
 building_fe_mineral_processing_plant: "先进矿物加工设备"
 building_fe_mineral_processing_plant_desc: "为了更美好的未来，这是一项崇高的任务。这里加工的材料为更光明的明天铺平了道路。"
 
@@ -136,37 +102,6 @@ building_fe_institute_desc: "我们进入了发现的边缘。当我们到达目
 
 building_ae_institute: "α主控研究综合体"
 building_ae_institute_desc: "这里有无数的古代艺术品、博物馆、实验室，还有大量枯燥的纸张作品，这些都是为那些以知识为食的人准备的。据说，任何进入其中的研究人员，永远不会回来。"
-
-tech_ae_affluence_center: "完美的工匠气质"
-tech_ae_affluence_center_desc: "创造消费品不仅仅是为了满足人们的需求，更是为了以令人难以置信的方式满足他们。我们的艺术和产品是首屈一指的。"
-
-tech_ae_ancient_cryo_chamber: "妥善建造的冷冻室"
-tech_ae_ancient_cryo_chamber_desc: "这并不是一个重大的发现，建造一个破旧的冷冻室来关押罪犯并不是一个好的投资，它让我们的帝国看起来愚蠢至极。让我们再试一次，这次把它做好。"
-
-tech_ae_class_4_singularity: "第六级奇点。让我们做它!"
-tech_ae_class_4_singularity_desc: "我们在前导文档中看到过多次关于“永远不会达到Class-30奇点”的引用。这意味着系统升级4次是安全的…前面等得太久。一个?太少。\n\n我们现在用两个，第6类奇点。"
-
-tech_ae_dimensional_fabricator: "维度盗梦空间"
-tech_ae_dimensional_fabricator_desc: "在不同的维度中，还有一些人经常用同样的行为从另一个人那里偷东西。反过来，我们将从他们那里拿走我们的东西。我们将拯救银河系，从我们憎恨的人手中夺走东西，然后从我们所爱的人手中夺走。"
-
-tech_ae_sky_dome: "模因表现"
-tech_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让人们接触到足够多的迷因，他们就会学会欣赏艺术。所有的模因都流传了下来。迷因还是被迷因，杰克。"
-
-tech_ae_empyrean_shrine: "信仰的合唱"
-tech_ae_empyrean_shrine_desc: "我们的影响力必须遍及整个星球。让其他人在敬畏和恐惧中听到我们的神性。让他们见证我们对这一事业的承诺，只要一提到战舰大小的大教堂，他们就跪倒在地。"
-
-tech_ae_master_archive: "古老的记录"
-tech_ae_master_archive_desc: "我们不能只看未来，因为过去本身蕴藏着无数可以探索的秘密。我们将学习他们，学习他们，掌握他们。然后我们就吃了。"
-
-tech_ae_nano_forge: "黑暗打造"
-tech_ae_nano_forge_desc: "如果它存在，我们就会找到它们。如果它不存在，我们将创建它们。来自我们工程队的法典;第二章:第1337页。"
-
-tech_ae_nourishment_center: "银河美食"
-tech_ae_nourishment_center_desc: "最近一直有传言说，帝国之间有多种美食交流。有很多好的选择，但也有很多糟糕的选择。这是不可接受的，我们必须确保我们帝国的所有食物，无论来源如何，永远都是美味的。尽管如此，仍然有人抗议不要把蜗牛苹果放在pishza上。"
-
-
-
-
 
 #####Tech#####
 
@@ -258,15 +193,15 @@ building_fe_transmutor_desc: "为这么简单的资源浪费这么多的建筑�
 building_ae_transmutor: "超级透射球"
 building_ae_transmutor_desc: "气体、晶体或尘埃。这些平凡的资源在我们的帝国中仍然有一些利基应用。我们将把它们全部从一个专门用于这项任务的建筑中产生出来。"
 
-tech_fe_transmutor"
+building_fe_mansion: "黑暗大厦"
+building_fe_mansion_desc: "穹顶很漂亮，但是没有什么能比得上巨大的摩天大楼，在那里你可以看到壮观的景色。"
+
+building_ae_mansion: "神秘公寓"
+building_ae_mansion_desc: "从这个巨大的高耸大厦，你可以看到一个遥远的爆炸，一个哑巴城市的居民崇拜光子炸弹。太好了!"
+
+tech_dark_mansion: "文明时代"
+tech_dark_mansion_desc: "新技术带来了新的生活方式。过去的国王是怎样生活的，现在即使是最穷的穷人也会享受这种文明的生活方式，那里的建筑可以延伸到太空。"
 ### OLD TECH
-
-tech_fe_hospital: "细胞重组和重建"
-tech_fe_hospital_desc: "我们要求克隆模板来提高生长速度的日子一去不复返了。有了从前体获得的新神秘技术，我们可以用对所有已知疾病都具有抵抗力的人造活细胞来召唤新生命。"
-
-tech_fe_replicator: "强光物质产生"
-tech_fe_replicator_desc: "在我们完全理解暗物质之前，我们只能勉强画出足够产生物质的部分。现在我们意识到，利用暗物质的纯强光技术来构建大量的合成矿物是可能的。"
-
 tech_fe_galactic_trade_enclave: "银河系的商业中心"
 tech_fe_galactic_trade_enclave_desc: "我们的证券交易所虽然已经非常庞大，为我们的帝国提供了大量的收入，但却没有适当的授权来销售暗物质相关的物品。虽然我们不打算将这些神秘的技术免费提供给低等生物，但我们的市场策略指出，我们可以欺骗许多原始生物去购买带有提升者标记的琐碎小饰品或人工制品。季票、独家收藏版、预购、早入;所有的策略都将被用来实现最大的利润。" 
 
@@ -311,14 +246,14 @@ tech_fe_habitats_desc: "是时候把我们神秘的工程带到我们的家园�
 
 requires_building_fe_capital: "为了进一步改善这座建筑，需要一个神秘的首都综合体。从行星的决定中选择黑暗宫殿!"
 requires_building_fe_capital_machine: "为了进一步改善这座建筑，需要一个神秘的首都综合体。从行星的决定中选择黑暗连结!"
-
+requires_building_fe_capital_hive: "§R为了进一步完善这座建筑，需要一个神秘首都综合体。从行星的决定进化出一个黑暗的星系团!§!"
 
 #######################BUIULDINGSDASDHASHDH ASHLEY WTF WHY YOUR PANTIES IS WHITE?###################
 
-building_stellarite_generator: "星状体发电机"
+building_stellarite_generator: "星能量发电机"
 building_stellarite_generator_desc: "很壮观，不是吗?创造一颗人造的恒星，在那里我们可以提取它的力量来满足我们内心的欲望。我们所有的反对意见都将化为泡影。地狱是的!"
 
-building_stellarite_nexus: "星状体能量核心"
+building_stellarite_nexus: "星能量核心"
 building_stellarite_nexus_desc: "将场强增加到10级在技术上仍然在可接受的参数范围内。距离核选项还有20级。"
 
 building_fe_clone_vats: "先进的克隆大桶" 
@@ -329,6 +264,27 @@ building_ae_clone_vats_desc: "为什么要浪费资源来培养未来的领导�
 
 tech_ae_clone_vats: "改造室"
 tech_ae_clone_vats_desc: "随着我们先进的基因工程和提升，我们现在可以开始掌握自己的命运，克服生活中的所有缺点。我们将定义进化论。\n\n§Y一旦建在一个行星上，将开启一个新的行星决策进入舱室。§!"
+
+tech_fe_hospital: "细胞重组和重建"
+tech_fe_hospital_desc: "随着新的神秘技术的出现，各种科学方法都有了新的发明。人民的生活质量只会越来越好。"
+
+building_fe_hospital: "δ医疗中心"
+building_fe_hospital_desc: "技术的进步使我们能够为医生分配更多的设备和手术室空间。病人只需要等待一个小时就可以超越身体疼痛的意义。"
+
+building_ae_hospital: "α纳米重建复合体"
+building_ae_hospital_desc: "我们新设备的改进使我们的生活质量提高了16倍。我们得到了所有股东的各种帮助。再说一遍，所有这些都很有效。”
+
+
+tech_fe_factory: "硬光材料生成"
+tech_fe_factory_desc: "在我们完全理解暗物质之前，我们只能勉强画出足以产生物质的部分。现在我们意识到，利用纯硬光技术从暗物质中制造出大量的合成消费品是可能的。"
+
+building_fe_factory: "硬光材料打印机"
+building_fe_factory_desc: "是时候消除必须与那些制造大量质量差得多的重复产品的竞争对手竞争的概念了。新技术使我们能够以使所有盗版产品相形见绌的速度生产商品。"
+building_ae_factory: "先进的硬光材料建造师"
+building_ae_factory_desc: "我们总是可以分配更多的资源来增加我们的车间空间。是时候和月球人说再见了。很好 拜拜 ~ 月球人 ~"
+
+
+
 
 trait_acot_robot_scv: "先进的服务"
 trait_acot_robot_scv_desc: "这台机器的建造是为了最大限度地为帝国服务，强调最大产出和生产力。还有超过六百万种专门针对享乐主义有机食品的侮辱。"

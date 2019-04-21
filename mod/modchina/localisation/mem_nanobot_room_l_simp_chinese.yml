@@ -20,5 +20,5 @@ l_simp_chinese:
  
  # Anomaly Epic Failure
  mem_nanobot_room.20.name:0 "严重失败"
- mem_nanobot_room.20.desc:0 "随着团队登陆星球表面，[Root.GetLeaderName]意外触发了旧的防御协议。地面震动，引起团队的好奇心和恐惧的是，设施深处导航到的能量信号如今直指科学团队而来。该团队试图离开这个星球，但无济于事。\n\n能量信号表现为一群有攻击性的纳米机器人，它们迅速吞噬[Root.GetLeaderName]，[Leader.GetHisHer]船员，甚至整个科学船。在吃光船员后，纳米机器人迅速进入采矿设施。我们似乎永远不会知道纳米机器人最初在做什么。"
+ mem_nanobot_room.20.desc:0 "随着团队登陆星球表面，[Root.GetLeaderName]意外触发了旧的防御协议。地面震动，引起团队的好奇心和恐惧的是，设施深处导航到的能量信号如今直指科学团队而来。该团队试图离开这个星球，但无济于事。\n\n能量信号表现为一群有攻击性的纳米机器人，它们迅速吞噬[Root.GetLeaderName]，[Leader.GetHisHer]船员，甚至整个科研船。在吃光船员后，纳米机器人迅速进入采矿设施。我们似乎永远不会知道纳米机器人最初在做什么。"
  mem_nanobot_room.20.a:0 "该死."

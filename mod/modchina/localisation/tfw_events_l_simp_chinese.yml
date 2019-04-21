@@ -21,39 +21,33 @@
  # Basic Functions
  tfw_options.back:0 "返回"
  tfw_options.exit:0 "退出"
-
+ tfw_options.deact.tooltip:0 "现在停用。按下激活。" 
+ tfw_options.act.tooltip:0 "现在激活。按下停用。"
+ 
  # Main Menu
  tfw_options.4.name:0 "主菜单"
  tfw_options.4.desc:0 "从这里你可以选择不同的选项类别。"
- tfw_options.4.a:0 "选择自动化研究中心"
- tfw_options.4.b:0 "实验室选项"
- tfw_options.4.c:0 "武器选项"
- tfw_options.4.d:0 "反应堆选项"
- tfw_options.4.e:0 "护甲选项"
- tfw_options.4.f:0 "护盾选项"
- tfw_options.4.g:0 "传感器选项"
+ tfw_options.4.c:0 "武器"
+ tfw_options.4.cc:0 "舰载机" 
+ tfw_options.4.d:0 "反应堆"
+ tfw_options.4.e:0 "装甲"
+ tfw_options.4.f:0 "护盾"
+ tfw_options.4.g:0 "传感器"
  tfw_options.4.h:0 "其他选项"
-
- # ARC Menu
- tfw_options.5.name:0 "自动化研究中心"
- tfw_options.5.desc:0 "从这里你可以打开/关闭解锁ARC技术."
- tfw_options.5.a:0 "§G打开§! "
- tfw_options.5.b:0 "§R关闭§! "
- 
- # Bioweaponry Lab Menu
- tfw_options.6.name:0 "实验室"
- tfw_options.6.desc:0 "从这里你可以打开/关闭解锁技术实验室。"
- tfw_options.6.a:0 "§G打开§! "
- tfw_options.6.b:0 "§R关闭§! "
- tfw_options.debug.1:0 "§G开启§! 科技debug (仅用于测试)"
- tfw_options.debug.2:0 "§R关闭§! 科技debug (仅用于测试)"
- 
  # Weapons Menu
  tfw_options.7.name:0 "Mod武器"
  tfw_options.7.desc:0 "从这里你可以打开/关闭解锁Mod武器"
  tfw_options.7.a:0 "§G打开§! "
  tfw_options.7.b:0 "§R关闭§! "
+ tfw_options.7.c:0 "§G打开§!§Y工程研究领域§!武器"
+ tfw_options.7.d:0 "§R关闭§!§Y工程研究领域§!武器" 
  
+ # Strike Craft Menu
+ tfw_options.70.name:0 "Mod舰载机"
+ tfw_options.70.desc:0 "从这里你可以打开/关闭所有的技术解锁mod攻击机。"
+ tfw_options.70.a:0 "§G打开§!舰载机"
+ tfw_options.70.b:0 "§R关闭§!舰载机"
+  
  # Reactors Menu
  tfw_options.8.name:0 "Mod反应堆"
  tfw_options.8.desc:0 "从这里你可以打开/关所有技术解锁的mod反应堆"

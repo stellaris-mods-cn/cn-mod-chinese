@@ -1,0 +1,180 @@
+﻿l_simp_chinese:
+ tradition_global:0 "开始按钮"
+ tradition_global_desc:0 "这是开始按钮，它是必要的，因为Stellaris传统的工作方式，点击它，然后移动到实际的传统。"
+
+ tr_diplomacy_adopt:0 ""
+ tr_diplomacy_adopt_desc:0 "这应该是开始按钮下显示的desc"
+ tr_diplomacy_adopt_effect:3 ""
+ 
+ tr_diplomacy_finish:0 ""
+ tr_diplomacy_finish_effect:1 ""
+ 
+ 
+ tratr_diplo_unlocked:0 "Diplomacy"
+ tratr_adapt_unlocked:0 "Adaptability"
+ tratr_versa_unlocked:0 "Versatility"
+ 
+ tratr_est_friend_unlocked:0 "Friendship"
+ tratr_est_malice_unlocked:0 "Malice"
+ tratr_est_malicealt_unlocked:0 "Malice"
+ tratr_est_per_ip_unlocked:0 "Perserverance"
+ 
+ tratr_est_aspir_unlocked:0 "Aspiration"
+ 
+ tratr_expan_unlocked:0 "Expansion"
+ 
+ tratr_admin_unlocked:0 "Administratum"
+ tratr_omnipresence_unlocked:0 "Omnipresence"
+ 
+ tratr_found_unlocked:0 "Foundation"
+ tratr_confe_unlocked:0 "Confederation"
+ tratr_subminds_unlocked:0 "Subminds"
+ 
+ tratr_domin_unlocked:0 "Domination"
+ 
+ tratr_isolation_unlocked:0 "Isolation"
+ tratr_proys_unlocked:0 "Proyseltism"
+ 
+ tratr_ptmal_unlocked:0 "Malice"
+ 
+ tratr_theswarm_unlocked:0 "The Swarm"
+ 
+ tratr_harmo_unlocked:0 "Harmony"
+ tratr_synch_unlocked:0 "Synchronicity"
+ tratr_syncm_unlocked:0 "Synchronicity"
+ 
+ tratr_aesth_unlocked:0 "Aesthetics"
+ tratr_aesthspirit_unlocked:0 "Aesthetics"
+ tratr_agehive_unlocked:0 "Age"
+ tratr_agemach_unlocked:0 "Age"
+ 
+ tratr_justice_unlocked:0 "Justice"
+ tratr_dest_unlocked:0 "Destruction"
+ 
+ tratr_liber_unlocked:0 "Liberty"
+ tratr_libernomig_unlocked:0 "Liberty"
+ 
+ tratr_order_unlocked:0 "Order"
+ tratr_orderegal_unlocked:0 "Order"
+ tratr_cooper_unlocked:0 "Cooperativity"
+ 
+ tratr_ptaff_unlocked:0 "Affinity"
+ 
+ tratr_ptmyst_unlocked:0 "Mysticism"
+ tratr_ptmystmach_unlocked:0 "Mysticism"
+ 
+ tratr_disco_unlocked:0 "Discovery"
+ 
+ tratr_arch_paco_mod:0 "Archivist"
+ tratr_arch_pafm_mod:0 "Archivist"
+ tratr_arch_pavc_mod:0 "Archivist"
+ tratr_arch_pabio_mod:0 "Archivist"
+ tratr_arch_pasc_mod:0 "Archivist"
+ tratr_arch_panw_mod:0 "Archivist"
+ tratr_arch_pamt_mod:0 "Archivist"
+ tratr_arch_pama_mod:0 "Archivist"
+ tratr_arch_paind_mod:0 "Archivist"
+ tratr_arch_paro_mod:0 "Archivist"
+ tratr_arch_cofm_mod:0 "Archivist"
+ tratr_arch_covc_mod:0 "Archivist"
+ tratr_arch_cobio_mod:0 "Archivist"
+ tratr_arch_cosc_mod:0 "Archivist"
+ tratr_arch_conw_mod:0 "Archivist"
+ tratr_arch_comt_mod:0 "Archivist"
+ tratr_arch_coma_mod:0 "Archivist"
+ tratr_arch_coind_mod:0 "Archivist"
+ tratr_arch_coro_mod:0 "Archivist"
+ tratr_arch_fmvc_mod:0 "Archivist"
+ tratr_arch_fmbio_mod:0 "Archivist"
+ tratr_arch_fmsc_mod:0 "Archivist"
+ tratr_arch_fmnw_mod:0 "Archivist"
+ tratr_arch_fmmt_mod:0 "Archivist"
+ tratr_arch_fmma_mod:0 "Archivist"
+ tratr_arch_fmind_mod:0 "Archivist"
+ tratr_arch_fmro_mod:0 "Archivist"
+ tratr_arch_vcbio_mod:0 "Archivist"
+ tratr_arch_vcsc_mod:0 "Archivist"
+ tratr_arch_vcnw_mod:0 "Archivist"
+ tratr_arch_vcmt_mod:0 "Archivist"
+ tratr_arch_vcma_mod:0 "Archivist"
+ tratr_arch_vcind_mod:0 "Archivist"
+ tratr_arch_vcro_mod:0 "Archivist"
+ tratr_arch_biosc_mod:0 "Archivist"
+ tratr_arch_bionw_mod:0 "Archivist"
+ tratr_arch_biomt_mod:0 "Archivist"
+ tratr_arch_bioma_mod:0 "Archivist"
+ tratr_arch_bioind_mod:0 "Archivist"
+ tratr_arch_bioro_mod:0 "Archivist"
+ tratr_arch_scnw_mod:0 "Archivist"
+ tratr_arch_scmt_mod:0 "Archivist"
+ tratr_arch_scma_mod:0 "Archivist"
+ tratr_arch_scind_mod:0 "Archivist"
+ tratr_arch_scro_mod:0 "Archivist"
+ tratr_arch_nwmt_mod:0 "Archivist"
+ tratr_arch_nwma_mod:0 "Archivist"
+ tratr_arch_nwind_mod:0 "Archivist"
+ tratr_arch_nwro_mod:0 "Archivist"
+ tratr_arch_mtma_mod:0 "Archivist"
+ tratr_arch_mtind_mod:0 "Archivist"
+ tratr_arch_mtro_mod:0 "Archivist"
+ tratr_arch_maind_mod:0 "Archivist"
+ tratr_arch_maro_mod:0 "Archivist"
+ tratr_arch_indro_mod:0 "Archivist"
+ 
+ tratr_aca_unlocked:0 "Academy"
+ tratr_shbn_unlocked:0 "Shroudborn"
+ tratr_hack_unlocked:0 "Hacking"
+ tratr_hackt_unlocked:0 "Hacking"
+ 
+ tratr_supre_unlocked:0 "Supremacy"
+ 
+ tratr_milit_unlocked:0 "Militarism"
+ tratr_might_unlocked:0 "Might"
+ 
+ tratr_pir_unlocked:0 "Piracy"
+ tratr_pirspec_unlocked:0 "Piracy"
+ tratr_pirgc_unlocked:0 "Piracy"
+ tratr_pirgc_unlocked:0 "Piracy"
+ 
+ tratr_ptass_unlocked:0 "Assault"
+ 
+ tratr_ptang_unlocked:0 "Anguish"
+ 
+ tratr_ptorder_unlocked:0 "Order"
+ 
+ tratr_ptdef_unlocked:0 "Defence"
+ 
+ tratr_prosp_unlocked:0 "Prosperity"
+ tratr_prospm_unlocked:0 "Prosperity"
+ tratr_prosph_unlocked:0 "Prosperity"
+ 
+ tratr_comm_unlocked:0 "Commerce"
+ tratr_bene_unlocked:0 "Benevolence"
+ 
+ tratr_greed_unlocked:0 "Greed"
+ 
+ tratr_ptklept_unlocked:0 "Kleptocracy"
+ 
+ tratr_space_unlocked:0 "Spaceborn"
+ 
+ tratr_mech_unlocked:0 "Mechanicum"
+ tratr_mechr_unlocked:0 "Mechanicum"
+ tratr_mechgc_unlocked:0 "Mechanicum"
+ 
+ tratr_ptend_unlocked:0 "Endurance"
+ 
+ tratr_ptind_unlocked:0 "Industry"
+ 
+ tratr_ptcyber_unlocked:0 "Cybernetics"
+ tratr_ptcyberh_unlocked:0 "Cybernetics"
+ 
+ tratr_indus_unlocked:0 "Industry"
+ 
+ tratr_myst_unlocked:0 "Mysticism"
+ tratr_philo_unlocked:0 "Philosophy"
+ 
+ tratr_nat_unlocked:0 "Nature"
+ tratr_nath_unlocked:0 "Nature"
+ tratr_natm_unlocked:0 "Nature"
+ 
+ tratr_pttrans_unlocked:0 "Transformation"

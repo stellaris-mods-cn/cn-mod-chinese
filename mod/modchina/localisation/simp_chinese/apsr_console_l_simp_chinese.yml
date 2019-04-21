@@ -1,6 +1,18 @@
 ﻿l_simp_chinese:
 
-#997
+#############################################
+#                                           #
+#  ###   ###  #   #  ####  ###  #     ##### #
+# #   # #   # ##  # #     #   # #     #     #
+# #     #   # # # #  ###  #   # #     ###   #
+# #   # #   # #  ##     # #   # #     #     #
+#  ###   ###  #   # ####   ###  ##### ##### #
+#                                           #
+#############################################
+
+
+
+### приветственное сообщение (главное окно)
 
  apsr.997.title:0 "APSR配置面板"
  apsr.997.desc:0 "§Y欢迎使用§PAPSR§!模组。\n请在该面板进行资源生成设置。§! \n§G祝您游戏愉快！§!"
@@ -23,8 +35,10 @@
  apsr.997.none:1 "无资源"
  apsr.997.none.tooltip:1 "§Y资源生成数量为0§!"
 
-#996
-
+ 
+ 
+ # выбрать определенное количество ресурсов для появления (страница 1)
+ 
  apsr.996.title:0 "$apsr.997.title$"
  apsr.996.desc:0 "§Y选择资源在地图上出现的数量。\n资源将会随机生成。§!"
 
@@ -64,7 +78,9 @@
  apsr.996.nextpage:1 "下一页"
  apsr.996.nextpage.tooltip:1 "前往更多选项"
 
-#993
+ 
+ 
+ # выбрать определенное количество ресурсов для появления (страница 2)
 
  apsr.993.title:0 "$apsr.997.title$"
  apsr.993.desc:0 "$apsr.996.desc$"
@@ -105,40 +121,117 @@
  apsr.993.nextpage:1 "下一页"
  apsr.993.nextpage.tooltip:1 "前往更多选项"
 
-#994
+ 
+ 
+ # выбрать определенное количество ресурсов для появления (страница 3)
+ 
+ apsr.990.title:0 "$apsr.997.title$"
+ apsr.990.desc:0 "$apsr.996.desc$"
+ 
+ apsr.990.back:1 "返回"
+ apsr.990.back.tooltip:1 "返回到前一个窗口"
+ 
+ apsr.990.21.res:1 "21资源"
+ apsr.990.21.res.tooltip:1 "在地图上添加21资源"
+ 
+ apsr.990.22.res:1 "22资源"
+ apsr.990.22.res.tooltip:1 "在地图上添加22资源"
+ 
+ apsr.990.23.res:1 "23资源"
+ apsr.990.23.res.tooltip:1 "在地图上添加23资源"
+ 
+ apsr.990.24.res:1 "24资源"
+ apsr.990.24.res.tooltip:1 "在地图上添加24资源"
+ 
+ apsr.990.25.res:1 "25资源"
+ apsr.990.25.res.tooltip:1 "在地图上添加25资源"
+ 
+ apsr.990.26.res:1 "26资源"
+ apsr.990.26.res.tooltip:1 "在地图上添加26资源"
+ 
+ apsr.990.27.res:1 "27资源"
+ apsr.990.27.res.tooltip:1 "在地图上添加27资源"
+ 
+ apsr.990.28.res:1 "28资源"
+ apsr.990.28.res.tooltip:1 "在地图上添加28资源"
+ 
+ apsr.990.29.res:1 "29资源"
+ apsr.990.29.res.tooltip:1 "在地图上添加29资源"
+ 
+ apsr.990.30.res:1 "30资源"
+ apsr.990.30.res.tooltip:1 "在地图上添加30资源"
+ 
+ apsr.990.nextpage:1 "下一页"
+ apsr.990.nextpage.tooltip:1 "去~其他变量"
+ 
 
+ 
+ 
+ # выбрать случайное количество ресурсов для появления (страница 1)
+  
  apsr.994.title:0 "$apsr.997.title$"
  apsr.994.desc:0 "§Y选择资源在地图上出现的数量。\n资源将会随机生成。§!"
 
  apsr.994.back:1 "返回"
  apsr.994.back.tooltip:1 "返回上一窗口"
 
- apsr.994.1_3.res:1 "1-3单位资源"
- apsr.994.1_3.res.tooltip:1 "在地图上增加1-3单位资源"
+ apsr.994.1_5.res:1 "1~5资源"
+ apsr.994.1_5.res.tooltip:1 "在地图上添加1-5资源"
+ 
+ apsr.994.6_10.res:1 "6~10资源"
+ apsr.994.6_10.res.tooltip:1 "在地图上添加6-10资源"
+ 
+ apsr.994.11_15.res:1 "11~15资源"
+ apsr.994.11_15.res.tooltip:1 "在地图上添加11-15资源"
+ 
+ apsr.994.16_20.res:1 "16~20资源"
+ apsr.994.16_20.res.tooltip:1 "在地图上添加16-20资源"
+ 
+ apsr.994.21_25.res:1 "21~24资源"
+ apsr.994.21_25.res.tooltip:1 "在地图上添加21-24资源"
+ 
+ apsr.994.26_30.res:1 "26~30资源"
+ apsr.994.26_30.res.tooltip:1 "在地图上添加25-30资源"
+ 
+ apsr.994.nextpage:1 "下一页"
+ apsr.994.nextpage.tooltip:1 "去~其他变量"
 
- apsr.994.3_5.res:1 "3-5单位资源"
- apsr.994.3_5.res.tooltip:1 "在地图上增加3-5单位资源"
+ 
+ 
+ # выбрать случайное количество ресурсов для появления (страница 2) 
+  
+ apsr.989.title:0 "$apsr.997.title$"
+ apsr.989.desc:0 "§Y选择一个范围的资源,将出现在地图上。\n生成结果将是随机的。§!"
+ 
+ apsr.989.back:1 "返回"
+ apsr.989.back.tooltip:1 "返回~前面的窗口"
+ 
+ apsr.989.1_10.res:1 "1~10资源"
+ apsr.989.1_10.res.tooltip:1 "在地图上添加1-10资源"
+ 
+ apsr.989.11_20.res:1 "11~20资源"
+ apsr.989.11_20.res.tooltip:1 "在地图上添加11-20资源"
+ 
+ apsr.989.21_30.res:1 "21~30资源"
+ apsr.989.21_30.res.tooltip:1 "在地图上添加21-30资源"
+ 
+ apsr.989.1_15.res:1 "1~15资源"
+ apsr.989.1_15.res.tooltip:1 "在地图上添加1-15资源"
+ 
+ apsr.989.16_30.res:1 "16~24资源"
+ apsr.989.16_30.res.tooltip:1 "在地图上添加16-24资源"
+ 
+ apsr.989.1_30.res:1 "1~24资源"
+ apsr.989.1_30.res.tooltip:1 "在地图上添加1-24资源"
+ 
+ apsr.989.nextpage:1 "下一页"
+ apsr.989.nextpage.tooltip:1 "去~其他变量"
+ 
 
- apsr.994.5_10.res:1 "5-10单位资源"
- apsr.994.5_10.res.tooltip:1 "在地图上增加5-10单位资源"
-
- apsr.994.10_15.res:1 "10-15单位资源"
- apsr.994.10_15.res.tooltip:1 "在地图上增加10-15单位资源"
-
- apsr.994.15_20.res:1 "15-20单位资源"
- apsr.994.15_20.res.tooltip:1 "在地图上增加15-20单位资源"
-
- apsr.994.1_10.res:1 "1-10单位资源"
- apsr.994.1_10.res.tooltip:1 "在地图上增加1-10单位资源"
-
- apsr.994.11_20.res:1 "11-20单位资源"
- apsr.994.11_20.res.tooltip:1 "在地图上增加11-20单位资源"
-
- apsr.994.1_20.res:1 "1-20单位资源"
- apsr.994.1_20.res.tooltip:1 "在地图上增加1-20单位资源"
-
-#999
-
+ 
+ 
+ # ВРУЧНУЮ сгенерировать или убрать ресурсы (страница 1)
+ 
  apsr.999.title:0 "$apsr.997.title$"
  apsr.999.desc:0 "§Y在此窗口中，您可以手动配置资源。\n如果有必要，在游戏过程中调用这个窗口——使用控制台命令§! §Pevent apsr.999§!"
 
@@ -199,8 +292,10 @@
  apsr.999.10.no:1 "§Y资源 10 - §R不存在§!§!"
  apsr.999.10.no.tooltip:1 "§Y资源 10 - §M$apsr10002$§! - 在银河系§R不存在§!，如果点击这一选项，该资源将被生成。§!"
 
-#998
-
+ 
+ 
+ # ВРУЧНУЮ сгенерировать или убрать ресурсы (страница 2)
+ 
  apsr.998.title:0 "$apsr.997.title$"
  apsr.998.desc:0 "$apsr.999.desc$"
 
@@ -261,8 +356,90 @@
  apsr.998.20.no:1 "§Y资源 20 - §R不存在§!§!"
  apsr.998.20.no.tooltip:1 "§Y资源 20 - §M$apsr20002$§! - 在银河系§R不存在§!，如果点击这一选项，该资源将被生成。§!"
 
-#995
-
+ 
+ 
+ # ВРУЧНУЮ сгенерировать или убрать ресурсы (страница 3)
+ 
+ apsr.988.title:0 "$apsr.997.title$"
+ apsr.988.desc:0 "$apsr.999.desc$"
+ 
+ apsr.988.nextpage:1 "其他资源"
+ apsr.988.nextpage.tooltip:1 "转移到其他资源"
+ apsr.988.back:1 "返回"
+ apsr.988.back.tooltip:1 "回到前一个窗口"
+ apsr.988.close:1 "关闭"
+ apsr.988.close.tooltip:1 "完成资源配置"
+ 
+ apsr.988.21.yes:1 "§Y资源21 - §G存在§!§!"
+ apsr.988.21.yes.tooltip:1 "§Y资源21 - §M$apsr21_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.21.no:1 "§Y资源21 - §R不存在§!§!"
+ apsr.988.21.no.tooltip:1 "§Y资源21 - §M$apsr21_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.22.yes:1 "§Y资源22 - §G存在§!§!"
+ apsr.988.22.yes.tooltip:1 "§Y资源22 - §M$apsr22_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.22.no:1 "§Y资源22 - §R不存在§!§!"
+ apsr.988.22.no.tooltip:1 "§Y资源22 - §M$apsr22_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.23.yes:1 "§Y资源23 - §G存在§!§!"
+ apsr.988.23.yes.tooltip:1 "§Y资源23 - §M$apsr23_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.23.no:1 "§Y资源23 - §R不存在§!§!"
+ apsr.988.23.no.tooltip:1 "§Y资源23 - §M$apsr23_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.24.yes:1 "§Y资源24 - §G存在§!§!"
+ apsr.988.24.yes.tooltip:1 "§Y资源24 - §M$apsr24_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.24.no:1 "§Y资源24 - §R不存在§!§!"
+ apsr.988.24.no.tooltip:1 "§Y资源24 - §M$apsr24_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.25.yes:1 "§Y资源25 - §G存在§!§!"
+ apsr.988.25.yes.tooltip:1 "§Y资源25 - §M$apsr25_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.25.no:1 "§Y资源25 - §R不存在§!§!"
+ apsr.988.25.no.tooltip:1 "§Y资源25 - §M$apsr25_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.26.yes:1 "§Y资源26 - §G存在§!§!"
+ apsr.988.26.yes.tooltip:1 "§Y资源26 - §M$apsr26_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.26.no:1 "§Y资源26 - §R不存在§!§!"
+ apsr.988.26.no.tooltip:1 "§Y资源26 - §M$apsr26_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.27.yes:1 "§Y资源27 - §G存在§!§!"
+ apsr.988.27.yes.tooltip:1 "§Y资源27 - §M$apsr27_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.27.no:1 "§Y资源27 - §R不存在§!§!"
+ apsr.988.27.no.tooltip:1 "§Y资源27 - §M$apsr27_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.28.yes:1 "§Y资源28 - §G存在§!§!"
+ apsr.988.28.yes.tooltip:1 "§Y资源28 - §M$apsr28_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.28.no:1 "§Y资源28 - §R不存在§!§!"
+ apsr.988.28.no.tooltip:1 "§Y资源28 - §M$apsr28_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.29.yes:1 "§Y资源29 - §G存在§!§!"
+ apsr.988.29.yes.tooltip:1 "§Y资源29 - §M$apsr29_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.29.no:1 "§Y资源29 - §R不存在§!§!"
+ apsr.988.29.no.tooltip:1 "§Y资源29 - §M$apsr29_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ apsr.988.30.yes:1 "§Y资源30 - §G存在§!§!"
+ apsr.988.30.yes.tooltip:1 "§Y资源30 - §M$apsr30_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。§!"
+ apsr.988.30.no:1 "§Y资源30 - §R不存在§!§!"
+ apsr.988.30.no.tooltip:1 "§Y资源30 - §M$apsr30_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。§!"
+ 
+ 
+ 
+ apsr.988.25.not.ready:1 "§R很快§!"
+ apsr.988.25.not.ready.tooltip:1 "§Y资源25准备好了§!"
+ apsr.988.26.not.ready:1 "§R很快§!"
+ apsr.988.26.not.ready.tooltip:1 "§Y资源26准备好了§!"
+ apsr.988.27.not.ready:1 "§R很快§!"
+ apsr.988.27.not.ready.tooltip:1 "§Y资源27准备好了§!"
+ apsr.988.28.not.ready:1 "§R很快§!"
+ apsr.988.28.not.ready.tooltip:1 "§Y资源28准备好了§!"
+ apsr.988.29.not.ready:1 "§R很快§!"
+ apsr.988.29.not.ready.tooltip:1 "§Y资源29准备好了§!"
+ apsr.988.30.not.ready:1 "§R很快§!"
+ apsr.988.30.not.ready.tooltip:1 "§Y资源30准备好了§!"
+ 
+ 
+  
+ 
+ # После выбора генерации - вопрос нужны ли аномалии на ресурсы, которые не появились
+ 
  apsr.995.title:0 "$apsr.997.title$"
  apsr.995.desc:0 "§Y当一个星球从一个没有生命的世界被改造成宜居星球，或者一个事件被触发后，资源是否应该在游戏的中途产生?§!"
  
@@ -273,6 +450,8 @@
  apsr.995.not.spawn.tooltip:1 "资源是最终的和不可变的"
  
  
+ 
+ # Сообщение с предупреждением, если выбран режим "Битва Столиц" и ресурсов не хватает 
  
  apsr.991.title:0 "§R注意§!"
  apsr.991.desc:0 "§R注意!玩家的数量比资源的数量还多!在这种情况下，一些玩家将没有资源!§!"

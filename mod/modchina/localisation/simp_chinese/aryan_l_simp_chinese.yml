@@ -1,0 +1,54 @@
+﻿l_simp_chinese:
+
+
+civic_original_people:0 "始源人类"
+civic_original_people_desc:0 "在第一次先祖大战期间，帝国的灭亡并不为人所知，始源帝国的残余部分逃脱了灭绝，幸存了下来。他们失去了一切，从过去的灰烬中重建了他们的文明。\n\n§R由于他们黑暗的历史，失落帝国将永远不喜欢始源人类。§!"
+
+civic_tooltip_original_people_effects:3 "获得§Y$trait_punctual$§!特质，授予:\n  £job£ 工作产出: §G+10%§!"
+
+retains_original_people:0 "§H遗留公民:§! $civic_original_people$\n\n"
+
+trait_punctual:0 "守时"
+trait_punctual_desc:0 "§L这个物种的成员总是很守时，从而提高了生产力。§!"
+
+opinion_original_people:0 "始源人类"
+
+opinion_shadows_of_the_original_empire:0 "始源帝国的影子。"
+
+ORIGINAL:0 "始源"
+aryan_01:0 "雅利安人"
+
+original_people.1.desc:0 "愚蠢的[Root.GetSpeciesName]。你对比你优秀的人缺乏尊重将是你的毁灭。你们要俯伏在我们面前，求我们的赦免，免得我们灭绝你们这无用的国。"
+
+original_people.3.desc:0 "始源帝国是腐败的。§H你§!也是腐败的。精神要求必须有平衡，我们必须服从。"
+original_people.3.desc.b:0 "[Root.GetSpeciesNamePlural]继续用他们拒绝接受现实的态度震惊着我们，我们都从你身上学到了一切，变得比你更好，并且毁灭了你。回归是[Root.GetSpeciesNamePlural]所犯的最后一个错误。"
+original_people.3.desc.c:0 "你们虽然有大能，有苦难的过去，有苦难的遭遇，却没有学到什么。始源帝国的压迫永远不会再回来，我们一定要做到这一点。"
+original_people.3.desc.d:0 "始源人渣。我们将完成我们祖先开始的工作，从这个星系的表面抹去每一个臭气熏天的[Root.GetSpeciesName]"
+original_people.3.a:0 "就这样吧。"
+
+
+01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "也许你的善良还活着是有原因的，[From.GetSpeciesName]。"
+02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "看到[From.GetSpeciesNamePlural] 在如此粗糙的金属外壳中传播，勇士们是如何倒下的。"
+03_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "我们没有忘记，[From.GetSpeciesNamePlural]。你要从过去的错误中吸取教训。"
+04_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_GREETING:0 "始源帝国仍然存在。很难理解为什么我们的祖先没有完成这项工作。"
+
+01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "为你的罪赎罪，[From.GetSpeciesNamePlural]。也许你终究会得救。"
+02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "真不敢相信我们曾经是你的仆人。现在不那么可怕了，是吗?"
+03_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "我很高兴[From.GetSpeciesNamePlural]没有灭绝。看看你!太可爱了!你将为我们的游乐场所增色不少。"
+04_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_GREETING:0 "也许[From.GetSpeciesNamePlural]并非一无是处。也许你会成为好奴隶…是的，修复你在几百年前造成的伤害。"
+
+01_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "也许这是你的天性。你永远不会改变,[From.GetSpeciesNamePlural]。"
+02_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "永远不要忘记历史的教训，[From.GetSpeciesNamePlural]。我们曾经让你失望过，我们可以再一次。"
+03_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "在[From.Capital.GetName]的学校里他们教了你什么?很明显，你不了解自己的历史，注定要重蹈覆辙。"
+04_ORIGINAL_FALLEN_EMPIRE_ANGRY_GREETING:0 "唯一好的[From.GetSpeciesName]是一个死的[From.GetSpeciesName]。"
+
+01_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "历史重演。我们会很高兴地提醒你上次是怎么做的。"
+02_ORIGINAL_FALLEN_EMPIRE_DISMISSIVE_WAR_GREETING:0 "你必须受到惩罚。"
+01_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "这是为了银河系更大的利益。"
+02_ORIGINAL_FALLEN_EMPIRE_PATRONIZING_WAR_GREETING:0 "再也不会。"
+01_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "你没有从你的黑暗历史中学到任何东西吗?[From.GetSpeciesName]?"
+02_ORIGINAL_FALLEN_EMPIRE_ANGRY_WAR_GREETING:0 "[From.Capital.GetName]燃烧。我们将确保始源帝国永远不会回来。"
+
+START_SCREEN_POST_ORIGINAL_PEOPLE:0 "几个世纪以来，[GetAdj]科学家知道第一个[GetSpeciesNamePlural]实际上不是从[GetHomeWorldName]生物圈进化而来的，而且直到几千年前才有[GetSpeciesName]存在的记录。这导致了一个流行的理论 - [GetSpeciesNamePlural]可能起源于一个曾经伟大的太空帝国。\n\n但是如果我们已经是一个太空文明，为什么第一批[GetSpeciesName]殖民者没有继承任何先进的技术，为什么我们被留在这里，似乎被遗忘了?[GetSpeciesNamePlural]从何而来，其他的发生了什么?为什么我们的祖先不提他们的过去?\n\n近年来，[GetRulerTitle] [GetRulerName]在雷鸣般的掌声中崛起，承诺一劳永逸地仰望星空，寻找神秘的[GetAdj]过去的答案。"
+
+EMPIRE_DESIGN_Aryan_Republic_desc:0 "几代人以来，雅利安人一直生活在他们家乡田园般的乡村里，吃香肠，并建立了一个崇尚自由、个人权利和科学进步的和平主义社会——哪怕只是为了开发出更有效的制作和食用香肠的方法。\n\n他们对规则和啤酒的热爱在很大程度上阻止了社会提出太多的问题，具体来说，他们的真正起源或遥远的过去，这些在星球上任何地方都找不到记录。对于历史学家来说，也许答案只能从星星中找到，而他们过去的秘密最终将被揭开。或者也许是时候再喝一杯啤酒了。"

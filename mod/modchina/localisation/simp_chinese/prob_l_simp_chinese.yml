@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  # glassed planet
- prob_glassed_planet:0 "烧熔行星"
+ prob_glassed_planet:0 "熔融星球星"
  prob_glassed_planet_desc:0 "曾经是宜居行星，现在只是灼热的岩石。轨道轰炸将该行星的地表完全熔化，并蒸发了海洋。尽管如此，该行星依然存在于宜居带中，一旦冷却后，应该可以通过地貌改造来修复。\n\n§W此调整因素消失后，此行星会变成一个§G可以进行地貌改造§!的$pc_barren$。§!"
  
  # eco-damage

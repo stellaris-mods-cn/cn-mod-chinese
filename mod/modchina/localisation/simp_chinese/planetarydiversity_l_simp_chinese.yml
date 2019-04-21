@@ -19,7 +19,7 @@
 ## d_tiyankifossils_deposit -> n/a ##
  GARDENERS_NAME:0 "园丁"
 ## GARDENERS_NAME -> Gardeners ##
- floating:0 "漂浮的岛屿"
+ floating:0 "漂浮岛屿"
 ## floating -> Floating Islands ##
  pc_superhabitable_habitability:0 "超宜居星球"
 ## pc_superhabitable_habitability -> Superhabitable ##
@@ -85,7 +85,7 @@
  pc_tidallylocked_desc:0 "一个充满氮氧大气层的岩石星球。随着这个星球被恒星潮汐锁定，这个星球的一侧是恒定的白天，而另一侧恒定的夜晚。而在黄昏地区存在一个薄的可居住区。恒定的阳光和风力提供了理想的食物和能源来源。"
 ## pc_tidallylocked_desc -> A rocky world with a nitrogen-oxygen atmosphere. With the planet tidally locked to its sun, one side of the planet is in constant daylight, while the other is in constant night. A thin habitable zone exists in the twilight region. Constant sunlight and wind make for ideal food and energy generation. ## 
  START_SCREEN_PART_ONE_TIDALLYLOCKED:0 "自从[GetHomeWorldName]的第一个原始[GetSpeciesName]社区在[GetHomeWorldName]的晦暗黄昏中形成之后，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_TIDALLYLOCKED -> 自从第一个原始的[GetSpeciesName] communities took shape in the twilight zone of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_TIDALLYLOCKED -> In the eons since the first primitive [GetSpeciesName] communities took shape in the twilight zone of [GetHomeWorldName], our civilization has spread and prospered. ##
  pc_tidallylocked_tile:0 "潮汐锁定地形"
 ## pc_tidallylocked_tile -> Tidally Locked Terrain ##
  pc_tidallylocked_tile_desc:0 "沙漠变成不同的大陆，变成冰冻的平原。"
@@ -129,7 +129,7 @@
  mod_pc_methane_habitability:1 "甲烷星球宜居性"
 ## mod_pc_methane_habitability -> Methane Habitability ##
  START_SCREEN_PART_ONE_METHANE:0 "自从[GetHomeWorldName]的崎岖山谷中形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明传播和繁荣。"
-## START_SCREEN_PART_ONE_METHANE -> 自从第一个原始的[GetSpeciesName] communities took shape in the rugged valleys of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_METHANE -> In the eons since the first primitive [GetSpeciesName] communities took shape in the rugged valleys of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Ammonia
  pc_ammonia:0 "氨星球"
@@ -147,12 +147,12 @@
  mod_pc_ammonia_habitability:1 "氨星球宜居性"
 ## mod_pc_ammonia_habitability -> Ammonia Habitability ##
  START_SCREEN_PART_ONE_AMMONIA:0 "自从[GetHomeWorldName]的森林和氨海形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明传播和繁荣。"
-## START_SCREEN_PART_ONE_AMMONIA -> 自从第一个原始的[GetSpeciesName] communities took shape in the forests and ammonia seas of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_AMMONIA -> In the eons since the first primitive [GetSpeciesName] communities took shape in the forests and ammonia seas of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Cascadian
  pc_cascadian:0 "山林星球"
 ## pc_cascadian -> Cascadian World ##
- pc_cascadian_desc:0 "亚温带山地星球，由北方针叶林和高耸的山脉组成，大气层主要是氮-氧。 一个活跃的，多暴风雨的水圈，在多雪的冬季和较短而温暖的夏季之间有很大的差异。"
+ pc_cascadian_desc:0 "亚温带山地星球，由北方针叶林和高耸的山脉组成，大气层主要是氮-氧。 有活跃的、多暴风雨的水圈，在多雪的冬季和较短而温暖的夏季之间有很大的差异。"
 ## pc_cascadian_desc -> Sub-temperate mountainous world with a nitrogen-oxygen atmosphere consisting of coastal forests and towering mountain ranges. An active, stormy, hydrosphere with strong differences between snowy winters and short warmer summers. ##
  pc_cascadian_tile:0 "山林地形"
 ## pc_cascadian_tile -> Cascadian Terrain ##
@@ -165,12 +165,12 @@
  mod_pc_cascadian_habitability:1 "山林星球宜居性"
 ## mod_pc_cascadian_habitability -> Cascadian Habitability ##
  START_SCREEN_PART_ONE_CASCADIAN:0 "自从[GetHomeWorldName]的崎岖海岸线上形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明传播和繁荣。"
-## START_SCREEN_PART_ONE_CASCADIAN -> 自从第一个原始的[GetSpeciesName] communities took shape on the rugged coastlines of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_CASCADIAN -> In the eons since the first primitive [GetSpeciesName] communities took shape on the rugged coastlines of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Bog
  pc_swamp:0 "沼泽星球"
 ## pc_swamp -> Bog World ##
- pc_swamp_desc:0 "这是一个有着浓厚氮氧大气层的寒冷而又泥泞的星球。季节变化有限，降水明显。大部分的大陆都被茂密的植被所覆盖。"
+ pc_swamp_desc:0 "有着浓厚氮氧大气层的寒冷而又泥泞的星球。季节变化有限，降水明显。大部分的大陆都被茂密的植被所覆盖。"
 ## pc_swamp_desc -> Cold, muddy world with a thick nitrogen-oxygen atmosphere. Seasonal variation is limited with significant precipitation. Most landmasses are covered in dense vegetation. ##
  pc_swamp_tile:0 "沼泽地形"
 ## pc_swamp_tile -> Bog Terrain ##
@@ -181,7 +181,7 @@
  trait_pc_swamp_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_swamp_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_SWAMP:0 "自从[GetHomeWorldName]的巨大沼泽中形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣。。"
-## START_SCREEN_PART_ONE_SWAMP -> 自从第一个原始的[GetSpeciesName] communities took shape in the great bogs of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_SWAMP -> In the eons since the first primitive [GetSpeciesName] communities took shape in the great bogs of [GetHomeWorldName], our civilization has spread and prospered. ##
  mod_pc_swamp_habitability:1 "沼泽星球宜居性"
 ## mod_pc_swamp_habitability -> Bog Habitability ##
 
@@ -201,7 +201,7 @@
  mod_pc_oasis_habitability:1 "绿洲星球宜居性"
 ## mod_pc_oasis_habitability -> Oasis Habitability ##
  START_SCREEN_PART_ONE_OASIS:0 "自从[GetHomeWorldName]的大洋深处的茂密的森林中形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_OASIS -> 自从第一个原始的[GetSpeciesName] communities took shape in the dense forests by the great ocean of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_OASIS -> In the eons since the first primitive [GetSpeciesName] communities took shape in the dense forests by the great ocean of [GetHomeWorldName], our civilization has spread and prospered. ##
  
  ###Steppe
  pc_steppe:0 "干冷草原星球"
@@ -209,7 +209,7 @@
  pc_steppe_desc:0 "干燥，充满氮氧大气层的岩石星球。一年中大部分时候，降水量和寒冷的气温都会使星球处于一层薄薄的雪层中。而在短暂的夏季，景观则被草和灌木覆盖。"
 ## pc_steppe_desc -> Dry, rocky world with a nitrogen-oxygen atmosphere. This semi-arid grassland has rolling hills and plains covering much of the surface. While almost no trees grow on this world, the amount of rainfall can support shrubs and grasses. ##
  START_SCREEN_PART_ONE_STEPPE:0 "自从[GetHomeWorldName]的第一个原始[GetSpeciesName]社区在干冷草原中形成以来，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_STEPPE -> 自从第一个原始的[GetSpeciesName] communities took shape in the great open grasslands of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_STEPPE -> In the eons since the first primitive [GetSpeciesName] communities took shape in the great open grasslands of [GetHomeWorldName], our civilization has spread and prospered. ##
  pc_steppe_tile:0 "干冷草原地形"
 ## pc_steppe_tile -> Steppe Terrain ##
  pc_steppe_tile_desc:0 "有着杂草灌木的大平地。"
@@ -224,7 +224,7 @@
  ###Frigid
  pc_frozen_desert:0 "冰封沙漠星球"
 ## pc_frozen_desert -> Frigid World ##
- pc_frozen_desert_desc:0 "寒冷的，充满氮氧大气层的岩石星球。降水量低，主要的地表水体是稀少的。"
+ pc_frozen_desert_desc:0 "寒冷的，充满氮氧大气层的岩石星球。降水量低，主要地表水体稀少。"
 ## pc_frozen_desert_desc -> Frigid, rocky world with a nitrogen-oxygen atmosphere. Precipitation is low and major bodies of surface water are rare. ##
  pc_frozen_desert_tile:0 "冰封沙漠地形"
 ## pc_frozen_desert_tile -> Frozen Desert Terrain ##
@@ -237,7 +237,7 @@
  pc_frozen_desert_habitability:1 "冰封沙漠星球宜居性"
 ## pc_frozen_desert_habitability -> Frigid Habitability ##
  START_SCREEN_PART_ONE_FROZENDESERT:0 "自从[GetHomeWorldName]的第一个原始[GetSpeciesName]社区在[GetHomeWorldName]的巨大冰冻海中形成之后，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_FROZENDESERT -> 自从第一个原始的[GetSpeciesName] communities took shape amid the great frozen dune seas of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_FROZENDESERT -> In the eons since the first primitive [GetSpeciesName] communities took shape amid the great frozen dune seas of [GetHomeWorldName], our civilization has spread and prospered. ##
  mod_pc_frozen_desert_habitability:1 "冰封沙漠星球宜居性"
 ## mod_pc_frozen_desert_habitability -> Frigid Habitability ##
 
@@ -255,14 +255,14 @@
  trait_pc_mesa_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_mesa_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_MESA:0 "自从[GetHomeWorldName]中的第一个原始[GetSpeciesName]社区在繁茂的峡谷和台面中形成以来，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_MESA -> 自从第一个原始的[GetSpeciesName] communities took shape in the lush canyons and mesas of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_MESA -> In the eons since the first primitive [GetSpeciesName] communities took shape in the lush canyons and mesas of [GetHomeWorldName], our civilization has spread and prospered. ##
  mod_pc_mesa_habitability:1 "台地星球宜居性"
 ## mod_pc_mesa_habitability -> Mesa Habitability ##
 
  ###Atacama
  pc_hadesert:0 "高山沙漠星球"
 ## pc_hadesert -> Atacama World ##
- pc_hadesert_desc:0 "寒冷，干燥，充满氮氧大气层的岩石星球。海拔极高的山峰为这个星球上的大部分地区带来了阴影，而盐碱地和干旱的山谷构成了大部分的平地。水圈是少数的几个湖泊和山泉。"
+ pc_hadesert_desc:0 "寒冷，干燥，充满氮氧大气层的岩石星球。海拔极高的山峰为这个星球上的大部分地区带来了阴影，而盐碱地和干旱的山谷构成了大部分的平地。水圈为仅有的少数几个湖泊和山泉。"
 ## pc_hadesert_desc -> Cold, dry, rocky world with a nitrogen-oxygen atmosphere. Extreme altitude peaks cause rain shadows for most of the planet, and salt flats and arid valley make up most of the level land. Hydrosphere is in a few lakes and mountain springs. ##
  pc_hadesert_tile:0 "高海拔沙漠地形"
 ## pc_hadesert_tile -> High-Altitude Desert Terrain ##
@@ -273,14 +273,14 @@
  trait_pc_hadesert_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_hadesert_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_HADESERT:0 "自从[GetHomeWorldName]的崎岖山谷中形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明传播和繁荣。"
-## START_SCREEN_PART_ONE_HADESERT -> 自从第一个原始的[GetSpeciesName] communities took shape in the rugged mountain valleys of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_HADESERT -> In the eons since the first primitive [GetSpeciesName] communities took shape in the rugged mountain valleys of [GetHomeWorldName], our civilization has spread and prospered. ##
  mod_pc_hadesert_habitability:1 "高山沙漠星球宜居性"
 ## mod_pc_hadesert_habitability -> Atacama Habitability ##
 
  ###Geothermal
  pc_geothermal:0 "地热星球"
 ## pc_geothermal -> Geothermal World ##
- pc_geothermal_desc:0 "有着氮氧大气层的寒冷的冰体星球，在热带有裂缝被自然的地热通风口加热打破了广阔的冰面。水圈是融水和从喷口中上升的蒸汽。"
+ pc_geothermal_desc:0 "有着氮氧大气层的寒冷的冰冻星球，在热带有裂缝被自然的地热通风口加热打破了广阔的冰面。水圈为融水和从喷口中上升的蒸汽。"
 ## pc_geothermal_desc -> Cold, icy planet with tropical rifts that break up the expanses of ice, heated by natural geothermal vents with a nitrogen-oxygen atmosphere. Hydrosphere is in melt water and steams rising from vents. ##
  pc_geothermal_tile:0 "地热地形"
 ## pc_geothermal_tile -> Geothermal Terrain ##
@@ -293,7 +293,7 @@
  mod_pc_geothermal_habitability:1 "地热星球宜居性"
 ## mod_pc_geothermal_habitability -> Geothermal Habitability ##
  START_SCREEN_PART_ONE_GEOTHERMAL:0 "自从[GetHomeWorldName]的地热山谷和冰洞形成了第一个原始[GetSpeciesName]社区以来的无数年来，我们的文明传播和繁荣。"
-## START_SCREEN_PART_ONE_GEOTHERMAL -> 自从第一个原始的[GetSpeciesName] communities took shape in the geothermal valleys and ice caves of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_GEOTHERMAL -> In the eons since the first primitive [GetSpeciesName] communities took shape in the geothermal valleys and ice caves of [GetHomeWorldName], our civilization has spread and prospered. ##
  geothermal:0 "地热星球"
 ## geothermal -> Geothermal World ##
  geothermal_desc:0 "虽然这个星球的大部分都覆盖着厚厚的表层冰，但是在密集的地热活动中却发现了茂密的丛林地区存有郁郁葱葱的生命。"
@@ -312,7 +312,7 @@
  pc_desertislands_desc:0 "一个具有氮氧大气层的海洋星球。极度炎热的赤道气温使得植被稀少，但凉爽的极地地区却有着丰富的生命。"
 ## pc_desertislands_desc -> An ocean planet with a nitrogen-oxygen atmosphere. Shallow lagoons, coral reefs and tropical islands make up the majority of this planet, with warm temperatures supporting a very large biosphere. ## 
  START_SCREEN_PART_ONE_DESERTISLANDS:0 "自从第一个原始[GetSpeciesName]社区在[GetHomeWorldName]的热带群岛和泻湖形成以来，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_DESERTISLANDS -> 自从第一个原始的[GetSpeciesName] communities took shape in the tropical archipelagos and lagoons of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_DESERTISLANDS -> In the eons since the first primitive [GetSpeciesName] communities took shape in the tropical archipelagos and lagoons of [GetHomeWorldName], our civilization has spread and prospered. ##
  pc_desertislands_tile:0 "环礁地形"
 ## pc_desertislands_tile -> Atoll Terrain ##
  pc_desertislands_tile_desc:0 "伴有浅泻湖和美丽的珊瑚礁的热带岛屿。"
@@ -327,7 +327,7 @@
  ###Dune
  pc_sandsea:0 "沙丘星球"
 ## pc_sandsea -> Dune World ##
- pc_sandsea_desc:0 "一个具有氮氧大气层的炎热而干燥的岩石星球。沙海覆盖了相当一部分的表面。水圈主要是在绿洲和山泉中升起的地下蓄水层。"
+ pc_sandsea_desc:0 "一个具有氮氧大气层的炎热而干燥的岩石星球。沙海覆盖了相当一部分的表面。水圈为绿洲和山泉中升起的地下蓄水层。"
 ## pc_sandsea_desc -> A hot and dry rocky planet with a nitrogen-oxygen atmosphere. Seas of sand dunes cover a considerable portion of the surface. Hydrosphere is mainly in underground aquifers that rise up in oasis and mountain springs. ##
  pc_sandsea_tile:0 "沙丘地形"
 ## pc_sandsea_tile -> Dune Terrain ##
@@ -340,7 +340,7 @@
  mod_pc_sandsea_habitability:1 "沙丘星球宜居性"
 ## mod_pc_sandsea_habitability -> Dune Habitability ##
  START_SCREEN_PART_ONE_SANDSEA:0 "自从[GetHomeWorldName]的大沙丘的岩石边缘形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_SANDSEA -> 自从第一个原始的[GetSpeciesName] communities took shape in the rocky edges of the great dune sea of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_SANDSEA -> In the eons since the first primitive [GetSpeciesName] communities took shape in the rocky edges of the great dune sea of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Mangrove
  pc_mangrove:0 "红树林星球"
@@ -358,12 +358,12 @@
  mod_pc_mangrove_habitability:1 "红树林星球宜居性"
 ## mod_pc_mangrove_habitability -> Mangrove Habitability ##
  START_SCREEN_PART_ONE_MANGROVE:0 "自从[GetHomeWorldName]的茂密丛林边缘的浅滩中形成了第一个原始[GetSpeciesName]社区以来，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_MANGROVE -> 自从第一个原始的[GetSpeciesName] communities took shape in the shallows at the edges of the watery jungles of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_MANGROVE -> In the eons since the first primitive [GetSpeciesName] communities took shape in the shallows at the edges of the watery jungles of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Glacial
  pc_glacial:0 "冰河星球"
 ## pc_glacial -> Glacial World ##
- pc_glacial_desc:0 "一个具有氮氧大气层的冰体星球。大量的水资源被永久冻结，如星球表面的冰川，夏季大量融化有又很多降雪。地热活动在厚厚的冰面下导致了很多孔洞，创造了丰富的海洋生物。"
+ pc_glacial_desc:0 "一个具有氮氧大气层的冰冻星球。大量的水资源被永久冻结，如星球表面的冰川，夏季大量融化有又很多降雪。地热活动在厚厚的冰面下导致了很多孔洞，创造了丰富的海洋生物。"
 ## pc_glacial_desc -> Frigid, icy world with a nitrogen-oxygen atmosphere. While water deposits can be found as frozen as glacial ice most of the year, summer months have significant melt and snow is quite common. Geothermal activity causes permanent holes in the ice and helps supports an abundance of marine life under the thick surface ice. ##
  pc_glacial_tile:0 "冰河地形"
 ## pc_glacial_tile -> Glacial Terrain ##
@@ -376,7 +376,7 @@
  mod_pc_glacial_habitability:1 "冰河星球宜居性"
 ## mod_pc_glacial_habitability -> Glacial Habitability ##
  START_SCREEN_PART_ONE_GLACIAL:0 "在[GetHomeWorldName]的山区冰川中形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_GLACIAL -> 自从第一个原始的[GetSpeciesName] communities took shape in the mountainous glaciers of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_GLACIAL -> In the eons since the first primitive [GetSpeciesName] communities took shape in the mountainous glaciers of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Crag
  pc_subarctic:0 "峭壁星球"
@@ -394,7 +394,7 @@
  mod_pc_subarctic_habitability:1 "峭壁星球宜居性"
 ## mod_pc_subarctic_habitability -> Crag Habitability ##
  START_SCREEN_PART_ONE_SUBARCTIC:0 "自从[GetHomeWorldName]中的崎岖岛屿形成了第一个原始[GetSpeciesName]社区，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_SUBARCTIC -> 自从第一个原始的[GetSpeciesName] communities took shape in the craggy islands of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_SUBARCTIC -> In the eons since the first primitive [GetSpeciesName] communities took shape in the craggy islands of [GetHomeWorldName], our civilization has spread and prospered. ##
 
  ###Tepui
  mod_pc_hajungle_habitability:0 "高山雨林星球宜居性"
@@ -412,7 +412,7 @@
  trait_pc_hajungle_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_hajungle_preference_desc -> $trait_pc_arctic_preference_desc$ ## 
  START_SCREEN_PART_ONE_HAJUNGLE:0 "自从[GetHomeWorldName]的薄雾丛林中形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_HAJUNGLE -> 自从第一个原始的[GetSpeciesName] communities took shape in the misty mountain jungles of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_HAJUNGLE -> In the eons since the first primitive [GetSpeciesName] communities took shape in the misty mountain jungles of [GetHomeWorldName], our civilization has spread and prospered. ##
  
  ###Climate Types 
  climate_exotic:0 "异域"
@@ -431,7 +431,7 @@
  ### Floating World
  pc_floating:0 "浮岛星球"
 ## pc_floating -> Floating World ##
- pc_floating_desc:0 "一个有氮氧大气层的浮岛的奇怪星球。 在无尽的海洋星球之上，群岛似乎稳定在天空中。 厚厚的植被和许多飞行的生物居住在这个星球上。"
+ pc_floating_desc:0 "一个在氮氧大气层有浮岛的奇怪星球。 在无尽的海洋星球之上，浮在天空之上的群岛似乎极为稳定。 厚厚的植被和许多飞行的生物居住在这个星球上。"
 ## pc_floating_desc -> A strange world of floating islands with a nitrogen-oxygen atmosphere. Islands seem to hang steady in the sky above a world of endless ocean. Thick vegetation and many flying creatures inhabit this world. ##
  pc_floating_tile:0 "浮岛地形"
 ## pc_floating_tile -> Floating Terrain ##
@@ -445,7 +445,7 @@
 ## d_eludium -> Eludium Ore ##
  d_eludium_desc:0 "这种奇特的物质有许多看似无视物理定律的特性。只有在这个星球上才能发现零重素，它对重力的影响才能改变物质的质量。它也是一种有效的超导体。"
 ## d_eludium_desc -> This exotic substance has many properties that seemingly defy the laws of physics. Only found on this planet, its effects ​on gravity can​ ​change the mass of matter. It is also an effective superconductor. ##
- floating:0 "漂浮岛屿"
+ floating:0 "漂浮的岛屿"
 ## floating -> Floating Islands ##
  floating_desc:0 "在这颗行星的矿石中发现的零重素对于物理研究和能源生产都是非常有价值的。 浮岛上的景色真是令人叹为观止 - 银河系中没有其他地方像这里。"
 ## floating_desc -> The Eludium found in the ore of this planet is highly valuables for both physics research and energy production. The views from the floating islands are truly breathtaking - there is nowhere else in the galaxy quite like this. ##
@@ -480,11 +480,11 @@
  pc_crystal_tile_desc:0 "整块大陆的草原和大型水晶矿床。"
 ## pc_crystal_tile_desc -> Continental grasslands and large crystal deposits. ##
  sr_crystal:0 "艾森水晶"
-## sr_crystal -> 艾森水晶##
+## sr_crystal -> Acean Crystal ##
  sr_crystal_desc:0 "这种奇特的物质有许多看似无视自然法则的特性。只有在这个星球上发现，水晶似乎会使生命蓬勃发展。水晶集中的地方植物和动物都非常丰富。"
 ## sr_crystal_desc -> This exotic substance has many properties that seemingly defy the laws of nature. Only found on this planet, the crystal seems to cause life to flourish. Where the crystal is concentrated both plant and animal life is found in extraordinary abundance. ##
  d_crystal:0 "艾森水晶"
-## d_crystal -> 艾森水晶##
+## d_crystal -> Acean Crystal ##
  d_crystal_desc:0 "这种奇特的物质有许多看似无视自然法则的特性。只有在这个星球上发现，水晶似乎会使生命蓬勃发展。水晶集中的地方植物和动物都非常丰富。"
 ## d_crystal_desc -> This exotic substance has many properties that seemingly defy the laws of nature. Only found on this planet, the crystal seems to cause life to flourish. Where the crystal is concentrated both plant and animal life is found in extraordinary abundance. ##
  pdcrystal.10.name:0 "成长空间"
@@ -612,7 +612,7 @@
  allow_pdcity_world:2 "§H解锁地貌改造选项：§! 全球城市化星球"
 ## allow_pdcity_world -> §HUnlocks Terraforming Option:§! Ecumenopolis World ##
  describe_pdcity_world:2 "§Y全球城市化星球§!是一种特别的行星类型。生活在 §Y全球城市化星球§! 的人口会增加其能量和科学输出，但是减少其食物输出。"
-## describe_pdcity_world -> §YEcumenopolis World§! are a special planet class.人口 living on §YEcumenopolis World§! have their Engery & Science output increased and their Food output decreased. ##
+## describe_pdcity_world -> §YEcumenopolis World§! are a special planet class. Pops living on §YEcumenopolis World§! have their Engery & Science output increased and their Food output decreased. ##
  ap_pdcity_world:0 "全球城市化星球"
 ## ap_pdcity_world -> Ecumenopolis Worlds ##
  ap_pdcity_world_desc:0 "我们必须建造更大的建筑，我们必须建造在星河各处。我们的行星将成为银河系文明工业和灯塔的光辉典范。"
@@ -733,7 +733,7 @@
  ###Mushroom World
  pc_mushroom:0 "菌丝体星球"
 ## pc_mushroom -> Mycelium World ##
- pc_mushroom_desc:0 "一个独特的岩石星球与氮氧大气层。在这个星球上，植物生命的主要形式似乎是巨型的真菌的形式，像高塔一样高出地面。"
+ pc_mushroom_desc:0 "一个独特的岩石星球与氮氧大气层。在这个星球上，主要生命形式似乎是巨型的真菌植物，像高塔一样高出地面。"
 ## pc_mushroom_desc -> A cold rocky world with a nitrogen-oxygen atmosphere. Myceilical and Fungal life rule the ecosystem of this planet. Vast areas of the planet are covered in mushroom forests and cave systems. ##
  pc_mushroom_tile:0 "菌丝体地形"
 ## pc_mushroom_tile -> Mycelium Terrain ##
@@ -963,15 +963,15 @@
  trait_pc_pdcity_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_pdcity_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_CITY:0 "自从[GetHomeWorldName]上形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。我们伟大的城市蓬勃发展，现在它们覆盖了我们整个星球。"
-## START_SCREEN_PART_ONE_CITY -> 自从第一个原始的[GetSpeciesName] communities took shape on [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 Our great cities flourished and they now cover our entire planet. ##
+## START_SCREEN_PART_ONE_CITY -> In the eons since the first primitive [GetSpeciesName] communities took shape on [GetHomeWorldName], our civilization has spread and prospered. Our great cities flourished and they now cover our entire planet. ##
  START_SCREEN_PART_ONE_FLOATING:0 "自从[GetHomeWorldName]浮岛上形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_FLOATING -> 自从第一个原始的[GetSpeciesName] communities took shape on floating islands of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_FLOATING -> In the eons since the first primitive [GetSpeciesName] communities took shape on floating islands of [GetHomeWorldName], our civilization has spread and prospered. ##
  START_SCREEN_PART_ONE_MUSHROOM:0 "自从[GetHomeWorldName]的蘑菇上形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_MUSHROOM -> 自从第一个原始的[GetSpeciesName] communities took shape in the great mushroom forets of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_MUSHROOM -> In the eons since the first primitive [GetSpeciesName] communities took shape in the great mushroom forets of [GetHomeWorldName], our civilization has spread and prospered. ##
  START_SCREEN_PART_ONE_CRYSTAL:0 "自从[GetHomeWorldName]的水晶柱之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_CRYSTAL -> 自从第一个原始的[GetSpeciesName] communities took shape amount the great crystal pillars of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_CRYSTAL -> In the eons since the first primitive [GetSpeciesName] communities took shape amount the great crystal pillars of [GetHomeWorldName], our civilization has spread and prospered. ##
  START_SCREEN_PART_ONE_GRAVEYARD:0 "自从[GetHomeWorldName]的太空生物的遗骸之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_GRAVEYARD -> 自从第一个原始的[GetSpeciesName] communities took shape amoung the dead voidborne creatures of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_GRAVEYARD -> In the eons since the first primitive [GetSpeciesName] communities took shape amoung the dead voidborne creatures of [GetHomeWorldName], our civilization has spread and prospered. ##
  civic_floating_world:0 "浮岛家园"
 ## civic_floating_world -> Floating Home ##
  civic_floating_world_desc:0 "这个星球的主要物种在这个独特星球的浮岛上进化。"
@@ -1029,14 +1029,14 @@
  mod_pc_boreal_habitability:0 "亚寒带星球宜居性"
 ## mod_pc_boreal_habitability -> Boreal Habitability ##
  START_SCREEN_PART_ONE_BOREAL:0 "自从[GetHomeWorldName]的无边密林之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_BOREAL -> 自从第一个原始的[GetSpeciesName] communities took shape in the endless forests of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_BOREAL -> In the eons since the first primitive [GetSpeciesName] communities took shape in the endless forests of [GetHomeWorldName], our civilization has spread and prospered. ##
  
  ###Archive World
- pc_archive:0 "档案馆星球"
+ pc_archive:0 "计算机星球"
 ## pc_archive -> Archive World ##
- pc_archive_desc:0 "这个栖息地似乎是一个巨大的专用月球形超级计算机。浮动的散热器和人造海洋似乎有助于冷却，而人造草收集能量。这个星球是工程的奇迹。"
+ pc_archive_desc:0 "这颗星球似乎是一个巨大的专用月球形超级计算机。浮动的散热器和人造海洋似乎有助于冷却，而人造草则收集恒星能量。这个星球是工程的奇迹。"
 ## pc_archive_desc -> This habitat appears to be one giant purpose-built moon shaped supercomputer. Floating heat sinks and the artificial ocean seems to help with the cooling while artificial grass collects energy. This planet is a marvel of engineering. ##
- pc_archive_tile:0 "档案馆地形"
+ pc_archive_tile:0 "计算机地形"
 ## pc_archive_tile -> Archive Terrain ##
  pc_archive_tile_desc:0 "大型电气管道和平坦的人工草原。"
 ## pc_archive_tile_desc -> Large electrical conduits and flat artificial grasslands. ##
@@ -1048,29 +1048,29 @@
 ## pdarchive.10.a -> Affirmative. ##
  pdarchive.20.name:0 "信息超载"
 ## pdarchive.20.name -> Information Overload ##
- pdarchive.20.desc:0 "关于这个星球的任何事情似乎都不自然。 据我们所知，这个栖息地是一台巨型超级计算机，用于收集和存储信息。 巨大的散热片悬浮在天空中以调节温度，而人造草收集能量，这些能量通过发光的导管在星球上传递。 除了一些轨道碎片之外，似乎没有任何物种能够创造出这种工程奇迹，但它们的整个历史应该可能存在于档案馆中。 存档中的信息量非常大，并且工作人员建议设置永久集群以充分利用信息数据库。"
+ pdarchive.20.desc:0 "关于这个星球的任何事情似乎都不自然。 据我们所知，这个栖息地是一台巨型超级计算机，用于收集和存储信息。 巨大的散热片悬浮在天空中以调节温度，而人造草收集能量，这些能量通过发光的导管在星球上传递。 除了一些轨道碎片之外，似乎没有任何物种能够创造出这种工程奇迹，但它们的整个历史应该可能存在于计算机中。 存档中的信息量非常大，并且工作人员建议设置永久集群以充分利用信息数据库。"
 ## pdarchive.20.desc -> Nothing about this planet appears to be natural. From what we can tell this habitat is one giant supercomputer and was created to collect and store information. Giant heat-sinks levitate into the sky to regulate temperature, while artificial grasses collect energy which are transfers over the planet by glowing conduits. Aside from some orbital debris, there seems to be no sign of the species that created this engineering marvel, but their entire history should likely be somewhere in the archive. The amount of information in the archive is overwhelming and the crew recommends setting up a permanent colony to fully utilize the information database. ##
  pdarchive.20.a:0 "难以置信"
 ## pdarchive.20.a -> Incredible. ##
- mod_pc_archive_habitability:0 "档案馆星球宜居性"
+ mod_pc_archive_habitability:0 "计算机星球宜居性"
 ## mod_pc_archive_habitability -> Archive Habitability ##
- trait_pc_archive_preference:0 "档案馆偏好"
+ trait_pc_archive_preference:0 "计算机偏好"
 ## trait_pc_archive_preference -> Archive Preference ##
  trait_pc_archive_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_archive_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_ARCHIVE:0 "自从[GetHomeWorldName]的人造草地之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_ARCHIVE -> 自从第一个原始的[GetSpeciesName] communities took shape among the artificial grasslands of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
- civic_archive_world:0 "档案馆家园"
+## START_SCREEN_PART_ONE_ARCHIVE -> In the eons since the first primitive [GetSpeciesName] communities took shape among the artificial grasslands of [GetHomeWorldName], our civilization has spread and prospered. ##
+ civic_archive_world:0 "计算机家园"
 ## civic_archive_world -> Archive Home ##
  civic_archive_world_desc:0 "这个星球的主要物种在这个独特星球的人造平原上进化。"
 ## civic_archive_world_desc -> The dominant species of this planet has evolved on the artificial plains of this unique world. ##
  civic_tooltip_archive_world_effects:0 "这个星球的人群进化于§Y$pc_archive$§!。"
 ## civic_tooltip_archive_world_effects -> The people of this world evolved on a §Y$pc_archive$§!. ##
- trait_archive:0 "档案馆星球居民"
+ trait_archive:0 "计算机星球居民"
 ## trait_archive -> Archive World People ##
  trait_archive_desc:1 "这个物种的成员进化于一个人造的星球。"
 ## trait_archive_desc -> Members of this species evolved on an artificial planet. ##
- archive:0 "档案馆居民"
+ archive:0 "计算机居民"
 ## archive -> Archive Habitat ##
  archive_desc:0 "在这个星球的数据存储中发现的丰富知识有助于研究。"
 ## archive_desc -> The vast knowledge found in the datastores of this world help greatly with research. ##
@@ -1091,7 +1091,7 @@
  trait_pc_biolumen_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_biolumen_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_BIOLUMEN:0 "自从[GetHomeWorldName]的发光丛林之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_BIOLUMEN -> 自从第一个原始的[GetSpeciesName] communities took shape in the dense glowing jungles of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_BIOLUMEN -> In the eons since the first primitive [GetSpeciesName] communities took shape in the dense glowing jungles of [GetHomeWorldName], our civilization has spread and prospered. ##
  civic_biolumen_world:0 "生物发光家园"
 ## civic_biolumen_world -> Bioluminescent Home ##
  civic_biolumen_world_desc:0 "这个星球的主要物种在这个独特星球的发光丛林中进化。"
@@ -1210,7 +1210,7 @@
  ###Superhabitable World
  pc_superhabitable:0 "超宜居星球"
 ## pc_superhabitable -> Superhabitable World ##
- pc_superhabitable_desc:0 "充满氮氧大气的岩石星球。由于它的大尺寸，这个行星在形成时保留了许多气体，因此具有更密集的大气，平均温度约为25摄氏度。这也有减少海洋盆地面积的作用，从而促进了海洋生物。这个星球是支持各种生命形态的理想候选。"
+ pc_superhabitable_desc:0 "充满氮氧大气的岩石星球。由于它的巨大尺寸，这个行星在形成时保留了许多气体，因此具有更密集的大气，平均温度约为25摄氏度。这也有减少海洋盆地面积的作用，从而促进了海洋生物。这个星球是支持各种生命形态的理想候选者。"
 ## pc_superhabitable_desc -> A rocky world with a nitrogen-oxygen atmosphere. Due it's large size this planet retained many of its gases while forming, therefore, has a denser atmosphere with an average temperature of around 25 degrees Celsius. This has also had the effect of decreasing ocean basin size which encourages marine life. This planet is an ideal candidate to support all forms of life. ##
  pc_superhabitable_tile:0 "超宜居地形"
 ## pc_superhabitable_tile -> Superhabitable Terrain ##
@@ -1223,7 +1223,7 @@
  trait_pc_superhabitable_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_superhabitable_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_SUPERHABITABLE:0 "自从第一个原始的[GetSpeciesName]在[GetHomeWorldName]丰富的丛林和浅海之间形成了群落，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_SUPERHABITABLE -> 自从第一个原始的[GetSpeciesName] communities took shape among the rich jungles and shallow seas of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_SUPERHABITABLE -> In the eons since the first primitive [GetSpeciesName] communities took shape among the rich jungles and shallow seas of [GetHomeWorldName], our civilization has spread and prospered. ##
  civic_superhabitable_world:0 "超宜居家园"
 ## civic_superhabitable_world -> Superhabitable Home ##
  civic_superhabitable_world_desc:0 "这个星球的主要物种在这个独特星球的富饶的密林和浅海中进化。"
@@ -1263,7 +1263,7 @@
  d_crystal_pillars_desc:0 "这些巨大的水晶柱可以在整个地表的沉积物中找到，它们非常有价值并有助于改善食物的生长。"
 ## d_crystal_pillars_desc -> These giant crystal pillars can be found in deposits all over the surface, they are highly valuable and help improve food growth. ##
  building_pdcrystal_mines:0 "艾森水晶矿"
-## building_pdcrystal_mines -> 艾森水晶Mines ##
+## building_pdcrystal_mines -> Acean Crystal Mines ##
  building_pdcrystal_mines_desc:0 "这些矿井从矿柱中收集有价值的晶体，它的副产品有助于农场附近更加有效。"
 ## building_pdcrystal_mines_desc -> These mines collect the valuable crystals from the pillars, and it's by-products help the near by farms be more effient. ##
  mod_building_pdcrystal_mines_max:0 "最多 $building_pdcrystal_mines$"
@@ -1308,24 +1308,24 @@
 ## d_crystal_temple_desc -> This temple appears to be made of the same crystal as the pillars found on this planet. There are no clues to determine it's age or who might have built it. ##
 
  ###PD Districts
- district_archive_housing:0 "档案馆居住区"
+ district_archive_housing:0 "计算机居住区"
 ## district_archive_housing -> Archive Housing District ##
- district_archive_housing_desc:0 "档案馆居住区为其人口提供舒适的紧凑型住宅。"
+ district_archive_housing_desc:0 "计算机居住区为其人口提供舒适的紧凑型住宅。"
 ## district_archive_housing_desc -> The Archive housing district provides comfortable, if compact residences for its population. ##
- district_archive_energy:0 "档案馆能源生产区"
+ district_archive_energy:0 "计算机能源生产区"
 ## district_archive_energy -> Archive Energy Collection District ##
- district_archive_energy_desc:0 "档案馆的能源生产区产生能源，并为其建造的生态建筑提供动力。"
+ district_archive_energy_desc:0 "计算机的能源生产区产生能源，并为其建造的生态建筑提供动力。"
 ## district_archive_energy_desc -> The Archive's energy production plant districts generate energy credits, as well as provide power to the arcology on which they are built. ##
- district_archive_science:0 "档案馆科技研究区"
+ district_archive_science:0 "计算机科技研究区"
 ## district_archive_science -> Archive Research District ##
  district_archive_science_desc:0 "这些地区有看起来无穷无尽的科学信息，聘请了来自无数研究领域的研究人员。"
 ## district_archive_science_desc -> Tapping into the seemingly endless amount of scientific information, these districts employ researchers from myriad fields of study. ##
- district_archive_cultural:0 "档案馆文化研究区"
+ district_archive_cultural:0 "计算机文化研究区"
 ## district_archive_cultural -> Archive Cultural Studies District ##
- district_archive_cultural_desc:0 "文化历史学家花费时间从档案馆学习，然后将其分享给定居的研究人员。"
+ district_archive_cultural_desc:0 "文化历史学家花费时间从计算机学习，然后将其分享给定居的研究人员。"
 ## district_archive_cultural_desc -> Cultural historians spend time learning what they can from the Archive and then expose it to the resident researchers. ##
 
- ###PD 工作
+ ###PD Jobs
  job_templeresearcher:0 "寺庙研究员"
 ## job_templeresearcher -> Temple Researcher ##
  job_templeresearcher_plural:0 "寺庙研究员"
@@ -1337,9 +1337,9 @@
  mod_job_templeresearcher_add:0 "$job_researcher$职位"
 ## mod_job_templeresearcher_add -> $job_researcher$ Job ## 
  mod_job_templeresearcher_per_pop:0 "§G+1§! $job_templeresearcher$职位，每个$VALUE$人口"
-## mod_job_templeresearcher_per_pop -> §G+1§! $job_templeresearcher$每$VALUE$人口 ##
+## mod_job_templeresearcher_per_pop -> §G+1§! $job_templeresearcher$ Job per $VALUE$ Pops ##
  mod_job_templeresearcher_per_pop_short:0 "\n§G+1§! mod_job_templeresearcher_add每 $VALUE$ £pop£"
-## mod_job_templeresearcher_per_pop_short -> \n§G+1§! mod_job_templeresearcher_add每 $VALUE$ £pop£ ##
+## mod_job_templeresearcher_per_pop_short -> \n§G+1§! mod_job_templeresearcher_add per $VALUE$ £pop£ ##
 
  ###Floating Island Crashing Event
  pdfloating.30.name:0 "天地大冲撞"
@@ -1404,7 +1404,7 @@
  ### Graveyard World
  pc_graveyard:0 "墓地星球"
 ## pc_graveyard -> Graveyard World ##
- pc_graveyard_desc:0 "一个奇怪的岩石星球，充满氮氧大气层。虽然这个星球并不显眼，但这似乎是缇杨凯终结他们生活的地方。当这些伟大的太空生物停止生命时，遗体就是生命的神奇的一种展示，因为这些遗体给已知的宇宙中带来了奇异的材料。"
+ pc_graveyard_desc:0 "一个奇怪的岩石星球，充满氮氧大气层。虽然这个星球并不显眼，但这似乎是缇杨凯终结他们生命的地方。当这些伟大的太空生物停止生命时，遗体是生命的一种神奇展示，因为这些遗体给已知的宇宙中带来了奇异的材料。"
 ## pc_graveyard_desc -> A rocky world with a nitrogen-oxygen atmosphere. While the planet should be unremarkable, this does appear to be where the Tiyanki come to end their lives. The result of where these great space creatures come to rest is an incredible abundance of life. The remains bringing exotic materials from all over the known universe to an otherwise barren world. ##
  pc_graveyard_tile:0 "墓地地形"
 ## pc_graveyard_tile -> Graveyard Terrain ##
@@ -1462,7 +1462,7 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## pdgraveyard.34.a -> It's the price we pay for safety. ##
 
  #Mushroom Mutants
- NAME_Mushroom:0 "Mushroom Mutants"
+ NAME_Mushroom:0 "蘑菇突变体"
 ## NAME_Mushroom -> Mushroom Mutants ##
  d_hunterreserve:0 "猎头族保留地"
 ## d_hunterreserve -> Hunter Reserves ##
@@ -1489,7 +1489,7 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  trait_pc_technoorganic_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_technoorganic_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  START_SCREEN_PART_ONE_TECHNOORGANIC:0 "自从[GetHomeWorldName]的崎岖草原之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_TECHNOORGANIC -> 自从第一个原始的[GetSpeciesName] communities took shape in the rugged grasslands of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_TECHNOORGANIC -> In the eons since the first primitive [GetSpeciesName] communities took shape in the rugged grasslands of [GetHomeWorldName], our civilization has spread and prospered. ##
  civic_technoorganic_world:0 "电子有机家园"
 ## civic_technoorganic_world -> Techno-Organic Home ##
  civic_technoorganic_world_desc:0 "这个星球的主要物种在这个独特星球的电子有机草原之间上进化。"
@@ -1660,13 +1660,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  ###The Ones Who Made The Archive
  pdarchive.30.name:0 "有人在家吗？"
 ## pdarchive.30.name -> Anyone Home? ##
- pdarchive.30.desc:0 "我们开始寻找这个档案馆星球的神秘建造者。只能说运气很好，这段信息被编码存储在缓存里面。我们的团队一解码就发现了，很明显这段就是建造者的历史，但是为什么把档案馆封锁依然是个谜。一有突破，团队会立刻报告的。"
+ pdarchive.30.desc:0 "我们开始寻找这个计算机星球的神秘建造者。只能说运气很好，这段信息被编码存储在缓存里面。我们的团队一解码就发现了，很明显这段就是建造者的历史，但是为什么把计算机封锁依然是个谜。一有突破，团队会立刻报告的。"
 ## pdarchive.30.desc -> We have begun to unravel the mystery of who built this archive. It’s what could only be described as a stroke of luck that a researcher stumbled upon a large encrypted cache of information hidden within the archives database. Once the team had broken through the encryption, it became clear that this was the entire historical records of the builders of the archive. Why it was locked away is still a mystery, but the team will report as more concrete information becomes available. ##
  pdarchive.30.a:0 "希望那里有一些东西。"
 ## pdarchive.30.a -> Hopefully there's something in there. ##
  pdarchive.31.name:0 "继续解读"
 ## pdarchive.31.name -> Keep Reading ##
- pdarchive.31.desc:0 "去年我们从档案中找到了大量有关其创造者的信息。他们自称'依阿卡' 而且看起来他们跟这些信息有一些宗教关系。他们认为它是神圣的并且还有一个强大的阶级，专门发掘信息并且存储进档案馆。档案馆就是他们的终极工程，看起来大到足以装下他们找到的一切信息。他们的知识库想当然又深又广，而且显然还有一些关于异维度的研究。我们尚不清楚他们身上发生了什么事情，但是我们会继续搜索数据库的。"
+ pdarchive.31.desc:0 "去年我们从档案中找到了大量有关其创造者的信息。他们自称'依阿卡' 而且看起来他们跟这些信息有一些宗教关系。他们认为它是神圣的并且还有一个强大的阶级，专门发掘信息并且存储进计算机。计算机就是他们的终极工程，看起来大到足以装下他们找到的一切信息。他们的知识库想当然又深又广，而且显然还有一些关于异维度的研究。我们尚不清楚他们身上发生了什么事情，但是我们会继续搜索数据库的。"
 ## pdarchive.31.desc -> In this last year, we have learnt a great deal from the archives about its creators. They called themselves the 'Iarka' and seemed to have an almost religious relationship with information. They thought it sacred and it appears they had a large powerful class of citizens whose job it was to discover and add information into the archive. The Archive was built as their ultimate project, it was supposed to be big enough for all the information they could ever collect. Their knowledge base was unsurprisingly diverse and thorough, and evidence shows many of their later experiments had to do with other dimensions. We're still not sure what happened to these people but we will continue to search the datastore. ##
  pdarchive.31.a:0 "继续搜索"
 ## pdarchive.31.a -> Keep searching. ##
@@ -1676,7 +1676,7 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## pdarchive.31.b.tooltip -> We search out more high capacity access ports ##
  pdarchive.32.name:0 "灾难"
 ## pdarchive.32.name -> Calamity ##
- pdarchive.32.desc:0 "我们已经找到了依阿卡文明崩溃的原因了。似乎他们在异维度方面的实验引起了一些攻击并以其人民为食的东西的注意力。 显然，这与他们的宗教文本非常相似，他们认为这是星球末日了。文本预言他们的救赎将来自信息本身，他们开始了将自己数字化并上传进档案馆。与此同时，他们将维度生物欺骗到了他们母星的表面，并引爆了某种摧毁这个生物的多维武器但也炸毁了他们的家园。之后，他们将剩下的人数字化为档案。我们正在积极寻找他们的意识，我们认为它仍然在程序中的某个地方。"
+ pdarchive.32.desc:0 "我们已经找到了依阿卡文明崩溃的原因了。似乎他们在异维度方面的实验引起了一些攻击并以其人民为食的东西的注意力。 显然，这与他们的宗教文本非常相似，他们认为这是星球末日了。文本预言他们的救赎将来自信息本身，他们开始了将自己数字化并上传进计算机。与此同时，他们将维度生物欺骗到了他们母星的表面，并引爆了某种摧毁这个生物的多维武器但也炸毁了他们的家园。之后，他们将剩下的人数字化为档案。我们正在积极寻找他们的意识，我们认为它仍然在程序中的某个地方。"
 ## pdarchive.32.desc -> We have found the point at which the Iarka civilization fell apart. It appears that their experiments into other dimensions caught the attention of something that attacked and fed on their people. Apparently, this was strikingly similar to one of their religious texts and they believed this was the end times. The text foretold that their salvation would come from information itself, and they began a process to digitize themselves into the Archive. At the same time, they tricked the dimensional creature onto the surface of their homeworld and detonated some kind of interdimensional weapon destroying the creature, along with their homeworld. Afterwards, they digitized the remainder of the people into the Archive. We're actively searching for their consciousness which we assume is still somewhere in the programming. ##
  pdarchive.32.a:0 "有趣"
 ## pdarchive.32.a -> Amazing. ##
@@ -1698,7 +1698,7 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## pdarchive.33.c.tooltip -> We will erase the ghostly information of these people, freeing up valuable processing speed. ##
  pdarchive.40.name:0 "来世"
 ## pdarchive.40.name -> The Afterlife ##
- pdarchive.40.desc:0 "与依阿卡交流是一次有趣的经历。他们似乎意识到了但并不关心他们目前的生存状态。为了保护档案馆，他们同意分享他们对多维技术的了解。他们同意建立一个实验室，让他们的科学家协助我们，主要是为了确保我们不会犯下他们所做的错误——召唤一个维度生物。"
+ pdarchive.40.desc:0 "与依阿卡交流是一次有趣的经历。他们似乎意识到了但并不关心他们目前的生存状态。为了保护计算机，他们同意分享他们对多维技术的了解。他们同意建立一个实验室，让他们的科学家协助我们，主要是为了确保我们不会犯下他们所做的错误——召唤一个维度生物。"
 ## pdarchive.40.desc -> Communicating with the Iarka was an interesting experience. They seemed aware but unconcerned about their current state of existence. In exchange for protecting the Archive, they have agreed to share their knowledge of interdimensional technology. They have agreed to set up a laboratory in which their scientist would assist ours, mainly to make sure we do not make the mistake they did and call forth a dimension creature. ##
  pdarchive.40.a:0 "有趣"
 ## pdarchive.40.a -> Amazing. ##
@@ -1710,13 +1710,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## pdarchive.41.a -> This is the best for everyone. ##
  pdarchive.42.name:0 "摧毁地狱"
 ## pdarchive.42.name -> Destroying Hell ##
- pdarchive.42.desc:0 "我们已经从档案馆的数据库中抹去了数字天堂，这样我们就可以从档案馆中释放出大量的计算能力。我们期望看到这个星球上的实验室取得更好的成果。"
+ pdarchive.42.desc:0 "我们已经从计算机的数据库中抹去了数字天堂，这样我们就可以从计算机中释放出大量的计算能力。我们期望看到这个星球上的实验室取得更好的成果。"
 ## pdarchive.42.desc -> We have erased the digital heaven from the Archive's databanks and in doing so we have freed up a tremendous amount of computing power from the Archive. We expect to see improved results from the laboratories on this planet going forward. ##
  pdarchive.42.a:0 "好极了"
 ## pdarchive.42.a -> Excellent. ##
  d_archive_dataports:0 "档案访问端口"
 ## d_archive_dataports -> Archive Access Ports ##
- d_archive_dataports_desc:0 "此栖息地周围有一些特定的网络访问端口，可以高速访问档案馆。"
+ d_archive_dataports_desc:0 "此栖息地周围有一些特定的网络访问端口，可以高速访问计算机。"
 ## d_archive_dataports_desc -> There are a few select network access ports around this habitat that have high capacity access to the Archive. ##
  d_interdimensional_lab:0 "多维实验室"
 ## d_interdimensional_lab -> Interdimensional Laboratories ##
@@ -1732,82 +1732,82 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## extra_memory_desc -> By erasing the Virtual Sanctuary of the Iarka we have freed up valuable multi-core processing power. ##
 
  ###PD Archive Districts
- building_archive_capital:0 "档案馆行政区"
+ building_archive_capital:0 "计算机行政区"
 ## building_archive_capital -> Archive Administration ##
- building_archive_capital_desc:0 "档案馆的行政中心，作为其首都和当地政府所在地。"
+ building_archive_capital_desc:0 "计算机的行政中心，作为其首都和当地政府所在地。"
 ## building_archive_capital_desc -> The administrative hub of the Archive, serving as its capital and the seat of the local government. ##
- building_archive_major_capital:0 "档案馆控制中心"
+ building_archive_major_capital:0 "计算机控制中心"
 ## building_archive_major_capital -> Archive Central Control ##
- building_archive_major_capital_desc:1 "一个广泛复杂的官僚办公室，负责监督档案馆的管理。"
+ building_archive_major_capital_desc:1 "一个广泛复杂的官僚办公室，负责监督计算机的管理。"
 ## building_archive_major_capital_desc -> An extensive complex of bureaucratic offices that oversees the administration of the Archive. ##
- district_archive_housing:0 "档案馆居住区"
+ district_archive_housing:0 "计算机居住区"
 ## district_archive_housing -> Archive Housing District ##
- district_archive_housing_plural:0 "档案馆居住区"
+ district_archive_housing_plural:0 "计算机居住区"
 ## district_archive_housing_plural -> Archive Housing Districts ##
- district_archive_housing_desc:1 "档案馆居住区为其人口提供舒适的紧凑型住宅。"
+ district_archive_housing_desc:1 "计算机居住区为其人口提供舒适的紧凑型住宅。"
 ## district_archive_housing_desc -> The Archive housing districts provides comfortable if compact residences for its population. ##
- district_archive_physics:0 "档案馆物理学部"
+ district_archive_physics:0 "计算机物理学部"
 ## district_archive_physics -> Archive Physics Department ##
- district_archive_physics_plural:0 "档案馆物理学部"
+ district_archive_physics_plural:0 "计算机物理学部"
 ## district_archive_physics_plural -> Archive Physics Departments ##
- district_archive_physics_desc:1 "使用档案馆内的信息，物理实验室进行复杂的实验。"
+ district_archive_physics_desc:1 "使用计算机内的信息，物理实验室进行复杂的实验。"
 ## district_archive_physics_desc -> Using the information inside the Archive, Physic labs run complex experiments. ##
- district_archive_society:0 "档案馆历史学部"
+ district_archive_society:0 "计算机历史学部"
 ## district_archive_society -> Archive Historical Department ##
- district_archive_society_plural:0 "档案馆历史学部"
+ district_archive_society_plural:0 "计算机历史学部"
 ## district_archive_society_plural -> Archive Historical Departments ##
- district_archive_society_desc:1 "历史学家利用档案馆内的信息，研究过去的文化，并使这些课程对我们今天的人们有所启示"
+ district_archive_society_desc:1 "历史学家利用计算机内的信息，研究过去的文化，并使这些课程对我们今天的人们有所启示"
 ## district_archive_society_desc -> Using the information inside the Archive, Historians study the cultures of the past and make those lessons useful to our people today. ##
- district_archive_engineering:0 "档案馆工程学部"
+ district_archive_engineering:0 "计算机工程学部"
 ## district_archive_engineering -> Archive Engineering Department ##
- district_archive_engineering_plural:0 "档案馆工程学部"
+ district_archive_engineering_plural:0 "计算机工程学部"
 ## district_archive_engineering_plural -> Archive Engineering Departments ##
- district_archive_engineering_desc:1 "使用档案馆内的信息，工程师可以创建复杂的机器。他们还负责档案馆的维修和保养。"
+ district_archive_engineering_desc:1 "使用计算机内的信息，工程师可以创建复杂的机器。他们还负责计算机的维修和保养。"
 ## district_archive_engineering_desc -> Using the information inside the Archive, Engineers create complex machinery. They are also responsible for the repair and upkeep of the Archive. ##
  
- ###PD Archive 工作
+ ###PD Archive Jobs
  job_archivist:0 "图书馆管理员"
 ## job_archivist -> Archivist ##
  job_archivist_plural:0 "图书馆管理员"
 ## job_archivist_plural -> Archivists ##
- job_archivist_desc:0 "这些特殊的研究人员使用档案馆的高容量数据端口来帮助我们帝国的研究团队。"
+ job_archivist_desc:0 "这些特殊的研究人员使用计算机的高容量数据端口来帮助我们帝国的研究团队。"
 ## job_archivist_desc -> These special researchers use the high capacity data ports found at the Archive to help research teams across our empire. ##
- job_archivist_effect_desc:0 "job_archivist $job_archivist_plural$研究档案馆信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£engineering£ £society£ £physics£ 以供研究"
+ job_archivist_effect_desc:0 "job_archivist $job_archivist_plural$研究计算机信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£engineering£ £society£ £physics£ 以供研究"
 ## job_archivist_effect_desc -> job_archivist $job_archivist_plural$ study the Archives by turning £consumer_goods£ §Y$consumer_goods$§! into £engineering£ £society£ £physics£ for use in study. ##
  mod_job_archivist_add:0 "$job_archivist$职位"
-## mod_job_archivist_add -> $job_archivist$ 工作 ##
+## mod_job_archivist_add -> $job_archivist$ Jobs ##
  mod_job_archivist_per_pop:0 "§G+1§! $job_archivist$ 职位，每个 $VALUE$人口"
-## mod_job_archivist_per_pop -> §G+1§! $job_archivist$每$VALUE$人口 ##
+## mod_job_archivist_per_pop -> §G+1§! $job_archivist$ Job per $VALUE$ Pops ##
  mod_job_archivist_per_pop_short:0 "\n§G+1§! £mod_job_archivist_add£每个$VALUE$ £pop£"
-## mod_job_archivist_per_pop_short -> \n§G+1§! £mod_job_archivist_add£每 $VALUE$ £pop£ ##
- job_archive_engineer:0 "档案馆工程师"
+## mod_job_archivist_per_pop_short -> \n§G+1§! £mod_job_archivist_add£ per $VALUE$ £pop£ ##
+ job_archive_engineer:0 "计算机工程师"
 ## job_archive_engineer -> Archive Engineers ##
- job_archive_engineer_plural:0 "档案馆工程师"
+ job_archive_engineer_plural:0 "计算机工程师"
 ## job_archive_engineer_plural -> Archive Engineers ##
- job_archive_engineer_desc:0 "这些工程师使用档案馆在他们的领域中进行高度专业化的实验。"
+ job_archive_engineer_desc:0 "这些工程师使用计算机在他们的领域中进行高度专业化的实验。"
 ## job_archive_engineer_desc -> These engineers use the Archive to run highly specialize experiments in their field. ##
- job_archive_engineer_effect_desc:0 "job_archive_engineer $job_archive_engineer_plural$研究档案馆信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£engineering£以供研究"
+ job_archive_engineer_effect_desc:0 "job_archive_engineer $job_archive_engineer_plural$研究计算机信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£engineering£以供研究"
 ## job_archive_engineer_effect_desc -> job_archive_engineer $job_archive_engineer_plural$ use the Archives by turning £consumer_goods£ §Y$consumer_goods$§! into £engineering£ for use in their studies. ##
  mod_job_archive_engineer_add:0 "$job_archive_engineer$职位"
-## mod_job_archive_engineer_add -> $job_archive_engineer$ 工作 ##
+## mod_job_archive_engineer_add -> $job_archive_engineer$ Jobs ##
  mod_job_archive_engineer_per_pop:0 "职位每$VALUE$人口§G+1§! $job_archive_engineer$ "
-## mod_job_archive_engineer_per_pop -> §G+1§! $job_archive_engineer$每$VALUE$人口 ##
+## mod_job_archive_engineer_per_pop -> §G+1§! $job_archive_engineer$ Job per $VALUE$ Pops ##
  mod_job_archive_engineer_per_pop_short:0 "\n每个$VALUE$ £pop£ §G+1§! £mod_archive_engineer_add£"
-## mod_job_archive_engineer_per_pop_short -> \n§G+1§! £mod_archive_engineer_add£每 $VALUE$ £pop£ ##
- job_archive_historian:0 "档案馆历史学家"
+## mod_job_archive_engineer_per_pop_short -> \n§G+1§! £mod_archive_engineer_add£ per $VALUE$ £pop£ ##
+ job_archive_historian:0 "计算机历史学家"
 ## job_archive_historian -> Archive Historian ##
- job_archive_historian_plural:0 "档案馆历史学家"
+ job_archive_historian_plural:0 "计算机历史学家"
 ## job_archive_historian_plural -> Archive Historians ##
- job_archive_historian_desc:0 "这些历史学家使用档案馆在他们的领域进行高度专业化的研究。"
+ job_archive_historian_desc:0 "这些历史学家使用计算机在他们的领域进行高度专业化的研究。"
 ## job_archive_historian_desc -> These Historians use the Archive to run highly specialized studies in their field. ##
- job_archive_historian_effect_desc:0 "job_archive_historian $job_archive_historian_plural$研究档案馆信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£society£以供研究"
+ job_archive_historian_effect_desc:0 "job_archive_historian $job_archive_historian_plural$研究计算机信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£society£以供研究"
 ## job_archive_historian_effect_desc -> job_archive_historian $job_archive_historian_plural$ use the Archives by turning £consumer_goods£ §Y$consumer_goods$§! into £society£ for use in their studies. ##
  mod_job_archive_historian_add:0 "$job_archive_historian$职位"
-## mod_job_archive_historian_add -> $job_archive_historian$ 工作 ##
+## mod_job_archive_historian_add -> $job_archive_historian$ Jobs ##
  mod_job_archive_historian_per_pop:0 "职位每个$VALUE$人口§G+1§! $job_archive_historian$ "
-## mod_job_archive_historian_per_pop -> §G+1§! $job_archive_historian$每$VALUE$人口 ##
+## mod_job_archive_historian_per_pop -> §G+1§! $job_archive_historian$ Job per $VALUE$ Pops ##
  mod_job_archive_historian_per_pop_short:0 "\n§G+1§! £mod_archive_historian_add£每个$VALUE$ £pop£"
-## mod_job_archive_historian_per_pop_short -> \n§G+1§! £mod_archive_historian_add£每 $VALUE$ £pop£ ##
+## mod_job_archive_historian_per_pop_short -> \n§G+1§! £mod_archive_historian_add£ per $VALUE$ £pop£ ##
  job_interdimensional_researcher:0 "多维实验研究员"
 ## job_interdimensional_researcher -> Interdimensional Researcher ##
  job_interdimensional_researcher_plural:0 "多维实验研究员"
@@ -1817,25 +1817,25 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_interdimensional_researcher_effect_desc:0 "job_interdimensional_researcher $job_interdimensional_researcher_plural$研究其他维度，消耗£consumer_goods£ §Y$consumer_goods$§!产出£physics£。"
 ## job_interdimensional_researcher_effect_desc -> job_interdimensional_researcher $job_interdimensional_researcher_plural$ study other dimensions by turning £consumer_goods£ §Y$consumer_goods$§! into £physics£. ##
  mod_job_interdimensional_researcher_add:0 "$job_interdimensional_researcher$职位"
-## mod_job_interdimensional_researcher_add -> $job_interdimensional_researcher$ 工作 ##
+## mod_job_interdimensional_researcher_add -> $job_interdimensional_researcher$ Jobs ##
  mod_job_interdimensional_researcher_per_pop:0 "§G+1§! $job_interdimensional_researcher$职位，每$VALUE$人口"
-## mod_job_interdimensional_researcher_per_pop -> §G+1§! $job_interdimensional_researcher$每$VALUE$人口 ##
+## mod_job_interdimensional_researcher_per_pop -> §G+1§! $job_interdimensional_researcher$ Job per $VALUE$ Pops ##
  mod_job_interdimensional_researcher_per_pop_short:0 "\n每个$VALUE$ £pop£ §G+1§! £mod_interdimensional_researcher_add£"
-## mod_job_interdimensional_researcher_per_pop_short -> \n§G+1§! £mod_interdimensional_researcher_add£每 $VALUE$ £pop£ ##
- job_archive_physicist:0 "档案馆物理学家"
+## mod_job_interdimensional_researcher_per_pop_short -> \n§G+1§! £mod_interdimensional_researcher_add£ per $VALUE$ £pop£ ##
+ job_archive_physicist:0 "计算机物理学家"
 ## job_archive_physicist -> Archive Physicist ##
- job_archive_physicist_plural:0 "档案馆物理学家"
+ job_archive_physicist_plural:0 "计算机物理学家"
 ## job_archive_physicist_plural -> Archive Physicists ##
- job_archive_physicist_desc:0 "这些物理学家使用档案馆在他们的领域进行高度专业化的研究。"
+ job_archive_physicist_desc:0 "这些物理学家使用计算机在他们的领域进行高度专业化的研究。"
 ## job_archive_physicist_desc -> These Physicists use the Archive to run highly specialized studies in their field. ##
- job_archive_physicist_effect_desc:0 "job_archive_physicist $job_archive_physicist_plural$研究档案馆信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£physics£以供研究"
+ job_archive_physicist_effect_desc:0 "job_archive_physicist $job_archive_physicist_plural$研究计算机信息，消耗£consumer_goods£ §Y$consumer_goods$§!产出£physics£以供研究"
 ## job_archive_physicist_effect_desc -> job_archive_physicist $job_archive_physicist_plural$ use the Archives by turning £consumer_goods£ §Y$consumer_goods$§! into £physics£ for use in their studies. ##
  mod_job_archive_physicist_add:0 "$job_archive_physicist$职位"
-## mod_job_archive_physicist_add -> $job_archive_physicist$ 工作 ##
+## mod_job_archive_physicist_add -> $job_archive_physicist$ Jobs ##
  mod_job_archive_physicist_per_pop:0 "§G+1§! $job_archive_physicist$职位，每$VALUE$人口"
-## mod_job_archive_physicist_per_pop -> §G+1§! $job_archive_physicist$每$VALUE$人口 ##
+## mod_job_archive_physicist_per_pop -> §G+1§! $job_archive_physicist$ Job per $VALUE$ Pops ##
  mod_job_archive_physicist_per_pop_short:0 "\n每个$VALUE$ £pop£ §G+1§! £mod_archive_physicist_add£"
-## mod_job_archive_physicist_per_pop_short -> \n§G+1§! £mod_archive_physicist_add£每 $VALUE$ £pop£ ##
+## mod_job_archive_physicist_per_pop_short -> \n§G+1§! £mod_archive_physicist_add£ per $VALUE$ £pop£ ##
  job_virtual_observers:0 "虚拟观察者"
 ## job_virtual_observers -> Virtual Observer ##
  job_virtual_observers_plural:0 "虚拟观察者"
@@ -1845,16 +1845,16 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_virtual_observers_effect_desc:0 "job_virtual_observers $job_virtual_observers_plural$观测依阿卡，消耗£consumer_goods£ §Y$consumer_goods$§!产出£society£以供研究"
 ## job_virtual_observers_effect_desc -> job_virtual_observers $job_virtual_observers_plural$ observe the Iarka by turning £consumer_goods£ §Y$consumer_goods$§! into £society£ for use in their studies. ##
  mod_job_virtual_observers_add:0 "$job_virtual_observers$职位"
-## mod_job_virtual_observers_add -> $job_virtual_observers$ 工作 ##
+## mod_job_virtual_observers_add -> $job_virtual_observers$ Jobs ##
  mod_job_virtual_observers_per_pop:0 "§G+1§! $job_virtual_observers$职位，每$VALUE$人口"
-## mod_job_virtual_observers_per_pop -> §G+1§! $job_virtual_observers$每$VALUE$人口 ##
+## mod_job_virtual_observers_per_pop -> §G+1§! $job_virtual_observers$ Job per $VALUE$ Pops ##
  mod_job_virtual_observers_per_pop_short:0 "\n每个$VALUE$ £pop£ §G+1§! £mod_virtual_observers_add£"
-## mod_job_virtual_observers_per_pop_short -> \n§G+1§! £mod_virtual_observers_add£每 $VALUE$ £pop£ ##
+## mod_job_virtual_observers_per_pop_short -> \n§G+1§! £mod_virtual_observers_add£ per $VALUE$ £pop£ ##
 
  ###Antarcitc World
  pc_antarctic:0 "冰封大陆星球"
 ## pc_antarctic -> Antarctic World ##
- pc_antarctic_desc:0 "一个具有氮氧大气层的被冰封的岩石星球。水圈大部分是冰冻的，金刚石粉尘和雪一样普遍。虽然在冬季，风速可达到每小时250千米以上，但在海冰，洞穴和受保护的山谷中，还是可以在孤立区域里找到生命。"
+ pc_antarctic_desc:0 "一个具有氮氧大气层的被冰封的岩石星球。水圈大部分被冰冻，金刚石粉尘和雪一样普遍。虽然在冬季，风速可达到每小时250千米以上，但在海冰、洞穴和受保护的山谷中，还是可以在孤立区域里找到生命。"
 ## pc_antarctic_desc -> Frigid, rocky world with a nitrogen-oxygen atmosphere. Hydrosphere is mostly frozen, with diamond dust being as common as snow. While winds can reach speeds of over 250 km per hour in the winter months, life can be found in isolated pockets under sea ice, in caves, and in protected valleys. ##
  pc_antarctic_tile:0 "冰封大陆地形"
 ## pc_antarctic_tile -> Antarctic Terrain ##
@@ -1867,7 +1867,7 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  pc_antarctic_habitability:1 "冰封大陆星球宜居性"
 ## pc_antarctic_habitability -> Antarctic Habitability ##
  START_SCREEN_PART_ONE_ANTARCTIC:0 "自从[GetHomeWorldName]的冰封平原之间形成了第一个原始[GetSpeciesName]社区以来的无数年，我们的文明已经传播和繁荣起来。"
-## START_SCREEN_PART_ONE_ANTARCTIC -> 自从第一个原始的[GetSpeciesName] communities took shape in the frozen dry plains of [GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_ANTARCTIC -> In the eons since the first primitive [GetSpeciesName] communities took shape in the frozen dry plains of [GetHomeWorldName], our civilization has spread and prospered. ##
  mod_pc_antarctic_habitability:0 "冰封大陆星球宜居性"
 ## mod_pc_antarctic_habitability -> Antarctic Habitability ##
 
@@ -1997,11 +1997,11 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_slurry_distillers_effect_desc:0 "job_slurry_distillers $job_slurry_distillers_plural$消耗£consumer_goods£ §Y$consumer_goods$§!并将矿浆转化为£alloys£和£gas£以供使用。"
 ## job_slurry_distillers_effect_desc -> job_slurry_distillers $job_slurry_distillers_plural$ by shifting the mineral slurry turn £consumer_goods£ §Y$consumer_goods$§! into £alloys£ and £gas£ for use. ##
  mod_job_slurry_distillers_add:0 "$job_slurry_distillers$ 工作"
-## mod_job_slurry_distillers_add -> $job_slurry_distillers$ 工作 ##
+## mod_job_slurry_distillers_add -> $job_slurry_distillers$ Jobs ##
  mod_job_slurry_distillers_per_pop:0 "§G+1§! $job_slurry_distillers$职位每$VALUE$ 人口"
-## mod_job_slurry_distillers_per_pop -> §G+1§! $job_slurry_distillers$每$VALUE$人口 ##
+## mod_job_slurry_distillers_per_pop -> §G+1§! $job_slurry_distillers$ Job per $VALUE$ Pops ##
  mod_job_slurry_distillers_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_slurry_distillers_add£"
-## mod_job_slurry_distillers_per_pop_short -> \n§G+1§! £mod_slurry_distillers_add£每 $VALUE$ £pop£ ##
+## mod_job_slurry_distillers_per_pop_short -> \n§G+1§! £mod_slurry_distillers_add£ per $VALUE$ £pop£ ##
  d_nightside_mining_operations:0 "夜半球采矿作业"
 ## d_nightside_mining_operations -> Night-Side Mining Operations ##
  d_nightside_mining_operations_desc:1 "寒冷黑暗的星球背面因陨石撞击而留下了无数疤痕,难以估量的巨大矿物财富在黑暗中静待人们去收集。"
@@ -2013,13 +2013,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_nightside_miner_desc:0 "这些工人在永夜的半球进行探索和开采，他们配备了重型冬季装备以在恶劣的条件下生存。"
 ## job_nightside_miner_desc -> These workers set up expeditions in the eternal darkness of the night side, equipped them with heavy winter gear to survive the hard conditions. ##
  job_nightside_miner_effect_desc:0 "job_nightside_miner $job_nightside_miner_plural$消耗£consumer_goods£ §Y$consumer_goods$§!探索夜半球并且生产£minerals£和£crystals£。"
-## job_nightside_miner_effect_desc -> job_nightside_miner $job_nightside_miner_plural$ search the night-side of the planet useing £consumer_goods£ §Y$consumer_goods$§!把它们变成£minerals£ and £crystals£. ##
+## job_nightside_miner_effect_desc -> job_nightside_miner $job_nightside_miner_plural$ search the night-side of the planet useing £consumer_goods£ §Y$consumer_goods$§! and turning them into £minerals£ and £crystals£. ##
  mod_job_nightside_miner_add:0 "$job_nightside_miner$ 工作"
-## mod_job_nightside_miner_add -> $job_nightside_miner$ 工作 ##
+## mod_job_nightside_miner_add -> $job_nightside_miner$ Jobs ##
  mod_job_nightside_miner_per_pop:0 "每$VALUE$人口§G+1§! $job_nightside_miner$"
-## mod_job_nightside_miner_per_pop -> §G+1§! $job_nightside_miner$每$VALUE$人口 ##
+## mod_job_nightside_miner_per_pop -> §G+1§! $job_nightside_miner$ Job per $VALUE$ Pops ##
  mod_job_nightside_miner_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_nightside_miner_add£"
-## mod_job_nightside_miner_per_pop_short -> \n§G+1§! £mod_nightside_miner_add£每 $VALUE$ £pop£ ##
+## mod_job_nightside_miner_per_pop_short -> \n§G+1§! £mod_nightside_miner_add£ per $VALUE$ £pop£ ##
  d_ancient_motes:0 "古代挥发物沉积"
 ## d_ancient_motes -> Ancient Volatiles Deposit ##
  d_ancient_motes_desc:1 "曾经茂密的森林被埋藏了上亿多年。由于重力太大，残留物变得很致密，这导致了一种共同作用，产生了罕见的尘粒和其他高能挥发物。"
@@ -2031,13 +2031,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_volatile_miner_desc:0 "这些工人们深入挖掘星球地壳，并小心翼翼地收集这里丰富的自然生成挥发物和微粒。"
 ## job_volatile_miner_desc -> Digging deep into the crust of the planet, these miners carefully collect many of the naturally occuring volatiles and Motes found here in great abundance. ##
  job_volatile_miner_effect_desc:0 "job_volatile_miner $job_volatile_miner_plural$建立挥发物矿站,消耗£consumer_goods£ §Y$consumer_goods$§!并生产£energy£和£motes£。"
-## job_volatile_miner_effect_desc -> job_volatile_miner $job_volatile_miner_plural$ set up mines useing £consumer_goods£ §Y$consumer_goods$§!把它们变成£energy£ and £motes£. ##
+## job_volatile_miner_effect_desc -> job_volatile_miner $job_volatile_miner_plural$ set up mines useing £consumer_goods£ §Y$consumer_goods$§! and turning them into £energy£ and £motes£. ##
  mod_job_volatile_miner_add:0 "$job_volatile_miner$ 工作"
-## mod_job_volatile_miner_add -> $job_volatile_miner$ 工作 ##
+## mod_job_volatile_miner_add -> $job_volatile_miner$ Jobs ##
  mod_job_volatile_miner_per_pop:0 "§G+1§! $job_volatile_miner$职位每$VALUE$人口"
-## mod_job_volatile_miner_per_pop -> §G+1§! $job_volatile_miner$每$VALUE$人口 ##
+## mod_job_volatile_miner_per_pop -> §G+1§! $job_volatile_miner$ Job per $VALUE$ Pops ##
  mod_job_volatile_miner_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_volatile_miner_add£"
-## mod_job_volatile_miner_per_pop_short -> \n§G+1§! £mod_volatile_miner_add£每 $VALUE$ £pop£ ##
+## mod_job_volatile_miner_per_pop_short -> \n§G+1§! £mod_volatile_miner_add£ per $VALUE$ £pop£ ##
 
  ###Preference Tooltip
  pdplus20:0 "§G +20%§!"
@@ -2156,13 +2156,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  trait_pc_retinal_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_retinal_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  pc_retinal_habitability:0 "腐化适居性"
-## pc_retinal_habitability -> 腐化适居性 ##
+## pc_retinal_habitability -> Retinal Habitability ##
  mod_pc_retinal_habitability:0 "腐化适居性"
-## mod_pc_retinal_habitability -> 腐化适居性 ##
+## mod_pc_retinal_habitability -> Retinal Habitability ##
  START_SCREEN_PART_ONE_RETINAL:0 "自从第一个原始的[GetSpeciesName]在肥沃的[GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_RETINAL -> 自从第一个原始的[GetSpeciesName]在肥沃的[GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_RETINAL -> In the eons since the first primitive [GetSpeciesName] communities took shape in the rich meadows of [GetHomeWorldName], our civilization has spread and prospered. ##
  TRAIT_RETINAL_PREFERENCE_EFFECT:0 "腐化适居性:$pd80$\n$WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$"
-## TRAIT_RETINAL_PREFERENCE_EFFECT -> 腐化适居性:$pd80$\n$WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
+## TRAIT_RETINAL_PREFERENCE_EFFECT -> Retinal Habitability:$pd80$\n$WET_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd60$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
 
  ###Biolumen Deposit/Jobs
  d_biolumen_nature_preserve:0 "发光生物自然保护区"
@@ -2176,13 +2176,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_jungle_ranger_desc:0 "这些专注的研究人员研究和保护这个星球上独特的生命，为医学和实际应用。他们还教育和引导团队穿过丛林。"
 ## job_jungle_ranger_desc -> These dedicated researchers study and protect the unique life on this planet for both medical and practical applications. They also educate and guide groups through the jungle. ##
  job_jungle_ranger_effect_desc:0 "job_jungle_ranger $job_jungle_ranger_plural$ 学习和指导通过丛林使用£consumer_goods£ §Y$consumer_goods$§!把它们变成£society£, £tradevalue£和£amenities£。"
-## job_jungle_ranger_effect_desc -> job_jungle_ranger $job_jungle_ranger_plural$ study and guide through the jungles using £consumer_goods£ §Y$consumer_goods$§!把它们变成£society£, £tradevalue£ and £amenities£. ##
+## job_jungle_ranger_effect_desc -> job_jungle_ranger $job_jungle_ranger_plural$ study and guide through the jungles using £consumer_goods£ §Y$consumer_goods$§! and turning them into £society£, £tradevalue£ and £amenities£. ##
  mod_job_jungle_ranger_add:0 "$job_jungle_ranger$ 工作"
-## mod_job_jungle_ranger_add -> $job_jungle_ranger$ 工作 ##
+## mod_job_jungle_ranger_add -> $job_jungle_ranger$ Jobs ##
  mod_job_jungle_ranger_per_pop:0 "每$VALUE$人口§G+1§! $job_jungle_ranger$"
-## mod_job_jungle_ranger_per_pop -> §G+1§! $job_jungle_ranger$每$VALUE$人口 ##
+## mod_job_jungle_ranger_per_pop -> §G+1§! $job_jungle_ranger$ Job per $VALUE$ Pops ##
  mod_job_jungle_ranger_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_jungle_ranger_add£"
-## mod_job_jungle_ranger_per_pop_short -> \n§G+1§! £mod_job_jungle_ranger_add£每 $VALUE$ £pop£ ##
+## mod_job_jungle_ranger_per_pop_short -> \n§G+1§! £mod_job_jungle_ranger_add£ per $VALUE$ £pop£ ##
  biolumen:0 "生物发光星球"
 ## biolumen -> Bioluminescent Planet ##
  biolumen_desc:0 "在这里的大多数植物和动物中发现的生物发光对科学家来说都是有趣的，并且真的很壮观。"
@@ -2200,13 +2200,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_eludium_expert_desc:0 "这些专家既净化又研究稀有元素零重素，允许将其运出星球，极大地增加了我们对物理学的理解。净化副产物也会产生£motes£。"
 ## job_eludium_expert_desc -> These experts both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well. ##
  job_eludium_expert_effect_desc:0 "$job_eludium_expert$ $job_eludium_expert_plural$净化零重素使用£consumer_goods£ §Y$consumer_goods$§!把它们变成£physics£, £eludium£和£motes£。"
-## job_eludium_expert_effect_desc -> $job_eludium_expert$ $job_eludium_expert_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§!把它们变成£physics£, £eludium£ and £motes£. ##
+## job_eludium_expert_effect_desc -> $job_eludium_expert$ $job_eludium_expert_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£. ##
  mod_job_eludium_expert_add:0 "$job_eludium_expert$ 工作"
-## mod_job_eludium_expert_add -> $job_eludium_expert$ 工作 ##
+## mod_job_eludium_expert_add -> $job_eludium_expert$ Jobs ##
  mod_job_eludium_expert_per_pop:0 "每$VALUE$人口§G+1§! $job_eludium_expert$"
-## mod_job_eludium_expert_per_pop -> §G+1§! $job_eludium_expert$每$VALUE$人口 ##
+## mod_job_eludium_expert_per_pop -> §G+1§! $job_eludium_expert$ Job per $VALUE$ Pops ##
  mod_job_eludium_expert_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_eludium_expert_add£"
-## mod_job_eludium_expert_per_pop_short -> \n§G+1§! £mod_job_eludium_expert_add£每 $VALUE$ £pop£ ##
+## mod_job_eludium_expert_per_pop_short -> \n§G+1§! £mod_job_eludium_expert_add£ per $VALUE$ £pop£ ##
  floating:0 "漂浮的岛屿"
 ## floating -> Floating Islands ##
  floating_desc:0 "在这颗行星的矿石中发现的零重素对于物理研究和能源生产都是非常有价值的。 浮岛上的景色真是令人叹为观止 - 银河系中没有其他地方像这里。"
@@ -2238,13 +2238,13 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  trait_pc_prairie_preference_desc:1 "$trait_pc_arctic_preference_desc$"
 ## trait_pc_prairie_preference_desc -> $trait_pc_arctic_preference_desc$ ##
  pc_prairie_habitability:0 "草原适居性"
-## pc_prairie_habitability -> 草原适居性 ##
+## pc_prairie_habitability -> Prairie Habitability ##
  mod_pc_prairie_habitability:0 "草原适居性"
-## mod_pc_prairie_habitability -> 草原适居性 ##
+## mod_pc_prairie_habitability -> Prairie Habitability ##
  START_SCREEN_PART_ONE_PRAIRIE:0 "自从第一个原始的[GetSpeciesName]社区在[GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。"
-## START_SCREEN_PART_ONE_PRAIRIE -> 自从第一个原始的[GetSpeciesName]社区在[GetHomeWorldName]的大平原形成以来，我们的文明已经传播和繁荣。 ##
+## START_SCREEN_PART_ONE_PRAIRIE -> In the eons since the first primitive [GetSpeciesName] communities took shape in the great plains of [GetHomeWorldName], our civilization has spread and prospered. ##
  TRAIT_PRAIRIE_PREFERENCE_EFFECT:0 "草原适居性:$pd80$\n$DRY_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd20$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$"
-## TRAIT_PRAIRIE_PREFERENCE_EFFECT -> 草原适居性:$pd80$\n$DRY_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd20$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
+## TRAIT_PRAIRIE_PREFERENCE_EFFECT -> Prairie Habitability:$pd80$\n$DRY_PREFERENCE_EFFECT$\n$mod_pc_geothermal_habitability$:$pd20$\n$mod_pc_superhabitable_habitability$:$pd75$\n$mod_pc_tidallylocked_habitability$:$pd50$ ##
 
  ###Crystal Deposit/Jobs
  d_crystal_guild:0 "艾森雕刻师协会"
@@ -2258,19 +2258,19 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_crystal_carver_desc:0 "这些水晶雕刻家把天然的艾森水晶做成各种形状，既增强了水晶的效果，又很好看。"
 ## job_crystal_carver_desc -> These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at. ##
  job_crystal_carver_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$通过使用艾森水晶雕刻物品将£consumer_goods£ §Y$consumer_goods$§!把它们变成£tradevalue£, £acean£和£crystal£。"
-## job_crystal_carver_effect_desc -> $job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§!把它们变成£tradevalue£, £acean£ and £crystal£. ##
+## job_crystal_carver_effect_desc -> $job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£. ##
  mod_job_crystal_carver_add:0 "$job_crystal_carver$ 工作"
-## mod_job_crystal_carver_add -> $job_crystal_carver$ 工作 ##
+## mod_job_crystal_carver_add -> $job_crystal_carver$ Jobs ##
  mod_job_crystal_carver_per_pop:0 "§G+1§! $job_crystal_carver$每$VALUE$人口"
-## mod_job_crystal_carver_per_pop -> §G+1§! $job_crystal_carver$每$VALUE$人口 ##
+## mod_job_crystal_carver_per_pop -> §G+1§! $job_crystal_carver$ Job per $VALUE$ Pops ##
  mod_job_crystal_carver_per_pop_short:0 "\n§G+1§! £mod_job_crystal_carver_add£每 $VALUE$ £pop£"
-## mod_job_crystal_carver_per_pop_short -> \n§G+1§! £mod_job_crystal_carver_add£每 $VALUE$ £pop£ ##
+## mod_job_crystal_carver_per_pop_short -> \n§G+1§! £mod_job_crystal_carver_add£ per $VALUE$ £pop£ ##
  crystal:0 "晶体行星"
 ## crystal -> Crystal Planet ##
  crystal_desc:0 "整个星球上可以看到巨大的晶体沉积物。人们更幸福，生命总体上以惊人的速度增长 - 银河系中没有其他地方像这里。"
 ## crystal_desc -> Giant crystal deposits can be seen everywhere on the surface of this planet. These crystals seem to have a positive effect on life's ability to reproduce and are very beautiful. ##
  building_crystal_pillar:0 "艾森水晶柱"
-## building_crystal_pillar -> 艾森水晶Pillar ##
+## building_crystal_pillar -> Acean Crystal Pillar ##
  building_crystal_pillar_desc:0 "水晶柱使用高度先进的电磁场发生器来提高水晶的自然能量。周边动植物繁殖速度加快。"
 ## building_crystal_pillar_desc -> Crystal Pillars use highly advanced electromagnetic field generators to boost the natural power of the crystals. Surrounding flora and fauna propagate at an accelerated rate. ##
  tech_crystal_pillar:0 "水晶柱增强"
@@ -2282,7 +2282,7 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  edict_cyrstal_growth_desc:0 "通过在人口密集地区建立艾森晶体场助推器，我们可以提高人口增长率。"
 ## edict_cyrstal_growth_desc -> By setting up Acean crystal field boosters in populated areas we can improve population growth rates. ##
  sr_acean:0 "艾森水晶"
-## sr_acean -> 艾森水晶##
+## sr_acean -> Acean Crystal ##
  sr_acean_desc:0 "这种独特的晶体对周围自然生物的繁殖有着不可思议的积极作用。"
 ## sr_acean_desc -> This unique crystal has incredibly positive effects on reproduction of natural life around it. ##
  d_holy_temple:0 "圣殿"
@@ -2334,11 +2334,11 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_tiyankicleanup_effect_desc:0 "job_tiyankicleanup $job_tiyankicleanup_plural$收集资源，转化 £consumer_goods£ §Y$consumer_goods$§!为£food£ £energy£ £materials£以供使用"
 ## job_tiyankicleanup_effect_desc -> job_tiyankicleanup $job_tiyankicleanup_plural$ collect resources by turning £consumer_goods£ §Y$consumer_goods$§! into £food£ £energy£ £materials£ for use. ##
  mod_job_tiyankicleanup_add:0 "$job_tiyankicleanup$职位"
-## mod_job_tiyankicleanup_add -> $job_tiyankicleanup$ 工作 ##
+## mod_job_tiyankicleanup_add -> $job_tiyankicleanup$ Jobs ##
  mod_job_tiyankicleanup_per_pop:0 "§G+1§! $job_tiyankicleanup$岗位每个 $VALUE$人口"
-## mod_job_tiyankicleanup_per_pop -> §G+1§! $job_tiyankicleanup$每$VALUE$人口 ##
+## mod_job_tiyankicleanup_per_pop -> §G+1§! $job_tiyankicleanup$ Job per $VALUE$ Pops ##
  mod_job_tiyankicleanup_per_pop_short:0 "\n§G+1§! £mod_job_tiyankicleanup_add£ 每 $VALUE$ £pop£"
-## mod_job_tiyankicleanup_per_pop_short -> \n§G+1§! £mod_job_tiyankicleanup_add£每 $VALUE$ £pop£ ##
+## mod_job_tiyankicleanup_per_pop_short -> \n§G+1§! £mod_job_tiyankicleanup_add£ per $VALUE$ £pop£ ##
  job_tiyankirecycler:0 "缇杨凯回收者"
 ## job_tiyankirecycler -> Tiyanki Recyclers ##
  job_tiyankirecycler_plural:0 "缇杨凯回收者"
@@ -2348,11 +2348,11 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_tiyankirecycler_effect_desc:0 "job_tiyankirecycler $job_tiyankirecycler_plural$收集资源并且研究缇杨凯，把£consumer_goods£ §Y$consumer_goods$§!转化为£materials£ £society£ £physics£以供研究和消费"
 ## job_tiyankirecycler_effect_desc -> job_tiyankirecycler $job_tiyankirecycler_plural$ collect resources and study the Tiyanki by turning £consumer_goods£ §Y$consumer_goods$§! into £materials£ £society£ £physics£ for use and research. ##
  mod_job_tiyankirecycler_add:0 "$job_tiyankirecycler$职位"
-## mod_job_tiyankirecycler_add -> $job_tiyankirecycler$ 工作 ##
+## mod_job_tiyankirecycler_add -> $job_tiyankirecycler$ Jobs ##
  mod_job_tiyankirecycler_per_pop:0 "§G+1§! $job_tiyankirecycler$职位，每个$VALUE$人口"
-## mod_job_tiyankirecycler_per_pop -> §G+1§! $job_tiyankirecycler$每$VALUE$人口 ##
+## mod_job_tiyankirecycler_per_pop -> §G+1§! $job_tiyankirecycler$ Job per $VALUE$ Pops ##
  mod_job_tiyankirecycler_per_pop_short:0 "\n§G+1§! £mod_job_tiyankirecycler_add£ 每 $VALUE$ £pop£"
-## mod_job_tiyankirecycler_per_pop_short -> \n§G+1§! £mod_job_tiyankirecycler_add£每 $VALUE$ £pop£ ##
+## mod_job_tiyankirecycler_per_pop_short -> \n§G+1§! £mod_job_tiyankirecycler_add£ per $VALUE$ £pop£ ##
  graveyard:0 "缇杨凯墓地"
 ## graveyard -> Tiyanki Graveyard Planet ##
  graveyard_desc:0 "这是缇杨凯的坟墓，奇异的材料可以从腐烂的生物遍布全球的巨大矿藏中找到。"
@@ -2374,11 +2374,11 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_tiyanki_roughneck_effect_desc:0 "job_tiyanki_roughneck $job_tiyanki_roughneck_plural$通过收集资源将£consumer_goods£ §Y$consumer_goods$§!转换成£energy£ £exoticgas£ £tradevalue£供使用。"
 ## job_tiyanki_roughneck_effect_desc -> job_tiyanki_roughneck $job_tiyanki_roughneck_plural$ collect resources by turning £consumer_goods£ §Y$consumer_goods$§! into £energy£ £exoticgas£ £tradevalue£ for use. ##
  mod_job_tiyanki_roughneck_add:0 "$job_tiyanki_roughneck$工作"
-## mod_job_tiyanki_roughneck_add -> $job_tiyanki_roughneck$ 工作 ##
+## mod_job_tiyanki_roughneck_add -> $job_tiyanki_roughneck$ Jobs ##
  mod_job_tiyanki_roughneck_per_pop:0 "每$VALUE$人口§G+1§! $job_tiyanki_roughneck$"
-## mod_job_tiyanki_roughneck_per_pop -> §G+1§! $job_tiyanki_roughneck$每$VALUE$人口 ##
+## mod_job_tiyanki_roughneck_per_pop -> §G+1§! $job_tiyanki_roughneck$ Job per $VALUE$ Pops ##
  mod_job_tiyanki_roughneck_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_tiyanki_roughneck_add£"
-## mod_job_tiyanki_roughneck_per_pop_short -> \n§G+1§! £mod_job_tiyanki_roughneck_add£每 $VALUE$ £pop£ ##
+## mod_job_tiyanki_roughneck_per_pop_short -> \n§G+1§! £mod_job_tiyanki_roughneck_add£ per $VALUE$ £pop£ ##
  #Techno-Organic
  decision_subsurface_assembly:0 "建造地下装配中心"
 ## decision_subsurface_assembly -> Build Subsurface Assembly Centre ##
@@ -2397,11 +2397,11 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
  job_synth_assembler_effect_desc:0 "job_synth_assembler $job_synth_assembler_plural$通过研究和制造机器人将£minerals£和§Y$consumer_goods$§! 转换成£engineering£和£tradevalue£以供使用。"
 ## job_synth_assembler_effect_desc -> job_synth_assembler $job_synth_assembler_plural$ study and build robots by turning £minerals£ and §Y$consumer_goods$§! into £engineering£ and £tradevalue£ for use. ##
  mod_job_synth_assembler_add:0 "$job_synth_assembler$ 工作"
-## mod_job_synth_assembler_add -> $job_synth_assembler$ 工作 ##
+## mod_job_synth_assembler_add -> $job_synth_assembler$ Jobs ##
  mod_job_synth_assembler_per_pop:0 "每$VALUE$人口§G+1§! $job_synth_assembler$"
-## mod_job_synth_assembler_per_pop -> §G+1§! $job_synth_assembler$每$VALUE$人口 ##
+## mod_job_synth_assembler_per_pop -> §G+1§! $job_synth_assembler$ Job per $VALUE$ Pops ##
  mod_job_synth_assembler_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_synth_assembler_add£"
-## mod_job_synth_assembler_per_pop_short -> \n§G+1§! £mod_job_synth_assembler_add£每 $VALUE$ £pop£ ##
+## mod_job_synth_assembler_per_pop_short -> \n§G+1§! £mod_job_synth_assembler_add£ per $VALUE$ £pop£ ##
 
  #Nearby Unique
  pd_floating_nearby_init_NAME:0 "浮岛邻居"
@@ -2420,9 +2420,9 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## pd_technoorganic_nearby_init_NAME -> Techno-Organic Neighbour ##
  pd_technoorganic_nearby_init_DESC:0 "你的一个邻居星系将拥有独特的电子有机星球，它不会在游戏中再次出现。"
 ## pd_technoorganic_nearby_init_DESC -> One of your neighbour systems will have the unique Techno-Organic World, it will not spawn again in the game. ##
- pd_archive_nearby_init_NAME:0 "档案馆邻居"
+ pd_archive_nearby_init_NAME:0 "计算机邻居"
 ## pd_archive_nearby_init_NAME -> Archive Neighbour ##
- pd_archive_nearby_init_DESC:0 "你的一个邻居星系将有独特的档案馆星球，它不会在游戏中再次生成。"
+ pd_archive_nearby_init_DESC:0 "你的一个邻居星系将有独特的计算机星球，它不会在游戏中再次生成。"
 ## pd_archive_nearby_init_DESC -> One of your neighbour systems will have the unique Archive Habitat, it will not spawn again in the game. ##
 
  #Megacorps Unique Starts
@@ -2480,3 +2480,57 @@ fallingtiyanki:0 "刚刚坠落的缇杨凯"
 ## colony.107.desc.nuked_pref -> Nuke Pref ##
  colony.107.a.tooltip:0 "殖民地事件 107.a"
 ## colony.107.a.tooltip -> Colony Event 107.a ##
+
+ #Machine Special World Starts
+ civic_machine_crystal_world:0 "水晶家园"
+## civic_machine_crystal_world -> Crystal Home ##
+ civic_machine_crystal_world_desc:0 "这个星球的主要物种已经在这个独特的水晶星球上进化。"
+## civic_machine_crystal_world_desc -> The dominant species of this planet has evolved amoung the crystal pillars of this unique world. ##
+ civic_machine_floating_world:0 "浮岛家园"
+## civic_machine_floating_world -> Floating Home ##
+ civic_machine_floating_world_desc:0 "这个星球的主要物种是在这个独特的漂浮岛屿上进化而来的。"
+## civic_machine_floating_world_desc -> The dominant species of this planet has evolved amoung the floating islands of this unique world. ##
+ civic_machine_graveyard_world:0 "墓地家园"
+## civic_machine_graveyard_world -> Graveyard Home ##
+ civic_machine_graveyard_world_desc:0 "这个星球的主要物种已经在这个独特的提杨凯墓地中进化。"
+## civic_machine_graveyard_world_desc -> The dominant species of this planet has evolved amoung the Tiyanki graveyards of this unique world. ##
+ civic_machine_technoorganic_world:0 "电子生物家园"
+## civic_machine_technoorganic_world -> Techno-Organic Home ##
+ civic_machine_technoorganic_world_desc:0 "这个星球的主要物种在这个独特的人造森林中进化而来。"
+## civic_machine_technoorganic_world_desc -> The dominant species of this planet has evolved amoung the synthetic forest of this unique world. ##
+
+ #Crystal/Floating Hive/Robot Jobs
+ job_crystal_hive:0 "水晶雕刻工蜂"
+## job_crystal_hive -> Crystal Carver ##
+ job_crystal_hive_plural:0 "水晶雕刻工蜂"
+## job_crystal_hive_plural -> Crystal Carvers ##
+ job_crystal_hive_desc:0 "这些水晶雕刻工蜂，可以把天然的艾森水晶做成各种形状，增强了水晶的效果。"
+## job_crystal_hive_desc -> These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at. ##
+ job_crystal_hive_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$通过使用艾森水晶雕刻物品将£consumer_goods£ §Y$consumer_goods$§!把它们变成£tradevalue£, £acean£和£crystal£。"
+## job_crystal_hive_effect_desc -> $job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£. ##
+ job_crystal_robot:0 "水晶雕刻单元"
+## job_crystal_robot -> Crystal Carver ##
+ job_crystal_robot_plural:0 "水晶雕刻单元"
+## job_crystal_robot_plural -> Crystal Carvers ##
+ job_crystal_robot_desc:0 "这些水晶雕刻单元，用于把天然的艾森水晶做成各种形状，增强了水晶的效果。"
+## job_crystal_robot_desc -> These crystal carvers take the natural Acean crystal and turn it into shapes that both enhance the effect of the crystal and is very pleasing to look at. ##
+ job_crystal_robot_effect_desc:0 "$job_crystal_carver$ $job_crystal_carver_plural$通过使用艾森水晶雕刻物品将£consumer_goods£ §Y$consumer_goods$§!把它们变成£tradevalue£, £acean£和£crystal£。"
+## job_crystal_robot_effect_desc -> $job_crystal_carver$ $job_crystal_carver_plural$ carve Acean by using £consumer_goods£ §Y$consumer_goods$§! and turning them into £tradevalue£, £acean£ and £crystal£. ##
+ job_eludium_hive:0 "零重素工蜂"
+## job_eludium_hive -> Eludium Expert ##
+ job_eludium_hive_plural:0 "零重素工蜂"
+## job_eludium_hive_plural -> Eludium Experts ##
+ job_eludium_hive_desc:0 "这些工蜂个体既净化又研究稀有元素零重素，允许将其运出星球，极大地增加了我们对物理学的理解。净化副产物也会产生 £motes£。"
+## job_eludium_hive_desc -> These hive workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well. ##
+ job_eludium_hive_effect_desc:0 "$job_eludium_hive$ $job_eludium_hive_plural$净化零重素使用£consumer_goods£ §Y$consumer_goods$§!把它们变成£physics£, £eludium£和£motes£."
+## job_eludium_hive_effect_desc -> $job_eludium_hive$ $job_eludium_hive_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£. ##
+ job_eludium_robot:0 "零重素处理单元"
+## job_eludium_robot -> Eludium Expert ##
+ job_eludium_robot_plural:0 "零重素处理单元"
+## job_eludium_robot_plural -> Eludium Experts ##
+ job_eludium_robot_desc:0 "这些处理单元既净化又研究稀有元素零重素，允许将其运出星球，极大地增加了我们对物理学的理解。净化副产物也会产生 £motes£。"
+## job_eludium_robot_desc -> These robot workers both purify and study the rare element Eludium, allowing to be shipped off-world and greatly adding to our understanding of physics. The purification by-product produces £motes£ as well. ##
+ job_eludium_robot_effect_desc:0 "$job_eludium_robot$ $job_eludium_robot_plural$净化零重素使用£consumer_goods£ §Y$consumer_goods$§!把它们变成£physics£, £eludium£和£motes£。"
+## job_eludium_robot_effect_desc -> $job_eludium_robot$ $job_eludium_robot_plural$ purify Eludium using £consumer_goods£ §Y$consumer_goods$§! and turning them into £physics£, £eludium£ and £motes£. ##
+
+ 

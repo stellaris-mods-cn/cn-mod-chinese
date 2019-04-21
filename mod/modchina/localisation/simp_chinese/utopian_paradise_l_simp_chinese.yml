@@ -3,7 +3,7 @@
  col_ae_capital_utopian:0 "乌托邦资本"
  col_ae_capital_utopian_desc:0 "一个巅峰帝国的乌托邦式首都。"
  col_ae_colony_utopian:0 "乌托邦世界"
- col_ae_colony_utopian:0 "一个巅峰帝国的乌托邦世界。"
+ col_ae_colony_utopian_desc:0 "一个巅峰帝国的乌托邦世界。"
 
  district_utopian_city:0 "乌托邦城市地区"
  district_utopian_city_desc:0 "乌托邦城市的各个街区都被建设得完美无缺。它们是自给自足的，不需要维护。"

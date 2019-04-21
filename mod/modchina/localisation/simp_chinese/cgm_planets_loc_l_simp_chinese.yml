@@ -181,7 +181,7 @@ building_zinorine_computer_desc:0 "这个建筑是使用齐诺林专门制造的
  cgm_blockers:0 "§GCGM§! + 原版"
  cgm_colonizable_asteroidal_category:0 "发现小行星殖民地候选"
  cgm_colonizable_asteroidal_category_ai:0 "$cgm_colonizable_asteroidal_category$"
- cgm_crystal_asteroidal_planet_found.desc:0 "对[from.GetName]的测量表明，虽然一开始看起来像是一颗巨大的冰小行星但实际上是完全不同的东西。这颗小行星由大量源自其他地方的奇异晶体组成，其量子特征表明它要么起源于某个次空间维度，要么就是经过了某个次空间维度。值得注意的是，小行星的内部空间比观测值要大得多。科学船[root.GetName]还建议说，这颗小行星有很大的开发潜力和殖民潜力。"
+ cgm_crystal_asteroidal_planet_found.desc:0 "对[from.GetName]的测量表明，虽然一开始看起来像是一颗巨大的冰小行星但实际上是完全不同的东西。这颗小行星由大量源自其他地方的奇异晶体组成，其量子特征表明它要么起源于某个次空间维度，要么就是经过了某个次空间维度。值得注意的是，小行星的内部空间比观测值要大得多。科研船[root.GetName]还建议说，这颗小行星有很大的开发潜力和殖民潜力。"
  cgm_deep_core_mining_catastrophic_outcome.desc:0 "在[root.GetName]建立一个更高层次的项目$deep_core_mining$会导致灾难爆发。\n\n$catastrophic_outcome_summary$"
  cgm_deep_core_mining_catastrophic_outcome.title:0 "灾难！"
  cgm_deep_core_mining_stage_0:0 "$deep_core_mining$ (开始)"

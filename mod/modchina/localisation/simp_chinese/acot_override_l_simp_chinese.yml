@@ -272,3 +272,48 @@ tech_energy_lance_edi_desc: "这个维度能量武器扭曲了物理定律，去
 
 acot_modifier_being_purged: "借来的时间"
 acot_modifier_being_purged_desc: "这个星球正在被标记为终结，它的人口生活在一个借来的时间。除非星球被迅速回收，否则它们将全部变成汤。"
+
+
+
+
+building_ae_affluence_center: "达·芬奇工匠飞地"
+building_ae_affluence_center_desc: "让更多的人知道，我们的产品是由最优雅的设计，由我们最好的艺术家。"
+
+building_ae_class_4_singularity: "第六类奇点"
+building_ae_class_4_singularity_desc: "记住，关键是永远不要达到30级奇点。在那之前，上涨两个点可能不是什么大事。"
+
+building_ae_dimensional_fabricator: "维度阈值门"
+building_ae_dimensional_fabricator_desc: "我们有技术从我们帝国的其他维度汲取材料这些维度已经从其他帝国的其他维度汲取了材料这些帝国已经从……"
+
+building_ae_sky_dome: "模因收获机"
+building_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让某人接触足够多的模因，他们就会学会欣赏艺术。所有的模因，所有的传递。要么模因，要么被模因，杰克。"
+
+building_ae_empyrean_shrine: "宏伟大教堂"
+building_ae_empyrean_shrine_desc: "一个真正鼓舞人心的建筑。每座大教堂对我们神圣的帝国来说都是神圣的，它们的歌声和信仰的合唱可以响彻整个星球。"
+
+building_ae_master_archive: "伟大档案馆"
+building_ae_master_archive_desc: "横跨银河系的古老历史，绵延千年。档案保管员日以继夜地工作，以发掘被遗忘者的秘密。"
+
+building_ae_nano_forge: "黑暗锻造厂"
+building_ae_nano_forge_desc: "在这个熔炉的火坑里，令人毛骨悚然的人把不存在变成了存在。"
+
+building_ae_nourishment_center: "农业大综合体"
+building_ae_nourishment_center_desc: "来自银河系的厨师和厨师们聚集在这里，探索新的食材和口味。美食!"
+
+building_ae_ancient_cryo_chamber: "先进低温箱"
+building_ae_ancient_cryo_chamber_desc: "是的，制造一个废弃的低温室毕竟不是一个明智的决定。"
+
+tech_ae_affluence_center: "工匠需要完美"
+tech_ae_affluence_center_desc: "创造消费品不仅仅是为了满足人们的需求，而是以一种令人难以置信的方式来满足他们。我们的艺术作品和产品将是首屈一指的。"
+
+tech_ae_ancient_cryo_chamber: "建造适当的低温室"
+tech_ae_ancient_cryo_chamber_desc: "建造一个破旧的冷冻室来关押罪犯并不是很好的投资，这并不是什么大发现，这让我们的帝国看起来非常愚蠢。让我们再试一次，这次把它做好。"
+
+tech_ae_class_4_singularity: "第六类奇点，让我们做吧!"
+tech_ae_class_4_singularity_desc: "我们在先驱者档案中看到了关于“永远不要达到30类奇点”的多次引用。这意味着将系统升级4次是安全的。等得太久了。一个?太少。\n\n现在我们用两个，它是第六类奇点。"
+
+tech_ae_dimensional_fabricator: "维度起始"
+tech_ae_dimensional_fabricator_desc: "在不同的维度中，也有其他人经常使用相同的行为从另一个人那里偷东西，而不被注意到。我们也要把属于我们的夺去。我们将拯救银河系，从我们讨厌的人身上拿走东西，然后从我们爱的人身上拿走东西。"
+
+tech_ae_sky_dome: "模因表现"
+tech_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让某人接触足够多的模因，他们就会学会欣赏艺术。所有的模因，所有的传递。要么模因，要么被模因，杰克。"

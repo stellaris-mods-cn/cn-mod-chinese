@@ -65,4 +65,20 @@
  
  quark_star:0 "似星体"
  quark_star_desc:0 "这颗中子星核心的温度和压力的条件足够高，可以将中子释放到它们的基本成分中:夸克上下和胶子，形成所谓的夸克胶子等离子体。"
+
+ # Binaries
+ 
+ sc_hypo_binary_1:0 "§H双星星系 (黑洞, 奇异星)§!"
+ sc_hypo_binary_2:0 "§H双星星系 (奇异星, 脉冲星)§!"
+ sc_hypo_binary_3:0 "§H双星星系 (奇异星, 白矮星)§!"
+ sc_hypo_binary_4:0 "§H双星星系 (黑洞, 蓝矮星)§!"
+ 
+ # Edicts
+ 
+ edict_strange_matter_alloys_research:0 "奇异物质合金研究"
+ edict_strange_matter_alloys_research_desc:0 "通过对奇异物质的提取和研究，我们可以升级我们舰船的装甲。"
+ edict_antimatter_explosives_research:0 "反物质炸弹研究"
+ edict_antimatter_explosives_research_desc:0 "我们可以利用反物质的易挥发性来制造更好的炸药。"
+ edict_quantum_physics_research:0 "量子物理学研究"
+ edict_quantum_physics_research_desc:0 "如果我们积累了足够的夸克胶子等离子体，可以进行进一步的实验，这将扩大我们对量子场论的理解。"
  

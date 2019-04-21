@@ -1,10 +1,9 @@
-﻿
-l_simp_chinese:
+﻿l_simp_chinese:
 
  ####################################
  # How these files work:
  # Only edit stuff between " "
- # Change the number from :0 to :0 after you edit so I know which parts have been updated
+ # Change the number from :0 to :1 after you edit so I know which parts have been updated
  # \n = next line (forces next line)
  # &G or any other next letter is colour code, you can ignore this. Feel free to keep a space behind it. Example: "&G This text is green &!" &G = green
  # &! ends the previous colour code. This is required so do not delete otherwise everything turns to the previous colour.
@@ -20,12 +19,12 @@ l_simp_chinese:
  color_red:0 "£military_power_boss  §R [This.GetName] §!"
  
  # Change name to orange with something icon
- color_planet_wonder:0 "£gpm_planet_wonder  §H[This.GetName]§!"
+ # color_planet_wonder:0 "£gpm_planet_wonder  §H[This.GetName]§!"
  color_planet_wonder:0 "§H[This.GetName]§!"
  color_planet_wonder_col:0 "§H[This.GetName]§!"
  
  # Change name to teal with something icon
- color_precursor:0 "£gpm_precursor  §B[This.GetName]§!"
+ # color_precursor:0 "£gpm_precursor  §B[This.GetName]§!"
  color_precursor:0 "§B[This.GetName]§!"
  color_precursor_col:0 "§B[This.GetName]§!"
  
@@ -56,8 +55,8 @@ l_simp_chinese:
  # Naming stuff
  ####################################
 
- gpm_precursor_shipyards_star:0 "塞伯勒克斯造船厂"
- gpm_precursor_shipyards_star_rs:0 "塞伯勒克斯造船厂"
+ gpm_precursor_shipyards_star:0 "$cybrex_precursor_civ$造船厂"
+ gpm_precursor_shipyards_star_rs:0 "$cybrex_precursor_civ$造船厂"
  gpm_precursor_shipyards_30:0 "先驱者造船厂"
  gpm_precursor_shipyards_25:0 "$gpm_precursor_shipyards_30$"
  gpm_precursor_shipyards_24:0 "$gpm_precursor_shipyards_30$"
@@ -99,26 +98,26 @@ l_simp_chinese:
  gpm_precursor_shipyards_RS_8:0 "$gpm_precursor_shipyards_30$"
  gpm_precursor_shipyards_RS_7:0 "$gpm_precursor_shipyards_30$"
 
- gpm_precursor_shipyards_star_cybrex_desc:0 "这个巨大造船厂曾经被塞伯勒克斯使用过。由于这颗恒星的引力，延伸的结构舱弯了下来，吸收了用于造船的原始能量。"
+ gpm_precursor_shipyards_star_cybrex_desc:0 "这个巨大造船厂曾经被$cybrex_precursor_civ$使用过。由于这颗恒星的引力，延伸的结构舱弯了下来，吸收能源用于舰船生产。"
  gpm_precursor_shipyards_star_desc:0 "这个巨大造船厂曾经被一个古老的先驱者使用过。由于星球的重力作用，延伸的建筑海湾向下弯曲。"
 
  gpm_Robot_Lover:0 "机器情人"
  gpm_Robot_Lover_Plural:0 "机器情人"
-
- gpm_arcane_technology:0 "奥术技术"
- gpm_arcane_technology_desc:0 "奇怪的先进技术。我们的理解是如此的有限，这就像魔术一样。"
-
+ 
+ gpm_arcane_technology:0 "远古先驱科技"
+ gpm_arcane_technology_desc:0 "奇怪的先进技术。我们的理解是如此的有限，就像魔法一样。"
+ 
  gpm_binary_asteroids:0 "[gpm_double_asteroid.GetName]的双子星"
  gpm_binary_pulsars:0 "[gpm_double_pulsar.GetName]的姊妹星"
-
+ 
  planet_resource_energy_add:0 "行星能量"
  planet_resource_physics_research_add:0 "星球物理学研究"
  planet_resource_society_research_add:0 "星球社会学研究"
  planet_resource_engineering_research_add:0 "星球工程学研究"
-
+ 
  sm_gpm_precursor_shipyards_uplink:0 "先驱者造船上行链路"
  sm_gpm_precursor_shipyards_uplink_desc:0 "这个特别设计的上行链路连接着这个星系中古老的先驱造船厂。我们的行星基地将能够将新的船舶设计委托给先驱者造船厂建造。\n"
-
+ 
  gpm_building_stronghold:0 "废弃的先驱者地堡指挥中心"
  gpm_building_stronghold_desc:0 "这个指挥中心将有效指挥你的防御部队部署到不同的堡垒内。在有限的时间内便能形成更多的掩体。"
  
@@ -142,63 +141,60 @@ l_simp_chinese:
  # Game Start Manu
  ####################################
  
- gpm_start_menu.1.name:0 "行星修正设置"
- gpm_start_menu.1.desc:0 "选择想要在随机星球上产生的修正数量。 \n这个修正也会影响到在环世界、轨道栖息地上形成的地形。\n\n修正效果将在您取消暂停后大约1-3天后生效。\n§H这可能会需要等待几秒钟。§! "
-
- # \n\n§HTip:§! §LHover over the technology resource income on the top bar to see how many§! £gpm_arcane_technology  §BPrecursor Archeotech§! §Lyou have gathered.\nThese are used to pay for powerful edicts.§!
-
- gpm_start_menu.1.low:0 "少量修正：每个星球0到2个"
- gpm_start_menu.1.lowTT:224 "将行星调整值设置为低。\n§R这将开始游戏!§!"
- gpm_start_menu.1.normal:0 "一般修正：每个星球0到3个 (§G推荐§!)"
- gpm_start_menu.1.normalTT:224 "将行星调整值设置为中。\n§R这将开始游戏!§!"
- gpm_start_menu.1.high:0 "大量修正：每个星球1到3个"
- gpm_start_menu.1.highTT:0 "将行星调整值设置为高。\n§R这将开始游戏!§!"
+ gpm_start_menu.1.name:0 "$PLANET_MODIFIER$数量设置"
+ gpm_start_menu.1.desc:0 "选择想要产生的$PLANET_MODIFIER$数量。 \n该操作也会影响到在$pc_ringworld_habitable$、$pc_habitat$上形成的地形。\n\n效果将在取消暂停后大约1-3天后生效。\n§H这可能会需要等待几秒钟。§! "
+ gpm_start_menu.1.low:0 "少量：每个星球0到2个"
+ gpm_start_menu.1.lowTT:224 "将$PLANET_MODIFIER$数量设置为低。\n§R这将开始游戏!§!"
+ gpm_start_menu.1.normal:0 "一般：每个星球0到3个 (§G推荐§!)"
+ gpm_start_menu.1.normalTT:224 "将$PLANET_MODIFIER$数量设置为中。\n§R这将开始游戏!§!"
+ gpm_start_menu.1.high:0 "大量：每个星球1到3个"
+ gpm_start_menu.1.highTT:0 "将$PLANET_MODIFIER$数量设置为高。\n§R这将开始游戏!§!"
  gpm_start_menu.1.options:0 "£options_icon  §Y选项§! £options_icon"
  gpm_start_menu.1.optionsTT:0 "为Guilli's Planet Modifiers mod设置各种选项。你可以在这里禁用或启用mod的各种功能。\n\n§Y在选择修改器的数量之前，确保设置了你想要的任何选项!§!"
 
- gpm_start_menu.2.disable_precursor:0 "£options_icon  §R禁用先驱者修正§!"
- gpm_start_menu.2.enable_precursor:0 "£options_icon  §G启用先驱者修正§!"
- gpm_start_menu.2.disable_fallen_empire:0 "£options_icon  §R禁用失落帝国修正§!"
- gpm_start_menu.2.enable_fallen_empire:0 "£options_icon  §G启用失落帝国修正§!"
- gpm_start_menu.2.disable_habitats:0 "£options_icon  §R禁用栖息地修正§!"
- gpm_start_menu.2.enable_habitats:0 "£options_icon  §G启用栖息地修正§!"
- gpm_start_menu.2.disable_ringworlds:0 "£options_icon  §R禁用环世界修正§!"
- gpm_start_menu.2.enable_ringworlds:0 "£options_icon  §G启用环世界修正§!"
- gpm_start_menu.2.disable_wonders:0 "£options_icon  §R禁用行星奇迹§!"
- gpm_start_menu.2.enable_wonders:0 "£options_icon  §G启用行星奇迹§!"
+ gpm_start_menu.2.disable_precursor:0 "£options_icon  §R禁用先驱者的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.enable_precursor:0 "£options_icon  §G启用先驱者的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.disable_fallen_empire:0 "£options_icon  §R禁用$COUNTRY_FALLEN_EMPIRE$的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.enable_fallen_empire:0 "£options_icon  §G启用$COUNTRY_FALLEN_EMPIRE$的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.disable_habitats:0 "£options_icon  §R禁用$pc_habitat$的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.enable_habitats:0 "£options_icon  §G启用$pc_habitat$的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.disable_ringworlds:0 "£options_icon  §R禁用$pc_ringworld_habitable$的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.enable_ringworlds:0 "£options_icon  §G启用$pc_ringworld_habitable$的$PLANET_MODIFIER$§!"
+ gpm_start_menu.2.disable_wonders:0 "£options_icon  §R禁用星球奇迹§!"
+ gpm_start_menu.2.enable_wonders:0 "£options_icon  §G启用星球奇迹§!"
  gpm_start_menu.2.disable_planetary_rings:0 "£options_icon  §R禁用行星环§!"
  gpm_start_menu.2.enable_planetary_rings:0 "£options_icon  §G启用行星环§!"
- gpm_start_menu.2.enable_arcane_technology:0 "£options_icon  §G允许奥术技术§!"
- gpm_start_menu.2.disable_arcane_technology:0 "£options_icon  §R禁用奥术技术§!"
+ gpm_start_menu.2.enable_arcane_technology:0 "£options_icon  §G启用远古先驱科技§!"
+ gpm_start_menu.2.disable_arcane_technology:0 "£options_icon  §R禁用远古先驱科技§!"
 
- gpm_start_menu.2.disable_precursorTT:0 "§H单击此可禁用先驱者修正§!\n这将阻止先驱者修正在星系中生成。"
- gpm_start_menu.2.enable_precursorTT:0 "§H单击此可启用先驱者修正§!"
- gpm_start_menu.2.disable_fallen_empireTT:0 "§H单击此可禁用失落帝国修正§!\n这将会阻止失落帝国修正在星系中生成。"
- gpm_start_menu.2.enable_fallen_empireTT:0 "§H单击此可启用失落帝国修正§!"
- gpm_start_menu.2.disable_habitatsTT:0 "§H单击此可禁用栖息地修正§!\n这将阻止栖息地修正生成。"
- gpm_start_menu.2.enable_habitatsTT:0 "§H单击此可启用栖息地修正§!"
- gpm_start_menu.2.disable_ringworldsTT:0 "§H单击此可禁用环世界修正§!\n这将阻止环世界修正在环世界上生成。"
- gpm_start_menu.2.enable_ringworldsTT:0 "§H单击此可启用环世界修正§!"
- gpm_start_menu.2.disable_wondersTT:0 "§H单击此可禁用行星奇迹修正§!\n这将阻止行星奇迹修正和地块障碍在星系中生成。"
- gpm_start_menu.2.enable_wondersTT:0 "§H单击此可启用行星奇迹修正§!"
+ gpm_start_menu.2.disable_precursorTT:0 "§H单击此可禁用先驱者$MODIFIERS$§!\n这将阻止先驱者$MODIFIERS$在星系中生成。"
+ gpm_start_menu.2.enable_precursorTT:0 "§H单击此可启用先驱者$MODIFIERS$§!"
+ gpm_start_menu.2.disable_fallen_empireTT:0 "§H单击此可禁用$COUNTRY_FALLEN_EMPIRE$$MODIFIERS$§!\n这将会阻止$COUNTRY_FALLEN_EMPIRE$$MODIFIERS$在星系中生成。"
+ gpm_start_menu.2.enable_fallen_empireTT:0 "§H单击此可启用$COUNTRY_FALLEN_EMPIRE$$MODIFIERS$§!"
+ gpm_start_menu.2.disable_habitatsTT:0 "§H单击此可禁用$pc_habitat$$MODIFIERS$§!\n这将阻止$pc_habitat$$MODIFIERS$生成。"
+ gpm_start_menu.2.enable_habitatsTT:0 "§H单击此可启用$pc_habitat$$MODIFIERS$§!"
+ gpm_start_menu.2.disable_ringworldsTT:0 "§H单击此可禁用$pc_ringworld_habitable$$MODIFIERS$§!\n这将阻止$pc_ringworld_habitable$$MODIFIERS$在$pc_ringworld_habitable$上生成。"
+ gpm_start_menu.2.enable_ringworldsTT:0 "§H单击此可启用$pc_ringworld_habitable$$MODIFIERS$§!"
+ gpm_start_menu.2.disable_wondersTT:0 "§H单击此可禁用行星奇迹$MODIFIERS$§!\n这将阻止行星奇迹$MODIFIERS$和地块障碍在星系中生成。"
+ gpm_start_menu.2.enable_wondersTT:0 "§H单击此可启用行星奇迹$MODIFIERS$§!"
  gpm_start_menu.2.disable_planetary_ringsTT:0 "§H单击此可禁用行星环§!\n这将阻止行星环及其丰富的资源在星系中生成。"
  gpm_start_menu.2.enable_planetary_ringsTT:0 "§H单击此可启用行星环§!"
- gpm_start_menu.2.disable_arcane_technologyTT:0 "§H单击此处可禁用 §! £arcane_technology  §M奥术技术§!\n这不会从UI中移除资源，但是会阻止任何使用 £arcane_technology §M奥术技术§!资源、建筑和法令的出现。"
- gpm_start_menu.2.enable_arcane_technologyTT:0 "§H单击此处启用§! £arcane_technology §M奥术技术§!"
+ gpm_start_menu.2.disable_arcane_technologyTT:0 "§H单击此处可禁用 §! £arcane_technology  §M远古先驱科技§!\n这不会从UI中移除资源，但是会阻止任何使用 £arcane_technology §M远古先驱科技§!资源、建筑和法令的出现。"
+ gpm_start_menu.2.enable_arcane_technologyTT:0 "§H单击此处启用§! £arcane_technology §M远古先驱科技§!"
 
   gpm_start_menu.2.back:0 "§Y回到主菜单§!"
  gpm_start_menu.2.backTT:0 "返回主菜单开始。"
  
-
+ 
  ####################################
  # cheats 
  ####################################
- gpm_debug_cheat_modifier:0 "星球修正调试-KAPPA"
+ gpm_debug_cheat_modifier:0 "星球$MODIFIERS$调试-KAPPA"
  gpm_debug_cheat_modifier_desc:0 "你作弊了吧，你个小坏蛋！"
-
+ 
  opinion_respected_species:0 "尊崇之子"
- opinion_respected_species_desc:0 "由于某种原因，这个失落帝国青睐于你。他们似乎对你的出身很感兴趣。"
-
+ opinion_respected_species_desc:0 "由于某种原因，这个$COUNTRY_FALLEN_EMPIRE$青睐于你。他们似乎对你的出身很感兴趣。"
+ 
  ####################################
  # RES
  ####################################
@@ -229,16 +225,16 @@ l_simp_chinese:
  GPM_COLONY_SHIP_4_DESC:0 "你们的科学和工程团队将试图用附近被摧毁的星际飞船的部分残骸打捞尽可能多的飞船。"
 
  gpm_colony_ship_event_chain_title:0 "废金属"
- gpm_colony_ship_event_chain_desc:0 "世界上覆盖着古代坠毁的星际飞船，它们的来源和制造都不为人知，随时准备着救援远征。"
+ gpm_colony_ship_event_chain_desc:0 "星球上覆盖着古代坠毁的星际飞船，它们的来源和制造都不为人知，随时准备着救援远征。"
 
  ####################################
  # Modifiers localisation
  ####################################
- mod_planet_buildings_energy_upkeep_mult:0 "建筑 £energy 能量币维护"
- mod_planet_districts_energy_upkeep_mult:0 "区划 £energy 能量币维护"
+ mod_planet_buildings_energy_upkeep_mult:0 "建筑 £energy£ 能量币维护"
+ mod_planet_districts_energy_upkeep_mult:0 "区划 £energy£ 能量币维护"
  mod_planet_districts_time_cost_mult:0 "区划建设时间"
  mod_ship_upgrades_time_cost_mult:0 "舰船升级时间:"
- mod_planet_pops_food_upkeep_mult:0 "人口食物维护"
+ mod_planet_pops_food_upkeep_mult:0 "人口食物消耗"
  mod_edicts_influence_cost_mult:0 "法令影响力成本:"
  MOD_SHIP_ARMOR_ADD:0 "舰船装甲生命值"
  MOD_SHIP_ARMOR_MULT:0 "舰船装甲生命值"
@@ -246,27 +242,27 @@ l_simp_chinese:
  ####################################
  # Edicts Localisation
  ####################################
- edict_gpm_edict_pop_assembly:0 "奥术机器组装"
- edict_gpm_edict_pop_assembly_desc:0 "使用 £arcane_technology  §M奥术技术§!促进新机器的生产。这个过程是高度不稳定的，并将摧毁奥术技术。"
- edict_gpm_edict_tech_alternatives:0 "奥术研究选择"
- edict_gpm_edict_tech_alternatives_desc:0 "研究人员将尝试破译一些 £arcane_technology  §M奥术技术§!，希望能学到新的东西。"
- edict_gpm_edict_station_production:0 "奥术空间站升级"
- edict_gpm_edict_station_production_desc:0 "用 £arcane_technology  §M奥术技术§!升级你的采矿站。这个升级是高度不稳定的，并且会在一段时间后摧毁奥术升级。"
- edict_gpm_edict_alloy_production:0 "奥术合金生产"
- edict_gpm_edict_alloy_production_desc:0 "使用 £arcane_technology  §M奥术技术§!提高 £alloys£ §H合金§!产出。这个过程是高度不稳定的，并将摧毁奥术技术。"
- edict_gpm_edict_consumer_goods_production:0 "奥术消费品生产"
- edict_gpm_edict_consumer_goods_production_desc:0 "使用 £arcane_technology  §M奥术技术§! 促进 £consumer_goods£ §H消费品§!的生产。这个过程是高度不稳定的，并将摧毁奥术技术。"
- edict_gpm_edict_exotic_production:0 "奥术材料生产"
- edict_gpm_edict_exotic_production_desc:0 "使用 £arcane_technology  §M奥术技术§!促进§H特殊材料§!的生产。这个过程是高度不稳定的，并将摧毁奥术技术。"
- edict_gpm_edict_planet_sensor_range:0 "奥术传感器助推器"
- edict_gpm_edict_planet_sensor_range_desc:0 "使用 £arcane_technology  §M奥术技术§!暂时提高你的行星和殖民地的感应能力。"
- edict_gpm_edict_terraform_speed:0 "奥术地貌改造知识"
- edict_gpm_edict_terraform_speed_desc:0 "使用 £arcane_technology  §M奥术技术§!改善地貌改造过程。这是非常耗能的，而且会耗尽其奥术技术力量。"
- edict_gpm_edict_armor_regen:0 "奥术修复液"
- edict_gpm_edict_armor_regen_desc:0 "使用 £arcane_technology  §M奥术技术§!提高舰船装甲再生能力。"
- edict_gpm_edict_shield_regen:0 "奥术护盾生成器"
- edict_gpm_edict_shield_regen_desc:0 "使用 £arcane_technology  §M奥术技术§!提高舰船护盾的再生能力。"
- edict_gpm_edict_ship_bombard_dmg:0 "奥术行星弹头"
- edict_gpm_edict_ship_bombard_dmg_desc:0 "使用 £arcane_technology  §M奥术技术§!以提高你的飞船行星轰炸武器的破坏能力。"
- edict_gpm_edict_army_boost:0 "奥术军队供应"
- edict_gpm_edict_army_boost_desc:0 "将 £arcane_technology  §M奥术技术§!分发给你的军队以提高他们的战斗力。"
+ edict_gpm_edict_pop_assembly:0 "先驱者机器组装技术"
+ edict_gpm_edict_pop_assembly_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!促进新机器的生产。"
+ edict_gpm_edict_tech_alternatives:0 "先驱者研究技术"
+ edict_gpm_edict_tech_alternatives_desc:0 "研究人员将尝试破译一些 £arcane_technology  §M远古先驱科技§!，希望能学到新的东西。"
+ edict_gpm_edict_station_production:0 "先驱者空间站升级技术"
+ edict_gpm_edict_station_production_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!升级你的采矿站。"
+ edict_gpm_edict_alloy_production:0 "先驱者合金生产技术"
+ edict_gpm_edict_alloy_production_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!提高 £alloys£ §H合金§!产出。"
+ edict_gpm_edict_consumer_goods_production:0 "先驱者消费品生产技术"
+ edict_gpm_edict_consumer_goods_production_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!促进 £consumer_goods£ §H消费品§!的生产。"
+ edict_gpm_edict_exotic_production:0 "先驱者材料生产技术"
+ edict_gpm_edict_exotic_production_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!促进§H特殊材料§!的生产。"
+ edict_gpm_edict_planet_sensor_range:0 "先驱者传感器技术"
+ edict_gpm_edict_planet_sensor_range_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!暂时提高你的行星和殖民地的感应能力。"
+ edict_gpm_edict_terraform_speed:0 "先驱者地貌改造知识"
+ edict_gpm_edict_terraform_speed_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!改善地貌改造过程。这是非常消耗能量的。"
+ edict_gpm_edict_armor_regen:0 "先驱者修复液技术"
+ edict_gpm_edict_armor_regen_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!提高舰船装甲再生能力。"
+ edict_gpm_edict_shield_regen:0 "先驱者护盾生成技术"
+ edict_gpm_edict_shield_regen_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!提高舰船护盾的再生能力。"
+ edict_gpm_edict_ship_bombard_dmg:0 "先驱者行星弹头"
+ edict_gpm_edict_ship_bombard_dmg_desc:0 "消耗 £arcane_technology  §M远古先驱科技§!以提高你的飞船行星轰炸武器的破坏能力。"
+ edict_gpm_edict_army_boost:0 "先驱者军队供应技术"
+ edict_gpm_edict_army_boost_desc:0 "将 £arcane_technology  §M远古先驱科技§!分发给你的军队以提高他们的战斗力。"

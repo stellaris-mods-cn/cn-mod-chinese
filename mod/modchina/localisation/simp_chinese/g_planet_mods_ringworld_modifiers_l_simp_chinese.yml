@@ -5,16 +5,16 @@
  ###################################################
  
  # 1 m
- Ringworld_Tier_1:0 "环世界建设:§L超规格§!"
- Ringworld_Tier_1_desc:0 "环世界的建设进程已经取得了比预期更好的结果！"
+ Ringworld_Tier_1:0 "$pc_ringworld_habitable$建设:§L超规格§!"
+ Ringworld_Tier_1_desc:0 "$pc_ringworld_habitable$的建设进程已经取得了比预期更好的结果！"
  
  # 2 m
- Ringworld_Tier_2:0 "环世界建设:§T架构之美§!"
- Ringworld_Tier_2_desc:0 "环世界的建设进程已经取得了令人难以置信的好成绩！这个伟大建筑的设计简直是令人叹为观止。"
+ Ringworld_Tier_2:0 "$pc_ringworld_habitable$建设:§T架构之美§!"
+ Ringworld_Tier_2_desc:0 "$pc_ringworld_habitable$的建设进程已经取得了令人难以置信的好成绩！这个伟大建筑的设计简直是令人叹为观止。"
  
  # 3 m
- Ringworld_Tier_3:0 "环世界建设:§Y完美设计§!"
- Ringworld_Tier_3_desc:0 "环世界的建设过程得到了一个完美的结果！该建筑如此精妙，它的布局堪称完美。这个环世界的所有支援系统的功能都比预期的好。"
+ Ringworld_Tier_3:0 "$pc_ringworld_habitable$建设:§Y完美设计§!"
+ Ringworld_Tier_3_desc:0 "$pc_ringworld_habitable$的建设过程得到了一个完美的结果！该建筑如此精妙，它的布局堪称完美。这个环世界的所有支援系统的功能都比预期的好。"
  
  # 4 m
  Ringworld_Breath_Taking_view:0 "惊叹的美景"

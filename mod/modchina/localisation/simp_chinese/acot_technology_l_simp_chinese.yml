@@ -172,8 +172,8 @@ tech_elite_clone_desc: "我们的军事理论家们建议，我们可以通过�
 tech_heavy_trooper: "机动步兵师-战争中的和平"
 tech_heavy_trooper_desc: "我们的军国主义理想要求更强大的步兵师，即使是先锋部队。为此，我们将组建一个新的步兵师，全副武装，装甲部队进行全面进攻。这些士兵将证明我们只能通过战争缔造和平，而不是坐牢和制造无用的协定。"
 
-tech_shadow_Heavy Artillery: "更文明时代的文明武器"
-tech_shadow_Heavy Artillery_desc: "我们珍视所有的生命，即使是敌人的生命。必须允许他们看到他们的做法的错误，但是我们不能用我们目前的毁灭性武器来执行这样大胆的任务。为此目的，我们必须发展和训练专门装备的军队，以极端有效地摧毁敌对目标。一切都结束了，仇外者，我们已经占据了制高点。"
+tech_shadow_sniper: "更文明时代的文明武器"
+tech_shadow_sniper_desc: "我们珍视所有的生命，即使是敌人的生命。必须允许他们看到他们的做法的错误，但是我们不能用我们目前的毁灭性武器来执行这样大胆的任务。为此目的，我们必须发展和训练专门装备的军队，以极端有效地摧毁敌对目标。一切都结束了，仇外者，我们已经占据了制高点。"
 
 tech_dark_matter_tank: "坦克战重演"
 tech_dark_matter_tank_desc: "2200年初，由于运输和部署在战场上的物流噩梦，坦克战逐渐被淘汰。然而。跳跃驱动和暗物质反应器的发展使我们能够彻底改变地面战斗。不久，我们可怕的坦克很快将再次重返战场。"
@@ -264,8 +264,8 @@ fe_clone_army_desc: "这些克隆是由著名赏金猎人的模板创建的，�
 fe_heavy_army: "重型机动步兵小队"
 fe_heavy_army_desc: "这些全副武装和装甲兵接受额外的战斗训练，使他们能够在我们的军国主义者要求的所有作战情况和环境中胜出。"
 
-fe_Heavy Artillery_army: "精锐重型火炮部队"
-fe_Heavy Artillery_army_desc: "这些重型火炮献身于我们的异族事业。他们被训练成只用非致命的注射来中和有效的敌人，并不惜一切代价防止任何不必要的流血和附带伤害."
+fe_sniper_army: "精锐重型火炮部队"
+fe_sniper_army_desc: "这些重型火炮献身于我们的异族事业。他们被训练成只用非致命的注射来中和有效的敌人，并不惜一切代价防止任何不必要的流血和附带伤害."
 
 fe_tank: "毁灭坦克师"
 fe_tank_desc: "这些高度先进的坦克配备了致命的质量加速器加农炮和小型化的跳跃驱动，允许坦克绕过所有困难的地形，并从每一个可能的角度进行打击。"
@@ -274,7 +274,7 @@ fe_hercules_tank: "大力神重型战斗坦克"
 fe_hercules_tank_desc: "这些巨大的庞然大物可以利用战场上的双聚焦电弧发射器、多个导弹吊舱、自动驾驶舱或者在他们巨大的步履下简单地通过它们来摧毁战场。让我们看看那些愚蠢的唯心主义者会如何对抗我们的力量呢？"
 
 fe_inquisitor_army: "审判部队"
-fe_inquisitor_army_desc: "这些热心的神圣战士进入战争中，携带着神圣的盔甲和神圣的盔甲，被黑暗物质力量所迷惑。他们被训练来发泄内心的信仰来保护自己免受伤害。这种痴迷不能被愚蠢的唯物主义的非信徒所了解。"
+fe_inquisitor_army_desc: "这些热心的神圣战士进入战争中，携带着神圣的盔甲和神圣的盔甲，被暗物质能量所迷惑。他们被训练来发泄内心的信仰来保护自己免受伤害。这种痴迷不能被愚蠢的唯物主义的非信徒所了解。"
 
 fe_deathbringer_army: "驱逐舰中队"
 fe_deathbringer_army_desc: "这些可怕的，重装甲士兵是我们的仇外意志表现出来。他们从世界走向世界，用他们的反物质大炮彻底摧毁了所有的异种人，炮轰了所有异种的踪迹——来自存在的原子。没有人会从我们痛苦的火焰中解脱出来。"
@@ -1135,8 +1135,8 @@ ACOT_SWARM_COMPUTER_PICKET_DESC: "天灾军团的舰船完全同步工作。因�
 ACOT_SWARM_COMPUTER_LINE: "蜂群联结系统 (线列)"
 ACOT_SWARM_COMPUTER_LINE_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
 
-ACOT_SWARM_COMPUTER_Heavy Artillery: "蜂群蜂巢连接 (重型火炮)"
-ACOT_SWARM_COMPUTER_Heavy Artillery_DESC: "天灾军团的战船完全同步作战。因为他们被束缚在一个绝对的和永恒的意志的蜂群。他们被创造出来是为了服务于这一意愿。"
+ACOT_SWARM_COMPUTER_SNIPER: "蜂群蜂巢连接 (重型火炮)"
+ACOT_SWARM_COMPUTER_SNIPER_DESC: "天灾军团的战船完全同步作战。因为他们被束缚在一个绝对的和永恒的意志的蜂群。他们被创造出来是为了服务于这一意愿。"
 
 ACOT_SWARM_COMPUTER_QUEEN: "蜂群联结系统 (女王)"
 ACOT_SWARM_COMPUTER_QUEEN_DESC: "天灾军团的舰船完全同步工作。因为他们被群体的一个绝对和永恒的意志所束缚。他们被创造出来是为了服务于这种意愿。"
@@ -1197,8 +1197,8 @@ ACOT_EDI_COMPUTER_PICKET_DESC: "我们有很多，你只是一个。我们会毁
 ACOT_EDI_COMPUTER_LINE: "高维灵能矩阵计算机 (线列)"
 ACOT_EDI_COMPUTER_LINE_DESC: "我们有很多，你只是一个。我们会毁了你。"
 
-ACOT_EDI_COMPUTER_Heavy Artillery: "超维灵能矩阵计算机 (重型火炮)"
-ACOT_EDI_COMPUTER_Heavy Artillery_DESC: "我们又许多，你只有一个。我们会毁了你。"
+ACOT_EDI_COMPUTER_SNIPER: "超维灵能矩阵计算机 (重型火炮)"
+ACOT_EDI_COMPUTER_SNIPER_DESC: "我们又许多，你只有一个。我们会毁了你。"
 
 ACOT_EDI_COMPUTER_TITAN: "高维灵能矩阵计算机 (泰坦)"
 ACOT_EDI_COMPUTER_TITAN_DESC: "我们有很多，你只是一个。我们会毁了你。"
@@ -1211,7 +1211,7 @@ titan_ship_ed: "高维泰坦"
 
 acot_sr_light_matter: "光物质"
 acot_sr_dark_energy: "暗能量"
-acot_sr_stellarite: "星状体能量"
+acot_sr_stellarite: "星能量"
 
 ########################################
 ###               Jobs               ###
@@ -1242,6 +1242,11 @@ job_acot_enforcer_plural: "暗黑执法者"
 job_acot_enforcer_desc: "暗黑执法者是这个星球上的精英防御力量，他们在各种各样的战斗技巧上都受过良好的训练，这使得普通士兵要求调遣。"
 mod_job_acot_enforcer_add: "$job_acot_enforcer$"
 
+job_acot_enforcer_drone: "黑暗毁灭者"
+job_acot_enforcer_drone_plural: "黑暗毁灭者"
+job_acot_enforcer_drone_desc: "黑暗毁灭者是这个星球上的精英防御力量，他们的程序是吃掉并消除内部或外部的威胁。吃了。"
+mod_job_acot_enforcer_drone_add: "$job_acot_enforcer_drone$"
+
 job_acot_roboman: "控制者"
 job_acot_roboman_plural: "控制者"
 job_acot_roboman_desc: "控制者狂热地致力于所有的机器人技术。有些人甚至说他们暗恋着这些金属盒子。"
@@ -1261,6 +1266,11 @@ job_acot_giga_fortress_operator_ancient: "千兆炮炮手"
 job_acot_giga_fortress_operator_ancient_plural: "千兆炮炮手"
 job_acot_giga_fortress_operator_ancient_desc: "这些炮手被训练来操作和校准千兆炮。我们的仇敌当谨慎，因为他们不惧怕。每门大炮提供相当于20名防御部队。"
 mod_job_acot_giga_fortress_operator_ancient_add: "$job_acot_giga_fortress_operator$"
+
+job_acot_giga_fortress_operator_drone: "千兆炮台单位"
+job_acot_giga_fortress_operator_drone_plural: "千兆炮台单位"
+job_acot_giga_fortress_operator_drone_desc: "这些炮手的程序是操作和校准千兆堡垒大型大炮。我们的仇敌当谨慎，因为他们不惧怕。每门大炮提供相当于20名防御部队。"
+mod_job_acot_giga_fortress_operator_drone_add: "$job_acot_giga_fortress_operator_drone$"
 
 job_acot_researcher: "档案管理员"
 job_acot_researcher_plural: "档案管理员"
@@ -1334,13 +1344,13 @@ job_acot_giga_fortress_operator_mentat_plural: "表演者"
 job_acot_giga_fortress_operator_mentat_desc: "表演者是一个独特的军事战略家，工作在千兆要塞的战略中心，以协调帝国的舰队演习。"
 mod_job_acot_giga_fortress_operator_mentat_add: "$job_acot_giga_fortress_operator_mentat$"
 
-job_acot_stellariteman: "星状体机械手"
-job_acot_stellariteman_plural: "星状体机械手"
-job_acot_stellariteman_desc: "这些专家接受了广泛的培训，将传统能源转化为纯粹的星状体能源。星星照亮了他们的道路。"
+job_acot_stellariteman: "星能量机械手"
+job_acot_stellariteman_plural: "星能量机械手"
+job_acot_stellariteman_desc: "这些专家接受了广泛的培训，将传统能源转化为纯粹的星能量能源。星星照亮了他们的道路。"
 mod_job_acot_stellariteman_add: "$job_acot_stellariteman$"
 
-job_acot_stellaritedrone: "星状体机械单位"
-job_acot_stellaritedrone_plural: "星状体机械单位"
+job_acot_stellaritedrone: "星能量机械单位"
+job_acot_stellaritedrone_plural: "星能量机械单位"
 job_acot_stellaritedrone_desc: "这些单位是专门为在星状反应堆的恶劣条件下工作而设计的。他们的人生使命是将传统能源转化为以恒星为基础的形式。以毒攻毒!"
 mod_job_acot_stellaritedrone_add: "$job_acot_stellariteman$"
 
@@ -1354,6 +1364,9 @@ acot_sr_light_matter_desc: "谁控制了光物质，谁就控制了星系。"
 
 BASE_DM_REACTOR: "暗物质反应堆"
 BASE_DM_REACTOR_DESC: "第一代暗物质反应堆，能够为先驱者飞船提供动力。"
+
+BASE_DM_COMPUTER: "模拟计算机"
+BASE_DM_COMPUTER_DESC: "第一代先进计算机。具有基本的作战计算能力。"
 
 BASE_DM_THRUSTER: "暗物质推进器"
 BASE_DM_THRUSTER_DESC: "第一代暗物质推进器，能够移动先驱者飞行器。"
@@ -1383,3 +1396,7 @@ sentinel_sphere: "先驱者炮兵"
 sentinel_sphere_plural: "先驱者炮兵"
 
 fallen_empire_sentinel_hull_key: "哨兵核心"
+fallen_empire_sentinel_core_key: "哨兵核心"
+
+tech_fe_tower_offense: "先驱者哨兵电路图"
+tech_fe_tower_offense_desc: "先驱者防御平台的一个变种，特别为反旗舰建造，以及有极其耐用的船体。"

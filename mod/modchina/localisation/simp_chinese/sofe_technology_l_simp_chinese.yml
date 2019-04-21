@@ -33,10 +33,10 @@ sofe_ancient_escort_plural: "星云护航舰"
 sofe_ancient_small_military_station: "防御核心"
 sofe_ancient_small_military_station_plural: "防御核心"
 
-aryan: "阿拉达尔"
+progenitors: "Progenitors"
 NAME_ORIGINAL: "始源"
 NAME_ORIGINAL_PLURAL: "始源"
-ORIGINAL: "先祖"
+PROGENITOR: "星界"
 COLOR_ORIGINAL: "Progenitors Colorable"
 PRE_ORIGINAL: "光之探索者"
 COLOR_PRE_ORIGINAL: "Light Seekers Colorable"
@@ -86,7 +86,7 @@ building_grand_fortress: "昆拉斯之盾"
 building_grand_fortress_desc: "当所有的希望似乎都破灭了，当我们的精神都崩溃了，当我们的机器也损毁了。司战者英塔迪斯召集守护者们与古物战斗。但并不是守护者们或猎杀者们拯救了这一天。是仅仅一个人，独自举起他的灵能盾牌保护了圣殿。我们也许永远失去了昆拉斯，但关于他的歌谣将永远被人们传唱。"
 
 building_power_pyramid: "桑托斯之矛"
-building_power_pyramid_desc: "和古物斗争需要的不仅仅是一个人的精神和意志。桑托斯比其他人更了解这一点。他凝望着阿亚，第一颗恒星，然后是伊欧台，抨击古人需要的不仅仅是一个人的心灵和意志。桑托斯比任何人都更明白这一点。他凝视着艾莉亚;先成星斗，再成云台;大海，然后进入伟大的城市埃利顿。\n\n星光……支持思想的海洋……我们伟大国家的综合工程就建在这里。\n\n星状体…灵能…合成。在大混乱的时候被锻造，光明即将来临。"
+building_power_pyramid_desc: "和古物斗争需要的不仅仅是一个人的精神和意志。桑托斯比其他人更了解这一点。他凝望着阿亚，第一颗恒星，然后是伊欧台，抨击古人需要的不仅仅是一个人的心灵和意志。桑托斯比任何人都更明白这一点。他凝视着艾莉亚;先成星斗，再成云台;大海，然后进入伟大的城市埃利顿。\n\n星光……支持思想的海洋……我们伟大国家的综合工程就建在这里。\n\n星能量…灵能…合成。在大混乱的时候被锻造，光明即将来临。"
 
 building_super_shelter: "发现之穹"
 building_super_shelter_desc: "即使我们已经站在了我们前进道路的顶峰，我们已经超越了迄今为止我们所知道的所有挑战。这仍然有一个必须回答的重大问题。在找到答案之前，我们必须坚持下去。完美是我们将追求但永远不会获得的目标。"
@@ -283,9 +283,6 @@ tech_fe_assault_carrier_desc: "人们发现，先驱者运输船体的最初用�
 tech_psionic_archon: "灵能执政官"
 tech_psionic_archon_desc: "楔石似乎有一个隐藏的功能。基于在古代使用的相同方法，可以通过自愿的容器(无论是有机的还是机械的)引导楔石的力量来创建灵能执政官。结果就是一个非常强大，可以统治地面战场的灵能执政官。"
 
-tech_fe_tower_offense: "毁灭之塔"
-tech_fe_tower_offense_desc: "先驱者之塔设计的一种变体，专为最大火力而设计。虽然这个版本不太耐用，但破坏性更大。"
-
 tech_omega_assault_escort: "欧米伽级突击护航舰设计"
 tech_omega_assault_escort_desc: "这种欧米伽级护航舰的变化是为了增加火力，而花费了更少的点防御和耐久性。这种修改的性质使这个版本更接近巡洋舰。"
 
@@ -312,10 +309,6 @@ tech_omega_outpost_desc: "即使是最简单的防御形式也充满了难以形
 
 tech_omega_gatekeeper: "欧米伽级守护者设计"
 tech_omega_gatekeeper_desc: "这就是……臭名昭著的古老守护者的真实设计。这是一个奇迹，堕落帝国甚至完全不能逆向研究这个工程。"
-
-
-TECH_UNLOCK_PHOBE_TOWER_TITLE: "§H解锁哨塔分区:§! 屠异 "
-TECH_UNLOCK_PHOBE_TOWER_DESC: "§R屠异分区:§!一个排外先驱者的独特的原型塔格，牺牲了耐用性，改为大规模火力。"
 
 TECH_UNLOCK_OMEGA_ESCORT_TITLE: "§H解锁舰船分区:§! 欧米伽级护航舰"
 TECH_UNLOCK_OMEGA_ESCORT_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_escort_desc$"
@@ -441,13 +434,13 @@ sofe_mem_planet_shield_full: "星状能源封印"
 sofe_mem_planet_shield_partial: "暗能量封印"
 
 sofe_outergate_weaken_shield: "衰弱的护盾"
-sofe_outergate_weaken_shield_desc: "似乎这些§Y外星门§!的护盾正在衰弱，我们现在应该能够更多地了解大门本身。] \n\n我们已经确定了外星门所在的至少一个位置，但是应该有更多的分散在整个星系中。"
+sofe_outergate_weaken_shield_desc: "似乎这些§Y外星门§!的护盾正在衰弱，我们现在应该能够更多地了解外星门本身。] \n\n我们已经确定了外星门所在的至少一个位置，但是应该有更多的分散在整个星系中。"
 
 OUTER_GATE_FIRST_ANALYSIS_TITLE: "外星门基本分析"
 OUTER_GATE_FIRST_ANALYSIS_TITLE_DESC: "在我们开始任何其他行动之前，首先我们需要扫描和分析保护外星门的护盾的性质。"
 
-sofe_outergate_steal_fallen_world: "简单但有趣的方式"
-sofe_outergate_steal_fallen_world_desc: "堕落帝国最可能拥有着这些楔石。如果我们有足够的力量，我们就可以向他们索要楔石..§R用鲜血和火焰§!"
+sofe_outergate_steal_fallen_world: "简单但有趣的方法"
+sofe_outergate_steal_fallen_world_desc: "失落帝国最可能拥有着这些楔石。如果我们有足够的力量，我们就可以向他们索要楔石..§R用鲜血和火焰§!"
 
 sofe_outergate_fabricate_keystone: "复杂但聪明的方法"
 sofe_outergate_fabricate_keystone_desc: "只要我们拥有合适的技术和知识，我们就可以简单地创建自己的楔石。 我们需要了解暗物质能量的工作原理，更重要的是，使用何种材料或合金来构建楔石。"
@@ -581,57 +574,6 @@ SOFE_AURA_TECH_INHIBITOR_THESAN: "无效区"
 
 SOFE_THESAN_AUX_COMA: "昏迷人"
 
-##
-
-##SOFE_LARGE_AVATAR_WEAPON: "Corrupted Shard"
-##SOFE_LARGE_AVATAR_WEAPON_DESC: "The dark hearts within these vessels seeth with torment and despair, one which they will share with the enemies."
-
-##SOFE_POINT_DEFENSE_AVATAR: "Dark Surge"
-##SOFE_POINT_DEFENSE_AVATAR_DESC: "Fear is an illusion, but can be made into reality. Not even the most gifted pilot can escape the image and reality that his ship may one day crash."
-
-##SOFE_PARTICLE_LANCE_AVATAR: "Unending Hatred"
-##SOFE_PARTICLE_LANCE_AVATAR_DESC: "Minds corrode. Body breaks. In this grimdark universe, only pain and suffering is the undeniable truth of all life."
-
-##SOFE_PERDITION_BEAM_AVATAR: "Hellgate Summoner"
-##SOFE_PERDITION_BEAM_AVATAR_DESC: "A glimpse of her gaze is enough to turn even the mightiest steel and alloy into trash, devoid of all substances. The seven pacts will be enforced upon all beings."
-
-
-
-##BATTLESHIP_SHIP_THRUSTER_AVATAR: "Chaos Motivators"
-##BATTLESHIP_SHIP_THRUSTER_AVATAR_DESC: "It moves not because it wants. It turns not because it wishes. In the end, it is the will of its master that tells where next will it commit more sins."
-
-##TITAN_SHIP_THRUSTER_AVATAR: "Chaos Motivators"
-##TITAN_SHIP_THRUSTER_AVATAR_DESC: "It moves not because it wants. It turns not because it wishes. In the end, it is the will of its master that tells where next will it commit more sins."
-
-##AVATAR_SENSOR_SHIP: "Art of Deception"
-##AVATAR_SENSOR_SHIP_DESC: "Eye have you. You think you can evade, but none evades Thesan. All your attempts are but lies in the eyes of the goddess."
-
-##LARGE_DARK_MATTER_REACTOR_AVATAR: "Shard of Terror"
-##LARGE_DARK_MATTER_REACTOR_AVATAR_DESC: "The galaxy's turmoil and grief. The people's suffering and fear. These are the fuels that which manifest illusions into realities."
-
-##HUGE_DARK_MATTER_REACTOR_AVATAR: "Shard of Terror"
-##HUGE_DARK_MATTER_REACTOR_AVATAR_DESC: "The galaxy's turmoil and grief. The people's suffering and fear. These are the fuels that which manifest illusions into realities."
-
-##SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
-
-##SMALL_SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
-##SMALL_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "Energies...need energies....Must consume....Must.....feed."
-
-##MEDIUM_SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
-##MEDIUM_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "Energies...need energies....Must consume....Must.....feed."
-
-##LARGE_SOFE_ENIGMATIC_SHIELD_AVATAR: "Gluttonous Ward"
-##LARGE_SOFE_ENIGMATIC_SHIELD_AVATAR_DESC: "Energies...need energies....Must consume....Must.....feed."
-
-##SOFE_AVATAR_COMPUTER_SNIPER: "Banner of Pride"
-##SOFE_AVATAR_COMPUTER_SNIPER_DESC: "Even with their souls forever undone, their bodies eternally corrupted. There is one thing that will always exist in their dark hearts...pride. To be chosen as her avatars is the greatest honor."
-
-##SOFE_AVATAR_COMPUTER_TITAN: "Banner of Pride"
-##SOFE_AVATAR_COMPUTER_TITAN_DESC: "Even with their souls forever undone, their bodies eternally corrupted. There is one thing that will always exist in their dark hearts...pride. To be chosen as her avatars is the greatest honor."
-
-##SOFE_AVATAR_DRIVER: "Lustful Propagator"
-##SOFE_AVATAR_DRIVER_DESC: "Realities are but illusions. It can be tampered, it can be modified. Non-existence can be forced into existence with enough temptation."
-
 
 sofe_outer_class: "外星门"
 
@@ -646,16 +588,16 @@ district_sofe_omega_logistics_desc: "回顾过去，了解古人的磨难和牺�
 district_sofe_omega_progression: "反射塔"
 district_sofe_omega_progression_desc: "在浩瀚无情的海洋上，生命蓬勃发展，进化如鱼得水。观察过程，了解自然规律。然后想想未来，以及未来的许多潜力。"
 
-tech_planet_killer_naniter: "巨石柱"
-tech_planet_killer_naniter_desc: "在古代，先祖孕育了各种各样的生命和行星，但也有进化走错方向的时候，或者有一些事情是注定不会发生的。巨石柱这类问题的解决方案。这种巨大的武器将整个世界变成一个记忆球，有效地将行星从星系中移除。居民们将继续在他们的星球上生活，不会构成任何威胁。\n\n如果使用不当，这确实是一种可怕的武器。"
+tech_planet_killer_naniter: "海洋领主"
+tech_planet_killer_naniter_desc: "在古代，先祖孕育了各种各样的生命和行星，但也有进化走错方向的时候，或者有一些事情是注定不会发生的。海洋领主这类问题的解决方案。这种巨大的武器将整个世界变成一个记忆球，有效地将行星从星系中移除。居民们将继续在他们的星球上生活，不会构成任何威胁。\n\n如果使用不当，这确实是一种可怕的武器。"
 
 ACOT_PLANET_KILLER_NANITE_ACTION: "记忆网络传输"
 
-FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$上点燃巨石柱"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$上点燃海洋领主"
 MESSAGE_DESC_FOR_ACOT_PLANET_KILLER_NANITE: "从存在中抹去"
 is_a_golden_world: "§R$TRIGGER_FAIL$目标不应该这样被摧毁。§!"
 
-ACOT_PLANET_KILLER_NANITE: "巨石柱"
+ACOT_PLANET_KILLER_NANITE: "海洋领主"
 ACOT_PLANET_KILLER_NANITE_DESC: "一种远古先祖武器，用来把行星储存在一个记忆球里。这将允许这颗行星和它的居民继续生活，同时将这颗行星完全从银河系中移除。一个可怕的武器在错误的手中。"
 
 BASE_STELLARITE_COMBAT_COMPUTER: "原始晶片计算机"
@@ -664,7 +606,7 @@ BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不�
 BASE_STELLARITE_THRUSTER: "原型推进器"
 BASE_STELLARITE_THRUSTER_DESC: "驱动我们飞船的第一个引擎。"
 
-BASE_STELLARITE_REACTOR: "星状体原型反应堆"
+BASE_STELLARITE_REACTOR: "星能量原型反应堆"
 BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面。"
 
 PROGENITOR_ASSAULT_ESCORT_KEY: "Hunter Codex"

@@ -1,6 +1,6 @@
 ﻿#Uncomment the appropriate language for the file.
 #l_braz_por:
-#l_simp_chinese:
+#l_english:
 #l_french:
 #l_german:
 #l_polish:
@@ -32,15 +32,15 @@ l_simp_chinese:
 
  # Ringworld Districts
 
- LRSK_RINGWORLD_COMMON:0 "$pc_ringworld_habitable$里几乎没有尽头的大片空间还没有充分利用"
+ LRSK_RINGWORLD_COMMON:0 "$pc_ringworld_habitable$里有着近乎无限的广阔空间"
  
  district_lrsk_ringresidential:0 "住宅区"
  district_lrsk_ringresidential_plural:0 "$district_lrsk_ringresidential$"
- district_lrsk_ringresidential_desc:0 "有了这么大的空间，没有理由不向外扩张和建造大量的豪华住宅。"
+ district_lrsk_ringresidential_desc:0 "有了这么充足的空间，没有理由不向外扩张和建造大量的豪华住宅。"
 
  district_lrsk_ringnesting:0 "筑巢区"
  district_lrsk_ringnesting_plural:0 "$district_lrsk_ringnesting$"
- district_lrsk_ringnesting_desc:0 "$pc_ringworld_habitable$的这一部分布满了肉眼可见的居住地...分布在圆环的凸面上并延伸了相当远的距离。"
+ district_lrsk_ringnesting_desc:0 "$pc_ringworld_habitable$的这一部分布满了肉眼可见的居住地...分布在星环的凹面上并延伸了相当远的距离。"
 
  district_lrsk_ringinfra:0 "基础设施区"
  district_lrsk_ringinfra_plural:0 "$district_lrsk_ringinfra$"
@@ -48,27 +48,27 @@ l_simp_chinese:
  
  district_lrsk_ringfarming:0 "$district_farming$"
  district_lrsk_ringfarming_plural:0 "$district_lrsk_ringfarming$"
- district_lrsk_ringfarming_desc:0 "$LRSK_RINGWORLD_COMMON$，将一些土地划分给农业，用于种植农作物或畜牧业。"
+ district_lrsk_ringfarming_desc:0 "$LRSK_RINGWORLD_COMMON$，这部分土地划分给农业，用于种植农作物或畜牧业。"
 
  district_lrsk_ringgenerator:0 "$district_generator$"
  district_lrsk_ringgenerator_plural:0 "$district_lrsk_ringgenerator$"
- district_lrsk_ringgenerator_desc:0 "$LRSK_RINGWORLD_COMMON$，建造大型发电厂可以生成大量的能源，这些能源随后被使用或转化为能源点数储存。"
+ district_lrsk_ringgenerator_desc:0 "$LRSK_RINGWORLD_COMMON$，一排排大型发电厂可以生成大量的能量，这些能源随后被使用或转化为$MONEY$储存。"
 
  district_lrsk_recreation:0 "休闲区"
  district_lrsk_recreation_plural:0 "$district_lrsk_recreation$"
- district_lrsk_recreation_desc:0 "$LRSK_RINGWORLD_COMMON$，非常适合建造自然保护区、游乐园、节日场地、运动场、拱廊等休闲娱乐场所。"
+ district_lrsk_recreation_desc:0 "$LRSK_RINGWORLD_COMMON$，一些常见的自然保护区，游乐园，节日庆祝场地和其他娱乐设施可以安抚智慧有机生物。"
 
  district_lrsk_maintenance:0 "维护区"
  district_lrsk_maintenance_plural:0 "$district_lrsk_maintenance$"
- district_lrsk_maintenance_desc:0 "$LRSK_RINGWORLD_COMMON$，建造无人机制造中心、备用零件、修理舱和充电站来保障集体的运作。"
+ district_lrsk_maintenance_desc:0 "$LRSK_RINGWORLD_COMMON$，这些无人机制造中心、备用零件、修理舱和充电站可以保障整体顺利运作。"
 
  district_lrsk_elysian:0 "乐园区"
  district_lrsk_elysian_plural:0 "$district_lrsk_elysian$"
- district_lrsk_elysian_desc:0 "$LRSK_RINGWORLD_COMMON$，划分一些空间用于建造自然保护区，游乐园，节日庆祝场地和其他娱乐设施来安抚智慧有机生物。"
+ district_lrsk_elysian_desc:0 "$LRSK_RINGWORLD_COMMON$，一些常见的自然保护区，游乐园，节日庆祝场地和其他娱乐设施可以安抚智慧有机生物。"
 
  district_lrsk_spawning:0 "产卵区"
  district_lrsk_spawning_plural:0 "$district_lrsk_spawning$"
- district_lrsk_spawning_desc:0 "$LRSK_RINGWORLD_COMMON$，这里将会成为产卵池，治疗药浴和幼虫营养药房。"
+ district_lrsk_spawning_desc:0 "$LRSK_RINGWORLD_COMMON$，一些常见的产卵池，治疗药浴和幼虫营养药房用于培养幼虫。"
 
  ## JOBS
 

@@ -32,7 +32,7 @@
  gpm_survey.INVESTIGATE.5:0 "再做一次探险"
  gpm_survey.INVESTIGATE.6:0 "我们需要更多的信息"
  gpm_survey.INVESTIGATE.7:0 "这个世界看起来很有趣"
- gpm_survey.INVESTIGATE.8:0 "执行分离分析"
+ gpm_survey.INVESTIGATE.8:0 "执行分离解析"
 
  GPM_DISCOVERY_EXPEDITION:0 "科学家§H[From.GetLeaderName]§!将领导一次广泛的、潜在危险的科学考察，希望能有令人兴奋的发现或发现有趣的秘密。\n"
 
@@ -43,69 +43,69 @@
  GPM_DISCOVERY_TERRAFORM_3:0 "$gpm_survey.4.name$"
  GPM_DISCOVERY_TERRAFORM_3_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.TERRAFORM_TECH$\n$gpm_survey.REWARDS.EXPLORATION$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$"
  GPM_DISCOVERY_PRECURSOR_REMNANTS:0 "$gpm_survey.5.name$"
- GPM_DISCOVERY_PRECURSOR_REMNANTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$"
+ GPM_DISCOVERY_PRECURSOR_REMNANTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_ENERGY_GRID:0 "$gpm_survey.6.name$"
- GPM_DISCOVERY_PRECURSOR_ENERGY_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.ENERGY$"
+ GPM_DISCOVERY_PRECURSOR_ENERGY_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.ENERGY$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_SATTELITE_GRID:0 "$gpm_survey.7.name$"
- GPM_DISCOVERY_PRECURSOR_SATTELITE_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.DEPOSIT$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_PRECURSOR_SATTELITE_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.DEPOSIT$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_CITY:0 "$gpm_survey.8.name$"
- GPM_DISCOVERY_PRECURSOR_CITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_CITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_SHIPYARD:0 "$gpm_survey.9.name$"
- GPM_DISCOVERY_PRECURSOR_SHIPYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SHIP_TECH$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_SHIPYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SHIP_TECH$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_PLANETARY_GUN:0 "$gpm_survey.10.name$"
- GPM_DISCOVERY_PRECURSOR_PLANETARY_GUN_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n	"
+ GPM_DISCOVERY_PRECURSOR_PLANETARY_GUN_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_BUNKER_GRID:0 "$gpm_survey.11.name$"
- GPM_DISCOVERY_PRECURSOR_BUNKER_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ARMOR_TECH$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_BUNKER_GRID_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ARMOR_TECH$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_MECHS:0 "$gpm_survey.12.name$"
- GPM_DISCOVERY_PRECURSOR_MECHS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ARMY$\n$gpm_survey.REWARDS.ENGINEERING$"
+ GPM_DISCOVERY_PRECURSOR_MECHS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.ARMY$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_PLANETARY_SHIELD:0 "$gpm_survey.13.name$"
- GPM_DISCOVERY_PRECURSOR_PLANETARY_SHIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SHIELD_TECH$\n$gpm_survey.REWARDS.PHYSICS$"
+ GPM_DISCOVERY_PRECURSOR_PLANETARY_SHIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SHIELD_TECH$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_FLOATING_CITY:0 "$gpm_survey.14.name$"
- GPM_DISCOVERY_PRECURSOR_FLOATING_CITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ENGINEERING$\n	"
+ GPM_DISCOVERY_PRECURSOR_FLOATING_CITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.INDUSTRY_TECH$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_CAPITAL:0 "$gpm_survey.15.name$"
- GPM_DISCOVERY_PRECURSOR_CAPITAL_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$"
+ GPM_DISCOVERY_PRECURSOR_CAPITAL_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_COM_HUB:0 "$gpm_survey.16.name$"
- GPM_DISCOVERY_PRECURSOR_COM_HUB_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.COMMUNICATIONS$\n$gpm_survey.REWARDS.PHYSICS$\n"
+ GPM_DISCOVERY_PRECURSOR_COM_HUB_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.COMMUNICATIONS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_PRECURSOR_SINGULARITY:0 "$gpm_survey.17.name$"
- GPM_DISCOVERY_PRECURSOR_SINGULARITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.UNKNOWN$"
+ GPM_DISCOVERY_PRECURSOR_SINGULARITY_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.EMPIRE_MODIFIER$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.UNKNOWN$\n$gpm_survey.REWARDS.ARCANE_TECHNOLOGY$"
  GPM_DISCOVERY_GAIA:0 "$gpm_survey.18.name$"
- GPM_DISCOVERY_GAIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_GAIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.MOTES$\n$gpm_survey.REWARDS.GASSES$\n$gpm_survey.REWARDS.CRYSTALS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_HOLY_PLANET:0 "$gpm_survey.19.name$"
- GPM_DISCOVERY_HOLY_PLANET_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$\n$gpm_survey.REWARDS.HOLYWORLD$"
+ GPM_DISCOVERY_HOLY_PLANET_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$\n$gpm_survey.REWARDS.HOLYWORLD$"
  GPM_DISCOVERY_FLOATING_ISLANDS:0 "$gpm_survey.20.name$"
- GPM_DISCOVERY_FLOATING_ISLANDS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SHIP_TECH$\n$REWARDS.SCIENTIST_EXPERIENCE$\n$gpm_survey.REWARDS.MINERALS$"
+ GPM_DISCOVERY_FLOATING_ISLANDS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SHIP_TECH$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$\n$gpm_survey.REWARDS.MINERALS$"
  GPM_DISCOVERY_BATTLEFIELD:0 "$gpm_survey.21.name$"
- GPM_DISCOVERY_BATTLEFIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_BATTLEFIELD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.ALLOYS$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_SHIP_GRAVEYARD:0 "$gpm_survey.22.name$"
- GPM_DISCOVERY_SHIP_GRAVEYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_SHIP_GRAVEYARD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.ALLOYS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_ARTIFICIAL_WATER:0 "$gpm_survey.23.name$"
- GPM_DISCOVERY_ARTIFICIAL_WATER_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ARTIFICIAL_WATER_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_PLEASURE_PALACE:0 "$gpm_survey.24.name$"
- GPM_DISCOVERY_PLEASURE_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PLEASURE_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_ANCIENT_TEMPLE:0 "$gpm_survey.25.name$"
- GPM_DISCOVERY_ANCIENT_TEMPLE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ANCIENT_TEMPLE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.CRYSTALS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_CRYSTAL_MOON_PALACE:0 "$gpm_survey.26.name$"
- GPM_DISCOVERY_CRYSTAL_MOON_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_CRYSTAL_MOON_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.CRYSTALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_PLASMOID_LIFE:0 "$gpm_survey.27.name$"
- GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "科学家§H[From.GetLeaderName]§!将领导一次广泛的、有潜在危险的太空行走，以调整飞船的传感器，以期做出激动人心的发现或揭开来自恒星的有趣的秘密。\n $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "Scientist §H[From.GetLeaderName]§! will lead an extensive and potentially dangerous spacewalk to adjust the ship sensors in hopes of making exciting discoveries or uncovering interesting mysteries from the star.\n $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_TEMPLE_ANCIENT_ONE:0 "$gpm_survey.28.name$"
- GPM_DISCOVERY_TEMPLE_ANCIENT_ONE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_TEMPLE_ANCIENT_ONE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MOTES$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_PROTO_FOREST:0 "$gpm_survey.29.name$"
- GPM_DISCOVERY_PROTO_FOREST_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.ENERGY$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PROTO_FOREST_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.ENERGY$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_HIVE_WORLD:0 "$gpm_survey.30.name$"
- GPM_DISCOVERY_HIVE_WORLD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SHIP$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_HIVE_WORLD_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SHIP$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_ARACHNAPHOBIA:0 "$gpm_survey.31.name$"
- GPM_DISCOVERY_ARACHNAPHOBIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ARACHNAPHOBIA_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_GIANT_WORM:0 "$gpm_survey.32.name$"
- GPM_DISCOVERY_GIANT_WORM_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_GIANT_WORM_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_ARTIFICIAL_CORE:0 "$gpm_survey.33.name$"
- GPM_DISCOVERY_ARTIFICIAL_CORE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ARTIFICIAL_CORE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_SURFACE_OF_BONES:0 "$gpm_survey.34.name$"
- GPM_DISCOVERY_SURFACE_OF_BONES_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_SURFACE_OF_BONES_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.UNITY$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_ALIEN_EGGS:0 "$gpm_survey.35.name$"
- GPM_DISCOVERY_ALIEN_EGGS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_ALIEN_EGGS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.TRAIT$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_MUSHROOM_FORESTS:0 "$gpm_survey.36.name$"
- GPM_DISCOVERY_MUSHROOM_FORESTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.SOCIETY$\n$REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_MUSHROOM_FORESTS_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
 
  # blue(B)  physics
  # teal (E)  unity
@@ -138,14 +138,14 @@
  gpm_survey.REWARDS.SOCIETY:0 " £society  §Y社会学研究§!"
  gpm_survey.REWARDS.UNITY:0 " £unity  §Y凝聚力§!"
  gpm_survey.REWARDS.EMPIRE_MODIFIER:0 " £discovery_modifier  §Y帝国修正§!"
- gpm_survey.REWARDS.ENERGY:0 " £energy  §Y能量币§!"
+ gpm_survey.REWARDS.ENERGY:0 " £energy  §Y$MONEY$§!"
  gpm_survey.REWARDS.MINERALS:0 " £minerals  §Y矿物§!"
  gpm_survey.REWARDS.FOOD:0 " £food  §Y食物§!"
  gpm_survey.REWARDS.ALLOYS:0 " £alloys  §Y合金§!"
  gpm_survey.REWARDS.MOTES:0 " £volatile_motes  §Y不稳定的微粒§!"
  gpm_survey.REWARDS.GASSES:0 " £exotic_gases  §Y外星气体§!"
  gpm_survey.REWARDS.CRYSTALS:0 " £rare_crystals  §Y罕见水晶§!"
- gpm_survey.REWARDS.ARCANE_TECHNOLOGY:0 " £arcane_technology  §M奥术技术§!"
+ gpm_survey.REWARDS.ARCANE_TECHNOLOGY:0 " £arcane_technology  §M远古先驱科技§!"
   gpm_survey.REWARDS.DEPOSIT:0 " £discovery_planet  §Y星球资源§!"
  gpm_survey.REWARDS.ARMY:0 " £discovery_army  §Y独特军队§!"
  gpm_survey.REWARDS.COMMUNICATIONS:0 " £discovery_communications  §Y尝试沟通§!"
@@ -176,10 +176,10 @@
  # refers to the planet modifier: "Very Hot Core"
  gpm_survey.2.name:0 "发现：灼热的星球内核！"
  gpm_survey.2.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
- 	# hive mind
+ # hive mind
  gpm_survey.2.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
- 	# machine empire
- gpm_survey.2.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
+ # machine empire
+ gpm_survey.2.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
  
  gpm_survey.2.b:0 "添加帝国修正：\n§H探索星球改造 1/3§!\n    星球改造速度增加：§G+10%§!"
  gpm_survey.2.c:0 "做更彻底的调查吗"
@@ -189,7 +189,7 @@
  	# hive mind
  gpm_survey.3.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
  	# machine empire
- gpm_survey.3.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
+ gpm_survey.3.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
  
  gpm_survey.3.b:0 "添加帝国修正：\n§H探索星球改造 2/3§!\n    星球改造速度增加：§G+20%§!"
  
@@ -198,23 +198,23 @@
  	# hive mind
  gpm_survey.4.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
  	# machine empire
- gpm_survey.4.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
+ gpm_survey.4.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
  
  gpm_survey.4.a:0 "尤里卡！"
  gpm_survey.4.b:0 "添加帝国修正：\n§H探索星球改造 3/3§!\n    星球改造速度增加：§G+30%§!"
  
  
  # Discovery Events #
- ####################
+ #################### 
  gpm_terraform_speed_one:0 "探索星球改造 1/3"
- gpm_terraform_speed_one:0 "地貌改造速度增加。"
+ gpm_terraform_speed_one:0 "探索星球改造 1/3"
  gpm_terraform_speed_two:0 "探索星球改造 2/3"
- gpm_terraform_speed_two:0 "地貌改造速度增加。"
+ gpm_terraform_speed_two:0 "探索星球改造 2/3"
  gpm_terraform_speed_three:0 "探索星球改造 3/3"
- gpm_terraform_speed_three:0 "地貌改造速度增加。"
+ gpm_terraform_speed_three:0 "探索星球改造 3/3"
 
-
-
+ 
+  
  # precursor remnants
  gpm_survey.5.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!残骸！"
  gpm_survey.5.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上留下了大量的基础设施，看起来是由某个古老的星际帝国所建造的。"
@@ -222,7 +222,7 @@
  gpm_survey.5.hive.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上留下了大量的基础设施，看起来是由某个古老的星际帝国所建造的。"
  	# machine empire
  gpm_survey.5.mach.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！\n 这个星球上留下了大量的基础设施，看起来是由某个古老的星际帝国所建造的。"
- 
+
  # precursor energy grid
  gpm_survey.6.name:0 "发现：§L[Root.Owner.gpm_precursor_empire_name]§!能源网！"
  gpm_survey.6.desc:0 "由§H[Root.GetLeaderName]§!带领的科学考察队在§H[Root.GetName]§!上发现了一些不得了的东西！虽然我们在太空中就看到了它们，但这些庞大的能源网格却证明了它的神秘之处。在这些庞大的能源网周围到处都是摇摇欲坠的建筑废墟、破败不堪的道路，以及其他大量区域。很明显，一个强盛的文明曾经居住在这个星球上，并利用这些能源网络将电力从一个城市传输到另一个城市，从街灯到各个房间的供电。令人惊讶的是，它们似乎也被用来照亮所有的东西，这就解释了为什么从近地轨道上就可以看到它们。\n\n我们的科学家们并不完全了解它们的组成元素。它似乎是一种半透明的物质核心，由一层由未知材料制成的某种超耐蚀外层晶体的液体层所包围。\n\n我们的科学家认为，这些巨大的网络是由星球地底深处的巨大热能植物所驱动的。不幸的是，这些网络中的巨大热喷口导致温度过高，再加上深度的原因，目前我们无法观测它们。我们的科学家确信，这些网络进行一些微小的修改应该就能与我们自己的能源系统兼容。"
@@ -417,11 +417,11 @@
  
  # hive world
  gpm_survey.30.name:0 "发现：蜂群遗迹！"
- gpm_survey.30.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。" 
+ gpm_survey.30.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。"
  	# hive mind
- gpm_survey.30.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。" 
+ gpm_survey.30.hive.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。"
  	# machine empire
- gpm_survey.30.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。" 
+ gpm_survey.30.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 这些星球上的古代遗迹似乎有成千上万个突触节点散布在它们上面。它成为了一种庞大的生物工厂，可以产生无穷无尽的生物形态。我们将它命名为蜂群星球，它们包含了数以百万计的生物工程。每一个都是一个生物工厂，能够创造数以万亿计的大型和小型生物，通过复制基因组拼接成全新的物种，从而完美适应每一个陌生的星球和环境。我们只能希望这种生物不要存在于我们之中。"
 
  # arachnophobia
  gpm_survey.31.name:0 "发现：地狱！"
@@ -479,6 +479,10 @@
  	# machine empire
  gpm_survey.700.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在首次科学考察的过程中，在这个星球上发现了一个非比寻常的特征。我们的科学家对它所代表的意义肃然起敬。在所有的理论、所有的发现与曾经目睹过的所有星球中，没有人曾经见过这样的东西。它是这个银河真正的奇迹..."
 
+ 
+ gpm_survey.2.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
+ gpm_survey.3.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
+ gpm_survey.4.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
  gpm_survey.9100.name:0 "§Y[From.GetName]§!:发现战略资源"
  gpm_survey.9100.desc:0 "在[Root.GetName][From.GetName]的调查,发现了一种以前未知的战略资源被称为§H先驱者技术§!。这些极其先进的技术的确切起源尚不清楚，但我们知道它们是古老的。以前从未发现过如此复杂的东西。"
  gpm_survey.9100.tooltip:0 "£gpm_arcane_technology£§Y$gpm_arcane_technology$§!\n§E$gpm_arcane_technology_desc$§!"

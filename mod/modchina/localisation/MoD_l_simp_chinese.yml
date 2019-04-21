@@ -1,0 +1,208 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # Decisions
+ # ###################################
+ 
+ decision_O_LOSBSP:0 "[O] 低轨道空间太阳能发电"
+ decision_O_LOSBSP_desc:0 " 生产 §G32§! £energy£ §Y能量§! \n 提供 §G2§! §Y技术员§! $JOBS_TITLE$ \n §R增加§! 轨道轰炸伤害 \n"
+ decision_O_LOU:0 "[O] 低轨城市化"
+ decision_O_LOU_desc:0 " 最大 £district£ §Y区块§!: §G+1§! \n 提供 §G4§! £housing£ §Y住房§! \n §R增加§! 轨道轰炸伤害 \n §G增加§! £Happiness£ 幸福 \n §G增加§! £trade_value£ §Y贸易价值§! \n 提供 §G1§! §Y商人§!, §G1§! §Y文化工作者§! 和 §G1§! §Y营业员§! $JOBS_TITLE$ \n 提供 §G1§! 额外 £district£ §Y区块§! 给 §H格式塔§!"
+ decision_U_SU:0 "[U] 地底城市化"
+ decision_U_SU_desc:0 " 最大 £district£ §Y区块§!: §G+2§! \n 提供 §G24§! £housing£ §Y住房§! \n §G增加§! §Y宜居度§!  §G5%§! \n §G减少§! 轨道轰炸伤害 \n §R增加§! £犯罪率£ §Y犯罪率§! \n §R减少§! £Happiness£ 幸福 \n 提供 §G4§! §Y营业员§! $JOBS_TITLE$"
+ decision_H_E:0 "[H] 栖息地拓展工作"
+ decision_H_E_desc:0 " 提供 §G1§! 额外 £district£ §Y区块§!."
+ decision_R_E:0 "[R] 环世界拓展工作"
+ decision_R_E_desc:0 " 提供 §G5§! 额外 £district£ §Y区块§!."
+ decision_Sv_VFD:0 "[S] 立体农业区域"
+ decision_Sv_VFD_desc:0 " 最大 £district£ §Y区块§!: §R-1§! \n §Y农民§! $JOBS_TITLE$: §G+12§!"
+ decision_O_LOSBF:0 "[O] 低轨道空间农业"
+ decision_O_LOSBF_desc:0 " 生产 §G24§! £food£ §Y食物§! \n 提供 §G6§! §Y农民§! 和 §G1§! §Y研究员§! $JOBS_TITLE$ \n §R增加§! 轨道轰炸伤害 \n"
+ decision_H_SBSP:0 "[H] 天基太阳能发电"
+ decision_H_SBSP_desc:0 " 生产 §G32§! £energy£ §Y能量§! \n 提供 §G2§! §Y技术员§! $JOBS_TITLE$"
+ decision_H_SBF:0 "[H] 天基农业"
+ decision_H_SBF_desc:0 " 生产 §G24§! £food£ §Y食物§! \n 提供 §G6§! §Y农民§! 和 §G1§! §Y研究员§! $JOBS_TITLE$"
+ decision_H_ACMH:0 "[H] 小行星和彗星采矿中心"
+ decision_H_ACMH_desc:0 " 最大 £district£ §Y区块§!: §R-1§! \n 提供 §G1§! §Y行政官员§!, §G1§! §Y研究员§!, §G3§! §Y矿工§! 和 §G2§! §Y采矿者§! $JOBS_TITLE$ \n §R增加§! £犯罪率£ §Y犯罪率§!"
+ decision_HR_LSDI:0 "[HR] 大型基础设施对接"
+ decision_HR_LSDI_desc:0 " 最大 £district£ §Y区块§!: §R-1§! \n 提供 §G4§! §Y飞船机械师§! 和 §G2§! §Y营业员§! $JOBS_TITLE$ \n 提供 §G24§! £housing£ §Y住房§! \n §G增加§! £trade_value£ §Y贸易价值§!"
+ decision_R_RTPAF:0 "[R] 环形世界地形勘查和筛选"
+ decision_R_RTPAF_desc:0 " 提供 §G1§! §Y行政官员§!, §G1§! §Y研究员§!, §G3§! §Y矿工§! 和 §G2§! §Y采矿者§! $JOBS_TITLE$ \n §R减少§! £Happiness£ 幸福"
+ decision_U_SCI:0 "[U] 地下工业城区"
+ decision_U_SCI_desc:0 " 提供 §G10§! §Y矿工§!, §G2§! §Y铸造厂§!, §G2§! §Y工匠§! 和 §G3§! §Y营业员§! $JOBS_TITLE$ \n 提供 §G13§! £housing£ §Y住房§! \n §G减少§! 轨道轰炸伤害 \n §R增加§! £犯罪率£ §Y犯罪率§! \n §R减少§! £Happiness£ 幸福"
+ decision_U_SER:0 "[U] 地下萃取精炼城"
+ decision_U_SER_desc:0 " 提供 §G10§! §Y矿工§!, §G4§! §Y采矿者§! 和 §G3§! §Y营业员§! $JOBS_TITLE$ \n 提供 §G13§! £housing£ §Y住房§! \n §G减少§! 轨道轰炸伤害 \n §R增加§! £犯罪率£ §Y犯罪率§! \n §R减少§! £Happiness£ 幸福"
+ decision_O_LSLODI:0 "[O] 大型低轨对接基础设施"
+ decision_O_LSLODI_desc:0 " 提供 §G4§! §Y飞船机械师§! 和 §G2§! §Y营业员§! $JOBS_TITLE$ \n 提供 §G6§! £housing£ §Y住房§! \n §R增加§! 轨道轰炸伤害 \n §G增加§! £trade_value£ §Y贸易价值§!"
+ decision_U_DPBN:0 "[U] 行星地堡连接网络"
+ decision_U_DPBN_desc:0 " 提供 §G12§! §Y士兵§!, §G1§! §Y强制实施§! 和 §G2§! §Y营业员§! $JOBS_TITLE$ \n 提供 §G15§! £housing£ §Y住房§! \n §G减少§! 轨道轰炸伤害 \n 不提供FTL抑制"
+ decision_SaHR_ATN:0 "[SHR] 自治区交通运输网络"
+ decision_SaHR_ATN_desc:0 " 给行星提供  §G1§! 或 §G2§! 额外 £district£ §Y区块§!  \n 提供 §G1§! §Y行政官员§! 和 §G1§! §Y营业员§! $JOBS_TITLE$ \n §G减少§! £consumer_goods£ §Y消费品§! 维持 \n\n 提供 £stability£ §Y稳定性§! for §H格式塔§!"
+ decision_U_SC:0 "[U] 低地教堂"
+ decision_U_SC_desc:0 " \n §G减少§! 轨道轰炸伤害 \n §G减少§! £犯罪率£ §Y犯罪率§! \n §G增加§! £Happiness£ 幸福 \n 提供 §G13§! £housing£ §Y住房§! \n 提供 §G1§! §Y大祭司§!, §G10§! §Y牧师§! 和 §G2§! §Y营业员§! $JOBS_TITLE$"
+ decision_U_USC:0 "[U] 地下科学城"
+ decision_U_USC_desc:0 " 提供 §G2§! £housing£ §Y住房§! 和 §G1§! §Y研究总管§!, §G15§! §Y研究员§! 和 §G2§! §Y营业员§! $JOBS_TITLE$  §H非格式塔§! \n 提供 §G12§! £housing£ §Y住房§! 和 §G10§! §Y研究子成员§! 和 §G2§! §Y维护子成员§! 职位 为 §H格式塔§! \n §G减少§! 轨道轰炸伤害 \n"
+ decision_0_show_hide_MoD:0 "[!] §Y显示/隐藏区块决策§!"
+ decision_0_show_hide_MoD_desc:0 ""
+
+ # §G§! £housing£ §YHousing§! # §Y$PLANET_HOUSING_TITLE$§!
+ # Provides §G§! extra £district£ §Ydistrict§! # Max £district£ §Ydistricts§!: §R-1§!
+ # Provides §G§! §YFarmer§! Jobs
+ # §HGestalts§!
+ 
+ # £stability£ §YStability§!
+ # £happiness£ §YPop Approval Rating§!
+ # £amenities£
+ # £crime£ §YCrime§!
+ # §GIncreased§! £trade_value£ §YTrade Value§!
+ # £energy£ §HEnergy Credits§!
+ # £food£ §HFood§!
+ # red §R orange §H yellow §Y green §G blue? §E | §!
+ 
+ 
+ # ###################################
+ # Modifiers
+ # ###################################
+ 
+ modifier_O_max:0 "低轨扩展开发"
+ modifier_O_max_desc:0 ""
+ modifier_O_max_AP:0 "低轨道完全开发"
+ modifier_O_max_AP_desc:0 ""
+ modifier_U_max:0 "地下区域扩展开发"
+ modifier_U_max_desc:0 ""
+ modifier_U_max_AP:0 "地下区域完全开发"
+ modifier_U_max_AP_desc:0 ""
+ 
+ # ###################################
+ # Deposits
+ # ###################################
+
+ d_O_LOSBSP_deposit:0 "[O]  低轨道空间太阳能发电"
+ d_O_LOSBSP_deposit_desc:0 ""
+ d_HR_SBSP_deposit:0 "[H] 天基太阳能发电"
+ d_HR_SBSP_deposit_desc:0 ""
+ d_O_LOU_deposit:0 "[O] 低轨道城市化"
+ d_O_LOU_deposit_desc:0 ""
+ d_U_SU_deposit:0 "[U] 地下城市化"
+ d_U_SU_deposit_desc:0 ""
+ d_H_E_deposit:0 "[H] 栖息地拓展工作"
+ d_H_E_deposit_desc:0 ""
+ d_R_E_deposit:0 "[R] 环世界拓展工作"
+ d_R_E_deposit_desc:0 ""
+ d_Sv_VFD_deposit:0 "[S] 立体农业区域"
+ d_Sv_VFD_deposit_desc:0 "传统的农业水平且无聊，光滑的摩天大楼丛林之间的空间是浪费的。 我们一直梦想着在半人工的环境中建造立体的农田，同时保持其生产效率。 这样做的技术终于可以运用，在建筑学上是可利用的。"
+ d_O_LOSBF_deposit:0 "[O] 低轨道空间农业"
+ d_O_LOSBF_deposit_desc:0 "农业，但远超天堂"
+ d_H_SBF_deposit:0 "[H] 天基农业"
+ d_H_SBF_deposit_desc:0 ""
+ d_U_SCI_deposit:0 "[U] 地下工业城区"
+ d_U_SCI_deposit_desc:0 "整个地区致力于比地面工业更有效的地下铸造。"
+ d_U_SER_deposit:0 "[U] 地下萃取精炼城"
+ d_U_SER_deposit_desc:0 "整个地区致力于将原材料和原材料加工成稀缺资源，是表面上无法实现的方式。"
+ d_R_RTPAF_deposit:0 "[R] 环形世界地形勘查和筛选"
+ d_R_RTPAF_deposit_desc:0 "该系统中几乎所有有用的物质都被用于构建这个环形世界。 然而，一些有价值的有价值的残余物质只是添加到其中。 通过努力，我们将可以过滤和处理这些资源。"
+ d_H_ACMH_deposit:0 "[H] 小行星和彗星采矿中心"
+ d_H_ACMH_deposit_desc:0 "还有更多的岩石飞来飞去，而没有人去考虑处理它们。 有了这个基础设施，我们将能够处理更多。"
+ d_O_LSLODI_deposit:0 "[O] 大型低轨对接基础设施"
+ d_O_LSLODI_deposit_desc:0 "私人拥有和国有船舶的维护，加油，回收，改装和散装货物，无论是军用还是商用。 无需通过政府系统的星基，也不需要表面上的官员，因为这一切都可以在这里完成。"
+ d_HR_LSDI_deposit:0 "[HR] 大型基础设施对接"
+ d_HR_LSDI_deposit_desc:0 "私人拥有和国有船舶的维护，加油，回收，改装和散装货物，无论是军用还是商用。 无需通过政府系统的星基，也不需要表面上的官员，因为这一切都可以在这里完成。"
+ d_U_DPBN_deposit:0 "[U] 行星地堡连接网络"
+ d_U_DPBN_deposit_desc:0 "最根深蒂固的掩体，这个星球本身就是盔甲。 与传统的防御不同，需要一个庞然大物才能打开这些防御。 从字面上看，深度防御。"
+ d_SaHR_ATN_deposit:0 "[SHR] 自治区交通运输网络"
+ d_SaHR_ATN_deposit_desc:0 ""
+ d_U_SC_deposit:0 "[U] 低地教堂"
+ d_U_SC_deposit_desc:0 "一座城市规模的修道院建筑群围绕着一座巨大的拱门。 你所见过的最大的教堂中殿，讲座和过道，以及你曾经祈祷过的最长的长椅。 蠕虫受到称赞！"
+ d_U_USC_deposit:0 "[U] 地下科学城"
+ d_U_USC_deposit_desc:0 ""
+ 
+ # ###################################
+ # Jobs
+ # ###################################
+ 
+ #job_foundry:0 "Metallurgist"
+ #job_foundry_plural:0 "Metallurgists"
+ #job_foundry_desc:0 "Highly trained workers are needed to turn raw 矿工als into the durable alloys that are used in a wide variety of advanced construction."
+ #job_foundry_effect_desc:0 "£job_foundry£ $job_foundry_plural$ turn £矿工als£ §Y$矿工als$§! into £alloys£ §Y$alloys$§!"
+ #mod_job_foundry_add:0 "$job_foundry$ 职位"
+ #mod_job_foundry_per_pop:0 "§G+1§! $job_foundry$ Job per $VALUE$ Pops"
+ #mod_job_foundry_per_pop_short:0 "\n§G+1§! £mod_job_foundry_add£ per $VALUE$ £pop£"
+ 
+ job_spaceship_mechanic:0 "飞船机械师"
+ job_spaceship_mechanic_plural:0 "飞船机械师"
+ job_spaceship_mechanic_desc:0 "飞船机械师"
+ mod_job_spaceship_mechanic_add:0 "$job_spaceship_mechanic$$JOBS_TITLE$"
+ job_spaceship_mechanic_gestalt:0 "航天器维修无人机"
+ job_spaceship_mechanic_gestalt_plural:0 "航天器维修无人机"
+ job_spaceship_mechanic_gestalt_desc:0 "航天器维修无人机"
+ mod_job_spaceship_mechanic_gestalt_add:0 "$job_spaceship_mechanic_gestalt$$JOBS_TITLE$"
+ job_subterranean_prospector:0 "地下勘探者"
+ job_subterranean_prospector_plural:0 "地下勘探者"
+ job_subterranean_prospector_desc:0 "地下勘探者"
+ mod_job_subterranean_prospector_add:0 "$job_subterranean_prospector$$JOBS_TITLE$"
+ job_subterranean_prospector_gestalt:0 "地下勘探无人机"
+ job_subterranean_prospector_gestalt_plural:0 "地下勘探无人机"
+ job_subterranean_prospector_gestalt_desc:0 "地下勘探无人机"
+ mod_job_subterranean_prospector_gestalt_add:0 "$job_subterranean_prospector_gestalt$$JOBS_TITLE$"
+ job_ringworld_prospector:0 "$pc_ringworld_habitable$勘探者"
+ job_ringworld_prospector_plural:0 "$pc_ringworld_habitable$勘探者"
+ job_ringworld_prospector_desc:0 "$pc_ringworld_habitable$勘探者"
+ mod_job_ringworld_prospector_add:0 "$job_ringworld_prospector$$JOBS_TITLE$"
+ job_ringworld_prospector_gestalt:0 "$pc_ringworld_habitable$勘探无人机"
+ job_ringworld_prospector_gestalt_plural:0 "$pc_ringworld_habitable$勘探无人机"
+ job_ringworld_prospector_gestalt_desc:0 "$pc_ringworld_habitable$勘探无人机"
+ mod_job_ringworld_prospector_gestalt_add:0 "$job_ringworld_prospector_gestalt$$JOBS_TITLE$"
+ job_asteroid_prospector:0 "小行星探矿者"
+ job_asteroid_prospector_plural:0 "小行星探矿者"
+ job_asteroid_prospector_desc:0 "小行星探矿者"
+ mod_job_asteroid_prospector_add:0 "$job_asteroid_prospector$$JOBS_TITLE$"
+ job_asteroid_prospector_gestalt:0 "小行星探测无人机"
+ job_asteroid_prospector_gestalt_plural:0 "小行星探测无人机"
+ job_asteroid_prospector_gestalt_desc:0 "小行星探测无人机"
+ mod_job_asteroid_prospector_gestalt_add:0 "$job_asteroid_prospector_gestalt$$JOBS_TITLE$"
+ 
+ # ###################################
+ # Tech
+ # ###################################
+ 
+ tech_MoD_S:0 "行星项目"
+ tech_MoD_S_desc:0 ""
+ tech_MoD_O:0 "轨道发展"
+ tech_MoD_O_desc:0 ""
+ tech_MoD_U:0 "地下发展"
+ tech_MoD_U_desc:0 ""
+ 
+ 
+
+ modifier_O_Max:0 "低轨道广泛开发"
+ modifier_O_Max_desc:0 """"
+ modifier_O_Max_AP:0 "低轨道完全开发"
+ modifier_O_Max_AP_desc:0 """"
+ modifier_U_Max:0 "地下区域广泛开发"
+ modifier_U_Max_desc:0 """"
+ modifier_U_Max_AP:0 "地下区域完全开发"
+ modifier_U_Max_AP_desc:0 """"
+ job_subterranean_Miner:0 "Subterranean 采矿者"
+ job_subterranean_Miner_plural:0 "Subterranean 采矿者s"
+ job_subterranean_Miner_desc:0 "Subterranean 采矿者"
+ mod_job_subterranean_Miner_add:0 "$job_subterranean_Miner$ 职位"
+ job_subterranean_Miner_gestalt:0 "Subterranean Prospection Drone"
+ job_subterranean_Miner_gestalt_plural:0 "Subterranean Prospection Drones"
+ job_subterranean_Miner_gestalt_desc:0 "Subterranean Prospection Drone"
+ mod_job_subterranean_Miner_gestalt_add:0 "$job_subterranean_Miner_gestalt$ 职位"
+ job_ringworld_Miner:0 "环世界采矿者"
+ job_ringworld_Miner_plural:0 "环世界采矿者s"
+ job_ringworld_Miner_desc:0 "环世界采矿者"
+ mod_job_ringworld_Miner_add:0 "$job_ringworld_Miner$ 职位"
+ job_ringworld_Miner_gestalt:0 "环世界勘探无人机"
+ job_ringworld_Miner_gestalt_plural:0 "环世界勘探无人机"
+ job_ringworld_Miner_gestalt_desc:0 "环世界勘探无人机"
+ mod_job_ringworld_Miner_gestalt_add:0 "$job_ringworld_Miner_gestalt$ 职位"
+ job_asteroid_Miner:0 "小行星采矿者"
+ job_asteroid_Miner_plural:0 "小行星采矿者s"
+ job_asteroid_Miner_desc:0 "小行星采矿者"
+ mod_job_asteroid_Miner_add:0 "$job_asteroid_Miner$ 职位"
+ job_asteroid_Miner_gestalt:0 "小行星勘探无人机"
+ job_asteroid_Miner_gestalt_plural:0 "小行星勘探无人机"
+ job_asteroid_Miner_gestalt_desc:0 "小行星勘探无人机"
+ mod_job_asteroid_Miner_gestalt_add:0 "$job_asteroid_Miner_gestalt$ 职位"

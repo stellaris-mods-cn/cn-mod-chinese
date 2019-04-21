@@ -4,11 +4,11 @@
 ##### Written by ZakkerDoodle(Burgermeister) for the Extra Events Mod #####
 ###########################################################################
 
-#§Ywords§ = Yellow Words
-#§Rwords§ = Red Words
-#§Gwords§ = Green Words
-#§Bwords§ = Blue Words
-#§Swords§ = Orange Words
+# §Ywords§ = Yellow Words
+# §Rwords§ = Red Words
+# §Gwords§ = Green Words
+# §Bwords§ = Blue Words
+# §Swords§ = Orange Words
 # \n£blocker = Blocker Picture
 # \n£society = Society Picture
 # \n£engineering = Engineering Picture
@@ -196,7 +196,10 @@
  space_nomads.1.g: "问下他们对宇宙的了解。"
  space_nomads.1.h: "他们知道我们的创世主吗？"
  space_nomads.1.i: "捕获并奴隶他们！"
-
+ space_nomads.1.j: "它们是食物。"
+ space_nomads.1.j: "让他们成为战舰。"
+ space_nomads.1.k: "一个新主人。"
+ 
  space_minerals_category: "轨道上的货船"
  space_minerals_category_desc: "我们的科学家在§Y[Root.GetName]§!轨道上发现了一艘货船。"
  space_minerals.1.name: "轨道上的矿物"
@@ -282,7 +285,6 @@
  sand_creature.1.a: "正确的选择。"
 
  frozen_civilization_category: "冰雪覆盖"
- ##### IDEA AND WRITING BY APPARESO
  frozen_civilization_category_desc: "在§Y[Root.GetName]§!表面似乎有巨型的建筑被包裹在冰层之中。"
  frozen_civilization.1.name: "冰冻文明"
  frozen_civilization.1.desc: "根据§B[Root.GetFleetName]§!船员们的调查，不只是有巨型建筑物，里面还存在着体型庞大的生物。\n\n生物识别扫描显示，他们还活着，他们的科技水平似乎还相当原始。\n\n看起来，是一个场剧变导致这颗星球被冻结，科学家们提出过许多猜测，但没有任何证据。"
@@ -415,6 +417,7 @@
  popup.3.militarist: "我们的军队在干嘛！？"
  popup.3.phobe: "一个外星人，不是开玩笑吧？"
  popup.3.peace: "这只会令我们的人民更加团结。"
+ popup.3.authoritarian:0 "王位周围的混乱已经来临。"
 #
  popup.4.name: "告密者！"
  popup.4.desc: "我们的一位特工将情报泄露给了外国，我们不知道是向谁泄露的情报，但是我们应该做好万全的准备。"
@@ -559,6 +562,10 @@
  murder_event.2.desc: "我们最害怕的事情发生...这并不是开玩笑的死亡威胁...他已经开始行动了。这位死者是一名著名将军的女儿。\n\n在她手上还有一封信: '可怜的女孩。她错过了什么？可能...你太晚了。 -D' \n\n将军会迟些通知你。"
  murder_event.2.a: "找到那个人！"
 
+ murder_event.3.name: "逃脱谋杀"
+ murder_event.3.desc: "我们找不到这个人，但是我们有五个人被杀了。"
+ murder_event.3.a: "该死。"
+ 
  murder_event.4.name: "第二次谋杀"
  murder_event.4.desc: "又一起谋杀案，这次发生在一个外星人在负责对外事务的这段时间内。\n\n躺在地上的外星人旁边的一封信: '这个外星人的时间。你太迟了。-D'"
  murder_event.4.a: "为什么我们还没找到他！？"

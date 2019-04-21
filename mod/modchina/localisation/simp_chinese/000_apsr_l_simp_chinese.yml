@@ -57,6 +57,20 @@
  mod_job_apsr_prospector_machine_add:0 "分析单元"
  
  
+ 
+ ### модификаторы терраформинга
+ 
+ apsr_terraforming_candidate:0 "有价值的星球"
+ apsr_terraforming_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n利用先进的地形学技术，我们可以改变这个星球，使之适合居住。"
+ 
+ apsr_restoration_candidate:0 "有价值的星球"
+ apsr_restoration_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n一旦这颗行星被摧毁，就会引发原子核爆炸。在花费了大量的努力之后，我们可以尝试恢复和重新居住这个星球。"
+ 
+ apsr_unshielded_candidate:0 "有价值的星球"
+ apsr_unshielded_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n曾几何时，这颗行星被一道无法穿透的护盾封闭着。在花费了大量的努力之后，我们可以尝试移除护盾并重新填充这个星球。不幸的是，有了它，星球上所有的生物和机械都将被摧毁。"
+ 
+ 
+ 
  ### новые указы (ЭТО ВРЕМЕННО - СПОЙЛЕР)
  
  edict_apsr_knowledge_to_energy:0 "远古知识 - 能量币"
@@ -79,32 +93,3 @@
  
  edict_apsr_knowledge_to_science:0 "远古知识 - 科研"
  edict_apsr_knowledge_to_science_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以大大加强对我们帝国的研究！"
- 
- 
- 
- ### модификатор для ИИ (скидка на постройку и исследование аномалии)
- 
- AI_discount_APSR:0 "AI加成"
- apsr_unique_building_build_cost_mult:0 "APSR建造成本"
- apsr_unique_building_construction_speed_mult:0 "APSR建造速度"
- apsr1_anomaly_research_speed_mult:0 "APSR异常点 1 研究时间"
- apsr2_anomaly_research_speed_mult:0 "APSR异常点 2 研究时间"
- apsr3_anomaly_research_speed_mult:0 "APSR异常点 3 研究时间"
- apsr4_anomaly_research_speed_mult:0 "APSR异常点 4 研究时间"
- apsr5_anomaly_research_speed_mult:0 "APSR异常点 5 研究时间"
- apsr6_anomaly_research_speed_mult:0 "APSR异常点 6 研究时间"
- apsr7_anomaly_research_speed_mult:0 "APSR异常点 7 研究时间"
- apsr8_anomaly_research_speed_mult:0 "APSR异常点 8 研究时间"
- apsr9_anomaly_research_speed_mult:0 "APSR异常点 9 研究时间"
- apsr10_anomaly_research_speed_mult:0 "APSR异常点 10 研究时间"
- apsr11_anomaly_research_speed_mult:0 "APSR异常点 11 研究时间"
- apsr12_anomaly_research_speed_mult:0 "APSR异常点 12 研究时间"
- apsr13_anomaly_research_speed_mult:0 "APSR异常点 13 研究时间"
- apsr14_anomaly_research_speed_mult:0 "APSR异常点 14 研究时间"
- apsr15_anomaly_research_speed_mult:0 "APSR异常点 15 研究时间"
- apsr16_anomaly_research_speed_mult:0 "APSR异常点 16 研究时间"
- apsr17_anomaly_research_speed_mult:0 "APSR异常点 17 研究时间"
- apsr18_anomaly_research_speed_mult:0 "APSR异常点 18 研究时间"
- apsr19_anomaly_research_speed_mult:0 "APSR异常点 19 研究时间"
- apsr20_anomaly_research_speed_mult:0 "APSR异常点 20 研究时间"
- 

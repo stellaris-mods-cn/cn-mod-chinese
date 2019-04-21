@@ -1,0 +1,44 @@
+﻿l_simp_chinese:
+ job_cocoon:0 "茧护者"
+ job_cocoon_plural:0 "茧护者"
+ job_cocoon_desc:0 "看护人在茧中工作，帮助茧完成日常杂务，如喂食、清洁和保养。"
+
+ building_cocoons_plant:0 "人工茧"
+ building_cocoons_plant_desc:0 "结茧的特殊建筑。"
+ building_cocoons_plant_1:0 "茧洞"
+ building_cocoons_plant_1_desc:0 "这座建筑有一个互相连接的洞穴，里面布满了茧。"
+ building_cocoons_plant_2:0 "茧洞穴"
+ building_cocoons_plant_2_desc:0 "这座建筑有一个布满茧的洞穴网络."
+ 
+ small_ship_swarm_bio:0 "Myrmling"
+ small_ship_swarm_bio_plural:0 "Myrmlings"
+ medium_ship_swarm_bio:0 "Myrmitogaster"
+ medium_ship_swarm_bio_plural:0 "Myrmitogasters"
+ large_ship_carrier_swarm_bio:0 "Aenictus"
+ large_ship_carrier_swarm_bio_plural:0 "Aenictus"
+ queen_swarm_bio:0 "Myrmicean Queen"
+ queen_swarm_bio_plural:0 "Myrmicean女王"
+ 
+ tech_cocoons:0 "人工茧"
+ tech_meat_bug:0 "Myrmling"
+ tech_meat_bag:0 "Myrmitogaster"
+ tech_meat_carrier:0 "Aenictus" 
+ tech_meat_queen:0 "Myrmicean女王" 
+
+ tech_cocoons_desc:0 "允许建立人工茧，在那里你可以繁殖物种。"
+ tech_meat_bug_desc:0 "允许在太空港繁殖Myrmlings。"
+ tech_meat_bag_desc:0 "允许在太空港繁殖Myrmitogaster。
+ tech_meat_carrier_desc:0 "允许在太空港繁殖Aenictus。" 
+ tech_meat_queen_desc:0 "允许在太空港繁殖Myrmicean女王。" 
+ 
+ life_masters_tooltip:0 "茧现在可以从我们的帝国中生长出其他物种。"
+ life_crafters_tooltip:0 "授予在太空港创造太空生物的技术。"
+ 
+ hive_mind_biological_ascension_only1:0 "需要蜂群思维"
+ 
+ ap_life_assemblers:0 "生命汇编"
+ ap_life_assemblers_desc:0 "身体就像一台机器，如果你不保持它的形状，它就会阻碍你。"
+ ap_life_masters:0 "生命之主"
+ ap_life_masters_desc:0 "这些有机物与星系的共振频率相同。我们必须修补有机物。为了统一有机物，我们治愈了银河系。 "
+ ap_life_crafters:0 "生命创造者"
+ ap_life_crafters_desc:0 "艺术从不回应使其民主化的愿望;它并不适合所有人;只有那些愿意付出必要的努力去理解它的人。"

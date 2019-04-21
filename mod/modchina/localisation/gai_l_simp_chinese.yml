@@ -1,0 +1,27 @@
+﻿l_simp_chinese:
+describe_decision_gai_alloy:0 "告诉星区AI将该星球建造为以合金生产为焦点的星球。"
+decision_gai_alloy:0 "GAI 合金焦点"
+decision_gai_alloy_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
+
+describe_decision_gai_alloy_remove:0 "移除该星球的合金焦点"
+decision_gai_alloy_remove:0 "移除合金焦点"
+decision_gai_alloy_remove_desc:0 "移除该星球合金焦点标志"
+
+describe_decision_gai_goods:0 "告诉星区AI将该星球建造为以消费品生产为焦点的星球。"
+decision_gai_goods:0 "GAI 消费品焦点"
+decision_gai_goods_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
+
+describe_decision_gai_goods_remove:0 "移除该星球的消费品焦点"
+decision_gai_goods_remove:0 "移除消费品焦点"
+decision_gai_goods_remove_desc:0 "移除该星球消费品焦点标志"
+
+st_balanced:0 "使用 GAI"
+st_balanced_desc:0 "该星区将会使用Glavius's Ultimate AI mod简化版本的建筑权重。、"
+
+gai_goods_focus:0 "消费品焦点"
+decision_gai_goods_focus:0 "使用决策使焦点失效"
+gai_goods_focus_desc:0 "该焦点仅能在平衡星区焦点设置下使用！
+
+gai_alloy_focus:0 "合金焦点"
+decision_gai_alloy_focus:0 "使用决策使焦点失效"
+gai_alloy_focus_desc:0 "该焦点仅能在平衡星区焦点设置下使用！"
