@@ -11,6 +11,10 @@ d_chrysanthemum_desc:0 "The colony ship Chrysanthemum was dismantled soon after 
 # Blocker
 d_collapsed_sinkhole:0 "Collapsed Sinkhole"
 d_collapsed_sinkhole_desc:0 " A colossal sinkhole once covered most of this region, but it has since collapsed to a more manageable size."
+d_deep_sinkhole_mesa:0 "$d_deep_sinkhole$"
+d_deep_sinkhole_mesa_desc:0 "$d_deep_sinkhole_desc$"
+d_noxious_swamp_bubbling:0 "$d_noxious_swamp$"
+d_noxious_swamp_bubbling_desc:0 "$d_noxious_swamp_desc$"
 d_exofungus_blocker:0 "Exofungus Growth"
 d_exofungus_blocker_desc:0 "The exofungus that has invaded this planet spreads like a cancer, choking the terrain and interfering with infrastructure."
 
@@ -41,6 +45,12 @@ d_ship_graveyard:0 "Starship Graveyard"
 d_ship_graveyard_desc:0 "A multitude of starships have crashed here, creating a figurative graveyard full of materials to scavenge."
 d_giant_pearls:0 "Giant Mollusks"
 d_giant_pearls_desc:0 "This world is home to large species of mollusks, known for producing large and valuable pearls."
+d_cunning_flora_perimeter_1:0 "Basic Defensive Perimeter"
+d_cunning_flora_perimeter_1_desc:0 "A basic defensive perimeter defends our settlements from the hostile native plant life."
+d_cunning_flora_perimeter_2:0 "Defensive Perimeter"
+d_cunning_flora_perimeter_2_desc:0 "A defensive perimeter defends our settlements from the hostile native plant life."
+d_cunning_flora_perimeter_3:0 "Complete Defensive Perimeter"
+d_cunning_flora_perimeter_3_desc:0 "Defensive perimeters encircle most of the planet, defending our settlements from the hostile native plant life."
 
 # Special System
 d_presidium:0 "Presidium "
@@ -154,6 +164,12 @@ dportal_unhappy_researchers_hive_desc:0 "The corrupting influence of the dimensi
 dportal_unhappy_researchers_machine:0 "Portal Corruption"
 dportal_unhappy_researchers_machine_desc:0 "The corrupting influence of the dimensional portal has resulted in decreased efficiency of calculator drones on this world."
 dportal_unhappy_researchers:0 "Unhappy Researchers"
+dportal_jump_drive_researchers:0 "Mirror Universe Research"
+dportal_jump_drive_researchers_desc:0 "Our researchers on this world are helping our mirror counterpart investigate ways to close Warp breaches, at the expense of their own research."
+xenophobe_tension:0 "Xenophobic Tensions"
+xenophobe_tension_desc:0 "Tensions have flared between alien migrants and the native population."
+xenophilic_relations:0 "Embraced Xenos"
+xenophilic_relations_desc:0 "The native population have come to accept their alien neighbors."
 
 methane_biosphere:0 "Methane Biosphere"
 methane_biosphere_desc:1 "This toxic world is home to a rare ecology where life uses methane instead of water as a solvent. These methane-based life forms have developed in unique ways, and studying them would advance our understanding of biology."
@@ -180,6 +196,11 @@ dathnak_using_computers:0 "Background Calculations"
 dathnak_using_computers_desc:0 "The Dathnak are borrowing our computer systems for their scientific calculations."
 dportal_lasers:0 "Improved Lasers"
 dportal_lasers_desc:0 "Weapons research against the Warp beasts have given us new insights into improving our laser weaponry."
+
+approved_xeno_rights_good:0 "Passed Xeno Rights"
+approved_xeno_rights_bad:0 "Gave Rights to Xenos"
+rejected_xeno_rights_good:0 "Preserved Native Privileges"
+rejected_xeno_rights_bad:0 "Rejected Xeno Rights"
 
 
 ####################################

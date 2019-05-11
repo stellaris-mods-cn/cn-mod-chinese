@@ -124,3 +124,14 @@ job_zro_harvesting_drone:0 "Zro Harvesting Drone"
 job_zro_harvesting_drone_plural:0 "Zro Harvesting Drones"
 job_zro_harvesting_drone_desc:1 "Due to the voracous nature of the world's native life, the drones who specialize in mining the zro-infused minerals have a high turnover rate."
 mod_job_zro_harvesting_drone_add:0 "$job_zro_harvesting_drone$ Jobs"
+
+####################################
+# 	Decisions and Edicts
+####################################
+
+decision_cunning_flora_perimeter_1:0 "Expand Defensive Perimeter"
+decision_cunning_flora_perimeter_1_desc:0 "Send in soldiers to drive back the aggressive plant life and clear out a defensive perimeter around our settlements, allowing us to make use of more of this world."
+decision_cunning_flora_perimeter_1_effects:0 "$decision_cunning_flora_perimeter_1_desc$"
+decision_cunning_flora_perimeter_2:0 "Complete Defensive Perimeter"
+decision_cunning_flora_perimeter_2_desc:0 "Send in soldiers to drive back the aggressive plant life and clear out a defensive perimeter around our settlements, allowing us to make full use of this world."
+decision_cunning_flora_perimeter_2_effects:0 "$decision_cunning_flora_perimeter_2_desc$"
