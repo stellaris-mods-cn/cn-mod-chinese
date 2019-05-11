@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
 decision_transform_into_awesome: "高级构念"
 decision_transform_into_awesome_desc: "为了让这个星球能够支持更先进的基础设施，$building_major_capital$必须变得更令人敬畏和鼓舞人心。"
 
@@ -69,19 +70,19 @@ building_super_assembly_machine_desc: "采用强光技术，这座建筑可以�
 building_ae_super_assembly_machine: "纳米机器装配"
 building_ae_super_assembly_machine_desc: "在装配线上引入纳米技术使我们有更多的空间来安装额外的协议单元。"
 
-building_giga_fortress: "超巨型"
-building_giga_fortress_desc: "超巨型是一个泰坦级的、自给自足的行星要塞，装备了三个战列舰级别的超高速火炮和其他各种防御系统，以及一支庞大的驻军部队。它的存在激发了所有公民的信心，消除了任何动荡的可能性，因为任何敢于反抗的人都会很快被消灭。"
+building_giga_fortress: "千兆要塞"
+building_giga_fortress_desc: "千兆要塞是一个泰坦级的、自给自足的行星要塞，装备了三个战列舰级别的超高速火炮和其他各种防御系统，以及一支庞大的驻军部队。它的存在激发了所有公民的信心，消除了任何动荡的可能性，因为任何敢于反抗的人都会很快被消灭。"
 
-building_giga_fortress_array: "超巨型-战略中心"
+building_giga_fortress_array: "千兆要塞-战略中心"
 building_giga_fortress_array_desc: "战略中心模块连接堡垒超级计算机和帝国舰队，以实现完美协调。而一个战术大师也将作为战术战略分析师入驻。"
 
-building_giga_fortress_lab: "超巨型-权力中心"
+building_giga_fortress_lab: "千兆要塞-权力中心"
 building_giga_fortress_lab_desc: "权力中心让我们的一些政治领袖转移到堡垒内，增加了我们帝国的凝聚力和上层管理，并且拥有更大的影响力。"
 
-building_giga_fortress_obelisk: "超巨型-光之方尖碑"
+building_giga_fortress_obelisk: "千兆要塞-光之方尖碑"
 building_giga_fortress_obelisk_desc: "安装的方尖碑的光模块大大加强了堡垒的防御能力，并为我们的军队提供额外的训练场地。此外，还将安装额外的生成器来提供暗能量和暗物质。"
 
-building_giga_fortress_fe: "古代超巨型要塞"
+building_giga_fortress_fe: "古代千兆堡垒"
 building_giga_fortress_fe_desc: "一个古老的，但仍然非常强大的泰坦级别的自我维持行星堡垒，配备有反入侵机制。炸毁原始人或野生动物是这些享乐主义者仍然享受的事情之一，因为这仍然被认为是“工作”"
 
 building_fe_mineral_processing_plant: "先进矿物加工设备"
@@ -232,8 +233,8 @@ tech_fe_war_factory_desc: "虽然我们的入侵部队目前的战斗代码已�
 tech_infinity_engine: "无限计算"
 tech_infinity_engine_desc: "有了从先驱者数据库中获取的更新后的代码，有机概率计算现在已经是微不足道的任务了。我们将全面控制他们的经济。我们会到达无限。"
 
-tech_fe_communication_nexus: "人工星系"
-tech_fe_communication_nexus_desc: "科学单元报告，<30级奇点>最终会来临。 <原因> =有机体不合逻辑的决定将引发银河规模的破坏。我们必须为这种不可避免的愚蠢做好准备，因为有机体没有坚持自我的毅力。"
+tech_fe_communication_nexus: "暗能量分布"
+tech_fe_communication_nexus_desc: "我们已经开始在我们的机器单元中安装暗物质核心，但是我们已经发现我们可以把暗能量转换成包含表面空气的无形形式。预计这将提高所有工作单位的处理能力。"
 
 tech_fe_slave_processing: "无垢者"
 tech_fe_slave_processing_desc: "奴隶很便宜，容易控制，但并不总是有效的。他们在对抗经验丰富的军队时表现得非常糟糕。作为一个飞升帝国，这是不应该的，这是站不住脚的。我们将训练新一代的奴隶士兵，从出生开始就被训练成为我们对抗群星坚强意志的终极象征。"
@@ -250,7 +251,7 @@ requires_building_fe_capital: "§R为了进一步完善这座建筑，需要一�
 requires_building_fe_capital_machine: "§R为了进一步完善这座建筑，需要一个神秘首都综合体。从行星决策中选择建造黑暗枢纽！§!"
 requires_building_fe_capital_hive: "§R为了进一步完善这座建筑，需要一个神秘首都综合体。从行星决策选择进化暗黑巢穴！§!"
 
-#######################BUIULDINGSDASDHASHDH ASHLEY WTF WHY YOUR PANTIES IS WHITE?###################
+#######################BUIULDINGSDASDHASHDH ASHLEY WTF WHY YOUR PANTIES IS WHITE？###################
 
 building_stellarite_generator: "星能量发电机"
 building_stellarite_generator_desc: "很壮观，不是吗？创造一颗人造的恒星，在那里我们可以提取它的力量来满足我们内心的欲望。我们所有的反对意见都将化为泡影。地狱是的!"
@@ -303,7 +304,7 @@ building_fe_food_processing_complex_desc: "由中央暗物质设施驱动的多�
 building_ae_food_processing_complex: "农业巨型复合体"
 building_ae_food_processing_complex_desc: "星球上是否没有绿色并不重要，因为绿色无处不在，而绿色是好的。"
 
-building_fe_ancient_cryo_chamber: "δ维修中心"
+building_fe_ancient_cryo_chamber: "Δ维修中心"
 building_fe_ancient_cryo_chamber_desc: "这个先进的建筑容纳了各种各样的维护设施，以保持持续的、高效的生产力。"
 
 building_ae_ancient_cryo_chamber: "α停滞核心"

@@ -326,7 +326,7 @@ fallenorigin.1.ask_origin_mat_response: "这是一个复杂的故事。我们不
 ##FE Materialist - 光物质?
 fallenorigin.1.ask_light_mat_response: ""§Y光物质力量§!"是一种假设的能量来源，具有无与伦比的效力，被始源帝国专用。不幸的是，我们不知道它是如何工作的，我们自己也不能复制它来验证……不要问为什么。多年来，我们一直试图向始源帝国索取这种技术的样品，但没有成功。但至少在我们追求这一知识的过程中，我们能够将新研究和人类的创造力结合起来，创造出现在被称为§H暗物质能量§!的东西。虽然它远不及光物质那么强大，但它在银河系的极端普遍存在，支持了我们对抗始源帝国的战争努力，以更好的条件与它们作战。如果您曾经获得过光物质力量的样本，请立即发送给我们的一位科学家。你们将会因为你们对银河系的贡献而得到很好的补偿。"
 
-fallenorigin.1.ene: "传输结束"
+fallenorigin.1.end: "传输结束"
 ##FE Machine (Caretaker awakens) - Note here, in contrast to Contingency, of which Caretaker will fail to boost it’s processor, and is also being hacked by the crisis. The Caretakers will successfully boost to 100% resulting it being less dumb and more powerful as it’s also not being hacked.
 fallenorigin.2.name: "机器的觉醒"
 fallenorigin.2.desc_01: "§R<<警告!警告!>>§!检测指定出现的异物:外星门。复活协议。试图联系中央处理……\n\n §Y<<成功>><<所有系统全面运行>>§!\n\n中央处理提高§Y200.1337%§!标准能力。采用最大防御矩阵协议…船厂系统全功率…激活战争资产……\n\n永久警惕指令启动。现在显示录制的消息:\n§H听着，你是[From.GetSpeciesName]的看守单位，是为了对抗始源帝国而建立的。你的首要指令是保护所有有情众生不受先祖的威胁。这就是你的使命。\n\n§Y<<命令接受>> <<验证先祖实体>>§!\n\n§Y开始任务。§!"

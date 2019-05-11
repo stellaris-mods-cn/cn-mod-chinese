@@ -1,55 +1,6 @@
 ﻿l_simp_chinese:
-
 ### SHIP TEXTS
 
-FE_ESCORT_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (蜂群)"
-FE_ESCORT_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_ESCORT_COMBAT_COMPUTER_2:0 "护航舰仿生接口战斗计算机 (哨戒)"
-FE_ESCORT_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_ESCORT_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (线列)"
-FE_ESCORT_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_ESCORT_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (炮兵)" 
-FE_ESCORT_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_BATTLECRUISER_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (哨戒)"
-FE_BATTLECRUISER_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_BATTLECRUISER_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (线列)"
-FE_BATTLECRUISER_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_BATTLECRUISER_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (炮兵)"
-FE_BATTLECRUISER_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_BATTLECRUISER_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (狙击)"
-FE_BATTLECRUISER_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_TITAN_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
-FE_TITAN_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_TITAN_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
-FE_TITAN_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_TITAN_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
-FE_TITAN_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_TITAN_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)"
-FE_TITAN_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_GOLIATH_COMBAT_COMPUTER_1:0 "仿生接口战斗计算机 (线列)"
-FE_GOLIATH_COMBAT_COMPUTER_1_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_GOLIATH_COMBAT_COMPUTER_2:0 "仿生接口战斗计算机 (炮兵)"
-FE_GOLIATH_COMBAT_COMPUTER_2_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_GOLIATH_COMBAT_COMPUTER_3:0 "仿生接口战斗计算机 (狙击)"
-FE_GOLIATH_COMBAT_COMPUTER_3_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_GOLIATH_COMBAT_COMPUTER_4:0 "仿生接口战斗计算机 (长距离)" 
-FE_GOLIATH_COMBAT_COMPUTER_4_DESC:0 "这艘先进的船使用独特的战斗计算机，与机组人员形成仿生联系。 它不受所有入侵企图的影响，并拥有无与伦比的战斗算法。"
-FE_TOWER_COMBAT_COMPUTER:0 "仿生接口战斗计算机 (空间站)" 
-FE_TOWER_COMBAT_COMPUTER_DESC:0 "这种先进的防御系统利用独特的战斗计算机，与该站的炮手形成仿生链接。 它旨在以无情的效率消灭来自银河系的所有威胁。"
-
-FE_ESCORT_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的舰船提供动力。 该船专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力"
-FE_BATTLECRUISER_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_BATTLECRUISER_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的舰船提供动力。 该船专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力"
-FE_TITAN_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_TITAN_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这艘先进的舰船提供动力。 该船专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力"
-FE_GOLIATH_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_GOLIATH_DARK_MATTER_REACTOR_DESC:0 "歌利亚级母舰拥有数以千计的硬件，设备和武器系统。 为它们供电需要大量能量，其中只有基于暗物质的反应堆才能提供。"
-FE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗站提供动力。 该站专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力。"
-FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "暗物质反应堆"
-FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "只有暗物质才能为这个功能齐全的战斗站提供动力。 该站专门用于绘制和维持暗物质能量的平衡，释放反应堆的最大潜力。"
- 
 ### CRISIS STUFFSH ####
 
 SMALL_ACOT_LASER_AI: "小型应急清洁激光"
@@ -72,7 +23,7 @@ ACOT_ENERGY_TORPEDO_AI_DESC: "病毒可以繁殖，它们是瘟疫。 因此，�
 ACOT_POINT_DEFENSE_AI: "应急恶意软件杀手"
 ACOT_POINT_DEFENSE_AI_DESC: "恶意软件不是那么致命，但可能会有问题。 值得庆幸的是，Ren-Miruu知道如何解决所有问题。"
 
-ACOT_PARTICLE_LANCE_AI: "应急系统重启干嘛"
+ACOT_PARTICLE_LANCE_AI: "应急系统重启枪"
 ACOT_PARTICLE_LANCE_AI_DESC: "在此过程耗时太长的时刻，重新启动系统，然后重试。"
 
 ACOT_PERDITION_BEAM_AI: "应急系统复位波束"
@@ -248,12 +199,12 @@ ACOT_EDI_COMPUTER_TITAN: "维度灵能作战电脑 (泰坦)"
 ACOT_EDI_COMPUTER_TITAN_DESC: "我们很多，你只是一个。我们会毁了你。"
 
 ACOT_EDI_COMPUTER_STATION: "维度灵能作战电脑 (AFK)"
-ACOT_EDI_COMPUTER_STATION_DESC: "听着，伙计，我是台作战电脑。这意味着我要解决问题。不是像“什么是巡洋舰垃圾?”，因为这属于你的星际元游戏难题的范围。/n/n我解决实际问题。我怎样才能阻止拥有OP的星际玩家舰队把我撕成一个在结构上多余的新角色?就像这个灵能超维度站，完全屏蔽，由我设计，由我制造，你最好希望……不是指着你。"
+ACOT_EDI_COMPUTER_STATION_DESC: "听着，伙计，我是台作战电脑。这意味着我要解决问题。不是像“什么是巡洋舰垃圾？”，因为这属于你的星际元游戏难题的范围。/n/n我解决实际问题。我怎样才能阻止拥有OP的星际玩家舰队把我撕成一个在结构上多余的新角色？就像这个灵能超维度站，完全屏蔽，由我设计，由我制造，你最好希望……不是指着你。"
 
 titan_ship_ed: "维度泰坦"
 
 tech_point_defense_edi: "心灵风暴"
-tech_point_defense_edi_desc: "入侵者本身没有物理点防御。但它们的飞船通过每艘飞船内部的特殊装置发射强大的心灵风暴。似乎这些装置可以适用于任何人，甚至那些可能没有灵能的人。也许入侵者最初不是灵能的?"
+tech_point_defense_edi_desc: "入侵者本身没有物理点防御。但它们的飞船通过每艘飞船内部的特殊装置发射强大的心灵风暴。似乎这些装置可以适用于任何人，甚至那些可能没有灵能的人。也许入侵者最初不是灵能的？"
 
 tech_titan_edi: "裂谷发生器"
 tech_titan_edi_desc: "裂谷发生器，也被称为恐怖之眼撕裂，打开了空间的结构，创造了一个可怕的眩目的裂谷空间，试图吞噬一切。大多数护盾都能承受巨大的拉力，但是没有shich保护的船只很可能再也看不到这个星系了."
@@ -305,15 +256,23 @@ building_ae_ancient_cryo_chamber_desc: "是的，制造一个废弃的低温室�
 
 tech_ae_affluence_center: "工匠需要完美"
 tech_ae_affluence_center_desc: "创造消费品不仅仅是为了满足人们的需求，而是以一种令人难以置信的方式来满足他们。我们的艺术作品和产品将是首屈一指的。"
-
-tech_ae_ancient_cryo_chamber: "建造适当的低温室"
-tech_ae_ancient_cryo_chamber_desc: "建造一个破旧的冷冻室来关押罪犯并不是很好的投资，这并不是什么大发现，这让我们的帝国看起来非常愚蠢。让我们再试一次，这次把它做好。"
-
 tech_ae_class_4_singularity: "第六类奇点，让我们做吧!"
-tech_ae_class_4_singularity_desc: "我们在先驱者档案中看到了关于“永远不要达到30类奇点”的多次引用。这意味着将系统升级4次是安全的。等得太久了。一个?太少。\n\n现在我们用两个，它是第六类奇点。"
+tech_ae_class_4_singularity_desc: "我们在先驱者档案中看到了关于“永远不要达到30类奇点”的多次引用。这意味着将系统升级4次是安全的。等得太久了。一个？太少。\n\n现在我们用两个，它是第六类奇点。"
 
 tech_ae_dimensional_fabricator: "维度起始"
 tech_ae_dimensional_fabricator_desc: "在不同的维度中，也有其他人经常使用相同的行为从另一个人那里偷东西，而不被注意到。我们也要把属于我们的夺去。我们将拯救银河系，从我们讨厌的人身上拿走东西，然后从我们爱的人身上拿走东西。"
 
 tech_ae_sky_dome: "模因表现"
 tech_ae_sky_dome_desc: "模因是灵魂的DNA。不是自由，甚至不是宗教。让某人接触足够多的模因，他们就会学会欣赏艺术。所有的模因，所有的传递。要么模因，要么被模因，杰克。"
+
+tech_ae_empyrean_shrine: "信仰的合唱"
+tech_ae_empyrean_shrine_desc: "我们的影响必须遍及整个星球。让其他人听到神的敬畏和恐惧。让他们见证我们对这项事业的承诺，只要一提到战舰大小的大教堂，他们就会跪倒在地。"
+
+tech_ae_master_archive: "古代记录"
+tech_ae_master_archive_desc: "我们不能只看未来，因为过去本身就蕴藏着无数可以探索的秘密。我们将研究它们，学习它们，掌握它们。然后我们会吃。"
+
+tech_ae_nano_forge: "暗黑锻造"
+tech_ae_nano_forge_desc: "如果它存在，我们就会找到它们。如果它不存在，我们将创建它们。从工程队的法典中——第二章：1337页。"
+
+tech_ae_nourishment_center: "银河美食"
+tech_ae_nourishment_center_desc: "最近一直有传言说，帝国之间有多种美食交流。有许多好的选择，但也有一些糟糕的选择。这是不可接受的，我们必须确保我们帝国里的所有食物，无论来源如何，都永远是美味的。尽管如此，有些人仍然抗议不要把蜗牛在披萨上。"

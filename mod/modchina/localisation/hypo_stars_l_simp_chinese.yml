@@ -58,7 +58,7 @@
  
  tech_mine_antimatter:0 "反物质提取"
  tech_mine_antimatter_desc:0 "新发现的方法可以成功地从反物质星中提取反物质，用于武器和研究。"
- 
+
  pc_antimatter_star:0 "反物质恒星"
  pc_antimatter_star_desc:1 "它看起来像普通的恒星，但实际上它是由反物质构成的，所以它对任何靠近它的物质都会产生剧烈的反应。"
  sc_antimatter_star:0 "反物质恒星"
@@ -71,6 +71,8 @@
  sc_hypo_binary_1:0 "§H双星星系 (黑洞, 奇异星)§!"
  sc_hypo_binary_2:0 "§H双星星系 (奇异星, 脉冲星)§!"
  sc_hypo_binary_3:0 "§H双星星系 (奇异星, 白矮星)§!"
+ sc_hypo_binary_3_rs:0 "§H双星星系 (奇异星, 白矮星)§!"
+ sc_hypo_binary_3_msc:0 "§H双星星系 (奇异星, 白矮星)§!"
  sc_hypo_binary_4:0 "§H双星星系 (黑洞, 蓝矮星)§!"
  
  # Edicts

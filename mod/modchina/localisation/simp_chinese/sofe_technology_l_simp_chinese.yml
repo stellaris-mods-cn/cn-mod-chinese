@@ -277,9 +277,6 @@ terrible_original_desc: "蝙蝠侠啊啊...蝙蝠侠啊啊啊啊 蝙蝠侠啊啊
 tech_gatekeepers: "守护者建设"
 tech_gatekeepers_desc: "虽然最初设计为守护者，但守护者仍然是一艘非常强大的舰船，其设计具有多种武器系统，并且非常耐用。"
 
-tech_fe_assault_carrier: "突击航母蓝图"
-tech_fe_assault_carrier_desc: "人们发现，先驱者运输船体的最初用途是作为一艘强大的突击航母。但是由于他们对任何事情都有可怕的能力，他们没能正确地做到这一点。"
-
 tech_psionic_archon: "灵能执政官"
 tech_psionic_archon_desc: "楔石似乎有一个隐藏的功能。基于在古代使用的相同方法，可以通过自愿的容器(无论是有机的还是机械的)引导楔石的力量来创建灵能执政官。结果就是一个非常强大，可以统治地面战场的灵能执政官。"
 
@@ -340,9 +337,6 @@ TECH_UNLOCK_OMEGA_GATEKEEPER_DESC: "§Y欧米伽级舰船分区:§! $tech_omega_
 INNER_GATE: "内星门"
 OUTER_GATE: "外星门"
 
-mod_shipsize_fe_assault_carrier_hull_add: "突击航母舰体值"
-mod_shipsize_fe_small_station_hull_add: "先驱者哨站舰体值"
-mod_shipsize_fe_large_station_hull_add: "先驱者塔舰体值"
 mod_shipsize_sofe_gatekeeper_warden_hull_add: "守护者舰体值"
 
 progenitor_escort: "守护神"
@@ -383,9 +377,6 @@ sofe_ancient_archon_servant_plural: "古代灵能仆人"
 sofe_ancient_archon_thrall: "探测警告者"
 sofe_ancient_archon_thrall_plural: "探测警告者"
 
-fe_assault_carrier: "先驱者突击航母"
-fe_assault_carrier_plural: "先驱者突击航母"
-
 SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "守护者脊柱"
 SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "守护者关键点"
 SOFE_GATEKEEPER_WARDEN_MID_KEY: "守护者外核心"
@@ -400,16 +391,6 @@ SOFE_GATEKEEPER_OMEGA_STERN_KEY: "欧米伽级守护者内核心"
 SOFE_AEGIS_GUARD_SPINAL_KEY: "宙斯盾塔A"
 SOFE_AEGIS_GUARD_MID_KEY: "宙斯盾核心"
 SOFE_AEGIS_GUARD_STERN_KEY: "宙斯盾塔B"
-
-sofe_assault_carrier_spinal_section: "突击航母脊柱"
-sofe_assault_carrier_hanger1_section: "突击航母机库 A"
-sofe_assault_carrier_hanger2_section: "突击航母机库 B"
-sofe_assault_carrier_hanger3_section: "突击航母机库 C"
-
-sofe_original_assault_carrier_spinal_section: "欧米伽级突击航母脊柱"
-sofe_original_assault_carrier_hanger1_section: "欧米伽级突击航母机库 A"
-sofe_original_assault_carrier_hanger2_section: "欧米伽级突击航母机库 B"
-sofe_original_assault_carrier_hanger3_section: "欧米伽级突击航母机库 C"
 
 FE_LARGE_STATION_OFFENSE_TITANIC: "屠异360无范围分区"
 FE_LARGE_STATION_OFFENSE_HEAVY: "屠异哨塔火炮分区"
@@ -695,4 +676,8 @@ job_sofe_lifebinder_desc: "每一个先祖的存在都是由两种合成构成�
 mod_job_sofe_lifebinder_add: "$job_sofe_lifebinder$"
 
 name_list_ORIGIN: "先祖"
+
+auth_sofe_ancients: "§Y上古之力§!"
+auth_sofe_ancients_desc: "§Y这种权威自古就存在;派别的概念是可笑的，伦理是幼稚的天真。只有一个使命，一个目标。一个领导帝国的领袖，如果这个领袖被证明是不称职的，另一个将会出现。§!"
+
 name_list_ORIGIN_desc: "模因,杰克。"

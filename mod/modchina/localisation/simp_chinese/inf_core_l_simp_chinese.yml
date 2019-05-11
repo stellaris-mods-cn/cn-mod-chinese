@@ -1,0 +1,230 @@
+﻿l_simp_chinese:
+
+
+#########################################
+# INFINITY STONE NAMES
+########################################
+ sr_infinity_stone_soul:0 "灵魂宝石"
+ sr_infinity_stone_soul_desc:0 "§H$sr_infinity_stone_soul$§!将赋予我们超越生命的力量以及感知存在的基础。\n可由§Y$sr_infinity_stone_mind$§!和§R$sr_infinity_stone_reality$§!强化"
+ sr_infinity_stone_mind:0 "心灵宝石"
+ sr_infinity_stone_mind_desc:0 "§Y$sr_infinity_stone_mind$§!可以让我们拥有绝对控制所有众生的认知的能力。\n可由§H$sr_infinity_stone_soul$§!和§M$sr_infinity_stone_power$§!强化"
+ sr_infinity_stone_reality:0 "现实宝石"
+ sr_infinity_stone_reality_desc:0 "§R$sr_infinity_stone_reality$§!似乎能够从根本上改变限制我们的物质世界的定律。\n可由§H$sr_infinity_stone_soul$§!和§G$sr_infinity_stone_time$§!强化"
+ sr_infinity_stone_power:0 "力量宝石"
+ sr_infinity_stone_power_desc:0 "§M$sr_infinity_stone_power$§!产生能量的能力似乎违反了物理定律。我们只能想象它具有破坏性的潜力。\n可由§Y$sr_infinity_stone_mind$§!和§B$sr_infinity_stone_space$§!强化"
+ sr_infinity_stone_time:0 "时间宝石"
+ sr_infinity_stone_time_desc:0 "§G$sr_infinity_stone_time$§!可以通过不可能的方式操纵时间。这种控制的应用应该有一个限制。\n可由§R$sr_infinity_stone_reality$§!和§B$sr_infinity_stone_space$§!强化"
+ sr_infinity_stone_space:0 "空间宝石"
+ sr_infinity_stone_space_desc:0 "§B$sr_infinity_stone_space$§!似乎与空间结构有着相互作用。对星际国家而言是一种非常宝贵的能力。\n可由§M$sr_infinity_stone_power$§!和§G$sr_infinity_stone_time$§!强化"
+
+ d_infinity_stone_soul:0 "存在灵魂宝石"
+ d_infinity_stone_mind:0 "存在心灵宝石"
+ d_infinity_stone_reality:0 "存在现实宝石"
+ d_infinity_stone_power:0 "存在力量宝石"
+ d_infinity_stone_time:0 "存在时间宝石"
+ d_infinity_stone_space:0 "存在空间宝石"
+
+#########################################
+# TECH
+#########################################
+
+ tech_infinity_stone_soul:0 "灵魂宝石掌控"
+ tech_infinity_stone_soul_desc:0 ""
+ tech_infinity_stone_mind:0 "心灵宝石掌控"
+ tech_infinity_stone_mind_desc:0 ""
+ tech_infinity_stone_reality:0 "现实宝石掌控"
+ tech_infinity_stone_reality_desc:0 ""
+ tech_infinity_stone_power:0 "力量宝石掌控"
+ tech_infinity_stone_power_desc:0 ""
+ tech_infinity_stone_time:0 "时间宝石掌控"
+ tech_infinity_stone_time_desc:0 ""
+ tech_infinity_stone_space:0 "空间宝石掌控"
+ tech_infinity_stone_space_desc:0 ""
+
+#########################################
+# MODIFIERS
+#########################################
+
+ #灵魂宝石
+ infinity_stone_soul_base:0 "灵魂宝石 - 等级I"
+ infinity_stone_soul_with_mind:0 "灵魂宝石 - 等级II§Y（心灵）§!"
+ infinity_stone_soul_with_reality:0 "灵魂宝石 - 等级II§R（现实）§!"
+ infinity_stone_soul_completed:0 "灵魂宝石 - 等级III"
+
+ infinity_stone_soul_base_desc:0 "我们已经开始掌控灵魂宝石的能力"
+ infinity_stone_soul_with_mind_desc:0 "我们已经强化了掌控灵魂宝石的能力"
+ infinity_stone_soul_with_reality_desc:0 "我们已经强化了掌控灵魂宝石的能力"
+ infinity_stone_soul_completed_desc:0 "我们已经完全掌控灵魂宝石的能力"
+
+ #心灵宝石
+ infinity_stone_mind_base:0 "心灵宝石 - 等级I"
+ infinity_stone_mind_with_soul:0 "心灵宝石 - 等级II§H（灵魂）§!"
+ infinity_stone_mind_with_power:0 "心灵宝石 - 等级II§M（力量）§!"
+ infinity_stone_mind_completed:0 "心灵宝石 - 等级III"
+
+ infinity_stone_mind_base_desc:0 "我们已经开始掌控心灵宝石的能力"
+ infinity_stone_mind_with_soul_desc:0 "我们已经强化了掌控心灵宝石的能力"
+ infinity_stone_mind_with_power_desc:0 "我们已经强化了掌控心灵宝石的能力"
+ infinity_stone_mind_completed_desc:0 "我们已经完全掌控心灵宝石的能力"
+
+ #现实宝石
+ infinity_stone_reality_base:0 "现实宝石 - 等级I"
+ infinity_stone_reality_with_soul:0 "现实宝石 - 等级II§H（灵魂）§!"
+ infinity_stone_reality_with_time:0 "现实宝石 - 等级II§G（时间）§!"
+ infinity_stone_reality_completed:0 "现实宝石 - 等级III"
+
+ infinity_stone_reality_base_desc:0 "我们已经开始掌控现实宝石的能力"
+ infinity_stone_reality_with_soul_desc:0 "我们已经强化了掌控现实宝石的能力"
+ infinity_stone_reality_with_time_desc:0 "我们已经强化了掌控现实宝石的能力"
+ infinity_stone_reality_completed_desc:0 "我们已经完全掌控现实宝石的能力"
+
+ #力量宝石
+ infinity_stone_power_base:0 "力量宝石 - 等级I"
+ infinity_stone_power_with_mind:0 "力量宝石 - 等级II§Y（心灵）§!"
+ infinity_stone_power_with_space:0 "力量宝石 - 等级II§B（空间）§!"
+ infinity_stone_power_completed:0 "力量宝石 - 等级III"
+
+ infinity_stone_power_base_desc:0 "我们已经开始掌控力量宝石的能力"
+ infinity_stone_power_with_mind_desc:0 "我们已经强化了掌控力量宝石的能力"
+ infinity_stone_power_with_space_desc:0 "我们已经强化了掌控力量宝石的能力"
+ infinity_stone_power_completed_desc:0 "我们已经完全掌控力量宝石的能力"
+
+ #时间宝石
+ infinity_stone_time_base:0 "时间宝石 - 等级I"
+ infinity_stone_time_with_reality:0 "时间宝石 - 等级II§R（现实）§!"
+ infinity_stone_time_with_space:0 "时间宝石 - 等级II§B（空间）§!"
+ infinity_stone_time_completed:0 "时间宝石 - 等级III"
+
+ infinity_stone_time_base_desc:0 "我们已经开始掌控时间宝石的能力"
+ infinity_stone_time_with_reality_desc:0 "我们已经强化了掌控时间宝石的能力"
+ infinity_stone_time_with_space_desc:0 "我们已经强化了掌控时间宝石的能力"
+ infinity_stone_time_completed_desc:0 "我们已经完全掌控时间宝石的能力"
+
+ #空间宝石
+ infinity_stone_space_base:0 "空间宝石 - 等级I"
+ infinity_stone_space_with_power:0 "空间宝石 - 等级II§M（力量）§!"
+ infinity_stone_space_with_time:0 "空间宝石 - 等级II§G（时间）§!"
+ infinity_stone_space_completed:0 "空间宝石 - 等级III"
+
+ infinity_stone_space_base_desc:0 "我们已经开始掌控空间宝石的能力"
+ infinity_stone_space_with_power_desc:0 "我们已经强化了掌控空间宝石的能力"
+ infinity_stone_space_with_time_desc:0 "我们已经强化了掌控空间宝石的能力"
+ infinity_stone_space_completed_desc:0 "我们已经完全掌控空间宝石的能力"
+
+ #GOD MODE
+ infinity_stone_god_mode:0 "无限宝石"
+ infinity_stone_god_mode_desc:0 "我们完全掌控了所有存在的事物"
+
+ #PLANET MODIFIERS
+ terraforming_candidacy_suppressed:0 "地貌改造候选抑制"
+ terraforming_candidacy_suppressed_desc:0 "至少一颗无限宝石的存在限制了这颗星球的可居住性。"
+
+#########################################
+# DECISIONS
+########################################
+ decision_inf_any_transfer_at_war_tooltip:0 "在战争中移动无限宝石太难了"
+ #灵魂宝石
+ decision_inf_soul_transfer:0 "将灵魂宝石转移到这里"
+ decision_inf_soul_transfer_desc:0 "将这颗星球作为§H灵魂§!宝石的下一个家"
+ decision_inf_soul_transfer_no_tech_tooltip:0 "在移动之前，我们必须有对应的可以来掌控§H灵魂§!宝石"
+ decision_inf_soul_transfer_no_control_tooltip:0 "我们必须掌控§H灵魂§!宝石"
+ decision_inf_soul_transfer_effect:0 "将§H灵魂§!宝石从[soul_stone_planet.GetName]移动到[ROOT.GetName]"
+ #现实宝石
+ decision_inf_reality_transfer:0 "将现实宝石转移到这里"
+ decision_inf_reality_transfer_desc:0 "将这颗星球作为§R现实§!宝石的下一个家"
+ decision_inf_reality_transfer_no_tech_tooltip:0 "在移动之前，我们必须有对应的可以来掌控§R现实§!宝石"
+ decision_inf_reality_transfer_no_control_tooltip:0 "我们必须掌控§R现实§!宝石"
+ decision_inf_reality_transfer_effect:0 "将§R现实§!宝石从[reality_stone_planet.GetName]移动到[ROOT.GetName]"
+ #时间宝石
+ decision_inf_time_transfer:0 "将时间宝石转移到这里"
+ decision_inf_time_transfer_desc:0 "将这颗星球作为§G时间§!宝石的下一个家"
+ decision_inf_time_transfer_no_tech_tooltip:0 "在移动之前，我们必须有对应的可以来掌控§G时间§!宝石"
+ decision_inf_time_transfer_no_control_tooltip:0 "我们必须掌控§G时间§!宝石"
+ decision_inf_time_transfer_effect:0 "将§G时间§!宝石从[time_stone_planet.GetName]移动到[ROOT.GetName]"
+ #空间宝石
+ decision_inf_space_transfer:0 "将空间宝石转移到这里"
+ decision_inf_space_transfer_desc:0 "将这颗星球作为§B空间§!宝石的下一个家"
+ decision_inf_space_transfer_no_tech_tooltip:0 "在移动之前，我们必须有对应的可以来掌控§B空间§!宝石"
+ decision_inf_space_transfer_no_control_tooltip:0 "我们必须掌控space §B空间§! before we can move it"
+ decision_inf_space_transfer_effect:0 "将§B空间§!宝石从[space_stone_planet.GetName]移动到[ROOT.GetName]"
+ #力量宝石
+ decision_inf_power_transfer:0 "将力量宝石转移到这里"
+ decision_inf_power_transfer_desc:0 "将这颗星球作为§M力量§!宝石的下一个家"
+ decision_inf_power_transfer_no_tech_tooltip:0 "在移动之前，我们必须有对应的可以来掌控§M力量§!宝石"
+ decision_inf_power_transfer_no_control_tooltip:0 "我们必须掌控§M力量§!宝石"
+ decision_inf_power_transfer_effect:0 "将§M力量§!宝石从[power_stone_planet.GetName]移动到[ROOT.GetName]"
+ #心灵宝石
+ decision_inf_mind_transfer:0 "将心灵宝石转移到这里"
+ decision_inf_mind_transfer_desc:0 "将这颗星球作为§Y心灵§!宝石的下一个家"
+ decision_inf_mind_transfer_no_tech_tooltip:0 "在移动之前，我们必须有对应的可以来掌控§Y心灵§!宝石"
+ decision_inf_mind_transfer_no_control_tooltip:0 "我们必须掌控§Y心灵§!宝石"
+ decision_inf_mind_transfer_effect:0 "将§Y心灵§!宝石从[mind_stone_planet.GetName]移动到[ROOT.GetName]"
+ #All Stones
+ decision_inf_all_transfer:0 "将所有无限宝石转移到这里"
+ decision_inf_all_transfer_desc:0 "将这颗星球作为所有无限宝石的下一个家"
+ decision_inf_all_transfer_no_tech_tooltip:0 "在将所有宝石移动到一起之前，我们必须研究所有无限宝石的科技"
+ decision_inf_all_transfer_no_control_tooltip:0 "在将所有宝石移动到一起之前，我们必须掌控所有无限宝石"
+ ####################
+ #    FAIL TEXTS    #
+ ####################
+
+#########################################
+# POLICIES
+########################################
+ policy_infsharing:0 "共享无限宝石的能力"
+ policy_infsharing_desc:0 "我们的政策可以决定谁可以在我们的控制下使用无限宝石"
+ inf_policies_no_sharing_name:0 "不共享"
+ inf_policies_no_sharing:0 "不共享"
+ inf_policies_no_sharing_desc:0 "我们不与任何人分享这股力量"
+ inf_policies_federation_sharing_name:0 "与联邦盟友共享"
+ inf_policies_federation_sharing:0 "与联邦盟友共享"
+ inf_policies_federation_sharing_desc:0 "使用无限宝石为我们的联盟盟友提供支持"
+ inf_policies_subject_sharing_name:0 "与附属国共享"
+ inf_policies_subject_sharing:0 "与附属国共享"
+ inf_policies_subject_sharing_desc:0 "使用无限宝石为我们的附属国提供支持"
+ inf_policies_all_sharing_name:0 "与以上两者共享"
+ inf_policies_all_sharing:0 "与全部国家共享"
+ inf_policies_all_sharing_desc:0 "使用无限宝石为我们的联盟盟友以及附属国提供支持"
+
+#########################################
+# CASUS BELI - SEIZE STONE
+#########################################
+ # Singular
+ casus_belli_cb_inf_seize_stone:0 "无限宝石"
+ casus_belli_cb_inf_seize_stone_acquire_hint:0 "目标帝国有一颗无限宝石将会使得其拥有§H$casus_belli_cb_inf_seize_stone$§! §Y交战原因§!。§!"
+ war_goal_wg_seize_infinity_stone:0 "抢占"
+ war_goal_wg_seize_infinity_stone_desc:0 "战争是为了将目标的无限宝石重新安置到我们的领土内。\n每占领一个星系额外产生§Y50%§!威胁，并且战争损耗将会额外增加"
+# Plural
+ casus_belli_cb_inf_seize_stones:0 "无限宝石"
+ casus_belli_cb_inf_seize_stones_acquire_hint:0 "目标帝国有多颗无限宝石将会使得其拥有§H$casus_belli_cb_inf_seize_stone$§! §Y交战原因§!。§!"
+ war_goal_wg_seize_infinity_stones:0 "抢占"
+ war_goal_wg_seize_infinity_stones_desc:0 "战争是为了将目标的无限宝石重新安置到我们的领土内。\n每占领一个星系额外产生§Y50%§!威胁，并且战争损耗将会额外增加"
+
+#########################################
+# INFINITY STONE OPINION MODIFIERS
+#########################################
+
+ opinion_of_soul_stone:0 "掌控灵魂宝石"
+ opinion_of_mind_stone:0 "掌控心灵宝石"
+ opinion_of_reality_stone:0 "掌控现实宝石"
+ opinion_of_power_stone:0 "掌控力量宝石"
+ opinion_of_time_stone:0 "掌控时间宝石"
+ opinion_of_space_stone:0 "掌控空间宝石"
+ opinion_brainwashed_with_mind_stone:0 "被心灵宝石洗脑"
+ opinion_stone_shared:0 "与我们分享无限宝石"
+
+ #########################################
+ # INFINITY STONE SPECIAL PLANETS
+ #########################################
+ special_soul_planet_name:0 "Vormir"
+ special_soul_system_name:0 "Helgentar"
+ pc_infbarren:0 "贫瘠星球"
+ pc_infbarren_desc:0 "贫瘠和多岩石的世界，覆盖有一层薄薄的并且几乎不能呼吸的大气。星球表面覆盖着平静的水池和陡峭的悬崖。\n\n完全不适合居住，在其地表上也没有任何灵魂存在。"
+
+ special_power_planet_name:0 "Morag"
+ pc_infbarrennuked:0 "贫瘠墓穴星球"
+ pc_infbarrennuked_desc:0 "一个拥有氮氧大气层的岩石世界。这个地方曾经人口密集，但在遭受毁灭性的变暖的灾难后毫无生机，也没有任何生命迹象。\n\n无论是什么导致了这个世界的灭亡，它一定有一个巨大的力量源泉。"
+
+ special_mind_planet_name:0 "Vision"
+ pc_infbroken:0 "纯净星球"
+ pc_infbroken_desc:0 "这个烧焦的空壳曾经是一颗星球。一场致命的灾难炸裂了这个世界，仅仅留下漂流的岩石板块\n\n然而有证据表明这并非一次事故，也并不是外星人造成的。这颗星球自身地壳的大部分被人为的抬高，然后直接下降。当一切都结束后，在这个世界上唯一留下的只有金属。\n\n我们只能猜出是一个可怕的头脑精心策划了这场灾难。"

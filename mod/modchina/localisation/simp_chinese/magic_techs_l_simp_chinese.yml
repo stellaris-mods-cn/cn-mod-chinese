@@ -55,6 +55,18 @@
  tech_magic_ships_4:0 "Phi级船舰模块"
  tech_magic_ships_4_desc:0 "通过仔细研究，我们设法用奥术制品增强了我们船舶系统中一些更棘手的方面"
 
+ TECH_MAGIC_SHIPS_1_TITLE:0 "§H解锁功能:§! Mu-level组件"
+ TECH_MAGIC_SHIPS_1_DESC:0 "§HMu-level组件§!\n对基本舰船组件的神秘增强。"
+
+ TECH_MAGIC_SHIPS_2_TITLE:0 "§H解锁功能:§! Eta-level组件"
+ TECH_MAGIC_SHIPS_2_DESC:0 "§HEta-level组件§!\n访问最先进的组件，我们能够找到进一步提高性能的方法。"
+
+ TECH_MAGIC_SHIPS_3_TITLE:0 "§H解锁功能:§! Tau-level组件"
+ TECH_MAGIC_SHIPS_3_DESC:0 "§HTau-level组件§!\n我们在Eta-level的创新上做了进一步的改进，这样我们甚至可以在实力上与觉醒帝国相抗衡。"
+
+ TECH_MAGIC_SHIPS_4_TITLE:0 "§H解锁功能:§! Phi-level组件"
+ TECH_MAGIC_SHIPS_4_DESC:0 "§HPhi-level组件§!\n我们进一步完善了我们的设计，消除了几乎所有的缺陷，以便更好地应对任何危机。"
+
  tech_magic_ship_armor_1:0 "魔力装甲"
  tech_magic_ship_armor_1_desc:0 "解锁魔力装甲."
 

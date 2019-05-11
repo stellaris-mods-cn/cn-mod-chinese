@@ -1,0 +1,178 @@
+﻿l_simp_chinese:
+
+#########################################
+# INFINITY STONE DISCOVERY EVENTS
+#########################################
+#All
+ inf_sr.all.has_tech:0 "我们知道如何掌控这颗宝石 - 如果我们能掌控这个星系，我们就能掌控这颗宝石"
+#Stone Survey Discovery
+ inf_sr.soul.title:0 "§Y[From.GetName]§!: §H$sr_infinity_stone_soul$§!被发现！"
+ inf_sr.soul.desc:0 "在对[From.GetName]的调查中，[Root.GetName]发现了一颗失落的无限宝石——§H$sr_infinity_stone_soul$§!。如果传说是可信的，它控制着一切众生的生命和意识的本质。"
+ inf_sr.soul.no_tech:0 "\n我们需要更深入的研究§H$sr_infinity_stone_soul$§!以引导它的力量。"
+ inf_sr.soul.tooltip:0 "§H$sr_infinity_stone_soul$§!\n§E$sr_infinity_stone_soul_desc$§!"
+
+ inf_sr.mind.title:0 "§Y[From.GetName]§!: §Y$sr_infinity_stone_mind$§!被发现！"
+ inf_sr.mind.desc:0 "在对[From.GetName]的调查中，[Root.GetName]发现了一颗失落的无限宝石——§Y$sr_infinity_stone_mind$§!。即使是初次接触，它也会对周围人的认知和情感功能产生强大的影响。"
+ inf_sr.mind.no_tech:0 "\n我们需要更深入的研究§Y$sr_infinity_stone_mind$§!以使出它的力量。"
+ inf_sr.mind.tooltip:0 "§Y$sr_infinity_stone_mind$§!\n§E$sr_infinity_stone_mind_desc$§!"
+
+ inf_sr.reality.title:0 "§Y[From.GetName]§!: §R$sr_infinity_stone_reality$§!被发现！"
+ inf_sr.reality.desc:0 "在对[From.GetName]的调查中，[Root.GetName]发现了一颗失落的无限宝石——§R$sr_infinity_stone_reality$§!。它似乎直接与现实法则接轨，甚至可以重新定义它们。"
+ inf_sr.reality.no_tech:0 "\n我们需要更深入的研究§R$sr_infinity_stone_reality$§!以使用它的力量。"
+ inf_sr.reality.tooltip:0 "§R$sr_infinity_stone_reality$§!\n§E$sr_infinity_stone_reality_desc$§!"
+
+ inf_sr.power.title:0 "§Y[From.GetName]§!: §M$sr_infinity_stone_power$§!被发现！"
+ inf_sr.power.desc:0 "在对[From.GetName]的调查中，[Root.GetName]发现了一颗失落的无限宝石——§M$sr_infinity_stone_power$§!。初步扫描显示出一种难以理解的高能量特征。我们只能设想它所具有的建设性——或许是破坏性的潜力。"
+ inf_sr.power.no_tech:0 "\n我们需要更深入的研究§M$sr_infinity_stone_power$§!以发挥它的力量。"
+ inf_sr.power.tooltip:0 "§M$sr_infinity_stone_power$§!\n§E$sr_infinity_stone_power_desc$§!"
+
+ inf_sr.time.title:0 "§Y[From.GetName]§!: §G$sr_infinity_stone_time$§!被发现！"
+ inf_sr.time.desc:0 "在对[From.GetName]的调查中，[Root.GetName]发现了一颗失落的无限宝石——§G$sr_infinity_stone_time$§!。虽然它的方法对我们来说似乎很神奇，但似乎可以轻松自如地扭曲时间逻辑。"
+ inf_sr.time.no_tech:0 "\n我们需要更深入的研究§G$sr_infinity_stone_time$§!应用它的力量。"
+ inf_sr.time.tooltip:0 "§G$sr_infinity_stone_time$§!\n§E$sr_infinity_stone_time_desc$§!"
+
+ inf_sr.space.title:0 "§Y[From.GetName]§!: §B$sr_infinity_stone_space$§!被发现！"
+ inf_sr.space.desc:0 "在对[From.GetName]的调查中，[Root.GetName]发现了一颗失落的无限宝石——§B$sr_infinity_stone_space$§!。通过扭曲和篡改空间结构，我们存在的次元可以通过这块宝石来进行支配。"
+ inf_sr.space.no_tech:0 "\n我们需要更深入的研究§B$sr_infinity_stone_space$§!以开发它的力量。"
+ inf_sr.space.tooltip:0 "§B$sr_infinity_stone_space$§!\n§E$sr_infinity_stone_space_desc$§!"
+#Stone Diplomatic Discovery
+ inf_sr.diplo_soul.title:0 "§H$sr_infinity_stone_soul$§!被发现！" 
+ inf_sr.diplo_soul.desc:0 "我们最近遇见的一个国家发现了一颗失落的无限宝石——§H$sr_infinity_stone_soul$§!，在他们的边界内。如果传说是可信的，它控制着一切众生的生命和意识的本质。"
+ inf_sr.diplo_mind.title:0 "§Y$sr_infinity_stone_mind$§!被发现！"
+ inf_sr.diplo_mind.desc:0 "我们最近遇见的一个国家发现了一颗失落的无限宝石——§Y$sr_infinity_stone_mind$§!，在他们的边界内。即使是初次接触，它也会对周围人的认知和情感功能产生强大的影响。"
+ inf_sr.diplo_reality.title:0 "§R$sr_infinity_stone_reality$§!被发现！"
+ inf_sr.diplo_reality.desc:0 "我们最近遇见的一个国家发现了一颗失落的无限宝石——§R$sr_infinity_stone_reality$§!，在他们的边界内。它似乎直接与现实法则接轨，甚至可以重新定义它们。"
+ inf_sr.diplo_power.title:0 "§M$sr_infinity_stone_power$§!被发现！"
+ inf_sr.diplo_power.desc:0 "我们最近遇见的一个国家发现了一颗失落的无限宝石——§M$sr_infinity_stone_power$§!，在他们的边界内。初步扫描显示出一种难以理解的高能量特征。我们只能设想它所具有的建设性——或许是破坏性的潜力。"
+ inf_sr.diplo_time.title:0 "§G$sr_infinity_stone_time$§!被发现！"
+ inf_sr.diplo_time.desc:0 "我们最近遇见的一个国家发现了一颗失落的无限宝石——§G$sr_infinity_stone_time$§!，在他们的边界内。虽然它的方法对我们来说似乎很神奇，但似乎可以轻松自如地扭曲时间逻辑。"
+ inf_sr.diplo_space.title:0 "§B$sr_infinity_stone_space$§!被发现！"
+ inf_sr.diplo_space.desc:0 "我们最近遇见的一个国家发现了一颗失落的无限宝石——§B$sr_infinity_stone_space$§!，在他们的边界内。通过扭曲和篡改空间结构，我们存在的次元可以通过这块宝石来进行支配。"
+
+#########################################
+# INFINITY STONE TRACKING POINTS OF INTEREST
+#########################################
+ infinity_stone_tracking_chain:0 "无限宝石"
+ infinity_stone_tracking_chain_title:0 "无限宝石"
+ infinity_stone_tracking_chain_desc:0 "对于像无限宝石一样强大的物品，我们最好不要忘记它们的位置。"
+ soul_stone_poi:0 "灵魂宝石存在地点"
+ soul_stone_poi_desc:0 "§H灵魂§!宝石存在于这个星系的边界内。"
+ reality_stone_poi:0 "现实宝石存在地点"
+ reality_stone_poi_desc:0 "§R现实§!宝石存在于这个星系的边界内。"
+ time_stone_poi:0 "时间宝石存在地点"
+ time_stone_poi_desc:0 "§G时间§!宝石存在于这个星系的边界内。"
+ space_stone_poi:0 "空间宝石存在地点"
+ space_stone_poi_desc:0 "§B空间§!宝石存在于这个星系的边界内。"
+ power_stone_poi:0 "力量宝石存在地点"
+ power_stone_poi_desc:0 "§M力量§!宝石存在于这个星系的边界内。"
+ mind_stone_poi:0 "心灵宝石存在地点"
+ mind_stone_poi_desc:0 "§Y心灵§!宝石存在于这个星系的边界内。"
+
+#########################################
+# TRANSFER NOTIFICATION EVENTS
+#########################################
+ inf_soul_moved_title:0 "§H灵魂§!宝石：移动"
+ inf_reality_moved_title:0 "§R现实§!宝石：移动"
+ inf_time_moved_title:0 "§G时间§!宝石：移动"
+ inf_space_moved_title:0 "§B空间§!宝石：移动"
+ inf_power_moved_title:0 "§M力量§!宝石：移动"
+ inf_mind_moved_title:0 "§Y心灵§!宝石：移动"
+ inf_all_moved_title:0 "所有无限宝石：移动"
+ inf_soul_moved_desc:0 "[soul_stone_planet.space_owner.GetName]将§H灵魂§!宝石移动到了[soul_stone_planet.GetName]，在[soul_stone_planet.solar_system.GetName]星系内。"
+ inf_reality_moved_desc:0 "[reality_stone_planet.space_owner.GetName]将§R现实§!宝石移动到了[reality_stone_planet.GetName]，在[reality_stone_planet.solar_system.GetName]星系内。"
+ inf_time_moved_desc:0 "[time_stone_planet.space_owner.GetName]将§G时间§!宝石移动到了[time_stone_planet.GetName]，在[time_stone_planet.solar_system.GetName]星系内。"
+ inf_space_moved_desc:0 "[space_stone_planet.space_owner.GetName]将§B空间§!宝石移动到了[space_stone_planet.GetName]，在[space_stone_planet.solar_system.GetName]星系内。"
+ inf_power_moved_desc:0 "[power_stone_planet.space_owner.GetName]将§M力量§!宝石移动到了[power_stone_planet.GetName]，在[power_stone_planet.solar_system.GetName]星系内。"
+ inf_mind_moved_desc:0 "[mind_stone_planet.space_owner.GetName]将§Y心灵§!宝石移动到了[mind_stone_planet.GetName]，在[mind_stone_planet.solar_system.GetName]星系内。"
+ inf_all_moved_desc:0 "[soul_stone_planet.space_owner.GetName]将所有无限宝石移动到了[soul_stone_planet.GetName]，在[soul_stone_planet.solar_system.GetName]星系内。"
+ inf_soul_moved_capital_desc:0 "[soul_stone_planet.space_owner.GetName]将§H灵魂§!宝石移动到了[soul_stone_planet.GetName]，在他们的首都星系，[soul_stone_planet.solar_system.GetName]内。"
+ inf_reality_moved_capital_desc:0 "[reality_stone_planet.space_owner.GetName]将§R现实§!宝石移动到了[reality_stone_planet.GetName]，在他们的首都星系，[reality_stone_planet.solar_system.GetName]内。"
+ inf_time_moved_capital_desc:0 "[time_stone_planet.space_owner.GetName]将§G时间§!宝石移动到了[time_stone_planet.GetName]，在他们的首都星系，[time_stone_planet.solar_system.GetName]内。"
+ inf_space_moved_capital_desc:0 "[space_stone_planet.space_owner.GetName]将§B空间§!宝石移动到了[space_stone_planet.GetName]，在他们的首都星系，[space_stone_planet.solar_system.GetName]内。"
+ inf_power_moved_capital_desc:0 "[power_stone_planet.space_owner.GetName]将§M力量§!宝石移动到了[power_stone_planet.GetName]，在他们的首都星系，[power_stone_planet.solar_system.GetName]内。"
+ inf_mind_moved_capital_desc:0 "[mind_stone_planet.space_owner.GetName]将§Y心灵§!宝石移动到了[mind_stone_planet.GetName]，在他们的首都星系，[mind_stone_planet.solar_system.GetName]内。"
+ inf_all_moved_capital_desc:0 "[soul_stone_planet.space_owner.GetName]将所有无限宝石移动到了[soul_stone_planet.GetName]，在他们的首都星系，[soul_stone_planet.solar_system.GetName]内。"
+ inf_stone_moved_option:0 "Fascinating."
+
+#########################################
+# INFINITY STONE EDICTS
+#########################################
+ #God Edicts
+ inf_god.title:0 "啪"
+ inf_god.desc:0 "结束了。在§M[Leader.GetName]§!打了个响指后，整个银河系的数亿人已经消逝。一瞬间内，整个银河系的人口少了一半。这些人的消逝也带来了一些附加伤害，例如在混乱之中被摧毁的有价值的舰队。\n\n然而，§R无限宝石在这个过程中已经超载§!并且从我们的传感器中消失了。我们的船只报告由于超空间异常导致的超光速飞行能力的下降，这些异常必然是由宝石释放的大量能量引起的。"
+ inf_god.option:0 "所有事物都被完美的平衡了。"
+ edict_edict_inf_snap:0 "打响指"
+ edict_edict_inf_snap_desc:0 "集合无限宝石的能量，使银河系中一半的人口消逝。"
+ inf_snapped:0 "啪"
+ inf_snapped_desc:0 "那声响指带来的影响仍能够在今天感受到..."
+
+#########################################
+# MAINTENANCE
+#########################################
+ inf_soul_stone_respawn_title:0 "§H灵魂§!宝石：再次发现"
+ inf_soul_stone_respawn_no_owner_desc:0 "经过神秘并且无法解释的消失后，§H灵魂§!宝石在无人认领的[soul_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_soul_stone_respawn_yes_owner_desc:0 "经过神秘并且无法解释的消失后，§H灵魂§!宝石在[soul_stone_planet.solar_system.owner.GetName]掌控下的[soul_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_reality_stone_respawn_title:0 "§R现实§!宝石：再次发现"
+ inf_reality_stone_respawn_no_owner_desc:0 "经过神秘并且无法解释的消失后，§R现实§!宝石在无人认领的[reality_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_reality_stone_respawn_yes_owner_desc:0 "经过神秘并且无法解释的消失后，§R现实§!宝石在[reality_stone_planet.solar_system.owner.GetName]掌控下的[reality_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_time_stone_respawn_title:0 "§G时间§!宝石：再次发现"
+ inf_time_stone_respawn_no_owner_desc:0 "经过神秘并且无法解释的消失后，§G时间§!宝石在无人认领的[time_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_time_stone_respawn_yes_owner_desc:0 "经过神秘并且无法解释的消失后，§G时间§!宝石在[time_stone_planet.solar_system.owner.GetName]掌控下的[time_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_space_stone_respawn_title:0 "§B空间§!宝石：再次发现"
+ inf_space_stone_respawn_no_owner_desc:0 "经过神秘并且无法解释的消失后，§B空间§!宝石在无人认领的[space_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_space_stone_respawn_yes_owner_desc:0 "经过神秘并且无法解释的消失后，§B空间§!宝石在[space_stone_planet.solar_system.owner.GetName]掌控下的[space_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_power_stone_respawn_title:0 "§M力量§!宝石：再次发现"
+ inf_power_stone_respawn_no_owner_desc:0 "经过神秘并且无法解释的消失后，§M力量§!宝石在无人认领的[power_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_power_stone_respawn_yes_owner_desc:0 "经过神秘并且无法解释的消失后，§M力量§!宝石在[power_stone_planet.solar_system.owner.GetName]掌控下的[power_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_mind_stone_respawn_title:0 "§Y心灵§!宝石：再次发现"
+ inf_mind_stone_respawn_no_owner_desc:0 "经过神秘并且无法解释的消失后，§Y心灵§!宝石在无人认领的[mind_stone_planet.solar_system.GetName]星系内被发现。"
+ inf_mind_stone_respawn_yes_owner_desc:0 "经过神秘并且无法解释的消失后，§Y心灵§!宝石在[mind_stone_planet.solar_system.owner.GetName]掌控下的[mind_stone_planet.solar_system.GetName]星系内被发现。"
+ 
+ #Debug
+ #Event-fired test
+ debug_fired_desc:0 "Event Fired"
+ debug_fired_title:0 "Event Fired"
+ #Stone status test
+ debug_stone_check_title:0 "Debugging：无限宝石状态"
+ debug_stone_check_any_stone_planet_inhabited:0 "    - §Y已居住§!"
+
+ debug_stone_check_soul_stone_planet_fine:0 "§H灵魂§!宝石所在星球：§G良好§! - [soul_stone_planet.GetName] ([soul_stone_planet.solar_system.GetName])"
+ debug_stone_check_soul_stone_planet_not:0 "§H灵魂§!宝石所在星球：§R不存在§!"
+ debug_stone_check_soul_stone_planet_missing_deposit:0 "§H灵魂§!宝石所在星球：§H无人采集§! - [soul_stone_planet.GetName] ([soul_stone_planet.solar_system.GetName])"
+ 
+ debug_stone_check_reality_stone_planet_fine:0 "§R现实§!宝石所在星球：§G良好§! - [reality_stone_planet.GetName] ([reality_stone_planet.solar_system.GetName])"
+ debug_stone_check_reality_stone_planet_not:0 "§R现实§!宝石所在星球：§R不存在§!"
+ debug_stone_check_reality_stone_planet_missing_deposit:0 "§R现实§!宝石所在星球：§H无人采集§! - [reality_stone_planet.GetName] ([reality_stone_planet.solar_system.GetName])"
+
+ debug_stone_check_time_stone_planet_fine:0 "§G时间§!宝石所在星球：§G良好§! - [time_stone_planet.GetName] ([time_stone_planet.solar_system.GetName])"
+ debug_stone_check_time_stone_planet_not:0 "§G时间§!宝石所在星球：§R不存在§!"
+ debug_stone_check_time_stone_planet_missing_deposit:0 "§G时间§!宝石所在星球：§H无人采集§! - [time_stone_planet.GetName] ([time_stone_planet.solar_system.GetName])"
+
+ debug_stone_check_space_stone_planet_fine:0 "§B空间§!宝石所在星球：§G良好§! - [space_stone_planet.GetName] ([space_stone_planet.solar_system.GetName])"
+ debug_stone_check_space_stone_planet_not:0 "§B空间§!宝石所在星球：§R不存在§!"
+ debug_stone_check_space_stone_planet_missing_deposit:0 "§B空间§!宝石所在星球：§H无人采集§! - [space_stone_planet.GetName] ([space_stone_planet.solar_system.GetName])"
+
+ debug_stone_check_power_stone_planet_fine:0 "§M力量§!宝石所在星球：§G良好§! - [power_stone_planet.GetName] ([power_stone_planet.solar_system.GetName])"
+ debug_stone_check_power_stone_planet_not:0 "§M力量§!宝石所在星球：§R不存在§!"
+ debug_stone_check_power_stone_planet_missing_deposit:0 "§M力量§!宝石所在星球：§H无人采集§! - [power_stone_planet.GetName] ([power_stone_planet.solar_system.GetName])"
+
+ debug_stone_check_mind_stone_planet_fine:0 "§Y心灵§!宝石所在星球：§G良好§! - [mind_stone_planet.GetName] ([mind_stone_planet.solar_system.GetName])"
+ debug_stone_check_mind_stone_planet_not:0 "§Y心灵§!宝石所在星球：§R不存在§!"
+ debug_stone_check_mind_stone_planet_missing_deposit:0 "§Y心灵§!宝石所在星球：§H无人采集§! - [mind_stone_planet.GetName] ([mind_stone_planet.solar_system.GetName])"
+ 
+ #Transfer Target check (Country)
+ debug_transfer_target_check_title:0 "[FROM.GetName]的目标"
+ debug_transfer_target_check_no_target_desc:0 "§R没有目标星球被选中§!"
+ debug_transfer_target_check_desc:0 "§G目标星球已选中§!"
+ debug_transfer_target_check_find_target_option:0 "寻找目标"
+ #Transfer Target check (Planet)
+ debug_transfer_target_check_desc:0 "目标星球是[FROM.GetName]境内的[FROM.solar_system.GetName]"
+ 
+ debug_country_test_title:0 "Event Fired From:"
+ debug_country_test_desc:0 "[FROM.GetName]"
+
+ # Announcement Loc
+ inf_announcement_1_title:0 "无限宝石：公告"
+ inf_announcement_1_desc:0 "目前有一个神秘的bug困扰着无限宝石的转移，转移到某些（随机的）行星上会使得石头消失。到目前为止，我找不到任何这个bug的原因或模式，所以这只是为了解决一些问题，如果你遇到它：\n\n   1) §R宝石并没有并删除§!。你或许不能采掘它，但它依旧存在。如果你想转移一块宝石，事先保存，如果它在移动中被删除，重新加载并尝试不同的行星直到成功。\n\n   2)通过测试，§R它不应该影响新游戏§!。我无法确定这一点，因为它可能会在游戏进行后发生。\n\n   3) 如果此问题影响您，§R请在mod页面的错误报告讨论中报告§!。据我所知，它只影响当前的存档而不是其他的，或者它与一个特定的mod发生冲突。 公开错误报告将有助于解决问题。"
+ inf_announcement_1_option_1:0 "好的，没有bug将会使消灭半个星系更加容易"
+ inf_announcement_1_option_2:0 "修复你的mod，我有一个星系等待去征服"

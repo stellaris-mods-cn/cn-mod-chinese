@@ -2,9 +2,9 @@
 
  # Anomaly categories
 
- antimatter_star_anom:0 "暴力之星"
+ antimatter_star_anom_cat:0 "暴力之星"
  antimatter_star_anom_desc:0 "从远处看，这颗星似乎完全是普通的，但仔细观察后，它显然会对任何接近它的物质产生剧烈的反应。"
- antimatter_star_planet:0 "破碎的星球"
+ antimatter_star_planet_cat:0 "破碎星球"
  antimatter_star_planet_desc:0 "这颗行星几乎完全被摧毁成几块，就好像发生了一件非常暴力的事情。"
  
  # Anomaly events

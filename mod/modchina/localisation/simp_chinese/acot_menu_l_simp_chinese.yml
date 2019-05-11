@@ -1,5 +1,4 @@
 ﻿l_simp_chinese:
-
 ### ENGLISH LOCALIZATION
 
 
@@ -15,44 +14,44 @@ edict_acot_fight_hedonism_desc: "在危难时刻，我们必须抛弃个人的�
 acot_mod_options_title: "古老隐藏技术选项菜单"
 acot_mod_options_desc: "这个菜单允许你禁用你想要摆脱的ACOT中的某些元素，以防万一你不喜欢/有更好的东西，这些东西让这里的东西变成一个笑话或者更糟糕，但不会阻止FE。 任何帝国都可以获得暗物质技术和暗物质能量。 这是FE的技术。 巅峰层技术是FE技术的改进，也是AFE将逐步获得的。"
 
-acot_mod_options.1.a: "武器技术§G启用§!。 §R禁用§!?"
+acot_mod_options.1.a: "武器技术§G启用§!。 §R禁用§!？"
 acot_mod_options.1.a.tooltip: "禁用所有ACOT 暗物质技术和巅峰武器技术。 已经研究过的组件仍然可用。\n\n§R警告§!: 某些武器在暗能量反应堆和推进器后面被控制。 如果这些是禁用的，它们也是无法获得的。"
-acot_mod_options.1.b: "武器技术§R禁用d§!。 §G启用§!?"
+acot_mod_options.1.b: "武器技术§R禁用d§!。 §G启用§!？"
 acot_mod_options.1.b.tooltip: "启用所有ACOT 暗物质技术和Ascended-Tier武器技术，只要满足所有其他条件，它们就会变得可研究。"
 
-acot_mod_options.2.a: "防御性组件§G启用§!。 §R禁用§!?"
+acot_mod_options.2.a: "防御性组件§G启用§!。 §R禁用§!？"
 acot_mod_options.2.a.tooltip: "禁用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 已经研究过的组件仍然可用。\n\n§R警告§!: 禁用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 已经研究过的组件仍然可用。..."
-acot_mod_options.2.b: "防御性组件§R禁用d§!。 §G启用§!?"
+acot_mod_options.2.b: "防御性组件§R禁用d§!。 §G启用§!？"
 acot_mod_options.2.b.tooltip: "启用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 只要满足所有其他条件，它们将变得可研究。"
 
-acot_mod_options.3.a: "辅助组件§G启用§!。 §R禁用§!?"
+acot_mod_options.3.a: "辅助组件§G启用§!。 §R禁用§!？"
 acot_mod_options.3.a.tooltip: "禁用所有ACOT辅助技术，包括每种武器类型的武器核心。 已经研究过的组件仍然可用。"
-acot_mod_options.3.b: "辅助组件§R禁用d§!。 §G启用§!?"
+acot_mod_options.3.b: "辅助组件§R禁用d§!。 §G启用§!？"
 acot_mod_options.3.b.tooltip: "启用所有ACOT辅助技术，包括每种武器类型的武器核心。"
 
-acot_mod_options.4.a: "舰船电脑§G启用§!。 §R禁用§!?"
+acot_mod_options.4.a: "舰船电脑§G启用§!。 §R禁用§!？"
 acot_mod_options.4.a.tooltip: "禁用所有ACOT船舶技术，包括反应堆，跳跃驱动器，推进器和传感器。 已经研究过的组件仍然可用。\n\n§R警告§!: 禁用此功能将使许多其他ACOT技术无法用于研究。"
-acot_mod_options.4.b: "舰船电脑§R禁用d§!。 §G启用§!?"
+acot_mod_options.4.b: "舰船电脑§R禁用d§!。 §G启用§!？"
 acot_mod_options.4.b.tooltip: "启用所有ACOT船舶技术，包括反应堆，跳跃驱动器，推进器和传感器。"
 
-acot_mod_options.5.a: "陆军技术§G启用§!。 §R禁用§!?"
-acot_mod_options.5.a.tooltip: "禁用所有ACOT军队技术。 现有的军队将继续§Yactive§!,他们将永远困扰你的帝国，没有什么是你可能希望完成以结束这种可怕的命运。"
-acot_mod_options.5.b: "陆军技术§R禁用d§!。 §G启用§!?"
+acot_mod_options.5.a: "陆军技术§G启用§!。 §R禁用§!？"
+acot_mod_options.5.a.tooltip: "禁用所有ACOT军队技术。 现有的军队将继续§Yactive§!，他们将永远困扰你的帝国，没有什么是你可能希望完成以结束这种可怕的命运。"
+acot_mod_options.5.b: "陆军技术§R禁用d§!。 §G启用§!？"
 acot_mod_options.5.b.tooltip: "启用所有ACOT军队技术，让你的帝国招募/建造/训练/变形/召唤/召唤/实现AE级军队。"
 
-acot_mod_options.6.a: "建筑技术§G启用§!。 §R禁用§!?"
+acot_mod_options.6.a: "建筑技术§G启用§!。 §R禁用§!？"
 acot_mod_options.6.a.tooltip: "禁用所有ACOT建筑技术。 已经建造的建筑物仍然可用，迫使你的帝国质疑银河系的现实，为什么他们可以拥有在这个星系循环中不被理解的建筑物，其存在被拒绝。 你的人民很快就会意识到生存的无用。"
-acot_mod_options.6.b: "建筑技术§R禁用d§!。 §G启用§!?"
-acot_mod_options.6.b.tooltip: "启用所有ACOT建筑技术。 恭喜，你已经决定启用这个mod可能最着名的技术人员...为什么你再次禁用它？ 必须是千兆堡垒。"
+acot_mod_options.6.b: "建筑技术§R禁用d§!。 §G启用§!？"
+acot_mod_options.6.b.tooltip: "启用所有ACOT建筑技术。 恭喜，你已经决定启用这个mod可能最着名的技术人员...为什么你再次禁用它？ 必须是超巨型要塞。"
 
-acot_mod_options.7.a: "轨道轰炸/灭绝令§G启用§!。 §R禁用§!?"
+acot_mod_options.7.a: "轨道轰炸/灭绝令§G启用§!。 §R禁用§!？"
 acot_mod_options.7.a.tooltip: "禁止玩家和AI使用惩罚和外部轰炸的能力。 有用的，如果你搞砸了，并希望通过撕裂现实的面料来欺骗你的胜利之路，并防止你的敌人把你的世界变成汤罐。"
-acot_mod_options.7.b: "轨道轰炸/灭绝令§R禁用d§!。 §G启用§!?"
-acot_mod_options.7.b.tooltip: "启用玩家和AI的能力，使用惩罚和外部轰炸。 兄弟之战!!，今天敌人在我们家门口。 我们知道自己的职责，我们会做到。 我们为升华帝国作为前体而奋斗，我们以皇太子的名义进行战斗。 如果我们今天死了，我们就会死。 但是§R不§!,我们不会§R死§！。 它将是品尝§R死亡§的敌人！ 和§R失败§！。 你知道吗...§REXTERMINATUS§！"
+acot_mod_options.7.b: "轨道轰炸/灭绝令§R禁用d§!。 §G启用§!？"
+acot_mod_options.7.b.tooltip: "启用玩家和AI的能力，使用惩罚和外部轰炸。 兄弟之战!!，今天敌人在我们家门口。 我们知道自己的职责，我们会做到。 我们为升华帝国作为前体而奋斗，我们以皇太子的名义进行战斗。 如果我们今天死了，我们就会死。 但是§R不§!，我们不会§R死§！。 它将是品尝§R死亡§的敌人！ 和§R失败§！。 你知道吗...§REXTERMINATUS§！"
 
-acot_mod_options.8.a: "执政道德技术§G启用§!。 §R禁用§!?"
+acot_mod_options.8.a: "执政道德技术§G启用§!。 §R禁用§!？"
 acot_mod_options.8.a.tooltip: "禁用所有ACOT独特的基于道德的技术。 即使您已经明确告诉游戏不这样做，已经研究过的技术也会给予奖励，对您来说没有希望。 结束了，阿纳金。 我有制高点。"
-acot_mod_options.8.b: "执政道德技术§R禁用d§!。 §G启用§!?"
+acot_mod_options.8.b: "执政道德技术§R禁用d§!。 §G启用§!？"
 acot_mod_options.8.b.tooltip: "启用所有ACOT独特的基于道德的技术。 如果您已经研究过它们，它们将再次成为可构建的。 是时候浪费所有这些影响。"
 
 acot_mod_options.9: "设置AI的资源加成"
@@ -61,13 +60,18 @@ acot_mod_options.9.tooltip: "设定AE AI应该获得多少额外资源，选择�
 acot_mod_options.exit: "我必须离开，我的人民需要我。"
 acot_mod_options.exit.tooltip: "你将结束这种明显不自然，腐败的现实弯曲的力量，并回到你的总体规划，这可能涉及为堕落的仇外事件做一些真正可怕的事情。 至少那是你应该做的。\n\nDO IT ANAKIN.  I am Batman"
 
-acot_mod_options.10.a: "暗物质事件§G启用§!。 §R禁用§!?"
+acot_mod_options.10.a: "暗物质事件§G启用§!。 §R禁用§!？"
 acot_mod_options.10.a.tooltip: "禁用所有与暗物质有关的ACOT事件。这将导致所有与暗物质相关的事件无法出现。如果你更喜欢人工智能继续使用零点能源200年。"
-acot_mod_options.10.b: "暗物质事件§R禁用§!。 §G启用§!?"
+acot_mod_options.10.b: "暗物质事件§R禁用§!。 §G启用§!？"
 acot_mod_options.10.b.tooltip: "启用所有关于暗物质的ACOT事件。这将导致一些事件的发生，比如pleb要求使用暗物质技术或者从你的科学飞船上偷东西。如果你更愿意人工智能最终变得更好，那就很好。"
 
 acot_mod_options.11: "给我星能量科技就行了"
 acot_mod_options.11.tooltip: "你的愿望将会实现，但是技术将会由超越你的帝国存在的模因代理提供。\n\n现在回去，执行者。把塔萨达和黑暗圣堂武士交给爱尔，秘会也许会对你仁慈。"
+
+acot_mod_options.12.a: "AI助手§G启用§!。 §R禁用§!？"
+acot_mod_options.12.a.tooltip: "AI建筑管理启用。禁用它将阻止自定义脚本将就建筑升级成高级建筑。"
+acot_mod_options.12.b: "AI助手§G禁用§!。§R启用§!？"
+acot_mod_options.12.b.tooltip: "AI建筑管理禁用。启用它将使用自定义脚本将就建筑升级成高级建筑。"
 
 acot_mod_options.200: "AE AI难度设置"
 
@@ -79,10 +83,10 @@ acot_mod_options.200.a.desc: "使用此选项将AE的加成更改为资源，而
 acot_mod_options.200.b.desc: "使用此选项将AE的奖金更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §G基本§!\n\nAE AI将从其基本资源中获得一笔固定的加成，这或多或少会让它们作为一个适当的AE发挥作用。很好，如果你至少认为AI是一个相当大的威胁。"
 acot_mod_options.200.c.desc: "使用此选项将AE的奖金更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §BOPAF§!\n\nAE AI会在正常收入的两倍的基础上获得双倍的收入，如果你真的想让AE AI对你造成威胁的话。也许这一次AI真的会杀了你(但很可能不会)"
 
- easy_acot: "HEHE"
- easy_acot_desc: "噢,是的"
- easy_acot_pleb: "HEHE"
- easy_acot_pleb_desc: "噢,是的"
+ easy_acot: "呵呵"
+ easy_acot_desc: "噢，是的"
+ easy_acot_pleb: "呵呵"
+ easy_acot_pleb_desc: "噢，是的"
  hard_acot: "我有POWARRRRRRRRRRRRRRRRRRRRRR"
  hard_acot_desc: "阿尔萨斯!在阿尔萨斯还没死之前阻止他!"
  hard_acot_pleb: "我有POWARRRRRRRRRRRRRRRRRRRRRR"
@@ -119,7 +123,7 @@ resurface_protocol: "不朽协议进行"
 resurface_protocol_desc: "永恒的服务。"
 
 acot_mod_options.50.title: "不朽协议进行"
-acot_mod_options.50.desc: "我们的领导人之一，[From.GetName]已经被终止。但不朽协议是有效的，将能够重建[From.GetName]回来。\n\n然而，如果[From.GetName]因为不称职或无节制而被解雇，该单位将不会返回。 \n\n我们继续好吗?"
+acot_mod_options.50.desc: "我们的领导人之一，[From.GetName]已经被终止。但不朽协议是有效的，将能够重建[From.GetName]回来。\n\n然而，如果[From.GetName]因为不称职或无节制而被解雇，该单位将不会返回。 \n\n我们继续好吗？"
 acot_mod_options.50.a: "是的，我们会重建[From.GetName]，我们有技术。"
 acot_mod_options.50.a.explain: "不会让你们解雇的领导人回来。"
 acot_mod_options.50.b: "[From.GetName]对我们来说既烦人又没用，我们应当得到一个更好的模型。"

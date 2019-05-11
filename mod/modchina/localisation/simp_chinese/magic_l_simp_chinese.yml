@@ -2,11 +2,11 @@
  ####################################
  # 物种 特性
  ####################################
- trait_latent_magic:0 "潜在的奥秘"
- trait_latent_magic_desc:2 "§T整个物种已苏醒了引发奇迹的潜能。.§!\n"
+ trait_pc_latent_magic_preference:0 "潜在的奥秘"
+ trait_pc_latent_magic_preference_desc:1 "§T整个物种都进化出了表演奇迹的能力。这种能力必须在儿童时期通过沉浸在高度饱和的环境中来培养。§!\n\n§R非奥法适居性25%§!"
 
- trait_magic:0 "奥法"
- trait_magic_desc:2 "§T现实屈服于这个物种所引发的奇迹。当他们不休时，还会需要更多的科技吗？§!\n"
+ trait_pc_magic_preference:0 "奥法"
+ trait_pc_magic_preference_desc:1 "§T现实屈服于这个物种所引发的奇迹。当他们不休时，还会需要更多的科技吗？§!\n"
  
  trait_fake_magic:0 "奥法嫁接"
  trait_fake_magic_desc:2 "§R这个物种是对自然和奇迹的憎恶，过多地强行植入奥术制品使其可以执行真正的引发奇迹之人所能执行的工作。§!\n"
@@ -94,9 +94,13 @@
  # 工作类型 (部分已弃用)
  ####################################
  planet_alchemists:0 "奥法职业"
- mod_planet_alchemists_produces_mult:0 "£job_alchemist£ Alchemists Output"
- mod_planet_alchemists_arcane_technology_produces_add:0 "£job_alchemist£ Alchemists £arcane_artifacts£ Output"
- mod_planet_alchemists_upkeep_mult:0 "£job_alchemist£ Alchemists Upkeep"
+ mod_planet_alchemists_produces_mult:0 "£job_alchemist£ 炼金术士产出"
+ mod_planet_alchemists_arcane_technology_produces_add:0 "£job_alchemist£ 炼金术士 £arcane_artifacts£ 产出"
+ mod_planet_alchemists_upkeep_mult:0 "£job_alchemist£ 炼金术士
+ planet_arcanists:0 "炼金术士"
+ mod_planet_arcanists_produces_mult:0 "£job_alchemist£ 炼金术士产出"
+ mod_planet_arcanists_arcane_technology_produces_add:0 "£job_alchemist£ 炼金术士 £arcane_artifacts£ 产出"
+ mod_planet_arcanists_upkeep_mult:0 "£job_alchemist£ 炼金术士维护"
 
  ####################################
  # 统治者职业
@@ -109,39 +113,39 @@
  job_minister_effect_desc:0 "§H£job_minister£ §P$job_minister$§!: §G+10§!£unity£, §G+50§!£mod_planet_stability_add£!"
  mod_job_minister_add:0 "§M$job_minister$§! §H职业§!"
  mod_job_minister_per_pop:0 "§G+1§! $job_minister$每$VALUE$人口"
- mod_job_minister_per_pop_short:0 "\n§G+1§!£mod_job_minister_add£ per $VALUE$ £pop£"
+ mod_job_minister_per_pop_short:0 "\n§每$VALUE$ £pop£ G+1§!£mod_job_minister_add£"
 
  job_lord_magic:0 "巫师"
  job_lord_magic_plural:0 "巫师"
  job_lord_magic_desc:0 "巫师是强大到令人难以置信的个体，能够单枪匹马地压制起义并使其他人的忠诚得到前所未有的提升。"
  job_lord_magic_effect_desc:0 "§H£job_lord_magic£ §M$job_lord_magic_plural$§!: §G+5§!£unity£, §G+5§!£mod_planet_stability_add£, §G+15§!£mod_planet_amenities_add£§!"
  mod_job_lord_magic_add:0 "§M$job_lord_magic$§! §H职业§!"
- mod_job_lord_magic_per_pop:0 "§G+1§! §M$job_lord_magic$§!每$VALUE$人口"
- mod_job_lord_magic_per_pop_short:0 "\n§G+1§! §M£mod_job_lord_magic_add£§! per $VALUE$ £pop£"
+ mod_job_lord_magic_per_pop:0 "每$VALUE$人口§G+1§! §M$job_lord_magic$§!"
+ mod_job_lord_magic_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_lord_magic_add£§!"
  
  job_head_unspeakable:0 "奥法探求者之首"
  job_head_unspeakable_plural:0 "奥法探求者之首"
  job_head_unspeakable_desc:0 "奥法探求者之首负责协调奥法探求者，管理新知识的获取。"
  job_head_unspeakable_effect_desc:0 "§H£job_head_unspeakable£ §P$job_head_unspeakable$§!: §G+1§!£arcane_technology£, §G+10§!£unity£, §G+5§! £mod_planet_stability_add£§!"
  mod_job_head_unspeakable_add:0 "§P$job_head_unspeakable$§! §H职业§!"
- mod_job_head_unspeakable_per_pop:0 "§G+1§! $job_head_unspeakable$每$VALUE$人口"
- mod_job_head_unspeakable_per_pop_short:0 "\n§G+1§!£mod_job_head_unspeakable_add£ per $VALUE$ £pop£"
+ mod_job_head_unspeakable_per_pop:0 "每$VALUE$人口 §G+1§! $job_head_unspeakable$"
+ mod_job_head_unspeakable_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_head_unspeakable_add£"
 
  job_magic_administrator:0 "博学者"
  job_magic_administrator_plural:0 "博学者"
  job_magic_administrator_desc:0 "博学者组成了奥法官僚机构的倒数第二层。 "
  job_magic_administrator_effect_desc:0 "§H£job_magic_administrator£ §M$job_magic_administrator_plural$§!: §G+5§!£unity£, §G+6§!£mod_trade_value_add£, §G+10§!£mod_planet_amenities_add£§!"
  mod_job_magic_administrator_add:0 "§M$job_magic_administrator$§! §H职业§!"
- mod_job_magic_administrator_per_pop:0 "§G+1§! §M$job_magic_administrator$§!每$VALUE$人口"
- mod_job_magic_administrator_per_pop_short:0 "\n§G+1§! §M£mod_job_magic_administrator_add£§! per $VALUE$ £pop£"
+ mod_job_magic_administrator_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_administrator$§!"
+ mod_job_magic_administrator_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_magic_administrator_add£§!"
 
  job_druid:0 "德鲁伊"
  job_druid_plural:0 "德鲁伊"
  job_druid_desc:0 "德鲁伊负责处理奇迹仪式的所有事物，从计算到准备，而最重要的是执行仪式。"
  job_druid_effect_desc:0 "§H£job_druid£ §M$job_druid_plural$§!: §G+5§!£unity£, §G+15§!£society£, §G+5§!£mod_planet_amenities_add£§!"
  mod_job_druid_add:0 "§M$job_druid$§! §H职业§!"
- mod_job_druid_per_pop:0 "§G+1§! §M$job_druid$§!每$VALUE$人口"
- mod_job_druid_per_pop_short:0 "\n§G+1§! §M£mod_job_druid_add£§! per $VALUE$ £pop£"
+ mod_job_druid_per_pop:0 "每$VALUE$人口§G+1§! §M$job_druid$§!"
+ mod_job_druid_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_druid_add£§!"
 
  ####################################
  # 专家职业
@@ -152,7 +156,7 @@
  job_auror_effect_desc:0 "§H£job_auror£ §P$job_auror_plural$§!: §R-1§!£arcane_technology£, §G+5§!£unity£, §G-25§!£crime£, §G+2§!£defense_army£§!"
  mod_job_auror_add:0 "§P$job_auror$§! §H职业§!"
  mod_job_auror_per_pop:0 "每$VALUE$人口§G+1§! $job_auror$"
- mod_job_auror_per_pop_short:0 "\n§G+1§!£mod_job_auror_add£ per $VALUE$ £pop£"
+ mod_job_auror_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_auror_add£"
 
  job_magizoologist:0 "奥法生物学家"
  job_magizoologist_plural:0 "奥法生物学家"
@@ -160,7 +164,7 @@
  job_magizoologist_effect_desc:0 "§H£job_magizoologist£ §M$job_magizoologist_plural$§!: §G+5§!£unity£, §G+10§!£society£§!"
  mod_job_magizoologist_add:0 "§M$job_magizoologist$§! §H职业§!"
  mod_job_magizoologist_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magizoologist$§!"
- mod_job_magizoologist_per_pop_short:0 "\n§G+1§! §M£mod_job_magizoologist_add£§! per $VALUE$ £pop£"
+ mod_job_magizoologist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_magizoologist_add£§!"
  
  job_healer:0 "治愈者"
  job_healer_plural:0 "治愈者"
@@ -168,7 +172,7 @@
  job_healer_effect_desc:0 "§H£job_healer£ §P$job_healer_plural$§!: §R-1§!£arcane_technology£, §G+10§!£mod_planet_amenities_add£, §G+15%§!£mod_pop_growth_speed£§!"
  mod_job_healer_add:0 "§P$job_healer$§! §H职业§!"
  mod_job_healer_per_pop:0 "每$VALUE$人口§G+1§! $job_healer$"
- mod_job_healer_per_pop_short:0 "\n§G+1§!£mod_job_healer_add£ per $VALUE$ £pop£"
+ mod_job_healer_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_healer_add£"
 
  job_magic_artisan:0 "魔力工匠"
  job_magic_artisan_plural:0 "魔力工匠"
@@ -176,7 +180,7 @@
  job_magic_artisan_effect_desc:0 "§H£job_magic_artisan£ §P$job_magic_artisan_plural$§!: §R-4§!(£minerals£,£mana_crystals£), §G+12§!£consumer_goods£§!"
  mod_job_magic_artisan_add:0 "§P$job_magic_artisan$§! §H职业§!"
  mod_job_magic_artisan_per_pop:0 "每$VALUE$人口§G+1§! $job_magic_artisan$"
- mod_job_magic_artisan_per_pop_short:0 "\n§G+1§!£mod_job_magic_artisan_add£ per $VALUE$ £pop£"
+ mod_job_magic_artisan_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_artisan_add£"
 
  job_magic_foundry:0 "奇术师"
  job_magic_foundry_plural:0 "奇术师"
@@ -184,7 +188,7 @@
  job_magic_foundry_effect_desc:0 "§H£job_magic_foundry£ §P$job_magic_foundry_plural$§!: §R-4§!(£minerals£,£mana_crystals£), §G+9§!£alloys£§!"
  mod_job_magic_foundry_add:0 "§P$job_magic_foundry$§! §H职业§!"
  mod_job_magic_foundry_per_pop:0 "每$VALUE$人口§G+1§! $job_magic_foundry$"
- mod_job_magic_foundry_per_pop_short:0 "\n§G+1§!£mod_job_magic_foundry_add£ per $VALUE$ £pop£"
+ mod_job_magic_foundry_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_foundry_add£"
 
  job_arcanist:0 "巧匠"
  job_arcanist_plural:0 "巧匠"
@@ -192,7 +196,7 @@
  job_arcanist_effect_desc:0 "§H£job_arcanist£ §P$job_arcanist_plural$§!: §R-4§!£minerals£, §G+4§!£arcane_artifacts£§!"
  mod_job_arcanist_add:0 "§P$job_arcanist$§! §H工作§!"
  mod_job_arcanist_per_pop:0 "每$VALUE$人口§G+1§! $job_arcanist$"
- mod_job_arcanist_per_pop_short:0 "\n§G+1§!£mod_job_arcanist_add£ per $VALUE$ £pop£"
+ mod_job_arcanist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_arcanist_add£"
 
  job_magic_entertainer:0 "附魔师"
  job_magic_entertainer_plural:0 "附魔师"
@@ -200,7 +204,7 @@
  job_magic_entertainer_effect_desc:0 "§H£job_magic_entertainer£ §P$job_magic_entertainer_plural$§!: §R-2§!£consumer_goods£, §R-1§!£arcane_technology£, §G+5§!£unity£, §G+15§!£mod_planet_amenities_add£§!"
  mod_job_magic_entertainer_add:0 "§P$job_magic_entertainer$§! §H职业§!"
  mod_job_magic_entertainer_per_pop:0 "每$VALUE$人口§G+1§! $job_magic_entertainer$"
- mod_job_magic_entertainer_per_pop_short:0 "\n§G+1§!£mod_job_magic_entertainer_add£ per $VALUE$ £pop£"
+ mod_job_magic_entertainer_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_entertainer_add£"
 
  job_alchemist:0 "炼金术士"
  job_alchemist_plural:0 "炼金术士"
@@ -208,7 +212,7 @@
  job_alchemist_effect_desc:0 "§H£job_alchemist£ §P$job_alchemist_plural$§!: §R-3§!(£minerals£,£alloys£,£consumer_goods£,£mana_crystals£), §G+6§!£arcane_technology£§!"
  mod_job_alchemist_add:0 "§P$job_alchemist$§! §H职业§!"
  mod_job_alchemist_per_pop:0 "每$VALUE$人口§G+1§! $job_alchemist$"
- mod_job_alchemist_per_pop_short:0 "\n§G+1§!£mod_job_alchemist_add£ per $VALUE$ £pop£"
+ mod_job_alchemist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_alchemist_add£"
 
  job_magic_researcher:0 "奥法探求者"
  job_magic_researcher_plural:0 "奥法探求者"
@@ -216,7 +220,7 @@
  job_magic_researcher_effect_desc:0 "§H£job_magic_researcher£ §P$job_magic_researcher_plural$§!: §R-1§!£arcane_technology£, §G+5§! (£physics£ £society£ £engineering£)§!"
  mod_job_magic_researcher_add:0 "§P$job_magic_researcher$§! §H职业§!"
  mod_job_magic_researcher_per_pop:0 "每$VALUE$人口§G+1§! $job_magic_researcher$"
- mod_job_magic_researcher_per_pop_short:0 "\n§G+1§!£mod_job_magic_researcher_add£ per $VALUE$ £pop£"
+ mod_job_magic_researcher_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_researcher_add£"
 
  ####################################
  # 工人职业
@@ -227,7 +231,7 @@
  job_hit_wizard_effect_desc:0 "§H£job_hit_wizard£ §P$job_hit_wizard_plural$§!: §R-1§!£arcane_technology£, §G+5§!£mod_country_naval_cap_add£, §G+5§!£defense_army£§!"
  mod_job_hit_wizard_add:0 "§P$job_hit_wizard$§! §H职业§!"
  mod_job_hit_wizard_per_pop:0 "每$VALUE$人口§G+1§! $job_hit_wizard$"
- mod_job_hit_wizard_per_pop_short:0 "\n§G+1§!£mod_job_hit_wizard_add£ per $VALUE$ £pop£"
+ mod_job_hit_wizard_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_hit_wizard_add£"
 
  job_magic_clerk:0 "奇才"
  job_magic_clerk_plural:0 "奇才"
@@ -235,7 +239,7 @@
  job_magic_clerk_effect_desc:0 "§H£job_magic_clerk£ §M$job_magic_clerk_plural$§!: §G+3§!£mod_trade_value_add£, §G+3§!£mod_planet_amenities_add£§!"
  mod_job_magic_clerk_add:0 "§M$job_magic_clerk$§! §H职业§!"
  mod_job_magic_clerk_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_clerk$§!"
- mod_job_magic_clerk_per_pop_short:0 "\n§G+1§! §M£mod_job_magic_clerk_add£§! per $VALUE$ £pop£"
+ mod_job_magic_clerk_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_magic_clerk_add£§!"
 
  job_mana_harvester:0 "奥法收割者"
  job_mana_harvester_plural:0 "奥法收割者"
@@ -243,7 +247,7 @@
  job_mana_harvester_effect_desc:0 "§H£job_mana_harvester£ §M$job_mana_harvester_plural$§!: §G+15§!£mana_crystals£§!"
  mod_job_mana_harvester_add:0 "§M$job_mana_harvester$§! §H职业§!"
  mod_job_mana_harvester_per_pop:0 "每$VALUE$人口§G+1§! §M$job_mana_harvester$§!"
- mod_job_mana_harvester_per_pop_short:0 "\n§G+1§! §M£mod_job_mana_harvester_add£§! per $VALUE$ £pop£"
+ mod_job_mana_harvester_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_mana_harvester_add£§!"
 
  ####################################
  # Magical Capitals
@@ -269,6 +273,9 @@
  building_arcane_slave_capital_desc:0 "这豪华的宫殿统治着这个王国。"
  building_arcane_slave_major_capital:0 "神秘州长地产"
  building_arcane_slave_major_capital_desc:0 "庞大而豪华的宫殿里住着王权世界的统治精英。"
+
+ building_ministry_magic:0 "魔法部"
+ building_ministry_magic_desc:0 "$building_arcane_colony_shelter_desc$"
 
  ####################################
  # Government Buildings

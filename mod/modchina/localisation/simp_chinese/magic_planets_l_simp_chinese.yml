@@ -266,7 +266,7 @@
  decision_unfocus_rural_dsec:0 "我们在这颗星球上的乡村地区将重新提供平均的职位。"
  decision_unfocus_rural_effects:0 "在 [Root.GetName] 上的乡村地区将提供 §G+1§! ($job_technician$, $job_miner$, $job_farmer$) 职位。"
 
- decision_no_focus_rural:0 "§G没有乡村焦点§!"
+ decision_no_focus_rural:0 "§G无乡村焦点§!"
  decision_no_focus_rural_desc:0 "我们在这颗星球上的乡村地区不会关注任何一个地区。"
  decision_no_focus_rural_effects:0 "清除那些讨厌的焦点清单。"
 
@@ -282,7 +282,7 @@
  decision_unfocus_industry_desc:0 "我们在这颗星球上的工业区将重新提供平均的职位。"
  decision_unfocus_industry_effects:0 " [Root.GetName] 上的工业区将提供 §G+2§! ($job_magic_artisan$, $job_magic_foundry$) 工作。"
 
- decision_no_focus_industry:0 "§H没有工业焦点§!"
+ decision_no_focus_industry:0 "§H无工业焦点§!"
  decision_no_focus_industry_desc:0 "我们在这颗星球上上的工业区将不会调整他们的工业输出。"
  decision_no_focus_industry_effects:0 "清除那些讨厌的焦点清单。"
 
@@ -311,6 +311,6 @@
  decision_unfocus_alchemists_desc:0 "我们在这颗星球上的炼金术士将停止生产稀有战略资源。"
  decision_unfocus_alchemists_effects:0 " [Root.GetName] 上的炼金术士将会生产 §G+5§!£arcane_technology£."
 
- decision_no_focus_alchemists:0 "§M没有炼金术焦点§!"
- decision_no_focus_alchemists_desc:0 "我们在这颗星球上的上的炼金术士不会产生任何稀有战略资源。"
- decision_no_focus_alchemists_effects:0 "清除那些讨厌的焦点清单。"
+ decision_fix_focus_alchemists:0 "§M无炼金术焦点§!"
+ decision_fix_focus_alchemists_desc:0 "我们在这颗星球上的上的炼金术士不会产生任何稀有战略资源。"
+ decision_fix_focus_alchemists_effects:0 "清除那些讨厌的焦点清单。"

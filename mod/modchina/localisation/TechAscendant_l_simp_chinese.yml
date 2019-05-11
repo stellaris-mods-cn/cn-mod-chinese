@@ -3,53 +3,53 @@
  # Technologies
  ###################################################
 
- tech_materials_breakthrough: "材料突破"
+ tech_materials_breakthrough: "突破:纳米制造"
 ## tech_materials_breakthrough -> Breakthrough: Nanofabrication ##
- tech_materials_breakthrough_desc: "REPLACE_ME"
+ tech_materials_breakthrough_desc: "我们可以制造微小的机器人来制造其他微小的机器人。它将是可爱的，并不能创造可怕的灰色粘性"
 ## tech_materials_breakthrough_desc -> We can make tiny tiny robots that make other tiny tiny robots. It will be adorable, and could not at all create terrifying grey goo ##
- tech_industry_breakthrough: "产业突破"
+ tech_industry_breakthrough: "突破:有机硅加工"
 ## tech_industry_breakthrough -> Breakthrough: Organic Silicon Processing ##
- tech_industry_breakthrough_desc: "REPLACE_ME"
+ tech_industry_breakthrough_desc: "我们可以像植物收获阳光一样收获矿物。我们将直接种植矿物，而不是挖掘地质残留物。"
 ## tech_industry_breakthrough_desc -> We can harvest minerals the way plants harvest sunlight. Instead of digging for geologic leftovers, we will grow minerals directly. ##
- tech_rocketry_breakthrough: "火箭突破"
+ tech_rocketry_breakthrough: "突破:无惯性驱动"
 ## tech_rocketry_breakthrough -> Breakthrough: Inertialess Drive ##
- tech_rocketry_breakthrough_desc: "REPLACE_ME"
+ tech_rocketry_breakthrough_desc: "当然，对于每一个力都有一个相等且相反的反作用力。但是，如果一个局部的超空间场可以让我们把多余的惯性排除到子空间中，同时在传输过程中保持一个舒适的1g呢?是的。这是有意义的。花,物理。"
 ## tech_rocketry_breakthrough_desc -> Sure, for every force there is an equal and opposite reaction. But what if a localized hyperspace field could allow us to expel excess inertia into subspace, while maintaining a comfortable 1 G in transit? Yes. That makes sense. Take that, physics. ##
- tech_particles_breakthrough: "粒子突破"
+ tech_particles_breakthrough: "突破:量子力学预测"
 ## tech_particles_breakthrough -> Breakthrough: Predictive Quantum Mechanics ##
- tech_particles_breakthrough_desc: "REPLACE_ME"
+ tech_particles_breakthrough_desc: "你不可能同时知道粒子的速度和位置，但如果我们真的很擅长猜测其中一个呢?"
 ## tech_particles_breakthrough_desc -> You cannot know both a particles speed and location, but what if we just got really good at guessing one of them? ##
- tech_voidcraft_breakthrough: "太空船模块突破"
+ tech_voidcraft_breakthrough: "突破:星际飞船生活"
 ## tech_voidcraft_breakthrough -> Breakthrough: Living Starships ##
- tech_voidcraft_breakthrough_desc: "REPLACE_ME"
+ tech_voidcraft_breakthrough_desc: "飞船将成为其船员的延伸，集成了神经电路、自我保护协议和再生特性。不幸的是，这意味着如果您更改或升级了太多的组件，那么飞船本身可能会提交不舒服的抱怨。官僚主义永远不会结束。"
 ## tech_voidcraft_breakthrough_desc -> Ships will become extensions of their crew, integrated with neural circuitry, self-preservation protocols, and regenerative properties. Unfortunately, this means that ships themselves may submit discomfort complaints if you change or upgrade their components too much. Bureaucracy never ends. ##
- tech_field_manipulation_breakthrough: "立场操纵突破"
+ tech_field_manipulation_breakthrough: "突破:暂时屏蔽"
 ## tech_field_manipulation_breakthrough -> Breakthrough: Temporal Shielding ##
- tech_field_manipulation_breakthrough_desc: "REPLACE_ME"
+ tech_field_manipulation_breakthrough_desc: "时间是比能量屏障更有效的屏障。小规模的时间位移场将确保攻击无法击中不再存在的东西。"
 ## tech_field_manipulation_breakthrough_desc -> Time is a far more efficient shield than any energy barrier. Small-scale temporal displacement fields will ensure that attacks cannot hit what is no longer there. ##
- tech_computing_breakthrough: "计算突破"
+ tech_computing_breakthrough: "突破:包含奇点"
 ## tech_computing_breakthrough -> Breakthrough: Contained Singularity ##
- tech_computing_breakthrough_desc: "REPLACE_ME"
+ tech_computing_breakthrough_desc: "自我优化的人工智能确实存在比它的创造者更聪明的风险。但我们已经把这个放在一个非常强大的框中，更不用说我们硬编码到它的编程中的3条定律了。我向你保证，一切都很安全。"
 ## tech_computing_breakthrough_desc -> Self optimizing AI does carry a risk of becoming exponentially more intelligent than its creators. But we have put this one in a very strong box, not to mention the 3 laws we hardcoded into its programming. Everything is perfectly safe, I assure you. ##
- tech_psionics_breakthrough: "灵能突破"
+ tech_psionics_breakthrough: "突破:灵能历史学
 ## tech_psionics_breakthrough -> Breakthrough: Psychohistory ##
- tech_psionics_breakthrough_desc: "REPLACE_ME"
+ tech_psionics_breakthrough_desc: "个体是不稳定的，但是群体是可以预测的。结合历史、社会学和统计学，我们可以预测整个帝国的未来。"
 ## tech_psionics_breakthrough_desc -> Individuals are erratic, but mobs are predictable. Using a combination of history, sociology, and statistics we can predict the future of entire empires. ##
- tech_new_worlds_breakthrough: "新世界突破"
+ tech_new_worlds_breakthrough: "突破:最后的边界"
 ## tech_new_worlds_breakthrough -> Breakthrough: The Final Frontier ##
- tech_new_worlds_breakthrough_desc: "REPLACE_ME"
+ tech_new_worlds_breakthrough_desc: "标准化的规划，工厂生产的可部署的住房，以及有效的管理将使边境上的新殖民地得到迅速发展。"
 ## tech_new_worlds_breakthrough_desc -> Standardized planning, factory produced deployable housing, and efficient management will expediate new colonies on the frontier. ##
- tech_biology_breakthrough: "生物学突破"
+ tech_biology_breakthrough: "突破:基因重新编码"
 ## tech_biology_breakthrough -> Breakthrough: Genetic Recoding ##
- tech_biology_breakthrough_desc: "REPLACE_ME"
+ tech_biology_breakthrough_desc: "进化是一个强大而缓慢的过程，即使是基因操作也需要一代人的时间才能生效。现在，我们可以实时编辑一个生物体的整个基因组。"
 ## tech_biology_breakthrough_desc -> Evolution is a powerful but slow process, even genetic manipulation takes a generation to take effect. Now, we can edit the entire genome of a living organism in real time. ##
- tech_statecraft_breakthrough: "政治的突破"
+ tech_statecraft_breakthrough: "突破:通用翻译"
 ## tech_statecraft_breakthrough -> Breakthrough: Universal Translators ##
- tech_statecraft_breakthrough_desc: "REPLACE_ME"
+ tech_statecraft_breakthrough_desc: "语言不仅是不同物种之间的屏障，它还将几乎每个种族内部的不同文化分隔开来。通用翻译器有可能在外交和国内政治上带来革命性的变化。"
 ## tech_statecraft_breakthrough_desc -> Language is not only a barrier between different species, it separates various cultures within nearly every race. The universal translator has the potential to revolutionize both xeno-diplomacy and internal politics as well. ##
- tech_military_theory_breakthrough: "军事理论突破"
+ tech_military_theory_breakthrough: "突破:大战略模拟"
 ## tech_military_theory_breakthrough -> Breakthrough: Grand Strategy Simulations ##
- tech_military_theory_breakthrough_desc: "REPLACE_ME"
+ tech_military_theory_breakthrough_desc: "通过训练我们的指挥人员从所谓的4X学校计算机模拟，我们的领导人将更好地装备探索，扩大，利用，或消灭需要。"
 ## tech_military_theory_breakthrough_desc -> By training our command staff with computer simulations from what has become known as the 4X school, our leaders will be better equipped to explore, expand, exploit, or exterminate as needed. ##
 
  ###################################################
@@ -310,7 +310,7 @@
 
  foundation_war.title: "在这个充满冲突的时代，这是一盏明灯"
 ## foundation_war.title -> A Light in this Age of Strife ##
- foundation_war.desc: "当前的冲突后,大大增加了影响力和合法性的基金会上我们的首都。这是我们的精神历史学家预言的黑暗时代来临的预兆吗?民众会相信任何能给他们带来希望的东西，现在让他们听从一些自我放纵的统计学家和社会学家的教导，对稳定政府是有帮助的。我们不应该认真对待银河系即将陷入混乱和衰落的观点，不是吗?"
+ foundation_war.desc: "当前的冲突后,我们的首都上的基金会大大增加了影响力和合法性。这是我们的精神历史学家预言的黑暗时代来临的预兆吗?民众会相信任何能给他们带来希望的东西，现在让他们听从一些自我放纵的统计学家和社会学家的教导，对稳定政府是有帮助的。我们不应该认真对待银河系即将陷入混乱和衰落的观点，不是吗?"
 ## foundation_war.desc -> The current conflict has dramatically increased the clout and legitimacy of The Foundation on our capital. Is this the herald of the coming age of darkness that our Psychohistorian predicts? The masses will believe anything that offers them hope, and for now letting them flock to the teachings of a few self indulgent statisticians and sociologists is helpful to the stability government. The idea that the galaxy is on brink of devolving into a state of chaos and decline is not one we should take seriously, is it? ##
  age_of_strife.tooltip: "§Y$job_psychohistorian_plural$§!: \n§G+2 £influence£ +60 £society£ +10 £stability£§! \n只要我们在打仗，天堂之战，或有危机，这种影响就会一直存在。"
 ## age_of_strife.tooltip -> §Y$job_psychohistorian_plural$§!: \n§G+2 £influence£ +60 £society£ +10 £stability£§! \nThis effect will remain for as long as we are at war, there is a War in Heaven, or an ongoing crisis. ##
