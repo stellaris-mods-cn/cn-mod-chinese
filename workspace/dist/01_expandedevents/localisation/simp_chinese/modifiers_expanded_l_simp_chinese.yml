@@ -6,207 +6,121 @@
 
 # Starting
 d_chrysanthemum:0 "秋菊号"
-## d_chrysanthemum -> Chrysanthemum ##
 d_chrysanthemum_desc:0 "殖民者的船菊花号在到达后不久就被拆除了，它的核心力量推动了人类在另一个世界的第一次定居。"
-## d_chrysanthemum_desc -> The colony ship Chrysanthemum was dismantled soon after it arrived, and its power core fueled the first human settlement on another world. ##
 
 # Blocker
 d_collapsed_sinkhole:0 "倒塌的深坑"
-## d_collapsed_sinkhole -> Collapsed Sinkhole ##
 d_collapsed_sinkhole_desc:0 " 一个巨大的天坑曾经覆盖了这一地区的大部分地区，但现在已经坍塌到一个更容易控制的规模。"
-## d_collapsed_sinkhole_desc ->  A colossal sinkhole once covered most of this region, but it has since collapsed to a more manageable size. ##
+d_deep_sinkhole_mesa:0 "$d_deep_sinkhole$"
+d_deep_sinkhole_mesa_desc:0 "$d_deep_sinkhole_desc$"
+d_noxious_swamp_bubbling:0 "$d_noxious_swamp$"
+d_noxious_swamp_bubbling_desc:0 "$d_noxious_swamp_desc$"
 d_exofungus_blocker:0 "外突生长"
-## d_exofungus_blocker -> Exofungus Growth ##
 d_exofungus_blocker_desc:0 "入侵星球的外食像癌症一样扩散，阻塞了地形，干扰了基础设施。"
-## d_exofungus_blocker_desc -> The exofungus that has invaded this planet spreads like a cancer, choking the terrain and interfering with infrastructure. ##
 
 # Event
 d_predatory_plants:0 "食肉植物"
-## d_predatory_plants -> Carniverous Plants ##
 d_predatory_plants_desc:0 "这个星球是大型食肉植物的家园。"
-## d_predatory_plants_desc -> This planet is home to massive carniverous plants. ##
 d_sand_worms:0 "地下蠕虫"
-## d_sand_worms -> Subterranean Worms ##
 d_sand_worms_desc:0 "这个星球是大型地下蠕虫的家园。他们的隧道便于采矿，但他们的挖掘往往会对地表造成破坏。"
-## d_sand_worms_desc -> This planet is home to large subterranean worms. Their tunnels allow for easier access for mining, but their digging is often disruptive to the surface. ##
 d_titanic_fossils:0 "泰坦化石"
-## d_titanic_fossils -> Titanic Fossils ##
 d_titanic_fossils_desc:0 "在这个星球上可以找到现已灭绝的泰坦化石遗迹。"
-## d_titanic_fossils_desc -> Fossilized remains of now extinct titanic lifeforms can be found on this planet. ##
 d_pitharan_fields:0 "皮萨兰尘埃"
-## d_pitharan_fields -> Pitharan Fields ##
 d_pitharan_fields_desc:0 "这颗行星异常肥沃的土壤是由来自月球的皮萨兰尘埃滋养的。"
-## d_pitharan_fields_desc -> This planet's unusually rich soil is fertilized by pitharan dust from the planet's moon. ##
 d_abandoned_colony:0 "废弃的殖民地"
-## d_abandoned_colony -> Abandoned Colony ##
 d_abandoned_colony_desc:0 "殖民失败后被遗弃的废墟"
-## d_abandoned_colony_desc -> The abandoned ruins of a failed colonization attempt ##
 d_misty_shores:0 "有雾的海岸"
-## d_misty_shores -> Misty Shores ##
 d_misty_shores_desc:0 "由一些塑料聚合物组成的大而灵活的几何网格被放置在海洋中。从轨道上看，它们只是为了美观。"
-## d_misty_shores_desc -> Large, flexible geometric grids made up of some plastic polymer have been placed in the seas. Visible from orbit, they serve only an aesthetic purpose. ##
 d_nanosands:0 "纳米"
-## d_nanosands -> Nanosand ##
 d_nanosands_desc:0 "一大片微小的纳米碎片覆盖了星球的部分地区。这些微型机器是由稀有的矿石制成的，这些矿石适合开采。"
-## d_nanosands_desc -> A sea of tiny broken nanites cover portions of the planet. The tiny machines are made of rare ores, which are ripe for mining. ##
 d_acid_jungles:0 "酸丛林"
-## d_acid_jungles -> Acid Jungles ##
 d_acid_jungles_desc:0 "进化产生了树木和树叶，它们散发出酸，使得穿越或定居的地形变得危险。"
-## d_acid_jungles_desc -> Evolution has produced trees and foliage that exude acids and make the terrain dangerous to traverse or settle in. ##
 d_ai_fleet:0 "坠毁的AI舰队"
-## d_ai_fleet -> Crashed AI-Fleet ##
 d_ai_fleet_desc:0 "一个由人工智能控制的舰队被摧毁在星球上，给我们提供了宝贵的工程数据进行研究。"
-## d_ai_fleet_desc -> A fleet controlled by an AI lies destroyed on the planet, giving us valuable engineering data to research. ##
 d_irradiated_wasteland_anomaly:0 "辐照荒地"
-## d_irradiated_wasteland_anomaly -> Irradiated Wasteland ##
 d_irradiated_wasteland_anomaly_desc:0 "这个星球一直受到辐射的轰击，使它的大部分对大多数生物都是危险的。"
-## d_irradiated_wasteland_anomaly_desc -> The planet has been bombarded with radiation, making large parts of it dangerous to most living creatures. ##
 d_liquid_sands:0 "液体金沙"
-## d_liquid_sands -> Liquid Sands ##
 d_liquid_sands_desc:0 "沙子覆盖着这颗星球，所以细粒的沙子就像液体。矿物的奇特成分提供了大量的研究。"
-## d_liquid_sands_desc -> Sand covers this planet, so fine grained it resembles a liquid. The odd composition of minerals provide ample amounts of research. ##
 d_ship_graveyard:0 "飞船墓地"
-## d_ship_graveyard -> Starship Graveyard ##
 d_ship_graveyard_desc:0 "大量的星际飞船在这里坠毁，创造了一个满是垃圾的象征性墓地。"
-## d_ship_graveyard_desc -> A multitude of starships have crashed here, creating a figurative graveyard full of materials to scavenge. ##
 d_giant_pearls:0 "Giant Mollusks"
-## d_giant_pearls -> Giant Mollusks ##
 d_giant_pearls_desc:0 "This world is home to large species of mollusks, known for producing large and valuable pearls."
-## d_giant_pearls_desc -> This world is home to large species of mollusks, known for producing large and valuable pearls. ##
+d_cunning_flora_perimeter_1:0 "Basic Defensive Perimeter"
+d_cunning_flora_perimeter_1_desc:0 "A basic defensive perimeter defends our settlements from the hostile native plant life."
+d_cunning_flora_perimeter_2:0 "Defensive Perimeter"
+d_cunning_flora_perimeter_2_desc:0 "A defensive perimeter defends our settlements from the hostile native plant life."
+d_cunning_flora_perimeter_3:0 "Complete Defensive Perimeter"
+d_cunning_flora_perimeter_3_desc:0 "Defensive perimeters encircle most of the planet, defending our settlements from the hostile native plant life."
 
 # Special System
 d_presidium:0 "主席团"
-## d_presidium -> Presidium  ##
 d_presidium_desc:0 "恐惧症的中心环是一个维护良好的公园，公园两侧环绕着设计复杂的住宅和商业塔楼。环上耸立着一座巨大的塔楼，里面有废弃的政府办公楼。"
-## d_presidium_desc -> The central ring of this station is home to a well maintained park, surrounded on both sides by intricately designed residential and commercial towers. Rising above the ring is a massive tower, containing abandoned government offices. ##
 d_protein_vats:0 "蛋白质大桶"
-## d_protein_vats -> Protein Vats ##
 d_protein_vats_desc:0 "在空间站的深处，这个栖息地的无人机种群维持着数百个生产合成食物的大桶，足以养活相当数量的种群。由此产生的浆液是完全安全食用的，没有任何可疑或麻烦。"
-## d_protein_vats_desc -> In the deep recesses of the station, the habitat's drone population maintains hundreds of vats producing synthesized food, enought to feed a sizable population. The resulting slurry is perfectly safe to eat, and not in any way dubious or troublesome. ##
 d_engineered_keepers:0 "基因工程维修单位"
-## d_engineered_keepers -> Genetically Engineered Maintenance Drones ##
 d_engineered_keepers_desc: "经过特殊设计的有机单位维护和操作本站的先进系统。"
-## d_engineered_keepers_desc -> Specially engineered organic drones maintain and operate the advanced systems of this station. ##
 d_citadel_wards:0 "栖息地病房"
-## d_citadel_wards -> Habitat Wards ##
 d_citadel_wards_desc:0 "五条手臂从车站的中央环伸出，提供了车站的大部分空间。在战争时期，这些武器可以靠近，形成一个保护壳，保护内部免受攻击。"
-## d_citadel_wards_desc -> Five arms reach out from the station's central ring, providing the majority of the station's housing. In times of war, the arms can close up and form a protective shell, shielding the interior from attack. ##
 d_spice_mine:0 "泽洛香料"
-## d_spice_mine -> Zro Spice ##
 d_spice_mine_desc:0 "注入泽洛的“香料”通常存在于世界土壤中，是当地沙虫自然生命周期的一部分。"
-## d_spice_mine_desc -> Zro-infused 'spice' is commonly found in the world's soil, deposited as part of the natural life cycle of the native sand worms. ##
 mod_building_zro_harvesters_max:0 "Max $building_zro_harvesters$"
-## mod_building_zro_harvesters_max -> Max $building_zro_harvesters$ ##
 
 # Precursor
 d_vultaum_1:0 "瓦塔姆太空电梯"
-## d_vultaum_1 -> Vultaum Space Elevator ##
 d_vultaum_1_desc:0 "坍塌的瓦塔姆太空升降机的部分残骸从赤道升起。它的电缆在撞击几个城市中心时突然断裂，造成数百万人死亡"
-## d_vultaum_1_desc -> The partial remains of a collapsed Vultaum space elevator rises from the equator. Its cable was intentially snapped, killing millions when it crashed into several urban centers ##
 d_vultaum_2:0 "瓦塔姆废墟"
-## d_vultaum_2 -> Vultaum Ruins ##
 d_vultaum_2_desc:0 "在几百万年前的一系列大规模反物质爆炸之后，这些瓦塔姆聚落只剩下几个巨大的、完美的圆形湖泊。"
-## d_vultaum_2_desc -> Several large, perfectly circular lakes are all that remain of these Vultaum settlements after a series of massive antimatter explosions several million years ago. ##
 d_vultaum_3:0 "瓦塔姆洞穴"
-## d_vultaum_3 -> Vultaum Caverns ##
 d_vultaum_3_desc:0 "这个世界曾经是一个地下瓦塔姆殖民地的家园，很久以前在数百万吨的岩石下崩塌。"
-## d_vultaum_3_desc -> This world was once home to a subterranean Vultaum colony, long ago collapsed under millions of tons of rock. ##
 d_vultaum_4:0 "瓦塔姆分裂的殖民地"
-## d_vultaum_4 -> Vultaum Splinter Colony ##
 d_vultaum_4_desc:0 "这个世界曾经是一个瓦塔姆殖民地的家园，这个殖民地似乎是被某个拒绝他们社会主导哲学的分裂团体所定居的。"
-## d_vultaum_4_desc -> This world was once home to a Vultaum colony that seems to have been settled by some kind of splinter group that rejected their society's dominant philosophy. ##
 d_yuht_1:0 "亚特孵卵所世界"
-## d_yuht_1 -> Yuht Hatchery World ##
 d_yuht_1_desc:0 "亚特人对这个世界上任何危险的生命形式进行了消毒，使之成为适合他们后代的孵卵地。"
-## d_yuht_1_desc -> The Yuht sterilized this world of any dangerous life-forms to make it a suitable hatchery for their young. ##
 d_yuht_2:0 "亚特殖民地"
-## d_yuht_2 -> Yuht Colony ##
 d_yuht_2_desc:0 "这个世界的南半球有几十个巨大的亚特生态遗迹。特别值得注意的是一座博物馆的废墟，里面陈列着所谓的“著名外星人骗局”。"
-## d_yuht_2_desc -> This world holds the ruins of several dozen massive Yuht arcologies on its southern hemisphere. Of particular note is the crumbling ruins of a museum displaying supposed 'famous alien frauds.' ##
 d_yuht_3:0 "亚特墓地"
-## d_yuht_3 -> Yuht Graveyard ##
 d_yuht_3_desc:0 "这个世界上有一个巨大的亚特墓地，很久以前被洗劫一空。"
-## d_yuht_3_desc -> This world is home to a massive Yuht graveyard, looted of valuables long ago. ##
 d_yuht_4:0 "亚特战场"
-## d_yuht_4 -> Yuht Battlefield ##
 d_yuht_4_desc:0 "这个世界是古代亚特和贾巴尔代尼之间战斗的地方。这些定居点从未重建，亚特的军事装备仍然散落在地表。"
-## d_yuht_4_desc -> This world was the site of an ancient battle between the Yuht and the Jabbardeeni. The settlements were never rebuilt, and the Yuht's military equipment still litter the surface. ##
 d_first_1:0 "卡姆代家园"
-## d_first_1 -> Khamdai Homeworld ##
 d_first_1_desc:0 "这个世界是虫族战士卡姆代人的家园。除了南半球的一个大型自然保护区外，蜂窝状城市的废墟覆盖着地球表面。"
-## d_first_1_desc -> This world was the homeworld of the insectoid warriors, the Khamdai. Ruins of hive-like cities cover the surface, except for a massive nature preserve in the southern hemisphere. ##
 d_first_2:0 "查萨戈家园"
-## d_first_2 -> Chassago Homeworld ##
 d_first_2_desc:0 "这个世界是爬虫类商人查萨戈人的家园。他们的地下城市早就倒塌了。"
-## d_first_2_desc -> This world was the homeworld of the reptillian traders, the Chassago. Their underground cities have long ago collapsed. ##
 d_first_3:0 "米吉尔·扬家园"
-## d_first_3 -> Migir-Yan Homeworld ##
 d_first_3_desc:0 "这个世界是繁殖迅速的密尔延的故乡。这些微小的，类似啮齿动物的生物生活在巨大的生态系统中，而这些生态系统的废墟仍然散落在地表。"
-## d_first_3_desc -> This world was the homeworld of the fast-breeding Migir-Yan. These tiny, rodent-like creatures lived in massive arcologies whose ruins still litter the surface. ##
 d_first_4:0 "V 'ropak家园"
-## d_first_4 -> V'ropak Homeworld" ##
 d_first_4_desc:0 "这个世界是鸟类研究者V'ropak的家园。他们把城市建在大平顶山里。"
-## d_first_4_desc -> This world was the homeworld of the avian researchers, the V'ropak. They built their cities inside large mesas. ##
 d_first_5:0 "联盟联合殖民地"
-## d_first_5 -> Joint League Colony ##
 d_first_5_desc:0 "这个世界是由第一联合的成员以同样的数量定居下来的。仅仅50年后，由于居民之间的激烈内讧，它就被废弃了。"
-## d_first_5_desc -> This world was settled in equal numbers by the members of the First League. It was abandoned after only 50 years due to tense infighting among the inhabitants. ##
 d_first_6:0 "联盟贸易中心"
-## d_first_6 -> League Trade Center ##
 d_first_6_desc:0 "这个世界曾经是一个繁荣的第一联合贸易世界，仅在北半球就拥有至少12个主要的太空港。它在第一个联赛解体后逐渐被废弃。"
-## d_first_6_desc -> This world was once a thriving First League trading world, boasting at least twelve major spaceports in the northern hemisphere alone. It was gradually abandoned after the collapsed of the First League. ##
 d_first_7:0 "被保护原始的世界"
-## d_first_7 -> Protected Primitive World ##
 d_first_7_desc:0 "这个世界曾经是青铜时代早期文明的发源地，受到第一联盟的保护。联盟垮台后，原始人成了一群奴隶贩子的猎物。"
-## d_first_7_desc -> This world was once home to an early Bronze Age civilization under the protection of the First League. After the league fell, the primitives fell prey to a band of slavers. ##
 d_first_8:0 "被封锁世界"
-## d_first_8 -> Blockaded World ##
 d_first_8_desc:0 "这个世界是一个物种的家园，第一联合认为这个物种“不听话”，并在一场正在进行的贸易战中被封锁了两次。"
-## d_first_8_desc -> This world was the homeworld of a species that the First Leage considered 'non-compliant,' and was blockaded twice as part of an ongoing trade war. ##
 d_irassian_1:0 "隔离的伊拉西安殖民地"
-## d_irassian_1 -> Quarantined Irassian Colony ##
 d_irassian_1_desc:0 "前伊拉西安殖民地，死于爪哇水痘。伊朗军方对世界进行隔离，试图阻止这种疾病的传播，但没有成功。"
-## d_irassian_1_desc -> A former Irassian colony that succumbed to Javorian Pox. The world was under quarantine by the Irassian military in an unsuccessful attempt to stop the spread of the disease. ##
 d_irassian_2:0 "纯化伊拉西安殖民地"
-## d_irassian_2 -> Purified Irassian Colony ##
 d_irassian_2_desc:0 "这个前伊拉西亚殖民地在制止贾沃里亚痘传播的徒劳努力中，通过轨道轰击得到了净化。"
-## d_irassian_2_desc -> This former Irassian colony was purified by orbital bombardment in a futile effort to stop the spread of the Javorian Pox. ##
 d_irassian_3:0 "Joggra家园"
-## d_irassian_3 -> Joggra Homeworld ##
 d_irassian_3_desc:0 "这个世界是Joggra的家园。Joggra是一种软体动物，被伊朗人征服，被迫作为附属国。"
-## d_irassian_3_desc -> This world was the homeworld of the Joggra, a molluscoid species conqured by the Irassians and forced to serve as a client species. ##
 d_irassian_4:0 "提德格家园"
-## d_irassian_4 -> Ti'Derg Homeworld ##
 d_irassian_4_desc:0 "这个世界是有翼节肢动物提德格的故乡，提德格是伊朗的附庸国。伊拉西安人认为提德格人蓄意传播爪哇人的天花，从轨道上摧毁了他们的家园。"
-## d_irassian_4_desc -> This world was the homeworld of the Ti'Derg, winged arthropoids who served as an Irassian client state. The Irassians, believing that the Ti'Derg were deliberately spreading the Javorian Pox, destroyed their homeworld from orbit. ##
 d_irassian_5:0 "死亡的伊拉西安殖民地"
-## d_irassian_5 -> Dead Irassian Colony ##
 d_irassian_5_desc:0 "在被Javorian Pox摧毁之前，这个世界曾经是一个繁荣的伊拉西安殖民地。这里的废墟保存得非常完好。"
-## d_irassian_5_desc -> This world was once a thriving Irassian colony before being destroyed by the Javorian Pox. The ruins here are remarkably well preserved. ##
 d_irassian_6:0 "伊拉西安殖民地"
-## d_irassian_6 -> Irassian Colony ##
 d_irassian_6_desc:0 "这个世界包含了一个早期的伊拉西安人定居点，它被爪哇人的天花杀死。天花似乎起源于这里。"
-## d_irassian_6_desc -> This world contains an early Irassian settlement killed off by the Javorian Pox. The pox appears to have originated here. ##
 d_cybrex_1:0 "库尔家园"
-## d_cybrex_1 -> Kuur Homeworld ##
 d_cybrex_1_desc:0 "这个世界是库尔人的家园，库尔人创造了后来的塞博克里斯。他们的创造物攻击他们，摧毁了他们存在的几乎所有证据。"
-## d_cybrex_1_desc -> This world was the homeworld of the Kuur, the creators of the machines that became the Cybrex. Their creations turned on them, destroying almost all evidence of their existance. ##
 d_cybrex_2:0 "印第马克家园"
-## d_cybrex_2 -> Indimak Homeworld ##
 d_cybrex_2_desc:0 "这个世界是印第马克人的家园，一个被塞博勒克斯灭绝的物种。在他们投降后，他们被迫在西布雷克斯战争工厂做奴隶劳工，参与了自己的灭绝行动。"
-## d_cybrex_2_desc -> This world was the homeworld of the Indimak, a species exterminated by the Cybrex. After their surrender, they were forced participate in their own extermination by working as slave labor in Cybrex war factories. ##
 d_cybrex_3:0 "未知的家园"
-## d_cybrex_3 -> Unknown Homeworld ##
 d_cybrex_3_desc:0 "这个世界是一个未知物种的家园，他们对塞博勒克斯的入侵进行了顽强的抵抗。当塞博勒克斯撞向星球的两颗大小行星时，他们的抵抗终于结束了。"
-## d_cybrex_3_desc -> This world is the homeworld of an unknown species who put up stiff resistance to Cybrex invasion. Their resistance ultimately ended when the Cybrex crashed two large asteroids into the world. ##
 d_cybrex_4:0 "未知的家园"
-## d_cybrex_4 -> Unknown Homeworld ##
 d_cybrex_4_desc:0 "这个世界曾经是塞博勒克斯的殖民地。与它们在其他星球上的行为形成鲜明对比的是，塞博勒克斯为有机生命留下了一个巨大的保护区，使得当地居民不受干扰。"
-## d_cybrex_4_desc -> This world was once a Cybrex colony. In stark contrast with their behavior on other worlds, the Cybrex left a large reserve for organic life, leaving the native population undisturbed. ##
 
 # orbital
 d_energy_3_society_3:0 "£energy£ +3\n£society£ +3"
-## d_energy_3_society_3 -> £energy£ +3\n£society£ +3 ##
 
 
 ####################################
@@ -214,139 +128,85 @@ d_energy_3_society_3:0 "£energy£ +3\n£society£ +3"
 ####################################
 
 subterranean_engineers:0 "地下工程师"
-## subterranean_engineers -> Subterranean Engineers ##
 subterranean_engineers_desc:0 "来自星球下的外星帝国的工程师们正在参观我们的工程和采矿设施，暂时降低了它们的生产率。"
-## subterranean_engineers_desc -> Engineers from the planet's subterranean alien empire are touring our engineering and mining facilities, temporarily reducing their productivity. ##
 recovered_tomb_world:0 "复原的坟墓星球"
-## recovered_tomb_world -> Recovered Tomb World ##
 recovered_tomb_world_desc:0 "这个世界曾经受到核战争的严重影响。从那以后，星球就恢复了，尽管原来的居民还没有恢复。"
-## recovered_tomb_world_desc -> This world was once heavily irradiated from nuclear warfare. The planet has since recovered, although the original inhabitants have not. ##
 damaged_ecosystem:0 "被破坏的生态系统"
-## damaged_ecosystem -> Damaged Ecosystem ##
 damaged_ecosystem_desc:0 "由于几个世纪的工业开发，星球的生态系统遭到了严重破坏。"
-## damaged_ecosystem_desc -> The ecosystem of this planet was significantly damaged from centuries of industrial exploitation. ##
 deteriorating_ecosystem:0 "生态系统恶化"
-## deteriorating_ecosystem -> Deteriorating Ecosystem ##
 deteriorating_ecosystem_desc:0 "这个星球的生物圈正在以惊人的速度恶化"
-## deteriorating_ecosystem_desc -> The biosphere of this planet is deteriorating at an alarming rate ##
 recent_eruption:0 "防止火山喷发"
-## recent_eruption -> Revent Volcanic Eruption ##
 recent_eruption_desc:0 "这个星球上的一座火山最近爆发了，把火山灰远远地抛向了星球的表面"
-## recent_eruption_desc -> A volcano on this planet has recently erupted, throwing ash far across the planet's surface ##
 tecnocratic_government:0 "特克诺克政府"
-## tecnocratic_government -> Tecnocratic Government ##
 tecnocratic_government_desc:0 "这个星球的地方事务由一个科学家委员会管理。"
-## tecnocratic_government_desc -> Local affairs of this planet is governed by a council of scientists. ##
 black_market:0 "黑市"
-## black_market -> Black Market ##
 black_market_desc:0 "在这个星球上，由于普遍缺乏消费品和赎罪品，导致了黑市的产生。"
-## black_market_desc -> A general lack of consumer products and ammenities have resulted in the creation of a black market on this world. ##
 software_error:0 "软件错误"
-## software_error -> Software Error ##
 software_error_desc:0 "最近一个软件补丁的错误导致了这个星球上无人机种群的错乱行为。"
-## software_error_desc -> An error in a recent software patch has resulted in eratic behavior in this world's drone population. ##
 white_collar_crime:0 "白领犯罪"
-## white_collar_crime -> White-Collar Crime ##
 white_collar_crime_desc:0 "This world is currently experiencing significant financial criminal activity."
-## white_collar_crime_desc -> This world is currently experiencing significant financial criminal activity. ##
 corrupt_cops:0 "腐败的执法"
-## corrupt_cops -> Corrupt Law Enforcement ##
 corrupt_cops_desc:0 "在这个星球上，执法部门存在明显的腐败现象，破坏了公众对地方政府的信任。"
-## corrupt_cops_desc -> There is notable corruption in law enforcement on this world, damaging public trust in the local government. ##
 corrupt_cops_lingering:0 "挥之不去的不信任"
-## corrupt_cops_lingering -> Lingering Distrust ##
 corrupt_cops_lingering_desc:0 "虽然执法部门的腐败现象已被根除，但地方政府内部的公众不满仍挥之不去。"
-## corrupt_cops_lingering_desc -> While corruption in law enforcement has been rooted out, public distruct in the local government still lingers. ##
 art_theft:0 "艺术盗窃"
-## art_theft -> Art Theft ##
 art_theft_desc:0 "这个星球上的一个主要博物馆被抢劫了许多具有文化意义的艺术品"
-## art_theft_desc -> A major museum on this world was robbed of many culturally significant pieces of art ##
 malfunctioing_nexus:0 "错误连接"
-## malfunctioing_nexus -> Malcunctioning Nexus ##
 malfunctioing_nexus_desc:0 "这个星球的上传连接出现故障，导致行星延迟增加。"
-## malfunctioing_nexus_desc -> This world's upload nexus is malfunctioning, resulting in increased planetary latency. ##
 mirror_criminals:0 "Mirror Criminals"
-## mirror_criminals -> Mirror Criminals ##
 mirror_criminals_desc:0 "Criminals fleeing from the mirror universe have joined up with local criminal organizations."
-## mirror_criminals_desc -> Criminals fleeing from the mirror universe have joined up with local criminal organizations. ##
 dportal_more_researchers:0 "Additional Dimensional Researcher Resources"
-## dportal_more_researchers -> Additional Dimensional Researcher Resources ##
 dportal_more_researchers_desc:0 "Additional resources have been dedicated to the researchers studying the dimensional Portal"
-## dportal_more_researchers_desc -> Additional resources have been dedicated to the researchers studying the dimensional Portal ##
 dportal_more_researchers_hive:0 "$dportal_more_researchers$"
-## dportal_more_researchers_hive -> $dportal_more_researchers$ ##
 dportal_more_researchers_hive_desc:0 "$dportal_more_researchers_desc$"
-## dportal_more_researchers_hive_desc -> $dportal_more_researchers_desc$ ##
 dportal_unhappy_researchers_hive:0 "传送门异变"
-## dportal_unhappy_researchers_hive -> Portal Deviancy ##
 dportal_unhappy_researchers_hive_desc:0 "传送门附近的空间扭曲逐渐变得不稳定。"
-## dportal_unhappy_researchers_hive_desc -> The corrupting influence of the dimensional portal has increased deviancy on this world. ##
 dportal_unhappy_researchers_machine:0 "传送门塌陷"
-## dportal_unhappy_researchers_machine -> Portal Corruption ##
 dportal_unhappy_researchers_machine_desc:0 "传送门塌陷导致附近的计算个体效率降低。"
-## dportal_unhappy_researchers_machine_desc -> The corrupting influence of the dimensional portal has resulted in decreased efficiency of calculator drones on this world. ##
 dportal_unhappy_researchers:0 "不开心的研究员"
-## dportal_unhappy_researchers -> Unhappy Researchers ##
+dportal_jump_drive_researchers:0 "Mirror Universe Research"
+dportal_jump_drive_researchers_desc:0 "Our researchers on this world are helping our mirror counterpart investigate ways to close Warp breaches, at the expense of their own research."
+xenophobe_tension:0 "Xenophobic Tensions"
+xenophobe_tension_desc:0 "Tensions have flared between alien migrants and the native population."
+xenophilic_relations:0 "Embraced Xenos"
+xenophilic_relations_desc:0 "The native population have come to accept their alien neighbors."
 
 methane_biosphere:0 "甲烷生物圈"
-## methane_biosphere -> Methane Biosphere ##
 methane_biosphere_desc:1 "这个有毒的世界是一个稀有生态系统的家园，在这个生态系统中，生命使用甲烷而不是水作为溶剂。这些以甲烷为基础的生命形式以独特的方式发展，研究它们将促进我们对生物学的理解。"
-## methane_biosphere_desc -> This toxic world is home to a rare ecology where life uses methane instead of water as a solvent. These methane-based life forms have developed in unique ways, and studying them would advance our understanding of biology. ##
 transdimensional_being:0 "跨维生命"
-## transdimensional_being -> Transdimensional Lifeform ##
 transdimensional_being_desc:0 "数十亿年前，某种巨大的跨维度生命形式通过一扇门来到了这个世界。只剩下它的古老的骨头。"
-## transdimensional_being_desc -> Some sort of massive transdimensional lifeform passed through a gate to this world billions of years ago. Only its ancient bones remain. ##
 living_metal_spaceborn_alien:0 "宇宙诞生的外星人"
-## living_metal_spaceborn_alien -> Spaceborn Alien ##
 living_metal_spaceborn_alien_desc:0 "数十亿年前，一个在太空出生的外星人死在这里。它古老的骨骼是活金属的丰富来源。"
-## living_metal_spaceborn_alien_desc -> A massive spaceborn alien died here billions of years ago. Its ancient bones are a rich source of living metal. ##
 wetware_computer:0 "人脑计算机"
-## wetware_computer -> Wetware Computer ##
 wetware_computer_desc:0 "一个庞大的人脑计算机网络正在帮助这个星球的研究。"
-## wetware_computer_desc -> A massive wetware computer network is aiding research on this planet. ##
 ravenous_locusts:0 "贪婪的昆虫已经在这个世界上灭绝了，吃掉了所有可用的植物物质。"
-## ravenous_locusts -> Ravenous Locusts ##
 ravenous_locusts:0 "贪婪的昆虫已经在这个世界上灭绝了，吃掉了所有可用的植物物质。"
-## ravenous_locusts -> Ravenous spaceborn insects have decended on this world, eating all available plant matter. ##
 sunless_sea_civilization:0 "地下文明"
-## sunless_sea_civilization -> Subterranean Civilization ##
 sunless_sea_civilization_desc:0 "这个星球上的原住民已经迁移到一个巨大的地下海洋。\n\n他们拒绝离开。"
-## sunless_sea_civilization_desc -> The natives of this planet have relocated to a massive underground ocean.\n\nThey refuse to leave. ##
 asteroid_microbes:0 "星状的微生物"
-## asteroid_microbes -> Astroid Microbes ##
 asteroid_microbes_desc:0 "岩性微生物附着在这颗小行星上"
-## asteroid_microbes_desc -> Lithovoric microbes cling to life on this asteroid ##
 living_crystals:0 "活晶体"
-## living_crystals -> Living Crystals ##
 living_crystals_desc:0 "这个冰冻的世界是活水晶实体的家园"
-## living_crystals_desc -> This frozen world is home to living crystalline entities ##
 
 prepared_for_the_end:0 "为结局做准备"
-## prepared_for_the_end -> Prepared for the End ##
 prepared_for_the_end_desc:0 "你已经看到了几乎就在我们头顶上的圆顶"
-## prepared_for_the_end_desc -> You have forseen the dome that is almost upon us ##
 adopted_amoeba:0 "领养变形虫"
-## adopted_amoeba -> Adopted Amoeba ##
 adopted_amoeba_desc:0 "这个国家领养了一种消失的空间变形虫"
-## adopted_amoeba_desc -> This country has adopted a lost space amoeba ##
 dathnak_using_computers:0 "背景计算"
-## dathnak_using_computers -> Background Calculations ##
 dathnak_using_computers_desc:0 "达特纳克人借用我们的计算机系统进行科学计算。"
-## dathnak_using_computers_desc -> The Dathnak are borrowing our computer systems for their scientific calculations. ##
 dportal_lasers:0 "改进的激光"
-## dportal_lasers -> Improved Lasers ##
 dportal_lasers_desc:0 "对变形兽的武器研究给了我们改进激光武器的新见解"
-## dportal_lasers_desc -> Weapons research against the Warp beasts have given us new insights into improving our laser weaponry. ##
+
+approved_xeno_rights_good:0 "Passed Xeno Rights"
+approved_xeno_rights_bad:0 "Gave Rights to Xenos"
+rejected_xeno_rights_good:0 "Preserved Native Privileges"
+rejected_xeno_rights_bad:0 "Rejected Xeno Rights"
 
 
 ####################################
 # 	Opinion
 ####################################
 opinion_homeworld:0 "我们的原籍国"
-## opinion_homeworld -> Our Nation of Origin ##
 opinion_lost_colony:0 "失落的殖民地"
-## opinion_lost_colony -> Lost Colony ##
 opinion_com_slaver:0 "非人类的虐待"
-## opinion_com_slaver -> Mistreatment of Non-Humans ##
 opinion_une_interfering:0 "妨碍我们的生意"
-## opinion_une_interfering -> Interfering in our Buisness ##

@@ -5,113 +5,59 @@
 ####################################
 
 GIGANTIC_SKELETON_PROJECT_MOD:0 "调查巨大的骨架"
-## GIGANTIC_SKELETON_PROJECT_MOD -> Investigate Gigantic Skeleton ##
 GIGANTIC_SKELETON_PROJECT_MOD_DESC:0 "在[From.GetName]的无生命表面发现了一具30多亿年前的巨大骨架。我们的科学家急于揭开这个谜的真相。"
-## GIGANTIC_SKELETON_PROJECT_MOD_DESC -> A gigantic skeleton dating back more than three billion years has been found on the lifeless surface of [From.GetName]. Our scientists are eager to get to the bottom of this mystery. ##
 SUBTERRANEAN_CREATURES_PROJECT:0 "清除地下生物"
-## SUBTERRANEAN_CREATURES_PROJECT -> Clear Subterranean Creatures ##
 SUBTERRANEAN_CREATURES_PROJECT_DESC:0 "敌对的地下生物一直在威胁着星球的地下文明。帮助他们清除这些生物。"
-## SUBTERRANEAN_CREATURES_PROJECT_DESC -> Hostile subterranean creatures have been menacing the planet's subterranean civilization. Help them clear these creatures out. ##
 SUBTERRANEAN_EXVACATION_PROJECT:0 "帮助地下外星文明在星球表面下挖掘。"
-## SUBTERRANEAN_EXVACATION_PROJECT -> Subterranean Excavasion ##
 SUBTERRANEAN_EXVACATION_PROJECT:0 "帮助地下外星文明在星球表面下挖掘。"
-## SUBTERRANEAN_EXVACATION_PROJECT -> Help the subterranean alien civilization excavate under the planet's surface. ##
 INVESTIGATING_TOLLOK_RONG_PROJECT:0 "调查托洛克荣"
-## INVESTIGATING_TOLLOK_RONG_PROJECT -> Investigate Tollok Rong ##
 INVESTIGATING_TOLLOK_RONG_PROJECT_DESC:0 "调查托洛克荣的达斯纳克家园，寻找任何可能保护达斯纳克殖民地免遭类似命运的线索。"
-## INVESTIGATING_TOLLOK_RONG_PROJECT_DESC -> Investigate the Dathnak homeworld of Tollok Rong for any clues that might protect Dathnak colonies from a similar fate. ##
 DATHNAK_TEST_1_PROJECT:0 "达特纳克防御计划"
-## DATHNAK_TEST_1_PROJECT -> Dathnak Defense Initiative ##
 DATHNAK_TEST_1_PROJECT_DESC:0 "达特纳克给我们寄来了一些化合物的配方，他们希望这些化合物能中和辐射，并要求我们在附近的一个气态巨行星上进行测试。"
-## DATHNAK_TEST_1_PROJECT_DESC -> The Dathnak have sent us a recipe for a number of compounds which they hope will neutralize radiation, and have asked us to test it on a nearby gas giant. ##
 DATHNAK_TEST_2_PROJECT:0 "达特纳克防御计划"
-## DATHNAK_TEST_2_PROJECT -> Dathnak Defense Initiative ##
 DATHNAK_TEST_2_PROJECT_DESC:0 "达特纳克给我们寄来了一种装置的设计方案，他们希望这种装置能保护他们的行星免受伤害，并要求我们在附近的一个气态巨行星上进行测试"
-## DATHNAK_TEST_2_PROJECT_DESC -> The Dathnak have sent us designs for a device which they hope will shield their planets from harm, and have asked us to test it on a nearby gas giant ##
 DATHNAK_TEST_3_PROJECT:0 "达特纳克防御计划"
-## DATHNAK_TEST_3_PROJECT -> Dathnak Defense Initiative ##
 DATHNAK_TEST_3_PROJECT_DESC:0 "达特纳克号已经向我们发送了一个改进的原型机，它可以保护他们的行星免受伤害，同时希望不会永久地将它们封闭起来。"
-## DATHNAK_TEST_3_PROJECT_DESC -> The Dathnak have sent us an improved prototype that should protect their planets from harm, while hopefully not permanently sealing them away. ##
 SAVING_PLANET_EARTH_PROJECT:0 "[Root.GetName]生态补偿"
-## SAVING_PLANET_EARTH_PROJECT -> Ecological Reparation of [Root.GetName] ##
 SAVING_PLANET_EARTH_PROJECT_DESC:0 "修复对[Root.GetName]造成的生态破坏，恢复星球昔日的辉煌。"
-## SAVING_PLANET_EARTH_PROJECT_DESC -> Repair the ecological damage done to [Root.GetName] and restore the planet to its former glory. ##
 CRASHED_ARK_1_PROJECT:0 "调查[colony_planet_1.GetName]"
-## CRASHED_ARK_1_PROJECT -> Search [colony_planet_1.GetName] ##
 CRASHED_ARK_1_PROJECT_DESC:0 "调查寻找一艘失踪方舟的证据。"
-## CRASHED_ARK_1_PROJECT_DESC -> Search for evidence of one of the missing ark ships. ##
 CRASHED_ARK_2_PROJECT:0 "调查厄尔皮斯"
-## CRASHED_ARK_2_PROJECT -> Search Elpis ##
 CRASHED_ARK_2_PROJECT_DESC:0 "调查厄尔皮斯幸存的殖民者。"
-## CRASHED_ARK_2_PROJECT_DESC -> Search Elpis for any surviving colonists. ##
 CRASHED_ARK_3_PROJECT:0 "调查[colony_planet_3.GetName]"
-## CRASHED_ARK_3_PROJECT -> Search [colony_planet_3.GetName] ##
 CRASHED_ARK_3_PROJECT_DESC:0 "调查寻找一艘失踪方舟的证据。"
-## CRASHED_ARK_3_PROJECT_DESC -> Search for evidence of one of the missing ark ships. ##
 CRASHED_ARK_4_PROJECT:0 "计算方舟航迹"
-## CRASHED_ARK_4_PROJECT -> Calculate Ark Ship Trajectory ##
 CRASHED_ARK_4_PROJECT_DESC:0 "使用新的传感器数据来计算一艘失踪方舟的最终目的地。"
-## CRASHED_ARK_4_PROJECT_DESC -> Use new sensor data to calculate the final destination of one of the missing ark ships. ##
 CRASHED_ARK_5_PROJECT:0 "调查[colony_planet_5.GetName]"
-## CRASHED_ARK_5_PROJECT -> Search [colony_planet_5.GetName] ##
 CRASHED_ARK_5_PROJECT_DESC:0 "调查寻找一艘失踪方舟的证据。"
-## CRASHED_ARK_5_PROJECT_DESC -> Search for evidence of one of the missing ark ships. ##
 SAVE_ENSLAVED_HUMANS_PROJECT:0 "拯救被奴役的人类"
-## SAVE_ENSLAVED_HUMANS_PROJECT -> Rescue the Enslaved Humans ##
 SAVE_ENSLAVED_HUMANS_PROJECT_DESC:0 "人类殖民者正在被原始外星人奴役，我们必须解放他们。"
-## SAVE_ENSLAVED_HUMANS_PROJECT_DESC -> Human colonists are being enslaved by primitive aliens, we must free them. ##
 ATOMIC_CLOCK_WARNING_PROJECT:0 "翻译原子钟信息"
-## ATOMIC_CLOCK_WARNING_PROJECT -> Translate the Atomic Clock's Message ##
 ATOMIC_CLOCK_WARNING_PROJECT_DESC:0 "[atomic_clock_planet.GetName]上的原子钟已经开始以几种不知名的语言广播。"
-## ATOMIC_CLOCK_WARNING_PROJECT_DESC -> The Atomic Clock on [atomic_clock_planet.GetName] has begun broadcasting in several unknown languages. ##
 WETWARE_COMPUTER_PROJECT:0 "分析人脑计算机"
-## WETWARE_COMPUTER_PROJECT -> Analyze Wetware Computer ##
 WETWARE_COMPUTER_PROJECT_DESC:0 "尝试翻译人脑计算机网络的操作系统。"
-## WETWARE_COMPUTER_PROJECT_DESC -> Attempt to translate the operating system of the wetware computer network. ##
 PRZYBZLSKI_STAR_PROJECT:0 "分析奇异星"
-## PRZYBZLSKI_STAR_PROJECT -> Analyze Strange Star ##
 PRZYBZLSKI_STAR_PROJECT_DESC:0 "这颗恒星的化学成分很奇怪。"
-## PRZYBZLSKI_STAR_PROJECT_DESC -> This star has a very strange chemical composition. ##
 EXTRASOLAR_ASTEROID_PROJECT:0 "太阳系以外的行星"
-## EXTRASOLAR_ASTEROID_PROJECT -> Extrasolar Asteroid ##
 EXTRASOLAR_ASTEROID_PROJECT_DESC:0 "追踪一颗太阳系外的小行星回到它的寄主系统，希望那里富含矿物。"
-## EXTRASOLAR_ASTEROID_PROJECT_DESC -> Track an extrasolar asteroid back to its host system, which hopefully will be rich in minerals. ##
 TRANSDIMENSIONAL_BEING_PROJECT:0 "高维研究"
-## TRANSDIMENSIONAL_BEING_PROJECT -> Extradimensional Studies ##
 TRANSDIMENSIONAL_BEING_PROJECT_DESC:0 "研究[transdimensional_being_planet.GetName]上的跨维度旅行者的尸体，以更好地理解它是如何来到这里的。"
-## TRANSDIMENSIONAL_BEING_PROJECT_DESC -> Study the corpse of the interdimensional traveller on [transdimensional_being_planet.GetName] to gain a better understanding of how it got here. ##
 INVESTIGATING_LOCUSTS_PROJECT:0 "研究太空昆虫"
-## INVESTIGATING_LOCUSTS_PROJECT -> Investigate Spaceborn Insects ##
 INVESTIGATING_LOCUSTS_PROJECT_DESC:0 "调查进入我们空间奇怪的太空昆虫。"
-## INVESTIGATING_LOCUSTS_PROJECT_DESC -> Investigate the strange spaceborn locusts that have entered our space. ##
 PROTECT_AGAINST_LOCUSTS_PROJECT:0 "可怕的蝗虫"
-## PROTECT_AGAINST_LOCUSTS_PROJECT -> Revenous Locusts ##
 PROTECT_AGAINST_LOCUSTS_PROJECT_DESC:0 "找到一种方法来保护我们的世界不受贪婪的太空出生的昆虫的侵害，这些昆虫已经进入了我们的星系。"
-## PROTECT_AGAINST_LOCUSTS_PROJECT_DESC -> Find a way to protect our worlds from the ravenous spaceborn insects that have found their way into our systems. ##
 INVESTIGATE_SUNLESS_SEA_1_PROJECT:0 "调查[From.GetName]"
-## INVESTIGATE_SUNLESS_SEA_1_PROJECT -> Investigate [From.GetName] ##
 INVESTIGATE_SUNLESS_SEA_1_PROJECT_DESC:0 "[From.GetName]充满了奇怪的辐射和未解之谜。有必要进一步调查。"
-## INVESTIGATE_SUNLESS_SEA_1_PROJECT_DESC -> [From.GetName] is full of strange radiation and unanswered questions. Further investigation is necessary. ##
 INVESTIGATE_SUNLESS_SEA_2_PROJECT:0 "揭开隐藏的洞穴"
-## INVESTIGATE_SUNLESS_SEA_2_PROJECT -> Uncover the Hidden Caverns ##
 INVESTIGATE_SUNLESS_SEA_2_PROJECT_DESC:0 "[From.From.GetName]上的当地人似乎逃到了地下。调查这些洞穴，看看是否还有活着的。"
-## INVESTIGATE_SUNLESS_SEA_2_PROJECT_DESC -> The natives on [From.From.GetName] appear to have fled underground. Investigate these caverns and see if any yet live. ##
 CRYSTAL_LIFE_PROJECT:0 "水晶生命"
-## CRYSTAL_LIFE_PROJECT -> Crystal Life ##
 CRYSTAL_LIFE_PROJECT_DESC:0 "研究[From.GetName]上发现的不寻常晶体的潜在的类生命性质。"
-## CRYSTAL_LIFE_PROJECT_DESC -> Investigate the potentially life-like properties of the unusual crystals found on [From.GetName]. ##
 WARP_BEAST_RESEARCH_PROJECT:0 "变形兽研究"
-## WARP_BEAST_RESEARCH_PROJECT -> Warp Beast Research ##
 WARP_BEAST_RESEARCH_PROJECT_DESC:0 "研究捕获的变形兽标本，找出潜在的弱点。"
-## WARP_BEAST_RESEARCH_PROJECT_DESC -> Study a captured Warp beast specimen for potential weaknesses. ##
 WARP_BEAST_LASER_PROJECT:0 "变形兽武器研究"
-## WARP_BEAST_LASER_PROJECT -> Warp Beast Weapons Research ##
 WARP_BEAST_LASER_PROJECT_DESC:0 "继续从镜像宇宙中寻找更好的武器来对付变形兽。"
-## WARP_BEAST_LASER_PROJECT_DESC -> Continue research from the mirror universe to find better weapons to use against the Warp beasts. ##
 GEM_HOMEWORLD_PROJECT:0 "没落城市遗迹"
-## GEM_HOMEWORLD_PROJECT -> Broken City World ##
 GEM_HOMEWORLD_PROJECT_DESC:0 "调查在 [From.GetName] 曾经存在的外星智能文明遗迹"
-## GEM_HOMEWORLD_PROJECT_DESC -> Investigate the broken ecumenopolis [From.GetName] for signs of its original inhabitants. ##
 
 
 ####################################
@@ -119,75 +65,43 @@ GEM_HOMEWORLD_PROJECT_DESC:0 "调查在 [From.GetName] 曾经存在的外星智�
 ####################################
 
 extradimensional_invasion_warning_chain_title:0 "时空撕裂"
-## extradimensional_invasion_warning_chain_title -> Tear in Space Time ##
 extradimensional_invasion_warning_chain_desc:0 "在[extradimensional_system.GetName]星系中检测到不祥的读数，这被认为是某种东西试图闯入我们星系的迹象。"
-## extradimensional_invasion_warning_chain_desc -> Ominous readings have been detected in the [extradimensional_system.GetName] system, believed to be the signs of something trying to break into our galaxy. ##
 extradimensional_invasion_warning_poi_1_poi:0 "子空间撕裂"
-## extradimensional_invasion_warning_poi_1_poi -> Subspace Tear ##
 extradimensional_invasion_warning_poi_1_poi_desc:0 "§R这里将要发生非常糟糕的事情。§!"
-## extradimensional_invasion_warning_poi_1_poi_desc -> §RSomething very bad is going to happen here.§! ##
 machine_world_1_poi_1_poi:0 "幽灵信号源"
-## machine_world_1_poi_1_poi -> Ghost Signal Source ##
 machine_world_1_poi_1_poi_desc:0 "我们已经追溯了幽灵信号的来源之一,§H[machine_world_1_scope.solar_system.GetName]§!星系中这个不起眼的贫瘠世界。"
-## machine_world_1_poi_1_poi_desc -> We have traced back one of the sources of the ghost signal to this unassuming barren world in the §H[machine_world_1_scope.solar_system.GetName]§! system. ##
 damaged_ecosystem_chain_title:0 "被破坏的生态系统"
-## damaged_ecosystem_chain_title -> Damaged Ecosystem ##
 damaged_ecosystem_chain_desc:0 "§Y[Root.GetHomeWorldName]§!的生态系统被几个世纪的经济开发破坏了。为了重建我们的家园，我们需要先进的土地改造技术"
-## damaged_ecosystem_chain_desc -> The ecosystem of §Y[Root.GetHomeWorldName]§! was damaged by centuries of economic exploitation. We will need advaced terraforming technologies in order to restore our homeworld ##
 une_search_for_com_chain_title:0 "昔日的幽魂"
-## une_search_for_com_chain_title -> Ghosts of the Past ##
 une_search_for_com_chain_desc:0 "在开发稳定的超光速旅行的一个世纪前，作为联合国尤利西斯计划的一部分，我们派出殖民者使用实验虫洞技术。从那以后，没有任何一艘方舟的消息"
-## une_search_for_com_chain_desc -> A century before developing stable FTL travel, we sent out colonists using experimental wormhole technologies as part of the United Nations Ulysses Initiative. None of the arc ships were heard from since. ##
 worlds_surveyed:0 "世界调查"
-## worlds_surveyed -> Worlds Surveyed ##
 com_search_1_poi:1 "调查[colony_system_1.GetName]"
-## com_search_1_poi -> Search [colony_system_1.GetName] ##
 com_search_1_poi_desc:0 "根据尤利西斯计划的原始数据和大量的超光速计算，我们怀疑在这个恒星系统的某个地方可以找到一艘原始的方舟船。"
-## com_search_1_poi_desc -> Based on original Ulysses Initiative data and extensive hyperlane calculations, we suspect that one of the original ark ships can be found somewhere inside this star system. ##
 com_search_2_poi:1 "调查[colony_system_2.GetName]"
-## com_search_2_poi -> Search [colony_system_2.GetName] ##
 com_search_3_poi:1 "调查[colony_system_3.GetName]"
-## com_search_3_poi -> Search [colony_system_3.GetName] ##
 com_search_4_poi:1 "调查[colony_system_4.GetName]"
-## com_search_4_poi -> Search [colony_system_4.GetName] ##
 com_search_5_poi:1 "调查[colony_system_5.GetName]"
-## com_search_5_poi -> Search [colony_system_5.GetName] ##
 com_search_5_poi_desc:0 "根据最新的计算，我们怀疑其中一艘原始方舟可以在这个恒星系统的某个地方找到。"
-## com_search_5_poi_desc -> Based on updated calculations, we suspect that one of the original ark ships can be found somewhere inside this star system. ##
 com_search_6_poi:1 "调查[colony_system_6.GetName]"
-## com_search_6_poi -> Search [colony_system_6.GetName] ##
 com_search_6_poi_desc:0 "根据最近的计算，我们怀疑秋菊号最终出现在这个遥远的星系的某个地方。"
-## com_search_6_poi_desc -> Based on recent calculations, we suspect that the Chrysanthemum ended up somewhere in this far-flung system. ##
 extrasolar_asteroid_chain_title:0 "$EXTRASOLAR_ASTEROID_PROJECT$"
-## extrasolar_asteroid_chain_title -> $EXTRASOLAR_ASTEROID_PROJECT$ ##
 extrasolar_asteroid_chain_desc:0 "我们发现了一颗特别富含矿物质的太阳系外小行星。但是它是从哪里来的？"
-## extrasolar_asteroid_chain_desc -> We have found an extrasolar asteroid that is especially rich in minerals. Where did it come from? ##
 extrasolar_asteroid_poi:1 "这个恒星系外小行星"
-## extrasolar_asteroid_poi -> Extrasolar Asteroid Host System ##
 extrasolar_asteroid_poi_desc:0 "恒星系外小行星可以被追溯到 [host_system.GetName] 系统。"
-## extrasolar_asteroid_poi_desc -> The extrasolar asteroid has been tracked back to the [host_system.GetName] System. ##
 
 
 ####################################
 # 	CBs and War Goals
 ####################################
 casus_belli_cb_stop_atrocities:0 "停止暴行"
-## casus_belli_cb_stop_atrocities -> Stop Atrocities ##
 casus_belli_cb_stop_robots:0 "禁止人工智能"
-## casus_belli_cb_stop_robots -> Outlaw AI ##
 
 war_goal_wg_stop_atrocities:0 "停止暴行"
-## war_goal_wg_stop_atrocities -> Stop Atrocities ##
 war_goal_wg_stop_atrocities_desc:0 "发动战争是为了迫使敌人停止其可恶的行径。"
-## war_goal_wg_stop_atrocities_desc -> War is waged to force the enemy to stop their abominable practices. ##
 war_goal_wg_stop_robots:0 "禁止人工智能"
-## war_goal_wg_stop_robots -> Outlaw AI ##
 war_goal_wg_stop_robots_desc:0 "战争是为了迫使敌人放弃对人工智能的天真利用。"
-## war_goal_wg_stop_robots_desc -> War is waged to force the enemy to abandon their naive exploitation of Artificial Intelligences. ##
 war_goal_wg_kill_robots:0 "清洗"
-## war_goal_wg_kill_robots -> Cleansing ##
 war_goal_wg_kill_robots_desc:0 "战争的目的是把敌人从银河系的表面清洗干净。"
-## war_goal_wg_kill_robots_desc -> War is waged to cleanse the enemy from the face of the galaxy. ##
 
 
 ####################################
@@ -195,28 +109,29 @@ war_goal_wg_kill_robots_desc:0 "战争的目的是把敌人从银河系的表面
 ####################################
 
 building_zro_harvesters:0 "泽洛香料矿"
-## building_zro_harvesters -> Zro Spice Mine ##
 building_zro_harvesters_desc:1 "这些强大的移动设备从世界各地的沙丘中提取和净化泽洛矿物。必须非常小心，不要惊扰附近的蠕虫。"
-## building_zro_harvesters_desc -> These robust mobile facilities extract and purify zro-infused minerals from the world's sand dunes. Great care must be taken not to disturb any nearby worms. ##
 
 ####################################
 # 	Jobs
 ####################################
 
 job_zro_harvester:0 "泽洛收割者"
-## job_zro_harvester -> Zro Harvester ##
 job_zro_harvester_plural:0 "泽洛收割者"
-## job_zro_harvester_plural -> Zro Harvesters ##
 job_zro_harvester_desc:1 "这些勇敢的矿工从事着危险的工作，从爬虫肆虐的沙丘中提取含有锌的矿物质。"
-## job_zro_harvester_desc -> These hardy miners perform the dangerous work of extracting zro-infused minerals from worm-infested dunes. ##
 mod_job_zro_harvester_add:0 "$job_zro_harvester$ 职位"
-## mod_job_zro_harvester_add -> $job_zro_harvester$ Jobs ##
 
 job_zro_harvesting_drone:0 "泽洛收割单位"
-## job_zro_harvesting_drone -> Zro Harvesting Drone ##
 job_zro_harvesting_drone_plural:0 "泽洛收割单位"
-## job_zro_harvesting_drone_plural -> Zro Harvesting Drones ##
 job_zro_harvesting_drone_desc:1 "由于世界原生生物的贪婪本性，专门开采泽洛矿物的单位有很高的周转率。"
-## job_zro_harvesting_drone_desc -> Due to the voracous nature of the world's native life, the drones who specialize in mining the zro-infused minerals have a high turnover rate. ##
 mod_job_zro_harvesting_drone_add:0 "$job_zro_harvesting_drone$ 职位"
-## mod_job_zro_harvesting_drone_add -> $job_zro_harvesting_drone$ Jobs ##
+
+####################################
+# 	Decisions and Edicts
+####################################
+
+decision_cunning_flora_perimeter_1:0 "Expand Defensive Perimeter"
+decision_cunning_flora_perimeter_1_desc:0 "Send in soldiers to drive back the aggressive plant life and clear out a defensive perimeter around our settlements, allowing us to make use of more of this world."
+decision_cunning_flora_perimeter_1_effects:0 "$decision_cunning_flora_perimeter_1_desc$"
+decision_cunning_flora_perimeter_2:0 "Complete Defensive Perimeter"
+decision_cunning_flora_perimeter_2_desc:0 "Send in soldiers to drive back the aggressive plant life and clear out a defensive perimeter around our settlements, allowing us to make full use of this world."
+decision_cunning_flora_perimeter_2_effects:0 "$decision_cunning_flora_perimeter_2_desc$"
