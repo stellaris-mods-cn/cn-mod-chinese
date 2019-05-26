@@ -64,7 +64,7 @@ vfs.src(
       relativeFilePathFromLocalisation
     );
 
-    const relativeDirPathFromLocalisationArr = relativeDirPathFromLocalisation.split('/');
+    const relativeDirPathFromLocalisationArr = relativeDirPathFromLocalisation.split(path.sep);
 
     const isScoped = relativeDirPathFromLocalisationArr[0] === 'english';
 
@@ -72,7 +72,7 @@ vfs.src(
 
     const filepathTranslated = path.join(
       dirTranlated, 'localisation', relativeDirPathFromLocalisation, basenameChinese
-    ).replace(/english\//gi, 'simp_chinese/');
+    ).replace(new RegExp(`english${path.sep}`, 'gi'), `simp_chinese${path.sep}`);
 
     // const filepathScopedTranslated = filepathTranslated
       
@@ -86,7 +86,7 @@ vfs.src(
     if (isScoped) {
       const dirs = [...relativeDirPathFromLocalisationArr];
       dirs[0] = 'simp_chinese';
-      newRelativeDirPathFromLocalisation = dirs.join('/');
+      newRelativeDirPathFromLocalisation = dirs.join(path.sep);
     }
     file.path = path.join(
       dirSourceLocalisation, newRelativeDirPathFromLocalisation, basenameChinese
