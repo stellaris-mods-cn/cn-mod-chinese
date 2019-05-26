@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
 ### SHIP TEXTS
 
 
@@ -60,7 +61,7 @@ acot_diplo.10.b: "把它拿走吧，它不能把我们从可怕的愤怒中拯�
 acot_diplo.10.b.tooltip: "$OUTLINER_FALLEN_EMPIRES$将会觉醒，并获得所有先进的技术，而这些技术，他们在过去的数百万年里，不知何故都没能学会，而我们可以在短短几年内学会。但至少他们不会马上向我们宣战。"
 acot_diplo.10.b.response: "我们拭目以待。执行者，准备没收所有的技术，并把技术缓存带到我们的帝国进行研究。"
 
-acot_diplo.10.c: "§Y(欺骗技能100)§!请把它拿走吧!别生气。"
+acot_diplo.10.c: "§Y(欺骗)§!请把它拿走吧!别生气。"
 acot_diplo.10.c.tooltip: "我们将假装给他们提供技术，但他们几乎不知道里面的缓存装满了14级寄点炸弹，将导致大规模爆炸。\n\n很明显这将激怒他们，但谁在乎呢~。"
 acot_diplo.10.c.response: "非常好。执行者，准备没收所有的技术，并把技术缓存带到我们的帝国进行研究。"
 
@@ -81,7 +82,7 @@ acot_diplo.17.a: "胡扯。"
 acot_diplo.18.name: "史诗陨落"
 acot_diplo.18.desc.others: "哇！刚刚发生了一件令人震惊的事。显然，[FallenEmpireTaskOrigin.GetName]!的首都星系出了严重的问题！首都行星刚刚爆炸了，所有环绕该星系的舰队都变成了冒烟的陨石坑。\n\n他们一定是出了什么严重的问题。"
 acot_diplo.18.desc: "成功了!它确实起作用了!愚蠢的失落帝国把我们的技术装备运到他们的母星，然后爆炸了!bong!\n\n报告显示，驻扎在他们家园上的整个舰队都被蒸发了，这个臭烘烘的星球现在只是一片烧焦的薯片。"
-acot_diplo.18.a: "这表明他们的智力水平是垃圾。"
+acot_diplo.18.a: "这表明他们的智力水平也跟着堕落了。"
 acot_diplo.18.b: "他们被称为$OUTLINER_FALLEN_EMPIRES$是有原因的，杰克。"
 
 acot_diplo.19.name: "最后航程"

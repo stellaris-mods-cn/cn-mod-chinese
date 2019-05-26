@@ -151,7 +151,7 @@
  
  # 12-23 years from begin (52-81)
  apsr_sao.24.title:0 "$apsr_sao.2.title$"
- apsr_sao.24.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n«血誓骑士»已经完全吸收了所有其他团体和联盟，成为地球上唯一一个致力于完成游戏的组织。进步的速度是惊人的-几天前[Root.apsr_sao_level_count]被清除。公会领袖继续亲自领导清理关卡的工作，并以各种可能的方式试图说服人们继续战斗。"
+ apsr_sao.24.desc:0 "$RULER$，§H[event_target:apsr_sao_planetname.GetName]§!行星新闻。\n«血誓骑士»已经完全吸收了所有其他团体和联盟，成为星球上唯一一个致力于完成游戏的组织。进步的速度是惊人的-几天前[Root.apsr_sao_level_count]被清除。公会领袖继续亲自领导清理关卡的工作，并以各种可能的方式试图说服人们继续战斗。"
  apsr_sao.24.button:0 "这项实验接近完成"
  
  # 13-25 years from begin (57-88)

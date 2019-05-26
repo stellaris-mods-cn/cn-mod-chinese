@@ -2,97 +2,100 @@
             #### Species Traits ####
     
     
-    magiks_trait_firebender:0 "自然之火-魔法"
-    magiks_trait_firebender_desc:0 "这一物种对火元素具有天然亲和力，经常使用它来提高能量生产和军事水平。"
+    magiks_trait_firebender:0 "天生火法师"
+    magiks_trait_firebender_desc:0 "这一物种对火元素具有天然亲和力，经常使用这一能力来提高能量生产和军事能力。"
     
-    magiks_trait_waterbender:0 "自然之水-魔法"
-    magiks_trait_waterbender_desc:0 "这一物种对水元素有天然亲和力，经常使用它来提高能量和食物产量。"
+    magiks_trait_waterbender:0 "天生水法师"
+    magiks_trait_waterbender_desc:0 "这一物种对水元素具有天然亲和力，经常使用这一能力来提高能量和食物生产。"
     
-    magiks_trait_lifebender:0 "自然之木-魔法"
-    magiks_trait_lifebender_desc:0 "这一物种对木元素具有天然亲和力，经常使用它来提高食物和矿物产量。"
+    magiks_trait_lifebender:0 "天生生命法师"
+    magiks_trait_lifebender_desc:0 "这一物种对生命元素具有天然亲和力，经常使用这一能力来提高食物和矿物生产。"
     
-    magiks_trait_airbender:0 "自然之风-魔法"
-    magiks_trait_airbender_desc:0 "这一物种对风元素有着天然的亲和力，因此产生了一个非常注重运动和游牧的社会。"
+    magiks_trait_airbender:0 "天生气法师"
+    magiks_trait_airbender_desc:0 "这一物种对气元素具有天然亲和力，并因此产生了一个对运动非常感兴趣，喜欢流浪的社会。"
     
-    magiks_trait_earthbender:0 "自然之土-魔法"
-    magiks_trait_earthbender_desc:0 "这一物种对土元素有着天然的亲和力，经常使用它来改善能量的产生和挖掘方法。"
+    magiks_trait_earthbender:0 "天生土法师"
+    magiks_trait_earthbender_desc:0 "这一物种对土元素具有天然亲和力，经常使用这一能力来提高能源生产和开采方法。"
     
-    magiks_trait_multibender:0 "自然平衡-魔法"
-    magiks_trait_multibender_desc:0 "这一物种对所有魔法元素都有天然亲和力，并从中受益匪浅。然而，由于大多数成员不能使用一种以上的元素，社会上的部落分裂经常发生。"
+    magiks_trait_multibender:0 "天生平衡法师"
+    magiks_trait_multibender_desc:0 "这一物种对所有魔法元素都有天然亲和力，并从中受益匪浅。然而，由于大多数成员不能使用一种以上的元素，部族分裂在社会中常有发生。"
     
-    magiks_trait_soft_magicians:0 "亲和的魔法师"
-    magiks_trait_soft_magicians_desc:0 "这个物种拥有丰富的魔法天赋，靠着正确的训练和天生的能力，几乎任何事情都是可能的。"
+    magiks_trait_soft_magicians:0 "巫术"
+    magiks_trait_soft_magicians_desc:0 "这个物种通常在出生时或从很小的时候开始就具有极高的魔法天赋。然而这种无限制的力量导致了高傲和缺乏雄心。"
     
-    magiks_trait_hard_magicians:0 "困难的魔法师"
-    magiks_trait_hard_magicians_desc:0 "这个物种有丰富的魔法天赋，尽管它受到严格的规定和人与人之间不同性格的限制。"
+    magiks_trait_hard_magicians:0 "法术"
+    magiks_trait_hard_magicians_desc:0 "这个物种与奥术有着先天的联系，经过数年的训练可以获得巨大的能量。这几年的培训由经受过最高等教育的人进行指导，并点燃了他们对学习和实践的热情。"
     
-    magiks_trait_racial_minority:0 "少数种族"
-    magiks_trait_racial_minority_desc:0 "尽管全球化和秘密的反复尝试，人口中仍只有一小部分人的能力显著增强，这导致了大多数人的嫉妒和不信任。"
+    magiks_trait_alchemy:0 "炼金术"
+    magiks_trait_alchemy_desc:0 "这一物种的生物学热衷于使用一种半魔法的能力，以一种严格和可控的方式转化元素，这需要多年的严格训练和独特的思维方式。"
     
-    magiks_trait_strong_souls:0 "少数魔法师群体种族"
-    magiks_trait_strong_souls_desc:0 "尽管经过全球化和多次尝试(秘密地或其他途径)，但仍只有一小部分人口具有显著提高的能力，造成了大多数人对其的嫉妒和不信任。"
+    magiks_trait_racial_minority:0 "少数派种族"
+    magiks_trait_racial_minority_desc:0 "尽管进行了全球化和反复的尝试（秘密进行或其他方式），仍只有一小部分人口的能力显著增强，这导致了大多数人的嫉妒和不信任。"
     
-    magiks_trait_weak_souls:0 "坚定的灵魂"
-    magiks_trait_weak_souls_desc:0 "这一物种的灵魂非常强大，但很难利用。因此，他们的灵魂可以在死后存活一段短暂的时间，然后才能消失。而如果需要的话，收集会容易得多。"
+    magiks_trait_strong_souls:0 "坚定的灵魂"
+    magiks_trait_strong_souls_desc:0 "这个物种的灵魂有着惊人强大的能量，但却很难被利用。他们的灵魂可以在死亡后存活一段短暂的时间后才升天，如果需要的话，收集会容易得多。"
     
-    magiks_trait_enchanting_musicians:0 "注入的灵魂"
-    magiks_trait_enchanting_musicians_desc:0 "这个物种的灵魂被注入他们的身体，导致更容易使用魔法。然而，额外的不稳定性降低了他们的整体魔法能力，他们的身体和灵魂在死后将会变成尘埃。"
+    magiks_trait_weak_souls:0 "灌注灵魂"
+    magiks_trait_weak_souls_desc:0 "这个物种的灵魂是经灌注入他们的肉体中的，从而可以更容易地使用魔法。然而额外的不稳定性降低了他们整体的魔法能力，他们的肉体和灵魂在死后将会变成尘埃。"
+    
+    magiks_trait_enchanting_musicians:0 "迷人的音乐家"
+    magiks_trait_enchanting_musicians_desc:0 "这一物种创作出的音乐给听众和周围的环境带来了看上去非常神奇的变化，尽管大多数是情绪效应。"
     
     magiks_trait_persuading_song:0 "魅力的歌声"
-    magiks_trait_persuading_song_desc:0 "这个种族的音乐给听众和周围的环境带来了看似神奇的变化，尽管大多数效果都是感性的。
+    magiks_trait_persuading_song_desc:0 "这一物种的歌声十分诱人，以至于让通常音乐毫无影响的生物体也能变得更加放松。"
     
     magiks_trait_demi_folk:0 "动物多态性"
-    magiks_trait_demi_folk_desc:0 "这种生物表现出大量的动物性状，大部分的变化类似于本土各种动物的特征。这可能包括耳朵、尾巴、牙齿等。"
+    magiks_trait_demi_folk_desc:0 "这种生物表现出大量的动物性状，大部分的变化类似于其母星上各种动物的特征。包括耳朵、尾巴、牙齿等。"
     
     magiks_trait_adapted_optimists:0 "适应性乐观主义者"
-    magiks_trait_adapted_optimists_desc:0 "这个物种总是看向光明的一面，不管情况看起来有多糟糕，他们都会知道其他人的情况可能更糟。"
+    magiks_trait_adapted_optimists_desc:0 "这个物种总是看向光明的一面，不管情况看起来有多糟糕，他们总会知道其他人有更糟糕的情况。"
     
     magiks_trait_demi_folk_plants:0 "植物多态性"
-    magiks_trait_demi_folk_plants_desc:0 "这种生物表现出大量的植物多态性，大部分的变化类似于本土各种植物的特征。这可能包括芽和叶，通常出现在关节处，而不是头发上。"
+    magiks_trait_demi_folk_plants_desc:0 "这种生物表现出大量的植物多态性，大部分的变化类似于其母星上各种植物的特征。包括可能出现在关节处的茎秆和替代毛发的枝叶。"
     
     magiks_trait_demi_folk_dnd:0 "专用多态性"
-    magiks_trait_demi_folk_dnd_desc:0 "这种生物表现出大量多态性，大多数变化都是针对高度专业化的角色，如采矿、研究等。"
+    magiks_trait_demi_folk_dnd_desc:0 "这种生物表现出大量多态性，大多数变化都是针对高度专业化的作用，如采矿、研究等。"
     
     magiks_trait_robot_artificial_souls:0 "人造灵魂"
     magiks_trait_robot_artificial_souls_desc:0 "尽管这些机器不是由血肉制成的，但它们都有独特的灵魂，这使得它们更容易相信超自然现象，因为它们本身似乎就是超自然现象的产物。"
     
-    magiks_trait_robot_reality_anchors:0 "现实锚"
-    magiks_trait_robot_reality_anchors_desc:0 "通过一些甚至连他们的创造者都难以理解的奇怪属性，这些机器使得他们周围的空间结构变得很稳定，这大大削弱了他们的魔法和心灵能力。"
+    magiks_trait_robot_reality_anchors:0 "实境驻留"
+    magiks_trait_robot_reality_anchors_desc:0 "通过一些甚至连他们的创造者都难以理解的奇怪属性，这些机器使他们周围的空间结构变得“非常稳定”，大大削弱了魔法和灵能。"
     
     magiks_trait_robot_brass_beasts:0 "黄铜兽"
-    magiks_trait_robot_brass_beasts_desc:0 "这些机器是一些奇怪而独特的工程的产物，不知为何完全由齿轮和齿轮制成，由蒸汽和神奇的晶体来提供燃料而不是电力。"
+    magiks_trait_robot_brass_beasts_desc:0 "这些机器是一些奇怪而独特的工程的产物，不知为何完全由齿轮和齿轮制成，由蒸汽和魔法晶体而不是电力来提供燃料。"
     
     magiks_trait_robot_energy_connections:0 "精力充沛的四肢"
     magiks_trait_robot_energy_connections_desc:0 "这些机器的肢体和其他外观只有通过魔法能量进行连接，否则就会完全脱离主体。"
     
     magiks_trait_robot_brand_bots:0 "名牌机器人"
-    magiks_trait_robot_brand_bots_desc:0 "这些机器人模仿了流行的虚构人物，并被编程为与所述人物行为相似。然而，这种持续的关注可能会让人在情感上有点累。"
+    magiks_trait_robot_brand_bots_desc:0 "这些机器人模仿了流行的虚构人物，并被编程为与所述人物行为相似。然而，这种持续的关注可能会带来一些情感上的负担。"
     
-    magiks_trait_robot_warforged:0 "战争机器人"
-    magiks_trait_robot_warforged_desc:0 "这些可怕的造物是魔法和技术的独特结合，是真正疯狂的个人的产物，而创造者早就被他们自己的作物杀死了。"
+    magiks_trait_robot_warforged:0 "机关傀儡"
+    magiks_trait_robot_warforged_desc:0 "这些可怕的造物是魔法和技术的独特结合，是那些早被自己的创作物杀死的狂人的产物。"
     
-    magiks_trait_robot_waifu_bots:0 "虚拟文化机制"
-    magiks_trait_robot_waifu_bots_desc:0 "这些机器是专门设计来复制受欢迎的虚构人物的，重点放在包含可被标记为“可爱”的特征的人物上，旨在引起感情或钦佩。然而，这种持续的表现会对大多数其他任务产生影响，因为可爱并不意味着高效。"
+    magiks_trait_robot_waifu_bots:0 "萌度机制"
+    magiks_trait_robot_waifu_bots_desc:0 "这些机器是专门设计来复制受欢迎的虚构人物的，重点放在那些带有“可爱”特征的人物上，目的是引起人们的爱慕。然而，这种持续的表现会对大多数其他任务产生影响，因为可爱并不意味着高效。"
     
     TRAIT_WAIFUS_EFFECT:0 "正常统治者态度影响: §G+10§!     亲外统治者的态度影响: §G+25§!     排外统治者的意见影响: §R-25§!     其他物种的幸福: §G+5%§!        矿物产量: §R-5%§!     能量币产量: §G+5%§!      研究产出: §R-5%§!"
     
     magiks_trait_robot_golems:0 "沉积魔像"
-    magiks_trait_robot_golems_desc:0 "这些造物由石头制成，具有魔力，违背了人们普遍理解的工程方法，至今仍困扰着外国工程师。"
+    magiks_trait_robot_golems_desc:0 "由石头和魔法组成的这些人造物违背了通常理解的工程方法，并且直到今天仍然困扰着其他国家的工程师。"
     
     magiks_trait_robot_exposed_processors:0 "暴露在外的处理器"
-    magiks_trait_robot_exposed_processors_desc:0 "这些无人机的计算外形消耗了宇宙中存在的自然能量，这要求这些吸收器位于无人机的主外壳之外。这显然是战斗中的一个主要弱点。"
+    magiks_trait_robot_exposed_processors_desc:0 "这些无人机的计算装置需要消耗宇宙中存在的自然能量，这要求这些吸收器位于无人机的主外壳之外。这显然是战斗中的一个主要弱点。"
     
     magiks_trait_robot_core_processors:0 "核心处理器"
     magiks_trait_robot_core_processors_desc:0 "这些无人驾驶飞机的中央计算机尽可能深地位于它们的体内，使得这些单元在高达62 %的框架被损坏或毁坏之前仍能够上保持功能。"
     
-    magiks_trait_dragon_blooded:0 "龙血"
-    magiks_trait_dragon_blooded_desc:0 "这是在很久以前就充满了堕落的巨龙精华，因此在某些领域有着显著提高的能力。然而，这是以打破物理定律为代价的，会导致轻微但持续的不适状态。"
+    magiks_trait_dragon_blooded:0 "龙族血脉"
+    magiks_trait_dragon_blooded_desc:0 "这个种族很久以前灌输了堕落的以太巨龙精华，因此在某些领域有着非常高的能力。然而，这是以打破物理定律为代价的，会导致轻微但持续的不适状态。"
     
-    magiks_trait_draconic_nobility:0 "龙之贵族"
+    magiks_trait_draconic_nobility:0 "龙之高贵"
     magiks_trait_draconic_nobility_desc:0 "这些生物有一种充满尊严的光环围绕着他们，无论他们站在哪里，都会得到尊重。"
     
-    magiks_trait_draconic_pride:0 "龙之傲"
-    magiks_trait_draconic_pride_desc:0 "这种物种似乎总是非常的骄傲，但这对大多数人来说都是傲慢的，包括同一种族的成员。"
+    magiks_trait_draconic_pride:0 "龙之骄傲"
+    magiks_trait_draconic_pride_desc:0 "这种物种似乎总是非常的骄傲，不管是对大多数人还是同一种族的成员。"
     
     magiks_trait_infernal_origin:0 "地狱起源"
     magiks_trait_infernal_origin_desc:0 "这个物种很久以前就被放逐到一个与地狱非常相似的维度，直到最近才逃脱，并带回了从火焰和疯狂中获得的知识和力量。"
@@ -104,60 +107,87 @@
     magiks_trait_abyss_gazers_desc:0 "他们一直凝视着深渊，虽然他们的前景似乎因此暗淡，但他们比以往任何时候都更决心改变这种状况。因为当深渊看向他们时，他们会准备好应对。"
     
     magiks_trait_multidimensional_migrants:0 "多维移民"
-    magiks_trait_multidimensional_migrants_desc:0 "不管是因为战争、饥荒还是好奇，这整个物种都逃离了它们的家园，但不知何故丧失了返回家园的能力。虽然不一定令人不愉快，但他们有时看起来有点陌生，好像不属于自己；这可能是正面的，也可能是可怕的。"
+    magiks_trait_multidimensional_migrants_desc:0 "不管是因为战争、饥荒还是好奇，这整个物种都逃离了它们的家园，但不知何故丧失了返回家园的能力。虽然周围不一定令人不愉快，但他们有时看起来有点陌生，似乎缺乏归属感；这可能是诱人的，也可能是恐怖的。"
     
-    magiks_trait_voidseepers:0 "空隙积水"
-    magiks_trait_voidseepers_desc:0 "这些生物出生在现实世界中空虚的黑暗中，并试图逃避了几个世纪，最后终于逃脱了。不管其他种族如何看待他们，不管他们的处境有多糟糕，他们都必须保持强大，因为情况可能会更糟。"
+    magiks_trait_voidseepers:0 "虚空渗透者"
+    magiks_trait_voidseepers_desc:0 "这些生物出生在现实世界中虚空的黑暗里，并在几个世纪里一直试图逃离，最后终于逃脱了。不管其他种族如何看待他们，不管他们的处境有多糟糕，他们都必须保持强大，因为情况可能会更糟。"
     
     magiks_trait_demonic_defaulters:0 "往昔的恶魔"
-    magiks_trait_demonic_defaulters_desc:0 "这些恶魔曾经是一个骄傲贪婪的种族，然而从他们那里骗走了无数财富和灵魂的凡人，最终使他们破产了，现在不得不通过凡人的存在来偿还债务。不过别担心，他们只需要几百万年就能还清所有债务..."
+    magiks_trait_demonic_defaulters_desc:0 "这些恶魔曾经是一个骄傲贪婪的种族，骗取了无数凡人的财富和灵魂，他们最终破产了，现在不得不通过凡人的存在来偿还债务。不过别担心，他们只需要几百万年就能付清一切..."
     
     magiks_trait_mulcubi:0 "女妖"
     magiks_trait_mulcubi_desc:0 "这些生物完全由魅魔和妖魔组成，对人类如何繁殖是如此的着迷，以至于他们为此离开了他们的家园，去寻找更令人满意的“猎物”玩耍。然而，他们对交配的痴迷不仅仅是日常生活中的一点点分心，而且会让正常谈话变得乏味。"
     
+    magiks_trait_undead_reliant:0 "不死族多数群体"
+    magiks_trait_undead_reliant_desc:0 "这一物种的种群主要由不死族奴仆组成和一小部分活着的生物体组成。"
+    
+    magiks_trait_exothermic_enchanters:0 "放热巫士"
+    magiks_trait_exothermic_enchanters_desc:0 "这个种族的成员能够将大量热量从物体中排出，他们是专业的矿工，能够冻结矿石并收获破碎的碎片，还能向敌人投掷一波又一波的冰冻空气。然而，他们的心也同样冰冷。"
+    
+    magiks_trait_endothermic_enchanters:0 "吸热巫士"
+    magiks_trait_endothermic_enchanters_desc:0 "这些头脑发热、充满激情的人能够将大量热量转化为物质，然后操纵所述物质，他们总是准备战斗，通常会在战斗过程中融化战场。然而，他们大部分是将他们的能力用在工业用途上。"
     
             ### Empire Civics ###
     
     
-    magiks_civic_magocracy:0 "能力统治"
-    magiks_civic_magocracy_desc:0 "谁管理这个社会取决于神奇的能力。超自然能力越强大，他们在社会中的地位就越高。"
+    magiks_civic_elite_mages:0 "精英法师"
+    magiks_civic_elite_mages_desc:0 "谁来管理这个社会是由魔法的能力来决定的。超自然和奇异的艺术越强大的人，他们在社会中的作用越高。"
+    
+    magiks_civic_magical_lineages:0 "魔法血统"
+    magiks_civic_magical_lineages_desc:0 "强大的魔法血统让他们对其他不太有魔法天赋的同族亲属们占据强有力的位置。这导致了这个国家由拥有魔法血统的各个大家族所控制和影响。"
+    
+    magiks_civic_alchemical_ministry:0 "炼金术部"
+    magiks_civic_alchemical_ministry_desc:0 "炼金术士及其独特的魔法形式创造了一个庞大而强大的部门，使他们能够轻松控制国家的生产和供应线。"
+    civic_tooltip_alchemist_effects:0 "炼金术士在游戏开始时获得法力水晶开采科技，同时采矿职业获得+10%加成。"
+
+    magiks_civic_duelistic_magics:0 "二元魔法"
+    magiks_civic_duelistic_magics_desc:0 "世界已经进化出两个独立但同样神奇的物种，尽管它们很久以前就联合在一起，但彼此之间有着深刻而友好的竞争。"
+    magiks_civic_duelistic_magics_secondary_species:0 "魔法对手"
+    magiks_civic_duelistic_magics_effects:0 "以带有4个人口的另一物种开局"
+    
     
     magiks_civic_reunited_siblings:0 "团聚的种族"
-    magiks_civic_reunited_siblings_desc:0 "很久以前，这个世界上的主要物种担心自己的灵魂被收割，把其他物种驱逐到一个大洞穴中，把它们与外界隔离开来。直到最近，两人才重聚，不得不共同分享未来。"
-    magiks_civic_reunited_siblings_secondary_species:0 "穴居者"
+    magiks_civic_reunited_siblings_desc:0 "很久以前，这个世界上的主要物种担心自己的灵魂被收割，把其他物种驱逐到一个大洞穴中，把它们与外界隔离开来。直到最近，他们才重聚，不得不共同分享未来。"
+    magiks_civic_reunited_siblings_secondary_species:0 "洞穴居民"
     magiks_civic_reunited_siblings_effects:0 "以两个来自另一个物种的人口开始游戏。"
     
-    magiks_civic_state_necromancy:0 "国立亡灵法师"
-    magiks_civic_state_necromancy_desc:0 "这个国家允许合法的使用亡灵巫师和亡灵。"
+    magiks_civic_state_necromancy:0 "国立死灵术"
+    magiks_civic_state_necromancy_desc:0 "这个国家允许且经常使用死灵术和不死族。"
     
-    magiks_civic_natures_listeners:0 "自然的听众"
+    magiks_civic_natures_listeners:0 "大自然的倾听者"
     magiks_civic_natures_listeners_desc:0 "这个社会认为，自然的声音不仅在音乐和魔法方面，而且在整个生活中，都是最重要的。"
     
     magiks_civic_idol_crazy:0 "疯狂的偶像崇拜"
     magiks_civic_idol_crazy_desc:0 "由于音乐天赋相当于魔法天赋，这个社会崇拜它的明星和偶像，就像崇拜活着的神灵一样，而你生活中能向往的终极目标就是成为其中的一份子。"
     
     magiks_civic_rhythmic_fanatics:0 "节奏狂热者"
-    magiks_civic_rhythmic_fanatics_desc:0 "音乐和节奏是这个社会的一个整体部分，正因为如此，他们产生了在整个银河系...甚至宇宙中最令人愉悦的音乐。然而，这是永远不够的，它的公民有一种根深蒂固的愿望，那就是希望做得更好。"
+    magiks_civic_rhythmic_fanatics_desc:0 "音乐和节奏是这个社会的一个整体部分，正因为如此，他们产生了在整个星系...甚至整个宇宙中最令人愉悦的音乐。然而，这是永远不够的，它的公民有一种根深蒂固的冲动去做得更好。"
     
     magiks_civic_world_of_legend:0 "传奇世界"
     magiks_civic_world_of_legend_desc:0 "作为神话和传说之一，这个物种的家园是充满魔力的天堂，不管他们是否有使用它的天赋。"
     
-    civic_tooltip_world_of_legend_effects:0 "家园世界和行星偏好设置为 '传奇世界' (Size: 25), 对食物和能源给予奖励，但对研究给予严厉惩罚。"
+    civic_tooltip_world_of_legend_effects:0 "母星和行星偏好设置为 '魔法世界' (大小: 25), 对食物和能源给予加成，但对研究给予严厉惩罚。"
     
     magiks_civic_drained_survivors:0 "枯竭之后的幸存者"
-    magiks_civic_drained_survivors_desc:0 "经过多年消耗我们世界的能量，它最终消失了，这导致了人们悲惨的贫困和不团结。在最终摆脱了暴君的铁腕统治后，我们团结在一面旗帜下。现在我们比以往任何时候都更加专注于去星际旅行，并希望有一天能够修复我们的家园。"
+    magiks_civic_drained_survivors_desc:0 "经过多年的能源消耗，我们的世界最终失去了活力，导致了一个贫穷而不团结的悲惨世界。在最终摆脱了暴君的铁腕统治后，我们团结在一面旗帜下。现在我们比以往任何时候都更加专注于去星际旅行，并希望有一天能够修复我们的家园。"
     
     magiks_civic_tooltip_drained_survivors_effects:0 "家园世界开始于 '酸性世界', 让我们的物种具有 '枯竭的幸存者' 的特征, 从而增强了在酸性环境中的可居住性。"
     
-    magiks_machine_civic_waifu_bots:0 "同化机器人"
-    magiks_machine_civic_waifu_bots_desc:0 "通过广泛的物种修复，这些机器已经设法将它们的创造者转化为一种文化，这种文化是专为愉悦和顺从而设计的。奇怪的是，由于它的“完美设计”，机器本身也变得有点痴迷于此。"
+    magiks_machine_civic_waifu_bots:0 "Waifu机器人"
+    magiks_machine_civic_waifu_bots_desc:0 "通过广泛的物种范围的修复，这些专门为娱乐和顺从而设计机器已经将它们的创造者们转变为一种同一种文化。奇怪的是，由于它的“完美设计”，据说机器已经变得有点迷恋它自己。"
     
-    magiks_civic_dark_cultists:0 "黑暗崇拜者"
+    magiks_civic_dark_cultists:0 "黑暗信徒"
     magiks_civic_dark_cultists_desc:0 "这个社会最初是基于黑暗势力会带来巨大财富的信念而创建的，它应黑暗宗教的要求犯下了大规模暴行和种族灭绝。然而，那是很久以前的事了，虽然更现代的改革大大减少了人们信仰造成的不道德待遇，但根源仍然存在，并在其他唯心论者中造成了极大的不信任。"
     
     magiks_civic_dragon_tamers:0 "驯龙师"
-    magiks_civic_dragon_tamers_desc:0 "这一物种与本土的龙建立了友好的关系，并将它们作为坐骑和同伴。"
-    civic_tooltip_dragon_tamers_effects:0 "家庭世界从驯服的龙开始，你有能力把它们带到你的其他星球。"
+    magiks_civic_dragon_tamers_desc:0 "这一物种与母星上的龙类动物建立了友好的关系，并将它们作为坐骑和同伴。"
+    civic_tooltip_dragon_tamers_effects:0 "母星开局带有驯服的龙，你可以把它们带到你的其他星球。"
+    
+
+           ### Authority ###
+
+    magiks_auth_magocracy:0 "法师议会"
+    magiks_auth_magocracy_desc:0 "强大的魔法使用者是统治这个国家的人，他们的政治力量与其魔法天赋成正比。"
     
     
             ### Technology ###
@@ -166,11 +196,11 @@
     magiks_tech_necro1:0 "大规模亡灵生产"
     magiks_tech_necro1_desc:0 "通过现代技术和最新的魔法发现并研究古代的技术，不死军团可以在数周内而不是数月内组建，而且质量也高得多。"
     
-    magiks_tech_necro2:0 "强化亡灵处理"
-    magiks_tech_necro2_desc:0 "通过进一步优化复活过程，可以创建规模更加庞大的亡灵大军，智力和忠诚度的进一步提高，也增加了个人表现的机会。"
+    magiks_tech_necro2:0 "增强亡灵处理"
+    magiks_tech_necro2_desc:0 "通过进一步优化复活过程，可以创建规模更加庞大的亡灵大军，智力和忠诚度的进一步提高，也增强了个体的表现。"
     
-    magiks_tech_necro3:0 "成体系的大规模制造"
-    magiks_tech_necro3_desc:0 "虽然仍然非常昂贵，但科学和魔法的新组合允许持续地创造巫妖。拥有15人以上智力的几乎不朽的亡灵，巫妖拥有创建自己的亡灵私人军队的能力，并积极利用敌人阵亡的士兵来补充己方军队，而且额外维护极少。"
+    magiks_tech_necro3:0 "大规模命匣制造"
+    magiks_tech_necro3_desc:0 "虽然仍然非常昂贵，但科学和魔法的新组合允许持续地创造巫妖。拥有15人以上智力的几乎不朽的亡灵，巫妖拥有创建自己的亡灵私人军队的能力，并积极利用敌人阵亡的士兵来补充己方军队，而且只需极少额外维护。"
     
     magiks_tech_rhythm1:0 "谐波共振"
     magiks_tech_rhythm1_desc:0 "通过研究生物的基本心理过程，某些频率可能会被证明是大部分生物乐于倾听的，无论其品味或物种如何。"
@@ -179,7 +209,7 @@
     magiks_tech_rhythm2_desc:0 "作为一项技能，模式识别是工具使用和技术进步的要求。然而，这可以被利用，特别是用于创作大众普遍喜爱的经典音乐。"
     
     magiks_tech_rhythm3:0 "渗透和弦进行"
-    magiks_tech_rhythm3_desc:0 "作为一个普遍真理，音乐是把我们联系在一起的唯一东西。随着所有音乐理论的最终结合，情感反应几乎得到完全保证。"
+    magiks_tech_rhythm3_desc:0 "音乐是能把我们所有人联系在一起的事物，这是宇宙真理。随着所有音乐理论的最终结合，几乎可以保证激起情感反应。"
     
     magiks_tech_magiks_gene:0 "炼金术"
     magiks_tech_magiks_gene_desc:0 "炼金术已经存在了几个世纪，并在这一领域给我们带来了巨大的进步。也许是时候在其他领域做类似的事情了..."
@@ -189,160 +219,189 @@
     magiks_tech_magiks_gene_two_desc:0 "经过几十年的研究，终于是时候召唤出一种统一的原始和魔法理论了，希望我们能够掌握这种神秘而古老的艺术"
     magiks_tech_magiks_gene_two_effects:0 "允许通过修改基因对一个物种的魔法能力进行高级操控。"
     
-    magiks_trait_exothermic_enchanters:0 "放热附魔"
-    magiks_trait_exothermic_enchanters_desc:0 "这个种族的成员能够将大量热量从物体中排出，他们是专业的矿工，能够冻结矿石并收获破碎的碎片，还能向敌人投掷一波又一波的冰冻空气。然而，他们的心也同样冰冷。"
-    
-    magiks_trait_endothermic_enchanters:0 "吸热附魔"
-    magiks_trait_endothermic_enchanters_desc:0 "这些头脑发热、充满激情的人能够将大量热量转化为物质，然后操纵所述物质，他们总是准备战斗，通常会在战斗过程中融化战场。然而，他们大部分是利用他们的能力进行工业犯罪。"
-    
-    
+    magiks_tech_mage_academy:0 "法师学院"
+    magiks_tech_mage_academy_desc:0 "法师学院由几个强大的高级法师监督，他们将监督那些在他们委托照顾下的人的魔法能力的发展。"
+    magiks_tech_mage_academy_effects:0 "法师学院的科技允许你在你的星球上建立一个法师学院，并允许创造召唤军队。"
+
+    magiks_tech_mage_college:0 "法师高等学院"
+    magiks_tech_mage_college_desc:0 "法师高等学院是一个更大的研究魔术和如何在日常基础上使用它的综合机构。"
+    magiks_tech_mage_college_effects:0 "法师高等学院的科技允许你升级你的法师学院到法师高等学院。"
+
+    magiks_tech_mage_university:0 "法师大学"
+    magiks_tech_mage_university_desc:0 "法师大学不仅仅是一个学习的地方，还是一个进行实验性和非现实世界研究的地方。"
+    magiks_tech_mage_university_effects:0 "法师大学科技允许你升级你的法师高等学院成为法师大学，并可以建造魔像军队来为你战斗。"
+
+    magiks_tech_mage_arcanium:0 "奥秘圣所"
+    magiks_tech_mage_arcanium_desc:0 "奥秘圣所是魔法学习和发展的中心，是把一个不可能变为可能的地方。"
+    magiks_tech_mage_arcanium_effect:0 "奥秘圣所科技允许你将你的法师大学升级为奥秘圣所。"
+
+
             ### Buildings ###
     
     
     magiks_building_mass_grave:0 "行星墓地"
     magiks_building_mass_grave_desc:0 "一个巨大的墓地，存放着这颗星球上所有的死者，直到他们再次复活。"
     
-    magiks_building_tainted_factory:0 "制造工厂"
-    magiks_building_tainted_factory_desc:0 "虽然看起来只不过是一些环境恶劣的工厂，但实际上这个地方制造出了高度加工的不死生物，在被送去清洗、化学处理以及最后的复活之前，会先剥掉尸体的肉。"
+    magiks_building_tainted_factory:0 "受污染的工厂"
+    magiks_building_tainted_factory_desc:0 """"
     
-    magiks_building_corrupted_sanctum:0 "亡灵的庇护所"
-    magiks_building_corrupted_sanctum_desc:0 "禁止99 %的人口进入，这座类似大宅的建筑群是专门为星球上所有高级不死生物建造和居住的。不仅如此，它还配备了前所未有的奢侈品，以保持可怕的居民的忠诚和满足。"
+    magiks_building_corrupted_sanctum:0 "堕落密室"
+    magiks_building_corrupted_sanctum_desc:0 "禁止99 %的人口进入，这座类似豪宅的建筑群是专门为星球上所有高级不死生物建造和居住的。不仅如此，它还配备了前所未有的奢侈品，以保持可怕的居民的忠诚和满足。"
     
     magiks_building_underground:0 "地下城市"
-    magiks_building_underground_desc:0 "虽然它所坐落的山的确有名字，但是这个地区最值得注意的是“地下城市”。这是一个巨大的隧道网络和巨大的开放式洞穴，在世界上第二种物种被锁起来的时候，它是它们的生存空间。现在它已经完全开放，允许进入它独特的文化和大量的地热能输出。"
+    magiks_building_underground_desc:0 "虽然它所坐落的山的确有名字，但是这个地区最值得注意的是“地下城市”。这是一个巨大的隧道网络和巨大的开放式洞穴，当该星球上的第二种物种被关起来的时候，它就是它们的生存空间。现在它已经完全开放，允许进入它独特的文化和大量的地热能输出。"
     
     magiks_building_public_theater:0 "公共剧场"
     magiks_building_public_theater_desc:0 "这家剧院是一个受欢迎的聚会场所，为这个世界的人们提供了一个很大的娱乐来源，既有现场表演，也有分发供私人使用的拷贝。"
     
     magiks_building_grand_stadium:0 "大体育场"
-    magiks_building_grand_stadium_desc:0 "作为一个规模宏大的剧院，这个体育场一次最多可以播放3场现场表演，允许每天购买大量专辑。"
+    magiks_building_grand_stadium_desc:0 "作为一个规模宏大的剧院，这个体育场一次最多可以播放3场现场表演，每天可购买大量专辑。"
     
-    magiks_building_planetary_stage:0 "行星级艺术中心"
+    magiks_building_planetary_stage:0 "行星级剧场舞台"
     magiks_building_planetary_stage_desc:0 "这个52层的建筑是这个世界上真正的奇迹，专门致力于音乐的制作、展示和分发，拥有银河系中最先进的音频制作设备，所有这些都可以免费提供给那些想参与制作或预制作音乐作品的人。"
     
     magiks_building_galactway:0 "银河艺术中心"
     magiks_building_galactway_desc:0 "银河艺术中心是一个真正的创造性音乐人才中心，它是银河系音乐和歌曲的绝对家园，在艺术的质量和质量上无可匹敌"
     
+    building_mage_academy:0 "法师学院"
+    building_mage_academy_desc:0 "法师学院是一个让所有羽翼未丰的法师都能磨练自己的技能和技艺的地方，无论他们的魔法能力从何而来。"
+
+    building_mage_college:0 "法师高等学院"
+    building_mage_college_desc:0 "法师高等学院允许那些有能力进一步深入研究奥术艺术的人不仅可以进一步了解他们的知识，还可以促进发展社会。"
+
+    building_mage_university:0 "法师大学"
+    building_mage_university_desc:0 "法师大学拥有许多神秘的实验室和专门的部门来进行更多实验性的魔法开发，所有这些都可供任何参加的法师使用。"
+
+    building_mage_arcanium:0 "奥秘圣所"
+    building_mage_arcanium_desc:0 "奥秘圣所代表了魔法教育发展的顶峰。既有神奇的实验室，也有传奇的法师，他们可以在他们的研究中指导新的学习者。"
+
+    building_manacite_collector:0 "法力水晶收集器"
+    building_manacite_collector_desc:0 "该设施由炼金术专家负责，他们通过使用奥术仪式，可以成功地收获和净化法力水晶以供魔法使用。"
+    mod_building_manacite_collector_max:0 "最大法力水晶收集器"
     
             ### Armies ###
     
     
     magiks_zombie_army:0 "蹒跚的亡灵"
-    magiks_zombie_army_desc:0 "由我们最优秀的法师和法师培养，这支军队只不过是一群步履蹒跚的亡灵暴徒，将会吞噬并摧毁他们前进路上的一切。"
+    magiks_zombie_army_desc:0 "由我们最优秀的法师和法师培养而成的这支军队只不过是一群步履蹒跚的亡灵暴徒，将会吞噬并摧毁他们前进路上的一切。"
     
     magiks_skeleton_army:0 "骷髅步兵"
     magiks_skeleton_army_desc:0 "比他们步履蹒跚的同族要先进得多，这些亡灵足够聪明，能够使用战术和策略，并且比先前可能的存活时间稍长。腐肉的去除也大大降低了气味。"
     
     magiks_lich_army:0 "巫妖军团"
-    magiks_lich_army_desc:0 "通过将自己的灵魂困在一个被称为“命匣”的装置中，在成为不死生物的情况下保持更多的思考能力，允许个人保持不死生物的状态和魔法。如果一个人组建一支这样的怪物军队，至少在某种程度上，他们会变成死亡本身。"
+    magiks_lich_army_desc:0 "通过将自己的灵魂困在一个被称为“命匣”的装置中，在成为不死生物的情况下保持更多的思考能力，允许个人保持不死生物的状态和魔法。如果一个人能组建出一支这样的怪物军队，至少在某种程度上，他们本身就是死亡的象征。"
     
     magiks_blood_ops:0 "吸血鬼部队"
-    magiks_blood_ops_desc:0 "这些训练有素的吸血鬼亡灵擅长渗透，使用单兵游击战术，甚至有体能有限但依旧强大的‘强化’能力。"
+    magiks_blood_ops_desc:0 "这些训练有素的吸血鬼亡灵擅长渗透，使用单兵游击战术，甚至有体能限制下依旧强大的‘强化’能力。"
     
     magiks_draconic_division:0 "龙之军"
     magiks_draconic_division_desc:0 "一支由最勇敢的飞行员组成的军队，每个飞行员都有自己的龙骑，他们被期望与之建立牢固的联系。"
+
+    magiks_evoker_army:0 "魔物召唤师军队"
+    magiks_evoker_army_desc:0 "这些法师专攻召唤魔法，允许他们释放魔法能量，摧毁那些反对他们的人。有了这股耀眼的力量，他们可以很快就让对手士气低落。"
+
+    magiks_golum_army:0 "魔像军队"
+    magiks_golum_army_desc:0 "由法力水晶提供动力，在前线后方强大的法师的引导下，这些魔像不会感到恐惧，很难被击倒。"
     
+    magiks_dragon_lord_army:0 "龙王"
+    magiks_dragon_lord_army_desc:0 "统治国家的龙王们也要参加战斗，他们强大的神秘能量和龙的气力可以让所有人在战斗中都害怕他们。"
+
+    abjuration_mages_army:0 "防护系法师部队"
+    abjuration_mages_army_desc:0 "防护系法师专攻防护和防御法术。它们的存在是为了帮助和加强行星防御力量。"
     
             ### Governments ###
     
     
-    magiks_gov_celebrated_monarchy:0 "明星偶像的君主政体"
-    magiks_gov_celebrated_monarchy_desc:0 "这个国家的皇室曾经只是歌手和音乐家中的一个非常受欢迎的血脉，现在已经形成了一种围绕他们的个人崇拜。"
-    
-    magiks_gov_rockin_regime:0 "罗金政权"
-    magiks_gov_rockin_regime_desc:0 "虽然它原本是一个民主社会，但现在他们让当选的统治者终生留任，以免公众抗议他们最喜欢的明星的出现。"
-    
-    magiks_gov_band_bureaucracy:0 "乐队官僚"
-    magiks_gov_band_bureaucracy_desc:0 "这个国家通过任命一个最受欢迎的歌手和音乐家的领导委员会，将他们组织成一个乐队，并允许最大限度的公众参与。"
-    
-    magiks_gov_instrumental_institution:0 "工具机构"
-    magiks_gov_instrumental_institution_desc:0 "为了确保公众对其领导人的最终信任，每次选举都会选出最佳歌手来治理国家一段时间，这使得公众平均支持率很高。"
-    
-    magiks_gov_harmonious_court:0 "和谐政府"
-    magiks_gov_harmonious_court_desc:0 "这个国家由一个致力于发现新的、面向所有公民的音乐并向他们传播的政府统治。"
+    magiks_gov_magocracy:0 "魔法师"
+    magiks_gov_magocracy_desc:0 "魔法的力量完全融入了这个国家和文化的各个方面。 只有那些具有魔法能力的人才能拥有权力和权威的真正立场。"
+
+    magiks_gov_rockin_regime:0 "摇滚政权"
+    magiks_gov_rockin_regime_desc:0 "虽然它原本是一个民主社会，但现在他们让当选的统治者终生留任，以免公众抗议他们最喜欢的明星的被出局。"
     
     magiks_gov_harmonious_state:0 "和谐专制"
-    magiks_gov_harmonious_state_desc:0 "这个国家是由一个人终身统治的，他发誓要发现新的、面向所有公民的音乐并向他们传播。"
-    
-    magiks_gov_harmonious_gathering:0 "和谐集会"
-    magiks_gov_harmonious_gathering_desc:0 "这个国家是由一群社会科学家和魔术师组成的，他们致力于发现新的、面向所有公民的音乐并向他们传播。"
-    
-    magiks_gov_harmonious_democracy:0 "和谐民主"
-    magiks_gov_harmonious_democracy_desc:0 "这个国家是由一个复杂的民选官员系统运行的，上面有一个民选统治者，所有这些人都致力于发现新的、面向所有公民的音乐并向他们传播。"
-    
-    magiks_gov_magical_monarchy:0 "强大魔法师君主政体"
-    magiks_gov_magical_monarchy_desc:0 "这个国家是由一个有着强大魔法天赋的皇室家族管理的。"
-    
-    magiks_gov_dark_dictatorship:0 "黑暗独裁"
-    magiks_gov_dark_dictatorship_desc:0 "这个国家是由一个单一的统治者管理的，通过恐惧和奉献来统治，通过使用黑暗魔法来维持现状。"
+    magiks_gov_harmonious_state_desc:0 "这个国家是由一个人终身统治的，他发誓要向所有的公民发现和推广新的并且能让人神魂颠倒的音乐。"
     
     magiks_gov_ministry_of_magic:0 "魔法部"
     magiks_gov_ministry_of_magic_desc:0 "这个国家由巫师委员会管理，他们都合作制定法律并做出最终会帮助民众的决定。"
     
-    magiks_gov_counsel_of_sorcery:0 "魔法顾问"
-    magiks_gov_counsel_of_sorcery_desc:0 "这个社会由它的人民来管理，选举主要取决于哪一个人能够显示出对自己对魔力的最大和最令人印象深刻的控制。"
+    magiks_gov_council_of_sorcery:0 "巫术顾问"
+    magiks_gov_council_of_sorcery_desc:0 "这个社会由皇室的宫廷经营，由他们的家族血统选择性产生有魔法优势能力的后代。"
     
-    magiks_gov_cultural_controllers:0 "文化管理员"
+    magiks_gov_cultural_controllers:0 "文化控制者"
     magiks_gov_cultural_controllers_desc:0 "这些奇怪的机器完善了一种统一的文化，将它强加于他们控制下的有机种群，并允许对民众进行更大程度的控制。这种做法的缺点是，媒体和商品的设计和生产导致许多低效率，为了保持所述控制，所有这些都被忽略了。"
     
-    
+    magiks_gov_dragon_magocracy:0 "龙王"
+    magiks_gov_dragon_magocracy_desc:0 "无论是天赋异禀还是通过努力和研究而习得，各种形式的魔法长期以来一直统治着这个世界。魔法在世界不同种族中的不和谐表现方式长期以来引发了冲突和戏剧性。不过人们被一个强大的龙王，一个龙骑士统一了起来！"
+
             ### Ruler Titles ###
+
+    MK_RT_DRAGON_MAGUS:0 "龙魔法师"
+    MK_RT_DRAGON_MAGUS_FEMALE:0 "龙魔法师"
+
+    MK_RT_SUPREME_MAGE:0 "最高法师"
+    MK_RT_SUPREME_MAGE_FEMALE:0 "最高法师"
     
-    
-    RT_POP_KING:0 "人民的王"
-    RT_POP_QUEEN:0 "人民的女王"
-    HT_BOY_WONDER:0 "奇迹之子"
-    HT_GIRL_WONDER:0 "奇迹之女"
-    
-    RT_ROCK_MASTER:0 "岩石大师"
-    RT_ROCK_MISTRESS:0 "摇滚女主人"
-    
-    RT_BAND_LEADER:0 "乐队指挥"
-    RT_BAND_LEADER_FEMALE:0 "乐队指挥"
-    
-    RT_MELODY_MAN:0 "作曲人"
-    RT_SELECTED_SINGER:0 "精选歌手"
-    
-    MK_RT_HC_M:0 "和谐之王"
-    MK_RT_HC_F:0 "和谐女王"
-    MK_HT_HC_PM:0 "和谐王子"
-    MK_HT_HC_PF:0 "和谐公主"
+    MK_RT_ROCK_MASTER:0 "摇滚之王"
+    MK_RT_ROCK_MISTRESS:0 "摇滚女王"
     
     MK_RT_HS_M:0 "节奏独裁者"
     MK_RT_HS_F:0 "节奏独裁者"
     
-    MK_RT_HG_M:0 "首席研究员"
-    MK_RT_HG_F:0 "首席研究员"
-    
-    MK_RT_HD_M:0 "总统先生"
-    MK_RT_HD_F:0 "主席女士"
-    
-    MK_RT_MM_M:0 "魔法皇帝"
-    MK_RT_MM_F:0 "魔法女王"
-    MK_HT_MM_PM:0 "魔法继承人"
-    MK_HT_MM_PF:0 "魔法继承人"
-    
-    MK_RT_DD_M:0 "黑魔王"
-    MK_RT_DD_F:0 "黑暗女士"
-    
     MK_RT_MoM_M:0 "魔法部长"
     MK_RT_MoM_F:0 "魔法部长"
     
-    MK_RT_CoS_M:0 "当选总理"
-    MK_RT_CoS_F:0 "当选总理"
+    MK_RT_CoS_M:0 "血腥总理"
+    MK_RT_CoS_F:0 "血腥总理"
     
     MK_RT_CC_1:0 "方向引导者"
-    MK_RT_CC_2:0 "总生产者"
+    MK_RT_CC_2:0 "总制片人"
     MK_RT_CC_3:0 "最佳机器人"
     
+            ### Economic Categories ###
+
+    planet_mages:0 "魔法师"
+
+    planet_undead:0 "不死生物"
+
+            ### Jobs ###
+
+    job_high_mage:0 "高阶法师"
+    job_high_mage_plural:0 "高阶法师"
+    job_high_mage_desc:0 "高阶法师是精通了魔法能力的魔法使用者。"
+    mod_job_high_mage_add:0 "添加高阶法师职位"
+
+    job_magical_researcher:0 "魔法研究员"
+    job_magical_researcher_plural:0 "魔法研究人员"
+    job_magical_researcher_desc:0 "专门开发新奥术能力的法师。"
+    mod_job_magical_researcher_add:0 "添加魔法研究员职位"
+
+    job_manacite_alchemist:0 "法力水晶炼金术士"
+    job_manacite_alchemist_plural:0 "法力水晶炼金术士"
+    job_manacite_alchemist_desc:0 "法力水晶炼金术士是专门创造和净化法力水晶的法师。"
+    mod_job_manacite_alchemist_add:0 "添加法力水晶炼金术士职位"
+
+    job_undead_thrall:0 "不死者仆从"
+    job_undead_thrall_plural:0 "不死者仆从"
+    job_undead_thrall_desc:0 "用于苦力劳动的没有智力的不死族"
+    mod_job_undead_thrall_add: "添加不死者仆从职位"
+
+    job_manacite_drone:0 "法力水晶工蜂"
+    job_manacite_drone_plural:0 "法力水晶工蜂"
+    job_manacite_drone_desc:0 "为收集和净化法力水晶而定制的工蜂。"
+    mod_job_manacite_drone_add:0 "添加法力水晶工蜂职位"
+
+    job_abjurist_mage:0 "防护系法师"
+    job_abjurist_mage_plural:0 "防护系法师"
+    job_abjurist_mage_desc:0 "防护系法师专攻防御和保护法术，确保星球的安全。"
+    mod_job_abjurist_mage_add:0 "添加防护系法师职位"
     
             ### Planets ###
     
     
     pc_magikal:0 "魔法世界"
-    pc_magikal_desc:0 "虽然以前只是一颗正常的可居住星球，但是一些事件已经给这个世界注入了大量的神奇能量，导致了许多奇怪的现象。"
+    pc_magikal_desc:0 "一个有氮氧气氛的美丽世界。虽然大部分是由恒温生物聚落组成的，但这种刻在这个世界上的神奇能量几乎完全适合所有的生命，无论其偏好如何。"
     pc_magikal_tile:0 "魔法注入的地形"
-    pc_magikal_tile_desc:0 "一个有氮氧气氛的美丽世界。虽然大部分是由恒温生物聚落组成的，但这种刻在这个世界上的神奇能量几乎完全适合所有的生命，无论其偏好如何。然而，由于这个世界巨大的神奇能量导致了生理和心理上的不一致，常规研究受到严重阻碍。"
+    pc_magikal_tile_desc:0 "虽然以前只是一颗正常的可居住星球，但是一些事件已经给这个世界注入了大量的神奇能量，导致了许多奇怪的现象。"
     
     trait_pc_magikal_preference:0 "魔法世界偏好"
     trait_pc_magikal_preference_desc:0 "$trait_pc_arctic_preference_desc$"
@@ -350,26 +409,106 @@
     pc_magikal_habitability:0 "魔法宜居性"
     
     pc_sour:0 "酸性世界"
-    pc_sour_desc:0 "一个贫瘠的世界，有氮氧气氛。空旷的海洋、光秃秃的平原和贫瘠的土壤，这个世界表面上似乎没有生命，尽管在大多数其他方面都非常适合居住。"
+    pc_sour_desc:0 "一个贫瘠的世界。空旷的海洋、荒芜的平原和贫瘠的土壤，这个世界表面上似乎没有生命，尽管在大多数其他方面都非常适合居住。"
     pc_sour_tile:0 "酸性地形"
-    pc_sour_tile_desc:0 "一片贫瘠的土地，到处都是灰尘、污垢和其他东西。"
+    pc_sour_tile_desc:0 "一片贫瘠的土地，到处都是灰尘、污垢和其他杂物。"
     
     pc_sour_habitability:0 "酸性宜居性"
     
     
+            ### Systems ###
+
+            
+    custom_starting_init_09_NAME:0 "法力注入"
+    custom_starting_init_09_DESC:0 "这个系统被注入了法力。"
+
+	   ### Name Lists ###
+
+    name_list_DRAKIEL:0 "Drakiel"
+    name_list_DRAKIEL_desc:0 "A list of Drakiel Names"
+
+    
+            ### Deposits ###
+
+            
+    magiks_d_powerful_leyline:0 "强力地脉"
+    magiks_d_powerful_leyline_desc:0 "穿过星球这一部分的地脉比平常更强大，它允许我们获取基本矿物，并将法力注入到其中创造出法力水晶。"
+
+    magiks_d_leyline_convergence:0 "地脉聚合点"
+    magiks_d_leyline_convergence_desc:0 "几个强大的地脉在此相交，允许我们向许多基础矿物注入法力，创造了一大片的法力水晶。"
+
+    magiks_d_natural_manacite_caverns:0 "天然法力水晶洞穴"
+    magiks_d_natural_manacite_caverns_desc:0 "这里的洞穴充满了注入了大量的法力的宝石。这些自然形成的法力水晶可以收获并投入使用。"
+    
+    magiks_d_cloudforest:0 "云林"
+    magiks_d_cloudforest_desc:0 "这片森林里的树木似乎长出了云而不是树叶，快速的压力变化创造了大量可用的风。"
+    
+    magiks_d_deepgrandreef:0 "深礁"
+    magiks_d_deepgrandreef_desc:0 "这一地区存在着一个巨大的、水下的、洞穴状的深渊，并产生大量稳定的水流，随时可供开发利用。"
+    
+    magiks_d_electrifruitforest:0 "电根树林"
+    magiks_d_electrifruitforest_desc:0 "覆盖这片森林的植物产生了一个相互连接的大型电网，使用召唤的电力作为整个森林的防御系统。"
+    
+    magiks_d_shimmeringfields:0 "闪光原野"
+    magiks_d_shimmeringfields_desc:0 "这些田地被美丽的、闪闪发光的外露矿石所覆盖，这些矿石都是通过长期接触行星的魔法能量而被净化的。"
+    
+    magiks_d_forgottenhoard:0 "被遗忘的秘藏"
+    magiks_d_forgottenhoard_desc:0 "这个地区的一个大山洞里藏有大量的宝藏，足够开采很多代。"
+    
+    magiks_d_deepdark:0 "深黑入口"
+    magiks_d_deepdark_desc:0 "此区域包含一个神秘维度的入口，称为“深黑入口”，虽然太危险而无法完全探索，但却为入口带来了许多宝贵的财富。"
+    
+    magiks_d_blessedfields:0 "受祝福的田地"
+    magiks_d_blessedfields_desc:0 "这些田地正受到神秘力量的保护，因此受到了非常好的保护，免受捕食者和害虫的侵害。"
+    
+    magiks_d_enchantedforest:0 "迷幻森林"
+    magiks_d_enchantedforest_desc:0 "这片森林由于长期暴露在古老的力量下而变得又厚又富，对于种植和农业极为有益。"
+    
+    magiks_d_allignedhills:0 "群山"
+    magiks_d_allignedhills_desc:0 "这些山丘的山脊与星球上的几条地脉完美地结合在一起，其中的魔法力量大大增加了土壤对生长支持的潜力。"
+    
+    magiks_d_magmatic_upheaval:0 "火山动荡"
+    magiks_d_magmatic_upheaval_desc:0 "由于世界自然能源的退化，大型火山喷发覆盖了该地区，由于缺乏矿物多样性，对采矿没有用处。"
+    
+    magiks_d_eternal_thunderstorm:0 "永恒的雷雨"
+    magiks_d_eternal_thunderstorm_desc:0 "这颗行星的气候已经耗尽了它控制的能量，天气在混乱的雷电爆发中肆虐。"
+    
+    magiks_d_archane_machinery:0 "奥秘机械"
+    magiks_d_archane_machinery_desc:0 "很久以前，当这个世界不再有天敌的时候，巨大的技术和巫术的混合体就在这里建立起来了，虽然远远不能修复，但却包含着一些可以开发的稀有矿物。"
+    
+    magiks_d_mineral_desert:0 "矿物沙漠"
+    magiks_d_mineral_desert_desc:0 "曾经是盛大的矿床和巨大的定居点，这个被排空的行星的严酷混乱将有价值的物质磨成灰尘，使得沙漠大部分都没有正常的沙子。"
+    
+    magiks_d_stinking_bog:0 "臭沼泽"
+    magiks_d_stinking_bog_desc:0 "充满气泡的焦油沼泽覆盖了星球的这一地区，是少数几个肥沃的可以让表面生命生长的地方之一。"
+    
+    magiks_d_fettered_marsh:0 "幽暗湿地"
+    magiks_d_fettered_marsh_desc:0 "古树和其他植物的扭曲根部覆盖了该地区的景观，等待变得萎缩的外壳可以提供的微量营养。"
+    
+    
+            ### Resources ###
+
+            
+    manacite:0 "法力水晶"
+    manacite_desc:0 "一种注入了大量法力的宝石，通常用于奥术仪式和建筑中。"
+
+    
             ### Tile Blockers ###
             
             
-    magiks_tb_fey_wilds:0 "森林"
+    magiks_tb_fey_wilds:0 "野生森林"
     magiks_tb_fey_wilds_desc:0 "这个地区有几片大森林，所有的森林都有小裂缝，通向一个奇怪的、基于自然的魔法和精灵王国，吸引着毫无戒心的孩子进入他们的王国。"
     
-    magiks_tb_deep_grand_reef:0 "礁石深处"
-    magiks_tb_deep_grand_reef_desc:0 "这些海洋在浅海底附近有一个巨大的洞穴，是各种生物的家园。"
+    magiks_tb_deep_grand_reef:0 "深礁"
+    magiks_tb_deep_grand_reef_desc:0 "这些海洋在其浅海底附近有一个巨大的洞穴状空洞，是各种各样的迷人（有时也是危险的）生物的家园。"
     
     
             ### Start Screen Messages ###
     
-    
+    MAGIKS_START_SCREEN_DRAGON_MAGOCRACY:0 "这个星球长期以来一直分为两个有魔法倾向的种族; 一个使用魔法作为其存在的内在部分，另一个则通过多年的训练和练习来掌握它。 几千年来，这两种不同的文化和种族争夺着统治地位，直到他们被一位现在存在于传说中的强大魔法使用者联合起来。 现在，人们团结起来，由那些能够驯服世界上巨龙的龙王统治。"
+
+    MAGIKS_START_SCREEN_MAGOCRACY:0 "世界上的魔法使用者慢慢地成长，在世界各国政府的许多方面占据主导地位。即使由于各国之间的分歧而产生冲突，世界各地的法师也在努力将其统一起来。在几个世纪前他们成功做到了。"
+
     MAGIKS_START_SCREEN_CELEBRATED_MONARCHY:0 "随着大众媒体在全球传播，名人逐渐受到越来越多的崇拜，在国家首脑的选举中逐渐获胜，直到最终所有的治理职位都由一个名人担任，现在这个名人作为一个非政府首脑执政。"
     
     MAGIKS_START_SCREEN_ROCKIN_REGIME:0 "民众最终变得疲惫和无聊，缺乏前进的动力和动力。在我们最低谷的时候，弥赛亚（救世主）出现了，带领我们进入了一个文化和进步的黄金时代"
@@ -430,19 +569,19 @@
     ap_magiks_terraform:0 "法力转移"
     ap_magiks_terraform_desc:0 "通过在行星范围内将先进的魔法和技术结合在一起，有可能用我们的心灵和思想改变整个世界。"
     
-    synthetic_empire_magikal_ascension:0 "$TRIGGER_FAIL$Synthetic 无魔法帝国无法踏上魔法飞升的道路。"
+    synthetic_empire_magikal_ascension:0 "$TRIGGER_FAIL$智械帝国无法踏上通往魔法提升的道路。"
     
     ap_magiks_genes:0 "法力修补"
-    ap_magiks_genes_desc:0 "传说可以追溯到有文字之前，人们能够操纵自己的魔法能力，只受自己想象的限制。"
+    ap_magiks_genes_desc:0 "追溯到有文字之前的传说，当时人们能够操纵自己的魔法能力，限制他们的仅仅是想象力。"
     
     ap_magiks_genes_modifier_desc:0 "$species_trait_points_add$: $POINTS|0=+$\n$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$: $COST_MULT|%0=-$"
     
     ap_magiks_genes_adv:0 "法力成型"
-    ap_magiks_genes_adv_desc:0 "仅仅过了一小段时间，我们最伟大的法师和科学家在现实中变得如此活跃，以至于他们可以像第二语言一样阅读宇宙本身。"
+    ap_magiks_genes_adv_desc:0 "在短短的一段时间之后，我们最伟大的法师和科学家们已经变得可以像第二语言一样流利的阅读宇宙本身。"
     
     ap_magiks_genes_adv_modifier_desc:0 "$species_trait_points_add$: $POINTS|0=+$\n$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$: $COST_MULT|%0=-$"
-    requires_ap_magiks_genes:0 "需要“法力修补”提升技能。"
-    requires_magiks_tech_magiks_gene:0 "需要“炼金术”技术。"
+    requires_ap_magiks_genes:0 "需要“法力修补”飞升点。"
+    requires_magiks_tech_magiks_gene:0 "需要“炼金术”科技。"
     
     
             ### Edicts ###

@@ -1,0 +1,204 @@
+﻿l_simp_chinese:
+  district_wind_turbines:0 "风电场"
+  mod_district_wind_turbines_max:0 "风电场"
+  district_wind_turbines_plural:0 "风电场"
+  district_wind_turbines_desc:0 "星球这部分的强风可以有效地转化为能量。"
+  
+  district_wind_turbine_belt:0 "风电场"
+  mod_district_wind_turbine_belt_max:0 "风电场"
+  district_wind_turbine_belt_plural:0 "风电场"
+  district_wind_turbine_belt_desc:0 "星球这部分的强风可以有效地转化为能量。"
+  
+  district_geothermal_generator:0 "地热发电厂"
+  mod_district_geothermal_generator_max:0 "地热发电厂"
+  district_geothermal_generator_plural:0 "地热发电厂"
+  district_geothermal_generator_desc:0 "地热发电厂利用星球的自然地热活动并将其转化为能源。"
+  
+  district_solar_generator:0 "太阳能阵列"
+  mod_district_solar_generator_max:0 "太阳能阵列"
+  district_solar_generator_plural:0 "太阳能阵列"
+  district_solar_generator_desc:0 "大片平坦的平原和晴朗的天空使这一地区成为低维护、高输出太阳能电池的理想之地。"
+  
+  district_criminal_mining:0 "低成本矿业"
+  mod_district_criminal_mining_max:0 "低成本矿业"
+  district_criminal_mining_plural:0 "低成本矿业"
+  district_criminal_mining_desc:0 "在这些矿业，安全法规和工人的幸福感排在高矿物产量之后。"
+  
+  district_secure_mining:0 "高成本矿业"
+  mod_district_secure_mining_max:0 "高成本矿业"
+  district_secure_mining_plural:0 "高成本矿业"
+  district_secure_mining_desc:0 "谁能想到一个矿井能有如此愉快的工作环境呢?"
+  
+  district_surface_mining:0 "露天矿业"
+  mod_district_surface_mining_max:0 "露天矿业"
+  district_surface_mining_plural:0 "露天矿业"
+  district_surface_mining_desc:0 "一次收集一块石头..."
+  
+  district_hydroponic_bay:0 "水培湾"
+  mod_district_hydroponic_bay_max:0 "水培湾"
+  district_hydroponic_bay_plural:0 "水培湾"
+  district_hydroponic_bay_desc:0 "水培法需要能量，但在其他不太适宜生物居住的星球上却能生产食物。"
+  
+  district_nature_farms:0 "自然农场"
+  mod_district_nature_farms_max:0 "自然农场"
+  district_nature_farms_plural:0 "自然农场"
+  district_nature_farms_desc:0 "到野外去耕种，大自然为我们提供了什么。"
+  
+  district_automatic_farms:0 "自动农场"
+  mod_district_automatic_farms_max:0 "自动农场"
+  district_automatic_farms_plural:0 "自动农场"
+  district_automatic_farms_desc:0 "自动化的食物吗?少干点活，多吃点东西。"
+  
+  district_commerce:0 "商务部门"
+  mod_district_commerce_max:0 "商务部门"
+  district_commerce_plural:0 "商务部门"
+  district_commerce_desc:0 "让商业流动起来!"
+  
+  district_local_stores:0 "本地存储"
+  mod_district_local_stores_max:0 "本地存储"
+  district_local_stores_plural:0 "本地存储"
+  district_local_stores_desc:0 "你友好的邻居商店。"
+  
+  district_spaceport:0 "宇航中心"
+  mod_district_spaceport_max:0 "宇航中心"
+  district_spaceport_plural:0 "宇航中心"
+  district_spaceport_desc:0 "一个太空港使更多的贸易和飞行员在那里工作将增加你的海军能力。"
+  
+  district_nature_reserve:0 "自然保护区"
+  mod_district_nature_reserve_max:0 "自然保护区"
+  district_nature_reserve_plural:0 "自然保护区"
+  district_nature_reserve_desc:0 "一片没有工业活动的自然星球环境，由护林员维护和保护。"
+  
+  district_workshops:0 "车间"
+  mod_district_workshops_max:0 "车间"
+  district_workshops_plural:0 "车间"
+  district_workshops_desc:0 "工程师在这里做工程。"
+  
+  district_research_complex:0 "研究综合体"
+  mod_district_research_complex_max:0 "研究综合体"
+  district_research_complex_plural:0 "研究综合体"
+  district_research_complex_desc:0 "复杂的物理研究将给你的帝国带来突破性的(有时是字面上的)研究。"
+  district_research_complex_uncapped:0 "研究综合体"
+  mod_district_research_complex_uncapped_max:0 "研究综合体"
+  district_research_complex_uncapped_plural:0 "研究综合体"
+  district_research_complex_uncapped_desc:0 "复杂的物理研究将给你的帝国带来突破性的(有时是字面上的)研究。"
+  
+  district_tourism:0 "旅游景区"
+  mod_district_tourism_max:0 "旅游景区"
+  district_tourism_plural:0 "旅游景区"
+  district_tourism_desc:0 "银河第一度假胜地!"
+  
+  district_local_industry:0 "地方产业"
+  mod_district_local_industry_max:0 "地方产业"
+  district_local_industry_plural:0 "地方产业"
+  district_local_industry_desc:0 "当地工业生产的合金数量有限。"
+  
+  district_production_hub:0 "生产中心"
+  mod_district_production_hub_max:0 "生产中心"
+  district_production_hub_plural:0 "生产中心"
+  district_production_hub_desc:0 "生产中心生产/制造人口所需的一切。星系范围航运包括在内。(全银河免费送货!!)"
+  
+  district_chemistry_industry:0 "化学工业"
+  mod_district_chemistry_industry_max:0 "化学工业"
+  district_chemistry_industry_plural:0 "化学工业"
+  district_chemistry_industry_desc:0 "它可能对环境没有那么好，但你总可以殖民另一个星球。"
+  
+  district_gas_refinery:0 "气体精炼厂"
+  mod_district_gas_refinery_max:0 "气体精炼厂"
+  district_gas_refinery_plural:0 "气体精炼厂"
+  district_gas_refinery_desc:0 "在这颗行星的沉积物中可以发现微量的外来气体。这一地区范围内的设施是专门提取和提炼成可用的浓度。"
+  
+  district_crystal_mines:0 "水晶矿"
+  mod_district_crystal_mines_max:0 "水晶矿"
+  district_crystal_mines_plural:0 "水晶矿"
+  district_crystal_mines_desc:0 "在这颗行星的地壳中可以发现稀有的晶体。要想挖得足够深，需要整个地区的设备。"
+  
+  district_dyson_spaceport:0 "宇航中心"
+  mod_district_dyson_spaceport_max:0 "宇航中心"
+  district_dyson_spaceport_plural:0 "宇航中心"
+  district_dyson_spaceport_desc:0 "一个太空港使更多的贸易和飞行员在那里工作将增加你的海军能力。"
+  
+  district_ocean_housing:0 "海洋住房"
+  mod_district_ocean_housing_max:0 "海洋住房"
+  district_ocean_housing_plural:0 "海洋住房"
+  district_ocean_housing_desc:0 "这些区划是漂浮在海面上的巨大建筑。"
+  
+  district_ocean_farming:0 "海洋农场"
+  mod_district_ocean_farming_max:0 "海洋农场"
+  district_ocean_farming_plural:0 "海洋农场"
+  district_ocean_farming_desc:0 "海洋农场用海藻生产健康食品。"
+  
+  district_ascended_housing:0 "飞升住房"
+  mod_district_ascended_housing_max:0 "飞升住房"
+  district_ascended_housing_plural:0 "飞升住房"
+  district_ascended_housing_desc:0 "该区划使用了修复前的重力修正技术，允许建设高得离谱和宽敞的住房。"
+  
+  district_ecogardens:0 "生态花园"
+  mod_district_ecogardens_max:0 "生态花园"
+  district_ecogardens_plural:0 "生态花园"
+  district_ecogardens_desc:0 "世界上最美丽的动植物聚集在这里，创造完美和谐的生活。"
+  
+  district_gardens:0 "花园"
+  mod_district_gardens_max:0 "花园"
+  district_gardens_plural:0 "花园"
+  district_gardens_desc:0 "世界上美丽的动植物聚集在这里，创造完美和谐的生活。"
+  
+  district_asteroid_belt_mining:0 "小行星带开采矿业"
+  mod_district_asteroid_belt_mining_max:0 "小行星带开采矿业"
+  district_asteroid_belt_mining_plural:0 "小行星带开采矿业"
+  district_asteroid_belt_mining_desc:0 ""
+  
+  district_cloning_facility:0 "克隆设施"
+  mod_district_cloning_facility_max:0 "克隆设施"
+  district_cloning_facility_plural:0 "克隆设施"
+  district_cloning_facility_desc:0 ""
+  
+  district_robot_assembly:0 "机器人组装"
+  mod_district_robot_assembly_max:0 "机器人组装"
+  district_robot_assembly_plural:0 "机器人组装"
+  district_robot_assembly_desc:0 ""
+  
+  district_drone_lab:0 "工蜂实验室"
+  mod_district_drone_lab_max:0 "工蜂实验室"
+  district_drone_lab_plural:0 "工蜂实验室"
+  district_drone_lab_desc:0 ""
+  
+  district_shelters:0 "避难所"
+  mod_district_shelters_max:0 "避难所"
+  district_shelters_plural:0 "避难所"
+  district_shelters_desc:0 ""
+  
+  district_underground_city:0 "地下城市"
+  mod_district_underground_city_max:0 "地下城市"
+  district_underground_city_plural:0 "地下城市"
+  district_underground_city_desc:0 ""
+  
+  district_academy:0 "学院"
+  mod_district_academy_max:0 "学院"
+  district_academy_plural:0 "学院"
+  district_academy_desc:0 ""
+  
+  district_machine_production_line:0 "机械生产线"
+  mod_district_machine_production_line_max:0 "机械生产线"
+  district_machine_production_line_plural:0 "机械生产线"
+  district_machine_production_line_desc:0 ""
+  
+  district_drone_waste_inceneration:0 "废物焚烧"
+  mod_district_drone_waste_inceneration_max:0 "废物焚烧"
+  district_drone_waste_inceneration_plural:0 "废物焚烧"
+  district_drone_waste_inceneration_desc:0 ""
+  
+  district_drone_research_complex:0 "研究综合体"
+  mod_district_drone_research_complex_max:0 "研究综合体"
+  district_drone_research_complex_plural:0 "研究综合体"
+  district_drone_research_complex_desc:0 ""
+  
+  district_drone_recycling_center:0 "回收中心"
+  mod_district_drone_recycling_center_max:0 "回收中心"
+  district_drone_recycling_center_plural:0 "回收中心"
+  district_drone_recycling_center_desc:0 ""
+  
+  district_food_production_line:0 "食品生产线"
+  mod_district_food_production_line_max:0 "食品生产线"
+  district_food_production_line_plural:0 "食品生产线"
+  district_food_production_line_desc:0 ""

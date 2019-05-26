@@ -1,0 +1,18 @@
+﻿l_simp_chinese:
+  decision_endless_planet:0 "无尽星球决策"
+  decision_endless_planet_desc:0 "你总能找到更多的空间来建造。这项决定将使可能的区划数目永久增加一个。"
+  decision_develope_planet:0 "行星开发"
+  decision_develope_planet_desc:0 "扫描你的星球，寻找上次扫描中没有看到的资源。"
+  decision_evolve_home:0 "星球进化"
+  decision_evolve_home_desc:0 "进化你的星球会让你进入更好的区划，让你的星球更强大。"
+  decision_ascend_regular:0 "星球飞升"
+  decision_ascend_regular_desc:0 "一颗飞升的行星将永远是银河系的灯塔。"
+  decision_ascend_hive:0 "星球飞升"
+  decision_ascend_hive_desc:0 "这将确保你的蜂巢永远存在。"
+  decision_ascend_machine:0 "星球飞升"
+  decision_ascend_machine_desc:0 "你们的星球将与机械融为一体。"
+  
+  decision_evolve_home_tooltip:0 "进化你的家园将使你获得区划无限制和一个传统。"
+  decision_ascend_home_tooltip:0 "一个星球飞升将会在你们的行星上实施预知技术。"
+  
+  decision_develope_planet_effects:0 "在你的星球上随机添加一个资源。"

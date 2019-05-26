@@ -2,7 +2,7 @@
   z8_fe.6.name:0 "一股强大的力量在搅动"
   z8_fe.6.desc:0 "横跨银河系，原始文明加入银河共同体。掌握了星际旅行，这些物种从一颗恒星移动到另一颗恒星，从一颗行星移动到另一颗行星，幸运的是，它们不知道它们边界之外的力量。\n\n你曾经跨星系的帝国的齿轮开始再次研磨。你们停滞不前的文化和古老的传统开始发生微妙的变化。你的统治是永恒的，你的帝国是不朽的。这个星系的孩子们害怕你。你们的影响是巨大的，你们的技术是不可企及的。你过去的一切和现在的一切，已经融合成你所知道的现在这个伟大的时刻。\n\n你已经堕落了，但你可以重新站起来。你会遵守古老的协议吗?你会在这个失落的星系上留下你的印记吗?你会再次醒来吗?"
   z8_fe.6.a:0 "让我们再次创造我们的遗产!"
-  z8_fe.6.a.tooltip:0 "扮演你的堕落帝国。" 
+  z8_fe.6.a.tooltip:0 "扮演你的失落帝国。" 
   
   tw_trait_cybernetic_NAME:0 "控制论"
   tw_trait_cybernetic_DESC:0 "§L这个物种如此大规模地接受控制论，以至于它的成员可能被认为是半机械人。他们经常用更先进的机械部件替换他们的有机身体部件。§!\n"
@@ -56,7 +56,7 @@
   lifeseed.1.a.tooltip:0 "一个拥有大量原行星的大太阳系很容易形成地化现象"
   
   lifeseed.1.b:0 "让我们创造一些微小而辉煌的东西"
-  lifeseed.1.b.tooltip:0 "一个有一些原行星的小太阳系是可以改造地球的。"
+  lifeseed.1.b.tooltip:0 "一个有一些原始行星的小太阳系是可以改造星球的。"
    
   lifeseed.02.name:0 "太阳系准备好重塑了"
   lifeseed.02.desc:0 "“这些行星太奇妙了，无人涉足。改变他们马上!”>>[Root.GetRulerName]<< " 
@@ -140,11 +140,11 @@
   tw_fallen_6_1_NAME:0 "永恒提醒"
   tw_fallen_6_1_DESC:0 "和平主义的启动星系，有一些特殊的东西。"
   tw_fallen_cybrex_refugee_NAME:0 "雷克斯·罗伊吉"
-  tw_fallen_cybrex_refugee_DESC:0 "大多数帝国，甚至是古老的没落帝国，都认为西布雷斯人在很久以前就已经灭绝了。但也许这不是事实?"
+  tw_fallen_cybrex_refugee_DESC:0 "大多数帝国，甚至是古老的失落帝国，都认为西布雷斯人在很久以前就已经灭绝了。但也许这不是事实?"
   tw_fallen_ma_1_NAME:0 "α难民"
   tw_fallen_ma_1_DESC:0 "一个几乎完整的环形世界，有三个可居住的部分。托管项目的一部分。内博尔星系的许多环形世界现在都成了废墟"
   fallen_homeworld:0 "失落帝国家园"
-  fallen_homeworld_desc:0 "一个古老没落帝国的故乡。"
+  fallen_homeworld_desc:0 "一个古老失落帝国的故乡。"
   
   ai_blue:0 "蓝色AI"
   
@@ -486,11 +486,11 @@
  tech_awa_mil:0 "永恒遗产"
  tech_awa_phob:0 "永恒纯洁"
  tech_awa_phile:0 "永恒多样性"
- tech_awa_spi_desc:0 "这项技术将唤醒所有唯心主义堕落帝国。"
- tech_awa_mat_desc:0 "这项技术将唤醒所有唯物主义没落的帝国。"
- tech_awa_mil_desc:0 "这项技术将唤醒所有军国主义没落的帝国。"
- tech_awa_phob_desc:0 "这项技术将唤醒所有亲外主义没落的帝国。"
- tech_awa_phile_desc:0 "这项技术将唤醒所有排外主义没落的帝国。"
+ tech_awa_spi_desc:0 "这项技术将唤醒所有唯心主义失落帝国。"
+ tech_awa_mat_desc:0 "这项技术将唤醒所有唯物主义失落帝国。"
+ tech_awa_mil_desc:0 "这项技术将唤醒所有军国主义失落帝国。"
+ tech_awa_phob_desc:0 "这项技术将唤醒所有亲外主义失落帝国。"
+ tech_awa_phile_desc:0 "这项技术将唤醒所有排外主义失落帝国。"
  
    
  kok_desc:0 "我们的帝国致力于保护知识和防止在原始物种手中发生危险的技术进化。"

@@ -1,10 +1,6 @@
 ﻿l_simp_chinese:
 distar.3013.a.tooltip:0 "在 [nivlac_planet.GetName] 行星填充 $NAME_Nivlac$ £pops 人口"
-## distar.3013.a.tooltip -> Fill empty [nivlac_planet.GetName] planet tiles with $NAME_Nivlac$ £pops  Pops. ##
-distar.3017.a.tooltip:0 "$NAME_Nivlac$ £pops 人口已经被添加到 [nivlac_planet.Capital.GetName] 上了."
-## distar.3017.a.tooltip -> $NAME_Nivlac$ £pops  Pops have been added to empty tiles on [nivlac_planet.Capital.GetName]. ##
-distar.3032.a.tooltip:0 "[molluscoid_miners_species.GetName] £pops 人口已经填满了 [Root.Capital.GetName]."
-## distar.3032.a.tooltip -> [molluscoid_miners_species.GetName] £pops  Pops have been added to empty tiles on [Root.Capital.GetName]. ##
+distar.3017.a.tooltip:0 "$NAME_Nivlac$ £pops 人口已经被添加到 [nivlac_planet.Capital.GetName] 上。"
+distar.3032.a.tooltip:0 "[molluscoid_miners_species.GetName] £pops 人口已经填满了 [Root.Capital.GetName]。"
 
-civic_tooltip_feudal_realm_effects:2 "The effects of §YSubject Power§! on relations is reduced by §Y50%§!, but all Subjects are allowed to expand into unclaimed systems. 可以在游戏开始时将其变成附庸。"
-## civic_tooltip_feudal_realm_effects -> The effects of §YSubject Power§! on relations is reduced by §Y50%§!, but all Subjects are allowed to expand into unclaimed systems. Can vassalize and make vassals at game start. ##
+civic_tooltip_feudal_realm_effects:2 "附庸权力对§Y关系影响§!降低§Y50%§!，但所有附庸都可以扩张到无人认领的星系中。 可以在游戏开始时将其变成附庸。"

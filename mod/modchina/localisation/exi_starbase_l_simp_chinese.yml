@@ -1,17 +1,33 @@
 ﻿l_simp_chinese:
 
-sm_patrol_offices: "Patrol Offices"
-sm_patrol_offices_desc: "A facility to manage trade routes: patrols, freighter escorts, and first strikes against piracy hotspots.\n"
-sm_patrol_offices_desc_modifier: "Grants §G+10%§! Trade Value and then a further §G+2§! Naval Capacity and §G+5§! Trade Protection per Hangar Bay."
+sm_patrol_offices: "巡逻办公室"
+sm_patrol_offices_desc: "管理贸易路线的设施:巡逻，货船护航，打击海盗热点。\n"
+sm_patrol_offices_desc_modifier: "§G+10%§!贸易值§G+2§!海军容量§G+5§!贸易保护"
 
-sm_munitions_bay: "Munitions Bay"
-sm_munitions_bay_desc: "Specialise for gun batteries, improving the station's range and hull integrity.\n"
-sm_munitions_bay_desc_modifier: "Adds §G+10%§! Hull, §G+10%§! Armor and §G+15%§! Weapons Range per Gun Battery."
+sm_munitions_bay: "弹药湾"
+sm_munitions_bay_desc: "专门为火炮电池，改善空间站的射程和船体完整性。\n"
+sm_munitions_bay_desc_modifier: "增加§G+10%§!船体值， §G+10%§!装甲和§G+15%§!每个动能槽位的武器射程。"
  
-sm_missile_command: "Missile Command"
-sm_missile_command_desc: "Specialise for missile batteries, improving the station's firepower and hull integrity.\n"
-sm_missile_command_desc_modifier: "Adds §G+10%§! Hull, §G+10%§! Armor and §G+10%§! Weapons Damage per Missile Battery."
+sm_missile_command: "导弹司令部"
+sm_missile_command_desc: "专门为导弹电池，提高空间站的火力和船体完整性。\n"
+sm_missile_command_desc_modifier: "增加§G+10%§!船体值， §G+10%§!装甲和§G+10%§!每个导弹槽位的武器伤害。"
 
-sm_proving_ground: "Proving Ground"
-sm_proving_ground_desc: "An advanced experimental assembly plant that repurposes existing assets to expediate ship construction. Untested. No refunds.\n"
-sm_proving_ground_desc_modifier: "Adds §G+10%§! Ship Build Speed and §G-5%§! Ship Build Cost per Anchorage."
+sm_proving_ground: "试验场"
+sm_proving_ground_desc: "一个先进的实验装配厂，重新利用现有资产，以方便船舶建设。未测试。没有退款。\n"
+sm_proving_ground_desc_modifier: "增加§G+10%§!舰船建造速度和§G-5%§!每个锚地的造船成本。"
+
+sm_alloy_forge: "合金锻造"
+sm_alloy_forge_desc: "将单个船厂转换成合金生产阵列的设备。\n"
+sm_alloy_forge_desc_modifier: "扣除§R1§!船厂生产能力,产生§G4§! £alloys£合金和增加星系§G10%§!£alloys£合金产量。"
+
+sm_psi_command: "灵能命令"
+sm_psi_command_desc: "指挥系统灵能资产的中心。心灵感应扫描威胁，通过一个专门的护盾远程动力学团队支持基地的护盾。\n"
+sm_psi_command_desc_modifier: "--目前没有需要--"
+
+sm_molecular_forge: "分子锻造"
+sm_molecular_forge_desc: "这是一个纳米技术的奇迹，熔炉可以派遣维修队伍，甚至在船只停靠之前就开始修理。\n"
+aura_starbase_molecular_forge: "分子修复光环"
+sm_starbase_molecular_forge_desc_modifier: "--目前没有需要--"
+
+sm_arcade: "模拟服务器"
+sm_arcade_desc: "为研究人员提供模拟的复杂主机。当然还有无聊的船员的娱乐。\n"

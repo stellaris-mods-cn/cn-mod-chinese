@@ -39,8 +39,7 @@
       
  ee_hyperlane.1.name:0 "超空间中断!"
  ee_hyperlane.1.desc:0 "所有连接到星系的超空间航道都被移除。跃迁引擎也是不可能的。让我们希望没有人能超越这些要求。"
- edict_plane_ideas:0 "$twplane_button$"
- edict_plane_ideas_desc:0 "$twplane.1.desc$"
+
  twplane_exit:0 "§L退出。§!"
  twplane_remove:0 "§H删除§!所有MOD设置。"
  
@@ -55,15 +54,15 @@
  
  twrpevents.50.name:0 "神性的火花"
  twrpevents.50.desc:0 "通过我们对存在的更大的理解，以及超越存在的东西，我们对现实有了更深的理解。我们选择专注于一条美德之路，一条可以引导我们到达其他存在层面的道路。许多人都发展了新的技能，随着我们的人口发生变化，我们注意到我们的内心有一些东西。一种我们无法用不同的语言来描述的东西，就像神性的火花。我们应该准备和重塑我们的社会，以实现我们伟大的命运。无论有多少人嫉妒我们，惧怕我们的权能，我们都要作最坏的打算"
- 
+
  twrpevents.60.name:0 "社会的飞升"
  twrpevents.60.desc:0 "当我们人类的第一个成员开始提升时，仅仅是一眨眼的功夫，一个连锁反应就出现了，它将我们的世界沐浴在难以置信的光明之中。我们仍然不确定发生了什么，但我们的大多数人都升天了，然后消失了。他们中只有少数人决定回来帮助我们的社会从这场巨大的损失中恢复过来，但也有这个新的机会，新的永恒，我们现在可以称之为我们自己的。"
 
- 	mod_country_resource_max_minerals_add:0 "Mineral Storage"
-	mod_country_resource_max_energy_add:0 "Energy Storage"
-	mod_country_resource_max_food_add:0 "Food Storage"
-	mod_country_resource_max_alloys_add:0 "Alloy Storage"
-	mod_country_resource_max_consumer_goods_add:0 "Consumer Goods Storage"
+ 	mod_country_resource_max_minerals_add:0 "矿物存储"
+	mod_country_resource_max_energy_add:0 "能量存储"
+	mod_country_resource_max_food_add:0 "生物存储"
+	mod_country_resource_max_alloys_add:0 "合金存储"
+	mod_country_resource_max_consumer_goods_add:0 "消费品存储"
 	mod_country_resource_max_influence_add:0 ""
  
  # first menu
@@ -88,15 +87,15 @@
   civic_chosen_of_eternos:0 "永恒之选"
   civic_chosen_of_eternos_desc:0 "我们是有天赋的，通过我们永恒的力量，我们得到了超乎想象的祝福"
 
-  tech_repeatable_ee_shield:0 "Cosmic Shield Accumulation"
-  tech_repeatable_ee_armor:0 "Cosmic Armor Enhancement"
-  tech_repeatable_ee_hp:0 "Cosmic Hull Empowerment"
-  tech_repeatable_ee_evasion:0 "Evasion Enhancements"
-  tech_repeatable_ee_armor_penetration:0 "Armor Deconstruction"
-  tech_repeatable_ee_shield_penetration:0 "Shield Negation"
-  tech_repeatable_ee_developement:0 "Eternal Insights"
-  tech_repeatable_ee_awesome:0 "Eternal Philosophies"
-  tech_repeatable_ee_eter:0 "Cosmic Matter Generation"
+  tech_repeatable_ee_shield:0 "宇宙护盾积累"
+  tech_repeatable_ee_armor:0 "宇宙装甲积累"
+  tech_repeatable_ee_hp:0 "宇宙船体值积累"
+  tech_repeatable_ee_evasion:0 "闪避增强"
+  tech_repeatable_ee_armor_penetration:0 "装甲解构"
+  tech_repeatable_ee_shield_penetration:0 "护盾分解"
+  tech_repeatable_ee_developement:0 "永恒的见解"
+  tech_repeatable_ee_awesome:0 "永恒的哲学"
+  tech_repeatable_ee_eter:0 "宇宙物质世代"
 
   tech_repeatable_ee_shield_desc:0 ""
   tech_repeatable_ee_armor_desc:0 ""
@@ -166,8 +165,8 @@
  twplane.4.e.tooltip:0 "唤醒一个亲外主义失落帝国"
  twplane.4.e.reply:0 "们唤起了一个很久以前由一个受我们思想影响的帝国放置的古代AI的反应。通过激活它，我们可能会在这个循环中获得令人着迷的结果"
 
- twplane.4.f:0 "Malfuntioning Custodian"
- twplane.4.f.name:0 "Malfuntioning Custodian"
+ twplane.4.f:0 "保管人的职能"
+ twplane.4.f.name:0 "保管人的职能"
  twplane.4.f.tooltip:0 "唤醒一个亲外主义失落帝国"
  twplane.4.f.reply:0 "们唤起了一个很久以前由一个受我们思想影响的帝国放置的古代AI的反应。通过激活它，我们可能会在这个循环中获得令人着迷的结果"
 

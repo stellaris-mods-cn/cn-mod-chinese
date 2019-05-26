@@ -1,0 +1,56 @@
+﻿l_simp_chinese:
+
+ ####################################
+ # Faction Missions
+ ####################################
+ TRADITIONALIST_MAGIC_HERITAGE:2 "奥法遗产"
+ TRADITIONALIST_NO_MAGIC_HERITAGE:1 "$TRADITIONALIST_MAGIC_HERITAGE$"
+ TRADITIONALIST_MAGIC_HERITAGE_DESC:2 "让你的优势种族拥有奥法专长(具有§Y奥法§!或§Y潜在奥法§!的特性)将会取悦[Root.GetName]。"
+
+ TRADITIONALIST_MAGIC_PURSUIT:2 "飞升追求"
+ TRADITIONALIST_NO_MAGIC_PURSUIT:1 "$TRADITIONALIST_MAGIC_PURSUIT$"
+ TRADITIONALIST_MAGIC_PURSUIT_DESC:2 "采用§Y奥法飞升§!飞升将取悦[Root.GetName]。"
+
+ TRADITIONALIST_MAGIC_WORLDS:0 "奥法星球"
+ TRADITIONALIST_NO_MAGIC_WORLDS:0 "奥法星球"
+ TRADITIONALIST_MAGIC_WORLDS_DESC:0 "殖民一个§M奥法世界§!将会取悦[Root.GetName]。"
+
+ TRADITIONALIST_MATERIALIST:0 "不信的民众"
+ TRADITIONALIST_NOT_MATERIALIST:0 "不信的民众"
+ TRADITIONALIST_MATERIALIST_DESC:0 "在[Root.Owner.GetName]中发现唯物主义信仰是一个根本的问题，会让[Root.GetName]感到不快。"
+
+ TRADITIONALIST_RULER_SUPPORT:0 "支持统治者"
+ TRADITIONALIST_NOT_RULER_SUPPORT:0 "支持统治者"
+ TRADITIONALIST_RULER_SUPPORT_DESC:0 "让[Root.Owner.GetName]的统治者成为支持者会让[Root.GetName]感到高兴。"
+
+ TRADITIONALIST_NO_RULER_SUPPORT:0 "不支持统治者"
+ TRADITIONALIST_NOT_NO_RULER_SUPPORT:0 "不支持统治者"
+ TRADITIONALIST_NO_RULER_SUPPORT_DESC:0 "如果[Root.Owner.GetName]的统治者是敌对派系的支持者，将会使[Root.GetName]大为不。"
+
+ LIGHT_DEFIANT:0 "光之挑衅"
+ LIGHT_NOT_DEFIANT:0 "$LIGHT_DEFIANT$"
+ LIGHT_DEFIANT_DESC:0 "拥有一个公开支持敌对派系的少数党将极大地惹恼[Root.GetName]。"
+
+ LIGHT_ASCENDANT:0 "光明飞升"
+ LIGHT_NOT_ASCENDANT:0 "$LIGHT_ASCENDANT$"
+ LIGHT_ASCENDANT_DESC:0 "被降为少数党将使[Root.GetName]大为不悦。"
+
+ DARK_DEFIANT:0 "暗之挑衅"
+ DARK_NOT_DEFIANT:0 "$DARK_DEFIANT$"
+ DARK_DEFIANT_DESC:0 "$LIGHT_DEFIANT_DESC$"
+
+ DARK_ASCENDANT:0 "暗之飞升"
+ DARK_NOT_ASCENDANT:0 "$DARK_ASCENDANT$"
+ DARK_ASCENDANT_DESC:0 "$LIGHT_ASCENDANT_DESC$"
+
+ pft_light:0 "光明派系"
+ pft_light_desc:1 "光明派系倾向于更公平的权力结构，认为探索和规范奥法的奥秘是所有人的责任。\n\n§L唯心主义§!"
+
+ pft_dark:0 "暗黑派系"
+ pft_dark_desc:1 "黑暗势力倾向于高度集中的权力结构，他们认为帮助保留隐藏的知识是旧贵族的责任，最好是让这些知识消失。\n\n§L唯心主义§!"
+
+ promoted_dark:0 "黑暗势力升级"
+ promoted_dark_desc:0 "§H暗黑派系§!由政府推动"
+
+ promoted_light:0 "光明势力升级"
+ promoted_light_desc:0 "§H光明派系§!由政府推动"

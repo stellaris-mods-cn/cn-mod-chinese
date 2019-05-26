@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
 ### SHIP COMPONENTS TEXTS
 
 TECH_UNLOCK_STELLARITE_ARMOR_TITLE: "§H解锁组件:§! 太阳锻造盔甲"
@@ -106,6 +107,8 @@ MEDIUM_ACOT_ENIGMATIC_SHIELD_SE_DESC: "由于星能量体能量明显优于旧�
 LARGE_ACOT_ENIGMATIC_SHIELD_SE: "大型星能量护盾"
 LARGE_ACOT_ENIGMATIC_SHIELD_SE_DESC: "由于星能量体能量明显优于旧的暗物质和暗能量变体，所以星能量体能量盾也优于它们的旧能量盾是很自然的。这些障碍几乎是上一代人的两倍。"
 
+#####################################################################################
+
 STELLARITE_DRIVE_SE: "星能量跃迁引擎"
 STELLARITE_DRIVE_SE_DESC: "利用恒星的力量生成的虫洞生成机，恒星跃迁引擎可以在更大的距离上运行而不会超载。"
 
@@ -130,51 +133,54 @@ COLOSSUS_SHIP_THRUSTER_SE_DESC: "星能量推进器强大的船舶推进器，�
 SE_SENSOR_SHIP: "恒星阵列"
 SE_SENSOR_SHIP_DESC: "新一代的表面结合系统通过分析系统天体的移动模式和反应来决定船舶的运动。"
 
+#####################################################################################
+
 CORVETTE_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-CORVETTE_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+CORVETTE_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 DESTROYER_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-DESTROYER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+DESTROYER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 CRUISER_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-CRUISER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+CRUISER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 BATTLESHIP_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-BATTLESHIP_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+BATTLESHIP_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 TITAN_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-TITAN_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+TITAN_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 COLOSSUS_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-COLOSSUS_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+COLOSSUS_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 PLATFORM_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-PLATFORM_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+PLATFORM_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 ION_CANNON_DARK_MATTER_REACTOR_SE: "星能量反应堆"
 ION_CANNON_DARK_MATTER_REACTOR_SE_DESC: "哈哈，你还在用这个吗？这是一个漂亮的模因，精致!"
 
 STARBASE_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-STARBASE_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+STARBASE_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 FE_ESCORT_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-FE_ESCORT_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+FE_ESCORT_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 FE_BATTLECRUISER_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-FE_BATTLECRUISER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 FE_TITAN_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-FE_TITAN_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+FE_TITAN_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 FE_GOLIATH_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-FE_GOLIATH_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+FE_GOLIATH_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 FE_STATIONS_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-FE_STATIONS_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+FE_STATIONS_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
 FE_TOWER_DARK_MATTER_REACTOR_SE: "星能量反应堆"
-FE_TOWER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
+FE_TOWER_DARK_MATTER_REACTOR_SE_DESC: "尽管关于星能量岩能量特性背后的真实本质仍存在争议，但其反应堆产生的能量输出仍然是不可否认的强大，甚至超过了暗能量变体。"
 
+#####################################################################################
 
 SE_OFFENSIVE_COMBAT_COMPUTER: "进攻战斗分析仪 (小型舰船)"
 SE_OFFENSIVE_COMBAT_COMPUTER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。这个版本是为进攻战术而优化的。"
@@ -183,49 +189,54 @@ SE_BALANCE_COMBAT_COMPUTER: "平衡战斗分析仪 (小型舰船)"
 SE_BALANCE_COMBAT_COMPUTER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
 
 SE_DEFENSIVE_COMBAT_COMPUTER: "防御作战分析仪 (小型舰船)"
-SE_DEFENSIVE_COMBAT_COMPUTER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
+SE_DEFENSIVE_COMBAT_COMPUTER_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
 
 
 SE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻战斗分析仪 (大型舰船)"
-SE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
+SE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
 
 SE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡战斗分析仪 (大型舰船)"
-SE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
+SE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
 
 SE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御作战分析仪 (大型舰船)"
-SE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
+SE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
 
 
 SE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻战斗分析仪 (泰坦)"
-SE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
+SE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
 
 SE_BALANCE_COMBAT_COMPUTE_TITANR: "平衡战斗分析仪 (泰坦)"
-SE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
+SE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
 
 SE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御作战分析仪 (泰坦)"
-SE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
+SE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
 
 
 SE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻战斗分析仪 (歌利亚)"
-SE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
+SE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
 
 SE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡战斗分析仪 (歌利亚)"
-SE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
+SE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。"
 
 SE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御作战分析仪 (歌利亚)"
-SE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
+SE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
 
 SE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻战斗分析仪 (空间站)"
-SE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
+SE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为进攻战术而优化的。"
 
 SE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御作战分析仪 (防御空间站)"
-SE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "恒星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
+SE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
 
 PAC_COMBAT_COMPUTER_DEFENSE_SE: "航母作战分析仪 （机动回避）"
 PAC_COMBAT_COMPUTER_DEFENSE_SE_DESC: "专为航母优化的独特战斗分析仪。"
 
 PAC_COMBAT_COMPUTER_OFFENSE_SE: "航母作战分析仪 （静止）"
 PAC_COMBAT_COMPUTER_OFFENSE_SE_DESC: "专为航母优化的独特战斗分析仪。"
+
+HERCULEAN_COMBAT_COMPUTER_SE: "巨神作战分析仪"
+HERCULEAN_COMBAT_COMPUTER_SE_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
+
+#####################################################################################
 
 ACOT_AFTERBURNERS_SE: "σ辅助推进器"
 ACOT_AFTERBURNERS_SE_DESC: "在这种情况下，仅靠推进器还不足以使飞船快速前进。σ加力燃烧器可以使它们运行得更快。因为我们得快点!要走了快!"
@@ -260,11 +271,11 @@ hostile_tech_inhibitor_aura: "$aura_category_defensive$"
 
 #### SHIP Tech ####
 
-damage_vs_country_type_ascended_empire_mult: "对巅峰帝国的伤害"
+damage_vs_country_type_ascended_empire_mult: "对巅峰上国的伤害"
 damage_vs_country_type_lost_empire_mult: "对$OUTLINER_FALLEN_EMPIRES$的伤害"
 damage_vs_country_type_original_empire_mult: "对始源帝国的伤害"
 
-shipsize_colossus_hull_add: "巨像船体增加"
+shipsize_colossus_hull_add: "巨像船体值增加"
 
 ORIGIN_PLANET_KILLER_NANITE: "纳米清洁剂"
 ORIGIN_PLANET_KILLER_NANITE_DESC: "纳米清洁剂是原帝国可怕的武器，它可以迅速地用纳尼特改造和清洗整个世界。"

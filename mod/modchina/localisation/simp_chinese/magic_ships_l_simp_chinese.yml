@@ -3,10 +3,10 @@
  ####################################
  # UTILITY SLOTS
  ####################################
- ARMOR_MAGIC_1:0 "§M魔力§!装甲"
- SMALL_ARMOR_MAGIC_1:0 "§M魔力§!装甲"
- MEDIUM_ARMOR_MAGIC_1:0 "§M魔力§!装甲"
- LARGE_ARMOR_MAGIC_1:0 "§M魔力§!装甲"
+ ARMOR_MAGIC_1:0 "§M奥法§!装甲"
+ SMALL_ARMOR_MAGIC_1:0 "§M奥法§!装甲"
+ MEDIUM_ARMOR_MAGIC_1:0 "§M奥法§!装甲"
+ LARGE_ARMOR_MAGIC_1:0 "§M奥法§!装甲"
  ARMOR_MAGIC_1_DESC:0 "未知成分增强的装甲。"
 
  ARMOR_MAGIC_2:0 "§P以太§!装甲"
@@ -28,10 +28,10 @@
  ARMOR_MAGIC_4_DESC:0 "未知成分增强的装甲。"
 
 
- CRYSTAL_ARMOR_MAGIC_1:0 "§M魔力§!船体结构"
- SMALL_CRYSTAL_ARMOR_MAGIC_1:0 "§M魔力§!船体结构"
- MEDIUM_CRYSTAL_ARMOR_MAGIC_1:0 "§M魔力§!船体结构"
- LARGE_CRYSTAL_ARMOR_MAGIC_1:0 "§M魔力§!船体结构"
+ CRYSTAL_ARMOR_MAGIC_1:0 "§M奥法§!船体结构"
+ SMALL_CRYSTAL_ARMOR_MAGIC_1:0 "§M奥法§!船体结构"
+ MEDIUM_CRYSTAL_ARMOR_MAGIC_1:0 "§M奥法§!船体结构"
+ LARGE_CRYSTAL_ARMOR_MAGIC_1:0 "§M奥法§!船体结构"
  CRYSTAL_ARMOR_MAGIC_1_DESC:0 "未知成分增强的船体结构。"
 
  CRYSTAL_ARMOR_MAGIC_2:0 "§P以太§!船体结构"
@@ -53,10 +53,10 @@
  CRYSTAL_ARMOR_MAGIC_4_DESC:0 "未知成分增强的船体结构。"
 
 
- SHIELD_MAGIC_1:0 "§M魔力§!护盾"
- SMALL_SHIELD_MAGIC_1:0 "§M魔力§!护盾"
- MEDIUM_SHIELD_MAGIC_1:0 "§M魔力§!护盾"
- LARGE_SHIELD_MAGIC_1:0 "§M魔力§!护盾"
+ SHIELD_MAGIC_1:0 "§M奥法§!护盾"
+ SMALL_SHIELD_MAGIC_1:0 "§M奥法§!护盾"
+ MEDIUM_SHIELD_MAGIC_1:0 "§M奥法§!护盾"
+ LARGE_SHIELD_MAGIC_1:0 "§M奥法§!护盾"
  SHIELD_MAGIC_1_DESC:0 "未知成分增强的护盾。"
 
  SHIELD_MAGIC_2:0 "§P以太§!护盾"
@@ -81,7 +81,7 @@
  ####################################
  # AUXILIARY SLOTS
  ####################################
- AUTO_REPAIR_MAGIC_1:0 "§M魔力§!再生系统"
+ AUTO_REPAIR_MAGIC_1:0 "§M奥法§!再生系统"
  AUTO_REPAIR_MAGIC_1_DESC:0 ""
 
  AUTO_REPAIR_MAGIC_2:0 "§P以太§!再生系统"
@@ -94,7 +94,7 @@
  AUTO_REPAIR_MAGIC_4_DESC:0 ""
 
 
- REACTOR_BOOSTER_MAGIC_1:0 "§M魔力§!反应堆助推器"
+ REACTOR_BOOSTER_MAGIC_1:0 "§M奥法§!反应堆助推器"
  REACTOR_BOOSTER_MAGIC_1_DESC:0 ""
 
  REACTOR_BOOSTER_MAGIC_2:0 "§P以太§!反应堆助推器"
@@ -110,7 +110,7 @@
  ####################################
  #战斗机/PD
  ####################################
- STRIKE_CRAFT_HANGAR_MAGIC_1:0 "§M魔力§!战斗机"
+ STRIKE_CRAFT_HANGAR_MAGIC_1:0 "§M奥法§!战斗机"
  STRIKE_CRAFT_HANGAR_MAGIC_1_DESC:0 ""
 
  STRIKE_CRAFT_HANGAR_MAGIC_2:0 "§P以太§!战斗机"
@@ -122,7 +122,7 @@
  STRIKE_CRAFT_HANGAR_MAGIC_4:0 "§Y使者§!战斗机"
  STRIKE_CRAFT_HANGAR_MAGIC_4_DESC:0 ""
 
- INTERCEPTOR_MAGIC_1:0 "§M魔力§!防空火炮"
+ INTERCEPTOR_MAGIC_1:0 "§M奥法§!防空火炮"
  INTERCEPTOR_MAGIC_1_DESC:0 ""
 
  INTERCEPTOR_MAGIC_2:0 "§P以太§!防空火炮"
@@ -135,7 +135,7 @@
  INTERCEPTOR_MAGIC_4_DESC:0 ""
 
 
- POINT_DEFENCE_MAGIC_1:0 "§M魔力§!点防御"
+ POINT_DEFENCE_MAGIC_1:0 "§M奥法§!点防御"
  POINT_DEFENCE_MAGIC_1_DESC:0 ""
 
  POINT_DEFENCE_MAGIC_2:0 "§P以太§!点防御"
@@ -151,10 +151,10 @@
  ####################################
  # ENERGY WEAPONS
  ####################################
- LASER_MAGIC_1:0 "§M魔力§!激光发射器"
- SMALL_LASER_MAGIC_1:0 "§M魔力§!激光发射器"
- MEDIUM_LASER_MAGIC_1:0 "§M魔力§!激光发射器"
- LARGE_LASER_MAGIC_1:0 "§M魔力§!激光发射器"
+ LASER_MAGIC_1:0 "§M奥法§!激光发射器"
+ SMALL_LASER_MAGIC_1:0 "§M奥法§!激光发射器"
+ MEDIUM_LASER_MAGIC_1:0 "§M奥法§!激光发射器"
+ LARGE_LASER_MAGIC_1:0 "§M奥法§!激光发射器"
  LASER_MAGIC_1_DESC:0 ""
 
  LASER_MAGIC_2:0 "§P以太§!激光发射器"
@@ -176,30 +176,6 @@
  LASER_MAGIC_4_DESC:0 ""
 
 
- DISRUPTOR_MAGIC_1:0 "§M魔力§!裂解器"
- SMALL_DISRUPTOR_MAGIC_1:0 "§M魔力§!裂解器"
- MEDIUM_DISRUPTOR_MAGIC_1:0 "§M魔力§!裂解器"
- DISRUPTOR_MAGIC_1_DESC:0 ""
-
- DISRUPTOR_MAGIC_2:0 "§P以太§!裂解器"
- SMALL_DISRUPTOR_MAGIC_2:0 "§P以太§!裂解器"
- MEDIUM_DISRUPTOR_MAGIC_2:0 "§P以太§!裂解器"
- DISRUPTOR_MAGIC_2_DESC:0 ""
-
- DISRUPTOR_MAGIC_3:0 "§E秘术§!裂解器"
- SMALL_DISRUPTOR_MAGIC_3:0 "§E秘术§!裂解器"
- MEDIUM_DISRUPTOR_MAGIC_3:0 "§E秘术§!裂解器"
- DISRUPTOR_MAGIC_3_DESC:0 ""
-
- DISRUPTOR_MAGIC_4:0 "§Y使者§!裂解器"
- SMALL_DISRUPTOR_MAGIC_4:0 "§Y使者§!裂解器"
- MEDIUM_DISRUPTOR_MAGIC_4:0 "§Y使者§!裂解器"
- DISRUPTOR_MAGIC_4_DESC:0 ""
-
-
- ENERGY_TORPEDO_MAGIC_1:0 "§M魔力§!能量发射器"
- ENERGY_TORPEDO_MAGIC_1_DESC:0 ""
-
  ENERGY_TORPEDO_MAGIC_2:0 "§P以太§!能量发射器"
  ENERGY_TORPEDO_MAGIC_2_DESC:0 ""
 
@@ -210,10 +186,10 @@
  ENERGY_TORPEDO_MAGIC_4_DESC:0 ""
 
 
- PLASMA_MAGIC_1:0 "§M魔力§!等离子炮"
- SMALL_PLASMA_MAGIC_1:0 "§M魔力§!等离子炮"
- MEDIUM_PLASMA_MAGIC_1:0 "§M魔力§!等离子炮"
- LARGE_PLASMA_MAGIC_1:0 "§M魔力§!等离子炮"
+ PLASMA_MAGIC_1:0 "§M奥法§!等离子炮"
+ SMALL_PLASMA_MAGIC_1:0 "§M奥法§!等离子炮"
+ MEDIUM_PLASMA_MAGIC_1:0 "§M奥法§!等离子炮"
+ LARGE_PLASMA_MAGIC_1:0 "§M奥法§!等离子炮"
  PLASMA_MAGIC_1_DESC:0 ""
 
  PLASMA_MAGIC_2:0 "§P以太§!等离子炮"
@@ -237,21 +213,6 @@
  ####################################
  # KINETIC WEAPONS
  ####################################
- AUTOCANNON_MAGIC_1:0 "§M魔力§!自动机炮"
- AUTOCANNON_MAGIC_1_DESC:0 ""
-
- AUTOCANNON_MAGIC_2:0 "§P以太§!自动机炮"
- AUTOCANNON_MAGIC_2_DESC:0 ""
-
- AUTOCANNON_MAGIC_3:0 "§E秘术§!自动机炮"
- AUTOCANNON_MAGIC_3_DESC:0 ""
-
- AUTOCANNON_MAGIC_4:0 "§Y使者§!自动机炮"
- AUTOCANNON_MAGIC_4_DESC:0 ""
-
-
- KINETIC_ARTILLERY_MAGIC_1:0 "§M魔力§!动能大炮"
- KINETIC_ARTILLERY_MAGIC_1_DESC:0 ""
 
  KINETIC_ARTILLERY_MAGIC_2:0 "§P以太§!动能大炮"
  KINETIC_ARTILLERY_MAGIC_2_DESC:0 ""
@@ -263,10 +224,10 @@
  KINETIC_ARTILLERY_MAGIC_4_DESC:0 ""
 
 
- MASS_DRIVER_MAGIC_1:0 "§M魔力§!质量炮塔"
- SMALL_MASS_DRIVER_MAGIC_1:0 "§M魔力§!质量炮塔"
- MEDIUM_MASS_DRIVER_MAGIC_1:0 "§M魔力§!质量炮塔"
- LARGE_MASS_DRIVER_MAGIC_1:0 "§M魔力§!质量炮塔"
+ MASS_DRIVER_MAGIC_1:0 "§M奥法§!质量炮塔"
+ SMALL_MASS_DRIVER_MAGIC_1:0 "§M奥法§!质量炮塔"
+ MEDIUM_MASS_DRIVER_MAGIC_1:0 "§M奥法§!质量炮塔"
+ LARGE_MASS_DRIVER_MAGIC_1:0 "§M奥法§!质量炮塔"
  MASS_DRIVER_MAGIC_1_DESC:0 ""
 
  MASS_DRIVER_MAGIC_2:0 "§P以太§!质量炮塔"
@@ -291,7 +252,7 @@
  ####################################
  # EXPLOSIVE WEAPONS
  ####################################
- MISSILE_MAGIC_1:0 "§M魔力§!导弹"
+ MISSILE_MAGIC_1:0 "§M奥法§!导弹"
  MISSILE_MAGIC_1_DESC:0 ""
 
  MISSILE_MAGIC_2:0 "§P以太§!导弹"
@@ -303,38 +264,9 @@
  MISSILE_MAGIC_4:0 "§Y使者§!导弹"
  MISSILE_MAGIC_4_DESC:0 ""
 
-
- SWARMER_MISSILE_MAGIC_1:0 "§M魔力§!旋风导弹"
- SWARMER_MISSILE_MAGIC_1_DESC:0 ""
-
- SWARMER_MISSILE_MAGIC_2:0 "§P以太§!旋风导弹"
- SWARMER_MISSILE_MAGIC_2_DESC:0 ""
-
- SWARMER_MISSILE_MAGIC_3:0 "§E秘术§!旋风导弹"
- SWARMER_MISSILE_MAGIC_3_DESC:0 ""
-
- SWARMER_MISSILE_MAGIC_4:0 "§Y使者§!旋风导弹"
- SWARMER_MISSILE_MAGIC_4_DESC:0 ""
-
-
- TORPEDO_MAGIC_1:0 "§M魔力§!鱼雷"
- TORPEDO_MAGIC_1_DESC:0 ""
-
- TORPEDO_MAGIC_2:0 "§P以太§!鱼雷"
- TORPEDO_MAGIC_2_DESC:0 ""
-
- TORPEDO_MAGIC_3:0 "§E秘术§!鱼雷"
- TORPEDO_MAGIC_3_DESC:0 ""
-
- TORPEDO_MAGIC_4:0 "§Y使者§!鱼雷"
- TORPEDO_MAGIC_4_DESC:0 ""
-
  ####################################
  # XL WEAPONS
  ####################################
- MASS_ACCELERATOR_MAGIC_1:0 "§M魔力§!质量加速器"
- MASS_ACCELERATOR_MAGIC_1_DESC:0 ""
-
  MASS_ACCELERATOR_MAGIC_2:0 "§P以太§!质量加速器"
  MASS_ACCELERATOR_MAGIC_2_DESC:0 ""
 
@@ -345,9 +277,6 @@
  MASS_ACCELERATOR_MAGIC_4_DESC:0 ""
 
 
- ENERGY_LANCE_MAGIC_1:0 "§M魔力§!光矛"
- ENERGY_LANCE_MAGIC_1_DESC:0 ""
-
  ENERGY_LANCE_MAGIC_2:0 "§P以太§!光矛"
  ENERGY_LANCE_MAGIC_2_DESC:0 ""
 
@@ -357,25 +286,6 @@
  ENERGY_LANCE_MAGIC_4:0 "§Y使者§!光矛"
  ENERGY_LANCE_MAGIC_4_DESC:0 ""
 
-
- ARC_EMITTER_MAGIC_1:0 "§M魔力§!聚焦电弧发射器"
- ARC_EMITTER_MAGIC_1_DESC:0 ""
-
- ARC_EMITTER_MAGIC_2:0 "§P以太§!聚焦电弧发射器"
- ARC_EMITTER_MAGIC_2_DESC:0 ""
-
- ARC_EMITTER_MAGIC_3:0 "§E秘术§!聚焦电弧发射器"
- ARC_EMITTER_MAGIC_3_DESC:0 ""
-
- ARC_EMITTER_MAGIC_4:0 "§Y使者§!聚焦电弧发射器"
- ARC_EMITTER_MAGIC_4_DESC:0 ""
-
-
- PERDITION_BEAM_MAGIC_1:0 "§M魔力§!毁灭光束"
- PERDITION_BEAM_MAGIC_1_DESC:0 ""
-
- PERDITION_BEAM_MAGIC_2:0 "§P以太§!毁灭光束"
- PERDITION_BEAM_MAGIC_2_DESC:0 ""
 
  PERDITION_BEAM_MAGIC_3:0 "§E秘术§!毁灭光束"
  PERDITION_BEAM_MAGIC_3_DESC:0 ""

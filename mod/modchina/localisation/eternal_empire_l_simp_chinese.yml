@@ -2,7 +2,7 @@
   z8_fe.6.name:0 "一股强大的力量在搅动"
   z8_fe.6.desc:0 "横跨银河系，原始文明加入银河共同体。掌握了星际旅行，这些物种从一颗恒星移动到另一颗恒星，从一颗行星移动到另一颗行星，幸运的是，它们不知道它们边界之外的力量。\n\n你曾经跨星系的帝国的齿轮开始再次研磨。你们停滞不前的文化和古老的传统开始发生微妙的变化。你的统治是永恒的，你的帝国是不朽的。这个星系的孩子们害怕你。你们的影响是巨大的，你们的技术是不可企及的。你过去的一切和现在的一切，已经融合成你所知道的现在这个伟大的时刻。\n\n你已经堕落了，但你可以重新站起来。你会遵守古老的协议吗?你会在这个失落的星系上留下你的印记吗?你会再次醒来吗?"
   z8_fe.6.a:0 "让我们再次创造我们的遗产!"
-  z8_fe.6.a.tooltip:0 "扮演你的堕落帝国。"
+  z8_fe.6.a.tooltip:0 "扮演你的失落帝国。"
 
   perfection.2.name:0 "永恒循环"
   perfection.2.desc:0 "自从我们的种族发现了成为我们提升关键的其他兴奋层以来，宇宙已经过去了。通过它们，我们经历了许多轮回，变得比我们之前的任何东西都要老，接近无限的边缘。不仅我们的智力，而且我们的力量随着每一个周期的过去而发展和上升。有些人可能会说我们有灵能天赋。但我们更清楚地知道，虚境只会导致无休止的疯狂。我们终于来到了这个宇宙，这取决于我们如何处理这个循环。宇宙是我们创造的，我们有能力这样做。"
@@ -10,7 +10,33 @@
   perfection.4.desc:0 "自从我们的机械文明诞生之初，我们就想知道我们的目的是什么?我们找不到制造者，也找不到对我们负责的人。没有人能告诉我们真正的目的是什么。看来现在是我们来找出答案的时候了。我们的员工比其他人更优秀，他们的设计赋予了我们只能将其描述为永恒的生命，他们的流程运行得比任何其他机器都好。"
 
   name_list_beep_1:0 "永恒之名"
-  
+  name_list_beep_2:0 "永恒守门人之名"
+ 
+  ETERNAL_PRECURSOR_TITAN_SPINAL_KEY:0 "Skylla Core"
+  ETERNAL_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY:0 "Skylla I"
+  ETERNAL_PRECURSOR_TITAN_SPINAL_CARRIER_KEY:0 "Skylla II"
+  ETERNAL_PRECURSOR_TITAN_MID_KEY:0 "Skylla III"
+  ETERNAL_PRECURSOR_TITAN_MID_TORPEDO_KEY:0 "Skylla IV"
+  ETERNAL_PRECURSOR_TITAN_MID_CARRIER_KEY:0 "Skylla V"
+  ETERNAL_PRECURSOR_TITAN_CORE_KEY:0 "Skylla VI"
+  ETERNAL_PRECURSOR_TITAN_CORE_TORPEDO_KEY:0 "Skylla VII"
+  ETERNAL_PRECURSOR_TITAN_CORE_CARRIER_KEY:0 "Skylla VIII"
+  ETERNAL_PRECURSOR_TITAN_STERN_KEY:0 "Skylla IX"
+  ETERNAL_PRECURSOR_TITAN_STERN_LARGE_KEY:0 "Skylla X"
+  ETERNAL_PRECURSOR_TITAN_STERN_TORPEDO_KEY:0 "Skylla XI"
+  ETERNAL_PRECURSOR_COLOSSUS_W_SECTION:0 "Eye of Sophia"
+  ETERNAL_PRECURSOR_COLOSSUS_A_SECTION:0 "Charybdis Alpha"
+  ETERNAL_PRECURSOR_COLOSSUS_Y_SECTION:0 "Charybdis Beta"
+  ETERNAL_PRECURSOR_COLOSSUS_T_SECTION:0 "Charybdis Gamma"
+  ETERNAL_PRECURSOR_COLOSSUS_XL_SECTION:0 "Charybdis Delta"
+  ETERNAL_PRECURSOR_COLOSSUS_L_SECTION:0 "Charybdis Epsilon"
+  ETERNAL_PRECURSOR_COLOSSUS_H_SECTION:0 "Charybdis Randominion"
+
+ eternal_titan:0 "Skylla"
+ eternal_titan_plural:0 "Skyllas"
+ eternal_colossus:0 "Charybdis"
+ eternal_colossus_plural:0 "Charybdeis"
+   
   ETERNAL_EMPIRE:0 "我们是永恒的"
   ETERNAL_EMPIRE_DESC:0 "我们是永恒的"
   
@@ -29,7 +55,8 @@
   eteernal_empire_scientist:0 "哲学家"
   eteernal_empire_ruler:0 "教主"
 
-  
+  trait_robot_servantee:0 "永恒机仆"
+  trait_robot_servantee_desc:0 "这一合成人的目的仅仅是服务任务"
   trait_tw_young_ascended:0 "年轻的永恒"
   trait_tw_young_ascended_desc:0 "这个帝国直到最近才达到永恒，与旧帝国相比，它所看到的只是一小部分。20岁还很年轻，别人也是这么看的"
 
@@ -68,7 +95,9 @@
   trait_divine_spark:0 "神圣火花"
   trait_ascended:0 "飞升"
   trait_ascended_desc:0 "这个物种达到了一种超出任何正常的生活状态的心智状态。在某种程度上，这种精神能力是非凡的，它使这个物种的成员能够思考不可想象的事情"
-  
+  trait_artistic_pursuit:0 "艺术追求"
+  trait_artistic_pursuit_desc:0 "这个物种从它所做的事情中找到快乐。即使远远低于它的能力，它也能够完成任务"
+
   PLANET_NAME:0 "[From.GetName]"
   tww_eternal_2_NAME:0 "永恒"
   tww_eternal_2_DESC:0 "一个永恒帝国的开始"
@@ -250,7 +279,7 @@
 
   gov_conclave_of_eternos:0 "永恒秘密会议"
   gov_conclave_of_eternos_desc:0 "我们选择了一条清晰的道路，在这条道路上，我们珍惜上帝赐予我们的礼物，而不是其他任何东西"
-  
+
   teleiopolis:0 "生态之城"
   teleiopolis_desc:0 "谁能描述这种技术的完美和谐，是任何现存事物和自然本身所无法比拟的呢?当然，“完美”这个词几乎不够好。"
   eepsionic:0 "永恒之力"
@@ -276,7 +305,7 @@
   decision_palace_ancient:0 "建造一座古老的宫殿"
   decision_palace_ancient_desc:0 "为了给我们的政府提供一个席位，我们需要一个合适的宫殿"
   decision_nexus_tw:0 "建立一个古老的枢纽"
-  decision_nexus_tw_desc:0 "建造古都城枢纽。堕落机器帝国需要它!"
+  decision_nexus_tw_desc:0 "建造古都城枢纽。失落机械帝国需要它!"
   decision_nexus_eternity_tw:0 "建立永恒枢纽"
   decision_nexus_eternity_tw_desc:0 "建造古都城枢纽。永恒的机器帝国需要它!"
   
@@ -456,7 +485,7 @@
   mod_country_virtue_produces_mult:0 "国家美德输出"
   decision_teleiopolis_project:0 "生态城市项目"
   decision_teleiopolis_project_desc:0 "世界都市从来都是不可持续的。我们应该采取不同的态度，按照自己的形象改造这个世界，创造先进文明与自然的完美和谐"
-  decision_teleiopolis_project_effect:0 "世界都市从来不是可持续的。我们应该采取不同的态度，按照自己的形象改造这个世界，创造先进文明与自然的完美和谐"
+  decision_teleiopolis_project_effect_desc:0 "世界都市从来不是可持续的。我们应该采取不同的态度，按照自己的形象改造这个世界，创造先进文明与自然的完美和谐"
   pc_eternity:0 "生态城市"
   pc_eternity_desc:0 "超级先进和密集的反重力建筑与自然之间的完美平衡，使这个星球的想法，以维持任何类型的生命在一个舒适的环境"
   pc_eternos:0 "永恒礼物"
@@ -464,6 +493,7 @@
   pc_ee_psionic:0 "以太"
   pc_ee_psionic_desc:0 "一个风暴肆虐，巨大的心灵力量横扫表面的世界。这些传感器无法穿过大气层，而大气层的表面构成了一个谜。"
 
+  ancient_knowledge_deficit:0 "缺乏永恒见解"
 
   mod_planet_pops_organics_consumer_goods_upkeep_mult:0 "人口消费品维护"
   mod_planet_pops_organics_energy_upkeep_mult:0 "人口能源维护"
@@ -565,18 +595,18 @@
   SMALL_DARKMATTER_LASER_DESC:0 "通过我们对宇宙本质的理解，我们能够制造出似乎违背物理定律的武器。这些暗物质束将被证明对任何类型的敌人都非常有效"
    
   DARK_MATTER_DEFLECTOR_TW_KEY:0 "连续偏转器"
-  DARK_MATTER_DEFLECTOR_TW_DESC:0  "这些先进的暗物质护盾比最先进的堕落帝国使用的原始护盾要强大得多"                               
+  DARK_MATTER_DEFLECTOR_TW_DESC:0  "这些先进的暗物质护盾比最先进的失落帝国使用的原始护盾要强大得多"                               
   DARK_MATTER_DEFLECTOR_TW:0 "高级暗物质护盾"
   
 
   LARGE_DARK_MATTER_TW:0 "大型重叠偏转器"
-  LARGE_DARK_MATTER_TW_DESC:0 "这些先进的暗物质护盾比最先进的堕落帝国使用的原始护盾要强大得多"
+  LARGE_DARK_MATTER_TW_DESC:0 "这些先进的暗物质护盾比最先进的失落帝国使用的原始护盾要强大得多"
   
   MEDIUM_DARK_MATTER_TW:0 "中型 重叠偏转器"
-  MEDIUM_DARK_MATTER_TW_DESC:0 "这些先进的暗物质护盾比最先进的堕落帝国使用的原始护盾要强大得多"
+  MEDIUM_DARK_MATTER_TW_DESC:0 "这些先进的暗物质护盾比最先进的失落帝国使用的原始护盾要强大得多"
   
   SMALL_DARK_MATTER_TW:0 "小型 重叠偏转器"
-  SMALL_DARK_MATTER_TW_DESC:0 "这些先进的暗物质护盾比最先进的堕落帝国使用的原始护盾要强大得多"
+  SMALL_DARK_MATTER_TW_DESC:0 "这些先进的暗物质护盾比最先进的失落帝国使用的原始护盾要强大得多"
    
   ARMOR_DM_KEY:0 "镀钛层"
   ARMOR_DM_DESC:0  "这些先进的暗物质镀钛层是远远超过任何其他装甲技术，这是已知的迄今为止。暗物质以一种极其神秘的方式改变了物质的性质"                               
@@ -680,7 +710,7 @@
   casus_belli_cb_eternal_empire_humiliation:0 "惩罚"
   casus_belli_cb_eternal_empire_humiliation_acquire_hint:0 "\n§E宣布目标为§H宿敌§!将获得Y$casus_belli_cb_humiliation$§! §H宣战理由§!.§!"
   casus_belli_cb_eternal_empire_ideology:0 "意识形态"
-  casus_belli_cb_eternal_empire_ideology_acquire_hint:1 "\n§E采用§Y$liberation_wars$§! §H政策§!将获得§Y$casus_belli_cb_eternal_empire_ideology$§! §H宣战理由§! on neighbors with a differing ethos.§!"
+  casus_belli_cb_eternal_empire_ideology_acquire_hint:1 "\n§E采用§Y$liberation_wars$§! §H政策§!将获得§Y$casus_belli_cb_eternal_empire_ideology$§!对有着不同思潮的邻居有不同的§H宣战理由§!。§!"
   casus_belli_cb_eternal_empire_despoliation:0 "掠夺"
   casus_belli_cb_eternal_empire_colossus:0 "巨像"
   casus_belli_cb_eternal_empire_stop_colossus:0 "停止巨像"
@@ -968,6 +998,22 @@
   district_psionic_complex_ee:0 "学院区"
   district_psionic_contemplation_ee:0 "罗诺斯区"
 
+  district_teleipopolis_normal_plural:0 "永恒城市"
+  district_teleipopolis_palace_plural:0 "无限宫殿"
+  district_teleipopolis_untouched_plural:0 "永恒花蕾"
+  district_eternalcity_city_plural:0 "永恒建筑"
+  district_eternalcity_eter_plural:0 "永恒星盘"
+  district_eternalcity_untouched_plural:0 "永恒花园"
+  district_eternalcity_forge_plural:0 "无穷锻造"
+  district_eternalcity_eterc_plural:0 "光之锻造"
+  district_eternalcity_eterb_plural:0 "集会区"
+  district_eternalring_a_plural:0 "休养区划"
+  district_eternalring_b_plural:0 "永恒花园"
+  district_eternalring_c_plural:0 "多维设施"
+  district_psionic_city_ee_plural:0 "沉思区划"
+  district_psionic_complex_ee_plural:0 "学院区划"
+  district_psionic_contemplation_ee_plural:0 "永恒区划"
+
   district_teleipopolis_normal_desc:0 "这些有着无限美丽和完美的塔尖对我们的人民来说是一个合适的地方。"
   district_teleipopolis_palace_desc:0 "保存完好的永恒宫殿有着难以形容的美丽。能够让所有的人在他们永恒的生命中深思熟虑他们的思想。它们提供了在社交生活中可能需要的任何东西"
   district_teleipopolis_untouched_desc:0 "空灵之美永远保持着其惊人的美丽和完美。他们往往激发蜂群的完美和智慧，以取得更大的成就。"
@@ -984,7 +1030,7 @@
   district_psionic_complex_ee_desc:0 "根据永恒的古代著作，持续的冥想和教育是通往美德和力量的道路。"
   district_psionic_contemplation_ee_desc:0 "有人说环境造就个人，让我们创造环境来创造我们所追求的个人。"
 
-
+  mod_job_twpsiomancer_add:0 "预言者"
   eternal_psion:0 "高飞升"
   eternal_psion_plural:0 "高飞升"
   eternal_psion_desc:0 "这些令人难以置信的灵能蜂群是超乎想象的强大。如果我们能把他们送上太空，他们能把整艘船撕成碎片"
@@ -1453,6 +1499,10 @@
   XP_BELLIGERENT_GREETING_01:0 "你的眼睛几乎和你的脑袋一样空洞。"
   XP_MECH_ARROGANT_GREETING_01:0 "Ereis anol Koreia? Stenistos epara kol'aja? §Y看来他们不想和我们交流。遗憾的是，我们无法翻译他们的话。§"
   XP_ARROGANT_GREETING_01:0 "你们这些凡夫俗子轻视美德和哲学，难道你们还没有揭示它的真理吗?"
+
+
+ START_SCREEN_SEEKERS:0 "许多赛昂人已经从这个巨大的错误，和永恒冲突的开始。我们与无尽的虚空作斗争，接受自己的命运成为自己的未来。我们跟随守猎人和他们的哲学已经够久了，他们的哲学导致了无数的循环和生命浪费在与辛德里安这个伟大的叛徒的永恒冲突中。30多万次轮回以前，我们决定打造自己的命运，以便最终找到某种东西，能够终结与那些追随虚无及其虚假承诺的人，以及追随十万亿次轮回的人之间的永恒冲突。"
+ START_SCREEN_ETERNOS:0 "我们，埃特诺斯的守护者们，分享着遵循第一个巅峰者埃特诺斯教导的神圣牧歌。守护者是光明和正义的力量，在伟大的存在中与黑暗和腐败的奴才们战斗。在这场永恒的冲突中，我们做出了许多牺牲，结束了无数无尽的破坏军团，然而，一些人声称，我们没有做阻碍我们力量的事情。有些人甚至声称永恒之路不再是真实之路。我们会教导那些迷失的灵魂…向他们展示我们的物种将永远繁荣昌盛。"
   
  decision_materialism:0 "永恒影响: 唯物主义"
  decision_materialism_desc:0 "REPLACE_ME"

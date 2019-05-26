@@ -698,7 +698,7 @@ building_plentiful_traditions_purification_facility_desc:0 "精炼设备能提�
 sm_orbital_fracking_cannon:0 "轨道压裂轰击"
 
 tech_plentiful_traditions_orbital_fracking_cannon:0 "轨道压裂轰击"
-tech_plentiful_traditions_orbital_fracking_cannon_desc:0 "轨道压裂技术的进步在理论上可以提高我们星球上矿物网络的矿物产出.轨道压裂轰击需要一整个太空港模块来保证能有效地覆盖整个地球."
+tech_plentiful_traditions_orbital_fracking_cannon_desc:0 "轨道压裂技术的进步在理论上可以提高我们星球上矿物网络的矿物产出.轨道压裂轰击需要一整个太空港模块来保证能有效地覆盖整个星球."
 
 # Industry edicts
 edict_plentiful_traditions_industrial_goods:0 "工业制品"

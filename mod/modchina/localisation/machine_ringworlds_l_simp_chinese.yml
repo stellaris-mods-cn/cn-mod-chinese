@@ -24,6 +24,13 @@
  pc_habitat_machine_science_alpha:0 "科研机械轨道栖息地 1"
  pc_habitat_machine_science_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
  
+ pc_habitat_machine_science_beta:0 "Orbital Machine Science Habitat 2"
+ pc_habitat_machine_science_beta_desc:0 "An artificial deep-space arcology offering optimal operating conditions. Station-borne facilities can mine the station's host planet for raw materials."
+ 
+ pc_habitat_machine_science_ceta:0 "Orbital Machine Science Habitat 3"
+ pc_habitat_machine_science_ceta_desc:0 "An artificial deep-space arcology offering optimal operating conditions. Station-borne facilities can mine the station's host planet for raw materials."
+ 
+ 
  pc_habitat_machine_science_physics_beta:0 "物理学机械轨道栖息地 2"
  pc_habitat_machine_science_physics_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
  pc_habitat_machine_science_physics_ceta:0 "物理学机械轨道栖息地 3"
@@ -38,7 +45,7 @@
  pc_habitat_machine_science_engineering_beta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
  pc_habitat_machine_science_engineering_ceta:0 "工程学机械轨道栖息地 3"
  pc_habitat_machine_science_engineering_ceta_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
-  
+
  pc_habitat_machine_military_alpha:0 "军事机械轨道栖息地 1"
  pc_habitat_machine_military_alpha_desc:0 "提供最佳操作条件的人造深空生态建筑学。站载设备可以在空间站的主行星上开采原材料。"
  pc_habitat_machine_military_beta:0 "军事机械轨道栖息地 2"
@@ -94,8 +101,8 @@
  pc_ringworld_machine_ruined: "毁坏的机械环世界"
  pc_ringworld_machine_ruined_desc: "一个巨大的环世界环绕着太阳的一部分。这一区域曾经是可居住的，但巨大的破坏使得它的表面完全不适合生物或合成人。"
    
- pc_ringworld_habitable_machine: "机械环世界"
- pc_ringworld_habitable_machine_desc: "一个巨大的环世界环绕着太阳的一部分\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
+ pc_ringworld_machine: "机械环世界"
+ pc_ringworld_machine_desc: "一个巨大的环世界环绕着太阳的一部分\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
  pc_ringworld_machine_tile: "控制论地形"
  pc_ringworld_machine_tile_desc: "地形屏蔽了子表面超导晶格。"
  
@@ -115,6 +122,12 @@
  
  pc_ringworld_machine_science_alpha: "科研机械环世界 1"
  pc_ringworld_machine_science_alpha_desc: "一个巨大的环世界环绕着太阳的一部分。以作为研究的基础。摆脱了行星、球形存在的限制。"
+ 
+ pc_ringworld_machine_science_beta: "Science Machine Ringworld 2"
+ pc_ringworld_machine_science_beta_desc: "An immense band encircling the system's sun. Augmented to be the basis of research. Freed from the restrictions and mundanity of planet-bound, spherical existence."
+ 
+ pc_ringworld_machine_science_ceta: "Science Machine Ringworld 3"
+ pc_ringworld_machine_science_ceta_desc: "An immense band encircling the system's sun. Augmented to be the basis of research. Freed from the restrictions and mundanity of planet-bound, spherical existence."
  
  pc_ringworld_machine_science_physics_beta: "物理学机械环世界 2"
  pc_ringworld_machine_science_physics_beta_desc: "一个巨大的环世界环绕着太阳的一部分。增加了物理学的研究和效率。摆脱了行星、球形存在的限制。"
@@ -183,8 +196,8 @@
  pc_ringworld_machine_ruined_tile_desc: "古金属地形与大部分破坏的地下超导晶格相互交织。"
  
  
- pc_ringworld_habitable_machine_tile: "控制论环世界镀层"
- pc_ringworld_habitable_machine_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
+ pc_ringworld_machine_tile: "控制论环世界镀层"
+ pc_ringworld_machine_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
  
  pc_ringworld_machine_energy_alpha_tile: "控制论环世界镀层"
  pc_ringworld_machine_energy_alpha_tile_desc: "由环世界内部系统精心维护的系统，以及被屏蔽亚表面超导晶格。"
@@ -339,8 +352,8 @@
  
  
  
- pc_ringworld_habitable_machine: "机械环世界"
- pc_ringworld_habitable_machine_desc: "一个巨大的环世界环绕着太阳的一部分\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
+ pc_ringworld_machine: "机械环世界"
+ pc_ringworld_machine_desc: "一个巨大的环世界环绕着太阳的一部分\n建造的目的是允许沿着内部跨度增加更多的居住区域，从行星约束、球形存在的限制和世俗中解放出来。"
  pc_ringworld_penrose_machine_tile: "控制论地形"
  pc_ringworld_penrose_machine_tile_desc: "被屏蔽的亚表面超导晶格。"
  

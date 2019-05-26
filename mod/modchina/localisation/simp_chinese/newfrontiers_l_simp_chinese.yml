@@ -37,6 +37,10 @@
   has_blue_giant:0 "有一个行星修正 $blue_giant$"
   has_scorched_world:0 "有一个行星修正 $scorched_world$"
 
+  #New
+  NO_TERRAFORM_UNDERGROUND_WORLD:0 "无法进行地貌改造。"
+  NO_BOMBING_UNDERGROUND_WORLD:0 "轰炸这个星球不会有任何结果，因为所有的防御工事都在地下深处。"
+
   ####################################
   # Army
   ####################################

@@ -26,12 +26,12 @@
  gpm_survey.INVESTIGATE.PRECURSOR_ARTIFACT_TT:0 "§L指导您的首席科学家以一些 £influence§! 重新审视这个世界的先驱者史前古器物§!\n--------------\n"
  gpm_survey.INVESTIGATE.PRECURSOR_ARTIFACT:0 "找到§L[Root.Owner.gpm_precursor_empire_name]§!史前古器物"
  gpm_survey.INVESTIGATE.1:0 "仔细看一下"
- gpm_survey.INVESTIGATE.2:0 "进一步研究这个"
- gpm_survey.INVESTIGATE.3:0 "执行额外的调查"
+ gpm_survey.INVESTIGATE.2:0 "进一步深入研究"
+ gpm_survey.INVESTIGATE.3:0 "进行更深入的调查"
  gpm_survey.INVESTIGATE.4:0 "需要进一步调查"
- gpm_survey.INVESTIGATE.5:0 "再做一次探险"
+ gpm_survey.INVESTIGATE.5:0 "再进行一次彻底探险"
  gpm_survey.INVESTIGATE.6:0 "我们需要更多的信息"
- gpm_survey.INVESTIGATE.7:0 "这个世界看起来很有趣"
+ gpm_survey.INVESTIGATE.7:0 "这个星球看起来很有趣"
  gpm_survey.INVESTIGATE.8:0 "执行分离解析"
 
  GPM_DISCOVERY_EXPEDITION:0 "科学家§H[From.GetLeaderName]§!将领导一次广泛的、潜在危险的科学考察，希望能有令人兴奋的发现或发现有趣的秘密。\n"
@@ -87,7 +87,7 @@
  GPM_DISCOVERY_CRYSTAL_MOON_PALACE:0 "$gpm_survey.26.name$"
  GPM_DISCOVERY_CRYSTAL_MOON_PALACE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MINERALS$\n$gpm_survey.REWARDS.CRYSTALS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_PLASMOID_LIFE:0 "$gpm_survey.27.name$"
- GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "Scientist §H[From.GetLeaderName]§! will lead an extensive and potentially dangerous spacewalk to adjust the ship sensors in hopes of making exciting discoveries or uncovering interesting mysteries from the star.\n $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
+ GPM_DISCOVERY_PLASMOID_LIFE_DESC:0 "科学家§H[From.GetLeaderName]§!将领导一次大规模的潜在危险的太空行走，以调整飞船的传感器，希望能有令人兴奋的发现或揭开这颗恒星的有趣谜团。\n $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.PHYSICS$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.WEAPON_TECH$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_TEMPLE_ANCIENT_ONE:0 "$gpm_survey.28.name$"
  GPM_DISCOVERY_TEMPLE_ANCIENT_ONE_DESC:0 "$GPM_DISCOVERY_EXPEDITION$ $gpm_survey.REWARDS.BONUS$\n$gpm_survey.REWARDS.MOTES$\n$gpm_survey.REWARDS.ENGINEERING$\n$gpm_survey.REWARDS.SOCIETY$\n$gpm_survey.REWARDS.SCIENTIST_EXPERIENCE$"
  GPM_DISCOVERY_PROTO_FOREST:0 "$gpm_survey.29.name$"
@@ -179,7 +179,7 @@
  # hive mind
  gpm_survey.2.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
  # machine empire
- gpm_survey.2.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
+ gpm_survey.2.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
  
  gpm_survey.2.b:0 "添加帝国修正：\n§H探索星球改造 1/3§!\n    星球改造速度增加：§G+10%§!"
  gpm_survey.2.c:0 "做更彻底的调查吗"
@@ -189,7 +189,7 @@
  	# hive mind
  gpm_survey.3.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
  	# machine empire
- gpm_survey.3.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
+ gpm_survey.3.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
  
  gpm_survey.3.b:0 "添加帝国修正：\n§H探索星球改造 2/3§!\n    星球改造速度增加：§G+20%§!"
  
@@ -198,7 +198,7 @@
  	# hive mind
  gpm_survey.4.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
  	# machine empire
- gpm_survey.4.hive.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
+ gpm_survey.4.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
  
  gpm_survey.4.a:0 "尤里卡！"
  gpm_survey.4.b:0 "添加帝国修正：\n§H探索星球改造 3/3§!\n    星球改造速度增加：§G+30%§!"
@@ -479,10 +479,6 @@
  	# machine empire
  gpm_survey.700.mach.desc:0 "在科研船§H[Root.GetName]§!上的科学家§H[Root.GetLeaderName]§!在调查§H[From.GetName]§!时发现了有趣的现象！\n 在首次科学考察的过程中，在这个星球上发现了一个非比寻常的特征。我们的科学家对它所代表的意义肃然起敬。在所有的理论、所有的发现与曾经目睹过的所有星球中，没有人曾经见过这样的东西。它是这个银河真正的奇迹..."
 
- 
- gpm_survey.2.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上发现了一个有趣的事情！\n这个星球有一个罕见的灼热核心。地表温度比人们想象得高。为了更好地理解行星构造与其核心地质的相互作用，我们还需要进一步的研究。"
- gpm_survey.3.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科学船§H[From.GetName]§!§E上又有了一个新发现！\n另一个高于平均核心温度的星球。这个星球的构造板块似乎非常稳定，这可能是由于一些大型火山经常释放板块下面形成的压力。我们还需要进一步研究，以了解在行星在拥有如此炽热的核心上，液态地幔如何与高密度的金属进行相互作用。"
- gpm_survey.4.mach.desc:0 "科学家§H[From.GetLeaderName]§!在科研船§H[From.GetName]§!§E上有发现了一些有趣的东西！\n太棒了！这个星球的构造密度正好与我们的扫描数据相吻合。我们已经完全绘出了这个星球内核的流体相互作用。数据表明，在致密的金属核周围，有两层不同的熔融层和矿物层。第一层，内层，看起来似乎正常在致密的金属核上流动并产生磁场。流体内层似乎以我们预期的速度移动。然而，外部的熔融层似乎以较慢的速度向内层的相反方向流动。这就产生了独特的对流碰撞，使它们持续向着地壳板块施加压力，并将这个星球变成一个地质不稳定的梦魇。"
  gpm_survey.9100.name:0 "§Y[From.GetName]§!:发现战略资源"
  gpm_survey.9100.desc:0 "在[Root.GetName][From.GetName]的调查,发现了一种以前未知的战略资源被称为§H先驱者技术§!。这些极其先进的技术的确切起源尚不清楚，但我们知道它们是古老的。以前从未发现过如此复杂的东西。"
  gpm_survey.9100.tooltip:0 "£gpm_arcane_technology£§Y$gpm_arcane_technology$§!\n§E$gpm_arcane_technology_desc$§!"

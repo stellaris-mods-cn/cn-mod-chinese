@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
 ### ENGLISH LOCALIZATION
 
 
@@ -58,7 +59,7 @@ acot_mod_options.9: "设置AI的资源加成"
 acot_mod_options.9.tooltip: "设定AE AI应该获得多少额外资源，选择不给他们任何资源将很可能导致他们非常弱，不能成为一个威胁。"
 
 acot_mod_options.exit: "我必须离开，我的人民需要我。"
-acot_mod_options.exit.tooltip: "你将结束这种明显不自然，腐败的现实弯曲的力量，并回到你的总体规划，这可能涉及为堕落的仇外事件做一些真正可怕的事情。 至少那是你应该做的。\n\nDO IT ANAKIN.  I am Batman"
+acot_mod_options.exit.tooltip: "你将结束这种明显不自然，腐败的现实弯曲的力量，并回到你的总体规划，这可能涉及为堕落的仇外事件做一些真正可怕的事情。 至少那是你应该做的。\n\n做吧，阿纳金。我是蝙蝠侠"
 
 acot_mod_options.10.a: "暗物质事件§G启用§!。 §R禁用§!？"
 acot_mod_options.10.a.tooltip: "禁用所有与暗物质有关的ACOT事件。这将导致所有与暗物质相关的事件无法出现。如果你更喜欢人工智能继续使用零点能源200年。"
@@ -83,14 +84,14 @@ acot_mod_options.200.a.desc: "使用此选项将AE的加成更改为资源，而
 acot_mod_options.200.b.desc: "使用此选项将AE的奖金更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §G基本§!\n\nAE AI将从其基本资源中获得一笔固定的加成，这或多或少会让它们作为一个适当的AE发挥作用。很好，如果你至少认为AI是一个相当大的威胁。"
 acot_mod_options.200.c.desc: "使用此选项将AE的奖金更改为资源，而游戏则更新新的变量单，每次AI仅在情况下增加时执行此选项仍不失为一个好主意。\n\n当前AE AI的加成: §BOPAF§!\n\nAE AI会在正常收入的两倍的基础上获得双倍的收入，如果你真的想让AE AI对你造成威胁的话。也许这一次AI真的会杀了你(但很可能不会)"
 
- easy_acot: "呵呵"
- easy_acot_desc: "噢，是的"
- easy_acot_pleb: "呵呵"
- easy_acot_pleb_desc: "噢，是的"
- hard_acot: "我有POWARRRRRRRRRRRRRRRRRRRRRR"
- hard_acot_desc: "阿尔萨斯!在阿尔萨斯还没死之前阻止他!"
- hard_acot_pleb: "我有POWARRRRRRRRRRRRRRRRRRRRRR"
- hard_acot_pleb_desc: "阿尔萨斯!在阿尔萨斯还没死之前阻止他!"
+ easy_acot: "HEHE"
+ easy_acot_desc: "Oh YEAH"
+ easy_acot_pleb: "HEHE"
+ easy_acot_pleb_desc: "Oh YEAH"
+ hard_acot: "I HAVE THE POWARRRRRRRRRRRRRRRRRRRRRR"
+ hard_acot_desc: "ARTHAS! STOP THIS ARTHAS BEFORE ITS TOO ARTHAS!"
+ hard_acot_pleb: "I HAVE THE POWARRRRRRRRRRRRRRRRRRRRRR"
+ hard_acot_pleb_desc: "ARTHAS! STOP THIS ARTHAS BEFORE ITS TOO ARTHAS!"
 
 jumpstarted_exp_development: "仿生仿真协议生效"
 
@@ -114,16 +115,16 @@ not_has_shitty_leaders_machine: "我们目前没有任何糟糕的领导人，�
 
 
 acot_mod_options.4.2.a: "不朽协议"
-acot_mod_options.4.2.a.tooltip: "当协议是积极的，我们的机械领导人将保留他们的记忆，并将在他们终止时复活。这将大大增加他们的维护成本，但耗尽我们的影响。"
+acot_mod_options.4.2.a.tooltip: "当协议是生效时，我们的机械领导人将保留他们的记忆，并将在他们机能停止时复活。这将大大增加他们的维护成本，但也消耗影响力。\n\n请注意，不管解雇还是被摧毁，协议都将生效。"
 acot_mod_options.4.2.b: "禁用不朽协议"
-acot_mod_options.4.2.b.tooltip: "我们的领导人将履行他们的职责，直到他们被终止。然后我们换一个新的。并不是所有的事情都能永远持续下去。"
+acot_mod_options.4.2.b.tooltip: "我们的领导人将履行他们的职责，直到他们机能停止。然后我们换一个新的。并不是所有的东西都要永远持续下去。"
 
 
-resurface_protocol: "不朽协议进行"
+resurface_protocol: "已启用不朽协议"
 resurface_protocol_desc: "永恒的服务。"
 
 acot_mod_options.50.title: "不朽协议进行"
-acot_mod_options.50.desc: "我们的领导人之一，[From.GetName]已经被终止。但不朽协议是有效的，将能够重建[From.GetName]回来。\n\n然而，如果[From.GetName]因为不称职或无节制而被解雇，该单位将不会返回。 \n\n我们继续好吗？"
+acot_mod_options.50.desc: "我们的领导人之一，[From.GetName]已经机能已经停止。但不朽协议是已经生效，我们能够重建[From.GetName]。\n\n但是，系统无法区分[From.GetName]是被解雇还是被摧毁。 \n\n我们是否要重新激活此领袖？"
 acot_mod_options.50.a: "是的，我们会重建[From.GetName]，我们有技术。"
-acot_mod_options.50.a.explain: "不会让你们解雇的领导人回来。"
+acot_mod_options.50.a.explain: "将复活领袖。不要在被解雇的领袖身上使用这个。"
 acot_mod_options.50.b: "[From.GetName]对我们来说既烦人又没用，我们应当得到一个更好的模型。"

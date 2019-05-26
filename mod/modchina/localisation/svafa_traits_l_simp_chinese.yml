@@ -74,7 +74,7 @@
  trait_svafa_quick_reflexes:0 "快速反应"
  trait_svafa_quick_reflexes_desc:0 "§L这个物种具有良好的协调能力和反应速度。§!"
  trait_svafa_relic_of_the_past:0 "古老遗族"
- trait_svafa_relic_of_the_past_desc:0 "§L这个种族是远古堕落帝国的幸存后裔，如今它们倒退到前太空时期的水平。\n(特性只在创建物种时可选)§!"
+ trait_svafa_relic_of_the_past_desc:0 "§L这个种族是远古失落帝国的幸存后裔，如今它们倒退到前太空时期的水平。\n(特性只在创建物种时可选)§!"
  trait_svafa_scavengers:0 "星际拾荒"
  trait_svafa_scavengers_desc:0 "§L这一物种在严酷的环境中得以进化。在这种条件下，快速觅食和寻找居所是赖以生存的能力。§!"
  trait_svafa_spaceborn:0 "太空物种"

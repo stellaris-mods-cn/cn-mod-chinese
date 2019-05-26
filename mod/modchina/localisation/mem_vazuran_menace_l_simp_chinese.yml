@@ -183,19 +183,19 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  mem_vazurans.8.name:0 "失去殖民地"
  mem_vazurans.8.desc:0 "瓦祖安人并不满足于仅仅夺走我们的资源。整个殖民队都已被摧毁，而我们目前仍无法应对这些暴行。"
  mem_vazurans.8.a:0 "必须想办法阻止他们！"
- mem_vazurans.8.b:0 "We have to protect our people... somehow!"
+ mem_vazurans.8.b:0 "我们必须保护我们的人民…不知怎么的!"
 
  #Colony attacked by Vazuran Raid
- mem_vazurans.9.name:0 "Colony Raided"
- mem_vazurans.9.desc.a:0 "Our colony on [mem_vazurans_raid_planet_name.Getname] has been hit by a Vazuran raiding fleet. Countless citizens lost their lives to this reckless attack and the planet's infrastructure has been devastated.\n\nDespite this horrific outcome, the casualties and damage would have been even greater had it not been for our planetary defenses."
- mem_vazurans.9.desc.b:0 "Our colony on [mem_vazurans_raid_planet_name.Getname] has been hit by a Vazuran raiding fleet. Countless citizens lost their lives to this reckless attack and the planet's infrastructure has been devastated."
- mem_vazurans.9.a:0 "We will endure!"
- mem_vazurans.9.b:0 "We have to strengthen our defenses!"
- mem_vazurans.9.c:0 "We have to protect our people...But how?!"
+ mem_vazurans.9.name:0 "殖民地突袭"
+ mem_vazurans.9.desc.a:0 "我们在[mem_vazurans_raid_planet_name.Getname]的殖民地遭到了瓦祖安突袭舰队的袭击。无数公民在这场鲁莽的袭击中丧生，星球的基础设施遭到破坏。\n\n尽管出现了这一可怕的结果，但如果没有我们的星球防御系统，伤亡和损失将会更大。"
+ mem_vazurans.9.desc.b:0 "我们在[mem_vazurans_raid_planet_name.Getname]的殖民地遭到了瓦祖安突袭舰队的袭击。无数公民在这场鲁莽的袭击中丧生，星球的基础设施遭到破坏。"
+ mem_vazurans.9.a:0 "我们会忍受!"
+ mem_vazurans.9.b:0 "我们必须加强防御!"
+ mem_vazurans.9.c:0 "我们必须保护我们的人民…但如何做?!"
 
  #Planetary defense project
- MEM_VAZURANS_DEFENSE_PLAN:0 "Strengthening the Defenses"
- MEM_VAZURANS_DEFENSE_PLAN_DESC:0 "Following the devastating attack on one of our colonies, an initiative has been launched to find ways to better protect our people against the Vazuran menace."
+ MEM_VAZURANS_DEFENSE_PLAN:0 "加强防御"
+ MEM_VAZURANS_DEFENSE_PLAN_DESC:0 "在我们的一个殖民地遭到毁灭性的攻击之后，已经发起了一项主动行动，以寻找更好地保护我国人民免受瓦祖安威胁的方法。"
 
  #Information event about a known empire being attacked
  mem_vazurans.20.name:0 "银河风暴"
@@ -224,7 +224,7 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  mem_vazurans.40.a:0 "这非常让人不安。"
 
  #Retaliation Fleet has been destroyed by target empire
- mem_vazurans.50.name:0 "攻击结束了"
+ mem_vazurans.50.name:0 "进攻结束"
  mem_vazurans.50a.desc:0 "我们的舰队在[root.capital_scope.GetName]的激烈战斗中占了上风。剩余的瓦祖安部队正全力撤退。我们的舰队中的伤亡人数仍在评估中，许多船只遭受严重破坏甚至不得不被遗弃。但我们必须付出的代价是值得的。在他们再次进行这样的尝试之前，他们不得不再三考虑。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的科学家们推测，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖安的行动基地进行反击。"
  mem_vazurans.50b.desc:0 "我们的舰队未能阻挡住进攻的瓦祖安势力。他们持续轰炸并损毁了我们的首都星球。伤亡人数达数十亿，因为他们特别针对了城市人口中心。 恢复被摧毁的东西需要数年时间。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的科学家们推测，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖安的行动基地进行反击，这样我们就能确保为死者的复仇。"
  mem_vazurans.50b.desc.gestalt:0 "我们的舰队未能阻挡住进攻的瓦祖安势力。他们持续轰炸并损毁了我们的首都星球。行星基础设施的关键要素遭受了相当大的破坏，数十亿工蜂被摧毁，因为它们瞄准了具有重要战略意义的地点。恢复被摧毁的东西需要数年时间。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的[root.GetScientistResearchSubroutine]推理认为，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖安的行动基地进行反击，这样我们就能确保为死者的复仇。"
@@ -275,11 +275,11 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  #Anomaly success 2
  mem_vazurans.203.name:0 "残酷的玩笑"
  mem_vazurans.203.desc:0 "对[From.GetName]地表的调查没有得出任何确凿的见解。然而它又带来了另一个谜团：一种未知的超致密化合物的痕迹遍布整个星球。\n\n不过，当[root.GetName]在环绕[From.GetName]轨道的中空的小行星内部探测到一个隐藏的基地时，取得了真正的突破。按照我们的标准，该设施相当原始，充满了基础停滞装置，里面容纳成千上万的死者。\n\n通过搜索存储在设施的计算机系统中的数据片段，我们的科学团队可以将[From.GetName]居民面对过的可怕情况拼凑起来。 过去，他们的文明多次受到一具有科技优势的力量的攻击。他们日益增长的抵抗也遭到了越来越残酷的报复，他们担心 - 似乎是合理的 - 他们的星球会沦陷在这些袭击之中。作为重建文明的一种手段，如果最坏的情况发生，这个隐藏的基地将被安装作为方舟来保持他们最聪明的头脑和充足的基因种类来重新启动他们的文明。\n\n然而，他们没有意料到他们的敌人把他们的母星变成了一个没有生命，完全不适合居住的岩石。这个“隐藏”基地似乎是被故意幸免的 - 鉴于我们能够发现它，可以预期得到他们的敌人也能发现。如日志中所述，停滞系统在与地表接触失去十年后按计划关闭。[root.Leader.GetName]甚至无法想象这些人在意识到自己的处境时必定会感受到的恐惧和绝望。他们只配备了两艘缺乏FTL功能的航天飞机，没有可以回归的星球，他们被搁浅了。不久之后，停滞系统被无限期地重新激活。"
- mem_vazurans.203.desc.gestalt:0 "The investigation of [From.GetName]'s surface did not yield any conclusive insights. Yet it provided another mystery: Traces of a superdense compound not known to occur naturally are spread across the planet.\n\nHowever, a real breakthrough was made when the [root.GetName] detected a hidden base inside a hollowed out asteroid orbiting [From.GetName]. The facility, which is rather primitive by our standards, is filled with basic stasis units housing thousands of dead beings.\n\nSearching through the data fragments stored in the facility's computer system, our science team could piece together the dire situation the inhabitants of [From.GetName] faced. Their civilization had been attacked by a technological superior force multiple times in the past. Their growing resistance was met with increasingly brutal retaliations, and they feared - rightfully, it seems - that their world would fall to these attacks. As a means to restart their civilization should the worst happen, this hidden base was installed to act as an ark to preserve their brightest minds as well as sufficient genetic variety to reboot their civilisation.\n\nHowever, they had not expected their foes to turn their homeworld into a lifeless and entirely uninhabitable rock. The 'hidden' base appears to have been purposefully spared - given that we were able to detect it, it is to be expected their foe did too. As stated in the logs, the stasis system shut down according to schedule ten years after contact with the surface had been lost. It is hard to even start to imagine the dread and despair the survivors must have felt upon realizing their situation. Equipped with only two shuttle craft lacking FTL-capability and no world to return to, they were stranded. Shortly after that, the stasis system was reactivated indefinitely."
+ mem_vazurans.203.desc.gestalt:0 "对[From.GetName]表面的研究没有产生任何结论性的见解。然而，它提供了另一个谜团:一种已知不会自然发生的超高密度化合物的踪迹遍布全球。\n\n然而，当[root.GetName]探测到一颗被掏空的围绕[From.GetName]运行的小行星内部有一个隐藏的基地时，真正的突破出现了。以我们的标准来看，这个设施相当原始，充满了容纳数千名死者的基本静止单元。\n\n通过对储存在该设施计算机系统中的数据片段进行搜索，我们的科学团队可以拼凑出[From.GetName]居民所面临的可怕情况。他们的文明在过去曾多次受到技术优势力量的攻击。他们日益增长的抵抗遭遇了日益残酷的报复，他们担心——似乎是有道理的——他们的世界将落入这些袭击的魔爪。作为在最坏的情况下重启他们文明的一种手段，这个隐藏的基地被安装起来作为一个方舟，以保存他们最聪明的头脑，以及足够的基因多样性来重启他们的文明。\n\n然而，他们没有料到他们的敌人会把他们的家园变成一块毫无生气、完全无法居住的岩石。这个“隐藏”的基地似乎是被故意放过的——考虑到我们能够探测到它，预计他们的敌人也会这么做。正如日志中所述，停滞系统在与地面失去接触10年后按预定计划关闭。甚至很难想象幸存者在意识到自己的处境时所感受到的恐惧和绝望。他们只装备了两艘没有超光速能力的航天飞机，而且没有返回的空间，他们被困在了那里。不久之后，停滞系统被无限期地重新激活。"
  
  #Anomaly success 3
  mem_vazurans.204.name:0 "来自过去的鬼魂"
- mem_vazurans.204.desc:0 "在对[From.GetName]地表进行更全面的调查时，[root.Leader.GetName]的一位助手注意到了在这之后我们的先遣队实地上证实了的人工结构。\n\n然而，对这些遗址的调查并没有按计划进行，主要是由于[root.GetName]与[root.Leader.GetName]领导的科学家之间的通信被多次中断。在这些时刻，一些人员经历了他们所描述的精神病发作。受这种现象的影响，首席科学家决定回到航天飞机，担心呆更长时间会使球队陷入危险之中。然而，在它们升空之前，又发生了一次停电，持续时间比此前任何时候都长。当重新建立通信时，一位听上去语音颤抖的科学家报告说他们将立即离开。当他们到达与[root.GetName]的会合坐标时，他们中的一半仍处于无意识状态。\n\n在恢复后，[root.Leader.GetName]报告说他们体验到了整个星球的在无情的敌人手中的死亡经历。根据[root.Leader.GetHisHer]的理论，[From.GetName]的居民一定具有可外延的精神能力，这导致他们生命可怕的最后时刻被印在了星球本身。虽然物理上没有受到伤害，但这些事件对[root.Leader.GetHimHer]产生了持久的影响。\n\n进一步的扫描显示，超级化合物的痕迹遍布地球表面，这很可能源于其破坏所用的武器，支持了[root.Leader.GetName]的说法。"
+ mem_vazurans.204.desc:0 "在对[From.GetName]地表进行更全面的调查时，[root.Leader.GetName]的一位助手注意到了在这之后我们的先遣队实地上证实了的人工结构。\n\n然而，对这些遗址的调查并没有按计划进行，主要是由于[root.GetName]与[root.Leader.GetName]领导的科学家之间的通信被多次中断。在这些时刻，一些人员经历了他们所描述的精神病发作。受这种现象的影响，首席科学家决定回到航天飞机，担心呆更长时间会使球队陷入危险之中。然而，在它们升空之前，又发生了一次停电，持续时间比此前任何时候都长。当重新建立通信时，一位听上去语音颤抖的科学家报告说他们将立即离开。当他们到达与[root.GetName]的会合坐标时，他们中的一半仍处于无意识状态。\n\n在恢复后，[root.Leader.GetName]报告说他们体验到了整个星球的在无情的敌人手中的死亡经历。根据[root.Leader.GetHisHer]的理论，[From.GetName]的居民一定具有可外延的精神能力，这导致他们生命可怕的最后时刻被印在了星球本身。虽然物理上没有受到伤害，但这些事件对[root.Leader.GetHimHer]产生了持久的影响。\n\n进一步的扫描显示，超级化合物的痕迹遍布星球表面，这很可能源于其破坏所用的武器，支持了[root.Leader.GetName]的说法。"
 
  #Anomaly 2
  mem_vazurans_category_2:0 "大量的陨石坑"

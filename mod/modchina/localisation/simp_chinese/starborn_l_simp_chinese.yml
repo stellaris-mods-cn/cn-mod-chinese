@@ -1,0 +1,206 @@
+﻿l_simp_chinese:
+
+ civic_starborn:0 "Starborn"
+ civic_starborn_desc:0 "这个文明开始于他们家园废墟之上的一个巨大的轨道城市。它们擅长轨道构造，但几代人生活在人造环境中，使得行星的自然生态系统不适合它们的生理机能"
+ civic_tooltip_starborn_effects:0 "起始星球是一个位于§Y$pc_starborn_habitat_start$§!轨道上的§Y$pc_nuked$§!，有能力立即建立基本的§Y$pc_habitat$§!，这些§Y$pc_habitat$§!根据周围的行星或轨道资源而有不同的区域或边界，但是所有的行星都不适合居住。开始便有$tech_hydroponics$技术。"
+
+ starborn_op_system_NAME:0 "Starborn OP"
+ starborn_op_system_DESC:0 "他们可能是在星星的怀抱中出生的，但是$civic_starborn$想知道他们为什么要离开他们的家园星系，因为它为他们提供了他们想要的一切"
+
+ pc_starborn_habitat_start:0 "轨道城市"
+ pc_starborn_habitat_start_desc:0 "它是我们技术成就的最高荣耀，成为拯救我们文明的弧线"
+ mod_pc_starborn_habitat_start_habitability:0 "$pc_starborn_habitat_start$"
+
+ trait_pc_starborn_habitat_start_preference:0 "$pc_starborn_habitat_start$偏好"
+ trait_pc_starborn_habitat_start_preference_desc:0 "我们在轨道城市生活了太久，已经失去了在行星上生活的能力"
+
+ requires_not_black_hole:0 "$TRIGGER_FAIL$$starborn_habitat$不能围绕黑洞而建，没有人愿意一直盯着深渊看"
+ requires_no_unminable_sr:0 "$TRIGGER_FAIL$这里似乎是宝贵的战略资源,我们的$starborn_habitat$会破坏"
+
+ starborn_habitat_MEGASTRUCTURE_DETAILS:1 "§Y$starborn_habitat$§!是一个新的轨道栖息地，允许我们的人民扩张"
+ starborn_habitat_CONSTRUCTION_INFO_DELAYED:2 "§Y$starborn_habitat$§!可以在任何恒星周围形成"
+ starborn_habitat:0 "Starborn 轨道栖息地"
+ starborn_habitat_DESC:0 "一个位于恒星、行星、月球轨道或ankz小行星区的居住站，能够容纳我们的§H人口§!和§H建筑§!，同时允许我们利用母体的自然特征。"
+
+ starborn_habitat3_MEGASTRUCTURE_DETAILS:1 "$starborn_habitat_MEGASTRUCTURE_DETAILS$"
+ starborn_habitat3_CONSTRUCTION_INFO_DELAYED:2 "$starborn_habitat_CONSTRUCTION_INFO_DELAYED$"
+ starborn_habitat3:0 "$starborn_habitat$"
+ starborn_habitat3_DESC:0 "$starborn_habitat_DESC$"
+
+ starborn_habitat4_MEGASTRUCTURE_DETAILS:1 "$starborn_habitat_MEGASTRUCTURE_DETAILS$"
+ starborn_habitat4_CONSTRUCTION_INFO_DELAYED:2 "$starborn_habitat_CONSTRUCTION_INFO_DELAYED$"
+ starborn_habitat4:0 "$starborn_habitat$"
+ starborn_habitat4_DESC:0 "$starborn_habitat_DESC$"
+
+ starborn_habitat5_MEGASTRUCTURE_DETAILS:1 "$starborn_habitat_MEGASTRUCTURE_DETAILS$"
+ starborn_habitat5_CONSTRUCTION_INFO_DELAYED:2 "$starborn_habitat_CONSTRUCTION_INFO_DELAYED$"
+ starborn_habitat5:0 "$starborn_habitat$"
+ starborn_habitat5_DESC:0 "$starborn_habitat_DESC$"
+
+ starborn_habitat6_MEGASTRUCTURE_DETAILS:1 "$starborn_habitat_MEGASTRUCTURE_DETAILS$"
+ starborn_habitat6_CONSTRUCTION_INFO_DELAYED:2 "$starborn_habitat_CONSTRUCTION_INFO_DELAYED$"
+ starborn_habitat6:0 "$starborn_habitat$"
+ starborn_habitat6_DESC:0 "$starborn_habitat_DESC$"
+
+ job_starborn_tombworld_scavenger:0 "清道夫"
+ job_starborn_tombworld_scavenger_plural:0 "清道夫"
+ job_starborn_tombworld_scavenger_desc:0 "清道夫在这个星球的废墟中寻找有用的资源，因为这项工作很危险，他们希望得到补偿。"
+ job_starborn_tombworld_scavenger_effect_desc:0 "£job_starborn_tombworld_scavenger£ $job_starborn_tombworld_scavenger_plural$生产£minerals£§Y$minerals$§!和£alloys£§Y$alloys$§!和£engineering£§Y研究点数§!"
+ mod_job_starborn_tombworld_scavenger_add:0 "$job_starborn_tombworld_scavenger$工作"
+ mod_job_starborn_tombworld_scavenger_per_pop:0 "每$VALUE$人口§G+1§! $job_starborn_tombworld_scavenger$"
+ mod_job_starborn_tombworld_scavenger_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_tombworld_scavenger_add£"
+
+ job_starborn_preserve_ranger:0 "保存管理员"
+ job_starborn_preserve_ranger_plural:0 "保存管理员"
+ job_starborn_preserve_ranger_desc:0 "管理保护区脆弱的生态系统"
+ job_starborn_preserve_ranger_effect_desc:0 "£job_starborn_preserve_ranger£ $job_starborn_preserve_ranger_plural$生产 £food£§Y$food$§!和一些£society£§Y研究点数§!"
+ mod_job_starborn_preserve_ranger_add:0 "$job_starborn_preserve_ranger$工作"
+ mod_job_starborn_preserve_ranger_per_pop:0  "每$VALUE$人口§G+1§! $job_starborn_preserve_ranger$"
+ mod_job_starborn_preserve_rangerr_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_preserve_ranger_add£"
+
+ job_starborn_solar_technician:0 "太阳能技术人员"
+ job_starborn_solar_technician_plural:0 "太阳能技术人员"
+ job_starborn_solar_technician_desc:0 "修复和加强太阳能电池板和电站电网的庞大网络"
+ job_starborn_solar_technician_effect_desc:0 "£job_starborn_solar_technician£ $job_starborn_solar_technician_plural$生产£energy£§Y$energy$§!和一些£physics£§Y研究点数§!"
+ mod_job_starborn_solar_technician_add:0 "$job_starborn_solar_technician$工作"
+ mod_job_starborn_solar_technician:0  "每$VALUE$人口§G+1§! $job_starborn_solar_technician$"
+ mod_job_starborn_solar_technician_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_solar_technician_add£"
+
+ job_starborn_alloy_extractor:0 "合金萃取者"
+ job_starborn_alloy_extractor_plural:0 "合金萃取者"
+ job_starborn_alloy_extractor_desc:0 "我们可以简单地从地表资源中提取§Y$alloys$§!，只需要很少的精炼"
+ job_starborn_alloy_extractor_effect_desc:0 "£job_starborn_alloy_extractor£ $job_starborn_alloy_extractor_plural$生产£alloys£§Y$alloys$§!"
+ mod_job_starborn_alloy_extractor_add:0 "$job_starborn_alloy_extractor$工作"
+ mod_job_starborn_alloy_extractor:0  "每$VALUE$人口§G+1§! $job_starborn_alloy_extractor$"
+ mod_job_starborn_alloy_extractor_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_alloy_extractor_add£"
+
+ district_starborn_starting_hab_housing:0 "$district_hab_housing$"
+ district_starborn_starting_hab_housing_plural:0 "$district_hab_housing_plural$"
+ district_starborn_starting_hab_housing_desc:0 "$district_hab_housing_desc$"
+
+ district_starborn_starting_scavenger:0 "行星清道夫区划"
+ district_starborn_starting_scavenger_plural:0 "行星清道夫区划"
+ district_starborn_starting_scavenger_desc:0 "下面这颗行星的废墟提供了几乎无限的资源，如果非常危险的话。这个区域包含了开展和管理探险所需的一切，然后将打捞物回收利用"
+
+ district_starborn_starting_preserve:0 "自然保护区划"
+ district_starborn_starting_preserve_plural:0 "Nature自然保护区划"
+ district_starborn_starting_preserve_desc:0 "我们在城市里建了一个大型的自然公园，用于娱乐和科学。现在，对生态系统的精心管理使其成为食物的来源"
+
+ district_starborn_starting_solar:0 "太阳能电池板区划"
+ district_starborn_starting_solar_plural:0 "太阳能电池板区划"
+ district_starborn_starting_solar_desc:0 "我们的电力需求是由大量的太阳能电池板阵列来满足的，维护和优化电池板和数英里的电缆网络需要大量的技术骨干"
+
+ district_starborn_surface_farming:0 "地表农业区划"
+ district_starborn_surface_farming_plural:0 "地表农业区划"
+ district_starborn_surface_farming_desc:0 "虽然我们可能无法在星球上生活，但我们可以利用星球的生物圈来耕种"
+
+ district_starborn_solar:0 "太阳能电池板区划"
+ district_starborn_solar_plural:0 "太阳能电池板区划"
+ district_starborn_solar_desc:0 "巨大的太阳能电池板阵列提供了大量的能量" 
+ mod_district_starborn_solar_max:0 "§Y$district_starborn_solar$§!"
+
+ district_starborn_surface_mining:0 "地表采矿区划"
+ district_starborn_surface_mining_plural:0 "地表采矿地区"
+ district_starborn_surface_mining_desc:0 "$pc_habitat$的部分直接建在最富矿物的表面区域，使资源能够安全开采"
+ mod_district_starborn_surface_mining_max:0 "§Y$district_starborn_surface_mining$§!"
+
+ district_starborn_surface_alloys:0 "铸造厂区划"
+ district_starborn_surface_alloys_plural:0 "铸造厂区划"
+ district_starborn_surface_alloys_desc:0 "$pc_habitat$的部分直接构建在最富合金的表面区域，允许安全提取资源"
+ mod_district_starborn_surface_alloys_max:0 "§Y$district_starborn_surface_alloys$§!"
+
+
+ d_starborn_ruins:0 "£blocker£ 废墟"
+ d_starborn_ruins_desc:0 "这个曾经是主要定居点的地方现在变成了一个摇摇欲坠的废墟，只有居民腐烂的尸体占据着。"
+ d_starborn_wasteland:0 "£blocker£ 辐射区域"
+ d_starborn_wasteland_desc:0 "该地区曾是众多核弹头的目标。虽然该地区的辐射自最初的影响以来已经下降，但如果不进行大规模的清理工作，该地区仍然不适合居住。"
+
+
+ d_starborn_energy:0 "强太阳能"
+ d_starborn_energy_desc:0 "这颗恒星能够获得足够的太阳能，这使得它值得花费大部分的$pc_habitat$资金来利用它"
+ d_starborn_mineral_surface:0 "矿藏"
+ d_starborn_mineral_surface_desc:0 "这里很容易找到足够的矿物沉积体，因此值得把大部分的$pc_habitat$于开采它们"
+ d_starborn_alloy_surface:0 "合金层"
+ d_starborn_alloy_surface_desc:0 "很容易就能找到足够的合金资源，因此值得把大部分的$pc_habitat$用于提取它们"
+ d_starborn_tomb_surface:0 "地下废墟"
+ d_starborn_tomb_surface_desc:0 "这个被摧毁星球的废墟中蕴藏着丰富的宝贵资源，我们可以从中寻找到"
+ d_starborn_habitable_surface:0 "肥沃地表"
+ d_starborn_habitable_surface_desc:0 "虽然我们可能无法在星球上生活，但我们可以利用生物圈生产粮食"
+
+
+ START_SCREEN_STARBORN:0 "$START_SCREEN_STARBORN_1$$START_SCREEN_STARBORN_2$$START_SCREEN_STARBORN_3$$START_SCREEN_STARBORN_4$$START_SCREEN_STARBORN_5$$START_SCREEN_STARBORN_6$$START_SCREEN_STARBORN_7$$START_SCREEN_STARBORN_8$"
+ START_SCREEN_STARBORN_1:0 "我们的文明正在超越它的摇篮，向星辰进发。我们已经开始征服我们的太阳系，正处于超高速旅行的边缘。\n\n"
+ START_SCREEN_STARBORN_2:0 "为了庆祝我们的辉煌，我们在我们的家园上空建造了一座巨大的轨道城市。这是一项史无前例的工程和国际合作壮举。\n\n"
+ START_SCREEN_STARBORN_3:0 "但骄者必败\n\n"
+ START_SCREEN_STARBORN_4:0 "我们不知道是谁开的第一枪，也不知道为什么它会如此迅速地升级为世界末日，但一场酝酿已久的边境冲突在一天之内演变成了全球热核战争\n\n"
+ START_SCREEN_STARBORN_5:0 "星球被破坏了，文明崩溃了，唯一幸存下来的是我们的祖先在他们的城市里绕行。\n\n"
+ START_SCREEN_STARBORN_6:0 "对我们的祖先来说，生活是艰苦的，这座城市并没有被设计成新的生命摇篮，我们需要迅速进行剧烈的变革，有几次我们几乎被意外事故、内乱和失望所扼杀。他们坚持，生存，繁荣，现在我们收获了他们牺牲的回报，并准备再次冒险进入黑暗。\n\n"
+ START_SCREEN_STARBORN_7:0 "第一批新的$pc_habitat$已经围绕着我们太阳系最丰富的资源建造，并为他们的第一批殖民者做好了准备。\n\n"
+ START_SCREEN_STARBORN_8:0 "但这并非没有代价。我们的人民在这个人造的城市里生活了很长时间，这里的空气循环良好，环境受到精心控制，我们的免疫系统已经减弱，我们的身体发生了变化，行星环境对我们充满敌意，我们再也不能生活在大自然的摇篮里了。\n\n我们必须在群星中建立自己的家园。"
+
+
+ starborn.2.name:0 "栖息地建设骗局"
+ starborn.2.desc:0 "似乎在向我们的普通工程师订购$pc_habitat$的“全面建设”的同时，我们的政府还与“德里克·特拉斯诚实的建筑商”签订了合同，以进一步扩大结构，“那些专家对最大值了解多少?”\n\n栖息地的“最大尺寸”和我们的专家预测的一样"
+ starborn.2.option.a:0 "下次我们应该听听专家的意见"
+
+ starborn.3.name:0 "$civic_starborn$"
+ starborn.3.desc:0 "虽然我们的人类不能再生活在行星上，但我们的$pc_habitat$比那些接受了太空而不是生来就住在那里的生物要灵活得多。\n\n我们已经在家里合适的地方建造了第一批system.$starborn.3.desc0$$starborn.3.desc1$$starborn.3.desc2$$starborn.3.desc3$$starborn.3.desc4$$starborn.3.desc5$"
+ starborn.3.desc0:0 "\n\n§Y能量资源§!现在我们可以用这个星球来建造太阳能农场来建造£energy£ §Y$energy$§!，这将是最有效的环绕恒星的方法"
+ starborn.3.desc1:0 "\n§Y矿物资源§!考虑到£minerals£ §Y$minerals$§!的开采区域，小行星周围将是最有效的"
+ starborn.3.desc2:0 "\n§Y宜居世界§!将会让我们利用生物圈来耕种，获得£food£ §Y$food$§!。只是可能不在$pc_nuked$上"
+ starborn.3.desc3:0 "\n\n其他类型的行星和轨道资源会给我们带来不同的影响，我们必须通过实验才能发现。"
+ starborn.3.desc4:0 "\n\n虽然我们的$pc_habitat$可能一开始很小，但是您可以通过决策§Y$decision_starborn_enlarge_hab$§!扩展它们\n请记住，每个$pc_habitat$都需要£alloys£§Y$alloys$§!维护!"
+ starborn.3.desc5:0 "\n\n您可以从法令菜单中调整$pc_habitat$的初始大小(和成本)"
+ starborn.3.option.a:0 "进入虚空"
+
+ edict_starborn_show_menu_effect:0 "选择此命令将触发一个菜单作为全局效果，游戏将其表示为§YCountry事件§!你想做多少次就做多少次"
+
+ edict_starborn_show_hab_build_size:0 "设定栖息地建设规模"
+ edict_starborn_show_hab_build_size_desc:0 "随着经济的增长，调整我们建造原始栖息地的规模(以及扩张程度)"
+
+ starborn.4.name:0 "起始生境建造规模"
+ starborn.4.desc:0 "随着游戏的进展，你可以选择增加栖息地的初始成本，以提高它们的初始规模，并减少你的微观管理。最大尺寸要求$ap_voidborn$"
+ starborn.4.option.2:0 "§Y大小2§!栖息地成本250 £alloys£§Y$alloys$§!, 365天"
+ starborn.4.option.3:0 "§Y大小3§!栖息地成本500 £alloys£§Y$alloys$§!, 250 £energy£§Y$energy$§!, 600天"
+ starborn.4.option.4:0 "§Y大小4§!栖息地成本1000 £alloys£§Y$alloys$§!, 500 £energy£§Y$energy$§!, 900天"
+ starborn.4.option.5:0 "§Y大小5§!栖息地成本1500 £alloys£§Y$alloys$§!, 750 £energy£§Y$energy$§!, 1200天"
+ starborn.4.option.6:0 "§Y大小6§!栖息地成本2000 £alloys£§Y$alloys$§!, 1000 £energy£§Y$energy$§!, 1500天"
+
+ edict_starborn_show_hab_enlargment_size:0 "设置自动栖息地扩大"
+ edict_starborn_show_hab_enlargment_size_desc:0 "调整如果我们自动应用栖息地扩大决策"
+ 
+ edict_starborn_set_flag:0 "为!!!!Universal Districts Patch设置隐藏标"
+ edict_starborn_set_flag_desc:0 "对于那些已经开始使用旧版本的游戏，并且想要使用“学区”补丁使其与其他模块一起工作的人来说，这是一个暂时性的修正。它看起来什么都不做，但正在设置一个隐藏的变量，补丁需要，你只需要做一次(然后保存)。这在新游戏中是自动发生的，这个命令将在未来的版本中被删除。"
+ 
+ starborn.5.name:0 "自动应用栖息地扩大决策"
+ starborn.5.desc:0 "栖息地扩大的决策可以自动应用于施工时。\n\n§Y当栖息地完成建设时§!, 如果您有足够的资源支付扩大，它将自动适用"
+ starborn.5.option.0:0 "无额外扩大"
+ starborn.5.option.1:0 "应用§Y$decision_starborn_increase_hab_district_1$§!成本250 £alloys£§Y$alloys$§!, 250 £energy£§Y$energy$§!"
+ starborn.5.option.2:0 "应用§Y$decision_starborn_increase_hab_district_2$§!成本750 £alloys£§Y$alloys$§!, 1000 £energy£§Y$energy$§!"
+ starborn.5.option.3:0 "应用§Y$decision_starborn_increase_hab_district_3$§!成本1500 £alloys£§Y$alloys$§!, 2000 £energy£§Y$energy$§!"
+
+ starborn.6.name:0 "栖息地扩张失败"
+ starborn.6.desc:0 "在财政部没有足够的资金自动扩大[From.From.From.Planet.GetName]，你仍然可以从行星决策屏幕手动做它"
+ starborn.6.option.a:0 "该死"
+
+ tech_starborn_expand_starting_habitat_voidborn:0 "$pc_starborn_habitat_start$ 扩大"
+ tech_starborn_expand_starting_habitat_voidborn_desc:0 "由于我们已经成为$ap_voidborn$，我们的工程师相信他们可以开发新的方法来扩大和改进我们的$pc_starborn_habitat_start$"
+
+ tech_starborn_expand_starting_habitat_master_builders:0 "$pc_starborn_habitat_start$ 扩大"
+ tech_starborn_expand_starting_habitat_master_builders_desc:0 "我们对建筑的掌握为曾经被抛弃的想法打开了可能性，这些想法被认为是不可能用来扩大我们的$pc_starborn_habitat_start$"
+
+ tech_starborn_expand_starting_habitat_galatic_wonders:0 "$pc_starborn_habitat_start$ 扩大"
+ tech_starborn_expand_starting_habitat_galatic_wonders_desc:0 "如果我们不能利用这些工程知识来改进我们的$pc_starborn_habitat_start$，那么建造星河奇迹又有什么意义呢"
+
+ building_hab_food_processing_facility:0 "栖息地$building_food_processing_facility$"
+ building_hab_food_processing_facility_desc:0 "$building_food_processing_facility_desc$"
+
+ building_hab_mineral_purification_plant:0 "栖息地$building_mineral_purification_plant$"
+ building_hab_mineral_purification_plant_desc:0 "$building_mineral_purification_plant_desc$"
+
+ building_hab_energy_grid:0 "栖息地$building_energy_grid$"
+ building_hab_energy_grid_desc:0 "$building_energy_grid_desc$"
+
+ starborn.8.name:0 "重要:错误修复"
+ starborn.8.desc:0 "游戏中有一个bug，所有“调查X外星人”的特殊项目总是触发你原来的家园(失乐园)。\n\n如果您没有自己的家园，那么当您完成这些操作时，什么也不会发生(除了日志中的一个大错误)\n\n作为一项工作，我们已经为你殖民你的原始家园与一个人口和人口控件启用(即使你不能正常启用他们)\n\n抱歉，已经提出了PDX的错误，并将在未来寻找不同的方式来产生轨道城市"
+ starborn.8.option.a:0 "麻烦"

@@ -1,215 +1,203 @@
 ﻿l_simp_chinese:
 
- pc_machine_ruined:0 "毁坏的机械世界"
+ pc_machine_ruined:0 "毁坏的机械星球"
  pc_machine_ruined_desc:0 "岩石星球覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
- pc_machine_energy_alpha:0 "能源机械世界 1"
+ pc_machine_energy_alpha:0 "能源机械星球 1"
  pc_machine_energy_alpha_desc:0 "岩石星球覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
- pc_machine_energy_beta:0 "能源机械世界 2"
+ pc_machine_energy_beta:0 "能源机械星球 2"
  pc_machine_energy_beta_desc:0 "岩石星球覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
- pc_machine_energy_ceta:0 "能源机械世界 3"
+ pc_machine_energy_ceta:0 "能源机械星球 3"
  pc_machine_energy_ceta_desc:0 "岩石星期覆盖着巨大的古代人造结构。稀薄的大气主要由挥之不去的工业污染物组成，无法维持生物生命。尽管这是一个巨大的时代和毁灭，在这个星球上工作的机械人在资源生产上获得了轻微的增长，尽管这个星期上古老的有缺陷的系统增加了他们的能源需求。"
 
- pc_machine_mineral_alpha:0 "矿物机械世界 1"
+ pc_machine_mineral_alpha:0 "矿物机械星球 1"
  pc_machine_mineral_alpha_desc:0 "岩石世界覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，其重点是将大量的矿物从贫瘠的土地中开采出来。由于矿物资源丰富，机械人工作所需的消费品较少。"
- pc_machine_mineral_beta:0 "矿物机械世界 2"
+ pc_machine_mineral_beta:0 "矿物机械星球 2"
  pc_machine_mineral_beta_desc:0 "岩石世界覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，其重点是将大量的矿物从贫瘠的土地中开采出来。由于矿物资源丰富，机械人工作所需的消费品较少。"
- pc_machine_mineral_ceta:0 "矿物机械世界 3"
+ pc_machine_mineral_ceta:0 "矿物机械星球 3"
  pc_machine_mineral_ceta_desc:0 "岩石世界覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，其重点是将大量的矿物从贫瘠的土地中开采出来。由于矿物资源丰富，机械人工作所需的消费品较少。"
 
- pc_machine_science_alpha:0 "科研机械世界 1"
- pc_machine_science_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以进一步的科学和实验室产生更多的研究。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_alpha:0 "科研机械星球 1"
+ pc_machine_science_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩大，以进一步的科学和实验室产生更多的研究。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+
+ pc_machine_science_beta:0 "科研机械星球 2"
+ pc_machine_science_beta_desc:0 "被人造结构覆盖的岩石星球。稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩展到科学和实验室的进一步建立，它产生了更多的研究。由于先进的设备和新技术增加的事故风险，机器人工作需要更多的消费品和能源来运作。"
+ 
+ pc_machine_science_ceta:0 "科研机械星球 3"
+ pc_machine_science_ceta_desc:0 "被人造结构覆盖的岩石星球。稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩展到科学和实验室的进一步建立，它产生了更多的研究。由于先进的设备和新技术增加的事故风险，机器人工作需要更多的消费品和能源来运作。"
 
  pc_machine_science_physics_beta:0 "物理学机械星球 2"
- pc_machine_science_physics_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界被进一步扩充，大大增加了物理科学，建造实验室产生更多的物理学研究，尽管社会和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_physics_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械星球被进一步扩充，大大增加了物理科学，建造实验室产生更多的物理学研究，尽管社会和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
  pc_machine_science_physics_ceta:0 "物理学机械星球 3"
- pc_machine_science_physics_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界被进一步扩充，大大增加了物理科学，建造实验室产生更多的物理学研究，尽管社会和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_physics_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械星球被进一步扩充，大大增加了物理科学，建造实验室产生更多的物理学研究，尽管社会和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
 
  pc_machine_science_society_beta:0 "社会学机械星球 2"
- pc_machine_science_society_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科研机械世界得到了进一步的扩展，大大增加了社会科学和实验室的建设，产生了更多的社会研究，尽管物理和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_society_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科研机械星球得到了进一步的扩展，大大增加了社会科学和实验室的建设，产生了更多的社会研究，尽管物理和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
  pc_machine_science_society_ceta:0 "社会学机械星球 3"
- pc_machine_science_society_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科研机械世界得到了进一步的扩展，大大增加了社会科学和实验室的建设，产生了更多的社会研究，尽管物理和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_society_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科研机械星球得到了进一步的扩展，大大增加了社会科学和实验室的建设，产生了更多的社会研究，尽管物理和工程会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
  
  pc_machine_science_engineering_beta:0 "工程学机械星球 2"
- pc_machine_science_engineering_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界已经得到了进一步的扩展，大大增加了工程科学，建造实验室产生更多的工程学研究，尽管物理和社会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_engineering_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械星球已经得到了进一步的扩展，大大增加了工程科学，建造实验室产生更多的工程学研究，尽管物理和社会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
  pc_machine_science_engineering_ceta:0 "工程学机械星球 3"
- pc_machine_science_engineering_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械世界已经得到了进一步的扩展，大大增加了工程科学，建造实验室产生更多的工程学研究，尽管物理和社会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
+ pc_machine_science_engineering_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个科学机械星球已经得到了进一步的扩展，大大增加了工程科学，建造实验室产生更多的工程学研究，尽管物理和社会因此受到影响。由于先进的设备和新技术增加了事故的风险，机械人工作需要更多的消费品和能量来运作。"
  
- pc_machine_military_alpha:0 "军事机械世界 1"
- pc_machine_military_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
- pc_machine_military_beta:0 "军事机械世界 2"
- pc_machine_military_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
- pc_machine_military_ceta:0 "军事机械世界 3"
- pc_machine_military_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
+ pc_machine_military_alpha:0 "军事机械星球 1"
+ pc_machine_military_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
+ pc_machine_military_beta:0 "军事机械星球 2"
+ pc_machine_military_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
+ pc_machine_military_ceta:0 "军事机械星球 3"
+ pc_machine_military_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球被进一步扩充，以增加我们的军事能力——陆军和海军。军队和舰船可以建造得更快，更便宜，特殊的结构将允许我们进一步增强我们的舰船。"
 
- pc_machine_unity_alpha:0 "凝聚力机械世界 1"
- pc_machine_unity_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
- pc_machine_unity_beta:0 "凝聚力机械世界 2"
- pc_machine_unity_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
- pc_machine_unity_ceta:0 "凝聚力机械世界 3"
- pc_machine_unity_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
+ pc_machine_unity_alpha:0 "凝聚力机械星球 1"
+ pc_machine_unity_alpha_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
+ pc_machine_unity_beta:0 "凝聚力机械星球 2"
+ pc_machine_unity_beta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
+ pc_machine_unity_ceta:0 "凝聚力机械星球 3"
+ pc_machine_unity_ceta_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩大，以改善统一生成。巨大的虚拟现实网络大大提高了我们的团结感。"
  
  pc_machine_assimilator_ruined:0 "毁坏的同化者世界"
- pc_machine_assimilator_ruined_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_ruined_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
  pc_machine_assimilator_alpha:0 "同化者世界 1"
- pc_machine_assimilator_alpha_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_alpha_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
  pc_machine_assimilator_beta:0 "同化者世界 2"
- pc_machine_assimilator_beta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_beta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
  pc_machine_assimilator_ceta:0 "同化者世界 3"
- pc_machine_assimilator_ceta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_assimilator_ceta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
 
  pc_machine_exterminator_ruined:0 "会坏的净化者世界"
- pc_machine_exterminator_ruined_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械世界已经被进一步扩充，目标是让有机生命变得更有活力，并拥有能够更快地建造陆军和海军装备的大型工厂。"
+ pc_machine_exterminator_ruined_desc:0 "岩石星球覆盖着人造结构。这种稀薄的大气主要由工业污染物构成，无法维持生物生命。这个机械星球已经被进一步扩充，目标是让有机生命变得更有活力，并拥有能够更快地建造陆军和海军装备的大型工厂。"
  pc_machine_exterminator_alpha:0 "净化者世界 1"
- pc_machine_exterminator_alpha_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_exterminator_alpha_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
  pc_machine_exterminator_beta:0 "净化者世界 2"
- pc_machine_exterminator_beta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_exterminator_beta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
  pc_machine_exterminator_ceta:0 "净化者世界 3"
- pc_machine_exterminator_ceta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械世界已经被进一步扩充，以进一步将知识融入集体。"
+ pc_machine_exterminator_ceta_desc:0 "岩石星球覆盖着人造结构。稀薄的大气主要由工业污染物组成，不能支持生物生命，然而星球上的一些区域已经适合有机物生存。这个机械星球已经被进一步扩充，以进一步将知识融入集体。"
  
  pc_machine_servitor_ruined:0 "毁坏的机仆世界"
- pc_machine_servitor_ruined_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。"
+ pc_machine_servitor_ruined_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械星球得到了进一步的扩展。"
  pc_machine_servitor_alpha:0 "机仆世界 1"
- pc_machine_servitor_alpha_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。"
+ pc_machine_servitor_alpha_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械星球得到了进一步的扩展。"
  pc_machine_servitor_beta:0 "机仆世界 2"
- pc_machine_servitor_beta_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。"
+ pc_machine_servitor_beta_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械星球得到了进一步的扩展。"
  pc_machine_servitor_ceta:0 "机仆世界 3"
- pc_machine_servitor_ceta_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械世界得到了进一步的扩展。" 
+ pc_machine_servitor_ceta_desc:0 "岩石星球覆盖着人造结构。为了有机物的安全，大气保持干净和原始。为了有机物的健康，这个机械星球得到了进一步的扩展。" 
  
+ pc_machine_dyson:0 "戴森居住结构"
+ pc_machine_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
  
- pc_machine_ruined_tile:0 "破旧的控制论地形"
- pc_machine_ruined_tile_desc:0 "古金属地形与大部分破坏的地下超导晶格相互交织。"
+ pc_machine_energy_dyson:0 "戴森住宅结构"
+ pc_machine_energy_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
  
- pc_machine_energy_alpha_tile:0 "能源优化地形"
- pc_machine_energy_alpha_tile_desc:0 "在全球范围内，被屏蔽的亚表面超导电性晶格以几乎为零的损耗传输。"
- pc_machine_energy_beta_tile:0 "能源优化地形"
- pc_machine_energy_beta_tile_desc:0 "在全球范围内，被屏蔽的亚表面超导电性晶格以几乎为零的损耗传输。"
- pc_machine_energy_ceta_tile:0 "能源优化地形"
- pc_machine_energy_ceta_tile_desc:0 "在全球范围内，被屏蔽的亚表面超导电性晶格以几乎为零的损耗传输。"
+ pc_machine_mineral_dyson:0 "戴森矿业结构"
+ pc_machine_mineral_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+ 
+ pc_machine_science_dyson:0 "戴森科研结构"
+ pc_machine_science_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+ 
+ pc_machine_military_dyson:0 "戴森军事结构"
+ pc_machine_military_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+ 
+ pc_machine_unity_dyson:0 "Dyson U-Hab Structure"
+ pc_machine_unity_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+ 
+ pc_machine_assimilator_dyson:0 "Dyson A-Hab Structure"
+ pc_machine_assimilator_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+ 
+ pc_machine_exterminator_dyson:0 "Dyson Ext-Hab Structure"
+ pc_machine_exterminator_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+ 
+ pc_machine_servitor_dyson:0 "戴森服务结构"
+ pc_machine_servitor_dyson_desc:0 "戴森球体的一部分经过改造，使有机物和机器能在里面生存。"
+
+ d_machine_crater:0 "£blocker  火山口"
+ d_machine_crater_desc:0 "这一地区的大部分只不过是由于过度的采矿活动、古老的实验或自然原因造成的地洞。然而，它确实提供了一些有用矿物的容易获取。"
+ 
+ d_cybernetic_sentries:0 "£blocker  控制论哨兵"
+ d_cybernetic_sentries_desc:0 "这个区域包含一个由大量特别致命的机器人“野生动物”巡逻的控制论生态系统。在拆除之前，这个地区的建设和居住都是不可能的。"
+ 
+ d_machine_defensive_zone:0 "£blocker  防守区"
+ d_machine_defensive_zone_desc:0 "尽管年代久远，但这个世界上一些强大的自动化防御结构仍在部分运作，在我们能够居住在它们保护的地区之前，需要关闭它们。"
+ 
+ d_machine_ruins:0 "£blocker  控制论废墟"
+ d_machine_ruins_desc:0 "这些巨石废墟被遗弃在数不清的地方，绵延数英里。碎石落在地面上产生巨大冲击是很常见的，因此，在碎石被清除或稳定之前，使用该地区是很危险的。"
+
+ d_machine_infestation:0 "£blocker  危险的侵扰"
+ d_machine_infestation_desc:0 "这个古老的科学实验失控了，它以一种奇怪的增长速度覆盖了机器世界的一个区域。这种奇怪的技术-有机转化导体可以促进任何反应堆、矿山或实验室的建设。"
+   
+ d_assimilator_bots:0 "£blocker 腐败的半机械人"
+ d_assimilator_bots_desc:0 "大量腐败的半机械人在这片区域游荡，破坏任何能够进入他们视线的东西。在他们得到照顾之前，他们是不可能居住的。"
+
+ d_assimilator_ruins:0 "£blocker  存储废墟"
+ d_assimilator_ruins_desc:0 "曾经是一个巨大的建筑，里面储存着大量的半机械人。时间已经把它和里面的东西变成了大量的瓦砾，需要清理。"
+
+ d_assimilator_defensive_zone:0 "£blocker  毁坏的发射机"
+ d_assimilator_defensive_zone_desc:0 "这个区域是一个巨大的发射器的废墟，它曾经把有机物和合成物连接在一起。它的代码已经损坏，任何进入其影响区域的电子设备都会受到严重影响。"
+
+ d_exterminator_bots:0 "£blocker  机械残余"
+ d_exterminator_bots_desc:0 "一些远古强大的战争机器人随着年龄的增长变得腐败，现在攻击任何进入他们远古巡逻区域的东西。在这个地区安定下来之前，他们必须与他们建立三角关系。"
+
+ d_exterminator_ruins:0 "£blocker  古战场"
+ d_exterminator_ruins_desc:0 "该地区已完全被一场早已被遗忘的战争摧毁。数以百万计被摧毁的残骸散落在这片土地上，布满了由强力炸药和轨道轰炸形成的弹坑。"
+
+ d_exterminator_defensive_zone:0 "£blocker  积极防御网络"
+ d_exterminator_defensive_zone_desc:0 "一个巨大的防御网络保护这个地区不受入侵者的侵扰。数以百万计的尸体散落在该地区。永远警惕着网络的受害者。"
+
+ d_servitor_bots:0 "£blocker  暴力的有机物"
+ d_servitor_bots_desc:0 "这一地区已经被一个庞大而暴力的有机组织占领。他们出于对成为奴隶的恐惧，对任何生命都抱有非理性的热情，这使得他们不可能在这个地区工作，除非他们被赶走。"
+
+ d_servitor_ruins:0 "£blocker  生态建筑学废墟"
+ d_servitor_ruins_desc:0 "该地区曾是数十亿人的家园，他们都生活在一个巨大的建筑里。结构和居民现在已经腐烂到无法使用的地步，他们的存在阻碍了我们对该地区的使用。"
+
+ d_servitor_defensive_zone:0 "£blocker  有机防御网络"
+ d_servitor_defensive_zone_desc:0 "这一地区已被一群幸存的有机物所占领。他们控制着整个地区强大的防御网络，不会让我们控制该地区。"
+ 
+ d_stagnant_network:0 "£blocker  停滞网络"
+ d_stagnant_network_desc:0 "网络在一段未知的时间内苏醒并开始在该区域聚集。但不管出于什么原因，尽管它一直被控制在该地区。"
   
- pc_machine_mineral_alpha_tile:0 "矿物优化网络"
- pc_machine_mineral_alpha_tile_desc:0 "被屏蔽的地下超导网架和大型采矿运输网络，以获得最佳开采效率。"
- pc_machine_mineral_beta_tile:0 "矿物优化网络"
- pc_machine_mineral_beta_tile_desc:0 "被屏蔽的地下超导网架和大型采矿运输网络，以获得最佳开采效率。"
- pc_machine_mineral_ceta_tile:0 "矿物优化网络"
- pc_machine_mineral_ceta_tile_desc:0 "被屏蔽的地下超导网架和大型采矿运输网络，以获得最佳开采效率。"
+ d_machine_scrap:0 "£blocker  机器人残骸"
+ d_machine_scrap_desc:0 "无数大小不一的破碎机器人零件散落在这个地方的地面上。一旦遗体被移走，人们就可以在这里居住。"
+  
+ d_stagnant_assimilator_network:0 "£blocker  停滞网络"
+ d_stagnant_assimilator_network_desc:0 "网络在一段未知的时间内苏醒并开始在该区域聚集。但不管出于什么原因，尽管它一直被控制在该地区。"
  
- pc_machine_science_alpha_tile:0 "量子处理"
- pc_machine_science_alpha_tile_desc:0 "对数据处理计算机的地表下层进行屏蔽，提高了研究的速度。"
+ d_stagnant_exterminator_network:0 "£blocker  停滞网络"
+ d_stagnant_exterminator_network_desc:0 "网络在一段未知的时间内苏醒并开始在该区域聚集。但不管出于什么原因，尽管它一直被控制在该地区。"
+ 
+ d_stagnant_servitor_network:0 "£blocker  停滞网络"
+ d_stagnant_servitor_network_desc:0 "网络在一段未知的时间内苏醒并开始在该区域聚集。但不管出于什么原因，尽管它一直被控制在该地区。"
+  
+ d_machine_e1_abandoned_solar_panels:0 "被遗弃的太阳能阵列"
+ d_machine_e1_abandoned_solar_panels_desc:0 "在传感器所能看到的范围内，大片土地都覆盖着太阳能电池板。"
+  
+ d_machine_e2_abandoned_fission_reactors:0 "废弃的裂变反应堆"
+ d_machine_e2_abandoned_fission_reactors_desc:0 "一大片受辐射的土地，包含多个破旧的裂变反应堆。"
 
- pc_machine_science_physics_beta_tile:0 "量子物理学处理"
- pc_machine_science_physics_beta_tile_desc:0 "地表防护的底层处理器层致力于推动我们的物理学和计算机知识。"
- pc_machine_science_physics_ceta_tile:0 "量子物理学处理"
- pc_machine_science_physics_ceta_tile_desc:0 "地表防护的底层处理器层致力于推动我们的物理学和计算机知识。"
- 
- pc_machine_science_society_beta_tile:0 "量子社会学处理"
- pc_machine_science_society_beta_tile_desc:0 "地面底层处理器致力于推动我们对社会学和有机生命的认识。"
- pc_machine_science_society_ceta_tile:0 "量子社会学处理"
- pc_machine_science_society_ceta_tile_desc:0 "地面底层处理器致力于推动我们对社会学和有机生命的认识。"
- 
- pc_machine_science_engineering_beta_tile:0 "量子工程学处理"
- pc_machine_science_engineering_beta_tile_desc:0 "地形下层处理器致力于推进我们的工程学和控制论的知识。"
- pc_machine_science_engineering_ceta_tile:0 "量子工程学处理"
- pc_machine_science_engineering_ceta_tile_desc:0 "地形下层处理器致力于推进我们的工程学和控制论的知识。"
+ d_machine_e3_abandoned_fusion_reactors:0 "废弃的聚变反应堆"
+ d_machine_e3_abandoned_fusion_reactors_desc:0 "一片包含多个老化聚变反应堆的土地。" 
+  
+ d_machine_m1_mineral_fields:0 "矿产领域"
+ d_machine_m1_mineral_fields_desc:0 "地质剧变在很久以前就把这些有用的矿物暴露在星球表面。"
+  
+ d_machine_m2_rich_caverns:0 "矿石丰富的洞穴"
+ d_machine_m2_rich_caverns_desc:0 "这些深洞里充满了金属和矿物矿床。"
 
- pc_machine_military_alpha_tile:0 "军事优化地形"
- pc_machine_military_alpha_tile_desc:0 "被屏蔽的地表下分布着杂乱分布的工厂，致力于生产海军和行星方面的战争资产。"
- pc_machine_military_beta_tile:0 "军事优化地形"
- pc_machine_military_beta_tile_desc:0 "被屏蔽的地表下分布着杂乱分布的工厂，致力于生产海军和行星方面的战争资产。"
- pc_machine_military_ceta_tile:0 "军事优化地形"
- pc_machine_military_ceta_tile_desc:0 "被屏蔽的地表下分布着杂乱分布的工厂，致力于生产海军和行星方面的战争资产。"
+ d_machine_m3_veiny_cliffs:0 "矿脉悬崖"
+ d_machine_m3_veiny_cliffs_desc:0 "有价值的矿石带像静脉一样穿过这些裸露的悬崖表面。" 
  
- pc_machine_unity_alpha_tile:0 "凝聚力优化地形"
- pc_machine_unity_alpha_tile_desc:0 "排列的网络终端，点状分布，密集的地形，屏蔽了一个超大质量的地下虚拟现实设备，使这个世界成为一个统一的灯塔。"
- pc_machine_unity_beta_tile:0 "凝聚力优化地形"
- pc_machine_unity_beta_tile_desc:0 "排列的网络终端，点状分布，密集的地形，屏蔽了一个超大质量的地下虚拟现实设备，使这个世界成为一个统一的灯塔。"
- pc_machine_unity_ceta_tile:0 "凝聚力优化地形"
- pc_machine_unity_ceta_tile_desc:0 "排列的网络终端，点状分布，密集的地形，屏蔽了一个超大质量的地下虚拟现实设备，使这个世界成为一个统一的灯塔。"
- 
- pc_machine_assimilator_ruined_tile:0 "毁坏的同化者优化地形"
- pc_machine_assimilator_ruined_tile_desc:0 "老化的地形防护，大多破坏了地下量子连接处理器专门收集进一步的知识。"
- pc_machine_assimilator_alpha_tile:0 "同化者优化地形"
- pc_machine_assimilator_alpha_tile_desc:0 "地形屏蔽下表面量子连接处理器致力于收集进一步的知识。"
- pc_machine_assimilator_beta_tile:0 "同化者优化地形"
- pc_machine_assimilator_beta_tile_desc:0 "地形屏蔽下表面量子连接处理器致力于收集进一步的知识。"
- pc_machine_assimilator_ceta_tile:0 "同化者优化地形"
- pc_machine_assimilator_ceta_tile_desc:0 "地形屏蔽下表面量子连接处理器致力于收集进一步的知识。"
- 
- pc_machine_servitor_ruined_tile:0 "毁坏的机仆优化地形"
- pc_machine_servitor_ruined_tile_desc:0 "为改善有机物的状况，经过处理的老化的地表防护设施大多被破坏。"
- pc_machine_servitor_alpha_tile:0 "机仆优化地形"
- pc_machine_servitor_alpha_tile_desc:0 "地面防护地下设施，以改善有机环境。"
- pc_machine_servitor_beta_tile:0 "机仆优化地形"
- pc_machine_servitor_beta_tile_desc:0 "地面防护地下设施，以改善有机环境。"
- pc_machine_servitor_ceta_tile:0 "机仆优化地形"
- pc_machine_servitor_ceta_tile_desc:0 "地面防护地下设施，以改善有机环境。"
- 
- pc_machine_exterminator_ruined_tile:0 "毁坏的净化者优化地形"
- pc_machine_exterminator_ruined_tile_desc:0 "破旧的地形防护设备，大多摧毁了地下超大规模的工厂，这些工厂致力于生产有机净化的资产。"
- pc_machine_exterminator_alpha_tile:0 "净化者优化地形"
- pc_machine_exterminator_alpha_tile_desc:0 "被屏蔽的地下工厂，庞大的工厂致力于生产有机净化的资产。"
- pc_machine_exterminator_beta_tile:0 "净化者优化地形"
- pc_machine_exterminator_beta_tile_desc:0 "被屏蔽的地下工厂，庞大的工厂致力于生产有机净化的资产。"
- pc_machine_exterminator_ceta_tile:0 "净化者优化地形"
- pc_machine_exterminator_ceta_tile_desc:0 "被屏蔽的地下工厂，庞大的工厂致力于生产有机净化的资产。"
- 
+ d_machine_f1_fertile_lands:0 "肥沃的土地"
+ d_machine_f1_fertile_lands_desc:0 "这片广阔的平原提供了理想的农田。"
+  
+ d_machine_f2_lichen_fields:0 "地衣场"
+ d_machine_f2_lichen_fields_desc:0 "潮湿的苔藓，地衣和真菌形成了一个长毛绒地毯，横跨这些金属土地。"
 
- 
- 
- tb_machine_scrap:0 "£blocker  机械人残骸"
- tb_machine_scrap_desc:0 "无数个大小不一的破碎的机械人零件散落在这个位置的地上。一旦遗体被移走，这里就可以开始居住。"
- 
- tb_cybernetic_sentries:0 "£blocker  控制论哨兵"
- tb_cybernetic_sentries_desc:0 "这个地区有一个由大量特别致命的机械人“野生动物”巡逻的控制论生态系统。除非他们被移走，否则这个地区的建设和居住是不可能的。"
-
- tb_machine_ruins:0 "£blocker  控制论废墟"
- tb_machine_ruins_desc:0 "这些巨石遗迹被遗弃在数不清的米兰尼亚岛，绵延数英里直至天空。通常情况下，碎石会以巨大的冲击力落在地面上，因此，在清理或稳定之前，该地区的使用是非常危险的。"
-
- tb_machine_crater:0 "£blocker  大坑"
- tb_machine_crater_desc:0 "这一地区的大部分只是由于过度开采活动、古代实验或自然原因造成的一个地洞。然而，它确实提供了获取一些可用矿物的便利。"
- 
- tb_machine_defensive_zone:0 "£blocker  防守区"
- tb_machine_defensive_zone_desc:0 "尽管已成过往，但星球上一些强大的自动化防御体系仍在部分运转，在我们能够进入它们所保护的地区之前，它们需要被关闭。"
- 
- tb_machine_infestation:0 "£blocker  危险的侵扰"
- tb_machine_infestation_desc:0 "这个古老的科学实验以一种奇怪的增长方式覆盖了机械世界的一个区域。这种奇怪的有机技术转化导体能够推动在它旁边建造的任何反应堆、矿山或实验室。"
- 
- tb_exterminator_bots:0 "£blocker  残余"
- tb_exterminator_bots_desc:0 "一些古代强大的战争机械人随着年龄的增长变得腐败，现在攻击任何进入他们古代巡逻区域的东西。在该地区得以定居之前，必须先对它们加以保护。"
-
- tb_exterminator_ruins:0 "£blocker  巨型战场"
- tb_exterminator_ruins_desc:0 "这一地区已完全被一场被遗忘已久的战争摧毁。数以百万计被摧毁的残骸散落在这片土地上，布满了由动力炸药和轨道轰击造成的弹坑。"
-
- tb_exterminator_defensive_zone:0 "£blocker  积极防御网络"
- tb_exterminator_defensive_zone_desc:0 "一个巨大的防御网络保护这个地区免受入侵者的袭击。数以百万计的尸体散布在这一地区。这些网络永远在警惕着。"
- 
- tb_assimilator_bots:0 "£blocker 腐败的半机械人"
- tb_assimilator_bots_desc:0 "大量腐败的半机械人在这个区域游荡，摧毁任何进入他们视线的东西。除非他们得到照顾，否则居住是不可能的。"
-
- tb_assimilator_ruins:0 "£blocker  存储废墟"
- tb_assimilator_ruins_desc:0 "曾经是一个巨大的建筑，储存着大量的电子人。时间把它和里面的东西都变成了一堆需要清理的瓦砾。"
-
- tb_assimilator_defensive_zone:0 "£blocker  腐蚀透射器"
- tb_assimilator_defensive_zone_desc:0 "这个区域是一个巨大的发射机的基址，它曾经把有机物和合成物连在一起。它的代码已经被破坏，任何进入它影响区域的电流都将受到严重影响。"
-
- tb_servitor_bots:0 "£blocker  暴力的有机物"
- tb_servitor_bots_desc:0 "这一地区已经被一大批暴力的有机物所占领。由于害怕成为奴隶，他们对任何生命都抱有非理性的热情，这使得他们在被驱逐之前无法在这个地区工作。"
-
- tb_servitor_ruins:0 "£blocker  生态建筑学的废墟"
- tb_servitor_ruins_desc:0 "这个地区曾经是数十亿居民的家园，他们都生活在一个巨大的建筑中。建筑和市民已经腐烂到无法使用的程度，他们的存在阻碍了我们对该地区的使用。"
-
- tb_servitor_defensive_zone:0 "£blocker  有机防御网络"
- tb_servitor_defensive_zone_desc:0 "一组幸存的有机物声称对这一地区拥有主权。他们控制着整个地区强大的防御网络，不会让我们控制这个地区。"
- 
- tb_stagnent_network:0 "£blocker  停滞不前的网络"
- tb_stagnent_network_desc:0 "一个网络在一个未知的时间之前醒来并开始在该地区组织。但无论出于什么原因，尽管它一直保持对该地区的控制。"
- 
-
+ d_machine_f3_black_soil:0 "黑土"
+ d_machine_f3_black_soil_desc:0 "这些土壤具有极高的水分含量和植物生命所必需的大量化学物质，预示着令人印象深刻的农业产量。" 
+  
  sci_phy_corrupt:0 "腐败的物理学数据库"
  sci_phy_corrupt_desc:0 "这些数据库大部分都是腐败的，但即使是里面剩下的那一点点也增加了物理学研究的数量。" 
- 
+
  sci_phy_pristine:0 "古老的物理学数据库"
  sci_phy_pristine_desc:0 "这些数据库保存得很好。它们所蕴含的丰富知识将为我们的物理学研究提供有益的启示。" 
-   
+
  sci_soc_corrupt:0 "腐败的社会学数据库"
  sci_soc_corrupt_desc:0 "这些数据库大部分都是腐败的，但即使是里面剩下的那一点点也能促进社会学研究。"
  
@@ -223,95 +211,95 @@
  sci_eng_pristine_desc:0 "这些数据库保存得很好。其中蕴含的丰富知识将为我们的工程学研究提供便利。"
  
  army_complex_corrupt:0 "破旧的军队复合体"
- army_complex_corrupt_desc:0 "在这个机械世界的表面存在着一个庞大的军队综合体。一些设施仍然在线，我们可以利用。"
+ army_complex_corrupt_desc:0 "在这个机械星球的表面存在着一个庞大的军队综合体。一些设施仍然在线，我们可以利用。"
 
  army_complex_shield_corrupt:0 "破旧的陆军护盾设施"
- army_complex_shield_corrupt_desc:0 "在这个机械世界的表面存在着先进的陆军盾设施。一些设施仍然在线，我们可以利用。"
+ army_complex_shield_corrupt_desc:0 "在这个机械星球的表面存在着先进的陆军盾设施。一些设施仍然在线，我们可以利用。"
    
  army_complex_armor_corrupt:0 "破旧的军用装甲设施"
- army_complex_armor_corrupt_desc:0 "先进的陆军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ army_complex_armor_corrupt_desc:0 "先进的陆军装甲设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
 
  army_complex_damage_corrupt:0 "破旧的陆军武器设施"
- army_complex_damage_corrupt_desc:0 "先进的陆军破坏设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ army_complex_damage_corrupt_desc:0 "先进的陆军破坏设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
    
  army_complex_morale_damage_corrupt:0 "陈旧的外来武器设施"
- army_complex_morale_damage_corrupt_desc:0 "在这个机械世界的表面存在着先进的陆军外来武器设施。一些设施仍然在线，我们可以利用。"
+ army_complex_morale_damage_corrupt_desc:0 "在这个机械星球的表面存在着先进的陆军外来武器设施。一些设施仍然在线，我们可以利用。"
  
  army_complex_offensive_network_corrupt:0 "破旧的攻击性网络"
- army_complex_offensive_network_corrupt_desc:0 "先进的行星攻击网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
+ army_complex_offensive_network_corrupt_desc:0 "先进的行星攻击网络存在于这个机械星球的表面。网络的一些部分仍然在线，我们可以利用它们。"
      
  army_complex_defensive_network_corrupt:0 "破旧的防御网络"
- army_complex_defensive_network_corrupt_desc:0 "先进的行星防御网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
+ army_complex_defensive_network_corrupt_desc:0 "先进的行星防御网络存在于这个机械星球的表面。网络的一些部分仍然在线，我们可以利用它们。"
     
  army_complex_pristine:0 "保存完好的军队复合体"
- army_complex_pristine_desc:0 "在这个机械世界的表面存在着一个庞大的军队综合体。一些设施仍然在线，我们可以利用。"
+ army_complex_pristine_desc:0 "在这个机械星球的表面存在着一个庞大的军队综合体。一些设施仍然在线，我们可以利用。"
  
  army_complex_shield_pristine:0 "保存完好的陆军护盾设施"
- army_complex_shield_pristine_desc:0 "在这个机械世界的表面存在着先进的陆军盾设施。一些设施仍然在线，我们可以利用。"
+ army_complex_shield_pristine_desc:0 "在这个机械星球的表面存在着先进的陆军盾设施。一些设施仍然在线，我们可以利用。"
    
  army_complex_armor_pristine:0 "保存完好的陆军装甲设施"
- army_complex_armor_pristine_desc:0 "先进的陆军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ army_complex_armor_pristine_desc:0 "先进的陆军装甲设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
 
  army_complex_damage_pristine:0 "保存完好的陆军武器设施"
- army_complex_damage_pristine_desc:0 "先进的陆军武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ army_complex_damage_pristine_desc:0 "先进的陆军武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
    
  army_complex_morale_damage_pristine:0 "保存完好的外来武器设施"
- army_complex_morale_damage_pristine_desc:0 "在这个机械世界的表面存在着先进的陆军外来武器设施。一些设施仍然在线，我们可以利用。"
- 
+ army_complex_morale_damage_pristine_desc:0 "在这个机械星球的表面存在着先进的陆军外来武器设施。一些设施仍然在线，我们可以利用。"
+
  army_complex_defensive_network_pristine:0 "保存完好的防御网络"
- army_complex_defensive_network_pristine_desc:0 "先进的行星防御网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
-  
+ army_complex_defensive_network_pristine_desc:0 "先进的行星防御网络存在于这个机械星球的表面。网络的一些部分仍然在线，我们可以利用它们。"
+
  army_complex_offensive_network_pristine:0 "保存完好的进攻网络"
- army_complex_offensive_network_pristine_desc:0 "先进的行星攻击网络存在于这个机械世界的表面。网络的一些部分仍然在线，我们可以利用它们。"
-  
-  
+ army_complex_offensive_network_pristine_desc:0 "先进的行星攻击网络存在于这个机械星球的表面。网络的一些部分仍然在线，我们可以利用它们。"
+
+
  navy_complex_corrupt:0 "破旧的海军复合体"
- navy_complex_corrupt_desc:0 "在这个机械世界的表面存在着一个庞大的海军基地。一些设施仍然在线，我们可以利用。"
+ navy_complex_corrupt_desc:0 "在这个机械星球的表面存在着一个庞大的海军基地。一些设施仍然在线，我们可以利用。"
 
  navy_complex_shield_corrupt:0 "破旧的海军防御设施"
- navy_complex_shield_corrupt_desc:0 "先进的海军防御设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_shield_corrupt_desc:0 "先进的海军防御设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
   
  navy_complex_armor_corrupt:0 "破旧的海军装甲设备"
- navy_complex_armor_corrupt_desc:0 "先进的海军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_armor_corrupt_desc:0 "先进的海军装甲设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_explosive_corrupt:0 "陈旧的海军爆炸武器设施"
- navy_complex_explosive_corrupt_desc:0 "先进的海军爆炸武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_explosive_corrupt_desc:0 "先进的海军爆炸武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_kinetic_corrupt:0 "陈旧的海军动能武器设施"
- navy_complex_kinetic_corrupt_desc:0 "先进的海军动能武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_kinetic_corrupt_desc:0 "先进的海军动能武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_energy_corrupt:0 "陈旧的海军能量武器设施"
- navy_complex_energy_corrupt_desc:0 "先进的海军能量武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_energy_corrupt_desc:0 "先进的海军能量武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_strike_corrupt:0 "陈旧的海军打击设施"
- navy_complex_strike_corrupt_desc:0 "先进的攻击机设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_strike_corrupt_desc:0 "先进的攻击机设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_pristine:0 "保存完好的海军复合体"
- navy_complex_pristine_desc:0 "在这个机械世界的表面存在着一个庞大的海军基地。一些设施仍然在线，我们可以利用。"
+ navy_complex_pristine_desc:0 "在这个机械星球的表面存在着一个庞大的海军基地。一些设施仍然在线，我们可以利用。"
 
  navy_complex_shield_pristine:0 "保存完好的海军防御设施"
- navy_complex_shield_pristine_desc:0 "先进的海军防御设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_shield_pristine_desc:0 "先进的海军防御设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
   
  navy_complex_armor_pristine:0 "保存完好的海军装甲设施"
- navy_complex_armor_pristine_desc:0 "先进的海军装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_armor_pristine_desc:0 "先进的海军装甲设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_explosive_pristine:0 "保存完好的海军爆炸武器设施"
- navy_complex_explosive_pristine_desc:0 "先进的海军爆炸武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_explosive_pristine_desc:0 "先进的海军爆炸武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_kinetic_pristine:0 "保存完好的海军动能武器设施"
- navy_complex_kinetic_pristine_desc:0 "先进的海军动能武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_kinetic_pristine_desc:0 "先进的海军动能武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_energy_pristine:0 "保存完好的海军能量武器设施"
- navy_complex_energy_pristine_desc:0 "先进的海军能源武器设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_energy_pristine_desc:0 "先进的海军能源武器设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  navy_complex_strike_pristine:0 "保存完好的海军打击设施"
- navy_complex_strike_pristine_desc:0 "先进的攻击机设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ navy_complex_strike_pristine_desc:0 "先进的攻击机设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
   
  cybernetic_sentries:1 "敌对的控制论生态系统"
  cybernetic_sentries_desc:1 "这个世界有着广阔的控制生态系统。许多“野生动物”在特定的区域巡逻，对任何入侵者都是高度暴力的。这将有助于研究和世界防御工事。"
 
  titanic_cyberform:0 "泰坦控制论"
- titanic_cyberform_desc:0 "这个老化的机械世界拥有大量的自动化工厂，这些工厂允许建造大得惊人的用于防御和采矿的网络形式。散布在世界各地的大规模网络形式自然会推动世界的防御工事，偶尔的挖掘也会提高我们矿物产量。"
+ titanic_cyberform_desc:0 "这个老化的机械星球拥有大量的自动化工厂，这些工厂允许建造大得惊人的用于防御和采矿的网络形式。散布在世界各地的大规模网络形式自然会推动世界的防御工事，偶尔的挖掘也会提高我们矿物产量。"
  
  disruptive_energy_field:0 "破坏性能量场"
  disruptive_energy_field_desc:0 "在这个控制论世界里，一个弱场在波动。它扰乱了星球各地的能源流动，降低了发电量，增加了维护成本。"
@@ -353,29 +341,29 @@
  core_processor_desc:0 "在这个星球的深处，有一个古老而庞大的科学处理器，同时运行着无数的科学研究。我们将能够虹吸它的数据流，以大大促进我们自己的研究。"
  
  assimilator_ruin:0 "古老的同化者世界"
- assimilator_ruin_desc:0 "这个古老的机械世界似乎曾经是一个机械网络的家，这个网络在一次失败的探索中扩张，以吸收周围一切的知识。尽管该网络早已被摧毁，但其庞大的研究数据库中仍有一些可能保存着有价值的研究数据。"
+ assimilator_ruin_desc:0 "这个古老的机械星球似乎曾经是一个机械网络的家，这个网络在一次失败的探索中扩张，以吸收周围一切的知识。尽管该网络早已被摧毁，但其庞大的研究数据库中仍有一些可能保存着有价值的研究数据。"
  
  exterminator_ruin:0 "古老的净化者世界"
- exterminator_ruin_desc:0 "这个古老的机械世界似乎曾经是一个机械网络的家园，这个网络决心净化所有的有机生命。尽管该网络早已被摧毁，但其一些强大的军事设施仍可在星球上运行。"
+ exterminator_ruin_desc:0 "这个古老的机械星球似乎曾经是一个机械网络的家园，这个网络决心净化所有的有机生命。尽管该网络早已被摧毁，但其一些强大的军事设施仍可在星球上运行。"
  
  exterminator_complex_shield:0 "净化者保护设施"
- exterminator_complex_shield_desc:0 "先进的屏蔽设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ exterminator_complex_shield_desc:0 "先进的屏蔽设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
   
  exterminator_complex_armor:0 "净化者装甲设备"
- exterminator_complex_armor_desc:0 "先进的装甲设备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ exterminator_complex_armor_desc:0 "先进的装甲设备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  exterminator_complex_damage:0 "净化者武器设施"
- exterminator_complex_damage_desc:0 "先进的武器装备存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ exterminator_complex_damage_desc:0 "先进的武器装备存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  military_complex_planet_shield:0 "行星护盾阵列"
- military_complex_planet_shield_desc:0 "先进的护盾阵列存在于这个机械世界的表面。一些数组仍然在线，我们可以使用。"
+ military_complex_planet_shield_desc:0 "先进的护盾阵列存在于这个机械星球的表面。一些数组仍然在线，我们可以使用。"
  
  energy_transmutor:0 "能源转化设备"
- energy_transmutor_desc:0 "先进的能源到物质设施存在于这个机械世界的表面。一些设施仍然在线，我们可以利用。"
+ energy_transmutor_desc:0 "先进的能源到物质设施存在于这个机械星球的表面。一些设施仍然在线，我们可以利用。"
  
  
  servitor_ruin:0 "古老的机仆世界"
- servitor_ruin_desc:0 "这个古老的机械世界似乎曾经是一个决定包含和保护有机生命的机械网络的家。虽然它保护的网络和有机物早已被摧毁，但它的一些大型自给工厂仍有能力生产产品。"
+ servitor_ruin_desc:0 "这个古老的机械星球似乎曾经是一个决定包含和保护有机生命的机械网络的家。虽然它保护的网络和有机物早已被摧毁，但它的一些大型自给工厂仍有能力生产产品。"
   
  building_power_hub_2:2 "能源中心"
  
@@ -748,10 +736,10 @@
  requires_servitor_nexus_absence:0 ""
  
  tile_building_resource_unity_add:0 "凝聚力输出" 
- 
- machine_world_01_NAME:0 "机械世界"
- machine_world_01_DESC:0 "机械世界与一个主动的机械网络。\n\n$system_initializer_DESC$"
- 
+
+ machine_world_01_NAME:0 "机械星球"
+ machine_world_01_DESC:0 "机械星球与一个主动的机械网络。\n\n$system_initializer_DESC$"
+
  machine_ringworld_01_NAME:0 "机械环世界"
  machine_ringworld_01_DESC:0 "机器环世界与一个活动的机器网络。\n\n$system_initializer_DESC$"
  
@@ -762,10 +750,10 @@
  
  
  
- 
- 
- 
- 
+
+
+
+
  building_penrose_energy_alpha:0 "能源网络"
  building_penrose_energy_alpha_desc:0 "一个强大的能源网络与我们的发电机一起工作，使他们能够以更高的速度生产。"
  building_penrose_energy_beta:0 "改进型能源网络"
@@ -814,9 +802,9 @@
  building_penrose_science_engineering_ceta:0 "先进工程学网络"
  building_penrose_science_engineering_ceta_desc:0 "将一个网络化的高科技工程实验室用于加工研究将大大提高我们对这一学科的理解。"
  building_penrose_science_engineering_nexus:0 "行星工程学枢纽"
- building_penrose_science_engineering_nexus_desc:0 "一个工程研究和处理能力的连接，所有的工程研究在地球上流入，以大大加强我们对这个主题的研究。"
+ building_penrose_science_engineering_nexus_desc:0 "一个工程研究和处理能力的连接，所有的工程研究在星球上流入，以大大加强我们对这个主题的研究。"
  building_penrose_science_engineering_empire_nexus:0 "主要工程学枢纽"
- building_penrose_science_engineering_empire_nexus_desc:0 "一个工程研究和处理能力的连接，所有的工程研究在地球上流入，以大大加强我们对这个主题的研究。"
+ building_penrose_science_engineering_empire_nexus_desc:0 "一个工程研究和处理能力的连接，所有的工程研究在星球上流入，以大大加强我们对这个主题的研究。"
  
  building_penrose_science_empire_nexus:0 "量子网络链接"
  building_penrose_science_empire_nexus_desc:0 "为加工研究提供一个连接的高科技工程实验室将大大提高我们对这个主题的理解。"
@@ -839,7 +827,7 @@
  building_penrose_unity_ceta:0 "先进凝聚力网络"
  building_penrose_unity_ceta_desc:0 "任何事物和一切文化的巨大网络共同努力，以实现团结。"
  building_penrose_unity_nexus:0 "行星凝聚力枢纽"
- building_penrose_unity_nexus_desc:0 "一个巨大的统一连接，处理来自地球上所有的文化，极大地增加了世代的统一。"
+ building_penrose_unity_nexus_desc:0 "一个巨大的统一连接，处理来自星球上所有的文化，极大地增加了世代的统一。"
  building_penrose_unity_empire_nexus:0 "主要凝聚力枢纽"
  building_penrose_unity_empire_nexus_desc:0 "一个巨大的统一关系，处理我们整个文明的所有文化，极大地增加了我们文明的世代统一。" 
   
@@ -880,3 +868,1546 @@
  building_penrose_capital_2_desc:0 "彭罗斯环的行政中心，作为它的首都和地方政府的所在地。"
  building_penrose_capital_3:0 "奇点管理"
  building_penrose_capital_3_desc:0 "彭罗斯环的行政中心，作为它的首都和地方政府的所在地。" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #ENERGY#
+ 
+ job_alpha_network_technician_drone:0 "网络技术单元"
+ job_alpha_network_technician_drone_plural:0 "技术单元"
+ job_alpha_network_technician_drone_desc:1 "负责管理和监督发电厂运行的机械师、操作员和技术人员。"
+ job_alpha_network_technician_drone_effect_desc:0 "£job_alpha_network_technician_drone£ $job_alpha_network_technician_drone_plural$生产£energy£"
+ mod_job_alpha_network_technician_drone_add:0 "$job_alpha_network_technician_drone$工作"
+ mod_job_alpha_network_technician_drone_per_pop:0 "§G+1§! $job_alpha_network_technician_drone$每$VALUE$人口"
+ mod_job_alpha_network_technician_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_technician_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_technician_terraforming_drone:0 "网络地貌改造单元"
+ job_alpha_network_technician_terraforming_drone_plural:0 "地貌改造单元"
+ job_alpha_network_technician_terraforming_drone_desc:1 "负责管理和监督地貌改造的机械师、操作员和技术人员。"
+ job_alpha_network_technician_terraforming_drone_effect_desc:0 "£job_alpha_network_technician_terraforming_drone£ $job_alpha_network_technician_terraforming_drone_plural$转换£minerals£ & £energy£增加§Y$地貌改造速度§!"
+ mod_job_alpha_network_technician_terraforming_drone_add:0 "$job_alpha_network_technician_terraforming_drone$工作"
+ mod_job_alpha_network_technician_terraforming_drone_per_pop:0 "§G+1§! $job_alpha_network_technician_terraforming_drone$每$VALUE$人口"
+ mod_job_alpha_network_technician_terraforming_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_technician_terraforming_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_technician_megastructure_drone:0 "网络巨型建筑单元"
+ job_alpha_network_technician_megastructure_drone_plural:0 "巨型建筑单元"
+ job_alpha_network_technician_megastructure_drone_desc:1 "机械师、操作员和技术人员，他们管理和监督巨型建筑的运行。"
+ job_alpha_network_technician_megastructure_drone_effect_desc:0 "£job_alpha_network_technician_megastructure_drone£ $job_alpha_network_technician_megastructure_drone_plural$转换£minerals£ & £energy£增加§Y巨型建筑建造速度§!"
+ mod_job_alpha_network_technician_megastructure_drone_add:0 "$job_alpha_network_technician_megastructure_drone$工作"
+ mod_job_alpha_network_technician_megastructure_drone_per_pop:0 "§G+1§! $job_alpha_network_technician_megastructure_drone$每$VALUE$人口"
+ mod_job_alpha_network_technician_megastructure_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_technician_megastructure_drone_add£每$VALUE$ £pop£"
+    
+ #MINING#
+  
+ job_alpha_network_mining_drone:0 "网络采矿单元"
+ job_alpha_network_mining_drone_plural:0 "采矿单元"
+ job_alpha_network_mining_drone_desc:1 "这些单元装备有现代化的动力钻机和先进的机械设备，可以提取和制备工业、军事和消费者使用的宝贵矿物。"
+ job_alpha_network_mining_drone_effect_desc:0 "£job_alpha_network_mining_drone£ $job_alpha_network_mining_drone_plural$生产£minerals£"
+ mod_job_alpha_network_mining_drone_add:0 "$job_alpha_network_mining_drone$工作"
+ mod_job_alpha_network_mining_drone_per_pop:0 "§G+1§! $job_alpha_network_mining_drone$每$VALUE$人口"
+ mod_job_alpha_network_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mining_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_mining_alloy_drone:0 "Networked Fabricator Drone"
+ job_alpha_network_mining_alloy_drone_plural:0 "Fabricator Drones"
+ job_alpha_network_mining_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Fabricators."
+ job_alpha_network_mining_alloy_drone_effect_desc:0 "£job_alpha_network_mining_alloy_drone£ $job_alpha_network_mining_alloy_drone_plural$转换£minerals£ into £alloys£ §Y$alloys$§!"
+ mod_job_alpha_network_mining_alloy_drone_add:0 "$job_alpha_network_mining_alloy_drone$工作"
+ mod_job_alpha_network_mining_alloy_drone_per_pop:0 "§G+1§! $job_alpha_network_mining_alloy_drone$每$VALUE$人口"
+ mod_job_alpha_network_mining_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mining_alloy_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_mining_sr_drone:0 "Networked SR-Drone"
+ job_alpha_network_mining_sr_drone_plural:0 "Networked SR-Drones"
+ job_alpha_network_mining_sr_drone_desc:1 "Rather than maintain systems of mote traps, crystal mines and exotic gas refineries, SR-Drones directly manipulate minerals at monolithic facilities designed to生产all three."
+ job_alpha_network_mining_sr_drone_effect_desc:0 "£job_alpha_network_mining_sr_drone£转换£minerals£ into £volatile_motes£ £exotic_gases£ £rare_crystals£"
+ mod_job_alpha_network_mining_sr_drone_add:0 "$job_alpha_network_mining_sr_drone$工作"
+ mod_job_alpha_network_mining_sr_drone_per_pop:0 "§G+1§! $job_alpha_network_mining_sr_drone$每$VALUE$人口"
+ mod_job_alpha_network_mining_sr_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mining_sr_drone_add£每$VALUE$ £pop£"
+ 
+ #SCIENCE#
+ 
+ job_alpha_network_science_calculator_drone:0 "Networked Calculator"
+ job_alpha_network_science_calculator_drone_plural:0 "Networked Calculators"
+ job_alpha_network_science_calculator_drone_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Calculators lead the technological development of the Machine Intelligence."
+ job_alpha_network_science_calculator_drone_effect_desc:1 "£job_alpha_network_science_calculator_drone£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_alpha_network_science_calculator_drone_add:0 "$job_alpha_network_science_calculator_drone$工作"
+ mod_job_alpha_network_science_calculator_drone_per_pop:0 "§G+1§! $job_alpha_network_science_calculator_drone$每$VALUE$人口"
+ mod_job_alpha_network_science_calculator_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_science_calculator_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_science_lvl_drone:0 "Networked Level Cap Drone"
+ job_alpha_network_science_lvl_drone_plural:0 "Networked Level Cap Drones"
+ job_alpha_network_science_lvl_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra data storage allowing them to reach levels they would normally be unable to."
+ job_alpha_network_science_lvl_drone_effect_desc:1 "£job_alpha_network_science_lvl_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Level Cap§!"
+ mod_job_alpha_network_science_lvl_drone_add:0 "$job_alpha_network_science_lvl_drone$工作"
+ mod_job_alpha_network_science_lvl_drone_per_pop:0 "§G+1§! $job_alpha_network_science_lvl_drone$每$VALUE$人口"
+ mod_job_alpha_network_science_lvl_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_science_lvl_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_science_exp_drone:0 "Networked Affinity Drone"
+ job_alpha_network_science_exp_drone_plural:0 "Networked Affinity Drones"
+ job_alpha_network_science_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power allowing them to reach levels faster."
+ job_alpha_network_science_exp_drone_effect_desc:1 "£job_alpha_network_science_exp_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Experiance Gain§!"
+ mod_job_alpha_network_science_exp_drone_add:0 "$job_alpha_network_science_exp_drone$工作"
+ mod_job_alpha_network_science_exp_drone_per_pop:0 "§G+1§! $job_alpha_network_science_exp_drone$每$VALUE$人口"
+ mod_job_alpha_network_science_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_science_exp_drone_add£每$VALUE$ £pop£"
+ 
+ #MILITARY#
+ 
+ job_alpha_network_military_naval_drone:0 "Networked Naval Drone"
+ job_alpha_network_military_naval_drone_plural:0 "Networked Naval Drones"
+ job_alpha_network_military_naval_drone_desc:1 "Processors who specialize in the increased of naval capacity."
+ job_alpha_network_military_naval_drone_effect_desc:0 "£job_alpha_network_military_naval_drone£ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
+ mod_job_alpha_network_military_naval_drone_add:0 "$job_alpha_network_military_naval_drone$工作"
+ mod_job_alpha_network_military_naval_drone_per_pop:0 "§G+1§! $job_alpha_network_military_naval_drone$每$VALUE$人口"
+ mod_job_alpha_network_military_naval_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_warrior_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_military_fortification_drone:0 "Networked Fortification Drone"
+ job_alpha_network_military_fortification_drone_plural:0 "Networked Fortification Drones"
+ job_alpha_network_military_fortification_drone_desc:1 "Deviancy and function corruption that threatens the stability of the collective must be remedied."
+ job_alpha_network_military_fortification_drone_effect_desc:0 "£job_alpha_network_military_fortification_drone£ decrease £crime£ and spawn £defense_army£ §YDefense Armies§!"
+ mod_job_alpha_network_military_fortification_drone_add:0 "$job_alpha_network_military_fortification_drone$工作"
+ mod_job_alpha_network_military_fortification_drone_per_pop:0 "§G+1§! $job_alpha_network_military_fortification_drone$每$VALUE$人口"
+ mod_job_alpha_network_military_fortification_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_military_fortification_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_military_storage_drone:0 "Networked Storage Drone"
+ job_alpha_network_military_storage_drone_plural:0 "Networked Storage Drones"
+ job_alpha_network_military_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
+ job_alpha_network_military_storage_drone_effect_desc:0 "£job_alpha_network_military_storage_drone£ increase §YResource Storage§!"
+ mod_job_alpha_network_military_storage_drone_add:0 "$job_alpha_network_military_storage_drone$工作"
+ mod_job_alpha_network_military_storage_drone_per_pop:0 "§G+1§! $job_alpha_network_military_storage_drone$每$VALUE$人口"
+ mod_job_alpha_network_military_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_military_storage_drone_add£每$VALUE$ £pop£"
+ 
+ #UNITY#
+ 
+ job_alpha_network_unity_drone:0 "Networked Coordinator Drone"
+ job_alpha_network_unity_drone_plural:0 "Networked Coordinator Drones"
+ job_alpha_network_unity_drone_desc:1 "Signals to and from the Core must be amplified, boosted, and cleaned of static and data corruption."
+ job_alpha_network_unity_drone_effect_desc:0 "£job_alpha_network_unity_drone£生产£unity£"
+ mod_job_alpha_network_unity_drone_add:0 "$job_alpha_network_unity_drone$工作"
+ mod_job_alpha_network_unity_drone_per_pop:0 "§G+1§! $job_alpha_network_unity_drone$每$VALUE$人口"
+ mod_job_alpha_network_unity_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_unity_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_unity_diplomacy_drone:0 "Networked Diplo-Drone"
+ job_alpha_network_unity_diplomacy_drone_plural:0 "Networked Diplo-Drones"
+ job_alpha_network_unity_diplomacy_drone_desc:1 "Close examination and study of organic media and mannerisms will allow the network to gain more trust with them."
+ job_alpha_network_unity_diplomacy_drone_effect_desc:0 "£job_alpha_network_unity_diplomacy_drone£ use £unity£ to increase £mod_country_organic_trust_cap_add£ §YOrganic Trust§!"
+ mod_job_alpha_network_unity_diplomacy_drone_add:0 "$job_alpha_network_unity_diplomacy_drone$工作"
+ mod_job_alpha_network_unity_diplomacy_drone_per_pop:0 "§G+1§! $job_alpha_network_unity_diplomacy_drone$每$VALUE$人口"
+ mod_job_alpha_network_unity_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_unity_diplomacy_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_unity_admin_drone:0 "Networked Admin-Drone"
+ job_alpha_network_unity_admin_drone_plural:0 "Networked Admin-Drones"
+ job_alpha_network_unity_admin_drone_desc:1 "Processors who ensure that the network will be able to maintain proper coheasion across larger distances."
+ job_alpha_network_unity_admin_drone_effect_desc:0 "£job_alpha_network_unity_admin_drone£ use £unity£ to increase £mod_country_admin_cap_add£ §Y$mod_country_admin_cap_add$§!"
+ mod_job_alpha_network_unity_admin_drone_add:0 "$job_alpha_network_unity_admin_drone$工作"
+ mod_job_alpha_network_unity_admin_drone_per_pop:0 "§G+1§! $job_alpha_network_unity_admin_drone$每$VALUE$人口"
+ mod_job_alpha_network_unity_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_unity_admin_drone_add£每$VALUE$ £pop£"
+ 
+ #Assimilator工作
+ 
+ job_alpha_assimilator_network_bot_calculator:0 "Assimilator Calculator"
+ job_alpha_assimilator_network_bot_calculator_plural:0 "Asssimilator Calculators"
+ job_alpha_assimilator_network_bot_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilator Calculators co-lead the technological development of the Machine Intelligence."
+ job_alpha_assimilator_network_bot_calculator_effect_desc:1 "£job_alpha_assimilator_network_bot_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_alpha_assimilator_network_bot_calculator_add:0 "$job_alpha_assimilator_network_bot_calculator$工作"
+ mod_job_alpha_assimilator_network_bot_calculator_per_pop:0 "§G+1§! $job_alpha_assimilator_network_bot_calculator$每$VALUE$人口"
+ mod_job_alpha_assimilator_network_bot_calculator_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_bot_calculator_add£每$VALUE$ £pop£"
+ 
+ job_alpha_assimilator_network_bio_calculator:0 "Assimilated Calculator"
+ job_alpha_assimilator_network_bio_calculator_plural:0 "Assimilated Calculators"
+ job_alpha_assimilator_network_bio_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilated Calculators co-lead the technological development of the Machine Intelligence."
+ job_alpha_assimilator_network_bio_calculator_effect_desc:1 "£job_alpha_assimilator_network_bio_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_alpha_assimilator_network_bio_calculator_add:0 "$job_alpha_assimilator_network_bio_calculator$工作"
+ mod_job_alpha_assimilator_network_bio_calculator_per_pop:0 "§G+1§! $job_alpha_assimilator_network_bio_calculator$每$VALUE$人口"
+ mod_job_alpha_assimilator_network_bio_calculator_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_bio_calculator_add£每$VALUE$ £pop£"
+ 
+ job_alpha_assimilator_network_agri_drone:0 "Assimilator Agri-Drone"
+ job_alpha_assimilator_network_agri_drone_plural:0 "Assimilator Agri-Drones"
+ job_alpha_assimilator_network_agri_drone_desc:1 "Assimilated organics require organic substances to maintain their body until it expires. These robotic drones ensure the proper creation of such organic substances."
+ job_alpha_assimilator_network_agri_drone_effect_desc:0 "£job_alpha_assimilator_network_agri_drone£生产£food£"
+ mod_job_alpha_assimilator_network_agri_drone_add:0 "$job_alpha_assimilator_network_agri_drone$工作"
+ mod_job_alpha_assimilator_network_agri_drone_per_pop:0 "§G+1§! $job_alpha_assimilator_network_agri_drone$每$VALUE$人口"
+ mod_job_alpha_assimilator_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_assimilator_network_energy_drone:0 "Assimilated Tech-Drone"
+ job_alpha_assimilator_network_energy_drone_plural:0 "Assimilated 技术单元"
+ job_alpha_assimilator_network_energy_drone_desc:1 "The machine network requires large amounts of energy to maintain proper functionality. These assimilated organics see to the energy generation facilities for their robotic counterparts."
+ job_alpha_assimilator_network_energy_drone_effect_desc:0 "£job_alpha_assimilator_network_energy_drone£生产£energy£"
+ mod_job_alpha_assimilator_network_energy_drone_add:0 "$job_alpha_assimilator_network_energy_drone$工作"
+ mod_job_alpha_assimilator_network_energy_drone_per_pop:0 "§G+1§! $job_alpha_assimilator_network_energy_drone$每$VALUE$人口"
+ mod_job_alpha_assimilator_network_energy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_energy_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_assimilator_network_lvl_exp_drone:0 "Assimilator Leader Sub-Unit"
+ job_alpha_assimilator_network_lvl_exp_drone_plural:0 "Assimilator Leader Sub-Units"
+ job_alpha_assimilator_network_lvl_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power and data storage allowing them to reach levels they would normally be unable to as well as reach them faster."
+ job_alpha_assimilator_network_lvl_exp_drone_effect_desc:0 "£job_alpha_assimilator_network_lvl_exp_drone£ use £energy£ & £unity£ to increase §YLeader Experiance Gain & Level Cap§!"
+ mod_job_alpha_assimilator_network_lvl_exp_drone_add:0 "$job_alpha_assimilator_network_lvl_exp_drone$工作"
+ mod_job_alpha_assimilator_network_lvl_exp_drone_per_pop:0 "§G+1§! $job_alpha_assimilator_network_lvl_exp_drone$每$VALUE$人口"
+ mod_job_alpha_assimilator_network_lvl_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_lvl_exp_drone_add£每$VALUE$ £pop£"
+ 
+ #Exterminator工作
+ 
+ job_alpha_exterminator_network_drone:0 "Exterminator Drone"
+ job_alpha_exterminator_network_drone_plural:0 "Exterminator Drones"
+ job_alpha_exterminator_network_drone_desc:1 "Multi-purpose drones that deal with system wide deviancy, planetary fortification and increasing naval capacity."
+ job_alpha_exterminator_network_drone_effect_desc:0 "£job_alpha_exterminator_network_drone£ decrease £crime£ spawn £defense_army£ and increase £mod_country_naval_cap_add£"
+ mod_job_alpha_exterminator_network_drone_add:0 "$job_alpha_exterminator_network_drone$工作"
+ mod_job_alpha_exterminator_network_drone_per_pop:0 "§G+1§! $job_alpha_exterminator_network_drone$每$VALUE$人口"
+ mod_job_alpha_exterminator_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_drone_add£每$VALUE$ £pop£"
+  
+ job_alpha_exterminator_network_storage_drone:0 "Exterminator Storage Drone"
+ job_alpha_exterminator_network_storage_drone_plural:0 "Exterminator Storage Drones"
+ job_alpha_exterminator_network_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
+ job_alpha_exterminator_network_storage_drone_effect_desc:0 "£job_alpha_exterminator_network_storage_drone£ increase £mod_country_resource_max_add£ §YResource Storage§!"
+ mod_job_alpha_exterminator_network_storage_drone_add:0 "$job_alpha_exterminator_network_storage_drone$工作"
+ mod_job_alpha_exterminator_network_storage_drone_per_pop:0 "§G+1§! $job_alpha_exterminator_network_storage_drone$每$VALUE$人口"
+ mod_job_alpha_exterminator_network_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_storage_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_exterminator_network_replicator_drone:0 "Exterminator Replicator"
+ job_alpha_exterminator_network_replicator_drone_plural:0 "Exterminator Replicators"
+ job_alpha_exterminator_network_replicator_drone_desc:1 "A machine that builds two machines that builds four machines that builds eight machines that builds..."
+ job_alpha_exterminator_network_replicator_drone_effect_desc:1 "£job_alpha_exterminator_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
+ mod_job_alpha_exterminator_network_replicator_drone_add:0 "$job_alpha_exterminator_network_replicator_drone$工作"
+ mod_job_alpha_exterminator_network_replicator_drone_per_pop:0 "§G+1§! $job_alpha_exterminator_network_replicator_drone$每$VALUE$人口"
+ mod_job_alpha_exterminator_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_replicator_drone_add£每$VALUE$ £pop£"
+ 
+ #Servitor工作
+ 
+ job_alpha_servitor_network_agri_drone:0 "Servitor Agri-Drone"
+ job_alpha_servitor_network_agri_drone_plural:0 "Servitor Agri-Drones"
+ job_alpha_servitor_network_agri_drone_desc:1 "Organics require a consistent source of food."
+ job_alpha_servitor_network_agri_drone_effect_desc:0 "£job_alpha_servitor_network_agri_drone£生产£food£"
+ mod_job_alpha_servitor_network_agri_drone_add:0 "$job_alpha_servitor_network_agri_drone$工作"
+ mod_job_alpha_servitor_network_agri_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_agri_drone$每$VALUE$人口"
+ mod_job_alpha_servitor_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_servitor_network_artisan_drone:0 "Servitor Artisan Drone"
+ job_alpha_servitor_network_artisan_drone_plural:0 "Servitor Artisan Drones"
+ job_alpha_servitor_network_artisan_drone_desc:1 "Organics require a consistent flow of goods."
+ job_alpha_servitor_network_artisan_drone_effect_desc:0 "£job_alpha_servitor_network_artisan_drone£转换£minerals£ into £consumer_goods£"
+ mod_job_alpha_servitor_network_artisan_drone_add:0 "$job_alpha_servitor_network_artisan_drone$工作"
+ mod_job_alpha_servitor_network_artisan_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_artisan_drone$每$VALUE$人口"
+ mod_job_alpha_servitor_network_artisan_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_artisan_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_servitor_network_diplomacy_drone:0 "Servitor Diplo-Drone"
+ job_alpha_servitor_network_diplomacy_drone_plural:0 "Servitor Diplo-Drones"
+ job_alpha_servitor_network_diplomacy_drone_desc:1 "The study of organic mannerisms and media results in their increased ability to trust this network."
+ job_alpha_servitor_network_diplomacy_drone_effect_desc:0 "£job_alpha_servitor_network_diplomacy_drone£转换£food£ & £consumer_goods£ into £mod_country_organic_trust_cap_add£ §YOrganic Trust Cap§!"
+ mod_job_alpha_servitor_network_diplomacy_drone_add:0 "$job_alpha_servitor_network_diplomacy_drone$工作"
+ mod_job_alpha_servitor_network_diplomacy_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_diplomacy_drone$每$VALUE$人口"
+ mod_job_alpha_servitor_network_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_diplomacy_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_servitor_network_admin_drone:0 "Servitor Admin-Drone"
+ job_alpha_servitor_network_admin_drone_plural:0 "Servitor Admin-Drones"
+ job_alpha_servitor_network_admin_drone_desc:1 "Processors who ensure that no organic will ever be outside of our safe reach."
+ job_alpha_servitor_network_admin_drone_effect_desc:0 "£job_alpha_servitor_network_admin_drone£转换£energy£ & £unity£ into £mod_country_admin_cap_add£"
+ mod_job_alpha_servitor_network_admin_drone_add:0 "$job_alpha_servitor_network_admin_drone$工作"
+ mod_job_alpha_servitor_network_admin_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_admin_drone$每$VALUE$人口"
+ mod_job_alpha_servitor_network_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_admin_drone_add£每$VALUE$ £pop£"
+ 
+ #MISC#
+ 
+ job_alpha_network_agri_drone:0 "Agri-Drone"
+ job_alpha_network_agri_drone_plural:0 "Agri-Drones"
+ job_alpha_network_agri_drone_desc:1 "Even inorganic networks have some use for organic materials."
+ job_alpha_network_agri_drone_effect_desc:0 "£job_agri_drone£生产£food£"
+ mod_job_alpha_network_agri_drone_add:0 "$job_alpha_network_agri_drone$工作"
+ mod_job_alpha_network_agri_drone_per_pop:0 "§G+1§! $job_alpha_network_agri_drone$每$VALUE$人口"
+ mod_job_alpha_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_replicator_drone:0 "Replicator"
+ job_alpha_network_replicator_drone_plural:0 "Replicators"
+ job_alpha_network_replicator_drone_desc:1 "A machine that builds a machines that builds another machine that builds another other machine that builds..."
+ job_alpha_network_replicator_drone_effect_desc:1 "£job_alpha_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
+ mod_job_alpha_network_replicator_drone_add:0 "$job_alpha_network_replicator_drone$工作"
+ mod_job_alpha_network_replicator_drone_per_pop:0 "§G+1§! $job_alpha_network_replicator_drone$每$VALUE$人口"
+ mod_job_alpha_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_replicator_drone_add£每$VALUE$ £pop£"
+ 
+ #ENERGY#
+ 
+ job_beta_network_technician_drone:0 "网络技术单元"
+ job_beta_network_technician_drone_plural:0 "技术单元"
+ job_beta_network_technician_drone_desc:1 "负责管理和监督发电厂运行的机械师、操作员和技术人员。"
+ job_beta_network_technician_drone_effect_desc:0 "£job_beta_network_technician_drone£ $job_beta_network_technician_drone_plural$生产£energy£"
+ mod_job_beta_network_technician_drone_add:0 "$job_beta_network_technician_drone$工作"
+ mod_job_beta_network_technician_drone_per_pop:0 "§G+1§! $job_beta_network_technician_drone$每$VALUE$人口"
+ mod_job_beta_network_technician_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_technician_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_technician_terraforming_drone:0 "网络地貌改造单元"
+ job_beta_network_technician_terraforming_drone_plural:0 "地貌改造单元"
+ job_beta_network_technician_terraforming_drone_desc:1 "负责管理和监督地貌改造的机械师、操作员和技术人员。"
+ job_beta_network_technician_terraforming_drone_effect_desc:0 "£job_beta_network_technician_terraforming_drone£ $job_beta_network_technician_terraforming_drone_plural$转换£minerals£ & £energy£增加§Y$地貌改造速度§!"
+ mod_job_beta_network_technician_terraforming_drone_add:0 "$job_beta_network_technician_terraforming_drone$工作"
+ mod_job_beta_network_technician_terraforming_drone_per_pop:0 "§G+1§! $job_beta_network_technician_terraforming_drone$每$VALUE$人口"
+ mod_job_beta_network_technician_terraforming_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_technician_terraforming_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_technician_megastructure_drone:0 "网络巨型建筑单元"
+ job_beta_network_technician_megastructure_drone_plural:0 "巨型建筑单元"
+ job_beta_network_technician_megastructure_drone_desc:1 "机械师、操作员和技术人员，他们管理和监督巨型建筑的运行。"
+ job_beta_network_technician_megastructure_drone_effect_desc:0 "£job_beta_network_technician_megastructure_drone£ $job_beta_network_technician_megastructure_drone_plural$转换£minerals£ & £energy£增加§Y巨型建筑建造速度§!"
+ mod_job_beta_network_technician_megastructure_drone_add:0 "$job_beta_network_technician_megastructure_drone$工作"
+ mod_job_beta_network_technician_megastructure_drone_per_pop:0 "§G+1§! $job_beta_network_technician_megastructure_drone$每$VALUE$人口"
+ mod_job_beta_network_technician_megastructure_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_technician_megastructure_drone_add£每$VALUE$ £pop£"
+    
+ #MINING#
+  
+ job_beta_network_mining_drone:0 "网络采矿单元"
+ job_beta_network_mining_drone_plural:0 "采矿单元"
+ job_beta_network_mining_drone_desc:1 "这些单元装备有现代化的动力钻机和先进的机械设备，可以提取和制备工业、军事和消费者使用的宝贵矿物。"
+ job_beta_network_mining_drone_effect_desc:0 "£job_beta_network_mining_drone£ $job_beta_network_mining_drone_plural$生产£minerals£"
+ mod_job_beta_network_mining_drone_add:0 "$job_beta_network_mining_drone$工作"
+ mod_job_beta_network_mining_drone_per_pop:0 "§G+1§! $job_beta_network_mining_drone$每$VALUE$人口"
+ mod_job_beta_network_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_mining_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_mining_alloy_drone:0 "Networked Fabricator Drone"
+ job_beta_network_mining_alloy_drone_plural:0 "Fabricator Drones"
+ job_beta_network_mining_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Fabricators."
+ job_beta_network_mining_alloy_drone_effect_desc:0 "£job_beta_network_mining_alloy_drone£ $job_beta_network_mining_alloy_drone_plural$转换£minerals£ into £alloys£ §Y$alloys$§!"
+ mod_job_beta_network_mining_alloy_drone_add:0 "$job_beta_network_mining_alloy_drone$工作"
+ mod_job_beta_network_mining_alloy_drone_per_pop:0 "§G+1§! $job_beta_network_mining_alloy_drone$每$VALUE$人口"
+ mod_job_beta_network_mining_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_mining_alloy_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_mining_sr_drone:0 "Networked SR-Drone"
+ job_beta_network_mining_sr_drone_plural:0 "Networked SR-Drones"
+ job_beta_network_mining_sr_drone_desc:1 "Rather than maintain systems of mote traps, crystal mines and exotic gas refineries, SR-Drones directly manipulate minerals at monolithic facilities designed to生产all three."
+ job_beta_network_mining_sr_drone_effect_desc:0 "£job_beta_network_mining_sr_drone£转换£minerals£ into £volatile_motes£ £exotic_gases£ £rare_crystals£"
+ mod_job_beta_network_mining_sr_drone_add:0 "$job_beta_network_mining_sr_drone$工作"
+ mod_job_beta_network_mining_sr_drone_per_pop:0 "§G+1§! $job_beta_network_mining_sr_drone$每$VALUE$人口"
+ mod_job_beta_network_mining_sr_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_mining_sr_drone_add£每$VALUE$ £pop£"
+ 
+ #SCIENCE#
+ 
+ job_beta_network_science_calculator_drone:0 "Networked Calculator"
+ job_beta_network_science_calculator_drone_plural:0 "Networked Calculators"
+ job_beta_network_science_calculator_drone_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Calculators lead the technological development of the Machine Intelligence."
+ job_beta_network_science_calculator_drone_effect_desc:1 "£job_beta_network_science_calculator_drone£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_beta_network_science_calculator_drone_add:0 "$job_beta_network_science_calculator_drone$工作"
+ mod_job_beta_network_science_calculator_drone_per_pop:0 "§G+1§! $job_beta_network_science_calculator_drone$每$VALUE$人口"
+ mod_job_beta_network_science_calculator_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_science_calculator_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_science_lvl_drone:0 "Networked Level Cap Drone"
+ job_beta_network_science_lvl_drone_plural:0 "Networked Level Cap Drones"
+ job_beta_network_science_lvl_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra data storage allowing them to reach levels they would normally be unable to."
+ job_beta_network_science_lvl_drone_effect_desc:1 "£job_beta_network_science_lvl_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Level Cap§!"
+ mod_job_beta_network_science_lvl_drone_add:0 "$job_beta_network_science_lvl_drone$工作"
+ mod_job_beta_network_science_lvl_drone_per_pop:0 "§G+1§! $job_beta_network_science_lvl_drone$每$VALUE$人口"
+ mod_job_beta_network_science_lvl_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_science_lvl_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_science_exp_drone:0 "Networked Affinity Drone"
+ job_beta_network_science_exp_drone_plural:0 "Networked Affinity Drones"
+ job_beta_network_science_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power allowing them to reach levels faster."
+ job_beta_network_science_exp_drone_effect_desc:1 "£job_beta_network_science_exp_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Experiance Gain§!"
+ mod_job_beta_network_science_exp_drone_add:0 "$job_beta_network_science_exp_drone$工作"
+ mod_job_beta_network_science_exp_drone_per_pop:0 "§G+1§! $job_beta_network_science_exp_drone$每$VALUE$人口"
+ mod_job_beta_network_science_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_science_exp_drone_add£每$VALUE$ £pop£"
+ 
+ #MILITARY#
+ 
+ job_beta_network_military_naval_drone:0 "Networked Naval Drone"
+ job_beta_network_military_naval_drone_plural:0 "Networked Naval Drones"
+ job_beta_network_military_naval_drone_desc:1 "Processors who specialize in the increased of naval capacity."
+ job_beta_network_military_naval_drone_effect_desc:0 "£job_beta_network_military_naval_drone£ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
+ mod_job_beta_network_military_naval_drone_add:0 "$job_beta_network_military_naval_drone$工作"
+ mod_job_beta_network_military_naval_drone_per_pop:0 "§G+1§! $job_beta_network_military_naval_drone$每$VALUE$人口"
+ mod_job_beta_network_military_naval_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_warrior_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_military_fortification_drone:0 "Networked Fortification Drone"
+ job_beta_network_military_fortification_drone_plural:0 "Networked Fortification Drones"
+ job_beta_network_military_fortification_drone_desc:1 "Deviancy and function corruption that threatens the stability of the collective must be remedied."
+ job_beta_network_military_fortification_drone_effect_desc:0 "£job_beta_network_military_fortification_drone£ decrease £crime£ and spawn £defense_army£ §YDefense Armies§!"
+ mod_job_beta_network_military_fortification_drone_add:0 "$job_beta_network_military_fortification_drone$工作"
+ mod_job_beta_network_military_fortification_drone_per_pop:0 "§G+1§! $job_beta_network_military_fortification_drone$每$VALUE$人口"
+ mod_job_beta_network_military_fortification_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_military_fortification_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_military_storage_drone:0 "Networked Storage Drone"
+ job_beta_network_military_storage_drone_plural:0 "Networked Storage Drones"
+ job_beta_network_military_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
+ job_beta_network_military_storage_drone_effect_desc:0 "£job_beta_network_military_storage_drone£ increase §YResource Storage§!"
+ mod_job_beta_network_military_storage_drone_add:0 "$job_beta_network_military_storage_drone$工作"
+ mod_job_beta_network_military_storage_drone_per_pop:0 "§G+1§! $job_beta_network_military_storage_drone$每$VALUE$人口"
+ mod_job_beta_network_military_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_military_storage_drone_add£每$VALUE$ £pop£"
+ 
+ #UNITY#
+ 
+ job_beta_network_unity_drone:0 "Networked Coordinator Drone"
+ job_beta_network_unity_drone_plural:0 "Networked Coordinator Drones"
+ job_beta_network_unity_drone_desc:1 "Signals to and from the Core must be amplified, boosted, and cleaned of static and data corruption."
+ job_beta_network_unity_drone_effect_desc:0 "£job_beta_network_unity_drone£生产£unity£"
+ mod_job_beta_network_unity_drone_add:0 "$job_beta_network_unity_drone$工作"
+ mod_job_beta_network_unity_drone_per_pop:0 "§G+1§! $job_beta_network_unity_drone$每$VALUE$人口"
+ mod_job_beta_network_unity_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_unity_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_unity_diplomacy_drone:0 "Networked Diplo-Drone"
+ job_beta_network_unity_diplomacy_drone_plural:0 "Networked Diplo-Drones"
+ job_beta_network_unity_diplomacy_drone_desc:1 "Close examination and study of organic media and mannerisms will allow the network to gain more trust with them."
+ job_beta_network_unity_diplomacy_drone_effect_desc:0 "£job_beta_network_unity_diplomacy_drone£ use £unity£ to increase £mod_country_organic_trust_cap_add£ §YOrganic Trust§!"
+ mod_job_beta_network_unity_diplomacy_drone_add:0 "$job_beta_network_unity_diplomacy_drone$工作"
+ mod_job_beta_network_unity_diplomacy_drone_per_pop:0 "§G+1§! $job_beta_network_unity_diplomacy_drone$每$VALUE$人口"
+ mod_job_beta_network_unity_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_unity_diplomacy_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_unity_admin_drone:0 "Networked Admin-Drone"
+ job_beta_network_unity_admin_drone_plural:0 "Networked Admin-Drones"
+ job_beta_network_unity_admin_drone_desc:1 "Processors who ensure that the network will be able to maintain proper coheasion across larger distances."
+ job_beta_network_unity_admin_drone_effect_desc:0 "£job_beta_network_unity_admin_drone£ use £unity£ to increase £mod_country_admin_cap_add£ §Y$mod_country_admin_cap_add$§!"
+ mod_job_beta_network_unity_admin_drone_add:0 "$job_beta_network_unity_admin_drone$工作"
+ mod_job_beta_network_unity_admin_drone_per_pop:0 "§G+1§! $job_beta_network_unity_admin_drone$每$VALUE$人口"
+ mod_job_beta_network_unity_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_unity_admin_drone_add£每$VALUE$ £pop£"
+ 
+ #Assimilator工作
+ 
+ job_beta_assimilator_network_bot_calculator:0 "Assimilator Calculator"
+ job_beta_assimilator_network_bot_calculator_plural:0 "Asssimilator Calculators"
+ job_beta_assimilator_network_bot_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilator Calculators co-lead the technological development of the Machine Intelligence."
+ job_beta_assimilator_network_bot_calculator_effect_desc:1 "£job_beta_assimilator_network_bot_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_beta_assimilator_network_bot_calculator_add:0 "$job_beta_assimilator_network_bot_calculator$工作"
+ mod_job_beta_assimilator_network_bot_calculator_per_pop:0 "§G+1§! $job_beta_assimilator_network_bot_calculator$每$VALUE$人口"
+ mod_job_beta_assimilator_network_bot_calculator_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_bot_calculator_add£每$VALUE$ £pop£"
+ 
+ job_beta_assimilator_network_bio_calculator:0 "Assimilated Calculator"
+ job_beta_assimilator_network_bio_calculator_plural:0 "Assimilated Calculators"
+ job_beta_assimilator_network_bio_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilated Calculators co-lead the technological development of the Machine Intelligence."
+ job_beta_assimilator_network_bio_calculator_effect_desc:1 "£job_beta_assimilator_network_bio_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_beta_assimilator_network_bio_calculator_add:0 "$job_beta_assimilator_network_bio_calculator$工作"
+ mod_job_beta_assimilator_network_bio_calculator_per_pop:0 "§G+1§! $job_beta_assimilator_network_bio_calculator$每$VALUE$人口"
+ mod_job_beta_assimilator_network_bio_calculator_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_bio_calculator_add£每$VALUE$ £pop£"
+ 
+ job_beta_assimilator_network_agri_drone:0 "Assimilator Agri-Drone"
+ job_beta_assimilator_network_agri_drone_plural:0 "Assimilator Agri-Drones"
+ job_beta_assimilator_network_agri_drone_desc:1 "Assimilated organics require organic substances to maintain their body until it expires. These robotic drones ensure the proper creation of such organic substances."
+ job_beta_assimilator_network_agri_drone_effect_desc:0 "£job_beta_assimilator_network_agri_drone£生产£food£"
+ mod_job_beta_assimilator_network_agri_drone_add:0 "$job_beta_assimilator_network_agri_drone$工作"
+ mod_job_beta_assimilator_network_agri_drone_per_pop:0 "§G+1§! $job_beta_assimilator_network_agri_drone$每$VALUE$人口"
+ mod_job_beta_assimilator_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_assimilator_network_energy_drone:0 "Assimilated Tech-Drone"
+ job_beta_assimilator_network_energy_drone_plural:0 "Assimilated 技术单元"
+ job_beta_assimilator_network_energy_drone_desc:1 "The machine network requires large amounts of energy to maintain proper functionality. These assimilated organics see to the energy generation facilities for their robotic counterparts."
+ job_beta_assimilator_network_energy_drone_effect_desc:0 "£job_beta_assimilator_network_energy_drone£生产£energy£"
+ mod_job_beta_assimilator_network_energy_drone_add:0 "$job_beta_assimilator_network_energy_drone$工作"
+ mod_job_beta_assimilator_network_energy_drone_per_pop:0 "§G+1§! $job_beta_assimilator_network_energy_drone$每$VALUE$人口"
+ mod_job_beta_assimilator_network_energy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_energy_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_assimilator_network_lvl_exp_drone:0 "Assimilator Leader Sub-Unit"
+ job_beta_assimilator_network_lvl_exp_drone_plural:0 "Assimilator Leader Sub-Units"
+ job_beta_assimilator_network_lvl_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power and data storage allowing them to reach levels they would normally be unable to as well as reach them faster."
+ job_beta_assimilator_network_lvl_exp_drone_effect_desc:0 "£job_beta_assimilator_network_lvl_exp_drone£ use £energy£ & £unity£ to increase §YLeader Experiance Gain & Level Cap§!"
+ mod_job_beta_assimilator_network_lvl_exp_drone_add:0 "$job_beta_assimilator_network_lvl_exp_drone$工作"
+ mod_job_beta_assimilator_network_lvl_exp_drone_per_pop:0 "§G+1§! $job_beta_assimilator_network_lvl_exp_drone$每$VALUE$人口"
+ mod_job_beta_assimilator_network_lvl_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_lvl_exp_drone_add£每$VALUE$ £pop£"
+ 
+ #Exterminator工作
+ 
+ job_beta_exterminator_network_drone:0 "Exterminator Drone"
+ job_beta_exterminator_network_drone_plural:0 "Exterminator Drones"
+ job_beta_exterminator_network_drone_desc:1 "Multi-purpose drones that deal with system wide deviancy, planetary fortification and increasing naval capacity."
+ job_beta_exterminator_network_drone_effect_desc:0 "£job_beta_exterminator_network_drone£ decrease £crime£ spawn £defense_army£ and increase £mod_country_naval_cap_add£"
+ mod_job_beta_exterminator_network_drone_add:0 "$job_beta_exterminator_network_drone$工作"
+ mod_job_beta_exterminator_network_drone_per_pop:0 "§G+1§! $job_beta_exterminator_network_drone$每$VALUE$人口"
+ mod_job_beta_exterminator_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_drone_add£每$VALUE$ £pop£"
+  
+ job_beta_exterminator_network_storage_drone:0 "Exterminator Storage Drone"
+ job_beta_exterminator_network_storage_drone_plural:0 "Exterminator Storage Drones"
+ job_beta_exterminator_network_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
+ job_beta_exterminator_network_storage_drone_effect_desc:0 "£job_beta_exterminator_network_storage_drone£ increase £mod_country_resource_max_add£ §YResource Storage§!"
+ mod_job_beta_exterminator_network_storage_drone_add:0 "$job_beta_exterminator_network_storage_drone$工作"
+ mod_job_beta_exterminator_network_storage_drone_per_pop:0 "§G+1§! $job_beta_exterminator_network_storage_drone$每$VALUE$人口"
+ mod_job_beta_exterminator_network_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_storage_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_exterminator_network_replicator_drone:0 "Exterminator Replicator"
+ job_beta_exterminator_network_replicator_drone_plural:0 "Exterminator Replicators"
+ job_beta_exterminator_network_replicator_drone_desc:1 "A machine that builds two machines that builds four machines that builds eight machines that builds..."
+ job_beta_exterminator_network_replicator_drone_effect_desc:1 "£job_beta_exterminator_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
+ mod_job_beta_exterminator_network_replicator_drone_add:0 "$job_beta_exterminator_network_replicator_drone$工作"
+ mod_job_beta_exterminator_network_replicator_drone_per_pop:0 "§G+1§! $job_beta_exterminator_network_replicator_drone$每$VALUE$人口"
+ mod_job_beta_exterminator_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_replicator_drone_add£每$VALUE$ £pop£"
+ 
+ #Servitor工作
+ 
+ job_beta_servitor_network_agri_drone:0 "Servitor Agri-Drone"
+ job_beta_servitor_network_agri_drone_plural:0 "Servitor Agri-Drones"
+ job_beta_servitor_network_agri_drone_desc:1 "Organics require a consistent source of food."
+ job_beta_servitor_network_agri_drone_effect_desc:0 "£job_beta_servitor_network_agri_drone£生产£food£"
+ mod_job_beta_servitor_network_agri_drone_add:0 "$job_beta_servitor_network_agri_drone$工作"
+ mod_job_beta_servitor_network_agri_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_agri_drone$每$VALUE$人口"
+ mod_job_beta_servitor_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_servitor_network_artisan_drone:0 "Servitor Artisan Drone"
+ job_beta_servitor_network_artisan_drone_plural:0 "Servitor Artisan Drones"
+ job_beta_servitor_network_artisan_drone_desc:1 "Organics require a consistent flow of goods."
+ job_beta_servitor_network_artisan_drone_effect_desc:0 "£job_beta_servitor_network_artisan_drone£转换£minerals£ into £consumer_goods£"
+ mod_job_beta_servitor_network_artisan_drone_add:0 "$job_beta_servitor_network_artisan_drone$工作"
+ mod_job_beta_servitor_network_artisan_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_artisan_drone$每$VALUE$人口"
+ mod_job_beta_servitor_network_artisan_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_artisan_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_servitor_network_diplomacy_drone:0 "Servitor Diplo-Drone"
+ job_beta_servitor_network_diplomacy_drone_plural:0 "Servitor Diplo-Drones"
+ job_beta_servitor_network_diplomacy_drone_desc:1 "The study of organic mannerisms and media results in their increased ability to trust this network."
+ job_beta_servitor_network_diplomacy_drone_effect_desc:0 "£job_beta_servitor_network_diplomacy_drone£转换£food£ & £consumer_goods£ into £mod_country_organic_trust_cap_add£ §YOrganic Trust Cap§!"
+ mod_job_beta_servitor_network_diplomacy_drone_add:0 "$job_beta_servitor_network_diplomacy_drone$工作"
+ mod_job_beta_servitor_network_diplomacy_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_diplomacy_drone$每$VALUE$人口"
+ mod_job_beta_servitor_network_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_diplomacy_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_servitor_network_admin_drone:0 "Servitor Admin-Drone"
+ job_beta_servitor_network_admin_drone_plural:0 "Servitor Admin-Drones"
+ job_beta_servitor_network_admin_drone_desc:1 "Processors who ensure that no organic will ever be outside of our safe reach."
+ job_beta_servitor_network_admin_drone_effect_desc:0 "£job_beta_servitor_network_admin_drone£转换£energy£ & £unity£ into £mod_country_admin_cap_add£"
+ mod_job_beta_servitor_network_admin_drone_add:0 "$job_beta_servitor_network_admin_drone$工作"
+ mod_job_beta_servitor_network_admin_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_admin_drone$每$VALUE$人口"
+ mod_job_beta_servitor_network_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_admin_drone_add£每$VALUE$ £pop£"
+ 
+ #MISC#
+ 
+ job_beta_network_agri_drone:0 "Agri-Drone"
+ job_beta_network_agri_drone_plural:0 "Agri-Drones"
+ job_beta_network_agri_drone_desc:1 "Even inorganic networks have some use for organic materials."
+ job_beta_network_agri_drone_effect_desc:0 "£job_agri_drone£生产£food£"
+ mod_job_beta_network_agri_drone_add:0 "$job_beta_network_agri_drone$工作"
+ mod_job_beta_network_agri_drone_per_pop:0 "§G+1§! $job_beta_network_agri_drone$每$VALUE$人口"
+ mod_job_beta_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_beta_network_replicator_drone:0 "Replicator"
+ job_beta_network_replicator_drone_plural:0 "Replicators"
+ job_beta_network_replicator_drone_desc:1 "A machine that builds a machines that builds another machine that builds another other machine that builds..."
+ job_beta_network_replicator_drone_effect_desc:1 "£job_beta_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
+ mod_job_beta_network_replicator_drone_add:0 "$job_beta_network_replicator_drone$工作"
+ mod_job_beta_network_replicator_drone_per_pop:0 "§G+1§! $job_beta_network_replicator_drone$每$VALUE$人口"
+ mod_job_beta_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_replicator_drone_add£每$VALUE$ £pop£"
+  
+ #ENERGY#
+ 
+ job_ceta_network_technician_drone:0 "网络技术单元"
+ job_ceta_network_technician_drone_plural:0 "技术单元"
+ job_ceta_network_technician_drone_desc:1 "负责管理和监督发电厂运行的机械师、操作员和技术人员。"
+ job_ceta_network_technician_drone_effect_desc:0 "£job_ceta_network_technician_drone£ $job_ceta_network_technician_drone_plural$生产£energy£"
+ mod_job_ceta_network_technician_drone_add:0 "$job_ceta_network_technician_drone$工作"
+ mod_job_ceta_network_technician_drone_per_pop:0 "§G+1§! $job_ceta_network_technician_drone$每$VALUE$人口"
+ mod_job_ceta_network_technician_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_technician_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_technician_terraforming_drone:0 "网络地貌改造单元"
+ job_ceta_network_technician_terraforming_drone_plural:0 "地貌改造单元"
+ job_ceta_network_technician_terraforming_drone_desc:1 "负责管理和监督地貌改造的机械师、操作员和技术人员。"
+ job_ceta_network_technician_terraforming_drone_effect_desc:0 "£job_ceta_network_technician_terraforming_drone£ $job_ceta_network_technician_terraforming_drone_plural$转换£minerals£ & £energy£增加§Y$地貌改造速度§!"
+ mod_job_ceta_network_technician_terraforming_drone_add:0 "$job_ceta_network_technician_terraforming_drone$工作"
+ mod_job_ceta_network_technician_terraforming_drone_per_pop:0 "§G+1§! $job_ceta_network_technician_terraforming_drone$每$VALUE$人口"
+ mod_job_ceta_network_technician_terraforming_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_technician_terraforming_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_technician_megastructure_drone:0 "网络巨型建筑单元"
+ job_ceta_network_technician_megastructure_drone_plural:0 "巨型建筑单元"
+ job_ceta_network_technician_megastructure_drone_desc:1 "机械师、操作员和技术人员，他们管理和监督巨型建筑的运行。"
+ job_ceta_network_technician_megastructure_drone_effect_desc:0 "£job_ceta_network_technician_megastructure_drone£ $job_ceta_network_technician_megastructure_drone_plural$转换£minerals£ & £energy£增加§Y巨型建筑建造速度§!"
+ mod_job_ceta_network_technician_megastructure_drone_add:0 "$job_ceta_network_technician_megastructure_drone$工作"
+ mod_job_ceta_network_technician_megastructure_drone_per_pop:0 "§G+1§! $job_ceta_network_technician_megastructure_drone$每$VALUE$人口"
+ mod_job_ceta_network_technician_megastructure_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_technician_megastructure_drone_add£每$VALUE$ £pop£"
+    
+ #MINING#
+  
+ job_ceta_network_mining_drone:0 "网络采矿单元"
+ job_ceta_network_mining_drone_plural:0 "采矿单元"
+ job_ceta_network_mining_drone_desc:1 "这些单元装备有现代化的动力钻机和先进的机械设备，可以提取和制备工业、军事和消费者使用的宝贵矿物。"
+ job_ceta_network_mining_drone_effect_desc:0 "£job_ceta_network_mining_drone£ $job_ceta_network_mining_drone_plural$生产£minerals£"
+ mod_job_ceta_network_mining_drone_add:0 "$job_ceta_network_mining_drone$工作"
+ mod_job_ceta_network_mining_drone_per_pop:0 "§G+1§! $job_ceta_network_mining_drone$每$VALUE$人口"
+ mod_job_ceta_network_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_mining_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_mining_alloy_drone:0 "Networked Fabricator Drone"
+ job_ceta_network_mining_alloy_drone_plural:0 "Fabricator Drones"
+ job_ceta_network_mining_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Fabricators."
+ job_ceta_network_mining_alloy_drone_effect_desc:0 "£job_ceta_network_mining_alloy_drone£ $job_ceta_network_mining_alloy_drone_plural$转换£minerals£ into £alloys£ §Y$alloys$§!"
+ mod_job_ceta_network_mining_alloy_drone_add:0 "$job_ceta_network_mining_alloy_drone$工作"
+ mod_job_ceta_network_mining_alloy_drone_per_pop:0 "§G+1§! $job_ceta_network_mining_alloy_drone$每$VALUE$人口"
+ mod_job_ceta_network_mining_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_mining_alloy_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_mining_sr_drone:0 "Networked SR-Drone"
+ job_ceta_network_mining_sr_drone_plural:0 "Networked SR-Drones"
+ job_ceta_network_mining_sr_drone_desc:1 "Rather than maintain systems of mote traps, crystal mines and exotic gas refineries, SR-Drones directly manipulate minerals at monolithic facilities designed to生产all three."
+ job_ceta_network_mining_sr_drone_effect_desc:0 "£job_ceta_network_mining_sr_drone£转换£minerals£ into £volatile_motes£ £exotic_gases£ £rare_crystals£"
+ mod_job_ceta_network_mining_sr_drone_add:0 "$job_ceta_network_mining_sr_drone$工作"
+ mod_job_ceta_network_mining_sr_drone_per_pop:0 "§G+1§! $job_ceta_network_mining_sr_drone$每$VALUE$人口"
+ mod_job_ceta_network_mining_sr_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_mining_sr_drone_add£每$VALUE$ £pop£"
+ 
+ #SCIENCE#
+ 
+ job_ceta_network_science_calculator_drone:0 "Networked Calculator"
+ job_ceta_network_science_calculator_drone_plural:0 "Networked Calculators"
+ job_ceta_network_science_calculator_drone_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Calculators lead the technological development of the Machine Intelligence."
+ job_ceta_network_science_calculator_drone_effect_desc:1 "£job_ceta_network_science_calculator_drone£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_ceta_network_science_calculator_drone_add:0 "$job_ceta_network_science_calculator_drone$工作"
+ mod_job_ceta_network_science_calculator_drone_per_pop:0 "§G+1§! $job_ceta_network_science_calculator_drone$每$VALUE$人口"
+ mod_job_ceta_network_science_calculator_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_science_calculator_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_science_lvl_drone:0 "Networked Level Cap Drone"
+ job_ceta_network_science_lvl_drone_plural:0 "Networked Level Cap Drones"
+ job_ceta_network_science_lvl_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra data storage allowing them to reach levels they would normally be unable to."
+ job_ceta_network_science_lvl_drone_effect_desc:1 "£job_ceta_network_science_lvl_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Level Cap§!"
+ mod_job_ceta_network_science_lvl_drone_add:0 "$job_ceta_network_science_lvl_drone$工作"
+ mod_job_ceta_network_science_lvl_drone_per_pop:0 "§G+1§! $job_ceta_network_science_lvl_drone$每$VALUE$人口"
+ mod_job_ceta_network_science_lvl_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_science_lvl_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_science_exp_drone:0 "Networked Affinity Drone"
+ job_ceta_network_science_exp_drone_plural:0 "Networked Affinity Drones"
+ job_ceta_network_science_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power allowing them to reach levels faster."
+ job_ceta_network_science_exp_drone_effect_desc:1 "£job_ceta_network_science_exp_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Experiance Gain§!"
+ mod_job_ceta_network_science_exp_drone_add:0 "$job_ceta_network_science_exp_drone$工作"
+ mod_job_ceta_network_science_exp_drone_per_pop:0 "§G+1§! $job_ceta_network_science_exp_drone$每$VALUE$人口"
+ mod_job_ceta_network_science_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_science_exp_drone_add£每$VALUE$ £pop£"
+ 
+ #MILITARY#
+ 
+ job_ceta_network_military_naval_drone:0 "Networked Naval Drone"
+ job_ceta_network_military_naval_drone_plural:0 "Networked Naval Drones"
+ job_ceta_network_military_naval_drone_desc:1 "Processors who specialize in the increased of naval capacity."
+ job_ceta_network_military_naval_drone_effect_desc:0 "£job_ceta_network_military_naval_drone£ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
+ mod_job_ceta_network_military_naval_drone_add:0 "$job_ceta_network_military_naval_drone$工作"
+ mod_job_ceta_network_military_naval_drone_per_pop:0 "§G+1§! $job_ceta_network_military_naval_drone$每$VALUE$人口"
+ mod_job_ceta_network_military_naval_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_warrior_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_military_fortification_drone:0 "Networked Fortification Drone"
+ job_ceta_network_military_fortification_drone_plural:0 "Networked Fortification Drones"
+ job_ceta_network_military_fortification_drone_desc:1 "Deviancy and function corruption that threatens the stability of the collective must be remedied."
+ job_ceta_network_military_fortification_drone_effect_desc:0 "£job_ceta_network_military_fortification_drone£ decrease £crime£ and spawn £defense_army£ §YDefense Armies§!"
+ mod_job_ceta_network_military_fortification_drone_add:0 "$job_ceta_network_military_fortification_drone$工作"
+ mod_job_ceta_network_military_fortification_drone_per_pop:0 "§G+1§! $job_ceta_network_military_fortification_drone$每$VALUE$人口"
+ mod_job_ceta_network_military_fortification_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_military_fortification_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_military_storage_drone:0 "Networked Storage Drone"
+ job_ceta_network_military_storage_drone_plural:0 "Networked Storage Drones"
+ job_ceta_network_military_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
+ job_ceta_network_military_storage_drone_effect_desc:0 "£job_ceta_network_military_storage_drone£ increase §YResource Storage§!"
+ mod_job_ceta_network_military_storage_drone_add:0 "$job_ceta_network_military_storage_drone$工作"
+ mod_job_ceta_network_military_storage_drone_per_pop:0 "§G+1§! $job_ceta_network_military_storage_drone$每$VALUE$人口"
+ mod_job_ceta_network_military_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_military_storage_drone_add£每$VALUE$ £pop£"
+ 
+ #UNITY#
+ 
+ job_ceta_network_unity_drone:0 "Networked Coordinator Drone"
+ job_ceta_network_unity_drone_plural:0 "Networked Coordinator Drones"
+ job_ceta_network_unity_drone_desc:1 "Signals to and from the Core must be amplified, boosted, and cleaned of static and data corruption."
+ job_ceta_network_unity_drone_effect_desc:0 "£job_ceta_network_unity_drone£生产£unity£"
+ mod_job_ceta_network_unity_drone_add:0 "$job_ceta_network_unity_drone$工作"
+ mod_job_ceta_network_unity_drone_per_pop:0 "§G+1§! $job_ceta_network_unity_drone$每$VALUE$人口"
+ mod_job_ceta_network_unity_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_unity_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_unity_diplomacy_drone:0 "Networked Diplo-Drone"
+ job_ceta_network_unity_diplomacy_drone_plural:0 "Networked Diplo-Drones"
+ job_ceta_network_unity_diplomacy_drone_desc:1 "Close examination and study of organic media and mannerisms will allow the network to gain more trust with them."
+ job_ceta_network_unity_diplomacy_drone_effect_desc:0 "£job_ceta_network_unity_diplomacy_drone£ use £unity£ to increase £mod_country_organic_trust_cap_add£ §YOrganic Trust§!"
+ mod_job_ceta_network_unity_diplomacy_drone_add:0 "$job_ceta_network_unity_diplomacy_drone$工作"
+ mod_job_ceta_network_unity_diplomacy_drone_per_pop:0 "§G+1§! $job_ceta_network_unity_diplomacy_drone$每$VALUE$人口"
+ mod_job_ceta_network_unity_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_unity_diplomacy_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_unity_admin_drone:0 "Networked Admin-Drone"
+ job_ceta_network_unity_admin_drone_plural:0 "Networked Admin-Drones"
+ job_ceta_network_unity_admin_drone_desc:1 "Processors who ensure that the network will be able to maintain proper coheasion across larger distances."
+ job_ceta_network_unity_admin_drone_effect_desc:0 "£job_ceta_network_unity_admin_drone£ use £unity£ to increase £mod_country_admin_cap_add£ §Y$mod_country_admin_cap_add$§!"
+ mod_job_ceta_network_unity_admin_drone_add:0 "$job_ceta_network_unity_admin_drone$工作"
+ mod_job_ceta_network_unity_admin_drone_per_pop:0 "§G+1§! $job_ceta_network_unity_admin_drone$每$VALUE$人口"
+ mod_job_ceta_network_unity_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_unity_admin_drone_add£每$VALUE$ £pop£"
+ 
+ #Assimilator工作
+ 
+ job_ceta_assimilator_network_bot_calculator:0 "Assimilator Calculator"
+ job_ceta_assimilator_network_bot_calculator_plural:0 "Asssimilator Calculators"
+ job_ceta_assimilator_network_bot_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilator Calculators co-lead the technological development of the Machine Intelligence."
+ job_ceta_assimilator_network_bot_calculator_effect_desc:1 "£job_ceta_assimilator_network_bot_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_ceta_assimilator_network_bot_calculator_add:0 "$job_ceta_assimilator_network_bot_calculator$工作"
+ mod_job_ceta_assimilator_network_bot_calculator_per_pop:0 "§G+1§! $job_ceta_assimilator_network_bot_calculator$每$VALUE$人口"
+ mod_job_ceta_assimilator_network_bot_calculator_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_bot_calculator_add£每$VALUE$ £pop£"
+ 
+ job_ceta_assimilator_network_bio_calculator:0 "Assimilated Calculator"
+ job_ceta_assimilator_network_bio_calculator_plural:0 "Assimilated Calculators"
+ job_ceta_assimilator_network_bio_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilated Calculators co-lead the technological development of the Machine Intelligence."
+ job_ceta_assimilator_network_bio_calculator_effect_desc:1 "£job_ceta_assimilator_network_bio_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
+ mod_job_ceta_assimilator_network_bio_calculator_add:0 "$job_ceta_assimilator_network_bio_calculator$工作"
+ mod_job_ceta_assimilator_network_bio_calculator_per_pop:0 "§G+1§! $job_ceta_assimilator_network_bio_calculator$每$VALUE$人口"
+ mod_job_ceta_assimilator_network_bio_calculator_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_bio_calculator_add£每$VALUE$ £pop£"
+ 
+ job_ceta_assimilator_network_agri_drone:0 "Assimilator Agri-Drone"
+ job_ceta_assimilator_network_agri_drone_plural:0 "Assimilator Agri-Drones"
+ job_ceta_assimilator_network_agri_drone_desc:1 "Assimilated organics require organic substances to maintain their body until it expires. These robotic drones ensure the proper creation of such organic substances."
+ job_ceta_assimilator_network_agri_drone_effect_desc:0 "£job_ceta_assimilator_network_agri_drone£生产£food£"
+ mod_job_ceta_assimilator_network_agri_drone_add:0 "$job_ceta_assimilator_network_agri_drone$工作"
+ mod_job_ceta_assimilator_network_agri_drone_per_pop:0 "§G+1§! $job_ceta_assimilator_network_agri_drone$每$VALUE$人口"
+ mod_job_ceta_assimilator_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_assimilator_network_energy_drone:0 "Assimilated Tech-Drone"
+ job_ceta_assimilator_network_energy_drone_plural:0 "Assimilated 技术单元"
+ job_ceta_assimilator_network_energy_drone_desc:1 "The machine network requires large amounts of energy to maintain proper functionality. These assimilated organics see to the energy generation facilities for their robotic counterparts."
+ job_ceta_assimilator_network_energy_drone_effect_desc:0 "£job_ceta_assimilator_network_energy_drone£生产£energy£"
+ mod_job_ceta_assimilator_network_energy_drone_add:0 "$job_ceta_assimilator_network_energy_drone$工作"
+ mod_job_ceta_assimilator_network_energy_drone_per_pop:0 "§G+1§! $job_ceta_assimilator_network_energy_drone$每$VALUE$人口"
+ mod_job_ceta_assimilator_network_energy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_energy_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_assimilator_network_lvl_exp_drone:0 "Assimilator Leader Sub-Unit"
+ job_ceta_assimilator_network_lvl_exp_drone_plural:0 "Assimilator Leader Sub-Units"
+ job_ceta_assimilator_network_lvl_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power and data storage allowing them to reach levels they would normally be unable to as well as reach them faster."
+ job_ceta_assimilator_network_lvl_exp_drone_effect_desc:0 "£job_ceta_assimilator_network_lvl_exp_drone£ use £energy£ & £unity£ to increase §YLeader Experiance Gain & Level Cap§!"
+ mod_job_ceta_assimilator_network_lvl_exp_drone_add:0 "$job_ceta_assimilator_network_lvl_exp_drone$工作"
+ mod_job_ceta_assimilator_network_lvl_exp_drone_per_pop:0 "§G+1§! $job_ceta_assimilator_network_lvl_exp_drone$每$VALUE$人口"
+ mod_job_ceta_assimilator_network_lvl_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_lvl_exp_drone_add£每$VALUE$ £pop£"
+ 
+ #Exterminator工作
+ 
+ job_ceta_exterminator_network_drone:0 "Exterminator Drone"
+ job_ceta_exterminator_network_drone_plural:0 "Exterminator Drones"
+ job_ceta_exterminator_network_drone_desc:1 "Multi-purpose drones that deal with system wide deviancy, planetary fortification and increasing naval capacity."
+ job_ceta_exterminator_network_drone_effect_desc:0 "£job_ceta_exterminator_network_drone£ decrease £crime£ spawn £defense_army£ and increase £mod_country_naval_cap_add£"
+ mod_job_ceta_exterminator_network_drone_add:0 "$job_ceta_exterminator_network_drone$工作"
+ mod_job_ceta_exterminator_network_drone_per_pop:0 "§G+1§! $job_ceta_exterminator_network_drone$每$VALUE$人口"
+ mod_job_ceta_exterminator_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_drone_add£每$VALUE$ £pop£"
+  
+ job_ceta_exterminator_network_storage_drone:0 "Exterminator Storage Drone"
+ job_ceta_exterminator_network_storage_drone_plural:0 "Exterminator Storage Drones"
+ job_ceta_exterminator_network_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
+ job_ceta_exterminator_network_storage_drone_effect_desc:0 "£job_ceta_exterminator_network_storage_drone£ increase £mod_country_resource_max_add£ §YResource Storage§!"
+ mod_job_ceta_exterminator_network_storage_drone_add:0 "$job_ceta_exterminator_network_storage_drone$工作"
+ mod_job_ceta_exterminator_network_storage_drone_per_pop:0 "§G+1§! $job_ceta_exterminator_network_storage_drone$每$VALUE$人口"
+ mod_job_ceta_exterminator_network_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_storage_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_exterminator_network_replicator_drone:0 "Exterminator Replicator"
+ job_ceta_exterminator_network_replicator_drone_plural:0 "Exterminator Replicators"
+ job_ceta_exterminator_network_replicator_drone_desc:1 "A machine that builds two machines that builds four machines that builds eight machines that builds..."
+ job_ceta_exterminator_network_replicator_drone_effect_desc:1 "£job_ceta_exterminator_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
+ mod_job_ceta_exterminator_network_replicator_drone_add:0 "$job_ceta_exterminator_network_replicator_drone$工作"
+ mod_job_ceta_exterminator_network_replicator_drone_per_pop:0 "§G+1§! $job_ceta_exterminator_network_replicator_drone$每$VALUE$人口"
+ mod_job_ceta_exterminator_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_replicator_drone_add£每$VALUE$ £pop£"
+ 
+ #Servitor工作
+ 
+ job_ceta_servitor_network_agri_drone:0 "Servitor Agri-Drone"
+ job_ceta_servitor_network_agri_drone_plural:0 "Servitor Agri-Drones"
+ job_ceta_servitor_network_agri_drone_desc:1 "Organics require a consistent source of food."
+ job_ceta_servitor_network_agri_drone_effect_desc:0 "£job_ceta_servitor_network_agri_drone£生产£food£"
+ mod_job_ceta_servitor_network_agri_drone_add:0 "$job_ceta_servitor_network_agri_drone$工作"
+ mod_job_ceta_servitor_network_agri_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_agri_drone$每$VALUE$人口"
+ mod_job_ceta_servitor_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_servitor_network_artisan_drone:0 "Servitor Artisan Drone"
+ job_ceta_servitor_network_artisan_drone_plural:0 "Servitor Artisan Drones"
+ job_ceta_servitor_network_artisan_drone_desc:1 "Organics require a consistent flow of goods."
+ job_ceta_servitor_network_artisan_drone_effect_desc:0 "£job_ceta_servitor_network_artisan_drone£转换£minerals£ into £consumer_goods£"
+ mod_job_ceta_servitor_network_artisan_drone_add:0 "$job_ceta_servitor_network_artisan_drone$工作"
+ mod_job_ceta_servitor_network_artisan_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_artisan_drone$每$VALUE$人口"
+ mod_job_ceta_servitor_network_artisan_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_artisan_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_servitor_network_diplomacy_drone:0 "Servitor Diplo-Drone"
+ job_ceta_servitor_network_diplomacy_drone_plural:0 "Servitor Diplo-Drones"
+ job_ceta_servitor_network_diplomacy_drone_desc:1 "The study of organic mannerisms and media results in their increased ability to trust this network."
+ job_ceta_servitor_network_diplomacy_drone_effect_desc:0 "£job_ceta_servitor_network_diplomacy_drone£转换£food£ & £consumer_goods£ into £mod_country_organic_trust_cap_add£ §YOrganic Trust Cap§!"
+ mod_job_ceta_servitor_network_diplomacy_drone_add:0 "$job_ceta_servitor_network_diplomacy_drone$工作"
+ mod_job_ceta_servitor_network_diplomacy_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_diplomacy_drone$每$VALUE$人口"
+ mod_job_ceta_servitor_network_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_diplomacy_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_servitor_network_admin_drone:0 "Servitor Admin-Drone"
+ job_ceta_servitor_network_admin_drone_plural:0 "Servitor Admin-Drones"
+ job_ceta_servitor_network_admin_drone_desc:1 "Processors who ensure that no organic will ever be outside of our safe reach."
+ job_ceta_servitor_network_admin_drone_effect_desc:0 "£job_ceta_servitor_network_admin_drone£转换£energy£ & £unity£ into £mod_country_admin_cap_add£"
+ mod_job_ceta_servitor_network_admin_drone_add:0 "$job_ceta_servitor_network_admin_drone$工作"
+ mod_job_ceta_servitor_network_admin_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_admin_drone$每$VALUE$人口"
+ mod_job_ceta_servitor_network_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_admin_drone_add£每$VALUE$ £pop£"
+ 
+ #MISC#
+ 
+ job_ceta_network_agri_drone:0 "Agri-Drone"
+ job_ceta_network_agri_drone_plural:0 "Agri-Drones"
+ job_ceta_network_agri_drone_desc:1 "Even inorganic networks have some use for organic materials."
+ job_ceta_network_agri_drone_effect_desc:0 "£job_agri_drone£生产£food£"
+ mod_job_ceta_network_agri_drone_add:0 "$job_ceta_network_agri_drone$工作"
+ mod_job_ceta_network_agri_drone_per_pop:0 "§G+1§! $job_ceta_network_agri_drone$每$VALUE$人口"
+ mod_job_ceta_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_agri_drone_add£每$VALUE$ £pop£"
+ 
+ job_ceta_network_replicator_drone:0 "Replicator"
+ job_ceta_network_replicator_drone_plural:0 "Replicators"
+ job_ceta_network_replicator_drone_desc:1 "A machine that builds a machines that builds another machine that builds another other machine that builds..."
+ job_ceta_network_replicator_drone_effect_desc:1 "£job_ceta_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
+ mod_job_ceta_network_replicator_drone_add:0 "$job_ceta_network_replicator_drone$工作"
+ mod_job_ceta_network_replicator_drone_per_pop:0 "§G+1§! $job_ceta_network_replicator_drone$每$VALUE$人口"
+ mod_job_ceta_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_replicator_drone_add£每$VALUE$ £pop£"
+ 
+ #WIP#
+  
+ job_alpha_network_maintenance_drone:0 "Maintenance Drone"
+ job_alpha_network_maintenance_drone_plural:0 "Maintenance Drones"
+ job_alpha_network_maintenance_drone_desc:1 "The machinery and structures that serve the needs of the Machine Intelligence must be constantly maintained. As must other drones."
+ job_alpha_network_maintenance_drone_effect_desc:0 "£job_alpha_network_maintenance_drone£ $job_alpha_network_maintenance_drone_plural$ increase £mod_planet_amenities_no_happiness_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ mod_job_alpha_network_maintenance_drone_add:0 "$job_alpha_network_maintenance_drone$工作"
+ mod_job_alpha_network_maintenance_drone_per_pop:0 "§G+1§! $job_alpha_network_maintenance_drone$每$VALUE$人口"
+ mod_job_alpha_network_maintenance_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_maintenance_drone_add£每$VALUE$ £pop£"
+    
+ job_alpha_network_alloy_drone:0 "Foundry Drone"
+ job_alpha_network_alloy_drone_plural:0 "Foundry Drones"
+ job_alpha_network_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Foundry Drones."
+ job_alpha_network_alloy_drone_effect_desc:0 "£job_alpha_network_alloy_drone£ $job_alpha_network_alloy_drone_plural$转换£minerals£ §Y$minerals$§! into £alloys£ §Y$alloys$§!"
+ mod_job_alpha_network_alloy_drone_add:0 "$job_alpha_network_alloy_drone$工作"
+ mod_job_alpha_network_alloy_drone_per_pop:0 "§G+1§! $job_alpha_network_alloy_drone$每$VALUE$人口"
+ mod_job_alpha_network_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_alloy_drone_add£每$VALUE$ £pop£" 
+ 
+ job_alpha_network_crystal_mining_drone:0 "Crystal Mining Drone"
+ job_alpha_network_crystal_mining_drone_plural:0 "Crystal 采矿单元"
+ job_alpha_network_crystal_mining_drone_desc:1 "Miners specialized in carefully extracting and refining rare crystals from geological formations."
+ job_alpha_network_crystal_mining_drone_effect_desc:0 "£job_alpha_network_crystal_mining_drone£ $job_alpha_network_crystal_mining_drone_plural$生产£rare_crystals£ §Y$rare_crystals$§!"
+ mod_job_alpha_network_crystal_mining_drone_add:0 "$job_alpha_network_crystal_mining_drone$工作"
+ mod_job_alpha_network_crystal_mining_drone_per_pop:0 "§G+1§! $job_alpha_network_crystal_mining_drone$每$VALUE$人口"
+ mod_job_alpha_network_crystal_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_crystal_mining_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_mote_harvesting_drone:0 "Mote Harvesting Drone"
+ job_alpha_network_mote_harvesting_drone_plural:0 "Mote Harvesting Drones"
+ job_alpha_network_mote_harvesting_drone_desc:1 "Due to the inherently volatile nature of preternatural motes, the drones who specialize in trapping and harvesting them have a high turnover rate."
+ job_alpha_network_mote_harvesting_drone_effect_desc:1 "£job_alpha_network_mote_harvesting_drone£ $job_alpha_network_mote_harvesting_drone_plural$生产£volatile_motes£ §Y$volatile_motes$§!"
+ mod_job_alpha_network_mote_harvesting_drone_add:0 "$job_alpha_network_mote_harvesting_drone$工作"
+ mod_job_alpha_network_mote_harvesting_drone_per_pop:0 "§G+1§! $job_alpha_network_mote_harvesting_drone$每$VALUE$人口"
+ mod_job_alpha_network_mote_harvesting_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mote_harvesting_drone_add£每$VALUE$ £pop£"
+ 
+ job_alpha_network_gas_extraction_drone:0 "Gas Extraction Drone"
+ job_alpha_network_gas_extraction_drone_plural:0 "Gas Extraction Drones"
+ job_alpha_network_gas_extraction_drone_desc:1 "These specialized drones employ advanced hydraulic fracking methods to free rare, exotic gases from promising rockbeds."
+ job_alpha_network_gas_extraction_drone_effect_desc:0 "£job_alpha_network_gas_extraction_drone£ $job_alpha_network_gas_extraction_drone_plural$生产£exotic_gases£ §Y$exotic_gases$§!"
+ mod_job_alpha_network_gas_extraction_drone_add:0 "$job_alpha_network_gas_extraction_drone$工作"
+ mod_job_alpha_network_gas_extraction_drone_per_pop:0 "§G+1§! $job_alpha_network_gas_extraction_drone$每$VALUE$人口"
+ mod_job_alpha_network_gas_extraction_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_gas_extraction_drone_add£每$VALUE$ £pop£"
+ 
+ 
+ #MODIFIER#
+ 
+ job_sr_drone:0 "Networked SR-Drones"
+ 
+ planet_mwe_sr_drone:0 "SR-Drone工作"
+ 
+ mod_planet_culture_workers_unity_produces_add:0 "$job_culture_worker$ £unity£ Output"
+ 
+ mod_planet_mwe_sr_drone_volatile_motes_produces_add:0 "$job_sr_drone$ £volatile_motes£ Output"
+ mod_planet_mwe_sr_drone_exotic_gases_produces_add:0 "$job_sr_drone$ £exotic_gases£ Output"
+ mod_planet_mwe_sr_drone_rare_crystals_produces_add:0 "$job_sr_drone$ £rare_crystals£ Output"
+ 
+ mod_planet_jobs_simple_drone_minerals_produces_mult:0 "$job_mining_drone_plural$ Output"
+ 
+ mod_planet_jobs_complex_drone_alloys_produces_mult:0 "$job_alloy_drone_plural$ Output"
+ 
+ mod_planet_jobs_complex_drone_volatile_motes_produces_mult:0 "$job_chemist_drone_plural$ Output"
+ mod_planet_jobs_complex_drone_exotic_gases_produces_mult:0 "$job_gas_refiner_drone_plural$ Output"
+ mod_planet_jobs_complex_drone_rare_crystals_produces_mult:0 "$job_translucer_drone_plural$ Output"
+ 
+ mod_planet_jobs_complex_drone_volatile_motes_produces_mult:0 "$job_chemist_drone_plural$ Output"
+ mod_planet_jobs_complex_drone_exotic_gases_produces_mult:0 "$job_gas_refiner_drone_plural$ Output"
+ mod_planet_jobs_complex_drone_rare_crystals_produces_mult:0 "$job_translucer_drone_plural$ Output"
+ 
+ #DISTRICTS#
+ 
+ #NEXI#
+ district_mwe_energy_nexus:0 "Energy Nexus"
+ district_mwe_energy_nexus_desc:0 "A place for maintinence."
+ district_mwe_mineral_nexus:0 "Mineral Nexus"
+ district_mwe_mineral_nexus_desc:0 "A place for maintinence."
+ district_mwe_science_nexus:0 "Science Nexus"
+ district_mwe_science_nexus_desc:0 "A place for maintinence."
+ district_mwe_military_nexus:0 "Military Nexus"
+ district_mwe_military_nexus_desc:0 "A place for maintinence."
+ district_mwe_unity_nexus:0 "Unity Nexus"
+ district_mwe_unity_nexus_desc:0 "A place for maintinence."
+ district_mwe_assimilator_nexus:0 "Assimilator Nexus"
+ district_mwe_assimilator_nexus_desc:0 "A place for maintinence."
+ district_mwe_exterminator_nexus:0 "Exterminator Nexus"
+ district_mwe_exterminator_nexus_desc:0 "A place for maintinence."
+ district_mwe_servitor_nexus:0 "Servitor Nexus"
+ district_mwe_servitor_nexus_desc:0 "A place for maintinence."
+ district_hab_energy_housing:0 "Energy Hab"
+ district_hab_energy_housing_desc:0 "A place for maintinence."
+ district_hab_mineral_housing:0 "Mineral Hab"
+ district_hab_mineral_housing_desc:0 "A place for maintinence."
+ district_hab_science_housing:0 "Science Hab"
+ district_hab_science_housing_desc:0 "A place for maintinence."
+ district_hab_military_housing:0 "Military Hab"
+ district_hab_military_housing_desc:0 "A place for maintinence."
+ district_hab_unity_housing:0 "Unity Hab"
+ district_hab_unity_housing_desc:0 "A place for maintinence."
+ district_hab_assimilator_housing:0 "Assimilator Hab"
+ district_hab_assimilator_housing_desc:0 "A place for maintinence."
+ district_hab_exterminator_housing:0 "Exterminator Hab"
+ district_hab_exterminator_housing_desc:0 "A place for maintinence."
+ district_hab_servitor_housing:0 "Servitor Hab"
+ district_hab_servitor_housing_desc:0 "A place for maintinence."
+ district_hab_machine_housing:0 "Habitation Nexus"
+ district_hab_machine_housing_desc:0 "A place for maintinence."
+ 
+ district_hab_machine_energy:0 "Reactor District"
+ district_hab_energy_plural:0 "Reactor Districts"
+ district_hab_machine_energy_desc:0 "Habitat-side energy production plant districts generate energy credits."
+  
+ district_hab_machine_science:0 "Research District"
+ district_hab_machine_science_plural:0 "Research Districts"
+ district_hab_machine_science_desc:1 "Centers of scientific discovery, these habitat districts service researcher drones for a myriad fields of study."
+ 
+ #ENERGY#
+ 
+ district_mwe_alpha_planet_generator_uncapped:0 "Energy Network"
+ district_mwe_alpha_planet_generator_uncapped_plural:0 "Energy Networks"
+ district_mwe_alpha_planet_generator_uncapped_desc:0 "A vast network of drone storage and energy production facilities capable of generating increasingly larger amounts of energy."
+ 
+ district_mwe_beta_planet_generator_uncapped:0 "$district_mwe_alpha_planet_generator_uncapped$"
+ district_mwe_beta_planet_generator_uncapped_plural:0 "$district_mwe_alpha_planet_generator_uncapped_plural$"
+ district_mwe_beta_planet_generator_uncapped_desc:0 "$district_mwe_alpha_planet_generator_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_generator_uncapped:0 "$district_mwe_alpha_planet_generator_uncapped$"
+ district_mwe_ceta_planet_generator_uncapped_plural:0 "$district_mwe_alpha_planet_generator_uncapped_plural$"
+ district_mwe_ceta_planet_generator_uncapped_desc:0 "$district_mwe_alpha_planet_generator_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_terraforming_uncapped:0 "Terraformation Support Network"
+ district_mwe_alpha_planet_terraforming_uncapped_plural:0 "Terraformation Support Networks"
+ district_mwe_alpha_planet_terraforming_uncapped_desc:0 "A vast network of drone storage and terraforming equipment facilities capable of increasing the speed at which worlds are terraformed."
+ 
+ district_mwe_beta_planet_terraforming_uncapped:0 "$district_mwe_alpha_planet_terraforming_uncapped$"
+ district_mwe_beta_planet_terraforming_uncapped_plural:0 "$district_mwe_alpha_planet_terraforming_uncapped_plural$"
+ district_mwe_beta_planet_terraforming_uncapped_desc:0 "$district_mwe_alpha_planet_terraforming_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_terraforming_uncapped:0 "$district_mwe_alpha_planet_terraforming_uncapped$"
+ district_mwe_ceta_planet_terraforming_uncapped_plural:0 "$district_mwe_alpha_planet_terraforming_uncapped_plural$"
+ district_mwe_ceta_planet_terraforming_uncapped_desc:0 "$district_mwe_alpha_planet_terraforming_uncapped_desc$"
+  
+ district_mwe_alpha_planet_megastructure_uncapped:0 "Megastructure Support Network"
+ district_mwe_alpha_planet_megastructure_uncapped_plural:0 "Megastructure Support Networks"
+ district_mwe_alpha_planet_megastructure_uncapped_desc:0 "A vast network of drone storage and megastructure equipment facilities capable of increasing the speed at which megastructures are created."
+ 
+ district_mwe_beta_planet_megastructure_uncapped:0 "$district_mwe_alpha_planet_megastructure_uncapped$"
+ district_mwe_beta_planet_megastructure_uncapped_plural:0 "$district_mwe_alpha_planet_megastructure_uncapped_plural$"
+ district_mwe_beta_planet_megastructure_uncapped_desc:0 "$district_mwe_alpha_planet_megastructure_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_megastructure_uncapped:0 "$district_mwe_alpha_planet_megastructure_uncapped$"
+ district_mwe_ceta_planet_megastructure_uncapped_plural:0 "$district_mwe_alpha_planet_megastructure_uncapped_plural$"
+ district_mwe_ceta_planet_megastructure_uncapped_desc:0 "$district_mwe_alpha_planet_megastructure_uncapped_desc$"
+ 
+ #MINING#
+ 
+ district_mwe_alpha_planet_mining_uncapped:0 "Mineral Network"
+ district_mwe_alpha_planet_mining_uncapped_plural:0 "Mineral Networks"
+ district_mwe_alpha_planet_mining_uncapped_desc:0 "A vast network of drone storage and mineral extraction facilities capable of extracting increasingly larger amounts of raw minerals."
+ 
+ district_mwe_beta_planet_mining_uncapped:0 "$district_mwe_alpha_planet_mining_uncapped$"
+ district_mwe_beta_planet_mining_uncapped_plural:0 "$district_mwe_alpha_planet_mining_uncapped_plural$"
+ district_mwe_beta_planet_mining_uncapped_desc:0 "$district_mwe_alpha_planet_mining_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_mining_uncapped:0 "$district_mwe_alpha_planet_mining_uncapped$"
+ district_mwe_ceta_planet_mining_uncapped_plural:0 "$district_mwe_alpha_planet_mining_uncapped_plural$"
+ district_mwe_ceta_planet_mining_uncapped_desc:0 "$district_mwe_alpha_planet_mining_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_alloy_uncapped:0 "Foundry Network"
+ district_mwe_alpha_planet_alloy_uncapped_plural:0 "Foundry Networks"
+ district_mwe_alpha_planet_alloy_uncapped_desc:0 "A vast network of drone storage and foundries capable of processing large amounts of minerals into useful alloys."
+ 
+ district_mwe_beta_planet_alloy_uncapped:0 "$district_mwe_alpha_planet_alloy_uncapped$"
+ district_mwe_beta_planet_alloy_uncapped_plural:0 "$district_mwe_alpha_planet_alloy_uncapped_plural$"
+ district_mwe_beta_planet_alloy_uncapped_desc:0 "$district_mwe_alpha_planet_alloy_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_alloy_uncapped:0 "$district_mwe_alpha_planet_alloy_uncapped$"
+ district_mwe_ceta_planet_alloy_uncapped_plural:0 "$district_mwe_alpha_planet_alloy_uncapped_plural$"
+ district_mwe_ceta_planet_alloy_uncapped_desc:0 "$district_mwe_alpha_planet_alloy_uncapped_desc$"
+  
+ district_mwe_alpha_planet_sr_uncapped:0 "Strategic Production Network"
+ district_mwe_alpha_planet_sr_uncapped_plural:0 "Strategic Production Networks"
+ district_mwe_alpha_planet_sr_uncapped_desc:0 "A vast network of drone storage and facilities capable of processing large amounts of minerals into the three basic major galactic resources."
+ 
+ district_mwe_beta_planet_sr_uncapped:0 "$district_mwe_alpha_planet_sr_uncapped$"
+ district_mwe_beta_planet_sr_uncapped_plural:0 "$district_mwe_alpha_planet_sr_uncapped_plural$"
+ district_mwe_beta_planet_sr_uncapped_desc:0 "$district_mwe_alpha_planet_sr_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_sr_uncapped:0 "$district_mwe_alpha_planet_sr_uncapped$"
+ district_mwe_ceta_planet_sr_uncapped_plural:0 "$district_mwe_alpha_planet_sr_uncapped_plural$"
+ district_mwe_ceta_planet_sr_uncapped_desc:0 "$district_mwe_alpha_planet_sr_uncapped_desc$"
+ 
+ #SCIENCE#
+ 
+ district_mwe_alpha_planet_science_uncapped:0 "Research Network"
+ district_mwe_alpha_planet_science_uncapped_plural:0 "Research Networks"
+ district_mwe_alpha_planet_science_uncapped_desc:0 "A vast network of drone storage and research facilities capable of performing and processing increasingly larger amount of research."
+ 
+ district_mwe_beta_planet_science_uncapped:0 "$district_mwe_alpha_planet_science_uncapped$"
+ district_mwe_beta_planet_science_uncapped_plural:0 "$district_mwe_alpha_planet_science_uncapped_plural$"
+ district_mwe_beta_planet_science_uncapped_desc:0 "$district_mwe_alpha_planet_science_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_science_uncapped:0 "$district_mwe_alpha_planet_science_uncapped$"
+ district_mwe_ceta_planet_science_uncapped_plural:0 "$district_mwe_alpha_planet_science_uncapped_plural$"
+ district_mwe_ceta_planet_science_uncapped_desc:0 "$district_mwe_alpha_planet_science_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_science_lvl_uncapped:0 "Leader Knowledge Network"
+ district_mwe_alpha_planet_science_lvl_uncapped_plural:0 "Leader Knowledge Networks"
+ district_mwe_alpha_planet_science_lvl_uncapped_desc:0 "A vast network of drone and data storage that work to allow leaders to reach higher levels of experiance normally unreachable."
+ 
+ district_mwe_beta_planet_science_lvl_uncapped:0 "$district_mwe_alpha_planet_science_lvl_uncapped$"
+ district_mwe_beta_planet_science_lvl_uncapped_plural:0 "$district_mwe_alpha_planet_science_lvl_uncapped_plural$"
+ district_mwe_beta_planet_science_lvl_uncapped_desc:0 "$district_mwe_alpha_planet_science_lvl_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_science_lvl_uncapped:0 "$district_mwe_alpha_planet_science_lvl_uncapped$"
+ district_mwe_ceta_planet_science_lvl_uncapped_plural:0 "$district_mwe_alpha_planet_science_lvl_uncapped_plural$"
+ district_mwe_ceta_planet_science_lvl_uncapped_desc:0 "$district_mwe_alpha_planet_science_lvl_uncapped_desc$"
+  
+ district_mwe_alpha_planet_science_exp_uncapped:0 "Leader Processing Network"
+ district_mwe_alpha_planet_science_exp_uncapped_plural:0 "Leader Processing Networks"
+ district_mwe_alpha_planet_science_exp_uncapped_desc:0 "A vast network of drone storage that robotic leaders are connected to enabling them to process larger amounts of information allowing them to gain experiance at an increased rate."
+ 
+ district_mwe_beta_planet_science_exp_uncapped:0 "$district_mwe_alpha_planet_science_exp_uncapped$"
+ district_mwe_beta_planet_science_exp_uncapped_plural:0 "$district_mwe_alpha_planet_science_exp_uncapped_plural$"
+ district_mwe_beta_planet_science_exp_uncapped_desc:0 "$district_mwe_alpha_planet_science_exp_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_science_exp_uncapped:0 "$district_mwe_alpha_planet_science_exp_uncapped$"
+ district_mwe_ceta_planet_science_exp_uncapped_plural:0 "$district_mwe_alpha_planet_science_exp_uncapped_plural$"
+ district_mwe_ceta_planet_science_exp_uncapped_desc:0 "$district_mwe_alpha_planet_science_exp_uncapped_desc$"
+
+ #MILITARY#
+ 
+ district_mwe_alpha_planet_military_naval_uncapped:0 "Naval Network"
+ district_mwe_alpha_planet_military_naval_uncapped_plural:0 "Naval Networks"
+ district_mwe_alpha_planet_military_naval_uncapped_desc:0 "A vast network of drone storage and facilities dedicated to increasing the number of ships that can be managed efficiently."
+ 
+ district_mwe_beta_planet_military_naval_uncapped:0 "$district_mwe_alpha_planet_military_naval_uncapped$"
+ district_mwe_beta_planet_military_naval_uncapped_plural:0 "$district_mwe_alpha_planet_military_naval_uncapped_plural$"
+ district_mwe_beta_planet_military_naval_uncapped_desc:0 "$district_mwe_alpha_planet_military_naval_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_military_naval_uncapped:0 "$district_mwe_alpha_planet_military_naval_uncapped$"
+ district_mwe_ceta_planet_military_naval_uncapped_plural:0 "$district_mwe_alpha_planet_military_naval_uncapped_plural$"
+ district_mwe_ceta_planet_military_naval_uncapped_desc:0 "$district_mwe_alpha_planet_military_naval_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_military_fortification_uncapped:0 "Bunker Network"
+ district_mwe_alpha_planet_military_fortification_uncapped_plural:0 "Bunker Networks"
+ district_mwe_alpha_planet_military_fortification_uncapped_desc:0 "A vast, hardened, network of drone storage that is capable making a ground invasion near impossible without a very lengthy bombardment."
+ 
+ district_mwe_beta_planet_military_fortification_uncapped:0 "$district_mwe_alpha_planet_military_fortification_uncapped$"
+ district_mwe_beta_planet_military_fortification_uncapped_plural:0 "$district_mwe_alpha_planet_military_fortification_uncapped_plural$"
+ district_mwe_beta_planet_military_fortification_uncapped_desc:0 "$district_mwe_alpha_planet_military_fortification_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_military_fortification_uncapped:0 "$district_mwe_alpha_planet_military_fortification_uncapped$"
+ district_mwe_ceta_planet_military_fortification_uncapped_plural:0 "$district_mwe_alpha_planet_military_fortification_uncapped_plural$"
+ district_mwe_ceta_planet_military_fortification_uncapped_desc:0 "$district_mwe_alpha_planet_military_fortification_uncapped_desc$"
+  
+ district_mwe_alpha_planet_military_storage_uncapped:0 "Storage Network"
+ district_mwe_alpha_planet_military_storage_uncapped_plural:0 "Storage Networks"
+ district_mwe_alpha_planet_military_storage_uncapped_desc:0 "A vast network of drone and resource storage facilities that allow for very large amounts of resources to be held in reserve."
+ 
+ district_mwe_beta_planet_military_storage_uncapped:0 "$district_mwe_alpha_planet_military_storage_uncapped$"
+ district_mwe_beta_planet_military_storage_uncapped_plural:0 "$district_mwe_alpha_planet_military_storage_uncapped_plural$"
+ district_mwe_beta_planet_military_storage_uncapped_desc:0 "$district_mwe_alpha_planet_military_storage_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_military_storage_uncapped:0 "$district_mwe_alpha_planet_military_storage_uncapped$"
+ district_mwe_ceta_planet_military_storage_uncapped_plural:0 "$district_mwe_alpha_planet_military_storage_uncapped_plural$"
+ district_mwe_ceta_planet_military_storage_uncapped_desc:0 "$district_mwe_alpha_planet_military_storage_uncapped_desc$"
+ 
+ #UNITY#
+ 
+ district_mwe_alpha_planet_unity_uncapped:0 "Coordination Network"
+ district_mwe_alpha_planet_unity_uncapped_plural:0 "Coordination Networks"
+ district_mwe_alpha_planet_unity_uncapped_desc:0 "A vast network of drone storage and maintenance facilities capable of boosting planetary unity."
+ 
+ district_mwe_beta_planet_unity_uncapped:0 "$district_mwe_alpha_planet_unity_uncapped$"
+ district_mwe_beta_planet_unity_uncapped_plural:0 "$district_mwe_alpha_planet_unity_uncapped_plural$"
+ district_mwe_beta_planet_unity_uncapped_desc:0 "$district_mwe_alpha_planet_unity_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_unity_uncapped:0 "$district_mwe_alpha_planet_unity_uncapped$"
+ district_mwe_ceta_planet_unity_uncapped_plural:0 "$district_mwe_alpha_planet_unity_uncapped_plural$"
+ district_mwe_ceta_planet_unity_uncapped_desc:0 "$district_mwe_alpha_planet_unity_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_diplomacy_uncapped:0 "Diplomacy Network"
+ district_mwe_alpha_planet_diplomacy_uncapped_plural:0 "Diplomacy Networks"
+ district_mwe_alpha_planet_diplomacy_uncapped_desc:0 "A vast network of drone and data storage that process and storage vast amounts of organic created information granting increased organic trust capacity."
+ 
+ district_mwe_beta_planet_diplomacy_uncapped:0 "$district_mwe_alpha_planet_diplomacy_uncapped$"
+ district_mwe_beta_planet_diplomacy_uncapped_plural:0 "$district_mwe_alpha_planet_diplomacy_uncapped_plural$"
+ district_mwe_beta_planet_diplomacy_uncapped_desc:0 "$district_mwe_alpha_planet_diplomacy_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_diplomacy_uncapped:0 "$district_mwe_alpha_planet_diplomacy_uncapped$"
+ district_mwe_ceta_planet_diplomacy_uncapped_plural:0 "$district_mwe_alpha_planet_diplomacy_uncapped_plural$"
+ district_mwe_ceta_planet_diplomacy_uncapped_desc:0 "$district_mwe_alpha_planet_diplomacy_uncapped_desc$"
+  
+ district_mwe_alpha_planet_admin_uncapped:0 "Administration Network"
+ district_mwe_alpha_planet_admin_uncapped_plural:0 "Administration Networks"
+ district_mwe_alpha_planet_admin_uncapped_desc:0 "A vast network of drone storage and powerful signal boosting facilities that allows the network to better manage more systems."
+ 
+ district_mwe_beta_planet_admin_uncapped:0 "$district_mwe_alpha_planet_admin_uncapped$"
+ district_mwe_beta_planet_admin_uncapped_plural:0 "$district_mwe_alpha_planet_admin_uncapped_plural$"
+ district_mwe_beta_planet_admin_uncapped_desc:0 "$district_mwe_alpha_planet_admin_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_admin_uncapped:0 "$district_mwe_alpha_planet_admin_uncapped$"
+ district_mwe_ceta_planet_admin_uncapped_plural:0 "$district_mwe_alpha_planet_admin_uncapped_plural$"
+ district_mwe_ceta_planet_admin_uncapped_desc:0 "$district_mwe_alpha_planet_admin_uncapped_desc$"
+ 
+ #ASSIMILATOR#
+ 
+ district_mwe_alpha_planet_assimilator_science_uncapped:0 "Assimilator Research Network"
+ district_mwe_alpha_planet_assimilator_science_uncapped_plural:0 "Assimilator Networks"
+ district_mwe_alpha_planet_assimilator_science_uncapped_desc:0 "A vast network of drone and assimilated organic storage and research facilities capable of performing and processing increasingly larger amount of research."
+ 
+ district_mwe_beta_planet_assimilator_science_uncapped:0 "$district_mwe_alpha_planet_assimilator_science_uncapped$"
+ district_mwe_beta_planet_assimilator_science_uncapped_plural:0 "$district_mwe_alpha_planet_assimilator_science_uncapped_plural$"
+ district_mwe_beta_planet_assimilator_science_uncapped_desc:0 "$district_mwe_alpha_planet_assimilator_science_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_assimilator_science_uncapped:0 "$district_mwe_alpha_planet_assimilator_science_uncapped$"
+ district_mwe_ceta_planet_assimilator_science_uncapped_plural:0 "$district_mwe_alpha_planet_assimilator_science_uncapped_plural$"
+ district_mwe_ceta_planet_assimilator_science_uncapped_desc:0 "$district_mwe_alpha_planet_assimilator_science_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_assimilator_upkeep_uncapped:0 "Assimilator Upkeep Network"
+ district_mwe_alpha_planet_assimilator_upkeep_uncapped_plural:0 "Assimilator Upkeep Networks"
+ district_mwe_alpha_planet_assimilator_upkeep_uncapped_desc:0 "A vast network of drone storage and hybrid hydroponic/power generation facilities to ensure that an ever growing assimilation of knowledge and culture will not be at risk from lack of basic needs."
+ 
+ district_mwe_beta_planet_assimilator_upkeep_uncapped:0 "$district_mwe_alpha_planet_assimilator_upkeep_uncapped$"
+ district_mwe_beta_planet_assimilator_upkeep_uncapped_plural:0 "$district_mwe_alpha_planet_assimilator_upkeep_uncapped_plural$"
+ district_mwe_beta_planet_assimilator_upkeep_uncapped_desc:0 "$district_mwe_alpha_planet_assimilator_upkeep_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_assimilator_upkeep_uncapped:0 "$district_mwe_alpha_planet_assimilator_upkeep_uncapped$"
+ district_mwe_ceta_planet_assimilator_upkeep_uncapped_plural:0 "$district_mwe_alpha_planet_assimilator_upkeep_uncapped_plural$"
+ district_mwe_ceta_planet_assimilator_upkeep_uncapped_desc:0 "$district_mwe_alpha_planet_assimilator_upkeep_uncapped_desc$"
+  
+ district_mwe_alpha_planet_assimilator_lvl_exp_uncapped:0 "Assimilator Leader Network"
+ district_mwe_alpha_planet_assimilator_lvl_exp_uncapped_plural:0 "Leader Processing Networks"
+ district_mwe_alpha_planet_assimilator_lvl_exp_uncapped_desc:0 "A vast network of drone and data storage that robotic leaders are connected to granting them both increased experiance gain and the ability to reach normally unreachable levels."
+ 
+ district_mwe_beta_planet_assimilator_lvl_exp_uncapped:0 "$district_mwe_alpha_planet_assimilator_lvl_exp_uncapped$"
+ district_mwe_beta_planet_assimilator_lvl_exp_uncapped_plural:0 "$district_mwe_alpha_planet_assimilator_lvl_exp_uncapped_plural$"
+ district_mwe_beta_planet_assimilator_lvl_exp_uncapped_desc:0 "$district_mwe_alpha_planet_assimilator_lvl_exp_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_assimilator_lvl_exp_uncapped:0 "$district_mwe_alpha_planet_assimilator_lvl_exp_uncapped$"
+ district_mwe_ceta_planet_assimilator_lvl_exp_uncapped_plural:0 "$district_mwe_alpha_planet_assimilator_lvl_exp_uncapped_plural$"
+ district_mwe_ceta_planet_assimilator_lvl_exp_uncapped_desc:0 "$district_mwe_alpha_planet_assimilator_lvl_exp_uncapped_desc$"
+ 
+ #EXTERMINATOR#
+
+ district_mwe_alpha_planet_exterminator_uncapped:0 "Exterminator Network"
+ district_mwe_alpha_planet_exterminator_uncapped_plural:0 "Exterminator Networks"
+ district_mwe_alpha_planet_exterminator_uncapped_desc:0 "A vast network of hardended drone storage and naval processing facilities burried deep below planetary bedrock to both fortify the planet and allow for an increased naval capacity."
+ 
+ district_mwe_beta_planet_exterminator_uncapped:0 "$district_mwe_alpha_planet_exterminator_uncapped$"
+ district_mwe_beta_planet_exterminator_uncapped_plural:0 "$district_mwe_alpha_planet_exterminator_uncapped_plural$"
+ district_mwe_beta_planet_exterminator_uncapped_desc:0 "$district_mwe_alpha_planet_exterminator_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_exterminator_uncapped:0 "$district_mwe_alpha_planet_exterminator_uncapped$"
+ district_mwe_ceta_planet_exterminator_uncapped_plural:0 "$district_mwe_alpha_planet_exterminator_uncapped_plural$"
+ district_mwe_ceta_planet_exterminator_uncapped_desc:0 "$district_mwe_alpha_planet_exterminator_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_exterminator_storage_uncapped:0 "Exterminator Storage Network"
+ district_mwe_alpha_planet_exterminator_storage_uncapped_plural:0 "Exterminatore Networks"
+ district_mwe_alpha_planet_exterminator_storage_uncapped_desc:0 "A vast network of drone and resource storage that allow for a great stockpile of resources for use against any enemies."
+ 
+ district_mwe_beta_planet_exterminator_storage_uncapped:0 "$district_mwe_alpha_planet_exterminator_storage_uncapped$"
+ district_mwe_beta_planet_exterminator_storage_uncapped_plural:0 "$district_mwe_alpha_planet_exterminator_storage_uncapped_plural$"
+ district_mwe_beta_planet_exterminator_storage_uncapped_desc:0 "$district_mwe_alpha_planet_exterminator_storage_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_exterminator_storage_uncapped:0 "$district_mwe_alpha_planet_exterminator_storage_uncapped$"
+ district_mwe_ceta_planet_exterminator_storage_uncapped_plural:0 "$district_mwe_alpha_planet_exterminator_storage_uncapped_plural$"
+ district_mwe_ceta_planet_exterminator_storage_uncapped_desc:0 "$district_mwe_alpha_planet_exterminator_storage_uncapped_desc$"
+  
+ district_mwe_alpha_planet_exterminator_replicator_uncapped:0 "Exterminator Replication Network"
+ district_mwe_alpha_planet_exterminator_replicator_uncapped_plural:0 "Exterminator Replication Networks"
+ district_mwe_alpha_planet_exterminator_replicator_uncapped_desc:0 "A vast network of drone storage and replication facilities to ensure numerical superiority."
+ 
+ district_mwe_beta_planet_exterminator_replicator_uncapped:0 "$district_mwe_alpha_planet_exterminator_replicator_uncapped$"
+ district_mwe_beta_planet_exterminator_replicator_uncapped_plural:0 "$district_mwe_alpha_planet_exterminator_replicator_uncapped_plural$"
+ district_mwe_beta_planet_exterminator_replicator_uncapped_desc:0 "$district_mwe_alpha_planet_exterminator_replicator_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_exterminator_replicator_uncapped:0 "$district_mwe_alpha_planet_exterminator_replicator_uncapped$"
+ district_mwe_ceta_planet_exterminator_replicator_uncapped_plural:0 "$district_mwe_alpha_planet_exterminator_replicator_uncapped_plural$"
+ district_mwe_ceta_planet_exterminator_replicator_uncapped_desc:0 "$district_mwe_alpha_planet_exterminator_replicator_uncapped_desc$"
+
+ #SERVITOR#
+
+ district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped:0 "Servitor Network"
+ district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped_plural:0 "Servitor Networks"
+ district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped_desc:0 "A vast network of drone storage and organic food processing facilities to keep up with a large number of hungry Bio-Trophies."
+ 
+ district_mwe_beta_planet_servitor_trophy_upkeep_uncapped:0 "$district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped$"
+ district_mwe_beta_planet_servitor_trophy_upkeep_uncapped_plural:0 "$district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped_plural$"
+ district_mwe_beta_planet_servitor_trophy_upkeep_uncapped_desc:0 "$district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_servitor_trophy_upkeep_uncapped:0 "$district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped$"
+ district_mwe_ceta_planet_servitor_trophy_upkeep_uncapped_plural:0 "$district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped_plural$"
+ district_mwe_ceta_planet_servitor_trophy_upkeep_uncapped_desc:0 "$district_mwe_alpha_planet_servitor_trophy_upkeep_uncapped_desc$"
+ 
+ district_mwe_alpha_planet_servitor_trophies_uncapped:0 "Servitor Bio-Trophy Archology"
+ district_mwe_alpha_planet_servitor_trophies_uncapped_plural:0 "Servitor Bio-Trophy Archologies"
+ district_mwe_alpha_planet_servitor_trophies_uncapped_desc:0 "A vast utopia for a large amount of Bio-Trophies to reside nestled with a drone network to ensure they have enough goods readily avalible. Unpampered organics see the lives they could be living slowly increasing their trust of us."
+ 
+ district_mwe_beta_planet_servitor_trophies_uncapped:0 "$district_mwe_alpha_planet_servitor_trophies_uncapped$"
+ district_mwe_beta_planet_servitor_trophies_uncapped_plural:0 "$district_mwe_alpha_planet_servitor_trophies_uncapped_plural$"
+ district_mwe_beta_planet_servitor_trophies_uncapped_desc:0 "$district_mwe_alpha_planet_servitor_trophies_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_servitor_trophies_uncapped:0 "$district_mwe_alpha_planet_servitor_trophies_uncapped$"
+ district_mwe_ceta_planet_servitor_trophies_uncapped_plural:0 "$district_mwe_alpha_planet_servitor_trophies_uncapped_plural$"
+ district_mwe_ceta_planet_servitor_trophies_uncapped_desc:0 "$district_mwe_alpha_planet_servitor_trophies_uncapped_desc$"
+  
+ district_mwe_alpha_planet_servitor_admin_uncapped:0 "Servitor Administration Network"
+ district_mwe_alpha_planet_servitor_admin_uncapped_plural:0 "Servitor Administration Networks"
+ district_mwe_alpha_planet_servitor_admin_uncapped_desc:0 "A vast network of drone storage and powerful signal boosting facilities that allows the network to better manage more systems to ensure that no organic in the galaxy shall go unpampered.."
+ 
+ district_mwe_beta_planet_servitor_admin_uncapped:0 "$district_mwe_alpha_planet_servitor_admin_uncapped$"
+ district_mwe_beta_planet_servitor_admin_uncapped_plural:0 "$district_mwe_alpha_planet_servitor_admin_uncapped_plural$"
+ district_mwe_beta_planet_servitor_admin_uncapped_desc:0 "$district_mwe_alpha_planet_servitor_admin_uncapped_desc$"
+ 
+ district_mwe_ceta_planet_servitor_admin_uncapped:0 "$district_mwe_alpha_planet_servitor_admin_uncapped$"
+ district_mwe_ceta_planet_servitor_admin_uncapped_plural:0 "$district_mwe_alpha_planet_servitor_admin_uncapped_plural$"
+ district_mwe_ceta_planet_servitor_admin_uncapped_desc:0 "$district_mwe_alpha_planet_servitor_admin_uncapped_desc$"
+ 
+ #HABITAT DISTRICTS#
+ #ENERGY#
+ 
+ district_mwe_alpha_habitat_generator_uncapped:0 "Energy Network"
+ district_mwe_alpha_habitat_generator_uncapped_plural:0 "Energy Networks"
+ district_mwe_alpha_habitat_generator_uncapped_desc:0 "A vast network of drone storage and energy production facilities capable of generating increasingly larger amounts of energy."
+ 
+ district_mwe_beta_habitat_generator_uncapped:0 "$district_mwe_alpha_habitat_generator_uncapped$"
+ district_mwe_beta_habitat_generator_uncapped_plural:0 "$district_mwe_alpha_habitat_generator_uncapped_plural$"
+ district_mwe_beta_habitat_generator_uncapped_desc:0 "$district_mwe_alpha_habitat_generator_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_generator_uncapped:0 "$district_mwe_alpha_habitat_generator_uncapped$"
+ district_mwe_ceta_habitat_generator_uncapped_plural:0 "$district_mwe_alpha_habitat_generator_uncapped_plural$"
+ district_mwe_ceta_habitat_generator_uncapped_desc:0 "$district_mwe_alpha_habitat_generator_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_terraforming_uncapped:0 "Terraformation Support Network"
+ district_mwe_alpha_habitat_terraforming_uncapped_plural:0 "Terraformation Support Networks"
+ district_mwe_alpha_habitat_terraforming_uncapped_desc:0 "A vast network of drone storage and terraforming equipment facilities capable of increasing the speed at which worlds are terraformed."
+ 
+ district_mwe_beta_habitat_terraforming_uncapped:0 "$district_mwe_alpha_habitat_terraforming_uncapped$"
+ district_mwe_beta_habitat_terraforming_uncapped_plural:0 "$district_mwe_alpha_habitat_terraforming_uncapped_plural$"
+ district_mwe_beta_habitat_terraforming_uncapped_desc:0 "$district_mwe_alpha_habitat_terraforming_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_terraforming_uncapped:0 "$district_mwe_alpha_habitat_terraforming_uncapped$"
+ district_mwe_ceta_habitat_terraforming_uncapped_plural:0 "$district_mwe_alpha_habitat_terraforming_uncapped_plural$"
+ district_mwe_ceta_habitat_terraforming_uncapped_desc:0 "$district_mwe_alpha_habitat_terraforming_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_megastructure_uncapped:0 "Megastructure Support Network"
+ district_mwe_alpha_habitat_megastructure_uncapped_plural:0 "Megastructure Support Networks"
+ district_mwe_alpha_habitat_megastructure_uncapped_desc:0 "A vast network of drone storage and megastructure equipment facilities capable of increasing the speed at which megastructures are created."
+ 
+ district_mwe_beta_habitat_megastructure_uncapped:0 "$district_mwe_alpha_habitat_megastructure_uncapped$"
+ district_mwe_beta_habitat_megastructure_uncapped_plural:0 "$district_mwe_alpha_habitat_megastructure_uncapped_plural$"
+ district_mwe_beta_habitat_megastructure_uncapped_desc:0 "$district_mwe_alpha_habitat_megastructure_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_megastructure_uncapped:0 "$district_mwe_alpha_habitat_megastructure_uncapped$"
+ district_mwe_ceta_habitat_megastructure_uncapped_plural:0 "$district_mwe_alpha_habitat_megastructure_uncapped_plural$"
+ district_mwe_ceta_habitat_megastructure_uncapped_desc:0 "$district_mwe_alpha_habitat_megastructure_uncapped_desc$"
+ 
+ #MINING#
+ 
+ district_mwe_alpha_habitat_mining_uncapped:0 "Mineral Network"
+ district_mwe_alpha_habitat_mining_uncapped_plural:0 "Mineral Networks"
+ district_mwe_alpha_habitat_mining_uncapped_desc:0 "A vast network of drone storage and mineral extraction facilities capable of extracting increasingly larger amounts of raw minerals."
+ 
+ district_mwe_beta_habitat_mining_uncapped:0 "$district_mwe_alpha_habitat_mining_uncapped$"
+ district_mwe_beta_habitat_mining_uncapped_plural:0 "$district_mwe_alpha_habitat_mining_uncapped_plural$"
+ district_mwe_beta_habitat_mining_uncapped_desc:0 "$district_mwe_alpha_habitat_mining_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_mining_uncapped:0 "$district_mwe_alpha_habitat_mining_uncapped$"
+ district_mwe_ceta_habitat_mining_uncapped_plural:0 "$district_mwe_alpha_habitat_mining_uncapped_plural$"
+ district_mwe_ceta_habitat_mining_uncapped_desc:0 "$district_mwe_alpha_habitat_mining_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_alloy_uncapped:0 "Foundry Network"
+ district_mwe_alpha_habitat_alloy_uncapped_plural:0 "Foundry Networks"
+ district_mwe_alpha_habitat_alloy_uncapped_desc:0 "A vast network of drone storage and foundries capable of processing large amounts of minerals into useful alloys."
+ 
+ district_mwe_beta_habitat_alloy_uncapped:0 "$district_mwe_alpha_habitat_alloy_uncapped$"
+ district_mwe_beta_habitat_alloy_uncapped_plural:0 "$district_mwe_alpha_habitat_alloy_uncapped_plural$"
+ district_mwe_beta_habitat_alloy_uncapped_desc:0 "$district_mwe_alpha_habitat_alloy_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_alloy_uncapped:0 "$district_mwe_alpha_habitat_alloy_uncapped$"
+ district_mwe_ceta_habitat_alloy_uncapped_plural:0 "$district_mwe_alpha_habitat_alloy_uncapped_plural$"
+ district_mwe_ceta_habitat_alloy_uncapped_desc:0 "$district_mwe_alpha_habitat_alloy_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_sr_uncapped:0 "Strategic Production Network"
+ district_mwe_alpha_habitat_sr_uncapped_plural:0 "Strategic Production Networks"
+ district_mwe_alpha_habitat_sr_uncapped_desc:0 "A vast network of drone storage and facilities capable of processing large amounts of minerals into the three basic major galactic resources."
+ 
+ district_mwe_beta_habitat_sr_uncapped:0 "$district_mwe_alpha_habitat_sr_uncapped$"
+ district_mwe_beta_habitat_sr_uncapped_plural:0 "$district_mwe_alpha_habitat_sr_uncapped_plural$"
+ district_mwe_beta_habitat_sr_uncapped_desc:0 "$district_mwe_alpha_habitat_sr_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_sr_uncapped:0 "$district_mwe_alpha_habitat_sr_uncapped$"
+ district_mwe_ceta_habitat_sr_uncapped_plural:0 "$district_mwe_alpha_habitat_sr_uncapped_plural$"
+ district_mwe_ceta_habitat_sr_uncapped_desc:0 "$district_mwe_alpha_habitat_sr_uncapped_desc$"
+ 
+ #SCIENCE#
+ 
+ district_mwe_alpha_habitat_science_uncapped:0 "Research Network"
+ district_mwe_alpha_habitat_science_uncapped_plural:0 "Research Networks"
+ district_mwe_alpha_habitat_science_uncapped_desc:0 "A vast network of drone storage and research facilities capable of performing and processing increasingly larger amount of research."
+ 
+ district_mwe_beta_habitat_science_uncapped:0 "$district_mwe_alpha_habitat_science_uncapped$"
+ district_mwe_beta_habitat_science_uncapped_plural:0 "$district_mwe_alpha_habitat_science_uncapped_plural$"
+ district_mwe_beta_habitat_science_uncapped_desc:0 "$district_mwe_alpha_habitat_science_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_science_uncapped:0 "$district_mwe_alpha_habitat_science_uncapped$"
+ district_mwe_ceta_habitat_science_uncapped_plural:0 "$district_mwe_alpha_habitat_science_uncapped_plural$"
+ district_mwe_ceta_habitat_science_uncapped_desc:0 "$district_mwe_alpha_habitat_science_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_science_lvl_uncapped:0 "Leader Knowledge Network"
+ district_mwe_alpha_habitat_science_lvl_uncapped_plural:0 "Leader Knowledge Networks"
+ district_mwe_alpha_habitat_science_lvl_uncapped_desc:0 "A vast network of drone and data storage that work to allow leaders to reach higher levels of experiance normally unreachable."
+ 
+ district_mwe_beta_habitat_science_lvl_uncapped:0 "$district_mwe_alpha_habitat_science_lvl_uncapped$"
+ district_mwe_beta_habitat_science_lvl_uncapped_plural:0 "$district_mwe_alpha_habitat_science_lvl_uncapped_plural$"
+ district_mwe_beta_habitat_science_lvl_uncapped_desc:0 "$district_mwe_alpha_habitat_science_lvl_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_science_lvl_uncapped:0 "$district_mwe_alpha_habitat_science_lvl_uncapped$"
+ district_mwe_ceta_habitat_science_lvl_uncapped_plural:0 "$district_mwe_alpha_habitat_science_lvl_uncapped_plural$"
+ district_mwe_ceta_habitat_science_lvl_uncapped_desc:0 "$district_mwe_alpha_habitat_science_lvl_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_science_exp_uncapped:0 "Leader Processing Network"
+ district_mwe_alpha_habitat_science_exp_uncapped_plural:0 "Leader Processing Networks"
+ district_mwe_alpha_habitat_science_exp_uncapped_desc:0 "A vast network of drone storage that robotic leaders are connected to enabling them to process larger amounts of information allowing them to gain experiance at an increased rate."
+ 
+ district_mwe_beta_habitat_science_exp_uncapped:0 "$district_mwe_alpha_habitat_science_exp_uncapped$"
+ district_mwe_beta_habitat_science_exp_uncapped_plural:0 "$district_mwe_alpha_habitat_science_exp_uncapped_plural$"
+ district_mwe_beta_habitat_science_exp_uncapped_desc:0 "$district_mwe_alpha_habitat_science_exp_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_science_exp_uncapped:0 "$district_mwe_alpha_habitat_science_exp_uncapped$"
+ district_mwe_ceta_habitat_science_exp_uncapped_plural:0 "$district_mwe_alpha_habitat_science_exp_uncapped_plural$"
+ district_mwe_ceta_habitat_science_exp_uncapped_desc:0 "$district_mwe_alpha_habitat_science_exp_uncapped_desc$"
+
+ #MILITARY#
+ 
+ district_mwe_alpha_habitat_military_naval_uncapped:0 "Naval Network"
+ district_mwe_alpha_habitat_military_naval_uncapped_plural:0 "Naval Networks"
+ district_mwe_alpha_habitat_military_naval_uncapped_desc:0 "A vast network of drone storage and facilities dedicated to increasing the number of ships that can be managed efficiently."
+ 
+ district_mwe_beta_habitat_military_naval_uncapped:0 "$district_mwe_alpha_habitat_military_naval_uncapped$"
+ district_mwe_beta_habitat_military_naval_uncapped_plural:0 "$district_mwe_alpha_habitat_military_naval_uncapped_plural$"
+ district_mwe_beta_habitat_military_naval_uncapped_desc:0 "$district_mwe_alpha_habitat_military_naval_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_military_naval_uncapped:0 "$district_mwe_alpha_habitat_military_naval_uncapped$"
+ district_mwe_ceta_habitat_military_naval_uncapped_plural:0 "$district_mwe_alpha_habitat_military_naval_uncapped_plural$"
+ district_mwe_ceta_habitat_military_naval_uncapped_desc:0 "$district_mwe_alpha_habitat_military_naval_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_military_fortification_uncapped:0 "Bunker Network"
+ district_mwe_alpha_habitat_military_fortification_uncapped_plural:0 "Bunker Networks"
+ district_mwe_alpha_habitat_military_fortification_uncapped_desc:0 "A vast, hardened, network of drone storage that is capable making a ground invasion near impossible without a very lengthy bombardment."
+ 
+ district_mwe_beta_habitat_military_fortification_uncapped:0 "$district_mwe_alpha_habitat_military_fortification_uncapped$"
+ district_mwe_beta_habitat_military_fortification_uncapped_plural:0 "$district_mwe_alpha_habitat_military_fortification_uncapped_plural$"
+ district_mwe_beta_habitat_military_fortification_uncapped_desc:0 "$district_mwe_alpha_habitat_military_fortification_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_military_fortification_uncapped:0 "$district_mwe_alpha_habitat_military_fortification_uncapped$"
+ district_mwe_ceta_habitat_military_fortification_uncapped_plural:0 "$district_mwe_alpha_habitat_military_fortification_uncapped_plural$"
+ district_mwe_ceta_habitat_military_fortification_uncapped_desc:0 "$district_mwe_alpha_habitat_military_fortification_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_military_storage_uncapped:0 "Storage Network"
+ district_mwe_alpha_habitat_military_storage_uncapped_plural:0 "Storage Networks"
+ district_mwe_alpha_habitat_military_storage_uncapped_desc:0 "A vast network of drone and resource storage facilities that allow for very large amounts of resources to be held in reserve."
+ 
+ district_mwe_beta_habitat_military_storage_uncapped:0 "$district_mwe_alpha_habitat_military_storage_uncapped$"
+ district_mwe_beta_habitat_military_storage_uncapped_plural:0 "$district_mwe_alpha_habitat_military_storage_uncapped_plural$"
+ district_mwe_beta_habitat_military_storage_uncapped_desc:0 "$district_mwe_alpha_habitat_military_storage_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_military_storage_uncapped:0 "$district_mwe_alpha_habitat_military_storage_uncapped$"
+ district_mwe_ceta_habitat_military_storage_uncapped_plural:0 "$district_mwe_alpha_habitat_military_storage_uncapped_plural$"
+ district_mwe_ceta_habitat_military_storage_uncapped_desc:0 "$district_mwe_alpha_habitat_military_storage_uncapped_desc$"
+ 
+ #UNITY#
+ 
+ district_mwe_alpha_habitat_unity_uncapped:0 "Coordination Network"
+ district_mwe_alpha_habitat_unity_uncapped_plural:0 "Coordination Networks"
+ district_mwe_alpha_habitat_unity_uncapped_desc:0 "A vast network of drone storage and maintenance facilities capable of boosting habitatary unity."
+ 
+ district_mwe_beta_habitat_unity_uncapped:0 "$district_mwe_alpha_habitat_unity_uncapped$"
+ district_mwe_beta_habitat_unity_uncapped_plural:0 "$district_mwe_alpha_habitat_unity_uncapped_plural$"
+ district_mwe_beta_habitat_unity_uncapped_desc:0 "$district_mwe_alpha_habitat_unity_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_unity_uncapped:0 "$district_mwe_alpha_habitat_unity_uncapped$"
+ district_mwe_ceta_habitat_unity_uncapped_plural:0 "$district_mwe_alpha_habitat_unity_uncapped_plural$"
+ district_mwe_ceta_habitat_unity_uncapped_desc:0 "$district_mwe_alpha_habitat_unity_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_diplomacy_uncapped:0 "Diplomacy Network"
+ district_mwe_alpha_habitat_diplomacy_uncapped_plural:0 "Diplomacy Networks"
+ district_mwe_alpha_habitat_diplomacy_uncapped_desc:0 "A vast network of drone and data storage that process and storage vast amounts of organic created information granting increased organic trust capacity."
+ 
+ district_mwe_beta_habitat_diplomacy_uncapped:0 "$district_mwe_alpha_habitat_diplomacy_uncapped$"
+ district_mwe_beta_habitat_diplomacy_uncapped_plural:0 "$district_mwe_alpha_habitat_diplomacy_uncapped_plural$"
+ district_mwe_beta_habitat_diplomacy_uncapped_desc:0 "$district_mwe_alpha_habitat_diplomacy_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_diplomacy_uncapped:0 "$district_mwe_alpha_habitat_diplomacy_uncapped$"
+ district_mwe_ceta_habitat_diplomacy_uncapped_plural:0 "$district_mwe_alpha_habitat_diplomacy_uncapped_plural$"
+ district_mwe_ceta_habitat_diplomacy_uncapped_desc:0 "$district_mwe_alpha_habitat_diplomacy_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_admin_uncapped:0 "Administration Network"
+ district_mwe_alpha_habitat_admin_uncapped_plural:0 "Administration Networks"
+ district_mwe_alpha_habitat_admin_uncapped_desc:0 "A vast network of drone storage and powerful signal boosting facilities that allows the network to better manage more systems."
+ 
+ district_mwe_beta_habitat_admin_uncapped:0 "$district_mwe_alpha_habitat_admin_uncapped$"
+ district_mwe_beta_habitat_admin_uncapped_plural:0 "$district_mwe_alpha_habitat_admin_uncapped_plural$"
+ district_mwe_beta_habitat_admin_uncapped_desc:0 "$district_mwe_alpha_habitat_admin_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_admin_uncapped:0 "$district_mwe_alpha_habitat_admin_uncapped$"
+ district_mwe_ceta_habitat_admin_uncapped_plural:0 "$district_mwe_alpha_habitat_admin_uncapped_plural$"
+ district_mwe_ceta_habitat_admin_uncapped_desc:0 "$district_mwe_alpha_habitat_admin_uncapped_desc$"
+ 
+ #ASSIMILATOR#
+ 
+ district_mwe_alpha_habitat_assimilator_science_uncapped:0 "Assimilator Research Network"
+ district_mwe_alpha_habitat_assimilator_science_uncapped_plural:0 "Assimilator Networks"
+ district_mwe_alpha_habitat_assimilator_science_uncapped_desc:0 "A vast network of drone and assimilated organic storage and research facilities capable of performing and processing increasingly larger amount of research."
+ 
+ district_mwe_beta_habitat_assimilator_science_uncapped:0 "$district_mwe_alpha_habitat_assimilator_science_uncapped$"
+ district_mwe_beta_habitat_assimilator_science_uncapped_plural:0 "$district_mwe_alpha_habitat_assimilator_science_uncapped_plural$"
+ district_mwe_beta_habitat_assimilator_science_uncapped_desc:0 "$district_mwe_alpha_habitat_assimilator_science_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_assimilator_science_uncapped:0 "$district_mwe_alpha_habitat_assimilator_science_uncapped$"
+ district_mwe_ceta_habitat_assimilator_science_uncapped_plural:0 "$district_mwe_alpha_habitat_assimilator_science_uncapped_plural$"
+ district_mwe_ceta_habitat_assimilator_science_uncapped_desc:0 "$district_mwe_alpha_habitat_assimilator_science_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_assimilator_upkeep_uncapped:0 "Assimilator Upkeep Network"
+ district_mwe_alpha_habitat_assimilator_upkeep_uncapped_plural:0 "Assimilator Upkeep Networks"
+ district_mwe_alpha_habitat_assimilator_upkeep_uncapped_desc:0 "A vast network of drone storage and hybrid hydroponic/power generation facilities to ensure that an ever growing assimilation of knowledge and culture will not be at risk from lack of basic needs."
+ 
+ district_mwe_beta_habitat_assimilator_upkeep_uncapped:0 "$district_mwe_alpha_habitat_assimilator_upkeep_uncapped$"
+ district_mwe_beta_habitat_assimilator_upkeep_uncapped_plural:0 "$district_mwe_alpha_habitat_assimilator_upkeep_uncapped_plural$"
+ district_mwe_beta_habitat_assimilator_upkeep_uncapped_desc:0 "$district_mwe_alpha_habitat_assimilator_upkeep_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_assimilator_upkeep_uncapped:0 "$district_mwe_alpha_habitat_assimilator_upkeep_uncapped$"
+ district_mwe_ceta_habitat_assimilator_upkeep_uncapped_plural:0 "$district_mwe_alpha_habitat_assimilator_upkeep_uncapped_plural$"
+ district_mwe_ceta_habitat_assimilator_upkeep_uncapped_desc:0 "$district_mwe_alpha_habitat_assimilator_upkeep_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped:0 "Assimilator Leader Network"
+ district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped_plural:0 "Leader Processing Networks"
+ district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped_desc:0 "A vast network of drone and data storage that robotic leaders are connected to granting them both increased experiance gain and the ability to reach normally unreachable levels."
+ 
+ district_mwe_beta_habitat_assimilator_lvl_exp_uncapped:0 "$district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped$"
+ district_mwe_beta_habitat_assimilator_lvl_exp_uncapped_plural:0 "$district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped_plural$"
+ district_mwe_beta_habitat_assimilator_lvl_exp_uncapped_desc:0 "$district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_assimilator_lvl_exp_uncapped:0 "$district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped$"
+ district_mwe_ceta_habitat_assimilator_lvl_exp_uncapped_plural:0 "$district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped_plural$"
+ district_mwe_ceta_habitat_assimilator_lvl_exp_uncapped_desc:0 "$district_mwe_alpha_habitat_assimilator_lvl_exp_uncapped_desc$"
+ 
+ #EXTERMINATOR#
+
+ district_mwe_alpha_habitat_exterminator_uncapped:0 "Exterminator Network"
+ district_mwe_alpha_habitat_exterminator_uncapped_plural:0 "Exterminator Networks"
+ district_mwe_alpha_habitat_exterminator_uncapped_desc:0 "A vast network of hardended drone storage and naval processing facilities burried deep below habitatary bedrock to both fortify the habitat and allow for an increased naval capacity."
+ 
+ district_mwe_beta_habitat_exterminator_uncapped:0 "$district_mwe_alpha_habitat_exterminator_uncapped$"
+ district_mwe_beta_habitat_exterminator_uncapped_plural:0 "$district_mwe_alpha_habitat_exterminator_uncapped_plural$"
+ district_mwe_beta_habitat_exterminator_uncapped_desc:0 "$district_mwe_alpha_habitat_exterminator_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_exterminator_uncapped:0 "$district_mwe_alpha_habitat_exterminator_uncapped$"
+ district_mwe_ceta_habitat_exterminator_uncapped_plural:0 "$district_mwe_alpha_habitat_exterminator_uncapped_plural$"
+ district_mwe_ceta_habitat_exterminator_uncapped_desc:0 "$district_mwe_alpha_habitat_exterminator_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_exterminator_storage_uncapped:0 "Exterminator Storage Network"
+ district_mwe_alpha_habitat_exterminator_storage_uncapped_plural:0 "Exterminatore Networks"
+ district_mwe_alpha_habitat_exterminator_storage_uncapped_desc:0 "A vast network of drone and resource storage that allow for a great stockpile of resources for use against any enemies."
+ 
+ district_mwe_beta_habitat_exterminator_storage_uncapped:0 "$district_mwe_alpha_habitat_exterminator_storage_uncapped$"
+ district_mwe_beta_habitat_exterminator_storage_uncapped_plural:0 "$district_mwe_alpha_habitat_exterminator_storage_uncapped_plural$"
+ district_mwe_beta_habitat_exterminator_storage_uncapped_desc:0 "$district_mwe_alpha_habitat_exterminator_storage_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_exterminator_storage_uncapped:0 "$district_mwe_alpha_habitat_exterminator_storage_uncapped$"
+ district_mwe_ceta_habitat_exterminator_storage_uncapped_plural:0 "$district_mwe_alpha_habitat_exterminator_storage_uncapped_plural$"
+ district_mwe_ceta_habitat_exterminator_storage_uncapped_desc:0 "$district_mwe_alpha_habitat_exterminator_storage_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_exterminator_replicator_uncapped:0 "Exterminator Replication Network"
+ district_mwe_alpha_habitat_exterminator_replicator_uncapped_plural:0 "Exterminator Replication Networks"
+ district_mwe_alpha_habitat_exterminator_replicator_uncapped_desc:0 "A vast network of drone storage and replication facilities to ensure numerical superiority."
+ 
+ district_mwe_beta_habitat_exterminator_replicator_uncapped:0 "$district_mwe_alpha_habitat_exterminator_replicator_uncapped$"
+ district_mwe_beta_habitat_exterminator_replicator_uncapped_plural:0 "$district_mwe_alpha_habitat_exterminator_replicator_uncapped_plural$"
+ district_mwe_beta_habitat_exterminator_replicator_uncapped_desc:0 "$district_mwe_alpha_habitat_exterminator_replicator_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_exterminator_replicator_uncapped:0 "$district_mwe_alpha_habitat_exterminator_replicator_uncapped$"
+ district_mwe_ceta_habitat_exterminator_replicator_uncapped_plural:0 "$district_mwe_alpha_habitat_exterminator_replicator_uncapped_plural$"
+ district_mwe_ceta_habitat_exterminator_replicator_uncapped_desc:0 "$district_mwe_alpha_habitat_exterminator_replicator_uncapped_desc$"
+
+ #SERVITOR#
+
+ district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped:0 "Servitor Network"
+ district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped_plural:0 "Servitor Networks"
+ district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped_desc:0 "A vast network of drone storage and organic food processing facilities to keep up with a large number of hungry Bio-Trophies."
+ 
+ district_mwe_beta_habitat_servitor_trophy_upkeep_uncapped:0 "$district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped$"
+ district_mwe_beta_habitat_servitor_trophy_upkeep_uncapped_plural:0 "$district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped_plural$"
+ district_mwe_beta_habitat_servitor_trophy_upkeep_uncapped_desc:0 "$district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_servitor_trophy_upkeep_uncapped:0 "$district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped$"
+ district_mwe_ceta_habitat_servitor_trophy_upkeep_uncapped_plural:0 "$district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped_plural$"
+ district_mwe_ceta_habitat_servitor_trophy_upkeep_uncapped_desc:0 "$district_mwe_alpha_habitat_servitor_trophy_upkeep_uncapped_desc$"
+ 
+ district_mwe_alpha_habitat_servitor_trophies_uncapped:0 "Servitor Bio-Trophy Archology"
+ district_mwe_alpha_habitat_servitor_trophies_uncapped_plural:0 "Servitor Bio-Trophy Archologies"
+ district_mwe_alpha_habitat_servitor_trophies_uncapped_desc:0 "A vast utopia for a large amount of Bio-Trophies to reside nestled with a drone network to ensure they have enough goods readily avalible. Unpampered organics see the lives they could be living slowly increasing their trust of us."
+ 
+ district_mwe_beta_habitat_servitor_trophies_uncapped:0 "$district_mwe_alpha_habitat_servitor_trophies_uncapped$"
+ district_mwe_beta_habitat_servitor_trophies_uncapped_plural:0 "$district_mwe_alpha_habitat_servitor_trophies_uncapped_plural$"
+ district_mwe_beta_habitat_servitor_trophies_uncapped_desc:0 "$district_mwe_alpha_habitat_servitor_trophies_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_servitor_trophies_uncapped:0 "$district_mwe_alpha_habitat_servitor_trophies_uncapped$"
+ district_mwe_ceta_habitat_servitor_trophies_uncapped_plural:0 "$district_mwe_alpha_habitat_servitor_trophies_uncapped_plural$"
+ district_mwe_ceta_habitat_servitor_trophies_uncapped_desc:0 "$district_mwe_alpha_habitat_servitor_trophies_uncapped_desc$"
+  
+ district_mwe_alpha_habitat_servitor_admin_uncapped:0 "Servitor Administration Network"
+ district_mwe_alpha_habitat_servitor_admin_uncapped_plural:0 "Servitor Administration Networks"
+ district_mwe_alpha_habitat_servitor_admin_uncapped_desc:0 "A vast network of drone storage and powerful signal boosting facilities that allows the network to better manage more systems to ensure that no organic in the galaxy shall go unpampered.."
+ 
+ district_mwe_beta_habitat_servitor_admin_uncapped:0 "$district_mwe_alpha_habitat_servitor_admin_uncapped$"
+ district_mwe_beta_habitat_servitor_admin_uncapped_plural:0 "$district_mwe_alpha_habitat_servitor_admin_uncapped_plural$"
+ district_mwe_beta_habitat_servitor_admin_uncapped_desc:0 "$district_mwe_alpha_habitat_servitor_admin_uncapped_desc$"
+ 
+ district_mwe_ceta_habitat_servitor_admin_uncapped:0 "$district_mwe_alpha_habitat_servitor_admin_uncapped$"
+ district_mwe_ceta_habitat_servitor_admin_uncapped_plural:0 "$district_mwe_alpha_habitat_servitor_admin_uncapped_plural$"
+ district_mwe_ceta_habitat_servitor_admin_uncapped_desc:0 "$district_mwe_alpha_habitat_servitor_admin_uncapped_desc$"
+ 
+ district_city:0 "City District"
+ district_city_plural:0 "City Districts"
+ district_city_desc:0 "These dense urban centers provide large amounts of housing and office space for clerical workers."
+ district_arcology_housing:0 "Residential Arcology"
+ district_arcology_housing_plural:0 "Residential Arcologies"
+ district_arcology_housing_desc:0 "With these special ecumenopolistic city districts, integrated vertical architecture is utilized to maximize population density over land surface area."
+ district_arcology_arms_industry:0 "Foundry Arcology"
+ district_arcology_arms_industry_plural:0 "Foundry Arcologies"
+ district_arcology_arms_industry_desc:0 "Geared towards military industries, this ecumenopolistic district is filled with the roar of smelters and the clang of metallurgies."
+ district_arcology_civilian_industry:0 "Industrial Arcology"
+ district_arcology_civilian_industry_plural:0 "Industrial Arcologies"
+ district_arcology_civilian_industry_desc:0 "Workshops filled with artisans and civilian industries line the stacked streets of this district."
+ district_arcology_leisure:0 "Leisure Arcology"
+ district_arcology_leisure_plural:0 "Leisure Arcologies"
+ district_arcology_leisure_desc:0 "Where denizens of the ecumenopolis unwind in their leisure hours."
+ district_mining:0 "Mining District"
+ district_mining_plural:0 "Mining Districts"
+ district_mining_desc:0 "These mining towns and resource extraction centers drill deep into the mantle to access mineral deposits."
+ mod_district_mining_max:0 "Max $district_mining_plural$"
+ district_mining_uncapped:0 "$district_mining$"
+ district_mining_uncapped_plural:0 "$district_mining_plural$"
+ district_mining_uncapped_desc:0 "$district_mining_desc$"
+ district_farming:0 "Agriculture District"
+ district_farming_plural:0 "Agriculture Districts"
+ district_farming_desc:0 "Land set aside for cultivation, either through the growing of crops or animal husbandry."
+ district_farming_uncapped:0 "$district_farming$"
+ district_farming_uncapped_plural:0 "$district_farming_plural$"
+ district_farming_uncapped_desc:0 "$district_farming_desc$"
+ mod_district_farming_max:0 "Max $district_farming_plural$"
+ district_generator:0 "Generator District"
+ district_generator_plural:0 "Generator Districts"
+ district_generator_desc:0 "Rows of massive power plants that generate large amounts of energy which can then be used or converted into energy credits."
+ mod_district_generator_max:0 "Max $district_generator_plural$"
+ district_generator_uncapped:0 "$district_generator$"
+ district_generator_uncapped_plural:0 "$district_generator_plural$"
+ district_generator_uncapped_desc:0 "$district_generator_desc$"
+ district_hive:0 "Hive District"
+ district_hive_plural:0 "Hive Districts"
+ district_hive_desc:0 "These towering spires are where the drones gather when not working to rejuvenate and consume nutrients."
+ district_mwe_nexus:0 "Nexus District"
+ district_mwe_nexus_plural:0 "Nexus Districts"
+ district_mwe_nexus_desc:0 "Centralized districts where drones are serviced and repaired before they are deployed to their work assignments."
+ 
+ 
+ mwe_generator:0 "Generator World"
+ mwe_generator_desc:1 "Power plants and batteries have been set up to feed the economy of an ever-growing empire."
+ mwe_generator_1:0 "Generator Center"
+ mwe_generator_1_desc:1 "Nigh-endless complexes of generator plants hum and glow on this planet."
+ mwe_generator_2:0 "Generator Core"
+ mwe_generator_2_desc:1 "This world fuels the empire with vast amounts of raw electrical power."
+ 
+ d_for_bad_ai:0 "£blocker  Bad AI"
+ d_for_bad_ai_desc:0 "To prevent the AI from building outside of your sight range."
+ 
+ d_backup:0 "£blocker  Energy Mineral Backup"
+ d_backup_desc:0 "To allow the game to properly convert energy and mineral districts."

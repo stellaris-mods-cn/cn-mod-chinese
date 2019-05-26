@@ -45,6 +45,16 @@
  edict_voluntary_work_scheme_desc:0 "§L这完全是自愿的。我们会对你撒谎吗?§!"
  edict_psionic_heritage_fix:0 "灵能遗产修复"
  edict_psionic_heritage_fix_desc:0 "你开始了一款灵能传承的游戏，而在补丁中你失去了建造学院的能力?这条法令会给你心灵研究的技术如果你错过了它"
-
-
-
+ edict_ex_arcane_zro:0 "泽洛嬗变古技术"
+ edict_ex_arcane_zro_desc:0 "§L我们已经发现，通过将心灵能量集中在一种特定的£gpm_arcane_technology §B先驱者考古技术§!排列上§! ，§L我们可以提取微量的£sr_zro §!§H泽洛§!§L随着时间的推移。§!\n§L...但这是否意味着考古技术是由泽洛制成的，还是泽洛被重新用于考古技术?§!"
+ edict_ex_arcane_acquisition:0 "考古技术收购"
+ edict_ex_arcane_acquisition_desc:0 "§L这台智械有一种不可思议的本领，能精确找到丢失的古代技术贮藏物。要么它知道如何扫描，要么它有很长的内存。§!"
+ edict_ex_arcane_augmentation:0 "Archeotech Augmentation"
+ edict_ex_arcane_augmentation_desc:0 "§L通过对§! £gpm_arcane_technology §B先驱者考古技术§!§L的大量投资，这台机器可以在未来几个世纪改善我们的基础设施。§!"
+ op_zro_country_modifier:0 "泽洛转化"
+ mod_country_base_sr_zro_produces_add:0 "每月£sr_zro §H泽洛§!"
+ mod_country_base_gpm_arcane_technology_produces_add:0 "每月£gpm_arcane_technology §B先驱者考古技术§!"
+ mod_country_base_sr_living_metal_produces_add:0 "每月£sr_living_metal活性金属"
+ mod_country_base_nanites_produces_add:0 "每月£nanites纳米"
+ edict_ex_arcane_nanotech_manipulation:0 "考古技术纳米技术操纵"
+ edict_ex_arcane_nanotech_manipulation_desc:0 "§L起初我们认为实验过程完全破坏了§! £gpm_arcane_technology §B先驱者考古技术§!§L，但它完全变成了另一种东西。一种可以毫不费力地改变其分子构成的物质。§!"

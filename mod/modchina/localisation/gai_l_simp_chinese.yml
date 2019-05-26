@@ -3,25 +3,47 @@ describe_decision_gai_alloy:0 "告诉星区AI将该星球建造为以合金生�
 decision_gai_alloy:0 "GAI 合金焦点"
 decision_gai_alloy_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
 
-describe_decision_gai_alloy_remove:0 "移除该星球的合金焦点"
-decision_gai_alloy_remove:0 "移除合金焦点"
-decision_gai_alloy_remove_desc:0 "移除该星球合金焦点标志"
+
 
 describe_decision_gai_goods:0 "告诉星区AI将该星球建造为以消费品生产为焦点的星球。"
 decision_gai_goods:0 "GAI 消费品焦点"
 decision_gai_goods_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
 
-describe_decision_gai_goods_remove:0 "移除该星球的消费品焦点"
-decision_gai_goods_remove:0 "移除消费品焦点"
-decision_gai_goods_remove_desc:0 "移除该星球消费品焦点标志"
 
 st_balanced:0 "使用 GAI"
 st_balanced_desc:0 "该星区将会使用Glavius's Ultimate AI mod简化版本的建筑权重。、"
 
 gai_goods_focus:0 "消费品焦点"
 decision_gai_goods_focus:0 "使用决策使焦点失效"
-gai_goods_focus_desc:0 "该焦点仅能在平衡星区焦点设置下使用！
+gai_goods_focus_desc:0 "该焦点仅能在平衡星区焦点设置下使用！"
 
 gai_alloy_focus:0 "合金焦点"
 decision_gai_alloy_focus:0 "使用决策使焦点失效"
 gai_alloy_focus_desc:0 "该焦点仅能在平衡星区焦点设置下使用！"
+
+decision_gai_fleet:0 "舰队焦点"
+decision_gai_fleet_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
+
+
+describe_decision_gai_fleet:0 "告诉星区AI将该星球建造为以舰队焦点的星球。"
+gai_fleet_focus:0 "GAI 舰队焦点"
+gai_fleet_focus_desc:0 "使用决策使焦点失效"
+gai_fleet_focus_desc:0 "使用决策使焦点失效"
+
+decision_gai_unity:0 "GAI 凝聚力焦点"
+decision_gai_unity_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
+describe_decision_gai_unity:0 "告诉星区AI将该星球建造为以凝聚力焦点的星球。"
+gai_unity_focus:0 "凝聚力焦点"
+gai_unity_focus_desc:0 "使用决策使焦点失效"
+gai_unity_focus_desc:0 "使用决策使焦点失效"
+
+decision_gai_tech:0 "GAI 科技焦点"
+decision_gai_tech_desc:0 "必须在选择平衡星区焦点时使用。其他时候不起作用。"
+describe_decision_gai_tech:0 "告诉星区AI将该星球建造为以科技焦点的星球。"
+gai_tech_focus:0 "科技焦点"
+gai_tech_focus_desc:0 "使用决策使焦点失效"
+gai_tech_focus_desc:0 "使用决策使焦点失效"
+
+decision_gai_focus_remove:0 "移除现有焦点"
+describe_decision_gai_focus_remove:0 "移除该星球的现有焦点"
+decision_gai_focus_remove_desc:0 "移除该星球的现有焦点标志"

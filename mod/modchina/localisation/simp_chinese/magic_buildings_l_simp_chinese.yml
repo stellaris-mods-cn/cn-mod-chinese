@@ -1,0 +1,234 @@
+﻿l_simp_chinese:
+ ####################################
+ # Magical Capitals
+ ####################################
+ building_arcane_colony_shelter:0 "奥法委员会"
+ building_arcane_colony_shelter_desc:0 "奥法部提供了无价的服务，用奥法等价物增加了世界上现有的设施。"
+
+ building_arcane_capital:0 "法师协会"
+ building_arcane_capital_desc:0 "$building_arcane_colony_shelter_desc$"
+
+ building_arcane_major_capital:0 "巫师法庭"
+ building_arcane_major_capital_desc:0 "$building_arcane_colony_shelter_desc$"
+
+ building_arcane_system_capital:0 "奥法部"
+ building_arcane_system_capital_desc:0 "$building_arcane_colony_shelter_desc$"
+
+ building_arcane_resort_capital:0 "奥法度假酒店管理局"
+ building_arcane_resort_capital_desc:0 "这是个全球度假胜地的管理中心。"
+ building_arcane_resort_major_capital:0 "奥法度假胜地复合体"
+ building_arcane_resort_major_capital_desc:0 "一个庞大的建筑群，能够管理更多的度假村和旅游景点。"
+ 
+ building_arcane_slave_capital:0 "奥法总督宫殿"
+ building_arcane_slave_capital_desc:0 "这豪华的宫殿统治着这个王国。"
+ building_arcane_slave_major_capital:0 "奥法总督领地"
+ building_arcane_slave_major_capital_desc:0 "庞大而豪华的宫殿里住着王权世界的统治精英。"
+
+ building_ministry_magic:0 "奥法部"
+ building_ministry_magic_desc:0 "$building_arcane_colony_shelter_desc$"
+
+ ####################################
+ #          DEPRECATED
+ ####################################
+
+ ####################################
+ # Government Buildings
+ ####################################
+ building_magic_estates:0 "巫师产业"
+ building_magic_estates_desc:0 "宫殿和大厦，在他们的辉煌灿烂，属于奥法主人。周围的乡村和居住在那里的农民也是他们的。"
+
+ building_magic_bureaucratic_complex:0 "奥法科层复合体"
+ building_magic_bureaucratic_complex_desc:0 "一个由官僚办公室、子办公室和子办公室组成的迷宫般的政府综合体，通过对奥法物品的整合，变得无限高效。"
+
+ building_auror_house:0 "傲罗之屋"
+ building_auror_house_desc:0 "法律和秩序的纪念碑。傲罗和职业杀手都在这里。"
+
+ building_auror_department:0 "傲罗部"
+ building_auror_department_desc:0 "这是一个巨大的建筑群，专门用于法庭和奥法执法。"
+
+ ####################################
+ # Deposit Buildings
+ ####################################
+ building_ritual_site:0 "仪式场地"
+ building_ritual_site_desc:0 "在这个和谐的交汇点，我们进行强大的年礼。"
+
+ building_dragon_preserve:0 "龙保护区"
+ building_dragon_preserve_desc:0 "在这些加固的龙保护区，奥法学家的专家团队聚集在一起，研究和控制这些神奇的动物，甚至允许驯养的龙用于战争。"
+
+ building_giant_liason:0 "巨大的联络"
+ building_giant_liason_desc:0 "尽管他们缺乏[Root.GetSpeciesName]级别的情报，我们的奥法学家仍然能够与他们进行推理和基本外交，包括招募他们加入我们的军队。"
+
+ building_mana_harvester:0 "法力收割机"
+ building_mana_harvester_desc:0 "纯净、结晶的奥法在这一地区大量存在，通过行星运动沉积在这一地区。"
+
+ building_magic_storm_facility:0 "奥法风暴观测设备"
+ building_magic_storm_facility_desc:0 "观察奥法风暴对当地环境的影响"
+
+ building_tempest_appeasement:0 "风暴跟踪设备"
+ building_tempest_appeasement_desc:0 "当地的$job_druid$特遣队追踪这场巨大的奥法风暴的运动，并在必要时进行宗教安抚。"
+
+ building_magizoologist_department:0 "奥法动物学家部门"
+ building_magizoologist_department_desc:0 "驻扎在当地的奥法动物学家研究和分类当地的奥法动植物。"
+
+ ####################################
+ # Special Buildings
+ ####################################
+ building_alchemist_guild_1:0 "炼金术士铸造厂"
+ building_alchemist_guild_1_desc:0 "炼金术士们夜以继日地利用奥法技术来转化奇异的物质。"
+ building_alchemist_guild_2:0 "炼金术士熔炉"
+ building_alchemist_guild_2_desc:0 "巨大的中心，炼金术士聚集在这里分享他们的发现。"
+ building_alchemist_guild_3:0 "炼金术士大学"
+ building_alchemist_guild_3_desc:0 "来自全世界的炼金术士聚集在这里进行他们的研究。"
+
+ building_arcanist_guild_1:0 "巧匠行业"
+ building_arcanist_guild_1_desc:0 "为行星$job_arcanist$公会收集广泛的民用工厂和住房。"
+ building_arcanist_guild_2:0 "巧匠铸造厂"
+ building_arcanist_guild_2_desc:0 "部分自动化极大地帮助$job_arcanist_plural$创建和分发奥法工件。"
+ building_arcanist_guild_3:0 "巧匠复制器"
+ building_arcanist_guild_3_desc:0 "一个巨大的$job_arcanist$设施增强了最新的奥法复制技术。"
+
+ ####################################
+ # Magic-Enhanced Vanilla Buildings
+ ####################################
+ # Magical Resource Silo
+ building_magic_resource_silo:0 "空间失真筒仓"
+ building_magic_resource_silo_desc:0 "大规模的资源库和存储设施与维数折叠技术相结合，可以安全地保存大量资源。"
+
+ # Food Processing Facilities
+ building_magic_food_processing_facility:0 "奥法食品加工设施"
+ building_magic_food_processing_facility_desc:0 "在这些工厂加工的食品营养价值大大提高了。"
+
+ building_magic_food_processing_center:0 "奥法食品加工中心"
+ building_magic_food_processing_center_desc:0 "精简的设施，可以处理大量的食物。"
+
+ # Energy Processing Facilities
+ building_magic_energy_grid:0 "奥法能量网格"
+ building_magic_energy_grid_desc:0 "精心校准的电网能使发电机的输出最大化。"
+
+ building_magic_energy_nexus:0 "奥法能量枢纽"
+ building_magic_energy_nexus_desc:0 "这个巨大的设施集中了星球上所有的能源网，提高了它们的效率。"
+
+ # Mineral Processing Facilities
+ building_magic_mineral_purification_plant:2 "奥法矿物净化装置"
+ building_magic_mineral_purification_plant_desc:2 "矿物通过这些净化器即是最高质量。"
+
+ building_magic_mineral_purification_hub:2 "奥法矿物净化中心"
+ building_magic_mineral_purification_hub_desc:2 "巨大的集线器，在那里矿物被接收，然后运送到一系列的净化器。"
+
+ # Magical Alloy Foundries
+ building_magic_foundry_1:0 "奥法铸造厂"
+ building_magic_foundry_1_desc:0 "这些铸造厂的技术人员用奥法技术提高了普通合金的生产技术。"
+
+ building_magic_foundry_2:0 "奥法大锻造厂"
+ building_magic_foundry_2_desc:0 "这些工业综合体是大规模的炼铁中心，为众多的技术专家提供了设备。"
+
+ building_magic_foundry_3:0 "奥法纳米锻造厂"
+ building_magic_foundry_3_desc:0 "先进的制造中心在增强纳米机器的帮助下制造出大量高质量的合金。"
+
+ # Magical Civilian Factories
+ building_magic_factory_1:0 "奥法行业"
+ building_magic_factory_1_desc:0 "广泛的民用工厂和住宅为行星工匠公会。"
+
+ building_magic_factory_2:0 "奥法制造商"
+ building_magic_factory_2_desc:0 "部分自动化的流程帮助技术人员创建和分发奥法技术。"
+
+ building_magic_factory_3:0 "奥法复合体"
+ building_magic_factory_3_desc:0 "一个巨大的工业综合体，由拥有巨大奥法制造能力的工匠所加强。"
+
+ # Magical research Labs
+ building_magic_research_lab_1:0 "奥法研究实验室"
+ building_magic_research_lab_1_desc:0 "奥法研究实验室为所有的研究提供了基本的设施，无论是平凡的还是难以形容的。"
+
+ building_magic_research_lab_2:0 "奥法研究配合物"
+ building_magic_research_lab_2_desc:0 "升级的研究设施，具有非常大的容量，为难以言表。"
+
+ building_magic_research_lab_3:0 "无法言喻的研究复合体"
+ building_magic_research_lab_3_desc:0 "这些先进的研究设施为他们的星球上无法形容的特遣队配备了最新的设备。"
+
+ building_magic_institute:0 "奥法研究所"
+ building_magic_institute_desc:0 "这个奥法研究所是一个庞大的综合体，聚集了不同领域的前沿力量，实现了前所未有的协同作用，提高了整个星球的研究产出。"
+
+ # Magical Commercial Buildings
+ building_magic_commercial_zone:0 "奥法商业区"
+ building_magic_commercial_zone_desc:0 "这些商业区是高耸的办公大楼和商业综合体的所在地。"
+
+ building_magic_commercial_megaplex:0 "奥法商业巨头"
+ building_magic_commercial_megaplex_desc:0 "巨大的商业尖塔和塔楼高耸入云，遮住了阳光。"
+
+ building_magic_galactic_stock_exchange:0 "奥法商业巨作"
+ building_magic_galactic_stock_exchange_desc:0 "巨大的商业尖塔和塔楼高耸入云，遮住了阳光。"
+
+ # Magical Unity Buildings
+ building_magic_temple:0 "奥法寺庙"
+ building_magic_temple_desc:0 "庙宇是自远古时代就建立起来的简单建筑，是安静的冥想和与把我们团结在一起的事物交流的地方。"
+
+ building_magic_holotemple:0 "奥法全息圣殿"
+ building_magic_holotemple_desc:0 "作为粗糙前身的一种增强形式，最新的唯心论技术在全息圣殿内创造了一个可变的现实——所有这些都是为了更深层的冥想和更强烈的虔诚。"
+
+ building_magic_sacred_nexus:0 "奥法枢纽"
+ building_magic_sacred_nexus_desc:0 "现场技术的最新发展使崇拜者可以直接体验圣地的神圣影响。"
+
+ building_magic_citadel_of_faith:0 "奥法城堡"
+ building_magic_citadel_of_faith_desc:0 "这是一个巨大的综合体，为所有的来客提供了一个避难所和与世隔绝的物质世界。"
+
+ # Magical Army Buildings
+ building_magic_military_academy:0 "奥法军事学院"
+ building_magic_military_academy_desc:1 "军事院校提高了当地的征兵率，并提供更高水平的培训。"
+
+ building_magic_stronghold:0 "奥法大本营"
+ building_magic_stronghold_desc:0 "这是一个星球上的要塞，驻扎着一支强大的驻军部队，以保护星球免受入侵和叛乱。"
+
+ building_magic_fortress:0 "奥法壁垒"
+ building_magic_fortress_desc:2 "一个巨大的堡垒群，有扩大的驻军和士兵训练设施。"
+
+ building_magic_planetary_shield_generator:0 "奥法行星护盾"
+ building_magic_planetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+
+ # Magic Amenity Buildings
+ building_magic_luxury_residence:0 "奥法豪华住宅"
+ building_magic_luxury_residence_desc:0 "设计复杂的住宅楼和豪华公寓。对奥法技术的自由应用是唯一能防止那些稀奇古怪的设计崩溃的方法。"
+
+ building_magic_paradise_dome:0 "奥法天堂穹顶"
+ building_magic_paradise_dome_desc:0 "一个完全封闭的居住圆顶，拥有独立的生态系统和完全可定制的局部气候控制系统，是富人或幸运的人生活在那里的天堂。"
+
+ building_magic_communal_housing:0 "奥法公共住房"
+ building_magic_communal_housing_desc:0 "一组统一的外壳，带有标准化的、不变的符文符咒。"
+
+ building_magic_communal_housing_large:0 "奥法乌托邦式住房"
+ building_magic_communal_housing_large_desc:0 "这是一项神奇的空间工程壮举，让每个居民都生活在同一个天堂。"
+
+ building_enchanter_guild_1:0 "奥法师协会"
+ building_enchanter_guild_1_desc:0 "奥法师们孜孜不倦地致力于开发新的奥法，并与他人就无数项目进行磋商。"
+
+ building_enchanter_guild_2:0 "行星魅力论坛"
+ building_enchanter_guild_2_desc:0 "这些巨大的娱乐场所是来自星球各地的人们聚在一起交流和分享他们的工作。日常展示、会议和论坛是我们所能提供的最少的东西。"
+
+ building_healer_guild_1:0 "奥法诊所"
+ building_healer_guild_1_desc:0 "奥法诊所使用实用奥法技术的最新突破来治愈那些科学无法治愈的疾病。"
+
+ building_healer_guild_2:0 "奥法医院"
+ building_healer_guild_2_desc:0 "奥法医院提供服务，为整个星球人口创造奇迹的需求。"
+
+ ####################################
+ # Districts
+ ####################################
+ district_magic_dom:0 "奥法研究区划"
+ district_magic_dom_plural:0 "奥法研究区划"
+ district_magic_dom_desc:0 "庞大的实验室综合体，容纳了无数的$job_magic_researcher_plural$和他们的部门监察员。"
+
+ district_magic_industry:0 "奥法工业区划"
+ district_magic_industry_plural:0 "奥法工业区划"
+ district_magic_industry_desc:0 "由奥法增强的铸造厂、锻造厂和工厂组成的工业联合体。"
+
+ district_magic_rural:0 "农村区划"
+ district_magic_rural_plural:0 "农村区划"
+ district_magic_rural_desc:0 "奥法政府往往高度分权，把大部分人口留在农村。"
+ mod_district_magic_rural_max:0 "最大$district_magic_rural_plural$"
+
+ ####################################
+ # Building Requirements
+ ####################################
+ requires_building_arcane_capital:0 "§R需要§Y$building_arcane_capital$§!在星球上。§!"
+ requires_building_arcane_major_capital:0 "§R需要§Y$building_arcane_major_capital$§!在星球上。§!"
+ requires_building_arcane_system_capital:0 "§R需要§Y$building_arcane_system_capital$§!在星球上。§!"
+ requires_magical_building:0 "§R需要§Y奥法建筑§!在星球上。§!"

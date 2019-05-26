@@ -24,10 +24,10 @@ est_militarism_1_slave_militia_army_desc:0 "虽然通常不用于战斗，但这
 #Might 1: Natural Warriors
 est_militarism_1_drone_emergency_army:0 "应急部队"
 est_militarism_1_drone_emergency_army_plural:0 "应急部队"
-est_militarism_1_drone_emergency_army_desc:0 "我们的工蜂是天生的战士。如果遇到紧急情况，他们每个人都能帮助保卫自己的星球。"
-est_militarism_1_machine_emergency_army:0 "救急军"
+est_militarism_1_drone_emergency_army_desc:0 "我们的工蜂是天生的战士。遇到紧急情况时，他们每个人都能帮助保卫自己的星球。"
+est_militarism_1_machine_emergency_army:0 "应急部队"
 est_militarism_1_machine_emergency_army_plural:0 "应急部队"
-est_militarism_1_machine_emergency_army_desc:0 "我们的工蜂是天生的战士。如果遇到紧急情况，他们每个人都能帮助保卫自己的星球。"
+est_militarism_1_machine_emergency_army_desc:0 "我们的工蜂是天生的战士。遇到紧急情况时，他们每个人都能帮助保卫自己的星球。"
 
 ####################################
 # Buildings
@@ -35,13 +35,13 @@ est_militarism_1_machine_emergency_army_desc:0 "我们的工蜂是天生的战�
 
 #Aesthetics 5: Galactic Wonders.
 building_est_aesthetics_5_wonder_garden:0 "美丽花园"
-building_est_aesthetics_5_wonder_garden_desc:0 "传说中的美丽花园。 园丁们用来自我们帝国各处的植物填满它，将它们组合成植物交响乐。大多数时候它被认为是这个银河系中最伟大的艺术作品，也是美的巅峰之作。"
+building_est_aesthetics_5_wonder_garden_desc:0 "传说中的美丽花园。 园丁们用来自我们帝国各处的植物填满它，将它们组合成植物交响乐。大多数时候它都被认为是这个银河系中最伟大的艺术作品，也是美学的巅峰之作。"
 building_est_aesthetics_5_wonder_monument:0 "回忆纪念碑"
-building_est_aesthetics_5_wonder_monument_desc:0 "回忆纪念碑是银河系中最大的建筑之一，它的结构如此之大以至于从太空中都可以看到它。它的建立是为了纪念曾经发生的事情，但有人说它名字的来源是因为在看过它之后，永远不会留下看过人的回忆。"
-building_est_aesthetics_5_wonder_stage:0 "荣耀大舞台"
-building_est_aesthetics_5_wonder_stage_desc:0 "在整个银河系旅行的最有成就的表演者在荣耀舞台上展现他们的技巧。每个晚上，这个舞台上的表演都是这个银河系中最棒的表演。"
+building_est_aesthetics_5_wonder_monument_desc:0 "回忆纪念碑是银河系中最大的建筑之一，它的结构如此之大以至于从太空中都可以看到它。它的建立是为了纪念曾经发生的事情，但有人说它名字的来源于人们在参观过它之后它的身影将永远驻留在人们的脑海中。"
+building_est_aesthetics_5_wonder_stage:0 "荣耀舞台"
+building_est_aesthetics_5_wonder_stage_desc:0 "在整个银河系旅行的最有成就的表演者在荣耀舞台上展现他们的技巧。在这个舞台上每一个夜晚的表演都是整个银河系中最棒的表演。"
 building_est_aesthetics_5_wonder_halls:0 "宁静大厅"
-building_est_aesthetics_5_wonder_halls_desc:0 "据说人们可以在宁静大厅里走几个小时也不会看到别的灵魂。然而，这些大厅里充满了成千上万的人，漫步在寻找灵感、理解或内心的平静中。 这些大厅似乎永远看不到终点，走廊和房间只在黑暗中结束，而不是墙壁。高处也看不到天花板，支撑它的柱子似乎正在消失在虚空中。"
+building_est_aesthetics_5_wonder_halls_desc:0 "据说人们可以在宁静大厅里走几个小时也不会看到别的人影。然而，这些大厅里充满了成千上万的人，漫步在寻找灵感、理解或内心的平静中。 这些大厅似乎永远看不到终点，走廊和房间只会在黑暗中结束而看不到墙。高处也看不到天花板，支撑它的柱子似乎消失在了虚空中。"
 building_est_aesthetics_5_wonder_museum:0 "宏大博物馆"
 building_est_aesthetics_5_wonder_museum_desc:0 "宏大博物馆收藏着银河系里最伟大的收藏品，甚至还有一些远超于它们的艺术品。这些收藏品包括那些在近代大事件中发挥重要作用的物品，以及早已消失的文明物品。 如此庞大的收藏品让人花费整个太阳周期在画廊和展览中漫步都看不完。"
 #Aesthetics Finish: Gallery
@@ -158,7 +158,7 @@ leader_trait_scientist_est_chivalry_desc:0 "$leader_trait_admiral_est_chivalry_d
 
 #Chivalry: Hero
 leader_trait_admiral_est_chivalry_hero:0 "传奇英雄"
-leader_trait_admiral_est_chivalry_hero_desc:0 "由于战斗中的勇敢行动，这位领袖在我们的帝国被称为英雄。无论他们走到哪里，他们都是享有尊敬和敬畏的活着的传奇。"
+leader_trait_admiral_est_chivalry_hero_desc:0 "由于战斗中的勇敢行动，这位领袖在我们的帝国被称为英雄。无论他们走到哪里，他们都是享有尊崇和敬畏的活着的传奇。"
 leader_trait_ruler_est_chivalry_hero:0 "$leader_trait_admiral_est_chivalry_hero$"
 leader_trait_ruler_est_chivalry_hero_desc:0 "$leader_trait_admiral_est_chivalry_hero_desc$"
 leader_trait_general_est_chivalry_hero:0 "$leader_trait_admiral_est_chivalry_hero$"
@@ -188,7 +188,7 @@ leader_trait_ruler_est_mystic_desc:0 "这位领袖被认为具有一些超自然
 
 #Cooperativity: Cognition Central
 leader_trait_admiral_est_cognition_central:0 "认知中枢"
-leader_trait_admiral_est_cognition_central_desc:0 "通过将自己整合到当地的无人机网络中，可能会大大增强这种无人机的功能。"
+leader_trait_admiral_est_cognition_central_desc:0 "通过将自己整合到工蜂网络中，可能会大大增强这种工蜂的能力。"
 leader_trait_ruler_est_cognition_central:0 "$leader_trait_admiral_est_cognition_central$"
 leader_trait_ruler_est_cognition_central_desc:0 "$leader_trait_admiral_est_cognition_central_desc$"
 leader_trait_general_est_cognition_central:0 "$leader_trait_admiral_est_cognition_central$"
@@ -200,7 +200,7 @@ leader_trait_scientist_est_cognition_central_desc:0 "$leader_trait_admiral_est_c
 
 #Individualism: Inspiration
 leader_trait_ruler_est_individualism_inspiration:0 "灵感迸发"
-leader_trait_ruler_est_individualism_inspiration_desc:0 "我现在清楚地看到了我的目标和实现它的方法。"
+leader_trait_ruler_est_individualism_inspiration_desc:0 "我现在清楚地看到了我的目标以及实现它的方法。"
 leader_trait_admiral_est_individualism_inspiration:0 "$leader_trait_ruler_est_individualism_inspiration$"
 leader_trait_admiral_est_individualism_inspiration_desc:0 "$leader_trait_ruler_est_individualism_inspiration_desc$"
 leader_trait_scientist_est_individualism_inspiration_biology:0 "$leader_trait_ruler_est_individualism_inspiration$"
@@ -537,56 +537,20 @@ est_piracy_raiding_full_desc:0 "我们将抢劫我们所有的邻居。"
 # Events
 ####################################
 
-#Aesthetics 2: Guild of Artists.
-est_aesthetics_2.name:0 "艺术家协会"
-est_aesthetics_2.desc:0 "我们的艺术家们度过了成功的一年，他们的头脑充满了灵感。我们应该怎样利用他们的技术？"
-est_aesthetics_5_option_1:0 "书写英雄诗歌"
-est_aesthetics_5_option_2:0 "出版帝国史诗"
-est_aesthetics_5_option_3:0 "组织银河展览会"
-est_aesthetics_5_option_3_tooltip:0 "外星帝国£opinion §Y评价§!在§Y10§!年内上升§G+20§!。"
-est_aesthetics_5_option_4:0 "向大使们献戏"
-est_aesthetics_5_option_5:0 "在星球上组织节日"
-est_aesthetics_5_option_6:0 "宣布庆祝年"
-est_aesthetics_5_option_7:0 "隆重演出"
-est_aesthetics_5_option_8:0 "谱写帝国交响曲"
-est_aesthetics_5_option_9:0 "出版诗集"
-est_aesthetics_5_option_10:0 "编写当代戏剧"
-est_aesthetics_5_option_11:0 "写抗战歌谣"
-est_aesthetics_5_option_12:0 "设计富丽堂皇的装饰"
-est_aesthetics_5_option_13:0 "组织银河之旅"
-est_aesthetics_5_option_14:0 "发行小说集"
-est_aesthetics_5_option_15:0 "绘画当代画"
-est_aesthetics_5_option_16:0 "绘画历史场景"
-est_aesthetics_5_option_17:0 "设计公共雕塑"
-est_aesthetics_5_option_18:0 "设计新式公共建筑"
-est_aesthetics_5_option_19:0 "创造新的视觉娱乐"
-est_aesthetics_5_option_20:0 "宣布一场文化革命"
-est_aesthetics_5_option_21:0 "画插画合集"
-est_aesthetics_5_option_22:0 "装饰皇家公园"
-est_aesthetics_5_option_23:0 "在星球上组织演出"
-est_aesthetics_5_option_24:0 "组织一次盛大的旅行"
-est_aesthetics_5_option_25:0 "写帝国国歌"
-est_aesthetics_5_option_26:0 "写历史史诗"
-est_aesthetics_5_option_27:0 "雇用新学徒"
-est_aesthetics_5_option_28:0 "设计军队制服"
-est_aesthetics_5_option_29:0 "设计互动娱乐综合设施"
-est_aesthetics_5_option_30:0 "写当代小说"
-est_aesthetics_5_option_31:0 "设计友谊纪念碑"
-
-#Archivist Adopt: Select Specialization.
-est_archivist_adopt.name:0 "选择专业化研究领域"
-est_archivist_adopt.desc:0 "我们应该专攻什么研究领域？"
-est_archivist_adopt.option.particles:0 "粒子物理"
-est_archivist_adopt.option.computing:0 "计算机"
-est_archivist_adopt.option.field_manipulation:0 "力场操控"
-est_archivist_adopt.option.voidcraft:0 "太空技术"
-est_archivist_adopt.option.biology:0 "生物"
-est_archivist_adopt.option.statecraft:0 "政治学"
-est_archivist_adopt.option.new_worlds:0 "新世界"
-est_archivist_adopt.option.military_theory:0 "军事理论"
-est_archivist_adopt.option.materials:0 "材料"
-est_archivist_adopt.option.industry:0 "工业"
-est_archivist_adopt.option.rocketry:0 "火箭"
+#Academy Adopt: Select Specialization.
+est_academy_adopt.name:0 "选择专业化研究领域"
+est_academy_adopt.desc:0 "我们应该专攻哪一类研究领域？"
+est_academy_adopt.option.particles:0 "粒子物理"
+est_academy_adopt.option.computing:0 "计算机学"
+est_academy_adopt.option.field_manipulation:0 "力场操控"
+est_academy_adopt.option.voidcraft:0 "太空技术"
+est_academy_adopt.option.biology:0 "生物学"
+est_academy_adopt.option.statecraft:0 "治国之术"
+est_academy_adopt.option.new_worlds:0 "新世界学说"
+est_academy_adopt.option.military_theory:0 "军事理论"
+est_academy_adopt.option.materials:0 "材料学"
+est_academy_adopt.option.industry:0 "工业学"
+est_academy_adopt.option.rocketry:0 "火箭技术"
  
 #Chivalry Finish: Select Ruler Virtue.
 est_chivalry_finish.name:0 "一个统治者的美德"
@@ -639,7 +603,7 @@ est_coll_indv.adopt.individualism:0 "$tr_est_individualism_adopt$"
 #Proselytism
 job_est_inquisitor:0 "审判官"
 job_est_inquisitor_plural:0 "审判官"
-job_est_inquisitor_desc:1 Our inquisitor searchs for individuals with views deviating from the true path. Those found are destroyed."""""
+job_est_inquisitor_desc:1 Our inquisitor searchs for individuals with views deviating from the true path. Those found are destroyed."""""""""""
 job_est_inquisitor_effect_desc:0 "£job_est_inquisitor£ $job_est_inquisitor_plural$ 减少 §Y犯罪率§! 同时增加 §Y政府思潮吸引力§!, 同时产出少量凝聚力."
 mod_job_est_inquisitor_add:0 "$job_est_inquisitor$ 职位"
 mod_job_est_inquisitor_per_pop:0 "§G+1§! $job_est_inquisitor$ 职位每 $VALUE$ 人口"
@@ -712,12 +676,12 @@ casus_belli_est_cb_despoliation:0 "$casus_belli_cb_despoliation$"
 ####################################
 war_goal_est_wg_plunder:0 "$war_goal_wg_plunder$"
 war_goal_est_wg_plunder_desc:0 "$war_goal_wg_plunder_desc$"
-wg_plunder_accept_them:0 "$wg_plunder_accept_them$"
-wg_plunder_accept_us_1:0 "$wg_plunder_accept_us_1$"
-wg_plunder_accept_us_2:0 "$wg_plunder_accept_us_2$"
-wg_plunder_accept_us_3:0 "$wg_plunder_accept_us_3$"
-wg_plunder_accept_us_4:0 "$wg_plunder_accept_us_4$"
-wg_plunder_accept_us_5:0 "$wg_plunder_accept_us_5$"
+est_wg_plunder_accept_them:0 "$wg_plunder_accept_them$"
+est_wg_plunder_accept_us_1:0 "$wg_plunder_accept_us_1$"
+est_wg_plunder_accept_us_2:0 "$wg_plunder_accept_us_2$"
+est_wg_plunder_accept_us_3:0 "$wg_plunder_accept_us_3$"
+est_wg_plunder_accept_us_4:0 "$wg_plunder_accept_us_4$"
+est_wg_plunder_accept_us_5:0 "$wg_plunder_accept_us_5$"
 
 ####################################
 # Depositis
@@ -741,4 +705,11 @@ planets_minerals_produces_mult:0 "£minerals  §Y矿物§!"
 
 mod_shipclass_mining_station_build_cost_mult:0 "采矿空间站建造花费"
 mod_planet_miners_rare_crystals_produces_mult:0 "£rare_crystals  从晶体矿工产出的稀有晶体"
-mod_planet_metallurgists_energy_produces_add:0 "£energy  从 £job_foundry£ 冶金学家得到的能量"!
+mod_planet_metallurgists_energy_produces_add:0 "从 £job_foundry£ 冶金学家得到的£energy£ 能量"!
+mod_planet_metallurgists_energy_upkeep_add:0 "对£job_foundry£ 冶金学家的 £energy  能量维护 "
+
+mod_planets_energy_produces_mult:0 "月能量币"
+mod_planets_food_produces_mult:0 "月食物"
+mod_planets_minerals_produces_mult:0 "月矿物"
+
+mod_planet_clerk_energy_produces_mult:0 "从 £job_clerk£ $job_clerk_plural$ 得到的 £energy£ $energy$ "

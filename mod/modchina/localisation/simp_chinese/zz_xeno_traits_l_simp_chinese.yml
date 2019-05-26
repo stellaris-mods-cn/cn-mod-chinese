@@ -22,7 +22,7 @@
  trait_inventive_desc:0 "§L该物种的成员擅长于实证研究，对抽象或数学概念没有兴趣。可以生成§G生活的工匠§!领袖。§!\n" 
  trait_moronic:0 "低能"
  trait_moronic_desc:0 "§L这一物种如何成功实现太空飞行仍然是学术界争论的热点。 §!\n" 
- trait_scion_of_the_fallen:0 "堕落的子孙"
+ trait_scion_of_the_fallen:0 "失落之子"
  trait_scion_of_the_fallen_desc:0 "§L这一物种曾经生活在现已灭绝的银河文明的保护之下。可以生成§G探路者§!领袖。§!\n" 
  trait_intrepid:0 "勇敢的" 
  trait_intrepid_desc:0 "§L这一物种几乎不受恐惧的影响。可以生成§G坚持§!和§G狂暴防御§!领袖。§!\n"

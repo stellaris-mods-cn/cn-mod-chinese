@@ -127,6 +127,8 @@
  FEE_pc_fractured_planet_tile:0 "巢穴地形"
  FEE_pc_fractured_planet_tile_desc:0 "由巢、洞穴组成的蜂巢，数千年的蜂房活动形成。"
   
+ FEE_pc_orbital_ring:0 "神圣天文台"
+ FEE_pc_orbital_ring_desc:0 "一种小型的环形世界，用来容纳人口，同时让位于中心的神圣世界不受有知觉生命破坏。"
 
 #	--------------------------- --------------------------- ---------------------------
 #	Fallen Empire Diplomatic Messages
@@ -238,7 +240,8 @@
  FEE_gave_up_leader_xenophile_desc:0 "我们心甘情愿地交出了一个领袖作为牺牲品，我们的人民是不会发怒的。"
  FEE_superstate:0 "形成了军国主义超级大国"
  FEE_no_superstate:0 "支离破碎的军国主义超级大国"
- 
+ FEE_puppet_state:0 "傀儡国家"
+  
  FEE_psionic_ascendance:0 "灵能崛起"
  FEE_psionic_ascendance_desc:0 "这个帝国通过灵能风暴获得了无所不能的力量。"
  FEE_psionic_storm_dispelled:0 "灵能反弹"
@@ -268,7 +271,13 @@
  FEE_hivemind_FE_fortress_plural: "蜂巢堡垒"
  FEE_hivemind_FE_outpost: "蜂巢前哨" 
  FEE_hivemind_FE_outpost_plural: "蜂巢前哨"
-  
+ 
+ #militarist(to fix being able to build them)
+ NAME_Imperium1: "阿提拉"
+ NAME_Supremacy1: "凯撒"
+ NAME_Glory1: "拿破仑"
+ NAME_Reaper1: "君主"
+ NAME_Devastator1: "亚历山大"
  
 #	--------------------------- --------------------------- ---------------------------
 #	Player Homeworlds
@@ -307,3 +316,48 @@
 
  FEE_fallen_terran_wasteland_player_NAME:0 "§H人族荒地\n"
  FEE_fallen_terran_wasteland_player_DESC:0 "§HFallen Empires Expanded \n--------------------------------\n§L一个外星入侵者的王座和种族灭绝的墓地，有大量不同的行星。\n§G     金星 - 沙漠星球 (16)\n§G     地球 - 坟墓星球 (25)\n§G     火星 - 盖亚星球 (25)\n§G     欧罗巴 - 坟墓之月 (25)\n§G     土卫六 - 苔原卫星 (16)\n§G     泰坦尼亚 - 北极之月 (16)\n\n§H家园: §R太阳之权\n\n$system_initializer_DESC$"
+
+ #----------
+ # Buildings
+ # Custom buildings for 2.2
+ # common/buildings
+ #-----------
+
+ FEE_spawning_pool:0 "孵化池"
+ FEE_spawning_pool_desc:1 "在专家们科学而温柔的照料下，这些水池刺激我们的卵生长得更快。"
+ 
+ FEE_sentinel_posts:0 "哨兵蜂巢"
+ FEE_sentinel_posts_desc:1 "在这些前哨阵地上，搜寻者工蜂扫描意识，寻找异常和故障的迹象，并保卫巢穴。"
+ 
+
+ #----------
+ #工作
+ # Custom jobs for 2.2
+ # common/pop_jobs
+ #-----------
+
+ job_FEE_spawning_drone:0 "产卵雄蜂"
+ job_FEE_spawning_drone_plural:0 "产卵雄蜂"
+ job_FEE_spawning_drone_desc:1 "通过对温度、营养和感染预防的精心管理，这些雄蜂倾向于产卵池，产生幼崽。"
+ job_FEE_spawning_drone_effect_desc:0 "£job_FEE_spawning_drone£ $job_FEE_spawning_drone_plural$增加£mod_planet_amenities_no_happiness_add£ §Y$PLANET_AMENITIES_TITLE$§!和£mod_pop_growth_speed£ §Y$MOD_POP_GROWTH_SPEED$§!"
+ mod_job_FEE_spawning_drone_add:0 "$job_FEE_spawning_drone$工作"
+ mod_job_FEE_spawning_drone_per_pop:0 "每$VALUE$人口§G+1§! $job_FEE_spawning_drone$"
+ mod_job_FEE_spawning_drone_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_FEE_spawning_drone_add£"
+ 
+
+ job_FEE_defense_drone:0 "搜索者工蜂"
+ job_FEE_defense_drone_plural:0 "搜索者工蜂"
+ job_FEE_defense_drone_desc:1 "威胁集体稳定的越轨和职能腐败必须得到纠正。"
+ job_FEE_defense_drone_effect_desc:0 "£job_FEE_defense_drone£ $job_FEE_defense_drone_plural$减少£crime£ §Y$PLANET_CRIME_NO_HAPPINESS_TITLE$§!和产生£defense_army£ §Y国防军队§!"
+ mod_job_FEE_defense_drone_add:0 "$job_FEE_defense_drone$工作"
+ mod_job_FEE_defense_drone_per_pop:0 "每$VALUE$人口§G+1§! $job_FEE_defense_drone$"
+ mod_job_FEE_defense_drone_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_FEE_defense_drone_add£"
+ 
+
+ job_FEE_livestock:0 "牲畜"
+ job_FEE_livestock_plural:0 "牲畜"
+ job_FEE_livestock_desc:1 "他们只有一个目的:成为比他们更好的人的食物。"
+
+ job_FEE_slaves:0 "奴隶"
+ job_FEE_slaves_plural:0 "奴隶"
+ job_FEE_slaves_desc:1 ""

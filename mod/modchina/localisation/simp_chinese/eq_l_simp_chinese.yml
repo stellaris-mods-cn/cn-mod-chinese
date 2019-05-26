@@ -1,0 +1,68 @@
+﻿l_simp_chinese:
+ job_queen_drone:0 "增殖女王"
+ job_queen_drone_desc:0 "女王最容易被理解为生殖因素，而不是领导者。她将试图通过破坏殖民地的稳定和团结其他成员来控制这个星球。"
+ district_hollow_housing:0 "洞穴复合体"
+ district_hollow_housing_desc:0 "巨大的洞穴,洞穴网络可以保留许多人口。"
+ district_hollow_housing_plural:0 "洞穴复合体" 
+ district_queen_den:0 "女王巢穴"
+ district_queen_den_desc:0 "所有必要的调整，以支持繁殖女王。"
+ district_queen_den_plural:0 "女王巢穴"
+ district_nursery:0 "地下苗圃"
+ district_nursery_desc:0 "这里的幼虫或后代由工蜂照顾。托儿所有自己的内部真菌农场。"
+ district_nursery_plural:0 "地下苗圃"
+ district_soldier_den:0 "士兵巢穴"
+ district_soldier_den_desc:0 "士兵巢穴是最强大的成员的住所。"
+ district_soldier_den_plural:0 "士兵洞穴"
+ mod_job_queen_drone_add:0 "繁殖女王"
+ job_queen_drone_plural:0 "繁殖女王"
+ job_queen_drone_effect_desc:0 "繁殖女王增加§H人口增长§!，但会破坏星球的稳定。"
+ 
+ 
+ 
+ 
+ 
+ district_matryoshka_housing:0 "行星式硬盘"
+ district_matryoshka_housing_desc:0 "这是存储数字人口的地方。"
+ district_matryoshka_housing_plural:0 "行星式硬盘"
+ district_matryoshka_cpu_module:0 "中央处理单元"
+ district_matryoshka_cpu_module_desc:0 "数字化人口可以模拟不同的现实，扩展知识。"
+ district_matryoshka_cpu_module_plural:0 "中央处理单元"
+ district_matryoshka_bus_module:0 "杀毒软件"
+ district_matryoshka_bus_module_desc:0 "每台电脑都可能受到恶意软件和病毒的攻击。这种硬件是一种杀毒软件，提供维护和安全代理。"
+ district_matryoshka_bus_module_plural:0 "杀毒软件"
+ 
+ ap_matryoshka_project:0 "洛什卡项目"
+ ap_matryoshka_project_desc:1 "世界中的宇宙。虚拟现实的无穷力量。"
+ allow_matryoshka_project:0 "§H解锁决策:§! $ap_matryoshka_project$"
+ decision_matryoshka_project:0 "$ap_matryoshka_project$"
+ decision_matryoshka_project_effects:1 "把星球变成一个§Y$pc_matryoshka$§!, 增加£housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y资源生产§!和解锁特殊£district£ §Y洛什卡区划§!，以牺牲星球的自然资源为代价§R无法访问§!,阻止所有£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!进一步的建设\n只有§Y机械人口§!可以生活在§Y洛什卡区划§!,他们将人口数字化和将无法再次定居。"
+ decision_matryoshka_project_effects_short:2 "增加£housing£ §Y$PLANET_HOUSING_TITLE$§!和§YResearch Production§!\nEnables £district£ §YMatryoshka Districts§!\n禁用£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!的建设。"
+ decision_matryoshka_project_requirements:0 "£trigger_no£ §R星球上所有的区划都必须被填满§! §Y$district_nexus_plural$§!"
+ decision_matryoshka_project_desc:1 "在一个世界里的一个宇宙，从行星核心收集的能量为一台模拟虚拟宇宙的行星大小的计算机提供动力。"
+
+ 
+ 
+ ap_hollow_project:0 "空心化工程"
+ ap_hollow_project_desc:1 "如果没有蓝图或领导者，成千上万的我们移动的尘埃将创造出一个复杂的海绵状结构，通过一个隧道网络连接平行的水平"
+ allow_hollow_project:0 "§H解锁决策:§! $ap_hollow_project$"
+ decision_hollow_project:0 "$ap_hollow_project$"
+ decision_hollow_project_effects:1 "把星球变成一个§Y$pc_hollow$§!,增加£housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y资源生产§!和§Y人口增速§!和解锁特殊£district£ §Y空心区划§!，以牺牲星球的自然资源为代价§R无法访问§!,阻止所有£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!进一步的建设"
+ decision_hollow_project_effects_short:2 "增加£housing£ §Y$PLANET_HOUSING_TITLE$§!和§YPop Growth§!\n可以使用£district£ §Y空心区划§!\n禁用£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!的建设。"
+ decision_hollow_project_requirements:0 "£trigger_no£ §R星球所有的区划都必须被填满§! §Y$district_hive_plural$§!"
+ decision_hollow_project_desc:1 "如果没有蓝图或领导者，成千上万的我们移动的尘埃将创造出一个复杂的海绵状结构，通过一个隧道网络连接平行的水平"
+ 
+ 
+ pc_hollow:0 "空心星球"
+ pc_hollow_desc:0 "洞穴和洞穴贯穿了所有行星的地壳和地幔的大部分，利用行星的内核作为热量和能量来源来支持低层的生命。"
+ 
+ pc_matryoshka:0 "洛什卡星球"
+ pc_matryoshka_desc:0 "一种行星大小的计算机，利用行星内核来驱动虚拟现实。迁移到这个星球的人口将被数字化。直到永远。"
+ 
+ 
+ eq.200.name:0 "§H空心化§!: [Root.GetName] 完成"
+ eq.200.desc:0 "洞穴和洞穴在星球的地壳中伸展开来，一直延伸到地幔。\n\n从这个大项目开始到现在还不到几年，但是已经很难回忆起[Root.GetName]的表面是什么样子了。翠绿的吗?崎岖的吗?现在到处都是土丘和洞穴，方圆数英里。\n\n一个曾经由偶然和自然规律塑造的地方，现在是一个由不屈不挠的目标塑造的设计。"
+ eq.200.a:0 "我们挖掘它。"
+ 
+ eq.300.name:0 "§H洛什卡§!: [Root.GetName] 包裹"
+ eq.300.desc:0 "一层层的电脑面板吸收行星核心的能量，为虚拟世界提供动力。\n\n从这个大项目开始到现在还不到几年的时间，已经不可能回忆起[Root.GetName]的表面是什么样子了。翠绿的吗?崎岖的吗?现在到处都是钢铁。\n\n一个曾经由偶然和自然规律塑造的地方，现在是一个由不屈不挠的目标塑造的设计。"
+ eq.300.a:0 "让人印象深刻。"

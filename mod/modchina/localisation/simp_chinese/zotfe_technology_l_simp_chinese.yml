@@ -168,17 +168,17 @@ TECH_UNLOCK_FE_SENSOR_DESC:0 "§H$E神秘传感器$§!\n$FE_SENSOR_SHIP_DESC$"
 
 shipsize_fe_escort_hull_add:0 "护航舰船体值"
 shipsize_fe_battlecruiser_hull_add:0 "战列巡洋舰船体值"
-shipsize_fe_titan_hull_add:0 "堕落泰坦船体值"
+shipsize_fe_titan_hull_add:0 "失落泰坦船体值"
 shipsize_fe_goliath_hull_add:0 "歌利亚船体值"
 
 shipsize_fe_escort_build_speed_mult: "护航舰建造速度"
 shipsize_fe_battlecruiser_build_speed_mult: "战列巡洋舰建造速度"
-shipsize_fe_titan_build_speed_mult: "堕落泰坦建造速度"
+shipsize_fe_titan_build_speed_mult: "失落泰坦建造速度"
 shipsize_fe_goliath_build_speed_mult: "歌利亚建造速度"
 
 shipsize_fe_escort_build_cost_mult: "护航舰建造成本"
 shipsize_fe_battlecruiser_build_cost_mult: "战列巡洋舰建造成本"
-shipsize_fe_titan_build_cost_mult: "堕落泰坦建造成本"
+shipsize_fe_titan_build_cost_mult: "失落泰坦建造成本"
 shipsize_fe_goliath_build_cost_mult: "歌利亚建造成本"
 
 ### BUILDING TEXTS
@@ -283,7 +283,7 @@ zotfe_tech_giga_fortress: "可视化盖亚堡垒"
 zotfe_tech_giga_fortress_desc: "由神秘的暗物质反应堆驱动，盖亚堡垒是最致命的，自我维持的行星堡垒，不受轨道轰击的影响。"
 
 zotfe_building_giga_fortress: "盖亚堡垒"
-zotfe_building_giga_fortress_desc: "盖亚炮台是最大的行星炮台，装备有四管双管动态火炮、多导弹吊舱和一支驻军部队。它是自给自足的，可以为整个地球提供资源。堡垒及其驻军不受轨道轰击的影响。它的存在激发了所有公民的信心，消除了动荡的可能性，因为任何敢于反抗的人都会很快被消灭。"
+zotfe_building_giga_fortress_desc: "盖亚炮台是最大的行星炮台，装备有四管双管动态火炮、多导弹吊舱和一支驻军部队。它是自给自足的，可以为整个星球提供资源。堡垒及其驻军不受轨道轰击的影响。它的存在激发了所有公民的信心，消除了动荡的可能性，因为任何敢于反抗的人都会很快被消灭。"
 
 tech_fe_fortress: "神秘防御网"
 tech_fe_fortress_desc: "虽然我们目前的堡垒可能能够抵御基本的入侵者，但由于空间有限和武器过时，建筑本身太容易受到大型入侵部队的攻击。为此，我们为新一代的堡垒设计了一个概念，它应该为潜在的入侵者提供更多的挑战。"

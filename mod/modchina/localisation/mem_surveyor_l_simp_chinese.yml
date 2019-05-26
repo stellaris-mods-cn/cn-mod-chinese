@@ -205,7 +205,7 @@ l_simp_chinese:
  mem_surveyor.213.desc:0 "我们的军队在[FromFrom.GetName]报告说，他们已经成功摧毁了狂暴者探测器派出的部队。胜利属于我们。"
  
  mem_surveyor.214.name:0 "[FromFrom.GetName]从狂暴者控制下重心夺回"
- mem_surveyor.214.desc:0 "我们已经成功击败了[FromFrom.GetName]上的狂暴者探测器留下的驻军。 \n\n探测器对机械者人口的控制已被削弱，地球在我们的控制之下。"
+ mem_surveyor.214.desc:0 "我们已经成功击败了[FromFrom.GetName]上的狂暴者探测器留下的驻军。 \n\n探测器对机械者人口的控制已被削弱，星球在我们的控制之下。"
  
  mem_surveyor.220.name:0 "狂暴者探测器停止攻击"
  mem_surveyor.220.desc:0 "§S狂暴者探测器§! 过去一直威胁着银河系，但现在似乎停止了它的活动。 \n\n虽然它仍在运行，但它似乎已停止攻击有人居住的星系，更愿意留在§S[mem_surveyor_fleet.Solar_System.GetName] 星系§!里。最有可能的是，它已经花费了所有可用于其侵略的资源，现在已经被削弱了太多，以至于它再也无法继续进攻了。"

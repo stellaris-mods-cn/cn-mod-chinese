@@ -1,0 +1,6 @@
+﻿l_simp_chinese:
+distar.3013.a.tooltip:0 "在 [nivlac_planet.GetName] 行星填充 $NAME_Nivlac$ £pops 人口"
+distar.3017.a.tooltip:0 "$NAME_Nivlac$ £pops 人口已经被添加到 [nivlac_planet.Capital.GetName] 上了."
+distar.3032.a.tooltip:0 "[molluscoid_miners_species.GetName] £pops 人口已经填满了 [Root.Capital.GetName]."
+
+civic_tooltip_feudal_realm_effects:2 "§Y附庸权力§!对关系的影响减少§Y50%§!，但所有臣民都可以扩展到无人认领的系统中。 可以在游戏开始时将其变成附庸。"

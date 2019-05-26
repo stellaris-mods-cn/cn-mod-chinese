@@ -204,7 +204,7 @@ tech_dark_mansion: "文明时代"
 tech_dark_mansion_desc: "新技术带来了新的生活方式。过去的国王是怎样生活的，现在即使是最穷的穷人也会享受这种文明的生活方式。"
 ### OLD TECH
 tech_fe_galactic_trade_enclave: "银河系的商业中心"
-tech_fe_galactic_trade_enclave_desc: "我们的证券交易所虽然已经非常庞大，为我们的帝国提供了大量的收入，但却没有适当的授权来销售暗物质相关的物品。虽然我们不打算将这些神秘的技术免费提供给低等生物，但我们的市场策略指出，我们可以欺骗许多原始生物去购买带有飞升者标记的琐碎小饰品或人工制品。季票、独家收藏版、预购、提前购买：所有的策略都将被用来实现最大的利润。"
+tech_fe_galactic_trade_enclave_desc: "我们的证券交易所虽然已经非常庞大，为我们的帝国提供了大量的收入，但却没有适当的授权来销售暗物质相关的物品。虽然我们不打算将这些神秘的技术免费提供给低等生物，但我们的市场策略指出，我们可以欺骗许多原始生物去购买带有巅峰者标记的琐碎小饰品或人工制品。季票、独家收藏版、预购、提前购买：所有的策略都将被用来实现最大的利润。"
 
 tech_fe_heaven_dome: "现实天堂"
 tech_fe_heaven_dome_desc: "虽然我们目前的“天堂穹顶”模型在为我们的核心物种提供住宿和幸福方面做得很好，但它的生成器还无法支持改进所需的其他部分。现在可以通过引入暗物质反应堆和更有效的医疗保健来消除这一限制。"
@@ -266,7 +266,7 @@ building_ae_clone_vats: "再利用室"
 building_ae_clone_vats_desc: "为什么要浪费资源来培养未来的领袖？当你能充分利用当前的领袖时？\n\n§Y建造该建筑解锁星球决策：进入再利用室§!"
 
 tech_ae_clone_vats: "再利用室"
-tech_ae_clone_vats_desc: "我们先进的基因工程和飞升，我们现在可以开始掌握我们自己的命运并克服生命的所有缺点。我们将定义进化论。\n\n§Y建造该建筑解锁星球决策：进入再利用室§!"
+tech_ae_clone_vats_desc: "我们先进的基因工程和巅峰，我们现在可以开始掌握我们自己的命运并克服生命的所有缺点。我们将定义进化论。\n\n§Y建造该建筑解锁星球决策：进入再利用室§!"
 
 tech_fe_hospital: "细胞重建"
 tech_fe_hospital_desc: "随着新的神秘技术的出现，各种科学方法都有了新的发明。人民的生活质量只会越来越好。"
@@ -299,7 +299,7 @@ trait_acot_robot_heavy_duty: "基业常青"
 trait_acot_robot_heavy_duty_desc: "这台机器非常注重耐用性和寿命。只有这台机器能够快速学习复杂的任务，并使用最少的空间，它也被期望能够相对轻松地扼制、压迫和折断对手的骨头。"
 
 building_fe_food_processing_complex: "农业超级复合体"
-building_fe_food_processing_complex_desc: "由中央暗物质设施驱动的多个农业生物穹顶，将确保地球上永远有新鲜的绿苹果，或我们政府用于食品的任何东西。"
+building_fe_food_processing_complex_desc: "由中央暗物质设施驱动的多个农业生物穹顶，将确保星球上永远有新鲜的绿苹果，或我们政府用于食品的任何东西。"
 
 building_ae_food_processing_complex: "农业巨型复合体"
 building_ae_food_processing_complex_desc: "星球上是否没有绿色并不重要，因为绿色无处不在，而绿色是好的。"

@@ -1,6 +1,7 @@
 ﻿l_simp_chinese:
 
- triggered_opinion_trait_ex_divine:0 "Divine Ruler"
- triggered_opinion_civic_divine_power:0 "Divine Order"
- opinion_op_godmachine:0 "GODMACHINE"
- opinion_op_godheart:0 "GODHEART"
+ triggered_opinion_trait_ex_divine:0 "非凡的$ruler$"
+ triggered_opinion_civic_divine_power:0 "神圣秩序"
+ opinion_op_godmachine:0 "上帝智械"
+ opinion_op_godheart:0 "上帝之心"
+ opinion_op_psionic_destiny_civic:0 "天命幽能"

@@ -1,0 +1,135 @@
+﻿l_simp_chinese:
+
+ starborn_asteroid_minerals:0 "小行星采矿"
+ starborn_asteroid_minerals_desc:0 "矿物资源更容易从小行星中有效地开采出来"
+ starborn_planet_minerals:0 "星球采矿"
+ starborn_planet_minerals_desc:0 "与小行星采矿相比，开采行星上的矿产资源并将其开采出重力场是一个效率低下的过程"
+ starborn_molten_planet_minerals:0 "熔融行星矿物萃取"
+ starborn_molten_planet_minerals_desc:0 "这个星球的熔融性质使矿产资源更容易开采"
+ starborn_near_solar_energy:0 "近太阳能收集"
+ starborn_near_solar_energy_desc:0 "我们离这颗恒星如此之近，以至于太阳能电池板的效率要高得多"
+ starborn_farming_planet:0 "全星球农业"
+ starborn_farming_planet_desc:0 "由于我们不需要任何行星的特征来居住或使用，我们可以用它来生产食物"
+ starborn_asteroid_alloys:0 "小行星合金提取"
+ starborn_asteroid_alloys_desc:0 "从星系团萃取物中更容易有效地提取矿物"
+ starborn_molten_alloys:0 "熔融星球合金生产"
+ starborn_molten_alloys_desc:0 "利用熔融行星的自然特性，可以获得比一般合金生产工艺更高效的合金" 
+ starborn_pc_city_trade_value:0 "$pc_city$ 贸易顺差"
+ starborn_pc_city_trade_value_desc:0 "这个$pc_habitat$是轨道中途停留站和中转站，它与$pc_city$创造了一个巨大的促进贸易"
+ starborn_trade_value_5:0 "地表贸易价值"
+ starborn_trade_value_5_desc:0 "这颗恒星独特的奇特之处是相当有价值的，并导致了交易的波动"
+ starborn_trade_value_10:0 "地表贸易价值"
+ starborn_trade_value_10_desc:0 "这颗恒星独特的奇特之处是相当有价值的，并导致了交易的波动"
+ starborn_trade_value_15:0 "地表贸易价值"
+ starborn_trade_value_15_desc:0 "这颗恒星独特的奇特之处是很有价值的，并导致了交易的波动"
+ starborn_trade_value_20:0 "地表贸易价值"
+ starborn_trade_value_20_desc:0 "这颗恒星独特的奇特之处是非常宝贵的，并导致了交易的波动"
+ starborn_trade_value_25:0 "地表贸易价值"
+ starborn_trade_value_25_desc:0 "这颗恒星独特的奇特之处是极其宝贵的，并导致了交易的波动"
+ starborn_physics_5:0 "奇怪的物理"
+ starborn_physics_5_desc:0 "这颗名为$pc_habitat$的恒星体正在围绕着它不寻常的$physics$轨道运行，研究这个改进了我们自己的研究"
+ starborn_physics_10:0 "奇怪的物理"
+ starborn_physics_10_desc:0 "这颗名为$pc_habitat$的恒星体正在围绕着它不寻常的$physics$轨道运行，研究这个改进了我们自己的研究"
+ starborn_physics_15:0 "奇怪的物理"
+ starborn_physics_15_desc:0 "这颗名为$pc_habitat$的恒星体正在围绕着它不寻常的$physics$轨道运行，研究这个改进了我们自己的研究"
+ starborn_physics_20:0 "奇怪的物理"
+ starborn_physics_20_desc:0 "这颗名为$pc_habitat$的恒星体正在围绕着它不寻常的$physics$轨道运行，研究这个改进了我们自己的研究"
+ starborn_physics_25:0 "奇怪的物理"
+ starborn_physics_25_desc:0 "这颗名为$pc_habitat$的恒星体正在围绕着它不寻常的$physics$轨道运行，研究这个改进了我们自己的研究"
+ starborn_society_5:0 "激起生命的好奇心"
+ starborn_society_5_desc:0 "这个$pc_habitat$所环绕的行星有不同寻常的生物生活在生物圈中，对它们的研究改进了我们自己的研究"
+ starborn_society_10:0 "激起生命的好奇心"
+ starborn_society_10_desc:0 "这个$pc_habitat$所环绕的行星有不同寻常的生物生活在生物圈中，对它们的研究改进了我们自己的研究"
+ starborn_society_15:0 "激起生命的好奇心"
+ starborn_society_15_desc:0 "这个$pc_habitat$所环绕的行星有不同寻常的生物生活在生物圈中，对它们的研究改进了我们自己的研究"
+ starborn_society_20:0 "激起生命的好奇心"
+ starborn_society_20_desc:0 "这个$pc_habitat$所环绕的行星有不同寻常的生物生活在生物圈中，对它们的研究改进了我们自己的研究"
+ starborn_society_25:0 "激起生命的好奇心"
+ starborn_society_25_desc:0 "这个$pc_habitat$所环绕的行星有不同寻常的生物生活在生物圈中，对它们的研究改进了我们自己的研究"
+ starborn_engineering_5:0 "不寻常的材料"
+ starborn_engineering_5_desc:0 "这个$pc_habitat$是不是有意想不到的物质结构，对它们的研究促进了我们自己的研究"
+ starborn_engineering_10:0 "不寻常的材料"
+ starborn_engineering_10_desc:0 "这个$pc_habitat$是不是有意想不到的物质结构，对它们的研究促进了我们自己的研究"
+ starborn_engineering_15:0 "不寻常的材料"
+ starborn_engineering_15_desc:0 "这个$pc_habitat$是不是有意想不到的物质结构，对它们的研究促进了我们自己的研究"
+ starborn_engineering_20:0 "不寻常的材料"
+ starborn_engineering_20_desc:0 "这个$pc_habitat$是不是有意想不到的物质结构，对它们的研究促进了我们自己的研究"
+ starborn_engineering_25:0 "不寻常的材料"
+ starborn_engineering_25_desc:0 "这个$pc_habitat$是不是有意想不到的物质结构，对它们的研究促进了我们自己的研究"
+
+ 
+ decision_starborn_enlarge_hab:0 "建造更多的栖息地"
+ decision_starborn_enlarge_hab_desc:0 "我们可以构建新的$pc_habitat$区域，这样它就可以支持一个额外的区域"
+
+ decision_starborn_fully_enlarge_hab:0 "全面构建栖息地"
+ decision_starborn_fully_enlarge_hab_desc:0 "慢扩张的时代已经结束了，尽我们的工程能力所能，全面建设$pc_habitat$"
+
+
+
+ decision_starborn_increase_hab_district_1:0 "扩大栖息地 1"
+ decision_starborn_increase_hab_district_1_desc:0 "我们可以扩大$pc_habitat$的部分，这样它就可以支持一个额外的区划"
+
+ decision_starborn_increase_hab_district_2:0 "扩大栖息地 2"
+ decision_starborn_increase_hab_district_2_desc:0 "我们可以扩大$pc_habitat$的部分，这样它就可以支持一个额外的区划"
+
+ decision_starborn_increase_hab_district_3:0 "扩大栖息地 3"
+ decision_starborn_increase_hab_district_3_desc:0 "我们对大型结构工程的知识，让我们进一步扩大$pc_habitat$，使它可以支持更多的区划"
+
+
+ starborn_habitat_districts_1:0 "扩大栖息地"
+ starborn_habitat_districts_1_desc:0 "扩大和更好地利用空间$pc_habitat$"
+
+ starborn_habitat_districts_2:0 "$starborn_habitat_districts_1$"
+ starborn_habitat_districts_2_desc:0 "$starborn_habitat_districts_1_desc$"
+
+ starborn_habitat_districts_3:0 "$starborn_habitat_districts_1$"
+ starborn_habitat_districts_3_desc:0 "$starborn_habitat_districts_1_desc$"
+
+
+
+
+
+ decision_starborn_increase_starting_hab_district_1:0 "扩大$pc_starborn_habitat_start$"
+ decision_starborn_increase_starting_hab_district_1_desc:0 "随着我们对恒星基地工程知识的提高，我们可以增加我们的$pc_starborn_habitat_start$"
+
+ decision_starborn_increase_starting_hab_district_2:0 "$decision_starborn_increase_starting_hab_district_1$"
+ decision_starborn_increase_starting_hab_district_2_desc:0 "$decision_starborn_increase_starting_hab_district_1_desc$"
+
+ decision_starborn_increase_starting_hab_district_3:0 "$decision_starborn_increase_starting_hab_district_1$"
+ decision_starborn_increase_starting_hab_district_3_desc:0 "$decision_starborn_increase_starting_hab_district_1_desc$"
+
+ decision_starborn_increase_starting_hab_district_4:0 "扩大$pc_starborn_habitat_start$"
+ decision_starborn_increase_starting_hab_district_4_desc:0 "我们对巨型结构工程的了解使我们能够为曾经认为不可能的$pc_starborn_habitat_start$构建附加组件"
+
+ decision_starborn_increase_starting_hab_district_voidborn:0 "$pc_starborn_habitat_start$ 拥抱空虚"
+ decision_starborn_increase_starting_hab_district_voidborn_desc:0 "随着$civic_starborn$变成$ap_voidborn$，我们找到了新的方法来增强我们的$pc_starborn_habitat_start$"
+
+ decision_starborn_increase_starting_hab_district_master_builders:0 "$pc_starborn_habitat_start$是主体建筑"
+ decision_starborn_increase_starting_hab_district_master_builders_desc:0 "要想精通建造者，通过科幻小说的方式来启动项目是可能的"
+
+ decision_starborn_increase_starting_hab_district_galatic_wonders:0 "$pc_starborn_habitat_start$奇迹"
+ decision_starborn_increase_starting_hab_district_galatic_wonders_desc:0 "$pc_starborn_habitat_start$的范围大小可以成为真正的星河奇迹"
+
+ starborn_starting_habitat_districts_1:0 "扩大$pc_starborn_habitat_start$"
+ starborn_starting_habitat_districts_1_desc:0 "扩大更好地利用$pc_starborn_habitat_start$空间"
+
+ starborn_starting_habitat_districts_2:0 "$starborn_starting_habitat_districts_1$"
+ starborn_starting_habitat_districts_2_desc:0 "$starborn_starting_habitat_districts_1_desc$"
+
+ starborn_starting_habitat_districts_3:0 "$starborn_starting_habitat_districts_1$"
+ starborn_starting_habitat_districts_3_desc:0 "$starborn_starting_habitat_districts_1_desc$"
+
+ starborn_starting_habitat_districts_4:0 "$starborn_starting_habitat_districts_1$"
+ starborn_starting_habitat_districts_4_desc:0 "$starborn_starting_habitat_districts_1_desc$"
+
+ starborn_starting_habitat_districts_voidborn:0 "$ap_voidborn$ 改进"
+ starborn_starting_habitat_districts_voidborn_desc:0 "我们的知识和技能$ap_voidborn$提高了$pc_starborn_habitat_start$的能力"
+
+ starborn_starting_habitat_districts_master_builders:0 "大师级建筑"
+ starborn_starting_habitat_districts_master_builders_desc:0 "我们是银河系的大师，创造了一个前所未有的$pc_starborn_habitat_start$"
+
+ starborn_starting_habitat_districts_galatic_wonders:0 "星河奇迹"
+ starborn_starting_habitat_districts_galatic_wonders_desc:0 "$pc_starborn_habitat_start$庞大规模在整个银河系都是一个奇迹"
+
+ 
+

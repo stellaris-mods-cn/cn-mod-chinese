@@ -1,0 +1,64 @@
+﻿l_simp_chinese:
+ ####################################
+ # Species Traits
+ ####################################
+ trait_pc_latent_magic_preference:0 "潜在奥法"
+ trait_pc_latent_magic_preference_desc:1 "§T整个物种都进化出了表演奇迹的能力。这种能力必须在儿童时期通过沉浸在高度饱和的环境中来培养。§!\n\n§H非奥法宜居性30%§!"
+
+ trait_pc_magic_preference:0 "奥法"
+ trait_pc_magic_preference_desc:1 "§T现实屈从于这个物种的意志。当它们的生命力使它们几乎永垂不朽时，它们就不需要大多数技术了。这种能力必须在儿童时期通过沉浸在高度饱和的环境中来培养。§!\n\n§H非奥法宜居性10%§!"
+
+ trait_fake_magic:0 "奥术接枝"
+ trait_fake_magic_desc:2 "§R这个物种是一个对自然深恶不绝的物种，它被植入了许多奥法的神器，这些神器可以让它们执行真正的奥法天赋所能完成的任务。§!\n"
+
+ ####################################
+ # Leader Traits
+ ####################################
+ leader_trait_expertise_magic:0 "专业知识:奥法技术"
+ leader_trait_expertise_magic_desc:0 "经过多年的研究，这位领导者被认为是奥法技术领域的专家。"
+
+ mod_category_magic_research_speed_mult:0 "研究速度 (奥法技术)"
+
+ leader_trait_admiral_magic_ascended:0 "神圣的融合"
+ leader_trait_admiral_magic_ascended_desc:0 "这位领袖拥有极具魔力的力量，甚至接近神性。"
+ leader_trait_general_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_general_magic_ascended_desc:0 "$leader_trait_admiral_magic_ascended_desc$"
+ leader_trait_governor_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_governor_magic_ascended_desc:0 "$leader_trait_admiral_magic_ascended_desc$"
+ leader_trait_scientist_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_scientist_magic_ascended_desc:0 "$leader_trait_admiral_magic_ascended_desc$"
+ leader_trait_ruler_magic_ascended:0 "$leader_trait_admiral_magic_ascended$"
+ leader_trait_ruler_magic_ascended_desc:0 "$leader_trait_admiral_magic_ascended_desc$"
+
+ leader_trait_admiral_magic:0 "主的奥法"
+ leader_trait_admiral_magic_desc:0 "这位领袖是个异常强大的奥法师。"
+ leader_trait_general_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_general_magic_desc:0 "$leader_trait_admiral_magic_desc$"
+ leader_trait_governor_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_governor_magic_desc:0 "$leader_trait_admiral_magic_desc$"
+ leader_trait_scientist_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_scientist_magic_desc:0 "$leader_trait_admiral_magic_desc$"
+ leader_trait_ruler_magic:0 "$leader_trait_admiral_magic$"
+ leader_trait_ruler_magic_desc:0 "$leader_trait_admiral_magic_desc$"
+
+ leader_trait_admiral_dark_faction:0 "黑暗支持者"
+ leader_trait_admiral_dark_faction_desc:0 "这位领导人信奉黑暗派系的理想。"
+ leader_trait_general_dark_faction:0 "$leader_trait_admiral_dark_faction$"
+ leader_trait_general_dark_faction_desc:0 "$leader_trait_admiral_dark_faction_desc$"
+ leader_trait_governor_dark_faction:0 "$leader_trait_admiral_dark_faction$"
+ leader_trait_governor_dark_faction_desc:0 "$leader_trait_admiral_dark_faction_desc$"
+ leader_trait_scientist_dark_faction:0 "$leader_trait_admiral_dark_faction$"
+ leader_trait_scientist_dark_faction_desc:0 "$leader_trait_admiral_dark_faction_desc$"
+ leader_trait_ruler_dark_faction:0 "$leader_trait_admiral_dark_faction$"
+ leader_trait_ruler_dark_faction_desc:0 "$leader_trait_admiral_dark_faction_desc$"
+
+ leader_trait_admiral_light_faction:0 "光明支持者"
+ leader_trait_admiral_light_faction_desc:0 "这位领导人信奉光明派系的理想。"
+ leader_trait_general_light_faction:0 "$leader_trait_admiral_light_faction$"
+ leader_trait_general_light_faction_desc:0 "$leader_trait_admiral_light_faction_desc$"
+ leader_trait_governor_light_faction:0 "$leader_trait_admiral_light_faction$"
+ leader_trait_governor_light_faction_desc:0 "$leader_trait_admiral_light_faction_desc$"
+ leader_trait_scientist_light_faction:0 "$leader_trait_admiral_light_faction$"
+ leader_trait_scientist_light_faction_desc:0 "$leader_trait_admiral_light_faction_desc$"
+ leader_trait_ruler_light_faction:0 "$leader_trait_admiral_light_faction$"
+ leader_trait_ruler_light_faction_desc:0 "$leader_trait_admiral_light_faction_desc$"

@@ -33,7 +33,7 @@
  dpe_fe.2.friendly:0 "$dpe_fe.2.pay$"
  dpe_fe.2.nopay:0 "代价太高了——我选择接受自己的凡寿大限"
 
-dpe_paying_spirFE:0 "向堕落帝国支付报酬"
+dpe_paying_spirFE:0 "向失落帝国支付报酬"
 dpe_paying_friendly_spirFE:0 "$dpe_paying_spirFE$"
 dpe_paying_xenoFE:0 "$dpe_paying_spirFE$"
 dpe_paying_friendly_xenoFE:0 "$dpe_paying_spirFE$"
@@ -55,12 +55,12 @@ dpe_fe.4.name:0 "[root.GetRulerTitle] [root.GetRulerName]逝世"
 dpe_fe.4.desc:0 "[root.GetRulerTitle] [root.GetRulerName]的大脑退化症状突然急剧恶化， [dpe_fe.GetName]的医疗人员根本来不及对[root.Leader.GetHimHer]开展诊断"
  
 dpe_leader_trait_reinvigorated:0 "恢复活力"
-dpe_leader_trait_reinvigorated_desc:0 "经过堕落帝国提供的治疗后，领袖又感到年轻而充满活力."
+dpe_leader_trait_reinvigorated_desc:0 "经过失落帝国提供的治疗后，领袖又感到年轻而充满活力."
  
 dpe_leader_die_soon:0 "[root.GetRulerTitle] [root.GetRulerName] 很快就会死."
 
 #Second chain
- dpe_fe.20.name:0 "堕落帝国的逃亡者"
+ dpe_fe.20.name:0 "失落帝国的逃亡者"
  dpe_fe.20.desc:0 "早上好啊，我的[root.GetRulerTitle]。我是……[dpe_escaped_scientist.GetName]，你忠诚的子民。\n\n*咯咯作响的笑声*\n\n我最近从[FallenEmpireTaskOrigin.GetName]跑了出来。在那里，我近距离地研究了他们的科技。我把大部分笔记都带了出来，相信可以复制其中数项技术。\n\n还有，[FallenEmpireTaskOrigin.GetName]对我做了一些……改进。现在我能轻易处理复杂的难以置信的思维进程，令[root.GetSpeciesAdj]最伟大的天才也望尘莫及。这可能让我显得有点跳脱，不过没什么大不了的。\n\n*咯咯作响的笑声*\n\n啊，我应该说一声，[FallenEmpireTaskOrigin.GetSpeciesNamePlural]可能对我有点生气……这点麻烦对你来说不值一提，对吧。\n\n *咯咯作响的笑声*"
  dpe_fe.20.option:0 "好极了……我猜？"
  dpe_fe.20.tooltip:0 "[dpe_escaped_scientist.GetName]是一名5级科学家，拥有特性$leader_trait_scientist_erudite$, $leader_trait_maniacal$ 及$dpe_leader_trait_ancient_knowledge$ 现将加入领袖库"
@@ -78,5 +78,5 @@ dpe_leader_die_soon:0 "[root.GetRulerTitle] [root.GetRulerName] 很快就会死.
  
 
 dpe_leader_trait_ancient_knowledge:0 "远古知识"
-dpe_leader_trait_ancient_knowledge_desc:0 "这位科学家亲身体验了堕落帝国的运转，还拥有一份远古科技的资料，希望能将其掌握"
+dpe_leader_trait_ancient_knowledge_desc:0 "这位科学家亲身体验了失落帝国的运转，还拥有一份远古科技的资料，希望能将其掌握"
  

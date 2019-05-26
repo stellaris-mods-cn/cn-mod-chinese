@@ -2,10 +2,10 @@
  ####################################
  # policies
  ####################################
- policy_vault_options:0 "Wondrous Vault"
- policy_vault_options_desc:0 "The Vault: the precursors' seemingly endless hoard of alloys and strategic resources." 
- vault_idle:0 "Idling"
- vault_idle_desc:0 "At its lowest setting, the aperture to the Vault is barely there.\n§YEffects:§!"
- vault_active:0 "Active"
- vault_active_desc:0 "At full capacity, the portal provides us seemingly limitless access to the Vault's contents. Even the furthest reaches of our empire can make use of it.\n§YEffects:§!"
+ policy_vault_options:0 "玄秘宝库"
+ policy_vault_options_desc:0 "宝库：先驱似乎有无限的资源在里面。"
+ vault_idle:0 "空载"
+ vault_idle_desc:0 "低能状态传送门几乎只有一个孔。\n§Y效果:§!"
+ vault_active:0 "活跃"
+ vault_active_desc:0 "完全运行的传送门能让我们无限浏览宝库里的内容。\n§Y效果:§!"
  

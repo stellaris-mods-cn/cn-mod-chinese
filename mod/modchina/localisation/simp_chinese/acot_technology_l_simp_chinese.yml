@@ -1,15 +1,91 @@
 ﻿l_simp_chinese:
+
 ### SHIP TEXTS
- 
+BASE_COMBAT_COMPUTER_COLOSSUS_DM: "巨神$combat_computers$"
+BASE_COMBAT_COMPUTER_COLOSSUS_DM_DESC: "$precursor_colossus$的早期原型，改良自$OUTLINER_STARBASES$的$combat_computers$。"
+
+BASE_COMBAT_COMPUTER_COLOSSUS_AE: "仿生作战计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_AE_DESC: "黑暗在召唤。"
+
+BASE_COMBAT_COMPUTER_COLOSSUS_SE: "$tech_computer_stellarite$"
+BASE_COMBAT_COMPUTER_COLOSSUS_SE_DESC: "明星在召唤。"
+
+BASE_COMBAT_COMPUTER_COLOSSUS_OE: "全矩阵分析仪"
+BASE_COMBAT_COMPUTER_COLOSSUS_OE_DESC: "光芒的反射。"
+
+HERCULEAN_COMBAT_COMPUTER_AE: "仿生接口作战计算机"
+HERCULEAN_COMBAT_COMPUTER_AE_DESC: "$SMALL_SHIP_COMBAT_COMPUTER_1_DESC$"
+
+################################################
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_CRACKER: "准备碎裂$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_SHIELDER: "准备禁锢$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NUKE: "准备核爆$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NEUTRON: "准备清扫$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_GODRAY: "准备感召$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_HYPNOSIS: "准备操控$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANOBOTS: "准备植入$PLANET|Y$"
+
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_CRACKER: "准备碎裂$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_SHIELDER: "准备禁锢$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_NUKE: "准备核爆$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_NEUTRON: "准备清扫$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_GODRAY: "准备感召$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_HYPNOSIS: "准备操控$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_SE_PLANET_KILLER_NANOBOTS: "准备植入$PLANET|Y$"
+
+ MESSAGE_DESC_FOR_ACOT_SE_PLANET_KILLER_CRACKER: "彻底摧毁了"
+ MESSAGE_DESC_FOR_ACOT_SE_PLANET_KILLER_SHIELDER: "禁锢于不可通过的天壁下"
+ MESSAGE_DESC_FOR_ACOT_SE_PLANET_KILLER_NEUTRON: "的高等生物都被肃清了"
+ MESSAGE_DESC_FOR_ACOT_SE_PLANET_KILLER_GODRAY: "接受了神圣信仰的审判"
+ MESSAGE_DESC_FOR_ACOT_SE_PLANET_KILLER_NANOBOTS: "被纳米机器人植入改造了"
+
+ ACOT_PLANET_KILLER_CRACKER: "$PLANET_KILLER_CRACKER$"
+ ACOT_PLANET_KILLER_CRACKER_ACTION: "$PLANET_KILLER_CRACKER_ACTION$"
+ ACOT_PLANET_KILLER_CRACKER_DESC: "$PLANET_KILLER_CRACKER_DESC$"
+ ACOT_PLANET_KILLER_SHIELDER: "$PLANET_KILLER_SHIELDER$"
+ ACOT_PLANET_KILLER_SHIELDER_ACTION: "$PLANET_KILLER_SHIELDER_ACTION$"
+ ACOT_PLANET_KILLER_SHIELDER_DESC: "$PLANET_KILLER_SHIELDER_DESC$"
+ ACOT_PLANET_KILLER_NEUTRON: "$PLANET_KILLER_NEUTRON$"
+ ACOT_PLANET_KILLER_NEUTRON_ACTION: "$PLANET_KILLER_NEUTRON_ACTION$"
+ ACOT_PLANET_KILLER_NEUTRON_DESC: "$PLANET_KILLER_NEUTRON_DESC$"
+ ACOT_PLANET_KILLER_GODRAY: "$PLANET_KILLER_GODRAY$"
+ ACOT_PLANET_KILLER_GODRAY_ACTION: "$PLANET_KILLER_GODRAY_ACTION$"
+ ACOT_PLANET_KILLER_GODRAY_DESC: "$PLANET_KILLER_GODRAY_DESC$"
+ ACOT_PLANET_KILLER_NANOBOTS: "$PLANET_KILLER_NANOBOTS$"
+ ACOT_PLANET_KILLER_NANOBOTS_ACTION: "$PLANET_KILLER_NANOBOTS_ACTION$"
+ ACOT_PLANET_KILLER_NANOBOTS_DESC: "$PLANET_KILLER_NANOBOTS_DESC$"
+
+ ACOT_SE_PLANET_KILLER_CRACKER: "$PLANET_KILLER_CRACKER$"
+ ACOT_SE_PLANET_KILLER_CRACKER_ACTION: "$PLANET_KILLER_CRACKER_ACTION$"
+ ACOT_SE_PLANET_KILLER_CRACKER_DESC: "$PLANET_KILLER_CRACKER_DESC$"
+ ACOT_SE_PLANET_KILLER_SHIELDER: "$PLANET_KILLER_SHIELDER$"
+ ACOT_SE_PLANET_KILLER_SHIELDER_ACTION: "$PLANET_KILLER_SHIELDER_ACTION$"
+ ACOT_SE_PLANET_KILLER_SHIELDER_DESC: "$PLANET_KILLER_SHIELDER_DESC$"
+ ACOT_SE_PLANET_KILLER_NEUTRON: "$PLANET_KILLER_NEUTRON$"
+ ACOT_SE_PLANET_KILLER_NEUTRON_ACTION: "$PLANET_KILLER_NEUTRON_ACTION$"
+ ACOT_SE_PLANET_KILLER_NEUTRON_DESC: "$PLANET_KILLER_NEUTRON_DESC$"
+ ACOT_SE_PLANET_KILLER_GODRAY: "$PLANET_KILLER_GODRAY$"
+ ACOT_SE_PLANET_KILLER_GODRAY_ACTION: "$PLANET_KILLER_GODRAY_ACTION$"
+ ACOT_SE_PLANET_KILLER_GODRAY_DESC: "$PLANET_KILLER_GODRAY_DESC$"
+ ACOT_SE_PLANET_KILLER_NANOBOTS: "$PLANET_KILLER_NANOBOTS$"
+ ACOT_SE_PLANET_KILLER_NANOBOTS_ACTION: "$PLANET_KILLER_NANOBOTS_ACTION$"
+ ACOT_SE_PLANET_KILLER_NANOBOTS_DESC: "$PLANET_KILLER_NANOBOTS_DESC$"
+
+
+
+################################################
+
+
+
 SMALL_SHIP_COMBAT_COMPUTER_1: "仿生接口作战计算机(蜂群)"
 SMALL_SHIP_COMBAT_COMPUTER_1_DESC: "这艘先进的舰船使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵的影响，并拥有无与伦比的战斗算法。"
-SMALL_SHIP_COMBAT_COMPUTER_2: "仿生接口作战计算机(哨兵)"
+SMALL_SHIP_COMBAT_COMPUTER_2: "仿生接口作战计算机($sentinel_sphere$)"
 SMALL_SHIP_COMBAT_COMPUTER_2_DESC: "$SMALL_SHIP_COMBAT_COMPUTER_1_DESC$"
 SMALL_SHIP_COMBAT_COMPUTER_3: "仿生接口作战计算机(线列)"
 SMALL_SHIP_COMBAT_COMPUTER_3_DESC: "$SMALL_SHIP_COMBAT_COMPUTER_1_DESC$"
 SMALL_SHIP_COMBAT_COMPUTER_4: "仿生接口作战计算机(炮兵)"
 SMALL_SHIP_COMBAT_COMPUTER_4_DESC: "$SMALL_SHIP_COMBAT_COMPUTER_1_DESC$"
-LARGE_SHIP_COMBAT_COMPUTER_1: "仿生接口作战计算机(哨兵)"
+LARGE_SHIP_COMBAT_COMPUTER_1: "仿生接口作战计算机($sentinel_sphere$)"
 LARGE_SHIP_COMBAT_COMPUTER_1_DESC: "$SMALL_SHIP_COMBAT_COMPUTER_1_DESC$"
 LARGE_SHIP_COMBAT_COMPUTER_2: "仿生接口作战计算机(线列)"
 LARGE_SHIP_COMBAT_COMPUTER_2_DESC: "$SMALL_SHIP_COMBAT_COMPUTER_1_DESC$"
@@ -113,7 +189,7 @@ tech_sensor_fe:0 "暗物质移动模式分析"
 tech_sensor_fe_desc:0 "我们现在知道暗物质不仅存在于黑洞中，而且存在于所有星系中。这些黑暗物质的数量太少，无法使用，但它们仍然会在运动过程中产生明显的变化。如果我们能研究这种反应，我们就有可能创造出一种新的传感器技术，这种技术优于基于转速的传感器。"
 
 tech_fe_thruster_2:0 "改进型暗物质推进器"
-tech_fe_thruster_2_desc:0 "$OUTLINER_FALLEN_EMPIRES$所使用的推进器相当古老，并不像他们想象的那么强大。如果我们能改进这些推进器的内部工作原理，我们将能够带回真正强大的船舶引擎，与我们的飞升帝国相称。"
+tech_fe_thruster_2_desc:0 "$OUTLINER_FALLEN_EMPIRES$所使用的推进器相当古老，并不像他们想象的那么强大。如果我们能改进这些推进器的内部工作原理，我们将能够带回真正强大的船舶引擎，与我们的巅峰帝国相称。"
 
 tech_sensors_dm:0 "仿生传感器"
 tech_sensors_dm_desc:0 "先进的传感器，使用仿生链接技术探测敌方舰船。该系统既能检测有机物，又能检测机器。"
@@ -156,17 +232,17 @@ TECH_UNLOCK_FE_SENSOR_DESC:0 "§H$E神秘传感器$§!\n$FE_SENSOR_SHIP_DESC$"
 
 mod_shipsize_fe_escort_hull_add: "护航舰船体值"
 mod_shipsize_fe_battlecruiser_hull_add: "战列巡洋舰船体值"
-mod_shipsize_fe_titan_hull_add: "堕落泰坦船体值"
+mod_shipsize_fe_titan_hull_add: "失落泰坦船体值"
 mod_shipsize_fe_goliath_hull_add: "歌利亚船体值"
 
 mod_shipsize_fe_escort_build_speed_mult: "护航舰建造速度"
 mod_shipsize_fe_battlecruiser_build_speed_mult: "战列巡洋舰建造速度"
-mod_shipsize_fe_titan_build_speed_mult: "堕落泰坦建造速度"
+mod_shipsize_fe_titan_build_speed_mult: "失落泰坦建造速度"
 mod_shipsize_fe_goliath_build_speed_mult: "歌利亚建造速度"
 
 mod_shipsize_fe_escort_build_cost_mult: "护航舰建造成本"
 mod_shipsize_fe_battlecruiser_build_cost_mult: "战列巡洋舰建造成本"
-mod_shipsize_fe_titan_build_cost_mult: "堕落泰坦建造成本"
+mod_shipsize_fe_titan_build_cost_mult: "失落泰坦建造成本"
 mod_shipsize_fe_goliath_build_cost_mult: "歌利亚建造成本"
 
 #### ARMY Tech ####
@@ -975,13 +1051,13 @@ tech_strike_craft_bomber_ae: "先驱舰载机"
 tech_strike_craft_bomber_ae_desc: "在$OUTLINER_FALLEN_EMPIRES$的文件中，有一个未经确认的非常先进的攻击机蓝图，它与我们熟悉的前体设计完全不同。但是预计的表现非常好。"
 
 tech_strike_craft_bomber_dm: "神秘舰载机"
-tech_strike_craft_bomber_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器，导向板，强光电镀、仿生传感器。所有这些元素使这些打击船成为强大的敌人，以对抗更大的舰船。"
+tech_strike_craft_bomber_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器，导向板，强光电镀、仿生传感器。所有这些元素使这些舰载机成为强大的敌人，以对抗更大的舰船。"
 
 tech_strike_craft_fighter_ae: "先驱舰载机"
 tech_strike_craft_fighter_ae_desc: "在$OUTLINER_FALLEN_EMPIRES$的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的前体设计完全不同。但是预计的表现非常好。"
 
 tech_strike_craft_fighter_dm: "神秘舰载机"
-tech_strike_craft_fighter_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器，导向板，强光电镀、仿生传感器。所有这些元素使这些打击船成为强大的敌人，以对抗更大的舰船。"
+tech_strike_craft_fighter_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器，导向板，强光电镀、仿生传感器。所有这些元素使这些舰载机成为强大的敌人，以对抗更大的舰船。"
 
 tech_swarmer_missile_ae: "路西法集群导弹"
 tech_swarmer_missile_ae_desc: "路西法集群导弹利用基于原型计算系统从极其古老的前体来历不明的日期，优于仿生传感器。"
@@ -1411,23 +1487,29 @@ tech_shroud_storm_desc: "主人的命令，$utopia.3000.name$必须响应召唤�
 
 ####PRECURSOR SHIP NAMES
 
-sentinel_sphere: "哨兵"
-sentinel_sphere_plural: "哨兵"
-
 precursor_escort: "$small_ship_fallen_empire$"
 precursor_escort_plural: "$small_ship_fallen_empire$"
 
 precursor_battlecruiser: "$large_ship_fallen_empire$"
 precursor_battlecruiser_plural: "$large_ship_fallen_empire$"
 
-fe_assault_carrier: "打击航空母舰"
-fe_assault_carrier_plural: "打击航空母舰"
+fe_assault_carrier: "航空母舰"
+fe_assault_carrier_plural: "航空母舰"
 
 precursor_titan: "亥伯龙"
 precursor_titan_plural: "亥伯龙"
 
-sofe_gatekeeper_warden: "守门人典狱长"
-sofe_gatekeeper_warden_plural: "守门人典狱长"
+precursor_guardian: "守护者"
+precursor_guardian_plural: "守护者"
+
+sentinel_sphere: "哨兵"
+sentinel_sphere_plural: "哨兵"
+
+sofe_gatekeeper_warden: "守门人"
+sofe_gatekeeper_warden_plural: "守门人"
+
+precursor_colossus: "巨神战舰"
+precursor_colossus_plural: "巨神战舰"
 
 #### PRECURSOR SIHP SECTION #####
 ##################################################################################################
@@ -1446,6 +1528,59 @@ stellar_fallen_empire_sentinel_data_key: "∑型$fallen_empire_sentinel_data_key
 omega_fallen_empire_sentinel_hull_key: "Ω型$fallen_empire_sentinel_hull_key$"
 omega_fallen_empire_sentinel_core_key: "Ω型$fallen_empire_sentinel_core_key$"
 omega_fallen_empire_sentinel_data_key: "Ω型$fallen_empire_sentinel_data_key$"
+
+
+PRECURSOR_GUARDIAN_TOP_KEY: "排炮系统"
+PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "导弹系统"
+PRECURSOR_GUARDIAN_LEFT_KEY: "火炮系统"
+PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "导弹系统"
+PRECURSOR_GUARDIAN_RIGHT_KEY: "防御系统"
+PRECURSOR_GUARDIAN_HANGER_KEY: "挂载系统"
+
+ALPHA_PRECURSOR_GUARDIAN_TOP_KEY: "α型$PRECURSOR_GUARDIAN_TOP_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "α型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_LEFT_KEY: "α型$PRECURSOR_GUARDIAN_LEFT_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "α型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_RIGHT_KEY: "α型$PRECURSOR_GUARDIAN_RIGHT_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_HANGER_KEY: "α型$PRECURSOR_GUARDIAN_HANGER_KEY$"
+
+SIGMA_PRECURSOR_GUARDIAN_TOP_KEY: "∑型$PRECURSOR_GUARDIAN_TOP_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "∑型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_LEFT_KEY: "∑型$PRECURSOR_GUARDIAN_LEFT_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "∑型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_RIGHT_KEY: "∑型$PRECURSOR_GUARDIAN_RIGHT_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_HANGER_KEY: "∑型$PRECURSOR_GUARDIAN_HANGER_KEY$"
+
+OMEGA_PRECURSOR_GUARDIAN_TOP_KEY: "Ω型$PRECURSOR_GUARDIAN_TOP_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "Ω型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_LEFT_KEY: "Ω型$PRECURSOR_GUARDIAN_LEFT_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "Ω型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_RIGHT_KEY: "Ω型$PRECURSOR_GUARDIAN_RIGHT_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_HANGER_KEY: "Ω型$PRECURSOR_GUARDIAN_HANGER_KEY$"
+
+PRECURSOR_COLOSSUS_W_SECTION: "$colossus$"
+PRECURSOR_COLOSSUS_T_SECTION: "泰坦"
+PRECURSOR_COLOSSUS_XL_SECTION: "格拉斯"
+PRECURSOR_COLOSSUS_L_SECTION: "莱托"
+PRECURSOR_COLOSSUS_H_SECTION: "贺拉修"
+
+ALPHA_PRECURSOR_COLOSSUS_W_SECTION: "α型$PRECURSOR_COLOSSUS_W_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_T_SECTION: "α型$PRECURSOR_COLOSSUS_T_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_XL_SECTION: "α型$PRECURSOR_COLOSSUS_XL_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_L_SECTION: "α型$PRECURSOR_COLOSSUS_L_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_H_SECTION: "α型$PRECURSOR_COLOSSUS_H_SECTION$"
+
+SIGMA_PRECURSOR_COLOSSUS_W_SECTION: "∑型$PRECURSOR_COLOSSUS_W_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_T_SECTION: "∑型$PRECURSOR_COLOSSUS_T_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_XL_SECTION: "∑型$PRECURSOR_COLOSSUS_XL_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_L_SECTION: "∑型$PRECURSOR_COLOSSUS_L_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_H_SECTION: "∑型$PRECURSOR_COLOSSUS_H_SECTION$"
+
+OMEGA_PRECURSOR_COLOSSUS_W_SECTION: "Ω型$PRECURSOR_COLOSSUS_W_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_T_SECTION: "Ω型$PRECURSOR_COLOSSUS_T_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_XL_SECTION: "Ω型$PRECURSOR_COLOSSUS_XL_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_L_SECTION: "Ω型$PRECURSOR_COLOSSUS_L_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_H_SECTION: "Ω型$PRECURSOR_COLOSSUS_H_SECTION$"
 
 ##################################################################################################
 PRECURSOR_ESCORT_BOW_KEY: "基础核心"
@@ -1624,7 +1759,7 @@ OMEGA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Ω型$PRECURSOR_TITAN_STERN_TORPEDO_KE
 
 #### PRECARSOR TECH #####
 
-tech_fe_tower_offense: "哨兵蓝图"
+tech_fe_tower_offense: "$sentinel_sphere$蓝图"
 tech_fe_tower_offense_desc: "$OUTLINER_FALLEN_EMPIRES$防御平台的一个变种，专为反旗舰而建造，以及耐久极高的船体。"
 
 tech_precursor_design: "$OUTLINER_FALLEN_EMPIRES$数据分析"
@@ -1636,19 +1771,27 @@ tech_precursor_escort_desc: "这个技术缓存里有着$OUTLINER_FALLEN_EMPIRES
 tech_precursor_bc: "$large_ship_fallen_empire$蓝图"
 tech_precursor_bc_desc: "这个技术缓存里有着$OUTLINER_FALLEN_EMPIRES$所使用的$large_ship_fallen_empire$的蓝图和模板。该舰是集巡航、远程火炮、主力舰和航母一体化多功能设计。\n\n虽然有点草率，但是该设计似乎并没有考虑精通某一项功能.....这就好像是从某种更先进的设计中缩水了......"
 
-tech_fe_assault_carrier: "航空母舰蓝图"
-tech_fe_assault_carrier_desc: "我们发现，$OUTLINER_FALLEN_EMPIRES$运输舰的最初设计是作为一个强大的航空母舰。但是，老实说$OUTLINER_FALLEN_EMPIRES$在各种方面都表现的狠糟糕，所以他们没有成功。而我们则会成功。"
+tech_fe_assault_carrier: "$fe_assault_carrier$蓝图"
+tech_fe_assault_carrier_desc: "我们发现，$OUTLINER_FALLEN_EMPIRES$运输舰的最初设计是作为一个强大的$fe_assault_carrier$。但是，老实说$OUTLINER_FALLEN_EMPIRES$在各种方面都表现的狠糟糕，所以他们没有成功。而我们则会成功。"
 
-tech_precursor_titan: "亥伯龙蓝图"
-tech_precursor_titan_desc: "这个技术缓存里有着一个废弃方案，该方案被称为“亥伯龙”。这似乎是他们旗舰的第一个原型方案。记录表明，因为维护成本过高使得他们放弃了这一方案。\n\n还有描述说，这艘巨大舰船的外形使它容易受到“先祖”的攻击。毫无疑问，这些堕落帝国仍然想实现装载巨型脊峰模块的舰船。因此他们改造了现有船体的部件，并称为“泰坦”。\n\n所以现在看来，那些堕落帝国的泰坦基本是一艘军事化的民用船，先是建造船体，然后在舰首绑上采矿站的毁灭炮台.......这是什么鬼？"
+tech_precursor_titan: "$precursor_titan$蓝图"
+tech_precursor_titan_desc: "这个技术缓存里有着一个废弃方案，该方案被称为“$precursor_titan$”。这似乎是他们旗舰的第一个原型方案。记录表明，因为维护成本过高使得他们放弃了这一方案。\n\n还有描述说，这艘巨大舰船的外形使它容易受到“先祖”的攻击。毫无疑问，这些失落帝国仍然想实现装载巨型脊峰模块的舰船。因此他们改造了现有船体的部件，并称为“泰坦”。\n\n所以现在看来，那些失落帝国的泰坦基本是一艘军事化的民用船，先是建造船体，然后在舰首绑上采矿站的毁灭炮台.......这是什么鬼？"
 
-tech_gatekeepers: "守门人蓝图"
-tech_gatekeepers_desc: "根据$OUTLINER_FALLEN_EMPIRES$的记录，守门人最初被设计用于保护目标。但是守门人极其先进的AI背叛了自己的创造者。\n\n我们目前拥有的设计图纸看起来比描述的相去甚远。只有一种可能，最初的守门人设计非常强大。\n\n这是一个非常强大的主力舰，不容忽视。"
+tech_gatekeepers: "$sofe_gatekeeper_warden$蓝图"
+tech_gatekeepers_desc: "根据$OUTLINER_FALLEN_EMPIRES$的记录，$sofe_gatekeeper_warden$最初被设计用于保护目标。但是$sofe_gatekeeper_warden$极其先进的AI背叛了自己的创造者。\n\n我们目前拥有的设计图纸看起来比描述的相去甚远。只有一种可能，最初的$sofe_gatekeeper_warden$设计非常强大。\n\n这是一个非常强大的主力舰，不容忽视。"
+
+tech_precursor_guardian: "$precursor_guardian$蓝图"
+tech_precursor_guardian_desc: "$COUNTRY_FALLEN_EMPIRE$的防御平台似乎有多种设计方案和变种，其中我们知道的一种就是$COUNTRY_FALLEN_EMPIRE$现在所使用的。但是我们又发现另一个有趣的设计叫做“$precursor_guardian$”。它比防御哨站更强大，也有更优秀的改装空间。记录显示，他们因为设计极其复杂而没有采用$precursor_guardian$。他们更喜欢容易建造的防御哨站，因为它的船体基本与采矿站相同。这种享乐主义就是他们堕落的原因。"
+
 tech_precursor_escort_delta: "$small_ship_fallen_empire$模块化设计"
 tech_precursor_escort_delta_desc: "我们早就受够$OUTLINER_FALLEN_EMPIRES$那不灵活的模板了。我们将设计出更现代的模板，并且更加强大，也为$small_ship_fallen_empire$做出一些改变。"
 
 tech_precursor_bc_delta: "$large_ship_fallen_empire$模块化设计"
 tech_precursor_bc_delta_desc: "我们早就受够$OUTLINER_FALLEN_EMPIRES$那不灵活的模板了。我们将设计出更现代的模板，并且更加强大，也为$large_ship_fallen_empire$做出一些改变。"
+
+tech_precursor_colossus: "$precursor_colossus$蓝图"
+tech_precursor_colossus_desc: "这些数据揭示了隐藏的真相。$COUNTRY_FALLEN_EMPIRE$使用的巨像实际上是不完整的...只是一个更大的武器的一部分。这个“巨神”是一个巨大的战斗基地，甚至连$starbase_citadel$都相形见绌。这艘船足够大，它有两个主反应堆，并且有一个内置的自我修复协议，允许它在第一次达到临界损伤时修复船体到完全状态。“$colossus$”部分构成了该舰的内层。$COUNTRY_FALLEN_EMPIRE$决定去掉外层设计，只使用$colossus$部分作为他们改变世界的武器。\n\n这并不是很赚的感觉......为什么$COUNTRY_FALLEN_EMPIRE$决定给我们这个蓝图？也许他们认为我们造不出这么大的船？或许有一个隐藏的排气口能直通核心部位从而可以摧毁该舰？我们只能猜测。"
+
 
 ###ALPHA###
 
@@ -1658,17 +1801,24 @@ tech_precursor_escort_alpha_desc: "有了α反应堆，我们就可以完全超�
 tech_precursor_bc_alpha: "α型$large_ship_fallen_empire$"
 tech_precursor_bc_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$large_ship_fallen_empire$设计。我们将向傻瓜们展示它是如何做到的。"
 
-tech_fe_tower_offense_alpha: "α型哨兵"
-tech_fe_tower_offense_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的哨兵设计。我们将向傻瓜们展示它是如何做到的。"
+tech_fe_tower_offense_alpha: "α型$sentinel_sphere$"
+tech_fe_tower_offense_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$sentinel_sphere$设计。我们将向傻瓜们展示它是如何做到的。"
 
-tech_fe_assault_carrier_alpha: "α型打击航空母舰"
-tech_fe_assault_carrier_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的航空母舰设计。我们将向傻瓜们展示它是如何做到的。"
+tech_fe_assault_carrier_alpha: "α型$fe_assault_carrier$"
+tech_fe_assault_carrier_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$fe_assault_carrier$设计。我们将向傻瓜们展示它是如何做到的。"
 
-tech_precursor_titan_alpha: "α型亥伯龙"
+tech_precursor_titan_alpha: "α型$precursor_titan$"
 tech_precursor_titan_alpha_desc: "虽然该舰远没有原始设计的水平，但该舰仍是一艘强大的主力舰。"
 
-tech_gatekeepers_alpha: "α型守门人"
-tech_gatekeepers_alpha_desc: "α反应堆提供了足够的能量，现在应该可以对守门人做一些调整，让这艘舰船更接近它原本的样子。"
+tech_gatekeepers_alpha: "α型$sofe_gatekeeper_warden$"
+tech_gatekeepers_alpha_desc: "α反应堆提供了足够的能量，现在应该可以对$sofe_gatekeeper_warden$做一些调整，让这艘舰船更接近它原本的样子。"
+
+tech_precursor_guardian_alpha: "α型$precursor_guardian$"
+tech_precursor_guardian_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$precursor_guardian$设计。我们将向傻瓜们展示它是如何做到的。"
+
+tech_precursor_colossus_ae: "α型$precursor_colossus$"
+tech_precursor_colossus_ae_desc: "α反应堆提供了足够的能量，现在应该可以对$precursor_colossus$做一些调整，让这艘舰船更接近它原本的样子。"
+
 
 ###SIGMA###
 
@@ -1678,17 +1828,25 @@ tech_precursor_escort_sigma_desc: "该舰使用星能量反应堆基础上结合
 tech_precursor_bc_sigma: "∑型$large_ship_fallen_empire$"
 tech_precursor_bc_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$large_ship_fallen_empire$。"
 
-tech_fe_tower_offense_sigma: "∑型哨兵"
-tech_fe_tower_offense_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的哨兵。"
+tech_fe_tower_offense_sigma: "∑型$sentinel_sphere$"
+tech_fe_tower_offense_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$sentinel_sphere$。"
 
-tech_gatekeepers_sigma: "∑型守门人"
-tech_gatekeepers_sigma_desc: "根据计算，∑型守门人应该与原始设计非常接近了。"
+tech_gatekeepers_sigma: "∑型$sofe_gatekeeper_warden$"
+tech_gatekeepers_sigma_desc: "根据计算，∑型$sofe_gatekeeper_warden$应该与原始设计非常接近了。"
 
-tech_precursor_titan_sigma: "∑型亥伯龙"
-tech_precursor_titan_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更强大的亥伯龙。"
+tech_precursor_titan_sigma: "∑型$precursor_titan$"
+tech_precursor_titan_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更强大的$precursor_titan$。"
 
-tech_fe_assault_carrier_sigma: "∑型打击航空母舰"
-tech_fe_assault_carrier_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的航空母舰。"
+tech_fe_assault_carrier_sigma: "∑型$fe_assault_carrier$"
+tech_fe_assault_carrier_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$fe_assault_carrier$。"
+
+tech_precursor_guardian_sigma: "∑型$precursor_guardian$"
+tech_precursor_guardian_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$precursor_guardian$。"
+
+tech_precursor_colossus_se: "∑型$precursor_colossus$"
+tech_precursor_colossus_se_desc: "根据计算，∑型$precursor_colossus$应该与原始设计非常接近了。"
+
+
 
 ###OMEGA###
 tech_omega_escort: "Ω型$small_ship_fallen_empire$"
@@ -1697,18 +1855,24 @@ tech_omega_escort_desc: "模块化武器选择系统使得$tech_omega_escort$能
 tech_omega_battlecruiser: "Ω型$large_ship_fallen_empire$"
 tech_omega_battlecruiser_desc: "就像$tech_omega_escort$一样，$tech_omega_battlecruiser$先进的武器模块使其能够安装致命数量的武器系统和防御系统，这使得旧设计成为一个笑话。"
 
-tech_omega_carrier: "Ω型打击航空母舰"
+tech_omega_carrier: "Ω型$fe_assault_carrier$"
 tech_omega_carrier_desc: "难怪$OUTLINER_FALLEN_EMPIRES$放弃了复制航母的尝试。$tech_omega_carrier$可以搭载大量的舰载机，可以让先祖们在毫无困难的战斗中获胜。"
 
-tech_omege_sentinel: "Ω型哨兵"
+tech_omege_sentinel: "Ω型$sentinel_sphere$"
 tech_omege_sentinel_desc: "这样的效率……据说在先祖战争中，先祖的防御系统是坚不可摧的。我们现在开始明白原因了。"
 
-tech_omega_titan: "Ω型亥伯龙"
-tech_omega_titan_desc: "这一顶就是古代先祖所描绘的......Ω型亥伯龙，极具破坏性，确实很危险。"
+tech_omega_titan: "Ω型$precursor_titan$"
+tech_omega_titan_desc: "这一顶就是古代先祖所描绘的......Ω型$precursor_titan$，极具破坏性，确实很危险。"
 
-tech_omega_gatekeeper: "Ω型守门人"
-tech_omega_gatekeeper_desc: "所以这就是…臭名昭著的先祖守门人的真正设计模板。这是一个奇迹，$OUTLINER_FALLEN_EMPIRES$能够逆向这一技术就是奇迹的开始。"
+tech_omega_gatekeeper: "Ω型$sofe_gatekeeper_warden$"
+tech_omega_gatekeeper_desc: "所以这就是…臭名昭著的先祖$sofe_gatekeeper_warden$的真正设计模板。这是一个奇迹，$OUTLINER_FALLEN_EMPIRES$能够逆向这一技术就是奇迹的开始。"
 
+tech_omega_guardian: "Ω型$precursor_guardian$"
+tech_omega_guardian_desc: "这样的效率……据说在先祖战争中，先祖的防御系统是坚不可摧的。我们现在开始明白原因了。"
+
+
+tech_omega_colossus: "Ω型$precursor_colossus$"
+tech_omega_colossus_desc: "先祖曾使用它横扫战场....它的武器装载量是巨大的，可能是这个时代最致命的武器之一。"
 
 ###MASTERCRAFT###
 
@@ -1718,17 +1882,17 @@ tech_precursor_escort_cost_desc: "对这艘船的真正起源和机制的深入�
 tech_precursor_bc_cost: "先进$large_ship_fallen_empire$"
 tech_precursor_bc_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$large_ship_fallen_empire$。"
 
-tech_fe_tower_offense_cost: "先进哨兵"
-tech_fe_tower_offense_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的哨兵。"
+tech_fe_tower_offense_cost: "先进$sentinel_sphere$"
+tech_fe_tower_offense_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$sentinel_sphere$。"
 
-tech_fe_assault_carrier_cost: "先进打击航空母舰"
-tech_fe_assault_carrier_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的航空母舰。"
+tech_fe_assault_carrier_cost: "先进$fe_assault_carrier$"
+tech_fe_assault_carrier_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$fe_assault_carrier$。"
 
-tech_gatekeepers_cost: "先进守门人"
-tech_gatekeepers_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的守门人。"
+tech_gatekeepers_cost: "先进$sofe_gatekeeper_warden$"
+tech_gatekeepers_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$sofe_gatekeeper_warden$。"
 
-tech_precursor_titan_cost: "先进亥伯龙"
-tech_precursor_titan_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的亥伯龙。"
+tech_precursor_titan_cost: "先进$precursor_titan$"
+tech_precursor_titan_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$precursor_titan$。"
 
 
 sm_acot_precursor_database: "$OUTLINER_FALLEN_EMPIRES$者船坞数据库"
@@ -1761,6 +1925,12 @@ TECH_UNLOCK_ALPHA_GATEKEEPER_DESC: "§Yα型：§! $tech_gatekeepers_alpha_desc$
 
 TECH_UNLOCK_ALPHA_TITAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_titan_alpha$"
 TECH_UNLOCK_ALPHA_TITAN_DESC: "§Yα型：§! $tech_precursor_titan_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_GUARDIAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_guardian_alpha$"
+TECH_UNLOCK_ALPHA_GUARDIAN_DESC: "§Yα型Sections:§! $tech_precursor_guardian_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_COLOSSUS_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_colossus_ae$"
+TECH_UNLOCK_ALPHA_COLOSSUS_DESC: "§Yα型Sections:§! $tech_precursor_colossus_ae_desc$"
 #########################################################
 TECH_UNLOCK_SIGMA_ESCORT_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_escort_sigma$"
 TECH_UNLOCK_SIGMA_ESCORT_DESC: "§Y∑型：§! $tech_precursor_escort_sigma_desc$"
@@ -1779,6 +1949,12 @@ TECH_UNLOCK_SIGMA_GATEKEEPER_DESC: "§Y∑型：§! $tech_gatekeepers_sigma_desc
 
 TECH_UNLOCK_SIGMA_TITAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_titan_sigma$"
 TECH_UNLOCK_SIGMA_TITAN_DESC: "§Y∑型：§! $tech_precursor_titan_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_GUARDIAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_guardian_sigma$"
+TECH_UNLOCK_SIGMA_GUARDIAN_DESC: "§Y∑型Sections:§! $tech_precursor_guardian_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_COLOSSUS_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_colossus_se$"
+TECH_UNLOCK_SIGMA_COLOSSUS_DESC: "§Y∑型Sections:§! $tech_precursor_colossus_se_desc$"
 #########################################################
 TECH_UNLOCK_OMEGA_ESCORT_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_escort$"
 TECH_UNLOCK_OMEGA_ESCORT_DESC: "§YΩ型：§! $tech_omega_escort_desc$"
@@ -1798,19 +1974,30 @@ TECH_UNLOCK_OMEGA_GATEKEEPER_DESC: "§YΩ型：§! $tech_omega_gatekeeper_desc$"
 TECH_UNLOCK_OMEGA_TITAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_titan$"
 TECH_UNLOCK_OMEGA_TITAN_DESC: "§YΩ型：§! $tech_omega_titan_desc$"
 
+TECH_UNLOCK_OMEGA_GUARDIAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_guardian$"
+TECH_UNLOCK_OMEGA_GUARDIAN_DESC: "§YΩ型Sections:§! $tech_omega_guardian_desc$"
+
+TECH_UNLOCK_OMEGA_COLOSSUS_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_colossus$"
+TECH_UNLOCK_OMEGA_COLOSSUS_DESC: "§YΩ型Sections:§! $tech_omega_colossus_desc$"
+
+####################################
+
 mod_shipsize_precursor_escort_hull_add: "$small_ship_fallen_empire$船体值"
 mod_shipsize_precursor_battlecruiser_hull_add: "$large_ship_fallen_empire$船体值"
-mod_shipsize_fe_assault_carrier_hull_add: "航空母舰船体值"
-mod_shipsize_sentinel_sphere_hull_add: "哨兵船体值"
-mod_shipsize_sofe_gatekeeper_warden_hull_add: "守门人船体值"
-mod_shipsize_precursor_titan_hull_add: "亥伯龙船体值"
+mod_shipsize_fe_assault_carrier_hull_add: "$fe_assault_carrier$船体值"
+mod_shipsize_sentinel_sphere_hull_add: "$sentinel_sphere$船体值"
+mod_shipsize_sofe_gatekeeper_warden_hull_add: "$sofe_gatekeeper_warden$船体值"
+mod_shipsize_precursor_titan_hull_add: "$precursor_titan$船体值"
+mod_shipsize_precursor_colossus_hull_add: "巨神船体值"
+mod_shipsize_precursor_guardian_hull_add: "$precursor_guardian$船体值"
 
 mod_shipsize_precursor_escort_build_speed_mult: "$small_ship_fallen_empire$建造速度"
 mod_shipsize_precursor_battlecruiser_build_speed_mult: "$large_ship_fallen_empire$建造速度"
-mod_shipsize_precursor_titan_build_speed_mult: "亥伯龙建造速度"
-mod_shipsize_fe_assault_carrier_build_speed_mult: "航空母舰建造速度"
-mod_shipsize_sentinel_sphere_build_speed_mult: "哨兵建造速度"
-mod_shipsize_sofe_gatekeeper_warden_build_speed_mult: "守门人建造速度"
+mod_shipsize_precursor_titan_build_speed_mult: "$precursor_titan$建造速度"
+mod_shipsize_fe_assault_carrier_build_speed_mult: "$fe_assault_carrier$建造速度"
+mod_shipsize_sentinel_sphere_build_speed_mult: "$sentinel_sphere$建造速度"
+mod_shipsize_precursor_guardian_build_speed_add: "$precursor_guardian$建造速度"
+mod_shipsize_sofe_gatekeeper_warden_build_speed_mult: "$sofe_gatekeeper_warden$建造速度"
 
 tech_reinforced_starbase: "$OUTLINER_STARBASES$改良"
 tech_reinforced_starbase_desc: "随着武器变得更加致命和强大，空间站在防御方面的能力越来越差。为了延长它们的寿命，外层装甲可以换用强光材料，并升级武器系统。"
@@ -1818,4 +2005,3 @@ tech_reinforced_starbase_ae: "$OUTLINER_STARBASES$改良"
 tech_reinforced_starbase_ae_desc: "对暗物质和暗能量的掌握使我们能进一步改良空间站。"
 tech_reinforced_starbase_se: "$OUTLINER_STARBASES$改良"
 tech_reinforced_starbase_se_desc: "我们的堡垒不会屈服。你可以把一群巡洋舰丢过来，我们的堡垒会把它们全都吃掉。"
-

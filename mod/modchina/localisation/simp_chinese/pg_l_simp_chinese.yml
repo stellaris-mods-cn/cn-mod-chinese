@@ -179,7 +179,7 @@
  requires_synth:0 "我们需要整合帝国。"
  
  ap_shrouded_worlds:0 "虚境星球"
- ap_shrouded_worlds_desc:0 "通过将地球的大气层转变为虚境的迷雾，我们找到了一种变得更加有效和快乐的方法。"
+ ap_shrouded_worlds_desc:0 "通过将星球的大气层转变为虚境的迷雾，我们找到了一种变得更加有效和快乐的方法。"
  allow_shrouded_worlds:0 "我们可以将我们所有星球改造为虚境星球。"
  describe_shrouded_worlds:0 "我们可以从虚境中提取迷雾，笼罩整个星球。在这样的星球中我们感觉更好，我们也可以更有效地工作。"
  pc_shrouded_pg:0 "虚境星球"

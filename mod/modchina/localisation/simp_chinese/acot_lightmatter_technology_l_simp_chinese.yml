@@ -1,4 +1,5 @@
 ﻿l_simp_chinese:
+
 ### SHIP COMPONENTS TEXTS
 TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§H解锁组件:§! 天堂装甲"
 TECH_UNLOCK_ORIGIN_ARMOR_DESC: "天堂装甲利用固化的光物质创造了已知的任何文明最强大的船体材料之一。"
@@ -188,6 +189,11 @@ PAC_COMBAT_COMPUTER_DEFENSE_OE_DESC: "专为航母优化的全矩阵分析仪。
 
 PAC_COMBAT_COMPUTER_OFFENSE_OE: "全矩阵分析仪 (静止)"
 PAC_COMBAT_COMPUTER_OFFENSE_OE_DESC: "专为航母优化的全矩阵分析仪。"
+
+HERCULEAN_COMBAT_COMPUTER_OE: "全矩阵分析仪"
+HERCULEAN_COMBAT_COMPUTER_OE_DESC: "全矩阵作战分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用船舶的实际空间。 这种变化适用于防守战术。"
+
+#####################################################################################
 
 ACOT_AFTERBURNERS_OE: "Ω加力燃烧器"
 ACOT_AFTERBURNERS_OE_DESC: "在这种情况下，仅靠推进器还不足以使飞船快速前进。ω加力燃烧器可以用来驱动船靠近，这样你就可以用你的剑攻击他们!霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海，霍海海…"

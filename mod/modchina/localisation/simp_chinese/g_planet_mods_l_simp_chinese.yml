@@ -143,6 +143,9 @@
  
  gpm_start_menu.1.name:0 "$PLANET_MODIFIER$数量设置"
  gpm_start_menu.1.desc:0 "选择想要产生的$PLANET_MODIFIER$数量。 \n该操作也会影响到在$pc_ringworld_habitable$、$pc_habitat$上形成的地形。\n\n效果将在取消暂停后大约1-3天后生效。\n§H这可能会需要等待几秒钟。§! "
+
+ # \n\n§HTip:§! §LHover over the technology resource income on the top bar to see how many§! £gpm_arcane_technology  §BPrecursor Archeotech§! §Lyou have gathered.\nThese are used to pay for powerful edicts.§!
+
  gpm_start_menu.1.low:0 "少量：每个星球0到2个"
  gpm_start_menu.1.lowTT:224 "将$PLANET_MODIFIER$数量设置为低。\n§R这将开始游戏!§!"
  gpm_start_menu.1.normal:0 "一般：每个星球0到3个 (§G推荐§!)"

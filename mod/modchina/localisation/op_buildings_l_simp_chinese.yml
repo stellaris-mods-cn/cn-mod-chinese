@@ -3,12 +3,14 @@
  # Buildings
  ####################################
 
- building_low_arcology:0 "低生态建筑学"
- building_low_arcology_desc:0 "§L一个巨大的综合体，居住着低种姓的家庭和工作场所。§!"
- building_low_arcologyii:0 "低生态建筑学 II"
- building_low_arcologyii_desc:0 "§L一个巨大的综合体，居住着低种姓的家庭和工作场所。 为了优化生产，增加了额外的设备。§!"
- building_low_arcologyiii:0 "低生态建筑学 III"
- building_low_arcologyiii_desc:0 "§L一个巨大的综合体，居住着低种姓的家庭和工作场所。 进一步的扩张，其中大部分在地下，已经允许增加资源生产。§!"
+ building_low_arcology:0 "低等生态城"
+ building_low_arcology_desc:0 "庞大的建筑群，低种姓人在这里生活和工作。"
+ building_low_arcologyii:0 "$building_low_arcology$ II"
+ building_low_arcologyii_desc:0 "$building_low_arcology_desc$增加了额外的设备以应对文化工作。"
+ building_low_arcologyiii:0 "$building_low_arcology$ III"
+ building_low_arcologyiii_desc:0 "$building_low_arcology_desc$大部分设备埋在地下，工作效率得以增加。"
  building_forgotten_archive:0 "被遗忘的档案"
- building_forgotten_archive_desc:0 "§L这份档案曾有过好日子。未损坏的部分被加密，未加密的部分不在任何已知语言中。但只要有耐心，所有古人的秘密都可以再次属于我们。§!"
+ building_forgotten_archive_desc:0 "这个档案馆曾经非常风光。没有损坏的内容都经过加密，而这种加密使用了我们不知道的语言。但只要有耐心，所有古人的知识都能成为我们的。"
+ building_corporate_superscraper:0 "超级企业摩天大楼"
+ building_corporate_superscraper_desc:0 "是的，它很碍眼。是的，我们都听说过他们如何对待那里的人。但是想想看，你能多么容易就完成任务！"
 

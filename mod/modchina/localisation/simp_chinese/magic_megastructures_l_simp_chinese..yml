@@ -1,19 +1,19 @@
-﻿l_simp_chinese.:
+﻿l_simp_chinese:
  MAGIC_GATEWAY_GALACTIC:0 "奥法星门"
  MAGIC_GATEWAY_GALACTIC_PLURAL:0 "$MAGIC_GATEWAY_GALACTIC$s"
  MAGIC_GATEWAY_GALACTIC_DESC:0 "此星系包含§M$MAGIC_GATEWAY_GALACTIC$§!"
- MAGIC_GATEWAY_COUNTRY_CANNOT_USE:0 "使用§M$MAGIC_GATEWAY_GALACTIC_PLURAL$§!需要神秘的知识和开放的边界。"
+ MAGIC_GATEWAY_COUNTRY_CANNOT_USE:0 "使用§M$MAGIC_GATEWAY_GALACTIC_PLURAL$§!需要奥法的知识和开放的边界。"
 
- magic_gate:0 "神秘星门"
- magic_gate_DESC:0 "空间中的裂缝，通过自我维持的神秘过程而稳定下来。"
+ magic_gate:0 "奥法星门"
+ magic_gate_DESC:0 "空间中的裂缝，通过自我维持的奥法过程而稳定下来。"
  magic_gate_MEGASTRUCTURE_DETAILS:0 "$magic_gate_DESC$"
 
  magic_gate_upgraded_MEGASTRUCTURE_DETAILS:0 "$magic_gate_MEGASTRUCTURE_DETAILS$"
  magic_gate_upgraded:0 "$magic_gate$"
  magic_gate_upgraded_DESC:0 "$magic_gate_DESC$"
 
- tech_magic_gateways:0 "神秘星门建设"
+ tech_magic_gateways:0 "奥法星门建设"
  tech_magic_gateways_desc:0 "通过广泛的研究，我们已经学会在现实中创造稳定的裂缝，并将它们彼此连接起来，即使是在银河系的尺度上。我们现在可以创建一个新的网关网络，只有那些同样被奥术所感动的人才能操作。"
 
- TECH_MAGIC_GATEWAYS_TITLE:0 "§H解锁功能:§! 建设神秘星门"
- TECH_MAGIC_GATEWAYS_DESC:0 "§H建设神秘星门§!\n允许我们在自己的星系中构建神秘星门。"
+ TECH_MAGIC_GATEWAYS_TITLE:0 "§H解锁功能:§! 建设奥法星门"
+ TECH_MAGIC_GATEWAYS_DESC:0 "§H建设奥法星门§!\n允许我们在自己的星系中构建奥法星门。"

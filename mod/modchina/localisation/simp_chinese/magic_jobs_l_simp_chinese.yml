@@ -1,0 +1,167 @@
+﻿l_simp_chinese:
+ ####################################
+ # Job Categories (Partially Deprecated)
+ ####################################
+ planet_alchemists:0 "炼金术士工作"
+ mod_planet_alchemists_produces_mult:0 "£job_alchemist£炼金术士产出"
+ mod_planet_alchemists_arcane_technology_produces_add:0 "£job_alchemist£炼金术士£arcane_artifacts£ 产出"
+ mod_planet_alchemists_upkeep_mult:0 "£job_alchemist£炼金术士维护"
+
+ planet_arcanists:0 "炼金术士工作"
+ mod_planet_arcanists_produces_mult:0 "£job_alchemist£ Arcanists 产出"
+ mod_planet_arcanists_arcane_technology_produces_add:0 "£job_alchemist£炼金术士£arcane_artifacts£ 产出"
+ mod_planet_arcanists_upkeep_mult:0 "£job_alchemist£炼金术士维护"
+
+ ####################################
+ # Job Requirements
+ ####################################
+ MAGIC_RULER_JOB_TRIGGER:0 "只有拥有§Y完整公民权§!的神奇奥法自由人口才能胜任他的工作"
+ MAGIC_SPECIALIST_JOB_TRIGGER:0 "这项工作只能由没有被清除的奥法自由人口来完成。"
+ MAGIC_WORKER_JOB_TRIGGER:0 "这项工作只能由没有被清除的奥法自由人口来完成。"
+
+ ####################################
+ # Ruler Jobs
+ ####################################
+ planet_minister:0 "§M奥法部长§!"
+
+ job_minister:0 "奥法部部长"
+ job_minister_plural:0 "奥法部部长"
+ job_minister_desc:0 "管理整个星球的奥法活动是一项艰巨的任务，需要有献身精神和训练有素的个人。"
+ job_minister_effect_desc:0 "§H£job_minister£ §M$job_minister$§!: §G+10§!£unity£, §G+50§!£mod_planet_stability_add£!"
+ mod_job_minister_add:0 "§M$job_minister$§! §H工作§!"
+ mod_job_minister_per_pop:0 "每$VALUE$人口§G+1§! §M$job_minister$§!"
+ mod_job_minister_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_minister_add£"
+
+ job_lord_magic:0 "术士"
+ job_lord_magic_plural:0 "术士"
+ job_lord_magic_desc:0 "术士是非常强大的个体，他们能够单枪匹马镇压叛乱，并激发他人无与伦比的忠诚。"
+ job_lord_magic_effect_desc:0 "§H£job_lord_magic£ §M$job_lord_magic_plural$§!: §G+5§!£unity£, §G+5§!£mod_planet_stability_add£, §G+15§!£mod_planet_amenities_add£§!"
+ mod_job_lord_magic_add:0 "§M$job_lord_magic$§! §H工作§!"
+ mod_job_lord_magic_per_pop:0 "每$VALUE$人口§G+1§! §M$job_lord_magic$§!"
+ mod_job_lord_magic_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_lord_magic_add£§!"
+ 
+ job_head_unspeakable:0 "不可言喻之物"
+ job_head_unspeakable_plural:0 "不可言喻之物"
+ job_head_unspeakable_desc:0 "不可言喻之物协调和管理新知识的获取。"
+ job_head_unspeakable_effect_desc:0 "§H£job_head_unspeakable£ §M$job_head_unspeakable$§!: §G+10§!£unity£, §G+5§! £mod_planet_stability_add£§!"
+ mod_job_head_unspeakable_add:0 "§M$job_head_unspeakable$§! §H工作§!"
+ mod_job_head_unspeakable_per_pop:0 "每$VALUE$人口§G+1§! §M$job_head_unspeakable$§!"
+ mod_job_head_unspeakable_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_head_unspeakable_add£"
+
+ job_magic_administrator:0 "法师"
+ job_magic_administrator_plural:0 "法师"
+ job_magic_administrator_desc:0 "法师是奥法官僚体系的倒数第二层。"
+ job_magic_administrator_effect_desc:0 "§H£job_magic_administrator£ §M$job_magic_administrator_plural$§!: §G+5§!£unity£, §G+6§!£mod_trade_value_add£, §G+10§!£mod_planet_amenities_add£§!"
+ mod_job_magic_administrator_add:0 "§M$job_magic_administrator$§! §H工作§!"
+ mod_job_magic_administrator_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_administrator$§!"
+ mod_job_magic_administrator_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_magic_administrator_add£§!"
+
+ job_druid:0 "德鲁伊"
+ job_druid_plural:0 "德鲁伊"
+ job_druid_desc:0 "德鲁伊处理仪式奥法的所有方面，从计算到准备，最重要的是执行。"
+ job_druid_effect_desc:0 "§H£job_druid£ §M$job_druid_plural$§!: §G+3§!£society£, §G+5§!£unity£, §G+5§!£mod_planet_amenities_add£§!"
+ mod_job_druid_add:0 "§M$job_druid$§! §H工作§!"
+ mod_job_druid_per_pop:0 "每$VALUE$人口§G+1§! §M$job_druid$§!"
+ mod_job_druid_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_druid_add£§!"
+
+ ####################################
+ # Specialist Jobs
+ ####################################
+ job_auror:0 "傲罗"
+ job_auror_plural:0 "傲罗"
+ job_auror_desc:0 "傲罗强制并规范奥法技术的使用。"
+ job_auror_effect_desc:0 "§H£job_auror£ §M$job_auror_plural$§!: §G+5§!£unity£, §G-25§!£crime£, §G+2§!£defense_army£§!"
+ mod_job_auror_add:0 "§M$job_auror$§! §H工作§!"
+ mod_job_auror_per_pop:0 "每$VALUE$人口§G+1§! §M$job_auror$§!"
+ mod_job_auror_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_auror_add£"
+
+ job_magizoologist:0 "奥法动物学家"
+ job_magizoologist_plural:0 "奥法动物学家"
+ job_magizoologist_desc:0 "奥法动物学家找出、分类并记录所有的奥法野兽，无论是X级还是XXXXX级，想办法把它们圈起来并加以控制，甚至在必要时消灭它们。"
+ job_magizoologist_effect_desc:0 "§H£job_magizoologist£ §M$job_magizoologist_plural$§!: §G+5§!£unity£, §G+10§!£society£§!"
+ mod_job_magizoologist_add:0 "§M$job_magizoologist$§! §H工作§!"
+ mod_job_magizoologist_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magizoologist$§!"
+ mod_job_magizoologist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_magizoologist_add£§!"
+ 
+ job_healer:0 "疗愈者"
+ job_healer_plural:0 "疗愈者"
+ job_healer_desc:0 "疗愈者用未知的方法治疗无法治疗的疾病。"
+ job_healer_effect_desc:0 "§H£job_healer£ §M$job_healer_plural$§!: §G+10§!£mod_planet_amenities_add£, §G+15%§!£mod_pop_growth_speed£§!"
+ mod_job_healer_add:0 "§M$job_healer$§! §H工作§!"
+ mod_job_healer_per_pop:0 "每$VALUE$人口§G+1§! §M$job_healer$§!"
+ mod_job_healer_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_healer_add£"
+
+ job_magic_artisan:0 "技工"
+ job_magic_artisan_plural:0 "技工"
+ job_magic_artisan_desc:0 "技工使用奥法物品制造大量的物品。"
+ job_magic_artisan_effect_desc:0 "§H£job_magic_artisan£ §M$job_magic_artisan_plural$§!: §R-4§!£minerals£, §G+12§!£consumer_goods£§!"
+ mod_job_magic_artisan_add:0 "§M$job_magic_artisan$§! §H工作§!"
+ mod_job_magic_artisan_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_artisan$§!"
+ mod_job_magic_artisan_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_artisan_add£"
+
+ job_magic_foundry:0 "奇术师"
+ job_magic_foundry_plural:0 "奇术师"
+ job_magic_foundry_desc:0 "奇术师把原材料锻造成更先进的产品。"
+ job_magic_foundry_effect_desc:0 "§H£job_magic_foundry£ §M$job_magic_foundry_plural$§!: §R-4§!£minerals£, §G+9§!£alloys£§!"
+ mod_job_magic_foundry_add:0 "§M$job_magic_foundry$§! §H工作§!"
+ mod_job_magic_foundry_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_foundry$§!"
+ mod_job_magic_foundry_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_foundry_add£"
+
+ job_arcanist:0 "巧匠"
+ job_arcanist_plural:0 "巧匠"
+ job_arcanist_desc:0 "$job_arcanist_plural$花时间去试验和创造奥法艺术品。"
+ job_arcanist_effect_desc:0 "§H£job_arcanist£ §M$job_arcanist_plural$§!: §R-6§!£minerals£, §G+3§!£arcane_artifacts£§!"
+ mod_job_arcanist_add:0 "§M$job_arcanist$§! §H工作§!"
+ mod_job_arcanist_per_pop:0 "每$VALUE$人口§G+1§! §M$job_arcanist$§!"
+ mod_job_arcanist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_arcanist_add£"
+
+ job_magic_entertainer:0 "奥法师"
+ job_magic_entertainer_plural:0 "奥法师"
+ job_magic_entertainer_desc:0 "奥法师在物品上雕刻持久符文奥法，赋予它们特殊属性。"
+ job_magic_entertainer_effect_desc:0 "§H£job_magic_entertainer£ §M$job_magic_entertainer_plural$§!: §R-2§!£consumer_goods£, §G+5§!£unity£, §G+15§!£mod_planet_amenities_add£§!"
+ mod_job_magic_entertainer_add:0 "§M$job_magic_entertainer$§! §H工作§!"
+ mod_job_magic_entertainer_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_entertainer$§!"
+ mod_job_magic_entertainer_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_entertainer_add£"
+
+ job_alchemist:0 "炼金术士"
+ job_alchemist_plural:0 "炼金术士"
+ job_alchemist_desc:0 "炼金术士运用他们丰富的变形知识，将奥法能量提炼成水晶法力。"
+ job_alchemist_effect_desc:0 "§H£job_alchemist£ §M$job_alchemist_plural$§!: §G+3§!£mana_crystals£§!"
+ mod_job_alchemist_add:0 "§M$job_alchemist$§! §H工作§!"
+ mod_job_alchemist_per_pop:0 "每$VALUE$人口§G+1§! §M$job_alchemist$§!"
+ mod_job_alchemist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_alchemist_add£"
+
+ job_magic_researcher:0 "无法言喻"
+ job_magic_researcher_plural:0 "无法言喻"
+ job_magic_researcher_desc:0 "无法言喻探究奥法的疯狂，寻求理解和打破自然法则。"
+ job_magic_researcher_effect_desc:0 "§H£job_magic_researcher£ §M$job_magic_researcher_plural$§!: §G+5§! (£physics£ £society£ £engineering£)§!"
+ mod_job_magic_researcher_add:0 "§M$job_magic_researcher$§! §H工作§!"
+ mod_job_magic_researcher_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_researcher$§!"
+ mod_job_magic_researcher_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_magic_researcher_add£"
+
+ ####################################
+ # Worker Jobs
+ ####################################
+ job_hit_wizard:0 "霹雳巫师"
+ job_hit_wizard_plural:0 "霹雳巫师"
+ job_hit_wizard_desc:0 "霹雳巫师都是奥法执法的精英，训练有素，受过追踪和追捕最强大的黑暗魔爪的训练。"
+ job_hit_wizard_effect_desc:0 "§H£job_hit_wizard£ §M$job_hit_wizard_plural$§!: §G+5§!£mod_country_naval_cap_add£, §G+5§!£defense_army£§!"
+ mod_job_hit_wizard_add:0 "§M$job_hit_wizard$§! §H工作§!"
+ mod_job_hit_wizard_per_pop:0 "每$VALUE$人口§G+1§! §M$job_hit_wizard$§!"
+ mod_job_hit_wizard_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§!£mod_job_hit_wizard_add£"
+
+ job_magic_clerk:0 "奥法向导"
+ job_magic_clerk_plural:0 "奥法向导"
+ job_magic_clerk_desc:0 "奥法向导形成奥法牧师的等级和文件。"
+ job_magic_clerk_effect_desc:0 "§H£job_magic_clerk£ §M$job_magic_clerk_plural$§!: §G+3§!£mod_trade_value_add£, §G+3§!£mod_planet_amenities_add£§!"
+ mod_job_magic_clerk_add:0 "§M$job_magic_clerk$§! §H工作§!"
+ mod_job_magic_clerk_per_pop:0 "每$VALUE$人口§G+1§! §M$job_magic_clerk$§!"
+ mod_job_magic_clerk_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_magic_clerk_add£§!"
+
+ job_mana_harvester:0 "法力收割者"
+ job_mana_harvester_plural:0 "法力收割者"
+ job_mana_harvester_desc:0 "法力收割者从周围的地形中收集所有形式的原始奥法。"
+ job_mana_harvester_effect_desc:0 "§H£job_mana_harvester£ §M$job_mana_harvester_plural$§!: §G+5§!£mana_crystals£§!"
+ mod_job_mana_harvester_add:0 "§M$job_mana_harvester$§! §H工作§!"
+ mod_job_mana_harvester_per_pop:0 "每$VALUE$人口§G+1§! §M$job_mana_harvester$§!"
+ mod_job_mana_harvester_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! §M£mod_job_mana_harvester_add£§!"
