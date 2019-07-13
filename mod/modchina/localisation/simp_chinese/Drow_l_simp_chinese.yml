@@ -55,6 +55,23 @@ DROW_mouth:0 "口"
 
 RT_VALSHARESS:0 "瓦纱瑞丝"
 
+ILYTHIIRI:0 "伊力斯瑞"
+ILYTHIIRI_desc:0 "种族等级对你的帝国没有影响，但是卓尔精灵种族可能认为其他卓尔精灵种族比其他种族种族更不陌生。"
+ILYTHIIRI_plural:0 "伊力斯瑞"
+ILYTHIIRI_insult_01:0 "demon"
+ILYTHIIRI_insult_plural_01:0 "demons"
+ILYTHIIRI_compliment_01:0 "angel"
+ILYTHIIRI_compliment_plural_01:0 "angels"
+ILYTHIIRI_spawn:0 "child"
+ILYTHIIRI_spawn_plural:0 "children"
+ILYTHIIRI_sound_01:0 "growling"
+ILYTHIIRI_sound_02:0 "groping"
+ILYTHIIRI_sound_03:0 "yapping"
+ILYTHIIRI_sound_04:0 "yowling"
+ILYTHIIRI_sound_05:0 "mewling"
+ILYTHIIRI_organ:0 "stomach"
+ILYTHIIRI_mouth:0 "mouth"
+
 ####################################
 # Traits
 ####################################
@@ -157,7 +174,7 @@ drow_special.2.name:0 "修复完成"
 drow_special.2.desc:0 "我们成功地恢复了[From.From.GetName]的辉煌!\n\n修复的部分已经准备好解决!"
 drow_special.2.a:0 "向帝国致敬!"
 drow_decision_valshaquellar_repair:0 "修复瓦尔沙奎勒"
-drow_decision_valshaquellar_repair_desc:0 "要使这片巨大的栖息地恢复昔日的辉煌，将需要大笔投资。一旦修复，以前无法使用的部分将最终成为可居住的。"
+drow_decision_valshaquellar_repair_desc:0 "要使这片巨大的栖息地恢复昔日的辉煌，将需要大笔投资。如果修复，以前无法使用的部分将最终成为可居住的。"
 drow_decision_valshaquellar_repair_tooltip:0 "最高区划增至§Y30§!\n发现新的资源"
 
 ####################

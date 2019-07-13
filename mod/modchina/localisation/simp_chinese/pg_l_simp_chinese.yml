@@ -85,7 +85,7 @@
  
  civic_vb_psi_touched_by_the_shroud:0 "被虚境感动"
  civic_vb_psi_touched_by_the_shroud_desc:0 "在其早期历史中，这个帝国受到了虚境的影响 - 一个超越物质世界的奇怪虚境。"
- civic_vb_psi_touched_by_the_shroud_effects:0 "在游戏开始时，帝国将获得一个免费单位 §EZro§!\n一旦帝国获得第一个 §S飞升§!, 它会获益 £society §M$tech_psionic_theory$§! 免费"
+ civic_vb_psi_touched_by_the_shroud_effects:0 "在游戏开始时，帝国将获得一个免费单位 §EZro§!\n如果帝国获得第一个 §S飞升§!, 它会获益 £society §M$tech_psionic_theory$§! 免费"
  
  trait_vb_psi_soul_eater:0 "噬魂者"
  trait_vb_psi_soul_eater_desc:0 "受到来自物理世界以外的暗能量的影响，这个物种受到对智慧生灵的永不满足的渴望的驱使。"
@@ -147,7 +147,7 @@
  trait_corrupted_desc:0 "有一天，这些生物被虚境改变了，即使他们没有肉体，但也会感到饥饿。"
  
  VB_PSI_BLEAK_VORTEX_TITLE:0 "虚境涡旋"
- vb_psi_vortex.3.desc:0 "这是一个超越物理世界的扭曲境界，一旦我们联系，就会成为更大的整体。\n\n这是一个奇怪的地方，超出我们理解的实体潜伏着等待我们来找他们。\n\n有人说这是被诅咒的地方。 有些人，这是我们梦魇来自的地方。 但我们肯定知道的是，陌生人，一个存在，或者也许是给我们力量和饥饿的东西，等待我们提出要求。"
+ vb_psi_vortex.3.desc:0 "这是一个超越物理世界的扭曲境界，如果我们联系，就会成为更大的整体。\n\n这是一个奇怪的地方，超出我们理解的实体潜伏着等待我们来找他们。\n\n有人说这是被诅咒的地方。 有些人，这是我们梦魇来自的地方。 但我们肯定知道的是，陌生人，一个存在，或者也许是给我们力量和饥饿的东西，等待我们提出要求。"
  vb_psi_vortex.3.a:0 "请愿交换一颗行星以维持生计。"
  vb_psi_vortex.recently_petitioned:0 "你最近已经向陌生人许愿了"
  vb_psi_vortex.not_hungry_enough:0 "你的营养低于需求"

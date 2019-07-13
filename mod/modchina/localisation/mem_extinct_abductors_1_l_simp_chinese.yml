@@ -25,10 +25,31 @@
  # Uplifting Race Line
  ########################
  
+ mem_ea_uplifter.100.name:0 "孤独的前哨站"
+ mem_ea_uplifter.100.desc:0 "我们的调查小组刚刚完成了对§Y[From.GetName]§!上前哨站的初步探索。不幸的是，结构损坏使他们迄今未能获得任何有用的资料。将需要重型设备来清理坍塌路段的道路。"
+ mem_ea_uplifter.100.a:0 "明白。"
+ 
+ # Excavation site
+ # initial text
+ mem_ea_uplifter_digsite_1:0 "孤独的前哨站"
+ mem_ea_uplifter_digsite_1_desc:0 "在§Y[From.Planet.GetName]§!上发现的前哨站显然受到轨道轰击，但其结构基本上保持完整。也就是说，内部状况很差。倒塌的房间和满是瓦砾的走廊阻碍了我们小组的初步调查。需要重型设备来清理和保护通往废墟深处的道路。"
+ # stage 1
+ mem_ea_uplifter.102.name:0 "他们去了哪里?"
+ mem_ea_uplifter.102.desc:0 "艰难地穿过迷宫般的阻塞的走廊和半坍塌的房间，挖掘队终于到达了一个比前一个更完好的区域。可进入的区域给人的印象是一个纯粹的平民居住区。然而，到目前为止，没有任何迹象表明原始人的下落。\n\n大楼的中心有一个巨大的电梯井，一直延伸到下面很远的地方。[Root.GetLeaderName]希望在那里找到答案，并准备深入未知的领域。"
+ mem_ea_uplifter.102.a:0 "继续。"
+ # stage 2
+ mem_ea_uplifter.103.name:0 "一个惊人的发现"
+ mem_ea_uplifter.103.desc:0 "在地表深处，我们的挖掘团队站在一个大厅里，大厅周围环绕着成千上万的冷冻足类动物，它们被各种物种的遗骸占据了数千年。然而，这并不是一切……\n\n起初，[Root.GetLeaderName]认为这是一个故障的[Root.leader.GetHisHer]扫描仪。经过多次的重复的调查，得到了同样的结果，我们现在面临着更多的问题:为什么有些死者源自§Y[Root.Owner.GetSpeciesAdj]§!，他们是如何来到这里的?!"
+ mem_ea_uplifter.103.a:0 "这怎么可能呢?"
+ # stage 3
+ mem_ea_uplifter.104.name:0 "冰封往事"
+ mem_ea_uplifter.104.desc:0 "除了我们自己的，我们的科学家已经在冷冻足类动物体内发现了至少5个物种。最常见的一种是两足动物，体型较小，我们团队认为它是这个地方的建造者。他们都躺在一个房间里，这一事实引起了人们的疑问。他们都是出于自由意志来到这里的吗?\n\n从我们的科学家能够重建中央计算机的数据存储器来看，答案似乎是“是的”。我们零碎的信息表明，这是一个巨大的提升项目的可能性，这是这个地方的业主正在追求的。他们还发现了其他四种行星的坐标。我们应该调查他们，而另一个团队留下来调查数据存储的剩余部分。"
+ mem_ea_uplifter.104.a:0 "很有趣。"
+ 
  # Extinct Abductors Anomaly Success
  mem_ea_uplifter.1.name:0 "惊人发现"
  mem_ea_uplifter.1.desc:0 "虽然在§Y[From.GetName]§!上被发现的建筑群曾经受到猛烈的轰炸，但大致上是完好无缺。话虽如此，建筑内部却并不是同一回事。我们的团队勉强地在这个跟迷宫没有分别的地方、穿过倒塌的通道和房间内进行探索，但他们的辛劳亦有回报：他们在一个位于地底三层之下的大厅内发掘出数以千计的冷冻舱，而舱内则载有各形各色种族的外星人尸体，相信有几千年历史。当中有些更是源自§Y[Root.Owner.GetSpeciesAdj]§!！ "
- mem_ea_uplifter.1.a:0 "这怎麽可能？"
+ mem_ea_uplifter.1.a:0 "这怎么可能？"
  
  # Extinct Abductors Outpost Investigation Project
  MEM_EA_UPLIFTER_INVESTIGATION:0 "时空凝止"
@@ -36,7 +57,7 @@
  
  # Extinct Abductors Outpost Investigation Project Completed #TODO: Test location
  mem_ea_uplifter.2.name:0 "时空凝止"
- mem_ea_uplifter.2.desc:0 "除了我们的种族外，我们的科学家已经辨认到在§Y[From.From.GetName]§!上发现的冷冻舱内另外至少五个种族，当中最寻常的一个——两足行走且身形较小的——被我们的团队视为这个地方的建造者。由于所有尸体都埋藏在同一个地点，这不禁令人想到：究竟他们是否自愿来到这个地方？ \n\n从我们的科学家在重组中央电脑的资料记忆来看，答案是：他们是自愿的。在零碎的资料中可以看到，这有可能是一个提升各个种族生活水平及科技的大型项目，由这个地方的建造者负责。他们亦找到其馀四个种族的来源地座标，我们应该调查一下，而其他队伍则留下来继续处理馀下数据。"
+ mem_ea_uplifter.2.desc:0 "除了我们的种族外，我们的科学家已经辨认到在§Y[From.From.GetName]§!上发现的冷冻舱内另外至少五个种族，当中最寻常的一个——两足行走且身形较小的——被我们的团队视为这个地方的建造者。由于所有尸体都埋藏在同一个地点，这不禁令人想到：究竟他们是否自愿来到这个地方？ \n\n从我们的科学家在重组中央电脑的资料记忆来看，答案是：他们是自愿的。在零碎的资料中可以看到，这有可能是一个提升各个种族生活水平及科技的大型项目，由这个地方的建造者负责。他们亦找到其馀四个种族的来源地坐标，我们应该调查一下，而其他队伍则留下来继续处理馀下数据。"
  mem_ea_uplifter.2.a:0 "真有趣。"
  
  # Uplifter Event Chain
@@ -45,30 +66,30 @@
  mem_ea_uplifter_worlds_visited:0 "已调查的来源地"
  
  # Points of Interest for Event Chain
- mem_ea_uplifter_system_1:0 "第一个星系的座标"
+ mem_ea_uplifter_system_1:0 "第一个星系的坐标"
  mem_ea_uplifter_system_1_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_1.GetName]可能就是其中一个被急冻的种族的来源地。"
- mem_ea_uplifter_system_2:0 "第二个星系的座标"
+ mem_ea_uplifter_system_2:0 "第二个星系的坐标"
  mem_ea_uplifter_system_2_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_2.GetName]可能就是其中一个被急冻的种族的来源地。"
- mem_ea_uplifter_system_3:0 "第三个星系的座标"
+ mem_ea_uplifter_system_3:0 "第三个星系的坐标"
  mem_ea_uplifter_system_3_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_3.GetName]可能就是其中一个被急冻的种族的来源地。"
- mem_ea_uplifter_system_4:0 "第四个星系的座标"
+ mem_ea_uplifter_system_4:0 "第四个星系的坐标"
  mem_ea_uplifter_system_4_desc:0 "从冷冻舱所得的资料显示[mem_ea_uplifter_system_4.GetName]可能就是其中一个被急冻的种族的来源地。"
  
  # Arriving in the 4 Systems and Getting the Coordinates of the Planet and Project
  # Toxic World (Project 1)
- mem_ea_uplifter.3.name:0 "到达第一个座标"
- mem_ea_uplifter.3.desc:0 "我们已经到达从古代数据库得来的第一个座标，而座标所显示的星球被一层厚厚的毒气所笼罩著，我们的科研团队正准备开始扫瞄。"
+ mem_ea_uplifter.3.name:0 "到达第一个坐标"
+ mem_ea_uplifter.3.desc:0 "我们已经到达从古代数据库得来的第一个坐标，而坐标所显示的星球被一层厚厚的毒气所笼罩著，我们的科研团队正准备开始扫瞄。"
  mem_ea_uplifter.3.a:0 "立即去办。"
  # Molten World (Project 2)
- mem_ea_uplifter.4.name:0 "到达第二个座标"
- mem_ea_uplifter.4.desc:0 "当我们的船隻刚刚到达从古代数据库得来的第二个座标，船隻的感应器就已经接几个收到散落在星系内且带有敌意的讯号。如果想继续进行调查的话，我们需要准备一战。"
+ mem_ea_uplifter.4.name:0 "到达第二个坐标"
+ mem_ea_uplifter.4.desc:0 "当我们的船隻刚刚到达从古代数据库得来的第二个坐标，船隻的感应器就已经接几个收到散落在星系内且带有敌意的讯号。如果想继续进行调查的话，我们需要准备一战。"
  mem_ea_uplifter.4.a:0 "继续。"
  # Frozen World (Project 3)
- mem_ea_uplifter.5.name:0 "到达第三个座标"
- mem_ea_uplifter.5.desc:0 "第三个种族的来源地座标带领我们来到一个被数公里厚所覆盖的冰冻星球，我们准备好开始调查。"
+ mem_ea_uplifter.5.name:0 "到达第三个坐标"
+ mem_ea_uplifter.5.desc:0 "第三个种族的来源地坐标带领我们来到一个被数公里厚所覆盖的冰冻星球，我们准备好开始调查。"
  mem_ea_uplifter.5.a:0 "了解。"
  # Barren World (Project 4) Here Some Crystals will spawn to disturb you when doing the project
- mem_ea_uplifter.6.name:0 "到达第四个座标"
+ mem_ea_uplifter.6.name:0 "到达第四个坐标"
  mem_ea_uplifter.6.desc:0 "当我们到达这个星系并且进行了简单的扫瞄之后，我们确认这个荒芜的星球就是在冷冻舱内第四个种族的来源地，不过已经没有任何生命迹象。我们的科学家应该调查一下。"
  mem_ea_uplifter.6.a:0 "让他们开始吧。"
  

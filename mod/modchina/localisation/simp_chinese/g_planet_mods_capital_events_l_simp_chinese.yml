@@ -10,223 +10,223 @@
  # 53 e
  # Capital Colony Events
  # Capital Event - authoritarian -> Work Camps stage 1
- gpm_colony.4100.name:0 "抗议"
+ gpm_colony.4100.name:0 "§Y首都:§! 抗议"
  gpm_colony.4100.desc:0 "很多公民开始对我们的统治越来越不满。在过去的几年里，他们开始组织集会和游行，并要求倾听他们的声音。然而最近的一些抗议活动已经失控，给当地的基础设施造成了严重的破坏。我们必须对这些持不同政见的人采取行动。"
  gpm_colony.4100.a:0 "向当地军队发出指令，镇压这些抗议活动。"
  # Capital Event - authoritarian -> Work Camps stage 2
- gpm_colony.4110.name:0 "失控频发"
+ gpm_colony.4110.name:0 "§Y首都:§! 失控频发"
  gpm_colony.4110.desc:0 "当地军队镇压抗议群体一度成功，但不幸的是它没有持续多久。部分当地的政客似乎是最近暴乱的幕后操纵者。有人看到他们召集选民游行抗议。"
  gpm_colony.4110.a:0 "未经许可的抗议是非法的。"
  # Capital Event - authoritarian -> Work Camps stage 3
- gpm_colony.4120.name:0 "监狱饱和"
+ gpm_colony.4120.name:0 "§Y首都:§! 监狱饱和"
  gpm_colony.4120.desc:0 "最近反对破坏性抗议的法律导致我们的监狱人满为患。为了维持秩序，我们必须寻求新的解决办法。不过，这些法律起到了积极的作用，和平与秩序已经回到我们的首都。我们希望研究另一种惩戒手段，同时解决不断增加的惩罚成本和惩罚方式的问题。"
  gpm_colony.4120.a:0 "好吧，给我找出解决办法。"
  # Capital Event - authoritarian -> Work Camps stage 4
- gpm_colony.4130.name:0 "建议：犯人营地"
+ gpm_colony.4130.name:0 "§Y首都:§! 犯人营地"
  gpm_colony.4130.desc:0 "一项提案正在讨论中，我们可以将大量废弃的基础设施用地改造为复杂的工作营地。罪犯们将在那里服刑，从事各种强制工作以造福社会。这些项目将包括体力劳动，诸如清洁和垃圾收集，以及更具挑战性的工作。"
  gpm_colony.4130.a:0 "通过该法案。"
  # Capital Event - authoritarian -> Work Camps stage 5
- gpm_colony.4140.name:0 "犯人营地施工完毕"
+ gpm_colony.4140.name:0 "§Y首都:§! 犯人营地施工完毕"
  gpm_colony.4140.desc:0 "工作营地的建设已经完成。这些营地虽然听起来很可怕，但实际上气氛非常融洽。营地中提供了舒适的环境与照料。并且免费为所有的犯人提供一日三餐和充足的自由活动。"
  gpm_colony.4140.a:0 "伟大的解决方案。"
 
  # 54 e
  # Capital Event - egalitarian -> Galactic_Equality stage 1
- gpm_colony.4200.name:0 "繁荣"
+ gpm_colony.4200.name:0 "§Y首都:§! 繁荣"
  gpm_colony.4200.desc:0 "几年来，我们首都的公民一直在享受日益增长的繁荣。于是他们自发决定将这一天作为庆祝的节日。当地的政客们也参与了进去。他们开始组织我们所有城市的庆祝活动。所有的成就都是我们统治和特殊政策的结果。具体来说就是保证我们首都的每个人都是自由平等的公民。我们的公民现在想要给予我们殖民地同样的权利。"
  gpm_colony.4200.a:0 "让我们静观其变。"
  # Capital Event - egalitarian -> Galactic_Equality stage 2
- gpm_colony.4210.name:0 "民权运动"
+ gpm_colony.4210.name:0 "§Y首都:§! 民权运动"
  gpm_colony.4210.desc:0 "我们的公民与殖民地的代表在首都星球组织了几次和平谈判。他们要求我们所有的帝国公民享有平等的权利。殖民者或“母星家园”应该一视同仁。人民要求在任何地方都实行这项法律。"
  gpm_colony.4210.a:0 "或许他们是对的。"
  # Capital Event - egalitarian -> Galactic_Equality stage 3
- gpm_colony.4220.name:0 "宪法的建议"
+ gpm_colony.4220.name:0 "§Y首都:§! 宪法的建议"
  gpm_colony.4220.desc:0 "我国政府提出了一项建议，即宣布所有公民享有平等权利，这是我国宪法的一项基本权利。这将是一项修正法案，包括宣布所有公民——无论是在我们的家园、殖民地、太空中，还是在其他任何地方出生——被视为平等，并给予同等的权利和特权。我们的政府官员现在将投票决定这条法案是否通过。"
  gpm_colony.4220.a:0 "行，投票吧。"
  gpm_colony.4220.c:0 "不需要投票。"
  # Capital Event - egalitarian -> Galactic_Equality stage 4
- gpm_colony.4230.name:0 "宪法赋予人人平等的权利！"
+ gpm_colony.4230.name:0 "§Y首都:§! 宪法赋予人人平等的权利"
  gpm_colony.4230.desc:0 "我们大多数的政府都投了赞成票！如今我们帝国的所有成员都被视作平等的。这一消息很快传到我们的殖民地，他们正在庆祝这个欢乐的时刻，也传到了邻近其他物种的殖民地。这个消息可能会使我们在盟国和邻国中更受欢迎。"
  gpm_colony.4230.a:0 "一个重大的时刻。"
  
  # 55 e
  # Capital Event - materialist -> Augment_Integrated_Systems stage 1
- gpm_colony.4300.name:0 "科学突破"
+ gpm_colony.4300.name:0 "§Y首都:§! 科学突破"
  gpm_colony.4300.desc:0 "经过多年的不懈努力，我们的科学家在生物和控制论研究上取得了重大突破。他们实现了原本不可能做到的事情：连接大脑和机器。通过使用专业的连接器，我们的科学家成功地将来自大脑细胞的数据输入到电脑芯片中，并通过将新数据输出到计算机芯片中来创造新的神经元。理论上它应该可以扩展这个系统，让它在一个更庞大、更复杂的大脑中工作。这个项目背后的科学团队将开始开发一些技术和方法来测试这个系统——仅仅在少量的样本中。"
  gpm_colony.4300.a:0 "难以置信。"
  # Capital Event - materialist -> Augment_Integrated_Systems stage 2
- gpm_colony.4310.name:0 "脑机连接"
+ gpm_colony.4310.name:0 "§Y首都:§! 脑机连接"
  gpm_colony.4310.desc:0 "控制脑植入的最新研究方面进展良好。科学家们报告了大脑连接机器技术的优秀成果，在对小动物的临床试验中取得了成功。其中一项测试是我们成功收集到了涉及动物们获得如何破解迷宫的数据。我们的科学家团队想要开始测试更高智能的系统，比如更大的动物甚至是感知领域。他们还希望开始使用先进的智能学习来优化技术和算法。"
  gpm_colony.4310.a:0 "随时告诉我最近的进展。"
  # Capital Event - materialist -> Augment_Integrated_Systems stage 3
- gpm_colony.4320.name:0 "本地集成节点"
+ gpm_colony.4320.name:0 "§Y首都:§! 本地集成节点"
  gpm_colony.4320.desc:0 "通过机器学习来提高我们对大脑连接机器的理解产生了难以想象的结果！新的材料和技术已经被开发，死亡率已经降低到接近0。我们相信，将这一技术大规模应用到我国公民身上已经做好了准备。这可能是个好主意，就看看人们是否准备好进行这种侵入性的手术了。"
  gpm_colony.4320.a:0 "太好了，继续吧。"
  # Capital Event - materialist -> Augment_Integrated_Systems stage 4
- gpm_colony.4330.name:0 "标准化集成节点"
+ gpm_colony.4330.name:0 "§Y首都:§! 标准化集成节点"
  gpm_colony.4330.desc:0 "最新调查证明了我们的公民是开放的，他们接受了使用脑机连接技术。报告显示，抵触这个想法的社会力量很小。我们提出了一套标准化程序，所有新的建筑项目都必须遵循。新的建筑物将配备集成数据节点。人们可以将他们的植入物插入这些节点，然后直接下载或上传数据到他们的大脑。"
  gpm_colony.4330.a:0 "听上去不错。"
  # Capital Event - materialist -> Augment_Integrated_Systems stage 5
- gpm_colony.4340.name:0 "集成节点普及化"
+ gpm_colony.4340.name:0 "§Y首都:§! 集成节点普及化"
  gpm_colony.4340.desc:0 "随着全新的建筑项目正在安装集成节点，政府大楼对这些节点的需求也越来越大。人们希望能够在政府大楼和中心等待的时候继续工作和娱乐。公共场所对这些节点的需求也在迅速增长。我们应该投入一些基础设施资金来升级现有的基础设施。"
  gpm_colony.4340.a:0 "批准这笔资金。"
  # Capital Event - materialist -> Augment_Integrated_Systems stage 6
- gpm_colony.4350.name:0 "免费扩展数据链接"
+ gpm_colony.4350.name:0 "§Y首都:§! 免费扩展数据链接"
  gpm_colony.4350.desc:0 "现在，我们的许多公民选择增加额外的数据链接并行处理。他们现在可以“插入”这些集成节点了。虽然增加的公民人数低于预期，但参与率稳步上升。我们已经确定，资助下一代扩展数据连接和集成节点是个好主意。这样一来，大多数公民的入境手续就会大大降低。很快，我们家园的每个居民都将利用这些植入物和节点来极大地提高他们的效率。"
  gpm_colony.4350.a:0 "知识就是力量。"
 
  
  # 56 e
  # Capital Event - spiritualist -> Mysterious_Force stage 1
- gpm_colony.4400.name:0 "冥想通往开悟之道"
+ gpm_colony.4400.name:0 "§Y首都:§! 冥想通往开悟之道"
  gpm_colony.4400.desc:0 "在我们首都的几个城市中，市民要求提供公共的冥想场所，在那里他们可以聚在一起谈论生活和思考。这种奇怪的要求似乎是一种全新哲学在我们的人群中传播后的结果。这种哲学教导我们只有通过科学和冥想来理解宇宙才能找到真正的和平与安宁。毕竟，没有思考就没有知识。"
  gpm_colony.4400.a:0 "一股新的势力。"
  # Capital Event - spiritualist -> Mysterious_Force stage 2
- gpm_colony.4410.name:0 "奇异之感"
+ gpm_colony.4410.name:0 "§Y首都:§! 奇异之感"
  gpm_colony.4410.desc:0 "有些人提到他们在业余花费了大量时间时间冥想，他们都经历了一种奇怪的感觉。一种平静、祥和的感觉充盈着他们的思想。他们最终变得谈吐平和、声音也越来越柔和。迄今为止还没有找到科学的解释，尽管人们认为这只不过是一种偶然的精神状态。"
  gpm_colony.4410.a:0 "然而，我感到有些不对劲..."
  # Capital Event - spiritualist -> Mysterious_Force stage 3
- gpm_colony.4420.name:0 "理解迸发"
+ gpm_colony.4420.name:0 "§Y首都:§! 理解迸发"
  gpm_colony.4420.desc:0 "我们的首都突然向四面八方爆发出一股能量，随后市民们变得异常镇定。虽然我们还不能确定，但这股能量波的扩散使得越来越多的公民感到平静。甚至我们的领导者也开始理解到生命的意义。宇宙已经向我们敞开怀抱，也许我们应该聆听它的呢喃。"
  gpm_colony.4420.a:0 "我想好好考虑一下。"
  # Capital Event - spiritualist -> Mysterious_Force stage 4
- gpm_colony.4430.name:0 "神秘的力量"
+ gpm_colony.4430.name:0 "§Y首都:§! 神秘的力量"
  gpm_colony.4430.desc:0 "自从能量波事件过去的几个月以来，有报道说人们能够做一些奇异的事，对科学来说不合理的事情。一切真的在在发生，一些公民被目睹到他们通过脑海中的意念移动物体，例如关门和开门。还有些人可以操纵灯光里的能量。有些人甚至没有不用说话就能互相交流。这不仅仅影响到人们，连周围的自然环境也变得很奇怪。当人们接近野生动物时，它们显得非常平静，反之亦然。我们所有人都知道无需对我们世界的变化感到害怕，但现在的问题是，我们该如何继续？我们如何使用这个力量？它是一种友善的力量或是一种邪恶之力？我们是用它来帮助弱者，还是用它来帮助自身变得更加强大？太多的问题需要答案。"
  gpm_colony.4430.a:0 "这力量是..."
 
  
  # 57 e
  # Capital Event - military -> Mandatory_Military_Service stage 1
- gpm_colony.4500.name:0 "谨慎的提议"
+ gpm_colony.4500.name:0 "§Y首都:§! 谨慎的提议"
  gpm_colony.4500.desc:0 "我们的军事顾问建议在与遇到外星物种的时候，我们应该保持谨慎。尽管我们现在可能与另一个物种处于和平状态，但他们可能选择在未来攻击我们。我们的顾问建议我们继续监视我们的领国和他们的舰队动向，以时刻掌握对我们帝国的威胁。"
  gpm_colony.4500.a:0 "今日之友可能就是明日之敌。"
  # Capital Event - military -> Mandatory_Military_Service stage 2
- gpm_colony.4510.name:0 "新的训练项目"
+ gpm_colony.4510.name:0 "§Y首都:§! 新的训练项目"
  gpm_colony.4510.desc:0 "虽然我们已经为士兵们制定了严格的训练计划，但负责人认为若要进一步提高我们军队的实力，这些计划还有待改善。我们的军事长官提醒我们，若没有更出色的训练计划，我们可能会输掉下一次星际战争。拟议的训练方法将确保我们的部队为我们可能面临的军事挑战做好准备。我们帝国的命运总有一天会落在我们士兵的肩上。"
  gpm_colony.4510.a:0 "批准新的训练计划。"
  # Capital Event - military -> Mandatory_Military_Service stage 3
- gpm_colony.4520.name:0 "招募新血"
+ gpm_colony.4520.name:0 "§Y首都:§! 招募新血"
  gpm_colony.4520.desc:0 "太空战斗和模拟行星入侵的新训练方法进展顺利。我们应该为任何不可避免的战争做好准备。然而，我们的军事人口仍然很低，我们的军事领导人坚持认为我们需要更专业的士兵。他们建议我们在首都星球组织一次征兵活动。这次募兵将为市民提供一个机会，让他们了解更多有关兵役的内容，以鼓励人们参军。"
  gpm_colony.4520.a:0 "安排募兵活动。"
  # Capital Event - military -> Mandatory_Military_Service stage 4
- gpm_colony.4530.name:0 "强制征兵"
+ gpm_colony.4530.name:0 "§Y首都:§! 强制征兵"
  gpm_colony.4530.desc:0 "多年来，我们允许公民自愿选择在我们的军队中服役。然而，随着时代的变化和潜在威胁的不断增加，我们不能再指望公民的爱国主义来维持我们军队的可靠力量。为了覆盖所有潜在的威胁和战略，我们需要每个人服从兵役。我们的军事领导人建议我们在首都实行强制性的征兵。"
  gpm_colony.4530.a:0 "我赞成，我们需要更可靠的士兵们。"
  # Capital Event - military -> Mandatory_Military_Service stage 5
- gpm_colony.4540.name:0 "共同强大"
+ gpm_colony.4540.name:0 "§Y首都:§! 共同强大"
  gpm_colony.4540.desc:0 "强制征兵花费了大量时间和费用，但最终我们建造的基础设施可以为首都的每一个有能力的公民提供军事训练。我们的军事顾问对现状感到高兴，来自普通民众的报告对新的军事发展表示热烈欢迎。如今我们的首都星球已经准备就绪，而我们的帝国则更加势不可挡。"
  gpm_colony.4540.a:0 "没有人可以战胜我们了。"
  
  # 58 e
  # Capital Event - pacifist -> Monument_To_The_Stars stage 1
- gpm_colony.4600.name:0 "天堂之眼"
+ gpm_colony.4600.name:0 "§Y首都:§! 天堂之眼"
  gpm_colony.4600.desc:0 "亿万年来，我们仰望星空，感受深空带来的宁静与祥和。有些人在广阔无边的黑暗中发现孤独，当他们思考我们在浩瀚宇宙中的位置时，他们感到渺小。然而，我们的艺术家和科学家一直受到群星的鼓舞，我们所有的人都被鼓励去想象我们无法目睹的东西。谁知道天上的星星会有什么无形的奇迹呢？"
  gpm_colony.4600.a:0 "对生命的探索永无止境。"
  # Capital Event - pacifist -> Monument_To_The_Stars stage 2
- gpm_colony.4610.name:0 "How to Say ‘Peace’"
+ gpm_colony.4610.name:0 "§Y首都:§! How to Say ‘Peace’"
  gpm_colony.4610.desc:0 "我们的人民希望与新物种见面并向他们展示我们热爱所有生命的方式。这应该是每个人的共同心愿。在我们的首都星球，一位杰出的艺术家提议建造一个巨大的纪念碑，它可以向居住在我们银河系的所有人传达和平的信息。"
  gpm_colony.4610.a:0 "纪念碑是个好注意。"
  # Capital Event - pacifist -> Monument_To_The_Stars stage 3
- gpm_colony.4620.name:0 "开始施工"
+ gpm_colony.4620.name:0 "§Y首都:§! 开始施工"
  gpm_colony.4620.desc:0 "在我们的批准下，提出建造纪念碑想法的艺术家组建了一个团队来设计它。设计经过了审查、修改、重新审查，并通过一系列的模拟测试确保可行。现在他们已经被批准将这座纪念碑建造在我们的首都星球。这将是一项艰巨的任务，需要大量的材料和时间才能完成。"
  gpm_colony.4620.a:0 "有消息马上通知我。"
  # Capital Event - pacifist -> Monument_To_The_Stars stage 4
- gpm_colony.4630.name:0 "施工障碍"
+ gpm_colony.4630.name:0 "§Y首都:§! 施工障碍"
  gpm_colony.4630.desc:0 "纪念碑的建造工程完成了一半。不过负责组装这座巨大纪念碑的建筑师和建筑工人经历了一些延误，使得工程进度有些落后。这是由于在建筑工地周围常被来往的人群所包围的缘故，这项工程吸引了比预期更多人的关注。每个人都想要见证这段历史。为了解决这个问题，一位艺术家提议让市民自愿参与到项目中来。这提议看起来成果颇丰，等待志愿者的名单现在已经很长了。额外的巡逻警备确保了人群被保持在安全的距离外，以确保工作恢复到正常水平。"
  gpm_colony.4630.a:0 "那就继续施工吧。"
  # Capital Event - pacifist -> Monument_To_The_Stars stage 5
- gpm_colony.4640.name:0 "星辰的纪念"
+ gpm_colony.4640.name:0 "§Y首都:§! 星辰的纪念"
  gpm_colony.4640.desc:0 "矗立在我们首都星球的纪念碑是一个复杂而惊人的成就。这不仅是和平的标志，也是我们人民和政府共同合作，团结一心的证明。它的设计是如此精妙，所有欣赏它的人会感到一种平和的感觉，无论是纪念碑的下面还是在上方。光滑的陶瓷，弯曲的金属和闪亮的水晶融合成一个真正配得上星空的纪念碑。这种希望与和平的光芒照亮了我们整个星系内外所表达信息:“我们热爱和平，我们珍惜爱，我们拥护友谊。”我们希望所有听到这一信息的人，无论是盟友还是我们尚未认识的外星人，都能理解并向我们传达同样的信息。"
  gpm_colony.4640.a:0 "这是给予星辰的礼物。"
  
  # 59 e
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 1
- gpm_colony.4700.name:0 "不公平的贸易"
+ gpm_colony.4700.name:0 "§Y首都:§! 不公平的贸易"
  gpm_colony.4700.desc:0 "我们帝国的公民都在抱怨邻国的不公平贸易行为。虽然这些投诉往往是含糊而不是具体的，但我们对这一问题的初步调查表明，外星人贸易商无视我们当地的贸易和法律。我们对这种现象表示愤慨，官员们正在游说此事，希望对这种行为进行更深入的调查。"
  gpm_colony.4700.a:0 "开始调查此事。"
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 2
- gpm_colony.4710.name:0 "调查外星贸易商"
+ gpm_colony.4710.name:0 "§Y首都:§! 调查外星贸易商"
  gpm_colony.4710.desc:0 "对外星贸易行为的调查正在进行中。虽然我们已经联系了邻国代表，但他们回避了我们的问题，拒绝提供帮助。他们声称商人是独立于帝国之外的，因此他们没有理由去调查此事。与此同时，外星的商人们仍在破坏我们的贸易法律，妨碍当地经济。虽然我们邻居的冷漠无情，但我们必须继续调查此事。绝不允许挑战我们帝国的底线。"
  gpm_colony.4710.a:0 "继续调查。"
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 3
- gpm_colony.4720.name:0 "不值得信任的贸易商"
+ gpm_colony.4720.name:0 "§Y首都:§! 不值得信任的贸易商"
  gpm_colony.4720.desc:0 "对外星交易行为的调查已经完成。很明显，他们正在试图打破几乎所有现存的当地贸易法。关闭我们的边界对他们没有任何影响，因为他们可以绕过我们的巡逻和现有的识别协议。在没有政府颁发许可证的情况下，禁止贸易的提案被提了出来，这将要求当地军用舰船立刻遣送外星商人离开我们的宙域。"
  gpm_colony.4720.a:0 "批准这项禁令。"
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 4
- gpm_colony.4730.name:0 "必要的严格措施"
+ gpm_colony.4730.name:0 "§Y首都:§! 必要的严格措施"
  gpm_colony.4730.desc:0 "尽管我们尽了最大的努力让外星贸易者离开我们的帝国，但许多人无视了禁止无证贸易的禁令。这些违法商人也变得相当狡猾，他们轻易地回避了我们行动缓慢的军舰。我们必须得做点什么，我们的殖民地感到非常头痛。虽然我们再次请求我们的邻居帮忙，但他们拒绝了。还能做些什么来保护我们的帝国呢？"
  gpm_colony.4730.a:0 "新的指示：抓捕他们。"
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 5
- gpm_colony.4740.name:0 "海盗初现"
+ gpm_colony.4740.name:0 "§Y首都:§! 海盗初现"
  gpm_colony.4740.desc:0 "为了追捕这些违法仇外的商人，我们的军队已经发起了几次小规模的战斗。尽管最初的尝试似乎很成功，但很快就发现更多的团体涌入了我们的帝国。首先是在我们的边境，然后是离我们帝国核心更近的殖民地。这些无赖中的许多人已经公然宣称自己为海盗，欺骗和偷窃一个殖民地的物资卖给另一个殖民地。一些人开始向我们的殖民地输出劣质资源，这是灾难性的。除非采取措施阻止这些海盗，否则我们的经济将会崩溃。"
  gpm_colony.4740.a:0 "颁布通缉悬赏。"
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 6
- gpm_colony.4750.name:0 "狩猎开始"
+ gpm_colony.4750.name:0 "§Y首都:§! 狩猎开始"
  gpm_colony.4750.desc:0 "我们的新政策允许平民追捕这些无赖商人和海盗，这被证明是非常受欢迎和有效的。最终我们的边境殖民地可以开始在他们自己的贸易圈下茁壮成长。尽管我们仍然经常收到违法交易的报告，但我们收到的通知和我们掌握的信息一样多。我们的官员和市民对结果非常满意，有人建议我们将这种悬赏狩猎作为一项永久的政策。"
  gpm_colony.4750.a:0 "我们应该如此。"
  # Capital Event - xenophobe -> Ministery_Of_The_Hunt stage 7
- gpm_colony.4760.name:0 "赏金部门"
+ gpm_colony.4760.name:0 "§Y首都:§! 赏金部门"
  gpm_colony.4760.desc:0 "经过多次辩论和文书工作，我们批准建立了赏金部门。这个新的政府机构将监督所有关于赏金狩猎的法规和政策。他们将处理交战规则、领土狩猎权和赏金支付系统。起初这是一个棘手的问题，而如今与外星贸易商的交易障碍已经被清除了，新的贸易经济机会为我们带来了繁荣。我们的帝国已经变得更加强大，这反倒要感谢那些为了自身利益而侵占我们的商人和海盗们。他们不再会对我们构成威胁，而赏金部将确保我们的公民得到适当的补偿。"
  gpm_colony.4760.a:0 "这对所有人都是有益的。"
  
  # 60 e
  # Capital Event - xenophile -> Galactic_Outreach_Program stage 1
- gpm_colony.4800.name:0 "庆祝友谊"
+ gpm_colony.4800.name:0 "§Y首都:§! 庆祝友谊"
  gpm_colony.4800.desc:0 "我们首都星球上的地方行政官们正在考虑设立一个纪念多元化和我们新邻居的节日。他们要求我们的政府让这个节日成为一个全球性的节日，以表达我们对外星朋友的感激之情，同时也提供了一个机会去接触浩瀚银河中的其他生命。"
  gpm_colony.4800.a:0 "我们应该把它变成一个银河假日！"
  # Capital Event - xenophile -> Galactic_Outreach_Program stage 2
- gpm_colony.4810.name:0 "我们可以做更多吗？"
+ gpm_colony.4810.name:0 "§Y首都:§! 我们可以做更多吗？"
  gpm_colony.4810.desc:0 "第一年过去了，对所有物种的多样性和平等的银河庆典被证明是一个巨大的成功。我们的市民很高兴可以拥有这个节日。然而我们的政府想要知道，除了安排这个简单的纪念活动外，我们能否更进一步展示我们对银河系中所有物种的关心。"
  gpm_colony.4810.a:0 "让我们内部讨论一下。"
  # Capital Event - xenophile -> Galactic_Outreach_Program stage 3
- gpm_colony.4820.name:0 "伸出友谊之手"
+ gpm_colony.4820.name:0 "§Y首都:§! 伸出友谊之手"
  gpm_colony.4820.desc:0 "经过长时间的激烈讨论，我们的政府决定，在这个节日里，我们将总是把额外的资源赞助到银河系中的每一个文明中。无论他们是朋友还是敌人，我们都要伸出友谊之手，希望他们也能如此。在这一天，我们将永远把每个人视作为我们的朋友并努力寻找共同的利益和价值观。"
  gpm_colony.4820.a:0 "这将成为我们帝国的基石。"
  # Capital Event - xenophile -> Galactic_Outreach_Program stage 4
- gpm_colony.4830.name:0 "你拥有我的朋友"
+ gpm_colony.4830.name:0 "§Y首都:§! 你拥有我的朋友"
  gpm_colony.4830.desc:0 "我们的政府已经通过了一项正式的、有约束力的法案。它使这个拓展计划和假期成为我们社会的基本组成部分。这一消息在我们的首都星球和整个帝国里传播，街道上自发举行了庆祝活动。我们的公民为我们在创造一个充满希望和友谊的星系而迈出努力的一步而欢呼。"
  gpm_colony.4830.a:0 "我们永远欢迎所有人。"
  
   # 61 e
  # Capital Event - hive mind -> Synopsys_Nodes stage 1
- gpm_colony.4900.name:0 "冲突渐生"
+ gpm_colony.4900.name:0 "§Y首都:§! 冲突渐生"
  gpm_colony.4900.desc:0 "我们帝国的广阔星域是我们文明强大的一部分。然而，这也成为了我们的一个弱点。由于距离太远，我们难以管理和支配我们的公民。政府官员们非常担心，如果没有解决这个问题的办法，我们的社会完整性将会不可弥补地受到损害。"
  gpm_colony.4900.a:0 "我们将研究这个问题。"
  # Capital Event - hive mind -> Synopsys_Nodes stage 2
- gpm_colony.4910.name:0 "改良链接"
+ gpm_colony.4910.name:0 "§Y首都:§! 改良链接"
  gpm_colony.4910.desc:0 "我们的科学家认为，在我们庞大的帝国中维持一个通过基因修饰和植入控制芯片相结合的蜂群链接可以解决这个问题。通过改变我们的物理形态与植入物科学适应，理论上我们可以将蜂群思维的链接提高上千倍甚至更多。"
  gpm_colony.4910.a:0 "这是一种可行的方案，值得一试。"
  # Capital Event - hive mind -> Synopsys_Nodes stage 3
- gpm_colony.4920.name:0 "最初的实验"
+ gpm_colony.4920.name:0 "§Y首都:§! 最初的实验"
  gpm_colony.4920.desc:0 "在最初的临床实验中，我们已经证明了基因修饰和控制植入物的结合是成功的。单个细胞的小型基因修饰已经显示出这些细胞可以与简单的电子设备进行交互。我们需要更大规模的实验，以确认是否可以处理更加复杂的信号。"
  gpm_colony.4920.a:0 "继续研究。"
  # Capital Event - hive mind -> Synopsys_Nodes stage 4
- gpm_colony.4930.name:0 "进一步的实验"
+ gpm_colony.4930.name:0 "§Y首都:§! 进一步的实验"
  gpm_colony.4930.desc:0 "我们的科学家们在这个项目上不懈努力并遇到了无数挫折与障碍。尽管有时他们担心永远找不到解决方案，但最终基因修饰和控制连接的实验取得了令人鼓舞的成功。我们现在可以开始测试这些技术和植入物，我们决定将这个技术称为思想节点，投放于民用测试。"
  gpm_colony.4930.a:0 "希望这东西管用。"
  # Capital Event - hive mind -> Synopsys_Nodes stage 5
- gpm_colony.4940.name:0 "我们是一体的"
+ gpm_colony.4940.name:0 "§Y首都:§! 我们是一体的"
  gpm_colony.4940.desc:0 "最初的几个试验对象对植入物产生了排斥反应，但是进一步改良基因组后我们纠正了这个问题。我们对思想节点的最新测试已经被证实非常成功。公民们在我们的首都星球上已开始适应这个变化，并且将继续下去，直到我们的蜂群链接足够强大到抵达银河系的每一个角落。我们的联系越强，我们的帝国也会愈发强大。"
  gpm_colony.4940.a:0 "对我们来说这是伟大的一天。"
  
  # 62 e
  # Capital Event - machine empires -> Rapid_Assembly_Systems stage 1
- gpm_colony.5000.name:0 "贫民窟"
+ gpm_colony.5000.name:0 "§Y首都:§! 贫民窟"
  gpm_colony.5000.desc:0 "多年来我们的重点一直是扩张我们的帝国，领土越大越好。然而，由于我们在殖民地上花费了巨大精力，我们首都星球的基础设施早已过时落伍了。尽管我们帝国边境的殖民地不断进行最新的技术改良，但我们的首都仍然停滞不前。在某些情况下，首都星球的技术已经到了无法与殖民地的最新技术相兼容的地步了。我们的领导人正在倡导对我们的基础设施进行升级。当我们的部分公民生活在如此恶劣的环境中时，我们怎么能称呼自己是银河系中最伟大的种族呢？ "
  gpm_colony.5000.a:0 "拟定升级计划。"
  # Capital Event - machine empires -> Rapid_Assembly_Systems stage 2
- gpm_colony.5010.name:0 "争分夺秒"
+ gpm_colony.5010.name:0 "§Y首都:§! 争分夺秒"
  gpm_colony.5010.desc:0 "升级我们首都星球的基础设施是一个紧迫的项目，但它需要认真规划以避免影响当前的建设。经过一番考虑之后，我们开发了一系列算法系统来寻求最优的方式升级我们老旧的基础设施。现在计算结果已经出来了，我们可以建造一些新设计的装配系统来加速升级模块的构建。"
  gpm_colony.5010.a:0 "集中资源来做这件事。"
  # Capital Event - machine empires -> Rapid_Assembly_Systems stage 3
- gpm_colony.5020.name:0 "万事俱备"
+ gpm_colony.5020.name:0 "§Y首都:§! 万事俱备"
  gpm_colony.5020.desc:0 "我们已经花了一些时间准备，如今我们首都星球的老化基础设施已经准备好升级了。严谨的规划使我们能够高效地将大量资源分配给整个行星的关键位置。现在一切蓄势待发，预计这些升级工程对日常生活的干扰是非常小的"
  gpm_colony.5020.a:0 "不错，开始升级吧。"
  # Capital Event - machine empires -> Rapid_Assembly_Systems stage 4
- gpm_colony.5030.name:0 "按部就班"
+ gpm_colony.5030.name:0 "§Y首都:§! 按部就班"
  gpm_colony.5030.desc:0 "根据我们领导人的要求，我们的工人已经提交了一份关于我们基础设施改造进展的报告。我们正如规划那样完成了一半工作，非常准时。我们的工作没有受到什么干扰。在升级过程中，我们的星球依然稳定产出资源。若项目的其余部分也能如期进行，那么我们可以期待尽早完成这些升级了。"
  gpm_colony.5030.a:0 "好消息，继续升级。"
  # Capital Event - machine empires -> Rapid_Assembly_Systems stage 5
- gpm_colony.5040.name:0 "高速装配系统"
+ gpm_colony.5040.name:0 "§Y首都:§! 高速装配系统"
  gpm_colony.5040.desc:0 "我们首都的基础设施升级终于完成了！我们的首都星球再度成为我们文明的巅峰。全新安装的现代化系统和配套软件在最佳环境下运行，而我们的资源产出从未如此之高。我们现在可以把焦点再次转向扩张以及帝国技术的进一步发展。我们再也不会让我们的首都星球陷入这样的失修状态。为了我们帝国的繁荣昌盛，我们必须维护它的方方面面。"
  gpm_colony.5040.a:0 "其他帝国无法与我们相提并论。"

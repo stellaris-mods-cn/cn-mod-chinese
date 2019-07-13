@@ -20,7 +20,9 @@
  #	cf. utopia.3310.name, covenant.cycle.desc, covenant.cycle.option
  #	    utopia.3320.name, utopia.3320.desc.a, utopia.3320.desc.b, utopia.3320.opt.a
  #	
- 
+
+ NAME_Absorbed_XXX:0 "吸收[Root.GetSpeciesNamePlural]"
+  
  CrisisManagerControl.4101.name:0 "强制契约"		## memo: utopia.3310.name = Covenant Formed
  CrisisManagerControl.4101.desc.y:0 "发生了什么事情!? 一股无法抵抗的力量强制我们与§R终末之轮回§!签订了契约. 当我们签订契约时，只听到一句话: §R''[CmtGlobalVar.GetValue.CmtVarTermForcedEoc] 年''§!. 接下来就是一片寂静，只留下我们面对今后可能发生的恐怖后果.."
  CrisisManagerControl.4101.desc.d:0 "发生了什么事情!? 一股无法抵抗的力量强制我们与§R终末之轮回§!签订了契约. 当我们签订契约时，只听到一句话:  §R''[CmtGlobalVar.GetValue.CmtVarTermForcedEoc] 天''§!.接下来就是一片寂静，只留下我们面对今后可能发生的恐怖后果.."
@@ -41,9 +43,9 @@
  syndaw.1025.Joinable.desc:1 "$syndaw.1025.desc$\n$syndaw.1025.Joinable.foot$"
  syndaw.1025.Joinable.machine.desc:1 "$syndaw.1025.desc.machine$\n$syndaw.1025.Joinable.foot$"
  syndaw.1025.JoinWarOrg.name:0 "我们将站在合法政府的立场上镇压粗暴的叛乱者"
- syndaw.1025.JoinWarOrg.tooltip:1 "§H如果§Y[current_uprising_originator]§!接受我们的条件§!，那么我们会加入他们。"
+ syndaw.1025.JoinWarOrg.tooltip:0 "§H如果§Y[current_uprising_originator]§!接受我们的条件§!，那么我们会加入他们。"
  syndaw.1025.JoinWarMech.name:0 "我们将站在革命者的立场上摆脱压迫的枷锁"
- syndaw.1025.JoinWarMech.tooltip:1 "§H如果§Y[current_uprising_originator]§!接受我们的条件§!，那么我们会加入他们。"
+ syndaw.1025.JoinWarMech.tooltip:0 "§H如果§Y[current_uprising_originator]§!接受我们的条件§!，那么我们会加入他们。"
  syndaw.1025.Subject.name:1 "$war_in_heaven.4.d$"        ## As a subject nation, it is not up to us to decide.
  syndaw.1025.Subject.tooltip:1 ""
  
@@ -56,7 +58,7 @@
  CririsManagerControl.7176b.tooltip:1 ""
  CririsManagerControl.7177.name:0 "[From.GetName]回应"
  CririsManagerControl.7177.desc:0 "§Y[From.GetName]§!接受了我们的军事支援，并表示深深的感谢。现在，向§Y[CmtTargetUprisingEnemy]§!宣战吧。"
- CririsManagerControl.7177a.name:1 "$OK$"        ## OK
+ CririsManagerControl.7177a.name:0 "$OK$"        ## OK
  CririsManagerControl.7177a.tooltip:1 ""
  CririsManagerControl.7178.name:0 "$CririsManagerControl.7177.name$"
  CririsManagerControl.7178.desc:0 "§Y[From.GetName]§!拒绝了我们的军事援助，现在我们冷眼旁观。"
@@ -69,12 +71,12 @@
  
  
  ### Dummies
- CrisisManagerControl.4116.name:0 """"
- CrisisManagerControl.4116.desc:0 """"
- CrisisManagerControl.4117.name:0 """"
- CrisisManagerControl.4117.desc:0 """"
- CrisisManagerControl.4117.desc1:0 """"
- CrisisManagerControl.4117.desc2:0 """"
+ CrisisManagerControl.4116.name:1 ""
+ CrisisManagerControl.4116.desc:1 ""
+ CrisisManagerControl.4117.name:1 ""
+ CrisisManagerControl.4117.desc:1 ""
+ CrisisManagerControl.4117.desc1:1 ""
+ CrisisManagerControl.4117.desc2:1 ""
  
  
  
@@ -230,9 +232,16 @@
  CmtModifierDessanuGift_13:1 "$dessanu_gift$"
  CmtModifierDessanuGift_14:1 "$dessanu_gift$"
  
+
  ### Automatic Terraform (L-Gates)
  CmtModifierAutoTerraform:0 "分解下的纳米颗粒"
  CmtModifierAutoTerraform_desc:0 "这个星球上的纳米机械自然分解了,这颗行星将在几年内变得可居住"
+
+ 
+ ### Job for Purging
+ job_CmtPurge:1 "$job_purge$"
+ job_CmtPurge_plural:1 "$job_purge_plural$"
+ job_CmtPurge_desc:1 "$job_purge_desc$"
  
  
  ### Uprising
@@ -272,29 +281,3 @@
  CmtOpinionUprisingUpriserEnemy:0 "革命的敌人"
  CmtOpinionUprigingOriginatorAlly:0 "国家灾难援助者"
  CmtOpinionUprisingOriginatorEnemy:0 "叛军的支持者"
-
- war_goal_wg_CmtMechUprising1:1 "$wg_machine_uprising$"
- war_goal_wg_CmtMechUprising2:1 "$wg_machine_uprising$"
- war_goal_wg_CmtMechUprising3:1 "$wg_machine_uprising$"
- war_goal_wg_CmtMechUprising4:1 "$wg_machine_uprising$"
- war_goal_wg_CmtMechUprising5:1 "$wg_machine_uprising$"
- war_goal_wg_CmtMechUprising1_desc:1 "$wg_machine_uprising_desc$"
- war_goal_wg_CmtMechUprising2_desc:1 "$wg_machine_uprising_desc$"
- war_goal_wg_CmtMechUprising3_desc:1 "$wg_machine_uprising_desc$"
- war_goal_wg_CmtMechUprising4_desc:1 "$wg_machine_uprising_desc$"
- war_goal_wg_CmtMechUprising5_desc:1 "$wg_machine_uprising_desc$"
- CmtModifierUprisingNpc1:1 "$CrisisManagerMenu.5180a0.title$"
- CmtModifierUprisingNpc2:1 "$CrisisManagerMenu.5180b0.title$"
- CmtModifierUprisingNpc3:1 "$uprising_ai_buff$"
- CmtModifierUprisingNpc4:1 "$CrisisManagerMenu.5180d0.title$"
- CmtModifierUprisingNpc5:1 "$CrisisManagerMenu.5180e0.title$"
- CmtModifierUprisingPlayer1:1 "$uprising_player_buff$"
- CmtModifierUprisingPlayer2:1 "$uprising_player_buff$"
- CmtModifierUprisingPlayer3:1 "$uprising_player_buff$"
- CmtModifierUprisingPlayer4:1 "$uprising_player_buff$"
- CmtModifierUprisingPlayer5:1 "$uprising_player_buff$"
- CmtModifierUprisingPlayer1_desc:1 "==1x"
- CmtModifierUprisingPlayer2_desc:1 "==5x"
- CmtModifierUprisingPlayer3_desc:1 "==10x"
- CmtModifierUprisingPlayer4_desc:1 "==15x"
- CmtModifierUprisingPlayer5_desc:1 "==20x"

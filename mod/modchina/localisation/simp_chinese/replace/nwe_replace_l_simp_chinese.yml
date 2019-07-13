@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+ 
+ ####Replace Vanilla Localisations
+ 
+ ###Planet classes
+ pc_gas_giant:0 "气态巨星"
+ pc_gas_giant_desc:0 "这些行星也被称为木星行星，是由液态氢和气态氢组成的巨大球体，其核心是金属氢。它们的大气层极度动荡，最剧烈的风暴风速可达每小时600公里。这些行星还拥有令人印象深刻的环状系统，主要由岩石、尘埃和冰组成。"
+ pc_asteroid:0 "小行星"
+ pc_asteroid_desc:0 "一颗较大的小行星或类行星，在密集的小天体群中脱颖而出。"
+ pc_molten:0 "熔融星球"
+ #pc_molten_desc:0 "These worlds represent the earliest stage in the formation of a habitable planet. The core and crust are completely molten, making the planet susceptible to solar winds and radiation, and subject to extremely high surface temperatures. The atmosphere is very thin and composed of hydrogen and helium. As the planet cools, the core and crust begin to harden and the planet can become Primordial if conditions are right."
+ pc_frozen:0 "冰冻星球"
+ pc_frozen_desc:0 "一颗被厚冰永久冻结的岩石星球。低温和稀薄的大气使星球表面不存在生命。"
+ pc_barren:0 "贫瘠星球"
+ pc_barren_desc:0 "虽然这些荒凉的星球在外表上与沙漠星球相似，但它们缺乏沙漠星球相似的大气。虽然已知存在着罕见的原始单细胞生物，但更复杂的生命从未进化过。"
+ pc_barren_cold:0 "无大气星球"
+ pc_barren_cold_desc:0 "这些小而多岩石的星球本质上已经死亡，表面寒冷贫瘠，没有大气。虽然这些行星仍然非常不适合类人生命，但它们往往富含矿物，适合采矿。"
+ pc_toxic:0 "剧毒星球"
+ pc_toxic_desc:0 "一颗岩石行星，其厚厚的大气层对所有已知的高级生命形式都是致命的。"
+ pc_infested:0 "腐化星球"
+ pc_infested_desc:0 "这个星球的表面被某种生物污染物所覆盖。"
+ ###Anomalies
+ TERRAFORMING_CANDIDATE_EFFECT:0 "如果£society£ §H$tech_terrestrial_sculpting$§!技术被研究出来，§Y[From.GetName]§!将能够被改造。" 

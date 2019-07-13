@@ -2,67 +2,43 @@
  ####################################
  # Alpha Naming Convention - WILL LIKELY BE CHANGED IF SECTIONS ARE REDESIGNED
  #
- # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-wordundefined "Bulwark"
-## word -> Core ##
- # Front sections have a flavor-name followed by the key-wordundefined "Bulwark"
-## word -> Breaker ##
+ # Mid sections have a flavor-name fitting to number of weapon/utility slots followed by the key-wordundefined "Core"
+ # Front sections have a flavor-name followed by the key-wordundefined "Breaker"
  # Rear sections have a flavor-name followed by the key-wordundefined "Bulwark"
-## word -> Bulwark ##
  #
  ####################################
  
  EAC_TITAN_BOW:0 "泰坦航母舰艏"
-## EAC_TITAN_BOW -> Titan Carrier Bow ##
  EAC_TITAN_MID:0 "泰坦航母核心"
-## EAC_TITAN_MID -> Titan Carrier Core ##
  EAC_TITAN_STERN:0 "泰坦航母舰艉"
-## EAC_TITAN_STERN -> Titan Carrier Stern ##
 
  EAC_TITAN_BOW_2XL:0 "泰坦脊峰舰艏 2XL"
-## EAC_TITAN_BOW_2XL -> Titan Spinal Mounts Bow ##
  EAC_TITAN_BOW_1XL_4G:0 "泰坦导弹舰艏"
-## EAC_TITAN_BOW_1XL_4G -> Titan Missile Bow ##
  EAC_TITAN_MID_1L_4G_4P:0 "泰坦导弹核心 I"
-## EAC_TITAN_MID_1L_4G_4P -> Titan Missile Core I ##
  EAC_TITAN_MID_6G_2S:0 "泰坦导弹核心 II"
-## EAC_TITAN_MID_6G_2S -> Titan Missile Core II ##
  EAC_TITAN_MID_2L_2M_4S:0 "泰坦通用核心"
-## EAC_TITAN_MID_2L_2M_4S -> Titan Balanced Core ##
  EAC_TITAN_MID_2H_2M_2S_2P:0 "泰坦吊架核心"
-## EAC_TITAN_MID_2H_2M_2S_2P -> Titan Hanger Core ##
  EAC_TITAN_STERN_2G_4P:0 "泰坦导弹舰艉"
-## EAC_TITAN_STERN_2G_4P -> Titan Missile Stern ##
  EAC_TITAN_STERN_8S:0 "泰坦炮艇舰艉"
-## EAC_TITAN_STERN_8S -> Titan Gunship Stern ##
 
  ####################################
  # Battleship
  ####################################
  EAC_BATTLESHIP_BOW_AC:1 "重型航母舰艏"
-## EAC_BATTLESHIP_BOW_AC -> Advanced Carrier Bow ##
  EAC_BATTLESHIP_MID_AC:1 "重型航母核心"
-## EAC_BATTLESHIP_MID_AC -> Advanced Carrier Core ##
  EAC_BATTLESHIP_STERN_AC:1 "重型航母舰艉"
-## EAC_BATTLESHIP_STERN_AC -> Advanced Carrier Stern ##
 
  ####################################
  # Cruiser
  ####################################
  EAC_CRUISER_BOW_G2:1 "导弹巡洋舰舰艏"
-## EAC_CRUISER_BOW_G2 -> Missile Cruiser Bow ##
  EAC_CRUISER_MID_G3:1 "导弹巡洋舰核心"
-## EAC_CRUISER_MID_G3 -> Missile Cruiser Core ##
 
  EAC_CRUISER_BOW_S1:0 "轻型航母舰艏"
-## EAC_CRUISER_BOW_S1 -> Light Carrier Bow ##
  EAC_CRUISER_MID_S2:0 "轻型航母核心"
-## EAC_CRUISER_MID_S2 -> Light Carrier Core ##
  EAC_CRUISER_STERN_P2:0 "轻型航母舰艉"
-## EAC_CRUISER_STERN_P2 -> Light Carrier Stern ##
 
  ####################################
  # Destroyer
  ####################################
- # 驱逐舰1个(H)机载槽位的舰艏
- EAC_DESTROYER_BOW_H1:0 "侦查辅助舰艏" 
-## EAC_DESTROYER_BOW_H1 -> Rapid Response Bow ##
+ EAC_DESTROYER_BOW_H1:0 "侦查辅助舰艏"

@@ -19,6 +19,10 @@
  pc_hot_giant_desc:0 "大气层主要由氢和氦组成的大型气态行星。这颗行星离母恒星很近，所以表面温度很高，轨道周期很短。由于时间短，白天长，加上强烈的风和超旋转的赤道射流，大气层是极端和奇异的。"
  pc_ice_giant:0 "冰巨星"
  pc_ice_giant_desc:0 "这些冰冻的庞然大物在成分上与它们的气态同类有很大的不同。核心大部分是岩石和冰，周围是水、甲烷和氨的脆弱层。此外，磁场是急剧倾斜的旋转轴。这些行星形成于恒星星系的边缘。"
+ pc_waterworld:0 "氧化氢海洋星球"
+ pc_waterworld_desc:0 "一个完全被水覆盖的海洋星球。一个强大的磁层和大气压力允许海洋在很长的地质时间尺度上保持。"
+ pc_ethaneworld:0 "乙烷海洋星球"
+ pc_ethaneworld_desc:0 "一个完全被乙烷覆盖的海洋星球。一个强大的磁层和大气压力允许海洋在很长的地质时间尺度上保持。"
  
  # Habitable Planets - New Worlds Originals
  
@@ -94,6 +98,10 @@
  subterranean_rocky_candidate_desc:0 "这个星球虽然贫瘠，没有生命，但它有巨大的地下洞穴，可以用来创造人工环境来维持生命。"
  subterranean_icy_candidate:0 "地下殖民地候选者"
  subterranean_icy_candidate_desc:0 "这个星球虽然贫瘠，没有生命，但它有巨大的地下洞穴，可以用来创造人工环境来维持生命。"
+ defrost_candidate:0 "解冻候选者"
+ defrost_candidate_desc:0 "这个冰冻的星球有足够的地热活动，如果我们把它推向正确的方向，它应该可以保留一些液态的地表水，以及一个更温暖、更厚的大气层。"
+ detox_candidate:0 "净化候选者"
+ detox_candidate_desc:0 "如果我们对大气进行一些控制，这个有毒的星球有可能进化成一个更有利于生命的环境。"
  
  ###NW Engine Start Sol
  nwengine.09.name:0 "太阳新世界"
@@ -106,6 +114,8 @@
  ###Decisions
  decision_adapted_environment:0 "适应环境"
  decision_adapted_environment_desc:0 "我们可以派遣带有所需建筑材料的自动化无人机去勘察理想的殖民地，建造基础设施，为我们在这个充满敌意的世界里的第一批殖民者提供更好的条件。"
+ decision_end_adapted_environment:0 "开放式环境"
+ decision_end_adapted_environment_desc:0 "当星球足够安全，我们的殖民者可以在没有封闭环境限制的情况下生活在地表时，我们就可以拆除穹顶，解除对殖民地扩张的限制。"
  decision_underground_colonization:0 "地下殖民地规划"
  decision_underground_colonization_desc:0 "我们可以利用这个没有无生命星球的地下特征，比如洞穴网络或熔岩管，把它们密封起来，创造一个适合居住的压力、大气和温度的人工环境。蚁群将需要更高的能量，扩张需要进一步挖掘，但它将提供获取新资源的途径。"
  

@@ -5,8 +5,9 @@
  speeddial_button_contact_trader_tooltip:0 "联系§H贸易§!"
  speeddial_button_contact_artist_tooltip:0 "联系§H艺术联盟§!"
  speeddial_button_contact_curator_tooltip:0 "联系§H策展人§!"
- speeddial_button_contact_shroud_tooltip:0 "联系§M虚境世界§!"
- 
+ speeddial_button_contact_shroud_tooltip:0 "进入§M虚境§!"
+ speeddial_button_contact_caravaneer_tooltip:0 "联系§H行商§!"
+  
  speeddial_button_contact_traders_xc_tooltip:0 "联系§H$guardian.100.name$§!"
  speeddial_button_contact_traders_rce_tooltip:0 "联系§H$guardian.103.name$§!"
  speeddial_button_contact_traders_mmg_tooltip:0 "联系§H$guardian.104.name$§!"
@@ -14,7 +15,7 @@
  speeddial_button_allow_blank_tooltip:0 ""
  speeddial_button_newline:0 " \n"
  speeddial_button_allow_shroud_wmw:0 "我们必须等待"
- speeddial_button_allow_shroud_brisa:0 "再次进入§M虚境世界§!。"
+ speeddial_button_allow_shroud_brisa:0 "再次进入§M虚境§!。"
  
  speeddial_button_allow_shroud_tooltip:0 "$speeddial_button_allow_shroud_wmw$ $speeddial_button_allow_shroud_brisa$"
  speeddial_button_allow_shroud_3600_tooltip:0 "$speeddial_button_allow_shroud_wmw$ §H10年§! $speeddial_button_allow_shroud_brisa$"
@@ -38,7 +39,7 @@
  speeddial_button_open_options_tooltip_fixed:0 "  §R经典§!\n  §R扩展(经典)§!\n  §R扩展(固定)§!\n>§G固定§!"
 
  speeddial.4.name:0 "§R*重要*§! SpeedDial - Shroud hover-over time"
- speeddial.4.desc:0 "本通知仅出现在你刚抵达虚境世界，刚安装或者快速拨号已被更新时候。\n\n有一个悬停提示启用计时器的快速拨号按钮可供你进入虚境世界。但由于编码存在一个问题，所以如果你目前无法进入虚境世界，但又启用这个MOD的话，那么计时器会无法正常工作。\n\n请记下这些:\n\n§H下次再进入虚境世界时候计时器会重新工作§!\n\n§R除非§!\n\n§H你等一个月后，你就可以再次进入虚境世界§!。\n\n一旦正常，计时器会被正确重置，BUG也就没了！"
+ speeddial.4.desc:0 "本通知仅出现在你刚抵达虚境，刚安装或者快速拨号已被更新时候。\n\n有一个悬停提示启用计时器的快速拨号按钮可供你进入虚境。但由于编码存在一个问题，所以如果你目前无法进入虚境，但又启用这个MOD的话，那么计时器会无法正常工作。\n\n请记下这些:\n\n§H下次再进入虚境时候计时器会重新工作§!\n\n§R除非§!\n\n§H你等一个月后，你就可以再次进入虚境§!。\n\n如果正常，计时器会被正确重置，BUG也就没了！"
  
  speeddial_button_contact_marauder_tooltip:0 "联系 §H掠夺者§!"
  speeddial_button_contact_marauder_1_tooltip:0 "联系 §H掠夺者§!"
@@ -58,5 +59,5 @@
  speeddial_button_contact_hfe_pirate_tooltip:0 "联系§H海盗§!"
   
  speeddial_button_contact_hfe_deepvoid_tooltip:0 "坞站"
- speeddial_button_allow_hfe_deepvoid_tooltip:0 "我们必须有个\n功能太空站先。"
+ speeddial_button_allow_hfe_deepvoid_tooltip:0 "我们必须先有个\n功能太空站。"
  

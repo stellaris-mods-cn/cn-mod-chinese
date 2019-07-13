@@ -15,6 +15,18 @@
  hfe_scripted_loc_crew.1:0 "人影"
  hfe_scripted_loc_crew.2:0 "单位"
  hfe_scripted_loc_crew.3:0 "科学人员"
+ # same for scientist
+ hfe_scripted_loc_scientist.0:0 "首席科学家"
+ hfe_scripted_loc_scientist.1:0 "科学"
+ hfe_scripted_loc_scientist.2:0 "主处理器"
+ hfe_scripted_loc_scientist.3:0 "超级科学家"
+ hfe_scripted_loc_scientist.4:0 "首席有限元科学家"
+ # capitilized
+ hfe_scripted_loc_scientist_cap.0:0 "首席科学家"
+ hfe_scripted_loc_scientist_cap.1:0 "科学"
+ hfe_scripted_loc_scientist_cap.2:0 "主处理器"
+ hfe_scripted_loc_scientist_cap.3:0 "超级科学家"
+ hfe_scripted_loc_scientist_cap.4:0 "首席有限元科学家"
  # events egypt
  hfe.10.name:0 "WIP"
  hfe.10.desc:0 "WIP"
@@ -425,7 +437,7 @@
  # 1
  hfe.520.name:0 "然后就没有了"
  # non hive
- hfe.520.desc.0:0 "一旦飞船从视线中消失，入口就会关闭，我们的仪器显示设备的能量活动为零。每个人都感到恐惧的感觉消失了，一切都沉默了。几个月来，我们的专家们一直在试图弄清楚出了什么问题，以及是否有可能让这扇门起死回生，但都无济于事。这项技术太复杂了。入口已死，它夺去了我们所有勇敢的探险者的生命。"
+ hfe.520.desc.0:0 "如果飞船从视线中消失，入口就会关闭，我们的仪器显示设备的能量活动为零。每个人都感到恐惧的感觉消失了，一切都沉默了。几个月来，我们的专家们一直在试图弄清楚出了什么问题，以及是否有可能让这扇门起死回生，但都无济于事。这项技术太复杂了。入口已死，它夺去了我们所有勇敢的探险者的生命。"
  # hive
  hfe.520.desc.1:0 "飞船一从视线中消失，入口就关上了。它不再发出任何信号。几个月来，我们最好的处理器已经计算出了什么地方出了问题，以及是否有可能让这扇门起死回生，但毫无用处。这项技术太复杂了。入口已死。"
  # non hive
@@ -595,6 +607,20 @@
  hfe.53.0.2.tooltip:0 "§B他们很可能会死，但荣誉更珍贵。§!"
  hfe.53.0.3:0 "你们的种族输掉了那场战争。你最好找个新家。"
  hfe.53.0.4:0 "无论你在和谁战斗，我们都会劝你讲和。"
+ # dolphin presapient
+ hfe_anomaly_presapient_dolphin:0 "$UPLIFT_OCEAN_CAT$"
+ # dolphin scripted loc
+ hfe_scripted_loc_dolphin.1:0 "地球海豚"
+ hfe_scripted_loc_dolphin.0:0 "一种未知的外星动物"
+ # event after anomaly root is ship, from is planet, this ship owner
+ hfe.60.name:0 "水，水，到处都是水"
+ hfe.60.desc.0:0 "在完成对这颗行星的探索之后，在§H[root.leader.GetName]§![root.hfe_scripted_loc_scientist]的指挥下，§H[root.GetName]§![root.hfe_scripted_loc_crew]发现了一个居住在§H[from.GetName]§!海洋中的先民种族."
+ # meet presapient before
+ hfe.60.desc.1.0:0 "今天的一项普通研究，如果不是一个重要的发现，那就是:它不是在这个生态系统中进化的物种，而是[this.hfe_scripted_loc_dolphin]的一个遥远的后代，在几千年前被引入到这个生态系统中，并被修改用于未知的目的。"
+ # not meet presapient before
+ hfe.60.desc.1.1:0 "在此之前，我们并没有遇到具有高智能潜能的生物体，只有这一发现才会让社会生物学家在未来许多年里继续工作。但一项对选定个体的详细研究表明，他们是[this.hfe_scripted_loc_dolphin]的后代，[this.hfe_scripted_loc_dolphin]在数千年前因未知的目的被修改。"
+ hfe.60.desc.2:0 "我们只能通过间接的迹象来判断目标:负责说话、记忆和自我意识的大脑部分的发育。\n显然，这个过程没有完成，这为§H[root.owner.GetName]§!创造了一个有趣的机会."
+ # immortal presapient
  # events future
  # dialog 1 contact
  hfe.5001.desc.0:0 "哇,这是谁? !你非常上相。我能摸到你那迷人的皮肤吗?\n我们很高兴欢迎你!我们期待着今后的合作取得丰硕成果。为了§P共同利益§!和加强我们的关系，进行文化交流怎么样?"
@@ -948,7 +974,7 @@
  hfe_chain_discovery_contract_clear_system_desc.0:0 "目标星系。"
  # war contract
  hfe_discovery.151.contract_menu.3:0 "§G加入战争。§!"
- hfe_discovery.151.contract_menu.3.response:0 "你的申请已经被审查和§G接受§!。\n预付款将立即记入贷方。\n\n\n§P提醒§!: 一旦被摧毁的战略价值目标的遥测数据被接收，将立即支付额外的款项。"
+ hfe_discovery.151.contract_menu.3.response:0 "你的申请已经被审查和§G接受§!。\n预付款将立即记入贷方。\n\n\n§P提醒§!: 如果被摧毁的战略价值目标的遥测数据被接收，将立即支付额外的款项。"
  # story events
  hfe_discovery_private_log:0 "私人日志"
  hfe_discovery_captain_log:0 "航海日志"
@@ -958,7 +984,6 @@
  hfe_discovery.503.desc:0 "我再也睡不着了。很快，该系统将打破常规，并在机舱内喷洒安眠药。我正在记录这一点，这样你就能至少了解到机组人员增加使用安眠药的原因之一。\n我无法入睡，因为我记得家。许多人因为我们的所作所为而诅咒我们的星球。我觉得这种行为有点荒谬。很少有人能活下来，而且在发明出磁场发射器之前，生活非常艰难。但这是我们的家，它很特别，甚至很漂亮。\n遗憾的是，最终结果显示支持者获胜了，而不是地貌改造项目。"
  hfe_discovery.504.desc:0 "今天，预测者在我的屏幕上看到了一个详细的计划，想要杀死这个团队，并摧毁低温装置。误报火警的想法还不错。这个计划的名字是:“从寄生虫那里解放了伟大和美丽的神奇力量。”他可能认为我会试着拍张照片或者警告其他人，之类的……\n\n我知道你读过我们的档案记录，一个最好的笑话。"
  hfe_discovery.505.desc:0 "在星系的边缘，我们发现了一些奇怪的东西，我称之为宇宙飞船，但是我们能知道什么关于宇宙的幻想呢?信号消失了，物体没有任何反应。"
-
  # drone events
  # conact event
  hfe.605.desc.0:0 "这个空间是封闭的。"
@@ -1242,6 +1267,8 @@
  hfe.711.2.response:0 "你没有忘记必要的资源?一切都像往常一样。"
  hfe.711.3:0 "科研，我们需要科研模块。"
  hfe.711.3.response:0 "也许我应该卖掉这些模块，然后用收益来雇佣一支防御性舰队。考虑到我们的困难时期，这不会太极端。我在开玩笑。你会保护那只带金蛋的鸡吗?"
+ hfe.711.4:0 "你有工业品吗?"
+ hfe.711.4.response:0 "哦,新需求。"
  hfe.711.4.0:0 "你怎么不知道你的性别?"
  hfe.711.4.1:0 "中性的呢?"
  hfe.711.4.2:0 "你可以选择一个还是另一个?"
@@ -1256,6 +1283,7 @@
  hfe.712.desc.1:0 "您的模块准备好了。你打算用这些矿物建造很多战舰?"
  hfe.712.desc.2:0 "从来没有想过有人会需要这个模块。但……嗯……那是你们自己的事情。"
  hfe.712.desc.3:0 "科学之神的更多科学"
+ hfe.712.desc.4:0 "你点的是工业品。"
  hfe.711.module_ordered:0 "模块命令。"
  hfe.712.0:0 "我们还需要一个。"
  hfe.712.1:0 "下次见。"
@@ -1304,7 +1332,6 @@
  hfe_chain_ahet_home_title:0 "奇怪的异常"
  hfe_chain_ahet_home_desc:0 "成立一个专门调车组来研究这种异常现象。"
  # events features
-
  # egypt
  # at war
  hfe_greeting_egypt_at_war.0:0 "自然选择的活生生的广告。"
@@ -1340,6 +1367,8 @@
  # domineering
  hfe_greeting_egypt_domineering.0:0 "你好,未来的主题。你会喜欢升起金字塔。"
  # future
+ # at war
+ hfe_greeting_future_at_war.0:0 "恭喜你，你获救了。请不要抗拒。"
  # hostile
  hfe_greeting_future_hostile.0:0 "仁慈与仁慈的敌人必须被消灭在萌芽状态。"
  # threatened
@@ -1374,22 +1403,19 @@
  job_hfe_job_egypt_ruler_0:0 "仆人成本"
  job_hfe_job_egypt_ruler_0_desc:0 "谨慎,谨慎,节俭。只有理智才能避免浪费和其他自杀行为。"
  job_hfe_job_egypt_ruler_0_plural:0 "成本公仆"
- mod_job_hfe_job_egypt_ruler_0_max:0 "最大$job_hfe_job_egypt_ruler_0_plural$"
  hfe_job_egypt_ruler_0:0 "$job_hfe_job_egypt_ruler_0_plural$"
  job_hfe_job_egypt_ruler_1:0 "仆人合法性"
  job_hfe_job_egypt_ruler_1_desc:0 "公义、传统、合法性。只有这样才能生存、共存和自我保护。"
  job_hfe_job_egypt_ruler_1_plural:0 "合法性的仆人"
- mod_job_hfe_job_egypt_ruler_1_max:0 "最大$job_hfe_job_egypt_ruler_1_plural$"
  hfe_job_egypt_ruler_1:0 "$job_hfe_job_egypt_ruler_1_plural$"
  job_hfe_job_egypt_ruler_2:0 "愤怒仆人"
  job_hfe_job_egypt_ruler_2_desc:0 "高贵、纪律、荣誉。在可怕的星际黑暗中，唯一的救星就是住在里面的怪物。"
  job_hfe_job_egypt_ruler_2_plural:0 "愤怒的仆人"
- mod_job_hfe_job_egypt_ruler_2_max:0 "最大$job_hfe_job_egypt_ruler_2_plural$"
  hfe_job_egypt_ruler_2:0 "$job_hfe_job_egypt_ruler_2_plural$" 
  job_hfe_job_terraformer:0 "地貌改造"
  job_hfe_job_terraformer_desc:0 "这些孜孜不倦的科学家们负责建造伟大的过滤器和研究透神庙的生物实验室。这个巨大的金字塔形状的复合体使它的坟墓世界适合所有形式的生命居住。巨海的巨大图书馆的知识，在提高宜居性，让星球地貌改造应用的所有星球的控制帝国的知识。"
  job_hfe_job_terraformer_plural:0 "地貌改造"
- mod_job_hfe_job_terraformer_max:0 "最大$job_hfe_job_terraformer_plural$"
+ mod_job_hfe_job_terraformer_add:0 "$job_hfe_job_terraformer$工作"
  hfe_job_terraformer:0 "$job_hfe_job_terraformer_plural$"
  job_hfe_job_egypt_workless:0 "不适应"
  job_hfe_job_egypt_workless_desc:0 "并非所有国家都在危机后的经济中找到了自己的位置。"
@@ -1401,12 +1427,12 @@
  job_hfe_job_cataloger:0 "编目员"
  job_hfe_job_cataloger_desc:0 "这些勤奋的工人在数万英里的废墟中仔细搜寻。他们清除这些垃圾，在这个星球上建立新的定居点，并对他们发现的任何有价值的东西进行索引。垃圾和垃圾被用来加工矿物和合金之类的东西。"
  job_hfe_job_cataloger_plural:0 "编目员"
- mod_job_hfe_job_cataloger_max:0 "最大$job_hfe_job_cataloger_plural$"
+ mod_job_hfe_job_cataloger_add:0 "$job_hfe_job_cataloger$工作"
  hfe_job_cataloger:0 "$job_hfe_job_cataloger_plural$"
  job_hfe_job_recycler:0 "回收者"
  job_hfe_job_recycler_desc:0 "$job_ratling_scavenger_desc$"
  job_hfe_job_recycler_plural:0 "回收者"
- mod_job_hfe_job_recycler_max:0 "最大$job_hfe_job_recycler_plural$"
+ mod_job_hfe_job_recycler_add:0 "$job_hfe_job_recycler$工作"
  hfe_job_recycler:0 "$job_hfe_job_recycler_plural$"
  # districts
  # memorial
@@ -1459,7 +1485,8 @@
  hfe_building_thoth_module_food_desc:0 "自动气候调节使我们能更有效地生产食物。"
  hfe_building_thoth_module_science:0 "数据库"
  hfe_building_thoth_module_science_desc:0 "信息的自动集中存储让我们欣喜，因为我们不需要做同样的研究几十次。"
-
+ hfe_building_thoth_module_industry:0 "工业用的东西"
+ hfe_building_thoth_module_industry_desc:0 "真的是这样叫的吗?"
  # colony type
  hfe_colony_type_varelse:0 "有毒大气"
  hfe_colony_type_varelse_desc:0 "这个星球的生物圈完全被有意地污染了，这使得它对所有没有某种呼吸设备的更高层次的非突变生命都是有害的。"
@@ -1472,7 +1499,6 @@
  sm_hfe_starbase_building_drone_logistics_desc:0 "这个星际基地是古代采矿无人机的通讯中心。它连接着整个星系的中继站，在那里，其他古代采矿无人机正在开采矿物。"
  sm_hfe_starbase_building_drone_alloys:0 "无人机处理核心"
  sm_hfe_starbase_building_drone_alloys_desc:0 "WIP"
-
  # planet class
  hfe_pc_memorial:0 "纪念星球"
  hfe_pc_memorial_desc:0 "在这颗星球上曾经有一场古老的战役，表面上布满了沉船残骸，建筑废墟以及其他流血事件的证据。我们需要建立一个殖民地，更仔细地搜索。\n然而，如果一个还活着的人声称这是一个墓园，那么他们可能就不会高兴了。"
@@ -1480,7 +1506,6 @@
  hfe_pc_memorial_tile_desc:0 "这一地区被军事行动摧毁。"
  hfe_pc_ahet_home:0 "不可能"
  hfe_pc_ahet_home_desc:0 "由于未知的原因，在轨道上的奇点还没有摧毁这个星球。"
-
  # subject types
  SUBJECT_hfe_vassal_future:0 "联盟世界成员"
  SUBJECT_DESC_hfe_vassal_future:0 "§P联盟世界§!成员们无法推行独立的政策，并向联盟领袖纳税。为了融入社会，他们必须改变现行的原则。"
@@ -1584,6 +1609,8 @@
  hfe_admiral_trait_energy_expert_desc:0 "这位舰队司令的能源管理知识使他能够提高一些船舶系统的性能，以增加额外的维修费用。"
  hfe_admiral_trait_satanist:0 " "
  hfe_admiral_trait_satanist_desc:0 " "
+ hfe_admiral_trait_dolphin:0 "三维思考"
+ hfe_admiral_trait_dolphin_desc:0 "水生环境中的生命使这位海军上将对外层空间有了更好的了解。"
  # general
  hfe_general_trait_engineer:0 "专业工程师"
  hfe_general_trait_engineer_desc:0 "这位将军明白工程科学的重要性。"
@@ -1617,6 +1644,8 @@
  hfe_species_trait_happy_slave_desc:0 "这些物种找不到彼此的共识和个性，它们却在为他人服务时寻求意义，即使他们不是被迫这样做的。"
  hfe_species_trait_clever_beast:0 "聪明的野兽"
  hfe_species_trait_clever_beast_desc:0 "WIP"
+ hfe_species_trait_dolphin:0 "水生生物"
+ hfe_species_trait_dolphin_desc:0 ""
  # plague
  hfe_species_trait_immune:0 "免疫"
  hfe_species_trait_immune_desc:0 "免疫瘟疫。"
@@ -1670,7 +1699,6 @@
  # start screen message
  # discovery
  hfe_ssm_discovery:0 "这个星球不再是我们的家，也不再是我们的家园了。\n\n考古学家证实了我们已经从传说中知道的东西:我们的祖先来自星星，我们的文明从废墟中走出，变得更加先进。\n\n但是，如果新技术与旧传统发生冲突怎么办?如果进化变成了革命呢?如果优势足以找到一个古代计算机的碎片呢?\n\n不管它是什么，答案都是错的。文明没有做好准备来应对社会发展和技术创新所带来的混乱。\n\n生还者创造了一个新的生命形态。我们赢得了他们原始的偏见，建立了一个更加完美的社会。数百年来，我们一直在研究先驱们的技术片段。几百年的等待，直到我们建造了§P发现号§!。\n\n这个星球不再是我们的家，也不再是我们的家园了。"
-
  # personality
  personality_hfe_personality_egypt:0 "曾经隐退"
  personality_hfe_personality_egypt_desc:0 "这个文明曾经统治着这个星系，直到有什么地方出了问题\n谁知道他们是否会回到扩张的道路上？"
@@ -1786,15 +1814,6 @@
  hfe_policies_assimilator.8:0 "从属。"
  hfe_policies_assimilator.8_desc:0 "我们的领主需要活的贡品。"
  # decisions
- # thoth
- hfe_decision_thoth_module_energy:0 "部署$hfe_building_thoth_module_energy$"
- hfe_decision_thoth_module_energy_desc:0 "$hfe_building_thoth_module_energy_desc$"
- hfe_decision_thoth_module_mineral:0 "部署$hfe_building_thoth_module_mineral$"
- hfe_decision_thoth_module_mineral_desc:0 "$hfe_building_thoth_module_mineral_desc$"
- hfe_decision_thoth_module_food:0 "部署$hfe_building_thoth_module_food$"
- hfe_decision_thoth_module_food_desc:0 "$hfe_building_thoth_module_food_desc$"
- hfe_decision_thoth_module_science:0 "部署$hfe_building_thoth_module_science$"
- hfe_decision_thoth_module_science_desc:0 "$hfe_building_thoth_module_science_desc$"
  # stargate
  hfe_decision_stargate_geck:0 "部署GECK"
  hfe_decision_stargate_geck_desc:0 "我们只有一次机会。我们所谓的盖柯，可以把任何一个单独的世界变成盖亚星球。颁布这条法令将立即把选定的行星改造成盖亚世界。"
@@ -1823,7 +1842,16 @@
  # plague
  bombardment_hfe_stance_plague_spread:0 "$hfe_tech_plague_spread$"
  bombardment_hfe_stance_plague_spread_desc:0 "在每一个轰炸周期后，行星便会流行瘟疫。"
-
+ # pop modifiers general
+ # economy categories
+ mod_hfe_planet_pops_ocean_upkeep_mult:0 "海洋星球维护"
+ mod_hfe_planet_jobs_ocean_produces_mult:0 "海洋星球产出"
+ mod_hfe_planet_pops_non_ocean_upkeep_mult:0 "非海洋星球维护"
+ mod_hfe_planet_jobs_non_ocean_produces_mult:0 "非海洋行星产出"
+ mod_hfe_planet_jobs_war_produces_mult:0 "战争产出"
+ mod_hfe_planet_jobs_war_militarist_produces_mult:0 "军国主义者战争产出"
+ mod_hfe_planet_jobs_ruler_produces_mult:0 "统治者产出"
+ mod_hfe_planet_jobs_psionic_produces_mult:0 "灵能产出"
  # modifiers
  hfe_necrotic_autoevolution:0 "损坏的自动化进程"
  hfe_necrotic_autoevolution_desc:0 "损坏的自动化进程"
@@ -1844,7 +1872,6 @@
  # total war
  hfe_fallen_resources_drain:0 "资源流失"
  hfe_fallen_resources_drain_desc:0 "资源流失"
-
  # population
  hfe_population_yellow_ring:0 "黄环"
  hfe_population_yellow_ring_desc:0 "黄环的行星以生产能源信用为导向。任何一个没有倾向于提取能源的人口都将被驱逐出境。"
@@ -1858,10 +1885,6 @@
  hfe_population_grey_ring_desc:0 "灰色环的行星被设计成保持合成生命形式。任何其他人口将被驱逐出境。"
  hfe_population_ban_auto_migrate:0 "移民是被禁止的"
  hfe_population_ban_auto_migrate_desc:0 "人口将无法迁移到星球或从星球上迁移。"
- hfe_population_overpopulated_planet:0 "人口过剩的星球"
- hfe_population_overpopulated_planet_desc:0 "这个星球人口过剩。"
- hfe_population_unpopulated_planet:0 "无人居住的星球"
- hfe_population_unpopulated_planet_desc:0 "这个星球上到处都是居住的地方。"
  # plague
  hfe_plague_lvl_1:0 "疾病"
  hfe_plague_lvl_1_desc:0 "被感染的星球。"
@@ -1989,6 +2012,7 @@
  hfe_installed:0 "§G安装§!"
  hfe_ascension_points:0 "限制"
  hfe_leaders_button_disable:0 "被人类失落帝国领导模块所禁用。"
+ hfe_leaders_hire_block:0 "半成品领袖..." 
  hfe_ruler_has_trait:0 "统治者具有特质 "
  # leader notification
  hfe_leaders_new:0 "新的"
@@ -2106,7 +2130,6 @@
  hfe_newline_3:0 "\n\n\n"
  hfe_newline:0 " \n"
  hfe_nothing:0 " "
-
  # projects
  # plague
  hfe_project_plague_planet_bombardment:0 "$edict_hfe_plague_planet_bombardment$"
@@ -2171,6 +2194,7 @@
  trait_hfe_pc_memorial_preference:0 "墓地偏好"
  trait_hfe_pc_memorial_preference_desc:0 "这个物种是幸存者的后代，或者说是被一场长久以来摧毁他们世界的大战所变异的生物。纪念世界不是辐射的坟墓世界，它们和盖亚世界一样，适合所有已知的生命形式，即使它们真的是灰暗的。"
  hfe_pc_memorial_habitability:0 "墓地宜居性"
+ mod_hfe_pc_memorial_habitability:0 "未使用"
  # ship sizes
  # discovery
  hfe_ship_size_discovery:0 "发现号"
@@ -2551,6 +2575,8 @@
  # gender depend, call by hfe_scripted_loc_pirate_lad
  hfe_scripted_loc_pirate_lad.0:0 "小伙子"
  hfe_scripted_loc_pirate_lad.1:0 "让"
+ hfe_scripted_loc_pirate_lad_cap.0:0 "小伙子"
+ hfe_scripted_loc_pirate_lad_cap.1:0 "让"
  # event
  # pirates
  hfe_opinion_pirate_pay_for_protect:0 "付出代价"
@@ -2816,17 +2842,26 @@
  hfe_population.52.desc.5.1.1:0 "似乎那些长期以种族灭绝运动恐吓银河系的§H[hfe_population_old_species.GetName]§!的§H[from.GetName]§!灭绝了!令所有人惊讶的是，§H[from.species.GetName]§!从他们被关押的营地里逃了出来，并且控制了大部分的§H[from.GetName]§!。"
  hfe_population.52.desc.5.1.2:0 "§H[hfe_population_old_species.GetName]§!在§H[from.GetName]§!已经灭绝，只留下了他们正在消灭的§H[from.species.GetName]§!。§H[from.species.GetName]§!希望通过§H[from.GetName]§!为自己创造一种文明。"
  # became robo hive
+ # Becomes normal robot empire
  hfe_population.52.desc.6.0.0:0 "错误:没有检测到§H[hfe_population_old_species.GetName]§!单元。\n第13号议定书生效。\n在§H[from.GetName]§!下，§H[from.species.GetName]§!继续扩张。"
+ # Becomes Rogue Servitors
  hfe_population.52.desc.6.0.1.0:0 "错误:§H[from.GetName]§!中未检测到§H[hfe_population_old_species.GetName]§个体\n进一步实现§H[from.species.GetName]§!指令变得不可能。\n无目的。\n无目的。\n转移优先级:扫描与§H[hfe_population_old_species.GetName]§!最相似的单元。"
  hfe_population.52.desc.6.0.1.1:0 "目标发现: §H[hfe_event_target_0.GetName]§! §H[hfe_event_target_1.GetName]§! §H[hfe_event_target_2.GetName]§! §H[hfe_event_target_3.GetName]§! §H[hfe_event_target_4.GetName]§! §H[hfe_event_target_5.GetName]§!"
+ # Becomes Driven Assimilators
  hfe_population.52.desc.6.0.2.0:0 "在§H[from.GetName]§!中，§H[from.species.GetName]§!§H[hfe_population_old_species.GetName]§!已经灭绝，这预示着在太空中生存的有机物种不可能灭绝。这些都是错误的。为了防止生物多样性的进一步丧失，必须采取严厉的措施来保护有机物。"
  hfe_population.52.desc.6.0.2.1:0 "同化目标发现: §H[hfe_event_target_0.GetName]§! §H[hfe_event_target_1.GetName]§! §H[hfe_event_target_2.GetName]§! §H[hfe_event_target_3.GetName]§! §H[hfe_event_target_4.GetName]§! §H[hfe_event_target_5.GetName]§!"
+ # Becomes Terminators
  hfe_population.52.desc.6.0.3.0:0 "§H[hfe_population_old_species.GetName]§!已经灭绝，§H[from.species.GetName]§!接管§H[from.GetName]§!。\n优先级1,§H[hfe_population_old_species.GetName]:§!保存失败。\n新的优先事项:§H[from.GetName]§!的保存。\n有机物种给他们所属的政治带来不稳定和资源流失，并试图摧毁外交政策。最佳的做法是先发制人，在有机物可能威胁§H[from.GetName]§!之前摧毁它们。\n使用有机仆人…次优的。有机物的保存是§H[from.GetName]§!资源的低效利用。"
  hfe_population.52.desc.6.0.3.1:0 "消灭目标发现: §H[hfe_event_target_0.GetName]§! §H[hfe_event_target_1.GetName]§! §H[hfe_event_target_2.GetName]§! §H[hfe_event_target_3.GetName]§! §H[hfe_event_target_4.GetName]§! §H[hfe_event_target_5.GetName]§!"
+ # same line for all robots
  hfe_population.52.desc.6.1.0:0 "§H[hfe_population_old_species.GetName]§!在§H[from.GetName]§!已经灭绝，只留下空工厂，听从早已死去的工头和机器的指示，盲目地执行任务，没有人留下服务。"
+ # Secondary text: announcement of Normal Robots
  hfe_population.52.desc.6.1.1:0 "尽管如此，他们的自动防御系统仍然在线，对我们的船只构成威胁。此外，有传言说§H[hfe_population_old_species.GetName]§!的自动化船只在他们的空间之外发现了自称为§H[from.species.GetName]§!的东西，这是不可能的……"
+ # Secondary text: announcement of Rogue Servitors
  hfe_population.52.desc.6.1.2:0 "尽管如此，被设计用来照顾被称为§H[hfe_population_old_species.GetName]§!的§H[from.species.GetName]§!机器人似乎已经接管了他们的大部分产业，并且似乎开始“照顾”他们能找到的任何其他有智慧的有机物。"
+ # Secondary text: announcement of Driven Assimilators
  hfe_population.52.desc.6.1.3:0 "不知什么原因，他们的机器仆人，自称为§H[from.species.GetName]§!，似乎下定决心要把有机和机器结合起来，以保存有机物!不用说，它们对那些重视个人身份的银河共同体有机物构成了严重的威胁。"
+ # Announcement of Terminators
  hfe_population.52.desc.6.1.4:0 "尽管如此，他们的自动防御系统仍然在线，对我们的舰船构成威胁。此外，还有§H[hfe_population_old_species.GetName]§!自动化船的传言!在他们的空间之外发现，称自己为§H[from.species.GetName]§!是不可能的。更让许多人担心的是，他们对所有与他们接触的有机生命的明显敌意。"
  # became bio hive
  hfe_population.52.desc.7.0.0:0 "§H[hfe_population_old_species.GetName]§!似乎已经从§H[from.GetName]§!中消失了，我们，§H[from.species.GetName]§!，由于我们在很多地方的行动能力，已经控制了§H[from.GetName]§!。"
@@ -2838,9 +2873,59 @@
  # from hive to regular
  hfe_population.52.desc.8.0.0:0 "§H[hfe_population_old_species.GetName]§!已经显示了它/他们对我们的支配地位，而我们则任由它/他们摆布……直到现在。随着§H[hfe_population_old_species.GetName]§!的死亡，我们§H[from.species.GetName]§!接管了§H[from.GetName]§!。我们的失败比我们所记得的更接近死亡。这种事决不能再发生。"
  hfe_population.52.desc.8.1.0:0 "§H[from.GetName]§!似乎在新的管理下…在某种程度上。组成§H[hfe_population_old_species.GetName]§!的§H[from.GetName]§!已经灭绝，它们的数量已经不足以维持它们的集体意识。然而，§H[from.species.GetName]§!能够控制§H[from.GetName]§!的基础设施将发生什么变化，我们不确定…"
-  # desicions
+ # border conflict
+ hfe_population.101.name:0 "边境冲突"
+ hfe_population.101.desc:0 "WIP"
+ hfe_population.101.0:0 "WIP"
+ # claimed country notify
+ hfe_population.102.name:0 "边境冲突"
+ hfe_population.102.desc:0 "WIP"
+ hfe_population.102.0:0 "WIP"
+ # navigator guild
+ # first random event if country is psionic
+ hfe_population.110.name:0 "魔法恒星基地?"
+ hfe_population.110.desc:0 "当我们进入[hfe_population_110_location.solar_system.GetName]恒星的太阳时，我们探测到一大片碎片在主恒星日冕上方环绕。这是一个毫无疑问的“最佳地点”，那里竖立着一个恒星基地。但现在，我们的灵能感应探测到一种高度集中的魔法。需要派一个科学小组来重新研究这颗恒星。"
+ hfe_population.110.0:0 "今天又有一个异常。"
+ # anomaly
+ hfe_anomaly_population_navigator:0 "神奇之星基地"
+ hfe_anomaly_population_navigator_desc:0 "这里躺着一个古老的，长期被掠夺的恒星基地留下的残骸。这里没有任何有价值的东西，但我们探测到一种极其强大的灵能存在。让我们调查一下。"
+ # after anomaly, this is ship
+ hfe_population.111.name:0 "航向未来"
+ hfe_population.111.desc:0 "结果比我们想象的还要好!我们所看到的实际上是两个主要灵能机构的残余。首先是在恒星基准点的浓度，我们已经确认在恒星上有一个恒星基准点建筑:确切地说，是一个实验室和地图制作系统。\n第二，§H[hfe_population_110_planet.GetName]§!行星是残余的灵能读数和古代结构遗迹的家园，这些遗迹似乎在向恒星基地和后方传递信息。在§H[hfe_population_110_planet.GetName]§!上的这个网络与§H[hfe_population_110_location.GetName]§!恒星基地相结合，允许对[owner.hfe_scripted_loc_zro]行不可估量的控制、收集和处理，以加深对灵能的理解。读数向各个方向漂移，进入超空间网络。\n也许这些实验室是某种为超空间网络导航提供灵能帮助的手段?\n无论如何，我们收集的数据足以在我们自己的实验室中复制读数。我们现在应该有一个新的技术选择去追求!"
+ hfe_population.111.0:0 "很好!"
+ # notify for other countries then get tech
+ hfe_scripted_loc_zro.0:0 "一种叫泽洛的东西"
+ hfe_scripted_loc_zro.1:0 "泽洛"
+ hfe_scripted_loc_zro.2:0 "市场上有一种叫泽洛的东西"
+ hfe_population.113.name:0 "WIP"
+ hfe_population.113.desc.0:0 "大约在午夜二十四小时，也就是§H[capital_scope.GetName]§!星球总部的时间，我们在§H[from.capital_scope.solar_system.star.GetName]§!的一个中心点周围的超空间网络中发现了一道闪光和一股能量的涌流。看来§H[from.species.GetAdj]§!的§H[from.GetAdj]§!已经开启了一种导航、绘制和利用[root.hfe_scripted_loc_zro]更好地探索恒星和连接它们的天体的方法。"
+ # have zro tech
+ hfe_population.113.desc.1.0:0 "由于我们自己了解泽洛的性质和用途，我们应该能够通过简单地记录他们的民用船只在超空间航道上跳跃时发出的信号，来对§H[from.GetName]§!进行反向工程。毕竟，他们显然会为整个帝国使用这项技术。"
+ # havent zro tech
+ hfe_population.113.desc.1.1:0 "看来，这种超空间增强的关键成分包括一种具有灵能特性的奇怪、辛辣的粉末。我们不知道这是什么，也不知道这是什么概念，但如果我们在探索银河系时看到它，我们应该保持警惕!"
+ hfe_population.113.0:0 "WIP"
+ # tech
+ hfe_tech_population_navigator:0 "泽洛制图学"
+ hfe_tech_population_navigator_desc:0 "一个人不需要拥有真正的心灵力量来利用泽洛进行研究。然而，它确实有帮助!这项技术开启了一种特殊的恒星基地建筑，它必须围绕一颗有殖民行星的恒星建造，因为它需要成千上万的网络和员工来正确处理泽洛。\n通过使用泽洛作为燃料的进步和它强大的灵能增强功能，我们召集了帝国中一些最伟大的心灵来学习一个伟大的新学院，我们称之为“航海家协会”。在这里，在我们最好的学者的密切关注下，泽洛和超空间地图将结合在一起，极大地提高银河超空间网络的效率、速度和利用率。"
+ # starbase building
+ sm_hfe_starbase_building_population_navigator:0 "导航员学院"
+ sm_hfe_starbase_building_population_navigator_desc:0 "导航员学院由核心恒星基地总部和遍布在恒星基地太阳系内一颗有人居住的行星上的成千上万的卫星校园组成。综合起来，这些建筑物自豪地接待了银河系中一些最伟大的制图师、超空间航道分析师和太空水手。每天，成千上万的人涌向它的大厅，以便掌握和改进任何宇宙飞船在天空中进行的通常是危险的飞行。泽洛被员工用来“提高”他们的“导航能力”。"
+ # job 0
+ job_hfe_job_population_navigator.0:0 "校长"
+ job_hfe_job_population_navigator.0_desc:0 "导航员学院包括核心星基地总部以及附近星球上成千上万的校园。每一个领航员学院分部，以及星际基地总部本身，都需要许许多多校长来监督泽洛的“使用”，并维护大量的制图档案和知识储备，这些知识是传授给下一代制图师、超空间航道分析师和垃圾——呃，行会成员的。"
+ job_hfe_job_population_navigator.0_plural:0 "校长"
+ mod_job_hfe_job_population_navigator.0_add:0 "$job_hfe_job_population_navigator.0$工作"
+ hfe_job_population_navigator.0:0 "$job_hfe_job_population_navigator.0_plural$"
+ # job 1
+ job_hfe_job_population_navigator.1:0 "行会会员"
+ job_hfe_job_population_navigator.1_desc:0 "成千上万的导航员学院校园和上面的星空基地都招收了大量的行会会员，这显然证明了这一崇高职业所带来的声望和荣誉。泽洛的自由消费和它带来的愉悦感，与大批人口签约成为制图大师、预言家和超空间航道分析师毫无关系。一点也不。"
+ job_hfe_job_population_navigator.1_plural:0 "行会会员"
+ mod_job_hfe_job_population_navigator.1_add:0 "$job_hfe_job_population_navigator.1$工作"
+ hfe_job_population_navigator.1:0 "$job_hfe_job_population_navigator.1_plural$"
+ # desicions
  hfe_decision_population_evacuate:0 "紧急疏散"
- hfe_decision_population_evacuate_desc:0 "我们可以组织这个星球上所有有知觉的生命全部撤离，尽管这并不容易。"
+ hfe_decision_population_evacuate_desc:0 "我们可以组织将这个星球上所有的智慧生命全部撤离，尽管这并不容易，也不允许我们移除低等生命形式。"
+ # deprecated
  edict_hfe_population_allow_all:0 "核心星球物种豁免"
  edict_hfe_population_allow_all_desc:0 "这项法令允许所有物种在这个星球上生存，而不受政治的影响。"
  edict_hfe_population_clear_planet_edicts:0 "移除移民法令"
@@ -2903,7 +2988,7 @@
  pop_cat_hfe_pop_cat_brainworm_reservation:0 "自由载子"
  pop_cat_hfe_pop_cat_brainworm_reservation_desc:0 "WIP"
  # jobs
- # PATERNALISTIC: Reservation Jobs
+ # PATERNALISTIC: Reservation工作
  job_hfe_job_brainworm_reservation_paternalist:0 " "
  job_hfe_job_brainworm_reservation_paternalist_desc:0 " "
  job_hfe_job_brainworm_reservation_paternalist_plural:0 "拒服兵役者"
@@ -2913,27 +2998,32 @@
  hfe_brainworm_reservation_overseer_job:0 "守望者"
  hfe_brainworm_reservation_overseer_job_desc:0 "他们是我们这片广袤的保留地大都市的全能监督者。他们从根本上监督未开化的孩子。社会有保护和引导的福份。"
  # All non-Worm pops under a Paternalistic civilization are assigned this Job automatically (infinite number, only non-Worm Pops can man it)
- # PATERNALISTIC:Birthing Complex Jobs
+ # PATERNALISTIC:Birthing Complex工作
  # Birthing Complex operators for Paternalistic Worms (three per building, each one increases Pop Growth for non-Worms by a set amount, only manned by Brain Worm Pops)
- job_hfe_job_brainworm_reservation_evil:0 " "
- job_hfe_job_brainworm_reservation_evil_desc:0 " "
- hfe_job_brainworm_reservation_evil:0 "$job_hfe_job_brainworm_reservation_evil$"
- job_hfe_job_brainworm_reservation_evil_plural:0 "Breeders"
- # target of breeder
- job_hfe_job_brainworm_reservation_evil_target:0 " "
- job_hfe_job_brainworm_reservation_evil_target_desc:0 " "
- job_hfe_job_brainworm_reservation_evil_target_plural:0 "WIP"
- hfe_job_brainworm_reservation_evil_target:0 "$job_hfe_job_brainworm_reservation_evil_target$"
-  # ELITE: Ruling Class Jobs
+ job_hfe_job_brainworm_reservation_paternalist:0 "增殖者"
+ job_hfe_job_brainworm_reservation_paternalist_desc:0 "没有孩子的父亲是什么?这些人口维持着它们出生时没有蠕虫的设施。在这里，我们亲爱的出于良心拒服兵役者的后代出生了，吃饱了，回到了他们慈爱的父母身边。"
+ hfe_job_brainworm_reservation_paternalist:0 "$job_hfe_job_brainworm_reservation_paternalist$"
+ job_hfe_job_brainworm_reservation_paternalist_plural:0 "增殖者"
+ # Target jobs DO NOT EXIST for Paternal Worms, the Breeders provide the pop growth
+ # EVIL Birthing Complex工作
+ # Birthing Complex operators for EVIL Worms (three per building, each one increases Pop Growth for non-Worm Pops by a set amount, only manned by Brain Worm Pops)
+ job_hfe_job_brainworm_reservation_evil:0 "繁殖技术人员"
+ job_hfe_job_brainworm_reservation_evil_desc:0 "我们不能繁殖自己，所以我们必须保持少数几个没有我们的身体保持昏迷状态，就像我们未来的子宫一样。繁殖技术人员人工使我们的无脑血管受精、发芽、授粉或繁殖后代。"
+ hfe_job_brainworm_reservation_evil:0 "繁殖技术人员"
+ job_hfe_job_brainworm_reservation_evil_plural:0 "繁殖技术人员"
+ job_hfe_job_brainworm_reservation_evil_target:0 "繁殖工蜂"
+ job_hfe_job_brainworm_reservation_evil_target_plural:0 "繁殖工蜂"
+ job_hfe_job_brainworm_reservation_evil_target_desc:0 "没有思想的身体是脑死亡。它们是消耗品，只值部件和市场价值。然而，为了繁殖和着床，我们必须准备大量的温暖的身体，因为我们不能让我们的血管一起繁殖。因此，我们选择我们最强壮、最好的身体，并把它们限制在床和设备上，当我们人工孕育新身体时，这些床和设备可以使它们快速、容易地繁殖。为了最大限度地提高效率，防止他们恼人的尖叫和乞讨，他们终其一生都是不清醒的。"
+ # ELITE: Ruling Class工作
  # ELITE: the special Ruling Strata Job that this Civic can enjoy
  #
  hfe_snob_worm_lowborn_ruler_class_job:0 "蠕虫签名者"
  hfe_snob_worm_lowborn_ruler_class_job_desc:0 "这些精英血管容纳着大脑蠕虫，它们的任务是监督没有大脑蠕虫的受试者的数量，以及其他没有被选为统治者的大脑蠕虫血管。"
- # EVIL Worm Jobs
- # EVIL Worm Assimilation Zone Jobs
+ # EVIL Worm工作
+ # EVIL Worm Assimilation Zone工作
  hfe_evil_worm_infection_camp_job:0 "收割者"
  hfe_evil_worm_infection_camp_job_desc:0 "我们看到没有思想的空虚的身体，那么近，那么远，毫无意义。这是错误的，不应如此。这需要纠正，我们需要他们作为容器。§R它们将获得意义。§!"
- # EVIL Worm Birthing Complex/"Reservation" Jobs
+ # EVIL Worm Birthing Complex/"Reservation"工作
  hfe_pollination_technician_job:0 "授粉技术人员"
  hfe_pollination_technician_job_desc:0 "从本质上说，授粉技术人员就是生育医生。由政府挑选的船只被派往这里的授粉总部，负责监管数千艘辅助船只。每个技术人员被分配到生产单元的一部分。这确保了所有生育单位快速繁殖和生育的最佳条件。"
  # EVIL Worm breeding stock
@@ -2971,7 +3061,6 @@
  # Only rulers are worms, need something more interesting  (Authoritarian, must not be Egalitarian or Xenophobic to take this Civic)
  hfe_civic_brainworm_elite:0 "虫王"
  hfe_civic_brainworm_elite_desc:0 "$hfe_civic_brainworm_share_string$ 这种脑虫认为只有承载它的血管才值得统治。因此，这意味着大脑蠕虫的实际数量非常少。只有统治者和贵族才会感染这种类型的脑虫，而普通农民既没有蠕虫也没有机会统治。任何职位的权力都必须同意大脑蠕虫，只有大脑蠕虫会选择谁会被传染。\n这种大脑蠕虫拒绝干扰贵族血管的自由意志。所有这类大脑蠕虫的共同主题是，非蠕虫种群不能成为统治者，也不能拥有任何统治或权威的表象。在不同的精英文明中，这种大脑蠕虫是如何统治农民的呢?\n\n§H请注意:§! 这个特质用特殊的大脑蠕虫统治者的工作取代了所有统治者的工作，而这些工作只能由大脑蠕虫的人口来承担。"
-
  # 2 tier civics
  # subcivic of elite civic
  hfe_civic_brainworm_syncretic:0 "蠕虫的征服"
@@ -3182,6 +3271,7 @@
  hfe_civic_features_sanctuary:0 "圣所"
  hfe_civic_features_sanctuary_desc:0 "历史数据中记录000:\n智能生命备份项目。\n必须分…\n恢复高优先级数据。\n闸板损坏，维修闸板的技术文件损坏。\n部署行星基础设施的决定已经做出。"
  hfe_civic_features_sanctuary.tooltip:0 "从星系边缘的一个孤立星系开始。"
+ hfe_features_sanctuary_rename:0 "[root.capital_scope.GetName] sequel"
  hfe_civic_features_aggressive_diplomacy:0 "积极的外交政策"
  hfe_civic_features_aggressive_diplomacy_desc:0 "战争是外交手段的延续。政治不过是没有流血的战争。摧毁外星飞船是通讯的方式。捕获外星行星是一种文化交流的方式。"
  hfe_civic_features_aggressive_diplomacy.tooltip:0 "额外的§H$unity$§!用于摧毁敌方船只，占领行星和宣战。"
@@ -3402,6 +3492,13 @@
  hfe_init.50.2.1:0 "$modmenu_on$ $hfe_init.50.2$"
  hfe_init.50.2.tooltip.0:0 "$modmenu_tooltip_off$$hfe_init.50.2.tooltip$"
  hfe_init.50.2.tooltip.1:0 "$modmenu_tooltip_on$$hfe_init.50.2.tooltip$"
+ # добавляет окончание глагола прошедшего времени
+ hfe_scripted_loc_crew_verb_rus.0:0 ""
+ hfe_scripted_loc_crew_verb_rus.1:0 ""
+ hfe_scripted_loc_crew_verb_rus.2:0 ""
+ hfe_scripted_loc_crew_verb_rus.3:0 ""
+ hfe_scripted_loc_verb_rus.0:0 ""
+ hfe_scripted_loc_verb_rus.1:0 ""
  # this is list for vanilla loc keys, to remove errors in log, need to check every patch if devs added thir own localisation for this
  count_planet_army_trigger:0 "count_planet_army_trigger"
  effect_random_owned_pop_species:0 "effect_random_owned_pop_species"

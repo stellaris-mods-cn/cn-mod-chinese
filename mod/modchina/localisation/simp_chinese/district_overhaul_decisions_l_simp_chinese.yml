@@ -16,3 +16,6 @@
   decision_ascend_home_tooltip:0 "一个星球飞升将会在你们的行星上实施预知技术。"
   
   decision_develope_planet_effects:0 "在你的星球上随机添加一个资源。"
+
+  decision_disable_home_planet:0 "禁用家园星球功能"
+  decision_disable_home_planet_desc:0 "这个决定将禁用您的家园星球功能，并给您正常的区划。"

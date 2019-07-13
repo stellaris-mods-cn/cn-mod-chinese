@@ -32,8 +32,8 @@
  CrisisManagerTemplate_T103.title:0 "§G孤独的银河§!"
  CrisisManagerTemplate_T103.tooltip:0 "没人会帮助你对抗天灾."
  
- CrisisManagerTemplate_T104.title:0 """"
- CrisisManagerTemplate_T104.tooltip:0 """"
+ CrisisManagerTemplate_T104.title:1 """"
+ CrisisManagerTemplate_T104.tooltip:1 """"
  
  #------------------------------------------------------------#
  
@@ -46,8 +46,8 @@
  CrisisManagerTemplate_T107.title:0 "§Y多重天赐-困难§!"
  CrisisManagerTemplate_T107.tooltip:0 "所有天灾都会发生，第二/第三天灾可能会同时发生."
  
- CrisisManagerTemplate_T108.title:0 """"
- CrisisManagerTemplate_T108.tooltip:0 """"
+ CrisisManagerTemplate_T108.title:1 """"
+ CrisisManagerTemplate_T108.tooltip:1 """"
  
  #------------------------------------------------------------#
  
@@ -66,12 +66,13 @@
  #------------------------------------------------------------#
  
  CrisisManagerTemplate_T113.title:0 "模板13"
- CrisisManagerTemplate_T113.tooltip:0 """"
+ CrisisManagerTemplate_T113.tooltip:1 """"
  
  CrisisManagerTemplate_T114.title:0 "模板14"
- CrisisManagerTemplate_T114.tooltip:0 """"
+ CrisisManagerTemplate_T114.tooltip:1 """"
  
  CrisisManagerTemplate_T115.title:0 "§W仅供参考(别点）§!"
+ CrisisManagerTemplate_T115.tooltip:0 "N/A"
  
  CrisisManagerTemplate_T116.title:0 "§W测试模式§!$CmtTooltipInfo2$"
  CrisisManagerTemplate_T116.tooltip:0 "测试专用.\n天灾会急速发生."
@@ -88,5 +89,6 @@
  #
  
  
- CrisisManagerTemplate_SleeperInitializing.tooltip:0 """"
+ CrisisManagerTemplate_SleeperInitializing.title:0 "用户模板: 零"
+ CrisisManagerTemplate_SleeperInitializing.tooltip:1 ""
  

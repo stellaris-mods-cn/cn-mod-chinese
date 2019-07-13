@@ -3,70 +3,91 @@
  ###################################################
  # Precursor Modifiers
  ###################################################
- 
- # 1 p
- Precursor_City:0 "先驱者都市"
- Precursor_City_desc:0 "在这个星球上可以找到属于一个未知星际帝国的古城遗迹。而且大多数看起来却完好无损。"
 
- # 2 p
+
+
+
+
  Precursor_Remnants:0 "先驱者残骸"
  Precursor_Remnants_desc:0 "这个星球上保存了大量的基础设施，它们是由一个古老的未知星际帝国建造的。"
- 
- # 3 p
+
  Precursor_Energy_Grid:0 "先驱者能源网"
- Precursor_Energy_Grid_desc:0 "这个古老星球的所有遗迹都是他们城市能源网格的电力基础设施。建筑、道路都已化为废墟和尘埃，但能源网依然熠熠生辉。"
+ Precursor_Energy_Grid_desc:0 "这个古老星球的所有遗迹都是他们城市能源网络的电力基础设施。建筑、道路都已化为废墟和尘埃，但能源网依然熠熠生辉。"
+
+ Precursor_Satalite_Grid:0 "先驱者卫星网络"
+ Precursor_Satalite_Grid_desc:0 "这个星球有大量处于非常有效轨道的先驱者卫星。数百颗小型卫星和阵列环绕着这个星球运行。我们相信它可能曾经与一个通信阵列相连。"
  
- # 4 p
- Precursor_Mines:0 "先驱者矿场"
- Precursor_Mines_desc:0 "这个高矿产星球曾经是一个古代被遗忘的文明的采矿中心。至于为什么它被遗弃对我们来说是一个谜，但至少它留下了丰富且易于开采的矿物。"
+ Precursor_City:0 "先驱者城市"
+ Precursor_City_desc:0 "在这个星球上可以找到属于未知星际帝国的古城遗址。 大多数看起来都完好无损，好像他们的创作者只是消失了......"
  
- # 5 p
  Precursor_Shipyards:0 "先驱者船坞"
  Precursor_Shipyards_desc:0 "环绕这个星球的是几个古老而先进的造船厂。部分看起来受损严重，而另一些似乎还能使用。在这些巨大的空间站深处，有一种强大的引力核心，一种尚未完全被理解的技术，但它似乎是船坞能量的来源，也是它能在轨道上停留这么久的原因。也许有一天，我们可以将它收入囊中。\n\n§S必须建造一个§!§G先驱者船坞上行链接§! §S行星基地建筑§!"
  gpm_Precursor_ShipyardsTT:0 "独特的恒星基地模块: §G先驱者船厂上行链路§!\n   恒星基地造船速度: §G+30%§!\n   恒星基地造船成本: §G-15%§!\n   恒星基地造船产能: §G+6§!"
 
- # 6 p
  Precursor_Planetary_Gun:0 "先驱者防御系统"
  Precursor_Planetary_Gun_desc:0 "巨大的武器安装在这个星球上，它如今依旧能够发射到几百万年前的轨道外。"
  
- # 7 p
- Precursor_Bunker_Grid:0 "先驱者地堡网格"
+ Precursor_Bunker_Grid:0 "先驱者地堡网络"
  Precursor_Bunker_Grid_desc:0 "一个庞大而广阔的地堡系统就是这个古老的先驱文明所遗留下来的一切。\n\n§G允许你建造一个§! §B废弃的先驱者地堡指挥中心§! §G建筑§!"
- gpm_Precursor_Bunker_GridTT:0 "星球上唯一建筑: §G先驱者燃料舱指挥中心§!"
+ gpm_Precursor_Bunker_GridTT:0 "行星独特建筑: §G前体堡垒指挥中心§!"
 
- # 8 p
  Precursor_Mechs:0 "先驱者机甲"
  Precursor_Mechs_desc:0 "被遗弃的巨型机甲军团站在这星球世界的大地上，等待着被激活。\n\n§G允许你建造一个§! §B废弃的先驱者机甲§! §部队§!"
  gpm_Precursor_MechsTT:0 "星球独特的军队: §G先驱者机械§!"
- 
- # 9 p
+
  Precursor_Planetary_Shield:0 "先驱者护盾阵列"
- Precursor_Planetary_Shield_desc:0 "一个巨大的护盾系统安置在这个星球上。重新激活它可能需要消耗大量的能量，但它可以为每个人提供一个安全的避风港。"
+ Precursor_Planetary_Shield_desc:0 "一个巨大的护盾系统安置在这个星球上。重新激活它可能需要消耗大量的能量，但它可以为每个人提供一个安全的避风港。" 
+ gpm_Precursor_Planetary_ShieldTT:0 "行星护盾: §L关闭§!"
+
+ Precursor_Planetary_Shield_on:224 "给行星护盾供电"
+ Precursor_Planetary_Shield_on_desc:224 "见证这个完全可操作的行星护罩的力量！"
+ gpm_Precursor_Planetary_Shield_onTT:0 "行星护盾: §G激活§!"
  
- # 10 p
- Precursor_Floating_City:0 "先驱者浮游都市"
- Precursor_Floating_City_desc:0 "这个星球上存在几个自给自足的漂浮城市。这些城市看上去略有受损，但在其他方面依旧可靠。地表上有一些城市的废墟，我们很好奇它们是否也曾经漂浮过。 "
+ Precursor_Floating_City:0 "先驱者浮动城市"
+ Precursor_Floating_City_desc:0 "几个自给自足的城市漂浮在星球各地。尽管有一些轻微的损坏，但它们似乎功能良好。其他建筑和基础设施的遗迹散落在地表。无论浮动城市是否由先驱者建造还是昔日先驱者只是在上面居住过，我们可能永远也不知道。"
  
- # 11 p
- Precursor_Capital_Complex:0 "先驱者综合行政中心"
- Precursor_Capital_Complex_desc:0 "在这个星球上有一座巨大的废墟城市，城市中央屹立着一座巨大高耸的建筑物。我们相信这个建筑是这个城市的中心，如果这里就是整个星球的城市区域的话，这也许就是首都。"
+ Precursor_Capital_Complex:0 "先驱者首都综合体"
+ Precursor_Capital_Complex_desc:0 "星球各地都有一座先进大都市的废墟。在它的周围，有一个巨大的，曾经精心设计的结构，使我们相信这是一个长期丢失的文化，甚至是一个帝国的首都。"
  
- # 12 p
- Precursor_Communication_Hub:0 "先驱者通讯枢纽"
- Precursor_Communication_Hub_desc:0 "在这个星球的废墟中矗立着一座巨大的尖塔。它的中央仍然向着太空发射着光束。我们相信这是用来连接到卫星网络的。也许是用于通信或监视，我们应该尝试使用它。"
+ Precursor_Communication_Hub:0 "先驱者通信枢纽"
+ Precursor_Communication_Hub_desc:0 "在这个星球的废墟中，只有一个巨大的尖顶。这座塔仍然发出一束从中心向上进入轨道的强光。卫星网络的遗迹让我们相信它们以前是有联系的。大部分功能，我们可以使用它进行通信或监视。"
  
- # 13 p
- Precursor_Satalite_Grid:0 "先驱者卫星网格"
- Precursor_Satalite_Grid_desc:0 "这个星球的行星轨道上布满了大量的先驱者卫星。数以百计的小卫星和阵列环绕着这个星球。"
+ Precursor_Singularity_Drive:0 "奇点驱动器"
+ Precursor_Singularity_Drive_desc:0 "这个星球似乎有类似实验室和实验设施的地下区域，里面一个中央房间，里面有一个巨大的奇点驱动，与能量共振。自动装置散布在房间里，经常互相分离，互相修理，没有明显的特殊符号或者图案。"
  
- # 14 p
- Precursor_Singularity_Drive:0 "奇点驱动"
- Precursor_Singularity_Drive_desc:0 "这个星球似乎有类似科研室和实验设施的地下区域，中心房间通往一个巨大的奇点驱动，它与能量产生了共鸣。房间里的自动机器人似乎不断地彼此隔离，然后重新组合，没有明显的行为模式。"
+ Precursor_Eternal_Fortress:0 "先驱者永恒堡垒"
+ Precursor_Eternal_Fortress_desc:0 "一个古老的帝国在这个星球上最北部的山脉建造了一个巨大的堡垒。这座堡垒由一个跨越20平方英里的网络组成，由掩体、隧道和壕沟组成。整个星系的形状像一个巨大的八角星。奇怪的是，假定的指挥中心是完全空的。"
  
- # 15 p
- Precursor_Eternal_Fortress:0 "先驱者不朽堡垒"
- Precursor_Eternal_Fortress_desc:0 "一个古老帝国在这个星球最北边的山脉上建造了一个巨大的堡垒。这个堡垒是由一个跨越20平方英里的网络建成的，它由掩体、隧道和战壕组成。整个网络的形状就像一个巨大的八角星，尽管中心的房间————假设那是指挥中心，看起来完全是空的。"
+ Precursor_Prison_Planet:0 "先驱者监狱星球"
+ Precursor_Prison_Planet_desc:0 "成千上万像兵营一样的建筑散落在这个星球的表面，而下面是一个广阔的全球监狱系统的遗迹。建造在基岩内部的是牢房和围墙，它们的目的很明确。"
  
- # 16 p
- Precursor_Prison_Planet:0 "先驱者永恒堡垒"
- Precursor_Prison_Planet_desc:0 "去做"
+ Precursor_Mines:0 "先驱者矿业"
+ Precursor_Mines_desc:0 "这个矿产资源丰富的星球曾经是一个被遗忘的古老文明的采矿中心。它为什么被抛弃对我们来说是一个谜，但是数千年来留下的闪闪发光的矿藏为我们的工人提供了一个难以置信的产量。"
+
+ Precursor_Manufactorium:0 "先驱者制造厂"
+ Precursor_Manufactorium_desc:0 "对星球表面的深入扫描揭示了一个埋在地下的隧道和拱顶网络。地面上的接入点最终连着围绕星球核心的巨大工业综合体。古老的先进文明技术曾经让这个复杂的工厂消耗核心的能量，为其庞大的生产线提供能量。"
+ 
+ Precursor_Vaults:0 "先驱者拱顶"
+ Precursor_Vaults_desc:0 "散布在这个星球的山脉上的是一些看起来很小的前哨站。进一步调查发现，大型仓储设施的各种隐藏入口。大多数都是空的，要么是在其古老的过去被掠夺，要么从来没有被填满。然而，有一些藏品，无论是在考古学上还是在技术上，都是不可估量的。"
+ 
+ Precursor_Crashed_Spacestation:0 "碰撞轨道"
+ Precursor_Crashed_Spacestation_desc:0 "一个巨大的陨石坑标志着这颗原本不起眼的行星，里面有一个古老的空间站的残骸。由于大范围的破坏，虽然我们的科学家怀疑它属于一个失时帝国，但从检查残骸中无法收集到太多的信息。"
+ 
+ # Generic Ruins
+ Precursor_Battleground_Ruins:0 "先驱者战场遗址"
+ Precursor_Battleground_Ruins_desc:0 "烧焦的痕迹、半壁江山的建筑物和无数件武器的残骸都是这个星球的遗迹。经过仔细的检查，我们的测量人员已经确定，一场大规模的战争证明了曾经居住在这个地方的任何文明的终结。"
+ 
+ Precursor_Outpost_Ruins:0 "先驱者前哨站遗址"
+ Precursor_Outpost_Ruins_desc:0 "除了一座坐落在森林中心的孤零零的建筑外，这个星球原封不动。这座大楼仍然有电力供应，只有几个房间。奇怪的标记与显示面上的符文符号没有太大的不同。这可能是一种古老语言的符号。或是一个死了很久的疯子的胡言乱语。"
+
+ Precursor_Harbor_Ruins:0 "先驱者港口遗址"
+ Precursor_Harbor_Ruins_desc:0 "在这个星球的许多海岸，都有一个复杂的港口系统。千百年前占领这个星球的人，通过高效的捕鱼和加工设施，利用了这个星球的丰富资源，发挥了最大的潜力。"
+ 
+ Precursor_Ruins:0 "先驱者遗迹"
+ Precursor_Ruins_desc:0 "来自上面的冷热和下面的地狱之沙使这个星球成为一个活地狱。尽管如此，仍有几座废弃而奇特的建筑浮出水面。调查人员报告了这些建筑可能具有的宗教性质，并假定居民可能是生物技术的发源地。"
+ 
+ Precursor_Obelisks:0 "先驱者方尖碑"
+ Precursor_Obelisks_desc:0 "三个方尖碑放置在特定的相应地理位置，是这个星球上所有居住者的遗物。夜幕降临时，方尖塔发出灵能能量，照亮了雕刻在其上的各种标记。我们认为这些方尖碑可能是理解灵能学和星门技术的关键。"
+ 
+
+ 

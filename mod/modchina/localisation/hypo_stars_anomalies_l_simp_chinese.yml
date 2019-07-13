@@ -12,7 +12,7 @@
  hypostars.1.name:0 "反物质恒星"
  hypostars.1.desc:0 "尽管[From.GetName]对任何外部物质的强烈反应，[Root.GetName]仍设法深入调查这颗奇怪的恒星。[Root.GetName] 所进行的研究表明，[From.GetName]是一颗完全由反物质组成的恒星，而反物质则是与构成宇宙其余部分的常规物质相反的电荷。它很可能是在一个反物质星系中形成的，随机的机会被从那里逐出，最终进入我们的星系。[From.GetName]对外界物质的暴力反应来自这样一个事实:如果任何反物质和它的物质相互接近，它们就会湮灭并在相当大的爆炸中产生辐射。[Root.GetName]的机组人员建议进一步调查此事，以确定它是否有实际用途。"
  hypostars.2.name:0 "破碎的星球"
- hypostars.2.desc:0 "通过谨慎的检查，在科学官员[Root.GetName]的指导下，[Root.GetLeaderName]的机组人员确定[From.GetName] 遭受了来自其母星的反物质的猛烈喷射。它很可能被[Fromfrom.GetName]所捕获，在这些轰鸣声之后，这个行星就被分割成碎片，并将在未来继续消融，可能最终成为环绕恒星的小行星带。"
+ hypostars.2.desc:0 "通过谨慎的检查，在科学家[Root.GetName]的指导下，[Root.GetLeaderName]的机组人员确定[From.GetName] 遭受了来自其母星的反物质的猛烈喷射。它很可能被[Fromfrom.GetName]所捕获，在这些轰鸣声之后，这个行星就被分割成碎片，并将在未来继续消融，可能最终成为环绕恒星的小行星带。"
  
  hypostars_antimatter_project:0 "关于反物质星的进一步调查"
  hypostars_antimatter_project_DESC:0 "我们的科学家希望对新发现的反物质星进行更详尽的调查，能够产生一些实际的应用，并为我们宇宙的构成提供一些线索。"

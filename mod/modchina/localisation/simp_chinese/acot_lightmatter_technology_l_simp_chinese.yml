@@ -57,7 +57,7 @@ ACOT_PERDITION_BEAM_OE: "毁灭之光"
 ACOT_PERDITION_BEAM_OE_DESC: "毁灭之光是一种纯粹出于愤怒而制造的武器，它将操作者杀死敌人的意志注入到已经具有破坏性的武器中，使其强度变得更大。撕裂和眼泪。"
 
 ACOT_AUTOCANNON_OE: "星辰脉冲炮"
-ACOT_AUTOCANNON_OE_DESC: "这种近程反盾自动武器采用特殊特殊弹药，装载有凝固的光物质罐，一旦接触就会爆炸，具有极高的精度和动能。"
+ACOT_AUTOCANNON_OE_DESC: "这种近程反盾自动武器采用特殊特殊弹药，装载有凝固的光物质罐，如果接触就会爆炸，具有极高的精度和动能。"
 
 ACOT_MASS_DRIVER_OE: "星辰破碎者"
 ACOT_MASS_DRIVER_OE_DESC: "星辰破碎者进一步增强了光动能炮的力量，通过光物质和操作员的心灵聚焦进一步增强了动能。"
@@ -201,6 +201,9 @@ ACOT_AFTERBURNERS_OE_DESC: "在这种情况下，仅靠推进器还不足以使�
 ACOT_HYPERCHARGED_JUMPER_OE: "Ω增压超空间放大器 "
 ACOT_HYPERCHARGED_JUMPER_OE_DESC: "额外的辅助放大器可以安装在跃迁引擎的模块化涡轮机，以提高其性能。这个模型几乎不需要FTL引擎程序的负担。用于执行触觉间谍行动。"
 
+ACOT_AURA_HYPERJUMPDRIVE_OE: "恒星路标"
+ACOT_AURA_HYPERJUMPDRIVE_OE_DESC: "曾经记得的，可以再回忆起来。"
+
 ACOT_REPAIR_COUNTERMEASURES_OE: "Ω修复无人机"
 ACOT_REPAIR_COUNTERMEASURES_OE_DESC: "最成熟的，最耐用的，ω级的是最好的，无阻碍和无维护。他们的贡献将载入我们帝国的档案。"
 
@@ -238,7 +241,7 @@ tech_lightmatter_aura_energy_drainer: "六翼天使网络抑制器"
 tech_lightmatter_aura_energy_drainer_desc: "这个极其强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。没有人能挑战我们，活着告诉我们这个故事。要么杀，要么被杀，杰克。"
 
 tech_lightmatter_autocannon: "星辰脉冲炮"
-tech_lightmatter_autocannon_desc: "这种近程反盾自动武器采用特殊的通信技术，装载有凝固的光物质罐，一旦接触就会爆炸，具有极高的杀伤力和动能。"
+tech_lightmatter_autocannon_desc: "这种近程反盾自动武器采用特殊的通信技术，装载有凝固的光物质罐，如果接触就会爆炸，具有极高的杀伤力和动能。"
 
 tech_lightmatter_lance: "灼热棱镜光矛"
 tech_lightmatter_lance_desc: "这种武器通过棱镜和光晶体发射连续不断的光能流来摧毁敌人的阵形。"
@@ -361,6 +364,12 @@ ACOT_LANCE_OMEGA_DESC: "§Y在古代，在三头同盟的佃户还没有被记�
 ACOT_PERDITION_BEAM_OMEGA: "§Y毁灭之光§!"
 ACOT_PERDITION_BEAM_OMEGA_DESC: "§Y虽然雅利安的温暖已不复存在，但我们仍然尊重它的重要性。因为是雅利安——第一颗给我们带来希望的星星。\n\n我们怀着更大的目标继续前进。让我们的敌人小心点，因为他们要面对雅利安的儿女!§!"
 
+ACOT_AUTOCANNON_OE_SUPER: "Shea'r的浪潮"
+ACOT_AUTOCANNON_OE_SUPER_DESC: "Shea'r,第一波海啸袭击了首都，导致了连续两年的季风。就像Shea'r一样，我们将用无情的、无休止的攻击来压倒阴影。"
+
+ACOT_FLAK_CANNON_OE_SUPER: "光之界限宙斯盾"
+ACOT_FLAK_CANNON_OE_SUPER_DESC: "每一个讨厌的人必须仔细选择取消。必须确保只有最弱的敌人才会攻击我们的第一道防线。"
+
 ACOT_AURA_SHITTY_SE: "秃顶和F00lish光环"
 ACOT_AURA_SHITTY_SE_DESC: "一个暂时的光环意味着秃顶和f00lish帝国谁试图产生设计的船舶，他们无法建立。文字无法表达这个名为Chirumiru ShiRoz的实体现在有多疯狂，他捣毁键盘，制造出这个愚蠢的、完全多余的光环，因为可怕的人工智能一直在生成错误日志，因为它想设计一艘它甚至不知道如何建造的飞船。\n\n200% MAD。"
 
@@ -372,4 +381,3 @@ BASE_STELLARITE_THRUSTER_DESC: "驱动我们飞船的第一个引擎。"
 
 BASE_STELLARITE_REACTOR: "原型星能量反应堆"
 BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面。"
-ACOT_FLAGSHIP_SUPER_WEAPON_DESC: "由六个巨大的方舟电力塔组成，神圣干涉光束比小型主力舰使用的光束更强、更快。"

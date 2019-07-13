@@ -4,8 +4,8 @@
  # Decisions
  ###################
  decision_eac_apm_on:0 "启用人口自动迁移"
- decision_eac_apm_on_desc:1 "每个月失业人口和在过度拥挤的星球上的人口将会找到一个新家。"
- decision_eac_apm_on_tooltip:0 "允许失业人口与在过度拥挤的星球上的人口重新安置到开放世界。\n根据重新安置成本，每个人口会花费£energy 12.5 - £energy 225不等。"
+ decision_eac_apm_on_desc:1 "每个月失业人口和无住房的人口将会找到一个新家。"
+ decision_eac_apm_on_tooltip:0 "允许失业人口与无住房的人口迁移到开放世界。\n根据迁移成本，每个人口会花费£energy 12.5 - £energy 225不等。"
  
  decision_eac_apm_off:0 "关闭人口自动迁移"
  decision_eac_apm_off_desc:1 "关闭人口自动迁移。"
@@ -68,17 +68,17 @@
  eac_apm_focus_no_migration_modifier:0 "不在此星球上进行人口自动迁移"
  eac_apm_focus_no_migration_modifier_desc:0 "星球已被标记为不允许通过人口自动迁移将人口迁出。"
 
- eac_apm_focus_all_overcrowding_modifier:0 "专注于迁出无家可归者"
- eac_apm_focus_all_overcrowding_modifier_desc:0 "星球已被标记为迁出所有无家可归人口，无论他们就业状况如何。"
+ eac_apm_focus_all_overcrowding_modifier:0 "专注于迁出无住房人口"
+ eac_apm_focus_all_overcrowding_modifier_desc:0 "星球已被标记为迁出所有无住房人口，无论他们就业状况如何。"
 
- eac_apm_focus_assimilating_modifier:0 "同化焦点"
- eac_apm_focus_assimilating_modifier_desc:0 "行星已经被标记允许同化人口迁徙。"
+ eac_apm_focus_assimilating_modifier:0 "专注于迁出正在同化的人口"
+ eac_apm_focus_assimilating_modifier_desc:0 "星球已被标记为允许正在同化的人口迁出。"
 
  ###################
  # Policies
  ###################
  policy_eac_auto_pop_migration_habitability:0 "人口自动迁移 - 宜居性"
- policy_eac_auto_pop_migration_habitability_desc:0 "设置用于人口自动迁移的宜居性检查的政策。"
+ policy_eac_auto_pop_migration_habitability_desc:0 "设置用于人口自动迁移的宜居性限制的政策。"
  eac_apm_habitability_80_name:0 "宜居性至少80%"
  eac_apm_habitability_80:0 "$eac_apm_habitability_80_name$"
  eac_apm_habitability_80_desc:0 "只有目标星球具有至少80%宜居性才允许人口自动迁移。"
@@ -87,37 +87,37 @@
  eac_apm_habitability_60_desc:0 "只有目标星球具有至少60%宜居性才允许人口自动迁移。"
  eac_apm_habitability_all_name:0 "任意宜居性"
  eac_apm_habitability_all:0 "$eac_apm_habitability_all_name$"
- eac_apm_habitability_all_desc:0 "人口自动迁移到任何拥有的星球。"
+ eac_apm_habitability_all_desc:0 "允许人口自动迁移到任何宜居性的星球。"
 
  policy_eac_auto_pop_migration_eligibility:0 "人口自动迁移 - 资格"
  policy_eac_auto_pop_migration_eligibility_desc:0 "设置用于谁有资格进行人口自动迁移的政策。"
- eac_apm_eligibility_overcrowded_unemployed_name:0 "失业且无家可归者"
+ eac_apm_eligibility_overcrowded_unemployed_name:0 "失业且无住房者"
  eac_apm_eligibility_overcrowded_unemployed:0 "$eac_apm_eligibility_overcrowded_unemployed_name$"
- eac_apm_eligibility_overcrowded_unemployed_desc:0 "只有在过度拥挤的星球上的失业人口才允许人口自动迁移。"
+ eac_apm_eligibility_overcrowded_unemployed_desc:0 "只有无住房的失业人口才允许人口自动迁移。"
  eac_apm_eligibility_all_unemployed_name:0 "所有失业者"
  eac_apm_eligibility_all_unemployed:0 "$eac_apm_eligibility_all_unemployed_name$"
  eac_apm_eligibility_all_unemployed_desc:0 "针对所有失业者进行人口自动迁移。"
 
- policy_eac_auto_pop_migration_force_migrate:0 "基于宜居性的强制迁移"
+ policy_eac_auto_pop_migration_force_migrate:0 "强制人口自动迁移 - 宜居性"
  policy_eac_auto_pop_migration_force_migrate_desc:0 "设置基于宜居性的强制迁移政策，就业状况和住房状况将被忽略。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
  eac_apm_force_migrate_none_name:0 "无"
  eac_apm_force_migrate_none:0 "$eac_apm_force_migrate_none_name$"
  eac_apm_force_migrate_none_desc:0 "不进行强制迁移。"
- eac_apm_force_migrate_less_60_name:0 "低于60%宜居性"
+ eac_apm_force_migrate_less_60_name:0 "宜居性低于60%"
  eac_apm_force_migrate_less_60:0 "$eac_apm_force_migrate_less_60_name$"
  eac_apm_force_migrate_less_60_desc:0 "无论就业或住房状况如何，移动低于60%宜居性星球上的人口。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
- eac_apm_force_migrate_less_40_name:0 "低于40%宜居性"
+ eac_apm_force_migrate_less_40_name:0 "宜居性低于40%"
  eac_apm_force_migrate_less_40:0 "$eac_apm_force_migrate_less_40_name$"
  eac_apm_force_migrate_less_40_desc:0 "无论就业或住房状况如何，移动低于40%宜居性星球上的人口。每月最多可以移动3个人口，星球上最后一个人口将不会被移动。\n\n§R增加建筑物损坏的风险!§!"
 
- policy_eac_auto_pop_migration_target:0 "自动人口迁移 - 自由职业"
- policy_eac_auto_pop_migration_target_desc:0 "设定目标星球上要求自由职业的政策。"
- eac_apm_freejobs_require:0 "要求"
- eac_apm_freejobs_require_name:0 "要求"
- eac_apm_freejobs_require_desc:0 "要求目标星球上的自由职业。"
- eac_apm_freejobs_ignore:0 "忽略"
- eac_apm_freejobs_ignore_name:0 "忽略"
- eac_apm_freejobs_ignore_desc:0 "忽略目标星球上的工作。"
+ policy_eac_auto_pop_migration_target:0 "人口自动迁移 - 空闲岗位"
+ policy_eac_auto_pop_migration_target_desc:0 "设置迁移的目标星球是否必须有空闲岗位。"
+ eac_apm_freejobs_require:0 "必须"
+ eac_apm_freejobs_require_name:0 "必须"
+ eac_apm_freejobs_require_desc:0 "迁移的目标星球必须有空闲岗位，不会迁移到没有空闲岗位的星球。"
+ eac_apm_freejobs_ignore:0 "不必"
+ eac_apm_freejobs_ignore_name:0 "不必"
+ eac_apm_freejobs_ignore_desc:0 "忽略目标星球的岗位状况，可以迁移到没有空闲岗位的星球。"
 
  ###################
  # Events
@@ -139,15 +139,15 @@
  eac_apm_decisions.1.toilers.tooltip:0 "将这个$slave_colony$星球作为$job_slave_toiler_plural$的迁出地。"
  eac_apm_decisions.1.no_migration:0 "设置禁止迁出"
  eac_apm_decisions.1.no_migration.tooltip:0 "将此星球作为人口自动迁移的一个禁止迁出地点，人口不会被自动迁移出这个星球。"
- eac_apm_decisions.1.all_overcrowding:0 "设置专注于迁出无家可归者"
- eac_apm_decisions.1.all_overcrowding.tooltip:0 "将此星球上的所有无家可归人口迁出，无论他们就业状况如何。"
- eac_apm_decisions.1.all_assimilating:0 "同化焦点"
- eac_apm_decisions.1.all_assimilating.tooltip:0 "标志着这个星球允许同化人口迁移。"
-  eac_apm_missing_required_cost:0 "缺少必需的成本来启用这个专注目标"
+ eac_apm_decisions.1.all_overcrowding:0 "设置专注于无住房者"
+ eac_apm_decisions.1.all_overcrowding.tooltip:0 "将此星球上的所有无住房人口迁出，无论他们就业状况如何。"
+ eac_apm_decisions.1.all_assimilating:0 "设置专注于正在同化者"
+ eac_apm_decisions.1.all_assimilating.tooltip:0 "将此星球标记为允许正在同化的人口迁出。"
+ eac_apm_missing_required_cost:0 "缺少必需的成本来启用这个专注目标"
  eac_apm_has_focus_set:0 "不能设置多个专注目标。"
  
  eac_apm.999.title:0 "$edict_eac_show_job_and_housing_info_edict$"
- eac_apm_free_jobs:0 "§W帝国空闲职位: §Y[This.country_free_jobs]§!\n"
+ eac_apm_free_jobs:0 "§W帝国空闲岗位: §Y[This.country_free_jobs]§!\n"
  eac_apm_free_housing:0 "§W帝国空闲住房: §Y[This.country_free_housing]§!\n"
  eac_apm_unemployed_pops:0 "§W帝国失业人口: §Y[This.country_unemployed_pops]§!\n"
  eac_apm.999.desc:0 " $eac_apm_free_jobs$ $eac_apm_free_housing$ $eac_apm_unemployed_pops$"
@@ -159,4 +159,4 @@
  edict_eac_job_retraining_campaign_desc:0 "大大减少新失业人口降级到不同职业的时间。仅适用于开始运动后新失业的人口。"
 
  edict_eac_show_job_and_housing_info_edict:0 "人口自动迁移统计"
- edict_eac_show_job_and_housing_info_edict_desc:0 "显示本国空闲工作、空闲住房以及失业人口的总数。"
+ edict_eac_show_job_and_housing_info_edict_desc:0 "显示本国空闲岗位、空闲住房以及失业人口的总数。"

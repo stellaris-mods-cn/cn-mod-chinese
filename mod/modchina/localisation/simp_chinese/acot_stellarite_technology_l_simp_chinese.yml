@@ -236,6 +236,7 @@ PAC_COMBAT_COMPUTER_OFFENSE_SE_DESC: "专为航母优化的独特战斗分析仪
 HERCULEAN_COMBAT_COMPUTER_SE: "巨神作战分析仪"
 HERCULEAN_COMBAT_COMPUTER_SE_DESC: "明星战斗分析仪是一种非常先进的战斗计算机，它可以实时分析战场情况，预测最佳的行动过程，然后自动指导舰艇的整个系统作出相应的反应，所需的手动输入最少。 这个版本是为防守战术而优化的。"
 
+
 #####################################################################################
 
 ACOT_AFTERBURNERS_SE: "σ辅助推进器"
@@ -243,6 +244,9 @@ ACOT_AFTERBURNERS_SE_DESC: "在这种情况下，仅靠推进器还不足以使�
 
 ACOT_HYPERCHARGED_JUMPER_SE: "恒星增压超空间放大器 "
 ACOT_HYPERCHARGED_JUMPER_SE_DESC: "额外的辅助放大器可以安装在跃迁引擎的模块化涡轮机，以提高其性能。该模型对FTL驱动程序的要求更低。"
+
+ACOT_AURA_HYPERJUMPDRIVE_SE: "恒星跃迁稳压器"
+ACOT_AURA_HYPERJUMPDRIVE_SE_DESC: "这个改进的恒星跃迁模块可以安装在主力舰上，进一步增加舰队的跃迁范围。"
 
 ACOT_REPAIR_COUNTERMEASURES_SE: "σ反应对策无人机"
 ACOT_REPAIR_COUNTERMEASURES_SE_DESC: "σ无人机比上一代无人机更先进、更耐用，提供更好的保护、威慑和维护。"
@@ -265,14 +269,15 @@ ACOT_AURA_TECH_INHIBITOR_SE_DESC: "这个非常强大的装置与敌人的系统
 ACOT_AURA_SUPERAURA_SE: "星能量锻造网络"
 ACOT_AURA_SUPERAURA_SE_DESC: "一种由旗舰编配的特殊网络，在舰队内所有船只的计算机之间建立强大的人工连接，将它们协调成一条牢不可破的链条。"
 
-aura_origin: "$aura_category_defensive$"
-friendly_tech_inhibitor_aura: "$aura_category_offensive$"
-hostile_tech_inhibitor_aura: "$aura_category_defensive$"
+
+aura_origin: "集中网络"
+friendly_tech_inhibitor_aura: "恶意网络抑制器"
+hostile_tech_inhibitor_aura: "友好网络放大器"
 
 #### SHIP Tech ####
 
 damage_vs_country_type_ascended_empire_mult: "对巅峰上国的伤害"
-damage_vs_country_type_lost_empire_mult: "对$OUTLINER_FALLEN_EMPIRES$的伤害"
+damage_vs_country_type_lost_empire_mult: "对失落帝国的伤害"
 damage_vs_country_type_original_empire_mult: "对始源帝国的伤害"
 
 shipsize_colossus_hull_add: "巨像船体值增加"

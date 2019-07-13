@@ -4,7 +4,7 @@ COMBAT_COMPUTER_TRANSPORT:0 "先进的运输船计算机"
 TRANSPORT_BEHAVIOR_DESC:0 "运输船只将会忽略交火,并且可以被命令离开或降落在行星上以回避敌人.但需要进行微观操作,如果没有命令,船只将不会留在战斗中"
  
 SIMPLE_COMBAT_COMPUTER_TRANSPORT:0 "基本运输船舶计算机"
-SIMPLE_TRANSPORT_BEHAVIOR_DESC:0 "运输船只能留在后方,在恐慌中盘旋,等待救援.一旦他们进入战场,将无法控制.除非能开启紧急撤离,否则将被摧毁"
+SIMPLE_TRANSPORT_BEHAVIOR_DESC:0 "运输船只能留在后方,在恐慌中盘旋,等待救援.如果他们进入战场,将无法控制.除非能开启紧急撤离,否则将被摧毁"
  
 MEDIUM_TRANSPORT_SECTION:0 "加强的运输船体"
 HEAVY_TRANSPORT_SECTION:0 "先进的运输船体"

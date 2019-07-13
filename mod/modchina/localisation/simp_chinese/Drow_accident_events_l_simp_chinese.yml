@@ -1,0 +1,44 @@
+﻿l_simp_chinese:
+  # Ruler
+  elven_accident_events.211.name:0 "§R事故§!"
+  elven_accident_events.211.desc:0 "§R[assassinated_leader.GetName]§!被[assassinated_leader.GetHerHis]的大女儿谋杀了。[assassinated_leader.GetSheHe]会接替她的位置吗?女神和议会将作出决定。"
+
+  # Governor
+  elven_accident_events.221.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.221.desc:0 "§R[assassinated_leader.GetName]§!血肉模糊的尸体被发现躺在[assassinated_leader.GetHerHis]大厦的血泊中。谋杀的潜在动机尚不清楚。据悉，[assassinated_leader.GetName]曾与[assassinated_leader.GetHerHis]的孩子发生过争执。或许是因为[assassinated_leader.GetSheHe]上个月签署的那项毫无用处的法令——委员会成员们怒不可遏。"
+
+  elven_accident_events.222.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.222.desc:0 "紧急消息!§R[assassin_leader.GetName]§!在企图暗杀[assassinated_leader.GetName]时被当场抓获。经过短暂的审判后，[assassin_leader.GetName]因[assassinated_leader.GetHerHis]犯罪而被处死。"
+
+  elven_accident_events.223.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.223.desc:0 "紧急消息!§R[assassin_leader.GetName]§!在企图暗杀§R[assassinated_leader.GetName]§!时被当场抓获。经过短暂的审判后，[assassin_leader.GetName]因[assassinated_leader.GetHerHis]犯罪而被处死。不幸的是，[assassinated_leader.GetName]在事件发生几小时后死于[assassinated_leader.GetHerHis]造成的伤口。"
+
+  # Scientist
+
+  elven_accident_events.231.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.231.desc:0 "§R[assassinated_leader.GetName]§!太傻了，不能继续掌权。只有傻瓜才会分享发现!让这成为[assassinated_leader.GetHerHim]的一个教训。"
+
+  # Generic
+
+  elven_accident_events.241.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.241.desc:0 "不幸的是，对于[assassinated_leader.GetHerHim], §R[assassinated_leader.GetName]§!偶然发现了一个愤怒的女祭司。但是[assassinated_leader.GetSheHe]并没有白白死去 - [assassinated_leader.GetHerHis]的死亡幸运地平息了女祭司的愤怒，没有更多的死亡报告。"
+
+  elven_accident_events.242.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.242.desc:0 "§R[assassinated_leader.GetName]§!正漫不经心地走在狭窄的街道上，[assassinated_leader.GetSheHe]突然发现有一把匕首从[assassinated_leader.GetHerHis]的胸膛里伸出来!这是一个值得我们所有人学习的时刻。永远不要放松警惕!"
+
+  elven_accident_events.243.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.243.desc:0 "在女祭司的心血来意下，§R[assassinated_leader.GetName]§!被蜘蛛活活吃掉了!从积极的方面来看，女神最喜欢的节肢动物在一段时间内会吃得很好。"
+
+  elven_accident_events.244.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.244.desc:0 "§R[assassinated_leader.GetName]§!突然消失了!没有发现[assassinated_leader.GetHerHis]尸体的迹象，也没有发现任何复仇的信息。这表明[assassinated_leader.GetSheHe]已经死了或者像懦夫一样消失了。在这两种情况下，[assassinated_leader.GetSheHe]都不再相关，不需要进一步调查。"
+
+  elven_accident_events.245.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.245.desc:0 "§R[assassinated_leader.GetName]§!突然消失了!没有发现[assassinated_leader.GetHerHis]尸体的迹象。似乎有谣言说[assassinated_leader.GetName]掉进了一个酸性的湖里。奇怪的是，附近没有已知的酸湖。"
+
+  elven_accident_events.246.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.246.desc:0 "女神要求有价值的牺牲，我们的[Root.GetRulerTitle]愿意为她做任何事情。谁能比§R[assassinated_leader.GetName]§!?更有价值?此外，是时候用一个更…忠诚而有用的人。赞美女神!"
+
+  # Admiral
+
+  elven_accident_events.251.name:0 "elven_accident_events.211.name$"
+  elven_accident_events.251.desc:0 "殿下，我急于通知您，您的海军上将§R[assassinated_leader.GetName]§!在一次计划好的演习中不幸遇难。[assassinated_leader.GetHerHisCap]在一次事故中摔坏了脖子。更重要的是，这艘船完好无损。"

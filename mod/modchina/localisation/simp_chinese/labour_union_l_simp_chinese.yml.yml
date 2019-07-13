@@ -1,0 +1,57 @@
+﻿l_simp_chinese:
+
+ civic_labour_union:0 "工会"
+ civic_labour_union_desc:0 "这个大公司的工人被组织成一个工会，倡导稳定的就业和更高的生活水平。"
+ civic_tooltip_labour_union_effects:1 "游戏开始时与§Y工党阵营§!竞争\n£pop£ §YEgalitarian Pops§!给予所有行星和分支机构额外的£trade_value£ §Y$TRADE_VALUE$§!\n可以建造£building£ §Y$building_union_outreach_office$§! $BRANCH_OFFICE_BUILDING$\n$mod_pop_ethic_egalitarian_attraction_mult$: §G+50%§!"
+ gov_revolutionary_worker_council:0 "革命工人委员会"
+ gov_revolutionary_worker_council_desc:0 "这个政府是由一个劳工运动的代表领导的，该运动以暴力夺取了一个大型企业的领导权。"
+ RT_COMMISSAR: "政委"
+ gov_corporatist_executive_committee:0 "社团执行委员会"
+ gov_corporatist_executive_committee_desc:0 "这个大公司的执行委员会由公司职员和工会代表组成。"
+ RT_CHIEF_EXECUTIVE_OFFICER: "首席执行官"
+ 
+ START_SCREEN_PART_TWO_REVOLUTIONARY_WORKER_COUNCIL:0 "随着时间的推移，财富集中在越来越少的人手中，直到整个星球被一家公司的盈利动机所驱动。正是我们的祖先发起了工会，挑战旧主人的权力，但直到最近，我们才赢得了推翻他们、成为我们自己老板的漫长而艰苦的斗争。"
+ START_SCREEN_PART_TWO_CORPORATIST_EXECUTIVE_COMMITTEE:0 "在早期，我们的人民被原始的封建王国和低效的民族国家统治。渐渐地，随着全球贸易的增长，私营企业的影响力稳步增长，直到它们的影响力远远超过了曾经试图监管它们的政府。在破坏性的企业战争期间，在与劳工运动发生了一系列合并和暴力对抗之后，一个由企业所有者和工会代表组成的联合委员会成为了我们祖国的统治机构。"
+ 
+ opinion_ir_vs_capitalists: "资本主义的猪"
+ opinion_ir_vs_ir: "革命战友"
+ 
+ # LABOUR
+ pft_labour:0 "工党阵营"
+ pft_labour_desc:1 "劳工派系渴望经济公正。他们喜欢普遍就业和更高的生活水平，但不喜欢劳动力市场的竞争。\n\n§L平等主义精神§!"
+ 
+ LABOUR_UTOPIAN_LIVING_STANDARDS:0 "乌托邦式的富足"
+ LABOUR_UTOPIAN_LIVING_STANDARDS_DESC:1 "为公民提供一种§Y乌托邦式的富足§!将大大取悦[Root.GetName]." 
+ LABOUR_NO_UTOPIAN_LIVING_STANDARDS:0 "$LABOUR_UTOPIAN_LIVING_STANDARDS$"
+ LABOUR_GOOD_LIVING_STANDARDS:0 "社会福利"
+ LABOUR_GOOD_LIVING_STANDARDS_DESC:1 "为公民提供§Y社会福利§!将使[Root.GetName]感到高兴。"
+ LABOUR_NO_GOOD_LIVING_STANDARDS:0 "$LABOUR_GOOD_LIVING_STANDARDS$"
+ LABOUR_NO_STRATIFIED_LIVING_STANDARDS:0 "体面的条件"
+ LABOUR_NO_STRATIFIED_LIVING_STANDARDS_DESC:1 "强迫公民生活在一个分层的经济体系中会让[Root.GetName]不高兴。"
+ LABOUR_STRATIFIED_LIVING_STANDARDS:0 "反阶级"
+ LABOUR_NO_SUBSISTENCE_LIVING_STANDARDS:0 "最低工资"
+ LABOUR_NO_SUBSISTENCE_LIVING_STANDARDS_DESC:1 "强迫公民仅§Y维持基本生活§将使[Root.GetName]大为不满。"
+ LABOUR_SUBSISTENCE_LIVING_STANDARDS:0 "反贫困"
+ LABOUR_FULL_EMPLOYMENT:0 "充分就业"
+ LABOUR_FULL_EMPLOYMENT_DESC:0 "确保全国范围内至少§Y90%§!的人口得到利用，将使[Root.GetName]感到高兴。"
+ LABOUR_UNEMPLOYMENT:0 "失业"
+ LABOUR_NO_SLAVERY:0 "解放劳动力"
+ LABOUR_NO_SLAVERY_DESC:1 "屈尊做§Y奴隶§!来破坏自由工人将极大地惹恼 [Root.GetName]。"
+ LABOUR_SLAVERY:0 "废除"
+ LABOUR_NO_ROBOTS:0 "劳动保护"
+ LABOUR_NO_ROBOTS_DESC:1 "允许机器与当地劳动力竞争将使[Root.GetName]感到不快。"
+ LABOUR_ROBOTS:0 "反自动化"
+ 
+ # UNION OUTREACH
+ 
+ building_union_outreach_office:0 "工会外展办事处"
+ building_union_outreach_office_desc:0 "一个星际联盟在这个办公室里工作，帮助组织当地工人。它是社区中心的两倍。"
+ 
+ job_labour_organizer:0 "劳工组织者"
+ job_labour_organizer_plural:0 "劳工组织者"
+ job_labour_organizer_desc:0 "劳工组织试图招募当地工人加入星际联盟，并游说提高生活水平。"
+ job_labour_organizer_effect_desc:0 "£job_labour_organizer£ $job_labour_organizer_plural$生产£unity£ §Y$unity$§!, £mod_trade_value_add£ §Y$TRADE_VALUE$§!和£mod_planet_amenities_add£ §Y$PLANET_AMENITIES_TITLE$§!"
+ mod_job_labour_organizer_add:0 "$job_labour_organizer$岗位"
+ mod_job_labour_organizer_per_pop:0 "每$VALUE$人口§G+1§! $job_labour_organizer$"
+ mod_job_labour_organizer_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_labour_organizer_add£"
+ 

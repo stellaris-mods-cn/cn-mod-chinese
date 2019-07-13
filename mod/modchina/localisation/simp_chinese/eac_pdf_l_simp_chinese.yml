@@ -4,458 +4,259 @@
  # Decisions
  ###################
  decision_eac_pdf_interface:0 "行星防御部队(PDF)"
-## decision_eac_pdf_interface -> Planetary Defense Force ##
  decision_eac_pdf_interface_desc:1 "打开行星防御部队的主菜单"
-## decision_eac_pdf_interface_desc -> Open the main screen for the Planetary Defense Force ##
  decision_eac_pdf_interface.tooltip:0 "$decision_eac_pdf_interface_desc$"
-## decision_eac_pdf_interface.tooltip -> $decision_eac_pdf_interface_desc$ ##
 
  ###################
  # Edicts
  ###################
  edict_eac_pdf_set_all_bases_system_stance:0 "将全部PDF基地设置为§H攻击星系内敌人§!姿态"
-## edict_eac_pdf_set_all_bases_system_stance -> All PDF Bases to §HSystem Hostiles§! Stance ##
  edict_eac_pdf_set_all_bases_system_stance_desc:0 "所有PDF基地都将设置为攻击全星系的敌对实体。"
-## edict_eac_pdf_set_all_bases_system_stance_desc -> All PDF bases will be set to handle system-wide hostilities. ##
  eac_pdf_set_all_bases_system_stance_allow:0 "£trigger_no 至少有一个基地处于§H仅攻击星球轨道§!的姿态"
-## eac_pdf_set_all_bases_system_stance_allow -> £trigger_no Has at least one base with stance §HPlanet Under Attack§! ##
 
  edict_eac_pdf_set_all_bases_planet_stance:0 "将全部PDF基地设置为§H仅攻击星球轨道§!姿态"
-## edict_eac_pdf_set_all_bases_planet_stance -> All PDF Bases to §HPlanet Under Attack§! Stance ##
  edict_eac_pdf_set_all_bases_planet_stance_desc:0 "所有PDF基地都将设置为仅攻击行星轨道内的敌对实体。"
-## edict_eac_pdf_set_all_bases_planet_stance_desc -> All PDF bases will be set to handle only planetary orbit hostilities. ##
  eac_pdf_set_all_bases_planet_stance_allow:0 "£trigger_no 至少有一个基地处于§H攻击星系内敌人§!的姿态"
-## eac_pdf_set_all_bases_planet_stance_allow -> £trigger_no Has at least one base with stance §HSystem Hostiles§! ##
  ###################
  # Buildings
  ###################
  eac_pdf_base:0 "行星防御部队基地"
-## eac_pdf_base -> Planetary Defense Force Base ##
  eac_pdf_base_desc:0 "行星防御部队的基地。使用行星决策'§B$decision_eac_pdf_interface$§!'来与基地交流。"
-## eac_pdf_base_desc -> Home for the Planetary Defense Force. Use the planetary decision '§B$decision_eac_pdf_interface$§!' to interact with the base. ##
 
  planet_shipbuilders:0 "造船师"
-## planet_shipbuilders -> Shipbuilding Jobs ##
 
  ###################
  # Jobs
  ###################
  job_eac_pdf_shipbuilder:0 "行星防御造船师"
-## job_eac_pdf_shipbuilder -> Planetary Defense Shipwright ##
  job_eac_pdf_shipbuilder_plural:0 "行星防御造船师"
-## job_eac_pdf_shipbuilder_plural -> Planetary Defense Shipwrights ##
  job_eac_pdf_shipbuilder_desc:0 "负责建造和维护行星防御舰队。\n存储合金用于船舶建造和保养。"
-## job_eac_pdf_shipbuilder_desc -> Responsible for building and maintaining the Planetary Defense Fleet.\nAlloy upkeep is stored for ship construction. ##
  job_eac_pdf_shipbuilder_effect_desc:0 "£job_eac_pdf_shipbuilder£ $job_eac_pdf_shipbuilder_plural$储存£alloys §Y2§!用于巡逻舰的建造，使用£energy §Y1§!用于建造和维护，并生产£engineering£ §Y$engineering_research$§!和£unity£ §Y$unity$§!"
-## job_eac_pdf_shipbuilder_effect_desc -> £job_eac_pdf_shipbuilder£ $job_eac_pdf_shipbuilder_plural$ store £alloys §Y2§! for patrol craft construction, use £energy §Y1§! for construction and maintenance, and produce £engineering£ §Y$engineering_research$§! and £unity£ §Y$unity$§! ##
  mod_job_eac_pdf_shipbuilder_add:0 "$job_eac_pdf_shipbuilder$工作"
-## mod_job_eac_pdf_shipbuilder_add -> $job_eac_pdf_shipbuilder$ Jobs ##
  mod_job_eac_pdf_shipbuilder_per_pop:0 "§G+1§! $job_eac_pdf_shipbuilder$工作每$VALUE$人口"
-## mod_job_eac_pdf_shipbuilder_per_pop -> §G+1§! $job_eac_pdf_shipbuilder$ Job per $VALUE$ Pops ##
  mod_job_eac_pdf_shipbuilder_per_pop_short:0 "\n§G+1§! £mod_job_eac_pdf_shipbuilder_add£每$VALUE$ £pop£"
-## mod_job_eac_pdf_shipbuilder_per_pop_short -> \n§G+1§! £mod_job_eac_pdf_shipbuilder_add£ per $VALUE$ £pop£ ##
 
  job_eac_pdf_drone_shipbuilder:0 "行星防御造船无人机"
-## job_eac_pdf_drone_shipbuilder -> Planetary Defense Shipwbuilding Drone ##
  job_eac_pdf_drone_shipbuilder_plural:0 "行星防御造船无人机"
-## job_eac_pdf_drone_shipbuilder_plural -> Planetary Defense Shipwbuilding Drones ##
  job_eac_pdf_drone_shipbuilder_desc:0 "负责建造和维护行星防御舰队"
-## job_eac_pdf_drone_shipbuilder_desc -> Responsible for building and maintaining the Planetary Defense Fleet ##
  job_eac_pdf_drone_shipbuilder_effect_desc:0 "£job_eac_pdf_drone_shipbuilder£ $job_eac_pdf_drone_shipbuilder_plural$储存 £alloys §Y2§!用于巡逻舰的建造，使用£energy §Y1§!用于建造和维护，并生产£engineering£ §Y$engineering_research$§!和£unity£ §Y$unity$§!"
-## job_eac_pdf_drone_shipbuilder_effect_desc -> £job_eac_pdf_drone_shipbuilder£ $job_eac_pdf_drone_shipbuilder_plural$ store £alloys §Y2§! for patrol craft construction, use £energy §Y1§! for construction and maintenance, and produce £engineering£ §Y$engineering_research$§! and £unity£ §Y$unity$§! ##
  mod_job_eac_pdf_drone_shipbuilder_add:0 "$job_eac_pdf_drone_shipbuilder$ 工作"
-## mod_job_eac_pdf_drone_shipbuilder_add -> $job_eac_pdf_drone_shipbuilder$ Jobs ##
  mod_job_eac_pdf_drone_shipbuilder_per_pop:0 "§G+1§! $job_eac_pdf_drone_shipbuilder$工作每$VALUE$人口"
-## mod_job_eac_pdf_drone_shipbuilder_per_pop -> §G+1§! $job_eac_pdf_drone_shipbuilder$ Job per $VALUE$ Pops ##
  mod_job_eac_pdf_drone_shipbuilder_per_pop_short:0 "\n§G+1§! £mod_job_eac_pdf_drone_shipbuilder_add£每$VALUE$ £pop£"
-## mod_job_eac_pdf_drone_shipbuilder_per_pop_short -> \n§G+1§! £mod_job_eac_pdf_drone_shipbuilder_add£ per $VALUE$ £pop£ ##
 
  ###################
  # Messages
  ###################
  EAC_MESSAGE_PLANETARY_FLEET_DETECTED:0 "行星防御舰队启动"
-## EAC_MESSAGE_PLANETARY_FLEET_DETECTED -> Planetary Defense Force Fleet Launching ##
  EAC_MESSAGE_PLANETARY_FLEET_DETECTED_DESC:0 "$FLEET|H$探测到了在$PLANET|H$即将起飞的行星防御舰队。\n§Y所有的人到战位！§!\n"
-## EAC_MESSAGE_PLANETARY_FLEET_DETECTED_DESC -> The $FLEET|H$ has detected the imminent launch of a Planetary Defense Force fleet on $PLANET|H$.\n§YAll hands to battle stations!§!\n ##
 
  EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING:0 "检测到敌对实体 - 启动行星舰队"
-## EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING -> Hostiles Detected - Launching Planetary Fleet ##
  EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING_SYSTEM_FLEET_DESC:0 "我们探测到了敌对舰队 $FLEET|H$ 进入了我们的星系。正在准备从$PLANET|H$启动行星防御舰队。\n§Y所有飞行员和发射人员都要进入岗位！这不是演习！重复！这不是演习！§!\n"
-## EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING_SYSTEM_FLEET_DESC -> We have detected the hostile fleet $FLEET|H$ entering our system. Preparing to launch the Planetary Defense Force fleet from $PLANET|H$.\n§YAll pilots and launch personnel report for duty! This is not a drill! Repeat! This is not a drill!§!\n ##
  EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING_SYSTEM_COLOSSUS_DESC:0 "我们探测到了敌对巨像 $FLEET|H$ 进入了我们的星系。正在准备从$PLANET|H$启动行星防御舰队。§Y所有飞行员和发射人员都要进入岗位！这不是演习！重复！这不是演习！§!\n"
-## EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING_SYSTEM_COLOSSUS_DESC -> We have detected the hostile colossus $FLEET|H$ entering our system. Preparing to launch the Planetary Defense Force fleet from $PLANET|H$. §YAll pilots and launch personnel report for duty! This is not a drill! Repeat! This is not a drill!§!\n ##
  EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING_ORBIT_FLEET_DESC:0 "我们探测到了敌对舰队 $FLEET|H$ 进入了行星 $PLANET|H$ 的轨道。 正在准备从$PLANET|H$启动行星防御舰队。§Y所有飞行员和发射人员都要进入岗位！这不是演习！重复！这不是演习！§!\n"
-## EAC_MESSAGE_PLANETARY_FLEET_LAUNCHING_ORBIT_FLEET_DESC -> We have detected the hostile fleet $FLEET|H$ entering the orbit of $PLANET|H$. Preparing to launch the Planetary Defense Force fleet from $PLANET|H$. §YAll pilots and launch personnel report for duty! This is not a drill! Repeat! This is not a drill!§!\n ##
 
  ###################
  # Ship Components
  ###################
  EAC_PDF_PATROL_CRAFT_FISSION_REACTOR:0 "$FISSION_REACTOR$"
-## EAC_PDF_PATROL_CRAFT_FISSION_REACTOR -> $FISSION_REACTOR$ ##
  EAC_PDF_PATROL_CRAFT_FISSION_REACTOR_DESC:0 "$FISSION_REACTOR_DESC$"
-## EAC_PDF_PATROL_CRAFT_FISSION_REACTOR_DESC -> $FISSION_REACTOR_DESC$ ##
  EAC_PDF_PATROL_CRAFT_FUSION_REACTOR:0 "$FUSION_REACTOR$"
-## EAC_PDF_PATROL_CRAFT_FUSION_REACTOR -> $FUSION_REACTOR$ ##
  EAC_PDF_PATROL_CRAFT_FUSION_REACTOR_DESC:0 "$FUSION_REACTOR_DESC$"
-## EAC_PDF_PATROL_CRAFT_FUSION_REACTOR_DESC -> $FUSION_REACTOR_DESC$ ##
  EAC_PDF_PATROL_CRAFT_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
-## EAC_PDF_PATROL_CRAFT_COLD_FUSION_REACTOR -> $COLD_FUSION_REACTOR$ ##
  EAC_PDF_PATROL_CRAFT_COLD_FUSION_REACTOR_DESC:0 "$COLD_FUSION_REACTOR_DESC$"
-## EAC_PDF_PATROL_CRAFT_COLD_FUSION_REACTOR_DESC -> $COLD_FUSION_REACTOR_DESC$ ##
  EAC_PDF_PATROL_CRAFT_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
-## EAC_PDF_PATROL_CRAFT_ANTIMATTER_REACTOR -> $ANTIMATTER_REACTOR$ ##
  EAC_PDF_PATROL_CRAFT_ANTIMATTER_REACTOR_DESC:0 "$ANTIMATTER_REACTOR_DESC$"
-## EAC_PDF_PATROL_CRAFT_ANTIMATTER_REACTOR_DESC -> $ANTIMATTER_REACTOR_DESC$ ##
  EAC_PDF_PATROL_CRAFT_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
-## EAC_PDF_PATROL_CRAFT_ZERO_POINT_REACTOR -> $ZERO_POINT_REACTOR$ ##
  EAC_PDF_PATROL_CRAFT_ZERO_POINT_REACTOR_DESC:0 "$ZERO_POINT_REACTOR_DESC$E"
-## EAC_PDF_PATROL_CRAFT_ZERO_POINT_REACTOR_DESC -> $ZERO_POINT_REACTOR_DESC$E ##
  EAC_PDF_PATROL_CRAFT_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
-## EAC_PDF_PATROL_CRAFT_DARK_MATTER_REACTOR -> $DARK_MATTER_REACTOR$ ##
  EAC_PDF_PATROL_CRAFT_DARK_MATTER_REACTOR_DESC:0 "$DARK_MATTER_REACTOR_DESC$"
-## EAC_PDF_PATROL_CRAFT_DARK_MATTER_REACTOR_DESC -> $DARK_MATTER_REACTOR_DESC$ ##
 
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_DEFAULT:0 "$COMBAT_COMPUTER_SWARM_DEFAULT$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_DEFAULT -> $COMBAT_COMPUTER_SWARM_DEFAULT$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_BASIC:0 "$COMBAT_COMPUTER_SWARM_BASIC$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_BASIC -> $COMBAT_COMPUTER_SWARM_BASIC$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_ADVANCED:0 "$COMBAT_COMPUTER_SWARM_ADVANCED$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_ADVANCED -> $COMBAT_COMPUTER_SWARM_ADVANCED$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_SAPIENT:0 "$COMBAT_COMPUTER_SWARM_SAPIENT$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_SAPIENT -> $COMBAT_COMPUTER_SWARM_SAPIENT$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_AUTONOMOUS:0 "$COMBAT_COMPUTER_SWARM_AUTONOMOUS$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_AUTONOMOUS -> $COMBAT_COMPUTER_SWARM_AUTONOMOUS$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_PRECOG:0 "$COMBAT_COMPUTER_SWARM_PRECOG$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_SWARM_PRECOG -> $COMBAT_COMPUTER_SWARM_PRECOG$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_BASIC:0 "$COMBAT_COMPUTER_PICKET_BASIC$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_BASIC -> $COMBAT_COMPUTER_PICKET_BASIC$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_ADVANCED:0 "$COMBAT_COMPUTER_PICKET_ADVANCED$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_ADVANCED -> $COMBAT_COMPUTER_PICKET_ADVANCED$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_SAPIENT:0 "$COMBAT_COMPUTER_PICKET_SAPIENT$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_SAPIENT -> $COMBAT_COMPUTER_PICKET_SAPIENT$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_AUTONOMOUS:0 "$COMBAT_COMPUTER_PICKET_AUTONOMOUS$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_AUTONOMOUS -> $COMBAT_COMPUTER_PICKET_AUTONOMOUS$ ##
  EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_PRECOG:0 "$COMBAT_COMPUTER_PICKET_PRECOG$"
-## EAC_PDF_PATROL_CRAFT_COMBAT_COMPUTER_PICKET_PRECOG -> $COMBAT_COMPUTER_PICKET_PRECOG$ ##
 
  EAC_PDF_PATROL_CRAFT_THRUSTER_1:0 "$THRUSTER_1$"
-## EAC_PDF_PATROL_CRAFT_THRUSTER_1 -> $THRUSTER_1$ ##
  EAC_PDF_PATROL_CRAFT_THRUSTER_2:0 "$THRUSTER_2$"
-## EAC_PDF_PATROL_CRAFT_THRUSTER_2 -> $THRUSTER_2$ ##
  EAC_PDF_PATROL_CRAFT_THRUSTER_3:0 "$THRUSTER_3$"
-## EAC_PDF_PATROL_CRAFT_THRUSTER_3 -> $THRUSTER_3$ ##
  EAC_PDF_PATROL_CRAFT_THRUSTER_4:0 "$THRUSTER_4$"
-## EAC_PDF_PATROL_CRAFT_THRUSTER_4 -> $THRUSTER_4$ ##
  EAC_PDF_PATROL_CRAFT_THRUSTER_5:0 "$THRUSTER_5$"
-## EAC_PDF_PATROL_CRAFT_THRUSTER_5 -> $THRUSTER_5$ ##
 
  ###################
  # Ships & Sections
  ###################
  EAC_PDF_PATROL_CRAFT_1_MID_S2:0 "$CORVETTE_MID_S3$"
-## EAC_PDF_PATROL_CRAFT_1_MID_S2 -> $CORVETTE_MID_S3$ ##
  EAC_PDF_PATROL_CRAFT_1_MID_T1:0 "$CORVETTE_MID_M1S1$"
-## EAC_PDF_PATROL_CRAFT_1_MID_T1 -> $CORVETTE_MID_M1S1$ ##
  EAC_PDF_PATROL_CRAFT_1_MID_M1:0 "重型拦截器"
-## EAC_PDF_PATROL_CRAFT_1_MID_M1 -> Heavy Interceptor ##
  EAC_PDF_PATROL_CRAFT_1_MID_S1PD1:0 "$CORVETTE_MID_S2PD1$"
-## EAC_PDF_PATROL_CRAFT_1_MID_S1PD1 -> $CORVETTE_MID_S2PD1$ ##
 
  EAC_PDF_PATROL_CRAFT_2_MID_M1S1:0 "重型拦截器"
-## EAC_PDF_PATROL_CRAFT_2_MID_M1S1 -> Heavy Interceptor ##
  EAC_PDF_PATROL_CRAFT_2_MID_T1S1:0 "$CORVETTE_MID_M1S1$"
-## EAC_PDF_PATROL_CRAFT_2_MID_T1S1 -> $CORVETTE_MID_M1S1$ ##
  EAC_PDF_PATROL_CRAFT_2_MID_S3:0 "$CORVETTE_MID_S3$"
-## EAC_PDF_PATROL_CRAFT_2_MID_S3 -> $CORVETTE_MID_S3$ ##
  EAC_PDF_PATROL_CRAFT_2_MID_S2PD1:0 "$CORVETTE_MID_S2PD1$"
-## EAC_PDF_PATROL_CRAFT_2_MID_S2PD1 -> $CORVETTE_MID_S2PD1$ ##
  EAC_PDF_PATROL_CRAFT_2_MID_T1P2:0 "导弹拦截器"
-## EAC_PDF_PATROL_CRAFT_2_MID_T1P2 -> Missle Interceptor ##
 
  eac_pdf_patrol_craft_1:0 "I型巡逻舰"
-## eac_pdf_patrol_craft_1 -> Patrol Craft I ##
  eac_pdf_patrol_craft_1_plural:0 "I型巡逻舰"
-## eac_pdf_patrol_craft_1_plural -> Patrol Craft I ##
  mod_shipsize_eac_pdf_patrol_craft_1_build_speed_mult:0 "$eac_pdf_patrol_craft_1$ Construction Speed"
-## mod_shipsize_eac_pdf_patrol_craft_1_build_speed_mult -> $eac_pdf_patrol_craft_1$ Construction Speed ##
  shipsize_eac_pdf_patrol_craft_1_construction_speed_mult:0 "$mod_shipsize_eac_pdf_patrol_craft_1_build_speed_mult$"
-## shipsize_eac_pdf_patrol_craft_1_construction_speed_mult -> $mod_shipsize_eac_pdf_patrol_craft_1_build_speed_mult$ ##
  shipsize_eac_pdf_patrol_craft_1_build_cost_mult:0 "$eac_pdf_patrol_craft_1$ Build Cost"
-## shipsize_eac_pdf_patrol_craft_1_build_cost_mult -> $eac_pdf_patrol_craft_1$ Build Cost ##
  shipsize_eac_pdf_patrol_craft_1_upkeep_mult:0 "$eac_pdf_patrol_craft_1$ Upkeep"
-## shipsize_eac_pdf_patrol_craft_1_upkeep_mult -> $eac_pdf_patrol_craft_1$ Upkeep ##
  mod_shipsize_eac_pdf_patrol_craft_1_hull_add:0 "$eac_pdf_patrol_craft_1$ Hull Points"
-## mod_shipsize_eac_pdf_patrol_craft_1_hull_add -> $eac_pdf_patrol_craft_1$ Hull Points ##
 
  eac_pdf_patrol_craft_2:0 "II型巡逻舰"
-## eac_pdf_patrol_craft_2 -> Patrol Craft II ##
  eac_pdf_patrol_craft_2_plural:0 "II型巡逻舰"
-## eac_pdf_patrol_craft_2_plural -> Patrol Craft II ##
  mod_shipsize_eac_pdf_patrol_craft_2_build_speed_mult:0 "$eac_pdf_patrol_craft_2$ Construction Speed"
-## mod_shipsize_eac_pdf_patrol_craft_2_build_speed_mult -> $eac_pdf_patrol_craft_2$ Construction Speed ##
  shipsize_eac_pdf_patrol_craft_2_construction_speed_mult:0 "$mod_shipsize_eac_pdf_patrol_craft_2_build_speed_mult$"
-## shipsize_eac_pdf_patrol_craft_2_construction_speed_mult -> $mod_shipsize_eac_pdf_patrol_craft_2_build_speed_mult$ ##
  shipsize_eac_pdf_patrol_craft_2_build_cost_mult:0 "$eac_pdf_patrol_craft_2$ Build Cost"
-## shipsize_eac_pdf_patrol_craft_2_build_cost_mult -> $eac_pdf_patrol_craft_2$ Build Cost ##
  shipsize_eac_pdf_patrol_craft_2_upkeep_mult:0 "$eac_pdf_patrol_craft_2$ Upkeep"
-## shipsize_eac_pdf_patrol_craft_2_upkeep_mult -> $eac_pdf_patrol_craft_2$ Upkeep ##
  mod_shipsize_eac_pdf_patrol_craft_2_hull_add:0 "$eac_pdf_patrol_craft_2$ Hull Points"
-## mod_shipsize_eac_pdf_patrol_craft_2_hull_add -> $eac_pdf_patrol_craft_2$ Hull Points ##
 
  ###################
  # Technologies
  ###################
  eac_tech_planetary_defense_force:0 "行星防御部队"
-## eac_tech_planetary_defense_force -> Planetary Defense Force ##
  eac_tech_planetary_defense_force_desc:0 "A terrestrial fleet capable of entering space to deal with orbital and 攻击星系内敌人. The fleet uses a modified corvette hull without an FTL drive."
-## eac_tech_planetary_defense_force_desc -> A terrestrial fleet capable of entering space to deal with orbital and system hostiles. The fleet uses a modified corvette hull without an FTL drive. ##
  eac_tech_patrol_craft_1:0 "I型巡逻舰"
-## eac_tech_patrol_craft_1 -> Patrol Craft I ##
  eac_tech_patrol_craft_1_desc:0 "A modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$."
-## eac_tech_patrol_craft_1_desc -> A modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$. ##
  EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! I型巡逻舰"
-## EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE -> §HUnlocks Ship Type:§! Patrol Craft I ##
  EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_DESC:0 "§HI型巡逻舰§!\nThe I型巡逻舰 is the most basic military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts."
-## EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_DESC -> §HPatrol Craft I§!\nThe Patrol Craft I is the most basic military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts. ##
  eac_tech_patrol_craft_2:0 "II型巡逻舰"
-## eac_tech_patrol_craft_2 -> Patrol Craft II ##
  eac_tech_patrol_craft_2_desc:0 "An improved modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$.\n§ROriginal $eac_pdf_patrol_craft_1$ designs will no longer be used.§!\nAdds §G+2§! ship building jobs to the $eac_pdf_base$."
-## eac_tech_patrol_craft_2_desc -> An improved modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$.\n§ROriginal $eac_pdf_patrol_craft_1$ designs will no longer be used.§!\nAdds §G+2§! ship building jobs to the $eac_pdf_base$. ##
  EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! II型巡逻舰"
-## EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE -> §HUnlocks Ship Type:§! Patrol Craft II ##
  EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_DESC:0 "§HII型巡逻舰§!\nThe II型巡逻舰 is an improved military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts."
-## EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_DESC -> §HPatrol Craft II§!\nThe Patrol Craft II is an improved military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts. ##
 
  eac_tech_patrol_craft_hull_1:0 "$eac_pdf_patrol_craft_1$船体改进I"
-## eac_tech_patrol_craft_hull_1 -> Improved $eac_pdf_patrol_craft_1$ Hulls I ##
  eac_tech_patrol_craft_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_1_plural$. Increases $eac_pdf_patrol_craft_1$ cost by £alloys 25"
-## eac_tech_patrol_craft_hull_1_desc -> Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_1_plural$. Increases $eac_pdf_patrol_craft_1$ cost by £alloys 25 ##
  eac_tech_patrol_craft_hull_2:0 "$eac_pdf_patrol_craft_1$船体改进II"
-## eac_tech_patrol_craft_hull_2 -> Improved $eac_pdf_patrol_craft_1$ Hulls II ##
  eac_tech_patrol_craft_hull_2_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_1_plural$. Increases $eac_pdf_patrol_craft_1$ cost by £alloys 25"
-## eac_tech_patrol_craft_hull_2_desc -> Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_1_plural$. Increases $eac_pdf_patrol_craft_1$ cost by £alloys 25 ##
  eac_tech_patrol_craft_hull_3:0 "$eac_pdf_patrol_craft_2$船体改进I"
-## eac_tech_patrol_craft_hull_3 -> Improved $eac_pdf_patrol_craft_2$ Hulls I ##
  eac_tech_patrol_craft_hull_3_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_2_plural$. Increases $eac_pdf_patrol_craft_2$ cost by £alloys 25"
-## eac_tech_patrol_craft_hull_3_desc -> Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_2_plural$. Increases $eac_pdf_patrol_craft_2$ cost by £alloys 25 ##
  eac_tech_patrol_craft_hull_4:0 "$eac_pdf_patrol_craft2$船体改进II"
-## eac_tech_patrol_craft_hull_4 -> Improved $eac_pdf_patrol_craft2$ Hulls II ##
  eac_tech_patrol_craft_hull_4_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_2_plural$. Increases $eac_pdf_patrol_craft_2$ cost by £alloys 25"
-## eac_tech_patrol_craft_hull_4_desc -> Advances in building techniques will allow for the construction of sturdier and more durable $eac_pdf_patrol_craft_2_plural$. Increases $eac_pdf_patrol_craft_2$ cost by £alloys 25 ##
  eac_tech_patrol_craft_build_speed_1:0 "标准化$eac_pdf_patrol_craft_2$模板"
-## eac_tech_patrol_craft_build_speed_1 -> Standardized $eac_pdf_patrol_craft_2$ Patterns ##
  eac_tech_patrol_craft_build_speed_1_desc:0 "Establishing new standards for the modeling and construction of $eac_pdf_patrol_craft_2_plural$ greatly improves the efficiency of the production pipeline. Decreases base $eac_pdf_patrol_craft_2$ construction time by 25%"
-## eac_tech_patrol_craft_build_speed_1_desc -> Establishing new standards for the modeling and construction of $eac_pdf_patrol_craft_2_plural$ greatly improves the efficiency of the production pipeline. Decreases base $eac_pdf_patrol_craft_2$ construction time by 25% ##
  eac_tech_patrol_craft_build_speed_2:0 "改进$eac_pdf_patrol_craft_2$装配线"
-## eac_tech_patrol_craft_build_speed_2 -> Improved $eac_pdf_patrol_craft_2$ Assembly Lines ##
  eac_tech_patrol_craft_build_speed_2_desc:0 "Establishing new standards for the assembly lines of $eac_pdf_patrol_craft_2_plural$ greatly improves the efficiency of the production pipeline. Decreases base $eac_pdf_patrol_craft_2$ construction time by 50%"
-## eac_tech_patrol_craft_build_speed_2_desc -> Establishing new standards for the assembly lines of $eac_pdf_patrol_craft_2_plural$ greatly improves the efficiency of the production pipeline. Decreases base $eac_pdf_patrol_craft_2$ construction time by 50% ##
 
  ###################
  # Scripted Loc
  ###################
  eac_pdf_fleet_stance_system:0 "攻击星系内敌人"
-## eac_pdf_fleet_stance_system -> System Hostiles ##
  eac_pdf_fleet_stance_planet:0 "仅攻击星球轨道"
-## eac_pdf_fleet_stance_planet -> Planet Under Attack ##
  eac_pdf_shipyard_status_active_1:0 "建造$eac_pdf_patrol_craft_1$"
-## eac_pdf_shipyard_status_active_1 -> Building $eac_pdf_patrol_craft_1$ ##
  eac_pdf_shipyard_status_active_2:0 "建造$eac_pdf_patrol_craft_2$"
-## eac_pdf_shipyard_status_active_2 -> Building $eac_pdf_patrol_craft_2$ ##
  eac_pdf_shipyard_status_idle_waiting:0 "空闲 - 等待额外资源"
-## eac_pdf_shipyard_status_idle_waiting -> Idle - Waiting for additional resources ##
  eac_pdf_shipyard_status_idle:0 "闲置 - 舰队容量到达上限"
-## eac_pdf_shipyard_status_idle -> Idle - At fleet capacity ##
  eac_pdf_fleet_deployment_status_deployed:0 "已部署"
-## eac_pdf_fleet_deployment_status_deployed -> Deployed ##
  eac_pdf_fleet_deployment_status_on_base:0 "在基地"
-## eac_pdf_fleet_deployment_status_on_base -> On Base ##
 
  eac_pdf_gain_0:0 "§W0§!"
-## eac_pdf_gain_0 -> §W0§! ##
  eac_pdf_gain_2:0 "§G+2§!"
-## eac_pdf_gain_2 -> §G+2§! ##
  eac_pdf_gain_4:0 "§G+4§!"
-## eac_pdf_gain_4 -> §G+4§! ##
  eac_pdf_gain_6:0 "§G+6§!"
-## eac_pdf_gain_6 -> §G+6§! ##
  eac_pdf_gain_8:0 "§G+8§!"
-## eac_pdf_gain_8 -> §G+8§! ##
   
  eac_pdf_num_0:0 "0"
-## eac_pdf_num_0 -> 0 ##
  eac_pdf_num_1:0 "1"
-## eac_pdf_num_1 -> 1 ##
  eac_pdf_num_2:0 "2"
-## eac_pdf_num_2 -> 2 ##
  eac_pdf_num_3:0 "3"
-## eac_pdf_num_3 -> 3 ##
  eac_pdf_num_4:0 "4"
-## eac_pdf_num_4 -> 4 ##
  eac_pdf_num_5:0 "5"
-## eac_pdf_num_5 -> 5 ##
  eac_pdf_num_6:0 "6"
-## eac_pdf_num_6 -> 6 ##
  eac_pdf_num_7:0 "7"
-## eac_pdf_num_7 -> 7 ##
  eac_pdf_num_8:0 "8"
-## eac_pdf_num_8 -> 8 ##
  eac_pdf_num_9:0 "9"
-## eac_pdf_num_9 -> 9 ##
  eac_pdf_num_10:0 "10"
-## eac_pdf_num_10 -> 10 ##
  eac_pdf_num_11:0 "11"
-## eac_pdf_num_11 -> 11 ##
  eac_pdf_num_12:0 "12"
-## eac_pdf_num_12 -> 12 ##
  eac_pdf_num_13:0 "13"
-## eac_pdf_num_13 -> 13 ##
  eac_pdf_num_14:0 "14"
-## eac_pdf_num_14 -> 14 ##
  eac_pdf_num_15:0 "15"
-## eac_pdf_num_15 -> 15 ##
  eac_pdf_num_16:0 "16"
-## eac_pdf_num_16 -> 16 ##
  eac_pdf_num_17:0 "17"
-## eac_pdf_num_17 -> 17 ##
  eac_pdf_num_18:0 "18"
-## eac_pdf_num_18 -> 18 ##
  eac_pdf_num_19:0 "19"
-## eac_pdf_num_19 -> 19 ##
  eac_pdf_num_20:0 "20"
-## eac_pdf_num_20 -> 20 ##
  eac_pdf_num_21:0 "21"
-## eac_pdf_num_21 -> 21 ##
  eac_pdf_num_22:0 "22"
-## eac_pdf_num_22 -> 22 ##
  eac_pdf_num_23:0 "23"
-## eac_pdf_num_23 -> 23 ##
  eac_pdf_num_24:0 "24"
-## eac_pdf_num_24 -> 24 ##
  eac_pdf_num_25:0 "25"
-## eac_pdf_num_25 -> 25 ##
  eac_pdf_num_26:0 "26"
-## eac_pdf_num_26 -> 26 ##
  eac_pdf_num_27:0 "27"
-## eac_pdf_num_27 -> 27 ##
  eac_pdf_num_28:0 "28"
-## eac_pdf_num_28 -> 28 ##
  eac_pdf_num_29:0 "29"
-## eac_pdf_num_29 -> 29 ##
  eac_pdf_num_30:0 "30"
-## eac_pdf_num_30 -> 30 ##
  eac_pdf_num_31:0 "31"
-## eac_pdf_num_31 -> 31 ##
  eac_pdf_num_32:0 "32"
-## eac_pdf_num_32 -> 32 ##
  eac_pdf_num_33:0 "33"
-## eac_pdf_num_33 -> 33 ##
  eac_pdf_num_34:0 "34"
-## eac_pdf_num_34 -> 34 ##
  eac_pdf_num_35:0 "35"
-## eac_pdf_num_35 -> 35 ##
  eac_pdf_num_36:0 "36"
-## eac_pdf_num_36 -> 36 ##
  eac_pdf_num_37:0 "37"
-## eac_pdf_num_37 -> 37 ##
  eac_pdf_num_38:0 "38"
-## eac_pdf_num_38 -> 38 ##
  eac_pdf_num_39:0 "39"
-## eac_pdf_num_39 -> 39 ##
  eac_pdf_num_40:0 "40"
-## eac_pdf_num_40 -> 40 ##
 
  ###################
  # Events
  ###################
 
  eac_pdf_pdf_fleet_size:0 "§W行星舰队规模（已部署/总计/最大）：£navy_size §Y[This.GetDeployedShipCount] / [This.GetTotalFleetSize] / [This.Planetary_Defense_Force_Max]§!\n"
-## eac_pdf_pdf_fleet_size -> §WPlanetary fleet size (deployed / total / max): £navy_size §Y[This.GetDeployedShipCount] / [This.GetTotalFleetSize] / [This.Planetary_Defense_Force_Max]§!\n ##
  eac_pdf_pdf_fleet_stance:0 "§W行星舰队的姿态：§Y[This.GetPDFFleetStance]§!\n"
-## eac_pdf_pdf_fleet_stance -> §WPlanetaryy fleet stance: §Y[This.GetPDFFleetStance]§!\n ##
  eac_pdf_fleet_deployment_status:0 "§W部署状态：§Y[This.GetFleetDeploymentStatus]§!\n"
-## eac_pdf_fleet_deployment_status -> §WDeployment Status: §Y[This.GetFleetDeploymentStatus]§!\n ##
  eac_pdf_ship_cost:0 "§W行星防御船消耗：£alloys §Y[This.Owner.Planetary_Defense_Ship_Cost]§!\n"
-## eac_pdf_ship_cost -> §WPlanetary defense ship cost: £alloys §Y[This.Owner.Planetary_Defense_Ship_Cost]§!\n ##
  eac_pdf_ship_size:0 "§W使用的舰船类型：§Y[This.GetCurrentPatrolCraftSize]§!\n"
-## eac_pdf_ship_size -> §WShip size in use: §Y[This.GetCurrentPatrolCraftSize]§!\n ##
 
  eac_pdf_fleet_reinforce_cost:0 "§W后勤费用：£navy_size §Y[This.GetPDFFleetReinfocementShips] £alloys §Y[This.PDF_Reinforce_Cost]§!\n"
-## eac_pdf_fleet_reinforce_cost -> §WReinforcement cost: £navy_size §Y[This.GetPDFFleetReinfocementShips] £alloys §Y[This.PDF_Reinforce_Cost]§!\n ##
  eac_pdf_fleet_reinforce_cost_0:0 "§W后勤费用：£navy_size §Y[This.GetPDFFleetReinfocementShips] £alloys §Y0§!\n"
-## eac_pdf_fleet_reinforce_cost_0 -> §WReinforcement cost: £navy_size §Y[This.GetPDFFleetReinfocementShips] £alloys §Y0§!\n ##
  
  eac_pdf_ship_build_speed:0 "§W建造速度：£resource_time §Y[This.Owner.Planetary_Defense_Ship_Build_Speed]§!\n"
-## eac_pdf_ship_build_speed -> §WConstuction speed: £resource_time §Y[This.Owner.Planetary_Defense_Ship_Build_Speed]§!\n ##
  eac_pdf_shipyard_status:0 "§W船坞状态：§Y[This.GetPDFShipyardStatus]§!\n"
-## eac_pdf_shipyard_status -> §WShipyard Status: §Y[This.GetPDFShipyardStatus]§!\n ##
  
  eac_pdf_local_storage:0 "§W本地存储资源：£alloys §Y[This.Alloy_Storage] / [This.PDF_Maximum_Storage]§!\n"
-## eac_pdf_local_storage -> §WLocal resource storage: £alloys §Y[This.Alloy_Storage] / [This.PDF_Maximum_Storage]§!\n ##
  eac_pdf_local_storage_0:0 "§W本地存储资源：£alloys §Y0 / [This.PDF_Maximum_Storage]§!\n"
-## eac_pdf_local_storage_0 -> §WLocal resource storage: £alloys §Y0 / [This.PDF_Maximum_Storage]§!\n ##
  
  eac_pdf_monthly_gain:0 "§W每月获得：£alloys [This.GetMonthlyAllowGain]"
-## eac_pdf_monthly_gain -> §WMonthly Gain: £alloys [This.GetMonthlyAllowGain] ##
  
  eac_pdf_events.100.title:0 "行星防御部队在[This.GetName]"
-## eac_pdf_events.100.title -> Planetary Defense Force on [This.GetName] ##
  
  eac_pdf_events.100.desc:0 " $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.100.desc ->  $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage$ $eac_pdf_monthly_gain$ ##
  eac_pdf_events.100.desc_0_1:0 " $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.100.desc_0_1 ->  $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage$ $eac_pdf_monthly_gain$ ##
  eac_pdf_events.100.desc_1_0:0 " $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.100.desc_1_0 ->  $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$ ##
  eac_pdf_events.100.desc_0_0:0 " $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.100.desc_0_0 ->  $eac_pdf_pdf_fleet_size$ $eac_pdf_pdf_fleet_stance$ $eac_pdf_fleet_deployment_status$\n $eac_pdf_ship_size$ $eac_pdf_ship_cost$ $eac_pdf_ship_build_speed$ $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_shipyard_status$\n $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$ ##
  
  eac_pdf_events.100.TransferResources:0 "转让资源 从/到 [This.GetName]"
-## eac_pdf_events.100.TransferResources -> Transfer Resources To/From [This.GetName] ##
  eac_pdf_events.100.FleetStanceSystem:0 "设置舰队姿态：$eac_pdf_fleet_stance_system$"
-## eac_pdf_events.100.FleetStanceSystem -> Set Fleet Stance: $eac_pdf_fleet_stance_system$ ##
  eac_pdf_events.100.FleetStancePlanet:0 "设置舰队姿态：$eac_pdf_fleet_stance_planet$"
-## eac_pdf_events.100.FleetStancePlanet -> Set Fleet Stance: $eac_pdf_fleet_stance_planet$ ##
  eac_pdf_events.100.DeployFleet:0 "手动部署舰队"
-## eac_pdf_events.100.DeployFleet -> Manually Deploy Fleet ##
  eac_pdf_events_close:0 "关闭"
-## eac_pdf_events_close -> Close ##
  eac_pdf_events_return:0 "返回"
-## eac_pdf_events_return -> Return ##
  eac_pdf_events_refhesh:0 "刷新信息"
-## eac_pdf_events_refhesh -> Refresh Information ##
 
  eac_pdf_events.101.title:0 "转让资源"
-## eac_pdf_events.101.title -> Transfer Resources ##
 
  eac_pdf_events.101.desc:0 "§W转让资源，从这颗星球到帝国或从帝国到这颗星球。§!\n\n $eac_pdf_fleet_reinforce_cost$ $eac_pdf_local_storage$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.101.desc -> §WTransfer resources either from the emprire to the planet or from the planet to the empire.§!\n\n $eac_pdf_fleet_reinforce_cost$ $eac_pdf_local_storage$ $eac_pdf_monthly_gain$ ##
  eac_pdf_events.101.desc_0_1:0 "§W转让资源，从这颗星球到帝国或从帝国到这颗星球。§!\n\n $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_local_storage$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.101.desc_0_1 -> §WTransfer resources either from the emprire to the planet or from the planet to the empire.§!\n\n $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_local_storage$ $eac_pdf_monthly_gain$ ##
  eac_pdf_events.101.desc_1_0:0 "§W转让资源，从这颗星球到帝国或从帝国到这颗星球。§!\n\n $eac_pdf_fleet_reinforce_cost$ $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.101.desc_1_0 -> §WTransfer resources either from the emprire to the planet or from the planet to the empire.§!\n\n $eac_pdf_fleet_reinforce_cost$ $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$ ##
  eac_pdf_events.101.desc_0_0:0 "§W转让资源，从这颗星球到帝国或从帝国到这颗星球。§!\n\n $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$"
-## eac_pdf_events.101.desc_0_0 -> §WTransfer resources either from the emprire to the planet or from the planet to the empire.§!\n\n $eac_pdf_fleet_reinforce_cost_0$ $eac_pdf_local_storage_0$ $eac_pdf_monthly_gain$ ##
 
  eac_pdf_events.101.ToPlanetHeader:0 "从[This.Owner.GetName]到[This.GetName]"
-## eac_pdf_events.101.ToPlanetHeader -> From [This.Owner.GetName] to [This.GetName] ##
  eac_pdf_events.101.ToPlanet50:0 "转让£alloys 50"
-## eac_pdf_events.101.ToPlanet50 -> Transfer £alloys 50 ##
  eac_pdf_events.101.ToPlanet100:0 "转让£alloys 100"
-## eac_pdf_events.101.ToPlanet100 -> Transfer £alloys 100 ##
  eac_pdf_events.101.ToPlanet500:0 "转让£alloys 500"
-## eac_pdf_events.101.ToPlanet500 -> Transfer £alloys 500 ##
  eac_pdf_events.101.ToPlanet1000:0 "转让£alloys 1000"
-## eac_pdf_events.101.ToPlanet1000 -> Transfer £alloys 1000 ##
  eac_pdf_events.101.FromPlanetHeader:0 "从[This.GetName]到[This.Owner.GetName]"
-## eac_pdf_events.101.FromPlanetHeader -> From [This.GetName] to [This.Owner.GetName] ##
  eac_pdf_events.101.FromPlanet50:0 "转让£alloys 50"
-## eac_pdf_events.101.FromPlanet50 -> Transfer £alloys 50 ##
  eac_pdf_events.101.FromPlanet100:0 "转让£alloys 100"
-## eac_pdf_events.101.FromPlanet100 -> Transfer £alloys 100 ##
  eac_pdf_events.101.FromPlanet500:0 "转让£alloys 500"
-## eac_pdf_events.101.FromPlanet500 -> Transfer £alloys 500 ##
  eac_pdf_events.101.FromPlanet1000:0 "转让£alloys 1000"
-## eac_pdf_events.101.FromPlanet1000 -> Transfer £alloys 1000 ##
  eac_pdf_events.101.FromPlanetAll:0 "转出全部£alloys"
-## eac_pdf_events.101.FromPlanetAll -> Transer all £alloys out ##

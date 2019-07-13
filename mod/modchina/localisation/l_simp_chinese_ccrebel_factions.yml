@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
-#l_simp_chinese:
-#commented this out so that I get the correct tooltips with my validator
 
 ###Modifiers
 
@@ -156,8 +154,8 @@ ccfaction.6.desc.succeed.single:0 "凭借一场不流血的政变，隶属[cc_re
 ccfaction.6.desc.succeed.dual:0 "凭借一场不流血的政变，隶属[cc_rebellious_faction.GetName]和[cc_new_reb_faction.GetName]两派的政客们已经掌控了[cc_rebel_faction_capital.GetName]，并宣布独立。他们称此举完全正当，因为[root.GetName]政府长期以来对治下民众的呼声置若罔闻。现在他们自称[cc_breakaway_country.GetName]。两派的领导阶层纷纷投身这个新近分裂出来的政权，呼吁自己的追随者们行动起来，加入他们谋求独立的斗争。迫近的动荡与纷争无可避免。"
 #ccfaction.6.desc.succeed.leader.single:0 ""
 #ccfaction.6.desc.succeed.leader.dual:0 ""
-ccfaction.6.desc.attempt.single:0 "[cc_rebellious_faction.GetName]派系的部分成员在[cc_rebel_faction_capital.GetName]上发动了武装反叛。现在他们自称[cc_breakaway_country.GetName],正在为夺取星球控制权而战斗。目前[cc_rebellious_faction.GetName]派系的大部分领导阶层对此尚持保留态度，但我们的情报认为一旦反叛成功，他们就会彻底投身这个新近分裂出来的政权。"
-ccfaction.6.desc.attempt.dual:0 "[cc_rebellious_faction.GetName] [cc_new_reb_faction.GetName]两派的部分成员在[cc_rebel_faction_capital.GetName]上发动了武装反叛。现在他们自称[cc_breakaway_country.GetName],正在为夺取星球控制权而战斗。目前两派大部分领导阶层对此尚持保留态度，但我们的情报认为一旦反叛成功，他们就会彻底投身这个新近分裂出来的政权。"
+ccfaction.6.desc.attempt.single:0 "[cc_rebellious_faction.GetName]派系的部分成员在[cc_rebel_faction_capital.GetName]上发动了武装反叛。现在他们自称[cc_breakaway_country.GetName],正在为夺取星球控制权而战斗。目前[cc_rebellious_faction.GetName]派系的大部分领导阶层对此尚持保留态度，但我们的情报认为如果反叛成功，他们就会彻底投身这个新近分裂出来的政权。"
+ccfaction.6.desc.attempt.dual:0 "[cc_rebellious_faction.GetName] [cc_new_reb_faction.GetName]两派的部分成员在[cc_rebel_faction_capital.GetName]上发动了武装反叛。现在他们自称[cc_breakaway_country.GetName],正在为夺取星球控制权而战斗。目前两派大部分领导阶层对此尚持保留态度，但我们的情报认为如果反叛成功，他们就会彻底投身这个新近分裂出来的政权。"
 
 ccfaction.601.name:0 "变节!"
 ccfaction.601.desc.both:0 "[cc_rebellious_faction_leader.GetTitle] [cc_rebellious_faction_leader.GetName]及[cc_new_reb_faction_leader.GetTitle] [cc_new_reb_faction_leader.GetName]已经叛逃至[cc_breakaway_country.GetName]。"
@@ -212,7 +210,6 @@ ccfaction.99941.desc:0 "[cc_new_reb_faction.GetName]派系在[root.GetName]上�
 
 
 cc_faction_revolt_modifiers_removed:0 "所有派系反叛相关的行星调整值将会被移除"
-
 
 war_goal_wg_dpe_faction_revolt:0 "派系反叛"
 war_goal_wg_dpe_faction_revolt_desc:0 "为推翻现任政权，战争已经爆发"

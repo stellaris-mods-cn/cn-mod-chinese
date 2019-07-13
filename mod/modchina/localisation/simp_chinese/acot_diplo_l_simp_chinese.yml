@@ -8,10 +8,10 @@ acot_diplo.3.desc.friendly: "你好，朋友。我们对你发现的这种神秘
 acot_diplo.3.desc.neutral: "你好，§Y[root.GetName]§!。\n\n我们最近了解到您的帝国在技术上的进步，特别是称为“§E暗物质力量§!”的新能源！我们的帝国希望更多地了解这种力量。也许你有兴趣和我们分享这些知识？我们将不胜感激。"
 
 acot_diplo.3.a: "你只要问就行了！我们将派一个科研小组去帮助你们！"
-acot_diplo.3.a.response: "你太慷慨了。§Y[from.GetRulerName]§!永远不会忘记§Y[root.GetRulerName]§!今天对我们帝国的仁慈。我们很荣幸有你作为我们的盟友，朋友!"
+acot_diplo.3.a.response: "你太慷慨了!§Y[interested_buyer.GetRulerName]§!永远不会忘记§Y[root.GetRulerName]§!今天对我们帝国所表现出的善意。我们很荣幸有你作为我们的盟友，朋友!"
 
-acot_diplo.3.b: "当然，§Y[from.GetName]§!是我们的朋友。"
-acot_diplo.3.b.response: "谢谢你！§Y[from.GetRulerName]§!永远不会忘记§Y[root.GetRulerName]§!今天对我们帝国的仁慈。愿我们的关系繁荣昌盛，愿我们的力量共同统治世界!"
+acot_diplo.3.b: "当然，§Y[interested_buyer.GetName]§!是我们的朋友。"
+acot_diplo.3.b.response: "谢谢你。§Y[interested_buyer.GetRulerName]§!永远不会忘记§Y[root.GetRulerName]§!今天对我们帝国的仁慈。愿我们的关系繁荣昌盛，愿我们的力量共同统治世界!"
 
 acot_diplo.3.c: "我们可以教你们的科学家适当的技能。"
 acot_diplo.3.c.response: "这很合理。这可能需要一段时间，但有了一些知识，我们也将能够发展这样的力量。我们感谢你的帮助。"
@@ -22,50 +22,43 @@ acot_diplo.3.d.response: "我明白了…你终于露出了你的真面目。你
 acot_diplo.3.e: "滚开，弱者。"
 acot_diplo.3.e.response: "什...你怎么敢！....\n\n[root.GetName]！...[root.GetName]！！！！？WRYYYYYYYYYYY！"
 
-acot_diplo.3.f: "你可以用$LGATE_GALACTIC$星系来换。"
-acot_diplo.3.f.response: "嗯....合理的建议。很好，我们会用$LGATE_GALACTIC$星系来交换暗物质知识。"
-acot_diplo.3.e: "滚开，弱者。"
-acot_diplo.3.e.response: "什...你怎么敢！....\n\n[root.GetName]！...[root.GetName]！！！！？WRYYYYYYYYYYY！"
+acot_diplo.3.f: "你可以用L-星门星系来换。"
+acot_diplo.3.f.response: "嗯....合理的建议。很好，我们会用L-星门星系来交换暗物质知识。"
+acot_diplo.3.g: "也许我们可以用外星门交换?"
+acot_diplo.3.g.response: "这是一个可以接受的报价。我们不知道怎么处理那扇愚蠢的星门。我们接受这种贸易方式。"
 
 acot_diplo.5.name: "科研船被伏击了！"
 acot_diplo.5.desc: "我们的一艘科研船被一群不知名的海盗伏击了!他们似乎是被我们的一个敌人雇佣的，毫无疑问，他们试图窃取我们的技术。计算机估计对方将在两年内完成。我们必须迅速行动!"
-acot_diplo.5.desc.enigma: "我们的一艘科研船被一群不知名的海盗伏击了!他们似乎是被我们的一个敌人雇佣的，毫无疑问，他们试图窃取我们的技术。由于我们设计图十分神秘，海盗将不得不付出额外的努力，大约需要四年时间来完成突袭。"
 acot_diplo.5.a: "联系海盗，看看他们想要什么。"
-
-acot_diplo.6.name: "星能量飞贼"
-acot_diplo.6.desc: "海盗们成功地袭击了我们的科研船，船上所有有价值的部件都被走私给了海盗的客户，据报道科研小组被变成了汤罐头。"
-acot_diplo.6.a: "哦，糟糕。"
-
-acot_diplo.7.name: "救援成功！"
-acot_diplo.7.desc: "企图袭击我们科研船的海盗已不复存在。船上的船员表现出惊恐的迹象，但没有受伤。我们技术的秘密仍然掌握在我们手中。"
 
 acot_diplo.8.name: "传输信号"
 acot_diplo.8.desc.a: "§SAttenshun， toadlickars!§!\n\n这里是§YKapatan Parbge§!，§EGoodnite Pubstompah§!的§Sraidbozz§!的§YKapatan Parbge§!。我被告知这个§Sstompa§!里的绿色荧光§Sshippy becuz§!。\n\n我不是§Skare wot§!在里面，但我的§Sgooodz§!已经付清了，§SVary goooodz§!。\n\n就这些，§Stoadlickars！§!\n\n嗯额.....这东西怎么§Szhinng§!？"
 acot_diplo.8.desc.b: "你好，华丽垃圾先生\n\n我是§Y托卡尔基因猎人§!，§R腐坏引擎§!的指挥官，基因掠夺者，猎犬主人，大可汗的鞭子，基因窃取者，毁灭商人，植物猎手，真菌食用者，$story.501.name$的灾祸。喜欢铜锣烧。\n\n你和你所有的同类都是懦夫！卑微的马屁精！你一定是在模仿[root.GetRulerTitle]的那堆垃圾！你跟他一样应该去死，你们一样没用！我正在突袭你的科研船，[ROOT.GetName]，而你什么都！不！做！看你那珍贵的飞船，挂在轨道上，载着价值连城的宝物！我就在这里！来啊！你敢面对我吗？！！"
 acot_diplo.8.desc.c: "看!科研船!科研船！\n\n我们的敌人躲在金属盒子里！\n\n懦夫！蠢货！\n\n我们……我们应该拿走他们的金属盒子！\n\n如果我们今天死去，我们将带着荣耀死去……我们死英雄之死…\n\n但是没有……\n\n我们不会死。你将尝到死亡和失败的滋味！正如你所知道的！\n\n我们的海盗驻扎在太空，准备偷你的船！"
 
-acot_diplo.8.a: "愚蠢到无以复加的地步……组建救援队!"
+acot_diplo.8.a: "你会为此付出代价的，犯罪渣滓!"
+acot_diplo.8.tooltip: "我们必须在海盗到达目的地之前拦截并消灭他们，否则我们的敌人将获得我们的秘密。然而，跟踪他们的目的地也可能是明智的，这样我们就可以确定谁在雇佣他们。"
 acot_diplo.8.b: "你敢吗？ ？ ？你敢？？？"
 
-acot_diplo.10.name: "来自$OUTLINER_FALLEN_EMPIRES$的传输信号"
+acot_diplo.10.name: "来自太空爷爷的传入信号"
 acot_diplo.10.desc.spiritualist: "异教徒！你怎敢用你那亵渎、堕落的技术玷污神圣的暗物质技术？？这一暴行不容忽视！\n\n作为$personality_fallen_empire_spiritualist$的真正信仰，我们要求你立刻交出技术，否则我们将给你们这种错误的人带来神圣的惩罚！"
 acot_diplo.10.desc.materialist: "这是什么意思？[FallenEmpireTaskTarget.GetName]，你的危险技术违反了GTX-3198号法典133337-163641页。§R“在任何情况下，平民帝国都不应该拥有比政府更先进的技术，因为他们是平民，他们应该保持可悲的地位，而不是更优秀或压倒性的。”§!。\n\n现在必须执行法律，没收你们所有的技术。我们将更好地利用它们。如果抵抗，我们将使用致命武力。"
 acot_diplo.10.desc.xenophile: "[FallenEmpireTaskTarget.GetName]，您正在尝试使用不应该使用的技术。我们可以看到，您将使用它的恶意目的。这是我们不能允许的。我们[FallenEmpireTaskOrigin.GetName]是这个故事的英雄，因此我们有责任确保你们的错误行为不能继续下去。\n\n把这些技术还给我们，我们就不会把你写成罪犯。"
 acot_diplo.10.desc.xenophobe: "你们学到了比我们这些存在了几百万年的人更好的技术。作为你们合法的主人，我们命令并征服你们，给我们技术，然后我们杀死你。拒绝，我们就杀了你。选择是显而易见的。"
 
 acot_diplo.10.a: "哈哈哈哈哈哈!"
-acot_diplo.10.a.tooltip: "哈哈哈哈哈哈!\n\n$OUTLINER_FALLEN_EMPIRES$将向我们宣战。"
+acot_diplo.10.a.tooltip: "哈哈哈哈哈哈!\n\n这会使失落帝国觉醒并向我们宣战。"
 acot_diplo.10.a.response: "§R死！死！死！§!"
 
 acot_diplo.10.b: "把它拿走吧，它不能把我们从可怕的愤怒中拯救出来。"
-acot_diplo.10.b.tooltip: "$OUTLINER_FALLEN_EMPIRES$将会觉醒，并获得所有先进的技术，而这些技术，他们在过去的数百万年里，不知何故都没能学会，而我们可以在短短几年内学会。但至少他们不会马上向我们宣战。"
+acot_diplo.10.b.tooltip: "失落帝国将会觉醒，并获得所有先进的技术，而这些技术，他们在过去的数百万年里，不知何故都没能学会，而我们可以在短短几年内学会。但至少他们不会马上向我们宣战。"
 acot_diplo.10.b.response: "我们拭目以待。执行者，准备没收所有的技术，并把技术缓存带到我们的帝国进行研究。"
 
 acot_diplo.10.c: "§Y(欺骗)§!请把它拿走吧!别生气。"
 acot_diplo.10.c.tooltip: "我们将假装给他们提供技术，但他们几乎不知道里面的缓存装满了14级寄点炸弹，将导致大规模爆炸。\n\n很明显这将激怒他们，但谁在乎呢~。"
 acot_diplo.10.c.response: "非常好。执行者，准备没收所有的技术，并把技术缓存带到我们的帝国进行研究。"
 
-acot_diplo.13.name: "$OUTLINER_FALLEN_EMPIRES$觉醒"
+acot_diplo.13.name: "失落帝国觉醒"
 acot_diplo.13.desc: "银河系中发生了一件有趣的事情。显然，一定有人让[FallenEmpireTaskOrigin.GetName]非常非常生气，太空爷爷决定不再停滞，再次觉醒，重拾失去的荣耀。"
 acot_diplo.13.a: "是的，是的，有什么大不了的。"
 acot_diplo.13.b: "好吧，这是注定要发生的。"
@@ -105,11 +98,11 @@ triggered_opinion_give_dm_normal: "教授暗物质能量"
 
 triggered_opinion_give_dm_normal_neighbour: "向盟国提供暗物质知识"
 
-triggered_opinion_refuse_dm_friendly: "拒绝了从盟友那里获取暗物质知识"
+triggered_opinion_refuse_dm_friendly: "拒绝从盟友那里获取暗物质知识"
 
-triggered_opinion_give_dm_to_enemy: "将暗物质知识传授给敌人。"
+triggered_opinion_give_dm_to_enemy: "将暗物质知识传授给敌人"
 
-triggered_opinion_refuse_dm_friendly_others: "真正的颜色。"
+triggered_opinion_refuse_dm_friendly_others: "真正的颜色"
 
 triggered_opinion_refuse_dm_neutral: "否认知道暗物质知识"
 

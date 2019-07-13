@@ -64,7 +64,7 @@
  apsr_terraforming_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n利用先进的地形学技术，我们可以改变这个星球，使之适合居住。"
  
  apsr_restoration_candidate:0 "有价值的星球"
- apsr_restoration_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n一旦这颗行星被摧毁，就会引发原子核爆炸。在花费了大量的努力之后，我们可以尝试恢复和重新居住这个星球。"
+ apsr_restoration_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n如果这颗行星被摧毁，就会引发原子核爆炸。在花费了大量的努力之后，我们可以尝试恢复和重新居住这个星球。"
  
  apsr_unshielded_candidate:0 "有价值的星球"
  apsr_unshielded_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n曾几何时，这颗行星被一道无法穿透的护盾封闭着。在花费了大量的努力之后，我们可以尝试移除护盾并重新填充这个星球。不幸的是，有了它，星球上所有的生物和机械都将被摧毁。"

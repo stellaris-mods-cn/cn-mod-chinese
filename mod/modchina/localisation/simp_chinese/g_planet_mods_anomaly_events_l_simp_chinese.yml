@@ -67,7 +67,7 @@
  # 4 anom
  GPM_PROTO_CAT:0 "异常辐射"
  gpm_anomaly.78880.name:0 "被菲比虫感染的空间站"
- gpm_proto_molecule_deposit:0 "§!增加£society §G12§! "
+ gpm_proto_molecule_deposit:0 "§!增加£society §G6§! "
     
     # normal
  GPM_PROTO_CAT_DESC:0 "我们的传感器探测到来自这颗小行星表面的异常气体。我们应该前去调查。"
@@ -84,7 +84,7 @@
  # 5 anom
  GPM_CLOCK_CAT:0 "在黑暗中闪烁"
  gpm_anomaly.78881.name:0 "脉冲星时钟"
- gpm_Pulsar_clock:0 "§!增加£physics §G12§! and §B零号元素§! §G1§! "
+ gpm_Pulsar_clock:0 "§!增加£physics §G12§!"
     
     # normal
  GPM_CLOCK_CAT_DESC:0 "关于这个脉冲星的一些情报似乎是非常一致的。它在释放大量能量的同时会有规律地跳动。"

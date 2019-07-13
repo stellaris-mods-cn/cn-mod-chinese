@@ -53,7 +53,7 @@ l_simp_chinese:
  mem_crucible.200.b:0 "我们已经走得太远。有些秘密最好不要知道。"
 
  mem_crucible.201.name:0 "熔炉控制器"
- mem_crucible.201.desc:0 "[Leader.GetName]报道，[Leader.GetSheHe] [Leader.GetHasHave]能够修改[Root.GetName]的传感器阵列，穿透神秘的迷雾，找出[mem_crucible_controller_planet.Solar_System.GetName]星系中奇怪现象发生的原因。 \n\n在[mem_crucible_controller_planet.GetName]的迷雾深处，摆放着一台古老而强大的机器，叫做"§Y控制器§!"。它仅被设置了一个目的————防止被称为§S沃达雷恩§!的生物从它的卫星上逃脱。然而，在系统给的参数中，任务是不可能完成的。控制者所能做的就是制造凡人的躯壳来存放沃达雷恩的碎片，这些碎片因此陷入奇怪的成熟周期中，一旦这些凡人可以接近星球逃逸速度，就会被扼杀。在控制器完全损坏之前，循环本身永远不会结束。"
+ mem_crucible.201.desc:0 "[Leader.GetName]报道，[Leader.GetSheHe] [Leader.GetHasHave]能够修改[Root.GetName]的传感器阵列，穿透神秘的迷雾，找出[mem_crucible_controller_planet.Solar_System.GetName]星系中奇怪现象发生的原因。 \n\n在[mem_crucible_controller_planet.GetName]的迷雾深处，摆放着一台古老而强大的机器，叫做"§Y控制器§!"。它仅被设置了一个目的————防止被称为§S沃达雷恩§!的生物从它的卫星上逃脱。然而，在系统给的参数中，任务是不可能完成的。控制者所能做的就是制造凡人的躯壳来存放沃达雷恩的碎片，这些碎片因此陷入奇怪的成熟周期中，如果这些凡人可以接近星球逃逸速度，就会被扼杀。在控制器完全损坏之前，循环本身永远不会结束。"
  mem_crucible.201.a:0 "关闭控制器。"
  mem_crucible.201.a.tooltip:0 "沃达雷恩将会逃脱，释放出可让我们提出领土主张的[mem_crucible_planet.GetName]盖亚星球。"
  mem_crucible.201.b:0 "提高控制器的效率。"

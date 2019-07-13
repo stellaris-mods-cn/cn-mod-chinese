@@ -3,14 +3,14 @@
  ####################################
  # CIVICS
  ####################################
- civic_tooltip_gpm_death_world_effects:0 "§Y$sys_homeworld$§!:\n获得§G3§!个§R残酷的§!$PLANET_MODIFIER$\n获得§R$civic_gpm_death_world$§!$PLANET_MODIFIER$:\n  $MOD_POP_AMENITIES_USAGE_BASE$:§R+40%§!\n  $mod_planet_pops_consumer_goods_upkeep_mult$:§R+40%§!\n  星球$MOD_PLANET_IMMIGRATION_PULL_ADD$:§R-100%§!\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y死界民族§!特质，带来:\n  $pop_habitability$:§G+10%§!\n  $mod_planet_jobs_minerals_produces_mult$:§G+20%§!\n  $mod_planet_jobs_food_produces_mult$:§G+20%§!"
+ civic_tooltip_gpm_death_world_effects:0 "§Y家园§!:\n获得§G3§!个§R残酷的§!$PLANET_MODIFIER$\n获得§R$civic_gpm_death_world$§!$PLANET_MODIFIER$:\n  $MOD_POP_AMENITIES_USAGE_BASE$:§R+40%§!\n  $mod_planet_pops_consumer_goods_upkeep_mult$:§R+40%§!\n  星球$MOD_PLANET_IMMIGRATION_PULL_ADD$:§R-100%§!\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y死界民族§!特质，带来:\n  $pop_habitability$:§G+10%§!\n  $mod_planet_jobs_minerals_produces_mult$:§G+20%§!\n  $mod_planet_jobs_food_produces_mult$:§G+20%§!"
 
- civic_tooltip_gpm_precursor_world_effects:0 "§Y$COUNTRY_MODIFIER$§!:\n $mod_planet_pops_consumer_goods_upkeep_mult$:§R+10%§!\n\n§Y$sys_homeworld$§!:\n  拥有§E先驱者废墟§!\n  获得§G2§!个§E先驱者§!$PLANET_MODIFIER$\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y被遗忘者§!特质，带来:\n  $MOD_LEADER_SKILL_LEVELS$:§G+2§!\n  $MOD_LEADER_SPECIES_EXP_GAIN$:§G+100%§!"
+ civic_tooltip_gpm_precursor_world_effects:0 "§Y帝国§!:\n $mod_planet_pops_consumer_goods_upkeep_mult$:§R+10%§!\n\n§Y$sys_homeworld$§!:\n  拥有§E先驱者废墟§!\n  获得§G2§!个§E先驱者§!$PLANET_MODIFIER$\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y被遗忘者§!特质，带来:\n  $MOD_LEADER_SKILL_LEVELS$:§G+2§!\n  $MOD_LEADER_SPECIES_EXP_GAIN$:§G+100%§!"
 
- civic_tooltip_gpm_precursor_world_machine_effects:0 "§Y$COUNTRY_MODIFIER$§!:\n  $MOD_POP_AMENITIES_USAGE_BASE$:§R+10%§!\n\n§Y$sys_homeworld$§!:\n  拥有§E先驱者废墟§!\n  获得§G2§!个§E先驱者§!$PLANET_MODIFIER$\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y被遗忘者§!特质，带来:\n  $MOD_LEADER_SKILL_LEVELS$:§G+2§!\n  $MOD_LEADER_SPECIES_EXP_GAIN$:§G+100%§!"
+ civic_tooltip_gpm_precursor_world_machine_effects:0 "§Y帝国§!:\n  $MOD_POP_AMENITIES_USAGE_BASE$:§R+10%§!\n\n§Y$sys_homeworld$§!:\n  拥有§E先驱者废墟§!\n  获得§G2§!个§E先驱者§!$PLANET_MODIFIER$\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y被遗忘者§!特质，带来:\n  $MOD_LEADER_SKILL_LEVELS$:§G+2§!\n  $MOD_LEADER_SPECIES_EXP_GAIN$:§G+100%§!"
  
 
- civic_tooltip_gpm_fallen_empire_colony_effects:0 "§Y$COUNTRY_MODIFIER$§!:\n  $MOD_COUNTRY_INFLUENCE_GAIN_ADD$:§G+1§!\n  $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$:§R-10%§!\n\n§Y$sys_homeworld$§!:\n获得§G2§!个§H$COUNTRY_FALLEN_EMPIRE$§!$PLANET_MODIFIER$\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y受到尊崇的新生命§!特质，带来:\n  其他帝国对我们的$MOD_COUNTRY_TRUST_GROWTH$:§G+15%§!\n  §H$COUNTRY_FALLEN_EMPIRE$§!对我们的$OPINION$:§G+40§!"
+ civic_tooltip_gpm_fallen_empire_colony_effects:0 "§Y帝国§!:\n  $MOD_COUNTRY_INFLUENCE_GAIN_ADD$:§G+1§!\n  $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$:§R-10%§!\n\n§Y$sys_homeworld$§!:\n获得§G2§!个§H$COUNTRY_FALLEN_EMPIRE$§!$PLANET_MODIFIER$\n\n§Y$FOUNDER_SPECIES$§!:\n获得§Y受到尊崇的新生命§!特质，带来:\n  其他帝国对我们的$MOD_COUNTRY_TRUST_GROWTH$:§G+15%§!\n  §H$COUNTRY_FALLEN_EMPIRE$§!对我们的$OPINION$:§G+40§!"
  
  
  civic_gpm_death_world:0 "死亡世界"
@@ -20,4 +20,4 @@
  civic_gpm_precursor_world_desc:0 "出生在银河中某个毁灭的先驱者星球上。你的物种从古老的低温休眠系统中苏醒。成千上万的古老文明遗迹如今依旧存在。你能在繁星中找到你应有的位置吗？"
  civic_gpm_precursor_world_machine_desc:0 "$civic_gpm_precursor_world_desc$"
  civic_gpm_fallen_empire_colony:0 "$COUNTRY_FALLEN_EMPIRE$的殖民地"
- civic_gpm_fallen_empire_colony_desc:0 "出生在银河系中某个被遗忘的§H$COUNTRY_FALLEN_EMPIRE$§!的殖民地上。你的物种古老悠久并得到远古看护人的精心照料。这个星球配置着完整的乌托邦式的自洽系统，确保你的物种永远衣食无缺。"
+ civic_gpm_fallen_empire_colony_desc:0 "出生在银河系中某个被遗忘的§H失落帝国§!殖民地上。你的物种古老悠久并得到远古看护人的精心照料。这个星球配置着完整的乌托邦式的自洽系统，确保你的物种永远衣食无缺。"

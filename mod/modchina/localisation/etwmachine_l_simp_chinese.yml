@@ -165,7 +165,7 @@
  building_eternal_dome_ai:0 "栖息地扇区"
  building_eternal_dome_ai_desc:0 "我们的智械需要良好的四分之一和面积，以便他们做的工作。"
  building_eternal_fortress_ai:0 "AI堡垒核心"
- building_eternal_fortress_ai_desc:0 "一旦受到攻击，堡垒核心提供必要的保护来拯救帝国最珍贵的机器。"
+ building_eternal_fortress_ai_desc:0 "如果受到攻击，堡垒核心提供必要的保护来拯救帝国最珍贵的机器。"
  ANCIENT_MACHINE:0 "拥有无数年历史的智械"
  ETERNAL_CONCIOUSNESS:0 "一种神秘的AI意识"
  

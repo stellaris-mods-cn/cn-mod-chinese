@@ -1,0 +1,26 @@
+﻿l_simp_chinese:
+
+mdfrw_ringworld_district_mining_uncapped:0 "采矿区段"
+mdfrw_ringworld_district_mining_uncapped_plural:0 "采矿区段"
+mdfrw_ringworld_district_mining_uncapped_desc:0 "这一区段专门用于提取环形世界地面上的矿物残渣。"
+
+mdfrw_ringworld_col_mining:0 "矿业环世界"
+mdfrw_ringworld_col_mining_desc:0 "露天矿、采石场、钻孔和重型机械占据了这一区划的表面。"
+
+mdfrw_ringworld_col_rural:0 "田园世界"
+mdfrw_ringworld_col_rural_desc:0 "该区域的生产性质与主要城市中心的需求相匹配。"
+
+mdfrw_ringworld_col_rural_gestalt:0 "边缘世界"
+mdfrw_ringworld_col_rural_gestalt_desc:0 "这一区划是一个人口稀少的世界，处于集体的边缘。"
+
+tech_mdfrw_extensive_mining:0 "丰富的矿产"
+tech_mdfrw_extensive_mining_desc:0 "组织覆盖广大区划的大型预制浅层采矿站网络的技术和方法。"
+
+decision_mdfrw_wide_mining_strategy:0 "宽矿业战略"
+decision_mdfrw_wide_mining_strategy_desc:0 "若干筹备性基础设施项目将使我们能够在这一节的广大区划开始广泛采矿。"
+
+decision_mdfrw_wide_mining_strategy_effects_short:0 "增加§Y环世界矿业区划§!§Y矿工§!工作和§Y住房§!"
+decision_mdfrw_wide_mining_strategy_effects_custom:0 "§Y环世界矿业区划§! :\n    £mod_job_miner_add£矿工工作: §G+10§!\n    £housing£ 住房: §G+10§!"
+
+mdfrw_wide_mining_infrastructure_modifier:0 "宽矿业基础设施"
+mdfrw_wide_mining_infrastructure_modifier_desc:0 "这个区段提供了有效开采矿物的基础设施。"

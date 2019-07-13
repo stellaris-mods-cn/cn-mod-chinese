@@ -35,28 +35,115 @@
  gpm_infested:0 "£military_power_boss §R 被感染的星球§!"
 
  ####################################
- # Discovery Rewards
+ #被发现 Rewards
  ####################################
- Precursor_Remnants_Discovery:0 "古代遗迹被发现"
- Precursor_Energy_Grid_Discovery:0 "古代能源网络被发现"
- Precursor_Satellite_Grid_Discovery:0 "古代卫星网络被发现"
- Precursor_City_Discovery:0 "古代都市被发现"
- Precursor_Shipyards_Discovery:0 "古代造船厂被发现"
- Precursor_Planetary_Gun_Discovery:0 "古代行星兵器被发现"
- Precursor_Bunker_Grid_Discovery:0 "古代地堡网格被发现"
- Precursor_Mechs_Discovery:0 "古代机甲被发现"
- Precursor_Planetary_Shield_Discovery:0 "古代行星护盾被发现"
- Precursor_Floating_City_Discovery:0 "古代浮游都市被发现"
- Precursor_Capital_Complex_Discovery:0 "古代首都综合设施被发现"
- Precursor_Communication_Hub_Discovery:0 "古代通讯枢纽被发现"
- Precursor_Singularity_Drive_Discovery:0 "古代奇点驱动被发现"
+ Precursor_Remnants_Discovery:0 "先驱者遗迹被发现"
+ Precursor_Remnants_Discovery_2:0 "先驱者遗迹被发现"
+ Precursor_Energy_Grid_Discovery:0 "先驱者能源网络被发现"
+ Precursor_Energy_Grid_Discovery_2:0 "先驱者能源网络被发现"
+ Precursor_Satellite_Grid_Discovery:0 "先驱者卫星网络被发现"
+ Precursor_Satellite_Grid_Discovery_2:0 "先驱者卫星网络被发现"
+ Precursor_City_Discovery:0 "先驱者城市被发现"
+ Precursor_City_Discovery_2:0 "先驱者城市被发现"
+ Precursor_Shipyards_Discovery:0 "先驱者造船厂被发现"
+ Precursor_Shipyards_Discovery_2:0 "先驱者造船厂被发现"
+ Precursor_Planetary_Gun_Discovery:0 "先驱者行星枪被发现"
+ Precursor_Planetary_Gun_Discovery_2:0 "先驱者行星枪被发现"
+ Precursor_Bunker_Grid_Discovery:0 "先驱者堡垒网络被发现"
+ Precursor_Bunker_Grid_Discovery_2:0 "先驱者网络被发现"
+ Precursor_Mechs_Discovery:0 "先驱者机甲被发现"
+ Precursor_Mechs_Discovery_2:0 "先驱者机甲被发现"
+ Precursor_Planetary_Shield_Discovery:0 "先驱者星球护盾被发现"
+ Precursor_Planetary_Shield_Discovery_2:0 "先驱者星球护盾被发现"
+ Precursor_Floating_City_Discovery:0 "先驱者浮动城市被发现"
+ Precursor_Floating_City_Discovery_2:0 "先驱者浮动城市被发现"
+ Precursor_Capital_Complex_Discovery:0 "先驱者首都综合体被发现"
+ Precursor_Capital_Complex_Discovery_2:0 "先驱者首都综合体被发现"
+ Precursor_Communication_Hub_Discovery:0 "先驱者通讯枢纽被发现"
+ Precursor_Communication_Hub_Discovery_2:0 "先驱者通讯枢纽被发现"
+ Precursor_Singularity_Drive_Discovery:0 "先驱者奇点驱动器被发现"
+ Precursor_Singularity_Drive_Discovery_2:0 "先驱者奇点驱动器被发现"
+ 
+ Precursor_Eternal_Fortress_Discovery:0 "先驱者永恒堡垒被发现"
+ Precursor_Eternal_Fortress_Discovery_2:0 "先驱者永恒堡垒被发现"
+ Precursor_Prison_Planet:0 "先驱者监狱被发现"
+ Precursor_Prison_Planet_2:0 "先驱者监狱被发现"
+ Precursor_Mines:0 "先驱者矿业被发现"
+ Precursor_Mines_2:0 "先驱者矿业被发现"
+ Precursor_Manufactorium:0 "先驱者制造厂被发现"
+ Precursor_Manufactorium_2:0 "先驱者制造厂被发现"
+ Precursor_Vaults:0 "先驱者拱顶被发现"
+ Precursor_Vaults_2:0 "先驱者拱顶被发现"
+ Precursor_Crashed_Spacestation:0 "先驱者坠毁的空间站被发现"
+ Precursor_Crashed_Spacestation_2:0 "先驱者坠毁的空间站被发现"
+ Precursor_Battleground_Ruins:0 "先驱者战场被发现"
+ Precursor_Battleground_Ruins_2:0 "先驱者战场被发现"
+ Precursor_Outpost_Ruins:0 "先驱者前哨站被发现"
+ Precursor_Outpost_Ruins_2:0 "先驱者前哨站被发现"
+ Precursor_Harbor_Ruins:0 "先驱者港口被发现"
+ Precursor_Harbor_Ruins_2:0 "先驱者港口被发现"
+ Precursor_Ruins:0 "先驱者废墟被发现"
+ Precursor_Ruins_2:0 "先驱者废墟被发现"
+ Precursor_Obelisks:0 "先驱者方尖碑被发现"
+ Precursor_Obelisks_2:0 "先驱者方尖碑被发现"
+ 
+ gpm_Very_Hot_Core_Discovery:0 "热核心被发现"
+ gpm_Very_Hot_Core_Discovery_2:0 "热核心被发现"
+ gpm_Gaia_World_Discovery:0 "盖亚星球被发现"
+ gpm_Gaia_World_Discovery_2:0 "盖亚星球被发现"
+ gpm_Holy_World_Discovery:0 "圣地被发现"
+ gpm_Holy_World_Discovery_2:0 "圣地被发现"
+ gpm_Floating_Islands_Discovery:0 "浮岛被发现"
+ gpm_Floating_Islands_Discovery_2:0 "浮岛被发现"
+ gpm_Ruined_Battlefield_Discovery:0 "战场废墟被发现"
+ gpm_Ruined_Battlefield_Discovery_2:0 "战场废墟被发现"
+ gpm_Spaceship_Graveyard_Discovery:0 "飞船墓地被发现"
+ gpm_Spaceship_Graveyard_Discovery_2:0 "飞船墓地被发现"
+ gpm_Artificial_Water_Discovery:0 "人造水被发现"
+ gpm_Artificial_Water_Discovery_2:0 "人造水被发现"
+ gpm_Android_Pleasure_Palace_Discovery:0 "游乐宫被发现"
+ gpm_Android_Pleasure_Palace_Discovery_2:0 "游乐宫被发现"
+ gpm_Ancient_Temple_Discovery:0 "先驱者寺庙被发现"
+ gpm_Ancient_Temple_Discovery_2:0 "先驱者寺庙被发现"
+ gpm_Crystal_Moon_Palace_Discovery:0 "水晶宫被发现"
+ gpm_Crystal_Moon_Palace_Discovery_2:0 "水晶宫被发现"
+ gpm_Plasmoid_Life_Discovery:0 "等离子体生命被发现"
+ gpm_Plasmoid_Life_Discovery_2:0 "等离子体生命被发现"
+ gpm_Temple_of_the_Ancient_One_Discovery:0 "先驱者一被发现"
+ gpm_Temple_of_the_Ancient_One_Discovery_2:0 "先驱者一被发现"
+ gpm_Proto_Forests_Discovery:0 "原始森林被发现"
+ gpm_Proto_Forests_Discovery_2:0 "原始森林被发现"
+ gpm_Hiveworld_Discovery:0 "蜂巢星球被发现"
+ gpm_Hiveworld_Discovery_2:0 "蜂巢星球被发现"
+ gpm_Arachnophobia_Discovery:0 "巨型蛛形纲被发现"
+ gpm_Arachnophobia_Discovery_2:0 "巨型蛛形纲被发现"
+ gpm_Giant_Worm_Discovery:0 "巨型蠕虫被发现"
+ gpm_Giant_Worm_Discovery_2:0 "巨型蠕虫被发现"
+ gpm_Artificial_Core_Discovery:0 "人造核心被发现"
+ gpm_Artificial_Core_Discovery_2:0 "人造核心被发现"
+ gpm_Surface_Of_Bones_Discovery:0 "死亡星球"
+ gpm_Surface_Of_Bones_Discovery_2:0 "死亡星球"
+ gpm_Strange_Alien_Eggs_Discovery:0 "外星蛋被发现"
+ gpm_Strange_Alien_Eggs_Discovery_2:0 "外星蛋被发现"
+ gpm_Mushroom_Forest_Discovery:0 "蘑菇星球被发现"
+ gpm_Mushroom_Forest_Discovery_2:0 "蘑菇星球被发现"
+ 
+
+
+
+
+
+
+
+
+
 
  ####################################
  # Naming stuff
  ####################################
 
- gpm_precursor_shipyards_star:0 "$cybrex_precursor_civ$造船厂"
- gpm_precursor_shipyards_star_rs:0 "$cybrex_precursor_civ$造船厂"
+ gpm_precursor_shipyards_star:0 "塞博勒克斯造船厂"
+ gpm_precursor_shipyards_star_rs:0 "塞博勒克斯造船厂"
  gpm_precursor_shipyards_30:0 "先驱者造船厂"
  gpm_precursor_shipyards_25:0 "$gpm_precursor_shipyards_30$"
  gpm_precursor_shipyards_24:0 "$gpm_precursor_shipyards_30$"
@@ -103,40 +190,24 @@
 
  gpm_Robot_Lover:0 "机器情人"
  gpm_Robot_Lover_Plural:0 "机器情人"
- 
- gpm_arcane_technology:0 "远古先驱科技"
- gpm_arcane_technology_desc:0 "奇怪的先进技术。我们的理解是如此的有限，就像魔法一样。"
- 
+
  gpm_binary_asteroids:0 "[gpm_double_asteroid.GetName]的双子星"
  gpm_binary_pulsars:0 "[gpm_double_pulsar.GetName]的姊妹星"
- 
- planet_resource_energy_add:0 "行星能量"
- planet_resource_physics_research_add:0 "星球物理学研究"
- planet_resource_society_research_add:0 "星球社会学研究"
- planet_resource_engineering_research_add:0 "星球工程学研究"
  
  sm_gpm_precursor_shipyards_uplink:0 "先驱者造船上行链路"
  sm_gpm_precursor_shipyards_uplink_desc:0 "这个特别设计的上行链路连接着这个星系中古老的先驱造船厂。我们的行星基地将能够将新的船舶设计委托给先驱者造船厂建造。\n"
  
+ 
+ ####################################
+ ### Buildings 
+ ####################################
+  
  gpm_building_stronghold:0 "废弃的先驱者地堡指挥中心"
  gpm_building_stronghold_desc:0 "这个指挥中心将有效指挥你的防御部队部署到不同的堡垒内。在有限的时间内便能形成更多的掩体。"
  
- gpm_building_ancient_factory:0 "§H破损的矿物制造厂§!"
- gpm_building_ancient_factory_desc:0 "$building_ancient_factory_desc$"
- gpm_building_dark_matter_power_plant:0 "§H劣化能源发电机§!"
- gpm_building_dark_matter_power_plant_desc:0 "$building_dark_matter_power_plant_desc$"
- gpm_building_ancient_archives:0 "§H损毁的档案馆§!"
- gpm_building_ancient_archives_desc:0 "$building_ancient_archives_desc$"
- gpm_building_agri_processing_complex:0 "§H破损的农业设施§!"
- gpm_building_agri_processing_complex_desc:0 "$building_agri_processing_complex_desc$"
- 
- gpm_building_precursor_factory:0 "§E古代制造厂§!"
- gpm_building_precursor_factory_desc:0 "$building_ancient_factory_desc$"
- gpm_building_precursor_power_plant:0 "§E古代能源发电机§!"
- gpm_building_precursor_power_plant_desc:0 "$building_dark_matter_power_plant_desc$"
- gpm_building_precursor_processing_complex:0 "§E古代农业综合设施§!"
- gpm_building_precursor_processing_complex_desc:0 "$building_agri_processing_complex_desc$"
- 
+ gpm_building_mining_nanite_nexus:0 "矿用纳米晶体"
+ gpm_building_mining_nanite_nexus_desc:0 "我们的纳米矿储存和控制中心。这些纳米岩一旦释放，就会挖出一条光滑的大隧道，通向任何其他无法到达的矿脉。"
+
  ####################################
  # Game Start Manu
  ####################################
@@ -144,8 +215,9 @@
  gpm_start_menu.1.name:0 "$PLANET_MODIFIER$数量设置"
  gpm_start_menu.1.desc:0 "选择想要产生的$PLANET_MODIFIER$数量。 \n该操作也会影响到在$pc_ringworld_habitable$、$pc_habitat$上形成的地形。\n\n效果将在取消暂停后大约1-3天后生效。\n§H这可能会需要等待几秒钟。§! "
 
- # \n\n§HTip:§! §LHover over the technology resource income on the top bar to see how many§! £gpm_arcane_technology  §BPrecursor Archeotech§! §Lyou have gathered.\nThese are used to pay for powerful edicts.§!
-
+ gpm_start_menu.1.max_one:0 "少量修正: 每个星球§Y0§! - §Y1§!"
+ gpm_start_menu.1.max_oneTT:224 "将行星修正的最大数量设置为1。\n有了这个设置，每个星球将有至多一个行星修正。\n§R这将开始游戏!§!\n\n§H修正产生的机会§!:\n  §G宜居行星:§! 85%\n  §G不宜居行星:§! 50%"
+ 
  gpm_start_menu.1.low:0 "少量：每个星球0到2个"
  gpm_start_menu.1.lowTT:224 "将$PLANET_MODIFIER$数量设置为低。\n§R这将开始游戏!§!"
  gpm_start_menu.1.normal:0 "一般：每个星球0到3个 (§G推荐§!)"
@@ -169,6 +241,8 @@
  gpm_start_menu.2.enable_planetary_rings:0 "£options_icon  §G启用行星环§!"
  gpm_start_menu.2.enable_arcane_technology:0 "£options_icon  §G启用远古先驱科技§!"
  gpm_start_menu.2.disable_arcane_technology:0 "£options_icon  §R禁用远古先驱科技§!"
+ gpm_start_menu.2.enable_precursor_ai_chain:0 "£options_icon  §G启用AI先驱者事件链§!"
+ gpm_start_menu.2.disable_precursor_ai_chain:0 "£options_icon  §R禁用AI先驱者事件链§!"
 
  gpm_start_menu.2.disable_precursorTT:0 "§H单击此可禁用先驱者$MODIFIERS$§!\n这将阻止先驱者$MODIFIERS$在星系中生成。"
  gpm_start_menu.2.enable_precursorTT:0 "§H单击此可启用先驱者$MODIFIERS$§!"
@@ -182,8 +256,9 @@
  gpm_start_menu.2.enable_wondersTT:0 "§H单击此可启用行星奇迹$MODIFIERS$§!"
  gpm_start_menu.2.disable_planetary_ringsTT:0 "§H单击此可禁用行星环§!\n这将阻止行星环及其丰富的资源在星系中生成。"
  gpm_start_menu.2.enable_planetary_ringsTT:0 "§H单击此可启用行星环§!"
- gpm_start_menu.2.disable_arcane_technologyTT:0 "§H单击此处可禁用 §! £arcane_technology  §M远古先驱科技§!\n这不会从UI中移除资源，但是会阻止任何使用 £arcane_technology §M远古先驱科技§!资源、建筑和法令的出现。"
- gpm_start_menu.2.enable_arcane_technologyTT:0 "§H单击此处启用§! £arcane_technology §M远古先驱科技§!"
+
+ gpm_start_menu.2.disable_precursor_ai_chainTT:0 "§H单击此处可禁用 §! £arcane_technology  §M远古先驱科技§!\n这不会从UI中移除资源，但是会阻止任何使用 £arcane_technology §M远古先驱科技§!资源、建筑和法令的出现。"
+ gpm_start_menu.2.enable_precursor_ai_chainTT:0 "§H单击此处启用§! £arcane_technology §M远古先驱科技§!"
 
   gpm_start_menu.2.back:0 "§Y回到主菜单§!"
  gpm_start_menu.2.backTT:0 "返回主菜单开始。"
@@ -192,7 +267,7 @@
  ####################################
  # cheats 
  ####################################
- gpm_debug_cheat_modifier:0 "星球$MODIFIERS$调试-KAPPA"
+ gpm_debug_cheat_modifier:0 "调试修改KAPPA"
  gpm_debug_cheat_modifier_desc:0 "你作弊了吧，你个小坏蛋！"
  
  opinion_respected_species:0 "尊崇之子"
@@ -233,6 +308,14 @@
  ####################################
  # Modifiers localisation
  ####################################
+ mod_planet_districts_minerals_cost_add:0 "行星区划矿物成本"
+ mod_planet_buildings_minerals_cost_add:0 "行星建筑矿物成本"
+ mod_ship_components_alloys_cost_add:0 "舰船组件合金成本"
+ mod_ship_components_alloys_cost_mult:0 "舰船组件合金成本"
+ mod_ship_upgrades_alloys_cost_mult:0 "舰船升级合金成本"
+ mod_starbase_outpost_influence_cost_add:224 "恒星基地前哨站影响力成本"
+ mod_station_observer_missions_society_research_produces_mult:224 "原始观察社会学研究"
+ mod_stations_energy_upkeep_mult:224 "空间站能量币维护"
  mod_planet_buildings_energy_upkeep_mult:0 "建筑 £energy£ 能量币维护"
  mod_planet_districts_energy_upkeep_mult:0 "区划 £energy£ 能量币维护"
  mod_planet_districts_time_cost_mult:0 "区划建设时间"
@@ -241,7 +324,23 @@
  mod_edicts_influence_cost_mult:0 "法令影响力成本:"
  MOD_SHIP_ARMOR_ADD:0 "舰船装甲生命值"
  MOD_SHIP_ARMOR_MULT:0 "舰船装甲生命值"
-
+ mod_pop_ethic_fanatic_spiritualist_attraction_mult:0 "极端唯心主义吸引力"
+ mod_planet_districts_minerals_cost_mult: "区划矿物成本"
+ mod_ship_sections_alloys_cost_mult:0 "舰船区块合金成本"
+ mod_country_base_physics_research_produces_add:0 "每月£physics_research£物理学研究"
+ mod_country_base_society_research_produces_add:0 "每月£society_research£社会学研究"
+ mod_country_base_engineering_research_produces_add:0 "每月£engineering_research£工程学研究"
+ mod_country_base_minor_artifacts_produces_add:0 "每月£minor_artifacts£遗物"
+ mod_country_base_nanites_produces_add:0 "每月£nanites£纳米"
+ mod_ship_sections_alloy_cost_multi:0 "舰船£alloys£合金成本"
+ mod_planet_refiners_exotic_gases_produces_add:0 "£job_gas_refiner£精炼者£exotic_gases£外来气体"
+ mod_planet_chemists_volatile_motes_produces_add:0 "£job_chemist£化学家£volatile_motes£易爆微粒"
+ mod_planet_translucers_rare_crystals_produces_add:0 "£job_translucer££rare_crystals£稀有水晶"
+ mod_planet_soldiers_unity_produces_add:0 "£job_soldier£军人£unity£凝聚力"
+ mod_starbases_energy_upkeep_mult:0 "恒星基地£energy£能量币维护"
+ mod_point_defence_weapon_fire_rate_mult:0 "点防御武器射速"
+ 
+ 
  ####################################
  # Edicts Localisation
  ####################################

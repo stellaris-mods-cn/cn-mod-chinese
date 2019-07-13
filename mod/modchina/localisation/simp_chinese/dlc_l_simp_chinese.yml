@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
  job_cocoon:0 "茧护者"
  job_cocoon_plural:0 "茧护者"
- job_cocoon_desc:0 "看护人在茧中工作，帮助茧完成日常杂务，如喂食、清洁和保养。"
+ job_cocoon_desc:0 "茧护者在茧中工作，帮助茧完成日常杂务，如喂食、清洁和保养。"
 
  building_cocoons_plant:0 "人工茧"
  building_cocoons_plant_desc:0 "结茧的特殊建筑。"

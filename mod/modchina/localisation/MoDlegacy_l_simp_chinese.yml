@@ -1,0 +1,53 @@
+﻿l_simp_chinese:
+ 
+ # ###################################
+ # Decisions
+ # ###################################
+ 
+ decision_mastery_of_nature_ii:0 "掌控自然"
+ decision_mastery_of_nature_ii_desc:0 "$decision_mastery_of_nature_desc$"
+ decision_low_orbit_urbanisation:0 "$d_O_LOU_deposit$"
+ decision_low_orbit_urbanisation_desc:0 "建造低轨道居住区需要对星球的低轨道卫星网络和交通控制基础设施进行大规模的改造，还需要高质量的低重量合金。星球第三产业的一部分可以在不损失效率的情况下重新定位，商业活动甚至可以从中受益，从而为星球表面腾出空间。"
+ decision_subterranean_urbanisation:0 "$d_U_SU_deposit$"
+ decision_subterranean_urbanisation_desc:0 "永远不会有足够的空间。无论是在星球表面上，天空中，宇宙中，还是任何地方。一个简单实用的概念。如果原始人能把石头堆成金字塔，我们肯定能挖个洞钻进去。当然，住在那里会是些最不富裕的人，但我有钱，我为什么要在乎。"
+ decision_autonomous_ptn:0 "$d_SaHR_ATN_deposit$"
+ decision_autonomous_ptn_desc:0 "银河新闻电台报道：[67%的城市立体交通工具上只有一人][太空摩纳哥拥有的火箭比人还多][Xracon计划取消燃油税][点击这里阅读更多新闻] \n我们已经摆脱了过度消费这种没效率的行为，由此我们可以获得更多的空间并减少污染。但要说服所有人出行工具不是衡量生活质量的标准并不容易，而且也不能说服公司停止告诉人们为什么他们每三年就需要一枚新的火箭，但到最后，一切都将是最好的。我们必须准备好退还数万亿辆汽车，然后这些汽车可以被回收，用于基础设施改造，用于承担或交易一些早期太空时代的原始设备。"
+ decision_verticalised_farming:0 "$d_Sv_VFD_deposit$"
+ decision_verticalised_farming_desc:0 "长官，根据最新的报告，$personality_fallen_empire_machine$已经完成农业立体化了。\n什么？机器人，农业？你在逗我么？？\n我不是这个意思长官，立体农业，我的意思是可以在天上搞农业。\n嗯....这是个好主意！我只需要点开我的决策AI！\n 非常感谢长官！我就知道你明白其中的天才想法，这样土地浪费就会减少，我们可以建造很多的娱乐中心....长官？\n哦，是的，当然，农业，是的，当然，这就是我所说的。"
+ 
+ # ###################################
+ # Modifiers
+ # ###################################
+ 
+ mastery_of_nature_1:0 "$decision_mastery_of_nature_ii$"
+ mastery_of_nature_1_desc:0 "$decision_mastery_of_nature_desc$"
+ mastery_of_nature_2:0 "$decision_mastery_of_nature_ii$"
+ mastery_of_nature_2_desc:0 "$decision_mastery_of_nature_desc$"
+ low_orbit_urbanisation_1:0 "$decision_low_orbit_urbanisation$"
+ low_orbit_urbanisation_1_desc:0 "$decision_low_orbit_urbanisation_desc$"
+ low_orbit_urbanisation_2:0 "$decision_low_orbit_urbanisation$"
+ low_orbit_urbanisation_2_desc:0 "$decision_low_orbit_urbanisation_desc$"
+ low_orbit_urbanisation_3:0 "$decision_low_orbit_urbanisation$"
+ low_orbit_urbanisation_3_desc:0 "$decision_low_orbit_urbanisation_desc$"
+ subterranean_urbanisation_1:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_1_desc:0 "$decision_subterranean_urbanisation_desc$"
+ subterranean_urbanisation_2:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_2_desc:0 "$decision_subterranean_urbanisation_desc$"
+ subterranean_urbanisation_3:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_3_desc:0 "$decision_subterranean_urbanisation_desc$"
+ subterranean_urbanisation_4:0 "$decision_subterranean_urbanisation$"
+ subterranean_urbanisation_4_desc:0 "$decision_subterranean_urbanisation_desc$"
+ autonomous_ptn_1:0 "$decision_autonomous_ptn$"
+ autonomous_ptn_1_desc:0 "$decision_autonomous_ptn_desc$"
+ autonomous_ptn_2:0 "$decision_autonomous_ptn$"
+ autonomous_ptn_2_desc:0 "$decision_autonomous_ptn_desc$"
+ autonomous_ptn_tmp:0 "引起争论的星球决议"
+ #"YOU MAY TAKE OUR RIGHTS BUT YOU WON'T TAKE OUR ROCKETS"
+ autonomous_ptn_tmp_desc:0 "每个人都为不得不使用公共空间电梯而高兴，好像这是世界末日，但总有一天他们会看到光明。"
+ vertical_fm_1:0 "$decision_verticalised_farming$"
+ vertical_fm_1_desc:0 "$decision_verticalised_farming_desc$"
+ vertical_fm_2:0 "$decision_verticalised_farming$"
+ vertical_fm_2_desc:0 "$decision_verticalised_farming_desc$"
+ vertical_fm_3:0 "$decision_verticalised_farming$"
+ vertical_fm_3_desc:0 "$decision_verticalised_farming_desc$"
+ 

@@ -246,7 +246,7 @@
 
 # Avatar construction events
  avatar_constructor_01.name:0 "确认"
- avatar_constructor_01.desc:0 "请确认你的操作。\n\n§H警告: 化身平台准备开始建造部署，一旦进入建设部署之后将无法移动且会极其容易受到攻击。§!"
+ avatar_constructor_01.desc:0 "请确认你的操作。\n\n§H警告: 化身平台准备开始建造部署，如果进入建设部署之后将无法移动且会极其容易受到攻击。§!"
  avatar_constructor_01.a:0 "确认建设部署"
  avatar_constructor_01.b:0 "取消建设部署"
  avatar_constructor_01.c:0 "取消"

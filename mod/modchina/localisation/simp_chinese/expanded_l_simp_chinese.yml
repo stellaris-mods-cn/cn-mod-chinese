@@ -46,10 +46,6 @@ INVESTIGATING_LOCUSTS_PROJECT:0 "研究太空昆虫"
 INVESTIGATING_LOCUSTS_PROJECT_DESC:0 "调查进入我们空间奇怪的太空昆虫。"
 PROTECT_AGAINST_LOCUSTS_PROJECT:0 "可怕的蝗虫"
 PROTECT_AGAINST_LOCUSTS_PROJECT_DESC:0 "找到一种方法来保护我们的世界不受贪婪的太空出生的昆虫的侵害，这些昆虫已经进入了我们的星系。"
-INVESTIGATE_SUNLESS_SEA_1_PROJECT:0 "调查[From.GetName]"
-INVESTIGATE_SUNLESS_SEA_1_PROJECT_DESC:0 "[From.GetName]充满了奇怪的辐射和未解之谜。有必要进一步调查。"
-INVESTIGATE_SUNLESS_SEA_2_PROJECT:0 "揭开隐藏的洞穴"
-INVESTIGATE_SUNLESS_SEA_2_PROJECT_DESC:0 "[From.From.GetName]上的当地人似乎逃到了地下。调查这些洞穴，看看是否还有活着的。"
 CRYSTAL_LIFE_PROJECT:0 "水晶生命"
 CRYSTAL_LIFE_PROJECT_DESC:0 "研究[From.GetName]上发现的不寻常晶体的潜在的类生命性质。"
 WARP_BEAST_RESEARCH_PROJECT:0 "变形兽研究"
@@ -72,6 +68,10 @@ PANSPERMIA_PROJECT:0 "归心似箭"
 PANSPERMIA_PROJECT_DESC:0 "调查我们家园的生命是否起源于银河系的另一个星球。"
 OBSERVER_END_PROJECT:0 "把它们放在一起"
 OBSERVER_END_PROJECT_DESC:0 "研究我们收集的数据，以确定是谁在我们的家园建立了观察哨。"
+ORGANIC_STARHIP_PROJECT:0 "有机星际飞船"
+ORGANIC_STARHIP_PROJECT_DESC:0 "在[From.GetName]上研究回收的有机星际飞船样本，以更好地了解它是如何生长的。"
+AKX_SUNLESS_SKIES:0 "阴暗的天空"
+AKX_SUNLESS_SKIES_DESC:0 "[From.Planet.GetName]上无法解释的辐射可能与星系的恒星有关。"
 
 ####################################
 # 	EVENT CHAINS
@@ -122,6 +122,30 @@ war_goal_wg_stop_robots_desc:0 "战争是为了迫使敌人放弃对人工智能
 war_goal_wg_kill_robots:0 "清洗"
 war_goal_wg_kill_robots_desc:0 "战争的目的是把敌人从银河系的表面清洗干净。"
 
+####################################
+# 	Bombardment Stance
+####################################
+
+bombardment_asteroid_strike:0 "小行星"
+bombardment_armageddon_desc:3 "$bombardment_asteroid_strike$用拖着的小行星轰击覆盖星球，其明确目标是使行星受到的破坏达到最大。\n- §Y中等§!§Y军队§!伤害\n- §R极端§!§Y星球§!伤害 \n- §R大量§!§Y人口§!伤害 \n- 轰炸没有防御的星球\n- 能把行星变成可地貌改造的荒芜星球"
+actionexp.2.desc:0 "一支属于§H[From.From.GetName]§!的舰队在进行了大规模和无情的轨道轰炸后屠杀了§H[From.GetName]§!的人口，地面上所有的人口中心都被系统地摧毁，[From.GetPlanetMoon]变成了一片无法维持生命的贫瘠荒地。"
+actionexp.3.desc:0 "我们的部队报告说，他们已经结束了对§H[From.GetName]§!的轨道轰炸。所有的人口中心都已被系统地铲除，贫瘠的[From.GetPlanetMoon]现在无法维持生命。"
+bombed_to_barren_world:0 "§Y[From.GetName]现在是一个人口稀少的贫瘠星球。§!"
+
+####################################
+# 	Technologies
+####################################
+
+tech_pain_farms:0 "牲畜放牧"
+tech_pain_farms_desc:0 "改进的粮食收割技术将使牲畜更美味，更听话。"
+tech_asteroid_strike:0 "小行星撞击"
+tech_asteroid_strike_desc:0 "战术小行星撞击,从大气层高度坠至星球,可以对行星造成沉重的伤害。"
+ASTEROID_STRIKE_BOMBARDMENT:0 "允许$bombardment_asteroid_strike$轨道轰炸"
+tech_space_elevator:0 "太空电梯"
+tech_space_elevator_desc:0 "一个专用的太空电梯可以相对容易地将货物从地面运送到地面。"
+tech_hidden_worm:0 "沉睡蠕虫苏醒"
+tech_hidden_worm_desc:0 "在整个银河系都发现了巨大的蠕虫类生物。"
+WORM_BOMBARDMENT:0 "允许激活休眠蠕虫"
 
 ####################################
 # 	Buildings and Districts
@@ -129,6 +153,11 @@ war_goal_wg_kill_robots_desc:0 "战争的目的是把敌人从银河系的表面
 
 building_zro_harvesters:0 "泽洛香料矿"
 building_zro_harvesters_desc:1 "这些强大的移动设备从世界各地的沙丘中提取和净化泽洛矿物。必须非常小心，不要惊扰附近的蠕虫。"
+building_pain_farms:0 "牲畜牧场"
+building_pain_farms_desc:0 "这个巨大而壮观的设施是用来处理和收获奴隶牲畜和消灭任何抵抗的痕迹。"
+
+sm_orbital_shipyard:0 "轨道造船厂"
+sm_orbital_shipyard_desc:0 "轨道铸造厂与当地的太空电梯相连，使建筑流线型。"
 
 ####################################
 # 	Jobs
@@ -154,6 +183,44 @@ decision_cunning_flora_perimeter_1_effects:0 "$decision_cunning_flora_perimeter_
 decision_cunning_flora_perimeter_2:0 "完成防守外线"
 decision_cunning_flora_perimeter_2_desc:0 "派遣士兵击退侵略性的植物，清除我们定居点周围的防御工事，让我们充分利用这个世界。"
 decision_cunning_flora_perimeter_2_effects:0 "$decision_cunning_flora_perimeter_2_desc$"
+decision_memorex:0 "Memorex增强学习计划"
+decision_memorex_desc:0 "$the_memorex_desc$"
+decision_pleasure_palace:0 "创建游乐宫"
+decision_pleasure_palace_desc:1 "这个栖息地将被重新配置成一个快乐的世界，吸引游客和来自远方的游客。"
+decision_pleasure_palace_effects_short:0 "增加所有其他行星上的£amenities£ §Y$MOD_PLANET_AMENITIES_MULT$§!"
+pleasure_palace_no_mining:0 "栖息地不能建在矿藏之上"
+decision_abolish_pleasure_palace:0 "废除游乐宫"
+decision_abolish_pleasure_palace_desc:1 "这个栖息地将不再被列为一个特殊的度假胜地。"
+decision_construct_space_elevator:0 "建造太空电梯"
+decision_construct_space_elevator_desc:0 "太空电梯将在这个星球上建造，使军事和民用运输更容易进出轨道。"
+decision_construct_space_elevator_effects_short:0 "可以建造§Y$sm_orbital_shipyard$§!星际基地建筑，提供额外的船厂插槽和允许更快的船建造。"
+shipyard_in_system:0 "在同一个星系必须有一个恒星基地造船厂"
+decision_worm_check:0 "检查沉睡蠕虫"
+decision_worm_check_desc:0 "仔细搜索这个星球，寻找任何可能被播种的隐藏生物。"
+decision_worm_check_effects_short:0 "$decision_worm_check_desc$"
+
+artifact_observer_clue:0 "观察者的洞察力"
+artifact_observer_clue_desc:0 "我们应该能够用这些人工制品拼凑出更多关于我们星球上观察哨建造者的谜团。"
+artifact_observer_clue_effect:0 "\n\n冷却: £time£ §Y3600§!"
+artifact_observer_clue_cooldown:0 "$artifact_observer_clue$ Cooldown"
+
+####################################
+# 	RELICS
+####################################
+
+r_memorex:0 "$the_memorex$"
+r_memorex_desc:0 "$the_memorex_desc$"
+relic_memorex:0 "§H解锁决策:§! §G$decision_memorex$§!，添加一颗行星§Y$the_memorex$§!修正，获得:\n$mod_planet_jobs_produces_mult$: §G+20%§!\n$PLANET_STABILITY_TITLE$: §G+5§!\n$mod_planet_pops_upkeep_mult$: §R+10%§!"
+
+####################################
+# 	Traits
+####################################
+
+trait_battle_bot:0 "战斗机器人"
+trait_battle_bot_desc:0 "§L单位是建立在一个强大的外骨骼，使他们在战场上有更大的优势。"
+trait_cold_survivor:0 "北极幸存者"
+trait_cold_survivor_desc:0 "§L当他们的星球遭遇突然的冰河时代时，这个物种在濒临灭绝时幸存了下来。"
+TRAIT_COLD_SURVIVOR_EFFECTS:0 "寒冷宜居性: §G+10%§!"
 
 ####################################
 # 	AMBIENT OBJECTS
@@ -162,3 +229,7 @@ decision_cunning_flora_perimeter_2_effects:0 "$decision_cunning_flora_perimeter_
 ancient_observation_outpost:0 "远古观察哨"
 ancient_observation_outpost_desc:0 "一个观测站的废墟懒洋洋地绕着这个星球转。"
 ancient_observation_outpost_tooltip:0 "$ancient_observation_outpost_desc$"
+
+space_elevator:0 "太空电梯锚点"
+space_elevator_desc:0 "太空电梯从表面延伸到轨道上的这块岩石。"
+space_elevator_tooltip:0 "$space_elevator_desc$"

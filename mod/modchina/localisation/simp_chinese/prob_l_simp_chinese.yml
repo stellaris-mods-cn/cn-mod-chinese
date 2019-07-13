@@ -1,11 +1,11 @@
 ﻿l_simp_chinese:
  # glassed planet
  prob_glassed_planet:0 "熔融星球星"
- prob_glassed_planet_desc:0 "曾经是宜居行星，现在只是灼热的岩石。轨道轰炸将该行星的地表完全熔化，并蒸发了海洋。尽管如此，该行星依然存在于宜居带中，一旦冷却后，应该可以通过地貌改造来修复。\n\n§W此调整因素消失后，此行星会变成一个§G可以进行地貌改造§!的$pc_barren$。§!"
+ prob_glassed_planet_desc:0 "曾经是宜居行星，现在只是灼热的岩石。轨道轰炸将该行星的地表完全熔化，并蒸发了海洋。尽管如此，该行星依然存在于宜居带中，如果冷却后，应该可以通过地貌改造来修复。\n\n§W此调整因素消失后，此行星会变成一个§G可以进行地貌改造§!的$pc_barren$。§!"
  
  # eco-damage
  prob_eco_damage_level_1:0 "生态损害 (1/5)"
- prob_eco_damage_level_1_desc:0 "此行星正由轨道轰炸而遭受生态损害，降低了它的适居度。它需要六个月来从此伤害中恢复一级。\n\n§W一旦这达到五级，此行星就会被永久转变为§R$pc_nuked$§!。§!"
+ prob_eco_damage_level_1_desc:0 "此行星正由轨道轰炸而遭受生态损害，降低了它的适居度。它需要六个月来从此伤害中恢复一级。\n\n§W如果这达到五级，此行星就会被永久转变为§R$pc_nuked$§!。§!"
  prob_eco_damage_level_2:0 "生态损害 (2/5)"
  prob_eco_damage_level_2_desc:0 "$prob_eco_damage_level_1_desc$"
  prob_eco_damage_level_3:0 "生态损害 (3/5)"
@@ -17,7 +17,7 @@
  
  # overheat
  prob_overheat_level_1:0 "全球过热 (1/5)"
- prob_overheat_level_1_desc:0 "此行星正被轨道轰炸的炮火炙烤着，降低了它的生产力。它需要三个月来冷却一级。\n\n§W一旦这达到五级，此行星就会在一年之内被转变为§R$pc_molten$§!。§!"
+ prob_overheat_level_1_desc:0 "此行星正被轨道轰炸的炮火炙烤着，降低了它的生产力。它需要三个月来冷却一级。\n\n§W如果这达到五级，此行星就会在一年之内被转变为§R$pc_molten$§!。§!"
  prob_overheat_level_2:0 "全球过热 (2/5)"
  prob_overheat_level_2_desc:0 "$prob_overheat_level_1_desc$"
  prob_overheat_level_3:0 "全球过热 (3/5)"

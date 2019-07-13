@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
-#l_simp_chinese:
-#commented this out so that I get the correct tooltips with my validator
 
 cc_xeno_clashes.2.name:0 "[root.GetName]上的仇恨言论"
 cc_xeno_clashes.2.desc:0 "近期一系列事件导致[root.GetName]上[species1.GetNamePlural]和[species2.GetNamePlural]两族之间的紧张关系持续升温。公众思潮急剧转向排外主义，双方领导都宣称[root.GetName]理应属于本族。以恶毒言论嘲讽对方种族的宣传材料四处流传，[species2.GetNamePlural]族内更是可以听到阴险的暗中讨论，直指如何解决"[species1.GetAdj]问题"。"

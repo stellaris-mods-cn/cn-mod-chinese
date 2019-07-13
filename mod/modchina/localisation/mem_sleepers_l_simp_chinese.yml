@@ -75,7 +75,7 @@
  
  #Sleepers meet natives peacefully - player choice if integrating, protectorate or free empire
  mem_sleepers.51.name:0 "对恩人的回报"
- mem_sleepers.51.desc:0 "§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!他们可能已经失去了他们以前的主人所拥有的大部分技术，但是他们并没有忘记那些最初给他们感觉的人。他们的记忆就像神的神话和传说一样，被他们忘恩负义的祖先们背叛了。\n\n一旦§YOzari§!透露自己，§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!他们会为从坟墓里回来的恩人感到高兴。他们的关系又重新建立起来，两国的领导人都承诺永远不会重复过去的错误。现在，他们向我们表示希望讨论他们与我们帝国的关系。"
+ mem_sleepers.51.desc:0 "§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!他们可能已经失去了他们以前的主人所拥有的大部分技术，但是他们并没有忘记那些最初给他们感觉的人。他们的记忆就像神的神话和传说一样，被他们忘恩负义的祖先们背叛了。\n\n如果§YOzari§!透露自己，§Y[mem_sleepers_natives.GetSpeciesNamePlural]§!他们会为从坟墓里回来的恩人感到高兴。他们的关系又重新建立起来，两国的领导人都承诺永远不会重复过去的错误。现在，他们向我们表示希望讨论他们与我们帝国的关系。"
  mem_sleepers.51.a:0 "邀请他们加入我们的帝国。"
  mem_sleepers.51.a.tooltip:0 "§Y[From.From.From.From.From.GetName]§!将和平地融入我们的帝国。"
  mem_sleepers.51.b:0 "邀请他们加入我们作为保护国。"

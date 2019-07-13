@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
-#l_simp_chinese:
-#commented this out so that I get the correct tooltips with my validator
 
 dpe_scandal.1.name:0 "国家资金被给予不应得的人"
 dpe_scandal.1.desc:0 "[root.GetName]上下对一则新近曝出的新闻议论纷纷： [root.GetRulerTitle] [root.GetRulerName]重新分配了部分国家资金，用以帮助陷入困境的贫民。许多公民对纳税人的血汗钱被拿去供养福利懒汉深恶痛绝，这在[root.GetSpeciesAdj]文化中被视作大恶。然而，另一些（曾经处于边缘的）声音则对[root.GetRulerTitle]的慷慨大加赞赏。他们一直以来为在[root.GetName]建立基本的社会福利制度而奔走努力，并认为此次事件是达成他们理想的绝佳机会,只要[root.GetRulerTitle]勇于迎难而上。"

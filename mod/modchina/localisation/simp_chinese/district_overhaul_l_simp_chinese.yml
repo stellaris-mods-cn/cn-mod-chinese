@@ -202,3 +202,8 @@
   mod_district_food_production_line_max:0 "食品生产线"
   district_food_production_line_plural:0 "食品生产线"
   district_food_production_line_desc:0 ""
+ 
+  district_drone_production_line:0 "单元生产线"
+  mod_district_drone_production_line_max:0 "单元生产线"
+  district_drone_production_line_plural:0 "单元生产线"
+  district_drone_production_line_desc:0 ""

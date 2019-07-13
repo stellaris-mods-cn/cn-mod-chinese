@@ -423,7 +423,7 @@
 
  ap_tw_mechanist:0 "机械师之路"
  ap_tw_mechanist_desc:0 "一位男士曾经说过:“创造你所追求的未来。”我们应该利用你的工程学能力来创造我们想要的，而不是单纯依靠我们的心灵力量。"
- ap_tw_mechanist_tooltip:0 "开启通往永恒帝国的机械之路。永恒的巨型建筑变得可行。一旦这个提升技能被选择，永恒之路将不再是一个有效的选择"
+ ap_tw_mechanist_tooltip:0 "开启通往永恒帝国的机械之路。永恒的巨型建筑变得可行。如果这个提升技能被选择，永恒之路将不再是一个有效的选择"
 
  ap_tw_eternal_transcendence:0 "永恒超越"
  ap_tw_eternal_transcendence_desc:0 "我们即将释放出这个星系的极限。我们释放在这个星系上的这一小部分灵能将使我们锻造这个周期的未来。"

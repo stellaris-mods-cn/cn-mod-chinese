@@ -269,7 +269,9 @@ opinion_est_mysticism_adopt:0 "$tr_est_mysticism_adopt$"
 opinion_est_philosophy_3:0 "$tr_est_philosophy_3$"
 opinion_est_philosophy_3_FE:0 "$tr_est_philosophy_3$"
 
-opinion_est_piracy_2:0 "抢劫目标"
+opinion_est_piracy_2_1:0 "$est_piracy_raiding_1$"
+opinion_est_piracy_2_2:0 "$est_piracy_raiding_2$"
+opinion_est_piracy_2_3:0 "$est_piracy_raiding_3$"
 
 ####################################
 # Edicts 
@@ -348,7 +350,7 @@ decision_est_commerce_2_minerals_deactivate_tooltip:0 "移除 §Y$mod_est_commer
 #Industry
 decision_est_industry_5_activate:0 "选定锻造世界"
 decision_est_industry_5_activate_desc:0 "$tr_est_industry_5_delayed$"
-decision_est_industry_5_activate_tooltip:0 "增加 £minerals  §Y矿物l§!, £alloy  §Y合金§!, 和 £consumer_goods  §Y消费品§! 产出 §G+20%§!. 减少 £food  §Y食物§! 产出, £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§!, 和 §Y$MOD_PLANET_IMMIGRATION_PULL_MULT$§! §R-25%§!, 减少 £happiness §YHappiness§! §R-10%§!."
+decision_est_industry_5_activate_tooltip:0 "增加 £minerals  §Y矿物l§!, £alloy  §Y合金§!, 和 £consumer_goods  §Y消费品§! 产出 §G+20%§!. 减少 £food  §Y食物§! 产出, £mod_pop_growth_speed  §Y$MOD_POP_GROWTH_SPEED$§!, 和 §Y$MOD_PLANET_IMMIGRATION_PULL_MULT$§! §R-25%§!, 减少 £happiness §Y幸福度§! §R-10%§!."
 decision_est_industry_5_deactivate:0 "让锻造世界正常化"
 decision_est_industry_5_deactivate_desc:0 "$tr_est_industry_5_delayed$"
 decision_est_industry_5_deactivate_tooltip:0 "R移除 $mod_est_industry_5$ 修饰"
@@ -368,7 +370,7 @@ decision_est_industry_5_machines_deactivate_tooltip:0 "$decision_est_industry_5_
 #Cooperativity
 decision_est_cooperativity_5_activate:0 "开启生长期"
 decision_est_cooperativity_5_activate_desc:0 "$tr_est_cooperativity_5_delayed$"
-decision_est_cooperativity_5_activate_tooltip:0 "增加 §YGrowth Speed§! §G+50%§!. 减少 §Y人口资源产出§! §R-25%§! 并增加 §Y人口食物消费§! §R+50%§!."
+decision_est_cooperativity_5_activate_tooltip:0 "增加 §Y人口增长速度§! §G+50%§!. 减少 §Y人口资源产出§! §R-25%§! 并增加 §Y人口食物消费§! §R+50%§!."
 decision_est_cooperativity_5_deactivate:0 "停止生长期"
 decision_est_cooperativity_5_deactivate_desc:0 "$tr_est_cooperativity_5_delayed$"
 decision_est_cooperativity_5_deactivate_tooltip:0 "移除 $mod_est_cooperativity_5$ 修饰"
@@ -509,29 +511,20 @@ est_fury_5_ravage_off_name:0 "$est_fury_5_ravage_off$"
 est_fury_5_ravage_off_desc:0 "虽然很困难，我们也许能够克制我们自己，以免对我们入侵的星球造成很大的伤害。"
 
 #Piracy 2, Raiding Targets.
-policy_est_piracy_raiding:0 "抢劫目标"
+policy_est_piracy_raiding:0 "劫掠目标"
 policy_est_piracy_raiding_desc:0 "我们的邻居控制着我们可以利用的资源。我们可以组织劫掠到他们的领土，但这会激怒目标。我们需要非常仔细地选择我们抢劫哪个邻居，哪些不突袭。"
-est_piracy_raiding_none:0 "禁止抢劫"
-est_piracy_raiding_none_name:0 "禁止抢劫"
-est_piracy_raiding_none_desc:0 "我们不会抢劫我们的邻居。"
-est_piracy_raiding_weaker:0 "弱小的邻居"
-est_piracy_raiding_weaker_name:0 "抢劫弱小的邻居"
-est_piracy_raiding_weaker_desc:0 "我们只会抢劫那些比我们弱的邻居。"
-est_piracy_raiding_disliked:0 "讨厌的邻居"
-est_piracy_raiding_disliked_name:0 "抢劫讨厌的邻居"
-est_piracy_raiding_disliked_desc:0 "我们只会对那些对我们有负面看法的邻居进行抢劫。"
-est_piracy_raiding_weaker_n_disliked:0 "弱小又讨厌的邻居"
-est_piracy_raiding_weaker_n_disliked_name:0 "抢劫弱小又讨厌的邻居"
-est_piracy_raiding_weaker_n_disliked_desc:0 "我们只会对那些对我们有负面意见、而且比我们弱的邻国进行抢劫。"
-est_piracy_raiding_insulted:0 "侮辱过的邻居"
-est_piracy_raiding_insulted_name:0 "抢劫侮辱过的邻居"
-est_piracy_raiding_insulted_desc:0 "我们将袭击那些我们最近侮辱的邻居。"
-est_piracy_raiding_rivals:0 "宿敌邻居"
-est_piracy_raiding_rivals_name:0 "抢劫宿敌邻居"
-est_piracy_raiding_rivals_desc:0 "我们将只袭击那些和我们是宿敌的邻居。"
-est_piracy_raiding_full:0 "所有邻居"
-est_piracy_raiding_full_name:0 "抢劫所有邻居"
-est_piracy_raiding_full_desc:0 "我们将抢劫我们所有的邻居。"
+est_piracy_raiding_0:0 "无劫掠"
+est_piracy_raiding_0_name:0 "$est_piracy_raiding_0$"
+est_piracy_raiding_0_desc:0 "我们不会发动任何劫掠"
+est_piracy_raiding_1:0 "选择性劫掠"
+est_piracy_raiding_1_name:0 "$est_piracy_raiding_1$"
+est_piracy_raiding_1_desc:0 "外星帝国£opinion  §Y意见§!减少§R-15§!。"
+est_piracy_raiding_2:0 "中等劫掠"
+est_piracy_raiding_2_name:0 "$est_piracy_raiding_2$"
+est_piracy_raiding_2_desc:0 "外星帝国£opinion  §Y意见§!减少§R-30§!。"
+est_piracy_raiding_3:0 "攻击性劫掠"
+est_piracy_raiding_3_name:0 "$est_piracy_raiding_3$"
+est_piracy_raiding_3_desc:0 "外星帝国£opinion  §Y意见§!减少§R-50§!。"
 
 ####################################
 # Events
@@ -603,11 +596,11 @@ est_coll_indv.adopt.individualism:0 "$tr_est_individualism_adopt$"
 #Proselytism
 job_est_inquisitor:0 "审判官"
 job_est_inquisitor_plural:0 "审判官"
-job_est_inquisitor_desc:1 Our inquisitor searchs for individuals with views deviating from the true path. Those found are destroyed."""""""""""
+job_est_inquisitor_desc:1 "我们的调查人员寻找意见偏离真实道路的个人。那些被发现的都被销毁了。"
 job_est_inquisitor_effect_desc:0 "£job_est_inquisitor£ $job_est_inquisitor_plural$ 减少 §Y犯罪率§! 同时增加 §Y政府思潮吸引力§!, 同时产出少量凝聚力."
 mod_job_est_inquisitor_add:0 "$job_est_inquisitor$ 职位"
-mod_job_est_inquisitor_per_pop:0 "§G+1§! $job_est_inquisitor$ 职位每 $VALUE$ 人口"
-mod_job_est_inquisitor_per_pop_short:0 "\n§G+1§! £mod_job_est_inquisitor_add£ 每 $VALUE$ £pop£"
+mod_job_est_inquisitor_per_pop:0 "每 $VALUE$ 人口 §G+1§! $job_est_inquisitor$ 职位"
+mod_job_est_inquisitor_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_est_inquisitor_add£ "
 
 #Mechanicum
 job_est_engineer:0 "大师级工程师"
@@ -615,17 +608,17 @@ job_est_engineer_plural:0 "大师级工程师"
 job_est_engineer_desc:1 "我们的大师级工程师能够用机械完成其他人只能简单地称之为魔术的事情。"
 job_est_engineer_effect_desc:0 "£job_est_engineer£ $job_est_engineer_plural$ 产出 £engineering£ §Y工程研究§! 和小量的 £trade_value£ §Y贸易价值§!."
 mod_job_est_engineer_add:0 "$job_est_engineer$ 职位"
-mod_job_est_engineer_per_pop:0 "§G+1§! $job_est_engineer$ 职位每 $VALUE$ 人口"
-mod_job_est_engineer_per_pop_short:0 "\n§G+1§! £mod_job_est_engineer_add£ 每 $VALUE$ £pop£"
+mod_job_est_engineer_per_pop:0 "每 $VALUE$ 人口 §G+1§! $job_est_engineer$ 职位"
+mod_job_est_engineer_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_est_engineer_add£ "
 
 #Mystery
 job_est_shadow_administrator:0 "幕后管理者"
 job_est_shadow_administrator_plural:0 "幕后管理者"
 job_est_shadow_administrator_desc:1 "我们的社会被秘密的幕布所遮掩着，几乎没有人知道是谁真正掌握着权力。这使得可以更容易去控制人口。"
-job_est_shadow_administrator_effect_desc:0 "£job_est_shadow_administrator£ $job_est_shadow_administrator_plural$ produce £unity£ §YUnity§!, 增加行星 £stability  §YStability§!, and reduce planet £crime  §YCrime§!."
+job_est_shadow_administrator_effect_desc:0 "£job_est_shadow_administrator£ $job_est_shadow_administrator_plural$生成£unity£ §Y凝聚力§!, 增加行星 £stability  §Y稳定度§!,和减少星球£crime  §Y犯罪度§!。"
 mod_job_est_shadow_administrator_add:0 "$job_est_shadow_administrator$ 职位"
-mod_job_est_shadow_administrator_per_pop:0 "§G+1§! $job_est_shadow_administrator$ 职位每 $VALUE$ 人口"
-mod_job_est_shadow_administrator_per_pop_short:0 "\n§G+1§! £mod_job_est_shadow_administrator_add£ 每 $VALUE$ £pop£"
+mod_job_est_shadow_administrator_per_pop:0 "每 $VALUE$ 人口 §G+1§! $job_est_shadow_administrator$ 职位"
+mod_job_est_shadow_administrator_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_est_shadow_administrator_add£ "
 
 ####################################
 # Resources
@@ -664,7 +657,7 @@ tech_est_industry_2_5_desc:0 "虽然没有实用功能，但某些贵金属仍�
 
 #Industry Finisher
 tech_est_industry_finish:0 "开挖稀有矿产"
-tech_est_industry_finish_desc:0 "为了找到最宝贵的矿物，我们必须在行星地表挖得更深。新的挖掘技术使我们能够深入挖掘，而一旦挖得足够深，就可以将矿石定位。"
+tech_est_industry_finish_desc:0 "为了找到最宝贵的矿物，我们必须在行星地表挖得更深。新的挖掘技术使我们能够深入挖掘，而如果挖得足够深，就可以将矿石定位。"
 
 ####################################
 # Casus Bellis

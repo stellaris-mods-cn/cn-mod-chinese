@@ -133,7 +133,7 @@
  ancient_pattern_engimatic_fortress:0 "古老的城堡设计"
  ancient_pattern_engimatic_fortress_MEGASTRUCTURE_DETAILS:0 "堡垒模式是根据一个古老的设计。虽然根据我们的标准和我们数据核心技术的标准已经过时了。然而，它仍然是一个强大的防御堡垒。拥有一些神秘的技术和最先进的动能武器。"
  new_pattern_engimatic_fortress:0 "更新堡垒设计"
- new_pattern_engimatic_fortress_MEGASTRUCTURE_DETAILS:0 "这堡垒模式是基于现代设计。一旦建成，它的布局仍然和它古老的设计一样，但它将升级我们最先进的技术。这个堡垒可以让我们建立一些基础防御措施。"
+ new_pattern_engimatic_fortress_MEGASTRUCTURE_DETAILS:0 "这堡垒模式是基于现代设计。如果建成，它的布局仍然和它古老的设计一样，但它将升级我们最先进的技术。这个堡垒可以让我们建立一些基础防御措施。"
  
  # enigmatic defenses #
  military_station_large_enigmatic_empire:0 ""

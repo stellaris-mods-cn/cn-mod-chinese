@@ -11,7 +11,7 @@
  
  civic_cbshing_nuclear_vault:0 "核库"
  civic_cbshing_nuclear_vault_desc:0 "由于大型地下拱顶的保护，所以这个社会在核战争中的幸存下来。 虽然现在他们团结起来，成功地保护了自己的社会，但他们对残酷的地面生活没有任何准备。"
- civic_tooltip_oc_nuclear_vault_effects:1 "$MOD_POP_HOUSING_USAGE_MULT$: §G-10%§!\n首都以 §Y$pc_nuked$§! 开始，由一个独特的 §Y$d_oc_vault_complex$§! 储存, 其中给出了若干个 §Y研究§! 和 §Y设施§! 以及首都星球的奖金"
+ civic_tooltip_oc_nuclear_vault_effects:1 "$MOD_POP_HOUSING_USAGE_MULT$: §G-10%§!\n首都以 §Y$pc_nuked$§! 开始，由一个独特的 §Y$d_oc_vault_complex$§! 储存, 其中给出了若干个 §Y研究§! 和 §Y舒适度§! 以及首都星球的加成。"
  
  civic_cbshing_nuclear_mutation:0 "核突变"
  civic_cbshing_nuclear_mutation_desc:0 "这个物种的出现是由辐射诱变引起的。它们在自己家园荒芜的表面上进化，而且对外来的环境更加耐寒。"

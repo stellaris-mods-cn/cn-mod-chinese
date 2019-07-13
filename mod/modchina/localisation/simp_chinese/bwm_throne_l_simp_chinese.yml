@@ -77,7 +77,7 @@
  bwm_throne_watchers.49:0 "超越前代" 
  bwm_throne_watchers.49.desc:0 "我们科学家完成对太阳使者的反应堆的核心调整；应该在短时间内就可以突破限制。" 
  bwm_throne_watchers.49.a:0 "这个能力应该谨慎使用。"
- bwm_throne_watchers.49.a.tooltip:0 "§Y - 警告 - 一旦脱离爆发模式，船只将会变得十分脆弱。§!"
+ bwm_throne_watchers.49.a.tooltip:0 "§Y - 警告 - 如果脱离爆发模式，船只将会变得十分脆弱。§!"
 
  bwm_throne_watchers.52:0 "爆发模式"
  bwm_throne_watchers.52.desc:0 "-爆发模式启动-"

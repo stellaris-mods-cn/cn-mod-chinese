@@ -2,8 +2,6 @@
 
  
  
-
- 
  zofe.3.name:0 "社会的堕落"
  zofe.3.desc:0 "今天这一代的§H[Root.Owner.GetSpeciesNamePlural]§!从来没有这么好过。生活水平从未如此之高，许多年轻的§H[Root.Owner.GetSpeciesNamePlural]§!在奢侈的环境中成长，从未经历过苦难或真正的挣扎。他们自负、愚蠢、职业道德有问题，喜欢享乐甚于工作。他们把建立在祖先身上的国家视为理所当然，对自己的生活方式感到自满，认为没有什么重要的事情，也不会有什么不好的事情发生。一些年轻的§H[Root.GetName]§!甚至认为§H[Root.GetSpeciesAdj]§!是不可战胜的，因为§H[Root.GetRulerTitle][Root.GetRulerName]§!的种族天生优越。不管怎么说，这是[Root.Capital.GetName]的街道上散步时发现的。\n\n这令人担忧。§H[Root.GetName]§!和§H[Root.GetSpeciesAdj]§!的未来!当我们的年轻人生活在这样的颓废中，没有野心和动力，种族就不能得到保证。为了确保我们继续生存下去，每一代人都必须努力消除颓废和自满情绪，如果我们的文明要真正延续千年。"
  zofe.3.a:0 "我们必须加倍努力。"
@@ -41,9 +39,24 @@
  zofe.12.name:0 "暗物质能量突破"
  zofe.12.desc:0 "我们的情报报告说[From.GetName]最近有了科学突破。报告显示，他们已经开始研究难以捉摸的暗物质能量，可能很快就会发现这种能源的实际应用。"
  zofe.12.a:0 "有趣。"
+
+ zofe.15.name:0 "暗物质能量研究失败"
+ zofe.15.desc:0 "我们的科学家试图分解£minor_artifacts£，但没有成功。然而，他们承诺，如果我们下次再给他们送一些人工制品，他们就会破解它。"
+ zofe.15.a:0 "令人失望。"
+ 
+ zofe.16.name:0 "暗物质能量研究成功"
+ zofe.16.desc:0 "我们的科学家试图分解£minor_artifacts£已经成功!生产这种能源的蓝图现在可以用来改造我们的帝国。"
+ 
+ zofe.17.name:0 "暗物质能量研究取得重大成功"
+ zofe.17.desc:0 "我们的科学家试图分解£minor_artifacts£已经成功!他们成功地创建了一个功能原型，并准备立即投入生产。"
+ 
  
  war_in_heaven.4.e:0 "我们可以和你们两个较量。"
  war_in_heaven.4.f:0 "这与我们现在无关。"
+ 
+ artifact_dark_matter_power_research:0 "研究§Y$tech_dark_matter_power_core$§!"
+ artifact_dark_matter_power_research_desc:0 "我们的科学家可以逆向工程几个小的人工制品，希望揭开失落帝国神秘电源的秘密。"
+ artifact_dark_matter_power_research_effect:0 "分解£Minor遗物以获得解锁§Y$tech_dark_matter_power_core$§!的机会。\n\n冷却: £time£ §Y720§!"
  
  DARK_MATTER_POWER_RESEARCH:0 "先驱者能量源"
  DARK_MATTER_POWER_RESEARCH_DESC:0 "多年来，我们的科学家一直在思考这种能源的性质。一些人认为这可能是暗物质，而另一些人则不这么认为。无论如何，这个任务将会揭开这个秘密。"

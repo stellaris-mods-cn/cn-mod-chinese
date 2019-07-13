@@ -28,7 +28,7 @@
  
  civic_vb_psi_touched_by_the_shroud:0 "来自虚境的触摸"
  civic_vb_psi_touched_by_the_shroud_desc:0 "在整个早期的历史中，这个帝国受到了虚境的影响——这是一个超越物质世界的奇特王国。"
- civic_vb_psi_touched_by_the_shroud_effects:0 "在游戏开始的时候，帝国会得到§E泽洛§!\n一旦帝国获得了§S飞升§!，将会获得 £society §M$tech_psionic_theory$§!。"
+ civic_vb_psi_touched_by_the_shroud_effects:0 "在游戏开始的时候，帝国会得到§E泽洛§!\n如果帝国获得了§S飞升§!，将会获得 £society §M$tech_psionic_theory$§!。"
  
  trait_vb_psi_soul_eater:0 "噬魂者"
  trait_vb_psi_soul_eater_desc:0 "受来自物质世界之外的黑暗能量的影响，这个物种是由对智慧生命的贪得无厌的饥渴所驱动的。"

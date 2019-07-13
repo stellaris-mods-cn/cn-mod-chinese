@@ -18,7 +18,18 @@
  decision_gpm_Resilent_Parasites:0 "寄生战争"
  decision_gpm_Resilent_Parasites_desc:0 "我们的殖民地将试图找到一种治疗其居住者寄生虫的疗法。"
 
-
+ decision_gpm_Hostile_Flora:0 "外来入侵物种"
+ decision_gpm_Hostile_Flora_desc:0 "种植一些侵入性很强的行星物种，我们可以扼杀当地的植物生命，拥有更加友好的生物环境。"
+ 
+ decision_gpm_Unstable_Tectonics:0 "断层稳定"
+ decision_gpm_Unstable_Tectonics_desc:0 "在这颗行星的断层线深处钻出的人工通风口会周期性地释放压力，让熔融的岩石和气体喷涌而出。" 
+ 
+ decision_gpm_Unusual_Seasons:0 "人工云彩"
+ decision_gpm_Unusual_Seasons_desc:0 "在关键地点谨慎地建立人工云层覆盖将稳定星球的大气流。"
+ 
+ decision_gpm_Floating_Island_Housing:224 "建造浮岛"
+ decision_gpm_Floating_Island_Housing_desc:224 "在这个星球上建造巨大的人工浮岛。"
+ decision_gpm_Floating_Island_Housing_effects:224 "星球最大区划: §G+1§!\n星球住房: §G+10§!"
 
  gpm_decision_limit:224 "\n决策限制: §Y资源§!\n§L每个行星只能添加一个资源§!"
  gpm_decision_need_colony:224 "£trigger_no£ 在这个星系需要一个§Y殖民地§!。"
@@ -28,8 +39,6 @@
 
  gpm_decision_precursor_shield_on:224 "启动先驱者行星护盾"
  gpm_decision_precursor_shield_on_desc:224 "启动先驱者行星护盾"
- Precursor_Planetary_Shield_on:224 "启动先驱者行星护盾"
- Precursor_Planetary_Shield_on_desc:224 "见证这完全运作的行星盾的力量!"
 
  gpm_decision_precursor_shield_off:224 "降低先驱者行星护盾功率"
  gpm_decision_precursor_shield_off_desc:224 "关闭先驱者行星护盾进行测试决策"

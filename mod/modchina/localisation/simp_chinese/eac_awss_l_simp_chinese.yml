@@ -4,20 +4,12 @@
  # Ship Parts
  ###################
  EAC_ARTILLERY_120_BEHAVIOR_DESC:1 "§HArtillery Tactics:§! 飞船会在远距离 (§Y120§!) 开火，并用远距离武器攻击敌人。"
-## EAC_ARTILLERY_120_BEHAVIOR_DESC -> §HArtillery Tactics:§! The ship will stay at long (§Y120§!) range and fire its long range weapons on the target. ##
  EAC_ARTILLERY_MAX_BEHAVIOR_DESC:1 "§HArtillery Tactics:§! 飞船会在尽可能远的距离攻击敌人。"
-## EAC_ARTILLERY_MAX_BEHAVIOR_DESC -> §HArtillery Tactics:§! The ship will stay at weapons' max range and fire its long range weapons on the target. ##
 
  EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED:0 "高级作战计算机 (火炮 - (§Y120§!)远距离)"
-## EAC_COMBAT_COMPUTER_ARTILLERY_120_ADVANCED -> Advanced Combat Computer (Artillery - Long Range) ##
  EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT:0 "睿智作战计算机 (火炮 - (§Y120§!)远距离)"
-## EAC_COMBAT_COMPUTER_ARTILLERY_120_SAPIENT -> Sapient Combat Computer (Artillery - Long Range) ##
  EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG:0 "预知接口 (火炮 - (§Y120§!)远距离)"
-## EAC_COMBAT_COMPUTER_ARTILLERY_120_PRECOG -> Precognitive Interface (Artillery - Long Range) ##
 
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED:0 "高级作战计算机 (火炮 - 超远距离)"
-## EAC_COMBAT_COMPUTER_ARTILLERY_MAX_ADVANCED -> Advanced Combat Computer (Artillery - Max Range) ##
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_SAPIENT:0 "睿智作战计算机 (火炮 - 超远距离)"
-## EAC_COMBAT_COMPUTER_ARTILLERY_MAX_SAPIENT -> Sapient Combat Computer (Artillery - Max Range) ##
  EAC_COMBAT_COMPUTER_ARTILLERY_MAX_PRECOG:0 "预知接口 (火炮 - 超远距离)"
-## EAC_COMBAT_COMPUTER_ARTILLERY_MAX_PRECOG -> Precognitive Interface (Artillery - Max Range) ##

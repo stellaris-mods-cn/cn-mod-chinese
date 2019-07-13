@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+
+ civic_mutualistic_behavior:0 "互惠行为"
+ civic_mutualistic_behavior_desc:1 "互惠共生在生态学中扮演着重要的角色，因此，这个蜂群学会了通过与来自其母星的其他物种合作而茁壮成长，现在它们正在寻找新的物种与之合作。"
+ civic_tooltip_mutualistic_behavior_effects:0 "行政能力 §G+30§!\n稳定度 §G+10§!\n外交影响力成本 §G-50%§!\n帝国扩张惩罚 §R+75%§!\n§E可以建立无§Y商业协议§!的§Y分支机构§! §!\n§E必须使用§H防御战争§! 政策§!\n§E不能参与§H无差别§!轨道轰炸§!\n§H难民§! §E总是受欢迎的§!\n§E可以§H同化§!有机生物§!\n§E可以签订§H移民协议§!§!\n§E不能§H驱逐§!也不能§H奴役§!人口§!"
+
+
+ gov_mutualistic_behavior:0 "互惠合作者"
+ gov_mutualistic_behavior_desc:0 "这个蜂巢继续发展与其他物种的关系，寻求互惠互利的协议。"
+
+ building_targeted_flora:0 "植物护理设施"
+ building_targeted_flora_desc:0 "判断每一天的好坏，不是看你收获了多少，而是看你种下了什么种子。"
+ building_targeted_fauna:0 "本地动物文化中心"
+ building_targeted_fauna_desc:0 "直到你爱上了一个动物，你的灵魂的一部分才会被唤醒。"
+ building_observatory:0 "远距离观测台"
+ building_observatory_desc:0 "并不是所有流浪的人都会迷路。"
+ building_foreign_arquitecture:0 "设计学建筑"
+ building_foreign_arquitecture_desc:0 "认识到需求是设计的首要条件。"
+ building_species_protector_center:0 "物种保护发生器"
+ building_species_protector_center_desc:0 "我们都有责任保护濒危物种，为了它们，也为了我们的后代。"
+ building_urban_maintenance:0 "城市维护系统"
+ building_urban_maintenance_desc:0 "幸福是美好生活的副产品。"
+ building_tourism_campaign:0 "旅游中心"
+ building_tourism_campaign_desc:0 "旅行使人谦虚。你看你在星系中占据了多么小的一个位置。"
+ opinion_mutualistic_behavior:0 "互惠行为"

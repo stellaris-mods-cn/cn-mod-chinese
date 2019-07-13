@@ -10,7 +10,7 @@
  sr_holy_texts_desc:1 "圣经、圣经和宗教意义的书。"
  
  building_hall_of_assignment:0 "作业大厅"
- building_hall_of_assignment_desc:1 "一旦成年，种姓制度就在这里正式分配。种姓血统的记录是精心保存的。\n\n§R只能建在靠近首都建筑的地方。§!"
+ building_hall_of_assignment_desc:1 "如果成年，种姓制度就在这里正式分配。种姓血统的记录是精心保存的。\n\n§R只能建在靠近首都建筑的地方。§!"
  building_power_plant_collective:0 "集体电厂"
  building_power_plant_collective_desc:1 "专业的技术人员和会计人员管理和维护这个设施。\n\n§R只能在作业大厅附近建造。§!"
  building_work_collective:0 "集体生产工厂"

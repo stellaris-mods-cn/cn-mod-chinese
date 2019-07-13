@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
-#l_simp_chinese:
-#commented this out so that I get the correct tooltips with my validator
 
 edict_cc_thought_police:0 "思想警察"
 edict_cc_thought_police_desc:0 "使用现代科技监管民众的想法，并在必要时解决动乱分子。\n\n幸福度在40%以下，且不认同主流思潮的人口£pops 将会被逐渐清洗或被迫逃离。此政策不会造成常规清洗的惩罚/奖励修正值，但会使平权主义国家不满。"

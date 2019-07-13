@@ -144,7 +144,7 @@ PROJECT_ALL_ORIGIN_TECH: "永恒之光"
 PROJECT_ALL_ORIGIN_TECH_DESC: "我们接受了先祖的礼物，在这个星系崛起并继承他们的遗产。我们雄心不会挫败！"
 
 PROJECT_LIGHT_MATTER: "光物质动力分析"
-PROJECT_LIGHT_MATTER_DESC: "祖先们不知何故决定让我们研究光物质。我们不知道这是不是某种形式的欺骗，但获得这种能力可能对我们非常有用，或者至少会让我们了解这项技术是如何运作的。\n\n一旦我们了理解了光物质，我们应该能获得更多的光物质。"
+PROJECT_LIGHT_MATTER_DESC: "祖先们不知何故决定让我们研究光物质。我们不知道这是不是某种形式的欺骗，但获得这种能力可能对我们非常有用，或者至少会让我们了解这项技术是如何运作的。\n\n如果我们了理解了光物质，我们应该能获得更多的光物质。"
 
 PROJECT_OFFENSE_ORIGIN_TECH: "先祖进攻战术分析"
 PROJECT_OFFENSE_ORIGIN_TECH_DESC: "强大的火力是我们在作战战略中唯一的行动方针。火力就是取胜的关键。"
@@ -318,7 +318,7 @@ gatekeeper_control_node: "守护者电源导管"
 OUTERGATE_GALACTIC: "外星门"
 OUTERGATE_GALACTIC_DESC: "该星系包含有一个§E$OUTERGATE_GALACTIC$§!"
 
-sofe_mem_planet_shield_full: "星状能源封印"
+sofe_mem_planet_shield_full: "星能量封印"
 sofe_mem_planet_shield_partial: "暗能量封印"
 
 sofe_outergate_weaken_shield: "衰弱的护盾"

@@ -206,7 +206,7 @@
  
  tech_c_reactor_7:0 "晶体多维反应堆 VII"
  tech_c_reactor_7_desc:0 "晶体诱导的撕裂使该反应堆能够从多个维度引导能量。\n\n"
- 
+
  tech_c_reactor_8:0 "晶体晶核反应堆 VIII"
  tech_c_reactor_8_desc:0 "使用新发现的合成元素与水晶融合，使能量产生远远超过以前的可能!\n\n"
  
@@ -296,7 +296,7 @@
  C_PLATFORM_SMALL_ZERO_POINT_REACTOR_7:0 "防御平台二维反应堆"
  C_PLATFORM_MEDIUM_ZERO_POINT_REACTOR_7:0 "空间站二维反应堆"
  C_PLATFORM_LARGE_ZERO_POINT_REACTOR_7:0 "壁垒二维反应堆"
- 
+
  C_PLATFORM_SMALL_ZERO_POINT_REACTOR_8:0 "防御平台中子反应堆"
  C_PLATFORM_MEDIUM_ZERO_POINT_REACTOR_8:0 "空间站中子反应堆"
  C_PLATFORM_LARGE_ZERO_POINT_REACTOR_8:0 "壁垒中子反应堆"
@@ -577,7 +577,7 @@
 
  C_CREW_2:0 "机械人船员"
  C_CREW_2_DESC:0 "这个机器人船员允许船只更有效地运作，降低了维修成本。他们也不受极端重力的影响，允许船只更猛烈地移动。它们比机器人工作人员更有效率。"
- 
+
  C_CREW_3:0 "AI船员"
  C_CREW_3_DESC:0 "这个人工智能组让船只更有效地运作，降低了维修成本。他们也不受极端重力的影响，允许船只更猛烈地移动。他们比机器人工作人员更有效率。"
 
@@ -1343,3 +1343,197 @@
 
  tech_gsc_perdition_beam_03:0 "偏移波束"
  tech_gsc_perdition_beam_03_desc:0 "A大量的链接能量放大导管点燃了一束前所未有的火力。"
+
+
+ ###################################
+ ########  MOD OPTIONS MENU ########
+ 
+ # main menu
+ gsc_start_menu.1.name:0 "£options_icon  Guilli's Ship Components §Y选项§! £options_icon"
+ gsc_start_menu.1.desc:0 "此选项菜单允许禁用Guilli的Ship组件中的任何组件集。一旦禁用，这些组件的技术将被禁用。"
+ 
+ gsc_start_menu.1.options_weapons:0 "£options_icon  §Y武器选项§! £options_icon"
+ gpm_start_menu.1.GSC_weapons:0 "£options_icon  §YGSC 武器选项§! £options_icon"
+ gsc_start_menu.1.options_weaponsTT:0 "禁用GSC武器组件。一旦禁用，这些组件的技术将被禁用。"
+ 
+ gsc_start_menu.1.options_components:0 "£options_icon  §YNon-武器选项§! £options_icon"
+ gpm_start_menu.1.GSC_non_weapons:0 "£options_icon  §YGSC Non-武器选项§! £options_icon"
+ gsc_start_menu.1.options_componentsTT:0 "在这里禁用GSC非武器组件。一旦禁用，这些组件的技术将被禁用。"
+ 
+ gsc_start_menu.2.start:0 "关闭"
+ gsc_start_menu.2.startTT:0 "§H这将关闭选项菜单并开始游戏§!\n在关闭之前设置您希望的任何选项。"
+ 
+ gsc_start_menu.2.back:0 "§Y返回§!"
+ gsc_start_menu.2.backTT:0 "返回到主mod菜单"
+ 
+ # weapons menu
+ gsc_start_menu.2.name:0 "Guilli's Ship Components: §Y武器选项§!"
+ gsc_start_menu.2.desc:0 "禁用武器组件。一旦禁用，这些组件的技术将被禁用。"
+ 
+ gsc_start_menu.3.name:0 "Guilli's Ship Components: §Y非-武器选项§!"
+ gsc_start_menu.3.desc:0 "禁用非武器组件。一旦禁用，这些组件的技术将被禁用。"
+
+ # -- Weapons -- #
+ # -- #
+ gsc_start_menu.2.disable_lasers:0 "£options_icon  §R禁用T6 +激光 §!"
+ gsc_start_menu.2.disable_lasersTT:0 "§H单击此可禁用T6+激光器 §!\n这将阻止T6+激光研究出现在游戏中。"
+ gsc_start_menu.2.enable_lasers:0 "£options_icon  §G启用T6+激光 §!"
+ gsc_start_menu.2.enable_lasersTT:0 "§H单击此可启用T6+激光§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_mass_drivers:0 "£options_icon  §R禁用T6+质量加速器 §!"
+ gsc_start_menu.2.disable_mass_driversTT:0 "§H单击此可禁用T6+质量加速器§!\n这将阻止T6+质量加速器研究出现在游戏中。"
+ gsc_start_menu.2.enable_mass_drivers:0 "£options_icon  §G启用T6+质量加速器 §!"
+ gsc_start_menu.2.enable_mass_driversTT:0 "§H单击此可启用T6+质量加速器武器选择§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_missiles:0 "£options_icon  §R禁用T6 +导弹 §!"
+ gsc_start_menu.2.disable_missilesTT:0 "§H点击此禁用T6+导弹§!\n这将阻止T6+导弹研究出现在游戏中。"
+ gsc_start_menu.2.enable_missiles:0 "£options_icon  §G启用T6+导弹 §!"
+ gsc_start_menu.2.enable_missilesTT:0 "§H单击此可启用T6+导弹 §!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_plasma:0 "£options_icon  §R禁用T4+等离子发射器§!"
+ gsc_start_menu.2.disable_plasmaTT:0 "§H单击此可禁用T4+等离子发射器 §!\n这将阻止T4+等离子发射器的研究出现在游戏中。"
+ gsc_start_menu.2.enable_plasma:0 "£options_icon  §G启用T4+等离子发射器 §!"
+ gsc_start_menu.2.enable_plasmaTT:0 "§H单击此可启用T4+等离子发射器§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_autocannnons:0 "£options_icon  §R禁用T4+自动加农炮 §!"
+ gsc_start_menu.2.disable_autocannnonsTT:0 "§H单击此可禁用T4+自动加农炮§!\n这将阻止T4+自动加农炮的研究出现在游戏中。"
+ gsc_start_menu.2.enable_autocannnons:0 "£options_icon  §G启用T4+自动火炮 §!"
+ gsc_start_menu.2.enable_autocannnonsTT:0 "§H单击此可启用T4+自动加农炮 §!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_swarm_missiles:0 "£options_icon  §R禁用T3+蜂群导弹 §!"
+ gsc_start_menu.2.disable_swarm_missilesTT:0 "§H单击此可禁用T3+蜂群导弹§!\n这将阻止T3+蜂群导弹研究出现在游戏中。"
+ gsc_start_menu.2.enable_swarm_missiles:0 "£options_icon  §G启用T3+蜂群导弹§!"
+ gsc_start_menu.2.enable_swarm_missilesTT:0 "§H单击此可启用T3+蜂群导弹§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_torpedos:0 "£options_icon  §R禁用T4+鱼雷§!"
+ gsc_start_menu.2.disable_torpedosTT:0 "§H单击此可禁用T4+鱼雷和能量鱼雷§!\n这将防止T4+鱼雷研究出现在游戏中。"
+ gsc_start_menu.2.enable_torpedos:0 "£options_icon  §G启用T4+鱼雷§!"
+ gsc_start_menu.2.enable_torpedosTT:0 "§H单击此可启用T4+鱼雷和能量鱼雷§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_energy_lance:0 "£options_icon  §R禁用T3+能量光矛§!"
+ gsc_start_menu.2.disable_energy_lanceTT:0 "§H单击此可禁用T3+能量光矛§!\n这将阻止T3+能量光矛的研究出现在游戏中。"
+ gsc_start_menu.2.enable_energy_lance:0 "£options_icon  §G启用T3+能量光矛§!"
+ gsc_start_menu.2.enable_energy_lanceTT:0 "§H单击此可启用T3+能量光矛§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_kinetic_cannon:0 "£options_icon  §R禁用T3+动力加农炮§!"
+ gsc_start_menu.2.disable_kinetic_cannonTT:0 "§H点击此关闭T3+动力加农炮§!\n这将阻止T3+动力加农炮的研究出现在游戏中。"
+ gsc_start_menu.2.enable_kinetic_cannon:0 "£options_icon  §G启用T3+动力加农炮§!"
+ gsc_start_menu.2.enable_kinetic_cannonTT:0 "§H单击此可启用T3+动力加农炮§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_kinetic_battery:0 "£options_icon  §R禁用T3+动力火炮§!"
+ gsc_start_menu.2.disable_kinetic_batteryTT:0 "§H点击此关闭T3+动力火炮§!\n这将阻止T3+动力火炮研究出现在游戏中。"
+ gsc_start_menu.2.enable_kinetic_battery:0 "£options_icon  §G启用T3+动力火炮§!"
+ gsc_start_menu.2.enable_kinetic_batteryTT:0 "§H单击此可启用T3+动力火炮§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_perdition_beam:0 "£options_icon  §R禁用T2+毁灭光束§!"
+ gsc_start_menu.2.disable_perdition_beamTT:0 "§H单击此可禁用T2+毁灭光束§!\n这将阻止T2+毁灭光束的研究出现在游戏中。"
+ gsc_start_menu.2.enable_perdition_beam:0 "£options_icon  §G启用T2+毁灭光束§!"
+ gsc_start_menu.2.enable_perdition_beamTT:0 "§H单击此可启用T2+毁灭光束§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_strike_craft:0 "£options_icon  §R禁用T4舰载机 §!"
+ gsc_start_menu.2.disable_strike_craftTT:0 "§H单击此命令可禁用T4舰载机§!\n这将阻止T4舰载机研究出现在游戏中。"
+ gsc_start_menu.2.enable_strike_craft:0 "£options_icon  §G启用T4舰载机§!"
+ gsc_start_menu.2.enable_strike_craftTT:0 "§H单击此可启用T4舰载机 §!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_point_defenses:0 "£options_icon  §R禁用T4+点防御和高射炮§!"
+ gsc_start_menu.2.disable_point_defensesTT:0 "§H单击此可禁用T4+点防御和高射炮§!\n这将阻止T4+点防御和高射研究出现在游戏中。"
+ gsc_start_menu.2.enable_point_defenses:0 "£options_icon  §G启用T4+点防御和高射炮§!"
+ gsc_start_menu.2.enable_point_defensesTT:0 "§H单击此选项可启用T4+点防御和高射炮§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_disruptors:0 "£options_icon  §R禁用T4+干扰器§!"
+ gsc_start_menu.2.disable_disruptorsTT:0 "§H单击此可禁用T4+干扰器§!\n这将阻止T4+干扰器的研究出现在游戏中。"
+ gsc_start_menu.2.enable_disruptors:0 "£options_icon  §G启用T4+干扰器§!"
+ gsc_start_menu.2.enable_disruptorsTT:0 "§H单击此以启用T4+干扰器§!"
+ 
+ # -- #
+ gsc_start_menu.2.disable_arc_emitter:0 "£options_icon  §R禁用T2+电弧发射器§!"
+ gsc_start_menu.2.disable_arc_emitterTT:0 "§H单击此可禁用T2+电弧发射器§!\n这将阻止T2+电弧发射器的研究出现在游戏中。"
+ gsc_start_menu.2.enable_arc_emitter:0 "£options_icon  §G启用T2+电弧发射器§!"
+ gsc_start_menu.2.enable_arc_emitterTT:0 "§H单击此可启用T2+电弧发射器§!"
+ 
+ 
+ # -- Non-Weapons -- #
+ # -- #
+ gsc_start_menu.3.disable_reactors:0 "£options_icon  §R禁用T6 +反应堆§!"
+ gsc_start_menu.3.disable_reactorsTT:0 "§H单击此可禁用T6+反应器§!\n这将阻止T6+反应堆的研究出现在游戏中。"
+ gsc_start_menu.3.enable_reactors:0 "£options_icon  §G启用T6+反应堆§!"
+ gsc_start_menu.3.enable_reactorsTT:0 "§H单击此以启用T6+反应器§!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_hangars:0 "£options_icon  §R禁用维护海湾 §!"
+ gsc_start_menu.3.disable_hangarsTT:0 "§H单击此可禁用维护海湾§!\n这将阻止维护海湾的研究出现在游戏中。"
+ gsc_start_menu.3.enable_hangars:0 "£options_icon  §G启用维护海湾 §!"
+ gsc_start_menu.3.enable_hangarsTT:0 "§H单击此可启用维护海湾§!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_targeting_matrix:0 "£options_icon  §R禁用目标矩阵§!"
+ gsc_start_menu.3.disable_targeting_matrixTT:0 "§H单击此可禁用目标矩阵 §!\n这将阻止目标矩阵研究出现在游戏中。"
+ gsc_start_menu.3.enable_targeting_matrix:0 "£options_icon  §G启用目标矩阵§!"
+ gsc_start_menu.3.enable_targeting_matrixTT:0 "§H单击此以启用目标矩阵§!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_armor:0 "£options_icon  §R禁用T6 +护甲 §!"
+ gsc_start_menu.3.disable_armorTT:0 "§H单击可禁用T6+护甲§!\n这将阻止T6+装甲研究出现在游戏中。"
+ gsc_start_menu.3.enable_armor:0 "£options_icon  §G启用T6+护甲 §!"
+ gsc_start_menu.3.enable_armorTT:0 "§H单击此以启用T6+护甲 §!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_shields:0 "£options_icon  §R禁用T6+护盾§!"
+ gsc_start_menu.3.disable_shieldsTT:0 "§H单击此可禁用T6+护盾 §!\n这将阻止T6+护盾的研究出现在游戏中。"
+ gsc_start_menu.3.enable_shields:0 "£options_icon  §G启用T6+护盾 §!"
+ gsc_start_menu.3.enable_shieldsTT:0 "§H单击此以启用T6+护盾 §!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_plating:0 "£options_icon  §R禁用T2+船体电镀 §!"
+ gsc_start_menu.3.disable_platingTT:0 "§H单击此命令可禁用T2+船体电镀§!\n这将阻止T2+船体电镀研究出现在游戏中。"
+ gsc_start_menu.3.enable_plating:0 "£options_icon  §G启用T2+船体电镀§!"
+ gsc_start_menu.3.enable_platingTT:0 "§H单击此以启用T2+船体电镀 §!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_hull_regen:0 "£options_icon  §R禁用T2+船体再生组织§!"
+ gsc_start_menu.3.disable_hull_regenTT:0 "§H单击此可禁用T2+船体再生组织§!\n这将阻止T2+船体再生组织研究出现在游戏中。"
+ gsc_start_menu.3.enable_hull_regen:0 "£options_icon  §G启动T2+船体再生组织§!"
+ gsc_start_menu.3.enable_hull_regenTT:0 "§H单击此可启用T2+船体再生组织§!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_sensors:0 "£options_icon  §R禁用T5 +传感器 §!"
+ gsc_start_menu.3.disable_sensorsTT:0 "§H单击此可禁用T5+传感器 §!\n这将阻止T5+传感器的研究出现在游戏中。"
+ gsc_start_menu.3.enable_sensors:0 "£options_icon  §G启用T5+传感器§!"
+ gsc_start_menu.3.enable_sensorsTT:0 "§H单击此以启用T5+传感器§!"
+ 
+ # -- #
+ gsc_start_menu.3.disable_thrusters:0 "£options_icon  §R禁用装甲&灵能推进器§!"
+ gsc_start_menu.3.disable_thrustersTT:0 "§H单击此可禁用装甲&灵能推进器§!\n这将阻止装甲&灵能推进器的研究出现在游戏中。"
+ gsc_start_menu.3.enable_thrusters:0 "£options_icon  §G启用装甲&灵能推进器§!"
+ gsc_start_menu.3.enable_thrustersTT:0 "§H单击此可启用装甲&灵能推进器§!"
+  
+ # -- #
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

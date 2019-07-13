@@ -26,7 +26,7 @@
  
  civic_cbshing_eternal_leader:0 "永远的领袖"
  civic_cbshing_eternal_leader_desc:0 "这个文明被一位不朽的领袖所统治。"
- civic_tooltip_cbshing_eternal_leader_effects:1 "游戏开始时，你们的统治者拥有§Y$leader_trait_origins_ruler_eternal$§!的特性，他是长生不老的。一旦陷入危机，你们的§Y$leader_trait_origins_ruler_eternal$§!领袖将使用灵能来拯救帝国于水深火热之中，但是这将会带来一些后果。"
+ civic_tooltip_cbshing_eternal_leader_effects:1 "游戏开始时，你们的统治者拥有§Y$leader_trait_origins_ruler_eternal$§!的特性，他是长生不老的。如果陷入危机，你们的§Y$leader_trait_origins_ruler_eternal$§!领袖将使用灵能来拯救帝国于水深火热之中，但是这将会带来一些后果。"
  
  civic_cbshing_nuclear_vault:0 "末日掩体"
  civic_cbshing_nuclear_vault_desc:0 "在一个巨大地下掩体的保护下，这个世界躲过了核战争的恐怖末日。他们成功保存了他们的文化与科学，但他们对地表生活的严酷现实还一无所知。"
@@ -142,8 +142,8 @@
  START_SCREEN_PART_TWO_NUCLEAR_VAULT:0 "在我们历史早期的混乱年代，许多民族国家为了争夺权力而大打出手。当我们进入原子时代后发生了一场巨大的悲剧。数百枚核弹头轰然爆炸，我们的世界化为一片废墟。若不是依靠我们的巨大掩体设施和英明的统治者，直到今天我们也无法重建家园。"
  START_SCREEN_PART_TWO_ETERNAL_LEADER:0 "在我们历史早期的混乱年代，许多民族国家为了争夺权力而大打出手，直到我们不朽的[GetRulerTitle] [GetRulerName]到来。只有在一个愿景的引导下，我们才能够充分发挥我们的潜力，实现一个稳定和科学进步的时代。"
  START_SCREEN_PART_TWO_NUKED_START:0 ""
- START_SCREEN_LOST_COLONY:0 "自从方舟载着我们的祖先从遥远的[GetHomeWorldName]抵达[Capital.GetName]世界以来，已经过去了一个多世纪。在经历了漫长而艰险的旅程之后，殖民者们因为第一次看到阳光而感到欣喜————尽管是来自陌生的恒星。\n\n早期的岁月是艰难的。我们的殖民者不得不团结起来，共同对抗那些致命的外星猛兽。我们击退了那些野生动物并且培育出比想象中还要困难的陆地作物。然而我们每克服一个挑战，我们[GetSpeciesNamePlural]就会变得更加强大。\n\n一旦我们征服了这个新的星球，我们的人口数量就会成倍增长。在过去的几十年里，我们的科学技术突飞猛进。是时候了，[GetName]已经准备就绪，去寻找我们物种起源的那颗星球吧！"
- START_SCREEN_LOST_COLONY_CM:0 "自从方舟号将我们的祖先从遥远的[GetHomeWorldName]带到我们已知的家园星球[Capital.GetName]以来，已经过去了一个多世纪了。 在经历了漫长而艰险的旅程之后，殖民者们因为第一次看到阳光而感到欣喜————尽管是来自陌生的恒星。\n\n早期的岁月是艰难的。我们的殖民者不得不团结起来，共同对抗那些致命的外星猛兽。我们击退了那些野生动物并且培育出比想象中还要困难的陆地作物。然而我们每克服一个挑战，我们就会变得更加强大。\n\n一旦我们征服了这个新的星球，我们的人口数量就会成倍增长。在过去的几十年里，我们的科学技术突飞猛进。我们现在终于可以伸出手来，夺回我们的星球！"
+ START_SCREEN_LOST_COLONY:0 "自从方舟载着我们的祖先从遥远的[GetHomeWorldName]抵达[Capital.GetName]世界以来，已经过去了一个多世纪。在经历了漫长而艰险的旅程之后，殖民者们因为第一次看到阳光而感到欣喜————尽管是来自陌生的恒星。\n\n早期的岁月是艰难的。我们的殖民者不得不团结起来，共同对抗那些致命的外星猛兽。我们击退了那些野生动物并且培育出比想象中还要困难的陆地作物。然而我们每克服一个挑战，我们[GetSpeciesNamePlural]就会变得更加强大。\n\n如果我们征服了这个新的星球，我们的人口数量就会成倍增长。在过去的几十年里，我们的科学技术突飞猛进。是时候了，[GetName]已经准备就绪，去寻找我们物种起源的那颗星球吧！"
+ START_SCREEN_LOST_COLONY_CM:0 "自从方舟号将我们的祖先从遥远的[GetHomeWorldName]带到我们已知的家园星球[Capital.GetName]以来，已经过去了一个多世纪了。 在经历了漫长而艰险的旅程之后，殖民者们因为第一次看到阳光而感到欣喜————尽管是来自陌生的恒星。\n\n早期的岁月是艰难的。我们的殖民者不得不团结起来，共同对抗那些致命的外星猛兽。我们击退了那些野生动物并且培育出比想象中还要困难的陆地作物。然而我们每克服一个挑战，我们就会变得更加强大。\n\n如果我们征服了这个新的星球，我们的人口数量就会成倍增长。在过去的几十年里，我们的科学技术突飞猛进。我们现在终于可以伸出手来，夺回我们的星球！"
  
  ################################################
  # Origins Unbalanced & Untested Start Messages

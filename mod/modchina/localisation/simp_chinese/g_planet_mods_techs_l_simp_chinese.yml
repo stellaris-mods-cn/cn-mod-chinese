@@ -55,11 +55,279 @@
  tech_gpm_tb_Dunes_desc:0 "沙丘清除项目包括成功种植植被。仅仅在沙漠地区散布和留下种子是一种潜在的浪费，因为强风可以把种子吹走。任何沙丘或洼地中幼苗的种植都应在潮湿的条件下进行，随后覆盖一层沙子。成熟的植被个体应在深孔中种植，植株的顶部剪短，以减少风的阻力。"
 
  # 7 tech
- tech_gpm_arcane_deciphering:0 "解读远古知识"
- tech_gpm_arcane_deciphering_desc:0 "在第一个 £arcane_technology §M远古先驱科技§!的发现地建造一个研究基地，而关于如何处理这些远古造物，我们需要一份明确的说明指南。"
- gpm_arcane_deciphering_desc:0 "§H解锁法令:§! 神秘法令"
 
  # 8 tech 
  gpm_tech_space_surveying:224 "行星测量"
  gpm_tech_space_surveying_desc:224 "在你的殖民星系中，解开行星决策，将资源集中到不适合居住的星球上。"
  gpm_space_surveying_desc:224 "解开不适合居住的星球决策"
+
+
+# ---- Patch 2.3
+
+ tech_gpm_Precursor_Remnants_Discovery:224 "非标准考古学家安全装备"
+ tech_gpm_Precursor_Remnants_Discovery_desc:224 "允许您的考古学家选择自己的装备和保护的基础上，他们正在的探索提供最好的成功机会!"
+
+ tech_gpm_Precursor_Remnants_Discovery_2:224 "三探针搜索模式"
+ tech_gpm_Precursor_Remnants_Discovery_2_desc:224 "利用优化的搜索模式，同时使用三个探测器，极大地提高了我们扫描星球表面的能力。"
+
+ tech_gpm_Precursor_Energy_Grid_Discovery:224 "能量回收渠道"
+ tech_gpm_Precursor_Energy_Grid_Discovery_desc:224 "新的热回收系统在能源管道允许更有效的权力转移。不幸的是，这种新技术在真空环境中工作得最好，而且非常脆弱，所以最适合于固定设计。"
+
+ tech_gpm_Precursor_Energy_Grid_Discovery_2:224 "能量场理论"
+ tech_gpm_Precursor_Energy_Grid_Discovery_2_desc:224 "关于能量场的新理论将对我们产生能量的能力产生积极的影响。"
+
+ tech_gpm_Precursor_Satellite_Grid_Discovery:224 "非反射式观测站"
+ tech_gpm_Precursor_Satellite_Grid_Discovery_desc:224 "超黑射频吸收材料的特殊涂层使我们的观测站和卫星几乎看不见。"
+
+ tech_gpm_Precursor_Satellite_Grid_Discovery_2:224 "深空信号助推器"
+ tech_gpm_Precursor_Satellite_Grid_Discovery_2_desc:224 "自供电的深空卫星是远距离通信的助推系统。这些助推器使长距离的计划更加有效。"
+ 
+ tech_gpm_Precursor_City_Discovery:224 "鼓舞人心的设计"
+ tech_gpm_Precursor_City_Discovery_desc:224 "高性价比、美观的建筑设计。"
+ 
+ tech_gpm_Precursor_City_Discovery_2:224 "算法规划"
+ tech_gpm_Precursor_City_Discovery_2_desc:224 "看似复杂的城市规划是由先进的算法创造的。"
+ 
+ tech_gpm_Precursor_Shipyards_Discovery:224 "分形制造"
+ tech_gpm_Precursor_Shipyards_Discovery_desc:224 "利用新的制造技术，用分形网格打印更小的组件，使我们可以节省材料。"
+ 
+ tech_gpm_Precursor_Shipyards_Discovery_2:224 "快速交换单元"
+ tech_gpm_Precursor_Shipyards_Discovery_2_desc:224 "微型机械手臂，配备了自己的基本人工智能单元，允许更有效地交换组件，大大减少了材料浪费。"
+ 
+ tech_gpm_Precursor_Planetary_Gun_Discovery:224 "量子预测算法"
+ tech_gpm_Precursor_Planetary_Gun_Discovery_desc:224 "专门的量子计算机芯片在预测目标位置方面效率更高。"
+ 
+ tech_gpm_Precursor_Planetary_Gun_Discovery_2:224 "气凝胶冷却板"
+ tech_gpm_Precursor_Planetary_Gun_Discovery_2_desc:224 "特殊的碳气凝胶涂层可以应用于我们的武器系统，使他们能够更快发射，而不会造成内部过热的损害。"
+ 
+ tech_gpm_Precursor_Bunker_Grid_Discovery:224 "便携式力场"
+ tech_gpm_Precursor_Bunker_Grid_Discovery_desc:224 "先进的力场发射器使它们更容易部署。"
+ 
+ tech_gpm_Precursor_Bunker_Grid_Discovery_2:224 "防守经验"
+ tech_gpm_Precursor_Bunker_Grid_Discovery_2_desc:224 "在先驱者星球上发现的巨大的防御线和掩体允许进行更激烈和更现实的战斗训练。快速获得攻击防御阵地和保护防御阵地的专业知识。"
+ 
+ tech_gpm_Precursor_Mechs_Discovery:224 "采矿机械"
+ tech_gpm_Precursor_Mechs_Discovery_desc:224 "装备有两个高能采矿钻机的小型机械可以切割任何类型的岩石。"
+ 
+ tech_gpm_Precursor_Mechs_Discovery_2:224 "自动重新装载武器"
+ tech_gpm_Precursor_Mechs_Discovery_2_desc:224 "微小的自动机械臂可以快速地为我们的舰船装载小型自卫系统。"
+ 
+ tech_gpm_Precursor_Planetary_Shield_Discovery:224 "护盾频率调节器"
+ tech_gpm_Precursor_Planetary_Shield_Discovery_desc:224 "特殊的调制器在我们的护盾中制造出涟漪，使它们具有额外的力量来抵御直接的冲击。"
+ 
+ tech_gpm_Precursor_Planetary_Shield_Discovery_2:224 "宽通道护盾管道"
+ tech_gpm_Precursor_Planetary_Shield_Discovery_2_desc:224 "宽通道导管允许更大的能量通过护盾发射器，使我们的护盾恢复力量更快。"
+
+ tech_gpm_Precursor_Floating_City_Discovery:224 "重力锚"
+ tech_gpm_Precursor_Floating_City_Discovery_desc:224 "重力锚减轻了结构自身重量带来的应力。它们允许建造更高、更宽的建筑。"
+ 
+ tech_gpm_Precursor_Floating_City_Discovery_2:224 "微重力领域"
+ tech_gpm_Precursor_Floating_City_Discovery_2_desc:224 "小型发射器产生局部的反重力场，使结构具有远挤压平台和截面而不坍塌。"
+ 
+ tech_gpm_Precursor_Capital_Complex_Discovery:224 "官僚协议"
+ tech_gpm_Precursor_Capital_Complex_Discovery_desc:224 "标准化的高效协议允许决策比以前更快地通过治理系统。"
+ 
+ tech_gpm_Precursor_Capital_Complex_Discovery_2:224 "外交绥靖技巧"
+ tech_gpm_Precursor_Capital_Complex_Discovery_2_desc:224 "无论是否出于真正的利益，我们都可以通过稍微摆出一副居高临下的姿态，来减少对邻国的威胁。一种普遍适用的外交技巧。我们被认为是父母，而不是好斗的兄弟姐妹。"
+ 
+ tech_gpm_Precursor_Communication_Hub_Discovery:224 "时间晶体存储"
+ tech_gpm_Precursor_Communication_Hub_Discovery_desc:224 "人造时间晶体不会降解，可以用来储存大量的知识。所有的知识和指令，一个新的殖民地可能需要成长和扩大。"
+ 
+ tech_gpm_Precursor_Communication_Hub_Discovery_2:224 "深空中继站"
+ tech_gpm_Precursor_Communication_Hub_Discovery_2_desc:224 "高效的，自供电的中继站来增强来自我们帝国边境的信号。"
+ 
+ tech_gpm_Precursor_Singularity_Drive_Discovery:224 "主数据库"
+ tech_gpm_Precursor_Singularity_Drive_Discovery_desc:224 "包含我们帝国全部科学知识的专用数据库。专门的查找数据的算法使交叉引用科学信息变得更容易。"
+ 
+ tech_gpm_Precursor_Singularity_Drive_Discovery_2:224 "个人奇点助理"
+ tech_gpm_Precursor_Singularity_Drive_Discovery_2_desc:224 "一个微型的简单版本的奇点驱动被用作个人助理。虽然个人驱动器在形式上很简单，但如果被要求，它可以计算极其复杂的任务。"
+ 
+ tech_gpm_Precursor_Eternal_Fortress_Discovery:224 "轨道伪装"
+ tech_gpm_Precursor_Eternal_Fortress_Discovery_desc:224 "根据建筑物周围的环境，用不同的角度和颜色建造建筑物的独特方法使它们很难从轨道上看到。"
+ 
+ tech_gpm_Precursor_Eternal_Fortress_Discovery_2:224 "极地驻军"
+ tech_gpm_Precursor_Eternal_Fortress_Discovery_2_desc:224 "对先驱者战争的洞察使我们相信，极地入侵是一种比我们最初认为的更为普遍的战略。"
+ 
+ tech_gpm_Precursor_Prison_Planet:224 "无人机观察者"
+ tech_gpm_Precursor_Prison_Planet_desc:224 "在街道上巡逻的微型无人机，很像它们那静止不动的变种:交通摄像头。"
+ 
+ tech_gpm_Precursor_Prison_Planet_2:224 "监狱星球宣传"
+ tech_gpm_Precursor_Prison_Planet_2_desc:224 "一个明显的提醒，在监狱行星的经历不是一段快乐的时光。害怕被运送到一个这样的地方就足以让大多数市民保持秩序。"
+ 
+ tech_gpm_Precursor_Mines:224 "矿物传感器领域"
+ tech_gpm_Precursor_Mines_desc:224 "传感器场，甚至能够发现最小和最深的矿脉矿物。"
+ 
+ tech_gpm_Precursor_Mines_2:224 "隧道挖掘纳米粒子"
+ tech_gpm_Precursor_Mines_2_desc:224 "用于挖掘通往矿脉的深隧道的微型机械。这些自动化机器建造了高度复杂和坚固的隧道，能够比以往任何时候都走得更深。"
+ tech_gpm_Precursor_Mines_2TT:0 "§Y解锁建筑:§! 采矿纳米线"
+  
+ tech_gpm_Precursor_Manufactorium:224 "冷铸造厂"
+ tech_gpm_Precursor_Manufactorium_desc:224 "高压冷冻系统嵌入在我们的合金锻件中，使他们能够快速连续铸造热金属。"
+ 
+ tech_gpm_Precursor_Manufactorium_2:224 "零重力腰带"
+ tech_gpm_Precursor_Manufactorium_2_desc:224 "反重力场可以将材料和成品从工厂的一个部分向任何方向运输到另一个部分，而不需要物理安装。多个生产链可以安装在一个非常小的空间。"
+ 
+ tech_gpm_Precursor_Vaults:224 "人工制品排放"
+ tech_gpm_Precursor_Vaults_desc:224 "发现来自这些人工制品的独特的子空间辐射使我们能够从很远的地方探测到它们。银河系中到处都是它们，我们只要把它们捡起来!"
+ 
+ tech_gpm_Precursor_Vaults_2:224 "古金库藏宝图"
+ tech_gpm_Precursor_Vaults_2_desc:224 "在发现的一件文物的一个隔间里藏着一张地图。通往我们领土内的一个隐藏的墓穴，在一个古老的月球上。探险队已经出发了。 "
+ 
+ tech_gpm_Precursor_Crashed_Spacestation:224 "自组装恒星基地模块"
+ tech_gpm_Precursor_Crashed_Spacestation_desc:224 "高度模块化的系统使得星际基地可以很便宜地改变他们的配置。"
+ 
+ tech_gpm_Precursor_Crashed_Spacestation_2:224 "恒星基地热回收"
+ tech_gpm_Precursor_Crashed_Spacestation_2_desc:224 "庞大的热传导节点网络使星际基地能够有效地回收余热。"
+ 
+ tech_gpm_Precursor_Battleground_Ruins:224 "等离子步枪"
+ tech_gpm_Precursor_Battleground_Ruins_desc:224 "配备等离子枪的士兵发射一束等离子体，这是一种物质的激发态，由原子电子、原子核和自由电子组成，无论击中什么，都会造成前所未有的伤害。"
+ 
+ tech_gpm_Precursor_Battleground_Ruins_2:224 "等离子体投掷"
+ tech_gpm_Precursor_Battleground_Ruins_2_desc:224 "等离子体喷射器发射出锥形的等离子体流，它接触到的任何东西都会立即蒸发成一团过热的气体。在等离子体喷射器的接收端，是士兵所经历过的最可怕的经历。"
+ 
+ tech_gpm_Precursor_Outpost_Ruins:224 "子空间传感器"
+ tech_gpm_Precursor_Outpost_Ruins_desc:224 "能够探测到子空间的传感器可以探测到比传统传感器更远的船只的翘曲信号。"
+ 
+ tech_gpm_Precursor_Outpost_Ruins_2:224 "命令前哨"
+ tech_gpm_Precursor_Outpost_Ruins_2_desc:224 "专业化的军事指挥前哨使舰队能够更好地与中央司令部协调。因此，将更多的资产提交到前线变得容易得多。"
+ 
+ tech_gpm_Precursor_Harbor_Ruins:224 "自动渔业"
+ tech_gpm_Precursor_Harbor_Ruins_desc:224 "自动化港口渔业提供了源源不断的食物，而不会对环境造成负面影响。"
+ 
+ tech_gpm_Precursor_Harbor_Ruins_2:224 "纳米流体过滤器"
+ tech_gpm_Precursor_Harbor_Ruins_2_desc:224 "高能流体过滤器，通过其纳米乳过滤液体，形成可饮用的液体。"
+ 
+ tech_gpm_Precursor_Ruins:224 "先驱者理论"
+ tech_gpm_Precursor_Ruins_desc:224 "一个巨大的先驱者知识数据库将帮助我们进行新的发现。"
+ 
+ tech_gpm_Precursor_Ruins_2:224 "快速而有效"
+ tech_gpm_Precursor_Ruins_2_desc:224 "不顾一些复杂的指导原则去探索古代文物是有必要的，以击败我们的竞争对手的发现。"
+ 
+ tech_gpm_Precursor_Obelisks:224 "地貌改造方尖碑"
+ tech_gpm_Precursor_Obelisks_desc:224 "将破碎的遗物拼凑在一起，我们发现了它的主要用途。那是一座土方尖塔。一种高层建筑，设计用来过滤、加热并将各种气体和液体散布在行星的某一区域以使其地貌改造。"
+ 
+ tech_gpm_Precursor_Obelisks_2:224 "A.I. 个人设备"
+ tech_gpm_Precursor_Obelisks_2_desc:224 "我们的首席科学家分析的一个人工制品是一个小方尖碑，大约有一个杯子那么大。它的主要目的似乎是帮助计算计算出的复杂问题。似乎可以帮助计算复杂的问题。"
+ 
+ tech_gpm_Very_Hot_Core_Discovery:224 "核心流体动力学"
+ tech_gpm_Very_Hot_Core_Discovery_desc:224 "更好地理解星球核心周围的对流，将大大提高我们地貌改造的能力。"
+ 
+ tech_gpm_Very_Hot_Core_Discovery_2:224 "创造火山"
+ tech_gpm_Very_Hot_Core_Discovery_2_desc:224 "关于在战略位置创造人工火山以引发临时全球冬季的地形理论。在大气中捕获颗粒并加热行星可以大大降低对星球造成影响的能量需求。"
+ 
+ tech_gpm_Gaia_World_Discovery:224 "气候理论"
+ tech_gpm_Gaia_World_Discovery_desc:224 "研究盖亚星球的许多不同的气候，导致了一些关于异国气候存在的有趣理论。这些知识将极大地有益于我们适应环境的能力。"
+ 
+ tech_gpm_Gaia_World_Discovery_2:224 "坚不可摧的豆子"
+ tech_gpm_Gaia_World_Discovery_2_desc:224 "发现了一种几乎可以在任何地方生长、营养含量高的新型豆类。这种新食物将大大有利于我们养活殖民地的能力。"
+ 
+ tech_gpm_Holy_World_Discovery:224 "远古之声"
+ tech_gpm_Holy_World_Discovery_desc:224 "最近发现的盖亚星球上的神圣信号的发现给了我们的政府在所有领域资助科学研究所需的推动。我们必须发现这些古老的帝国。"
+ 
+ tech_gpm_Holy_World_Discovery_2:224 "存在主义咨询"
+ tech_gpm_Holy_World_Discovery_2_desc:224 "银河系中有古老文明的消息已经动摇了我们的社会。最好提供咨询以帮助我们的人民摆脱这种存在主义的恐惧。"
+ 
+ tech_gpm_Floating_Islands_Discovery:224 "反重力助推器"
+ tech_gpm_Floating_Islands_Discovery_desc:224 "人工反重力助推器的发现使我们对人工重力的性质有了独特的见解。"
+ tech_gpm_Floating_Islands_Discovery_tt:224 "§H解锁行星决策:§! 建造浮岛"
+ 
+ tech_gpm_Floating_Islands_Discovery_2:224 "重力喷射器"
+ tech_gpm_Floating_Islands_Discovery_2_desc:224 "T反重力喷射系统产生一个强大的重力推动加载的弹丸，允许他们以更高的速度发射。"
+ 
+ tech_gpm_Ruined_Battlefield_Discovery:224 "闪电战战术"
+ tech_gpm_Ruined_Battlefield_Discovery_desc:224 "对古代战场的研究表明，在现代战争中，使用高速或自行车部队侧翼阵地仍然具有巨大的价值。"
+ 
+ tech_gpm_Ruined_Battlefield_Discovery_2:224 "供应线破坏"
+ tech_gpm_Ruined_Battlefield_Discovery_2_desc:224 "研究表明，破坏补给线比破坏或摧毁补给线对敌方士气有更大的不利影响。"
+  
+ tech_gpm_Spaceship_Graveyard_Discovery:224 "标准隔间模板"
+ tech_gpm_Spaceship_Graveyard_Discovery_desc:224 "舰船标准施工模板大大降低了制造成本。"
+ 
+ tech_gpm_Spaceship_Graveyard_Discovery_2:224 "上部结构舱壁"
+ tech_gpm_Spaceship_Graveyard_Discovery_2_desc:224 "我们船上的每一个舱室都排列着极其密集的舱壁，使它们对物理应力更有弹性。"
+ 
+ tech_gpm_Artificial_Water_Discovery:224 "自我复制"
+ tech_gpm_Artificial_Water_Discovery_desc:224 "精心控制的纳米石可以自我复制，给我们提供了无限的纳米石供应，供其他地方使用。"
+ 
+ tech_gpm_Artificial_Water_Discovery_2:224 "纳米冷却液"
+ tech_gpm_Artificial_Water_Discovery_2_desc:224 "纳米冷却液能够保持自身的低温，因此它可以永远保持在零度以下的温度。它通过从环境中主动地传递热量并将热量保存在高效热电池中来实现这一点。"
+ 
+ tech_gpm_Android_Pleasure_Palace_Discovery:224 "黑市机器人"
+ tech_gpm_Android_Pleasure_Palace_Discovery_desc:224 "虽然没有官方的支持，但快乐机器人是如此广泛，在这一点上是不可能禁止的。一个繁荣的黑市已经导致几乎每个家庭都有一个，尽管没有人会承认拥有一个。"
+ 
+ tech_gpm_Android_Pleasure_Palace_Discovery_2:224 "机器人仆人"
+ tech_gpm_Android_Pleasure_Palace_Discovery_2_desc:224 "唯一温顺和暗示性的人工智能被用来构建银河系所见过的最好的私人仆人。"
+ 
+ tech_gpm_Ancient_Temple_Discovery:224 "考古探索无人驾驶航空器"
+ tech_gpm_Ancient_Temple_Discovery_desc:224 "32-B型短程无人机是一种高度适应和可靠的无人机，能够在最危险和难以接近的地方寻找不自然的物品。"
+ 
+ tech_gpm_Ancient_Temple_Discovery_2:224 "考古 AI"
+ tech_gpm_Ancient_Temple_Discovery_2_desc:224 "专门构建的人工智能帮助分析挖掘中发现的大量线索。"
+ 
+ tech_gpm_Crystal_Moon_Palace_Discovery:224 "晶体生长催化剂"
+ tech_gpm_Crystal_Moon_Palace_Discovery_desc:224 "一种外来化学物质的组合，能极大地提高人造晶体结构的生长速度。"
+ 
+ tech_gpm_Crystal_Moon_Palace_Discovery_2:224 "分形折射"
+ tech_gpm_Crystal_Moon_Palace_Discovery_2_desc:224 "具有无限分形图案的人造晶体是通过折射聚焦目标能量的最佳方法。"
+ 
+ tech_gpm_Plasmoid_Life_Discovery:224 "等离子体场"
+ tech_gpm_Plasmoid_Life_Discovery_desc:224 "通过在武器火力周围建立一个稳定的等离子场，我们可以确保他们有更高的穿透装甲的概率。"
+ 
+ tech_gpm_Plasmoid_Life_Discovery_2:224 "氡等离子体制造"
+ tech_gpm_Plasmoid_Life_Discovery_2_desc:224 "利用氡气作为一种高稳定性、非反应性材料，并将其过热等离子体，在非稳定元素制造领域有着显著的应用。"
+ 
+ tech_gpm_Temple_of_the_Ancient_One_Discovery:224 "洞察仪式"
+ tech_gpm_Temple_of_the_Ancient_One_Discovery_desc:224 "一本古老的卷轴讲述了一种仪式，它能让人们洞察宇宙的本质。"
+ 
+ tech_gpm_Temple_of_the_Ancient_One_Discovery_2:224 "祭祀仪式"
+ tech_gpm_Temple_of_the_Ancient_One_Discovery_2_desc:224 "一幅古老的卷轴讲述了一种延长生命的仪式。但要付出代价。"
+ 
+ tech_gpm_Proto_Forests_Discovery:224 "外来水果"
+ tech_gpm_Proto_Forests_Discovery_desc:224 "生长迅速的外来树种，可生产多汁的橙子果实。"
+ 
+ tech_gpm_Proto_Forests_Discovery_2:224 "治愈之花"
+ tech_gpm_Proto_Forests_Discovery_2_desc:224 "超凡脱俗的花，具有显著的愈合特性。这些花非常娇嫩，需要长期的照料才能生长和收获。"
+ 
+ tech_gpm_Hiveworld_Discovery:224 "再生粘液"
+ tech_gpm_Hiveworld_Discovery_desc:224 "任何材料周围都可以涂上一层薄薄的活性粘液层，使其具有自我修复的保护层。这种粘液具有难以置信的耐寒性，能够在恶劣的太空条件下生存。"
+ 
+ tech_gpm_Hiveworld_Discovery_2:224 "充气舱"
+ tech_gpm_Hiveworld_Discovery_2_desc:224 "周期性地产生稀有稳定气体作为代谢副产物的生物生长。"
+ 
+ tech_gpm_Arachnophobia_Discovery:224 "蛛形纲DNA"
+ tech_gpm_Arachnophobia_Discovery_desc:224 "克隆某种古老的食肉动物可能会出什么问题？"
+ tech_gpm_Arachnophobia_Discovery_tt:224 "§H解锁军队:§! 蛛形纲动物军队" 
+ 
+ tech_gpm_Arachnophobia_Discovery_2:224 "包装行为研究"
+ tech_gpm_Arachnophobia_Discovery_2_desc:224 "对蛛形纲动物群体行为的独特洞察为研究其他物种带来了一些有趣的新方法。"
+ 
+ tech_gpm_Giant_Worm_Discovery:224 "致密外鳞片"
+ tech_gpm_Giant_Worm_Discovery_desc:224 "最近发现的巨型蠕虫周期性地释放出巨大的鳞片，可以用来加强我们舰船装甲上较弱的部位。"
+ 
+ tech_gpm_Giant_Worm_Discovery_2:224 "采矿蠕虫"
+ tech_gpm_Giant_Worm_Discovery_2_desc:224 "驯养的巨型蠕虫可以用来挖掘巨大的隧道。这些蠕虫仍在卵中时被带到我们的殖民地。精心培育是确保他们只在我们希望他们挖掘的地方挖掘的关键。"
+ 
+ tech_gpm_Artificial_Core_Discovery:224 ""
+ tech_gpm_Artificial_Core_Discovery_desc:224 ""
+ 
+ tech_gpm_Artificial_Core_Discovery_2:224 ""
+ tech_gpm_Artificial_Core_Discovery_2_desc:224 ""
+ 
+ tech_gpm_Surface_Of_Bones_Discovery:224 "道德教育"
+ tech_gpm_Surface_Of_Bones_Discovery_desc:224 "这个充满骨头的星球的发现在我们社会的各个阶层引起了相当大的轰动。为了防止自己陷入可能导致如此恐怖的境地，我们引入了永久的、高度集中的道德教义。我们绝不能犯和骨头星球上犯的同样的错误。"
+ 
+ tech_gpm_Surface_Of_Bones_Discovery_2:224 "附带恐惧"
+ tech_gpm_Surface_Of_Bones_Discovery_2_desc:224 "恐惧造成大量死亡和附带损害，仅仅是为了打击敌人的目标，导致难以置信的智能弹药和武器系统。用力打击，准确打击，只打击敌人！"
+ 
+ tech_gpm_Strange_Alien_Eggs_Discovery:224 "孵化"
+ tech_gpm_Strange_Alien_Eggs_Discovery_desc:224 "对所发现的卵的精心管理使我们能够生长出更多的这些生物。"
+ tech_gpm_Strange_Alien_Eggs_Discovery_tt:224 "每7年获得1个§Y异种§!军队。"
+ 
+ tech_gpm_Strange_Alien_Eggs_Discovery_2:224 "私人捐助者"
+ tech_gpm_Strange_Alien_Eggs_Discovery_2_desc:224 "有些发现是如此独特和有趣，以至于它们实际上邀请了私人投资者。"
+ 
+ tech_gpm_Mushroom_Forest_Discovery:224 "为死者准备的地方"
+ tech_gpm_Mushroom_Forest_Discovery_desc:224 "巨大的蘑菇林是清除死者的理想场所。这些大型真菌吃掉尸体的速度是史无前例的，这使得处理尸体成为一个安全和环保的选择。"
+ 
+ tech_gpm_Mushroom_Forest_Discovery_2:224 "蓝色真菌"
+ tech_gpm_Mushroom_Forest_Discovery_2_desc:224 "一种奇怪的蓝色蘑菇被发现具有独特的增强男性活力的特性。最重要的是，这似乎会导致高度上瘾，并可能被通缉。"

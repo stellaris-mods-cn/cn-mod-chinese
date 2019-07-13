@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
-#l_simp_chinese:
-#commented this out so that I get the correct tooltips with my validator
 
 cc_events_mod.1.name:0 "排外主义言论"
 cc_events_mod.1.desc:0 "[root.GetRulerTitle] [root.GetRulerName]近日发表排外主义言论时不慎被人录像。他对[discriminated_species.GetSpeciesNamePlural]的智力与外表大加嘲讽，称它们永远无法与[root.GetSpeciesNamePlural]相提并论。[discriminated_species.GetSpeciesName]社群对此义愤填膺，以[xenoist_faction.GetName]为首的外星权益活动家们公开要求[root.GetRulerTitle] [root.GetRulerName]辞职下台。"
@@ -395,6 +393,5 @@ does_not_allow_im_name:0 "不承认跨物种婚姻"
 ban_im_completely:0 "禁止跨物种性行为"
 ban_im_completely_desc:0 "禁止所有跨物种性行为\n\n注:亲外主义人口£pops 会感到遭受压迫，并可能逃往其他跨物种婚姻合法的国家。"
 bans_im_completely_name:0 "禁止跨物种性行为"
-
 
 cc_xeno_marriage_allowed_isolationist:0 "$cc_xeno_marriage_allowed_supremacist$"

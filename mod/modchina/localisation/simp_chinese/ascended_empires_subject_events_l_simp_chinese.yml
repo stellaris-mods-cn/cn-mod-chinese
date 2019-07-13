@@ -80,7 +80,7 @@
  ascended_empires_subject.17.d:0 "什么也不做。"
  
  ascended_empires_subject.18.name:0 "来自§H[AscendedEmpireOverlord.GetName]§!"
- ascended_empires_subject.18.desc.nabbed_fleet:0 "我们一直在观察你如何滥用你的海军力量，并认为你的行为不符合我们的利益。其实是这样的，我们决定援引我们的《条约》第50条，该条约允许[AscendedEmpireOverlord.GetName]国家立即对[NoobEmpire.GetName]舰队进行控制。这个过程是不可逆转的，一旦触发，就不要反抗，否则就要面对[AscendedEmpireOverlord.GetName]的愤怒。"
+ ascended_empires_subject.18.desc.nabbed_fleet:0 "我们一直在观察你如何滥用你的海军力量，并认为你的行为不符合我们的利益。其实是这样的，我们决定援引我们的《条约》第50条，该条约允许[AscendedEmpireOverlord.GetName]国家立即对[NoobEmpire.GetName]舰队进行控制。这个过程是不可逆转的，如果触发，就不要反抗，否则就要面对[AscendedEmpireOverlord.GetName]的愤怒。"
  ascended_empires_subject.18.desc.destroyed_fleet:0 "似乎你的舰队是恶意网络攻击的目标，在许多情况下，这导致了自毁协议的参与。由于黑客似乎在使用[AscendedEmpireOverlord.GetSpeciesName]技术，我们将进行全面调查，追查肇事者。同时，我们也应该借此机会提醒自己，服从的重要性以及我们的利益。"
  
  ascended_empires_subject.18.a:0 "什么？不可能！"

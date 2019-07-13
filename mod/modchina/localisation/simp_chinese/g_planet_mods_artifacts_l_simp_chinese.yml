@@ -1,0 +1,14 @@
+﻿l_simp_chinese:
+ 
+ gpm_artifact_precursor_deciphering_locked:244 "§L??????§!"
+ gpm_artifact_precursor_deciphering_locked_desc:244 "$artifact_action_locked_desc$"
+ gpm_artifact_precursor_deciphering:224 "先驱者技术实验"
+ gpm_artifact_precursor_deciphering_desc:224 "让你的科学家尝试分析一些文物，看看他们将为我们自己的研究产生什么见解。"
+ gpm_artifact_precursor_deciphering_effect:224 "在£minor_artifacts£上进行实验，以发现随机先驱者技术。\n\n冷却: £time£ §Y1800§!"
+ gpm_artifact_precursor_deciphering_cooldown:224 "实验冷却时间"
+ requires_gpm_artifact_precursor_deciphering_no_cooldown:224 "无法获得实验冷却时间"
+ 
+ gpm_artifact_precursor_deciphering_effectTT:0 "分解£minor_artifacts£以获得随机的技术奖励。在随机技术中获得进展，获得研究点数或获得临时研究速度奖励。\n\n有§Y20%§!机会发现一种罕见的先驱者技术。\n\n冷却: £time£ §Y720§!"
+
+ gpm_artifact.1.name:224 "实验结果：发现先驱者技术"
+ gpm_artifact.1.desc:224 "对神秘文物的实验产生了令人难以置信的技术突破!"

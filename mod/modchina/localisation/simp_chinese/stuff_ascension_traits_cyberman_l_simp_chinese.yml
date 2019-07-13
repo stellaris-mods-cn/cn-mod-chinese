@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
     #Technology
     tech_cybermen:0 "完整的控制集成"
-    tech_cybermen_desc:1 "机器人集成设施能够复制我们工蜂的想法。一旦一个物种被分类，就没有必要保留表现不佳的器官。"
+    tech_cybermen_desc:1 "机器人集成设施能够复制我们工蜂的想法。如果一个物种被分类，就没有必要保留表现不佳的器官。"
     
     #Ascension Perk
     ap_cybermen:0 "钢铁时代"

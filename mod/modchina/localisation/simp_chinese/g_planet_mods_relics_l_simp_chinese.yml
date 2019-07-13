@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+
+ gpm_r_time_displacer:0 "时间置换剂"
+ gpm_r_time_displacer_desc:0 "to do"
+ gpm_relic_time_displacer_effectTT:0 "重置其他遗迹的冷却时间。\n\n不重置§Y时间置换剂§!冷却时间。"
+ relic_activation_cooldown_time_relic:0 "时间置换剂冷却时间"
+ relic_time_displader_cooldown:0 "\n$relic_activation_cooldown_time_relic$: £time£ §Y3600§!"
+ requires_relic_time_displacer_relic_cooldown:0 "$TRIGGER_FAIL$§RRequires§! §Y$relic_activation_cooldown$§!"
+ requires_relic_no_cooldown_time_displacer:0 "$TRIGGER_FAIL$§R当§Y$relic_activation_cooldown_time_relic$§!激活时，无法激活时间置换剂。§!"
+ gpm_relic_time_displacer_sci_effectTT:0 "§G这种效应会随着时间的推移而增强。§!"
+
+

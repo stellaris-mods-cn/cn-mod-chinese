@@ -3,7 +3,7 @@
  ###Megastructures###
  mega_shipyard:0 "巨型船坞"
  mega_shipyard_DESC:0 "在此银河之中所能建成的最为强劲的船坞。在数月之间，它就可以制造出无数舰船，供最伟大的星际帝国叱咤银河。"
- mega_shipyard_MEGASTRUCTURE_DETAILS:0 "一旦使用特殊的模块与恒星基地链接，这座巨大的船坞就可以迅速生产大量的舰船。"
+ mega_shipyard_MEGASTRUCTURE_DETAILS:0 "如果使用特殊的模块与恒星基地链接，这座巨大的船坞就可以迅速生产大量的舰船。"
  
  edict_active_mega_shipyard:0 "§G启动巨型船坞§!"
  edict_active_mega_shipyard_desc:0 "下令用巨型船坞建造一支庞大的舰队。"

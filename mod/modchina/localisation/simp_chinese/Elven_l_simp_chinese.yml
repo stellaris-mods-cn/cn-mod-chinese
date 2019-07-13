@@ -72,6 +72,7 @@ elven_requires_not_ringworld:0 "$TRIGGER_FAIL$不能建立在环形世界的周�
 ####################################
 trait_elven_true:0 "精灵"
 trait_elven_true_desc:0 "§L这一文明起源于神秘的埃尔达，因此有着很长的寿命。§!\n"
+TRAIT_ELVEN_TRUE_EFFECT:0 "Leader Lifespan: §GImmortal§!\n人口$consumer_goods$维护: §R+15%§!\n$MOD_POP_GROWTH_SPEED_REDUCTION$: §R10%§!"
 trait_elven_unity:0 "和谐的森林"
 trait_elven_unity_desc:0 "§L这场比赛强调分享和谐，鼓励友谊和共情。§!\n"
 trait_elven_savage:0 "精灵野蛮人"
@@ -80,6 +81,13 @@ trait_elven_bella:0 "精灵的美丽"
 trait_elven_bella_desc:0 "§L埃尔达族的后代具有神秘的吸引力，但却消耗了更多的资源。§!\n"
 trait_elven_mage:0 "法师纪律"
 trait_elven_mage_desc:0 "§L这个种族适合于晦涩的研究，而不是其他的活动。§!\n"
+
+####################################
+# OPINION MODIFIERS
+####################################
+ elven_triggered_opinion_elf_and_elf:0 "埃尔达利亲和力"
+ elven_triggered_opinion_elf_and_drow:0 "埃尔达利亲和力"
+ elven_triggered_opinion_drow_and_elf:0 "埃尔达利亲和力"
 
 ####################################
 # CIVICS
@@ -330,3 +338,7 @@ d_elven_planetary_daerlas_mina_desc:0 "古代锡德人的传说称，米娜勋�
 
 d_elven_planetary_aerostat_plantations:0 "航空种植园"
 d_elven_planetary_aerostat_plantations_desc:0 "一位伟大的仙人农民，他的名字已经被历史遗忘，他曾经说过，庄稼更喜欢和平与安静。这是在任何现任住宅都很难找到的东西。为了补救这一不幸的情况，以及尽可能获得难看的作物，设计了大型的航空平台，能够运载大片的植物生命。现在仙人们可以在家里享受自然美景，再也也不会挨饿了。"
+
+# ARCHEOLOGY RELATED #
+
+d_elven_planetary_elenyas_gate:0 "艾伦雅之门"

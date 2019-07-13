@@ -12,6 +12,9 @@ l_simp_chinese:
  mem_lost_emperor_science_investigate:0 "$mem_lost_emperor_category$"
  mem_lost_emperor_science_investigate_DESC:0 "$mem_lost_emperor_category_desc$"
 
+ mem_lost_emperor_azran_chain_title:0 "神秘飞船"
+ mem_lost_emperor_azran_chain_desc:0 "我们的传感器探测到一个小的金属物体以异常近的距离绕着一颗恒星运行。我们应该进一步调查。"
+
  mem_lost_emperor.1.name:0 "神秘飞船"
  mem_lost_emperor.1.desc:0 "最后发现该物体为一个金属太空舱，可能大到足以容纳一个活人。它看上去被一些设计先进的太阳能电池板所覆盖。能量读数显示它消耗了大量的能量，推测部分原因应该是为了让它保持漂浮，以免太过靠近恒星轨道而遭受辐射。\n\n当[root.GetName]将平板上的传感器固定好并向它接近时，它就开始一直向我们广播消息。它用了整整七十二种语言传来消息，上面写着：“危险！保持距离！”"
  mem_lost_emperor.1.A:0 "最好别管它了。"
@@ -156,7 +159,7 @@ l_simp_chinese:
  
  
  mem_lost_emperor.29.name:0 "$mem_lost_emperor.23.name$"
- mem_lost_emperor.29.desc:0 "当我们登上太空舱，我们的太空陆战队很快被五里河, our space marine squads were quickly overwhelmed by a fierce onslaught of physical force and cyber attacks on our systems. They were thrown back with significant casualties. Our computing systems likewise suffered, our entire communications net falling offline momentarily. In the confusion, Neochadanus appears to have seized the [mem_neochadanus_ship.GetName]. Having seemingly installed a series of updates to the ship's software systems, the ship was steered through a series of improbable manoeuvres before activating the emergency disengage system.\n\nThe [mem_neochadanus_ship.GetName] has since dropped off our radar. We will have to wait and see where it re-emerges."
+ mem_lost_emperor.29.desc:0 "当我们登上太空舱，我们的太空陆战队很快被击退,我们的太空陆战队小队很快就被猛烈的物理攻击和对我们系统的网络攻击所击溃。我们伤亡惨重。我们的计算系统也受到了同样的影响，我们的整个通信网络暂时中断了。在混乱中，查达努斯似乎抓住了[mem_neochadanus_ship.GetName]。在安装了一系列的软件系统更新之后，这艘船在启动紧急脱离系统之前进行了一系列不太可能的操作。\n\n[mem_neochadanus_ship.GetName]已经从我们的雷达上消失了。我们将不得不等待，看它在哪里重新出现。"
  mem_lost_emperor.29.tooltip:0 "$mem_lost_emperor.23.tooltip$"
  
  #Neochadanus Ascendant (seizes planet)
@@ -212,7 +215,7 @@ l_simp_chinese:
  mem_lost_emperor.900.name:0 "神皇发来的信息"
  mem_lost_emperor.900.desc:0 "凡人们！这里是你们敬爱的皇帝，尼奥查达努斯。作为对你们过去几十年中为我忠实服务的回报，我给你们带来了你们难以想象的繁荣。不过我的时间到了。现在是我提升到下一维度的时候了。作为我对你们做出的工作的回报，我要求你们在这次的努力中支持我。"
  mem_lost_emperor.900.A:0 "我们当然会支持你。"
- mem_lost_emperor.900.A.tooltip:0 "\n一旦完成，神皇将离开提升到另一维度。"
+ mem_lost_emperor.900.A.tooltip:0 "\n如果完成，神皇将离开提升到另一维度。"
  mem_lost_emperor.900.A.response:0 "谢谢你。"
  mem_lost_emperor.900.B:0 "不，我们仍然需要你。"
  mem_lost_emperor.900.B.tooltip:0 "激怒神皇可能是危险的。"
@@ -314,3 +317,14 @@ l_simp_chinese:
  mem_lost_emperor.61.name:0 "深刻的信息"
  mem_lost_emperor.61.desc:0 "负责看守尼奥查达努斯的科学家们报告了一个重大的突破：似乎老皇帝对“额外星门”的主题发表了未加防范的评论，这些评论一传达给正研究L星门的[root.GetSpeciesAdj]当局，就激发了新的方法大大推进了他们的研究。"
  mem_lost_emperor.61.option:0 "真是好消息。"
+
+ mem_lost_emperor_find_out_about_azran:0 "调查方位距离的能力"
+ mem_lost_emperor_find_out_about_azran_DESC:0 "我们应该让我们的军事理论家分析战斗录像，以确定阿兹兰构成的威胁的性质。"
+
+ mem_lost_emperor.605.name:0 "阿兹兰:一个令人担忧的威胁"
+ mem_lost_emperor.605.desc:0 "在我们最近输给阿兹兰之后，我们的一名战争法医专家调查了战斗的录像和其他残片。他们声称，如果有足够的资源来适当地研究阿兹兰，他们就能发现阿兹兰到底有多强大，以及我们如何才能最好地克服这个问题的答案。"
+ mem_lost_emperor.605.option:0 "我们将考虑这一点。"
+
+ mem_lost_emperor.606.name:0 "发现:方位距离的能力"
+ mem_lost_emperor.606.desc:0 "我们的军事理论家分析了我们与阿兹兰的战斗，并能够提出以下发现:\n\n- 阿兹兰完全依靠能量武器。其中最主要的是一连串似乎是能量鱼雷和等离子爆炸，但也使用了干扰剂，探测器似乎处理了一组强大的点防御武器。\n\n- 阿兹兰的护盾非常强大。然而，对我们通过这些护盾射进的子弹的分析表明，尽管探测器的外壳可能会受到严重的伤害，但它似乎没有配备任何传统的装甲。\n\n他们认为，阿兹兰拥有相当于我们目前用来衡量舰队实力的40万至6万军事力量。"
+ mem_lost_emperor.606.option:0 "有趣。"

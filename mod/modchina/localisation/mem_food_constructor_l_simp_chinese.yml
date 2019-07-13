@@ -127,9 +127,9 @@
  mem_food_constructor.13.desc:0 "我们的科学团队在环形世界上搜索了无数的仓库。在众多超出我们的理解设备中，我们找到了一个巨大的仓库，里面充满了毫无疑问的瑞森密匙。我们的科学团队报告说，恢复一个并没有什么问题。其余的奇妙的瑞森装置将为未来几年提供宝贵的见解。"
  mem_food_constructor.13.desc.machine:0 "我们的研究单位在环形世界上搜索了无数的仓库。在许多违反我们分类的设备中，他们找到了一个巨大的仓库，里面充满了瑞森密匙，其可辨认性为96％。恢复一个并没有任何并发症。 其余奇妙的瑞森装置将为未来几年提供宝贵的见解。"
  mem_food_constructor.13.desc.hive:0 "我们的工蜂在环形世界上搜索了无数的仓库。在众多超出我们理解的设备中，我们找到了一个巨大的仓库，里面充满了毫无疑问的瑞森密匙。恢复一个并没有任何并发症。其余奇妙的瑞森装置将为未来几年提供宝贵的见解。"
- mem_food_constructor.13a.tooltip:0 "瑞森密匙将尽快交付。"
+ mem_food_constructor.13a.tooltip:1 "瑞森密匙将尽快交付。"
  mem_food_constructor.13b:0 "现在我们可以很容易地关闭我们遇到的任何食物构造器。"
- mem_food_constructor.13b.tooltip:0 "我们要把瑞森密匙放我们这里，以防以后我们需要它"
+ mem_food_constructor.13b.tooltip:1 "我们要把瑞森密匙放我们这里，以防以后我们需要它"
  
  mem_food_constructor.14.name:0 "食品构造器关机"
  mem_food_constructor.14.desc:0 "§Y[Root.GetName]§!上的公民热烈庆祝瑞森密匙的交付并插入食品构造器中。该设备似乎已经耗尽了所有能量，灰色的粉尘噩梦终于结束了。"
@@ -192,3 +192,8 @@
 
  mem_requires_voidborn_ap: "§R需要 §Y$ap_voidborn$§R 飞升或 §Y$tech_mega_engineering$§R Technology.§!"
  mem_requires_starbase_4_tech: "§R需要 §Y$tech_starbase_4$§R 或 §Y$tech_mega_engineering$§R 科技.§!"
+
+ mem_food_constructor_large_ship:0 "守门人"
+ mem_food_constructor_large_ship_plural:0 "守门人"
+ mem_food_constructor_small_ship:0 "看门狗"
+ mem_food_constructor_small_ship_plural:0 "看门狗"

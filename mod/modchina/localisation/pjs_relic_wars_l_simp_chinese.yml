@@ -1,0 +1,248 @@
+﻿l_simp_chinese:
+
+  casus_belli_cb_dragon_trophy:0 "§E$dragon_trophy$§!拒绝"
+  war_goal_wg_dragon_trophy:0 "夺取§E$dragon_trophy$§!"
+  war_goal_wg_dragon_trophy_desc:0 "敌人有§E$dragon_trophy$§!。我们必须把它据为己有。"
+
+  relic_wars.10.name:0 "夺取§E$dragon_trophy$§!"
+  relic_wars.10.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$dragon_trophy$§!。!"
+  relic_wars.10.a:0 "它现在属于我们。"
+
+  relic_wars.11.name:0 "失去§E$dragon_trophy$§!"
+  relic_wars.11.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$dragon_trophy$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.11.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_khans_throne:0 "§E$khans_throne$§!拒绝"
+  war_goal_wg_khans_throne:0 "夺取§E$khans_throne$§!"
+  war_goal_wg_khans_throne_desc:0 "敌人有§E$khans_throne$§!。我们必须把它据为己有。"
+
+  relic_wars.20.name:0 "夺取§E$khans_throne$§!"
+  relic_wars.20.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$khans_throne$§!。"
+  relic_wars.20.a:0 "它现在属于我们。"
+
+  relic_wars.21.name:0 "失去§E$khans_throne$§!"
+  relic_wars.21.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$khans_throne$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.21.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_worm_scales:0 "§E$worm_scales$§!拒绝"
+  war_goal_wg_worm_scales:0 "夺取§E$worm_scales$§!"
+  war_goal_wg_worm_scales_desc:0 "敌人有§E$worm_scales$§!。我们必须把它据为己有。"
+
+  relic_wars.30.name:0 "夺取§E$worm_scales$§!"
+  relic_wars.30.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$worm_scales$§!。"
+  relic_wars.30.a:0 "它现在属于我们。"
+
+  relic_wars.31.name:0 "失去§E$worm_scales$§!"
+  relic_wars.31.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$worm_scales$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.31.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_rubricator:0 "§E$rubricator$§!拒绝"
+  war_goal_wg_rubricator:0 "夺取§E$rubricator$§!"
+  war_goal_wg_rubricator_desc:0 "敌人有§E$rubricator$§!。我们必须把它据为己有。"
+
+  relic_wars.40.name:0 "夺取§E$rubricator$§!"
+  relic_wars.40.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$rubricator$§!。"
+  relic_wars.40.a:0 "它现在属于我们。"
+
+  relic_wars.41.name:0 "失去§E$rubricator$§!"
+  relic_wars.41.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$rubricator$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.41.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_galaxy:0 "§E$galaxy$§!拒绝"
+  war_goal_wg_galaxy:0 "夺取§E$galaxy$§!"
+  war_goal_wg_galaxy_desc:0 "敌人有§E$galaxy$§!。我们必须把它据为己有。"
+
+  relic_wars.50.name:0 "夺取§E$galaxy$§!"
+  relic_wars.50.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$galaxy$§!。"
+  relic_wars.50.a:0 "它现在属于我们。"
+
+  relic_wars.51.name:0 "失去§E$galaxy$§!"
+  relic_wars.51.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$galaxy$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.51.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_omnicodex:0 "§E$omnicodex$§!拒绝"
+  war_goal_wg_omnicodex:0 "夺取§E$omnicodex$§!"
+  war_goal_wg_omnicodex_desc:0 "敌人有§E$omnicodex$§!。我们必须把它据为己有。"
+
+  relic_wars.60.name:0 "夺取§E$omnicodex$§!"
+  relic_wars.60.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$omnicodex$§!。"
+  relic_wars.60.a:0 "它现在属于我们。"
+
+  relic_wars.61.name:0 "失去§E$omnicodex$§!"
+  relic_wars.61.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$omnicodex$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.61.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_surveyor:0 "§E$surveyor$§!拒绝"
+  war_goal_wg_surveyor:0 "夺取§E$surveyor$§!"
+  war_goal_wg_surveyor_desc:0 "敌人有§E$surveyor$§!。我们必须把它据为己有。"
+
+  relic_wars.70.name:0 "夺取§E$surveyor$§!"
+  relic_wars.70.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$surveyor$§!。"
+  relic_wars.70.a:0 "它现在属于我们。"
+
+  relic_wars.71.name:0 "失去§E$surveyor$§!"
+  relic_wars.71.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$surveyor$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.71.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_ancient_sword:0 "§E$ancient_sword$§!拒绝"
+  war_goal_wg_ancient_sword:0 "夺取§E$ancient_sword$§!"
+  war_goal_wg_ancient_sword_desc:0 "敌人有§E$ancient_sword$§!。我们必须把它据为己有。"
+
+  relic_wars.90.name:0 "夺取§E$ancient_sword$§!"
+  relic_wars.90.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$ancient_sword$§!。"
+  relic_wars.90.a:0 "它现在属于我们。"
+
+  relic_wars.91.name:0 "失去§E$ancient_sword$§!"
+  relic_wars.91.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$ancient_sword$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.91.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_severed_head:0 "§E$severed_head$§!拒绝"
+  war_goal_wg_severed_head:0 "夺取§E$severed_head$§!"
+  war_goal_wg_severed_head_desc:0 "敌人有§E$severed_head$§!。我们必须把它据为己有。"
+
+  relic_wars.100.name:0 "夺取§E$severed_head$§!"
+  relic_wars.100.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$severed_head$§!。"
+  relic_wars.100.a:0 "它现在属于我们。"
+
+  relic_wars.101.name:0 "失去§E$severed_head$§!"
+  relic_wars.101.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$severed_head$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.101.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_prethoryn_queen:0 "§E$prethoryn_queen$§!拒绝"
+  war_goal_wg_prethoryn_queen:0 "夺取§E$prethoryn_queen$§!"
+  war_goal_wg_prethoryn_queen_desc:0 "敌人有§E$prethoryn_queen$§!。我们必须把它据为己有。"
+
+  relic_wars.110.name:0 "夺取§E$prethoryn_queen$§!"
+  relic_wars.110.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$prethoryn_queen$§!。"
+  relic_wars.110.a:0 "它现在属于我们。"
+
+  relic_wars.111.name:0 "失去§E$prethoryn_queen$§!"
+  relic_wars.111.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$prethoryn_queen$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.111.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_unbidden_warlock:0 "§E$unbidden_warlock$§!拒绝"
+  war_goal_wg_unbidden_warlock:0 "夺取§E$unbidden_warlock$§!"
+  war_goal_wg_unbidden_warlock_desc:0 "敌人有§E$unbidden_warlock$§!。我们必须把它据为己有。"
+
+  relic_wars.120.name:0 "夺取§E$unbidden_warlock$§!"
+  relic_wars.120.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$unbidden_warlock$§!。"
+  relic_wars.120.a:0 "它现在属于我们。"
+
+  relic_wars.121.name:0 "失去§E$unbidden_warlock$§!"
+  relic_wars.121.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$unbidden_warlock$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.121.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_contingency_core:0 "§E$contingency_core$§!拒绝"
+  war_goal_wg_contingency_core:0 "夺取§E$contingency_core$§!"
+  war_goal_wg_contingency_core_desc:0 "敌人有§E$contingency_core$§!。我们必须把它据为己有。"
+
+  relic_wars.130.name:0 "夺取§E$contingency_core$§!"
+  relic_wars.130.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$contingency_core$§!。"
+  relic_wars.130.a:0 "它现在属于我们。"
+
+  relic_wars.131.name:0 "失去§E$contingency_core$§!"
+  relic_wars.131.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$contingency_core$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.131.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_zro_crystal:0 "§E$zro_crystal$§!拒绝"
+  war_goal_wg_zro_crystal:0 "夺取§E$zro_crystal$§!"
+  war_goal_wg_zro_crystal_desc:0 "敌人有§E$zro_crystal$§!。我们必须把它据为己有。"
+
+  relic_wars.140.name:0 "夺取§E$zro_crystal$§!"
+  relic_wars.140.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$zro_crystal$§!。"
+  relic_wars.140.a:0 "它现在属于我们。"
+
+  relic_wars.141.name:0 "失去§E$zro_crystal$§!"
+  relic_wars.141.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$zro_crystal$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.141.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_the_last_baol:0 "§E$the_last_baol$§!拒绝"
+  war_goal_wg_the_last_baol:0 "夺取§E$the_last_baol$§!"
+  war_goal_wg_the_last_baol_desc:0 "敌人拥有§E$the_last_baol$§!。我们必须把它据为己有。"
+
+  relic_wars.150.name:0 "夺取§E$the_last_baol$§!"
+  relic_wars.150.desc:0 "[From.From.GetName]已经承认失败，我们已经成功夺取§E$the_last_baol$§!。"
+  relic_wars.150.a:0 "它现在属于我们。"
+
+  relic_wars.151.name:0 "失去§E$the_last_baol$§!"
+  relic_wars.151.desc:0 "除了在交接过程中无数的工作人员歇斯底里，§E$the_last_baol$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.151.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_the_defragmentor:0 "§E$the_defragmentor$§!拒绝"
+  war_goal_wg_the_defragmentor:0 "夺取§E$the_defragmentor$§!"
+  war_goal_wg_the_defragmentor_desc:0 "敌人拥有§E$the_defragmentor$§!。我们必须把它据为己有。"
+
+  relic_wars.160.name:0 "夺取§E$the_defragmentor$§!"
+  relic_wars.160.desc:0 "[From.From.GetName]已经承认失败，我们已经成功夺取§E$the_defragmentor$§!。"
+  relic_wars.160.a:0 "它现在属于我们。"
+
+  relic_wars.161.name:0 "失去§E$the_defragmentor$§!"
+  relic_wars.161.desc:0 "除了在交接过程中，许多公务员歇斯底里地大发脾气外，§E$the_defragmentor$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.161.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_reality_perforator:0 "§E$reality_perforator$§!拒绝"
+  war_goal_wg_reality_perforator:0 "夺取§E$reality_perforator$§!"
+  war_goal_wg_reality_perforator_desc:0 "敌人有§E$reality_perforator$§!。我们必须把它据为己有。"
+
+  relic_wars.170.name:0 "夺取§E$reality_perforator$§!"
+  relic_wars.170.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$reality_perforator$§!。"
+  relic_wars.170.a:0 "它现在属于我们。"
+
+  relic_wars.171.name:0 "失去§E$reality_perforator$§!"
+  relic_wars.171.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$reality_perforator$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.171.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_pox_sample:0 "§E$pox_sample$§!拒绝"
+  war_goal_wg_pox_sample:0 "夺取§E$pox_sample$§!"
+  war_goal_wg_pox_sample_desc:0 "敌人有§E$pox_sample$§!。我们必须把它据为己有。"
+
+  relic_wars.180.name:0 "夺取§E$pox_sample$§!"
+  relic_wars.180.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$pox_sample$§!。"
+  relic_wars.180.a:0 "它现在属于我们。"
+
+  relic_wars.181.name:0 "失去§E$pox_sample$§!"
+  relic_wars.181.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$pox_sample$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.181.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_cryo_core:0 "§E$cryo_core$§!拒绝"
+  war_goal_wg_cryo_core:0 "夺取§E$cryo_core$§!"
+  war_goal_wg_cryo_core_desc:0 "敌人有§E$cryo_core$§!。我们必须把它据为己有。"
+
+  relic_wars.190.name:0 "夺取§E$cryo_core$§!"
+  relic_wars.190.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$cryo_core$§!。"
+  relic_wars.190.a:0 "它现在属于我们。"
+
+  relic_wars.191.name:0 "失去§E$cryo_core$§!"
+  relic_wars.191.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$cryo_core$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.191.a:0 "痛苦无言的哀号。"
+
+
+  casus_belli_cb_war_forge:0 "§E$war_forge$§!拒绝"
+  war_goal_wg_war_forge:0 "夺取§E$war_forge$§!"
+  war_goal_wg_war_forge_desc:0 "敌人有§E$war_forge$§!。我们必须把它据为己有。"
+
+  relic_wars.200.name:0 "夺取§E$war_forge$§!"
+  relic_wars.200.desc:0 "[From.From.GetName]已经承认失败了，我们已经从他们不值得的手中夺回了光荣的§E$war_forge$§!。"
+  relic_wars.200.a:0 "它现在属于我们。"
+
+  relic_wars.201.name:0 "失去§E$war_forge$§!"
+  relic_wars.201.desc:0 "除了在移交过程中许多工作人员歇斯底里之外，把§E$war_forge$§!交给[From.GetAdj]是一件很平常的事情。"
+  relic_wars.201.a:0 "痛苦无言的哀号。"
+

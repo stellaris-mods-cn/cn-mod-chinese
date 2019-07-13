@@ -204,7 +204,7 @@
  bwm_the_conduit.201:0 "超越自我" 
  bwm_the_conduit.201.desc:0 "我们的科学家已经完成了对 -地狱的使者- 事件船反应堆的输出调整，这个修改可以让它在短时间内爆发出惊人的战斗力，但副作用也不小。" 
  bwm_the_conduit.201.a:0 "很不错，但这个能力应该谨慎使用。"
- bwm_the_conduit.201.a.tooltip:0 "§Y -警告- 一旦脱离爆发模式，该舰性能会大大降低。§!"
+ bwm_the_conduit.201.a.tooltip:0 "§Y -警告- 如果脱离爆发模式，该舰性能会大大降低。§!"
 
  bwm_the_conduit.204:0 "超动力爆发模式"
  bwm_the_conduit.204.desc:0 "-解除限制阀，爆发模式激活-"

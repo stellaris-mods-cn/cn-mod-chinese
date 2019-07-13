@@ -91,7 +91,7 @@
  tech_titan_doomsday_weapons_04_desc:0 "\n一台会自我复制的机器是我们技术进步的成果。然而没有有效保护和正确使用只会造成灾难。所以这个架构能有效保证我们安全使用这些机器。\n\n"
 
  tech_titan_doomsday_weapons_05:0 "末日武器: 反汇编纳米机器"
- tech_titan_doomsday_weapons_05_desc:0 "\n一旦往星球释放这些会不断自我复制的机器将会分解转换所有物质（无论原物质是有机还是无机），它们会通过预定的模式不断下去执行直到接收到新的AI指令为止。\n\n激活武器必须先得到授权。\n\n"
+ tech_titan_doomsday_weapons_05_desc:0 "\n如果往星球释放这些会不断自我复制的机器将会分解转换所有物质（无论原物质是有机还是无机），它们会通过预定的模式不断下去执行直到接收到新的AI指令为止。\n\n激活武器必须先得到授权。\n\n"
 
 # Avatar chain
  tech_avatar:0 "化身工程"

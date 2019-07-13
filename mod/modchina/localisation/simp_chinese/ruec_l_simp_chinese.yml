@@ -1,9 +1,9 @@
 ﻿l_simp_chinese:
  
  decision_city_ruined_repair:0 "都市星球修复项目"
- decision_city_ruined_repair_desc:0 "这种不断延伸的生态系统将星球从一个极端转换到另一个极端，创造了一个覆盖全球的特大都市，创造出了一个奇迹般的都市星球。一旦恢复，它将再次成为帝国综合力量达到巅峰的象征。"
+ decision_city_ruined_repair_desc:0 "这种不断延伸的生态系统将星球从一个极端转换到另一个极端，创造了一个覆盖全球的特大都市，创造出了一个奇迹般的都市星球。如果恢复，它将再次成为帝国综合力量达到巅峰的象征。"
  decision_city_molten_repair:0 "都市星球修复项目"
- decision_city_molten_repair_desc:0 "这种不断延伸的生态系统将星球从一个极端转换到另一个极端，创造了一个覆盖全球的特大都市，创造出了一个奇迹般的都市星球。一旦恢复，它将再次成为帝国综合力量达到巅峰的象征。"
+ decision_city_molten_repair_desc:0 "这种不断延伸的生态系统将星球从一个极端转换到另一个极端，创造了一个覆盖全球的特大都市，创造出了一个奇迹般的都市星球。如果恢复，它将再次成为帝国综合力量达到巅峰的象征。"
  ruec_repair:0 "都市星球修复项目"
  
  pc_city_ruined:0 "毁灭的都市星球"

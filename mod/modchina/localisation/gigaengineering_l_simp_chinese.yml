@@ -334,7 +334,7 @@
  
 ###Events###
  gigaeng.1000.name:0 "恒星套娃脑结构"
- gigaeng.1000.desc:0 "现在我们已经准备好开始构建恒星套娃脑这个艰巨任务。第一步是在恒星周围建造两个太阳能电容器，这将抑制恒星不需要的外部活动。随着外层不断完成，将会产生越来越多的研究。记住，一旦我们完成了最后一层，矩阵的效率就会飞速上升。星系内的行星将会被拆除以便为巨型结构腾出空间。"
+ gigaeng.1000.desc:0 "现在我们已经准备好开始构建恒星套娃脑这个艰巨任务。第一步是在恒星周围建造两个太阳能电容器，这将抑制恒星不需要的外部活动。随着外层不断完成，将会产生越来越多的研究。记住，如果我们完成了最后一层，矩阵的效率就会飞速上升。星系内的行星将会被拆除以便为巨型结构腾出空间。"
  gigaeng.1000.a:0 "太棒了！"
  gigaeng.1001.name:0 "太阳能电容器建造完成"
  gigaeng.1001.desc:0 "太阳能电容器现在安装在恒星周围，并且正在积极收集能量和防止太阳风暴。我们将建造主数据库作为第一计算层。它将作为一个巨大的存储单元，不断收集和分析来自银河系所有角落的新数据。"
@@ -524,7 +524,7 @@
  spegigaeng.1005.desc:0 "我们的工程师很高兴地报告说，被毁的框形世界的一段已经成功修复了!辅助电路的电力已经恢复了，而奎伯林则从自动化工厂中流动，配备先进的能量转换开关。在结构和土壤中大量的奎伯林产生了使植物变绿的奇怪的效果，但除此之外，一切都是完全象征性的。"
  spegigaeng.1005.a:0 "这是一种不可思议力量！"
  gigadrill.1000.title:0 "行星露天矿作业"
- gigadrill.1000.desc:0 "我们的自动化露天矿场已成功激活!巨大的轨道牵引车光束照射着数以吨计的矿石，数以百万计的自动化机械钻取星球的矿物，聚集在成千上万个庞大的采矿联合体中。\n\n请记住，一旦到达星球的内核，并提取所有的矿物，开采活动就会停止，据估计这将在几十年内发生。"
+ gigadrill.1000.desc:0 "我们的自动化露天矿场已成功激活!巨大的轨道牵引车光束照射着数以吨计的矿石，数以百万计的自动化机械钻取星球的矿物，聚集在成千上万个庞大的采矿联合体中。\n\n请记住，如果到达星球的内核，并提取所有的矿物，开采活动就会停止，据估计这将在几十年内发生。"
  gigadrill.1000.a:0 "矿物输出标准。"
  gigadrill.1004.title:0 "行星轨道矿到达外核"
  gigadrill.1004.desc:0 "我们在[From.GetName]自动化露天矿场的工程师和科学家人员通知我们,采矿作业已达到星球的熔融外核。\n这意味着，当我们最终到达内核的时候，矿物提取操作将在6年内停止。"
@@ -600,7 +600,7 @@
  gigadrill.1400.desc:0 "我们的科学家和工程师们已经成功地建造了一个巨大的轨道空间，供奥斯特居住，在星系的恒星之上运行。他们的天然洞穴已经被重建，现在每一个奥斯特都享受着平静的生活，几乎和我们联系他们之前的生活一样。为了尽可能少的打扰他们，我们已经和他们进行了最少的沟通。然而，这片栖息地配备了数个测量仪器，让我们的科学家和公民观察这迷人的奥斯特。"
  gigadrill.1400.a:0 "这真是太美妙了。"
  gigaeng.12000.name:0 "自动化露天矿场建造基地"
- gigaeng.12000.desc:0 "我们的工程师已经完成了在[FromFrom.GetName]组装的未来自动化露天矿建造基地。这个巨大的轨道平台将承载我们在星球周围建造大型采矿设施所需要的一切，最终开采出几乎所有的矿产。\n\n它可能会在星球上找到稀有的资源，但这些资源是暂时的。一旦行星本身耗尽，它就会耗尽。"
+ gigaeng.12000.desc:0 "我们的工程师已经完成了在[FromFrom.GetName]组装的未来自动化露天矿建造基地。这个巨大的轨道平台将承载我们在星球周围建造大型采矿设施所需要的一切，最终开采出几乎所有的矿产。\n\n它可能会在星球上找到稀有的资源，但这些资源是暂时的。如果行星本身耗尽，它就会耗尽。"
  gigaeng.12000.a:0 "优秀的工程。"
  gigaeng.12001.name:0 "自动化露天矿场轨道装置"
  gigaeng.12001.desc:0 "这个庞大的结构由两大牵引机组成，能够将大量开采的矿物都牵引起来，并可以用巨大的能量光束将地表炸开，以融化坚硬的星球部分。它还包括一个加工环，以进一步增加矿物的产量。现在，我们必须完成由数百万个机器人钻井装置组成的行星装置，以便开始进行露天采矿作业。"
@@ -609,7 +609,7 @@
  gigaeng.13000.desc:0 "在[From.GetName]星系中的球状容器装置的建造基地已经完成。它拥有建造一种能够产生人造球状闪电的设备，这是一个由辐射而非物质构成的黑洞。我们将能够将能量和物质注入到球状中，然后在需要的时候再把它提取出来并转化成物质，有效地使它成为一个非常有效的筒仓!"
  gigaeng.13000.a:0 "优秀的工程。"
  gigaeng.13001.name:0 "建造球状容器装置"
- gigaeng.13001.desc:0 "我们的工程师已经完成了制造一种能够产生人造球状闪电的大型设备。一旦我们生成了球状闪电，我们就可以通过一个特殊的建筑物将球状容器装置连接到我们的一个星球上。进入这一巨型结构将显著提高星球能源发电厂和物理实验室的效率。"
+ gigaeng.13001.desc:0 "我们的工程师已经完成了制造一种能够产生人造球状闪电的大型设备。如果我们生成了球状闪电，我们就可以通过一个特殊的建筑物将球状容器装置连接到我们的一个星球上。进入这一巨型结构将显著提高星球能源发电厂和物理实验室的效率。"
  gigaeng.13001.a:0 "太好了！"
  gigaeng.13002.name:0 "球状闪电!"
  gigaeng.13002.desc:0 "我们球状容器装置已成功生成人造球状闪电!目前能源由加速霍金辐射提供,它现在可以以辐射的形式以存储物质和能量备用!"
@@ -636,7 +636,7 @@
  gigaeng.15000.desc:0 "在[FromFrom.GetName]附近完成了未来彭罗斯球体的建造基地。在这个框架上，我们将用一个超反射镜将一个黑洞包住，以利用黑洞旋转的巨大能量。"
  gigaeng.15000.a:0 "太伟大了。"
  gigaeng.15001.name:0 "彭罗斯球体框架建造"
- gigaeng.15001.desc:0 "在[FromFrom.GetName]附近完成了未来的彭罗斯球体框架。有一天，这个骨骼框架会拥有巨大的反射镜，用我们能想到的能够完全反光的材料建造。一旦我们完成了这些镜子的构造，我们就可以选择把它变成一个巨大的炸弹，或者用它来获取能量。"
+ gigaeng.15001.desc:0 "在[FromFrom.GetName]附近完成了未来的彭罗斯球体框架。有一天，这个骨骼框架会拥有巨大的反射镜，用我们能想到的能够完全反光的材料建造。如果我们完成了这些镜子的构造，我们就可以选择把它变成一个巨大的炸弹，或者用它来获取能量。"
  gigaeng.15001.a:0 "这真是极好的。"
  gigaeng.15003.name:0 "彭罗斯球体稳定"
  gigaeng.15003.desc:0 "随着两个巨大的、难以置信的复杂的稳定剂缠绕在[FromFrom.GetName]彭罗斯球体周围，能量开始流入。超辐射散射过程现在可以在更大的尺度上发生，因为结构已经得到了适当的控制，产生了难以置信的巨大能量!"
@@ -657,7 +657,7 @@
  gigablackhole.1001.desc:0 "我们现在已经向我们的子空间扭曲炸弹注入了足够的电磁辐射，使它超过了它的极限。过度放大的辐射会不断地来回反弹，而镜像框架将会在能量过载的情况下瞬间破碎。请坐好，欣赏焰火!"
  gigablackhole.1001.a:0 "烟花总是被欣赏的。"
  gigablackhole.1000.title:0 "彭罗斯球的用途"
- gigablackhole.1000.desc:0 "现在，随着彭罗斯球体框架在[FromFrom.GetName]周围完成，我们现在必须做出选择。我们可以利用彭罗斯球体来产生能量，或者将其用作炸弹。\n\n如果我们用它来产生能量，它的输出将会相对平庸(150 £energy )，但是一旦我们得到合适的技术，就有可能稳定它。\n\n如果我们决定用它来做炸弹，我们就得让它积聚几年的能量，然后它就会获得爆炸的能力。星系里的所有东西都将被摧毁，爆炸将会变得如此强大以至于它会通过超空间航道传播。邻近星系的每一颗行星都将因能量的流动而变得不适宜居住，每一颗行星都将被辐射。最重要的是，它会在子空间中产生冲击波，扰乱和重新排列超空间航道，最多4次。"
+ gigablackhole.1000.desc:0 "现在，随着彭罗斯球体框架在[FromFrom.GetName]周围完成，我们现在必须做出选择。我们可以利用彭罗斯球体来产生能量，或者将其用作炸弹。\n\n如果我们用它来产生能量，它的输出将会相对平庸(150 £energy )，但是如果我们得到合适的技术，就有可能稳定它。\n\n如果我们决定用它来做炸弹，我们就得让它积聚几年的能量，然后它就会获得爆炸的能力。星系里的所有东西都将被摧毁，爆炸将会变得如此强大以至于它会通过超空间航道传播。邻近星系的每一颗行星都将因能量的流动而变得不适宜居住，每一颗行星都将被辐射。最重要的是，它会在子空间中产生冲击波，扰乱和重新排列超空间航道，最多4次。"
  gigablackhole.1000.a:0 "使它成为一个炸弹。"
  gigablackhole.1000.b:0 "用它来产生能量。"
  gigaeng.15002.name:0 "子空间畸变炸弹充能!"
@@ -681,7 +681,7 @@
  gigagaia.1005.desc:0 "我们的科学家团队负责探索Withdrawal星系，这告诉我们，他们已经揭开了围绕着这个奇特的空盖亚世界的神秘面纱。\n\n在这个奇怪空间站的废弃服务器里，他们发现了部分被称为“生命之杖”项目的损坏数据。几千年前，三个超级大国聚集了他们的知识尝试开发一种能够在任何岩石星球上播种生命的实验设备，无论它有多么不友好或多么荒凉。所有人都认为，他们成功了，就像现在的Withdrawal星系所显示的那样。\n\n本项目的最终目标是为每个人创造一个完美的避风港，使这些超级大国为未来的居所做好准备。看起来，负责在星球上建立基础设施的自动化机器人单位没有遇到任何问题，但在智慧生命在行星上安顿下来后的几年里，一切都乱了套。这些行星的生态系统是有弹性的。令人难以置信的弹性。事实上，动物和植物群具有很强的适应性，它们开始攻击毫无防备的殖民者，摧毁建筑，吞噬城市。看来“生命之杖”太有效了，使得行星不适合智慧生命居住。不幸的是，这个项目耗尽了超级大国的经济，因为他们没有预料到失败，导致他们的衰落和最终的崩溃。\n\n每个超级大国似乎都贡献了大约三分之一的“生命之杖”。我们的科学家相信，如果我们能设法找到这些帝国的家园星系，我们就能重新组织起我们自己的“生命之杖”。"
  gigagaia.1005.a:0 "让我们这样做。"
  spegigaeng.5001.title:0 "堕落"
- spegigaeng.5001.desc:0 "我们的科研船在探索[From.GetName]星系时发现了一个非常非常奇怪的“行星”。\n\n一颗人造“行星”!更奇怪的是，一个原始文明似乎居住在那里!这些原始生物被人工重力发电机束缚在地面上，一旦某一天他们离开自己曾经的世界，他们绝对会感到非常困惑。\n\n没人知道这是谁建造的，为了什么而建，也许没有人会这么做。这到底是怎么回事。"
+ spegigaeng.5001.desc:0 "我们的科研船在探索[From.GetName]星系时发现了一个非常非常奇怪的“行星”。\n\n一颗人造“行星”!更奇怪的是，一个原始文明似乎居住在那里!这些原始生物被人工重力发电机束缚在地面上，如果某一天他们离开自己曾经的世界，他们绝对会感到非常困惑。\n\n没人知道这是谁建造的，为了什么而建，也许没有人会这么做。这到底是怎么回事。"
  spegigaeng.5001.a:0 "真特别。"
  gigaeng.17000.name:0 "氘提取器运作"
  gigaeng.17000.desc:0 "在[FromFrom.GetName]星系中，一个氘提取器已经成功地建造在一个冰冷的小行星上。这个轨道设施配备了顶级的水泵，现在正在抽取大量的水，过滤其各种同位素，产生大量可运输的氘。机载聚变反应堆利用其他的同位素和通过电解提取的氢来产生大量的能量。"
@@ -1005,8 +1005,8 @@
  
  too_small_star:0 "$TRIGGER_FAIL$这颗星太小了。"
  
- sr_dwarven_steel:0 "中微子晶体钢"
- sr_dwarven_steel_desc:0 "几乎是在银河系最先进的铸造厂里铸造出来的魔法水晶。有能力发动最致命的武器来折磨银河系。"
+ sr_magical_neutronium:0 "中微子晶体钢"
+ sr_magical_neutronium_desc:0 "几乎是在银河系最先进的铸造厂里铸造出来的魔法水晶。有能力发动最致命的武器来折磨银河系。"
  GIGA_RAGNAROK_GUN:0 "世界毁灭闪电炮"
  GIGA_RAGNAROK_GUN_DESC:0 "这是有史以来最强大的武器之一，这款闪电炮使用的是中子晶体钢，可以在敌人身上发出天雷。需要一个完全造好尼达维是可用的。"
  
@@ -1087,6 +1087,194 @@
  district_ringworld_generator_uncapped_plural:0 "$district_generator_plural$"
  district_ringworld_generator_uncapped_desc:0 "$district_generator_desc$"
  
+ ###JUNE UPDATE###
+ ruinedmega.120.name:0 "Gatzo星系"
+ ruinedmega.120.desc:0 "我们探索Gatzo星系的科研船报告说，在星系中发现了两个巨型建造!第一个是一个废弃的星门，漂浮在星系边缘，表明这个地方可能曾经属于一个重要的恒星帝国。第二个巨型结构是一个围绕外行星建造的完整的动态核心点火器!这里以前的居民似乎企图改造这个星球，但由于一些未知的原因，他们中途停止了。"
+ ruinedmega.120.a:0 "有趣。"
+ ruinedmega.121.name:0 "帕鲁什"
+ ruinedmega.121.desc:0 "你好。这是使用我们最先进的无线电技术预先录制的无线电信息。\n\n我是帕鲁什民主国家的代表博廷，来自帕鲁希亚星球。我们在美丽的大陆上过着平静的生活，我们恳请你，星际旅行者，不要打扰我们的生活。\n\n我们在这条信息中添加了一些关于我们的文化和人民的信息，以便他们可以为你们的社会学家服务。真诚地，Poh'tin和帕鲁什人。"
+ ruinedmega.121.a:0 "查看屏幕。"
+ ruinedmega.123.name:0 "原始的广播消息"
+ ruinedmega.123.desc:0 "我们的科研船目前正在调查帕鲁希亚的原始世界，有一项引人入胜的发现。看起来，尽管他们的技术很原始，这个星球的机器时代的原始人类却不断地向太空发送短距离的无线电信息，目的是为了潜在的外星人访客。我们的科学团队设法解密了这条信息。"
+ ruinedmega.123.a:0 "显示在屏幕上。"
+  
+ ruinedmega.2002.title:0 "不可能"
+ ruinedmega.2002.desc:0 "令人震惊的消息!看来我们巨像全球安抚武器并不像之前认为的那么可靠。在保护了帕鲁什人的星球后，我们巨像上的船员们注意到平静的星球散发出特殊的能量峰值。这些尖峰最初被认为是传感器异常，但在过去几天里变得越来越强烈，最终形成了大规模的子空间能量爆发。\n\n在几分钟内，我们放置在帕鲁什周围的那块曾经无法穿透的护盾散开了，消失在虚无之中。\n\n传感器报告说，在下面的行星上，人们兴高采烈地庆祝着帕鲁什，庆祝着他们刚刚完成的壮举。这一违背物理定律的事件表明，帕鲁什人的灵能潜力比我们想象的还要强大，我们的许多科学家开始担心他们会成为一种威胁。他们建议把它们留在大陆卫星上。"
+ ruinedmega.2002.a:0 "可怜的流氓!"
+ 
+ ruinedmega.3002.title:0 "未扫描"
+ ruinedmega.3002.desc:0 "坏消息。我们巨像的船员报告说，帕鲁什表面的帕鲁什原始文明完全不受我们中子束的影响。\n\n在我们的星球杀手发射它的中子烟羽的几分钟前，星球上数以百万计的沼泽开始进入一种奇特的恍惚状态。看来，通过集中他们所有的灵能潜能，他们成功地制造了一种覆盖整个星球的灵能护盾。护盾如此完整，以至于巨像的中子流无害地反弹到了太空中。\n\n紧接着，神秘的恍惚状态结束了，原始人开始庆祝他们对我们的“胜利”。尽管我们尽了最大的努力，这些拉古地貌的野蛮人似乎还活着，看到了另一个太阳周期。"
+ ruinedmega.3002.a:0 "傲慢的傻瓜!"
+ 
+ paluush_shield:0 "灵力场"
+ paluush_shield_desc:0 "这个星球的居民拥有令人难以置信的灵能能力，因为他们体型庞大。不知何故，他们有能力拦截和转移任何的轨道轰炸。我们的科学家相信，这个星球上的某些东西可能正在使他们的灵能潜能倍增十倍。"
+  
+ ###MAY UPDATE###
+ planet_ring_modifier_1:0 "小型轨道生态建筑学"
+ planet_ring_modifier_1_desc:0 "轨道生态建筑提供的空间允许一些能源的产生，以及粮食生产。"
+ planet_ring_modifier_2:0 "轨道生态建筑学"
+ planet_ring_modifier_2_desc:0 "轨道生态建筑提供的空间允许一些能源的产生，以及粮食生产。"
+ planet_ring_modifier_3:0 "小型轨道生态建筑学"
+ planet_ring_modifier_3_desc:0 "轨道生态建筑提供的空间允许一些能源的产生，以及粮食生产。"
+
+ disco_moon_modifier:0 "月球灯光秀"
+ disco_moon_modifier_desc:0 "附近的一个月球反射镜将美丽的光线投射到这颗行星的天空中，创造了无数随处可见的五彩极光。这些神秘的极光如同我们帝国的旗帜，让我们的民众充满敬畏和自豪。"
+ 
+ lunar_disco_ball_0: "月球镜面折射器建造基地"
+ lunar_disco_ball_0_DESC:0 "未来月球镜面折射器的建造场地，这是一个跨越行星的晶体阵列，旨在将美丽的光影投射到附近行星的天空中。"
+ lunar_disco_ball_0_MEGASTRUCTURE_DETAILS:0 "这是一种装置，它能把奇妙的极光投射到附近行星的天空中，增加生活舒适度。"
+ lunar_disco_ball_1:0 "月球镜面折射框架"
+ lunar_disco_ball_1_DESC:0 "这个框架由地下发生器组成，这些发生器会照射到晶体板上，产生美丽的彩色光。为了完成这个项目，我们现在必须自己安装水晶板。"
+ lunar_disco_ball_2:0 "月球镜面折射器"
+ lunar_disco_ball_2_DESC:0 "在月球上安装的横跨星球的水晶板阵列。地下投影机将光照射到这些晶体中，产生了从附近行星上可以看到的奇妙的光秀和极光。"
+ 
+ pc_disco_moon:0 "镜中之月"
+ pc_disco_moon_desc:0 "这整个月球被专业抛光的水晶覆盖，这些水晶折射光线，在附近行星的天空中创造出奇妙的极光。"
+ 
+ tech_disco_moon:0 "超大型折射仪"
+ tech_disco_moon_desc:0 "一个公民的生活可能是艰苦和累人的。用水晶板和地下射灯覆盖附近的卫星，将创造出一种能够将放大的极光和光线投射到行星天空的设备。这样的大影响，一定会对我们人民的士气产生积极的影响!"
+ 
+ disco_moon_title:0 "§H解锁巨型建筑:§! 月球镜面折射器"
+ disco_moon_desc:0 "月球表面覆盖着抛光的水晶板，光线通过这些水晶板照射，在附近的行星上创造出令人惊叹的光的展示。将它的影响应用于局部行星系统中的每一个天体。"
+ 
+ must_build_around_moon:0 "$TRIGGER_FAIL$必须围绕着月亮建造。"
+ 
+ gigamenu.2.discomoon.on:0 "月球镜面折射器 | §B启用§!"
+ gigamenu.2.discomoon.off:0 "月球镜面折射器 | §R禁用§!"
+ 
+ gigamoon.102.name:0 "月球镜面折射器建造完成!"
+ gigamoon.102.desc:0 "在一项宏观工程的壮举中，整个月球表面被[FromFrom.GetName]中的抛光水晶板覆盖。一个巨大的地下射灯网络现在正通过它们发出耀眼的光芒，在当地行星系统的每一个天体的天空中投射出不可思议的光线。"
+ gigamoon.102.a:0 "壮观!"
+ 
+ gigamoon.103.name:0 "月球镜面折射器建筑基地竣工"
+ gigamoon.103.desc:0 "我们的工程师已经完成了[FromFrom.GetName]星系中未来月球镜面折射器的施工现场。在这个支架上，我们将围绕一个月球建造一个巨大的水晶外壳，它将被用来折射来自地下射灯的光线，产生从局部行星系统的所有物体都能看到的放大光线。\n\n每一个附近的行星和月球都将得到凝聚力，设施，幸福度和贸易值的增益。"
+ gigamoon.103.a:0 "真闪亮。"
+ 
+ gigamoon.104.name:0 "月球镜面折射器内部完成"
+ gigamoon.104.desc:0 "我们的月球镜面折射器的内部结构现在已经完成。安装在地壳之下，内部由一个电源和大量的射灯组成，如果安装好，这些射灯最终将通过晶体板发光。"
+ gigamoon.104.a:0 "美妙。"
+ 
+ ring_shipyard_0:0 "赤道船厂建造基地"
+ ring_shipyard_0_DESC:0 "赤道造船厂的建筑基地，由一个合金加工环和一个与基地相连的造船厂环组成。"
+ ring_shipyard_0_MEGASTRUCTURE_DETAILS:0 "两环环绕一个熔融星球，用于合金加工和造船。"
+ ring_shipyard_1:0 "赤道船厂框架"
+ ring_shipyard_1_DESC:0 "这个巨大的框架环绕着一个熔融星球。内圈应使用从熔融世界中提取矿物质并将其加工成合金，而外圈将以大型造船厂为特色，以帮助船舶建造。"
+ ring_shipyard_2:0 "赤道船厂"
+ ring_shipyard_2_DESC:0 "环绕行星的大型造船厂，能装配大量战舰。"
+ 
+ only_one_equatorial_shipyard:0 "$TRIGGER_FAIL$每个星系只能有一个赤道造船厂。"
+ requires_equatorial_shipyard:0 "$TRIGGER_FAIL$星系需要赤道船厂。"
+ smaller_than_25:0 "$TRIGGER_FAIL$必须建在一个25或更小的星球上。"
+ sm_equatorial_shipyard_uplink:0 "赤道船厂上行链路"
+ sm_equatorial_shipyard_uplink_desc:0 "在这个星系中连接赤道造船厂和星际基地的造船厂。"
+ 
+ district_shipyard_alloys:0 "合金加工厂"
+ district_shipyard_alloys_plural:0 "合金加工厂"
+ district_shipyard_alloys_desc:0 "这些专业铸造厂从熔融星球的表面收集稀有矿物，并直接将它们提炼成合金。还利用熔融星球的热量将进口矿物转化为合金。"
+ 
+ district_shipyard_energy:0 "地热发电厂"
+ district_shipyard_energy_plural: "地热发电厂"
+ district_shipyard_energy_desc:0 "星球表面的地热发电厂将能量传送到环内表面的专门能量收集器，提供能量币。"
+ 
+ pc_ringworld_alloys:0 "铸造环世界"
+ pc_ringworld_alloys_desc:0 "在赤道造船厂的内部，这个环形世界专门从熔化的地壳中提取稀有矿物，并将它们直接提炼成合金。然而，生活条件相当艰苦。"
+ 
+ ringyard_alloys:0 "铸造环世界"
+ ringyard_alloys_desc:0 "熔融星球强烈的自然热量促进了将进口矿物转变成合金的过程。"
+ mod_planet_jobs_minerals_upkeep_mult:0 "工作矿物维护"
+ 
+ tech_molten_shipyard:0 "熔融星球船厂设施"
+ tech_molten_shipyard_desc:0 "熔融星球拥有不可思议的潜力，当谈到扩大我们的造船厂。我们可以利用他们的地热活动为我们的设施提供动力，并利用他们的资源自行建造船只。在这样一个星球里建立一个专门的收获圈肯定是非常有用的。"
+ 
+ molten_shipyard_title:0 "§H解锁巨型建筑:§! 赤道船厂"
+ molten_shipyard_desc:0 "两个环环绕着一个熔融的星球。内环从行星上收集合金和能量，而外环以惊人的速度组装战舰。移除了星球上的每一个卫星。允许建造一个连接戒指造船厂和基地的基地建筑。"
+ 
+ gigamenu.2.shipyard.on:0 "赤道船厂 | §B启用§!"
+ gigamenu.2.shipyard.off:0 "赤道船厂 | §R禁用§!"
+ 
+ gigaeng.25000.name:0 "赤道船厂建造基地竣工"
+ gigaeng.25000.desc:0 "未来赤道造船厂的建筑工地已经在[FromFrom.GetName]星系的熔融星球附近完成。这个轨道平台将被用来围绕这颗行星建造两个环，以便提炼大量的合金并将它们变成飞船。\n\n请注意，这颗行星的卫星，如果有的话，将会在这个过程中被消耗掉。一个星际基地建筑将会被建造来连接环的造船厂和星际基地。"
+ gigaeng.25000.a:0 "伟大。"
+ 
+ gigaeng.25001.name:0 "赤道船厂构架"
+ gigaeng.25001.desc:0 "我们在[FromFrom.GetName]星系中的赤道造船厂离完工又近了一步。环的框架已经搭好了，我们现在必须开始五环本身的工作。内环将是一个殖民地的栖息地，致力于合金和能源。"
+ gigaeng.25001.a:0 "优秀。"
+ 
+ gigaeng.25002.name:0 "赤道船厂完成!"
+ gigaeng.25002.desc:0 "好消息!我们的工程师报告说，我们的赤道造船厂在[FromFrom.GetName]星系现在已经完全运作!内环已经准备好了殖民，而外环的造船厂已经完全活跃起来，只是在等待一个连接它们和系统造船厂的星际基地建筑的建造。"
+ gigaeng.25002.a: "不可思议!"
+ 
+ mod_country_resource_max_minerals_add:0 "矿物存储容量"
+ mod_country_resource_max_energy_add:0 "能量币存储容量"
+ 
+ ###SUN HABITATS###
+ pc_habitable_m_star:0 "可居住等级 M"
+ pc_habitable_m_star_desc:0 "成千上万的栖息地就坐落在这颗红矮星炙热的光球层的正上方，甚至在先进的热调制器的保护下，它们甚至深入到光球层。它们提供适宜居住的条件，并允许容易收集恒星等离子体。利用恒星的磁场使它们保持静止。"
+ 
+ pc_habitable_k_star:0 "可居住等级 K"
+ pc_habitable_k_star_desc:0 "成千上万的栖息地就坐落在这颗橙色矮星炙热的光球层的正上方，甚至在先进的热调制器的保护下，它们甚至会深入其中。它们提供适宜居住的条件，并允许容易收集恒星等离子体。利用恒星的磁场使它们保持静止。"
+ 
+ pc_habitable_g_star:0 "可居住等级 G"
+ pc_habitable_g_star_desc:0 "成千上万的栖息地就坐落在这颗黄色矮星炙热的光球层的正上方，甚至在先进的热调制器的保护下，它们甚至会深入其中。它们提供适宜居住的条件，并允许容易收集恒星等离子体。利用恒星的磁场使它们保持静止。"
+ 
+ district_star_energy:0 "太阳能电容器"
+ district_star_energy_plural:0 "太阳能电容器"
+ district_star_energy_desc:0 "巨大的太阳能电池板阵列，悬浮在离恒星光球层仅几公里的高空。如果重力悬架系统失效，会产生大量的空隙。"
+ 
+ district_star_minerals:0 "太阳能升降平台"
+ district_star_minerals_plural:0 "太阳能升降平台"
+ district_star_minerals_desc:0 "重力泵能够承受恒星表面的极端条件，可以直接从恒星的大气中获取氢和氦。"
+ 
+ job_solarminer:0 "氢收割专家"
+ job_solarminer_plural:0 "氢收割专家"
+ job_solarminer_desc:1 "这些专家从恒星表面获取氢和氦，并利用大型聚变反应堆将它们转化为矿物质。"
+ job_solarminer_effect_desc:0 "£job_solarminer£ $job_solarminer_plural$从恒星中获取氢和氦，利用聚变反应堆将它们转化为£minerals£ §Y$minerals$§!。"
+ mod_job_solarminer_add:0 "$job_solarminer$工作"
+ mod_job_solarminer_per_pop:0 "每$VALUE$人口§G+1§! $job_solarminer$"
+ mod_job_solarminer_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! mod_job_solarminer_add"
+ 
+ sr_pure_stellar_plasma:0 "奇异等离子体"
+ sr_pure_stellar_plasma_desc:0 "这种奇异形式的等离子体直接从恒星地狱般的地幔中获取。它具有令人难以置信的活力，并具有强大的武器化潜力。"
+ 
+ pure_stellar_plasma_deficit:0 "奇异恒星等离子体集成电路"
+ pure_stellar_plasma_deficit:0 "我们的设备正在使用大量的能量来复制稀有的奇异恒星等离子体。"
+ 
+ tech_mine_rare_stellar_plasma:0 "奇异恒星等离子体提炼"
+ tech_mine_rare_stellar_plasma_desc:0 "在恒星的地幔和核心中发现的奇异等离子体具有令人难以置信的能量，并具有许多迷人的特性。如果我们能学会如何提取和操作它，我们行业的各个领域都会从中受益。"
+ plasma_title:0 "§B在这一领域进行进一步的研究将会开发出基于等离子体的武器和恒星超级结构。§!"
+ 
+ job_plasmaharvester:0 "等离子矿商"
+ job_plasmaharvester_plural:0 "等离子矿商"
+ job_plasmaharvester_desc:1 "这些勇敢的专家操作着能够深入恒星光球层的机器，并收集具有奇异形式的高能等离子体。"
+ job_plasmaharvester_effect_desc:0 "£job_plasmaharvester£ $job_plasmaharvester_plural$从恒星获取£sr_pure_stellar_plasma£§Y奇异等离子体§!。"
+ mod_job_plasmaharvester_add:0 "$job_plasmaharvester$工作"
+ mod_job_plasmaharvester_per_pop:0 "每$VALUE$人口§G+1§! $job_plasmaharvester$"
+ mod_job_plasmaharvester_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! mod_job_plasmaharvester_add"
+ 
+ district_star_plasma:0 "等离子体采矿井"
+ district_star_plasma_plural:0 "等离子体采矿井"
+ district_star_plasma_desc:0 "先进的机器，利用磁场和热调制技术打开一种“轴”进入恒星，让我们从恒星的深处收集材料。"
+ 
+ mod_district_star_plasma_max:0 "最大等离子体矿井"
+ 
+ d_sunspot:0 "太阳黑子"
+ d_sunspot_desc:0 "在恒星表面有一个稍冷的区域，这让我们可以更深入地进入光球层。"
+ 
+ d_magnetic_anomaly:0 "磁异常"
+ d_magnetic_anomaly_desc:0 "磁异常从恒星深处产生磁化的恒星等离子体。"
+ 
+ d_solar_flare:0 "太阳耀斑"
+ d_solar_flare_desc:0 "太阳耀斑，它不断地从恒星的地幔中携带等离子体，随时准备收集。"
+ 
+ tech_stellar_heat_modulation:0 "量子热操作"
+ tech_stellar_heat_modulation_desc:0 "在量子水平上重定向能量场，在热管理领域开辟了不可思议的可能性，甚至可以在最恶劣的条件下生存。"
+ 
+ tech_star_colonization:0 "殖民太阳"
+ tech_star_colonization_desc:0 "恒星中充满了难以置信的高能恒星等离子体。通过利用利用恒星磁场的特殊栖息地，我们可以在离恒星光球层仅几公里的地方建立漂浮城市，这对于提取恒星的等离子体非常有用。"
+ 
+ sun_title:0 "§R疯狂的技术§!\n§H解锁功能:§! 恒星殖民\n§H解锁巨型建筑:§! 恒星磁场扩散器"
+ sun_desc:0 "恒星磁弥散器在恒星的光球层上制造并部署了数千个专门的栖息地，允许M级(红色)、K级(橙色)和G级(黄色)恒星定居。"
+  
  ###MARCH UPDATE###
  barren_terraform_2_disabled:0 "动态核心点火器"
  barren_terraform_2_disabled_DESC:0 "这个古老的动态核心点火器是由一个未知的文明在亿万年前建造的。它用掉了一些古老的电源，而且似乎还能运行。"
@@ -1183,18 +1371,11 @@
  
  ###PALUUSH & BUNCH OF FIXES###
  ruinedmega.111.name:0 "堕落的地平说"
- ruinedmega.111.desc:0 "我们探索[From.GetName]星系的科研船发现了一颗非常非常奇怪的“行星”。\n\n一个人造起源的平坦星球!更奇怪的是，这里似乎居住着原始文明!那些被人造重力发生器束缚在地面上的原始生物一旦离开他们的世界，很可能会感到非常困惑。\n\n没有人知道这件事是怎么发生的。也许没有人会知道。"
+ ruinedmega.111.desc:0 "我们探索[From.GetName]星系的科研船发现了一颗非常非常奇怪的“行星”。\n\n一个人造起源的平坦星球!更奇怪的是，这里似乎居住着原始文明!那些被人造重力发生器束缚在地面上的原始生物如果离开他们的世界，很可能会感到非常困惑。\n\n没有人知道这件事是怎么发生的。也许没有人会知道。"
  ruinedmega.111.a:0 "这可真独特。"
  
  royal_paluush:0 "皇家帕鲁什卫士"
  paluush_defender:0 "帕鲁什军队"
- 
- ruinedmega.120.name:0 "Gatzo星系"
- ruinedmega.120.desc:0 "我们的科考船在探索Gatzo星系时报告说在这个星系中发现了两个巨大的建筑!第一个是一个废弃的星门，漂浮在星系边缘附近，表明这个地方可能曾经属于一个重要的恒星帝国。第二个巨型结构是一个围绕外行星建造的完全动态的核心点火器!似乎先前的居民试图改造这个世界，但由于某种未知的原因，他们的进程中途停止了。"
- ruinedmega.120.a:0 "难以置信。"
- ruinedmega.121.name:0 "帕鲁什"
- ruinedmega.121.desc:0 "你好，这是一条用我们最先进的无线电技术预先录制的无线电信息。\n\n我是帕鲁什民主国家的代表Poh'tin，来自帕鲁什星球。我们在美丽的大陆上过着平静的生活，我们恳请你们，星际旅人，不要打扰我们的生活。\n\n我们在这条信息中添加了一些关于我们的文化和人民的信息，以便他们可以为你们的社会学家服务。\n\n诚恳地说，波坦人和帕鲁什人。"
- ruinedmega.121.a:0 "把屏幕关掉。"
  
  building_paluush_homes:0 "帕鲁什大都市"
  building_paluush_homes_desc:0 "由帕鲁什人建造的巨大城市。尽管使用了原始的技术，它仍然非常高效和有组织，几乎可以与太空时代的城市建筑相媲美。"
@@ -1334,8 +1515,8 @@
  job_interstellarscavenger_desc:1 "这些专家深入星际空间，寻找要开采的天体和要回收的飞船碎片。"
  job_interstellarscavenger_effect_desc:0 "£job_interstellarscavenger£ $job_interstellarscavenger_plural$ 探索星际空间，搜集 £minerals£ §Y$minerals$§!, £alloys£ §Y合金§! 和 £engineering£ §Y$engineering_research$§! "
  mod_job_interstellarscavenger_add:0 "$job_interstellarscavenger$ 工作"
- mod_job_interstellarscavenger_per_pop:0 "§G+1§! $job_interstellarscavenger$ 工作 $VALUE$ 每人口"
- mod_job_interstellarscavenger_per_pop_short:0 "\n§G+1§! £mod_job_interstellarscavenger_add£ 每 $VALUE$ £pop£"
+ mod_job_interstellarscavenger_per_pop:0 "每$VALUE$人口§G+1§!$job_interstellarscavenger$工作"
+ mod_job_interstellarscavenger_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_interstellarscavenger_add£"
  
  district_interstellar_scavenger:0 "勘探海湾"
  district_interstellar_scavenger_plural:0 "勘探海湾"
@@ -1357,7 +1538,7 @@
  job_interstellarresearcher_desc:1 "星际研究人员研究恒星之间的巨大空间，在那里进行实验几乎不受外界干扰。"
  job_interstellarresearcher_effect_desc:0 "£job_interstellarresearcher£ $job_interstellarresearcher_plural$ 研究星际介质，生成 £physics£ §Y$physics_research$§! "
  mod_job_interstellarresearcher_add:0 "$job_interstellarresearcher$ 工作"
- mod_job_interstellarresearcher_per_pop:0 "§G+1§! $job_interstellarresearcher$ 工作 $VALUE$ 每人口"
+ mod_job_interstellarresearcher_per_pop:0 "每$VALUE$人口§G+1§!$job_interstellarresearcher$工作"
  mod_job_interstellarresearcher_per_pop_short:0 "\n§G+1§! £mod_job_interstellarresearcher_add£ 每 $VALUE$ £pop£"
  
  district_interstellar_lab:0 "星际研究复合体"
@@ -1369,8 +1550,8 @@
  job_giga_zro_extractor_desc:1 "泽洛矿车从当地的沉积物中收集泽洛。"
  job_giga_zro_extractor_effect_desc:0 "£job_giga_zro_extractor£ $job_giga_zro_extractor_plural$ 产出 £sr_zro£ §Y$sr_zro$§! "
  mod_job_giga_zro_extractor_add:0 "$job_giga_zro_extractor$ 工作"
- mod_job_giga_zro_extractor_per_pop:0 "§G+1§! $job_giga_zro_extractor$ 工作 $VALUE$ 每人口"
- mod_job_giga_zro_extractor_per_pop_short:0 "\n§G+1§! £mod_job_giga_zro_extractor_add£ 每 $VALUE$ £pop£"
+ mod_job_giga_zro_extractor_per_pop:0 "每$VALUE$人口§G+1§!job_giga_zro_extractor$ 工作"
+ mod_job_giga_zro_extractor_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_giga_zro_extractor_add£"
  
  mod_building_giga_zro_harvester_max:0 "最大泽洛收获复合体"
  building_giga_zro_harvester:0 "泽洛精炼复合体"
@@ -1515,8 +1696,8 @@
  job_preserver_desc:1 "这些专家在轨道极乐世界的内表面维护着大量的自然保护区。"
  job_preserver_effect_desc:0 "£job_preserver£ $job_preserver_plural$维护自然场地，生产 £unity£ §Y$unity$§! 和 £society£ §Y$society_research$§! "
  mod_job_preserver_add:0 "$job_preserver$ 工作"
- mod_job_preserver_per_pop:0 "§G+1§! $job_preserver$ 工作每$VALUE$ 人口"
- mod_job_preserver_per_pop_short:0 "\n§G+1§! £mod_job_preserver_add£ 每 $VALUE$ £pop£"
+ mod_job_preserver_per_pop:0 "每$VALUE$人口§G+1§! $job_preserver$ 工作"
+ mod_job_preserver_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_preserver_add£ "
  
  district_elysium_preserve:0 "轨道极乐世界自然保护区"
  district_elysium_preserve_plural:0 "轨道极乐世界自然保护区"
@@ -1558,8 +1739,8 @@
  job_gasharvester_desc:1 "天然气收割机操作着宇宙飞船和机械，这些机械可以深入到这个气态巨星的大气层深处，挖掘外来气体。"
  job_gasharvester_effect_desc:0 "£job_gasharvester£ $job_gasharvester_plural$ 收集 £exotic_gases£ §Y$exotic_gases$§!"
  mod_job_gasharvester_add:0 "$job_gasharvester$ 工作"
- mod_job_gasharvester_per_pop:0 "§G+1§! $job_gasharvester$ 工作每 $VALUE$ 人口"
- mod_job_gasharvester_per_pop_short:0 "\n§G+1§! £mod_job_gasharvester_add£ 每 $VALUE$ £pop£"
+ mod_job_gasharvester_per_pop:0 "每 $VALUE$ 人口 §G+1§! $job_gasharvester$ 工作"
+ mod_job_gasharvester_per_pop_short:0 "\n每 $VALUE$ £pop£ §G+1§! £mod_job_gasharvester_add£ "
  
  building_gas_fusion_plant:0 "大气融合设备"
  building_gas_fusion_plant_desc:0 "这座建筑将从星球大气中获取的氢和氦等轻元素熔合成更重的元素，供我们的工业使用。"

@@ -312,6 +312,9 @@
  gpm_tb_Salt_Flats:0 "大规模盐沼"
  gpm_tb_Salt_Flats_desc:0 "被蒸发的海洋沉积的一层厚厚的盐覆盖的巨大平坦的地形。"
 
+ gpm_tb_Floating_Islands_Housing:224 "人工浮岛"
+ gpm_tb_Floating_Islands_Housing_desc:224 "巨大的人工建造的浮岛。"
+
 
 
 
@@ -358,8 +361,8 @@
  gpm_tb_precursor_ruins_7_empty:0 "远古遗迹"
  gpm_tb_precursor_ruins_7_empty_desc:0 "$gpm_tb_precursor_ruins_7_desc$"
  
- gpm_arcane_technology_deposit:0 "先驱者废墟"
- gpm_arcane_technology_deposit_desc:0 "一个文明古国的废墟。"
+ gpm_precursor_unity_deposit:0 "先驱者废墟"
+ gpm_precursor_unity_deposit_desc:0 "一个文明古国的废墟。"
  
  # Habitat planetary features #
  ###############################
@@ -373,6 +376,15 @@
  gpm_tb_orbital_research_infrastructure:0 "轨道研究基础设施"
  gpm_tb_orbital_research_infrastructure_desc:0 "专门的栖息地基础设施，以支持科学考察星球地壳以下。"
 
+ gpm_tb_archeology_infrastructure:0 "考古基础设施"
+ gpm_tb_archeology_infrastructure_desc:0 "专门的栖息地基础设施，以支持下面对星球的考古探险。"
+ 
+ gpm_tb_archeology_precursor_infrastructure:0 "先驱者考古基础设施"
+ gpm_tb_archeology_precursor_infrastructure_desc:0 "专门的栖息地基础设施，以支持下面对星球的考古探险。"
+ 
+ gpm_tb_time_research_infrastructure:0 "计时器研究基础设施"
+ gpm_tb_time_research_infrastructure_desc:0 "专门的栖息地基础设施，进行计时器粒子研究。"
+
  gpm_tb_alloy_mining_infrastructure:0 "合金矿业基础设施"
  gpm_tb_alloy_mining_infrastructure_desc:0 "专门的栖息地基础设施，以支持从星球上提取非常稀有的合金。"
 
@@ -384,4 +396,8 @@
 
  gpm_tb_spice_collecting_infrastructure:0 "香料收集基础设施"
  gpm_tb_spice_collecting_infrastructure_desc:0 "专门的栖息地基础设施，以支持从星球下面收集香料。"
+
+ gpm_tb_alien_egg_infrastructure:0 "外星蛋容器基础设施"
+ gpm_tb_alien_egg_infrastructure_desc:0 "专门的栖息地基础设施，包含在星球上发现的外星生命形式。"
+
 

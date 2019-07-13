@@ -1,0 +1,600 @@
+﻿l_simp_chinese:
+
+
+ ###################
+ ###### MODS #######
+ ###################
+
+ mod_megastructures_physics_research_produces_mult:0 "巨型建筑£physics_research£物理学研究产出"
+ mod_megastructures_society_research_produces_mult:0 "巨型建筑£society_research£社会学研究产出"
+ mod_megastructures_engineering_research_produces_mult:0 "巨型建筑£engineering_research£工程学研究产出"
+ mod_megastructures_energy_produces_mult:0 "巨型建筑£energy£能量币产出"
+ mod_megastructures_minerals_produces_mult:0 "巨型建筑£minerals£矿物产出"
+ mod_megastructures_influence_cost_add:0 "巨型建筑£influence£影响力成本"
+ mod_megastructures_alloys_cost_mult:0 "巨型建筑£alloys£合金成本"
+ 
+ mod_country_base_physics_research_produces_add:0 "每月£physics_research£物理学研究"
+ mod_country_base_society_research_produces_add:0 "每月£society_research£社会学研究"
+ mod_country_base_engineering_research_produces_add:0 "每月£engineering_research£工程学研究"
+ 
+ mod_armies_energy_upkeep_mult:0 "军队£energy£能量币维护"
+ 
+ mod_shipclass_mining_station_hull_mult:0 "采矿站船体值"
+ mod_shipclass_research_station_hull_mult:0 "研究站船体值"
+ mod_shipclass_mining_station_build_cost_mult:0 "采矿站建设成本"
+ mod_shipclass_research_station_build_cost_mult:0 "研究站建设成本"
+ mod_shipclass_mining_station_build_speed_mult:0 "采矿站建造速度"
+ mod_shipclass_research_station_build_speed_mult:0 "研究站建造速度"
+ mod_shipsize_mining_station_build_speed_mult:0 "采矿站建造速度"
+ mod_shipsize_research_station_build_speed_mult:0 "研究站建造速度"
+ mod_shipsize_mining_station_hull_add:0 "采矿站船体值"
+ mod_shipsize_research_station_hull_add:0 "研究站船体值"
+ 
+ mod_shipsize_science_build_speed_mult:0 "科研船建造速度"
+ mod_shipclass_science_ship_build_cost_mult:0 "科研船建设成本"
+ mod_shipsize_science_hull_add:0 "科研船船体值"
+ 
+ mod_shipsize_constructor_build_speed_mult:0 "工程船建造速度"
+ mod_shipclass_constructor_build_cost_mult:0 "工程船建设成本"
+ 
+ mod_shipclass_colonizer_build_speed_mult:0 "殖民船建造速度"
+ mod_shipclass_colonizer_build_cost_mult:0 "殖民船建设成本"
+ 
+ mod_ship_corvette_alloys_cost_add:0 "护卫舰£alloys£合金成本"
+ mod_ship_destroyer_alloys_cost_add:0 "驱者舰£alloys£合金成本"
+ mod_ship_cruiser_alloys_cost_add:0 "巡洋舰£alloys£合金成本"
+ mod_ship_battleship_alloys_cost_add:0 "战列舰£alloys£合金成本"
+ mod_ship_science_alloys_cost_add:0 "科研船 £alloys£合金成本"
+ 
+ mod_station_gatherers_minerals_cost_mult:0 "采矿站矿物成本"
+ mod_station_researchers_minerals_cost_mult:0 "研究站矿物成本"
+ 
+ mod_torpedo_speed_mult:0 "鱼雷飞行速度"
+ mod_torpedo_weapon_damage_mult:0 "鱼类武器伤害"
+ mod_extra_large_weapon_damage_mult:0 "特大型武器伤害"
+ mod_large_weapon_damage_mult:0 "大型武器伤害"
+ mod_medium_weapon_damage_mult:0 "中型武器伤害"
+ mod_small_weapon_damage_mult:0 "小型武器伤害"
+ 
+ mod_torpedo_weapon_fire_rate_mult:0 "鱼雷武器射速"
+ mod_extra_large_weapon_fire_rate_mult:0 "特大型武器射击速度"
+ mod_large_weapon_fire_rate_mult:0 "大型武器射击速度"
+ mod_medium_weapon_fire_rate_mult:0 "中型武器射击速度"
+ mod_small_weapon_fire_rate_mult:0 "小型武器射击速度"
+
+ mod_weapon_role_point_defense_weapon_fire_rate_mult:0 "点防御武器射击速度"
+ 
+ mod_planet_buildings_influence_cost_mult:0 "建筑£influence£影响力成本"
+ mod_planet_buildings_minerals_cost_add:0 "建筑£minerals£矿物成本"
+ mod_planet_districts_minerals_cost_add:0 "区划£minerals£矿物成本"
+ 
+ mod_damage_vs_country_type_pirate_mult:0 "对海盗的伤害"
+ 
+ mod_starbase_buildings_alloys_cost_add:0 "恒星基地建筑£alloys£合金成本"
+ mod_starbase_modules_alloys_cost_add:0 "恒星基地模块£alloys£合金成本"
+ 
+ ###########################################
+ #### Vanilla-like PHYSICS technologies ####
+ ###########################################
+
+ #############
+ ## Weapons ##
+ #01 - ship weapon range bonus
+ GT_ship_weapon_range_mult:0  "多维测距"
+ GT_ship_weapon_range_mult_desc:0 "新的目标算法在计算三维空间内的轨迹时效率更高。"
+ #02 - ship 小型武器伤害 bonus
+ GT_small_weapon_damage_mult:0  "小型武器电容器"
+ GT_small_weapon_damage_mult_desc:0 "在我们舰艇的小型武器系统中集成的大功率电容器使它们能够在其操作限制之外充电。"
+ #03 - ship 中型武器伤害 bonus
+ GT_medium_weapon_damage_mult:0  "低温聚变火控系统"
+ GT_medium_weapon_damage_mult_desc:0 "低温核聚变系统调节我们中型武器电池的热量积聚，使它们在燃烧之前能够发射更高容量的负载。"
+ #04 - ship point defence weapons faster fire rate
+ GT_weapon_role_point_defense_weapon_fire_rate_mult:0  "自动循环系统"
+ GT_weapon_role_point_defense_weapon_fire_rate_mult_desc:0 "改进后的程序允许我们的武器-火回收系统的自动化。这提高了我们的点防御武器的效率，使他们能够更快地开火。"
+ #05 - ship increased damage versus amoeba creatures
+ GT_damage_vs_country_type_amoeba_mult:0  "生物电动轮"
+ GT_damage_vs_country_type_amoeba_mult_desc:0 "植入特殊军械的小型反馈芯片可以通过受其影响的阿米巴原虫系统释放超过50万伏特的电流，像野火一样在它们的细胞系统中蔓延。"
+ #06 - ship increased damage versus crystal creatures
+ GT_damage_vs_country_type_crystal_mult:0  "酸性生物材料"
+ GT_damage_vs_country_type_crystal_mult_desc:0 "将这种材料加入到我们的二级武器中，可以让它们轻松地燃烧通过晶体外壳。"
+ #07 - ship increased damage versus mining drones
+ GT_damage_vs_country_type_drone_mult:0  "采矿无人机研究"
+ GT_damage_vs_country_type_drone_mult_desc:0 "拆除一架采矿无人机已经导致了先进激光技术的发展，这种激光技术可以穿透这些船只通常使用的船体。"
+ #08 - ship increased damage versus energy-cloud creatures
+ GT_damage_vs_country_type_cloud_mult:0  "不稳定领域"
+ GT_damage_vs_country_type_cloud_mult_desc:0 "微粒子被释放到一个区域，当能量云穿过该区域时，会破坏其核心的稳定性。"
+ #09 - ship increased damage against船体值s *
+ GT_ship_hull_damage_mult:0  "船体薄弱点"
+ GT_ship_hull_damage_mult_desc:0 "从一艘船到另一艘船的战斗经验教会了我们的海军将领以极高的精度发现船体的弱点。"
+ #10 - ship increased damage against armor
+ GT_ship_armor_damage_mult:0  "装甲弱点"
+ GT_ship_armor_damage_mult_desc:0 "根据定义，装甲是一个附加的防御层，因此必须始终有弱点。"
+ #11 - ship weapons penetrate some armor
+ GT_ship_armor_penetration_mult:0  "集火协议"
+ GT_ship_armor_penetration_mult_desc:0 "设计用来集中火力攻击敌舰装甲弱点的作战方案。"
+ #12 - ship increased damage against shields
+ GT_ship_shield_damage_mult:0  "电离电荷"
+ GT_ship_shield_damage_mult_desc:0 "负离子脉冲被注入我们的武器系统，然后向他们的目标开火，破坏装甲和破坏护盾。"
+ #13 - ship weapons penetrate some shields
+ GT_ship_shield_penetration_mult:0  "干扰电荷"
+ GT_ship_shield_penetration_mult_desc:0 "微型化的负离子脉冲在放电周围充电，使其有很好的机会穿透护盾，不受干扰地击中目标。"
+ #14 - ship 大型武器伤害 bonus
+ GT_large_weapon_damage_mult:0  "反物质云"
+ GT_large_weapon_damage_mult_desc:0 "严密的防护武器端口可以释放集中爆发的反物质，为任何火力扫清道路。"
+ #15 - ship torpedo weapon damage bonus
+ GT_torpedo_weapon_damage_mult:0  "多弹头"
+ GT_torpedo_weapon_damage_mult_desc:0 "几枚弹头紧密地堆在一起，在撞击前释放，形成多个撞击点。"
+ #16 - ship extra-large weapons damage bonus
+ GT_extra_large_weapon_damage_mult:0  "充电电容"
+ GT_extra_large_weapon_damage_mult_desc:0 "利用以前无法测量的暗物质的力量进入我们的武器反应堆，允许我们最重的武器造成灾难性的破坏。"
+ 
+ ###########
+ ## ships ##
+ #17 - cheaper 科研船s
+ GT_ship_science_ship_build_cost_mult:0  "柔性塑料合金"
+ GT_ship_science_ship_build_cost_mult_desc:0 "一种灵活耐用的金属，利用一些较便宜的材料生产。虽然不适合用于战争，但民用船只可以变得更便宜。"
+ #18 - faster 科研船 building
+ GT_shipsize_science_build_speed_mult:0  "科学港湾"
+ GT_shipsize_science_build_speed_mult_desc:0 "船厂配备专门的科学、研究和开发海湾，使科研船的生产速度提高，同时仍允许充足的军用船的生产。"
+
+ ##############
+ ## stations ##
+ #19/20 - mining and 研究站船体值 bonus
+ GT_shipclass_mining_station_hull_mult:0  "防辐射绝缘体"
+ GT_shipclass_mining_station_hull_mult_desc:0 "双层织物与聚乙烯和聚氯乙烯为基础的聚合物交织，注入船体电镀提高了他们的效率，以保护空间站经常轨道有害环境。"
+
+ GT_shipclass_research_station_hull_mult:0  "强制镉外壳"
+ GT_shipclass_research_station_hull_mult_desc:0 "在军用船只上使用太过笨重，采矿和研究站将从三层镉加固的船体中受益良多。"
+
+ #21 - defense platform船体值 bonus
+ GT_shipclass_military_station_hull_mult:0  "舷墙板"
+ GT_shipclass_military_station_hull_mult_desc:0 "散布在防御平台上的防御工事和小壳防御工事有助于增强它们对多种武器火力的抵抗力。在每个点集成微型护盾发生器可以防止产生巨大的伤害。"
+ #22 - starbase defense platform max amount
+ GT_starbase_defense_platform_capacity_add:0  "先进重力传感器"
+ GT_starbase_defense_platform_capacity_add_desc:0 "利用我们的传感器系统对重力特性的进一步了解，我们的防御平台能够协调它们的轨道，降低碰撞的风险，允许一次部署更多。"
+
+ #############
+ ## leaders ##
+ #23 - faster leader experience gain
+ GT_species_leader_exp_gain:0  "图书馆管理数据"
+ GT_species_leader_exp_gain_desc:0 "在所有个人资料栏内安装一个资料库，方便快捷地取得所需资料。聪明的领导者常常会发现自己在学习它。"
+
+ #Hive Mind
+ GT_species_leader_exp_gain_hive:0  "增加群体认知"
+ GT_species_leader_exp_gain_desc_hive:0 "进化我们的认知过程导致更快的思维和群体宿主之间的思维关联。不鼓励独立思考，但所有人都能分享经验。"
+
+ #Machine Empire
+ GT_species_leader_exp_gain_mach:0  "曲速通信网络"
+ GT_species_leader_exp_gain_desc_mach:0 "近瞬时通信网络的发展，使我们的AI能够在很远的地方进行连接，并快速有效地对各种情况做出反应，在所有连接的单元之间共享知识。"
+ 
+ ############
+ ## armies ##
+ #24 - 军队energy upkeep reduction
+ GT_armies_energy_upkeep_mult:0 "微聚变电池"
+ GT_armies_energy_upkeep_mult_desc:0 "将核聚变反应堆技术小型化到带式发电机中，可以提高野战部队的能源消耗效率。"
+
+ Hive Mind
+ GT_armies_energy_upkeep_mult_hive:0 "进化甲壳保留"
+ GT_armies_energy_upkeep_mult_desc_hive:0 "士兵工蜂外壳的进化提供了更有效的太阳能吸收，同时减少了能源消耗。"
+
+ Machine Empire
+ GT_armies_energy_upkeep_mult_mach:0 "微聚变反应堆"
+ GT_armies_energy_upkeep_mult_desc_mach:0 "战斗单位升级与小型化聚变反应堆允许更有效的能源消耗之间部署的单位。"
+
+ #############
+ ## country ##
+ #25 - capital world efficiency: extra energy production
+ GT_country_base_energy_produces_add:0 "质量阴影反应堆"
+ GT_country_base_energy_produces_add_desc:0 "一个巨大的反应堆综合体，利用微小的奇点来产生重力，然后将其转化为可用的能量。"
+ #26 - capital world efficiency: extra物理学研究 production
+ GT_country_base_physics_research_produces_add:0 "奇点实验室"
+ GT_country_base_physics_research_produces_add_desc:0 "在一个包含的单元中产生奇异点的能力有助于研究重力模式及其对周围环境的影响。"
+ #27 - planet bombardment damage reduction
+ GT_planet_orbital_bombardment_damage:0 "可伸缩轨道电镀"
+ GT_planet_orbital_bombardment_damage_desc:0 "位于星球上关键位置的轨道下方的小型空间站可以在瞬间被激活，在重要地区和城市的每个空间站上安装一个钛板外壳。虽然它不是无懈可击的，但它减缓了轨道轰击造成的无情破坏，直到援军到来。"
+
+ ##############
+ ## pop jobs ##
+ #28 -物理学研究 production bonus from research jobs 1/3
+ GT_planet_researchers_physics_research_produces_mult1:0 "综合实验室"
+ GT_planet_researchers_physics_research_produces_mult1_desc:0 "与大多数设施相结合的小型物理实验室提高了研究物理项目的能力。这些实验室与通讯网络直接相连，为科学家们提供了快速分享发现成果的能力。"
+ #29 -物理学研究 production bonus from research jobs 2/3
+ GT_planet_researchers_physics_research_produces_mult2:0 "增强物理情报"
+ GT_planet_researchers_physics_research_produces_mult2_desc:0 "这款AI从一开始就被设计成一个科学处理器，能够在几秒钟内筛选和分析数千个物理实验。EPI还配备了社交接口芯片，可以与研究人员进行个人层面的互动，帮助提高性能。"
+ #30 -物理学研究 production bonus from research jobs 3/3
+ GT_planet_researchers_physics_research_produces_mult3:0 "标准化超算"
+ GT_planet_researchers_physics_research_produces_mult3_desc:0 "拥有内置超级计算机的实验室已经证明可以提高我们整个研究部门工作人员的效率。由于随时都可以获得信息，而且增强了物理智能的分析能力，没有一个实验室是不完整的。"
+
+ ####################
+ ## megastructures ##
+ #31 - 巨型建筑energy production bonus
+ GT_megastructures_energy_produces_mult:0 "太阳石注入合金"
+ GT_megastructures_energy_produces_mult_desc:0 "建造巨型建筑的复杂过程常常会给工程人员带来灵感。太阳石是一种特殊的金属材料，它具有超导和吸收太阳能的特性。将这种金属加入巨型建筑将提高其发电能力。"
+ #32 - 巨型建筑physics research bonus
+ GT_megastructures_physics_research_produces_mult:0 "类星体研究设施"
+ GT_megastructures_physics_research_produces_mult_desc:0 "现在，解开类星体之谜指日可待。只有在巨型结构中才能建造特殊的大型设施，才能利用人造微型类星体进行研究。类星体所产生的超高亮度和能量可能会导致物理学的飞跃。"
+
+
+
+###############################################
+#### Vanilla-like ENGINEERING technologies ####
+###############################################
+
+ #############
+ ## Weapons ##
+ #33 - ship small weapons fire rate bonus
+ GT_small_weapon_fire_rate_mult:0 "双联小型武器系统"
+ GT_small_weapon_fire_rate_mult_desc:0 "我们舰艇上的每一个小型武器系统都被加装了一门大炮。这使得它们可以交替快速地发射而不产生额外的热量。"
+ #34 - ship medium weapons fire rate bonus
+ GT_medium_weapon_fire_rate_mult:0 "四联介质武器系统"
+ GT_medium_weapon_fire_rate_mult_desc:0 "在小型火炮中引入双联武器系统导致了对大型武器的额外测试。由于其较大的尺寸,需要额外的两支枪来达到同样的成功。"
+ #35 - ship planetary bombardment bonus
+ GT_ship_orbital_bombardment_mult:0 "电磁场定向系统"
+ GT_ship_orbital_bombardment_mult_desc:0 "通过使用电磁瞄准计算机，我们的空间对地武器可以以惊人的精度识别人口中心。"
+ #36 - ship large weapons fire rate bonus
+ GT_large_weapon_fire_rate_mult:0 "磁流体动力加速器"
+ GT_large_weapon_fire_rate_mult_desc:0 "先进的磁流体动力加速器安装在我们的大型武器系统上，大大减少了产生的热量，同时大大提高了它们的最大功率。"
+ #37 - ship torpedo weapons fire rate bonus
+ GT_torpedo_weapon_fire_rate_mult:0 "扩大鱼雷舱"
+ GT_torpedo_weapon_fire_rate_mult_desc:0 "这些扩大的存储和发射海湾允许船只以速度和效率发射他们的全部鱼雷。"
+ #38 - 鱼雷飞行速度 bonus
+ GT_torpedo_speed_mult:0 "先进鱼雷制导系统"
+ GT_torpedo_speed_mult_desc:0 "将微型化的计算机管理虚拟智能集成到鱼雷发动机中，可以实现更精确的机动，从而实现高效的燃料使用和鱼雷快速有效机动。"
+ #39 - ship extra large fire rate bonus
+ GT_extra_large_weapon_fire_rate_mult:0 "零下冷却调节器"
+ GT_extra_large_weapon_fire_rate_mult_desc:0 "这些高度先进的低温核聚变冷却系统能够瞬间将武器系统的大量热量输出降低到零度以下。战斗测试表明，使用这项技术，我们的射击速度有了大幅提高。"
+ 
+  ###############
+ ## ship船体值 ##
+ #40 - 科研船船体值 bonus
+ GT_shipsize_science_hull_add:0 "烧蚀镀层"
+ GT_shipsize_science_hull_add_desc:0 "将具有反射性能的复合材料注入科学容器的金属合金中，可提高其在深空航行中的耐久性。"
+ #41 - 采矿站船体值 bonus
+ # GT_shipsize_mining_station_hull_add:0 "Reinforced Bulkheads"
+ # GT_shipsize_mining_station_hull_add_desc:0 "The bulkheads of 采矿站s need to be resilient in order to withstand the tremulous shocks they are constantly subjected to by drilling equipment. Weaving titanium into the reinforcing structure of these bulkheads improves durability. Sometimes the simplest solutions are the best."
+ #42 - 研究站船体值 bonus
+ GT_shipsize_mining_station_hull_add:0 "复合电镀"
+ GT_shipsize_mining_station_hull_add_desc:0 "空间站的机械和电子设备是相当精密的，要求它们的外壳由几种材料制成。在施工过程中，在这些材料上的复合镀层允许柔性，是船体结构坚韧。"
+
+ ###########
+ ## ships ##
+ #43 - ship emergency warp-out bonus
+ GT_ship_emergency_ftl_min_days_add:0 "回避引擎"
+ GT_ship_emergency_ftl_min_days_add_desc:0 "特殊的跃迁跃迁设计，以激活根据编程方案。当情况变得难以维持时，这些引擎开始自动计算可用的超空间航道，然后立即启动，提高成功逃逸的机会。"
+ #44 - 科研船 survey speed bonus
+ GT_science_ship_survey_speed:0 "深空传感器"
+ GT_science_ship_survey_speed_desc:0 "改进的远程传感器使测量船能够在数年之后对天体进行详细设计和绘图，从而提高数据收集调查目标的速度。"
+ #45 - 工程船建设成本 reduction
+ GT_ship_constructor_cost_mult:0 "金属融合"
+ GT_ship_constructor_cost_mult_desc:0 "通过利用聚变技术从更便宜的材料中制造新金属，我们的造船厂可以以更低的成本生产工程船。 也许在未来，这也可以应用于更先进的船舶。"
+ #46 - 工程船建造速度 bonus
+ GT_shipsize_constructor_build_speed_mult:0 "C.A.T. 算法"
+ GT_shipsize_constructor_build_speed_mult_desc:0 "这些复杂的程序与制造同时构建和概述构建计划，缩短了概念化所需的装配细节和实施更改或升级所需的时间。"
+ #47 - corvette合金成本 reduction
+ GT_ship_corvette_alloys_cost_add:0 "同步设计"
+ GT_ship_corvette_alloys_cost_add_desc:0 "通过简化和使我们的护卫舰设计使用所有类似的部件，生产它们的成本已经降低。"
+ #48 - destroyer合金成本 reduction
+ GT_ship_destroyer_alloys_cost_add:0 "简化供应线"
+ GT_ship_destroyer_alloys_cost_add_desc:0 "在时间和供应方面，驱逐舰的制造成本很高。 因此，商业和军事规划者为我们的军用造船厂创造了一条安全和简化的供应线，减少了经济压力。"
+ #49 - 科研船合金成本 reduction
+ GT_ship_science_alloys_cost_add:0 "建筑机器人"
+ GT_ship_science_alloys_cost_add_desc:0 "编程的小机器人遵循特定的船舶蓝图到字母，它们便宜大规模生产并有助于简化科研船的构造。"
+ #50 - hyperlane travel speed bonus
+ GT_ship_interstellar_speed_mult:0 "新星类超空间升级"
+ GT_ship_interstellar_speed_mult_desc:0 "这些超空间引擎升级结合了两个不同的星际旅行方式。 将曲速技术与先进的超空间引擎融合，可将星际旅行的速度提高到与先驱者引擎相当的程度。"
+ #51 - cruiser合金成本 reduction
+ GT_ship_cruiser_alloys_cost_add:0 "金属加工船坞"
+ GT_ship_cruiser_alloys_cost_add_desc:0 "这些设施现在已成为造船厂的标准，提高了贵重金属的加工速度，再加工和分配给所需的巡洋舰。"
+ #52 - cheaper ship upgrade costs
+ GT_country_ship_upgrade_cost_mult:0 "改造站"
+ GT_country_ship_upgrade_cost_mult_desc:0 "该轨道综合体致力于升级星系内的任何舰队，减少了昂贵且浪费的手动升级的需要。"
+ #53 - battleship合金成本 reduction
+ GT_ship_battleship_alloys_cost_add:0 "战列舰干船坞"
+ GT_ship_battleship_alloys_cost_add_desc:0 "在所有造船厂内都有一个装备精良的干船坞，仅供战舰使用。 为了维护，构建和升级舰队中的战舰级无畏舰，其组装的唯一目的是显着降低总体成本。"
+
+ ##############
+ ## stations ##
+ #54 - starbase shipyard建造速度 bonus
+ GT_starbase_shipyard_build_speed_mult:0 "中央造船厂综合体"
+ GT_starbase_shipyard_build_speed_mult_desc:0 "星际帝国的造船需求无限制。 这些巨大的造船厂在其家庭区域内蔓延，利用所有可用的材料和供应线以惊人的速度生产船只。"
+ #55 - 采矿站 construction speed bonus
+ GT_shipsize_mining_station_build_speed_mult:0 "建筑拖船"
+ GT_shipsize_mining_station_build_speed_mult_desc:0 "中型自动化船舶，可以承载很大的重量以及建造设施。当与工程船配对时，他们可以协助建立采矿站的速度。"
+ #56 - 研究站 construction speed bonus
+ GT_shipsize_research_station_build_speed_mult:0 "研究物流"
+ GT_shipsize_research_station_build_speed_mult_desc:0 "研究站组织和建设的改进提高了它们的建设速度。"
+ #57 - starbase defensive platform max capacity
+ GT_starbase_defense_platform_capacity_add2:0 "钛平台链接"
+ GT_starbase_defense_platform_capacity_add2_desc:0 "轨道防御平台可能大而大，通常会限制一次可以部署的数量。通过将它们与钛桥和支撑结构连接起来，可以利用所有可用空间。"
+ #58 - starbase buildings合金成本 reduction
+ GT_starbase_buildings_alloys_cost_add:0 "简化电路"
+ GT_starbase_buildings_alloys_cost_add_desc:0 "恒星基地通常需要复杂且昂贵的电路才能正常工作。新材料的发现使工程师能够构建更简单但同样精密的电路板和布线，从而消除部分费用。"
+ #59 - starbase modules合金成本 reduction
+ GT_starbase_modules_alloys_cost_add:0 "虚拟会计"
+ GT_starbase_modules_alloys_cost_add_desc:0 "永远不要低估搬家的力量。在构建昂贵但必要的星基模块时，将资金分配到最需要的地方尤其有用。"
+
+ ############
+ ## armies ##
+ #60 - 军队health bonus
+ # GT_army_health:0 "Peak Conditioning"
+ # GT_army_health_desc:0 "Advancements in healthcare and training regimens result in soldiers reaching the peak of conditioning, improving not just endurance, but stamina and biological resistances."
+ GT_army_health:0 "动力装甲"
+ GT_army_health_desc:0 "外骨骼和装甲材料的进步导致两者的结合最终是可行的。 训练结束时的士兵现在可获得定制的动力套装。 这些盔甲对于大多数小型武器射击是无懈可击的，并且不仅极大地提高了我们部队的耐力，而且还提高了耐力和生物抗性。"
+
+ # Hive Mind
+ GT_army_health_hive:0 "合成甲壳"
+ GT_army_health_desc_hive:0 "通过增加士兵无人机甲壳与合成装甲材料，他们抵御损害的能力大大提高。"
+
+ # Machine Empire
+ GT_army_health_mach:0 "便携式护盾发生器"
+ GT_army_health_desc_mach:0 "廉价护盾技术的出现使得地面战斗部队能够在与敌人交战时防止对其造成重大损害。"
+
+ #61 - 军队health bonus when defending from invasions
+ # GT_army_defense_health_mult:0 "Defensive Emitter Matrices"
+ # GT_army_defense_health_mult_desc:0 "Small psionic satellite systems spaced throughout the atmosphere constantly emit psionic energy in pulse waves when activated, slowing enemy advancement and allowing injured or damaged combat units to withdraw and fight another day."
+ GT_army_defense_health_mult:0 "最后的墙壁主义"
+ GT_army_defense_health_mult_desc:0 "一个战略呼吁将该系统中的所有军人召集到世界上的几个战略要点，形成一条难以逾越的防线。"
+
+ #############
+ ## country ##
+ #62 - colonies district bonus (they can build 1 extra district; district planning?)
+ GT_planet_non_artificial_max_districts_add:0 "人体工学建筑"
+ GT_planet_non_artificial_max_districts_add_desc:0 "建筑形式有时与建设有效同样重要。 通过将我们建筑的设计重点转移到更符合人体工程学的形状，我们可以在任何给定的空间中适应更多。"
+ #63 - colony building construction speed
+ GT_planet_building_build_speed_mult:0 "快速安装协议"
+ GT_planet_building_build_speed_mult_desc:0 "殖民地对任何航天人口都很重要，但建造，运输和建立新世界是一个缓慢的挑战。 通过预制结构和施工协议，我们的殖民工作成功地简化了这一过程。"
+ #64 - capital world efficiency: extra minerals production
+ GT_country_base_minerals_produces_add:0 "首页物资指令"
+ GT_country_base_minerals_produces_add_desc:0 "武器和装备本身并不产生。 战争生产矿物的组织和运营指令已证明对我们的资本有效。"
+ #65 - capital world efficiency: extra工程学研究 production
+ GT_country_base_engineering_research_produces_add:0 "中央工程学研究设施"
+ GT_country_base_engineering_research_produces_add_desc:0 "建立中央工程设施可以改善首都所有研究工作的协调，沟通和领导。"
+ #66 - colony buildings construction cost reduction
+ GT_planet_buildings_minerals_cost_add:0 "再生预制"
+ GT_planet_buildings_minerals_cost_add_desc:0 "预制建筑物已经允许快速殖民化，因此下一个合乎逻辑的步骤是重复使用所述材料的能力。 通过回收旧的预制，殖民地可以快速建造新的建筑物。"
+ #67 - terraforming requires less materials
+ GT_terraforming_cost_mult:0 "变革材料"
+ GT_terraforming_cost_mult_desc:0 "唯一比回收更好的是材料转化的能力。 通过将地形技术应用于我们的建筑材料本身，建筑商可以将它们用于几乎所有需要的东西。"
+
+ ##############
+ ## pop jobs ##
+ #68 -工程学研究 production bonus from research jobs 1/3
+ GT_planet_researchers_engineering_research_produces_mult:0 "研究资助"
+ GT_planet_researchers_engineering_research_produces_mult_desc:0 "科学的进步可能代价高昂，尤其是在工程学方面。通过分配专门用于研究的资金，工程师和设计师可以在不考虑预算的情况下进行迭代。如果它没有坏，它还没有足够的功能。"
+ #69 -工程学研究 production bonus from research jobs 2/3
+ GT_planet_researchers_engineering_research_produces_mult2:0 "智能设计"
+ GT_planet_researchers_engineering_research_produces_mult2_desc:0 "古代文明和复杂文明的发现，以及他们对宇宙中早期智能生命的计划，已经促使工程师们打破了这个模式。跳出思维定势有其优点，尤其是在避免重蹈前人覆辙的时候。"
+ #70 -工程学研究 production bonus from research jobs 3/3
+ GT_planet_researchers_engineering_research_produces_mult3:0 "决定倾向指令"
+ GT_planet_researchers_engineering_research_produces_mult3_desc:0 "在自然发现之外，工程师必须不断地探索众所周知的盒子之外的东西，以便改进已有的工作或创造新的工作。政府指令允许组织这些努力，以便找到最有效的发现途径。"
+
+ ####################
+ ## megastructures ##
+ #71 - megastructures construction speed bonus
+ GT_megastructure_build_speed_mult:0 "先驱者设计作品"
+ GT_megastructure_build_speed_mult_desc:0 "研究那些先驱者之前的作品已经导致重大的进步和执行巨型建筑建设。"
+ #72 - megastructures produce more minerals
+ GT_megastructures_minerals_produces_mult:0 "自动工厂"
+ GT_megastructures_minerals_produces_mult_desc:0 "巨型建筑的规模相当大，因此有能力在其中容纳规模适当的自主工厂。这些巨大的设备以指数级的速度生产和加工材料。"
+ #73 - megastructures produce more工程学研究
+ GT_megastructures_society_research_produces_mult:0 "复审协议"
+ GT_megastructures_society_research_produces_mult_desc:0 "虽然创新是一个不断变化的过程，但有时候，看看是什么引导我们走上了一条少有人走过的道路，这是有益的。研究我们自己的设计，以及我们如何得出建造它们所必需的结论，为未来的研究和发现提供了巨大的进步。"
+ #74 - 巨型建筑alloy cost reduction
+ GT_megastructures_alloys_cost_mult:0 "生物合成冶金"
+ GT_megastructures_alloys_cost_mult_desc:0 "把生物学和合成材料结合起来不是一个简单的过程。我们已经能够将适当的工艺应用到某些金属上，这需要一点独创性和许多不体面的结果。将与这些材料相容的生物体融合在一起，可以提高它们的耐用性和自我再生性能，降低维护成本。"
+
+ ###########################################
+ #### Vanilla-like SOCIETY technologies ####
+ ###########################################
+
+ #############
+ ## Weapons ##
+ #75 - ship damage bonus against pirates
+ GT_damage_vs_country_type_pirate_mult:0 "文化策略"
+ GT_damage_vs_country_type_pirate_mult_desc:0 "S一段时间以来，研究敌人的心理和文化偏见一直是战略家们争论的焦点。我们海军的一名海军上将已经说服了海军部的其他成员，理解你的对手做出选择的每一个理由的价值，提高我们识别模式的成功率，并制止海盗经常不稳定的行为。"
+
+ ###########
+ ## ships ##
+ #76 - ships have a higher anti-piracy effect
+ GT_ship_piracy_suppression_add:0 "无情的声誉"
+ GT_ship_piracy_suppression_add_desc:0 "海盗们往往足够尊重权威，一旦它被撞到他们的脸上。通过花时间和传播被我们的舰队抓获的海盗的情况，他们对自己的活动缺乏热情。"
+ #77 - 科研船 is fast at researching anomalies
+ GT_ship_anomaly_research_speed_mult:0 "皇家学院"
+ GT_ship_anomaly_research_speed_mult_desc:0 "太空探索可能是一项艰巨的任务，但它为好奇的人提供了一场永不停息的奇特发现探险。学院教授学生异常研究的更精细的方面，为他们的新职业做好最坏和最好的准备。"
+  # Hive Mind
+ GT_ship_anomaly_research_speed_mult_hive:0 "分析处理"
+ GT_ship_anomaly_research_speed_mult_desc_hive:0 "以前的无人机盲目地试图找出宇宙的秘密，这种长期的经验赋予了我们进化特定知识探索者的目的。这些更聪明的成员<插入hive 000_desc:0riptor?>更有能力剖析宇宙的秘密。"
+  # Machine Empire
+ GT_ship_anomaly_research_speed_mult_mach:0 "调查 AI"
+ GT_ship_anomaly_research_speed_mult_desc_mach:0 "在一个充斥着在黑暗中摸索的有机物的星系中，是我们优秀的研究单位将我们的理解推向更高的高度。探究式AI已经集成到我们所有的科研船中，并与神经网络相连接，允许快速处理报告和数据。"
+ #78 - 科研船s are better at finding anomalies
+ GT_ship_anomaly_generation_chance_mult:0 "量子数据网络"
+ GT_ship_anomaly_generation_chance_mult_desc:0 "储存知识和发现知识一样重要。这个升级后的网络利用比光数据流更快的速度和一个集中的数据源来存储来自调查者的所有已知信息。为那些在未知领域寻求新发展的人提供了一个快速的通道。"
+ #79 - ships gain experience faster
+ GT_ship_experience_gain_mult:0 "自适应虚拟智能"
+ GT_ship_experience_gain_mult_desc:0 "为容器配备能够适应大多数情况的虚拟智能相当于AI功能，但由于缺少人格矩阵，因此稍微安全一些。"
+ #80 - cheaper 殖民船s construction cost
+ GT_ship_colonizer_cost_mult:0 "自动殖民船系统"
+ GT_ship_colonizer_cost_mult_desc:0 "通过自动化殖民船的大多数功能，较少的人员需要指导和雇用，而成本高昂的系统可以用更便宜的替代方案取代。"
+ #81 - 殖民船 construction speed bonus
+ GT_ship_colonizer_build_speed_mult:0 "殖民造船厂"
+ GT_ship_colonizer_build_speed_mult_desc:0 "任何一个寻求殖民星球的文明都知道拥有特定的造船厂的用途。专门的供应路线和提供详细的计划，此外，简单的组装过程。"
+ #84 - 科研船 construction speed bonus
+ GT_ship_science_ship_build_speed_mult2:0 "相关数据系统"
+ GT_ship_science_ship_build_speed_mult2_desc:0 "连接所有科研船工作部件和电子产品是一件艺术品。幸运的是，船舶工程师能够胜任这项任务。"
+ 
+ ##############
+ ## stations ##
+ #85 - starbases trade range bonus (further trade routes)
+ GT_starbase_trade_collection_range_add:0 "绘制超空间航道"
+ GT_starbase_trade_collection_range_add_desc:0 "通过派遣侦察船为贸易使用绘制特定的超级航线，我们的贸易船可以走得更远更快，几乎没有风险。"
+ #86 - starbases build ships faster when we are defending (defensive war)
+ GT_starbase_defensive_war_ship_build_speed_mult:0 "煽风点火"
+ GT_starbase_defensive_war_ship_build_speed_mult_desc:0 "蛊惑人心的政客往往被描绘成一幅黯淡的图景，尽管毫无疑问，他们在说服民众在需要的时候采取行动方面卓有成效。"
+ #87 - starbases trade protection range bonus
+ GT_starbase_trade_protection_range_add:0 "纠察船"
+ GT_starbase_trade_protection_range_add_desc:0 "事实证明，小型护航巡洋舰在减少贸易路线被毫无准备的敌人掠夺的危险方面非常有效。"
+ #82 - cheaper 采矿站 construction cost
+ GT_station_gatherers_build_cost_mult:0 "矿业管理部门"
+ GT_station_gatherers_build_cost_mult_desc:0 "工业和矿业是不断发展的文明所必需的罪恶。采矿设施的建设和维修对任何政府来说都是一种负担，采矿管理机构的成立减轻了这种负担。"
+ #83 - cheaper 研究站 construction cost
+ GT_station_researchers_build_cost_mult:0 "有效的研究计划"
+ GT_station_researchers_build_cost_mult_desc:0 "规划研究前哨已经成为一项必要的工作，因为经常需要首先在采矿站和防御站点上使用资源。规划下一个构建哪个研究站对于我们的研究是至关重要的"
+
+ #############
+ ## leaders ##
+ #88 - leaders max age bonus
+ GT_leader_age:0 "再生细胞重建"
+ GT_leader_age_desc:0 "通过重新测序DNA并将其与从高度再生细胞样本中提取的DNA链拼接起来，我们可以在细胞退化开始侵蚀功能之前活得更长。"
+
+ ############
+ ## armies ##
+ #89 - armies train faster (experience bonus)
+ GT_army_experience_gain_mult:0 "闪速学习"
+ GT_army_experience_gain_mult_desc:0 "军队在整个训练过程中都与庞大的计算机系统相连接，这些系统利用视觉和听觉刺激以及神经数据传输来快速教授非物理训练方案。"
+ #90 - armies are harder to break (morale bonus)
+ GT_army_morale:0 "严格训练"
+ GT_army_morale_desc:0 "实地训练显示，经过严格的训练后，部队士气显著提高。"
+
+ # Hive Mind
+ GT_army_morale_hive:0 "单一目的"
+ GT_army_morale_desc_hive:0 "进一步统一我们的工蜂指令，减少了它们在战斗中从蜂群中分裂的机会。"
+
+ # Machine Empire
+ GT_army_morale_mach:0 "无季度指令"
+ GT_army_morale_desc_mach:0 "战斗单位已经升级，增加了额外的编程指令。撤退不再是一种选择。"
+ #91 - armies are more lethal
+ GT_army_damage_mult:0 "集火计划"
+ GT_army_damage_mult_desc:0 "部队已经被告知将火力集中在一个单一的、关键的目标上的优点，从而提高了他们的破坏性协调能力。"
+
+ # Hive Mind
+ GT_army_damage_mult_hive:0 "蜂群战术"
+ GT_army_damage_mult_desc_hive:0 "我们无数的蜂群工蜂的好处是可以超越和消耗所有遇到蜂群的人。"
+
+ # Machine Empire
+ GT_army_damage_mult_mach:0 "根除协议"
+ GT_army_damage_mult_desc_mach:0 "战略AI已被修改与根除协议。在他们的指令下，所有战斗单位将不再与幸存者战斗。"
+
+ #############
+ ## country ##
+ #92 - empire is better at managing itself on galactic scale 1/3
+ GT_country_admin_cap_add:0 "定义的层次结构"
+ GT_country_admin_cap_add_desc:0 "一个帝国的规模越大，就越难掌握它的等级。有了严格控制和定义的层次结构，每个人都知道该向谁负责。"
+ #93 - empire is better at managing itself on galactic scale 2/3
+ GT_country_admin_cap_add2:0 "反腐败"
+ GT_country_admin_cap_add2_desc:0 "一支有组织的政府力量，致力于铲除帝国内部的腐败，无论它横跨银河系有多远。"
+ #94 - empire is better at managing itself on galactic scale 3/3
+ GT_country_admin_cap_add3:0 "集权机构"
+ GT_country_admin_cap_add3_desc:0 "一个庞大的政府机构，负责管理整个帝国的各个机构。由于拥有庞大的通信网络和数据库，错位治理的可能性大大降低了。"
+ #95 - less waste when breaking down buildings (better at recycling?)
+ GT_planet_building_refund_mult:0 "回收材料"
+ GT_planet_building_refund_mult_desc:0 "回收技术的重大改进使我们的工程师能够在大多数建筑中纳入和分解可重复使用的材料和部件。"
+ #96 - colonies are better at clearing hazards on the planet
+ GT_planet_clear_blocker_time_mult:0 "小行星清洁工"
+ GT_planet_clear_blocker_time_mult_desc:0 "使用大型自动化漫游者来大规模清除障碍，提高了我们完善一个星球适合发展的能力。"
+ #97 - capital world efficiency: food production bonus
+ GT_country_base_food_produces_add:0 "农业公司总部"
+ GT_country_base_food_produces_add_desc:0 "农业计划和组织的集中化已经显示出资本粮食生产的显著增长。"
+ #98 - capital world efficiency:社会学研究 bonus
+ GT_country_base_society_research_produces_add:0 "交换条件"
+ GT_country_base_society_research_produces_add_desc:0 "核心世界的科学家们已经被新的研究拨款充分激励，提高了效率。"
+ #99 - districts are cheaper to construct
+ GT_planet_districts_minerals_cost_add:0 "外区库存"
+ GT_planet_districts_minerals_cost_add_desc:0 "通过将我们多余的资源储存在外区，我们可以以较低的成本建造新的邻区。"
+ #100 - ability to survive on desert worlds is improved
+ GT_pc_desert_habitability:0 "个人温度调节装置"
+ GT_pc_desert_habitability_desc:0 "一种小装置，能在使用者周围投射出一片冷空气。适用于高温地区。"
+ 
+ GT_pc_arid_habitability:0 "湿气农场"
+ GT_pc_arid_habitability_desc:0 "高大的树状结构，缓慢旋转其金属叶片，从空气中吸收水分。"
+
+ #101 - ability to survive on savannah worlds is improved
+ GT_pc_savannah_habitability:0 "水力发电"
+ GT_pc_savannah_habitability_desc:0 "简单地凭空造水是不可能的。然而，从岩石和沙子中创造水是一个排水的过程，但也是可能的。"
+ #102 - ability to survive on tropical worlds is improved
+ GT_pc_tropical_habitability:0 "防病共生体"
+ GT_pc_tropical_habitability_desc:0 "热带居住最危险的方面往往是这些系统所带来的疾病。有了这些经过改造的共生体，预防和对抗上述担忧就容易得多。"
+
+ # Machine Empire
+ GT_pc_tropical_habitability_mach:0 "除锈微型机器人"
+ GT_pc_tropical_habitability_desc_mach:0 "热带地区潮湿的气候会对大多数机器造成严重破坏。为所有设备配备微型除锈器，减少了频繁维护的需要。"
+ #103 - ability to survive on continental worlds is improved
+ GT_pc_continental_habitability:0 "陆运或海运"
+ GT_pc_continental_habitability_desc:0 "为了有效地殖民大陆，我们必须同时适应陆地和海洋。将陆基技术转化为水球技术是坚实的第一步。"
+ #104 - ability to survive on ocean worlds is improved
+ GT_pc_ocean_habitability:0 "水生栖息地"
+ GT_pc_ocean_habitability_desc:0 "利用耐水合金建造水下城市提高了海洋星球的可居住性。"
+ #105 - ability to survive on tundra worlds is improved
+ GT_pc_tundra_habitability:0 "水分发生器"
+ GT_pc_tundra_habitability_desc:0 "严重的旱季和干旱土地带来了严重的问题。高维护水分发生器将接近冻结的空气转化为可用的水。"
+ #106 - ability to survive on arctic worlds is improved
+ GT_pc_arctic_habitability:0 "热核聚变反应堆"
+ GT_pc_arctic_habitability_desc:0 "核聚变技术的好处不仅仅适用于电力。通过利用这些设备产生的热量，尽管温度不适宜居住，整个聚落仍然可以保持温暖。"
+ #107 - ability to survive on alpine worlds is improved
+ GT_pc_alpine_habitability:0 "基岩定居点"
+ GT_pc_alpine_habitability_desc:0 "工程师们已经完善了在山脉内外建造定居点的艺术。"
+ #108 - colonies are faster to setup
+ GT_planet_colony_development_speed_mult:0 "补给舰"
+ GT_planet_colony_development_speed_mult_desc:0 "由较小的预制补给舰护送的殖民船减少了开拓新殖民地所需的时间。"
+ #109 - planets do special stuff faster (this can be very generic, something about faster decision making)
+ GT_planet_decision_enact_speed_mult:0 "Warp Processing"
+ GT_planet_decision_enact_speed_mult_desc:0 "AI技术的计算进步与实验微波技术相结合，使得AI现在可以在不到一微秒的时间内处理和做出数百万个决策。"
+ #110 - empire leader decisions have a longer lasting effect
+ GT_edict_length_mult:0 "导向训练"
+ GT_edict_length_mult_desc:0 "培养领导者的演讲和说服能力，可以提高他们说服他人的能力，巩固他们在人民心中的地位。"
+ #111 - diplomatic insults are more insulting..
+ GT_country_insult_efficiency:0 "雄辩的诬蔑"
+ GT_country_insult_efficiency_desc:0 "外交通常是一种能够把人们聚集在一起的艺术，但有时让人害怕更有益。受过心理学训练的外交官们可以利用它来破坏敌人。"
+ #112 - empire is diplomatically more active in the galaxy
+ GT_max_rivalries:0 "积极外交"
+ GT_max_rivalries_desc:0 "采取严厉和严格的外交姿态也许不是举行会谈的最好方式，但正如blorg让我们听到的那样，这是肯定的。"
+ #113 - more favourable surrender terms  (hostile empires are more likely to accept surrender)
+ GT_country_subject_acceptance_add:0 "无可辩驳的最后通牒"
+ GT_country_subject_acceptance_add_desc:0 "如果显示出统治地位，发出最后通牒就不再是潜在的拒绝，而更像是不可避免的默许。"
+ #114 - resettling population is cheaper
+ GT_country_resettlement_cost_mult:0 "移民账户"
+ GT_country_resettlement_cost_mult_desc:0 "独立的移民基金和预算为安置工作提供了更快的资金来源。"
+ #115 - wars are less draining on resources
+ GT_country_war_exhaustion_mult:0 "战时工业"
+ GT_country_war_exhaustion_mult_desc:0 "规定资源消耗和直接劳动力的政策在战时提高了这些资源的利用率。"
+ #116 - colonies are faster in making decisions for what to build
+ GT_planet_buildings_influence_cost_mult:0 "处理 AI"
+ GT_planet_buildings_influence_cost_mult_desc:0 "一个复杂的认知AI，旨在简化定居点的建设。通过对民众需求的分析，AI确定了建设的优先顺序。"
+ #117 - easier to live on inhospitable worlds
+ GT_pop_environment_tolerance:0 "强适应性工程"
+ GT_pop_environment_tolerance_desc:0 "设计能够在各种世界上运作的庇护所和前哨，在处理不适宜居住的人时，将大大有助于工作。"
+ #119 - borders cause less diplomatic friction
+ GT_country_border_friction_mult:0 "文化交流站"
+ GT_country_border_friction_mult_desc:0 "小型的星际设施，可以容纳少量的生物，并配备有具有文化意义的材料和物品。这些设施旨在扩大文化意识和接受度，有助于减少共享边界的争议性。"
+ #120 - terraforming is faster
+ GT_terraform_speed_mult:0 "课程变革"
+ GT_terraform_speed_mult_desc:0 "在陆地形成方面的科学项目和教育机会使科学家不仅能够专门从事这项困难的任务，而且还能保持他们的专门知识和技术知识。"
+ #121 - time it takes to integrate another empire into our own is lessened
+ GT_country_integration_cooldown_mult:0 "杀手联盟"
+ GT_country_integration_cooldown_mult_desc:0 "通常情况下，将一个帝国并入另一个帝国是一个外交上微妙的过程。通过忽略传统协议并采用兼并指令，一个帝国可以在很短的时间内被整合。"
+ #122 - making a claim on another empire's system is diplomatically less frowned upon.
+ GT_country_claim_influence_cost_mult:0 "令人信服的劝说"
+ GT_country_claim_influence_cost_mult_desc:0 "一些外交官非常擅长说服银河系，让他们相信拥有法律的十分之九。"
+
+ ##############
+ ## pop jobs ##
+ #123 -社会学研究 production bonus from research jobs 1/3
+ GT_planet_researchers_society_research_produces_mult:0 "文化研究"
+ GT_planet_researchers_society_research_produces_mult_desc:0 "所有的研究课程都增加了来自银河系所有已知来源的额外的文化轶事，提高了对银河系文化的一般知识。"
+ #124 -社会学研究 production bonus from research jobs 2/3
+ GT_planet_researchers_society_research_produces_mult2:0 "银河社会中心"
+ GT_planet_researchers_society_research_produces_mult2_desc:0 "一座大型博物馆式建筑，包含了来自银河系的文化工艺品和专著。这些巨大的知识库有助于扩大理解和扩大社会思想。"
+ #125 -社会学研究 production bonus from research jobs 3/3
+ GT_planet_researchers_society_research_produces_mult3:0 "公民启示"
+ GT_planet_researchers_society_research_produces_mult3_desc:0 "随着对太空的不断探索和令人难以置信的邂逅，我们的科学家们不断扩展他们对社会的知识，以及社会如何以独特的方式发展。"
+
+ ####################
+ ## megastructures ##
+ #126 - 巨型建筑engineering research production bonus
+ GT_megastructures_engineering_research_produces_mult:0 "综合工程实验室"
+ GT_megastructures_engineering_research_produces_mult_desc:0 "建造巨型建筑本身就是一项工程壮举。通过将大型工程实验室纳入其中，我们的工程师可以更容易地维护和研究这些巨大的创造。"
+ #127 - it's politically cheaper to build a magestructure (less "not in my backyard" friction when trying to build them)
+ GT_megastructures_influence_cost_add:0 "黑色预算"
+ GT_megastructures_influence_cost_add_desc:0 "对所有报告进行分类并对巨型建筑的每个部分进行划分，可以降低政治因素发现其存在的可能性。"
+
+

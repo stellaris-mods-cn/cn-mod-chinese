@@ -146,9 +146,6 @@ FE_REACTOR: "我们不会在船上安装反应堆的唯一原因是如果我们�
 ENIGMATIC_DRIVE: "神秘跃迁引擎"
 ENIGMATIC_DRIVE_DESC: "这个神秘跃迁引擎使用暗物质撕开一个微型虫洞，让舰船比传统的跃迁引擎跳得更远。"
  
-HYPER_JUMP_DRIVE: "超级翘曲引擎"
-HYPER_JUMP_DRIVE_DESC: "与其他跃迁引擎平衡跳跃能力与快速超光速充电相反，超荷超跃迁跃迁被优化为最大的跳跃距离。因此，跃迁在执行基本的超光速旅行时要慢得多。"
- 
 SHROUD_DRIVE: "虚境跃迁引擎"
 SHROUD_DRIVE_DESC: "这个神秘的神器在飞船和虚境实体之间形成了契约。该实体以增加能源和矿物为代价，授予我们的舰船极为强大的跳跃技术。船员的灵魂也与实体相连。"
  
@@ -703,7 +700,7 @@ ACOT_MISSILE_AE: "黎明导弹"
 ACOT_MISSILE_AE_DESC: "黎明导弹利用微型化的暗能量作为弹头，使其优于老一代。推进器的改进也大大提高了速度。"
 
 ACOT_TORPEDO_DM: "悖论鱼雷"
-ACOT_TORPEDO_DM_DESC: "悖论鱼雷由强光装甲保护，含有强大的暗能量，一旦受到撞击就会爆炸，使其优于老式鱼雷。"
+ACOT_TORPEDO_DM_DESC: "悖论鱼雷由强光装甲保护，含有强大的暗能量，如果受到撞击就会爆炸，使其优于老式鱼雷。"
 
 ACOT_TORPEDO_AE: "离去鱼雷"
 ACOT_TORPEDO_AE_DESC: "相对于悖论鱼雷的改进，离去鱼雷能够对敌人的舰队编队造成巨大破坏。"
@@ -892,6 +889,12 @@ ACOT_AFTERBURNERS_AE_DESC: "在这种情况下，仅靠推进器还不足以使�
 ACOT_HYPERCHARGED_JUMPER_AE: "神秘增压超空间放大器"
 ACOT_HYPERCHARGED_JUMPER_AE_DESC: "额外的辅助放大器可以安装在超空间引擎的模块化涡轮机，以提高其性能。然而，该模块从FTL组件中获取电力，并将降低船舶的FTL提升时间。"
 
+friendly_jumpdrive_aura: "跃迁稳定器"
+friendly_jumpdrive_aura_desc: "增加舰队的跃迁范围。"
+
+ACOT_AURA_HYPERJUMPDRIVE_AE: "跳跃稳定器"
+ACOT_AURA_HYPERJUMPDRIVE_AE_DESC: "跳跃稳定器可以安装在主力舰上，适当的模块可以增加舰队的跳跃范围。"
+
 ACOT_REPAIR_COUNTERMEASURES_AE: "α修复无人机"
 ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "修复无人机是一种具有两种功能的新型自动化无人机。在战斗结束后修理战舰的装甲，并通过吸收代替战舰的攻击造成的伤害作为对策。"
 
@@ -1044,8 +1047,8 @@ tech_point_defense_ae_desc: "看导弹……!？？ 导弹？？？! 我们的�
 tech_point_defense_dm: "神秘点防御"
 tech_point_defense_dm_desc: "神秘点防御发射一束集中的纯暗能量来中和敌人的导弹。光束比旧的点防御更强，允许它有更高的有效距离。"
 
-tech_sensors_dm:0 "仿生传感器"
-tech_sensors_dm_desc:0 "先进的传感器，使用仿生链接技术探测敌方舰船。该系统既能检测有机物，又能检测机器。"
+tech_sensors_dm: "仿生传感器"
+tech_sensors_dm_desc: "先进的传感器，使用仿生链接技术探测敌方舰船。该系统既能检测有机物，又能检测机器。"
 
 tech_strike_craft_bomber_ae: "先驱舰载机"
 tech_strike_craft_bomber_ae_desc: "在$OUTLINER_FALLEN_EMPIRES$的文件中，有一个未经确认的非常先进的攻击机蓝图，它与我们熟悉的前体设计完全不同。但是预计的表现非常好。"
@@ -1069,7 +1072,7 @@ tech_torpedo_ae: "离去鱼雷"
 tech_torpedo_ae_desc: "悖论鱼雷的改进型，离去鱼雷能够对敌人的舰队编队造成巨大破坏，这些编队拥有非常强大的精练暗能量弹头和硬轻质材料。"
 
 tech_torpedo_dm: "悖论鱼雷"
-tech_torpedo_dm_desc: "悖论鱼雷由强光装甲保护，含有强大的暗能量，一旦受到撞击就会爆炸，使其优于老式鱼雷。"
+tech_torpedo_dm_desc: "悖论鱼雷由强光装甲保护，含有强大的暗能量，如果受到撞击就会爆炸，使其优于老式鱼雷。"
 
 tech_resized_energy_lance_dm: "小型化暗能量光矛"
 tech_resized_energy_lance_dm_desc: "强光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暗能量光矛，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
@@ -1288,7 +1291,7 @@ ACOT_EDI_COMPUTER_TITAN: "高维灵能矩阵计算机 (泰坦)"
 ACOT_EDI_COMPUTER_TITAN_DESC: "我们有很多，你只是一个。我们会毁了你。"
 
 ACOT_EDI_COMPUTER_STATION: "高维灵能矩阵计算机 (AFK)"
-ACOT_EDI_COMPUTER_STATION_DESC: "嘿，伙计，我是台战斗电脑。这意味着我能解决问题。不是像“什么是WTF？？垃圾邮件？”，因为这是你在Stellaris游戏中所面临的难题。\n\n我解决实际问题。我该如何阻止带有OP组件的Stellaris玩家舰队不把我结构上的屁股撕碎？就像这个维度灵能空间站，完全护盾，由我设计，由我建造，你最好希望……不是指你。<Rolls Stellaris Fortrss 2 theme here>"
+ACOT_EDI_COMPUTER_STATION_DESC: "嘿，伙计，我是台战斗电脑。这意味着我能解决问题。不是像“什么是WTF？？垃圾邮件？”，因为这是你在Stellaris游戏中所面临的难题。\n\n我解决实际问题。我该如何阻止带有OP组件的Stellaris玩家舰队不把我结构上的屁股撕碎？就像这个维度灵能空间站，完全护盾，由我设计，由我建造，你最好希望……不是指你。<这里是《星际迷航2》的主题>"
 
 titan_ship_ed: "高维泰坦"
 
@@ -2005,3 +2008,25 @@ tech_reinforced_starbase_ae: "$OUTLINER_STARBASES$改良"
 tech_reinforced_starbase_ae_desc: "对暗物质和暗能量的掌握使我们能进一步改良空间站。"
 tech_reinforced_starbase_se: "$OUTLINER_STARBASES$改良"
 tech_reinforced_starbase_se_desc: "我们的堡垒不会屈服。你可以把一群巡洋舰丢过来，我们的堡垒会把它们全都吃掉。"
+
+tech_dm_world_cracker: "先进弑星者镜头"
+tech_dm_world_cracker_desc: "在行星炮的光束上加上额外的聚焦透镜可以大大缩短超级武器的充能时间。"
+tech_dm_global_pacifier: "先进诱导电容器"
+tech_dm_global_pacifier_desc: "安装额外的α反应堆将大大提高诱导电容器的充电时间。"
+tech_dm_neutron_sweep: "先进中子辐射器"
+tech_dm_neutron_sweep_desc: "用额外的中子辐射器升级中子武器将大大增加它的充能时间。"
+tech_dm_divine_enforcer: "先进灵能放大器"
+tech_dm_divine_enforcer_desc: "用强大的灵能放大器放大神圣强制器将使武器更快地执行其充电序列。"
+tech_dm_nanobot_diffuser: "先进纳米机器人"
+tech_dm_nanobot_diffuser_desc: "利用先进的硬光技术快速生产纳米机器人将大大提高纳米武器的充电速度。"
+
+tech_se_world_cracker: "先进裂化电容器"
+tech_se_world_cracker_desc: "将额外的电容器应用到行星裂解器的光束上应该会极大地增加它的破坏力。"
+tech_se_global_pacifier: "先进护盾分束器"
+tech_se_global_pacifier_desc: "安装分束器来快速分散护盾过程将大大减少屏蔽一颗行星所需的时间。"
+tech_se_neutron_sweep: "高级扫描传感器"
+tech_se_neutron_sweep_desc: "用额外的传感器升级中子清扫器将允许武器绕过所有环境目标，只关注有感觉的生命，增加其发射解决方案。"
+tech_se_divine_enforcer: "先进全球执行者"
+tech_se_divine_enforcer_desc: "用忽略无机物的特殊波长增强器放大神圣强化器将极大地增加转换过程。"
+tech_se_nanobot_diffuser: "先进纳米机器人分配器"
+tech_se_nanobot_diffuser_desc: "利用精确瞄准模块快速瞄准所有选定的生命形式将使网络化更快更容易。"

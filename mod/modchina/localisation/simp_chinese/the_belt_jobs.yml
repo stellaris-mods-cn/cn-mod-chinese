@@ -1,0 +1,15 @@
+l_simp_chinese:
+ belt_maintanance_building:0 "维护建筑"
+ belt_maintanance_building_desc:0 "这座建筑雇佣了专家，他们将修复行星上的生命维持系统。"
+ 
+ mod_job_maintanance_add:0 "维护者"
+ job_maintanance:0 "维护者"
+ job_maintanance_desc:0 "£job_maintanance£ $job_maintanance$将£energy£§Y$energy$§!转化成£engineering£ §Y$engineering_research$§!并且§Y宜居性§!§G+3§!%"
+ job_maintanance_effect_desc:0 "£job_maintanance£ $job_maintanance$将£energy£§Y$energy$§!转化成£engineering£ §Y$engineering_research$§!并且§Y宜居性§!§G+3§!%"
+ job_maintanance_plural:0 "维护者"
+ 
+ mod_job_maintanance_drone_add:0 "维护者工蜂"
+ job_maintanance_drone:0 "维护者工蜂"
+ job_maintanance_drone_desc:0 "£job_maintanance_drone£ $job_maintanance_drone$将£energy£§Y$energy$§!转化成£engineering£ §Y$engineering_research$§!并且§Y宜居性§!§G+3§!%"
+ job_maintanance_drone_effect_desc:0 "£job_maintanance_drone£ $job_maintanance_drone$将£energy£§Y$energy$§!转化成£engineering£ §Y$engineering_research$§!并且§Y宜居性§!§G+3§!%"
+ job_maintanance_drone_plural:0 "维护者工蜂"

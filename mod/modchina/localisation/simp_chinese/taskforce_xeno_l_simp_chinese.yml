@@ -46,7 +46,7 @@
  taskforce_xeno_start.104.c:0 "保卫我们的人口中心"
 
  taskforce_xeno_start.105.name:0 "逆向工程"
- taskforce_xeno_start.105.desc:0 "外星人发现我们并不是那么容易被征服的，我们建立了自己的防御，学会了适应，并在每一寸[Root.Capital.GetName]的血泊中冲锋陷阵。一旦我们捕获并开始对Xeno的技术进行逆向工程，形势就开始逆转。我们文明中最伟大的人物团结起来保卫所有[Root.GetNamePlural]。"
+ taskforce_xeno_start.105.desc:0 "外星人发现我们并不是那么容易被征服的，我们建立了自己的防御，学会了适应，并在每一寸[Root.Capital.GetName]的血泊中冲锋陷阵。如果我们捕获并开始对Xeno的技术进行逆向工程，形势就开始逆转。我们文明中最伟大的人物团结起来保卫所有[Root.GetNamePlural]。"
  taskforce_xeno_start.105.a:0 "外星星系的突破"
  taskforce_xeno_start.105.b:0 "异种生物学的突破"
  taskforce_xeno_start.105.c:0 "外星工程的突破"

@@ -174,7 +174,7 @@ tech_fe_mineral_processing_plant: "仿生联动机械加工"
 tech_fe_mineral_processing_plant_desc: "基于先驱者号舰载仿生接口计算机，我们提出了利用相同的仿生链路对我国选矿机进行有效控制的理论。"
 
 tech_fe_food_processing: "农业巨型综合体"
-tech_fe_food_processingt_desc: "更常见的情况是，我们所处的困境是，有些行星太烦人了，无法做出绿色的苹果，或者行星根本就没有绿色。但随着更好的能源的出现，我们可以建立一个自给自足的大型农业综合体，从而消除所有这些问题。绿苹果无处不在。"
+tech_fe_food_processing_desc: "更常见的情况是，我们所处的困境是，有些行星太烦人了，无法做出绿色的苹果，或者行星根本就没有绿色。但随着更好的能源的出现，我们可以建立一个自给自足的大型农业综合体，从而消除所有这些问题。绿苹果无处不在。"
 
 tech_fe_transmutor: "巨型变压器"
 tech_fe_transmutor_desc: "在过去，生产战略资源需要专门的建筑。由于空间有限，这是非常低效的。但是，有了我们的新技术，我们应该能够把所有这些都合并成一个紧凑的建筑，可以把矿物质转化成我们需要的东西。"
@@ -239,8 +239,8 @@ tech_fe_communication_nexus_desc: "科学单元报告，<30级奇点>最终会�
 tech_fe_slave_processing: "无垢者"
 tech_fe_slave_processing_desc: "奴隶很便宜，容易控制，但并不总是有效的。他们在对抗经验丰富的军队时表现得非常糟糕。作为一个巅峰帝国，这是不应该的，这是站不住脚的。我们将训练新一代的奴隶士兵，从出生开始就被训练成为我们对抗群星坚强意志的终极象征。"
 
-tech_fe_betharian: "暗融合$sr_betharian$"
-tech_fe_betharian_desc: "$sr_betharian$似乎对暗物质有一种特殊的反应。我们应该研究一下，也许能够改进$building_betharian_power_plant$，它与暗物质发电厂相比已经相当过时了。"
+tech_fe_betharian: "暗物质融合贝塞里安石"
+tech_fe_betharian_desc: "贝塞里安石似乎对暗物质有一种特殊的反应。我们应该研究一下，也许能够改进$building_betharian_power_plant$，它与暗物质发电厂相比已经相当过时了。"
 
 tech_fe_habitats: "群星是我们的家"
 tech_fe_habitats_desc: "是时候把我们神秘工程带到$pc_habitat$，利用先进技术，我们将消除空间站内存在的任何弱点。无论我们走到哪里，我们都会回家的。"
@@ -304,8 +304,8 @@ building_fe_food_processing_complex_desc: "由中央暗物质设施驱动的多�
 building_ae_food_processing_complex: "农业巨型复合体"
 building_ae_food_processing_complex_desc: "星球上是否没有绿色并不重要，因为绿色无处不在，而绿色是好的。"
 
-building_fe_ancient_cryo_chamber: "δ维修中心"
-building_fe_ancient_cryo_chamber_desc: "这个先进的建筑容纳了各种各样的维护设施，以保持持续的、高效的生产力。"
+building_dm_ancient_cryo_chamber: "δ维修中心"
+building_dm_ancient_cryo_chamber_desc: "这个先进的建筑容纳了各种各样的维护设施，以保持持续的、高效的生产力。"
 
 building_ae_ancient_cryo_chamber: "α停滞核心"
 building_ae_ancient_cryo_chamber_desc: "数十亿的物理身体被提前准备好存放此处，工作单元可以随时更换过期或损坏的身体。"

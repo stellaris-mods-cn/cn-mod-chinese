@@ -97,7 +97,7 @@
  bwm_gravekeeper.72:0 "超越死亡" 
  bwm_gravekeeper.72.desc:0 "我们科学家完成对守墓者的反应堆的核心调整；应该在短时间内就可以突破限制。" 
  bwm_gravekeeper.72.a:0 "这个能力应该谨慎使用。"
- bwm_gravekeeper.72.a.tooltip:0 "§Y - 警告 - 一旦从爆发模式脱离，船只将会变得十分脆弱。§!"
+ bwm_gravekeeper.72.a.tooltip:0 "§Y - 警告 - 如果从爆发模式脱离，船只将会变得十分脆弱。§!"
 
  bwm_gravekeeper.75:0 "超限模式"
  bwm_gravekeeper.75.desc:0 "-爆发模式激活，反应堆限制闸解除-"

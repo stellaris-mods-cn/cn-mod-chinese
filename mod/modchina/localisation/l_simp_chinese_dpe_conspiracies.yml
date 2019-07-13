@@ -1,6 +1,4 @@
 ﻿l_simp_chinese:
-#l_simp_chinese:
-#commented this out so that I get the correct tooltips with my validator
 
 
 dpe_conspiracy.20.name:0 "叛国言论"
@@ -106,7 +104,7 @@ dpe_extra_naval_expenses_2:0 "$dpe_extra_naval_expenses$"
 dpe_extra_naval_expenses_2_desc:0 "$dpe_extra_naval_expenses_desc$"
 
 dpe_conspiracy.5.name:0 "海军研发计划"
-dpe_conspiracy.5.desc:0 "海军高层们理解舰队花费了国家大笔预算。有鉴于此，他们决定要将我们的舰队打造成全银河最先进尖端的劲旅。然而，科研人员、军事实验室和配套材料花费不菲，要满足我们严苛的标准更是如此。一旦我们收到所需的资金，就能开始强化各个舰队，最终达到我们的目标，让所有银河种族都对我们的军事力量艳羡惧怕。"
+dpe_conspiracy.5.desc:0 "海军高层们理解舰队花费了国家大笔预算。有鉴于此，他们决定要将我们的舰队打造成全银河最先进尖端的劲旅。然而，科研人员、军事实验室和配套材料花费不菲，要满足我们严苛的标准更是如此。如果我们收到所需的资金，就能开始强化各个舰队，最终达到我们的目标，让所有银河种族都对我们的军事力量艳羡惧怕。"
 dpe_conspiracy.5.A:0 "我们很乐意为这项新的研发计划投资"
 dpe_conspiracy.5.B:0 "国家无力负担这种支出"
 dpe_conspiracy.5.B.tooltip:0 "$dpe_conspiracy.1.C.tooltip$"

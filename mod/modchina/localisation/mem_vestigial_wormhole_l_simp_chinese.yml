@@ -15,9 +15,9 @@ l_simp_chinese:
  shipsize_mem_vestigial_wormhole_science_ship_upkeep_mult: ""
  
  mem_vestigial_wormhole_wanderer_trait: "虫洞流浪者"
- mem_vestigial_wormhole_wanderer_trait_desc: "一旦被困在一个不稳定的虫洞里，这位勇敢的探险家对太空探索了解颇多。"
+ mem_vestigial_wormhole_wanderer_trait_desc: "如果被困在一个不稳定的虫洞里，这位勇敢的探险家对太空探索了解颇多。"
  mem_vestigial_wormhole_scientist_spider: "蜘蛛策划者"
- mem_vestigial_wormhole_scientist_spider_desc: "这个首领实际上是一只巨大的外星蜘蛛，控制着它所依附的科学官员的外壳。"
+ mem_vestigial_wormhole_scientist_spider_desc: "这个首领实际上是一只巨大的外星蜘蛛，控制着它所依附的科学家的外壳。"
  mem_vestigial_wormhole_ruler_spider: "$mem_vestigial_wormhole_scientist_spider$"
  mem_vestigial_wormhole_ruler_spider_desc: "$mem_vestigial_wormhole_scientist_spider_desc$"
  
@@ -49,7 +49,7 @@ l_simp_chinese:
  mem_vestigial_wormhole.6.name: "巨型空间蜘蛛"
  mem_vestigial_wormhole.6.desc.psi: "当[Root.GetName]接近[Solar_System.GetName]星系中被遗弃的船只时，[Leader.GetName]感觉到里面有许多思想:冰冷的、外星贪婪的思想在等待猎物的到来。 \n\n近距离观察发现，这艘船上满是体型庞大、有攻击性的八条腿生物。由于[Leader.GetHerHis]的预感，[Leader.GetName]避免了一次伏击，明智地选择撤退并凿沉船只，以遏制生物危害。"
  mem_vestigial_wormhole.6.desc.cyborg: "[Solar_System.GetName]星系中被遗弃的船只已被证明并不像我们预期的那样被遗弃和毫无生气。 \n\n[Root.GetName]一与之对接，科学小组就被一群八条腿的大动物包围了。其中一个甚至设法接近[Leader.GetName]，却被[Leader.GetHerHis]新安装的个人防御系统焚毁。 \n\n船员被迫撤退，在航行中撞坏了船，以避免可能的污染。"
- mem_vestigial_wormhole.6.desc.robot: "[Solar_System.GetName]星系中被遗弃的船只并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]一旦与它对接，科学小组就被一大群八足动物包围，这些动物无法穿透它们的盔甲造成任何伤害。 \n\n为了避免任何可能的虫害，[Leader.GetName]。决定把船击沉。"
+ mem_vestigial_wormhole.6.desc.robot: "[Solar_System.GetName]星系中被遗弃的船只并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]如果与它对接，科学小组就被一大群八足动物包围，这些动物无法穿透它们的盔甲造成任何伤害。 \n\n为了避免任何可能的虫害，[Leader.GetName]。决定把船击沉。"
  mem_vestigial_wormhole.desc.robust: "[Solar_System.GetName]星系中被遗弃的船只并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]一与它对接，科学小组就被一群八条腿的大动物包围了。他们中的一个甚至成功地伏击了[Leader.GetName]，但是当它咬了[Leader.GetHerHim]时，[Leader.GetHerHis]增强免疫系统识别出威胁，并被证明是相当致命的潜在捕食者。 \n\n然而，由于不愿进一步检验[Leader.GetHerHis]的运气，[Leader.GetName]决定离开，并将船开航，以防止进一步的污染。"
  mem_vestigial_wormhole.6.a.psi: "先见之明是很难高估的。"
  mem_vestigial_wormhole.6.a.cyborg: "我们的防虫程序增加了。"

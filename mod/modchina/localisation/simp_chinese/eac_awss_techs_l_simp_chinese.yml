@@ -2,31 +2,19 @@
 
   # Ship Tech 
   eac_aw_tech_advanced_carrier:0 "重型航母设计"
-## eac_aw_tech_advanced_carrier -> Advanced Carrier Designs ##
   eac_aw_tech_advanced_carrier_desc:0 "为战列舰和泰坦添加新的机库模块。\n"
-## eac_aw_tech_advanced_carrier_desc -> Adds new strike craft focused ship sections.\n ##
   
   EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_TITLE:0 "§HAdvanced Carrier Designs§!"
-## EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_TITLE -> §HAdvanced Carrier Designs§! ##
   EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_DESC:0 "研发这个科技后，将为战列舰和泰坦添加新的重型航母模块。\n"
-## EAC_AW_TECH_UNLOCK_BATTLESHIP_ADVANCED_CARRIER_DESC -> This technology unlocks the Advanced Carrier layout for Battleships and Titans.\n ##
   
   eac_aw_tech_missile_cruiser:0 "导弹舰设计"
-## eac_aw_tech_missile_cruiser -> Missile Cruiser Designs ##
   eac_aw_tech_missile_cruiser_desc:0 "为巡洋舰添加更多的导弹/鱼雷模块。\n"
-## eac_aw_tech_missile_cruiser_desc -> Adds more missile / torpedo focused ship sections.\n ##
 
   EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_TITLE:0 "§H解锁模块:§! 巡洋舰的导弹模块"
-## EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_TITLE -> §HUnlocks Feature:§! Missile Cruiser Ship Sections ##
   EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_DESC:0 "研发这个科技后，将为巡洋舰添加更多导弹发射模块"
-## EAC_AW_TECH_UNLOCK_MISSILE_CRUISER_DESC -> This technology unlocks a heavier missile cruiser layout for Cruisers ##
 
   eac_aw_tech_light_carrier:0 "轻型航母设计"
-## eac_aw_tech_light_carrier -> Cruiser Light Carrier Designs ##
   eac_aw_tech_light_carrier_desc:0 "为巡洋舰添加新的机库模块。\n"
-## eac_aw_tech_light_carrier_desc -> Adds new strike craft focused ship sections to cruisers.\n ##
  
   EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_TITLE:0 "§H解锁模块:§! 巡洋舰的轻型航母模块"
-## EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_TITLE -> §HUnlocks Feature:§! Light Carrier Cruiser Ship Sections ##
   EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_DESC:0 "研发这个科技后，将为巡洋舰添加新的机库模块。\n"
-## EAC_AW_TECH_UNLOCK_LIGHT_CARRIER_DESC -> This technology unlocks the Light Carrier layout for Cruisers.\n ##
