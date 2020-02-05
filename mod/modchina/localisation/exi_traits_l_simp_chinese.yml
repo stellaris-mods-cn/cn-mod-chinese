@@ -10,5 +10,5 @@
  trait_ex_gef:0 "G.E.F."
  trait_ex_gef_desc:0 "§L这些基因工程部队是专门用来做帝国所有肮脏工作的。§!"
  trait_ex_monstrous:0 "巨大"
- trait_ex_monstrous_effect:0 "§G+75%§!士气伤害和§G+10§!领袖寿命，但其他帝国有§R-25§好感度。"
+ trait_ex_monstrous_effect:0 "§G+75%§!士气伤害和§G+10§!领袖寿命，但其他帝国§R-25§!好感度。"
  trait_ex_monstrous_desc:0 "§L这个物种太可怕了。即使是最坚定的反对者也觉得他们很可怕。§!"

@@ -1,0 +1,78 @@
+lunariciv = {
+	name="lunariciv"
+	adjective="Silvermoon"
+
+	spawn_enabled=yes
+	#spawn_enabled=always
+
+	ignore_portrait_duplication=yes
+	spawn_as_fallen=no
+	ship_prefix="LNS"
+
+	species={
+		class="ELVEN"
+		portrait="lunari"
+		name="Naerelýn"
+		plural="Naerelýn"
+		adjective="Naerelýn"
+		name_list="Lunari"
+		trait="trait_elven_true"
+		trait="trait_natural_physicists"
+		trait="trait_sedentary"
+	}
+
+	room="lunari_silvermoon_room"
+
+	ethic="ethic_fanatic_spiritualist"
+	ethic="ethic_militarist"
+	authority="auth_dictatorial"
+	civics={
+		"civic_elven_arcane_minded"
+		"civic_exalted_priesthood"
+	}
+	government="gov_theocratic_dictatorship"
+
+	planet_name="Sielýn"
+	planet_class="pc_lunari_arctic"
+	initializer="elven_lunari_system_initializer"
+	system_name="Sunless Realms"
+
+	graphical_culture="elven_01"
+	city_graphical_culture="elven_01"
+	advisor_voice_type="l_spiritualist"
+
+	flags={ lunari_personality_flag }
+
+	empire_flag={
+		icon={
+			category="elven"
+			file="elven_2.dds"
+		}
+		background={
+			category="backgrounds"
+			file="lunari_pattern1.dds"
+		}
+		colors={
+			"dark_blue"
+			"grey"
+			"null"
+			"null"
+		}
+	}
+
+	ruler={
+		gender=female
+		name="Gwendolýn"
+		portrait="lunari_female_03"
+		texture=2
+		hair=0
+		clothes=15
+		ruler_title="High Priest"
+		heir_title="Priest"
+		ruler_title_female="High Priestess"
+		heir_title_female="Priestess"
+		trait = trait_ruler_deep_connections
+		trait = trait_ruler_eye_for_talent
+		leader_class = ruler
+	}
+}

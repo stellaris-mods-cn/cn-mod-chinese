@@ -1,10 +1,12 @@
-﻿
+﻿# Crawler
 # By ViolentBeetle
 
 l_simp_chinese:
 
  trait_mem_crawler_pet_owner: "爬行宠物"
  trait_mem_crawler_pet_owner_desc: "这位领袖拥有一只独一无二的宠物爬行动物。"
+ trait_mem_crawler_pet_owner_cloned: "爬行宠物"
+ trait_mem_crawler_pet_owner_cloned_desc: "这位领袖是一个爬行宠物自豪的主人。"
  trait_mem_crawler_pet_owner_ruler: "$trait_mem_crawler_pet_owner$"
  trait_mem_crawler_pet_owner_ruler_desc: "$trait_mem_crawler_pet_owner_desc$"
  
@@ -35,6 +37,7 @@ l_simp_chinese:
  mem_crawler.6.a: "安息吧。"
  mem_crawler.6.b: "宣布今日为全国爬虫节。"
  mem_crawler.6.c: "现在我们可以安全地解剖它了。"
+ mem_crawler.6.d: "这并不一定是结束。"
  
  mem_crawler.10.desc: "它已经到了我们的注意,你的一个公民,[crawler_owner.GetName]，收养了一种你们称之为§Y爬行者§!的爬行动物外星生物作为宠物。\n\n该生物与[request_sender.GetName]的创始神圣文本中的描述相吻合——一个强大的恶魔，吞噬虚空的黑暗者。在怪物变得更强大之前杀死它是非常重要的。"
  mem_crawler.10.a: "我们不是为了某个传说而杀了我们的宠物。"
@@ -55,3 +58,27 @@ l_simp_chinese:
  mem_crawler_killed: "杀死恶魔"
  mem_crawler_denied_request: "拒绝出售爬虫"
 
+ tech_mem_crawler_physiology: "爬虫生物学"
+ tech_mem_crawler_physiology_desc: "我们从一颗小行星上捡到的爬行动物有着非常不寻常的生理机能。但是，在不伤害这种生物的情况下进行非侵略性研究并找出它的独特之处仍然是可能的。"
+ mem_crawler_cloning_possibility: "§H解锁可能：§!爬虫增殖"
+ mem_crawler_cloning_possibility_desc: "将来，我们可能可以用§Y爬虫§!的遗传物质来恢复它们的种群。"
+
+ mem_crawler_cloned_pets: "爬行宠物"
+ mem_crawler_cloned_pets_desc: "恢复的爬行生物现在被我们作为忠诚和聪明的宠物来饲养。"
+ mem_crawler_cloned_pets_tooltip: "增加领袖获得特殊特质的机会。"
+
+ MEM_CRAWLER_CLONING_PROJECT: "克隆爬虫"
+ MEM_CRAWLER_CLONING_PROJECT_DESC: "在过去的时间里，这只爬行动物一直只忠诚的宠物，但它的死亡并不意味着这种物种的终结。利用我们在它活着的时候收集的数据，以及死后的细胞和组织样本，我们可以利用克隆技术来恢复它的种群。"
+
+ mem_crawler.13.name: "爬虫克隆成功"
+ mem_crawler.13.desc: "利用我们的生物学知识，我们将爬虫的某种细胞进行体外培养使其复活，并引起自交繁殖。第一批虫卵正在孵化中。\n\n这个物种似乎是天生易变的，只要稍加调整，我们就能在它们的遗传密码中引入足够多的变异，以保证稳定的繁殖来避免物种灭绝。"
+ mem_crawler.13.a: "可以把它们作为宠物发放到帝国各地。"
+ mem_crawler.13.b: "我们应该建立一个自然保护区。"
+ mem_crawler.13.b.tooltip: "§H解锁决策：§!创建一个爬虫保护区\n一个不可移除的$BLOCKER_DEPOSITS$。"
+
+ decision_mem_crawler_sanctuary: "建造爬虫保护区"
+ decision_mem_crawler_sanctuary_desc: "一片区域将被用于建造爬虫保护区，来适应爬虫的自然喜好。"
+
+ d_mem_crawler_sanctuary: "爬虫保护区"
+ d_mem_crawler_sanctuary_desc: "专为爬虫的生理习性而精心建造的特殊区域。无数生物都称它为家园。"
+ mem_crawler_cant_clear_sanctuary: "爬虫保护区不能被移除。"

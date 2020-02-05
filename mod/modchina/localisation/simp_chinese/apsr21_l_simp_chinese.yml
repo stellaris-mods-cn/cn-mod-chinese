@@ -8,7 +8,7 @@
  apsr21_planet_modifier_desc:0 "整个星球是一个古老文明的工厂建筑群。 不幸的是，它已经毁了很长时间，但它可以恢复"
  
  apsr21_deposit:0 "$apsr21_planet_modifier$"
- apsr21_deposit_desc:0 "$apsr21_planet_modifier_desc$\n\n§M$apsr21_deposit_effect$§!" 
+ apsr21_deposit_desc:0 "$apsr21_planet_modifier_desc$\n\n§M$apsr21_deposit_effect$§!"
  apsr21_deposit_effect:0 "独特的资源可用: $apsr21_planet_modifier$"
  
  
@@ -108,11 +108,11 @@
  
  apsr.21001.title:0 "$apsr21_building_part_b1$完成"
  apsr.21001.desc:0 "我们已经建造了第一个§Y$apsr21_building_part_b1$§!，并开始获得古人的昔日荣耀"
- apsr.21001.ok-button:0 "Nice"
+ apsr.21001.ok-button:0 "不错"
  
  apsr.21002.title:0 "$apsr21_building_part_b2$完成"
  apsr.21002.desc:0 "我们已经恢复了第一个§Y$apsr21_building_part_b2$§!！ 这是农业产业和古人研究的真正突破"
- apsr.21002.ok-button:0 "Wonderful"
+ apsr.21002.ok-button:0 "美妙"
  
  apsr.21003.title:0 "$apsr21_building_part_b3$完成"
  apsr.21003.desc:0 "我们已经部分恢复§Y远古工厂复合体§!并获得了古人的农业工业"
@@ -226,7 +226,7 @@
  job_apsr21_foundry_machine:0 "艺术单元"
  job_apsr21_foundry_machine_plural:0 "艺术单元"
  job_apsr21_foundry_machine_desc:0 "使用当地远古工厂复合体的力量创造各种消费品的单元"
- mod_job_apsr21_foundry_hive_add:0 "艺术单元"
+ mod_job_apsr21_foundry_machine_add:0 "艺术单元"
  
  
  

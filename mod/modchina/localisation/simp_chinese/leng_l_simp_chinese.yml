@@ -39,7 +39,7 @@
   job_leng_life_engineer_plural: "生命工程师"
   job_leng_life_engineer_desc: "忘记你是谁，成为某人需要的人。也许这就是生命的意义。"
   job_leng_life_engineer_effect_desc: "£job_leng_life_engineer£ $job_leng_life_engineer_plural$将£consumer_goods£ §Y$consumer_goods$§!转变为£leng_breeder£ §Y$leng_breeder$§!"
-  mod_job_leng_life_engineer_add: "$job_leng_life_engineer$工作"
+  mod_job_leng_life_engineer_add: "$job_leng_life_engineer$岗位"
   mod_job_leng_life_engineer_per_pop: "每$VALUE$人口§G+1§! $job_leng_life_engineer$"
   mod_job_leng_life_engineer_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_leng_life_engineer_add£"
 
@@ -47,7 +47,7 @@
   job_leng_life_engineer_hive_plural: "生命工程工蜂"
   job_leng_life_engineer_hive_desc: "创造多种多样的工蜂加强蜂巢，从而使我们的生存变得更有吸引力。"
   job_leng_life_engineer_hive_effect_desc: "£job_leng_life_engineer_hive£ $job_leng_life_engineer_hive_plural$将£minerals£ §Y$minerals$§!转变为£leng_breeder£ §Y$leng_breeder$§!"
-  mod_job_leng_life_engineer_hive_add: "$job_leng_life_engineer_hive$工作"
+  mod_job_leng_life_engineer_hive_add: "$job_leng_life_engineer_hive$岗位"
   mod_job_leng_life_engineer_hive_per_pop: "每$VALUE$人口§G+1§! $job_leng_life_engineer_hive$"
   mod_job_leng_life_engineer_hive_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_leng_life_engineer_hive_add£"
 
@@ -55,7 +55,7 @@
   job_leng_life_engineer_mech_plural: "生命工程单位"
   job_leng_life_engineer_mech_desc: "创造生物可以将我们的网络效率提高20%。"
   job_leng_life_engineer_mech_effect_desc: "£job_leng_life_engineer_mech£ $job_leng_life_engineer_mech_plural$将£minerals£ §Y$minerals$§!转变为£leng_breeder£ §Y$leng_breeder$§!"
-  mod_job_leng_life_engineer_mech_add: "$job_leng_life_engineer_mech$工作"
+  mod_job_leng_life_engineer_mech_add: "$job_leng_life_engineer_mech$岗位"
   mod_job_leng_life_engineer_mech_per_pop: "每$VALUE$人口§G+1§! $job_leng_life_engineer_mech$
   mod_job_leng_life_engineer_mech_per_pop_short: "\n每 $VALUE$ £pop£ §G+1§! £mod_job_leng_life_engineer_mech_add£"
 

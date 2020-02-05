@@ -1,0 +1,347 @@
+﻿l_simp_chinese:
+
+BASE_COMBAT_COMPUTER_COLOSSUS_OE: "全矩阵巨像计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_OE_DESC: "光辉。" 
+
+### SHIP COMPONENTS TEXTS
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§H解锁组件:§! 天堂装甲"
+TECH_UNLOCK_ORIGIN_ARMOR_DESC: "天堂装甲是由静态光能量锻造而成，创造出任何文明所知的最强大的船体材料之一。"
+
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§H解锁组件:§! 六翼天使镀层"
+TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "这些钢板是用静态光能量锻造的，使它们不仅非常耐用，而且能够重塑和再生自己，以修复任何对船体造成的损坏。"
+
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§H解锁组件:§! 神圣之盾"
+TECH_UNLOCK_ORIGIN_SHIELD_DESC: "这种使用静态光能量的神秘护盾甚至比星能量护盾更强，可以轻易地击退最强大的动能武器或破坏武器。"
+
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§H解锁组件:§! Ω推进器"
+TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "古老但极其强大的舰船推进器远远超过其他帝国的设计。"
+      
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§H解锁组件:§! 静态光反应堆"
+TECH_UNLOCK_ORIGIN_REACTOR_DESC: "由于光的巨大能量，只需要一个接收器就可以为各种现代舰船提供动力。接收器能将光的能量传送到整个容器中。"
+
+TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§H解锁组件:§! 维度光传感器"
+TECH_UNLOCK_ORIGIN_OENSORS_DESC: "这种最新的探测系统通过读取光线的尺寸来确定舰船的运动。任何邪恶都逃不过我们的眼睛。"
+
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§H解锁组件:§! Ω战斗分析仪"
+TECH_UNLOCK_ORIGIN_CCOM_DESC: "Ω战斗分析仪模仿了星辰之子的“猎人-探索者”(Hunter-Explorer)逻辑引擎通常使用的思维模式，允许现代作战舰艇根据船长的意愿进行特定的思考和行动。"
+
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§H解锁组件:§! Ω潮汐引擎"
+TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "拥抱光能量。拥抱永恒。群星尽在我们的掌握之中。"
+
+ACOT_LASER_OE: "Ω激光炮"
+ACOT_LASER_OE_DESC: "Ω激光炮利用静态光来切割舰船的板材，就像切割黄油一样。它远远优于任何其他已知的激光武器。"
+
+ACOT_PLASMA_OE: "光能量等离子炮"
+ACOT_PLASMA_OE_DESC: "星辰之子的静态光可以被改造成一种非常强大的射弹，可以吞噬所有的物体，制造出一种极其致命的反舰武器。"
+
+SMALL_ACOT_DISRUPTOR_OE: "破坏之光"
+SMALL_ACOT_DISRUPTOR_OE_DESC: "先进的维度干扰武器，将静态光变为一个维度干扰波，将物质解构出主要维度，将敌人的舰船从存在中删除，绕过他们隐藏在那愚蠢的金属盒子里的所有无用的装甲和护盾。"
+
+MEDIUM_ACOT_DISRUPTOR_OE: "破坏之光"
+MEDIUM_ACOT_DISRUPTOR_OE_DESC: "先进的维度干扰武器，将静态光变为一个维度干扰波，将物质解构出主要维度，将敌人的舰船从存在中删除，绕过他们隐藏在那愚蠢的金属盒子里的所有无用的装甲和护盾。"
+
+ACOT_DISRUPTOR_OE: "破坏之光"
+ACOT_DISRUPTOR_OE_DESC: "先进的维度干扰武器，将静态光变为一个维度干扰波，将物质解构出主要维度，将敌人的舰船从存在中删除，绕过他们隐藏在那愚蠢的金属盒子里的所有无用的装甲和护盾。"
+
+ACOT_OMNI_PLASMA_OE: "超动力光能量加农炮"
+ACOT_OMNI_PLASMA_OE_DESC: "基于与先前设计相同的概念，武器能够在更长的距离上发射更致命的光能量球。"
+
+ACOT_PARTICLE_LANCE_OE: "灼热棱镜光矛"
+ACOT_PARTICLE_LANCE_OE_DESC: "这种武器通过棱镜和光晶体发射连续不断的光能流来摧毁敌人的阵形。"
+
+ACOT_POINT_DEFENSE_OE: "方阵防御系统"
+ACOT_POINT_DEFENSE_OE_DESC: "一种特殊类型的静态轻型武器，设计用于强大的反射防御矩阵。方阵能够发射相当于微型光矛能量武器的东西。效果对所有目标都是破坏性的，特别是与标准的其他PDS相比。"
+
+ACOT_ARC_EMITTER_OE: "神圣风暴放电器"
+ACOT_ARC_EMITTER_OE_TITAN: "聚焦神圣风暴放电器"
+ACOT_ARC_EMITTER_OE_DESC: "神圣风暴放电器通过静态光发射器，以极其致命的能量武器穿透敌人的舰船。"
+
+ACOT_PERDITION_BEAM_OE: "和平之光"
+ACOT_PERDITION_BEAM_OE_DESC: "用来摧毁大型舰船的武器。这种毁灭性的能量束将操作者的意志注入强大的武器。"
+
+ACOT_AUTOCANNON_OE: "光脉冲炮"
+ACOT_AUTOCANNON_OE_DESC: "这种近程反护盾自动武器采用特殊的通讯装置，装有静态光罐，在接触时爆炸，具有极高的致命精度和动能。"
+
+ACOT_MASS_DRIVER_OE: "破星炮"
+ACOT_MASS_DRIVER_OE_DESC: "破星炮是基于现代动能武器设计的。它能够远距离发射致命的固体光弹。"
+
+ACOT_FLAK_CANNON_OE: "Ω动态防御系统"
+ACOT_FLAK_CANNON_OE_DESC: "Ω动态防御系统是一种适应静态光技术，以填补动态点防御的作用。虽然射程可能是有限的，但可以由异常高的射速和精度来补偿…"
+
+ACOT_ARTILLERY_OE: "光之界限超强力火炮"
+ACOT_ARTILLERY_OE_DESC: "光之界限超强力火炮发射一种更强的超加速注入光能量的炮弹，可以在不损失密度和力量的情况下，在长距离上进行短时间的战斗。"
+
+ACOT_MASS_ACCELERATOR_OE: "闯入者曲速炮"
+ACOT_MASS_ACCELERATOR_OE_DESC: "闯入者曲速炮发射一颗巨大的弹头，它被包裹在光能量之中，通过微小的虫洞将自己扭曲，绕过行进中的障碍物，同时仍然保持着全部的动能和速度。我们的舰船甚至可以在爆炸时把视线移开，因为真男人从不会去看爆炸。"
+
+ACOT_MISSILE_OE: "双重光之引导导弹"
+ACOT_MISSILE_OE_DESC: "光之引导导弹不仅比“星蛇”更具破坏力，而且是成对发射的。这使得它们在火力加倍的情况下更难被击落。"
+
+ACOT_FIGHTERS_HANGAR_OE: "圣骑士拦截机"
+ACOT_FIGHTERS_HANGAR_OE_DESC: "最先进的拦截机，胜过所有蹩脚的旧世代。开始狩猎吧。"
+
+ACOT_BOMBERS_HANGAR_OE: "十字军轰炸机"
+ACOT_BOMBERS_HANGAR_OE_DESC: "最先进的轰炸机，胜过所有更糟糕的一代。是时候上演真正的表演了。"
+
+ACOT_GUNSHIP_HANGAR_OE: "暴风舰载机"
+ACOT_GUNSHIP_HANGAR_OE_DESC: "暴风舰载机有更好的保护和火力。"
+
+ACOT_ARMOR_OE: "天堂装甲"
+ACOT_ARMOR_OE_DESC: "精悍的装甲，由光能量的力量锻造而成，创造了任何文明都知道的最强大的船体材料之一。"
+ACOT_ENIGMATIC_SHIELD_OE: "神圣之盾"
+ACOT_ENIGMATIC_SHIELD_OE_DESC: "这个光能量护盾甚至比星能量护盾更强，因为这些护盾被额外的能量层和动能吸收场加固。"
+
+SMALL_ACOT_ARMOR_OE: "小型天堂装甲"
+SMALL_ACOT_ARMOR_OE_DESC: "精悍的装甲，由光能量的力量锻造而成，创造了任何文明都知道的最强大的船体材料之一。"
+
+MEDIUM_ACOT_ARMOR_OE: "中型天堂装甲"
+MEDIUM_ACOT_ARMOR_OE_DESC: "精悍的装甲，由光能量的力量锻造而成，创造了任何文明都知道的最强大的船体材料之一。"
+
+LARGE_ACOT_ARMOR_OE: "大型天堂装甲"
+LARGE_ACOT_ARMOR_OE_DESC: "精悍的装甲，由光能量的力量锻造而成，创造了任何文明都知道的最强大的船体材料之一。"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_OE: "小型神圣之盾"
+SMALL_ACOT_ENIGMATIC_SHIELD_OE_DESC: "这个光能量护盾甚至比星能量护盾更强，因为这些护盾被额外的能量层和动能吸收场加固。"
+
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE: "中型神圣之盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE_DESC: "这个光能量护盾甚至比星能量护盾更强，因为这些护盾被额外的能量层和动能吸收场加固。"
+
+LARGE_ACOT_ENIGMATIC_SHIELD_OE: "大型神圣之盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_OE_DESC: "这个光能量护盾甚至比星能量护盾更强，因为这些护盾被额外的能量层和动能吸收场加固。"
+
+STELLARITE_DRIVE_OE: "Ω潮汐引擎"
+STELLARITE_DRIVE_OE_DESC: "拥抱光能量，在银河系的任何地方旅行。"
+
+SHIP_THRUSTER_OE: "Ω推进器"
+SHIP_THRUSTER_OE_DESC: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+DESTROYER_SHIP_THRUSTER_OE: "Ω推进器"
+DESTROYER_SHIP_THRUSTER_OE_DESC: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+CRUISER_SHIP_THRUSTER_OE: "Ω推进器"
+CRUISER_SHIP_THRUSTER_OE_DESC: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+BATTLESHIP_SHIP_THRUSTER_OE: "Ω推进器"
+BATTLESHIP_SHIP_THRUSTER_OE_DESC: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+TITAN_SHIP_THRUSTER_OE: "Ω推进器"
+TITAN_SHIP_THRUSTER_OE_DESC: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+COLOSSUS_SHIP_THRUSTER_OE: "Ω推进器"
+COLOSSUS_SHIP_THRUSTER_OE_DESC: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+OE_SENSOR_SHIP: "维度光传感器"
+OE_SENSOR_SHIP_DESC: "这种最新的探测系统通过读取光线的尺寸来确定舰船的运动。任何邪恶都逃不过我们的眼睛。"
+
+LIGHT_MATTER_REACTOR_OE: "静态光接收器"
+LIGHT_MATTER_REACTOR_OE_DESC: "由于光的巨大能量，只需要一个接收器就可以为各种现代舰船提供动力。这个接收器能把光能量传送到整个容器里。"
+
+OE_OFFENSIVE_COMBAT_COMPUTER: "进攻性Ω战斗分析仪 (小型舰船)"
+OE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER: "平衡性Ω战斗分析仪 (小型舰船)"
+OE_BALANCE_COMBAT_COMPUTER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER: "防御性Ω战斗分析仪 (小型舰船)"
+OE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。这种变化适用于防守战术。"
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻性Ω战斗分析仪 (大型舰船)"
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡性Ω战斗分析仪 (大型舰船)"
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御性Ω战斗分析仪 (大型舰船)"
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。 这种变化适用于防守战术。"
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻性Ω战斗分析仪 (泰坦)"
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER_TITAN: "平衡性Ω战斗分析仪 (泰坦)"
+OE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御性Ω战斗分析仪 (泰坦)"
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。 这种变化适用于防守战术。"
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻性Ω战斗分析仪 (歌利亚)"
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。这种变化适用于进攻战术。"
+
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡性Ω战斗分析仪 (歌利亚)"
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御性Ω战斗分析仪 (歌利亚)"
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。 这种变化适用于防守战术。"
+
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻性Ω战斗分析仪 (空间站)"
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。这种变化适用于进攻战术。"
+
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御性Ω战斗分析仪 (防御空间站 XBOX One)"
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。 这种变化适用于防守战术。"
+
+PAC_COMBAT_COMPUTER_DEFENSE_OE: "航母Ω战斗分析仪 (机动规避)"
+PAC_COMBAT_COMPUTER_DEFENSE_OE_DESC: "专为航母优化的Ω战斗分析仪。"
+
+PAC_COMBAT_COMPUTER_OFFENSE_OE: "航母Ω战斗分析仪 (静止)"
+PAC_COMBAT_COMPUTER_OFFENSE_OE_DESC: "专为航母优化的Ω战斗分析仪。"
+
+HERCULEAN_COMBAT_COMPUTER_OE: "赫拉克勒斯Ω战斗分析仪"
+HERCULEAN_COMBAT_COMPUTER_OE_DESC: "Ω战斗分析仪是目前研制的最先进的生物合成作战计算机。该系统有效地将操作人员的数量增加了两倍或更多，而不占用舰船的实际空间。 这种变化适用于防守战术。"
+
+#####################################################################################
+
+ACOT_AFTERBURNERS_OE: "Ω加力燃烧器"
+ACOT_AFTERBURNERS_OE_DESC: "在这种情况下，单靠推进器还不足以使舰船快速前进。Ω加力燃烧器可以用来进一步提高速度，打破极限!"
+
+ACOT_HYPERCHARGED_JUMPER_OE: "Ω增压超空间放大器 "
+ACOT_HYPERCHARGED_JUMPER_OE_DESC: "额外的辅助放大器可以安装在跃迁引擎的模块化涡轮机，以提高其性能。这个模型几乎不需要FTL引擎程序的负担。用于执行触觉间谍行动。"
+
+ACOT_AURA_HYPERJUMPDRIVE_OE: "恒星路标"
+ACOT_AURA_HYPERJUMPDRIVE_OE_DESC: "曾经记得的，可以再回忆起来。"
+
+ACOT_REPAIR_COUNTERMEASURES_OE: "Ω修复无人机"
+ACOT_REPAIR_COUNTERMEASURES_OE_DESC: "最成熟，最耐用，Ω级最好的无人机，无阻碍和无维护。他们的贡献将载入我们帝国的档案。"
+
+ACOT_SHIELD_BOOSTER_OE: "Ω增压护盾"
+ACOT_SHIELD_BOOSTER_OE_DESC: "超级增压护盾使舰船的护盾发生器的强度几乎是原来的两倍，远远超过了上一代。"
+
+ACOT_WEAPONS_CORE_OE: "Ω辅助核心"
+ACOT_WEAPONS_CORE_OE_DESC: "这种特殊的武器核心可以将周围物质的多余能量转化为增强舰船武器系统的能力，从而获得比以前更大的性能。"
+
+ACOT_AURA_TECH_INHIBITOR_OE: "六翼天使网络抑制器"
+ACOT_AURA_TECH_INHIBITOR_OE_DESC: "这个极其强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。没有人能挑战我们，活着告诉我们这个故事。要么杀，要么被杀，杰克。"
+
+ACOT_AURA_SUPERAURA_OE: "Ω锻造网络"
+ACOT_AURA_SUPERAURA_OE_DESC: "一个由旗舰精心设计的特殊网络，在舰队中所有舰船的计算机之间建立起强大的人工连接，将它们整合成一个永恒的模因。所有的模因。所有的传递。"
+
+ACOT_AUX_ENIGMATIC_AI: "Ω反生命方程数据库"
+ACOT_AUX_ENIGMATIC_AI_DESC: "这个数据库包含所有关于所有祖先时代设计的所有弱点、缺陷和可利用机制的全部详细信息，可以上传到所有舰艇的武器系统。"
+
+aura_origin: "集中网络"
+friendly_tech_inhibitor_aura: "恶意网络抑制器"
+hostile_tech_inhibitor_aura: "友好网络放大器"
+
+shipsize_colossus_hull_add: "巨像船体增加"
+
+tech_lightmatter_afterburners: "Ω加力燃烧器"
+tech_lightmatter_afterburners_desc: "在这种情况下，单靠推进器还不足以使舰船快速前进。欧米茄加力燃烧器可以用来进一步提高速度，打破极限!"
+
+tech_lightmatter_armor: "天堂装甲"
+tech_lightmatter_armor_desc: "精悍的装甲，由光能量的力量锻造而成，创造了任何文明都知道的最强大的船体材料之一。"
+
+tech_lightmatter_artillery: "光之界限超强力火炮"
+tech_lightmatter_artillery_desc: "光之界限超强力火炮发射一种更强的超加速注入光能量的炮弹，可以在不损失密度和力量的情况下，在长距离上进行短时间的战斗。"
+
+tech_lightmatter_aura_energy_drainer: "六翼天使网络抑制器"
+tech_lightmatter_aura_energy_drainer_desc: "这个极其强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。没有人能挑战我们，活着告诉我们这个故事。要么杀，要么被杀，杰克。"
+TECH_UNLOCK_ENERGY_DRAINER_OE_TITLE: "§H解锁组件:§! 六翼天使网络抑制器"
+TECH_UNLOCK_ENERGY_DRAINER_OE_DESC: "§H六翼天使网络抑制器§!\n这个极其强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。没有人能挑战我们，活着告诉我们这个故事。要么杀，要么被杀，杰克。"
+
+
+tech_lightmatter_autocannon: "光脉冲炮"
+tech_lightmatter_autocannon_desc: "这种近程反护盾自动武器采用特殊的通讯装置，装有静态光罐，在接触时爆炸，具有极高的致命精度和动能。"
+
+tech_lightmatter_lance: "灼热棱镜光矛"
+tech_lightmatter_lance_desc: "这种武器通过棱镜和光晶体发射连续不断的光能流来摧毁敌人的阵形。"
+
+tech_lightmatter_bomber: "十字军轰炸机"
+tech_lightmatter_bomber_desc: "最先进的轰炸机，胜过所有更糟糕的一代。是时候上演真正的表演了。"
+
+tech_lightmatter_disruptor: "破坏之光"
+tech_lightmatter_disruptor_desc: "先进的维度干扰武器，将静态光变为一个维度干扰波，将物质解构出主要维度，将敌人的舰船从存在中删除，绕过他们隐藏在那愚蠢的金属盒子里的所有无用的装甲和护盾。"
+
+tech_lightmatter_emitter: "神圣风暴放电器"
+tech_lightmatter_emitter_desc: "神圣风暴放电器通过静态光发射器的适应性，以极其致命的能量武器穿透敌人的舰船。"
+tech_titan_lightmatter_emitter: "泰坦风暴"
+tech_titan_lightmatter_emitter_desc: "警告，风暴来临。单位丢失单位丢失单位丢失。任务失败。\n\n这就是敌人将要听到的。"
+
+tech_lightmatter_fighter: "圣骑士拦截机"
+tech_lightmatter_fighter_desc: "S最先进的互联网拦截机，胜过所有更糟糕的一代。开始打猎吧。"
+
+tech_lightmatter_flak: "Ω动能防御系统"
+tech_lightmatter_flak_desc: "Ω级KDS是前一种模型的改进版，具有任何一种模型都无法比拟的更强大的防御机制。"
+
+tech_lightmatter_gauss: "破星炮"
+tech_lightmatter_gauss_desc: "破星炮是基于现代动能武器设计的。它能够远距离发射致命的固体光弹。"
+
+tech_lightmatter_gunship: "暴风舰载机"
+tech_lightmatter_gunship_desc: "风暴风舰载机有更好的保护和火力。"
+
+tech_lightmatter_hyper_jump_drive: "Ω增压超空间放大器"
+tech_lightmatter_hyper_jump_drive_desc: "额外的辅助放大器可以安装在跃迁引擎的模块化涡轮机，以提高其性能。这个模型几乎不需要FTL驱动程序的负担。用于执行触觉间谍行动。"
+
+tech_lightmatter_inspire_aura: "Ω锻造网络"
+tech_lightmatter_inspire_aura_desc: "一个由旗舰精心设计的特殊网络，在舰队中所有舰船的计算机之间建立起强大的人工连接，将它们整合成一个永恒的模因。所有的模因。所有的传递。"
+TECH_UNLOCK_INSPIRE_AURA_OE_TITLE: "§H解锁组件:§! Ω锻造网络"
+TECH_UNLOCK_INSPIRE_AURA_OE_DESC: "§HΩ锻造网络§!\n一个由旗舰精心设计的特殊网络，在舰队中所有舰船的计算机之间建立起强大的人工连接，将它们整合成一个永恒的模因。所有的模因。所有的传递。""
+
+
+tech_lightmatter_jump_drive: "Ω潮汐引擎"
+tech_lightmatter_jump_drive_desc: "这个特殊引擎允许舰船暂时进入光的维度，在短时间内轻松地穿越时间和空间到达一个新的目的地。"
+
+tech_lightmatter_laser: "Ω激光"
+tech_lightmatter_laser_desc: "Ω激光利用光能量能量来切割舰船板材，如同切割黄油。它远远优于任何其他已知的激光武器。"
+
+tech_lightmatter_missile: "双重光之引导导弹"
+tech_lightmatter_missile_desc: "光之引导导弹不仅比“星毒蛇”更具破坏力，而且是成对发射的。这使得它们在火力加倍的情况下更难被击落。"
+
+tech_lightmatter_photon: "光能量等离子炮"
+tech_lightmatter_photon_desc: "星辰之子的静态光可以被改造成一种非常强大的腐蚀性的投射物，可以将其他材料全部腐蚀掉，制造出一种极其致命的反舰武器。"
+
+tech_lightmatter_plasma_cannon: "超动力光能量加农炮"
+tech_lightmatter_plasma_cannon_desc: "基于与先前设计相同的概念，武器能够在更长的距离上发射更致命的光能球。"
+
+tech_lightmatter_point_defence: "Ω点防御系统"
+tech_lightmatter_point_defence_desc: "这种可以随意操纵光能量的能力使PDS能够发射相当于微枪能量武器的武器。这种影响对所有目标都是破坏性的，特别是与其他PDS相比。"
+
+tech_lightmatter_reactive_drone: "Ω级反应无人机平台"
+tech_lightmatter_reactive_drone_desc: "他是最成熟的，最耐用的，Ω级提供最好的保护，无维护。他们的贡献将载入我们帝国的档案。"
+
+tech_lightmatter_reactor: "静态光适应"
+tech_lightmatter_reactor_desc: "这是一种适应能力极强、极其强大但能量无限的光源，可以用来为这个宇宙已知的几乎任何一项技术提供动力。\n\n我们即将获得的设备，是一个由星辰之子为我们这样的低维度帝国制造的接收器，以允许我们的各种技术利用光的力量。"
+
+tech_lightmatter_sensors: "维度光传感器"
+tech_lightmatter_sensors_desc: "这种最新的探测系统可以确定舰船在不断膨胀的光能量中通过子空间的运动。任何邪恶都逃不过我们的视线。当心光能量的光。"
+
+tech_lightmatter_shield: "神圣之盾"
+tech_lightmatter_shield_desc: "这个光能量护盾甚至比星能量护盾更强，因为这些护盾被额外的能量层和动能吸收场加固。"
+
+tech_lightmatter_shield_supercharger: "光能量超级护盾"
+tech_lightmatter_shield_supercharger_desc: "超级强化的护盾使舰船的护盾发生器的强度几乎是上一代的两倍。"
+
+tech_lightmatter_thruster: "Ω推进器"
+tech_lightmatter_thruster_desc: "极其强大的舰船推进器，利用光能量以不可估量的速度移动。"
+
+tech_lightmatter_titan_beam: "和平之光"
+tech_lightmatter_titan_beam_desc: "用来摧毁大型舰船的武器。这种毁灭性的能量束将操作者的意志注入强大的武器。"
+
+tech_lightmatter_weapon_core: "Ω辅助核心"
+tech_lightmatter_weapon_core_desc: "这种特殊的武器核心可以将周围物质的多余能量转化为增强舰船武器系统的能力，从而获得比以前更大的性能。"
+
+tech_warp_lightmatter_cannon: "闯入者曲速炮"
+tech_warp_lightmatter_cannon_desc: "闯入者曲速炮发射一颗巨大的弹头，它被包裹在光能量之中，通过微小的虫洞将自己扭曲，绕过行进中的障碍物，同时仍然保持着全部的动能和速度。我们的舰船甚至可以在爆炸时把视线移开，因为真男人从不会去看爆炸。"
+
+tech_lightmatter_titan_accelerator: "潮汐使者曲速星炮"
+tech_lightmatter_titan_accelerator_desc: "基于前代模型中使用的类似技术，但应用略有不同。潮汐使者曲速星炮扭曲了一个装载着强大光能的装置，它不仅会造成巨大的破坏，而且还会进一步扩散到舰船内部，把整个舰船变成一个火球。"
+
+ACOT_TITAN_CANNON_OE: "潮汐使者曲速星炮"
+ACOT_TITAN_CANNON_OE_DESC: "就像给敌舰带来毁灭的潮汐，除了那是纯粹的光能量波。"
+
+tech_computer_lightmatter: "Ω战斗分析仪"
+tech_computer_lightmatter_desc: "Ω战斗分析仪模仿了星辰之子的“猎人-探索者”(Hunter-Explorer)逻辑引擎通常使用的思维模式，允许现代作战舰艇根据船长的意愿进行特定的思考和行动。"
+
+tech_lightmatter_analyzer_ai: "全矩阵反生命方程数据库"
+tech_lightmatter_analyzer_ai_desc: "这个数据库包含所有关于所有祖先时代设计的所有弱点、缺陷和可利用机制的全部详细信息，可以上传到所有舰艇的武器系统。"
+ACOT_AURA_SHITTY_SE: "秃顶和F00lish光环"
+ACOT_AURA_SHITTY_SE_DESC: "一个暂时的光环意味着秃顶和f00lish帝国谁试图产生设计的舰船，他们无法建立。文字无法表达这个名为Chirumiru ShiRoz的实体现在有多疯狂，他捣毁键盘，制造出这个愚蠢的、完全多余的光环，因为可怕的人工智能一直在生成错误日志，因为它想设计一艘它甚至不知道如何建造的舰船。\n\n200% MAD。"
+
+BASE_STELLARITE_COMBAT_COMPUTER: "星能量矩阵计算机原型"
+BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不起眼的开始。"
+
+BASE_STELLARITE_THRUSTER: "星能量推进器原型"
+BASE_STELLARITE_THRUSTER_DESC: "驱动我们舰船的第一个引擎。"
+
+BASE_STELLARITE_REACTOR: "星能量反应堆原型"
+BASE_STELLARITE_REACTOR_DESC: "我们黎明的反应堆简单而体面。"

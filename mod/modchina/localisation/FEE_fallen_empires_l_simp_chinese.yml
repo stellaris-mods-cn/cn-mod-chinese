@@ -63,7 +63,7 @@
  fallen_empires_awakening.11.effects.tooltip:0 "当灵能风暴增强时，我们可能会遭受后果…"
  
  FEE_awakened.2.title:0 "军事超级大国"
- FEE_awakened.2.desc:0 "§H[From.GetName]§!的觉醒不是偶然的，这些年来他们也没有完全闲着。他们一直在通过他们的能力，§R[MilitaristPuppet.GetName]§!发挥他们的影响力，同时隐藏了一个巨大的军事建设，其他星系，储存物资和船只。现在，§H[From.GetSpeciesName]§!已经团结成一个整体，再次作为一个复兴超级大国。这不是偶然;这一直是他们的计划。"
+ FEE_awakened.2.desc:0 "§H[From.GetName]§!的觉醒不是偶然的，这些年来他们也没有完全闲着。他们一直在通过他们的能力，§R[MilitaristPuppet.GetName]§!发挥他们的影响力，同时隐藏了一个巨大的军事建设，其他星系，储存物资和飞船。现在，§H[From.GetSpeciesName]§!已经团结成一个整体，再次作为一个复兴超级大国。这不是偶然;这一直是他们的计划。"
  FEE_awakened.2.a:0 "一股新的力量近在咫尺..."
  
  FEE_awakened.3.title:0 "至高无上的霸主"
@@ -340,7 +340,7 @@
  job_FEE_spawning_drone_plural:0 "产卵雄蜂"
  job_FEE_spawning_drone_desc:1 "通过对温度、营养和感染预防的精心管理，这些雄蜂倾向于产卵池，产生幼崽。"
  job_FEE_spawning_drone_effect_desc:0 "£job_FEE_spawning_drone£ $job_FEE_spawning_drone_plural$增加£mod_planet_amenities_no_happiness_add£ §Y$PLANET_AMENITIES_TITLE$§!和£mod_pop_growth_speed£ §Y$MOD_POP_GROWTH_SPEED$§!"
- mod_job_FEE_spawning_drone_add:0 "$job_FEE_spawning_drone$工作"
+ mod_job_FEE_spawning_drone_add:0 "$job_FEE_spawning_drone$岗位"
  mod_job_FEE_spawning_drone_per_pop:0 "每$VALUE$人口§G+1§! $job_FEE_spawning_drone$"
  mod_job_FEE_spawning_drone_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_FEE_spawning_drone_add£"
  
@@ -349,7 +349,7 @@
  job_FEE_defense_drone_plural:0 "搜索者工蜂"
  job_FEE_defense_drone_desc:1 "威胁集体稳定的越轨和职能腐败必须得到纠正。"
  job_FEE_defense_drone_effect_desc:0 "£job_FEE_defense_drone£ $job_FEE_defense_drone_plural$减少£crime£ §Y$PLANET_CRIME_NO_HAPPINESS_TITLE$§!和产生£defense_army£ §Y国防军队§!"
- mod_job_FEE_defense_drone_add:0 "$job_FEE_defense_drone$工作"
+ mod_job_FEE_defense_drone_add:0 "$job_FEE_defense_drone$岗位"
  mod_job_FEE_defense_drone_per_pop:0 "每$VALUE$人口§G+1§! $job_FEE_defense_drone$"
  mod_job_FEE_defense_drone_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_FEE_defense_drone_add£"
  

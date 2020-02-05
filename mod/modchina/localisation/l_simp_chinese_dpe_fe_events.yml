@@ -65,7 +65,7 @@ dpe_leader_die_soon:0 "[root.GetRulerTitle] [root.GetRulerName] 很快就会死.
  dpe_fe.20.option:0 "好极了……我猜？"
  dpe_fe.20.tooltip:0 "[dpe_escaped_scientist.GetName]是一名5级科学家，拥有特性$leader_trait_scientist_erudite$, $leader_trait_maniacal$ 及$dpe_leader_trait_ancient_knowledge$ 现将加入领袖库"
  
- dpe_fe.22.name:0 "REPLACE_ME"
+ dpe_fe.22.name:0 "[dpe_escaped_scientist.GetName]是希望"
  dpe_fe.22.desc:0 "亲爱的[root.GetSpeciesName]，我们注意到你收容了一名精神错乱的罪犯，[dpe_escaped_scientist.GetName]。[dpe_escaped_scientist.GetSheHeCap]携带大量危险科技的资料从我们的管理下逃出，犯下累累罪行。我们特此提出严正警告，[dpe_escaped_scientist.GetSheHe]必须被重新移交给我们，以接受审判。同时你们必须上交[dpe_escaped_scientist.GetHisHer]私自带出的资料——这是为你们自身安全而考虑，那些科技不能落入年幼无知的种族手中。"
  dpe_fe.22.A:0 "[dpe_escaped_scientist.GetSheHeCap]受到我们的庇护"
  dpe_fe.22.A.response:0 "你会为此追悔莫及的，[root.GetSpeciesName]"

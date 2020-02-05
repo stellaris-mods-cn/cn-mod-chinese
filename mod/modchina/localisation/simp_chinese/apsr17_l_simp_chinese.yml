@@ -8,7 +8,7 @@
  apsr17_planet_modifier_desc:0 "这个星球是一个古老文明的发电站。不幸的是，它被破坏了很长一段时间，但也有可能恢复"
  
  apsr17_deposit:0 "$apsr17_planet_modifier$"
- apsr17_deposit_desc:0 "$apsr17_planet_modifier_desc$\n\n§M$apsr17_deposit_effect$§!" 
+ apsr17_deposit_desc:0 "$apsr17_planet_modifier_desc$\n\n§M$apsr17_deposit_effect$§!"
  apsr17_deposit_effect:0 "独特的资源可用: $apsr17_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.17003.title:0 "$apsr17_building_part3$完成"
  apsr.17003.desc:0 "我们在一定程度上恢复了§Y远古发电联合体§!，并利用了古代电力系统的全球能量学"
  apsr.17003.ok-button:0 "完美"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.17013.title:0 "发现一个人造物: §M$apsr17_planet_modifier$§!"
  apsr.17013.desc:0 "在我们的一颗新行星上，发现了一些奇特的东西。 \n这个星球是一个古老文明的发电站。不幸的是，它早就被毁了，但还可以恢复"
  apsr.17013.button:1 "非常棒！!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

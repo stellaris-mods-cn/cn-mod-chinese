@@ -1,0 +1,8 @@
+﻿l_simp_chinese: 
+ # DECISIONS  
+ decision_neutral_zoning: "设置中立区"
+ decision_neutral_zoning_desc: "这个星系将变成中立区。"
+ decision_neutral_zoning_custom: "设置为中立区之后，该星系名义上将不再属于任何国家。"
+ 
+ decision_end_neutral_zoning: "撤消中立区"
+ decision_end_neutral_zoning_desc: "中立区内的星系都将归还给你的国家。"

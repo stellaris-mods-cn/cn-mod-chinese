@@ -1,0 +1,256 @@
+﻿l_simp_chinese:
+
+ apsr_enclave_assault_window_title:0 "改进:攻击力量"
+ 
+ 
+ 
+ 
+ 
+ ### ТЕХНОЛОГИИ ###
+ 
+ TECH_APSR_ENCLAVE_ASSAULT_TITLE:0 "§M$apsr_enclave_assault_window_title$§!"
+ TECH_APSR_ENCLAVE_ASSAULT_DESC:0 "我们交换了累积的£apsr_knowledge£ §M$apsr_knowledge$§!技术，以增加我们舰队的进攻力量"
+ 
+ # УЛУЧШЕНИЕ 01 # 
+ tech_apsr_enclave_assault_button_01_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_01_bonus_desc:0 "$apsr_enclave_assault_button_01_desc$"
+ 
+ # УЛУЧШЕНИЕ 02 # 
+ tech_apsr_enclave_assault_button_02_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_02_bonus_desc:0 "$apsr_enclave_assault_button_02_desc$"
+ 
+ # УЛУЧШЕНИЕ 03 # 
+ tech_apsr_enclave_assault_button_03_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_03_bonus_desc:0 "$apsr_enclave_assault_button_03_desc$"
+ 
+ # УЛУЧШЕНИЕ 04 # 
+ tech_apsr_enclave_assault_button_04_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_04_bonus_desc:0 "$apsr_enclave_assault_button_04_desc$"
+ 
+ # УЛУЧШЕНИЕ 05 # 
+ tech_apsr_enclave_assault_button_05_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_05_bonus_desc:0 "$apsr_enclave_assault_button_05_desc$"
+ 
+ # УЛУЧШЕНИЕ 06 # 
+ tech_apsr_enclave_assault_button_06_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_06_bonus_desc:0 "$apsr_enclave_assault_button_06_desc$"
+ 
+ # УЛУЧШЕНИЕ 07 # 
+ tech_apsr_enclave_assault_button_07_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_07_bonus_desc:0 "$apsr_enclave_assault_button_07_desc$"
+ 
+ # УЛУЧШЕНИЕ 08 # 
+ tech_apsr_enclave_assault_button_08_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_08_bonus_desc:0 "$apsr_enclave_assault_button_08_desc$"
+ 
+ # УЛУЧШЕНИЕ 09 # 
+ tech_apsr_enclave_assault_button_09_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_09_bonus_desc:0 "$apsr_enclave_assault_button_09_desc$"
+ 
+ # УЛУЧШЕНИЕ 10 # 
+ tech_apsr_enclave_assault_button_10_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_assault_button_10_bonus_desc:0 "$apsr_enclave_assault_button_10_desc$"
+ 
+ # УЛУЧШЕНИЕ 11 # 
+ tech_apsr_enclave_assault_button_11_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_assault_button_11_bonus_desc:0 "$apsr_enclave_assault_button_11_desc$"
+ 
+ # УЛУЧШЕНИЕ 12 # 
+ tech_apsr_enclave_assault_button_12_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_assault_button_12_bonus_desc:0 "$apsr_enclave_assault_button_12_desc$"
+ 
+ # УЛУЧШЕНИЕ 13 # 
+ tech_apsr_enclave_assault_button_13_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_assault_button_13_bonus_desc:0 "$apsr_enclave_assault_button_13_desc$"
+ 
+ # УЛУЧШЕНИЕ 14 # 
+ tech_apsr_enclave_assault_button_14_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_assault_button_14_bonus_desc:0 "$apsr_enclave_assault_button_14_desc$"
+  
+ # УЛУЧШЕНИЕ 15 # 
+ tech_apsr_enclave_assault_button_15_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_assault_button_15_bonus_desc:0 "$apsr_enclave_assault_button_15_desc$"
+ 
+ # УЛУЧШЕНИЕ 16 # 
+ tech_apsr_enclave_assault_button_16_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_assault_button_16_bonus_desc:0 "$apsr_enclave_assault_button_16_desc$"
+ 
+ # УЛУЧШЕНИЕ 17 # 
+ tech_apsr_enclave_assault_button_17_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_assault_button_17_bonus_desc:0 "$apsr_enclave_assault_button_17_desc$"
+ 
+ # УЛУЧШЕНИЕ 18 # 
+ tech_apsr_enclave_assault_button_18_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_assault_button_18_bonus_desc:0 "$apsr_enclave_assault_button_18_desc$"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### УЛУЧШЕНИЯ ###
+ 
+ ## УРОВЕНЬ 0 ## 
+ apsr_enclave_assault_available_section_title:0 "§M可用§!"
+ apsr_enclave_assault_buy_desc:0 "§M购买选定的改进§!"
+ apsr_enclave_assault_please_select_desc:0 "§M请在右边栏中选择一个改进!§!"
+ apsr_enclave_assault_locked:0 "改进锁定"
+ 
+ ## УРОВЕНЬ 1 ##
+ apsr_enclave_assault_buttons_stage1_title:0 "§M等级 1§!"
+ 
+ # УЛУЧШЕНИЕ 1 #
+ apsr_enclave_assault_button_01_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_01_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以增加我们船舰武器的输出伤害"
+ apsr_enclave_assault_button_01_effect:0 "效果: §Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+5%§!"
+ apsr_enclave_assault_button_01_failtext:0 "§R我们还没有准备好给你这个改进。\n你应该在几年内与我们联系。§!"
+ apsr_enclave_assault_button_01_info:0 "$apsr_enclave_assault_button_01_title$\n$apsr_enclave_assault_button_01_desc$\n§W--------------§!\n$apsr_enclave_assault_button_01_effect$"
+ 
+ # УЛУЧШЕНИЕ 2 #
+ apsr_enclave_assault_button_02_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_02_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!, we can increase the total outgoing damage of our ships"
+ apsr_enclave_assault_button_02_effect:0 "效果: §Y$MOD_SHIP_FIRE_RATE_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_02_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_02_info:0 "$apsr_enclave_assault_button_02_title$\n$apsr_enclave_assault_button_02_desc$\n§W--------------§!\n$apsr_enclave_assault_button_02_effect$"
+ 
+ # УЛУЧШЕНИЕ 3 #
+ apsr_enclave_assault_button_03_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_03_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!我们可以增加我们的护盾的力量"
+ apsr_enclave_assault_button_03_effect:0 "效果: §Y$MOD_SHIP_SHIELD_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_03_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_03_info:0 "$apsr_enclave_assault_button_03_title$\n$apsr_enclave_assault_button_03_desc$\n§W--------------§!\n$apsr_enclave_assault_button_03_effect$"
+ 
+ # УЛУЧШЕНИЕ 4 #
+ apsr_enclave_assault_button_04_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_04_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以增加我们战舰装甲的厚度"
+ apsr_enclave_assault_button_04_effect:0 "效果: §Y$MOD_SHIP_ARMOR_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_04_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_04_info:0 "$apsr_enclave_assault_button_04_title$\n$apsr_enclave_assault_button_04_desc$\n§W--------------§!\n$apsr_enclave_assault_button_04_effect$"
+ 
+ # УЛУЧШЕНИЕ 5 #
+ apsr_enclave_assault_button_05_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_05_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以增加船体的强度"
+ apsr_enclave_assault_button_05_effect:0 "效果: §Y$MOD_SHIP_HULL_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_05_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_05_info:0 "$apsr_enclave_assault_button_05_title$\n$apsr_enclave_assault_button_05_desc$\n§W--------------§!\n$apsr_enclave_assault_button_05_effect$"
+ 
+ # УЛУЧШЕНИЕ 6 #
+ apsr_enclave_assault_button_06_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_06_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以提高我们舰船的速度"
+ apsr_enclave_assault_button_06_effect:0 "效果: §Y$MOD_SHIP_SPEED_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_06_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_06_info:0 "$apsr_enclave_assault_button_06_title$\n$apsr_enclave_assault_button_06_desc$\n§W--------------§!\n$apsr_enclave_assault_button_06_effect$"
+ 
+ # УЛУЧШЕНИЕ 7 #
+ apsr_enclave_assault_button_07_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_07_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以降低向外国领土声明主权的成本"
+ apsr_enclave_assault_button_07_effect:0 "效果: §Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§! §G-10%§!"
+ apsr_enclave_assault_button_07_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_07_info:0 "$apsr_enclave_assault_button_07_title$\n$apsr_enclave_assault_button_07_desc$\n§W--------------§!\n$apsr_enclave_assault_button_07_effect$"
+ 
+ # УЛУЧШЕНИЕ 8 #
+ apsr_enclave_assault_button_08_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_08_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以增加我们军队的输出伤害"
+ apsr_enclave_assault_button_08_effect:0 "效果: §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_08_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_08_info:0 "$apsr_enclave_assault_button_08_title$\n$apsr_enclave_assault_button_08_desc$\n§W--------------§!\n$apsr_enclave_assault_button_08_effect$"
+ 
+ # УЛУЧШЕНИЕ 9 #
+ apsr_enclave_assault_button_09_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_09_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以减少对我军健康的损害"
+ apsr_enclave_assault_button_09_effect:0 "效果: §Y$MOD_ARMY_ATTACK_HEALTH_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_09_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_09_info:0 "$apsr_enclave_assault_button_09_title$\n$apsr_enclave_assault_button_09_desc$\n§W--------------§!\n$apsr_enclave_assault_button_09_effect$"
+ 
+ # УЛУЧШЕНИЕ 10 #
+ apsr_enclave_assault_button_10_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_assault_button_10_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以改善我们的军队。"
+ apsr_enclave_assault_button_10_effect:0 "效果: §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§! §G+5%§!并且§Y$MOD_ARMY_ATTACK_HEALTH_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_10_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_10_info:0 "$apsr_enclave_assault_button_10_title$\n$apsr_enclave_assault_button_10_desc$\n§W--------------§!\n$apsr_enclave_assault_button_10_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 2 ##
+ apsr_enclave_assault_buttons_stage2_title:0 "§M等级 2§!"
+ 
+ # УЛУЧШЕНИЕ 11 #
+ apsr_enclave_assault_button_11_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_assault_button_11_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以进一步增加我们的舰炮的输出伤害"
+ apsr_enclave_assault_button_11_effect:0 "效果: §Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+5%§!并且§Y$MOD_SHIP_FIRE_RATE_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_11_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_11_info:0 "$apsr_enclave_assault_button_11_title$\n$apsr_enclave_assault_button_11_desc$\n§W--------------§!\n$apsr_enclave_assault_button_11_effect$"
+ 
+ # УЛУЧШЕНИЕ 12 #
+ apsr_enclave_assault_button_12_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_assault_button_12_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以进一步增加我们的舰船护盾和装甲的力量"
+ apsr_enclave_assault_button_12_effect:0 "效果: §Y$MOD_SHIP_SHIELD_MULT$§! §G+5%§!并且§Y$MOD_SHIP_ARMOR_MULT$§! §G+5%§!"
+ apsr_enclave_assault_button_12_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_12_info:0 "$apsr_enclave_assault_button_12_title$\n$apsr_enclave_assault_button_12_desc$\n§W--------------§!\n$apsr_enclave_assault_button_12_effect$"
+ 
+ # УЛУЧШЕНИЕ 13 #
+ apsr_enclave_assault_button_13_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_assault_button_13_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以进一步提高我们的船体强度"
+ apsr_enclave_assault_button_13_effect:0 "效果: §Y$MOD_SHIP_HULL_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_13_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_13_info:0 "$apsr_enclave_assault_button_13_title$\n$apsr_enclave_assault_button_13_desc$\n§W--------------§!\n$apsr_enclave_assault_button_13_effect$"
+ 
+ # УЛУЧШЕНИЕ 14 #
+ apsr_enclave_assault_button_14_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_assault_button_14_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以进一步提高我们舰船的速度"
+ apsr_enclave_assault_button_14_effect:0 "效果: §Y$MOD_SHIP_SPEED_MULT$§! §G+20%§!"
+ apsr_enclave_assault_button_14_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_14_info:0 "$apsr_enclave_assault_button_14_title$\n$apsr_enclave_assault_button_14_desc$\n§W--------------§!\n$apsr_enclave_assault_button_14_effect$"
+ 
+ # УЛУЧШЕНИЕ 15 #
+ apsr_enclave_assault_button_15_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_assault_button_15_desc:0 "通过使用收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以进一步降低向外星领土声明主权的成本"
+ apsr_enclave_assault_button_15_effect:0 "效果: §Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§! §G-20%§!"
+ apsr_enclave_assault_button_15_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_15_info:0 "$apsr_enclave_assault_button_15_title$\n$apsr_enclave_assault_button_15_desc$\n§W--------------§!\n$apsr_enclave_assault_button_15_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 3 ##
+ apsr_enclave_assault_buttons_stage3_title:0 "§M等级 3§!"
+ 
+ # УЛУЧШЕНИЕ 16 #
+ apsr_enclave_assault_button_16_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_assault_button_16_desc:0 "在花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!后，我们可以显著增加我们的舰炮的输出伤害"
+ apsr_enclave_assault_button_16_effect:0 "效果: §Y$MOD_SHIP_WEAPON_DAMAGE$§! §G+10%§!并且§Y$MOD_SHIP_FIRE_RATE_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_16_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_16_info:0 "$apsr_enclave_assault_button_16_title$\n$apsr_enclave_assault_button_16_desc$\n§W--------------§!\n$apsr_enclave_assault_button_16_effect$"
+ 
+ # УЛУЧШЕНИЕ 17 #
+ apsr_enclave_assault_button_17_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_assault_button_17_desc:0 "我们已经花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以显著地增加我们的舰船护盾和装甲的力量"
+ apsr_enclave_assault_button_17_effect:0 "效果: §Y$MOD_SHIP_SHIELD_MULT$§! §G+10%§!并且§Y$MOD_SHIP_ARMOR_MULT$§! §G+10%§!"
+ apsr_enclave_assault_button_17_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_17_info:0 "$apsr_enclave_assault_button_17_title$\n$apsr_enclave_assault_button_17_desc$\n§W--------------§!\n$apsr_enclave_assault_button_17_effect$"
+ 
+ # УЛУЧШЕНИЕ 18 #
+ apsr_enclave_assault_button_18_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_assault_button_18_desc:0 "我们已经花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以显著增加我们军队的输出伤害"
+ apsr_enclave_assault_button_18_effect:0 "效果: §Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§! §G+20%§!并且§Y$MOD_ARMY_ATTACK_HEALTH_MULT$§! §G+20%§!"
+ apsr_enclave_assault_button_18_failtext:0 "$apsr_enclave_assault_button_01_failtext$"
+ apsr_enclave_assault_button_18_info:0 "$apsr_enclave_assault_button_18_title$\n$apsr_enclave_assault_button_18_desc$\n§W--------------§!\n$apsr_enclave_assault_button_18_effect$"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

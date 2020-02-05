@@ -8,7 +8,7 @@
  apsr14_planet_modifier_desc:0 "在纳米机器的帮助下创造了一个放松的好地方"
  
  apsr14_deposit:0 "$apsr14_planet_modifier$"
- apsr14_deposit_desc:0 "$apsr14_planet_modifier_desc$\n\n§M$apsr14_deposit_effect$§!" 
+ apsr14_deposit_desc:0 "$apsr14_planet_modifier_desc$\n\n§M$apsr14_deposit_effect$§!"
  apsr14_deposit_effect:0 "独特的资源可用: $apsr14_planet_modifier$"
  
  
@@ -27,6 +27,8 @@
  apsr14_building_part_m2_text:0 "自动复制和编程使我们能够增加纳米机器人的可用容量"
  
  apsr14_building_part_m3_text:0 "一个大问题是，纳米机器人的复制和编程"
+ 
+ apsr14_building_part_m4_text:0 "修正了对纳米机器人的生产和编程的巨大关注"
  
  
  apsr14_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
@@ -55,6 +57,9 @@
  
  apsr14_building_part_m3:0 "纳米技术"
  apsr14_building_part_m3_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m3_text$"
+ 
+ apsr14_building_part_m4:0 "改性纳米粒子"
+ apsr14_building_part_m4_desc:0 "$apsr14_building_predesc$\n$apsr14_building_part_m4_text$"
  
   
  
@@ -129,7 +134,11 @@
  apsr.14006.title:0 "$apsr14_building_part_m3$ 建成"
  apsr.14006.desc:0 "大规模生产纳米机器人让我们能够更快地建造机械定居点!"
  apsr.14006.ok-button:0 "有趣"
-
+ 
+ apsr.14007.title:0 "$apsr14_building_part_m4$ completed"
+ apsr.14007.desc:0 "修正了基于纳米使用对星球上通讯立方体的影响，允许大大提高机械聚落的装配速度!!"
+ apsr.14007.ok-button:0 "非常好"
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -175,7 +184,7 @@
  apsr.14013.desc.bio:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n在这个地方有一个有机生命形式的完美环境。我们进行了一项研究，发现这种环境是由特殊类型的纳米机器人来调节的。不知什么原因，我们无法控制他们，但我们可以把这个地方作为我们领导人的度假胜地。"
  apsr.14013.desc.mech:0 "在最近被占领的一颗行星上发现了一个纳米机器人工厂。 \n当然，我们已经能够制造纳米机器人了，但这些纳米组装者似乎是纳米设计的一个全新前沿。问题是它们是在分子水平上被创造和复制的，可能是用来转化物质来娱乐一些理性的有机物，但从现在开始我们可以将它们用于构造机械体。 \n我们也找到了一个非常适合娱乐的地方，但是没有一个好的理由去使用它。"
  apsr.14013.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

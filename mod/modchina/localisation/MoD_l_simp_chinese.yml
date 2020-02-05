@@ -124,7 +124,7 @@
  #job_foundry_plural:0 "Metallurgists"
  #job_foundry_desc:0 "Highly trained workers are needed to turn raw 矿工als into the durable alloys that are used in a wide variety of advanced construction."
  #job_foundry_effect_desc:0 "£job_foundry£ $job_foundry_plural$ turn £矿工als£ §Y$矿工als$§! into £alloys£ §Y$alloys$§!"
- #mod_job_foundry_add:0 "$job_foundry$ 职位"
+ #mod_job_foundry_add:0 "$job_foundry$ 岗位"
  #mod_job_foundry_per_pop:0 "§G+1§! $job_foundry$ Job per $VALUE$ Pops"
  #mod_job_foundry_per_pop_short:0 "\n§G+1§! £mod_job_foundry_add£ per $VALUE$ £pop£"
  

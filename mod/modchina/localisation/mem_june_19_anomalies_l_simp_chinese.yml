@@ -1,0 +1,15 @@
+﻿# Miscellaneous anomalies of June 2019
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_rogue_planet_anomaly_category: "不匹配"
+ mem_rogue_planet_anomaly_category_desc: "月球的成分不符合我们对[Solar_System.GetName]星系中天体的预测。"
+
+ mem_flower_anomaly_category: "虚线"
+ mem_flower_anomaly_category_desc: "对小行星的视觉扫描显示出一种不同寻常的颜色模式 - 小行星的整个表面覆盖着从微观到几十米宽的彩色区域。"
+
+ mem_anomalies_june_19.1.name: "流浪行星"
+ mem_anomalies_june_19.1.desc: "[Root.GetName]证实月球§Y[From.GetName]§!确实不属于这个星系。 \n\n它看起来像是某种力量推动着这颗卫星从它的母星系穿越银河系，在作为一颗流浪行星旅行了上亿年后，它终于被§Y[the_gas_giant.GetName]§!的引力捕获。"
+ mem_anomalies_june_19.2.name: "虚空之花"
+ mem_anomalies_june_19.2.desc: "[Root.GetName]报告说，早期发现的彩色斑点实际上是生长在§Y[From.GetName]§!内的一个巨大而复杂生物体的延伸。 \n\n这些斑点实际上是它的外部器官，用来吸收不同形式的宇宙和太阳辐射，滋养植根于岩石内部的巨大系统，每一个都像一个抛物面天线，由像花瓣一样排列的小有机板块组成。"

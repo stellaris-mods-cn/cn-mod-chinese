@@ -1,13 +1,13 @@
 ﻿l_simp_chinese:
 
  bwm_orbital_bombardment.3:0 "毁灭之雨"
- bwm_orbital_bombardment.3.desc:0 "我们的军舰已在 [bwm_bombardment_system_target.GetName] 的星系轨道 [bwm_bombardment_target.GetName] 已经完成武器充能，我们已经锁定了目标星球，等待命令。"
+ bwm_orbital_bombardment.3.desc:0 "我们在[bwm_bombardment_system_target.GetName]星系[bwm_bombardment_target.GetName]轨道上的战舰已经完成了主武器的充能并锁定目标，等待你的命令。"
  bwm_orbital_bombardment.3.a:0 "继续操作。你可以随时准备开火。"
- bwm_orbital_bombardment.3.a.tooltip:0 "§Y摧毁目标行星！§!"
- bwm_orbital_bombardment.3.b:0 "该星球还可以使用，不需要这么做。"
+ bwm_orbital_bombardment.3.a.tooltip:0 "§Y摧毁目标星球。§!"
+ bwm_orbital_bombardment.3.b:0 "这个星球还有用，入侵它。"
  
- pc_bwm_cracked:0 "被摧毁的世界"
- pc_bwm_cracked_desc:0 " 曾经这里是一个郁郁葱葱的生命世界，但现在只剩下飘荡在轨道上的碎片在诉说着曾经这里的辉煌。"
+ pc_bwm_cracked:0 "$pc_egg_cracked$"
+ pc_bwm_cracked_desc:0 "曾经这里是一个郁郁葱葱的生命世界，但现在只剩下灰烬。"
  
  bwm_bombardment_debuff:0 "毁灭之雨"
- bwm_bombardment_debuff_desc:0 "一个先祖武器将自己的阴影投射于这个世界上"
+ bwm_bombardment_debuff_desc:0 "先祖武器的阴影笼罩着这个世界。"

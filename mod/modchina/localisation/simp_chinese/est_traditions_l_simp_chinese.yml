@@ -7,10 +7,10 @@ tradition_est_academy:0 "学院"
 tradition_est_academy_desc:0 "学院、学校和大学遍布我们的帝国，那些希望达到顶点的人通过他们错综复杂的等级制度来实现。"
 tr_est_academy_adopt:0 "学院传统"
 tr_est_academy_adopt_desc:0 "$tradition_est_academy_desc$\n\n$tr_est_academy_adopt_effect$\n\n$tr_est_academy_finish_effect$"
-tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们可以选择 §Y2§! 研究种类，使其中 §Y研究速度§! 增加 §G+15%§!。"
+tr_est_academy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们可以选择 §Y2§! 研究种类，并且 §Y研究速度§! 增加 §G+15%§!。"
 
 tr_est_academy_1:0 "公共教育"
-tr_est_academy_1_desc:0 "§Y帝国领袖池容量§!增加加§Y3§!。"
+tr_est_academy_1_desc:0 "§Y帝国领袖池容量§!增加§Y3§!。"
 tr_est_academy_1_delayed:0 "教育是一种属于所有人的权利。通过公共教育，所有公民都能获得富裕生活所需的基础知识。"
 
 tr_est_academy_2:0 "强制性高等教育"
@@ -22,7 +22,7 @@ tr_est_academy_3_desc:0 "§Y领袖经验收益§!增加§G+33%§!。"
 tr_est_academy_3_delayed:0 "我们重视学习，不仅仅是为了知识，而是作为一个过程本身。一位真正的领袖能从失败中学习到和成功同样多的东西。"
 
 tr_est_academy_4:0 "象牙塔"
-tr_est_academy_4_desc:0 "在每个星球上提供 §Y1§! 额外的 £job_researcher£ §Y$job_researcher$ 职位§! 。"
+tr_est_academy_4_desc:0 "在每个星球上提供 §Y1§! 额外的 £job_researcher£ §Y$job_researcher$ 岗位§! 。"
 tr_est_academy_4_delayed:0 "最前沿的研究最好留给专家。在他们的象牙塔中，他们可以自由地进行研究，而不受外界的干扰。"
 
 tr_est_academy_5:0 "军事学校"
@@ -118,7 +118,7 @@ tr_est_administratum_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y行政管理�
 
 tr_est_administratum_1:0 "简化招聘流程"
 tr_est_administratum_1_desc:0 "§Y$MOD_LEADER_COST$§!减少§G-25%§!。"
-tr_est_administratum_1_delayed:0 "实施了一系列标准化的能力倾向测试、问卷调查和面试以减少寻找为帝国服务的领袖职位最佳候选人所需的开销。"
+tr_est_administratum_1_delayed:0 "实施了一系列标准化的能力倾向测试、问卷调查和面试以减少寻找为帝国服务的领袖岗位最佳候选人所需的开销。"
 
 tr_est_administratum_2:0 "基于绩效的晋升制度"
 tr_est_administratum_2_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§!增加§Y1§!。此外，所有§Y统治者§!初始拥有一个额外的特质。"
@@ -189,7 +189,7 @@ tr_est_aesthetics_1_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§!增加§G+15%§!。
 tr_est_aesthetics_1_delayed:0 "我们的作家和诗人的作品将在数千年内启发着数十亿人的灵魂。一件作品完成后，它将持续到永恒，它每一天的存在都使这个星系变得更好。"
 
 tr_est_aesthetics_2:0 "艺术家协会"
-tr_est_aesthetics_2_desc:0 "在一个星球上每§Y40§! £pop  §Y人口§!提供§Y1§! £job_culture_worker£ §Y$job_culture_worker$ 职位§! 和 £job_entertainer£ §Y$job_entertainer$ 职位§!。"
+tr_est_aesthetics_2_desc:0 "在一个星球上每§Y40§! £pop  §Y人口§!提供§Y1§! £job_culture_worker£ §Y$job_culture_worker$ 岗位§! 和 £job_entertainer£ §Y$job_entertainer$ 岗位§!。"
 tr_est_aesthetics_2_delayed:0 "受人尊敬的艺术家协会定期举办公共文化和创意活动，为所有公民带来欢乐和惊喜。"
 
 tr_est_aesthetics_3:0 "敬畏灵感"
@@ -340,7 +340,7 @@ tr_est_chivalry_2_no_dip_desc:0 "所有£pops §Y人口§! £happiness §Y$MOD_P
 tr_est_chivalry_2_delayed:0 "公民的价值取决于他们是否遵守我们的荣誉准则。在这里不欢迎耻辱的人公开露面。"
 
 tr_est_chivalry_3:0 "职业道德"
-tr_est_chivalry_3_desc:0 "由职位产生的£energy §Y能量币§!, £food §Y食物§!且£minerals §Y矿物§! 产出增加§G+5%§!。"
+tr_est_chivalry_3_desc:0 "由岗位产生的£energy §Y能量币§!, £food §Y食物§!且£minerals §Y矿物§! 产出增加§G+5%§!。"
 tr_est_chivalry_3_delayed:0 "无论任务本身是卑贱或是重要，坚持不懈努力地执行任务是一种荣耀。"
 
 tr_est_chivalry_4:0 "战士的勇气"
@@ -379,7 +379,7 @@ tr_est_the_swarm_2_delayed:0 "胜利随着敌人应接不暇到来。我们会�
 
 tr_est_the_swarm_3:0 "集群舰队"
 tr_est_the_swarm_3_desc:0 "§Y护卫舰建造速度§! 增加 §G+100%§! 且 §Y护卫舰建造花费§! 减少 §G-10%§!。"
-tr_est_the_swarm_3_delayed:0 "我们的舰队由大量小型船只组成。虽然他们缺乏较大型船只的质量，但如果数量足够多，他们很容易摧毁任何舰队。"
+tr_est_the_swarm_3_delayed:0 "我们的舰队由大量小型飞船组成。虽然他们缺乏较大型飞船的质量，但如果数量足够多，他们很容易摧毁任何舰队。"
 
 tr_est_the_swarm_4:0 "人口爆炸"
 tr_est_the_swarm_4_desc:0 "新殖民地开始时多额外§Y1§!个£pops 人口。此外，§Y$MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$§!增加§G+25%§!。"
@@ -400,7 +400,7 @@ tradition_est_commerce:0 "商业"
 tradition_est_commerce_desc:0 "有贸易的地方就有利润。贸易是银河系的命脉，从中我们可以获得巨大的财富。"
 tr_est_commerce_adopt:0 "商业传统"
 tr_est_commerce_adopt_desc:0 "$tradition_est_commerce_desc$\n\n$tr_est_commerce_adopt_effect$\n\n$tr_est_commerce_finish_effect$"
-tr_est_commerce_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n在每个星球上提供§Y3§!额外的 £job_clerk£ §Y$job_clerk$ 职位§!"
+tr_est_commerce_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n在每个星球上提供§Y3§!额外的 £job_clerk£ §Y$job_clerk$ 岗位§!"
 
 tr_est_commerce_1:0 "经济繁荣"
 tr_est_commerce_1_desc:0 "当我们的£energy §Y能量币§!收益为正时，我们的£energy §Y能量币§!产出增加§G+15%§!。"
@@ -427,7 +427,7 @@ tr_est_commerce_5_no_dip_desc:0 "§Y$MOD_COUNTRY_TRADE_FEE$§! 减少 §G-10%§!
 tr_est_commerce_5_no_dip_delayed:0 "在我们的帝国，商品交换的速度几乎快到无法追踪。"
 
 tr_est_commerce_finish:0 "完成商业传统"
-tr_est_commerce_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_commerce_adopt$ 将带来每§Y50§!  £pop£ 人口§Y1§! £job_executive£ §Y$job_executive$ 职位§!。"
+tr_est_commerce_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_commerce_adopt$ 将带来每§Y50§!  £pop£ 人口§Y1§! £job_executive£ §Y$job_executive$ 岗位§!。"
 
 ## Swap - Benevolence
 
@@ -443,7 +443,7 @@ tr_est_benevolence_1_delayed:0 "虽然我们没有占有的概念，但它对于
 
 tr_est_benevolence_2:0 "和平交往"
 tr_est_benevolence_2_desc:0 "减少§Y边境摩擦§!§G-50%§!且增加§Y信任度成长§!§G+20%§!。"
-tr_est_benevolence_2_delayed:0 "我们和其他文明接洽不需要咄咄逼人。相反，让所有人知道我们的舰船不会攻击那些没有伤害的船只。"
+tr_est_benevolence_2_delayed:0 "我们和其他文明接洽不需要咄咄逼人。相反，让所有人知道我们的舰船不会攻击那些没有伤害的飞船。"
 
 tr_est_benevolence_3:0 "外国大使馆"
 tr_est_benevolence_3_desc:0 "外星帝国£opinion §Y评价§!增加§G+30§!。"
@@ -470,12 +470,12 @@ tr_est_cybernetics_adopt_desc:0 "$tradition_est_cybernetics_desc$\n\n$tr_est_cyb
 tr_est_cybernetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y研究速度(计算机学)§!增加§G+25%§!。"
 
 tr_est_cybernetics_1:0 "深度神经网络"
-tr_est_cybernetics_1_desc:0 "来自§Y职位§!的£energy §Y能量币§!产出增加§G+10%§!。"
+tr_est_cybernetics_1_desc:0 "来自§Y岗位§!的£energy §Y能量币§!产出增加§G+10%§!。"
 tr_est_cybernetics_1_robots_desc:0 "来自§Y机器人§!的£energy §Y能量币§!产出增加§G+15%§!。"
 tr_est_cybernetics_1_delayed:0 "先进的神经网络技术允许机器执行以前只有有感知能力的生物才能管理的任务。"
 
 tr_est_cybernetics_2:0 "无人管理人工智能科研人员"
-tr_est_cybernetics_2_desc:0 "来自§Y职位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!。"
+tr_est_cybernetics_2_desc:0 "来自§Y岗位§!的 £engineering §Y工程学§!, £physics §Y物理学§!和£society §Y社会学§!产出增加§G+5%§!。"
 tr_est_cybernetics_2_delayed:0 "AI技术的进步允许AI们更能接触到最高级的任务。一些研究课题显示特别适合AI研究人员。凭借非正统的思维和强大的处理能力，他们着手了具体的问题。研究人员会偶尔检查他们的进展情况，并找出如何将其纳入我们当前的科学理论。"
 
 tr_est_cybernetics_3:0 "作战模拟"
@@ -485,7 +485,7 @@ tr_est_cybernetics_3_delayed:0 "随着计算能力的提高，我们可以进行
 tr_est_cybernetics_4:0 "AI控制舰船"
 tr_est_cybernetics_4_desc:0 "所有没有 §Y舰队司令§!管理的舰队§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+20%§!且§Y回避§!增加§G+20%§!。"
 tr_est_cybernetics_4_AI_desc:0 "§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§!增加§Y1§!且§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+5%§!。"
-tr_est_cybernetics_4_delayed:0 "让有有限的感官输入和处理能力的生物体受我们舰队指挥只会是愚蠢的。我们应该启用AI指挥官，它可以同时控制船队中的所有船只。他们可以在任何时候对战斗有完整的感知，并确保所有船只步调一致。"
+tr_est_cybernetics_4_delayed:0 "让有有限的感官输入和处理能力的生物体受我们舰队指挥只会是愚蠢的。我们应该启用AI指挥官，它可以同时控制船队中的所有飞船。他们可以在任何时候对战斗有完整的感知，并确保所有飞船步调一致。"
 
 tr_est_cybernetics_5:0 "模拟现实"
 tr_est_cybernetics_5_desc:0 "所有£pops §Y人口§!的 £happiness  §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!。"
@@ -561,7 +561,7 @@ tr_est_processing_2_desc:0 "你的领导者被动以缓慢的速度获得经验�
 tr_est_processing_2_delayed:0 "我们的工蜂从我们所经历的各种场景收集大量数据。通过将这些数据保存在数据库中，我们可以运行模拟和评估来训练我们当前的工蜂程序。"
 
 tr_est_processing_3:0 "数据核心"
-tr_est_processing_3_desc:0 "从§Y职位§!获得的 £energy  §Y能量币§! 产出增加 §G+10%§!。"
+tr_est_processing_3_desc:0 "从§Y岗位§!获得的 £energy  §Y能量币§! 产出增加 §G+10%§!。"
 tr_est_processing_3_delayed:0 "在我们的行星表面下，我们将建立大型服务器大厅，为我们在帝国运行的各种系统提供处理能力。"
 
 tr_est_processing_4:0 "协调终端"
@@ -640,7 +640,7 @@ tr_est_faith_2_delayed:0 "包含我们信仰核心的圣书应被写出并分发
 #tr_est_faith_3:0 "礼拜场所"
 #tr_est_faith_3_delayed:0 "我们的公民定期访问各个礼拜场所。在那里，他们可以在他们的信仰中找到内心的平静、希望或指引。"
 tr_est_faith_3:0 "神职人员"
-tr_est_faith_3_desc:0 "星球上每§Y35§! £pop 人口提供§Y1§! £job_priest£ §Y$job_priest$ 职位§!"
+tr_est_faith_3_desc:0 "星球上每§Y35§! £pop 人口提供§Y1§! £job_priest£ §Y$job_priest$ 岗位§!"
 tr_est_faith_3_spiritualist_desc:0 "§Y$job_priest$§! 产出 §Y1§! 额外的 £unity §Y凝聚力§! 且少消耗 §Y1§!  £consumer_goods §Y消费品§!。"
 tr_est_faith_3_delayed:0 "信仰最杰出的仆人，神职人员们，向我们的公民的信仰提供了内心的平静、希望和指引。"
 
@@ -677,7 +677,7 @@ tr_est_purposefullness_1:0 "一个目的"
 tr_est_purposefullness_1_delayed:0 "虽然任务艰巨，但我们将毫不犹豫地完成任务。"
 
 tr_est_purposefullness_2:0 "成功的手段"
-tr_est_purposefullness_2_desc:0 "$tr_est_faith_3_desc$"
+tr_est_purposefullness_2_desc:0 "§Y$MOD_PLANET_AMENITIES_MULT$§!增加§G+20%§!。"
 tr_est_purposefullness_2_delayed:0 "当我们在这个星系醒来时，我们不仅被赋予了一个目标，而且还有实现它的手段。"
 
 tr_est_purposefullness_3:0 "暴力的选择"
@@ -741,7 +741,7 @@ tr_est_confederacy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n所有§Y星区§!
 
 tr_est_confederacy_1:0 "当地指挥结构"
 tr_est_confederacy_1_desc:0 "§Y总督招募花费§! 减少 §G-33%§! 且 §Y领袖维护§! 减少 §G-10%§!。"
-tr_est_confederacy_1_delayed:0 "我们不是把重要职位的任务集中到一起，而是让每个地方政府使用他们自己的指挥结构。"
+tr_est_confederacy_1_delayed:0 "我们不是把重要岗位的任务集中到一起，而是让每个地方政府使用他们自己的指挥结构。"
 
 tr_est_confederacy_2:0 "限制联邦政府权力"
 tr_est_confederacy_2_desc:0 "在所有有 §Y总督§! 管理的 §Y星区§! §Y$MOD_PLANET_Crime_ADD$§! 减少 §G-10§! 且 £happiness §Y$MOD_POP_HAPPINESS$§! 增加 §G+5%§! ."
@@ -826,7 +826,7 @@ tr_est_friendship_2_desc:0 "§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G
 tr_est_friendship_2_delayed:0 "各种各样的生物聚集在我们的世界，不同文化观念融合在了一起。这种文化融合是新技术进步的主要基础。"
 
 tr_est_friendship_3:0 "友善"
-tr_est_friendship_3_desc:0 "提供 §Y1§! 额外 £job_healthcare£ §Y$job_healthcare$ 职位§! 到每个星球上. 此外, £job_healthcare£ §Y$job_healthcare_plural$§! 产出 §Y2§! £society£  §Y社会学研究§!.。"
+tr_est_friendship_3_desc:0 "提供 §Y1§! 额外 £job_healthcare£ §Y$job_healthcare$ 岗位§! 到每个星球上. 此外, £job_healthcare£ §Y$job_healthcare_plural$§! 产出 §Y2§! £society£  §Y社会学研究§!.。"
 tr_est_friendship_3_delayed:0 "每一个友善的行为都将滋润心灵，强化灵魂。"
 
 tr_est_friendship_4:0 "和平之路"
@@ -1023,7 +1023,7 @@ tr_est_industry_4:0 "批量生产"
 tr_est_industry_4_robots:0 "批量生产"
 tr_est_industry_4_desc:0 "§Y舰船建造速度§!增加§G+25%§!。"
 tr_est_industry_4_robots_desc:0 "§Y人口组建速度§!增加§G+20%§!。"
-tr_est_industry_4_delayed:0 "我们的工厂能够大批量生产标准化部件，可以用来建造我们舰队所需的船只。"
+tr_est_industry_4_delayed:0 "我们的工厂能够大批量生产标准化部件，可以用来建造我们舰队所需的飞船。"
 tr_est_industry_4_robots_delayed:0 "我们的工厂能够大批量生产标准化组件，可以用来构建我们国家所需的机器人。"
 
 #tr_est_industry_5:0 "工业革命"
@@ -1120,7 +1120,7 @@ tr_est_proselytism_5_desc:0 "使£pops §Y人口§!的£happiness §Y$MOD_POP_HA
 tr_est_proselytism_5_delayed:0 "我们知道我们的帝国真正优于其他帝国。银河系中所有被误导的其他帝国都应该努力融入我们的帝国，或者效仿我们的帝国。最终我们会显示他们的劣等性。"
 
 tr_est_proselytism_finish:0 "完成劝教传统"
-tr_est_proselytism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_proselytism_adopt$ 将给你的星球每§Y30§! £pop 人口 §Y1§! £job_est_inquisitor£ §Y$job_est_inquisitor$ 职位§! (对 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 和 §Y犯罪率减少§!带来小量加成, 同时生产少量的 £unity §Y凝聚力§!.). "
+tr_est_proselytism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_proselytism_adopt$ 将给你的星球每§Y30§! £pop 人口 §Y1§! £job_est_inquisitor£ §Y$job_est_inquisitor$ 岗位§! (对 §Y$MOD_POP_GOVERNMENT_ETHIC_ATTRACTION$§! 和 §Y犯罪率减少§!带来小量加成, 同时生产少量的 £unity §Y凝聚力§!.). "
 
 ################################################################
 # JUSTICE
@@ -1340,8 +1340,8 @@ tr_est_mechanicum_4_GC_delayed:0 "我们能够设计出远比星系中其他地�
 tr_est_mechanicum_4_megastruct_GC_delayed:0 "$tr_est_mechanicum_4_GC_delayed$"
 
 tr_est_mechanicum_5:0 "工程师协会"
-tr_est_mechanicum_5_desc:0 "§H解锁建筑:§! "工程师会馆\n§E该建筑提供 £job_est_engineer£ §Y$job_est_engineer$§!, 和 £job_technician£ §Y$job_technician$ 职位§!, 同时加强了星球 £engineering  §Y工程学研究§! 产出. 需要至少一个 £building  §Y$building_major_capital$§! 来建造它§!。"
-tr_est_mechanicum_5_robots_desc:0 "§H解锁建筑:§! 工程师会馆\n§E该建筑提供 £job_est_engineer£ §Y$job_est_engineer$§!, £job_technician£ §Y$job_technician$§!, 和 £job_roboticist£ §Y$job_roboticist$ 职位§!, 同时加强了星球 £engineering  §Y工程学研究§! 产出. 需要至少一座 £building  §Y$building_major_capital$§! 来建造它§!。"
+tr_est_mechanicum_5_desc:0 "§H解锁建筑:§! "工程师会馆\n§E该建筑提供 £job_est_engineer£ §Y$job_est_engineer$§!, 和 £job_technician£ §Y$job_technician$ 岗位§!, 同时加强了星球 £engineering  §Y工程学研究§! 产出. 需要至少一个 £building  §Y$building_major_capital$§! 来建造它§!。"
+tr_est_mechanicum_5_robots_desc:0 "§H解锁建筑:§! 工程师会馆\n§E该建筑提供 £job_est_engineer£ §Y$job_est_engineer$§!, £job_technician£ §Y$job_technician$§!, 和 £job_roboticist£ §Y$job_roboticist$ 岗位§!, 同时加强了星球 £engineering  §Y工程学研究§! 产出. 需要至少一座 £building  §Y$building_major_capital$§! 来建造它§!。"
 tr_est_mechanicum_5_delayed:0 "受人尊敬的工程师协会可能是我们帝国中最强大的组织。他们教育出了工程兵团的新成员，并监督着帝国内所有建设项目的设计、指导和建设。这一秩序的大师也是我们社会具有高度影响力的成员，在我们的政府中占有许多重要的席位。"
 tr_est_mechanicum_5_GC:0 "自我维修协议"
 tr_est_mechanicum_5_GC_desc:0 "§Y每日舰体回复§! 和 §Y装甲修复§! 增加 §G+0.5%§!。"
@@ -1361,7 +1361,7 @@ tr_est_militarism_adopt_desc:0 "$tradition_est_militarism_desc$\n\n$tr_est_milit
 tr_est_militarism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n使§Y$mod_planet_jobs_produces_mult$§!增加§G+5%§!当我们达到或超出§Y海军容量§!时"
 
 tr_est_militarism_1:0 "征兵"
-tr_est_militarism_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! 减少 §G-20%§!. 此外每个星球每 §Y25§! £pop 人口获得 §Y1§! £job_soldier£ §Y$job_soldier$ 职位§! 。"
+tr_est_militarism_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§! 减少 §G-20%§!. 此外每个星球每 §Y25§! £pop 人口获得 §Y1§! £job_soldier£ §Y$job_soldier$ 岗位§! 。"
 tr_est_militarism_1_delayed:0 "每个人都可能被选入我们的军队。为我们的军队服务被认为是公民的义务。即使对于那些继续从事其他职业的人来说，在军队的纪律结构中服务也是一种很好的经验。"
 
 tr_est_militarism_2:0 "改革军队结构"
@@ -1393,7 +1393,7 @@ tr_est_might_adopt:0 "强权传统"
 tr_est_might_adopt_desc:0 "$tradition_est_might_desc$\n\n$tr_est_militarism_adopt_effect$\n\n$tr_est_might_finish_effect$"
 
 tr_est_might_1:0 "天生勇士"
-tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!减少§G-33%§!且§Y陆军经验收益§!增加§G+25%§!。此外，在我们星球上的每§Y25§!£pop §Y人口§!获得§Y1§! £job_warrior_drone£ §Y$job_warrior_drone$ 职位§!。"
+tr_est_might_1_desc:0 "§Y$MOD_PLANET_ARMY_BUILD_COST_MULT$§!减少§G-33%§!且§Y陆军经验收益§!增加§G+25%§!。此外，在我们星球上的每§Y25§!£pop §Y人口§!获得§Y1§! £job_warrior_drone£ §Y$job_warrior_drone$ 岗位§!。"
 tr_est_might_1_delayed:0 "战士的本能贯穿于我们所有的工蜂中，当战斗来临时，他们每个人都已准备就绪。"
 
 tr_est_might_1_machines:0 "$tr_est_might_1$"
@@ -1444,14 +1444,14 @@ tr_est_mysticism_3_delayed:0 "小规模的研究人员聚集在我们帝国，�
 
 tr_est_mysticism_4:0 "航海家公会"
 tr_est_mysticism_4_desc:0 "§Y舰船逃脱几率§! 增加 §G+33%§!。"
-tr_est_mysticism_4_delayed:0 "秘密的导航员协会负责所有民用和军用船舶的导航。非会员既不被允许也没有能力操纵我们的船只。"
+tr_est_mysticism_4_delayed:0 "秘密的导航员协会负责所有民用和军用船舶的导航。非会员既不被允许也没有能力操纵我们的飞船。"
 
 tr_est_mysticism_5:0 "秘族"
 tr_est_mysticism_5_desc:0 "所有领袖获得§Y神秘§!特质，提供小量加成。"
 tr_est_mysticism_5_delayed:0 "我们社会中许多强大的个人都被认为拥有超自然力量。这些人是否真正拥有他们被所说那样的力量是未知的。"
 
 tr_est_mysticism_finish:0 "完成神秘传统"
-tr_est_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_mysticism_adopt$ 给我们的星球每§Y50§! £pop 人口§Y1§!个 £job_est_shadow_administrator£ §Y$job_est_shadow_administrator$ 职位§!"
+tr_est_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n采用所有$tr_est_mysticism_adopt$ 给我们的星球每§Y50§! £pop 人口§Y1§!个 £job_est_shadow_administrator£ §Y$job_est_shadow_administrator$ 岗位§!"
 
 ### Swap - Philosophy ###
 
@@ -1482,10 +1482,10 @@ tr_est_philosophy_4_desc:0 "我们的£unity §Y凝聚力§!产出增加§G+10%�
 tr_est_philosophy_4_delayed:0 "我们存在的原因是什么？是什么力量唤醒了我们这个世界，又是什么力量使我们沉睡？"
 
 tr_est_philosophy_5:0 "存在的本质"
-tr_est_philosophy_5_desc:0 "在每个星球上提供§Y3§! 额外的 £job_spawning_drone£ §Y$job_spawning_drone$ 职位§!"
+tr_est_philosophy_5_desc:0 "在每个星球上提供§Y3§! 额外的 £job_spawning_drone£ §Y$job_spawning_drone$ 岗位§!"
 tr_est_philosophy_5_delayed:0 "为什么在这里存在着本可以不存在的事物？"
 tr_est_philosophy_5_machines:0 "$tr_est_philosophy_5$"
-tr_est_philosophy_5_machines_desc:0 "在每个星球上提供§Y1§! 额外的  £job_replicator£ §Y$job_replicator$ 职位§!"
+tr_est_philosophy_5_machines_desc:0 "在每个星球上提供§Y1§! 额外的  £job_replicator£ §Y$job_replicator$ 岗位§!"
 tr_est_philosophy_5_machines_delayed:0 "$tr_est_philosophy_5_delayed$"
 
 tr_est_philosophy_finish:0 "完成神秘传统"
@@ -1517,7 +1517,7 @@ tr_est_natural_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+10%§!�
 tr_est_natural_1_delayed:0 "我们已经学会了接受我们的生命来适应我们的环境，而不是改造我们的环境来适应我们的需求。"
 
 tr_est_natural_1_GC:0 "节俭"
-tr_est_natural_1_GC_desc:0 "§Y职位资源消耗§! 减少 §G-10%§!。"
+tr_est_natural_1_GC_desc:0 "§Y岗位资源消耗§! 减少 §G-10%§!。"
 tr_est_natural_1_GC_delayed:0 "大自然赐予我们的资源并非是无限的，培养出一个浪费的文明将是回报它慷慨礼物的糟糕做法。"
 
 #tr_est_natural_2:0 "如鱼得水"
@@ -1541,7 +1541,7 @@ tr_est_natural_3_machines_desc:0 "从每一个殖民星球的障碍物中收到�
 tr_est_natural_3_machines_delayed:0 "我们的本质与我们周围的自然截然不同。但我们是紧密结合在一起的。我们结合中的矛盾是让它强大的原因。"
 
 tr_est_natural_4:0 "自给自足"
-tr_est_natural_4_desc:0 "我们所有星球每有§Y25§! £pop 人口都会收到§Y1§! £job_farmer£ §Y$job_farmer$ 职位§!。此外， £pop §Y人口食物消费§!减少§G-10%§!。"
+tr_est_natural_4_desc:0 "我们所有星球每有§Y25§! £pop 人口都会收到§Y1§! £job_farmer£ §Y$job_farmer$ 岗位§!。此外， £pop §Y人口食物消费§!减少§G-10%§!。"
 tr_est_natural_4_delayed:0 "我们的世界上大多数人在某种程度上是自给自足的，而不是仅仅依靠集中的粮食生产。在某种程度上，他们可以自己生产食物。"
 
 tr_est_natural_4_GC:0 "$tr_est_natural_3$"
@@ -1622,7 +1622,7 @@ tr_est_order_4_auth_desc:0 "§Y$MOD_POP_GROWTH_SPEED$§!增加§G+20%§!。"
 tr_est_order_4_auth_delayed:0 "到目前为止，生育是自由和无管制的。随着我们帝国的扩张，我们再也无法承受人口增长中的这些不确定性。每年，当地政府将制定计划，确定有多少新人出生，并指定由哪些公民来生产这些新人。"
 
 tr_est_order_5:0 "维持秩序"
-tr_est_order_5_desc:0 "星球上每§Y15§! £pop 人口提供 §Y1§! £job_enforcer£ §Y$job_enforcer$ 职位§!。"
+tr_est_order_5_desc:0 "星球上每§Y15§! £pop 人口提供 §Y1§! £job_enforcer£ §Y$job_enforcer$ 岗位§!。"
 tr_est_order_5_delayed:0 "我们的社会没有一个组织不受益于我们政府的监督和控制。为了确保一个有效率的帝国，我们不能把任何意外甚至更糟糕的问题留给那些粗心的独立个体或机构来管理。"
 
 tr_est_order_5_egali:0 "权利和责任"
@@ -1709,7 +1709,7 @@ tr_est_piracy_1_delayed:0 "无论我们的敌人会拥有什么，即使我们�
 tr_est_piracy_2:0 "劫掠者"
 tr_est_piracy_2_desc:0 "解锁 §Y$policy_est_piracy_raiding$§! 政策，使 §Y贸易值§! 提高 §G10%§!/§G20%§!/§G30%§! 同时使外星帝国 £opinion  §Y评价§! 减少 §R-15§!/§R-30§!/§R-50§!."
 tr_est_piracy_2_AI_desc:0 "我们的£energy §Y能量币§!产出增加§G+10%§!。"
-tr_est_piracy_2_delayed:0 "我们是技术娴熟的突袭者，能够将跨越边界的小型突击方派往外国帝国，攻击不设防定居点和贸易船只。我们会拿走任何我们能够找到的有价值的东西然后消失。"
+tr_est_piracy_2_delayed:0 "我们是技术娴熟的突袭者，能够将跨越边界的小型突击方派往外国帝国，攻击不设防定居点和贸易飞船。我们会拿走任何我们能够找到的有价值的东西然后消失。"
 
 tr_est_piracy_3:0 "破坏者"
 tr_est_piracy_3_desc:0 "对于我们的§Y宿敌§!使£food §Y食物§!和£minerals §Y矿物§!产出减少§R-10%§!且使§Y建筑维护§!增加§R+10%§!。§Y$MOD_COUNTRY_MAX_RIVALRIES$§!增加§Y1§!。"

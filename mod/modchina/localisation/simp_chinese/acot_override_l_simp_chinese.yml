@@ -104,7 +104,7 @@ SWARM_FTL_DRIVE: "虫群生物引擎"
 SWARM_FTL_DRIVE_DESC: "每个天灾军团的“舰船”中的这个特殊器官似乎产生了经线能量，使得虫群能够轻松地穿越高地。"
 
 SHIP_THRUSTER_SWARM: "虫群生物推进器"
-SHIP_THRUSTER_SWARM_DESC: "天灾船只中的这种有机成分似乎通过无法解释的方法推动了巨大的船体前进。"
+SHIP_THRUSTER_SWARM_DESC: "天灾飞船中的这种有机成分似乎通过无法解释的方法推动了巨大的船体前进。"
 
 SWARM_SENSOR_SHIP: "虫群生物感应器"
 SWARM_SENSOR_SHIP_DESC: "天灾群体拥有极其强大的感官功能，可以让它们跟踪并感知几个系统中的猎物，很可能他们会使用这种方法来定位要消耗的新星系。"
@@ -126,16 +126,16 @@ SMALL_ACOT_BIO_SHIELD_SWARM: "虫群生物等离子体护盾"
 SMALL_ACOT_BIO_SHIELD_SWARM_DESC: "尽管完全是有机的并且没有任何能量盾牌，但这个特殊的器官似乎会产生一层薄薄的生物等离子体生物，它可以作为能量武器的弱盾和临时盾牌。 然而，它们似乎无法再生。"
 
 ACOT_SWARM_COMPUTER_PICKET: "虫群蜂巢链接 (哨戒)"
-ACOT_SWARM_COMPUTER_PICKET_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+ACOT_SWARM_COMPUTER_PICKET_DESC: "天灾军团的飞船完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
 
 ACOT_SWARM_COMPUTER_LINE: "虫群蜂巢链接 (线列)"
-ACOT_SWARM_COMPUTER_LINE_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+ACOT_SWARM_COMPUTER_LINE_DESC: "天灾军团的飞船完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
 
 ACOT_SWARM_COMPUTER_SNIPER: "虫群蜂巢链接 (狙击)"
-ACOT_SWARM_COMPUTER_SNIPER_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+ACOT_SWARM_COMPUTER_SNIPER_DESC: "天灾军团的飞船完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
 
 ACOT_SWARM_COMPUTER_QUEEN: "虫群蜂巢链接 (女王)"
-ACOT_SWARM_COMPUTER_QUEEN_DESC: "天灾军团的船只完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
+ACOT_SWARM_COMPUTER_QUEEN_DESC: "天灾军团的飞船完美同步。 因为它们必然符合虫群的一个绝对和永恒的意志。 而且他们的创建是为了满足这一需求。"
 
 ACOT_SWARM_COMPUTER_STATION: "虫群蜂巢链接 (AFK)"
 ACOT_SWARM_COMPUTER_STATION_DESC: "作为一个有机站的AFK，坐下来什么也不做，直到可怕的东西发生然后死亡。 出生有机真的很可怕，你不觉得吗？ 我也饿了，去点披萨。"
@@ -160,13 +160,13 @@ ACOT_PERDITION_BEAM_EDI: "恐惧之眼"
 ACOT_PERDITION_BEAM_EDI_DESC: "神秘而具有破坏性的巨大灵能水晶撕裂了空间和现实的结构，制造了一个裂缝，摧毁了所有的现实。"
 
 DESTROYER_SHIP_THRUSTER_EDI: "维度推进器"
-DESTROYER_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够通过全体船员纯粹的灵能力量移动。"
+DESTROYER_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的飞船能够通过全体船员纯粹的灵能力量移动。"
 
 BATTLESHIP_SHIP_THRUSTER_EDI: "维度推进器"
-BATTLESHIP_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够通过全体船员纯粹的灵能力量移动。"
+BATTLESHIP_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的飞船能够通过全体船员纯粹的灵能力量移动。"
 
 TITAN_SHIP_THRUSTER_EDI: "维度灵能推进器"
-TITAN_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的船只能够通过全体船员纯粹的灵能力量移动。"
+TITAN_SHIP_THRUSTER_EDI_DESC: "奇怪的是，这些入侵者的飞船能够通过全体船员纯粹的灵能力量移动。"
 
 EDI_SENSOR_SHIP: "维度灵能传感器"
 EDI_SENSOR_SHIP_DESC: "这些入侵者不使用传统的传感器，他们完全依靠自己的灵能异能来探测威胁。"
@@ -208,7 +208,7 @@ tech_point_defense_edi: "心灵风暴"
 tech_point_defense_edi_desc: "入侵者本身没有物理点防御。但它们的飞船通过每艘飞船内部的特殊装置发射强大的心灵风暴。似乎这些装置可以适用于任何人，甚至那些可能没有灵能的人。也许入侵者最初不是灵能的？"
 
 tech_titan_edi: "裂谷发生器"
-tech_titan_edi_desc: "裂谷发生器，也被称为恐怖之眼撕裂，打开了空间的结构，创造了一个可怕的眩目的裂谷空间，试图吞噬一切。大多数护盾都能承受巨大的拉力，但是没有shich保护的船只很可能再也看不到这个星系了."
+tech_titan_edi_desc: "裂谷发生器，也被称为恐怖之眼撕裂，打开了空间的结构，创造了一个可怕的眩目的裂谷空间，试图吞噬一切。大多数护盾都能承受巨大的拉力，但是没有shich保护的飞船很可能再也看不到这个星系了."
 
 tech_bio_plasma: "天灾女王的毒液"
 tech_bio_plasma_desc: "天灾巨大的硫酸爆破弹是一种极其致命的泰坦级生物武器，即使是最坚固的战舰也不能轻易抵挡。女王用于此目的的器官是大型足够我们提取和适应我们自己的。"

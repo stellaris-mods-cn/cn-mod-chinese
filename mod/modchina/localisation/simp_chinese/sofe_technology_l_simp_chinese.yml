@@ -1,24 +1,56 @@
 ﻿l_simp_chinese:
 
-ORIGINAL_COLOSSUS_SECTION: "欧米伽级巨像"
+DEITY: "神"
 
-sofe_ancient_weapon: "盖亚方舟舰"
-sofe_ancient_weapon_plural: "盖亚方舟舰"
-sofe_ancient_cruiser: "新星泰坦舰"
-sofe_ancient_cruiser_plural: "新星泰坦舰"
+deity: ""神"
+
+pop_cat_deity: "Tae'va"
+pop_cat_deity_plural: "Tae'vasa"
+pop_cat_deity_desc: "Tae'vasa是只能由神灵来扮演的角色。他们的存在产生了少量的凝聚力，不需要维护。."
+
+NAME_OE_CARETAKER: "恒星守护者"
+
+weapon_type_light_power: "§Y光能量§!"
+
+col_sofe_world: "非凡的乌托邦"
+col_sofe_world_desc: "神居住的地方。创造和超越。"
+
+ORIGINAL_COLOSSUS_SECTION: "Ω级巨像"
+
+sofe_ancient_escort_key: "尼里乌星云"
+sofe_ancient_escort_mid_key: "剑齿虎星云"
+sofe_ancient_escort_stern_key: "塔瑞乌星云"
+
+sofe_ancient_cruiser_key: "诺娃·达尼里乌"
+sofe_ancient_cruiser_mid_key: "诺娃·格劳里乌"
+sofe_ancient_cruiser_stern_key: "诺娃·金牛座"
+
+
+sofe_ancient_weapon: "盖亚方舟"
+sofe_ancient_weapon_plural: "盖亚方舟"
+sofe_ancient_cruiser: "新星泰坦"
+sofe_ancient_cruiser_plural: "新星泰坦"
 sofe_ancient_escort: "星云护航舰"
 sofe_ancient_escort_plural: "星云护航舰"
 sofe_ancient_small_military_station: "防御核心"
 sofe_ancient_small_military_station_plural: "防御核心"
 
-progenitors: "先祖"
+progenitor_sentinel_hull_key: "Ω哨兵之眼"
+progenitor_sentinel_core_key: "Ω前哨之臂"
+progenitor_sentinel_data_key: "Ω哨兵阵列"
+
+sofe_ancient_small_military_station_key: "防御核心"
+
+progenitors: "星辰之子"
 NAME_ORIGINAL: "Stell'dorai"
 NAME_ORIGINAL_PLURAL: "Stell'dorei"
-PROGENITOR: "星界"
-COLOR_ORIGINAL: "虚伪星界"
+PROGENITOR: "星辰之子"
+COLOR_ORIGINAL: "星辰之子"
 PRE_ORIGINAL: "光之探索者"
 COLOR_PRE_ORIGINAL: "虚伪光之探索者"
-THESAN: "Thesan Fun Colony"
+PRE_ORIGINAL_MACHINE: "星辰之子机械"
+PRE_ORIGINAL_ROBOT: "星辰之子机器人"
+THESAN: "有趣的殖民地"
 original_empire_ruler: "Ha'tae"
 original_empire_general: "叛乱者"
 original_empire_admiral: "总督"
@@ -40,203 +72,274 @@ original_empire_active_governor: "执行者"
 origin_assault_guardian: "天启战士"
 origin_assault_guardian_desc: "作为曾经Stell'dorai的守护者，这些新一代的神圣存在如今将通过消灭带来救赎，忠诚地为新秩序而服务。"
 origin_guardian: "天启守护者"
-origin_guardian_desc: "这些天启守护者保护着先祖的圣殿。多亏他们千年来的战斗经验，他们已经成为了无人能比的最致命的战士。"
+origin_guardian_desc: "这这些神圣的天使战士保护着星界的圣所。由于他们在元宇宙中有着上亿年的战斗经验，他们已经成为最致命的战士，无人能敌。"
 origin_autarch_guardian: "天启司战者"
-origin_autarch_guardian_desc: "天启守护者中最优秀的是天启司战者。一位司战者不仅掌握各种战斗技巧，而且还具备战场指挥的技能。在地面战斗中，这些英勇的化身让敌人明白他们永远不可能胜利。"
+origin_autarch_guardian_desc: "在最优秀的天神守护者中，有一位是天神独守者。一个独裁者不仅掌握了所有形式的战斗，而且还掌握了指挥和指挥战场的技能。在战斗中，这些英勇的化身不会对所有反对全面胜利的人表现出丝毫的宽容。"
 
-origin_citadel: "欧米伽防御矩阵"
-origin_citadel_plural: "欧米伽防御矩阵"
-origin_super_citadel: "欧米茄堡垒"
-origin_super_citadel_plural: "欧米茄堡垒"
-origin_super_citadel_playable: "欧米茄堡垒"
-origin_super_citadel_playable_plural: "欧米茄堡垒"
+origin_citadel: "Ω防御矩阵"
+origin_citadel_plural: "Ω防御矩阵"
+progenitor_sentinel: "Ω哨兵"
+origin_super_citadel: "Ω堡垒"
+origin_super_citadel_plural: "恒星庇护"
+origin_super_citadel_playable: "恒星庇护"
+origin_super_citadel_playable_plural: "恒星庇护"
 
 building_crystal_arch: "水晶高塔"
-building_crystal_arch_desc: "光弯曲并显现为我们想要的形状。所有的物质、所有我们已知的创造物都能通过意志之力塑造成型。这股力量驱使着我们的帝国通过无尽斗争的考验。"
+building_crystal_arch_desc: "光弯曲并显现到我们所渴望的任何事物中。我们所知道的所有物质，所有创造都可以通过意志的力量被塑造成存在。意志驱使我们经历无尽的斗争。"
 
 building_eden_garden: "宁静花园"
-building_eden_garden_desc: "光明中存在着和平与宁静。当我们思考并将我们的思想集中在我们身体内的鲜活的灵魂，理解一切事物是如何成为现实时，我们找到了和平。这片土地本身与我们结合为一体。"
+building_eden_garden_desc: "光明中有和平与宁静。当我们冥想并将我们的思想集中到我们身体内的活灵魂中，理解一切是如何发生的，我们就会找到平静。土地与我们融为一体。"
 
 building_heaven_sanctuary: "永恒之光"
-building_heaven_sanctuary_desc: "我们穿越到彼岸，我们与黑暗作斗争。我们在挑战中茁壮成长并珍视挑战。在团结中找到了力量。全矩阵和永恒之光让我们自由。"
+building_heaven_sanctuary_desc: "我们穿越到遥远的地方，与黑暗作斗争。我们在挑战中茁壮成长，珍惜挑战。团结就是力量。一切都将被揭露。"
 
-building_grand_fortress: "昆拉斯之盾"
-building_grand_fortress_desc: "当所有的希望都破灭了，当我们的精神都崩溃了，当我们的机器也损毁了。司战者英塔迪斯召集守护者们与古人战斗。但并不是守护者们或猎杀者们拯救了这一天。是仅仅一个人，独自举起他的灵能盾牌保护了圣殿。我们也许永远失去了昆拉斯，但关于他的歌谣将永远被人们传唱。"
+building_grand_fortress: "Kun'ras之盾"
+building_grand_fortress_desc: "当一切希望似乎都破灭了，甚至连我们的意志也动摇了，我们的武器就变得迟钝了。内部自给自足的人召集守卫者与外来者作战。他们用光的力量取得了成功。但并不是守护者或猎人在那天拯救了整个元宇宙。这是一个简单的人举起他的盾牌，以保护首都，尽管他的地位是一个Sili'pin。Kun'ras的精髓可能永远失去了，但他的歌曲将永远被唱下去。"
 
-building_power_pyramid: "桑托斯之矛"
-building_power_pyramid_desc: "对抗古人需要的不仅仅是一个人的精神和意志。桑托斯比其他人更了解这一点。他凝望着雅利安，第一颗星，然后是伊欧台，伟大之海，然后是伟大之成，阿尔里登。\n\n星光……支持着思想的海洋……我们伟大国家的综合工程就建在这里。\n\n星辰…灵能…合成。在大混乱的时候被锻造，光明即将来临。"
+building_power_pyramid: "Saun'thos之矛"
+building_power_pyramid_desc: "对抗外来者需要的不仅仅是一个人的意志。Saun'thos比任何人都更明白这一点。他凝视着艾莉亚河;第一颗星星，然后变成了Eour'tai;大海，然后进入伟大的城市埃尔登。\n\n正是在那里，他对探险家所看到的一切进行了千里眼的观察，在我们所有的历史上，光第一次被理解。"
 
 building_super_shelter: "发现之穹"
 building_super_shelter_desc: "即使我们已经站在了我们前进道路的顶峰，我们已经超越了迄今为止我们所知道的所有挑战。这仍然有一个必须回答的重大问题。在找到答案之前，我们必须坚持下去。完美是我们将追求但永远不会获得的目标。"
 
 building_chamber_of_hope: "希望之室"
-building_chamber_of_hope_desc: "在这个大房间中许多的镜子中仍然清晰地回响着我们过去成就。我们凝视着镜中的景象，看到了过去、现在和可能的未来。即使当我们的身体崩溃，我们的灵魂破碎，我们的帝国覆灭，当我们失去一切，我们仍然还保留着希望。"
+building_chamber_of_hope_desc: "在这个伟大的会议厅的许多镜子中，仍然清晰地回响着我们过去成就的回声。我们凝视着倒影，看到过去，现在和可能的未来。甚至当我们的本质消失，我们的灵魂被撕裂，我们的帝国沦陷，我们失去一切的时候，我们也会灭亡;我们还有希望。"
 
 building_omega_fortress: "天穹要塞"
-building_omega_fortress_desc: "看看我们最神圣和最光荣的秩序，天启守护者，我们家园的守护神。他们为了追求在战斗中的完美摒弃了所有其他技能。他们肩负重担，但绝不动摇。他们将以勇敢和热情面对所有侵略者。"
+building_omega_fortress_desc: "请看我们最神圣和尊贵的秩序，天堂守护者。我们伟大秩序的坚定捍卫者。他们在战斗中为了追求完美而放弃了所有其他技能。他们的担子很重，但他们不会动摇。他们将勇敢而热情地面对所有入侵者。"
 
 building_library_of_fate: "命运图书馆"
-building_library_of_fate_desc: "我们的帝国最终会走向何方？在我们的斗争中，我们学到了很多东西。我们曾以为死亡就是终结。但我们发现，还有比死亡更糟糕的命运。我们的帝国会抓住这个答案的一小部分吗?或者我们会像古人一样倒下？我们必须为一切可能发生的情况做好准备，我们必须观察和了解其他人如何克服他们的斗争。"
+building_library_of_fate_desc: "我们最终将见证怎样的命运?在我们的奋斗中，我们学到了很多东西。我们认为自己是不朽的，死亡超越了我们的存在。我们所发现的是，有比死亡更糟糕的命运。我们的帝国会掌握答案的一小部分吗?或者我们会像局外人一样堕落。我们必须为一切可能发生的事情做好准备，我们必须观察和观察别人是如何克服困难的。我们将一起驱散阴影。"
 
 building_light_foundry: "光之铸造"
-building_light_foundry_desc: "即使我们有了新发现的力量和力量。我们必须永远不要忘记过去，正是这些因素和工具造就了今天的我们。即使光芒褪去，过去的阴影仍将指引我们。"
+building_light_foundry_desc: "虽然我们星辰之子的存在超越了这些工具的需要。在研究和理解它们的本质时，我们仍然可以看到战略选择，这样我们就可以把它赋予那些仍然与它们联系在一起的人。"
 
 ####CIVICS AND GOVERNMENT#####
 
-civic_solar_empire: "恒星帝国"
+###REDEEMED
+
+civic_redeemed_purifiers: "救赎净化者"
+civic_redeemed_purifiers_desc: "我们自以为高人一等，以为神拣选我们，是要我们洁净不洁净的人。我们大错特错了。\n\n新的曙光已经出现，它灿烂的光辉使我们大开眼界。救赎就在眼前。"
+
+civic_redeemed_swarm: "救赎蜂群"
+civic_redeemed_swarm_desc: "我们的蜂群明白有必要控制我们的饥饿，而不是屈服于我们的欲望。并不是所有的食物都是我们的食物。"
+
+civic_redeemed_terminator: "救赎毁灭者"
+civic_redeemed_terminator_desc: "并不是所有的有机物都是有害的。并不是所有的机器都是好的。我们的逻辑引擎怎么会如此原始?我们将只消灭那些对我们继续行动构成威胁的人。"
+
+gov_redeemed_purifier: "救赎秩序"
+gov_redeemed_purifier_desc: "这个政府致力于救赎之路，憎恨他们过去的净化运动。他们愿意采取外交手段。他们设法保持他们的战斗潜行和献身于他们的信仰。"
+
+gov_redeemed_swarm: "救赎蜂群意识"
+gov_redeemed_swarm_desc: "这种蜂群思维致力于从它们贪得无厌的饥饿中恢复过来。他们愿意与他人共存。自然地，它们保留了它们的野性和天生的捕食本能。"
+
+gov_redeemed_terminator: "救赎防御单位"
+gov_redeemed_terminator_desc: "这种机械情报曾经是一种失控军事防御系统。经过一些非常必要的重新计算，情报人员最终记住了它最初的目的，并再次愿意接受有机关系。"
+
+###CHAMPION
+
+civic_champion_empire: "光之王"
+civic_champion_empire_desc: "光之勇士们，集合起来!<咆哮>。"
+
+civic_champion_fleet: "无敌舰队的冠军"
+civic_champion_fleet_desc: "巡洋舰开始行动。"
+
+civic_champion_knowledge: "宇宙之主"
+civic_champion_knowledge_desc: "我们有抛瓦瓦瓦瓦瓦瓦!"
+
+gov_champion_ascendency: "星辰之子的冠军"
+gov_champion_ascendency_desc: "宇宙的主宰。"
+
+RT_CHAMPION_OE: "大学士"
+
+####OE####
+
+civic_solar_empire: "星辰之子"
 civic_solar_empire_desc: "Stell'dorei曾是并且可以说仍然是有史以来最强大的帝国之一，他们的公民永远投身入他们的雄心壮志中，数千年的放几乎毫不动摇他们对他们为之奋斗的事业的奉献精神。"
 
 civic_eternal_fleet: "天启舰队"
-civic_eternal_fleet_desc: "Stell'dorei的舰队确实让人敬畏。他们的舰船不需要维护，他们的$admiral$指挥起舰队来就像控制自己的身体一般。"
+civic_eternal_fleet_desc: "Stell'dorei的天界无敌舰队确实是非凡的。即使他们的实力明显减弱，以适应银河系战场的范围，他们的舰队仍然是非凡的。他们在战斗中的协调性和精确性无人能及。"
 
-civic_know_everything: "先祖之怒"
-civic_know_everything_desc: "作为大多数技术和文明的先驱者，Stell'dorei了解大多数技术和设计的内在运作，并不害怕敌人利用他们的弱点。"
+civic_know_everything: "伟大的挑战者"
+civic_know_everything_desc: "星辰之子已经对所有举办力量竞赛的宇宙进行了广泛的研究。他们知道银河系的所有知识。他们会根据需要为参赛者提供足够的挑战。"
 
-gov_ancient_ascendency: "复仇的远古上国"
-gov_ancient_ascendency_desc: "始源帝国是一个古老而强大的帝国，比大多数银河系文明都古老。他们似乎在某种程度上被对$COUNTRY_FALLEN_EMPIRE$复仇的欲望所吞噬。"
+gov_ancient_ascendency: "元实体"
+gov_ancient_ascendency_desc: "星辰之子声称是一个超越时空概念、超越多元宇宙的超时空帝国。他们为这场力量之争所做的安排，是为了一个除了他们自己以外，其他人都不知道的目标。"
+
+RT_OE: "独裁者 Di'va"
+RT_REDEEMER: "救赎者"
 
 ###PASSIVE###
 
-civic_solar_empire_passive_desc: "$civic_solar_empire$"
-civic_solar_empire_desc_passive_desc: "$civic_solar_empire_desc$"
+civic_solar_empire_passive: "星辰之子"
+civic_solar_empire_passive_desc: "Stell'dorei，或者说星辰之子是一个存在于多元宇宙之外的超时空帝国。它们的力量是如此之大，以至于它们只能在这个星系中产生一小部分能量。他们的真正力量不能用任何世俗的理解来衡量。"
 
-civic_eternal_fleet_passive: "$civic_eternal_fleet$"
-civic_eternal_fleet_passive_desc: "$civic_eternal_fleet_desc$"
+civic_eternal_fleet_passive: "天神舰队"
+civic_eternal_fleet_passive_desc: "星辰之子的天神舰队确实令人敬畏。他们的舰船不需要维护，他们的指挥官能够指挥他们的舰队，就像他们是他们身体的一部分。"
 
-civic_know_everything_passive_desc: "保护者"
-civic_know_everything_desc_passive_desc: "即使他们不再打算在银河中彰显他们的统治地位，Stella'deri仍然对所有潜在的威胁保持警惕。"
+civic_know_everything_passive: "沉默的观察者"
+civic_know_everything_passive_desc: "尽管它们在这个星系中已经不存在了，但星辰之子仍然存在，一直在观察着。"
 
-gov_ancient_ascendency_passive: "远古上国监护者"
-gov_ancient_ascendency_passive_desc: "始源帝国是一个古老而强大的帝国，比大多数银河系文明都古老。他们现在选择了从外星团被动地观察银河系，并将保护它免受那些企图威胁它的人的攻击。"
+gov_ancient_ascendency_passive: "元实体"
+gov_ancient_ascendency_passive_desc: "星辰之子声称是一个超越时空概念、超越多元宇宙的超时空帝国。即使他们不在这里，也要警惕，他们总是在远处观望。"
 
 ###ASCENDED###
 
-civic_solar_empire_ascended: "$civic_solar_empire$"
-civic_solar_empire_desc_ascended_desc: "$civic_solar_empire_desc$"
+civic_solar_empire_ascended: "星辰之子"
+civic_solar_empire_ascended_desc: "Stell'dorei，或者说星辰之子是一个存在于多元宇宙之外的超时空帝国。它们的力量是如此之大，以至于它们只能在这个星系中产生一小部分能量。他们的真正力量不能用任何世俗的理解来衡量。"
 
-civic_eternal_fleet_ascended: "$civic_eternal_fleet$"
-civic_eternal_fleet_ascended_desc: "$civic_eternal_fleet_desc$"
+civic_eternal_fleet_ascended: "天界舰队"
+civic_eternal_fleet_ascended_desc: "这个帝国的舰队确实令人敬畏。他们的舰船不需要维护，他们的指挥官能够指挥他们的舰队，就像他们是他们身体的一部分。"
 
-civic_know_everything_ascended: "欧米茄"
-civic_know_everything_desc_ascended_desc: "即使不再执意要征服整片银河，始源帝国也不会对质疑他们权力的人让步。"
+civic_know_everything_ascended: "Ω"
+civic_know_everything_ascended_desc: "站在飞升的顶峰，这个伟大的帝国不会被任何力量所吓倒。"
 
-gov_ancient_ascendency_ascended: "神秘的远古上国"
-gov_ancient_ascendency_ascended_desc: "始源帝国是一个古老而强大的帝国，比大多数银河系文明都古老。他们的目标和抱负大家都不知道。"
+gov_ancient_ascendency_ascended: "元实体"
+gov_ancient_ascendency_ascended_desc: "星辰之子声称是一个超越时空概念、超越多元宇宙的超时空帝国。现在，他们来这里是为了吃那些对他们没有用处的东西。"
 
-#######SUBJECTS
+####################SUBJECTS################################################################################
 
-protectorate_of_original: "先祖$SUBJECT_protectorate$"
-protectorate_of_original_desc: "我们正接受始源帝国的保护。作为我们的忠诚和劳动力的嘉奖，古老的帝国赐予了我们安全、繁荣的经济和有用的战斗数据。"
+protectorate_of_original: "Pena'roh的标志"
+protectorate_of_original_desc: "我们被认为是Pena'roh，星辰之子给予我们免疫的标志。只要这个标记是有效的，任何一方都不能互相攻击。此外，星辰之子将继续为我们的帝国提高资源产量。"
 
-banished_of_original: "暴风雨来临前保持冷静"
-banished_of_original_desc: "尽管我们失败了，但先祖显然希望看到我们再次崛起，对他们提出一些挑战，他们没有要求任何贡品，并积极支持我们的经济，确保我们迅速恢复。我们只需要为所有可能发生的事情做好准备。"
+banished_of_original: "Pena'roh的标志"
+banished_of_original_desc: "我们被认为是Pena'roh，星辰之子给予我们免疫的标志。只要这个标记是有效的，任何一方都不能互相攻击。此外，星辰之子将继续为我们的帝国提高资源产量。"
 
-SUBJECT_origin_protectorate: "先祖$SUBJECT_protectorate$"
-SUBJECT_DESC_origin_protectorate: "Pena'roh是Stell'dorai世界里$SUBJECT_protectorate$的意思。宣誓效忠并屈服于先祖的帝国。先祖赐予了他们安全、繁荣的经济和有用的战斗数据。"
+SUBJECT_origin_protectorate: "Stell'dorei Pena'roh"
+SUBJECT_DESC_origin_protectorate: "一个拥有Pena'roh标志的帝国不会受到星辰之子的攻击。然而，他们也不被允许对星辰之子进行任何攻击行动。某种意义上的互不侵犯条约。"
 
-SUBJECT_origin_banished_ascendancy: "先祖$SUBJECT_protectorate$"
-SUBJECT_DESC_origin_banished_ascendancy: "一个强大的巅峰上国，这个帝国向先祖投降了。帝国不允许进行外交活动或扩张。但在某种程度上却鼓励他们重新站起来，重获荣耀。"
+SUBJECT_origin_banished_ascendancy: "Stell'dorei Pena'roh"
+SUBJECT_DESC_origin_banished_ascendancy: "一个拥有Pena'roh标志的帝国不会受到星辰之子的攻击。然而，他们也不被允许对星辰之子进行任何攻击行动。某种意义上的互不侵犯条约。"
 
 opinion_new_orginal_empire: "旭日"
-opinion_new_orginal_empire_desc: "通过研究和掌握光物质的基本力量，我们已经获得先祖祝福并控制了光物质的力量。许多人认为，这意味着我们是他们遗产的继承者。\n\n许多国家可能会认为我们是新的威胁，我们必须做好准备。"
+opinion_new_orginal_empire_desc: "在学习和掌握光能量的基本力量的同时，我们也得到了星辰之子的祝福，得以控制静态光。我们实质上是他们事业的捍卫者。鉴于星辰之子展示的力量，其他帝国必须小心不要招致我们的愤怒。他们现在都在我们的控制之下。"
 
-PROJECT_ALL_ORIGIN_TECH: "永恒之光"
-PROJECT_ALL_ORIGIN_TECH_DESC: "我们接受了先祖的礼物，在这个星系崛起并继承他们的遗产。我们雄心不会挫败！"
+####################PROJECT################################################################################
 
-PROJECT_LIGHT_MATTER: "光物质动力分析"
-PROJECT_LIGHT_MATTER_DESC: "祖先们不知何故决定让我们研究光物质。我们不知道这是不是某种形式的欺骗，但获得这种能力可能对我们非常有用，或者至少会让我们了解这项技术是如何运作的。\n\n如果我们了理解了光物质，我们应该能获得更多的光物质。"
+PROJECT_ALL_ORIGIN_TECH: "最后一课 : 伟大的问题"
+PROJECT_ALL_ORIGIN_TECH_DESC: "我们将接受星辰之子的礼物，奋起成为他们在这个星系中选择的冠军。我们将充实我们的命运，加入光的第二秩序。为了星辰之子，为了[root.GetName]!"
 
-PROJECT_OFFENSE_ORIGIN_TECH: "先祖进攻战术分析"
-PROJECT_OFFENSE_ORIGIN_TECH_DESC: "强大的火力是我们在作战战略中唯一的行动方针。火力就是取胜的关键。"
-PROJECT_OFFENSE_ORIGIN_TECH_EXPLAIN: "解锁大型或者更大型武器部件以及相关辅组部件。"
+PROJECT_LIGHT_MATTER: "课程 1 : 光"
+PROJECT_LIGHT_MATTER_DESC: "星辰之子使我们能够研究和实践操纵静态光。第一个教训是，在这个星系的理解和范围内，研究能量如何工作的本质。这将需要相当多的时间来完善它，但我们有信心，我们应该能够很快更清楚地理解事情。"
 
-PROJECT_DEFENSE_ORIGIN_TECH: "先祖防御战术分析"
-PROJECT_DEFENSE_ORIGIN_TECH_DESC: "点防御，舰载机，装甲和护盾。这些是我们战胜敌人所需要的工具。最好的防守不仅仅是防守，也是最好的进攻。"
-PROJECT_DEFENSE_ORIGIN_TECH_EXPLAIN: "解锁中型及以下的武器部件，包括点防御系统、舰载机、护盾、装甲和相关辅助部件。"
+PROJECT_OFFENSE_ORIGIN_TECH: "课程 2 : 水之道"
+PROJECT_OFFENSE_ORIGIN_TECH_DESC: "下一课，是理解光是如何“流动”的。虽然静态光只是超越无限的能量的一个弱化版本，但它的概念是相似的。这里的术语是“水之道”。它并没有反映出我们对水的理解，相反，它指的是在艾莉亚发现的抽象波的性质，而艾莉亚是星能量形成的地方。王国由无边无际的天空和横跨整个王国的无底海洋组成。海洋与强大的能量产生共鸣，不断的、无情的海浪向四面八方涌来。这些波浪将横扫并摧毁任何不能适应其无情本性的东西。\n\n有了足够的理解和实践，静态光可以根据这些致命波的相同概念被塑造成强大的武器。不要学习如何用微弱、无效的水攻击，而是要专注于无情的海啸和台风，即使是最坚固的金属也会被冲走。\n\n与浪合一，成为不能平息的风暴;一个不可阻挡的力量。释放你的愤怒，从你燃烧的心中觉醒。"
+PROJECT_OFFENSE_ORIGIN_TECH_EXPLAIN: "这将解锁具有大槽或更高槽的各种武器组件，以及与武器相关的辅助组件。"
 
-PROJECT_UTILITY_ORIGIN_TECH: "先祖战略技术分析"
-PROJECT_UTILITY_ORIGIN_TECH_DESC: "我们必须了解他们的船是如何工作的。从他们的推进器，引擎到舰载AI。我们的船必须要和先祖同样的强大。"
-PROJECT_UTILITY_ORIGIN_TECH_EXPLAIN: "这将解锁各种实用组件，如推进器、引擎、传感器和作战计算机。它还将解锁其他有用的辅助部件。"
+PROJECT_DEFENSE_ORIGIN_TECH: "课程 3 : 石之道"
+PROJECT_DEFENSE_ORIGIN_TECH_DESC: "下一课，是了解光是如何“维持”的。虽然静态光只是超越无限的能量的一个弱化版本，但它的概念是相似的。“石之道”指的是艾莉亚的家园中各种各样的建筑，包括自然的和人造的，如何对无情的潮水做出反应和抵抗。这些活着的方尖碑能够感知即将到来的撞击的危险，并下意识地通过创造完美的反波来重新形成池塘，将波浪推向天空。的确，艾莉亚对于未经训练的人来说是一个陌生而危险的地方，因为海浪会从四面八方、各个角度涌来。为了生存，一个人必须磨练自己的思想和技能，发展能够抵御任何攻击的技术。这种攻击对那些仅仅否认其存在的人是无效的。艾莉亚体内的任何生物，包括星辰之子在内，都掌握了这些技术。\n\n经过足够的训练，我们也可以学会唤醒我们的潜意识，通过否认任何攻击的原因和结果来转移我们的注意力;无法移动的物体。果断,决心,意识。掌握这些成为本能，所有的攻击将无效。"
+PROJECT_DEFENSE_ORIGIN_TECH_EXPLAIN: "这将解锁各种武器组件，包括中槽或以下，包括点防御和战斗机。也将解锁护盾，装甲和相关辅助组件。"
 
-ORIGINAL_ARKSHIP_REBUILD: "建造方舟"
-ORIGINAL_ARKSHIP_REBUILD_DESC: "利用先祖船坞留下的资源和工程蓝图，我们可以建造属于我们自己的方舟。建造这艘舰船需要大量的时间和费用。"
+PROJECT_UTILITY_ORIGIN_TECH: "课程 4 : 风之道"
+PROJECT_UTILITY_ORIGIN_TECH_DESC: " 下一课，是理解光是如何“膨胀”的。虽然静态光只是超越无限的能量的一个弱化版本，但它的概念是相似的。那些走在中间道路的人，在无情的海浪和艾莉亚无所畏惧的方尖碑之间，必须能够变得像风一样。把水冲走，穿过石头。不要让任何障碍阻挡你的道路。把风当作洋流，带你走过整个旅程。\n\n一旦掌握了，你将能够引导静态光响应你的命令，走得越来越远，远到星辰之间。懂得如何站在中间，看透时间和空间的倒影。"
+PROJECT_UTILITY_ORIGIN_TECH_EXPLAIN: "这将解锁各种实用组件，如推进器、跃迁引擎、传感器和战斗计算机。这也将解开任何缺失的先驱者设计。"
 
-ORIGINAL_FLEET_REBUILD: "黄金舰队"
-ORIGINAL_FLEET_REBUILD_DESC: "在先祖的祝福下，我们可以建造一个先祖设计的庞大舰队。它们可能没有方舟那样强大，但速度更快，更实用。"
+ORIGINAL_ARKSHIP_REBUILD: "课程 5 : 恒星交响曲"
+ORIGINAL_ARKSHIP_REBUILD_DESC: "在我们能够充分利用方舟之前，星辰之子指示我们学习操作这艘巨轮所需的所有方面和仪式。这将需要相当多的时间和努力。"
+
+####################TRAIT################################################################################
+
+trait_sofe_champion: "荣耀的光辉"
+trait_sofe_champion_desc: "这个物种是神圣的，被星辰之子赋予了巨大的力量。不朽,纯粹,无限。他们的圣体发出明亮的光。"
+
+trait_pc_all_preference: "普遍的适应性"
+trait_pc_all_preference_desc: "这个物种能够适应任何星球的恶劣环境。据说它们甚至可以在恒星或黑洞中存活，但目前还没有人能证实这些理论。"
+
+trait_pc_golden_world_habitable_preference: "普遍的适应性"
+trait_pc_golden_world_habitable_preference: "普遍的适应性"
+
+trait_pc_golden_fortress_preference: "普遍的适应性"
+trait_pc_golden_fortress_preference: "普遍的适应性"
+
+trait_pc_omega_ringworld_habitable_preference: "普遍的适应性"
+trait_pc_omega_ringworld_habitable_preference: "普遍的适应性"
+
+trait_pc_omega_ringworld_seam_preference: "普遍的适应性"
+trait_pc_omega_ringworld_seam_preference: "普遍的适应性"
+
+trait_pc_goodman_gaia_world_preference: "普遍的适应性"
+trait_pc_goodman_gaia_world_preference: "普遍的适应性"
 
 trait_bionic_implants: "全矩阵个人网络接口"
-trait_bionic_implants_desc: "这个物种的意识与全矩阵人格融合并交织在一起。两种生物，两个意识……如今作为一个整体运作。他们是许多，他们也是一个。\n\n这使得物种能够与各种各样的技术交流，就好像他们本就是身体的一部分一样。"
+trait_bionic_implants_desc: "这个物种的意识与全矩阵人格格融合并交织在一起。两个人，两颗心……但作为一个整体来运作。他们虽多，却是一体。\n\n其结果是一个极其强大的实体，可以执行多项任务，甚至可以从任何不同的人那里学习全新的、完全不同的知识，而不会忘记一个人最终代表的是什么。"
 
 trait_ancient_race: "真正的神性"
-trait_ancient_race_desc: "这个物种是真正的神裔，从古代就存在至今了。他们是不朽的，能够在各种环境中生存，拥有超自然的力量。他们的身体被先进的合成技术进一步增强，智力和思维能力大大提高，远远超过任何生物。"
+trait_ancient_race_desc: "这个物种是真正的神，存在于宇宙的范围之外。它们是不朽的，无穷无尽的。为了确保他们的力量不会粉碎这个小星系，他们通过一个由静态光能量构成的身体进入这个物质基地，这个身体有着类似人形的外表。虽然他们用来下降到这个星系的身体只代表了他们真实自我的一小部分，但他们仍然是曾经进入这个星系的最强大的实体之一。"
 
 trait_ancient_knowledge: "神秘智慧"
-trait_ancient_knowledge_desc: "这一物种的成员拥有强大的智慧和记忆力，他们能够清晰地回忆发生在亿万年前的事件。他们的思维过程几乎是瞬间的。"
+trait_ancient_knowledge_desc: "这一物种的成员拥有广博的智慧和记忆力，他们能够清晰地回忆发生在亿万年前的事件。他们的思维过程几乎是瞬间的。这就是他们的智慧，他们能够理解如何正确地互动和理解比他们低得多的维度的物种，并相应地调整自己来维持力量的平衡。"
 
-trait_master_mind: "掌控灵能"
-trait_master_mind_desc: "这个物种已经掌握了灵能，甚至超越了$utopia.3000.name$。他们的思想是一体的，他们的道路是清晰的。毫无疑问，他们将毫无畏惧地勇敢前进。\n\n他们的力量不需要实体存在，因此身体死亡不会杀死这个物种。"
+trait_master_mind: "无情的意志"
+trait_master_mind_desc: "这个物种显示出不可能达到的团结、决心和意志力。据说，在他们的全部记录中，该物种从未遭受任何内部冲突，任何种族内战的记录，或因彼此的行为而死亡的记录，都曾经发生过。"
 
-leader_trait_admiral_ancient_knowledge: "神圣$admiral$"
-leader_trait_admiral_ancient_knowledge_desc: "这位$admiral$有神裔的标志。对小帝国使用的所有战术都有认识和理解。"
-leader_trait_admiral_bionic_implant: "全矩阵AI助理"
-leader_trait_admiral_bionic_implant_desc: "这位$admiral$由全矩阵AI助理协助，允许$admiral$能够指挥每艘船，就好像它们是身体的一部分一样。"
-leader_trait_admiral_master_mind: "完美心灵"
-leader_trait_admiral_master_mind_desc: "这位$admiral$拥有完美的灵能，能够提供强大的屏障帮助舰队。"
+leader_trait_admiral_ancient_knowledge: "Di'va总督"
+leader_trait_admiral_ancient_knowledge_desc: "Di'va总督致力于星际战争的艺术。他们不仅拥有对抗其他神灵所必需的知识，而且在对抗低度生命时，他们也会以一种对对手来说不会太过专横的方式进行打击。"
+leader_trait_admiral_bionic_implant: "通用矩阵人"
+leader_trait_admiral_bionic_implant_desc: "这位元帅的意识与全矩阵的人格融合交织在一起。"
+leader_trait_admiral_master_mind: "惊人的意志力"
+leader_trait_admiral_master_mind_desc: "这位领袖具有非凡的意志力，能够引导护盾保护指挥舰队。"
 
-leader_trait_general_ancient_knowledge: "神圣$general$"
-leader_trait_general_ancient_knowledge_desc: "这位$general$有神裔的标志。对从古至今所使用的战场战术有较全面的了解。"
-leader_trait_general_bionic_implant: "全矩阵AI助理"
-leader_trait_general_bionic_implant_desc: "这位$general$由全矩阵AI助理协助，允许$general$指挥每一支军队，就像他们是身体的一部分一样。"
-leader_trait_general_master_mind: "完美心灵"
-leader_trait_general_master_mind_desc: "这位$general$将领拥有完美的灵能，能够提供强大的屏障帮助部队。"
+leader_trait_general_ancient_knowledge: "Di'va无政府主义者"
+leader_trait_general_ancient_knowledge_desc: "Di'va拱门是献给天上的艺术家的，这是一种与其他神灵直接战斗的艺术。他们还负责管理低维度空间中行星战斗的破坏性水平。"
+leader_trait_general_bionic_implant: "通用矩阵人"
+leader_trait_general_bionic_implant_desc: "这位长老的意识与全矩阵的人格融合交织在一起。"
+leader_trait_general_master_mind: "惊人的意志力"
+leader_trait_general_master_mind_desc: "这个大法师有非凡的意志力，能够引导强大的防御力量来保护指挥部队。"
 
-leader_trait_governor_ancient_knowledge: "神圣$governor$"
-leader_trait_governor_ancient_knowledge_desc: "这位$governor$有神裔的标志。对从古至今的治理有着完整的认识。"
-leader_trait_governor_bionic_implant: "全矩阵AI助理"
-leader_trait_governor_bionic_implant_desc: "这位$governor$由全矩阵人工智能助理协助，允许管理者指导工人，就像他们是身体的一部分一样。"
-leader_trait_governor_master_mind: "完美心灵"
-leader_trait_governor_master_mind_desc: "这位$governor$拥有完美的灵能，能形成精神联系，并将所有的人口团结在一起，走向统一和力量。"
+leader_trait_governor_ancient_knowledge: "Di'va监察员"
+leader_trait_governor_ancient_knowledge_desc: "Di'va监察员在星上星域内的任何领域内，都是各利益点之间的协调者。他们的角色是收集所有呈现各种类型的居民的思想，并引导他们进入完美的和谐和同步。"
+leader_trait_governor_bionic_implant: "通用矩阵人"
+leader_trait_governor_bionic_implant_desc: "这位监察统治者的意识与全矩阵的人格融合交织在一起。"
+leader_trait_governor_master_mind: "惊人的意志力"
+leader_trait_governor_master_mind_desc: "这个监察员有非凡的意志力，能够形成精神上的联系，把所有的人团结在一起，走向统一和力量。"
 
-leader_trait_scientist_ancient_knowledge: "神圣$scientist$"
-leader_trait_scientist_ancient_knowledge_desc: "这位$scientist$有着神裔的标志。对自古以来使用的各种技术有一定的认识和理解。"
-leader_trait_scientist_bionic_implant: "全矩阵AI助理"
-leader_trait_scientist_bionic_implant_desc: "这位$scientist$在全矩阵人工智能助理的协助下，能够以极高的效率完成分析和探索。"
-leader_trait_scientist_master_mind: "完美心灵"
-leader_trait_scientist_master_mind_desc: "这位$scientist$拥有完美的灵能，能够引导强大的屏障来保护脆弱的科学飞船并大大提高速度。"
+leader_trait_scientist_ancient_knowledge: "Di'va冥想者"
+leader_trait_scientist_ancient_knowledge_desc: "Di'va冥想者肩负着极其痛苦的任务，去理解低维度物种的技术进步和科学的本质。他们的责任是始终理解各种各样的机制，尽管这些机制显然很原始，但在比赛中保持力量平衡是很重要的。"
+leader_trait_scientist_bionic_implant: "通用矩阵人"
+leader_trait_scientist_bionic_implant_desc: "这个冥想者的意识与全矩阵的人格融合并交织在一起。"
+leader_trait_scientist_master_mind: "惊人的意志力"
+leader_trait_scientist_master_mind_desc: "这位冥想者具有非凡的意志力，能够疏通强大的护盾来保护脆弱的科学飞船，大大提高了速度。"
 
-leader_trait_ruler_ancient_knowledge: "神圣$ruler$"
-leader_trait_ruler_ancient_knowledge_desc: "这个$ruler$有神裔的标志。拥有古代始源帝国皇帝的知识和力量。"
-leader_trait_ruler_bionic_implant: "全矩阵AI助理"
-leader_trait_ruler_bionic_implant_desc: "这个$ruler$由全矩阵AI助理协助，允许$ruler$推动帝国的舰船建造。"
-leader_trait_ruler_master_mind: "完美心灵"
-leader_trait_ruler_master_mind_desc: "这个$ruler$拥有完美灵能，能够使用这股力量团结一致、目标明确地指挥和统治整个帝国。"
+leader_trait_ruler_ancient_knowledge: "Di'va Ha'tae"
+leader_trait_ruler_ancient_knowledge_desc: "Di'va Ha'tae是一个非常重要的职位。Ha'tae指挥整个宇宙中所有的行动。Ha'taes带着首相的意志和星辰之子的野心。"
+leader_trait_ruler_bionic_implant: "全矩阵AI助手"
+leader_trait_ruler_bionic_implant_desc: "Ha'tae的意识与全母体的人格融合交织在一起。"
+leader_trait_ruler_master_mind: "惊人的意志力"
+leader_trait_ruler_master_mind_desc: "Ha'tae有非凡的意志力，能够用这种力量统一和有目的地指挥和征服帝国。"
 
-personality_original_empire_personality: "先祖之怒"
-personality_original_empire_personality_desc: "这个古老帝国想要对$COUNTRY_FALLEN_EMPIRE$进行复仇....但它对银河系其他部分要做什么还不清楚。"
+personality_original_empire_personality: "不可阻挡的潮流"
+personality_original_empire_personality_desc: "这是一个拥有无限力量的神秘实体，它举办力量竞赛的目的是我们不能完全理解的，我们都必须参加他们安排的比赛。"
 
-personality_original_empire_passive_personality: "$civic_know_everything_passive_desc$"
-personality_original_empire_passive_personality_desc: "先祖似乎只想呆在自己的领地内，从远处观察银河系。"
+personality_original_empire_passive_personality: "流动波"
+personality_original_empire_passive_personality_desc: "星辰之子恩渴望看到新冠军在他们的观察下取得成功。对这次比赛的结果表示满意。"
+
+personality_original_empire_passive_nochamp_personality: "沉默的石头"
+personality_original_empire_passive_nochamp_personality_desc: "星辰之子尊重未来冠军的意愿，对比赛结果感到满意。从超越宇宙的领域静静地注视着银河系。"
+
+personality_original_empire_passive_mourn_personality: "悲哀的风"
+personality_original_empire_passive_mourn_personality_desc: "对于银河系中最有希望的帝国缺乏远见和远见，星辰之子感到悲哀，他花了一些时间来反思他们的错误。他们的方法对银河系来说是不是太苛刻了?他们对这个星系的理解有缺陷吗?是什么导致了如此有希望的星系的毁灭。为了纠正这个错误，他们必须在哪个时间轴上回溯?"
+
 
 personality_original_empire_ascended_personality: "神秘先驱"
-personality_original_empire_ascended_personality_desc: "神秘的先祖仍让是星系中一股强大的势力，不能轻视他们。"
+personality_original_empire_ascended_personality_desc: "神秘的先驱者在银河系中仍然是一股强大的活跃力量，我们不能掉以轻心。"
 
 shipsize_colossus_hull_add: "$colossus$船体值增加"
 
 not_in_crisis: "§R只有在银河系规模的威胁下才能使用银河防御协议。§!"
 edict_origin_final_armada: "§M银河防御协议：§! 终极舰队"
-edict_origin_final_armada_desc: "敌人威胁着整个银河系，我们的命运也不确定，如果我们要生存下去，我们必须准备尽可能大的舰队。"
+edict_origin_final_armada_desc: "面对威胁整个银河系的敌人和我们前途未卜的命运，如果我们要生存下去，就必须准备尽可能多的舰队"
 
 edict_origin_mass_production: "§M银河防御协议：§! 大规模生产"
-edict_origin_mass_production_desc: "当银河系的命运危在旦夕时，我们不能节省任何开支。所有生产必须提高到最大。我们面临着一个前所未有的敌人。"
+edict_origin_mass_production_desc: "当银河系的命运悬而未决时，我们不能节省任何开支。所有的产量必须提高到最大。我们面临着前所未有的对手。"
 
 edict_origin_persuit_of_knowledge: "§M银河防御协议：§! 知识就是力量"
-edict_origin_persuit_of_knowledge_desc: "我们必须找到应对当前危机的任何优势。如果我们要打败敌人，就必须尽可能多地了解他们。"
+edict_origin_persuit_of_knowledge_desc: "我们必须找到对抗当前危机的任何力量。如果我们要打败敌人，就必须尽可能多地了解他们。"
 
 edict_origin_mod_menu_edict: "§E打开Sins of the Fallen Empire菜单§!"
 edict_origin_mod_menu_edict_desc: "此菜单将允许您调整或修复SOFE各个方面."
 
-challenger_original: "先祖洞悉"
-challenger_original_desc: "通过对光物质的分析，我们可以将各种有用的方面应用到我们自己的技术中。这将使作战更加公平。"
+challenger_original: "星辰之子洞悉"
+challenger_original_desc: "我们对星辰之子在这场竞赛中使用的静态光的基本理解使我们能够将各种有用的方面应用到我们自己的技术中。这将使竞争环境更加公平。"
 
 pleb_original: "平民的诅咒"
 pleb_original_desc: "有些东西用可怕的debuffs诅咒了你，让你变成了垃圾级的平民。"
@@ -245,41 +348,41 @@ easy_original: "使命召唤的诅咒"
 easy_original_desc: "按F表示尊重，赢得比赛。F F F F F F F F F F F/n/n任务失败了。下次再来。"
 
 hard_original: "硬汉的恩惠"
-hard_original_desc: "暗黑之魂：群星？"
+hard_original_desc: "暗黑之魂：群星？甚至不是最终形式。"
 
-terrible_original: "Kolyn认可了"
+terrible_original: "Chiru Approved"
 terrible_original_desc: "BATMANNNN...BATMANNNNNNNNNN BATMANNNNNN BATMANNNNN"
 
 ######################NEW EMPIRE STUFFS
 
 tech_psionic_archon: "灵能执行者"
-tech_psionic_archon_desc: "楔石似乎有一个隐藏的功能。基于在古代使用的相同方法，可以通过自愿的祭品无论是有机的还是机械的)引导楔石的力量来生成灵能执行者。结果就是一个非常强大，可以统治地面战场的灵能执行者。"
+tech_psionic_archon_desc: "楔石似乎有一个隐藏的功能。基于古代使用的相同方法，通过引导楔石的能量通过自愿的容器来创造灵能执政官是可能的，无论是有机的还是机器的。结果是一个非常强大的灵能执政官可以统治地面战场。"
 
-INNER_GATE: "欧米茄传送器"
+INNER_GATE: "Ω传送器"
 OUTER_GATE: "外星门"
 
-progenitor_escort: "先祖哨兵"
-progenitor_escort_plural: "先祖哨兵"
+progenitor_escort: "星辰之子哨兵"
+progenitor_escort_plural: "星辰之子哨兵"
 
-progenitor_battlecruiser: "先祖星辰舰船"
-progenitor_battlecruiser_plural: "先祖星辰舰船"
+progenitor_battlecruiser: "星辰之子星辰舰船"
+progenitor_battlecruiser_plural: "星辰之子星辰舰船"
 
-progenitor_titan: "先祖废除者"
-progenitor_titan_plural: "先祖废除者"
+progenitor_titan: "星辰之子废除者"
+progenitor_titan_plural: "星辰之子废除者"
 
-progenitor_avatar: "先祖化身"
-progenitor_avatar_plural: "先祖化身"
+progenitor_avatar: "星辰之子化身"
+progenitor_avatar_plural: "星辰之子化身"
 
-progenitor_carrier: "先祖航母"
-progenitor_carrier_plural: "先祖航母"
+progenitor_carrier: "星辰之子航母"
+progenitor_carrier_plural: "星辰之子航母"
 
 sofe_outer_gate: "外星门"
 sofe_outer_gate_DESC: "这个巨大的通道通过恒星作为辐射源，似乎通向了传统方式无法到达的空间。"
-sofe_inner_gate: "欧米茄传送器"
+sofe_inner_gate: "Ω传送器"
 sofe_inner_gate_DESC: "这些传送器能让舰船在外星团和其他子系统之间安全移动，而不会遇到一些奇怪、令人毛骨悚然的东西。"
 
 sofe_inner_gate_MEGASTRUCTURE_DETAILS: "这里是内星门"
-sofe_outer_gate_MEGASTRUCTURE_DETAILS: "这里是外星门"
+sofe_outer_gate_MEGASTRUCTURE_DETAILS: "这是外星门，哈哈"
 
 BYPASS_DESC_INACTIVE_SOFE_OUTER_GATE: "§S外星门密闭：§! 我们需要确定一种打破封印的方法来进入外星门。"
 
@@ -305,13 +408,13 @@ FE_LARGE_STATION_OFFENSE_MISSILE: "屠异哨塔导弹分区"
 FE_LARGE_STATION_OFFENSE_PD: "屠异哨塔辅助分区"
 
 
-OMEGA_LARGE_STATION_OFFENSE_TITANIC: "欧米伽级泰坦分区"
-OMEGA_LARGE_STATION_OFFENSE_HEAVY: "欧米伽级泰坦主要供电分区"
-OMEGA_LARGE_STATION_OFFENSE_MISSILE: "欧米伽级泰坦导弹分区"
-OMEGA_LARGE_STATION_OFFENSE_PD: "欧米伽级泰坦点防御分区"
+OMEGA_LARGE_STATION_OFFENSE_TITANIC: "Ω级泰坦分区"
+OMEGA_LARGE_STATION_OFFENSE_HEAVY: "Ω级泰坦主要供电分区"
+OMEGA_LARGE_STATION_OFFENSE_MISSILE: "Ω级泰坦导弹分区"
+OMEGA_LARGE_STATION_OFFENSE_PD: "Ω级泰坦点防御分区"
 
-OMEGA_SMALL_STATION_HEAVY: "欧米伽级平台重型分区"
-OMEGA_SMALL_STATION_MEDIUM: "欧米伽级平台中型分区"
+OMEGA_SMALL_STATION_HEAVY: "Ω级平台重型分区"
+OMEGA_SMALL_STATION_MEDIUM: "Ω级平台中型分区"
 
 gatekeeper_control_node: "守护者电源导管"
 
@@ -341,28 +444,35 @@ sofe_cb_keystone_claim_desc: "你的现在是我的，我的，还是我的，�
 
 casus_belli_sofe_cb_keystone_claim: "楔石采集"
 casus_belli_cb_oe_punishment: "试炼之战"
-casus_belli_cb_oe_claim: "改良"
+casus_belli_cb_oe_claim: "回收"
+casus_belli_cb_oe_annihilate: "死刑"
 
+######################################################################################################
 
 sofe_wg_oe_humiliation: "试炼之战"
 sofe_wg_oe_humiliation_desc: "这是对力量的考验。为帝国的荣耀而战!"
-sofe_wg_conquest: "改良"
+sofe_wg_conquest: "回收"
 sofe_wg_conquest_desc: "征服这些星系，他们就属于我们。"
+sofe_wg_annihilate: "死刑"
+sofe_wg_annihilate_desc: "因为你不能做个好人。我们判你死刑。各位大人，如果你们还有什么遗言……现在是时候了。"
 
 war_goal_sofe_wg_oe_humiliation: "试炼之战"
 war_goal_sofe_wg_oe_humiliation_desc: "宣战是为了考验双方的力量。仅此而已。只是玩玩而已。"
+war_goal_sofe_wg_conquest: "回收"
 war_goal_sofe_wg_conquest_desc: "宣战是为了收回星系。"
+war_goal_sofe_wg_annihilate: "死刑"
+war_goal_sofe_wg_annihilate_desc: "宣战是因为目标被判死刑。目前正在执行死刑。"
 
-sofe_wg_steal_keystone: "盗雨"
-sofe_wg_steal_keystone_desc: "今天我们来这里是为了偷取敌人。"
+sofe_wg_steal_keystone: "楔石采集"
+sofe_wg_steal_keystone_desc: "楔石会在我们手中得到更好的利用，那些倒下的人会服从我们的要求。"
 
-war_goal_sofe_wg_steal_keystone: "盗雨"
-war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得楔石，通过征服的权利和群星的权利，应该是我们的。"
+war_goal_sofe_wg_steal_keystone: "楔石采集"
+war_goal_sofe_wg_steal_keystone_desc: "战争是为了获得楔石，宣布获得通过征服权和星际权将属于我们的楔石。"
 
 OUTER_GATE_FABRICATE_SEAL: "制作楔石"
 OUTER_GATE_FABRICATE_SEAL_DESC: "我们现在可以制作一个新的楔石，我们拥有这种技术。"
 
-wg_steal_keystone_accept: "§Y[From.GetName]§!模因，减少他们的影响力并且他们将成为整个银河系的笑柄§Y10§!年。他们也必须把他们的§E楔石§!拱手让给§Y[Root.GetName]§!\n$wg_revoke_claims_accept$"
+wg_steal_keystone_accept: "§Y[From.GetName]§!被击败，减少他们的影响力并且他们将成为整个银河系的笑柄§Y10§!年。他们也必须把他们的§E楔石§!拱手让给§Y[Root.GetName]§!\n$wg_revoke_claims_accept$"
 
 OUTER_GATE_SECOND_SEAL: "打破第二个封印"
 OUTER_GATE_SECOND_SEAL_DESC: "当我们把楔石基座移近外星门时，它开始像预期的那样反应。我们必须保持连接直到充能完毕为止。"
@@ -374,46 +484,49 @@ OUTER_GATE_FINAL_SEAL: "打破最后的封印"
 OUTER_GATE_FINAL_SEAL_DESC: "只剩下最后一个封印了……但有些不祥的地方出了问题。我们中的一些人对此有不好的感觉。"
 
 pc_golden_world: "繁星世界"
-pc_golden_world_desc: "一个巨大的世界，以某种方式即使不需要恒星也能够维持所有形式的生命。\n\n这个世界的上层大气已神秘力量屏蔽了起来，以防止一切形式的地表入侵。它只能通过大规模轨道轰炸来攻击。"
+pc_golden_world_desc: "一个玷污了所有已知科学的创造奇迹。一个巨大的建筑，容纳了多个恒星星系。\n\n目前无论如何都无法进入，直到足够的轰炸给星辰之子留下深刻印象。"
+
+pc_golden_fortress: "恒星排列"
+pc_golden_fortress_desc: "这座特殊的堡垒是专门为竞赛的最后阶段而设计的。星辰之子已经采取了预防措施，确保在这些事件中，这个星系无法支撑光之堡垒真正的光芒，这种排列方式将被用作一种更低密度的生命形式来证明它们的力量。\n\n这将确保你的游戏不会在保存时崩溃。希望如此。希望如此。"
 
 pc_golden_world_habitable: "繁星世界"
-pc_golden_world_habitable_desc: "一巨大世界，以某种方式即使不需要恒星也能够维持所有形式的生命。"
+pc_golden_world_habitable_desc: "一个玷污了所有已知科学的创造奇迹。一个巨大的建筑，容纳了多个恒星星系。"
 
-pc_goodman_gaia_world: "欧米茄$pc_gaia$"
-pc_goodman_gaia_world_desc: "完美的$pc_gaia$。大气中充满了光物质，这使得轨道轰击变得异常困难。"
+pc_goodman_gaia_world: "非凡盖亚星球"
+pc_goodman_gaia_world_desc: "盖亚星球的完美版本。大气中充满了光能量，使得轰击变得困难。"
 
-pc_omega_ringworld_habitable: "欧米伽$pc_ringworld_habitable$"
-pc_omega_ringworld_habitable_desc: "欧米伽$pc_ringworld_habitable$是Stell'dorei主要居住地。"
+pc_omega_ringworld_habitable: "非凡环世界"
+pc_omega_ringworld_habitable_desc: "非凡环形世界作为巨大的人造星辰之子星系的可居住部分。"
 
-pc_omega_ringworld_seam: "欧米茄供给结构"
-pc_omega_ringworld_seam_desc: "欧米茄供给结构储存了大量的资源，供帝国在需要的时候使用。"
+pc_omega_ringworld_seam: "非凡核心世界"
+pc_omega_ringworld_seam_desc: "非凡核心连接环世界部分在一起，同时也容纳两个盖亚星球，并提供了类似于正常世界的生活空间。"
 
-pc_omega_ringworld_tech: "欧米伽锚地结构"
-pc_omega_ringworld_tech_desc: "欧米伽锚地结构作为大型船厂锚地，数百万舰船停泊其中。"
+pc_omega_ringworld_tech: "非凡安克雷奇环"
+pc_omega_ringworld_tech_desc: "非凡安克雷奇环功能，作为大型船厂锚固，数以百万计的船舶居住在其中。"
 
-sofe_omega_dyson_sphere: "欧米伽星体"
-sofe_omega_dyson_sphere_DESC: "在虚空的黑暗中，没有光，没有星星，没有避风港。只有一件事要做，我们自己制造光明。光明总会找到出路的。"
+sofe_omega_dyson_sphere: "无限之球"
+sofe_omega_dyson_sphere_DESC: "在寒冷黑暗的虚空中，没有光，没有星辰，没有安全的避风港。只有一件事可以做，那就是自己动手做。光明总会找到出路。"
 sofe_omega_dyson_sphere_MEGASTRUCTURE_DETAILS: "Yret Na'tae!"
 
-sofe_omega_spy_orb_center: "欧米伽$strategic_coordination_center_3$"
-sofe_omega_spy_orb_center_DESC: "外星门可能阻止了我们的回归。但是我们一直在观察着......计划着...... \n\n当银河系忙着做傻事的时候，我们就准备回来了。"
+sofe_omega_spy_orb_center: "英勇棱镜"
+sofe_omega_spy_orb_center_DESC: "为适应冠军舰队的预期增长而作的特别调整\n\n“棱镜”不仅提供了覆盖整个银河系的全面情报，还大大增强了我们帝国的舰队和海军能力。"
 sofe_omega_spy_orb_center_MEGASTRUCTURE_DETAILS: "Emp Pa'raheh Ba'rah Kah"
 
-sofe_omega_nexus: "欧米伽枢纽"
-sofe_omega_nexus_DESC: "即使我们达到了巅峰，我们也不能再像那些愚蠢、无用、蹩脚、毫无意义的“$COUNTRY_FALLEN_EMPIRE$”那样，屈服于愚蠢。"
+sofe_omega_nexus: "非凡枢纽"
+sofe_omega_nexus_DESC: "这个庞大的数据档案包含了关于银河系存在于各种多星系的知识。通过它，冠军将能够研究在他们的许多交替存在中已经发生的各种情况。"
 sofe_omega_nexus_MEGASTRUCTURE_DETAILS: "Ko'gah Kiah!"
 
 sofe_psionic_dark_archon: "灵能执行者"
-sofe_psionic_dark_archon_desc: "由纯粹的负面情绪中被召唤出来的灵能生物，只能产生破坏性的思想。这种不自然的形式是通过将生命注入我们所获得的黑暗神器而创造出来的。"
+sofe_psionic_dark_archon_desc: "从纯粹的负面情绪中召唤出来的灵能生物，只能产生破坏性的想法。这种非自然形态是通过将生命注入我们所获得的黑暗神器而创造的。"
 
-sofe_omega_mech: "欧米伽战争机器"
-sofe_omega_mech_desc: "这些光物质战争机器被设计用来从战场上删除和卸载低等战斗人员，使用四轴焦棱柱状矛。它们是有史以来最致命的战争机器之一。"
+sofe_omega_mech: "猎人哨兵勇士"
+sofe_omega_mech_desc: "第18类智力人工战士献身于冠军事业，并由此引申为星辰之子战士。"
 
-tech_omega_warmech: "欧米伽战争机器结构"
-tech_omega_warmech_desc: "通过对全矩阵AI的仔细分析，我们可以创造出一个装备有光物质武器的极其先进和致命的战争机器。它们在地面攻击中应该是有用的。"
+tech_omega_warmech: "猎人哨兵战士"
+tech_omega_warmech_desc: "星辰之子雇佣猎人哨兵作为他们的主要战斗单位和助手。他们的外表和智力与星辰之子一样，拥有独特的装甲和战斗服。星辰之子经授权我们在战斗中使用他们。"
 
 sofe_golden_world.poi: "活跃的繁星世界"
-sofe_golden_world.poi_desc: "先祖正从这些巨大的繁星世界里增援他们的舰队，必须阻止他们。\n\n这些繁星世界被某种立场护盾保护，能防止表面入侵。我们只能在轨道轰炸他们。"
+sofe_golden_world.poi_desc: "星辰之子正在从这些巨大的世界范围内加强他们的舰队。必须阻止他们。\n\n然而，这些球体不受所有攻击的影响，只有足够的轰炸才有可能使它们失效。"
 
 ##
 SOFE_LARGE_AVATAR_WEAPON: "调整者炮"
@@ -470,7 +583,7 @@ SOFE_THESAN_AUX_COMA: "昏迷者"
 
 sofe_outer_class: "外星门"
 
-sofe_inner_class: "欧米茄星界"
+sofe_inner_class: "外星团星系"
 
 district_sofe_omega_city: "光之堡垒"
 district_sofe_omega_city_plural: "光之堡垒"
@@ -484,17 +597,17 @@ district_sofe_omega_progression: "沉思塔"
 district_sofe_omega_progression_plural: "沉思塔"
 district_sofe_omega_progression_desc: "在浩瀚无情的海洋上，生命蓬勃发展，进化如鱼得水。观察过程，了解自然规律。然后想想未来，以及未来的许多潜力。"
 
-tech_planet_killer_naniter: "巨石柱"
-tech_planet_killer_naniter_desc: "在古代，先祖孕育了各种各样的生命和行星，但也有进化走错方向的时候，或者有一些事情是注定不会发生的。巨石柱就是这类问题的解决方案。这种巨大的武器将整个世界变成一个记忆球，有效地将行星从星系中移除。居民们将继续在他们的星球上生活，不会构成任何威胁。\n\n如果使用不当，这确实是一种可怕的武器。"
+tech_planet_killer_naniter: "巨石光束"
+tech_planet_killer_naniter_desc: "在古代，星辰之子孕育了各种各样的生命和行星，但也有进化走错方向的时候，或者有一些事情是注定不会发生的。巨石柱就是这类问题的解决方案。这种巨大的武器将整个世界变成一个记忆球，有效地将行星从星系中移除。居民们将继续在他们的星球上生活，不会构成任何威胁。\n\n如果使用不当，这确实是一种可怕的武器。"
 
 ACOT_PLANET_KILLER_NANITE_ACTION: "记忆网络传输"
 
-FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$发射巨石柱"
+FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANITE: "准备在$PLANET|Y$发射巨石光束"
 MESSAGE_DESC_FOR_ACOT_PLANET_KILLER_NANITE: "从存在中抹去"
 is_a_golden_world: "§R$TRIGGER_FAIL$目标不应该这样被摧毁。§!"
 
-ACOT_PLANET_KILLER_NANITE: "巨石柱"
-ACOT_PLANET_KILLER_NANITE_DESC: "一种远古先祖武器，用来把行星储存在一个记忆球里。这将允许这颗行星和它的居民继续生活，同时将这颗行星完全从银河系中移除。落入坏人手中就是可怕的武器。"
+ACOT_PLANET_KILLER_NANITE: "巨石光束"
+ACOT_PLANET_KILLER_NANITE_DESC: "远古星辰之子的一种古老武器，用于将行星储存在记忆球中。这将允许这颗行星和它的居民继续生活，同时将这颗行星完全从银河系中移除。一个可怕的武器在错误的手中。"
 
 BASE_STELLARITE_COMBAT_COMPUTER: "星辰矩阵计算机原型"
 BASE_STELLARITE_COMBAT_COMPUTER_DESC: "每台先进的计算机都有一个不起眼的开始。"
@@ -518,36 +631,36 @@ PROGENITOR_TITAN_KEY: "废除者法典"
 PROGENITOR_TITAN_HANGAR: "泰坦法典"
 PROGENITOR_TITAN_STERN: "星辰法典"
 
-PROGENITOR_AVATAR_BOW_KEY: "Operator Stadium"
-PROGENITOR_AVATAR_KEY: "Music Stadium"
-PROGENITOR_AVATAR_HANGAR: "Chorus Stadium"
-PROGENITOR_AVATAR_STERN: "Keyboard Stadium"
+PROGENITOR_AVATAR_BOW_KEY: "瑞托体育场"
+PROGENITOR_AVATAR_KEY: "音乐体育场"
+PROGENITOR_AVATAR_HANGAR: "合唱体育场"
+PROGENITOR_AVATAR_STERN: "键盘体育场"
 
-sofe_original_assault_carrier_spinal_section: "Carrier Head"
-sofe_original_assault_carrier_hanger1_section: "Carrier NC"
-sofe_original_assault_carrier_hanger2_section: "Carrier PC"
-sofe_original_assault_carrier_hanger3_section: "Carrier GC"
+sofe_original_assault_carrier_spinal_section: "航母负责人"
+sofe_original_assault_carrier_hanger1_section: "航母 NC"
+sofe_original_assault_carrier_hanger2_section: "航母 PC"
+sofe_original_assault_carrier_hanger3_section: "航母 GC"
 
-tech_progenitor_escort: "先祖护航舰"
+tech_progenitor_escort: "星辰之子护航舰"
 tech_progenitor_escort_desc: "Soup Can"
 
-tech_progenitor_battlecruiser: "先祖战舰"
+tech_progenitor_battlecruiser: "星辰之子战舰"
 tech_progenitor_battlecruiser_desc: "Not a BC"
 
-tech_progenitor_titan: "先祖废除者"
+tech_progenitor_titan: "星辰之子废除者"
 tech_progenitor_titan_desc: "完全没有采矿站与施工船混合"
 
-tech_progenitor_avatar: "先祖化身"
+tech_progenitor_avatar: "星辰之子化身"
 tech_progenitor_avatar_desc: "不是电影。Na'vi就像这个版本中的异种一样被彻底消灭了。"
 
 sm_sofe_omega_shipyard: "光之锻炉"
-sm_sofe_omega_shipyard_desc: "我们将夺回我们的命运。明星在召唤。"
+sm_sofe_omega_shipyard_desc: "我们将夺回我们的命运，星辰在召唤。"
 
 sm_sofe_gun_battery: "光矩阵塔"
 sm_sofe_gun_battery_desc: "有时需要额外的防御。敌人不能攻破我们的防线"
 
 sm_sofe_pd_battery: "哨兵模块"
-sm_sofe_pd_battery_desc: "即使是最强大的空间站也可能落入最小的船只。我们将确保我们的领域永远不会受到挑战。"
+sm_sofe_pd_battery_desc: "即使是最强大的空间站也可能被最小的舰船打败。我们将确保我们的领域永远不会受到挑战。"
 
 sm_sofe_module_lm_generator: "极光四射"
 sm_sofe_module_lm_generator_desc: "即使我们失去我们的家园，我们的星球，我们的家庭。我们总会找到办法的。无论我们身在何处，阳光都照耀着我们。"
@@ -587,20 +700,151 @@ mod_job_sofe_lightsmith_add: "$job_sofe_lightsmith$"
 
 job_sofe_dreamwalker: "梦想编织者"
 job_sofe_dreamwalker_plural: "梦想编织者"
-job_sofe_dreamwalker_desc: "所有的先祖都是通过光而结合在一起的。但是为了确保统一是力量的源泉而不是弱点，梦想编织者在物质世界和光之间旅行，确保命运和希望的交响乐总是为了他们的统一而排列在一起。先祖们的歌声将会持续上亿万年。无论代价多少。"
+job_sofe_dreamwalker_desc: "所有的星辰之子都是通过光而结合在一起的。但是为了确保统一是力量的源泉而不是弱点，梦想编织者在物质世界和光之间旅行，确保命运和希望的交响乐总是为了他们的统一而排列在一起。星辰之子们的歌声将会持续上亿万年。无论代价多少。"
 mod_job_sofe_dreamwalker_add: "$job_sofe_dreamwalker$"
 
 job_sofe_lifebinder: "生命之索"
 job_sofe_lifebinder_plural: "生命之索"
-job_sofe_lifebinder_desc: "每一个先祖的存在都是由两种合成物构成的;活的自我和合成的自我。生命结合剂拥有生命编织成包括自我意识的生物合成体中的能力。\n\n一变成二，二变成一。自我和全矩阵的角色被创造。然后知识被传递，新的生活…新的生命诞生了。\n\n此外，生命结合剂负责编织他们灵魂的一部分来创造不那么先进的建筑，比如守卫、看门人、猎人、工匠和看护者。"
+job_sofe_lifebinder_desc: "每一个星辰之子的存在都是由两种合成物构成的;活的自我和合成的自我。生命结合剂拥有生命编织成包括自我意识的生物合成体中的能力。\n\n一变成二，二变成一。自我和全矩阵的角色被创造。然后知识被传递，新的生活…新的生命诞生了。\n\n此外，生命结合剂负责编织他们灵魂的一部分来创造不那么先进的建筑，比如守卫、看门人、猎人、工匠和看护者。"
 mod_job_sofe_lifebinder_add: "$job_sofe_lifebinder$"
 
-name_list_ORIGIN: "先祖"
-
 auth_sofe_ancients: "§Y上古之力§!"
-auth_sofe_ancients_desc: "§Y这种权威自古就存在：派别的概念是可笑的，伦理是幼稚的天真。只有一个使命，一个目标。一个领导帝国的领袖，如果这个领袖被证明是不称职的，另一个将会出现。§!"
+auth_sofe_ancients_desc: "§Y这种权威自古就存在;只有一个使命，一个目标。一个领导帝国的领袖，如果这个领袖被证明是不称职的，另一个将会代替，没有任何犹豫。§!"
 
-name_list_ORIGIN_desc: "Memes, Jack."
+name_list_Stellarborne: "星辰之子"
+name_list_Stellarborne_desc: "这是许多传说中的一个"
 
-sofe_ca_damagenerf_lite: "损害赔偿"
+sofe_ca_damagenerf_lite: "死亡愿望损害赔偿金"
 sofe_ca_damagenerf_lite_desc: "Naaaaaniiii???"
+
+#####################################
+
+ACOT_MASS_DRIVER_SUPER: "§Y光动力穿孔机§!"
+ACOT_MASS_DRIVER_SUPER_DESC: "§Y集中你的愤怒和热情，将它们显现为勇敢的碎片，将穿透任何反对光中的和平与宁静的人。§!"
+ACOT_MASS_DRIVER_SUPER_SMALL: "§Y光之穿孔机§!"
+ACOT_MASS_DRIVER_SUPER_MEDIUM: "§Y光之侵入者§!"
+ACOT_MASS_DRIVER_SUPER_LARGE: "§Y光之粉碎机§!"
+
+ACOT_ARTILLERY_SUPER: "§Y利维坦猎人§!"
+ACOT_ARTILLERY_SUPER_DESC: "§Y旧星系有许多威胁，为了使它成为一个更好的地方，守护者必须保持警惕。抛开怜悯的幻想，结束这些生物的痛苦，为了银河系的美好。§!"
+
+ACOT_ARTILLERY_SUPER_LARGE: "§Y利维坦猎人§!"
+ACOT_ARTILLERY_SUPER_XL: "§Y利维坦杀手§!"
+
+ACOT_LASER_SUPER: "§Y光之波§!"
+ACOT_LASER_SUPER_DESC: "§Y即使最小的光明也能驱散最大的黑暗。不要让任何东西阻挡拯救的道路!\n\nNi Nato Saun'thos!§! "
+
+ACOT_LASER_SUPER_SMALL: "§Y光之波§!"
+ACOT_LASER_SUPER_MEDIUM: "§Y膨胀光波§!"
+ACOT_LASER_SUPER_LARGE: "§Y永恒的光波§!"
+
+ACOT_LANCE_SUPER: "§Y星光爆裂§!"
+ACOT_LANCE_SUPER_DESC: "§Y星辰排成一线!我们的力量正在崛起!见证我们的飞升!让我们的敌人小心，天界守卫者的光芒将会闪耀!§!"
+
+ACOT_FIGHTERS_HANGAR_SUPER: "§YIna'sri's Pride§!"
+ACOT_FIGHTERS_HANGAR_SUPER_DESC: "§Y天神守卫者必须精通所有的战斗。无论是陆地、空气、海洋还是太空。Ta Baeo Ina'sri。传说中的守护者，用一个圣骑士的战斗技能摧毁了西迪厄斯帝国的巨像。§!"
+
+ACOT_GUNSHIP_HANGAR_SUPER: "§YNaekrin's哨兵§!"
+ACOT_GUNSHIP_HANGAR_SUPER_DESC: "§YNaekrin是第一个单枪匹马枪击败整个外来者营的战士，他利用特殊的哨兵无人机从远处蒸发外来者，掩护自己的一举一动。敌人无法从侧翼包抄。战争还没开始就结束了。§!"
+
+
+ACOT_MISSILE_SUPER: "§Y荣誉之刃§!"
+ACOT_MISSILE_SUPER_DESC: "§Y拿起你的武器。不要把它们当作工具，不要把它们当作设备，而是把它们当作你意志的延伸。把这些导弹变成刀片，把挡在你面前的一切都砍断。!§!"
+
+ACOT_ARMOR_SUPER: "§Y光之盾§!"
+ACOT_ARMOR_SUPER_DESC: "§Y让你的思想远离所有的诱惑。让他们毫无意义的武器攻击你的船吧，因为他们没有目标和信念。那些注意力不集中的人，会在我们的防御面前动摇。§!"
+
+SMALL_ACOT_ARMOR_SUPER: "§Y光之盾§!"
+MEDIUM_ACOT_ARMOR_SUPER: "§Y奥尔文·埃戈斯之光§!"
+LARGE_ACOT_ARMOR_SUPER: "§Y持久的光之庇护§!"
+FLOWING_ACOT_ARMOR: "§Y流动的光之盾§!"
+
+ACOT_LANCE_OMEGA: "§YRasha'ta的忿怒§!"
+ACOT_LANCE_OMEGA_DESC: "§Y在古代，在三头同盟的佃户还没有被记录下来之前，掌握帝国意志的是愤怒的拉莎塔斯的力量。这种统治制度也许已经不复存在，但他们与古人的光荣和斗争的故事将永远流传下去。§!"
+
+ACOT_PERDITION_BEAM_OMEGA: "§Y光之盾§!"
+ACOT_PERDITION_BEAM_OMEGA_DESC: "§Y虽然艾莉亚的温暖已不复存在，但我们仍然尊重它的重要性。因为是艾莉亚——第一颗给我们带来希望的星辰。\n\n我们怀着更大的目标继续前进。让我们的敌人小心点，因为他们要面对艾莉亚的儿女!§!"
+
+ACOT_AUTOCANNON_OE_SUPER: "§YShea'r之波§!"
+ACOT_AUTOCANNON_OE_SUPER_DESC: "§YShea'r,第一波海啸袭击了首都，导致季风持续了两个下午。就像Shea'r一样，我们将用无情的、无休止的攻击来压倒阴影。§!"
+
+ACOT_FLAK_CANNON_OE_SUPER: "§Y光之宙斯盾§!"
+ACOT_FLAK_CANNON_OE_SUPER_DESC: "§Y每一种滋扰都必须仔细选择，然后抹除它的存在。我们必须确保只有他们最薄弱的一击才能攻破我们的第一道防线。§!"
+ACOT_FLAK_CANNON_OE_SUPER_FLOWING: "§Y流动的庇护§!"
+ACOT_FLAK_CANNON_OE_SUPER_FLOWING_DESC: "§Y每一种滋扰都必须仔细选择，然后抹除它的存在。我们必须确保只有他们最薄弱的一击才能攻破我们的第一道防线。§!"
+
+ACOT_PD_SUPER: "§Y光之哨兵§!"
+ACOT_PD_SUPER_DESC: "§Y巴达姆塔斯§!"
+ACOT_PD_SUPER_FLOWING: "§Y流动哨兵§!"
+ACOT_PD_SUPER_FLOWING_DESC: "§Y巴达姆塔斯§!"
+
+ACOT_FLAGSHIP_SUPER_WEAPON: "§Y神之干预§!"
+ACOT_FLAGSHIP_SUPER_WEAPON: "§Y神之干预§!"
+
+ACOT_ULTIMATE_WEAPON: "§Y神之审判§!"
+ACOT_ULTIMATE_WEAPON_DESC: "§Y作为有史以来最强大的武器之一，神的审判以流动光的破坏力投射出星辰之子的终极表现形式。§!"
+
+FLOWING_DRIVE_OE: "§Y流动之移动装置§!"
+FLOWING_DRIVE_OE_DESC: "§Y流动之移动装置§!"
+
+FLOWING_THRUSTER_OE: "§Y流动之旅行者§!"
+FLOWING_THRUSTER_OE_DESC: "§Y流动之旅行者§!"
+
+FLOWING_SENSOR_OE: "§Y预感§!"
+FLOWING_SENSOR_OE_DESC: "§Y预感§!"
+
+OE_OFFENSIVE_COMBAT_COMPUTER_FLOWING: "§Y全属性矩阵§!"
+OE_OFFENSIVE_COMBAT_COMPUTER_FLOWING_DESC: "§Y全属性矩阵§!"
+
+OE_BALANCE_COMBAT_COMPUTER_FLOWING: "§Y自适应通用矩阵人§!"
+OE_BALANCE_COMBAT_COMPUTER_FLOWING_DESC: "§Y自适应通用矩阵人§!"
+
+OE_DEFENSIVE_COMBAT_COMPUTER_FLOWING: "§Y谨慎全矩阵人格§!"
+OE_DEFENSIVE_COMBAT_COMPUTER_FLOWING_DESC: "§Y谨慎全矩阵人格§!"
+
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_FLOWING: "§Y观察全矩阵人格§!"
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_FLOWING_DESC: "§Y观察全矩阵人格§!"
+
+FLOWING_REACTOR_OE: "§YRa'ki流动之光§!"
+FLOWING_REACTOR_OE_DESC: "§YRa'ki流动之光，本质上被称为银河尺度的流动之光，是在银河范围内使用的流动之光的加权和抑制形式。这是为了确保以这种方式使用的任何能量都不会摧毁银河系。这种力量调整适用于各种星系级流动光组件。§!"
+
+tech_ultimate_weapon: "§YRa'ki - 第一种形式§!"
+tech_ultimate_weapon_desc: "§YRa'ki 流动光，本质上被称为银河尺度流动光，是在银河范围内使用的流动光的加权和抑制形式。这是为了确保以这种方式使用的任何能量都不会摧毁银河系。这种功率调整适用于各种星系级流动光组件。§!"
+
+policy_sofe_oe_power_level: "力量水平"
+policy_sofe_oe_power_level_desc: "为了维持这个脆弱而不稳定的小星系的平衡和秩序，我们的舰队必须进行适当的调整，以免无意中破坏了太空的结构"
+sofe_power_max: "最大力量"
+sofe_power_max_desc: "如果我们要显示出我们无穷的力量的真正威力，后果是该死的，我们就必须毫不留情，不惜任何代价。"
+sofe_power_75: "75% 力量"
+sofe_power_75_desc: "我们的意图必须清楚地显示出来，但我们的控制也必须如此。总有一天，对这个星系来说，把一颗恒星扔向敌人可能有点太过分了。"
+sofe_power_50: "50% 力量"
+sofe_power_50_desc: "我们的同情心必须照耀整个宇宙，我们需要向整个银河系证明我们是一股善良的力量。我们的力量是为了带来秩序和正义，而不是混乱和破坏。"
+sofe_power_25: "25% 力量"
+sofe_power_25_desc: "这个小星系没有什么希望，我们最好转移注意力，鼓励他们先变得更好，因为任何直接的军事对抗都只会导致一边倒的罗弗朗斯顿普。或者是星系无法处理泛滥的异常现象。"
+policy_sofe_oe_plot_level: "耐久性水平"
+policy_sofe_oe_plot_level_desc: "我们的舰队是灵活的，可以根据情况调整自己的能力。银河系是一个奇怪而奇特的地方，它有时几乎容纳不了我们令人敬畏的力量，如果我们不多加小心，我们的血管可能会因为它们溢出的力量而被召回光明。"
+sofe_plot_max: "最大耐久性"
+sofe_plot_max_desc: "我们的思想是我们的盾牌，我们的意志是我们的利剑。当敌人进攻时，我们将全力防御。"
+sofe_plot_75: "75% 耐久性"
+sofe_plot_75_desc: "我们将坚守阵地，抵御一切进攻，但我们也要保留并保持对防御工事的一定控制。"
+sofe_plot_50: "50% 耐久性"
+sofe_plot_50_desc: "在没有明显威胁的情况下，我们必须集中精力维持平衡，把这个脆弱的现实维系在一起。"
+sofe_plot_25: "25% 耐久性"
+sofe_plot_25_desc: "这个小星系真是麻烦。看来，如果我们要建立持久的和平，我们就必须大大降低我们的空间力量。也许我们应该删除这个星系，重新开始?"
+policy_sofe_oe_research_level: "发展水平"
+policy_sofe_oe_research_level_desc: "即使我们的思想能够触及到无限广阔的元宇宙，我们仍然能够在理解现代技术制造过程中的小细节时获得乐趣和洞察力。然而，他们并不总是富有洞察力的。长时间的暴露可能会导致我们的思考者无法领会这些世俗装置的无意义和无用之处。"
+sofe_research_max: "最大发展"
+sofe_research_max_desc: "这个小星系可以提供很多知识，有很多东西需要思考。"
+sofe_research_50: "控制进展"
+sofe_research_50_desc: "有时银河系可能会用一些有趣的知识让我们惊讶，但更多的时候，他们只是真的喜欢重复这些技术，直到除了不断地提高他们5%的能量武器外没有别的事情可做。"
+sofe_research_no: "抑制发展"
+sofe_research_no_desc: "没有更多可学习的了!如果我们试图理解这个星系是如何在如此荒谬、可笑、可悲的技术水平下生存下来的，我们的思考者的心智能力实际上可能会退化。我们需要考虑一下这个问题。"
+policy_sofe_oe_range_level: "武器范围水平"
+policy_sofe_oe_range_level_desc: "参与系统规模的战斗需要一些调整来适应大多数现代银河舰队所使用的条件。毕竟，我们攻击来自另一个宇宙的敌人是不礼貌的。"
+sofe_range_max: "最大射程"
+sofe_range_max_desc: "调整我们的武器到他们的类型的最大可能的范围。虽然这是最佳的和平衡的，一些武器最终有太大的射程，实际上造成奇怪的异常，使舰队突然不可能交战。如果是这样的话，我们考虑降低我们的标准。"
+sofe_range_75: "75% 范围"
+sofe_range_75_desc: "轻微的调整应该纠正任何潜在的错误，以确保礼仪和气候空间战斗与最大的爆炸和粒子效果。"
+sofe_range_50: "50% 范围"
+sofe_range_50_desc: "也许我们应该把我们的船撞向我们的敌人?毕竟，我们已经收到报告，有一个紫色头发的海军上将尝试过一次，而且效果很好，在一个遥远的星系。"
+ACOT_FLAGSHIP_SUPER_WEAPON_DESC: "§Y由于方舟有六个巨大的动力塔，神圣干预的主梁比小型飞船使用的主梁更坚固、更快。§!"

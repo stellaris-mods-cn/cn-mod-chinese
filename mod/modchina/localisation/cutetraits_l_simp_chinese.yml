@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+
+ # ###################################
+ # By Lashaer
+ # ###################################
+ 
+ # Custom Tooltips
+ TRAIT_CUTE_EFFECT:0 "统治者外交影响: §G+50§!" 
+ triggered_opinion_trait_waifu:0 "可爱的领袖"
+ triggered_opinion_trait_robot_waifu:0 "可爱的机器人"
+ 
+ TRAIT_ROBOTCUTE_EFFECT:0 "统治者外交影响: §G+50§!" 
+ #

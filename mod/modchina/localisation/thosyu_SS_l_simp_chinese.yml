@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+####################################
+# 種族のローカライゼーション
+####################################
+ 
+ DEVIL:1 "悪魔"
+ name_list_DEVIL1: "悪魔"
+ DEVIL_desc:1 "拥有高階魔力的上级惡魔，多為強大的吸血鬼領主僕從"
+ DEVIL_plural:0 "悪魔"
+ DEVIL_insult_01:0 "悪魔"
+ DEVIL_insult_plural_01:0 "悪魔ども"
+ DEVIL_compliment_01:0 "悪魔さん"
+ DEVIL_compliment_plural_01:0 "悪魔さんたち"
+ DEVIL_spawn:0 "小悪魔"
+ DEVIL_spawn_plural:0 "小悪魔たち"
+ DEVIL_sound_01:0 "ギャーギャー"
+ DEVIL_sound_02:0 "バサバサ"
+ DEVIL_sound_03:0 "ビービー"
+ DEVIL_sound_04:0 "ヘラヘラ"
+ DEVIL_sound_05:0 "キャンキャン"
+ DEVIL_organ:0 "腹"
+ DEVIL_mouth:0 "口"

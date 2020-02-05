@@ -209,9 +209,9 @@ l_simp_chinese:
  job_mem_lunar_age_trader:1 "月球商人"
  job_mem_lunar_age_trader_plural:1 "月球商人"
  job_mem_lunar_age_trader_desc:1 "去开采头顶的月球可不是一件轻松惬意的事，但总得有人去做。"
- mod_job_mem_lunar_age_trader_add:1 "$job_mem_lunar_age_trader$ 职位"
+ mod_job_mem_lunar_age_trader_add:1 "$job_mem_lunar_age_trader$ 岗位"
 
  job_mem_lunar_age_administrator:1 "殖民地管理者"
  job_mem_lunar_age_administrator_plural:1 "殖民地管理者"
  job_mem_lunar_age_administrator_desc:1 "代表下面这个星球上的公司和政府负责管理殖民事务的官员。"
- mod_job_mem_lunar_age_administrator_add:1 "$job_mem_lunar_age_administrator$ 职位"
+ mod_job_mem_lunar_age_administrator_add:1 "$job_mem_lunar_age_administrator$ 岗位"

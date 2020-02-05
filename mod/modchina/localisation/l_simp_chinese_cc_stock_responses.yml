@@ -47,3 +47,5 @@ dpe_attitude_unfriendly:0 "信息： [dpe_attitude_country.GetName] 对 [root.Ge
 dpe_attitude_disloyal:0 "信息： [dpe_attitude_country.GetName] 对 [root.GetName]心怀叛意"
 dpe_attitude_custodial:0 "信息： [dpe_attitude_country.GetName] 对 [root.GetName]想要纳为附庸"
 dpe_attitude_rival:0 "信息： [dpe_attitude_country.GetName] 对 [root.GetName]视为竞争对手"
+
+dpe_deceitful_diplomacy:0 "因我们的诡诈，外邦人必弃绝我们。"

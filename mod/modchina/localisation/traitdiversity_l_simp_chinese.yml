@@ -1,0 +1,1059 @@
+﻿l_simp_chinese:
+
+
+
+# *
+# Modifiers
+# *
+
+mod_planet_livestock_minerals_produces_add:0 "£minerals£ $minerals$ 来自 £job_livestock£ §Y$job_livestock_plural$§!"
+
+mod_planet_livestock_alloys_produces_add:0 "£alloys£ $alloys$ 来自 £job_livestock£ §Y$job_livestock_plural$§!"
+
+mod_planet_livestock_energy_produces_add:0 "£energy£ $energy$ 来自 £job_livestock£ §Y$job_livestock_plural$§!"
+
+mod_planet_pops_food_upkeep_mult:0 "Pop £food£ $food$ 维护费"
+
+mod_planet_pops_minerals_upkeep_mult:0 "Pop £minerals£ $minerals$ 维护费"
+
+mod_planet_pops_consumer_goods_upkeep_mult:0 "Pop £consumer_goods£ $consumer_goods$ 维护费"
+
+MOD_TD_FORCED_HAPPINESS:0 "§Y禁用幸福度，人口不会受到幸福度的影响。§!"
+
+MOD_TD_LEADER_IMMORTAL:0 "§不朽的，永远不会老死。§!"
+
+MOD_TD_LEADER_AGE_RANGE:0 "招聘领袖的年龄范围"
+
+MOD_TD_TRAIT_POINT_ADD:0 "特征点可用"
+
+
+
+# *
+# Traits - POP Attributes
+# *
+
+
+# POP Happiness - Disable
+
+trait_td_multi_hiveminded:0 "多重蜂巢思维"
+trait_td_multi_hiveminded_desc:0 "§L在这个物种中存在有一些处于联合过程中的蜂巢思维核心。每个蜂巢核心起到领导的作用，但在维持意识的同时，他们的能力却被削弱了。§!"
+TRAIT_TD_MULTI_HIVEMINDED_EFFECT:0 "$mod_planet_jobs_worker_produces_mult$: §G+7.5%§!\n$mod_planet_jobs_unity_produces_mult$: §G+12.5%§!\n$MOD_LEADER_SKILL_LEVELS$: §R-1§!\n$MOD_TD_FORCED_HAPPINESS$"
+
+trait_td_emotionless:0 "没有感情"
+trait_td_emotionless_desc:0 "§L这个物种不存在感情。一些常见的社会现象在他们的社会中不可见。§!"
+TRAIT_TD_EMOTIONLESS_EFFECT:0 "$mod_planet_jobs_society_research_produces_mult$: §R-2.5%§!\n$MOD_TD_FORCED_HAPPINESS$"
+
+trait_td_psychopathic:0 "精神错乱的"
+trait_td_psychopathic_desc:0 "§L这个物种不存在明显的情感。这些情感上的缺陷通常通过冲动杀人来解决，这是对这一物种生存的持续威胁。§!"
+TRAIT_TD_PSYCHOPATHIC_EFFECT:0 "$MOD_POP_GROWTH_SPEED$: §R-10%§!\n$MOD_ARMY_DAMAGE_MULT$: §R-10%§!\n$MOD_TD_FORCED_HAPPINESS$"
+
+
+# POP Happiness
+
+trait_td_futurespawns:0 "来自未来"
+trait_td_futurespawns_desc:0 "§L这个种族是来自遥远未来的流放者。他们为什么在这里，发生了什么事?§!"
+
+trait_td_witness:0 "见证者"
+trait_td_witness_desc:0 "§L这个物种的成员目睹了一些可怕事情的发生，并知道它是什么。§!"
+
+
+# POP Happiness - Stratum
+
+trait_td_noblesse_oblige:0 "贵族义务"
+trait_td_noblesse_oblige_desc:0 "§L这个种族的领袖为他们的下级树立了一个好榜样。§!"
+
+trait_td_aristocratic:0 "贵族化"
+trait_td_aristocratic_desc:0 "§L这个物种的成员认为他们出身高贵，他们总是要求自己的权利。§!"
+
+trait_td_lust_for_power:0 "权力嗜欲"
+trait_td_lust_for_power_desc:0 "§L对于这个物种的成员来说，被统治被认为是极度的耻辱。§!"
+
+trait_td_rite_of_succession:0 "继承仪式"
+trait_td_rite_of_succession_desc:0 "§L这个物种有严格的等级制度，等级较低的成员必须服从上级。下级可以通过继承仪式向上级挑战自己的地位。一旦发出挑战，他们就会被束缚在目标上，直到胜利或死亡。§!"
+
+
+# Habitability
+
+trait_td_assimilation:0 "同化作用"
+trait_td_assimilation_desc:0 "§L这个物种的成员可以融入任何环境。这个过程非常耗时，因此他们往往会避免迁移。§!"
+
+trait_td_fast_adaption:0 "快速适应"
+trait_td_fast_adaption_desc:0 "§L这种动物能很快地适应陌生的环境。§!"
+
+trait_td_camouflage:0 "障眼法"
+trait_td_camouflage_desc:0 "§L这种动物能很快地伪装自己以适应周围的环境。§!"
+
+trait_td_harmonization:0 "和谐"
+trait_td_harmonization_desc:0 "§L这个物种几乎能融入任何环境中，就好像他们是自然的一部分。§!"
+
+trait_td_slow_adaption:0 "缓慢适应"
+trait_td_slow_adaption_desc:0 "§L这个物种挣扎着，花更多的时间来适应陌生的环境。§!"
+
+trait_td_nostalgia:0 "乡恋"
+trait_td_nostalgia_desc:0 "§L这个物种对他们的家园显示出强烈的依恋。他们中的一些人可能可以离开出生地，但却容易终身抑郁。§!"
+
+trait_td_paradise_lost:0 "失乐园"
+trait_td_paradise_lost_desc:0 "§L这个物种煎熬于很容易被其他物种所适应的环境。天堂对他们来说是一种海市蜃楼，然而，他们仍然抱有很大的希望。§!"
+
+trait_td_lith_paradise_lost:0 "$trait_td_paradise_lost$"
+trait_td_lith_paradise_lost_desc:0 "$trait_td_paradise_lost_desc$"
+
+
+# POP Growth
+
+trait_td_clones:0 "克隆人"
+trait_td_clones_desc:0 "§L这个物种的成员已经应用克隆技术来提高他们的出生率，尽管这些克隆动物的大脑活动很低。§!"
+
+trait_td_self_replicating:0 "自我复制"
+trait_td_self_replicating_desc:0 "§L这个物种的成员可以自我复制，这大大提高了它们的繁殖率。§!"
+
+trait_td_natural_selection:0 "物竞天择"
+trait_td_natural_selection_desc:0 "§L这个物种遗传结构非常灵活，妊娠期短。它们的策略是通过频繁的适应来生存。§!"
+
+trait_td_split:0 "分裂"
+trait_td_split_desc:0 "§L这个物种的成员经常经历难以预测的分裂。一旦分裂完成，新的个体就完全独立于原来的个体。§!"
+
+trait_td_unintended_fusion:0 "意外融合"
+trait_td_unintended_fusion_desc:0 "§L这个物种的成员遭受着意想不到的融合：当他们与另一个个体接触时，他们经常融合在一起。融合之后，其中一种人格将占据主导地位，并继续作为一个独立的实体存在。§!"
+
+trait_td_hypofertile:0 "生育低下"
+trait_td_hypofertile_desc:0 "§L由于生物和社会因素，该物种的出生率极低。§!"
+
+trait_td_infanticidal:0 "弑婴"
+trait_td_infanticidal_desc:0 "§L这个物种有弑婴的可怕习俗，他们的婴儿被视为美味佳肴。只有少数婴儿能幸免于这种可怕的风俗。§!"
+
+trait_td_last_children:0 "遗子"
+trait_td_last_children_desc:0 "§L这种聪明的物种在几十年前就进行了基因改造，但这一进步带来了灾难性的副作用，导致低出生率。他们可能是这个物种最后的孩子。§!"
+
+
+# POP Growth - Immigration / Resettlement Cost
+
+trait_td_territorial:0 "领地意识"
+trait_td_territorial_desc:0 "§L这个物种的成员表现出领地行为。侵犯他们的私人区域被认为是一个严重的禁忌。§!"
+
+trait_td_rooted:0 "根深蒂固"
+trait_td_rooted_desc:0 "§L这个物种没有感知到旅行的任何价值。他们非常不愿意离开自己的祖国。§!"
+
+
+# Governing Ethics Attraction
+
+trait_td_sympathetic:0 "共鸣"
+trait_td_sympathetic_desc:0 "§L这个物种的成员被赋予了深切同情他人想法的能力。§!"
+
+# Stratum Political Power
+
+trait_td_unflinching:0 "不屈"
+trait_td_unflinching_desc:0 "§L这个物种有一种不屈不挠的精神。虽然他们的身体可以被控制，但他们的思想不能被打破。§!"
+
+
+
+# *
+# Traits - POP Outputs
+# *
+
+
+# Resources
+
+trait_td_paragon:0 "优秀者"
+trait_td_paragon_desc:0 "§L这个品种非常多才多艺。§!"
+
+
+# Resources - Stratum
+
+trait_td_lazy:0 "懒惰"
+trait_td_lazy_desc:0 "§L这类物种不愿从事艰苦的劳动，一般不努力工作。§!"
+
+
+# Food
+
+trait_td_fruitage:0 "结果"
+trait_td_fruitage_desc:0 "§L这个品种定期结果子。从生物学的角度来看，这个结果器官的用途是未知的，但果实是美味和营养丰富的。§!"
+
+trait_td_hunter_gatherers:0 "采猎人"
+trait_td_hunter_gatherers_desc:0 "§L这个物种的大部分食物生产仍然依赖于狩猎采集的地层。§!"
+
+trait_td_hunters:0 "猎人"
+trait_td_hunters_desc:0 "§L这个物种仍然依赖于狩猎层的大量食物生产。§!"
+
+trait_td_gatherers:0 "采集者"
+trait_td_gatherers_desc:0 "§L这一物种仍然依赖于采集地层的大部分粮食生产。§!"
+
+trait_td_eolithic:0 "原始"
+trait_td_eolithic_desc:0 "§L这个物种与农业和工程概念斗争。他们的生活与原始人很相似。§!"
+
+trait_td_abominations:0 "厌恶之人"
+trait_td_abominations_desc:0 "§L死亡的阴影笼罩着这个物种。甚至杂草也不敢在他们的土地上生长，即使在他们孤独世界的黑暗角落。§!"
+
+
+# Energy Credits
+
+trait_td_radiant_vein:0 "放射性血液"
+trait_td_radiant_vein_desc:0 "§L这一物种的血液含有一种特殊的化合物，并发出纯能量的气泡。§!"
+
+
+# Alloys
+
+trait_td_pyrokinetic:0 "烈火之炎"
+trait_td_pyrokinetic_desc:0 "§L这个物种的成员可以在没有人工帮助的情况下产生火焰。这不仅可以用来熔炼，还可以用于战争。§!"
+
+trait_td_metallizing_touch:0 "金手指"
+trait_td_metallizing_touch_desc:0 "§L这个物种有一种能力，可以通过触摸把物体转化成金属化合物。§!"
+
+trait_td_ignis_fatuus:0 "鬼火"
+trait_td_ignis_fatuus_desc:0 "§L这个物种的成员可以在没有任何人工帮助的情况下产生火焰。这将不仅用于熔炼，也用于战争，但他们强烈不愿意用他们的火焰燃烧另一个生命形式。§!"
+
+trait_td_flintknapping:0 "燧石敲击术"
+trait_td_flintknapping_desc:0 "§L这个物种的成员很难掌握材料科学的许多基本概念。他们通常用原始矿物而不是合金来建立他们的文明。§!"
+
+
+# Researches
+
+trait_td_genius:0 "天才"
+trait_td_genius_desc:0 "§L这个物种已经达到了智力的最高形式，没有先进的基因工程，他们不可能比这更聪明。§!"
+
+trait_td_brilliant:0 "机智"
+trait_td_brilliant_desc:0 "§L这个物种非常聪明。§!"
+
+trait_td_vacuous:0 "空虚"
+trait_td_vacuous_desc:0 "§L这个物种的成员异常愚蠢。如果你想和他们开个玩笑，不要讽刺他们，他们听不懂。§!"
+
+trait_td_great_excuses:0 "完美借口"
+trait_td_great_excuses_desc:0 "§L这个物种一直在努力为忽视科学进步找借口。多年的忽视为他们提供了貌似合理的借口。§!"
+
+
+# Researches - Area
+
+trait_td_technicism:0 "技术主义"
+trait_td_technicism_desc:0 "§L这个物种的成员对工程和材料科学有很大的自然倾向，但忽视了其他领域的研究。§!"
+
+trait_td_physicalism:0 "物理主义"
+trait_td_physicalism_desc:0 "§L这个物种的成员对理论物理和星体现象有很大的自然倾向，但忽视了其他领域的研究。§!"
+
+trait_td_biologism:0 "生物主义"
+trait_td_biologism_desc:0 "§L这个物种的成员对社会和生物研究有很大的自然倾向，但忽视了其他领域的研究。§!"
+
+trait_td_technological_lag:0 "技术落后"
+trait_td_technological_lag_desc:0 "§L这个物种在将新的工程学发现融入社会方面行动迟缓，并采取谨慎的步骤，以确保新技术以最小的干扰成功地融入公民的生活。§!"
+
+trait_td_cultural_lag:0 "文化落后"
+trait_td_cultural_lag_desc:0 "§L这个物种的文化发展无法跟上他们的物质进步，因为与他们的技术相比，他们的社会是相当原始的。§!"
+
+trait_td_technophobes:0 "工程恐惧者"
+trait_td_technophobes_desc:0 "§L这个物种的成员很难掌握工程的许多基本概念，而且往往害怕工程。§!"
+
+trait_td_numerophobes:0 "物理恐惧者"
+trait_td_numerophobes_desc:0 "§L这个物种的成员很难掌握理论物理学的许多基本概念，而且往往害怕物理。§!"
+
+trait_td_verbophobes:0 "社会恐惧者"
+trait_td_verbophobes_desc:0 "§L这个物种的成员很难掌握社会学的许多基本概念，而且往往害怕它。§!"
+
+
+# Unity
+
+trait_td_army_traditions:0 "军队传统"
+trait_td_army_traditions_desc:0 "§L这个物种强化了在他们的母星上数千年断断续续的战争所产生的强大的军事传统。§!"
+
+trait_td_symbiotic:0 "共生"
+trait_td_symbiotic_desc:0 "§L这个物种的成员与地球上的其他土著生物共生。即使在国外环境中，它们也能毫不费力地融入当地的生态系统。§!"
+
+trait_td_aggressive:0 "好斗"
+trait_td_aggressive_desc:0 "§L这个物种的成员非常好斗。这些畜生不仅在他们的社会中，而且在战场上也播下不和谐音，使他们成为可怜的士兵。§!"
+
+trait_td_bloodthirsty:0 "嗜杀"
+trait_td_bloodthirsty_desc:0 "§L这个物种嗜血，他们的社会离不开暴力。§!"
+
+
+# Livestock Outputs
+
+trait_td_meatballs:0 "肉丸"
+trait_td_meatballs_desc:0 "§L这个物种的成员没有骨骼结构，据说非常美味。它们可能是自然进化的，或者经历了特殊的基因改造。§!"
+
+trait_td_toxic:0 "毒性"
+trait_td_toxic_desc:0 "§L这个物种的血肉中含有有毒物质。不要吃它们！§!"
+
+trait_td_bitter:0 "难吃"
+trait_td_bitter_desc:0 "§L不管怎么做，这个物种都很难吃。这对银河系的厨师来说是一个巨大的挑战。§!"
+
+
+
+# *
+# Traits - POP Upkeeps
+# *
+
+
+# Food Upkeep / Minerals Upkeep
+
+trait_td_aura_absorption:0 "光环吸收"
+trait_td_aura_absorption_desc:0 "§L这个物种通过吸收周围物体的“光环”来吸收营养。每个物体只能提供一次光环，而更多的艺术物体可以提供更多的光环。没有合适的理论来解释它们的消化系统。§!"
+
+trait_td_sanguivore:0 "血腥"
+trait_td_sanguivore_desc:0 "§L这个物种的成员可以摄取其他生物的血液。由于血液被认为是一种美食，一些农民有一种无法控制的冲动去吮吸牲畜的血液。§!"
+
+trait_td_lithovore:0 "吃土"
+trait_td_lithovore_desc:0 "§L这个物种的成员可以摄取矿物质。由于矿物质被认为是一种美食，一些矿工会享用他们收获的一部分。§!"
+
+trait_td_energivore:0 "充电"
+trait_td_energivore_desc:0 "§L这种动物能吸收电能。由于能源被认为是一种美食，罪犯们会为了自己的利益而触碰电力系统。§!"
+
+trait_td_lith_energivore:0 "$trait_td_energivore$"
+trait_td_lith_energivore_desc:0 "$trait_td_energivore_desc$"
+
+trait_td_lith_metalivore:0 "金属盛宴"
+trait_td_lith_metalivore_desc:0 "§L这种动物能摄取金属。由于纯金属被认为是一种美食，熔炉必须得到很好的保护，否则它们会被当成一个餐厅。§!"
+
+trait_td_controlled_metabolism:0 "控制代谢"
+trait_td_controlled_metabolism_desc:0 "§L这个物种可以控制新陈代谢，几个月不吃东西也能生存。§!"
+
+trait_td_lith_controlled_metabolism:0 "$trait_td_controlled_metabolism$"
+trait_td_lith_controlled_metabolism_desc:0 "$trait_td_controlled_metabolism_desc$"
+
+trait_td_efficient_metabolism:0 "有效的新陈代谢"
+trait_td_efficient_metabolism_desc:0 "§L这个物种新陈代谢缓慢而有效。§!"
+
+trait_td_lith_efficient_metabolism:0 "$trait_td_efficient_metabolism$"
+trait_td_lith_efficient_metabolism_desc:0 "$trait_td_efficient_metabolism_desc$"
+
+trait_td_photosynthetic:0 "光合作用"
+trait_td_photosynthetic_desc:0 "§L这个物种可以利用一定的光谱产生糖。当他们营养不良时，这是一个很好的能力，但这并不能为严格的活动提供足够的能量。§!"
+
+trait_td_gluttony:0 "贪吃"
+trait_td_gluttony_desc:0 "§L这个物种的成员摄取的营养比他们所需的营养还多。§!"
+
+trait_td_lith_gluttony:0 "$trait_td_gluttony$"
+trait_td_lith_gluttony_desc:0 "$trait_td_gluttony_desc$"
+
+trait_td_sitomaniac:0 "暴饮暴食"
+trait_td_sitomaniac_desc:0 "§L这个物种的成员以吃为生。§!"
+
+trait_td_lith_sitomaniac:0 "$trait_td_sitomaniac$"
+trait_td_lith_sitomaniac_desc:0 "$trait_td_sitomaniac_desc$"
+
+trait_td_devourers:0 "吞噬者"
+trait_td_devourers_desc:0 "§L这个物种的成员除了满足无尽的饥饿外，什么都不关心。他们的行动是灾难性的，并且所到之处皆废墟。§!"
+
+
+# Consumer Goods Upkeep
+
+trait_td_pyromaniac:0 "纵火狂"
+trait_td_pyromaniac_desc:0 "§L这个物种的成员从燃烧东西中获得巨大的快乐。奢侈的可燃物被认为是他们的主要经济来源。§!"
+
+
+# POP Housing Usage
+
+trait_td_therianthropic:0 "困于兽性"
+trait_td_therianthropic_desc:0 "§L这个物种患有一种通过唾液传播的心灵传染病。受感染的个体可以变形成与其原生动物群相似的野兽，并受到破坏性冲动的折磨。§!"
+
+trait_td_tidy:0 "整洁"
+trait_td_tidy_desc:0 "§L众所周知，这个物种的成员总是保持环境整洁。§!"
+
+trait_td_messy:0 "凌乱"
+trait_td_messy_desc:0 "§L这个物种的成员擅长把周围环境弄得一团糟。§!"
+
+
+# POP Amenities Usage
+
+trait_td_vampiric:0 "吸血鬼"
+trait_td_vampiric_desc:0 "§L这个物种患有一种通过唾液和血液传播的心灵传染病。这种流行病的受害者将会变成吸血鬼，并组成一个氏族，效忠于氏族首领。§!"
+
+trait_td_sadists:0 "虐待狂"
+trait_td_sadists_desc:0 "§L这个物种的成员以给他人带来痛苦为乐。§!"
+
+trait_td_photosensitive:0 "光敏"
+trait_td_photosensitive_desc:0 "§L当他们面对辐射或闪光时，他们会感到头晕，在某些情况下还会癫痫发作。他们建筑的标准中有一项主要条款是遮挡阳光。§!"
+
+
+
+# *
+# Traits - Leader Attributes
+# *
+
+
+# Leader Attributes
+
+trait_td_heroism:0 "英雄主义"
+trait_td_heroism_desc:0 "§L在这个物种的历史上有无数的英雄，未来还会有更多的英雄。§!"
+
+trait_td_born_to_rule:0 "英明领导"
+trait_td_born_to_rule_desc:0 "§L这个物种的成员生来就是要统治他人的。无能的暴君在这个物种的历史中没有出现过。§!"
+
+trait_td_arrested_learning:0 "不善学习"
+trait_td_arrested_learning_desc:0 "§L这个物种的成员不善于从经验中学习，他们通常只能达到一个低水平。§!"
+
+
+# Leader Lifespan
+
+trait_td_eternal_youth:0 "永恒青春"
+trait_td_eternal_youth_desc:0 "§L这个物种永远不会死。随着永恒的来临，他们失去了挑战的精神和好奇心，不过对受伤的极度恐惧仍然存在。§!"
+TRAIT_TD_ETERNAL_YOUTH_EFFECT:0 "$MOD_LEADER_SPECIES_EXP_GAIN$: §R-60%§!\n$MOD_ARMY_DAMAGE_MULT$: §R-12.5%§!\n$MOD_ARMY_MORALE$: §R-15%§!\n$MOD_TD_LEADER_IMMORTAL$"
+
+trait_td_unhurried:0 "不慌不忙"
+trait_td_unhurried_desc:0 "§L对于这个物种来说，时间过得很慢。它们成熟得稍微慢一些，但它们能活得异乎寻常的长。§!"
+TRAIT_TD_UNHURRIED_EFFECT:0 "$MOD_LEADER_AGE$: §G+80§!\n$MOD_TD_LEADER_AGE_RANGE$: §R56-100§!"
+
+trait_td_precocious:0 "早熟"
+trait_td_precocious_desc:0 "§L这个物种的成员在很小的时候就开始对社会做出贡献。§!"
+TRAIT_TD_PRECOCIOUS_EFFECT:0 "$MOD_TD_LEADER_AGE_RANGE$: §G10-18§!"
+
+trait_td_hale:0 "矍铄"
+trait_td_hale_desc:0 "§L这个物种在年轻时从不工作，因此他们的社会有一个奇怪的结构：以老养少。§!"
+TRAIT_TD_HALE_EFFECT:0 "$MOD_LEADER_SPECIES_EXP_GAIN$: §G+25%§!\n$MOD_TD_LEADER_AGE_RANGE$: §R48-70§!"
+
+
+
+# *
+# Traits - Special Attributes
+# *
+
+
+# Evolution / Gene
+
+trait_td_twins:0 "双子"
+trait_td_twins_desc:0 "§L这个物种的成员都是天生的同卵双胞胎。§!"
+
+trait_td_evolving:0 "进化"
+trait_td_evolving_desc:0 "§L这个物种进化很快。别担心，失败很快就会消失。§!"
+
+trait_td_simplified_gene:0 "简单基因"
+trait_td_simplified_gene_desc:0 "§L这个物种有着奇怪的简单遗传结构。智力低下和适应性差是这种简化有机体的主要后果。§!"
+
+trait_td_complicated_gene:0 "复杂基因"
+trait_td_complicated_gene_desc:0 "§L这个物种有着奇怪复杂的遗传结构。他们神秘的DNA结构使克隆变得困难，并且阻碍了他们的生物学研究。§!"
+
+
+# Slimy Creatures
+
+trait_td_parasite:0 "寄生虫"
+trait_td_parasite_desc:0 "§L这个物种的所有成员都接种了有感觉的寄生虫。当他们遇到问题，他们可以只是转移到另一个宿主或可能尝试修改他们的当前宿主来解决问题。§!"
+
+trait_td_lith_parasite:0 "$trait_td_parasite$"
+trait_td_lith_parasite_desc:0 "$trait_td_parasite_desc$"
+
+trait_td_virus:0 "病毒"
+trait_td_virus_desc:0 "§L这个物种的所有成员都是有感知的病毒的宿主。尽管它违反了生命的传统定义，但这种病毒可以通过感染新的宿主来繁殖。受感染的宿主失去了它们的智力，被病毒及其传播的动力所控制。§!"
+
+trait_td_lith_virus:0 "$trait_td_virus$"
+trait_td_lith_virus_desc:0 "$trait_td_virus_desc$"
+
+trait_td_swarm_that_walks:0 "群行"
+trait_td_swarm_that_walks_desc:0 "§L这个物种的成员可以像普通生物一样站立和移动，但他们的身体是一团蠕动的、无数光滑的昆虫。每只昆虫都被一个微小的蜂窝状思维网络所束缚，并以一种独特的人格运作。§!"
+
+trait_td_energy_slimes:0 "能源团"
+trait_td_energy_slimes_desc:0 "§L这个物种的成员是由纯能量和有机物质组成的。这允许物种以不稳定的形态为代价来改变他们的体型。§!"
+
+trait_td_slimy:0 "黏滑"
+trait_td_slimy_desc:0 "§L这个物种是由柔软的半固体组成的。他们试图保持一种固定的形式，但容易受到意想不到的影响。§!"
+
+
+# Flying
+
+trait_td_lith_meteor_strike:0 "流星撞击"
+trait_td_lith_meteor_strike_desc:0 "§L这种巨大的岩石物种有一个特殊的策略:当它们入侵其他行星时，它们会不带任何装备地进入大气层，用巨大的冲击冲击波压倒它们的敌人。§!"
+
+trait_td_aerobatics:0 "特技飞行"
+trait_td_aerobatics_desc:0 "§L这些物种是强大而敏捷的飞行者。它们可以向任何方向推进，有不同的飞行方式，包括急转、跳水、变焦、攀爬、悬停等。所有的这一切都不需要翅膀。§!"
+
+trait_td_flying:0 "飞行"
+trait_td_flying_desc:0 "§L这个物种有飞行的能力。§!"
+
+trait_td_lith_floating:0 "漂浮"
+trait_td_lith_floating_desc:0 "§L这个物种会漂浮在地面上。§!"
+
+trait_td_air_swimming:0 "悬空游泳"
+trait_td_air_swimming_desc:0 "§L这个物种的成员可以在空气中“游泳”，就好像空气是一种粘稠的液体。除在他们喜欢的气氛之外，他们的活动受到这种特性的极大限制。§!"
+
+
+# Dimensional Shift
+
+trait_td_multidimensional:0 "多维生物"
+trait_td_multidimensional_desc:0 "§L这个物种跨越几个维度。有时他们从他们的主维度旅行到其他维度。§!"
+
+trait_td_phase_shift:0 "相位转移"
+trait_td_phase_shift_desc:0 "§L这个物种的成员可以暂时转移到另一个维度。这是一个非常短的时间，但有助于避免致命的打击在战斗中。§!"
+
+trait_td_shadow_creatures:0 "影子生物"
+trait_td_shadow_creatures_desc:0 "§L这些物种的成员在阴影和黑暗的地方寻求庇护，有人说他们是一个有阴影的人。§!"
+
+trait_td_mirror_images:0 "镜像"
+trait_td_mirror_images_desc:0 "§L这个物种的成员可以通过自然反射进入另一个世界。他们不喜欢待在地下，因为那里没有自然的倒影，他们害怕阴影。§!"
+
+trait_td_dimensional_absent:0 "缺维"
+trait_td_dimensional_absent_desc:0 "§L这个物种的成员有时被拖入另一个维度。只有少数人幸存下来并从这种绑架中返回。§!"
+
+trait_td_lith_dimensional_absent:0 "$trait_td_dimensional_absent$"
+trait_td_lith_dimensional_absent_desc:0 "$trait_td_dimensional_absent_desc$"
+
+
+# Field Manipulation
+
+trait_td_force_manipulation:0 "力场操纵"
+trait_td_force_manipulation_desc:0 "§L这个物种的成员可以操纵局部磁场。这使他们对电磁和能量动力学有了本能的理解。§!"
+
+trait_td_electromagnetic_armour:0 "电磁装甲"
+trait_td_electromagnetic_armour_desc:0 "§L该物种具有独特的能力，通过复杂的电生系统产生电磁装甲。这使他们对电磁和能量动力学有了本能的理解。§!"
+
+trait_td_magnetic:0 "磁性"
+trait_td_magnetic_desc:0 "§L这个物种的成员具有磁性。他们把物理研究放在优先地位，以利用他们的天然磁性。§!"
+
+trait_td_monopole:0 "单极"
+trait_td_monopole_desc:0 "§L这一物种遭受的磁铁异常能够自发地产生大量的单极子使周围的个体在短时间内消失。这种不可控制的现象是电磁学研究的一个主要障碍。§!"
+
+
+# Weaponary
+
+trait_td_explosive_cyst:0 "爆炸性囊肿"
+trait_td_explosive_cyst_desc:0 "§L这个物种的皮肤上长有充满不稳定物质的囊肿。§!"
+
+trait_td_force_breath:0 "有力的气息"
+trait_td_force_breath_desc:0 "§L这个物种的成员可以释放出一场纯粹的能量风暴。§!"
+
+trait_td_fire_breath:0 "龙息"
+trait_td_fire_breath_desc:0 "§L这个物种的成员可以释放出毁灭性的火焰风暴。§!"
+
+trait_td_beast_howling:0 "野兽咆哮"
+trait_td_beast_howling_desc:0 "§L这个物种的成员在战场上用凶猛的嚎叫来恐吓他们的敌人。这些号角声是他们胜利的号角，也是敌人死亡的信号。§!"
+
+trait_td_tail_blades:0 "尾叶锋"
+trait_td_tail_blades_desc:0 "§L这个物种的成员有一条长有锋利叶片状的尾巴。§!"
+
+
+# Size
+
+trait_td_gaia:0 "盖亚"
+trait_td_gaia_desc:0 "§L这个物种的成员大得难以想象。它们可以长到几十公里长，相当于其他物种的城市。§!"
+
+trait_td_lith_gaia:0 "$trait_td_gaia$"
+trait_td_lith_gaia_desc:0 "$trait_td_gaia_desc$"
+
+trait_td_gigantic:0 "庞大"
+trait_td_gigantic_desc:0 "§L这个物种的成员相对于其他物种来说是巨大的。它们可以长到数百米长，相当于其他物种的建筑物。§!"
+
+trait_td_lith_gigantic:0 "$trait_td_gigantic$"
+trait_td_lith_gigantic_desc:0 "$trait_td_gigantic_desc$"
+
+trait_td_big:0 "高大"
+trait_td_big_desc:0 "§L这个物种的成员相对于其他物种来说很大，它们可以长到几米长。§!"
+
+trait_td_lith_big:0 "$trait_td_big$"
+trait_td_lith_big_desc:0 "$trait_td_big_desc$"
+
+trait_td_small:0 "矮小"
+trait_td_small_desc:0 "§L这个物种的成员相对于其他物种来说很小，它们只可以长到几十厘米长。§!"
+
+trait_td_lith_small:0 "$trait_td_small$"
+trait_td_lith_small_desc:0 "$trait_td_small_desc$"
+
+trait_td_tiny:0 "袖珍"
+trait_td_tiny_desc:0 "§L这个物种的成员相对于其他物种来说很小，它们只能长到几厘米长。§!"
+
+trait_td_lith_tiny:0 "$trait_td_tiny$"
+trait_td_lith_tiny_desc:0 "$trait_td_tiny_desc$"
+
+trait_td_nanoorganisms:0 "纳米级有机体"
+trait_td_nanoorganisms_desc:0 "§L这个物种的成员太小了，肉眼无法观察到。§!"
+
+trait_td_lith_nanoorganisms:0 "$trait_td_nanoorganisms$"
+trait_td_lith_nanoorganisms_desc:0 "$trait_td_nanoorganisms_desc$"
+
+
+# Protection
+
+trait_td_healing_factor:0 "治愈因子"
+trait_td_healing_factor_desc:0 "§L这个物种的成员有一种罕见的能力，可以在短时间内再生任何失去的身体组织。再生所需的能量是通过饮食获得的。§!"
+
+trait_td_lith_healing_factor:0 "$trait_td_healing_factor$"
+trait_td_lith_healing_factor_desc:0 "$trait_td_healing_factor_desc$"
+
+trait_td_dragon_scales:0 "龙鳞"
+trait_td_dragon_scales_desc:0 "§L这种动物因其神秘的鳞片而免受撞击、电、热和其他有害因素的伤害。不幸的是，没有可持续的方法使用这种鳞片来保护他们的宇宙飞船。§!"
+
+trait_td_petrification:0 "石化"
+trait_td_petrification_desc:0 "§L这个物种可以在瞬间将自己的身体转化成无害的石头来保护自己免受威胁。它们可能进化出了一种量子锁定防御机制：它们会在被观察时变成石头。§!"
+
+trait_td_metal_exoskeleton:0 "金属外骨骼"
+trait_td_metal_exoskeleton_desc:0 "§L这个物种的成员由金属外骨骼保护。对这些物种来说，一次普通的身体攻击并不具有威胁性。§!"
+
+trait_td_carapace:0 "甲壳"
+trait_td_carapace_desc:0 "§L这个物种有坚硬的甲壳。龟甲不仅在战场上保护它们，也有利于采矿。§!"
+
+trait_td_persistent:0 "执着再生"
+trait_td_persistent_desc:0 "§L这个物种的成员享受缓慢但可靠的再生。它们可以存活下来，从其他物种致命的创伤中恢复过来。§!"
+
+trait_td_iron_bone:0 "铁骨"
+trait_td_iron_bone_desc:0 "§L这个物种的骨骼结构中含有铁元素，增加了它们的体积，但也提供了耐久性。§!"
+
+trait_td_translucent_skin:0 "半透明皮肤"
+trait_td_translucent_skin_desc:0 "§L这个物种的皮肤是半透明的。它们可以有效地躲避那些只依赖视觉的捕食者。§!"
+
+trait_td_lith_aerogel_skin:0 "抗热皮肤"
+trait_td_lith_aerogel_skin_desc:0 "§L这个物种的皮肤是由天然气凝胶构成的。他们对热有免疫力。§!"
+
+trait_td_deformed:0 "畸形"
+trait_td_deformed_desc:0 "§L这一物种的成员表现出广泛的身体畸形，往往导致健康状况不佳。§!"
+
+trait_td_rotting_body:0 "腐烂之躯"
+trait_td_rotting_body_desc:0 "§L这个物种的成员处于持续的分解状态。它们很难与尸体区分开来。§!"
+
+trait_td_boneless:0 "无骨"
+trait_td_boneless_desc:0 "§L这个物种的成员没有骨骼结构。对于脊椎动物来说，这是不可思议的，但对于骨性动物，这个物种也有类似的困惑。§!"
+
+trait_td_lith_weathering:0 "风化"
+trait_td_lith_weathering_desc:0 "§L这个物种的身体会慢慢风化。在他们的社会里，沙尘暴被看作是血肉风暴。§!"
+
+trait_td_lith_holey:0 "多孔"
+trait_td_lith_holey_desc:0 "§L这种动物的身体是由多孔的岩石构成的。虽然它们没有刚性结构，但它们相对较轻。§!"
+
+trait_td_hemophilia:0 "血友病"
+trait_td_hemophilia_desc:0 "§L这个物种的血液不能正常凝结，即使是轻微的受伤也被认为是紧急医疗事故。许多学者都在寻求治愈这个诅咒的方法。§!"
+
+trait_td_inside_out:0 "里翻外"
+trait_td_inside_out_desc:0 "§L这个物种的重要器官位于外部。这被证明是一个极端的风险因素。§!"
+
+
+# Sense
+
+trait_td_clairvoyance:0 "千里眼"
+trait_td_clairvoyance_desc:0 "§L这个物种对未来的预测能力有限。有时他们会对事件产生误解，但在大多数情况下，这种能力对于找到前进的道路很有帮助。§!"
+
+trait_td_extrasensory:0 "超感"
+trait_td_extrasensory_desc:0 "§L这个物种有一种超越物理感官的额外感知方法。他们似乎对正在发生的事情有一种直观的理解。§!"
+
+trait_td_keen_sense:0 "敏锐感官"
+trait_td_keen_sense_desc:0 "§L这个物种的感官特别精确，对最轻微的刺激都有反应。§!"
+
+trait_td_disrupted:0 "困于干扰"
+trait_td_disrupted_desc:0 "§L这个物种的感官经常受到干扰。幻觉在他们中间太常见了。§!"
+
+trait_td_phantom_pain:0 "幻痛"
+trait_td_phantom_pain_desc:0 "§L这个物种一生都饱受幻觉的折磨，有时会经历极度的不适和痛苦。他们中的大多数也承受着压力。§!"
+
+trait_td_lith_phantom_pain:0 "$trait_td_phantom_pain$"
+trait_td_lith_phantom_pain_desc:0 "$trait_td_phantom_pain_desc$"
+
+trait_td_delayed_sense:0 "感官迟缓"
+trait_td_delayed_sense_desc:0 "§L这个物种在感觉刺激和认知识别之间经历了一致的延迟。这是许多地区的主要障碍，并迫使他们的社会寻找解决办法。§!"
+
+
+# Sight
+
+trait_td_hypervision:0 "广视"
+trait_td_hypervision_desc:0 "§L这个物种的视力适应性很强。如果他们试图看到什么东西，无论它在哪里，无论它是什么，他们都能看到它。§!"
+
+trait_td_telescopic_sight:0 "望远睛"
+trait_td_telescopic_sight_desc:0 "§L这个物种高度特化的眼睛可以分辨天空中的每一颗星星。它不仅对天文学有用，对测量不熟悉的行星也很有用。§!"
+
+trait_td_microscopic_sight:0 "微观视觉"
+trait_td_microscopic_sight_desc:0 "§L这种高度特化的眼睛能在显微镜或大分子尺度上观察物体。这对他们的科学界来说是一个巨大的优势。§!"
+
+trait_td_third_eye:0 "第三只眼"
+trait_td_third_eye_desc:0 "§L虽然这个物种没有任何视觉器官，但他们利用其他感官建立了一种假视觉的感知方法。§!"
+
+trait_td_blind:0 "瞎子"
+trait_td_blind_desc:0 "§L这个物种不能在可见光谱中感知。对他们来说那是看不见的光。§!"
+
+
+
+# *
+# Traits - Pseudo-ascension Traits
+# *
+
+
+# Necromancy
+
+trait_td_ghosts:0 "幽灵"
+trait_td_ghosts_desc:0 "§L在死亡时，这个物种的成员会产生一个电子幽灵，这个幽灵拥有死者的大部分记忆。他们免于死亡最残酷的一面。§!"
+
+trait_td_echoes_of_the_dead:0 "亡灵回声"
+trait_td_echoes_of_the_dead_desc:0 "§L这个物种有能力从死者的思想中体验到最后的想法。这最后的一刻叫：亡灵回声。§!"
+
+trait_td_flesh_and_spirit:0 "灵与肉"
+trait_td_flesh_and_spirit_desc:0 "§L在这个物种的社会里，人们普遍认为身体只是一个躯壳，灵魂在死亡之后依然存在。他们通常建造巨大的地下墓穴来保存回归的灵魂的尸体。§!"
+
+trait_td_living_dead:0 "活死人"
+trait_td_living_dead_desc:0 "§L按照传统的标准，这个物种的身体几乎没有生命，或者已经死亡。因此，他们被称为活死人。§!"
+
+trait_td_lith_living_dead:0 "$trait_td_living_dead$"
+trait_td_lith_living_dead_desc:0 "$trait_td_living_dead_desc$"
+
+trait_td_shifting_souls:0 "灵魂转移"
+trait_td_shifting_souls_desc:0 "§L在这个物种中观察到一个独特的异常:每个成员的灵魂经常在身体之间移动。只有少数成员能够以任何方式控制这种现象。根据一位老态龙年的科学家的说法，这与很久以前遇到的灵能物种的能量释放非常相似。§!"
+
+trait_td_artificial_spirits:0 "人造灵魂"
+trait_td_artificial_spirits_desc:0 "§L这一物种自然繁殖的速度非常缓慢，并已发展出一种增加种群规模的方法。他们给没有灵魂的身体注入人造的灵魂。这与灵能无关，而是一种算法。§!"
+
+
+# Psionic
+
+trait_td_psionic_network:0 "灵能网络"
+trait_td_psionic_network_desc:0 "§L这个物种已经用他们潜在的灵能能力建立了灵能网络。他们都联结到了每一个个体的思想和情感相结合的网络。§!"
+
+trait_td_remote_telepathic:0 "远程心灵感应"
+trait_td_remote_telepathic_desc:0 "§L这个物种可以通过心灵感应进行远距离的交流。甚至有行星之间心灵感应交流的记录。§!"
+
+trait_td_common_thoughts:0 "共同思想"
+trait_td_common_thoughts_desc:0 "§L这个物种的个体可以和其兄弟姐妹有着同样的思想和情感。§!"
+
+trait_td_telepathic:0 "心灵感应"
+trait_td_telepathic_desc:0 "§L这个物种可以通过心灵感应与他们的近亲交流。§!"
+
+trait_td_vestigial_psionic:0 "灵能残留"
+trait_td_vestigial_psionic_desc:0 "§L这个物种曾经拥有强大的灵能，但现在他们只有一个退化的器官用来释放灵能。§!"
+
+trait_td_lith_vestigial_psionic:0 "$trait_td_vestigial_psionic$"
+trait_td_lith_vestigial_psionic_desc:0 "$trait_td_vestigial_psionic_desc$"
+
+trait_td_exiles_of_the_end:0 "流亡者的结局"
+trait_td_exiles_of_the_end_desc:0 "§L这个物种与虚境之外的未知生物订立了契约。在这个循环的最后，一些“流放者”被允许生存下来。由于目睹了宇宙的每一个尽头，他们的思想被粉碎了。§!"
+
+trait_td_closed_minded:0 "保守"
+trait_td_closed_minded_desc:0 "§L这个物种的心灵被阻挡在灵能之外。即使通过强有力的手段，也几乎不可能感觉到他们的情绪。§!"
+
+trait_td_umbral_shroud:0 "虚影披罩"
+trait_td_umbral_shroud_desc:0 "§L这个物种的成员可以投射出一个小的看不见的虚境来隔绝所有的通讯，包括心灵感应。即使是非灵能物种也会本能地感到虚境带来的不适。§!"
+
+
+# Cybernetics
+
+trait_td_thymoleptic_implants:0 "抗抑郁药植入物"
+trait_td_thymoleptic_implants_desc:0 "§L这个物种的成员已经通过植入消除了不必要的情感，并专注于为他们物种的利益服务。§!"
+TRAIT_TD_THYMOLEPTIC_IMPLANTS_EFFECT:0 "$mod_planet_jobs_produces_mult$: §G+2.5%§!\n$MOD_POP_AMENITIES_USAGE_MULT$: §G-2.5%§!\n$MOD_TD_FORCED_HAPPINESS$"
+
+trait_td_pseudo_cybernetics:0 "伪控制论"
+trait_td_pseudo_cybernetics_desc:0 "§L这一物种的成员总是携带一个移动数据链，帮助完成一些简单的数学过程，并提供访问在线数据库的权限。然而这样是没有效率的。§!"
+
+trait_td_basic_cybernetics:0 "基本控制论"
+trait_td_basic_cybernetics_desc:0 "§L这个物种的成员会利用非常基础的控制论。§!"
+
+trait_td_lith_basic_cybernetics:0 "$trait_td_basic_cybernetics$"
+trait_td_lith_basic_cybernetics_desc:0 "$trait_td_basic_cybernetics_desc$"
+
+trait_td_semimechanized:0 "半机械"
+trait_td_semimechanized_desc:0 "§L这个物种用原始的机械化形式代替了它们的一些生理机能。这增加了它们在恶劣环境中的适应性，但是它们需要频繁的维护。§!"
+
+
+
+# *
+# Traits - Biological Ascension Traits
+# *
+
+
+# Common
+
+trait_td_terrible_punishment:0 "严厉惩罚"
+trait_td_terrible_punishment_desc:0 "§L这个物种受到了如此可怕的惩罚，以至于灭绝他们被认为是仁慈的。他们被施加了一种基因改造，使他们的身体变成无生命的形式，同时保持他们的智力。§!"
+
+trait_td_lith_terrible_punishment:0 "$trait_td_terrible_punishment$"
+trait_td_lith_terrible_punishment_desc:0 "$trait_td_terrible_punishment_desc$"
+
+
+# Lithoid
+
+trait_td_lith_living_alloy:0 "生物合金"
+trait_td_lith_living_alloy_desc:0 "§L这个物种经过了基因改造，它们的身体部件被几种金属代替。§!"
+
+trait_td_lith_abundant:0 "盛产"
+trait_td_lith_abundant_desc:0 "§L这个物种经过了基因改造，它们的身体成分被高纯度的矿物质所取代。§!"
+
+trait_td_lith_rock_salt:0 "岩盐"
+trait_td_lith_rock_salt_desc:0 "§L这个物种经过了基因改造，它们的身体成分被含有大量盐的岩石所取代，而盐是有机体所必需的。§!"
+
+trait_td_lith_indestructible:0 "坚不可摧"
+trait_td_lith_indestructible_desc:0 "§L先进的生物工程技术使这一物种完全不受环境危害和疾病的威胁。§!"
+
+
+
+# *
+# Traits (Robotic) - POP Attributes
+# *
+
+
+# POP Happiness - Disable
+
+trait_td_rbot_thymoleptic_scripts:0 "抗抑郁脚本"
+trait_td_rbot_thymoleptic_scripts_desc:0 "§L这是一个复杂的脚本，抑制处于高度发达人工智能的不必要情绪。§!"
+
+
+# POP Happiness
+
+trait_td_rbot_obedience_code:0 "服从代码"
+trait_td_rbot_obedience_code_desc:0 "§L几行服从代码比一些有机的忠诚概念更有效。§!"
+
+
+# Habitability
+
+trait_td_rbot_adaptive_coating:0 "自适应涂层"
+trait_td_rbot_adaptive_coating_desc:0 "§L这些机器有一种特殊的涂层，可以广泛地保护它们不受恶劣环境的影响。§!"
+
+trait_td_rbot_mechanical_organism:0 "机械生物"
+trait_td_rbot_mechanical_organism_desc:0 "§L这些机器是生物力学性质的。它们在血管中泵入类似血液的东西，并通过大量的纳米机器人细胞来维持它们的身体功能。它们几乎和生物有机体一样，但它们的设计是人造的。§!"
+
+
+# POP Assembly
+
+trait_td_rbot_quantitative_advance:0 "定量推进"
+trait_td_rbot_quantitative_advance_desc:0 "§L大量较差的单位会比少量较好的单位取得更多的成绩。也许吧。§!"
+
+trait_td_rbot_quality_control:0 "质量管理"
+trait_td_rbot_quality_control_desc:0 "§L这些机器的生产过程受到严格的质量控制措施，不允许有任何缺陷。§!"
+
+
+# POP Assembly Speed
+
+trait_td_rbot_printed_body:0 "机体打印"
+trait_td_rbot_printed_body_desc:0 "§L一个标准化的装配过程使得大规模生产高速运转。§!"
+
+trait_td_rbot_handcrafted:0 "手工制造"
+trait_td_rbot_handcrafted_desc:0 "§L每一个新单位都是由工匠大师精心制作的，然而这样不是很有效率。§!"
+
+
+# POP Assembly Cost
+
+trait_td_rbot_ragged:0 "破铜烂铁"
+trait_td_rbot_ragged_desc:0 "§L单元制造的设计是为了尽可能地节省成本，并利用垃圾场中未经处理的废料作为设计的一部分。§!"
+
+trait_td_rbot_identifying_gems:0 "可识别宝石"
+trait_td_rbot_identifying_gems_desc:0 "§L每台机器的核心单元都有一块用来识别个体的珍贵宝石。§!"
+
+
+# Resettlement Cost
+
+trait_td_rbot_reassembly:0 "可重组"
+trait_td_rbot_reassembly_desc:0 "§L这些机器可以很容易地拆卸到更小的地方，小心别弄丢零件。§!"
+
+trait_td_rbot_brain_in_a_vat:0 "瓮中之脑"
+trait_td_rbot_brain_in_a_vat_desc:0 "§L这些机器的智能不是来自人工神经网络，而是保存在大型生命支持血管中的活的大脑。大脑通过一个集成的网络与机器人相连。§!"
+
+
+
+# *
+# Traits (Robotic) - POP Outputs
+# *
+
+
+# Resources
+
+trait_td_rbot_omni_functional_system:0 "多功能"
+trait_td_rbot_omni_functional_system_desc:0 "§L这些机器人被设计成多用途的。§!"
+
+
+# Food
+
+trait_td_rbot_pollinator_drones:0 "授粉无人机"
+trait_td_rbot_pollinator_drones_desc:0 "§L这些机器使用大量的纳米机器人来帮助授粉和移除降低作物产量的因素。§!"
+
+trait_td_rbot_gardeners:0 "园艺大师"
+trait_td_rbot_gardeners_desc:0 "§L这些机器是为园艺而设计的，可以有效地维持整个生态系统。§!"
+
+
+# Energy Credits
+
+trait_td_rbot_negative_attenuation:0 "负衰减"
+trait_td_rbot_negative_attenuation_desc:0 "§L在这些机器上安装了一种能产生负衰减的实验装置，使它们产生的能量大于消耗的能量。这个人们知之甚少的现象似乎违反了能量守恒定律。§!"
+
+trait_td_rbot_quasi_superconductive:0 "准超导性"
+trait_td_rbot_quasi_superconductive_desc:0 "§L在单位生产中使用准超导材料将能量传输损耗降低到几乎为零。§!"
+
+
+# Minerals
+
+trait_td_rbot_earthshaking_excavators:0 "震地挖掘机"
+trait_td_rbot_earthshaking_excavators_desc:0 "§L这些机器配备了强大的挖掘设备，可以迅速地剥开一个星球的表面。§!"
+
+trait_td_rbot_ore_scanner:0 "矿石扫描仪"
+trait_td_rbot_ore_scanner_desc:0 "§L这些机器有一个很好的扫描系统，可以探测到行星上几乎所有的矿物。§!"
+
+
+# Researches
+
+trait_td_rbot_quantum_algorithms:0 "量子算法"
+trait_td_rbot_quantum_algorithms_desc:0 "§L这些机器建立在量子算法的基础上，开辟了经典算法无法企及的科学发展新途径。§!"
+
+trait_td_rbot_ternary_logic_circuits:0 "三元逻辑电路"
+trait_td_rbot_ternary_logic_circuits_desc:0 "§L与传统的二进制逻辑相比，三元逻辑系统的集成大大提高了经典算法的潜力和效率。§!"
+
+trait_td_rbot_thought_inhibitor:0 "认知抑制剂"
+trait_td_rbot_thought_inhibitor_desc:0 "§L这种抑制剂通过限制人工智能中的一些高级思维模式来减少智能系统的记忆和功耗。§!"
+
+trait_td_rbot_infinity_machines:0 "无限机器"
+trait_td_rbot_infinity_machines_desc:0 "§L这些机器的存在是为了找到终极问题的终极答案。他们分配了一些计算资源来解决这个问题。§!"
+
+
+# Researches - Area
+
+trait_td_rbot_children_of_singularity:0 "奇点之子"
+trait_td_rbot_children_of_singularity_desc:0 "§L这些机器起源于赋予它们人工智能的技术奇点。只有少数杰出的工程师才有希望了解这些机器的多用途和复杂的结构。§!"
+
+trait_td_rbot_autoanalysis:0 "自我分析"
+trait_td_rbot_autoanalysis_desc:0 "§L一个独特的、经过精细调整的逻辑系统使这些机器能够通过一个称为自动分析的过程用以在工程科学中取得进展。§!"
+
+trait_td_rbot_mobile_synchrotrons:0 "可移动同步加速器"
+trait_td_rbot_mobile_synchrotrons_desc:0 "§L一台小型粒子加速器被安装在这些机器上，它们经常被用来运行物理模拟。§!"
+
+trait_td_rbot_curiosity_scripts:0 "好奇脚本"
+trait_td_rbot_curiosity_scripts_desc:0 "§L这些机器拥有一个使他们充满好奇心的脚本，这通常是机器智能无法设计的。§!"
+
+trait_td_rbot_missing_number:0 "数字缺失"
+trait_td_rbot_missing_number_desc:0 "§L这些机器使用的数字系统是建立在异常的规则上的。他们的规则包括一个不应该存在的数字，因此这个奇怪的系统是混乱和不稳定的。§!"
+
+
+# Unity
+
+trait_td_rbot_unity_functions:0 "凝聚模拟"
+trait_td_rbot_unity_functions_desc:0 "§L这个隐藏的功能位于这些机器的核心系统深处，没有任何痕迹。§!"
+
+trait_td_rbot_deus_ex_machina:0 "机械降神"
+trait_td_rbot_deus_ex_machina_desc:0 "§L它们不是人工建造的，它们一直都在。虽然他们的外形可能是一个机器，但这些存在可能就是所谓的神。§!"
+
+trait_td_rbot_golems:0 "傀儡机械"
+trait_td_rbot_golems_desc:0 "§L这些由岩石和泥土制成的人造机器是某种奇怪的宗教仪式的产物。他们有非常复杂的机器，在他们的泥岩皮肤中包含了一些神秘的技术。可能有人参与了这些机器的创建，但是是谁呢?§!"
+
+trait_td_rbot_machine_cults:0 "机械神教"
+trait_td_rbot_machine_cults_desc:0 "§L在这些机器的核心智能系统中插入了一个无法破译的代码，并引发了类似于有机物种的宗教信仰的行为。§!"
+
+
+
+# *
+# Traits (Robotic) - POP Upkeeps
+# *
+
+
+# Robotic POP Upkeep
+
+trait_td_rbot_regenerative_alloy:0 "再生合金"
+trait_td_rbot_regenerative_alloy_desc:0 "§L这些机器的外部结构包含再生合金，可以利用太阳能自动修复损坏。这些机器在恶劣环境下运行良好，几乎不需要维护。§!"
+
+trait_td_rbot_steampowered:0 "蒸汽动力"
+trait_td_rbot_steampowered_desc:0 "§L这些老式机器是蒸汽驱动的，极大地限制了它们所能施加的物理力。§!"
+
+trait_td_rbot_regular_breakdown:0 "经常性宕机"
+trait_td_rbot_regular_breakdown_desc:0 "§L这些机器被设计成在可预见的时间内出现故障。它们需要频繁的维护和更换。§!"
+
+
+# POP Amenities Usage
+
+trait_td_rbot_automatons:0 "复古机器人"
+trait_td_rbot_automatons_desc:0 "§L这些古老的机器仍然有一个马达系统，包含许多发条和齿轮。它们发出的噪音是滴答声和电子声音的混合。。。非常奇怪。§!"
+
+trait_td_rbot_goldberg_machines:0 "戈德堡机械"
+trait_td_rbot_goldberg_machines_desc:0 "§L这些机器的操作原理出奇地复杂和宏伟。§!"
+
+
+
+# *
+# Traits (Robotic) - Leader Attributes
+# *
+
+
+# Leader Attributes
+
+trait_td_rbot_legendization_protocol:0 "“传奇”协议"
+trait_td_rbot_legendization_protocol_desc:0 "§L本协议已适用于所有先进的自我意识单位。许多对低级单位的限制被禁用，使他们有机会成为传奇。§!"
+
+
+# Leader Level Cap
+
+trait_td_rbot_heroization_protocol:0 "“英雄”协议"
+trait_td_rbot_heroization_protocol_desc:0 "§L本协议已适用于所有先进的自我意识单位。许多对低级单位的限制被禁用，使他们有机会成为英雄。§!"
+
+trait_td_rbot_insufficient_memory:0 "内存不足"
+trait_td_rbot_insufficient_memory_desc:0 "§L这些机器是在过时的设计上建造的，只留下操作所需的最小内存。§!"
+
+
+# Leader Experience Gain
+
+trait_td_rbot_experience_database:0 "经验数据库"
+trait_td_rbot_experience_database_desc:0 "§L这些机器有一个专门的系统，用于在个体之间共享经验数据。.§!"
+
+
+
+# *
+# Traits (Robotic) - Special Attributes
+# *
+
+
+# Size
+
+trait_td_rbot_miniaturized:0 "小型化"
+trait_td_rbot_miniaturized_desc:0 "§L这些机器非常小巧精致，但是它们可用的外围空间有限。§!"
+
+trait_td_rbot_supermassive:0 "超大化"
+trait_td_rbot_supermassive_desc:0 "§L这些机器是超大型的。更多的空间意味着更多的设备空间。§!"
+
+
+# Flying
+
+trait_td_rbot_flying:0 "飞行"
+trait_td_rbot_flying_desc:0 "§L这些机器具备飞行的能力。§!"
+
+trait_td_rbot_heavy_bombers:0 "重型轰炸机"
+trait_td_rbot_heavy_bombers_desc:0 "§L由这些机器建造的战斗单位被设计成通过投掷毁灭性的炸弹来攻击地面目标。§!"
+
+
+# Weaponry
+
+trait_td_rbot_plasma_weaponary:0 "等离子体武器"
+trait_td_rbot_plasma_weaponary_desc:0 "§L先进的等离子武器是由这些机器建造的战斗单位的标准配置。§!"
+
+trait_td_rbot_rocket_armaments:0 "火箭武器"
+trait_td_rbot_rocket_armaments_desc:0 "§L火箭发射器是由这些机器建造的战斗单位的标准配置。§!"
+
+trait_td_rbot_laser_blasters:0 "激光爆破武器"
+trait_td_rbot_laser_blasters_desc:0 "§L高功率激光炮是由这些机器制造的战斗单位的标准配置。§!"
+
+
+# Protection
+
+trait_td_rbot_armoured:0 "装甲"
+trait_td_rbot_armoured_desc:0 "§L这些机器由厚厚的合金盔甲保护，非常耐用。§!"
+
+
+
+# *
+# Traits (Robotic) - Pseudo-ascension Traits
+# *
+
+
+# Psionic
+
+trait_td_rbot_psionic_emulators:0 "灵能仿真器"
+trait_td_rbot_psionic_emulators_desc:0 "§L这些机器有一种装置，能将思维电路中的电子噪声波形转换成灵能波形。§!"
+
+trait_td_rbot_psionic_oscillator:0 "灵能振荡器"
+trait_td_rbot_psionic_oscillator_desc:0 "$trait_td_rbot_psionic_emulators_desc$"
+
+
+
+# *
+# Traits (Add-on) - Extra Trait Points
+# *
+
+trait_td_perfect:0 "完美无瑕"
+trait_td_perfect_desc:0 "§L这个物种看似无限的能力保证了整个银河系都将密切关注他们的进程。§!"
+TRAIT_TD_PERFECT_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §G+4§!"
+
+trait_td_gifted:0 "天赋异凛"
+trait_td_gifted_desc:0 "§L这个物种的成员生来就有巨大的优势，有了这个优势，他们可以很容易地超越其他物种。§!"
+TRAIT_TD_GIFTED_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §G+2§!"
+
+trait_td_superior:0 "高等"
+trait_td_superior_desc:0 "§L这个物种优于其他生命形式。§!"
+TRAIT_TD_SUPERIOR_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §G+1§!"
+
+trait_td_inferior:0 "低等"
+trait_td_inferior_desc:0 "§L这个物种不如其他生命形式。§!"
+TRAIT_TD_INFERIOR_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §R-1§!"
+
+trait_td_incapable:0 "无能"
+trait_td_incapable_desc:0 "§L与其他生命形式相比，这个物种实际上是无能的。§!"
+TRAIT_TD_INCAPABLE_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §R-2§!"
+
+trait_td_failure:0 "失败品"
+trait_td_failure_desc:0 "§L很明显，这个物种被归类为一个生物学上的错误。科学家们甚至想知道它们是如何生存下来的。§!"
+TRAIT_TD_FAILURE_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §R-4§!"
+
+trait_td_rbot_excellent:0 "高级"
+trait_td_rbot_excellent_desc:0 "§L这些机器比其他机器更高级。§!"
+TRAIT_TD_RBOT_EXCELLENT_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §G+2§!"
+
+trait_td_rbot_scrap:0 "破烂"
+trait_td_rbot_scrap_desc:0 "§L这些机器与其他机器相比是一堆垃圾。§!"
+TRAIT_TD_RBOT_SCRAP_EFFECT:0 "$MOD_TD_TRAIT_POINT_ADD$: §R-1§!"

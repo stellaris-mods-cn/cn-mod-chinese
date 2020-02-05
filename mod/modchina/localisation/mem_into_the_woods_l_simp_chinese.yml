@@ -1,0 +1,35 @@
+﻿# Into the Woods
+# By ViolentBeetle
+
+l_simp_chinese:
+
+ mem_into_the_woods_beacon: "检疫灯塔"
+ mem_into_the_woods_beacon_desc: "环绕星球运行的卫星传送简单而清晰的信息: §S\"不要着陆。极端危险。\"§!"
+
+ mem_into_the_woods_dig_site: "进入森林"
+ mem_into_the_woods_dig_site_desc: "几颗卫星仍在轨道上，广播警告所有经过的飞船不要在星球上着陆。 \n\n在这个星球的森林地区，到处都可以看到被毁坏的建筑物。大自然很努力地想要收回它们，但还没有完全成功。在那里没有发现先进的生命形式 - 建造这些城市的人不是离开了就是灭绝了。"
+ mem_into_the_woods.1.name: "克泽尔殖民地"
+ mem_into_the_woods.1.desc: "来自[From.Planet.GetName]挖掘现场的第一批结果已经出来了。看来[From.Planet.GetPlanetMoon]是被一种叫做§S克泽尔§!的爬行动物占领了!它们在1000年前活跃在这片区域。\n\n殖民地本身正处于发展的初期，由于未知原因突然被放弃。没有证据表明任何攻击或灾难,就好像有一天,克泽尔殖民地崩溃毫无理由。"
+ mem_into_the_woods.2.name: "影响研究"
+ mem_into_the_woods.2.desc: "[Leader.GetName]已经定位了一个完整的数据核，并且能够恢复克泽尔殖民初期对[From.Planet.GetName]的报告。 \n\n克泽尔科学家们一直在追踪建筑、土地清理和引进本土植物对环境的影响。他们所造成的影响似乎远远超出了他们的预期，一些像 \"波伊德\" 和 \"肺甲虫\" 这样的物种已经灭绝了。"
+ mem_into_the_woods.3.name: "医疗设施"
+ mem_into_the_woods.3.desc: "我们对[From.Planet.GetName]的考察发现了一些殖民城镇的医疗设施。从表面上看，克泽尔在殖民者的心理健康方面有很大的问题。[Leader.GetName]报告了大量关于特发性幻觉、妄想和精神崩溃的记录，而这些都是克泽尔科学无法解释的。殖民者在身体上似乎没有任何问题，但他们中有四分之一的人在某种程度上受到折磨，威胁着殖民地的运转。"
+ mem_into_the_woods.4.name: "疯狂"
+ mem_into_the_woods.4.desc: "经过对[From.Planet.GetName]上克泽尔殖民地遗址的广泛调查，似乎大多数殖民者都死于MOSS精神病。他们没有逃离这个星球，宣布它是一个隔离区，仍然不知道原因，留下疯狂的疯子挨饿或互相残杀。\n\n那些留下来的人忙于自残和自相残杀，没有时间好好记录任何东西，尽管有些人留下了半连贯的录音，在墙上乱写乱画，谈论着一种叫做“旧之繁茂”的东西!并赞美它的威严。不幸的是，没有迹象表明旧之繁茂可能是什么，尽管继续探索可能会给它带来一些启示。"
+ mem_into_the_woods.4.a: "我们得查出是什么。"
+ mem_into_the_woods.5.name: "旧之繁茂"
+ mem_into_the_woods.5.desc: "[Leader.GetName]报告成功地弄清楚了驱使克泽尔殖民者对[From.Planet.GetName]发疯的神秘古老的生长物 - §S旧之繁茂§!，并且确实发现了它的遗骸。[From.Planet.GetPlanetMoon]曾经被一种单一的真菌类超级生物侵染，这种超级生物渗透了它的大部分植被，延伸到所有青翠的陆地，通过延伸到海底的卷须把它们连接起来。自然神经网络具有某种意识，并通过尚未完全理解的过程与其他生命形式共生交换数据。尽管它的基因组成表明它最初并不是在[From.Planet.GetName]进化而来的，但它已经花了数百万年的时间来维持与当地生命的共生关系。 \n\n当克泽尔殖民者到达的时候，他们不小心破坏了生态系统，导致一些最敏感的适应了古老生长的生物灭绝。反过来，旧之繁茂把注意力转移到新来的生物身上，试图把积累的知识转移给它们，但由于某种原因，克泽尔生物不像原生生物那样善于接受。一个千年菌类的混乱思想的干扰逐渐把他们逼疯了，导致殖民地的崩溃。 \n\n§旧之繁茂§!独特的生物神经网络没有忘记任何事情的能力，除非首先把它转移到其他地方，而且需要合适的意识来卸载多余的思想和知识。如此下来，它将变得不堪重负，变得病态。它的卷须枯萎死亡，而存活下来的是赤道附近相对较小(但与大多数行星系生物相比仍然很大)的生物量。[Leader.GetName]相信它可以被安全地保护和培育，使其恢复健康，这样它就可以被操纵，安全地与我们的人民交换信息。或者我们可以一劳永逸地消灭它。"
+ mem_into_the_woods.5.a: "它的知识可以为我们服务。"
+ mem_into_the_woods.5.b: "这样博大而古老的智慧是不允许灭亡的!"
+ mem_into_the_woods.5.c: "新宠物!如此巨大!如此柔软可爱!"
+ mem_into_the_woods.5.d: "这种存在太危险了。"
+ mem_into_the_woods.5.e: "不能让它玷污我们的纯洁"
+ mem_into_the_woods.5.f: "我们将尽情享受这难得的款待!"
+ mem_into_the_woods.5.g: "一切有思想的有机物都必须消灭。"
+  
+ d_mem_into_the_woods_ruins: "堕落殖民地"
+ d_mem_into_the_woods_ruins_desc: "这个星球上到处都是被遗弃的古代殖民地遗迹。在任何人可以安全地在里面工作之前，它们需要被探索。"
+ mem_into_the_woods_cant_clear_ruin: "完成挖掘地点来清除这个地块障碍"
+ d_mem_into_the_woods_old_growth: "旧之繁茂"
+ d_mem_into_the_woods_old_growth_desc: "千年之久的有知觉的真菌。无论如何，它还剩下什么。那些花时间接近它的人充满了古老的知识。 \n\n在这个星球上维持一个殖民地将允许我们的一些§S领袖§!在被招募时有§Y额外的特质§!"
+ mem_into_the_woods_cant_clear_old_growth: "旧之繁茂是明智的和古老的。旧之繁茂不能被移除。"

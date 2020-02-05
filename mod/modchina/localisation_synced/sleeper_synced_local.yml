@@ -1,0 +1,24 @@
+﻿l_simp_chinese:
+ 
+#planets
+NAME_the_thinkery:0 "思想"
+NAME_the_farms:0 "农场"
+NAME_the_annex:0 "合并区"
+ 
+#ships
+NAME_Integrator:0 "整合之人"
+NAME_Mothership:0 "母舰"
+NAME_Carrier:0 "航母"
+NAME_Fighter_Drone:0 "战斗工蜂"
+NAME_Eye:0 "眼"
+NAME_Construction_drone:0 "建造工蜂"
+NAME_Expansionist:0 "扩张工蜂"
+NAME_drone_starbase:0 "临时恒星基地"
+NAME_damaged_patrol_ship:0 "受损的巡逻船"
+NAME_Rushed_Fighter_Drone:0 "冲锋战斗工蜂"
+NAME_Makeshift_Escort:0 "护航舰"
+NAME_Makeshift_Sleeper_Cruiser:0 "巡洋舰"
+NAME_Decrepit_Mothership:0 "破旧的母舰"
+
+
+

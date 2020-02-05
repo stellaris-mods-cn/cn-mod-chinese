@@ -8,7 +8,7 @@
  apsr19_planet_modifier_desc:0 "这个星球是一个古老文明的食品工厂。不幸的是，它被破坏了很长一段时间，但它可以恢复"
  
  apsr19_deposit:0 "$apsr19_planet_modifier$"
- apsr19_deposit_desc:0 "$apsr19_planet_modifier_desc$\n\n§M$apsr19_deposit_effect$§!" 
+ apsr19_deposit_desc:0 "$apsr19_planet_modifier_desc$\n\n§M$apsr19_deposit_effect$§!"
  apsr19_deposit_effect:0 "独特的资源可用: $apsr19_planet_modifier$"
  
  
@@ -129,7 +129,7 @@
  apsr.19006.title:0 "$apsr19_building_part_m3$ 建成"
  apsr.19006.desc:0 "我们部分恢复了§Y修复后的远古食物复合体§!并且获得了古人能量学的力量!"
  apsr.19006.ok-button:0 "很好"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -173,7 +173,7 @@
  apsr.19013.title:0 "发现一个人造物: §M$apsr19_planet_modifier$§!"
  apsr.19013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西! \n这个星球是一个古老文明的食品工厂。不幸的是，它已经被破坏了很长一段时间，但它可以恢复"
  apsr.19013.button:1 "很好!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -229,6 +229,18 @@
  job_apsr19_power_engineer_machine_plural:0 "动力单元"
  job_apsr19_power_engineer_machine_desc:0 "这个单元模型有一个改进的自主AI，它的主要任务是监控设备的运行，普通技术单元的工作，以及能源生产过程的优化"
  mod_job_apsr19_power_engineer_machine_add:0 "动力单元"
+   
+ apsr19_planet_power_engineer_lithoid_normal:0 "电力工程师"
+ job_apsr19_power_engineer_lithoid_normal:0 "电力工程师"
+ job_apsr19_power_engineer_lithoid_normal_plural:0 "电力工程师"
+ job_apsr19_power_engineer_lithoid_normal_desc:0 "电力工程师的职责包括全面控制现场能源生产，优化生产和消耗过程，跟踪网络负荷峰值"
+ mod_job_apsr19_power_engineer_lithoid_normal_add:0 "电力工程师"
+   
+ apsr19_planet_power_engineer_lithoid_hive:0 "电力单元"
+ job_apsr19_power_engineer_lithoid_hive:0 "电力单元"
+ job_apsr19_power_engineer_lithoid_hive_plural:0 "电力单元"
+ job_apsr19_power_engineer_lithoid_hive_desc:0 "单元监控目标的运行，提供稳定不间断的运行。"
+ mod_job_apsr19_power_engineer_lithoid_hive_add:0 "电力单元"
  
  
  

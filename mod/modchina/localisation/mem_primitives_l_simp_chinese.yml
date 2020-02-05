@@ -103,7 +103,7 @@ l_simp_chinese:
  #Fall of Rome
  
  mem_primitives.801.name:0 "[the_planet.GetName]: 帝国的灭亡"
- mem_primitives.801.desc:0 "我们在§Y[the_planet.GetName]§!的观测者报告称[From.GetSpeciesAdj]文明被一个大帝国统治了近千年。它的领土覆盖了该星球五分之一以上的可居住地表，在巅峰时期占有所有[From.GetSpeciesNamePlural]人口的快三分之一，长期是学习和文化的中心。大量的城市林立，不断有科技被发现，繁荣度一直突破新高。\n\n然而，在过去的五十年里，帝国似乎逐渐衰弱了。内部的冲突和新近崛起的外敌However, over the past fifty years, it seems that the empire has weakened. A combination of internal strife and newly-ascendant external enemies seeking a part of their wealth have laid the empire low. Recently, a large force of what the [From.GetSpeciesAdj] intelligentsia consider "barbarians" penetrated into the heart of the empire and sacked the capital city before rampaging across the imperial heartlands, looting without restraint.\n\nAlthough the barbarians later retreated, we do not believe the empire will survive for long. This could set the [From.GetSpeciesNamePlural] back considerably."
+ mem_primitives.801.desc:0 "我们在§Y[the_planet.GetName]§!上的观察哨报告说，近千年来，[From.GetSpeciesAdj]文明一直被一个大帝国所统治。它的国土面积占世界可居住面积的五分之一以上，其高度几乎占全球[From.GetSpeciesNamePlural]总量的三分之一，是一个学习和文化的中心。工业革命已经建立，技术被发现，繁荣达到了新的水平。\n\n然而，在过去的五十年里，帝国似乎已经衰弱。内乱和新崛起的外敌想要攫取部分财富，这两种因素结合在一起，把帝国拖垮了。最近，一大批被[From.GetSpeciesAdj]知识分子视为“野蛮人”的势力渗透到了帝国的心脏地带，洗劫了首都，然后在帝国的心脏地带肆意抢劫。\n\n虽然蛮族后来撤退了，但我们不相信帝国能长久存在。这可能会使[From.GetSpeciesNamePlural]大幅倒退。"
  mem_primitives.801a:0 "太糟糕了。"
  mem_primitives.801a.materialist:0 "进步的过程总是颠簸的。"
  mem_primitives.801a.sphobe:0 "谁管他啊？"

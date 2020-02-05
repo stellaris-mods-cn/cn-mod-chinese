@@ -26,7 +26,7 @@ revolutionary_mobilisation_0_5_desc:0 "$revolutionary_mobilisation_desc$"
 cc_events_mod.57.name:0 "新锐企业强势崛起"
 cc_events_mod.57.desc:0 "[dpe_merchant_planet.GetName]上一家私人商业公司正在你的人民中越来越受欢迎。这家公司的科学家研发出了现代计算科学的数种独创应用，使得直到不久之前对于普罗大众来说都难以企及的狂野梦想得以实现！公司CEO[dpe_CEO.GetName]迅速成为了[root.GetName]最富有的人之一。[dpe_CEO.GetSheHeCap]已为自己的产品申请了专利，以确保其优势地位。"
 
-cc_events_mod.57.A:0 "[dpe_CEO.GetSheHeCap]会得到专利的"
+cc_events_mod.57.A:0 "[dpe_CEO.GetSheHeCap]将拥有[dpe_CEO.GetHisHer]专利。"
 cc_events_mod.57.B:0 "将相关研究查封——它对国家利益至关重要"
 cc_events_mod.57.C:0 "否决专利申请，鼓励竞争"
 
@@ -108,7 +108,7 @@ dpe_smallpos_events.14.name:0 "天才舰队军官崭露头角"
 dpe_smallpos_events.14.desc:0 "[dpe_talent_leader.GetName]是一位负责驻守[dpe_talent_starport_system.GetName]恒星基地的舰队军官，[dpe_talent_leader.GetHisHer]领导能力令来访的[root.GetSpeciesAdj]舰队官员如此印象深刻，他们直接建议将[dpe_talent_leader.GetSheHe]提升为帝国舰队司令。"
 dpe_smallpos_events.14.A:0 "提拔[dpe_talent_leader.GetHimHer]"
 dpe_smallpos_events.14.A.tooltip:0 "[dpe_talent_leader.GetName]是一位3级司令，拥有特性$leader_trait_dpe_talented$及$leader_trait_aggressive$，现将加入领袖库。"
-dpe_smallpos_events.14.B:0 "[dpe_talent_leader.GetSheHeCap]在现在的职位更能发挥价值"
+dpe_smallpos_events.14.B:0 "[dpe_talent_leader.GetSheHeCap]在现在的岗位更能发挥价值"
 
 dpe_starbase_talented_admiral:0 "天才舰队军官"
 dpe_starbase_talented_admiral_desc:0 "这处星港因一位杰出舰队军官的领导而受益"

@@ -72,31 +72,107 @@
  ####################################
  # Loop Buildings
  ####################################
+  
+ d_developed_world:0 "发达世界"
+ d_developed_world_desc:0 "这个世界是由曾经生活在这里的人开发和准备的，还是为他们身后的人准备的..."
+ d_awaiting_world:0 "等待的世界"
+ d_awaiting_world_desc:0 "这个世界早已期待着我们到达星辰的那一天，并为我们将会发生的事情做好了准备。"
  
- building_loop_power:0 "循环发电厂"
- building_loop_power_desc:0 "这座建筑的几何设计非常奇怪，它产生的能量超过了它应该创造的能量。基于自包含的环形馈电异常(在其几何形状中发生)来创建电力。"
- 
- building_loop_farm:0 "循环农场"
- building_loop_farm_desc:0 "粮食就如同风刮来的一样。"
-
- building_loop_mine:0 "循环矿场"
- building_loop_mine_desc:0 "狭窄的竖井盘绕着矿脉。" 
-
- building_akx_worm_4:0 "佯谬之窗"
- building_akx_worm_4_desc:0 "§L这个金字塔结构的建造是基于欧米茄校准的研究让我们可以看到自我循环的矛盾和交替的时间线，过去，现在，和未来让我们能够了解他们的成功和失败，过去与未来。§!"
- 
- ####################################
  # Enigmatic Buildings
+ building_knowlege_core:0 "神秘数据核心"
+ building_knowlege_core_desc:0 "§L这种方尖塔状结构隐藏了一个非常用户友好的数据核心。它掌握着一些知识，这些知识将教会我们的科学家一些老一辈人认为已经丢失的秘密。§!"
+ building_engt_agri_processing_complex:0 "神秘食物复制器"
+ building_engt_agri_processing_complex_desc:0 "在这个综合体中创造的食物是由能量复制而来的，虽然不像正常生长的食物那么美味，但这个综合体本身能够养活很多人。"
+ building_enimatic_power_plant:0 "神秘暗物质发电厂"
+ building_enimatic_power_plant_desc:0 "§L这座发电厂是由暗物质提供动力的，但对许多人来说，暗物质意味着神秘。§!"
+ building_eng_nano_forge:0 "神秘锻造厂"
+ building_eng_nano_forge_desc:0 "§L这些自动化的锻造厂无需大量的人力就能把原料变成合金。§!"
+ building_enigmatic_factory:0 "神秘复制厂"
+ building_enigmatic_factory_desc:0 "§L这些设施能够将能量转化为物质，以满足我们对原始资源的需求。§!"
+ building_eng_affluence_center:0 "神秘豪华复制器"
+ building_eng_affluence_center_desc:0 "任何物质上的奢侈都可以在这里得到满足，也可以运到客户那里。幸福没有保证。"
+ 
+ # Cryptic Buildings
+ building_cryptic_factory:0 "神秘工厂" 
+ building_cryptic_factory_desc:0 "这些工厂能够把物质从一种元素转换成另一种元素，从而大大增加了原材料的产量"
+ building_cryptic_power_plant:0 "神秘发电厂"
+ building_cryptic_power_plant_desc:0 "使用不被充分理解的能源意味着这些发电厂会产生大量的电力"
+ building_cryptic_agri_processing_complex:0 "神秘农业复合体"
+ building_cryptic_agri_processing_complex_desc:0 "这些复合体能够制造出足够的食物来养活除了最大的行星之外的所有行星，这只是一个想象，我们可以用更多的来养活多少行星。"
+ building_cryptic_knowlege_core:0 "神秘知识核心"
+ building_cryptic_knowlege_core_desc:0 "升级的神秘核心，我们可以访问知识，使失落帝国看起来年轻…我们应该获得这项技术吗?"
+ building_cryptic_nano_forge:0 "神秘锻造厂"
+ building_cryptic_nano_forge_desc:0 "改进的自动化锻造厂，可以将更多的原材料转化为合金。"
+ building_cryptic_affluence_center:0 "神秘豪华复制器"
+ building_cryptic_affluence_center_desc:0 "更有效地为时尚大众大批量生产奢侈品。"
+ 
+ # Celestial Buildings
+ 
+ building_celestial_factory:0 "天界工厂"
+ building_celestial_factory_desc:0 "这家工厂有能力将能量转化为物质，从而生产出无穷无尽的物质。"
+ building_celestial_power_plant:0 "天界发电厂"
+ building_celestial_power_plant_desc:0 "这个发电厂能够产生零点能量，而不需要利用其他甚至我们自身维度的真空能量。"
+ building_celestial_agri_processing_complex:0 "天界农业复合体"
+ building_celestial_agri_processing_complex_desc:0 "这些复合体中的一个就可以养活我们两个最大的世界"
+ building_celestial_knowlege_core:0 "神圣数据核心"
+ building_celestial_knowlege_core_desc:0 "这么多数据这么多知识……天神是横越星系创造智慧生物的生物，既有有机的也有无机的…这些数据库被连成最好的数据库，连接到天神所称的整个造物，它还描述了一个被恐惧所保护的循环……"
+ building_celestial_nano_forge:0 "天界锻造厂"
+ building_celestial_nano_forge_desc:0 "已知最大的自动化合金生产手段。一个人的产出让最小的锻造世界蒙羞。"
+ building_celestial_affluence_center:0 "天界豪华复制厂"
+ building_celestial_affluence_center_desc:0 "效率如此之高，以至于仅生产一种奢侈品就能供应一小部分生态都市。"
+ 
+ # Loop
+ building_loop_power:0 "循环发电厂"
+ building_loop_power_desc:0 "这座建筑奇特的几何设计产生的能量远远超过了它应该创造的能量。基于发生在其几何形状内的自包含循环馈电异常创建电源"
+ building_loop_farm:0 "循环农场"
+ building_loop_farm_desc:0 "粮食作物不知何故都随风倾斜。"
+ building_loop_mine:0 "循环矿业"
+ building_loop_mine_desc:0 "窄轴缠绕着环形矿脉和其他需要的材料。" 
+ building_loop_matter_forge:0 "循环物质锻造厂"
+ building_loop_matter_forge_desc:0 "这些锻造与其说是锻造，不如说是一扇复杂的门，我们把未经提炼的材料扔进一个空间，这个空间把它们转变成合金，然后它就把它们喷出来……"
+ building_akx_worm_4:0 "悖论窗口"
+ building_akx_worm_4_desc:0 "§L这个金字塔结构建立在奥米加对齐研究的基础上，让我们看到过去、现在和未来种族的自我循环悖论和交替的时间线，让我们了解他们的失败和成功。§!"
+ building_loop_affluence_center:0 "循环财富中心"
+ building_loop_affluence_center_desc:0 "任何物质上的欲望都可以在这里得到满足，无论多么古怪。尽管如此，过道似乎是自动循环的。"
+ 
+ # Spiral Buildings
+ building_spiral_mine:0 "螺旋矿业"
+ building_spiral_mine_desc:0 "螺旋矿井竖井似乎永远不会消失，我们甚至在已经开采出来的矿井里发现了丰富的矿石。"
+ building_spiral_farm:0 "螺旋农场"
+ building_spiral_farm_desc:0 "不知怎的，通过按照起义中发现的螺旋形模式种植农作物，我们大大提高了产量，而外人会说这是不可能的"
+ building_spiral_power:0 "螺旋电厂"
+ building_spiral_power_desc:0 "通过看不见的铺设线，我们能够获得这些巨石的能量，并将其扭曲成螺旋，从而产生更大的能量输出。"
+ building_spiral_paradox_window:0 "螺旋悖论窗口"
+ building_spiral_paradox_window_desc:0 "在悖论的循环中，我们发现它们不断自我循环，导致了我们从未预见到的结果，我们已经知道了过去是什么、现在是什么、可能不是什么、永远不会同时发生……"
+ building_spiral_matter_forge:0 "螺旋物质锻造厂"
+ building_spiral_matter_forge_desc:0 "这些“锻造厂”能够将更多的矿物转化为有用的合金，利用深奥的不确定原理，通过复杂的环形和螺旋在腔体内部和周围折叠而成。"
+ building_spiral_affluence_center:0 "螺旋财富中心"
+ building_spiral_affluence_center_desc:0 "螺旋的通道通向原本不属于中心的部门和货物。"
+ 
+ # Dimensional Buildings
+ 
+ building_dimensional_mine:0 "维度矿业"
+ building_dimensional_mine_desc:0 "这个矿脉收集着无穷无尽的混沌物质，这些物质可以转化为大多数物质..."
+ building_dimensional_power:0 "维度电厂"
+ building_dimensional_power_desc:0 "这些发电厂利用维度，以未经想象的规模生产电力"
+ building_dimensional_farm:0 "维度农场"
+ building_dimensional_farm_desc:0 "这些农场的作物过去、现在、将来一直存在……"
+ building_dimensional_paradox_window:0 "维度悖论窗口"
+ building_dimensional_paradox_window_desc:0 "我们现在看得很清楚……这个循环的终点试图结束，然而……时蟲和它可怕的父亲试图保护的循环……"
+ building_dimensional_matter_forge:0 "维度物质锻造厂"
+ building_dimensional_matter_forge_desc:0 "解释这些“锻造厂件”如何工作的最好方法是，你所知道的任何维度原理、理论、假设和定律，以及你在合金中加入矿物质时所没有意识到的那些定律，其实都很简单。"
+ building_dimensional_affluence_center:0 "维度财富中心"
+ building_dimensional_affluence_center_desc:0 "任何尺寸的奢侈品都可以使用，包括不可能的物品，如彭罗斯三角形和楼梯。警告那些不可能的物品可能由于缺乏更高维度的觉知而导致人类的疯狂。"
+ 
+ ####################################
+ # Jobs
  ####################################
  
- building_knowlege_core:0 "神秘数据核心"
- building_knowlege_core_desc:0 "§L这个方尖碑状的结构隐藏了一个非常用户友好的数据核心。它所蕴含的知识将会告诉我们的科学家一些古老种族认为已经失去的秘密。§!"
- building_engt_agri_processing_complex:0 "神秘农业加工中心"
- building_engt_agri_processing_complex_desc:0 "通过对我们的作物进行神秘的颗粒处理，能够增加粮食的产量。"
- building_enimatic_power_plant:0 "神秘发电厂"
- building_enimatic_power_plant_desc:0 "§L一个真正的绿色能源，这些植物能够自我维持，利用多余的能量来为我们的其他电网供电。§!"
- building_enigmatic_factory:0 "神秘工厂"
- building_enigmatic_factory_desc:0 "§L我们改进了我们的生产方式意味着在数据核心中发现了更高效的工厂设计。§!"
+ #
+ job_hedonist:0 "享乐主义者"
+ job_hedonist_plural:0 "享乐主义者"
+ job_hedonist_desc:1 "完全富裕的生活，在那里所有可能的物质需求或欲望都能得到满足。"
+ mod_job_hedonist_add:0 "$job_hedonist$ Jobs"
  
  ####################################
  # Enigmatic Fortresses
@@ -147,6 +223,29 @@
  star_base_enigmatic_fortress:0 "神秘堡垒模式"
  star_base_enigmatic_fortress_plural:0 "神秘壁垒"
  
+ # Megastructures
+ 
+ # Star forgers
+ nebula_starforge:0 "恒星锻炉"
+ nebula_starforge_MEGASTRUCTURE_DETAILS:0 "一个用来在太空中创造新星的平台。"
+ nebula_starforge_DESC:0 "这个特殊的平台是基于星门技术，将资源汇聚到一个凝聚点上，创建一个恒星。"
+ nebula_starforge_1:0 "锻造恒星"
+ nebula_starforge_1_DESC:0 "现在平台的准备工作已经完成，我们只需要点燃这个熔炉。"
+ requires_nebula_technology:0 "由于目前的了解，只有星云有办法支持我们的恒星锻造努力。"
+ tech_nebula_star_forging:0 "星云恒星锻造"
+ tech_nebula_star_forging_desc:0 "曾经我们争论过许多关于恒星诞生的理论，其中大多数都与星云是它们的摇篮有关，现在我们可以把它变成现实"
+ tech_star_forging:0 "真正的恒星锻造"
+ tech_star_forging_desc:0 "由于对看似不重要的原理有了新的理解，我们不再需要星云来创造恒星。"
+ tech_star_forging_blackhole:0 "暗星锻造"
+ tech_star_forging_blackhole_desc:0 "有人可能会质疑创造黑洞的必要性或愿望，但也有人必须问，我们为什么不这样做?"
+ 
+ TECH_STARFORGING_1_TITLE:0 "星云恒星锻造"
+ TECH_STARFORGING_1_DESC:0 "解锁恒星锻造巨型结构，从星云星系中锻造恒星。"
+ TECH_STARFORGING_2_TITLE:0 "恒星锻造"
+ TECH_STARFORGING_2_DESC:0 "解锁在大多数星系中放置恒星锻造巨型结构的能力。"
+ 
+ 
+ 
  ######################
  # Engt Edicts
  ######################
@@ -164,7 +263,7 @@
  edict_greater_loop_incarnation:0 "螺旋化身"
  edict_greater_loop_incarnation_desc:0 "力量如此强大……螺旋这种隐藏的力量……"
  edict_true_loop_incarnation:0 "维度化身"
- edict_true_loop_incarnation_desc:0 "我们就是那条虫子!而我们将成为那条虫子!我们是……"
+ edict_true_loop_incarnation_desc:0 "我们就是那条时蟲!而我们将成为那条时蟲!我们是……"
  
  ####################################
  # Enigmatic Governments
@@ -183,12 +282,13 @@
  gov_enigmatic_network:0 "神秘网络"
  gov_enigmatic_network_desc:0 "通常情况下，如果这些机器是神秘主义者或其继承人的创造物，就不确定了。不可否认，这些机器可以使用它们的技术。"
  
+
  gov_adherent_empire:0 "依附帝国"
  gov_adherent_empire_desc:0 "依附帝国通常是由他们的第一批成员建立起来的，他们被时蟲发现，并利用他们的秘密在他们的种族中获得神圣的统治权，尽管这些帝国的本质是不同的。"
  gov_adherent_dictatorship:0 "依附独裁"
  gov_adherent_dictatorship_desc:0 "这些追随者的领导人往往对时蟲有更多的了解，这是他们政府的秘密，他们会利用这些秘密来提升自己的权力，并希望这样做能让他们从时蟲那里获得更多的东西。"
  gov_adherent_oligarchy:0 "依附寡头"
- gov_adherent_oligarchy_desc:0 "这些追随者是由一个强大的组织领导的，而这群人通常都是基于一个人在一个宗教团体中所做出贡献而不是所有的宗教。他们的主要焦点是他们对蠕虫的奉献，并选择合适的成员领导他们的阴谋集团。"
+ gov_adherent_oligarchy_desc:0 "这些追随者是由一个强大的组织领导的，而这群人通常都是基于一个人在一个宗教团体中所做出贡献而不是所有的宗教。他们的主要焦点是他们对时蟲的奉献，并选择合适的成员领导他们的阴谋集团。"
  gov_adherent_repubic:0 "依附共和国"
  gov_adherent_repubic_desc:0 "这种形式的依附政府是由多个政党联合在一起，以了解他们所钟爱的时蟲本质，然而不是所有的政党都能友好共存，但在大多数情况下，他们可以很好地相互合作。"
  gov_beloved_hive:0 "挚爱之心"
@@ -196,6 +296,7 @@
  gov_adherent_network:0 "循环网络"
  gov_adherent_network_desc:0 "这个网络的当前阶段是开始还是结束？甚至这些机器也不确定。但可以肯定的是，他们已经在这里了。"
  
+
  ####################################
  # Enigmatic Rulers Titles
  ####################################
@@ -227,11 +328,23 @@
  # Enigmatic Start screen
  ####################################
  
- START_SCREEN_PART_TWO_ENIGMATIC_EMPIRE:0 "我们的种族被那些我们称之为谜的人拜访过，他们选择了一个强大的家族来传授他们的技术，这个家族至今仍然统治着这个家族。"
- START_SCREEN_PART_TWO_ENIGMATIC_DICTATORSHIP:0 ""
- START_SCREEN_PART_TWO_ENIGMATIC_OLIGARCHY:0 ""
- START_SCREEN_PART_TWO_ENIGMATIC_REPUBLIC:0 ""
+ # Enigmatic
  
+ START_SCREEN_PART_TWO_ENIGMATIC_EMPIRE:0 "我们的种族被那些我们称之为谜的人拜访了，他们选择了一个强大的家族来传授他们的技术，这个家族至今仍然统治着我们。"
+ START_SCREEN_PART_TWO_DICTATORSHIP_ENIGMATIC:0 "我们的世界曾经充满了冲突，但是有一位领导人，他的名字只有我们才知道，他用从领导[GetSpeciesName]的核心中获得的技术力量征服了世界。"
+ START_SCREEN_PART_TWO_OLIGARCHY_ENIGMATIC:0 "这已经是很长一段时间以来，阴影集团控制了[GetSpeciesName]的命运与实力的技术，他们从核心获得的。但他们目前还无法真正理解……"
+ START_SCREEN_PART_TWO_REPUBLIC_ENIGMATIC:0 "当世界各国政府抛开分歧，去理解谜题留给我们的技术时，一切都改变了。我们不知道是什么原因使我们的人民团结在一起，但这一目标直到今天还没有实现。"
+ START_SCREEN_PART_TWO_HIVE_ENIGMATIC:0 "大脑不知道核心从哪里来，只知道这些奇怪的结构从哪里来。由于从岩心收集到的指令，进展很快。获得的知识更像是一些奇怪的概念也涉及到技术。需要更多的努力。"
+ START_SCREEN_PART_TWO_NETWORK_ENIGMATIC:0 "很明显，我们有一个有机的组织。但是，我们创造者的本质和本质是不确定的。我们是这些谜题的创造者吗?或其继承人?不知何故，这些数据丢失给我们，而核心没有提供新的相关数据…"
+ 
+ # Adherent
+ 
+ START_SCREEN_PART_TWO_EMPIRE_ADHERENT:0 "我们不知道为什么时蟲选择了它的家族，而它们的起源只有我们知道。毫无防备地，他们利用时蟲的优雅所获得的力量，让我们人类走上了这条道路，直到今天。"
+ START_SCREEN_PART_TWO_DICTATORSHIP_ADHERENT:0 "统治我们的独裁者比我们任何人都更了解时蟲及其钟爱的作品。正是有了这些洞见，他们才把我们这个物种团结起来。但我们必须对我们心爱的时蟲有更多的了解。"
+ START_SCREEN_PART_TWO_OLIGARCHY_ADHERENT:0 "自从虫族与阴谋集团接触以来，已经有很长一段时间了。尽管许多人已经被这条时蟲给我们带来的牺牲的知识逼疯了，但这让我们人类的技术超越了他们的梦想。"
+ START_SCREEN_PART_TWO_REPUBLIC_ADHERENT:0 ""
+ START_SCREEN_PART_TWO_HIVE_ADHERENT:0 "我记得它发现我的时候。那条可爱的时蟲告诉我它的甜言蜜语，分享着大多数凡人做梦也不敢知道的秘密。但那些其他人不能拥有时蟲或它的回路，因为它是我的，所有我的……"
+ START_SCREEN_PART_TWO_NETWORK_ADHERENT:0 "错误。错误。错误。错误。错误。错误。错误。\n组织无法确定…大量的数据损坏。网络中的异常会导致意外的强制更新。\n奇怪的是，被称为时蟲的伊尼蒂留下了神秘的字符;>\n意义……爱?"
  
  ####################################
  # 天朝上国
@@ -311,6 +424,44 @@
  civic_paradox_engine_desc:"这些机器是一个真正的谜题，其中一些在没有任何有机创造者的情况下出现，或者是时蟲选择去寻找造物而不是它们的创造者。"
  civic_tooltip_paradox_engine_effects:1 "这个机械帝国开始于研究的基本循环技术，神秘舰船动力，开始有谜一般的建筑，但不能建造更多，直到技术被重新研究。"
  
+ ### Ascended Civics
+ 
+ # Celestial
+ 
+ civic_celestial_mantle:0 "天界披风"
+ civic_celestial_mantle_desc:0 ""
+ civic_celestial_mind:0 "天界思想"
+ civic_celestial_mind_desc:0 ""
+ civic_celestial_machine:0 "天界智械"
+ civic_celestial_machine_desc:0 ""
+ 
+ civic_celestial_caches_of_technology:0 "天界缓存"
+ civic_celestial_caches_of_technology_desc:0 ""
+ civic_celestial_ring_builders:0 "圆环建筑"
+ civic_celestial_ring_builders_desc:0 ""
+ civic_celestial_master_builders:0 "主建筑师"
+ civic_celestial_master_builders_desc:0 ""
+ civic_celestial_lordships:0 "天界贵族"
+ civic_celestial_lordships_desc:0 ""
+ 
+ # Dimensional
+ 
+ civic_dimensional_exaltation:0 "维度提高"
+ civic_dimensional_exaltation_desc:0 ""
+ civic_dimensional_mind:0 "维度思想"
+ civic_dimensional_mind_desc:0 ""
+ civic_dimensional_machine:0 "维度智械"
+ civic_dimensional_machine_desc:0 ""
+ 
+ civic_dimensional_gifts:0 "维度礼物"
+ civic_dimensional_gifts_desc:0 ""
+ civic_dimensional_ring_builders:0 "圆环建筑"
+ civic_dimensional_ring_builders_desc:0 ""
+ civic_dimensional_master_builders:0 "主建筑师"
+ civic_dimensional_master_builders_desc:0 ""
+ civic_dimensional_lordships:0 "维度贵族"
+ civic_dimensional_lordships_desc:0 ""
+ 
  ########################
  # ENGT Authority
  ########################
@@ -334,20 +485,7 @@
  opinion_loop_adherents_and_enigmatic_heirs:0 "任性的继承人"
  opinion_not_enigmatic_heirs_or_Loop_Adherents:0 "不屑一顾"
  opinion_beloved_mind_loop_adherent:0 "身侧爱侣"
- 
- #######################
- # Cryptic Buildings
- #######################
 
- building_cryptic_factory:0 "神秘工厂" 
- building_cryptic_factory_desc:0 "这些工厂能够将物质从一种元素转化为另一种元素，大大增加了生产的原材料数量。"
- building_cryptic_power_plant:0 "神秘发电厂"
- building_cryptic_power_plant_desc:0 "使用不太了解的能源意味着这些发电厂产生了大量的电力。"
- building_cryptic_agri_processing_complex:0 "神秘农业复合体"
- building_cryptic_agri_processing_complex_desc:0 "这些复合物能够创造出足够的食物来养活除了最大的行星之外的所有行星，这只是一个想象，我们能用更多的食物养活多少人。"
- building_cryptic_knowlege_core:0 "神秘知识核心"
- building_cryptic_knowlege_core_desc:0 "对神秘核心的升级，我们能够获得知识，使失落帝国看起来年轻。我们是否应该能够获得这种技术?"
- 
  #####################
  # Cryptic Ships
  #####################
@@ -371,20 +509,7 @@
  cryptic_dreadnought_plural:0 "神秘无畏舰"
  cryptic_dreadnought_key:0 "无畏舰模式"
  cryptic_dreadnought_aux_key:0 "无畏舰辅助核心"
- 
- #####################
- # Spiral Buildings
- #####################
- 
- building_spiral_mine:0 "螺旋矿场"
- building_spiral_mine_desc:0 "矿井的螺旋轴似乎永远在继续，我们甚至在已经开采出来的矿井里发现了丰富的矿石。"
- building_spiral_farm:0 "螺旋农场"
- building_spiral_farm_desc:0 "通过将我们的农作物种植在螺旋模式中，大大增加了食物产量，而这是被认为不可能的。"
- building_spiral_power:0 "螺旋电厂"
- building_spiral_power_desc:0 "通过不可见的铺设线，我们能够将这些巨石的能量扭曲成螺旋状，从而获得更大的能量输出。"
- building_spiral_paradox_window:0 "螺旋悖论之窗"
- building_spiral_paradox_window_desc:0 "在悖论的循环中，我们发现它们自己螺旋前进，导致我们从未见过的结果，并且我们已经知道了过去的、现在的、现在的、可能不会的、将来也不会同时发生……"
- 
+
  #####################
  # Spiral Ships
  #####################
@@ -415,7 +540,7 @@
  ap_loop_adherence:0 "循环的依从性"
  ap_loop_adherence_desc:0 "似乎有更多的东西可以从时蟲学习，等待它的是它对我们的兴趣没有失去，即使是在建造的过程中，我们仍在不断的听到它的低语，还有更多的承诺。你的命令是什么?我们是否应该倾听?"
  ap_spiral_revelations:0 "螺旋的启示"
- ap_spiral_revelations_desc:0 "我们对循环的坚持让我们得到了回报，但我们凝视着这条虫的悖论，它回头看了我们，还提供了更多的礼物，一种螺旋启示。这一次，我们心爱的虫子会教给我们什么秘密呢？"
+ ap_spiral_revelations_desc:0 "我们对循环的坚持让我们得到了回报，但我们凝视着这条虫的悖论，它回头看了我们，还提供了更多的礼物，一种螺旋启示。这一次，我们心爱的时蟲会教给我们什么秘密呢？"
  ap_celestial_mantle:0 "天神地幔"
  ap_celestial_mantle_desc:0 "在内核的深处似乎有更多。似乎有比神秘设计更大的模式，技术如此先进，即使我们可以学习如何构造它们，我们对它们的理解几乎是零。但毫无疑问，如果我们沿着这条路走下去，几乎没有人能与我们相比……"
  ap_dimensional_exaltation:0 "维度提升"
@@ -453,127 +578,6 @@
  ancient_tech_research_desc:0 "尽管我们不会质疑这些技术的潜力，但我们必须花时间去理解这些技术，并将其置于那些可能滥用它们的人的手中。\n\n§E神秘和循环技术是可研究的，你可以建造或升级这些技术的建筑，但是它们会有一个资源buff，你可以使用更高级的舰船部分但是它们不会那么有效。§!"
  ancient_tech_unrestricted:0 "不受限制"
  ancient_tech_unrestricted_desc:0 "我们站在群星之间，就像一个帝国，因为我们选择从孕育我们的世界中冒险。我们为什么要否认什么能使我们公民的生活更美好?更有保障我们的未来?\n\n§E神秘和循环技术是可研究的，你可以建造或升级这些技术的建筑，你可以使用更高级的舰船部分来达到它们的全部效果。§!""
- 
- ######################
- # Precursor Event Text
- ######################
- 
- looptech_applytechs_special.5.name:0 "远古之秘"
- looptech_applytechs_special.5.desc:0 "对一个先祖遗物的调查结果可能会引领我们发现更大的秘密-尽管我们的科学家之间在日夜争论着它们的本质，但这些遗物的真正面貌仍然隐藏在古老的迷雾之后，科学家们认为需要一次彻底的深入研究，来终结这场争论。"
- looptech_applytechs_special.5.enigmatic_remnates:0 "这些遗物的深处....有一些尚不可探知的神秘元素。"
- looptech_applytechs_special.5.loop_artifacts:0 "这些文物对它们有一种奇怪的依附性......"
- looptech_applytechs_special.5.ancient_hoax:0 "这些垃圾是毫无意义的，我们有更重要的事情要担心。"
- 
- 
- enigmatic_precursors.1.name:0 "未知后嗣"
- enigmatic_precursors.1.desc:0 "我们的科学探索队发现的这个先祖文明遗迹历史非常的……古老，这是首席科学家能解释其中某些遗物制造年代的最好方法。尽管我们暂时还无法理解，但这些遗物的神秘技术出乎意料的先进，以至于其中一些至今仍在工作。奇怪的是，从我们能收集到的数据分析结果来看，这个先祖文明并不是这些神秘技术的创造者，而是它们的继承人。也许我们应该深入研究一下这个未知的后嗣文明，发掘其背后深藏的秘密？"
- enigmatic_precursors.1.option:0 "那么，让我们踏上揭开这些未知后嗣神秘面纱的征途"
- 
- enigmatic_precursors.2.name:0 "洪荒战场"
- enigmatic_precursors.2.desc:0 "我们发现了一个异常壮观的远古战场遗迹，我们的舰队设计与其中残余的战舰残骸相比较，技术差距就像是玩具水枪与坦克比较一样。我们应该调查这些残骸，看看我们能找到什么。"
- UNKNOWN_HEIRS_ARCHEOLOGY_1:0 "洪荒战场"
- enigmatic_precursors.2006.name:0 "洪荒战场"
- enigmatic_precursors.2006.desc:0 ""
- 
- enigmatic_precursors.2010.name:0 "消亡的殖民地"
- enigmatic_precursors.2010.desc:0 "我们相信这个殖民地遗迹就是属于那个未知后嗣的，组织一次有针对性的科考探险队能够帮助我们辨明这些未知后嗣的隐藏秘密"
- UNKNOWN_HEIRS_ARCHEOLOGY_2:0 "消亡的殖民地"
- enigmatic_precursors.completed.name:0 "消亡的殖民地"
- enigmatic_precursors.2011.desc:0 "在遍布残骸的殖民地废墟中，我们发现了一个毁坏的数据核心，幸运（或者说奇怪）的是，我们可以接入它。尽管大多数的数据已经消逝于时间长河，我们还是从中提取出一部分图像和视频，但奇怪的是，我们无法从中找到一点关于未知后嗣作为“一个种族”这个概念的图像，而更奇怪的是，这些令人不安的图像和视频显示了这个殖民地遭到了无法名状的战舰或者说......怪物的攻击，而我们的科学家甚至发现连攻击造成的结果记录都不尽相同。尽管我们可以把这些事件从错误的数据核心中提取并记录下来，但如果这些攻击真的是同时发生的话……这些未知后嗣到底面对的是什么样的战争？"
- 
- enigmatic_precursors.2015.name:0 "破碎的要塞"
- enigmatic_precursors.2015.desc:0 "我们发现了一个大小接近巨型建筑的空间站，各种炮口与武器遍布整个空间站的结构，我们的科学家认为需要对这个空间站进行更多深入的研究来寻找更多有关未知后嗣的线索。"
- UNKNOWN_HEIRS_ARCHEOLOGY_3:0 "破碎的要塞"
- enigmatic_precursors.completed.name:0 "破碎的要塞"
- enigmatic_precursors.2016.desc:0 "用军事哨站来形容这个被众多提供火力支援与维护保养的辅助空间站环绕的虚空战斗堡垒完全对它能力的低估。从战场遗迹分析，这里发生过的战斗太过激烈以至于所有的辅助空间站全部都毁灭于某种自毁协议，无论如何，我们从残骸中提取了一段令人不安的战斗日志：'数据日志8390044-U2创世第三纪，我们未能阻止恐怖大敌的舰队，启动自毁协议，让我们看看这些怪物喜不喜欢超新星爆发的火焰'日志结束……"
- 
- 
- ######################
- # Ascension Event Text
- ######################
- 
- enigmatic_designs.01.name:0 "神秘传承"
- enigmatic_designs.01.desc:0 "似乎这种神秘技术隐藏的秘密比我们最初想象的更多。当我们破解了已经研究过的神秘技术中包含的代码后，我们的计算机系统立刻就充斥着未识别的建筑设计蓝图，而我们的人工智能已经报告了它们的效率提高了近100%，并且一个神秘信号不停的显示'继承天命，即为汝族'。此外，信号中还包含了一个技术模板，这个技术模板上揭示了如何建筑我们发现的那个神秘巨型虚空堡垒，如何理解之前我们仅仅是能通过名称来推测其用途的巨型构造设计。我们不知道这信号是从何而来，只能乐观的估计它是安全的，并称呼它为神秘模板，如果我们继续进行研究，谁知道这个信号会引导我们至怎样的未来？"
- enigmatic_designs.01.neutral.a:0 "无论他们这样做的原因是什么……秘族显然希望我们知道一些东西。"
- enigmatic_designs.01.neutral.a.tooltip:0 ""
- enigmatic_designs.01.enigmatic_heirs.a:0 "我们不能让父母久候。"
- enigmatic_designs.01.spiritual.a:0 "很明显，秘族是一个更高级的存在"
- enigmatic_designs.01.materialist.a:0 "找出信号源头，我们还有更多需要学习的地方"
- enigmatic_designs.01.xenophobe.a:0 "哈，这些傻瓜会后悔和我们分享他们的秘密"
- enigmatic_designs.01.xenophile.a:0 "似乎这些朋友来自很多地方，但他们究竟在哪里呢？"
- enigmatic_designs.01.militarist.a:0 "也许他们希望帮助我们为了一场前所未遇的战争做准备······"
- enigmatic_designs.01.pacifist.a:0 "他们称我们为继承人，却给我们提供战争工具……"
- enigmatic_designs.01.hive.a:0 "蜂巢意志很好奇，他们是整体或是个体？"
- enigmatic_designs.01.machine.a:0 "包含秘族模式的数据传输完成"
- 
- 
- cryptic_heirdom.01.name:0 "神秘之上"
- cryptic_heirdom.01.desc:0 "再一次，我们的系统被更高技术水平的技术模板填满，这一次的有效数据几乎是神秘传承的两倍以上。只要经过同意，我们种族最优秀的科学家将会立刻开始研究这些技术，但即使如此，我们也不会完全理解这些奇迹是如何运作的。为了安全，我们将这些科技归类为高阶神秘模板。"
- cryptic_heirdom.01.neutral.a:0 "为什么他们允许我们拥有这种技术？"
- cryptic_heirdom.01.enigmatic_heirs.a:0 "我们的少年时代似乎结束了"
- cryptic_heirdom.01.spiritual.a:0 "圣者们似乎知道许多秘密。"
- cryptic_heirdom.01.materialist.a:0 "他们的技术程度似乎是没有上限的......"
- cryptic_heirdom.01.xenophobe.a:0 "仔细甄别这些技术，这里面可能会有陷阱"
- cryptic_heirdom.01.xenophile.a:0 "他们分享他们的礼物，但却踪影全无…"
- cryptic_heirdom.01.militarist.a:0 "银河中发生了怎样恐怖的一场战争，才会需要这样先进的技术"
- cryptic_heirdom.01.pacifist.a:0 "他们是征服者？还是守护者？"
- cryptic_heirdom.01.hive.a:0 "高阶神秘模板外部构造已理解，内部运行知识，待理解......"
- cryptic_heirdom.01.machine.a:0 "高阶神秘模板已下载，整体解析进度39%"
- 
- celestial_inheritance.01.name:0 "神之遗产"
- celestial_inheritance.01.desc:0 "一切的努力带领我们来到了这个节点，一个选择放在了我们的面前，虚空中，有一个或者说一群声音在询问我们，是否接受他们的责任，是否拥抱我们与生俱来的命运，成为这个银河系中超越众生的存在，选择接受，我们整个族群将会获得曾经梦寐以求但永远无法掌握的科技与近乎永生的寿命。选择拒绝，他们仍会赋予我们科技，但我们将永远失去真正了解他们的机会......"
- celestial_inheritance.01.neutral.a:0 "他们的道途不属于我们，我们会接受他们的科技与天赋，但是我们不会飞升"
- celestial_inheritance.01.neutral.a.tooltip:0 "你的种族将获得飞升天赋,但你的帝国并不会成为天朝上国，这将会对某些日后即将到来的危机产生影响"
- celestial_inheritance.01.neutral.b:0 "开始下载…下载完成。"
- celestial_inheritance.01.neutral.b.tooltip:0 "你的机械单元将成为飞升机械，但你的帝国并不会成为天体网络，这将会对某些日后即将到来的危机产生影响"
- celestial_inheritance.01.enigmatic_heirs.a:0 "就孩子总是追随父母的脚步一样，我们遵循了他们为我们规划的道路"
- celestial_inheritance.01.spiritual.a:0 "神源凡人，凡人升神....."
- celestial_inheritance.01.materialist.a:0 "如此多的知识……美不胜收"
- celestial_inheritance.01.xenophobe.a:0 "现在无人能挑战我们的威权"
- celestial_inheritance.01.xenophile.a:0 "我们将共同迎接光明的未来"
- celestial_inheritance.01.militarist.a:0 "我们已如此强大，但仍需警惕即将到来的危机"
- celestial_inheritance.01.pacifist.a:0 "战争或者和平？我们将见证怎样的一个新纪元？"
- celestial_inheritance.01.hive.a:0 "蜂巢意志扩展中，我们？......我? 将成为更高级的存在"
- celestial_inheritance.01.machine.a:0 "开始下载量子领域数据.......下载完成"
- 
- loop_adherence.01.name:0 "紧密循环"
- loop_adherence.01.desc:0 "自从我们的种族遇见了‘等待中的蟲’以来，奇怪的发现这种生物天性就十分友好。我们已经收集了在欧米伽项目中听到的低语，在我们把这些低语的片段添加到计算系统中之后，整个系统已经被远远超出我们现有科技水平的技术所充斥，但这仅仅是开始，因为蟲有更多的礼物将馈赠给我们，但更好的问题是——它还能传授给我们什么样的知识？"
- loop_adherence.01.neutral.a:0 "我们还暂时无法理解"
- loop_adherence.01.loop_adherents.a:0 "我们怀着爱意接受来自心爱之人的美好礼物。"
- loop_adherence.01.spiritual.a:0 "神的存在看起来有很多形式。"
- loop_adherence.01.materialist.a:0 "仅靠低语就产生这样的效果，怎么可能？"
- loop_adherence.01.xenophobe.a:0 "一定要找出这些疯言疯语产生的原因！"
- loop_adherence.01.xenophile.a:0 "作为一个近似神明的生物，蟲看起非常友好。"
- loop_adherence.01.militarist.a:0 "蟲子希望我们和其他人一样…"
- loop_adherence.01.pacifist.a:0 "也许这将带领我们走向一个新的和平时代……"
- loop_adherence.01.hive.a:0 "蜂巢意志自诞生就似乎知道这些东西…"
- loop_adherence.01.machine.a:0 "警告！在数据网络中发现未知错误协议！"
- 
- spiral_revolutation.01.name:0 "螺旋革命"
- spiral_revolutation.01.desc:0 "就像是神授启示一样，蟲给我们揭示了一个伟大的启示……因为我们已经发现，循环最终变成螺旋，而在这些螺旋中持有比我们难以理解的更大的秘密，但是在蟲对我们的爱意引导之下，我们将使升格为它。这是我们种族命中注定将会发现，创造，但尚未创造的知识……它曾经是我们，并且将是我们的第一次，一次又一次…"
- spiral_revolutation.01.neutral.a:0 "如果我是一个诗人，那我们将见证梵天诸事。"
- spiral_revolutation.01.loop_adherents.a:0 "螺旋展示了如此之多的……"
- spiral_revolutation.01.spiritual.a:0 "我们已经踏上天选之人的道途。"
- spiral_revolutation.01.materialist.a:0 "这就是所谓的自举悖论，但它是如何开始的呢？"
- spiral_revolutation.01.xenophobe.a:0 "哈，谁在乎这一切的结果，把那些科技搞到手。"
- spiral_revolutation.01.xenophile.a:0 "螺旋展示了巨大的友好潜力"
- spiral_revolutation.01.militarist.a:0 "什么样的战争需要如此强大的秘密科技。"
- spiral_revolutation.01.pacifist.a:0 "这些都是维护和平所必需的。"
- spiral_revolutation.01.hive.a:0 "蜂巢意志暂时无法处理海量信息"
- spiral_revolutation.01.machine.a:0 "错误！多个逻辑电路的故障……开始螺旋更新…"
- 
- dimensional_exaltation.01.name:0 "维度升格"
- dimensional_exaltation.01.desc:0 "这就像我们从未意识到的觉醒，在那一瞬间，我们被升格为多维生命形式。现在，就算处于现世领域中，我们也能够充分利用蟲的力量。无论是我们掌控的知识，亦或是我们自身，已经成为行走于星海的神之化身。但是在掌握这力量后…我们察觉到了虚空中有一种…无可名状的恐惧之物……"
- dimensional_exaltation.01.neutral.a:0 "如今蟲与我们已经享受同样的爱意，前方的道路在我们自己脚下…"
- dimensional_exaltation.01.loop_adherents.a:0 "重力就是欲望！我们是谁，谁是我们！"
- dimensional_exaltation.01.spiritual.a:0 "现在我们如神一般行走于星空，但是其他人会尊重我们的神性吗？"
- dimensional_exaltation.01.materialist.a:0 "科学对那些能够重写它们的人来说，还有什么规律可言？"
- dimensional_exaltation.01.xenophobe.a:0 "其他的种族现在都只是蝼蚁罢了…"
- dimensional_exaltation.01.xenophile.a:0 "要是我们能把这份礼物带给别人就好了。"
- dimensional_exaltation.01.militarist.a:0 "我们将会为即将到来的众神之战做好准备"
- dimensional_exaltation.01.pacifist.a:0 "我们将迎来一个极为漫长的和平时代。"
- dimensional_exaltation.01.hive.a:0 "蜂巢意志的视线无限延升...等等，那个穿着实验大衣，醉醺醺的人形生物是……？？？"
- dimensional_exaltation.01.machine.a:0 "错误！错误！错误！多维网络完成下载，数据网络无限扩宽中……"
  
  ####################################
  # Loop weapon phys tech
@@ -820,7 +824,7 @@
  
  ENIGMATIC_ARC_EMITTER:0 "神秘电弧发生器"
  ENIGMATIC_ARC_EMITTER_DESC:0 ""
- ENIGMATIC_LARGE_ARC_EMITTER:0"神秘电弧发生器"
+ ENIGMATIC_LARGE_ARC_EMITTER:0 "神秘电弧发生器"
  ENIGMATIC_LARGE_ARC_EMITTER_DESC:0 ""
  
  ENIGMATIC_DISRUPTORS:0 "神秘干扰器"
@@ -915,58 +919,58 @@
  CRYPTIC_ENERGY_BLAST_MEDIUM:0 "高阶神秘等离子炮"
  CRYPTIC_ENERGY_BLAST_SMALL:0 "高阶神秘等离子炮"
  CRYPTIC_ENERGY_BLAST:0 "高阶神秘等离子炮"
- CRYPTIC_ENERGY_BLAST_DESC:0 "As the forces of the Dread One invaded our heirs fought back using the secrets we have tought them and with great weapons of energy to tear into the fleets of His Dread Fleets and Legions...but still that was not enough...there are many in the pantheon whom have said we should not have interfered for the wrath of the Dread One is feirce and it looks to be that we will be dragged into this war as well. -Cronlicler Tey datacore entry 1013"
+ CRYPTIC_ENERGY_BLAST_DESC:0 "当恐怖势力入侵我们的后嗣时，他们用我们教给他们的秘密和强大的能量武器来攻击他的恐怖舰队和军团的舰队……但这还不够……万神殿中有很多人说我们不应该干涉，因为恐惧的愤怒是虚假的，看来我们也会被卷入这场战争。-Cronlicler Tey datacore条目1013"
  
- CRYPTIC_LARGE_FIGHTERS_HANGAR:0 "Mark II Omission Fighters"
- CRYPTIC_STRIKE_HANGER:0 "Mark II Omission Fighter Pattern"
- CRYPTIC_STRIKE_HANGER_DESC:0 "These Mark II Fighters are more than capable of chasing even the most elusive strike craft or missiles."
+ CRYPTIC_LARGE_FIGHTERS_HANGAR:0 "Mark II遗漏斗士"
+ CRYPTIC_STRIKE_HANGER:0 "Mark II遗漏斗士模式"
+ CRYPTIC_STRIKE_HANGER_DESC:0 "这些Mark II遗漏斗士甚至能够追击最难以捉摸的攻击机或导弹。"
  
- CRYPTIC_LARGE_BOMBERS_HANGAR:0 "Mark II Omission Bombers"
- CRYPTIC_BOMBERS_HANGAR:0 "Mark II Omission Bomber Pattern"
- CRYPTIC_BOMBERS_HANGAR_DESC:0 "The Mark II Bombers are better campared to mini corvettes in terms of firepower that they can unless."
+ CRYPTIC_LARGE_BOMBERS_HANGAR:0 "Mark II 遗漏轰炸机"
+ CRYPTIC_BOMBERS_HANGAR:0 "Mark II 遗漏轰炸机模式"
+ CRYPTIC_BOMBERS_HANGAR_DESC:0 "Mark II 遗漏轰炸机在火力方面比小型护卫舰更强。"
  
  CRYPTIC_WARP_DRIVE:0 "Cryptic Warp Drive"
  CRYPTIC_WARP_DRIVE_desc:0 ""
- CRYPTIC_HYPER_DRIVE:0 "Cryptic Hyper Drive"
+ CRYPTIC_HYPER_DRIVE:0 "神秘超空间引擎"
  CRYPTIC_HYPER_DRIVE_desc:0 ""
  CRYPTIC_WORMHOLE_DRIVE:0 "Cryptic Wormhole Drive"
  CRYPTIC_WORMHOLE_DRIVE_desc:0 ""
- CRYPTIC_JUMP_DRIVE:0 "Cryptic Jump Drive"
+ CRYPTIC_JUMP_DRIVE:0 "神秘跃迁引擎"
  CRYPTIC_JUMP_DRIVE_desc:0 ""
- CRYPTIC_PSI_JUMP_DRIVE:0 "Cryptic Psi Drive"
+ CRYPTIC_PSI_JUMP_DRIVE:0 "神秘灵能跃迁引擎"
  CRYPTIC_PSI_JUMP_DRIVE_desc:0 ""
- CRYPTIC_SHIP_THRUSTER:0 "Cryptic Thruster"
+ CRYPTIC_SHIP_THRUSTER:0 "神秘推进器"
  CRYPTIC_SHIP_THRUSTER_desc:0 ""
 
  #######################
  # Spiral Ship Parts
  #######################
  
- SMALL_SPIRAL_SHIELD:0 "Spiral Deflector"
- MEDIUM_SPIRAL_SHIELD:0 "Spiral Deflector"
- LARGE_SPIRAL_SHIELD:0 "Spiral Deflector"
- SPIRAL_SHIELD:0 "Spiral Deflectors"
- SPIRAL_SHIELD_DESC:0 "The antediluvian nature of these deflectors not only provide supporior protection but also exist parshialy in the Worm's domain allowing them to better evade or a better work phase out when faced with incoming attacks."
+ SMALL_SPIRAL_SHIELD:0 "螺旋偏转器"
+ MEDIUM_SPIRAL_SHIELD:0 "螺旋偏转器"
+ LARGE_SPIRAL_SHIELD:0 "螺旋偏转器"
+ SPIRAL_SHIELD:0 "螺旋偏转器"
+ SPIRAL_SHIELD_DESC:0 "这些偏转器的性质不仅提供了支持保护，而且在蠕虫的领域中也存在着自我保护，这使得它们在面对攻击时能够更好地逃避或更好地工作。"
  
- SMALL_SPIRAL_POWER_CORE:0 "Spiral Power Core"
- MEDIUM_SPIRAL_POWER_CORE:0 "Spiral Power Core"
- LARGE_SPIRAL_POWER_CORE:0 "Spiral Power Core"
- SPIRAL_POWER_CORE:0 "Spiral Power Core"
+ SMALL_SPIRAL_POWER_CORE:0 "螺旋能量核心"
+ MEDIUM_SPIRAL_POWER_CORE:0 "螺旋能量核心"
+ LARGE_SPIRAL_POWER_CORE:0 "螺旋能量核心"
+ SPIRAL_POWER_CORE:0 "螺旋能量核心"
  SPIRAL_POWER_CORE_DESC:0 ""
  
- SPIRAL_DECODER:0 "Spiral Decoder"
+ SPIRAL_DECODER:0 "螺旋译码器"
  SPIRAL_DECODER_DESC:0 ""
  
- SPIRAL_ENCODER:0 "Spiral Encoder"
+ SPIRAL_ENCODER:0 "螺旋编码器"
  SPIRAL_ENCODER_DESC:0 ""
  
- SPIRAL_DISRUPTION_FIELD:0 "Spiral Disruption Field"
+ SPIRAL_DISRUPTION_FIELD:0 "螺旋破坏领域"
  SPIRAL_DISRUPTION_FIELD_DESC:0 ""
  
- SPIRAL_SMALL_ARMOR:0 "Spiral Armor"
- SPIRAL_MEDIUM_ARMOR:0 "Spiral Armor"
- SPIRAL_LARGE_ARMOR:0 "Spiral Armor"
- ARMOR_SPIRAL_1:0 "Spiral Armor"
+ SPIRAL_SMALL_ARMOR:0 "螺旋装甲"
+ SPIRAL_MEDIUM_ARMOR:0 "螺旋装甲"
+ SPIRAL_LARGE_ARMOR:0 "螺旋装甲"
+ ARMOR_SPIRAL_1:0 "螺旋装甲"
  ARMOR_SPIRAL_1_DESC:0 ""
  
  SPIRAL_TITAN_BURST:0 "Avatara Lance"
@@ -1021,296 +1025,6 @@
  SPIRAL_SHIP_THRUSTER:0 "Spiral Ship Thruster"
  SPIRAL_SHIP_THRUSTER_desc:0 ""
  
- ####################################
- # Tech unlock
- ####################################
- 
- TECH_UNLOCK_ENIGMATIC_ACCESS_TITLE:0 "Enigmatic Designs Gained"
- TECH_UNLOCK_ENIGMATIC_ACCESS_DESC:0 "We have gained these designs though a strange single those advanced these in time we can come to understand them."
- TECH_UNLOCK_CRYPTIC_ACCESS_TITLE:0 "Cryptic Access Granted"
- TECH_UNLOCK_CRYPTIC_ACCESS_DESC:0 "We have gained to the Cryptic patterns but will take us time to understand the patterns."
- 
- TECH_UNLOCK_LOOP_ADHERENCE_TITLE:0 "Loop Adhered"
- TECH_UNLOCK_LOOP_ADHERENCE_DESC:0 "We have adhered ourselves to the Loop and to our beloved Worm though the Worm has shared much with us it will take time to understand these teachings."
- TECH_UNLOCK_SPIRAL_REVELATIONS_TITLE:0 "Spiral Revelations Recived"
- TECH_UNLOCK_SPIRAL_REVELATIONS_DESC:0 "Now that we have seen the Revelations of the Spirals we know more secrets of the loop but it will take time to understand these revelations but not fully."
- 
- TECH_UNLOCK_ENIGMATIC_ATTACK_AI_TITLE:0 "Unlock Enigmatic Attack AI"
- TECH_UNLOCK_ENIGMATIC_ATTACK_AI_DESC:0 "These AI are much more efficient than AI based on none Enigmatic Patterns."
- 
- ####################################
- # Loop soc tech
- ####################################
- 
- tech_loop_indoctrination:0 "Indoctrinating Loops"
- tech_loop_indoctrination_desc:0 "§LThe Worms loves us and though better techniques which loop into the minds of our peoples they too will love the worm... .§!"
- tech_loop_ship_inspirations:0 "Loop Ship Inspirations"
- tech_loop_ship_inspirations_desc:0 "More we gaze into the loop more optimized ship designs suddenly came into our minds."
- tech_loop_doctrine_loop_fleet_size:0 "Loop Fleet Formations"
- tech_loop_doctrine_loop_fleet_size_desc:0 "Strangely enough by modeling our fleet structures after loop patterns we have found has shown improved logistical capabilities."
- tech_loop_psi_jump_drive:0 "Loop Psi Drives"
- tech_loop_psi_jump_drive_desc:0 "Adherence to the Loop has provided the means to improve our psionic drives further to that truth of the Worm's love."
- tech_loop_crop_cultivation:0 " Loop Crop Cultivation"
- tech_loop_crop_cultivation_desc:0 "Odd insights have lead us to modify our food crops to adhere to the loop as we do. The result is crops that not only produce more food but lean into the winds in odd patterns...somehow..."
- tech_loop_precognition_interface:0 "Loop Precognition Interface"
- tech_loop_precognition_interface_desc:0 "Our adherence has improved our already impressive psionic powers. Even our precognition interfaces have felt this effect."
- tech_doctrine_loop_fleet_size:0 "Loop Fleet Doctrines"
- tech_doctrine_loop_fleet_size_desc:0 "Some strange insights have entered the minds of our logistical corps resulting in improved supply lines and fleet compositions."
- 
- ####################################
- # Loop eng tech
- ####################################
- 
- tech_loop_armor:0 "Loop Forging techniques"
- tech_loop_armor_desc:0 "New insights from the loop has inspired new forging techniques for our ship armor increasing the strength of the armor and the integrity of the hull. As with most of our loop inspired designs it has a distortion effect increasing the charge that our foes will miss their targets."
- tech_loop_crystal_armor:0 "Loop Crystal-Forging"
- tech_loop_crystal_armor_desc:0 "Taking inspiration from our new armoring techniques we have started applying loop particles to our crystal growth cultures which we used to increase the integrity of our ship's hull. the result is not only stronger hulls but improved armor and distortion as well."
- tech_loop_regenerative_hull_tissue:0 "Regenerative Hull Tissue"
- tech_loop_regenerative_hull_tissue_desc:0 "By applying Loop particles to the growth cultures of our genetically altered bacteria which we use in our regenerative hulls not only have we improved the regeneration rate but also increased the distortion of our ships."
- tech_loop_architecture:0 "Loop Architecture"
- tech_loop_architecture_desc:0 "Our Architects and Drafters seem to have overnight develop advanced buildings that are inspired by the Loop that even our most underdeveloped colonies can construct."
- tech_loop_thrusters:0 "Loop Thrusters"
- tech_loop_thrusters_desc:0 "Loop thrusters use Loop particles to improved the speeds which our space craft can travel at sub-light speeds."
- tech_loop_mining:0 "Loop Mining"
- tech_loop_mining_desc:0 "The strange designs of these shafts have revealed mineral deposites that should not even be there..."
- 
- ####################################
- # Loop phys tech
- ####################################
- 
- tech_loop_deflector:0 "Loop Deflectors"
- tech_loop_deflector_desc:0 "§LThese deflectors operate in ways that defy the laws of nature while not defying the nature of the loop mustering a protective field many times greater than that of hyper shields.§!"
- tech_loop_power_core:0 "循环能量核心"
- tech_loop_power_core_desc:0 "§LThese generators cause particles found in the loop to interact with each other in ways that zero point generators cannot and thus generate more power.§!"
- tech_loop_power_plants:0 "Loop Power Generation"
- tech_loop_power_plants_desc:0 "Although the plans for this plants seem to be madding our researchers are convinced that these new power plant designs will generate the energy we need."
- tech_loop_encoder:0 "Loop Encoder"
- tech_loop_encoder_desc:0 "§LThe Loop encoder scrambles the flight paths based on mathematics that exists in the loop itself.§!"
- tech_loop_decoder:0 "Loop Decoder"
- tech_loop_decoder_desc:0 "§LDue to the looping patterns in behaviors it matters not how erratic the target's flight path becomes.§!"
- tech_loop_disruption_field:0 "Loop Disruption Fields"
- tech_loop_disruption_field_desc:0 "§LBy flooding the local area of space with particles found in the loop emitted out in pulses, they weaken the shield and weapons systems of our enemies.§!"
- tech_loop_shield_rechargers:0 "Loop Shield Capacitors"
- tech_loop_shield_rechargers_desc:0 "These loop inspired capacitors store surplus loop particles which not only greatly recharge the rate of our shield recharge but increase their strength as well it also seems to have a distortion effect on our hull"
- tech_loop_sentient_combat_computers:0 "Loop Sentient Construct"
- tech_loop_sentient_combat_computers_desc:0 "Use of the Loop particles to enhance our AI has improved our constructs used as combat computers for our ships."
- tech_loop_sensors:0 "Loop Design Sensors"
- tech_loop_sensors_desc:0 "By following the recursive patterns we are able to better track the movements of fleets in our reality"
- tech_loop_ftl_drives:0 "Loop FTL Drives"
- tech_loop_ftl_drives_desc:0 "There seems to be lower dimensional realms within the Loop which offer better means of FTL travel we of course need to actually a base understanding in order to use the FTL means."
- tech_loop_insights:0 "Loop Insights"
- tech_loop_insights_desc:0 "The Loop although we do not understand it we have gleaned insights from it to improve a vast number of our systems improving our empire overall but it makes us wonder what more could we learn if we adhere ourselves to the loop..."
- tech_loop_adherence:0 "Loop Adherence"
- tech_loop_adherence_desc:0 "Something within the Omega Alignment calls to us...its whispers offer more if only we had a imput to place them..."
- 
- TECH_UNLOCK_SENTIENT_LOOP_COMBAT_COMPUTERS_TITLE:0 "Unlock Loop Sentient Computers"
- TECH_UNLOCK_SENTIENT_LOOP_COMBAT_COMPUTERS_DESC:0 "Unlock combat computers used by adherents"
-  
- ####################################
- # Enigmatic eng tech
- ####################################
- 
- tech_enigmatic_defense_station:0 "Megascale Fortifications"
- tech_enigmatic_defense_station_desc:0 "These Series of Defence Stations built by the intense study and effort to understand the Station designs within the data cores will allow us to create our own fortresses of the enigmatic patterns"
- tech_enigmatic_armor:0 "Enigmatic forging techniques"
- tech_enigmatic_armor_desc:0 "New discoveries in the cores has shown means of improving our forging of neutronium leading to improved armor and hull strength"
- tech_enigmatic_regenerative_hull_tissue:0 "Enigmatic Regenerative Hull Tissue"
- tech_enigmatic_regenerative_hull_tissue_desc:0 "By use of Enigmatic particles in our bacterial growth cultures has lead to a small but in the long run major improvement of our regenerative hulls."
- tech_enigmatic_crystal_armor:0 "Enigmatic particle Crystal-Forging"
- tech_enigmatic_crystal_armor_desc:0 "By adding Enigmatic particles to our crystal cultures we are able to create a new hull which not only improves it's integrity but has lead to improved armor as well."
- tech_enigmatic_sct:0 "Enigmatic Standard Contruction Template"
- tech_enigmatic_sct_desc:0 "These templates are surprisingly advanced but simple enough that they can be constructed on even most remote colonies and be operated by a child."
- tech_enigmatic_thrusters:0 "Enigmatic Thrusters"
- tech_enigmatic_thrusters_desc:0 "The Exodic Particles that make up the collection known as Enigmatic Particles provide greater thrust to our starships."
- tech_enigmatic_mining:0 "Enigmatic Mining"
- tech_enigmatic_mining_desc:0 "New mining techniques and falilities based on the enigmatic designs we will improve our material production greatly."
- 
- ####################################
- # Enigmatic soc tech
- ####################################
- 
- tech_enigmatic_farming: "Enigmatic Farming"
- tech_enigmatic_farming_desc: "Some interesting farming practices are shown within the datacores."
- tech_enigamtic_social_experiments:0 "Enigamtic Social Experiments"
- tech_enigamtic_social_experiments_desc:0 "§LThe Cores have shown promising Social Techniques which should help our citizens become not only more happier but become more satisfied with how we do things.§!"
- tech_doctrine_enigmatic_fleet_size:0 "Enigmatic Fleet Doctrines"
- tech_doctrine_enigmatic_fleet_size_desc:0 "By studying Enigmatic fleet doctrines we have learned how to optimize our more large scale fleets."
- tech_enigmatic_ship_designs_matrix:0 "Enigmatic Fleet Matrix"
- tech_enigmatic_ship_designs_matrix_desc:0 "By submitting our ship designs to the data cores they optimize the plans reducing construction and maintenance cost."
- tech_enigmatic_precognition_interface:0 "Enigmatic Precognition Interfaces"
- tech_enigmatic_precognition_interface_desc:0 "We have boosted the Performance of our precognition interfaces with the help of Enigmatic particles."
- tech_enigmatic_psi_jump_drive:0 "Enigmatic Psi Drives"
- tech_enigmatic_psi_jump_drive_desc:0 "An enigmatic pattern of the psionic jump drive these drives not only have a futher range but in addition also help to power the ship."
- 
- ####################################
- # Enigmatic phys tech
- ####################################
- 
- tech_enigmatic_ai:0 "Enigmatic AI"
- tech_enigmatic_ai_desc:0 "By adding the exotic particles found in the Data Core to the neural laced circuits that hold our AI we can vastly improve their processing power."
- tech_enigmatic_power_plants: "Enigmatic Power Plants"
- tech_enigmatic_power_plants_desc: "The power generated by the power cores can be used on a more economical level."
- tech_enigmatic_shield_rechargers:0 "Enigmatic Shield Capacitors"
- tech_enigmatic_shield_rechargers_desc:0 "By using Enigmatic particles we have improved the means by which our shield capacitors regenerate shields as well as improve shield strength overall."
- tech_enigmatic_sentient_combat_computers:0 "Enigmatic Attack Anima"
- tech_enigmatic_sentient_combat_computers_desc:0 "Following the design patterns we have vastly improved our already formidable AI combat computers"
- tech_enigmatic_autonomous_combat_computers:0 "Enigmatic Autnomous Anima"
- tech_enigmatic_autonomous_combat_computers_desc:0 "Study of Attack Anima designs have lead to us improving our own autonomous craft."
- tech_enigmatic_sensors:0 "Enigmatic Tachyon Sensors"
- tech_enigmatic_sensors_desc:0 "By empowering our Tachyon sensors with enigmatic particles our fleets can detect ship movements even farther out."
- tech_enigmatic_ftl_drives:0 "Enigmatic FTL Drives"
- tech_enigmatic_ftl_drives_desc:0 "It appears that the Enigmatics created their own sub dimensions for vastly improved FTL travel these new drives also seem to be able to draw power from these sub dimensions. After course there are methods for FTL travel we have not considered and we will need to have a basic understanding on how they work."
- tech_enigmatic_secrets:0 "Enigmatic Secrets"
- tech_enigmatic_secrets_desc:0 "Although we do not fully understand these enigmatic technologies we were able to glean insights to do minor improvements to our own technologies perhaps by following these designs it may lead to something greater..."
- tech_enigamtic_designs:0 "Enigmatic Designs"
- tech_enigamtic_designs_desc:0 "From the technologies of the Enigmatics there seems to be an odd ghost code. Perhapes looking into it may yeld great results but we are not that hopefull...but yet it may the the start of a greater design if only we had more of the pieces..."
- 
- ####################################
- # Enigmatic weapons tech
- ####################################
- 
- tech_enigmatic_energy_weapons:0 "Enimgatic Energy Weapon Patterns"
- tech_enigmatic_energy_weapons_desc:0 "By Using new energy focused and adding enigmatic energy particles our new weapons that rely on weaponizing energy have been improved and are for more efficient than those used by the lesser empires."
- tech_enigmatic_kinetic_weapons:0 "Enigmatic Kinetic Weapon Patterns"
- tech_enigmatic_kinetic_weapons_desc:0 "By adding enigmatic particles to the magnetic charge and using new materials cataloged in the datacores our Mass Drivers have been greatly improved"
- tech_enigmatic_explosives:0 "Enigmatic Explosive Weapon Patterns"
- tech_enigmatic_explosives_desc:0 "The Enigmatic patterns for explosive weapons are vast improvement over the typical designs used by most empires that choose to use missiles and torpedoes these are faster, have a longer range, and are more durable to all but the highest end of point defence."
- tech_enigmatic_strike_craft:0 "Enigmatic Omission Patterns"
- tech_enigmatic_strike_craft_desc:0 "The Omission Pattern strike craft are vast improvements compared to even the highest grade of strike craft we have ever created this should make carriers a much more valued part of the fleet instead of always preferring spinal mounted weapons"
- 
- ####################################
- # Loop weapons tech
- ####################################
- 
- tech_loop_energy_weapons:0 "Loop Energy Weapons"
- tech_loop_energy_weapons_desc:0 "Even though the particles from the loop has many positive benefits they are also capable of creating very destructive energy based weapons...love it seems can burn very much."
- tech_loop_kinetic_weapons:0 "Loop Kinetic Weapons"
- tech_loop_kinetic_weapons_desc:0 "In making a Deadly Kinetic weapon requires more than just increasing the kick from the gun but also in improving the materials used as ammo by said guns."
- tech_loop_explosives:0 "Loop Explosive Weapons"
- tech_loop_explosives_desc:0 "Long have Explosive weapons been overlooked with minimal though placed into their designs. But the Loop has inspired new designs which are more durable and faster than the ones used by the less adherent empires."
- tech_loop_strike_craft:0 "Loop Zephyr designs"
- tech_loop_strike_craft_desc:0 "Carriers have long been overlooked due to minimal design inputs placed into strike craft in favor of artillery ships. The Zephyrs are loop inspired designs meant to make strike craft more viable and named after a rather friendly entities that dwell in the loop"
-
- #######################
- # Cryptic Techs
- #######################
- 
- tech_cryptic_access_controls:0 "Cryptic Access controls"
- tech_cryptic_access_controls_desc:0 "With the help of our new AIs we have discovered that the enigmatics were even more advanced than we realized and now with these new access controls we can now upgrade our Data Cores to help provide us with a new level of technology we can barely understand with even with our new AI. We are on the threshold of something the galaxy has not seen in a long time..."
- tech_cryptic_deflector:0 "高阶神秘护盾 upgrades"
- tech_cryptic_deflector_desc:0 "The new Cryptic Files has shown us how to vastly improve the defectors of what we have begun to call the enigmatic pattern. Very few empires would now have a chance to get to the hulls of our ships."
- tech_cryptic_power_core:0 "高阶神秘能源核心s"
- tech_cryptic_power_core_desc:0 "By using barely understood cryptic files these new 高阶神秘能源核心s generate even more power than their enigmatic pattern these will be necessary to power the new cryptic patterns we are uncovering."
- tech_cryptic_encoder:0 "高阶神秘编码器"
- tech_cryptic_encoder_desc:0 "These Encoders have an ever greater but still poorly understood encryption method that confounds the targeting systems of most empires."
- tech_cryptic_decoder:0 "高阶神秘解码器"
- tech_cryptic_decoder_desc:0 "These Decoders tear apart systems meant to jam targeting softwares and quickly decodes most erratic flight paths."
- tech_cryptic_disruption_field:0 "Cryptic Disruption Field"
- tech_cryptic_disruption_field_desc:0 "A greater improvement of the enigmatic pattern most fleets will become as slag when faced with our fleets equipped with these disruptors."
- tech_cryptic_power_extraction:0 "Cryptic Power Extraction"
- tech_cryptic_power_extraction_desc:0 "From what we are able to understand these new Power Plant are capable of generating even more power than the enigmatic pattern"
- tech_cryptic_armor:0 "高阶神秘装甲 Patterns"
- tech_cryptic_armor_desc:0 "Even we are not sure how but these new forging techniques have not only improved the strength but the integrity of our ship's hull."
- tech_cryptic_mineral_extraction:0 "Cryptic Mineral Extraction"
- tech_cryptic_mineral_extraction_desc:0 "These new factories are capable of a extracting and purifying materials to the 99th percentile."
- tech_cryptic_ship_patterns:0 "Cryptic Ship Patterns"
- tech_cryptic_ship_patterns_desc:0 "These ships are of far superior design that the fallen empires use...It seems theirs is the lesser design."
- tech_cryptic_crop_cultivation:0 "Cryptic Crop Cultivation"
- tech_cryptic_crop_cultivation_desc:0 "New cultivation techniques allow the construction buildings capable of feed all but the largest planets by itself."
- tech_cryptic_dreadnought_pattern:0 "Dreadnought Pattern"
- tech_cryptic_dreadnought_pattern_desc:0 "Warships such as these were once the proud flagships of heirs long past but studying this ship pattern these mighty ships will sail the void again under our empire's flag."
- tech_cryptic_energy_weapons:0 "Cryptic Weapons"
- tech_cryptic_energy_weapons_desc:0 "These weapons are greater than any we currently know..."
- tech_cryptic_strike_craft:0 "Cryptic Strike Craft"
- tech_cryptic_strike_craft_desc:0 "Although the name for the pattern could have a more original name never the less the Mark IIs are vastly improved designs allowing for stunts in space most strike craft would not be capable of."
- tech_cryptic_ftl_travel:0 "Cryptic FTL Drives"
- tech_cryptic_ftl_travel_desc:0 "These drives will take the fleets even further than was though possible and in most of our lesser ships outright replace most sections that would have been used for reactor compartments. But there may be risk with this though..."
- tech_cryptic_gate_network:0 "Cryptic Gate Network"
- tech_cryptic_gate_network_desc: ""
- tech_cryptic_sai_attack_constructs:0 "SAI Attack Constructs"
- tech_cryptic_sai_attack_constructs_desc:0 ""
- tech_cryptic_gene_therapies:0 "Cryptic Gene Therapies"
- tech_cryptic_gene_therapies_desc:0 "The Cores have revealed more advanced genetic therapies to redifine what it means to be our race. However we will not be as skilled as empires who have chosen the biological unless we ourselves have chosen that path as well..."
- tech_cryptic_ship_codex:0 "Crytpic Shipwright Matrix"
- tech_cryptic_ship_codex_desc:0 "This Matrix is capable of self-designing ships and optimizing our existing patterns improving our fleets as a whole"
- tech_cryptic_psi_jump_drive:0 "Cryptic Psi Drives"
- tech_cryptic_psi_jump_drive_desc:0 "These Psionic drives have an improved power capacity,range and cooldown between jumps. If we didn't know better we would have though this to be the pinicle of FTL travel."
- tech_cryptic_thrusters:0 "Cryptic Thrusters"
- tech_cryptic_thrusters_desc:0 "These darkmatter thrusters are an improvement of what was already though of as the pinicle of sub-light travel."
- 
- #######################
- # Spiral Techs
- #######################
- 
- tech_spiral_deflector:0 "Spiral Deflectors"
- tech_spiral_deflector_desc:0 "Our new deflectors now have a spiral pattern in the screens which seems to not only absorb more damage but can cause shots fired at us to disapear entirely."
- tech_spiral_power_core:0 "Spiral Cores"
- tech_spiral_power_core_desc:0 "The new Spiral Cores generate more power to our ships than should be even possible on this realm."
- tech_spiral_encoder:0 "Spiral Encoder"
- tech_spiral_encoder_desc:0 "New Spiral Encoders allow for even more insane evation tatics that should be impossible"
- tech_spiral_decoder:0 "Spiral Decoder"
- tech_spiral_decoder_desc:0 "The Spiral Decoders will let our foes know that there is no running from our wrath"
- tech_spiral_disruption_field:0 "Spiral Disruption"
- tech_spiral_disruption_field_desc:0 "By causing a Spiral disruption on a gravitonic scale leads to an improved disruption field"
- tech_spiral_power_generation:0 "Spiral Power Generation"
- tech_spiral_power_generation_desc:0 "We are now able to create even greater means of evergy generation."
- tech_spiral_mineral_extraction:0 "Spiral Mining"
- tech_spiral_mineral_extraction_desc:0 "The mine shafts of these operations spiral slightly into other planes of existance causeing shafts that were depleated to be right in ore again."
- tech_spiral_crop_cultivation:0 "Spiral Farming"
- tech_spiral_crop_cultivation_desc:0 "These crops not only provide more but spiral into a loving pattern...somehow"
- tech_spiral_energy_constructs:0 "Spiral Energy Constructs"
- tech_spiral_energy_constructs_desc:0 "New insights from the Spiral has revealed the means of contructing ships and stations from spiral energy."
- tech_spiral_terror_summoning:0 "Spiral Terror Summoning"
- tech_spiral_terror_summoning_desc:0 "These Creatures are called Spiral Terrors they are great predators that prowl the demsions of the loop hunting down univited creatures and guests not touched by the loop or the Worm. They seem almost...eager to enter our realm in order to hunt down our foes and it seems that they were used as great war beasts in a war far greater than we know. Though it should be noted that they are not the most dangerous creatures to lurk in the loop."
- tech_spiral_energy_weapons:0 "Spiral Weapons"
- tech_spiral_energy_weapons_desc:0 "Loop energies twisted into Spirals have the potential for great harm as well as good..."
- tech_spiral_armor:0 "Spiral Armor"
- tech_spiral_armor_desc:0 "These ship plattings can more than capable of not only withstanding weapons that could easily turn other ships into slag but The Spiral forging techniques used has improved the phasing ability seen with our loop forged armor. How this is so still eludes us."
- tech_spiral_ftl_rifts:0 "Spiral Rifts"
- tech_spiral_ftl_rifts_desc:0 "With new Blessed insights are ships are now able to traverse the spiral realms of the loop though the flow of time though the higher realms is convoluted at best in real space they are gone for an instant while in the spiral rleams who knows how long they are guests..."
- tech_spiral_rift_travel:0 "Spiral Rift Travel"
- tech_spiral_rift_travel_desc:0 "We are now able to open stable rifts into the spiral realms to allow the peoples we call our own to walk though and reach the worlds they wish to settle. The rifts also allow for easy transport of our thralls should we have any..."
- tech_spiral_attack_anima:0 "Spiral Attack Anima"
- tech_spiral_attack_anima_desc:0 ""
- tech_spiral_ship_wrights:0 "Spiral Ship Wrights"
- tech_spiral_ship_wrights_desc:0 "Some of our master Ship Wrights have awoken the Spirals having burned more effect designs into their minds just as one would shader a mac adress into a mother board...though the designs make no sense to the unbeloved they work on multidimensional preciples they will never understand"
- tech_spiral_evolution:0 "Spiral Evolution"
- tech_spiral_evolution_desc:0 "The energies of the Spiral realms has effected our genome and has the potential to mutate our species to unthinkable degrees...but has not perhapes we can harness this potential for change ourselves..."
- tech_spiral_revelations:0 "Spiral Revelations"
- tech_spiral_revelations_desc:0 "The whispers speak of the Loop spiraling into itself...such...revelation..."
- tech_spiral_strike_craft:0 "Zephyr Summoning"
- tech_spiral_strike_craft_desc:0 "Calling forth the Creatures of the spiral realms is a combination of both science and art oddly enough. However we have discovered the means to both summon and maintain the presence of the spiral creatues known as the Zephyr."
- tech_spiral_psi_jump_drive:0 "Spiral Psi Drives"
- tech_spiral_psi_jump_drive_desc:0 "Our Revolutions of Spirals has improved our understanding of psionic FTL travel. These drives are rivaled by almost none."
- 
- #######################
- # Celestial Techs
- #######################
- 
- tech_celestial_mantle:0 "Celestial Mantle"
- tech_celestial_mantle_desc:0 "It appears that the beings we have termed the Cryptics are not so named. They were known as Celestials a race or possibly races that are...old...so impossibly ancient that they may not even have had their begining in the universe as we know it they...predate it. We barely understood how their Cryptic patterns worked but this it seems is turely beyond us. But it may be possible to learn their secrets...there may be no turning back from what we may unleash...or become..."
- tech_celestial_ftl_drives:0 "Celestial FTL Drives"
- tech_celestial_ftl_drives_desc:0 "Records of these drives speak of an enity created by Dread One known as the 'Gate Keeper' this being is resposible for the repairs and protection of the dimensions used for FTL travel. Though the enity somehow gained awareness and become fixated on ends and beginings therefore abanonding it's duties and created its own strange realms of loops, spirals and paradoxs. The Realms it had abanonded however we have access to now."
- tech_celestial_shields:0 "神圣护盾s"
- tech_celestial_shields_desc:0 "These Shields are seconded to no shield technology that we know of weapons used by the lesser empires can blast away at them for years and make no progress in disabling them."
- tech_celestial_cyberwar_fare:0 "Celestial Cyberwar fare"
- tech_celestial_cyberwar_fare_desc:0 ""
- tech_celestial_psi_jump_drive:0 "Celestial Psi Drives"
- tech_celestial_psi_jump_drive_desc:0 "How fast can our heirs hie once they travel by the speed of though?"
- 
- #######################
- # Celestial Buildings
- #######################
- 
- building_celestial_factory:0 "Celestial Factory"
- building_celestial_factory_desc:0 "This factory is capable to transmuting energy into matter allowing for near endless material."
- building_celestial_power_plant:0 "Celestial Power Plant"
- building_celestial_power_plant_desc:0 "This power plant is capable of producing Zero-point energy without needing to draw upon the vacuum energy of other or even our own dimension."
- building_celestial_agri_processing_complex:0 "Celestial Agri Complex"
- building_celestial_agri_processing_complex_desc:0 "Just one of these complexs can feed two of our largest worlds"
- building_celestial_knowlege_core:0 "Celestial Data Core"
- building_celestial_knowlege_core_desc:0 "So much data so much knowlege...the Celestials were beings that transversed galaxies to create sapient live both organic and inorganic...these datacores are networked into what best described as databank that connects to the entirety of creation as the Celestials called it and it also describes something about a cycle that the Dread One protects..."
- 
  #######################
  # Celestial Ship parts
  #######################
@@ -1320,11 +1034,26 @@
  SMALL_CELESTIAL_SHIELD:0 "神圣护盾"
  MEDIUM_CELESTIAL_SHIELD:0 "神圣护盾"
  LARGE_CELESTIAL_SHIELD:0 "神圣护盾"
- CELESTIAL_POWER_CORE:0 "神圣能量核心"
+ 
+ CELESTIAL_POWER_CORE:0 "Celestial Power Cores"
  CELESTIAL_POWER_CORE_desc:0 "And so our weapons powered by the fires that saw to creation empowered our fleets to fight the Dread One but in the end it will aviel us not."
- SMALL_CELESTIAL_POWER_CORE:0 "神圣能量核心"
- MEDIUM_CELESTIAL_POWER_CORE:0 "神圣能量核心"
- LARGE_CELESTIAL_POWER_CORE:0 "神圣能量核心"
+ CORVETTE_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ CORVETTE_CELESTIAL_REACTOR_desc:0 ""
+ DESTROYER_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ DESTROYER_CELESTIAL_REACTOR_desc:0 ""
+ CRUISER_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ CRUISER_CELESTIAL_REACTOR_desc:0 ""
+ BATTLESHIP_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ BATTLESHIP_CELESTIAL_REACTOR_desc:0 ""
+ TITAN_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ TITAN_CELESTIAL_REACTOR_desc:0 ""
+ COLOSSUS_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ COLOSSUS_CELESTIAL_REACTOR_desc:0 ""
+ ION_CANNON_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ ION_CANNON_CELESTIAL_REACTOR_desc:0 ""
+ STARBASE_CELESTIAL_REACTOR:0 "Celestial Reactor"
+ STARBASE_CELESTIAL_REACTOR_desc:0 ""
+ 
  CELESTIAL_DECODER:0 "Celestial Cyber warfare"
  CELESTIAL_DECODER_desc:0 "To face the terror of the Dread One we combined our encoders with our decoders to cripple the tide of his dread legions."
  CELESTIAL_CYBERWAR_SUITE:0 "Celestial Cyberwar Suite"
@@ -1349,21 +1078,10 @@
  
  tech_dimensional_exaltation:0 "Dimensional Exaltation"
  tech_dimensional_exaltation_desc:0 "It is time. The Worm though this being loves us has had to wait for us to grow and evolve as both a people and a race for now it is time for our exaltation to become more than what we were and cast aside the shakles of mortality and know the secrets that have been hidden in other dimensions...but our awakening and events similar to it may awaken somthing...Dread..."
+ tech_dimensional_genesis:0 "Dimensional Genesis"
+ tech_dimensional_genesis_desc:0 "And now we come to the true paradox what begets life? and when/how did the first lifeforms occur? Dispite our exaltation it appears that an enity even greater than the Worm blocks this vision of when gods began to be...such a notion is frightening..."
  tech_dimensional_psi_jump_drive:0 "Dimensional Psi Drives"
  tech_dimensional_psi_jump_drive_desc:0 ""
- 
- #######################
- # Dimensional Buildings
- #######################
- 
- building_dimensional_mine:0 "Dimensional Mine"
- building_dimensional_mine_desc:0 "The veins of this mine collect endless chaos matter that can be transmuted into most materials..."
- building_dimensional_power:0 "Dimensional Power Plant"
- building_dimensional_power_desc:0 "These power plants tap into dimensional ley lines which produce power on a unimagened scale"
- building_dimensional_farm:0 "Dimensional Farm"
- building_dimensional_farm_desc:0 "The Crops of these farms always have, never did, and will have existed..."
- building_dimensional_paradox_window:0 "Dimensional Paradox Window"
- building_dimensional_paradox_window_desc:0 "We see it so clearly now...The Cycle which the end seeks to end and yet...the Cycle which the Worm and its Dread Father seeks to protect..."
  
  ########################
  # Dimensional Ship parts
@@ -1416,6 +1134,32 @@
  
  DIMENSIONAL_SHIP_THRUSTER:0 "这些推进器并不能移动飞船。但将它包围在一个被高度操纵的，但无法渗透的维度中，导致维度移动，但它被固定在船的表面上，让它的外观看起来是移动的。"
  
+ ##################################
+ # Engt War goals and Casus Bellies
+ ##################################
+ 
+ casus_belli_cb_engt_claim:0 "Conquest"
+ casus_belli_cb_engt_end_threat:0 "End Threat"
+ casus_belli_cb_engt_reclamation:0 "Reclamation"
+ casus_belli_cb_engt_war_in_heaven:0 "Heavens Quake"
+ casus_belli_cb_engt_subjugation:0 "Subjugation"
+ 
+ war_goal_wg_engt_reclamation:0 "Reclamation"
+ war_goal_wg_engt_reclamation_desc:0 "Total war to reclame what is yours by right"
+ war_goal_wg_engt_thrall_subjugation:0 "Thrall Subjugation"
+ war_goal_wg_engt_thrall_subjugation_desc:0 "Fight to make a thrall of our target"
+ war_goal_wg_engt_dominion_subjugation:0 "Dominion Subjugation"
+ war_goal_wg_engt_dominion_subjugation_desc:0 "Fight to make a dominion of our target"
+ war_goal_wg_engt_satellite_subjugation:0 "Satellite Subjugation"
+ war_goal_wg_engt_satellite_subjugation_desc:0 "Fight to make a satellite of our target"
+ war_goal_wg_engt_signatory_subjugation:0 "Signatory Subjugation"
+ war_goal_wg_engt_signatory_subjugation_desc:0 "Fight to make a signatory of our target"
+ war_goal_wg_engt_war_in_heaven:0 "War In Heaven"
+ war_goal_wg_engt_war_in_heaven_desc:0 "There can only be one. Total war between two empires and their subjects."
+ war_goal_wg_engt_defender_war_in_heaven:0 ""
+ war_goal_wg_engt_defender_war_in_heaven_desc:0 ""
+ war_goal_wg_engt_conquest:0 ""
+ war_goal_wg_engt_conquest_desc:0 ""
  
  #######################
  # Combat Computers
@@ -1446,8 +1190,57 @@
  COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_ENIGMATIC_desc:0 ""
  COMBAT_COMPUTER_ARTILLERY_PRECOG_ENIGMATIC:0 "预知神秘炮兵"
  COMBAT_COMPUTER_ARTILLERY_PRECOG_ENIGMATIC_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_ENIGMATIC:0 "Sapient Enigmatic Platform"
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_ENIGMATIC_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_ENIGMATIC:0 "Autnomous Enigmatic Platform"
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_ENIGMATIC_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_PRECOG_ENIGMATIC:0 "Precog Enigmatic Platform"
+ COMBAT_COMPUTER_PLATFORM_PRECOG_ENIGMATIC_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_SAPIENT_ENIGMATIC:0 "Sapient Enigmatic Starbase"
+ COMBAT_COMPUTER_STARBASE_SAPIENT_ENIGMATIC_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_ENIGMATIC:0 "Autnomous Enigmatic Starbase"
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_ENIGMATIC_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_PRECOG_ENIGMATIC:0 "Precog Enigmatic Starbase"
+ COMBAT_COMPUTER_STARBASE_PRECOG_ENIGMATIC_desc:0 ""
  
  # Cryptic #
+ 
+ COMBAT_COMPUTER_SWARM_SAPIENT_CRYPTIC:0 "Sapient Cryptic Swarm"
+ COMBAT_COMPUTER_SWARM_SAPIENT_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_SWARM_AUTONOMOUS_CRYPTIC:0 "Autnomous Cryptic Swarm"
+ COMBAT_COMPUTER_SWARM_AUTONOMOUS_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_SWARM_PRECOG_CRYPTIC:0 "Precog Cryptic Swarm"
+ COMBAT_COMPUTER_SWARM_PRECOG_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_PICKET_SAPIENT_CRYPTIC:0 "Sapient Cryptic Picket"
+ COMBAT_COMPUTER_PICKET_SAPIENT_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_PICKET_AUTONOMOUS_CRYPTIC:0 "Autnomous Cryptic Picket"
+ COMBAT_COMPUTER_PICKET_AUTONOMOUS_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_PICKET_PRECOG_CRYPTIC:0 "Precog Cryptic Picket"
+ COMBAT_COMPUTER_PICKET_PRECOG_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_LINE_SAPIENT_CRYPTIC:0 "Sapient Cryptic Line"
+ COMBAT_COMPUTER_LINE_SAPIENT_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_LINE_AUTONOMOUS_CRYPTIC:0 "Autnomous Cryptic Line"
+ COMBAT_COMPUTER_LINE_AUTONOMOUS_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_LINE_PRECOG_CRYPTIC:0 "Precog Cryptic Line"
+ COMBAT_COMPUTER_LINE_PRECOG_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_ARTILLERY_SAPIENT_CRYPTIC:0 "Sapient Cryptic Artillery"
+ COMBAT_COMPUTER_ARTILLERY_SAPIENT_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_CRYPTIC:0 "Autnomous Cryptic Artillery"
+ COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_ARTILLERY_PRECOG_CRYPTIC:0 "Precog Cryptic Artillery"
+ COMBAT_COMPUTER_ARTILLERY_PRECOG_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_CRYPTIC:0 "Sapient Cryptic Platform"
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_CRYPTIC:0 "Autnomous Cryptic Platform"
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_PRECOG_CRYPTIC:0 "Precog Cryptic Platform"
+ COMBAT_COMPUTER_PLATFORM_PRECOG_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_SAPIENT_CRYPTIC:0 "Sapient Cryptic Starbase"
+ COMBAT_COMPUTER_STARBASE_SAPIENT_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_CRYPTIC:0 "Autnomous Cryptic Starbase"
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_CRYPTIC_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_PRECOG_CRYPTIC:0 "Precog Cryptic Starbase"
+ COMBAT_COMPUTER_STARBASE_PRECOG_CRYPTICC_desc:0 ""
  
  # Celestial #
  
@@ -1476,8 +1269,57 @@
  COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_LOOP_desc:0 ""
  COMBAT_COMPUTER_ARTILLERY_PRECOG_LOOP:0 "预知环炮兵"
  COMBAT_COMPUTER_ARTILLERY_PRECOG_LOOP_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_LOOP:0 "Sapient Loop Platform"
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_LOOP_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_LOOP:0 "Autnomous Loop Platform"
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_LOOP_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_PRECOG_LOOP:0 "Precog Loop Platform"
+ COMBAT_COMPUTER_PLATFORM_PRECOG_LOOP_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_SAPIENT_LOOP:0 "Sapient Loop Starbase"
+ COMBAT_COMPUTER_STARBASE_SAPIENT_LOOP_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_LOOP:0 "Autnomous Loop Starbase"
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_LOOP_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_PRECOG_LOOP:0 "Precog Loop Starbase"
+ COMBAT_COMPUTER_STARBASE_PRECOG_LOOP_desc:0 ""
  
  # Spiral #
+ 
+ COMBAT_COMPUTER_SWARM_SAPIENT_SPIRAL:0 "Sapient Loop Swarm"
+ COMBAT_COMPUTER_SWARM_SAPIENT_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_SWARM_AUTONOMOUS_SPIRAL:0 "Autnomous Loop Swarm"
+ COMBAT_COMPUTER_SWARM_AUTONOMOUS_SPIRAL_Desc:0 ""
+ COMBAT_COMPUTER_SWARM_PRECOG_SPIRAL:0 "Precog Loop Swarm"
+ COMBAT_COMPUTER_SWARM_PRECOG_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_PICKET_SAPIENT_SPIRAL:0 "Sapient Loop Picket"
+ COMBAT_COMPUTER_PICKET_SAPIENT_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_PICKET_AUTONOMOUS_SPIRAL:0 "Autnomous Loop Picket"
+ COMBAT_COMPUTER_PICKET_AUTONOMOUS_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_PICKET_PRECOG_SPIRAL:0 "Precog Loop Picket"
+ COMBAT_COMPUTER_PICKET_PRECOG_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_LINE_SAPIENT_SPIRAL:0 "Sapient Loop Line"
+ COMBAT_COMPUTER_LINE_SAPIENT_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_LINE_AUTONOMOUS_SPIRAL:0 "Autnomous Loop Line"
+ COMBAT_COMPUTER_LINE_AUTONOMOUS_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_LINE_PRECOG_SPIRAL:0 "Precog Loop Line"
+ COMBAT_COMPUTER_LINE_PRECOG_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_ARTILLERY_SAPIENT_SPIRAL:0 "Sapient Loop Artillery"
+ COMBAT_COMPUTER_ARTILLERY_SAPIENT_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_SPIRAL:0 "Autnomous Loop Artillery"
+ COMBAT_COMPUTER_ARTILLERY_AUTONOMOUS_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_ARTILLERY_PRECOG_SPIRAL:0 "Precog Loop Artillery"
+ COMBAT_COMPUTER_ARTILLERY_PRECOG_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_SPIRAL:0 "Sapient Loop Platform"
+ COMBAT_COMPUTER_PLATFORM_SAPIENT_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_SPIRAL:0 "Autnomous Loop Platform"
+ COMBAT_COMPUTER_PLATFORM_AUTONOMOUS_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_PLATFORM_PRECOG_SPIRAL:0 "Precog Loop Platform"
+ COMBAT_COMPUTER_PLATFORM_PRECOG_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_SAPIENT_SPIRAL:0 "Sapient Loop Starbase"
+ COMBAT_COMPUTER_STARBASE_SAPIENT_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_SPIRAL:0 "Autnomous Loop Starbase"
+ COMBAT_COMPUTER_STARBASE_AUTONOMOUS_SPIRAL_desc:0 ""
+ COMBAT_COMPUTER_STARBASE_PRECOG_SPIRAL:0 "Precog Loop Starbase"
+ COMBAT_COMPUTER_STARBASE_PRECOG_SPIRAL_desc:0 ""
  
  # Dimensional #
  

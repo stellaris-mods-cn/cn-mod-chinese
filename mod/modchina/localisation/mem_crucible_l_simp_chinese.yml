@@ -1,4 +1,4 @@
-﻿
+﻿#Crucible
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -95,7 +95,7 @@ l_simp_chinese:
 
  MEM_CRUCIBLE_STUDY_HOMEWORLD:0 "研究循环世界"
  MEM_CRUCIBLE_STUDY_HOMEWORLD_DESC:0 "[mem_crucible_planet.GetName]是一个陷入死亡和重生的无尽循环的月亮。如果我们要找出原因，这就是我们应该开始的地方。"
- MEM_CRUCIBLE_STUDY_CONTROLLER:0 "研究$pc_shrouded$"
+ MEM_CRUCIBLE_STUDY_CONTROLLER:0 "研究被笼罩的星球"
  MEM_CRUCIBLE_STUDY_CONTROLLER_DESC:0 "[mem_crucible_controller_planet.GetName]永远笼罩在奇怪的雾中，被困在无尽的轮回中的月亮环绕。一定有什么特别之处。"
  MEM_CRUCIBLE_CONTACT_THE_CONTROLLER:0 "问题的根源"
  MEM_CRUCIBLE_CONTACT_THE_CONTROLLER_DESC:0 "导致[mem_crucible_planet.GetName]的无休止循环的是[mem_crucible_controller_planet.GetName]。 \n\n是时候找到它了。"
@@ -112,10 +112,10 @@ l_simp_chinese:
  job_mem_crucible_research_drone_plural:1 "熔炉控制器研究工蜂"
  job_mem_crucible_research_drone_desc:1 "在研究一台巨大的灵能计算机残骸的研究工蜂，这台计算机在解决了它为之创造的问题后关闭了，给我们留下了一个充满神奇技术的空壳。"
 
- mod_job_mem_crucible_researcher_add:1 "$job_mem_crucible_researcher$ 职位"
- mod_job_mem_crucible_researcher_per_pop:1 "§G+1§! $job_mem_crucible_researcher$ 职位每 $VALUE$ 人口"
- mod_job_mem_crucible_researcher_per_pop_short:1 "\n§G+1§! £job_researcher£ 每 $VALUE$ £pop£"
+ mod_job_mem_crucible_researcher_add:1 "$job_mem_crucible_researcher$$JOBS_TITLE$"
+ mod_job_mem_crucible_researcher_per_pop:1 "每 $VALUE$ 人口§G+1§! $job_mem_crucible_researcher$$JOBS_TITLE$"
+ mod_job_mem_crucible_researcher_per_pop_short:1 "\n每 $VALUE$ £pop£ §G+1§! £job_researcher£ "
  
- mod_job_mem_crucible_research_drone_add:1 "$job_mem_crucible_research_drone$ 职位"
- mod_job_mem_crucible_research_drone_per_pop:1 "§G+1§! $job_mem_crucible_research_drone$ 职位每 $VALUE$ 人口"
- mod_job_mem_crucible_research_drone_per_pop_short:1 "\n§G+1§! £job_researcher£ 每 $VALUE$ £pop£"
+ mod_job_mem_crucible_research_drone_add:1 "$job_mem_crucible_research_drone$$JOBS_TITLE$"
+ mod_job_mem_crucible_research_drone_per_pop:1 "每 $VALUE$ 人口§G+1§! $job_mem_crucible_research_drone$ $JOBS_TITLE$"
+ mod_job_mem_crucible_research_drone_per_pop_short:1 "\n每 $VALUE$ £pop£ §G+1§! £job_researcher£ "

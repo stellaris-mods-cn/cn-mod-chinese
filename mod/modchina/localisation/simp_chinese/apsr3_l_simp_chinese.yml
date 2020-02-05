@@ -7,7 +7,7 @@
  apsr3_planet_modifier_desc:0 "这是一个大型设备的I/O端口，可以响应数据处理。尽管这个系统已经很古老了，但它并没有受到任何侵蚀的破坏，而且几乎完全保存了下来。也许，我们可以用它来模拟我们尖端的科学理论。"
  
  apsr3_deposit:0 "$apsr3_planet_modifier$"
- apsr3_deposit_desc:0 "$apsr3_planet_modifier_desc$\n\n§M$apsr3_deposit_effect$§!" 
+ apsr3_deposit_desc:0 "$apsr3_planet_modifier_desc$\n\n§M$apsr3_deposit_effect$§!"
  apsr3_deposit_effect:0 "独特的资源可用: $apsr3_planet_modifier$"
  
  
@@ -67,9 +67,10 @@
  
  tech_apsr3_building_part3:0 "激活远古超算"
  tech_apsr3_building_part3_desc:0 "通过使用新发现的量子工程算法，我们可以开启这个地下复合体的“休眠”能力"
-
+ 
  tech_apsr3_building_part4:0 "移植系统"
- tech_apsr3_building_part4_desc:0 "我们以前从未接触过不能理解我们的编程语言的系统，所以现在是时候回到我们的基本编程算法并将它们修复到一个完美的状态。\n§M把§Y地下超算§!的这个星球作为你的首都，让建筑升级!§!" 
+ tech_apsr3_building_part4_desc:0 "我们以前从未接触过不能理解我们的编程语言的系统，所以现在是时候回到我们的基本编程算法并将它们修复到一个完美的状态。\n§M把§Y地下超算§!的这个星球作为你的首都，让建筑升级!§!"
+ 
  
  
  ### сообщения при постройке зданий
@@ -89,7 +90,7 @@
  apsr.3004.title:0 "通信配置器建成!"
  apsr.3004.desc:0 "现在§Y通信配置器§! 建成，我们得到了一种额外的力量来处理我们的思想，当然，得到了更多的自由空间，我们的活动管理，并大大提高了效率"
  apsr.3004.ok-button:0 "确认收到"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -121,17 +122,17 @@
  apsr.3013.title:0 "发现文物: §M$apsr3_planet_modifier$§!"
  apsr.3013.desc:0 "我们的一个新行星,我们发现了一些奇特的东西:在这里,在地面下,是一个地下超算。我们必须利用其中的知识来提高我们文明的科学性"
  apsr.3013.button:1 "非常棒"
-
-
-
+ 
+ 
+ 
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
  
  apsr.3015.title:0 "发现人造物: §M$apsr3_planet_modifier$§!"
  apsr.3015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n其中一颗行星上有一台巨大的计算机，几乎没有被时间损坏。这个星球的主人利用储存在上面的知识来提高他的科学水平。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr3_resource_planet.GetName]§!  \n§Y星球分类:§! §W[event_target:apsr20_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr3_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr3_resource_planet.Owner.GetName]§!"
  apsr.3015.button:1 "有趣!"
 
-
-
+ 
+ 
  ### SPECIAL PROJECT
  
  apsr3_special:0 "$apsr3_planet_modifier$"

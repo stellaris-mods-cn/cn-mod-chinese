@@ -1,16 +1,16 @@
 ﻿l_simp_chinese:
  
  Civic_GAPS_Sad_Socretes:2 "悲观哲学"
- Civic_GAPS_Sad_Socretes_desc:2 "随着这个社群了解的东西越多，他们变得越加沮丧，越加依赖于其他能让他们分心的东西。尽管许多个体成员有着一些相当伟大的思想，但他们常对宇宙的命运感到悲伤。尽管如此，他们仍然希望能找到解决他们绝望的方法。\n§S科技§!\n§Y£physics_research 计算机科技 T1 可重复 UL (悲观同一):§! 科研人员 §G+1§! £unity \n§Y£physics_research 计算机科技 T2 可重复 UL (继续前行，尽管徒劳):§! 研究速度 §G+5%§!, 异常研究速度 §G+5%§!\n§Y£physics_research 计算机科技 T3 可重复 UL (最悲观也最聪明):§! 每个人口§G+0.01§! $job_head_researcher$ 职位, 科学家技能等级 §G+1§!"
+ Civic_GAPS_Sad_Socretes_desc:2 "随着这个社群了解的东西越多，他们变得越加沮丧，越加依赖于其他能让他们分心的东西。尽管许多个体成员有着一些相当伟大的思想，但他们常对宇宙的命运感到悲伤。尽管如此，他们仍然希望能找到解决他们绝望的方法。\n§S科技§!\n§Y£physics_research 计算机科技 T1 可重复 UL (悲观同一):§! 科研人员 §G+1§! £unity \n§Y£physics_research 计算机科技 T2 可重复 UL (继续前行，尽管徒劳):§! 研究速度 §G+5%§!, 异常研究速度 §G+5%§!\n§Y£physics_research 计算机科技 T3 可重复 UL (最悲观也最聪明):§! 每个人口§G+0.01§! $job_head_researcher$ 岗位, 科学家技能等级 §G+1§!"
  Trait_GAPS_Sad_Socretes:0 "悲观哲学"
  Trait_GAPS_Sad_Socretes_desc:0 "生理上易感悲观和智慧"
  
  Tech_GAPS_Sad_Unity:0 "悲观统一"
  Tech_GAPS_Going_Forward_Despite_Futility:0 "继续前行，尽管徒劳"
- Tech_GAPS_Going_Saddest_And_Smartest:0 "最悲观也最聪明"
+ Tech_GAPS_Going_Saddest_And_Smartest:0 "最悲观但也最聪明"
  Tech_GAPS_Sad_Unity_desc:0 "悲观统一"
  Tech_GAPS_Going_Forward_Despite_Futility_desc:0 "继续前行，尽管徒劳"
- Tech_GAPS_Going_Saddest_And_Smartest_desc:0 "最悲观也最聪明"
+ Tech_GAPS_Going_Saddest_And_Smartest_desc:0 "最悲观但也最聪明"
  
  mod_planet_researchers_unity_produces_add:0 "研究人员产生§G+1§! £unity"
  

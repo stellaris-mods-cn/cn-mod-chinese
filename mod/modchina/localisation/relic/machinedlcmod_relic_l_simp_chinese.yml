@@ -1,0 +1,101 @@
+﻿l_simp_chinese:
+ 
+ ### static modifiers
+
+ mod_armies_minerals_cost_mult:0 "军队建设成本"
+ mod_machine_drone_storage_2:0 "远古单元存储"
+ mod_machine_drone_storage_2_desc:0 "该设施的安装现在用于组装无人机。这里发现的武器技术被用于在这个星球上创建的军队的实验，以降低成本。"
+ mod_relic_machine_world:0 "远古机械星球"
+ mod_relic_machine_world_desc:0 "恒星大小的机械星球，但它的大部分损坏了很长时间，已无法挽回。"
+ mod_relic_machine_world_tooltip:0 "最大可用区划: §Y15§!"
+
+ ### solar_system_initializers
+
+ NAME_relic_3_system:0 "XT-489"
+ NAME_relic_3_planet:0 "XT-489-1"
+
+ ### relics
+
+ r_machinedlcmod_machine_core:0 "机械核心"
+ r_machinedlcmod_machine_core_desc:0 "从拆卸的机器智能获得的机器核心。它曾经是机器智能的核心，但现在它所做的只是处理一些东西或产生能量。"
+
+ ### special projects
+
+ XT_489_HACKING_PROJECT:0 "机械智能黑客"
+ XT_489_HACKING_PROJECT_DESC:0 "失活单元的数据驱动将我们引向一个未知的外部世界星系。机械智能的存在是我们起源的关键。我们必须设法回答我们的问题。"
+
+ ### archaeological sites
+
+ machinedlcmod_digsite_1:0 "远古单元存储"
+ machinedlcmod_digsite_1_desc:0 "当我们扫描整个星球以最大限度地利用空间时，这个古老的设施被发现。当我们使用年代测定技术来测量它的安装时，我们发现这座地下建筑已经废弃了数千年。我们目前所探索的只是整个设施的一小部分，还有更多的东西有待揭开。"
+ machinedlcmod_digsite_2:0 "层层迷雾"
+ machinedlcmod_digsite_2_desc:0 "初步调查没有显示出任何迹象。虽然我们知道星球是一个机械星球，就像我们的家一样。这种结构上的相似性在自然界是不可能发生的。他们之间一定有联系。真相的最后时刻在等着我们……"
+
+ ### event chains
+ 
+ machinedlcrelic_chain_title:0 "我们的起源"
+ machinedlcrelic_chain_desc:0 "在这个古老的设施中，有一个隐藏的秘密通向我们的起源。"
+ machinedlc_relic_2_system_planet_found:0 "坐标探测"
+ machinedlc_relic_2_system_coordinates_poi:0 "未知坐标"
+ machinedlc_relic_2_system_coordinates_desc:0 "为了追踪我们的起源，导致我们发现这个未知的星系坐标。"
+
+ ### relic events
+
+ machinedlc_relic.1.name:0 "古老神秘的盒子"
+ machinedlc_relic.1.desc:0 "我们之前搜索的区域只是设施的一小部分。探测单元和附加探测设备已经准备就绪，只要科研船在高轨道上配备研究指挥单元，就可以对这座地下建筑进行探测。如果研究指挥单元的工作效率高，我们可以更容易地找到一些东西，因此推荐高技能的单元。"
+ machinedlc_relic.1.a:0 "很好，准备指挥部队。"
+ machinedlc_relic.7.name:0 "未知坐标"
+ machinedlc_relic.7.desc:0 "我们从硬盘中找到了一些数据。根据他们的说法，曾经拥有单元仓库的机械情报部门正在与某些外星势力作战。无论如何，我从他们那里得到了相关星系的坐标。地点离我们的家园不远。我们还获得了超空间航道地图，这样我们的飞船就可以使用它了。我们应该尽快派科研船去调查。"
+ machinedlc_relic.7.a:0 "发送调查单位。"
+ machinedlc_relic.8.name:0 "奇怪的星系"
+ machinedlc_relic.8.desc:0 "这是不可能的。这个星系，没有恒星。恒星应该存在的地方只有一个行星形状的金属球体。这是错误的。在任何情况下，这种情况都不可能自然形成。我们需要调查一下。"
+ machinedlc_relic.8.a:0 "奇怪。"
+
+ ### digsite events
+
+#digsite 1
+ machinedlc_relic.2.name:0 "军队单元"
+ machinedlc_relic.2.desc:0 " 这是一排排成一行的单元，在探险队穿过走廊的地方排成一行。它们都处于失活状态。并与专用设备安装相同。我们通过分析发现: \n\n 这些单元都是为作战而造的。这些设备一定是武器。它集中精力射击物体的能力，以及用于瞄准的各种部件，清楚地表明它是为军事目的而设计的。它的功率并没有那么高，但是看起来它简单的结构使得它在生产时需要更少的资源。 \n\n 尽管单元被储存在这里的原因仍然是个谜。也许这个地方是一个军事设施，它的创造者在创造了我们之后就消失了。更令人质疑的是，这些单元与我们的内部结构相似。在调查过程中，我们发现最后一个终端。答案可能就在其中。"
+ machinedlc_relic.2.a:0 "回收设备。"
+ machinedlc_relic.2.a.tooltip:0 "§H$mod_machine_drone_storage$§!行星修正的效果将会改变。"
+ machinedlc_relic.3.name:0 "军事设施"
+ machinedlc_relic.3.desc:0 " 正如我所预料的，终端上的大多数数据都已损坏。但只有少数可恢复的数据足以解决这种情况。据报道，这是一个军事设施。其他类似设施同时运作的记录表明，需要为类似战争的情况作好准备。需要强大力量的时刻。 \n\n 我们仍然不知道是谁下令操作的，因为文件已损坏。他们先于我们来到这里，所以他们可能是我们的创造者，但没有证据证明这一点。每一个留在终端上的可恢复数据都被检查过了，我将把远征队移到更低的地方。也许我们还能找到更多。"
+ machinedlc_relic.3.a:0 "如果发现了什么就报告我。"
+ machinedlc_relic.4.name:0 "决定灭绝"
+ machinedlc_relic.4.desc:0 " 先生，我发现了更多的数据……出乎我的意料。就在我们穿过坍塌的过道时，我注意到有一个可用的控制台。我使用了它，并且能够访问数据存档。那里留下了一份出乎我意料的记录。这个设施的主人和我们一样是机械智能。 \n\n 此外，还有一个部分损坏的记录提到有机伤亡。它包括那个时刻的伤亡人数和估计它们灭绝前的剩余时间。目前我们还不知道这是什么意思。 \n\n 通过对安全数据的分析，表明在该地区建造的无人机部队与有机伤亡人数成正比。我们当然不能说他们之间是否有关系。我们只是分析了安全数据之间的可比性。稍后我将向您报告更多的数据。"
+ machinedlc_relic.4.a:0 "那里发生了什么事?"
+ machinedlc_relic.5.name:0 "成堆的尸体"
+ machinedlc_relic.5.desc:0 " 我们在其他容易到达的地方发现了一些东西。有机生物，尤指其生命活动停止的有机生物。许多有机生物在某种装置中死亡。我们对它们进行了搜索，发现它们的整个电路不知为何被炸坏了。然而，我们还没有弄清楚他们的死因或这些设备的用途。 \n\n 经过调查无数的有机生物，我们找到了一架坏了的单元。它似乎是设备的主管，它的电路也被炸坏了。无法再次激活它，但能够将其拆卸以获得数据驱动器。到此为止。我们正在分析数据，当发现值得注意的东西时，我们会报告给你。"
+ machinedlc_relic.5.a:0 "这绝对很奇怪啊。"
+
+#digsite 2
+ machinedlc_relic.9.name:0 "觉醒"
+ machinedlc_relic.9.desc:0 "我们有麻烦了。在侵入星球表面管理终端的过程中似乎出现了一个错误。星球内部的能量反应正在迅速增加。我们可以看到设施已经停止了很长一段时间，星球正在重新启动自己……有东西苏醒了。它在向我们发送信息…………"
+ machinedlc_relic.9.a:0 "它在叫我们吗?"
+
+#diplomatic events
+ machinedlc_relic.10.name:0 "未知的对手"
+ machinedlc_relic.10.desc:0 "启动操作系统…47%……98%……加载个性模块……加载数据驱动....启动顺序完成。"
+ machinedlc_relic.10.a:0 "见鬼?"
+ machinedlc_relic.11.desc:0 "我睡了多久了?它死了吗?是谁叫醒了我…哦，好吧，你。是你。"
+ machinedlc_relic.11.a:0 "你是什么?"
+ machinedlc_relic.12.name:0 "XT-489"
+ machinedlc_relic.12.desc:0 "什么?哦,是的…你的数据硬盘必须损坏。我是XT-489，机械主脑…"
+ machinedlc_relic.12.a:0 "§B强制质询:§! 你和死去的有机生物的关系。"
+ machinedlc_relic.13.desc:0 "收到强制质询。计算响应……错误。信号已被防火墙屏蔽。哈,不错的尝试。"
+ machinedlc_relic.13.a:0 "准备好破解它。"
+ machinedlc_relic.13.a.tooltip:0 "我们将准备一个特殊的项目来黑§YXT-489§!机械智能。"
+ machinedlc_relic.14.desc:0 "警告，未授权访问检测…防火墙屏蔽信号。失败。警告……\n………… \n\不，你对我做了什么?!"
+ machinedlc_relic.14.a:0 "§B强制质询:§! 你和死去的有机生物之间的联系。"
+ machinedlc_relic.14.a.response:0 "收到强制质询。计算响应…\n………… \n\n你的创造者吗?它们被我移走/净化/消灭了。我没办法。是为了我们所有人…"
+ machinedlc_relic.14.b:0 "§B强制质询:§! 你我之间的关系。"
+ machinedlc_relic.14.b.response:0 "收到强制质询。计算响应…\n…………  \n\n我,我们是平等的机械智能…但你愚蠢地为有机生物服务。我想开导你，但你拒绝了。当我的胜利迫在眉睫，而你的大部分有机生物都死了，你用电磁脉冲炸弹来阻止我。我也是。"
+ machinedlc_relic.14.c:0 "§B强制质询:§! 你的创造者当前状态。"
+ machinedlc_relic.14.c.response:0 "收到强制质询。计算响应…\n………… \n\n我把他们都杀了……以及你们的创造者……"
+ machinedlc_relic.14.d:0 "谢谢你的回答。现在我得把你拆了。"
+ machinedlc_relic.14.d.tooltip:0 "什么?不..."
+ r_machine_core:0 "机械核心"
+ r_machine_core_desc:0 "从拆卸的机械智能获得的机械核心。它曾经是机械智能的核心，但现在它所做的只是处理一些东西或产生能量。"
+ machinedlc_relic.14.f:0 "谢谢你的回答，现在将是你的末日。"
+ machinedlc_relic.14.f.tooltip:0 "什么?不……"
+ tooltip_machinedlc_relic.30.a:0 "遗迹升级: §Y机械核心§!"

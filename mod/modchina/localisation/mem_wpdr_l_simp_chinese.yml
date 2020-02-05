@@ -1,0 +1,31 @@
+﻿# Weapon Platform Deployment Rig
+
+l_simp_chinese:
+
+ mem_wpdr_capital_ship: "机动武器部署平台"
+ mem_wpdr_capital_ship_plural: "机动武器部署平台"
+ mem_wpdr_tiny_ship: "移动平台"
+ mem_wpdr_tiny_ship_plural: "移动平台"
+
+ mem_wpdr_capital_ship_key: ""
+ mem_wpdr_tiny_ship_key: ""
+
+ r_mem_wpdr_production_matrix: "UTA制造矩阵"
+ r_mem_wpdr_production_matrix_desc: "从UTA平台上抢救出来的不屈不挠的勇士，这个组件负责快速生产移动武器平台，§Y环球运输联盟§!在它过早死亡之前就使用了它。"
+ mem_wpdr_production_matrix_tooltip: "立即在首都用随机武器创建§S8§!个移动平台(§Y$ENERGY_LANCE_1$§!, §Y$MASS_ACCELERATOR_1$§!或§Y$ARC_EMITTER_1$§!)。 "
+
+ MEM_WPDR_BOARD_WRECK: "英勇无畏"
+ MEM_WPDR_BOARD_WRECK_DESC: "§Y[capital_ship.Solar_System.GetName]§!的一艘巨大战舰被毁。 \n\n我们可以派一组人员登上它，揭开它的秘密。"
+
+ mem_wpdr.3.name: "英勇无畏宕机"
+ mem_wpdr.3.desc: "在§Y[From.Solar_System.GetName]§!的战斗中，我们对§S英勇无畏§!造成了严重的破坏，导致飞船无法使用。 \n\n我们可以派遣一艘§Y科研船§!登上这艘船，了解更多关于它独特的技术和历史。"
+ mem_wpdr.3.a: "就这样吧。"
+ mem_wpdr.4.name: "英勇无畏"
+ mem_wpdr.4.desc: "§Y[Leader.GetName]§!报告成功登船并研究了§S英勇无畏§!的内部 - 在[capital_ship.Solar_System.GetName]星系发现的一艘大型战舰。 \n\n这艘船是由§S环球运输联盟§!建造和使用的，该组织是在几千年前的某种银河系政治危机之后成立的。当时在场的许多国家都崩溃了，使得贸易路线不受保护，容易受到日益猖獗的海盗袭击，直到非政府组织不得不介入。该联盟经营着许多大型的主力舰，如英勇无畏，即所谓的§Y机动武器部署平台§!，它生产的小型战斗机能够有效地追击海盗船，并与它们进行远程武器交战。 \n\n有一段时间，这个联盟得到了政府和私人捐助者的慷慨资助，不仅能够打击海盗，而且还在自己的基础设施上进行了大量投资。然而，随着海盗威胁的减弱和联盟力量的增强，各种势力开始不满于UTA的统治地位，要求解散联盟。大多数军官最终都投奔了他们的本土帝国，而那些没有投奔的则被追捕归案。英勇无畏是保卫联盟总部的最后一个幸存的平台。似乎它的敌人选择不去追击这艘孤独的船，随着时间的推移，船员要么将抛弃它，要么已经死亡，让它处于自动防御模式。\n\n现在，这艘船损坏得无法修理了。然而，我们能够提取负责创建新平台的制造矩阵。"
+ mem_wpdr.4.a: "把它带到我们的家园。"
+ mem_wpdr.5.name: "英勇战斗群"
+ mem_wpdr.5.desc: "我们遇到了一群驻扎在§Y[From.GetName]§!星系的舰队，由一艘巨大的战舰引导。扫描显示了广泛的造船能力，模糊了船舶和基地之间的界线。 \n\n我们的自动应答器识别这艘船为§S英勇无畏§!，它连同它的护航舰一起形成了“英勇战斗群”!它的意图似乎是敌对的。"
+ mem_wpdr.5.a: "这东西太大了!"
+
+ mem_wpdr_power: "WPDR之力"
+ mod_shipsize_mem_wpdr_tiny_ship_hull_add: "武器平台船体值:"

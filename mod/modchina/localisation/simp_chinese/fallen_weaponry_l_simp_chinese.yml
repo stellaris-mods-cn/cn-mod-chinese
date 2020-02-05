@@ -43,10 +43,10 @@
  tech_terror_cannon_desc:0 "这种致命的大炮能激发巨大的恐惧。"
  
  ION_DISRUPTOR:0 "离子分解器"
- ION_DISRUPTOR_DESC:0 "发射离子束摧毁敌方船只的实验武器。"
+ ION_DISRUPTOR_DESC:0 "发射离子束摧毁敌方飞船的实验武器。"
  
  tech_ion_disruptor:0 "离子分解器"
- tech_ion_disruptor_desc:0 "发射离子束摧毁敌方船只的实验武器。"
+ tech_ion_disruptor_desc:0 "发射离子束摧毁敌方飞船的实验武器。"
  
  COMPACT_OMNI_LANCE:0 "紧凑型全向光矛"
  COMPACT_OMNI_LANCE_DESC:0 "紧凑型全向光矛是其对应的小型版本:全向光矛。"
@@ -127,7 +127,7 @@
  tech_elder_tiyanki_weapon_desc:0 "鉴于我们对泰坦尼克武器的了解，以及我们对提杨凯太空鲸的了解，我们的顶尖工程师可以尝试制造一种我们自己的巨大的提杨凯武器。"
  
  GRAY_GOO_BEAM:0 "灰濛梁"
- GRAY_GOO_BEAM_DESC:0 "这种武器的作用使科学家感到困惑。我们所知道的是，某些以特定频率发射的粒子会对敌方船只造成巨大伤害。"
+ GRAY_GOO_BEAM_DESC:0 "这种武器的作用使科学家感到困惑。我们所知道的是，某些以特定频率发射的粒子会对敌方飞船造成巨大伤害。"
  
  tech_gray_goo_beam:0 "灰濛梁"
  tech_gray_goo_beam_desc:0 "研究报告说，这种灰色的粘液粘性很好。这神秘的武器是什么?"

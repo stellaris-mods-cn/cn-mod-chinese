@@ -1,0 +1,337 @@
+﻿l_simp_chinese:
+
+ apsr_enclave_economy_window_title:0 "改进:经济力量"
+ 
+ 
+ 
+ 
+ 
+ ### ТЕХНОЛОГИИ ###
+ 
+ TECH_APSR_ENCLAVE_ECONOMY_TITLE:0 "§M$apsr_enclave_economy_window_title$§!"
+ TECH_APSR_ENCLAVE_ECONOMY_DESC:0 "我们用积累的£apsr_knowledge£ §M$apsr_knowledge$§!换取特殊的技术来发展我们的经济!"
+ 
+ # УЛУЧШЕНИЕ 01 # 
+ tech_apsr_enclave_economy_button_01_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_01_bonus_desc:0 "$apsr_enclave_economy_button_01_desc$"
+ 
+ # УЛУЧШЕНИЕ 02dg # 
+ tech_apsr_enclave_economy_button_02dg_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_02dg_bonus_desc:0 "$apsr_enclave_economy_button_02dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 02m # 
+ tech_apsr_enclave_economy_button_02m_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_02m_bonus_desc:0 "$apsr_enclave_economy_button_02m_desc$"
+ 
+ # УЛУЧШЕНИЕ 03dg # 
+ tech_apsr_enclave_economy_button_03dg_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_03dg_bonus_desc:0 "$apsr_enclave_economy_button_03dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 03m # 
+ tech_apsr_enclave_economy_button_03m_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_03m_bonus_desc:0 "$apsr_enclave_economy_button_03m_desc$"
+ 
+ # УЛУЧШЕНИЕ 04d # 
+ tech_apsr_enclave_economy_button_04d_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_04d_bonus_desc:0 "$apsr_enclave_economy_button_04d_desc$"
+ 
+ # УЛУЧШЕНИЕ 04gm # 
+ tech_apsr_enclave_economy_button_04gm_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_04gm_bonus_desc:0 "$apsr_enclave_economy_button_04gm_desc$"
+ 
+ # УЛУЧШЕНИЕ 05 # 
+ tech_apsr_enclave_economy_button_05_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_05_bonus_desc:0 "$apsr_enclave_economy_button_05_desc$"
+ 
+ # УЛУЧШЕНИЕ 06 # 
+ tech_apsr_enclave_economy_button_06_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_06_bonus_desc:0 "$apsr_enclave_economy_button_06_desc$"
+ 
+ # УЛУЧШЕНИЕ 07 # 
+ tech_apsr_enclave_economy_button_07_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_07_bonus_desc:0 "$apsr_enclave_economy_button_07_desc$"
+ 
+ # УЛУЧШЕНИЕ 08 # 
+ tech_apsr_enclave_economy_button_08_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_08_bonus_desc:0 "$apsr_enclave_economy_button_08_desc$"
+ 
+ # УЛУЧШЕНИЕ 09dg # 
+ tech_apsr_enclave_economy_button_09dg_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_09dg_bonus_desc:0 "$apsr_enclave_economy_button_09dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 09m # 
+ tech_apsr_enclave_economy_button_09m_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_09m_bonus_desc:0 "$apsr_enclave_economy_button_09m_desc$"
+ 
+ # УЛУЧШЕНИЕ 10d # 
+ tech_apsr_enclave_economy_button_10d_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_10d_bonus_desc:0 "$apsr_enclave_economy_button_10d_desc$"
+ 
+ # УЛУЧШЕНИЕ 10gm # 
+ tech_apsr_enclave_economy_button_10gm_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_economy_button_10gm_bonus_desc:0 "$apsr_enclave_economy_button_10gm_desc$"
+ 
+ # УЛУЧШЕНИЕ 11dg # 
+ tech_apsr_enclave_economy_button_11dg_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_11dg_bonus_desc:0 "$apsr_enclave_economy_button_11dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 11m # 
+ tech_apsr_enclave_economy_button_11m_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_11m_bonus_desc:0 "$apsr_enclave_economy_button_11m_desc$"
+ 
+ # УЛУЧШЕНИЕ 12dg # 
+ tech_apsr_enclave_economy_button_12dg_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_12dg_bonus_desc:0 "$apsr_enclave_economy_button_12dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 12m # 
+ tech_apsr_enclave_economy_button_12m_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_12m_bonus_desc:0 "$apsr_enclave_economy_button_12m_desc$"
+ 
+ # УЛУЧШЕНИЕ 13d # 
+ tech_apsr_enclave_economy_button_13d_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_13d_bonus_desc:0 "$apsr_enclave_economy_button_13d_desc$"
+ 
+ # УЛУЧШЕНИЕ 13gm # 
+ tech_apsr_enclave_economy_button_13gm_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_13gm_bonus_desc:0 "$apsr_enclave_economy_button_13gm_desc$"
+ 
+ # УЛУЧШЕНИЕ 14 # 
+ tech_apsr_enclave_economy_button_14_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_14_bonus_desc:0 "$apsr_enclave_economy_button_14_desc$"
+ 
+ # УЛУЧШЕНИЕ 15 # 
+ tech_apsr_enclave_economy_button_15_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_economy_button_15_bonus_desc:0 "$apsr_enclave_economy_button_15_desc$"
+ 
+ # УЛУЧШЕНИЕ 16 # 
+ tech_apsr_enclave_economy_button_16_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_economy_button_16_bonus_desc:0 "$apsr_enclave_economy_button_16_desc$"
+ 
+ # УЛУЧШЕНИЕ 17d # 
+ tech_apsr_enclave_economy_button_17d_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_economy_button_17d_bonus_desc:0 "$apsr_enclave_economy_button_17d_desc$"
+ 
+ # УЛУЧШЕНИЕ 17gm # 
+ tech_apsr_enclave_economy_button_17gm_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_economy_button_17gm_bonus_desc:0 "$apsr_enclave_economy_button_17gm_desc$"
+ 
+ # УЛУЧШЕНИЕ 18 # 
+ tech_apsr_enclave_economy_button_18_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_economy_button_18_bonus_desc:0 "$apsr_enclave_economy_button_18_desc$"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### УЛУЧШЕНИЯ ###
+ 
+ ## УРОВЕНЬ 0 ## 
+ apsr_enclave_economy_available_section_title:0 "§M可用§!"
+ apsr_enclave_economy_buy_desc:0 "§M购买选择的改进§!"
+ apsr_enclave_economy_please_select_desc:0 "§M请在右边栏中选择一个改进!§!"
+ apsr_enclave_economy_locked:0 "改进锁定"
+ 
+ ## УРОВЕНЬ 1 ##
+ apsr_enclave_economy_buttons_stage1_title:0 "§M等级 1§!"
+ 
+ # УЛУЧШЕНИЕ 1 #
+ apsr_enclave_economy_button_01_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_01_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得优化居民点与工作之间资源分配系统的技术。"
+ apsr_enclave_economy_button_01_effect:0 "效果: §Y$mod_planet_pops_upkeep_mult$§! §G-5%§!并且§Y$mod_planet_jobs_upkeep_mult$§! §G-5%§!"
+ apsr_enclave_economy_button_01_failtext:0 "§R我们还没有准备好给你这个改进。\n你应该在几年内与我们联系。§!"
+ apsr_enclave_economy_button_01_info:0 "$apsr_enclave_economy_button_01_title$\n$apsr_enclave_economy_button_01_desc$\n§W--------------§!\n$apsr_enclave_economy_button_01_effect$"
+ 
+ # УЛУЧШЕНИЕ 2 #
+ apsr_enclave_economy_button_02dg_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_02dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得提高能源和矿产产量的技术。"
+ apsr_enclave_economy_button_02dg_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+5%§!并且§Y$mod_planet_jobs_minerals_produces_mult$§! §G+5%§!"
+ apsr_enclave_economy_button_02dg_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_02dg_info:0 "$apsr_enclave_economy_button_02dg_title$\n$apsr_enclave_economy_button_02dg_desc$\n§W--------------§!\n$apsr_enclave_economy_button_02dg_effect$"
+ apsr_enclave_economy_button_02m_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_02m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得提高矿物产量的技术。"
+ apsr_enclave_economy_button_02m_effect:0 "效果: §Y$mod_planet_jobs_minerals_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_02m_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_02m_info:0 "$apsr_enclave_economy_button_02m_title$\n$apsr_enclave_economy_button_02m_desc$\n§W--------------§!\n$apsr_enclave_economy_button_02m_effect$"
+ 
+ # УЛУЧШЕНИЕ 3 #
+ apsr_enclave_economy_button_03dg_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_03dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得提高粮食产量的技术。"
+ apsr_enclave_economy_button_03dg_effect:0 "效果: §Y$mod_planet_jobs_food_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_03dg_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_03dg_info:0 "$apsr_enclave_economy_button_03dg_title$\n$apsr_enclave_economy_button_03dg_desc$\n§W--------------§!\n$apsr_enclave_economy_button_03dg_effect$"
+ apsr_enclave_economy_button_03m_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_03m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得提高能源产量的技术。"
+ apsr_enclave_economy_button_03m_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_03m_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_03m_info:0 "$apsr_enclave_economy_button_03m_title$\n$apsr_enclave_economy_button_03m_desc$\n§W--------------§!\n$apsr_enclave_economy_button_03m_effect$"
+ 
+ # УЛУЧШЕНИЕ 4 #
+ apsr_enclave_economy_button_04d_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_04d_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得优化消费品和合金生产系统的技术"
+ apsr_enclave_economy_button_04d_effect:0 "效果: §Y$mod_planet_jobs_consumer_goods_produces_mult$§! §G+5%§!并且§Y$mod_planet_jobs_alloys_produces_mult$§! §G+5%§!"
+ apsr_enclave_economy_button_04d_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_04d_info:0 "$apsr_enclave_economy_button_04d_title$\n$apsr_enclave_economy_button_04d_desc$\n§W--------------§!\n$apsr_enclave_economy_button_04d_effect$"
+ apsr_enclave_economy_button_04gm_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_04gm_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!, we can acquire technology to optimize the system for the production of alloys"
+ apsr_enclave_economy_button_04gm_effect:0 "效果: §Y$mod_planet_jobs_alloys_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_04gm_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_04gm_info:0 "$apsr_enclave_economy_button_04gm_title$\n$apsr_enclave_economy_button_04gm_desc$\n§W--------------§!\n$apsr_enclave_economy_button_04gm_effect$"
+ 
+ # УЛУЧШЕНИЕ 5 #
+ apsr_enclave_economy_button_05_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_05_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得技术，以降低维持定居点的成本"
+ apsr_enclave_economy_button_05_effect:0 "效果: §Y$mod_planet_pops_upkeep_mult$§! §G-10%§!"
+ apsr_enclave_economy_button_05_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_05_info:0 "$apsr_enclave_economy_button_05_title$\n$apsr_enclave_economy_button_05_desc$\n§W--------------§!\n$apsr_enclave_economy_button_05_effect$"
+ 
+ # УЛУЧШЕНИЕ 6 #
+ apsr_enclave_economy_button_06_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_06_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得技术，以降低生产各种资源的成本"
+ apsr_enclave_economy_button_06_effect:0 "效果: §Y$mod_planet_jobs_upkeep_mult$§! §G-10%§!"
+ apsr_enclave_economy_button_06_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_06_info:0 "$apsr_enclave_economy_button_06_title$\n$apsr_enclave_economy_button_06_desc$\n§W--------------§!\n$apsr_enclave_economy_button_06_effect$"
+ 
+ # УЛУЧШЕНИЕ 7 #
+ apsr_enclave_economy_button_07_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_07_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得提高能源产量的技术。"
+ apsr_enclave_economy_button_07_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_07_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_07_info:0 "$apsr_enclave_economy_button_07_title$\n$apsr_enclave_economy_button_07_desc$\n§W--------------§!\n$apsr_enclave_economy_button_07_effect$"
+ 
+ # УЛУЧШЕНИЕ 8 #
+ apsr_enclave_economy_button_08_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_08_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得优化矿物提取的技术。"
+ apsr_enclave_economy_button_08_effect:0 "效果: §Y$mod_planet_jobs_minerals_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_08_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_08_info:0 "$apsr_enclave_economy_button_08_title$\n$apsr_enclave_economy_button_08_desc$\n§W--------------§!\n$apsr_enclave_economy_button_08_effect$"
+ 
+ # УЛУЧШЕНИЕ 9 #
+ apsr_enclave_economy_button_09dg_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_09dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得优化食品生产的技术。"
+ apsr_enclave_economy_button_09dg_effect:0 "效果: §Y$mod_planet_jobs_food_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_09dg_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_09dg_info:0 "$apsr_enclave_economy_button_09dg_title$\n$apsr_enclave_economy_button_09dg_desc$\n§W--------------§!\n$apsr_enclave_economy_button_09dg_effect$"
+ apsr_enclave_economy_button_09m_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_09m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得优化能源生产的技术。"
+ apsr_enclave_economy_button_09m_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_09m_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_09m_info:0 "$apsr_enclave_economy_button_09m_title$\n$apsr_enclave_economy_button_09m_desc$\n§W--------------§!\n$apsr_enclave_economy_button_09m_effect$"
+ 
+ # УЛУЧШЕНИЕ 10 #
+ apsr_enclave_economy_button_10d_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_10d_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得技术来优化我们的工厂和铸造厂。"
+ apsr_enclave_economy_button_10d_effect:0 "效果: §Y$mod_planet_jobs_consumer_goods_produces_mult$§! §G+5%§!并且§Y$mod_planet_jobs_alloys_produces_mult$§! §G+5%§!"
+ apsr_enclave_economy_button_10d_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_10d_info:0 "$apsr_enclave_economy_button_10d_title$\n$apsr_enclave_economy_button_10d_desc$\n§W--------------§!\n$apsr_enclave_economy_button_10d_effect$"
+ apsr_enclave_economy_button_10gm_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_economy_button_10gm_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得优化铸造厂的技术。"
+ apsr_enclave_economy_button_10gm_effect:0 "效果: §Y$mod_planet_jobs_alloys_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_10gm_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_10gm_info:0 "$apsr_enclave_economy_button_10gm_title$\n$apsr_enclave_economy_button_10gm_desc$\n§W--------------§!\n$apsr_enclave_economy_button_10gm_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 2 ##
+ apsr_enclave_economy_buttons_stage2_title:0 "§M等级 2§!"
+ 
+ # УЛУЧШЕНИЕ 11 #
+ apsr_enclave_economy_button_11dg_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_11dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以学习古人的先进技术，增加能源和矿物的开采"
+ apsr_enclave_economy_button_11dg_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+10%§!并且§Y$mod_planet_jobs_minerals_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_11dg_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_11dg_info:0 "$apsr_enclave_economy_button_11dg_title$\n$apsr_enclave_economy_button_11dg_desc$\n§W--------------§!\n$apsr_enclave_economy_button_11dg_effect$"
+ apsr_enclave_economy_button_11m_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_11m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以学习古人的先进技术，增加矿物的提取"
+ apsr_enclave_economy_button_11m_effect:0 "效果: §Y$mod_planet_jobs_minerals_produces_mult$§! §G+20%§!"
+ apsr_enclave_economy_button_11m_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_11m_info:0 "$apsr_enclave_economy_button_11m_title$\n$apsr_enclave_economy_button_11m_desc$\n§W--------------§!\n$apsr_enclave_economy_button_11m_effect$"
+ 
+ # УЛУЧШЕНИЕ 12 #
+ apsr_enclave_economy_button_12dg_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_12dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以学习古人的先进技术，增加粮食产量"
+ apsr_enclave_economy_button_12dg_effect:0 "效果: §Y$mod_planet_jobs_food_produces_mult$§! §G+20%§!"
+ apsr_enclave_economy_button_12dg_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_12dg_info:0 "$apsr_enclave_economy_button_12dg_title$\n$apsr_enclave_economy_button_12dg_desc$\n§W--------------§!\n$apsr_enclave_economy_button_12dg_effect$"
+ apsr_enclave_economy_button_12m_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_12m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以学习古人的先进技术，提高能源产量"
+ apsr_enclave_economy_button_12m_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+20%§!"
+ apsr_enclave_economy_button_12m_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_12m_info:0 "$apsr_enclave_economy_button_12m_title$\n$apsr_enclave_economy_button_12m_desc$\n§W--------------§!\n$apsr_enclave_economy_button_12m_effect$"
+ 
+ # УЛУЧШЕНИЕ 13 #
+ apsr_enclave_economy_button_13d_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_13d_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以学习古人的先进技术，增加消费品和合金的产量"
+ apsr_enclave_economy_button_13d_effect:0 "效果: §Y$mod_planet_jobs_consumer_goods_produces_mult$§! §G+10%§!并且§Y$mod_planet_jobs_alloys_produces_mult$§! §G+10%§!"
+ apsr_enclave_economy_button_13d_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_13d_info:0 "$apsr_enclave_economy_button_13d_title$\n$apsr_enclave_economy_button_13d_desc$\n§W--------------§!\n$apsr_enclave_economy_button_13d_effect$"
+ apsr_enclave_economy_button_13gm_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_13gm_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!,，我们可以学习古人的先进技术，增加合金的产量"
+ apsr_enclave_economy_button_13gm_effect:0 "效果: §Y$mod_planet_jobs_alloys_produces_mult$§! §G+20%§!"
+ apsr_enclave_economy_button_13gm_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_13gm_info:0 "$apsr_enclave_economy_button_13gm_title$\n$apsr_enclave_economy_button_13gm_desc$\n§W--------------§!\n$apsr_enclave_economy_button_13gm_effect$"
+ 
+ # УЛУЧШЕНИЕ 14 #
+ apsr_enclave_economy_button_14_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_14_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得古人的先进技术，并降低维护我们的定居点的成本"
+ apsr_enclave_economy_button_14_effect:0 "效果: §Y$mod_planet_pops_upkeep_mult$§! §G-20%§!"
+ apsr_enclave_economy_button_14_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_14_info:0 "$apsr_enclave_economy_button_14_title$\n$apsr_enclave_economy_button_14_desc$\n§W--------------§!\n$apsr_enclave_economy_button_14_effect$"
+ 
+ # УЛУЧШЕНИЕ 15 #
+ apsr_enclave_economy_button_15_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_economy_button_15_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以学习古人的先进技术，降低各种工作的成本。"
+ apsr_enclave_economy_button_15_effect:0 "效果: §Y$mod_planet_jobs_upkeep_mult$§! §G-20%§!"
+ apsr_enclave_economy_button_15_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_15_info:0 "$apsr_enclave_economy_button_15_title$\n$apsr_enclave_economy_button_15_desc$\n§W--------------§!\n$apsr_enclave_economy_button_15_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 3 ##
+ apsr_enclave_economy_buttons_stage3_title:0 "§M等级 3§!"
+ 
+ # УЛУЧШЕНИЕ 16 #
+ apsr_enclave_economy_button_16_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_economy_button_16_desc:0 "花了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得古人强大的技术，大大提高能源和矿物质的提取"
+ apsr_enclave_economy_button_16_effect:0 "效果: §Y$mod_planet_jobs_energy_produces_mult$§! §G+20%§!并且§Y$mod_planet_jobs_minerals_produces_mult$§! §G+20%§!"
+ apsr_enclave_economy_button_16_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_16_info:0 "$apsr_enclave_economy_button_16_title$\n$apsr_enclave_economy_button_16_desc$\n§W--------------§!\n$apsr_enclave_economy_button_16_effect$"
+ 
+ # УЛУЧШЕНИЕ 17 #
+ apsr_enclave_economy_button_17d_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_economy_button_17d_desc:0 "花了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得古人的强大技术，大大提高消费品和合金的产量"
+ apsr_enclave_economy_button_17d_effect:0 "效果: §Y$mod_planet_jobs_consumer_goods_produces_mult$§! §G+15%§!并且§Y$mod_planet_jobs_alloys_produces_mult$§! §G+15%§!"
+ apsr_enclave_economy_button_17d_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_17d_info:0 "$apsr_enclave_economy_button_17d_title$\n$apsr_enclave_economy_button_17d_desc$\n§W--------------§!\n$apsr_enclave_economy_button_17d_effect$"
+ apsr_enclave_economy_button_17gm_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_economy_button_17gm_desc:0 "花了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得古人的强大技术，显著提高合金的产量"
+ apsr_enclave_economy_button_17gm_effect:0 "效果: §Y$mod_planet_jobs_alloys_produces_mult$§! §G+30%§!"
+ apsr_enclave_economy_button_17gm_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_17gm_info:0 "$apsr_enclave_economy_button_17gm_title$\n$apsr_enclave_economy_button_17gm_desc$\n§W--------------§!\n$apsr_enclave_economy_button_17gm_effect$"
+ 
+ # УЛУЧШЕНИЕ 18 #
+ apsr_enclave_economy_button_18_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_economy_button_18_desc:0 "花了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以获得古人强大的技术，大大降低维护聚落和各类工作的资源成本"
+ apsr_enclave_economy_button_18_effect:0 "效果: §Y$mod_planet_pops_upkeep_mult$§! §G-20%§!并且§Y$mod_planet_jobs_upkeep_mult$§! §G-20%§!"
+ apsr_enclave_economy_button_18_failtext:0 "$apsr_enclave_economy_button_01_failtext$"
+ apsr_enclave_economy_button_18_info:0 "$apsr_enclave_economy_button_18_title$\n$apsr_enclave_economy_button_18_desc$\n§W--------------§!\n$apsr_enclave_economy_button_18_effect$"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

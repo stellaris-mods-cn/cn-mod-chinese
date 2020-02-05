@@ -1,0 +1,360 @@
+﻿l_simp_chinese:
+ ################
+ #
+ # Technologies
+ #
+ ################
+  
+ ####################################
+ # Enigmatic eng tech
+ ####################################
+ 
+ tech_enigmatic_defense_station:0 "巨型防御工事"
+ tech_enigmatic_defense_station_desc:0 "这些由密集的研究和努力建造的隔离站，了解数据核心内的站的设计，将允许我们创建我们自己的堡垒的神秘模式"
+ tech_enigmatic_armor:0 "神秘锻造技术"
+ tech_enigmatic_armor_desc:0 "核心的新发现表明了改进我们对中子的锻造的方法，从而提高了装甲和船体的强度"
+ tech_enigmatic_regenerative_hull_tissue:0 "神秘船体再生组织"
+ tech_enigmatic_regenerative_hull_tissue_desc:0 "在我们的细菌培养中使用神秘的粒子已经造成船体的重大改进，我们船体再生组织的重大改进。"
+ tech_enigmatic_crystal_armor:0 "神秘粒子晶体锻造"
+ tech_enigmatic_crystal_armor_desc:0 "通过在水晶中添加神秘粒子，我们能够创造一个新的船体，这不仅提高了它的完整性，而且也提高了装甲。"
+ tech_enigmatic_sct:0 "神秘标准结构模板"
+ tech_enigmatic_sct_desc:0 "这些模板非常先进，但足够简单，甚至可以在最偏远的殖民地上构建，并由儿童操作。"
+ tech_enigmatic_thrusters:0 "神秘推进器"
+ tech_enigmatic_thrusters_desc:0 "组成这个系列的奇异粒子被称为神秘粒子，它们为我们的星际飞船提供了更大的推力。"
+ tech_enigmatic_mining:0 "神秘矿业"
+ tech_enigmatic_mining_desc:0 "新的采矿技术和设备，基于神秘的设计，我们将大大提高我们的材料生产。"
+ 
+ ####################################
+ # Enigmatic soc tech
+ ####################################
+ 
+ tech_enigmatic_farming: "神秘农业"
+ tech_enigmatic_farming_desc: "在数据核心中显示了一些有趣的耕作实践。"
+ tech_enigamtic_social_experiments:0 "神秘社会实验"
+ tech_enigamtic_social_experiments_desc:0 "§L核心已经显示出有希望的社会技术，这些技术应该帮助我们的公民不仅变得更快乐，而且对我们做事的方式更满意。§!"
+ tech_doctrine_enigmatic_fleet_size:0 "神秘舰队博士"
+ tech_doctrine_enigmatic_fleet_size_desc:0 "通过研究神秘的舰队理论，我们学会了如何优化我们更大规模的舰队。"
+ tech_enigmatic_ship_designs_matrix:0 "神秘舰队矩阵"
+ tech_enigmatic_ship_designs_matrix_desc:0 "通过向数据中心提交我们的船舶设计，他们优化了计划，降低了建设和维护成本。"
+ tech_enigmatic_precognition_interface:0 "神秘预知接口"
+ tech_enigmatic_precognition_interface_desc:0 "在神秘粒子的帮助下，我们提高了预知接口的性能。"
+ tech_enigmatic_psi_jump_drive:0 "神秘灵能跃迁引擎"
+ tech_enigmatic_psi_jump_drive_desc:0 "神秘灵能跃迁引擎不仅可以跃迁更远的范围，而且还有助于为飞船提供动力。"
+ 
+ ####################################
+ # Enigmatic phys tech
+ ####################################
+ 
+ tech_enigmatic_ai:0 "神秘 AI"
+ tech_enigmatic_ai_desc:0 "通过将数据核中发现的奇异粒子添加到控制人工智能的神经网络中，我们可以大大提高它们的处理能力。"
+ tech_enigmatic_power_plants: "神秘发电厂"
+ tech_enigmatic_power_plants_desc: "电力核心产生的电力可以在更经济的水平上使用。"
+ tech_enigmatic_shield_rechargers:0 "Enigmatic Shield Capacitors"
+ tech_enigmatic_shield_rechargers_desc:0 "By using Enigmatic particles we have improved the means by which our shield capacitors regenerate shields as well as improve shield strength overall."
+ tech_enigmatic_sentient_combat_computers:0 "Enigmatic Attack Anima"
+ tech_enigmatic_sentient_combat_computers_desc:0 "Following the design patterns we have vastly improved our already formidable AI combat computers"
+ tech_enigmatic_autonomous_combat_computers:0 "Enigmatic Autonomous Anima"
+ tech_enigmatic_autonomous_combat_computers_desc:0 "Study of Attack Anima designs have lead to us improving our own autonomous craft."
+ tech_enigmatic_sensors:0 "Enigmatic Tachyon Sensors"
+ tech_enigmatic_sensors_desc:0 "By empowering our Tachyon sensors with enigmatic particles our fleets can detect ship movements even farther out."
+ tech_enigmatic_ftl_drives:0 "Enigmatic FTL Drives"
+ tech_enigmatic_ftl_drives_desc:0 "It appears that the Enigmatics created their own sub dimensions for vastly improved FTL travel these new drives also seem to be able to draw power from these sub dimensions. After course there are methods for FTL travel we have not considered and we will need to have a basic understanding on how they work."
+ tech_enigmatic_secrets:0 "Enigmatic Secrets"
+ tech_enigmatic_secrets_desc:0 "Although we do not fully understand these enigmatic technologies we were able to glean insights to do minor improvements to our own technologies perhaps by following these designs it may lead to something greater..."
+ tech_enigamtic_designs:0 "Enigmatic Designs"
+ tech_enigamtic_designs_desc:0 "From the technologies of the Enigmatics there seems to be an odd ghost code. Perhaps looking into it may yield great results but we are not that hopeful...but yet it may the the start of a greater design if only we had more of the pieces..."
+ 
+ ####################################
+ # Enigmatic weapons tech
+ ####################################
+ 
+ tech_enigmatic_energy_weapons:0 "Enimgatic Energy Weapon Patterns"
+ tech_enigmatic_energy_weapons_desc:0 "By Using new energy focused and adding enigmatic energy particles our new weapons that rely on weaponing energy have been improved and are for more efficient than those used by the lesser empires."
+ tech_enigmatic_kinetic_weapons:0 "Enigmatic Kinetic Weapon Patterns"
+ tech_enigmatic_kinetic_weapons_desc:0 "By adding enigmatic particles to the magnetic charge and using new materials cataloged in the data-cores our Mass Drivers have been greatly improved"
+ tech_enigmatic_explosives:0 "Enigmatic Explosive Weapon Patterns"
+ tech_enigmatic_explosives_desc:0 "The Enigmatic patterns for explosive weapons are vast improvement over the typical designs used by most empires that choose to use missiles and torpedoes these are faster, have a longer range, and are more durable to all but the highest end of point defense."
+ tech_enigmatic_strike_craft:0 "Enigmatic Omission Patterns"
+ tech_enigmatic_strike_craft_desc:0 "The Omission Pattern strike craft are vast improvements compared to even the highest grade of strike craft we have ever created this should make carriers a much more valued part of the fleet instead of always preferring spinal mounted weapons"
+ 
+ ####################################
+ # Loop weapons tech
+ ####################################
+ 
+ tech_loop_energy_weapons:0 "Loop Energy Weapons"
+ tech_loop_energy_weapons_desc:0 "Even though the particles from the loop has many positive benefits they are also capable of creating very destructive energy based weapons...love it seems can burn very much."
+ tech_loop_kinetic_weapons:0 "Loop Kinetic Weapons"
+ tech_loop_kinetic_weapons_desc:0 "In making a Deadly Kinetic weapon requires more than just increasing the kick from the gun but also in improving the materials used as ammo by said guns."
+ tech_loop_explosives:0 "Loop Explosive Weapons"
+ tech_loop_explosives_desc:0 "Long have Explosive weapons been overlooked with minimal though placed into their designs. But the Loop has inspired new designs which are more durable and faster than the ones used by the less adherent empires."
+ tech_loop_strike_craft:0 "Loop Zephyr designs"
+ tech_loop_strike_craft_desc:0 "Carriers have long been overlooked due to minimal design inputs placed into strike craft in favor of artillery ships. The Zephyrs are loop inspired designs meant to make strike craft more viable and named after a rather friendly entities that dwell in the loop"
+
+ #######################
+ # Cryptic Techs
+ #######################
+ 
+ tech_cryptic_access_controls:0 "Cryptic Access controls"
+ tech_cryptic_access_controls_desc:0 "With the help of our new AIs we have discovered that the enigmatics were even more advanced than we realized and now with these new access controls we can now upgrade our Data Cores to help provide us with a new level of technology we can barely understand with even with our new AI. We are on the threshold of something the galaxy has not seen in a long time..."
+ tech_cryptic_deflector:0 "Cryptic Deflector upgrades"
+ tech_cryptic_deflector_desc:0 "The new Cryptic Files has shown us how to vastly improve the defectors of what we have begun to call the enigmatic pattern. Very few empires would now have a chance to get to the hulls of our ships."
+ tech_cryptic_power_core:0 "Cryptic power cores"
+ tech_cryptic_power_core_desc:0 "By using barely understood cryptic files these new cryptic power cores generate even more power than their enigmatic pattern these will be necessary to power the new cryptic patterns we are uncovering."
+ tech_cryptic_encoder:0 "Cryptic Encoder"
+ tech_cryptic_encoder_desc:0 "These Encoders have an ever greater but still poorly understood encryption method that confounds the targeting systems of most empires."
+ tech_cryptic_decoder:0 "Cryptic Decoder"
+ tech_cryptic_decoder_desc:0 "These Decoders tear apart systems meant to jam targeting softwares and quickly decodes most erratic flight paths."
+ tech_cryptic_disruption_field:0 "Cryptic Disruption Field"
+ tech_cryptic_disruption_field_desc:0 "A greater improvement of the enigmatic pattern most fleets will become as slag when faced with our fleets equipped with these disruptors."
+ tech_cryptic_power_extraction:0 "Cryptic Power Extraction"
+ tech_cryptic_power_extraction_desc:0 "From what we are able to understand these new Power Plant are capable of generating even more power than the enigmatic pattern"
+ tech_cryptic_armor:0 "Cryptic Armor Patterns"
+ tech_cryptic_armor_desc:0 "Even we are not sure how but these new forging techniques have not only improved the strength but the integrity of our ship's hull."
+ tech_cryptic_mineral_extraction:0 "Cryptic Mineral Extraction"
+ tech_cryptic_mineral_extraction_desc:0 "These new factories are capable of a extracting and purifying materials to the 99th percentile."
+ tech_cryptic_ship_patterns:0 "Cryptic Ship Patterns"
+ tech_cryptic_ship_patterns_desc:0 "These ships are of far superior design that the fallen empires use...It seems theirs is the lesser design."
+ tech_cryptic_crop_cultivation:0 "Cryptic Crop Cultivation"
+ tech_cryptic_crop_cultivation_desc:0 "New cultivation techniques allow the construction buildings capable of feed all but the largest planets by itself."
+ tech_cryptic_dreadnought_pattern:0 "Dreadnought Pattern"
+ tech_cryptic_dreadnought_pattern_desc:0 "Warships such as these were once the proud flagships of heirs long past but studying this ship pattern these mighty ships will sail the void again under our empire's flag."
+ tech_cryptic_energy_weapons:0 "Cryptic Weapons"
+ tech_cryptic_energy_weapons_desc:0 "These weapons are greater than any we currently know..."
+ tech_cryptic_strike_craft:0 "Cryptic Strike Craft"
+ tech_cryptic_strike_craft_desc:0 "Although the name for the pattern could have a more original name never the less the Mark IIs are vastly improved designs allowing for stunts in space most strike craft would not be capable of."
+ tech_cryptic_ftl_travel:0 "Cryptic FTL Drives"
+ tech_cryptic_ftl_travel_desc:0 "These drives will take the fleets even further than was though possible and in most of our lesser ships outright replace most sections that would have been used for reactor compartments. But there may be risk with this though..."
+ tech_cryptic_gate_network:0 "Cryptic Gate Network"
+ tech_cryptic_gate_network_desc: ""
+ tech_cryptic_sai_attack_constructs:0 "SAI Attack Constructs"
+ tech_cryptic_sai_attack_constructs_desc:0 ""
+ tech_cryptic_gene_therapies:0 "Cryptic Gene Therapies"
+ tech_cryptic_gene_therapies_desc:0 "The Cores have revealed more advanced genetic therapies to redefine what it means to be our race. However we will not be as skilled as empires who have chosen the biological unless we ourselves have chosen that path as well..." 
+ tech_cryptic_ship_codex:0 "Cryptic Shipwright Matrix"
+ tech_cryptic_ship_codex_desc:0 "This Matrix is capable of self-designing ships and optimizing our existing patterns improving our fleets as a whole"
+ tech_cryptic_psi_jump_drive:0 "Cryptic Psi Drives"
+ tech_cryptic_psi_jump_drive_desc:0 "These Psionic drives have an improved power capacity,range and cooldown between jumps. If we didn't know better we would have though this to be the pinnacle of FTL travel."
+ tech_cryptic_thrusters:0 "Cryptic Thrusters"
+ tech_cryptic_thrusters_desc:0 "These Darkmatter thrusters are an improvement of what was already though of as the pinnacle of sub-light travel."
+ 
+ tech_celestial_genesis:0 "Seeds of Sapience"
+ tech_celestial_genesis_desc:0 "Knowledge from the mantle has revealed the means to pass on the spark to allow us the means of creating new presapient life."
+ 
+ #######################
+ # Celestial Techs
+ #######################
+ 
+ tech_celestial_mantle:0 "Celestial Mantle"
+ tech_celestial_mantle_desc:0 "It appears that the beings we have termed the Cryptics are not so named. They were known as Celestials a race or possibly races that are...old...so impossibly ancient that they may not even have had their beginning in the universe as we know it they...predate it. We barely understood how their Cryptic patterns worked but this it seems is turely beyond us. But it may be possible to learn their secrets...there may be no turning back from what we may unleash...or become..."
+ tech_celestial_ftl_drives:0 "Celestial FTL Drives"
+ tech_celestial_ftl_drives_desc:0 "Records of these drives speak of an entity created by Dread One known as the 'Gate Keeper' this being is responsible for the repairs and protection of the dimensions used for FTL travel. Though the entity somehow gained awareness and become fixated on ends and beginnings therefore abandoning it's duties and created its own strange realms of loops, spirals and paradoxes. The Realms it had abandoned however we have access to now."
+ tech_celestial_shields:0 "Celestial Shields"
+ tech_celestial_shields_desc:0 "These Shields are seconded to no shield technology that we know of weapons used by the lesser empires can blast away at them for年 and make no progress in disabling them."
+ tech_celestial_cyberwar_fare:0 "Celestial Cyberwar fare"
+ tech_celestial_cyberwar_fare_desc:0 ""
+ tech_celestial_genesis_2:0 "Genesis"
+ tech_celestial_genesis_desc_2:0 "Knowledge from the mantle has revealed the means to pass on the spark to allow us the means of creating new sapient life...perhaps they in time will become our heirs when and if we ever leave..."
+ tech_celestial_psi_jump_drive:0 "Celestial Psi Drives"
+ tech_celestial_psi_jump_drive_desc:0 "How fast can our heirs hie once they travel by the speed of though?"
+ 
+ ####################################
+ # Loop soc tech
+ ####################################
+ 
+ tech_loop_indoctrination:0 "Indoctrinating Loops"
+ tech_loop_indoctrination_desc:0 "§LThe Worms loves us and though better techniques which loop into the minds of our peoples they too will love the worm... .§!"
+ tech_loop_ship_inspirations:0 "Loop Ship Inspirations"
+ tech_loop_ship_inspirations_desc:0 "More we gaze into the loop more optimized ship designs suddenly came into our minds."
+ tech_loop_doctrine_loop_fleet_size:0 "Loop Fleet Formations"
+ tech_loop_doctrine_loop_fleet_size_desc:0 "Strangely enough by modeling our fleet structures after loop patterns we have found has shown improved logistical capabilities."
+ tech_loop_psi_jump_drive:0 "Loop Psi Drives"
+ tech_loop_psi_jump_drive_desc:0 "Adherence to the Loop has provided the means to improve our psionic drives further to that truth of the Worm's love."
+ tech_loop_crop_cultivation:0 " Loop Crop Cultivation"
+ tech_loop_crop_cultivation_desc:0 "Odd insights have lead us to modify our food crops to adhere to the loop as we do. The result is crops that not only produce more food but lean into the winds in odd patterns...somehow..."
+ tech_loop_precognition_interface:0 "Loop Precognition Interface"
+ tech_loop_precognition_interface_desc:0 "Our adherence has improved our already impressive psionic powers. Even our precognition interfaces have felt this effect."
+ tech_doctrine_loop_fleet_size:0 "Loop Fleet Doctrines"
+ tech_doctrine_loop_fleet_size_desc:0 "Some strange insights have entered the minds of our logistical corps resulting in improved supply lines and fleet compositions."
+ 
+ ####################################
+ # Loop eng tech
+ ####################################
+ 
+ tech_loop_armor:0 "Loop Forging techniques"
+ tech_loop_armor_desc:0 "New insights from the loop has inspired new forging techniques for our ship armor increasing the strength of the armor and the integrity of the hull. As with most of our loop inspired designs it has a distortion effect increasing the charge that our foes will miss their targets."
+ tech_loop_crystal_armor:0 "Loop Crystal-Forging"
+ tech_loop_crystal_armor_desc:0 "Taking inspiration from our new armoring techniques we have started applying loop particles to our crystal growth cultures which we used to increase the integrity of our ship's hull. the result is not only stronger hulls but improved armor and distortion as well."
+ tech_loop_regenerative_hull_tissue:0 "Regenerative Hull Tissue"
+ tech_loop_regenerative_hull_tissue_desc:0 "By applying Loop particles to the growth cultures of our genetically altered bacteria which we use in our regenerative hulls not only have we improved the regeneration rate but also increased the distortion of our ships."
+ tech_loop_architecture:0 "Loop Architecture"
+ tech_loop_architecture_desc:0 "Our Architects and Drafters seem to have overnight develop advanced buildings that are inspired by the Loop that even our most underdeveloped colonies can construct."
+ tech_loop_thrusters:0 "Loop Thrusters"
+ tech_loop_thrusters_desc:0 "Loop thrusters use Loop particles to improved the speeds which our space craft can travel at sub-light speeds."
+ tech_loop_mining:0 "Loop Mining"
+ tech_loop_mining_desc:0 "The strange designs of these shafts have revealed mineral deposites that should not even be there..."
+ 
+ ####################################
+ # Loop phys tech
+ ####################################
+ 
+ tech_loop_deflector:0 "Loop Deflectors"
+ tech_loop_deflector_desc:0 "§LThese deflectors operate in ways that defy the laws of nature while not defying the nature of the loop mustering a protective field many times greater than that of hyper shields.§!"
+ tech_loop_power_core:0 "Loop Power Core"
+ tech_loop_power_core_desc:0 "§LThese generators cause particles found in the loop to interact with each other in ways that zero point generators cannot and thus generate more power.§!"
+ tech_loop_power_plants:0 "Loop Power Generation"
+ tech_loop_power_plants_desc:0 "Although the plans for this plants seem to be madding our researchers are convinced that these new power plant designs will generate the energy we need."
+ tech_loop_encoder:0 "Loop Encoder"
+ tech_loop_encoder_desc:0 "§LThe Loop encoder scrambles the flight paths based on mathematics that exists in the loop itself.§!"
+ tech_loop_decoder:0 "Loop Decoder"
+ tech_loop_decoder_desc:0 "§LDue to the looping patterns in behaviors it matters not how erratic the target's flight path becomes.§!"
+ tech_loop_disruption_field:0 "Loop Disruption Fields"
+ tech_loop_disruption_field_desc:0 "§LBy flooding the local area of space with particles found in the loop emitted out in pulses, they weaken the shield and weapons systems of our enemies.§!"
+ tech_loop_shield_rechargers:0 "Loop Shield Capacitors"
+ tech_loop_shield_rechargers_desc:0 "These loop inspired capacitors store surplus loop particles which not only greatly recharge the rate of our shield recharge but increase their strength as well it also seems to have a distortion effect on our hull"
+ tech_loop_sentient_combat_computers:0 "Loop Sentient Construct"
+ tech_loop_sentient_combat_computers_desc:0 "Use of the Loop particles to enhance our AI has improved our constructs used as combat computers for our ships."
+ tech_loop_autonomous_combat_computers:0 "Loop Autonomous Construct"
+ tech_loop_autonomous_combat_computers_desc:0 "The particles of the loop have improved the AI of our automated fleets."
+ tech_loop_sensors:0 "Loop Design Sensors"
+ tech_loop_sensors_desc:0 "By following the recursive patterns we are able to better track the movements of fleets in our reality"
+ tech_loop_ftl_drives:0 "Loop FTL Drives"
+ tech_loop_ftl_drives_desc:0 "There seems to be lower dimensional realms within the Loop which offer better means of FTL travel we of course need to actually a base understanding in order to use the FTL means."
+ tech_loop_insights:0 "Loop Insights"
+ tech_loop_insights_desc:0 "The Loop although we do not understand it we have gleaned insights from it to improve a vast number of our systems improving our empire overall but it makes us wonder what more could we learn if we adhere ourselves to the loop..."
+ tech_loop_adherence:0 "Loop Adherence"
+ tech_loop_adherence_desc:0 "Something within the Omega Alignment calls to us...its whispers offer more if only we had a imput to place them..."
+ 
+ TECH_UNLOCK_SENTIENT_LOOP_COMBAT_COMPUTERS_TITLE:0 "Unlock Loop Sentient Computers"
+ TECH_UNLOCK_SENTIENT_LOOP_COMBAT_COMPUTERS_DESC:0 "Unlock combat computers used by adherents"
+ 
+ #######################
+ # Spiral Techs
+ #######################
+ 
+ tech_spiral_deflector:0 "Spiral Deflectors"
+ tech_spiral_deflector_desc:0 "Our new deflectors now have a spiral pattern in the screens which seems to not only absorb more damage but can cause shots fired at us to disapear entirely."
+ tech_spiral_power_core:0 "Spiral Cores"
+ tech_spiral_power_core_desc:0 "The new Spiral Cores generate more power to our ships than should be even possible on this realm."
+ tech_spiral_encoder:0 "螺旋编码器"
+ tech_spiral_encoder_desc:0 "New 螺旋编码器s allow for even more insane evation tatics that should be impossible"
+ tech_spiral_decoder:0 "螺旋译码器"
+ tech_spiral_decoder_desc:0 "The 螺旋译码器s will let our foes know that there is no running from our wrath"
+ tech_spiral_disruption_field:0 "Spiral Disruption"
+ tech_spiral_disruption_field_desc:0 "By causing a Spiral disruption on a gravitonic scale leads to an improved disruption field"
+ tech_spiral_power_generation:0 "Spiral Power Generation"
+ tech_spiral_power_generation_desc:0 "We are now able to create even greater means of evergy generation."
+ tech_spiral_mineral_extraction:0 "Spiral Mining"
+ tech_spiral_mineral_extraction_desc:0 "The mine shafts of these operations spiral slightly into other planes of existance causeing shafts that were depleated to be right in ore again."
+ tech_spiral_crop_cultivation:0 "Spiral Farming"
+ tech_spiral_crop_cultivation_desc:0 "These crops not only provide more but spiral into a loving pattern...somehow"
+ tech_spiral_energy_constructs:0 "Spiral Energy Constructs"
+ tech_spiral_energy_constructs_desc:0 "New insights from the Spiral has revealed the means of contructing ships and stations from spiral energy."
+ tech_spiral_terror_summoning:0 "Spiral Terror Summoning"
+ tech_spiral_terror_summoning_desc:0 "These Creatures are called Spiral Terrors they are great predators that prowl the demsions of the loop hunting down univited creatures and guests not touched by the loop or the Worm. They seem almost...eager to enter our realm in order to hunt down our foes and it seems that they were used as great war beasts in a war far greater than we know. Though it should be noted that they are not the most dangerous creatures to lurk in the loop."
+ tech_spiral_energy_weapons:0 "Spiral Weapons"
+ tech_spiral_energy_weapons_desc:0 "Loop energies twisted into Spirals have the potential for great harm as well as good..."
+ tech_spiral_armor:0 "螺旋装甲"
+ tech_spiral_armor_desc:0 "These ship plattings can more than capable of not only withstanding weapons that could easily turn other ships into slag but The Spiral forging techniques used has improved the phasing ability seen with our loop forged armor. How this is so still eludes us."
+ tech_spiral_ftl_rifts:0 "Spiral Rifts"
+ tech_spiral_ftl_rifts_desc:0 "With new Blessed insights are ships are now able to traverse the spiral realms of the loop though the flow of time though the higher realms is convoluted at best in real space they are gone for an instant while in the spiral rleams who knows how long they are guests..."
+ tech_spiral_rift_travel:0 "Spiral Rift Travel"
+ tech_spiral_rift_travel_desc:0 "We are now able to open stable rifts into the spiral realms to allow the peoples we call our own to walk though and reach the worlds they wish to settle. The rifts also allow for easy transport of our thralls should we have any..."
+ tech_spiral_attack_anima:0 "Spiral Attack Anima"
+ tech_spiral_attack_anima_desc:0 ""
+ tech_spiral_ship_wrights:0 "Spiral Ship Wrights"
+ tech_spiral_ship_wrights_desc:0 "Some of our master Ship Wrights have awoken the Spirals having burned more effect designs into their minds just as one would shader a mac adress into a mother board...though the designs make no sense to the unbeloved they work on multidimensional preciples they will never understand"
+ tech_spiral_evolution:0 "Spiral Evolution"
+ tech_spiral_evolution_desc:0 "The energies of the Spiral realms has effected our genome and has the potential to mutate our species to unthinkable degrees...but has not perhapes we can harness this potential for change ourselves..."
+ tech_spiral_revelations:0 "Spiral Revelations"
+ tech_spiral_revelations_desc:0 "The whispers speak of the Loop spiraling into itself...such...revelation..."
+ tech_spiral_strike_craft:0 "Zephyr Summoning"
+ tech_spiral_strike_craft_desc:0 "Calling forth the Creatures of the spiral realms is a combination of both science and art oddly enough. However we have discovered the means to both summon and maintain the presence of the spiral creatues known as the Zephyr."
+ tech_spiral_psi_jump_drive:0 "Spiral Psi Drives"
+ tech_spiral_psi_jump_drive_desc:0 "Our Revolutions of Spirals has improved our understanding of psionic FTL travel. These drives are rivaled by almost none."
+ 
+ tech_dimensional_genesis:0 "Spiral Seeding"
+ tech_dimensional_genesis_desc:0 "And now we come to the true paradox what begets life? and when/how did the first lifeforms occur? Dispite our exaltation it appears that an enity even greater than the Worm blocks this vision of when gods began to be...such a notion is frightening..."
+ 
+ #######################
+ # Dimensional Techs
+ #######################
+ 
+ tech_dimensional_exaltation:0 "Dimensional Exaltation"
+ tech_dimensional_exaltation_desc:0 "It is time. The Worm though this being loves us has had to wait for us to grow and evolve as both a people and a race for now it is time for our exaltation to become more than what we were and cast aside the shakles of mortality and know the secrets that have been hidden in other dimensions...but our awakening and events similar to it may awaken somthing...Dread..."
+ tech_dimensional_genesis_2:0 "Dimensional Genesis"
+ tech_dimensional_genesis_desc_2:0 "And now we come to the true paradox what begets life? and when/how did the first lifeforms occur? Dispite our exaltation it appears that an enity even greater than the Worm blocks this vision of when gods began to be...such a notion is frightening..."
+ tech_dimensional_psi_jump_drive:0 "Dimensional Psi Drives"
+ tech_dimensional_psi_jump_drive_desc:0 ""
+ 
+ 
+ ####################################
+ # Tech unlock
+ ####################################
+ 
+ TECH_UNLOCK_GENESIS_TITLE:0 "Unlock Lifeseeders"
+ TECH_UNLOCK_GENESIS_DESC:0 "Long have spacefaring empires sought weapons capable of destroying their enemies and possibly to devastate their worlds to the point of their destruction...but is it not time for something different? should we not pave the way for those who will come after we have left?"
+ 
+ # Enigmatic
+ 
+ TECH_UNLOCK_ENIGMATIC_ACCESS_TITLE:0 "Enigmatic Designs Gained"
+ TECH_UNLOCK_ENIGMATIC_ACCESS_DESC:0 "We have gained these designs though a strange single those advanced these in time we can come to understand them."
+ TECH_UNLOCK_CRYPTIC_ACCESS_TITLE:0 "Cryptic Access Granted"
+ TECH_UNLOCK_CRYPTIC_ACCESS_DESC:0 "We have gained to the Cryptic patterns but will take us time to understand the patterns."
+ TECH_UNLOCK_ENIGMATIC_ATTACK_AI_TITLE:0 "Unlock Enigmatic Attack AI"
+ TECH_UNLOCK_ENIGMATIC_ATTACK_AI_DESC:0 "These AI are much more efficient than AI based on none Enigmatic Patterns."
+ TECH_UNLOCK_AUTONOMOUS_ENIGMATIC_COMBAT_COMPUTERS_TITLE:0 "Unlock Enigmatic Attack AI"
+ TECH_UNLOCK_AUTONOMOUS_ENIGMATIC_COMBAT_COMPUTERS_DESC:0 "These AI are much more efficient than AI based on none Enigmatic Patterns."
+ 
+ TECH_UNLOCK_ENIGMATIC_WEAPONS_ENERGY_TITLE:0 "Enigmatic Energy Weapons Patterns"
+ TECH_UNLOCK_ENIGMATIC_WEAPONS_ENERGY_DESC:0 "With creative use of Darkmatter particles we have improved upon our energy weapons greatly."
+ TECH_UNLOCK_ENIMGATIC_WEAPONS_KINETIC_TITLE:0 "Enigmatic Kinetic Weapon Patterns"
+ TECH_UNLOCK_ENIMGATIC_WEAPONS_KINETIC_DESC:0 "The use of darkmatter energy in our kinetic weapons we have increased the damage potential of our kinetics"
+ TECH_UNLOCK_ENIMGATIC_WEAPONS_EXPOLSIVES_TITLE:0 "Enigmatic Expolsives"
+ TECH_UNLOCK_ENIMGATIC_WEAPONS_EXPOLSIVES_DESC:0 "As with all energy sources the expolsive power of darkmatter is great and missiles equipped with darkmatter payloads are even greater."
+ 
+ # Cryptic
+ 
+ TECH_UNLOCK_AUTONOMOUS_CRYPTIC_POWER_CORE_TITLE:0 "Cryptic Power Cores Unlocked"
+ TECH_UNLOCK_AUTONOMOUS_CRYPTIC_POWER_CORE_DESC:0 "We don't exactly know how but these power cores are capable of power generation beyond that of Darkmatter."
+ TECH_UNLOCK_SENTIENT_CRYPTIC_COMBAT_COMPUTERS_TITLE:0 "Cryptic Attack Constructs Unlocked"
+ TECH_UNLOCK_SENTIENT_CRYPTIC_COMBAT_COMPUTERS_DESC:0 "These cryptic AI constructs are far more advaned than the enigmatic design and capable of planing maneuvers that organic pilots are incapable of."
+ TECH_UNLOCK_AUTONOMOUS_CRYPTIC_COMBAT_COMPUTERS_TITLE:0 "Cryptic Attack Constructs Unlocked"
+ TECH_UNLOCK_AUTONOMOUS_CRYPTIC_COMBAT_COMPUTERS_DESC:0 "These cryptic AI constructs are far more advaned than the enigmatic design and capable of planing maneuvers that organic pilots are incapable of."
+ TECH_UNLOCK_CRYPTIC_WEAPONS_ENERGY_TITLE:0 "Cryptic Energy Weapons"
+ TECH_UNLOCK_CRYPTIC_WEAPONS_ENERGY_DESC:0 "The desructive power of these weapons is greater than any of their kind before."
+ 
+ # Celestial
+ 
+ TECH_UNLOCK_CELESTIAL_MANTLE_TITLE:0 "Mantle Obtained"
+ TECH_UNLOCK_CELESTIAL_MANTLE_DESC:0 "The mantle of those before us is now ours to do with as we wish."
+ 
+ # Loop
+ 
+ TECH_UNLOCK_LOOP_ADHERENCE_TITLE:0 "Loop Adhered"
+ TECH_UNLOCK_LOOP_ADHERENCE_DESC:0 "We have adhered ourselves to the Loop and to our beloved Worm though the Worm has shared much with us it will take time to understand these teachings."
+ TECH_UNLOCK_SENTIENT_LOOP_POWER_CORE_TITLE:0 "Unlock Loop Power Cores"
+ TECH_UNLOCK_SENTIENT_LOOP_POWER_CORE_DESC:0 "By adding particles from the Loop to our zero point reactors it has somehow massively imcreased its power output"
+ TECH_UNLOCK_AUTONOMOUS_LOOP_COMBAT_COMPUTERS_TITLE:0 "Unlock Autonomous loop Combat Computers"
+ TECH_UNLOCK_AUTONOMOUS_LOOP_COMBAT_COMPUTERS_DESC:0 ""
+ 
+ TECH_UNLOCK_LOOP_WEAPONS_ENERGY_TITLE:0 "Loop Energy Weapons insights"
+ TECH_UNLOCK_LOOP_WEAPONS_ENERGY_DESC:0 "With creative use of Loop particles we have improved upon our energy weapons greatly."
+ TECH_UNLOCK_LOOP_WEAPONS_KINETIC_TITLE:0 "Loop Kinetic Weapon insights"
+ TECH_UNLOCK_LOOP_WEAPONS_KINETIC_DESC:0 "The use of Loop energy in our kinetic weapons we have increased the damage potential of our kinetics"
+ TECH_UNLOCK_LOOP_WEAPONS_EXPOLSIVES_TITLE:0 "Loop Expolsives"
+ TECH_UNLOCK_LOOP_WEAPONS_EXPOLSIVES_DESC:0 "As with all energy sources with the energy from the loop has great destructive power and our new missiles even more so."
+ 
+ # Spiral
+ 
+ TECH_UNLOCK_SPIRAL_REVELATIONS_TITLE:0 "Spiral Revelations Recived"
+ TECH_UNLOCK_SPIRAL_REVELATIONS_DESC:0 "Now that we have seen the Revelations of the Spirals we know more secrets of the loop but it will take time to understand these revelations but not fully."
+ TECH_UNLOCK_SPIRAL_POWER_CORE_TITLE:0 "螺旋能量核心"
+ TECH_UNLOCK_SPIRAL_POWER_CORE_DESC:0 "By using our power cores to attract spiral energy our ships have more power than ever before."
+ 
+ TECH_UNLOCK_SPIRAL_WEAPONS_ENERGY_TITLE:0 "Spiral Energy Weapons Revelations"
+ TECH_UNLOCK_SPIRAL_WEAPONS_ENERGY_DESC:0 "With creative use of Spiral energies we have improved upon our energy weapons greatly."
+ TECH_UNLOCK_SPIRAL_WEAPONS_KINETIC_TITLE:0 "Spiral Kinetic Weapon Revelations"
+ TECH_UNLOCK_SPIRAL_WEAPONS_KINETIC_DESC:0 "The use of Spiral energies in our kinetic weapons we have increased the damage potential of our kinetics"
+ TECH_UNLOCK_SPIRAL_WEAPONS_EXPOLSIVES_TITLE:0 "Spiral Expolsives Revelations"
+ TECH_UNLOCK_LOOP_WEAPONS_EXPOLSIVES_DESC:0 "As with all energy sources with the energy from the Loop Spirals has great destructive power and our new missiles even more so."
+ 

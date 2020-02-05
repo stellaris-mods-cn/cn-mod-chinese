@@ -1,4 +1,4 @@
-﻿
+﻿#Wargames
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -18,8 +18,27 @@ l_simp_chinese:
 
  mem_wargame.2.name:0 "战争游戏"
  mem_wargame.2.desc:0 "[Root.GetName]报告了对一个绕着[mem_wargate_station_planet.GetName]轨道运行的奇怪空间站的成功调查。 \n\n从幸存的数据核来看，这个星系是作为一个大规模的实验，或者可能是一种娱乐形式而建立的。 \n\n四种生物被一个未知的帝国提升，这个帝国提供了受他们自己控制的战舰，并开始互相争斗，而他们可以在星系的郊区安全隐蔽地观看。 \n\n当一群来自四种物种的阴谋者潜入空间站并屠杀船上所有人的时候，实验突然结束了。奇怪的是，没有报复随之而来，当地人由于缺乏维持他们天赋的技术所需要的实际知识，很快就恢复了原始生活。"
- mem_wargame.2.ega:0 "这一切都很有趣，直到有人被淘汰出局。"
- mem_wargame.2.pac:0 "如此的野蛮..."
- mem_wargame.2.pacphobe:0 "玩愚蠢的游戏-赢取愚蠢奖励。"
- mem_wargame.2.mil:0 "听起来有趣。"
- mem_wargame.2.mat:0 "这可能很有教育意义。"
+
+ # New Content for 2.3 dig
+
+ mem_wargames_station_site: "废弃的空间站"
+ mem_wargames_station_site_desc: "这个废弃的空间站隐藏在星系的外围，在一个巨大气态巨星的大气层中，它绝对值得一项研究。"
+
+ mem_wargame.3.name: "机库"
+ mem_wargame.3.desc: "找到空间站的入口并不难。航天飞机机库是敞开的，空气已经被排出，在空间站的这部分没有留下任何空气。 \n\n一些墙壁上可以看到能量武器留下的焦痕，令人惊讶的是，还有化学推进弹道武器的撞击痕迹。目前还不清楚空气被排出的原因，但肯定不是由于战斗。"
+ mem_wargame.4.name: "观景台"
+ mem_wargame.4.desc: "考古学家正在围绕[From.Planet.GetName]轨道运行的空间站内取得进展。 \n\n他们最近发现的是一个庞大的房间，墙壁上覆盖着大屏幕，为大量观众提供了便利设施。一个酒吧，几张桌子和座位都是可以辨认的。也可以看到打斗的迹象，如破碎玻璃的和破碎的屏幕。"
+ mem_wargame.5.name: "战争游戏"
+ mem_wargame.5.desc: "[Leader.GetName]报道了对一个绕[From.Planet.GetName]轨道运行的奇怪空间站的成功调查。\n\n从现存的数据核心来看，这个系统是一个大规模的实验，或者可能是一种娱乐形式。 \n\n四个物种被未知的文明提升，配备了不能使用自由贸易联盟的军舰，并开始互相战斗，而它们的提升者可以从星系外围一个安全的隐蔽位置观察。 \n\n当一群来自四个种族的阴谋者潜入空间站站并屠杀了空间站上的所有人时，实验戛然而止。奇怪的是，他们并没有遭到报复，当地人缺乏维护他们天赋的技术所需要的实用知识，很快就恢复了原始生活。"
+
+ mem_wargame.5.ega: "在有人被抛出空间站之前，一切都很有趣。"
+ mem_wargame.5.pac: "如此的野蛮…"
+ mem_wargame.5.pacphobe: "玩愚蠢的游戏 - 赢得愚蠢的奖励。"
+ mem_wargame.5.mil: "听起来有趣。"
+ mem_wargame.5.mat: "这可能很有教育意义。"
+
+ mem_wargames_comprehensive_study: "综合心理历史学"
+ mem_wargames_comprehensive_study_desc: "从战争观察站获得的数据改变了我们对原始文明的看法。"
+
+ mod_station_observer_missions_upkeep_mult: "观察哨任务维护"
+ mod_station_observer_missions_produces_mult: "观察哨任务输出"

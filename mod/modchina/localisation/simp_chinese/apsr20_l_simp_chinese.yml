@@ -8,7 +8,7 @@
  apsr20_planet_modifier_desc:0 "这个星球是一个古老文明的娱乐场所。不幸的是，大部分建筑群已经被破坏了很长一段时间，但我们有机会修复它。"
  
  apsr20_deposit:0 "$apsr20_planet_modifier$"
- apsr20_deposit_desc:0 "$apsr20_planet_modifier_desc$\n\n§M$apsr20_deposit_effect$§!" 
+ apsr20_deposit_desc:0 "$apsr20_planet_modifier_desc$\n\n§M$apsr20_deposit_effect$§!"
  apsr20_deposit_effect:0 "独特的资源可用: $apsr20_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.20003.title:0 "$apsr20_building_part3$ 建成"
  apsr.20003.desc:0 "我们部分恢复了§Y远古娱乐复合体§!并接触到了古人的文化"
  apsr.20003.ok-button:0 "完美"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.20013.title:0 "发现一个人造物: §M$apsr20_planet_modifier$§!"
  apsr.20013.desc:0 "在最近被占领的一颗行星上，发现了一些奇特的东西。 \n这个星球是一个古老文明的娱乐场所。不幸的是，大部分建筑在很久以前就被毁了，但我们有机会修复它"
  apsr.20013.button:1 "很好!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

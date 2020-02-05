@@ -13,7 +13,7 @@
  
  job_planet_magistrate:0 "行星政府官员"
  job_planet_magistrate_plural:0 "行星政府官员"
- job_planet_magistrate_desc:0 "行星政府官员是被各个行星所任命的，负责管理行星内所有政府机关。这个极度繁忙的职位是由丰厚的工资和福利来支撑的。"
+ job_planet_magistrate_desc:0 "行星政府官员是被各个行星所任命的，负责管理行星内所有政府机关。这个极度繁忙的岗位是由丰厚的工资和福利来支撑的。"
  job_planet_magistrate_effect_desc:0 "￡job_administrator￡ 行星政府官员将￡energy￡ §Y$energy$§!变为￡mod_trade_value_add￡ §Y$TRADE_VALUE$§!和少量的￡mod_planet_amenities_add￡ §Y$PLANET_AMENITIES_TITLE$§!,并减少一些￡crime￡ §Y$PLANET_CRIME_TITLE$§! "
  mod_job_planet_magistrate_add:0 "行星政府官员职业"
  mod_job_planet_magistrate_per_pop:0 "$VALUE$ POP行星政府官员职业§G+1§!"

@@ -1,0 +1,17 @@
+﻿l_simp_chinese:
+  # Country Type
+  COUNTRY_PLANET_STATE: "行星国度"
+  COUNTRY_PLANET_STATE_DESC: "这个小国与堕落帝国一样古老，他们自觉放弃了银河事务，并且从未扩展到其他星球。 他们的许多力量和繁荣可能是其结果。"
+  CAN_TAKE_HOSTILE_ACTION_PLANET_STATE: "我们只能对我们境内的行星国采取敌对行动。"
+  # Ships
+  collector_station: "行星国 空间站"
+  collector_station_plural: "行星国 空间站"
+  # Buildings
+  building_collectors_vault: "宝库"
+  building_collectors_vault_desc: "一个高度安全的金库，作为富人和权贵的虚荣心博物馆。"
+
+  # Static Modifiers
+  planet_lost_autonomy: "失去主权"
+  planet_lost_autonomy_desc: "这是一个曾经的主权星球国家。它的居民有强烈的独立意愿，只等待适当的时机夺回自己的主权。"
+  
+

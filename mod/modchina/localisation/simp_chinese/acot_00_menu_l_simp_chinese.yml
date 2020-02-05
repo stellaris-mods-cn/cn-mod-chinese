@@ -1,0 +1,124 @@
+﻿l_simp_chinese:
+
+### ENGLISH LOCALIZATION
+
+
+edict_acot_mod_menu_edict: "§YACOT配置菜单§!"
+edict_acot_mod_menu_edict_desc: "用你扭曲现实的力量来决定在这个你决定要篡改的小星系里什么东西应该被允许，什么东西不应该被允许。\n\n副作用包括健忘症，脱发，四度烧伤，可怕的伤害和模因感染。在没有第35类奇点事件的情况下不要调用这个。"
+
+acot_mod_options_title: "Ancient Cache of Technologies技术选项菜单"
+acot_mod_options_desc: "这个菜单允许你禁用你想要摆脱的ACOT中的某些元素，以防万一你不喜欢/有更好的东西，这些东西让这里的东西变成一个笑话或者更糟糕，但不会阻止FE。 任何帝国都可以获得暗物质技术和暗物质能量。 这是FE的技术。 巅峰层技术是FE技术的改进，也是AFE将逐步获得的。"
+
+acot_mod_options.1.a: "武器技术§G启用§!。 §R禁用§!？"
+acot_mod_options.1.a.tooltip: "禁用所有ACOT 暗物质技术和巅峰武器技术。 已经研究过的组件仍然可用。\n\n§R警告§!: 某些武器在暗能量反应堆和推进器后面被控制。 如果这些是禁用的，它们也是无法获得的。"
+acot_mod_options.1.b: "武器技术§R禁用d§!。 §G启用§!？"
+acot_mod_options.1.b.tooltip: "启用所有ACOT 暗物质技术和Ascended-Tier武器技术，只要满足所有其他条件，它们就会变得可研究。"
+
+acot_mod_options.2.a: "防御性组件§G启用§!。 §R禁用§!？"
+acot_mod_options.2.a.tooltip: "禁用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 已经研究过的组件仍然可用。\n\n§R警告§!: 禁用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 已经研究过的组件仍然可用。..."
+acot_mod_options.2.b: "防御性组件§R禁用d§!。 §G启用§!？"
+acot_mod_options.2.b.tooltip: "启用所有ACOT 暗物质技术和巅峰装甲和护盾技术。 只要满足所有其他条件，它们将变得可研究。"
+
+acot_mod_options.3.a: "辅助组件§G启用§!。 §R禁用§!？"
+acot_mod_options.3.a.tooltip: "禁用所有ACOT辅助技术，包括每种武器类型的武器核心。 已经研究过的组件仍然可用。"
+acot_mod_options.3.b: "辅助组件§R禁用d§!。 §G启用§!？"
+acot_mod_options.3.b.tooltip: "启用所有ACOT辅助技术，包括每种武器类型的武器核心。"
+
+acot_mod_options.4.a: "舰船电脑§G启用§!。 §R禁用§!？"
+acot_mod_options.4.a.tooltip: "禁用所有ACOT舰船技术，包括反应堆，跳跃驱动器，推进器和传感器。 已经研究过的组件仍然可用。\n\n§R警告§!: 禁用此功能将使许多其他ACOT技术无法用于研究。"
+acot_mod_options.4.b: "舰船电脑§R禁用d§!。 §G启用§!？"
+acot_mod_options.4.b.tooltip: "启用所有ACOT舰船技术，包括反应堆，跳跃驱动器，推进器和传感器。"
+
+acot_mod_options.5.a: "陆军技术§G启用§!。 §R禁用§!？"
+acot_mod_options.5.a.tooltip: "禁用所有ACOT军队技术。 现有的军队将继续§Yactive§!，他们将永远困扰你的帝国，没有什么是你可能希望完成以结束这种可怕的命运。"
+acot_mod_options.5.b: "陆军技术§R禁用d§!。 §G启用§!？"
+acot_mod_options.5.b.tooltip: "启用所有ACOT军队技术，让你的帝国招募/建造/训练/变形/召唤/召唤/实现AE级军队。"
+
+acot_mod_options.6.a: "建筑技术§G启用§!。 §R禁用§!？"
+acot_mod_options.6.a.tooltip: "禁用所有ACOT建筑技术。 已经建造的建筑物仍然可用，迫使你的帝国质疑银河系的现实，为什么他们可以拥有在这个星系循环中不被理解的建筑物，其存在被拒绝。 你的人民很快就会意识到生存的无用。"
+acot_mod_options.6.b: "建筑技术§R禁用d§!。 §G启用§!？"
+acot_mod_options.6.b.tooltip: "启用所有ACOT建筑技术。 恭喜，你已经决定启用这个mod可能最着名的技术人员...为什么你再次禁用它？ 必须是超巨型要塞。"
+
+acot_mod_options.7.a: "轨道轰炸/灭绝令§G启用§!。 §R禁用§!？"
+acot_mod_options.7.a.tooltip: "禁止玩家和AI使用惩罚和外部轰炸的能力。 有用的，如果你搞砸了，并希望通过撕裂现实的面料来欺骗你的胜利之路，并防止你的敌人把你的世界变成汤罐。"
+acot_mod_options.7.b: "轨道轰炸/灭绝令§R禁用d§!。 §G启用§!？"
+acot_mod_options.7.b.tooltip: "启用玩家和AI的能力，使用惩罚和外部轰炸。 兄弟之战!!，今天敌人在我们家门口。 我们知道自己的职责，我们会做到。 我们为升华帝国作为前体而奋斗，我们以皇太子的名义进行战斗。 如果我们今天死了，我们就会死。 但是§R不§!，我们不会§R死§！。 它将是品尝§R死亡§的敌人！ 和§R失败§！。 你知道吗...§REXTERMINATUS§！"
+
+acot_mod_options.8.a: "执政道德技术§G启用§!。 §R禁用§!？"
+acot_mod_options.8.a.tooltip: "禁用所有ACOT独特的基于道德的技术。 即使您已经明确告诉游戏不这样做，已经研究过的技术也会给予奖励，对您来说没有希望。 结束了，阿纳金。 我有制高点。"
+acot_mod_options.8.b: "执政道德技术§R禁用d§!。 §G启用§!？"
+acot_mod_options.8.b.tooltip: "启用所有ACOT独特的基于道德的技术。 如果您已经研究过它们，它们将再次成为可构建的。 是时候浪费所有这些影响。"
+
+acot_mod_options.9: "设置AI的资源加成"
+acot_mod_options.9.tooltip: "设定AE AI应该获得多少额外资源，选择不给他们任何资源将很可能导致他们非常弱，不能成为一个威胁。"
+
+acot_mod_options.exit: "退出菜单"
+
+acot_mod_options.10.a: "ACOT事件§G启用§!。 §R禁用§!？"
+acot_mod_options.10.a.tooltip: "禁用所有与ACOT有关的ACOT事件。这将导致所有与ACOT相关的事件无法出现。如果你更喜欢AI继续使用零点能源200年。"
+acot_mod_options.10.b: "ACOT事件§R禁用§!。 §G启用§!？"
+acot_mod_options.10.b.tooltip: "启用所有关于ACOT的ACOT事件。这将导致一些ACOT事件的发生，比如pleb要求使用暗物质技术或者从你的科学舰船上偷东西。如果你更愿意AI最终变得更好，那就很好。"
+
+acot_mod_options.12.a: "AI助手§G启用§!。 §R禁用§!？"
+acot_mod_options.12.a.tooltip: "AI建筑管理启用。禁用它将阻止自定义脚本将就建筑升级成高级建筑。"
+acot_mod_options.12.b: "AI助手§G禁用§!。§R启用§!？"
+acot_mod_options.12.b.tooltip: "AI建筑管理禁用。启用它将使用自定义脚本将就建筑升级成高级建筑。"
+
+acot_mod_options.200.name: "AE AI难度设置"
+
+acot_mod_options.200.a: "将AE AI的加成改为 : §W无§!"
+acot_mod_options.200.b: "将AE AI的加成改为 : §Y基本§!"
+acot_mod_options.200.c: "将AE AI的加成改为 : §G高§!"
+acot_mod_options.200.d: "将AE AI的加成改为 : §GOPAF§!"
+
+acot_mod_options.200.a.desc: "使用这个选项来改变AE AI的资源奖励，当游戏更新新的变量为每月时，每次AI提升时再次执行这个选项仍然是一个好主意，以防万一。\n\n当前AE AI的奖励为: §BOPAF§!\n\n如果你真的想让AE AI对你构成威胁，那么AE AI将获得两倍于正常加成的奖励。也许这次AI真的会杀了你(但很可能不会)。"
+acot_mod_options.200.b.desc: "使用这个选项来改变AE AI的资源奖励，当游戏更新新的变量为每月时，每次AI提升时再次执行这个选项仍然是一个好主意，以防万一。\n\n当前AE AI的奖励为: §BOPAF§!\n\n如果你真的想让AE AI对你构成威胁，那么AE AI将获得两倍于正常加成的奖励。也许这次AI真的会杀了你(但很可能不会)。"
+acot_mod_options.200.c.desc: "使用这个选项来改变AE AI的资源奖励，当游戏更新新的变量为每月时，每次AI提升时再次执行这个选项仍然是一个好主意，以防万一。\n\n当前AE AI的奖励为: §BOPAF§!\n\n如果你真的想让AE AI对你构成威胁，那么AE AI将获得两倍于正常加成的奖励。也许这次AI真的会杀了你(但很可能不会)。"
+acot_mod_options.200.d.desc: "使用这个选项来改变AE AI的资源奖励，当游戏更新新的变量为每月时，每次AI提升时再次执行这个选项仍然是一个好主意，以防万一。\n\n当前AE AI的奖励为: §BOPAF§!\n\n如果你真的想让AE AI对你构成威胁，那么AE AI将获得两倍于正常加成的奖励。也许这次AI真的会杀了你(但很可能不会)。"
+
+ easy_acot: "呵呵"
+ easy_acot_desc: "欧耶"
+ easy_acot_pleb: "呵呵"
+ easy_acot_pleb_desc: "欧耶"
+ moderate_acot_pleb: "COWMAN"
+ moderate_acot_pleb_desc: "GOOD BOY"
+ hard_acot: "我有抛瓦瓦瓦瓦瓦瓦辣"
+ hard_acot_desc: "阿尔萨斯!在阿尔萨斯还没死之前阻止他!"
+ hard_acot_pleb: "我有抛瓦瓦瓦瓦瓦瓦辣"
+ hard_acot_pleb_desc: "阿尔萨斯!在阿尔萨斯还没死之前阻止他!"
+
+jumpstarted_exp_development: "仿生仿真协议生效"
+
+ return_to_menu: "返回主要选项"
+
+acot_mod_options.3.title: "改造室"
+acot_mod_options.3.desc: "得更快。谨慎。更好。更强。"
+acot_mod_options.3.1.name: "去除生物领袖身上的负面特征。"
+acot_mod_options.3.1.explain: "这个过程将消除所有阻碍我们的领导者以最佳绩效运作的愚蠢和无用的特质，然后用积极的特质取代那些愚蠢的特质。\n\n§Y目前只支持原版的负面特性。§!"
+not_has_shitty_leaders: "我们目前没有任何愚蠢的领导人，我们需要等待有人首先表现出精神疾病的迹象"
+
+acot_mod_options.3.2.name: "仿生接口仿真协议。"
+acot_mod_options.3.2.explain: "这个过程将立即授予所有生物领袖价值§Y2500§!的经验。任何至少达到6级的生物科学家也将获得§Y天才的火花§!特质。"
+too_soon_to_do_that_nub: "仿生界面模拟给我们的领导者带来了很大的压力。如果启动，他们有时需要休息，然后才能再次执行该过程"
+
+acot_mod_options.4.title: "纳米组装"
+acot_mod_options.4.desc: "智能而非人工。"
+acot_mod_options.4.1.name: "去除机械领导者身上的负面特征。"
+acot_mod_options.4.1.explain: "这个过程将消除所有阻碍我们的领导者以最佳绩效运作的愚蠢和无用的故障，然后用积极的品质取代那些愚蠢的品质。\n\n§Y目前只支持原版的负面特性。§!"
+not_has_shitty_leaders_machine: "我们目前没有任何糟糕的领导人，我们需要等待有人首先显示出腐败的迹象"
+
+
+acot_mod_options.4.2.a: "不朽协议"
+acot_mod_options.4.2.a.tooltip: "当协议是生效时，我们的机械领导人将保留他们的记忆，并将在他们机能停止时复活。这将大大增加他们的维护成本，但也消耗影响力。\n\n请注意，不管解雇还是被摧毁，协议都将生效。"
+acot_mod_options.4.2.b: "禁用不朽协议"
+acot_mod_options.4.2.b.tooltip: "我们的领导人将履行他们的职责，直到他们机能停止。然后我们换一个新的。并不是所有的东西都要永远持续下去。"
+
+
+resurface_protocol: "已启用不朽协议"
+resurface_protocol_desc: "永恒的服务。"
+
+acot_mod_options.50.title: "不朽协议进行"
+acot_mod_options.50.desc: "我们的领导人之一，[From.GetName]已经机能已经停止。但不朽协议是已经生效，我们能够重建[From.GetName]。\n\n但是，系统无法区分[From.GetName]是被解雇还是被摧毁。 \n\n我们是否要重新激活此领袖？"
+acot_mod_options.50.a: "是的，我们会重建[From.GetName]，我们有技术。"
+acot_mod_options.50.a.explain: "将复活领袖。不要在被解雇的领袖身上使用这个。"
+acot_mod_options.50.b: "[From.GetName]对我们来说既烦人又没用，我们应当得到一个更好的模型。"

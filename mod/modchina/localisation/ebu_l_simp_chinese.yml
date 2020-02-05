@@ -1,41 +1,53 @@
 ﻿l_simp_chinese:
 #Farms
- eb_hydrofarm2:0 "水培农场Ⅱ"
+ eb_hydrofarm2:0 "水培农场2"
  eb_hydrofarm2_desc:0 "升级后的水培农场。"
  
- eb_hydrofarm3:0 "水培农场Ⅲ"
+ eb_hydrofarm3:0 "水培农场3"
  eb_hydrofarm3_desc:0 "升级后的水培农场2。"
  
 #Mines
- eb_mineral2:0 "深芯矿井Ⅱ"
+ eb_mineral2:0 "深芯矿井2"
  eb_mineral2_desc:0 "升级后的深芯矿井。"
  
- eb_mineral3:0 "深芯矿井Ⅲ"
+ eb_mineral3:0 "深芯矿井3"
  eb_mineral3_desc:0 "升级后的深芯矿井2。"
  
 #Energy
- eb_energy2:0 "地热发电站Ⅱ"
- eb_energy2_desc:0 "升级后的地热发电站"
+ eb_energy2:0 "地热发电厂2"
+ eb_energy2_desc:0 "升级后的地热发电厂。"
  
- eb_energy3:0 "地热发电站Ⅲ"
- eb_energy3_desc:0 "升级后的地热发电站2。"
- 
+ eb_energy3:0 "地热发电厂3"
+ eb_energy3_desc:0 "升级后的地热发电厂2。"
+
 #Strategic Resource Manufacturing Buildings
- eb_refinery:0 "先进的奇异瓦斯精炼厂"
- eb_refinery_desc:0 "奇异瓦斯精炼厂的升级版"
+ eb_refinery:0 "高级外星天然气精炼厂"
+ eb_refinery_desc:0 "外星天然气精炼厂的升级版本。"
  
- eb_chemical_plant:0 "先进化学厂"
- eb_chemical_plant_desc:0 "化学厂的升级版"
+ eb_refinery2:0 "暗物质奇异瓦斯精炼厂"
+ eb_refinery2_desc:0 "外星天然气精炼厂的升级版本。"
  
- eb_crystal_plant:0 "先进合成水晶厂"
- eb_crystal_plant_desc:0 "合成水晶厂的升级版"
+ eb_chemical_plant:0 "高级化学厂"
+ eb_chemical_plant_desc:0 "化学厂的升级版本。"
+ 
+ eb_chemical_plant2:0 "暗物质化学厂"
+ eb_chemical_plant2_desc:0 "化学厂的升级版本。"
+ 
+ eb_crystal_plant:0 "高级水晶合成厂"
+ eb_crystal_plant_desc:0 "水晶合成厂的升级版本。"
+ 
+ eb_crystal_plant2:0 "暗物质水晶合成厂"
+ eb_crystal_plant2_desc:0 "水晶合成厂的升级版本。"
  
 #Techs
- eb_mineral_tech:0 "高级核心挖掘"
- eb_mineral_tech_desc:0 "解锁第三层深芯矿井"
+ eb_mineral_tech:0 "先进核心挖掘"
+ eb_mineral_tech_desc:0 "解锁第三级深芯矿井"
  
- eb_energy_tech:0 "先进的地热发电"
- eb_energy_tech_desc:0 "解锁第三层地热发电站"
+ eb_energy_tech:0 "先进地热发电"
+ eb_energy_tech_desc:0 "解锁第三级地热发电站"
  
- eb_strategicresource_tech:0 "先进的战略资源生产方法"
- eb_strategicresource_tech_desc:0 "解锁2级战略资源建筑。"
+ eb_strategicresource_tech:0 "先进战略资源生产方法"
+ eb_strategicresource_tech_desc:0 "解锁第二级战略资源建筑。请为这项科技想个更好的名字。"
+ 
+ eb_more_strategicresource_tech:0 "先进战略资源生产方法 2"
+ eb_more_strategicresource_tech_desc:0 "解锁第三级战略资源建筑。请为这项科技想个更好的名字。"

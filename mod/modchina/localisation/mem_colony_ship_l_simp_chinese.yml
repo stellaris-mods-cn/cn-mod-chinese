@@ -9,7 +9,7 @@
  mem_colony_ship_size_plural:0 ""
  
  mem_colony_ship.3.name:0 "闯入者被毁"
- mem_colony_ship.3.desc:0 "我们成功地将闯入§Y[FromFrom.Solar_System.GetName]星系§!的不明船只击毁。\n\n潜在的威胁已经被消除，但它的使命是什么，以及它所携带的人员的身份将永远是个谜。"
+ mem_colony_ship.3.desc:0 "我们成功地将闯入§Y[FromFrom.Solar_System.GetName]星系§!的不明飞船击毁。\n\n潜在的威胁已经被消除，但它的使命是什么，以及它所携带的人员的身份将永远是个谜。"
  mem_colony_ship.3.a:0 "我们别无选择。"
  mem_colony_ship.3.b:0 "没有人能毫无后果地闯入我们的空间。"
  mem_colony_ship.3.c:0 "状态:周边安全。"
@@ -80,4 +80,4 @@
  job_mem_colony_ship_colonist:0 "$job_colonist$"
  job_mem_colony_ship_colonist_plural:0 "$job_colonist_plural$"
  job_mem_colony_ship_colonist_desc:0 "适应陌生新世界并不容易。如果没有一个星际帝国的支持，那就更难了。"
- mod_job_mem_colony_ship_colonist_add:0 "$job_mem_colony_ship_colonist$ 职位"
+ mod_job_mem_colony_ship_colonist_add:0 "$job_mem_colony_ship_colonist$ 岗位"

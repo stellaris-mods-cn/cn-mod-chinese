@@ -12,7 +12,7 @@
  EMBRYO_FRIENDLY_GREETING_01:0 "[Root.GetName]向你问候，[From.GetRulerTitle]。虽然你不是我们的一部分，但你会知道我们也很珍惜我们的朋友，只要他们是有用的。"
  EMBRYO_FRIENDLY_GREETING_02:0 "啊，[Root.GetSpeciesSpawnNamePlural]，它只是一个孤儿，也许把它带回家?也许?它需要一个家庭。"
  EMBRYO_FRIENDLY_GREETING_03:0 "你知道身体的重要性，我们需要它们，我们就是它们。"
- EMBRYO_FRIENDLY_GREETING_04:0 "我们为侵扰了一些进入我们空间的船只而道歉，他们想要被侵扰，只要问问他们……哦……"
+ EMBRYO_FRIENDLY_GREETING_04:0 "我们为侵扰了一些进入我们空间的飞船而道歉，他们想要被侵扰，只要问问他们……哦……"
  EMBRYO_HOSTILE_GREETING_01:0 "我们会感染你的，[From.GetSpeciesName]。你将成为我们的一员。"
  EMBRYO_HOSTILE_GREETING_02:0 "是声音，加入我们，做我们自己。"
  EMBRYO_HOSTILE_GREETING_03:0 "生命在哪里结束，新的生命就在哪里诞生。"
@@ -28,7 +28,7 @@
 
  EMBRYO_DOW_PROPOSE:0 "你将被感染，我们的幼虫已经被发射到你最近的殖民地。"
  EMBRYO_DOW_PROPOSE_01:0 "我们已经确定[From.GetSpeciesName]将成为可行的宿主。准备好接受寄生虫感染。"
- EMBRYO_DOW_PROPOSE_02:0 "Did you really think that you could stop the spread of the [Root.GetName]. You are fools, and you will be us."
+ EMBRYO_DOW_PROPOSE_02:0 "您真的认为可以阻止[Root.GetName]的传播吗?你们是傻瓜，你们就是我们。"
  EMBRYO_DOW_ACCEPT:0 "你真的认为你能阻止[Root.GetName]的传播吗?你们是傻瓜，你们将成为我们。"
  EMBRYO_DOW_ACCEPT_01:0 "[Root.GetName]的传播是无法阻止的。反抗是没有用的，你会成为我们。"
  EMBRYO_DOW_ACCEPT_02:0 "来吧，[From.GetSpeciesName]。你会被感染。一具尸体，没有坟墓。"
@@ -113,7 +113,7 @@
  EMBRYO_CLOSE_BORDERS_SELECT:0 "再多的边界也无法容纳我们"
  EMBRYO_OPEN_BORDERS_ACCEPT:0 "好主意，蛋。"
  EMBRYO_OPEN_BORDERS_PROPOSE:0 "蛋，我们欢迎你进入我们的领地"
- EMBRYO_CLOSE_BORDERS_SELECT:0 "我们可以从你的肚子里挖出一条路来，当你还是婴儿的时候，你认为这个想象出来的边界会阻止我们吗?"
+ EMBRYO_CLOSE_BORDERS_SELECT:0 "再多的边界也无法容纳我们"
  
  INSULT_PROPOSE_INFEST:0 "你们是寄生虫，仅此而已。"
  INSULT_PROPOSE_EMBRYO_01:0 "你永远不会带我们走的，寄生虫。"

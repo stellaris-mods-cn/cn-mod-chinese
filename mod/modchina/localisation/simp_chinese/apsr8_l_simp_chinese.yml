@@ -8,7 +8,7 @@
  apsr8_planet_modifier_desc:0 "一种不稳定的放射性物质。理论上，它可以作为一种燃料，用于一个非常强大的反应堆"
  
  apsr8_deposit:0 "$apsr8_planet_modifier$"
- apsr8_deposit_desc:0 "$apsr8_planet_modifier_desc$\n\n§M$apsr8_deposit_effect$§!" 
+ apsr8_deposit_desc:0 "$apsr8_planet_modifier_desc$\n\n§M$apsr8_deposit_effect$§!"
  apsr8_deposit_effect:0 "独特的资源可用: $apsr8_planet_modifier$"
  
  
@@ -53,6 +53,13 @@
  
  
  
+ ### катаклизм
+  
+ apsr8_building_cataclysm:0 "§RStopped $apsr8_building_part3$§!"
+ apsr8_building_cataclysm_desc:0 "$apsr8_building_predesc$\n该反应堆因第四发电机组的破坏而停止工作"
+ 
+ 
+ 
  ### технологии
  
  tech_apsr8_building_part1:0 "钜元素稳定化"
@@ -79,7 +86,7 @@
  apsr.8003.title:0 "$apsr8_building_part3$ 完成"
  apsr.8003.desc:0 "§Y$apsr8_building_part3$§!的能量已经达到顶峰，能量流已经超出了我们的任何预期"
  apsr.8003.ok-button:0 "非常棒"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +118,7 @@
  apsr.8013.title:0 "资源发现: §M$apsr8_planet_modifier$§!"
  apsr.8013.desc:0 "在一个被占领的行星上发现了一些奇怪的东西。由于星球地壳不薄，有大量不稳定的放射性物质发生，具有很大的潜力。我们可以试着用我们祖先使用核能的方式来使用它"
  apsr.8013.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

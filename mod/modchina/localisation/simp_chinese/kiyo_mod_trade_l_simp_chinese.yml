@@ -1,0 +1,86 @@
+﻿### NOT TRANSLATED ###
+
+l_simp_chinese:
+
+ # TODO USE THIS SOMEWHERE
+ kiyo_mod_trade_info:1 "贸易路线: §R[This.Owner.kiyo_trade_num_trade_routes][This.Owner.Get0TradeRoutes]§!/§G[This.Owner.kiyo_trade_max_trade_routes]§!, Max $trade_plural$ per Trade Route: §Y[This.Owner.kiyo_trade_max_cargo_ships_per_fleet]§!"
+ 
+ kiyo_mod_trade_zero:0 "0"
+ kiyo_mod_trade_noinfo:0 ""
+
+ KIYO_TRADE:0 "货船"
+ kiyo_trade:0 "货船"
+ kiyo_trade_plural:0 "货s"
+ 
+ opinion_kiyo_mod_trade_trade_routes:0 "对外贸易"
+ 
+ COMBAT_COMPUTER_KIYO_MOD_TRADE_EVADE_DEFAULT:0 "基本战斗计算机"
+ kiyo_mod_trade_evade:0 "回避"
+ kiyo_mod_trade_evade_desc:1 "§Y回避策略:§! 这艘船将设法从敌人那里逃到相当远的距离。"
+ 
+ job_kiyo_mod_trader:0 "贸易商"
+ job_kiyo_mod_trader_desc:0 "这些商人专门从出口当地商品和服务，以及把外国商品和服务带到当地市场中获取利润。"
+ 
+ planet_kiyo_mod_trader:0 "对外贸易"
+ planet_kiyo_mod_trader_produces_add:0 "对外贸易输出"
+ 
+ decision_kiyo_mod_trade_setup_trade_route:0 "添加贸易路线"
+ decision_kiyo_mod_trade_setup_trade_route_max_trade_routes:0 "$TRIGGER_FAIL$我们已经到达了这个时候我们所能拥有的最大的贸易路线。"
+ decision_kiyo_mod_trade_setup_trade_route_effects:0 "我们将在这个星球上建立一条贸易路线。你必须派遣货运舰队到另一个星球，由另一个可玩的帝国开始贸易路线。"
+ decision_kiyo_mod_trade_setup_trade_route_desc:0 "帝国之间的贸易路线必将改善外交关系，促进共同繁荣。"
+ decision_kiyo_mod_trade_add_ships_to_trade_route:0 "将货船添加到贸易路线"
+ decision_kiyo_mod_trade_add_ships_to_trade_route_any_fleet_has_room:0 "$TRIGGER_FAIL$没有可供另一艘货船通行的贸易路线。"
+ decision_kiyo_mod_trade_add_ships_to_trade_route_has_window:0 "$TRIGGER_FAIL$您已经尝试将货船添加到贸易路线。"
+ decision_kiyo_mod_trade_add_ships_to_trade_route_effects:0 "我们将在您选择的贸易航线上增加另一艘货船。只要你没有超出你的管理能力，改变主意会给你全额退款。"
+ decision_kiyo_mod_trade_add_ships_to_trade_route_desc:0 "用更多的货船来支持我们的贸易路线，将使我们能够增加一个货运船队所能容纳的资源数量。"
+ 
+ mod_job_kiyo_mod_trader_add:0 "贸易商工作"
+ mod_planet_kiyo_mod_trader_minerals_produces_add:0 "贸易商矿物产出"
+ mod_planet_kiyo_mod_trader_energy_produces_add:0 "贸易商能量币产出"
+ mod_planet_kiyo_mod_trader_food_produces_add:0 "贸易商食物产出"
+ mod_planet_kiyo_mod_trader_unity_produces_add:0 "贸易商凝聚力产出"
+ mod_planet_kiyo_mod_trader_consumer_goods_produces_add:0 "贸易商消费品产出"
+ mod_planet_kiyo_mod_trader_alloys_produces_add:0 "贸易商合金产出"
+ mod_planet_kiyo_mod_trader_physics_research_produces_add:0 "贸易商物理学研究产出"
+ mod_planet_kiyo_mod_trader_society_research_produces_add:0 "贸易商社会研究学产出"
+ mod_planet_kiyo_mod_trader_engineering_research_produces_add:0 "贸易商工程学研究产出"
+
+ KIYO_MOD_TRADE_CORVETTE_FISSION_REACTOR:1 "$CORVETTE_FISSION_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_FUSION_REACTOR:1 "$CORVETTE_FUSION_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_COLD_FUSION_REACTOR:1 "$CORVETTE_COLD_FUSION_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_ANTIMATTER_REACTOR:1 "$CORVETTE_ANTIMATTER_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_ZERO_POINT_REACTOR:1 "$CORVETTE_ZERO_POINT_REACTOR$"
+ KIYO_MOD_TRADE_CORVETTE_DARK_MATTER_REACTOR:1 "$CORVETTE_DARK_MATTER_REACTOR$"
+ 
+ KIYO_MOD_TRADE_SHIP_THRUSTER_1:1 "$SHIP_THRUSTER_1$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_2:1 "$SHIP_THRUSTER_2$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_3:1 "$SHIP_THRUSTER_3$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_4:1 "$SHIP_THRUSTER_4$"
+ KIYO_MOD_TRADE_SHIP_THRUSTER_5:1 "$SHIP_THRUSTER_5$"
+ 
+ d_kiyo_mod_trade:1 "贸易中心"
+ d_kiyo_mod_trade_desc:0 "这个地区致力于不同帝国之间的对外贸易。从这个中心获得的资源取决于从哪里进口商品的地球人口。"
+ 
+ kiyo_event_trade.0.title:0 "创办一家外国公司贸易路线"
+ kiyo_event_trade.0.desc:0 "我们的帝国已经决定在§Y[Solar_System.GetName]§!星系的§Y[kiyo_trade_orbit.GetName]§!建立一条对外贸易路线。\n\n要完成贸易路线设置，发送§Y[Root.GetName]§!到另一个星球拥有一个常规的可玩帝国。这两个行星将开始从基于这些行星人口的贸易中获得资源。"
+ 
+ kiyo_event_trade.1.title:0 "对外贸易航线设置完成"
+ kiyo_event_trade.1.desc:0 "我们的帝国已经建成了一条从§Y[kiyo_trade_start.GetName]§!到§Y[kiyo_trade_end.GetName]的对外贸易路线。我们的行星现在将获得基于这些行星上pop的资源。"
+ 
+ kiyo_event_trade.2.title:0 "从§Y[kiyo_trade_trader.GetName]§!出发的贸易路线"
+ kiyo_event_trade.2.desc:0 "另一个帝国已经开始与我们的星球之一(§Y[kiyo_trade_end.Solar_System.GetName]§!星系中的§Y[kiyo_trade_end.GetName]§!)进行对外贸易。"
+ 
+ kiyo_event_trade.33.title:0 "加强我们的货物装载"
+ kiyo_event_trade.33.desc:0 "你希望哪个货运舰队得到支援?"
+ kiyo_event_trade.33.a:0 "[kiyo_trade_cargo_fleet_1.GetName]"
+ kiyo_event_trade.33.b:0 "[kiyo_trade_cargo_fleet_2.GetName]"
+ kiyo_event_trade.33.c:0 "[kiyo_trade_cargo_fleet_3.GetName]"
+ kiyo_event_trade.33.d:0 "[kiyo_trade_cargo_fleet_4.GetName]"
+ kiyo_event_trade.33.e:0 "[kiyo_trade_cargo_fleet_5.GetName]"
+ kiyo_event_trade.33.f:0 "[kiyo_trade_cargo_fleet_6.GetName]"
+ kiyo_event_trade.33.g:0 "[kiyo_trade_cargo_fleet_7.GetName]"
+ kiyo_event_trade.33.h:0 "[kiyo_trade_cargo_fleet_8.GetName]"
+ kiyo_event_trade.33.i:0 "[kiyo_trade_cargo_fleet_9.GetName]"
+ 
+ kiyo_event_trade.4.title:0 "取消贸易路线"
+ kiyo_event_trade.4.desc:0 "我们从§Y[Root.GetName]§!出发的贸易路线被取消了。与你的贸易伙伴关系紧张，或者星球受到破坏，都可能导致这种情况发生。"

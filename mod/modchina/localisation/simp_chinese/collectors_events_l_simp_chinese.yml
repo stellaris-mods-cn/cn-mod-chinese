@@ -1,0 +1,107 @@
+﻿l_simp_chinese:
+  # collectors.12: Entering Planet-State system for the first time (on_entering_system_fleet)
+  collectors.12.name: "行星国度 - 建立通讯"
+  collectors.12.desc: "我们一进入§Y[From.GetName]§!就收到了来自附近行星的通讯。显然，这里不仅有人居住，而且还是一个相当先进的文明。"
+  collectors.12.a: "有趣。"
+  # collectors.13: First contact with Planet-State
+  collectors.13.name: "与[target_planet_state.GetName]的第一次接触"
+  collectors.13.desc: "朋友你好，欢迎来到§Y宝库§!.\n\n§B*这个生物盯着你，想知道你是不是和平而来*§!\n\n别往心里去，但是…远离贵重物品!\n\n但是嘿!我的礼貌在哪里，来看看我们的特别收藏，我们有很多很多古老的手工艺品。甚至，我们的一个公民还有从已经灭绝的一种叫巴奥的古老物种那里得到的一根树枝!真是可怜的家伙……\n\n如果你找到你需要的东西，请告诉我，我们可以讨论价格。\n\n§B*当你做出决定时，大使露出贪婪的笑容。*§!"
+  collectors.13.a: "酷---"
+
+
+
+  # collectors.100: Egalitarian collectors - Main Menu (Initial)
+  collectors.100a.desc: "啊，是[This.GetName]啊。你在我们的宝库里看到你喜欢的东西了吗?"
+  collectors.100.a: "我们对一些小文物感兴趣。"
+  
+  collectors.100.b: "我们听说你有一些先驱者遗物。"
+  collectors.100.b.opinion: "要求§Y[target_collectors.GetName]§!拥有:\n￡opinion￡ 态度 +50"
+  collectors.100.b.questless: "需要有§Y先驱者事件链§!"
+  
+  collectors.100.goodbye: "这次不行，再见。"
+  
+  # collectors.110: Minor Artifacts
+  collectors.110.name: "小文物"
+  collectors.110.desc: "哦，是的，是的，是的!小文物!我们有很多很多! §R500§! ￡energy￡ 能量点每个，好吗？"
+  collectors.110.a: "就这样吧。"
+  collectors.110.a.reply: "很好很好！我们再来一次！"
+  collectors.110.back: "你还能提供什么？"
+  # collectors.120: Precursor Artifacts
+  collectors.120.name: "先驱者遗物"
+  collectors.120.desc: "既然你看起来是个好人… §R1000§! ￡energy￡ 能量点就够了。"
+  collectors.120.a: "成交！"
+  collectors.120.a.reply: "太好了，回去的时候别忘了看一下我们的小文物！"
+  
+  
+  
+   # collectors.100: collectors go bananas
+  collectors.101.name: "与[target_planet_state.GetName]的不愉快的接触"
+  collectors.101a.desc: "你带着符文吗???? 你见过符文吗????\n\n§B*这个生物看起来已经完全精神失常了，完全疯了……*§!\n\n§R把符文给我们!!§!\n\n§B*你的保镖随时准备采取行动，并在需要时保护你。*§!\n\n给--- §R我----§! 那----- 个----- 符----- 文-----!!"
+  collectors.101.tellmore: "你为什么需要符文？"
+  
+  collectors.101b.name: "与[target_planet_state.GetName]的不愉快的接触"
+  collectors.101b.desc: "符文有强大的力量，是吗？\n很多很多力量！！！\n\n一旦我们获得力量，我们就可以创造更多的收藏品，明白吗？很多 很多 很多 文物从§B*假装咳嗽*§! 那些消亡的 §B*又咳嗽了*§! 文明！"
+  collectors.101b.tellmore: "嗯. .你打算如何创造“收藏品”?"
+  
+  collectors.101c.name: "与[target_planet_state.GetName]的不愉快的接触"
+  collectors.101c.desc: "很明显，用符文的力量和奈布拉克斯魔方!\n\n把符文放在各个面，然后许个愿，是吗？\n然后！我们许愿除了我们之外的每一个人都再见，毁灭，再见，朋友!银河系突然间充满了废墟和遗迹，等着被占领!\n\n§R哈哈哈哈哈哈哈哈哈!!!§!"
+  collectors.101c.tellmore: "...是啊......奈布拉克斯魔方是什么?"
+  
+  collectors.101d.name: "与[target_planet_state.GetName]的不愉快的接触"
+  collectors.101d.desc: "你对这个银河系一无所知吗？啊！？ 多么愚蠢！愚蠢！！愚蠢！！！的笨蛋！啊！！！\n\n奈布莱克斯创造了符文，不是吗？ 他们有非常非常强大的力量，得到所有的符文，你就可以创造奈布莱克斯魔方。\n\n你启动魔方然后 §RBOOOM!§! 你就能许愿！\n\n说到这里，我们希望你现在就走!\n\n滚出去! !\n§R滚！！出！！！去！！！！§!"
+
+  collectors.101.surrender: "这是我们的符文。请停下来!"
+  collectors.101.surrender.reply: "你说什么?\n\n啊,是的…“最好的结果!”\n\n§B*当他抓住符文时向你眨眼*§!"
+
+  collectors.101.goodbye: "好吧.....再见现在...."
+  collectors.101.goodbye2: "符文太重要了。我们不能交给他们。"
+  
+
+
+  
+  ## to do: have collectors avoid your planets if you give them the runes and change hostility  
+  
+  
+   # collectors.200: collector is dead
+  collectors.200a.desc: "啊，这里是[This.GetName]。我们对过去的事情感到非常抱歉。我们对我前任的行为感到遗憾。我们承认道歉并不能弥补过失，因此我们的军队处于高度戒备状态。\n\n不过，只要你的船远离我们的星系，我们就可以继续贸易。\n\n请看看我们的商品，打五折表示歉意。"
+  collectors.200.a: "让我们来看看一些小文物。"
+  
+  collectors.200.b: "给我们看看你的前驱者遗物。"
+  collectors.200.b.opinion: "要求§Y[target_collectors.GetName]§!拥有:\n￡opinion￡ 态度 +50"
+  collectors.200.b.questless: "需要有§Y先驱者事件链§!"
+  
+  collectors.200.goodbye: "再见。"
+  
+  # collectors.110: Minor Artifacts
+  collectors.210.name: "小文物"
+  collectors.210.desc: "这是我们的目录。请随便看一看可以提任何问题。谢谢。 价格是 §R250§! ￡energy￡ 能量点每件。"
+  collectors.210.a: "我们想要这个小文物。"
+  collectors.210.a.reply: "太好了。还有别需要吗?"
+  collectors.210.back: "你还能提供什么？"
+  # collectors.120: Precursor Artifacts
+  collectors.220.name: "先驱者遗物"
+  collectors.220.desc: "当然。我们目前的报价是 §R500§! ￡energy￡ 能量点。"
+  collectors.220.a: "成交！"
+  collectors.220.a.reply: "太好了，出回去的时候别忘了看看我们的小文物！"
+  
+  
+  
+  
+  # collectors.1001: collectorss destroyed (Destroyer)
+  collectors.1001.name: "行星国度 被征服"
+  collectors.1001.desc: "我们已经成功地征服了 [target_collectors_capital.GetName]， 这里以前是一个独立的星球。 这个星球，拥有其所有令人难以置信的先进基础设施和财富，征服这里是我们帝国的福音。\n\n另一方面，它的居民可能会带来一些问题。 我们必须找到一种方法来应对他们强烈的独立感，并镇压任何潜在的叛乱。"
+  
+  # collectors.1002: collectors Destroyed --------
+  collectors.1002.name: "[target_planet_state.GetName] 被征服"
+  collectors.1002.a.desc: "我们刚接到一个来自[target_collectors_capital.GetName]的紧急通讯。 被称为[target_collectors.GetName]的行星国失去了自由。"
+  collectors.1002.a: "对那些珍贵的遗物来说是个悲惨的结局。"
+
+  # collectors.1005: Attacked collectors Refuses Communications (on_custom_diplomacy)
+  collectors.1005a.desc: "小偷!你是小偷!肮脏的小贼\n\n!§B*这个生物很沮丧，不愿意和你和你的团队交流*§!\n\n走开!我们恨你，我们恨你!!现在就走，别再回来!"
+  collectors.1005.a: "通信结束。"
+  
+  # collectors.2005: Attacked collectors Refuses Communications (on_custom_diplomacy) after collector died
+  collectors.1005a.desc: "小偷!你是小偷!肮脏的小贼\n\n!§B*这个生物很沮丧，不愿意和你和你的团队交流*§!\n\n走开!我们恨你，我们恨你!!现在就走，别再回来!"
+  collectors.1005.a: "通信结束。"
+  
+  

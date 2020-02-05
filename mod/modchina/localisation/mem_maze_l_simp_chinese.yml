@@ -1,0 +1,142 @@
+﻿l_simp_chinese:
+
+ #Interface, because vanilla is lacking
+ tile_building_resource_unity_add:0 "$tile_resource_unity_add$"
+ 
+ #Events
+ mem_maze.2.name:0 "失落的结构"
+#  mem_maze.2.desc.m:0 "The demolition of a large mountain range on §Y[Root.GetName]§! has opened the way to a valley we were unaware of before. Inside it, landscape engineers have found an alien structure of some sort. Impervious to scans, it appears to be of highly advanced technology, yet primitive in form and material choice. The walls are intricately decorated in abstract shapes and images of grotesque scenes."
+ mem_maze.2.desc.j:0 "景观工程师在清理§Y[Root.GetName]§!上浓密的杂草时，有了一个惊人的发现。在植物过度生长的伪装下，一个陌生的结构出现了。经过扫描，它似乎是高度先进的技术，但在形式和材料选择上还很原始。。墙壁被抽象的形状和奇形怪状的画面错综复杂地装饰着。"
+#  mem_maze.2.desc.q:0 "A minor retraction in a quicksand basin on §Y[Root.GetName]§! during a stabilization operation has led to an astounding discovery. An alien structure of a sort that was previously buried in sand resurfaced. Impervious to scans, it appears to be of highly advanced technology, yet primitive in form and material choice. The walls are intricately decorated in abstract shapes and images of grotesque scenes."
+#  mem_maze.2.desc.g:0 "The vaporization of a glacier on §Y[Root.GetName]§! has led to an astounding discovery. An alien structure that was previously entirely encased in ice revealed itself. Impervious to scans, it appears to be of highly advanced technology, yet primitive in form and material choice. The walls are intricately decorated in abstract shapes and images of grotesque scenes."
+#  mem_maze.2.desc.k:0 "Clearing out the kelp coverage on §Y[Root.GetName]§! has produced something astounding. What was thought to be a small island covered in kelp has turned out to hide a large and mysterious alien structure. Impervious to scans, it appears to be of highly advanced technology, yet primitive in form and material choice. The walls are intricately decorated in abstract shapes and images of grotesque scenes."
+ mem_maze.2.desc.machine: "在去除§Y[Root.GetName]§!上密集的植被时，我们发现了一个外星结构。经过扫描，它似乎是高度先进的技术，但在形式和材料的选择原始。 \n\n然而，任何进一步探索它的尝试都以失败告终，因为我们派进去的任何单位，无论多么隐蔽，在它靠近时都立即被禁用。"
+ mem_maze.2.desc.hive: "在去除§Y[Root.GetName]§!上密集的植被时，我们发现了一个外星结构。经过扫描，它似乎是高度先进的技术，但在形式和材料的选择原始。 \n\n然而，任何我们试图派去近距离观察的工蜂都被切断了与我们的联系，很快就枯萎了，阻止了我们对现场的进一步探索。"
+ mem_maze.2.gest: "奇怪……"
+ 
+ mem_maze.4.name:0 "外星结构"
+ mem_maze.4.desc:0 "§Y[Root.GetName]§!上一个神秘的外星结构吸引了科学家和外行人的注意。人们的猜测甚嚣尘上，但很少有人能提出有关该结构起源的连贯理论。 \n\n其中一个比较有希望的理论是金字塔的外部是某种“巨型拼图锁”。我们应该授权打开它吗?"
+ mem_maze.4a:0 "是的，把我们需要的东西都准备好。"
+ mem_maze.4b:0 "我们不应该鲁莽地摆弄外来文物。"
+ mem_maze.4b.tooltip:0 "我们不会对这个结构做任何事情。"
+ mem_maze.4c:0 "我们应该把它当作神圣的人工制品。"
+ mem_maze.4c.tooltip:0 "£unity  这个结构的凝聚力输出将会增加，但是我们不会试图去发现它所隐藏的秘密。"
+ 
+ mem_maze.5.name:0 "外星迷宫"
+ mem_maze.5.desc:0 "试图导航的图像和图案刻在表面的神秘结构，终于取得了成果。按正确的顺序按下它们，一个隐藏的门打开了，露出了里面的通道。 \n\n建筑的内部似乎是一个无尽的走廊迷宫，在地下蜿蜒和挖掘。我们没有探测到任何能源，但墙壁发出柔和的光，使我们有了视觉。"
+ mem_maze.5a:0 "我们需要进一步探索。"
+ 
+ mem_maze.6.name:0 "第一次探险失败"
+ mem_maze.6.desc:0 "随着队伍进入隧道，我们与他们失去了联系。 \n\n我们等了很长时间，希望他们带着好消息回来，但等待的时间比预期的长得多。最后，一名队员从迷宫深处出来，几近疯狂，疲惫不堪。他们透露，当他们在迷宫中穿行时，领队不小心触发了绊线，导致一块巨大的巨石滚过走廊，把他们都压扁了，除了唯一的幸存者。"
+ mem_maze.6a:0 "再试一次，考虑到滚动的巨石。"
+ mem_maze.6b:0 "这是不可接受的风险，封锁迷宫。"
+ mem_maze_cancellation: "封闭迷宫，永不返回。 \n§R这一决定永远不能修改，永远。§!"
+ 
+ mem_maze.7.name:0 "第二次探险失败"
+ mem_maze.7.desc:0 "第二队武装了先进的机械陷阱知识，并配备了躲避陷阱的装置。和以前一样，当他们进入迷宫时，我们和他们失去了联系。我们徒劳地等了一段时间，直到几个幸存者从迷宫中出来。 \n\n他们告诉我们，尽管他们成功地避开了陷阱，但他们还是被守卫着一扇门的某种谜题挡住了去路。它包括重新排列固定在超立方体线框上的彩色珠子，以便使用额外的尺寸以某种方式移除它们。当研究小组未能解开这个谜题时，它们中的大多数都被一种未知形式的辐射熔化了。幸存者携带的草图应该能够提前解读出解决方案。"
+ mem_maze.7a:0 "再试一次，带着我们完成的作业。"
+ 
+ mem_maze.8.name:0 "第三次探险失败"
+ mem_maze.8.desc:0 "通过使用我们先进的计算机器，我们能够为团队提供这个难题的解决方案。他们离开时，我们再一次失去了联系，我们再一次等待他们的归来。最终，一个幸存者带着一个新的失败故事从迷宫中走了出来。 \n\n这一次，团队避开了陷阱，成功地解决了超立方体难题。然而，当他们继续往前走的时候，他们发现自己在一个房间里，有几块石板上写满了谜语。有些很容易破解，但有些则不然。正如团队所发现的，错误是致命的。几乎整个队伍都被石板上的闪电击中后，最后一个幸存者选择撤退，带回消息，连同所有谜语的文字记录。"
+ mem_maze.8a:0 "我们走得太远了，谜语不会阻止我们的。"
+
+ mem_maze.9.name:0 "第四次探险失败"
+ mem_maze.9.desc:0 "一个由我们帝国最杰出的科学家、哲学家、民俗学家和桌游玩家组成的委员会向团队提供了一份清单，上面列出了他们认为可以解开迷宫谜题的答案。当他们再次离开时，我们焦急地等待着他们的归来。最终，几个幸存者从迷宫中回来了，同样带来了坏消息。 \n\n尽管以最小的人员伤亡解决了谜题板，但团队还是被一个复杂的机械谜题打断了，这个谜题要求使用由外来物质组成的复杂机械和重量，以产生一个安全的通道，穿过一个没有地板的房间，悬挂在一个深渊上。为了解开这个谜题，房间以某种方式绕着水平轴旋转，将其中的大部分撞向天花板，造成了致命的后果。 \n\n幸存者携带着房间的详细方案，这应该允许我们首先在虚拟模拟中测试解决方案。"
+ mem_maze.9a:0 "我们快到了，我们现在不能停下来。"
+ 
+ mem_maze.10.name:0 "第五次探险结果"
+ mem_maze.10.desc:0 "在派遣§Y[officer.GetName]§!的小组执行任务之前，我们做了大量的准备工作。他们离开时，我们耐心地等待着消息。突然，收音机里的寂静被打破了。看来§Y[officer.GetName]§!成功地到达了迷宫的中心! \n\n[officer.GetSheHeCap]描述了[officer.GetSXX]一个大厅，中间的基座上有一个明亮的绿色球体。据说，这与此前所见的[officer.GetSheHe] [officer.GetHasHave]完全不同。[officer.GetSheHeCap]认为[officer.GetSXX]是某种…活着吗? \n\n突然，信号中断了。我们现在正在接收来自同一地区的另一个信号!"
+ 
+ mem_maze.11.desc:0 "我们欢迎你们，漫游者。你们找到了我们，通过这样做，证明了你们的价值和决心。你值得我们的听众。值得我们学习。 \n\n但先告诉我们，你最大的美德是什么?"
+ mem_maze.11a:0 "我们不知道。"
+ mem_maze.11a.tooltip:0 "答案将为您选择。或者不会选择。"
+ mem_maze.11b.eg:0 "平等"
+ mem_maze.11b.au:0 "忠诚"
+ mem_maze.11b.ma:0 "知识"
+ mem_maze.11b.sp:0 "信仰"
+ mem_maze.11b.mi:0 "勇气"
+ mem_maze.11b.pa:0 "仁慈"
+ mem_maze.11b.phile:0 "宽容"
+ mem_maze.11b.phobe:0 "纯洁"
+ mem_maze.11c:0 "你是谁?"
+ mem_maze.11c.response:0 "我们有很多，也有很多名字。我们保护知识，并与我们认为有价值的人分享。我们将与你分享知识。"
+ 
+ mem_maze.12.desc:0 "有趣。现在告诉我们，你认为最大的缺点是什么?"
+ mem_maze.12b.eg:0 "偏畸"
+ mem_maze.12b.au:0 "自私"
+ mem_maze.12b.ma:0 "迷信"
+ mem_maze.12b.sp:0 "背叛"
+ mem_maze.12b.mi:0 "懦弱"
+ mem_maze.12b.pa:0 "残忍"
+ mem_maze.12b.phile:0 "偏见"
+ mem_maze.12b.phobe:0 "腐败"
+ mem_maze.12.farewell:0 " 你们的答案很吸引人，漫游者们。现在我们将提供我们的礼物。"
+ 
+ mem_maze.13.name:0 "我们的科学家返回"
+ mem_maze.13.desc:0 "§Y[officer.GetName]§!的团队从迷宫中凯旋而出。他们很难回忆起到底发生了什么事，但他们的眼里却闪烁着疯狂的火花。他们要求立即访问数据包、笔和纸、棍子和一块泥土，什么都可以。经过数小时的绘画和写作，他们似乎已经恢复正常。与此同时，他们的作品似乎包含了我们许多人自古以来一直在寻找的几个答案!"
+ mem_maze.13a:0 "我们学到了很多。"
+ mem_maz.13a.tooltip: "外星迷宫现在将产生一个新的工作。它的输出将取决于我们提供的答案。"
+
+ # The Chain
+ mem_maze_dig_site: "外星结构"
+ mem_maze_dig_site_desc: "一种古老的结构，在设计上看似原始，但却拥有令人难以置信的先进技术。一个巨大的谜就在里面。"
+ 
+ #Project chain
+#  mem_maze_chain_title:0 "Exploring the Alien Structure"
+#  mem_maze_chain_desc:0 "A strange alien structure is drawing attention of our people. We should explore it and uncover its secrets."
+ 
+#  MEM_MAZE_0_PROJECT:0 "Unlock the Structure"
+#  MEM_MAZE_0_PROJECT_DESC:0 "We must find a way to unlock the mysterious structure. The solution must be in the wall carvings."
+ 
+#  MEM_MAZE_1_PROJECT:0 "First Expedition into the Maze"
+#  MEM_MAZE_1_PROJECT_DESC:0 "The maze and its secrets await! We must press forward!"
+ 
+#  MEM_MAZE_2_PROJECT:0 "Second Expedition into the Maze"
+#  MEM_MAZE_2_PROJECT_DESC:0 "We won't let some boulders discourage us. Onwards!"
+ 
+#  MEM_MAZE_3_PROJECT:0 "Third Expedition into the Maze"
+#  MEM_MAZE_3_PROJECT_DESC:0 "We will solve the puzzle door and uncover the mysteries of the maze!"
+ 
+#  MEM_MAZE_4_PROJECT:0 "Fourth Expedition into the Maze"
+#  MEM_MAZE_4_PROJECT_DESC:0 "No riddle can stand against our collective minds. The mysteries of the maze will be ours!"
+ 
+#  MEM_MAZE_5_PROJECT:0 "Fifth Expedition into the Maze"
+#  MEM_MAZE_5_PROJECT_DESC:0 "The mysteries of the maze are almost ours! We will press forward!"
+ 
+ #Modifiers
+ mem_virtue_eg:0 "选择的美德: §S平等§!"
+ mem_virtue_au:0 "选择的美德: §S忠诚§!"
+ mem_virtue_ma:0 "选择的美德: §S知识§!"
+ mem_virtue_sp:0 "选择的美德: §S信仰§!"
+ mem_virtue_pa:0 "选择的美德: §S仁慈§!"
+ mem_virtue_mi:0 "选择的美德: §S勇气§!"
+ mem_virtue_phile:0 "选择的美德: §S宽容§!"
+ mem_virtue_phobe:0 "选择的美德: §S纯洁§!"
+ 
+ mem_vice_eg:0 "选择的缺点: §S偏畸§!"
+ mem_vice_au:0 "选择的缺点: §S自私§!"
+ mem_vice_ma:0 "选择的缺点: §S迷信§!"
+ mem_vice_sp:0 "选择的缺点: §S背叛§!"
+ mem_vice_pa:0 "选择的缺点: §S懦弱§!"
+ mem_vice_mi:0 "选择的缺点: §S残忍§!"
+ mem_vice_phile:0 "选择的缺点: §S偏见§!"
+ mem_vice_phobe:0 "选择的缺点: §S腐败§!"
+ 
+ mem_maze_unhappy:0 "失败的探险"
+ 
+ #Trait
+ mem_leader_strange_insight:0 "奇怪的洞察力"
+ mem_leader_strange_insight_desc:0 "这位领袖已经进入了迷宫，现在明白了别人不懂的东西。"
+ 
+ #Tile blockers
+ d_mem_maze_overgrowth: "明显的过度生长"
+ d_mem_maze_overgrowth_desc: "一片浓密而有弹性的植被，看上去与周围环境格格不入，而且无法被扫描到。它显然在隐藏什么，但那是什么呢?"
+ mem_maze_overgrowth_effect_tooltip: "隐藏在里面的，必然显露出来。"
+
+ d_mem_maze_temple: "古老的结构"
+ d_mem_maze_temple_desc: "$mem_maze_dig_site_desc$"
+
+ job_mem_maze_orb_watcher: "观察者"
+ job_mem_maze_orb_watcher_plural: "观察者"
+ job_mem_maze_orb_watcher_desc: "有人称之为疯狂。有人称之为灵感。大多数人称它盯着一个漂浮的绿色球体，直到你听到它和你说话。"
+ mod_job_mem_maze_orb_watcher_add: "$job_mem_maze_orb_watcher$岗位"

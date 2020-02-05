@@ -32,7 +32,7 @@
  job_eac_pdf_shipbuilder_plural:0 "行星防御造船师"
  job_eac_pdf_shipbuilder_desc:0 "负责建造和维护行星防御舰队。\n存储合金用于船舶建造和保养。"
  job_eac_pdf_shipbuilder_effect_desc:0 "£job_eac_pdf_shipbuilder£ $job_eac_pdf_shipbuilder_plural$储存£alloys §Y2§!用于巡逻舰的建造，使用£energy §Y1§!用于建造和维护，并生产£engineering£ §Y$engineering_research$§!和£unity£ §Y$unity$§!"
- mod_job_eac_pdf_shipbuilder_add:0 "$job_eac_pdf_shipbuilder$工作"
+ mod_job_eac_pdf_shipbuilder_add:0 "$job_eac_pdf_shipbuilder$岗位"
  mod_job_eac_pdf_shipbuilder_per_pop:0 "§G+1§! $job_eac_pdf_shipbuilder$工作每$VALUE$人口"
  mod_job_eac_pdf_shipbuilder_per_pop_short:0 "\n§G+1§! £mod_job_eac_pdf_shipbuilder_add£每$VALUE$ £pop£"
 
@@ -40,7 +40,7 @@
  job_eac_pdf_drone_shipbuilder_plural:0 "行星防御造船无人机"
  job_eac_pdf_drone_shipbuilder_desc:0 "负责建造和维护行星防御舰队"
  job_eac_pdf_drone_shipbuilder_effect_desc:0 "£job_eac_pdf_drone_shipbuilder£ $job_eac_pdf_drone_shipbuilder_plural$储存 £alloys §Y2§!用于巡逻舰的建造，使用£energy §Y1§!用于建造和维护，并生产£engineering£ §Y$engineering_research$§!和£unity£ §Y$unity$§!"
- mod_job_eac_pdf_drone_shipbuilder_add:0 "$job_eac_pdf_drone_shipbuilder$ 工作"
+ mod_job_eac_pdf_drone_shipbuilder_add:0 "$job_eac_pdf_drone_shipbuilder$ 岗位"
  mod_job_eac_pdf_drone_shipbuilder_per_pop:0 "§G+1§! $job_eac_pdf_drone_shipbuilder$工作每$VALUE$人口"
  mod_job_eac_pdf_drone_shipbuilder_per_pop_short:0 "\n§G+1§! £mod_job_eac_pdf_drone_shipbuilder_add£每$VALUE$ £pop£"
 
@@ -126,11 +126,11 @@
  eac_tech_planetary_defense_force_desc:0 "A terrestrial fleet capable of entering space to deal with orbital and 攻击星系内敌人. The fleet uses a modified corvette hull without an FTL drive."
  eac_tech_patrol_craft_1:0 "I型巡逻舰"
  eac_tech_patrol_craft_1_desc:0 "A modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$."
- EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! I型巡逻舰"
+ EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_TITLE:0 "§H解锁飞船类型:§! I型巡逻舰"
  EAC_TECH_UNLOCK_PATROL_CRAFT_1_CONSTRUCTION_DESC:0 "§HI型巡逻舰§!\nThe I型巡逻舰 is the most basic military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts."
  eac_tech_patrol_craft_2:0 "II型巡逻舰"
  eac_tech_patrol_craft_2_desc:0 "An improved modified corvette hull without an FTL drive. Built and maintained at the $eac_pdf_base$.\n§ROriginal $eac_pdf_patrol_craft_1$ designs will no longer be used.§!\nAdds §G+2§! ship building jobs to the $eac_pdf_base$."
- EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! II型巡逻舰"
+ EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_TITLE:0 "§H解锁飞船类型:§! II型巡逻舰"
  EAC_TECH_UNLOCK_PATROL_CRAFT_2_CONSTRUCTION_DESC:0 "§HII型巡逻舰§!\nThe II型巡逻舰 is an improved military ship, lacking an FTL drive, armed and ready in the event of system hostile contacts."
 
  eac_tech_patrol_craft_hull_1:0 "$eac_pdf_patrol_craft_1$船体改进I"

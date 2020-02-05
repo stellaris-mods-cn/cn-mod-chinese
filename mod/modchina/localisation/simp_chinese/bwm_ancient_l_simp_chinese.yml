@@ -1,172 +1,172 @@
 ﻿l_simp_chinese:
 
- bwm_ANCIENT_PRIMARY_WEAPON:0 "先祖 超重力扭曲炮"
- bwm_ANCIENT_SECONDARY_WEAPON:0 "先祖 超重力扭曲炮"
+ bwm_ANCIENT_PRIMARY_WEAPON:0 "古代超重力炮"
+ bwm_ANCIENT_SECONDARY_WEAPON:0 "古代重力炮"
  
- bwm_ANCIENT_SPACEPORT_WEAPON:0 "古代墓穴"
+ bwm_ANCIENT_SPACEPORT_WEAPON:0 "古代重力炮"
  
- bwm_ANCIENT_PRIMARY_STATION_WEAPON:0 "先祖 重力炮"
- bwm_ANCIENT_CRUISER_WEAPON:0 "先祖 重力炮"
+ bwm_ANCIENT_PRIMARY_STATION_WEAPON:0 "古代重力炮"
+ bwm_ANCIENT_CRUISER_WEAPON:0 "古代重力炮"
  
- bwm_ANCIENT_TORPEDO:0 "先祖 次元破灭鱼雷"
+ bwm_ANCIENT_TORPEDO:0 "古代侵蚀鱼雷"
 
- bwm_ANCIENT_ESCORT_WEAPON:0 "先祖 三式光子炮"
- bwm_ANCIENT_LARGE_WEAPON:0 "先祖 三式光子炮"
- bwm_ANCIENT_LARGE_STATION_WEAPON:0 "先祖 三式光炮"
+ bwm_ANCIENT_ESCORT_WEAPON:0 "古代光子炮-三型"
+ bwm_ANCIENT_LARGE_WEAPON:0 "古代光子炮-三型"
+ bwm_ANCIENT_LARGE_STATION_WEAPON:0 "古代光子炮-三型"
  
- bwm_ANCIENT_MEDIUM_WEAPON:0 "先祖 二式光子炮"
- bwm_ANCIENT_SMALL_WEAPON:0 "先祖 一式光子炮"
- bwm_ANCIENT_PD:0 "先祖 自律式飞行防御系统"
+ bwm_ANCIENT_MEDIUM_WEAPON:0 "古代光子炮-二型"
+ bwm_ANCIENT_SMALL_WEAPON:0 "古代光子炮-一型"
+ bwm_ANCIENT_PD:0 "古代点防御系统"
  
- bwm_ANCIENT_DRONE_HANGAR:0 "先祖 无人机格纳库"
+ bwm_ANCIENT_DRONE_HANGAR:0 "古代无人机库"
  
- bwm_ANCIENT_WEAPON_AURA:0 "先祖 能量阻断力场"
+ bwm_ANCIENT_WEAPON_AURA:0 "古代抑制力场"
  
- bwm_ANCIENT_NOVA_AURA:0 "先祖 重力扭曲发射器一型"
- bwm_ANCIENT_NOVA_CHARGED_AURA:0 "先祖 重力扭曲发射器二型"
- bwm_ANCIENT_NOVA_MAX_AURA:0 "先祖 重力扭曲发射器三型"
+ bwm_ANCIENT_NOVA_AURA:0 "古代重力投射器-一型"
+ bwm_ANCIENT_NOVA_CHARGED_AURA:0 "古代重力投射器-二型"
+ bwm_ANCIENT_NOVA_MAX_AURA:0 "古代重力投射器-三型"
 
- bwm_ancient_combat_drone:0 "控制无人机"
- bwm_ancient_combat_drone_plural:0 "控制无人机"
- bwm_ancient_combat_drone_key:0 "无人机控制 核心"
+ bwm_ancient_combat_drone:0 "作战无人机"
+ bwm_ancient_combat_drone_plural:0 "作战无人机群"
+ bwm_ancient_combat_drone_key:0 "作战无人机核心"
  
- bwm_ancient_control_drone:0 "控制无人机"
- bwm_ancient_control_drone_plural:0 "控制无人机"
- bwm_ancient_control_drone_key:0 "控制无人机 核心"
+ bwm_ancient_control_drone:0 "作战无人机"
+ bwm_ancient_control_drone_plural:0 "作战无人机"
+ bwm_ancient_control_drone_key:0 "作战无人机核心"
  
  bwm_ancient_escort:0 "护卫舰"
  bwm_ancient_escort_plural:0 "护卫舰"
- bwm_ancient_escort_key:0 "护卫舰 核心"
+ bwm_ancient_escort_key:0 "护卫舰核心"
  
  bwm_ancient_cruiser:0 "打击巡洋舰"
  bwm_ancient_cruiser_plural:0 "打击巡洋舰"
- bwm_ancient_cruiser_key:0 "打击巡洋舰 核心"
+ bwm_ancient_cruiser_key:0 "打击巡洋舰核心"
  
  bwm_ancient_nova:0 "奇点"
  bwm_ancient_nova_plural:0 "奇点"
- bwm_ancient_nova_key:0 "奇点 核心"
+ bwm_ancient_nova_key:0 "奇点核心"
  
- bwm_ancient_nova_charged:0 "天堂之矛"
- bwm_ancient_nova_charged_plural:0 "天堂之矛"
- bwm_ancient_nova_charged_key:0 "天堂之矛 核心"
+ bwm_ancient_nova_charged:0 "奇点"
+ bwm_ancient_nova_charged_plural:0 "奇点"
+ bwm_ancient_nova_charged_key:0 "奇点核心"
  
- bwm_ancient_weapon:0 "城堡"
- bwm_ancient_weapon_plural:0 "城堡"
- bwm_ancient_weapon_key:0 "城堡 核心"
+ bwm_ancient_weapon:0 "天堂之矛"
+ bwm_ancient_weapon_plural:0 "天堂之矛"
+ bwm_ancient_weapon_key:0 "天堂之矛核心"
  
- bwm_ancient_large_military_station:0 "续电器"
- bwm_ancient_large_military_station_plural:0 "续电器"
- bwm_ancient_large_military_station_key:0 "续电器 核心"
+ bwm_ancient_large_military_station:0 "城堡"
+ bwm_ancient_large_military_station_plural:0 "城堡"
+ bwm_ancient_large_military_station_key:0 "城堡核心"
  
  bwm_ancient_small_military_station:0 "续电器"
  bwm_ancient_small_military_station_plural:0 "续电器"
- bwm_ancient_small_military_station_key:0 "续电器 核心"
+ bwm_ancient_small_military_station_key:0 "续电器核心"
  
  bwm_ancient_weapon_planet_debuff:0 "超新星爆发干扰"
- bwm_ancient_weapon_planet_debuff_desc:0 "由Gungnir的强大武器系统所引起的副作用。"
+ bwm_ancient_weapon_planet_debuff_desc:0 "因为冈格尼尔的强大的武器系统所引起的副作用。"
  
  bwm_ancient_fleet_headquarter:0 "舰队司令部"
  bwm_ancient_fleet_headquarter_DESC:0 "一个巨大的枢纽，能优化舰队的运作同时减少官僚主义的影响，能显著提高舰队的作战实力。"
  bwm_ancient_fleet_headquarter_MEGASTRUCTURE_DETAILS:0 ""
 
- tech_bwm_ancient_weapon:0 "船舶原理图 - 仙境"
- tech_bwm_ancient_weapon_desc:0 "先祖在黎明战争中所使用一种武器的详细图表。"
+ tech_bwm_ancient_weapon:0 "舰船蓝图-诸神黄昏"
+ tech_bwm_ancient_weapon_desc:0 "一种曾在黎明战争中使用过的古代武器的详细蓝图。"
  
- requires_no_existing_ancient_weapon:0 "$不能建造多个仙境，天堂之矛 - 永恒之枪。"
+ requires_no_existing_ancient_weapon:0 "$TRIGGER_FAIL$不能建造一个以上的$bwm_ancient_weapon_project_25$。"
  
  bwm_ancient.6:0 "紧急维修协议"
- bwm_ancient.6.desc:0 "-辅助反应堆能量输出关键-"
- bwm_ancient.6.a:0 "纳米材料生产效率达到200%。"
+ bwm_ancient.6.desc:0 "-辅助反应堆输出临界-"
+ bwm_ancient.6.a:0 "纳米材料产量达到200%。"
 
  #Ragnarok Construction Platform
  
- bwm_ancient_weapon_project_00:0 "先祖武器站点"
- bwm_ancient_weapon_project_00_DESC:0 "该建造基地是设计先祖武器的地方 '$bwm_ancient_weapon_project_25$'."
- bwm_ancient_weapon_project_00_MEGASTRUCTURE_DETAILS:0 "传奇武器图表 §Y$bwm_ancient_weapon_project_25$§!."
+ bwm_ancient_weapon_project_00:0 "古代武器基址"
+ bwm_ancient_weapon_project_00_DESC:0 "这个建造工地是建造“$bwm_ancient_weapon_project_25$”的基地。"
+ bwm_ancient_weapon_project_00_MEGASTRUCTURE_DETAILS:0 "传奇武器§Y$bwm_ancient_weapon_project_25$§!的蓝图。"
  
  #Ragnarok Core
  
- bwm_ancient_weapon_project_01:0 "部分先祖武器"
- bwm_ancient_weapon_project_01_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y1/25§! 完成"
+ bwm_ancient_weapon_project_01:0 "古代武器部分完成"
+ bwm_ancient_weapon_project_01_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y1/25§!"
  
  #Ragnarok Structure
  
- bwm_ancient_weapon_project_02:0 "部分先祖武器"
- bwm_ancient_weapon_project_02_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y2/25§! 完成"
+ bwm_ancient_weapon_project_02:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_02_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y2/25§!"
  
- bwm_ancient_weapon_project_03:0 "部分先祖武器"
- bwm_ancient_weapon_project_03_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y3/25§! 完成"
+ bwm_ancient_weapon_project_03:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_03_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y3/25§!"
  
- bwm_ancient_weapon_project_04:0 "部分先祖武器"
- bwm_ancient_weapon_project_04_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y4/25§! 完成"
+ bwm_ancient_weapon_project_04:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_04_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y4/25§!"
  
- bwm_ancient_weapon_project_05:0 "部分先祖武器"
- bwm_ancient_weapon_project_05_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y5/25§! 完成"
+ bwm_ancient_weapon_project_05:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_05_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y5/25§!"
  
- bwm_ancient_weapon_project_06:0 "部分先祖武器"
- bwm_ancient_weapon_project_06_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y6/25§! 完成"
+ bwm_ancient_weapon_project_06:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_06_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y6/25§!"
  
- bwm_ancient_weapon_project_07:0 "部分先祖武器"
- bwm_ancient_weapon_project_07_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y7/25§! 完成"
+ bwm_ancient_weapon_project_07:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_07_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y7/25§!"
  
  #Ragnarok Mount
  
- bwm_ancient_weapon_project_08:0 "部分先祖武器"
- bwm_ancient_weapon_project_08_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y8/25§! 完成"
+ bwm_ancient_weapon_project_08:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_08_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y8/25§!"
  
- bwm_ancient_weapon_project_09:0 "部分先祖武器"
- bwm_ancient_weapon_project_09_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y9/25§! 完成"
+ bwm_ancient_weapon_project_09:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_09_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y9/25§!"
  
- bwm_ancient_weapon_project_10:0 "部分先祖武器"
- bwm_ancient_weapon_project_10_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y10/25§! 完成"
+ bwm_ancient_weapon_project_10:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_10_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y10/25§!"
  
- bwm_ancient_weapon_project_11:0 "部分先祖武器"
- bwm_ancient_weapon_project_11_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y11/25§! 完成"
+ bwm_ancient_weapon_project_11:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_11_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y11/25§!"
  
- bwm_ancient_weapon_project_12:0 "部分先祖武器"
- bwm_ancient_weapon_project_12_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y12/25§! 完成"
+ bwm_ancient_weapon_project_12:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_12_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y12/25§!"
  
- bwm_ancient_weapon_project_13:0 "部分先祖武器"
- bwm_ancient_weapon_project_13_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y13/25§! 完成"
+ bwm_ancient_weapon_project_13:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_13_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y13/25§!"
  
  #Ragnarok S Funnel
  
- bwm_ancient_weapon_project_14:0 "部分先祖武器"
- bwm_ancient_weapon_project_14_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y14/25§! 完成"
+ bwm_ancient_weapon_project_14:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_14_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y14/25§!"
  
- bwm_ancient_weapon_project_15:0 "部分先祖武器"
- bwm_ancient_weapon_project_15_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y15/25§! 完成"
+ bwm_ancient_weapon_project_15:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_15_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y15/25§!"
  
- bwm_ancient_weapon_project_16:0 "部分先祖武器"
- bwm_ancient_weapon_project_16_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y16/25§! 完成"
+ bwm_ancient_weapon_project_16:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_16_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y16/25§!"
  
  #Ragnarok L Funnel
  
- bwm_ancient_weapon_project_17:0 "部分先祖武器"
- bwm_ancient_weapon_project_17_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y17/25§! 完成"
+ bwm_ancient_weapon_project_17:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_17_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y17/25§!"
  
- bwm_ancient_weapon_project_18:0 "部分先祖武器"
- bwm_ancient_weapon_project_18_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y18/25§! 完成"
+ bwm_ancient_weapon_project_18:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_18_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y18/25§!"
  
- bwm_ancient_weapon_project_19:0 "部分先祖武器"
- bwm_ancient_weapon_project_19_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y19/25§! 完成"
+ bwm_ancient_weapon_project_19:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_19_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y19/25§!"
  
  #Ragnarok Reactor
  
- bwm_ancient_weapon_project_20:0 "部分先祖武器"
- bwm_ancient_weapon_project_20_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y20/25§! 完成"
+ bwm_ancient_weapon_project_20:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_20_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y20/25§!"
  
- bwm_ancient_weapon_project_21:0 "部分先祖武器"
- bwm_ancient_weapon_project_21_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y21/25§! 完成"
+ bwm_ancient_weapon_project_21:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_21_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y21/25§!"
  
- bwm_ancient_weapon_project_22:0 "部分先祖武器"
- bwm_ancient_weapon_project_22_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y22/25§! 完成"
+ bwm_ancient_weapon_project_22:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_22_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y22/25§!"
  
- bwm_ancient_weapon_project_23:0 "部分先祖武器"
- bwm_ancient_weapon_project_23_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y23/25§! 完成"
+ bwm_ancient_weapon_project_23:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_23_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y23/25§!"
  
- bwm_ancient_weapon_project_24:0 "部分先祖武器"
- bwm_ancient_weapon_project_24_DESC:0 "$bwm_ancient_weapon_project_25$ - §Y24/25§! 完成"
+ bwm_ancient_weapon_project_24:0 "$bwm_ancient_weapon_project_01$"
+ bwm_ancient_weapon_project_24_DESC:0 "$bwm_ancient_weapon_project_25$已完成§Y24/25§!"
  
- bwm_ancient_weapon_project_25:0 "仙境，天堂之矛 - 永恒之枪"
- bwm_ancient_weapon_project_25_DESC:0 "§Y25/25§! 完成\n\nA 一个威力强大的先祖武器，可以终结黎明战争。"
+ bwm_ancient_weapon_project_25:0 "诸神黄昏 天堂之矛-冈格尼尔"
+ bwm_ancient_weapon_project_25_DESC:0 "§Y25/25§!\n\n一个威力强大的古老武器，可以终结黎明战争。"

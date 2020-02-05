@@ -114,7 +114,7 @@ l_simp_chinese:
  mem_lost_emperor.20.accept.tooltip2:0 "这个安排将给我们的文明带来相当大的好处。然而，最终还是会付出代价。"
  mem_lost_emperor.20.accept.tooltip3:0 "[root.GetName]采用了帝制政治制度。"
  mem_lost_emperor.20.accept.response:0 "很好。你做出了明智的选择。"
- mem_lost_emperor.20.suggest:0 "你可以接受一个[root.GetRulerTitle]的职位吗？"
+ mem_lost_emperor.20.suggest:0 "你可以接受一个[root.GetRulerTitle]的岗位吗？"
  mem_lost_emperor.20.suggest.response:0 "这是个笑话吗？我是你合法的皇帝，不是什么讨厌的星区总督。"
  mem_lost_emperor.20.imprison:0 "好吧，你得跟我们一起走，你的知识会很有用。"
  mem_lost_emperor.20.imprison.tooltip:0 "尝试将神皇尼奥查达努斯带到[root.capital_scope.GetName]的高度警戒监狱。尼奥查达努斯可能在中途，尤其是长途旅行时，逃跑，这将导致不可预测的潜在的可怕后果。\n\n 注意：你必须操控§Y[mem_azran_vanquisher_fleet.GetName]§!尽可能快地赶到§Y[root.capital_scope.GetName]§!或承担有负面后果的风险。每次舰队新进入一个星系时尼奥查达努斯有5%几率逃脱。\n\n成功带回将给予国家修饰，$mem_lost_emperor_fount_of_knowledge_modifier$, 给予 §G+10%§! $MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$。"
@@ -246,7 +246,7 @@ l_simp_chinese:
  mem_lost_emperor.999.option:0 "骇人听闻"
  mem_lost_emperor.999.tooltip.1planet:0 "[mem_disappeared_planet.GetName]从游戏中移除。"
  #This will produce error entries if you have fewer than 10 planets disappearing. This doesn't matter as it is still the best way to do this.
- mem_lost_emperor.999.tooltip.else:0 "[root.mem_lost_emperor_planets_count_2] planets are removed from the game. They are:\n[mem_disappeared_planet_1.GetName]\n[mem_disappeared_planet_2.GetName]\n[mem_disappeared_planet_3.GetName]\n[mem_disappeared_planet_4.GetName]\n[mem_disappeared_planet_5.GetName]\n[mem_disappeared_planet_6.GetName]\n[mem_disappeared_planet_7.GetName]\n[mem_disappeared_planet_8.GetName]\n[mem_disappeared_planet_9.GetName]\n[mem_disappeared_planet_10.GetName]"
+ mem_lost_emperor.999.tooltip.else:0 "[root.mem_lost_emperor_planets_count_2]行星将从游戏中移除。他们是:\n[mem_disappeared_planet_1.GetName]\n[mem_disappeared_planet_2.GetName]\n[mem_disappeared_planet_3.GetName]\n[mem_disappeared_planet_4.GetName]\n[mem_disappeared_planet_5.GetName]\n[mem_disappeared_planet_6.GetName]\n[mem_disappeared_planet_7.GetName]\n[mem_disappeared_planet_8.GetName]\n[mem_disappeared_planet_9.GetName]\n[mem_disappeared_planet_10.GetName]"
 
 
 

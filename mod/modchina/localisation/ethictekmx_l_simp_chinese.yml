@@ -38,7 +38,7 @@
  building_surveillance_center:0 "监控中心"
  building_surveillance_center_desc:1 "监测周围的空间、信号、通讯、交通、移民、游客……"
  building_warrior_house:0 "战士之家"
- building_warrior_house_desc:1 "一群忠诚的战士，专业的士兵和舰队的船员，为这一事业提供军队和船只。\n\n§Y每5所战士之家将增加我们+ 15海军容量，最多20所战士之家提供+60的加成。超过20所战士之家将不会额外加成。\n在一个星球上，不可能建造超过2座战士之家。§!"
+ building_warrior_house_desc:1 "一群忠诚的战士，专业的士兵和舰队的船员，为这一事业提供军队和飞船。\n\n§Y每5所战士之家将增加我们+ 15海军容量，最多20所战士之家提供+60的加成。超过20所战士之家将不会额外加成。\n在一个星球上，不可能建造超过2座战士之家。§!"
  building_war_monastery:0 "战争修道院"
  building_war_monastery_desc:1 "在这个神圣的地方，对那些训练有素的人来说，生活就是战争。当不为战争或战争训练时，战士们会在战场上传播真正的战争之战，并把那些最有潜力的人带到他们的队伍中。\n\n§R需要星球上有战士之家和军事基地。§!"
  building_arena_complex:0 "竞技场馆"

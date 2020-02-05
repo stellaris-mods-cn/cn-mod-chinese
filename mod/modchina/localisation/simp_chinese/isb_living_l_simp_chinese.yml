@@ -8,10 +8,10 @@ density_normal_desc:0 "\nISBS生活系统的默认设置。在性能和视觉效
 density_low:0 "低密度"
 density_low_desc:0 "\n民用飞船减少到正常密度的1/3。当在游戏晚期中，或在非常大的星系中玩耍时很有用。 ( > 1000 星).\n"
 density_off:0 "关闭"
-density_off_desc:0 "\n关闭ISBS生活系统。选择这个选项，让游戏运行大约一年，完全移除民用船只。可以在卸载mod之前使用，确保游戏存档可以继续而没有问题。\n"
+density_off_desc:0 "\n关闭ISBS生活系统。选择这个选项，让游戏运行大约一年，完全移除民用飞船。可以在卸载mod之前使用，确保游戏存档可以继续而没有问题。\n"
 
 policy_isb_living_ads_policy:0 "内部星系广告牌"
-policy_isb_living_ads_policy_desc:0 "\n控制广告牌船只的生成"
+policy_isb_living_ads_policy_desc:0 "\n控制广告牌飞船的生成"
 ads_enable:0 "启用广告牌 §Y(默认)§!"
 ads_enable_desc:0 "\n使在有足够人口的星系中生成广告牌。"
 ads_disable:0 "禁用广告牌"
@@ -36,7 +36,7 @@ ai_spawn_enable_desc:0 "\n民用舰队将在银河系的所有星系中生成。
 policy_isb_living_ai_density_policy:0 "AI - 民用舰队密度"
 policy_isb_living_ai_density_policy_desc:0 "\n控制AI帝国产生的民用飞船数量。\n"
 ai_density_low:0 "AI - 低密度 §Y(默认)§!"
-ai_density_low_desc:0 "\n民用船只减少到正常密度的1/3。"
+ai_density_low_desc:0 "\n民用飞船减少到正常密度的1/3。"
 ai_density_normal:0 "AI - 标准密度"
 ai_density_normal_desc:0 "\nAI帝国的民用舰队和玩家帝国的生成密度是一样的。"
 

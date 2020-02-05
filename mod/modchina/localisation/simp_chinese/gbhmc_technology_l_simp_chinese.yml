@@ -1,0 +1,29 @@
+﻿l_simp_chinese:
+
+
+ bioform_tech_mining_1:0 "腐蚀性水力压解法"
+ bioform_tech_mining_1_desc:0 "$tech_mining_1_desc$"
+ 
+ bioform_tech_mining_2:0 "生物钻孔"
+ bioform_tech_mining_2_desc:0 "$tech_mining_2_desc$"
+ 
+ bioform_tech_mining_3:0 "矿物传感"
+ bioform_tech_mining_3_desc:0 "$tech_mining_3_desc$"
+ 
+ bioform_tech_mining_4:0 "深层矿物传感"
+ bioform_tech_mining_4_desc:0 "$tech_mining_3_desc$"
+ 
+ bioform_tech_power_plant_1:0 "细胞电容库"
+ bioform_tech_power_plant_1_desc:0 "$tech_power_plant_1_desc$"
+ 
+ bioform_tech_power_plant_2:0 "生物化学电容器"
+ bioform_tech_power_plant_2_desc:0 "$tech_power_plant_2_desc$"
+ 
+ bioform_tech_power_plant_3:0 "量子能量液体"
+ bioform_tech_power_plant_3_desc:0 "$tech_power_plant_3_desc$"
+ 
+ bioform_tech_power_plant_4:0 "能量液控制"
+ bioform_tech_power_plant_4_desc:0 "$tech_power_plant_4_desc$"
+ 
+ bioform_tech_power_plant_tt:0 "£job_gbhmc_geothermal_drone£ 地热子人口 £energy£ 能源产量: §G+2§!"
+ bioform_tech_mining_tt:0 "£job_gbhmc_geothermal_drone£ 地热子人口 £minerals£ 矿物产量: §G+1§!"

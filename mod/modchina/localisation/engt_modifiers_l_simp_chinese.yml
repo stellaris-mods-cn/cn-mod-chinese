@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+
+ ######################
+ # Static modifiers
+ ######################
+ 
+ developed_world:0 "发达世界"
+ developed_world_desc:0 "这个世界是由曾经生活在这里的人开发和准备的，还是为他们身后的人准备的……"
+ awaiting_world:0 "等待的世界"
+ awaiting_world_desc:0 "这个世界早已期待着我们到达星星的那一天，并为我们将会发生的事情做好了准备。"
+ 
+ lesser_loop_incarnation:0 ""
+ lesser_loop_incarnation_desc:0 ""
+ loop_incarnation:0 ""
+ loop_incarnation_desc:0 ""
+ true_loop_incarnation:0 ""
+ true_loop_incarnation_desc:0 ""
+ 

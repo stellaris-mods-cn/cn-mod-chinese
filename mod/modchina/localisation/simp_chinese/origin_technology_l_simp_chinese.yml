@@ -254,7 +254,7 @@ origin_tech_stellarite_cannon: "星辰矛炮"
 origin_tech_stellarite_cannon_desc: "尽管比$TITAN_LASER$弱，但这些能量喷枪仍是有史以来最致命的炮塔式能量武器之一。"
 
 origin_tech_supercharger: "神秘扭曲力场"
-origin_tech_supercharger_desc: "这个极其强大的扭曲力场摧毁了敌方舰船的力量，并将辅助盟军船只。他们的力量是我们来指挥和征服的。"
+origin_tech_supercharger_desc: "这个极其强大的扭曲力场摧毁了敌方舰船的力量，并将辅助盟军飞船。他们的力量是我们来指挥和征服的。"
 
 origin_tech_thruster: "光物质推进器"
 origin_tech_thruster_desc: "古老但极其强大的舰船推进器远远超过其他设计。"
@@ -348,7 +348,7 @@ civic_solar_empire: "永恒帝国"
 civic_solar_empire_desc: "始源帝国，可以说是史上最强大的帝国之一，他们的公民永远都有野心，数千年的流放对他们的信仰没有丝毫动摇。"
 
 civic_eternal_fleet: "永恒舰队"
-civic_eternal_fleet_desc: "始源帝国舰队非常先进，即使在长期流亡后也不需要维修。他们的海军上将和船员能够指挥他们的船只，就像他们身体的一部分一样。"
+civic_eternal_fleet_desc: "始源帝国舰队非常先进，即使在长期流亡后也不需要维修。他们的海军上将和船员能够指挥他们的飞船，就像他们身体的一部分一样。"
 
 civic_know_everything: "永恒复仇"
 civic_know_everything_desc: "作为所有技术和文明的先驱，始源帝国集中了他们所有的努力来研究篡位者的技术的所有内部运作。除非那些利用暗物质的人受到适当的惩罚，否则他们不会停止。"

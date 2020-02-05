@@ -1,0 +1,47 @@
+﻿l_simp_chinese:
+ tech_synthesis_arrays:0 "宏观合成技术"
+ tech_synthesis_arrays_desc:0 "我们在材料合成方面的进展正在引导我们开发能够在工业规模上生产战略资源的设备。"
+ 
+ tech_rare_crystals_2:0 "成核催化剂"
+ tech_rare_crystals_2_desc:0 "通过将奇异$exotic_gases$释放到矿物成核模具中，我们可以更有效地合成稀有晶体。" 
+ 
+ tech_rare_crystals_3:0 "多晶体材料"
+ tech_rare_crystals_3_desc:0 "通过使用奇异$exotic_gases$和易爆微粒的化学混合物来刺激基本矿物的快速结晶，我们可以创造出具有非凡纯度的人造晶体结构。" 
+ 
+ tech_exotic_gases_2:0 "等离子体复合"
+ tech_exotic_gases_2_desc:0 "通过引导带有高能粒子的过热矿物等离子体通过化学复合器，我们可以创造出具有特殊性质的气体物质。" 
+ 
+ tech_exotic_gases_3:0 "矿物升华"
+ tech_exotic_gases_3_desc:0 "使用挥发性微粒以微量稀有晶体过热普通矿物，以此形成具有多种不同用途的气态化合物。"
+ 
+ tech_volatile_motes_2:0 "极端热力学"
+ tech_volatile_motes_2_desc:0 "通过液晶放大镜聚焦灼热的脉冲，我们的科学家可以将其他不起眼的矿物转化为具有巨大能量的粒子。" 
+ 
+ tech_volatile_motes_3:0 "相位能量转移"
+ tech_volatile_motes_3_desc:0 "通过释放奇异$exotic_gases$并通过晶相发射器将其引入漏斗中，我们的科学家可以将普通矿物转变成具有高能量含量的异常粒子。" 
+
+ building_synthesis:0 "战略资源部"
+ building_synthesis_desc:0 "战略资源部不遗余力地组织和简化整个星球的战略资源生产。\n"  
+ building_synthesis_machine_intelligence:0 "精炼协调中心"
+ building_synthesis_desc_machine_intelligence:0 "建立一个庞大的设施，集中和协调整个星球战略资源的生产。\n\n"
+ building_synthesis_hive_mind:0 "精炼协调中心"
+ building_synthesis_desc_hive_mind:0 "建立一个庞大的设施，集中和协调整个星球战略资源的生产。\n"
+
+ building_motes2:0 "易爆微粒精炼厂"
+ building_motes2_desc:0 "由专门的化学家大量制造易爆微粒的精炼厂。"
+ 
+ building_motes3:0 "量子复合物"
+ building_motes3_desc:0 "扭曲物理定律，这些专家们能稳定高能粒子流产出物质。"
+
+ building_gas2:0 "$exotic_gases$处理设施"
+ building_gas2_desc:0 "由熟练的天然气精炼工人通过矿物升华产生大量合成气的设施。"
+
+ building_gas3:0 "$exotic_gases$精炼厂"
+ building_gas3_desc:0 "由专家操作的$exotic_gases$尖端精炼设备。"
+
+ building_crystal2:0 "结晶中心"
+ building_crystal2_desc:0 "大量高质量的合成晶体是用专门的机器制造的。"
+
+ building_crystal3:0 "纳米复合结晶"
+ building_crystal3_desc:0 "通过高超的技术生产出了合成晶体，其中最纯净的合成晶体是由专家们使用纳米矿和大量的原矿物大规模生产的。"
+ 

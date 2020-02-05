@@ -1,0 +1,39 @@
+﻿l_simp_chinese:
+ civic_hive_thriving_prey:0 "繁荣的猎物"
+ civic_hive_thriving_prey_desc:0 "你说你没有选择，就是在逃避责任。尽管这个蜂巢位于它们的母星食物链的最底层，但它们通过挖洞和建造洞穴系统、躲避争斗和只承担可计算的风险来兴旺发达."
+ civic_tooltip_thriving_effects:0 "母星是§Y空心星球§!\n战斗脱离机会§G+25%§!\n逃避机会 §G+5§!\n前哨站成本 §R+50%§!"
+ mod_job_larva_queen_add:0 "育女王"
+ job_larva_queen_effect_desc:0 "育女王会增加§H人口增长§!，但会破坏星球的稳定。"
+ mod_district_nursery_max:0 "最大地下资源网络"
+ 
+ 
+ 
+ d_magma_lake:0 "岩浆湖"
+ d_magma_lake_desc:0 "岩浆房含有大量岩浆。"
+ d_windy_tunnels:0 "风道"
+ d_windy_tunnels_desc:0 "这些隧道承受着持续不断的高速疾风。"
+ d_mineral_rich_chamber:0 "矿产丰富的洞穴"
+ d_mineral_rich_chamber_desc:0 "充满稀有矿物的地下洞穴。"
+ d_underground_oasis:0 "地下绿洲"
+ d_underground_oasis_desc:0 "一个可以满足任何有机需求的天堂般的洞穴。"
+ d_magma_whirlpool:0 "岩浆涡"
+ d_magma_whirlpool_desc:0 "岩浆河中由两股相互冲突的水流引起的快速旋转的物质。"
+ d_magma_waterfalls:0 "岩浆瀑布"
+ d_magma_waterfalls_desc:0 "岩浆瀑布在洞穴系统内从高处倾泻而下。"
+ d_extra_humid_caverns:0 "潮湿的洞穴"
+ d_extra_humid_caverns_desc:0 "水和岩浆河流的交汇使这个洞穴一直保持湿润。"
+ d_liquid_core:0 "熔火之心"
+ d_liquid_core_desc:0 "这些行星形成的热量使它的液体内核保持流动。"
+  
+ d_abandoned_nest:0 "废弃的巢"
+ d_abandoned_nest_desc:0 "这个地方曾经是蜂巢的所在地。它在遭到攻击后被遗弃了。"
+ d_flooded_nest:0 "被岩浆淹没的巢穴"
+ d_flooded_nest_desc:0 "这里曾经是一个繁荣的巢穴，但在一次重大的矿难后，这里被熔岩淹没了。"
+ d_infested_nest:0 "被遗忘的巢"
+ d_infested_nest_desc:0 "很难说这是一块墓地，还是一个被遗忘的洞穴。只留下疾病和尸体。"
+ 
+ d_abandoned_network:0 "废弃的地下网络"
+ d_abandoned_network_desc:0 "不管他们是被袭击了还是被遗弃了，这些隧道和洞穴都是空的，它的地基正在坍塌。"
+ 
+
+

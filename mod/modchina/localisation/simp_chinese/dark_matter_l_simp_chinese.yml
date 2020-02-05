@@ -1,24 +1,24 @@
 ﻿l_simp_chinese:
 
- tech_dark_matter_generation:0 "暗物质世代"
- tech_dark_matter_generation_desc:0 "科学家似乎能够从理论上解释如何将暗物质转化为可用的能量。我们应该为科学家立即开始研究分配必要的资源。"
+ tech_dark_matter_generation: "暗物质世代"
+ tech_dark_matter_generation_desc: "科学家似乎能够从理论上解释如何将暗物质转化为可用的能量。我们应该为科学家立即开始研究分配必要的资源。"
   
- tech_dark_matter_container:0 "暗物质容器"
- tech_dark_matter_container_desc:0 "看起来这位科学家能够想出一个特别的容器，它的能量足以维持这种强大的暗物质能量。这是一个难得的机会，我们应该毫不拖延地加以研究。"
+ tech_dark_matter_container: "暗物质容器"
+ tech_dark_matter_container_desc: "看起来这位科学家能够想出一个特别的容器，它的能量足以维持这种强大的暗物质能量。这是一个难得的机会，我们应该毫不拖延地加以研究。"
  
- tech_dark_matter_strategy:0 "暗物质应用"
- tech_dark_matter_strategy_desc:0 "这位科学家似乎能够设想，除了一个更好的电池组外，这个新发明的暗能量反应堆还能应用于哪些领域。让我们在科学家忘记之前深入探索。"
+ tech_dark_matter_strategy: "暗物质应用"
+ tech_dark_matter_strategy_desc: "这位科学家似乎能够设想，除了一个更好的电池组外，这个新发明的暗能量反应堆还能应用于哪些领域。让我们在科学家忘记之前深入探索。"
  
- TECH_UNLOCK_DARK_MATTER_GENERATION_TITLE:0 "暗物质发电厂"
- TECH_UNLOCK_DARK_MATTER_GENERATION_DESC:0 "在此基础上进行的实验将使我们能够将暗物质转化为一种可用的能量形式。这将允许我们建造一座专门用来产生暗物质的建筑。"
+ TECH_UNLOCK_DARK_MATTER_GENERATION_TITLE: "暗物质发电厂"
+ TECH_UNLOCK_DARK_MATTER_GENERATION_DESC: "在此基础上进行的实验将使我们能够将暗物质转化为一种可用的能量形式。这将允许我们建造一座专门用来产生暗物质的建筑。"
  
- TECH_UNLOCK_DARK_MATTER_CONTAINER_TITLE:0 "暗物质动力容器"
- TECH_UNLOCK_DARK_MATTER_CONTAINER_DESC:0 "这个容器的发明将使我们能够为星际飞船储存暗物质能量安全。同样的原则也适用于地区和星际基地。"
+ TECH_UNLOCK_DARK_MATTER_CONTAINER_TITLE: "暗物质力量容器"
+ TECH_UNLOCK_DARK_MATTER_CONTAINER_DESC: "这个容器的发明将使我们能够为星际飞船储存暗物质能量安全。同样的原则也适用于地区和星际基地。"
  
- TECH_UNLOCK_DARK_MATTER_STRATEGY_TITLE:0 "暗物质功率应用"
- TECH_UNLOCK_DARK_MATTER_STRATEGY_DESC:0 "将这一概念定格下来，将使我们能够理解暗物质的力量将为我们带来怎样的未来。如果完成，我们应该能够利用暗物质来实现各种各样的好处。"
+ TECH_UNLOCK_DARK_MATTER_STRATEGY_TITLE: "暗物质功率应用"
+ TECH_UNLOCK_DARK_MATTER_STRATEGY_DESC: "将这一概念定格下来，将使我们能够理解暗物质的力量将为我们带来怎样的未来。如果完成，我们应该能够利用暗物质来实现各种各样的好处。"
  
- country_resource_sr_dark_matter_add:0 "添加暗物质战略资源"
+ country_resource_sr_dark_matter_add: "添加暗物质战略资源"
  
  dark_matter_event.1.name: "暗物质...力量？"
  dark_matter_event.1.desc: "一些科学家开始大谈利用暗物质作为某种发电机……这似乎是不可能的，这个理论玷污了我们目前所有的物理知识。但也许这个谣言有一定的道理？我们应该进一步探索。"
@@ -76,6 +76,10 @@
  acot_dm_tech_engineers_desc: "我们需要了解如何维护和控制飞船反应堆堆芯内产生的暗物质，以适应我们飞船的大小。\n\n§Y我们需要在物理领域指定一名6级以上的科学家。科学家必须是有天赋的、策展人、灵能、博学、合成、灵光一闪，或材料学专家。"
  acot_dm_tech_social: "利用暗物质"
  acot_dm_tech_social_desc: "我们拥有我们所需要的一切，剩下的就是决定我们可以用什么样的适应新技术。\n\n§Y我们需要在物理领域指定一名6级以上的科学家。科学家必须是有天赋的、策展人、灵能、博学、合成、灵光一闪，或军事理论专家。"
+acot_dm_tech_find_enigmatic: "反应堆原型"
+acot_dm_tech_find_enigmatic_desc: "虽然我们还不能驾驭暗物质的力量，但我们的科学家们非常有信心，我们可以首先开发出一种神秘能量的原型。虽然这不是一个要求，但它应该为我们的船舶技术提供一个良好的跳板。这个兴趣点将会在黑暗设计活动结束时被移除。"
+
+
 
  dark_matter_event.4.name: "合同履行。"
  dark_matter_event.4.desc.a: "我们的钱得到了回报。策展人教我们的科学家如何在不依赖自然黑洞的情况下产生暗物质。他们还向我们提供了一些基本的指令，告诉我们如何在星际飞船上建造一个合适的围护场来容纳他们。"
@@ -85,23 +89,23 @@
  dark_matter_event.4.b: "事情从来没有那么简单，不是吗?"
  dark_matter_event.4.b.desc: "这些失落帝国可能对我们日益强大的力量稍有警惕，我们可能会成为一个合法的威胁。我们应该做好准备...。"
 
- dark_matter_event.2.a:0 "未来在我们的掌握之中!"
- dark_matter_event.2.a.desc:0 "我们现在必须找到一位精通粒子领域的科学家，等待他提出产生暗物质能量的可靠方法。"
+ dark_matter_event.2.a: "未来在我们的掌握之中!"
+ dark_matter_event.2.a.desc: "我们现在必须找到一位精通粒子领域的科学家，等待他提出产生暗物质力量的可靠方法。"
   
- dark_matter_event.5.name:0 "暗物质发电!"
- dark_matter_event.5.desc:0 "找到了!我们最新的暗物质发电实验持续了一个多星期，没有任何减弱的迹象!然而，我们仍然需要找到一种新型的能量容器，它既坚固又紧凑，足以容纳暗物质的能量安全，因为前几次实验相当……至少可以说是爆炸性的。"
- dark_matter_event.5.a:0 "容器，明白了。"
- dark_matter_event.5.a.desc:0 "我们现在必须寻找一位精通材料领域的科学家。有了财富，科学家将能够开发出一种合适的能量容器，可以安全处理和容纳新开发的暗物质能量。"
+ dark_matter_event.5.name: "暗物质力量发电!"
+ dark_matter_event.5.desc: "找到了!我们最新的暗物质发电实验持续了一个多星期，没有任何减弱的迹象!然而，我们仍然需要找到一种新型的能量容器，它既坚固又紧凑，足以容纳暗物质的能量安全，因为前几次实验相当……至少可以说是爆炸性的。"
+ dark_matter_event.5.a: "容器，明白了。"
+ dark_matter_event.5.a.desc: "我们现在必须寻找一位精通材料领域的科学家。有了财富，科学家将能够开发出一种合适的能量容器，可以安全处理和容纳新开发的暗物质能量。"
  
- dark_matter_event.6.name:0 "暗物质能量容器!"
- dark_matter_event.6.desc:0 "好消息!我们现在有了一个合适的安全壳装置，它可以为暗物质提供能量。现在剩下的就是探索我们能在多大程度上利用这种能力，以及这种新能力能应用于什么类型的应用。"
- dark_matter_event.6.a:0 "接受挑战!"
- dark_matter_event.6.a.desc:0 "我们现在必须找到一位精通军事理论艺术的科学家。只有这样的个人才能适当地充分理解这种新的力量可以用于什么范围。"
+ dark_matter_event.6.name: "暗物质力量容器!"
+ dark_matter_event.6.desc: "好消息!我们现在有了一个合适的安全壳装置，它可以为暗物质提供能量。现在剩下的就是探索我们能在多大程度上利用这种能力，以及这种新能力能应用于什么类型的应用。"
+ dark_matter_event.6.a: "接受挑战!"
+ dark_matter_event.6.a.desc: "我们现在必须找到一位精通军事理论艺术的科学家。只有这样的个人才能适当地充分理解这种新的力量可以用于什么范围。"
  
- dark_matter_event.7.name:0 "暗物质动力应用!"
- dark_matter_event.7.desc:0 "终于!科学团队现在很有信心，不仅可以利用新的暗物质能量作为一个非常强大的反应堆，而且可以作为能量偏转器和推进器!!惊人的! !"
- dark_matter_event.7.a:0 "我们帝国的新篇章即将开始!"
- dark_matter_event.7.a.desc:0 "我们已经拥有了我们所需要的一切，现在应该是一个简单的事情，把所有的东西拼凑在一起，开发出第一个大规模生产的暗物质反应堆!"
+ dark_matter_event.7.name: "暗物质力量应用!"
+ dark_matter_event.7.desc: "终于!科学团队现在很有信心，不仅可以利用新的暗物质能量作为一个非常强大的反应堆，而且可以作为能量偏转器和推进器!!惊人的! !"
+ dark_matter_event.7.a: "我们帝国的新篇章即将开始!"
+ dark_matter_event.7.a.desc: "我们已经拥有了我们所需要的一切，现在应该是一个简单的事情，把所有的东西拼凑在一起，开发出第一个大规模生产的暗物质反应堆!"
  
  dark_matter_event.8.name: "暗物质反应堆!"
  dark_matter_event.8.desc: "一个新时代来临了!有了我们新的暗物质反应堆，我们已经实现了只有少数有价值的文明才能做到的事情。对暗物质的掌握。我们帝国的未来似乎比以往任何时候都更加光明。"

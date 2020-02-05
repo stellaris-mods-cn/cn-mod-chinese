@@ -57,7 +57,7 @@
  TITAN_NO_WEAPON:0 "无组件"
 
  TITAN_PROJECTED_DEFENSES:0 "防御预测"
- TITAN_PROJECTED_DEFENSES_DESC:0 "先进的护盾操纵技术允许泰坦将超级护盾安置在正确的地方,防护范围内所有船只。"
+ TITAN_PROJECTED_DEFENSES_DESC:0 "先进的护盾操纵技术允许泰坦将超级护盾安置在正确的地方,防护范围内所有飞船。"
  aura_projected_defenses:0 "$aura_category_defensive$ - $aura_type_support$"
 
  TITAN_INERTIA_DAMPENERS:0 "惯性缓冲器"
@@ -72,7 +72,7 @@
  aura_networked_target:0 "$aura_category_defensive$ - $aura_type_support$"
 
  TITAN_VIRUS:0 "AI入侵"
- TITAN_VIRUS_DESC:0 "泰坦的AI攻击敌人船只的计算机系统,降低对方的准确度和速度。"
+ TITAN_VIRUS_DESC:0 "泰坦的AI攻击敌人飞船的计算机系统,降低对方的准确度和速度。"
  aura_titan_virus:0 "$aura_category_offensive$ - $aura_type_debuff$"
 
  TITAN_CORE_01:0 "复仇核心"
@@ -224,7 +224,7 @@
  TECH_UNLOCK_AVATAR_CHAIN_TITLE:0 "§E化身研究链§!"
  TECH_UNLOCK_AVATAR_CHAIN_DESC:0 "研究解锁所有有关化身工程的技术。"
 
- TECH_UNLOCK_AVATAR_CONSTRUCTION_TITLE:0 "§H解锁船只类型:§! 化身的建设"
+ TECH_UNLOCK_AVATAR_CONSTRUCTION_TITLE:0 "§H解锁飞船类型:§! 化身的建设"
  TECH_UNLOCK_AVATAR_CONSTRUCTION_DESC:0 "化身工程是帝国最大的建设项目，也是帝国中最具有破坏性的大型武器平台。利用人造黑洞来获得能量，并且还可将获得能量重新聚集再释放出去，其威力可瞬间摧毁整个星球。强大的化身使得弱国害怕并臣服于我们。同时它也是强大的帝国的象征。§!\n\n§E允许你建设化身平台。\n\n警告: 那些害怕我们的人是不会允许我们完成这个强大的末日武器的建造的，他们会发动强大的舰队赶在我们完工前摧毁它。§!\n\n§H移动平台到安全地带，并保卫它直到完工为止。"
 
  edict_doomsday_longinus_authorisation:0 "授权朗基努斯之枪"
@@ -264,7 +264,7 @@
  avatar_raid_01.a:0 "战斗准备信号已发布。"
 
  avatar_raid_02.name:0 "发现敌人舰队"
- avatar_raid_02.desc:0 "发现一支无名舰队正向化身的建设地驶去。\n\n该舰队组成主要是轻巡洋舰和驱逐舰、巡洋舰或者其他更大的船只。"
+ avatar_raid_02.desc:0 "发现一支无名舰队正向化身的建设地驶去。\n\n该舰队组成主要是轻巡洋舰和驱逐舰、巡洋舰或者其他更大的飞船。"
  avatar_raid_02.a:0 "还来送死?"
 
  avatar_raid_03.name:0 "发现敌人舰队"
@@ -276,7 +276,7 @@
  avatar_raid_04.a:0 "这是一个陷阱!"
 
  avatar_raid_break.name:0 "舰队活动迹象"
- avatar_raid_break.desc:0 "我们检测到最近被大量不明身份的船只进入我们边境。然而这些不明身份的船只试图避开我们的传感器检测。\n\n看来我们的敌人正在组织进攻力量。虽然他们不会那么快发起进攻，但他们发起时候肯定比现在拥有更庞大的力量。"
+ avatar_raid_break.desc:0 "我们检测到最近被大量不明身份的飞船进入我们边境。然而这些不明身份的飞船试图避开我们的传感器检测。\n\n看来我们的敌人正在组织进攻力量。虽然他们不会那么快发起进攻，但他们发起时候肯定比现在拥有更庞大的力量。"
  avatar_raid_break.a:0 "我们准备就绪。"
 
  avatar_error_01.name:0 "无法启动化身工程"

@@ -1,0 +1,1544 @@
+﻿l_simp_chinese:
+
+ #################################################################################################
+ #################################################################################################
+ ###                                                                                           ###
+ ###   ####  ##### #     #####  ###        #   ####   #### ####       ###  #   # ####  #####   ###
+ ###   #   # #     #       #   #   #      # #  #   # #     #   #     #   # #   # #   # #       ###
+ ###   ####  ###   #       #   #         #   # ####   ###  ####      #     #   # ####  ###     ###
+ ###   #  #  #     #       #   #   #     ##### #         # #  #      #   # #   # #   # #       ###
+ ###   #   # ##### ##### #####  ###      #   # #     ####  #   #      ###   ###  ####  #####   ###
+ ###                                                                                           ###
+ #################################################################################################
+ #################################################################################################
+ 
+ 
+ 
+ 
+ 
+ ### Реликвия
+ 
+ relic_apsr_cube:0 "通信立方体"
+ relic_apsr_cube_desc:0 "根据分析，通信立方体是一种交流工具，甚至具有自动同步语言分析和翻译的功能。\n通过对电磁场的特殊作用，我们可以把它作为与未知生物的连接点。\n不幸的是，会话之间的通信需要为这个遗物充电。"
+ apsr_relic_cube_cooldown:0 "与银河系外未知生物建立通讯通道。\n\n在通信会话之间给遗迹充电的时间: £time£ §Y900§!"
+ apsr_relic_cube_ready_1:0 "\n§R£apsr_knowledge£ §MAncient Knowledges§!积累不够;现在打开沟通渠道还为时过早!§!\n\n"
+ apsr_relic_cube_ready_2:0 "\n§HNot enough £apsr_knowledge£ §MAncient Knowledges§! has been accumulated, but we can open the communication channel.§!\n\n"
+ apsr_relic_cube_ready_3:0 "\n§YEnough £apsr_knowledge£ §MAncient Knowledges§! has been accumulated, and it is time to open a communication channel!§!\n\n"
+ apsr_relic_cube_ready_4:0 "\n§GA large amount of £apsr_knowledge£ §MAncient Knowledges§! has already been accumulated, and it is time to exchange them for improvements!§!\n\n"
+ apsr_relic_cube_ready_5:0 "\n§BA huge amount of £apsr_knowledge£ §MAncient Knowledges§! has already been accumulated. Our scientist wonder why the relic has not yet been activated.§!\n\n"
+  
+ # депозит при нахождении куба
+ apsr_relic_cube_deposit:0 "§Y$relic_apsr_cube$§!"
+ apsr_relic_cube_deposit_desc:0 "在这个星球上有一个§Y$relic_apsr_cube$§! - 一个遗迹，它可以作为一个与我们未知的生物交流的点，通过特殊的影响。\n它还影响着先去上特殊建筑产生的资源数量，显著提高了它们的生产力。"
+ 
+ 
+ 
+ 
+
+ ### 1 ###
+ # BY Dimuch62
+  
+ # появление раскопок
+ apsr_arcrel.100.title:0 "模糊的暗示"
+ apsr_arcrel.100.desc_no_cube:0 "最近，在我们的一个星球上对一种独特资源的利用进行了建筑改进之后，我们发现了一些模糊的线索，表明这个星球上有一些有趣的东西。现在还不可能说任何具体的事情;需要派一位科学家去进行挖掘工作。"
+ apsr_arcrel.100.desc_have_cube:0 "最近，在我们的一个星球上对一种独特资源的利用进行了建筑改进之后，我们发现了一些模糊的线索，表明这个星球上有一些有趣的东西。这与我们发现的线索非常相似，正是这些线索导致了文物的发现。在这个星球上进行挖掘工作是必须的。"
+ apsr_arcrel.100.button:0 "开始"
+ 
+ # раскопки
+ apsr1_archsite:0 "模糊的暗示"
+ apsr1_archsite_desc:0 "在使用这个星球上独一无二的资源的过程中，我们发现了一些线索，表明这里还有别的东西。因为搜寻工作需要组织挖掘。"
+  
+ # Этап 1
+ apsr_arcrel.101.title:0 "开始挖掘"
+ apsr_arcrel.101.desc:0 "我们的科学家开始挖掘时，检查了这个星球上未知物体的线索。这项工作的结果是对其可用性完全有信心。"
+ apsr_arcrel.101.button:0 "开始挖掘"
+  
+ # Этап 2
+ apsr_arcrel.102.title:0 "向下运动"
+ apsr_arcrel.102.desc:0 "给出了目标物体的近似位置。一群科学家和考古学家开始深入这个星球。据报道，当我们移动传感器时，开始接收到来自地面的非常微弱的信号。"
+ apsr_arcrel.102.button:0 "继续"
+  
+ # Этап 3
+ apsr_arcrel.103.title:0 "未知信号"
+ apsr_arcrel.103.desc_no_cube:0 "研究表明，立方体是一种通信设备。我们的科学家相信，在星际力量符号的地图上封锁数据的原因是它们的相互影响。你应该把魔方从符号中移到尽可能远的地方，这样科学家们就能拿起钥匙激活魔方，星际力量的符号就会摆脱干扰。"
+ apsr_arcrel.103.desc_have_cube:0 "经过研究，发现立方体是一个类似的连接立方体，我们已经发现。他们还相信，在星际力量的象征地图上封锁数据的原因是他们的相互影响。你应该把魔方从符号中移到尽可能远的地方，这样科学家们就能拿起钥匙激活魔方，星际力量的符号就会摆脱干扰。"
+ apsr_arcrel.103.button:0 "激活安全协议代码CH-6-2"
+  
+ # Этап 4
+ apsr_arcrel.104.title:0 "地下之城"
+ apsr_arcrel.104.desc_no_cube_and_flag:0 "好消息!\n在把立方体移到星球的另一端后，星际力量的象征不再受到干扰，更多的信息出现在星系地图上!\n此外，还可能发现多维立方体是具有未知目的地的通信设备。由于科学家们已经拿到了一个激活钥匙，立方体已经准备好向未知的太空深处发送信号。"
+ apsr_arcrel.104.button_no_cube_and_flag:0 "太好了!"
+ apsr_arcrel.104.tooltip_no_cube_and_flag:0 "遗珍§Y$relic_apsr_cube$§!收到!\n§R谨慎!这个遗迹在这个星球上，所以这个星球的消失就意味着这个遗迹的消失!§!"
+ apsr_arcrel.104.desc_no_cube_have_flag:0 "好消息!\n在把立方体移到星球的另一端后，星际力量的象征不再受到干扰，更多的信息出现在星系地图上!此外，我们的科学家能够拿起钥匙并激活连接立方体。现在我们可以再次打开与未知文明交流的渠道。"
+ apsr_arcrel.104.button_no_cube_have_flag:0 "我们把魔方送回来了!"
+ apsr_arcrel.104.tooltip_no_cube_have_flag:0 "遗珍§Y$relic_apsr_cube$§!收到!\n§R谨慎!遗珍在行星上，因此行星的损失意味着遗珍的损失!§!"
+ apsr_arcrel.104.desc_have_cube_and_flag:0 "好消息!\n在把立方体移到星球的另一端后，星际力量的象征不再受到干扰，更多的信息出现在星系地图上!\n我们的科学家能够拿起钥匙并激活连接立方体。\n不幸的是，当激活一个立方体时，我们的其余立方体也被激活，需要时间来充电，这虽然提供了更稳定的连接，但不允许更多地使用通信立方体。"
+ apsr_arcrel.104.button_have_cube_and_flag:0 "必须弄明白"
+ apsr_arcrel.104.tooltip_have_cube_and_flag:0 "遗珍§Y$relic_apsr_cube$§!已经准备好了!\n§R注意!遗珍在行星上，因此行星的损失意味着遗珍的损失。另一颗拥有同样遗迹的行星的存在将避免这种情况。§!"
+
+  
+ 
+ 
+
+ ### 2 ###
+ # BY Dimuch62 and Pavel Sergeevich
+  
+ # появление раскопок
+ apsr_arcrel.200.title:0 "深渊"
+ apsr_arcrel.200.desc_d:0 "在§H[event_target:apsr2_planet_target.GetName]§!星球的深渊底部发现的飞船墓地，是引起我们许多科学家激烈争论的原因。有人认为这是古代飞船的埋葬地，有人认为这是古代文明船队的储藏地。它甚至导致了一些科学家的激烈争论。\n阻止这种混乱局面的最好办法是在深渊底部组织挖掘。"
+ apsr_arcrel.200.desc_gm:0 "我们的科学单元分析了在§H[event_target:apsr2_planet_target.GetName]§!星球深渊底部发现的飞船墓地。根据调查结果，具体原因尚未透露。最富有成效的将是组织当地的挖掘工作并深入深渊。"
+ apsr_arcrel.200.button:0 "开始"
+ 
+ # раскопки
+ apsr2_archsite:0 "深渊"
+ apsr2_archsite_desc:0 "在到达深渊较低的可到达点 - 即飞船墓地 - 之后，问题仍然是这到底有多深，以及底部到底有什么?但有一件事是清楚的:为了找到答案，有必要利用飞船之间的空间使其下降得更低。"
+  
+ # Этап 1
+ apsr_arcrel.201.title:0 "边缘"
+ apsr_arcrel.201.desc:0 "一组研究人员开始利用飞船之间的空间，深入到深渊。对这些飞船的检查显示，它们与飞船墓地表面上的飞船完全相似 - 它们都处于良好的状态，但同时它们完全缺乏任何信息，飞船的系统拒绝打开。根据计算机模拟，这是不可能的，因为航天器在没有控制的情况下坠入深渊，会被彻底的破坏，而上升到地面的小型飞船却也能很好地工作。\n也许我们会通过更深入的研究得到答案。"
+ apsr_arcrel.201.button:0 "同意"
+  
+ # Этап 2
+ apsr_arcrel.202.title:0 "发现"
+ apsr_arcrel.202.desc:0 "重大发现,研究小组发现的宇宙飞船的一个未知的种族,它有二十亿年的历史!这艘飞船的设计完全不适合在大气层中飞行，而且不清楚他是如何达到这样的深度的。科学家们一致认为，如果没有一些外部影响，例如地壳运动，这是不可能的。\n另外，其中一组研究人员失踪得无影无踪，也没有取得联系，于是成立了搜索小组来寻找他们。"
+ apsr_arcrel.202.button:0 "继续工作"
+  
+ # Этап 3
+ apsr_arcrel.203.title:0 "寒冷"
+ apsr_arcrel.203.desc:0 "研究小组已经好几个月没有见到自然光了。根据初步计算，如果星球的深化速度能够保持在同样的水平，那么在几个月之内，星球的核心就会到达。与此同时，失踪的研究人员完全找不到，但更糟的是，与另一个研究小组的所有联系都消失了。\n在报告中出现的所有新发现的飞船都属于不同的种族，他们都有不同的年龄和不同的设计。只有三件事把它们联系在一起:下面一定有什么东西，飞船系统的完全寂静，以及在发现它们的地方不可能找到它们，令人毛骨悚然。更令人惊讶的事实是，如果到目前为止，气温和压力虽然比所有预测都要慢，但在不断加深的同时却在增长，那么现在这些数值却莫名其妙地开始下降。"
+ apsr_arcrel.203.button:0 "让我们看看我们在靠近核心的地方发现了什么。"
+  
+ # Этап 4
+ apsr_arcrel.204.title:0 "无底"
+ apsr_arcrel.204.desc_d:0 "今天早上到达了这颗行星的核心。压力和温度一直在下降，而重力则完全没有变化。深度被反复检查了几十次，每次不可能完成的任务都得到了确认。星球的核心已经到达，但扫描仪总是显示，进展可以继续。发现的未知飞船不再令人惊讶，许多发现只是被忽视，这是科研人员已经司空见惯的。\n团队中的精神平衡水平非常低。还有更多疯狂和恐慌的案例，一些工人不得不紧急返回上来。在另一个团队消失后，关于一些黑暗生物绑架团队成员的谣言开始流传，甚至达到了不可思议的地步。\n为了最后一次尝试了解正在发生的事情的本质，探险队的队长要求进入矿井的科学设备中，这些设备通常用于研究宇宙异常现象的研究船上。"
+ apsr_arcrel.204.desc_gm:0 "今天早上到达了这颗行星的核心。压力和温度一直在下降，而重力则完全没有变化。深度被反复检查了几十次，每次不可能完成的任务都得到了确认。星球的核心已经到达，但扫描仪总是显示，进展可以继续。发现的未知飞船不再令人惊讶，许多发现只是被忽视，这是司空见惯的。\n我们的单元生产效率降低了。造成这种情况的原因还没有找到。探险队的队长要求科学设备进入矿井，这些设备通常用于研究宇宙异常的研究船上。"
+ apsr_arcrel.204.button:0 "提供请求中指定的所有内容。"
+  
+ # Этап 5
+ apsr_arcrel.205.title:0 "回声"
+ apsr_arcrel.205.desc:0 "由于过载，高功率空间矩阵扫描仪在开机后几乎立即出现故障。然而，这一看似令人沮丧的事件却在研究团队中引起了欢腾。这台由旧的实验扫描仪组装而成的新扫描仪证实了他们的猜测:在这段时间里，这颗行星内部有一个巨大的空间口袋，几乎是行星本身的10倍大。它包含了难以想象的数量的物质，包括矿物。在某种未知的方式下，这个口袋被屏蔽了，只有在克服了星球地壳的某个深度标记后才能被探测到。根据初步的数据，口袋是稳定的，但是不时会有一个“空间回声”，它可以吸收口袋里的一些物体，这是一些团队成员所发生的事情。现在，科学家们正忙着开发个人的回声反射器，这样工人失踪就不会再发生了，不幸的是，已经不可能把失踪的工人找回来了。从扫描仪的记录来看，回声的来源在同一方向上的深度甚至更大。"
+ apsr_arcrel.205.button:0 "难以置信……继续前进!"
+  
+ # Этап 6
+ apsr_arcrel.206.title:0 "空心"
+ apsr_arcrel.206.desc:0 "研究人员继续深入研究回声的来源。气温无情地下降，工人们不得不进行取暖。深渊越来越窄，这两艘飞船已经彼此靠近，研究人员需要切割它们的船体。人们注意到，随着宽度和压力下降，很快就必须在真正的宇航服上工作，在一些地方，已经有必要安装专门为太空工作设计的通道。第一次，重力下降被记录下来，当向前移动时，开始呈指数级下降。今天，扫描仪突然显示了一个正在加深的球形空腔的过程，其中显然有绝对的真空。\n回声反射器测试成功，并分发给所有参与挖掘的人员。"
+ apsr_arcrel.206.button:0 "继续前进。"
+  
+ # Этап 7
+ apsr_arcrel.207.title:0 "奇点"
+ apsr_arcrel.207.desc:0 "我们来到了腔体的内表面。扫描仪显示，在它的边界处，重力完全消失了，在里面，正如我们所预料的，有绝对真空。\n放置在空腔表面的设备记录了回波的来源，显然，还记录了空腔中心空间口袋的产生器。这肯定是有人创造了一个令人难以置信的复杂的球形机构，人们决定给他一个物如其名的名字“收集器”。它发出一种暗蓝光的脉动光芒，时不时地把整块物质扔到洞外。它既可以是无用的物质，也可以是有价值的矿物，甚至可以是偶然发现的飞船。目前还不清楚具体是如何进行的，但收集器的机制是将其丢弃，并将其带到空腔中，一段时间后，理想情况下，它会变得均匀，新物质会“上升”到表面。我们的科学家假设，这个收集器的工作原理是将在遥远空间发现的物质“运输”到它自己的空间口袋。收集器无人值守数百万年,期间不断收集,妥善存储在空间口袋里。很明显，现在口袋里已经装满了东西，收集器不时地发出“回声”来清理它，但这还不够，随着时间的推移，在口袋外积聚的物质的重力作用下，慢慢形成了一颗完整的行星。也就是说这个东西是这个“星球”的核心……\n研究组长认为，如果可以控制储层，并对其进行重新配置，以接收对我们有用的矿物。为了做到这一点，他想要携带一艘小型科研船的部分部件穿过整个穿越路径，以便将其组装起来并靠近收集器。"
+ apsr_arcrel.207.button:0 "去做吧!"
+  
+ # Этап 8
+ apsr_arcrel.208.title:0 "突破"
+ apsr_arcrel.208.desc:0 "在一个特殊的项目上装配一艘科研船是成功的。所有与收集器直接交互的尝试都没有成功，然而，出乎意料的是，飞船雷达记录下了一个快速旋转的未知物体。虽然不可能完全停止，但我们能够降低它围绕收集器的转速。在那之后，收集器立即改变了它的行为 - 发光的亮度发生了变化，而且似乎也改变了物质发射的规律性。进一步尝试使用不同的字段和辐射与对象交互，可以更显著地更改收集器的行为。显然，这个形状与立方体形状最匹配的对象是一个管理控制台，团队很快就找到了它的基本功能。不幸的是，我们无法调整收集器来持续接收我们需要的矿物，它需要类似“卸载”的东西，当绝对随机的物质被扔进口袋时，但我们设法完全关闭了回声。不可能找到任何反向工程的可能性，空间口袋的工作机制仍未得到探索，我们也不太可能再现它。收集者目前完全稳定，没有失败的危险，根据团队的说法，获得矿物是最理想的。它只剩下建立一个运输矿物到星球表面的基础设施。然而，更有趣的是立方体。据发掘负责人介绍，收藏家的管理只能是其功能的一部分，其基本功能，我们的科学家还在继续对它进行仔细研究，并进行各种实验用它。"
+ apsr_arcrel.208.button:0 "伟大的成就。"
+ apsr_arcrel.208.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.209.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.209.desc_no_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr2_resource_planet.GetName]§!行星上的分析结果的报告。根据他的说法，立方体代表着星际通讯的一个点，而这个点的作用原理是我们所不知道的。还在信号中发现了加密的推荐激活的魔方，感谢他们，我们可以试着联系别人。"
+ apsr_arcrel.209.desc_no_cube_have_flag:0 "收到一份关于立方体在§H[event_target:apsr2_resource_planet.GetName]§!行星上的分析结果的报告。根据他的说法，这个立方体是另一个§Y通信立方体§!的复制品!我们曾经拥有，除此之外，没有发现比这更有趣的了。"
+ apsr_arcrel.209.desc_have_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr2_resource_planet.GetName]§!行星上的分析结果的报告。根据他的说法，这个立方体是另一个§Y通信立方体§!的精确副本，我们已经有了。除此之外，没有发现更多的东西。"
+ apsr_arcrel.209.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.209.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.209.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.209.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.209.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.209.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+
+
+
+
+
+ ### 3 ###
+  
+ # появление раскопок
+ apsr_arcrel.300.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.300.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.300.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.300.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr3_archsite:0 "$apsr1_archsite$"
+ apsr3_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.301.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.301.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.301.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.302.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.302.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.302.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.303.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.303.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.303.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.304.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.304.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.304.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.305.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.305.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.305.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.305.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.309.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.309.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.309.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.309.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.309.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.309.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.309.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.309.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.309.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.309.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+
+
+
+
+
+ ### 4 ###
+ # BY Dimuch62 and Rainbow Rod
+  
+ # появление раскопок
+ apsr_arcrel.400.title:0 "王座大厅"
+ apsr_arcrel.400.desc_no_cube:0 "在[event_target:apsr4_planet_target.GetName]星球上，发现了被命名为“古代”的文明存在的痕迹。在我们着陆之前，地球表面是一片巨大的废墟，但现在我们清理了一些区域，部分恢复了基础设施。最有趣的是，一个不稳定但清晰的信号来自废墟的深处。"
+ apsr_arcrel.400.desc_have_cube:0 "$apsr_arcrel.400.desc_no_cube$"
+ apsr_arcrel.400.button:0 "进行挖掘"
+ 
+ # раскопки
+ apsr4_archsite:0 "王座大厅"
+ apsr4_archsite_desc:0 "$apsr_arcrel.400.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.401.title:0 "废墟"
+ apsr_arcrel.401.desc:0 "经过地面挖掘，发现废墟比表面看起来要大得多，而且往下走得很远。似乎建筑的地面部分只是一个更大部分的入口。此外，该结构的元素具有相当有趣的体系结构和不寻常的工程解决方案。进一步挖掘将使你更好地了解一些行星的历史，甚至建设者本身。"
+ apsr_arcrel.401.button:0 "很好"
+  
+ # Этап 2
+ apsr_arcrel.402.title:0 "越来越深……"
+ apsr_arcrel.402.desc:0 "挖掘工作已经进行了很长时间，我们甚至无法到达建筑物的底部。孤独的墙、墙、只有墙。我们甚至猜不出这个程序什么时候结束。许多人不再确信这次挖掘会以某种实际的东西结束。"
+ apsr_arcrel.402.button:0 "协调工作!"
+  
+ # Этап 3
+ apsr_arcrel.403.title:0 "基础"
+ apsr_arcrel.403.desc:0 "完成了!我们终于到达了这些废墟的“底部”，但是地形还没有适应研究活动。我们必须腾出足够的土地建立一个研究基地，然后开始工作。有趣的事情还没有发生……"
+ apsr_arcrel.403.button:0 "也许会有发现."
+  
+ # Этап 4
+ apsr_arcrel.404.title:0 "结束例行公事，开始行动"
+ apsr_arcrel.404.desc:0 "清理工作已经完成，空座位被用于考古和科学微型站。在清理的过程中，我们意识到这是一片废墟。显然，我们所使用的王座大厅与古代的巨大王座大厅只有可怜的相似之处，后者占据了更大的地盘，在那里他们与所有帝国建立了联盟关系。这可以从各种报告中理解。显然他们曾经繁荣过。就在这个信号附近，因为这个信号，我们开始了这次探险。"
+ apsr_arcrel.404.button:0 "显然这是一个相当先进的文明。"
+  
+ # Этап 5
+ apsr_arcrel.405.title:0 "无耻的谎言"
+ apsr_arcrel.405.desc:0 "在寻找信号的过程中，我们发现了一个相当有趣的记录，据说是在古代文明存在的日落时分创造的。只有片段被翻译过，但它们具有很高的历史价值。:\n§Y«T我们死的时候，他藏在他们的洞里!它不是§R<<损坏>>§!\n它不会停止。我们的文明将在自身的重压下崩溃。一切都是注定的，没有§R<<损坏>>§!\n他们很快就会冲进来，我们所有的努力都将付诸东流。如果我们的后代回到这里，他们应该得到警告……§!\n这个纪录被打破了。文本无法翻译，但它载有关于这个文明的重要信息。也许应该把它寄给我们的语言学家做全面检查。"
+ apsr_arcrel.405.button:0 "奇怪的记录……"
+  
+ # Этап 6
+ apsr_arcrel.406.title:0 "王座大厅"
+ apsr_arcrel.406.desc:0 "我们到达了这些地下废墟的“核心”。结果真的是王座大厅。所有这些都是用外星人的文字绘制的，据说这些文字属于«古人»的语言。在它的中心，我们发现一个奇怪的立方体悬挂在地板上。信号就是从他那儿来的。我们认为这是一个需要与…另一边的东西。但目前他并不活跃，对此我们不能肯定。"
+ apsr_arcrel.406.button:0 "优秀"
+ apsr_arcrel.406.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.409.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.409.desc_no_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr4_planet_target.GetName]§!行星上的分析结果的报告。根据他的说法，立方体代表着星际通讯的一个点，而这个点的作用原理是我们所不知道的。科学家声称他们可以激活立方体，我们可以试着联系外星人。"
+ apsr_arcrel.409.desc_no_cube_have_flag:0 "收到一份关于立方体在§H[event_target:apsr4_planet_target.GetName]§!。据他说，这个立方体是我们曾经拥有的另一个§Y通信立方体§!的精确副本。没有发现比这更有趣的了。"
+ apsr_arcrel.409.desc_have_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr4_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!的精确复制，我们已经有了。没有发现比这更有趣的了。"
+ apsr_arcrel.409.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.409.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.409.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.409.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.409.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.409.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+
+
+
+
+
+ ### 5 ###
+  
+ # появление раскопок
+ apsr_arcrel.500.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.500.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.500.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.500.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr5_archsite:0 "$apsr1_archsite$"
+ apsr5_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.501.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.501.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.501.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.502.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.502.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.502.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.503.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.503.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.503.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.504.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.504.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.504.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.505.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.505.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.505.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.505.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.509.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.509.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.509.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.509.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.509.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.509.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.509.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.509.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.509.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.509.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 6 ###
+ # BY Dimuch62 and True_END
+  
+ # появление раскопок
+ apsr_arcrel.600.title:0 "书信"
+ apsr_arcrel.600.desc_no_cube:0 "虽然我们能够打开地下掩体的入口大门，这显然是为了防止外来的威胁，但在这段时间里，我们只检查了地下建筑群的十几个房间。但这足以让人明白，自从地堡被废弃以来，发生了一些不可思议的事情。它需要深入到复杂的情况中去，并至少找到一些关于已经发生的事件的信息。"
+ apsr_arcrel.600.desc_have_cube:0 "$apsr_arcrel.600.desc_no_cube$"
+ apsr_arcrel.600.button:0 "开始"
+ 
+ # раскопки
+ apsr6_archsite:0 "书信"
+ apsr6_archsite_desc:0 "$apsr_arcrel.600.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.601.title:0 "前居民"
+ apsr_arcrel.601.desc:0 "在隔壁锁着的房间里发现了一具有机生物的骨架。也许这是地下综合体的前居民之一。在骨骼附近发现了一个类似便携式信息终端的设备。经过几次尝试，它终于运行并读取了信息……或者更确切地说是剩下的东西。在过去数千年(这是表示一般情况的复杂),设备大大恶化,但是你可以尝试恢复的一些信息。"
+ apsr_arcrel.601.button:0 "开始"
+  
+ # Этап 2
+ apsr_arcrel.602.title:0 "损坏的记录"
+ apsr_arcrel.602.desc:0 "有可能在找到的终端上部分恢复信息。这是录音，这是解密后的情况:\n§Y如果你听到这个消息，那么我们就输了。这条信息是为§R<<损坏>>§!的那些谁将在我们之后创建的。§!\n不幸的是，更多的记录无法恢复，因为设备中的信息载体已经化为尘土。但也有好消息 - 在另一个地方也发现了类似的航站楼，而且还可以继续。"
+ apsr_arcrel.602.button:0 "很好"
+  
+ # Этап 3
+ apsr_arcrel.603.title:0 "损坏的记录"
+ apsr_arcrel.603.desc:0 "我们设法部分恢复了记录的消息的第二部分:\n§Y我们是在银河系边缘的§R<<损坏>>§!，我们的发展道路和很多§R<<损坏>>§!类似，除了一件事-我们进入§R<<损坏>>§!他们的技术和教他们使用，结果，我们的繁荣时代来了，我们已经成为§R<<损坏>>§!§!\n目前还没有收到来自该航站楼的更多信息，但是随着对地下综合体的研究的继续，所有的新航站楼都在不同程度上得到了保存，这将使我们能够破译整个记录。"
+ apsr_arcrel.603.button:0 "很好"
+  
+ # Этап 4
+ apsr_arcrel.604.title:0 "损坏的记录"
+ apsr_arcrel.604.desc:0 "根据受损终端的信息，我们恢复了消息的第三部分，也是最后一部分:\n§Y但是我们没有考虑结果……我们的发展引发了星系外的§R<<损坏>>§!…这是§R<<损坏>>§!一个接一个…我们试图救至少一个人，但毫无结果。地下掩体的§R<<损坏>>§!网络，在其中我们收集的所有有关§R<<损坏>>§!的信息，我们留下这一信息，希望§R<<损坏>>§!§!\n科学家们已经在忙着根据来自其他终端的信息修复受损的碎片。"
+ apsr_arcrel.604.button:0 "很好"
+  
+ # Этап 5
+ apsr_arcrel.605.title:0 "回收记录"
+ apsr_arcrel.605.desc:0 "我们能够完全恢复信息，这是相当不祥的:\n§Y如果你听到这个消息，那么我们就输了。这条信息是为了警告银河系规模的威胁，并给那些将会追随我们的人一个生存的机会。\n我们恒星社区,我们的人民起源于银河系边缘的一个遥远的热带星球，我们的发展道路与许多人相似，除了一件事 - 我们接触了一个未知的种族，他们很友好，与我们分享他们的技术，并教他们使用，结果，我们的繁荣时代到来了，我们痴迷于研究以前未知的技术。\n但是我们没有考虑结果……我们的发展引发了一些可怕的事情……它从银河系外来到我们这里……这是一次真正的入侵，他们的力量令人难以置信……帝国被一个接一个地摧毁了……我们试图救至少一个人，但毫无结果。意识到这是结束，我们开始建立一个地下掩体网络，我们收集的所有关于入侵的信息都将存储在其中。我们留下这些信息，希望你会更幸运，你不会重复我们的错误…§!\n这条信息还表明了这些信息储存的地方，我们发现了许多前居民的遗骸，以及一个巨大的立方体，在房间中央的地板上方，完好无损。不幸的是，该建筑群居民的死亡原因尚未查明。"
+ apsr_arcrel.605.button:0 "好极了"
+ apsr_arcrel.605.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.609.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.609.desc_no_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr6_planet_target.GetName]§!行星上的分析结果的报告。根据他的说法，立方体代表着星际通讯的一个点，而这个点的作用原理是我们所不知道的。科学家声称他们可以激活立方体，我们可以试着联系外星人。"
+ apsr_arcrel.609.desc_no_cube_have_flag:0 "收到一份关于立方体在§H[event_target:apsr6_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!我们曾经拥有它。没有发现比这更有趣的了。"
+ apsr_arcrel.609.desc_have_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr6_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!的精确复制，我们已经有了。没有发现比这更有趣的了。"
+ apsr_arcrel.609.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.609.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.609.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.609.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.609.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.609.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 7 ###
+  
+ # появление раскопок
+ apsr_arcrel.700.title:0 "信号"
+ apsr_arcrel.700.desc_no_cube:0 "在时间引擎的帮助下，人们注意到他偶尔会发出一个未知性质的信号。有必要研究这一现象。"
+ apsr_arcrel.700.desc_have_cube:0 "$apsr_arcrel.700.desc_no_cube$"
+ apsr_arcrel.700.button:0 "开始"
+ 
+ # раскопки
+ apsr7_archsite:0 "$apsr_arcrel.700.title$"
+ apsr7_archsite_desc:0 "$apsr_arcrel.700.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.701.title:0 "信号"
+ apsr_arcrel.701.desc:0 "人们发现，这些信号是一种加密的信息流，显然针对特定的接收者。由于信号是随机向四面八方发出的，要找到收信人就不那么容易了。"
+ apsr_arcrel.701.button:0 "解码信号"
+  
+ # Этап 2
+ apsr_arcrel.702.title:0 "信号"
+ apsr_arcrel.702.desc:0 "科学家们能够破译这个信号。它是§R«时间到了»§!短语的循环重复，脉冲时间为50纳秒。收件人未被发现。"
+ apsr_arcrel.702.button:0 "找到那个收到信号的人"
+  
+ # Этап 3
+ apsr_arcrel.703.title:0 "信号消失"
+ apsr_arcrel.703.desc:0 "信号已停止固定。几个月来，立方体一直保持沉默。经过实验，我们能够连接到立方体并从中得到响应。进一步的探索正在进行中。"
+ apsr_arcrel.703.button:0 "很好"
+ apsr_arcrel.703.tooltip:0 "我们的科学家将研究立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.709.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.709.desc_no_cube_and_flag:0 "收到一份关于立方体研究结果的报告，据他介绍，立方体位于§H[event_target:apsr7_planet_target.GetName]§!行星上，是一个星际通讯点，作用原理我们不知道。通过实验，激活立方体的方法已经开发出来，正因为如此，我们可以试着联系一些人。"
+ apsr_arcrel.709.desc_no_cube_have_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr7_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!,我们曾经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.709.desc_have_cube_and_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr7_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!，我们已经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.709.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.709.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.709.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.709.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.709.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.709.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 8 ###
+ # BY Golden Pip
+  
+ # появление раскопок
+ apsr_arcrel.800.title:0 "摧毁钜反应堆"
+ apsr_arcrel.800.desc:0 "现在发生了一件事，要求立即关闭我们的钜反应堆!我们仍在分析来自§H[event_target:apsr8_planet_target.GetName]§!行星的数据，但一个非常令人不安的局面正在形成，需要你立即注意!"
+ apsr_arcrel.800.button:0 "发生了什么?"
+ 
+ # раскопки
+ apsr8_archsite:0 "$apsr_arcrel.800.title$"
+ apsr8_archsite_desc:0 "一个特别委员会在发生钜发电厂的事故几小时后召开会议，完成了对现有数据的分析。结论令人失望 - 这是一场全球性的灾难……迫切需要组织一个考察队来评估损失和收集资料。"
+  
+ # Этап 1
+ apsr_arcrel.801.title:0 "毁灭编年史"
+ apsr_arcrel.801.desc_d:0 "报告是关于行星§H[event_target:apsr8_planet_target.GetName]§!上发生的事件。在这里,看:\n\n«4月26, 首都时间凌晨1点23分 (殖民地时间 - 21:23), 该发电厂的8个发电机组中有2个是基于合成钜而被摧毁的。爆炸造成的破坏是毁灭性的，经查明，该钜反应堆已被完全摧毁，爆炸时向环境中释放了无可比拟的大量放射性和有毒物质，有明显的构造板块起伏，估计震级为里氏11.0-12.9级。这次地震在一个大陆上造成了一个巨大的裂口，最糟糕的是它还在继续扩张，几乎吸收了沿途的所有东西!然而，正如我们的测绘卫星所发现的那样，大陆裂缝的发展速度正在下降。这次事故被认为是我国能源工业整个历史上规模最大的事故，无论是对基础设施的破坏，还是对全体人民的破坏。在事故发生的头几个小时里，超过5亿人死于辐射病。超过3.32亿人从900公里的区域撤离，然而，附近定居点的大多数人口仍然在受影响的地区。已经调动了相当多的资源来消除影响。一组主要的地震学家、地质学家和核物理专家被指派到委员会，负责研究大型反应堆的现状，他们对基于大型反应堆的熔融反应堆核正在发生的反应表示强烈关切。根据他们令人信服的理论和同样令人信服的研究，原子核的熔化反应并不是不可阻挡的，因为曾经阻挡各种巨大力量表现的活跃区域现在已经被摧毁了。从外部进入核心是不可能的，还没有进行单独的尝试，到目前为止还没有人成功。它需要立即组织一个新的考察队到反应堆核心的中心。值得注意的是，一台试验性钻孔机已经在进行积极的测试，它能够抵挡对任何生物有机体或合成材料都是致命的狂风辐射。我们需要你的许可，因为机器工作在不稳定的能源上，比如暗物质。有一个小的风险，设备将引爆，连同船员，将需要在船上。在星球深处的新爆炸之后可能出现的后果是如此危险的物质- -它是整个星球的分裂，这给我们带来的不是光明和舒适的未来，而是可怕的反乌托邦，并永远提醒我们有些力量是我们无法控制的。»"
+ apsr_arcrel.801.desc_g:0 "报告是关于行星§H[event_target:apsr8_planet_target.GetName]§!上发生的事件。在这里,看:\n\n«4月26，根据单颗行星的时间，在凌晨1点23分，电厂的8个功率单元中有2个是基于合成钜的。破坏在性质上是毁灭性的，经查明，钜反应堆完全被破坏，爆炸时大量的放射性和有毒物质释放到环境中，发生了巨大的构造板块波动，地震力震级估计在11.0-12.9级。这次地震在大陆上造成了一个巨大的裂口，最糟糕的是它还在继续扩张，几乎吸收了沿途的所有东西!然而，正如我们的测绘卫星所发现的那样，大陆裂缝的发展速度正在下降。这起事故被认为是我们能源工业整个历史上最大的一起事故，无论是对基础设施的破坏，还是对附近工蜂的破坏。超过5亿工蜂遭受严重的辐射病，在事故发生的头几个小时就受到了严重的辐射。超过3.32亿工蜂从900公里区域撤离，然而，相当大一部分工作工蜂仍在受灾地区。已经调动了相当多的资源来消除影响。一组主要的科学工蜂被指派到委员会与LES就目前的情况发表了一份关于正在进行的基于钜熔融反应堆核心反应的意见。根据他们的数据，原子核的熔化反应并不是不可阻挡的，因为曾经阻挡各种巨大能量表现的活跃区域现在已经被摧毁了。从外部进入核心是不可能的，还没有进行单独的尝试，到目前为止还没有人成功。它需要立即组织一个新的考察队到反应堆核心的中心。值得注意的是，一台试验性钻孔机已经在进行积极的测试，它能够抵挡对任何生物有机体或合成材料都是致命的狂风辐射。我们需要你的许可，因为机器工作在不稳定的能源上，比如暗物质。有一个小的风险，设备将引爆，连同船员，将需要在船上。在星球深处发生新的爆炸后可能出现的后果是如此危险的物质 - 这是整个星球的分裂，它给我们带来的不是光明和舒适的未来，而是可怕的反乌托邦，并永远提醒我们有些力量是我们无法控制的。»"
+ apsr_arcrel.801.desc_m:0 "报告是关于行星§H[event_target:apsr8_planet_target.GetName]§!上发生的事件。在这里,看:\n\n«4月26，根据单颗行星的时间，在凌晨1时23分，该发电厂基于合成钜的8个动力单元中有2个被摧毁。破坏的性质是毁灭性的;这次地震在大陆上造成了一个巨大的裂口，最糟糕的是它还在继续扩张，几乎吸收了沿途的所有东西!然而，正如我们的测绘卫星所发现的那样，大陆裂缝的发展速度正在下降。这起事故被认为是我们能源工业整个历史上最大的一起事故，无论是对基础设施的破坏，还是对附近单元的破坏。超过5亿单元受到攻击性媒体的破坏。超过3.32亿单元从900公里区域撤离，然而，相当大一部分工作单元仍在受灾地区。已经调动了相当多的资源来消除影响。一组主要的科学单元被指派到委员会与LES就目前的情况发表了一份关于正在进行的基于钜熔融反应堆核心反应的意见。根据他们的数据，原子核的熔化反应并不是不可阻挡的，因为曾经阻挡各种巨大能量表现的活跃区域现在已经被摧毁了。从外部进入核是不可能的，还没有单独的尝试，到目前为止还没有人成功。它需要立即组织一个新的考察队到反应堆核心的中心。值得注意的是，一台试验性钻孔机已经在进行积极的测试，它能够抵挡对任何机械无人机都是致命的狂风辐射。我们需要你的许可，因为机器工作在不稳定的能源上，比如暗物质。有一个小的风险，设备将引爆，连同船员，将需要在船上。在星球深处发生新的爆炸后可能出现的后果是如此危险的物质 - 这是整个星球的分裂，它给我们带来的不是光明和舒适的未来，而是可怕的反乌托邦，并永远提醒我们有些力量是我们无法控制的。»"
+ apsr_arcrel.801.button:0 "立即开始!"
+  
+ # Этап 2
+ apsr_arcrel.802.title:0 "准备"
+ apsr_arcrel.802.desc_d:0 "$RULER$!巧合的是，一组高级专家，他们是紧急召开的关于LES情况的委员会的成员，几乎已经准备好了，我们的实验钻床也差不多准备好了。这些设备将与完成任务的机组人员一起从轨道上坠落，直接进入灾难性故障的深处，并将立即开始工作。不幸的是，没有坏消息说做不到。科学家们进行了新的计算和实验，发现我们目前在传感器领域的所有发展都不适合在如此极端的条件下工作。关于我们和钻床之间的子空间连接将完全不可能的消息也在试图杀死我们!我们仍在研究这一现象，但结果再次令人失望。我们的科学家，我们的公民，也就是机组人员，将继续保持失明和沉默，无法返回。但这并没有吓到他们。他们准备进入黑暗中拯救这个星球!\n *下面是报告的一个小附言，您在最后一刻才注意到。*\n«老实说，我们仍然不能把它们举到水面上来。我们没有太多的时间来开发和测试原型。他们的使命……它在一端……一个放射性物质浓度高的区域将持续数千年，前提是他们的任务成功，他们将淹没核心。没有一台挖掘机或推土机能承受如此猛烈的辐射，即使是在极其恶劣的环境中。他们将永远被埋在那里。»"
+ apsr_arcrel.802.desc_gm:0 "一组无人机和我们的实验钻机已经准备好了。这些设备将与完成任务的机组人员一起从轨道上坠落，直接进入灾难性故障的深处，并将立即开始工作。不幸的是，没有坏消息做不到。进行了新的计算和实验表明，我们目前在传感器领域的所有发展都不适合在这样极端的条件下工作。还有消息说，我们和钻床之间的子空间连接将是完全不可能的!我们仍在研究这一现象，但结果再次令人失望。船员们将保持失明和沉默，没有返回的可能。\n老实说，我们仍然不能把它们举到水面上来。我们没有太多的时间来开发和测试原型。他们的使命……它在一端……一个放射性物质浓度高的区域将持续数千年，前提是他们的任务成功，他们将淹没核心。没有一台挖掘机或推土机能够承受如此猛烈的辐射，即使是在极其恶劣的环境下。他们将永远被埋在那里。"
+ apsr_arcrel.802.button:0 "开始"
+  
+ # Этап 3
+ apsr_arcrel.803.title:0 "深刻的启示"
+ apsr_arcrel.803.desc_d:0 "$RULER$!自从演习进入震中以来，已经有好几个月的极度寂静。现在，突然，一个严重受损的信息到达了我们所没有的频率。它是偶然发现的，简直是个奇迹，一个幸存下来的军事复合体，从事于拦截超光速信息。在使用轨道卫星网络接收到这条消息后，它将很快被解密，并使用神经网络恢复单个碎片 - 我们准备好提供给你。这是该小组的第一份也是最后一份报告。\n§Y这个…这是一个科学家§H[Root.GetLeaderName]§!…船长«[Root.GetName]» 和主要探险家…§!\n你看到的是一个可怕的，支离破碎的研究人员的形象，他被扔在这个自杀的任务。你准备好发誓，从几十个碎片中收集一幅有价值的演讲者画像 - 你将看不到一个活生生的人。这个生物的眼睛滴着一种看不见的黑色液体，这个生物的脸歪了，好像在你能想象到的最可怕的画面中，从燃烧的衣服的残余和被鲜血和黑色液体严重浸透的地方，可以流动的水滴在流动，这很可能是血液和这个黑色的合成物……不受引力影响的物质，因为这些污物堆积在天花板上。在背景中，模糊的、扭曲的、完全沉浸在黑暗垃圾中的团队成员的图像已经清晰可见，他们的嘴巴似乎在一声无声的尖叫中破碎了，他们的四肢扭曲着，好像在很多地方以无法想象的角度被折断了……从此，他们那没有脸的五官你会在梦里做最可怕的噩梦……你所要做的就是把注意力集中在他们身上，突然间，这条信息的寂静被研究人员沙哑的声音打破了，似乎到处都能听到……\n§Y核心已经消失了，但是信号已经被传输了，现在他们可以回来了。他们会因为我们的忠诚而使我们复活。你们要俯伏在主面前，俯伏在主的脚前，免得你们从天上被摔下去。§!\n从黑色液滴中收集到的每个成员的图像都出现了，并以他们的生命结束 - 自杀，甚至是最可怕的方式。突然出现的图像消失了，取而代之的是一幅支离破碎的[Root.GetLeaderName]肖像，在所有这些可怕的景象出现之前。一个沙哑的声音突然变成尖叫，很快就被一声咯咯的咳嗽所取代，伴随着明显的窒息声，就像在水中一样。但这并不能阻止你听到一个疯子说的每一个字，就像一根铁棒被一个接一个地插入你的大脑。\n§Y要知道，我们会从时间和空间的束缚中挣脱出来!我们会追上你的!你不能隐瞒! . .§!\n突然，你办公室的灯光消失了。几乎所有曾经用电的东西现在都不通电了。但是，播放该消息的屏幕不显示。作为唯一的光源，它吸引着自己和眼睛。一旦你的眼睛回到信息屏幕上，屏幕上就会出现几个短语，它们会重复很多次，并继续出现在屏幕上:\n§R«时间到了»§!\n就像消失一样突然，灯光回到你的办公室，信息板熄灭了。你犹豫着要不要再打开它……"
+ apsr_arcrel.803.desc_g:0 "自从演习进入震中以来，已经有好几个月的极度寂静。现在，突然，一个严重受损的信息到达了我们所没有的频率。它是偶然发现的，简直是个奇迹，一个幸存下来的军事复合体，从事于拦截超光速信息。在使用轨道卫星网络接收到这条消息后，它将很快被解密，并使用神经网络恢复单个碎片 - 我们准备提供它。这是该小组的第一份也是最后一份报告。\n§Y这个…这是一个科学家§H[Root.GetLeaderName]§!…船长的船«[Root.GetName]» 和主要探险家…§!\n你看到的是一个可怕的，支离破碎的研究人员的形象，他被扔在这个自杀的任务。你准备好发誓，从几十个碎片中收集一幅有价值的演讲者画像 - 你将看不到一个活生生的人。这个生物的眼睛滴着一种看不见的黑色液体，这个生物的脸歪了，好像在你能想象到的最可怕的画面中，从燃烧的衣服的残余和被鲜血和黑色液体严重浸透的地方，可以流动的水滴在流动，这很可能是血液和这个黑色的合成物……不受引力影响的物质，因为这些污物堆积在天花板上。在背景中，模糊的、扭曲的、完全沉浸在黑暗垃圾中的团队成员的图像已经清晰可见，他们的嘴巴似乎在一声无声的尖叫中破碎了，他们的四肢扭曲着，好像在很多地方以无法想象的角度被折断了……从此，他们那没有脸的五官你会在梦里做最可怕的噩梦……你所要做的就是把注意力集中在他们身上，突然间，这条信息的寂静被研究人员沙哑的声音打破了，似乎到处都能听到……\n§Y核心已经消失了，但是信号已经被传输了，现在他们可以回来了。他们会因为我们的忠诚而使我们复活。你们要俯伏在主面前，俯伏在主的脚前，免得你们从天上被摔下去。§!\n从黑色液滴中收集到的每个成员的图像都出现了，并以他们的生命结束 - 自杀，甚至是最可怕的方式。突然出现的图像消失了，取而代之的是一幅支离破碎的[Root.GetLeaderName]肖像，在所有这些可怕的景象出现之前。一个沙哑的声音突然变成尖叫，很快就被一声咯咯的咳嗽所取代，伴随着明显的窒息声，就像在水中一样。但这并不妨碍听一个疯子说的每一个字，这些字就像一根铁棒，一个接一个地打入大脑。\n§Y要知道，我们会从时间和空间的束缚中挣脱出来!我们会追上你的!你不能隐瞒! . .§!\n突然，办公室里的灯光消失了。几乎所有曾经用电的东西现在都不通电了。但是，播放该消息的屏幕不显示。作为唯一的光源，它吸引着自己和眼睛。眼睛一回到信息屏幕上，就会出现几个短语，这些短语会重复很多次，并继续出现在屏幕上:\n§R«时间到了»§!\n就像消失了一样，灯光突然回到办公室，信息板熄灭了。头脑再也不敢打开它……"
+ apsr_arcrel.803.desc_m:0 "自从演习进入震中以来，已经有好几个月的极度寂静。现在，突然，一个严重受损的信息到达了我们所没有的频率。它是偶然发现的，简直是个奇迹，一个幸存下来的军事复合体，从事于拦截超光速信息。在使用轨道卫星网络接收到这条消息后，它将很快被解密，并使用神经网络恢复单个碎片 - 我们准备提供它。这是该小组的第一份也是最后一份报告。\n§Y这个…这是一个科学家§H[Root.GetLeaderName]§!…船长«[Root.GetName]» 和主要探险家…§!\n你看到的是一个可怕的，支离破碎的研究人员的形象，他被扔在这个自杀的任务。从数十个有价值的演讲者图像碎片中收集机器智能 - 你会得到一个可怕的生物。光学元件从一种可察觉的黑色液体中渗出，前板偏斜，好像在压机下落下，从残留的烧焦和严重损坏的板壳、流动的液滴中流出，这极有可能是一种合成服务液和这种黑色…不受引力影响的物质，因为这种污物堆积在天花板上。在背景中，模糊的、弯曲的团队成员清晰可见，他们完全沉浸在黑暗的垃圾中，他们的身体似乎还在继续移动，他们的四肢似乎以难以想象的角度在许多地方断裂……当你把注意力集中在他们身上时，突然间，这条信息的寂静被研究人员的尖叫声打破了，好像是从四面八方传来的……\n§Y核心已经消失了，但是信号已经被传输了，现在他们可以回来了。他们会因为我们的忠诚而使我们复活。你们要俯伏在主面前，俯伏在主的脚前，免得你们从天上被摔下去。§!\n从黑色水滴的颗粒中收集到的每个团队无人机的图像似乎都独立地终止了它们的功能，以最可怕的方式伤害了它们自己。突然出现的图像消失了，取而代之的是一个单独的[Root.GetLeaderName]碎片图像，在所有这些可怕的景象出现之前。声音的尖叫被一声尖叫打断，很快被一声带有明显窒息音的咯咯咳嗽所取代，就像被有机物所取代一样。但这并不妨碍听到这台疯狂机器的每一个字，它就像一根铁棒，被一个接一个地打入处理器。\n§Y要知道，我们会从时间和空间的束缚中挣脱出来!我们会追上你的!你不能隐瞒! . .§!\n突然，办公室里的灯光消失了。几乎所有曾经用电的东西现在都不通电了。但是，播放该消息的屏幕不显示。作为唯一的光源，它吸引着自己和眼睛。当光学再次聚焦到信息板屏幕上时，屏幕上出现了几个短语，它们重复了许多次，并继续出现在屏幕上:\n§R«时间到了»§!\n就像消失了一样，灯光突然回到办公室，信息板熄灭了。机器大脑再也不敢打开它了……"
+ apsr_arcrel.803.button:0 "那他妈是啥?"
+  
+ # Этап 4
+ apsr_arcrel.804.title:0 "来源"
+ apsr_arcrel.804.desc:0 "在几个月前发生的事件发生后，派出了一支再远征队，把前一次远征队毁容的遗体取出来，检查了钜发电厂的运行能力。幸运的是,在他…死亡……前一次考察成功地阻止了堆芯的反应，稳定了局势。灾难不会发生。虽然需要一天多的时间来清理周围地区的污染，但电厂内的一切都很快被清理干净，工人们很快就能继续工作了。\n目前还不清楚探险队的首席科学家的想法，但在其中一个被摧毁的动力装置中发现了一个奇怪的立方体，其核心发出白光脉冲光芒。科学家们已经开始对此进行研究。"
+ apsr_arcrel.804.button:0 "清晰"
+ apsr_arcrel.804.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.809.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.809.desc_no_cube_and_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr8_planet_target.GetName]§!上，是一个星际通讯点，作用原理我们不知道。通过实验，激活立方体的方法已经开发出来，正因为如此，我们可以试着联系一些人。"
+ apsr_arcrel.809.desc_no_cube_have_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr8_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!,我们曾经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.809.desc_have_cube_and_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr8_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!，我们已经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.809.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.809.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.809.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.809.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.809.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.809.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+  
+ # депозит при катаклизме
+ apsr8_cataclysm_deposit:0 "§R被污染的区域§!"
+ apsr8_cataclysm_deposit_desc:0 "钜反应堆在破坏过程中，地形受到极端有害物质释放的影响"
+ 
+
+
+
+
+ ### 9 ###
+ 
+ ## Часть 1 - при успешном эксперименте 
+ # BY Dimuch62 
+  
+ # появление раскопок
+ apsr_arcrel.900.title:0 "镮元素"
+ apsr_arcrel.900.desc_no_cube:0 "记录镮元素的参数扰动。撞击源在星球表面以下。\n需要尽快确定干扰的原因，恢复镮元素的正常状态。"
+ apsr_arcrel.900.desc_have_cube:0 "$apsr_arcrel.900.desc_no_cube$"
+ apsr_arcrel.900.button:0 "开始"
+ 
+ # раскопки
+ apsr9_archsite:0 "$apsr_arcrel.900.title$"
+ apsr9_archsite_desc:0 "$apsr_arcrel.900.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.901.title:0 "信号变化"
+ apsr_arcrel.901.desc:0 "作用于矿物以太沉积物的信号已经改变了!结果，§Y«白台»研究综合体§!的一些实验以一个意想不到的结果结束 - 一个短期的空间故障，甚至出现了一个先前未知物种的个体，它以智能生物的脑液为食。这种动物被命名为§P«食脑虾»§!，并被安置在一个特殊的隔间里进行研究。"
+ apsr_arcrel.901.button:0 "有意思。但是快点。"
+  
+ # Этап 2
+ apsr_arcrel.902.title:0 "向内移动"
+ apsr_arcrel.902.desc:0 "继续促进工人向奇怪信号的来源进发。由于人们必须小心翼翼地避开放置镮元素的地方，挖掘工作非常缓慢。或许再过几个月，我们就会最终达到预期的目标。"
+ apsr_arcrel.902.button:0 "很好"
+  
+ # Этап 3
+ apsr_arcrel.903.title:0 "设备"
+ apsr_arcrel.903.desc:0 "终于!我们的工人挖出了一个看起来又大又奇怪的装置，它是一个信号源。在一个迅速部署的现场实验室中，分析了它，并寻求稳定镮元素状态的可能性，这最近引起了人们的关注- -镮元素失去了它们的稳定性并使周围的设备失效。"
+ apsr_arcrel.903.button:0 "快点"
+  
+ # Этап 4
+ apsr_arcrel.904.title:0 "中继器"
+ apsr_arcrel.904.desc:0 "坏消息。分析结果表明，作为信号源的仪器只是一个中继器。此外，有缺陷的那个 - 在设备输出端接收到的信号是来自行星轨道的输入信号的失真版本。为寻找水源已组成了一支紧急探险队。"
+ apsr_arcrel.904.button:0 "好吧"
+  
+ # Этап 5
+ apsr_arcrel.905.title:0 "立方体"
+ apsr_arcrel.905.desc:0 "在这颗行星的轨道上发现了一个巨大的立方体，其核心发出柔和的白光。发现这个立方体的宇航员把它装进货舱，然后把它送到星球表面，紧接着就注意到来自中继器的信号发生了变化 - 失真变得少了很多。实验表明，立方体离中继器越近，信号失真越小，镮元素的稳定性越好。反之亦然- -立方体从星球上被移走造成镮元素的不稳定，这可能导致一场全球性的灾难。\n决定把立方体放在中继器旁边，并在一个安全的环境中研究它们。"
+ apsr_arcrel.905.button:0 "优秀"
+ apsr_arcrel.905.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.909.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.909.desc_no_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr9_resource_planet.GetName]§!。根据他的说法，立方体代表着星际通讯的一个点，而这个点的作用原理是我们所不知道的。还在信号中发现了加密的激活立方体的建议，感谢他们，我们可以试着联系外星人。"
+ apsr_arcrel.909.desc_no_cube_have_flag:0 "收到一份关于立方体在§H[event_target:apsr9_resource_planet.GetName]§!。据他说，这个立方体是我们曾经拥有的另一个§Y通信立方体§!的复制品。没有发现比这更有趣的了。"
+ apsr_arcrel.909.desc_have_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr9_resource_planet.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!，我们已经拥有。没有发现更多的东西。"
+ apsr_arcrel.909.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.909.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.909.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.909.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.909.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.909.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+ 
+ ## Часть 2 - при взрыве планеты
+ # BY Dimuch62
+  
+ # появление раскопок
+ apsr_arcrel.910.title:0 "Resentment of 镮元素"
+ apsr_arcrel.910.desc_no_cube:0 "记录了星球毁灭后剩余的永恒沉积物的物理指标的扰动。辐射源在残骸的某个地方。\n我们需要尽快查明起因。"
+ apsr_arcrel.910.desc_have_cube:0 "$apsr_arcrel.910.desc_no_cube$"
+ apsr_arcrel.910.button:0 "开始"
+ 
+ # раскопки
+ apsr9_2_archsite:0 "$apsr_arcrel.910.title$"
+ apsr9_2_archsite_desc:0 "$apsr_arcrel.910.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.911.title:0 "来源"
+ apsr_arcrel.911.desc:0 "尽管有许多来自镮元素的小粒子的干扰，它们以云的形式存在于行星的碎片之间，但计算出了信号源的大致位置。它位于其中一个大碎片内。工人们已经开始向内陆钻探。"
+ apsr_arcrel.911.button:0 "快点。"
+  
+ # Этап 2
+ apsr_arcrel.912.title:0 "深部运动"
+ apsr_arcrel.912.desc:0 "工人们继续向一个奇怪的信号源移动。由于必须小心避免镮元素的大型结晶位点，因此挖掘非常缓慢。也许再过几个月我们就会最终找到正确的答案。"
+ apsr_arcrel.912.button:0 "很好"
+  
+ # Этап 3
+ apsr_arcrel.913.title:0 "设备"
+ apsr_arcrel.913.desc:0 "终于!我们的工人挖出了一个巨大而奇怪的装置，这就是信号的来源。这是一个快速部署的现场实验室，它被分析并试图稳定镮元素的状况，而这也是最近一直关注的问题 - 镮元素矿物会失去稳定性并使周围的设备瘫痪。"
+ apsr_arcrel.913.button:0 "赶快"
+  
+ # Этап 4
+ apsr_arcrel.914.title:0 "中继器"
+ apsr_arcrel.914.desc:0 "坏消息。根据分析，信号的来源只是一个转发器。故障-在设备输出端接收到的信号是来自被摧毁行星轨道某个地方的输入信号的失真版本。一个紧急探险队被派去寻找源头。"
+ apsr_arcrel.914.button:0 "必须弄明白"
+  
+ # Этап 5
+ apsr_arcrel.915.title:0 "立方体"
+ apsr_arcrel.915.desc:0 "我们发现一个巨大的立方体沿着一个奇怪的曲线轨迹在行星碎片之间飞行，它的核心在柔和的白光下跳动。发现立方体的工作人员把它装进货舱，然后把它送到考古营地，紧接着就注意到来自中继器的信号发生了变化 - 失真少了很多。实验结果表明，立方体越接近转发器，信号失真越小，稳定性越好。反之亦然 - 把立方体从星球上除去会破坏镮元素矿物的稳定，这可能导致爆炸的重演，但规模要大得多。\n他们决定把立方体放在中继器旁边，在安全的条件下研究它们。"
+ apsr_arcrel.915.button:0 "很好"
+ apsr_arcrel.915.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.919.title:0 "$apsr_arcrel.99.title$"
+ apsr_arcrel.919.desc_no_cube_and_flag:0 "收到一份关于立方体和§H[event_target:apsr9_planet_target.GetName]§!星球残骸分析结果的报告。根据他的说法，立方体是星际通讯的一个点，它的运作原理我们还不知道。此外，在信号中发现了激活多维立方体的加密建议，有了它们，我们可以尝试联系某人。"
+ apsr_arcrel.919.desc_no_cube_have_flag:0 "收到一份关于立方体和§H[event_target:apsr9_planet_target.GetName]§!星球残骸分析结果的报告。据他说，这个立方体是我们曾经拥有的另一个通信立方体的完全副本。没有发现更有趣的东西。"
+ apsr_arcrel.919.desc_have_cube_and_flag:0 "收到一份关于立方体和§H[event_target:apsr9_planet_target.GetName]§!星球残骸分析结果的报告。据他说，这个立方体是另一个§Y通信立方体§!，我们已经有了。\n不幸的是，当激活一个立方体时，我们的其余立方体也被激活，需要时间来充电，这虽然提供了更稳定的连接，但不允许更多地使用通信立方体。"
+ apsr_arcrel.919.button_no_cube_and_flag:0 "$apsr_arcrel.99.button_no_cube_and_flag$"
+ apsr_arcrel.919.tooltip_no_cube_and_flag:0 "$apsr_arcrel.99.tooltip_no_cube_and_flag$"
+ apsr_arcrel.919.button_no_cube_have_flag:0 "$apsr_arcrel.99.button_no_cube_have_flag$"
+ apsr_arcrel.919.tooltip_no_cube_have_flag:0 "$apsr_arcrel.99.tooltip_no_cube_have_flag$"
+ apsr_arcrel.919.button_have_cube_and_flag:0 "$apsr_arcrel.99.button_have_cube_and_flag$"
+ apsr_arcrel.919.tooltip_have_cube_and_flag:0 "$apsr_arcrel.99.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 10 ###
+  
+ # появление раскопок
+ apsr_arcrel.1000.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1000.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1000.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1000.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr10_archsite:0 "$apsr1_archsite$"
+ apsr10_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1001.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1001.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1001.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1002.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1002.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1002.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1003.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1003.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1003.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1004.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1004.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1004.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1005.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1005.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1005.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.1005.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.1009.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1009.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1009.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1009.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1009.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1009.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1009.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1009.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1009.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1009.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 11 ###
+  
+ # появление раскопок
+ apsr_arcrel.1100.title:0 "不合理的萤火虫"
+ apsr_arcrel.1100.desc_no_cube:0 "在观察§H[event_target:apsr11_planet_target.GetName]§!星球上的萤火虫时，可以肯定的是它们有一个集体意识的开端。然而，研究人员怀疑这是生物进化的结果。对遗传链的仔细分析表明，在某些地方可以找到外来干扰的痕迹。\n也许在这个星球上还有那些创造萤火虫的人的痕迹。"
+ apsr_arcrel.1100.desc_have_cube:0 "在观察§H[event_target:apsr11_planet_target.GetName]§!星球上的萤火虫时，可以肯定的是它们有一个集体意识的开端。然而，研究人员怀疑这是生物进化的结果。对遗传链的仔细分析表明，在某些地方可以找到外来干扰的痕迹。\n也许在这个星球上仍然有创造这些萤火虫的人的手工艺品。你需要找到它们并使用它们。"
+ apsr_arcrel.1100.button:0 "开始"
+ 
+ # раскопки
+ apsr11_archsite:0 "萤火虫群"
+ apsr11_archsite_desc:0 "$apsr_arcrel.1100.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.1101.title:0 "扫描"
+ apsr_arcrel.1101.desc:0 "由于扫描仪的使用能够穿透星球表面的厚度，几乎可以穿透到行星的最核心，探索了行星的五个部分中的第一个部分。\n不幸的是，结果是完全否定的-没有发现任何东西。\n科学家们调整到扫描第二部分。"
+ apsr_arcrel.1101.button:0 "继续"
+  
+ # Этап 2
+ apsr_arcrel.1102.title:0 "$apsr_arcrel.1101.title$"
+ apsr_arcrel.1102.desc:0 "完成了对地球五个区中的第二个部分的扫描。\n就像上次一样，什么也没发现。还剩下三个部分，也许还有新的发现在等着我们。"
+ apsr_arcrel.1102.button:0 "继续"
+  
+ # Этап 3
+ apsr_arcrel.1103.title:0 "$apsr_arcrel.1101.title$"
+ apsr_arcrel.1103.desc:0 "完成了对星球第三部分的扫描。又什么发现都没有。\n一些科学家认为搜索毫无意义。但尽管仍有两个未经证实的领域 - 绝大多数人对结果充满信心。"
+ apsr_arcrel.1103.button:0 "继续"
+  
+ # Этап 4
+ apsr_arcrel.1104.title:0 "$apsr_arcrel.1101.title$"
+ apsr_arcrel.1104.desc:0 "星球的第四部分已经得到证实，但什么也没有发现。科学家们开始感到绝望，所有的希望都只在最后的第五部分。"
+ apsr_arcrel.1104.button:0 "继续"
+  
+ # Этап 5
+ apsr_arcrel.1105.title:0 "空的希望"
+ apsr_arcrel.1105.desc:0 "星球的最后一部分被用来寻找古人的踪迹，但一切都是徒劳的 - 扫描仪显示出绝对没有偏离正常水平。参与搜索的科学家们放弃了搜索尝试，回到了之前的工作中。但并不是所有的人都这样做 - [Root.GetLeaderName]和几个志同道合的人，坚信星球上有古人的痕迹，收集了所有收到的信息并进行了彻底的分析。"
+ apsr_arcrel.1105.button:0 "万一他们成功了呢?"
+  
+ # Этап 6
+ apsr_arcrel.1106.title:0 "新的希望"
+ apsr_arcrel.1106.desc:0 "[Root.GetLeaderName]和他们的团队出色地分析了大量的信息。在鲁泽尔塔，他们在其中一个部门找到了一个位置，虽然指标在正常范围内，但与其他扫描结果略有不同。他和他的团队已经搬到现场开始挖掘。"
+ apsr_arcrel.1106.button:0 "很好"
+  
+ # Этап 7
+ apsr_arcrel.1107.title:0 "古人的痕迹"
+ apsr_arcrel.1107.desc:0 "[Root.GetLeaderName]是正确的!在他发现的地方，他们真的发现了一个奇怪的物体 - 一个立方体，它的核心发出柔和的白光。他被带到星球表面进行研究。"
+ apsr_arcrel.1107.button:0 "$apsr_arcrel.208.button$"
+ apsr_arcrel.1107.tooltip:0 "$apsr_arcrel.208.tooltip$"
+  
+ # Получение реликвии
+ apsr_arcrel.1109.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1109.desc_no_cube_and_flag:0 "分析在§H[event_target:apsr11_planet_target.GetName]§!行星上发现的远古遗迹它是星际通讯的一个点，作用于一个我们不知道的原理，因此得名§Y$relic_apsr_cube$§!，科学家声称他们可以激活立方体，我们可以试着联系外星人。"
+ apsr_arcrel.1109.desc_no_cube_have_flag:0 "分析在§H[event_target:apsr11_planet_target.GetName]§!星球上发现的远古遗迹。根据报告，这个立方体是我们曾经拥有的另一个§Y通信立方体§!的精确副本。"
+ apsr_arcrel.1109.desc_have_cube_and_flag:0 "分析在§H[event_target:apsr11_planet_target.GetName]§!星球上发现的远古遗迹。根据报告，这个立方体是另一个§Y通信立方体§!的精确副本，我们已经拥有。"
+ apsr_arcrel.1109.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1109.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1109.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1109.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1109.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1109.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 12 ###
+  
+ # появление раскопок
+ apsr_arcrel.1200.title:0 "信号"
+ apsr_arcrel.1200.desc_no_cube:0 "自从我们发现频率异常以来，已经过去了很长一段时间，科学家们一直在试图形成一个关于其工作原理和发生原因的工作理论。但是解释这一现象的理论并没有被提出。科学家所能做的就是确定通讯设备异常行为的源头在同一个星球上。"
+ apsr_arcrel.1200.desc_have_cube:0 "$apsr_arcrel.1200.desc_no_cube$"
+ apsr_arcrel.1200.button:0 "需要找到原因"
+ 
+ # раскопки
+ apsr12_archsite:0 "$apsr_arcrel.1200.title$"
+ apsr12_archsite_desc:0 "$apsr_arcrel.1200.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.1201.title:0 "搜索"
+ apsr_arcrel.1201.desc:0 "利用通信站的设备，加上专门设计的信号检测模块，科学家们能够计算出异常行为源的精确坐标。不幸的是，它位于星球表面之下。"
+ apsr_arcrel.1201.button:0 "开始挖掘"
+  
+ # Этап 2
+ apsr_arcrel.1202.title:0 "地下综合体"
+ apsr_arcrel.1202.desc:0 "经过几个月的漫长等待，我们终于找到了源头，最后来到了一个陌生的房间。从周围部分保留的元素来看，这是一个高科技休息室。从这个房间里有一条走廊，从那里可以看到一条向两个方向延伸的长长的走廊，里面有通往其他房间的走廊。"
+ apsr_arcrel.1202.button:0 "仔细看看这个地方。"
+  
+ # Этап 3
+ apsr_arcrel.1203.title:0 "地下综合体"
+ apsr_arcrel.1203.desc:0 "根据对地下综合设施的检查结果，编制了一份报告:\n- 检查了183个不同的房间;\n- 发现47扇紧闭的门;\n- 39个仍在运行的安全系统陷阱被拆除;\n- 发现了2576具尸体;\n- 从95个终端读取信息。\n收集到的信息让我们可以得出结论，这是古代帝国的一个重要军事综合体，但这里没有重要的信息 - 这些房间是服务人员使用的。所有的乐趣都在紧锁的门后。"
+ apsr_arcrel.1203.button:0 "打开所有的门!"
+  
+ # Этап 4
+ apsr_arcrel.1204.title:0 "地下综合体"
+ apsr_arcrel.1204.desc:0 "正如所料,更有趣的事情被发现在锁着的门后面,几千人的遗骸部分保存形式和军衔的迹象,复杂的控制终端,和最重要的信息,它是一个巨大的军事复杂银河通信使用的古老帝国,并提供覆盖整个星系。很多有用的信息也被发现了，但是大部分都被这个综合体本身的高级指挥摧毁了，我们不可能确切地了解这里发生了什么。另外，值得突出显示关于某个«立方体»的信息，该«立方体»只包含它的位置，没有其他内容。"
+ apsr_arcrel.1204.button:0 "找到他"
+  
+ # Этап 5
+ apsr_arcrel.1205.title:0 "大厅"
+ apsr_arcrel.1205.desc:0 "在综合大楼的大厅里，确实发现了一个立方体物体，它的核心发出白色的脉动脉冲。根据一组从事该人工制品研究的科学家的说法，如果不破坏频率异常的运行机制，就不能将该人工制品移出其所在位置，因此«立方体»的研究和可能的使用只能在此进行。"
+ apsr_arcrel.1205.button:0 "研究它"
+ apsr_arcrel.1205.tooltip:0 "我们的科学家将研究发现的«立方体»。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.1209.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1209.desc_no_cube_and_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr12_planet_target.GetName]§!上，是一个星际通讯点，作用原理我们不知道。通过实验，激活立方体的方法已经开发出来，正因为如此，我们可以试着联系一些人。"
+ apsr_arcrel.1209.desc_no_cube_have_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr12_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!,我们曾经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.1209.desc_have_cube_and_flag:0 "收到一份关于立方体研究结果的报告，位于行星§H[event_target:apsr12_planet_target.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!，我们已经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.1209.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1209.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1209.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1209.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1209.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1209.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 13 ###
+  
+ # появление раскопок
+ apsr_arcrel.1300.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1300.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1300.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1300.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr13_archsite:0 "$apsr1_archsite$"
+ apsr13_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1301.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1301.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1301.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1302.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1302.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1302.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1303.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1303.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1303.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1304.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1304.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1304.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1305.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1305.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1305.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.1305.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.1309.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1309.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1309.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1309.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1309.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1309.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1309.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1309.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1309.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1309.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 14 ###
+  
+ # появление раскопок
+ apsr_arcrel.1400.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1400.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1400.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1400.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr14_archsite:0 "$apsr1_archsite$"
+ apsr14_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1401.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1401.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1401.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1402.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1402.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1402.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1403.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1403.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1403.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1404.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1404.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1404.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1405.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1405.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1405.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.1405.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.1409.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1409.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1409.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1409.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1409.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1409.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1409.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1409.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1409.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1409.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 15 ###
+  
+ # появление раскопок
+ apsr_arcrel.1500.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1500.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1500.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1500.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr15_archsite:0 "$apsr1_archsite$"
+ apsr15_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1501.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1501.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1501.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1502.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1502.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1502.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1503.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1503.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1503.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1504.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1504.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1504.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1505.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1505.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1505.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.1505.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.1509.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1509.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1509.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1509.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1509.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1509.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1509.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1509.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1509.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1509.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 16 ###
+ # BY Dimuch62 and Kusok Zemli 
+  
+ # появление раскопок
+ apsr_arcrel.1600.title:0 "坐标"
+ apsr_arcrel.1600.desc_no_cube:0 "我们的传感器探测到来自地球的微弱的、几乎无法察觉的信号。[event_target:apsr16_planet_target.GetName]。该信号没有任何加密。这个信号包含了我们州语言中的一条信息:<<我们在等你>>，它带有行星坐标，记录在一个未知的标准中。我们需要算出标准是什么坐标指向哪里。"
+ apsr_arcrel.1600.desc_have_cube:0 "$apsr_arcrel.1600.desc_no_cube$"
+ apsr_arcrel.1600.button:0 "开始"
+ 
+ # раскопки
+ apsr16_archsite:0 "古代图书馆"
+ apsr16_archsite_desc:0 "$apsr_arcrel.1600.desc_no_cube$"
+  
+ # Этап 1
+ apsr_arcrel.1601.title:0 "坐标"
+ apsr_arcrel.1601.desc:0 "一组在星球表面进行工作的科学家报告说，他们已经收到了关于在信息中写入坐标的标准的信息，现在他们知道这个地方的位置。但是坐标绝对是空的。尽管明显没有感兴趣的物体，但对地形的额外扫描是必要的，它可以带来一些结果。"
+ apsr_arcrel.1601.button:0 "开始"
+  
+ # Этап 2
+ apsr_arcrel.1602.title:0 "过度"
+ apsr_arcrel.1602.desc:0 "该地区的地形扫描没有带来结果。但是我们的科学家，在这个地区的一次徒步旅行中，遇到了一种奇怪的地表下的热辐射，它很像通风井的辐射，很有可能是。你必须派钻井队到超调的地方去"
+ apsr_arcrel.1602.button:0 "有趣"
+  
+ # Этап 3
+ apsr_arcrel.1603.title:0 "发现"
+ apsr_arcrel.1603.desc_dg:0 "控制钻井的一名工程师疏忽大意，不慎掉入一股强大的水蒸气中，使该地区的宇航服融化，工程师受了重伤。他立即被送往野战医院，随后被送往医疗中心进行进一步的长期治疗，但总的来说，钻孔是成功的。这真是个通风井。无人机向其发送了很长一段时间的数据，但没有到达底部，就断开了连接。我们派探险队去那里。"
+ apsr_arcrel.1603.desc_m:0 "由于疏忽大意，其中一架控制钻井的工蜂陷入强大的水蒸气喷射，融化了机箱前的外部保护装置。其他工蜂立即被派去修理，但总的来说，钻井作业是成功的。这真是个通风井。这架无人侦察机向它发送了很长一段时间的数据，但没有到达底部，就断开了连接。我们派探险队去那里。"
+ apsr_arcrel.1603.button:0 "有趣"
+  
+ # Этап 4
+ apsr_arcrel.1604.title:0 "档案"
+ apsr_arcrel.1604.desc_dg:0 "经过几个月的下降，我们的探险队到达了底部。两名科学家被杀，他们的尸体在电缆的帮助下被立即抬到地面。我们从引擎室经过一段距离后，发现了令人难以置信的东西。我们试图与地面上的同事取得联系，但内部的某些东西淹没了所有的沟通渠道。在另一次建立联系的尝试失败后，强大的探照灯从四面八方照亮了我们。我意识到我们身处一个巨大的球形房间，墙壁里有几十个，甚至几十万个信息载体，它们都是由我们已知和未知的各种文明开发出来的。我们每个人都感觉到了大脑的声音，并意外地被要求与我们联系。"
+ apsr_arcrel.1604.desc_m:0 "经过几个月的下降，我们的探险队到达了底部。两个研究单元被击落，它们的外壳在电缆的帮助下立即被打捞到水面。我们从引擎室经过一段距离后，发现了令人难以置信的东西。我们试图与地面上的同事取得联系，但内部的某些东西淹没了所有的沟通渠道。在另一次建立联系的尝试失败后，强大的探照灯从四面八方照亮了我们。我们意识到我们是在一个巨大的球形房间里，在这个房间的墙壁上有几十个，如果不是成千上万的信息载体，是由各种已知的和未知的我们文明发展起来的。每个单元都能感觉到处理器的声音，出乎意料的是，它们和我们一起请求连接。"
+ apsr_arcrel.1604.button:0 "接受请求"
+
+ # Окно Архивариуса
+ apsr_arcrel.1605.title:0 "古代档案管理员"
+ apsr_arcrel.1605.desc:0 "我代表档案管理员协会向您致意!我们是科学部长和银河历史的守护者。我们是文明的代表，每个物种都有不同的名称，你知道我们是古人。我是一个确切的副本的最后代表秩序的意识。我可以讲很多关于现存文明和现存文明历史的有趣的事情。你想知道什么??"
+ apsr_arcrel.1605.button1:0 "我们对古人的文明感兴趣。告诉我更多关于你的种族。"
+ apsr_arcrel.1605.button1.response:0 "噢…你展示了我们自己的好奇心。好奇心导致对未知的理解。但即使我们在这方面有相似之处，我也不能与你们分享这一信息。你还没有准备好正确地感知它。"
+ apsr_arcrel.1605.button2:0 "我们关心的是我们感兴趣的先驱者。"
+ apsr_arcrel.1605.button2.response:0 "对消失的文明感兴趣?我有你需要的东西。\n\n接收到的关于先驱者遗物位置的信息"
+ apsr_arcrel.1605.button3:0 "告诉我们任何未知文明的故事"
+ apsr_arcrel.1605.button3.response:0 "我们需要讲很多，但是要理解我将要讲的，需要更多的时间…我把所有的关键信息都告诉你。\n\n资源收到: §G+5000§! £society£ $SOCIETY_RESEARCH$"
+ apsr_arcrel.1605.buttonbuy:0 "我们非常感谢你提供这么有价值的信息。再见!"
+ 
+ # Получение реликвии
+ apsr_arcrel.1609.title:0 "档案管理员的礼物"
+ apsr_arcrel.1609.desc_no_cube_and_flag:0 "复杂管理员副本的最后控制意识不仅帮助上升到表面,还做了一个礼物 - 提供了获取储存在这颗行星上的远古人工制品的途径 - 通信立方体，它代表着星际通讯的起点，它根据一项我们不知道的原则运作，以及激活它的方法。正因为如此，我们可以试着联系一些外星人。"
+ apsr_arcrel.1609.desc_no_cube_have_flag:0 "复杂管理员副本的最后控制意识不仅帮助上升到表面,还做了一个礼物 - 提供了获取储存在这颗行星上的远古人工制品的途径 - 通信立方体，类似于我们曾经拥有的东西。"
+ apsr_arcrel.1609.desc_have_cube_and_flag:0 "复杂管理员副本的最后控制意识不仅帮助上升到表面,还做了一个礼物 - 提供了获取储存在这颗行星上的远古人工制品的途径 - 通信立方体，就像我们所拥有的一样。"
+ apsr_arcrel.1609.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1609.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1609.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1609.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1609.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1609.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 17 ###
+ # BY APUCTOKPAT & Dimuch62 
+  
+ # появление раскопок
+ apsr_arcrel.1700.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1700.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1700.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1700.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr17_archsite:0 "$apsr1_archsite$"
+ apsr17_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1701.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1701.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1701.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1702.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1702.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1702.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1703.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1703.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1703.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1704.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1704.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1704.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1705.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1705.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1705.button:0 "$apsr_arcrel.105.button$"
+  
+ # Этап 6
+ apsr_arcrel.1706.title:0 "哎哟..."
+ apsr_arcrel.1706.desc:0 "在搜索这个建筑群时，科学家们突然在走廊的墙壁上发现了一个秘密通道，通道后面是一个带有简单控制面板的小仓库。遥控器上有一个很大的伸出按钮，上面有某种符号和许多小按钮。在仓库里发现了很多有趣和引人注目的图纸，这个建筑的图纸就在那里!其中一名科学家从遥控器旁经过，不小心碰到了无处不在的垃圾，按下了遥控器上的按钮。一些符号出现在屏幕上，警报器尖叫起来。\n在一片恐慌中，科学家们不得不撤离这座建筑，同时也不忘尽可能多地拿起一些图纸。过了一段时间，一声巨大的爆炸声响起，完全摧毁了通往发电机房的通道。"
+ apsr_arcrel.1706.button:0 "该死!"
+  
+ # Этап 7
+ apsr_arcrel.1707.title:0 "一切都完了!"
+ apsr_arcrel.1707.desc:0 "分析这些堵塞花了很多时间。不幸的是，整个小型的地下综合设施被爆炸摧毁，似乎无法对建筑内的设备进行分析。\n但也有好消息!科学家们是正确的。他们对保存的图纸进行了翻译和研究，其中有一幅图纸是之前提出的功率放大器!现在，在更详细地研究了这些图之后，我们可以开始积极地使用它们了。据估计，能源复合体的性能将提高50%!\n另一个奇怪的蓝图被发现了……这是一种只能由能量配合物供电的通信设备。不久，我们的科学家和设计师将致力于它的创造。"
+ apsr_arcrel.1707.button:0 "很好"
+ apsr_arcrel.1707.tooltip:0 "Our scientists will study the information found. The results of the study will be announced later."
+ 
+ # Получение реликвии
+ apsr_arcrel.1709.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1709.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1709.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1709.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1709.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1709.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1709.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1709.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1709.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1709.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 18 ###
+ # BY APUCTOKPAT & Dimuch62 
+  
+ # появление раскопок
+ apsr_arcrel.1800.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1800.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1800.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1800.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr18_archsite:0 "$apsr1_archsite$"
+ apsr18_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1801.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1801.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1801.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1802.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1802.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1802.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1803.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1803.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1803.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1804.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1804.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1804.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1805.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1805.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1805.button:0 "$apsr_arcrel.105.button$"
+  
+ # Этап 6
+ apsr_arcrel.1806.title:0 "启动"
+ apsr_arcrel.1806.desc:0 "成功了!内核再次启动。分析人士预测，星球上远古采矿复合体的生产力将提高约50%!\n然而，显然，内核不仅可以用来寻找矿物，而且还可以用作通信设备。在控制面板的记忆中发现了一些关于这个的信息，特别是激活一个通信通道的方法。有些信息仍在解密中。"
+ apsr_arcrel.1806.button:0 "很好"
+ apsr_arcrel.1806.tooltip:0 "内核信息被加密。解密完成后，将提供一份报告。"
+ 
+ # Получение реликвии
+ apsr_arcrel.1809.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1809.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1809.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1809.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1809.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1809.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1809.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1809.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1809.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1809.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 19 ###
+ # BY APUCTOKPAT & Dimuch62 
+  
+ # появление раскопок
+ apsr_arcrel.1900.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.1900.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.1900.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.1900.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr19_archsite:0 "$apsr1_archsite$"
+ apsr19_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.1901.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.1901.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.1901.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.1902.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.1902.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.1902.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.1903.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.1903.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.1903.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.1904.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.1904.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.1904.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.1905.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.1905.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.1905.button:0 "$apsr_arcrel.105.button$"
+  
+ # Этап 6
+ apsr_arcrel.1906.title:0 "秘密"
+ apsr_arcrel.1906.desc:0 "第三扇门被凿开了。在里面，灯亮了!事实证明，这不仅仅是一个实验室。这个房间有独立的能源。里面有许多紧密固定的胶囊，沿着墙壁安装。在房间的中央有一个终端。科学家们认为，这个容器只是在实验室的幌子下隐藏着，有着完全不同的含义。是时候了解这个故事的所有秘密了。"
+ apsr_arcrel.1906.button:0 "继续进行"
+  
+ # Этап 7
+ apsr_arcrel.1907.title:0 "化肥"
+ apsr_arcrel.1907.desc:0 "打开终端，结果发现这实际上是一个相同的终端，在古代实验室里。需要一个访问密码，这是在综合数据库中指定的。里面有很多关于植物学的信息，有一个黑匣子和关于胶囊的信息。令人难以置信的是，这些太空舱本应落入复杂的环境中进行实验，但携带容器的飞船却被击落。胶囊里是新一代的肥料，不适合使用，但在数据库里有一个制造奇迹的配方。不知道为什么古人对这样一种重要的产品的交付如此疏忽大意，但它给我们带来了好处。据快速分析，这些肥料将使我们工厂的生产率提高约50%\n记录还发现，安装在容器中的自动能源可以用于获得某个«最后的机会»。这就需要它连接到远古时代的食物复合体的末端。科学家们已经在使转换装置适应我们的技术。"
+ apsr_arcrel.1907.button:0 "很好!"
+ apsr_arcrel.1907.tooltip:0 "连接能源的结果将在稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.1909.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.1909.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.1909.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.1909.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.1909.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.1909.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.1909.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.1909.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.1909.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.1909.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 20 ###
+  
+ # появление раскопок
+ apsr_arcrel.2000.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.2000.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.2000.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.2000.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr20_archsite:0 "$apsr1_archsite$"
+ apsr20_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.2001.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.2001.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.2001.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.2002.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.2002.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.2002.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.2003.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.2003.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.2003.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.2004.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.2004.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.2004.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.2005.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.2005.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.2005.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.2005.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.2009.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.2009.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.2009.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.2009.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.2009.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.2009.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.2009.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.2009.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.2009.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.2009.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 21 ###
+  
+ # появление раскопок
+ apsr_arcrel.2100.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.2100.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.2100.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.2100.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr21_archsite:0 "$apsr1_archsite$"
+ apsr21_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.2101.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.2101.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.2101.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.2102.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.2102.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.2102.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.2103.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.2103.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.2103.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.2104.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.2104.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.2104.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.2105.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.2105.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.2105.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.2105.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.2109.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.2109.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.2109.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.2109.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.2109.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.2109.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.2109.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.2109.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.2109.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.2109.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 22 ###
+  
+ # появление раскопок
+ apsr_arcrel.2200.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.2200.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.2200.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.2200.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr22_archsite:0 "$apsr1_archsite$"
+ apsr22_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.2201.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.2201.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.2201.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.2202.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.2202.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.2202.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.2203.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.2203.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.2203.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.2204.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.2204.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.2204.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.2205.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.2205.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.2205.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.2205.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.2209.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.2209.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.2209.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.2209.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.2209.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.2209.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.2209.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.2209.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.2209.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.2209.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 23 ###
+  
+ # появление раскопок
+ apsr_arcrel.2300.title:0 "$apsr_arcrel.100.title$"
+ apsr_arcrel.2300.desc_no_cube:0 "$apsr_arcrel.100.desc_no_cube$"
+ apsr_arcrel.2300.desc_have_cube:0 "$apsr_arcrel.100.desc_have_cube$"
+ apsr_arcrel.2300.button:0 "$apsr_arcrel.100.button$"
+ 
+ # раскопки
+ apsr23_archsite:0 "$apsr1_archsite$"
+ apsr23_archsite_desc:0 "$apsr1_archsite_desc$"
+  
+ # Этап 1
+ apsr_arcrel.2301.title:0 "$apsr_arcrel.101.title$"
+ apsr_arcrel.2301.desc:0 "$apsr_arcrel.101.desc$"
+ apsr_arcrel.2301.button:0 "$apsr_arcrel.101.button$"
+  
+ # Этап 2
+ apsr_arcrel.2302.title:0 "$apsr_arcrel.102.title$"
+ apsr_arcrel.2302.desc:0 "$apsr_arcrel.102.desc$"
+ apsr_arcrel.2302.button:0 "$apsr_arcrel.102.button$"
+  
+ # Этап 3
+ apsr_arcrel.2303.title:0 "$apsr_arcrel.103.title$"
+ apsr_arcrel.2303.desc:0 "$apsr_arcrel.103.desc$"
+ apsr_arcrel.2303.button:0 "$apsr_arcrel.103.button$"
+  
+ # Этап 4
+ apsr_arcrel.2304.title:0 "$apsr_arcrel.104.title$"
+ apsr_arcrel.2304.desc:0 "$apsr_arcrel.104.desc$"
+ apsr_arcrel.2304.button:0 "$apsr_arcrel.104.button$"
+  
+ # Этап 5
+ apsr_arcrel.2305.title:0 "$apsr_arcrel.105.title$"
+ apsr_arcrel.2305.desc:0 "$apsr_arcrel.105.desc$"
+ apsr_arcrel.2305.button:0 "$apsr_arcrel.105.button$"
+ apsr_arcrel.2305.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ 
+ # Получение реликвии
+ apsr_arcrel.2309.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.2309.desc_no_cube_and_flag:0 "$apsr_arcrel.109.desc_no_cube_and_flag$"
+ apsr_arcrel.2309.desc_no_cube_have_flag:0 "$apsr_arcrel.109.desc_no_cube_have_flag$"
+ apsr_arcrel.2309.desc_have_cube_and_flag:0 "$apsr_arcrel.109.desc_have_cube_and_flag$"
+ apsr_arcrel.2309.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.2309.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.2309.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.2309.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.2309.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.2309.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+
+
+
+
+ ### 24 ###
+  
+ # появление раскопок
+ apsr_arcrel.2400.title:0 "神器"
+ apsr_arcrel.2400.desc_no_cube:0 "在我们观察§Y«魔符复合体»§!的过程中，绝对没有什么值得报道的有趣的事情发生。然而，最近几天，只有在«盒子»内的设备捕捉到了一个奇怪的信号，而且仅仅是在资源出现之前的几分钟。通过实验，科研人员计算出信号源就在这个星球上。"
+ apsr_arcrel.2400.desc_have_cube:0 "在我们观察§Y«魔符复合体»§!的过程中，绝对没有什么值得报道的有趣的事情发生。然而，最近几天，类似于§Y$relic_apsr_cube$§!的信号只在«盒子»内的设备中捕获到，而且只在资源出现之前的几分钟内捕获到。通过实验，科研人员计算出信号源就在这个星球上。"
+ apsr_arcrel.2400.button:0 "开始搜索"
+ 
+ # раскопки
+ apsr24_archsite:0 "魔符"
+ apsr24_archsite_desc:0 "最近几天，在«盒子»内的设备捕捉到了一个奇怪的信号，而且仅仅在资源出现之前的几分钟。通过实验，科研人员计算出信号源就在这个星球上。"
+  
+ # Этап 1
+ apsr_arcrel.2401.title:0 "搜索"
+ apsr_arcrel.2401.desc:0 "在§H[event_target:apsr24_planet_target.GetName]§!行星经过几个月的搜索，信号源的位置被精确地确定了。它位于星球表面以下相当深的地方。还在周边地区发现了白果洞，可能有来源。"
+ apsr_arcrel.2401.button:0 "挖掘它"
+  
+ # Этап 2
+ apsr_arcrel.2402.title:0 "向下运动"
+ apsr_arcrel.2402.desc:0 "在过去的几个月里，我们的研究人员已经找到了信号的来源。目前还没有看到任何变化。"
+ apsr_arcrel.2402.button:0 "继续"
+  
+ # Этап 3
+ apsr_arcrel.2403.title:0 "信号"
+ apsr_arcrel.2403.desc:0 "当我们的研究人员几乎到达地下洞穴时，监测到的信号发生了变化。书中出现的元素很快就被破译了，好像是有意的。结果的消息是一种邀请。"
+ apsr_arcrel.2403.button:0 "我们不会再等了"
+  
+ # Этап 4
+ apsr_arcrel.2404.title:0 "地下之城"
+ apsr_arcrel.2404.desc:0 "一组研究人员报告说，他们到达了未知信号发出的地方。这是一个被毁坏的地下城市，几乎完全在岩石层之下。信号源位于离研究人员进入点很远的地方，在不久的将来，将对这个地方的安全进行评估，之后将继续进行工作。"
+ apsr_arcrel.2404.button:0 "继续"
+  
+ # Этап 5
+ apsr_arcrel.2405.title:0 "立方体"
+ apsr_arcrel.2405.desc:0 "研究人员找到了信号的来源 - 原来是一个巨大的立方体，悬挂在空中，其核心发出柔和的白光。根据一项粗略研究的结果，科学家们得出结论，这个立方体不能移动到另一个地方，因为它与这颗行星空间中的一个点相连，而正是他负责在“魔符复合体”中生成资源。随着立方体继续发出信号，研究人员能够记录下来，并将其转移到其他实验室进行分析和解释。"
+ apsr_arcrel.2405.button:0 "优秀"
+ apsr_arcrel.2405.tooltip:0 "我们的科学家将研究发现的立方体。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.2409.title:0 "$apsr_arcrel.109.title$"
+ apsr_arcrel.2409.desc_no_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr24_resource_planet.GetName]§!。根据他的说法，立方体代表着星际通讯的一个点，而这个点的作用原理是我们所不知道的。还在信号中发现了加密的推荐激活的建议，感谢他们，我们可以试着联系外星人。"
+ apsr_arcrel.2409.desc_no_cube_have_flag:0 "收到一份关于立方体在§H[event_target:apsr24_resource_planet.GetName]§!。据他说，这个立方体是我们曾经拥有的另一个§Y通信立方体§!的复制品。没有发现比这更有趣的了。"
+ apsr_arcrel.2409.desc_have_cube_and_flag:0 "收到一份关于立方体在§H[event_target:apsr24_resource_planet.GetName]§!。据他说，这个立方体是另一个§Y通信立方体§!，我们已经拥有。没有发现更多的东西。"
+ apsr_arcrel.2409.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.2409.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.2409.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.2409.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.2409.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.2409.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+ 
+ 
+ 
+ 
+ 
+ ### Получение и потеря Куба при захвате или торговле планеты
+  
+ # Получение реликвии
+ apsr_arcrel.2.title:0 "$relic_apsr_cube$"
+ apsr_arcrel.2.desc_no_cube_and_flag:0 "收到新殖民地发来的紧急报告。据他说，在这颗行星上发现了§Y$relic_apsr_cube$§! - 一种可以用作星际通讯点的遗迹，它的作用原理我们还不知道。我们也找到了激活立方体的方法，多亏了他们，我们可以试着联系一些人。"
+ apsr_arcrel.2.desc_no_cube_have_flag:0 "收到新殖民地发来的紧急报告。据他说，这颗行星发现了§Y$relic_apsr_cube$§!，而这个立方体是另一个§Y$relic_apsr_cube$§!的精确复制品,我们曾经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.2.desc_have_cube_and_flag:0 "收到新殖民地发来的紧急报告。据他说，在行星上发现的是§Y$relic_apsr_cube$§!而这个立方体是另一个§Y$relic_apsr_cube$§!的精确副本，我们已经拥有。没有发现比这更有趣的了。"
+ apsr_arcrel.2.button_no_cube_and_flag:0 "$apsr_arcrel.109.button_no_cube_and_flag$"
+ apsr_arcrel.2.tooltip_no_cube_and_flag:0 "$apsr_arcrel.109.tooltip_no_cube_and_flag$"
+ apsr_arcrel.2.button_no_cube_have_flag:0 "$apsr_arcrel.109.button_no_cube_have_flag$"
+ apsr_arcrel.2.tooltip_no_cube_have_flag:0 "$apsr_arcrel.109.tooltip_no_cube_have_flag$"
+ apsr_arcrel.2.button_have_cube_and_flag:0 "$apsr_arcrel.109.button_have_cube_and_flag$"
+ apsr_arcrel.2.tooltip_have_cube_and_flag:0 "$apsr_arcrel.109.tooltip_have_cube_and_flag$"
+  
+ # Потеря реликвии, но есть запасная
+ apsr_arcrel.4.title:0 "$relic_apsr_cube$"
+ apsr_arcrel.4.desc:0 "由于最近的敌对行动，我们失去了对§Y$relic_apsr_cube$§!所在星球的控制。幸运的是，我们有其他星球也有这个遗迹，我们可以继续使用它。"
+ apsr_arcrel.4.button:0 "悲惨的处境"
+ apsr_arcrel.4.tooltip:0 "§R所有带遗迹的行星的丢失将导致§Y$relic_apsr_cube$§!的丢失!§!"
+  
+ # Потеря реликвии, нет запасных
+ apsr_arcrel.5.title:0 "$relic_apsr_cube$"
+ apsr_arcrel.5.desc:0 "由于最近的敌对行动，我们失去了对§Y$relic_apsr_cube$§!所在星球的控制。不幸的是，我们再也没有带着这个遗迹的行星了，我们也失去了使用它的途径。"
+ apsr_arcrel.5.button:0 "需要返回星球!"
+ apsr_arcrel.5.tooltip:0 "§R遗迹§Y$relic_apsr_cube$§!不能再使用，直到与此遗迹的行星被分配!§!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### ВРЕМЕННАЯ ВЕРСИЯ РАСКОПОК
+  
+ # появление раскопок
+ apsr_arcrel.90.title:0 "模糊的暗示"
+ apsr_arcrel.90.desc_no_cube:0 "最近，在我们的一个星球上对一种独特资源的利用进行了建筑改进之后，我们发现了一些模糊的迹象，表明这个星球上有一些有趣的东西。现在还不可能说什么具体的话;需要派一位科学家去进行挖掘工作。"
+ apsr_arcrel.90.desc_have_cube:0 "最近，在我们的一个星球上对一种独特资源的利用进行了建筑改进之后，我们发现了一些模糊的迹象，表明这个星球上有一些有趣的东西。这与我们发现的导致发现遗迹的线索非常相似。在这个星球上进行挖掘工作是必须的。"
+ apsr_arcrel.90.button:0 "开始"
+ 
+ # раскопки
+ apsr99_archsite:0 "模糊的暗示"
+ apsr99_archsite_desc:0 "在利用星球上独一无二的资源的过程中，我们发现了一些线索，表明这里还有别的东西。因为搜寻工作需要组织挖掘。"
+  
+ # Этап 1
+ apsr_arcrel.91.title:0 "开始挖掘"
+ apsr_arcrel.91.desc:0 "我们的科学家们开始挖掘时，先检查了行星上可能存在的未知物体的迹象。这项工作的结果是对它的可用性完全有信心。"
+ apsr_arcrel.91.button:0 "开始挖掘"
+  
+ # Этап 2
+ apsr_arcrel.92.title:0 "向下运动"
+ apsr_arcrel.92.desc:0 "揭示了目标物体的大致位置后。一群科学家和考古学家开始深入研究这颗行星。据报道，随着我们的移动，我们的传感器开始接收来自地面的一个非常微弱的信号。"
+ apsr_arcrel.92.button:0 "继续前进"
+  
+ # Этап 3
+ apsr_arcrel.93.title:0 "未知信号"
+ apsr_arcrel.93.desc:0 "一种来自地面的奇怪信号的急剧放大。这发生在下一步扫描地下地形的程序之后。看起来目标物体感觉到了我们。"
+ apsr_arcrel.93.button:0 "激活安全协议代码CH-6-2"
+  
+ # Этап 4
+ apsr_arcrel.94.title:0 "地下城市"
+ apsr_arcrel.94.desc:0 "一组研究人员报告说，他们到达了未知信号发出的地方。这是一个被摧毁的地下城市，几乎完全在岩石层下面。信号源位于研究人员进入点的一段距离，在不久的将来，将对这个地方的安全进行评估，然后继续工作。"
+ apsr_arcrel.94.button:0 "继续前进"
+  
+ # Этап 5
+ apsr_arcrel.95.title:0 "立方体"
+ apsr_arcrel.95.desc:0 "研究人员找到了信号的来源 - 原来是一个巨大的立方体，悬挂在空中，其核心发出柔和的白光。根据粗略研究的结果，科学家们得出结论，这个立方体不能移动到另一个地方，因为它与这个行星空间中的一个点相连。随着立方体继续发出信号，研究人员能够记录下来，并将其传送到其他实验室进行分析和解释。"
+ apsr_arcrel.95.button:0 "很好"
+ apsr_arcrel.95.tooltip:0 "我们的科学家将研究记录的信号。研究结果将于稍后公布。"
+ 
+ # Получение реликвии
+ apsr_arcrel.99.title:0 "通信立方体"
+ apsr_arcrel.99.desc_no_cube_and_flag:0 "收到一份关于分析立方体在我们的一个星球上发出的信号的结果的报告。根据他的说法，立方体是星际通讯的一个点，它的运作原理我们还不知道。同样在信号中，激活立方体的建议被加密了，感谢他们，我们可以试着联系某人。"
+ apsr_arcrel.99.desc_no_cube_have_flag:0 "收到一份关于分析立方体在我们的一个星球上发出的信号的结果的报告。据他说，这个立方体是另一个§Y通信立方体§!，我们曾经拥有它。没有发现更多的东西。"
+ apsr_arcrel.99.desc_have_cube_and_flag:0 "收到一份关于分析立方体在我们的一个星球上发出的信号的结果的报告。据他说，这个立方体是另一个§Y通信立方体§!的精确复制品，我们已经拥有。\n不幸的是，当激活一个古巴，我们的其他立方体也被激活，需要时间来充电，这虽然提供了一个更稳定的连接，但不允许更频繁使用通信立方体。"
+ apsr_arcrel.99.button_no_cube_and_flag:0 "很好!"
+ apsr_arcrel.99.tooltip_no_cube_and_flag:0 "遗物§Y$relic_apsr_cube$§!收到!\n§R注意!这个遗迹在这个星球上，所以这个星球的消失就意味着这个遗迹的消失!§!"
+ apsr_arcrel.99.button_no_cube_have_flag:0 "重启立方体!"
+ apsr_arcrel.99.tooltip_no_cube_have_flag:0 "遗物§Y$relic_apsr_cube$§!收到!\n§R注意!这个遗迹就在这个星球上，正如你所看到的，这个星球的消失意味着这个遗迹的消失。§!"
+ apsr_arcrel.99.button_have_cube_and_flag:0 "很好"
+ apsr_arcrel.99.tooltip_have_cube_and_flag:0 "遗物§Y$relic_apsr_cube$§!已经准备好了。\n§R注意!这个遗迹在这个星球上，所以这个星球的消失就意味着这个遗迹的消失!拥有另一个拥有同样遗迹的行星将会让你避开它。§!"
+ apsr_arcrel.103.desc:0 "从地面发出的一种奇怪信号的急剧放大。这是在下一步扫描地下地形后发生的。看起来目标物体感觉到我们了。"
+ apsr_arcrel.104.desc:0 "一组研究人员报告说，他们到达了未知信号发出的地方。这是一个被毁坏的地下城市，几乎完全在岩石层之下。信号源位于离研究人员进入点很远的地方，在不久的将来，将对这个地方的安全进行评估，之后将继续进行工作。"
+ apsr_arcrel.104.button:0 "继续"
+ apsr_arcrel.105.title:0 "立方体"
+ apsr_arcrel.105.desc:0 "研究人员找到了信号的来源 - 原来是一个巨大的立方体，悬挂在空中，其核心发出柔和的白光。根据一项粗略研究的结果，科学家们得出结论，这个立方体不能移动到另一个地方，因为它与这颗行星空间中的一个点相连。随着立方体继续发出信号，研究人员能够记录下来，并将其转移到其他实验室进行分析和解释。"
+ apsr_arcrel.105.button:0 "优秀"
+ apsr_arcrel.105.tooltip:0 "我们的科学家将研究记录下来的信号。研究结果将于稍后公布。"
+ apsr_arcrel.109.title:0 "通信立方体"
+ apsr_arcrel.109.desc_no_cube_and_flag:0 "收到一份关于分析立方体向我们的一个星球发出的信号的结果的报告。在他看来，立方体是星际通讯的一个点，它的作用原理我们还不知道。同样在信号中，激活立方体的协议是加密的，多亏了他们，我们可以试着联系一些外星人。"
+ apsr_arcrel.109.desc_no_cube_have_flag:0 "收到一份关于分析立方体向我们的一个星球发出的信号的结果的报告。据他说，这个立方体是我们曾经拥有的另一个§Y通信立方体§!的精确副本。仅此而已。"
+ apsr_arcrel.109.desc_have_cube_and_flag:0 "收到一份关于分析立方体向我们的一个星球发出的信号的结果的报告。据他说，这个立方体是另一个§Y通信立方体§!，我们已经有了。什么也没找到。"
+ apsr_arcrel.109.button_no_cube_and_flag:0 "优秀!"
+ apsr_arcrel.109.tooltip_no_cube_and_flag:0 "发现§Y$relic_apsr_cube$§!遗迹!\n§R注意!这个遗迹在这个星球上，所以这个星球的消失就意味着这个遗迹的消失!§!"
+ apsr_arcrel.109.button_no_cube_have_flag:0 "我们归还了立方体"
+ apsr_arcrel.109.tooltip_no_cube_have_flag:0 "发现§Y$relic_apsr_cube$§!遗迹!\n§R注意!这个遗迹在这个星球上，正如你所看到的，这个星球的消失意味着这个遗迹的消失。§!"
+ apsr_arcrel.109.button_have_cube_and_flag:0 "很好"
+ apsr_arcrel.109.tooltip_have_cube_and_flag:0 "遗迹§Y$relic_apsr_cube$§!准备好了\n§R注意!这个遗迹在这个星球上，所以这个星球的消失就意味着这个遗迹的消失!拥有另一颗拥有同样遗迹的行星会让你避开它。§!"
+ apsr_arcrel.1705.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ apsr_arcrel.1805.tooltip:0 "$apsr_arcrel.105.tooltip$"
+ apsr_arcrel.1905.tooltip:0 "$apsr_arcrel.105.tooltip$"

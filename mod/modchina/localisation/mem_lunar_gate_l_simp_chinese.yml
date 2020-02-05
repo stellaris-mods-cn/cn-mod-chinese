@@ -25,7 +25,7 @@
  mem_lunar_gate.5.a:0 "可怕的悲剧。"
  
  mem_lunar_gate.6.name:0 "太阴之门倒塌"
- mem_lunar_gate.6.desc:0 "[mem_lunar_gate_moon.GetName]上太阴之门发生的一次意外变成一场灾难！当我们为传送门进行测试时，其中一个虫洞突然倒塌，形成了一个迷你黑洞，把[mem_lunar_gate_moon.GetName]吞噬掉！不幸地，当黑洞形成时，[This.GetLeaderName]及[This.GetName]上的船员位处于事件视界。不幸中的大幸，黑洞的轨道与[lunar_gate_planet.GetName]之间的作用相对稳定，暂时不会有太大影响。照我们现时的估计，这个新形成的黑洞将不会在几千年以内消失，殖民地的安危亦获得确保。此外，我们可以借此机会对这个黑洞进行研究。"
+ mem_lunar_gate.6.desc:1 "[mem_lunar_gate_moon.GetName]上太阴之门发生的一次意外变成一场灾难！当我们为传送门进行测试时，其中一个虫洞突然倒塌，形成了一个迷你黑洞，把[mem_lunar_gate_moon.GetName]吞噬掉！不幸地，当黑洞形成时，[This.GetLeaderName]及[This.GetName]上的船员位处于事件视界。不幸中的大幸，黑洞的轨道与[lunar_gate_planet.GetName]之间的作用相对稳定，暂时不会有太大影响。照我们现时的估计，这个新形成的黑洞将不会在几千年以内消失，殖民地的安危亦获得确保。此外，我们可以借此机会对这个黑洞进行研究。"
  
  mem_lunar_gate_broken_promise:0 "打破承诺"
  mem_lunar_gate_broken_promise_desc:0 "关于建造太阴之门一事只是空谈一场。"

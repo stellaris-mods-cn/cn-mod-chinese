@@ -7,7 +7,7 @@
  mem_science_convention.1.ayes:0 "极好的主意。"
  mem_sciencecon_1.a.tooltip:1 "科学会议的筹备工作正在进行，将在12个月内完成。"
  mem_sciencecon_1.b.tooltip:1 "科学会议的准备工作正在进行中，将在12个月内完成;同时，我们应该发出邀请。"
- mem_sciencecon_1.c.tooltip:1 "由于资金不足，无法启动科学大会。\nResources required - \n£energy  §Y250§! \n£minerals  §Y250§!"
+ mem_sciencecon_1.c.tooltip:1 "由于资金不足，无法启动科学大会。\n所需资源 - \n£energy  §Y250§! \n£minerals  §Y250§!"
  mem_science_convention.1.ano:0 "唉，我们没有足够的资金来进行这样一个宏大的项目。"
  mem_science_convention.1.b:0 "是的，让我们看看还有谁愿意参加。"
  mem_science_convention.1.c:0 "不，这是一项艰巨的任务。"

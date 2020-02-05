@@ -36,7 +36,3 @@
  # Matrix Complex Description
  d_mem_matrix:0 "神经计算机复合体"
  d_mem_matrix_desc:0 "一个古老的研究复合体-容纳数千个连接的存在-作为一个巨大的计算机工作。"
- building_mem_matrix_building:0 "神经计算机复合体"
- building_mem_matrix_building_desc:0 "一个古老的研究复合体-容纳数千个连接的存在-作为一个巨大的计算机工作。"
- building_mem_matrix_building_replace:0 "神经计算机复合体"
- building_mem_matrix_building_replace_desc:0 "一个古老的研究复合体-容纳数千个连接的存在-作为一个巨大的计算机工作。"

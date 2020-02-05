@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+
+ gbhmc_creep_1:0 "营养蠕变"
+ gbhmc_creep_1_desc:0 "一种心灵感应灵敏的活的超有机体，它慢慢地在每一个表面扩散。"
+ 
+ gbhmc_creep_2:0 "溶解蠕变"
+ gbhmc_creep_2_desc:0 "$gbhmc_creep_1_desc$"
+ 
+ gbhmc_creep_3:0 "消化蠕变"
+ gbhmc_creep_3_desc:0 "$gbhmc_creep_1_desc$"

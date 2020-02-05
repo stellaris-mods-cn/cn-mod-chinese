@@ -8,7 +8,7 @@
  apsr24_planet_modifier_desc:0 "魔符 - 这个星球的非官方名称，由发现者给出。 这个名字的原因不明。\n这个星球有两个独特的特征。 首先，行星的整个表面都异常通电，以及能够直接从陆地获取能量。 其次，奇怪的盒子散布在整个星球上，不时出现各种资源。"
  
  apsr24_deposit:0 "$apsr24_planet_modifier$"
- apsr24_deposit_desc:0 "$apsr24_planet_modifier_desc$\n\n§M$apsr24_deposit_effect$§!" 
+ apsr24_deposit_desc:0 "$apsr24_planet_modifier_desc$\n\n§M$apsr24_deposit_effect$§!"
  apsr24_deposit_effect:0 "独特的资源可用: $apsr24_planet_modifier$"
  
  

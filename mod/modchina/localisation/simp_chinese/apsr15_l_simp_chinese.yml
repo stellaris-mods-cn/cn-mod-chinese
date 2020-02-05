@@ -5,10 +5,10 @@
  ### ресурс
  
  apsr15_planet_modifier:0 "理想场所"
- apsr15_planet_modifier_desc:0 "A perfect place to construct literally any type of building."
+ apsr15_planet_modifier_desc:0 "这里是建造任何建筑的理想场所。"
  
  apsr15_deposit:0 "$apsr15_planet_modifier$"
- apsr15_deposit_desc:0 "$apsr15_planet_modifier_desc$\n\n§M$apsr15_deposit_effect$§!" 
+ apsr15_deposit_desc:0 "$apsr15_planet_modifier_desc$\n\n§M$apsr15_deposit_effect$§!"
  apsr15_deposit_effect:0 "独特的资源可用: $apsr15_planet_modifier$"
  
  
@@ -200,7 +200,7 @@
  apsr.15103.title:0 "发现人造物: §M$apsr15_planet_modifier$§!"
  apsr.15103.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n这颗行星很不寻常——它有肥沃的土壤，丰富的矿物质，还有一个特殊的磁场，应有尽有。在这里，您可以构造一个单元来提取任何类型的资源。"
  apsr.15103.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -273,7 +273,7 @@
  job_apsr15_geologist_machine:0 "物理学单元"
  job_apsr15_geologist_machine_plural:0 "物理学单元"
  job_apsr15_geologist_machine_desc:0 "研究矿物的物理性质、化学成分和矿物组成的特殊无人驾驶飞机模型，分析了在极端深度采矿的方法"
- mod_job_apsr15_geologist_hive_add:0 "物理学单元"
+ mod_job_apsr15_geologist_hive_add:0 "物理学工蜂"
  
  
  

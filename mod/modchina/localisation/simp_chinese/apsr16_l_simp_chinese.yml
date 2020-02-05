@@ -8,7 +8,7 @@
  apsr16_planet_modifier_desc:0 "这整个星球是一个由古老文明收集的知识的整体档案。不幸的是，它很久以前就毁了，但现在有机会修复它。"
  
  apsr16_deposit:0 "$apsr16_planet_modifier$"
- apsr16_deposit_desc:0 "$apsr16_planet_modifier_desc$\n\n§M$apsr16_deposit_effect$§!" 
+ apsr16_deposit_desc:0 "$apsr16_planet_modifier_desc$\n\n§M$apsr16_deposit_effect$§!"
  apsr16_deposit_effect:0 "独特的资源可用: $apsr16_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.16003.title:0 "$apsr16_building_part3$完成"
  apsr.16003.desc:0 "我们已经在一定程度上重建了§Y远古图书馆§!，并获得了古人的技术!"
  apsr.16003.ok-button:0 "完美"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.16013.title:0 "发现一个人造物: §M$apsr16_planet_modifier$§!"
  apsr.16013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n整个星球是一个由古老文明收集的知识的整体档案。不幸的是，它很久以前就毁了，但现在有机会修复它。"
  apsr.16013.button:1 "很好!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

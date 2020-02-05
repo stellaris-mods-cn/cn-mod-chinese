@@ -1,0 +1,172 @@
+﻿l_simp_chinese:
+ EDICTS:0 "法令和宗教委员会"
+ EDICTS_LABEL:0 "管理我们的帝国，星球法令和宗教委员会。"
+ topbar_button_edicts_name:1 "法令和宗教"
+ topbar_button_edicts_delayed:0 "§E打开法令视图，你可以打开一个新的宗教会议，检查和激活帝国的命令。§!"
+ 
+ 
+ 
+ ## religion types
+ ethic_no_religion: "无宗教"
+ ethic_no_religion_desc: "政府必须对宗教保持中立态度的原则。"
+ ethic_atheism: "无神论"
+ ethic_atheism_desc: "无神论是对任何神灵存在的信仰的拒绝。在一个更狭义的意义上，无神论具体是没有神的立场。"
+ ethic_agnosticism: "不可知论"
+ ethic_agnosticism_desc: "有情众生无法提供足够的理性依据来证明神存在或神不存在的信仰。不可知论是这样一种观点，认为上帝的存在，神圣的或超自然的是未知的或不可知的。"
+ ethic_deism: "一神论"
+ ethic_deism_desc: "一神论是信仰一个神。一神论的狭义定义是相信只有一个神的存在，他创造了世界，是全能的，并干预世界。"
+ ethic_polytheism: "多神论"
+ ethic_polytheism_desc: "多神教是对多个神的崇拜或信仰，这些神通常被聚集成一个众神的神殿，连同他们自己的宗教和仪式。"
+ ethic_animism: "泛心论"
+ ethic_animism_desc: "一种相信自然物体是由精神激活的，而云也可能有它自己独特的精神。灵魂被认为具有可识别的个性和其他特征，如性别。他们可能是仁慈的，恶毒的，或中立的，可爱的，可怕的，甚至淘气的，可以与其他生物互动。"
+ ethic_animatism: "万物有灵论"
+ ethic_animatism_desc: "相信超自然的力量，而不是超自然生物的一部分，被称为“万物有灵论”。对于那些持有这种信念的人来说，这种力量通常是非个人的，看不见的，而且可能无处不在。它既非善也非恶，但如果被滥用，它将是强大而危险的。"
+ ethic_any_religion: "任何宗教"
+ ethic_any_religion_desc: "对所有宗教的承认和尊重或缺乏。"
+ 
+   
+  job_ethic_no_religion_preacher: "无宗教传教士"
+  job_ethic_no_religion_preacher_plural: "无宗教传教士"
+  job_ethic_no_religion_preacher_desc: ""
+  job_ethic_atheism_preacher: "无神论者传教士"
+  job_ethic_atheism_preacher_plural: "无神论者传教士"
+  job_ethic_atheism_preacher_desc: ""
+  job_ethic_agnosticism_preacher: "不可知论传教士"
+  job_ethic_agnosticism_preacher_plural: "不可知论传教士"
+  job_ethic_agnosticism_preacher_desc: ""
+  job_ethic_deism_preacher: "一神论传教士"
+  job_ethic_deism_preacher_plural: "一神论传教士"
+  job_ethic_deism_preacher_desc: ""
+  job_ethic_polytheism_preacher: "多神论传教士"
+  job_ethic_polytheism_preacher_plural: "多神论传教士"
+  job_ethic_polytheism_preacher_desc: ""
+  job_ethic_animism_preacher: "泛心论传教士"
+  job_ethic_animism_preacher_plural: "泛心论传教士"
+  job_ethic_animism_preacher_desc: ""
+  job_ethic_animatism_preacher: "万物有灵论传教士"
+  job_ethic_animatism_preacher_plural: "万物有灵论传教士"
+  job_ethic_animatism_preacher_desc: ""
+  
+  job_purge_heretics: "净化"
+  job_purge_heretics_plural: "净化"   
+  job_purge_heretics_desc: "按照我们的政策，人口正在用火来净化。"
+
+    mod_pop_ethic_no_religion_attraction_mult: "无宗教论吸引力"
+    mod_pop_ethic_atheism_attraction_mult: "无神论吸引力"
+    mod_pop_ethic_agnosticism_attraction_mult: "不可知论吸引力"
+    mod_pop_ethic_deism_attraction_mult: "一神论吸引力"
+    mod_pop_ethic_polytheism_attraction_mult: "多神论的吸引力"
+    mod_pop_ethic_animism_attraction_mult: "泛心论吸引力"
+    mod_pop_ethic_animatism_attraction_mult: "万物有灵论吸引力"
+    mod_pop_ethic_any_religion_attraction_mult: "任何宗教吸引力"
+
+
+ war_goal_wg_stop_dogmatics: "破碎灵魂"
+ war_goal_wg_stop_dogmatics_desc: ""
+ war_goal_wg_purge_infidels: "宗教裁判"
+ war_goal_wg_purge_infidels_desc: ""
+ war_goal_wg_force_abandon_dogmatism: "开放思想"
+ war_goal_wg_force_abandon_dogmatism_desc: ""
+ war_goal_wg_force_change_religion: "宗教调节"
+ war_goal_wg_force_change_religion_desc: ""
+
+ casus_belli_cb_purge_infidels: "清除异教徒"
+ casus_belli_cb_stop_dogmatics: "停止教理论"
+ casus_belli_cb_force_abandon_dogmatism: "武力抛弃教条主义"
+ casus_belli_cb_force_change_religion: "强迫改变宗教"
+
+ 
+ wg_force_abandon_dogmatism_accept:1 "§Y[From.GetName]§!被迫放弃§R教条主义道路§!，走§B柔性路径§!"
+ wg_force_abandon_dogmatism_accept_2:0 "§Y[From.GetRulerTitle] [From.GetRulerName]§!被迫退位"
+ wg_force_change_religion_accept:1 "§Y[From.GetName]§!被迫改变宗教制度，走§R教条主义道路§!"
+ wg_force_change_religion_accept_2:0 "§Y[From.GetRulerTitle] [From.GetRulerName]§!被迫退位"
+ 
+ 
+  RI_CURRENT: "§B[Root.GetRIAmount]/10§!"
+  dogmatic_religion: "§R教条路径§!"
+  flexible_religion: "§B柔性路径§!"
+  religious_system: "宗教路径"
+  potv_window_title: "委员会的信仰"
+  formed_cof: "成立的信仰委员会"
+  
+  pop_cat_heretic: "异教徒"
+  pop_cat_heretic_plural: "异教徒"
+  pop_cat_heretic_desc: "异教徒是一种信仰的支持者，这种信仰与既定的信仰有很大的不同，并且违反了帝国的宗教教义。"
+  
+  
+  policy_heretics_policy: "异端政策"
+  policy_heretics_policy_desc: ""
+  heretics_tolerated_name: "容忍"
+  heretics_tolerated_desc: ""
+  heretics_brainwash_name: "洗脑"
+  heretics_brainwash_desc: ""
+  heretics_purged_name: "净化之火"
+  heretics_purged_desc: ""
+  
+  religion_dialog_back: "返回"
+  
+  missionaries.1.need_rival_council:0 "你没有一个不同的宗教体系和既定的议会的对手。"
+  missionaries.1.a:0 "§YThe [missionary_target_1.GetName].§!"
+  missionaries.1.b:0 "§YThe [missionary_target_2.GetName].§!"
+  missionaries.1.c:0 "§YThe [missionary_target_3.GetName].§!"
+  missionaries.1.d:0 "§YThe [missionary_target_4.GetName].§!"
+  
+  decision_religious_diversity_celebration: "庆祝宗教的多样性"
+  
+  
+  building_monolith: "宗教巨石"
+  building_monolith_desc: ""
+  building_spiritual_monolith: "宗教巨石"
+  building_spiritual_monolith_desc: ""
+  building_ominist_forums: "宗教论坛"
+  building_ominist_forums_desc: ""
+  ##Open Mind  CB
+  
+  
+  ##########################
+  ## buttons and tooltips ##
+  ##########################
+  main_split_tradition: "集成宗教"
+  main_split_tradition_tooltip: "§Y集成宗教§!\n国家和宗教是相互交织的。\n\n行政能力: §G+10§!"
+  
+  
+  ## flexible
+  regional_tradition_1: "多样性的宽容"
+  regional_tradition_1_tooltip: "§Y多样性的宽容§!\n我们的帝国不在乎异端邪说。\n\n开创§B柔性路径§!\n异教徒牧师凝聚力: §G+1§!"
+  regional_tradition_2: "宗教多元化庆祝活动"
+  regional_tradition_2_tooltip: "§Y宗教多元化庆祝活动§!\n拥抱彼此的独特性。诚实的意见分歧和诚实的辩论不是不统一的。它们是自由人制定政策的重要过程。\n\n开创§B柔性路径§!\n允许我们使用§Y宗教多元化庆祝活动决策§!来增加异教徒和异端传教士的影响力。"
+  regional_tradition_3: "宗教论坛"
+  regional_tradition_3_tooltip: "§Y宗教论坛§!\n帝国是暴民，控制了暴民，你就控制了帝国。\n\n允许我们建立§Y宗教论坛§!，这增加了异教徒传教士的设施。"
+  empire_tradition_1: "说教许可"
+  empire_tradition_1_tooltip: "§Y说教许可§!\n宣扬其他宗教体系不再被认为是一个被排斥的工作，他们完全融入了这个体系，因此，他们应该纳税。\n异教徒牧师能量币: §G+2§!"
+  empire_tradition_2: "促慈善机构"
+  empire_tradition_2_tooltip: "§Y促慈善机构§!\n慈善是一种美德，当我们的情感得到完美的安排时，我们就会团结在一起，因为通过它，我们彼此相爱。\n异教徒牧师消费品: §G+1§!"
+  empire_tradition_3: "世界主义信仰"
+  empire_tradition_3_tooltip: "§Y世界主义信仰§!\n所有的生命都属于一个单一的共同体，基于共同的道德观和毫不含糊的绝对接受。\n\n授予我们战争§Y开放思想§!理由反对教条主义帝国。"
+  galactic_tradition_1: "普世教会主义"
+  galactic_tradition_1_tooltip: "§Y普世教会主义§!\n在不同的宗教派别之间发展更紧密的关系和更好的理解，以达到可见的和有机的信仰统一\n\n其他帝国的意见: §G+50§!"
+  galactic_tradition_2: "灵魂破碎者"
+  galactic_tradition_2_tooltip: "§Y灵魂破碎者§!\n以未经证实的道德和信仰理论为基础的傲慢观点只能证明固执。那些流传下来的、从未被质疑过的信仰将不再被容忍。\n\n给予我们§Y灵魂破碎者§!全面战争理由。"
+    
+  
+  ## dogmatic
+  regional_tradition_4: "国家宗教"
+  regional_tradition_4_tooltip: "§Y国家宗教§!\n给他们面包和马戏，他们就不会反抗。\n\n开创§B教条路径§!\n允许我们建造§Y巨石§!，这增加了宗教吸引力。"
+  regional_tradition_5: "禁止异端"
+  regional_tradition_5_tooltip: "§Y禁止异端§!\n我们有敌人，很好!这意味着我们坚决反对异端邪说。\n\n允许我们使用§Y禁止异端决策§!，这就把所有异端布道者的工作从地球上清除了。"
+  empire_tradition_4: "积极的传教士"
+  empire_tradition_4_tooltip: "§Y积极的传教士§!\n追随你的幸福，宇宙会为你打开那扇只有墙壁的门。\n加入§Y积极的传教士§!宗教行动，允许我们派遣传教士到敌对的异教徒帝国。\n\n传教士将把你的帝国的宗教星系吸引到一个随机的星球上。\n如果目标帝国在你的宗教系统下有超过55%的人口，派遣一个传教士将迫使帝国进入该星系。"
+  empire_tradition_5: "宗教迫害"
+  empire_tradition_5_tooltip: "§Y宗教迫害§!\n敌意和虐待，压迫和迫害。这是唯一的方法，以确保亵渎是审查和根除一劳永逸。\n\n允许我们使用§Y异端政策§!，我们可以容忍，洗脑或容忍异教徒。"
+  galactic_tradition_3: "宗教调节"
+  galactic_tradition_3_tooltip: "§Y宗教调节§!\n我们的信仰给我们的人民一种生活的目的和意义。我们将传播信仰，将整个银河系团结在一个真正的信仰之下。\n\n授予我们对抗非信徒帝国的战争理由。"
+  galactic_tradition_4: "共同的信仰"
+  galactic_tradition_4_tooltip: "§Y共同的信仰§!\n我们分享的越多，拥有的就越多。\n\n其他拥有相同宗教制度的帝国: §G+100§!"
+  galactic_tradition_5: "宗教裁判"
+  galactic_tradition_5_tooltip: "§Y宗教裁判所§!\n没有人期待西班牙的宗教裁判所。\n\n授予我们§Y宗教裁判§!全面战争理由。"
+  
+  
+  
+  
+  
+  

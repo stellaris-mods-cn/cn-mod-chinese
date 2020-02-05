@@ -1,0 +1,35 @@
+﻿l_simp_chinese:
+
+ shared_window_title: "复合更新"
+ shared_window_desc: "§W一个复杂的文章§!\n\n大家好!这是我最大的mod的新提要。我将继续努力，因为我知道你们喜欢补丁，我将通过这个可怕的新窗口为你提供最新的信息!\n您可以选择您想要阅读有关最新补丁的mod在正确的选项卡。他们的信息和版本号将被更新，只要你保持mod更新 :)\n\n所有这一切都是由于我的Patreon支持者，如果你想帮助请不要犹豫，请去到§Whttps://patreon.com/hivemods§!!\n\n\n请在Steam、Twitter或Reddit上报告任何bug和建议。\n\n欢迎下次再来!"
+ shared_window_name: "关于"
+ 
+ fq_version_base: "[Root.GetFQVersion]"
+ story_version_base: "[Root.GetSTORYVersion]"
+ potv_version_base: "[Root.GetPOTVVersion]"
+ 
+ fq_name_base: "[Root.GetFQName]"
+ story_name_base: "[Root.GetSTORYName]"
+ potv_name_base: "[Root.GetPOTVName]"
+ 
+ fq_desc_base: "[Root.GetFQDesc]"
+ story_desc_base: "[Root.GetSTORYDesc]"
+ potv_desc_base: "[Root.GetPOTVDesc]"
+ 
+ 
+ 
+ 
+ fq_version_ni: "被遗忘的女王: §R没有安装§!"
+ story_version_ni: "尼布拉克斯和采集者: §R没有安装§!"
+ potv_version_ni: "虚空的泛神论: §R没有安装§!"
+
+ 
+ fq_name_ni: "被遗忘的女王"
+ story_name_ni: "尼布拉克斯和采集者"
+ potv_name_ni: "虚空的泛神论"
+ 
+ fq_desc_ni: "《被遗忘的女王》是一款为蜂群思维添加公民性、飞升路径、起源和其他内容的mod。\n\n你可以在这里下载:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1715190550§!"
+ story_desc_ni: "尼布拉克斯和采集者是一个故事mod包，增加文物，中期的游戏危机和6挖掘与独特的结果。\n\n你可以在这里下载:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1878601358§!"
+ potv_desc_ni: "虚空的泛神论是一个mod，添加了一个新的宗教系统，有新的用户界面和独特的游戏玩法。\n\n你可以在这里下载:\n§Bhttps://steamcommunity.com/sharedfiles/filedetails/?id=1913588422§!"
+ 
+ 

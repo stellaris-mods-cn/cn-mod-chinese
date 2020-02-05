@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+
+ casus_belli_cb_demilitarize:0 "解除武装"
+ war_goal_wg_demilitarize:0 "解除武装"
+ war_goal_wg_demilitarize_desc:0 "发动战争是为了遏制敌人的好战倾向。"
+ wg_demilitarize_accept:0 "§Y[From.GetName]§!已非军事化，在§Y20§!年内将其§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!§R-50%§!。\n§Y[Root.GetName]§!获得§G+100§! £influence£\n"
+ dm_demilitarized:0 "解除武装"
+ dm_demilitarized_desc:0 "§L我们被另一个帝国解除了武装。§!"

@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ civic_hive_autonomous_drones:0 "自主工蜂"
+ civic_hive_autonomous_drones_desc:0 "蜂巢的工蜂是积极主动的，它们不需要分配工作就能对蜂群产生生产力。这些工蜂在失业期间会本能地搜寻和处理其他需要的工蜂任务。"
+ civic_tooltip_autonomous_drones_effects:0 "£unemployment£ §Y失业人口§!£minerals£ §Y$minerals$§!: §G+1§!\n£unemployment£ §Y失业人口§!£amenities£ §Y舒适度§!: §G+2§!"
+ job_autonomous_drone:0 "失业"
+ job_autonomous_drone_desc:0 "由于没有明确的工作任务，这些工蜂会本能地搜寻并满足其他工蜂的需求，产生少量有用的£minerals£ $minerals$和£amenities£ $amenities$。"
+ job_autonomous_drone_plural:0 "失业"
+ 
+ mod_unemployment_resources_minerals_produces_add: "£unemployment£ §Y失业人口§!£minerals£ §Y$minerals$§!"

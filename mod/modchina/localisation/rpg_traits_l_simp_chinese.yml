@@ -289,7 +289,7 @@
  trait_sociology_elitists_desc:0 "§L这一物种首先追求的是生物研究和人文艺术。他们不介意在今后的日子里成为怎么样的人。\n\n 帝国影响力增加 +25% 地块影响力产出增加 +50% §!\n"
  
  trait_engineering_elitists:0 "机修工"
- trait_engineering_elitists_desc:0 "§L这个物种痴迷于机械和物质，他们对人口增长或无法证明的理论毫无兴趣。\n\n 建造花费减少 -25%,船只建造速度增加 +20%, 舰船命中率增加 +20%, 舰船装甲增加 +20%§!\n"
+ trait_engineering_elitists_desc:0 "§L这个物种痴迷于机械和物质，他们对人口增长或无法证明的理论毫无兴趣。\n\n 建造花费减少 -25%,飞船建造速度增加 +20%, 舰船命中率增加 +20%, 舰船装甲增加 +20%§!\n"
  
  trait_physics_elitists:0 "实验狂"
  trait_physics_elitists_desc:0 "§L这个物种对理论和拥有实际应用效果的微观粒子没有兴趣。他们只关心看不见的东西和伟大的“为什么?”\n\n 护盾值增加 +20%, 武器伤害增加 +20%§!\n"

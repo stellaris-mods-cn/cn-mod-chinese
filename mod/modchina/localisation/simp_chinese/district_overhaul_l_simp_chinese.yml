@@ -54,9 +54,9 @@
   district_commerce_plural:0 "商务部门"
   district_commerce_desc:0 "让商业流动起来!"
   
-  district_local_stores:0 "本地存储"
-  mod_district_local_stores_max:0 "本地存储"
-  district_local_stores_plural:0 "本地存储"
+  district_local_stores:0 "本地商店"
+  mod_district_local_stores_max:0 "本地商店"
+  district_local_stores_plural:0 "本地商店"
   district_local_stores_desc:0 "你友好的邻居商店。"
   
   district_spaceport:0 "宇航中心"
@@ -128,10 +128,10 @@
   district_ocean_farming_plural:0 "海洋农场"
   district_ocean_farming_desc:0 "海洋农场用海藻生产健康食品。"
   
-  district_ascended_housing:0 "飞升住房"
-  mod_district_ascended_housing_max:0 "飞升住房"
-  district_ascended_housing_plural:0 "飞升住房"
-  district_ascended_housing_desc:0 "该区划使用了修复前的重力修正技术，允许建设高得离谱和宽敞的住房。"
+  district_ascended_housing:0 "浮空住房"
+  mod_district_ascended_housing_max:0 "浮空住房"
+  district_ascended_housing_plural:0 "浮空住房"
+  district_ascended_housing_desc:0 "该区划使用重力修正技术，允许建设高得离谱和宽敞的住房。"
   
   district_ecogardens:0 "生态花园"
   mod_district_ecogardens_max:0 "生态花园"
@@ -207,3 +207,8 @@
   mod_district_drone_production_line_max:0 "单元生产线"
   district_drone_production_line_plural:0 "单元生产线"
   district_drone_production_line_desc:0 ""
+  
+  district_archeology:0 "考古区划"
+  mod_district_archeology_max:0 "考古区划"
+  district_archeology_plural:0 "考古区划"
+  district_archeology_desc:0 ""

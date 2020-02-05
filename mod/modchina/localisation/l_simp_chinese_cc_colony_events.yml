@@ -8,7 +8,7 @@ cc_colony_events.2.desc.neut:0 "一个新生的殖民地对于雄心勃勃的人
 cc_colony_events.2.desc.neg:0 "一个新生的殖民地对于雄心勃勃的人来说总是意味着一次进取的机会。\n\n在[root.GetName]上,情况正是如此。一位名叫[cc_colony_leader.GetName]的功勋退休舰队军官以其卓越的领导力激励了新殖民地上的居民，他们越发信赖[cc_colony_leader.GetHisHer]的判断。[cc_colony_leader.GetName]十分享受自己新近获得的权威，被我们的地方官员称作"麻烦人物"。[cc_colony_leader.GetSheHe]支持了一项将其"[root.GetName]使节" 的称号予以官方认可的请愿。不幸的是，尽管与[root.GetName]的治理原则背道而驰，此事获得了广泛支持。\n\n我们应该如何回应这一请愿?"
 
 cc_colony_events.2.A1:0 "将[cc_colony_leader.GetHimHer]任命为殖民地使节。"
-cc_colony_events.2.A2:0 "给[cc_colony_leader.GetHimHer]一个顾问职位。"
+cc_colony_events.2.A2:0 "给[cc_colony_leader.GetHimHer]一个顾问岗位。"
 cc_colony_events.2.B:0 "召回[cc_colony_leader.GetHimHer],[cc_colony_leader.GetSheHe]显然已经忘记了自己的位置。"
 
 cc_colony_events.2.C:0 "批准请愿。"
@@ -990,11 +990,11 @@ cc_planet_oppression_desc:0 "政府已针对这颗星球上的异见者进行了
  job_dpe_monarchists_plural:0 "贵族成员"
  job_dpe_monarchists_desc:0 "这个£pop是贵族的一部分，服务于地球上的小君主，并确保他们的命令得到履行。"
  
- mod_job_dpe_guardian_of_the_peace_add:0 "$job_dpe_guardian_of_the_peace$工作"
+ mod_job_dpe_guardian_of_the_peace_add:0 "$job_dpe_guardian_of_the_peace$岗位"
  mod_job_dpe_guardian_of_the_peace_per_pop:0 "每$VALUE$人口§G+1§! $job_dpe_guardian_of_the_peace$"
- mod_job_dpe_gurus_followers_add:0 "$job_dpe_gurus_followers$工作"
+ mod_job_dpe_gurus_followers_add:0 "$job_dpe_gurus_followers$岗位"
  mod_job_dpe_gurus_followers_per_pop:0 "每$VALUE$人口§G+1§! $job_dpe_gurus_followers$"
- mod_job_dpe_direct_democrats_add:0 "$job_dpe_direct_democrats$工作"
+ mod_job_dpe_direct_democrats_add:0 "$job_dpe_direct_democrats$岗位"
  mod_job_dpe_direct_democrats_per_pop:0 "每$VALUE$人口§G+1§! $job_dpe_direct_democrats$"
- mod_job_dpe_monarchists_add:0 "$job_dpe_monarchists$工作"
+ mod_job_dpe_monarchists_add:0 "$job_dpe_monarchists$岗位"
  mod_job_dpe_monarchists_per_pop:0 "每$VALUE$人口§G+1§! $job_dpe_monarchists$"

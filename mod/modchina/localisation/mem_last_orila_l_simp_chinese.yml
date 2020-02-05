@@ -16,21 +16,21 @@
  
  # Reactor ambient object
  mem_pride_of_harilla_reactor_object:0 "丢失的反应堆"
- mem_pride_of_harilla_reactor_object_desc:0 "这是“哈利拉的骄傲”号丢失的反应堆"
+ mem_pride_of_harilla_reactor_object_desc:0 "这是“哈莱拉的骄傲”号丢失的反应堆"
  
  mem_last_orila_1_chain_title:0 "逝去的荣光"
- mem_last_orila_1_chain_desc:0 "很久以前，奥利拉的舰队被诱入陷阱。他们的敌人摧毁了奥利拉舰队入轨的恒星，巨大的爆炸撕碎了奥利拉的舰队。\n\n当时奥利拉旗舰的指挥官Chap'Lin本人是少数幸存者之一。舰队中的其他所有船只都被完全摧毁，但“哈里拉的骄傲”号虽然遭到严重破坏，却在爆炸中幸存了下来。幸存的幸存者被迫放弃了船只，至今仍未收回。\n\n舰队的损失摧毁奥利拉。他们对于技术上较差的敌人如何能够摧毁一颗完整的恒星感到困惑。随着文明的瓦解，奥利拉人只能认为这一定是一个外部力量的杰作，然而他们最后的堡垒在任何证据被发现之前就倒下了。\n\n随着奥利拉的灭绝，恒星坍塌的真正原因仍然是个谜。但残骸可能还在那里。如果我们要恢复和修复它，它一定能够帮助我们。"
+ mem_last_orila_1_chain_desc:0 "很久以前，奥利拉的舰队被诱入陷阱。他们的敌人摧毁了奥利拉舰队入轨的恒星，巨大的爆炸撕碎了奥利拉的舰队。\n\n当时奥利拉旗舰的指挥官Chap'Lin本人是少数幸存者之一。舰队中的其他所有飞船都被完全摧毁，但“哈莱拉的骄傲”号虽然遭到严重破坏，却在爆炸中幸存了下来。幸存的幸存者被迫放弃了飞船，至今仍未收回。\n\n舰队的损失摧毁奥利拉。他们对于技术上较差的敌人如何能够摧毁一颗完整的恒星感到困惑。随着文明的瓦解，奥利拉人只能认为这一定是一个外部力量的杰作，然而他们最后的堡垒在任何证据被发现之前就倒下了。\n\n随着奥利拉的灭绝，恒星坍塌的真正原因仍然是个谜。但残骸可能还在那里。如果我们要恢复和修复它，它一定能够帮助我们。"
  
  mem_last_orila_2_chain_title:0 "逝去的荣光"
- mem_last_orila_2_chain_desc:0 "我们已经找到了哈利拉的骄傲的残骸。在研究的过程中，一队海盗船袭击了我们的研究团队。根据Chap'Lin的的说法，这艘船的反应堆不见了。鉴于他们的攻击性行为，这些海盗一定已经意识到这片残骸的价值，并且已经开始为先进技术寻找它的踪迹。我们找到失踪的反应堆的唯一希望是追踪海盗们回到他们的基地。"
+ mem_last_orila_2_chain_desc:0 "我们已经找到了哈莱拉的骄傲的残骸。在研究的过程中，一队海盗船袭击了我们的研究团队。根据Chap'Lin的的说法，这艘船的反应堆不见了。鉴于他们的攻击性行为，这些海盗一定已经意识到这片残骸的价值，并且已经开始为先进技术寻找它的踪迹。我们找到失踪的反应堆的唯一希望是追踪海盗们回到他们的基地。"
  
  # 1st Point of Interest
  mem_last_orila_1_system:0 "决定性的失败"
  mem_last_orila_1_system_desc:0 "很久以前，奥利拉的舰队被他们的敌人引诱到一个陷阱里。"
  
  # Chap'Lin messages the player after some time has passed
- mem_last_orila.1.name:0 "失去的舰队"
- mem_last_orila.1.desc:0 "来自Chap’lin的消息。他对我们的数据库的研究证实了他自己的大部分过时的信息，似乎进展得很好。\n\n数据同步的结果是他认为在[root.GetName]有些特别的东西。据他说，这一信息所附的坐标可能会使我们知道最终导致奥利拉灭亡的决定性失败。\n\n更详细的信息将在情报日志。"
+ mem_last_orila.1.name:0 "失落的舰队"
+ mem_last_orila.1.desc:0 "来自Chap’lin的消息。他对我们的数据库的研究证实了他自己的大部分过时的信息，似乎进展得很好。\n\n数据同步的结果是他认为在[root.GetName]有些特别的东西。据他说，这一信息所附的坐标能让我们知道最终导致奥利拉灭亡的决定性失败。\n\n更详细的信息将在情报日志。"
  mem_last_orila.1.a:0 "我们应该去那里。"
  
  # Arrival in the system where the wreckage is
@@ -97,8 +97,8 @@
  mem_last_orila_3_chain_desc:0 "现在，我们已经找回了“哈莱拉的骄傲”的残骸，现在是时候恢复它古老的荣耀了。"
  
  mem_last_orila.12.name:0 "连接完成"
- mem_last_orila.12.desc:0 "由于所有的模块连接到船只上，[root.Capital.GetName]的轨道船坞正在等待他的到来，以开始恢复过程。"
- mem_last_orila.12.a:0 "了解."
+ mem_last_orila.12.desc:0 "由于所有的模块连接到飞船上，[root.Capital.GetName]的轨道船坞正在等待他的到来，以开始恢复过程。"
+ mem_last_orila.12.a:0 "了解。"
  
  mem_last_orila_pickup_3:0 "修复准备工作"
  mem_last_orila_pickup_3_desc:0 "“哈莱拉的骄傲”正在等待在我们的[mem_last_orila_capital.GetName]的轨道造船厂进行修复。"
@@ -108,7 +108,7 @@
  
  mem_last_orila.14.name:0 "修复延期"
  mem_last_orila.14.desc:0 "没有Chap'Li的船，我们无法完成准备工作。"
- mem_last_orila.14.a:0 "了解."
+ mem_last_orila.14.a:0 "了解。"
  
  MEM_LAST_ORILA_RESTORATION_2:0 "修复中"
  MEM_LAST_ORILA_RESTORATION_2_DESC:0 "在我们的轨道造船厂，“哈莱拉的骄傲”正在[root.owner.Capital.GetName]恢复昔日的光辉。"
@@ -117,9 +117,9 @@
  mem_pride_of_harilla_restoration_object:0 "哈莱拉的骄傲"
  mem_pride_of_harilla_restoration_object_desc:0 "这艘船目前正在进行大规模修理。"
  
- mem_last_orila.15.name:0 "修复完成?"
- mem_last_orila.15.desc:0 "“哈莱拉的骄傲”终于被修复了，至少最初看来是这样的。Chap'Lin解释说，尽管维修很成功，但舰船的许多系统都处于次最优水平。即使他拥有广泛的知识，也可能需要数年时间才能适应古老技术所做的相当原始的修复，并以新的形式释放出这艘船的全部潜力。他恳求离开去进行舰船的校准工作。"
- mem_last_orila.15.a:0 "稍后我们将讨论……我想。"
+ mem_last_orila.15.name:0 "修复完成？"
+ mem_last_orila.15.desc:0 "“哈莱拉的骄傲”终于被修复了，至少看起来是这样的。Chap'Lin解释说，尽管维修很成功，但舰船的许多系统都不是最优水平。即使他拥有大量的维修知识，也可能需要数年时间才能适应古老技术所做的相当原始的修复，并以新的形式释放出这艘船的全部潜力。他恳求离开去进行舰船的校准工作。"
+ mem_last_orila.15.a:0 "稍后我们再讨论……我想。"
  
  # If the player loses the ship before finishing the quest
  mem_last_orila.18.name:0 "船丢失了"

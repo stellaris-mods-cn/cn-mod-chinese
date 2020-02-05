@@ -86,7 +86,7 @@ LUN_DOW_PROPOSE_01:0 "让我们看看[From.GetSpeciesNamePlural]是否像他们�
 ####################################
 
 EMPIRE_DESIGN_lunariciv:0 "银月教廷"
-EMPIRE_DESIGN_lunariciv_desc:0 "没有什么比提到“月球之子”更让外星生物学家困惑的了。它们来自一个几乎冻死的世界。这个世界围绕着一对黑洞运行。在他们的星系中，唯一的光是由一个奇怪的发光月亮提供的，它以某种方式屏蔽了任何方式的扫描。无论如何，它们根本不应该存在。\n\n月亮精灵自己也觉得这些问题非常愚蠢。答案很明显:它们是由他们的女神创造的，任何一个傻瓜想要争论这个事实，都应该看看他们的月亮。\n\n相对来说，纳伊林是银河系的新成员，虽然他们很少离开家园，但总体上看起来很友好、平易近人。有传言说，他们以最令人痛苦的方式，消灭了任何不尊重或背叛他们的人。然而，这样的谈话很可能是头脑发热的结果，因为从来没有任何正式的指控。或者至少，没有人活到足够长的时间来安置任何人。\n"
+EMPIRE_DESIGN_lunariciv_desc:0 "没有什么比提到“月之子”更让外星生物学家困惑的了。它们来自一个几乎冰冻寒冷毫无生气的世界。这个世界围绕着一对黑洞运行。在他们的星系中，唯一的光明是由一个奇怪的发光月亮提供的，它以某种方式屏蔽了任何方式的扫描。无论如何，它们根本不应该存在。\n\n月亮精灵自己也觉得这些问题非常愚蠢。答案很明显:它们是由他们的女神创造的，任何一个傻瓜想要争论这个事实，都应该看看他们的月亮。\n\n相对来说，纳伊林是银河系的新成员，虽然他们很少离开家园，但总体上看起来很友好、平易近人。有传言说，他们以最令人痛苦的方式，消灭了任何不尊重或背叛他们的人。然而，这样的谈话很可能是头脑发热的结果，因为它们从来没有任何正式的外交。或者至少，没有人活到足够长的时间来安置任何人。\n"
 
 elven_lunari_system_initializer_NAME:0 "阳光照射不到的领域"
 elven_lunari_system_initializer_DESC:0 "一个冷的双黑洞星系。唯一的光源是附近一个奇怪的月亮。\n\n§R注意:这个开始需要精灵种族!§!\n\n$system_initializer_DESC$"
@@ -155,16 +155,16 @@ job_ice_spire_researcher:0 "冰尖顶研究员"
 job_ice_spire_researcher_plural:0 "冰尖顶研究员"
 job_ice_spire_researcher_desc:0 "这些研究人员正努力解开冰尖顶之谜。"
 job_ice_spire_researcher_effect_desc:0 "£job_ice_spire_researcher£ $job_ice_spire_researcher_plural$将£consumer_goods£ §Y$consumer_goods$§!转化为£physics£ §Y研究点数§!用于新技术"
-mod_job_ice_spire_researcher_add:0 "$job_ice_spire_researcher$工作"
-mod_job_ice_spire_researcher_per_pop:0 "每$VALUE$人口§G+1§! $job_ice_spire_researcher$工作"
+mod_job_ice_spire_researcher_add:0 "$job_ice_spire_researcher$岗位"
+mod_job_ice_spire_researcher_per_pop:0 "每$VALUE$人口§G+1§! $job_ice_spire_researcher$岗位"
 mod_job_ice_spire_researcher_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_ice_spire_researcher_add£"
 
 job_malevolent_grove_researcher:0 "恶林研究员"
 job_malevolent_grove_researcher_plural:0 "恶林研究员"
 job_malevolent_grove_researcher_desc:0 "这些勇敢的研究人员正试图尽其所能地探索一些森林中看似有知觉的树状生命形式。大概在安全距离之外。"
 job_malevolent_grove_researcher_effect_desc:0 "£job_malevolent_grove_researcher£ $job_malevolent_grove_researcher_plural$将£consumer_goods£ §Y$consumer_goods$§!转化为£society£ §Y研究点数§!用于新技术"
-mod_job_malevolent_grove_researcher_add:0 "$job_malevolent_grove_researcher$工作"
-mod_job_malevolent_grove_researcher_per_pop:0 "每$VALUE$人口§G+1§! $job_malevolent_grove_researcher$工作"
+mod_job_malevolent_grove_researcher_add:0 "$job_malevolent_grove_researcher$岗位"
+mod_job_malevolent_grove_researcher_per_pop:0 "每$VALUE$人口§G+1§! $job_malevolent_grove_researcher$岗位"
 mod_job_malevolent_grove_researcher_per_pop_short:0 "\n§每$VALUE$ £pop£ G+1§! £mod_job_malevolent_grove_researcher_add£"
 
 

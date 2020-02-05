@@ -101,7 +101,7 @@ civic_elven_arcane_minded_desc:0 "研究形而上学是一项全国性的消遣�
 civic_elven_tooltip_arcane_minded_effects:0 "灵能研究速度: §G+15%§!\n异常点失败的风险 §G-10%§!\n研究速度§G+5%§!"
 
 civic_elven_craft:0 "优雅的艺术"
-civic_elven_craft_desc:0 "完美和美丽是一切努力的目标。从建筑到宇宙飞船，一切事物都必须像它们的功能一样美丽。这一社会目标导致更幸福的公民，更坚固的船只和防御工事。"
+civic_elven_craft_desc:0 "完美和美丽是一切努力的目标。从建筑到宇宙飞船，一切事物都必须像它们的功能一样美丽。这一社会目标导致更幸福的公民，更坚固的飞船和防御工事。"
 civic_elven_tooltip_craft_effects:0 "公民幸福度: §G+10%§!\n舰船船体值: §G+5%§!\n强化防御加成: §G+10%§!"
 
 civic_elven_great_firewall:0 "宏伟龙城"
@@ -119,7 +119,7 @@ policy_elven_gender_policy_desc:0 "这些政策影响了哪些性别可以胜任
 
 elven_gender_default_name:0 "平等"
 elven_gender_default:0 "平等"
-elven_gender_default_desc:0 "男性和女性都可以胜任相同的领导职位。这让事情变得很无聊、和过时。"
+elven_gender_default_desc:0 "男性和女性都可以胜任相同的领导岗位。这让事情变得很无聊、和过时。"
 
 elven_gender_matriarchy_full_name:0 "绝对的制"
 elven_gender_matriarchy_full:0 "绝对的母权制"
@@ -138,7 +138,7 @@ elven_gender_patriarchy_military_desc:0 "每个人都知道，当涉及到伤害
 
 elven_gender_patriarchy_full_name:0 "绝对的父权制"
 elven_gender_patriarchy_full:0 "绝对的父权制"
-elven_gender_patriarchy_full_desc:0 "为什么女性要为无聊的领导职位操心?男性应该满足这些角色的女性有更多的时间来管理新时尚....和谋杀阴谋。"
+elven_gender_patriarchy_full_desc:0 "为什么女性要为无聊的领导岗位操心?男性应该满足这些角色的女性有更多的时间来管理新时尚....和谋杀阴谋。"
 
 ####################################
 # Diplomacy
@@ -153,12 +153,12 @@ personality_sidh_personality_desc:0 "埃德赫尔和平缔造者寻求尽可能�
 ####################################
 # Nations 
 ####################################
-EMPIRE_DESIGN_elven_civ1:0 "宁静的塞纳拉塔王国"
-EMPIRE_DESIGN_elven_civ1_desc:0 "外星历史学家勉强承认，塞纳拉塔似乎一直存在于他们的世界中。普遍的假说，不管是否受到伊莱伊兹的鼓励，都是在史前的某个遥远的地方，他们是一个巨大的星际帝国的一部分。它被称为什么，或者它延伸了多长时间，已经很久了。\n\n不管出身如何，他们现在寻求在他们的体制之外发挥更积极的作用。他们的冷静和不感兴趣的行为最好不要低估，因为他们被认为在被激怒时是相当致命的。"
+EMPIRE_DESIGN_elven_civ1:0 "塞纳拉塔王国"
+EMPIRE_DESIGN_elven_civ1_desc:0 "外星历史学家不情愿地承认塞纳拉塔似乎一直存在于他们的世界中。不管是不是受到精灵的鼓励，主流的假设是，在史前某个遥远的时刻，它们是一个庞大星际帝国的一部分。它叫什么名字，也不知道它延伸了多远。\n\n不管出身如何，他们现在都寻求在自己的体制之外扮演更积极的角色。然而，最好不要低估他们的冷静和无私的态度，因为众所周知，他们在受到暴力挑衅时是相当致命的。"
 EMPIRE_DESIGN_elven_civ2:0 "仙人秘密会议"
 EMPIRE_DESIGN_elven_civ2_desc:0 "它源自于一个独特的天堂世界，由一些古老的文明建造而成，作为一种整体价值的虔诚和和谐。他们的历史没有任何战争甚至内战的记录。与他们的互动可能是独一无二的，因为他们有一个几乎没有穿衣服的倾向。\n\n他们最近发现了星际旅行的秘密，现在他们向所有愿意听的人传播他们的信息。"
 EMPIRE_DESIGN_elven_civ3:0 "奥尔露恩 瓦兰德"
-EMPIRE_DESIGN_elven_civ3_desc:0 "隐藏于巨龙星簇之间,只有很少的一部分人知道奥尔露恩.从这些微小的互动中，我们发现了一个以秩序和统一为中心的文明。对这一秩序的明显威胁似乎引发了压倒性的暴力反应"
+EMPIRE_DESIGN_elven_civ3_desc:0 "隐藏于巨龙星簇之间,只有很少的一部分人知道奥尔露恩.从这些微小的星簇中，我们发现了一个以秩序和统一为中心的文明。对这一秩序的明显威胁似乎引发了压倒性的暴力反应"
 
 ####################################
 # Planet Stuff!
@@ -260,7 +260,7 @@ sc_elven_sexenary_1:1 "六星级"
 sc_elven_septenary_1:1 "七星级"
 sc_elven_septenary_2:1 "七星级"
 sc_elven_super_1:1 "五星级"
-  
+
 
 ############
 ### JOBS ###
@@ -270,7 +270,7 @@ job_dragon_researcher:0 "龙研究者"
 job_dragon_researcher_plural:0 "龙研究者"
 job_dragon_researcher_desc:0 "世界永恒的奥秘在于它的可理解性。"
 job_dragon_researcher_effect_desc:0 "£job_dragon_researcher£ $job_dragon_researcher_plural$将£consumer_goods£ §Y$consumer_goods$§!转化为£society£ §Y研究点数§!用于新技术"
-mod_job_dragon_researcher_add:0 "$job_dragon_researcher$ Jobs"
+mod_job_dragon_researcher_add:0 "$job_dragon_researcher$岗位"
 mod_job_dragon_researcher_per_pop:0 "每$VALUE$人口§G+1§! $job_dragon_researcher$"
 mod_job_dragon_researcher_per_pop_short:0 "\n每$VALUE$ £pop£ 人口§G+1§! £mod_dragon_researcher_add£"
 
@@ -278,7 +278,7 @@ job_dragon_priest:0 "龙祭祀"
 job_dragon_priest_plural:0 "龙祭祀"
 job_dragon_priest_desc:0 "群众的精神指导是由最虔诚的人来做的。"
 job_dragon_priest_effect_desc:0 "£job_dragon_priest£ $job_dragon_priest_plural$将£consumer_goods£ §Y$consumer_goods$§!转化为£unity£ §Y$unity$§!和£society£ §Y$society_research$§!"
-mod_job_dragon_priest_add:0 "$job_dragon_priest$ Jobs"
+mod_job_dragon_priest_add:0 "$job_dragon_priest$岗位"
 mod_job_dragon_priest_per_pop:0 "每$VALUE$ 人口§G+1§! $job_dragon_priest$"
 mod_job_dragon_priest_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_dragon_priest_add£"
 
@@ -286,7 +286,7 @@ job_archaeologist:0 "考古学家"
 job_archaeologist_plural:0 "考古学家"
 job_archaeologist_desc:0 "世界永恒的奥秘在于它的可理解性。"
 job_archaeologist_effect_desc:0 "£job_archaeologist£ $job_archaeologist_plural$将£consumer_goods£ §Y$consumer_goods$§!转化为£society£和£engineering£ §Y研究点数§!用于新技术"
-mod_job_archaeologist_add:0 "$job_archaeologist$ Jobs"
+mod_job_archaeologist_add:0 "$job_archaeologist$岗位"
 mod_job_archaeologist_per_pop:0 "每$VALUE$人口§G+1§! $job_archaeologist$"
 mod_job_archaeologist_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_archaeologist_add£"
 

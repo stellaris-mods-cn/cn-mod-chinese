@@ -1,0 +1,14 @@
+﻿l_simp_chinese:
+ 
+ building_residential_spire:0 "住宅尖顶"
+ building_residential_spire_desc:0 "巨大的城市。穷人和赤贫的人住在地下一层狭小的公寓里，而富人和幸运的人则舒适地住在闪闪发光的上层塔尖的豪华顶层公寓里。"
+
+ building_hive_spire:0 "蜂巢尖顶"
+ building_hive_spire_desc:0 "巨大的蜂巢从上到下布满了工蜂的巢穴，这些巢穴由错综复杂的基本但实用的基础设施网络连接在一起。"
+
+ building_drone_spire:0 "单元尖顶"
+ building_drone_spire_desc:0 "大型设施里挤满了单元储物间和维修隔间，这些隔间通过高效的运输系统相互连接。"
+ 
+ building_communal_spire:0 "公共尖顶"
+ building_communal_spire_desc:0 "巨大的超级城市，密集地分布着统一的栖息地，紧凑而舒适，设计实用。" 
+ 

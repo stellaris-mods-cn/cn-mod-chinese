@@ -1,0 +1,28 @@
+﻿l_simp_chinese:
+
+  tech_pjs_biological_points_1:0 "精细遗传"
+  tech_pjs_biological_points_1_desc:0 "在细胞水平上精细控制RNA和蛋白质的产生。"
+
+  tech_pjs_biological_points_2:0 "卓越遗传"
+  tech_pjs_biological_points_2_desc:0 "在细胞水平上出色地控制RNA和蛋白质的产生。"
+
+  tech_pjs_biological_points_3:0 "掌控遗传"
+  tech_pjs_biological_points_3_desc:0 "在细胞水平上杰出地控制RNA和蛋白质的产生。"
+
+  tech_pjs_machine_points_1:0 "高效纳米机器"
+  tech_pjs_machine_points_1_desc:0 "进一步提高纳米效率以协助建造新的机器人单元，将允许配备更先进子系统的更高级模型。"
+
+  tech_pjs_machine_points_2:0 "动态纳米机器"
+  tech_pjs_machine_points_2_desc:0 "进一步增加纳米级模块化以协助建造新的机器人单元，将允许配备更高级子系统的更高级模型。"
+
+  tech_pjs_machine_points_3:0 "神秘纳米机器"
+  tech_pjs_machine_points_3_desc:0 "进一步增加纳米能量以协助建造新的机器人单元，将允许配备更先进子系统的更高级模型。"
+
+  tech_pjs_robot_points_1:0 "兼容电路"
+  tech_pjs_robot_points_1_desc:0 "改进的生产实践允许对合成工人进行根本性更改，而不会损害核心功能。"
+
+  tech_pjs_robot_points_2:0 "转换电路"
+  tech_pjs_robot_points_2_desc:0 "改进的生产实践允许对合成工人进行根本性更改，而不会损害核心功能。"
+
+  tech_pjs_robot_points_3:0 "神秘电路"
+  tech_pjs_robot_points_3_desc:0 "改进的生产实践允许对合成工人进行根本性更改，而不会损害核心功能。"

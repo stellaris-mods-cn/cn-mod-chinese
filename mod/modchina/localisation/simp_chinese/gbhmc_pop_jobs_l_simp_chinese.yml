@@ -1,0 +1,18 @@
+﻿l_simp_chinese:
+
+ job_gbhmc_agri_drone:0 "营养子人口"
+ job_gbhmc_agri_drone_desc:0 "营养子人口能够维护那些产生丰富生物物质的培育中心。。"
+ job_gbhmc_agri_drone_plural:0 "营养子人口"
+ 
+ 
+ job_gbhmc_gas_drone:0 "气体子人口"
+ job_gbhmc_gas_drone_desc:0 "这些子人口可以承受分解中心的热量,进入里面收集产生的气体。"
+ job_gbhmc_gas_drone_plural:0 "气体子人口"
+ 
+ job_gbhmc_geothermal_drone:0 "卷须子人口"
+ job_gbhmc_geothermal_drone_desc:0 "这些子人口与地热卷须一起工作，从有岩层中手机矿石和燃料。"
+ job_gbhmc_geothermal_drone_plural:0 "卷须子人口"
+ 
+ job_gbhmc_geothermal_drone_effect_desc:0 "£job_gbhmc_geothermal_drone£ $job_gbhmc_geothermal_drone_plural$ 生产 £energy£能源 和 £minerals£矿物"
+ job_gbhmc_gas_drone_effect_desc:0 "£job_gbhmc_gas_drone£ $job_gbhmc_gas_drone_plural$ 把 £alloys£合金 和 £energy£能源 变成 £exotic_gases£奇异瓦斯"
+ job_gbhmc_agri_drone_effect_desc:0 "£job_gbhmc_agri_drone£ $job_gbhmc_agri_drone_plural$ 把 £minerals£矿物 和 £energy£能源 变成 £food£食物"

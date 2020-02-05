@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+  # first spacerift
+  spacerift.10.name: "空间裂缝:太空中的裂缝!"
+  spacerift.10.desc: "我们的物理学家一直在探测时间刻度和引力异常。在研究了这些空间异常之后，他们得出了空间本身正在崩溃的结论。\n\n过去十年里，一群经过挑选的物理学家和天文学家致力于研究这些异常，并成功预测到空间本身将开始产生裂缝，从理论上讲，这些裂缝可以用来瞬间穿越银河系。\n\n正如预测的那样，第一个空间裂缝已经被探测到了。在即将到来的几年里，我们会看到更多这样的情况。一组科学家相信，有了适当的资金，他们可以在我们的边界内稳定时空。"
+  spacerift.10.a: "有趣"
+  # spacerift in system detected
+  spacerift.11.name: "探测到新的空间裂缝!"
+  spacerift.11.desc: "由于时空结构的持续侵蚀，一个新的空间裂痕已经在我们的疆域内诞生!\n\n新的空间裂痕可能给我们带来战略优势，但也可能是我们防御的弱点。"
+  spacerift.11.a: "确实"	
+  
+  SPACE_RIFT_GALACTIC: "空间裂缝"	
+  SPACE_RIFT_GALACTIC_DESC: "这个星系内有一个空间裂缝。"	
+  
+  BYPASS_SPACERIFT: "空间裂缝"
+  SPACE_RIFT: "空间裂缝"

@@ -36,8 +36,8 @@
  mem_snowed_in.6.c.xenophobe.response:0 "我懂了。\n\n一个简单的“不”就够了。"
  mem_snowed_in.6.d:0 "我们可以为你们提供技术帮助你们生存。"
  mem_snowed_in.6.d.response:0 "和我们希望的不太一样...不过肯定会有帮助。"
- mem_server_room.6.e:0 "我们会祈祷你们得救。"
- mem_server_room.6.e.response:0 "搞笑吗？！祈祷？\n\n哦当然，为什么不呢。你们的祈祷那当然会帮助我们不被冻死。"
+ mem_snowed_in.6.e:0 "我们会为你祈祷的。"
+ mem_snowed_in.6.e.response:0 "真的？？？祈祷？？？？\n\n哦对，为什么不呢？祈祷一定能帮助我们不被冻死。"
  
  mem_snowed_in.7.name:0 "轨道轰炸完毕"
  mem_snowed_in.7.desc:0 "我们的部队已经成功向§Y[mem_snowed_in_planet.GetName]§!地表投放了炸弹。地堡已经坍塌，躲在那里的人已经被淘汰。"

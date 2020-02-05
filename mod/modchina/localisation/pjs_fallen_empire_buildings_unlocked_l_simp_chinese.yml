@@ -1,0 +1,76 @@
+﻿l_simp_chinese:
+
+  ## 建筑物
+
+  building_augural_manufactory:0 "预示工厂"
+  building_augural_manufactory_desc:0 "对于普通人来说，这种工厂的工作原理基本上是魔术。只有少数几个人了解工厂的内部运作。"
+
+  building_utopian_paradise_dome:0 "乌托邦天堂圆顶"
+  building_utopian_paradise_dome_desc:0 "乌托邦提供并维护了极其先进技术。居民过着令我们整个帝国都羡慕不已的奢华生活。幸运的是，圆顶能够为居民提供更多的便利。"
+
+  ## 人口种类
+
+  pop_cat_utopian_hedonist:0 "享乐主义"
+  pop_cat_utopian_hedonist_plural:0 "享乐主义者"
+  mod_pop_utopian_hedonist_political_power:0 "$pop_cat_utopian_hedonist$ 政治权力"
+  mod_pop_utopian_hedonist_happiness:0 "$pop_cat_utopian_hedonist$ 幸福"
+  pop_cat_utopian_hedonist_desc:0 "这些享乐主义者在帝国中占主导地位，生活在其他种族只能梦想的技术奇迹之中。"
+
+  ## 人口工作
+
+  job_utopian_hedonist:0 "$job_fe_hedonist$"
+  job_utopian_hedonist_plural:0 "$job_fe_hedonist_plural$"
+  job_utopian_hedonist_desc:0 "$job_fe_hedonist_desc$"
+  mod_job_utopian_hedonist_add:0 "$mod_job_fe_hedonist_add$"
+
+  ## 科技
+
+  tech_affluence_center:0 "$building_affluence_center$"
+  tech_affluence_center_desc:0 "$building_affluence_center_desc$"
+
+  tech_nourishment_center:0 "$building_nourishment_center$"
+  tech_nourishment_center_desc:0 "$building_nourishment_center_desc$"
+
+  tech_dimensional_fabricator:0 "$building_dimensional_fabricator$"
+  tech_dimensional_fabricator_desc:0 "$building_dimensional_fabricator_desc$"
+
+  tech_class_4_singularity:0 "$building_class_4_singularity$"
+  tech_class_4_singularity_desc:0 "$building_class_4_singularity_desc$"
+
+  tech_nano_forge:0 "$building_nano_forge$"
+  tech_nano_forge_desc:0 "$building_nano_forge_desc$"
+
+  tech_augural_manufactory:0 "$building_augural_manufactory$"
+  tech_augural_manufactory_desc:0 "$building_augural_manufactory_desc$"
+
+  tech_master_archive:0 "$building_master_archive$"
+  tech_master_archive_desc:0 "$building_master_archive_desc$"
+
+  tech_utopian_paradise_dome:0 "乌托邦式建筑"
+  tech_utopian_paradise_dome_desc:0 "随着建筑，美化环境和全息技术的最新发展,我们将建造未来的房屋。"
+
+  ## 科技解锁描述
+
+  TECH_UNLOCK_AFFLUENCE_CENTER_TITLE:0 "§H解锁建筑:§! $building_affluence_center$"
+  TECH_UNLOCK_AFFLUENCE_CENTER_DESC:0 "$building_affluence_center_desc$"
+
+  TECH_UNLOCK_NOURISHMENT_CENTER_TITLE:0 "§H解锁建筑:§! $building_nourishment_center$"
+  TECH_UNLOCK_NOURISHMENT_CENTER_DESC:0 "$building_nourishment_center_desc$"
+
+  TECH_UNLOCK_DIMENSIONAL_FABRICATOR_TITLE:0 "§H解锁建筑:§! $building_dimensional_fabricator$"
+  TECH_UNLOCK_DIMENSIONAL_FABRICATOR_DESC:0 "$building_dimensional_fabricator_desc$"
+
+  TECH_UNLOCK_CLASS_4_SINGULARITY_TITLE:0 "§H解锁建筑:§! $building_class_4_singularity$"
+  TECH_UNLOCK_CLASS_4_SINGULARITY_DESC:0 "$building_class_4_singularity_desc$"
+
+  TECH_UNLOCK_NANO_FORGE_TITLE:0 "§H解锁建筑:§! $building_nano_forge$"
+  TECH_UNLOCK_NANO_FORGE_DESC:0 "$building_nano_forge_desc$"
+
+  TECH_UNLOCK_AUGURAL_MANUFACTORY_TITLE:0 "§H解锁建筑:§! $building_augural_manufactory$"
+  TECH_UNLOCK_AUGURAL_MANUFACTORY_DESC:0 "$building_augural_manufactory_desc$"
+
+  TECH_UNLOCK_MASTER_ARCHIVE_TITLE:0 "§H解锁建筑:§! $building_master_archive$"
+  TECH_UNLOCK_MASTER_ARCHIVE_DESC:0 "$building_master_archive_desc$"
+
+  TECH_UNLOCK_UTOPIAN_PARADISE_DOME_TITLE:0 "§H解锁建筑:§! $building_utopian_paradise_dome$"
+  TECH_UNLOCK_UTOPIAN_PARADISE_DOME_DESC:0 "$building_utopian_paradise_dome_desc$"

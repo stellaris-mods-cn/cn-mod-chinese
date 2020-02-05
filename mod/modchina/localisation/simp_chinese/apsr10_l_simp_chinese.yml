@@ -8,7 +8,7 @@
  apsr10_planet_modifier_desc:0 "这种自然现象产生了一种奇怪的空间湍流，影响着周围的基本粒子"
  
  apsr10_deposit:0 "$apsr10_planet_modifier$"
- apsr10_deposit_desc:0 "$apsr10_planet_modifier_desc$\n\n§M$apsr10_deposit_effect$§!" 
+ apsr10_deposit_desc:0 "$apsr10_planet_modifier_desc$\n\n§M$apsr10_deposit_effect$§!"
  apsr10_deposit_effect:0 "独特的资源可用: $apsr10_planet_modifier$"
  
  
@@ -57,7 +57,7 @@
  apsr.10011.title:0 "发现人工制品: §M$apsr10_planet_modifier$§!"
  apsr.10011.desc:0 "起初，我们没有发现任何可疑的东西，但在我们开始测量这个星球的能量场之后，我们发现在一些地方存在着一种“量子泡沫”——一种由“冻结的”量子和电子构成的能量，它们没有移动，但是……同时移动。最奇怪的是它的大退化期。也许我们可以用它来满足我们的兴趣?"
  apsr.10011.button:1 "我们必须采取行动!"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -73,7 +73,7 @@
  apsr.10013.title:0 "发现人工制品: §M$apsr10_planet_modifier$§!"
  apsr.10013.desc:0 "正如老档案所说，这个星球上存在一个子空间异常。以前的所有者曾尝试使用它，但没有成功。我们的预测是一样的，也许我们会这样做。"
  apsr.10013.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

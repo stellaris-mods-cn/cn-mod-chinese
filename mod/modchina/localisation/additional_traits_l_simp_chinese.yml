@@ -7,6 +7,9 @@
  trait_additrait_ephemeral:0 "短命"
  trait_additrait_ephemeral_desc:0 "§L他们和别的物种相比寿命短的可怜。§!\n"
  
+ trait_additrait_ephemeral_lithoid:0 "短暂"
+ trait_additrait_ephemeral_lithoid_desc:0 "§L这个物种比其他物种对时间的破坏抵抗力更弱。§!\n"
+ 
  trait_additrait_easily_distracted:0 "容易分心"
  trait_additrait_easily_distracted_desc:0 "§L他们总是三分钟热血,但难以长久。§!\n"
  
@@ -57,7 +60,7 @@
   
  trait_additrait_melancholic:0 "忧郁"
  trait_additrait_melancholic_desc:0 "§L他们总是哀花叹月,对生活难以提起兴趣。§!\n"
- 
+
  trait_additrait_rooted:0 "乡土情结"
  trait_additrait_rooted_desc:0 "§L这类物种不愿意离开自己的家乡.\n\n§W殖民船花费 : §R+10%\n§W殖民地发展速度 : §R-10%§!\n"
  
@@ -65,11 +68,11 @@
  trait_additrait_divided_desc:0 "§L这类物种很难达成共识. 他们把极多时间用来争吵。§!\n"
  
  trait_additrait_soft:0 "柔性"
- trait_additrait_soft_desc:0 "§L这个物种的成员有一个异常敏感的神经系统。结果是，他们过着更短,更可怕的生活。§!\n" 
-
+ trait_additrait_soft_desc:0 "§L这个物种的成员有一个异常敏感的神经系统。结果是，他们过着更短,更可怕的生活。§!\n"
+ 
  trait_additrait_genetically_ill:0 "基因病"
- trait_additrait_genetically_ill_desc:0 "§L这个物种的成员新陈代谢很弱，他们不能很容易地适应新的环境条件。§!\n" 
-  
+ trait_additrait_genetically_ill_desc:0 "§L这个物种的成员新陈代谢很弱，他们不能很容易地适应新的环境条件。§!\n"
+ 
  ###########################################################################################################################################################
  #Neutral
  
@@ -118,11 +121,11 @@
  trait_additrait_thermosynthetic:0 "热合生物"
  trait_additrait_thermosynthetic_desc:0 "§L这一物种可以从太阳或其他热源汲取营养的重要组成部分。§!\n"
  
- trait_additrait_war_lovers:0 "向往战争"
- trait_additrait_war_lovers_desc:0 "§L只有天生的弱种会认为这是残酷的. PS:+ 15％的战争幸福度,-5％的和平幸福度。§!\n"
+ # trait_additrait_war_lovers:0 "Friends of War"
+ # trait_additrait_war_lovers_desc:0 "§LWar is Love, Peace is Hate. At least according to this species.\n\n§WWarHappiness : §G+15%\n§WPeace Happiness : §G -5%§!\n"
  
- trait_additrait_peace_lovers:0 "渴望和平"
- trait_additrait_peace_lovers_desc:0 "§L从来就不存在好的战争,也不存在坏的和平. PS:+ 15％的和平幸福度,-5％的战争幸福度。§!\n"
+ # trait_additrait_peace_lovers:0 "Friends of Peace"
+ # trait_additrait_peace_lovers_desc:0 "§LWar is a horrible thing, this species wants nothing to do with it.\n\n§WPeace Happiness : §G+15%\n§WWar Happiness : §G-5%§!\n"
  
  trait_additrait_doulophage:0 "嗜血贵族"
  trait_additrait_doulophage_desc:0 "§L这一物种的成员不仅保有奴隶制,而且还吃它们。§!\n"
@@ -154,14 +157,14 @@
  trait_additrait_planetary_designers:0 "行星设计师"
  trait_additrait_planetary_designers_desc:0 "§L世界是无常的，它们的形态在流动，它们的形状在进化。这个物种知道如何引导这些变形。\n\n§W地貌改造速度 : §G+25%\n§W地貌改造成本 : §G-15%\n§W地形障碍清除速度 : §G+25%\n§W地形障碍清除成本 : §G-15%§!\n"
   
- trait_additrait_sky_born:0 "来自太空"
- trait_additrait_sky_born_desc:0 "§L从他们的出生起，这个物种已经到达了天空，因此它们擅长躲避和突袭。\n\n§W舰船闪避 : §G+8%\n§W武器伤害: §G+10%§!\n"
+ trait_additrait_sky_born:0 "天空出生"
+ trait_additrait_sky_born_desc:0 "§L从他们出生起，这个物种就已经能够到达天空，因此他们擅长躲避和攻击飞船。\n\n§W舰船闪避 : §G+8%\n§W武器伤害: §G+10%§!\n"
  
  trait_additrait_immune:0 "免疫"
- trait_additrait_immune_desc:0 "§L疾病?毒药?有毒气体?这一物种对环境变化的抵抗力比大多数物种更强，因此寿命更长。§!\n" 
+ trait_additrait_immune_desc:0 "§L疾病?毒药?有毒气体?这一物种对环境变化的抵抗力比大多数物种更强，因此寿命更长。§!\n"
  
  trait_additrait_steadfast:0 "坚定的"
- trait_additrait_steadfast_desc:0 "§L这一物种拥有一种异常顽强的神经系统，因此感觉不到疼痛。他们的生活平均时间更长，而且充满了较少的恐惧。§!\n" 
+ trait_additrait_steadfast_desc:0 "§L这一物种拥有一种异常顽强的神经系统，因此感觉不到疼痛。他们的生活平均时间更长，而且充满了较少的恐惧。§!\n"
  
  trait_additrait_keen_vision:0 "敏锐的视觉"
  trait_additrait_keen_vision_desc:0 "§L这种动物特别适应远距离战斗，通过密切观察敌人的行动来预测敌人的行动。\n\n§W武器射程 : §G+5%\n§W舰船闪避 : §G+5%§!\n"
@@ -207,7 +210,7 @@
  
  trait_additrait_long_cycles:0 "长周期"
  trait_additrait_long_cycles_desc:0 "§L最优生产。\n专注于 : 矿物 || 能量币 : 生产量。\n\n\n\n§W矿物产量5年: §G+15%\n§W5年后的能源产出 : §G+15%\n§W只要特征还存在，这个周期就会持续。§!\n"
- 
+
  ###########################################################################################################################################################
  #Presentients
  
@@ -219,7 +222,7 @@
  
  trait_additrait_presapient_tasty:0 "味道好极了"
  trait_additrait_presapient_tasty_desc:0 "§L这个物种是顶级食材。§!\n"
-  
+ 
  trait_additrait_presapient_bitter:0 "痛苦的"
  trait_additrait_presapient_bitter_desc:0 "§L这个物种的记忆饱含特别的苦难和难以忘却的过去。§!\n"
  
@@ -292,9 +295,9 @@
  wear_trait_additrait_sky_born:0 "来自天空"
  wear_trait_additrait_sky_born_desc:0 "§L这个帝国的优势物种擅长躲避和打击行动。§!\n"
  
- wear_trait_keen_vision:0 "敏锐的视觉"
- wear_trait_additrait_sky_born_desc:0 "§L这个帝国的优势物种有着天生敏锐的视觉。§!\n"
-  
+ wear_trait_additrait_keen_vision:0 "敏锐的视觉"
+ wear_trait_additrait_keen_vision_desc:0 "§L这个帝国的优势物种有着天生敏锐的视觉。§!\n"
+ 
  ###########################################################################################################################################################
  #Traits Modifiers
  
@@ -312,3 +315,7 @@
  mod_colonies_food_cost_mult:0 "殖民船食物成本"
  mod_colonies_consumer_goods_cost_mult:0 "殖民船消费品成本"
  
+ trait_additrait_war_lovers:0 "向往战争"
+ trait_additrait_war_lovers_desc:0 "§L只有天生的弱种会认为这是残酷的. PS:+ 15％的战争幸福度,-5％的和平幸福度。§!\n"
+ trait_additrait_peace_lovers:0 "渴望和平"
+ trait_additrait_peace_lovers_desc:0 "§L从来就不存在好的战争,也不存在坏的和平. PS:+ 15％的和平幸福度,-5％的战争幸福度。§!\n"

@@ -1,0 +1,32 @@
+﻿l_simp_chinese:
+
+ must_be_habitable:2 "目标是§Y适合居住的§!。"
+
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_DIGEST:0 "准备消化行星$PLANET|Y$"
+
+
+ PLANET_KILLER_DIGEST:0 "行星蒸煮器"
+ PLANET_KILLER_DIGEST_ACTION:0 "消化星球"
+ PLANET_KILLER_DIGEST_DESC:0 "一束热量将酶和细菌扩散到大气中，以便分解和提取星球上的重要成分。这个过程将把有机和金属生物分解成可用的资源。"
+ 
+ tech_pk_digest:0 "行星蒸煮器"
+ tech_pk_digest_desc:0 "$PLANET_KILLER_DIGEST_DESC$"
+ 
+
+ MESSAGE_DESC_FOR_PLANET_KILLER_DIGEST:0 "was digested by"
+ 
+ d_food_1:0 "£food£ +1"
+ d_food_2:0 "£food£ +2"
+ d_food_3:0 "£food£ +3"
+ d_food_4:0 "£food£ +4"
+ d_food_5:0 "£food£ +5"
+ d_food_6:0 "£food£ +6"
+ d_food_7:0 "£food£ +7"
+ d_food_8:0 "£food£ +8"
+ d_food_9:0 "£food£ +9"
+ d_food_10:0 "£food£ +10"
+ 
+ 
+ planet_destruction_digest.2.name:0 "行星蒸煮器"
+ planet_destruction_digest.2.desc:0 "[From.From.GetName]已经完成了消化酶和细菌有效载荷的部署。\n\n细菌几乎吞噬了一切:海洋、植物、金属、有机和合成生命，给[From.GetName]留下了一个贫瘠的世界，除了堆积如山的加工资源，什么都没有，随时可以收获。"
+ planet_destruction_digest.2.a:0 "吃掉它!"

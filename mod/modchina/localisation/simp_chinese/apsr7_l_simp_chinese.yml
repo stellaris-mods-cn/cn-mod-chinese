@@ -8,7 +8,7 @@
  apsr7_planet_modifier_desc:0 "这里发生的事情既不能用逻辑解释，也不能用科学解释，更不能用错误解释"
  
  apsr7_deposit:0 "$apsr7_planet_modifier$"
- apsr7_deposit_desc:0 "$apsr7_planet_modifier_desc$\n\n§M$apsr7_deposit_effect$§!" 
+ apsr7_deposit_desc:0 "$apsr7_planet_modifier_desc$\n\n§M$apsr7_deposit_effect$§!"
  apsr7_deposit_effect:0 "独特的资源可用: $apsr7_planet_modifier$"
  
  
@@ -95,7 +95,7 @@
  apsr.7003.title:0 "$apsr7_building_part3$ 建成"
  apsr.7003.desc:0 "多亏了纳米技术的最新研究，我们能够创造出一种超轻的材料，这是物理学无法解释的。我们重建了钟摆，结果，我们达到了最高效率。这是摆的极限。"
  apsr.7003.ok-button:0 "吃惊"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -127,7 +127,7 @@
  apsr.7013.title:0 "发现一个人造物: §M$apsr7_planet_modifier$§!"
  apsr.7013.desc:0 "在一颗行星上，人们发现了一些罕见的生命迹象。 \n在这个星球上，有一个异常地带:既不能用逻辑解释，也不能用科学解释，甚至不能用错误解释的事情就发生在那里。当我们试图靠近该区域的中心时，设备开始出现故障。§H[Root.GetLeaderName]§!认为我们需要一艘特殊的飞船来解释这个异常区域以及它的中间是什么"
  apsr.7013.button:1 "非常棒"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -166,7 +166,7 @@
  
  apsr.7213.title:0 "异常带探测"
  apsr.7213.desc:0 "我们已经开发了一个十分安全的容器,现在我们准备派远征异常区域的中心!"
- apsr.7213.button:1 "Get started"
+ apsr.7213.button:1 "开始"
 
  
  

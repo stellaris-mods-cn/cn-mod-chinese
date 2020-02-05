@@ -73,6 +73,30 @@
  requires_survey_not_colonised:1 "$TRIGGER_FAIL$不能在有可殖民行星的星系中建造。"
  requires_existing_tier_one_ringworld:1 "$TRIGGER_FAIL$必须建立在一个现有的、已完成的、标准的环形世界(四个可居住段)中建造。"
  cannot_be_dyson_ring:1 "$TRIGGER_FAIL$"不能从戴森环升级，必须从标准的环世界升级。"
+
+ # DISTRICTS
+ district_machine_rw_nexus:0 "枢纽区段"
+ district_machine_rw_nexus_plural:0 "枢纽区段"
+ district_machine_rw_nexus_desc:0 "高效区划填补了这一环世界部分，为无人机在部署到他们的工作任务之前提供服务和维修的位置。"
+ district_machine_rw_generator:0 "发电机区段"
+ district_machine_rw_generator_plural:0 "发电机区段"
+ district_machine_rw_generator_desc:0 "反应堆填补了这个环世界的部分，集中于能源的产生。"
+ district_machine_rw_science:0 "研究区段"
+ district_machine_rw_science_plural:0 "研究区段"
+ district_machine_rw_science_desc:0 "各种各样的研究设施填补了这一环的世界部分。"
+ district_machine_rw_farming:0 "农业区段"
+ district_machine_rw_farming_plural:0 "农业区段"
+ district_machine_rw_farming_desc:0 "无边无际的农田延伸到这个环世界区域，种植着大量的粮食。"
+ district_machine_rw_arms_industry:0 "铸造区段"
+ district_machine_rw_arms_industry_plural:0 "铸造区段"
+ district_machine_rw_arms_industry_desc:0 "面向军事工业，这个环世界段充满了冶炼厂的轰鸣声和冶金学的铿锵声。"
+ district_machine_rw_civilian_industry:0 "工业区段"
+ district_machine_rw_civilian_industry_plural:0 "工业区段"
+ district_machine_rw_civilian_industry_desc:0 "满是工匠和民用工业的车间排列在这段拥挤的街道上。"
+
+# INITIALIZERS
+ machine_ringworld_player_NAME:0 "§H伟大链接\n"
+ machine_ringworld_player_DESC:0 "§L完整的环形世界由四个适合机器物种居住的区域组成。\n§G   - 4x 环世界区段 (50)\n\n$system_initializer_DESC$"
  
  
 # Dyson Ring

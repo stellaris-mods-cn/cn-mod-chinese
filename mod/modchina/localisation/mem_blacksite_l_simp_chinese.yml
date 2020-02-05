@@ -1,4 +1,4 @@
-﻿
+﻿#Blacksite
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -206,7 +206,7 @@ l_simp_chinese:
  mem_blacksite_debris_desc:0 "驻扎在这里的一个失落帝国经营的设施已经被摧毁，但有用的设备仍然可以被抢救出来。"
  
  mem_blacksite_strange:0 "奇怪的注入"
- mem_blacksite_strange_desc:0 ""这颗行星被一种奇怪物质的注入撕裂了。它的一些地方仍然在废墟中徘徊。"
+ mem_blacksite_strange_desc:0 "这颗行星被一种奇怪物质的注入撕裂了。它的一些地方仍然在废墟中徘徊。"
  
  mem_blacksite_trashed_physics:0 "摧毁物理学部门"
  

@@ -368,32 +368,32 @@
     job_high_mage:0 "高阶法师"
     job_high_mage_plural:0 "高阶法师"
     job_high_mage_desc:0 "高阶法师是精通了魔法能力的魔法使用者。"
-    mod_job_high_mage_add:0 "添加高阶法师职位"
+    mod_job_high_mage_add:0 "添加高阶法师岗位"
 
     job_magical_researcher:0 "魔法研究员"
     job_magical_researcher_plural:0 "魔法研究人员"
     job_magical_researcher_desc:0 "专门开发新奥术能力的法师。"
-    mod_job_magical_researcher_add:0 "添加魔法研究员职位"
+    mod_job_magical_researcher_add:0 "添加魔法研究员岗位"
 
     job_manacite_alchemist:0 "法力水晶炼金术士"
     job_manacite_alchemist_plural:0 "法力水晶炼金术士"
     job_manacite_alchemist_desc:0 "法力水晶炼金术士是专门创造和净化法力水晶的法师。"
-    mod_job_manacite_alchemist_add:0 "添加法力水晶炼金术士职位"
+    mod_job_manacite_alchemist_add:0 "添加法力水晶炼金术士岗位"
 
     job_undead_thrall:0 "不死者仆从"
     job_undead_thrall_plural:0 "不死者仆从"
     job_undead_thrall_desc:0 "用于苦力劳动的没有智力的不死族"
-    mod_job_undead_thrall_add: "添加不死者仆从职位"
+    mod_job_undead_thrall_add: "添加不死者仆从岗位"
 
     job_manacite_drone:0 "法力水晶工蜂"
     job_manacite_drone_plural:0 "法力水晶工蜂"
     job_manacite_drone_desc:0 "为收集和净化法力水晶而定制的工蜂。"
-    mod_job_manacite_drone_add:0 "添加法力水晶工蜂职位"
+    mod_job_manacite_drone_add:0 "添加法力水晶工蜂岗位"
 
     job_abjurist_mage:0 "防护系法师"
     job_abjurist_mage_plural:0 "防护系法师"
     job_abjurist_mage_desc:0 "防护系法师专攻防御和保护法术，确保星球的安全。"
-    mod_job_abjurist_mage_add:0 "添加防护系法师职位"
+    mod_job_abjurist_mage_add:0 "添加防护系法师岗位"
     
             ### Planets ###
     
@@ -509,7 +509,7 @@
 
     MAGIKS_START_SCREEN_MAGOCRACY:0 "世界上的魔法使用者慢慢地成长，在世界各国政府的许多方面占据主导地位。即使由于各国之间的分歧而产生冲突，世界各地的法师也在努力将其统一起来。在几个世纪前他们成功做到了。"
 
-    MAGIKS_START_SCREEN_CELEBRATED_MONARCHY:0 "随着大众媒体在全球传播，名人逐渐受到越来越多的崇拜，在国家首脑的选举中逐渐获胜，直到最终所有的治理职位都由一个名人担任，现在这个名人作为一个非政府首脑执政。"
+    MAGIKS_START_SCREEN_CELEBRATED_MONARCHY:0 "随着大众媒体在全球传播，名人逐渐受到越来越多的崇拜，在国家首脑的选举中逐渐获胜，直到最终所有的治理岗位都由一个名人担任，现在这个名人作为一个非政府首脑执政。"
     
     MAGIKS_START_SCREEN_ROCKIN_REGIME:0 "民众最终变得疲惫和无聊，缺乏前进的动力和动力。在我们最低谷的时候，弥赛亚（救世主）出现了，带领我们进入了一个文化和进步的黄金时代"
     

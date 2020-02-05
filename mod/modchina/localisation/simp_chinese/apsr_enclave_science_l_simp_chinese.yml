@@ -1,0 +1,292 @@
+﻿l_simp_chinese:
+
+ apsr_enclave_science_window_title:0 "改进:科学和领导者"
+ 
+ 
+ 
+ 
+ 
+ ### ТЕХНОЛОГИИ ###
+ 
+ TECH_APSR_ENCLAVE_SCIENCE_TITLE:0 "§M$apsr_enclave_science_window_title$§!"
+ TECH_APSR_ENCLAVE_SCIENCE_DESC:0 "我们用积累的£apsr_knowledge£ §M$apsr_knowledge$§!来换取帝国的技术进步，提升我们的领袖!"
+ 
+ # УЛУЧШЕНИЕ 01 # 
+ tech_apsr_enclave_science_button_01_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_01_bonus_desc:0 "$apsr_enclave_science_button_01_desc$"
+ 
+ # УЛУЧШЕНИЕ 02 # 
+ tech_apsr_enclave_science_button_02_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_02_bonus_desc:0 "$apsr_enclave_science_button_02_desc$"
+ 
+ # УЛУЧШЕНИЕ 03 # 
+ tech_apsr_enclave_science_button_03_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_03_bonus_desc:0 "$apsr_enclave_science_button_03_desc$"
+ 
+ # УЛУЧШЕНИЕ 04 # 
+ tech_apsr_enclave_science_button_04_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_04_bonus_desc:0 "$apsr_enclave_science_button_04_desc$"
+ 
+ # УЛУЧШЕНИЕ 05dg # 
+ tech_apsr_enclave_science_button_05dg_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_05dg_bonus_desc:0 "$apsr_enclave_science_button_05dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 05m # 
+ tech_apsr_enclave_science_button_05m_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_05m_bonus_desc:0 "$apsr_enclave_science_button_05m_desc$"
+ 
+ # УЛУЧШЕНИЕ 06 # 
+ tech_apsr_enclave_science_button_06_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_06_bonus_desc:0 "$apsr_enclave_science_button_06_desc$"
+ 
+ # УЛУЧШЕНИЕ 07 # 
+ tech_apsr_enclave_science_button_07_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_07_bonus_desc:0 "$apsr_enclave_science_button_07_desc$"
+ 
+ # УЛУЧШЕНИЕ 08 # 
+ tech_apsr_enclave_science_button_08_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_08_bonus_desc:0 "$apsr_enclave_science_button_08_desc$"
+ 
+ # УЛУЧШЕНИЕ 09dg # 
+ tech_apsr_enclave_science_button_09dg_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_09dg_bonus_desc:0 "$apsr_enclave_science_button_09dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 09m # 
+ tech_apsr_enclave_science_button_09m_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_09m_bonus_desc:0 "$apsr_enclave_science_button_09m_desc$"
+ 
+ # УЛУЧШЕНИЕ 10 # 
+ tech_apsr_enclave_science_button_10_bonus:0 "§W远古知识: 少量§!"
+ tech_apsr_enclave_science_button_10_bonus_desc:0 "$apsr_enclave_science_button_10_desc$"
+ 
+ # УЛУЧШЕНИЕ 11 # 
+ tech_apsr_enclave_science_button_11_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_science_button_11_bonus_desc:0 "$apsr_enclave_science_button_11_desc$"
+ 
+ # УЛУЧШЕНИЕ 12 # 
+ tech_apsr_enclave_science_button_12_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_science_button_12_bonus_desc:0 "$apsr_enclave_science_button_12_desc$"
+ 
+ # УЛУЧШЕНИЕ 13 # 
+ tech_apsr_enclave_science_button_13_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_science_button_13_bonus_desc:0 "$apsr_enclave_science_button_13_desc$"
+ 
+ # УЛУЧШЕНИЕ 14 # 
+ tech_apsr_enclave_science_button_14_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_science_button_14_bonus_desc:0 "$apsr_enclave_science_button_14_desc$"
+ 
+ # УЛУЧШЕНИЕ 15dg # 
+ tech_apsr_enclave_science_button_15dg_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_science_button_15dg_bonus_desc:0 "$apsr_enclave_science_button_15dg_desc$"
+  
+ # УЛУЧШЕНИЕ 15m # 
+ tech_apsr_enclave_science_button_15m_bonus:0 "§H远古知识: 中量§!"
+ tech_apsr_enclave_science_button_15m_bonus_desc:0 "$apsr_enclave_science_button_15m_desc$"
+ 
+ # УЛУЧШЕНИЕ 16 # 
+ tech_apsr_enclave_science_button_16_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_science_button_16_bonus_desc:0 "$apsr_enclave_science_button_16_desc$"
+ 
+ # УЛУЧШЕНИЕ 17 # 
+ tech_apsr_enclave_science_button_17_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_science_button_17_bonus_desc:0 "$apsr_enclave_science_button_17_desc$"
+ 
+ # УЛУЧШЕНИЕ 18dg # 
+ tech_apsr_enclave_science_button_18dg_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_science_button_18dg_bonus_desc:0 "$apsr_enclave_science_button_18dg_desc$"
+ 
+ # УЛУЧШЕНИЕ 18m # 
+ tech_apsr_enclave_science_button_18m_bonus:0 "§M远古知识: 大量§!"
+ tech_apsr_enclave_science_button_18m_bonus_desc:0 "$apsr_enclave_science_button_18m_desc$"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### УЛУЧШЕНИЯ ###
+ 
+ ## УРОВЕНЬ 0 ## 
+ apsr_enclave_science_available_section_title:0 "§M可用§!"
+ apsr_enclave_science_buy_desc:0 "§M购买选定的改进§!"
+ apsr_enclave_science_please_select_desc:0 "§M请在右边栏中选择一个改进!§!"
+ apsr_enclave_science_locked:0 "改进锁定"
+ 
+ ## УРОВЕНЬ 1 ##
+ apsr_enclave_science_buttons_stage1_title:0 "§M等级 1§!"
+ 
+ # УЛУЧШЕНИЕ 1 #
+ apsr_enclave_science_button_01_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_01_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在物理研究领域取得进展。"
+ apsr_enclave_science_button_01_effect:0 "效果: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+10%§!"
+ apsr_enclave_science_button_01_failtext:0 "§R我们还没有准备好给你这个改进。\n你应该在几年内与我们联系。§!"
+ apsr_enclave_science_button_01_info:0 "$apsr_enclave_science_button_01_title$\n$apsr_enclave_science_button_01_desc$\n§W--------------§!\n$apsr_enclave_science_button_01_effect$"
+ 
+ # УЛУЧШЕНИЕ 2 #
+ apsr_enclave_science_button_02_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_02_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在社会学研究领域取得进展。"
+ apsr_enclave_science_button_02_effect:0 "效果: §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+10%§!"
+ apsr_enclave_science_button_02_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_02_info:0 "$apsr_enclave_science_button_02_title$\n$apsr_enclave_science_button_02_desc$\n§W--------------§!\n$apsr_enclave_science_button_02_effect$"
+ 
+ # УЛУЧШЕНИЕ 3 #
+ apsr_enclave_science_button_03_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_03_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在工程研究领域取得进展。"
+ apsr_enclave_science_button_03_effect:0 "效果: §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+10%§!"
+ apsr_enclave_science_button_03_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_03_info:0 "$apsr_enclave_science_button_03_title$\n$apsr_enclave_science_button_03_desc$\n§W--------------§!\n$apsr_enclave_science_button_03_effect$"
+ 
+ # УЛУЧШЕНИЕ 4 #
+ apsr_enclave_science_button_04_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_04_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以采用更好的方法来培训我们的领袖"
+ apsr_enclave_science_button_04_effect:0 "效果: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§!"
+ apsr_enclave_science_button_04_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_04_info:0 "$apsr_enclave_science_button_04_title$\n$apsr_enclave_science_button_04_desc$\n§W--------------§!\n$apsr_enclave_science_button_04_effect$"
+ 
+ # УЛУЧШЕНИЕ 5 #
+ apsr_enclave_science_button_05dg_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_05dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以减缓身体一些重要部位的衰老。"
+ apsr_enclave_science_button_05dg_effect:0 "效果: §Y$MOD_LEADER_AGE$§! §G+10§!年"
+ apsr_enclave_science_button_05dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_05dg_info:0 "$apsr_enclave_science_button_05dg_title$\n$apsr_enclave_science_button_05dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_05dg_effect$"
+ apsr_enclave_science_button_05m_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_05m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以改进我们的教学方法。"
+ apsr_enclave_science_button_05m_effect:0 "效果: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§!"
+ apsr_enclave_science_button_05m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_05m_info:0 "$apsr_enclave_science_button_05m_title$\n$apsr_enclave_science_button_05m_desc$\n§W--------------§!\n$apsr_enclave_science_button_05m_effect$"
+ 
+ # УЛУЧШЕНИЕ 6 #
+ apsr_enclave_science_button_06_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_06_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在物理学和社会学的领域取得进展"
+ apsr_enclave_science_button_06_effect:0 "效果: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+5%§!并且§Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+5%§!"
+ apsr_enclave_science_button_06_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_06_info:0 "$apsr_enclave_science_button_06_title$\n$apsr_enclave_science_button_06_desc$\n§W--------------§!\n$apsr_enclave_science_button_06_effect$"
+ 
+ # УЛУЧШЕНИЕ 7 #
+ apsr_enclave_science_button_07_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_07_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在社会学和工程学的领域取得进展。"
+ apsr_enclave_science_button_07_effect:0 "效果: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+5%§!并且§Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+5%§!"
+ apsr_enclave_science_button_07_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_07_info:0 "$apsr_enclave_science_button_07_title$\n$apsr_enclave_science_button_07_desc$\n§W--------------§!\n$apsr_enclave_science_button_07_effect$"
+ 
+ # УЛУЧШЕНИЕ 8 #
+ apsr_enclave_science_button_08_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_08_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在物理学和工程学的领域取得进展。"
+ apsr_enclave_science_button_08_effect:0 "效果: §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+5%§!并且§Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+5%§!"
+ apsr_enclave_science_button_08_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_08_info:0 "$apsr_enclave_science_button_08_title$\n$apsr_enclave_science_button_08_desc$\n§W--------------§!\n$apsr_enclave_science_button_08_effect$"
+ 
+ # УЛУЧШЕНИЕ 9 #
+ apsr_enclave_science_button_09dg_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_09dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以研发延缓领袖衰老的药物"
+ apsr_enclave_science_button_09dg_effect:0 "效果: §Y$MOD_LEADER_AGE$§! §G+10§!年"
+ apsr_enclave_science_button_09dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_09dg_info:0 "$apsr_enclave_science_button_09dg_title$\n$apsr_enclave_science_button_09dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_09dg_effect$"
+ apsr_enclave_science_button_09m_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_09m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以优化机器学习协议。"
+ apsr_enclave_science_button_09m_effect:0 "效果: §Y$MOD_LEADER_SKILL_等级S$§! §G+2§!"
+ apsr_enclave_science_button_09m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_09m_info:0 "$apsr_enclave_science_button_09m_title$\n$apsr_enclave_science_button_09m_desc$\n§W--------------§!\n$apsr_enclave_science_button_09m_effect$"
+ 
+ # УЛУЧШЕНИЕ 10 #
+ apsr_enclave_science_button_10_title:0 "§W远古知识: 少量§!"
+ apsr_enclave_science_button_10_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以提高我们领袖的培训潜力。"
+ apsr_enclave_science_button_10_effect:0 "效果: §Y$MOD_LEADER_SKILL_等级S$§! §G+2§!"
+ apsr_enclave_science_button_10_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_10_info:0 "$apsr_enclave_science_button_10_title$\n$apsr_enclave_science_button_10_desc$\n§W--------------§!\n$apsr_enclave_science_button_10_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 2 ##
+ apsr_enclave_science_buttons_stage2_title:0 "§M等级 2§!"
+ 
+ # УЛУЧШЕНИЕ 11 #
+ apsr_enclave_science_button_11_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_science_button_11_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以减少管理系统的资源损失，同时提高领导者的最大潜能"
+ apsr_enclave_science_button_11_effect:0 "效果: §Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§! §G-10%§!并且§Y$MOD_LEADER_SKILL_等级S$§! §G+2§!"
+ apsr_enclave_science_button_11_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_11_info:0 "$apsr_enclave_science_button_11_title$\n$apsr_enclave_science_button_11_desc$\n§W--------------§!\n$apsr_enclave_science_button_11_effect$"
+ 
+ # УЛУЧШЕНИЕ 12 #
+ apsr_enclave_science_button_12_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_science_button_12_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在物理现象的研究上取得显著的进展。"
+ apsr_enclave_science_button_12_effect:0 "效果: §Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_12_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_12_info:0 "$apsr_enclave_science_button_12_title$\n$apsr_enclave_science_button_12_desc$\n§W--------------§!\n$apsr_enclave_science_button_12_effect$"
+ 
+ # УЛУЧШЕНИЕ 13 #
+ apsr_enclave_science_button_13_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_science_button_13_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在社会学方面的研究上取得显著的进展。"
+ apsr_enclave_science_button_13_effect:0 "效果: §Y$MOD_COUNTRY_SOCIETY_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_13_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_13_info:0 "$apsr_enclave_science_button_13_title$\n$apsr_enclave_science_button_13_desc$\n§W--------------§!\n$apsr_enclave_science_button_13_effect$"
+ 
+ # УЛУЧШЕНИЕ 14 #
+ apsr_enclave_science_button_14_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_science_button_14_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以在工程和力学的研究上取得显著的进步。"
+ apsr_enclave_science_button_14_effect:0 "效果: §Y$MOD_COUNTRY_ENGINEERING_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_14_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_14_info:0 "$apsr_enclave_science_button_14_title$\n$apsr_enclave_science_button_14_desc$\n§W--------------§!\n$apsr_enclave_science_button_14_effect$"
+ 
+ # УЛУЧШЕНИЕ 15 #
+ apsr_enclave_science_button_15dg_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_science_button_15dg_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以开发一种生物补充剂，改善大脑活动，增强免疫力。"
+ apsr_enclave_science_button_15dg_effect:0 "效果: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§!并且§Y$MOD_LEADER_AGE$§! §G+20§!年"
+ apsr_enclave_science_button_15dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_15dg_info:0 "$apsr_enclave_science_button_15dg_title$\n$apsr_enclave_science_button_15dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_15dg_effect$"
+ apsr_enclave_science_button_15m_title:0 "§H远古知识: 中量§!"
+ apsr_enclave_science_button_15m_desc:0 "利用所收集的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以进一步优化机器学习系统"
+ apsr_enclave_science_button_15m_effect:0 "效果: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+35%§!"
+ apsr_enclave_science_button_15m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_15m_info:0 "$apsr_enclave_science_button_15m_title$\n$apsr_enclave_science_button_15m_desc$\n§W--------------§!\n$apsr_enclave_science_button_15m_effect$"
+ 
+ 
+ 
+ ## УРОВЕНЬ 3 ##
+ apsr_enclave_science_buttons_stage3_title:0 "§M等级 3§!"
+ 
+ # УЛУЧШЕНИЕ 16 #
+ apsr_enclave_science_button_16_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_science_button_16_desc:0 "花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们将提高我们的殖民地之间信息交换的效率。"
+ apsr_enclave_science_button_16_effect:0 "效果: §Y$MOD_EMPIRE_SIZE_PENALTY_MULT$§! §G-30%§!"
+ apsr_enclave_science_button_16_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_16_info:0 "$apsr_enclave_science_button_16_title$\n$apsr_enclave_science_button_16_desc$\n§W--------------§!\n$apsr_enclave_science_button_16_effect$"
+ 
+ # УЛУЧШЕНИЕ 17 #
+ apsr_enclave_science_button_17_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_science_button_17_desc:0 "花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们可以建立一个智力研究人员的体系，为各种研究提供极大的帮助"
+ apsr_enclave_science_button_17_effect:0 "效果: §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§! §G+20%§!"
+ apsr_enclave_science_button_17_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_17_info:0 "$apsr_enclave_science_button_17_title$\n$apsr_enclave_science_button_17_desc$\n§W--------------§!\n$apsr_enclave_science_button_17_effect$"
+ 
+ # УЛУЧШЕНИЕ 18 #
+ apsr_enclave_science_button_18dg_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_science_button_18dg_desc:0 "花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，我们获得了改变脑细胞的技术，这将导致我们领导者的智力增长"
+ apsr_enclave_science_button_18dg_effect:0 "效果: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+20%§!并且§Y$MOD_LEADER_AGE$§! §G+50§!年"
+ apsr_enclave_science_button_18dg_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_18dg_info:0 "$apsr_enclave_science_button_18dg_title$\n$apsr_enclave_science_button_18dg_desc$\n§W--------------§!\n$apsr_enclave_science_button_18dg_effect$"
+ apsr_enclave_science_button_18m_title:0 "§M远古知识: 大量§!"
+ apsr_enclave_science_button_18m_desc:0 "花费了大量的£apsr_knowledge£ §M$apsr_knowledge$§!，这将发展出一套全新的培训我们领袖的体系。"
+ apsr_enclave_science_button_18m_effect:0 "效果: §Y$MOD_LEADER_SPECIES_EXP_GAIN$§! §G+50%§!"
+ apsr_enclave_science_button_18m_failtext:0 "$apsr_enclave_science_button_01_failtext$"
+ apsr_enclave_science_button_18m_info:0 "$apsr_enclave_science_button_18m_title$\n$apsr_enclave_science_button_18m_desc$\n§W--------------§!\n$apsr_enclave_science_button_18m_effect$"
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

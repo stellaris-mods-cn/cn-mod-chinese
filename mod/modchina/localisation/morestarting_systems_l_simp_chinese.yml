@@ -1,0 +1,64 @@
+﻿l_simp_chinese:
+##############################################/
+# Renegade's Starting Systems Mod ###########/
+############################################/
+
+#########################################/
+# Starting System Initializer ##########/
+#######################################/
+ 
+
+
+ #Alpha Centauri System
+    alpha_centauri_system_NAME:0 "§B半人马座阿尔法星"
+    alpha_centauri_system_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L以半人马座阿尔法星系为模型，这群恒星形成了几个行星和一个富有的小行星带。这是为了向银河系进发并在群星中占有一席之地!\n\n$system_initializer_DESC$"
+ 
+ #Pulsar System
+    pulsar_system_NAME:0 "§B脉冲星"
+    pulsar_system_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L母星围绕着一颗脉冲星，这颗行星战胜了种种困难，能够支持生命到这个高龄。你们这一物种已经对恒星产生了兴趣，而它对扩张的渴望也在不断增长，这种渴望驱使着你们更深入地探索恒星。\n\n$system_initializer_DESC$"
+
+ #Calesius System
+    Calesius_system_initializer_NAME:0 "§B中子星"
+    Calesius_system_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L这个围绕中子星运行的星系以某种方式使生命进入了太空时代。现在，有了相当数量的资源，你可以把它带到银河系，让它屈从于你的意志。\n\n$system_initializer_DESC$""
+
+ #Zarriah System
+    Zarriah_System_initializer_NAME:0 "§B扎里亚星系"
+    Zarriah_System_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L这个三星星系有一个独特的组成，这三颗恒星在完美的和谐中释放出适量的辐射和光，使这个星系适合居住。这个舒适的系统为你提供了一个健康的家园星系，当你的物种步入银河系并在历史书上留下名字的时候。你将如何被记住取决于你自己。\n记住，历史是由胜利者书写的!\n\n$system_initializer_DESC$""
+    
+ #Osiris System
+    Osiris_system_initializer_NAME:0 "§B奥西里斯星系"
+    Osiris_system_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L围绕着一个黑洞运行的这颗K类恒星最终将被毁灭，已经从它的姐妹星欧西里斯B上看到了行星和卫星的毁灭，你的母星最终将被毁灭。估计数万年将发生，然而这个即将来临的厄运将你们物种绑在一起，并引导他们在100年内从飞行到比光更快的速度。\n\n这一令人印象深刻的成就激发了人们对扩张和自我保护的日益增长的渴望，把所有其他生命形式置于确保我们物种生存的次要地位。\n\n如果你是一个超级英雄，你就是一个移动的灵魂。\n\n$system_initializer_DESC$""
+    
+ #Ringworld System
+    ruined_ringworld_initializer_NAME:0 "§B毁坏的环世界"
+    ruined_ringworld_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L这个长期被遗弃的环形世界被环绕在它周围的巨大的小行星带遮住了。只有当我们去了恒星才被发现，它驱动着我们对探索的渴望，并推动我们深入太阳系。还有什么?\n\n最近的研究表明，小行星带实际上是几个大行星的遗迹，这些大行星曾被开采和摧毁，以作为建造环形世界的材料。我们一直想知道为什么我们的星系里没有行星和小行星。这是他们的毁灭吗?是谁造的?他们去了哪里?为什么我们能幸免于他们在太阳系形成期间对它的彻底毁灭?\n\n 我们可能永远不会知道…\n\n$system_initializer_DESC$"   
+  
+ #Cyclops System
+    cyclops_system_initializer_NAME:0 "§B独眼巨人星系"
+    cyclops_system_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L围绕着一颗巨大的B类行星运行的大型气态巨星，你的母星收到了来自它的保护者母星的保护。有了小行星带和其他行星在这个星系中，你将不会有任何关于矿物的问题，然而一个小黑洞最近被困在太阳的重力井中。\n\n或....你被它困住了?\n\n你们的物种现在必须利用新发现的超光速技术，冒险深入银河系，在恒星间建立新的家园。你会去见朋友吗?或使敌人呢?\n\n$system_initializer_DESC$"
+    
+ #Fallen Ancients
+    fallen_ancient_initializer_NAME:0 "§B失落先驱者"
+    fallen_ancient_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L传说你们的物种就在隔壁进化，然而你们的行星被摧毁了，有限数量的你们物种存活下来，被放进了只能被称为动物园的地方。在你的人口中的某些派别相信你是被神从你自己的毁灭中拯救出来的，并且在过去的一千年里保持着安全。不管怎样，你们种族的过去几乎已经被消灭了。\n\n几百年前，一颗巨大的流星撞击了你的星球，你的种族几千年来一直以它为家，并引入了一种病毒，消灭了你的捕获者——或者说是救世主?-和船上的其他生命。你们已经能够逆向工程你们周围的技术，现在已经获得了你们自己的自由。\n\n这是你的征服者力量吗?或者这就是你身为神的残酷结局?\n\n$system_initializer_DESC$"
+    
+#Goranth System
+    goranth_system_initializer_NAME:0 "§B戈兰星系"
+    goranth_system_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L一个S型的太阳系，你的母星和它的姊妹星在它们母星的几乎相反的两边运行。完成一个完整的轨道需要超过250年的时间，你的姐妹星花了超过250年的时间来完成一个完整的轨道，但它却在几十年的时间里都不为人所知，这给它的历史知识造成了巨大的空白。\n\n你们的物种自从他们第一次能够敬畏和惊奇地凝视宇宙以来，就已经知道它的存在，他们所知道的仅仅是他们有一个离太阳很近的邻居。\n只知道在过去的几百年左右，有另一个行星和生命一起在你的母星星系里。\n\n你们现在已经获得了穿越你们母星星系所需的技术，并对另一个行星提出了要求。\n\n前进，让宇宙屈服于你的意志!\n\n$system_initializer_DESC$"
+    
+#Mortem System
+    mortem_system_initializer_NAME:0 "§B死亡之后"
+    mortem_system_initializer_DESC:0 "§HMore Starting Systems  \n--------------------------------\n§L你们物种处于核战争和你们星球毁灭的边缘。这是太空时代的黎明。卫星配备了核武器，如果不定期推迟，它们将打击预先埋设的目标。\n\n一个真正的土地政策，确保相互毁灭，如果你的敌人先攻击你。太空中有足够的核武器来消灭所有生命数百次。\n\n一天，天空中出现了太阳，片刻之后，一个巨大的不稳定的黑洞出现了。\n\n你的母星是如何生存下来的?没有人能解释它。没有合乎逻辑的解释。内行星剥夺了所有的生命和大气。外层行星冻结成大块的冰和石头……\n\n由此带来的是战争的终结。整个文明为了一个共同的目标团结在一起。你存在有了新的目的。\n\n找一个新的家园……没有什么能阻挡你……\n\n\n$system_initializer_DESC$"
+    
+    
+    
+    
+####################################
+# Planet Classes
+####################################
+
+ pc_nuked_mss:0 "坟墓星球"
+ pc_nuked_mss_desc:0 "一个有氮氧大气层的岩石星球。它目前正经历一个核冬天，大气中有密集的煤烟气溶胶层。高水平的表面辐射。没有生命的迹象。"
+ 
+ 
+ 
+ 

@@ -18,13 +18,13 @@
  shipsize_mem_vazuran_escort_construction_speed_mult:0 ""
  shipsize_mem_vazuran_escort_build_cost_mult:0 ""
  shipsize_mem_vazuran_escort_upkeep_mult:0 ""
- mem_vazuran_control_drone:0 "指挥工蜂"
- mem_vazuran_control_drone_plural:0 "指挥工蜂"
+ mem_vazuran_control_drone:0 "指挥无人机"
+ mem_vazuran_control_drone_plural:0 "指挥无人机"
  shipsize_mem_vazuran_control_drone_construction_speed_mult:0 ""
  shipsize_mem_vazuran_control_drone_build_cost_mult:0 ""
  shipsize_mem_vazuran_control_drone_upkeep_mult:0 ""
- mem_vazuran_combat_drone:0 "战斗工蜂"
- mem_vazuran_combat_drone_plural:0 "战斗工蜂"
+ mem_vazuran_combat_drone:0 "作战无人机"
+ mem_vazuran_combat_drone_plural:0 "作战无人机"
  shipsize_mem_vazuran_combat_drone_construction_speed_mult:0 ""
  shipsize_mem_vazuran_combat_drone_build_cost_mult:0 ""
  shipsize_mem_vazuran_combat_drone_upkeep_mult:0 ""
@@ -73,10 +73,10 @@
 
  #Techs
  tech_mem_vazuran_xentronium_armor:0 "Xentronium装甲"
- tech_mem_vazuran_xentronium_armor_desc:0 "这种高密度材料曾为瓦祖安战舰提供了极强的耐用性。它远远优于任何其他已知的装甲类型。"
+ tech_mem_vazuran_xentronium_armor_desc:0 "这种高密度材料曾为瓦祖兰战舰提供了极强的耐用性。它远远优于任何其他已知的装甲类型。"
 
  tech_mem_vazuran_xentronium_rounds:0 "Xentronium弹"
- tech_mem_vazuran_xentronium_rounds_desc:0 "这种高密度材料曾为瓦祖安战舰提供了极强的耐用性。但它的特点也使它成为我们动能弹药的首选材料。"
+ tech_mem_vazuran_xentronium_rounds_desc:0 "这种高密度材料曾为瓦祖兰战舰提供了极强的耐用性。但它的特点也使它成为我们动能弹药的首选材料。"
  
  tech_mem_vazuran_damper_field_bypass:0 "缓冲力场分流"
  tech_mem_vazuran_damper_field_bypass_desc:0 "深入了解缓冲力场技术所基于的物理定律将使我们能够绕过它对我们武器的影响 - 至少在某种程度上......"
@@ -91,7 +91,7 @@
  MEM_VAZURANS_ENERGY_DAMPENER:0 "能量缓冲力场"
  mem_vazurans_aura_energy_dampener:0 "能量缓冲器"
  mem_VAZURAN_ARMOR:0 "Xentronium装甲"
- mem_VAZURAN_ARMOR_DESC:0 "这种高密度材料曾为瓦祖安战舰提供了极强的耐用性。它远远优于任何其他已知的装甲类型。"
+ mem_VAZURAN_ARMOR_DESC:0 "这种高密度材料曾为瓦祖兰战舰提供了极强的耐用性。它远远优于任何其他已知的装甲类型。"
  mem_XENTRONIUM_ARMOR_L:0 "大型Xentronium装甲"
  mem_XENTRONIUM_ARMOR_M:0 "中型Xentronium装甲"
  mem_XENTRONIUM_ARMOR_S:0 "小型Xentronium装甲"
@@ -99,20 +99,20 @@
  mem_VAZURAN_PD:0 "点防御炮"
 
  #Modifiers
- mod_damage_vs_country_type_mem_vazurans_mult:0 "对瓦祖兰的伤害"
+ mod_damage_vs_country_type_mem_vazurans_mult:0 "对瓦祖兰伤害"
 
  mem_vazurans_damper_field_exploit:0 "适应缓冲力场"
  mem_vazurans_damper_field_exploit_desc:0 "由于我们对其能力和极限的基本见解，我们能够调整我们的武器以利用一些小的弱点。"
 
- mem_vazurans_raided:0 "被瓦祖安突袭的目标"
- mem_vazurans_raided_desc:0 "这颗星球在瓦祖安的残酷袭击下被摧毁了。需要很长时间才能从这次残忍的打击中恢复过来。"
+ mem_vazurans_raided:0 "被瓦祖兰突袭的目标"
+ mem_vazurans_raided_desc:0 "这颗星球在瓦祖兰的残酷袭击下被摧毁了。需要很长时间才能从这次残忍的打击中恢复过来。"
 
  #deposit blocker
  d_mem_vazuran_bomb_crater:0 "$d_bomb_crater$"
  d_mem_vazuran_bomb_crater_desc:0 "$d_bomb_crater_desc$"
 
  #Opinion Modifier
- mem_ended_vazuran_menace:0 "终结瓦祖安威胁"
+ mem_ended_vazuran_menace:0 "终结瓦祖兰威胁"
  
  #Megastructures
  #standard empire stabilized rift
@@ -167,7 +167,7 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
 
  #First Contact message
  mem_vazurans.6.name:0 "收到信息"
- mem_vazurans.6.desc:0 "我们是瓦祖安人。我们在你的祖先甚至还没有离开他们可怜的洞穴之前很久就占据了银河系......你将为我们服务，或与你之前的那些家伙共享同样的命运。你得知道你只是在我们允许下才存在......如果你敢于抗拒，你的存在将在我们要求结束时结束。"
+ mem_vazurans.6.desc:0 "我们是瓦祖兰人。我们在你的祖先甚至还没有离开他们可怜的洞穴之前很久就占据了银河系......你将为我们服务，或与你之前的那些家伙共享同样的命运。你得知道你只是在我们允许下才存在......如果你敢于抗拒，你的存在将在我们要求结束时结束。"
  mem_vazurans.6.a:0 "你们是谁？"
  mem_vazurans.6.a.response:0 "你的主人...你不需要知道更多..."
  #peaceful reply
@@ -185,33 +185,33 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
 
  #Colony lost to Vazuran Terror attack
  mem_vazurans.8.name:0 "失去殖民地"
- mem_vazurans.8.desc:0 "瓦祖安人并不满足于仅仅夺走我们的资源。整个殖民队都已被摧毁，而我们目前仍无法应对这些暴行。"
+ mem_vazurans.8.desc:0 "瓦祖兰人并不满足于仅仅夺走我们的资源。整个殖民队都已被摧毁，而我们目前仍无法应对这些暴行。"
  mem_vazurans.8.a:0 "必须想办法阻止他们！"
  mem_vazurans.8.b:0 "我们必须保护我们的人民…不知怎么的!"
 
  #Colony attacked by Vazuran Raid
  mem_vazurans.9.name:0 "殖民地突袭"
- mem_vazurans.9.desc.a:0 "我们在[mem_vazurans_raid_planet_name.Getname]的殖民地遭到了瓦祖安突袭舰队的袭击。无数公民在这场鲁莽的袭击中丧生，星球的基础设施遭到破坏。\n\n尽管出现了这一可怕的结果，但如果没有我们的星球防御系统，伤亡和损失将会更大。"
- mem_vazurans.9.desc.b:0 "我们在[mem_vazurans_raid_planet_name.Getname]的殖民地遭到了瓦祖安突袭舰队的袭击。无数公民在这场鲁莽的袭击中丧生，星球的基础设施遭到破坏。"
+ mem_vazurans.9.desc.a:0 "我们在[mem_vazurans_raid_planet_name.Getname]的殖民地遭到了瓦祖兰突袭舰队的袭击。无数公民在这场鲁莽的袭击中丧生，星球的基础设施遭到破坏。\n\n尽管出现了这一可怕的结果，但如果没有我们的星球防御系统，伤亡和损失将会更大。"
+ mem_vazurans.9.desc.b:0 "我们在[mem_vazurans_raid_planet_name.Getname]的殖民地遭到了瓦祖兰突袭舰队的袭击。无数公民在这场鲁莽的袭击中丧生，星球的基础设施遭到破坏。"
  mem_vazurans.9.a:0 "我们会忍受!"
  mem_vazurans.9.b:0 "我们必须加强防御!"
  mem_vazurans.9.c:0 "我们必须保护我们的人民…但如何做?!"
 
  #Planetary defense project
  MEM_VAZURANS_DEFENSE_PLAN:0 "加强防御"
- MEM_VAZURANS_DEFENSE_PLAN_DESC:0 "在我们的一个殖民地遭到毁灭性的攻击之后，已经发起了一项主动行动，以寻找更好地保护我国人民免受瓦祖安威胁的方法。"
+ MEM_VAZURANS_DEFENSE_PLAN_DESC:0 "在我们的一个殖民地遭到毁灭性的攻击之后，已经发起了一项主动行动，以寻找更好地保护我国人民免受瓦祖兰威胁的方法。"
 
  #Information event about a known empire being attacked
  mem_vazurans.20.name:0 "银河风暴"
  mem_vazurans.20a.desc:0 "我们收到关于未知势力攻击[mem_vazuran_victim.GetName]的报告。"
- mem_vazurans.20b.desc:0 "我们在[mem_vazuran_victim.GetName]的情报人员报道了瓦祖安势力正在进行的另一场突袭。"
- mem_vazurans.20c.desc:0 "我们已经收到了关于瓦祖安势力对[mem_vazuran_victim.GetName]正在进行的突袭的报道。"
- mem_vazurans.20d.desc:0 "然而，瓦祖安势力开始了他们的又一次突袭。这一次他们的目标是[mem_vazuran_victim.GetName]."
+ mem_vazurans.20b.desc:0 "我们在[mem_vazuran_victim.GetName]的情报人员报道了瓦祖兰势力正在进行的另一场突袭。"
+ mem_vazurans.20c.desc:0 "我们已经收到了关于瓦祖兰势力对[mem_vazuran_victim.GetName]正在进行的突袭的报道。"
+ mem_vazurans.20d.desc:0 "然而，瓦祖兰势力开始了他们的又一次突袭。这一次他们的目标是[mem_vazuran_victim.GetName]."
  
  #Information event about an unknown empire being attacked
  mem_vazurans.21.name:0 "银河风暴"
  mem_vazurans.21a.desc:0 "商人们告诉了我们一些尚未与我们建立联系的帝国们受到未知势力的持续攻击。据报道称，袭击者的装备无比精良。"
- mem_vazurans.21b.desc:0 "开放的亚空间通信渠道再次充斥着有关瓦祖安袭击的报道。"
+ mem_vazurans.21b.desc:0 "开放的亚空间通信渠道再次充斥着有关瓦祖兰袭击的报道。"
 
  # Information event about Vazuran Homefleet defeated
  mem_vazurans.30.name:0 "瓦祖兰母舰队战败！"
@@ -224,28 +224,28 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
 
  #Finishing investigation of first Rift
  mem_vazurans.40.name:0 "次元传送门"
- mem_vazurans.40.desc:0 "正如我们在第一次与瓦祖安人相遇前不久对裂缝发出的探测器的遥测所表明的那样，这是一个与自然发生的虫洞完全不同的传送门。不管怎样，与虫洞相比，这种裂缝似乎是人为创造的。我们的科学家无法就如何实现这一目标提供任何解释。\n\n直到我们能了解得更清楚之前，我们将不得不假设这些传送门可以在任何地方打开。我们必须保持警惕。"
+ mem_vazurans.40.desc:0 "正如我们在第一次与瓦祖兰人相遇前不久对裂缝发出的探测器的遥测所表明的那样，这是一个与自然发生的虫洞完全不同的传送门。不管怎样，与虫洞相比，这种裂缝似乎是人为创造的。我们的科学家无法就如何实现这一目标提供任何解释。\n\n直到我们能了解得更清楚之前，我们将不得不假设这些传送门可以在任何地方打开。我们必须保持警惕。"
  mem_vazurans.40.a:0 "这非常让人不安。"
 
  #Retaliation Fleet has been destroyed by target empire
  mem_vazurans.50.name:0 "进攻结束"
- mem_vazurans.50a.desc:0 "我们的舰队在[root.capital_scope.GetName]的激烈战斗中占了上风。剩余的瓦祖安部队正全力撤退。我们的舰队中的伤亡人数仍在评估中，许多船只遭受严重破坏甚至不得不被遗弃。但我们必须付出的代价是值得的。在他们再次进行这样的尝试之前，他们不得不再三考虑。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的科学家们推测，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖安的行动基地进行反击。"
- mem_vazurans.50b.desc:0 "我们的舰队未能阻挡住进攻的瓦祖安势力。他们持续轰炸并损毁了我们的首都星球。伤亡人数达数十亿，因为他们特别针对了城市人口中心。 恢复被摧毁的东西需要数年时间。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的科学家们推测，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖安的行动基地进行反击，这样我们就能确保为死者的复仇。"
- mem_vazurans.50b.desc.gestalt:0 "我们的舰队未能阻挡住进攻的瓦祖安势力。他们持续轰炸并损毁了我们的首都星球。行星基础设施的关键要素遭受了相当大的破坏，数十亿工蜂被摧毁，因为它们瞄准了具有重要战略意义的地点。恢复被摧毁的东西需要数年时间。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的[root.GetScientistResearchSubroutine]推理认为，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖安的行动基地进行反击，这样我们就能确保为死者的复仇。"
+ mem_vazurans.50a.desc:0 "我们的舰队在[root.capital_scope.GetName]的激烈战斗中占了上风。剩余的瓦祖兰部队正全力撤退。我们的舰队中的伤亡人数仍在评估中，许多飞船遭受严重破坏甚至不得不被遗弃。但我们必须付出的代价是值得的。在他们再次进行这样的尝试之前，他们不得不再三考虑。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的科学家们推测，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖兰的行动基地进行反击。"
+ mem_vazurans.50b.desc:0 "我们的舰队未能阻挡住进攻的瓦祖兰势力。他们持续轰炸并损毁了我们的首都星球。伤亡人数达数十亿，因为他们特别针对了城市人口中心。 恢复被摧毁的东西需要数年时间。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的科学家们推测，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖兰的行动基地进行反击，这样我们就能确保为死者的复仇。"
+ mem_vazurans.50b.desc.gestalt:0 "我们的舰队未能阻挡住进攻的瓦祖兰势力。他们持续轰炸并损毁了我们的首都星球。行星基础设施的关键要素遭受了相当大的破坏，数十亿工蜂被摧毁，因为它们瞄准了具有重要战略意义的地点。恢复被摧毁的东西需要数年时间。\n\n他们过去进入我们星系的裂缝已经开始关闭。然而，这次发生的速度比早期遇到的情况要慢。我们的[root.GetScientistResearchSubroutine]推理认为，这个超大型的传送门确实可能永远不会完全停止存在 - 这一事实令人关注，但同时也为我们提供了一个前所未有的机会。如果我们能够稳定它，我们就可以对瓦祖兰的行动基地进行反击，这样我们就能确保为死者的复仇。"
  mem_vazurans.50.a:0 "但愿如此。"
 
  #Stabilization tech researched and project to stabilize rift set
- mem_vazurans.51.name:0 "看门站"
- mem_vazurans.51.desc:0 "随着基础研究的完成以及对所获得的裂缝形成的深刻理解，我们的科学家提出了在原有传送门坐标旁边建立一个空间站的建议。根据他们的计划，它将用于转移必要的电力以使传送门重新开放并维持。"
+ mem_vazurans.51.name:0 "看门人"
+ mem_vazurans.51.desc:0 "随着研究的完成以及对所获得的裂缝形成的深刻理解，我们的科学家提出了在原有传送门坐标旁边建造一个空间站的建议。根据他们的计划，它将用于转移必要的电力以使传送门重新开放并维持。"
  mem_vazurans.51.a:0 "那就这样做吧。"
 
  MEM_VAZURANS_RIFT_STABILIZATION:0 "裂缝稳定"
- MEM_VAZURANS_RIFT_STABILIZATION_DESC:0 "我们必须准备必要的设备以重建并保持与瓦祖安行动基地的稳定连接。"
+ MEM_VAZURANS_RIFT_STABILIZATION_DESC:0 "我们必须准备必要的设备以重建并保持与瓦祖兰行动基地的稳定连接。"
 
  #Player being informed about established connection
  mem_vazurans.53.name:0 "传送门"
  mem_vazurans.53.desc:0 "我们的工程师已经在裂缝空间站完成了他们的工作。稳定程序开始了，在感觉像永恒一样漫长的等待后，裂缝慢慢地重新开放，形成一个新的传送门。我们发出的探测器证实我们已经与另一方建立了强有力的连接，我们现在有足够的信心可以派遣一支载满人的远征军通过。"
- mem_vazurans.53.desc.gestalt:0 "我们的工程工蜂已在裂谷站完成工作。稳定程序开始了，在感觉像永恒一样漫长的等待后，裂缝慢慢地重新开放，形成一个新的传送门。我们发出的探测器证实我们已经与另一方建立了强有力的连接，我们现在有足够的信心可以派遣一支载满人的远征军通过。"
+ mem_vazurans.53.desc.gestalt:0 "我们已经完成了裂缝空间站的工作。稳定程序开始，在感觉像永恒一样漫长的等待后，裂缝慢慢地重新开放，形成一个新的传送门。我们发出的探测器证实我们已经与另一方建立了强有力的连接，我们现在有足够的信心可以派遣一支载满人的远征军通过。"
  mem_vazurans.53.a:0 "干得好。"
  
  #Finding a destroyed Planet
@@ -253,9 +253,9 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  #haven't seen anything Vazuran related so far
  mem_vazurans.200a.desc:0 "到达[From.GetName]星系后，我们的传感器显示其中一颗行星在过去的某个时刻被分解成碎片。目前还不清楚是什么导致了这种情况发生。建议进一步调查。"
  #only seen another destroyed planet so far
- mem_vazurans.200b.desc:0 "我们遇到了另一个破碎的星球。对其附近的简要扫描显示了我们之前发现的相同重元素合金的痕迹。这个星球一定是同一股势力的受害者。"
+ mem_vazurans.200b.desc:0 "我们遇到了另一个破碎的星球。对其附近的简要扫描显示了我们之前发现的相同致密元素合金的痕迹。这个星球一定是同一股势力的受害者。"
  #already met the vazurans and seen a destroyed planet
- mem_vazurans.200c.desc:0 "我们遇到了另一个破碎的星球。对其附近的简要扫描显示了和瓦祖安使用过的相同重元素合金的痕迹。又一个星球成为了他们恐怖统治的牺牲品。"
+ mem_vazurans.200c.desc:0 "我们遇到了另一个破碎的星球。对其附近的简要扫描显示有与瓦祖兰使用过的相同致密元素合金的痕迹。看来又一个星球成为了他们恐怖统治的牺牲品。"
  
  MEM_VAZURANS_BROKEN_PLANET_INVESTIGATION:0 "被毁灭的世界"
  MEM_VAZURANS_BROKEN_PLANET_INVESTIGATION_DESC:0 "对该处的长期调查应该能让我们更深入地了解这个星球可能发生的事情。"
@@ -263,10 +263,10 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  #Finished Project on first broken world
  mem_vazurans.201.name:0 "大灾变"
  #not met vazurans before
- mem_vazurans.201a.desc:0 "在研究了这个世界的遗迹之后，首席科学家[root.Leader.GetName]和[root.Leader.GetHerHis]的同事们得出了一个令人担忧的结论。鉴于目前所有可用信息，[From.From.GetName]的当前状态是灾变性的轨道轰击的结果。\n\n在该点附近，可以找到非自然发生的超重元素的痕迹。什么人做的，为什么这样做仍然是一个谜。"
+ mem_vazurans.201a.desc:0 "在调查了这个星球的遗迹之后，首席科学家[root.Leader.GetName]和[root.Leader.GetHerHis]的同事们得出了一个令人担忧的结论。鉴于目前所有可用信息，[From.From.GetName]的当前状态是$bombardment_armageddon$轨道轰击的结果。\n\n在该点附近，可以找到非自然发生的超致密元素的痕迹。什么人做的，为什么这样做仍然是一个谜。"
  #met vazurans before
- mem_vazurans.201b.desc:0 "在研究了这个世界的遗迹之后，首席科学家[root.Leader.GetName]和[root.Leader.GetHerHis]的同事们得出了一个令人担忧的结论。鉴于目前所有可用信息，[From.From.GetName]的当前状态是灾变性的轨道轰击的结果。\n\n在该点附近，可以找到瓦祖安科技特有的超重元素的痕迹。没有任何曾经生活在这个星球上的文明的痕迹。"
- mem_vazurans.201.a:0 "让人忧虑."
+ mem_vazurans.201b.desc:0 "在调查了这个星球的遗迹之后，首席科学家[root.Leader.GetName]和[root.Leader.GetHerHis]的同事们得出了一个令人担忧的结论。鉴于目前所有可用信息，[From.From.GetName]的当前状态是$bombardment_armageddon$轨道轰击的结果。\n\n在该点附近，可以找到瓦祖兰科技特有的超致密元素的痕迹。生活在这个星球上的文明的痕迹已经荡然无存。"
+ mem_vazurans.201.a:0 "让人担忧。"
  
  #Anomaly 1
  mem_vazurans_category_1:0 "大量的陨石坑"
@@ -274,16 +274,16 @@ mem_vazurans.4a.desc.gestalt:0 "[mem_vazurans_target_sun.GetName]星系中的当
  
  #Anomaly success 1
  mem_vazurans.202.name:0 "世界末日"
- mem_vazurans.202.desc:0  "在使用航天飞机进行一系列低空调查飞行以研究陨石坑点的过程中，我们的科学家们收到了来自残骸下方深处的微弱自动重复的传输讯息。 [root.Leader.GetName]虽然能够查明其来源，但很快就放弃了这个试图将自己设置到过度的危险中的想法。\n\n返回[root.GetName]后，[root.Leader.GetSheHe]设法破译了记录下来的传输讯息。\n\n它包括几分钟的视频信息，从似乎是一个关于公众庆祝活动的实时新闻报道中开始。\n\n§大型的游行队伍在欢呼的群众的陪同下，将碎片带过街道，突然气氛完全改变，恐慌情绪蔓延。然后，视线猛地向昏暗的天空移动。燃烧着的舰船向地面坠落时画出一条火线。在它到达地面之前，到处都是巨大的爆炸声，视频结束了。§!\n\n没有足够多的材料来翻译里面已经所说的内容，但是[root.Leader.GetName]将此作为[From.GetName]成为外星舰队进行轨道轰炸的牺牲品的证据。遍布行星表面的高密度化合物的痕迹支持这一理论。"
+ mem_vazurans.202.desc:0  "在使用穿梭机进行一系列低空调查以研究陨石坑点的过程中，我们的科学家们收到了来自残骸下方深处的微弱自动重复的传输讯息。 [root.Leader.GetName]虽然能够查明其来源，但很快就放弃了这个过度的危险的想法。\n\n返回[root.GetName]后，[root.Leader.GetSheHe]设法破译了记录下来的传输讯息。\n\n它包括几分钟的视频信息，从似乎是一个关于公众庆祝活动的实时新闻报道中开始。\n\n§S大型的游行队伍在欢呼的群众的陪同下，将碎片带过街道，突然气氛完全改变，恐慌情绪蔓延。然后，视线猛地向昏暗的天空移动。燃烧着的舰船向地面坠落时画出一条火线。在它撞击地面之前，到处都是巨大的爆炸声，然后视频结束了。§!\n\n虽然没有足够多的材料来翻译里面已经所说的内容，但是[root.Leader.GetName]将此作为[From.GetName]成为外星舰队进行轨道轰炸的牺牲品的证据。遍布行星表面的高密度化合物的痕迹支持这一理论。"
  
  #Anomaly success 2
  mem_vazurans.203.name:0 "残酷的玩笑"
- mem_vazurans.203.desc:0 "对[From.GetName]地表的调查没有得出任何确凿的见解。然而它又带来了另一个谜团：一种未知的超致密化合物的痕迹遍布整个星球。\n\n不过，当[root.GetName]在环绕[From.GetName]轨道的中空的小行星内部探测到一个隐藏的基地时，取得了真正的突破。按照我们的标准，该设施相当原始，充满了基础停滞装置，里面容纳成千上万的死者。\n\n通过搜索存储在设施的计算机系统中的数据片段，我们的科学团队可以将[From.GetName]居民面对过的可怕情况拼凑起来。 过去，他们的文明多次受到一具有科技优势的力量的攻击。他们日益增长的抵抗也遭到了越来越残酷的报复，他们担心 - 似乎是合理的 - 他们的星球会沦陷在这些袭击之中。作为重建文明的一种手段，如果最坏的情况发生，这个隐藏的基地将被安装作为方舟来保持他们最聪明的头脑和充足的基因种类来重新启动他们的文明。\n\n然而，他们没有意料到他们的敌人把他们的母星变成了一个没有生命，完全不适合居住的岩石。这个“隐藏”基地似乎是被故意幸免的 - 鉴于我们能够发现它，可以预期得到他们的敌人也能发现。如日志中所述，停滞系统在与地表接触失去十年后按计划关闭。[root.Leader.GetName]甚至无法想象这些人在意识到自己的处境时必定会感受到的恐惧和绝望。他们只配备了两艘缺乏FTL功能的航天飞机，没有可以回归的星球，他们被搁浅了。不久之后，停滞系统被无限期地重新激活。"
- mem_vazurans.203.desc.gestalt:0 "对[From.GetName]表面的研究没有产生任何结论性的见解。然而，它提供了另一个谜团:一种已知不会自然发生的超高密度化合物的踪迹遍布全球。\n\n然而，当[root.GetName]探测到一颗被掏空的围绕[From.GetName]运行的小行星内部有一个隐藏的基地时，真正的突破出现了。以我们的标准来看，这个设施相当原始，充满了容纳数千名死者的基本静止单元。\n\n通过对储存在该设施计算机系统中的数据片段进行搜索，我们的科学团队可以拼凑出[From.GetName]居民所面临的可怕情况。他们的文明在过去曾多次受到技术优势力量的攻击。他们日益增长的抵抗遭遇了日益残酷的报复，他们担心——似乎是有道理的——他们的世界将落入这些袭击的魔爪。作为在最坏的情况下重启他们文明的一种手段，这个隐藏的基地被安装起来作为一个方舟，以保存他们最聪明的头脑，以及足够的基因多样性来重启他们的文明。\n\n然而，他们没有料到他们的敌人会把他们的家园变成一块毫无生气、完全无法居住的岩石。这个“隐藏”的基地似乎是被故意放过的——考虑到我们能够探测到它，预计他们的敌人也会这么做。正如日志中所述，停滞系统在与地面失去接触10年后按预定计划关闭。甚至很难想象幸存者在意识到自己的处境时所感受到的恐惧和绝望。他们只装备了两艘没有超光速能力的航天飞机，而且没有返回的空间，他们被困在了那里。不久之后，停滞系统被无限期地重新激活。"
+ mem_vazurans.203.desc:0 "对[From.GetName]地表的调查没有得出任何确凿的见解。然而它又带来了另一个谜团：一种未知的超致密化合物的痕迹遍布整个星球。\n\n不过，[root.GetName]在环绕[From.GetName]轨道的中空的小行星内部找到一个隐藏的基地，这才取得了真正的突破。按照我们的标准，该设施相当原始，有着相当多的基础停滞装置，里面容纳成千上万的死者。\n\n通过搜索存储在设施的计算机系统中的数据片段，我们的科学团队可以将[From.GetName]居民面对过的可怕情况拼凑起来。\n过去，他们的文明多次受到一个有着科技优势的势力攻击。他们日益增长的抵抗也遭到了越来越残酷的报复，他们担心他们的星球会沦陷在这些袭击之中。作为重建文明的一种手段，如果最坏的情况发生，这个隐藏基地将作为方舟来保持他们最聪明的头脑和充足的基因来重新启动他们的文明。\n\n然而，他们没有意料到敌人把他们的母星变成了一个没有生命，完全不适合居住的岩石。这个“隐藏”基地似乎是被故意被保留下来——鉴于我们能够发现它，可以猜测到他们的敌人也能发现。如日志中所述，停滞系统在与地表失去联系的十年后关闭。\n[root.Leader.GetName]甚至无法想象这些人在意识到自己的处境时感受到的恐惧和绝望。他们只配备了两艘没有超光速能力的航天飞机，但已经没有可以返回的星球了，他们被困在这里。不久之后，停滞系统被无限期地重新激活。"
+ mem_vazurans.203.desc.gestalt:0 "对[From.GetName]表面的研究没有产生任何结论性的见解。并且带来了另一个谜团：一种非自然的超高密度化合物的踪迹遍布全球。\n\n然而，[root.GetName]探测到环绕[From.GetName]运行的小行星内部有一个隐藏的基地，这才有了突破。以我们的标准来看，这个设施相当原始，充满了容纳数千名死者的基本停滞。\n\n通过对储存在该设施计算机系统中的数据片段进行搜索，可以拼凑出[From.GetName]居民所面临的可怕情况。\n过去，他们的文明多次受到一个有着科技优势的势力攻击。他们日益增长的抵抗也遭到了越来越残酷的报复，他们担心他们的星球会沦陷在这些袭击之中。作为重建文明的一种手段，如果最坏的情况发生，这个隐藏基地将作为方舟来保持他们最聪明的头脑和充足的基因来重新启动他们的文明。\n\n然而，他们没有意料到敌人把他们的母星变成了一个没有生命，完全不适合居住的岩石。这个“隐藏”基地似乎是被故意被保留下来——鉴于我们能够发现它，可以猜测到他们的敌人也能发现。如日志中所述，停滞系统在与地表失去联系的十年后关闭。甚至很难想象幸存者在意识到自己的处境时所感受到的恐惧和绝望。他们只装备了两艘没有超光速能力的航天飞机，而且已经没有可以返回的星球了，他们被困在这里。不久之后，停滞系统被无限期地重新激活。"
  
  #Anomaly success 3
  mem_vazurans.204.name:0 "来自过去的鬼魂"
- mem_vazurans.204.desc:0 "在对[From.GetName]地表进行更全面的调查时，[root.Leader.GetName]的一位助手注意到了在这之后我们的先遣队实地上证实了的人工结构。\n\n然而，对这些遗址的调查并没有按计划进行，主要是由于[root.GetName]与[root.Leader.GetName]领导的科学家之间的通信被多次中断。在这些时刻，一些人员经历了他们所描述的精神病发作。受这种现象的影响，首席科学家决定回到航天飞机，担心呆更长时间会使球队陷入危险之中。然而，在它们升空之前，又发生了一次停电，持续时间比此前任何时候都长。当重新建立通信时，一位听上去语音颤抖的科学家报告说他们将立即离开。当他们到达与[root.GetName]的会合坐标时，他们中的一半仍处于无意识状态。\n\n在恢复后，[root.Leader.GetName]报告说他们体验到了整个星球的在无情的敌人手中的死亡经历。根据[root.Leader.GetHisHer]的理论，[From.GetName]的居民一定具有可外延的精神能力，这导致他们生命可怕的最后时刻被印在了星球本身。虽然物理上没有受到伤害，但这些事件对[root.Leader.GetHimHer]产生了持久的影响。\n\n进一步的扫描显示，超级化合物的痕迹遍布星球表面，这很可能源于其破坏所用的武器，支持了[root.Leader.GetName]的说法。"
+ mem_vazurans.204.desc:0 "在对[From.GetName]地表进行更全面的调查时，[root.Leader.GetName]的一位助手注意到了在这之后我们的先遣队实际证实的人工建筑。\n\n然而，对这些遗址的调查并没有按计划进行，主要是由于[root.GetName]与[root.Leader.GetName]为首的调查团队间的通信被多次中断。而在这时，一些人员经历了他们所描述的精神病发作。受这种现象的影响，[root.Leader.GetName]决定返回穿梭机，担心呆更长时间会使调查团陷入危险之中。然而，在它们升空之前，又发生了一次通讯中断，持续时间比此前任何时候都长。当重新建立通信时，一位听上去语音颤抖的科学家报告说他们将立即离开。当他们到达与[root.GetName]的会合坐标时，他们中的一半仍处于无意识状态。\n\n在恢复后，[root.Leader.GetName]报告说他们体验到了整个星球的在无情的敌人手中死亡的经历。根据[root.Leader.GetHisHer]的理论，[From.GetName]的居民一定具有可外延的精神能力，这导致他们生命的最后时刻将可怕印在了星球上。虽然物理上没有受到伤害，但这些事件对[root.Leader.GetHimHer]产生了持久的影响。\n\n进一步的扫描显示，致密化合物的痕迹遍布星球表面，这很可能源于其破坏所用的武器，支持了[root.Leader.GetName]的说法。"
 
  #Anomaly 2
  mem_vazurans_category_2:0 "大量的陨石坑"
@@ -319,8 +319,8 @@ mem_vazurans.251.desc.gestalt:0 "在[root.GetName]的常规矿产勘探作业期
 
  #Anomaly success
  mem_vazurans.252.name:0 "科技宝藏"
- mem_vazurans.252.desc:0 "起初，我们的科学团队由于其损坏和进一步恶化的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖安的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖安人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席科学家[root.Leader.Getname]的说法，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
- mem_vazurans.252.desc.gestalt:0 "起初，我们由于其损坏和进一步恶化的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖安的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖安人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席[root.owner.GetScientistResearchSubroutine] [root.Leader.Getname]，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
+ mem_vazurans.252.desc:0 "起初，我们的科学团队由于其损坏和进一步恶化的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖兰的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖兰人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席科学家[root.Leader.Getname]的说法，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
+ mem_vazurans.252.desc.gestalt:0 "起初，我们由于其损坏和进一步恶化的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖兰的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖兰人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席[root.owner.GetScientistResearchSubroutine] [root.Leader.Getname]，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
  mem_vazurans.252.a:0 "有趣"
 
  #Damper field quest start 2
@@ -335,13 +335,13 @@ mem_vazurans.251.desc.gestalt:0 "在[root.GetName]的常规矿产勘探作业期
 
  #Anomaly success
  mem_vazurans.254.name:0 "科技宝藏"
- mem_vazurans.254.desc:0 "起初，我们的科学团队因为残骸在卡进小行星时受到损害而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖安的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜，鉴于瓦祖安人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席科学家[root.Leader.Getname]的说法，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
- mem_vazurans.254.desc.gestalt:0 "起初，我们由于因为残骸在卡进小行星时受到损害而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖安的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖安人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席[root.owner.GetScientistResearchSubroutine] [root.Leader.Getname]，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
+ mem_vazurans.254.desc:0 "起初，我们的科学团队因为残骸在卡进小行星时受到损害而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖兰的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜，鉴于瓦祖兰人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席科学家[root.Leader.Getname]的说法，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
+ mem_vazurans.254.desc.gestalt:0 "起初，我们由于因为残骸在卡进小行星时受到损害而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖兰的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖兰人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席[root.owner.GetScientistResearchSubroutine] [root.Leader.Getname]，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
  mem_vazurans.254.a:0 "有趣"
 
  #Drifting vazuran wreckage found in deep space
  mem_vazurans.255.name:0 "发现外星残骸"
- mem_vazurans.255.desc:0 "远程传感器拾取了在[mem_vazurans_wreckage_system.GetName]星系漂流的物体。它似乎是抛弃掉的，因为没有明显的能量签名。"
+ mem_vazurans.255.desc:0 "远程传感器在[mem_vazurans_wreckage_system.GetName]星系检测到一个漂浮的物体。它似乎被抛弃了，因为没有可辨别的能量信号。"
  mem_vazurans.255.a:0 "展开调查。"
 
  #Wreckage investigation
@@ -350,36 +350,36 @@ mem_vazurans.251.desc.gestalt:0 "在[root.GetName]的常规矿产勘探作业期
 
  #Wreckage investigation success
  mem_vazurans.256.name:0 "科技宝藏"
- mem_vazurans.256.desc:0 "起初，我们的科学团队由于其损坏的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖安的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜，鉴于瓦祖安人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席科学家[root.Leader.Getname]的说法，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
- mem_vazurans.256.desc.gestalt:0 "起初，我们由于由于其损坏的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖安的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖安人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席[root.owner.GetScientistResearchSubroutine] [root.Leader.Getname]，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
+ mem_vazurans.256.desc:0 "起初，我们的科学团队由于其损坏的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖兰的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜，鉴于瓦祖兰人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席科学家[root.Leader.Getname]的说法，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
+ mem_vazurans.256.desc.gestalt:0 "起初，我们由于由于其损坏的状态而没有认识到残骸的起源，但是对其材料成分的扫描显示它是无疑是瓦祖兰的舰船。\n\n它如何最终在这个地方对我们仍然是一个谜。鉴于瓦祖兰人倾向于自己毁灭掉残废的舰船，而不让他们的技术落入敌人手中。情况甚至更加幸运，因为尽管舰船上的大多数系统都无法识别，但其技术的关键组成部分基本上仍然完好无损。根据首席[root.owner.GetScientistResearchSubroutine] [root.Leader.Getname]，我们现在拥有一个缓冲力场发生器 - 这是他们舰船非凡耐久性的主要来源。\n\n如果有足够的时间来研究它的能力，我们或许能够找到一种绕过它对我们武器的影响的方法。"
  mem_vazurans.256.a:0 "有趣"
 
  #Damper field project
  MEM_VAZURANS_DAMPER_FIELD_GENERATOR_INVESTIGATION:0 "逆向工程"
- MEM_VAZURANS_DAMPER_FIELD_GENERATOR_INVESTIGATION_DESC:0 "随着瓦祖安的缓冲力场发生器到了我们手上，我们现在可以着手了解它是如何运作。"
+ MEM_VAZURANS_DAMPER_FIELD_GENERATOR_INVESTIGATION_DESC:0 "我们现在有了瓦祖兰的缓冲力场发生器，可以着手了解它是如何运作的了。"
 
  #Damper field project finished
  mem_vazurans.260.name:0 "抑制能量传递"
- mem_vazurans.260.desc:0 "在对回收到的缓冲力场发生器进行多次实验后，我们的科学家们对其性能有了深刻的理解。与我们的护盾不同，它们能吸收受到的攻击能量直到它们耗尽，这个发生器产生的力场永久地抑制能量传输，使得只有一小部分能量能够到达被保护物体。\n\n虽然它可以对付任何类型的武器，但经测试证明它对能量类最有效。虽然这项技术在我们自己的船队中的应用起初看起来很诱人，但我们的实验证明了这种保护装置有引起的有问题的副作用。能量传输的抑制不仅限于来自其有效区域之外的能量，而且也影响内部舰船系统。到目前为止，还没有找到任何方法来阻止它们受到阻尼场效应的影响。\n\n我们的科学家们只是设法对该技术的基础科学原理有了基本的了解。然而，这是克服瓦祖安科技优势的重要一步，应该提高我们与其舰船作战的机会。"
- mem_vazurans.260.a:0 "太棒了"
+ mem_vazurans.260.desc:0 "在对回收到的缓冲力场发生器进行多次实验后，我们的科学家们对其性能有了深刻的理解。与我们的护盾不同，它们能吸收受到的攻击能量直到它们耗尽，这个发生器产生的力场永久地抑制能量传输，使得只有一小部分能量能够到达被保护物体。\n\n虽然它可以对付任何类型的武器，但经测试证明它对能量类最有效。虽然这项技术在我们自己的船队中的应用起初看起来很诱人，但我们的实验证明了这种保护装置有引起的有问题的副作用。能量传输的抑制不仅限于来自其有效区域之外的能量，而且也影响内部舰船系统。到目前为止，还没有找到任何方法来阻止它们受到阻尼场效应的影响。\n\n我们的科学家们只是设法对该技术的基础科学原理有了基本的了解。然而，这是克服瓦祖兰科技优势的重要一步，应该提高我们与其舰船作战的机会。"
+ mem_vazurans.260.a:0 "太棒了。"
 
  # Reaching Vazuran Homesystem
- mem_vazurans.280.name:0 "瓦祖安母星星系"
- mem_vazurans.280.desc:0 "我们的侦察队已到达裂缝的另一边。侦察队的传感器在我们预测时经过了强化。除了在星系边界周围有一圈强大的堡垒，以及与在我们的母星的攻击中遇到的强大力量的舰队之外，还有另一艘舰船的尺寸比之前看到过的要大得多。它正在一个破碎星球的轨道上运行。旁边是一个巨型结构，似乎是瓦祖安的行动基地。\n\n当我们的舰船还在处理数据时，它检测到了堡垒能量读数的峰值。它不能再冒着被攻击的危险呆在那里了。如果我们还要返回，它必须生效。"
+ mem_vazurans.280.name:0 "瓦祖兰母星星系"
+ mem_vazurans.280.desc:0 "我们的侦察队已到达裂缝的另一边。侦察队的传感器在我们预测时经过了强化。除了在星系边界周围有一圈强大的堡垒，以及与在我们的母星的攻击中遇到的强大力量的舰队之外，还有另一艘舰船的尺寸比之前看到过的要大得多。它正在一个破碎星球的轨道上运行。旁边是一个巨型结构，似乎是瓦祖兰的行动基地。\n\n当我们的舰船还在处理数据时，它检测到了堡垒能量读数的峰值。它不能再冒着被攻击的危险呆在那里了。如果我们还要返回，它必须生效。"
  mem_vazurans.280.a:0 "快走！"
  
  # Defeated Vazuran Homefleet
- mem_vazurans.281.name:0 "瓦祖安舰队被击败"
- mem_vazurans.281.desc:0 "瓦祖安舰队已经不复存在了，他们的巨像被击败，我们取得了胜利。\n\n现在，我们的军队已经占领了他们的母星基地。"
+ mem_vazurans.281.name:0 "瓦祖兰舰队被击败"
+ mem_vazurans.281.desc:0 "瓦祖兰舰队已经不复存在了，他们的巨像被击败，我们取得了胜利。\n\n现在，我们的军队已经占领了他们的母星基地。"
  mem_vazurans.281:0 "向胜利致敬。"
 
  # Invaded Vazuran HQ
  mem_vazurans.282.name:0 "结束了"
- mem_vazurans.282.desc:0 "今天标志着一个新时代的开始。瓦祖安威胁已被打败。我们的人民不再生活在受到他们的攻击的恐惧中。\n\n我们的部队不得不为这次胜利付出沉重的代价，因为剩下的瓦祖安防御者在每个仍然屹立的建筑都筑起了战壕。面对必然的失败，他们激活了一个自毁序列，摧毁了大部分可居住区域。然而，我们的部队也没有空手而归。我们的一个负责检索技术信息的特别行动小组带回一个数据核心，其中包含“Xentronium”生产过程的详细信息 - 这是瓦祖安装甲的材料。鉴于其特性，特别是其极端密度，它不仅可能对我们的船舶装甲有价值，而且还可以显着改善我们的动能武器。"
- mem_vazurans.282.desc.gestalt:0 "今天标志着一个新时代的开始。瓦祖安威胁已被打败。[root.GetName]不用再害怕受到他们的攻击。\n\n由于剩下的瓦祖兰防御者仍在防守每一个建筑，我们的部队不得不为这场胜利付出沉重的代价。面对必然的失败，他们激活了一个自毁序列，摧毁了大部分可居住区域。然而，我们的战斗工蜂们也没有空手而归。 我们的一个特殊行动工蜂小队负责检索技术信息，其中包含一个数据核心，其中包含“Xentronium”生产过程的详细信息 - 这是瓦祖安装甲的材料。鉴于其特性，特别是其极端密度，它不仅可能对我们的船舶装甲有价值，而且还可以显着改善我们的动能武器。"
+ mem_vazurans.282.desc:0 "今天标志着一个新时代的开始。瓦祖兰威胁已被打败。我们的人民不再生活在受到他们的攻击的恐惧中。\n\n我们的部队不得不为这次胜利付出沉重的代价，因为剩下的瓦祖兰防御者在每个仍然屹立的建筑都筑起了战壕。面对必然的失败，他们激活了一个自毁序列，摧毁了大部分可居住区域。然而，我们的部队也没有空手而归。我们的一个负责检索技术信息的特别行动小组带回一个数据核心，其中包含“Xentronium”生产过程的详细信息 - 这是瓦祖兰装甲的材料。鉴于其特性，特别是其极端密度，它不仅可能对我们的船舶装甲有价值，而且还可以显着改善我们的动能武器。"
+ mem_vazurans.282.desc.gestalt:0 "今天标志着一个新时代的开始。瓦祖兰威胁已被打败。[root.GetName]不用再害怕受到他们的攻击。\n\n由于剩下的瓦祖兰防御者仍在防守每一个建筑，我们的部队不得不为这场胜利付出沉重的代价。面对必然的失败，他们激活了一个自毁序列，摧毁了大部分可居住区域。然而，我们的战斗工蜂们也没有空手而归。 我们的一个特殊行动工蜂小队负责检索技术信息，其中包含一个数据核心，其中包含“Xentronium”生产过程的详细信息 - 这是瓦祖兰装甲的材料。鉴于其特性，特别是其极端密度，它不仅可能对我们的船舶装甲有价值，而且还可以显着改善我们的动能武器。"
  mem_vazurans.282.a:0 "干得好！"
 
  # Player is informed of Vazurans committing genocide
- mem_vazurans.306.name:0 "瓦祖安暴行"
- mem_vazurans.306.desc:0 "我们收到了关于正发生的瓦祖安的行动的报告，该行动目的在根除[mem_vazurans_extermination_target.GetSpeciesNamePlural]并彻底摧毁[mem_vazurans_extermination_target.GetName]。目前尚不清楚要怎样完成这样可怕的暴行。然而，很清楚的是，[mem_vazurans_extermination_target.GetSpeciesNamePlural]正在打一场注定失败的战斗。在这一点上，他们的结局只是时间问题。"
+ mem_vazurans.306.name:0 "瓦祖兰暴行"
+ mem_vazurans.306.desc:0 "我们收到了关于正发生的瓦祖兰的行动的报告，该行动目的在根除[mem_vazurans_extermination_target.GetSpeciesNamePlural]并彻底摧毁[mem_vazurans_extermination_target.GetName]。目前尚不清楚要怎样完成这样可怕的暴行。然而，很清楚的是，[mem_vazurans_extermination_target.GetSpeciesNamePlural]正在打一场注定失败的战斗。在这一点上，他们的结局只是时间问题。"
  mem_vazurans.306.a:0 "太可怕了..."

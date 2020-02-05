@@ -1,0 +1,359 @@
+﻿l_simp_chinese:
+#### SR ###
+
+acot_sr_light_matter: "光能量"
+acot_sr_dark_energy: "暗能量"
+acot_sr_stellarite: "星能量"
+acot_sr_dark_energy_desc: "强大的神秘力量，在很多方面都类似于暗物质，除了能量的形式。"
+acot_sr_stellarite_desc: "从对恒星能量全面掌握而获得的一种类型的恒星能量。"
+acot_sr_light_matter_desc: "星辰之子所使用的无限能量来源。光可以被修改以供我们这样的低维度生命形式使用。"
+
+weapon_type_explosive_speed_mult: "导弹飞行速度"
+shipsize_science_hull_add: "科学船船体强度"
+shipsize_colonizer_hull_add: "殖民船船体强度"
+shipsize_constructor_hull_add: "工程船船体强度"
+### SHIP TEXTS
+mod_shipsize_fe_escort_hull_add: "护航舰船体值"
+mod_shipsize_fe_battlecruiser_hull_add: "战列巡洋舰船体值"
+mod_shipsize_fe_titan_hull_add: "失落泰坦船体值"
+mod_shipsize_fe_goliath_hull_add: "歌利亚船体值"
+
+mod_shipsize_fe_escort_build_speed_mult: "护航舰建造速度"
+mod_shipsize_fe_battlecruiser_build_speed_mult: "战列巡洋舰建造速度"
+mod_shipsize_fe_titan_build_speed_mult: "失落泰坦建造速度"
+mod_shipsize_fe_goliath_build_speed_mult: "歌利亚建造速度"
+
+mod_shipsize_fe_escort_build_cost_mult: "护航舰建造成本"
+mod_shipsize_fe_battlecruiser_build_cost_mult: "战列巡洋舰建造成本"
+mod_shipsize_fe_titan_build_cost_mult: "失落泰坦建造成本"
+mod_shipsize_fe_goliath_build_cost_mult: "歌利亚建造成本"
+
+BASE_COMBAT_COMPUTER_COLOSSUS_DM: "赫拉克勒斯巨像计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_DM_DESC: "赫拉克勒斯巨像原型机，改编自星际基地使用的原型机。"
+
+ACOT_LR_BEHAVIOR_DESC: "§H重型火炮:§! 这艘船将会远离其他的舰船去压制目标。 (§Y120§!)."
+ACOT_MAX_RANGE_BEHAVIOR_DESC: "§H后防线支持:§! 该船将保持最远的距离，在其他舰船后面掩护，并支持他们的远程武器。(§Y100§!)."
+CARRIER_STATION_BEHAVIR_DESC: "§H攻击母舰:§! 在接近敌人时，舰船会迎面向前，但不会前进。这使得舰载机可以靠近敌人，而母舰不会陷入危险，直到敌人靠近其他武器开火。"
+CARRIER_AVOID_BEHAVIR_DESC: "§H攻击母舰:§! 当敌人靠近时，这艘船会面向前方。如果敌人距离该舰过近，该舰会试图躲避并移动出敌人射程。但是这会使大多数脊峰武器（XL/T）无法攻击，因为该舰不会面队敌人。"
+
+################################################ DEFAULT #
+
+BASE_DM_REACTOR: "暗物质反应堆"
+BASE_DM_REACTOR_DESC: "第一代暗物质反应堆，能够为先驱者舰船提供动力。"
+
+BASE_DM_REACTOR_SMALL: "暗物质反应堆"
+BASE_DM_REACTOR_SMALL_DESC: "第一代暗物质反应堆，能够为先驱者舰船提供动力。"
+
+BASE_DM_REACTOR_MEDIUM: "暗物质反应堆"
+BASE_DM_REACTOR_MEDIUM_DESC: "第一代暗物质反应堆，能够为先驱者舰船提供动力。"
+
+BASE_DM_COMPUTER: "神谕战斗计算机"
+BASE_DM_COMPUTER_DESC: "第一代先进计算机。具有基本的作战计算能力。"
+
+BASE_DM_COMPUTER_LINE: "神谕的战斗计算机"
+BASE_DM_COMPUTER_LINE_DESC: "第一代先进计算机。具有基本的作战计算能力。"
+
+BASE_DM_THRUSTER: "暗物质推进器"
+BASE_DM_THRUSTER_DESC: "第一代暗物质推进器，能够推动先驱者舰船。"
+
+BASE_DM_THRUSTER_LARGE: "暗物质推进器"
+BASE_DM_THRUSTER_LARGE_DESC: "第一代暗物质推进器，能够移动先驱者舰船"
+
+BASE_DM_THRUSTER_TITAN: "暗物质推进器"
+BASE_DM_THRUSTER_TITAN_DESC: "第一代暗物质推进器，能够移动先驱者舰船"
+############### COMBAT CAMPUTOR
+
+AE_COMBAT_COMPUTER_SMALL_1: "神谕战斗计算机 (蜂群)"
+AE_COMBAT_COMPUTER_SMALL_1_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_SMALL_2: "神谕战斗计算机 (哨兵)"
+AE_COMBAT_COMPUTER_SMALL_2_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_SMALL_3: "神谕战斗计算机 (线列)"
+AE_COMBAT_COMPUTER_SMALL_3_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_SMALL_4: "神谕战斗计算机 (炮兵)"
+AE_COMBAT_COMPUTER_SMALL_4_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_LARGE_1: "神谕战斗计算机 (哨兵)"
+AE_COMBAT_COMPUTER_LARGE_1_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_LARGE_2: "神谕战斗计算机 (线列)"
+AE_COMBAT_COMPUTER_LARGE_2_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_LARGE_3: "神谕战斗计算机 (炮兵)"
+AE_COMBAT_COMPUTER_LARGE_3_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_LARGE_4: "神谕战斗计算机 (重型炮兵)"
+AE_COMBAT_COMPUTER_LARGE_4_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_TITAN_1: "神谕战斗计算机 (线列)"
+AE_COMBAT_COMPUTER_TITAN_1_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_TITAN_2: "神谕战斗计算机 (炮兵)"
+AE_COMBAT_COMPUTER_TITAN_2_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_TITAN_3: "神谕战斗计算机 (重型炮兵)"
+AE_COMBAT_COMPUTER_TITAN_3_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_TITAN_4: "神谕战斗计算机 (后防线支持)"
+AE_COMBAT_COMPUTER_TITAN_4_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_CAPITAL_1: "神谕战斗计算机 (炮兵)"
+AE_COMBAT_COMPUTER_CAPITAL_1_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_CAPITAL_2: "神谕战斗计算机 (重型炮兵)"
+AE_COMBAT_COMPUTER_CAPITAL_2_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+AE_COMBAT_COMPUTER_CAPITAL_3: "神谕战斗计算机 (后防线支持)"
+AE_COMBAT_COMPUTER_CAPITAL_3_DESC: "这艘先进的船采用了基于神谕机器系统。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+TOWER_COMBAT_COMPUTER: "仿生接口作战计算机(空间站)"
+TOWER_COMBAT_COMPUTER_DESC: "这种先进的防御系统采用了一种独特的战斗计算机，与基地的炮手形成了仿生连接。它的目的是删除和卸载所有未注册的威胁，从银河无情的效率。"
+
+
+TECH_UNLOCK_DELTA_COMPUTER_TITLE: "§H解锁组件:§! 神谕战斗计算机"
+TECH_UNLOCK_DELTA_COMPUTER_DESC: "神谕机器系统，在许多方面类似于合成人。主要的不同之处在于，虽然合成材料拥有真正的自由意志，但神谕的创作却只有一个愿望，那就是完成赋予它们的功能。他们了解自己的目的和角色。他们明白自己使命的重要性，不像合成材料那样不幸地能够做出一些不合逻辑的决定，并像任何有机物一样执着于自由。\n\n这意味着神谕的机器将很乐意为这一事业而死，而不会质疑如何或为什么。这消除了困扰许多人思想的潜在愚蠢的AI叛乱的所有风险。正是通过这个系统，失落帝国才得以维护这些机器人，而从未遭受过机器起义的痛苦。"
+tech_dm_combat_computer: "神谕机械知觉"
+tech_dm_combat_computer_desc: "神谕机器系统，在许多方面类似于合成人。主要的不同之处在于，虽然合成材料拥有真正的自由意志，但神谕的创作却只有一个愿望，那就是完成赋予它们的功能。他们了解自己的目的和角色。他们明白自己使命的重要性，不像合成材料那样不幸地能够做出一些不合逻辑的决定，并像任何有机物一样执着于自由。\n\n这意味着神谕的机器将很乐意为这一事业而死，而不会质疑如何或为什么。这消除了困扰许多人思想的潜在愚蠢的AI叛乱的所有风险。正是通过这个系统，失落帝国才得以维护这些机器人，而从未遭受过机器起义的痛苦。"
+
+
+### WEAPONS CHECK OK #####
+
+SMALL_ACOT_LASER_DM: "小型δ激光器"
+MEDIUM_ACOT_LASER_DM: "中型δ激光器"
+LARGE_ACOT_LASER_DM: "大型δ激光器"
+ACOT_LASER_DM: "δ激光器"
+ACOT_LASER_DM_DESC: "δ激光器利用暗能量作为强大的激光武器。它在打击护盾方面也比前几代更强大。"
+tech_laser_dm: "δ激光器"
+tech_laser_dm_desc: "δ激光器利用暗能量作为强大的激光武器。它在过载护盾方面也比前几代更强大。"
+
+
+SMALL_ACOT_PLASMA_DM: "小型暗物质等离子炮"
+MEDIUM_ACOT_PLASMA_DM: "中型暗物质等离子炮"
+LARGE_ACOT_PLASMA_DM: "大型暗物质等离子炮"
+ACOT_PLASMA_DM: "暗物质等离子炮"
+ACOT_PLASMA_DM_DESC: "暗物质等离子炮，顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+tech_plasma_dm: "暗物质等离子炮"
+tech_plasma_dm_desc: "暗物质等离子炮，顾名思义，发射一种聚集的暗物质作为致命的能量抛射物，它会迅速地融化下层战舰的装甲和外壳。暗物质的性质使这种武器比传统等离子武器在防御方面表现更好。"
+
+
+SMALL_ACOT_DISRUPTOR_DM: "小型暗能量粉碎器"
+MEDIUM_ACOT_DISRUPTOR_DM: "中型暗能量粉碎器"
+ACOT_DISRUPTOR_DM: "暗能量粉碎器"
+tech_disruptor_dm: "暗能量粉碎器"
+tech_disruptor_dm_desc: "暗能量粉碎器用强大的暗能量摧毁敌舰内部。"
+
+
+ACOT_ENERGY_TORPEDO_DM: "暗能量炮"
+ACOT_ENERGY_TORPEDO_DM_DESC: "暗能量可以形成一种强大的武器，可以融化组织。"
+tech_energy_torpedo_dm: "暗能量炮"
+tech_energy_torpedo_dm_desc: "基于暗能量武器的原理，将能量的负属性集中在一种类似等离子体的射弹上，这种射弹能迅速吃掉敌人的船体。"
+
+
+ACOT_POINT_DEFENSE_DM: "神秘点防御"
+ACOT_POINT_DEFENSE_DM_DESC: "神秘点防御发射一束集中的纯暗能量来中和敌人的导弹。光束比旧的点防御更强，允许它有更高的有效距离。"
+tech_point_defense_dm: "神秘点防御"
+tech_point_defense_dm_desc: "神秘点防御发射一束集中的纯暗能量来中和敌人的导弹。光束比旧的点防御更强，允许它有更高的有效距离。"
+
+
+SMALL_ACOT_MASS_DRIVER_DM: "小型攻城炮"
+MEDIUM_ACOT_MASS_DRIVER_DM: "中型攻城炮"
+LARGE_ACOT_MASS_DRIVER_DM: "大型攻城炮"
+ACOT_MASS_DRIVER_DM: "攻城炮"
+ACOT_MASS_DRIVER_DM_DESC: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+tech_mass_driver_dm: "攻城炮"
+tech_mass_driver_dm_desc: "攻城炮在高斯炮上改进了很多。硬光材料、先进的传感器和暗物质的引入，使我们能够制造出一种极其先进的弹丸发射器，对装甲的不利影响更小。"
+
+
+ACOT_AUTOCANNON_DM: "追踪者自动炮"
+ACOT_AUTOCANNON_DM_DESC: "该武器使用硬光弹快速撕碎敌人的盾牌。"
+tech_autocannons_dm: "追踪者自动炮"
+tech_autocannons_dm_desc: "该武器使用硬光弹快速撕碎敌人的盾牌。"
+
+
+ACOT_ARTILLERY_DM: "硬光火炮"
+ACOT_ARTILLERY_DM_DESC: "硬光火炮使用由纯硬光材料制成的动力产生的弹丸作为武器，使其在防御和防御装甲方面具有极高的杀伤力。"
+tech_kinetic_artillery_dm: "硬光火炮"
+tech_kinetic_artillery_dm_desc: "硬光火炮使用由纯硬光材料制成的动力产生的弹丸作为武器，使其在防御和防御装甲方面具有极高的杀伤力。"
+
+
+ACOT_FLAK_CANNON_DM: "地狱火防御矩阵"
+ACOT_FLAK_CANNON_DM_DESC: "地狱火防御矩阵在一场钢铁般的大雨中扫射敌人的舰载机。他们将尝到死亡和失败的滋味。"
+tech_flak_batteries_dm: "地狱火防御矩阵"
+tech_flak_batteries_dm_desc: "地狱火防御矩阵在一场钢铁般的大雨中扫射敌人的攻击艇。他们将尝到死亡和失败的滋味。"
+
+
+ACOT_MISSILE_DM: "复仇导弹"
+ACOT_MISSILE_DM_DESC: "复仇者导弹利用暗物质推进器增加其最大速度以及硬光材料加固弹体，使它更难被拦截。"
+tech_missile_dm: "复仇导弹"
+tech_missile_dm_desc: "复仇导弹利用暗物质推进器增加其最大速度以及硬光材料加固船体，使它更难被拦截。"
+
+
+ACOT_TORPEDO_DM: "悖论鱼雷"
+ACOT_TORPEDO_DM_DESC: "悖论鱼雷由硬光装甲保护，含有强大的暗能量，如果受到撞击就会爆炸，使其优于老式鱼雷。"
+tech_torpedo_dm: "悖论鱼雷"
+tech_torpedo_dm_desc: "悖论鱼雷由硬光装甲保护，含有强大的暗能量，如果受到撞击就会爆炸，使其优于老式鱼雷。"
+
+
+ACOT_SWARMER_MISSILES_DM: "弥诺陶洛斯集群导弹"
+ACOT_SWARMER_MISSILES_DM_DESC: "弥诺陶洛斯集群导弹以有限的仿生链接引导，使其能够达到更高的速度，速度，并能执行基本的规避机动，使其极难击落。"
+tech_swarmer_missile_dm: "弥诺陶洛斯集群导弹"
+tech_swarmer_missile_dm_desc: "弥诺陶洛斯集群导弹以有限的仿生链接引导，使其能够达到更高的速度，速度，并能执行基本的规避机动，使其极难击落。"
+
+
+ACOT_PARTICLE_LANCE_DM: "暗能量光矛"
+ACOT_PARTICLE_LANCE_DM_DESC: "暗能量光矛用聚焦暗能量光束穿透敌方装甲。长矛的威力足以使能量护盾过载。"
+tech_energy_lance_dm: "暗能量光矛"
+tech_energy_lance_dm_desc: "暗能量光矛用聚焦暗能量光束穿透敌方装甲。长矛的威力足以使能量护盾过载。"
+
+
+ACOT_ARC_EMITTER_DM: "暗能量发射器"
+ACOT_ARC_EMITTER_DM_DESC: "这个神秘的武器利用暗能量制造了一个非常致命的电弧发射器，由于它的性质，它将极大地破坏敌方舰船的内部系统。"
+tech_arc_emitter_dm: "暗能量发射器"
+tech_arc_emitter_dm_desc: "这个神秘的武器利用暗能量制造了一个非常致命的电弧发射器，由于它的性质，它将极大地破坏敌方舰船的内部系统。"
+
+
+ACOT_MASS_ACCELERATOR_DM: "δ加速炮"
+ACOT_MASS_ACCELERATOR_DM_DESC: "在这个充满暗物质的旋转火炮平台上，通过先进的动能系统加速发射使δ加速炮成为一种强大的反舰武器。"
+tech_mass_accelerator_dm: "δ质量加速炮"
+tech_mass_accelerator_dm_desc: "这个轴基火炮通过先进的动能加速系统发射炮弹，使δ质量加速炮成为强大的反舰武器。"
+
+
+ACOT_PERDITION_BEAM_DM: "大力神光线"
+ACOT_PERDITION_BEAM_DM_DESC: "暗能量和暗物质能量的引入使我们能够改进旧的毁灭光束设计。大力神光线是一个巨大的暗能量管道，能够发射一束纯粹的破坏光束。"
+tech_perdition_beam_dm: "大力神光线"
+tech_perdition_beam_dm_desc: "暗能量和暗物质能量的引入使我们能够改进旧的毁灭光束设计。大力神光线是一个巨大的暗能量管道，能够发射一束纯粹的破坏光束。"
+
+
+ACOT_TITAN_EMITTER_DM: "泰坦发射器"
+ACOT_TITAN_EMITTER_DM_DESC: "强大的发射器，通过牺牲射程，增加武器的稳定性和破坏潜力。"
+tech_titan_emitter_dm: "泰坦发射器"
+tech_titan_emitter_dm_desc: "我们早就开始为舰船开发发射器武器了。虽然射程不能增大，但损伤潜力和稳定性应大幅度提高。"
+
+
+ACOT_TITAN_ACCELERATOR_DM: "泰坦δ加速器大炮"
+ACOT_TITAN_ACCELERATOR_DM_DESC: "泰坦尺度的质量加速器，能够跨越极端距离击中目标。"
+tech_titan_accelerator_dm: "泰坦δ加速器"
+tech_titan_accelerator_dm_desc: "新改进的加速系统和磁轨系统使我们最终能够在泰坦上开发动能加速器。"
+
+
+ACOT_FIGHTERS_HANGAR_DM: "相位截击机"
+ACOT_FIGHTERS_HANGAR_DM_DESC: "根据先驱者的蓝图，这些新的舰载机远比以前的任何一代都好。暗物质推进器、偏转器、硬光镀层、仿生传感器。所有这些因素使这些舰载机成为劣质飞机和导弹的强大的敌人。"
+ACOT_BOMBERS_HANGAR_DM: "燃烧轰炸机"
+ACOT_BOMBERS_HANGAR_DM_DESC: "根据先驱者的蓝图，这些新的舰载机远比以前的任何一代都好。暗物质推进器、偏转器、硬光镀层、仿生传感器。所有这些因素使这些轰炸机成为大型舰船的强大敌人。"
+ACOT_GUNSHIP_HANGAR_DM: "挑战者炮艇"
+ACOT_GUNSHIP_HANGAR_DM_DESC: "炮艇是一种特殊的突击艇，擅长支援具有远程火力支援的大型舰船。"
+tech_strike_craft_bomber_dm: "神秘舰载机"
+tech_strike_craft_bomber_dm_desc: "根据早期的蓝图，这些新的攻击机远比以前的任何一代都好。暗物质推进器，导向板，硬光电镀、仿生传感器。所有这些元素使这些舰载机成为强大的敌人，以对抗更大的舰船。"
+tech_strike_craft_gunship_dm: "炮艇攻击艇"
+tech_strike_craft_gunship_dm_desc: "虽然轰炸机和拦截机已经很好地定义了攻击机的角色，但也存在一些问题。这两种类型的攻击艇都需要相当长的时间才能达到攻击距离。在许多战斗中，航母在这些敏捷的突击艇第一次起飞之前就被摧毁了。取而代之的计划是制造一种专门的远程攻击艇。"
+
+ACOT_PARTICLE_LANCE_DM_LARGE: "小型化暗能量光矛"
+ACOT_PARTICLE_LANCE_DM_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暗能量光矛，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+tech_resized_energy_lance_dm: "小型化暗能量光矛"
+tech_resized_energy_lance_dm_desc: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暗能量光矛，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+
+ACOT_ARC_EMITTER_DM_LARGE: "小型化暗能量发射器"
+ACOT_ARC_EMITTER_DM_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暗能量发射器，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+tech_resized_arc_emitter_dm: "小型化暗能量发射器"
+tech_resized_arc_emitter_dm_desc: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暗能量发射器，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+
+ACOT_MASS_ACCELERATOR_DM_LARGE: "δ微型加速炮"
+ACOT_MASS_ACCELERATOR_DM_LARGE_DESC: "在我们的硬光技术的进步中，使我们能够创建足够强大的炮塔容纳德尔塔质量加速器加农炮，消除了限制。然而，与最初的设计相比，这在射程、精度和火力上都有相当大的降低。"
+tech_resized_mass_accelerator_dm: "微型加速炮"
+tech_resized_mass_accelerator_dm_desc: "在我们的硬光技术的进步中，使我们能够创建足够强大的炮塔容纳德尔塔质量加速器加农炮，消除了限制。然而，与最初的设计相比，这在射程、精度和火力上都有相当大的降低。"
+
+######## ARMOR HERE
+
+SMALL_ACOT_ARMOR_DM: "小型硬光装甲"
+MEDIUM_ACOT_ARMOR_DM: "中型硬光装甲"
+LARGE_ACOT_ARMOR_DM: "大型硬光装甲"
+ACOT_ARMOR_DM: "硬光装甲"
+ACOT_ARMOR_DM_DESC: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+tech_armor_dm: "硬光装甲"
+tech_armor_dm_desc: "硬光是由纯固体光构成的动态材料。当它完全形成时，它比中子更密集，也更坚硬。"
+
+
+######## OTHER STUFFS HERE
+ENIGMATIC_DRIVE_DM: "δ曲速引擎"
+ENIGMATIC_DRIVE_DM_DESC: "这个神秘的跃迁引擎使用暗物质撕开一个微型虫洞，让舰船比传统的跃迁引擎跳得更远。这个过程也没有造成维度裂痕的风险。"
+tech_enigmatic_drive_dm: "空间移位"
+tech_enigmatic_drive_dm_desc: "传统的跃迁引擎是基于零点能量的原理和配置，它有可能产生不可预见的维度级联。然而，有可能开发一种新的超光速技术，利用暗物质将舰船“改写”成太空中的新位置。"
+TECH_UNLOCK_ENIG_DRIVE_DM: "§H解锁组件:§! 传送器引擎"
+TECH_UNLOCK_ENIG_DRIVE_DM_DESC: "§H跃迁技术§!\n这种新的FTL技术允许舰船使用引擎技术而不存在维度尺寸异常的风险，只要传统的跃迁引擎还没有被使用。"
+
+DM_SENSOR_SHIP: "δ传感器"
+DM_SENSOR_SHIP_DESC: "这种先进的传感器设备通过研究散布在太空中的暗物质层的突然移动来探测来自几个不同星系的舰船运动。传感器，报告所有运动的活动，舰船武器实时计算所有可能的敌人的运动。"
+tech_sensors_dm:0 "暗物质移动模式分析仪"
+tech_sensors_dm_desc:0 "我们现在意识到暗物质不仅存在于黑洞中，而且存在于每一个恒星系统中。这些暗物质的数量太少而不能使用，但它们仍然会产生明显的移动反应。如果我们能研究这种反应，我们就有可能创造出优于旧方法的新型传感器技术。"
+TECH_UNLOCK_DM_SENSOR_TITLE: "§H解锁组件:§! δ传感器"
+TECH_UNLOCK_DM_SENSOR_DESC: "§Hδ传感器§!\n$DM_SENSOR_SHIP$"
+
+ACOT_AFTERBURNERS_DM: "δ加力燃烧器"
+ACOT_AFTERBURNERS_DM_DESC: "在这种情况下，单靠推进器还不足以使船快速前进。新一代加力燃烧器可用于提高舰船的最高速度。"
+tech_darkmatter_afterburners_dm: "暗物质加力燃烧器"
+tech_darkmatter_afterburners_dm_desc: "尽管我们的舰船正开始以惊人的效率穿越太空，但仍有进一步扩大的空间。我们目前的加力燃烧器被认为效率太低。也许通过引入暗物质推进器,加力燃烧器也可以改善吗?"
+
+
+ACOT_REPAIR_COUNTERMEASURES_DM: "δ反应对抗无人机"
+ACOT_REPAIR_COUNTERMEASURES_DM_DESC: "反应对抗无人机(RCD)是一种新型的自动化无人机，具有两种功能。在战斗结束后修复舰船的装甲，并作为对抗措施吸收来自攻击的伤害。"
+tech_darkmatter_reactive_drone_dm: "反应性对策系统"
+tech_darkmatter_reactive_drone_dm_desc: "反应对抗无人机(RCD)是一种新型的自动化无人机，具有两种功能。在战斗结束后修复舰船的装甲，并作为对抗措施吸收来自攻击的伤害。"
+
+
+ACOT_REACTOR_BOOSTER_DM: "δ助功率放大器"
+ACOT_REACTOR_BOOSTER_DM_DESC: "暗能量APA提供额外的备用电源，以防主反应堆不够强大。此外，该模块将舰船的总体成本降低了一小部分。"
+tech_darkmatter_reactor_booster_dm: "暗能量辅助功率放大器"
+tech_darkmatter_reactor_booster_dm_desc: "暗能量APA提供额外的备用电源，以防主反应堆不够强大。此外，该模块将舰船的总体成本降低了一小部分。"
+
+
+ACOT_SHIELD_BOOSTER_DM: "δ增压势垒"
+ACOT_SHIELD_BOOSTER_DM_DESC: "超级增压势垒使舰船的护盾发生器在消耗能量的前提下极大地提高效能。"
+tech_darkmatter_shield_supercharger_dm: "增压势垒"
+tech_darkmatter_shield_supercharger_dm_desc: "增压势垒使舰船的护盾发生器在消耗能量的前提下极大地提高效能。"
+
+
+ACOT_STARCHARTER_DM: "动态星宪章"
+ACOT_STARCHARTER_DM_DESC: "一种特殊的辅助舱，包含多个传感器单元，允许船作为一个移动哨兵阵列。"
+tech_darkmatter_star_charter_dm: "恒星宪章模块"
+tech_darkmatter_star_charter_dm_desc: "一种特殊的辅助舱，包含多个传感器单元，允许船作为一个移动哨兵阵列。"
+
+
+tech_enigmatic_ships: "硬光舰船"
+tech_enigmatic_ships_desc: "升级我们所有的标准舰队使用硬光技术将大大提高他们在战斗中的耐久力。"
+tech_enigmatic_ships_desc_short: "用更高的防御打开新的舰船区段。这些新的部分消耗了先天的暗物质和暗能量。"
+
+DELTA_CORVETTE_MID_A: "δ护卫舰 A"
+DELTA_CORVETTE_MID_B: "δ护卫舰 B"
+DELTA_CORVETTE_MID_C: "δ护卫舰 C"
+
+DELTA_DESTROYER_BOW_1: "δ驱逐舰 舰首 A"
+DELTA_DESTROYER_BOW_2: "δ驱逐舰 舰首 B"
+DELTA_DESTROYER_BOW_3: "δ驱逐舰 舰首 C"
+DELTA_DESTROYER_BOW_4: "δ驱逐舰 舰首 D"
+DELTA_DESTROYER_STERN_1: "δ驱逐舰 舰尾 A"
+DELTA_DESTROYER_STERN_2: "δ驱逐舰 舰尾 B"
+DELTA_DESTROYER_STERN_3: "δ驱逐舰 舰尾 C"
+DELTA_DESTROYER_STERN_4: "δ驱逐舰 舰尾 D"
+
+DELTA_CRUISER_BOW_1: "δ巡洋舰 舰首 A"
+DELTA_CRUISER_BOW_2: "δ巡洋舰 舰首 B"
+DELTA_CRUISER_BOW_3: "δ巡洋舰 舰首 C"
+DELTA_CRUISER_BOW_4: "δ巡洋舰 舰首 D"
+DELTA_CRUISER_MID_1: "δ巡洋舰 中部 A"
+DELTA_CRUISER_MID_2: "δ巡洋舰 中部 B"
+DELTA_CRUISER_MID_3: "δ巡洋舰 中部 C"
+DELTA_CRUISER_MID_4: "δ巡洋舰 中部 D"
+DELTA_CRUISER_STERN_1: "δ巡洋舰 舰尾 A"
+DELTA_CRUISER_STERN_2: "δ巡洋舰 舰尾 B"
+DELTA_CRUISER_STERN_3: "δ巡洋舰 舰尾 C"
+
+DELTA_BATTLESHIP_BOW_1: "δ战列舰 舰首 A"
+DELTA_BATTLESHIP_BOW_2: "δ战列舰 舰首 B"
+DELTA_BATTLESHIP_BOW_3: "δ战列舰 舰首 C"
+DELTA_BATTLESHIP_BOW_4: "δ战列舰 舰首 D"
+DELTA_BATTLESHIP_MID_1: "δ战列舰 中部 A"
+DELTA_BATTLESHIP_MID_2: "δ战列舰 中部 B"
+DELTA_BATTLESHIP_MID_3: "δ战列舰 中部 C"
+DELTA_BATTLESHIP_MID_4: "δ战列舰 中部 D"
+DELTA_BATTLESHIP_STERN_1: "δ战列舰 舰尾 A"
+DELTA_BATTLESHIP_STERN_2: "δ战列舰 舰尾 B"
+DELTA_BATTLESHIP_STERN_3: "δ战列舰 舰尾 C"
+
+DELTA_TITAN_BOW_1: "δ泰坦 舰首 A"
+DELTA_TITAN_BOW_2: "δ泰坦 舰首 B"
+DELTA_TITAN_BOW_3: "δ泰坦 舰首 C"
+DELTA_TITAN_MID_1: "δ泰坦 中部 A"
+DELTA_TITAN_MID_2: "δ泰坦 中部 B"
+DELTA_TITAN_MID_3: "δ泰坦 中部 C"
+DELTA_TITAN_STERN_1: "δ泰坦 舰尾 A"
+DELTA_TITAN_STERN_2: "δ泰坦 舰尾 B"
+DELTA_TITAN_STERN_3: "δ泰坦 舰尾 C"

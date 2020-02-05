@@ -8,7 +8,7 @@
  apsr5_planet_modifier_desc:0 "星球上只有一个城市，但它覆盖了所有的表面，甚至湖泊和海洋。它还保存得非常好，不受腐蚀和破坏的地方，这是很久以前被抛弃了。"
  
  apsr5_deposit:0 "$apsr5_planet_modifier$"
- apsr5_deposit_desc:0 "$apsr5_planet_modifier_desc$\n\n§M$apsr5_deposit_effect$§!" 
+ apsr5_deposit_desc:0 "$apsr5_planet_modifier_desc$\n\n§M$apsr5_deposit_effect$§!"
  apsr5_deposit_effect:0 "独特的资源可用: $apsr5_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.5003.title:0 "$apsr5_building_part3$ 建成"
  apsr.5003.desc:0 "我们改进了§Y$apsr5_building_part3$§!，现在我们终于了解了古人。结果是，整个§Y不朽都市§!——对于曾经生活在这个星球上的种族来说，这是一个难以置信的社会实验。结果我们不得而知，但我们仍然可以从中受益。"
  apsr.5003.ok-button:0 "太棒了"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.5013.title:0 "发现文物: §M$apsr5_planet_modifier$§!"
  apsr.5013.desc:0 "在我们新占领的一颗行星上，我们发现了一些有趣的东西!星球上只有一个城市，但它覆盖了所有的表面，甚至湖泊和海洋。它还保存得非常好，不受腐蚀和破坏的地方，这是很久以前被抛弃了。无论谁住在那里都是在早期的太空时代，但他们的一些工程决策甚至对我们来说都是革命性的。"
  apsr.5013.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

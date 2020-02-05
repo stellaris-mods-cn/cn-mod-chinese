@@ -889,7 +889,7 @@
  job_alpha_network_technician_drone_plural:0 "技术单元"
  job_alpha_network_technician_drone_desc:1 "负责管理和监督发电厂运行的机械师、操作员和技术人员。"
  job_alpha_network_technician_drone_effect_desc:0 "£job_alpha_network_technician_drone£ $job_alpha_network_technician_drone_plural$生产£energy£"
- mod_job_alpha_network_technician_drone_add:0 "$job_alpha_network_technician_drone$工作"
+ mod_job_alpha_network_technician_drone_add:0 "$job_alpha_network_technician_drone$岗位"
  mod_job_alpha_network_technician_drone_per_pop:0 "§G+1§! $job_alpha_network_technician_drone$每$VALUE$人口"
  mod_job_alpha_network_technician_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_technician_drone_add£每$VALUE$ £pop£"
  
@@ -897,7 +897,7 @@
  job_alpha_network_technician_terraforming_drone_plural:0 "地貌改造单元"
  job_alpha_network_technician_terraforming_drone_desc:1 "负责管理和监督地貌改造的机械师、操作员和技术人员。"
  job_alpha_network_technician_terraforming_drone_effect_desc:0 "£job_alpha_network_technician_terraforming_drone£ $job_alpha_network_technician_terraforming_drone_plural$转换£minerals£ & £energy£增加§Y$地貌改造速度§!"
- mod_job_alpha_network_technician_terraforming_drone_add:0 "$job_alpha_network_technician_terraforming_drone$工作"
+ mod_job_alpha_network_technician_terraforming_drone_add:0 "$job_alpha_network_technician_terraforming_drone$岗位"
  mod_job_alpha_network_technician_terraforming_drone_per_pop:0 "§G+1§! $job_alpha_network_technician_terraforming_drone$每$VALUE$人口"
  mod_job_alpha_network_technician_terraforming_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_technician_terraforming_drone_add£每$VALUE$ £pop£"
  
@@ -905,7 +905,7 @@
  job_alpha_network_technician_megastructure_drone_plural:0 "巨型建筑单元"
  job_alpha_network_technician_megastructure_drone_desc:1 "机械师、操作员和技术人员，他们管理和监督巨型建筑的运行。"
  job_alpha_network_technician_megastructure_drone_effect_desc:0 "£job_alpha_network_technician_megastructure_drone£ $job_alpha_network_technician_megastructure_drone_plural$转换£minerals£ & £energy£增加§Y巨型建筑建造速度§!"
- mod_job_alpha_network_technician_megastructure_drone_add:0 "$job_alpha_network_technician_megastructure_drone$工作"
+ mod_job_alpha_network_technician_megastructure_drone_add:0 "$job_alpha_network_technician_megastructure_drone$岗位"
  mod_job_alpha_network_technician_megastructure_drone_per_pop:0 "§G+1§! $job_alpha_network_technician_megastructure_drone$每$VALUE$人口"
  mod_job_alpha_network_technician_megastructure_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_technician_megastructure_drone_add£每$VALUE$ £pop£"
     
@@ -915,7 +915,7 @@
  job_alpha_network_mining_drone_plural:0 "采矿单元"
  job_alpha_network_mining_drone_desc:1 "这些单元装备有现代化的动力钻机和先进的机械设备，可以提取和制备工业、军事和消费者使用的宝贵矿物。"
  job_alpha_network_mining_drone_effect_desc:0 "£job_alpha_network_mining_drone£ $job_alpha_network_mining_drone_plural$生产£minerals£"
- mod_job_alpha_network_mining_drone_add:0 "$job_alpha_network_mining_drone$工作"
+ mod_job_alpha_network_mining_drone_add:0 "$job_alpha_network_mining_drone$岗位"
  mod_job_alpha_network_mining_drone_per_pop:0 "§G+1§! $job_alpha_network_mining_drone$每$VALUE$人口"
  mod_job_alpha_network_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mining_drone_add£每$VALUE$ £pop£"
  
@@ -923,7 +923,7 @@
  job_alpha_network_mining_alloy_drone_plural:0 "Fabricator Drones"
  job_alpha_network_mining_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Fabricators."
  job_alpha_network_mining_alloy_drone_effect_desc:0 "£job_alpha_network_mining_alloy_drone£ $job_alpha_network_mining_alloy_drone_plural$转换£minerals£ into £alloys£ §Y$alloys$§!"
- mod_job_alpha_network_mining_alloy_drone_add:0 "$job_alpha_network_mining_alloy_drone$工作"
+ mod_job_alpha_network_mining_alloy_drone_add:0 "$job_alpha_network_mining_alloy_drone$岗位"
  mod_job_alpha_network_mining_alloy_drone_per_pop:0 "§G+1§! $job_alpha_network_mining_alloy_drone$每$VALUE$人口"
  mod_job_alpha_network_mining_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mining_alloy_drone_add£每$VALUE$ £pop£"
  
@@ -931,7 +931,7 @@
  job_alpha_network_mining_sr_drone_plural:0 "Networked SR-Drones"
  job_alpha_network_mining_sr_drone_desc:1 "Rather than maintain systems of mote traps, crystal mines and exotic gas refineries, SR-Drones directly manipulate minerals at monolithic facilities designed to生产all three."
  job_alpha_network_mining_sr_drone_effect_desc:0 "£job_alpha_network_mining_sr_drone£转换£minerals£ into £volatile_motes£ £exotic_gases£ £rare_crystals£"
- mod_job_alpha_network_mining_sr_drone_add:0 "$job_alpha_network_mining_sr_drone$工作"
+ mod_job_alpha_network_mining_sr_drone_add:0 "$job_alpha_network_mining_sr_drone$岗位"
  mod_job_alpha_network_mining_sr_drone_per_pop:0 "§G+1§! $job_alpha_network_mining_sr_drone$每$VALUE$人口"
  mod_job_alpha_network_mining_sr_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mining_sr_drone_add£每$VALUE$ £pop£"
  
@@ -941,7 +941,7 @@
  job_alpha_network_science_calculator_drone_plural:0 "Networked Calculators"
  job_alpha_network_science_calculator_drone_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Calculators lead the technological development of the Machine Intelligence."
  job_alpha_network_science_calculator_drone_effect_desc:1 "£job_alpha_network_science_calculator_drone£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_alpha_network_science_calculator_drone_add:0 "$job_alpha_network_science_calculator_drone$工作"
+ mod_job_alpha_network_science_calculator_drone_add:0 "$job_alpha_network_science_calculator_drone$岗位"
  mod_job_alpha_network_science_calculator_drone_per_pop:0 "§G+1§! $job_alpha_network_science_calculator_drone$每$VALUE$人口"
  mod_job_alpha_network_science_calculator_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_science_calculator_drone_add£每$VALUE$ £pop£"
  
@@ -949,7 +949,7 @@
  job_alpha_network_science_lvl_drone_plural:0 "Networked Level Cap Drones"
  job_alpha_network_science_lvl_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra data storage allowing them to reach levels they would normally be unable to."
  job_alpha_network_science_lvl_drone_effect_desc:1 "£job_alpha_network_science_lvl_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Level Cap§!"
- mod_job_alpha_network_science_lvl_drone_add:0 "$job_alpha_network_science_lvl_drone$工作"
+ mod_job_alpha_network_science_lvl_drone_add:0 "$job_alpha_network_science_lvl_drone$岗位"
  mod_job_alpha_network_science_lvl_drone_per_pop:0 "§G+1§! $job_alpha_network_science_lvl_drone$每$VALUE$人口"
  mod_job_alpha_network_science_lvl_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_science_lvl_drone_add£每$VALUE$ £pop£"
  
@@ -957,7 +957,7 @@
  job_alpha_network_science_exp_drone_plural:0 "Networked Affinity Drones"
  job_alpha_network_science_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power allowing them to reach levels faster."
  job_alpha_network_science_exp_drone_effect_desc:1 "£job_alpha_network_science_exp_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Experiance Gain§!"
- mod_job_alpha_network_science_exp_drone_add:0 "$job_alpha_network_science_exp_drone$工作"
+ mod_job_alpha_network_science_exp_drone_add:0 "$job_alpha_network_science_exp_drone$岗位"
  mod_job_alpha_network_science_exp_drone_per_pop:0 "§G+1§! $job_alpha_network_science_exp_drone$每$VALUE$人口"
  mod_job_alpha_network_science_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_science_exp_drone_add£每$VALUE$ £pop£"
  
@@ -967,7 +967,7 @@
  job_alpha_network_military_naval_drone_plural:0 "Networked Naval Drones"
  job_alpha_network_military_naval_drone_desc:1 "Processors who specialize in the increased of naval capacity."
  job_alpha_network_military_naval_drone_effect_desc:0 "£job_alpha_network_military_naval_drone£ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
- mod_job_alpha_network_military_naval_drone_add:0 "$job_alpha_network_military_naval_drone$工作"
+ mod_job_alpha_network_military_naval_drone_add:0 "$job_alpha_network_military_naval_drone$岗位"
  mod_job_alpha_network_military_naval_drone_per_pop:0 "§G+1§! $job_alpha_network_military_naval_drone$每$VALUE$人口"
  mod_job_alpha_network_military_naval_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_warrior_drone_add£每$VALUE$ £pop£"
  
@@ -975,7 +975,7 @@
  job_alpha_network_military_fortification_drone_plural:0 "Networked Fortification Drones"
  job_alpha_network_military_fortification_drone_desc:1 "Deviancy and function corruption that threatens the stability of the collective must be remedied."
  job_alpha_network_military_fortification_drone_effect_desc:0 "£job_alpha_network_military_fortification_drone£ decrease £crime£ and spawn £defense_army£ §YDefense Armies§!"
- mod_job_alpha_network_military_fortification_drone_add:0 "$job_alpha_network_military_fortification_drone$工作"
+ mod_job_alpha_network_military_fortification_drone_add:0 "$job_alpha_network_military_fortification_drone$岗位"
  mod_job_alpha_network_military_fortification_drone_per_pop:0 "§G+1§! $job_alpha_network_military_fortification_drone$每$VALUE$人口"
  mod_job_alpha_network_military_fortification_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_military_fortification_drone_add£每$VALUE$ £pop£"
  
@@ -983,7 +983,7 @@
  job_alpha_network_military_storage_drone_plural:0 "Networked Storage Drones"
  job_alpha_network_military_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
  job_alpha_network_military_storage_drone_effect_desc:0 "£job_alpha_network_military_storage_drone£ increase §YResource Storage§!"
- mod_job_alpha_network_military_storage_drone_add:0 "$job_alpha_network_military_storage_drone$工作"
+ mod_job_alpha_network_military_storage_drone_add:0 "$job_alpha_network_military_storage_drone$岗位"
  mod_job_alpha_network_military_storage_drone_per_pop:0 "§G+1§! $job_alpha_network_military_storage_drone$每$VALUE$人口"
  mod_job_alpha_network_military_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_military_storage_drone_add£每$VALUE$ £pop£"
  
@@ -993,7 +993,7 @@
  job_alpha_network_unity_drone_plural:0 "Networked Coordinator Drones"
  job_alpha_network_unity_drone_desc:1 "Signals to and from the Core must be amplified, boosted, and cleaned of static and data corruption."
  job_alpha_network_unity_drone_effect_desc:0 "£job_alpha_network_unity_drone£生产£unity£"
- mod_job_alpha_network_unity_drone_add:0 "$job_alpha_network_unity_drone$工作"
+ mod_job_alpha_network_unity_drone_add:0 "$job_alpha_network_unity_drone$岗位"
  mod_job_alpha_network_unity_drone_per_pop:0 "§G+1§! $job_alpha_network_unity_drone$每$VALUE$人口"
  mod_job_alpha_network_unity_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_unity_drone_add£每$VALUE$ £pop£"
  
@@ -1001,7 +1001,7 @@
  job_alpha_network_unity_diplomacy_drone_plural:0 "Networked Diplo-Drones"
  job_alpha_network_unity_diplomacy_drone_desc:1 "Close examination and study of organic media and mannerisms will allow the network to gain more trust with them."
  job_alpha_network_unity_diplomacy_drone_effect_desc:0 "£job_alpha_network_unity_diplomacy_drone£ use £unity£ to increase £mod_country_organic_trust_cap_add£ §YOrganic Trust§!"
- mod_job_alpha_network_unity_diplomacy_drone_add:0 "$job_alpha_network_unity_diplomacy_drone$工作"
+ mod_job_alpha_network_unity_diplomacy_drone_add:0 "$job_alpha_network_unity_diplomacy_drone$岗位"
  mod_job_alpha_network_unity_diplomacy_drone_per_pop:0 "§G+1§! $job_alpha_network_unity_diplomacy_drone$每$VALUE$人口"
  mod_job_alpha_network_unity_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_unity_diplomacy_drone_add£每$VALUE$ £pop£"
  
@@ -1009,7 +1009,7 @@
  job_alpha_network_unity_admin_drone_plural:0 "Networked Admin-Drones"
  job_alpha_network_unity_admin_drone_desc:1 "Processors who ensure that the network will be able to maintain proper coheasion across larger distances."
  job_alpha_network_unity_admin_drone_effect_desc:0 "£job_alpha_network_unity_admin_drone£ use £unity£ to increase £mod_country_admin_cap_add£ §Y$mod_country_admin_cap_add$§!"
- mod_job_alpha_network_unity_admin_drone_add:0 "$job_alpha_network_unity_admin_drone$工作"
+ mod_job_alpha_network_unity_admin_drone_add:0 "$job_alpha_network_unity_admin_drone$岗位"
  mod_job_alpha_network_unity_admin_drone_per_pop:0 "§G+1§! $job_alpha_network_unity_admin_drone$每$VALUE$人口"
  mod_job_alpha_network_unity_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_unity_admin_drone_add£每$VALUE$ £pop£"
  
@@ -1019,7 +1019,7 @@
  job_alpha_assimilator_network_bot_calculator_plural:0 "Asssimilator Calculators"
  job_alpha_assimilator_network_bot_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilator Calculators co-lead the technological development of the Machine Intelligence."
  job_alpha_assimilator_network_bot_calculator_effect_desc:1 "£job_alpha_assimilator_network_bot_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_alpha_assimilator_network_bot_calculator_add:0 "$job_alpha_assimilator_network_bot_calculator$工作"
+ mod_job_alpha_assimilator_network_bot_calculator_add:0 "$job_alpha_assimilator_network_bot_calculator$岗位"
  mod_job_alpha_assimilator_network_bot_calculator_per_pop:0 "§G+1§! $job_alpha_assimilator_network_bot_calculator$每$VALUE$人口"
  mod_job_alpha_assimilator_network_bot_calculator_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_bot_calculator_add£每$VALUE$ £pop£"
  
@@ -1027,7 +1027,7 @@
  job_alpha_assimilator_network_bio_calculator_plural:0 "Assimilated Calculators"
  job_alpha_assimilator_network_bio_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilated Calculators co-lead the technological development of the Machine Intelligence."
  job_alpha_assimilator_network_bio_calculator_effect_desc:1 "£job_alpha_assimilator_network_bio_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_alpha_assimilator_network_bio_calculator_add:0 "$job_alpha_assimilator_network_bio_calculator$工作"
+ mod_job_alpha_assimilator_network_bio_calculator_add:0 "$job_alpha_assimilator_network_bio_calculator$岗位"
  mod_job_alpha_assimilator_network_bio_calculator_per_pop:0 "§G+1§! $job_alpha_assimilator_network_bio_calculator$每$VALUE$人口"
  mod_job_alpha_assimilator_network_bio_calculator_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_bio_calculator_add£每$VALUE$ £pop£"
  
@@ -1035,7 +1035,7 @@
  job_alpha_assimilator_network_agri_drone_plural:0 "Assimilator Agri-Drones"
  job_alpha_assimilator_network_agri_drone_desc:1 "Assimilated organics require organic substances to maintain their body until it expires. These robotic drones ensure the proper creation of such organic substances."
  job_alpha_assimilator_network_agri_drone_effect_desc:0 "£job_alpha_assimilator_network_agri_drone£生产£food£"
- mod_job_alpha_assimilator_network_agri_drone_add:0 "$job_alpha_assimilator_network_agri_drone$工作"
+ mod_job_alpha_assimilator_network_agri_drone_add:0 "$job_alpha_assimilator_network_agri_drone$岗位"
  mod_job_alpha_assimilator_network_agri_drone_per_pop:0 "§G+1§! $job_alpha_assimilator_network_agri_drone$每$VALUE$人口"
  mod_job_alpha_assimilator_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1043,7 +1043,7 @@
  job_alpha_assimilator_network_energy_drone_plural:0 "Assimilated 技术单元"
  job_alpha_assimilator_network_energy_drone_desc:1 "The machine network requires large amounts of energy to maintain proper functionality. These assimilated organics see to the energy generation facilities for their robotic counterparts."
  job_alpha_assimilator_network_energy_drone_effect_desc:0 "£job_alpha_assimilator_network_energy_drone£生产£energy£"
- mod_job_alpha_assimilator_network_energy_drone_add:0 "$job_alpha_assimilator_network_energy_drone$工作"
+ mod_job_alpha_assimilator_network_energy_drone_add:0 "$job_alpha_assimilator_network_energy_drone$岗位"
  mod_job_alpha_assimilator_network_energy_drone_per_pop:0 "§G+1§! $job_alpha_assimilator_network_energy_drone$每$VALUE$人口"
  mod_job_alpha_assimilator_network_energy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_energy_drone_add£每$VALUE$ £pop£"
  
@@ -1051,7 +1051,7 @@
  job_alpha_assimilator_network_lvl_exp_drone_plural:0 "Assimilator Leader Sub-Units"
  job_alpha_assimilator_network_lvl_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power and data storage allowing them to reach levels they would normally be unable to as well as reach them faster."
  job_alpha_assimilator_network_lvl_exp_drone_effect_desc:0 "£job_alpha_assimilator_network_lvl_exp_drone£ use £energy£ & £unity£ to increase §YLeader Experiance Gain & Level Cap§!"
- mod_job_alpha_assimilator_network_lvl_exp_drone_add:0 "$job_alpha_assimilator_network_lvl_exp_drone$工作"
+ mod_job_alpha_assimilator_network_lvl_exp_drone_add:0 "$job_alpha_assimilator_network_lvl_exp_drone$岗位"
  mod_job_alpha_assimilator_network_lvl_exp_drone_per_pop:0 "§G+1§! $job_alpha_assimilator_network_lvl_exp_drone$每$VALUE$人口"
  mod_job_alpha_assimilator_network_lvl_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_assimilator_network_lvl_exp_drone_add£每$VALUE$ £pop£"
  
@@ -1061,7 +1061,7 @@
  job_alpha_exterminator_network_drone_plural:0 "Exterminator Drones"
  job_alpha_exterminator_network_drone_desc:1 "Multi-purpose drones that deal with system wide deviancy, planetary fortification and increasing naval capacity."
  job_alpha_exterminator_network_drone_effect_desc:0 "£job_alpha_exterminator_network_drone£ decrease £crime£ spawn £defense_army£ and increase £mod_country_naval_cap_add£"
- mod_job_alpha_exterminator_network_drone_add:0 "$job_alpha_exterminator_network_drone$工作"
+ mod_job_alpha_exterminator_network_drone_add:0 "$job_alpha_exterminator_network_drone$岗位"
  mod_job_alpha_exterminator_network_drone_per_pop:0 "§G+1§! $job_alpha_exterminator_network_drone$每$VALUE$人口"
  mod_job_alpha_exterminator_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_drone_add£每$VALUE$ £pop£"
   
@@ -1069,7 +1069,7 @@
  job_alpha_exterminator_network_storage_drone_plural:0 "Exterminator Storage Drones"
  job_alpha_exterminator_network_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
  job_alpha_exterminator_network_storage_drone_effect_desc:0 "£job_alpha_exterminator_network_storage_drone£ increase £mod_country_resource_max_add£ §YResource Storage§!"
- mod_job_alpha_exterminator_network_storage_drone_add:0 "$job_alpha_exterminator_network_storage_drone$工作"
+ mod_job_alpha_exterminator_network_storage_drone_add:0 "$job_alpha_exterminator_network_storage_drone$岗位"
  mod_job_alpha_exterminator_network_storage_drone_per_pop:0 "§G+1§! $job_alpha_exterminator_network_storage_drone$每$VALUE$人口"
  mod_job_alpha_exterminator_network_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_storage_drone_add£每$VALUE$ £pop£"
  
@@ -1077,7 +1077,7 @@
  job_alpha_exterminator_network_replicator_drone_plural:0 "Exterminator Replicators"
  job_alpha_exterminator_network_replicator_drone_desc:1 "A machine that builds two machines that builds four machines that builds eight machines that builds..."
  job_alpha_exterminator_network_replicator_drone_effect_desc:1 "£job_alpha_exterminator_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
- mod_job_alpha_exterminator_network_replicator_drone_add:0 "$job_alpha_exterminator_network_replicator_drone$工作"
+ mod_job_alpha_exterminator_network_replicator_drone_add:0 "$job_alpha_exterminator_network_replicator_drone$岗位"
  mod_job_alpha_exterminator_network_replicator_drone_per_pop:0 "§G+1§! $job_alpha_exterminator_network_replicator_drone$每$VALUE$人口"
  mod_job_alpha_exterminator_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_exterminator_network_replicator_drone_add£每$VALUE$ £pop£"
  
@@ -1087,7 +1087,7 @@
  job_alpha_servitor_network_agri_drone_plural:0 "Servitor Agri-Drones"
  job_alpha_servitor_network_agri_drone_desc:1 "Organics require a consistent source of food."
  job_alpha_servitor_network_agri_drone_effect_desc:0 "£job_alpha_servitor_network_agri_drone£生产£food£"
- mod_job_alpha_servitor_network_agri_drone_add:0 "$job_alpha_servitor_network_agri_drone$工作"
+ mod_job_alpha_servitor_network_agri_drone_add:0 "$job_alpha_servitor_network_agri_drone$岗位"
  mod_job_alpha_servitor_network_agri_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_agri_drone$每$VALUE$人口"
  mod_job_alpha_servitor_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1095,7 +1095,7 @@
  job_alpha_servitor_network_artisan_drone_plural:0 "Servitor Artisan Drones"
  job_alpha_servitor_network_artisan_drone_desc:1 "Organics require a consistent flow of goods."
  job_alpha_servitor_network_artisan_drone_effect_desc:0 "£job_alpha_servitor_network_artisan_drone£转换£minerals£ into £consumer_goods£"
- mod_job_alpha_servitor_network_artisan_drone_add:0 "$job_alpha_servitor_network_artisan_drone$工作"
+ mod_job_alpha_servitor_network_artisan_drone_add:0 "$job_alpha_servitor_network_artisan_drone$岗位"
  mod_job_alpha_servitor_network_artisan_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_artisan_drone$每$VALUE$人口"
  mod_job_alpha_servitor_network_artisan_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_artisan_drone_add£每$VALUE$ £pop£"
  
@@ -1103,7 +1103,7 @@
  job_alpha_servitor_network_diplomacy_drone_plural:0 "Servitor Diplo-Drones"
  job_alpha_servitor_network_diplomacy_drone_desc:1 "The study of organic mannerisms and media results in their increased ability to trust this network."
  job_alpha_servitor_network_diplomacy_drone_effect_desc:0 "£job_alpha_servitor_network_diplomacy_drone£转换£food£ & £consumer_goods£ into £mod_country_organic_trust_cap_add£ §YOrganic Trust Cap§!"
- mod_job_alpha_servitor_network_diplomacy_drone_add:0 "$job_alpha_servitor_network_diplomacy_drone$工作"
+ mod_job_alpha_servitor_network_diplomacy_drone_add:0 "$job_alpha_servitor_network_diplomacy_drone$岗位"
  mod_job_alpha_servitor_network_diplomacy_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_diplomacy_drone$每$VALUE$人口"
  mod_job_alpha_servitor_network_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_diplomacy_drone_add£每$VALUE$ £pop£"
  
@@ -1111,7 +1111,7 @@
  job_alpha_servitor_network_admin_drone_plural:0 "Servitor Admin-Drones"
  job_alpha_servitor_network_admin_drone_desc:1 "Processors who ensure that no organic will ever be outside of our safe reach."
  job_alpha_servitor_network_admin_drone_effect_desc:0 "£job_alpha_servitor_network_admin_drone£转换£energy£ & £unity£ into £mod_country_admin_cap_add£"
- mod_job_alpha_servitor_network_admin_drone_add:0 "$job_alpha_servitor_network_admin_drone$工作"
+ mod_job_alpha_servitor_network_admin_drone_add:0 "$job_alpha_servitor_network_admin_drone$岗位"
  mod_job_alpha_servitor_network_admin_drone_per_pop:0 "§G+1§! $job_alpha_servitor_network_admin_drone$每$VALUE$人口"
  mod_job_alpha_servitor_network_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_servitor_network_admin_drone_add£每$VALUE$ £pop£"
  
@@ -1121,7 +1121,7 @@
  job_alpha_network_agri_drone_plural:0 "Agri-Drones"
  job_alpha_network_agri_drone_desc:1 "Even inorganic networks have some use for organic materials."
  job_alpha_network_agri_drone_effect_desc:0 "£job_agri_drone£生产£food£"
- mod_job_alpha_network_agri_drone_add:0 "$job_alpha_network_agri_drone$工作"
+ mod_job_alpha_network_agri_drone_add:0 "$job_alpha_network_agri_drone$岗位"
  mod_job_alpha_network_agri_drone_per_pop:0 "§G+1§! $job_alpha_network_agri_drone$每$VALUE$人口"
  mod_job_alpha_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1129,7 +1129,7 @@
  job_alpha_network_replicator_drone_plural:0 "Replicators"
  job_alpha_network_replicator_drone_desc:1 "A machine that builds a machines that builds another machine that builds another other machine that builds..."
  job_alpha_network_replicator_drone_effect_desc:1 "£job_alpha_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
- mod_job_alpha_network_replicator_drone_add:0 "$job_alpha_network_replicator_drone$工作"
+ mod_job_alpha_network_replicator_drone_add:0 "$job_alpha_network_replicator_drone$岗位"
  mod_job_alpha_network_replicator_drone_per_pop:0 "§G+1§! $job_alpha_network_replicator_drone$每$VALUE$人口"
  mod_job_alpha_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_replicator_drone_add£每$VALUE$ £pop£"
  
@@ -1139,7 +1139,7 @@
  job_beta_network_technician_drone_plural:0 "技术单元"
  job_beta_network_technician_drone_desc:1 "负责管理和监督发电厂运行的机械师、操作员和技术人员。"
  job_beta_network_technician_drone_effect_desc:0 "£job_beta_network_technician_drone£ $job_beta_network_technician_drone_plural$生产£energy£"
- mod_job_beta_network_technician_drone_add:0 "$job_beta_network_technician_drone$工作"
+ mod_job_beta_network_technician_drone_add:0 "$job_beta_network_technician_drone$岗位"
  mod_job_beta_network_technician_drone_per_pop:0 "§G+1§! $job_beta_network_technician_drone$每$VALUE$人口"
  mod_job_beta_network_technician_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_technician_drone_add£每$VALUE$ £pop£"
  
@@ -1147,7 +1147,7 @@
  job_beta_network_technician_terraforming_drone_plural:0 "地貌改造单元"
  job_beta_network_technician_terraforming_drone_desc:1 "负责管理和监督地貌改造的机械师、操作员和技术人员。"
  job_beta_network_technician_terraforming_drone_effect_desc:0 "£job_beta_network_technician_terraforming_drone£ $job_beta_network_technician_terraforming_drone_plural$转换£minerals£ & £energy£增加§Y$地貌改造速度§!"
- mod_job_beta_network_technician_terraforming_drone_add:0 "$job_beta_network_technician_terraforming_drone$工作"
+ mod_job_beta_network_technician_terraforming_drone_add:0 "$job_beta_network_technician_terraforming_drone$岗位"
  mod_job_beta_network_technician_terraforming_drone_per_pop:0 "§G+1§! $job_beta_network_technician_terraforming_drone$每$VALUE$人口"
  mod_job_beta_network_technician_terraforming_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_technician_terraforming_drone_add£每$VALUE$ £pop£"
  
@@ -1155,7 +1155,7 @@
  job_beta_network_technician_megastructure_drone_plural:0 "巨型建筑单元"
  job_beta_network_technician_megastructure_drone_desc:1 "机械师、操作员和技术人员，他们管理和监督巨型建筑的运行。"
  job_beta_network_technician_megastructure_drone_effect_desc:0 "£job_beta_network_technician_megastructure_drone£ $job_beta_network_technician_megastructure_drone_plural$转换£minerals£ & £energy£增加§Y巨型建筑建造速度§!"
- mod_job_beta_network_technician_megastructure_drone_add:0 "$job_beta_network_technician_megastructure_drone$工作"
+ mod_job_beta_network_technician_megastructure_drone_add:0 "$job_beta_network_technician_megastructure_drone$岗位"
  mod_job_beta_network_technician_megastructure_drone_per_pop:0 "§G+1§! $job_beta_network_technician_megastructure_drone$每$VALUE$人口"
  mod_job_beta_network_technician_megastructure_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_technician_megastructure_drone_add£每$VALUE$ £pop£"
     
@@ -1165,7 +1165,7 @@
  job_beta_network_mining_drone_plural:0 "采矿单元"
  job_beta_network_mining_drone_desc:1 "这些单元装备有现代化的动力钻机和先进的机械设备，可以提取和制备工业、军事和消费者使用的宝贵矿物。"
  job_beta_network_mining_drone_effect_desc:0 "£job_beta_network_mining_drone£ $job_beta_network_mining_drone_plural$生产£minerals£"
- mod_job_beta_network_mining_drone_add:0 "$job_beta_network_mining_drone$工作"
+ mod_job_beta_network_mining_drone_add:0 "$job_beta_network_mining_drone$岗位"
  mod_job_beta_network_mining_drone_per_pop:0 "§G+1§! $job_beta_network_mining_drone$每$VALUE$人口"
  mod_job_beta_network_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_mining_drone_add£每$VALUE$ £pop£"
  
@@ -1173,7 +1173,7 @@
  job_beta_network_mining_alloy_drone_plural:0 "Fabricator Drones"
  job_beta_network_mining_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Fabricators."
  job_beta_network_mining_alloy_drone_effect_desc:0 "£job_beta_network_mining_alloy_drone£ $job_beta_network_mining_alloy_drone_plural$转换£minerals£ into £alloys£ §Y$alloys$§!"
- mod_job_beta_network_mining_alloy_drone_add:0 "$job_beta_network_mining_alloy_drone$工作"
+ mod_job_beta_network_mining_alloy_drone_add:0 "$job_beta_network_mining_alloy_drone$岗位"
  mod_job_beta_network_mining_alloy_drone_per_pop:0 "§G+1§! $job_beta_network_mining_alloy_drone$每$VALUE$人口"
  mod_job_beta_network_mining_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_mining_alloy_drone_add£每$VALUE$ £pop£"
  
@@ -1181,7 +1181,7 @@
  job_beta_network_mining_sr_drone_plural:0 "Networked SR-Drones"
  job_beta_network_mining_sr_drone_desc:1 "Rather than maintain systems of mote traps, crystal mines and exotic gas refineries, SR-Drones directly manipulate minerals at monolithic facilities designed to生产all three."
  job_beta_network_mining_sr_drone_effect_desc:0 "£job_beta_network_mining_sr_drone£转换£minerals£ into £volatile_motes£ £exotic_gases£ £rare_crystals£"
- mod_job_beta_network_mining_sr_drone_add:0 "$job_beta_network_mining_sr_drone$工作"
+ mod_job_beta_network_mining_sr_drone_add:0 "$job_beta_network_mining_sr_drone$岗位"
  mod_job_beta_network_mining_sr_drone_per_pop:0 "§G+1§! $job_beta_network_mining_sr_drone$每$VALUE$人口"
  mod_job_beta_network_mining_sr_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_mining_sr_drone_add£每$VALUE$ £pop£"
  
@@ -1191,7 +1191,7 @@
  job_beta_network_science_calculator_drone_plural:0 "Networked Calculators"
  job_beta_network_science_calculator_drone_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Calculators lead the technological development of the Machine Intelligence."
  job_beta_network_science_calculator_drone_effect_desc:1 "£job_beta_network_science_calculator_drone£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_beta_network_science_calculator_drone_add:0 "$job_beta_network_science_calculator_drone$工作"
+ mod_job_beta_network_science_calculator_drone_add:0 "$job_beta_network_science_calculator_drone$岗位"
  mod_job_beta_network_science_calculator_drone_per_pop:0 "§G+1§! $job_beta_network_science_calculator_drone$每$VALUE$人口"
  mod_job_beta_network_science_calculator_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_science_calculator_drone_add£每$VALUE$ £pop£"
  
@@ -1199,7 +1199,7 @@
  job_beta_network_science_lvl_drone_plural:0 "Networked Level Cap Drones"
  job_beta_network_science_lvl_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra data storage allowing them to reach levels they would normally be unable to."
  job_beta_network_science_lvl_drone_effect_desc:1 "£job_beta_network_science_lvl_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Level Cap§!"
- mod_job_beta_network_science_lvl_drone_add:0 "$job_beta_network_science_lvl_drone$工作"
+ mod_job_beta_network_science_lvl_drone_add:0 "$job_beta_network_science_lvl_drone$岗位"
  mod_job_beta_network_science_lvl_drone_per_pop:0 "§G+1§! $job_beta_network_science_lvl_drone$每$VALUE$人口"
  mod_job_beta_network_science_lvl_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_science_lvl_drone_add£每$VALUE$ £pop£"
  
@@ -1207,7 +1207,7 @@
  job_beta_network_science_exp_drone_plural:0 "Networked Affinity Drones"
  job_beta_network_science_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power allowing them to reach levels faster."
  job_beta_network_science_exp_drone_effect_desc:1 "£job_beta_network_science_exp_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Experiance Gain§!"
- mod_job_beta_network_science_exp_drone_add:0 "$job_beta_network_science_exp_drone$工作"
+ mod_job_beta_network_science_exp_drone_add:0 "$job_beta_network_science_exp_drone$岗位"
  mod_job_beta_network_science_exp_drone_per_pop:0 "§G+1§! $job_beta_network_science_exp_drone$每$VALUE$人口"
  mod_job_beta_network_science_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_science_exp_drone_add£每$VALUE$ £pop£"
  
@@ -1217,7 +1217,7 @@
  job_beta_network_military_naval_drone_plural:0 "Networked Naval Drones"
  job_beta_network_military_naval_drone_desc:1 "Processors who specialize in the increased of naval capacity."
  job_beta_network_military_naval_drone_effect_desc:0 "£job_beta_network_military_naval_drone£ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
- mod_job_beta_network_military_naval_drone_add:0 "$job_beta_network_military_naval_drone$工作"
+ mod_job_beta_network_military_naval_drone_add:0 "$job_beta_network_military_naval_drone$岗位"
  mod_job_beta_network_military_naval_drone_per_pop:0 "§G+1§! $job_beta_network_military_naval_drone$每$VALUE$人口"
  mod_job_beta_network_military_naval_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_warrior_drone_add£每$VALUE$ £pop£"
  
@@ -1225,7 +1225,7 @@
  job_beta_network_military_fortification_drone_plural:0 "Networked Fortification Drones"
  job_beta_network_military_fortification_drone_desc:1 "Deviancy and function corruption that threatens the stability of the collective must be remedied."
  job_beta_network_military_fortification_drone_effect_desc:0 "£job_beta_network_military_fortification_drone£ decrease £crime£ and spawn £defense_army£ §YDefense Armies§!"
- mod_job_beta_network_military_fortification_drone_add:0 "$job_beta_network_military_fortification_drone$工作"
+ mod_job_beta_network_military_fortification_drone_add:0 "$job_beta_network_military_fortification_drone$岗位"
  mod_job_beta_network_military_fortification_drone_per_pop:0 "§G+1§! $job_beta_network_military_fortification_drone$每$VALUE$人口"
  mod_job_beta_network_military_fortification_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_military_fortification_drone_add£每$VALUE$ £pop£"
  
@@ -1233,7 +1233,7 @@
  job_beta_network_military_storage_drone_plural:0 "Networked Storage Drones"
  job_beta_network_military_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
  job_beta_network_military_storage_drone_effect_desc:0 "£job_beta_network_military_storage_drone£ increase §YResource Storage§!"
- mod_job_beta_network_military_storage_drone_add:0 "$job_beta_network_military_storage_drone$工作"
+ mod_job_beta_network_military_storage_drone_add:0 "$job_beta_network_military_storage_drone$岗位"
  mod_job_beta_network_military_storage_drone_per_pop:0 "§G+1§! $job_beta_network_military_storage_drone$每$VALUE$人口"
  mod_job_beta_network_military_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_military_storage_drone_add£每$VALUE$ £pop£"
  
@@ -1243,7 +1243,7 @@
  job_beta_network_unity_drone_plural:0 "Networked Coordinator Drones"
  job_beta_network_unity_drone_desc:1 "Signals to and from the Core must be amplified, boosted, and cleaned of static and data corruption."
  job_beta_network_unity_drone_effect_desc:0 "£job_beta_network_unity_drone£生产£unity£"
- mod_job_beta_network_unity_drone_add:0 "$job_beta_network_unity_drone$工作"
+ mod_job_beta_network_unity_drone_add:0 "$job_beta_network_unity_drone$岗位"
  mod_job_beta_network_unity_drone_per_pop:0 "§G+1§! $job_beta_network_unity_drone$每$VALUE$人口"
  mod_job_beta_network_unity_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_unity_drone_add£每$VALUE$ £pop£"
  
@@ -1251,7 +1251,7 @@
  job_beta_network_unity_diplomacy_drone_plural:0 "Networked Diplo-Drones"
  job_beta_network_unity_diplomacy_drone_desc:1 "Close examination and study of organic media and mannerisms will allow the network to gain more trust with them."
  job_beta_network_unity_diplomacy_drone_effect_desc:0 "£job_beta_network_unity_diplomacy_drone£ use £unity£ to increase £mod_country_organic_trust_cap_add£ §YOrganic Trust§!"
- mod_job_beta_network_unity_diplomacy_drone_add:0 "$job_beta_network_unity_diplomacy_drone$工作"
+ mod_job_beta_network_unity_diplomacy_drone_add:0 "$job_beta_network_unity_diplomacy_drone$岗位"
  mod_job_beta_network_unity_diplomacy_drone_per_pop:0 "§G+1§! $job_beta_network_unity_diplomacy_drone$每$VALUE$人口"
  mod_job_beta_network_unity_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_unity_diplomacy_drone_add£每$VALUE$ £pop£"
  
@@ -1259,7 +1259,7 @@
  job_beta_network_unity_admin_drone_plural:0 "Networked Admin-Drones"
  job_beta_network_unity_admin_drone_desc:1 "Processors who ensure that the network will be able to maintain proper coheasion across larger distances."
  job_beta_network_unity_admin_drone_effect_desc:0 "£job_beta_network_unity_admin_drone£ use £unity£ to increase £mod_country_admin_cap_add£ §Y$mod_country_admin_cap_add$§!"
- mod_job_beta_network_unity_admin_drone_add:0 "$job_beta_network_unity_admin_drone$工作"
+ mod_job_beta_network_unity_admin_drone_add:0 "$job_beta_network_unity_admin_drone$岗位"
  mod_job_beta_network_unity_admin_drone_per_pop:0 "§G+1§! $job_beta_network_unity_admin_drone$每$VALUE$人口"
  mod_job_beta_network_unity_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_unity_admin_drone_add£每$VALUE$ £pop£"
  
@@ -1269,7 +1269,7 @@
  job_beta_assimilator_network_bot_calculator_plural:0 "Asssimilator Calculators"
  job_beta_assimilator_network_bot_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilator Calculators co-lead the technological development of the Machine Intelligence."
  job_beta_assimilator_network_bot_calculator_effect_desc:1 "£job_beta_assimilator_network_bot_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_beta_assimilator_network_bot_calculator_add:0 "$job_beta_assimilator_network_bot_calculator$工作"
+ mod_job_beta_assimilator_network_bot_calculator_add:0 "$job_beta_assimilator_network_bot_calculator$岗位"
  mod_job_beta_assimilator_network_bot_calculator_per_pop:0 "§G+1§! $job_beta_assimilator_network_bot_calculator$每$VALUE$人口"
  mod_job_beta_assimilator_network_bot_calculator_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_bot_calculator_add£每$VALUE$ £pop£"
  
@@ -1277,7 +1277,7 @@
  job_beta_assimilator_network_bio_calculator_plural:0 "Assimilated Calculators"
  job_beta_assimilator_network_bio_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilated Calculators co-lead the technological development of the Machine Intelligence."
  job_beta_assimilator_network_bio_calculator_effect_desc:1 "£job_beta_assimilator_network_bio_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_beta_assimilator_network_bio_calculator_add:0 "$job_beta_assimilator_network_bio_calculator$工作"
+ mod_job_beta_assimilator_network_bio_calculator_add:0 "$job_beta_assimilator_network_bio_calculator$岗位"
  mod_job_beta_assimilator_network_bio_calculator_per_pop:0 "§G+1§! $job_beta_assimilator_network_bio_calculator$每$VALUE$人口"
  mod_job_beta_assimilator_network_bio_calculator_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_bio_calculator_add£每$VALUE$ £pop£"
  
@@ -1285,7 +1285,7 @@
  job_beta_assimilator_network_agri_drone_plural:0 "Assimilator Agri-Drones"
  job_beta_assimilator_network_agri_drone_desc:1 "Assimilated organics require organic substances to maintain their body until it expires. These robotic drones ensure the proper creation of such organic substances."
  job_beta_assimilator_network_agri_drone_effect_desc:0 "£job_beta_assimilator_network_agri_drone£生产£food£"
- mod_job_beta_assimilator_network_agri_drone_add:0 "$job_beta_assimilator_network_agri_drone$工作"
+ mod_job_beta_assimilator_network_agri_drone_add:0 "$job_beta_assimilator_network_agri_drone$岗位"
  mod_job_beta_assimilator_network_agri_drone_per_pop:0 "§G+1§! $job_beta_assimilator_network_agri_drone$每$VALUE$人口"
  mod_job_beta_assimilator_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1293,7 +1293,7 @@
  job_beta_assimilator_network_energy_drone_plural:0 "Assimilated 技术单元"
  job_beta_assimilator_network_energy_drone_desc:1 "The machine network requires large amounts of energy to maintain proper functionality. These assimilated organics see to the energy generation facilities for their robotic counterparts."
  job_beta_assimilator_network_energy_drone_effect_desc:0 "£job_beta_assimilator_network_energy_drone£生产£energy£"
- mod_job_beta_assimilator_network_energy_drone_add:0 "$job_beta_assimilator_network_energy_drone$工作"
+ mod_job_beta_assimilator_network_energy_drone_add:0 "$job_beta_assimilator_network_energy_drone$岗位"
  mod_job_beta_assimilator_network_energy_drone_per_pop:0 "§G+1§! $job_beta_assimilator_network_energy_drone$每$VALUE$人口"
  mod_job_beta_assimilator_network_energy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_energy_drone_add£每$VALUE$ £pop£"
  
@@ -1301,7 +1301,7 @@
  job_beta_assimilator_network_lvl_exp_drone_plural:0 "Assimilator Leader Sub-Units"
  job_beta_assimilator_network_lvl_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power and data storage allowing them to reach levels they would normally be unable to as well as reach them faster."
  job_beta_assimilator_network_lvl_exp_drone_effect_desc:0 "£job_beta_assimilator_network_lvl_exp_drone£ use £energy£ & £unity£ to increase §YLeader Experiance Gain & Level Cap§!"
- mod_job_beta_assimilator_network_lvl_exp_drone_add:0 "$job_beta_assimilator_network_lvl_exp_drone$工作"
+ mod_job_beta_assimilator_network_lvl_exp_drone_add:0 "$job_beta_assimilator_network_lvl_exp_drone$岗位"
  mod_job_beta_assimilator_network_lvl_exp_drone_per_pop:0 "§G+1§! $job_beta_assimilator_network_lvl_exp_drone$每$VALUE$人口"
  mod_job_beta_assimilator_network_lvl_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_assimilator_network_lvl_exp_drone_add£每$VALUE$ £pop£"
  
@@ -1311,7 +1311,7 @@
  job_beta_exterminator_network_drone_plural:0 "Exterminator Drones"
  job_beta_exterminator_network_drone_desc:1 "Multi-purpose drones that deal with system wide deviancy, planetary fortification and increasing naval capacity."
  job_beta_exterminator_network_drone_effect_desc:0 "£job_beta_exterminator_network_drone£ decrease £crime£ spawn £defense_army£ and increase £mod_country_naval_cap_add£"
- mod_job_beta_exterminator_network_drone_add:0 "$job_beta_exterminator_network_drone$工作"
+ mod_job_beta_exterminator_network_drone_add:0 "$job_beta_exterminator_network_drone$岗位"
  mod_job_beta_exterminator_network_drone_per_pop:0 "§G+1§! $job_beta_exterminator_network_drone$每$VALUE$人口"
  mod_job_beta_exterminator_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_drone_add£每$VALUE$ £pop£"
   
@@ -1319,7 +1319,7 @@
  job_beta_exterminator_network_storage_drone_plural:0 "Exterminator Storage Drones"
  job_beta_exterminator_network_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
  job_beta_exterminator_network_storage_drone_effect_desc:0 "£job_beta_exterminator_network_storage_drone£ increase £mod_country_resource_max_add£ §YResource Storage§!"
- mod_job_beta_exterminator_network_storage_drone_add:0 "$job_beta_exterminator_network_storage_drone$工作"
+ mod_job_beta_exterminator_network_storage_drone_add:0 "$job_beta_exterminator_network_storage_drone$岗位"
  mod_job_beta_exterminator_network_storage_drone_per_pop:0 "§G+1§! $job_beta_exterminator_network_storage_drone$每$VALUE$人口"
  mod_job_beta_exterminator_network_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_storage_drone_add£每$VALUE$ £pop£"
  
@@ -1327,7 +1327,7 @@
  job_beta_exterminator_network_replicator_drone_plural:0 "Exterminator Replicators"
  job_beta_exterminator_network_replicator_drone_desc:1 "A machine that builds two machines that builds four machines that builds eight machines that builds..."
  job_beta_exterminator_network_replicator_drone_effect_desc:1 "£job_beta_exterminator_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
- mod_job_beta_exterminator_network_replicator_drone_add:0 "$job_beta_exterminator_network_replicator_drone$工作"
+ mod_job_beta_exterminator_network_replicator_drone_add:0 "$job_beta_exterminator_network_replicator_drone$岗位"
  mod_job_beta_exterminator_network_replicator_drone_per_pop:0 "§G+1§! $job_beta_exterminator_network_replicator_drone$每$VALUE$人口"
  mod_job_beta_exterminator_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_exterminator_network_replicator_drone_add£每$VALUE$ £pop£"
  
@@ -1337,7 +1337,7 @@
  job_beta_servitor_network_agri_drone_plural:0 "Servitor Agri-Drones"
  job_beta_servitor_network_agri_drone_desc:1 "Organics require a consistent source of food."
  job_beta_servitor_network_agri_drone_effect_desc:0 "£job_beta_servitor_network_agri_drone£生产£food£"
- mod_job_beta_servitor_network_agri_drone_add:0 "$job_beta_servitor_network_agri_drone$工作"
+ mod_job_beta_servitor_network_agri_drone_add:0 "$job_beta_servitor_network_agri_drone$岗位"
  mod_job_beta_servitor_network_agri_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_agri_drone$每$VALUE$人口"
  mod_job_beta_servitor_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1345,7 +1345,7 @@
  job_beta_servitor_network_artisan_drone_plural:0 "Servitor Artisan Drones"
  job_beta_servitor_network_artisan_drone_desc:1 "Organics require a consistent flow of goods."
  job_beta_servitor_network_artisan_drone_effect_desc:0 "£job_beta_servitor_network_artisan_drone£转换£minerals£ into £consumer_goods£"
- mod_job_beta_servitor_network_artisan_drone_add:0 "$job_beta_servitor_network_artisan_drone$工作"
+ mod_job_beta_servitor_network_artisan_drone_add:0 "$job_beta_servitor_network_artisan_drone$岗位"
  mod_job_beta_servitor_network_artisan_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_artisan_drone$每$VALUE$人口"
  mod_job_beta_servitor_network_artisan_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_artisan_drone_add£每$VALUE$ £pop£"
  
@@ -1353,7 +1353,7 @@
  job_beta_servitor_network_diplomacy_drone_plural:0 "Servitor Diplo-Drones"
  job_beta_servitor_network_diplomacy_drone_desc:1 "The study of organic mannerisms and media results in their increased ability to trust this network."
  job_beta_servitor_network_diplomacy_drone_effect_desc:0 "£job_beta_servitor_network_diplomacy_drone£转换£food£ & £consumer_goods£ into £mod_country_organic_trust_cap_add£ §YOrganic Trust Cap§!"
- mod_job_beta_servitor_network_diplomacy_drone_add:0 "$job_beta_servitor_network_diplomacy_drone$工作"
+ mod_job_beta_servitor_network_diplomacy_drone_add:0 "$job_beta_servitor_network_diplomacy_drone$岗位"
  mod_job_beta_servitor_network_diplomacy_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_diplomacy_drone$每$VALUE$人口"
  mod_job_beta_servitor_network_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_diplomacy_drone_add£每$VALUE$ £pop£"
  
@@ -1361,7 +1361,7 @@
  job_beta_servitor_network_admin_drone_plural:0 "Servitor Admin-Drones"
  job_beta_servitor_network_admin_drone_desc:1 "Processors who ensure that no organic will ever be outside of our safe reach."
  job_beta_servitor_network_admin_drone_effect_desc:0 "£job_beta_servitor_network_admin_drone£转换£energy£ & £unity£ into £mod_country_admin_cap_add£"
- mod_job_beta_servitor_network_admin_drone_add:0 "$job_beta_servitor_network_admin_drone$工作"
+ mod_job_beta_servitor_network_admin_drone_add:0 "$job_beta_servitor_network_admin_drone$岗位"
  mod_job_beta_servitor_network_admin_drone_per_pop:0 "§G+1§! $job_beta_servitor_network_admin_drone$每$VALUE$人口"
  mod_job_beta_servitor_network_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_servitor_network_admin_drone_add£每$VALUE$ £pop£"
  
@@ -1371,7 +1371,7 @@
  job_beta_network_agri_drone_plural:0 "Agri-Drones"
  job_beta_network_agri_drone_desc:1 "Even inorganic networks have some use for organic materials."
  job_beta_network_agri_drone_effect_desc:0 "£job_agri_drone£生产£food£"
- mod_job_beta_network_agri_drone_add:0 "$job_beta_network_agri_drone$工作"
+ mod_job_beta_network_agri_drone_add:0 "$job_beta_network_agri_drone$岗位"
  mod_job_beta_network_agri_drone_per_pop:0 "§G+1§! $job_beta_network_agri_drone$每$VALUE$人口"
  mod_job_beta_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1379,7 +1379,7 @@
  job_beta_network_replicator_drone_plural:0 "Replicators"
  job_beta_network_replicator_drone_desc:1 "A machine that builds a machines that builds another machine that builds another other machine that builds..."
  job_beta_network_replicator_drone_effect_desc:1 "£job_beta_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
- mod_job_beta_network_replicator_drone_add:0 "$job_beta_network_replicator_drone$工作"
+ mod_job_beta_network_replicator_drone_add:0 "$job_beta_network_replicator_drone$岗位"
  mod_job_beta_network_replicator_drone_per_pop:0 "§G+1§! $job_beta_network_replicator_drone$每$VALUE$人口"
  mod_job_beta_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_beta_network_replicator_drone_add£每$VALUE$ £pop£"
   
@@ -1389,7 +1389,7 @@
  job_ceta_network_technician_drone_plural:0 "技术单元"
  job_ceta_network_technician_drone_desc:1 "负责管理和监督发电厂运行的机械师、操作员和技术人员。"
  job_ceta_network_technician_drone_effect_desc:0 "£job_ceta_network_technician_drone£ $job_ceta_network_technician_drone_plural$生产£energy£"
- mod_job_ceta_network_technician_drone_add:0 "$job_ceta_network_technician_drone$工作"
+ mod_job_ceta_network_technician_drone_add:0 "$job_ceta_network_technician_drone$岗位"
  mod_job_ceta_network_technician_drone_per_pop:0 "§G+1§! $job_ceta_network_technician_drone$每$VALUE$人口"
  mod_job_ceta_network_technician_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_technician_drone_add£每$VALUE$ £pop£"
  
@@ -1397,7 +1397,7 @@
  job_ceta_network_technician_terraforming_drone_plural:0 "地貌改造单元"
  job_ceta_network_technician_terraforming_drone_desc:1 "负责管理和监督地貌改造的机械师、操作员和技术人员。"
  job_ceta_network_technician_terraforming_drone_effect_desc:0 "£job_ceta_network_technician_terraforming_drone£ $job_ceta_network_technician_terraforming_drone_plural$转换£minerals£ & £energy£增加§Y$地貌改造速度§!"
- mod_job_ceta_network_technician_terraforming_drone_add:0 "$job_ceta_network_technician_terraforming_drone$工作"
+ mod_job_ceta_network_technician_terraforming_drone_add:0 "$job_ceta_network_technician_terraforming_drone$岗位"
  mod_job_ceta_network_technician_terraforming_drone_per_pop:0 "§G+1§! $job_ceta_network_technician_terraforming_drone$每$VALUE$人口"
  mod_job_ceta_network_technician_terraforming_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_technician_terraforming_drone_add£每$VALUE$ £pop£"
  
@@ -1405,7 +1405,7 @@
  job_ceta_network_technician_megastructure_drone_plural:0 "巨型建筑单元"
  job_ceta_network_technician_megastructure_drone_desc:1 "机械师、操作员和技术人员，他们管理和监督巨型建筑的运行。"
  job_ceta_network_technician_megastructure_drone_effect_desc:0 "£job_ceta_network_technician_megastructure_drone£ $job_ceta_network_technician_megastructure_drone_plural$转换£minerals£ & £energy£增加§Y巨型建筑建造速度§!"
- mod_job_ceta_network_technician_megastructure_drone_add:0 "$job_ceta_network_technician_megastructure_drone$工作"
+ mod_job_ceta_network_technician_megastructure_drone_add:0 "$job_ceta_network_technician_megastructure_drone$岗位"
  mod_job_ceta_network_technician_megastructure_drone_per_pop:0 "§G+1§! $job_ceta_network_technician_megastructure_drone$每$VALUE$人口"
  mod_job_ceta_network_technician_megastructure_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_technician_megastructure_drone_add£每$VALUE$ £pop£"
     
@@ -1415,7 +1415,7 @@
  job_ceta_network_mining_drone_plural:0 "采矿单元"
  job_ceta_network_mining_drone_desc:1 "这些单元装备有现代化的动力钻机和先进的机械设备，可以提取和制备工业、军事和消费者使用的宝贵矿物。"
  job_ceta_network_mining_drone_effect_desc:0 "£job_ceta_network_mining_drone£ $job_ceta_network_mining_drone_plural$生产£minerals£"
- mod_job_ceta_network_mining_drone_add:0 "$job_ceta_network_mining_drone$工作"
+ mod_job_ceta_network_mining_drone_add:0 "$job_ceta_network_mining_drone$岗位"
  mod_job_ceta_network_mining_drone_per_pop:0 "§G+1§! $job_ceta_network_mining_drone$每$VALUE$人口"
  mod_job_ceta_network_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_mining_drone_add£每$VALUE$ £pop£"
  
@@ -1423,7 +1423,7 @@
  job_ceta_network_mining_alloy_drone_plural:0 "Fabricator Drones"
  job_ceta_network_mining_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Fabricators."
  job_ceta_network_mining_alloy_drone_effect_desc:0 "£job_ceta_network_mining_alloy_drone£ $job_ceta_network_mining_alloy_drone_plural$转换£minerals£ into £alloys£ §Y$alloys$§!"
- mod_job_ceta_network_mining_alloy_drone_add:0 "$job_ceta_network_mining_alloy_drone$工作"
+ mod_job_ceta_network_mining_alloy_drone_add:0 "$job_ceta_network_mining_alloy_drone$岗位"
  mod_job_ceta_network_mining_alloy_drone_per_pop:0 "§G+1§! $job_ceta_network_mining_alloy_drone$每$VALUE$人口"
  mod_job_ceta_network_mining_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_mining_alloy_drone_add£每$VALUE$ £pop£"
  
@@ -1431,7 +1431,7 @@
  job_ceta_network_mining_sr_drone_plural:0 "Networked SR-Drones"
  job_ceta_network_mining_sr_drone_desc:1 "Rather than maintain systems of mote traps, crystal mines and exotic gas refineries, SR-Drones directly manipulate minerals at monolithic facilities designed to生产all three."
  job_ceta_network_mining_sr_drone_effect_desc:0 "£job_ceta_network_mining_sr_drone£转换£minerals£ into £volatile_motes£ £exotic_gases£ £rare_crystals£"
- mod_job_ceta_network_mining_sr_drone_add:0 "$job_ceta_network_mining_sr_drone$工作"
+ mod_job_ceta_network_mining_sr_drone_add:0 "$job_ceta_network_mining_sr_drone$岗位"
  mod_job_ceta_network_mining_sr_drone_per_pop:0 "§G+1§! $job_ceta_network_mining_sr_drone$每$VALUE$人口"
  mod_job_ceta_network_mining_sr_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_mining_sr_drone_add£每$VALUE$ £pop£"
  
@@ -1441,7 +1441,7 @@
  job_ceta_network_science_calculator_drone_plural:0 "Networked Calculators"
  job_ceta_network_science_calculator_drone_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Calculators lead the technological development of the Machine Intelligence."
  job_ceta_network_science_calculator_drone_effect_desc:1 "£job_ceta_network_science_calculator_drone£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_ceta_network_science_calculator_drone_add:0 "$job_ceta_network_science_calculator_drone$工作"
+ mod_job_ceta_network_science_calculator_drone_add:0 "$job_ceta_network_science_calculator_drone$岗位"
  mod_job_ceta_network_science_calculator_drone_per_pop:0 "§G+1§! $job_ceta_network_science_calculator_drone$每$VALUE$人口"
  mod_job_ceta_network_science_calculator_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_science_calculator_drone_add£每$VALUE$ £pop£"
  
@@ -1449,7 +1449,7 @@
  job_ceta_network_science_lvl_drone_plural:0 "Networked Level Cap Drones"
  job_ceta_network_science_lvl_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra data storage allowing them to reach levels they would normally be unable to."
  job_ceta_network_science_lvl_drone_effect_desc:1 "£job_ceta_network_science_lvl_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Level Cap§!"
- mod_job_ceta_network_science_lvl_drone_add:0 "$job_ceta_network_science_lvl_drone$工作"
+ mod_job_ceta_network_science_lvl_drone_add:0 "$job_ceta_network_science_lvl_drone$岗位"
  mod_job_ceta_network_science_lvl_drone_per_pop:0 "§G+1§! $job_ceta_network_science_lvl_drone$每$VALUE$人口"
  mod_job_ceta_network_science_lvl_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_science_lvl_drone_add£每$VALUE$ £pop£"
  
@@ -1457,7 +1457,7 @@
  job_ceta_network_science_exp_drone_plural:0 "Networked Affinity Drones"
  job_ceta_network_science_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power allowing them to reach levels faster."
  job_ceta_network_science_exp_drone_effect_desc:1 "£job_ceta_network_science_exp_drone£转换£energy£ £minerals£ & £unity£ into §YIncreased Leader Experiance Gain§!"
- mod_job_ceta_network_science_exp_drone_add:0 "$job_ceta_network_science_exp_drone$工作"
+ mod_job_ceta_network_science_exp_drone_add:0 "$job_ceta_network_science_exp_drone$岗位"
  mod_job_ceta_network_science_exp_drone_per_pop:0 "§G+1§! $job_ceta_network_science_exp_drone$每$VALUE$人口"
  mod_job_ceta_network_science_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_science_exp_drone_add£每$VALUE$ £pop£"
  
@@ -1467,7 +1467,7 @@
  job_ceta_network_military_naval_drone_plural:0 "Networked Naval Drones"
  job_ceta_network_military_naval_drone_desc:1 "Processors who specialize in the increased of naval capacity."
  job_ceta_network_military_naval_drone_effect_desc:0 "£job_ceta_network_military_naval_drone£ increase £mod_country_naval_cap_add£ §Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!"
- mod_job_ceta_network_military_naval_drone_add:0 "$job_ceta_network_military_naval_drone$工作"
+ mod_job_ceta_network_military_naval_drone_add:0 "$job_ceta_network_military_naval_drone$岗位"
  mod_job_ceta_network_military_naval_drone_per_pop:0 "§G+1§! $job_ceta_network_military_naval_drone$每$VALUE$人口"
  mod_job_ceta_network_military_naval_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_warrior_drone_add£每$VALUE$ £pop£"
  
@@ -1475,7 +1475,7 @@
  job_ceta_network_military_fortification_drone_plural:0 "Networked Fortification Drones"
  job_ceta_network_military_fortification_drone_desc:1 "Deviancy and function corruption that threatens the stability of the collective must be remedied."
  job_ceta_network_military_fortification_drone_effect_desc:0 "£job_ceta_network_military_fortification_drone£ decrease £crime£ and spawn £defense_army£ §YDefense Armies§!"
- mod_job_ceta_network_military_fortification_drone_add:0 "$job_ceta_network_military_fortification_drone$工作"
+ mod_job_ceta_network_military_fortification_drone_add:0 "$job_ceta_network_military_fortification_drone$岗位"
  mod_job_ceta_network_military_fortification_drone_per_pop:0 "§G+1§! $job_ceta_network_military_fortification_drone$每$VALUE$人口"
  mod_job_ceta_network_military_fortification_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_military_fortification_drone_add£每$VALUE$ £pop£"
  
@@ -1483,7 +1483,7 @@
  job_ceta_network_military_storage_drone_plural:0 "Networked Storage Drones"
  job_ceta_network_military_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
  job_ceta_network_military_storage_drone_effect_desc:0 "£job_ceta_network_military_storage_drone£ increase §YResource Storage§!"
- mod_job_ceta_network_military_storage_drone_add:0 "$job_ceta_network_military_storage_drone$工作"
+ mod_job_ceta_network_military_storage_drone_add:0 "$job_ceta_network_military_storage_drone$岗位"
  mod_job_ceta_network_military_storage_drone_per_pop:0 "§G+1§! $job_ceta_network_military_storage_drone$每$VALUE$人口"
  mod_job_ceta_network_military_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_military_storage_drone_add£每$VALUE$ £pop£"
  
@@ -1493,7 +1493,7 @@
  job_ceta_network_unity_drone_plural:0 "Networked Coordinator Drones"
  job_ceta_network_unity_drone_desc:1 "Signals to and from the Core must be amplified, boosted, and cleaned of static and data corruption."
  job_ceta_network_unity_drone_effect_desc:0 "£job_ceta_network_unity_drone£生产£unity£"
- mod_job_ceta_network_unity_drone_add:0 "$job_ceta_network_unity_drone$工作"
+ mod_job_ceta_network_unity_drone_add:0 "$job_ceta_network_unity_drone$岗位"
  mod_job_ceta_network_unity_drone_per_pop:0 "§G+1§! $job_ceta_network_unity_drone$每$VALUE$人口"
  mod_job_ceta_network_unity_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_unity_drone_add£每$VALUE$ £pop£"
  
@@ -1501,7 +1501,7 @@
  job_ceta_network_unity_diplomacy_drone_plural:0 "Networked Diplo-Drones"
  job_ceta_network_unity_diplomacy_drone_desc:1 "Close examination and study of organic media and mannerisms will allow the network to gain more trust with them."
  job_ceta_network_unity_diplomacy_drone_effect_desc:0 "£job_ceta_network_unity_diplomacy_drone£ use £unity£ to increase £mod_country_organic_trust_cap_add£ §YOrganic Trust§!"
- mod_job_ceta_network_unity_diplomacy_drone_add:0 "$job_ceta_network_unity_diplomacy_drone$工作"
+ mod_job_ceta_network_unity_diplomacy_drone_add:0 "$job_ceta_network_unity_diplomacy_drone$岗位"
  mod_job_ceta_network_unity_diplomacy_drone_per_pop:0 "§G+1§! $job_ceta_network_unity_diplomacy_drone$每$VALUE$人口"
  mod_job_ceta_network_unity_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_unity_diplomacy_drone_add£每$VALUE$ £pop£"
  
@@ -1509,7 +1509,7 @@
  job_ceta_network_unity_admin_drone_plural:0 "Networked Admin-Drones"
  job_ceta_network_unity_admin_drone_desc:1 "Processors who ensure that the network will be able to maintain proper coheasion across larger distances."
  job_ceta_network_unity_admin_drone_effect_desc:0 "£job_ceta_network_unity_admin_drone£ use £unity£ to increase £mod_country_admin_cap_add£ §Y$mod_country_admin_cap_add$§!"
- mod_job_ceta_network_unity_admin_drone_add:0 "$job_ceta_network_unity_admin_drone$工作"
+ mod_job_ceta_network_unity_admin_drone_add:0 "$job_ceta_network_unity_admin_drone$岗位"
  mod_job_ceta_network_unity_admin_drone_per_pop:0 "§G+1§! $job_ceta_network_unity_admin_drone$每$VALUE$人口"
  mod_job_ceta_network_unity_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_unity_admin_drone_add£每$VALUE$ £pop£"
  
@@ -1519,7 +1519,7 @@
  job_ceta_assimilator_network_bot_calculator_plural:0 "Asssimilator Calculators"
  job_ceta_assimilator_network_bot_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilator Calculators co-lead the technological development of the Machine Intelligence."
  job_ceta_assimilator_network_bot_calculator_effect_desc:1 "£job_ceta_assimilator_network_bot_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_ceta_assimilator_network_bot_calculator_add:0 "$job_ceta_assimilator_network_bot_calculator$工作"
+ mod_job_ceta_assimilator_network_bot_calculator_add:0 "$job_ceta_assimilator_network_bot_calculator$岗位"
  mod_job_ceta_assimilator_network_bot_calculator_per_pop:0 "§G+1§! $job_ceta_assimilator_network_bot_calculator$每$VALUE$人口"
  mod_job_ceta_assimilator_network_bot_calculator_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_bot_calculator_add£每$VALUE$ £pop£"
  
@@ -1527,7 +1527,7 @@
  job_ceta_assimilator_network_bio_calculator_plural:0 "Assimilated Calculators"
  job_ceta_assimilator_network_bio_calculator_desc:1 "Endlessly processing equations, probabilities, and testing new functions, Assimilated Calculators co-lead the technological development of the Machine Intelligence."
  job_ceta_assimilator_network_bio_calculator_effect_desc:1 "£job_ceta_assimilator_network_bio_calculator£转换£minerals£ into £physics£ £society£ £engineering£"
- mod_job_ceta_assimilator_network_bio_calculator_add:0 "$job_ceta_assimilator_network_bio_calculator$工作"
+ mod_job_ceta_assimilator_network_bio_calculator_add:0 "$job_ceta_assimilator_network_bio_calculator$岗位"
  mod_job_ceta_assimilator_network_bio_calculator_per_pop:0 "§G+1§! $job_ceta_assimilator_network_bio_calculator$每$VALUE$人口"
  mod_job_ceta_assimilator_network_bio_calculator_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_bio_calculator_add£每$VALUE$ £pop£"
  
@@ -1535,7 +1535,7 @@
  job_ceta_assimilator_network_agri_drone_plural:0 "Assimilator Agri-Drones"
  job_ceta_assimilator_network_agri_drone_desc:1 "Assimilated organics require organic substances to maintain their body until it expires. These robotic drones ensure the proper creation of such organic substances."
  job_ceta_assimilator_network_agri_drone_effect_desc:0 "£job_ceta_assimilator_network_agri_drone£生产£food£"
- mod_job_ceta_assimilator_network_agri_drone_add:0 "$job_ceta_assimilator_network_agri_drone$工作"
+ mod_job_ceta_assimilator_network_agri_drone_add:0 "$job_ceta_assimilator_network_agri_drone$岗位"
  mod_job_ceta_assimilator_network_agri_drone_per_pop:0 "§G+1§! $job_ceta_assimilator_network_agri_drone$每$VALUE$人口"
  mod_job_ceta_assimilator_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1543,7 +1543,7 @@
  job_ceta_assimilator_network_energy_drone_plural:0 "Assimilated 技术单元"
  job_ceta_assimilator_network_energy_drone_desc:1 "The machine network requires large amounts of energy to maintain proper functionality. These assimilated organics see to the energy generation facilities for their robotic counterparts."
  job_ceta_assimilator_network_energy_drone_effect_desc:0 "£job_ceta_assimilator_network_energy_drone£生产£energy£"
- mod_job_ceta_assimilator_network_energy_drone_add:0 "$job_ceta_assimilator_network_energy_drone$工作"
+ mod_job_ceta_assimilator_network_energy_drone_add:0 "$job_ceta_assimilator_network_energy_drone$岗位"
  mod_job_ceta_assimilator_network_energy_drone_per_pop:0 "§G+1§! $job_ceta_assimilator_network_energy_drone$每$VALUE$人口"
  mod_job_ceta_assimilator_network_energy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_energy_drone_add£每$VALUE$ £pop£"
  
@@ -1551,7 +1551,7 @@
  job_ceta_assimilator_network_lvl_exp_drone_plural:0 "Assimilator Leader Sub-Units"
  job_ceta_assimilator_network_lvl_exp_drone_desc:1 "Sub-Units that are connected to Leaders giving them extra processing power and data storage allowing them to reach levels they would normally be unable to as well as reach them faster."
  job_ceta_assimilator_network_lvl_exp_drone_effect_desc:0 "£job_ceta_assimilator_network_lvl_exp_drone£ use £energy£ & £unity£ to increase §YLeader Experiance Gain & Level Cap§!"
- mod_job_ceta_assimilator_network_lvl_exp_drone_add:0 "$job_ceta_assimilator_network_lvl_exp_drone$工作"
+ mod_job_ceta_assimilator_network_lvl_exp_drone_add:0 "$job_ceta_assimilator_network_lvl_exp_drone$岗位"
  mod_job_ceta_assimilator_network_lvl_exp_drone_per_pop:0 "§G+1§! $job_ceta_assimilator_network_lvl_exp_drone$每$VALUE$人口"
  mod_job_ceta_assimilator_network_lvl_exp_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_assimilator_network_lvl_exp_drone_add£每$VALUE$ £pop£"
  
@@ -1561,7 +1561,7 @@
  job_ceta_exterminator_network_drone_plural:0 "Exterminator Drones"
  job_ceta_exterminator_network_drone_desc:1 "Multi-purpose drones that deal with system wide deviancy, planetary fortification and increasing naval capacity."
  job_ceta_exterminator_network_drone_effect_desc:0 "£job_ceta_exterminator_network_drone£ decrease £crime£ spawn £defense_army£ and increase £mod_country_naval_cap_add£"
- mod_job_ceta_exterminator_network_drone_add:0 "$job_ceta_exterminator_network_drone$工作"
+ mod_job_ceta_exterminator_network_drone_add:0 "$job_ceta_exterminator_network_drone$岗位"
  mod_job_ceta_exterminator_network_drone_per_pop:0 "§G+1§! $job_ceta_exterminator_network_drone$每$VALUE$人口"
  mod_job_ceta_exterminator_network_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_drone_add£每$VALUE$ £pop£"
   
@@ -1569,7 +1569,7 @@
  job_ceta_exterminator_network_storage_drone_plural:0 "Exterminator Storage Drones"
  job_ceta_exterminator_network_storage_drone_desc:1 "Storage experts who specialize in the creation and logistics of resource storage."
  job_ceta_exterminator_network_storage_drone_effect_desc:0 "£job_ceta_exterminator_network_storage_drone£ increase £mod_country_resource_max_add£ §YResource Storage§!"
- mod_job_ceta_exterminator_network_storage_drone_add:0 "$job_ceta_exterminator_network_storage_drone$工作"
+ mod_job_ceta_exterminator_network_storage_drone_add:0 "$job_ceta_exterminator_network_storage_drone$岗位"
  mod_job_ceta_exterminator_network_storage_drone_per_pop:0 "§G+1§! $job_ceta_exterminator_network_storage_drone$每$VALUE$人口"
  mod_job_ceta_exterminator_network_storage_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_storage_drone_add£每$VALUE$ £pop£"
  
@@ -1577,7 +1577,7 @@
  job_ceta_exterminator_network_replicator_drone_plural:0 "Exterminator Replicators"
  job_ceta_exterminator_network_replicator_drone_desc:1 "A machine that builds two machines that builds four machines that builds eight machines that builds..."
  job_ceta_exterminator_network_replicator_drone_effect_desc:1 "£job_ceta_exterminator_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
- mod_job_ceta_exterminator_network_replicator_drone_add:0 "$job_ceta_exterminator_network_replicator_drone$工作"
+ mod_job_ceta_exterminator_network_replicator_drone_add:0 "$job_ceta_exterminator_network_replicator_drone$岗位"
  mod_job_ceta_exterminator_network_replicator_drone_per_pop:0 "§G+1§! $job_ceta_exterminator_network_replicator_drone$每$VALUE$人口"
  mod_job_ceta_exterminator_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_exterminator_network_replicator_drone_add£每$VALUE$ £pop£"
  
@@ -1587,7 +1587,7 @@
  job_ceta_servitor_network_agri_drone_plural:0 "Servitor Agri-Drones"
  job_ceta_servitor_network_agri_drone_desc:1 "Organics require a consistent source of food."
  job_ceta_servitor_network_agri_drone_effect_desc:0 "£job_ceta_servitor_network_agri_drone£生产£food£"
- mod_job_ceta_servitor_network_agri_drone_add:0 "$job_ceta_servitor_network_agri_drone$工作"
+ mod_job_ceta_servitor_network_agri_drone_add:0 "$job_ceta_servitor_network_agri_drone$岗位"
  mod_job_ceta_servitor_network_agri_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_agri_drone$每$VALUE$人口"
  mod_job_ceta_servitor_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1595,7 +1595,7 @@
  job_ceta_servitor_network_artisan_drone_plural:0 "Servitor Artisan Drones"
  job_ceta_servitor_network_artisan_drone_desc:1 "Organics require a consistent flow of goods."
  job_ceta_servitor_network_artisan_drone_effect_desc:0 "£job_ceta_servitor_network_artisan_drone£转换£minerals£ into £consumer_goods£"
- mod_job_ceta_servitor_network_artisan_drone_add:0 "$job_ceta_servitor_network_artisan_drone$工作"
+ mod_job_ceta_servitor_network_artisan_drone_add:0 "$job_ceta_servitor_network_artisan_drone$岗位"
  mod_job_ceta_servitor_network_artisan_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_artisan_drone$每$VALUE$人口"
  mod_job_ceta_servitor_network_artisan_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_artisan_drone_add£每$VALUE$ £pop£"
  
@@ -1603,7 +1603,7 @@
  job_ceta_servitor_network_diplomacy_drone_plural:0 "Servitor Diplo-Drones"
  job_ceta_servitor_network_diplomacy_drone_desc:1 "The study of organic mannerisms and media results in their increased ability to trust this network."
  job_ceta_servitor_network_diplomacy_drone_effect_desc:0 "£job_ceta_servitor_network_diplomacy_drone£转换£food£ & £consumer_goods£ into £mod_country_organic_trust_cap_add£ §YOrganic Trust Cap§!"
- mod_job_ceta_servitor_network_diplomacy_drone_add:0 "$job_ceta_servitor_network_diplomacy_drone$工作"
+ mod_job_ceta_servitor_network_diplomacy_drone_add:0 "$job_ceta_servitor_network_diplomacy_drone$岗位"
  mod_job_ceta_servitor_network_diplomacy_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_diplomacy_drone$每$VALUE$人口"
  mod_job_ceta_servitor_network_diplomacy_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_diplomacy_drone_add£每$VALUE$ £pop£"
  
@@ -1611,7 +1611,7 @@
  job_ceta_servitor_network_admin_drone_plural:0 "Servitor Admin-Drones"
  job_ceta_servitor_network_admin_drone_desc:1 "Processors who ensure that no organic will ever be outside of our safe reach."
  job_ceta_servitor_network_admin_drone_effect_desc:0 "£job_ceta_servitor_network_admin_drone£转换£energy£ & £unity£ into £mod_country_admin_cap_add£"
- mod_job_ceta_servitor_network_admin_drone_add:0 "$job_ceta_servitor_network_admin_drone$工作"
+ mod_job_ceta_servitor_network_admin_drone_add:0 "$job_ceta_servitor_network_admin_drone$岗位"
  mod_job_ceta_servitor_network_admin_drone_per_pop:0 "§G+1§! $job_ceta_servitor_network_admin_drone$每$VALUE$人口"
  mod_job_ceta_servitor_network_admin_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_servitor_network_admin_drone_add£每$VALUE$ £pop£"
  
@@ -1621,7 +1621,7 @@
  job_ceta_network_agri_drone_plural:0 "Agri-Drones"
  job_ceta_network_agri_drone_desc:1 "Even inorganic networks have some use for organic materials."
  job_ceta_network_agri_drone_effect_desc:0 "£job_agri_drone£生产£food£"
- mod_job_ceta_network_agri_drone_add:0 "$job_ceta_network_agri_drone$工作"
+ mod_job_ceta_network_agri_drone_add:0 "$job_ceta_network_agri_drone$岗位"
  mod_job_ceta_network_agri_drone_per_pop:0 "§G+1§! $job_ceta_network_agri_drone$每$VALUE$人口"
  mod_job_ceta_network_agri_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_agri_drone_add£每$VALUE$ £pop£"
  
@@ -1629,7 +1629,7 @@
  job_ceta_network_replicator_drone_plural:0 "Replicators"
  job_ceta_network_replicator_drone_desc:1 "A machine that builds a machines that builds another machine that builds another other machine that builds..."
  job_ceta_network_replicator_drone_effect_desc:1 "£job_ceta_network_replicator_drone£转换£minerals£ into £pop£ & £mod_planet_amenities_no_happiness_add£"
- mod_job_ceta_network_replicator_drone_add:0 "$job_ceta_network_replicator_drone$工作"
+ mod_job_ceta_network_replicator_drone_add:0 "$job_ceta_network_replicator_drone$岗位"
  mod_job_ceta_network_replicator_drone_per_pop:0 "§G+1§! $job_ceta_network_replicator_drone$每$VALUE$人口"
  mod_job_ceta_network_replicator_drone_per_pop_short:0 "\n§G+1§! £mod_job_ceta_network_replicator_drone_add£每$VALUE$ £pop£"
  
@@ -1639,7 +1639,7 @@
  job_alpha_network_maintenance_drone_plural:0 "Maintenance Drones"
  job_alpha_network_maintenance_drone_desc:1 "The machinery and structures that serve the needs of the Machine Intelligence must be constantly maintained. As must other drones."
  job_alpha_network_maintenance_drone_effect_desc:0 "£job_alpha_network_maintenance_drone£ $job_alpha_network_maintenance_drone_plural$ increase £mod_planet_amenities_no_happiness_add£ §Y$PLANET_AMENITIES_TITLE$§!"
- mod_job_alpha_network_maintenance_drone_add:0 "$job_alpha_network_maintenance_drone$工作"
+ mod_job_alpha_network_maintenance_drone_add:0 "$job_alpha_network_maintenance_drone$岗位"
  mod_job_alpha_network_maintenance_drone_per_pop:0 "§G+1§! $job_alpha_network_maintenance_drone$每$VALUE$人口"
  mod_job_alpha_network_maintenance_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_maintenance_drone_add£每$VALUE$ £pop£"
     
@@ -1647,7 +1647,7 @@
  job_alpha_network_alloy_drone_plural:0 "Foundry Drones"
  job_alpha_network_alloy_drone_desc:1 "Valuable minerals are processed into durable alloys for naval development and advanced construction by highly-specialized Foundry Drones."
  job_alpha_network_alloy_drone_effect_desc:0 "£job_alpha_network_alloy_drone£ $job_alpha_network_alloy_drone_plural$转换£minerals£ §Y$minerals$§! into £alloys£ §Y$alloys$§!"
- mod_job_alpha_network_alloy_drone_add:0 "$job_alpha_network_alloy_drone$工作"
+ mod_job_alpha_network_alloy_drone_add:0 "$job_alpha_network_alloy_drone$岗位"
  mod_job_alpha_network_alloy_drone_per_pop:0 "§G+1§! $job_alpha_network_alloy_drone$每$VALUE$人口"
  mod_job_alpha_network_alloy_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_alloy_drone_add£每$VALUE$ £pop£" 
  
@@ -1655,7 +1655,7 @@
  job_alpha_network_crystal_mining_drone_plural:0 "Crystal 采矿单元"
  job_alpha_network_crystal_mining_drone_desc:1 "Miners specialized in carefully extracting and refining rare crystals from geological formations."
  job_alpha_network_crystal_mining_drone_effect_desc:0 "£job_alpha_network_crystal_mining_drone£ $job_alpha_network_crystal_mining_drone_plural$生产£rare_crystals£ §Y$rare_crystals$§!"
- mod_job_alpha_network_crystal_mining_drone_add:0 "$job_alpha_network_crystal_mining_drone$工作"
+ mod_job_alpha_network_crystal_mining_drone_add:0 "$job_alpha_network_crystal_mining_drone$岗位"
  mod_job_alpha_network_crystal_mining_drone_per_pop:0 "§G+1§! $job_alpha_network_crystal_mining_drone$每$VALUE$人口"
  mod_job_alpha_network_crystal_mining_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_crystal_mining_drone_add£每$VALUE$ £pop£"
  
@@ -1663,7 +1663,7 @@
  job_alpha_network_mote_harvesting_drone_plural:0 "Mote Harvesting Drones"
  job_alpha_network_mote_harvesting_drone_desc:1 "Due to the inherently volatile nature of preternatural motes, the drones who specialize in trapping and harvesting them have a high turnover rate."
  job_alpha_network_mote_harvesting_drone_effect_desc:1 "£job_alpha_network_mote_harvesting_drone£ $job_alpha_network_mote_harvesting_drone_plural$生产£volatile_motes£ §Y$volatile_motes$§!"
- mod_job_alpha_network_mote_harvesting_drone_add:0 "$job_alpha_network_mote_harvesting_drone$工作"
+ mod_job_alpha_network_mote_harvesting_drone_add:0 "$job_alpha_network_mote_harvesting_drone$岗位"
  mod_job_alpha_network_mote_harvesting_drone_per_pop:0 "§G+1§! $job_alpha_network_mote_harvesting_drone$每$VALUE$人口"
  mod_job_alpha_network_mote_harvesting_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_mote_harvesting_drone_add£每$VALUE$ £pop£"
  
@@ -1671,7 +1671,7 @@
  job_alpha_network_gas_extraction_drone_plural:0 "Gas Extraction Drones"
  job_alpha_network_gas_extraction_drone_desc:1 "These specialized drones employ advanced hydraulic fracking methods to free rare, exotic gases from promising rockbeds."
  job_alpha_network_gas_extraction_drone_effect_desc:0 "£job_alpha_network_gas_extraction_drone£ $job_alpha_network_gas_extraction_drone_plural$生产£exotic_gases£ §Y$exotic_gases$§!"
- mod_job_alpha_network_gas_extraction_drone_add:0 "$job_alpha_network_gas_extraction_drone$工作"
+ mod_job_alpha_network_gas_extraction_drone_add:0 "$job_alpha_network_gas_extraction_drone$岗位"
  mod_job_alpha_network_gas_extraction_drone_per_pop:0 "§G+1§! $job_alpha_network_gas_extraction_drone$每$VALUE$人口"
  mod_job_alpha_network_gas_extraction_drone_per_pop_short:0 "\n§G+1§! £mod_job_alpha_network_gas_extraction_drone_add£每$VALUE$ £pop£"
  

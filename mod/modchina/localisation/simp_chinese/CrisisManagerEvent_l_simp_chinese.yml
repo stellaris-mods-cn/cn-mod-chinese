@@ -21,8 +21,6 @@
  #	    utopia.3320.name, utopia.3320.desc.a, utopia.3320.desc.b, utopia.3320.opt.a
  #	
 
- NAME_Absorbed_XXX:0 "吸收[Root.GetSpeciesNamePlural]"
-  
  CrisisManagerControl.4101.name:0 "强制契约"		## memo: utopia.3310.name = Covenant Formed
  CrisisManagerControl.4101.desc.y:0 "发生了什么事情!? 一股无法抵抗的力量强制我们与§R终末之轮回§!签订了契约. 当我们签订契约时，只听到一句话: §R''[CmtGlobalVar.GetValue.CmtVarTermForcedEoc] 年''§!. 接下来就是一片寂静，只留下我们面对今后可能发生的恐怖后果.."
  CrisisManagerControl.4101.desc.d:0 "发生了什么事情!? 一股无法抵抗的力量强制我们与§R终末之轮回§!签订了契约. 当我们签订契约时，只听到一句话:  §R''[CmtGlobalVar.GetValue.CmtVarTermForcedEoc] 天''§!.接下来就是一片寂静，只留下我们面对今后可能发生的恐怖后果.."
@@ -232,9 +230,8 @@
  CmtModifierDessanuGift_13:1 "$dessanu_gift$"
  CmtModifierDessanuGift_14:1 "$dessanu_gift$"
  
-
  ### Automatic Terraform (L-Gates)
- CmtModifierAutoTerraform:0 "分解下的纳米颗粒"
+ CmtModifierAutoTerraform:0 "分解纳米颗粒"
  CmtModifierAutoTerraform_desc:0 "这个星球上的纳米机械自然分解了,这颗行星将在几年内变得可居住"
 
  

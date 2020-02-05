@@ -1,0 +1,62 @@
+glukzoran = {
+	name = "glukzoran"
+	adjective = "PRESCRIPTED_adjective_glukzoran"
+	spawn_enabled = no
+	spawn_as_fallen = no
+	
+	ship_prefix = "PRESCRIPTED_ship_prefix_glukzoran"
+	
+	species = {
+		class = "ART"
+		portrait = "art20"
+		name = "PRESCRIPTED_species_name_glukzoran"
+		plural = "PRESCRIPTED_species_plural_glukzoran"
+		adjective = "PRESCRIPTED_species_adjective_glukzoran"
+		name_list = "CCSLAVE1"
+		trait = "trait_thrifty"
+		trait = "trait_communal"
+		trait = "trait_deviants"
+	}
+	room = "personality_democratic_crusaders_room"
+	
+	authority = "auth_democratic"
+	ethic = "ethic_fanatic_egalitarian"
+	ethic = "ethic_militarist"
+	civics = {
+		"civic_free_republic"
+		"civic_broken_shackles"
+	}
+	government = gov_military_commissariat 
+	
+	planet_name = "PRESCRIPTED_planet_name_glukzoran"
+	system_name = "PRESCRIPTED_system_name_glukzoran"
+	planet_class = "pc_alpine"
+	graphical_culture="arthropoid_01"
+	city_graphical_culture="arthropoid_01"
+	
+	empire_flag = {
+		icon= {
+			category = "slave"
+			file = "ccslave3.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "circle.dds"
+		}
+		colors={
+			"dark_green"
+			"red_orange"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler = {
+		name = "PRESCRIPTED_ruler_name_glukzoran"
+		gender = female
+		portrait = "art20"
+		texture = 2
+		hair = 0
+		clothes = 0
+	}
+}

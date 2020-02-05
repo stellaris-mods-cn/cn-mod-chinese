@@ -25,7 +25,7 @@ sm_psi_command_desc: "指挥系统灵能资产的中心。心灵感应扫描威�
 sm_psi_command_desc_modifier: "--目前没有需要--"
 
 sm_molecular_forge: "分子锻造"
-sm_molecular_forge_desc: "这是一个纳米技术的奇迹，熔炉可以派遣维修队伍，甚至在船只停靠之前就开始修理。\n"
+sm_molecular_forge_desc: "这是一个纳米技术的奇迹，熔炉可以派遣维修队伍，甚至在飞船停靠之前就开始修理。\n"
 aura_starbase_molecular_forge: "分子修复光环"
 sm_starbase_molecular_forge_desc_modifier: "--目前没有需要--"
 

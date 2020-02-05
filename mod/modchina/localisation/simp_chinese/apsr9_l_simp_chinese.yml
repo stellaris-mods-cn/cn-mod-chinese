@@ -8,9 +8,9 @@
  apsr9_planet_modifier_desc:0 "不稳定矿物在多频段电磁干扰波的作用下改变其质量，也会产生和改变重力场。很可能是由大爆炸后压缩物质的残余形成的。"
  
  apsr9_deposit:0 "$apsr9_planet_modifier$"
- apsr9_deposit_desc:0 "$apsr9_planet_modifier_desc$\n\n§M$apsr9_deposit_effect$§!" 
+ apsr9_deposit_desc:0 "$apsr9_planet_modifier_desc$\n\n§M$apsr9_deposit_effect$§!"
  apsr9_deposit_effect:0 "独特的资源可用: $apsr9_planet_modifier$"
-
+ 
  apsr9_destroyed_planet_modifier:0 "镮元素"
  apsr9_destroyed_planet_modifier_desc:0 "不稳定矿物在多频率电磁干扰波的作用下会改变其质量，并产生和改变引力场。不幸的是，在一次不成功的科学实验之后，它的部分储备连同星球一起被摧毁了。"
  
@@ -151,7 +151,7 @@
  
  apsr.9009.title:0 "白台研究设施"
  apsr.9009.desc:0 "我们成功地升级了§H[Root.GetName]§!上的§Y$apsr9101$§!! \n现在我们帝国最好的物理学家正在那里进行他们的研究。这是真正取之不尽用之不竭的知识源泉!"
- apsr.9009.ok-button:0 "Excellent"
+ apsr.9009.ok-button:0 "很好"
  
  
  
@@ -159,7 +159,7 @@
  
  apsr.9301.title:0 "镮元素级联"
  apsr.9301.desc:0 "$RULER$,在实验期间镮元素一个错误导致了级联衰变的物质。过了一会儿，反应达到了最大强度，不知怎么地转移到了星球上的所有沉积物中。\n不幸的是，这导致了殖民地和整个星球的彻底毁灭。反应后,镮元素合成,现在可以直接从外太空获取。\n然而，现在埃特纽斯失去了他的大部分财产，而他的研究成果却微乎其微……"
- apsr.9301.ok-button:1 "彻底的失败" 
+ apsr.9301.ok-button:1 "彻底的失败"
  
  
  

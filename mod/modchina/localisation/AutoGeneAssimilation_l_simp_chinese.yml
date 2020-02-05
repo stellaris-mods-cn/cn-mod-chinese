@@ -1,0 +1,83 @@
+﻿l_simp_chinese:
+ 
+ ########################################
+ ########################################
+ #####                              #####
+ #####    Auto Gene Assimilation    #####
+ #####                              #####
+ #####    localisations             #####
+ #####                              #####
+ ########################################
+ ########################################
+ 
+ 
+ 
+ ###########################
+ ###  Edicts, Modifiers  ###
+ ###########################
+ 
+ ### Policies
+ policy_AgaPolicyGeneAssimilation:0 "基因同化"
+ policy_AgaPolicyGeneAssimilation_desc:0 "人口的多样性可能有助于帝国的发展，也可能阻碍经济的优化。我们可以决定是同化亚种基因还是保护生物多样性。\n"
+ AgaPolicyGeneAssimilationForbidden:0 "未执行"
+ AgaPolicyGeneAssimilationForbidden_name:1 "$AgaPolicyGeneAssimilationForbidden$"
+ AgaPolicyGeneAssimilationForbidden_desc:0 "不因基因同化而保护生物多样性。"
+ AgaPolicyGeneAssimilationAllowed:0 "执行"
+ AgaFlagGeneAssimilationAllowed_name:1 "$AgaPolicyGeneAssimilationAllowed$"
+ AgaPolicyGeneAssimilationAllowed_desc:0 "将所有亚种同化到本种群中最后一个被修改的亚种。然而，除非本种群中的任何亚种被人工修改一次，否则人口不会被吸收。\n\n$AgaPolicyGeneAssimilationEffectDesc$"
+ AgaPolicyGeneAssimilationForced:0 "完整的执行"
+ AgaFlagGeneAssimilationForced_name:1 "$AgaPolicyGeneAssimilationForced$"
+ AgaPolicyGeneAssimilationForced_desc:0 "将所有亚种同化到本种群中最后修改的亚种。如果该物种组中没有亚种进行过人工修改，则人口将被同化为随机亚种。\n\n$AgaPolicyGeneAssimilationEffectDesc$"
+ 
+ AgaPolicyGeneAssimilationFailText:0 "\n\n£trigger_no£ §R£society_research£ $society_research$的月收入必须至少为100。§!"
+ AgaPolicyGeneAssimilationEffectDesc:0 "§H如果这个政策被接受，同化将自动开始。§! (每月最多3 £pops£ $POPS$)"
+ #AgaPolicyGeneAssimilationEffectDesc:0 "§HThe assimilation will start automatically if this policy is accepted.§! (At most 3 £pops£ $POPS$ per month)\n£society_research£ $society_research$ §Y100§! will be deducted from monthly income for assimilating each £pops£ pop. (At most £society_research£ §Y300§! per month)"
+ 
+ 
+ ### Country Modifiers
+ AgaModifierGeneAssimilated_0a:0 "基因同化已经完成"
+ AgaModifierGeneAssimilated_0b:0 "$society_research$不足导致基因同化暂停"
+ AgaModifierGeneAssimilated_1:0 "基因正在进行同化"
+ AgaModifierGeneAssimilated_2:1 "$AgaModifierGeneAssimilated_1$"
+ AgaModifierGeneAssimilated_3:1 "$AgaModifierGeneAssimilated_1$"
+ 
+ AgaModifierGeneAssimilated_0a_desc:0 "基因同化已经完成，处于暂停状态。如果应被同化的人口移民或产生，则同化将恢复。"
+ AgaModifierGeneAssimilated_0b_desc:0 "§R由于£society_research£ $society_research$不足，基因同化被暂停§!"
+ AgaModifierGeneAssimilated_x_desc:0 "亚种的基因正在被同化。"
+ AgaModifierGeneAssimilated_1_desc:0 "$AgaModifierGeneAssimilated_x_desc$\n(每月 1 £pops£ $POP$)"
+ AgaModifierGeneAssimilated_2_desc:0 "$AgaModifierGeneAssimilated_x_desc$\n(每月 2 £pops£ $POPS$)"
+ AgaModifierGeneAssimilated_3_desc:0 "$AgaModifierGeneAssimilated_x_desc$\n(每月 3 £pops£ $POPS$)"
+ 
+ mod_country_base_society_research_produces_add:0 "$mod_country_society_research_produces_mult$"
+ 
+ 
+ 
+ 
+ 
+ ################
+ ###  Legacy  ###
+ ################
+ # 
+ #
+ #AgaModifierGeneAssimilated_0a:0 "Gene Assimilation Has Finished"
+ #AgaModifierGeneAssimilated_0b:0 "Lack of Society Research for Gene Assimilation"
+ #AgaModifierGeneAssimilated_1a:0 "Gene Assimilation Ongoing"
+ #AgaModifierGeneAssimilated_2a:1 "$AgaModifierGeneAssimilated_1a$"
+ #AgaModifierGeneAssimilated_3a:1 "$AgaModifierGeneAssimilated_1a$"
+ #AgaModifierGeneAssimilated_1b:1 "$AgaModifierGeneAssimilated_1a$"
+ #AgaModifierGeneAssimilated_2b:1 "$AgaModifierGeneAssimilated_2a$"
+ #AgaModifierGeneAssimilated_3b:1 "$AgaModifierGeneAssimilated_3a$"
+ #AgaModifierGeneAssimilated_1c:1 "$AgaModifierGeneAssimilated_1a$"
+ #AgaModifierGeneAssimilated_2c:1 "$AgaModifierGeneAssimilated_2a$"
+ #AgaModifierGeneAssimilated_3c:1 "$AgaModifierGeneAssimilated_3a$"
+ #
+ #
+ #edict_AgaEdictStartGeneAssimilation:0 "Gene Assimilation"
+ #edict_AgaEdictStartGeneAssimilation_desc:0 "Assimilate all sub-species to the species last modified. £society_research£ $society_research$ will be deduct while pops are assimilated."
+ #AgaTextStartGeneAssimilationDesc:0 "Lasts until end manually\nMonthly Gene Assimilation: 3 £pops£ $POPS$\n$mod_country_society_research_produces_add$: §R-300§!"
+ #
+ #edict_AgaEdictEndGeneAssimilation:0 "End Gene Assimilation"
+ #edict_AgaEdictEndGeneAssimilation_desc:0 "End gene assimilation for all sub-species."
+ #AgaTextEndGeneAssimilationDesc:0 "The edict of ''$edict_AgaEdictStartGeneAssimilation$'' is end. It is not available again for 1 year."
+ #
+ #AgaTextAssimilationEdictTemporaryForbidden:0 "$TRIGGER_FAIL$This edict is unavailable for 1 year from it ended."

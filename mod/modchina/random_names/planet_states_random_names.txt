@@ -1,0 +1,216 @@
+# Egalitarian Planet States
+
+### Prefixes
+
+empire_name_parts_list = {
+	key = "ps_egalitarian"
+	parts = {
+		"自由" = 3
+		"自治" = 3
+		"独立" = 3
+		"独立专制" = 3
+		"地区自治" = 3
+		"人民自主" = 3
+	}
+}
+empire_name_parts_list = {
+	key = "ps_authoritarian"
+	parts = {
+		"君主制" = 3
+		"帝国" = 3
+		"王室" = 3
+		"皇家" = 3
+		"王族" = 3
+		"至高" = 3
+		"王立" = 3
+		"贵族" = 3
+	}
+}
+empire_name_parts_list = {
+	key = "ps_militarist"
+	parts = {
+		"好战的" = 3
+		"战争贩" = 3
+		"霸权" = 3
+		"凶暴" = 3
+		"凶残的" = 3
+		"军国主义" = 3
+		"征服者" = 3
+	}
+}
+empire_name_parts_list = {
+	key = "ps_pacifist"
+	parts = {
+		"和平主义" = 3
+		"和谐" = 3
+		"反暴力" = 3
+		"自然派" = 3
+		"友好" = 3
+		"内圣制" = 3
+	}
+}
+
+### Middle
+
+empire_name_parts_list = {
+	key = "planet_state"
+	parts = {
+		"邦联" = 3
+		"星国" = 3
+		"大城邦" = 3
+		"行星" = 3
+		"世界" = 3
+		"飞地" = 3
+		"政权" = 3
+		"民国" = 3
+		"社区" = 3
+		"国家世界" = 3
+		"星球联合" = 3
+	}
+}
+
+### Name Formats
+
+# Egalitarian
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_egalitarian"
+		}
+	}
+	noun = "[This.Capital.System.GetName]"
+	format = "<ps_egalitarian> <planet_state> of [This.Capital.System.GetName]"
+	# Free State of Sol
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_egalitarian"
+		}
+	}
+	noun = "[This.Capital.GetName]"
+	format = "<ps_egalitarian> <planet_state> of [This.Capital.GetName]"
+	# Free State of Earth
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_egalitarian"
+		}
+	}
+	noun = "[This.GetSpeciesName]"
+	format = "[This.GetSpeciesName] <ps_egalitarian> <planet_state>"
+	# Human Free State
+}
+
+# Authoritarian
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_authoritarian"
+		}
+	}
+	noun = "[This.Capital.System.GetName]"
+	format = "<ps_authoritarian> <planet_state> of [This.Capital.System.GetName]"
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_authoritarian"
+		}
+	}
+	noun = "[This.Capital.GetName]"
+	format = "<ps_authoritarian> <planet_state> of [This.Capital.GetName]"
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_authoritarian"
+		}
+	}
+	noun = "[This.GetSpeciesName]"
+	format = "[This.GetSpeciesName] <ps_authoritarian> <planet_state>"
+	# Human Free State
+}
+
+# Militarist
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_militarist"
+		}
+	}
+	noun = "[This.Capital.System.GetName]"
+	format = "<ps_militarist> <planet_state> of [This.Capital.System.GetName]"
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_militarist"
+		}
+	}
+	noun = "[This.Capital.GetName]"
+	format = "<ps_militarist> <planet_state> of [This.Capital.GetName]"
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_militarist"
+		}
+	}
+	noun = "[This.GetSpeciesName]"
+	format = "[This.GetSpeciesName] <ps_militarist> <planet_state>"
+}
+
+# Pacifist
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_pacifist"
+		}
+	}
+	noun = "[This.Capital.System.GetName]"
+	format = "<ps_pacifist> <planet_state> of [This.Capital.System.GetName]"
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_pacifist"
+		}
+	}
+	noun = "[This.Capital.GetName]"
+	format = "<ps_pacifist> <planet_state> of [This.Capital.GetName]"
+}
+empire_name_format = {
+	random_weight = {
+		factor = 0
+		modifier = {
+			add = 1
+			has_government = "gov_planet_state_pacifist"
+		}
+	}
+	noun = "[This.GetSpeciesName]"
+	format = "[This.GetSpeciesName] <ps_pacifist> <planet_state>"
+}

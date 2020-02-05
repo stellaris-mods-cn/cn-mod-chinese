@@ -48,10 +48,10 @@ PROTECT_AGAINST_LOCUSTS_PROJECT:0 "可怕的蝗虫"
 PROTECT_AGAINST_LOCUSTS_PROJECT_DESC:0 "找到一种方法来保护我们的世界不受贪婪的太空出生的昆虫的侵害，这些昆虫已经进入了我们的星系。"
 CRYSTAL_LIFE_PROJECT:0 "水晶生命"
 CRYSTAL_LIFE_PROJECT_DESC:0 "研究[From.GetName]上发现的不寻常晶体的潜在的类生命性质。"
-WARP_BEAST_RESEARCH_PROJECT:0 "变形兽研究"
-WARP_BEAST_RESEARCH_PROJECT_DESC:0 "研究捕获的变形兽标本，找出潜在的弱点。"
-WARP_BEAST_LASER_PROJECT:0 "变形兽武器研究"
-WARP_BEAST_LASER_PROJECT_DESC:0 "继续从镜像宇宙中寻找更好的武器来对付变形兽。"
+WARP_BEAST_RESEARCH_PROJECT:0 "曲速兽研究"
+WARP_BEAST_RESEARCH_PROJECT_DESC:0 "研究捕获的曲速兽标本，找出潜在的弱点。"
+WARP_BEAST_LASER_PROJECT:0 "曲速兽武器研究"
+WARP_BEAST_LASER_PROJECT_DESC:0 "继续从镜像宇宙中寻找更好的武器来对付曲速兽。"
 GEM_HOMEWORLD_PROJECT:0 "没落城市遗迹"
 GEM_HOMEWORLD_PROJECT_DESC:0 "调查在 [From.GetName] 曾经存在的外星智能文明遗迹"
 titanic_marine_life_study_normal:0 "$titanic_life_study_normal$"
@@ -126,11 +126,14 @@ war_goal_wg_kill_robots_desc:0 "战争的目的是把敌人从银河系的表面
 # 	Bombardment Stance
 ####################################
 
-bombardment_asteroid_strike:0 "小行星"
-bombardment_armageddon_desc:3 "$bombardment_asteroid_strike$用拖着的小行星轰击覆盖星球，其明确目标是使行星受到的破坏达到最大。\n- §Y中等§!§Y军队§!伤害\n- §R极端§!§Y星球§!伤害 \n- §R大量§!§Y人口§!伤害 \n- 轰炸没有防御的星球\n- 能把行星变成可地貌改造的荒芜星球"
-actionexp.2.desc:0 "一支属于§H[From.From.GetName]§!的舰队在进行了大规模和无情的轨道轰炸后屠杀了§H[From.GetName]§!的人口，地面上所有的人口中心都被系统地摧毁，[From.GetPlanetMoon]变成了一片无法维持生命的贫瘠荒地。"
+actionexp.2.desc:0 "一支属于§H[From.From.GetName]§!的舰队屠杀了§H[From.GetName]§!的居民!在一场大规模而无情的轨道轰炸运动之后，星球表面所有的人口中心都被系统地摧毁了，[From.GetPlanetMoon]变成了一片贫瘠的荒地，无法维持生命。"
 actionexp.3.desc:0 "我们的部队报告说，他们已经结束了对§H[From.GetName]§!的轨道轰炸。所有的人口中心都已被系统地铲除，贫瘠的[From.GetPlanetMoon]现在无法维持生命。"
-bombed_to_barren_world:0 "§Y[From.GetName]现在是一个人口稀少的贫瘠星球。§!"
+bombed_to_barren_world:0 "§Y[From.GetName]现在是一个人口稀少贫瘠的星球。§!"
+actionexp.4.name:0 "小行星撞击"
+actionexp.4.desc:0 "我们的工程团队已经把一颗小行星拖到[Root.GetName]上，准备对其进行战术打击"
+actionexp.4.a:0 "你可以随时开始。"
+actionexp.4.tooltip:0 "[Root.GetName]将遭受20次破坏，多达5个人口和2支军队将被杀死。"
+actionexp.4.b:0 "停火。"
 
 ####################################
 # 	Technologies
@@ -140,7 +143,8 @@ tech_pain_farms:0 "牲畜放牧"
 tech_pain_farms_desc:0 "改进的粮食收割技术将使牲畜更美味，更听话。"
 tech_asteroid_strike:0 "小行星撞击"
 tech_asteroid_strike_desc:0 "战术小行星撞击,从大气层高度坠至星球,可以对行星造成沉重的伤害。"
-ASTEROID_STRIKE_BOMBARDMENT:0 "允许$bombardment_asteroid_strike$轨道轰炸"
+ASTEROID_STRIKE_BOMBARDMENT_TITLE:0 "小行星打击"
+ASTEROID_STRIKE_BOMBARDMENT_DESC:0 "通过不分皂白或世界末日的轰炸，被轰炸的行星可能会周期性地被小行星撞击，造成额外的破坏，并杀死人口和军队。用这种方法将行星变成零爆点的行星将会变成可地貌改造的贫瘠星球。"
 tech_space_elevator:0 "太空电梯"
 tech_space_elevator_desc:0 "一个专用的太空电梯可以相对容易地将货物从地面运送到地面。"
 tech_hidden_worm:0 "沉睡蠕虫苏醒"
@@ -155,6 +159,8 @@ building_zro_harvesters:0 "泽洛香料矿"
 building_zro_harvesters_desc:1 "这些强大的移动设备从世界各地的沙丘中提取和净化泽洛矿物。必须非常小心，不要惊扰附近的蠕虫。"
 building_pain_farms:0 "牲畜牧场"
 building_pain_farms_desc:0 "这个巨大而壮观的设施是用来处理和收获奴隶牲畜和消灭任何抵抗的痕迹。"
+building_master_archive_2:0 "$building_master_archive$"
+building_master_archive_2_desc:0 "收集到的关于五个星系年龄的知识应该存储在这里，但是这个极其复杂和神秘的数据检索系统是不可预测的，而且很难操作，即使可以访问星系的原理图。任何可以检索到的零碎数据通常都是无价的。"
 
 sm_orbital_shipyard:0 "轨道造船厂"
 sm_orbital_shipyard_desc:0 "轨道铸造厂与当地的太空电梯相连，使建筑流线型。"
@@ -166,12 +172,12 @@ sm_orbital_shipyard_desc:0 "轨道铸造厂与当地的太空电梯相连，使�
 job_zro_harvester:0 "泽洛收割者"
 job_zro_harvester_plural:0 "泽洛收割者"
 job_zro_harvester_desc:1 "这些勇敢的矿工从事着危险的工作，从爬虫肆虐的沙丘中提取含有锌的矿物质。"
-mod_job_zro_harvester_add:0 "$job_zro_harvester$ 职位"
+mod_job_zro_harvester_add:0 "$job_zro_harvester$ 岗位"
 
 job_zro_harvesting_drone:0 "泽洛收割单位"
 job_zro_harvesting_drone_plural:0 "泽洛收割单位"
 job_zro_harvesting_drone_desc:1 "由于世界原生生物的贪婪本性，专门开采泽洛矿物的单位有很高的周转率。"
-mod_job_zro_harvesting_drone_add:0 "$job_zro_harvesting_drone$ 职位"
+mod_job_zro_harvesting_drone_add:0 "$job_zro_harvesting_drone$ 岗位"
 
 ####################################
 # 	Decisions and Edicts
@@ -183,8 +189,10 @@ decision_cunning_flora_perimeter_1_effects:0 "$decision_cunning_flora_perimeter_
 decision_cunning_flora_perimeter_2:0 "完成防守外线"
 decision_cunning_flora_perimeter_2_desc:0 "派遣士兵击退侵略性的植物，清除我们定居点周围的防御工事，让我们充分利用这个世界。"
 decision_cunning_flora_perimeter_2_effects:0 "$decision_cunning_flora_perimeter_2_desc$"
-decision_memorex:0 "Memorex增强学习计划"
+decision_memorex:0 "梅莫雷克斯增强学习计划"
 decision_memorex_desc:0 "$the_memorex_desc$"
+decision_expand_memorex:0 "$the_memorex_control$"
+decision_expand_memorex_desc:0 "$the_memorex_control_desc$\n\n§R警告: 广泛使用梅莫雷克斯会增加长期副作用的风险。§!"
 decision_pleasure_palace:0 "创建游乐宫"
 decision_pleasure_palace_desc:1 "这个栖息地将被重新配置成一个快乐的世界，吸引游客和来自远方的游客。"
 decision_pleasure_palace_effects_short:0 "增加所有其他行星上的£amenities£ §Y$MOD_PLANET_AMENITIES_MULT$§!"
@@ -202,7 +210,13 @@ decision_worm_check_effects_short:0 "$decision_worm_check_desc$"
 artifact_observer_clue:0 "观察者的洞察力"
 artifact_observer_clue_desc:0 "我们应该能够用这些人工制品拼凑出更多关于我们星球上观察哨建造者的谜团。"
 artifact_observer_clue_effect:0 "\n\n冷却: £time£ §Y3600§!"
-artifact_observer_clue_cooldown:0 "$artifact_observer_clue$ Cooldown"
+artifact_observer_clue_cooldown:0 "$artifact_observer_clue$ 冷却"
+artifact_memorex_research:0 "梅莫雷克斯复制程序"
+artifact_memorex_research_desc:0 "梅莫雷克斯非常有用，但仅限于我们的祖国。通过研究遗物，我们可以了解如何在其他星球上复制它。"
+artifact_war_forge_research:0 "赛博勒克斯战争锻造厂改造"
+artifact_war_forge_research_desc:0 "尽管赛博勒克斯战争锻造厂快速构建新机器人的能力令人印象深刻，但在我们的社会中，它几乎没有什么用处。然而，如果我们想找到一种方法对它进行重新编程，我们可以在我们的军事和民用工业中使用它的复制技术。"
+artifact_mega_ruins_research:0 "巨型建筑的秘密"
+artifact_mega_ruins_research_desc:0 "更深入地探究巨型建筑的秘密。"
 
 ####################################
 # 	RELICS
@@ -211,6 +225,8 @@ artifact_observer_clue_cooldown:0 "$artifact_observer_clue$ Cooldown"
 r_memorex:0 "$the_memorex$"
 r_memorex_desc:0 "$the_memorex_desc$"
 relic_memorex:0 "§H解锁决策:§! §G$decision_memorex$§!，添加一颗行星§Y$the_memorex$§!修正，获得:\n$mod_planet_jobs_produces_mult$: §G+20%§!\n$PLANET_STABILITY_TITLE$: §G+5§!\n$mod_planet_pops_upkeep_mult$: §R+10%§!"
+r_war_forge_ship_tooltip:0 "获得少量赛博勒克斯飞船。"
+r_war_forge_allows_robot_tooltip:0 "你必须禁止机器人使用改装过的战炉。必须禁止机器人使用翻新的战争锻造厂。"
 
 ####################################
 # 	Traits
@@ -221,6 +237,10 @@ trait_battle_bot_desc:0 "§L单位是建立在一个强大的外骨骼，使他�
 trait_cold_survivor:0 "北极幸存者"
 trait_cold_survivor_desc:0 "§L当他们的星球遭遇突然的冰河时代时，这个物种在濒临灭绝时幸存了下来。"
 TRAIT_COLD_SURVIVOR_EFFECTS:0 "寒冷宜居性: §G+10%§!"
+trait_memorex_comatos:0 "科摩罗"
+trait_memorex_comatos_desc:0 "§L由于不明智地使用了梅莫雷克斯，这一流行趋势推动了科摩罗的出现。"
+TRAIT_MEMOREX_COMATOS_EFFECT:2 "$mod_planet_jobs_produces_mult$: §R-200%§!\n不能产生§Y领袖§!\n不能§Y繁殖§!，并会慢慢死去。"
+leader_trait_archaeologist_ancrel_tooltip:0 "§Y$MOD_SHIP_ARCHAEOLOGICAL_SITE_EXCAVATION_SPEED_MULT$:§! §G+25.0%§!\n§YAncient Civilizations Anomalies:§!\n   Anomaly Research Speed: §G+25.0%§!"
 
 ####################################
 # 	AMBIENT OBJECTS

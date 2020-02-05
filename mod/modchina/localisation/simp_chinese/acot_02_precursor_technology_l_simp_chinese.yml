@@ -1,0 +1,535 @@
+﻿l_simp_chinese:
+
+
+####################################
+
+mod_shipsize_precursor_escort_hull_add: "$small_ship_fallen_empire$船体值"
+mod_shipsize_precursor_battlecruiser_hull_add: "$large_ship_fallen_empire$船体值"
+mod_shipsize_fe_assault_carrier_hull_add: "$fe_assault_carrier$船体值"
+mod_shipsize_sentinel_sphere_hull_add: "$sentinel_sphere$船体值"
+mod_shipsize_sofe_gatekeeper_warden_hull_add: "$sofe_gatekeeper_warden$船体值"
+mod_shipsize_precursor_titan_hull_add: "$precursor_titan$船体值"
+mod_shipsize_precursor_colossus_hull_add: "巨神船体值"
+mod_shipsize_precursor_guardian_hull_add: "$precursor_guardian$船体值"
+
+mod_shipsize_precursor_escort_build_speed_mult: "$small_ship_fallen_empire$建造速度"
+mod_shipsize_precursor_battlecruiser_build_speed_mult: "$large_ship_fallen_empire$建造速度"
+mod_shipsize_precursor_titan_build_speed_mult: "$precursor_titan$建造速度"
+mod_shipsize_fe_assault_carrier_build_speed_mult: "$fe_assault_carrier$建造速度"
+mod_shipsize_sentinel_sphere_build_speed_mult: "$sentinel_sphere$建造速度"
+mod_shipsize_precursor_guardian_build_speed_add: "$precursor_guardian$建造速度"
+mod_shipsize_sofe_gatekeeper_warden_build_speed_mult: "$sofe_gatekeeper_warden$建造速度"
+
+################################################
+
+tech_fe_escort_hull:0 "标准化加固护航舰船体"
+tech_fe_escort_hull_desc:0 "基于同样的原则，我们的旧船的船体升级，我们可以加强我们的护卫舰的结构完整性，进一步提高其生存性，并降低建设成本。"
+
+tech_fe_battlecruiser_hull:0 "标准化加固战列巡洋舰船体"
+tech_fe_battlecruiser_hull_desc:0 "基于相同的原则，我们的旧船的船体升级，我们可以加强我们的巡洋舰的结构完整性，进一步提高其生存能力，并降低建设成本。"
+
+tech_fe_titan_hull:0 "标准化加固泰坦船体"
+tech_fe_titan_hull_desc:0 "基于与我们的旧船的船体升级相同的原则，我们可以加强泰坦的结构完整性，进一步提高其生存能力，并降低建造成本。"
+
+tech_fe_goliath_hull:0 "标准化加固歌利亚船体"
+tech_fe_goliath_hull_desc:0 "基于与我们的旧船的船体升级相同的原则，我们可以加强我们的歌利亚的结构完整性，进一步提高其生存能力，并降低建设成本。只有最致命的舰队才能摧毁我们帝国的骄傲。"
+
+
+####PRECURSOR SHIP NAMES
+
+precursor_escort: "先驱者护航舰"
+precursor_escort_plural: "先驱者护航舰"
+
+precursor_battlecruiser: "先驱者战列巡洋舰"
+precursor_battlecruiser_plural: "先驱者战列巡洋舰"
+
+fe_assault_carrier: "先驱者攻击航母"
+fe_assault_carrier_plural: "先驱者攻击航母"
+
+precursor_titan: "先驱者亥伯龙"
+precursor_titan_plural: "先驱者亥伯龙"
+
+precursor_guardian: "先驱者守护者"
+precursor_guardian_plural: "先驱者守护者"
+
+sentinel_sphere: "先驱者哨兵"
+sentinel_sphere_plural: "先驱者哨兵"
+
+sofe_gatekeeper_warden: "守门人"
+sofe_gatekeeper_warden_plural: "守门人"
+
+precursor_colossus: "巨神战舰"
+precursor_colossus_plural: "巨神战舰"
+
+#### PRECURSOR SIHP SECTION #####
+##################################################################################################
+fallen_empire_sentinel_hull_key: "哨兵之眼"
+fallen_empire_sentinel_core_key: "哨兵之翼 A"
+fallen_empire_sentinel_data_key: "哨兵之翼 B"
+
+alpha_fallen_empire_sentinel_hull_key: "α型$fallen_empire_sentinel_hull_key$"
+alpha_fallen_empire_sentinel_core_key: "α型$fallen_empire_sentinel_core_key$"
+alpha_fallen_empire_sentinel_data_key: "α型$fallen_empire_sentinel_data_key$"
+
+stellar_fallen_empire_sentinel_hull_key: "Σ型$fallen_empire_sentinel_hull_key$"
+stellar_fallen_empire_sentinel_core_key: "Σ型$fallen_empire_sentinel_core_key$"
+stellar_fallen_empire_sentinel_data_key: "Σ型$fallen_empire_sentinel_data_key$"
+
+omega_fallen_empire_sentinel_hull_key: "Ω型$fallen_empire_sentinel_hull_key$"
+omega_fallen_empire_sentinel_core_key: "Ω型$fallen_empire_sentinel_core_key$"
+omega_fallen_empire_sentinel_data_key: "Ω型$fallen_empire_sentinel_data_key$"
+
+
+PRECURSOR_GUARDIAN_TOP_KEY: "排炮系统"
+PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "导弹系统"
+PRECURSOR_GUARDIAN_LEFT_KEY: "火炮系统"
+PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "导弹系统"
+PRECURSOR_GUARDIAN_RIGHT_KEY: "防御系统"
+PRECURSOR_GUARDIAN_HANGER_KEY: "挂载系统"
+
+ALPHA_PRECURSOR_GUARDIAN_TOP_KEY: "α型$PRECURSOR_GUARDIAN_TOP_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "α型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_LEFT_KEY: "α型$PRECURSOR_GUARDIAN_LEFT_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "α型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_RIGHT_KEY: "α型$PRECURSOR_GUARDIAN_RIGHT_KEY$"
+ALPHA_PRECURSOR_GUARDIAN_HANGER_KEY: "α型$PRECURSOR_GUARDIAN_HANGER_KEY$"
+
+SIGMA_PRECURSOR_GUARDIAN_TOP_KEY: "Σ型$PRECURSOR_GUARDIAN_TOP_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "Σ型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_LEFT_KEY: "Σ型$PRECURSOR_GUARDIAN_LEFT_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "Σ型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_RIGHT_KEY: "Σ型$PRECURSOR_GUARDIAN_RIGHT_KEY$"
+SIGMA_PRECURSOR_GUARDIAN_HANGER_KEY: "Σ型$PRECURSOR_GUARDIAN_HANGER_KEY$"
+
+OMEGA_PRECURSOR_GUARDIAN_TOP_KEY: "Ω型$PRECURSOR_GUARDIAN_TOP_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY: "Ω型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_LEFT_KEY: "Ω型$PRECURSOR_GUARDIAN_LEFT_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_LEFT_TORPEDO_KEY: "Ω型$PRECURSOR_GUARDIAN_TOP_TORPEDO_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_RIGHT_KEY: "Ω型$PRECURSOR_GUARDIAN_RIGHT_KEY$"
+OMEGA_PRECURSOR_GUARDIAN_HANGER_KEY: "Ω型$PRECURSOR_GUARDIAN_HANGER_KEY$"
+
+PRECURSOR_COLOSSUS_W_SECTION: "赫拉克勒斯巨像"
+PRECURSOR_COLOSSUS_T_SECTION: "赫拉克勒斯泰坦"
+PRECURSOR_COLOSSUS_XL_SECTION: "赫拉克勒斯格拉斯"
+PRECURSOR_COLOSSUS_L_SECTION: "赫拉克勒斯莱托"
+PRECURSOR_COLOSSUS_H_SECTION: "赫拉克勒斯贺拉修"
+
+ALPHA_PRECURSOR_COLOSSUS_W_SECTION: "α型$PRECURSOR_COLOSSUS_W_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_T_SECTION: "α型$PRECURSOR_COLOSSUS_T_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_XL_SECTION: "α型$PRECURSOR_COLOSSUS_XL_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_L_SECTION: "α型$PRECURSOR_COLOSSUS_L_SECTION$"
+ALPHA_PRECURSOR_COLOSSUS_H_SECTION: "α型$PRECURSOR_COLOSSUS_H_SECTION$"
+
+SIGMA_PRECURSOR_COLOSSUS_W_SECTION: "Σ型$PRECURSOR_COLOSSUS_W_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_T_SECTION: "Σ型$PRECURSOR_COLOSSUS_T_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_XL_SECTION: "Σ型$PRECURSOR_COLOSSUS_XL_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_L_SECTION: "Σ型$PRECURSOR_COLOSSUS_L_SECTION$"
+SIGMA_PRECURSOR_COLOSSUS_H_SECTION: "Σ型$PRECURSOR_COLOSSUS_H_SECTION$"
+
+OMEGA_PRECURSOR_COLOSSUS_W_SECTION: "Ω型$PRECURSOR_COLOSSUS_W_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_T_SECTION: "Ω型$PRECURSOR_COLOSSUS_T_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_XL_SECTION: "Ω型$PRECURSOR_COLOSSUS_XL_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_L_SECTION: "Ω型$PRECURSOR_COLOSSUS_L_SECTION$"
+OMEGA_PRECURSOR_COLOSSUS_H_SECTION: "Ω型$PRECURSOR_COLOSSUS_H_SECTION$"
+
+##################################################################################################
+PRECURSOR_ESCORT_BOW_KEY: "基础核心"
+PRECURSOR_ESCORT_BOW_TORPEDO_KEY: "导弹核心"
+PRECURSOR_ESCORT_MID_KEY: "拦截矩阵"
+PRECURSOR_ESCORT_MID_MEDIUM_KEY: "炮艇矩阵"
+PRECURSOR_ESCORT_MID_TORPEDO_KEY: "制导矩阵"
+PRECURSOR_ESCORT_STERN_KEY: "点防御矩阵"
+PRECURSOR_ESCORT_STERN_MIX_KEY: "监护矩阵"
+PRECURSOR_ESCORT_STERN_SMALL_KEY: "拦截矩阵"
+
+ALPHA_PRECURSOR_ESCORT_BOW_KEY: "α型$PRECURSOR_ESCORT_BOW_KEY$"
+ALPHA_PRECURSOR_ESCORT_BOW_TORPEDO_KEY: "α型$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+ALPHA_PRECURSOR_ESCORT_MID_KEY: "α型$PRECURSOR_ESCORT_MID_KEY$"
+ALPHA_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "α型$PRECURSOR_ESCORT_MID_MEDIUM_KEY$"
+ALPHA_PRECURSOR_ESCORT_MID_TORPEDO_KEY: "α型$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+ALPHA_PRECURSOR_ESCORT_STERN_TORPEDO_KEY: "α型$PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY$"
+ALPHA_PRECURSOR_ESCORT_STERN_MIX_KEY: "α型$PRECURSOR_ESCORT_STERN_MIX_KEY$"
+ALPHA_PRECURSOR_ESCORT_STERN_SMALL_KEY: "α型$PRECURSOR_ESCORT_MID_KEY$"
+
+STELLAR_PRECURSOR_ESCORT_BOW_KEY: "Σ型$PRECURSOR_ESCORT_BOW_KEY$"
+STELLAR_PRECURSOR_ESCORT_BOW_TORPEDO_KEY: "Σ型$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+STELLAR_PRECURSOR_ESCORT_MID_KEY: "Σ型$PRECURSOR_ESCORT_MID_KEY$"
+STELLAR_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Σ型$PRECURSOR_ESCORT_MID_MEDIUM_KEY$"
+STELLAR_PRECURSOR_ESCORT_MID_TORPEDO_KEY: "Σ型$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+STELLAR_PRECURSOR_ESCORT_STERN_TORPED_KEY: "Σ型$PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY$"
+STELLAR_PRECURSOR_ESCORT_STERN_MIX_KEY: "Σ型$PRECURSOR_ESCORT_STERN_MIX_KEY$"
+STELLAR_PRECURSOR_ESCORT_STERN_SMALL_KEY: "Σ型$PRECURSOR_ESCORT_MID_KEY$"
+
+OMEGA_PRECURSOR_ESCORT_BOW_KEY: "Ω型$PRECURSOR_ESCORT_BOW_KEY$"
+OMEGA_PRECURSOR_ESCORT_BOW_TORPEDO_KEY: "Ω型$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+OMEGA_PRECURSOR_ESCORT_MID_KEY: "Ω型$PRECURSOR_ESCORT_MID_KEY$"
+OMEGA_PRECURSOR_ESCORT_MID_MEDIUM_KEY: "Ω型$PRECURSOR_ESCORT_MID_MEDIUM_KEY$"
+OMEGA_PRECURSOR_ESCORT_MID_TORPEDO_KEY: "Ω型$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+OMEGA_PRECURSOR_ESCORT_STERN_TORPEDO_KEY: "Ω型$PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY$"
+OMEGA_PRECURSOR_ESCORT_STERN_KEY: "Ω型$PRECURSOR_ESCORT_STERN_MIX_KEY$"
+OMEGA_PRECURSOR_ESCORT_STERN_SMALL_KEY: "Ω型$PRECURSOR_ESCORT_MID_KEY$"
+##################################################################################################
+PRECURSOR_BATTLECRUISER_BOW_KEY: "$PRECURSOR_ESCORT_BOW_KEY$"
+PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY: "$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "基础核心"
+PRECURSOR_BATTLECRUISER_MID_KEY: "巡航矩阵"
+PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY: "$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "火炮矩阵"
+PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "航母矩阵"
+PRECURSOR_BATTLECRUISER_STERN_KEY: "点位矩阵"
+PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY: "支援矩阵"
+PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY: "导弹矩阵"
+
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_KEY: "α型$PRECURSOR_ESCORT_BOW_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY: "α型$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "α型$PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY: "α型$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "α型$PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "α型$PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_STERN_KEY: "α型$PRECURSOR_BATTLECRUISER_STERN_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY: "α型$PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY$"
+ALPHA_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY: "α型$PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY$"
+
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_KEY: "Σ型$PRECURSOR_ESCORT_BOW_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY: "Σ型$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Σ型$PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY: "Σ型$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY: "Σ型$PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Σ型$PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_STERN_KEY: "Σ型$PRECURSOR_BATTLECRUISER_STERN_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY: "Σ型$PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY$"
+STELLAR_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY: "Σ型$PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY$"
+
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_KEY: "Ω型$PRECURSOR_ESCORT_BOW_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_TORPEDO_KEY: "Ω型$PRECURSOR_ESCORT_BOW_TORPEDO_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY: "Ω型$PRECURSOR_BATTLECRUISER_BOW_CARRIER_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_TORPEDO_KEY: "Ω型$PRECURSOR_ESCORT_MID_TORPEDO_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_KEY: "Ω型$PRECURSOR_BATTLECRUISER_MID_ARTILLERY_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY: "Ω型$PRECURSOR_BATTLECRUISER_MID_CARRIER_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_STERN_KEY: "Ω型$PRECURSOR_BATTLECRUISER_STERN_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY: "Ω型$PRECURSOR_BATTLECRUISER_STERN_LARGE_KEY$"
+OMEGA_PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY: "Ω型$PRECURSOR_BATTLECRUISER_STERN_TORPEDO_KEY$"
+##################################################################################################
+SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "脊峰舰首"
+SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "尖端舰首"
+SOFE_GATEKEEPER_WARDEN_MID_KEY: "外部核心"
+SOFE_GATEKEEPER_WARDEN_STERN_KEY: "内部核心"
+
+ALPHA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "α型$SOFE_GATEKEEPER_WARDEN_SPINAL_KEY$"
+ALPHA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "α型$SOFE_GATEKEEPER_WARDEN_SHOTO_KEY$"
+ALPHA_SOFE_GATEKEEPER_WARDEN_MID_KEY: "α型$SOFE_GATEKEEPER_WARDEN_MID_KEY$"
+ALPHA_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "α型$SOFE_GATEKEEPER_WARDEN_STERN_KEY$"
+
+SIGMA_SOFE_GATEKEEPER_WARDEN_SPINAL_KEY: "Σ型$SOFE_GATEKEEPER_WARDEN_SPINAL_KEY$"
+SIGMA_SOFE_GATEKEEPER_WARDEN_SHOTO_KEY: "Σ型$SOFE_GATEKEEPER_WARDEN_SHOTO_KEY$"
+SIGMA_SOFE_GATEKEEPER_WARDEN_MID_KEY: "Σ型$SOFE_GATEKEEPER_WARDEN_MID_KEY$"
+SIGMA_SOFE_GATEKEEPER_WARDEN_STERN_KEY: "Σ型$SOFE_GATEKEEPER_WARDEN_STERN_KEY$"
+
+SOFE_GATEKEEPER_OMEGA_SPINAL_KEY: "Ω型$SOFE_GATEKEEPER_WARDEN_SPINAL_KEY$"
+SOFE_GATEKEEPER_OMEGA_SHOTO_KEY: "Ω型$SOFE_GATEKEEPER_WARDEN_SHOTO_KEY$"
+SOFE_GATEKEEPER_OMEGA_MID_KEY: "Ω型$SOFE_GATEKEEPER_WARDEN_MID_KEY$"
+SOFE_GATEKEEPER_OMEGA_STERN_KEY: "Ω型$SOFE_GATEKEEPER_WARDEN_STERN_KEY$"
+##################################################################################################
+sofe_assault_carrier_spinal_section: "脊峰舰首"
+sofe_assault_carrier_large_section: "火炮舰首"
+sofe_assault_carrier_hanger1_section: "机库 A"
+sofe_assault_carrier_hanger2_section: "机库 B"
+sofe_assault_carrier_hanger3_section: "机库 C"
+
+alpha_sofe_assault_carrier_spinal_section: "α型$sofe_assault_carrier_spinal_section$"
+alpha_sofe_assault_carrier_large_section: "α型$sofe_assault_carrier_large_section$"
+alpha_sofe_assault_carrier_hanger1_section: "α型$sofe_assault_carrier_hanger1_section$"
+alpha_sofe_assault_carrier_hanger2_section: "α型$sofe_assault_carrier_hanger2_section$"
+alpha_sofe_assault_carrier_hanger3_section: "α型$sofe_assault_carrier_hanger3_section$"
+
+stellar_sofe_assault_carrier_spinal_section: "Σ型$sofe_assault_carrier_spinal_section$"
+stellar_sofe_assault_carrier_large_section: "Σ型$sofe_assault_carrier_large_section$"
+stellar_sofe_assault_carrier_hanger1_section: "Σ型$sofe_assault_carrier_hanger1_section$"
+stellar_sofe_assault_carrier_hanger2_section: "Σ型$sofe_assault_carrier_hanger2_section$"
+stellar_sofe_assault_carrier_hanger3_section: "Σ型$sofe_assault_carrier_hanger3_section$"
+
+omega_sofe_assault_carrier_spinal_section: "Ω型$sofe_assault_carrier_spinal_section$"
+omega_sofe_assault_carrier_large_section: "Ω型$sofe_assault_carrier_large_section$"
+omega_sofe_assault_carrier_hanger1_section: "Ω型$sofe_assault_carrier_hanger1_section$"
+omega_sofe_assault_carrier_hanger2_section: "Ω型$sofe_assault_carrier_hanger2_section$"
+omega_sofe_assault_carrier_hanger3_section: "Ω型$sofe_assault_carrier_hanger3_section$"
+#######################################################################################################
+
+PRECURSOR_TITAN_SPINAL_KEY: "基础核心"
+PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "导弹核心"
+PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "航母核心"
+PRECURSOR_TITAN_MID_KEY: "侧翼火炮矩阵"
+PRECURSOR_TITAN_MID_TORPEDO_KEY: "侧翼导弹矩阵"
+PRECURSOR_TITAN_MID_CARRIER_KEY: "侧翼机库矩阵"
+PRECURSOR_TITAN_CORE_KEY: "侧翼火炮矩阵"
+PRECURSOR_TITAN_CORE_TORPEDO_KEY: "侧翼导弹矩阵"
+PRECURSOR_TITAN_CORE_CARRIER_KEY: "侧翼机库矩阵"
+PRECURSOR_TITAN_STERN_KEY: "机库矩阵"
+PRECURSOR_TITAN_STERN_LARGE_KEY: "火炮支援矩阵"
+PRECURSOR_TITAN_STERN_TORPEDO_KEY: "制导矩阵"
+
+ALPHA_PRECURSOR_TITAN_SPINAL_KEY: "α型$PRECURSOR_TITAN_SPINAL_KEY$"
+ALPHA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "α型$PRECURSOR_TITAN_SPINAL_TORPEDO_KEY$"
+ALPHA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "α型$PRECURSOR_TITAN_SPINAL_CARRIER_KEY$"
+ALPHA_PRECURSOR_TITAN_MID_KEY: "α型$PRECURSOR_TITAN_MID_KEY$ "
+ALPHA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "α型$PRECURSOR_TITAN_MID_TORPEDO_KEY$"
+ALPHA_PRECURSOR_TITAN_MID_CARRIER_KEY: "α型$PRECURSOR_TITAN_MID_CARRIER_KEY$"
+ALPHA_PRECURSOR_TITAN_CORE_KEY: "α型$PRECURSOR_TITAN_CORE_KEY$ "
+ALPHA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "α型$PRECURSOR_TITAN_CORE_TORPEDO_KEY$"
+ALPHA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "α型$PRECURSOR_TITAN_CORE_CARRIER_KEY$"
+ALPHA_PRECURSOR_TITAN_STERN_KEY: "α型$PRECURSOR_TITAN_STERN_KEY$"
+ALPHA_PRECURSOR_TITAN_STERN_LARGE_KEY: "α型$PRECURSOR_TITAN_STERN_LARGE_KEY$"
+ALPHA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "α型$PRECURSOR_TITAN_STERN_TORPEDO_KEY$"
+
+SIGMA_PRECURSOR_TITAN_SPINAL_KEY: "Σ型$PRECURSOR_TITAN_SPINAL_KEY$"
+SIGMA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Σ型$PRECURSOR_TITAN_SPINAL_TORPEDO_KEY$"
+SIGMA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Σ型$PRECURSOR_TITAN_SPINAL_CARRIER_KEY$"
+SIGMA_PRECURSOR_TITAN_MID_KEY: "Σ型$PRECURSOR_TITAN_MID_KEY$ "
+SIGMA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "Σ型$PRECURSOR_TITAN_MID_TORPEDO_KEY$"
+SIGMA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Σ型$PRECURSOR_TITAN_MID_CARRIER_KEY$"
+SIGMA_PRECURSOR_TITAN_CORE_KEY: "Σ型$PRECURSOR_TITAN_CORE_KEY$"
+SIGMA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Σ型$PRECURSOR_TITAN_CORE_TORPEDO_KEY$"
+SIGMA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Σ型$PRECURSOR_TITAN_CORE_CARRIER_KEY$"
+SIGMA_PRECURSOR_TITAN_STERN_KEY: "Σ型$PRECURSOR_TITAN_STERN_KEY$"
+SIGMA_PRECURSOR_TITAN_STERN_LARGE_KEY: "Σ型$PRECURSOR_TITAN_STERN_LARGE_KEY$"
+SIGMA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Σ型$PRECURSOR_TITAN_STERN_TORPEDO_KEY$"
+
+OMEGA_PRECURSOR_TITAN_SPINAL_KEY: "Ω型$PRECURSOR_TITAN_SPINAL_KEY$"
+OMEGA_PRECURSOR_TITAN_SPINAL_TORPEDO_KEY: "Ω型$PRECURSOR_TITAN_SPINAL_TORPEDO_KEY$"
+OMEGA_PRECURSOR_TITAN_SPINAL_CARRIER_KEY: "Ω型$PRECURSOR_TITAN_SPINAL_CARRIER_KEY$"
+OMEGA_PRECURSOR_TITAN_MID_KEY: "Ω型$PRECURSOR_TITAN_MID_KEY$"
+OMEGA_PRECURSOR_TITAN_MID_TORPEDO_KEY: "Ω型$PRECURSOR_TITAN_MID_TORPEDO_KEY$"
+OMEGA_PRECURSOR_TITAN_MID_CARRIER_KEY: "Ω型$PRECURSOR_TITAN_MID_CARRIER_KEY$"
+OMEGA_PRECURSOR_TITAN_CORE_KEY: "Ω型$PRECURSOR_TITAN_CORE_KEY$"
+OMEGA_PRECURSOR_TITAN_CORE_TORPEDO_KEY: "Ω型$PRECURSOR_TITAN_CORE_TORPEDO_KEY$"
+OMEGA_PRECURSOR_TITAN_CORE_CARRIER_KEY: "Ω型$PRECURSOR_TITAN_CORE_CARRIER_KEY$"
+OMEGA_PRECURSOR_TITAN_STERN_KEY: "Ω型$PRECURSOR_TITAN_STERN_KEY$"
+OMEGA_PRECURSOR_TITAN_STERN_LARGE_KEY: "Ω型$PRECURSOR_TITAN_STERN_LARGE_KEY$"
+OMEGA_PRECURSOR_TITAN_STERN_TORPEDO_KEY: "Ω型$PRECURSOR_TITAN_STERN_TORPEDO_KEY$"
+
+#### PRECARSOR TECH #####
+
+tech_fe_tower_offense: "先驱者哨兵蓝图"
+tech_fe_tower_offense_desc: "先驱者防御平台的一个变种，专门为反首都舰角色建造，以及极其耐用的船体。"
+
+tech_precursor_design: "先驱者数据库分析"
+tech_precursor_design_desc: "在建造任何真正的舰船之前，我们必须先了解他们用了什么神秘的工程建造了这么先进的舰船。\n\n一旦我们完成了我们的分析，我们应该能够用必要的设备来改造我们的星际基地来建造舰船。"
+
+tech_precursor_escort: "护航舰基础模板"
+tech_precursor_escort_desc: "这个技术缓存包含了护航舰蓝图和被失落帝国利用的模板。它似乎被设计用于各种各样的目的，从巡逻船、警戒哨、拦截机，甚至是主要的舰船猎人。\n\n然而，它似乎并不专门用于任何真正的特定角色。"
+
+tech_precursor_bc: "巡洋舰基础模板"
+tech_precursor_bc_desc: "这个技术缓存包含了战列舰的蓝图和被失落帝国战列舰使用的模板。它似乎被设计用于各种用途，从巡洋舰、火炮、战列舰或航空母舰。\n\n然而，设计有点马虎，有许多部分似乎并没有真正关注任何特定的优势…这就好像他们在某种程度上从更先进的设计缩小了规模……"
+
+tech_fe_assault_carrier: "先驱者攻击航母蓝图"
+tech_fe_assault_carrier_desc: "我们已经发现，先驱者运输船体的最初目的是作为一艘强大的攻击航母。但由于失落帝国有能力在任何事情上都表现得非常糟糕，所以他们没能很好地做到这一点。我们会纠正他们的错误。"
+
+tech_precursor_titan: "先驱者亥伯龙蓝图"
+tech_precursor_titan_desc: "这个技术缓存包含了长期被丢弃的先驱者蓝图，只有“亥伯龙”为人所知。这似乎是他们旗舰的第一个原型。记录显示，他们已经放弃了这个设计，因为它的高维护成本和对较小敌人的过度杀伤。\n\n也有评论说，船只的巨大外形使它容易受到“长辈”的攻击。由于缺乏技术，失落先驱者仍然想要实现泰坦级的脊椎模块。所以他们在现有的一艘船体上改装了这些部件，并称之为泰坦。\n\n似乎现在他们拥有的泰坦基本上是一艘军事化的民用船，由建筑船的外壳和上面绑着的采矿站和毁灭光束组成。这是……"
+
+tech_gatekeepers: "守门人蓝图"
+tech_gatekeepers_desc: "基于失落帝国祖先的记录，看门人最初被设计为守护者。但是由于他们极其先进的智能，由于失落帝国缺乏成长和进步，他们反抗了自己的创造者。\n\n我们目前所拥有的设计似乎比最初的描述要低调得多。一种可能的理论是，最初的设计肯定更坚固。\n\n毫无疑问，这是一个非常可怕的主力舰设计，不应该被忽视。"
+
+tech_precursor_guardian: "先驱者监护人蓝图"
+tech_precursor_guardian_desc: "$COUNTRY_FALLEN_EMPIRE$的防御平台似乎有多种设计方案和变种，其中我们知道的一种就是$COUNTRY_FALLEN_EMPIRE$现在所使用的。但是我们又发现另一个有趣的设计叫做“$precursor_guardian$”。它比防御哨站更强大，也有更优秀的改装空间。记录显示，他们因为设计极其复杂而没有采用$precursor_guardian$。他们更喜欢容易建造的防御哨站，因为它的船体基本与采矿站相同。这种享乐主义就是他们堕落的原因。"
+
+tech_precursor_escort_delta: "模块化护航舰设计"
+tech_precursor_escort_delta_desc: "我们早就该摆脱掉这些失落帝国舰船的僵硬性了。我们将实现更现代的模板，将更加强大，但也为护航提供了新的变化。"
+
+tech_precursor_bc_delta: "模块化战列舰设计"
+tech_precursor_bc_delta_desc: "我们早就受够$OUTLINER_FALLEN_EMPIRES$那不灵活的模板了。我们将设计出更现代的模板，并且更加强大，也为$large_ship_fallen_empire$做出一些改变。"
+
+tech_precursor_colossus: "$precursor_colossus$蓝图"
+tech_precursor_colossus_desc: "这些数据揭示了隐藏的真相。失落帝国使用的巨像实际上是不完整的…这只是一个更大的武器的一部分。这个“大力神”是一个巨大的战斗基地，即使是城堡也会被弱化。但这艘舰船足够大，可以支持两个主反应堆，并且有一个内置的自我修复协议，允许它在第一次达到临界损伤时修复船体到全部状态。“巨像”部分组成了空间站的内层，似乎这个失落帝国决定去掉原来的设计，只利用巨像部分作为他们改变世界的武器。\n\n这没什么道理……为什么失落先驱者决定给我们这个图表?也许他们认为我们不可能造出这么大的船?是否有一个隐藏的排气管，可能会一次性炸毁整艘船?我们只能猜测。"
+
+
+###ALPHA###
+
+tech_precursor_escort_alpha: "α型$small_ship_fallen_empire$"
+tech_precursor_escort_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$small_ship_fallen_empire$设计。我们将向傻瓜们展示它是如何做到的。"
+
+tech_precursor_bc_alpha: "α型$large_ship_fallen_empire$"
+tech_precursor_bc_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$large_ship_fallen_empire$设计。我们将向傻瓜们展示它是如何做到的。"
+
+tech_fe_tower_offense_alpha: "α型$sentinel_sphere$"
+tech_fe_tower_offense_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$sentinel_sphere$设计。我们将向傻瓜们展示它是如何做到的。"
+
+tech_fe_assault_carrier_alpha: "α型$fe_assault_carrier$"
+tech_fe_assault_carrier_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$fe_assault_carrier$设计。我们将向傻瓜们展示它是如何做到的。"
+
+tech_precursor_titan_alpha: "α型$precursor_titan$"
+tech_precursor_titan_alpha_desc: "虽然该舰远没有原始设计的水平，但该舰仍是一艘强大的主力舰。"
+
+tech_gatekeepers_alpha: "α型$sofe_gatekeeper_warden$"
+tech_gatekeepers_alpha_desc: "α反应堆提供了足够的能量，现在应该可以对$sofe_gatekeeper_warden$做一些调整，让这艘舰船更接近它原本的样子。"
+
+tech_precursor_guardian_alpha: "α型$precursor_guardian$"
+tech_precursor_guardian_alpha_desc: "有了α反应堆，我们就可以完全超越那些$OUTLINER_FALLEN_EMPIRES$的先驱，创造出属于我们自己的$precursor_guardian$设计。我们将向傻瓜们展示它是如何做到的。"
+
+tech_precursor_colossus_ae: "α型$precursor_colossus$"
+tech_precursor_colossus_ae_desc: "α反应堆提供了足够的能量，现在应该可以对$precursor_colossus$做一些调整，让这艘舰船更接近它原本的样子。"
+
+
+###SIGMA###
+
+tech_precursor_escort_sigma: "Σ型$small_ship_fallen_empire$"
+tech_precursor_escort_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$small_ship_fallen_empire$。"
+
+tech_precursor_bc_sigma: "Σ型$large_ship_fallen_empire$"
+tech_precursor_bc_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$large_ship_fallen_empire$。"
+
+tech_fe_tower_offense_sigma: "Σ型$sentinel_sphere$"
+tech_fe_tower_offense_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$sentinel_sphere$。"
+
+tech_gatekeepers_sigma: "Σ型$sofe_gatekeeper_warden$"
+tech_gatekeepers_sigma_desc: "根据计算，Σ型$sofe_gatekeeper_warden$应该与原始设计非常接近了。"
+
+tech_precursor_titan_sigma: "Σ型$precursor_titan$"
+tech_precursor_titan_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更强大的$precursor_titan$。"
+
+tech_fe_assault_carrier_sigma: "Σ型$fe_assault_carrier$"
+tech_fe_assault_carrier_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$fe_assault_carrier$。"
+
+tech_precursor_guardian_sigma: "Σ型$precursor_guardian$"
+tech_precursor_guardian_sigma_desc: "该舰使用星能量反应堆基础上结合从外星团档案库里获得的资料，我们可以设计出一个更加强大的$precursor_guardian$。"
+
+tech_precursor_colossus_se: "Σ型$precursor_colossus$"
+tech_precursor_colossus_se_desc: "根据计算，Σ型$precursor_colossus$应该与原始设计非常接近了。"
+
+
+
+###OMEGA###
+tech_omega_escort: "Ω型$small_ship_fallen_empire$"
+tech_omega_escort_desc: "模块化武器选择系统使得$tech_omega_escort$能在不牺牲机动性的情况下使用更多的武器。"
+
+tech_omega_battlecruiser: "Ω型$large_ship_fallen_empire$"
+tech_omega_battlecruiser_desc: "就像$tech_omega_escort$一样，$tech_omega_battlecruiser$先进的武器模块使其能够安装致命数量的武器系统和防御系统，这使得旧设计成为一个笑话。"
+
+tech_omega_carrier: "Ω型$fe_assault_carrier$"
+tech_omega_carrier_desc: "难怪$OUTLINER_FALLEN_EMPIRES$放弃了复制航母的尝试。这种神秘$tech_omega_carrier$类载体含有大量的内部空间。可以搭载大量的舰载机。"
+
+tech_omege_sentinel: "Ω型$sentinel_sphere$"
+tech_omege_sentinel_desc: "这样的效率……据说在先祖战争中，先祖的防御系统是坚不可摧的。我们现在开始明白原因了。"
+
+tech_omega_titan: "Ω型$precursor_titan$"
+tech_omega_titan_desc: "所以这一定是古代原型所代表的…Ω亥伯龙神。真正具有破坏性和危险性。"
+
+tech_omega_gatekeeper: "Ω型$sofe_gatekeeper_warden$"
+tech_omega_gatekeeper_desc: "这就是…臭名昭著的古代守门人的真实设计。这是一个奇迹，失落帝国甚至能够逆向工程这一奇迹。"
+
+tech_omega_guardian: "Ω型$precursor_guardian$"
+tech_omega_guardian_desc: "这样的效率……据说在先祖战争中，先祖的防御系统是坚不可摧的。我们现在开始明白原因了。"
+
+
+tech_omega_colossus: "Ω型$precursor_colossus$"
+tech_omega_colossus_desc: "先祖们曾经使用的移动战场。它的武器装载量非常巨大，可能是这个时代最致命的武器之一。"
+
+###MASTERCRAFT###
+
+tech_precursor_escort_cost: "先进护航舰"
+tech_precursor_escort_cost_desc: "深入了解舰船的真正起源和机制，使我们能够以更快的速度和更大的耐久性建造护航舰。"
+
+tech_precursor_bc_cost: "先进战列巡洋舰"
+tech_precursor_bc_cost_desc: "深入了解舰船的真正起源和机制，使我们能够以更快的速度和更大的耐久性建造护航舰。"
+
+tech_fe_tower_offense_cost: "先进$sentinel_sphere$"
+tech_fe_tower_offense_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$sentinel_sphere$。"
+
+tech_fe_assault_carrier_cost: "先进$fe_assault_carrier$"
+tech_fe_assault_carrier_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$fe_assault_carrier$。"
+
+tech_precursor_guardian_cost: "先进监护人"
+tech_precursor_guardian_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度和更高的耐久性建造护卫舰。"
+
+tech_gatekeepers_cost: "先进$sofe_gatekeeper_warden$"
+tech_gatekeepers_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$sofe_gatekeeper_warden$。"
+
+tech_precursor_titan_cost: "先进$precursor_titan$"
+tech_precursor_titan_cost_desc: "对这艘船的真正起源和机制的深入了解使我们能够以更快的速度建造出耐久更高的$precursor_titan$。"
+
+
+sm_acot_precursor_database: "$OUTLINER_FALLEN_EMPIRES$者船坞数据库"
+sm_acot_precursor_database_desc: "先进的档案和计算机，充满很多必要的知识和数据来处理所需舰船建设。"
+acot_precursor_database_tooltip: "§Y允许建筑$OUTLINER_FALLEN_EMPIRES$舰船§!"
+
+TECH_UNLOCK_FE_SHIP_TITLE: "§H解锁$OUTLINER_STARBASES$建筑：§! $sm_acot_precursor_database$"
+TECH_UNLOCK_FE_SHIP_DESC: "先进的档案和计算机，充满很多必要的知识和数据来处理所需舰船建设。"
+
+TECH_UNLOCK_DELTA_ESCORT_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! 模块化$small_ship_fallen_empire$"
+TECH_UNLOCK_DELTA_ESCORT_DESC: "§Yδ型：§! $tech_precursor_escort_delta_desc$"
+
+TECH_UNLOCK_DELTA_BC_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! 模块化$large_ship_fallen_empire$"
+TECH_UNLOCK_DELTA_BC_DESC: "§Yδ型：§! $tech_precursor_bc_delta_desc$"
+#########################################################
+TECH_UNLOCK_ALPHA_ESCORT_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_escort_alpha$"
+TECH_UNLOCK_ALPHA_ESCORT_DESC: "§Yα型：§! $tech_precursor_escort_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_BC_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_bc_alpha$"
+TECH_UNLOCK_ALPHA_BC_DESC: "§Yα型：§! $tech_precursor_bc_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_AC_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_fe_assault_carrier_alpha$"
+TECH_UNLOCK_ALPHA_AC_DESC: "§Yα型：§! $tech_fe_assault_carrier_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_SENTINEL_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_fe_tower_offense_alpha$"
+TECH_UNLOCK_ALPHA_SENTINEL_DESC: "§Yα型：§! $tech_fe_tower_offense_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_GATEKEEPER_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_gatekeepers_alpha$"
+TECH_UNLOCK_ALPHA_GATEKEEPER_DESC: "§Yα型：§! $tech_gatekeepers_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_TITAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_titan_alpha$"
+TECH_UNLOCK_ALPHA_TITAN_DESC: "§Yα型：§! $tech_precursor_titan_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_GUARDIAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_guardian_alpha$"
+TECH_UNLOCK_ALPHA_GUARDIAN_DESC: "§Yα型Sections:§! $tech_precursor_guardian_alpha_desc$"
+
+TECH_UNLOCK_ALPHA_COLOSSUS_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_colossus_ae$"
+TECH_UNLOCK_ALPHA_COLOSSUS_DESC: "§Yα型Sections:§! $tech_precursor_colossus_ae_desc$"
+#########################################################
+TECH_UNLOCK_SIGMA_ESCORT_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_escort_sigma$"
+TECH_UNLOCK_SIGMA_ESCORT_DESC: "§YΣ型：§! $tech_precursor_escort_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_BC_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_bc_sigma$"
+TECH_UNLOCK_SIGMA_BC_DESC: "§YΣ型：§! $tech_precursor_bc_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_AC_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_fe_assault_carrier_sigma$"
+TECH_UNLOCK_SIGMA_AC_DESC: "§YΣ型：§! $tech_fe_assault_carrier_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_SENTINEL_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_fe_tower_offense_sigma$"
+TECH_UNLOCK_SIGMA_SENTINEL_DESC: "§YΣ型：§! $tech_fe_tower_offense_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_GATEKEEPER_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_gatekeepers_sigma$"
+TECH_UNLOCK_SIGMA_GATEKEEPER_DESC: "§YΣ型：§! $tech_gatekeepers_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_TITAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_titan_sigma$"
+TECH_UNLOCK_SIGMA_TITAN_DESC: "§YΣ型：§! $tech_precursor_titan_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_GUARDIAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_guardian_sigma$"
+TECH_UNLOCK_SIGMA_GUARDIAN_DESC: "§YΣ型Sections:§! $tech_precursor_guardian_sigma_desc$"
+
+TECH_UNLOCK_SIGMA_COLOSSUS_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_precursor_colossus_se$"
+TECH_UNLOCK_SIGMA_COLOSSUS_DESC: "§YΣ型Sections:§! $tech_precursor_colossus_se_desc$"
+#########################################################
+TECH_UNLOCK_OMEGA_ESCORT_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_escort$"
+TECH_UNLOCK_OMEGA_ESCORT_DESC: "§YΩ型：§! $tech_omega_escort_desc$"
+
+TECH_UNLOCK_OMEGA_BATTLECRUISER_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_battlecruiser$"
+TECH_UNLOCK_OMEGA_BATTLECRUISER_DESC: "§YΩ型：§! $tech_omega_battlecruiser_desc$"
+
+TECH_UNLOCK_OMEGA_SENTINEL_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omege_sentinel$"
+TECH_UNLOCK_OMEGA_SENTINEL_DESC: "§YΩ型：§! $tech_omege_sentinel_desc$"
+
+TECH_UNLOCK_OMEGA_CARRIER_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_carrier$"
+TECH_UNLOCK_OMEGA_CARRIER_DESC: "§YΩ型：§! $tech_omega_carrier_desc$"
+
+TECH_UNLOCK_OMEGA_GATEKEEPER_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_gatekeeper$"
+TECH_UNLOCK_OMEGA_GATEKEEPER_DESC: "§YΩ型：§! $tech_omega_gatekeeper_desc$"
+
+TECH_UNLOCK_OMEGA_TITAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_titan$"
+TECH_UNLOCK_OMEGA_TITAN_DESC: "§YΩ型：§! $tech_omega_titan_desc$"
+
+TECH_UNLOCK_OMEGA_GUARDIAN_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_guardian$"
+TECH_UNLOCK_OMEGA_GUARDIAN_DESC: "§YΩ型Sections:§! $tech_omega_guardian_desc$"
+
+TECH_UNLOCK_OMEGA_COLOSSUS_TITLE: "§H解锁舰船$STAT_SOURCE_SECTION$：§! $tech_omega_colossus$"
+TECH_UNLOCK_OMEGA_COLOSSUS_DESC: "§YΩ型Sections:§! $tech_omega_colossus_desc$"
+

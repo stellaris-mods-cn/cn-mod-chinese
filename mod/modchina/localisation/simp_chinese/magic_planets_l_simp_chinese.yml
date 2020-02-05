@@ -103,19 +103,19 @@
 
  decision_focus_energy:0 "§G乡村焦点§!: 发电"
  decision_focus_energy_desc:0 "我们在这颗星球的乡村地区将专注于能源生产。"
- decision_focus_energy_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_technician$ 职位。"
+ decision_focus_energy_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_technician$ 岗位。"
 
  decision_focus_minerals:0 "§G乡村焦点§!: 矿业"
  decision_focus_minerals_desc:0 "我们在这颗星球上的乡村地区将专注于采矿。"
- decision_focus_minerals_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_miner$ 职位。"
+ decision_focus_minerals_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_miner$ 岗位。"
 
  decision_focus_food:0 "§G乡村焦点§!: 农业"
  decision_focus_food_desc:0 "我们在这颗星球的乡村地区将专注于农业。"
- decision_focus_food_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_farmer$ 职位。"
+ decision_focus_food_effects:0 " [Root.GetName] 上的乡村地区将提供 §G+3§!$job_farmer$ 岗位。"
 
  decision_unfocus_rural:0 "§G清除乡村焦点§!"
- decision_unfocus_rural_dsec:0 "我们在这颗星球上的乡村地区将重新提供平均的职位。"
- decision_unfocus_rural_effects:0 "在 [Root.GetName] 上的乡村地区将提供 §G+1§! ($job_technician$, $job_miner$, $job_farmer$) 职位。"
+ decision_unfocus_rural_dsec:0 "我们在这颗星球上的乡村地区将重新提供平均的岗位。"
+ decision_unfocus_rural_effects:0 "在 [Root.GetName] 上的乡村地区将提供 §G+1§! ($job_technician$, $job_miner$, $job_farmer$) 岗位。"
 
  decision_no_focus_rural:0 "§G无乡村焦点§!"
  decision_no_focus_rural_desc:0 "我们在这颗星球上的乡村地区不会关注任何一个地区。"
@@ -123,14 +123,14 @@
 
  decision_focus_alloys:0 "§H工业焦点§!: $job_magic_foundry$ 公会"
  decision_focus_alloys_desc:0 "我们在这颗星球上的工业区将优先考虑 $job_magic_foundry$ 公会。"
- decision_focus_alloys_effects:0 " [Root.GetName] 上的工业区将提供 §G+4§!$job_magic_foundry$ 职位。"
+ decision_focus_alloys_effects:0 " [Root.GetName] 上的工业区将提供 §G+4§!$job_magic_foundry$ 岗位。"
 
  decision_focus_consumer_goods:0 "§H工业焦点§!: $job_magic_artisan$ 公会"
  decision_focus_consumer_goods_desc:0 "我们在这颗星球上的工业区将优先考虑 $job_magic_artisan$ 公会。"
- decision_focus_consumer_goods_effects:0 " [Root.GetName] 上的工业区将提供 §G+4§!$job_magic_artisan$ 职位。"
+ decision_focus_consumer_goods_effects:0 " [Root.GetName] 上的工业区将提供 §G+4§!$job_magic_artisan$ 岗位。"
 
  decision_unfocus_industry:0 "§H清除工业焦点§!"
- decision_unfocus_industry_desc:0 "我们在这颗星球上的工业区将重新提供平均的职位。"
+ decision_unfocus_industry_desc:0 "我们在这颗星球上的工业区将重新提供平均的岗位。"
  decision_unfocus_industry_effects:0 " [Root.GetName] 上的工业区将提供 §G+2§! ($job_magic_artisan$, $job_magic_foundry$) 工作。"
 
  decision_no_focus_industry:0 "§H无工业焦点§!"

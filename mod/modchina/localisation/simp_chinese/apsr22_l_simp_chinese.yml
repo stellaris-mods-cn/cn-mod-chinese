@@ -8,7 +8,7 @@
  apsr22_planet_modifier_desc:0 "整个星球都是铸造复合体，是一种古老的文明创造的。 不幸的是，它在很久以前被毁了，但它可以恢复"
  
  apsr22_deposit:0 "$apsr22_planet_modifier$"
- apsr22_deposit_desc:0 "$apsr22_planet_modifier_desc$\n\n§M$apsr22_deposit_effect$§!" 
+ apsr22_deposit_desc:0 "$apsr22_planet_modifier_desc$\n\n§M$apsr22_deposit_effect$§!"
  apsr22_deposit_effect:0 "独特的资源可用: $apsr22_planet_modifier$"
  
  
@@ -134,8 +134,8 @@
  
  ### Аномалия
  
- APSR22_anomaly:0 "有趣的数据"
- APSR22_anomaly_desc:0 "在对[From.GetName]行星表面进行研究期间，我们获得的数据肯定需要进一步调查。"
+ apsr22_anomaly:0 "有趣的数据"
+ apsr22_anomaly_desc:0 "在研究的过程中。我们得到的数据肯定需要进一步调查。"
 
  
  
@@ -164,9 +164,11 @@
  job_apsr22_foundry_machine:0 "铸造单元"
  job_apsr22_foundry_machine_plural:0 "铸造单元"
  job_apsr22_foundry_machine_desc:0 "使用当地远古铸造复合体的力量创造合金的单元"
- mod_job_apsr22_foundry_hive_add:0 "铸造单元"
+ mod_job_apsr22_foundry_machine_add:0 "铸造单元"
  
  
  
  
  
+ APSR22_anomaly:0 "有趣的数据"
+ APSR22_anomaly_desc:0 "在对[From.GetName]行星表面进行研究期间，我们获得的数据肯定需要进一步调查。"

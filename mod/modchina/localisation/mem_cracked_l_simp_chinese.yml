@@ -1,4 +1,4 @@
-﻿
+﻿#Cracked
 #Idea and code by ViolentBeetle
 #Text by anael and ViolentBeetle
 
@@ -25,7 +25,7 @@ l_simp_chinese:
  mem_cracked.3.tooltip:0 "一艘新的§Y科研船§!将加入你的帝国。"
 
  mem_cracked.4.name:0 "失败"
- mem_cracked.4.desc:0 "提取小组误读了对小行星内部活动的调查，并通过不明智的钻探触发了它的彻底毁灭。然而，一艘船确实被困在小行星内。检查它的残骸将提供一些关于这艘奇异的船的迷人的科学数据，这艘船与我们所发现的任何船只或材料都没有关系。"
+ mem_cracked.4.desc:0 "提取小组误读了对小行星内部活动的调查，并通过不明智的钻探触发了它的彻底毁灭。然而，一艘船确实被困在小行星内。检查它的残骸将提供一些关于这艘奇异的船的迷人的科学数据，这艘船与我们所发现的任何飞船或材料都没有关系。"
  mem_cracked.4.a:0 "可能这是更好的结果。"
 
  mem_cracked.5.name:0 "Jack-In-The-Rock"

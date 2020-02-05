@@ -8,7 +8,7 @@
  apsr23_planet_modifier_desc:0 "整个星球是一个古老的文明回收复合体。 不幸的是，它很久以前就被毁了，但它可以恢复"
  
  apsr23_deposit:0 "$apsr23_planet_modifier$"
- apsr23_deposit_desc:0 "$apsr23_planet_modifier_desc$\n\n§M$apsr23_deposit_effect$§!" 
+ apsr23_deposit_desc:0 "$apsr23_planet_modifier_desc$\n\n§M$apsr23_deposit_effect$§!"
  apsr23_deposit_effect:0 "独特的资源可用: $apsr23_planet_modifier$"
  
  
@@ -70,15 +70,15 @@
  
  apsr.23001.title:0 "$apsr23_building_part1$完成"
  apsr.23001.desc:0 "我们已经建造了第一个§Y$apsr23_building_part1$§!，它只是恢复昔日古人荣耀的开始"
- apsr.23001.ok-button:0 "Perfect"
+ apsr.23001.ok-button:0 "完美"
  
  apsr.23002.title:0 "$apsr23_building_part2$完成"
  apsr.23002.desc:0 "我们重建了第一个§Y$apsr23_building_part2$§!!这是该行业和研究古人的真正突破"
- apsr.23002.ok-button:0 "Perfect"
+ apsr.23002.ok-button:0 "完美"
  
  apsr.23003.title:0 "$apsr23_building_part3$完成"
  apsr.23003.desc:0 "我们已经部分恢复§Y远古回收复合体§!并获得了古代工业的成就"
- apsr.23003.ok-button:0 "Perfect"
+ apsr.23003.ok-button:0 "完美"
  
  
  
@@ -164,7 +164,7 @@
  job_apsr23_processing_machine:0 "回收单元"
  job_apsr23_processing_machine_plural:0 "回收单元"
  job_apsr23_processing_machine_desc:0 "使用当地远古回收复合体的力量创造稀有资源的单元"
- mod_job_apsr23_processing_hive_add:0 "回收单元"
+ mod_job_apsr23_processing_machine_add:0 "回收单元"
  
  
  

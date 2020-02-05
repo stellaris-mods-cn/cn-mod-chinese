@@ -9,7 +9,7 @@
  ####################################
  
  trait_inspired:0 "灵感"
- trait_inspired_desc:0 "§L这这一物种的成员有独特的觉悟，而且一直是进步的先锋。可以生成§G尊贵的§!领袖。§!\n" 
+ trait_inspired_desc:0 "§L这一物种的成员有独特的觉悟，而且一直是进步的先锋。可以生成§G尊贵的§!领袖。§!\n" 
  trait_shroudborn:0 "虚境出生"
  trait_shroudborn_desc:0 "§L这一物种在其历史早期就设法与虚境立约。虽然他们付出了代价，但幸存者得到了永生。 §!\n" 
  trait_dynamic:0 "动态"

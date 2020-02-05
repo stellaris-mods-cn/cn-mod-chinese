@@ -1,4 +1,4 @@
-﻿
+﻿#Rubicon
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -44,7 +44,7 @@ l_simp_chinese:
   mem_rubicon_worldmender_key:0 ""
 
  #Components
- MEM_RUBICON_UP_BEAM:0 "鲁比德的横梁"
+ MEM_RUBICON_UP_BEAM:0 "卢比肯UP轴基武器"
  MEM_RUBICON_DROD:0 "卢比肯DROD发射器"
  MEM_RUBICON_WORLDMENDER_GUN:0 "世界修缮者大炮"
  MEM_RUBICON_AUX_MODULE:0 "世界修缮者缓存技术"
@@ -52,68 +52,70 @@ l_simp_chinese:
 
  #Events
  mem_rubicon.1.name:0 "卢比肯星系"
- mem_rubicon.1.desc:0 "我们发现了大量不友好的舰船，它们的设计不同寻常，在有大量古老战斗残骸的§Y[From.GetName]§!星系中巡逻。 \n\n临时的命名为“§Y卢比肯§!”它们似乎主要集中在密集的小行星带周围，好像是在保护什么东西。"
+ mem_rubicon.1.desc:0 "我们发现了大量不友好的舰船，它们的设计不同寻常，在有大量古老战斗残骸的§Y[From.GetName]§!星系中巡逻。 \n\n星系临时的命名为“§Y卢比肯§!”，这些舰船主要集中在密集的小行星带周围，好像是在保护什么东西。"
  mem_rubicon.1.a:0 "我们应该监视形势。"
 
  mem_rubicon_core_category:0 "隐蔽的船"
- mem_rubicon_core_category_desc:0 "在密集的残骸区域深处可以探测到大型惰性容器的轮廓。"
+ mem_rubicon_core_category_desc:0 "在密集的残骸区域深处可以探测到大型船体的轮廓。"
 
  mem_rubicon.2.name:0 "隐蔽的船"
- mem_rubicon.2.desc:0 "[Leader.GetName]报告说，[Leader.GetSheHe] [Leader.GetHasHave]确认了在行星碎片领域最密集的区域内存在一艘未知舰船。 \n\n初步观察表明，它停在一块大石头旁边，目前是安全的，但由于环境危险，它不可能安全地移动出来。"
+ mem_rubicon.2.desc:0 "[Leader.GetName]报告说，[Leader.GetSheHe] [Leader.GetHasHave]确认了在行星碎片领域最密集的区域内存在一艘未知舰船。\n\n初步观察表明，它停在一块大石头旁边，目前是安全的，但由于环境危险，它不可能安全地移动出来。"
  mem_rubicon.2.a:0 "我们应该继续监控它。"
- mem_rubicon.2.a.tooltip:0 "增加 §S$mem_rubicon_hidden_ship$§! 到 §Y[From.GetName]§!: \n£engineering  工程学 §G+6§!. \n建立一个§S研究站§!来了解更多。"
+ mem_rubicon.2.a.tooltip:0 "添加§S$mem_rubicon_hidden_ship$§!到§Y[From.GetName]§!：\n£engineering£§G+6§!\n建造一个§S研究站§!来了解更多。"
 
  mem_rubicon_hidden_ship:0 "隐蔽的船"
- mem_rubicon_hidden_ship_desc:0 "一艘船藏在厚厚的残骸深处。 \n\n§L建造一个§S科研站§L来了解更多。§!"
+ mem_rubicon_hidden_ship_desc:0 "一艘船藏在厚厚的残骸深处。\n\n§L建造一个§S研究站§L来了解更多。§!"
 
  mem_rubicon.4.name:0 "机会之窗"
- mem_rubicon.4.desc:0 "在观察了§Y[From.GetName]§!一段时间后，我们的科学家制定了一项计划，在密集的残骸区域航行并进入隐藏的船只。 \n\n这将是有风险的，但初步报告表明，那里隐藏着高度先进的技术。"
+ mem_rubicon.4.desc:0 "在观察了§Y[From.GetName]§!一段时间后，我们的科学家制定了一项计划，在密集的残骸区域航行并进入隐藏的飞船。 \n\n这将是有风险的，但初步报告表明，那里隐藏着高度先进的技术。"
  mem_rubicon.4.a:0 "去吧。"
 
  MEM_RUBICON_EXPEDITION:0 "隐蔽的船"
- MEM_RUBICON_EXPEDITION_DESC:0 "一艘船隐藏在被指定为§Y[mem_rubicon_core_planet.GetName]§!的残骸区域深处。通过精确的定时和灵活的导航，我们应该能够到达它。"
+ MEM_RUBICON_EXPEDITION_DESC:0 "一艘船隐藏在§Y[mem_rubicon_core_planet.GetName]§!的残骸区域深处。通过精确的定时和灵活的导航，我们应该能够去到那里。"
 
  mem_rubicon.5.name:0 "世界修缮者"
- mem_rubicon.5.desc:0 "科学家[Leader.GetName]在[Root.GetName]上报告说，[Leader.GetHerHis]小组已经成功地在§Y[mem_rubicon_core_planet.Solar_System.GetName]§!星系中穿过密集的碎片区域，并登上了隐藏在其中的惰性船只。 \n\n这艘船的历史非常悠久，估计有几千年到几十万年的历史。船上的大多数设备和数据核心由于老化和碎片的影响而丢失。然而，我们设法收集到的东西仍然很吸引人。这艘船似乎是一种称为“世界修理工”的陆空两用船。它最初搭载着大量的船员和大量的乘客，目前在一个名为“舰队头脑”的人工智能单位的监督下保存。 \n\n整个世界都被破坏得无法逃脱，但在我们的帮助下，它的一部分可能会逃脱。"
+ mem_rubicon.5.desc:0 "科学家[Leader.GetName]在关于[Root.GetName]的报告上说，[Leader.GetHerHis]的小组已经成功地在§Y[mem_rubicon_core_planet.Solar_System.GetName]§!星系中穿过密集的碎片区域，并登上了隐藏在其中的废弃飞船。 \n\n这艘船的历史非常悠久，估计经历几千年到几十万年。船上的大多数设备和数据核心由于老化和碎片的影响而丢失。然而，我们设法收集到的东西仍然很吸引人。这艘船似乎是一种称为“世界修缮者”的陆空两用船。它最初搭载着大量的船员和大量的乘客，目前在一个名为“舰队头脑”的人工智能单位的监督下保存。 \n\n“世界修缮者”好受损严重无法脱出，但在我们的帮助下，它的一部分可以脱出。"
  mem_rubicon.5.a:0 "保存必要的战舰模块。"
- mem_rubicon.5.a.tooltip:0 "一艘强大的新船将加入我们的海军，以及一个§S海军上将AI§!。 \n只要舰船在我们手中，我们就能享受到§Y$mem_rubicon_mender_archives$§!的加成。"
+ mem_rubicon.5.a.tooltip:0 "一艘强大的新船将加入我们的海军，以及一个§S$admiral$AI§!。\n只要舰船在我们手中，我们就能享受到§Y$mem_rubicon_mender_archives$§!的加成。"
  mem_rubicon.5.b:0 "拯救战舰模块，消灭AI。"
- mem_rubicon.5.b.tooltip:0 "一艘强大的新船将加入我们的海军。 \n只要舰船在我们手中，我们就能享受到§Y$mem_rubicon_mender_archives$§!的加成。"
- mem_rubicon.5.c:0 "激活地貌改造系统。"
- mem_rubicon.5.c.tooltip:0 "如果我们重新启动系统，我们就会失去这艘船。它将被用来将碎片场修复成一个真实的行星。"
- mem_rubicon.5.c.tooltip.gaia:0 "一个§G盖亚星球§!将诞生。"
- mem_rubicon.5.c.tooltip.regular:0 "一个§S普通星球§!将诞生。"
- mem_rubicon.5.c.tooltip.tomb:0 "一个§L坟墓星球§!将诞生。"
- mem_rubicon.5.c.tooltip.barren:0 "一个§R贫瘠星球§!将诞生。"
+ mem_rubicon.5.b.tooltip:0 "一艘强大的新船将加入我们的海军。\n只要舰船在我们手中，我们就能享受到§Y$mem_rubicon_mender_archives$§!的加成。"
+ mem_rubicon.5.c:0 "重新激活地貌改造系统。"
+ mem_rubicon.5.c.tooltip:0 "如果我们重新启动系统，我们就会失去这艘船。它将被用来将四分五碎的$pc_shattered$修复成一个完整的星球。"
+ mem_rubicon.5.c.tooltip.gaia:0 "一个§G$pc_gaia$§!将诞生。"
+ mem_rubicon.5.c.tooltip.regular:0 "一个§S$NUM_HABITABLE_WORLDS$§!将诞生。"
+ mem_rubicon.5.c.tooltip.tomb:0 "一个§L$pc_nuked$§!将诞生。"
+ mem_rubicon.5.c.tooltip.barren:0 "一个§R$pc_barren_cold$§!将诞生。"
  mem_rubicon.5.d:0 "访问飞船创建者的数据。"
- mem_rubicon.5.d.response:0 "这艘船属于一个被简单地称为§S修缮者§!的文明。他们意识形态的核心信条似乎是“生态至上”，也就是说，他们相信自己家园的自然生态系统比银河系的任何其他生态系统都优越。几代人以来，他们对本土生物肆意妄为，大肆改造，常常破坏整个星球的生物圈，重新塑造。有时，他们甚至会用所谓的“世界修缮者”(Worldmender ships)领导的舰队，将行星拆解并重组，以符合他们的理想。"
+ mem_rubicon.5.d.response:0 "这艘船属于一个被简单地称为§S修缮者§!的文明。他们意识形态的核心信条似乎是“生态至上”，也就是说，他们相信自己家园的自然生态系统比银河系的任何其他生态系统都优越。几代人以来，他们对本土生物肆意妄为，大肆改造，常常破坏整个星球的生物圈，重新塑造。有时，他们甚至会用所谓的“世界修缮者”领导的舰队，将行星拆解并重组，以符合他们的理想。"
  mem_rubicon.5.e:0 "找出更多的原因导致他们消失。"
- mem_rubicon.5.e.response:0 "有关修缮者政治背景的信息很少，但他们倒台的历史似乎很清楚。 \n\n在修缮者们大肆改造土地之后，一个文明发现自己陷入了困境，显然是依赖于一个高度自动化的隐蔽船厂网络，尽管它们的世界很快就被改造成了修缮者们设计的花园，但仍有几个这样的船厂保留了下来。 \n\n在他们的主人灭绝大约一个世纪后，成群的无人机出现在扩张过度、自满的修缮者帝国的边界，以绝对数量压倒了他们的舰队。曾经消灭了它们创造者的修缮者们发现自己受到无人机的摆布，很快被迫撤退到一个隐蔽的基地。尽管他们尽了最大的努力，敌人还是不断在追踪他们，摧毁了他们的无敌舰队和星球。"
+ mem_rubicon.5.e.response:0 "有关修缮者政治背景的信息很少，但关于他们消失的历史似乎很清楚。\n\n在一次战争中，修缮者们将一个文明逼入绝境，而这个文明主要依赖于一种高度自动化的隐蔽船坞网络来作战。尽管这个文明战败后，他们居住的星球很快就被改造成了修缮者们设计的花园，但仍有几个这样的自动化船坞保留了下来。 \n\n在它们的主人灭绝大约一个世纪后，成群的无人机出现在扩张过度、自满的修缮者帝国边界，以绝对数量压倒了他们的舰队。曾经消灭了它们创造者的修缮者们发现自己只能任由无人机摆布，很快被迫撤退到一个隐蔽的基地。尽管他们尽了最大的努力，敌人还是不断在追踪他们，摧毁了他们的无敌舰队和星球。"
  mem_rubicon.5.f:0 "进入最终报告。"
- mem_rubicon.5.f.response:0 "在这里，在[mem_rubicon_core_planet.Solar_System.GetName]星系中，修缮者在他们的毁灭中，最后一次对抗机器。这里曾经是一个很有前途的地貌改造项目的所在地，现在却成了他们的终点。\n\n由因为失败似乎是不可避免的，严重破坏的旗舰被潜在一个行星的半成形的外壳中，并被它的看守者AI所隐藏、操作和维护。由于无法追踪，无人机一直在星系中保持警惕。随着时间的推移，幸存的无人机似乎被银河探险者指定为§S卢比肯§!，他们没有意识到自己真正的目标。"
+ mem_rubicon.5.f.response:0 "在这里，在[mem_rubicon_core_planet.Solar_System.GetName]星系中，修缮者们最后一次抵抗那些一心要毁灭他们的机器。这里曾经是一个很有前途的$PLANETVIEW_TERRAFORM$项目的所在地，现在却成了他们的终点站。\n\n失败是不可避免的，严重破坏的旗舰被潜藏在这个星球半成形的外壳中，并被它的看守AI所隐藏、操作和维护。由于无法追踪，无人机一直在星系中保持警惕。随着时间的推移，幸存的无人机就被那些银河探险者称为§S卢比肯§!。"
 
  mem_rubicon_mender_archives:0 "修缮者档案"
- mem_rubicon_mender_archives_desc:0 "修缮者数据库包含了大量的地貌改造方面的知识，我们仍然无法离开现场。 \n§T如果我们要保留这些数据，我们就不能失去这艘船。§!"
+ mem_rubicon_mender_archives_desc:0 "修缮者数据库包含了大量的地貌改造方面的知识，我们仍然无法转移到其他地方。 \n§T如果我们要保留这些数据，我们就不能失去这艘船。§!"
 
- mem_trait_rubicon_mender:0 "修缮者思想"
- mem_trait_rubicon_mender_desc:0 "这个AI结构被设计用来引导修缮者舰队投入战斗，并通过重建他们想象中的另一个世界来实现它。如今，它被重新定义为领导一支不同的舰队。"
+ trait_mem_rubicon_mender:0 "修缮者思维"
+ trait_mem_rubicon_mender_desc:0 "这个人工智能的设计是为了带领修缮者舰队进入战斗，并通过图像看到他们改造后的另一个世界。如今，它已被修改来领导一支不同的舰队。"
 
  mem_rubicon.6.name:0 "星球修缮成功"
- mem_rubicon.6.desc:0 "§Y[mem_rubicon_core_planet.GetName]§!已经成功地转变为一个盖亚星球。 \n\n修缮者们梦想着有希望的土地在他们灭绝几千年后依然存在。"
+ mem_rubicon.6.desc:0 "§Y[mem_rubicon_core_planet.GetName]§!已经成功地转变为一个$pc_gaia$。 \n\n修缮者们对乐土的追求在他们消失的几千年后依然存在。"
 
  mem_rubicon.7.name:0 "行星修缮完成"
- mem_rubicon.7.desc:0 "看来，地貌改造设备造成的破坏过于严重，无法充分发挥其潜力，但§Y[mem_rubicon_core_planet.GetName]§!已经成功地转变为一个宜居世界。 \n\n修缮者们对希望之乡的梦想在他们灭绝几千年后依然存在，尽管有些黯淡。"
+ mem_rubicon.7.desc:0 "看来，地貌改造设备造成的破坏过于严重，无法充分发挥其潜力，但§Y[mem_rubicon_core_planet.GetName]§!已经成功地转变为一个宜居世界。\n\n修缮者们对乐土的追求在他们消失的几千年后依然存在，尽管有些黯淡。"
  mem_rubicon.7.a:0 "可能是最好的。"
 
  mem_rubicon.8.name:0 "缺陷星球修缮"
- mem_rubicon.8.desc:0 "看来改造设备的损坏太严重了。§Y[mem_rubicon_core_planet.GetName]§!已经成功地变成了一个适宜居住的星球，但是大量的辐射泄漏使它无法适宜居住。 \n\n修缮者们对希望之地的梦想还没有完全实现。"
- mem_rubicon.8.a:0 "至少它能在一起。"
+ mem_rubicon.8.desc:0 "看来改造设备的损坏太严重了。§Y[mem_rubicon_core_planet.GetName]§!已经成功地变成了一个适宜居住的星球，但是大量的辐射泄漏使它无法适宜居住。 \n\n修缮者们对乐土的追求还没有完全实现。"
+ mem_rubicon.8.a:0 "至少它能合在一起。"
 
  mem_rubicon.9.name:0 "行星修缮失败"
- mem_rubicon.9.desc:0 "看来改造设备的损坏太严重了。§Y[mem_rubicon_core_planet.GetName]§!虽然已经融合在一起，但所有本应使这片巨大的岩石适于居住的系统并没有产生预期的结果。 \n\n修理工们对希望之地的梦想彻底破灭了。"
+ mem_rubicon.9.desc:0 "看来改造设备的损坏太严重了。§Y[mem_rubicon_core_planet.GetName]§!虽然已经融合在一起，但所有本应使这片巨大的岩石适于居住的系统并没有产生预期的结果。 \n\n修缮者的乐土之梦彻底破灭了。"
  mem_rubicon.9.a:0 "令人失望。"
 
  mem_rubicon_mended_ecosystem:0 "修缮者生态系统"
  mem_rubicon_mended_ecosystem_desc:0 "这里的生态系统是按照早已逝去的“行星修缮者”的蓝图从头开始建造的。一切都处于完美的平衡之中。"
 
  mem_rubicon_country_buff:0 "卢比肯"
+ mem_trait_rubicon_mender:0 "修缮者思想"
+ mem_trait_rubicon_mender_desc:0 "这个AI结构被设计用来引导修缮者舰队投入战斗，并通过重建他们想象中的另一个世界来实现它。如今，它被重新定义为领导一支不同的舰队。"

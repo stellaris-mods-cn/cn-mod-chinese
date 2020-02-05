@@ -1,9 +1,26 @@
 ﻿l_simp_chinese:
 
+ ##########################
+ ### Starbase Buildings ###
+ ##########################
+ sm_gt_trading_company_offices:0 "贸易公司办公室"
+ sm_gt_trading_company_offices_desc:0 "办公室为许多私营企业的贸易跨越所有已知的空间。"
+ 
+ sm_gt_bounty_hunter_office:0 "赏金猎人办公室"
+ sm_gt_bounty_hunter_office_desc:0 "专门负责赏金猎人合同和赏金支付的办公室。"
 
  ###################
  ###### MODS #######
  ###################
+
+ mod_weapon_role_artillery_weapon_damage_mult:0 "火炮武器伤害"
+ mod_weapon_role_artillery_weapon_fire_rate_mult:0 "火炮武器攻击速度"
+ mod_weapon_role_anti_hull_weapon_damage_mult:0 "反船体武器伤害"
+ mod_weapon_role_anti_hull_weapon_fire_rate_mult:0 "反船体武器攻击速度"
+ mod_weapon_role_anti_shield_weapon_damage_mult:0 "反护盾武器伤害"
+ mod_weapon_role_anti_shield_weapon_fire_rate_mult:0 "反护盾武器攻击速度"
+ mod_weapon_role_anti_armor_weapon_damage_mult:0 "反装甲武器伤害"
+ mod_weapon_role_anti_armor_weapon_fire_rate_mult:0 "反装甲武器攻击速度"
 
  mod_megastructures_physics_research_produces_mult:0 "巨型建筑£physics_research£物理学研究产出"
  mod_megastructures_society_research_produces_mult:0 "巨型建筑£society_research£社会学研究产出"
@@ -69,7 +86,7 @@
  mod_planet_districts_minerals_cost_add:0 "区划£minerals£矿物成本"
  
  mod_damage_vs_country_type_pirate_mult:0 "对海盗的伤害"
- 
+
  mod_starbase_buildings_alloys_cost_add:0 "恒星基地建筑£alloys£合金成本"
  mod_starbase_modules_alloys_cost_add:0 "恒星基地模块£alloys£合金成本"
  
@@ -99,7 +116,7 @@
  GT_damage_vs_country_type_crystal_mult_desc:0 "将这种材料加入到我们的二级武器中，可以让它们轻松地燃烧通过晶体外壳。"
  #07 - ship increased damage versus mining drones
  GT_damage_vs_country_type_drone_mult:0  "采矿无人机研究"
- GT_damage_vs_country_type_drone_mult_desc:0 "拆除一架采矿无人机已经导致了先进激光技术的发展，这种激光技术可以穿透这些船只通常使用的船体。"
+ GT_damage_vs_country_type_drone_mult_desc:0 "拆除一架采矿无人机已经导致了先进激光技术的发展，这种激光技术可以穿透这些飞船通常使用的船体。"
  #08 - ship increased damage versus energy-cloud creatures
  GT_damage_vs_country_type_cloud_mult:0  "不稳定领域"
  GT_damage_vs_country_type_cloud_mult_desc:0 "微粒子被释放到一个区域，当能量云穿过该区域时，会破坏其核心的稳定性。"
@@ -132,7 +149,7 @@
  ## ships ##
  #17 - cheaper 科研船s
  GT_ship_science_ship_build_cost_mult:0  "柔性塑料合金"
- GT_ship_science_ship_build_cost_mult_desc:0 "一种灵活耐用的金属，利用一些较便宜的材料生产。虽然不适合用于战争，但民用船只可以变得更便宜。"
+ GT_ship_science_ship_build_cost_mult_desc:0 "一种灵活耐用的金属，利用一些较便宜的材料生产。虽然不适合用于战争，但民用飞船可以变得更便宜。"
  #18 - faster 科研船 building
  GT_shipsize_science_build_speed_mult:0  "科学港湾"
  GT_shipsize_science_build_speed_mult_desc:0 "船厂配备专门的科学、研究和开发海湾，使科研船的生产速度提高，同时仍允许充足的军用船的生产。"
@@ -144,7 +161,7 @@
  GT_shipclass_mining_station_hull_mult_desc:0 "双层织物与聚乙烯和聚氯乙烯为基础的聚合物交织，注入船体电镀提高了他们的效率，以保护空间站经常轨道有害环境。"
 
  GT_shipclass_research_station_hull_mult:0  "强制镉外壳"
- GT_shipclass_research_station_hull_mult_desc:0 "在军用船只上使用太过笨重，采矿和研究站将从三层镉加固的船体中受益良多。"
+ GT_shipclass_research_station_hull_mult_desc:0 "在军用飞船上使用太过笨重，采矿和研究站将从三层镉加固的船体中受益良多。"
 
  #21 - defense platform船体值 bonus
  GT_shipclass_military_station_hull_mult:0  "舷墙板"
@@ -236,7 +253,7 @@
  GT_large_weapon_fire_rate_mult_desc:0 "先进的磁流体动力加速器安装在我们的大型武器系统上，大大减少了产生的热量，同时大大提高了它们的最大功率。"
  #37 - ship torpedo weapons fire rate bonus
  GT_torpedo_weapon_fire_rate_mult:0 "扩大鱼雷舱"
- GT_torpedo_weapon_fire_rate_mult_desc:0 "这些扩大的存储和发射海湾允许船只以速度和效率发射他们的全部鱼雷。"
+ GT_torpedo_weapon_fire_rate_mult_desc:0 "这些扩大的存储和发射海湾允许飞船以速度和效率发射他们的全部鱼雷。"
  #38 - 鱼雷飞行速度 bonus
  GT_torpedo_speed_mult:0 "先进鱼雷制导系统"
  GT_torpedo_speed_mult_desc:0 "将微型化的计算机管理虚拟智能集成到鱼雷发动机中，可以实现更精确的机动，从而实现高效的燃料使用和鱼雷快速有效机动。"
@@ -296,7 +313,7 @@
  ## stations ##
  #54 - starbase shipyard建造速度 bonus
  GT_starbase_shipyard_build_speed_mult:0 "中央造船厂综合体"
- GT_starbase_shipyard_build_speed_mult_desc:0 "星际帝国的造船需求无限制。 这些巨大的造船厂在其家庭区域内蔓延，利用所有可用的材料和供应线以惊人的速度生产船只。"
+ GT_starbase_shipyard_build_speed_mult_desc:0 "星际帝国的造船需求无限制。 这些巨大的造船厂在其家庭区域内蔓延，利用所有可用的材料和供应线以惊人的速度生产飞船。"
  #55 - 采矿站 construction speed bonus
  GT_shipsize_mining_station_build_speed_mult:0 "建筑拖船"
  GT_shipsize_mining_station_build_speed_mult_desc:0 "中型自动化船舶，可以承载很大的重量以及建造设施。当与工程船配对时，他们可以协助建立采矿站的速度。"

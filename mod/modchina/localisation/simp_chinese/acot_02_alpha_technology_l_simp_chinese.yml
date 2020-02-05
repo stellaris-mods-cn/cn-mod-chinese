@@ -1,0 +1,559 @@
+﻿l_simp_chinese:
+
+### SHIP TEXTS
+BASE_COMBAT_COMPUTER_COLOSSUS_AE: "仿生巨像计算机"
+BASE_COMBAT_COMPUTER_COLOSSUS_AE_DESC: "黑暗在召唤。"
+
+HERCULEAN_COMBAT_COMPUTER_AE: "仿生接口超级计算机"
+HERCULEAN_COMBAT_COMPUTER_AE_DESC: "这艘先进的舰艇使用了一种独特的战斗计算机，与船员形成了仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+
+################################################
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_CRACKER: "准备碎裂$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_SHIELDER: "准备禁锢$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NUKE: "准备核爆$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NEUTRON: "准备清扫$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_GODRAY: "准备感召$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_HYPNOSIS: "准备操控$PLANET|Y$"
+ FLEETORDER_DESTROY_PLANET_WITH_ACOT_PLANET_KILLER_NANOBOTS: "准备植入$PLANET|Y$"
+
+ ACOT_PLANET_KILLER_CRACKER: "α世界爆破"
+ ACOT_PLANET_KILLER_CRACKER_ACTION: "裂痕"
+ ACOT_PLANET_KILLER_CRACKER_DESC: "热能直接供给会使大气过热，并搅动行星的核心，引发灾难性的构造事件。最后一个相对较小的震荡冲击波被释放出来，将星球炸开。"
+ ACOT_PLANET_KILLER_SHIELDER: "α全球平息"
+ ACOT_PLANET_KILLER_SHIELDER_ACTION: "安抚"
+ ACOT_PLANET_KILLER_SHIELDER_DESC: "一个屏蔽场被部署在行星周围，形成一个永久的、不可穿透的屏障(除了某些波长的光)。"
+ ACOT_PLANET_KILLER_NEUTRON: "α中子淋浴"
+ ACOT_PLANET_KILLER_NEUTRON_ACTION: "淋浴"
+ ACOT_PLANET_KILLER_NEUTRON_DESC: "加速的中子辐射柱“淋浴”了行星表面，严重地降解了大多数材料，并直接破坏了生物组织。"
+ ACOT_PLANET_KILLER_GODRAY: "α神圣执行"
+ ACOT_PLANET_KILLER_GODRAY_ACTION: "照耀"
+ ACOT_PLANET_KILLER_GODRAY_DESC: "灵能投射者将神圣的真理照耀到世界上，使所有有能力相信的人成为真正的信徒，并消灭那些没有能力相信的人。"
+ ACOT_PLANET_KILLER_NANOBOTS: "α纳米扩散"
+ ACOT_PLANET_KILLER_NANOBOTS_ACTION: "改造"
+ ACOT_PLANET_KILLER_NANOBOTS_DESC: "成群的纳米机器人分散在大气中。他们感染了智慧生物，并将自己改造成可控制的植入物，把他们不知情的宿主变成了机器机器人。"
+
+tech_dm_world_cracker: "先进弑星者镜头"
+tech_dm_world_cracker_desc: "在行星炮的光束上加上额外的聚焦透镜可以大大缩短超级武器的充能时间。"
+tech_dm_global_pacifier: "先进诱导电容器"
+tech_dm_global_pacifier_desc: "安装额外的α反应堆将大大提高诱导电容器的充电时间。"
+tech_dm_neutron_sweep: "先进中子辐射器"
+tech_dm_neutron_sweep_desc: "用额外的中子辐射器升级中子武器将大大增加它的充能时间。"
+tech_dm_divine_enforcer: "先进灵能放大器"
+tech_dm_divine_enforcer_desc: "用强大的灵能放大器放大神圣强制器将使武器更快地执行其充电序列。"
+tech_dm_nanobot_diffuser: "先进纳米机器人"
+tech_dm_nanobot_diffuser_desc: "利用先进的硬光技术快速生产纳米机器人将大大提高纳米武器的充电速度。"
+
+
+################################################
+
+PAC_COMBAT_COMPUTER_DEFENSE_AE: "仿生接口作战计算机 (机动回避)"
+PAC_COMBAT_COMPUTER_DEFENSE_AE_DESC: "这艘先进的舰艇利用了一种独特的战斗计算机，与船员和所有的攻击艇形成了仿生连接。"
+
+PAC_COMBAT_COMPUTER_OFFENSE_AE: "仿生接口作战计算机 (静止)"
+PAC_COMBAT_COMPUTER_OFFENSE_AE_DESC: "这艘先进的舰艇利用了一种独特的战斗计算机，与船员和所有的攻击艇形成了仿生连接。"
+
+
+### WEAPONS CHECK OK #####
+SMALL_ACOT_LASER_AE: "小型α激光器"
+MEDIUM_ACOT_LASER_AE: "中型α激光器"
+LARGE_ACOT_LASER_AE: "大型α激光器"
+ACOT_LASER_AE: "α激光器"
+ACOT_LASER_AE_DESC: "对δ激光器聚焦透镜的额外校准使我们能够开发α激光，它对装甲层更致命。这证明了我们在暗能量操纵方面的精通。"
+tech_laser_ae: "α激光器"
+tech_laser_ae_desc: "对δ激光聚焦透镜的额外校准使我们能够开发α激光，它对装甲层更致命。这证明了我们在暗能量操纵方面的精通。"
+
+
+SMALL_ACOT_PLASMA_AE: "小型日蚀等离子炮"
+MEDIUM_ACOT_PLASMA_AE: "中型日蚀等离子炮"
+LARGE_ACOT_PLASMA_AE: "大型日蚀等离子炮"
+ACOT_PLASMA_AE: "日蚀等离子炮"
+ACOT_PLASMA_AE_DESC: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+tech_plasma_ae: "日蚀等离子炮"
+tech_plasma_ae_desc: "随着暗能量技术的进步，我们可以制造出一种更致命的暗物质等离子体，它的体积更大，破坏力更强。"
+
+
+SMALL_ACOT_DISRUPTOR_AE: "小型摆式干扰器"
+MEDIUM_ACOT_DISRUPTOR_AE: "中型摆式干扰器"
+ACOT_DISRUPTOR_AE: "摆式干扰器"
+ACOT_DISRUPTOR_AE_DESC: "摆式干扰器用比它的前辈更强大的暗能量射线来炸毁敌船。"
+tech_disruptor_ae: "摆式干扰器"
+tech_disruptor_ae_desc: "摆式干扰器用比它的前辈更强大的暗能量射线来炸敌船。"
+
+ACOT_ENERGY_TORPEDO_AE: "暴风雨发射器"
+ACOT_ENERGY_TORPEDO_AE_DESC: "暴风雨发射器能发射出更大数量的外来物质，这将破坏主要的舰船系统并融化所有的物质。"
+tech_energy_torpedo_ae: "暴风雨发射器"
+tech_energy_torpedo_ae_desc: "暴风雨发射器能发射出更大数量的外来物质，这将破坏主要的舰船系统并融化所有的物质。"
+
+
+ACOT_POINT_DEFENSE_AE: "代达罗斯点防御"
+ACOT_POINT_DEFENSE_AE_DESC: "看……导弹! ？ ？导弹？ ？ ？ !我们的敌人躲在导弹袭击后面!!§R懦夫!傻瓜!§!。我们. .我们应该带走…他们的导弹....\n\n导弹袭击! .......从他们。"
+tech_point_defense_ae: "代达罗斯点防御"
+tech_point_defense_ae_desc: "看导弹……!？？ 导弹？？？! 我们的敌人躲在导弹袭击的后面!! §R懦夫!傻瓜!§!. 我们……我们应该把……他们的导弹....\n\n导弹袭击!.......从他们那里。"
+
+
+SMALL_ACOT_MASS_DRIVER_AE: "小型钻心炮"
+MEDIUM_ACOT_MASS_DRIVER_AE: "中型钻心炮"
+LARGE_ACOT_MASS_DRIVER_AE: "大型钻心炮"
+ACOT_MASS_DRIVER_AE: "钻心炮"
+ACOT_MASS_DRIVER_AE_DESC: "升级版攻城炮，钻心炮炮利用内置暗物质生成器进一步提高炮弹效率，让它轻松穿透盾牌。"
+tech_mass_driver_ae: "钻心炮"
+tech_mass_driver_ae_desc: "升级版攻城炮，钻心炮炮利用内置暗物质生成器进一步提高炮弹效率，让它轻松穿透盾牌。"
+
+ACOT_AUTOCANNON_AE: "收割者自动炮"
+ACOT_AUTOCANNON_AE_DESC: "该武器用它恶魔般的火力摧毁敌舰的外壳和护盾。"
+tech_autocannons_ae: "收割者自动炮"
+tech_autocannons_ae_desc: "该武器用它恶魔般的火力摧毁敌舰的外壳和护盾。 "
+
+ACOT_ARTILLERY_AE: "天启火炮"
+ACOT_ARTILLERY_AE_DESC: "天启火炮使用了一种更强的硬光材料，使我们的优秀设计成为可能。这个新模型几乎消除了旧型火炮的所有弱点。"
+tech_kinetic_artillery_ae: "天启火炮"
+tech_kinetic_artillery_ae_desc: "天启炮使用了一种更强的硬光材料，使我们的优越设计成为可能。这个更新的模板消除了几乎所有以前的攻击技能的弱点。"
+
+
+ACOT_FLAK_CANNON_AE: "地狱防御矩阵"
+ACOT_FLAK_CANNON_AE_DESC: "地狱防御矩阵配备有先进的仿生传感器。我们先进的电脑和12级智能炮手之间的精神联系使得地狱烈焰的瞄准和追踪精准到致命。"
+tech_flak_batteries_ae: "地狱防御矩阵"
+tech_flak_batteries_ae_desc: "地狱防御矩阵是配备有先进的仿生传感器。我们先进的电脑和12级智能炮手之间的精神联系使得地狱烈焰的瞄准和追踪精准到致命。"
+
+
+ACOT_MISSILE_AE: "黎明导弹"
+ACOT_MISSILE_AE_DESC: "黎明导弹利用微型化的暗能量作为弹头，使其优于老一代。推进器的改进也大大提高了速度。"
+tech_missile_ae: "黎明导弹"
+tech_missile_ae_desc: "黎明导弹利用微型化的暗能量作为弹头，使其优于老一代。推进器的改进也大大提高了速度。"
+
+
+ACOT_TORPEDO_AE: "离去鱼雷"
+ACOT_TORPEDO_AE_DESC: "相对于悖论鱼雷的改进，离去鱼雷能够对敌人的舰队编队造成巨大破坏。"
+tech_torpedo_ae: "离去鱼雷"
+tech_torpedo_ae_desc: "悖论鱼雷的改进型，离去鱼雷能够对敌人的舰队编队造成巨大破坏，这些编队拥有非常强大的精练暗能量弹头和硬轻质材料。"
+
+
+ACOT_SWARMER_MISSILES_AE: "路西法集群导弹"
+ACOT_SWARMER_MISSILES_AE_DESC: "路西法集群导弹使用了一个非常古老的未知起源的先驱者数据的原型计算机系统，而它要比仿生传感器优秀。"
+tech_swarmer_missile_ae: "路西法集群导弹"
+tech_swarmer_missile_ae_desc: "路西法集群导弹利用基于原型计算系统从极其古老的前体来历不明的日期，优于仿生传感器。"
+
+
+ACOT_PARTICLE_LANCE_AE: "暮光光矛"
+ACOT_PARTICLE_LANCE_AE_DESC: "我们对暗物质和能量的改良使我们能够制造出更强的暗能量光矛。敌人将在暮光光矛的灼热能量下燃烧。"
+tech_energy_lance_ae: "暮光光矛"
+tech_energy_lance_ae_desc: "我们对暗物质和能量的改良使我们能够制造出更强的暗能量光矛。敌人将在暮光光矛的灼热能量下燃烧。"
+
+
+ACOT_ARC_EMITTER_AE: "新星发射器"
+ACOT_ARC_EMITTER_AE_DESC: "新星发射器是改进后的暗能量发射器，其可怕的光穿透敌人的舰队就像风暴云遮蔽的天空我们的家园。"
+tech_arc_emitter_ae: "新星发射器"
+tech_arc_emitter_ae_desc: "新星发射器是改进后的暗能量发射器，其可怕的光穿透敌人的舰队就像风暴云遮蔽的天空我们的家园。"
+
+
+ACOT_MASS_ACCELERATOR_AE: "α巨炮"
+ACOT_MASS_ACCELERATOR_AE_DESC: "由于我们在硬光和暗物质技术上的完美，α巨炮使用了一个更大的旋转火炮平台。即使是最先进的护盾也经不起这个庞然大物的直接攻击。"
+tech_mass_accelerator_ae: "α质量加速炮"
+tech_mass_accelerator_ae_desc: "α巨炮使用更大的轴基炮台，我们在硬光和暗物质技术上的完美融合使其成为可能。即使是最先进的护盾也经不起这个庞然大物的直接攻击。"
+
+
+ACOT_PERDITION_BEAM_AE: "征服者光线"
+ACOT_PERDITION_BEAM_AE_DESC: "和它的名字一样，征服者光线发射了一束最大输出的暗能量光束，它将彻底摧毁整艘船。"
+tech_perdition_beam_ae: "征服者光线"
+tech_perdition_beam_ae_desc: "和它的名字一样，征服者光线发射了一束最大输出的暗能量光束，它将彻底摧毁整艘船。"
+
+
+ACOT_FIGHTERS_HANGAR_AE: "恶魔拦截机"
+ACOT_FIGHTERS_HANGAR_AE_DESC: "在先驱者的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的先驱者设计完全不同。但预计的业绩非常高。"
+ACOT_BOMBERS_HANGAR_AE: "复仇者轰炸机"
+ACOT_BOMBERS_HANGAR_AE_DESC: "在先驱者的文件中，有一个非常先进的攻击机的未知蓝图，它与我们熟悉的先驱者设计完全不同。但预计的期望非常高。"
+ACOT_GUNSHIP_HANGAR_AE: "雅典娜炮艇"
+ACOT_GUNSHIP_HANGAR_AE_DESC: "雅典娜炮艇是一种特殊的突击艇，擅长用远程火力支援大型舰船。"
+tech_strike_craft_bomber_ae: "先驱舰载机"
+tech_strike_craft_bomber_ae_desc: "在$OUTLINER_FALLEN_EMPIRES$的文件中，有一个未经确认的非常先进的攻击机蓝图，它与我们熟悉的前体设计完全不同。但是预计的表现非常好。"
+tech_strike_craft_gunship_ae: "雅典娜炮艇"
+tech_strike_craft_gunship_ae_desc: "虽然轰炸机和拦截机已经很好地定义了攻击机的角色，但也存在一些问题。这两种类型的攻击艇都需要相当长的时间才能达到攻击距离。在许多战斗中，航母在这些敏捷的突击艇第一次起飞之前就被摧毁了。取而代之的计划是制造一种专门的远程攻击艇。"
+
+ACOT_PARTICLE_LANCE_AE_LARGE: "小型化暮光光矛"
+ACOT_PARTICLE_LANCE_AE_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暮光光矛，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+tech_resized_energy_lance_ae: "小型化暮光光矛"
+tech_resized_energy_lance_ae_desc: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳暮光光矛，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+
+ACOT_ARC_EMITTER_AE_LARGE: "小型化新星发射器"
+ACOT_ARC_EMITTER_AE_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳新星发射器，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+tech_resized_arc_emitter_ae: "小型化新星发射器"
+tech_resized_arc_emitter_ae_desc: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳新星发射器，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+
+ACOT_MASS_ACCELERATOR_AE_LARGE: "小型化α火炮"
+ACOT_MASS_ACCELERATOR_AE_LARGE_DESC: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳α质量加速器，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+tech_resized_mass_accelerator_ae: "小型化α巨炮"
+tech_resized_mass_accelerator_ae_desc: "硬光操控技术的进步使我们能够制造出足够坚固的炮塔来容纳α质量加速器，从而消除了轴基安装的限制。然而，与最初的设计相比，这大大减少了射程、精度和火力。"
+
+ACOT_TITAN_EMITTER_AE: "泰坦新星发射器"
+ACOT_TITAN_EMITTER_AE_DESC: "和它的前辈一样，这个巨大的发射器牺牲了大量的原始能量。"
+tech_titan_emitter_ae: "泰坦新星发射器"
+tech_titan_emitter_ae_desc: "我们可以对原来的泰坦发射器进行改进，改用新星放电器。"
+
+
+ACOT_TITAN_ACCELERATOR_AE: "泰坦阿尔法加速器加农炮"
+ACOT_TITAN_ACCELERATOR_AE_DESC: "泰坦规模的质量加速器，能够击中目标，能够在极远的距离击中目标造成巨大的伤害。"
+tech_titan_accelerator_ae: "四方加速轨道炮"
+tech_titan_accelerator_ae_desc: "随着先进的硬光工程技术的出现，将轨道炮加速装置增加一倍是安全的，无需冒着船体受损的风险。"
+
+######## ARMOR HERE
+SMALL_ACOT_ARMOR_AE: "小型深渊装甲"
+MEDIUM_ACOT_ARMOR_AE: "中型深渊装甲"
+LARGE_ACOT_ARMOR_AE: "大型深渊装甲"
+ACOT_ARMOR_AE: "深渊装甲"
+ACOT_ARMOR_AE_DESC: "深渊装甲是充满了小型暗能量护盾，当主护盾过载时，他可以更好的对抗反装甲武器。"
+tech_armor_ae: "深渊装甲"
+tech_armor_ae_desc: "深渊装甲是充满了小型暗能量护盾，当主护盾过载时，他可以更好的对抗反装甲武器。"
+
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AE: "小型暗能量护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE: "中型暗能量护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_AE: "大型暗能量护盾"
+ACOT_ENIGMATIC_SHIELD_AE: "暗能量护盾"
+ACOT_ENIGMATIC_SHIELD_AE_DESC: "暗能量护盾是暗物质偏转器的变种强化型，需要暗能量来提供能量。"
+tech_dark_matter_deflector_ae: "暗能量护盾"
+tech_dark_matter_deflector_ae_desc: "暗能量护盾是暗物质偏转器的变种强化型，需要暗能量来提供能量。"
+
+
+######## OTHER STUFFS HERE
+SHIP_THRUSTER_AE: "改进型暗物质推进器"
+SHIP_THRUSTER_AE_DESC: "这一原始且经过充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了前几代。虽然在较老的船型上使用时不那么强大，但性能相当令人印象深刻。"
+
+DESTROYER_SHIP_THRUSTER_AE: "精制暗物质推进器"
+DESTROYER_SHIP_THRUSTER_AE_DESC: "这个原始的、完全优化的暗物质推进系统可能是银河系中最强大的推进器，很容易就超过前几代技术。虽然在较老的船型上使用时没有那么强大，但性能相当令人印象深刻。"
+
+CRUISER_SHIP_THRUSTER_AE: "精制暗物质推进器"
+CRUISER_SHIP_THRUSTER_AE_DESC: "这个原始的、完全优化的暗物质推进系统可能是银河系中最强大的推进器，很容易就超过前几代技术。虽然在较老的船型上使用时没有那么强大，但性能相当令人印象深刻。"
+
+BATTLESHIP_SHIP_THRUSTER_AE: "精制暗物质推进器"
+BATTLESHIP_SHIP_THRUSTER_AE_DESC: "这个原始的、完全优化的暗物质推进系统可能是银河系中最强大的推进器，很容易就超过前几代技术。虽然在较老的船型上使用时没有那么强大，但性能相当令人印象深刻。"
+
+TITAN_SHIP_THRUSTER_AE: "精制暗物质推进器"
+TITAN_SHIP_THRUSTER_AE_DESC: "这个原始的、完全优化的暗物质推进系统可能是银河系中最强大的推进器，很容易就超过前几代技术。虽然在较老的船型上使用时没有那么强大，但性能相当令人印象深刻。"
+
+COLOSSUS_SHIP_THRUSTER_AE: "精制暗物质推进器"
+COLOSSUS_SHIP_THRUSTER_AE_DESC: "这个原始的、完全优化的暗物质推进系统可能是银河系中最强大的推进器，很容易就超过前几代技术。虽然在较老的船型上使用时没有那么强大，但性能相当令人印象深刻。"
+
+tech_fe_thruster_2:0 "改进型暗物质推进器"
+tech_fe_thruster_2_desc:0 "失落帝国所使用的推进器非常古老，而且远不如它们应该的那样强大。如果我们能够改进这些推进器的内部工作，我们就能够带回真正强大的、配得上我们的动力的舰船发动机"
+TECH_UNLOCK_FE_THRUSTER_TITLE:0 "§H解锁组件:§! 阿波罗推进器"
+TECH_UNLOCK_FE_THRUSTER_DESC:0 "§H$阿波罗推进器$§!\n这个原始的和充分优化的暗物质推进系统可能是银河系中最强的推进器，很容易就超过了之前的所有推进器。"
+
+
+CORVETTE_DARK_MATTER_REACTOR_AE: "α反应堆"
+CORVETTE_DARK_MATTER_REACTOR_AE_DESC: "α神秘反应堆在基本暗物质反应堆的基础上进行了改进，将暗能量融入其中，创造了一个更强大的发电机。"
+
+DESTROYER_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+DESTROYER_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+CRUISER_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+CRUISER_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+BATTLESHIP_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+TITAN_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+TITAN_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+COLOSSUS_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+PLATFORM_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+PLATFORM_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+ION_CANNON_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+ION_CANNON_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+STARBASE_DARK_MATTER_REACTOR_AE: "$CORVETTE_DARK_MATTER_REACTOR_AE$"
+STARBASE_DARK_MATTER_REACTOR_AE_DESC: "$CORVETTE_DARK_MATTER_REACTOR_AE_DESC$"
+
+tech_dark_matter_power_core_ae: "α神秘动力"
+tech_dark_matter_power_core_ae_desc: "既然我们已经理解了暗物质和暗能量的概念，那么就有可能创造出一种更强大的能量源，甚至超过$OUTLINER_FALLEN_EMPIRES$所使用的反应堆。这个代号为“§H阿尔法§!”的新型神秘反应堆将让我们成为众星羡慕的对象。§R研究这项技术可能会刺激$OUTLINER_FALLEN_EMPIRES$，因为我们基本上会在技术上超越他们。§!"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§H解锁组件:§!α神秘反应堆"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "§H暗能量反应堆§!\nα神秘反应堆在基本暗物质反应堆的基础上进行了改进，将暗能量融入其中，创造了一个更强大的发电机。"
+
+######################################################################################
+###
+#####################################################################################
+
+AE_OFFENSIVE_COMBAT_COMPUTER: "进攻性仿生作战计算机 (小型舰船)"
+AE_OFFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。这个特别的版本是为进攻战术而优化的。"
+
+AE_BALANCE_COMBAT_COMPUTER: "平衡性仿生作战计算机 (小型舰船)"
+AE_BALANCE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。"
+
+AE_DEFENSIVE_COMBAT_COMPUTER: "防御性仿生作战计算机 (小型舰船)"
+AE_DEFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。 这个特别的版本是为防守战术而优化的。"
+
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻性仿生作战计算机 (大型舰船)"
+AE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。这个特别的版本是为进攻战术而优化的。"
+
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡性仿生作战计算机 (大型舰船)"
+AE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。"
+
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御性仿生作战计算机 (大型舰船)"
+AE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。 这个特别的版本是为防守战术而优化的。"
+
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻性仿生作战计算机 (泰坦舰船)"
+AE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。这个特别的版本是为进攻战术而优化的。"
+
+AE_BALANCE_COMBAT_COMPUTER_TITAN: "平衡性仿生作战计算机 (泰坦舰船)"
+AE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。"
+
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御性仿生作战计算机 (泰坦舰船)"
+AE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。 这个特别的版本是为防守战术而优化的。"
+
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻性仿生作战计算机 (主力舰)"
+AE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。这个特别的版本是为进攻战术而优化的。"
+
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡性仿生作战计算机 (主力舰)"
+AE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。"
+
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御性仿生作战计算机 (主力舰)"
+AE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。 这个特别的版本是为防守战术而优化的。"
+
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻性仿生作战计算机 (空间站)"
+AE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。这个特别的版本是为进攻战术而优化的。"
+
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御性仿生作战计算机 (防御空间站)"
+AE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "阿尔法级仿生战斗计算机是一种极其先进的仿生战斗计算机，它在有机(或合成)操作员和舰上的德尔菲计算机之间形成强大的联系。这个网络允许在很少甚至没有停机的情况下发出命令。 这个特别的版本是为防守战术而优化的。"
+
+TECH_UNLOCK_BIONIC_COMPUTER_TITLE: "§H解锁组件:§! 仿生接口作战计算机"
+TECH_UNLOCK_BIONIC_COMPUTER_DESC: "一种独特的战斗计算机，在有机和合成之间形成仿生连接。它不受任何入侵企图的影响，并拥有无与伦比的战斗算法。"
+tech_bionic_interface: "仿生接口系统"
+tech_bionic_interface_desc: "结合有机思维和合成思维的特点，为新一代作战计算机开辟了新的可能。"
+
+################################################
+
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER: "攻击性思维协调器 (小型舰船)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。这种特殊的战术适用于进攻战术。"
+
+AE_PSI_BALANCE_COMBAT_COMPUTER: "平衡性思维协调器 (小型舰船)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER: "防御性思维协调器 (小型舰船)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。 这种特殊的战术适用于防守战术。"
+
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "攻击性思维协调器 (大型舰船)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。这种特殊的战术适用于进攻战术。"
+
+AE_PSI_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡性思维协调器 (大型舰船)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御性思维协调器 (大型舰船)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。 这种特殊的战术适用于防守战术。"
+
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_TITAN: "攻击性思维协调器 (泰坦舰船)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。这种特殊的战术适用于进攻战术。"
+
+AE_PSI_BALANCE_COMBAT_COMPUTER_TITAN: "平衡性仿生作战计算机 (泰坦舰船)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御性思维协调器 (泰坦舰船)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。 这种特殊的战术适用于防守战术。"
+
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "攻击性思维协调器 (主力舰)"
+AE_PSI_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "协调器取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。这种特殊的战术适用于进攻战术。"
+
+AE_PSI_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡性思维协调器 (主力舰)"
+AE_PSI_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御性思维协调器 (主力舰)"
+AE_PSI_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。 这种特殊的战术适用于防守战术。"
+
+AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "攻击性思维协调器 (空间站)"
+AE_PSI_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+
+AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御性思维协调器 (防御空间站)"
+AE_PSI_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+
+TECH_UNLOCK_PSI_COMPUTER_TITLE: "§H解锁组件:§! 思维协调器"
+TECH_UNLOCK_PSI_COMPUTER_DESC: "协调员取代了传统舰船计算机的角色，他们读取船长的想法，并将舰船采取相应的行动。他们非常擅长躲避攻击和制造强大的灵能护盾。"
+tech_ae_psi_computer: "思维协调器"
+tech_ae_psi_computer_desc: "不管机器有多先进，它们都是不可靠的。灵能控制物质。我们将培养一批强大的战场战略家成为心灵师，能够在不使用任何力量或任何材料的情况下工作。"
+
+################################################
+
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER: "进攻型领主战略师 (小型舰船)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这个特殊的进化是为了进攻战术。"
+
+AE_HIVE_BALANCE_COMBAT_COMPUTER: "平衡型战略师 (小型舰船)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER: "防御领主战略师 (小型舰船)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "进攻型领主战略师 (大型舰船)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这个特殊的进化是为了进攻战术。"
+
+AE_HIVE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "平衡型战略师 (大型舰船)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "防御领主战略师 (大型舰船)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这种特殊的进化是为了防御战术。"
+
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "进攻型领主战略师 (泰坦舰船)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这个特殊的进化是为了进攻战术。"
+
+AE_HIVE_BALANCE_COMBAT_COMPUTE_TITANR: "平衡型战略师 (泰坦舰船)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "防御领主战略师 (泰坦舰船)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这种特殊的进化是为了防御战术。"
+
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "进攻型领主战略师 (主力舰)"
+AE_HIVE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这个特殊的进化是为了进攻战术。"
+
+AE_HIVE_BALANCE_COMBAT_COMPUTER_GOLIATH: "平衡型战略师 (主力舰)"
+AE_HIVE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "防御领主战略师 (主力舰)"
+AE_HIVE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。 这种特殊的进化是为了防御战术。"
+
+AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "进攻型领主战略师 (空间站)"
+AE_HIVE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "防御型领主战略师 (防御空间站)"
+AE_HIVE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+
+TECH_UNLOCK_HIVE_COMPUTER_TITLE: "§H解锁组件:§! 领主战略师"
+TECH_UNLOCK_HIVE_COMPUTER_DESC: "领主战略师是半聪明的战场指挥官，他们可以发布自己的命令而不依赖于更高的实体。他们能够与舰船内部系统接口并修复任何损坏的部件。"
+tech_ae_hive_computer: "舰载蜂巢霸主"
+tech_ae_hive_computer_desc: "长期以来，蜂巢一直依赖机器和一组特殊的工蜂来操作太空舰船，但这些效率低下，会降低蜂巢的凝聚力。可以制定一种设想领主充当半独立战场指挥官的方案来取代旧的战斗计算机。"
+
+
+################################################################################################################################################
+
+ACOT_AFTERBURNERS_AE: "α辅助推进器"
+ACOT_AFTERBURNERS_AE_DESC: "在这种情况下，仅靠推进器还不足以使舰船快速前进。$ACOT_AFTERBURNERS_AE$可以用来提高舰船的最高速度。"
+tech_darkmatter_afterburners: "α辅助推进器"
+tech_darkmatter_afterburners_desc: "在这种情况下，仅靠推进器还不足以使舰船快速前进。$ACOT_AFTERBURNERS_AE$可以用来提高舰船的最高速度。"
+
+
+ACOT_HYPERCHARGED_JUMPER_AE: "神秘增压超空间放大器"
+ACOT_HYPERCHARGED_JUMPER_AE_DESC: "额外的辅助放大器可以安装在超空间引擎的模块化涡轮机，以提高其性能。然而，该模块从FTL组件中获取电力，并将降低舰船的FTL提升时间。"
+ACOT_AURA_HYPERJUMPDRIVE_AE: "跃迁稳定器"
+ACOT_AURA_HYPERJUMPDRIVE_AE_DESC: "跃迁稳定器可以安装在主力舰上，适当的模块可以增加舰队的跳跃范围。"
+tech_darkmatter_hyper_jump_drive: "神秘增压超空间放大器"
+tech_darkmatter_hyper_jump_drive_desc: "额外的辅助放大器可以安装在跳转驱动器的模块化涡轮机，以提高其性能。然而，该模块从FTL组件中获取电力，并将降低舰船的FTL提升时间。"
+friendly_jumpdrive_aura: "跃迁稳定器"
+friendly_jumpdrive_aura_desc: "增加舰队的跃迁范围。"
+
+
+ACOT_REPAIR_COUNTERMEASURES_AE: "α修复无人机"
+ACOT_REPAIR_COUNTERMEASURES_AE_DESC: "修复无人机是一种具有两种功能的新型自动化无人机。在战斗结束后修理战舰的装甲，并通过吸收代替战舰的攻击造成的伤害作为对策。"
+tech_darkmatter_reactive_drone: "α快速反应修复系统"
+tech_darkmatter_reactive_drone_desc: "修复无人机是一种新型的具有两种功能的自动化无人机。在战斗结束后修理战舰的装甲，并通过吸收代替战舰的攻击造成的伤害作为对策。"
+
+
+ACOT_REACTOR_BOOSTER_AE: "α暗能量辅助功率放大器"
+ACOT_REACTOR_BOOSTER_AE_DESC: "暗能量APA提供额外的备用电源，以防主反应堆不够强大。此外，该模块减少了舰船的总成本的一小部分。"
+tech_darkmatter_reactor_booster: "α暗能量辅助功率放大器"
+tech_darkmatter_reactor_booster_desc: "暗能量APA提供额外的备用电源，以防主反应堆不够强大。此外，该模块减少了舰船的总成本的一小部分。"
+
+
+ACOT_SHIELD_BOOSTER_AE: "α暗能量增压屏障"
+ACOT_SHIELD_BOOSTER_AE_DESC: "增压屏障能使护盾效能提高，但也提升了耗电量。"
+tech_darkmatter_shield_supercharger: "α增压障壁"
+tech_darkmatter_shield_supercharger_desc: "超强化护盾使舰船的护盾生成器以消耗能量为代价获得了极大的提高。"
+
+
+ACOT_STARCHARTER_AE: "α神秘恒星阵列"
+ACOT_STARCHARTER_AE_DESC: "特殊的辅助舱室，包含多个传感器单元，它将舰船作为一个移动$spy_orb_4$。"
+tech_darkmatter_star_charter: "α恒星探测模块"
+tech_darkmatter_star_charter_desc: "一种特殊的装有多个传感器单元的内窥镜室，它可以使舰船作为一个移动的哨兵阵列。"
+
+
+ACOT_AURA_TECH_INHIBITOR_AE: "神秘网络抑制器"
+ACOT_AURA_TECH_INHIBITOR_AE_DESC: "这个强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。你所有的力量都属于我们。"
+tech_darkmatter_aura_energy_drainer: "神秘网络抑制器"
+tech_darkmatter_aura_energy_drainer_desc: "这个强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。你所有的力量都属于我们。"
+TECH_UNLOCK_ENERGY_DRAINER_AE_TITLE: "§H解锁组件:§! 神秘网络抑制器"
+TECH_UNLOCK_ENERGY_DRAINER_AE_DESC: "§H神秘网络抑制器§!\n这个强大的装置与敌人的系统相结合，消灭敌人的力量并将其赋予盟军舰船。你所有的力量都属于我们。"
+
+
+
+FE_SENSOR_SHIP: "仿生传感器"
+FE_SENSOR_SHIP_DESC: "先进的传感器，使用仿生连接技术探测敌方船只。该系统可以同时检测有机物和机器。"
+tech_sensors_fe: "仿生传感器"
+tech_sensors_fe_desc: "先进的传感器，使用仿生连接技术探测敌方船只。该系统可以同时检测有机物和机器。"
+TECH_UNLOCK_FE_SENSOR_TITLE:0 "§H解锁组件:§! 仿生传感器"
+TECH_UNLOCK_FE_SENSOR_DESC:0 "§H$E仿生传感器$§!\n$FE_SENSOR_SHIP_DESC$"
+
+
+ENIGMATIC_DRIVE: "α传送引擎"
+ENIGMATIC_DRIVE_DESC: "这个神秘的传送引擎使用暗物质撕开一个微虫洞，让舰船比传统的跃迁引擎运行得更远。"
+tech_enigmatic_drive:0 "先进的移动"
+tech_enigmatic_drive_desc:0 "我们的跃迁引擎是基于零点能量的原理和配置。但现在既然我们已经利用了暗物质的力量，是时候将我们的超光速旅行技术提升到一个新的水平了。"
+TECH_UNLOCK_ENIG_DRIVE:0 "§H解锁组件:§! α传送引擎"
+TECH_UNLOCK_ENIG_DRIVE_DESC:0 "§Hα传送引擎§!\n$ENIGMATIC_JUMP_TECH_DESC$"
+
+
+
+#####WEAPON CORES###
+ 
+WEAPON_EXPLOSIVE_CORE: "暗物质导弹预点火器"
+WEAPON_EXPLOSIVE_CORE_DESC: "利用暗物质燃料和点燃我们的制导导弹系统可以增加导弹的冲击力和射速。"
+tech_missile_core:0 "暗物质导弹预点火"
+tech_missile_core_desc:0 "当我们探索暗物质越陷越深的应用中，我们发现还可以增加我们的火力和点火速度导弹使用同样的原则作为暗物质推进器。"
+
+
+WEAPON_KINETIC_CORE: "硬光动能载荷"
+WEAPON_KINETIC_CORE_DESC: "这是一个复杂的微型工厂，能迅速生产出既坚固又快速的硬轻质军需品。"
+tech_kinetic_core:0 "硬光动能载荷系统"
+tech_kinetic_core_desc:0 "硬轻质材料是非常耐用和快速的生产。如果我们愿意投入额外的力量来操作它们，也许它们可以被用作火炮的动力炮弹。"
+
+
+WEAPON_ENERGY_CORE: "能量反畸变流形"
+WEAPON_ENERGY_CORE_DESC: "这个微型球体拥有强大的神秘能量，它可以通过弯曲时空和无视各种物理定律，直接改善舰船的能量武器系统。"
+tech_energy_core:0 "能量反畸变矩阵"
+tech_energy_core_desc:0 "大多数能量武器都因为重力而变形，使它们无法集中和不稳定。随着一种能够弯曲时空并抵消所有扭曲效应的球形装置的发明，我们的能量武器将实现其全部潜力。"
+
+
+WEAPON_FIGHTER_CORE: "仿生接口上行链路"
+WEAPON_FIGHTER_CORE_DESC: "这一强大的仿生界面上行链路允许母舰无情地协调打击飞机，实时准确定位目标的所有潜在弱点。"
+tech_fighter_core:0 "仿生打击网络"
+tech_fighter_core_desc:0 "根据先驱者的蓝图，仿生界面计算机在舰船和船员之间形成了一种精神联系。然而，对计算机来说，攻击机太小了，但也许它们可以从母舰上更有效地协调起来？"
+
+
+##############PSIO STUFFIOSU
+
+SHROUD_DRIVE: "虚境跃迁引擎"
+SHROUD_DRIVE_DESC: "这个神秘的神器在舰船和虚境实体之间形成了契约。该实体以增加能源和矿物为代价，授予我们的舰船极为强大的跳跃技术。船员的灵魂也与实体相连。"
+tech_shroud_jump_drive:0 "影之渡口"
+tech_shroud_jump_drive_desc:0 "再一次，虚境实体与我们取得了联系。这艘船自称“影子渡船”，它提供了一个非常简单的交易;适合于中等能量和矿物的舰船旅行的优越方法。对虚境实体来说，这是一个相当简单的交易。"
+TECH_UNLOCK_SHROUDDRIVE:0 "§H解锁组件:§! 虚境跃迁引擎"
+TECH_UNLOCK_SHROUDDRIVE_DESC:0 "§H虚境跃迁引擎§!\n$SHROUD_DRIVE_DESC$"
+
+
+ACOT_PSI_STORM: "虚境风暴"
+ACOT_PSI_STORM_DESC: "我们将敌人的仇恨转化为一场非常非常强大的死亡风暴。力量!无限的力量!!!"
+
+ACOT_CLOUDBALL_SHROUD: "灵能束缚"
+ACOT_CLOUDBALL_SHROUD_DESC: "受我们意志支配的一小片灵能云。它将震动和并鞭打敌人。"
+
+ACOT_MISSILE_SHROUD_XL: "虚境蜂群"
+ACOT_MISSILE_SHROUD_XL_DESC: "有了我们对灵能的精通，我们现在可以强迫较弱的虚境实体把它的力量借给我们的意志。但是因为它是一个XL槽，我们可以一次扔六个，很棒，对吧?"
+
+ACOT_MISSILE_SHROUD: "虚境之门"
+ACOT_MISSILE_SHROUD_DESC: "有了我们对灵能异能的控制，我们现在可以迫使较小的虚境实体将其力量给予我们的意志。"
+
+tech_shroud_missile: "约束意志"
+tech_shroud_missile_desc: "我们已经开始掌握我们真正的灵能力量，而且我们正在迅速学习如何支配较小的虚境实体。我们可以用它们的力量制造出完全由破坏性意志制成的强大的灵能闪电。"
+
+tech_shroud_hanger: "死亡之球"
+tech_shroud_hanger_desc: "强者支配弱者是天性。尽管我们还不了解虚境的真正性质，但我们对它的居民已经有了足够的了解。以我们目前的力量，我们应该能够在虚空中支配一些较弱的存有，并让他们为我们的事业服务。"
+
+tech_shroud_storm: "毁灭之风"
+tech_shroud_storm_desc: "主命令，虚境必须回应召唤。敌人会被我们可怕的力量化为乌有。"
+
+#################
+
+tech_reinforced_starbase: "δ恒星堡垒电镀"
+tech_reinforced_starbase_desc: "随着武器变得更加致命和强大，空间站在防御方面的能力越来越差。为了延长它们的寿命，外层装甲可以换用硬光材料，并升级武器系统。"
+tech_reinforced_starbase_ae: "α恒星堡垒电镀"
+tech_reinforced_starbase_ae_desc: "对暗物质和暗能量的掌握使我们能进一步改良空间站。"
+tech_reinforced_starbase_se: "∑恒星堡垒电镀"
+tech_reinforced_starbase_se_desc: "我们的堡垒不会屈服。你可以把一群巡洋舰丢过来，我们的堡垒会把它们全都吃掉。"
+

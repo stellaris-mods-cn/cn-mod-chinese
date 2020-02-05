@@ -1,0 +1,173 @@
+﻿l_simp_chinese:
+
+ ###-----BIOLOGICAL TRAITS-----###                                                        #For Copypast: "§LText§!\n"
+
+ #-----Trait Genius-----#
+ trait_yanz_genius:0 "天才"
+ trait_yanz_genius_desc:0 "§L这一物种的智力水平达到了生物可能的最高上限。§!\n §B领袖将获得独特特质！§!\n"
+ #-----Trait Bioperfection(Cheat trait)-----#
+ trait_yanz_biological_perfection:0 "完美生物"
+ trait_yanz_biological_perfection_desc:0 "§L完美生物...谁创造了他们？§!\n §B领袖将获得独特特质！§!\n"
+ #-----Trait Biological Optimisation-----#
+ trait_yanz_biological_optimisation:0 "生体优化"
+ trait_yanz_biological_optimisation_desc:0 "§L得益于生物工程和物质操纵领域的技术突破，这些生物在原子水平上进行了重构和优化。他们甚至可以与合成体竞争。§!\n §E领袖将获得独特特质！§!\n"
+ #-----Trait Eternal-----#
+ trait_yanz_eternal:0 "永恒"
+ trait_yanz_eternal_desc:0 "§L高水平的再生能力使得这些生物在最不利的条件下也能存活数百年。§!\n"
+ #-----Trait Universal Adaptability-----#
+ trait_yanz_universal_adaptability:0 "普适性"
+ trait_yanz_universal_adaptability_desc:0 "§L这些生物能生活在任何地方，即使环境极为危险。§!\n"
+ #-----Trait Сlose-knit-----#
+ trait_yanz_close_knit:0 "紧密连结"
+ trait_yanz_close_knit_desc:0 "§L由于强烈的社交信息素和发达的集体行为相结合，这些生物更喜欢彼此亲密的生活。他们的力量来源于团结，有时这种团结能创造真正的奇迹。§!\n"
+ #-----Trait Genius Engineers-----#
+ trait_yanz_genius_engineers:0 "天才工程师"
+ trait_yanz_genius_engineers_desc:0 "§L这些生物对工程学和材料学有着难以置信的偏好，加上其发达的智力，他们成为了出色的工程师。§!\n"
+ #-----Trait Genius Physicists-----#
+ trait_yanz_genius_physicists:0 "天才物理学家"
+ trait_yanz_genius_physicists_desc:0 "§L这些生物具有难以置信的物理学偏好，加上其发达的智力，他们成为了出色的物理学家。§!\n"
+ #-----Trait Genius Sociologists-----#
+ trait_yanz_genius_sociologists:0 "天才社会学家"
+ trait_yanz_genius_sociologists_desc:0 "§L这些生物对生物学和社会学有着难以置信的偏好，加上其发达的智力，他们成为了出色的社会学家。§!\n"
+ #-----Trait Wunderkinder-----#
+ trait_yanz_wunderkinder:0 "神童"
+ trait_yanz_wunderkinder_desc:0 "§L该物种后代的神童诞生率令人羡慕，大多数人在很小的时候就能成为领导者。§!\n§B领袖招募年龄在14-20岁§!\n"
+ #-----Trait Workaholic-----#
+ trait_yanz_workaholic:0 "工作狂"
+ trait_yanz_workaholic_desc:0 "§L这些生物非常顽固及努力，在所有工作完美完成之前，他们永远不会离开工作场所。§!\n"
+ #-----Trait Ascetic-----#
+ trait_yanz_ascetic:0 "苦行者"
+ trait_yanz_ascetic_desc:0 "§L这些生物并不太在乎物质财富，他们更关心思想和精神上的富足。§!\n"
+ #-----Trait Extremely Fertile-----#
+ trait_yanz_extremely_fertile:0 "超级繁殖力"
+ trait_yanz_extremely_fertile_desc:0 "§L这些生物的繁殖速度“超越光速”。§!\n"
+ #-----Trait Efficient Metabolism-----#
+ trait_yanz_efficient_metabolism:0 "高效代谢"
+ trait_yanz_efficient_metabolism_desc:0 "§L这些生物的消化系统可以从食物中获取几乎所有的营养，结合高效的新陈代谢系统，事实上他们可以依靠一个苹果存活数天。真是惊人……§!\n"
+ #-----Trait Sanguine-----#
+ trait_yanz_sanguine:0 "乐天派"
+ trait_yanz_sanguine_desc:0 "§L这些生物总是很快乐。即使在一些平常事中他们也能找到美妙而积极的东西。§!\n"
+ #-----Trait Born Inventors-----#
+ trait_yanz_born_inventors:0 "天生的发明家"
+ trait_yanz_born_inventors_desc:0 "§L这些生物非常聪明。他们已经准备好为优化流程和寻找新解决方案奉献终生。§!\n"
+ #-----Trait Born Miners-----#
+ trait_yanz_born_miners:0 "天生的矿工"
+ trait_yanz_born_miners_desc:0 "§L有些人看不到富裕金矿的价值。但这些生物即使是从沙砾中也能找到无穷的潜力。§!\n"
+ #-----Trait Born Farmers-----#
+ trait_yanz_born_farmers:0 "天生的农民"
+ trait_yanz_born_farmers_desc:0 "§L这些生物能从最炎热的沙漠中种出乌托邦式的花园。§!\n"
+ #-----Trait Small-----#
+ trait_yanz_small:0 "微小"
+ trait_yanz_small_desc:0 "§L与其他生物相比，这些生物的体积很小。这种有趣的特征各有优劣。§!\n"
+ #-----Trait Big-----#
+ trait_yanz_big:0 "庞大"
+ trait_yanz_big_desc:0 "§L与其他生物相比，这些生物的体积很大。这种有趣的特征各有优劣。§!\n"
+ #-----Trait Poor Intelligence-----#
+ trait_yanz_poor_intelligence:0 "智障"
+ trait_yanz_poor_intelligence_desc:0 "§L与其它生物相比，这些生物的智力水平较低。他们必须花费更多时间来研发新科技。§!\n"
+ #-----Trait Incompetent Engineers-----#
+ trait_yanz_incompetent_engineers:0 "无能的工程师"
+ trait_yanz_incompetent_engineers_desc:0 "§L这些生物不是很擅长工程学领域。 -如果工作中，请勿触摸。§!\n"
+ #-----Trait Incompetent Physicists-----#
+ trait_yanz_incompetent_physicists:0 "无能的物理学家"
+ trait_yanz_incompetent_physicists_desc:0 "§L这些生物不是很擅长物理研究。§!\n"
+ #-----Trait Incompetent Sociologists-----#
+ trait_yanz_incompetent_sociologists:0 "无能的社会学家"
+ trait_yanz_incompetent_sociologists_desc:0 "§L这些生物不是很擅长社会学及生物学研究。§!\n"
+ #-----Trait Homosexual-----#
+ trait_yanz_homosexual:0 "同性恋"
+ trait_yanz_homosexual_desc:0 "§L该物种的大量后代成为了同性恋。这对人口增长率产生了§灾难性§!的影响...§!\n"
+ #-----Trait Very Weak-----#
+ trait_yanz_very_weak:0 "非常虚弱"
+ trait_yanz_very_weak_desc:0 "§L这些生物非常虚弱，他们不喜欢重体力劳动。这就是为什么他们在战场上是糟糕的士兵。§!\n"
+ #-----Trait Pessimistic-----#
+ trait_yanz_pessimistic:0 "悲观"
+ trait_yanz_pessimistic_desc:0 "§L这些生物本质上非常悲观。相信光明的未来对他们来说只是一个毫无意义的童话。§!\n"
+ #-----Trait Extremely Nonadaptive-----#
+ trait_yanz_extremely_nonadaptive:0 "适应极差"
+ trait_yanz_extremely_nonadaptive_desc:0 "§L在这些生物的体内，非常复杂而脆弱的生物过程正在进行。这些生物只能在自己家乡的独特生物圈中舒适地生活。§!\n"
+ #-----Trait Slow Metabolism-----#
+ trait_yanz_slow_metabolism:0 "缓慢代谢"
+ trait_yanz_slow_metabolism_desc:0 "§L这些生物的新陈代谢非常缓慢。 这也会影响他们的生产力。\n"
+ #-----Trait Hedonist-----#
+ trait_yanz_hedonist:0 "享乐主义者"
+ trait_yanz_hedonist_desc:0 "§L这些生物相信，无尽的欢娱是生命的主要意义。§!\n"
+ #-----Trait Short-Lived-----#
+ trait_yanz_short_lived:0 "短命"
+ trait_yanz_short_lived_desc:0 "§L与其他生物相比，这些生物的寿命极短。他们需要明智地利用自己的时间。§!\n"
+ #-----Trait Rebellious-----#
+ trait_yanz_rebellious:0 "叛逆的"
+ trait_yanz_rebellious_desc:0 "§L这些生物天生就是叛逆的。他们总是试图找到有关其政府的坏消息，即使其很完美。§!\n"
+ 
+ ##-----Hive Mind Traits-----##
+ 
+ ###-----MACHINE TRAITS-----###
+
+ #-----Trait Mechanical Perfection-----#
+ trait_robot_yanz_mechanical_perfection:0 "完美机械""
+ trait_robot_yanz_mechanical_perfection_desc:0 "§L完美机械... 谁创造了这些机器？§!\n"
+ #-----Trait Singularity Nodes-----#
+ trait_robot_yanz_universal_singularity_nodes:0 "通用奇异节点"
+ trait_robot_yanz_universal_singularity_nodes_desc:0 "§L每个单位都是功能强大的计算节点，数百万个足以创造出真正的技术奇点。但是他们的组装极为复杂，需要大量的时间和资源。§!\n"
+ #-----Trait Engineered Engineers-----#
+ trait_robot_yanz_engineering_singularity_nodes:0 "工程学奇异节点"
+ trait_robot_yanz_engineering_singularity_nodes_desc:0 "§L每个单位都是功能强大的计算节点，专门针对工程学研究进行了优化。但是他们的组装极为复杂，需要大量的时间和资源。§!\n"
+ #-----Trait Engineered Biologists-----#
+ trait_robot_yanz_sociological_singularity_nodes:0 "社会学奇异节点"
+ trait_robot_yanz_sociological_singularity_nodes_desc:0 "§L每个单位都是功能强大的计算节点，专门针对社会学研究进行了优化。但是他们的组装极为复杂，需要大量的时间和资源。§!\n"
+ #-----Trait Engineered Physicists-----#
+ trait_robot_yanz_quantum_singularity_nodes:0 "量子奇异节点"
+ trait_robot_yanz_quantum_singularity_nodes_desc:0 "§L每个单位都是功能强大的计算节点，专门针对物理学研究进行了优化。但是他们的组装极为复杂，需要大量的时间和资源。§!\n"
+ #-----Trait Compact-----#
+ trait_robot_yanz_compact:0 "紧凑"
+ trait_robot_yanz_compact_desc:0 "§L这些机械由于其灵活的设计而在折叠时仅占用极小的空间。§!\n"
+ #-----Trait Engineering Engines-----#
+ trait_robot_yanz_engineering_engines:0 "工程引擎""
+ trait_robot_yanz_engineering_engines_desc:0 "§L这些机械为工程学研究优化了计算流程。§!\n"
+ #-----Trait Sociological Engines-----#
+ trait_robot_yanz_sociological_engines:0 "社会学引擎"
+ trait_robot_yanz_sociological_engines_desc:0 "§L这些机械为社会学研究优化了计算流程。§!\n"
+ #-----Trait Quantum Engines-----#
+ trait_robot_yanz_quantum_engines:0 "量子引擎"
+ trait_robot_yanz_quantum_engines_desc:0 "§L这些机械为物理学研究优化了计算流程。§!\n"
+
+ ###-----Leader Trairs-----###
+ 
+ #-----Leader Trait Genius-----#
+ leader_trait_scientist_yanz_genius:0 "天才"
+ leader_trait_scientist_yanz_genius_desc:0 "§L天才中的天才，无论听起来多么荒谬或有趣。§!\n"
+ leader_trait_ruler_yanz_genius:0 "天才"
+ leader_trait_ruler_yanz_genius_desc:0 "§L一位可以将太空帝国推向新高度的天才领袖。§!\n"
+ leader_trait_governor_yanz_genius:0 "天才"
+ leader_trait_governor_yanz_genius_desc:0 "§L作为一位极具魅力的领袖，这位总督获得了人民和政府惊人的支持。多亏了他，街道上有序且平静，科学及社会的公共领域正在飞速发展……§!\n"
+ leader_trait_general_yanz_genius:0 "天才"
+ leader_trait_general_yanz_genius_desc:0 "§L一位未尝失败的有超凡魅力的天才将领。§!\n"
+ leader_trait_admiral_yanz_genius:0 "天才"
+ leader_trait_admiral_yanz_genius_desc:0 "§L一位富有魅力的天才海军上将，从未失败过。§!\n"
+ #-----Leader Trait Singularity Nodes-----#
+ #-----Leader Trait Biological Perfection-----#
+ leader_trait_scientist_yanz_biological_perfection:0 "生物完美"
+ leader_trait_scientist_yanz_biological_perfection_desc:0 "§L这位领袖是他/她物种的§B生物完美§!的最佳代表之一。相比他人，他/她具有令人难以置信的智力和体能水平。他/她每天都有可能取得科学突破。§!\n"
+ leader_trait_ruler_yanz_biological_perfection:0 "生物完美"
+ leader_trait_ruler_yanz_biological_perfection_desc:0 "§L这位领袖是他/她物种的§B生物完美§!的最佳代表之一。相比他人，他/她具有令人难以置信的智力和体能水平。这位领袖甚至能将遭到毁灭性破坏的帝国带入繁荣时代。§!\n"
+ leader_trait_governor_yanz_biological_perfection:0 "生物完美"
+ leader_trait_governor_yanz_biological_perfection_desc:0 "§L这位领袖是他/她物种的§B生物完美§!的最佳代表之一。相比他人，他/她具有令人难以置信的智力和体能水平。在他/她的精心照料下，每个星区、星球、城市乃至乡村都将繁荣发展，并以最高效率工作。§!\n"
+ leader_trait_general_yanz_biological_perfection:0 "生物完美"
+ leader_trait_general_yanz_biological_perfection_desc:0 "§L这位领袖是他/她物种的§B生物完美§!的最佳代表之一。相比他人，他/她具有令人难以置信的智力和体能水平。 与这位天才战略家相比，敌人的将军只是可怜的蠢蛋。§!\n"
+ leader_trait_admiral_yanz_biological_perfection:0 "生物完美"
+ leader_trait_admiral_yanz_biological_perfection_desc:0 "§L这位领袖是他/她物种的§B生物完美§!的最佳代表之一。相比他人，他/她具有令人难以置信的智力和体能水平。 与这位天才战略家相比，敌方海军上将只是可怜的蠢蛋。§!\n"
+ #-----Leader Trait Biological Optimisation-----#
+ leader_trait_scientist_yanz_biological_optimisation:0 "生物优化"
+ leader_trait_scientist_yanz_biological_optimisaiton_desc:0 "§L该领袖完成了§E生物优化§!的附加过程。 现在他/她的头脑如刀锋般敏锐，身体器官如瑞士钟表般精准。由于所有生物学上的进化，这位领袖成为了一位完美的科学家。§!\n"
+ leader_trait_ruler_yanz_biological_optimisation:0 "生物优化"
+ leader_trait_ruler_yanz_biological_optimisation_desc:0 "§L该领袖完成了§E生物优化§!的附加过程。 现在他/她的头脑如刀锋般敏锐，身体器官如瑞士钟表般精准。由于所有生物学上的进化，这位领袖成为了一位完美的领导者。§!\n"
+ leader_trait_governor_yanz_biological_optimisation:0 "生物优化"
+ leader_trait_governor_yanz_biological_optimisation_desc:0 "§L该领袖完成了§E生物优化§!的附加过程。 现在他/她的头脑如刀锋般敏锐，身体器官如瑞士钟表般精准。由于所有生物学上的进化，这位领袖成为了一位完美的总督.§!\n"
+ leader_trait_general_yanz_biological_optimisation:0 "生物优化"
+ leader_trait_general_yanz_biological_optimisation_desc:0 "§L该领袖完成了§E生物优化§!的附加过程。 现在他/她的头脑如刀锋般敏锐，身体器官如瑞士钟表般精准。由于所有生物学上的进化，这位领袖成为了一位完美的将领.§!\n"
+ leader_trait_admiral_yanz_biological_optimisation:0 "生物优化"
+ leader_trait_admiral_yanz_biological_optimisation_desc:0 "§L该领袖完成了§E生物优化§!的附加过程。 现在他/她的头脑如刀锋般敏锐，身体器官如瑞士钟表般精准。由于所有生物学上的进化，这位领袖成为了一位完美的海军上将.§!\n"
+ 
+ ###-----Pop Modifiers-----###
+ mod_planet_pops_food_upkeep_mult:0 "人口食物£food 维护"
+ 

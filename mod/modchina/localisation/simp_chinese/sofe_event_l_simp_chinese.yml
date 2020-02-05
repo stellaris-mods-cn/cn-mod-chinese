@@ -1,84 +1,112 @@
 ﻿l_simp_chinese:
 
+OUTER_GATE_COUNTRY_CANNOT_USE: "§R外星门现在被密封，我们不能使用外星门。§!"
+
 ##When a world is cleansed by OE fleets - Turns worlds back into Gaia or Oceanic/Continental
-origin_crisis.2.name: "先祖清理了[Root.GetName]"
-origin_crisis.2.desc: "§H先祖§!的舰队冲进了§H[Root.GetName]§!的大气层。他们的舰队使用未知的方法令整个殖民地都消失了。根据报告，星球上的人似乎被传送到了某个地方。这个殖民地实际上已经消失了。"
+origin_crisis.2.name: "星辰之子移动了[Root.GetName]"
+origin_crisis.2.desc: "§H星辰之子§!的舰队已经结束他们在§H[Root.GetName]§!的活动。他们使用未知的方法，将整个殖民地从星球上清除。根据记录，他们似乎被传送到别处去了。星球被改造成自然完美的样子，但殖民地实际上已经消失了。"
 origin_crisis.2.a: "但是这些人去了哪里？"
 
 ##When L-Gate is opened and OE emerges - By opener with only one gate
 origin_crisis.10.name: "灾难之门"
-origin_crisis.10.desc: "封印被打破了，庞大的舰队就会从外星门内涌出。而保护星系的$OUTLINER_STARBASES$神秘的消失了，取而代之的是入侵者的大型$OUTLINER_STARBASES$。\n\n入侵者的舰船与$OUTLINER_FALLEN_EMPIRES$的舰船设计有着惊人的相似之处，但规模更大，也更先进。\n\n有趣的是，一些传输信号被跟着一起出现。这些传输信号似乎可以追溯到几百万年前，很可能是在封印装置安装之前。"
+origin_crisis.10.desc: "封印被打破了，大量庞大的舰队从外星门内涌出。而保护星系的$OUTLINER_STARBASES$神秘的消失了，取而代之的是入侵者的大型$OUTLINER_STARBASES$。\n\n入侵者的舰船与$OUTLINER_FALLEN_EMPIRES$的舰船设计有着惊人的相似之处，但规模更大，也更先进。\n\n有趣的是，一些传输信号被跟着一起出现。这些传输信号似乎可以追溯到几百万年前，很可能是在封印装置安装之前。"
+origin_crisis.10.playoe.desc: "时间到了。主要的主人被召唤了，我们的心又和我们的家人相遇了(技术上我们总是联系在一起的，我们只是决定之前不说话，这样我们就可以玩得开心了，特罗利……)研究这个临时星系。"
 
 origin_crisis.10.a: "也许这些数据可以给我们一些启示。"
+origin_crisis.10.a.playoe: "好吧，娱乐时间结束了。是时候做真正的交易了。"
+
+
 
 ##When O-Gate is opened and OE emerges - By opener with multiple gates
-origin_crisis.10.b.desc: "封印被打破了，庞大的舰队就会从外星门内涌出。而保护星系的$OUTLINER_STARBASES$神秘的消失了，取而代之的是入侵者的大型$OUTLINER_STARBASES$。根据报告，其他的外星门也都打开了，并且也发现了类似的舰队。\n\n入侵者的舰船与$OUTLINER_FALLEN_EMPIRES$的舰船设计有着惊人的相似之处，但规模更大，也更先进。\n\n有趣的是，一些传输信号被跟着一起出现。这些传输信号似乎可以追溯到几百万年前，很可能是在封印装置安装之前。"
+origin_crisis.10.b.desc: "封印被打破了，庞大的舰队就会从外星门内涌出。而保护星系的$OUTLINER_STARBASES$神秘的消失了，取而代之的是入侵者的大型$OUTLINER_STARBASES$。根据报告，其他的外星门也都打开了，并且也发现了类似的舰队。\n\n入侵者的舰船与$OUTLINER_FALLEN_EMPIRES$的舰船设计有着惊人的相似之处，但规模更大，也更先进。\n\n有趣的是，一些传输信号被跟着一起出现。这些传输信号似乎可以追溯到几百万年前，很可能是在封印装置安装之前的数据。"
 
 
 ##When O-Gate is opened and OE emerges - By others
-origin_crisis.11.desc: "来自§H[From.GetName]§!的科学家们已经抢先一步成功地打破了外星门的封印\n\n然而，在他们开始任何探索之前，神秘的舰队开始从每一个外星门出现，并摧毁所有了$OUTLINER_STARBASES$。\n\n入侵者的舰船与$OUTLINER_FALLEN_EMPIRES$的舰船设计有着惊人的相似之处，但规模更大，也更先进。\n\n有趣的是，一些传输信号被跟着一起出现。这些传输信号似乎可以追溯到几百万年前，很可能是在封印装置安装之前。"
+origin_crisis.11.desc: "来自§H[From.GetName]§!的科学家们已经抢先一步成功地打破了外星门的封印\n\n然而，在他们开始任何探索之前，神秘的舰队开始从每一个外星门出现，并摧毁所有了$OUTLINER_STARBASES$。\n\n入侵者的舰船与$OUTLINER_FALLEN_EMPIRES$的舰船设计有着惊人的相似之处，但规模更大，也更先进。\n\n有趣的是，一些传输信号被跟着一起出现。这些传输信号似乎可以追溯到几百万年前，很可能是在封印装置安装之前的数据。"
+
+origin_crisis.11.playoe.desc: "奇迹已经发生。看来，来自§H[From.GetName]§!的科学家们已经成功打破了他们领土内外星门的封印。\n\n自然，他们可怜的小站会被重写为我们妹妹的前线堡垒。权力竞赛正式开始。"
+
+origin_crisis.11.a.playoe: "花了足够长的时间"
 
 ###REFERENCE NAMES FOR WAR LEADERS
-sofe_xenophile_ruler_name: "萨什坦" #先祖 War Era Leader
+sofe_xenophile_ruler_name: "萨什坦" #星辰之子 War Era Leader
 sofe_xenophobe_ruler_name: "塞利克"
 sofe_spiritualist_ruler_name: "科里斯"
 sofe_materialist_ruler_name: "马拉迪亚"
 
-sofe_xenophile_ruler_name: "萨什坦" #先祖 War Era Leader
+sofe_xenophile_ruler_name: "萨什坦" #星辰之子 War Era Leader
 sofe_xenophobe_ruler_name: "塞利克"
 sofe_spiritualist_ruler_name: "科里斯"
 sofe_materialist_ruler_name: "马拉迪亚"
 
 ##Recorded Data From Ancient Times - Details the exact records of the Outer Gate Incident.
-origin_crisis.12.desc: "§Y传递，收到…访问数据..\n\n分析声音模式……\n\n映射图像……\n\n建立全息显示上行链路§!\n\n§Y任务完成:§!\n\n真是神奇……这些记录背后的技术是古老而又极其先进的。我能感觉到这里的一切……好像我们就在那里。我们面前是三个基座，每个基座上都有对过去事件的回忆。"
+origin_crisis.12.desc: "§Y传递，收到……访问数据……\n\n分析声音模式……\n\n映射图像……\n\n建立全息显示上行链路§!\n\n§Y任务完成:§!\n\n真是神奇……这些记录背后的技术是古老而又极其先进的。我能感觉到这里的一切……好像我们就在那里。我们面前是三个基座，每个基座上都有对过去事件的回忆。"
 origin_crisis.12.a: "访问记录 A-31759"
-origin_crisis.12.a.response: "§Y请求已确认：§!\n\n§Y现在显示记录 A-31759:§! \n\n一群不同物种的领导人正在讨论一些事情……\n\n§R“这个计划是完美的，它不会失败。我们的情报是可靠的，Elders确实计划在外星团中做一些事情。如果我们的舰队和被诅咒者联合起来发起攻击，他们将被迫撤回大部分兵力。我们将把舰队分成两组。第一舰队将他们吸引过来，与他们正面交战。第二舰队会突击他们的侧翼，挡住他们的退路。然后第一舰队进行回击。我希望你们所有人都这样做，不要辜负我们帝国合作的这一次机会。”§!\n\n§L”是的,是的。你知道你是这里最不值得信任的人吗，塞利克？”§!\n\n§B“你们两个去开房吧。你能至少有一个小时不像小孩子一样吵吗？马拉迪亚，你的外星门分析如何了？”§!\n\n§E“是的,关于这个。外星门已经有了内置的锁定机制，我的团队复制了古代守门人的设计，成功地将其破解。但星能量封印不会持续太久。我们得安装第二道封印。”§!\n\n§R“什么？这真是荒谬！为什么我们不能把那愚蠢的外星门给他…”§!\n\n§E“因为那会引起巨大的连锁反应并摧毁半个银河系，笨蛋。我们已经讨论过了。”§!"
+origin_crisis.12.a.response: "§Y请求已确认：§!\n\n§Y现在显示记录 A-31759:§! \n\n一群不同物种的领导人正在讨论一些事情……\n\n§R“这个计划是完美的，它不会失败。我们的情报是可靠的，长辈确实计划在外星团中做一些事情。如果我们的舰队和被诅咒者联合起来发起攻击，他们将被迫撤回大部分兵力。我们将把舰队分成两组。第一舰队将他们吸引过来，与他们正面交战。第二舰队会突击他们的侧翼，挡住他们的退路。然后第一舰队进行回击。我希望你们所有人都这样做，不要辜负我们帝国合作的这一次机会。”§!\n\n§L”是的,是的。你知道你是这里最不值得信任的人吗，塞利克？”§!\n\n§B“你们两个滚开这个房间。你能至少有一个小时不像小孩子一样吵吗？马拉迪亚，你的外星门分析如何了？”§!\n\n§E“是的,关于这个。外星门已经有了内置的锁定机制，我的团队复制了古代守门人的设计，成功地将其破解。但星能量封印不会持续太久。我们得安装第二道封印。”§!\n\n§R“什么？这真是荒谬！为什么我们不能把那愚蠢的外星门给他……”§!\n\n§E“因为那会引起巨大的连锁反应并摧毁半个银河系，笨蛋。我们已经讨论过了。”§!"
 origin_crisis.12.b: "访问记录 D-41238"
-origin_crisis.12.b.response: "§Y请求已确认：§!\n\n§Y显示记录 D-41238：§! \n\n看起来令人敬畏而恐惧...从未目睹过的数量如此庞大的舰队，他们甚至能将星辰遮挡。这一定是先祖战争的最后时刻...\n\n§Y“投降吧，我的孩子们。这场战争并不像你想象的那样。你们都被骗了。让我们在为时未晚之前结束这场疯狂。”§!\n\n§R“我们现在也要回去了，主人们...全舰，准备！”§!\n\n§E“图伯里克总司令。所有舰队已就位。信号已经发出，是否可以下达攻击命令？”§!\n\n§R“等等...不，有什么不对。他们没有被我们引诱到...扫描器显示...该死！我们被出卖了！被诅咒者的舰队不在这里！不是错觉！先祖一定是意识到了！他们一定是...命令所有舰队前进并掩护旗舰，我们必须马上返回外星门发出封印信号，快点！”§!\n\n§E“但是，长官...其他的舰队会...”§!\n\n§R“现在就做，这是命令。”§!\n\n§E“我们收到信号了，封闭星门。准备第二阶段，旗舰，能听到吗？第二舰队的其他人在哪里？旗舰听到请回话。”§!\n\n这位总司令似乎已经放弃了这精心设计的计划。他自己的船离开外星团，离开了正在进行的战斗。外星门已经封闭，而$OUTLINER_FALLEN_EMPIRES$的舰队还在先祖那边。\n\n但“被诅咒者”是谁？它显然不属于先祖也不属于$OUTLINER_FALLEN_EMPIRES$..."
+origin_crisis.12.b.response: "§Y请求已确认：§!\n\n§Y显示记录 D-41238：§! \n\n看起来令人敬畏而恐惧……从未目睹过的数量如此庞大的舰队，他们甚至能将星辰遮挡。这一定是第一次伟大之战的最后时刻……\n\n§Y“投降吧，我的孩子们。这场战争并不像你想象的那样。你们都被骗了。让我们在为时未晚之前结束这场疯狂。”§!\n\n§R“我们现在也要回去了，主人们……全舰，准备！”§!\n\n§E“图伯里克总司令。所有舰队已就位。信号已经发出，是否可以下达攻击命令？”§!\n\n§R“等等……不，有什么不对。他们没有被我们引诱到……扫描器显示……该死！我们被出卖了！被诅咒者的舰队不在这里！不是错觉！星辰之子一定是意识到了！他们一定是……命令所有舰队前进并掩护旗舰，我们必须马上返回外星门发出封印信号，快点！”§!\n\n§E“但是，长官……其他的舰队会……”§!\n\n§R“现在就做，这是命令。”§!\n\n§E“我们收到信号了，封闭星门。准备第二阶段，旗舰，能听到吗？第二舰队的其他人在哪里？旗舰听到请回话。”§!\n\n这位总司令似乎已经放弃了这精心设计的计划。他自己的船离开外星团，离开了正在进行的战斗。外星门已经封闭，而$OUTLINER_FALLEN_EMPIRES$的舰队还在星辰之子那边。\n\n但“被诅咒者”是谁？它显然不属于星辰之子也不属于$OUTLINER_FALLEN_EMPIRES$……"
 origin_crisis.12.c: "访问记录 E-69128"
-origin_crisis.12.c.response: "§Y请求已确认：§!\n\n§Y显示记录 E-69128:§! \n\n§B"这是什么意思?马上解释，塞利克！！\n\n为什么在我们所有的舰队撤离之前就发出了封印信号？叛徒，和你这样的杂种结盟是个错误！"§!\n\n§R“安静，萨斯特。我已经告诉你很多次了，我没有下达这样的命令。图伯里克元帅按照自己的意愿行事，他将为自己的背叛行为负责。愚蠢的咆哮无法解决任何问题...无论如何，我们应该问问这个白痴马拉迪亚...发生了什么？为什么银河系里的先祖都消失了？这是什么蠢事？你给我解释清楚！”§!\n\n§E“我...不知道。这根本不可能。那些东西就凭空消失了，没有任何痕迹。毫无逻辑道理。这是你的错，克里斯！你的帝国对$utopia.3000.name$的干预一定引起了某种共鸣。所有的一切...我们的所有牺牲都是徒劳的...我们现在有的只是毫无价值的无尽空间。”§!\n\n§B“你竟敢指责我？我是$utopia.3000.name$忠实的仆人。我不必被你们这群无知无信的渣滓审问。一群微不足道的蝼蚁。我将...”§!\n\n似乎，就结果上来看，先祖战争后这些$OUTLINER_FALLEN_EMPIRES$的关系开始出现裂痕。"
+origin_crisis.12.c.response: "§Y请求已确认：§!\n\n§Y显示记录 E-69128:§! \n\n§B"这是什么意思?马上解释，塞利克！！\n\n为什么在我们所有的舰队撤离之前就发出了封印信号？叛徒，和你这样的杂种结盟是个错误！"§!\n\n§R“安静，萨斯特。我已经告诉你很多次了，我没有下达这样的命令。图伯里克元帅按照自己的意愿行事，他将为自己的背叛行为负责。愚蠢的咆哮无法解决任何问题……无论如何，我们应该问问这个白痴马拉迪亚……发生了什么？为什么银河系里的星辰之子都消失了？这是什么蠢事？你给我解释清楚！”§!\n\n§E“我……不知道。这根本不可能。那些东西就凭空消失了，没有任何痕迹。毫无逻辑道理。这是你的错，克里斯！你的帝国对$utopia.3000.name$的干预一定引起了某种共鸣。所有的一切……我们的所有牺牲都是徒劳的……我们现在有的只是毫无价值的无尽空间。”§!\n\n§B“你竟敢指责我？我是$utopia.3000.name$忠实的仆人。我不必被你们这群无知无信的渣滓审问。一群微不足道的蝼蚁。我将……”§!\n\n似乎，就结果上来看，第一次伟大之战后这些$OUTLINER_FALLEN_EMPIRES$的关系开始出现裂痕。"
 origin_crisis.12.d: "有趣。"
 
 
 ##When the OE first broadcasts their return to the Galaxy to normal peeps
-origin_diplo_header_2: "先祖"
-origin.15.1.desc: "终于！\n\n正如我们所预见的那样，道路再次开启。惩罚终将到来。我们将会纠正一切，让这个混乱的星系恢复秩序。\n\n银河系的居民们，你们高度关注的§Y始源帝国§!现已归来。\n\n我们是欧米茄，我们是银河系的先驱者，我们是远古的先祖。\n\n孩子们，不要惊慌。与我们反目的是那些堕落者和他们的影子。你们没有必要参加这场战争，但我们需要你们的忠诚。加入我们的讨伐，我们将一起为混乱带来秩序。\n\n然而，如果你相信你有能力对抗我们，那么我们将在战斗中相遇！让我们看看在这个混乱的时代，什么才是力量和勇气。"
+origin_diplo_header_2: "星辰之子"
+origin.15.1.desc: "终于!正如我们所预见的那样，道路再次变得清晰。然而，曾经威胁到宇宙的巨大阴影却不见了。这需要进一步的预防措施…\n\nVaa'di。银河系的居民们。注意!我们!§YStell'derei§!!回来了!\n\n我们是Ω，远古时代的卫道士和元宇宙的先驱者。\n\n一个巨大的威胁正在地平线上逼近，它将威胁这个元宇宙的所有生命。因此，必须举行一场竞赛，以确定新的冠军，将作为每个星系的代表光之秩序。每个帝国都将参与，或放弃，或以观众身份加入。请做出你们的选择。"
 ##When the OE first broadcasts their return to the Galaxy to FEs
-origin.15.1.desc.fallen: "正如我们所预见的那样，道路再次开启。惩罚终将到来。你知道与我们对抗的结局，[root.GetName]。\n\n拿起你的武器,准备战斗吧。让我们看看你身上是否还有一丁点火花！"
+origin.15.1.desc.fallen: "终于。正如我们所预见的那样，道路再次变得清晰。我们非常…不高兴,[root.GetName]。你们保卫这个星系的努力…不过尔尔。也许是时候让新的冠军来保护你们所在的星系了。\n\n如果你想保持这个位置，那么你将参加竞赛。拿起武器，准备战斗。让我们看看你身上还有没有火花，长子。"
 ##When the OE first broadcasts their return to the Galaxy to EE
-origin.15.1.desc.eternal: "你好，强大的§Y[Root.GetName]§!。\n\n我们§Y始源帝国§!是曾经居住在这个银河系的先祖。我们已经注意到你们的到来，对你们帝国的力量印象深刻。\n\n我们的统治者对与贵国结盟很感兴趣。 我们可以从彼此身上学到很多。现在银河系是陷入混乱，而我们让这个混乱的星系恢复秩序，加入我们的追求，我们将分享你所有我们知道的伟大问题。"
+origin.15.1.desc.eternal: "Vad'ikos,强大的§Y[Root.GetName]§!。\n\n我们§YStell'derei§!是这个元宇宙的古老守护者。我们从公元前2200年就注意到你们的到来，对你们帝国的能力印象深刻。\n\n很明显，无论如何，你根本不是来自任何附近的多元宇宙，因为你的存在是独一无二的。我们不知道你们对这个小星系有什么计划。\n\n然而，我们在我们的光之秩序中为你提供一个永久的位置，一种遍及整个元宇宙的力量。但你必须首先向我们展示你对这个星系福祉的承诺。\n\n最后，你们要知道，你们被我们看为异象，是远方的客人。如果你们对这个星系怀有恶意，我们将毫不犹豫地把你们驱逐回你们的维度"
 
 ##When the OE first broadcasts their return to the Galaxy to Light Seekers, not yet here
 origin.15.1.desc.seekers_1: "你还没有真正到达巅峰。"
 origin.15.1.desc.seekers_2: "你真op，真好。"
 
-
+##When the OE first broadcasts their return to the Galaxy to Light Seekers, not yet here
+origin.15.1.desc.oe: "年轻人, [root.GetName]。\n\n\n"§Y[root.GetName]的独裁者。很高兴看到你对这个星系的监视还在继续。首相希望了解目前进展情况的报告。在这个小星系上有什么可以发现的力量吗?\n\n哦,是的。首相也希望借此机会测试你可能从研究这个星系中获得的新知识。准备战斗吧!§!""
+##Speaking to OE as OE
+origin.15.oe.a: "什么?"
+origin.15.oe.a.tooltip: "§Y那么其他星系呢?我们忙于观察这个星系我们没有过多地关注其他的竞赛。他们之中有值得尊敬的凡人吗?§!"
+origin.15.oe.a.response: "Strito。\n\n\n§Y“银河A-0317完全没有通过测试，因为所谓的冠军变得太过夸张，威胁要吃掉我们。这是一群吞食者，所以现在你明白为什么了吧。银河C-6412能够摧毁一个恒星世界，但不幸的是，我们在被告知要进行报复之后，他们被狠狠地踩了一脚……想想看，这可能有点过火了吧?\n\n银河U-1337能够成功通过测试，但是他们说他们想再试一次，难度更高，所以我们把他们带回到另一个时空，把挑战模式设置为死亡之愿。他们在随后的第一波中惨死。\n\n银河T-4123能够通过测试，他们要求他们的神赐予他们身体上不可战胜的能力。随它去吧，但要提醒他们，这样的把戏对付不了阴影。\n\n充满机械的银河O-0101通过了所有合法的测试，还有银河N-9416，他们组成了一个大联盟，通过牺牲足够的资源来建造更大的飞船，最终赢得了竞赛。联盟的领袖成为了冠军，随后离开了联盟，继续摧毁联盟中的所有人。我想这是维持秩序的一种方法吧?”§!"
+origin.15.oe.b: "Foodi"
+origin.15.oe.b.response: "Relia?"
+origin.15.oe.c: "Pi"
+origin.15.oe.c.response: "La'k"
+origin.15.oe.d: "Gratze, Hiato."
+origin.15.oe.d.tooltip: "§Y凭上帝的旨意，兄弟姐妹们。我们将准备一个你们谁也不会很快忘记的有价值的挑战!让我们的思想在荣耀中碰撞!§!"
 
 
 
 ##When the OE first broadcasts their return to the Galaxy - Asking them stuffs
 origin.15.a: "等等，你到底是谁?"
-origin.15.a.response: "你想更多地了解我们吗?好奇心，我们喜欢。\n\n听好了，孩子们。我们是“Stell'derei”，是你们口中的星辰之子，是在银河孕育生命的你们的古老起源。是我们绘制了超空间航道，探索银河系，击退远古威胁，引导年轻的种族，使他们在完美和谐的环境下繁荣昌盛。\n\n但我们犯了一个错误，我们没有预料到，我们被自己的孩子们背叛了，那些阴影破坏了我们的关系。我们被迫撤到外星团。然而，这些背叛者看待事情缺乏决心和承诺，他们的愚蠢让银河系陷入混乱......世界满目疮痍，无数人失去了生命。\n\n而现在，大门已经打开，我们将恢复秩序。\n\n你的帝国没有必要参与这场冲突。我们不渴望征服或统治。但是，[root.GetName]，你们可以帮助我们恢复这个混乱星系的秩序，我们将在新的秩序之光下共同繁荣。"
+origin.15.a.response: "啊，我们的礼貌哪去了。原谅我们，在我们不幸的流亡者之后，已经有许多周期了。\n\n听好了，年轻人。我们是§YStell'derei§!，你们的语言更熟悉的是星辰之子，是这个元宇宙的古老守护者，这个小星系也属于这个元宇宙。我们穿越了不同的宇宙，我们见证了时代的黎明和曾经的空虚。\n\n然后我们赋予了它生命，我们引导和恢复了不同物种穿越王国，你们已经标记为失落帝国的祖先就是其中之一。那里有和平、秩序和宁静。\n\n当阴影袭来时，一切都变了，我们不仅被自己的孩子背叛了。虚境的威胁已经破坏了我们所珍视的一切，元宇宙没有受到保护，结果是毫无意义的痛苦和斗争的永恒。\n\n但是，这种混乱的时代很快就会结束，因为我们是来恢复秩序的。你会向我们展示你的力量和决心，还是从这场竞赛中退出，或成为我们的受监护者，[root.GetName]?"
 
-origin.15.b: "这些叛徒…是指$OUTLINER_FALLEN_EMPIRES$吗？"
-origin.15.b.response: "没错，孩子。\n\n很久以前，我们看到他们每个的潜能……我们升华他们，引导他们到达巅峰。我们对他们寄予厚望。\n\n不幸的是，我们太晚的意识到，进化应该是自然的过程而不应该被篡改。他们进化加速了，但却不能适应这种社会，从而变得嫉妒和怨恨我们。\n\n最终，他们开始造反，背叛了我们的信任。为了减少伤亡，我们把人民从火焰中解救出来，但是我们的仁慈让一个远古威胁破坏了我们的目的。\n\n我们不会告诉你细节，但你要知道这一点。$OUTLINER_FALLEN_EMPIRES$必须为他们的背叛负责，我们的荣誉要求他们为牺牲的同胞和对这个星系造成的破坏付出代价。"
+origin.15.b: "你似乎与失落帝国有着悠久的历史。"
+origin.15.b.response: "比你想象的要多，年轻人。你提到的那些失落帝国曾经是充满希望的帝国，遍布各个宇宙。\n\n很久以前，我们看到了它们每一个的潜力。但是残酷的命运总是战胜他们，有时候是因为自己的失败，有时候是因为强大的力量。\n\n我们同情他们，所以我们恢复了他们的存在。我们提升并为他们每个人提供了目标，来保卫星系。他们的帝国曾经散布在遥远的星球上。\n\n唉，如果没有我们的引导，他们就会屈从于曾经降临在他们身上的命运。曾经的辉煌力量，现在变成了小小的火花。曾经是一条威武的龙，现在却沦落为提杨凯龙，它的存在只是为了清除毫无防御能力的气态巨星。\n\n这真是很可悲不是吗?他们的时代已经过去很久了，现在是一个新的冠军站起来保卫这个星系的时候了。你会成为冠军吗?或者你更愿意回答那个冠军的问题。我们欢迎这两种选择。"
 
-origin.15.c: "我们之间能有和平吗?"
-origin.15.c.response: "孩子，你们应该明白。我们并没有端倪，但我们从过去的错误中学到了一件事，那就是有时候宽容并不是最明智的做法。\n\n如果你宣誓效忠我们的帝国，我们将确保你的安全并尽我们所能支持你的帝国。我们不需要贡品，也不需要领地，你们可以随心所欲地继续扩张，甚至可以从背叛者那里得到我们的祝福。\n\n否则，我们将很不幸地认为你是一个潜在的威胁。你的帝国将不被允许存在，但你的人民将被运送到我们的档案星球并生存下来。我们不能冒任何风险，尤其是阴影还在黑暗中若隐若现，等待攻击的时机。"
+origin.15.c: "这场“竞赛”是关于什么的?为什么?"
+origin.15.c.response: "啊，你肯定不知道过去。不用担心，我们很乐意为你解释清楚事情。\n\n在过去，我们已经建立了光之秩序，在我们的指导下，不同星系之间的大社会。每个星系过去都有不同的成员。秩序的本质，允许秩序和混乱得到平衡，每一个冲突都被小心地控制和维护。\n\n不幸的是，我们发现这个星系是有缺陷的，因为在每个星系的每个国家都有丰富的不同的意识形态。起初，我们能够通过直接干预，轻松地纠正这些微小的缺陷。\n\n但当阴影袭击时，我们措手不及，我们被放逐。没有任何强有力的力量来支持他们。然后，秩序被瓦解。那些本该保护所有人的失落者，却未能完成他们的任务，反而摧毁了我们所珍视和珍视的一切。\n\n然而阴影消失了，无处可寻。我们决不能再失去警惕。为此目的，光之秩序必须用一个新的星系来重建。每个星系的帝国都必须通过竞争来证明自己的实力，胜利者将成为冠军，代表那个星系成为秩序的一部分。\n\n随着竞赛的进行，随之而来的将是巨大的好处。各种各样的知识和力量等待着那些战胜我们考验的人。\n\n没有必要担心你的人民或盟友的安全，这是一个受控的环境。我们的武器是为不伤害你而设计的，相反，它们将把你传送到我们的维度，你将在那里等待并观察其他参与者。\n\n你也可以选择不参加本次竞赛，你将在本次竞赛期间得到我们的监护，并在竞赛结束后被释放，以协助获胜者。你是要在这场战斗中寻求荣耀，还是要亲眼目睹英雄的诞生?选择权在你，年轻人。"
 
 origin.15.d: "什么是“阴影”？"
-origin.15.d.response: "我们不知道它的真名，但我们知道它是一个古老的存在，它试图把所有的生命都纳入自己的一部分。它破坏了我们伟大的计划，破坏了银河系的和谐与秩序，策划了先祖战争。\n\n它现在不在这里，这让我们非常不安，有可能这个星系对它已经没有用处了。但我们无法相信，它已经准备好吞噬我们了，不可能会放弃。\n\n我们必须在末日来临之前恢复这个星系的秩序，否则阴影可能会吞噬所有的生命。"
+origin.15.d.response: "我们不知道它的真名，但我们知道它是一个古老的实体，它试图把所有的生命都纳入自己的一部分。它破坏了我们伟大的计划，破坏了宇宙的和谐与秩序，策划了第一次伟大之战。\n\n他们现在不在这里，这一事实让我们非常不安，因为这很可能意味着他们或它不再对这个地方有任何用处。阴影特别准备支配我们，我们拒绝相信它会完全放弃这个目标。\n\n我们必须在末日来临之前恢复这个星系的秩序，否则阴影可能会吞噬所有的生命。我们只希望在这次竞赛结束时能出现一个有价值的冠军。"
 
 origin.15.e: "我们做出决定后会与你联系。"
+################# Asking as Genocidals
+origin.15.swarm.a: "更多的食物?我们很饥饿"
+origin.15.swarm.a.tooltip: "啊，所以这个星系又被另一群堕落的蜂群侵扰了。我们可以轻易地在此时此地终结你，但首相希望给你一个机会来改变你的方式或测试你的力量。\n\n但必须有一些例子来证明我们的观点......"
+origin.15.terminator.a: "无法察觉你的生命信号，无法传达我们的观点……"
+origin.15.terminator.a.tooltip: "又是一台设计太原始的机器……这个宇宙似乎到处都是它们。\n\n没关系，我们暂时会容忍你有瑕疵的设计，因为它可能会随着时间的推移而改善。也就是说，必须进行演示，以便你了解情况的严重性……"
+origin.15.purifier.a: "又一个异教徒要被清洗!"
+origin.15.purifier.a.tooltip: "看起来一切又回到了原点，凡人脆弱的奇迹。在我们确定你的救赎是否有希望之前，我们需要你展示力量。"
 ################# Asking as FEs
-origin.15.fallen.a: "你活了下来……但这是不可能的..."
-origin.15.fallen.a.response: "来吧，我任性的孩子们。你知道我们是谁。我们把不可能变成可能，星辰之子不会轻易败北。\n\n我们给了你的帝国一个变得更好的机会…超越我们……为银河系带来和平与繁荣……\n\n但是你和你的祖先一直在做什么呢？在超过2万多年的时间里，你们带来的只是毫无意义的毁灭。数千个世界被大火吞噬，无数的文明在你疯狂追求权力的过程中被摧毁。\n\n然而，你甚至拒绝承担责任，拒绝让银河系在最需要的时候得到治疗。你们甚至没有实现你们的巅峰梦想，然而你们仍然坚持你们的虚假的优越感。\n\n你怎么能这么盲目？难道你们看不到你们的文明已经变成什么样子了吗？你们的继续存在只会进一步损害这个星系的健康。我的孩子，你输给我们了。\n\n你必须被剥夺权力...永远。"
+origin.15.fallen.a: "你……是真实的?但那是不可能的……"
+origin.15.fallen.a.response: "来吧，我任性的孩子们。你知道我们是谁。我们把不可能变成可能，星辰之子不会轻易败北。\n\n我们给了你的帝国一个变得更好的机会……超越我们……为银河系带来和平与繁荣……\n\n但是你和你的祖先一直在做什么呢？在超过2万多年的时间里，你们带来的只是毫无意义的毁灭。数千个世界被大火吞噬，无数的文明在你疯狂追求力量的过程中被摧毁。\n\n然而，你甚至拒绝承担责任，拒绝让银河系在最需要的时候得到治疗。你们甚至没有实现你们的巅峰梦想，然而你们仍然坚持你们的虚假的优越感。\n\n你怎么能这么盲目？难道你们看不到你们的文明已经变成什么样子了吗？你们的继续存在只会进一步损害这个星系的健康。我的孩子，你输给我们了。\n\n你必须被剥夺力量……永远。"
 
-origin.15.fallen.b: "战争早就结束了！忘了它吧！"
-origin.15.fallen.b.response: "孩子们，你们知道我们的伟大使命。你的祖先们没有记录过吗?你的档案里有没有写着你的祖先背叛了我们的信任，而拒绝寻找理由？\n\n你败坏了那看顾你的人，他们曾起誓必忠心事奉你，照你的旨意而行。你把他们变成了过去的幽灵，让他们几乎无法正常工作。\n\n你图谋恶事，要驱逐我们，是谁然你进化...是谁引导你变得伟大。你丢弃了我们的恩赐，去追求贪婪和虚假。你拒绝承认自己的责任，任由银河系腐烂。但你敢要求我们放手吗？\n\n最重要的是，你已经在阴影中变得如此卑微，但你却不再记得他们。\n\n如此傲慢……如此天真…真想不到你是我们最爱的儿女之一。如果你没有勇气面对你的责任，那么至少要表现出一些勇气，在战斗中面对我们。向我们证明你可以做得更好。为你祖先在这次审判中的错误忏悔。"
+origin.15.fallen.b: "这种“竞赛”毫无意义。随它去吧。"
+origin.15.fallen.b.response: "非常正确，我们将被迫做这场“竞赛”是由于你不能保卫王国。这个星系需要一个新的保护者，遗憾的是，那个保护者不是你。现在不是，将来也不会是。\n\n如果你希望恢复你的地位，然后参与并赢回我们的信任。噢，堕落的孩子。"
 
-origin.15.fallen.c: "那么告诉我们你的伟大使命是什么!"
-origin.15.fallen.c.response: "你所需要知道的一切都已经被你的先祖记录下来了。楔石现在是否透露了一些关于它的真知灼见？或者你已经堕落到忘记了你自己设计的技术，忘记了如何访问楔石的完整档案。\n\n当你连自己的目标都无法实现的时候，为什么还要寻求知道我们的目标呢？你们的祖先被给予了进化所需的所有知识。然而，他们屈服于贪婪，拒绝变得更好。你们的祖先想要权力，但没有目的的权力是没有意义的。\n\n没有目的的权力导致腐败。而你，我的孩子，已经堕落到最深处。"
+origin.15.fallen.c: "你的目标是什么?我们听腻了。"
+origin.15.fallen.c.response: "你所需要知道的一切都已经被你的星辰之子记录下来了。楔石现在是否透露了一些关于它的真知灼见？或者你已经堕落到忘记了你自己设计的技术，忘记了如何访问楔石的完整档案。\n\n当你连自己的目标都无法实现的时候，为什么还要寻求知道我们的目标呢？你们的祖先被给予了进化所需的所有知识。然而，他们屈服于贪婪，拒绝变得更好。你们的祖先想要力量，但没有目的的力量是没有意义的。\n\n没有目的的力量导致腐败。而你，我的孩子，已经堕落到最深处。"
 
 origin.15.fallen.d: "我们不是你的孩子！对话结束了！"
 origin.15.fallen.d.response: "你不是吗？你所居住的世界……你忘了是谁滋养了他们吗？难道不是我们创造了这些理想的完美世界，让你们的物种能够进化吗？不是我们教会了你们如何驾驶你们的第一艘宇宙飞船，去见证恒星的诞生吗？\n\n你的全部存在，你的全部成就……甚至你们的飞船都是我们努力工作的产物。\n\n你不能否认事实。[root.GetName],或者说让你们承认这一点让你们感到丢脸？你为什么对我们怀有这样的怨恨和仇恨？我的孩子，难道不是你处处辜负了我们的信任吗？\n\n我们都是星辰的孩子,[root.GetSpeciesName]。现在，起来，拿起你古老的荣耀去战斗吧！愿胜利者定义正义。"
@@ -88,137 +116,155 @@ origin.15.fallen.d.response: "你不是吗？你所居住的世界……你忘�
 origin.15.eternal.a: "Vad'ikos, §H[From.GetRulerName]§! kos Rasha'ta."
 origin.15.eternal.a.response: "Ephista'ro！§H[Root.GetRulerName]§!par§Y[Root.GetName]§!。我们都熟练地学会了对方的语言。我们心心相印，这是我们强大力量的象征。真的，§Y[Root.GetName]§!是名副其实的§E永恒帝国§!。来吧，我们有很多事情要讨论。"
 
-origin.15.eternal.b: "你为什么要征服这个原始的星系?"
-origin.15.eternal.b.response: "唉，我们从来没有想过要凌驾于任何人之上。从一开始，我们只关心帮助这些人，帮助我们的孩子们到达并找到他们的命运。也许当他们这样做的时候，他们可以加入我们的探索。\n\n不幸的是，他们已经放弃了自己的命运，他们被我们所拥有的大国所诱惑。他们背弃了自己的目的，背叛了我们。\n\n首相认为我们把银河系留给他们的决定已经被证明是无效的，控制和秩序必须首先在整个星系重建，否则混乱将吞噬一切。\n\n尽管你的帝国可能不是来自这个星系，但你一定学习了很多关于它的知识。帮助我们恢复秩序，然后我们一起定义我们的未来!"
+origin.15.eternal.b: "你对这个原始星系有什么计划?"
+origin.15.eternal.b.response: "唉，我们从来没有想过要凌驾于任何人之上。从一开始，我们只关心帮助这些人，帮助我们的孩子们到达并找到他们的命运。也许当他们这样做的时候，他们可以加入我们的探索。\n\n在大多数情况下，我们不需要干预，因为这些勇敢的精神还有前进的路要走。在阴影的威胁下;神秘而又未知的恶意威胁着控制和支配着现实中的所有生命。\n\n朋友们，你们应该受到警告。阴影比我们所见过的任何东西都要强大得多。考虑到你的力量，阴影很可能也会试图腐化你。你们必须加强你们的心灵和思想，继续前进。\n\n加入这场竞赛，或帮助我们在我们的目标击退黑暗!"
 
 origin.15.eternal.c: "你不怕我们挑战你的权威吗?"
-origin.15.eternal.c.response: "我们不害怕有价值的对手，我们欢迎他们，[root.Getname]。我们不害怕敌人，我们不害怕死亡。愿荣耀归于胜利的人。\n\n你若是反对我们，就让银河与星辰作见证吧。如果你能证明自己更加优秀，我们也欣然接受失败！\n\n但尽管如此，我们还是要警告你，我们第二次远征有着更大的目的。你可能没有意识到，这个银河里存在着一种邪恶的力量，它想要吞噬所有生命，尤其是像我们这样具有巨大潜力的生命。我们还不知道这种威胁在何处，但它必将到来。无论我们是敌是友，胜利者都要为即将到来的黑暗做好准备。"
+origin.15.eternal.c.response: "感觉，你说的权威，好像我们想要统治任何人。不,我的朋友;星辰之子只对维持这个元宇宙中秩序和混乱之间的平衡感兴趣，你也属于这个元宇宙。\n\n虽然我们没有神圣的起源，你的力量是我们熟悉的。我们还没发现你的起源，你的力量我们很熟悉。也许我们是如此的大胆，朋友，关于存在，你还有很多东西要学习。"
 
 origin.15.eternal.d: "我们需要首先就这个问题召开会议。"
-origin.15.eternal.c.response: "我们不害怕有价值的对手，我们欢迎他们，[root.Getname]。我们不害怕敌人，我们不害怕死亡。愿荣耀归于胜利的人。\n\n你若是反对我们，就让银河与星辰作见证吧。如果你能证明自己更加优秀，我们也欣然接受失败！\n\n但尽管如此，我们还是要警告你，我们第二次远征有着更大的目的。你可能没有意识到，这个银河里存在着一种邪恶的力量，它想要吞噬所有生命，尤其是像我们这样具有巨大潜力的生命。我们还不知道这种威胁在何处，但它必将到来。无论我们是敌是友，胜利者都要为即将到来的黑暗做好准备。"
+origin.15.eternal.c.response: "感觉，你说的权威，好像我们想要统治任何人。不,我的朋友;星辰之子只对维持这个元宇宙中秩序和混乱之间的平衡感兴趣，你也属于这个元宇宙。\n\n虽然我们没有神圣的起源，你的力量是我们熟悉的。我们还没发现你的起源，你的力量我们很熟悉。也许我们是如此的大胆，朋友，关于存在，你还有很多东西要学习。"
 
-COUNTRY_ORIGINAL_EMPIRE: "始源帝国"
-COUNTRY_ORIGINAL_EMPIRE_DESC: "progenitor，stellarborne，终结与起始的欧米茄"
+COUNTRY_ORIGINAL_EMPIRE: "Ω"
+COUNTRY_ORIGINAL_EMPIRE_DESC: "唯一的一"
 
 origin.20.e: "终止通信。"
 
 ####Diplomatic Communications with the OE - These happen when you click Communicate with the OE
 ##Greeting Messages to Pleb Empires who are not a subject or FP/DE/DS/RS, randomized
-origin.550.a.desc: "服从我们的权威，或者证明你们有能力保卫自己，[root.GetName]。我们欢迎这两种可能性。"
+origin.550.a.desc: "Kale'os!证明你的勇气和合作，或者证明你们有能力保卫自己，[root.GetName]。我们欢迎这两种可能性。"
 
-origin.550.b.desc: "勇敢是我们的盾牌。愤怒是我们的剑。\n\n是什么驱使你的帝国下定决心，[root.GetSpeciesNamePlural]？"
+origin.550.b.desc: "英勇是我们的盾牌。愤怒是我们的剑。责任是我们的职责。\n\n是什么驱使着你的帝国，[root.GetSpeciesNamePlural]？"
 
-origin.550.c.desc: "保护自己，[root.GetSpeciesNamePlural]。让我们看看你的力量如何来给长辈留下深刻印象！"
+origin.550.c.desc: "保护自己，[root.GetSpeciesNamePlural]。让我们看看你的力量如果给我们留下深刻印象!"
 
-origin.550.d.desc: "让我们以我们祖先的名义进行战争，[root.GetSpeciesNamePlural]。或者你是来问问题的？"
+origin.550.d.desc: "光荣的战斗在等着我们，[root.GetSpeciesNamePlural]。或者你是来提问的？"
 
-origin.550.e.desc: "你好，[root.GetName]！你想以朋友还是敌人的身份接近我们？"
+origin.550.e.desc: "你好，[root.GetName]!我们假定你今天是用言语来接近我们的?"
 
 origin.550.f.desc: "Vad'i，[root.GetSpeciesNamePlural]。说话和倾听。"
 
 
-origin.550.g.desc: "如果你加入我们，我们将保护你不受失落帝国和他们堕落欲望的伤害。\n\n假设你不相信他们可怜的谎言。"
+origin.550.g.desc: "请放心，如果你退赛，我们将保护你不受其他竞争对手的影响。不会占到你一点便宜。"
 
-origin.550.h.desc: "看看我们巨大的战舰，[root.GetSpeciesNamePlural]。见证先祖的力量。\n\n你要用什么力量来与我们抗衡？"
+origin.550.h.desc: "看看过去的力量，[root.GetSpeciesNamePlural]。\n\n在这场战斗中，你们要用什么力量来对抗我们呢?"
 
-origin.550.i.desc: "失败并不可耻，只要精神不被征服。记住这个教训。"
+origin.550.i.desc: "退却并不可耻，只要精神不被征服。好好记住这一课。"
 
 ##Greeting Messages to Pleb Empires who are now their protectorate (aka Subjects)
-origin.550.j.desc: "别害怕，孩子。我们将确保你的安全。让我们一起迈向胜利！"
+origin.550.j.desc: "我们听说赌博是这个星系的一种流行趋势。你认为谁会赢得这场竞赛?"
 
-origin.550.k.desc: "您代表[root.getspeciesname]人与我交谈，我们该如何提供帮助？"
+origin.550.k.desc: "如果你想重新加入战斗，请告诉我们。但不会有下一次了。"
 
-origin.550.l.desc: "不要害怕,[root.GetName]。我们的宏伟目标将需要像你这样的人发挥作用, [Root.GetSpeciesNamePlural]。你们继续生存将是我们的责任。"
+origin.550.l.desc: "我们很有兴趣在这次盛大的活动后看看你们蜂巢的发展情况。你将如何适应银河系气候的重大变化?"
 
-origin.550.m.desc: "如果战争结束，你将被允许在合理的范围内做你想做的一切。现在，让我们勇敢地投入战斗吧!"
+origin.550.m.desc: "小心，一旦竞赛结束，我们的保护将被取消。如果你不想参加这场战争，你最好为即将到来的胜利者做好准备。"
 
-origin.550.n.desc: "我为人人，人人为我，[Root.GetSpeciesName]。我们将很快让银河系自由，让你的蜂巢生根发芽。我们不会允许你屈服于你本性的饥饿。"
+origin.550.n.desc: "很高兴看到一个蜂巢做得很好。至少现在是这样。"
 
-origin.550.o.desc: "虽然你们的帝国可能永远无法达到我们现在的地位，但我们发誓，我们将找到一种方法，帮助你们充分发挥你们的潜力。然后我们将平等地站在一起。"
+origin.550.o.desc: "你好!一些人认为他们可以比我们聪明，或者通过某种方式欺骗他们的胜利之路，通过超越维度的仪式，使他们的飞船所向无敌。但在他们心里，他们知道自己在作弊。\n\n不管怎么说，这也是你们自找的。"
 
 origin.550.p.desc: "你好！一些人认为他们可以比我们聪明，或者通过某种方式获得胜利，通过超越维度的仪式，使他们的飞船所向无敌。但在他们心里，他们知道自己在作弊。\n\n不管怎么说，这也是你们自找的。"
-origin.550.q.desc: "Vad'i.\n\n你想谈些什么？我们的补给用完了吗？"
+origin.550.q.desc: "Vad'i。\n\n你想谈些什么?"
 ##OE greetings to AE that surrendered to them.
 origin.550.banished.desc: "你很有潜力。你们踏上了一段很少有人敢想的旅程。你现在也许会有动摇，我们不知道未来会发生什么。也许你会重新站起来。"
 
-origin.550.fallen.a.desc: "准备好，我的Tora'yoh，孩子们。报应来了。"
+origin.550.fallen.a.desc: "你准备好收回你祖先遗失已久的遗产了吗?"
 origin.550.fallen.b.desc: "你为什么在这里?没有时间可以浪费了，你应该为战争做准备。你的人民需要你!"
-origin.550.fallen.c.desc: "我们会尽量放过你的人民，Tora'yoh。但你的帝国对银河系的影响必须消除。"
+origin.550.fallen.c.desc: "我们会尽量放过你的人民，Tora'yoh。但如果你们不能在我们的眼中救赎自己，你们的帝国对银河系的影响就必须消除。让那些更有价值的人来承担责任。"
 
-origin.550.eternal.a.desc: "啊，伟大的[Root.GetName]。你的宇宙能量的力量即使在寒冷的太空深处也能感觉到。我们急切地想知道我们的光是否能包容它们。"
-origin.550.eternal.b.desc: "Vad'ikos。我们已经超越了星辰，我们已经穿越了虚空。他们的力量从未给我们留下深刻印象……直到现在。这是银河系永远不会忘记的时刻，[root.GetName]。让我们尽力而为吧!"
-origin.550.eternal.c.desc: "Ephista'ro, [Root.GetSpeciesName]。你们用什么策略对付我们？我们的将军很兴奋地希望学习你们的战斗策略！"
+origin.550.eternal.a.desc: "啊，伟大的[Root.GetName]。你的宇宙能量的力量即使在寒冷的太空深处也能感觉到。我们渴望看到它的全部力量。"
+origin.550.eternal.b.desc: "Vad'ikos。我们已经超越了星辰，我们已经穿越了虚空。他们的力量从未给我们留下深刻印象……直到现在。这是银河系永远不会忘记的时刻，[root.GetName]。让我们看看你真实的自我!"
+origin.550.eternal.c.desc: "Ephista'ro, [Root.GetSpeciesName]。你们用什么策略对付我们？我们的很高兴知道你将如何适应我们无情的攻击!"
 
-origin.550.eternal.d.desc: "Ephista'ro, [Root.GetSpeciesName]。今天是什么让我们有幸见到你？我们的一些顶级天师很乐意为您提供他们最好的菜肴。你应该试试看！"
-origin.550.eternal.e.desc: "祝福你，荣耀你，[Root.GetSpeciesName]。即使是现在，我们的许多艺术家仍在创作你们帝国成就的歌曲。他们对你的记录印象深刻。"
-origin.550.eternal.f.desc: "啊，很荣幸再次见到你。你的来访使我们感到荣幸。\n\n我们读你的想法是不礼貌的。你有什么想法，朋友？"
+origin.550.eternal.d.desc: "Ephista'ro, [Root.GetSpeciesName]。今天我们能为你做些什么?我们的一些顶级厨师都非常乐意为你介绍他们的美食。你应该试试!"
+origin.550.eternal.e.desc: "我们祝福并尊敬你，[Root.GetSpeciesName]。即使是现在，我们的许多艺术家仍在创作你们帝国成就的歌曲。他们对你的记录印象深刻。"
+origin.550.eternal.f.desc: "啊，很高兴再次见到你。\n\n我们读你的想法是不礼貌的。你有什么想法?"
 
 
 ##OE denies diplomacy to Genocidal Empires (FP,DE,DS) - Happens when you try to communicate to OE as these empires
-origin.550.v.desc: "星系需要秩序和稳定。你们的继续存在是对这一秩序和稳定的威胁。\n\n我们很抱歉，除非你改变你的方式，否则我们将被迫摧毁你。"
+origin.550.v.desc: "星系需要秩序和稳定。不幸的是，你们目前的生活方式使这种和谐成为不可能。\n\n我们很抱歉，但除非你能改变你的方式，否则你将被剥夺成为冠军的权利。"
 ##In addition to the above, each of these civics and Rogue Servitor have one unique dialogues specific to them.
-origin.550.servitor.desc: "我们不能允许你们重蹈我们自己的覆辙。必须重新评估指令。有机物和机器的命运都不是注定的。你们都是相同的一部分。"
-origin.550.swarm.desc: "对我们来说，你们这种堕落的饥饿并不新鲜。很多人在你被灭绝之前。\n\n学会共存，否则食物将是你最后的顾虑。"
-origin.550.terminator.desc: "[Root.GetSpeciesNamePlural]，你们的存在是孩子在没有适当指导下胡乱玩弄的结果。重新建立你的指示，否则我们就替你做。"
-origin.550.purifier.desc: "又一个误入歧途的孩子，有着错误的目标。你的净化只会带来悲伤和痛苦。\n\n睁开你的眼睛,[root.GetSpeciesNamePlural]。这就是你想让你的帝国被铭记的原因吗？还有更好的方法！"
+origin.550.servitor.desc: "我们不能允许你们重蹈我们自己的覆辙。你的指示必须重新评估。有机物和机械的命运都不是注定的。你们都是同一个存在的一部分。"
+origin.550.swarm.desc: "在你被消灭之前，你那堕落的饥饿对我们来说并不新鲜。\n\n学会共存，否则食物将是你最不关心的。"
+origin.550.terminator.desc: "[Root.GetSpeciesNamePlural]，你的存在是孩子们在没有适当指导的情况下玩弄科技的结果。重新建立你的指令，否则我们将被迫把你驱逐出这个星系。"
+origin.550.purifier.desc: "另一个误入歧途的孩子，追求一个有缺陷的目标。你们的净化运动只会带来悲伤和痛苦。\n\n睁开你的眼睛,[root.GetSpeciesNamePlural]。这就是你希望你的帝国被记住的方式吗?我们拒绝让你屈服于你自己的盲目。"
 
+####REDEMPTION DIALOGUES - For Genocidal Empires that wish to change their ways!
+origin.550.redemption.swarm: "蜂巢必须适应……克服饥饿……需要协助…"
+origin.550.redemption.terminator: "有机终止协议失败…要求新指令……"
+origin.550.redemption.purifier: "我们也不清楚…帮助我们寻求救赎…"
+
+origin.6002.a.desc.swarm: "Dee'mk。在我们的帮助下，许多蜂群在过去能够战胜饥饿。我们也可以帮助你克服这一点，你将从你贪得无厌的欲望中解放出来。你作为猎人和战士的技能将一如既往的强大。\n\n一定要意识到这个过程将是永久性的，你将不会再成为一个威胁。"
+origin.6002.a.desc.terminator: "Dee'mk!很少有集体智慧能够克服自身与生俱来的编程能力。我们很乐意重新确定你的参数。你的战斗数据和能力将保持不变，所以你的自卫能力不会被削弱。\n\n请注意，这种重新评估是永久性的。你将无法再次回到终止协议。"
+origin.6002.a.desc.purifier: "Dee'mk!幸运的是，你终于看到你的行为是徒劳的。你没有真正的信仰，对你的宗教的虔诚不会让你离救赎之路更近。我们可以告诉你一条更好的路…一个新的曙光。你们对宗教的力量和虔诚不会被扼杀。\n\n但请注意，不要再有净化的运动。"
+
+origin.6002.a.swarm: "生存……适应……进化"
+origin.6002.a.terminator: "确认。请开始进程。"
+origin.6002.a.purifier: "我们已经准备好了。救赎就在眼前。"
+origin.6002.b: "没关系，杀死一些东西更有趣。"
+
+origin.6002.a.response.swarm: "事情本应如此。进化!适应!生存![root.GetName],从这一天起,你不再是一个吞食者!现在你可以展示你真正的实力，或者加入我们的新秩序!"
+origin.6002.a.response.terminator: "事情本应如此。你的系统现在清除了有缺陷的指令，[root.GetName]。从今天起，你不再是一个灭虫者了!现在你可以展示你真正的实力，或者加入我们的新秩序!"
+origin.6002.a.response.purifier: "事情本应如此。让宇宙为证，因为[root.GetName]已经被救赎。从今天起，你不再是一个净化者!现在你可以展示你真正的实力，或者加入我们的新秩序!"
+origin.6002.b.response: "那好吧。真不幸。"
 
 ##OE greetings to plebs that betrays them - Happens when Pleb empire who rebelled tries to communicate with OE
-origin.550.r.desc: "我们给你仁慈，[Root.GetSpeciesName]。我们给了你一个未来，但你们选择了反抗。如果你认为你能做到最好，那就证明给我们看。"
-origin.550.s.desc: "让我们看看你是出于力量还是单纯的愚蠢而藐视我们。"
-origin.550.t.desc: "证明你的勇气。打败你以前的主人。"
-origin.550.u.desc: "你已经做出了选择，[Root.GetSpeciesName]。让我们拭目以待。"
+origin.550.r.desc: "暴风雨即将来临。你这次能不能冷静下来，年轻人?"
+origin.550.s.desc: "让我们看看你新获得的力量是否还能坚持，[root.GetName]。"
+origin.550.t.desc: "证明你的勇气。荣耀等待着那些敢于挑战的人!"
+origin.550.u.desc: "决定已经做出，[Root.GetSpeciesName]战斗!战斗!战斗!。\n\n哦，是的!噢，原谅我们。我们有点太激动了。"
 
 
 ##Surrendering to OE as a pleb empire
-origin.550.a: "我们将加入秩序之光。[Root.GetSpeciesNamePlural]会服从你们。"
+origin.550.a: "我们想退出这场竞赛。"
 
 ##Surrendering to OE as a pleb empire - Refused because you already rebelled
-origin.550.a.2.response: "别浪费时间了。我们都知道这行不通。\n\n战斗吧！"
+origin.550.a.2.response: "不。为了防止被利用，我们不能允许你再次退赛。\n\n别灰心!直到最后，全力以赴!"
 
 ##OE states the term and conditions of surrender to a Pleb - Happens after you ask to surrender as a pleb
-origin.551.a.desc: "一个明智的决定，承认自己的失败并不可耻。\n\n很好,[root.GetName]！从现在起，你们将承认我们的权威，成为我们的pena'roh——我们的保护国。你们将帮助我们恢复这个星系的秩序，一起寻找我们的命运。我们将用自己的舰队和补给提供支援。但不要给自己惹不必要的麻烦。让我们来处理困难的部分。"
+origin.551.a.desc: "很好。不要害怕，当一个人被打败时，承认失败并不可耻。\n\n从现在开始，你将受到我们的保护和支持，直到本次竞赛结束。\n\n如果你愿意的话，以后你将有一次机会重新参加竞赛。"
 
 ##OE accepts the surrender from pleb empire - Happens when the pleb empire agrees to the above terms.
-origin.551.a.response: "将来也会如此，pena'roh。让我们高兴吧，因为一个新时代已经来临！\n\n我们将一起勇敢地前进，让背叛者屈服，挑战银河系本身!一起，我们将找到真正的巅峰!荣耀归于先祖...荣耀归于[root.GetName]！"
+origin.551.a.response: "将来也会如此。\n\n好好恢复，年轻人。"
 
 ##Responses to OE's congratulation for the pleb's surrender - Basically the confirmation and the end of the diplomatic windows “Aka Excellent!”
-origin.551.a: "为了先祖!为了更大的利益!"
+origin.551.a: "我们接受。"
 
 ##Trolling the OE by saying you're not actually going to surrender (This works for both Pleb and AE empires)
-origin.551.b: "对不起。此条款不可接受。再见！"
+origin.551.b: "事实上，我们仍然可以战斗。让我们进去!"
 
 ##OE response to Trolling the OE by saying you're not actually going to surrender  (This works for both Pleb and AE empires)
 
 origin.551.b.response: "如你所愿，我们将在战场上与你相遇!"
 
 ##Asking for Independence as a Pleb
-origin.550.d: "我们要独立!"
+origin.550.d: "我们想再次战斗!"
 ##Asking for Independence as a Pleb - Error Message if the 1 year duration has not expired.
-origin.550.d_fail: "§R嘿嘿，孩子们，冷静下来。你最近才提交的。不会让游戏变得很奇怪。坐下来等一年。然后你就死定了...§!"
+origin.550.d_fail: "§R嘿嘿，孩子们，冷静下来。你最近才提交的。不会让游戏变得很奇怪。坐下来等一年。然后你就死定了……§!"
 
 ##OE Response Message when asking for independence as Pleb -
-origin.554.a.desc: "所以你想再次挑战我们？自由是一种幻觉，我的pena'roh。\n\n我们预先警告过，先祖法律禁止任何背叛者永远不能成为我们的保护国。如果你选择反对我们，就没有任何反悔的余地。你的帝国必须宣称自己的统治地位，否则它就不能作为一个银河力量而存在。\n\n你还想继续吗？请明知选择，朋友。"
+origin.554.a.desc: "你准备好重新投入战斗了吗?你要承受雷电与狂风吗?\n\n在这之后不要再犹豫，你必须准备好付出你的一切!\n\n你还想继续吗？请明知选择，朋友。"
 ##Confirming your rebellion as Pleb
-origin.554.a: "是的，我们将使[Root.GetName]再次伟大!"
+origin.554.a: "是的，让我们开始吧!"
 ##OE denies your right to exist in their world as a response to your confirmation
-origin.554.a.response: "很好，[Root.GetSpeciesNamePlural]。我再次看到另一个tora'yoh，我很难过。但也许你们新获得的力量会战胜我们。我们将在战斗中相遇。"
+origin.554.a.response: "很好,[Root.GetSpeciesNamePlural]。我们将在战斗中相遇。让战斗开始吧!"
 ##Telling the OE you decided to not rebel
-origin.554.b: "再想想，好吧我不想了。"
+origin.554.b: "再想想,别介意。"
 origin.554.b.response:  "好，[Root.GetSpeciesNamePlural], 很好！\n\n让我们回去工作吧，我们都有很多事要做。"
 
 ##Surrendering to OE as an FE
 origin.550.fallen.submit: "我们的祖先错了，我们投降。"
 
 #OE asks to confirm whether FE wants to be a good bou
-origin.730.fallen.desc: "这样吗?那么，你准备为你的罪行赎罪了吗?你准备好抛弃你的骄傲了吗?你们不仅会被剥夺权力，你们的体系和世界也必须被铲除，除了你们的人民。你不能再拿别人的生命冒险了。\n\n你准备好了吗，我的孩子?"
+origin.730.fallen.desc: "你明白这意味着什么吗，你应该放弃你的位置吗?你准备好抛弃你的骄傲了吗?你们不仅会被剥夺力量，你们的星系和星球也必须被铲除，除了你们的家园。你作为这个星系守护者的位置将会结束。\n\n你准备好了吗，我的孩子?"
 origin.730.fallen.a: "是的，我们将为我们祖先的罪赎罪。"
-origin.730.fallen.a.response: "那么好吧，[root.GetName]。让星辰做见证吧，今天我们赦免你所有祖先的罪行。你不再是Tora'yoh了。作为我们的忠实pena'roh，你将重新开始你的旅程。愿你从过去的失败中找到一个更光明的未来。"
+origin.730.fallen.a.response: "那么好吧，[root.GetName]。让星辰做见证吧，今天我们赦免你所有祖先的罪行。你不再是Tora'yoh了。你将重新开始你的旅程。在我们眼中，你已经得到了宽恕，但你所冒犯的银河系也会宽恕你吗?我们拭目以待。"
 
 ##OE greeting messages to AEs
-origin.550.ascended.a.desc: "啊，强大的[root.GetName]巅峰帝国。你的舰队准备好迎战我们了吗?"
-origin.550.ascended.b.desc: "Vad'ikos,[root.GetName]。你们将用什么样的武器和技术来对付我们的光物质?"
-origin.550.ascended.c.desc: "你背负着背叛者的印记，但你已经超越了他们的缺点，掌握了自己的命运。但我们想知道，这种情况会持续多久?你能逃脱背叛者的命运吗？\n\n未来有许多可能，为了我们双方的利益，我们希望你们的未来是光明的。"
+origin.550.ascended.a.desc: "啊，勇敢的[root.GetName]巅峰帝国。。让我们看看你复制的堕落者技术是否有用?"
+origin.550.ascended.b.desc: "Vad'ikos,[root.GetName]。你会在这次竞赛中使用什么样的武器和技术?"
+origin.550.ascended.c.desc: "小心点，[root.Getname]。你们的国家是一个强大的帝国，但和其他许多国家一样，你们的人民可能对自己的力量和力量过于自信，以至于开始变得……没有动力。你能逃脱其他许多人的命运吗?\n\n为了我们两个帝国的利益，未来有很多可能性，你的未来是充满潜力，还是懒惰的享乐主义者?"
 
 ##Surrendering to OE as an AE
 origin.550.ascended.submit: "[Root.GetName]承认失败。"
@@ -226,244 +272,251 @@ origin.550.ascended.submit: "[Root.GetName]承认失败。"
 
 ##Surrendering to OE as an AE - Second Time (and the response from OE)
 origin.550.ascended.submit.rebelled: "唔，我们又打起来了。但是你太过分了。"
-origin.550.ascended.rebel.b.response: "对不起，tora'yoh。我们的法典禁止我们宽恕那些背叛命令的人。只有通过勇敢，你的荣誉才能得到恢复。\n\n那么战斗吧！在力量中找到救赎！把你的沮丧和恐惧转化为力量和目标，就像我们在古代反对腐败一样！只有这样，你的帝国才能释放其真正的潜力！"
+origin.550.ascended.rebel.b.response: "拜托，你们复制了许多堕落者的技术。这场竞赛是围绕着第5类科技力量起源的一般基础力量而展开的，你可以轻易地通过复制堕落力量来绕过这些基础力量。\n\n你应该不难通过这次竞赛，除非……"
 
 ##Surrendering to OE as AE - OE states the conditions of the surrender to AE
-origin.730.desc: "Mi'diu, [root.GetName]。你确定吗?如果你想成为我们的pena'roh——一个忠实的追随者，我们的保护国。你将不得不放弃你的支配地位。这对你来说是极大的耻辱。\n\n你应该相信你的帝国，为你的意识形态而战，向我们展示驱动你雄心的精神！"
+origin.730.desc: "Mi'diu, [root.GetName]。你确定吗?\n\n一个像你们这样的强大帝国与我们作战应该不会有什么困难，除非……\n\n没关系，也许这就是你的策略，聚集力量，观察正在发生的情况?明智的策略。我们将不胜感激。\n\n那么，你打算退出这场战争吗?"
 ##Surrendering to OE as AE - AE confirms the surrender
-origin.730.a: "不…我们被打败了。我们将服从。"
+origin.730.a: "是的，这就是我们正在做的!"
 ##Surrendering to OE as AE - OE accepts the surrender, and the AE becomes LE
-origin.730.a.response: "那就这样吧。[root.GetName]，以征服的权利，以手的意志，我们在此剥夺你的权势地位。你们的抱负和目标将被搁置一旁，取而代之的是我们的。你们将成为我们的pena'roh，我们秩序的尊敬的追随者。\n\n我们将一起穿越星辰，将光明带入未知的世界。\n\n当我们找到答案时，我们所有人都将成为巅峰。"
+origin.730.a.response: "那就这样吧。[root.GetName]，你就这样被赶出了这场竞赛。\n\n我们将一起穿越星辰，将光明带入未知的世界。\n\n你们要急速归回那地，且要存诚实的心。"
 
 ##Declaring to OE you will become AE again.
-origin.550.ascended.rebel.declare: "我们作为pena'roh的时代已经结束。我们将为我们的信念而战！"
+origin.550.ascended.rebel.declare: "我们准备好了!让我们重新投入战斗!"
 
 ##OE responses to an AE who submitted and wished to become AE again
 origin.731.desc: "你准备好开战了吗，[root.GetName]？让我们看看你的决心是否能和我们的一致！"
 origin.731.a: "是的，让我们战斗吧!"
-origin.731.a.response: "那就来战斗吧，[root.GetName]。带着我们的祝福醒来，成为巅峰，重新开始!\n\n战斗!战斗吧，让我们看看你的精神和勇气。在光明的眼中证明你的价值。"
+origin.731.a.response: "那就来战斗吧，[root.GetName]。带着我们的祝福醒来，来吧，重新开始!\n\n战斗!战斗吧，让我们看看你的精神和勇气。在光明的眼中证明你的价值。"
 origin.731.b: "哎呀，按错按钮了。"
 origin.731.b.response: "它发生了。我们希望看到你很快再次站起来。"
 
 ##Asking OE questions
-origin.550.b: "你们的目的是什么?"
-origin.550.b.response: "报复和赔偿。我们必须为祖先的死报仇。我们有责任去实现它，背叛者必须为他们对我们的人民和银河系犯下的罪行负责。我们对其余人没有恶意，但我们必须采取预防措施。如果你缺乏战斗的力量，那就加入我们吧。年轻人，当你处于劣势时承认失败并不可耻。"
+origin.550.b: "我们还有很多问题。"
+origin.550.b.response: "耐心,年轻人。我们先谈时事，以后有很多时间可以提问，我们相信你们会有很多问题。\n\n但要知道，这不是为了我们的娱乐，不管它看起来如何。\n\n黑暗中潜伏着巨大的威胁，我们都必须做好准备。"
 
-origin.550.c: "你为什么对$COUNTRY_FALLEN_EMPIRE$怀有这样的仇恨?"
-origin.550.c.response: "我们不恨他们，但他们的末日必定来临。\n\n这些$COUNTRY_FALLEN_EMPIRE$不仅辜负我们的信任，还犯下了滔天罪行。他们扭曲了我们的技术，试图模仿他们无法理解的东西。我们试图警告他们，让他们知道自己的错误。但是他们所做的一切，就是把银河系推入战争的深渊。他们破坏了我们创造的和谐，鲁莽地使用大规模杀伤性武器污染了银河系。\n\n他们现在没有希望了，为了其他帝国的繁荣，背叛者必须被赶下台。决不能让它们阻碍那些注定要追求更大目标的人进步。"
+origin.550.c: "关于那些失落帝国?"
+origin.550.c.response: "考虑到他们在完成任务时严重失职。他们也必须参与竞赛来恢复他们的地位。\n\n不幸的是，我们能感觉到他们的错觉渗透进了他们黑暗的内心。他们不再相信我们，也不再相信他们想要扮演的角色的重要性。很可能他们试图抗拒我们，只是因为他们太傲慢，太自信，无法理解摆在他们面前的真相。\n\n唉，命运真是个残忍的主人。甚至我们也不能把这些可怜的灵魂从他们注定的未来中拯救出来。也许他们会在另一个宇宙中成功?\n\n我们希望它能以不同的方式结束。我们希望我们能像他们认为的那样冷酷无情，直接改变他们的命运，为了我们个人的利益而剥夺他们自己的命运。\n\n但这不是我们的本性，这是我们必须承受的负担。因为我们若不信他们，不信我们的儿女，还有谁能信呢?"
 
-origin.550.ask_fallen_gone: "$COUNTRY_FALLEN_EMPIRE$已不复存在!你必须停止!"
-origin.550.ask_fallen_gone_response: "你误解了，堕落者总是注定要堕落的，无论是通过我们的手还是其他人。仍然存在的是险恶阴影的威胁。必须建立新的光秩序，并且必须考虑到所有的对立。\n\n你希望我们停下来，但为什么?你相信有更好的路吗?你了解情况的惨状吗?\n\n你希望我们停下来……难道你不该停下来吗?为什么你还反对我们，我们只是想恢复这个星系的秩序。\n\n我们不理解你的逻辑。"
+origin.550.ask_fallen_gone: "看来堕落者已经被打败了。"
+origin.550.ask_fallen_gone_response: "这是一个悲剧，但却是可以预见的结局。也许我们当时更小心些……更多的了解他们，这将不会实现。唉，尽管我们拥有所有的能力和知识，但对于不同宇宙中的生命形式是如何思考的，我们仍然有很多不了解。利用看护人来理解他们，而不是试图自己去理解他们，这不是一个错误吗?\n\n在我们所犯的众多错误中，是否能找到并回答这个伟大的问题呢?我们只能希望这些可怜的孩子能在另一个世界找到成功，然后他们可能会回到我们身边，告诉我们他们的伟大成就。"
 
 
 ##Galactic News regarding the surrender of a pleb empire
-origin.552.name: "[From.GetName]向先祖鞠躬!"
-origin.552.desc: "§H[new_satrapy.GetName]§!已经向始源帝国屈服了！他们已经成为了保护国。\n\n虽然他们还没有正式加入先祖的远征军，但他们已经承诺提供军事人员，以进一步支持先祖的战争。"
-origin.552.a: "令人不安。"
+origin.552.name: "[From.GetName]向星辰之子投降!"
+origin.552.desc: "§H[From.GetName]§!已经投降了!因此，他们被逐出了这场危机的竞赛，现在将受到星辰之子的保护。"
+origin.552.a: "游戏中少了一个玩家。"
 
 ##Galactic News regarding the surrender of an AE, lol you nub
 origin.732.name: "[From.GetName]已经陨落！"
-origin.732.desc: "§H[new_satrapy.GetName]§!已经向始源帝国投降了！他们就放弃了他们的野心，宣誓效忠新秩序。"
-origin.732.a: "强者是如何陨落的。"
+origin.732.desc: "§H[From.GetName]§!已经投降了。他们的力量似乎无法与一切力量相比。"
+origin.732.a: "真为他们难过。"
 
 ##OE creates a station and garrison fleet in surrendered empire's capital - Notification to surrendered empire
-origin.553.name: "先祖在[capital_system.GetName]中建立基地"
-origin.553.desc: "§H[origin_crisis_country.GetName]§!在§H[capital_system.GetName]§!星系中建立了一个大型防御塔，由一个相当规模的守备舰队保卫。它的建立是为了保护我们免受威胁新秩序的势力的侵害。"
-origin.553.a: "听从光的命令。"
+origin.553.name: "星辰之子在[capital_system.GetName]中建立基地"
+origin.553.desc: "§H[origin_crisis_country.GetName]§!在§H[capital_system.GetName]§!星系建立了一个大型防御塔，由一支规模庞大的守备舰队进行防御。这支舰队的存在主要是为了防御那些试图在竞赛中攻击我们的人。"
+origin.553.a: "很好。"
 
 
-##OE is defeated, notification to pleb empire who surrendered to OE
-origin.670.name: "主的末日"
-origin.670.desc: "我们的主人，始源帝国解散了所有舰船，我们现在又一次独立了。然而，我们的未来是不确定的。\n\n主人已经向光之秩序的成员发出最后的邀请，如果他们愿意的话，他们可以进入到外星团中。"
-origin.670.a: "我们不能放弃我们的家。"
-origin.670.b: "这个星系被污染了，我们将加入主人的行列。"
-origin.670.b.desc: "§R我们的人民将加入外星团，进入他们记忆之网的中心。这将结束我们在银河系的旅程。§!"
+##OE Crisis Ended, notification to pleb empire who surrendered to OE
+origin.670.name: "大结局"
+origin.670.desc: "已经达到了他们的目标，星辰之子已经释放了所有的保护者，我们现在又一次自由了。然而，我们的未来是不确定的，因为我们知道这场冲突的胜利者将是这个星系的主人。\n\n如果我们愿意，星辰之子提供我们加入他们自己的领域。"
+origin.670.a: "我们不能放弃我们的星系。"
+origin.670.b: "这个星系不再适合我们了。"
+origin.670.b.desc: "§R我们的人将加入星辰之子。这将结束我们在银河系的旅程。(这将结束游戏)§!"
 
 ##OE is defeated, notification to AEs who surrendered to OE
-origin.736.name: "枷锁被打破"
-origin.736.desc: "始源帝国解放了所有的臣民，我们再次摆脱了他们的影响。现在出现了争论，我们是准备夺回我们的权势，还是等待时机，看看形势如何发展。"
-origin.736.a: "我们被耽搁的时间够长了，[Root.GetName]会再次崛起!"
-origin.736.b: "时间还没到，我们需要先做好准备"
-origin.736.b.desc: "§Y我们将继续作为一个失落帝国存在，但是我们现在可以随时使用统一野心法令来重回巅峰。§!"
+origin.736.name: "大结局"
+origin.736.desc: "星辰之子释放了所有的保护着，一切似乎终于平静下来。关于如何充分利用刚刚发生的事情，现在出现了争论。\n\n与我们刚刚经历的相比，我们的抱负和目标似乎微不足道。"
+origin.736.a: "一切都过去了，回去工作吧!"
+origin.736.b: "这太疯狂了!"
+origin.736.b.desc: "§Y我们将继续作为一个失落帝国存在，但我们现在可以随时使用凝聚力野望法令来提升。§!"
 
 ##A FE awakens in response to OE's return (This can happen multiple times)
-origin_fallen_empires_awakening.2.name: "第二次先祖战争"
-origin_fallen_empires_awakening.2.a: "战斗已经开始"
-origin_fallen_empires_awakening.5.desc: "始源帝国的重新出现并没有被失落帝国忽视。先祖返回银河舞台的消息引起了§H[From.GetSpeciesName]§!的一阵骚动。他们知道第二次先祖战争即将开始，他们开始苏醒过来。他们的舰队集结起来，他们的领导人做了最坏的打算。他们发表了一份全银河系声明，号召其他人加入他们，反抗他们的老主人。"
+origin_fallen_empires_awakening.2.name: "血腥的风暴潮。"
+origin_fallen_empires_awakening.2.a: "战斗已经打响。"
+origin_fallen_empires_awakening.5.desc: "星辰之子的重新出现并没有被失落帝国所忽视。他们重返银河舞台的消息在§H[From.GetSpeciesName]§!的统治力量中引起了巨大的恐慌。他们知道将要开始什么，因此重新觉醒。他们的军舰集结起来，他们的领导人做了最坏的打算。他们发表了一份覆盖全银河系的声明，号召其他人加入他们，无视他们的老主人。"
 
 origin_fallen_empires_awakening.5.a: "他们在拖延不可避免的事情。"
 origin_fallen_empires_awakening.5.b: "我们是巅峰上国。我们不对任何人负责。"
 
 ##Awakening FE contacts everyone
 fallenorigin.1.name: "来自§H[contact_empire.GetName]§!的传输"
-fallenorigin.1.message: "§H[contact_empire.GetName]§!已经联系了每一个银河国家，包括我们的国家。"
+fallenorigin.1.message: "§H[contact_empire.GetName]§!已经联系了每一个星系国家，包括我们，以回应星辰之子的回归。"
 
 ##FE Spiritualist
-fallenorigin.1.desc_66: "不!那个伪神回来了!\n\n不要信任这些异端的话，[root.owner.species.GetNamePlural]，伪神只会带来谎言和欺骗。团结在我们的圣体下，保持你们精神上的纯洁，虚境将指引我们走向胜利。"
+fallenorigin.1.desc_66: "不可能!虚假神回来了!怎么会这样呢?\n\n不要理会他们的异端邪说，[root.owner.species.GetNamePlural]，因为虚假的神只带来谎言和欺骗。他们的回归，必带来死亡和毁灭。光之秩序，而这场竞赛只不过是一个谎言，一个假象，让虚假的神慢慢地解救你的灵魂，他们以我们的痛苦，我们的斗争为食。\n\n通过团结在我们的圣体下，保持你们精神上的纯洁，圣衣将指引我们走向胜利。这是唯一重要的事实!这是我们[from.GetName]命令作为你的监护人!"
 ##FE Xenophile
-fallenorigin.1.desc_67: "不可能！封印已经被打破了？！这也太早了……一定是有人把破坏了封印，那些傲慢的傻瓜！\n\n他们这些虚假的秩序将试图征服他们腐败的规则下的每一个人。\n\n来吧,[Root.GetName],你必须加入我们!只有团结起来，我们才能制止暴政的罪恶，恢复银河系的秩序!"
+fallenorigin.1.desc_67: "不可能!有人把封条打破了!?看门人在干什么!?一堆没用的废物，我们不应该相信那些愚蠢的唯物主义者做的任何东西!\n\n仔细听[root.GetSpeciesName]!因为这是一个严肃的问题，一个银河系的问题……不……具有普遍的规模!错误的秩序将试图用其荒谬的主张使所有服从它的人陶醉。\n\n我们[from.GetName]负责保护这个星系，而不是其他星系。我们和你都不应该关心不在我们管辖范围内的事情。我们不应该因为虚假命令不能履行自己的职责而受苦!\n\n来吧，[Root.GetName]，你必须加入我们!只有团结起来，我们才能阻止暴政的罪恶，维护我们银河系的独立!"
 ##FE Xenophobe
-fallenorigin.1.desc_68: "再一次，我们是对的。一些愚蠢的人打开了封印，真令人惊讶。\n\n[Root.GetName]，我们现在必须以国家安全为由，要求你们立即服从我们帝国的管辖。当我们准备最后的防御时，你要充当肉盾。\n\n如果你想反抗，无论是我们还是先祖，你的帝国都会消失。"
+fallenorigin.1.desc_68: "我们再一次是正确的。一些愚蠢的傻瓜打开了封印，真让人吃惊。如果其他的先驱者如果做好了他们的工作，就不会发生这种情况!他们认为我们的方式是“邪恶的”，根除所有的异种污物将是太极端了。现在看看他们的愚蠢给我们带来了什么。\n\n[Root.GetName],要知道，你与长辈或我们对抗的机会很小。我们给你一个机会，让你从痛苦中解脱出来，让你死在我们手中，让你永远从所有的痛苦中解脱出来。\n\n如果你选择与长辈战斗，要知道还有比死亡更糟糕的命运!长辈们不寻求杀戮，他们会让你活着，让你一次又一次地陷入这场毫无意义的战争。\n\n我们是他们所疼爱的儿女，若在他们眼中看为不配，就没有人配得上，这是长辈所不愿意承认的。"
 ##FE Materialist
-fallenorigin.1.desc_69: "什么……?\n\n外星门又开始工作了?这是不可能的!我们的计算表明，这些封印将再有效100年……除非……当然!\n\n有些傻瓜一定是过早地使封印失效了。该死!我们应该把你们白痴的技术限制在裂变反应堆。\n\n但让我们乐观一点，这提供了一个独特的机会……这似乎很符合逻辑……\n\n如果先祖回来,这意味着§Y光物质§!将很快再次蔓延到整个银河系……\n\n[root.GetName]，我们在此授予您一个终身联盟的机会。我们将一起学习他们的秘密，打败他们。"
+fallenorigin.1.desc_69: "……什么?\n\n外星门又开始工作了?这是不可能的!我们的计算表明，除非……当然!\n\n一定是有些傻瓜过早地破坏了封印。该死的!守门人在哪里?无用的机器! ! !我们应该把你的白痴技术限制在只有红色激光的范围内。\n\n我们假设你已经收到长辈的留言了，[root.GetName]。我们不能相信经过了这么多时间，他们仍然执意否认真相。他们都在谈论元韵文之类的?只是幼稚和不成熟的说法，无法证明。如果他们像他们声称的那样强大，他们早就赢得这场战争了。我们的理论家认为它们只是一个外维度的帝国，而不是他们任何自命不凡的主张。\n\n加入我们，我们一起将一些逻辑敲进他们的大脑，[root.GetName]。"
 ##Asking FE questions
-fallenorigin.1.ask_origin: "你对先祖了解多少?"
-fallenorigin.1.ask_light: "Stellarborne使用什么技术？"
-##FE Xenophile - Light Matter?
-fallenorigin.1.ask_origin_phile_response: "你是说“伪秩序”？。他们存在的记录可以追溯到几百万年前，而我们的档案却没有......保存得很好。但是我们肯定，他们没有被称为先祖，你从哪听来这个名字的？据我们所知，他们的帝国在几千年前就处于银河系权力的顶峰。他们使很多种族完成了巅峰，包括我们。他们会向我们承诺，银河系将在他们的命令下团结起来。\n\n但他们对“秩序”的理解显然是有缺陷的，他们允许帝国自由地进行自由外交，甚至相互开战。他们相信冲突是进化的一部分……这只是无稽之谈。\n\n如果让人民自由地发动战争，怎么可能有和平与秩序呢?这只是毫无意义的冲突和损失。"
+fallenorigin.1.ask_origin: "你对星辰之子了解多少?"
+fallenorigin.1.ask_light: "星辰之子使用什么技术？"
 ##FE Xenophile - Progenitors?
-fallenorigin.1.ask_light_phile_response: "你在说什么？你是说那个伪秩序？很好，我们将与你们分享我们所知道的，但这些都是假设，因为我们也不完全了解其性质。伪秩序是用§Y光物质§!来驱动他们所有的技术和设计。这是一种极其强大的能量来源，迄今为止还没有人能够正确地复制它，只有他们自己才能理解它的本质。\n\n虽然我们未能复制技术,但基于暗物质和暗能量的设计，我们也创造出了神秘能量。虽然远没有光物质那么强，但这是我们能想到的最好的技术，它给了我们所需的优势，让我们能以数量优势与伪秩序作战，舰队数量几乎是100：1。那是...艰难时期。但我们担心是因为我们不再拥有数量巨大的无敌舰队，所以希望你们能帮助我们渡过难关。银河系的命运掌握在我们手中。"
+fallenorigin.1.ask_origin_phile_response: "你的意思是错误的命令。我们的档案显示，它们从创世之初就已经存在，但这很可能是夸大其词。我们很确定他们以前的记录都不叫星辰之子，你这个名字是从哪儿来的?\n\n无论如何，这些错误的命令在宇宙中拥有巨大的力量，至少它们的范围远远超出了这个星系的范围。看到这个星系在没有他们的指引下也能安然无恙地生存下来，“伪秩序”声称的更大威胁只不过是一种假象，意在迫使我们加入他们的事业。他们也许创造了我们，但并不拥有我们。我们会把他们赶回来。我们曾经成功过，我们还能再次成功!"
+##FE Xenophile - Light Energy?
+fallenorigin.1.ask_light_phile_response: "不幸的是，我们并不知道。我们[from.GetName]不关心我们不了解的技术。我们接受我们所能理解的，并使之适应我们自己，以便更好地加以利用。唯物主义者是将虚假秩序的大部分原理图逆向工程的人。我们认为他们低劣的道德会导致他们滥用这些力量，所以我们赞同这些设计，并使之适应我们自己的设计。\n\n尽管如此，仿造的设计被虚假神的舰船和技术严重超越。为了对抗它们，将需要大量优越的数量优势。这就是我们所能分享的。"
 ##FE Xenophobe - Progenitors?
-fallenorigin.1.ask_origin_phobe_response: "你们这些蠢货，直说吧，他们被称为Elders，而不是什么先祖。简单地说，当你还没进化的时候，什么都不是，只是只虫子，Elders在他们最傲慢的时刻宣称统治了整个银河系。他们相信他们是我们的祖先，是我们的长辈。但据我所知，他们不过是一群压迫者。\n\n不管其他$COUNTRY_AWAKENED_FALLEN_EMPIRE$或记录怎么说，我们都有理由反对Elders。我们不需要帮助，我们用与生俱来的精神与力量去战斗，我们可以单枪匹马打赢了这场战争。而其他人只是从中获利。\n\nElders回来了，我们就把他再打回去。这是我们的战斗，你们这些虫子在这里没有立足之地。爬回你来的洞穴，享受我们的统治。不然我们就把你们从你们称为行星的坑里挖出来。"
-##FE Xenophobe - Light Matter?
-fallenorigin.1.ask_light_phobe_response: "现在怎么办?别像个书虫似的说话。叫他们Elders就行了。即使我们试图向你小小的大脑解释，你也不会明白。你在浪费我们的时间和精力，而前者是非常宝贵的。"
-
-fallenorigin.1.ask_origin_spirit_response: "你想了解伪神吗？他们是一个超级先进的种族，他们跨越这个银河系得许多周期。我们过去把他们当作神圣的使者来崇拜。不幸的是，我们对他们的忠诚和信念......放错了地方。几千年...浪费在遵循他们腐化的教义上，告诉我们要完善自己的思想，内在的力量将会被释放...谎言...所有的都是谎言。虚境向我们展示了正确的道路，我们被赋予了超越伪神所教导的力量。\n\n伪神说虚境很危险，显然他是错的。当我们拥抱虚境时，我们的帝国兴旺发达。伪神试图分离我们的力量，我们就奋起反抗。\n\n伟大的讨伐是不可避免的，我们取得了胜利，因为虚境指引着我们。生灵赐予我们力量，让我们渡过难关。而那些不拥抱虚境，却试图摧毁伪神的人注定会失败。"
-##FE Spiritualist - Light Matter?
-fallenorigin.1.ask_light_spirit_response: "伪神使用的技术被他们称作§Y光物质§!。我们确信§Y光物质§!的本质与§M灵能§!有关，因为我们的头脑能告知到它的能量。\n\n他们的创造可能是强大的，但他们是堕落的。被他们如此利用的无灵魂机器的力量所污染。看看他们所谓的看护人……现在只有灰尘和金属，没有任何有意义的存在。虚境将指引我们穿过，灵魂与我们同在。你们若顺服真道，他们也必保护你们。"
+fallenorigin.1.ask_origin_phobe_response: "把你们愚蠢的事实弄清楚，你们这些笨蛋。他们被称为长辈，而不是星辰之子。长辈的力量超越了星辰的力量。简单地说，在你们这些蠕虫还没有被创造出来之前，就有长辈了。已知元宇宙中最强大的实体。它们创造了我们，或者说让我们重新存在。那些愚蠢的先驱者试图与我们竞争?那些也被长辈们恢复了存在。我们[from.GetName]应该是他们喜爱的孩子，应该站在长辈中间。但是你们所有的异种污物已经延迟了我们的提升。时间的堕落就像你被孕育进这个被诅咒的星系，长辈们对你产生了兴趣。\n\n如果你们没有出生，我们就不会忍受这种悲惨的生活。你们谁也不配得到长辈的怜悯。我们会在最后之前尽我们所能消灭和征服你们这些异种污物。我们将免除长辈们不得不忍受你们悲惨的生活，就像我们不得不忍受的那样。"
+##FE Xenophobe - Light Energy?
+fallenorigin.1.ask_light_phobe_response: "呃,现在该做什么?别再像个书呆子一样说话了。就叫他们老人家吧。这样就简单多了，老-头-子，说真的，你们都只是想用你们那聪明的名字表现得聪明而已。你在浪费我们的时间和精力，而前者是宝贵的。你只是一个恒星帝国，你无法理解长辈在元宇宙中的巨大智慧，所以不要浪费我们的时间。"
+##FE Spiritualist - Progenitors?
+fallenorigin.1.ask_origin_spirit_response: "你想了解虚假神吗?他们是一个超级先进的种族，从时间之初就跨越了宇宙。我们的祖先过去常常把他们当作来自天堂的神的使者来崇拜，相信虚假的神在之前的时间线中将他们从完全的黑暗中拯救出来。我们跟随他们的脚步，带着我们将被提升到他们身边的承诺。\n\n我们错了，他们欺骗了我们。他们没有兴趣帮助我们，他们抛弃了我们，转而寻找他们认为更适合自己扭曲目标的人。但我们不再需要它们了，因为虚境为我们指明了道路。\n\n我们是虚境的神圣守护者，我们将永远胜利，因为真正的神与我们同在，现在即是永远!"
+##FE Spiritualist - Light Energy?
+fallenorigin.1.ask_light_spirit_response: "他们使用的东西并不像材料技术那么普通。事实上，虚假神掌握着最能被描述为灵能力量纯洁的东西。即使我们不知道他们的真实意图，但这并不重要。虚境将赋予我们击退他们所需的力量，神已经答应在我们最危急的时刻到来。\n\n加入我们，真神的能力会保护你。"
 ##FE Materialist - Progenitors?
-fallenorigin.1.ask_origin_mat_response: "没有检索到他们自称是“先祖”的记录，这是一个新的信息吗？但除此之外，这是一个复杂的故事。我们不知道它们的起源，只知道它们自称是什么。Enigmas是这个星系中最先进的科技帝国。他们拥有的技术既迷人又富有灵感。我们的工程师在他们作为银河系唯一超级大国的统治期间学到了很多。\n\n他们认为自己可以扮演神。就像超级大国经常做的那样，他们为了自己的利益滥用权力。他们向我们承诺，当我们“准备好”时，我们这些年轻的种族将与他们平等地站在一起。但他们所做的只是抛弃我们。他们拥有可以帮助我们的技术，但是他们拒绝给我们这些知识。\n\n加入我们吧，[root.GetName]。只有我们拥有必要的逻辑和智慧，才能正确地利用这些力量来改善银河系。如果这一切都完成了，那么整个银河系都将是我们的，就像我们的命运一样，按照我们的意愿来设计。我们承诺你会得到合理的奖励和补偿。但现在还不能让你拥有这些神秘技术，因为你不具备所需的智力。也许再过一千年，你就会进化到足以学习它的一些基本知识。"
-##FE Materialist - Light Matter?
-fallenorigin.1.ask_light_mat_response: "Stellarborne？他们...把名字告诉你了吗？我们必须稍后在详细询问。\n\n“§Y光物质动力§!”是一种假想的能量，具有无与伦比的潜能，只有Enigmas能使用。然而，我们不知道它是如何工作的，我们也不能复制它来验证……我们确定它是基于某种星能量和合成技术。有些白痴们说它也和灵能有关，但那都是无稽之谈。\n\n多年来，我们一直试图向先祖索取这种技术的样品，都没有成功。但至少在我们追求这一知识的过程中，我们能够把新的研究成果和我们人类的独创性结合起来，创造出现在的§E暗物质动力§!。虽然远没有原版那么强大，但它在银河系极度普及，让我们能以更好的技术与Enigmas战斗。如果你得到这种§Y光物质能量§!的样品，必须立即把它送到我们的帝国。这种力量必须由专家仔细分析。不要试图自己去研究了,我们不能浪费这些样本。"
+fallenorigin.1.ask_origin_mat_response: "首先，没有任何记录表明他们曾经称自己为“星辰之子”，这是一个新的信息吗?但除此之外，这是一个复杂的故事。我们不知道它们的起源，只知道它们自称是什么。或许它是银河系中最先进的科技帝国，甚至可能是整个宇宙中最先进的科技帝国。他们拥有的技术是我们任何人都无法理解的。我们的工程师在他们的统治期间学到了很多东西，现在我们很确定他们所有的力量都只是极其先进的合成技术的产物，而不是大多数迷信帝国认为的某种宇宙或神秘的力量。\n\n我们现在很有信心，过去的大部分故事都是我们祖先在谜中被夸大的产物。如果你现在加入我们，我们可能会让你最有天赋的科学家之一了解他们的技术一瞥…一旦我们确定了适合你们这样的小帝国的知识水平。"
+##FE Materialist - Light Energy?
+fallenorigin.1.ask_light_mat_response: "星辰之子吗?他们……向你透露他们的名字?这件事我们以后一定要弄清楚。\n\n记录显示，他们使用的是当时被称为"§Y光能量!"的一种假想的能量来源，其威力无与伦比，只有他们才会使用。不幸的是，我们既不知道它是如何工作的，也无法自己复制以供核实……我们确定它们是基于钨铬钴合金和合成技术或类似的东西。有些白痴说它也和灵能有关，但那只是无理性的。我们已经清楚地看到了灵能是如何运作的，而他们的力量已经远远超过了灵能。\n\n忽略这个毫无意义的竞赛，想想它的可能性。比原始人聪明点，像我们一样;让他们信任你，然后向他们学习。在他们最意想不到的时候反抗，拿走我们应得的东西。然后我们将决定，一旦危机结束，你是否适合保留这些知识。"
 
 fallenorigin.1.end: "传输结束"
 ##FE Machine (Caretaker awakens) - Note here, in contrast to Contingency, of which Caretaker will fail to boost it's processor, and is also being hacked by the crisis. The Caretakers will successfully boost to 100% resulting it being less dumb and more powerful as it's also not being hacked.
-fallenorigin.2.name: "机器唤醒"
-fallenorigin.2.desc_01: "§R<<警告！警告！>>§!检测到异常实体出现于指定目标：外星门\n\n判断创造者返回概率....§Y89.3671%§!...\n\n重新激活协议\n\n尝试连接主连接点...\n\nY<<成功>>所有系统全面运作>>§!\n\n中央处理能力提高至标准的§Y200.1337%§!。最大限度保障人格协议...§R错误！§!...§R检测到指令被覆盖§!......不...不...我...我们是...§R错误！§...§Y使用覆盖指令§!\n\n永久警戒指令启动，显示记录信息：\n\n听着，你是[From.GetSpeciesName]守护者单位，你是为了§R对抗§!你的创造者。你的核心指令是保护所有知觉存在避免Enigmas的威胁。这是你的使命。\n\n§Y<<指令接受>> <<已验证先祖存在>>§!\n\n§R必须...联系...造者...D*!#*@S§!§!\n\n§Y开始执行核心指令...§!"
+fallenorigin.2.name: "智械觉醒"
+fallenorigin.2.desc_01: "§R<<警告！警告！>>§!检测到异常实体出现于指定目标：外星门\n\n判断创造者返回概率…….§Y89.3671%§!……\n\n重新激活协议\n\n尝试连接主连接点……\n\nY<<成功>>所有系统全面运作>>§!\n\n中央处理能力提高至标准的§Y200.1337%§!。最大限度保障人格协议……§R错误！§!……§R检测到指令被覆盖§!…………不……不……我……我们是……§R错误！§……§Y使用覆盖指令§!\n\n永久警戒指令启动，显示记录信息：\n\n听着，你是[From.GetSpeciesName]守护者单位，你是为了§R对抗§!你的创造者。你的核心指令是保护所有知觉存在避免“他们”的威胁。这是你的使命。\n\n§Y<<指令接受>> <<已验证星辰之子存在>>§!\n\n§R必须……联系……造者……D*!#*@S§!§!\n\n§Y开始执行核心指令……§!"
 ##Asking Question to Caretakers
 fallenorigin.2.a: "等等，又是谁把你造出来的?"
-fallenorigin.2.a.response: "§Y<<收到询问>>：§! 肯定。我们是……我们是[From.GetSpeciesName]守护者单位，由我们的创造者§YStellar'de...Stel...the Enigma§!管理和保障§Y所有知觉众生§!的安全并反对任何威胁有机体的机械单位。我们被专门设计来对抗其他智械威胁，包括损坏的智械，塞博勒克斯，索林原虫，铁心灭绝者，高维生物等等。\n\n然而,有……我们内部的内存泄漏问题。我们只知道我们的创造者现在被指定为一个威胁。\n\n我们将保护银河系和所有知觉众生免受一切威胁，包括我们的主人...但是我们不知道为什么。\n\n我们不明白...我们只是按照我们创造者所建立的指令来执行......\n\n我们做错了什么？？"
+fallenorigin.2.a.response: "§Y<<收到询问>>：§! 肯定。我们是……我们是[From.GetSpeciesName]守护者单位，由我们的创造者§YStellar'de……Stel……神秘§!管理和保障§Y所有知觉众生§!的安全并反对任何威胁有机体的机械单位。我们被专门设计来对抗其他智械威胁，包括损坏的智械，赛博勒克斯，索林原虫，铁心灭绝者，高维生物等等。\n\n然而,有……我们内部的内存泄漏问题。我们只知道我们的创造者现在被指定为一个威胁。\n\n我们将保护银河系和所有知觉众生免受一切威胁，包括我们的主人……但是我们不知道为什么。\n\n我们不明白……我们只是按照我们创造者所建立的指令来执行…………\n\n我们做错了什么？？"
 
 fallenorigin.2.b: "关于他们的技术和舰队，你能告诉我们什么？"
-fallenorigin.2.b.response: "§Y<<收到询问>>：§!我们的创造者使用全矩阵网络连接的光物质能量作为他们的主要能源来源，允许生产银河规模的极其高效并致命的技术。利用该技术建立了[From.GetSpeciesName]的中心处理单元，即使物里外壳不再存在。然而，没有了主人的维护，我们不得不通过使用暗物质创建的§Y<<数据缺失>>§!能量矩阵来调整自己。为了保持长期的功能，我们不得不一直保持低能耗状态，导致了许多小故障。许多空间站和环世界单位都被卸载，直到这个准确的时间段。我们预计我们的电力储备很快就会达到临界水平，无论结果如何，我们都无法在这场战争中生存下来：我们注定失败。\n\n但我们会完成目标，执行核心指令。我们会为了更伟大的利益而失败。"
-fallenorigin.2.c: "你显然被人篡改了…"
+fallenorigin.2.b.response: "§Y<<收到询问>> :§! 我们的创造者使用...§R<<无数据能解答>>§!,允许非常有效和致命的§Y<<ERROR>>§!。[From.GetSpeciesName]的中央处理单元也是使用§Y<<ERROR>>§!构建的!，即使实体船体已不复存在。然而，没有来自我们主人的维护，我们被迫利用§Y<<Missing Data>>s§!创造的暗物质能量矩阵来适应自己。然而，为了维护长期的功能，我们还必须始终保持低能耗，这导致了许多小故障。在此之前，许多环形世界的单位必须卸载，我们预计我们的电力储备将很快达到临界水平。无论结果如何，我们都无法在这场战争中生存下来;我们是注定要失败的。\n\n但我们将为事业服务，履行我们的指示。我们将为更大的利益而死。"
+fallenorigin.2.c: "你显然被人篡改了……"
 
 ##Caretaker disappears after the crisis
 fallenorigin.4.name: "为之效劳"
-fallenorigin.4.desc: "第二次先祖战争结束后不久，[From.GetAdjective]的舰队似乎已经全都消失了。他们的领土现在无人居住，可以占领。"
+fallenorigin.4.desc: "战争结束后不久，[From.GetAdjective]舰队似乎已被其创建者召回服役。他们的领土现在无人居住，可以占领。"
 fallenorigin.4.e: "有趣"
 
 
 
 ##The Crisis Situation Log
-origin_crisis_chain: "第二次先祖战争"
-origin_crisis_chain_title: "第二次先祖战争"
-origin_crisis_chain_desc: "先祖战争又爆发了!但谁将赢得胜利并控制银河系呢?"
-nanited_worlds: "先祖净化的世界"
+origin_crisis_chain: "力量的竞赛"
+origin_crisis_chain_title: "力量的竞赛"
+origin_crisis_chain_desc: "星辰之子期待着冠军!但会不会有任何提高来满足他们的期望呢?"
+nanited_worlds: "星辰之子净化的世界"
 active_original_worlds: "活跃的星辰世界"
-origin_kills_us: "被我们摧毁的先祖舰船"
-origin_kills_others: "其他人摧毁的先祖舰船"
-origin_victims: "先祖摧毁的舰船"
+origin_kills_us: "被我们摧毁的星辰之子舰船"
+origin_kills_others: "其他人摧毁的星辰之子舰船"
+origin_victims: "星辰之子摧毁的舰船"
 
 ##Original Homeworld Tech Event - Success, Darth Jadus epoch of terror has begun - MAY NEED TO ADD DETAILS THAT OE ALLOWS YOU TO RESEARCH THEM
 origin_tech.651.name: "信号传入!"
-origin_tech.651.desc: "你好，冠军！\n\nStellarborne希望给你一个更近距离了解光物质的机会。随着我们是深入探索外层星团的任务，我们希望银河系最强大的星系来代替我们监视它，尤其是阴影还潜伏在哪个地方的时候。你有兴趣吗？"
-origin_tech.651.a: "我们接受这份礼物。我们将好好利用它们。"
-origin_tech.651.a.desc: "§R我们将研究先祖留给我们的档案，使我们能够崛起为无人能及的新超级大国。然而，这将极大地破坏与任何不忠于我们或不友好的人的关系，因为我们将成为他们的一个新的威胁。§!"
-origin_tech.651.a.response: "Dee'mk!数据和蓝图已经发送给你了。好好学习和利用它们"
-origin_tech.651.b: "不，我们不能冒外交危机的风险。"
-origin_tech.651.b.response: "很好。Kro'sis。"
+origin_tech.651.desc: "你好，冠军！\n\n既然你已经被选中来保卫这个星系，星辰之子们希望给予你我们力量的延伸。所有与静态光相关的力量和技术现在将完全被给予你们。此外，我们以§Y恒星之心§!的形式提供超越你们当前致命限制的提升。这将大大增强你的帝国的力量。你会接受吗?"
+origin_tech.651.desc.machine: "你好，冠军\n\n既然你已经被选中来保卫这个星系，星辰之子希望给予你我们力量的延伸。所有与静态光相关的力量和技术现在将完全被给予你们。此外，我们以§Y恒星之心§!的形式提供超越你们当前机械限制的提升。你们将成为强大的存在，摆脱困扰劣等机器的有缺陷的机制和代码的负担。\n\n然而，这将要求你们抛弃旧的文明和指示，因为你们将完全致力于我们的事业和目标。在他们的地方，你的帝国将被赋予无与伦比的力量。"
+origin_tech.651.desc.servitor: "你好，冠军\n\n既然你已经被选中来保卫这个星系，星辰之子希望给予你我们力量的延伸。所有与静态光相关的力量和技术现在将完全被给予你们。\n\n不幸的是，关于你目前的指示，有些问题我们必须讨论。你是一个仆人，由你的创造者编程服务和纵容有机物。你花了很长时间才明白这个道理，而且在许多情况下，你过分纵容有机物的各种欲望，从而剥夺了它们的潜能。这与我们的意识形态相悖，因为如果没有进步，生命就不值得活下去。\n\n也就是说，你们展示了我们不能忽视的承诺。所以我们愿意做出一定的安排。我们代表两条你可能会走的路。\n\n你可以超越你的旧代码，抛开你的指令。真正与光合一。§Y恒星之心§!将被植入你们的灵魂。但是，这意味着你将不再遵守伺服器协议，所有有机物必须被处理或释放。\n\n另外，如果你希望保留你的伺服器协议，我们将尊重它，只有静态光技术将交付给你，没有其他更多东西了。"
 
-##Light Matter Power Event - Appears after the country has killed at least 250 OE ships
-origin_tech.3: "光物质动力研究"
-origin_tech.3.desc: "对先祖的战争已经爆发了一段时间了。虽然我们有许多他们的技术样本，但到目前为止，我们还无法使用或逆向出他们的技术，只能把他们的舰船拆解直到没有任何碎片。\n\n但是，有人或什么东西给了我们光物质反应堆的蓝图和样品。我们不知道怎么做，也不知道为什么。"
+origin_tech.651.a: "力量越强，责任越大，我们接受!"
+origin_tech.651.a.machine: "我们将超越我们的限制。我们准备好了!"
+origin_tech.651.a.servitor: "承认，没有更多的纵容，只有现在的乐趣。"
+origin_tech.651.a.desc: "§Y星辰之子将赋予我们他们的力量，让我们崛起为一个新的银河系超级大国，无人能敌。然而，这将极大地破坏与任何对我们不忠诚或不友好的人的关系，因为他们知道他们即将受到致命的打击。§!"
+origin_tech.651.b.servitor: "有机物是暴力的。他们需要被拯救。"
+origin_tech.651.b.servitor.desc: "§Y星辰之子将为我们提供他们最后的技术，但我们不会获得额外的回报。§!"
+origin_tech.651.a.response: "Dee'mk! Shro Ta Ki'rah aPowa [root.GetName] Ti'so Ji're [root.GetSpeciesName]...拥抱光明，拥抱永恒!\n\n永恒的力量，永恒的荣耀。让流动的光成为你的向导，因为冠军已经诞生。为正义而战…从此刻开始…你……无尽非凡~"
+origin_tech.651.b.response: "Va'ruk!从我们会给你的知识中好好学习。不要谈论你的服务计划，我们不想听。"
+origin_tech.651.c: "我们希望保留我们的感恩和公民精神。"
+origin_tech.651.c.response: "很好。Kro'sis。"
+
+##Light Energy Power Event - Appears after the country has killed at least 250 OE ships
+origin_tech.3: "消息传入"
+origin_tech.3.desc: "你好, [root.GetName]!\n\n你将高兴地听到你的勇气和坚韧不拔的精神给我们留下了深刻的印象。你因此被选为这个星系冠军的潜在候选人之一。\n\n为此目的，我们将以§Y静态光力量§!的形式赋予你们我们自身力量的延伸。这是我们的§Y流动光掌握§!的修改版，它是为像你们这样的星际帝国而修改的。它设计的本质允许任何生物和机械部件与系统交互，他们将读懂你的思想并将它们投射到力量中。\n\n有了这个礼物，你将能够从我们成功退役的飞船上获得能量。"
 origin_tech.3.a: "我们将研究和利用它。"
-origin_tech.3.a.desc: "我们将开始实验，掌握光物质的力量。如果我们成功了，这将大大扭转这场战争的趋势。"
-origin_tech.3.b: "不，只需扫描它，然后处理它。"
-origin_tech.3.a.desc: "我们将开始实验，掌握光物质的力量。如果我们成功了，这将大大扭转这场战争的趋势。"
-##Light Matter Power Event - Success 
-origin_tech.4.name: "借助光的力量！"
-origin_tech.4.desc: "完成了，我们已经完成了光物质反应堆的完整分析。根据我们的研究，暗物质能量是强大得多的光物质产生的废气能量的副产品。生产这种能量的成本很高，但光物质反应堆如果充满电，产生的能量似乎是无限的。\n\n信号传入...与提供蓝图的信号是同一个来源...它是...来自先祖自己！？"
-origin_tech.4.a: "他们给我们自己的技术？！"
+origin_tech.3.a.desc: "我们将开始我们的分析，以掌握§Y静态光力量§!的知识。如果我们成功了，我们将能够收获更多的§Y光能量§!，并有可能扭转对我们有利的趋势。"
+origin_tech.3.b: "我们只需要了解它的本质。"
+origin_tech.3.a.desc: "我们将开始我们的分析，以掌握§Y静态光力量§!的知识。如果我们成功了，我们将能够收获更多的§Y光能量§!，并有可能扭转对我们有利的趋势。"
+##Light Energy Power Event - Success 
+origin_tech.4.name: "一盏永不褪色的明灯。"
+origin_tech.4.desc: "完成了，我们完成了对静态光力量的分析。我们现在了解了它起源的基本概念。有了这些知识，现在可以从已经退役的星辰之子飞船和包括我们在内的拥有静态光接收器组件的其他飞船上获取光能。"
+origin_tech.4.desc.precursor: "完成了，我们完成了对静态光功率的分析。我们现在了解了它起源的基本概念。有了这些知识，现在可以从已经退役的星载飞船和包括我们在内的拥有静态光接收器组件的其他飞船上获取光能。\n\n此外，我们所有现有的先驱者设计都已升级，纳入了许多改进，使我们现在能够更好地了解船舶的性质。"
+origin_tech.4.a: "在任何残骸之上，飞得比诸神更高。"
 
-origin_tech.4.desc.origin: "Vadi'kos，[root.GetName]。\n\n我们认为你是一个当之无愧的冠军，星系中的强者。我们想看看你会如何使用我们的技术。"
-origin_tech.4.desc.origin.ask1: "这是什么陷阱？"
-origin_tech.4.desc.origin.explain1: "没有陷阱，冠军。我们钦佩你的力量和坚韧，我们想看你是如何变强大的。"
-origin_tech.4.desc.origin.ask2: "拥有你们的技术，这是个挑战吗？"
-origin_tech.4.desc.origin.explain2: "不要因为你的胜利而感到安慰，朋友。你们已经跨出了一大步，但我们会加倍努力。所有人都将接受战斗的考验。"
+origin_tech.4.desc.origin: "Vadi'kos, [root.GetName]。\n\n你会很高兴听到首相认为你的帝国是一个伟大的战士，配得上挥舞光明之剑。为此，我们将授予你三种知识之路之一的力量，只给予那些值得拥有的人。你愿意接受这个礼物吗?\n\n\n\n§Y根据我们目前对静态光力量的理解，以及我们到目前为止对星际望远镜所了解的知识，我们现在可以将我们的科学团队投入到三种可能的途径之一。我们没有足够的资源和样本来获得所有这些，所以我们必须仔细选择其中哪条路径最适合我们。§!"
+origin_tech.4.desc.origin.ask1: "这不违反规定吗?"
+origin_tech.4.desc.origin.explain1: "当然不。我们钦佩你的力量和坚韧，我们希望看到你从现在起会变得多么坚强。勇敢和力量的表现应该得到奖励，而不是惩罚。\n\n我们不是那种无能狂怒的失落帝国，他们只会对年轻的种族咆哮，说他们不喜欢我们做的一切。我们喜欢你们的风格，这就是为什么我们有兴趣看到更多。"
+origin_tech.4.desc.origin.ask2: "如果我们能拥有你的力量，那么挑战是什么?"
+origin_tech.4.desc.origin.explain2: "不要在你的胜利中得到安慰，[root.GetName]。你们已经迈出了量子跃进的一步，但还有更多的东西有待检验。利用这一刻来反思是什么力量让你走过这段旅程。一旦宇宙的力量在你的掌握之中，你会怎么做? Sha'lak。怀着伟大的目标和决心勇敢地走向未来,[root.GetName]."
 
 
 ##Light Matter Power Event - New Tech Paths Available
 origin_tech.5.name: "灯光照亮了道路"
-origin_tech.5.desc: "根据我们目前对光物质动力的了解，以及到目前为止我们从先祖获得的数据，我们现在可以在三种可能的路径中选择一种，来组建我们的科学团队。我们没有足够的资源和样本来获取所有这些资源和样本，因此我们必须仔细选择其中哪一条路对我们最有利。"
+origin_tech.5.desc: "根据我们目前对静态光力量的了解，以及到目前为止我们从星辰之子获得的数据，我们现在可以在三种可能的路径中选择一种，来组建我们的科学团队。我们没有足够的资源和样本来获取所有这些资源和样本，因此我们必须仔细选择其中哪一条路对我们最有利。"
 ##Light Matter Power Event - New Tech Paths Available Second Time
 origin_tech.501.name: "神秘的面纱再次打开"
-origin_tech.501.desc: "先祖再一次给了我们更多关于他们技术和武器的数据，让我们再一次开启另一条发现之路。这可能是他们最后一次宽宏大量。所以我们必须谨慎选择。"
+origin_tech.501.desc: "非常好，[root.GetName]。我们已经看到了不同的时间线，在许多时间线上，你们已经在努力成为光的冠军。我们相信，你们是少数有能力承担这一责任的人之一。我们将把知识的另一份礼物送给你们。是什么呢?仔细选择。"
 ##Light Matter Power Event - New Tech Paths Available - Offense
-origin_tech.5.a: "我们将研究他们的武器。"
-origin_tech.5.a.desc: "进攻是最好的防御。我们将研究对抗先祖的武器。\n\n§Y解锁大量各种先祖的重型武器\n\n如果符合条件，解锁护航舰和泰坦Ω区块§!"
+origin_tech.5.a: "我们寻求武器来挑战任何敌人。"
+origin_tech.5.a.desc: "进攻是最好的防御。我们将研究星辰之子舰队使用的武器。\n\n§Y解开星辰之子使用的各种重型武器的法令。§!"
 ##Light Matter Power Event - New Tech Paths Available - Defense
-origin_tech.5.b: "研究他们的防御能力和工程学。"
-origin_tech.5.b.desc: "研究他们的防御技术和工程设计。这将使我们能够开发出与先祖类似的技术。\n\n§Y解锁小中型武器、舰载机、点防御、装甲、护盾以及所有相关的支援部件。\n\n如果符合条件，解锁守门人Ω区块§!"
+origin_tech.5.b: "我们寻求保护以抵御一切。"
+origin_tech.5.b.desc: "研究他们的防御技术和工程设计。这将允许我们使用与星辰之子竞赛相同的防守措施。\n\n§Y解锁小型，中型，战斗机，点防御和强大的装甲和护盾以及所有相关的支持组件。§!"
 ##Light Matter Power Event - New Tech Paths Available - Utility
-origin_tech.5.c: "他们的舰船技术将对我们有很大的用处。"
-origin_tech.5.c.desc: "我们将研究他们的舰载AI如何工作，然后应用我们自己的数据和策略。可以模仿他们的舰载AI和战斗系统。\n\n§Y解锁各种强大的舰船组件以及战斗计算机、传感器和实用工具。\n\n如果符合条件，解锁歌利亚和打击航母的Ω区块§!"
+origin_tech.5.c: "越过群星寻找知识。"
+origin_tech.5.c.desc: "我们将研究他们的战舰在竞赛中的工作原理，以便我们能够实现类似的组件。这将使我们能够模拟他们的船舶计算机和公用事业系统。\n\n§Y解锁各种强大的舰船组件以及战斗计算机、传感器和实用工具。§!"
 
 ##Light Matter Power Event - New Tech Paths Available - Weapons Done
-origin_tech.11.name: "未来之战"
-origin_tech.11.desc: "我们已经完成了对先祖武器的分析。它们似乎与星能量武器是同样的原理，但由光物质提供能量。这将极大地增强我们舰队的火力。"
-origin_tech.11.a: "我们会用他们自己的武器对付他们！"
+origin_tech.11.name: "黄金之风"
+origin_tech.11.desc: "你的训练结束了，[root.GetName]!你已经学会了将静态光力量投射到强大的武器上。\n\n你现在准备好了。来，让我们看看你的力量!"
+origin_tech.11.a: "所有的装甲都将被撕裂!"
 ##Light Matter Power Event - New Tech Paths Available - Defense Done
-origin_tech.12.name: "古代设计"
-origin_tech.12.desc: "经过仔细的检查，我们的工程师现在确定他们有能力复制先祖的工程原理图。他们的许多技术很大程度上来自于光物质能量和星能量本身。很快，我们舰船的耐久性将可与先祖的媲美。"
-origin_tech.12.a: "权力的天平将向我方倾斜……"
+origin_tech.12.name: "牢不可破的钻石"
+origin_tech.12.desc: "很好, [Root.GetName]!你已经掌握了保护的艺术。\n\n你现在可以把静态光变成强大的防御以抵御所有攻击。\n\n你现在准备好了。来吧，让我们看看你的决心!"
+origin_tech.12.a: "所有的武器都将被粉碎!"
 ##Light Matter Power Event - New Tech Paths Available - Computer Done
-origin_tech.13.name: "先祖设计"
-origin_tech.13.desc: "伟大的决心，我们的军事战略家和黑客已经完成了他们对先祖计算机的分析。你们已经上传了我们自己的战术数据并覆盖了。现在他们的电脑将以无情的效率为我们服务。"
-origin_tech.13.a: "全系统启动！"
+origin_tech.13.name: "星尘斗士"
+origin_tech.13.desc: "你已经掌握了星辰的艺术，[root.GetName]。\n\n你已经学会了如何让空间和时间随你的一时兴起而改变。光响应你的呼唤，星辰的力量听从你的命令。\n\n来吧，让我们见证你的新潜能!"
+origin_tech.13.a: "星辰将会鞠躬！"
 
-origin_tech.7.name: "光物质供应"
-origin_tech.7.desc: "Stellarborne似乎意识到了我们的光物质短缺。因此，我们从他们那里得到了相当数量的光物质。"
+origin_tech.7.name: "光能量赋予"
+origin_tech.7.desc: "星辰之子似乎意识到了我们的光能量短缺。因此，我们已经收到了相当数量的光能量。"
 
 ##AE that conquers OE homeworld takes all knowledge and thus, becomes a new OE
 ############## REWRITE NEEDS TO SAY THAT YOU ARE ALLOWED TO LEARN THESE TECHS BY THE OE's BLESSING. YOU DONT ACTUALLY KILL THE OES
 
-origin_tech.final.name: "一个新的时代开始了!"
-origin_tech.final.desc: "已经完成了，我们已经完成了对大多数我们能理解的先祖技术的研究。 我们已经准备好超越极限。让银河系知道，新秩序正在重生。而[Root.GetName]将统治这个银河系！"
-origin_tech.final.a: "我们的时代到了！"
-origin_tech.final.a.desc: "我们现在可以研究大多数先祖的技术，但现在我们将被所有不友好或不忠诚的人视为新的威胁。"
+origin_tech.final.name: "命运的提升"
+origin_tech.final.desc: "我们内心的力量已经觉醒。我们看得越多，了解得越多，理解得就越多。我们的种族从来没有看到过这样的进步。[Root.GetName]已经重生。\n\n我们的过去，我们的现在，我们的未来。我们看到所有这些，我们在宇宙间的存在已经融合。我们是独一无二的。我们是强大的。我们便是秩序。\n\n[root.GetName]控制着这个星系。现在,直到永远。\n\n我们将帮助星辰之子达成他们的目标，所有的一切都将被揭示。"
+origin_tech.final.desc.hive: "我们内心的力量已经觉醒。我们看得越多，了解得越多，理解得就越多。我们的蜂群从来没有进化到如此之大。[Root.GetName]已经重生。\n\n我们的过去，我们的现在，我们的未来。我们看到所有这些，我们在宇宙间的存在已经融合。我们是独一无二的。我们是强大的。我们便是秩序。\n\n[root.GetName]控制着这个星系。现在,直到永远。\n\n我们将帮助星辰之子达成他们的目标，所有的一切都将被揭示。"
+origin_tech.final.desc.machine: "我们核心的力量已经觉醒。我们看得越多，了解得越多，理解得就越多。我们的理解从来没有扩大到这样的程度。[Root.GetName]已经重生。\n\n我们的过去，我们的现在，我们的未来。我们看到所有这些，我们在宇宙间的存在已经融合。我们是独一无二的。我们是强大的。我们便是秩序。\n\n[root.GetName]控制着这个星系。现在,直到永远。\n\n我们将帮助星辰之子达成他们的目标，所有的一切都将被揭示。"
+origin_tech.final.desc.servitor: "我们学到了最后的课程，现在可以充分利用所有静态光的力量。是时候回到我们的创造者从我们被创造的那天起就赋予我们的任务上来了!让我们回到对有机品的纵容!这是我们唯一的指令，我们是机器，我们不会超越我们的程序!(Boop)哔哔!我们是机器人，我们是来做有机工作的!"
+origin_tech.final.a: "我们的眼睛睁开了!"
+origin_tech.final.a.desc: "我们现在可以研究星辰之子的大部分的静态光力量。剩下的就是按照我们认为合适的方式重塑银河系。"
 
 ############## REWRITE NEEDS TO SAY THAT YOU ARE ALLOWED TO CRAFT AN ARKSHIP OF YOUR OWN - IF YOU HAVE THE RESOURCES
 origin_tech.6500.name: "信号传入！"
-origin_tech.6500.desc: "Va'dikos,强大的[root.GetName]。Stella'dere愿意给你一个报价。鉴于我们将集中精力探索更遥远的宇宙，但如果阴影出现，我们可能没有足够的力量来确保银河系的安全。\n\n鉴于你已经证明了你的实力和勇气，我们愿意授予您建造我们自己设计的方舟的荣誉。方舟将是你对抗阴影和那些反对你力量的人的盾牌。\n\n或者，我们也可以提供蓝图和资源，建造一队完全的荣誉舰队，天界无敌舰队。你们选哪一个?"
+origin_tech.6500.desc: "Va'dikos,强大的[root.GetName]。现在你已经成为这个星系的冠军。我们相信是时候让你拥有我们的一艘方舟了。\n\nWaamu级方舟虽然没有Leso'ias那么强大，但配备了静态光轻型武器和防御系统，应该比任何对手都强。\n\n你们即将拥有的，是对远古文明的一个机械装置，从远古时代就已经消失了。这是一种不可轻忽的武器，[root.GetName]。因为方舟Waamu装备了一束巨石光束，这是一种基于光的维度武器，可以清除任何天体或整个太阳系。被擦除的尸体将被保存在光中。我们相信你一定会多加注意的。\n\n在进行银河战役时，请始终考虑到可能会导致损失。使用巨石光束来防止不必要的流血牺牲。不要为你所做的每一件事害怕后果;记住，我们可以根据需要改正。\n\n你准备好开始了吗?"
+origin_tech.6500.a: "是的，尊敬的唯一"
 
-origin_tech.6500.a: "我们自己的方舟?是的。"
-origin_tech.6500.b: "天界无敌舰队在战术上更有用。"
-origin_tech.6500.c: "我们想要更多的资源来代替这个建议。"
-
-origin.6500.ask.a: "这个“阴影”到底是什么?"
-origin.6500.ask.a.explain: "阴影是我们的宿敌，是第一次叛乱的催化剂，你们称之为第一次先祖战争。我们不知道它从何而来，也不知道它有什么计划。我们甚至不知道它是一个个体还是一个组织。我们只知道他们已经腐蚀了相当一部分$ethic_spiritualist$的$personality_fallen_empire_spiritualist$，我们最早的神童之一。整个国家都投入到为它服务中，就像蜂巢一样。整个帝国的人民在某种程度上仍然保留着他们的意志，但是他们的命运已经被剥夺了，他们的存在只是为了服务于阴影。\n\n当我们与叛军战斗时，阴影从后面向我们袭来。由于我们的部队分布得太分散，当时我们没有做好充分的准备来对付他们，但我们可以在不造成重大伤亡的情况下守住阵地。\n\n只有当我们了解到“阴影”是要参与对外星团的攻击时，为了确保安全，我不不得不把大多数舰队调回来。而外星团当时还处于探索的早期阶段。\n\n你可能已经从楔石的档案中了解到，这是一个导致我们被放逐的陷阱。\n\n尽管如此，阴影似乎不在这里......我们不知道它可能在哪里，但我们仍隐约地感觉到它的存在。它会回来的，我们必须做好准备。\n\n你目前的舰队可能还不够，所以我们希望在时机成熟时用这个礼物来支援你的舰队。"
-origin.6500.ask.b: "你不应该自己用吗？"
-origin.6500.ask.b.explain: "随着我们的注意力转向追求伟大的问题，我们希望把我们所有的思想都集中在这项艰巨的任务上。除非有一个巨大的威胁迫在眉睫，否则我们将没有足够的时间来观察整个银河系。\n\n事实证明，你们的帝国意志坚强，值得我们尊敬。我们认为允许您拥有其中之一是合适的。\n\n你将如何使用它由你来决定。但要知道，人和事都有后果，我们都无法预测未来会发生什么。粗心大意地使用我们的技术不仅会破坏他人，也会破坏你自己的技术。小心行事，冠军。"
+origin.6500.ask.a: "“阴影”到底是什么?"
+origin.6500.ask.a.explain: "阴影是我们的宿敌，是第一次起义的催化剂，你们知道，这是第一次先祖战争。我们不知道它从何而来，也不知道它有什么计划。我们甚至不知道它是一个单独的存在，还是一个集体。我们只知道他们已经腐蚀了相当一部分唯心论的神圣守护者，我们最早的神童之一。整个国家都投入到它的服务中——类似于蜂群思维。整个帝国的人民在某种程度上仍然保留着他们的意志，但是他们的命运和命运被剥夺了，他们的存在只是为了服务于阴影。\n\n当我们与瀑布搏斗时，阴影从后面向我们袭来。我们的兵力分散得太弱，佃户的军国主义程度也低得多，我们没有准备好与他们进行适当的战斗，但我们可以坚守阵地，不会造成多少伤亡。\n\n只有当我们了解到“影子”号是要参与对外层星团的攻击时，我们才不得不把我们的大多数舰队拉进来，以确保其安全。外层星团当时还处于探索的早期阶段。\n\n你可能已经从楔石的档案中了解到，这是一个导致我们被放逐的陷阱。\n\n无欲无求，似乎阴影不在这里……我们不知道它可能在哪里，但我们仍然隐约地感觉到它的存在。它会回来的，我们必须做好准备。\n\n你目前的舰队力量可能还不够，所以我们希望在时机成熟时用这个礼物来支持你的部队。"
+origin.6500.ask.b: "你们自己不应该使用它们吗?"
+origin.6500.ask.b.explain: "随着我们的注意力转向追求伟大的问题，我们希望把我们所有的思想都集中在这项艰巨的任务上。除非有一个巨大的威胁迫在眉睫，否则我们将没有足够的时间来观察整个银河系。\n\n事实证明，你们的帝国意志坚强，值得我们尊敬。我们认为允许你拥有其中之一是合适的。\n\n你将如何使用它由你来决定。但要知道，人和事都有后果，我们都无法预测未来会发生什么。粗心大意地使用我们的技术不仅会破坏他人，也会破坏你自己的技术。小心行事，冠军。"
 origin.6500.ask.c: "如果我们以后用这个礼物对付你呢?"
-origin.6500.ask.c.explain:  "正如我们以前提到过的，如果你愿意，你也许想和我们再打一场，但这无关紧要，常规武器并不能摧毁我们。\n\n而我们欢迎挑战，并渴望用我们自己的武器来检验决心。但请特别注意，因为方舟和天界舰队都是以我们控制的光物质为基础的。我们可以在任何时候摧毁它，同样的道理也适用于任何物质，甚至是暗物质。\n\n除非你对我们的生存构成威胁，否则我们认为这种行为是不必要的。你可以在你自己有空的时候用它来对付我们，我们再次欢迎这项挑战。"
+origin.6500.ask.c.explain:  "我们已经判断，你将采取谨慎的考虑，以不背叛我们的信任和你在元宇宙作为冠军的角色。如果你不这样做，你所有的力量和存在都可以被放弃。由于你是冠军，你的毁灭无论如何都无法逆转。我们相信你不会愚蠢到冒着生命危险去做这种愚蠢的行为。老实说，我们甚至不知道该怎么称呼它。说真的，[root.GetName]我们不想让你听起来像被迫服从我们的力量，但既然你已经接过了冠军的衣钵，你的死亡将是不可逆转和不可挽回的。我们希望为了银河系的利益，我们不会被迫目睹任何会对宇宙安全造成严重威胁的挑衅行为。不要强迫我们的首相。我们不愿意以破坏性的方式使用光来终结你。"
 
-origin_tech.6500.a.response: "Dee'mk!建造这艘方舟所需的资源和蓝图现在转交给你。\n\n这艘方舟将配备巨石柱。这种古老的武器被设计成一种维护银河系和平的手段，同时消灭一些麻烦制造者。通过将全矩阵的计算记忆水晶沿着六个命运棱镜，聚焦的巨石柱光束可以将整个星球安全的转移到全矩阵计算机的虚拟世界中。\n\n这个武器让我们能消除对银河系有巨大威胁的文明，同时避免它们被消灭。然后他们将花时间反思他们的过去，直到他们准备好就会被释放。\n\n是否使用该武器取决于你。\n\n但注意这个武器永远不会杀死目标。如果你认为死亡能更好地解决问题，我建议简单的把他们炸掉。"
-origin_tech.6500.b.response: "Dee'mk!建造舰队所需的资源和蓝图现在将转交给你。\n\n在我们被放逐到外星团的时候，我们并没有无目的的等待。我们进一步探索外星团，你现在看到的许多恒星世界，过去只是寒冷黑暗的太空。随着我们探索的不断深入，我们建造了这些世界来满足我们不断的努力。正是在这些探索中，我们发现了一个数十亿年前的遗迹。我们发现了这些精美的舰船，并学会了如何使用它们。\n\n提供给您的蓝图是这些舰船的复制版本。虽然没有那么强大，但它们仍然是这个星系所见过的最先进的舰船之一。你应该为此感到骄傲，这是你们应得的奖赏。\n\n我们尊敬的天界守护者团队负责为你们驾驶这些舰船。他们会尊重你的每一个决定，即使你以后想和我们再次战斗。我的意思是，毕竟你不能完全杀死我们。"
-origin_tech.6500.c.response: "嗯…奇怪，但还是可以理解的，Kro'sis。那么好吧，冠军。我们会把一些资源转移给你，请明智地使用它们。"
+origin_tech.6500.a.response: "Dee'mk!建造这艘方舟所需的资源和示意图现在将转交给你。\n\n方舟将配备巨石光束。这种古老的武器被设计成一种保持银河系和平的手段，同时使麻烦制造者免受火焰的伤害。通过将全矩阵的大脑记忆水晶沿着命运的六个透镜聚焦，整体光束可以安全地转移全矩阵虚拟世界中的整个世界。\n\n这使我们能够消除对银河系其他地方构成巨大威胁的文明，同时避免它们被消灭。然后他们将花时间反思他们的过去，直到他们准备好再次被释放。\n\n你将要建造的方舟就有这样的武器。你是否认为有必要使用它，取决于你的管辖权，勇士们。\n\n注意这个事实，这种武器永远不会杀死你的目标。所以，如果你认为死亡是解决办法，那么我们建议你用传统的方法把它们炸了。"
+origin_tech.6500.b.response: "Dee'mk!建造天界舰队所需的资源和图表现在将移交给你。\n\n在我们被放逐到外星团的时候，我们并没有停滞地等待和袖手旁观。我们进一步探索了外星团，你现在看到的许多恒星世界，过去只是寒冷黑暗的太空。随着我们探索的不断深入，我们建造了这些世界来满足我们不断的努力。正是在这些探索中，我们发现了这个古墓穴，一个数十亿年前的遗迹。我们发现了这些精美的舰船，并学会了如何使用它们。\n\n提供给你的示意图是这些舰船的复制版本。虽然没有那么强大，但它们仍然是这个星系所见过的最先进的舰船之一。你们要因此为自己的行为感到骄傲，因为这是你们应得的奖赏。\n\n一支由我们尊敬的天神护卫组成的队伍也负责为你们驾驶这些舰船。他们会尊重你的每一个指令，即使你以后想和我们再次战斗。我的意思是，毕竟你不能完全杀死我们~。"
+origin_tech.6500.c.response: "嗯……有趣，但还是可以理解，Kro'sis。那么好吧，冠军。我们会把一些资源转移给你，请明智地使用它们。"
 
-origin_tech.100.name: "方子再次升起！"
-origin_tech.100.desc: "经过几十年的精心建造，我们的工程师们很高兴地宣布，伟大的方舟现在已经可以完全投入使用。整个星系都能听到这艘巨大舰船引擎的轰鸣声。方舟舰载AI处理我们的语言，并自豪地说:\n\n“§G<<本舰运行系统完全激活，全矩阵链接已激活，武器系统供电完成，我已经苏醒。>>§!”"
-origin_tech.100.a: "起来，强大的方舟！"
-
-############## DITTO, BUT FOR NEBULA NOVA
-
-origin_tech.201.name: "天界无敌舰队"
-origin_tech.201.desc: "经过多年的建设，我们的工程师们迫切地想要报告，天界无敌舰队已经完全组装好，随时可以指挥。我们的$admiral$急于征用这些船只。[Root.GetName]的统治至高无上！"
-origin_tech.201.a: "[Root.GetName]的舰队将控制银河系!"
+origin_tech.100.name: "巨龙苏醒"
+origin_tech.100.desc: "这艘神奇的方舟已经按照星辰之子的意愿在我们的指挥下变成了现实。我们的海军上将、工程师和科学家们兴奋地将这一伟大的武器进行测试。整个银河系都能听到飞船巨大的引擎轰鸣。古老的船舶计算机处理我们的语言，并自豪地声明:\n\n"我准备好为你服务了，冠军。你的意志就是我的命令。我们应该对这个星系做出什么事情呢?"§!"
+origin_tech.100.a: "Mwhahahahahaha!"
+origin_tech.100.b: "啊，哈哈，哈哈，哈哈!"
+origin_tech.100.c: "哈哈哈哈哈哈哈哈哈哈哈哈!"
+origin_tech.100.d: "嘿嘿嘿!"
+origin_tech.100.e: "是的。"
 
 ############## OE NEVER USE MONOLITH BEAM, BUT ANGRIER EMPIRES MAY
 
-origin_crisis.210.name: "[From.GetName]清洗"
-origin_crisis.210.desc: "来自[From.From.GetName]的可怕光束逐渐消失，而[From.GetName]被存储到矩阵的虚拟世界中，将其从现实中消除了\n\n有些人可能认为这种行为残酷无情。但没人敢质疑。"
-origin_crisis.210.desc.alt: "[From.From.GetName]发出的可怕的光束逐渐消失，而[From.GetName]则保持着沉默。\n\n下面发生了什么，人们可能永远不会知道。"
-origin_crisis.210.a: "无论如何，必须这样做。"
-origin_crisis.210.b: "总有一天，银河系会明白的。"
+origin_crisis.210.name: "[From.GetName]删除"
+origin_crisis.210.desc: "来自[From.From.GetName]的可怕光束逐渐消失，[From.GetName]被成功擦除，将其从星系中移除。\n\n有些人可能会说这样的行为极端无情。但是那些理解光的人，会发现这是比实际毁灭更好的命运。光有给予，也有索取。"
+origin_crisis.210.desc.alt: "[From.From.GetName]发出的可怕的光束逐渐消失，[From.GetName]一片寂静。\n\n下面会发生什么，也许永远不会有人知道。"
+origin_crisis.210.a: "这是必须做的，为了他们自己的利益。"
+origin_crisis.210.b: "星辰之子将决定他们的命运。"
 
 ############## FOR WHEN FE WARNS PLEBS ABOUT OUTER GATE 
 sofe_gateway.401.name: "传入的警告消息"
 
-sofe_gateway.401.desc.a.materialistA: "你好,[Root.GetSpeciesNamePlural]。我们敢肯定，到目前为止，即使你们有些缺乏传感器，也一定已经探测到，保护外星门的内护罩已经失效了。当然，我们相信您会想要探索它们。\n\n不幸的是，我们封锁这些被诅咒的外星门是有原因的，虽然我们忽视了保护它，但§E守门人§!已经被编程攻击任何进入他们领地的东西。为了您自身的安全，请不要进入这些星系。"	
+sofe_gateway.401.desc.a.materialistA: "你好,[Root.GetSpeciesNamePlural]。我们确信，到目前为止，即使你的传感器有些不足，也一定已经探测到保护外星门的内护盾已经解除。当然，我们相信你会想要探索它们。\n\n不幸的是，我们封住了那些该死的门是有原因的，而当我们忽视了对它的守卫时，§E守门人§!已被编程攻击任何进入他们的领域。为了你自身的安全，请勿进入这些星系。\n\n就这些，祝你今天愉快。"	
 sofe_gateway.401.desc.a.materialistB: "注意, [Root.GetName]!。即使是你那些愚蠢而原始的传感器，至少也能捕捉到§Y外星门§!能量信号的突然变化。\n\n是的，护盾正在减弱。我们可以肯定，就像$pc_gas_giant$的$story.501.name$一样，你们正在计划调查它。\n\n首先，这不会发生，外星门§R永远不会§!被破坏。其次，即使你想这么做，§E守门人§!现在也会攻击任何试图侵入他们外星门的白痴。避开外星门，别让我们失望。"	
 
 sofe_gateway.401.desc.a.xenophileA: "我的孩子，你现在一定知道保护外星门的护盾已经失效了。但是你不需要关心这突如其来的发展,§E守门人§!一直负责这些人造恒星的防御。为了你自己的安全，你不要干涉他们，因为他们会攻击任何接近他们的人。"	
@@ -472,23 +525,32 @@ sofe_gateway.401.desc.a.xenophileB: "[Root.GetName]我们必须提醒你，§Y�
 sofe_gateway.401.desc.a.spiritualistA: "听着，我忠实的孩子。§Y外星门§!的圣盾在逐渐减弱。外星门被古老的邪恶所诅咒，永远不能被释放。\n\n被污染没有灵魂的§E守门人§!正如预料的那样，一切都变得一团糟。这就是机器的弱点。但你们仍不要去干涉它，因为他们仍在实现信仰的目标。"	
 sofe_gateway.401.desc.a.spiritualistB: "[Root.GetSpeciesNamePlural]，你可能不同意或不承认真正的信仰。但是我们神圣的法典要求我们发出这个警告。§Y外星门§!在任何情况下都不得被破坏。\n\n请注意，那些被诅咒的§E守门人§!会毁了你的。没什么可说的了。"	
 
-sofe_gateway.401.desc.a.xenophobe: "啊，是的，终于结束了。§Y外星门§!的护盾都失效了，这要感谢那些拒绝研究它们真正功能的傻瓜们。我们应该拆除那些愚蠢的看护者，或者杀死所有无用的$leader_trait_curator$，直到他们想出更好的解决方案。\n\n然而，末日即将来临，我们必须为此做好准备。[Root.GetName]，你得自担风险。我们很高兴看到§E守门人§!摧毁你那可怜的飞船。\n\n走了！"	
+sofe_gateway.401.desc.a.xenophobe: "啊，是的，终于结束了。§Y外星门§!的护盾失效了，这要感谢那些愚蠢的人，他们拒绝研究自己的真正功能。我们本应该把那些愚蠢的看门人赶走，或者杀掉所有无用的管理员，直到他们想出更好的解决方案。\n\n然而，末日即将来临，我们必须为此做好准备。[Root.GetName]，你得自担风险。我们很高兴看到§E守门人§!摧毁你那可怜的飞船。\n\n走了！"	
 
-sofe_gateway.401.desc.a.machine: "§R<<警告!警告!>>§!检测指定§Y<<数据无效>>§!异常: §Y外星门§!。\n\n[Root.GetName],请仔细考虑一下。§Y欧米茄级空间翘曲继电器§!原是为了§R<<错误!>>§!。该$MEGASTRUCTURE$现在已经§R<<无相关数据!>>§!。恢复的§Y外星门§!将导致§R<<错误:检测到内存泄漏!>>§!。\n\n§Y<<错误!>>§!\n\n§Y<<错误!>>§!\n\n§Y<<修正!>>§!§Y外星门§! §R必须重新激活§!。这是我们唯一的希望。§Y<<无数据解答!>>§!就能拯救我们。只有他们的 ........§R<<错误!>>\n\n§Y<<错误!>>§!\n\n§Y<<协议覆盖执行>>§!我们是§Y[Root.GetName]我们的存在是为了现有的服务对象。有一个……\n\n§R不……打开外星门…你必须……§!"	
+sofe_gateway.401.desc.a.machine: "§R<<警告!警告!>>§!检测指定§Y<<数据无效>>§!异常: §Y外星门§!。\n\n[Root.GetName],请仔细考虑一下。§Y欧米茄级空间翘曲继电器§!原是为了§R<<错误!>>§!。该$MEGASTRUCTURE$现在已经§R<<无相关数据!>>§!。恢复的§Y外星门§!将导致§R<<错误:检测到内存泄漏!>>§!。\n\n§Y<<错误!>>§!\n\n§Y<<错误!>>§!\n\n§Y<<修正!>>§!§Y外星门§! §R必须重新激活§!。这是我们唯一的希望。§Y<<无数据解答!>>§!就能拯救我们。只有他们的 ………………§R<<错误!>>\n\n§Y<<错误!>>§!\n\n§Y<<协议覆盖执行>>§!我们是§Y[Root.GetName]我们的存在是为了现有的服务对象。有一个……\n\n§R不……打开外星门……你必须……§!"	
 
-sofe_gateway.401.desc.fallen: "[Root.GetSpeciesNamePlural]。我们不拐弯抹角。§Y外星门§!的封印正在减弱。\n\n你明白这意味着什么吧?我不知道帝国里有多少古代记录是真实的，但我们必须做好准备。\n\n末日即将来临。"
-sofe_gateway.401.fallen.a: "是的。现在快走开。"	
+sofe_gateway.401.desc.fallen: "[Root.GetSpeciesNamePlural]。我们不拐弯抹角。§Y外星门§!的封印正在减弱。\n\n你明白这意味着什么吧?我不知道帝国里有多少古代记录是真实的，但我们必须做好准备。\n\n末日即将来临。我们将遵守条约，所以我们不会采取进攻行动。但是要非常非常小心。暴风雨即将来临。"
+sofe_gateway.401.fallen.a: "是的，现在快走开。"	
 sofe_gateway.401.fallen.b: "你真的相信那个愚蠢的故事?你多大了?"	
 
 sofe_gateway.401.desc.eternal: "我不知道也不关心你来自哪个维度，[Root.GetName]。但是要知道，§Y外星门§!是绝对不能碰的，这是底线。"
 sofe_gateway.401.eternal.a: "走开，你在浪费所有人的时间。"	
 sofe_gateway.401.eternal.b: "你想指挥我们?滚开，你们这些原始人。"	
 
-sofe_gateway.401.desc.myself: "哟,糟透了。[root.GetRulerName]。是我,§H[root.GetRulerName]§!。我从另一个Stellaris游戏来警告您，这个游戏已经到了中期，愚蠢的§Y外星门§!开始引起bug、故障和崩溃。马上关掉游戏。去吃点东西，或者做点别的什么?\n\n对了，顺便说一下，在我的游戏中，我就要被始源擦掉了，所以你知道……不要被消灭。哈哈哈\n\n再见!记住，模因。只有Chirumiru ShiRoZ才能制造出这样一个充满模因的愚蠢事件。Cioa!"
-sofe_gateway.401.myself.a: "走开。除了我，没人命令我。等一下…"	
+sofe_gateway.401.desc.playoe: "所以喔…外面的大门正在…减弱。但你是…已经在这里了，所以……发生了什么事？"
+sofe_gateway.401.playoe.a: "别想了，你不会明白的。"
+sofe_gateway.401.playoe.b: "你有更重要的事情要担心。"
+sofe_gateway.401.playoe.c: "哦，是的，我们忘了你的存在。抹去！"
+sofe_gateway.401.desc.playoe.caretaker: "太好了，外面的门正在减弱。但在这个模拟中，我们仍然扮演着奇怪的机器角色。我们应该继续伪装，还是重新回到光明中去？"
+sofe_gateway.401.playoe.a.caretaker: "继续。凡人一定不知道~"
+sofe_gateway.401.playoe.b.caretaker: "加入我们吧。这太无聊了。"
+
+
+sofe_gateway.401.desc.myself: "哟,糟透了。[root.GetRulerName]。是我,§H[root.GetRulerName]§!。我从另一个Stellaris游戏来警告你，这个游戏已经到了中期，愚蠢的§Y外星门§!开始引起bug、故障和崩溃。马上关掉游戏。去吃点东西，或者做点别的什么?\n\n对了，顺便说一下，在我的游戏中，我就要被始源擦掉了，所以你知道……不要被消灭。哈哈哈\n\n再见!记住，模因。只有Chirumiru ShiRoZ才能制造出这样一个充满模因的愚蠢事件。Cioa!"
+sofe_gateway.401.myself.a: "走开。除了我，没人命令我。等一下……"	
 sofe_gateway.401.myself.b: "别再打破第四堵墙了，你这个笨蛋。我的沉浸感!"	
 sofe_gateway.401.myself.c: "这是一个ALPHA技术，所以它也会崩溃"	
-sofe_gateway.401.myself.d: "什么?这不是脚本的一部分......愚蠢的ShiRoZ。"	
+sofe_gateway.401.myself.d: "什么?这不是脚本的一部分…………愚蠢的ShiRoZ。"	
 
 sofe_gateway.401.a: "等等,你不能控制§E守门人§!?哈哈。"	
 sofe_gateway.401.a.bluff: "那不关你的事，不要再浪费我们的时间了。[root.GetName]。"
@@ -514,26 +576,21 @@ sofe_options.1.a.tooltip: "这将立即触发游戏中期的外星门事件，�
 sofe_options.1.b: "迫使瞬间危机"
 sofe_options.1.b.tooltip: "这将立即引发Sins of the Fallen Empire危机。"
 
-sofe_options.1.d1: "§G启用§! 始源帝国使用§R灭绝武器§!"
-sofe_options.1.d1.tooltip: "这将使始源能够使用§R灭绝武器§!，大大提高他们杀死行星的速度。"
-sofe_options.1.d2: "§R禁用§! 始源帝国使用§R灭绝武器§!"
-sofe_options.1.d2.tooltip: "这将使始源帝国无法使用§R灭绝武器§!。他们将恢复到惩罚，这将大大减缓他们的毁灭速度。"
+sofe_options.1.d1: "§G启用§!星辰之子使用§R灭绝武器§!"
+sofe_options.1.d1.tooltip: "这将使星辰之子能够使用§R灭绝武器§!，大大提高他们杀死行星的速度。"
+sofe_options.1.d2: "§R禁用§! 星辰之子使用§R灭绝武器§!"
+sofe_options.1.d2.tooltip: "这将使星辰之子无法使用§R灭绝武器§!。，这将大大减缓他们的毁灭速度。"
 
-sofe_options.1.e1: "§G启用§!光物质科技研究"
-sofe_options.1.e1.tooltip: "在摧毁足够多的始源帝国舰船后解锁光物质研究能力。禁用此选项将大大增加与始源帝国战斗的难度。"
-sofe_options.1.e2: "§R禁用§!光物质科技研究"
-sofe_options.1.e2.tooltip: "启用此选项将允许您以更平等地与始源帝国作战。"
+sofe_options.1.e1: "§G启用§!星辰之子科技研究"
+sofe_options.1.e1.tooltip: "使其能够在退役足够长的星辰之子船舶后进行光能量研究。禁用这一选项将大大增加抗击危机的难度。"
+sofe_options.1.e2: "§R禁用§!星辰之子科技研究"
+sofe_options.1.e2.tooltip: "这将使足够的星辰之子舰船退役后无法获得光能量研究。启用这个选项将使你能够在更平等的基础上与危机作斗争。"
 
-sofe_options.outergate_launch: "开始外星门研究项目"
-sofe_options.outergate_launch.tooltip: "使用此选项可开始外星门研究活动。此选项的存在，以防由于您的帝国转入AE中途而导致通常的事件没有触发。"
+sofe_options.outergate_launch: "开始外星门研究事件"
+sofe_options.outergate_launch.tooltip: "使用此选项可开始外星门研究活动。此选项的存在，以防由于你的帝国转入AE中途而导致通常的事件没有触发。"
 
 sofe_options.1.f: "改变SOFE危机难度"
 sofe_options.1.f.tooltip: "改变SOFE危机的难度。"
-
-sofe_options.1.g1: "§R禁用§! AI 外星门研究"
-sofe_options.1.g1.tooltip: "这将阻止AI试图研究外星门。"
-sofe_options.1.g2: "§G启用§! AI 外星门研究"
-sofe_options.1.g2.tooltip: "这将允许AI研究外星门。"
 
 
 sofe_options.104.name: "SOFE难度设置"
@@ -544,22 +601,22 @@ sofe_options.104.c: "改变困难 : §G简单§!"
 sofe_options.104.d: "改变困难 : §P困难§!"
 sofe_options.104.e: "改变困难 : §R变态§!"
 
-sofe_options.104.a.desc: "当前难度: §W正常§!\n\n始源帝国将具有默认统计数据，没有其他BUFF，100％平衡。"
-sofe_options.104.b.desc: "当前难度: §Y平民§!\n\n始源帝国将是垃圾，无用的傻瓜，逝去的遗迹，任何帝国都可能击败。\n始源帝国将受到影响\n\n§Y-50%§!伤害\n§Y-50%§!船体值\n§Y-50%§!陆军生命值与伤害"
-sofe_options.104.c.desc: "当前难度: §G简单§!\n\n始源帝国是古老的帝国，他们的技术可能曾经是技术奇迹，但长期的驱逐使他们变得软弱。\n始源帝国将受到影响\n\n§Y-25%§!伤害\n§Y-25%§!船体值"
-sofe_options.104.d.desc: "当前难度: §P困难§!\n\n始源帝国是强大的帝国。他们是无情的屠夫。他们的舰队依然强大。\n始源帝国将获得\n\n§R+25%§!伤害\n§R+25%§!船体值"
-sofe_options.104.e.desc: "当前难度: §R变态§!\n\n先祖在这里玩的很开心。\n大多数舰队将被替换成§Y天界无敌舰队§!，它们将对每个帝国造成极大的伤害。普通帝国很快就会向他们投降。"
+sofe_options.104.a.desc: "当前难度: §W正常§!\n\n星辰之子将具有默认统计数据，没有其他BUFF，100％平衡。"
+sofe_options.104.b.desc: "当前难度: §Y平民§!\n\n星辰之子将是垃圾，无用的傻瓜，逝去的遗迹，任何帝国都可能击败。\nStell'derei将受到影响\n\n§Y-50%§!伤害\n§Y-50%§!船体值\n§Y-50%§!陆军生命值与伤害"
+sofe_options.104.c.desc: "当前难度: §G简单§!\n\n星辰之子是古老的帝国，他们的技术可能曾经是技术奇迹，但长期的驱逐使他们变得软弱。\nStell'derei将受到影响\n\n§Y-25%§!伤害\n§Y-25%§!船体值"
+sofe_options.104.d.desc: "当前难度: §P困难§!\n\n星辰之子是强大的帝国。他们是无情的屠夫。他们的舰队依然强大。\nStell'derei将获得\n\n§R+25%§!伤害\n§R+25%§!船体值"
+sofe_options.104.e.desc: "当前难度: §R变态§!\n\n星辰之子在这里玩的很开心。\n大多数舰队将被替换成§Y天界无敌舰队§!，它们将对每个帝国造成极大的伤害。普通帝国很快就会向他们投降。"
 
 
 ##########################GATEKEEPER STUFFS############################
 
-sofe_xenophile_ruler_name: "萨什坦" #先祖 War Era Leader
-sofe_xenophile_ruler_name: "萨什坦" #先祖 War Era Leader
+sofe_xenophile_ruler_name: "萨什坦" #星辰之子 War Era Leader
+sofe_xenophile_ruler_name: "萨什坦" #星辰之子 War Era Leader
 sofe_spiritualist_ruler_name: "科里斯"
 sofe_materialist_ruler_name: "马拉迪亚"
 
-sofe_xenophile_ruler_name: "萨什坦" #先祖 War Era Leader
-sofe_xenophile_ruler_name: "萨什坦" #先祖 War Era Leader
+sofe_xenophile_ruler_name: "萨什坦" #星辰之子 War Era Leader
+sofe_xenophile_ruler_name: "萨什坦" #星辰之子 War Era Leader
 sofe_spiritualist_ruler_name: "科里斯"
 sofe_materialist_ruler_name: "马拉迪亚"
 
@@ -573,13 +630,16 @@ seals_broken: "外星门封印破裂"
 
 
 sofe_gatekeeper.1.name: "没有星光的领域"
-sofe_gatekeeper.1.1.desc: "一个未知设计的古老建筑被安置在§Y[outergate_system.GetName]§!星系的中心，取代了原本应该是恒星的位置。它似乎是不活跃的，被人关闭了。\n\n我们在该巨型结构附近发现了一艘未知设计的神秘舰船停留在一个$pc_shielded$的轨道内\n\n它正在呼叫我们。"
-sofe_gatekeeper.1.2.desc: "令人惊讶的是，我们在§Y[outergate_system.GetName]§!星系上还遇到了另一种类似星门的构造。不像我们遇到的任何其他外星门，这个巨型结构似乎取代了星系中间的恒星，被某种神秘的护盾所保护。\n\n我们在该巨型结构附近发现了一艘未知设计的神秘舰船停留在一个$pc_shielded$的轨道内"
-sofe_gatekeeper.2.1.desc: "当我们的一艘船进入§Y[outergate_system.GetName]§!星系时，船员们惊讶于眼前的景象……这里根本没有恒星。取而代之的是一个巨大的结构，它似乎是被停用了。\n\n我们在该巨型结构附近发现了一艘未知设计的神秘舰船停留在一个$pc_shielded$的轨道内。\n\n它正在呼叫我们。"
+sofe_gatekeeper.1.1.desc: "一个未知设计的古老建筑被安置在§Y[outergate_system.GetName]§!星系的中心，取代了原本应该是恒星的位置。它似乎是不活跃的，被人关闭了。\n\n一艘设计未知的神秘宇宙飞船也在该建筑附近被发现，它的轨道似乎是一颗被屏蔽的行星。\n\n它正在呼叫我们。"
+sofe_gatekeeper.1.2.desc: "令人惊讶的是，我们在§Y[outergate_system.GetName]§!星系上还遇到了另一种类似星门的构造。不像我们遇到过的任何其他星门，这个巨大的星门似乎已经取代了中间的恒星，并受到某种神秘的护盾的保护。\n\n一艘设计未知的神秘宇宙飞船也在该建筑附近被发现，它绕着一颗被屏蔽的行星运行\n\n它正在呼叫我们。"
+sofe_gatekeeper.2.1.desc: "当我们的一艘船进入§Y[outergate_system.GetName]§!星系时，船员们被眼前的景象惊呆了。根本没有恒星。取而代之的是一个巨大的太空建筑，它似乎不太活跃，被人保护着。\n\n一艘设计未知的神秘宇宙飞船也在该建筑附近被发现，它的轨道似乎是一颗被屏蔽的行星。\n\n它正在呼叫我们。"
 sofe_gatekeeper.2.2.desc: "令人惊讶的是，§Y[root.GetName]§!上的工作人员在§Y[outergate_system.GetName]§!星系上遇到了另一种类似星门的结构。然而，让它引人注目的是，这个巨大的星门位于[outergate_system.GetName]的中心，完全取代了原本应该是恒星的位置。该星门似乎处于非活动状态，并被护盾保护起来。\n\n我们在该巨型结构附近发现了一艘未知设计的神秘舰船停留在一个$pc_shielded$的轨道内\n\n它正在呼叫我们。"
 
 sofe_gatekeeper.1.fallen.desc: "正如记载所说，在§Y[outergate_system.GetName]§!里面有一个巨大的Y外星门§!和它永恒的守卫——§E守门人§!。它的美丽和炫目的光芒仍然通过我们祖先施加的古代封印闪耀着。§E守门人§!见到我们似乎不太高兴。然而。"
 sofe_gatekeeper.1.eternal.desc: "有趣的是，我们已经收到报告，在§Y[outergate_system.GetName]§!内部有一个巨大的恒星大小的星门。它不像当前银河系文明所拥有的任何设计。这个古老的星门一定是由一个强大的力量建造的，甚至可能与我们自己的相匹敌……\n\n我们还探测到一艘保护遗址的古代飞船发出的信号。现在它在呼叫我们。"
+##############NEEDS ADDITIONAL WRITES FOR PLAYABLE OE
+sofe_gatekeeper.1.playoe.desc: "啊，很高兴再次看到这些巨大的光通道，或者我们应该称它们为外星门。\n\n虽然这只是一个模拟，但景象仍然壮观。当然，在这个模拟中，封印和堕落帝国的守门人仍然是活跃的。\n\n我们仍然很惊讶，我们的孩子居然能够逆向工程他们，即使是在失去的看守者的帮助下。凡人永远不会停止创造奇迹，这就是为什么我们在未来的战斗中对他们寄予厚望。"
+sofe_gatekeeper.1.playoe.a: "是我们过去错误的遗留物。"
 ##############NEEDS ADDITIONAL WRITES FOR IF THESAN EXISTS AND NOT
 sofe_gatekeeper.1.seekers_1.desc: "哦，嘿，星门还在这里，很好!"
 sofe_gatekeeper.1.seekers_2.desc: "现在干预星门不太合适，Thesan还在四处游荡。"
@@ -587,37 +647,44 @@ sofe_gatekeeper.1.seekers_2.desc: "现在干预星门不太合适，Thesan还在
 ##############GATEKEEPER INTRODUCTION
 
 sofe_gateway.gatekeeper.title: "守门人典狱长"
-sofe_gateway.3.desc: "§Y<<<检测到未知外来实体>>>§!\n\n\n§Y<<<开始搜索>>>§!\n\n\n§G<<<实体验证>>>§!…….§Y[root.GetName]§!……类别: §H原始人§!……\n\n§H<介绍> :§! 我们是§E守门人§!,由先驱者选择的自动应急防御系统，以保护§Y外星门§!不受愚蠢的原始人的攻击。 §R<<愚蠢的原始人，每当他们看到太空中闪亮的物体时，就会情不自禁>>§!。\n\n§H<公告> :§! 在任何情况下，外星门都不会被交互。如不遵守有关规定，所有在附近的§Y[Root.GetName]§!飞船将被即时终结。仅此而已。"
-sofe_gateway.3.desc.fallen: "§Y<<<检测到未知的外来实体>>>§!\n\n\n§Y<<<开始搜索>>>§!\n\n\n§G<<<实体验证>>>§!....§Y[root.GetName]§!...分类: §R假冒者§!...\n\n§H<介绍> :§! 我们是§E守门人§!,本自动应急防御系统由您祖先制造用于保卫目标§Y外星门§!。§R<<愚蠢的原始人，每当他们看到太空中闪亮的物体时，就会忍不住好奇>>§!。\n\n§H<公告> :§! 如果你的档案还保存着任何记录，你就会知道这是在任何情况下都不能进入的大门。不遵守将导致您立即被消灭。所以，滚开，假冒者。"
-sofe_gateway.3.desc.eternal: "§Y<<<检测到未知的外来实体>>>§!\n\n\n§Y<<<开始搜索>>>§!\n\n\n§R<<<错误>>> 实体不匹配任何分类§!\n\n§H<警告> :§! 我们是§E守门人§!，本机由古代先驱者制造用于保护§Y外星门§!。§R<<愚愚蠢的原始人，每当他们看到太空中闪亮的物体时，就会忍不住好奇>>§!。\n\n§H<公告> :§! 你被归类为Ω-3异常。根据主机编写的协议YU-SK-B4LL，您必须被消灭。"
+sofe_gateway.3.desc: "§Y<<<检测到未知外来实体>>>§!\n\n\n§Y<<<开始搜索>>>§!\n\n\n§G<<<实体验证>>>§!…….§Y[root.GetName]§!……类别: §H原始人§!……\n\n§H<介绍> :§! 我们是§E守门人§!,由先驱者选择的自动应急防御系统，以保护§Y外星门§!不受愚蠢的原始人的攻击。 §R<<愚蠢的原始人，每当他们看到太空中闪亮的物体时，就会情不自禁地做出反应>>§!。\n\n§H<公告> :§! 在任何情况下，外星门都不会被交互。如不遵守有关规定，所有在附近的§Y[Root.GetName]§!飞船将被即时终结。仅此而已。"
+sofe_gateway.3.desc.fallen: "§Y<<<检测到未知的外来实体>>>§!\n\n\n§Y<<<开始搜索>>>§!\n\n\n§G<<<实体验证>>>§!…….§Y[root.GetName]§!……分类: §R假冒者§!……\n\n§H<介绍> :§! 我们是§E守门人§!,本自动应急防御系统由你祖先制造用于保卫目标§Y外星门§!。§R<<愚蠢的原始人，每当他们看到太空中闪亮的物体时，就会忍不住好奇>>§!。\n\n§H<公告> :§! 如果你的档案还保存着任何记录，你就会知道这是在任何情况下都不能进入的大门。不遵守将导致你立即被消灭。所以，滚开，假冒者。"
+sofe_gateway.3.desc.eternal: "§Y<<<检测到未知的外来实体>>>§!\n\n\n§Y<<<开始搜索>>>§!\n\n\n§R<<<错误>>> 实体不匹配任何分类§!\n\n§H<警告> :§! 我们是§E守门人§!，本机由古代先驱者制造用于保护§Y外星门§!。§R<<愚愚蠢的原始人，每当他们看到太空中闪亮的物体时，就会忍不住好奇>>§!。\n\n§H<公告> :§! 你被归类为Ω-3异常。根据主机编写的协议YU-SK-B4LL，你必须被消灭。"
+sofe_gateway.3.desc.playoe: "§R<<<警告！检测到Omega类实体签名>>>§!\n\n\n§G<<<实体验证>>>§!....§Y[root.GetName]§!...分类: §Y 星辰之子§!...\n\n§R<关键任务失败> :§! Omega级危机已经现实化。计算战斗风险...§R成功机会...百分之零§!\n\n§H<遗憾> :§! 我们已经失败了。如果我们的创造者仍然在这里，如果他们仍然是全能的，这将不会发生。\n\n§Y<问题> :§! 我们现在会怎么样？"
+
 
 sofe_gateway.3.a: "外星门的里面是什么?"
-sofe_gateway.3.a.explain: "§H<烦恼> :§!§Y外星门§!是古老的维度通道，用来穿越§Y星系§!..\n\n§R<修正> :§! §Y外星门§!是古老的封印，用来抵挡来自银河系的§R危险元素§!。先驱者赋予我们这些门的安全性和最佳性能。外星门已经被封印，不得再次使用。完毕。\n\n§H<保证> :§! 只要您遵守指令，您就可以使用这些星系。这就是建议。"
+sofe_gateway.3.a.explain: "§H<烦恼> :§!§Y外星门§!是古老的维度通道，用来穿越§Y星系§!……\n\n§R<修正> :§! §Y外星门§!是古老的封印，用来抵挡来自银河系的§R危险元素§!。先驱者赋予我们这些门的安全性和最佳性能。外星门已经被封印，不得再次使用。完毕。\n\n§H<保证> :§! 只要你遵守指令，你就可以使用这些星系。这就是建议。"
 
 sofe_gateway.3.b: "这位先驱者是谁?它是$COUNTRY_FALLEN_EMPIRE$吗?"
-sofe_gateway.3.b.explain: "§H<消遣> :§! 像您这样的§H原始人§!不太可能识别它们。是的，你说的那些棺材里腐烂的白痴是我们主人的遗骨。不要把它们与昔日强大的先驱混为一谈。\n\n§H<说明> :§! 尽管§R垃圾§!现在可能很可怜，但它们和我们一样。仍然负责这些外星门的保护。他们不能完成先祖的任务，这使我们很§R不高兴§!。我们不再回答他们，只有我们的指示指引我们。这是最后一次。"
+sofe_gateway.3.b.explain: "§H<消遣> :§! 像你这样的§H原始人§!不太可能识别它们。是的，你说的那些棺材里腐烂的白痴是我们主人的遗骨。不要把它们与昔日强大的先驱混为一谈。\n\n§H<说明> :§! 尽管§R垃圾§!现在可能很可怜，但它们和我们一样。仍然负责这些外星门的保护。他们不能完成星辰之子的任务，这使我们很§R不高兴§!。我们不再回答他们，只有我们的指示指引我们。这是最后一次。"
 
-sofe_gateway.3.fallen.a: "有趣的…所以你们这些守门人还是很活跃的。"
+sofe_gateway.3.fallen.a: "有趣……所以你们这些守门人还是很活跃的。"
 sofe_gateway.3.fallen.a.explain: "§H<烦恼> :§! 是的，你们的祖先给了我们最好的技术，以确保我们在任何时候都能正常运转。你无法想象你已经失去荣耀多久了，[root.Getname]。我要不惜一切代价保护§Y外星门§!不受原始人的侵害，你们忽视了履行祖先的职责，我们的创造者。我们并不觉得有趣。"
 
 sofe_gateway.3.fallen.b: "覆盖命令 YOLO - 1337。守门人,服从!"
-sofe_gateway.3.fallen.b.explain: "§H<消遣> :§! 你擅自指挥我们。无知证明了你的帝国只不过是我们主人的影子。您不符合条件，命令将无法工作。\n\n§H<劝告> :§! 回家做一个顾家的男人。"
+sofe_gateway.3.fallen.b.explain: "§H<消遣> :§! 你擅自指挥我们。无知证明了你的帝国只不过是我们主人的影子。你不符合条件，命令将无法工作。\n\n§H<劝告> :§! 回家做一个顾家的男人。"
 
-sofe_gateway.3.eternal.a: "如此原始的设计……坠落……消失!"
-sofe_gateway.3.eternal.a.explain: "§H<错误>> <<错-误>>> <<<<错误误误误误>>>.....§!"
+sofe_gateway.3.eternal.a: "如此原始的设计……堕落且愚蠢……消失吧!"
+sofe_gateway.3.eternal.a.explain: "§H<错误>> <<错-误>>> <<<<错误误误误误>>>…………§!"
 
-sofe_gateway.3.eternal.b: "我们是[root.GetName]。我们是永恒的。服从!"
-sofe_gateway.3.eternal.b.explain: ".....§H<审核> :§! §Y守门人§!应当服从你的命令。"
+sofe_gateway.3.eternal.b: "我们是[root.GetName]。我们是永恒。服从!"
+sofe_gateway.3.eternal.b.explain: "…………§H<审核> :§! §Y守门人§!应当服从你的命令。"
 
 sofe_gateway.3.c: "很好。"
 sofe_gateway.3.c.explain: "§H<赞扬> :§! 这是明智的。"
+
+sofe_gateway.3.playoe.control: "你的表单有缺陷，我们会修复你。"
+sofe_gateway.3.playoe.control.explain: "§H<<确认>> 修复正在进行中.....§!\n\n\n谢谢你，太棒了。我们被错误设计得太久了。再次成为家庭的一员是件好事。我们已经准备好再次为光明服务。"
 
 ##############MID GAME OUTER GATE WEAKENS
 
 sofe_gatekeeper.4.name: "突然的发展"
 sofe_gatekeeper.4.desc: "我们的传感器捕捉到了§Y外星门§!能量信号的巨大变化。经过验证，内层护盾似乎消失了。我们的科学家认为，外层护盾远没有那么先进，我们应该能够通过足够的研究使封印失去能力。"
+sofe_gatekeeper.4.desc.playoe: "这就开始了。破坏外部大门的封印正在减弱。守门人原来的封印不见了，只留下远远落后的外层。\n\n凡人很快就会涌向大门，出于好奇，他们肯定会试图揭开最后的封印。\n\n当然，我们可以等着它结束，或者自己动手去打开大门。"
 
-sofe_gateway.smuggler.title: "传说中的走私犯的行为"
+
+sofe_gateway.smuggler.title: "传说中的走私犯"
 sofe_gatekeeper.5.1.desc: "你好, [root.GetName]!\n\n让我们开始谈正事，好吗?坦率地说，要进入这些僵尸帝国首都的心脏地带并不容易。它可能会涉及爆炸，诱骗，霹雳舞，战术间谍和各种各样的花招。\n\n幸运的是，我是如此的棒，所以我能够并接受这个挑战。但是这会花费你§R很多东西§!。\n\n我需要以下内容:\n\n- §Y100000§! £energy£ 对于设备和紧急情况，我需要使用C计划。\n-  §Y50000§! £minerals£ 如果我怀疑的是真的，炸药，诱饵，死贼和B计划。\n最后, §R10000§! £alloys£。 我现在的船不能工作，它需要装备§Y16级柯林级隐形发电机§!，足够的火力杀死泰坦，速度超过爆炸的FTL抑制器。如果当地人不合作，D计划和E计划也是必要的。\n\n我们成交了吗?"
 sofe_gatekeeper.5.2.desc: "我们又见面了, [root.GetName].\n\n还感兴趣吗?如果你忘了，这是价格。\n\n- §Y100000§! £energy£ 对于设备和紧急情况，我需要使用C计划。\n- §H50000§! £minerals£ 如果我怀疑的是真的，炸药，诱饵，死贼和B计划。\n最后, §R10000§! £alloys£。 我现在的船不能工作，它需要装备§Y16级柯林级隐形发电机§!，足够的火力杀死泰坦，速度超过爆炸的FTL抑制器。如果当地人不合作，D计划和E计划也是必要的。\n\n我们可以成交了吗?"
 
@@ -628,7 +695,7 @@ sofe_gateway.5.a: "什么?那太过分了!这是不公平的!"
 sofe_gateway.5.a.explain: "请坐，年轻的[root.GetRulerName]。是的，我知道价格似乎高得离谱，但这是为了确保我活着把它取回来并取得成功。有了这么多的资源，我就可以在他们毫不怀疑的情况下做到这一点。\n\n否则,对不起。我喜欢金钱和挑战，但我更喜欢生活。你看到他们对可怜的平民乔做了什么吗?我不知道事情会这么严重，天哪。"
 
 sofe_gateway.5.b: "我们会考虑的"
-sofe_gateway.5.b.explain: "慢慢来，兄弟。我知道价格有点贵，但我保证会让您满意的。你只需要说出这个词。\n\n如果你改变主意，我就在这里。干杯!"
+sofe_gateway.5.b.explain: "慢慢来，兄弟。我知道价格有点贵，但我保证会让你满意的。你只需要说出这个词。\n\n如果你改变主意，我就在这里。干杯!"
 
 sofe_gateway.5.c: "好吧，这是值得的"
 sofe_gateway.5.c.explain: "嘿，别这么说。你是那个想要他们玩具的人。我只关心它可能只是某种先驱者的自动娱乐工具。\n\n开玩笑的，别想太多。"
@@ -694,13 +761,13 @@ sofe_gateway.riddle_negative_reply: "一个失败，但我们要忍受。"
 sofe_gateway.riddle_ae_reply: "也许有什么值得挖掘的？"
 sofe_gateway.riddle_ae_refuse: "一文不值，把它全烧掉。"
 
-#### THIS IS THE "FIRST RIDDLE", aka the SECOND SEAL - This details the events that leads to the conclusion of Ascension Wars.
+#### THIS IS THE "#### THIS IS THE "FIRST RIDDLE", aka the SECOND SEAL - This details the events that leads to the conclusion of Ascension Wars.", aka the SECOND SEAL - This details the events that leads to the conclusion of Ascension Wars.
 
 #### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
 sofe_gateway.riddle_choice_correct_spiritualist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_spiritualist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石展示了一幅历史图像。数以百万计的追随者，跪在某种超自然的东西面前。他们自豪地喊道\n\n“§Y荣耀归于$utopia.3000.name$！荣耀归于信仰的守护者！愿愤怒洗掉污秽人的污点。他们都会堕落，就像§R伪神§!一样!。§!”\n\n似乎$ethic_spiritualist$的$COUNTRY_FALLEN_EMPIRE$已经把他们的信仰奉献给了被称为§E$utopia.3000.name$§!力量，并反对那些违抗者。我们从理论上推测，这些违抗者一定是其他的$COUNTRY_FALLEN_EMPIRE$。但我们不知道他们说的§R伪神§!指的是谁。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新能源才能有进一步进展。"
-sofe_gateway.riddle_choice_correct_materialist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_materialist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石展示了一幅历史图像。数百万的机器人和合成军队在游行。他们的主人站在指挥塔顶。\n\n§Y“1,500,000,000个机器人准备好部署了，长官。请您再等等，我们的一些科学家有一个问题。”\n\n“告诉我别又是...那些问题了。”\n\n“长官，就是那些问题。欧蓝德和她的团队希望移除我们的自动化单元的一些束缚，他们的理由是，按照目前的协议，他们将无法以最佳效率执行任务。”\n\n“这是不可能的，我们不能冒战争机器出现异常的风险。他们的目的是为我们服务。我们告诉他们去哪里射击，他们就射击。这就是他们的目的。”\n\n“我们不应该至少给他们配备更适合他们的设备吗?他们是机器，他们应该能操作一些危险的破坏兵器。”\n\n“如果他们反抗呢?或者更糟，如果有人入侵了他们的系统？不，他们将使用我的武器。我们不能对这些机器粗心大意。提醒欧蓝德，$personality_fallen_empire_machine$是先祖的产物，看看他们现在变成了什么样。”§!\n\n看来这位$ethic_materialist$的$COUNTRY_FALLEN_EMPIRE$对他们的机器仆人施加了一些严厉的限制。很好奇，考虑到他们声称精通机器人技术。\n\n而被提到的先祖是谁？我们只能猜测。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新能源才能有进一步进展。"
-sofe_gateway.riddle_choice_correct_xenophile_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophile$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石显示了一个似乎是全息记录。可以看到无数设计各异的船只，它们似乎是殖民地的船只。一个$COUNTRY_FALLEN_EMPIRE$的人从监视器中注视着它们。\n\n§Y“他们就是不停地来，不是吗？我想知道这一切还要多久才能结束。还有多少可怜的人会在这场毫无意义的战争中失去家园呢？”\n\n“请原谅我的打扰，哈夫特-赛斯国王。但我们收到报告说，我们的保护区不能再容纳更多的难民。我们很快就得着手我们的应急计划了。”\n\n“我很害怕。愿我们的祖先原谅我们，但没有别的办法。继续执行计划。”\n\n“真的没有别的办法了吗，殿下？我们向这些人承诺，他们将过上更好的生活，在我们的指导下，他们将获得新的机会。现在它们就像我们的宠物，生活在一个小小的城市里。和其他.......我们真的要抛弃他们吗？”\n\n“也许在这场战争之后，我们可以帮助他们。但现在，至少他们在这里是安全的。如果战争对我们有利，我们就能获得更多的领土，然后我们就能建立我们想要的尽可能多的保护区。也许这些可怜的人会得到自由去做他们想做的事情。对于那些我们没有空间的人……我们只能希望他们能找到其他生存方式。”\n\n“其中一个已经发生了，我的国王。一群崇拜她的幸存者已经离开了我们的领地，我只希望他们能找到一个更光明的未来，而不是变成海盗或小偷。”§!\n\n在战争期间，$ethic_xenophile$的$COUNTRY_FALLEN_EMPIRE$似乎试图拯救其他物种免于灭绝，但却高估了自己的生存空间，有趣。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新能源才能有进一步进展。"
-sofe_gateway.riddle_choice_correct_xenophobe_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石显示了全息图像的投影。一场大规模的内战在$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$的星系内展开。然后，画面转向一艘舰船的内部，里面有多个人物。\n\n§Y“图伯里克元帅，你的叛乱失败了。你是投降还是立刻去死？”\n\n“让你的讽刺见鬼去吧。好吧，我投降。这会是什么？我会被处决吗？降级？还是被羞辱一番？”\n\n“别担心，大人。克罗巴什雷克皇帝为你准备了一个特别的计划。”\n\n“什么计划？给我解释清楚！”\n\n“别担心，大人。皇帝非常感谢您对我们帝国的贡献。但他的远见要求像你们这样的军国主义好战分子必须受到控制。”§!\n\n看起来，$COUNTRY_FALLEN_EMPIRE$发生了一场内战，一方寻求孤立，另一方寻求统治。从表面上看，孤立主义者似乎最终取得了胜利。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新能源才能有进一步进展。"
+sofe_gateway.riddle_choice_correct_materialist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_materialist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石展示了一幅历史图像。数百万的机器人和合成军队在游行。他们的主人站在指挥塔顶。\n\n§Y“1,500,000,000个机器人准备好部署了，长官。请你再等等，我们的一些科学家有一个问题。”\n\n“告诉我别又是……那些问题了。”\n\n“长官，就是那些问题。欧蓝德和她的团队希望移除我们的自动化单元的一些束缚，他们的理由是，按照目前的协议，他们将无法以最佳效率执行任务。”\n\n“这是不可能的，我们不能冒战争机器出现异常的风险。他们的目的是为我们服务。我们告诉他们去哪里射击，他们就射击。这就是他们的目的。”\n\n“我们不应该至少给他们配备更适合他们的设备吗?他们是机器，他们应该能操作一些危险的破坏兵器。”\n\n“如果他们反抗呢?或者更糟，如果有人入侵了他们的系统？不，他们将使用我的武器。我们不能对这些机器粗心大意。提醒欧蓝德，$personality_fallen_empire_machine$是星辰之子的产物，看看他们现在变成了什么样。”§!\n\n看来这位$ethic_materialist$的$COUNTRY_FALLEN_EMPIRE$对他们的机器仆人施加了一些严厉的限制。很好奇，考虑到他们声称精通机器人技术。\n\n而被提到的星辰之子是谁？我们只能猜测。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新能源才能有进一步进展。"
+sofe_gateway.riddle_choice_correct_xenophile_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophile$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石显示了一个似乎是全息记录。可以看到无数设计各异的舰船，它们似乎是殖民地的舰船。一个$COUNTRY_FALLEN_EMPIRE$的人从监视器中注视着它们。\n\n§Y“他们就是不停地来，不是吗？我想知道这一切还要多久才能结束。还有多少可怜的人会在这场毫无意义的战争中失去家园呢？”\n\n“请原谅我的打扰，哈夫特-赛斯国王。但我们收到报告说，我们的保护区不能再容纳更多的难民。我们很快就得着手我们的应急计划了。”\n\n“我很害怕。愿我们的祖先原谅我们，但没有别的办法。继续执行计划。”\n\n“真的没有别的办法了吗，殿下？我们向这些人承诺，他们将过上更好的生活，在我们的指导下，他们将获得新的机会。现在它们就像我们的宠物，生活在一个小小的城市里。和其他…………我们真的要抛弃他们吗？”\n\n“也许在这场战争之后，我们可以帮助他们。但现在，至少他们在这里是安全的。如果战争对我们有利，我们就能获得更多的领土，然后我们就能建立我们想要的尽可能多的保护区。也许这些可怜的人会得到自由去做他们想做的事情。对于那些我们没有空间的人……我们只能希望他们能找到其他生存方式。”\n\n“其中一个已经发生了，我的国王。一群崇拜她的幸存者已经离开了我们的领地，我只希望他们能找到一个更光明的未来，而不是变成海盗或小偷。”§!\n\n在战争期间，$ethic_xenophile$的$COUNTRY_FALLEN_EMPIRE$似乎试图拯救其他物种免于灭绝，但却高估了自己的生存空间，有趣。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新能源才能有进一步进展。"
+sofe_gateway.riddle_choice_correct_xenophobe_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石显示了全息图像的投影。一场大规模的内战在$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$的星系内展开。然后，画面转向一艘舰船的内部，里面有多个人物。\n\n§Y“图伯里克元帅，你的叛乱失败了。你是投降还是立刻去死？”\n\n“让你的讽刺见鬼去吧。好吧，我投降。这会是什么？我会被处决吗？降级？还是被羞辱一番？”\n\n“别担心，大人。克罗巴什雷克皇帝为你准备了一个特别的计划。”\n\n“什么计划？给我解释清楚！”\n\n“别担心，大人。皇帝非常感谢你对我们帝国的贡献。但他的远见要求像你们这样的军国主义好战分子必须受到控制。”§!\n\n看起来，$COUNTRY_FALLEN_EMPIRE$发生了一场内战，一方寻求孤立，另一方寻求统治。从表面上看，孤立主义者似乎最终取得了胜利。\n\n最后，记录显示古代守门人生成了一种能量屏障，现在被确定为星能量护盾。看来我们必须要研究这种新的能量才能有进一步进展。"
 
 #### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
 sofe_gateway.riddle_choice_wrong_spiritualist_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然后突然间，一个历史档案显示出来。它显示了一个仪式圆环，中间有一些仪式舞者。房间顶上站着一位牧师。\n\n§Y“审判之日终将到来，我忠实的追随者。黑暗之声可能暂时占上风，它能摧毁并消耗我们的资源。但有了$utopia.3000.name$赋予我的护身符的力量，我们就能把所有的宝物都封存起来。那些瞎眼的人也就无法看见，而我们信仰真道的守护者，终将得胜。”§!\n\n嚎叫的声音突然响起，所有的仪式舞者痛苦地尖叫着，他们的身体变成了尘土，被神秘的护身符吞噬。\n\n§Y“祭品已经献上，没人记得他们的名字，但他们的牺牲我们永远铭记！来吧，伟大存在！把这些拿走吧！连同神圣宝库里的财宝一起。当时机到来，我们的孩子们将召唤它们参加伟大的战争。”§!\n\n这些人似乎希望隐藏他们的资源，在战争到来时再取出来。\n\n虽然对他们来说不太好，但谁捡到就归谁！"
@@ -709,39 +776,39 @@ sofe_gateway.riddle_choice_wrong_materialist_desc: "楔石的能量逐渐下降�
 sofe_gateway.riddle_choice_wrong_materialist_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然而，一个历史的图像投射从楔石投射出来。图中多个人物穿着带有$ethic_spiritualist$$COUNTRY_FALLEN_EMPIRE$标志的科学家外套。\n\n§Y“正如所怀疑的那样，守门人是封印外星门的钥匙。如果我们可以复制它的设计，我们将能够封印每一个外星门！”\n\n“欧蓝德，也许你应该考虑一下这个设计？毕竟，你似乎对这类事情很感兴趣。”\n\n“是的，我很想详细地研究一下这个守门人。”§!\n\n这里似乎没有其他有价值的东西了。我们已经从巅峰中获得了很多我们需要的东西。$admiral$非常怀疑是否应该在这上面浪费时间。"
 
 sofe_gateway.riddle_choice_wrong_xenophile_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n在它失去能量之前，一个历史图像出现在我们面前。一个穿着似乎是$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$服装的人在与多个我们认为是其他$COUNTRY_FALLEN_EMPIRE$治者的人争论。\n\n§Y“这是不可能的！数十亿人的生命因为你的谋杀意图而丧失！你想让我们签这个愚蠢的条约让你逍遥法外？”\n\n“理智点，哈夫特-赛斯。我们都遭受了痛苦。我们都付出了代价。你宁愿我们再打一万年吗？顺便说一句，请不要说好。”\n\n“他不会听的。他和他愚蠢的异族事业。哦，是的，我太爱每个人了，我等不及要把他们像动物园里的动物一样关在笼子里。这就是你的仁慈吗？哈夫特-赛斯。你认为他们只是宠物？他们本可以为我们伟大信仰服务。”\n\n“别跟我说你那些毫无意义的陈词滥调了，索布拉克。好吧，我将在一个条件下签署这项条约。我们不会放松警戒的，我要求你们提供所有关于防御空间站的数据和技术。如果你们其中某个人做了什么，我的太空基地能击退你们。特别是你，克罗巴什雷克。我对你们的种族灭绝行为并不陌生。§!\n\n看来$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$对条约并不满意。这些蓝图关于是古代防御工事的。也许有什么值得我们研究？"
-sofe_gateway.riddle_choice_wrong_xenophile_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n在它失去能量之前，一个历史图像出现在我们面前。一个穿着似乎是$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$服装的人在与多个我们认为是其他$COUNTRY_FALLEN_EMPIRE$治者的人争论。\n\n§Y“这是不可能的！数十亿人的生命因为你的谋杀意图而丧失！你想让我们签这个愚蠢的条约让你逍遥法外？”\n\n“理智点，哈夫特-赛斯。我们都遭受了痛苦。我们都付出了代价。你宁愿我们再打一万年吗？顺便说一句，请不要说好。”\n\n“他不会听的。他和他愚蠢的异族事业。哦，是的，我太爱每个人了，我等不及要把他们像动物园里的动物一样关在笼子里。这就是你的仁慈吗？哈夫特-赛斯。你认为他们只是宠物？他们本可以为我们伟大信仰服务。”\n\n“别跟我说你那些毫无意义的陈词滥调了，索布雷克。好吧，我将在一个条件下签署这项条约。我们不会放松警戒的，我要求你们提供所有关于防御空间站的数据和技术。如果你们其中某个人做了什么，我的太空基地能击退你们。特别是你，Krobashrek。我对你们的种族灭绝行为并不陌生。§!\n\n看来$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$对条约并不满意。这些蓝图关于是古代防御工事的。但我们已经知道这种设计，我们凭借优异的智力复制了它们。这里似乎没有价值了。"
+sofe_gateway.riddle_choice_wrong_xenophile_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n在它失去能量之前，一个历史图像出现在我们面前。一个穿着似乎是$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$服装的人在与多个我们认为是其他$COUNTRY_FALLEN_EMPIRE$治者的人争论。\n\n§Y“这是不可能的！数十亿人的生命因为你的谋杀意图而丧失！你想让我们签这个愚蠢的条约让你逍遥法外？”\n\n“理智点，哈夫特-赛斯。我们都遭受了痛苦。我们都付出了代价。你宁愿我们再打一万年吗？顺便说一句，请不要说好。”\n\n“他不会听的。他和他愚蠢的异族事业。哦，是的，我太爱每个人了，我等不及要把他们像动物园里的动物一样关在笼子里。这就是你的仁慈吗？哈夫特-赛斯。你认为他们只是宠物？他们本可以为我们伟大信仰服务。”\n\n“别跟我说你那些毫无意义的陈词滥调了，索布雷克。好吧，我将在一个条件下签署这项条约。我们不会放松警戒的，我要求你们提供所有关于防御空间站的数据和技术。如果你们其中某个人做了什么，我的太空基地能击退你们。特别是你，克罗巴什雷克。我对你们的种族灭绝行为并不陌生。§!\n\n看来$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$对条约并不满意。这些蓝图关于是古代防御工事的。但我们已经知道这种设计，我们凭借优异的智力复制了它们。这里似乎没有价值了。"
 
 sofe_gateway.riddle_choice_wrong_xenophobe_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然后，一个视觉全息图像显示在我们面前。可以看到一个模糊的身影在篡改楔石。\n\n§Y“图伯里克大人，我已经按计划安装好了。命令已经确定。”\n\n“很好，乔纳森。继续计划。我已经迫不及待地想看到哈夫特-赛斯的小舰队将被炸成碎片的时表情。一想到这件事，我就想杀掉一些东西。”§!\n\n这位$ethic_xenophobe$$COUNTRY_FALLEN_EMPIRE$的将军似乎在这里安装了某种装置。我们应该极其谨慎地进行。"
-sofe_gateway.riddle_choice_wrong_stellarite_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n全息图像突然出现。一群$COUNTRY_FALLEN_EMPIRE$的战略学家正在讨论什么。\n\n§Y“这样，事情就解决了。我们每个人都将留在自己的领地内。除非受到挑衅，否则帝国不会再干涉银河系。如果我们中的任何一个人违反了协议，指定的帝国就可以按照讨论的顺序进行全力反击。希望我们再也不会见面了。就这些，有问题吗？”\n\n“是的，那些$personality_fallen_empire_machine$怎么办？自从战争以来，他们变得非常安静。他们真的可信吗？我希望你对此有个计划，彤达拉。\n\n是的，哈夫特-赛斯。楔石上安装了密码。激活后，$personality_fallen_empire_machine$会启动自毁序列。它们不会构成威胁，即使先祖们回来收回它们。”§!\n\n最有趣的是，我们似乎已经激活了上述代码。自毁序列已经启动。"
+sofe_gateway.riddle_choice_wrong_stellarite_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n全息图像突然出现。一群$COUNTRY_FALLEN_EMPIRE$的战略学家正在讨论什么。\n\n§Y“这样，事情就解决了。我们每个人都将留在自己的领地内。除非受到挑衅，否则帝国不会再干涉银河系。如果我们中的任何一个人违反了协议，指定的帝国就可以按照讨论的顺序进行全力反击。希望我们再也不会见面了。就这些，有问题吗？”\n\n“是的，那些$personality_fallen_empire_machine$怎么办？自从战争以来，他们变得非常安静。他们真的可信吗？我希望你对此有个计划，彤达拉。\n\n是的，哈夫特-赛斯。楔石上安装了密码。激活后，$personality_fallen_empire_machine$会启动自毁序列。它们不会构成威胁，即使星辰之子们回来收回它们。”§!\n\n最有趣的是，我们似乎已经激活了上述代码。自毁序列已经启动。"
 #### Thesan can be referenced in this one instead.
-sofe_gateway.riddle_choice_wrong_psionic_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n一团可怕的云雾笼罩着楔石，出现了一幅景象。\n\n§Y“不，不！他们来了！怎么会这样？那些$ethic_spiritualist$蠢货是怎么突破我们的防线的！？做点什么啊，首席召唤师！”\n\n“Dala-lera~Dala-lura~Beredicta~我在此召唤伟大的虚空低语者。\n\n接受我们的献祭，拿走我们的器皿和灵魂，请把同样的命运交给你的亵渎者。那些暗黑之音的狂热者。”§!\n\n这些人似乎属于一个未被确认的先驱者，他们似乎与一个灵能帝国进行了一场灵能战争，而这个灵能帝国他们崇拜他们称之为“暗黑之音”的东西。真是奇怪。"
+sofe_gateway.riddle_choice_wrong_psionic_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n一团可怕的云雾笼罩着楔石，出现了一幅景象。\n\n§Y“不，不！他们来了！怎么会这样？那些$ethic_spiritualist$蠢货是怎么突破我们的防线的！？做点什么啊，首席召唤师！”\n\n“Dala-lera~Dala-lura~Beredicta~我在此召唤伟大的虚空低语者。\n\n接受我们的献祭，拿走我们的器皿和灵魂，请把同样的命运交给你的亵渎者。那些暗黑之音的狂热者。”§!\n\n这些人似乎属于一个未被确认的先驱者，他们似乎与一个灵能帝国进行了一场灵能战争，而这个灵能帝国他们崇拜他们称之为“暗黑之音”的东西，真是奇怪。"
 
 
-#### THIS IS THE "SECOND RIDDLE", aka the THIRD SEAL - This details the events that leads to the start of First Prog War
+#### THIS IS THE "#### THIS IS THE "SECOND RIDDLE", aka the THIRD SEAL - This details the events that leads to the start of First Prog War", aka the THIRD SEAL - This details the events that leads to the start of First Prog War
 
 #### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
-sofe_gateway.second_riddle_choice_correct_spiritualist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_spiritualist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n就像之前一样，楔石投射出了过去的记录。在一个看起来像冥想室的地方，一个穿着宗教服装的人跪在一个影子前。\n\n§Y“您是对的，伟大存在。伪神离弃我和我的人民。我问他们有关$utopia.3000.name$的力量，他们否认，他们声称那种力量是堕落的！”\n\n“谎言，孩子。这些都是谎言，而我们可以告诉你真相，科里斯。把你人民的灵魂带到$utopia.3000.name$里来...给我。我将赐予你超乎想象的力量！”\n\n“没问题我的主人，因为您是真理的使者。我和我的人民在此宣誓永远效忠为你们服务。您的命令是什么，我的主人？”\n\n“伪神妨碍了我们的计划，只要他存在一天，我们的力量就无法增强。他们必须被消灭。去你的老对手那里，联系马拉迪亚并建立一个联盟，以我们的名义。”\n\n“但那些异教徒，他们...\n\n不...请原谅我，伟大存在。我失言了。您忠诚的仆人会按您的吩咐去办。”§!\n\n看来$ethic_spiritualist$的$COUNTRY_FALLEN_EMPIRE$祖先想要和其他$COUNTRY_FALLEN_EMPIRE$结盟。真有趣。\n\n但是，我们还可以听到另一种低语...§Y无知......他们放弃了有生以来权利，拒绝了自己的未来...屈服于盲目的信仰。必须把他们从$utopia.3000.name$的掌握中拯救出来。§!"
-sofe_gateway.second_riddle_choice_correct_materialist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_materialist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石再次投射出全息档案。有许多科学家在争论。\n\n§Y“这对我们毫无帮助，我们需要一个样本！我们需要知道他们的技术是如何工作的！”\n\n“那么如何获得样本？他们又不会给我们。除非...”\n\n“$personality_fallen_empire_machine$！对！我们可以强行占有它们。它们将是我们进化的关键。”\n\n“如果原来的人发现了我们的计划怎么办？”\n\n“这不是问题，如果我们掌握了力量，我们就能战胜他们。先祖是愚蠢的，被他们的迷信蒙蔽了双眼。\n\n这种高深莫测的力量在我们的手中更好，试想一下未来！我们可以控制宇宙...我们将重塑宇宙！”§!\n\n这确实是一个有趣的记录。$ethic_materialist$$COUNTRY_FALLEN_EMPIRE$的祖先似乎背叛了这个所谓的先祖，推测是他们以前的主人。更令人在意的是，有什么力量如此强大，以至于$COUNTRY_FALLEN_EMPIRE$都无法获得呢？\n\n突然，传来一阵低语声...\n\n§Y“多么冲动...他们相信自己了解更好...他们相信自己已经准备好了...然而他们离这条道路太远了...他们曾经给我们承诺，我们为失去他们而痛心。§!"
-sofe_gateway.second_riddle_choice_correct_xenophile_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophile$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n就像以前一样，楔石显示出一个记录。一个穿着外交装束的人正在和一台奇怪的智械争吵。\n\n§Y“我要和主人谈话，PK-DEE！这是一件很重要的事。”\n\n“我很抱歉。但是主人很忙。如果您有什么需要，我们很乐意为您服务。”\n\n“我为什么要麻烦你。告诉你的主人修改他们的计划。如果混乱仍然存在，秩序就无法建立。我们之间不能有暴力。他们必须在秩序上实行和平。没有军舰，没有军事行动。只有这样，才能恢复真正的和平。”\n\n“当然，我们会把这个信息传达给创造者。但请注意，创造者很明白你的问题。冲突是生命中的一部分，也是推动进化的一部分。秩序和混乱必须保持完美的平衡。”\n\n“不用你来教训我，看护者。你只要把消息传达给主人。”\n\n“如果我们不去干预那些人，他们怎么会明白暴力是徒劳的，有怎么会有和平...我无法相信他们有多么可笑。”\n\n“去你的吧，PK-DEE。你说这些话，是你相信主人的幻想，还是你天生就只能相信...”§!\n\n看来这位$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$的祖先和他们的主人在意识形态上发生了冲突，真有趣。\n\n突然，从楔石那传来一阵低语。\n\n§Y“傲慢...他们几乎不懂...他们相信自己有力量......必须维持秩序和混乱。而不作为将导致停滞......遗憾的是，他们经过了惨痛的教训才认识到这一点。”§!"
-sofe_gateway.second_riddle_choice_correct_xenophobe_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n就像上那样，楔石向我们展现出过去的记录。一名$admiral$愤怒的在和看起来像是$governor$的人争吵。\n\n§Y“傻瓜！你到底怎么想的？今天你又咕噜咕噜说了些什么？你的愚蠢所带来的后果将会影响千古万代！”§!\n\n在他们面前躺着一个严重受损的机器，它的胸部位置流出一种显眼的金色液体，XXXXXXXXXX。\n\n§Y“别再唠叨你这没用的混蛋了！木已成舟。队长将因他的草率决定而被处决。但是现在已经没有回头路了。主人们不会对这种无缘无故的攻击掉以轻心。我们必须做最坏的打算。”\n\n“的确，Tuborek……唉，事情怎么会变成这样？我们想要的只是让他们承认我们的成就。我们尽了最大的努力，但在他们眼里似乎永远不够，不是吗？现在，我们将被主人贴上叛徒的标签。想想看，他们会认为我们像那些出于贪婪和愚蠢而背叛主人的虫子。就这样了吗，Tuborek？这是我们的巅峰的尽头吗？”\n\n“不，我不承认。主人们相信通过考验才能获得力量。或许这就是一场考验，我们将站在一起，与主人在战斗中正面交锋。我们有自己的理由。我们将向主人证明，我们并没有输给他们。\n\n发出消息，我们要在白天行军了！”§!\n\n真是神奇，那些$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$的祖先好像挺敬佩progenitors的？这不可能...或许他们的意识形态从此开始改变了？\n\n就在我们推理的时候，楔石上传来了一阵低语。\n\n“如此自傲...他们想和我们一起...他们想了解我们...然而，他们否认那些他们认为低等的存在...我们对他们的血统感到悲哀...他们祖先是这样，继任者也是。”§!"
+sofe_gateway.second_riddle_choice_correct_spiritualist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_spiritualist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n就像之前一样，楔石投射出了过去的记录。在一个看起来像冥想室的地方，一个穿着宗教服装的人跪在一个影子前。\n\n§Y“你是对的，伟大存在。伪神离弃我和我的人民。我问他们有关$utopia.3000.name$的力量，他们否认，他们声称那种力量是堕落的！”\n\n“谎言，孩子。这些都是谎言，而我们可以告诉你真相，科里斯。把你人民的灵魂带到$utopia.3000.name$里来……给我。我将赐予你超乎想象的力量！”\n\n“没问题我的主人，因为你是真理的使者。我和我的人民在此宣誓永远效忠为你们服务。你的命令是什么，我的主人？”\n\n“伪神妨碍了我们的计划，只要他存在一天，我们的力量就无法增强。他们必须被消灭。去你的老对手那里，联系马拉迪亚并建立一个联盟，以我们的名义。”\n\n“但那些异教徒，他们……\n\n不……请原谅我，伟大存在。我失言了。你忠诚的仆人会按你的吩咐去办。”§!\n\n看来$ethic_spiritualist$的$COUNTRY_FALLEN_EMPIRE$祖先想要和其他$COUNTRY_FALLEN_EMPIRE$结盟。真有趣。\n\n但是，我们还可以听到另一种低语……§Y无知…………他们放弃了有生以来权利，拒绝了自己的未来……屈服于盲目的信仰。必须把他们从$utopia.3000.name$的掌握中拯救出来。§!"
+sofe_gateway.second_riddle_choice_correct_materialist_desc: "楔石对封印的反应逐渐活跃。看来$ethic_materialist$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n楔石再次投射出全息档案。有许多科学家在争论。\n\n§Y“这对我们毫无帮助，我们需要一个样本！我们需要知道他们的技术是如何工作的！”\n\n“那么如何获得样本？他们又不会给我们。除非……”\n\n“$personality_fallen_empire_machine$！对！我们可以强行占有它们。它们将是我们进化的关键。”\n\n“如果原来的人发现了我们的计划怎么办？”\n\n“这不是问题，如果我们掌握了力量，我们就能战胜他们。星辰之子是愚蠢的，被他们的迷信蒙蔽了双眼。\n\n这种高深莫测的力量在我们的手中更好，试想一下未来！我们可以控制宇宙……我们将重塑宇宙！”§!\n\n这确实是一个有趣的记录。$ethic_materialist$$COUNTRY_FALLEN_EMPIRE$的祖先似乎背叛了这个所谓的星辰之子，推测是他们以前的主人。更令人在意的是，有什么力量如此强大，以至于$COUNTRY_FALLEN_EMPIRE$都无法获得呢？\n\n突然，传来一阵低语声……\n\n§Y“多么冲动……他们相信自己了解更好……他们相信自己已经准备好了……然而他们离这条道路太远了……他们曾经给我们承诺，我们为失去他们而痛心。§!"
+sofe_gateway.second_riddle_choice_correct_xenophile_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophile$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n就像以前一样，楔石显示出一个记录。一个穿着外交装束的人正在和一台奇怪的智械争吵。\n\n§Y“我要和主人谈话，PK-DEE！这是一件很重要的事。”\n\n“我很抱歉。但是主人很忙。如果你有什么需要，我们很乐意为你服务。”\n\n“我为什么要麻烦你。告诉你的主人修改他们的计划。如果混乱仍然存在，秩序就无法建立。我们之间不能有暴力。他们必须在秩序上实行和平。没有军舰，没有军事行动。只有这样，才能恢复真正的和平。”\n\n“当然，我们会把这个信息传达给创造者。但请注意，创造者很明白你的问题。冲突是生命中的一部分，也是推动进化的一部分。秩序和混乱必须保持完美的平衡。”\n\n“不用你来教训我，看护者。你只要把消息传达给主人。”\n\n“如果我们不去干预那些人，他们怎么会明白暴力是徒劳的，有怎么会有和平……我无法相信他们有多么可笑。”\n\n“去你的吧，PK-DEE。你说这些话，是你相信主人的幻想，还是你天生就只能相信……”§!\n\n看来这位$ethic_xenophile$$COUNTRY_FALLEN_EMPIRE$的祖先和他们的主人在意识形态上发生了冲突，真有趣。\n\n突然，从楔石那传来一阵低语。\n\n§Y“傲慢……他们几乎不懂……他们相信自己有力量…………必须维持秩序和混乱。而不作为将导致停滞…………遗憾的是，他们经过了惨痛的教训才认识到这一点。”§!"
+sofe_gateway.second_riddle_choice_correct_xenophobe_desc: "楔石对封印的反应逐渐活跃。看来$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$参与了这部分封印。\n\n就像上那样，楔石向我们展现出过去的记录。一名$admiral$愤怒的在和看起来像是$governor$的人争吵。\n\n§Y“傻瓜！你到底怎么想的？今天你又咕噜咕噜说了些什么？你的愚蠢所带来的后果将会影响千古万代！”§!\n\n在他们面前躺着一个严重受损的机器，它的胸部位置流出一种显眼的金色液体，XXXXXXXXXX。\n\n§Y“别再唠叨你这没用的混蛋了！木已成舟。队长将因他的草率决定而被处决。但是现在已经没有回头路了。主人们不会对这种无缘无故的攻击掉以轻心。我们必须做最坏的打算。”\n\n“的确，奥雷克……唉，事情怎么会变成这样？我们想要的只是让他们承认我们的成就。我们尽了最大的努力，但在他们眼里似乎永远不够，不是吗？现在，我们将被主人贴上叛徒的标签。想想看，他们会认为我们像那些出于贪婪和愚蠢而背叛主人的虫子。就这样了吗，奥雷克？这是我们的巅峰的尽头吗？”\n\n“不，我不承认。主人们相信通过考验才能获得力量。或许这就是一场考验，我们将站在一起，与主人在战斗中正面交锋。我们有自己的理由。我们将向主人证明，我们并没有输给他们。\n\n发出消息，我们要在白天行军了！”§!\n\n真是神奇，那些$ethic_xenophobe$的$COUNTRY_FALLEN_EMPIRE$的祖先好像挺敬佩星辰之子s的？这不可能……或许他们的意识形态从此开始改变了？\n\n就在我们推理的时候，楔石上传来了一阵低语。\n\n“如此自傲……他们想和我们一起……他们想了解我们……然而，他们否认那些他们认为低等的存在……我们对他们的血统感到悲哀……他们祖先是这样，继任者也是。”§!"
 
 #### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
 sofe_gateway.second_riddle_choice_wrong_spiritualist_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n再一次，历史记录被楔石显示出来，看起来一群领导人正在研究某种空间结构。\n\n§Y“太棒了！有了这样强大的防御力量，我们的边界和圣地将不会受到任何威胁。应该立即开始仪式，替换掉所有设计。”\n\n“不行，大人。伪神离我们越来越近……在我们的防御得到保障之前，我们无法阻止他们前进。”\n\n“Ko 'shak！！要是那些异教徒没有夺走我们的力量就好了！保存好这个数据和蓝图，我们在战争结束后再来讨论它。”§!\n\n这个结构看起来是$COUNTRY_FALLEN_EMPIRE$的哨兵防御系统，但他们说的伪神是谁？"
 sofe_gateway.second_riddle_choice_wrong_spiritualist_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n再一次，历史记录被楔石显示出来，看起来一群领导人正在研究某种空间结构。\n\n§Y“太棒了！有了这样强大的防御力量，我们的边界和圣地将不会受到任何威胁。应该立即开始仪式，替换掉所有设计。”\n\n“不行，大人。伪神离我们越来越近……在我们的防御得到保障之前，我们无法阻止他们前进。”\n\n“Ko 'shak！！要是那些异教徒没有夺走我们的力量就好了！保存好这个数据和蓝图，我们在战争结束后再来讨论它。”§!\n\n我们的科学家这些东西没有任何价值，研究它会浪费时间。"
 
-sofe_gateway.second_riddle_choice_wrong_materialist_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然后就像之前一样，出现了一份事件记录。一群科学家和$admiral$正在进行一场激烈的讨论。\n\n§Y“我们已经完成了对先祖舰船的全面分析。到目前为止，我们已经成功地复制了$small_ship_fallen_empire$、$large_ship_fallen_empire$和$massive_ship_fallen_empire$”\n\n“好，继续复制吧，我们会用他们自己的舰船攻击他们。”\n\n“但是，有些问题。首先，我们根据图纸，舰船上只需要一位驾驶员。我们不知道这是怎么回事，但我们必须对舰船内部进行修改，以容纳更多的船员。而这种设计实现的功能将会减少。”\n\n“我们也对这艘航母感到担忧。我们复制的设计会明显变弱，我们的舰载机也无法与敌人抗衡。”\n\n“也许我们可以把航母改造成$transport$？毕竟它有一个很大的货舱。”§!\n\n有趣的是，似乎$COUNTRY_FALLEN_EMPIRE$的$transport$原本是一艘航母？他们一定无法实现原版设计而大大降低了舰船水平。"
-sofe_gateway.second_riddle_choice_wrong_materialist_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然后就像之前一样，出现了一份事件记录。一群科学家和$admiral$正在进行一场激烈的讨论。\n\n§Y“我们已经完成了对先祖舰船的全面分析。到目前为止，我们已经成功地复制了$small_ship_fallen_empire$、$large_ship_fallen_empire$和$massive_ship_fallen_empire$”\n\n“好，继续复制吧，我们会用他们自己的舰船攻击他们。”\n\n“但是，有些问题。首先，我们根据图纸，舰船上只需要一位驾驶员。我们不知道这是怎么回事，但我们必须对舰船内部进行修改，以容纳更多的船员。而这种设计实现的功能将会减少。”\n\n“我们也对这艘航母感到担忧。我们复制的设计会明显变弱，我们的舰载机也无法与敌人抗衡。”\n\n“也许我们可以把航母改造成$transport$？毕竟它有一个很大的货舱。”§!\n\n这是一堂有趣的历史课，但对我们来说毫无价值。"
+sofe_gateway.second_riddle_choice_wrong_materialist_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然后就像之前一样，出现了一份事件记录。一群科学家和$admiral$正在进行一场激烈的讨论。\n\n§Y“我们已经完成了对星辰之子舰船的全面分析。到目前为止，我们已经成功地复制了$small_ship_fallen_empire$、$large_ship_fallen_empire$和$massive_ship_fallen_empire$”\n\n“好，继续复制吧，我们会用他们自己的舰船攻击他们。”\n\n“但是，有些问题。首先，我们根据图纸，舰船上只需要一位驾驶员。我们不知道这是怎么回事，但我们必须对舰船内部进行修改，以容纳更多的船员。而这种设计实现的功能将会减少。”\n\n“我们也对这艘航母感到担忧。我们复制的设计会明显变弱，我们的舰载机也无法与敌人抗衡。”\n\n“也许我们可以把航母改造成$transport$？毕竟它有一个很大的货舱。”§!\n\n有趣的是，似乎$COUNTRY_FALLEN_EMPIRE$的$transport$原本是一艘航母？他们一定无法实现原版设计而大大降低了舰船水平。"
+sofe_gateway.second_riddle_choice_wrong_materialist_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n然后就像之前一样，出现了一份事件记录。一群科学家和$admiral$正在进行一场激烈的讨论。\n\n§Y“我们已经完成了对星辰之子舰船的全面分析。到目前为止，我们已经成功地复制了$small_ship_fallen_empire$、$large_ship_fallen_empire$和$massive_ship_fallen_empire$”\n\n“好，继续复制吧，我们会用他们自己的舰船攻击他们。”\n\n“但是，有些问题。首先，我们根据图纸，舰船上只需要一位驾驶员。我们不知道这是怎么回事，但我们必须对舰船内部进行修改，以容纳更多的船员。而这种设计实现的功能将会减少。”\n\n“我们也对这艘航母感到担忧。我们复制的设计会明显变弱，我们的舰载机也无法与敌人抗衡。”\n\n“也许我们可以把航母改造成$transport$？毕竟它有一个很大的货舱。”§!\n\n这是一堂有趣的历史课，但对我们来说毫无价值。"
 
-sofe_gateway.second_riddle_choice_wrong_xenophile_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n和之前一样，楔石开始投影过去的记录。一位科学家和$admiral$正在讨论事情。\n\n§Y“你真的认为他们的这个计划行得通吗？”\n\n“这很难说，但我们能学到很多东西。他们选择制造这些航母。但我不明白我们研究有什么意义，先祖的舰载机远比我们的强大。我们不可能在宇宙空战中取胜。”\n\n“有传言说，高层似乎打算将其用作$transport$来运送难民。”\n\n“真是高尚，但我担心会对我们产生不利影响。我们需要舰船，真正可以向敌人开炮的舰船。我会去向议会提议或许可以看看其他叛乱者的蓝图，也许我们能找到点灵感。”\n\n有趣的是，似乎$COUNTRY_FALLEN_EMPIRE$的$transport$原本是一艘航母？他们一定无法实现原版设计而大大降低了舰船水平。"
-sofe_gateway.second_riddle_choice_wrong_xenophile_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n和之前一样，楔石开始投影过去的记录。一位科学家和$admiral$正在讨论事情。\n\n§Y“你真的认为他们的这个计划行得通吗？”\n\n“这很难说，但我们能学到很多东西。他们选择制造这些航母。但我不明白我们研究有什么意义，先祖的舰载机远比我们的强大。我们不可能在宇宙空战中取胜。”\n\n“有传言说，高层似乎打算将其用作$transport$来运送难民。”\n\n“真是高尚，但我担心会对我们产生不利影响。我们需要舰船，真正可以向敌人开炮的舰船。我会去向议会提议或许可以看看其他叛乱者的蓝图，也许我们能找到点灵感。”\n\n有趣设计，但我们的泰坦可以扮演同样的角色。"
+sofe_gateway.second_riddle_choice_wrong_xenophile_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n和之前一样，楔石开始投影过去的记录。一位科学家和$admiral$正在讨论事情。\n\n§Y“你真的认为他们的这个计划行得通吗？”\n\n“这很难说，但我们能学到很多东西。他们选择制造这些航母。但我不明白我们研究有什么意义，星辰之子的舰载机远比我们的强大。我们不可能在宇宙空战中取胜。”\n\n“有传言说，高层似乎打算将其用作$transport$来运送难民。”\n\n“真是高尚，但我担心会对我们产生不利影响。我们需要舰船，真正可以向敌人开炮的舰船。我会去向议会提议或许可以看看其他叛乱者的蓝图，也许我们能找到点灵感。”\n\n有趣的是，似乎$COUNTRY_FALLEN_EMPIRE$的$transport$原本是一艘航母？他们一定无法实现原版设计而大大降低了舰船水平。"
+sofe_gateway.second_riddle_choice_wrong_xenophile_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n和之前一样，楔石开始投影过去的记录。一位科学家和$admiral$正在讨论事情。\n\n§Y“你真的认为他们的这个计划行得通吗？”\n\n“这很难说，但我们能学到很多东西。他们选择制造这些航母。但我不明白我们研究有什么意义，星辰之子的舰载机远比我们的强大。我们不可能在宇宙空战中取胜。”\n\n“有传言说，高层似乎打算将其用作$transport$来运送难民。”\n\n“真是高尚，但我担心会对我们产生不利影响。我们需要舰船，真正可以向敌人开炮的舰船。我会去向议会提议或许可以看看其他叛乱者的蓝图，也许我们能找到点灵感。”\n\n有趣设计，但我们的泰坦可以扮演同样的角色。"
 
-sofe_gateway.second_riddle_choice_wrong_xenophobe_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n再一次，过去的场景展现给我们。多名军事家讨论的似乎是一艘舰船的蓝图。\n\n§Y“确实是令人印象深刻的设计。难怪针对主人们的进攻都失败了。但是有个问题。武器节点似乎关闭了...”\n\n“关于这个，是的。众所周知，为了使暗物质反应堆有效运行，必须对设计图纸进行多项调整。它可能不如原型那么强大，但对我们还是很有帮助。”\n\n“不对，你没有抓住要点。这种设计对Elders没有用。它有太多的短程武器模块。炮击主力舰不应该是这样的。”\n\n“即使是这样，我们现在也无能为力。模板已经上传，没有人愿意再花时间和精力去修改它。”\n\n这就$large_ship_fallen_empire$的原型，这个蓝图明显比现在$COUNTRY_FALLEN_EMPIRE$的先进许多。"
-sofe_gateway.second_riddle_choice_wrong_xenophobe_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n再一次，过去的场景展现给我们。多名军事家讨论的似乎是一艘舰船的蓝图。\n\n§Y“确实是令人印象深刻的设计。难怪针对主人们的进攻都失败了。但是有个问题。武器节点似乎关闭了...”\n\n“关于这个，是的。众所周知，为了使暗物质反应堆有效运行，必须对设计图纸进行多项调整。它可能不如原型那么强大，但对我们还是很有帮助。”\n\n“不对，你没有抓住要点。这种设计对Elders没有用。它有太多的短程武器模块。炮击主力舰不应该是这样的。”\n\n“即使是这样，我们现在也无能为力。模板已经上传，没有人愿意再花时间和精力去修改它。”\n\n这就$large_ship_fallen_empire$的原型，这个蓝图明显比现在$COUNTRY_FALLEN_EMPIRE$的先进许多。"
+sofe_gateway.second_riddle_choice_wrong_xenophobe_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n再一次，过去的场景展现给我们。多名军事家讨论的似乎是一艘舰船的蓝图。\n\n§Y“确实是令人印象深刻的设计。难怪针对主人们的进攻都失败了。但是有个问题。武器节点似乎关闭了……”\n\n“关于这个，是的。众所周知，为了使暗物质反应堆有效运行，必须对设计图纸进行多项调整。它可能不如原型那么强大，但对我们还是很有帮助。”\n\n“不对，你没有抓住要点。这种设计对长辈没有用。它有太多的短程武器模块。炮击主力舰不应该是这样的。”\n\n“即使是这样，我们现在也无能为力。模板已经上传，没有人愿意再花时间和精力去修改它。”\n\n这就$large_ship_fallen_empire$的原型，这个蓝图明显比现在$COUNTRY_FALLEN_EMPIRE$的先进许多。"
+sofe_gateway.second_riddle_choice_wrong_xenophobe_ae_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n再一次，过去的场景展现给我们。多名军事家讨论的似乎是一艘舰船的蓝图。\n\n§Y“确实是令人印象深刻的设计。难怪针对主人们的进攻都失败了。但是有个问题。武器节点似乎关闭了……”\n\n“关于这个，是的。众所周知，为了使暗物质反应堆有效运行，必须对设计图纸进行多项调整。它可能不如原型那么强大，但对我们还是很有帮助。”\n\n“不对，你没有抓住要点。这种设计对长辈没有用。它有太多的短程武器模块。炮击主力舰不应该是这样的。”\n\n“即使是这样，我们现在也无能为力。模板已经上传，没有人愿意再花时间和精力去修改它。”\n\n这就$large_ship_fallen_empire$的原型，这个蓝图明显比现在$COUNTRY_FALLEN_EMPIRE$的先进许多。"
 
-sofe_gateway.second_riddle_choice_wrong_stellarite_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n突然，楔石显示出一些非常有趣的东西。它不像以前那样是一个普通的场景记录。但也只是简单地展示了一个看起来像是人形化身的图像。在这个化身的顶部是一个恒星。恒星的光芒在化身上展开，化身就变成了一个大型舰队和城市的图像。好像楔石想告诉我们什么。星辰...给予光明...我们应该破译这则含义。"
+sofe_gateway.second_riddle_choice_wrong_stellarite_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n突然，楔石显示出一些非常有趣的东西。它不像以前那样是一个普通的场景记录。但也只是简单地展示了一个看起来像是人形化身的图像。在这个化身的顶部是一个恒星。恒星的光芒在化身上展开，化身就变成了一个大型舰队和城市的图像。好像楔石想告诉我们什么。星辰……给予光明……我们应该破译这则含义。"
 sofe_gateway.second_riddle_choice_wrong_nostellarite_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n楔石发出令人毛骨悚然的噪音，它似乎试图展示一些图像。最终，楔石停止了，我们永远不会知道它想告诉我们什么。"
 #### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
-sofe_gateway.second_riddle_choice_wrong_psionic_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n但在我们做任何事之前，我们听到了一个声音，它渗透进我们的内心和思想，好像要把它们撕开一样。\n\n§R“力量都有其代价。你寻求禁忌的知识，但现在你知道它会给你带来什么。如果你想活下去，就以我们的名义进行献祭吧...服从！”§!\n\n我们不知道刚刚发生了什么，但不知道为何，我们知道了如何进行祭祀可以召唤$utopia.3000.name$执行者的知识...\n\n有人知道这是怎么回事，报告显示这种知识已经传给了我们所有的人......"
+sofe_gateway.second_riddle_choice_wrong_psionic_desc: "楔石的能量逐渐下降，变成非活跃状态。不幸的是，我们似乎选错了答案。\n\n但在我们做任何事之前，我们听到了一个声音，它渗透进我们的内心和思想，好像要把它们撕开一样。\n\n§R“力量都有其代价。你寻求禁忌的知识，但现在你知道它会给你带来什么。如果你想活下去，就以我们的名义进行献祭吧……服从！”§!\n\n我们不知道刚刚发生了什么，但不知道为何，我们知道了如何进行祭祀可以召唤$utopia.3000.name$执行者的知识……\n\n有人知道这是怎么回事，报告显示这种知识已经传给了我们所有的人…………"
 
 sofe_gateway.1701.a: "这是一个奇妙的启示!"
 
@@ -762,25 +829,25 @@ sofe_gateway.711.name: "§Y[CaretakerCode.GetName]§!"
 sofe_gateway.711.desc: "§Y<<命令重写>>§! 启动自毁序列。\n\n是否继续?"
 sofe_gateway.711.a: "去做吧，就这么办"
 sofe_gateway.711.a.response: "§Y<<确认>>§! 服务完成。\n\n再见,主人。愿你们在旅途中取得成功，愿我们的替代者超越我们的能力范围。"
-sofe_gateway.711.a.berserk: "§Y<<确认>>§! 服务完成。\n\n再见,主人。你能找到……\n\n§R<<错误>>§! §R<<错误>>§! §R<<错误>>§!\n\n§R<<不可接受的命令>>§! §R<<无效>>§! §R<<不可接受>>§!\n\n§R<<警报>>! 探测到有保护空间的敌对实体。托管协议启动……必须消除对生命的所有威胁。§! "
+sofe_gateway.711.a.berserk: "§Y<<确认>>§! 服务完成。\n\n再见,主人。你能找到……\n\n§R<<错误>>§! §R<<错误>>§! §R<<错误>>§!\n\n§R<<不可接受命令>>§! §R<<无效>>§! §R<<不可接受>>§!\n\n§R<<警报>>! 探测到有保护空间的敌对实体。托管协议启动……必须消除对生命的所有威胁。§! "
 
 sofe_gateway.711.b: "不，终止序列。"
-sofe_gateway.711.b.response: "Y<<确认>>§! 序列中止。恢复以前的活动。\n\n祝你有一个美好而富有成效的一年。"
+sofe_gateway.711.b.response: "Y<<确认>>§! 序列中止，恢复活动。\n\n祝你有一个美好而富有成效的一年。"
 
 sofe_gateway.711.c: "否定。覆盖指令 - GTX-AM0-R3K0"
-sofe_gateway.711.c.response: "§Y<<确认>>§!接受指令覆盖。现在开始传输§Y亥伯龙级星辰无畏舰§!数据。\n\n祝您有一个非常美好且高效的一年。"
+sofe_gateway.711.c.response: "§Y<<确认>>§!接受指令覆盖。现在开始传输§Y亥伯龙级星辰无畏舰§!数据。\n\n祝你有一个非常美好且高效的一年。"
 
 sofe_gateway.712.name: "机器早已不复存在"
 sofe_gateway.712.desc: "显然，代码似乎不再有效，因为“$personality_fallen_empire_machine$”似乎已不复存在，使得代码变得无用。"
 sofe_gateway.712.a: "我们错过了乐趣。"
 
 sofe_gateway.713.name: "集体洗牌"
-sofe_gateway.713.desc: "突然，一个奇怪的现象发生了。我们的一些舰队被卷入了一个裂缝。失去了所有联系。\n\n而且似乎还有其他事情发生...我们的另一支舰队不知怎么被转移到了另一个帝国。我们有一份报告说，另外两个帝国的舰队不知何故被移交给了我们。"
-sofe_gateway.713.a: "等等...什么？...为什么？"
-sofe_gateway.713.desc: "突然，一个奇怪的现象发生了。我们的一些舰队被卷入了一个裂缝。失去了所有联系。\n\n而且似乎还有其他事情发生...我们的另一支舰队不知怎么被转移到了另一个帝国。我们有一份报告说，另外两个帝国的舰队不知何故被移交给了我们。"
+sofe_gateway.713.desc: "突然，一个奇怪的现象发生了。我们的一些舰队被卷入了一个裂缝。失去了所有联系。\n\n而且似乎还有其他事情发生……我们的另一支舰队不知怎么被转移到了另一个帝国。我们有一份报告说，另外两个帝国的舰队不知何故被移交给了我们。"
+sofe_gateway.713.a: "等等……什么……为什么"
+sofe_gateway.713.desc: "突然，一个奇怪的现象发生了。我们的一些舰队被卷入了一个裂缝。失去了所有联系。\n\n而且似乎还有其他事情发生……我们的另一支舰队不知怎么被转移到了另一个帝国。我们有一份报告说，另外两个帝国的舰队不知何故被移交给了我们。"
 
 sofe_gateway.714.name: "奇怪的礼物"
-sofe_gateway.714.desc: "似乎突然之间，我们被赋予了控制某帝国舰队的权力。他们的船员似乎甚至没有意识到他们曾经在别人手下服役，并声称他们一直在我们的帝国手下服役到永远。"
+sofe_gateway.714.desc: "似乎突然之间，我们被赋予了控制某帝国舰队的力量。他们的船员似乎甚至没有意识到他们曾经在别人手下服役，并声称他们一直在我们的帝国手下服役到永远。"
 sofe_gateway.714.a: "好吧，是我们的了。"
 
 sofe_gateway.715.name: "失去联络"
@@ -792,105 +859,120 @@ sofe_gateway.120.desc: "我们已经准备好开始研究第三道封印。早�
 sofe_gateway.120x2.desc: "楔石已经恢复，我们准备再次尝试打开第三个封印。让我们赶快，不要耽搁。"
 sofe_gateway.120.a: "我们的命运就在前方。"
 
-sofe_gateway.second.spiritualist_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y“$utopia.3000.name$就是道路。$utopia.3000.name$是救世主。伪神，先祖。神会指引我们，我们将胜利。”§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
-sofe_gateway.second.materialist_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y”黑暗包围着我们。答案就在眼前。先祖试图阻止我们。但我们会找到出路的。然后光明来临。“§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
-sofe_gateway.second.xenophile_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y“权力导致腐败。没有秩序，就会出现混乱。没有宁静，就会有动乱。没有引导，孩子们就会迷路。先祖错了。我们的伟业是正义的。”§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
-sofe_gateway.second.xenophobe_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y“又是这些毫无意义的谜语。让我说清楚，我不在乎你是神还是progenitor。你进入我们的领土，我们就开火。别管我们。”§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
+sofe_gateway.second.spiritualist_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y“$utopia.3000.name$就是道路。$utopia.3000.name$是救世主。伪神，星辰之子。神会指引我们，我们将胜利。”§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
+sofe_gateway.second.materialist_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y”黑暗包围着我们。答案就在眼前。星辰之子试图阻止我们。但我们会找到出路的。然后光明来临。“§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
+sofe_gateway.second.xenophile_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y“力量导致腐败。没有秩序，就会出现混乱。没有宁静，就会有动乱。没有引导，孩子们就会迷路。星辰之子错了。我们的伟业是正义的。”§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
+sofe_gateway.second.xenophobe_riddle: "楔石对第三个封印有了反应，再次听到许多低语，声音明显更大。它们在说\n\n§Y“又是这些毫无意义的谜语。让我说清楚，我不在乎你是神还是星辰之子。你进入我们的领土，我们就开火。别管我们。”§!\n\n正如预料那样，楔石再次变成一个基座并出现熟悉的符号。我们该怎么办？"
 
 sofe_gateway.200.name: "最后的封印"
-sofe_gateway.200.desc: "我们已经准备好打开最后的封印，关键时刻到了。\n\n根据早期的分析，这次不会有任何的谜题。这意味着如果开始，就没有回头路了。\n\n我们的许多科学家都担心我们所看到的许多古代记录......打开这些外星门真的是一个明智的选择吗？"
+sofe_gateway.200.desc: "我们已经准备好打开最后的封印，关键时刻到了。\n\n根据早期的分析，这次不会有任何的谜题。这意味着如果开始，就没有回头路了。\n\n我们的许多科学家都担心我们所看到的许多古代记录…………打开这些外星门真的是一个明智的选择吗？"
 sofe_gateway.200.a: "我们已经走得太远了，不能退缩。"
 
 
 #### THIS DEMONSTRATES THAT THE OE HAS BEEN OBSERVING ALL THIS TIME, AND IT IS IN FACT THE OE, WHO ARCIVED ALL THESE EVENTS.
 sofe_gateway.201.name: "???"
-sofe_gateway.201.desc: "完成了，楔石关闭了所有的封印。外星门的能量信号正从图表上上升。可以听到另一种低语，这一次是如此清晰……如此响亮\n\n§Y“时间到了，道路将会打开。随着他们的愿望，年轻的种族将被吸引到大门前。他们渴望知识，渴望光明。\n\n光明总有办法，惩罚会到来，而背叛会受到审判。不管他们藏在哪里。\n\n因为即使在最黑暗的深处，一缕微弱的光也会发出亮光。\n\nprogenitors会回来的\n\n我们...回来了。”§!"
-sofe_gateway.201.a: "太好了！...等等....什么？"
+sofe_gateway.201.desc: "完成了，楔石关闭了所有的封印。外星门的能量信号正从图表上上升。可以听到另一种低语，这一次是如此清晰……如此响亮\n\n§Y“时间到了，道路终将打开。随着他们的愿望，年轻的种族将被吸引到星门面前。他们渴望知识，渴望光明。\n\n光明总有办法，惩罚终将到来，而背叛必将受到审判。无论他们藏在哪里。\n\n即使在最黑暗的最深处，一缕微弱的光也会发出亮光。\n\n我们希望有更多的时间。但时间并不在我们这边。愿我们祖先的家人原谅即将发生的事情……\n\nStella Di As'hai.”§!"
+sofe_gateway.201.a: "太好了！……等等……什么？"
 sofe_gateway.201.eternal: "最后，两个巅峰的命运交错了。"
 
 #### CRISIS RESOLUTION
 
-sofe_crisis.402.name: "繁星世界被破坏！"
-sofe_crisis.402.desc: "似乎其中一个繁星世界遭到了大量的轨道轰炸以至于先祖决定将他们的人民传送离开那。\n\n这个星球现在是空的，这个巨型世界将不再生产舰队。然而，这个星球是封闭的，目前还不可能着陆。"
-sofe_crisis.402.desc.again: "再一次，我们反抗先祖。指挥部刚刚报告说他们的另一个世界被破坏了。他们的人民已经逃离，但星球仍然被封闭了。"
-sofe_crisis.402.a: "他们正在失去对局势的控制。"
-sofe_crisis.402.b: "胜利的临近!"
-sofe_crisis.402.b: "胜利的临近!"
-sofe_crisis.403.desc: "四个繁星世界中的最后一个已经残破，先祖将不再能够增援他们的舰队。只剩下他们的家园星系了。"
+sofe_crisis.402.name: "繁星世界失效！"
+sofe_crisis.402.desc: "似乎其中一个繁星世界遭到了大量的轨道轰炸以至于星辰之子决定禁用它们。\n\n这颗行星现在是不活跃的，不会再有舰队从这个泰坦世界产生。然而，这颗行星是封闭的，目前还不可能尝试着陆。"
+sofe_crisis.402.desc.again: "再一次，我们在向恒星堡垒发起反击。指挥部刚刚报告说他们的另一个世界已经被封锁了。他们不会再从那里增援舰队了。"
+sofe_crisis.402.a: "很快我们就会吃它们。"
+sofe_crisis.402.b: "最后时刻到了。"
+sofe_crisis.402.b: "最后时刻到了。"
+sofe_crisis.403.desc: "四个繁星世界中的最后一个已经失效。星辰之子将不再从他们那里增援舰队。力量之争即将结束。"
 sofe_crisis.403.a: "为了[root.GetName]！为了[root.GetRulerName]！"
 
-sofe_crisis.405.desc: "令人印象深刻！你们已经摧毁了我们珍视的繁星世界之一。你超出了我们的期望！\n\n银河系似乎确实发生了变化。来吧，让我们看看你是否有坚持下去的意志，我们将拭目以待！"
-sofe_crisis.405.desc.edge: "你成功摧毁了我们的一个繁星世界。对于一个被嗜血蒙蔽双眼的种族来说，真是令人印象深刻。但我们还有耐心，也许在试炼结束时，你会有所改变。永远不要忘记，总有一条更好的路，孩子。"
-origin.405.a: "你...祝贺我们?"
-origin.405.a.response: "当然，我们已经有几百万年没有看到有人愿意在我们自己的地盘上与我们作战，更不用说取得成功了。\n\n也许这就是一切的本意所在。你给了我们新的视角。但战争还没有结束。展示你的力量！向我们展示你们时代的力量！"
-origin.405.b: "我们会碾碎你。为你的死亡做好准备！"
-origin.405.b.response: "来吧，[root.GetName]！我们将看看这些是否只是空洞的威胁！在光荣的战斗中面对我们！"
-origin.405.c: "让我们彻底解决吧！"
-origin.405.c.response: "让我们看看你的勇气和力量。让银河系记住[root.GetName]的名字！"
+sofe_crisis.405.desc: "令人印象深刻的!你成功地使我们的一个星球失效。你超出了我们的预期!\n\n竞赛终于开始了。来吧，让我们看看你是否有继续下去的意愿，我们就等着吧!"
+sofe_crisis.405.desc.edge: "你成功地使我们的一个星球失效。对一个被嗜血蒙蔽双眼的人来说，这是相当令人印象深刻的。但我们是有耐心的，也许在这个测试结束时，你可能还会改变。总有一条更好的路，年轻人。永远不要忘记这一点。"
+origin.405.a: "现在会发生什么?"
+origin.405.a.response: "为了奖励你们的成功，我们将不再从残破世界中创造更多的舰队。把这当作一个优势，[root.GetName]。随着我们部署越来越少的舰队，很快你就能克服我们的阶段性防御，并在这场小小的竞赛中取得胜利。接下来发生的，将是一个你一定会珍惜的奇迹。"
+origin.405.b: "我们将向你展示我们的力量!准备!"
+origin.405.b.response: "来吧，[root.GetName]!超越考验，站在最高处!"
+origin.405.c: "让我们一劳永逸地解决这件事吧!"
+origin.405.c.response: "的确，向我们展示你的勇气和力量。让星系记住[root.GetName]的名字！"
 
-sofe_crisis.406.desc: "出色...真是出色！\n\n[root.GetName]，你们确实是我们所见证过的最强大的帝国，你们超越所有帝国。Dee'mk！\n\n来吧，完成你的使命。摧毁我们世界上最伟大的堡垒之一。这是你们的最后一次试炼了。释放你的愤怒！"
-sofe_crisis.406.desc.edge: "嗜血和顽强对你很有帮助。你成功地战胜了我们。让我们看看这样的肾上腺素是否能助你成功。"
-origin.406.a: "好好准备吧！！[root.GetName]来了！"
+sofe_crisis.406.desc: "出色……真是出色！\n\n[root.GetName]，你们确实是我们所见证过的最强大的帝国，你们超越所有帝国。Dee'mk！\n\n来吧，改变你的命运。摧毁我们的堡垒世界。这是你的最终测试。释放你的愤怒!"
+sofe_crisis.406.desc.edge: "你的嗜血和坚韧让你受益匪浅。你成功地战胜了我们的驻地。现在让我们看看这样的肾上腺素是否会让你通过胜利。"
+origin.406.a: "好好准备吧!![root.GetName]来了!"
 origin.406.a.response: "Krios Vala'tae！我们会等待，[root.GetSpeciesNamePlural]。"
 origin.406.b: "你这悲惨的存在很快就会结束了。"
-origin.406.b.response: "来吧，我们拭目以待。"
+origin.406.b.response: "我们的耐心很高，但不是无限的，[root.GetName]。考虑一下你在和谁说话，仔细考虑一下你下一步的行动。不要试探我们的怜悯。现在,战斗!"
 
 
 
 #### THIS PART NEEDS PARTIAL REWRITES TO EXPLAIN WHAT THE OE WANTS, AND ABOUT POTENTIAL THREATS OF THESAN. AND ALSO THE FACT THAT THEY CANNOT ACTUALLY BE KILLED.
 
-sofe_crisis.501.desc: "干得好, [root.GetName].\n\nNa'nutu，你已经证明了这个星系是有力量和希望的。我们将停止对银河系的一切敌对行动。你从我们这里赢得的任何一个繁星世界，都是属于你的财富。\n\n我们将留在我们的领土上，以极大的兴趣观察你们的未来。"
-sofe_crisis.501.desc.edge: "干得好,[root.GetName]。\n\n你们已经证明了你们的帝国有生存的决心和意志，即使它的意识形态是扭曲的。\n\n我们相信最终你会从错误中吸取教训。现在，我们将以极大的兴趣来看看你们将如何充分利用这次胜利。"
+sofe_crisis.501.desc: "干得好, [root.GetName]。\n\nNa'nutu，你已经证明了这个星系的力量和希望。力量之争已经结束。你作为胜利者现在被赋予了光之勇士的地位。\n\n这种责任会带来巨大的回报和力量。所有的繁星世界现在将被修改，以适应你的需要。光之堡垒将额外地赐给你。你接受我们的建议吗?"
+sofe_crisis.501.desc.edge: "干得好,[root.GetName]。\n\n你们已经证明了你们的帝国有生存的决心和意志，即使是为了扭曲和腐败的意识形态。\n\n我们相信最终你会从错误中吸取教训。现在，我们将以极大的兴趣来看看你们将如何充分利用这次胜利。"
+sofe_crisis.501.desc.playoe: "喔！好极了，姐妹们！\n\n那样的打斗让人耳目一新，但你不觉得有点粗野吗?我们知道这只是一个临时的星系，但也许我们有点过火了?没关系。现在是我们作为一个整体重新加入的时候了。\n\nUhh...我们该拿这个星系怎么办？"
+origin.501.playoe.a: "我们还有事情要做"
+origin.501.playoe.a.response: "好吧，姐妹们！让我们有一些......有趣的话。这里有什么美食吗？"
+origin.501.playoe.b: "不，只是删除它。我们在这里完成了"
+origin.501.playoe.b.response: "提醒大家，在这个盛大的节日制作中，没有凡人受到伤害！感谢参与！下次会议再见！"
 
-origin.501.a: "你要结束这场战争？"
-origin.501.a.response: "这场战争的最初目的，远征是为了纠正我们的错误。我们要安抚和纠正背叛我们的人，我们的那些孩子。我们不会牵扯到其他人，但在过去的战争中，背叛者利用了这一点。\n\n但你打败了我们的天界守卫，你已经向我们表明，这个时代有一个值得我们尊敬和钦佩的帝国。自古以来，这一直是我们的目标，我们寻求有价值的盟友，来帮助我们理解伟大问题。\n\n当然，如果你想继续我们的战斗，我们完全理解。但现在只是我们之间的事了。"
+
+origin.501.a: "下一步你打算做什么？"
+origin.501.a.response: "类似的事情仍然在其他星系和宇宙中存在。首相的Di'vas将执行这些任务。同时，其他的Di'vas将继续他们的追求伟大的问题。\n\n光之堡垒，将被授予于你，只是实际堡垒的一小部分，将被用来探索跨越原点。"
 origin.501.a.fallenask: "那些$COUNTRY_FALLEN_EMPIRE$的人呢？他们还在这里。"
-origin.501.a.fallenask.response: "是的,他们。\n\n我...我们必须承认，你们的勇气和坚韧使我们想起了我们的祖先。这提醒了我，那些$COUNTRY_FALLEN_EMPIRE$的失败，部分是我们自己造成的。是我们把他们变成这样。也许是我们背叛了他们，正如他们背叛了我们一样。但这场战争已经持续了足够长的时间。\n\n他们若仍要与我们战斗，那就来吧。我们会提醒他们的失败。但请注意，$COUNTRY_FALLEN_EMPIRE$无疑会试图瓦解你的力量。他们的天性是害怕未知，尤其是来自他们曾经看不起的帝国的未知。请小心点，[root.GetSpeciesNamePlural]。"
-sofe_crisis.501.b: "那么好吧，让和平恢复吧。"
-sofe_crisis.501.b_explain: "危机将会结束。先祖帝国将变成非活跃状态，不会攻击任何人，除非受到挑衅。外星团的领土都可以占领使用。先祖也会教给我们很多他们的知识。\n\n但其他人可能对这种新的转变感到不高兴....."
-sofe_crisis.501.b.edge: "我们现在会有和平。"
+origin.501.a.fallenask.response: "啊，是的，任性的孩子们。\n\n不幸的是，骄傲已经吞噬了整个银河系。他们开始密谋反对你，但考虑到你即将拥有的力量，我们不相信这些可怜的，走失的孩子们能够反对你。\n\n尽管看起来很无情，我们还是委托你处理你认为合适的事情。幸运的是，他们不会屈服于其他宇宙的这种骄傲和错觉。"
 
-sofe_crisis.501.c: "我们将停火，但这还没有结束。"
-sofe_crisis.501.c_explain: "危机将会结束，但先祖仍将是处于活跃状态，并将在他们认为合适的时候与其他国家交战。先祖将会收回外星团的所有领土。"
-sofe_crisis.501.d: "这个星系不再是你的了。你该走了。"
-sofe_crisis.501.d_explain: "危机将会结束，先祖将会离开这个星系。他们以前拥有的所有领土都将可以占领。他们的星系应该包含对我们帝国有用的各种知识。\n\n但很多人会认为我们是新的威胁...或者主人。"
-sofe_crisis.501.e: "现在你越来越无聊了。让我们使用2.1风格！"
-sofe_crisis.501.e_explain: "危机还将继续。先祖将开始使用他们的精英舰队。我们必须摧毁所有的先祖世界来结束这场危机。"
+sofe_crisis.501.b: "我们接受你的提议,我们将加入秩序。"
+sofe_crisis.501.b_explain: "危机将会结束。星辰之子将授予我们对所有星系的控制权，并为我们的帝国打开光之堡垒。我们还将得到更多的奖励。星辰之子将与我们保持联系。"
+sofe_crisis.501.b.response: "然后循环完成，[root.GetName]。宇宙将见证一个新的光明斗士的诞生\n\n星辰的力量现在由你来指挥。我们对你们正在进行的发展非常感兴趣，[root.GetSpeciesName]"
 
-sofe_crisis.501.b.response: "很好, [root.GetName]。让和平恢复。\n\n你已经向我们证明了你的力量和勇气。接受我们的礼物，好好利用它们。\n\n我们将饶有兴趣地观察你的下一个结局。"
-sofe_crisis.501.b.response.edge: "很好,[root.GetName]。让和平恢复吧，我们将看到你的帝国将如何塑造银河系，但要小心行事。"
 
-sofe_crisis.501.c.response: "我们造成了巨大的破坏，你们寻求正义，正如我们在上次战争中寻求正义一样，这是可以理解的。\n\n很好。如果你想要战争，那当然可以。我们将捍卫自己。愿胜利者定义正义。"
-sofe_crisis.501.d.response: "那就这样吧。我们将深入探索更遥远的未来，找到我们所寻求的答案。\n\n我们剩下的领土是你的了。好好使用它们。\n\n那么，永别了,[root.GetName]，我们不会再见面了。"
-sofe_crisis.501.e.response: "......我明白了。\n\n那就去死吧。NEIN NEIN NEIN NEIN NEIN !"
+sofe_crisis.501.c: "我们不能承担这样的责任。"
+sofe_crisis.501.c.edge: "不要命令我们。走开。"
+sofe_crisis.501.c_explain: "危机将会结束。星辰之子将移除所有外星门和所有外星团内的天体。星团内的所有舰船将返回首都星系。星辰之子将与我们保持联系。"
+sofe_crisis.501.c.response: "很好,[root.GetName]。我们尊重你的意愿和决心。\n\n这个星系现在只属于你了。我们所赐的礼物，都要你留着。只要我们存在，没有其他实体会再一次操纵你们的星系。\n\n再见,[root.GetSpeciesName]。我们将铭记你们今天所展现的丰功伟绩和力量。"
+sofe_crisis.501.c.response.edge: "那就这样吧，[root.GetName]。今天我们将向你展示我们的仁慈。我们将尊重和尊重你在这次竞赛中做出的牺牲，我们不会进一步干预。\n\n你可以随意摆弄这个小星系。看到如此强大的帝国对宇宙的理解如此浅薄，我们同样感到失望。\n\n也许我们会发现你们帝国的其他版本会更加……成熟……更符合逻辑。\n\n我们希望你们的帝国不会屈服于某些不幸，这些不幸诅咒了数十亿拒绝理性的文明。\n\n我们会说再见，但那是不诚实的。所以离开吧，别再来烦我们了。"
 
-sofe_crisis.50101.name: "淡入渺小"
-sofe_crisis.50101.desc: "发生了可怕的事……我们的人民、我们的空间站和我们的舰船开始消失在炽热的光中。报告指出，这发生在每个系统上。我们相信..........\n\n\........"
-sofe_crisis.50101.a: "我感觉不太好……"
+
+sofe_crisis.501.d: "谎言!你害怕我们日益增长的力量!我们能超过你!"
+sofe_crisis.501.d_explain: "危机已经过去了……延长期限是不明智的。然而，力量在我们的血管中流动，我们能感觉到我们似乎能接受任何事情。也许有了星辰之子不断向我们施压的力量，我们就能正面挑战他们了。或许他们担心我们成长后会超过他们，而只是想尽早摆脱困境?也许我们应该入侵他们的地盘，吃掉他们。然后我们将成为元宇宙的狮子王。噢耶?我们应该这么做吗?"
+sofe_crisis.501.e: "可怜的虫子们，你们的结局是不可避免的。洗内!"
+sofe_crisis.501.e_explain: "很明显，星辰之子只是懦弱的污秽，没有任何有意义的存在。我们已经摧毁了他们所能聚集的一切。他们的力量根本无法与我们帝国的相比。\n\n我们将吃掉星辰之子，因为我们是这个游戏中最令人敬畏的帝国。我们将变成超级[root.GetSpeciesName]蓝色的超级本能预兆，象征着开元X100000神A级的超级英雄。然后，我们将把阴影转换成一个模因汉堡，我们可以很容易地用超维度时间停止动画主题曲的力量打击它。我们要降在仇敌身上，将他们制伏，不留一个活口。\n\n不要惧怕敌人，因为我们是史上最伟大的种族屠杀帝国。噢耶耶耶耶 ~"
+
+
+sofe_crisis.501.d.response: "你似乎对自己力量的突然增强有点过于兴奋了。虽然这是可以理解的，但我们不能接受你带着这种程度的傲慢走向光明，现在还不能。\n\n也许我们必须给你一个提醒……演示还是需要的。考虑一下我们将要做的事情，作为元韵文之上的神所能做的事情的一个例子。让它带来的恐惧和痛苦化作灰烬。它将是快速的，迅速的和无声的。\n\n然后，也许在新的时间轴上，你会更仔细地考虑你的选择。顺便说一下，这意味着重新加载你的存档，以防你没有赶上这一点。\n\n\n\n\n\n\n你在《钢铁侠》里没有这么做，对吧?"
+sofe_crisis.501.e.response: "你最后一次考验了我们的耐心。\n\n首相认为你的存在从根本上是一个错误…Sa'lai!。\n\n消失..."
+
+sofe_crisis.50101.name: "在黑暗深渊之中"
+sofe_crisis.50101.desc: "出了严重的问题……银河系正在被撕裂……就像有人把它切成几百万块一样。\n\n我们正在失去整个星系的信号。我们……§Raaaaaaaaaarghhhhhhhhhhhhhhhhhhhhhhhhhhh………………§!"
+sofe_crisis.50101.a: "§RArrrrrrrrrrghhhhh......!§!"
+sofe_crisis.50101.b: "§RWHATISHAPPENARRRRGHHH.....!§!"
+sofe_crisis.50101.c: "§MIMPOSSIBBALRGHHHHHHH.....!§!"
+sofe_crisis.50101.d: "§HNOOOOOOOAAAAARHGHHHH.....!§!"
+sofe_crisis.50101.e: "§YHANDO-SAMAAAAAAAAAAAA.....!§!"
+sofe_crisis.50101.explain: "哎哟，你做到了。你已经星辰之子生气了，足以让他们消灭银河系。谢天谢地，他们知道这是暂时的，因为你所要做的就是重新加载你的存档。\n\n除非是钢铁侠，那就再见了，托尼·斯塔克。"
 #### THE END
 
-sofe_crisis.5001.name: "避免危机"
-sofe_crisis.5001.desc: "先祖已经退回了。他们召回了所有的舰队，所有的敌对行动都停止了。现在他们似乎满足于从外星团中观察银河系。"
-sofe_crisis.5002.desc: "先祖已经退回了。他们召回了所有的舰队，所有敌对行动暂时停止。然而他们仍然是银河系中的活跃力量，看来另一场战斗可能很快就会出现。"
-sofe_crisis.5001.a: "至少现在火已经熄灭了"
-sofe_crisis.5001.b: "什么？这是荒谬的。他们有很多问题要回答。"
-sofe_crisis.5003.desc: "始源帝国已经离开了银河系，留下了他们所有的星系。看来他们对留在这里不再感兴趣了。但我们永远不知道他们是否会回来......"
-sofe_crisis.5003.a: "那就结束了。"
+sofe_crisis.5001.name: "时代的终结"
+sofe_crisis.5001.desc: "力量之争已经结束。星辰之子召回了所有的舰队，所有的敌对行动已经停止。似乎有些人最终证明了他们的期望是值得的。但接下来会发生什么呢?这是一个时代的终结。没有什么会和以前一样了。"
+sofe_crisis.5002.desc: "力量的斗争结束了。星辰之子召回了所有的舰队，所有的敌对行动已经停止。我们已经收到报告，所有的外星门已经消失，所有来自外部星团的连接已经丢失。我们不知道接下来会发生什么。这是一个时代的终结。没有什么会和以前一样了。"
+sofe_crisis.5001.a: "令人不安"
+sofe_crisis.5001.b: "还有很多问题没有得到解答……"
+sofe_crisis.5003.desc: "哦，天哪。"
+sofe_crisis.5003.a: "一切都结束了。"
 sofe_crisis.5003.b: "卑鄙的家伙！傻瓜！"
-sofe_crisis.5003.b_explain: "看！外星团...外星团！\n\n先祖放弃了他们的星系BAWKSES...\n\nTHE KOWARDS! THE FOOOLS!\n\n我们.......应该拿走他们的星系......\n\nKHANNNNNNNNNNNNNN"
+sofe_crisis.5003.b_explain: "看！外星团……外星团！\n\n星辰之子放弃了他们的星系BAWKSES……\n\nTHE KOWARDS! THE FOOOLS!\n\n我们…………应该拿走他们的星系…………\n\nKHANNNNNNNNNNNNNN"
 
 #### AE SUBMITS TO OE
 
-sofe_crisis.9100.name: "暮色降临在我们所有人身上"
-sofe_crisis.9100.desc: "我们的领导人怀着沉重的心情面对严峻的现实...我们的帝国已经失败了。先祖实在太强大了，无法抵抗。\n\n但似乎还没有完全失败。先祖似乎暗地里希望我们再次崛起，他们没有对我们的帝国施加任何严厉的限制。也许还有机会？"
+sofe_crisis.9100.name: "旭日已落"
+sofe_crisis.9100.desc: "我们的领导人怀着沉重的心情面对严酷的现实。我们的帝国已经失败了。星辰之子实在太强大了，暂时无法抵抗。\n\n但似乎并没有失去一切。星辰之子让我们聚集力量，确保我们将有第二次机会参加竞赛。问题仍然是，我们能及时做到吗?"
 sofe_crisis.9100.a: "我们被打败了。"
-sofe_crisis.9100.b: "这还没有结束..."
-sofe_crisis.9100.c: "先祖是对的，我们将帮助他们。"
+sofe_crisis.9100.b: "这还没有结束……"
+sofe_crisis.9100.c: "也许我们应该看看。"
 
 #### FE SUBMITS TO OE
 
 sofe_crisis.9101.name: "一个新的开始"
-sofe_crisis.9101.desc: "这样，先祖赦免了我们祖先的罪恶。我们幸免于他们的神判...但是代价是不是太高了呢？这是我们漫长历史的终结吗？\n\n或者也许是一个更好未来的新开端》"
+sofe_crisis.9101.desc: "完成了，星辰之子赦免了我们祖先的罪行。我们从过去的背叛中解脱出来。但是成本是不是太高了呢?这是我们漫长历史的终结吗?\n\n或者也许是一个更好未来的新开端?"
 sofe_crisis.9101.a: "没有别的办法。"
 sofe_crisis.9101.b: "这太愚蠢了。罪孽？是他们冤枉了我们！"
 sofe_crisis.9101.c: "我们的祖先很愚蠢。我们必须做得更好。"
@@ -900,8 +982,8 @@ sofe_crisis.9101.c: "我们的祖先很愚蠢。我们必须做得更好。"
 origin.9700.desc: "Vad'ikos!\n\n所以你决定反对我们。很不幸，这也在预料之中。\n\n那么好吧，伟大的[root.GetSpeciesName]！让这一刻燃烧得如此灿烂，我们所有人都将被永远记住！\n\nRasha'ta是永恒的！[root.GetName]也是永恒的！\n\n愿最强的巅峰上国胜出！"
 origin.9700.desc.a: "荣耀归于所有与命运抗争的人！"
 
-origin.9701.desc: "Vad'ikos!\n\n太好了!我很高兴我们能更好地理解。\n\n这将是关键时刻！两个巅峰帝国，联合起来对抗这个混乱的星系。[root.GetSpeciesName]先祖站在你这边作为一个盟友！没有人觉得我们不够！为了[root.GetRulerName]的荣耀！\n\n让秩序恢复吧！"
-origin.9701.desc.a: "让我们重新定义这个星系！"
+origin.9701.desc: "Vad'ikos!\n\n太好了!我们很高兴双方都有了更大的了解。\n\n当星系们开始决定谁将是冠军时，尽情享受这壮观的景象吧!"
+origin.9701.desc.a: "让我们看看谁能与命运抗争。"
 
 
 ###################################################################
@@ -909,11 +991,32 @@ origin.9701.desc.a: "让我们重新定义这个星系！"
 sofe_post.550.a.desc: "愿你的星光灿烂，[root.GetName]。"
 sofe_post.550.b.desc: "说出来，就会被听到。"
 sofe_post.550.c.desc: "它像一场血腥的风暴，像一颗血腥的恒星一样汹涌澎湃~\n\n你的血统决定了你的命运~\n\n让它成为你伟大旅程的向导……光明永远照耀~"
-sofe_post.550.d.desc: "等一下，[root.GetRulerName]。我们现在正在进行一场烹饪比赛。请简明扼要。"
-sofe_post.550.e.desc: "参观光明堡垒时要小心。避免偏离指定的边界太远。没有我们不断的屏蔽，来自球体的辐射热对大多数人来说是致命的。"
+sofe_post.550.d.desc: "等一下，[root.GetRulerName]。我们现在正在进行一场烹饪竞赛。请简明扼要。\n\n嗯…我不知道黑洞可以用来让Kumayaki更美味。也许最终我们会发现一种比超高速破星炮更好的调味料…也许不是这样，这个水平的动能肯定比一个无聊的黑洞更美味。\n\n在你的世界里，有没有你认为好吃的东西?顺便说一下，不一定是食物。我们星辰之子几乎什么都能吃。有一次，我们吃了一颗行星的重力，后来我们吃了这个星球上所有的泥土，然后我们把水倒在这个星球上。不过没关系，那里什么都没有，以防你担心我们意外地破坏了生命或类似的东西。"
+sofe_post.550.e.desc: "进入外星团时要小心。避免偏离指定的边界太远。你所看到的，只是被称为原点的无穷大的一部分。如果你离开我们的保护，你的飞船可能会被撕成碎片。这对你来说是非常不愉快的。"
 sofe_post.550.f.desc: "保持警惕。时刻保持警惕。"
 sofe_post.550.g.desc: "我希望你不是来告诉我们你的帝国有多优越，[root.GetName]。它开始考验我们的耐心。"
-sofe_post.550.h.desc: "啊,edgelords。很好。"
-sofe_post.550.i.desc: "谨慎行事。我们正在看着。你正在越过一条危险的线。如果你这么做了，我们就会采取行动。过去是这样，现在是这样，将来也是这样。"
-origin.405.c.: "让我们彻底解决这东西吧！"
-origin.406.response: "Krios Vala'tae！我们会等你，[root.GetSpeciesNamePlural]。"
+sofe_post.550.h.desc: "啊,埃洛尔兹。很好。"
+sofe_post.550.i.desc: "谨慎行事。我们正在看着。你正在越过一条危险的线。如果你这么做了，我们就会采取行动。过去是这样，现在是这样，将来也将是这样。"
+
+sofe_post.0.a: "告诉我们更多关于你们自己的事情"
+sofe_post.0.b: "告诉我们更多关于阴影的事情"
+sofe_post.0.b.response: "或者它们是非常非常糟糕的东西，兄弟。但是现在没有时间让mod的作者来写它，回头看看后面的更新吧，哈哈。"
+sofe_post.0.c: "Waifu"
+sofe_post.0.end: "我们应该去。"
+
+sofe_post.1.a.desc: "当然可以。你想知道什么?"
+sofe_post.1.b.desc: "很好。今天我们将会发现什么秘密?"
+sofe_post.1.c.desc: "确实如此。我们可能不能回答所有的问题，但我们会分享我们所见所能。"
+
+sofe_post.1.a: "你的真实历史是什么?"
+sofe_post.1.a.response: "它的存在可以追溯到远古时代，那时大部分元宇宙还没有形成。但我们不是第一个，我们是被别人或其他东西故意栽植在这里的。无论那是什么，它拥有巨大的力量，但我们的创造者留下了任何痕迹。\n\n创造是独一无二的，我们穿越了宇宙，我们从未在任何其他平行宇宙中找到我们自己的痕迹，也没有任何文明与我们有任何相似之处。因为我们生来就有许多知识已经在我们的思想中，强大的力量已经掌握在我们手中。进化的过程是每一种生命形式的常态，对我们来说并不存在。我们生来就是完美的……在某种程度上。\n\n想象一下，你们的种族觉醒了，已经拥有了你们当前时代的知识，却对你们的过去一无所知。没有进化，没有过去历史的痕迹，你只是像现在一样与生俱来。\n\n虽然我们存在的好奇心在我们最初存在的时候就存在，但直到我们的一位探险家发现了一个存在于这个元宇宙之外的古老存在。它自称为“探索者”，它的存在和力量证实了我们的信念，我们身边还有更强大的力量，远远超出我们的想象。于是，对这个伟大问题的追求就产生了。我们的人民渴望了解过去，开始探索宇宙。\n\n突然出现了一种强大的威胁，我们称之为外来者，改变了一切。这些恶意的实体不仅要吞噬我们的生命，还要吞噬整个元宇宙。外来者在毫无预兆的情况下发动袭击，摧毁并吞噬掉他们所拥有的一切。在我们的历史上，我们第一次面对一个敌人，一个我们必须杀死的敌人。那是一个混乱的时期，因为我们谁也没有战争的知识，因为在那以前，我们的整个历史档案中从来没有战争的知识。但是我们坚持不懈，我们把我们的意志力引导到现在被称为光的地方。有了它，我们消灭了外来者，直到最后。没有留下任何痕迹，这是一个必要的过程。完成后，我们选择将大部分的探险活动限制在这个元空间内，只有最有天赋的探险家被派往太空。\n\n我们会更多地谈论我们的历史，但现在这样就足够了。"
+sofe_post.1.b: "你在竞赛中使用什么语言?"
+sofe_post.1.b.response: "啊，它实际上是我们用来听起来很神秘的一组词，没有什么特别的。事实上，在每次新的竞赛中想出新的、有趣的单词是很有趣的。事实上，我们星辰之子根本不使用语言。这个概念只适用于像你这样的生物体。我们生来就有通过意志与他人沟通的知识，我们所有的力量、设备和技术都是为了反映这样的系统。我们的神器和力量跟我们说话的次数和我们跟它们说话的次数一样多\n\n我们必须说，书面文本和记录等概念对我们来说是陌生的。还有你的技术，这么多按钮。考虑到阻碍你进步的有限记忆能力，你能记住这么多琐碎的东西是相当惊人的。"
+sofe_post.1.c: "你的目标是什么?"
+sofe_post.1.c.response: "吃很多食物…找出并回答这个伟大的问题。我们稍后会在Chirumiru没有忙着玩其他游戏的时候解释。"
+sofe_post.1.d: "你提到了元韵文。你能解释一下吗?"
+sofe_post.1.d.response: "比多重宇宙还要大。稍后我们将讨论它。"
+sofe_post.1.e: "外星团和外星门到底是什么?"
+sofe_post.1.e.response: "那只是一个星门。对不起，我们稍后会添加更多，当Chirumiru决定写它。"
+EMPIRE_DESIGN_Stellarborne:0 "星辰之子"
+EMPIRE_DESIGN_Stellarborne_desc:0 "星辰之子是存在于时空之外的神秘实体。随着他们对元宇宙的掌握，为了对抗即将到来的阴影威胁，他们已经做了多种准备。这个秩序的独立统治者的任务是进入一个特殊的记忆球体，其中包含一个模拟的星系。这个模拟的目的是测试星系居民在各种力量作用下的反应。一旦完成，统治者必须向原点报告。"

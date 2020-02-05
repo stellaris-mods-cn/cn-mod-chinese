@@ -3,7 +3,7 @@
  job_queen_drone_desc:0 "女王最容易被理解为生殖因素，而不是领导者。她将试图通过破坏殖民地的稳定和团结其他成员来控制这个星球。"
  district_hollow_housing:0 "洞穴复合体"
  district_hollow_housing_desc:0 "巨大的洞穴,洞穴网络可以保留许多人口。"
- district_hollow_housing_plural:0 "洞穴复合体" 
+ district_hollow_housing_plural:0 "洞穴复合体"
  district_queen_den:0 "女王巢穴"
  district_queen_den_desc:0 "所有必要的调整，以支持繁殖女王。"
  district_queen_den_plural:0 "女王巢穴"
@@ -18,8 +18,15 @@
  job_queen_drone_effect_desc:0 "繁殖女王增加§H人口增长§!，但会破坏星球的稳定。"
  
  
- 
- 
+ trait_digital:0 "数字实体"
+ trait_digital_desc:0 "§L这些人口不再是物质层面的一部分，而是以数字形式存在于洛什卡星球上。§!\n"
+ trait_pc_hollow_preference:0 "空心星球偏好"
+ trait_pc_hollow_preference_desc:0 "§L气候偏好是由亿万年的进化、设计或熟练的基因操作决定的。§!\n"
+ trait_pc_matryoshka_preference:0 "数字实体"
+ trait_pc_matryoshka_preference_desc:0 "§L这些人口不再是物质层面的一部分，它们以数字形式存在于洛什卡星球上。§!\n"
+ mod_pc_hollow_habitability:0 "空心星球宜居性"
+ mod_pc_matryoshka_habitability:0 "洛什卡星球宜居性"
+
  
  district_matryoshka_housing:0 "行星式硬盘"
  district_matryoshka_housing_desc:0 "这是存储数字人口的地方。"
@@ -30,13 +37,16 @@
  district_matryoshka_bus_module:0 "杀毒软件"
  district_matryoshka_bus_module_desc:0 "每台电脑都可能受到恶意软件和病毒的攻击。这种硬件是一种杀毒软件，提供维护和安全代理。"
  district_matryoshka_bus_module_plural:0 "杀毒软件"
+ district_matryoshka_recursive_function:0 "递归函数"
+ district_matryoshka_recursive_function_desc:0 "在复制和备份数据方面非常高效的特殊计算模块。"
+ district_matryoshka_recursive_function_plural:0 "递归函数"
  
  ap_matryoshka_project:0 "洛什卡项目"
  ap_matryoshka_project_desc:1 "世界中的宇宙。虚拟现实的无穷力量。"
  allow_matryoshka_project:0 "§H解锁决策:§! $ap_matryoshka_project$"
  decision_matryoshka_project:0 "$ap_matryoshka_project$"
  decision_matryoshka_project_effects:1 "把星球变成一个§Y$pc_matryoshka$§!, 增加£housing£ §Y$PLANET_HOUSING_TITLE$§!, §Y资源生产§!和解锁特殊£district£ §Y洛什卡区划§!，以牺牲星球的自然资源为代价§R无法访问§!,阻止所有£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!进一步的建设\n只有§Y机械人口§!可以生活在§Y洛什卡区划§!,他们将人口数字化和将无法再次定居。"
- decision_matryoshka_project_effects_short:2 "增加£housing£ §Y$PLANET_HOUSING_TITLE$§!和§YResearch Production§!\nEnables £district£ §YMatryoshka Districts§!\n禁用£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!的建设。"
+ decision_matryoshka_project_effects_short:2 "增加£housing£ §Y$PLANET_HOUSING_TITLE$§!和§Y研究产出§!\n启用 £district£ §Y洛什卡区划§!\n禁用£district£ §Y发电机§!, §Y矿物§!和§Y农业区划§!的建设。"
  decision_matryoshka_project_requirements:0 "£trigger_no£ §R星球上所有的区划都必须被填满§! §Y$district_nexus_plural$§!"
  decision_matryoshka_project_desc:1 "在一个世界里的一个宇宙，从行星核心收集的能量为一台模拟虚拟宇宙的行星大小的计算机提供动力。"
 

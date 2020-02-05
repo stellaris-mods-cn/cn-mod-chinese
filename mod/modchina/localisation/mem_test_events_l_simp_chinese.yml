@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
  #Replace this with your title
- mem_test_event.5.name:0 "试验名称"
+ mem_test_event.5.name:0 "测试名称"
  
  #Replace this with the main text
  mem_test_event.5.desc:0 "测试描述"

@@ -1,11 +1,11 @@
 ﻿l_simp_chinese:
- mem_left_for_dead_category:0 "在灰烬中"
- mem_left_for_dead_category_desc:0 "[From.GetName]上遍布着坠落船只的残骸，这是一场很久以前的庞大的太空战斗中的伤痕。对残骸的初步扫描后发现了一些奇怪的特征：有一艘不明原因的被击毁的护卫舰，被自动防御系统包围。在碰撞坠机处，似乎有一个生命迹象。"
+ mem_left_for_dead_category:0 "从灰烬中"
+ mem_left_for_dead_category_desc:0 "[From.GetName]上遍布着坠落飞船的残骸，这是一场很久以前的庞大的太空战斗中的伤痕。对残骸的初步扫描后发现了一些奇怪的特征：有一艘不明原因的被击毁的护卫舰，被自动防御系统包围。在碰撞坠机处，似乎有一个生命迹象。"
 
  #Anomaly Success
  mem_left_for_dead.1.name:0 "外交尝试"
- mem_left_for_dead.1.desc:0 "所有试图与外星生命进行远程通讯的尝试结果都是沉默，因此[Root.GetLeaderName]准备派上一支登陆探险队去调查这艘废弃的船只。团队试探性地进入临时安全边界。当远征队就要穿越边界时，炮塔的枪管就瞄准了[Root.GetLeaderName]，并且聚光灯打开将他们照亮。 一个陌生的声音震动了通信系统。\n\n“URGL'GRV VAR NOM GARBLE'GAAR”。 由于[Root.GetLeaderName]急于尝试翻译外星人语言，因此外星人炮塔开始旋转炮管。“HAAG'OM RAG NAA！” 船员的翻译植入物掌握了语言并开始翻译。“表明你们的身份！你们是马拉喀什军团的士兵，还是米纳维·康科德的特工？你们有十秒钟的时间来回应！”这个外星人显然是一场被遗忘的战争的坚强后盾，他似乎认为这场战争仍在进行中，他仍在继续效忠他的使命！"
- mem_left_for_dead.1.hive.desc:0 "所有试图与外星生命进行远程沟通的尝试的结果都是沉默，因此[Root.GetLeaderName]准备派上一支初步探索工蜂去调查这艘废弃的船只。团队试探性地进入临时安全边界。当远征队就要穿越边界时，炮塔的枪管就瞄准了[Root.GetLeaderName]，并且聚光灯打开将他们照亮。 一个陌生的声音震动了通信系统。\n\n“URGL'GRV VAR NOM GARBLE'GAAR”。 由于[Root.GetLeaderName]急于尝试翻译外星人语言，因此外星人炮塔开始旋转炮管。“HAAG'OM RAG NAA！” 船员的翻译植入物掌握了语言并开始翻译。“表明你们的身份！你们是马拉喀什军团的士兵，还是米纳维·康科德的特工？你们有十秒钟的时间来回应！”这个外星人显然是一场被遗忘的战争的坚强后盾，他似乎认为这场战争仍在进行中，他仍在继续效忠他的使命！"
+ mem_left_for_dead.1.desc:0 "所有试图与外星生命进行远程通讯的尝试结果都是沉默，因此[Root.GetLeaderName]准备派上一支登陆探险队去调查这艘废弃的飞船。团队试探性地进入临时安全边界。当远征队就要穿越边界时，炮塔的枪管就瞄准了[Root.GetLeaderName]，并且聚光灯打开将他们照亮。 一个陌生的声音震动了通信系统。\n\n“URGL'GRV VAR NOM GARBLE'GAAR”。 由于[Root.GetLeaderName]急于尝试翻译外星人语言，因此外星人炮塔开始旋转炮管。“HAAG'OM RAG NAA！” 船员的翻译植入物掌握了语言并开始翻译。“表明你们的身份！你们是马拉喀什军团的士兵，还是米纳维·康科德的特工？你们有十秒钟的时间来回应！”这个外星人显然是一场被遗忘的战争的坚强后盾，他似乎认为这场战争仍在进行中，他仍在继续效忠他的使命！"
+ mem_left_for_dead.1.hive.desc:0 "所有试图与外星生命进行远程沟通的尝试的结果都是沉默，因此[Root.GetLeaderName]准备派上一支初步探索工蜂去调查这艘废弃的飞船。团队试探性地进入临时安全边界。当远征队就要穿越边界时，炮塔的枪管就瞄准了[Root.GetLeaderName]，并且聚光灯打开将他们照亮。 一个陌生的声音震动了通信系统。\n\n“URGL'GRV VAR NOM GARBLE'GAAR”。 由于[Root.GetLeaderName]急于尝试翻译外星人语言，因此外星人炮塔开始旋转炮管。“HAAG'OM RAG NAA！” 船员的翻译植入物掌握了语言并开始翻译。“表明你们的身份！你们是马拉喀什军团的士兵，还是米纳维·康科德的特工？你们有十秒钟的时间来回应！”这个外星人显然是一场被遗忘的战争的坚强后盾，他似乎认为这场战争仍在进行中，他仍在继续效忠他的使命！"
  #To "A Failure of Diplomacy
  mem_left_for_dead.1.a:0 "我们是米纳维·康科德的特工！"
  mem_left_for_dead.1.b:0 "我们是马拉喀什军团的士兵！"

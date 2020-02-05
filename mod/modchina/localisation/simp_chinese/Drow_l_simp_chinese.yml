@@ -186,8 +186,8 @@ sc_drow_binary_2:1 "$sc_binary_1$"
 sc_drow_binary_3:1 "$sc_binary_1$"
 sc_drow_trinary_1:1 "$sc_trinary_1$"
 sc_drow_trinary_2:1 "$sc_trinary_1$"
-sc_drow_quaternary_1:1 "Quaternary Stars"
-sc_drow_quaternary_2:1 "Quaternary Stars"
+sc_drow_quaternary_1:1 "第四纪恒星"
+sc_drow_quaternary_2:1 "第四纪恒星"
 
 #######################
 ### PLANET FEATURES ###
@@ -263,8 +263,8 @@ d_elven_planetary_glowing_oceans_desc:0 "海洋中的浮游生物在夜间发出
 
 ## FALLEN EMPIRES ##
 
-d_drow_planetary_cheel_phalar_blocker:0
-d_drow_planetary_cheel_phalar_blocker_desc:0
+d_drow_planetary_cheel_phalar_blocker:0 "死亡生态建筑学"
+d_drow_planetary_cheel_phalar_blocker_desc:0 "这个事件的大部分地区都被充满尸体的螺旋形生态建筑所覆盖。探险者在测量时报告奇怪的事件。不正常的设备故障。动物的笑声，哭声，甚至尖叫声。我们的科学家向我们保证，这只不过是过度活跃的想象。然而，可以肯定的是，这些生态建筑中充斥着大量的尸体，它们需要被拆除才能使用。这将花费大量的时间和精力。"
 
-d_drow_planetary_cheel_phalar_cursed:0
-d_drow_planetary_cheel_phalar_cursed_desc:0
+d_drow_planetary_cheel_phalar_cursed:0 "死亡诅咒"
+d_drow_planetary_cheel_phalar_cursed_desc:0 "拆除充满外星人遗骸的生态建筑是一项艰巨的任务。频繁的设备故障被解释为正常。现在的情况要糟糕得多。起初，持续的停电没有明显的原因。然后是偶尔失踪的殖民者。现在，整个殖民者群体都消失了。在某些情况下，在几分钟内沟通。很明显，有人或某事是这些事件的背后，但没有什么是可以确定的。情况如此糟糕，殖民地目前处于永久的恐怖状态，不知道下一步可能会出什么问题。"

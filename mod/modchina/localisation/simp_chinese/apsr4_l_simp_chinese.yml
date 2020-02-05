@@ -8,7 +8,7 @@
  apsr4_planet_modifier_desc:0 "这里有一座令人难以置信的宏伟的废墟建筑。从它的风格和装饰来看，曾经强大帝国的统治者曾经坐在这个宝座上。"
  
  apsr4_deposit:0 "$apsr4_planet_modifier$"
- apsr4_deposit_desc:0 "$apsr4_planet_modifier_desc$\n\n§M$apsr4_deposit_effect$§!" 
+ apsr4_deposit_desc:0 "$apsr4_planet_modifier_desc$\n\n§M$apsr4_deposit_effect$§!"
  apsr4_deposit_effect:0 "独特的资源可用: $apsr4_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.4003.title:0 "$apsr4_building_part3$ 建成"
  apsr.4003.desc:0 "§Y$apsr4_building_part23§!恢复了，现在是我们帝国皇冠上的明珠!盟友虔诚地弯曲膝盖前的伟大和力量帝国。"
  apsr.4003.ok-button:0 "为我们帝国的荣耀干杯!"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.4013.title:0 "发现一个人造物: §M$apsr4_planet_modifier$§!"
  apsr.4013.desc:0 "在一个被占领的行星上发现了一些值得注意的东西。 \n从它的建筑特色和装饰来看，曾经是一个强大帝国的统治者的住所"
  apsr.4013.button:1 "非常棒"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

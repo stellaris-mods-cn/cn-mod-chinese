@@ -1,7 +1,7 @@
 ﻿l_simp_chinese:
 
  mem_diversity.1.name:0 "价值的问题"
- mem_diversity.1.desc:0 "在[Root.GetAdj]法律中规定，§Y[oppressed_species.GetSpeciesNamePlural]§!不允许在[root.GetName]内占据领导职位。\n\n然而，才能试验显示，一个特殊的[oppressed_species.GetSpeciesName]是一个有惊人潜力天才。不考虑他的物种的话，毫无疑问，具有这种能力的[Root.GetSpeciesName]将被快速破格提拔到一个重要的位置。然而就目前的情况而言，他们的天赋存在着被浪费的风险。也许在这种情况下可能会出现例外？"
+ mem_diversity.1.desc:0 "在[Root.GetAdj]法律中规定，§Y[oppressed_species.GetSpeciesNamePlural]§!不允许在[root.GetName]内占据领导岗位。\n\n然而，才能试验显示，一个特殊的[oppressed_species.GetSpeciesName]是一个有惊人潜力天才。不考虑他的物种的话，毫无疑问，具有这种能力的[Root.GetSpeciesName]将被快速破格提拔到一个重要的位置。然而就目前的情况而言，他们的天赋存在着被浪费的风险。也许在这种情况下可能会出现例外？"
  mem_diversity.1.a:0 "也许吧。做好安排。"
  mem_diversity_admiral:0 "一个有才华的§S舰队司令§!被添加到领袖池中。"
  mem_diversity_general:0 "一个有才华的§S陆军将领§!被添加到领袖池中。"

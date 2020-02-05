@@ -8,7 +8,7 @@
  apsr12_planet_modifier_desc:0 "不知什么原因，这里发出的所有信号几乎都是立即发出的。不使用它是愚蠢的:它给了我们改进物流的可能性"
  
  apsr12_deposit:0 "$apsr12_planet_modifier$"
- apsr12_deposit_desc:0 "$apsr12_planet_modifier_desc$\n\n§M$apsr12_deposit_effect$§!" 
+ apsr12_deposit_desc:0 "$apsr12_planet_modifier_desc$\n\n§M$apsr12_deposit_effect$§!"
  apsr12_deposit_effect:0 "独特的资源可用: $apsr12_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.12003.title:0 "$apsr12_building_part3$ 建成"
  apsr.12003.desc:0 "利用本地物流异常的特点建立的皇家物流服务基地，使我们的物流服务不受任何延误。"
  apsr.12003.ok-button:0 "完美"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.12013.title:0 "发现异常区域: §M$apsr12_planet_modifier$§!"
  apsr.12013.desc:0 "12887-a号事件是在游击队行动中发生的，当时发现了一个异常区，几乎立即传送任何信号。"
  apsr.12013.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

@@ -8,7 +8,7 @@
  apsr11_planet_modifier_desc:0 "我们的一位科学家发现了一个生物奇迹:这些萤火虫!"
  
  apsr11_deposit:0 "$apsr11_planet_modifier$"
- apsr11_deposit_desc:0 "$apsr11_planet_modifier_desc$\n\n§M$apsr11_deposit_effect$§!" 
+ apsr11_deposit_desc:0 "$apsr11_planet_modifier_desc$\n\n§M$apsr11_deposit_effect$§!"
  apsr11_deposit_effect:0 "独特的资源可用: $apsr11_planet_modifier$"
  
  
@@ -129,7 +129,7 @@
  apsr.11006.title:0 "$apsr11_building_part_m3$ 完成"
  apsr.11006.desc:0 "§Y$apsr11_building_part_m3$§!正在报道一个奇妙的现象。原始的红萤火虫种群已经进化并创造了自己的文明。我们继续观察他们"
  apsr.11006.ok-button:0 "难以置信"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -181,7 +181,7 @@
  apsr.11013.title:0 "发现异常: §M$apsr11_planet_modifier$§!"
  apsr.11013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n这颗行星是一群红色萤火虫的栖息地，只有在夜间才能看到它们。此外，它们还表现出集体思维的一些特征。我们简单地研究过它们，我们的观点是它们在经过某种方式的加工后，对于有机生命形式来说是非常有营养的"
  apsr.11013.button:1 "非常棒!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -229,6 +229,18 @@
  job_apsr11_scientist_machine_plural:0 "增殖单元"
  job_apsr11_scientist_machine_desc:0 "增殖单元这一特殊的多功能模型，为“萤火虫”这一生物物种的栖息地、繁殖和生存提供了最佳条件，从事选择和培育，以进一步研究进化和社会变化的过程"
  mod_job_apsr11_scientist_machine_add:0 "增殖单元"
+ 
+ apsr11_planet_scientist_lithoid_normal:0 "育种者"
+ job_apsr11_scientist_lithoid_normal:0 "育种者"
+ job_apsr11_scientist_lithoid_normal_plural:0 "育种者"
+ job_apsr11_scientist_lithoid_normal_desc:0 "为萤火虫的栖息地、繁殖和生存提供最佳条件的育种家从事选择和培育，以进一步研究进化和社会变化的过程"
+ mod_job_apsr11_scientist_lithoid_normal_add:0 "育种者"
+ 
+ apsr11_planet_scientist_lithoid_hive:0 "育种单元"
+ job_apsr11_scientist_lithoid_hive:0 "育种单元"
+ job_apsr11_scientist_lithoid_hive_plural:0 "育种单元"
+ job_apsr11_scientist_lithoid_hive_desc:0 "为生物物种的栖息地、繁殖和生存提供最佳条件的育种单元，从事选择和培育，以进一步研究进化和社会变化的过程"
+ mod_job_apsr11_scientist_lithoid_hive_add:0 "育种单元"
  
  apsr11_planet_agronomist_normal:0 "育种者"
  job_apsr11_agronomist_normal:0 "育种者"

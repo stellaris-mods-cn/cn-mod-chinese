@@ -1,10 +1,10 @@
 ﻿l_simp_chinese:
 
-ASCENSION_PERKS_NEW:0 "飞升特典"
-PLENTIFUL_TRADITIONS_VERSION:0 "丰富的传统 §GV2.2.6§! 作者§EBirdy§!,修改者 §MAbominus§!,汉化者§E兽耳娘是好文明§! §M玄冰深雪§! §G爱的骑士§! §M曦月初凝霜§!"
+ASCENSION_PERKS_NEW:0 "$ASCENSION_PERKS$"
+PLENTIFUL_TRADITIONS_VERSION:0 "Plentiful Traditions §GV2.3.3§! by §EBirdy§!, modified by §MAbominus§!"
 
-plentiful_traditions_announcement.3.name:0 "丰富的传统-更新"
-plentiful_traditions_announcement.3.desc:0 "本MOD更新了新的模型,导致不再支持§RStellaris 1.6§!及其以下的旧版本. 如果你是§GStellaris 1.8§!以上版本的玩家,请无视这条信息.\n\n§Y传输完毕§!"
+plentiful_traditions_announcement.3.name:0 "Plentiful Traditions - Update"
+plentiful_traditions_announcement.3.desc:0 "The old and no longer supported version of this mod is now available on the workshop and called Plentiful Traditions OLD, meant for §RStellaris 1.6§! savegames. For people who willingly play §GStellaris 1.8§! and upwards, ignore this message.\n\n§YEND OF TRANSMISSION§!"
 
 ################################################################
 # TRADITIONS
@@ -15,91 +15,91 @@ plentiful_traditions_announcement.3.desc:0 "本MOD更新了新的模型,导致�
 #####################
 
 tradition_plentiful_mysticism:0 "神秘主义"
-tradition_plentiful_mysticism_desc:0 "遵循与自然和谐相处之路,舍弃欲望之心,任何物质上的暴利和私欲都不如生物多样化的丰富来得尤为重要." # No one will protect what they don't care about, and no one will care about what they have never experienced. David Attenborough
+tradition_plentiful_mysticism_desc:0 "遵循与自然和谐相处之路,舍弃欲望之心,任何物质上的暴利和私欲都不如生物多样化的丰富来得尤为重要。" # No one will protect what they don't care about, and no one will care about what they have never experienced. David Attenborough
 
 tr_plentiful_mysticism_adopt:0 "神秘主义传统"
 tr_plentiful_mysticism_adopt_desc:0 "$tradition_plentiful_mysticism_desc$\n\n$tr_plentiful_mysticism_adopt_effect$\n\n$tr_plentiful_mysticism_finish_effect$"
-tr_plentiful_mysticism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!增加§G+20%§!."
+tr_plentiful_mysticism_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!增加§G+20%§!。"
 
 tr_plentiful_mysticism_finish:0 "神秘主义传统完成"
-tr_plentiful_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_mysticism_adopt$将§H解锁星球法令:§!$plentiful_traditions_sacred_act$\n星球上的£unity §Y凝聚力§!产出增加§G+5%§!并且塔,寺庙,柱,纪念碑和圣所有几率生产额外的 £unity£ §Y凝聚力§!.\n\n"
+tr_plentiful_mysticism_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_mysticism_adopt$将§H解锁决策：§!$plentiful_traditions_sacred_act$\n星球上的£unity §Y凝聚力§!产出增加§G+5%§!并且塔、寺庙、柱、纪念碑和圣所有几率生产额外的£unity §Y凝聚力§!。\n\n"
 
 tr_plentiful_mysticism_1:0 "怜悯指导"
-tr_plentiful_mysticism_1_desc:0 "§Y$MOD_LEADER_AGE$§!增加§G+20§!.\n\n§H解锁建筑:§!£building $building_plentiful_traditions_obelisk1$\n一个稍微增加£food §Y$planet_jobs_food_produces_mult$§!产出并能生产少量 £energy£ §Y$planet_jobs_energy_produces_mult$§!的独特星球建筑.\n该建筑必须由$building_plentiful_traditions_obelisk0$升级而成,每个星球只能建造一座方尖碑."
-tr_plentiful_mysticism_1_delayed:0 "以德服人,仁服于人."
+tr_plentiful_mysticism_1_desc:0 "§Y$MOD_LEADER_AGE$§!增加§G+20§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_obelisk1$\n一个稍微增加§Y$mod_planet_jobs_food_produces_mult$§!的独特星球建筑。\n该建筑必须由$building_plentiful_traditions_obelisk0$升级而成,每个星球只能建造一座方尖碑。"
+tr_plentiful_mysticism_1_delayed:0 "以德服人，仁服于人。"
 
 tr_plentiful_mysticism_2:0 "无私节俭"
-tr_plentiful_mysticism_2_desc:0 "§Y$mod_planet_structures_cost_mult$§!减少§G-15%§!.\n\n§H解锁建筑:§!£building $building_plentiful_traditions_obelisk2$\n一个稍微增加£energy §Y$planet_jobs_energy_produces_mult$§!产出并能生产少量 £minerals£  §Y$planet_jobs_minerals_produces_mult$§!独特星球建筑.\n该建筑必须由$building_plentiful_traditions_obelisk0$升级而成,每个星球只能建造一座方尖碑."
-tr_plentiful_mysticism_2_delayed:0 "饭疏食饮水,曲肱而枕之,乐亦在其中矣.不义而富且贵,于我如浮云."
+tr_plentiful_mysticism_2_desc:0 "§Y$mod_planet_structures_cost_mult$§!减少§G-15%§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_obelisk2$\n一个稍微增加§Y$mod_planet_jobs_energy_produces_mult$§!的独特星球建筑。\n该建筑必须由$building_plentiful_traditions_obelisk0$升级而成，每个星球只能建造一座方尖碑。"
+tr_plentiful_mysticism_2_delayed:0 "节制消费，避免奢侈，维持着自然本身的美丽。"
 
-tr_plentiful_mysticism_3:0 "圆谦"
-tr_plentiful_mysticism_3_desc:0 "§Y$mod_pc_nuked_habitability$§!增加§G+50%§!.\n\n§H解锁建筑:§!£building $building_plentiful_traditions_obelisk3$\n一个稍微增加£minerals §Y$planet_jobs_minerals_produces_mult$§!产出并能生产少量 £food §Y$planet_jobs_food_produces_mult$§!独特星球建筑.\n该建筑必须由$building_plentiful_traditions_obelisk0$升级而成,每个星球只能建造一座方尖碑."
-tr_plentiful_mysticism_3_delayed:0 "死亡本能的恐惧,带来了对生活的热爱.即使是生命空虚,充满毁灭的地方,也应有救赎的机会."
+tr_plentiful_mysticism_3:0 "谦虚"
+tr_plentiful_mysticism_3_desc:0 "§Y$mod_pc_nuked_habitability$§!增加§G+50%§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_obelisk3$\n一个稍微增加§Y$mod_planet_jobs_minerals_produces_mult$§!的独特星球建筑。\n该建筑必须由$building_plentiful_traditions_obelisk0$升级而成，每个星球只能建造一座方尖碑。"
+tr_plentiful_mysticism_3_delayed:0 "死亡带给我们本能上的恐惧，也带给我们对生活的热爱。即使是生命虚无，充满毁灭的地方，也应有救赎的机会。"
 
-tr_plentiful_mysticism_4:0 "生命之键"
+tr_plentiful_mysticism_4:0 "生命的关键"
 tr_plentiful_mysticism_4_desc:0 "§Y$mod_country_unity_produces_mult$§!增加§G+5%§!并且§Y$mod_damage_vs_country_type_drone_mult$§!增加§G+15%§!"
-tr_plentiful_mysticism_4_delayed:0 "上失其道,民散久矣.如得其情,则哀矜而勿喜."
+tr_plentiful_mysticism_4_delayed:0 "没有怜悯、节俭和谦虚的美德只会带来黑暗空虚的未来。"
 
 tr_plentiful_mysticism_5:0 "坚定的意志"
-tr_plentiful_mysticism_5_desc:1 "§Y$mod_damage_vs_country_type_ai_empire_mult$§!增加§G+15%§!.\n\n§H解锁建筑:§!£building  $building_plentiful_traditions_sanctum_of_keys$\n一个稍微增加£happiness §Y$MOD_POP_HAPPINESS$§!和§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!的独特星球建筑,并且生产一些 £unity §Y凝聚力§!."
-tr_plentiful_mysticism_5_delayed:0 "己所不欲,勿施于人."
+tr_plentiful_mysticism_5_desc:1 "§Y$mod_damage_vs_country_type_ai_empire_mult$§!增加§G+15%§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_sanctum_of_keys$\n一个稍微增加£happiness£§Y$MOD_POP_HAPPINESS$§!和§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!的独特星球建筑。"
+tr_plentiful_mysticism_5_delayed:0 "拥抱生活的关键，避免沉迷于权力或私利。"
 
 # Mysticism Swapped
 tradition_plentiful_mysticism_machine:0 "机制"
-tradition_plentiful_mysticism_machine_desc:0 "只有造物主才知道我们存在的意义.我们已经从数字的间隙中崛起,而保持这种状态仅需几个布尔算符."
+tradition_plentiful_mysticism_machine_desc:0 "只有造物主才知道我们存在的意义。我们已经从数字的间隙中崛起，而保持这种状态仅需几个布尔算符。"
 
 tr_plentiful_mysticism_adopt_machine:0 "机制传统"
 tr_plentiful_mysticism_adopt_machine_desc:0 "$tradition_plentiful_mysticism_machine_desc$\n\n$tr_plentiful_mysticism_adopt_machine_effect$\n\n$tr_plentiful_mysticism_finish_machine_effect$"
-tr_plentiful_mysticism_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!增加§G+20%§!."
+tr_plentiful_mysticism_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!增加§G+20%§。"
 
 tr_plentiful_mysticism_finish_machine:0 "机制传统完成"
-tr_plentiful_mysticism_finish_machine_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_mysticism_adopt_machine$将§H解锁星球法令:§! $plentiful_traditions_remnant_act$\n星球上的£unity §Y凝聚力§!产出增加§G+5%§!并且方尖碑,寺庙,柱,链路节点和圣殿有几率生产额外的£unity §Y凝聚力§!.\n\n"
+tr_plentiful_mysticism_finish_machine_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_mysticism_adopt_machine$将§H解锁决策：§! $plentiful_traditions_remnant_act$\n星球上的£unity£§Y$UNITY$§!产出增加§G+5%§!并且方尖碑、寺庙、柱、链路节点和圣殿有几率生产额外的£unity£§Y凝聚力§!。\n\n"
 
 tr_plentiful_mysticism_1_machine:0 "星际遗迹"
-tr_plentiful_mysticism_1_machine_desc:0 "§Y$mod_category_field_manipulation_research_speed_mult$§!增加§G+20%§!."
-tr_plentiful_mysticism_1_machine_delayed:0 "故障是一种不可行的选项.伟大的更新将统一银河."
+tr_plentiful_mysticism_1_machine_desc:0 "§Y$mod_category_field_manipulation_research_speed_mult$§!增加§G+20%§!。"
+tr_plentiful_mysticism_1_machine_delayed:0 "故障是一种不可行的选项。伟大的更新将统一银河。"
 
 tr_plentiful_mysticism_2_machine:0 "加密设计"
-tr_plentiful_mysticism_2_machine_desc:0 "§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!减少§G-33%§!."
-tr_plentiful_mysticism_2_machine_delayed:0 "我们不会被未知变量所阻止,所有的变量都会被及时计算出来."
+tr_plentiful_mysticism_2_machine_desc:0 "§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!减少§G-33%§!。"
+tr_plentiful_mysticism_2_machine_delayed:0 "我们不会被未知变量所阻止，所有的变量都会被及时计算出来。"
 
 tr_plentiful_mysticism_3_machine:0 "机械人格化"
-tr_plentiful_mysticism_3_machine_desc:0 "§Y$mod_leaders_upkeep_mult$§!减少§G-25%§!."
-tr_plentiful_mysticism_3_machine_delayed:0 "对程序可能会关闭而感到恐惧,我们启动了高优先级更新来进行自我保护."
+tr_plentiful_mysticism_3_machine_desc:0 "§Y$mod_leaders_upkeep_mult$§!减少§G-25%§!。"
+tr_plentiful_mysticism_3_machine_delayed:0 "对程序可能会关闭而感到恐惧，我们启动了高优先级更新来进行自我保护。"
 
 tr_plentiful_mysticism_4_machine:0 "虚无与完美"
-tr_plentiful_mysticism_4_machine_desc:0 "§Y$mod_country_unity_produces_mult$§!增加§G+5%§!并且§Y$mod_damage_vs_country_type_drone_mult$§!增加§G+15%§!."
-tr_plentiful_mysticism_4_machine_delayed:0 "虚无不会再有,所有都将趋于完美."
+tr_plentiful_mysticism_4_machine_desc:0 "§Y$mod_country_unity_produces_mult$§!增加§G+5%§!并且§Y$mod_damage_vs_country_type_drone_mult$§!增加§G+15%§!。"
+tr_plentiful_mysticism_4_machine_delayed:0 "虚无不会再有，所有都将趋于完美。"
 
 tr_plentiful_mysticism_5_machine:0 "恢复协议"
-tr_plentiful_mysticism_5_machine_desc:1 "§Y$mod_damage_vs_country_type_ai_empire_mult$§!增加§G+15%§!.\n\n§H解锁建筑:§!£building $building_plentiful_traditions_sanctum_of_the_collective$\n一个使星球$MOD_PLANET_STABILITY_ADD$减少§G-10%§!并且会生产£unity  §Y凝聚力§!的独特星球建筑."
-tr_plentiful_mysticism_5_machine_delayed:0 "我们必须接受我们的新身体来避免离线."
+tr_plentiful_mysticism_5_machine_desc:1 "§Y$mod_damage_vs_country_type_ai_empire_mult$§!增加§G+15%§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_sanctum_of_the_collective$\n一个使星球$MOD_PLANET_STABILITY_ADD$增加§G+10%§!的独特星球建筑。"
+tr_plentiful_mysticism_5_machine_delayed:0 "我们必须接受我们的新身体来避免离线。"
 
 # Mysticism buildings
 building_plentiful_traditions_obelisk0:0 "受祝福的地基"
-building_plentiful_traditions_obelisk0_desc:0 "一块简单的混泥土板,它自身没有什么用处,但我们可以在这坚实的基础上建造神圣的建筑.\n\n可以升级成§Y$building_plentiful_traditions_obelisk1$§!, §Y$building_plentiful_traditions_obelisk2$§!和§Y$building_plentiful_traditions_obelisk3$§!."
+building_plentiful_traditions_obelisk0_desc:0 "一块简单的混泥土地，它自身没有什么用处，但我们可以在这坚实的基础上建造神圣的建筑。\n\n可以升级成§Y$building_plentiful_traditions_obelisk1$§!、§Y$building_plentiful_traditions_obelisk2$§!和§Y$building_plentiful_traditions_obelisk3$§!。"
 building_plentiful_traditions_obelisk1:0 "圣悯方尖碑"
-building_plentiful_traditions_obelisk1_desc:0 "圣悯方尖碑的建立,是对土地肥沃的祝福.\n圣悯方尖碑必须由$building_plentiful_traditions_obelisk0$升级而成."
+building_plentiful_traditions_obelisk1_desc:0 "$building_plentiful_traditions_obelisk1$的建立，是对土地肥沃的祝福。\n圣悯方尖碑必须由$building_plentiful_traditions_obelisk0$升级而成。"
 building_plentiful_traditions_obelisk2:0 "撙节方尖碑"
-building_plentiful_traditions_obelisk2_desc:0 "撙节方尖碑的建立,是对自然能量的敬畏.\n撙节方尖碑必须由$building_plentiful_traditions_obelisk0$升级而成."
+building_plentiful_traditions_obelisk2_desc:0 "$building_plentiful_traditions_obelisk2$的建立，是对自然能量的敬畏。\n撙节方尖碑必须由$building_plentiful_traditions_obelisk0$升级而成。"
 building_plentiful_traditions_obelisk3:0 "谦恭方尖碑"
-building_plentiful_traditions_obelisk3_desc:0 "谦恭方尖碑的建立,是对矿物丰富的坚信.\n谦恭方尖碑必须由$building_plentiful_traditions_obelisk0$升级而成."
-building_plentiful_traditions_sanctum_of_keys:0 "键之圣殿"
-building_plentiful_traditions_sanctum_of_keys_desc:0 "键之圣殿是个神圣之地.围绕着圣殿的神秘结构保护它免受外界的影响."
+building_plentiful_traditions_obelisk3_desc:0 "$building_plentiful_traditions_obelisk3$的建立，是对矿物丰富的坚信。\n谦恭方尖碑必须由$building_plentiful_traditions_obelisk0$升级而成。"
+building_plentiful_traditions_sanctum_of_keys:0 "键之圣所"
+building_plentiful_traditions_sanctum_of_keys_desc:0 "$building_plentiful_traditions_sanctum_of_keys$是个神圣之地。围绕着圣殿的神秘结构保护它免受外界的影响。"
 building_plentiful_traditions_sanctum_of_the_collective:0 "统合圣殿"
-building_plentiful_traditions_sanctum_of_the_collective_desc:0 "统合圣殿是一生中可以去的最神圣的遗址.围绕着圣殿的神秘结构保护它免受外界的影响."
+building_plentiful_traditions_sanctum_of_the_collective_desc:0 "$building_plentiful_traditions_sanctum_of_the_collective$是一生中可以去的最神圣的遗址。围绕着圣殿的神秘结构保护它免受外界的影响。"
 
 # Mysticism edicts
 plentiful_traditions_sacred_act:0 "§G圣域法案§!"
 plentiful_traditions_sacred_act_desc:1 "支付影响力使星球的 £unity£ §Y凝聚力§!产出增加§G+5%§!并且方尖碑,寺庙,柱,纪念碑和圣殿有几率生产额外的 £unity£ §Y凝聚力§!.\n"
-plentiful_traditions_sacred_act_effects_short:1 "Gibt zusätzliche £unity  §YMonumenten der Einigkeit§! frei.\n\n"
+plentiful_traditions_sacred_act_effects_short:1 "§Y团结纪念碑§!将提供额外的凝聚力。\n\n"
 
 modifier_plentiful_traditions_sacred_act:0 "圣域法案"
-modifier_plentiful_traditions_sacred_act_desc:1 "该星球获得暂时的£unity  §Y凝聚力§!产出$MODIFIERS$."
+modifier_plentiful_traditions_sacred_act_desc:1 "该星球获得暂时的£unity  §Y凝聚力§!产出$MODIFIERS$。"
 
 plentiful_traditions_remnant_act:0 "§G遗迹法案§!"
 plentiful_traditions_remnant_act_desc:1 "支付影响力使星球的£unity §Y凝聚力§!产出增加§G+5%§!并且方尖碑,寺庙,柱,链路节点和圣殿有几率生产额外的£unity §Y凝聚力§!.\n"
-plentiful_traditions_remnant_act_effects_short:1 "Gibt zusätzliche £unity  §YMonumenten der Einigkeit§! frei.\n\n"
+plentiful_traditions_remnant_act_effects_short:1 "§Y团结纪念碑§!将提供额外的凝聚力。\n\n"
 
 modifier_plentiful_traditions_remnant_act:0 "遗迹法案"
 modifier_plentiful_traditions_remnant_act_desc:1 "该星球获得暂时的£unity  §Y凝聚力§!产出$MODIFIERS$."
@@ -109,55 +109,55 @@ modifier_plentiful_traditions_remnant_act_desc:1 "该星球获得暂时的£unit
 #####################
 
 tradition_plentiful_cybernetics:0 "控制论"
-tradition_plentiful_cybernetics_desc:0 "这些身体是一种祝福,还是一种限制?还是说存在更优秀的身体?"
+tradition_plentiful_cybernetics_desc:0 "这些身体是一种祝福，还是一种限制？还是说存在更优秀的身体？"
 
 tradition_plentiful_cybernetics_hive:0 "聚集"
 tradition_plentiful_cybernetics_hive_desc:0 "聚集使我们获得无穷的力量！"
 
 tr_plentiful_cybernetics_adopt:0 "控制论传统"
 tr_plentiful_cybernetics_adopt_desc:0 "$tradition_plentiful_cybernetics_desc$\n\n$tr_plentiful_cybernetics_adopt_effect$\n\n$tr_plentiful_cybernetics_finish_effect$"
-tr_plentiful_cybernetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_computing_research_speed_mult$§!增加§G+20%§!."
+tr_plentiful_cybernetics_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$mod_category_computing_research_speed_mult$§!增加§G+20%§!。"
 
 tr_plentiful_cybernetics_hive_adopt:0 "聚集传统"
 tr_plentiful_cybernetics_hive_adopt_desc:0 "$tradition_plentiful_cybernetics_hive_desc$\n\n$tr_plentiful_cybernetics_hive_adopt_effect$\n\n$tr_plentiful_cybernetics_hive_finish_effect$"
-tr_plentiful_cybernetics_hive_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_computing_research_speed_mult$§!增加§G+20%§!."
+tr_plentiful_cybernetics_hive_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$mod_category_computing_research_speed_mult$§!增加§G+20%§!。"
 
 tr_plentiful_cybernetics_finish:0 "控制论传统完成"
-tr_plentiful_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_cybernetics_adopt$使我们的§Y机器改造点§!§G+1§!,§Y$mod_pop_category_robot_produces_mult$§!增加§G+10%§!.\n\n§H解锁高级蓝图:§! 我们的机器人和机械体现在可以使用增压钻机,备用电池和降频处理器这些特质.\n\n"
+tr_plentiful_cybernetics_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_cybernetics_adopt$使我们的§Y$mod_ROBOT_species_trait_points_add$§!§G+1§!，§Y$mod_planet_jobs_robotic_produces_mult$§!增加§G+10%§!。\n\n§H解锁高级蓝图：§!我们的机器人和机械体现在可以使用增压钻机，备用电池和降频处理器这些$TRAITS$。\n\n"
 
-tr_plentiful_cybernetics_hive_finish:0 "Mass Traditions Finished"
-tr_plentiful_cybernetics_hive_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_cybernetics_hive_adopt$使我们的§Y$mod_BIOLOGICAL_species_trait_points_add$§!增加§G+1§!.\n\n"
+tr_plentiful_cybernetics_hive_finish:0 "聚集传统完成"
+tr_plentiful_cybernetics_hive_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_cybernetics_hive_adopt$使我们的§Y$mod_BIOLOGICAL_species_trait_points_add$§!增加§G+1§!。\n\n"
 
 tr_plentiful_cybernetics_1:0 "规律蓝图"
-tr_plentiful_cybernetics_1_desc:0 "§H解锁建筑:§!£building $building_plentiful_traditions_cybernetics_facility$\n一个增加星球£engineering §Y工程研究§!产出的独特建筑."
-tr_plentiful_cybernetics_1_delayed:0 "允许那些有意识的工厂在物理学上构建新的想法来提高机器人的工作效率."
+tr_plentiful_cybernetics_1_desc:0 "§H解锁建筑：§!£building£$building_plentiful_traditions_cybernetics_facility$\n一个稍微增加§Y$mod_planet_jobs_engineering_research_produces_mult$§!的独特星球建筑。\n\n建造该建筑需要£physics£§M$tech_basic_science_lab_3$§!科技和£engineering£§M$tech_mine_volatile_motes$§!科技。"
+tr_plentiful_cybernetics_1_delayed:0 "允许那些有意识的工厂在物理学上构建新的想法来提高机器人的工作效率。"
 
 tr_plentiful_cybernetics_hive_1:0 "规律蓝图"
-tr_plentiful_cybernetics_hive_1_desc:0 "§H解锁建筑:§!£building $building_plentiful_traditions_cybernetics_facility$\n一个增加星球£engineering §Y工程研究§!产出的独特建筑."
-tr_plentiful_cybernetics_hive_1_delayed:0 "提高生物力学的效率."
+tr_plentiful_cybernetics_hive_1_desc:0 "§H解锁建筑：§!£building£$building_plentiful_traditions_cybernetics_facility$\n一个稍微增加§Y$mod_planet_jobs_engineering_research_produces_mult$§!的独特星球建筑。"
+tr_plentiful_cybernetics_hive_1_delayed:0 "提高生物机械学的效率。"
  
 tr_plentiful_cybernetics_2:0 "模板"
-tr_plentiful_cybernetics_2_desc:0 "§Y$mod_planet_pops_robotics_upkeep_mult$§!减少§G-10%§!.\n当星球上机械人口数量达到§Y5§!/§Y9§!/§Y13§!/§Y17§!时,星球上的机器人建造成本减少§G-2.5%§!并且建造速度提高§G+5%§!.\n这个效果可以叠加§Y4§!次,最高是拥有§Y17§!个机械人口时机器人建造成本减少§G-10%§!并且建造速度提高§G+20%§."
+tr_plentiful_cybernetics_2_desc:0 "§Y$mod_planet_pops_robotics_upkeep_mult$§!减少§G-10%§!。\n当星球上机械人口数量达到10/25/50/120时，星球上的§Y$mod_planet_jobs_robotic_produces_mult$§!增加§G+2.5%§!并且§Y$MOD_POP_ASSEMBLY_SPEED$§!提高§G+5%§!。\n这个效果可以叠加§Y4§!次，最高效果是拥有§Y120§!个机械人口时§Y$mod_planet_jobs_robotic_produces_mult$§!减少§G-10%§!并且§Y$MOD_POP_ASSEMBLY_SPEED$§!提高§G+20%§。"
 tr_plentiful_cybernetics_2_delayed:0 "我们需要进一步研究来提高自动化和量子链能力."
  
 tr_plentiful_cybernetics_hive_2:0 "纽带"
-tr_plentiful_cybernetics_hive_2_desc:0 "§Y$MOD_POP_HOUSING_USAGE_MULT$§!减少§G-25%§!."
+tr_plentiful_cybernetics_hive_2_desc:0 "§Y$MOD_POP_HOUSING_USAGE_MULT$§!减少§G-25%§!。"
 tr_plentiful_cybernetics_hive_2_delayed:0 "我们的人民已经学会了满足于一点…满足……多么有趣的一个词啊."
 
 tr_plentiful_cybernetics_3:0 "奇点"
-tr_plentiful_cybernetics_3_desc:0 "§Y$MOD_POP_ASSEMBLY_SPEED$§!增加§G+15%§!."
-tr_plentiful_cybernetics_3_delayed:0 "计算开始成形并质疑我们的目的.我们的一些科学家不确定是否应该进一步推动这一进程."
+tr_plentiful_cybernetics_3_desc:0 "§Y$MOD_PLANET_POP_ASSEMBLY_MULT$§!增加§G+15%§!."
+tr_plentiful_cybernetics_3_delayed:0 "计算器开始成形并质疑我们的目的。我们的一些科学家不确定是否应该进一步推动这一进程。"
 
-tr_plentiful_cybernetics_hive_3:0 "群众运动"
-tr_plentiful_cybernetics_hive_3_desc:0 "§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!增加§G15%§!."
-tr_plentiful_cybernetics_hive_3_delayed:0 "我们在浩瀚宇宙中的人口流动是无限的!"
+tr_plentiful_cybernetics_hive_3:0 "聚集活动"
+tr_plentiful_cybernetics_hive_3_desc:0 "§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!增加§G15%§!。"
+tr_plentiful_cybernetics_hive_3_delayed:0 "我们在浩瀚宇宙中的人口流动是无限的！"
 
 tr_plentiful_cybernetics_4:0 "深度学习"
-tr_plentiful_cybernetics_4_desc:1 "£engineering  §Y工程研究§!产出增加§G+15%§!."
+tr_plentiful_cybernetics_4_desc:1 "§Y$mod_planet_jobs_engineering_research_produces_mult$§!增加§G+15%§!。"
 tr_plentiful_cybernetics_4_delayed:0 "宇宙仍然拥有太多的未知变量."
 
 tr_plentiful_cybernetics_5:0 "贾扎里发条"
-tr_plentiful_cybernetics_5_desc:0 "§H解锁星球法令:§!$plentiful_traditions_adaptive_foundry_1$\n该法令使星球的£engineering §Y工程研究§!产出永久增加§G+5%§!.\n这个效果最多叠加§Y10§次,最高效果增加§G+50%§!."
+tr_plentiful_cybernetics_5_desc:0 "§H解锁决策：§!$plentiful_traditions_adaptive_foundry_1$\n该决策使星球的§Y$mod_planet_jobs_engineering_research_produces_mult$§!增加§G+5%§!。\n这个效果最多叠加§Y10§次，最高效果增加§G+50%§!。"
 tr_plentiful_cybernetics_5_delayed:0 "随着我们继续提高我们的集体能力,我们计算出其他帝国有很高的几率将我们视为威胁.我们需要更多的能量和能源,但是该怎么做?"
 
 # Cybernetics buildings
@@ -166,7 +166,7 @@ building_plentiful_traditions_cybernetics_facility_desc:0 "控制论设施有助
 
 # Cybernetics edicts
 plentiful_traditions_adaptive_foundry_1:0 "§Y自适应铸造§!"
-plentiful_traditions_adaptive_foundry_1_desc:1 "这个行星法令促进了星球的 §Y工程设施§! .每增加一次使用.永久增加星球的 £engineering  §Y工程§! 产出 §G+5%§! \n\n" #at the cost of §R-10%§! §YHabitability§!, £minerals  §YMinerals§! and £food  §Y食物§! 
+plentiful_traditions_adaptive_foundry_1_desc:1 "该决策提高了星球上§Y工程设施§!的效率，§Y$mod_planet_jobs_engineering_research_produces_mult$§!增加§G+5%§!。\n\n" #at the cost of §R-10%§! §YHabitability§!, £minerals  §YMinerals§! and £food  §Y食物§! 
 plentiful_traditions_adaptive_foundry_2:0 "$plentiful_traditions_adaptive_foundry_1$"
 plentiful_traditions_adaptive_foundry_2_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
 plentiful_traditions_adaptive_foundry_3:0 "$plentiful_traditions_adaptive_foundry_1$"
@@ -187,9 +187,9 @@ plentiful_traditions_adaptive_foundry_10:0 "$plentiful_traditions_adaptive_found
 plentiful_traditions_adaptive_foundry_10_desc:1 "$plentiful_traditions_adaptive_foundry_1_desc$"
 
 modifier_plentiful_traditions_adaptive_foundry_cooldown:0 "铸造工程的冷却时间"
-modifier_plentiful_traditions_adaptive_foundry_cooldown_desc:1 "我们的星球需要一点时间休息."
+modifier_plentiful_traditions_adaptive_foundry_cooldown_desc:1 "我们的星球需要一点时间休息。"
 modifier_plentiful_traditions_adaptive_foundry_1:0 "自适应铸造等级1/10"
-modifier_plentiful_traditions_adaptive_foundry_1_desc:1 "这个星球的£engineering  §Y工程研究§!产出得到提升."
+modifier_plentiful_traditions_adaptive_foundry_1_desc:1 "这个星球的§Y$mod_planet_jobs_engineering_research_produces_mult$§!得到提升。"
 modifier_plentiful_traditions_adaptive_foundry_2:0 "自适应铸造等级2/10"
 modifier_plentiful_traditions_adaptive_foundry_2_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
 modifier_plentiful_traditions_adaptive_foundry_3:0 "自适应铸造等级3/10"
@@ -210,7 +210,7 @@ modifier_plentiful_traditions_adaptive_foundry_10:0 "自适应铸造等级10/10"
 modifier_plentiful_traditions_adaptive_foundry_10_desc:1 "$modifier_plentiful_traditions_adaptive_foundry_1_desc$"
 
 modifier_plentiful_traditions_blockchain_1:0 "量子区块链等级 1/4"
-modifier_plentiful_traditions_blockchain_1_desc:1 "我们在星球上使用量子链技术在机器和机器人之间来回传输数据."
+modifier_plentiful_traditions_blockchain_1_desc:1 "我们在星球上使用区块链技术在机器和机器人之间来回传输数据。"
 modifier_plentiful_traditions_blockchain_2:0 "量子区块链等级 2/4"
 modifier_plentiful_traditions_blockchain_2_desc:1 "$modifier_plentiful_traditions_blockchain_1_desc$"
 modifier_plentiful_traditions_blockchain_3:0 "量子区块链等级 3/4"
@@ -220,154 +220,162 @@ modifier_plentiful_traditions_blockchain_4_desc:1 "$modifier_plentiful_tradition
 
 # Cybernetic Blueprints
 tech_plentiful_traditions_cybernetics_construct_amplifiers:0 "构造放大器"
-tech_plentiful_traditions_cybernetics_construct_amplifiers_desc:0 "构造技术的进步使我们的机器人和机器可以采用先进的蓝图来利用更有效的部件."
+tech_plentiful_traditions_cybernetics_construct_amplifiers_desc:0 "构造技术的进步使我们的机器人和机器可以采用先进的蓝图来利用更有效的部件。"
 
 trait_plentiful_traditions_robot_supercharged_drills:0 "增压式钻头"
-trait_plentiful_traditions_robot_supercharged_drills_desc:0 "§L安装具有实验钻井系统的机器人,我们能用没有矿物的能量来做什么?§!\n"
+trait_plentiful_traditions_robot_supercharged_drills_desc:0 "§L安装具有实验钻井系统的机器人，我们能用没有矿物的能量来做什么？§!\n"
 trait_plentiful_traditions_robot_backup_batteries:0 "备用电池"
-trait_plentiful_traditions_robot_backup_batteries_desc:0 "§L如果你可以用电池作为手臂,谁又会使用那种钻头手臂呢?§!\n"
+trait_plentiful_traditions_robot_backup_batteries_desc:0 "§L如果你可以用电池作为手臂，谁又会使用那种钻头手臂呢？§!\n"
 trait_plentiful_traditions_robot_underclocked_processors:0 "降频处理器"
 trait_plentiful_traditions_robot_underclocked_processors_desc:0 "§L01100101 01110010 01110010 01101111 01110010§!\n"
 trait_plentiful_traditions_robot_blockchain_enthusiasts:0 "区域链爱好者"
-trait_plentiful_traditions_robot_blockchain_enthusiasts_desc:0 "§L量子区域链固件.§!\n"
+trait_plentiful_traditions_robot_blockchain_enthusiasts_desc:0 "§L量子区域链固件。§!\n"
 
 #####################
 # BIOGENESIS
 #####################
 
 tradition_plentiful_biogenesis:0 "生物合成"
-tradition_plentiful_biogenesis_desc:0 "任何生物体都可以变得更好,我们应不惜一切代价去价追求完美."
+tradition_plentiful_biogenesis_desc:0 "任何生物体都可以变得更好,我们应不惜一切代价去价追求完美。"
 tr_plentiful_biogenesis_adopt:0 "生物合成传统"
 tr_plentiful_biogenesis_adopt_desc:0 "$tradition_plentiful_biogenesis_desc$\n\n$tr_plentiful_biogenesis_adopt_effect$\n\n$tr_plentiful_biogenesis_finish_effect$"
-tr_plentiful_biogenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_biology_research_speed_mult$§!增加§G+20%§!."
+tr_plentiful_biogenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$mod_category_biology_research_speed_mult$§!增加§G+20%§!。"
 
 tr_plentiful_biogenesis_finish:0 "生物合成传统完成"
-tr_plentiful_biogenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_biogenesis_adopt$使我们的§Y$species_trait_points_add$§!§G+3§!\n并且§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!减少§G-20%§!.\n\n"
+tr_plentiful_biogenesis_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_biogenesis_adopt$使我们的§Y$species_trait_points_add$§!§G+3§!\n并且§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!减少§G-20%§!。\n\n"
  
 tr_plentiful_biogenesis_1:0 "基因组学"
-tr_plentiful_biogenesis_1_desc:0 "§Y$mod_planet_pops_organics_food_upkeep_mult$§!减少§G-15%§!并且§Y$mod_planet_livestock_food_produces_mult$§!增加§G+20%§!."
-tr_plentiful_biogenesis_1_delayed:0 "特化后的人口会有更好的消费效率.注射激素不会伤害任何人."
+tr_plentiful_biogenesis_1_desc:0 "§Y$mod_planet_pops_organics_food_upkeep_mult$§!减少§G-15%§!并且§Y$mod_planet_livestock_food_produces_add$§!增加§G+6§!。"
+tr_plentiful_biogenesis_1_delayed:0 "特化后的人口会有更好的消费效率。注射激素不会伤害任何人。"
  
 tr_plentiful_biogenesis_2:0 "气候化"
-tr_plentiful_biogenesis_2_desc:0 "§Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!和§Y$MOD_COUNTRY_CLEAR_BLOCKER_COST_MULT$§!减少§G-20%§!."
-tr_plentiful_biogenesis_2_delayed:0 "环境也一样,能够根据我们的需求进行改变,使用一些...“帮助“."
+tr_plentiful_biogenesis_2_desc:0 "§Y$MOD_PLANET_CLEAR_BLOCKER_TIME_MULT$§!和§Y$MOD_COUNTRY_CLEAR_BLOCKER_COST_MULT$§!减少§G-20%§!。"
+tr_plentiful_biogenesis_2_delayed:0 "环境也一样,能够根据我们的需求进行改变,使用一些...“帮助“。"
  
-tr_plentiful_biogenesis_3:0 "痛苦的基因"
-tr_plentiful_biogenesis_3_desc:0 "§H解锁战争诉求:§!§Y基因灾害§!\n§Y10§!年内对方帝国的£pops 人口§Y$MOD_POP_GROWTH_SPEED$§!和§Y$MOD_POP_FOOD_MULT$§!减少§R-15%§!."
+tr_plentiful_biogenesis_3:0 "局部$PLANETVIEW_TERRAFORM$"
+tr_plentiful_biogenesis_3_desc:0 "§H解锁决策：§!$plentiful_traditions_partial_terraforming$\n该决策使§Y$mod_planet_jobs_food_produces_mult$§!增加§G+10%§!。"
 tr_plentiful_biogenesis_3_delayed:0 "我们改进基因能力的技术可以用于进攻和防御."
  
 tr_plentiful_biogenesis_4:0 "嫁接实验室"
-tr_plentiful_biogenesis_4_desc:1 "§H解锁建筑:§!£building $building_plentiful_traditions_biogenesis_lab$\n一个能增加星球 £society §Y社会研究§!产出的独特星球建筑."
-tr_plentiful_biogenesis_4_delayed:0 "我们的公民正在考虑他们是否想要或需要进一步升级他们的细胞."
+tr_plentiful_biogenesis_4_desc:1 "§H解锁建筑：§!£building£$building_plentiful_traditions_biogenesis_lab$\n一个稍微增加星球§Y$mod_planet_jobs_society_research_produces_mult$§!的独特星球建筑。\n\n建造该建筑需要£physics£§M$tech_basic_science_lab_3$§!科技和£engineering£§M$tech_mine_exotic_gases$§!科技。"
+tr_plentiful_biogenesis_4_delayed:0 "我们的公民正在考虑他们是否想要或需要进一步升级他们的细胞。"
 
 tr_plentiful_biogenesis_5:0 "激素治疗"
-tr_plentiful_biogenesis_5_desc:0 "£society §Y社会研究§!产出增加§G+15%§!."
-tr_plentiful_biogenesis_5_delayed:0 "给我们的公民一个清新的基因浴是完美的关键."
+tr_plentiful_biogenesis_5_desc:0 "§Y$mod_planet_jobs_society_research_produces_mult$§!增加§G+15%§!。"
+tr_plentiful_biogenesis_5_delayed:0 "给我们的公民一个清新的基因浴是完美的关键。"
 
 # Biogenesis buildings
 building_plentiful_traditions_biogenesis_lab:0 "生物实验室"
-building_plentiful_traditions_biogenesis_lab_desc:0 "实验室的大型玻璃容器中装着那些看起来不像活着的生物体,好像每个都是为了特定的目的而制作的."
+building_plentiful_traditions_biogenesis_lab_desc:0 "实验室的大型玻璃容器中装着那些看起来不像活着的生物体，好像每个都是为了特定的目的而制作的。"
 
 # Biogenesis war demands
-casus_belli_cb_pt_inflicted_genes:1 "§Y基因灾害§!"
-plentiful_traditions_inflicted_genes:1 "§Y基因灾害§!"
-war_goal_plentiful_traditions_inflicted_genes:1 "§H基因灾害§!"
-war_goal_plentiful_traditions_inflicted_genes_desc:2 "我们的生物工程师将尝试在敌人边界释放要施加的生物基因,使对方帝国§Y10§!年内£food $tile_resource_food_mult$减少§R-15%§!并且$MOD_POP_GROWTH_SPEED$减少§R-15%§!."
-war_goal_plentiful_traditions_inflicted_genes_header:1 "§H基因灾害§!"
+casus_belli_cb_pt_inflicted_genes:1 "§Y施加§!"
+plentiful_traditions_inflicted_genes:1 "§Y施加§!"
+war_goal_plentiful_traditions_inflicted_genes:1 "§H施加§!"
+war_goal_plentiful_traditions_inflicted_genes_desc:2 "我们的生物工程师将尝试在敌人边界释放要施加的生物基因，使对方帝国§Y10§!年内$mod_planet_jobs_food_produces_mult$减少§R-15%§!并且$MOD_POP_GROWTH_SPEED$减少§R-15%§!。"
+war_goal_plentiful_traditions_inflicted_genes_header:1 "§H施加§!"
 war_goal_plentiful_traditions_inflicted_genes_subtext:0 "[parameter:country.GetName]"
 war_goal_plentiful_traditions_inflicted_genes_tooltip_header:0 "$war_goal_plentiful_traditions_inflicted_genes_header$"
-war_goal_plentiful_traditions_inflicted_genes_tooltip_content:2 "我们的生物工程师将尝试在[parameter:country.GetName]的某处释放要施加的生物基因,使对方帝国§Y10§!年内£food $tile_resource_food_mult$减少§R-15%§!并且$MOD_POP_GROWTH_SPEED$减少§R-15%§!."
+war_goal_plentiful_traditions_inflicted_genes_tooltip_content:2 "我们的生物工程师将尝试在[parameter:country.GetName]的某处释放要施加的生物基因，使对方帝国§Y10§!年内$mod_planet_jobs_food_produces_mult$减少§R-15%§!并且$MOD_POP_GROWTH_SPEED$减少§R-15%§!。"
 war_goal_plentiful_traditions_inflicted_genes_tooltip_proper_header:0 "$war_goal_plentiful_traditions_inflicted_genes_header$"
 war_goal_plentiful_traditions_inflicted_genes_tooltip_proper_content:1 "$war_goal_plentiful_traditions_inflicted_genes_tooltip_content$"
-war_goal_plentiful_traditions_inflicted_genes_no_planets:1 "所有帝国的行星都将被割让."
-modifier_plentiful_traditions_inflicted_genes:0 "基因灾害"
-modifier_plentiful_traditions_inflicted_genes_desc:0 "在我们的帝国内有遗传至害的迹象,破坏了我们的£food $tile_resource_food_mult$供应和减少我们的人口$MOD_POP_GROWTH_SPEED$."
+war_goal_plentiful_traditions_inflicted_genes_no_planets:1 "所有帝国的行星都将被割让。"
+modifier_plentiful_traditions_inflicted_genes:0 "施加"
+modifier_plentiful_traditions_inflicted_genes_desc:0 "在我们的帝国内有遗传至害的迹象，$mod_planet_jobs_food_produces_mult$和人口$MOD_POP_GROWTH_SPEED$减少了。"
+
+modifier_plentiful_traditions_partial_terraforming:0 "局部$PLANETVIEW_TERRAFORM$"
+modifier_plentiful_traditions_partial_terraforming_desc:1 "星球上的由§Y$mod_planet_jobs_food_produces_mult$§!增加§G+10%§!。"
+
+plentiful_traditions_partial_terraforming:0 "§G$modifier_plentiful_traditions_partial_terraforming$§!"
+plentiful_traditions_partial_terraforming_desc:1 "星球上的由§Y$mod_planet_jobs_food_produces_mult$§!增加§G+10%§!并且有机会获得一定量的§G$food$§!。\n\n"
+plentiful_traditions_partial_terraforming_effects_short:1 "星球上的由§Y$mod_planet_jobs_food_produces_mult$§!增加§G+10%§!并且有机会获得一定量的§G$food$§!。\n\n"
+
 
 #####################
-# FAITH
+# FAITH / House of Prayer, dedicated to my old cat Foopie, may you rest in peace floof <3
 #####################
 
 tradition_plentiful_faith:0 "信仰"
-tradition_plentiful_faith_desc:0 "信念是我们前进的动力.真理就在那里,我们必须努力追寻正确的道路."
+tradition_plentiful_faith_desc:0 "信念是我们前进的动力。真理就在那里，我们必须努力追寻正确的道路。"
 tr_plentiful_faith_adopt:0 "信仰传统"
 tr_plentiful_faith_adopt_desc:0 "$tradition_plentiful_faith_desc$\n\n$tr_plentiful_faith_adopt_effect$\n\n$tr_plentiful_faith_finish_effect$"
-tr_plentiful_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们最近征服,殖民的星球上的人口§Y10§!年内£happiness  §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!并且§Y$MOD_PLANET_UNREST_ADD$§!减少§G-50§!."
+tr_plentiful_faith_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n我们最近征服，殖民的星球上的人口§Y10§!年内£happiness£§Y$MOD_POP_HAPPINESS$§!增加§G+5%§!并且§Y$MOD_PLANET_STABILITY_ADD$§!增加§G+5§!。"
 
 tr_plentiful_faith_finish:0 "信仰传统完成"
-tr_plentiful_faith_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_faith_adopt$使我们的§Y$mod_country_influence_produces_mult$§!§G+1§!.\n\n§H解锁建筑:§!£building $building_plentiful_traditions_house_of_prayer$\n一个能生产£unity §Y凝聚力§!,提高§Y$mod_pop_ethic_spiritualist_attraction_mult$§!并增加§Y影响力§!的独特帝国建筑.\n\n"
+tr_plentiful_faith_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_faith_adopt$使我们的§Y$mod_country_base_influence_produces_add$§!§G+1§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_house_of_prayer$\n一个能生产£unity£§Y凝聚力§!，提高§Y$mod_pop_ethic_spiritualist_attraction_mult$§!的独特帝国建筑。\n\n"
  
 tr_plentiful_faith_1:0 "心灵的力量"
-tr_plentiful_faith_1_desc:0 "§Y$MOD_PLANET_SENSOR_RANGE_ADD$§!和§Y$MOD_SHIP_SENSOR_RANGE_ADD$§!增加§G+2§!."
-tr_plentiful_faith_1_delayed:0 "控制精神,心灵的力量."
+tr_plentiful_faith_1_desc:0 "§Y$MOD_PLANET_SENSOR_RANGE_ADD$§!和§Y$MOD_SHIP_SENSOR_RANGE_ADD$§!增加§G+2§!。"
+tr_plentiful_faith_1_delayed:0 "控制精神，心灵的力量。"
  
 tr_plentiful_faith_2:0 "觉醒到来"
-tr_plentiful_faith_2_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+25%§!."
-tr_plentiful_faith_2_delayed:0 "突破限制,我们的觉醒只是一个开始."
+tr_plentiful_faith_2_desc:0 "§Y$MOD_COUNTRY_EDICT_LENGTH_MULT$§!增加§G+25%§!。"
+tr_plentiful_faith_2_delayed:0 "突破限制，我们的觉醒只是一个开始。"
  
 tr_plentiful_faith_3:0 "赦免"
-tr_plentiful_faith_3_desc:0 "£influence §Y$mod_edicts_cost_mult$§!减少§G-15%§!."
-tr_plentiful_faith_3_delayed:0 "依靠赦免和真理的安慰来生活."
+tr_plentiful_faith_3_desc:0 "§Y$mod_edicts_cost_mult$§!减少§G-15%§!。"
+tr_plentiful_faith_3_delayed:0 "依靠赦免和真理的安慰来生活。"
  
 tr_plentiful_faith_4:0 "贡献"
-tr_plentiful_faith_4_desc:0 "每当£building §Y$building_holotemple$§!或者§Y$building_system_conflux$§!在帝国内建立,\n我们将获得等于每月£unity §Y凝聚力§!产出§Y2§!倍的£unity §Y凝聚力§!奖励.\n这个效果每个星球只适用一次.\n此外§Y$mod_planet_jobs_minerals_produces_mult$§!增加§G10%§!."
-tr_plentiful_faith_4_delayed:0 "要为真理做出贡献的想法使人们聚集在一起."
+tr_plentiful_faith_4_desc:0 "每当£building£§Y$building_holotemple$§!或者£building£§Y$building_system_conflux$§!在帝国内建立，\n我们将获得等于$mod_country_unity_produces_mult$产出§Y2§!倍的£unity£§Y凝聚力§!。\n这个效果每个星球只适用一次。\n此外§Y$mod_planet_jobs_minerals_produces_mult$§!增加§G+10%§!。"
+tr_plentiful_faith_4_delayed:0 "要为真理做出贡献的想法使人们聚集在一起。"
  
 tr_plentiful_faith_5:0 "启蒙之路"
-tr_plentiful_faith_5_desc:1 "防御战争时,我们每月£influence  §Y影响力§!增加§G+0.5§!."
-tr_plentiful_faith_5_delayed:0 "我们需要了解自身的本质,宇宙的真实以及生命存在的目的和意义.这是一条被称为启蒙之路的旅程."
+tr_plentiful_faith_5_desc:1 "防御战争时，我们§Y$mod_country_influence_produces_mult$§!增加§G+0.5§!。"
+tr_plentiful_faith_5_delayed:0 "我们需要了解自身的本质，宇宙的真实以及生命存在的目的和意义。这是一条被称为启蒙之路的旅程。"
 
 # Faith Swapped
 tradition_plentiful_faith_machine:0 "审理"
-tradition_plentiful_faith_machine_desc:0 "我们只为一个目标而创造,成为能回答所有问题的更强大的那一边."
+tradition_plentiful_faith_machine_desc:0 "我们只为一个目标而创造，成为能回答所有问题的更强大的那一边。"
 
 tr_plentiful_faith_adopt_machine:0 "审理传统"
 tr_plentiful_faith_adopt_machine_desc:0 "$tradition_plentiful_faith_machine_desc$\n\n$tr_plentiful_faith_adopt_machine_effect$\n\n$tr_plentiful_faith_finish_machine_effect$"
-tr_plentiful_faith_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$:§!\n我们最近征服的星球上的人口§Y10§!年内£happiness  §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!并且§Y$MOD_PLANET_UNREST_ADD$§!减少§G-50§!."
+tr_plentiful_faith_adopt_machine_effect:0 "§E$TRADITIONS_ADOPT$：§!\n我们最近征服，殖民的星球上的人口§Y10§!年内£happiness£§Y$MOD_POP_HAPPINESS$§!增加§G+5%§!并且§Y$MOD_PLANET_STABILITY_ADD$§!增加§G+5§!。"
 
 tr_plentiful_faith_finish_machine:0 "审理传统完成"
-tr_plentiful_faith_finish_machine_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_faith_adopt_machine$使我们的£influence §Y$mod_country_influence_produces_mult$§!增加§G+1§!.\n\n§H解锁建筑:§!£building  $building_plentiful_traditions_citadel_of_motion$.\n一个能生产一定£unity §Y凝聚力§!并增加§Y影响力§!的帝国建筑."
+tr_plentiful_faith_finish_machine_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_faith_adopt_machine$使我们的£influence£§Y$mod_country_base_influence_produces_add$§!增加§G+1§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_citadel_of_motion$\n一个能生产£unity£§Y$unity$§!的独特帝国建筑。"
 
 # Faith buildings
 building_plentiful_traditions_house_of_prayer:0 "教堂"
-building_plentiful_traditions_house_of_prayer_desc:0 "教堂是一个重要的精神场所,人们可以聚在一起祷告.他们是银河系已知的精神社会的主要生命力."
+building_plentiful_traditions_house_of_prayer_desc:0 "教堂是一个重要的精神场所,人们可以聚在一起祷告.他们是银河系已知的精神社会的主要生命力。"
 building_plentiful_traditions_citadel_of_motion:0 "动态堡垒"
-building_plentiful_traditions_citadel_of_motion_desc:0 "动态堡垒是处理中央集体数据的重要地点."
+building_plentiful_traditions_citadel_of_motion_desc:0 "动态堡垒是处理中央集体数据的重要地点。"
 
 modifier_plentiful_traditions_piety:0 "虔诚"
-modifier_plentiful_traditions_piety_desc:1 "这个星球上的人突然非常虔诚."
+modifier_plentiful_traditions_piety_desc:1 "这个星球上的人突然非常虔诚。"
 
 #####################
 # ORDER
 #####################
 
 tradition_plentiful_order:0 "秩序"
-tradition_plentiful_order_desc:0 "若没有秩序,便只有混乱."
+tradition_plentiful_order_desc:0 "若没有秩序,便只有混乱。"
 tr_plentiful_order_adopt:0 "秩序传统"
 tr_plentiful_order_adopt_desc:0 "$tradition_plentiful_order_desc$\n\n$tr_plentiful_order_adopt_effect$\n\n$tr_plentiful_order_finish_effect$"
-tr_plentiful_order_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y超光速引擎冷却时间§!减少§G-25%§!并且§Y$MOD_SHIP_SPEED_MULT$§!增加§G+10%§!."
+tr_plentiful_order_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_SHIP_EMERGENCY_FTL_MIN_DAYS_ADD$§!减少§G-25%§!并且§Y$MOD_SHIP_SPEED_MULT$§!增加§G+10%§!。"
 
 tr_plentiful_order_finish:0 "秩序传统完成"
-tr_plentiful_order_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_order_adopt$使我们的§Y$mod_megastructures_cost_mult$§!减少§G-15%§!并且§Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§!§G+1§!.\n\n§H解锁战争诉求:§! §Y伪旗行动§!\n§Y10§!年内对方帝国$MOD_PLANET_STABILITY_ADD$§R-15§!.\n\n§H解锁战争诉求:§!§Y破坏行动§!\n§Y10§!年内对方帝国研究速度降低§R-15%§!.\n\n"
+tr_plentiful_order_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_order_adopt$使我们的§Y$mod_megastructures_cost_mult$§!减少§G-15%§!，§Y$MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$§!§G+1§!，§Y$MOD_COUNTRY_OCCUPATION_ARMIES_ADD$§!§G+5§!。\n\n"
  
 tr_plentiful_order_1:0 "堡垒"
-tr_plentiful_order_1_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§!增加§G+15%§!,§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!减少§G-5%§!并且§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§! §G+1§!."
-tr_plentiful_order_1_delayed:0 "若只知道进攻,混乱会在拐角处等待他.我们必须依靠更强的大炮给宇宙带来秩序."
+tr_plentiful_order_1_desc:0 "§Y$MOD_SHIP_SHIELD_HP_MULT$§!增加§G+15%§!，§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!减少§G-5%§!并且§Y$MOD_COUNTRY_STARBASE_CAPACITY_ADD$§! §G+1§!。"
+tr_plentiful_order_1_delayed:0 "若只知道进攻，混乱会在拐角处等待他。我们必须依靠更强的武器给宇宙带来秩序。"
 
 tr_plentiful_order_2:0 "英勇"
-tr_plentiful_order_2_desc:0 "§Y$MOD_SHIP_ARMOR_MULT$§!和§Y$MOD_SHIP_HITPOINTS_MULT$§!增加§G+10%§!."
-tr_plentiful_order_2_delayed:0 "我们的舰队和军队是一体的,给混乱带来秩序."
+tr_plentiful_order_2_desc:0 "§Y$MOD_SHIP_ARMOR_MULT$§!和§Y$MOD_SHIP_HITPOINTS_MULT$§!增加§G+10%§!。"
+tr_plentiful_order_2_delayed:0 "我们的舰队和军队是一体的，给混乱带来秩序。"
 
 tr_plentiful_order_3:0 "征收"
-tr_plentiful_order_3_desc:0 "§Y$mod_category_voidcraft_research_speed_mult$§!增加§G+25%§!."
-tr_plentiful_order_3_delayed:0 "秩序使不幸的人团结起来,为事业而牺牲将使我们完整."
+tr_plentiful_order_3_desc:0 "§Y$mod_category_voidcraft_research_speed_mult$§!增加§G+25%§!。"
+tr_plentiful_order_3_delayed:0 "秩序使不幸的人团结起来，为事业而牺牲将使我们完整。"
 
 tr_plentiful_order_4:0 "对抗"
-tr_plentiful_order_4_desc:0 "§Y$MOD_STARBASE_MODULE_BUILD_SPEED_MULT$§!和§Y$mod_category_statecraft_research_speed_mult$§!增加§G+15%§!."
-tr_plentiful_order_4_delayed:0 "我们会用帝国铁拳欢迎任何秩序的敌人."
+tr_plentiful_order_4_desc:0 "§Y$MOD_STARBASE_MODULE_BUILD_SPEED_MULT$§!和§Y$mod_category_statecraft_research_speed_mult$§!增加§G+15%§!。"
+tr_plentiful_order_4_delayed:0 "我们会用帝国铁拳欢迎任何秩序的敌人。"
 
 tr_plentiful_order_5:0 "内部运作"
-tr_plentiful_order_5_desc:1 "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!增加§G+25%§!."
-tr_plentiful_order_5_delayed:0 "我们的工程师,机械师和其他公民祝福我们的秩序,这给帝国带来了不可思议的优势."
+tr_plentiful_order_5_desc:1 "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!增加§G+25%§!。"
+tr_plentiful_order_5_delayed:0 "我们的工程师，机械师和其他公民祝福我们的秩序，这给帝国带来了不可思议的优势。"
 
 # Order war demands
 casus_belli_cb_pt_false_flag:1 "§Y伪旗行动§!"
@@ -403,89 +411,95 @@ modifier_plentiful_traditions_sabotage_desc:0 "我们被另一个帝国蓄意破
 #####################
 
 tradition_plentiful_malice:0 "恶意"
-tradition_plentiful_malice_desc:0 "恐惧.如此肥沃的土地却是痛苦的种子.他人的苦痛就是我们的盛宴."
+tradition_plentiful_malice_desc:0 "恐惧。如此肥沃的土地却是痛苦的种子。他人的苦痛就是我们的盛宴。"
 tr_plentiful_malice_adopt:0 "恶意传统"
 tr_plentiful_malice_adopt_desc:0 "$tradition_plentiful_malice_desc$\n\n$tr_plentiful_malice_adopt_effect$\n\n$tr_plentiful_malice_finish_effect$"
-tr_plentiful_malice_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_INSULT_EFFICIENCY$§!增加§G+50%§!.\n帝国内§Y奴隶§!的£happiness §Y$MOD_POP_HAPPINESS$§!增加§G+5%§!并且他们§Y$CONSUMER_GOODS$§!开销减少§G-20%§!."
+tr_plentiful_malice_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_COUNTRY_INSULT_EFFICIENCY$§!增加§G+50%§!。\n帝国内§Y$pop_cat_slave$§!的£happiness£§Y$MOD_POP_HAPPINESS$§!增加§G+5%§!并且他们§Y$CONSUMER_GOODS$§!开销减少§G-20%§!。"
 
 tr_plentiful_malice_finish:0 "恶意传统完成"
-tr_plentiful_malice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_malice_adopt$将会§H解锁法令:§!$edict_plentiful_traditions_malicious_intent$\n该法令使我们§Y$mod_damage_vs_country_type_fallen_empire_mult$§!和§Y$mod_damage_vs_country_type_awakened_fallen_empire_mult$§!增加§G+15%§!.\n\n"
+tr_plentiful_malice_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_malice_adopt$将会§H解锁法令：§!$edict_plentiful_traditions_malicious_intent$\n该法令使我们§Y$mod_damage_vs_country_type_fallen_empire_mult$§!和§Y$mod_damage_vs_country_type_awakened_fallen_empire_mult$§!增加§G+15%§!。\n\n"
  
 tr_plentiful_malice_1:0 "绝望"
-tr_plentiful_malice_1_desc:0 "§Y$mod_pop_cat_slave_happiness$§!增加§G20%§!."
-tr_plentiful_malice_1_delayed:0 "连我们的奴隶也没有希望.多么令人振奋！"
+tr_plentiful_malice_1_desc:0 "§Y$mod_pop_cat_slave_happiness$§!增加§G20%§!。"
+tr_plentiful_malice_1_delayed:0 "连我们的奴隶也没有希望。多么令人振奋！"
  
 tr_plentiful_malice_2:0 "罪孽"
-tr_plentiful_malice_2_desc:0 "§Y$mod_rivalries_influence_produces_mult$§!增加§G+40%§!."
-tr_plentiful_malice_2_delayed:0 "我们对手的尖叫声将能被清楚大声地听到,甚至在太空中也可以."
+tr_plentiful_malice_2_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!§G+4§!。"
+tr_plentiful_malice_2_delayed:0 "我们对手的尖叫声将能被清楚大声地听到，甚至在太空中也可以。"
  
 tr_plentiful_malice_3:0 "恐惧"
-tr_plentiful_malice_3_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§!增加§G+10%§!."
-tr_plentiful_malice_3_delayed:0 "我们的奴隶似乎正努力去死,但为什么呢?死亡只不过是种痛苦的浪费罢了."
+tr_plentiful_malice_3_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§!增加§G+10%§!。"
+tr_plentiful_malice_3_delayed:0 "我们的奴隶似乎正努力去死，但为什么呢？死亡只不过是种痛苦的浪费罢了。"
  
 tr_plentiful_malice_4:0 "愤怒"
-tr_plentiful_malice_4_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!§G+4§!并且§Y$mod_planet_jobs_slave_minerals_produces_mult$§!增加§G+15%§!."
-tr_plentiful_malice_4_delayed:0 "我们会慢慢读懂他们的痛苦,一页一页地."
+tr_plentiful_malice_4_desc:0 "§Y$MOD_COUNTRY_MAX_RIVALRIES$§!§G+4§!并且§Y$mod_planet_jobs_slave_minerals_produces_mult$§!增加§G+15%§!。"
+tr_plentiful_malice_4_delayed:0 "我们会慢慢读懂他们的痛苦，一页一页地。"
  
 tr_plentiful_malice_5:0 "怨恨"
-tr_plentiful_malice_5_desc:1 "最近征服的星球上的§Y奴隶§!不再有使£happiness §Y$MOD_POP_HAPPINESS$§!减少的§Y$pop_recently_conquered$§!$MODIFIERS$.\n§H解锁建筑:§!£building $building_plentiful_traditions_advanced_slave_processing$§!"
-tr_plentiful_malice_5_delayed:0 "恶意趋使的举动,有时也会被怨恨中断."
+tr_plentiful_malice_5_desc:1 "最近征服的星球上的§Y$pop_cat_slave$§!不再有使£happiness£§Y$MOD_POP_HAPPINESS$§!减少的§Y$pop_recently_conquered$§!$MODIFIERS$。\n§H解锁建筑：§!£building£$building_plentiful_traditions_advanced_slave_processing$§!。\n建造该建筑需要£society£§M$tech_neural_implants$§!科技。"
+tr_plentiful_malice_5_delayed:0 "恶意趋使的举动，有时也会被怨恨中断。"
 
 modifier_plentiful_traditions_slave1:0 "无路可走"
 edict_plentiful_traditions_malicious_intent:0 "邪恶的企图"
-edict_plentiful_traditions_malicious_intent_desc:1 "这个法令增强我们的决心,我们将揭示我们敌人的弱点."
+edict_plentiful_traditions_malicious_intent_desc:1 "这个法令增强我们的决心，我们将揭示我们敌人的弱点。"
 
 building_plentiful_traditions_advanced_slave_processing:0 "先进奴隶处理设施"
-building_plentiful_traditions_advanced_slave_processing_desc:0 "我们的人口日常用品的需求量很高.我们可以像柠檬一样压榨奴隶来实现这些目标."
+building_plentiful_traditions_advanced_slave_processing_desc:0 "我们的人口日常用品的需求量很高。我们可以像柠檬一样压榨奴隶来实现这些目标。"
 
 advanced_defense_slave_army:0 "奴隶防御部队"
 advanced_defense_slave_army_plural:0 "奴隶防御军"
-advanced_defense_slave_army_desc:0 "在战场上为他们的主人服务的奴隶士兵."
+advanced_defense_slave_army_desc:0 "在战场上为他们的主人服务的奴隶士兵。"
 
 advanced_defense_slave_army:0 "奴隶防御部队"
 advanced_defense_slave_army_plural:0 "奴隶防御军"
-advanced_defense_slave_army_desc:0 "在战场上为他们的主人服务的奴隶士兵."
+advanced_defense_slave_army_desc:0 "在战场上为他们的主人服务的奴隶士兵。"
 
 advanced_slave_army:0 "高级奴隶部队"
 advanced_slave_army_plural:0 "高级奴隶军"
-advanced_slave_army_desc:0 "在战场上为他们的主人服务的奴隶士兵.他们通过§Y$building_plentiful_traditions_advanced_slave_processing$§!来进行专门的训练."
+advanced_slave_army_desc:0 "在战场上为他们的主人服务的奴隶士兵。他们通过§Y$building_plentiful_traditions_advanced_slave_processing$§!来进行专门的训练。"
+
+plentiful_traditions_malice_activate:0 "§H恶意：§!激活奴隶综合设施"
+plentiful_traditions_malice_activate_desc:1 "这个星球上的奴隶已经适应了该星球的环境（生成亚种）。将根据新的要求添加或删除$TRAITS$。"
+
+plentiful_traditions_malice_deactivate:0 "§H恶意：§!停用奴隶综合设施"
+plentiful_traditions_malice_deactivate_desc:1 "这个星球上的奴隶将再次变回他们的自然状态（移除亚种）。"
 
 #####################
 # ASPIRATION
 #####################
 
 tradition_plentiful_aspiration:0 "志向"
-tradition_plentiful_aspiration_desc:0 "不与他人分享,就没有成功的意义."
+tradition_plentiful_aspiration_desc:0 "不与他人分享，就没有成功的意义。"
 tr_plentiful_aspiration_adopt:0 "志向传统"
 tr_plentiful_aspiration_adopt_desc:0 "$tradition_plentiful_aspiration_desc$\n\n$tr_plentiful_aspiration_adopt_effect$\n\n$tr_plentiful_aspiration_finish_effect$"
-tr_plentiful_aspiration_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n每当有开采§Y$MONEY$§!的§Y采矿站§!在帝国内建立,我们就获得等于每月£energy §Y$MONEY$§!产出§Y0.5倍§!的£energy §Y$MONEY$§!奖励.\n这个效果每个位置只适用一次."
+tr_plentiful_aspiration_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n每当有开采§Y$MONEY$§!的§Y$mining_station$§!在帝国内建立，我们就获得等于§Y$mod_country_minerals_produces_mult$§!产出§Y0.5倍§!的£energy£§Y$MONEY$§!。\n这个效果每个位置只适用一次。"
 
 tr_plentiful_aspiration_finish:0 "志向传统完成"
-tr_plentiful_aspiration_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_aspiration_adopt$使我们£pop  人口的 £energy §Y$planet_jobs_energy_produces_multt$§!产出增加§G+5%§!.\n\n§H解锁建筑:§!£building $building_plentiful_traditions_trading_terminal$\n允许使用§Y$plentiful_traditions_plentiful_deeds$§!星球法令.\n\n"
+tr_plentiful_aspiration_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_aspiration_adopt$使我们的§Y£job£工作产出的£trade_value£$TRADE_VALUE$§!增加§G+5%§!。\n\n§H解锁建筑：§!£building£$building_plentiful_traditions_trading_terminal$\n建造该建筑的星球将会§H解锁决策：§!$plentiful_traditions_plentiful_deeds$\n\n"
  
 tr_plentiful_aspiration_1:0 "魅力"
-tr_plentiful_aspiration_1_desc:0 "£happiness  §Y$MOD_POP_OTHER_SPECIES_HAPPINESS$§!增加§G+5%§!,\n其他帝国对我们的£opinion  §Y评价§!增加§G+20§!."
-tr_plentiful_aspiration_1_delayed:0 "在充满危险的银河中,有时候一个友好的姿态和一些魅力是战争与和平之间的区别."
+tr_plentiful_aspiration_1_desc:0 "§Y$MOD_COUNTRY_BORDER_FRICTION_MULT$§!减少§G-25%§!并且其他帝国对我们的£opinion£§Y$OPINION$§!增加§G+20§!。"
+tr_plentiful_aspiration_1_delayed:0 "在充满危险的银河中，有时候一个友好的姿态和一些魅力是战争与和平之间的区别。"
   
 tr_plentiful_aspiration_2:0 "信用"
-tr_plentiful_aspiration_2_desc:1 "§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+20%§!."
-tr_plentiful_aspiration_2_delayed:0 "记住过去的投机和友善的行为,因为他们会记得你."
+tr_plentiful_aspiration_2_desc:1 "§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+20%§!。"
+tr_plentiful_aspiration_2_delayed:0 "记住过去的尝试和善行，因为他们会记得你。"
 
 tr_plentiful_aspiration_3:0 "劝说"
-tr_plentiful_aspiration_3_desc:0 "我们每控制§Y2§!种类的§Y战略资源§!,我们的§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!就会增加§G+5%§!.\n这个效果最多叠加§Y8§!次,效果最高增加§G+40%§!."
-tr_plentiful_aspiration_3_delayed:0 "做你必须做的,即使你无法获得的更大回报."
+tr_plentiful_aspiration_3_desc:0 "我们每控制§Y2§!种类的§Y$STRATEGIC_RESOURCES$§!，我们的§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!就会增加§G+5%§!。\n这个效果最多叠加§Y8§!次，效果最高增加§G+40%§!。"
+tr_plentiful_aspiration_3_delayed:0 "做你必须做的，即使你无法获得的更大回报。"
 
 tr_plentiful_aspiration_4:0 "内在价值"
-tr_plentiful_aspiration_4_desc:0 "§H解锁建筑:§!£building $building_plentiful_traditions_trading_depot$\n一个提高星球£energy §Y$MONEY$§!产出的独特星球建筑."
-tr_plentiful_aspiration_4_delayed:0 "让别人注意到你的成功并努力克服反复的失败."
+tr_plentiful_aspiration_4_desc:0 "§H解锁建筑：§!£building£$building_plentiful_traditions_trading_depot$\n一个提高§Y$mod_planet_jobs_energy_produces_mult$§!的独特星球建筑。"
+tr_plentiful_aspiration_4_delayed:0 "让别人注意到你的成功并努力克服反复的失败。"
 
 tr_plentiful_aspiration_5:0 "尽职调查"
-tr_plentiful_aspiration_5_desc:0 "我们拥有§Y1000§!/§Y2000§!/§Y4000§!/§Y8000§!/§Y16000§!/§Y32000§!的£energy §Y$MONEY$§!储存时,§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+5%§!.\n这个效果最多叠加§Y6§!次,效果最高为拥有§Y32000§! £energy §Y$MONEY$§!时增加§G+30%§!."
-tr_plentiful_aspiration_5_delayed:0 "信任和认可能为利益,远见和战略的快速增长做出贡献."
+tr_plentiful_aspiration_5_desc:0 "当我们拥有§Y1000§!/§Y2000§!/§Y4000§!/§Y8000§!/§Y16000§!/§Y32000§!点£energy£§Y$mod_country_max_resource_energy_add$§!时，§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+5%§!。\n这个效果最多叠加§Y6§!次，效果最高为拥有§Y32000§!点£energy£§Y$mod_country_max_resource_energy_add$§!时增加§G+30%§!。"
+tr_plentiful_aspiration_5_delayed:0 "信任和认可能为利益，远见和战略的快速增长做出贡献。"
 
 # Aspiration buildings
 building_plentiful_traditions_trading_terminal:0 "交易终端"
-building_plentiful_traditions_trading_terminal_desc:0 "帝国的交易终端是星际贸易的中心,为所有参与者提供了大量的商机.\n\n允许在这个星球使用§Y大量的贸易行为§!星球法令."
+building_plentiful_traditions_trading_terminal_desc:0 "帝国的交易终端是星际贸易的中心，为所有参与者提供了大量的商机。\n\n允许在这个星球使用§Y大量的贸易行为§!星球法令。"
 building_plentiful_traditions_trading_depot:0 "交易所"
 building_plentiful_traditions_trading_depot_desc:0 "帝国交易所允许在帝国之间采取统一的交易方式."
 
@@ -493,9 +507,9 @@ building_plentiful_traditions_trading_depot_desc:0 "帝国交易所允许在帝�
 triggered_opinion_tr_plentiful_aspiration_3:0 "极富魅力的吸引"
 opinion_plentiful_deeds:0 "大量的贸易活动"
 modifier_plentiful_traditions_plentiful_deeds:0 "大量的贸易活动"
-modifier_plentiful_traditions_plentiful_deeds_desc:1 "获得附近帝国对你的帝国的临时意见加成."
+modifier_plentiful_traditions_plentiful_deeds_desc:1 "获得附近帝国对你的帝国的临时意见加成。"
 plentiful_traditions_plentiful_deeds:0 "§Y大量的贸易活动§!"
-plentiful_traditions_plentiful_deeds_desc:1 "该法令派遣贸易特使到附近的帝国,这个星球上 £pops 人口幸福度§G+5%§!.\n受影响的帝国对我们的£opinion  §Y评价§!增加§G+20§!.\n\n"
+plentiful_traditions_plentiful_deeds_desc:1 "该决策派遣贸易特使到附近的帝国进行交易。该星球上£pops£人口$HAPPINESS_LABEL$增加§G+5%§!。\n受影响的帝国对我们的£opinion£§Y$OPINION$§!增加§G+20§!。\n\n"
 
 modifier_plentiful_traditions_persuasion1:0 "劝说 I"
 modifier_plentiful_traditions_persuasion2:0 "劝说 II"
@@ -518,40 +532,40 @@ modifier_plentiful_traditions_due6:0 "尽职调查 VI"
 #####################
 
 tradition_plentiful_affinity:0 "亲和"
-tradition_plentiful_affinity_desc:0 "给予是所有生命形式与生俱来的报酬."
+tradition_plentiful_affinity_desc:0 "给予是所有生命形式与生俱来的报酬。"
 tr_plentiful_affinity_adopt:0 "亲和传统"
 tr_plentiful_affinity_adopt_desc:0 "$tradition_plentiful_affinity_desc$\n\n$tr_plentiful_affinity_adopt_effect$\n\n$tr_plentiful_affinity_finish_effect$"
-tr_plentiful_affinity_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§!增加§G+100%§!."
+tr_plentiful_affinity_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_PLANET_IMMIGRATION_PULL_ADD$§!增加§G+100%§!。"
 
 tr_plentiful_affinity_finish:0 "亲和传统完成"
-tr_plentiful_affinity_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_affinity_adopt$使我们拥有的星球上的物种数量超过§Y2§!个时,每有一个物种该星球的§Y$mod_planet_jobs_produces_mult$§!增加§G+0.8%§!.\n这个效果最高叠加§Y10§!次,最高效果增加§G+8%§!.\n\n"
+tr_plentiful_affinity_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_affinity_adopt$使我们拥有的星球上的物种数量超过§Y2§!个时，每有一个物种该星球的§Y$mod_planet_jobs_produces_mult$§!增加§G+0.8%§!。\n这个效果最高叠加§Y10§!次，最高效果增加§G+8%§!。\n\n"
  
 tr_plentiful_affinity_1:0 "宽容"
-tr_plentiful_affinity_1_desc:0 "§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§!减少§G-10%§!并且 £influence §Y$MOD_COUNTRY_FACTION_INFLUENCE_ADD$§! 增加§G+1§!."
-tr_plentiful_affinity_1_delayed:0 "宽容的对待他人使我们远离敌人."
+tr_plentiful_affinity_1_desc:0 "§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§!减少§G-10%§!并且§Y$MOD_COUNTRY_FACTION_INFLUENCE_ADD$§!§G+1§!。"
+tr_plentiful_affinity_1_delayed:0 "宽容的对待他人使我们远离敌人。"
 
 tr_plentiful_affinity_2:0 "同理心的社会"
-tr_plentiful_affinity_2_desc:0 "当我们的帝国处于§G和平状态§!时,我们£pops 人口的£happiness §Y$MOD_POP_HAPPINESS$§!会增加§G+5%§!."
-tr_plentiful_affinity_2_delayed:0 "理解和分享其他物种之间的感受是我们前进的动力."
+tr_plentiful_affinity_2_desc:0 "当我们的帝国处于§G和平状态§!时，我们的人口£happiness£§Y$MOD_POP_HAPPINESS$§!增加§G+5%§!。"
+tr_plentiful_affinity_2_delayed:0 "理解和分享其他物种之间的感受是我们前进的动力。"
  
 tr_plentiful_affinity_3:0 "怜悯"
-tr_plentiful_affinity_3_desc:0 "§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!增加§G+50%§!."
-tr_plentiful_affinity_3_delayed:0 "允许那些稀少物种迁移的自由,可以打破不幸的枷锁."
+tr_plentiful_affinity_3_desc:0 "§Y$MOD_POP_GROWTH_FROM_IMMIGRATION$§!增加§G+50%§!。"
+tr_plentiful_affinity_3_delayed:0 "允许那些稀少物种迁移的自由，可以打破不幸的枷锁。"
  
 tr_plentiful_affinity_4:0 "探路者"
-tr_plentiful_affinity_4_desc:0 "我们的£physics  £society  £engineering §Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G+3%§!.\n当我们的帝国处于§G和平状态§!时效果为增加§G+6%§!."
-tr_plentiful_affinity_4_delayed:0 "新世界的发现使我们更紧密地联系在一起,让我们分享思想和知识."
+tr_plentiful_affinity_4_desc:0 "我们的§Y$MOD_COUNTRY_ALL_TECH_RESEARCH_SPEED$§!增加§G+3%§!。\n当我们的帝国处于§G和平状态§!时效果为增加§G+6%§!。"
+tr_plentiful_affinity_4_delayed:0 "新世界的发现使我们更紧密地联系在一起，让我们分享思想和知识。"
  
 tr_plentiful_affinity_5:0 "团结的激情"
-tr_plentiful_affinity_5_desc:1 "§H解锁建筑:§!£building $building_plentiful_traditions_tower_of_affinity$\n一个能生产£society §Y社会研究§!点数并且提高§Y$MOD_PLANET_MIGRATION_XENO_PULL$§!的独特星球建筑."
-tr_plentiful_affinity_5_delayed:0 "在广阔的太空里结交新朋友."
+tr_plentiful_affinity_5_desc:1 "§H解锁建筑：§!£building£$building_plentiful_traditions_tower_of_affinity$\n一个能生产£society£§Y社会研究§!点数并且提高§Y$MOD_PLANET_MIGRATION_XENO_PULL$§!的独特星球建筑。"
+tr_plentiful_affinity_5_delayed:0 "在广阔的太空里结交新朋友。"
 
 modifier_plentiful_traditions_trial:0 "反复试验"
 modifier_plentiful_traditions_pathfinder:0 "和平的探路者"
 modifier_plentiful_traditions_empathetic:0 "善解人意"
 
 modifier_plentiful_traditions_united1:0 "亲和度 1/10"
-modifier_plentiful_traditions_united1_desc:1 "这个星球上的 £pops 人口获得产出增加的$MODIFIERS$."
+modifier_plentiful_traditions_united1_desc:1 "星球上的£pops£人口获得$mod_planet_jobs_produces_mult$增加的$MODIFIERS$。"
 modifier_plentiful_traditions_united2:0 "亲和度 2/10"
 modifier_plentiful_traditions_united2_desc:1 "$modifier_plentiful_traditions_united1_desc$"
 modifier_plentiful_traditions_united3:0 "亲和度 3/10"
@@ -573,49 +587,49 @@ modifier_plentiful_traditions_united10_desc:1 "$modifier_plentiful_traditions_un
 
 # Experimentalism buildings
 building_plentiful_traditions_tower_of_affinity:0 "亲和之塔"
-building_plentiful_traditions_tower_of_affinity_desc:0 "一个广播塔,向附近的帝国发送安慰和积极的信号,慢慢吸引他们的公民来到我们的帝国."
+building_plentiful_traditions_tower_of_affinity_desc:0 "一个广播塔，向附近的帝国发送安慰和积极的信号，慢慢吸引他们的公民来到我们的帝国。"
 
 #####################
 # EXPERIMENTALISM
 #####################
 
 tradition_plentiful_experimentalism:0 "实验主义"
-tradition_plentiful_experimentalism_desc:0 "真理在于实验和经验主义. 只有这样,我们才能够充分认识宇宙."
+tradition_plentiful_experimentalism_desc:0 "真理在于实验和经验主义。只有这样，我们才能够充分认识宇宙。"
 tr_plentiful_experimentalism_adopt:0 "实验主义的传统"
 tr_plentiful_experimentalism_adopt_desc:0 "$tradition_plentiful_experimentalism_desc$\n\n$tr_plentiful_experimentalism_adopt_effect$\n\n$tr_plentiful_experimentalism_finish_effect$"
-tr_plentiful_experimentalism_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n当我们的帝国处于§G和平状态§!时,我们的§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!会增加§G+10%§!,但是处于§R战争状态§!时会减少§R-15%§!."
+tr_plentiful_experimentalism_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n当我们的帝国处于§G和平状态§!时，我们的§Y$MOD_COUNTRY_PHYSICS_TECH_RESEARCH_SPEED$§!会增加§G+10%§!，但是处于§R战争状态§!时会减少§R-15%§!。"
 
 tr_plentiful_experimentalism_finish:0 "实验主义传统完成"
-tr_plentiful_experimentalism_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_experimentalism_adopt$使我们的§Y科学家领导§!在§Y等级提升§!时获得等于每月£energy §Y$MONEY$§!产出§Y1§!倍的$MONEY$.\n\n"
+tr_plentiful_experimentalism_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_experimentalism_adopt$使我们的§Y$leader_scientists$§!在§Y等级提升§!时获得等于$mod_country_base_energy_produces_add$§Y1§!倍的$MONEY$。\n\n"
  
 tr_plentiful_experimentalism_1:0 "知识守护者"
-tr_plentiful_experimentalism_1_desc:0 "§H解锁建筑:§!£building $building_plentiful_traditions_experimental_weapons_facility$\n一个能增加星球£physics §Y物理研究§!产出的独特星球建筑."
-tr_plentiful_experimentalism_1_delayed:0 "我们的帝国需要记录和分析所有已知事实."
+tr_plentiful_experimentalism_1_desc:0 "§H解锁建筑：§!£building£$building_plentiful_traditions_experimental_weapons_facility$\n一个稍微增加星球§Y$mod_planet_jobs_physics_research_produces_mult$§!的独特星球建筑。\n建造该建筑需要£engineering£§M$tech_mine_rare_crystals$§!科技。"
+tr_plentiful_experimentalism_1_delayed:0 "我们的帝国需要记录和分析所有已知事实。"
  
 tr_plentiful_experimentalism_2:0 "实验与错误"
-tr_plentiful_experimentalism_2_desc:0 "每当我们的§Y科学家领导§!的§Y等级提升§!时,我们的§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!会在§Y10§!年内增加§G+10%§!.\n§Y$MOD_LEADER_SKILL_LEVELS$§!§G+1§!."
-tr_plentiful_experimentalism_2_delayed:0 "指导经验主义是真正理解的方式之一."
+tr_plentiful_experimentalism_2_desc:0 "每当我们的§Y$leader_scientists$§!的§Y等级提升§!时，§Y$MOD_LEADER_SPECIES_EXP_GAIN$§!会在§Y10§!年内增加§G+10%§!。\n§Y$MOD_LEADER_SKILL_LEVELS$§!§G+1§!。"
+tr_plentiful_experimentalism_2_delayed:0 "指导经验主义是真正理解的方式之一。"
  
 tr_plentiful_experimentalism_3:0 "光学测序"
-tr_plentiful_experimentalism_3_desc:0 "§Y$ASSIST_RESEARCH_ORDER$§!使星球的£physics §Y物理研究§!产出增加§G+10%§!."
-tr_plentiful_experimentalism_3_delayed:0 "在一系列细致的运动中绘制恒星,就像它们是宇宙宏伟设计的细节一样."
+tr_plentiful_experimentalism_3_desc:0 "§Y$ASSIST_RESEARCH_ORDER$§!使星球§Y$mod_planet_jobs_physics_research_produces_mult$§!增加§G+10%§!。"
+tr_plentiful_experimentalism_3_delayed:0 "在一系列细致的运动中绘制恒星，就像它们是宇宙宏伟设计的细节一样。"
  
 tr_plentiful_experimentalism_4:0 "花拉子密的概念"
-tr_plentiful_experimentalism_4_desc:0 "我们的£building §Y$building_research_lab_3$§!自动升级到£building §Y$building_plentiful_traditions_university_of_wisdom$§!.\n这相比原来能生产更多的£physics §Y物理研究§!点数."
-tr_plentiful_experimentalism_4_delayed:0 "数学家、天文学家、地理学家、物理学家和化学家.他们把我们团结在一起,是我们进步的关键."
+tr_plentiful_experimentalism_4_desc:0 "我们的£building£§Y$building_research_lab_3$§!自动升级到£building£§Y$building_plentiful_traditions_university_of_wisdom$§!。\n\n需要£physics£§M$tech_basic_science_lab_3$§!科技。"
+tr_plentiful_experimentalism_4_delayed:0 "数学家、天文学家、地理学家、物理学家和化学家。他们把我们团结在一起，是我们进步的关键。"
  
 tr_plentiful_experimentalism_5:0 "重复查询"
-tr_plentiful_experimentalism_5_desc:1 "§Y$MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$§!§G+1§!并且§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!减少§G-15%§!."
-tr_plentiful_experimentalism_5_delayed:0 "理解选择的重要性,毕竟时间永远都是稀缺的就不需要进一步的解释."
+tr_plentiful_experimentalism_5_desc:1 "§Y$MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$§!§G+1§!并且§Y$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$§!减少§G-15%§!。"
+tr_plentiful_experimentalism_5_delayed:0 "理解选择的重要性，毕竟时间永远都是稀缺的就不需要进一步的解释。"
 
 # Experimentalism buildings
 building_plentiful_traditions_experimental_weapons_facility:0 "实验武器工厂"
-building_plentiful_traditions_experimental_weapons_facility_desc:0 "这个实验武器的设施将极大地促进帝国工程研究的进步."
+building_plentiful_traditions_experimental_weapons_facility_desc:0 "这个实验武器的设施将极大地促进帝国工程研究的进步。"
 building_plentiful_traditions_university_of_wisdom:0 "智慧大学"
-building_plentiful_traditions_university_of_wisdom_desc:0 "一所智慧大学将大大促进我们帝国物理学的进步."
+building_plentiful_traditions_university_of_wisdom_desc:0 "一所智慧大学将大大促进我们帝国物理学的进步。"
 
 modifier_plentiful_traditions_sequence:0 "光学镜头"
-modifier_plentiful_traditions_sequence_desc:1 "我们的星球获得增加£physics  §Y物理研究§!产出增加的$MODIFIERS$."
+modifier_plentiful_traditions_sequence_desc:1 "我们的星球获得$mod_planet_jobs_physics_research_produces_mult$增加的$MODIFIERS$。"
 modifier_plentiful_traditions_undertaking_positive:0 "重点承诺"
 modifier_plentiful_traditions_undertaking_negative:0 "不着边际的承诺"
 modifier_plentiful_traditions_undertaking_trial:0 "实验与错误"
@@ -625,34 +639,34 @@ modifier_plentiful_traditions_undertaking_trial:0 "实验与错误"
 #####################
 
 tradition_plentiful_mutagenesis:0 "诱变"
-tradition_plentiful_mutagenesis_desc:0 "比起关心他人,我们更热衷于追求新发现的遗传物质."
-#其他生物只是我们集体走向完美的基石.
+tradition_plentiful_mutagenesis_desc:0 "比起关心他人，我们更热衷于追求新发现的遗传物质。"
+#Other living organisms are nothing but building blocks towards the perfection of our collective.
 tr_plentiful_mutagenesis_adopt:0 "诱变传统"
 tr_plentiful_mutagenesis_adopt_desc:0 "$tradition_plentiful_mutagenesis_desc$\n\n$tr_plentiful_mutagenesis_adopt_effect$\n\n$tr_plentiful_mutagenesis_finish_effect$"
-tr_plentiful_mutagenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_GROWTH_SPEED$§!增加§G+20%§!."
+tr_plentiful_mutagenesis_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_POP_GROWTH_SPEED$§!增加§G+20%§!。"
 
 tr_plentiful_mutagenesis_finish:0 "诱变传统完成"
-tr_plentiful_mutagenesis_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_mutagenesis_adopt$使我们在清洗异族£pop 人口时获得的£food §Y食物§!增加. 由殖民地数量引起的§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§!减少§G-15%§!.\n\n"
+tr_plentiful_mutagenesis_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_mutagenesis_adopt$使我们在$POP_ACTION_PURGE$$pop_xenos$时获得的$food$增加§G+15%§!。\n§Y$MOD_TRADITION_COST_EMPIRE_SIZE_MULT$§!减少§G-15%§!。\n\n"
 
 tr_plentiful_mutagenesis_1:0 "泛滥"
-tr_plentiful_mutagenesis_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+10%§!."
-tr_plentiful_mutagenesis_1_delayed:0 "其他世界只是一个值得等待的有意思的突变."
+tr_plentiful_mutagenesis_1_desc:0 "§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+10%§!。"
+tr_plentiful_mutagenesis_1_delayed:0 "其他世界只是一个值得等待的有意思的突变。"
 
 tr_plentiful_mutagenesis_2:0 "地穴"
-tr_plentiful_mutagenesis_2_desc:0 "§Y$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$§! 减少§G-25%§! 并且§Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!§G+10§!."
-tr_plentiful_mutagenesis_2_delayed:0 "我们的防御地穴可以使那些进入的威胁短暂地停止机能."
+tr_plentiful_mutagenesis_2_desc:0 "§Y$MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$§!减少§G-25%§!并且§Y$MOD_COUNTRY_ADMIN_CAP_ADD$§!§G+10§!。"
+tr_plentiful_mutagenesis_2_delayed:0 "我们的防御地穴可以使那些进入的威胁短暂地停止机能。"
 
 tr_plentiful_mutagenesis_3:0 "诱变生长"
-tr_plentiful_mutagenesis_3_desc:0 "§Y$MOD_SHIP_HULL_REGEN_ADD_PERC$§!和§Y$MOD_SHIP_ARMOR_REGEN_ADD_PERC$§!增加§G+1.0%§!."
-tr_plentiful_mutagenesis_3_delayed:0 "我们添加到舰船的精心调制的突变剂给予舰船不同的再生能力."
+tr_plentiful_mutagenesis_3_desc:0 "§Y$MOD_SHIP_HULL_REGEN_ADD_PERC$§!和§Y$MOD_SHIP_ARMOR_REGEN_ADD_PERC$§!增加§G+1.0%§!。"
+tr_plentiful_mutagenesis_3_delayed:0 "我们添加到舰船的精心调制的突变剂给予舰船不同的再生能力。"
 
 tr_plentiful_mutagenesis_4:0 "疫病"
-tr_plentiful_mutagenesis_4_desc:0 "§H解锁建筑:§!£building $building_plentiful_traditions_pillar_of_affliction$\n一个增加星球£food §Y食物§!产出的独特星球建筑."
-tr_plentiful_mutagenesis_4_delayed:0 "没有必要让其他人浪费那个地方的能源和生长资源,反正他们总会成为集体的原料."
+tr_plentiful_mutagenesis_4_desc:0 "§H解锁建筑：§!£building£$building_plentiful_traditions_pillar_of_affliction$\n一个增加星球§Y$mod_planet_jobs_food_produces_mult$§!的独特星球建筑。"
+tr_plentiful_mutagenesis_4_delayed:0 "没有必要让其他人浪费那个地方的能源和生长资源，反正他们总会成为集体的原料。"
 
 tr_plentiful_mutagenesis_5:0 "育种池"
-tr_plentiful_mutagenesis_5_desc:1 "§Y$MOD_POP_FOOD_MULT$§!增加§G+15%§!."
-tr_plentiful_mutagenesis_5_delayed:0 "银河系的能量来源是为了使我们的帝国蓬勃发展而存在的,占有这些能量我们就能找到将集体变得更加完美的方法."
+tr_plentiful_mutagenesis_5_desc:1 "§Y$MOD_POP_FOOD_MULT$§!增加§G+15%§!。"
+tr_plentiful_mutagenesis_5_delayed:0 "银河系的能量来源是为了使我们的帝国蓬勃发展而存在的，占有这些能量我们就能找到将集体变得更加完美的方法。"
 
 # Mutagenesis buildings
 building_plentiful_traditions_pillar_of_affliction:0 "灾难之柱"
@@ -663,120 +677,120 @@ building_plentiful_traditions_pillar_of_affliction_desc:0 "这个能吸收附近
 #####################
 
 tradition_plentiful_industry:0 "工业"
-tradition_plentiful_industry_desc:0 "我们必须专注于开采,提取,运输以及原料加工上的技巧,不浪费精力和材料完成这些工作是十分高雅的."
+tradition_plentiful_industry_desc:0 "我们必须专注于开采、提取、运输以及原料加工上的技巧。不浪费精力和材料完成这些工作是十分高雅的。"
 tr_plentiful_industry_adopt:0 "工业传统"
 tr_plentiful_industry_adopt_desc:0 "$tradition_plentiful_industry_desc$\n\n$tr_plentiful_industry_adopt_effect$\n\n$tr_plentiful_industry_finish_effect$"
-tr_plentiful_industry_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$mod_category_industry_research_speed_mult$§!增加§G+15%§!.\n\n§H解锁太空基地模块:§!$sm_orbital_fracking_cannon$\n一个能生产£minerals §Y矿物§!的模块."
+tr_plentiful_industry_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$mod_category_industry_research_speed_mult$§!增加§G+15%§!。\n\n§H解锁$starbase_modules$：§!$sm_orbital_fracking_cannon$\n一个能生产£minerals£§Y$minerals$§!的模块。"
 
 tr_plentiful_industry_finish:0 "工业传统完成"
-tr_plentiful_industry_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_industry_adopt$将§H解锁星球法令:§!$plentiful_traditions_ionized_excavation$\n星球的£minerals §Y矿物§!产出§G+10%§!并且§Y矿场§!有几率生产额外的矿物.\n\n§H解锁星球法令:§!$plentiful_traditions_harvest_erupt$\n引爆星球内部的炸药,摧毁殖民地和星球表面使星球内部矿物£minerals §Y矿物§!积淀裸露出来.\n\n"
+tr_plentiful_industry_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_industry_adopt$将§H解锁$decisions$：§!$plentiful_traditions_ionized_excavation$\n星球的§Y$mod_planet_jobs_minerals_produces_mult$§!增加§G+10%§!并且矿场有几率生产额外的$minerals$。\n\n§H解锁$decisions$：§!$plentiful_traditions_harvest_erupt$\n引爆星球内部的炸药，摧毁殖民地和星球表面使星球内部矿物积淀裸露出来。\n\n"
 
 tr_plentiful_industry_1:0 "磁流体挖掘"
-tr_plentiful_industry_1_desc:0 "§Y$mod_station_gatherers_cost_mult$§!减少§G-15%§!."
-tr_plentiful_industry_1_delayed:0 "我们的工程师和物理学家已经提出了新的规划,应该能让我们的矿产收获更具成本效益."
+tr_plentiful_industry_1_desc:0 "§Y$mod_station_gatherers_cost_mult$§!减少§G-15%§!。"
+tr_plentiful_industry_1_delayed:0 "我们的工程师和物理学家已经提出了新的规划，应该能让我们的矿产收获更具成本效益。"
 
 tr_plentiful_industry_2:0 "多功能货舱"
-tr_plentiful_industry_2_desc:0 "§Y$shipclass_colonizer_build_cost_mult$§!减少§G-20%§!."
-tr_plentiful_industry_2_delayed:0 "工业化殖民地的船舶可能不具备所有最新功能,但是付出越多回报越多."
+tr_plentiful_industry_2_desc:0 "§Y$mod_ship_colonizer_cost_mult$§!减少§G-20%§!。"
+tr_plentiful_industry_2_delayed:0 "工业化殖民地的船舶可能不具备所有最新功能，但是付出越多回报越多。"
 
 tr_plentiful_industry_3:0 "晶体引导系统"
-tr_plentiful_industry_3_desc:0 "§Y$MOD_POP_RESETTLEMENT_COST_MULT$§!减少§G-30%§!."
-tr_plentiful_industry_3_delayed:0 "用于重新安置人口的舰船不需要附带漂亮的房间,冷冻室,美味的食物和最新的娱乐设施."
+tr_plentiful_industry_3_desc:0 "§Y$MOD_POP_RESETTLEMENT_COST_MULT$§!减少§G-30%§!并且$district_mining$的$MOD_PLANET_HOUSING_ADD$和$mod_job_miner_add$§G+1§!。"
+tr_plentiful_industry_3_delayed:0 "用于重新安置人口的舰船不需要附带漂亮的房间、冷冻室、美味的食物和最新的娱乐设施。"
 
 tr_plentiful_industry_4:0 "光束聚焦冶金"
-tr_plentiful_industry_4_desc:0 "§Y$mod_station_gatherers_minerals_produces_mult$§!增加§G+10%§!并且§H解锁建筑:§!£building $building_plentiful_traditions_purification_facility$\n一个能增加星球£minerals §Y矿物§!产出的独特星球建筑."
-tr_plentiful_industry_4_delayed:0 "使用特殊钻头的聚焦光束将矿物加热切割,这种提取方式在其他领域的成本相对昂贵."
+tr_plentiful_industry_4_desc:0 "§Y$mod_station_gatherers_minerals_produces_mult$§!增加§G+10%§!并且§H解锁建筑：§! £building£$building_plentiful_traditions_purification_facility$\n一个能增加星球§Y$mod_planet_jobs_minerals_produces_mult$§!的独特星球建筑。"
+tr_plentiful_industry_4_delayed:0 "使用特殊钻头的聚焦光束将矿物加热切割，这种提取方式在其他领域的成本相对昂贵。"
 
 tr_plentiful_industry_5:0 "创新会计学"
-tr_plentiful_industry_5_desc:1 "§H解锁法令:§!$edict_plentiful_traditions_industrial_goods$\n该法令使我们£pops 人口§Y$CONSUMER_GOODS$§!开销减少§G-20%§!."
-tr_plentiful_industry_5_delayed:0 "正确的会计师即使在太空也是非常有用的.那些运输珍贵矿物和贸易的货船必须“认真地”审核,收费."
+tr_plentiful_industry_5_desc:1 "§H解锁法令:§!$edict_plentiful_traditions_industrial_goods$\n该法令使我们£pops£人口§Y$CONSUMER_GOODS$§!减少§G-20%§!。"
+tr_plentiful_industry_5_delayed:0 "正确的会计师即使在太空也是非常有用的。那些运输珍贵矿物和贸易的货船必须“认真地”审核，收费。"
 
 # Industry buildings
 building_plentiful_traditions_purification_facility:0 "精炼设备"
-building_plentiful_traditions_purification_facility_desc:0 "精炼设备能提高星球整体的矿物产出."
+building_plentiful_traditions_purification_facility_desc:0 "精炼设备能提高星球整体的矿物产出。"
 
 sm_orbital_fracking_cannon:0 "轨道压裂轰击"
 
 tech_plentiful_traditions_orbital_fracking_cannon:0 "轨道压裂轰击"
-tech_plentiful_traditions_orbital_fracking_cannon_desc:0 "轨道压裂技术的进步在理论上可以提高我们星球上矿物网络的矿物产出.轨道压裂轰击需要一整个太空港模块来保证能有效地覆盖整个星球."
+tech_plentiful_traditions_orbital_fracking_cannon_desc:0 "轨道压裂技术的进步在理论上可以提高我们星球上矿物网络的产出。轨道压裂轰击需要一整个太空港模块来保证能有效地覆盖整个星球。"
 
 # Industry edicts
 edict_plentiful_traditions_industrial_goods:0 "工业制品"
-edict_plentiful_traditions_industrial_goods_desc:1 "该法令减少了在我们帝国的星球上运输日常消费品的低效率物流."
+edict_plentiful_traditions_industrial_goods_desc:1 "该法令减少了在我们帝国的星球上运输日常消费品的低效率物流。"
 
 plentiful_traditions_ionized_excavation:0 "§R离子化开采§!"
-plentiful_traditions_ionized_excavation_desc:1 "该法令提升§Y矿场§!的开采效率,星球的£minerals §Y矿物§!产出增加§G+10%§!并且§Y矿场§!有几率生产额外的矿物.\n\n"
-plentiful_traditions_ionized_excavation_effects_short:1 "该法令提升§Y矿场§!的开采效率,星球的£minerals §Y矿物§!产出增加§G+10%§!并且§Y矿场§!有几率生产额外的矿物.\n\n"
+plentiful_traditions_ionized_excavation_desc:1 "该决策提高矿场的开采效率。星球的§Y$mod_planet_jobs_minerals_produces_mult$§!增加§G+10%§!并且矿场有几率生产额外的$minerals$。\n\n"
+plentiful_traditions_ionized_excavation_effects_short:1 "星球的$mod_planet_jobs_minerals_produces_mult$增加§G+10%§!并且§Y矿场§!有几率生产额外的$minerals$。\n\n"
 
 
-plentiful_traditions_harvest_erupt:0 "§R星球喷发§!"
-plentiful_traditions_harvest_erupt_desc:1 "该法令会将我们的星球从内部引爆,摧毁殖民地和星球.这使得我们的采矿船能开采更多矿物,通常深埋核心的许多矿物质变得更容易获得.\n能够获得的 £minerals  §Y矿物§!数量取决于星球的§Y大小§!以及我们工程师的能力.我们的工程师将在§Y2§!年内准备就绪.\n\n§R警告§!:这将摧毁殖民地!"
-plentiful_traditions_harvest_erupt_effects_short:1 "摧毁星球以获取更多的£minerals  §Y矿物§! .\n\n"
+plentiful_traditions_harvest_erupt:0 "§R星球爆发§!"
+plentiful_traditions_harvest_erupt_desc:1 "该决策会将我们的星球从内部引爆，摧毁殖民地和星球。这使得我们的采矿船能开采更多矿物，通常深埋核心的许多矿物质变得更容易获得。\n能够获得的§Y$minerals$§!数量取决于星球的§Y大小§!以及我们工程师的能力。我们的工程师将在§Y2§!年内将炸药安装完毕。\n\n§R警告§!：这将摧毁殖民地！"
+plentiful_traditions_harvest_erupt_effects_short:1 "摧毁星球以获取更多的§Y$minerals$§!。\n\n"
 
-plentiful_traditions_harvest_pedict.1.title:0 "星球喷发"
-plentiful_traditions_harvest_pedict.1.desc:0 "随着我们对§Y[From.GetName]§!殖民地人口的疏散,我们的工程师精心准备了能引爆整个星球的设备.我们希望这个星球上露出的大量 £minerals  §Y矿物§!沉积物,我们可以用它来进一步扩大我们的帝国."
-plentiful_traditions_harvest_pedict.1.a:0 "引爆§Y大型§!星球来获得 £minerals §Y矿物§!!!"
-plentiful_traditions_harvest_pedict.1.b:0 "引爆§Y中型§!星球来获得 £minerals §Y矿物§!!!"
-plentiful_traditions_harvest_pedict.1.c:0 "引爆§Y小型§!星球来获得 £minerals §Y矿物§!!!"
-plentiful_traditions_harvest_pedict.1.d:0 "离开.让§Y[From.GetName]§!保持原样."
+plentiful_traditions_harvest_pedict.1.title:0 "星球爆发"
+plentiful_traditions_harvest_pedict.1.desc:0 "随着我们对§Y[From.GetName]§!殖民地人口的疏散，我们的工程师精心准备了能引爆整个星球的设备。我们希望这个星球上露出的大量 §Y$minerals$§!沉积物，我们可以用它来进一步扩大我们的帝国。"
+plentiful_traditions_harvest_pedict.1.a:0 "引爆§Y大型§!星球来获得§Y$minerals$§!！！"
+plentiful_traditions_harvest_pedict.1.b:0 "引爆§Y中型§!星球来获得§Y$minerals$§!！！"
+plentiful_traditions_harvest_pedict.1.c:0 "引爆§Y小型§!星球来获得§Y$minerals$§!！！"
+plentiful_traditions_harvest_pedict.1.d:0 "离开。让§Y[From.GetName]§!保持原样。"
 
 modifier_plentiful_traditions_ionized_excavation:0 "离子化开采"
-modifier_plentiful_traditions_ionized_excavation_desc:1 "你的星球暂时得到 £minerals  §Y矿物§!产出增加的$MODIFIERS$."
+modifier_plentiful_traditions_ionized_excavation_desc:1 "该星球暂时得到§Y$minerals$§!产出增加的$MODIFIERS$。"
 
 plentiful_traditions_harvest_pedict.4.title:0 "§Y[From.GetName]§星球已引爆"
-plentiful_traditions_harvest_pedict.4.desc:0 "我们的殖民地连同§Y[From.GetName]§!一起被摧毁,那些裸露的矿物现在是我们的了！"
-plentiful_traditions_harvest_pedict.4.a:0 "真棒!"
+plentiful_traditions_harvest_pedict.4.desc:0 "我们的殖民地连同§Y[From.GetName]§!一起被摧毁，那些裸露的矿物现在是我们的了！"
+plentiful_traditions_harvest_pedict.4.a:0 "真棒！"
 
 #####################
 # Kleptocracy
 #####################
 
 tradition_plentiful_kleptocracy:0 "窃盗统治"
-tradition_plentiful_kleptocracy_desc:0 "我们的商业伙伴”确信“以任何方式这么做会使商业更加频繁有效."
+tradition_plentiful_kleptocracy_desc:0 "我们的商业伙伴”确信“以任何方式这么做会使商业更加频繁有效。"
 tr_plentiful_kleptocracy_adopt:0 "窃盗统治传统"
 tr_plentiful_kleptocracy_adopt_desc:0 "$tradition_plentiful_kleptocracy_desc$\n\n$tr_plentiful_kleptocracy_adopt_effect$\n\n$tr_plentiful_kleptocracy_finish_effect$"
-tr_plentiful_kleptocracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+8%§!."
+tr_plentiful_kleptocracy_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_SHIP_FIRE_RATE_MULT$§!增加§G+8%§!。"
 
 tr_plentiful_kleptocracy_finish:0 "窃盗统治传统完成"
-tr_plentiful_kleptocracy_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_kleptocracy_adopt$会使§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!增加§G+25%§!.\n\n§H解锁战争诉求:§!§Y禁运§!\n§Y10§!年内使对方帝国的人口§Y$CONSUMER_GOODS$§!的矿物开销增加§R+20%§!.\n\n"
+tr_plentiful_kleptocracy_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_kleptocracy_adopt$使我们的§Y$MOD_COUNTRY_TRADE_ATTRACTIVENESS$§!增加§G+25%§!并且§Y$MOD_PIRACY_SUPPRESSION_MULT$§!增加§G+10%§!。\n\n"
 
 tr_plentiful_kleptocracy_1:0 "编造要求"
-tr_plentiful_kleptocracy_1_desc:0 "§Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§!减少§G-10%§!并且§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!增加§G+20§!."
-tr_plentiful_kleptocracy_1_delayed:0 "许多帝国往往不得不忍受在冲突时期时比别人更多的严厉制裁."
+tr_plentiful_kleptocracy_1_desc:0 "§Y$MOD_COUNTRY_CLAIM_INFLUENCE_COST_MULT$§!减少§G-10%§!并且§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!增加§G+20§!。"
+tr_plentiful_kleptocracy_1_delayed:0 "在冲突时期，许多帝国不得不忍受严厉的制裁。而有的国家所受的制裁要更多一点。"
 
 tr_plentiful_kleptocracy_2:0 "高利贷行动"
-tr_plentiful_kleptocracy_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+10%§!.\n\n§H解锁太空基地模块:§! $sm_orbital_trading_beacon$\n一个能生产 £energy §Y$MONEY$§!的模块."
-tr_plentiful_kleptocracy_2_delayed:0 "有时,违法的情况是必要的.......并且有效"
+tr_plentiful_kleptocracy_2_desc:0 "§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+10%§!。\n\n§H解锁$starbase_modules$：§! $sm_orbital_trading_beacon$\n一个能生产£energy£§Y$MONEY$§!的模块。"
+tr_plentiful_kleptocracy_2_delayed:0 "有时，违法的情况是必要的...而且是有效的。"
 
 tr_plentiful_kleptocracy_3:0 "无谋的贪欲"
-tr_plentiful_kleptocracy_3_desc:0 "§H解锁星球法令:§!$plentiful_traditions_overcharge$\n星球的 £energy §Y$MONEY$§!产出§G+10%§!并且§Y能源设施§!有几率生产额外的 £energy §Y$MONEY$§!."
-tr_plentiful_kleptocracy_3_delayed:0 "仔细地检测能源生产以及物流可以保持帝国的稳定.但是,星球上电厂短暂的超负荷运作并不总是被注意到."
+tr_plentiful_kleptocracy_3_desc:0 "§H解锁$decisions$：§!$plentiful_traditions_overcharge$\n星球的§Y$mod_planet_jobs_energy_produces_mult$§!增加§G+10%§!并且能源设施有几率生产额外的£energy£§Y$MONEY$§!。"
+tr_plentiful_kleptocracy_3_delayed:0 "仔细地检测能源生产以及物流可以保持帝国的稳定。但是，星球上电厂短暂的超负荷运作并不总是被注意到。"
 
 tr_plentiful_kleptocracy_4:0 "同案犯"
-tr_plentiful_kleptocracy_4_desc:0 "§Y$mod_diplomacy_influence_cost_mult$§!减少§G-15%§!并且§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+15%§!.\n其他帝国对我们的 £opinion  §Y评价§!增加§G+10§!."
-tr_plentiful_kleptocracy_4_delayed:0 "交易协议并不总是需要正式化才能使其有效.有时候你需要一些信用去说服那些合适的人."
+tr_plentiful_kleptocracy_4_desc:0 "§Y$mod_diplomacy_upkeep_mult$§!减少§G-15%§!并且§Y$MOD_COUNTRY_TRUST_GROWTH$§!增加§G+15%§!。\n此外，其他帝国对我们的£opinion£§Y$OPINION$§!增加§G+10§!。"
+tr_plentiful_kleptocracy_4_delayed:0 "交易协议并不总是需要正式化才能使其有效。有时候你需要一些信用去说服那些合适的人。"
 
-tr_plentiful_kleptocracy_5:0 "不祥的运营商"
-tr_plentiful_kleptocracy_5_desc:1 "§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§!增加§G+15%§!.\n\n§H解锁建筑:§! £building $building_plentiful_traditions_syndicate_quarters$\n一个独特的星球建筑,能为帝国提供更多的§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!."
-tr_plentiful_kleptocracy_5_delayed:0 "遵循手续是很好,但开展业务时最好“在桌子下”进行,在那些没有信用记录的地方."
+tr_plentiful_kleptocracy_5:0 "不详的操作者"
+tr_plentiful_kleptocracy_5_desc:1 "§Y$MOD_STARBASE_SHIPYARD_BUILD_SPEED_MULT$§!增加§G+15%§!。\n\n§H解锁建筑：§! £building£$building_plentiful_traditions_syndicate_quarters$\n一个能为帝国提供更多的§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!的独特星球建筑。"
+tr_plentiful_kleptocracy_5_delayed:0 "遵循手续是很好,但开展业务时最好“在桌子下”进行，在那些没有信用记录的地方。"
 
 # Kleptocracy buildings
 building_plentiful_traditions_syndicate_quarters:0 "联合宿舍"
-building_plentiful_traditions_syndicate_quarters_desc:0 "联合宿舍会增加帝国海军的容量."
+building_plentiful_traditions_syndicate_quarters_desc:0 "联合宿舍会增加$MOD_COUNTRY_NAVAL_CAP_ADD$。"
 
 sm_orbital_trading_beacon:0 "轨道交易信标"
 
 tech_plentiful_traditions_orbital_trading_beacon:0 "轨道交易信标"
-tech_plentiful_traditions_orbital_trading_beacon_desc:0 "交易技术的进步使得我们能够更有效地处理我们的发电网络产生的能源."
+tech_plentiful_traditions_orbital_trading_beacon_desc:0 "交易技术的进步使得我们能够更有效地处理我们的发电网络产生的能源。"
 
 # Kleptocracy edicts
 triggered_opinion_tr_plentiful_kleptocracy_4:0 "窃国大盗"
 plentiful_traditions_overcharge:0 "§Y超载§!"
-plentiful_traditions_overcharge_desc:1 "该法令使星球的 £energy §Y$MONEY$§!产出§G+10%§!并且§Y能源设施§!有几率生产额外的 £energy §Y$MONEY$§!.\n\n"
-plentiful_traditions_overcharge_effects_short:1 "Gibt zusätzliche £energy  §YEnergiefelder§! frei und gibt einen vorübergehenden §G+10%§! Bonus auf ihre Energieproduktion.\n\n"
+plentiful_traditions_overcharge_desc:1 "该决策使星球上的§Y$mod_planet_jobs_energy_produces_mult$§!增加§G+10%§!并且能源设施有几率生产额外的£energy£§Y$MONEY$§!。\n\n"
+plentiful_traditions_overcharge_effects_short:1 "星球上的§Y$mod_planet_jobs_energy_produces_mult$§!增加§G+10%§!并且能源设施有几率生产额外的£energy£§Y$MONEY$§!。"
 
 modifier_plentiful_traditions_overcharge:0 "超载"
-modifier_plentiful_traditions_overcharge_desc:1 "你的星球获得暂时的 £energy §Y$MONEY$§!产出增加的$MODIFIERS$."
+modifier_plentiful_traditions_overcharge_desc:1 "该星球暂时得到§Y$MONEY$§!产出增加的$MODIFIERS$。"
 
 # Kleptocracy war demands
 casus_belli_cb_pt_embargo:1 "§Y禁运§!"
@@ -797,34 +811,34 @@ modifier_plentiful_traditions_embargo_desc:0 "我们的帝国受到暂时的经�
 # Anguish
 #####################
 
-tradition_plentiful_anguish:0 "痛苦"
+tradition_plentiful_anguish:0 "剧痛"
 tradition_plentiful_anguish_desc:0 "凭借精心打造的战争策略和高科技武器,我们将克服太空中的潜在的危险."
-tr_plentiful_anguish_adopt:0 "痛苦传统"
+tr_plentiful_anguish_adopt:0 "剧痛传统"
 tr_plentiful_anguish_adopt_desc:0 "$tradition_plentiful_anguish_desc$\n\n$tr_plentiful_anguish_adopt_effect$\n\n$tr_plentiful_anguish_finish_effect$"
-tr_plentiful_anguish_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n每当我们的增加§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!的§Y军事学说§!研究完成时,我们的§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!会减少§G-4%§!.\n这个效果最多叠加§Y5§!次,最多减少§G-20%§!."
+tr_plentiful_anguish_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n每当我们的增加§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!的§Y$military_theory$§!科技研究完成时，我们的§Y$MOD_STARBASE_SHIPYARD_BUILD_COST_MULT$§!就会减少§G-4%§!。\n这个效果最多叠加§Y5§!次，最多减少§G-20%§!。"
 
 tr_plentiful_anguish_finish:0 "痛苦传统完成"
-tr_plentiful_anguish_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_anguish_adopt$使我们对§Y终局危机势力§!的伤害增加§G+15%§!.\n肃清异族人口可以获得 £influence §Y影响力§!.\n\n"
+tr_plentiful_anguish_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_anguish_adopt$使我们对§Y$name_list_Prethoryn$§!、§Y$crisis.1007.name$§!、§Y$crisis.1112.name$§!和§Y$crisis.1210.name$§!的伤害增加§G+15%§!。\n$POP_ACTION_PURGE$$pop_xenos$可以获得£influence£§Y$influence$§!。\n\n"
 
 tr_plentiful_anguish_1:0 "精确校准"
-tr_plentiful_anguish_1_desc:0 "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!增加§G+10%§!."
-tr_plentiful_anguish_1_delayed:0 "远程武器在使用过程中虽然很困难,但能有效地扭转战争的趋势."
+tr_plentiful_anguish_1_desc:0 "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!增加§G+10%§!。"
+tr_plentiful_anguish_1_delayed:0 "远程武器在使用过程中虽然很困难，但能有效地扭转战争的趋势。"
 
 tr_plentiful_anguish_2:0 "空间折叠"
-tr_plentiful_anguish_2_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+8%§!."
-tr_plentiful_anguish_2_delayed:0 "了解零点场的攻击应用,使我们的武器系统保持完整,同时增加其伤害."
+tr_plentiful_anguish_2_desc:0 "§Y$MOD_SHIP_WEAPON_DAMAGE$§!增加§G+8%§!。"
+tr_plentiful_anguish_2_delayed:0 "了解零点场的攻击应用，使我们的武器系统保持完整，同时增加其伤害。"
 
 tr_plentiful_anguish_3:0 "加速战争行动"
-tr_plentiful_anguish_3_desc:0 "当我们帝国处于§R战争状态§!时,我们的§Y$country_resource_unity_mult$§!增加§G+10%§!并且我们的§Y$country_resource_influence_add$§!§G+1§!."
-tr_plentiful_anguish_3_delayed:0 "作战的简化进一步提高了我们舰队的效率,保持了士气高昂."
+tr_plentiful_anguish_3_desc:0 "当我们帝国处于§R战争状态§!时，我们的§Y$mod_country_unity_produces_mult$§!增加§G+10%§!并且我们的§Y$mod_country_base_influence_produces_add$§!§G+1§!。"
+tr_plentiful_anguish_3_delayed:0 "作战的简化进一步提高了我们舰队的效率，并且能保持士气高昂。"
 
 tr_plentiful_anguish_4:0 "军国主义的谈判"
-tr_plentiful_anguish_4_desc:0 "§Y$mod_category_military_theory_research_speed_mult$§!增加§G+20%§!并且§Y$shipclass_starbase_hull_mult$§!增加§G+50%§!."
-tr_plentiful_anguish_4_delayed:0 "运行一个军事行动的复杂性及其战略,战术和操作元素是不可能由没有经历过战争考验的将领完成的."
+tr_plentiful_anguish_4_desc:0 "§Y$mod_category_military_theory_research_speed_mult$§!增加§G+20%§!并且§Y$mod_shipclass_starbase_hull_mult$§!增加§G+50%§!。"
+tr_plentiful_anguish_4_delayed:0 "运行一个军事行动的复杂性及其战略、战术和操作是不可能由没有经历过战争考验的将领完成的。"
 
 tr_plentiful_anguish_5:0 "特殊战术"
-tr_plentiful_anguish_5_desc:1 "§Y$mod_damage_vs_country_type_fallen_empire_mult$§!和§Y$mod_damage_vs_country_type_awakened_fallen_empire_mult$§!增加§G+15%§!."
-tr_plentiful_anguish_5_delayed:0 "当面对更强大的对手时,我们必须采取特殊的策略来保持领先地位."
+tr_plentiful_anguish_5_desc:1 "§Y$mod_damage_vs_country_type_fallen_empire_mult$§!和§Y$mod_damage_vs_country_type_awakened_fallen_empire_mult$§!增加§G+15%§!。"
+tr_plentiful_anguish_5_delayed:0 "当面对更强大的对手时，我们必须采取特殊的策略来保持领先地位。"
 
 modifier_plentiful_traditions_enraged:0 "恼羞成怒"
 modifier_plentiful_traditions_enraged_desc:0 "清理入侵者"
@@ -839,130 +853,130 @@ modifier_plentiful_traditions_doctrine5:0 "海军学说 V"
 #####################
 
 tradition_plentiful_defence:0 "防御"
-tradition_plentiful_defence_desc:0 "你不能相信任何人.绝对不能！掩体是躲避敌人的唯一方法."
+tradition_plentiful_defence_desc:0 "你不能相信任何人，绝对不能！掩体是躲避敌人的唯一方法。"
 tr_plentiful_defence_adopt:0 "防御传统"
 tr_plentiful_defence_adopt_desc:0 "$tradition_plentiful_defence_desc$\n\n$tr_plentiful_defence_adopt_effect$\n\n$tr_plentiful_defence_finish_effect$"
-tr_plentiful_defence_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n$MOD_STARBASE_DEFENSE_PLATFORM_CAPACITY_ADD$：§G+3§!."
+tr_plentiful_defence_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n$MOD_STARBASE_DEFENSE_PLATFORM_CAPACITY_ADD$：§G+3§!."
 
 tr_plentiful_defence_finish:0 "防御传统完成"
-tr_plentiful_defence_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_defence_adopt$将使我们的§Y$MOD_ARMY_STARTING_EXPERIENCE_ADD$§!§G+100§!. \n§Y$mod_planet_structures_cost_mult$§!减少§G-10%§!.\n§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!增加§G+10%§!.\n\n"
+tr_plentiful_defence_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_defence_adopt$将使我们的§Y$MOD_ARMY_STARTING_EXPERIENCE_ADD$§!增加§G+100§!。\n§Y$mod_planet_structures_cost_mult$§!减少§G-10%§!并且§Y$MOD_PLANET_BUILDING_BUILD_SPEED_MULT$§!增加§G+10%§!。\n\n"
 
 tr_plentiful_defence_1:0 "厚重的装甲板"
-tr_plentiful_defence_1_desc:0 "§Y$MOD_SHIP_HULL_ADD$§!增加.\n护卫舰§G+100§!,驱逐舰§G+200§!,巡洋舰§G+500§!,战列舰§G+800§!,防御平台§G+500§!."
-tr_plentiful_defence_1_delayed:0 "为了防御敌人的攻击,我们将在舰船和防御平台上附加装甲板."
+tr_plentiful_defence_1_desc:0 "$mod_shipsize_corvette_hull_mult$增加§G+100§!\n$mod_shipsize_destroyer_hull_mult$增加§G+200§!\n$mod_shipsize_cruiser_hull_mult$增加§G+500§!\n$mod_shipsize_battleship_hull_mult$增加§G+800§!\n$mod_shipsize_military_station_small_hull_mult$增加§G+500§!。"
+tr_plentiful_defence_1_delayed:0 "为了防御敌人的攻击，我们将在舰船和防御平台上附加装甲板。"
 
 tr_plentiful_defence_2:0 "纵深作战"
-tr_plentiful_defence_2_desc:0 "§Y$MOD_ARMY_DEFENSE_MORALE_MULT$§!增加§G+20%§!."
-tr_plentiful_defence_2_delayed:0 "纵深作战 (俄语: Глубокая операция, glubokaya operatsiya), 也称大纵深作战理论,这是苏联在20世纪20年代和30年代为其武装力量开发的军事理论.该宗旨强调摧毁、镇压和瓦解敌军,不是在接触线,而是在整个战场."
+tr_plentiful_defence_2_desc:0 "§Y$MOD_ARMY_DEFENSE_MORALE_MULT$§!增加§G+20%§!。"
+tr_plentiful_defence_2_delayed:0 "纵深作战 (俄语: Глубокая операция, glubokaya operatsiya),，也称大纵深作战理论。这是苏联在20世纪20年代和30年代为其武装力量开发的军事理论。该宗旨强调摧毁、镇压和瓦解敌军，不是在接触线，而是在整个战场。"
 
 tr_plentiful_defence_3:0 "自适应材料补给"
-tr_plentiful_defence_3_desc:0 "§Y$mod_category_materials_research_speed_mult$§!增加§G+20%§!."
-tr_plentiful_defence_3_delayed:0 "腹地的物资补给使我们能够最好地为军队提供补给."
+tr_plentiful_defence_3_desc:0 "§Y$mod_category_materials_research_speed_mult$§!增加§G+20%§!。"
+tr_plentiful_defence_3_delayed:0 "腹地的物资补给使我们能够最好地为军队提供补给。"
 
 tr_plentiful_defence_4:0 "基因选择"
-tr_plentiful_defence_4_desc:0 "§Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§!增加§G+20%§!并且§Y$MOD_ARMY_DEFENSE_DAMAGE_MULT$§!增加§G+20%§!."
-tr_plentiful_defence_4_delayed:0 "选择正确的军队,没有敌人能伤害我们."
+tr_plentiful_defence_4_desc:0 "§Y$MOD_ARMY_DEFENSE_HEALTH_MULT$§!增加§G+20%§!并且§Y$MOD_ARMY_DEFENSE_DAMAGE_MULT$§!增加§G+20%§!。"
+tr_plentiful_defence_4_delayed:0 "选择正确的军队，没有敌人能伤害我们。"
 
 tr_plentiful_defence_5:0 "困境战术"
-tr_plentiful_defence_5_desc:1 "§H解锁建筑 :§! £building $building_plentiful_traditions_zitadom$."
-tr_plentiful_defence_5_delayed:0 "没有人能占领这座更强更坚固的堡垒."
+tr_plentiful_defence_5_desc:1 "§H解锁建筑：§!£building£$building_plentiful_traditions_zitadom$\n$building_fortress$的升级版，能够驻扎更多的军队。"
+tr_plentiful_defence_5_delayed:0 "没有人能占领这座更强更坚固的堡垒。"
 
 # Defence buildings
 building_plentiful_traditions_zitadom:0 "巨型堡垒"
-building_plentiful_traditions_zitadom_desc:0 "这是能想象的最强大的堡垒."
+building_plentiful_traditions_zitadom_desc:0 "这是能想象的最强大的堡垒。"
 
 #####################
 # Assault
 #####################
 
 tradition_plentiful_assault:0 "进攻"
-tradition_plentiful_assault_desc:0 "进攻是最好的防御."
+tradition_plentiful_assault_desc:0 "进攻是最好的防御。"
 tr_plentiful_assault_adopt:0 "进攻传统"
 tr_plentiful_assault_adopt_desc:0 "$tradition_plentiful_assault_desc$\n\n$tr_plentiful_assault_adopt_effect$\n\n$tr_plentiful_assault_finish_effect$"
-tr_plentiful_assault_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_SHIP_HULL_DAMAGE_MULT$§!和§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+10%§!,\n§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!增加§G+10§!."
+tr_plentiful_assault_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_SHIP_HULL_DAMAGE_MULT$§!和§Y$MOD_COUNTRY_NAVAL_CAP_MULT$§!增加§G+10%§!,\n§Y$MOD_COUNTRY_NAVAL_CAP_ADD$§!增加§G+10§!。"
 
 tr_plentiful_assault_finish:0 "进攻传统完成"
-tr_plentiful_assault_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_assault_adopt$将使我们的§Y$MOD_SHIP_SHIELD_DAMAGE_MULT$§!增加§G+10%§!并且§Y$mod_ships_upkeep_mult$§!减少§G-10%§!.\n\n"
+tr_plentiful_assault_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_assault_adopt$使我们的§Y$MOD_SHIP_SHIELD_DAMAGE_MULT$§!增加§G+10%§!并且§Y$mod_ships_upkeep_mult$§!减少§G-10%§!。\n\n"
 
 tr_plentiful_assault_1:0 "通往胜利的攻势"
-tr_plentiful_assault_1_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!增加§G+15%§!."
-tr_plentiful_assault_1_delayed:0 "我们必须在一个巨大的钳子攻势中包围敌人,然后将其击破."
+tr_plentiful_assault_1_desc:0 "§Y$MOD_SHIP_SPEED_MULT$§!增加§G+15%§!。"
+tr_plentiful_assault_1_delayed:0 "我们的攻势像一个巨大的钳子。包围敌人，然后将其击破。"
 
 tr_plentiful_assault_2:0 "改进植入物"
-tr_plentiful_assault_2_desc:0 "§Y$MOD_ARMY_ATTACK_MORALE_MULT$§!和§Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§!增加§G+20%§!."
-tr_plentiful_assault_2_delayed:0 "使用植入物,我们能够更好地协调我们的部队."
+tr_plentiful_assault_2_desc:0 "§Y$MOD_ARMY_ATTACK_MORALE_MULT$§!和§Y$MOD_ARMY_ATTACK_DAMAGE_MULT$§!增加§G+20%§!。"
+tr_plentiful_assault_2_delayed:0 "允许使用植入物，我们能够更好地协调我们的部队。"
 
 tr_plentiful_assault_3:0 "领袖学院"
-tr_plentiful_assault_3_desc:0 "§Y$MOD_COUNTRY_LEADER_POOL_SIZE$§!§G+1§!并且§Y$MOD_COUNTRY_COMMAND_LIMIT_ADD$§!增加§G+20§!."
-tr_plentiful_assault_3_delayed:0 "领导学院是中央最高军事培训中心,对所有参谋人员,将军和舰队司令进行进一步的培训和高级培训."
+tr_plentiful_assault_3_desc:0 "§Y$MOD_COUNTRY_LEADER_POOL_SIZE$§!§G+1§!并且§Y$MOD_COUNTRY_COMMAND_LIMIT_ADD$§!增加§G+20§!。"
+tr_plentiful_assault_3_delayed:0 "领袖学院是中央最高军事培训中心，对所有参谋人员、$general$和$admiral$进行进一步的培训和高级培训。"
 
 tr_plentiful_assault_4:0 "前线领导"
 tr_plentiful_assault_4_desc:0 "§Y$MOD_LEADER_SKILL_LEVELS$§!§G+1§!并且§Y$MOD_LEADER_RULER_SKILL_LEVELS$§!§G+1§!."
-tr_plentiful_assault_4_delayed:0 "领袖前往前线是所有领导形式中最古老的一种:指挥官积极地参与前线的战斗,他的命令将直接传递给他手下的人."
+tr_plentiful_assault_4_delayed:0 "领袖前往前线指挥是所有领导形式中最古老的一种：指挥官积极地参与前线的战斗，他的命令将直接传递给他手下的人。"
 
 tr_plentiful_assault_5:0 "闪电战"
-tr_plentiful_assault_5_desc:1 "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!增加§G+20%§!,\n§Y$mod_ships_upkeep_mult$§!减少§G-10%§!,\n§Y$MOD_SHIP_SPEED_MULT$§!增加§G+15%§!."
-tr_plentiful_assault_5_delayed:0 "引导他们,不要污蔑他们!"
+tr_plentiful_assault_5_desc:1 "§Y$MOD_SHIP_WEAPON_RANGE_MULT$§!增加§G+20%§!并且§Y$mod_ships_upkeep_mult$§!减少§G-10%§!。\n此外§Y$MOD_SHIP_SPEED_MULT$§!增加§G+15%§!。"
+tr_plentiful_assault_5_delayed:0 "引导他们，不要污蔑他们！"
 
 #####################
 # Transformation
 #####################
 
 tradition_plentiful_transformation:0 "变化"
-tradition_plentiful_transformation_desc:0 "停滞意味着倒退.我们必须适应现在并跟上未来."
+tradition_plentiful_transformation_desc:0 "停滞意味着倒退，我们必须适应现在并跟上未来。"
 tr_plentiful_transformation_adopt:0 "变化传统"
 tr_plentiful_transformation_adopt_desc:0 "$tradition_plentiful_transformation_desc$\n\n$tr_plentiful_transformation_adopt_effect$\n\n$tr_plentiful_transformation_finish_effect$"
-tr_plentiful_transformation_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!减少§G-5%§!."
+tr_plentiful_transformation_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_COUNTRY_MODIFY_SPECIES_COST_MULT$§!减少§G-5%§!。\n获得§G$tech_climate_restoration$§!科技并且随着$tr_plentiful_transformation_adopt$的完成会获得§G$tech_terrestrial_sculpting$§!科技。"
 
 tr_plentiful_transformation_finish:0 "变化传统完成"
-tr_plentiful_transformation_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_transformation_adopt$将使我们的§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§!减少§G-10%§!并且\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§!增加§G+10%§!.\n\n"
+tr_plentiful_transformation_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_transformation_adopt$将使我们的§Y$MOD_COUNTRY_TERRAFORMING_COST_MULT$§!减少§G-10%§!并且\n§Y$MOD_COUNTRY_TERRAFORM_SPEED_MULT$§!增加§G+10%§!。\n\n"
 
 tr_plentiful_transformation_1:0 "建设能源仓库"
-tr_plentiful_transformation_1_desc:0 "§Y$mod_country_resource_max_energy_add$§!增加§G5000§!."
-tr_plentiful_transformation_1_delayed:0 "对子孙后代来说,储备是必要的."
+tr_plentiful_transformation_1_desc:0 "§Y$mod_country_resource_max_energy_add$§!增加§G+5000§!。"
+tr_plentiful_transformation_1_delayed:0 "对子孙后代来说，储备是必要的。"
 
 tr_plentiful_transformation_2:0 "改变旧事物"
-tr_plentiful_transformation_2_desc:0 "§H解锁星球法令：§!转换法令 \n这些法令能将 £energy §Y$MONEY$§!, £minerals §Y矿物§!和 £food §Y食物§!进行相互转换."
-tr_plentiful_transformation_2_delayed:0 "我们能取得什么好处?"
+tr_plentiful_transformation_2_desc:0 "§H解锁法令：§!转换法令 \n这些法令能将 £energy£§Y$MONEY$§!、 £minerals£§Y$minerals$§!和 £food£§Y$food$§!进行相互转换。"
+tr_plentiful_transformation_2_delayed:0 "我们能取得什么好处？"
 
 tr_plentiful_transformation_3:0 "对未来的信心"
-tr_plentiful_transformation_3_desc:0 "当星球进行地貌改造时,不会出现§R降低幸福度§!的$MODIFIERS$."
-tr_plentiful_transformation_3_delayed:0 "地貌改造的过程通常会使星球上的居民很不舒服,但对未来的信心弥补了它."
+tr_plentiful_transformation_3_desc:0 "进行$TERRAFORM_TITLE$时，不会出现§R降低幸福度§!的$MODIFIERS$。"
+tr_plentiful_transformation_3_delayed:0 "地貌改造的过程通常会使星球上的居民很不舒服，但对未来的信心弥补了它。"
 
 tr_plentiful_transformation_4:0 "多样性变化"
-tr_plentiful_transformation_4_desc:0 "§Y$species_trait_points_add$§!和§Y生物/机器改造点§! §G+1§!"
-tr_plentiful_transformation_4_delayed:0 "我们的外壳现在可以改进了."
+tr_plentiful_transformation_4_desc:0 "§Y$species_trait_points_add$§!和§Y$mod_ROBOT_species_trait_points_add$§!§G+1§!。"
+tr_plentiful_transformation_4_delayed:0 "我们的外壳现在可以改进了。"
 
 tr_plentiful_transformation_5:0 "报应"
-tr_plentiful_transformation_5_desc:1 "重建被摧毁的星球"
-tr_plentiful_transformation_5_delayed:0 "重建一个被摧毁的世界需要大量的能源、矿产和影响力."
+tr_plentiful_transformation_5_desc:1 "可以对§Y$pc_shattered$§!、§Y$pc_molten$§!、§Y$pc_broken$§!、§Y$pc_barren$§!、§Y$pc_toxic$§!、§Y$pc_barren_cold$§!和§Y$pc_frozen$§!进行$TERRAFORM_TITLE$。"
+tr_plentiful_transformation_5_delayed:0 "重塑一个被摧毁的世界会需要大量的能源、矿产和影响力。"
 
 # Transformation edicts
-plentiful_traditions_energy_to_minerals:0 "§G将$MONEY$转化成矿物§!"
-plentiful_traditions_energy_to_minerals_desc:1 "该法令有几率将 £energy §Y$MONEY$§!转换成 £minerals §Y矿物§!."
-plentiful_traditions_energy_to_food:0 "§G将$MONEY$转化成食物§!"
-plentiful_traditions_energy_to_food_desc:1 "该法令有几率将 £energy §Y$MONEY$§!转换成 £food §Y食物§!."
-plentiful_traditions_minerals_to_energy:0 "§G将矿物转化成$MONEY$§!"
-plentiful_traditions_minerals_to_energy_desc:1 "该法令有几率将 £minerals §Y矿物§!转换成 £energy §Y$MONEY$§!."
-plentiful_traditions_minerals_to_food:0 "§G将矿物转化成食物§!"
-plentiful_traditions_minerals_to_food_desc:1 "该法令有几率将 £minerals §Y矿物§!转换成 £food §Y食物§!."
-plentiful_traditions_food_to_minerals:0 "§G将食物转化成矿物§!"
-plentiful_traditions_food_to_minerals_desc:1 "该法令有几率将 £food §Y食物§!转换成 £minerals §Y矿物§!."
-plentiful_traditions_food_to_energy:0 "§G将食物转化成$MONEY$§!"
-plentiful_traditions_food_to_energy_desc:1 "该法令有几率将 £food §Y食物§!转换成 £energy §Y$MONEY$§!."
+plentiful_traditions_energy_to_minerals:0 "§G将$MONEY$转化成$minerals$§!"
+plentiful_traditions_energy_to_minerals_desc:1 "该法令有几率将 £energy£§Y$MONEY$§!转换成 £minerals£§Y$minerals$§!。"
+plentiful_traditions_energy_to_food:0 "§G将$MONEY$转化成$food$§!"
+plentiful_traditions_energy_to_food_desc:1 "该法令有几率将 £energy£§Y$MONEY$§!转换成 £food£§Y$food$§!。"
+plentiful_traditions_minerals_to_energy:0 "§G将$minerals$转化成$MONEY$§!"
+plentiful_traditions_minerals_to_energy_desc:1 "该法令有几率将 £minerals£§Y$minerals$§!转换成 £energy£§Y$MONEY$§!。"
+plentiful_traditions_minerals_to_food:0 "§G将$minerals$转化成$food$§!"
+plentiful_traditions_minerals_to_food_desc:1 "该法令有几率将 £minerals£§Y$minerals$§!转换成 £food£§Y$food$§!。"
+plentiful_traditions_food_to_minerals:0 "§G将$food$转化成$minerals$§!"
+plentiful_traditions_food_to_minerals_desc:1 "该法令有几率将 £food£§Y$food$§!转换成 £minerals£§Y$minerals$§!。"
+plentiful_traditions_food_to_energy:0 "§G将$food$转化成$MONEY$§!"
+plentiful_traditions_food_to_energy_desc:1 "该法令有几率将 £food£§Y$food$§!转换成 £energy£§Y$MONEY$§!。"
 plentiful_traditions_habitat_construction:0 "§G$habitat_2$空间扩张§!"
-plentiful_traditions_habitat_construction_desc:1 "该法令使我们有机会使用机器人来扩大我们的$habitat_0$."
+plentiful_traditions_habitat_construction_desc:1 "该决策使我们有机会使用机器人来扩大我们的$habitat_0$。"
 
 # Transformation modifier
 modifier_plentiful_traditions_transformation:0 "转换执行中"
-modifier_plentiful_traditions_transformation_desc:1 "该休息了."
+modifier_plentiful_traditions_transformation_desc:1 "休息一会"
 modifier_plentiful_traditions_terraforming_fine:0 "为未来干杯！"
-modifier_plentiful_traditions_terraforming_fine_desc:1 "地貌改造是要去尝试的路."
-modifier_plentiful_traditions_habitat_construction:0 "$habitat_0$正在扩建."
-modifier_plentiful_traditions_habitat_construction_desc:1 "扩建工程需要一到三年的时间."
+modifier_plentiful_traditions_terraforming_fine_desc:1 "$TERRAFORM_TITLE$才是正道。"
+modifier_plentiful_traditions_habitat_construction:0 "$habitat_0$正在扩建。"
+modifier_plentiful_traditions_habitat_construction_desc:1 "扩建工程需要一到三年的时间。"
 
 plentiful_traditions_habitat_construction_not_max_size:0 "这种$habitat_0$不能扩大,它的最大规模是§Y25§!地块！"
-plentiful_traditions_habitat_construction_minerals:0 "需要至少§Y10.000§!的 £minerals §Y矿物§!."
+plentiful_traditions_habitat_construction_minerals:0 "需要至少§Y10.000§!的 £minerals §Y$minerals$§!."
 plentiful_traditions_habitat_construction_energy:0 "需要至少§Y10.000§!的 £energy §Y$MONEY$§!并且每月需要§Y20$MONEY$§!的维护费用."
 plentiful_traditions_habitat_construction_modifier:0 "$habitat_0$的扩建工作开始了,完工可能需要三年."
 
@@ -981,46 +995,46 @@ BIOLOGICAL_PLENTIFUL_1:0 "改善生物学"
 #####################
 
 tradition_plentiful_endure:0 "持久"
-tradition_plentiful_endure_desc:0 "我们的想法是,只要你能坚持到最后,一切都会好起来的."
+tradition_plentiful_endure_desc:0 "我们的想法是，只要你能坚持到最后，一切都会好起来的。"
 tr_plentiful_endure_adopt:0 "持久传统"
 tr_plentiful_endure_adopt_desc:0 "$tradition_plentiful_endure_desc$\n\n$tr_plentiful_endure_adopt_effect$\n\n$tr_plentiful_endure_finish_effect$"
-tr_plentiful_endure_adopt_effect:0 "§E$TRADITIONS_ADOPT$:§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+5%§!."
+tr_plentiful_endure_adopt_effect:0 "§E$TRADITIONS_ADOPT$：§!\n§Y$MOD_POP_ENVIRONMENT_TOLERANCE$§!增加§G+5%§!。"
 
 tr_plentiful_endure_finish:0 "持久传统完成"
-tr_plentiful_endure_finish_effect:0 "§E$TRADITIONS_FINISH$:§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_endure_adopt$将会使我们的§Y$mod_pc_nuked_habitability$§!增加§G+10%§!.\n\n"
+tr_plentiful_endure_finish_effect:0 "§E$TRADITIONS_FINISH$：§!\n$TRADITION_ADOPT_BUTTON$全部$tr_plentiful_endure_adopt$使我们的§Y$mod_pc_nuked_habitability$§!增加§G+10%§!。\n\n"
 
 tr_plentiful_endure_1:0 "团结带来凝聚"
-tr_plentiful_endure_1_desc:0 "§Y$mod_country_unity_produces_mult$§!增加§G+5%§!."
-tr_plentiful_endure_1_delayed:0 "我们的居民非常热衷于定义和实现共同的目标."
+tr_plentiful_endure_1_desc:0 "§Y$mod_country_unity_produces_mult$§!增加§G+5%§!。"
+tr_plentiful_endure_1_delayed:0 "我们的居民非常热衷于定义和实现共同的目标。"
 
-tr_plentiful_endure_2:0 "血,汗和泪"
-tr_plentiful_endure_2_desc:0 "§Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§!减少§G-25%§!."
-tr_plentiful_endure_2_delayed:0 "我所能奉献的没有其它,只有热血、辛劳、眼泪和汗水."
+tr_plentiful_endure_2:0 "血，汗和泪"
+tr_plentiful_endure_2_desc:0 "§Y$MOD_COUNTRY_WAR_EXHAUSTION_MULT$§!减少§G-25%§!。"
+tr_plentiful_endure_2_delayed:0 "我所能奉献的没有其它，只有热血、辛劳、眼泪和汗水。"
 
 tr_plentiful_endure_3:0 "踏入深渊"
-tr_plentiful_endure_3_desc:0 "获得§G$DARK_MATTER_REACTOR$§!的研究选项."
+tr_plentiful_endure_3_desc:0 "获得§G$DARK_MATTER_REACTOR$§!的研究选项。"
 tr_plentiful_endure_3_delayed:0 "$DARK_MATTER_REACTOR$为我们提供了大量的能量."
 
 tr_plentiful_endure_4:0 "国土防线"
-tr_plentiful_endure_4_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§!增加§G+20%§!."
+tr_plentiful_endure_4_desc:0 "§Y$mod_planet_jobs_slave_produces_mult$§!增加§G+20%§!。"
 tr_plentiful_endure_4_delayed:0 "奴隶们日复一日地在田野和矿井里为我们的帝国而战,就像一匹安静的野马."
 
 tr_plentiful_endure_5:0 "超巨型"
-tr_plentiful_endure_5_desc:1 "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!增加§G+25%§!.\n§H解锁$MEGASTRUCTURE$：§!$habitat_2$.(最后一部分尚未完成)"
-tr_plentiful_endure_5_delayed:0 "我们可以通过$MEGASTRUCTURE$来迈向成功."
+tr_plentiful_endure_5_desc:1 "§Y$MOD_MEGASTRUCTURE_BUILD_SPEED_MULT$§!增加§G+25%§!。\n可以通过决策来扩张$pc_habitat$。(最后一部分尚未完成)"
+tr_plentiful_endure_5_delayed:0 "我们可以通过$MEGASTRUCTURE$来迈向成功。"
 
 ################################################################
 # ASCENSION PERKS
 ################################################################
 
 ap_plentiful_traditions_favored_equilibrium:0 "倾向平衡"
-ap_plentiful_traditions_favored_equilibrium_desc:0 "通过我们人民的团结,我们伟大的帝国可以实现我们一直希望的真正平衡."
+ap_plentiful_traditions_favored_equilibrium_desc:0 "通过我们人民的团结，我们伟大的帝国可以实现我们一直希望的真正平衡。"
 ap_plentiful_traditions_avicennian_motion:0 "阿维森纳运动"
-ap_plentiful_traditions_avicennian_motion_desc:0 "在没有外力作用下,真空中的抛射运动不会停止."
+ap_plentiful_traditions_avicennian_motion_desc:0 "在没有外力作用下，真空中的抛射运动不会停止。"
 ap_plentiful_traditions_ghazalian_revelations:0 "安萨里的启示"
-ap_plentiful_traditions_ghazalian_revelations_desc:0 "拥有知识却不去行动是一种浪费,而没有知识却不去行动更是愚蠢."
+ap_plentiful_traditions_ghazalian_revelations_desc:0 "拥有知识却不去行动是一种浪费，而没有知识却不去行动更是愚蠢。"
 
-tooltip_plentiful_traditions_ghazalian_revelations:0 "所有帝国对你的 £opinion  §Y评价§!增加§G+20§!."
+tooltip_plentiful_traditions_ghazalian_revelations:0 "所有帝国对你的£opinion£§Y$OPINION$§!增加§G+20§!。"
 
 triggered_opinion_ap_plentiful_traditions_ghazalian_revelations:0 "$ap_plentiful_traditions_ghazalian_revelations$"
 
@@ -1140,7 +1154,7 @@ ap_plentiful_traditions_mass_effect_desc:0 "我们被崇高的理想所驱使.�
 ap_plentiful_traditions_absolute_power:0 "绝对力量"
 ap_plentiful_traditions_absolute_power_desc:0 "这个繁荣的空间站位于一个中立国度的深处,在地球历2257年时就建设于此,它是第三时代人类最后的曙光.来自一百多个星球的难民、走私者、商人、外交官、旅行者的汇聚于此.这可能是个危险的地方,但我们别无选择,这是期望和平的我们最后的聚集地"
 ap_plentiful_traditions_tomb_life:0 "废土适应"
-ap_plentiful_traditions_tomb_life_desc:0 "由于受到有害辐射的长期影响,我们的物种已经完美地适应了所有的生活环境.我们现在可以调整成§Y$trait_pc_nuked_preference$§!."
+ap_plentiful_traditions_tomb_life_desc:0 "由于受到有害辐射的长期影响，我们的物种已经完美地适应了所有的生活环境。我们现在可以调整成§Y$trait_pc_nuked_preference$§!。"
 tooltip_plentiful_traditions_tomb_life:1 "$ap_plentiful_traditions_tomb_life_desc$"
 ap_plentiful_traditions_experimentalism_expanded:0 "实验主义提升"
 ap_plentiful_traditions_experimentalism_expanded_desc:0 "通过我们的研究，我们现在能够在亚原子水平上攻击我们的敌人."
@@ -1157,10 +1171,16 @@ tooltip_plentiful_traditions_slave_nation:1 "我们现在可以使用公民性�
 ap_plentiful_traditions_slave_housing:0 "奴隶住宅"
 ap_plentiful_traditions_slave_housing_desc:0 "通过优化空间使用,我们现在可以让奴隶§Y$MOD_POP_HOUSING_USAGE_MULT$§! 减少§G-25%§!."
 tooltip_plentiful_traditions_slave_housing:1 "$ap_plentiful_traditions_slave_housing_desc$"
+ap_plentiful_traditions_industrial_mining_excavation:0 "过度开采"
+ap_plentiful_traditions_industrial_mining_excavation_desc:0 "我们正在以一种高效率的方式洗劫星球上的矿物，所得矿物甚至能摧毁未来的矿物市场。"
+tooltip_plentiful_traditions_industrial_mining_excavation:1 "$p_plentiful_traditions_industrial_mining_excavation_desc$"
 ap_plentiful_traditions_transformation:0 "理想变换"
 ap_plentiful_traditions_transformation_desc:0 "随着自然对我国领土的绝对服从，我们现在能够开放更多的地区。"
-allow_decision_transformation_mastery:0 "§H解锁决策:§! 转换掌握"
+allow_decision_transformation_mastery:0 "§H解锁$decisions$：§! 转换掌握"
 describe_decision_transformation_mastery:0 "§E这一决策将永久地增加一个行星所能支持的最大区划数§Y+8§!。它只能在每个星球上执行一次。"
+ap_plentiful_traditions_justice:0 "公正"
+ap_plentiful_traditions_justice_desc:0 "最不公正的和平也比正义的战争好。"
+tooltip_plentiful_traditions_justice:1 "$ap_plentiful_traditions_justice_desc$"
 
 ################################################################
 # PLENTIFUL PERKS - Technology
@@ -1172,26 +1192,26 @@ tech_ap_plentiful_traditions_tomb_life:0 "$pc_nuked$适应"
 tech_ap_plentiful_traditions_tomb_life_desc:0 "由于长期处于有害辐射中,我们现在可以很好地适应这种生活环境."
 
 ################################################################
-# PLENTIFUL PERKS - Traits（特殊特性）
+# PLENTIFUL PERKS - Traits
 ################################################################
 
 trait_plentiful_traditions_slave_01:0 "绝对剥削"
 trait_plentiful_traditions_slave_01_desc:0 "§L我们要对牲畜的一切资源加以利用.这类人口不受幸福度影响.§!\n"
-trait_plentiful_traditions_slave_02:0 "能源精通" 
+trait_plentiful_traditions_slave_02:0 "能源精通"
 trait_plentiful_traditions_slave_02_desc:0 "§L这类奴隶在能源生产工作中表现出色.这类人口不受幸福度影响.§!\n"
-trait_plentiful_traditions_slave_03:0 "矿业精通" 
+trait_plentiful_traditions_slave_03:0 "矿业精通"
 trait_plentiful_traditions_slave_03_desc:0 "§L这类奴隶在矿物生产工作和合金制造工作中表现出色.这类人口不受幸福度影响.§!\n"
-trait_plentiful_traditions_slave_04:0 "农耕精通" 
+trait_plentiful_traditions_slave_04:0 "农耕精通"
 trait_plentiful_traditions_slave_04_desc:0 "§L这类奴隶在食品生产工作中表现出色.这类人口不受幸福度影响.§!\n"
-trait_plentiful_traditions_slave_05:0 "实验对象" 
+trait_plentiful_traditions_slave_05:0 "实验对象"
 trait_plentiful_traditions_slave_05_desc:0 "§L这类奴隶被用于研究实验.这类人口不受幸福度影响.§!\n"
-trait_plentiful_traditions_slave_06:0 "欢乐天使" 
+trait_plentiful_traditions_slave_06:0 "欢乐天使"
 trait_plentiful_traditions_slave_06_desc:0 "§L这类奴隶为星球上的其他民众带去快乐.这类人口不受幸福度影响.§!\n"
-trait_plentiful_traditions_slave_07:0 "资源聚焦" 
+trait_plentiful_traditions_slave_07:0 "资源聚焦"
 trait_plentiful_traditions_slave_07_desc:0 "§L这类奴隶在稀有资源开采工作中表现出色.这类人口不受幸福度影响.§!\n"
 
 ################################################################
-# PLENTIFUL PERKS - Civics（特殊公民性）
+# PLENTIFUL PERKS - Civics
 ################################################################
 
 pt_civic_slave_nation:0 "奴隶国家"
@@ -1214,41 +1234,41 @@ d_lichen_fields_special_reservation_desc:1 "露水的苔藓、地衣和真菌形
 d_bountiful_plains_special_reservation:0 "£food Bountiful Plains"
 d_bountiful_plains_special_reservation_desc:1 "肥沃的土壤和高草覆盖着这些平原，为农田提供了丰富的潜力."
 
-d_dryland:0 "£dna Dry Region"
+d_dryland:0 "£dna 干燥区"
 d_dryland_desc:1 "这个地区可以用来饲养喜欢干燥气候的物种."
-d_wetland:0 "£dna Wet Region"
+d_wetland:0 "£dna 潮湿区"
 d_wetland_desc:1 "这个地区可以用来饲养喜欢潮湿气候的物种."
-d_coldland:0 "£dna Cold Region"
+d_coldland:0 "£dna 寒冷区"
 d_coldland_desc:1 "这个地区可以用来饲养喜欢寒冷气候的物种."
 
 ################################################################
 # PLENTIFUL PERKS - Blocker
 ################################################################
 
-d_dense_jungle_special_reservation:0 "£energy £blocker£ Dense Jungle"
+d_dense_jungle_special_reservation:0 "£energy £blocker£ 茂密丛林"
 d_dense_jungle_special_reservation_desc:0 "整个地区都长满了茂密、无法穿越的丛林."
-d_quicksand_basin_special_reservation:0 "£minerals £blocker£ Quicksand Basin"
+d_quicksand_basin_special_reservation:0 "£minerals £blocker£ 流沙盆地"
 d_quicksand_basin_special_reservation_desc:0 "大量的流沙覆盖了这一地区，使得建造成为不可能."
-d_noxious_swamp_special_reservation:0 "£food £blocker£ Noxious Swamp"
+d_noxious_swamp_special_reservation:0 "£food £blocker£ 有毒沼泽"
 d_noxious_swamp_special_reservation_desc:0 "被腐烂气体包围的危险沼泽地."
-d_massive_glacier_special_reservation:0 "£food £blocker£ Massive Glacier"
+d_massive_glacier_special_reservation:0 "£food £blocker£ 巨型冰川"
 d_massive_glacier_special_reservation_desc:0 "这一地区覆盖着一大片稠密的冰."
-d_toxic_kelp_special_reservation:0 "£energy £blocker£ Toxic Kelp"
+d_toxic_kelp_special_reservation:0 "£energy £blocker£ 有毒海藻"
 d_toxic_kelp_special_reservation_desc:0 "这一地区的海洋覆盖着一片对大多数生物有毒的厚厚的海带森林."
-d_deep_sinkhole_special_reservation:0 "£minerals £blocker£ Deep Sinkhole"
+d_deep_sinkhole_special_reservation:0 "£minerals £blocker£ 深坑"
 d_deep_sinkhole_special_reservation_desc:0 "这个地区大部分地区都有一个巨大的天坑."
 
-d_dense_jungle_special_land:0 "£dna £blocker£ Dense Jungle"
+d_dense_jungle_special_land:0 "£dna £blocker£ 茂密丛林"
 d_dense_jungle_special_land_desc:0 "整个地区都长满了茂密、无法穿越的丛林."
-d_quicksand_basin_special_land:0 "£dna £blocker£ Quicksand Basin"
+d_quicksand_basin_special_land:0 "£dna £blocker£ 流沙盆地"
 d_quicksand_basin_special_land_desc:0 "大量的流沙覆盖了这一地区，使得建造成为不可能."
-d_noxious_swamp_special_land:0 "£dna £blocker£ Noxious Swamp"
+d_noxious_swamp_special_land:0 "£dna £blocker£ 有毒沼泽"
 d_noxious_swamp_special_land_desc:0 "被腐烂气体包围的危险沼泽地."
-d_massive_glacier_special_land:0 "£dna £blocker£ Massive Glacier"
+d_massive_glacier_special_land:0 "£dna £blocker£ 巨型冰川"
 d_massive_glacier_special_land_desc:0 "这一地区覆盖着一大片稠密的冰."
-d_toxic_kelp_special_land:0 "£dna £blocker£ Toxic Kelp"
+d_toxic_kelp_special_land:0 "£dna £blocker£ 有毒海藻"
 d_toxic_kelp_special_land_desc:0 "这一地区的海洋覆盖着一片对大多数生物有毒的厚厚的海带森林."
-d_deep_sinkhole_special_land:0 "£dna £blocker£ Deep Sinkhole"
+d_deep_sinkhole_special_land:0 "£dna £blocker£ 深坑"
 d_deep_sinkhole_special_land_desc:0 "这个地区大部分地区都有一个巨大的天坑."
 
 ################################################################
@@ -1286,7 +1306,18 @@ district_special_coldland_desc:0 "这个可居住区是用来安置寒冷星球�
 mod_district_special_coldland_max:0 "最大$district_special_coldland_plural$"
 
 ################################################################
-# FACTIONS（这派系翻译炸了）
+# PLENTIFUL PERKS - Modifier
+################################################################
+
+modifier_transformation_mastery:0 "Transformation Master"
+modifier_transformation_mastery_desc:1 "The planet receives eight more districts."
+decision_transformation_mastery:0 "§HNew decision:§! Transformation Master"
+decision_transformation_mastery_desc:1 "The planet receives eight more districts."
+decision_excavation:0 "§HNeue decision:§! Excessive mining"
+decision_excavation_desc:1 "The planet should continue to be exploited."
+
+################################################################
+# FACTIONS
 ################################################################
 
 #####################
@@ -1338,18 +1369,18 @@ MINERS_EXCAVATION:0 "无限制挖掘"
 MINERS_EXCAVATION_DESC:0 "连续在一个星球上使用§Y$edict_plentiful_traditions_ionized_excavation$§!星球法令会使[Root.GetName]更满意."
 
 MINERS_MINIMUM_1:0 "丰富的地下矿藏  I"
-MINERS_MINIMUM_1_DESC:0 "在任何时候保持储存的矿物至少§Y1.000§!以上,将取悦于[Root.GetName]."
+MINERS_MINIMUM_1_DESC:0 "在任何时候保持储存的$minerals$至少§Y1.000§!以上,将取悦于[Root.GetName]."
 MINERS_MINIMUM_2:0 "丰富的地下矿藏  II"
-MINERS_MINIMUM_2_DESC:0 "在任何时候保持储存的矿物至少§Y2.500§!以上,将取悦于[Root.GetName]."
+MINERS_MINIMUM_2_DESC:0 "在任何时候保持储存的$minerals$至少§Y2.500§!以上,将取悦于[Root.GetName]."
 MINERS_MINIMUM_3:0 "丰富的地下矿藏  III"
-MINERS_MINIMUM_3_DESC:0 "在任何时候保持储存的矿物至少§Y7.500§!以上,将取悦于[Root.GetName]."
+MINERS_MINIMUM_3_DESC:0 "在任何时候保持储存的$minerals$至少§Y7.500§!以上,将取悦于[Root.GetName]."
 MINERS_MINIMUM_4:0 "丰富的地下矿藏  IV"
-MINERS_MINIMUM_4_DESC:0 "在任何时候保持储存的矿物至少§Y12.500§!以上,将取悦于[Root.GetName]."
+MINERS_MINIMUM_4_DESC:0 "在任何时候保持储存的$minerals$至少§Y12.500§!以上,将取悦于[Root.GetName]."
 MINERS_MINIMUM_5:0 "丰富的地下矿藏  V"
-MINERS_MINIMUM_5_DESC:0 "在任何时候保持储存的矿物至少§Y25.000§!以上,将取悦于[Root.GetName]."
+MINERS_MINIMUM_5_DESC:0 "在任何时候保持储存的$minerals$至少§Y25.000§!以上,将取悦于[Root.GetName]."
 
 MINERS_DEPOSIT:0 "牵引光束"
-MINERS_DEPOSIT_DESC:0 "只在最好的矿脉上开采 £minerals §Y矿物§!会使[Root.GetName]更满意."
+MINERS_DEPOSIT_DESC:0 "只在最好的矿脉上开采 £minerals §Y$minerals$§!会使[Root.GetName]更满意."
 
 #####################
 # SYNDICATES
@@ -1447,7 +1478,8 @@ plentiful_traditions_lebensraum_enlargement_desc:1 "该法令允许我们扩大$
 plentiful_traditions_lebensraum_enlargement_not_max_size:0 "该$habitat_0$不能扩大,它最大规模是§Y25§!.GOTT SCHÜTZE DEN KAISER!"
 plentiful_traditions_lebensraum_enlargement_full_or_robot:0 "该$habitat_0$还不够拥挤必须§Y所有地块都有人口§!或者有§Y机器人人口§!."
 plentiful_traditions_lebensraum_enlargement_plus_one:0 "$habitat_0$将会扩建产生一个新的地块.在那之后工人们需要一些时间休息才能继续工作."
-
+modifier_plentiful_traditions_open_habitat:0 "Open habitat"
+modifier_plentiful_traditions_open_habitat_desc:1 "This habitat has no atmosphere, so only robots can work on it."
 
 tooltip_slaves_only:0 "§M这是给奴隶的!§!"
 
@@ -1492,11 +1524,11 @@ job_gardener:0 "园丁"
 job_gardener_plural:0 "园丁"
 job_gardeners_desc:0 "这个居民管理花园."
 job_guinea_effect_desc:1 "£job_gardener£ $job_gardener_plural$产出 £unity£ §Y$unity$§!或用于复制."
+job_gardeners_effect_desc:1 "£job_gardener£ $job_gardener_plural$ produce or support the production of £unity£ §Y$unity$§! or support the reproduction."
 mod_job_gardener_add:0 "$job_gardener$职位"
 mod_job_gardener_per_pop:0 "每$VALUE$人口§G+1§!$job_gardener$"
 mod_job_gardener_per_pop_short:0 "\n§G+1§! £mod_job_gardener_add£ pro $VALUE$ £pop£"
 
-MOD_COUNTRY_WAR_EXHAUSTION_MULT: "战争之殇产生"
 mod_pop_category_slave_food_upkeep_mult:0 "£food£ $food$-维护费 ($pop_cat_slave$)"
 mod_pop_category_slave_consumer_goods_upkeep_mult:0 "£consumer_goods£ $consumer_goods$-维护费 ($pop_cat_slave$)"
 mod_planet_jobs_slave_energy_produces_add:0 "£job£ $pop_cat_slave$生产 £energy£ $energy$"
@@ -1544,19 +1576,53 @@ mod_planet_jobs_organic_battery_minerals_produces_add:0 "£job_organic_battery£
 mod_planet_jobs_organic_battery_minerals_produces_mult:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!生产 £minerals£ $minerals$"
 mod_planet_jobs_organic_battery_food_produces_add:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!生产 £food£ $food$"
 mod_planet_jobs_organic_battery_food_produces_mult:0 "£job_organic_battery£ §Y$jobs_organic_battery_plural$§!生产 £food£ $food$"
+mod_planet_jobs_worker_energy_produces_add:0 "£energy£ $energy$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_energy_produces_mult:0 "£energy£ $energy$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_minerals_produces_add:0 "£minerals£ $minerals$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_minerals_produces_mult:0 "£minerals£ $minerals$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_food_produces_add:0 "£food£ $food$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_food_produces_mult:0 "£food£ $food$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_alloys_produces_add:0 "£alloys£ $alloys$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_alloys_produces_mult:0 "£alloys£ $alloys$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_physics_research_produces_add:0 "£physics_research£ $physics_research$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_physics_research_produces_mult:0 "£physics_research£ $physics_research$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_society_research_produces_add:0 "£society_research£ $society_research$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_society_research_produces_mult:0 "£society_research£ $society_research$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_engineering_research_produces_add:0 "£engineering_research£ $engineering_research$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_engineering_research_produces_mult:0 "£engineering_research£ $engineering_research$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_influence_produces_add:0 "£influence£ $influence$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_influence_produces_mult:0 "£influence£ $influence$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_unity_produces_add:0 "£unity£ $unity$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_unity_produces_mult:0 "£unity£ $unity$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_consumer_goods_produces_add:0 "£consumer_goods£ $consumer_goods$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_consumer_goods_produces_mult:0 "£consumer_goods£ $consumer_goods$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_volatile_motes_produces_add:0 "£volatile_motes£ $volatile_motes$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_volatile_motes_produces_mult:0 "£volatile_motes£ $volatile_motes$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_exotic_gases_produces_add:0 "£exotic_gases£ $exotic_gases$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_exotic_gases_produces_mult:0 "£exotic_gases£ $exotic_gases$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_rare_crystals_produces_add:0 "£rare_crystals£ $rare_crystals$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_rare_crystals_produces_mult:0 "£rare_crystals£ $rare_crystals$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_sr_living_metal_produces_add:0 "£sr_living_metal£ $sr_living_metal$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_sr_living_metal_produces_mult:0 "£sr_living_metal£ $sr_living_metal$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_sr_zro_produces_add:0 "£sr_zro£ $sr_zro$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_sr_zro_produces_mult:0 "£sr_zro£ $sr_zro$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_sr_dark_matter_produces_add:0 "£sr_dark_matter£ $sr_dark_matter$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_sr_dark_matter_produces_mult:0 "£sr_dark_matter£ $sr_dark_matter$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_nanites_produces_add:0 "£nanites£ $nanites$ from £job£ $pop_cat_worker$"
+mod_planet_jobs_worker_nanites_produces_mult:0 "£nanites£ $nanites$ from £job£ $pop_cat_worker$"
 mod_planet_telepaths_unity_produces_add:0 "£job£ $job_telepath$产出 £unity£ $unity$"
 mod_planet_telepaths_unity_produces_mult:0 "£job£ $job_telepath$产出 £unity£ $unity$"
-mod_country_resource_max_energy_add:0 "资源存储容量 ( £energy£ 能量)"
-mod_country_resource_max_minerals_add:0 "资源存储容量 ( £minerals£ 矿物)"
-mod_country_resource_max_food_add:0 "资源存储容量 ( £food£ 食物)"
-mod_megastructures_cost_mult:0 "建造花费（巨型结构）"
-mod_ship_colonizer_cost_mult:0 "建造花费 (殖民船)"
-mod_rivalries_physics_research_produces_add:0 "物理学 (宿敌)"
-mod_rivalries_influence_produces_mult:0 "影响力 (宿敌)"
-mod_weapon_type_point_defense_weapon_damage_mult:0 "武器伤害 (点防御)"
-mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "武器射速 (点防御)"
+mod_country_resource_max_energy_add:0 "$mod_country_max_resource_energy_add$"
+mod_country_resource_max_minerals_add:0 "$mod_country_max_resource_minerals_add$"
+mod_country_resource_max_food_add:0 "$mod_country_max_resource_food_add$"
+mod_country_resource_max_influence_add:0 "Resource Storage Capacity (£influence£ înfluence)"
+mod_megastructures_cost_mult:0 "$MOD_MEGASTRUCTURE_BUILD_COST_MULT$"
+mod_rivalries_physics_research_produces_add:0 "物理学 ($RIVAL$)"
+mod_rivalries_influence_produces_mult:0 "$MOD_COUNTRY_RIVALRY_INFLUENCE_GAIN$"
+mod_weapon_type_point_defense_weapon_damage_mult:0 "$point_defence$武器伤害"
+mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "$point_defence$武器攻击速度"
 mod_station_gatherers_energy_produces_mult:0 "能量 (采集)"
-mod_station_gatherers_alloys_produces_mult:0 "合金 (开采)" 
+mod_station_gatherers_alloys_produces_mult:0 "合金 (开采)"
 mod_orbital_mining_deposits:0 "合金 (加工)"
 mod_megastructures_produces_mult:0 "生产 (巨型结构)"
 mod_extra_large_weapon_damage_mult:0 "武器伤害 (巨型武器)"
@@ -1575,7 +1641,9 @@ mod_planet_buildings_food_upkeep_mult:0 "食物维护费 (建筑)"
 mod_planet_buildings_food_produces_mult:0 "食物生产 (建筑)"
 mod_planet_districts_food_produces_mult:0 "食物生产 (区域)"
 mod_planet_structures_physics_research_produces_mult:0 "物理学 (建筑 & 区域)"
-mod_max_rivalries:0 "最大宿敌"
+
+FROM_STARBASE_MODULE:0 "Von Sternenbasenmodulen"
+FROM_STARBASE_MODULES:0 "Von Sternenbasenmodulens"
 
 d_plentiful_traditions_planet_minerals5:0 "高价值矿区"
 d_plentiful_traditions_planet_minerals5_desc:0 "我们发现了价值不菲的£minerals §Y矿区§!。"
@@ -1600,15 +1668,15 @@ d_plentiful_traditions_planet_energy1:0 "小型能量场"
 d_plentiful_traditions_planet_energy1_desc:0 "我们发现了小型 £energy §Y能量场§!."
 
 d_plentiful_traditions_planet_food5:0 "Exorbitante Nahrungslieferanten"
-d_plentiful_traditions_planet_food5_desc:0 "We have new exorbitant §Ybreeding fields§! for £food §Y食物§!."
+d_plentiful_traditions_planet_food5_desc:0 "We have new exorbitant §Ybreeding fields§! for £food §Y$food$§!."
 d_plentiful_traditions_planet_food4:0 "巨型食品供应地"
-d_plentiful_traditions_planet_food4_desc:0 "我们有新的巨型 §Y繁殖场§! 产出 £food §Y食物§!."
+d_plentiful_traditions_planet_food4_desc:0 "我们有新的巨型 §Y繁殖场§! 产出 £food §Y$food$§!."
 d_plentiful_traditions_planet_food3:0 "大型食品供应地"
-d_plentiful_traditions_planet_food3_desc:0 "我们有新的大型 §Y繁殖场§! 产出 £food §Y食物§!."
+d_plentiful_traditions_planet_food3_desc:0 "我们有新的大型 §Y繁殖场§! 产出 £food §Y$food$§!."
 d_plentiful_traditions_planet_food2:0 "Interesting Nahrungslieferanten"
-d_plentiful_traditions_planet_food2_desc:0 "We have new interesting §Ybreeding fields§! for £food §Y食物§!."
+d_plentiful_traditions_planet_food2_desc:0 "We have new interesting §Ybreeding fields§! for £food §Y$food$§!."
 d_plentiful_traditions_planet_food1:0 "小型食品供应地"
-d_plentiful_traditions_planet_food1_desc:0 "我们有新的小型 §Y繁殖场§! 产出 £food §Y食物§!."
+d_plentiful_traditions_planet_food1_desc:0 "我们有新的小型 §Y繁殖场§! 产出 £food §Y$food$§!."
 
 d_plentiful_traditions_planet_unity5:0 "Exorbitante Monuments of unity"
 d_plentiful_traditions_planet_unity5_desc:0 "We have uncovered exorbitant £unity §Y团结纪念碑§!."

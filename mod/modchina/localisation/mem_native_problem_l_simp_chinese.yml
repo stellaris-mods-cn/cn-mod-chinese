@@ -1,4 +1,4 @@
-﻿
+﻿#Native Problem
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -17,11 +17,11 @@ l_simp_chinese:
  mem_native_problem.3.c.tooltip:0 "一个需要准备§更长的时间§!的非致命性的解决方案,不过枪手将被活捉。"
 
  mem_native_problem.4.name:0 "枪手的终结"
- mem_native_problem.4.desc:0 "造造成§Y[Root.GetName]§!上多起命案的神秘枪手终于被地方政府在石灰岩地穴网络深处逼入绝境。在经过短暂冲突后，枪手被制服并被拘捕。\n\n但出奇的是，肇事者原来是[Owner.GetSpeciesName]，但不是作为殖民化项目的一部分正式移居到这个星球的殖民者。[the_guy.GetSheHe]身穿的破旧飞行服表明他是[the_guy.GetName]——一艘小型私人船只的船长，大约十年前消失得无影无踪。\n\n[the_guy.GetSheHe]很可能经历了撞船并以某种方式在这个星球上幸存了下来。引起[the_guy.GetHerHim]攻击殖民者的原因并不完全清楚，但长时间的荒野暴露可能会对[the_guy.GetHerHis]的理智产生负面影响。"
+ mem_native_problem.4.desc:0 "造造成§Y[Root.GetName]§!上多起命案的神秘枪手终于被地方政府在石灰岩地穴网络深处逼入绝境。在经过短暂冲突后，枪手被制服并被拘捕。\n\n但出奇的是，肇事者原来是[Owner.GetSpeciesName]，但不是作为殖民化项目的一部分正式移居到这个星球的殖民者。[the_guy.GetSheHe]身穿的破旧飞行服表明他是[the_guy.GetName]——一艘小型私人飞船的船长，大约十年前消失得无影无踪。\n\n[the_guy.GetSheHe]很可能经历了撞船并以某种方式在这个星球上幸存了下来。引起[the_guy.GetHerHim]攻击殖民者的原因并不完全清楚，但长时间的荒野暴露可能会对[the_guy.GetHerHis]的理智产生负面影响。"
  mem_native_problem.4.a:0 "悲惨的故事"
 
  mem_native_problem.5.name:0 "枪手被捕"
- mem_native_problem.5.desc:0 "造成§Y[Root.GetName]§!上多起命案的神秘枪手终于被地方政府在石灰岩地穴网络深处逼入绝境。在经过短暂冲突后，枪手被制服并被拘捕。\n\n但出奇的是，肇事者原来是[Owner.GetSpeciesName]，但不是作为殖民化项目的一部分正式移居到这个星球的殖民者。[the_guy.GetSheHe]身穿的破旧飞行服表明他是[the_guy.GetName]——一艘小型私人船只的船长，大约十年前消失得无影无踪。\n\n在医生成功将[the_guy.GetName]恢复意识后，[the_guy.GetSheHe]向我们说明了情况。 \n[the_guy.GetHerHis]作为飞船在坠毁在星球上的唯一幸存者，[the_guy.GetSheHe]从那时候便一直为了生存而战斗，但长时间的隔离，加上食用当地植物的不安全饮食，导致[the_guy.GetHerHim]认知出现了问题。在发现第一批殖民者后，[the_guy.GetSheHe]便将他们视为怪物并进行攻击。"
+ mem_native_problem.5.desc:0 "造成§Y[Root.GetName]§!上多起命案的神秘枪手终于被地方政府在石灰岩地穴网络深处逼入绝境。在经过短暂冲突后，枪手被制服并被拘捕。\n\n但出奇的是，肇事者原来是[Owner.GetSpeciesName]，但不是作为殖民化项目的一部分正式移居到这个星球的殖民者。[the_guy.GetSheHe]身穿的破旧飞行服表明他是[the_guy.GetName]——一艘小型私人飞船的船长，大约十年前消失得无影无踪。\n\n在医生成功将[the_guy.GetName]恢复意识后，[the_guy.GetSheHe]向我们说明了情况。 \n[the_guy.GetHerHis]作为飞船在坠毁在星球上的唯一幸存者，[the_guy.GetSheHe]从那时候便一直为了生存而战斗，但长时间的隔离，加上食用当地植物的不安全饮食，导致[the_guy.GetHerHim]认知出现了问题。在发现第一批殖民者后，[the_guy.GetSheHe]便将他们视为怪物并进行攻击。"
  mem_native_problem.5.a:0 "对[the_guy.GetName]执行叛国罪。"
  mem_native_problem.5.b:0 "由[the_guy.GetSheHe]来决定是否对[the_guy.GetHerHis]行为负责。"
  mem_native_problem.5.c:0 "[the_guy.GetSheHeCap]在这生存了10年？这种技能将为我们所用。"

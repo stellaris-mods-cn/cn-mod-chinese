@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+ civic_family_business:0 "家族企业"
+ civic_family_business_desc:0 "这家公司是有一个庞大的有着深厚背景的家族所经营和操纵的。"
+ civic_tooltip_family_business_effects:1 "£building£ §Y首都建筑§! 取代一些 £job_executive£ §Y$执行官$§! 职位与 £job_neptocrat£ §Y$job_neptocrat_plural$§!\nCan construct £building£ §Y$building_family_estates$§! 建筑提供额外的 £job_neptocrat£ §Y$job_neptocrat$§! 职位\n§Y$MOD_LEADER_GOVERNOR_SKILL_LEVELS$§! 增加 §G+1§!"
+ 
+ building_family_estates:0 "家族地产"
+ building_family_estates_desc:1 "由家族企业提供的豪华住宅对于激励员工来说是非常重要的——当然，你得是家族里的人！"
+
+
+ job_neptocrat:0 "亲属员工"
+ job_neptocrat_plural:0 "亲属员工们"
+ job_neptocrat_desc:1 "这些亲属员工们同时也承担着延续家族企业雄风的责任，无论是通过生育，领养，交配仪式还是其他什么手段。这是家族企业的根基！当然，需要多少假期都能管够！"
+ mod_job_neptocrat_add:0 "亲属员工"
+ job_neptocrat_effect_desc:0 "£job_neptocrat£ §Y$job_neptocrat_plural$§! 产出 £stability£ §Y稳定度§! and £trade_value£ §贸易额§!"
+
+
+
+

@@ -8,19 +8,25 @@
  apsr.2.title:0 "奇异天体"
  apsr.2.desc:0 "$RULER$，在我们观测新恒星诞生的过程中，我们的天文学家从一颗来自遥远星系的未知行星中接收到一段奇怪的信号，经过多次尝试后，我们已将其成功解密，遗憾的是，信号在传输过程中因受到超新星干扰而严重失真，但我们已经理解了其中一部分信息。大意是说，在我们的星系中，有一些行星具有极高的开发价值：从完全由奇异物质组成的行星，到包含会对生活在之上的生命体造成潜移默化影响的人造物的行星，不一而足。虽然直到现在我们也不知道是谁发出了这个信号，但我们认为绝非空穴来风，也许有朝一日我们会揭开它们的秘密。"
  apsr.2.button:1 "我们必须捷足先登！"
-
+ 
  # есть цивик
- apsr.2.desc_with_civic:0 "$RULER$, 在观测新恒星诞生的同时，我们的天文学家收到了一个来自遥远星系的未知行星发出的奇怪信号。在多次攻击之后，我们成功地进行了解密。不幸的是，由于超新星的存在，信号被严重破坏，但我们已经了解了它的一些部分。\n据说!在我们的星系有§M一些星球§，可以给他们的主人带来巨大的利益:从行星上完全由奇怪的物质组成的行星，这些行星包含着对生活在这里的人们产生影响的奇怪的物品。\n显然，我们不知道是谁发出了这个信号，但看起来这是关于我们星球上的一个地方。如果这是真的，那么银河系中还有其他拥有类似资源的行星。我们应该找到他们。"
+ apsr.2.desc_with_civic_d:0 "$RULER$，在破译了遗留在[Root.Capital.GetName]星球上的古人的记录后，我们不仅收到了关于它们存在的书面确认，而且还收到了一份外太空坐标的清单，这些坐标与各种不同标记的恒星系统的位置相吻合。很有可能，这是属于古人的行星。\n或者曾经拥有..."
+ apsr.2.desc_with_civic_g:0 "在破译了遗留在[Root.Capital.GetName]行星上的远古记录后，不仅得到了蜂群感兴趣的信息，而且还得到了一系列空间坐标，这些坐标与各种不同标记的恒星系统的位置相吻合。很有可能，这是属于古人的行星。\n或者曾经拥有..."
+ apsr.2.desc_with_civic_m:0 "在破译了遗留在[Root.Capital.GetName]，中央处理器收到了重要的资料-一份外层空间的坐标表，与各种不同标记的恒星系统的位置相吻合。很有可能，这是属于古人的行星。\n或者曾经拥有..."
  apsr.2.button_with_civic:1 "这是我们的优势。"
- apsr.2.button_with_civic.tooltip:1 "行星的坐标被记录下来"
+ apsr.2.button_with_civic.tooltip:1 "可能的远古殖民地的坐标记录在情况日志中"
  
  
  
  ### цивик 
- 
- apsr_civic_unique_capital:0 "古代文明的研究者"
- apsr_civic_unique_capital_desc:0 "这个帝国走的是探索古代帝国人造物的道路，这些人造物曾经存在于银河系中。"
- apsr_civic_unique_capital_effects:11 "所有生成资源的坐标将被记录下来(游戏开始后)。\n资源§M$apsr_knowledge$§!产量翻一倍。\n增加升级独特资源技术的机会。\n§P??? 未知 ???§!\n§P??? 未知 ???§!"
+  
+ apsr_civic_unique_capital_d:0 "尊敬的古人"
+ apsr_civic_unique_capital_d_desc:0 "§Y«...古人创造了新世界，用前所未见的生物和植物定居于此。被赋予和平的生活，不知道疾病、饥饿或战争。有一个繁荣和虔诚的时代，因为生命成倍增长，并荣耀它的创造者。但黑暗的日子来到了，天空下起了火雨，带来了死亡和恐惧。古人为万物而奋起，升入天国，阻止了一切。从此以后，古人再也没有出现过...»§!\n§W传说古代世界的创造者§!\n\n这个帝国起源于一个星球，在那里，古代强大的种族的传说，指导了第一个种族的代表，从古代传播。虽然自古人升天以来没有人见过他们，但许多人相信有一天他们会回来。为了证实它们的存在，在从古代废墟中找到的记录中，找到了某些带有小标记的太空物体的坐标，也许还有其他远古行星。"
+ apsr_civic_unique_capital_g:0 "尊敬的古人"
+ apsr_civic_unique_capital_g_desc:0 "§Y«...古人创造了新世界，用前所未见的生物和植物定居于此。被赋予和平的生活，不知道疾病、饥饿或战争。有一个繁荣和虔诚的时代，因为生命成倍增长，并荣耀它的创造者。但黑暗的日子来到了，天空下起了火雨，带来了死亡和恐惧。古人为万物而奋起，升入天国，阻止了一切。从此以后，古人再也没有出现过...»§!\n§W从废墟中找到的记录§!\n\n这种集体意识保存了关于古代强大种族的信息。虽然自古人升天以来没有人见过他们，但许多人相信有一天他们会回来。为了证实它们的存在，在从古代废墟中找到的记录中，找到了某些带有小标记的太空物体的坐标，也许还有其他远古行星。"
+ apsr_civic_unique_capital_m:0 "尊敬的古人"
+ apsr_civic_unique_capital_m_desc:0 "§Y«....古人创造了新世界，用前所未见的生物和植物定居于此。被赋予和平的生活，不知道疾病、饥饿或战争。有一个繁荣和虔诚的时代，因为生命成倍增长，并荣耀它的创造者。但黑暗的日子来到了，天空下起了火雨，带来了死亡和恐惧。古人为万物而奋起，升入天国，阻止了一切。从此以后，古人再也没有出现过...»§!\n§W从废墟中找到的记录.§!\n\n这种机械智能保存了一些关于创造它们的远古强大种族的信息。虽然自古人升天以来没有人见过他们，但许多人相信有一天他们会回来。为了证实它们的存在，在从古代废墟中找到的记录中，找到了某些带有小标记的太空物体的坐标，也许还有其他远古行星。"
+ apsr_civic_unique_capital_effects:11 "修改§MAPSR§!生成的所有资源的坐标将被记录下来(游戏开始后)。\n资源§M$apsr_knowledge$§!产量翻了一番。\n增加了展示升级独特资源的技术的机会。\n§P??? 未知 ???§!\n§P??? 未知 ???§!"
  
  
  
@@ -28,13 +34,16 @@
 
  apsr_beacons_title:0 "奇异天体"
  apsr_beacons_desc:0 "我们接收到一段严重干扰的信息，大意是说我们星系中有一些行星是独一无二的，具有不可思议的特征。"
-
+ 
    
  
  ### новый ресурс
   
  apsr_knowledge:0 "远古知识"
  apsr_knowledge_desc:0 "有关如何使用这些资源的信息。\n§M需要远古知识来改善独特的建筑。§!"
+ # PLEASE DO NOT DISPLAY THIS RESOURCE ON THE RESOURCE PANEL! KNOWLEDGE IS IMPOSSIBLE TO EVALUATE, THIS CAN BE MADE BY ONLY SPECIALIZED ENCLAVE!
+  
+  
  
  ### новые должности
  
@@ -58,6 +67,212 @@
  
  
  
+ ### новые типы планет
+ 
+ pc_apsr_ancient:0 "远古星球"
+ pc_apsr_ancient_desc:0 "在一颗行星上发现了远古生物活动的痕迹，这是一种存在于几千年前的文明。"
+ 
+ pc_apsr_unique:0 "独特星球"
+ pc_apsr_unique_desc:0 "乍一看似乎很普通，但研究表明，有些东西让这个星球非常独特。"
+ 
+ 
+ 
+ ### новые депозиты
+
+ ## Древние депозиты для Древнего мира с комплексами
+ 
+ apsr_ancient_c_deposit_blocker:0 "探索远古星球"
+ apsr_ancient_c_deposit_blocker_desc:0 "关于这颗行星的许多情况仍然未知，通过对未知领域的彻底探索，我们可能会发现一些有用的东西。"
+ apsr_ancient_c_deposit_blocker_cleared_tooltip:0 "我们的勘探工作发现了几个可以开采能源、矿物或食物等资源的名胜。"
+ 
+ apsr_ancient_c_deposit_energy_1:0 "地下电站"
+ apsr_ancient_c_deposit_energy_1_desc:0 "在这里可以找到一个古代发电机的综合体，它在全球范围内提供能量。"
+ apsr_ancient_c_deposit_energy_1_blocker:0 "被破坏的地下发电站"
+ apsr_ancient_c_deposit_energy_1_blocker_desc:0 "曾经的主动能源综合体，随着时间的推移，其结构的完整性已经恶化。虽然今天只是一堆废金属和石头，但经过努力，它可以恢复正常工作。"
+ 
+ apsr_ancient_c_deposit_energy_2:0 "水力发电复合体"
+ apsr_ancient_c_deposit_energy_2_desc:0 "一个巨大的水力发电厂网络将自然的原始力量，通过河流，转化为全球范围的能源供应。"
+ apsr_ancient_c_deposit_energy_2_blocker:0 "被破坏的水力发电复合体"
+ apsr_ancient_c_deposit_energy_2_blocker_desc:0 "它曾经是全球能源生产网络的一个组成部分，但如今只是一堆被淹没的废金属和石头。只要付出巨大的努力，它就有可能恢复正常。"
+ 
+ apsr_ancient_c_deposit_energy_3:0 "太阳能发电复合体"
+ apsr_ancient_c_deposit_energy_3_desc:0 "一个巨大的复杂的太阳能电池复合体将本地恒星的光转化为能量，并输送到行星网络。"
+ apsr_ancient_c_deposit_energy_3_blocker:0 "被破坏的太阳能发电复合体"
+ apsr_ancient_c_deposit_energy_3_blocker_desc:0 "在这个星球上，一排太阳能电池板已经破损。经过很大的努力，它可能会恢复正常工作。"
+ 
+ apsr_ancient_c_deposit_energy_4:0 "风力发电复合体"
+ apsr_ancient_c_deposit_energy_4_desc:0 "一个复杂的风力涡轮机网络利用星球上混乱的风来产生能量。"
+ apsr_ancient_c_deposit_energy_4_blocker:0 "被破坏的风力发电复合体"
+ apsr_ancient_c_deposit_energy_4_blocker_desc:0 "破碎的风力涡轮机散落在这个星球的大部分表面。经过很大的努力，他们可能会恢复正常工作。"
+ 
+ apsr_ancient_c_deposit_energy_5:0 "热核发电站"
+ apsr_ancient_c_deposit_energy_5_desc:0 "利用核聚变产生能量的复杂热核反应堆网络。"
+ apsr_ancient_c_deposit_energy_5_blocker:0 "废弃的热核发电站"
+ apsr_ancient_c_deposit_energy_5_blocker_desc:0 "在这里可以找到一个庞大的热核反应堆的遗迹。经过很大的努力，它可能会恢复。"
+ 
+ apsr_ancient_c_deposit_energy_6:0 "地热发电站"
+ apsr_ancient_c_deposit_energy_6_desc:0 "在这里可以找到一个巨大的发电站，收集这个行星核心的热能，并将其加工成可用的能量。"
+ apsr_ancient_c_deposit_energy_6_blocker:0 "电站废墟"
+ apsr_ancient_c_deposit_energy_6_blocker_desc:0 "古代地热发电厂的遗迹。虽然它被破坏了，但经过很大的努力就可以恢复。"
+ 
+ apsr_ancient_c_deposit_minerals_1:0 "大型采石场"
+ apsr_ancient_c_deposit_minerals_1_desc:0 "一个巨大的露天煤矿，在那里各种各样的矿物在接近地表的地方被开采。在这里收集的材料被用来供应行星复合体。"
+ apsr_ancient_c_deposit_minerals_1_blocker:0 "倒塌的采石场"
+ apsr_ancient_c_deposit_minerals_1_blocker_desc:0 "原大型露天矿露天露天矿，随着时间的推移和地质运动的影响，其边缘塌陷，覆盖了原可采区域。经过相当大的努力，它可能会被清理，并可能建立一个采矿设施。"
+ 
+ apsr_ancient_c_deposit_minerals_2:0 "深核心矿井"
+ apsr_ancient_c_deposit_minerals_2_desc:0 "深埋在地核深处的矿井。各种矿物在这里被提取、运送和加工，然后用专门的锻造设备组成这个行星综合体。"
+ apsr_ancient_c_deposit_minerals_2_blocker:0 "倒塌的矿井"
+ apsr_ancient_c_deposit_minerals_2_blocker_desc:0 "它曾经是一个非常繁荣的采矿作业，但现在只是一个充满碎片的洞。我们的地质学家已经探测到有用的材料，认为它们仍然可以被收集。通过清理碎片，我们可以恢复采矿设备，并为自己使用它。"
+ 
+ apsr_ancient_c_deposit_minerals_3:0 "液化气体提取复合体"
+ apsr_ancient_c_deposit_minerals_3_desc:0 "一个复杂的装置，从行星地幔中提取各种燃料和气体，然后由当地的行星工业处理。"
+ apsr_ancient_c_deposit_minerals_3_blocker:0 "提取复合体废墟"
+ apsr_ancient_c_deposit_minerals_3_blocker_desc:0 "我们的星球物理学家设法在这个星球的地幔下发现了一个巨大的天然气和液体燃料的储藏库。似乎我们不是第一个尝试和收获这些资源的人，因为在这里可以找到提取操作的残余。经过相当大的努力，我们可以建立一个收集行动。"
+ 
+ apsr_ancient_c_deposit_minerals_4:0 "矿物冶炼复合体"
+ apsr_ancient_c_deposit_minerals_4_desc:0 "从废石中提纯矿物质的设施。这改善了在星球上开采的矿物的质量，其中一些用于供应当地的行星定居点。"
+ apsr_ancient_c_deposit_minerals_4_blocker:0 "矿物冶炼复合体残骸"
+ apsr_ancient_c_deposit_minerals_4_blocker_desc:0 "虽然现在它可能只是一个残骸，但很久以前它是一个非常有用的矿物复合体。经过很大的努力，它可能会恢复正常工作。"
+ 
+ apsr_ancient_c_deposit_food_1:0 "地下农业复合体"
+ apsr_ancient_c_deposit_food_1_desc:0 "在这个古老世界的深处，可以找到广阔的地下空间，专门用来耕种。"
+ apsr_ancient_c_deposit_food_1_blocker:0 "损坏的农业综合体"
+ apsr_ancient_c_deposit_food_1_blocker_desc:0 "一个庞大的地下农业综合体的遗迹，由于年代久远和地质运动而日益恶化。虽然经济不会完全复苏，但要让经济恢复正常，仍需要大量投资。"
+ 
+ apsr_ancient_c_deposit_food_2:0 "GMO - 植物实验室"
+ apsr_ancient_c_deposit_food_2_desc:0 "一个设施，在那里植物被修改和增强，以更有弹性，生产更多，增长更快。这里发生的工作提高了星球的整体农业产出。"
+ apsr_ancient_c_deposit_food_2_blocker:0 "损坏的GMP -工厂实验室"
+ apsr_ancient_c_deposit_food_2_blocker_desc:0 "一个被毁坏的设施，在那里进行了植物的基因改造。虽然大部分研究已经结束，设备也无法恢复，但我们可以尝试恢复它。"
+ 
+ apsr_ancient_c_deposit_food_3:0 "GMA - 动物实验室"
+ apsr_ancient_c_deposit_food_3_desc:0 "动物改良和改良以更好地服务于农业的设施。它提高了星球的粮食产量。"
+ apsr_ancient_c_deposit_food_3_blocker:0 "损坏的GMA - 动物实验室"
+ apsr_ancient_c_deposit_food_3_blocker_desc:0 "一个被毁坏的设施，在那里进行动物的基因改造。虽然大部分设备都损坏了，但我们可以设法修复。"
+ 
+ ## Древние депозиты для Древнего мира без комплексов
+ 
+ apsr_ancient_deposit_blocker:0 "$apsr_ancient_c_deposit_blocker$"
+ apsr_ancient_deposit_blocker_desc:0 "$apsr_ancient_c_deposit_blocker_desc$"
+ apsr_ancient_deposit_blocker_cleared_tooltip:0 "$apsr_ancient_c_deposit_blocker_cleared_tooltip$"
+ 
+ apsr_ancient_deposit_energy_1:0 "$apsr_ancient_c_deposit_energy_1$"
+ apsr_ancient_deposit_energy_1_desc:0 "一个古老的发电机网络，为星球表面提供能源。"
+ apsr_ancient_deposit_energy_1_blocker:0 "$apsr_ancient_c_deposit_energy_1_blocker$"
+ apsr_ancient_deposit_energy_1_blocker_desc:0 "$apsr_ancient_c_deposit_energy_1_blocker_desc$"
+ 
+ apsr_ancient_deposit_energy_2:0 "$apsr_ancient_c_deposit_energy_2$"
+ apsr_ancient_deposit_energy_2_desc:0 "在这个星球上，河流的流动被转化成能量，用来供给周围的建筑物。"
+ apsr_ancient_deposit_energy_2_blocker:0 "$apsr_ancient_c_deposit_energy_2_blocker$"
+ apsr_ancient_deposit_energy_2_blocker_desc:0 "$apsr_ancient_c_deposit_energy_2_blocker_desc$"
+ 
+ apsr_ancient_deposit_energy_3:0 "$apsr_ancient_c_deposit_energy_3$"
+ apsr_ancient_deposit_energy_3_desc:0 "一个由太阳行星组成的网络，它将当地恒星的光线转化为可用的能量。"
+ apsr_ancient_deposit_energy_3_blocker:0 "$apsr_ancient_c_deposit_energy_3_blocker$"
+ apsr_ancient_deposit_energy_3_blocker_desc:0 "$apsr_ancient_c_deposit_energy_3_blocker_desc$"
+ 
+ apsr_ancient_deposit_energy_4:0 "$apsr_ancient_c_deposit_energy_4$"
+ apsr_ancient_deposit_energy_4_desc:0 "一个复杂的空气涡轮机，利用星球上的空气运动来产生能量。"
+ apsr_ancient_deposit_energy_4_blocker:0 "$apsr_ancient_c_deposit_energy_4_blocker$"
+ apsr_ancient_deposit_energy_4_blocker_desc:0 "$apsr_ancient_c_deposit_energy_4_blocker_desc$"
+ 
+ apsr_ancient_deposit_energy_5:0 "$apsr_ancient_c_deposit_energy_5$"
+ apsr_ancient_deposit_energy_5_desc:0 "利用核聚变产生能量的热核发电厂的综合体。"
+ apsr_ancient_deposit_energy_5_blocker:0 "$apsr_ancient_c_deposit_energy_5_blocker$"
+ apsr_ancient_deposit_energy_5_blocker_desc:0 "$apsr_ancient_c_deposit_energy_5_blocker_desc$"
+ 
+ apsr_ancient_deposit_energy_6:0 "$apsr_ancient_c_deposit_energy_6$"
+ apsr_ancient_deposit_energy_6_desc:0 "一个利用星球地热能源的发电厂。"
+ apsr_ancient_deposit_energy_6_blocker:0 "$apsr_ancient_c_deposit_energy_6_blocker$"
+ apsr_ancient_deposit_energy_6_blocker_desc:0 "$apsr_ancient_c_deposit_energy_6_blocker_desc$"
+ 
+ apsr_ancient_deposit_minerals_1:0 "$apsr_ancient_c_deposit_minerals_1$"
+ apsr_ancient_deposit_minerals_1_desc:0 "露天矿，进行各种采矿作业。"
+ apsr_ancient_deposit_minerals_1_blocker:0 "$apsr_ancient_c_deposit_minerals_1_blocker$"
+ apsr_ancient_deposit_minerals_1_blocker_desc:0 "$apsr_ancient_c_deposit_minerals_1_blocker_desc$"
+ 
+ apsr_ancient_deposit_minerals_2:0 "$apsr_ancient_c_deposit_minerals_2$"
+ apsr_ancient_deposit_minerals_2_desc:0 " 一个非常深的矿井，它通向星球的深处。有用的矿物是从最深处提取出来的。"
+ apsr_ancient_deposit_minerals_2_blocker:0 "$apsr_ancient_c_deposit_minerals_2_blocker$"
+ apsr_ancient_deposit_minerals_2_blocker_desc:0 "$apsr_ancient_c_deposit_minerals_2_blocker_desc$"
+ 
+ apsr_ancient_deposit_minerals_3:0 "$apsr_ancient_c_deposit_minerals_3$"
+ apsr_ancient_deposit_minerals_3_desc:0 "提取气体和液体燃料的复杂装置。"
+ apsr_ancient_deposit_minerals_3_blocker:0 "$apsr_ancient_c_deposit_minerals_3_blocker$"
+ apsr_ancient_deposit_minerals_3_blocker_desc:0 "$apsr_ancient_c_deposit_minerals_3_blocker_desc$"
+ 
+ apsr_ancient_deposit_minerals_4:0 "$apsr_ancient_c_deposit_minerals_4$"
+ apsr_ancient_deposit_minerals_4_desc:0 "一种矿物提纯的设备，可以提高星球采矿作业的总体产量。"
+ apsr_ancient_deposit_minerals_4_blocker:0 "$apsr_ancient_c_deposit_minerals_4_blocker$"
+ apsr_ancient_deposit_minerals_4_blocker_desc:0 "$apsr_ancient_c_deposit_minerals_4_blocker_desc$"
+ 
+ apsr_ancient_deposit_minerals_5:0 "海上开采平台"
+ apsr_ancient_deposit_minerals_5_desc:0 "管理周围海底采矿作业的平台。"
+ apsr_ancient_deposit_minerals_5_blocker:0 "平台残骸"
+ apsr_ancient_deposit_minerals_5_blocker_desc:0 "以前的采矿平台的遗迹可以在海底周围找到。虽然无法恢复，但该地区丰富的矿藏使其值得建立一个替代。"
+ 
+ apsr_ancient_deposit_minerals_6:0 "富饶的海底"
+ apsr_ancient_deposit_minerals_6_desc:0 "在海底可以找到各种各样的矿藏。"
+ apsr_ancient_deposit_minerals_6_blocker:0 "海底废墟"
+ apsr_ancient_deposit_minerals_6_blocker_desc:0 "一处曾经的采矿设施散落在海底。通过大量的投资和努力，我们可以使它恢复正常工作。"
+ 
+ apsr_ancient_deposit_food_1:0 "$apsr_ancient_c_deposit_food_1$"
+ apsr_ancient_deposit_food_1_desc:0 "在这个古老的世界里可以找到一个庞大的地下农业综合体。"
+ apsr_ancient_deposit_food_1_blocker:0 "$apsr_ancient_c_deposit_food_1_blocker$"
+ apsr_ancient_deposit_food_1_blocker_desc:0 "$apsr_ancient_c_deposit_food_1_blocker_desc$"
+ 
+ apsr_ancient_deposit_food_2:0 "$apsr_ancient_c_deposit_food_2$"
+ apsr_ancient_deposit_food_2_desc:0 "用于农业目的的转基因植物设施。"
+ apsr_ancient_deposit_food_2_blocker:0 "$apsr_ancient_c_deposit_food_2_blocker$"
+ apsr_ancient_deposit_food_2_blocker_desc:0 "$apsr_ancient_c_deposit_food_2_blocker_desc$"
+ 
+ apsr_ancient_deposit_food_3:0 "$apsr_ancient_c_deposit_food_3$"
+ apsr_ancient_deposit_food_3_desc:0 "为提高农业产量而对动物进行基因改造的设施。"
+ apsr_ancient_deposit_food_3_blocker:0 "$apsr_ancient_c_deposit_food_3_blocker$"
+ apsr_ancient_deposit_food_3_blocker_desc:0 "$apsr_ancient_c_deposit_food_3_blocker_desc$"
+ 
+ apsr_ancient_deposit_food_4:0 "海藻农场"
+ apsr_ancient_deposit_food_4_desc:0 "利用湖泊种植某些可食用藻类的农业综合体。"
+ apsr_ancient_deposit_food_4_blocker:0 "藻类"
+ apsr_ancient_deposit_food_4_blocker_desc:0 "这个地区生长着大量可食用的藻类。建议建立农业综合利用设施。"
+ 
+ apsr_ancient_deposit_food_5:0 "巨大的种植园"
+ apsr_ancient_deposit_food_5_desc:0 "这个星球表面的很大一部分被一个蔓生的种植园所占据。"
+ apsr_ancient_deposit_food_5_blocker:0 "肥沃的土壤"
+ apsr_ancient_deposit_food_5_blocker_desc:0 "根据我们的标准，岩石圈所显示的肥力水平是远远超过我们的。顾问们建议利用这一点，建立一个农业复合体。"
+ 
+ apsr_ancient_deposit_food_6:0 "动物饲养复合体"
+ apsr_ancient_deposit_food_6_desc:0 "星球表面的很大一部分被庞大的畜牧业经营网络所占据。"
+ apsr_ancient_deposit_food_6_blocker:0 "动物饲料"
+ apsr_ancient_deposit_food_6_blocker_desc:0 "这个星球的植物群显示出惊人的营养价值;它可以用来种植和饲养动物。然而，它将采取大量的努力，以适当的收获它。"
+ 
+ ## Уникальные депозиты для уникального мира 
+ 
+ apsr_unique_deposit_blocker:0 "探索独特星球"
+ apsr_unique_deposit_blocker_desc:0 "$apsr_ancient_c_deposit_blocker_desc$"
+ apsr_unique_deposit_blocker_cleared_tooltip:0 "$apsr_ancient_c_deposit_blocker_cleared_tooltip$"
+ 
+ apsr_unique_deposit_energy_1:0 "强风"
+ apsr_unique_deposit_energy_1_desc:0 "环绕这个星球的风达到了惊人的速度。"
+ apsr_unique_deposit_energy_2:0 "强流
+ apsr_unique_deposit_energy_2_desc:0 "这个星球上有些河流的水流非常快。"
+ apsr_unique_deposit_energy_3:0 "艳阳"
+ apsr_unique_deposit_energy_3_desc:0 "由于臭氧层很薄，当地恒星发出的辐射会全力撞击星球上的一些地方。"
+ apsr_unique_deposit_minerals_1:0 "高山"
+ apsr_unique_deposit_minerals_1_desc:0 "这个星球上的山脉达到了令人印象深刻的高度。"
+ apsr_unique_deposit_minerals_2:0 "丰富的矿藏"
+ apsr_unique_deposit_minerals_2_desc:0 "丰富的矿藏散布在这个星球的地壳上。"
+ apsr_unique_deposit_minerals_3:0 "独特的矿物"
+ apsr_unique_deposit_minerals_3_desc:0 "在这个星球上可以找到一些独特的元素。"
+ apsr_unique_deposit_food_1:0 "独特的植物"
+ apsr_unique_deposit_food_1_desc:0 "这个星球的植物群以一种非常奇特的方式进化着。"
+ apsr_unique_deposit_food_2:0 "独特的野生动物"
+ apsr_unique_deposit_food_2_desc:0 "这个星球的动物群以一种非常奇特的方式进化着。"
+ apsr_unique_deposit_food_3:0 "独特的土壤"
+ apsr_unique_deposit_food_3_desc:0 "这个星球的土壤异常肥沃。"
+ 
+  
+ 
  ### модификаторы терраформинга
  
  apsr_terraforming_candidate:0 "有价值的星球"
@@ -68,28 +283,21 @@
  
  apsr_unshielded_candidate:0 "有价值的星球"
  apsr_unshielded_candidate_desc:0 "这个星球拥有非常宝贵的独特资源。\n曾几何时，这颗行星被一道无法穿透的护盾封闭着。在花费了大量的努力之后，我们可以尝试移除护盾并重新填充这个星球。不幸的是，有了它，星球上所有的生物和机械都将被摧毁。"
+
  
  
+ ### Раздел технологий
+  
+ apsr_knowledge_tech:0 "远古知识"
+ apsr_knowledge_tech_desc:0 "曾经存在的帝国的技术"
+  
  
- ### новые указы (ЭТО ВРЕМЕННО - СПОЙЛЕР)
  
- edict_apsr_knowledge_to_energy:0 "远古知识 - 能量币"
- edict_apsr_knowledge_to_energy_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以大大提升我们的能源网络的性能！"
+ ### Прочее
+ apsr_knowledges_found:0 "发现$apsr_knowledge$:"
+ AI_discount_APSR:0 "AI 计数"
+ planet_apsr_buildings:0 "独特的建筑"
+ mod_planet_apsr_buildings_cost_mult:0 "独特的建筑成本"
+ tech_apsr_special:0 "技术封锁"
+ tech_apsr_special_desc:0 "这是一种特殊的技术，一旦代码被执行，它就会阻止更多ENCLAVE技术的出现(随机技术还没有被阻止)。要重新研究它是不可能的!"
  
- edict_apsr_knowledge_to_minerals:0 "远古知识 - 矿物"
- edict_apsr_knowledge_to_minerals_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以显着提高矿物的产量！"
- 
- edict_apsr_knowledge_to_food:0 "远古知识 - 食物"
- edict_apsr_knowledge_to_food_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以显着提高食品农场的生产力！"
- 
- edict_apsr_knowledge_to_goods:0 "远古知识 - 消费品"
- edict_apsr_knowledge_to_goods_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以大大提升我们工厂的性能！"
- 
- edict_apsr_knowledge_to_alloys:0 "远古知识 - 合金"
- edict_apsr_knowledge_to_alloys_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以大大提高我们合金工厂的性能！"
- 
- edict_apsr_knowledge_to_unity:0 "远古知识 - 凝聚力"
- edict_apsr_knowledge_to_unity_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以大大加强我们帝国的统一！"
- 
- edict_apsr_knowledge_to_science:0 "远古知识 - 科研"
- edict_apsr_knowledge_to_science_desc:0 "通过使用累积的§M$apsr_knowledge$§!，我们可以大大加强对我们帝国的研究！"

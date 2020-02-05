@@ -116,9 +116,9 @@ mod_est_destruction_3_eradicated_desc:0 "这个星球的表面已经被彻底摧
 #Industry
 mod_est_industry_5:0 "锻造世界"
 mod_est_industry_5_desc:0 "$tr_est_industry_5_delayed$"
-mod_est_industry_5_GC:0 "$mod_est_industry_5_machines$"
+mod_est_industry_5_GC:0 "$mod_est_industry_5$"
 mod_est_industry_5_GC_desc:0 "$mod_est_industry_5_desc$"
-mod_est_industry_5_machines:0 "$mod_est_industry_5_machines$"
+mod_est_industry_5_machines:0 "$mod_est_industry_5$"
 mod_est_industry_5_machines_desc:0 "$mod_est_industry_5_desc$"
 
 #Liberty
@@ -183,8 +183,8 @@ mod_est_cybernetics_5_slave:0 "$tr_est_cybernetics_5$"
 mod_est_cybernetics_5_chemical_bliss:0 "$tr_est_cybernetics_5$"
 
 #Friendship/Malice
-mod_est_malice_1:0 "$tr_est_malice_1$"
-mod_est_malice_2:0 "$tr_est_malice_2$"
+mod_est_malice_1:0 "$tr_est_malice_adopt$"
+mod_est_malice_2:0 "$tr_est_malice_adopt$"
 
 #Justice
 mod_est_justice_finish_1:0 "$tr_est_justice_adopt$"
@@ -201,7 +201,7 @@ mod_est_hacking_2:0 "$tr_est_hacking_2$"
 mod_est_hacking_4:0 "$tr_est_hacking_4$"
 
 #Aesthetics
-mod_est_aesthetics_3_xenophobe:0 "$tr_est_aesthetics_3_no_dip$"
+mod_est_aesthetics_3_xenophobe:0 "$tr_est_aesthetics_3_xenophobe$"
 
 #Archivist
 mod_est_archivist_2_astronomy:0 "$leader_trait_scientist_est_librarian_astronomy$"
@@ -525,7 +525,7 @@ mod_est_destruction_5_no_rivals:0 "$tr_est_destruction_5$"
 mod_est_destruction_finish:0 "$tr_est_justice_adopt$"
 
 #Liberty
-mod_est_liberty_5:0 "$tr_est_liberty_5"
+mod_est_liberty_5:0 "$tr_est_liberty_5$"
 
 #Militarism/Might
 mod_est_militarism_adopt:0 "$tr_est_militarism_adopt$"

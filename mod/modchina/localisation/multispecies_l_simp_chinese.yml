@@ -1,0 +1,169 @@
+﻿l_simp_chinese:
+ ####################################
+ # Misc
+ ####################################
+ 
+
+ 
+ job_larva_queen:0 "母巢之女王"
+ job_larva_queen_plural:0 "母巢之女王"
+ job_larva_queen_desc:0 "一个成熟的女王季节性地产生有翅膀的处女工蜂和雄性工蜂，叫做有翅工蜂。未受精卵发育成雄性。受精卵通常会发育成没有翅膀的不育工蜂，但如果幼虫受到特殊照顾，它们可能会发育成处女女王。" 
+ 
+ civic_organic:0 "有机结构"
+ civic_organic_desc: "这个蜂巢通过随意改变其幼虫来创造有生命的结构和宇宙飞船。"
+ civic_tooltip_organic_effects:0 "游戏开始时为§Y有机§!舰船种类(会覆盖您选择的任何舰船种类)。\n\n可以花费£food£ §Y$food$§!和£larva£ §Y幼虫§!来建造§Y舰船§!, §Y建筑§!和§Y前哨站§!，作为£alloys£ §Y合金§!和£minerals£ §Y矿物§!减少的回报。\n每50个人口中增加一个£job_larva_queen£ §Y$job_larva_queen$§!岗位。\n可以使用§Y繁殖焦点§!政策，在§Y$job_larva_queen$§!之间集中产出£larva£ §Y幼虫§!和人口增长\n§Y每日船体值回复§!增加§G+1%§!\n农民产出: §G+2§!\n矿工产出: §R-1§!"
+
+
+ organic_structures_alates_name:0 "繁殖航班" 
+ organic_structures_normal_name:0 "平衡孵化" 
+ organic_structures_workers_name:0 "不育劳工"
+ policy_organic_structures_policy:0 "繁殖焦点"
+ policy_organic_structures_policy_desc:0 "幼崽可以选择让它们的女王产卵，产卵后的卵会变成幼虫或工蜂。"
+ organic_structures_normal:0 "平衡孵化"
+ organic_structures_normal_desc:0 "一个平衡的群体是一个健康的群体。\n母巢之女王: 人口增长速度: §G+5%§!"
+ organic_structures_alates:0 "繁殖航班"
+ organic_structures_alates_desc:0 "幼虫的缺乏是一个问题，定期的繁殖飞行帮助孵化的女王产下更多的工蜂幼虫，这将有助于蜂群的扩张和成长。"
+ organic_structures_workers:0 "不育劳工"
+ organic_structures_workers_desc:0 "如果蜂群有足够的工蜂幼虫，它可以选择通过将繁殖飞行次数减少到零来生产更多的劳动力，这将使幼虫不育，永远无法变形为任何建筑或飞船。\n母巢之女王: 人口增长速度: §G+10%§!"
+ mod_planet_larva_queens_larva_produces_add: "繁殖女王幼虫"
+ planet_larva_queens: "母巢之女王"
+
+ ####################################
+ # Planetary Buildings
+ ####################################
+ 
+ building_bioresource_silo:0 "资源孤岛"
+ building_bioresource_silo_desc:0 "大量的资源筒仓和储存设施，其中大量的资源可以安全地保存。"
+ 
+ building_biobetharian_power_plant:0 "贝塞里安发电厂"
+ building_biobetharian_power_plant_desc:1 "贝塞里安发电厂消耗贝塞里安石来生产大量的能量币。"
+
+ building_bioenergy_grid:0 "能源网"
+ building_bioenergy_grid_desc:0 "精心校准的电网能使发电机的输出最大化。"
+ building_bioenergy_nexus:0 "能源枢纽"
+ building_bioenergy_nexus_desc:0 "这个巨大的设施集中了先去上所有的能源网，提高了它们的效率。"
+ building_biomineral_purification_plant:2 "矿物净化器"
+ building_biomineral_purification_plant_desc:2 "通过这些净化器的矿物具有最高的质量。"
+ building_biomineral_purification_hub:2 "矿物净化中心"
+ building_biomineral_purification_hub_desc:2 "巨大的集线器，在那里矿物被接收，然后运送到一系列的净化器。"
+ 
+ building_bioplanetary_shield_generator:0 "行星护盾发生器"
+ building_bioplanetary_shield_generator_desc:0 "$tech_planetary_shield_generator_desc$"
+ 
+ building_biostronghold:0 "要塞"
+ building_biostronghold_desc:0 "这是一个星球上的要塞，驻扎着一支强大的驻军部队，以保护先去免受入侵和叛乱。"
+ building_biofortress:0 "堡垒"
+ building_biofortress_desc:2 "一个巨大的堡垒群，有扩大的驻军和士兵训练设施。"
+
+ 
+
+ ####################################
+ # Wonders
+ ####################################
+ 
+ building_superbrain:1 "行星超级计算机"
+ building_superbrain_desc:1 "一台可以进行极其复杂计算的巨大超级计算机，提高整个星球的研究产出。"
+ 
+ building_biomilitary_academy:0 "军事学院"
+ building_biomilitary_academy_desc:1 "军事院校提高了当地的征兵率，并提供更高水平的培训。"
+
+ 
+ ## BUILDINGS ##
+ building_biohydroponics_farm:0 "水培农场"
+ building_biohydroponics_farm_desc:0 "水培农场生产营养丰富的蔬菜物质，适合当地的人口消费。"
+
+ building_biocrystal_mines:0 "水晶矿"
+ building_biocrystal_mines_desc:1 "挖掘这些矿时必须十分小心，以免损坏晶体。"
+ building_bioalloy_1:0 "合金铸造厂"
+ building_bioalloy_1_desc:0 "在这些铸造厂工作的冶金学家生产高质量的合金。"
+ building_bioalloy_2:0 "大型合金锻造厂"
+ building_bioalloy_2_desc:0 "这些锻件生产规模大，能大量生产合金。"
+ building_bioalloy_3:0 "合金纳米制造中心"
+ building_bioalloy_3_desc:0 "先进的制造中心，合金生产过程由纳米机械辅助。"
+
+
+ building_bio_lab_1:0 "研究实验室"
+ building_bio_lab_1_desc:0 "研究实验室为一般研究提供基础设施。"
+ building_bio_lab_2:0 "研究复合体"
+ building_bio_lab_2_desc:0 "升级后的研究设施，拥有非常大的人员容量。"
+ building_bio_lab_3:0 "先进研究复合体"
+ building_bio_lab_3_desc:0 "这些先进的研究设施拥有最新的科学设备和非常大的工作人员能力。"
+
+ building_biofood_processing_facility:0 "食品加工厂"
+ building_biofood_processing_facility_desc:0 "在这些工厂加工的食品营养价值大大提高了。"
+ building_biofood_processing_center:0 "食品加工中心"
+ building_biofood_processing_center_desc:0 "精简的设施，可以处理大量的食物。"
+
+ building_biorefinery:0 "异星天然气精炼厂"
+ building_biorefinery_desc:0 "这些先进的精炼厂日夜工作以生产异星天然气。"
+ building_biocrystal_plant:0 "合成水晶工厂"
+ building_biocrystal_plant_desc:0 "这里生产的晶体与真品几乎一样，质量上乘。"
+ building_biochemical_plant:0 "化工厂"
+ building_biochemical_plant_desc:0 "这些不可预测的，有时是不稳定的挥发性尘埃是在这里人工产生的。在核电站方圆五公里内禁止明火。"
+ building_biomote_harvesters:0 "易爆微粒收获陷阱"
+ building_biomote_harvesters_desc:0 "这些复杂的设施将易爆微粒困在能量场中，将它们汇集到地下特殊的封闭区域，在那里它们可以被稳定下来并收获。"
+ building_biogas_extractors:0 "异星天然气开采井"
+ building_biogas_extractors_desc:0 "这些巨大的油井深入到先去的地幔深处，以获取大量的异星天然气。"
+
+ 
+ 
+ mod_starbase_buildings_alloys_cost_mult:0 "恒星基地建筑合金成本"
+ mod_starbase_buildings_food_cost_add:0 "恒星基地建筑食物成本"
+ mod_starbase_modules_alloys_cost_mult:0 "恒星基地模块合金成本"
+ mod_starbase_modules_food_cost_add:0 "恒星基地模块食物成本"
+  
+ mod_planet_districts_minerals_cost_mult:0 "区划矿物成本"
+ mod_planet_districts_food_cost_add:0 "区划食物成本"
+ mod_planet_buildings_minerals_cost_mult:0 "行星建筑合金成本"
+ mod_planet_buildings_food_cost_add:0 "行星建筑食物成本"
+ 
+ mod_stations_minerals_cost_mult:0 "空间站矿物成本"
+ mod_stations_food_cost_add:0 "空间站食物成本"
+ 
+ mod_station_gatherers_minerals_cost_mult:0 "采矿站矿物成本"
+ mod_station_gatherers_food_cost_add:0 "采矿站食物成本"
+ mod_station_gatherers_energy_upkeep_mult:0 "采矿站能量币维护"
+ mod_station_gatherers_food_upkeep_add:0 "采矿站食物维护"
+ mod_station_researchers_minerals_cost_mult:0 "研究站矿物成本"
+ mod_station_researchers_food_cost_add:0 "研究站食物成本"
+ mod_station_researchers_energy_upkeep_mult:0 "研究站能量币维护"
+ mod_station_researchers_food_upkeep_add:0 "研究站食物维护"
+ mod_station_observers_minerals_cost_mult:0 "观察站矿物成本"
+ mod_station_observers_food_cost_add:0 "观察站食物成本"
+ mod_station_observers_energy_upkeep_mult:0 "观察站能量币维护"
+ mod_station_observers_food_upkeep_add:0 "观察站食物维护"
+ 
+ mod_ship_science_alloys_cost_mult:0 "科研船合金成本"
+ mod_ship_science_food_cost_add:0 "科研船食物成本"
+ mod_ship_science_alloys_upkeep_mult:0 "科研船合金维护"
+ mod_ship_science_food_upkeep_add:0 "科研船食物维护"
+ mod_ship_colonizer_alloys_cost_mult:0 "殖民船合金成本"
+ mod_ship_colonizer_food_cost_add:0 "殖民船食物成本"
+ mod_ship_colonizer_alloys_upkeep_mult:0 "殖民船合金维护"
+ mod_ship_colonizer_food_upkeep_add:0 "殖民船食物维护"
+ mod_ship_constructor_alloys_cost_mult:0 "工程船合金成本"
+ mod_ship_constructor_food_cost_add:0 "工程船食物成本"
+ mod_ship_constructor_alloys_upkeep_mult:0 "工程船合金维护"
+ mod_ship_constructor_food_upkeep_add:0 "工程船食物维护"
+ mod_ship_corvette_alloys_cost_mult:0 "护卫舰合金成本"
+ mod_ship_corvette_food_cost_add:0 "护卫舰食物成本"
+ mod_ship_destroyer_alloys_cost_mult:0 "驱逐舰合金成本"
+ mod_ship_destroyer_food_cost_add:0 "驱逐舰食物成本"
+ mod_ship_cruiser_alloys_cost_mult:0 "巡洋舰合金成本"
+ mod_ship_cruiser_food_cost_add:0 "巡洋舰食物成本"
+ mod_ship_battleship_alloys_cost_mult:0 "战列舰合金成本"
+ mod_ship_battleship_food_cost_add:0 "战列舰食物成本"
+ mod_ship_titan_alloys_cost_mult:0 "泰坦合金成本"
+ mod_ship_titan_food_cost_add:0 "泰坦食物成本"
+ mod_ship_military_station_small_alloys_cost_mult:0 "防御平台合金成本"
+ mod_ship_military_station_small_food_cost_add:0 "防御平台食物成本"
+ mod_ship_corvette_alloys_upkeep_mult:0 "护卫舰合金维护"
+ mod_ship_corvette_food_upkeep_add:0 "护卫舰食物维护"
+ mod_ship_destroyer_alloys_upkeep_mult:0 "驱逐舰合金维护"
+ mod_ship_destroyer_food_upkeep_add:0 "驱逐舰食物维护"
+ mod_ship_cruiser_alloys_upkeep_mult:0 "巡洋舰合金维护"
+ mod_ship_cruiser_food_upkeep_add:0 "巡洋舰食物维护"
+ mod_ship_battleship_alloys_upkeep_mult:0 "战列舰合金维护"
+ mod_ship_battleship_food_upkeep_add:0 "战列舰食物维护"
+ mod_ship_titan_alloys_upkeep_mult:0 "泰坦合金维护"
+ mod_ship_titan_food_upkeep_add:0 "泰坦食物维护"

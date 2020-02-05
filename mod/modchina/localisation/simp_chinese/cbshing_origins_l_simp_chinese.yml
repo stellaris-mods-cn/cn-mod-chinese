@@ -237,7 +237,7 @@
  cbshing_origins_lost_colony_event.1.desc:0 "在大气中的登陆舰缓缓降落在装饰华美的登机台上时，来自[Root.Capital.GetName]的[Root.GetSpeciesNamePlural]人们首次踏上了自己故乡的大地。一大排的政府官员和特权阶级与[Root.GetRulerTitle] [Root.GetRulerName]一起站在这个降落区，他们全部穿着[Root.GetAdj]的服饰，第一次踏出在[Root.GetHomeWorldName]上的第一步。\n\n从今天起，我们将不再只是[Root.GetName]的公民，而是所有[Root.GetSpeciesName]的一员。"
  cbshing_origins_lost_colony_event.1.a:0 "愿[Root.GetSpeciesName]永远团结！"
  cbshing_origins_lost_colony_event.3.name:0 "与失散的同胞重聚"
- cbshing_origins_lost_colony_event.3.desc:0 "随着外交船只的对接程序完成，人们听到了由衷的感叹声与群众的欢呼声。这是[Root.GetSpeciesName]一族的历史性时刻。长久以来被认为在无尽虚空中迷路的同胞们最终重聚在一起。\n\n当真空门打开，他们的政府官员走出太空船的时候，[Root.GetRulerTitle] [Root.GetRulerName]微笑着向他们迎了上去。从今天起，我们将不再只是[Root.GetName]的公民，而是所有[Root.GetSpeciesName]的一员。"
+ cbshing_origins_lost_colony_event.3.desc:0 "随着外交飞船的对接程序完成，人们听到了由衷的感叹声与群众的欢呼声。这是[Root.GetSpeciesName]一族的历史性时刻。长久以来被认为在无尽虚空中迷路的同胞们最终重聚在一起。\n\n当真空门打开，他们的政府官员走出太空船的时候，[Root.GetRulerTitle] [Root.GetRulerName]微笑着向他们迎了上去。从今天起，我们将不再只是[Root.GetName]的公民，而是所有[Root.GetSpeciesName]的一员。"
  cbshing_origins_lost_colony_event.3.a:0 "愿[Root.GetSpeciesName]永远团结！"
  cbshing_origins_lost_colony_event.5.name:0 "发现[Owner.GetHomeWorldName]"
  cbshing_origins_lost_colony_event.5.desc:0 "在[Root.GetName]脱离了超光速航行时，天体探测员发出了令人惊讶的报告。这个宙域的小行星似乎与我们失落的家园星系的历史星图相匹配。如果那位探测员没有搞错的话，那么[Owner.GetHomeWorldName]应该就在附近。\n\n令人兴奋的消息传到了我们的首都，这对所有[Owner.GetName]来说都是历史性的一天！在无尽的岁月后，如今家园近在咫尺。"

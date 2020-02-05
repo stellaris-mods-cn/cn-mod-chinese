@@ -1,10 +1,10 @@
-﻿
+﻿# Vestigial Wormhole
 # By ViolentBeetle
 
 l_simp_chinese:
 
  mem_vestigial_wormhole_object: "残留虫洞"
- mem_vestigial_wormhole_object_desc: "连接两个遥远地点的空间裂隙。这次危机已经在复苏之外破坏了稳定——不太可能有任何东西进出。"
+ mem_vestigial_wormhole_object_desc: "连接两个遥远地点的空间裂隙。其中一个变得不稳定而且也超出可以恢复的界限——不太可能有东西进去或出来。"
  mem_vestigial_wormhole_ship_object: "未知舰船"
  
  MEM_VESTIGIAL_WORMHOLE_TEMPLATE: "虫洞探测器部分"
@@ -22,10 +22,10 @@ l_simp_chinese:
  mem_vestigial_wormhole_ruler_spider_desc: "$mem_vestigial_wormhole_scientist_spider_desc$"
  
  mem_vestigial_wormhole.2.name: "退化的虫洞"
- mem_vestigial_wormhole.2.desc: "§Y[From.GetName]§!星系包含一个不寻常的东西——§S虫洞§!。 \n\n然而，这一个是高度不稳定的虫洞。也许在遥远的过去，穿越它到遥远的世界是可能的，但现在它几乎完全崩溃了。它混乱的本质使得它不可能穿越:任何东西都不可能进入或离开它。"
+ mem_vestigial_wormhole.2.desc: "§Y[From.GetName]§!星系包含一个不寻常的东西——§S虫洞§!。\n\n然而，这一个是高度不稳定的虫洞。也许在遥远的过去，穿越它到遥远的地方是可能的，但现在它几乎完全崩溃了。它混乱的状态使得它不可能穿越：任何东西都不可能进入或离开它。"
  
  mem_vestigial_wormhole.3.name: "退化的虫洞"
- mem_vestigial_wormhole.3.desc: "§Y[the_system.GetName]§!星系中的虫洞已经被证明没有我们想象的那么不稳定。 \n\n今天，一艘外星飞船不顾一切的从里面出来了。这似乎是最后一根稻草——片刻之后虫洞完全坍塌了。 \n\n这艘船不同于以前遇到的任何其他船。它看起来是完全惰性的，并在星系中缓慢漂移。"
+ mem_vestigial_wormhole.3.desc: "§Y[the_system.GetName]§!星系中的虫洞已经被证明没有我们想象的那么不稳定。 \n\n今天，一艘外星飞船不顾一切的从里面出来了。这似乎是最后一根稻草——片刻之后虫洞完全坍塌了。 \n\n这艘船不同于以前遇到的任何其他船。它看起来是完全关闭状态的，在深空中缓慢漂着。"
  mem_vestigial_wormhole.3.a: "我们应该调查。"
  mem_vestigial_wormhole.3.b: "把入侵者炸飞。"
  
@@ -47,22 +47,22 @@ l_simp_chinese:
  mem_vestigial_wormhole.4.tooltip: "我们控制了一个新的§Y科研船§!。"
  
  mem_vestigial_wormhole.6.name: "巨型空间蜘蛛"
- mem_vestigial_wormhole.6.desc.psi: "当[Root.GetName]接近[Solar_System.GetName]星系中被遗弃的船只时，[Leader.GetName]感觉到里面有许多思想:冰冷的、外星贪婪的思想在等待猎物的到来。 \n\n近距离观察发现，这艘船上满是体型庞大、有攻击性的八条腿生物。由于[Leader.GetHerHis]的预感，[Leader.GetName]避免了一次伏击，明智地选择撤退并凿沉船只，以遏制生物危害。"
- mem_vestigial_wormhole.6.desc.cyborg: "[Solar_System.GetName]星系中被遗弃的船只已被证明并不像我们预期的那样被遗弃和毫无生气。 \n\n[Root.GetName]一与之对接，科学小组就被一群八条腿的大动物包围了。其中一个甚至设法接近[Leader.GetName]，却被[Leader.GetHerHis]新安装的个人防御系统焚毁。 \n\n船员被迫撤退，在航行中撞坏了船，以避免可能的污染。"
- mem_vestigial_wormhole.6.desc.robot: "[Solar_System.GetName]星系中被遗弃的船只并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]如果与它对接，科学小组就被一大群八足动物包围，这些动物无法穿透它们的盔甲造成任何伤害。 \n\n为了避免任何可能的虫害，[Leader.GetName]。决定把船击沉。"
- mem_vestigial_wormhole.desc.robust: "[Solar_System.GetName]星系中被遗弃的船只并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]一与它对接，科学小组就被一群八条腿的大动物包围了。他们中的一个甚至成功地伏击了[Leader.GetName]，但是当它咬了[Leader.GetHerHim]时，[Leader.GetHerHis]增强免疫系统识别出威胁，并被证明是相当致命的潜在捕食者。 \n\n然而，由于不愿进一步检验[Leader.GetHerHis]的运气，[Leader.GetName]决定离开，并将船开航，以防止进一步的污染。"
+ mem_vestigial_wormhole.6.desc.psi: "当[Root.GetName]接近[Solar_System.GetName]星系中被遗弃的飞船时，[Leader.GetName]感觉到里面有许多思想:冰冷的、外星贪婪的思想在等待猎物的到来。 \n\n近距离观察发现，这艘船上满是体型庞大、有攻击性的八条腿生物。由于[Leader.GetHerHis]的预感，[Leader.GetName]避免了一次伏击，明智地选择撤退并凿沉飞船，以遏制生物危害。"
+ mem_vestigial_wormhole.6.desc.cyborg: "[Solar_System.GetName]星系中被遗弃的飞船已被证明并不像我们预期的那样被遗弃和毫无生气。 \n\n[Root.GetName]一与之对接，科学小组就被一群八条腿的大动物包围了。其中一个甚至设法接近[Leader.GetName]，却被[Leader.GetHerHis]新安装的个人防御系统焚毁。 \n\n船员被迫撤退，在航行中撞坏了船，以避免可能的污染。"
+ mem_vestigial_wormhole.6.desc.robot: "[Solar_System.GetName]星系中被遗弃的飞船并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]如果与它对接，科学小组就被一大群八足动物包围，这些动物无法穿透它们的盔甲造成任何伤害。 \n\n为了避免任何可能的虫害，[Leader.GetName]。决定把船击沉。"
+ mem_vestigial_wormhole.desc.robust: "[Solar_System.GetName]星系中被遗弃的飞船并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]一与它对接，科学小组就被一群八条腿的大动物包围了。他们中的一个甚至成功地伏击了[Leader.GetName]，但是当它咬了[Leader.GetHerHim]时，[Leader.GetHerHis]增强免疫系统识别出威胁，并被证明是相当致命的潜在捕食者。 \n\n然而，由于不愿进一步检验[Leader.GetHerHis]的运气，[Leader.GetName]决定离开，并将船开航，以防止进一步的污染。"
  mem_vestigial_wormhole.6.a.psi: "先见之明是很难高估的。"
  mem_vestigial_wormhole.6.a.cyborg: "我们的防虫程序增加了。"
  mem_vestigial_wormhole.6.a.robot: "肉体软弱了，金属却是永恒的。"
  mem_vestigial_wormhole.a.robust: "见证我们的优势。"
  
  mem_vestigial_wormhole.7.name: "巨型空间蜘蛛"
- mem_vestigial_wormhole.7.desc: " [Solar_System.GetName]星系中被遗弃的船只并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]一与它对接，科学小组就被一群八条腿的大动物包围了。在他们做出反应之前，其中一个最大的攻击[bitten_leader.GetName]，附着在[bitten_leader.GetHerHis]的身体上，导致[bitten_leader.GetHerHim]陷入深度昏迷。为了避免进一步的污染，这支队伍不得不撤退，将船撞得粉碎。"
+ mem_vestigial_wormhole.7.desc: " [Solar_System.GetName]星系中被遗弃的飞船并没有像我们预期的那样被遗弃和失去生命。 \n\n[Root.GetName]一与它对接，科学小组就被一群八条腿的大动物包围了。在他们做出反应之前，其中一个最大的攻击[bitten_leader.GetName]，并且附着在[bitten_leader.GetHerHis]的身体上，导致[bitten_leader.GetHerHim]陷入深度昏迷。为了避免进一步的感染，该小组不得不撤退。"
  mem_vestigial_wormhole.7.a: "把[bitten_leader.GetName]带回家治疗。"
  mem_vestigial_wormhole.7.a.tooltip: "§Y[bitten_leader.GetName]§!由于处于深度昏迷状态，将不再能够执行[bitten_leader.GetHerHis]任务。"
  
  mem_vestigial_wormhole.8.name: "八条腿"
- mem_vestigial_wormhole.8.desc: "被咬了一个月后，[bitten_leader.GetName]在[Capital_Scope.GetName]的一家医疗机构醒来。但是[bitten_leader.GetSheHe] [bitten_leader.GetHasHave]改变了，\n\n[bitten_leader.GetHisHerCap]的旧人格消失了，显然是被一只仍附在[bitten_leader.GetHerHis]身上的巨大蜘蛛所取代。通过它的宿主，这个生物与它取得了联系。它自称§Y八腿§!，是一个古老而先进物种的一部分。 \n\n在承认有效地消灭[bitten_leader.GetName]的同时，它提出以[bitten_leader.GetHerHis]代替我们的帝国来弥补它。"
+ mem_vestigial_wormhole.8.desc: "被咬了一个月后，[bitten_leader.GetName]在[Capital_Scope.GetName]的一家医疗机构醒来。但是[bitten_leader.GetSheHe] [bitten_leader.GetHasHave]改变了。\n\n[bitten_leader.GetHisHerCap]的旧人格消失了，取而代之的显然是一只仍然依附于[bitten_leader.GetHerHis]的身体上。通过与它的主人对话，我们与这个生物开始接触。它自称§Y八腿§!，是一个古老而先进物种的一部分。 \n\n虽然承认有效地消灭了[bitten_leader.GetName]，但它已经提出通过代替[bitten_leader.GetHerHis]为我们的帝国服务来弥补这一点。"
  mem_vestigial_wormhole.8.desc.hive: "[bitten_leader.GetName]又醒了，但它变了。我们不再觉得[bitten_leader.GetHerHim]是我们的一部分。 \n\n一种新的、冷酷的、黑暗的思想取代了它的内在:一种自称为§Y八腿§!的生物控制了[bitten_leader.GetHerHis]的身体。它现在愿意为我们服务，以换取它的生命。我们能相信它吗?"
  mem_vestigial_wormhole.8.a: "接受八腿的服务。"
  mem_vestigial_wormhole.8.a.tooltip: "§Y[bitten_leader.GetName]§!将以§Y八腿§!八脚的身份返回。\n将获得§Y$mem_vestigial_wormhole_scientist_spider$§!特质，§G+10%§!研究速度"

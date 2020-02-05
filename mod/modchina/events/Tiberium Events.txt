@@ -1,0 +1,2025 @@
+namespace = tiberium
+
+event = {
+	id = tiberium.1000
+	hide_window = yes
+    is_triggered_only = yes	
+    immediate = {
+		every_system_planet = {
+			limit = {
+				OR = {
+					is_planet_class = pc_habitable_tiberium
+					is_planet_class = pc_uninhabitable_tiberium
+				}
+			}
+			planet_event = { id = tiberium_infest.0 days = 1 }
+			planet_event = { id = tiberium_infest.0 days = 181 }
+		}
+		every_system_planet = {
+			limit = {
+				OR = {
+					has_planet_flag = tiberium_asteroid_collision
+					has_deposit = d_tiberium_asteroid
+				}
+				OR = {
+					has_planet_flag = tiberium_variable_set
+					has_planet_flag = tiberium_total_set
+				}
+				NOR = {
+					is_planet_class = pc_habitable_tiberium
+					is_planet_class = pc_uninhabitable_tiberium
+				}
+			}
+			planet_event = { id = tiberium.8 days = 1 }
+			planet_event = { id = tiberium.8 days = 181 }
+			planet_event = { id = tiberium.9 days = 1 }
+			planet_event = { id = tiberium.9 days = 181 }
+		}
+		every_country = {
+			every_planet_within_border = {
+				limit = {
+					OR = {
+						is_planet_class = pc_habitable_tiberium
+						is_planet_class = pc_uninhabitable_tiberium
+					}
+				}
+				planet_event = { id = tiberium_infest.0 days = 1 }
+				planet_event = { id = tiberium_infest.0 days = 181 }
+			}
+			every_planet_within_border = {
+				limit = {
+					OR = {
+						has_planet_flag = tiberium_asteroid_collision
+						has_deposit = d_tiberium_asteroid
+					}
+				}
+				planet_event = { id = tiberium.8 days = 1 }
+				planet_event = { id = tiberium.8 days = 181 }
+				planet_event = { id = tiberium.9 days = 1 }
+				planet_event = { id = tiberium.9 days = 181 }
+			}
+			if = {
+				limit = {
+					NOT = {
+						has_country_flag = tib_research_finished
+					}
+				}
+				country_event = { id = tiberium.6 days = 1 }
+				country_event = { id = tiberium.6 days = 181 }
+			}
+			every_owned_planet = {
+				planet_event = { id = tiberium.0 days = 1 }
+				planet_event = { id = tiberium.0 days = 181 }
+				planet_event = { id = tiberium.0 days = 91 }
+				planet_event = { id = tiberium.0 days = 271 }
+				planet_event = { id = tiberium.11 days = 1 }
+				planet_event = { id = tiberium.11 days = 181 }
+			}
+		}
+	}
+}
+
+
+### Asteroid Sighted
+planet_event = {
+	id = tiberium.0
+	hide_window = yes
+	location = ROOT
+	pre_triggers = {
+		has_owner = yes
+		is_homeworld = no
+		has_ground_combat = no
+		is_capital = no
+		is_occupied_flag = no
+	}
+	trigger = {
+		owner = { is_ai = no }
+		num_pops > 0
+		NOR = {
+			is_planet_class = hfe_pc_memorial
+			is_planet_class = hfe_pc_pirate_base
+			habitable_structure = yes
+			has_planet_flag = tiberium_asteroid_sighted
+			has_planet_flag = tiberium_asteroid_collision
+			has_global_flag = tiberium_asteroid_sighted_global
+			owner = { has_country_flag = tiberium_asteroid_sighted_country }
+		}
+	}
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		random_list = {
+			195 = { 
+				modifier = {
+					factor = 0.5
+					is_colony = yes
+				}
+				
+			}
+			5 = {
+				owner = {
+					set_country_flag = tiberium_asteroid_sighted_country
+					set_country_flag = incoming_tib_asteroid
+				}
+				set_global_flag = tiberium_asteroid_sighted_global
+				set_planet_flag = tiberium_asteroid_sighted
+				create_country = {
+					name = "NAME_Incoming_Asteroid"
+					type = tib_asteroid
+					auto_delete = no
+					flag = {
+						icon = {
+							category = "zoological"
+							file = "flag_zoological_1.dds"
+						}
+						background= {
+							category = "backgrounds"
+							file = "new_dawn.dds"
+						}
+						colors={
+							"black"
+							"black"
+							"null"
+							"null"
+						}
+					}
+					day_zero_contact = no
+					effect = {
+						establish_communications_no_message = root.owner
+					}
+				}
+				last_created_country = {
+					set_country_flag = incoming_asteroid
+					create_fleet = {
+						name = "NAME_Asteroid"
+						effect = {
+							set_aggro_range = 0
+							set_fleet_stance = aggressive
+							set_aggro_range_measure_from = self
+							set_owner = PREV
+							set_fleet_flag = asteroid_fleet
+							save_event_target_as = asteroid_fleet_target
+							create_ship = {
+								name = "NAME_Asteroid"
+								design = "NAME_Asteroid"
+							}
+							set_location = {
+								target = ROOT
+								distance = 75
+								angle = random
+							}
+							queue_actions = {
+								move_to = ROOT
+								effect = {
+									id = "tiberium.1.effect.1"
+									ROOT = {
+										planet_event = { id = tiberium.4 }
+									}
+								}
+							}
+						}
+					}
+					set_relation_flag = {
+						who = root.owner
+						flag = asteroid_enemy
+					}
+				}
+				planet_event = { id = tiberium.1 days = 1 }
+			}
+		}
+	}
+}
+
+planet_event = {
+	id = tiberium.1
+	title = "tiberium.1.name"
+	desc = "tiberium.1.desc"
+	picture = GFX_evt_asteroid_approaching_planet
+	show_sound = event_air_raid_siren
+	location = ROOT
+	is_triggered_only = yes
+	option = {
+		trigger = {
+			owner = { NOT = { has_authority = auth_machine_intelligence } }
+		}
+		name = tiberium.1.a
+		begin_event_chain = {
+			event_chain = "asteroid_sighted_chain"
+			target = root.owner
+		}
+	}
+
+	option = {
+		trigger = { owner = { has_authority = auth_machine_intelligence } }
+		name = tiberium.1.b
+		begin_event_chain = {
+			event_chain = "asteroid_sighted_chain"
+			target = root.owner
+		}
+	}
+}
+
+# Asteroid Destroyed (HIDDEN)
+country_event = {
+	id = tiberium.2
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		exists = from
+		from = { has_country_flag = incoming_tib_asteroid }
+	}
+
+	immediate = {
+		if = {
+			limit = {
+				has_country_flag = asteroid_sighted_country
+				from = {
+					has_relation_flag = {
+						who = root
+						flag = asteroid_enemy
+					}
+				}
+			}
+			random_owned_planet = {
+				limit = { has_planet_flag = asteroid_sighted }
+				planet_event = { id = tiberium.3 }
+			}
+		}
+		else = {
+			random_country = {
+				limit = {
+					reverse_has_relation_flag = {
+						who = from
+						flag = asteroid_enemy
+					}
+					has_country_flag = asteroid_sighted_country
+				}
+				random_owned_planet = {
+					limit = { has_planet_flag = asteroid_sighted }
+					planet_event = { id = tiberium.3 }
+				}
+			}
+		}
+	}
+}
+
+# Asteroid Destroyed
+planet_event = {
+	id = tiberium.3
+	title = "tiberium.3.name"
+	desc = "tiberium.3.desc"
+	picture = GFX_evt_atmospheric_entry
+	show_sound = event_ship_explosion
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		fromfrom = {
+			remove_relation_flag = { who = root.owner flag = asteroid_enemy }
+			destroy_country = yes
+		}
+		remove_global_flag = tiberium_asteroid_sighted_global
+		remove_planet_flag = tiberium_asteroid_sighted
+		owner = {
+			add_event_chain_counter = {
+				event_chain = "asteroid_sighted_chain"
+				counter = "asteroid_destroyed"
+				amount = 1
+			}
+		}
+	}
+	
+	option = {
+		name = EXCELLENT
+		owner = {
+			end_event_chain = "asteroid_sighted_chain"
+			add_monthly_resource_mult = {
+				resource = minerals
+				value = @tier2materialreward
+				min = @tier2materialmin
+				max = @tier2materialmax
+			}
+		}
+	}
+}
+
+# Asteroid Impacts Planet
+planet_event = {
+	id = tiberium.4
+	title = "tiberium.4.name"
+	desc = "tiberium.4.desc"
+	picture = GFX_evt_nuclear_explosion
+	show_sound = event_super_explosion
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		owner = {
+			country_event = { id = tiberium.5 days = 1 }
+		}
+		remove_global_flag = tiberium_asteroid_sighted_global
+		remove_planet_flag = tiberium_asteroid_sighted
+		set_planet_flag = tiberium_asteroid_collision
+		owner = { end_event_chain = "asteroid_sighted_chain" }
+	}
+	
+	option = {
+		name = "研究它。"
+		random_list = {
+			10 = {
+				if = {
+					limit = {
+						num_pops < 2
+					}
+					random_owned_pop = { kill_pop = yes }
+				}
+				else_if = {
+					limit = {
+						num_pops > 2
+						num_pops < 6
+					}
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+				}
+				else_if = {
+					limit = {
+						num_pops > 6
+					}
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+				}
+			}
+			15 = { }
+		}
+		add_deposit = d_tiberium_asteroid
+		set_variable = { which = tiberium_takeover_count value = 0 }
+	}
+	option = {
+		name = "收集材料。也许我们可以用它做点什么。"
+		allow = {
+			owner = {
+				resource_stockpile_compare = { resource = energy value >= 500 }
+			}
+		}
+		owner = {
+			add_resource = { energy = -500 }
+		}
+		random_list = {
+			10 = {
+				if = {
+					limit = {
+						num_pops < 2
+					}
+					random_owned_pop = { kill_pop = yes }
+				}
+				else_if = {
+					limit = {
+						num_pops > 2
+						num_pops < 6
+					}
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+				}
+				else_if = {
+					limit = {
+						num_pops > 6
+					}
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+				}
+			}
+			15 = { }
+		}
+		add_deposit = d_crater
+		exists = owner
+		owner = {
+			add_research_option = tech_tiberium_green
+			add_tech_progress = {
+				tech = tech_tiberium_green
+				progress = 0.20
+			}
+		}
+	}
+	option = {
+		name = "在它做某事之前把它移除。"
+		allow = {
+			owner = {
+				resource_stockpile_compare = { resource = energy value >= 1500 }
+			}
+		}
+		owner = {
+			add_resource = { energy = -1500 }
+		}
+		random_list = {
+			10 = {
+				if = {
+					limit = {
+						num_pops < 2
+					}
+					random_owned_pop = { kill_pop = yes }
+				}
+				else_if = {
+					limit = {
+						num_pops > 2
+						num_pops < 6
+					}
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+				}
+				else_if = {
+					limit = {
+						num_pops > 6
+					}
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+					random_owned_pop = { kill_pop = yes }
+				}
+			}
+			15 = { }
+		}
+		add_deposit = d_crater
+	}
+}
+
+# Destroy Asteroid after fleet actions have completed and event fired
+country_event = {
+	id = tiberium.5
+	hide_window = yes
+
+	is_triggered_only = yes
+
+	immediate = {
+		random_country = {
+			limit = {
+				has_relation_flag = {
+					who = root
+					flag = asteroid_enemy
+				}
+			}
+			every_owned_ship = {
+				fleet = {
+					destroy_fleet = this
+				}
+			}
+			destroy_country = yes
+		}
+	}
+}
+
+country_event = {
+	id = tiberium.6
+	title = "tiberium.6.name"
+	desc = "tiberium.6.desc"
+	picture = GFX_evt_nuclear_explosion
+	show_sound = event_super_explosion
+
+	is_triggered_only = yes
+	
+	trigger =  {
+		NOT = {
+			has_country_flag = tib_research_finished
+		}
+		any_owned_planet = {
+			has_deposit = d_tiberium_asteroid
+		}
+	}
+
+	immediate = {
+	}
+	option = {
+		name = "他们需要更多的资金!"
+		allow = {
+			resource_stockpile_compare = { resource = energy value >= 2000 }
+		}
+		add_resource = { energy = -2000 }
+		random_list = {
+			107 = { 
+				modifier = {
+					factor = 0.5
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+					has_technology = tech_tiberium_blue
+				}
+			}
+			8 = {
+				modifier = {
+					factor = 2
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 2 }
+				}
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+					add_research_option = tech_tiberium_green
+					add_tech_progress = {
+						tech = tech_tiberium_green
+						progress = 0.01
+					}
+			}
+			6 = {
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+				add_research_option = tech_tiberium_green
+				add_tech_progress = {
+					tech = tech_tiberium_green
+					progress = 0.05
+				}
+			}
+			4 = {
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+					add_research_option = tech_tiberium_green
+					add_tech_progress = {
+						tech = tech_tiberium_green
+						progress = 0.10
+					}
+			}
+			2 = {
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+					add_research_option = tech_tiberium_green
+					add_tech_progress = {
+						tech = tech_tiberium_green
+						progress = 0.20
+					}
+			}
+			1 = {
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+				add_research_option = tech_tiberium_green
+				add_tech_progress = {
+					tech = tech_tiberium_green
+					progress = 0.50
+					}
+			}
+			8 = {
+				modifier = {
+					factor = 2
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 2 }
+				}
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+					add_research_option = tech_tiberium_blue
+					add_tech_progress = {
+						tech = tech_tiberium_blue
+						progress = 0.01
+					}
+			}
+			6 = {
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+				add_research_option = tech_tiberium_blue
+				add_tech_progress = {
+					tech = tech_tiberium_blue
+					progress = 0.05
+				}
+			}
+			4 = {
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+					add_research_option = tech_tiberium_blue
+					add_tech_progress = {
+						tech = tech_tiberium_blue
+						progress = 0.10
+					}
+			}
+			2 = {
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+					add_research_option = tech_tiberium_blue
+					add_tech_progress = {
+						tech = tech_tiberium_blue
+						progress = 0.20
+					}
+			}
+			1 = {
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+				add_research_option = tech_tiberium_blue
+				add_tech_progress = {
+					tech = tech_tiberium_blue
+					progress = 0.50
+					}
+			}
+			1 = {
+				modifier = {	
+					factor = 10
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 10
+					has_technology = tech_tiberium_blue
+					has_technology = tech_tiberium_sonics
+				}
+				modifier = {	
+					factor = 5
+						has_technology = tech_tiberium_green
+				}
+				modifier = {	
+					factor = 2
+					has_technology = tech_tiberium_sonics
+				}
+				modifier = {	
+					factor = 5
+						has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+				modifier = {	
+					factor = 0
+					has_country_flag = funded_tiberium_research
+				}
+				set_country_flag = tib_research_finished
+			}
+		}
+		remove_country_flag = funded_tiberium_research
+		set_country_flag = funded_tiberium_research
+	}
+	option = {
+		name = "下次他们有消息就告诉我。"
+		trigger = {
+			always = yes
+		}
+		random_list = {
+			107 = { 
+				modifier = {
+					factor = 0.5
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+					has_technology = tech_tiberium_blue
+				}
+			}
+			8 = {
+				modifier = {
+					factor = 2
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 2 }
+				}
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+					add_research_option = tech_tiberium_green
+					add_tech_progress = {
+						tech = tech_tiberium_green
+						progress = 0.01
+					}
+			}
+			6 = {
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 4
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+				add_research_option = tech_tiberium_green
+				add_tech_progress = {
+					tech = tech_tiberium_green
+					progress = 0.05
+				}
+			}
+			4 = {
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 6
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+					add_research_option = tech_tiberium_green
+					add_tech_progress = {
+						tech = tech_tiberium_green
+						progress = 0.10
+					}
+			}
+			2 = {
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 8
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+					add_research_option = tech_tiberium_green
+					add_tech_progress = {
+						tech = tech_tiberium_green
+						progress = 0.20
+					}
+			}
+			1 = {
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 10
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_green
+				}
+				add_research_option = tech_tiberium_green
+				add_tech_progress = {
+					tech = tech_tiberium_green
+					progress = 0.50
+					}
+			}
+			8 = {
+				modifier = {
+					factor = 2
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 2 }
+				}
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 2
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+					add_research_option = tech_tiberium_blue
+					add_tech_progress = {
+						tech = tech_tiberium_blue
+						progress = 0.01
+					}
+			}
+			6 = {
+				modifier = {
+					factor = 3
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 3 }
+				}
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 4
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+				add_research_option = tech_tiberium_blue
+				add_tech_progress = {
+					tech = tech_tiberium_blue
+					progress = 0.05
+				}
+			}
+			4 = {
+				modifier = {
+					factor = 4
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 4 }
+				}
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 6
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+					add_research_option = tech_tiberium_blue
+					add_tech_progress = {
+						tech = tech_tiberium_blue
+						progress = 0.10
+					}
+			}
+			2 = {
+				modifier = {
+					factor = 5
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 5 }
+				}
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 8
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+					add_research_option = tech_tiberium_blue
+					add_tech_progress = {
+						tech = tech_tiberium_blue
+						progress = 0.20
+					}
+			}
+			1 = {
+				modifier = {
+					factor = 6
+					count_owned_pops = { limit = { has_job = tiberium_researcher } count > 6 }
+				}
+				modifier = {	
+					factor = 10
+					has_country_flag = funded_tiberium_research
+				}
+				modifier = {	
+					factor = 0
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+				add_research_option = tech_tiberium_blue
+				add_tech_progress = {
+					tech = tech_tiberium_blue
+					progress = 0.50
+					}
+			}
+			1 = {
+				modifier = {	
+					factor = 10
+					has_technology = tech_tiberium_green
+					has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 5
+						has_technology = tech_tiberium_green
+				}
+				modifier = {	
+					factor = 5
+						has_technology = tech_tiberium_blue
+				}
+				modifier = {	
+					factor = 0
+					NOT = {
+						has_technology = tech_tiberium_green
+					}
+				}
+				modifier = {	
+					factor = 0
+					has_country_flag = funded_tiberium_research
+				}
+				set_country_flag = tib_research_finished
+			}
+		}
+		remove_country_flag = funded_tiberium_research
+	}
+}
+
+planet_event = {
+	id = tiberium.8
+	hide_window = no
+	title = "tiberium.8.title"
+	desc = "tiberium.8.desc"
+	option = { name = "令人担忧。" }
+	is_triggered_only = yes
+	location = ROOT
+
+	trigger = {
+		NOT = {
+			has_planet_flag = no_tib_news
+			has_planet_flag = tiberium_depleted
+		}
+	}
+	immediate = {
+
+	}
+	option = {
+		name = "我不想听这个。"
+		set_planet_flag = no_tib_news
+	}
+}
+
+planet_event = {
+	id = tiberium.9
+	hide_window = yes
+	is_triggered_only = yes
+
+	immediate = {
+		if = {
+			limit = {
+				NOT = {
+					ROOT = { has_planet_flag = tiberium_depleted }
+				}
+			}
+			ROOT = { change_variable = { which = tiberium_total_count value = 1 } }
+			random_list = {
+				15 = { }
+				5 = {
+					ROOT = { change_variable = { which = tiberium_takeover_count value = 4 } }
+				}
+			}
+		}
+		if = {
+			limit = {
+				NOT = {
+					ROOT = { has_planet_flag = tiberium_depleted }
+				}
+				has_planet_flag = tiberium_sonic_protection
+			}
+			ROOT = { change_variable = { which = tiberium_total_count value = -10 } }
+		}
+		if = {
+			limit = {
+				has_deposit = d_tiberium_asteroid
+				NOT = {
+					ROOT = { has_planet_flag = tiberium_depleted }
+				}
+			}
+			ROOT = { change_variable = { which = tiberium_takeover_count value = 8 } }
+			random_list = {
+				20 = { }
+				5 = {
+					ROOT = { change_variable = { which = tiberium_takeover_count value = 4 } }
+				}
+			}
+		}
+		else_if = {
+			limit ={
+				NOT = {
+					ROOT = { has_planet_flag = tiberium_depleted }
+				}
+			}
+			ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_deposit = t_yellow_zone
+				}
+			}
+			ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+		}
+		if = {
+			limit = {
+				OR = {
+					has_deposit = d_tiberium_asteroid
+					has_planet_flag = tiberium_asteroid_collision
+					has_planet_flag = tiberium_variable_set
+					has_planet_flag = tiberium_total_set
+				}
+				NOR = {
+					is_planet_class = pc_habitable_tiberium
+					is_planet_class = pc_uninhabitable_tiberium
+				}
+			}
+			if = {
+				limit = {
+					is_under_colonization = yes
+				}
+				ROOT = { change_variable = { which = tiberium_takeover_count value = -5 } }
+			}
+			if = {
+				limit = {
+					exists = owner
+					owner = {
+						has_edict = tiberium_cleanup
+					}	
+				}
+				change_variable = { which = tiberium_takeover_count value = -10 }		
+			}		
+			every_deposit = {
+				if = {
+					limit = {
+						is_deposit_type = t_yellow_zone
+						NOT = {
+							ROOT = { has_planet_flag = tiberium_depleted }
+						}
+					}
+					ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+				}
+				else_if = {
+					limit = {
+						is_deposit_type = t_red_zone
+						NOT = {
+							ROOT = { has_planet_flag = tiberium_depleted }
+						}
+					}
+					ROOT = { change_variable = { which = tiberium_takeover_count value = 4 } }
+				}
+			}
+			every_owned_pop = {
+				limit = { 
+					has_job = tiberium_researcher
+					ROOT = {
+						NOT = {
+							ROOT = { has_planet_flag = tiberium_depleted }
+						}
+					}
+				}
+				ROOT = { change_variable = { which = tiberium_takeover_count value = -1 } }
+			}
+			every_owned_pop = {
+				limit = { has_job = green_tiberium_harvester }
+				ROOT = { change_variable = { which = tiberium_takeover_count value = -1 } }
+			}
+			every_owned_pop = {
+				limit = { has_job = blue_tiberium_harvester }
+				ROOT = { change_variable = { which = tiberium_takeover_count value = -1 } }
+			}
+			if = {
+				limit ={
+					NOT = {
+						ROOT = { has_planet_flag = tiberium_depleted }
+					}
+				}
+				switch = {
+					trigger = is_planet_class
+					pc_tropical = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+					}
+					pc_continental = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 1 } }
+					}				
+					pc_ocean = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 0 } }
+					}
+					pc_desert = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+					}
+					pc_arid = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+					}				
+					pc_savannah = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 1 } }
+					}				
+					pc_tundra = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = -1 } }
+					}				
+					pc_alpine = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = -1 } }
+					}				
+					pc_arctic = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = -2 } }
+					}			
+					pc_nuked = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = -1 } }
+					}			
+					pc_gaia = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 1 } }
+					}			
+					pc_machine = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 0 } }
+					}	
+					pc_hive = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 1 } }
+					}		
+					pc_city = {
+						ROOT = { change_variable = { which = tiberium_takeover_count value = 1 } }
+					}
+				}
+			}
+			if = {
+				limit = {
+					ROOT = { check_variable = { which = tiberium_takeover_count value >= 1 } }
+					num_buildings = { type = building_initial_tiberium_research_lab value = 1 }
+					NOT = {
+						ROOT = { has_planet_flag = tiberium_depleted }
+					}
+				}
+				ROOT = { change_variable = { which = tiberium_takeover_count value = -3 } }
+			}
+			else_if = {
+				limit = {
+					ROOT = { check_variable = { which = tiberium_takeover_count value >= 1 } }
+					num_buildings = { type = building_initial_tiberium_research_lab value = 2 }
+					NOT = {
+						ROOT = { has_planet_flag = tiberium_depleted }
+					}
+				}
+				ROOT = { change_variable = { which = tiberium_takeover_count value = -6 } }
+			}
+			random_list = {
+				10 = { #Increase infest
+					modifier = {
+						factor = 0
+						ROOT = { has_planet_flag = tiberium_depleted }
+					}
+					modifier = {
+						factor = 0
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= 4 } }
+					}
+					modifier = {
+						factor = 1.1
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 5 } }
+					}
+					modifier = {
+						factor = 1.1
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 6 } }
+					}
+					modifier = {
+						factor = 1.1
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 7 } }
+					}
+					modifier = {
+						factor = 1.1
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 8 } }
+					}
+					modifier = {
+						factor = 1.1
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 9 } }
+					}
+					modifier = {
+						factor = 1.1
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 10 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 15 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 20 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 25 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 30 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 35 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 40 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 45 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= 50 } }
+					}
+					if = {
+						limit = {
+							NOR = {
+								has_deposit = t_yellow_zone
+								ROOT = { has_planet_flag = tiberium_depleted }
+							}
+						}
+						while = {
+							count = 3
+							limit = {
+								ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+								free_district_slots > 0
+								num_free_districts = { type = any value > 0 }
+							}
+							add_deposit = t_yellow_zone
+							ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+							ROOT = { change_variable = { which = tiberium_total_count value = 1 } }
+						}
+					}
+					else_if = {
+						limit = {
+							has_deposit = t_red_zone
+							ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+							NOT = {
+								ROOT = { has_planet_flag = tiberium_depleted }
+							}
+						}
+						remove_deposit = t_red_zone
+						if = {
+							limit = {
+								has_deposit = t_red_zone
+								ROOT = { check_variable = { which = tiberium_takeover_count value >= 30 } }
+							}
+							change_pc = pc_habitable_tiberium
+							add_deposit = t_red_zone
+							while = {
+								limit = {
+									has_district = district_city
+								}
+								remove_district = district_city
+								add_district = district_blue_zone
+								add_deposit = d_blue_zone
+								
+							}
+							while = {
+								limit = {
+									ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+									free_district_slots > 0 
+									num_free_districts = { type = any value > 0 }
+								}
+								add_deposit = t_yellow_zone
+								ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+								ROOT = { change_variable = { which = tiberium_total_count value = 1 } }
+							}
+							every_deposit = {
+									limit = { is_deposit_type = t_yellow_zone }
+									remove_deposit = yes
+									PREV = { 
+										add_deposit = b_yellow_zone
+										add_deposit = d_yellow_zone
+									}
+							}
+							every_deposit = {
+									limit = { is_deposit_type = t_red_zone }
+									remove_deposit = yes
+									PREV = {
+										add_deposit = b_red_zone
+										add_deposit = d_red_zone
+									}
+							}
+							while = {
+								count = 50
+								limit = {
+									free_district_slots > 0
+									num_free_districts = { type = any value > 0 }
+								}
+								add_deposit = b_blue_zone
+							}
+							every_deposit = {
+								limit = { is_deposit_type = b_blue_zone }
+								remove_deposit = yes
+								ROOT = { add_deposit = d_blue_zone }
+							}
+						}
+						else_if = {
+							limit = {
+								has_deposit = t_yellow_zone
+								ROOT = { check_variable = { which = tiberium_takeover_count value >= 10 } }
+							}
+							remove_deposit = t_yellow_zone
+							add_deposit = t_red_zone
+							add_deposit = t_red_zone
+							ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+							ROOT = { change_variable = { which = tiberium_total_count value = 2 } }
+							while = {
+								count = 3
+								limit = {
+									ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+									free_district_slots > 0 
+									num_free_districts = { type = any value > 0 }
+								}
+								add_deposit = t_yellow_zone
+								ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+								ROOT = { change_variable = { which = tiberium_total_count value = 1 } }
+							}
+						}
+						else = {
+							add_deposit = t_red_zone
+							while = {
+								count = 3
+								limit = {
+									ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+									free_district_slots > 0
+									num_free_districts = { type = any value > 0 }
+								}
+								add_deposit = t_yellow_zone
+								ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+								ROOT = { change_variable = { which = tiberium_total_count value = 1 } }
+							}
+						}
+					}
+					if = {
+						limit = {
+							has_deposit = t_yellow_zone
+							ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+							NOT = {
+								ROOT = { has_planet_flag = tiberium_depleted }
+							}
+						}
+						remove_deposit = t_yellow_zone
+						add_deposit = t_red_zone
+						ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+						ROOT = { change_variable = { which = tiberium_total_count value = 2 } }
+						while = {
+							count = 3
+							limit = {
+								ROOT = { check_variable = { which = tiberium_takeover_count value >= 4 } }
+								free_district_slots > 0
+								num_free_districts = { type = any value > 0 }
+							}
+							add_deposit = t_yellow_zone
+							ROOT = { change_variable = { which = tiberium_takeover_count value = -4 } }
+							ROOT = { change_variable = { which = tiberium_total_count value = 1 } }
+						}
+					}
+				}
+				10 = { #Decrease infest
+					modifier = {
+						factor = 0
+						ROOT = { check_variable = { which = tiberium_takeover_count value >= -2 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -5 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -10 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -15 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -20 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -25 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -30 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -35 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -40 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -45 } }
+					}
+					modifier = {
+						factor = 2
+						ROOT = { check_variable = { which = tiberium_takeover_count value <= -50 } }
+					}
+					random_list = {
+						10 = {
+							if = {
+								limit = {
+									has_deposit = t_red_zone
+									ROOT = { check_variable = { which = tiberium_takeover_count value <= -2 } }
+								}
+								remove_deposit = t_red_zone
+								add_deposit = t_yellow_zone
+								ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+							}
+						}
+						10 = {
+							if = {
+								limit = {
+									has_deposit = t_yellow_zone
+									ROOT = { check_variable = { which = tiberium_takeover_count value <= -2 } }
+								}
+								remove_deposit = t_yellow_zone
+								ROOT = { change_variable = { which = tiberium_takeover_count value = 2 } }
+							}
+						}
+						10 = { }
+					}
+				}
+				10 = { }
+			}
+		}
+		if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 40 } }
+				planet_size = 10
+			}
+		planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 46 } }
+				planet_size = 11
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 50 } }
+				planet_size = 12
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 58 } }
+				planet_size = 13
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 64 } }
+				planet_size = 14
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 70 } }
+				planet_size = 15
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 76 } }
+				planet_size = 16
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 84 } }
+				planet_size = 17
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 92 } }
+				planet_size = 18
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 100 } }
+				planet_size = 19
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 106 } }
+				planet_size = 20
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 114 } }
+				planet_size = 21
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 124 } }
+				planet_size = 22
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 132 } }
+				planet_size = 23
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 140 } }
+				planet_size = 24
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 150 } }
+				planet_size = 25
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 156 } }
+				planet_size = 26
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 162 } }
+				planet_size = 27
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 168 } }
+				planet_size = 28
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 174 } }
+				planet_size = 29
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+		else_if = {
+			limit = {
+				ROOT = { check_variable = { which = tiberium_total_count value >= 180 } }
+				planet_size = 30
+			}
+			planet_event = { id = tiberium.10 days = 1 }
+		}
+	}
+}
+				
+
+planet_event = {
+	id = tiberium.10
+	title = "tiberium.10.name"
+	desc = "tiberium.10.desc"
+	picture = GFX_evt_atmospheric_entry
+	show_sound = event_ship_explosion
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = {
+			ROOT = { has_planet_flag = tiberium_depleted }
+			has_modifier = tiberium_depleted
+		}
+	}
+	
+	immediate = {
+		set_planet_flag = tiberium_depleted
+		add_modifier = { modifier = tiberium_depleted days = -1 }
+	}
+	
+	option = {
+		name = Worrying
+	}
+}
+
+planet_event = {
+	id = tiberium.11
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		ROOT = { has_planet_flag = tiberium_depleted }
+		NOT = {
+			has_modifier = tiberium_depleted
+		}
+	}
+	
+	immediate = {
+		if = {
+			limit = {
+				NOT = {
+					has_modifier = tiberium_depleted
+				}
+			}
+		}
+		add_modifier = { modifier = tiberium_depleted days = -1 }
+	}
+}
+
+planet_event = {
+	id = tiberium.20
+	picture = GFX_evt_atmospheric_entry
+	show_sound = event_ship_explosion
+	location = ROOT
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	immediate = {
+
+	}
+}
+planet_event = {
+	id = tiberium.30
+	title = "tiberium.30.name"
+	desc = "tiberium.30.desc"
+	picture = GFX_evt_atmospheric_entry
+	show_sound = event_ship_explosion
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	immediate = {
+
+	}
+	
+	option = {
+		name = Wonderful
+		owner = { 
+			add_resource = { sr_tiberium_green = 360 }
+			add_resource = { sr_tiberium_blue = 120 }	
+		}
+	}
+}
+planet_event = {
+	id = tiberium.31
+	title = "tiberium.31.name"
+	desc = "tiberium.31.desc"
+	picture = GFX_evt_atmospheric_entry
+	show_sound = event_ship_explosion
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	immediate = {
+
+	}
+	
+	option = {
+		name = Wonderful
+		owner = { 
+			add_resource = { sr_tiberium_green = 180 }
+			add_resource = { sr_tiberium_blue = 60 }
+		}
+	}
+}
+
+planet_event = {
+	id = tiberium.32
+	title = "tiberium.32.name"
+	desc = "tiberium.32.desc"
+	picture = GFX_evt_atmospheric_entry
+	show_sound = event_ship_explosion
+	location = ROOT
+	
+	is_triggered_only = yes
+	
+	immediate = {
+
+	}
+	
+	option = {
+		name = Wonderful
+		owner = { 
+			add_resource = { sr_tiberium_green = 540 }
+			add_resource = { sr_tiberium_blue = 180 }
+		}
+	}
+}
+
+planet_event = {
+	id = tiberium.35
+	location = ROOT
+	hide_window = yes
+	
+	is_triggered_only = yes
+	
+	immediate = {
+		set_variable = { which = tiberium_takeover_count value = 0 }
+		set_variable = { which = tiberium_total_count value = 0 }
+	}
+}
+
+
+
+
+country_event = {
+	id = tiberium.100
+	hide_window = yes
+
+	is_triggered_only = yes
+
+	immediate = {
+		give_technology = { tech = tech_tiberium_green }
+		give_technology = { tech = tech_tiberium_blue }
+		give_technology = { tech = tech_tiberium_liquid }
+		give_technology = { tech = tech_tiberium_liquid_power }
+		give_technology = { tech = tech_tiberium_protection }
+	}
+}
+

@@ -32,7 +32,7 @@
  
  dpe_hw_duel.2.B:0 "[dpe_duel_leader.GetName] 太有价值了,提名一位冠军勇士。"
  dpe_hw_duel.2.C:0 "好主意！选出一名冠军勇士."
- dpe_hw_duel.2.D:0 "我们最好不要冒险。."
+ dpe_hw_duel.2.D:0 "我们最好不要冒险。"
  dpe_hw_duel.2.E:0 "让我们把这种野蛮的行为定为非法."
  dpe_hw_duel.2.E.tooltip:0 "此事件链不会再次发生.\n"
  
@@ -328,3 +328,7 @@
  dpe_hw_duel.78.desc.root_leader:0 "我们对[from.GetSpeciesAdj]冠军的战斗比我们想象的要危险，我们的战斗子程序遭受了几次伤害，当然，最终我们还是获得了胜利，并迫使对手援引奇怪的“投降”仪式。但是我们的战斗子程序仍然杀死了对手，这一行动似乎让[from.GetSpeciesAdj]的代表团很是生气，甚至需要由保全单位约束才能离开角斗场，或许我们触犯了什么，让我们在银河系内的地位有所动摇。"
  dpe_hw_duel.78.desc.both_leader:0 "我们对[from.GetSpeciesAdj]冠军的战斗比我们想象的要危险，我们的战斗子程序遭受了几次伤害，当然，最终我们还是获得了胜利，并迫使对手援引奇怪的“投降”仪式。但是我们的战斗子程序仍然杀死了对手，这一行动似乎让[from.GetSpeciesAdj]的代表团很是生气，甚至需要由保全单位约束才能离开角斗场，或许我们触犯了什么，让我们在银河系内的地位有所动摇。"
  dpe_hw_duel.78.option:0 "我们的战士是最优秀的!"
+
+ dpe_better_relations_with_militarists:0 "这次胜利将使军国主义国家钦佩我们的战斗能力。"
+ dpe_worse_relations_with_militarists:0 "军国主义国家会因为这一耻辱而看不起我们。"
+ dpe_worse_relations_from_deceit:0 "非格式塔国家会因为我们的欺骗而抛弃我们。"

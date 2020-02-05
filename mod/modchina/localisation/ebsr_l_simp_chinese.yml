@@ -1,0 +1,32 @@
+﻿l_simp_chinese:
+#Strategic Resource Manufacturing Buildings
+ eb_refinery:0 "高级外星天然气精炼厂"
+ eb_refinery_desc:0 "外星天然气精炼厂的升级版本。"
+ 
+ eb_refinery2:0 "暗物质奇异瓦斯精炼厂"
+ eb_refinery2_desc:0 "外星天然气精炼厂的升级版本。"
+ 
+ eb_chemical_plant:0 "高级化学厂"
+ eb_chemical_plant_desc:0 "化学厂的升级版本。"
+ 
+ eb_chemical_plant2:0 "暗物质化学厂"
+ eb_chemical_plant2_desc:0 "化学厂的升级版本。"
+ 
+ eb_crystal_plant:0 "高级水晶合成厂"
+ eb_crystal_plant_desc:0 "水晶合成厂的升级版本。"
+ 
+ eb_crystal_plant2:0 "暗物质水晶合成厂"
+ eb_crystal_plant2_desc:0 "水晶合成厂的升级版本。"
+ 
+#Techs
+ eb_mineral_tech:0 "先进核心挖掘"
+ eb_mineral_tech_desc:0 "解锁第三级深芯矿井"
+ 
+ eb_energy_tech:0 "先进地热发电"
+ eb_energy_tech_desc:0 "解锁第三级地热发电站"
+ 
+ eb_strategicresource_tech:0 "先进战略资源生产方法"
+ eb_strategicresource_tech_desc:0 "解锁第二级战略资源建筑。请为这项科技想个更好的名字。"
+ 
+ eb_more_strategicresource_tech:0 "先进战略资源生产方法 2"
+ eb_more_strategicresource_tech_desc:0 "解锁第三级战略资源建筑。请为这项科技想个更好的名字。"

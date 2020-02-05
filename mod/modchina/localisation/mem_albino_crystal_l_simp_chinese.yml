@@ -1,6 +1,6 @@
 ﻿l_simp_chinese:
 
- MEM_ALBINO_CRYSTAL_MEDIUM_SCALES: "白化病晶体鳞片"
+ MEM_ALBINO_CRYSTAL_MEDIUM_SCALES: "白化水晶鳞片"
  MEM_ALBINO_CRYSTAL_MEDIUM_ARMOR: "白化水晶内衬"
  MEM_ALBINO_CRYSTAL_LARGE_SHARD_THROWER: "白化水晶喷射器"
  MEM_ALBINO_CRYSTAL_MEDIUM_SHARD_THROWER: "白化水晶喷射器"
@@ -17,7 +17,7 @@
  mem_albino_crystal.2.ai: "我只是一个愚蠢的AI，我不能处理这个!" # This option skips the conversation for AI benefit. Player is not meant to see it.
  mem_albino_crystal.3.name: "来自水晶实体的广播"
  mem_albino_crystal.3.desc: "它……明白吗?"
- mem_albino_crystal.3.a: "显然。我们正在接收你的信号。"
+ mem_albino_crystal.3.a: "显然，我们正在接收你的信号。"
  mem_albino_crystal.3.purifier: "死,外星人可憎!"
  mem_albino_crystal.4.desc: "它切……它必须停止切割!否则它会受苦的!\n\n§G与信号相连的是一组似乎指向小行星§Y[crystal_asteroid.GetName]§!的坐标"
  mem_albino_crystal.4.a: "你想让我们停止采矿。很好。"
@@ -39,8 +39,7 @@
  mem_albino_crystal.9.name: "$mem_albino_crystal.7.name$"
  mem_albino_crystal.9.desc: "$mem_albino_crystal.7.desc$"
  mem_albino_crystal.10.name: "宠物水晶"
- mem_albino_crystal.10.desc: "一个白色水晶实体在我们的控制下诞生已经有一段时间了。它的性质引起了我们科学家的兴趣，并在人群中赢得了一批追随者。
- \n\n人们呼吁给这种动物取一个合适的名字，并提出了各种各样的建议。"
+ mem_albino_crystal.10.desc: "一个白色水晶实体在我们的控制下诞生已经有一段时间了。它的性质引起了我们科学家的兴趣，并在人群中赢得了一批追随者。 \n\n人们呼吁给这种动物取一个合适的名字，并提出了各种各样的建议。"
  mem_albino_crystal.10.a: "它不需要名字。"
  mem_albino_crystal.10.b: "斯派克。"
  mem_albino_crystal.10.c: "火花。"

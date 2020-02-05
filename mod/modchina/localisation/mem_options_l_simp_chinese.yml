@@ -25,8 +25,8 @@
  # Main Menu
  mem_options.4.name:0 "主菜单"
  mem_options.4.desc:0 "在这里，你可以选择不同的选项。"
- mem_options.4.a:0 "LEX设置"
- mem_options.4.b:0 "掩体星球设置"
+ mem_options.4.a:0 "危机设置"
+ mem_options.4.b:0 "星球护盾设置"
  mem_options.4.c:0 "§G启用§!天堂修正"
  mem_options.4.c.tooltip:0 "这增加了“天堂世界”对每一个盖亚行星和环世界的修正。(它增加了10%的幸福和增长速度，5%对所有的资源和科研点，并增加了25%的迁移吸引力在这个星球上的一个殖民地。)"
  mem_options.4.d:0 "§R禁用§!天堂BUFF"
@@ -38,7 +38,7 @@
 
 
  # Lex Menu
- mem_options.5.name:0 "LEX菜单"
+ mem_options.5.name:0 "危机菜单"
  mem_options.5.desc:0 "在这里，你可以选择不同的选项。"
  mem_options.5.a:0 "§R禁用§! 瓦祖兰威胁"
  mem_options.5.a.tooltip:0 "瓦祖兰威胁危机目前§G启用§!"
@@ -48,12 +48,12 @@
  mem_options.5.c.tooltip:0 "如果你已经加载了一个瓦祖兰人仍然拥有他们星系的游戏存档，那么游戏会创建一个多余的不能被占领的恒星基地。使用该选项把其所有权转移到你的帝国。"
 
  # Shield World Menu
- mem_options.6.name:0 "掩体世界菜单"
- mem_options.6.desc:0 "在这里，你可以启用或停用各种关于屏障世界的设置。"
- mem_options.6.a:0 "§G打开§!星球护盾影响"
- mem_options.6.b:0 "§R关闭§!星球护盾影响"
- mem_options.6.c:0 "§G打开§!掩体世界影响"
- mem_options.6.d:0 "§R关闭§!掩体世界影响"
+ mem_options.6.name:0 "$pc_shielded$菜单"
+ mem_options.6.desc:0 "在这里，你可以启用或停用各种关于$pc_shielded$的设置。"
+ mem_options.6.a:0 "§G打开§!星球护盾效果"
+ mem_options.6.b:0 "§R关闭§!星球护盾效果"
+ mem_options.6.c:0 "§G打开§!$pc_shielded$效果"
+ mem_options.6.d:0 "§R关闭§!$pc_shielded$效果"
 
  # Force Spawning Menu
  mem_options.7.name:0 "强制生成菜单"
@@ -85,15 +85,15 @@
  mem_options.11.desc:0 "在这里你可以衍生出各种各样的奥利拉的舰船来进行测试。他们会出现在你的首都。"
  mem_options.11.a:0 "生成一艘标准无人机。"
  mem_options.11.b:0 "生成一艘指挥无人机。"
- mem_options.11.c:0 "生成一艘护卫舰。"
+ mem_options.11.c:0 "生成一艘护航舰。"
  mem_options.11.d:0 "生成一艘打击巡洋舰。"
- mem_options.11.e:0 "生成一艘天堂之矛。"
+ mem_options.11.e:0 "生成一艘利维坦。"
 
  # Broken Clock
  mem_options.12.name:0 "时钟中断事件子菜单"
  mem_options.12.desc:0 "时钟中断是一个新的事件链，有时会在游戏中期触发危机般的后果。 \n\n有些玩家可能会发现它会影响游戏的平衡，不喜欢这种方式，或者只是不符合他们喜欢的游戏风格。在游戏中期到来之前，你可以使危机失效，在危机开始后，你可以提前结束它。\n\n请注意，使用这个菜单并不能保证本次游戏会有这场危机。"
  mem_options.12.a:0 "§R禁用§!事件。"
- mem_options.12.b:0 "§G启用§! 事件。"
+ mem_options.12.b:0 "§G启用§!事件。"
  mem_options.12.c:0 "立即摧毁不受欢迎的客人。"
 
  # Surveyor Probe

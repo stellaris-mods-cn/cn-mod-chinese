@@ -8,7 +8,7 @@
  apsr18_planet_modifier_desc:0 "这整个星球是一个采矿设施，一个古老的文明。不幸的是，它被破坏了很长一段时间，但它可以恢复"
  
  apsr18_deposit:0 "$apsr18_planet_modifier$"
- apsr18_deposit_desc:0 "$apsr18_planet_modifier_desc$\n\n§M$apsr18_deposit_effect$§!" 
+ apsr18_deposit_desc:0 "$apsr18_planet_modifier_desc$\n\n§M$apsr18_deposit_effect$§!"
  apsr18_deposit_effect:0 "独特的资源可用: $apsr18_planet_modifier$"
  
  
@@ -79,7 +79,7 @@
  apsr.18003.title:0 "$apsr18_building_part3$ 建成"
  apsr.18003.desc:0 "我们部分恢复了§Y远古采矿复合体§!，并取得了古代工业的成就"
  apsr.18003.ok-button:0 "完美"
-
+ 
  
  
  ### сообщения при замене фейк-зданий на настоящие
@@ -111,7 +111,7 @@
  apsr.18013.title:0 "发现一个人造物: §M$apsr18_planet_modifier$§!"
  apsr.18013.desc:0 "这整个星球是一个采矿设施，一个古老的文明。不幸的是，它早就被毁了，但还可以恢复"
  apsr.18013.button:1 "非常棒！!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -150,7 +150,7 @@
    
  apsr18_planet_geologist_normal:0 "星球物理学家"
  job_apsr18_geologist_normal:0 "星球物理学家"
- job_apsr18_geologist_normal_plural:0 星球物理学家"
+ job_apsr18_geologist_normal_plural:0 星球物理学家"""
  job_apsr18_geologist_normal_desc:0 "一名研究矿物的物理性质、化学和矿物组成的专家，分析了在极端深度采矿的方法"
  mod_job_apsr18_geologist_normal_add:0 "星球物理学家"
  
@@ -164,7 +164,7 @@
  job_apsr18_geologist_machine:0 "星球物理学单元"
  job_apsr18_geologist_machine_plural:0 "星球物理学单元"
  job_apsr18_geologist_machine_desc:0 "研究矿物的物理性质、化学成分和矿物组成的特殊单元模型，分析了在极端深度采矿的方法"
- mod_job_apsr18_geologist_hive_add:0 "星球物理学单元"
+ mod_job_apsr18_geologist_hive_add:0 "星球物理学工蜂"
  
  
  

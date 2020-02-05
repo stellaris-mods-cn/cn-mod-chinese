@@ -208,7 +208,7 @@
  mem_eventship_03_plural:0 "打击巡洋舰"
  
  # The Way - Civic
- civic_mem_the_way:0 "所选择的道路"
+ civic_mem_the_way:0 "所选的道路"
  civic_mem_the_way_desc:0 "这个社会接受了一个古老的先驱文明的价值和遗产，以传播更多的善。"
  
  # Way of the Ancients - Government

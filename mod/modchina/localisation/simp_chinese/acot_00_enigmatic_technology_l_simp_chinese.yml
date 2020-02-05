@@ -1,0 +1,193 @@
+﻿l_simp_chinese:
+
+### WEAPONS CHECK OK #####
+
+SMALL_ACOT_LASER_ENIG: "小型原型脉冲激光器"
+MEDIUM_ACOT_LASER_ENIG: "中型原型脉冲激光器"
+LARGE_ACOT_LASER_ENIG: "大型原型脉冲激光器"
+ACOT_LASER_ENIG: "神秘激光器"
+ACOT_LASER_ENIG_DESC: "脉冲激光以比伽玛激光更高的频率和火力发射强大的神秘能量束。"
+tech_laser_enig: "神秘激光射线"
+tech_laser_enig_desc: "脉冲激光以比伽玛激光更高的频率和火力发射强大的神秘能量束。这个原型应该使我们更接近于理解前驱体所使用的能量。我们正在超越我们以前理解的界限。"
+
+
+SMALL_ACOT_PLASMA_ENIG: "小型神秘等离子炮"
+MEDIUM_ACOT_PLASMA_ENIG: "中型神秘等离子炮"
+LARGE_ACOT_PLASMA_ENIG: "大型神秘等离子炮"
+ACOT_PLASMA_ENIG: "神秘等离子炮"
+ACOT_PLASMA_ENIG_DESC: "致命的等离子体武器，擅长摧毁没有护盾保护的目标。"
+tech_plasma_enig: "神秘等离子炮"
+tech_plasma_enig_desc: "神秘等离子炮类似于我们手头上的等离子加农炮技术，尽管从这些加农炮发射的炮弹似乎有很大的不同，而且似乎与暗物质有很大的关系。"
+
+
+SMALL_ACOT_DISRUPTOR_ENIG: "小型神秘破坏者"
+MEDIUM_ACOT_DISRUPTOR_ENIG: "中型神秘破坏者"
+ACOT_DISRUPTOR_ENIG: "神秘破坏者"
+ACOT_DISRUPTOR_ENIG_DESC: "利用先驱者使用的神秘能量，这种原型破坏者可以造成比以前更高的伤害。"
+tech_disruptor_enig: "神秘破坏者"
+tech_disruptor_enig_desc: "利用先驱者使用的神秘能量，这种原型破坏者可以造成比以前更高的伤害。"
+
+
+ACOT_ENERGY_TORPEDO_ENIG: "神秘等离子鱼雷"
+ACOT_ENERGY_TORPEDO_ENIG_DESC: "这些鱼雷具有很强的腐蚀性，只要它们的护盾失效，它们对敌人的装甲和船体的作用就会很强大。"
+tech_energy_torpedo_enig: "神秘等离子鱼雷"
+tech_energy_torpedo_enig_desc: "记录表明，过去的先驱者使用的等离子体鱼雷与我们的中子鱼雷没有太大的不同，只是强度更大。"
+
+
+ACOT_POINT_DEFENSE_ENIG: "神秘点防御"
+ACOT_POINT_DEFENSE_ENIG_DESC: "神秘点防御发射一束集中的能量以压制敌方导弹。"
+tech_point_defense_enig: "神秘点防御"
+tech_point_defense_enig_desc: "我们越来越接近了解过去的各种技术奇迹，脉冲光束可以被修改，作为强大的点防御，适用于防御导弹和攻击舰船。"
+
+
+SMALL_ACOT_MASS_DRIVER_ENIG: "小型冲击炮"
+MEDIUM_ACOT_MASS_DRIVER_ENIG: "中型冲击炮"
+LARGE_ACOT_MASS_DRIVER_ENIG: "大型冲击炮"
+ACOT_MASS_DRIVER_ENIG: "冲击炮"
+ACOT_MASS_DRIVER_ENIG_DESC: "冲击炮更少地依赖于像高斯加农炮那样快速发射炮弹的能力，而更多地依赖于产生能击中目标的强力炮弹的实际能力。"
+tech_mass_driver_enig: "冲击炮"
+tech_mass_driver_enig_desc: "在我们达到极限之前，动能武器只能走这么远。记录显示，在过去，早期帝国倾向于较少地关注轨道炮技术，而更多地关注制造硬光炮弹的能力，这种炮弹可以以中等的高速发射，同时造成巨大的伤害，仅仅因为这些炮弹本身是致命的。有了先进的制导系统，炮弹也可以从远程发射，而不需要有精确的瞄准精度."
+
+
+ACOT_AUTOCANNON_ENIG: "毒蝎自动火炮"
+ACOT_AUTOCANNON_ENIG_DESC: "毒蝎自动火炮使用原型硬光弹快速穿透敌人的护盾。"
+tech_autocannons_enig: "毒蝎自动火炮"
+tech_autocannons_enig_desc: "基于冲击炮开发的新型硬光基炮弹的自动加农炮变种。"
+
+
+ACOT_ARTILLERY_ENIG: "原型HLA"
+ACOT_ARTILLERY_ENIG_DESC: "硬光火炮的原型，顾名思义，由硬光材料制成的发射炮弹。"
+tech_kinetic_artillery_enig: "原型硬光火炮"
+tech_kinetic_artillery_enig_desc: "是时候我们终于开始准备实际的远程硬光基火炮系统了。第一个原型应该很快就可以进行现场测试了。"
+
+
+ACOT_FLAK_CANNON_ENIG: "神秘哨兵炮塔"
+ACOT_FLAK_CANNON_ENIG_DESC: "强大的动能防御系统，擅长击落讨厌的攻击飞机和导弹。"
+tech_flak_batteries_enig: "神谕目标计算机"
+tech_flak_batteries_enig_desc: "用强大而神秘的神谕战斗计算机更新我们当前的动力防御系统将使系统比旧的高射炮更有能力。"
+
+
+ACOT_MISSILE_ENIG: "幽灵导弹"
+ACOT_MISSILE_ENIG_DESC: "幽灵导弹比掠夺者导弹更强大，他们是幽灵，不是收割者或海军陆战队。他们应该打败掠夺者导弹。"
+tech_missile_enig: "幽灵导弹"
+tech_missile_enig_desc: "掠夺者导弹可以升级为幽灵导弹，拥有更强的材料和更高的爆炸威力。"
+
+
+ACOT_TORPEDO_ENIG: "野牛鱼雷"
+ACOT_TORPEDO_ENIG_DESC: "当有疑问时，添加更多的炸药爆炸!"
+tech_torpedo_enig: "野牛鱼雷"
+tech_torpedo_enig_desc: "如果有疑问，添加更多的炸药。爆炸!"
+
+
+ACOT_SWARMER_MISSILES_ENIG: "龙卷风集群导弹"
+ACOT_SWARMER_MISSILES_ENIG_DESC: "龙卷风集群导弹由神谕传感器制导，可以跟踪目标，同时执行规避机动，而不互相击中。"
+tech_swarmer_missile_enig: "神谕集群制导导弹"
+tech_swarmer_missile_enig_desc: "目前，我们的集群导弹使用一个有限的制导系统，它是精确的，但是不擅长执行独立机动和跟踪。简而言之，它们无法同时躲避攻击和攻击目标，尤其是当它们聚集在一起的时候。引入独立的神谕制导计算机可以解决这一弱点。"
+
+
+ACOT_PARTICLE_LANCE_ENIG: "神秘光矛"
+ACOT_PARTICLE_LANCE_ENIG_DESC: "神秘光矛用聚焦的神秘光束穿透敌人的装甲。"
+tech_energy_lance_enig: "神秘光矛"
+tech_energy_lance_enig_desc: "神秘光矛用聚焦的神秘光束穿透敌人的装甲。相对于老的速子光矛有了很大的改进。"
+
+
+ACOT_ARC_EMITTER_ENIG: "神秘电弧发射器"
+ACOT_ARC_EMITTER_ENIG_DESC: "这种脊柱武器利用神秘的能量制造一种非常致命的发射器武器，可以破坏敌人的内部系统。不幸的是，由于我们目前的限制，它有较低的范围比聚焦电弧发射器。"
+tech_arc_emitter_enig: "神秘电弧发射器"
+tech_arc_emitter_enig_desc: "使用相同的神秘能量来给我们当前的聚焦电弧发射器增压是可能的，但是在我们真正理解如何使用暗能量之前，原型神秘电弧发射器的有效射程将略低于聚焦电弧发射器。"
+
+
+ACOT_MASS_ACCELERATOR_ENIG: "完美质量加速器加农炮"
+ACOT_MASS_ACCELERATOR_ENIG_DESC: "比旧的千兆加农炮更强大，完美质量加速器加农炮能以惊人的效率击穿各种护盾。"
+tech_mass_accelerator_enig: "超质量加速器原型"
+tech_mass_accelerator_enig_desc: "遵循同样的概念，创造更强大和更致命的硬光炮弹的冲击炮，新的MAC应该证明是强大的武器，将超过我们目前的千兆炮。"
+
+
+ACOT_PERDITION_BEAM_ENIG: "神秘毁灭之光"
+ACOT_PERDITION_BEAM_ENIG_DESC: "虽然远不如先驱者所使用的那么好，但这种新的神秘光束应该足以匹敌旧的离子毁灭光束。"
+tech_perdition_beam_enig: "神秘毁灭之光"
+tech_perdition_beam_enig_desc: "随着我们新的认识，对旧的毁灭离子束的增强现在是悬而未决的。我们只等待批准。如果我们能更好地理解暗物质，这一领域的成功将为未来新型武器开辟道路。"
+
+ACOT_FIGHTERS_HANGAR_ENIG: "猛禽拦截器"
+ACOT_FIGHTERS_HANGAR_ENIG_DESC: "不再是无用的侦察兵，拦截器被设计用来击落其他攻击机和导弹，同时也擅长削弱较大舰船的护盾。"
+ACOT_BOMBERS_HANGAR_ENIG: "极光轰炸机"
+ACOT_BOMBERS_HANGAR_ENIG_DESC: "专用轰炸机不仅具有更高的火力，而且提高了耐用性、速度和飞行员。"
+tech_strike_craft_bomber_enig: "攻击机修正"
+tech_strike_craft_bomber_enig_desc: "我们的战略家认为放弃战斗机的发展是一个错误，尤其是考虑到侦察兵不能……实际上是侦察，这使得他们的存在毫无意义。我们可以很容易地纠正这些错误，并最终开始开发真正强大的一组攻击机，它们可以扮演各种角色。"
+
+SMALL_ACOT_ARMOR_ENIG: "小型硬光镀层"
+MEDIUM_ACOT_ARMOR_ENIG: "中型硬光镀层"
+LARGE_ACOT_ARMOR_ENIG: "大型硬光镀层"
+ACOT_ARMOR_ENIG: "硬光镀层"
+ACOT_ARMOR_ENIG_DESC: "由硬光结构制成的附加层保护的复合中子装甲。"
+tech_armor_enig: "硬光构造"
+tech_armor_enig_desc: "虽然我们目前对硬光的理解相当有限，但我们仍然有信心，我们可以制造出一层硬光来补充我们目前的中子装甲。"
+
+
+ENIG_SENSOR_SHIP: "神谕传感器"
+ENIG_SENSOR_SHIP_DESC: "这种先进的传感器配备了强大的神谕计算机，能够比超光速子传感器更有效地计算和跟踪敌方目标。"
+tech_sensors_enig: "神谕传感器"
+tech_sensors_enig_desc: "我们已经对神谕计算机进行了试验，使其能够作为舰船传感器。虽然它的探测能力与速子传感器相当，但神谕传感器还有一个额外的好处，那就是更善于跟踪目标。"
+TECH_UNLOCK_ENIG_SENSOR_TITLE: "§H解锁组件:§! 神谕传感器"
+TECH_UNLOCK_ENIG_SENSOR_DESC: "§H神谕传感器§!\n$ENIG_SENSOR_SHIP_DESC$"
+
+
+SHIP_THRUSTER_ENIG: "原型神秘推进器"
+SHIP_THRUSTER_ENIG_DESC: "先进的推进器配备了有限的德神谕计算机，可以执行短脉冲加速，以增加机动。"
+
+DESTROYER_SHIP_THRUSTER_ENIG: "原型神秘推进器"
+DESTROYER_SHIP_THRUSTER_ENIG_DESC: "先进的推进器配备了有限的德神谕计算机，可以执行短脉冲加速，以增加机动。"
+
+CRUISER_SHIP_THRUSTER_ENIG: "原型神秘推进器"
+CRUISER_SHIP_THRUSTER_ENIG_DESC: "先进的推进器配备了有限的德神谕计算机，可以执行短脉冲加速，以增加机动。"
+
+BATTLESHIP_SHIP_THRUSTER_ENIG: "原型神秘推进器"
+BATTLESHIP_SHIP_THRUSTER_ENIG_DESC: "先进的推进器配备了有限的德神谕计算机，可以执行短脉冲加速，以增加机动。"
+
+TITAN_SHIP_THRUSTER_ENIG: "原型神秘推进器"
+TITAN_SHIP_THRUSTER_ENIG_DESC: "先进的推进器配备了有限的德神谕计算机，可以执行短脉冲加速，以增加机动。"
+
+COLOSSUS_SHIP_THRUSTER_ENIG: "原型神秘推进器"
+COLOSSUS_SHIP_THRUSTER_ENIG_DESC: "先进的推进器配备了有限的德神谕计算机，可以执行短脉冲加速，以增加机动"
+tech_enigmatic_thruster: "原型神秘推进器"
+tech_enigmatic_thruster_desc: "我们还不能开发出任何新的推进系统来超越脉冲推进器。但是通过一些额外的调整，我们的工程师相信我们可以在推进器中加入神谕反应系统，这将允许舰船进入一个突然的短脉冲加速，这将增加舰船躲避攻击的能力。"
+
+
+SMALL_ACOT_ENIGMATIC_SHIELD_ENIG: "小型原型神秘护盾"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_ENIG: "中型原型神秘护盾"
+LARGE_ACOT_ENIGMATIC_SHIELD_ENIG: "大型原型神秘护盾"
+ACOT_ENIGMATIC_SHIELD: "原型神秘护盾"
+ACOT_ENIGMATIC_SHIELD_DESC: "尽管由于耗电量高、充电能力相对较低，新的原型机应该比旧的设计更强大。"
+tech_enigmatic_shields: "原型神秘护盾"
+tech_enigmatic_shields_desc: "经过多次失败的尝试，我们的科学家们必须悲哀地得出结论，我们还不能创造出一个既能在强度上又能在再生上同时超过超荷电护盾而又不冒系统过载风险的护盾。也就是说，如果我们放弃对其充电能力的任何改进，这些护盾就可以得到安全的维护。"
+
+
+CORVETTE_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+CORVETTE_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+DESTROYER_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+DESTROYER_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+CRUISER_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+CRUISER_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+BATTLESHIP_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+TITAN_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+TITAN_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+COLOSSUS_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+COLOSSUS_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+PLATFORM_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+PLATFORM_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+ION_CANNON_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+ION_CANNON_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+STARBASE_DARK_MATTER_REACTOR_ENIG: "神秘反应堆原型"
+STARBASE_DARK_MATTER_REACTOR_ENIG_DESC: "不稳定但强大，神秘反应堆是一个概念的证明，我们的帝国正在进入一个新的时代。虽然它的电力能力可能不够高，以支持与该技术有关的许多技术，但它是我们正在进行的发展的一个重要里程碑。"
+
+tech_enigmatic_power_core: "神秘能量实验"
+tech_enigmatic_power_core_desc: "零点能量似乎是现代最强大的反应堆，但记录和研究似乎表明，先驱者利用了更强大的东西。我们相信，我们可以开始进行一些实验，以进入一个前所未有的新时代。"

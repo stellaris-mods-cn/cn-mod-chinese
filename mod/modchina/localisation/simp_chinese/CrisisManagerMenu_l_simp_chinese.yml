@@ -47,9 +47,9 @@
  CmtTextErrUndefined.name:0 "§E未定义的名词§! (§R错误!!§!)"
  CmtTextErrUndefined.tooltip:0 "有些问题是错误的，这个选项被停用了。请重新配置它来激活这个选项"
  CmtTextSeparator.name:1 "----------------------------------------------------------------"        ## '-' x64
- CmtTextSeparator.tooltip:0 "这是一个没有效果的分离器"
+ CmtTextSeparator.tooltip:0 "这是一个没有效果的分隔符"
  CmtTextTemplateUnique.name:0 "§W独特配置模板§!"
- CmtTextTemplateUnique.desc:0 "用户模板设置"
+ CmtTextTemplateUnique.desc:0 "由用户模板设置的独特配置模板"
  
  ### Footnotes for Descriptions
  CmtTextCurrent:0 "§W当前设定: §!"
@@ -104,9 +104,9 @@
  ### For Initial Words
  CmtDescNpc:0 "NPCs: 由人工智能控制的帝国，但不是人类玩家。"
  CmtDescPcNpc:0 "PCs: 被你或其他人控制的帝国。"
- CmtDescEgsy:0 "EGSY的意思是“游戏开始的一年”"
- CmtDescMgsy:0 "MGSY的意思是“中期游戏开始年”"
- CmtDescMtth:0 "MTTH意味着“平均发生时间”。"
+ CmtDescEgsy:0 "$CmtWarn0$: EGSY的意思是“游戏开始的一年”"
+ CmtDescMgsy:0 "$CmtWarn0$: MGSY的意思是“中期游戏开始年”"
+ CmtDescMtth:0 "$CmtWarn0$\nMTTH的意思是“平均发生时间”。\nMTTH越短，事件每经过一段时间触发概率就越大。"
  
  ### Provisional Texts
  CmtTextTransitionalBeta0:0 "$CmtWarn3$\n当前，$CrisisManagerTitleB$ 正处于不稳定的快速更新期\n当前mod各模块情况如下:\n"
@@ -250,13 +250,13 @@
  CrisisManagerMenu.1000a.tooltip:1 ""
  CrisisManagerMenu.1000b.tooltip:0 "将会同时打开多个窗口以显示所有参数配置."
  
- CrisisManagerMenu.1000.1010.name:0 "$CrisisManagerMenu.0100.3000.name$"	## Basic Configurations for Crisis
+ CrisisManagerMenu.1000.1010.name:0 "危机的一般配置"
  CrisisManagerMenu.1000.1021.name:1 "$CmtNamePrethoryn$"
  CrisisManagerMenu.1000.1022.name:1 "$CmtNameExds$, $CmtNameForcedEoc$"
  CrisisManagerMenu.1000.1023.name:1 "$CmtNameContingency$"
  CrisisManagerMenu.1000.1024.name:1 "[CmtGlobalVar.GetName_CmtViewerModeFallemEmpire]"
  CrisisManagerMenu.1000.1026.name:1 "$CmtNameHordeCrisis$"
- CrisisManagerMenu.1000.1027.name:1 "$CmtNameLgate$"
+ CrisisManagerMenu.1000.1027.name:1 "$CmtNameLgateEvents$"
  CrisisManagerMenu.1000.1028.name:1 "$CmtNameMechUprising$"
  CrisisManagerMenu.1000.1031.name:0 "舰队/陆军力量"
  CrisisManagerMenu.1000.1032.name:0 "舰队/陆军数量"
@@ -432,7 +432,7 @@
  
  ### At the Earliest
  CrisisManagerMenu.3130.title:0 "提前发生天灾时间设定"
- CrisisManagerMenu.3130.desc:0 "可以让天灾触发时间增加或减少.\n$CmtEgsyDescription$"
+ CrisisManagerMenu.3130.desc:0 "可以让天灾触发时间增加或减少.\n\n$CmtDescEgsy$"
  CrisisManagerMenu.3130x.title:1 "$CrisisManagerMenu.3130.title$: "
  CrisisManagerMenu.3130.V9.title:0 "最早 §YEGSY +100 年触发§!"
  CrisisManagerMenu.3130.V8.title:0 "最早 §YEGSY +75 年触发§!"
@@ -855,7 +855,7 @@
  ############################################
  
  ### Forbid Prethoryn Scourge
- CrisisManagerMenu.4110.title:1 "禁止 $CmtNameCrisisPrethoryn$"
+ CrisisManagerMenu.4110.title:0 "禁止 $CmtNameCrisisPrethoryn$"
  CrisisManagerMenu.4110.desc:0 "是否允许索林原虫天灾发生."
  CrisisManagerMenu.4110a.title:0 "§B禁止索林原虫天灾发生§!"
  CrisisManagerMenu.4110b.title:0 "§G允许索林原虫天灾发生§!"
@@ -874,8 +874,8 @@
  
  
  ### MTTH for Wounded Queen Found
- CrisisManagerMenu.4120.title:0 "受伤的虫后"
- CrisisManagerMenu.4120.desc:0 "可以对“受伤的虫后”事件进行相关设定.\n$CmtMtthDescription$\n"
+ CrisisManagerMenu.4120.title:0 "受伤的虫后MTTH"
+ CrisisManagerMenu.4120.desc:0 "可以对“受伤的虫后”事件进行MTTH设定.\n\n$CmtDescMtth$"
  CrisisManagerMenu.4120a.title:0 "§M永远发现不了虫后§!"
  CrisisManagerMenu.4120b.title:0 "§B很长时间间隔才能发现§!"
  CrisisManagerMenu.4120c.title:0 "§H较短时间间隔才能发现§!"
@@ -1047,7 +1047,7 @@
  CrisisManagerMenu.4230.title:0 "高维猎手2"
  CrisisManagerMenu.4230.desc:0 "配置橙色恶魔与绿色恶魔锚地开启地点的参数."
  CrisisManagerMenu.4230a1.title:0 "§G在蓝恶魔境内§!"
- CrisisManagerMenu.4230a2.title:0 "§L别点，有BUG!!!§!"
+ CrisisManagerMenu.4230a2.title:0 "§L不可选:自动打开的锚地§!"
  CrisisManagerMenu.4230b.title:0 "§H任何地点§!"
  CrisisManagerMenu.4230x.title:0 "开启地点"
  CrisisManagerMenu.4230a1.tooltip:0 "锚地肯定出现蓝恶魔境内."
@@ -1074,8 +1074,8 @@
  CrisisManagerMenu.4240n.title:0 "指定数值 §Y[CmtGlobalVar.GetValue.CmtVarReinforceCycle_OnExdAnchorBuilt] Anchlors§! 建成后"
  CrisisManagerMenu.4240x.title:0 "$CrisisManagerMenu.4240.title$: "
  CrisisManagerMenu.4240a.tooltip:1 ""
- CrisisManagerMenu.4240b.tooltip:0 """"
- CrisisManagerMenu.4240c.tooltip:1 "这是一个默认选项，如果 ''$CrisisManagerTotalWar$'' 激活而 ''$CrisisManagerEndgame$'' 被禁用时."
+ CrisisManagerMenu.4240b.tooltip:0 "这是一个默认选项，如果 ''$CrisisManagerTotalWar$'' 激活而 ''$CrisisManagerEndgame$'' 被禁用时."
+ CrisisManagerMenu.4240c.tooltip:1 ""
  CrisisManagerMenu.4240d.tooltip:1 ""
  CrisisManagerMenu.4240e.tooltip:1 ""
  CrisisManagerMenu.4240f.tooltip:1 ""
@@ -1256,7 +1256,7 @@
  
  ### Frequency of Terror
  CrisisManagerMenu.4350.title:0 "恐怖袭击频率参数"
- CrisisManagerMenu.4350.desc:0 "恐怖袭击发生频率设定.\n(* 如果要禁止，请前往前一个配置界面.)"
+ CrisisManagerMenu.4350.desc:0 "恐怖袭击发生频率设定.\n($CmtWarn0$:* 如果要禁止，请前往前一个配置界面.)"
  CrisisManagerMenu.4350a.title:0 "§B低频率§!"
  CrisisManagerMenu.4350b.title:0 "§G正常§!"
  CrisisManagerMenu.4350c.title:0 "§Y高频率§!"
@@ -1300,19 +1300,19 @@
  
  
  ### Resurfacing of Cybrex
- CrisisManagerMenu.4370.title:0 "塞博勒克斯归来"
- CrisisManagerMenu.4370.desc:0 "塞博勒克斯归来事件的设定."
+ CrisisManagerMenu.4370.title:0 "赛博勒克斯归来"
+ CrisisManagerMenu.4370.desc:0 "赛博勒克斯归来事件的设定."
  CrisisManagerMenu.4370a.title:0 "§M他们不会回来§!"
  CrisisManagerMenu.4370b.title:0 "§B延迟一段时间§!"
  CrisisManagerMenu.4370c.title:0 "§G原版时间§!"
  CrisisManagerMenu.4370d.title:0 "§H提前归来§!"
  CrisisManagerMenu.4370e.title:0 "§R立刻归来§!"		## Origin of the name: one of the sleep mode of computer. It's also known as 'Stand By'.
  CrisisManagerMenu.4370x.title:1 "$CrisisManagerMenu.4370.title$: "
- CrisisManagerMenu.4370a.tooltip:0 "塞博勒克斯系统崩溃了."
- CrisisManagerMenu.4370b.tooltip:0 "因为塞博勒克斯的CPU0有问题，所以它们迟到了."
+ CrisisManagerMenu.4370a.tooltip:0 "赛博勒克斯系统崩溃了."
+ CrisisManagerMenu.4370b.tooltip:0 "因为赛博勒克斯的CPU0有问题，所以它们迟到了."
  CrisisManagerMenu.4370c.tooltip:0 "与原版设定一致"
- CrisisManagerMenu.4370d.tooltip:0 "在肃正协议出现早期塞博勒克斯就会回来."
- CrisisManagerMenu.4370e.tooltip:0 "只要肃正出现一个月，塞博勒克斯就来了."
+ CrisisManagerMenu.4370d.tooltip:0 "在肃正协议出现早期赛博勒克斯就会回来."
+ CrisisManagerMenu.4370e.tooltip:0 "只要肃正出现一个月，赛博勒克斯就来了."
  
  CrisisManagerMenu.4370.name:1 "$CrisisManagerMenu.4370.title$ $CrisisManagerTitleC$"
  CrisisManagerMenu.4370.desc1:1 "$CrisisManagerMenu.4370.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4370a.title$§!"
@@ -1357,7 +1357,7 @@
  CrisisManagerMenu.4420c.title:0 "§R仅限PCs发生§!"
  CrisisManagerMenu.4420x.title:1 "$CmtNameFeoc$: "
  CrisisManagerMenu.4420a.tooltip:0 "玩家不会被标记"
- CrisisManagerMenu.4420b.tooltip:1 """"
+ CrisisManagerMenu.4420b.tooltip:1 ""
  CrisisManagerMenu.4420c.tooltip:0 "如果是单人游戏，FEoC必定会发生在玩家帝国"
  
  CrisisManagerMenu.4420.name:1 "$CrisisManagerMenu.4420.title$ $CrisisManagerTitleC$"
@@ -1643,8 +1643,8 @@
  CrisisManagerMenu.4560.V1.title:0 "§Y10 k§!"
  CrisisManagerMenu.4560.V0.title:0 "§H不限制舰队强度影响§!"
  CrisisManagerMenu.4560.VC.title:0 "§Y[CmtGlobalVar.GetValue.CmtVarSleeperFleetPowerOwnDisplay] k§!"
- CrisisManagerMenu.4560.Vx.title:1 "$CrisisManagerTemplateUnique.name$"
- CrisisManagerMenu.4560.tooltip:0 "This configuration is applied not only to standard awaking, but also awaking as gurdians and the War in Heaven."
+ CrisisManagerMenu.4560.Vx.title:1 "$CmtTextTemplateUnique.name$"
+ CrisisManagerMenu.4560.tooltip:0 "这个配置不仅适用于觉醒帝国,也适用于天堂之战。"
  CrisisManagerMenu.4560.V9.tooltip:1 "$CrisisManagerMenu.4560.tooltip$"
  CrisisManagerMenu.4560.V8.tooltip:1 "$CrisisManagerMenu.4560.tooltip$"
  CrisisManagerMenu.4560.V7.tooltip:1 "$CrisisManagerMenu.4560.tooltip$"
@@ -1737,7 +1737,7 @@
  CrisisManagerMenu.4610c.title:0 "§G中§!"
  CrisisManagerMenu.4610d.title:0 "§H高§!"
  CrisisManagerMenu.4610e.title:0 "天堂之战肯定发生: §R仇恨永不消褪§!"
- CrisisManagerMenu.4610x.title:1 "$CrisisManagerMenu.4610.title$"
+ CrisisManagerMenu.4610x.title:1 "$CrisisManagerMenu.4610.title$: "
  CrisisManagerMenu.4610a.tooltip:1 """"
  CrisisManagerMenu.4610b.tooltip:1 """"
  CrisisManagerMenu.4610c.tooltip:1 """"
@@ -2270,8 +2270,8 @@
  
  
  ### MTTH for Khan Reigning
- CrisisManagerMenu.4831.title:0 "大可汗统治时长"
- CrisisManagerMenu.4831.desc:0 "大可汗统治时长.\n\n$CmtDescMtth$"
+ CrisisManagerMenu.4831.title:0 "大可汗统治时长MTTH"
+ CrisisManagerMenu.4831.desc:0 为大汗统治的MTTH配置。\n\n$CmtDescMtth$"
  CrisisManagerMenu.4831a.title:0 "§B非常长§!"
  CrisisManagerMenu.4831b.title:0 "§G长§!"
  CrisisManagerMenu.4831c.title:0 "§Y中§!"
@@ -2691,29 +2691,29 @@
  
  
  ### Quiet Stroller
- CrisisManagerMenu.4940.title:0 "安静的婴儿车"
+ CrisisManagerMenu.4940.title:0 "安静的星团"
  CrisisManagerMenu.4940.desc:0 " ''$graygoo.400.name$''事件条件的设置.\n\n$CmtWarn1$\n推荐设置''$CrisisManagerMenu.4940b.title$'' 或 ''$CrisisManagerMenu.4940c.title$'' 如果没有发生事件.\n\n$CmtWarn0$: 的事件的条件的配置."
  CrisisManagerMenu.4940a.title:0 "§M未发现§!"
- CrisisManagerMenu.4940b.title:0 "§G在寂静的L集群中找到§!"
- CrisisManagerMenu.4940c.title:0 "§Y在腐烂的L集群中发现§!"
- CrisisManagerMenu.4940d.title:0 "§H在任何L集群中找到§!"
+ CrisisManagerMenu.4940b.title:0 "§G在寂静的L星团中找到§!"
+ CrisisManagerMenu.4940c.title:0 "§Y在腐烂的L星团中发现§!"
+ CrisisManagerMenu.4940d.title:0 "§H在任何L星团中找到§!"
  CrisisManagerMenu.4940a.tooltip:1 ""
  CrisisManagerMenu.4940b.tooltip:0 "如果设置为仅 $CmtNameSilense$ 发生."
  CrisisManagerMenu.4940c.tooltip:0 "如果设置为$CmtNameSilense$ 或 $CmtNameLdrake$发生"
  CrisisManagerMenu.4940d.tooltip:1 ""
  
  CrisisManagerMenu.4940.name:1 "$CrisisManagerMenu.4940.title$ $CrisisManagerTitleC$"
- CrisisManagerMenu.4940.desc1:1 "$CrisisManagerMenu.4940.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4940a.title$§!"
- CrisisManagerMenu.4940.desc2:1 "$CrisisManagerMenu.4940.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4940b.title$§!"
- CrisisManagerMenu.4940.desc3:1 "$CrisisManagerMenu.4940.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4940c.title$§!"
- CrisisManagerMenu.4940.desc4:1 "$CrisisManagerMenu.4940.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4940d.title$§!"
- CrisisManagerMenu.4940a.name:1 "$CrisisManagerMenu.4940.title$: $CrisisManagerMenu.4940a.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.4940b.name:1 "$CrisisManagerMenu.4940.title$: $CrisisManagerMenu.4940b.title$ $CmtTooltipInfo2$"
- CrisisManagerMenu.4940c.name:1 "$CrisisManagerMenu.4940.title$: $CrisisManagerMenu.4940c.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.4940d.name:1 "$CrisisManagerMenu.4940.title$: $CrisisManagerMenu.4940d.title$ $CmtTooltipInfo1$"
+ CrisisManagerMenu.4940.desc1:1 "$CrisisManagerMenu.4940.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4940a.title$§!"
+ CrisisManagerMenu.4940.desc2:1 "$CrisisManagerMenu.4940.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4940b.title$§!"
+ CrisisManagerMenu.4940.desc3:1 "$CrisisManagerMenu.4940.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4940c.title$§!"
+ CrisisManagerMenu.4940.desc4:1 "$CrisisManagerMenu.4940.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4940d.title$§!"
+ CrisisManagerMenu.4940a.name:1 "$CrisisManagerMenu.4940a.title$"
+ CrisisManagerMenu.4940b.name:1 "$CrisisManagerMenu.4940b.title$ $CmtTextDefault$"
+ CrisisManagerMenu.4940c.name:1 "$CrisisManagerMenu.4940c.title$ $CmtTooltipInfo1$"
+ CrisisManagerMenu.4940d.name:1 "$CrisisManagerMenu.4940d.title$"
  CrisisManagerMenu.4940x.name:1 "$CrisisManagerMenu.4940.title$: $CrisisManagerMenu.4940x.title$"
- CrisisManagerMenu.4940z.name:1 "$CrisisManagerMenu.4940.title$: $CrisisManagerErrUndefined$"
- CrisisManagerMenu.4940z.tooltip:1 "$CrisisManagerErrUndefined.tooltip$"
+ CrisisManagerMenu.4940z.name:1 "$CrisisManagerMenu.4940.title$: $CmtTextErrUndefined.name$"
+ CrisisManagerMenu.4940z.tooltip:1 "$CmtTextErrUndefined.tooltip$"
  
  
  ### Dessanu Gift
@@ -2733,20 +2733,20 @@
  CrisisManagerMenu.4950f.tooltip:1 "德萨努给每一个帝国都赠送了一份礼物。然而，他们似乎没有这么多的灰色资源。我不知道礼物是从哪里来的."
  
  CrisisManagerMenu.4950.name:1 "$CrisisManagerMenu.4950.title$ $CrisisManagerTitleC$"
- CrisisManagerMenu.4950.desc1:1 "$CrisisManagerMenu.4950.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4950a.title$§!"
- CrisisManagerMenu.4950.desc2:1 "$CrisisManagerMenu.4950.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4950b.title$§!"
- CrisisManagerMenu.4950.desc3:1 "$CrisisManagerMenu.4950.desc$\n$CmtCurrent$§W$CrisisManagerMenu.4950c.title$§!"
+ CrisisManagerMenu.4950.desc1:1 "$CrisisManagerMenu.4950.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4950a.title$§!"
+ CrisisManagerMenu.4950.desc2:1 "$CrisisManagerMenu.4950.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4950b.title$§!"
+ CrisisManagerMenu.4950.desc3:1 "$CrisisManagerMenu.4950.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4950c.title$§!"
  CrisisManagerMenu.4950.desc4:1 "$CrisisManagerMenu.4950.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4950d.title$§!"
  CrisisManagerMenu.4950.desc5:1 "$CrisisManagerMenu.4950.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4950e.title$§!"
  CrisisManagerMenu.4950.desc6:1 "$CrisisManagerMenu.4950.desc$\n\n$CmtTextCurrent$§W$CrisisManagerMenu.4950f.title$§!"
- CrisisManagerMenu.4950a.name:1 "$CrisisManagerMenu.4950.title$: $CrisisManagerMenu.4950a.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.4950b.name:1 "$CrisisManagerMenu.4950.title$: $CrisisManagerMenu.4950b.title$ $CmtTooltipInfo2$"
- CrisisManagerMenu.4950c.name:1 "$CrisisManagerMenu.4950.title$: $CrisisManagerMenu.4950c.title$ $CmtTooltipInfo1$"
+ CrisisManagerMenu.4950a.name:1 "$CrisisManagerMenu.4950a.title$"
+ CrisisManagerMenu.4950b.name:1 "$CrisisManagerMenu.4950b.title$"
+ CrisisManagerMenu.4950c.name:1 "$CrisisManagerMenu.4950c.title$ $CmtTextDefault$"
  CrisisManagerMenu.4950d.name:1 "$CrisisManagerMenu.4950d.title$ $CmtTooltipInfo2$"
  CrisisManagerMenu.4950e.name:1 "$CrisisManagerMenu.4950e.title$ $CmtTooltipInfo1$"
  CrisisManagerMenu.4950f.name:1 "$CrisisManagerMenu.4950f.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.4950z.name:1 "$CrisisManagerMenu.4950.title$: $CrisisManagerErrUndefined$"
- CrisisManagerMenu.4950z.tooltip:1 "$CrisisManagerErrUndefined.tooltip$"
+ CrisisManagerMenu.4950z.name:1 "$CrisisManagerMenu.4950.title$: $CmtTextErrUndefined.name$"
+ CrisisManagerMenu.4950z.tooltip:1 "$CmtTextErrUndefined.tooltip$"
  
  
  ### Reinforcement Cycle of Gray Tempest's Fleets
@@ -2932,8 +2932,8 @@
  
  
  ### MTTH for Uprising
- CrisisManagerMenu.5131.title:0 "起义进行速度"
- CrisisManagerMenu.5131.desc:0 "起义事件进行速度设置.\n$CmtDescMtth$"
+ CrisisManagerMenu.5131.title:0 "起义进行速度MTTH"
+ CrisisManagerMenu.5131.desc:0 "起义事件进行速度MTTH设置.\n$CmtDescMtth$"
  CrisisManagerMenu.5131a.title:0 "长"
  CrisisManagerMenu.5131b.title:0 "中"
  CrisisManagerMenu.5131c.title:0 "短"
@@ -3275,20 +3275,20 @@
  CrisisManagerMenu.6000.name:1 "$CrisisManagerMenu.6000.title$ $CrisisManagerTitleC$"
  CrisisManagerMenu.6000n.name:1 "$CrisisManagerMenu.6000n.title$"
  CrisisManagerMenu.6000a.name:1 "$CrisisManagerMenu.6000.title$: $CrisisManagerMenu.6000a.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.6000b.name:1 "$CrisisManagerMenu.6000.title$: $CrisisManagerMenu.6000b.title$ $CmtDefault$ $CmtTooltipInfo1$"
+ CrisisManagerMenu.6000b.name:1 "$CrisisManagerMenu.6000.title$: $CrisisManagerMenu.6000b.title$ $CmtTextDefault$ $CmtTooltipInfo1$"
  CrisisManagerMenu.6000c.name:1 "$CrisisManagerMenu.6000.title$: $CrisisManagerMenu.6000c.title$ $CmtTooltipInfo1$"
  CrisisManagerMenu.6000d.name:1 "$CrisisManagerMenu.6000.title$: $CrisisManagerMenu.6000d.title$ $CmtTooltipInfo2$"
  CrisisManagerMenu.6000e.name:1 "$CrisisManagerMenu.6000.title$: $CrisisManagerMenu.6000e.title$ $CmtTooltipInfo2$"
  CrisisManagerMenu.6000y.name:1 "$CrisisManagerMenu.6000y.title$"
  CrisisManagerMenu.6000z.name:1 "$CrisisManagerMenu.6000.title$: ---"
  CrisisManagerMenu.6000a.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): $CrisisManagerMenu.6000a.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.6000b.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): $CrisisManagerMenu.6000b.title$ $CmtDefault$ $CmtTooltipInfo1$"
+ CrisisManagerMenu.6000b.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): $CrisisManagerMenu.6000b.title$ $CmtTextDefault$ $CmtTooltipInfo1$"
  CrisisManagerMenu.6000c.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): $CrisisManagerMenu.6000c.title$ $CmtTooltipInfo1$"
  CrisisManagerMenu.6000d.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): $CrisisManagerMenu.6000d.title$ $CmtTooltipInfo2$"
  CrisisManagerMenu.6000e.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): $CrisisManagerMenu.6000e.title$ $CmtTooltipInfo2$"
  CrisisManagerMenu.6000z.Endgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameEndgame$): ---"
  CrisisManagerMenu.6000a.Midgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameMidgame$): $CrisisManagerMenu.6000a.title$ $CmtTooltipInfo1$"
- CrisisManagerMenu.6000b.Midgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameMidgame$): $CrisisManagerMenu.6000b.title$ $CmtDefault$ $CmtTooltipInfo1$"
+ CrisisManagerMenu.6000b.Midgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameMidgame$): $CrisisManagerMenu.6000b.title$ $CmtTextDefault$ $CmtTooltipInfo1$"
  CrisisManagerMenu.6000c.Midgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameMidgame$): $CrisisManagerMenu.6000c.title$ $CmtTooltipInfo1$"
  CrisisManagerMenu.6000d.Midgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameMidgame$): $CrisisManagerMenu.6000d.title$ $CmtTooltipInfo2$"
  CrisisManagerMenu.6000e.Midgame.name:1 "$CrisisManagerMenu.6000.title$ ($CmtNameMidgame$): $CrisisManagerMenu.6000e.title$ $CmtTooltipInfo2$"
@@ -3344,7 +3344,7 @@
  
  
  ### Advanced Configuraitons
- CrisisManagerMenu.6x00a.desc:0 "这些设定包括了所有天灾与哨兵与塞博勒克斯."
+ CrisisManagerMenu.6x00a.desc:0 "这些设定包括了所有天灾与哨兵与赛博勒克斯."
  CrisisManagerMenu.6x00b.desc:0 "这些设定包括了所有天灾."
  CrisisManagerMenu.6x00.xxx.tooltip:1 "$CrisisManagerMenu.6x00a.desc$"
  CrisisManagerMenu.6x00.NA.tooltip:0 "这个设定是独立的. 所以''$CmtNameCommon$'' 没有激活."
@@ -4903,7 +4903,7 @@
  CrisisManagerMenu.7141.desc1:0 "选择要打开的L-星门.\n$CmtDescCannotCancel$\n\n$CmtOperation$§W[CmtGlobalVar.GetName_LgateManualOpenEvent]§!"
  CrisisManagerMenu.7141.desc2:1 "$CrisisManagerMenu.7141.desc1$\n\n$CmtDescListedNotAllLgate$"
  CrisisManagerMenu.7141a.name:0 "$CrisisManagerMenu.7136a.name$"        # I changed my mind.
- CrisisManagerMenu.7141b.name:0 "随机打开"
+ CrisisManagerMenu.7141b.name:0 "随机打开L-星门"
  CrisisManagerMenu.7141c1.name:0 "打开§Y[CmtTargetManualLgateSystem1.GetName]§!中的L-星门"
  CrisisManagerMenu.7141c2.name:0 "打开§Y[CmtTargetManualLgateSystem2.GetName]§!中的L-星门"
  CrisisManagerMenu.7141c3.name:0 "打开§Y[CmtTargetManualLgateSystem3.GetName]§!中的L-星门"
@@ -5042,9 +5042,9 @@
  
  
  ### Reconfirmation of Destruction of Crisis Country
- CrisisManagerMenu.720x.desc:1 "$CrisisManagerMenu.710x.desc$"
+ CrisisManagerMenu.720x.desc:1 "$CrisisManagerMenu.71xx.desc$"
  CrisisManagerMenu.720xa.name:1 "是的，天灾让我厌烦了."
- CrisisManagerMenu.720xb.name:0 "$CrisisManagerMenu.710xc.name$"
+ CrisisManagerMenu.720xb.name:0 "Yes, I'm tired of the crisis."
  CrisisManagerMenu.7205c1.name:0 "是的，毁掉$CmtProperNameSleeper1$."
  CrisisManagerMenu.7205c2.name:0 "是的，毁掉$CmtProperNameSleeper2$."
  CrisisManagerMenu.7205c3.name:0 "是的，毁掉$CmtProperNameSleeper3$."
@@ -5086,10 +5086,10 @@
  CrisisManagerMenu.7412.title:1 "$CrisisManagerMenu.7400.title$"
  CrisisManagerMenu.7413.title:1 "$CrisisManagerMenu.7400.title$"
  CrisisManagerMenu.7419.title:1 "$CrisisManagerMenu.7400.title$"
- CrisisManagerMenu.7411.desc:0 "$CrisisManagerMenu.74xx.desc$§W$CrisisManagerMenu.7400ax.name$§!"
- CrisisManagerMenu.7412.desc:0 "$CrisisManagerMenu.74xx.desc$§W$CrisisManagerMenu.7400b1.name$§!"
- CrisisManagerMenu.7413.desc:0 "在这里你可以创建和/或删除坠落帝国的巨像.\n$CmtWarn0$: 原版游戏开始时有一个巨像的概率为10%.\n\n$CmtDescCannotCancel$"
- CrisisManagerMenu.7419.desc:0 "在这里，你可以为坠落帝国的舰队应用模板.\n失落帝国的军事舰队被删除，模板中的舰队在应用任何模板时在他们的首都星球上创建.\n\n$CmtWarn3$: 当任何失落帝国“战斗”时都不能应用模板。建议尽快应用游戏开始."
+ CrisisManagerMenu.7411.desc:0 "在这里你可以创建和/或删除失落帝国的战斗舰队。\n\n$CmtWarn0$: 在普通开始局，他们有2或3个战斗舰队。\n\n$CmtDescNoCancelTail$"
+ CrisisManagerMenu.7412.desc:0 "在这里，你可以创建和/或删除失落帝国泰坦。\n\n$CmtWarn0$: 在普通开始局，他们有一个泰坦的概率为25%。\n\n$CmtDescNoCancelTail$"
+ CrisisManagerMenu.7413.desc:0 "在这里你可以创建和/或删除失落帝国的巨像。\n$CmtWarn0$: 原版游戏开始时有一个巨像的概率为10%.\n\n$CmtDescCannotCancel$"
+ CrisisManagerMenu.7419.desc:0 "在这里，你可以为失落帝国的舰队应用模板。\n失落帝国的军事舰队被删除，模板中的舰队在应用任何模板时在他们的首都星球上创建.\n\n$CmtWarn3$: 当任何失落帝国“战斗”时都不能应用模板。建议尽快应用游戏开始."
  CrisisManagerMenu.7400.name:1 "$CrisisManagerMenu.7400.title$ $CrisisManagerTitleC$"
  CrisisManagerMenu.7411.name:1 "$CrisisManagerMenu.7411.title$ $CrisisManagerTitleC$"
  CrisisManagerMenu.7412.name:1 "$CrisisManagerMenu.7412.title$ $CrisisManagerTitleC$"
@@ -5098,7 +5098,7 @@
  
  CrisisManagerMenu.7400a.name:0 "创建/删除标准船队"
  CrisisManagerMenu.7400b.name:0 "创建/删除泰坦"
- CrisisManagerMenu.7400c.name:0 "Remove $CmtNameLgate$"
+ CrisisManagerMenu.7400c.name:0 "创建/删除巨像"
  CrisisManagerMenu.7400d.name:0 "应用模板"
  CrisisManagerMenu.741xa.name:0 "不要创建或删除."
  CrisisManagerMenu.7411b1.name:0 "为每个失落帝国创造一支33%满员的舰队"
@@ -5269,7 +5269,7 @@
  
  ### Main
  CrisisManagerMenu.9000.name:0 "debug菜单$CrisisManagerTitleC$"
- CrisisManagerMenu.9000.desc:0 "§H仅仅debug用.§!"
+ CrisisManagerMenu.9000.desc:0 "§H仅debug用.§!"
  CrisisManagerMenu.9000.9100.name:0 "变量检查器"
  CrisisManagerMenu.9000.9200.name:0 "标志控制器"
  CrisisManagerMenu.9000.9310.name:0 "危机触发计数器"
@@ -5308,8 +5308,8 @@
  CrisisManagerMenu.9310b.name:0 "复位计数器"
  
  ### Awakening of Sleeper Counter
- CrisisManagerMenu.9320.name:1 "$CrisisManagerMenu.9000.9320.name$ $CrisisManagerTitleC$"
- CrisisManagerMenu.9320.desc:1 "$CrisisManagerMenu.9000.desc$\n\n§WDual Guardians: [CmtGlobalVar.GetValue.GmtVarDebugCountTriggerDualGuardians]\nSingle Guardians: [CmtGlobalVar.GetValue.GmtVarDebugCountTriggerSingleGuardians]\nNo Guardians: [CmtGlobalVar.GetValue.GmtVarDebugCountTriggerNoGuardians]\n§!"
+ CrisisManagerMenu.9320.name:1 "$CrisisManagerMenu.9000.9340.name$ $CrisisManagerTitleC$"
+ CrisisManagerMenu.9320.desc:1 "$CrisisManagerMenu.9000.desc$\n\nMTTH 50 yr -> 200/10000\n§W觉醒: [CmtGlobalVar.GetValue.GmtVarDebugCountSleeperAwakened]\n沉睡: [CmtGlobalVar.GetValue.GmtVarDebugCountSleeperSleeping]\n§!"
  CrisisManagerMenu.9320a1.name:0 "Trigger Awakening of Every Sleepers 10000 Times"
  CrisisManagerMenu.9320a2.name:0 "Trigger Awakening of Random Sleeper 10000 Times"
  CrisisManagerMenu.9320b.name:0 "复位计数器"

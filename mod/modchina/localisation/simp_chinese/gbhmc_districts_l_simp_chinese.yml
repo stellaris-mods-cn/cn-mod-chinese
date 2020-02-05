@@ -1,0 +1,18 @@
+﻿l_simp_chinese:
+
+ district_gbhmc_hive:0 "蜂群居住区"
+ district_gbhmc_hive_plural:0 "蜂群居住区"
+ district_gbhmc_hive_desc:0 "大型活动室，子人口在不工作时聚集在这里恢复活力。"
+ 
+ district_gbhmc_generator_uncapped:0 "生物采矿设施"
+ district_gbhmc_generator_uncapped_plural:0 "生物采矿设施"
+ district_gbhmc_generator_uncapped_desc:0 "巨大的生物卷须深入星球地壳，允许子人口收集材料和吸收热量。"
+ 
+ district_gbhmc_mining_uncapped:0 "蜂群分解中心"
+ district_gbhmc_mining_uncapped_plural:0 "蜂群分解中心"
+ district_gbhmc_mining_uncapped_desc:0 "死去的有机体的收容池,子人口在这里收集气体。"
+ 
+ district_gbhmc_farming_uncapped:0 "蜂群培育中心"
+ district_gbhmc_farming_uncapped_plural:0 "蜂群培育中心"
+ district_gbhmc_farming_uncapped_desc:0 "大型的蜂群培育中心,在这里,子人口可以收集到营养丰富的生物物质用于繁衍。"
+ 

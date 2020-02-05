@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+####################################
+# 企業建造物のローカライゼーション
+####################################
+
+ building_zehikyoku_local_court_station:0 "曲直庁地裁"
+ building_zehikyoku_local_court_station_desc:0 "如果為行星的法令實備執行感到為難，直授曲直廳委託。保證單獨嚴謹的複審無用審理中高效順利執行各項法令。"
+ building_matara_shrine:0 "摩多羅神殿"
+ building_matara_shrine_desc:0 "打造祭奠摩多綾羅神的司祭們的僱傭，根據那個共同利益聚集異怪の粉。"
+ building_xiongmao_car_land:0 "外界熊貓車主題公園"
+ building_xiongmao_car_land_desc:0 "百貨車頂的象徵和外來各地深受推崇的熊貓車的主題公園那正是宇宙百貨商店屋頂的縮影。"
+ building_prismriver_live_venue:0 "銀河實況錄音會場"
+ building_prismriver_live_venue_desc:0 "銀河樂團現場巡迴演出中使用的三稜鏡，當銀河樂團不來的時候，熱心的三稜鏡們也在會場繼續活動。"
+ building_kappa_iron_factory:0 "河童の礦工場"
+ building_kappa_iron_factory_desc:0 "根據河童的技術做成的礦工場，為了從素材的採集到加工，實施一連串的精密加工的齊備設備"

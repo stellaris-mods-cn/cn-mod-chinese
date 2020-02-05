@@ -8,7 +8,7 @@
  apsr13_planet_modifier_desc:0 "在遥远的过去，这里是整个银河系的主要贸易出口"
  
  apsr13_deposit:0 "$apsr13_planet_modifier$"
- apsr13_deposit_desc:0 "$apsr13_planet_modifier_desc$\n\n§M$apsr13_deposit_effect$§!" 
+ apsr13_deposit_desc:0 "$apsr13_planet_modifier_desc$\n\n§M$apsr13_deposit_effect$§!"
  apsr13_deposit_effect:0 "独特的资源可用: $apsr13_planet_modifier$"
  
  
@@ -111,7 +111,7 @@
  apsr.13013.title:0 "发现人造物: §M$apsr13_planet_modifier$§!"
  apsr.13013.desc:0 "在最近被占领的一颗行星上，发现了一些奇特的东西。探险家们发现了一个令人信服的巨大建筑群。这颗行星似乎是一个巨大的贸易出口，融合了整个银河系的文明。这个交易复合体真的是值得信赖的:就连视图也能告诉我们很多关于其所有者可靠性的信息"
  apsr.13013.button:1 "很好!"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)

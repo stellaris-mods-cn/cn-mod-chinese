@@ -118,6 +118,8 @@
  decision_end_adapted_environment_desc:0 "当星球足够安全，我们的殖民者可以在没有封闭环境限制的情况下生活在地表时，我们就可以拆除穹顶，解除对殖民地扩张的限制。"
  decision_underground_colonization:0 "地下殖民地规划"
  decision_underground_colonization_desc:0 "我们可以利用这个没有无生命星球的地下特征，比如洞穴网络或熔岩管，把它们密封起来，创造一个适合居住的压力、大气和温度的人工环境。蚁群将需要更高的能量，扩张需要进一步挖掘，但它将提供获取新资源的途径。"
+ decision_end_underground_colonization:0 "开放式环境"
+ decision_end_underground_colonization_desc:0 "当星球足够安全，我们的殖民者可以在没有封闭的地下环境限制的情况下生活在地表时，我们就可以拆除穹顶，解除对殖民地扩张的限制。"
  
  ###Deposits
  d_mineral_rich_rock:0 "矿产丰富的岩石"

@@ -8,7 +8,7 @@
  mem_dimensional_rift.105.desc:0 "通过地毯式搜索和对传感器重新校准后没有任何新的发现，§Y[Root.GetLeaderName]§!和§Y[Root.GetName]§! 的船员放弃了继续对此搜索。"
  mem_dimensional_rift.105.a:0 "回去工作，然后。"
  mem_dimensional_rift.106.name:0 "临时结束"
- mem_dimensional_rift.106.desc:0 "扫描小行星深处时候，我们的船只被岩石引发跃迁引擎紧急启动。§Y[Root.GetName]§!的所有船员都跟着船消失不见了。"
+ mem_dimensional_rift.106.desc:0 "扫描小行星深处时候，我们的飞船被岩石引发跃迁引擎紧急启动。§Y[Root.GetName]§!的所有船员都跟着船消失不见了。"
  mem_dimensional_rift.106.a:0 "§Y[Root.Owner.GetName]§!的伤心日"
  mem_dimensional_rift.7.name:0 "被遗弃的实验室"
  mem_dimensional_rift.7.desc:0 "一个古老破旧寒冷的被遗弃的研究站就在一颗小行星的附近。经过仔细检查发现，电源核心似乎被撕毁或者以其他方式强制弹出。你的首席科学家请求插入电源核心以便重启整个系统。"
@@ -23,6 +23,5 @@
  mem_dimensional_rift.2.name:0 "被遗弃的实验室"
  mem_dimensional_rift.2.desc:0 "关于该站的最后一篇日志似乎表明这里完成所有研究正处于待关闭状态。而且文件中的数据似乎表明这里曾经被多个时空裂缝袭卷，造成多人伤亡。但关于测试本身的数据似乎被修改或者丢失。任何有关于这里被撕裂的原因，我们尚不得而知。然而，我们通过这里数据获得了大量关于变形场和传说中的物理定律的漏洞的资料。"
  mem_dimensional_rift.2.a:0 "表彰此次任务的所有人员。"
- budget_group_country_modifier:0 "来自修正"
  mem_powering_abandoned_station:0 "强大的废弃站点"
  

@@ -1,0 +1,7 @@
+﻿l_simp_chinese:
+
+ EDICTS:0 "法令和宗教委员会"
+ EDICTS_LABEL:0 "管理我们的帝国，星球法令和宗教委员会。"
+ topbar_button_edicts_name:1 "法令和宗教"
+ topbar_button_edicts_delayed:0 "§E打开法令视图，你可以打开一个新的宗教会议，检查和激活帝国的法令。§!"
+ empire_ethics_editor:0 "道德和宗教"

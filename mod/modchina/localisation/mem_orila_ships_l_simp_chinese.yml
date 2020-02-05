@@ -1,152 +1,152 @@
 ﻿l_simp_chinese:
 
- mem_ANCIENT_PRIMARY_WEAPON:0 "先祖超重力炮"
- mem_ANCIENT_SPACEPORT_WEAPON:0 "先祖重力炮"
+ mem_ANCIENT_PRIMARY_WEAPON:0 "古代超重力炮"
+ mem_ANCIENT_SPACEPORT_WEAPON:0 "古代重力炮"
  
- mem_ANCIENT_PRIMARY_STATION_WEAPON:0 "先祖重力炮"
- mem_ANCIENT_CRUISER_WEAPON:0 "先祖重力炮"
+ mem_ANCIENT_PRIMARY_STATION_WEAPON:0 "古代重力炮"
+ mem_ANCIENT_CRUISER_WEAPON:0 "古代重力炮"
  
- mem_ANCIENT_TORPEDO:0 "先祖侵蚀鱼雷"
+ mem_ANCIENT_TORPEDO:0 "古代侵蚀鱼雷"
 
- mem_ANCIENT_ESCORT_WEAPON:0 "先祖光子炮 类型-III"
- mem_ANCIENT_LARGE_WEAPON:0 "先祖光子炮 类型-III"
- mem_ANCIENT_LARGE_STATION_WEAPON:0 "先祖光子炮 类型-III"
+ mem_ANCIENT_ESCORT_WEAPON:0 "古代光子炮-三型"
+ mem_ANCIENT_LARGE_WEAPON:0 "古代光子炮-三型"
+ mem_ANCIENT_LARGE_STATION_WEAPON:0 "古代光子炮-三型"
  
- mem_ANCIENT_MEDIUM_WEAPON:0 "先祖光子炮 类型-II"
- mem_ANCIENT_SMALL_WEAPON:0 "先祖光子炮 类型-I"
- mem_ANCIENT_PD:0 "先祖点防御"
+ mem_ANCIENT_MEDIUM_WEAPON:0 "古代光子炮-二型"
+ mem_ANCIENT_SMALL_WEAPON:0 "古代光子炮-一型"
+ mem_ANCIENT_PD:0 "古代点防御系统"
  
- mem_ANCIENT_DRONE_HANGAR:0 "先祖无人机库"
+ mem_ANCIENT_DRONE_HANGAR:0 "古代无人机库"
  
- mem_ANCIENT_WEAPON_AURA:0 "先祖断能立场"
+ mem_ANCIENT_WEAPON_AURA:0 "古代抑制力场"
  
- mem_ancient_combat_drone:0 "无人战斗机"
- mem_ancient_combat_drone_plural:0 "无人战斗机"
- mem_ancient_combat_drone_key:0 "无人战斗机 核心"
+ mem_ancient_combat_drone:0 "作战无人机"
+ mem_ancient_combat_drone_plural:0 "作战无人机群"
+ mem_ancient_combat_drone_key:0 "作战无人机核心"
  
- mem_ancient_control_drone:0 "控制无人机"
- mem_ancient_control_drone_plural:0 "控制无人机"
- mem_ancient_control_drone_key:0 "无人机控制 核心"
+ mem_ancient_control_drone:0 "指挥无人机"
+ mem_ancient_control_drone_plural:0 "指挥无人机群"
+ mem_ancient_control_drone_key:0 "指挥无人机核心"
  
  mem_ancient_escort:0 "护卫舰"
  mem_ancient_escort_plural:0 "护卫舰"
- mem_ancient_escort_key:0 "护卫舰 核心"
+ mem_ancient_escort_key:0 "护卫舰核心"
  
  mem_ancient_cruiser:0 "打击巡洋舰"
  mem_ancient_cruiser_plural:0 "打击巡洋舰"
- mem_ancient_cruiser_key:0 "打击巡洋舰 核心"
+ mem_ancient_cruiser_key:0 "打击巡洋舰核心"
  
  mem_ancient_weapon:0 "天堂之矛"
  mem_ancient_weapon_plural:0 "天堂之矛"
- mem_ancient_weapon_key:0 "天堂之矛 核心"
+ mem_ancient_weapon_key:0 "天堂之矛核心"
  
  mem_ancient_large_military_station:0 "城堡"
  mem_ancient_large_military_station_plural:0 "城堡"
- mem_ancient_large_military_station_key:0 "城堡 核心"
+ mem_ancient_large_military_station_key:0 "城堡核心"
  
  mem_ancient_small_military_station:0 "继电器"
  mem_ancient_small_military_station_plural:0 "继电器"
- mem_ancient_small_military_station_key:0 "继电器 核心"
+ mem_ancient_small_military_station_key:0 "继电器核心"
  
  mem_ancient_fleet_headquarter:0 "舰队司令部"
  mem_ancient_fleet_headquarter_DESC:0 "一个巨大的枢纽，能优化舰队的运作同时减少官僚主义的影响，能显著提高舰队的作战实力。"
  mem_ancient_fleet_headquarter_MEGASTRUCTURE_DETAILS:0 ""
 
- tech_mem_ancient_weapon:0 "船舶原理图 - 仙境"
- tech_mem_ancient_weapon_desc:0 "先祖在黎明战争中所使用一种武器的详细图表。"
+ tech_mem_ancient_weapon:0 "舰船蓝图-诸神黄昏"
+ tech_mem_ancient_weapon_desc:0 "一种曾在黎明战争中使用过的古代武器的详细蓝图。"
  
- requires_no_existing_ancient_weapon:0 "$TRIGGER_FAIL$不能建造多个仙境，天堂之矛 - 永恒之枪。"
- must_build_around_asteroid:1 "$TRIGGER_FAIL$必须围绕小行星建立"
+ requires_no_existing_ancient_weapon:0 "$TRIGGER_FAIL$不能建造多个$mem_ancient_weapon_project_25$。"
+ must_build_around_asteroid:1 "$TRIGGER_FAIL$必须围绕小行星建造。"
  
  #Ragnarok Construction Platform
  
- mem_ancient_weapon_project_00:0 "先祖武器站点"
- mem_ancient_weapon_project_00_DESC:0 "该建造基地是设计先祖武器的地方 - $mem_ancient_weapon_project_25$。"
- mem_ancient_weapon_project_00_MEGASTRUCTURE_DETAILS:0 "传奇武器图表 - §Y$mem_ancient_weapon_project_25$§!。"
+ mem_ancient_weapon_project_00:0 "古代武器基址"
+ mem_ancient_weapon_project_00_DESC:0 "这个建造工地是建造$mem_ancient_weapon_project_25$的基地。"
+ mem_ancient_weapon_project_00_MEGASTRUCTURE_DETAILS:0 "传奇武器§Y$mem_ancient_weapon_project_25$§!的蓝图。"
  
  #Ragnarok Core
  
- mem_ancient_weapon_project_01:0 "部分先祖武器"
- mem_ancient_weapon_project_01_DESC:0 "$mem_ancient_weapon_project_25$ - §Y1/25§! 完成"
+ mem_ancient_weapon_project_01:0 "古代武器部分完成"
+ mem_ancient_weapon_project_01_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y1/25§!"
  
  #Ragnarok Structure
  
- mem_ancient_weapon_project_02:0 "部分先祖武器"
- mem_ancient_weapon_project_02_DESC:0 "$mem_ancient_weapon_project_25$ - §Y2/25§! 完成"
+ mem_ancient_weapon_project_02:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_02_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y2/25§!"
  
- mem_ancient_weapon_project_03:0 "部分先祖武器"
- mem_ancient_weapon_project_03_DESC:0 "$mem_ancient_weapon_project_25$ - §Y3/25§! 完成"
+ mem_ancient_weapon_project_03:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_03_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y3/25§!"
  
- mem_ancient_weapon_project_04:0 "部分先祖武器"
- mem_ancient_weapon_project_04_DESC:0 "$mem_ancient_weapon_project_25$ - §Y4/25§! 完成"
+ mem_ancient_weapon_project_04:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_04_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y4/25§!"
  
- mem_ancient_weapon_project_05:0 "部分先祖武器"
- mem_ancient_weapon_project_05_DESC:0 "$mem_ancient_weapon_project_25$ - §Y5/25§! 完成"
+ mem_ancient_weapon_project_05:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_05_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y5/25§!"
  
- mem_ancient_weapon_project_06:0 "部分先祖武器"
- mem_ancient_weapon_project_06_DESC:0 "$mem_ancient_weapon_project_25$ - §Y6/25§! 完成"
+ mem_ancient_weapon_project_06:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_06_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y6/25§!"
  
- mem_ancient_weapon_project_07:0 "部分先祖武器"
- mem_ancient_weapon_project_07_DESC:0 "$mem_ancient_weapon_project_25$ - §Y7/25§! 完成"
+ mem_ancient_weapon_project_07:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_07_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y7/25§!"
  
  #Ragnarok Mount
  
- mem_ancient_weapon_project_08:0 "部分先祖武器"
- mem_ancient_weapon_project_08_DESC:0 "$mem_ancient_weapon_project_25$ - §Y8/25§! 完成"
+ mem_ancient_weapon_project_08:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_08_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y8/25§!"
  
- mem_ancient_weapon_project_09:0 "部分先祖武器"
- mem_ancient_weapon_project_09_DESC:0 "$mem_ancient_weapon_project_25$ - §Y9/25§! 完成"
+ mem_ancient_weapon_project_09:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_09_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y9/25§!"
  
- mem_ancient_weapon_project_10:0 "部分先祖武器"
- mem_ancient_weapon_project_10_DESC:0 "$mem_ancient_weapon_project_25$ - §Y10/25§! 完成"
+ mem_ancient_weapon_project_10:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_10_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y10/25§!"
  
- mem_ancient_weapon_project_11:0 "部分先祖武器"
- mem_ancient_weapon_project_11_DESC:0 "$mem_ancient_weapon_project_25$ - §Y11/25§! 完成"
+ mem_ancient_weapon_project_11:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_11_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y11/25§!"
  
- mem_ancient_weapon_project_12:0 "部分先祖武器"
- mem_ancient_weapon_project_12_DESC:0 "$mem_ancient_weapon_project_25$ - §Y12/25§! 完成"
+ mem_ancient_weapon_project_12:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_12_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y12/25§!"
  
- mem_ancient_weapon_project_13:0 "部分先祖武器"
- mem_ancient_weapon_project_13_DESC:0 "$mem_ancient_weapon_project_25$ - §Y13/25§! 完成"
+ mem_ancient_weapon_project_13:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_13_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y13/25§!"
  
  #Ragnarok S Funnel
  
- mem_ancient_weapon_project_14:0 "部分先祖武器"
- mem_ancient_weapon_project_14_DESC:0 "$mem_ancient_weapon_project_25$ - §Y14/25§! 完成"
+ mem_ancient_weapon_project_14:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_14_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y14/25§!"
  
- mem_ancient_weapon_project_15:0 "部分先祖武器"
- mem_ancient_weapon_project_15_DESC:0 "$mem_ancient_weapon_project_25$ - §Y15/25§! 完成"
+ mem_ancient_weapon_project_15:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_15_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y15/25§!"
  
- mem_ancient_weapon_project_16:0 "部分先祖武器"
- mem_ancient_weapon_project_16_DESC:0 "$mem_ancient_weapon_project_25$ - §Y16/25§! 完成"
+ mem_ancient_weapon_project_16:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_16_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y16/25§!"
  
  #Ragnarok L Funnel
  
- mem_ancient_weapon_project_17:0 "部分先祖武器"
- mem_ancient_weapon_project_17_DESC:0 "$mem_ancient_weapon_project_25$ - §Y17/25§! 完成"
+ mem_ancient_weapon_project_17:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_17_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y17/25§!"
  
- mem_ancient_weapon_project_18:0 "部分先祖武器"
- mem_ancient_weapon_project_18_DESC:0 "$mem_ancient_weapon_project_25$ - §Y18/25§! 完成"
+ mem_ancient_weapon_project_18:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_18_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y18/25§!"
  
- mem_ancient_weapon_project_19:0 "部分先祖武器"
- mem_ancient_weapon_project_19_DESC:0 "$mem_ancient_weapon_project_25$ - §Y19/25§! 完成"
+ mem_ancient_weapon_project_19:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_19_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y19/25§!"
  
  #Ragnarok Reactor
  
- mem_ancient_weapon_project_20:0 "部分先祖武器"
- mem_ancient_weapon_project_20_DESC:0 "$mem_ancient_weapon_project_25$ - §Y20/25§! 完成"
+ mem_ancient_weapon_project_20:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_20_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y20/25§!"
  
- mem_ancient_weapon_project_21:0 "部分先祖武器"
- mem_ancient_weapon_project_21_DESC:0 "$mem_ancient_weapon_project_25$ - §Y21/25§! 完成"
+ mem_ancient_weapon_project_21:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_21_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y21/25§!"
  
- mem_ancient_weapon_project_22:0 "部分先祖武器"
- mem_ancient_weapon_project_22_DESC:0 "$mem_ancient_weapon_project_25$ - §Y22/25§! 完成"
+ mem_ancient_weapon_project_22:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_22_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y22/25§!"
  
- mem_ancient_weapon_project_23:0 "部分先祖武器"
- mem_ancient_weapon_project_23_DESC:0 "$mem_ancient_weapon_project_25$ - §Y23/25§! 完成"
+ mem_ancient_weapon_project_23:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_23_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y23/25§!"
  
- mem_ancient_weapon_project_24:0 "部分先祖武器"
- mem_ancient_weapon_project_24_DESC:0 "$mem_ancient_weapon_project_25$ - §Y24/25§! 完成"
+ mem_ancient_weapon_project_24:0 "$mem_ancient_weapon_project_01$"
+ mem_ancient_weapon_project_24_DESC:0 "$mem_ancient_weapon_project_25$已完成§Y24/25§!"
  
- mem_ancient_weapon_project_25:0 "仙境，天堂之矛 - 永恒之枪"
- mem_ancient_weapon_project_25_DESC:0 "§Y25/25§! 完成\n\n一个威力强大的先祖武器，可以终结黎明战争。"
+ mem_ancient_weapon_project_25:0 "诸神黄昏 天堂之矛-冈格尼尔"
+ mem_ancient_weapon_project_25_DESC:0 "§Y25/25§!\n\n一个威力强大的古老武器，可以终结黎明战争。"

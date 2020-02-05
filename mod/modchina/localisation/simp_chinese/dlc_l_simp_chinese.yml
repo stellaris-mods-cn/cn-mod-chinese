@@ -1,8 +1,27 @@
 ﻿l_simp_chinese:
+
+  ####################################
+  # News Massage
+  ####################################
+  
+  complexDLC.101.name:0 "Hive DLC 新闻。"
+  complexDLC.101.desc:0 "§W被遗忘的皇后§!已经更新!\n 现在支持2.50和似石族!!。\n起源和联邦也在这里，这意味着一些公民性可能会返工移动或作为起源出现。所有这一切都是由于我的Patreon支持者，如果你想帮助请不要犹豫，请在§Whttps://patreon.com/hivemods§支持我!!\n\n§Y被遗忘的女王2.50a:蜂巢岩石§!\n 如果你还没有得到足够的摇滚(双关语)，哈哈哈。不用多说了，这就是补丁:\n\nPatch §B2.50a:§!\n- 重新加工的有机结构使其与石类兼容:石类现在得到活的结构，吃矿物而不是消耗能量。\n -猎物已略有修改，以带来与其他mod的兼容性!\n- 主宰现在根据远程工蜂的弹出效果创建拦截器，所以如果你的远程工蜂是似石族，你将得到4个似石人口。\n- 改造后的自然吸引:现在提供+100%的牲畜矿物质/食物(根据养殖的物种)，而不是+1的牲畜食物。\n- 更新与2.50补丁一致。\n- 如果人口是似石族，那么它也会产生矿物。\n- 增加行星蒸煮器的音效\n\n\n请在Steam、Twitter或Reddit上报告任何bug和建议。玩得开心!"
+  
+  ####################################
+  # Content
+  ####################################
+
  job_cocoon:0 "茧护者"
  job_cocoon_plural:0 "茧护者"
  job_cocoon_desc:0 "茧护者在茧中工作，帮助茧完成日常杂务，如喂食、清洁和保养。"
+ mod_job_cocoon_per_pop:0 "每10个蚕茧中有1个茧护者"
+ mod_job_cocoon_per_pop_short:0 ""
+  
 
+ job_purge_parasitic:0 "清除者"
+ job_purge_parasitic_plural:0 "清除者"
+ job_purge_parasitic_desc:2 "根据我们的政策，正在清理这批垃圾。"
+ 
  building_cocoons_plant:0 "人工茧"
  building_cocoons_plant_desc:0 "结茧的特殊建筑。"
  building_cocoons_plant_1:0 "茧洞"
@@ -22,14 +41,14 @@
  tech_cocoons:0 "人工茧"
  tech_meat_bug:0 "Myrmling"
  tech_meat_bag:0 "Myrmitogaster"
- tech_meat_carrier:0 "Aenictus" 
- tech_meat_queen:0 "Myrmicean女王" 
+ tech_meat_carrier:0 "Aenictus"
+ tech_meat_queen:0 "Myrmicean女王"
 
  tech_cocoons_desc:0 "允许建立人工茧，在那里你可以繁殖物种。"
  tech_meat_bug_desc:0 "允许在太空港繁殖Myrmlings。"
- tech_meat_bag_desc:0 "允许在太空港繁殖Myrmitogaster。
- tech_meat_carrier_desc:0 "允许在太空港繁殖Aenictus。" 
- tech_meat_queen_desc:0 "允许在太空港繁殖Myrmicean女王。" 
+ tech_meat_bag_desc:0 ""允许在太空港繁殖Myrmitogaster。"
+ tech_meat_carrier_desc:0 "允许在太空港繁殖Aenictus。"
+ tech_meat_queen_desc:0 "允许在太空港繁殖Myrmicean女王。"
  
  life_masters_tooltip:0 "茧现在可以从我们的帝国中生长出其他物种。"
  life_crafters_tooltip:0 "授予在太空港创造太空生物的技术。"
@@ -42,3 +61,54 @@
  ap_life_masters_desc:0 "这些有机物与星系的共振频率相同。我们必须修补有机物。为了统一有机物，我们治愈了银河系。 "
  ap_life_crafters:0 "生命创造者"
  ap_life_crafters_desc:0 "艺术从不回应使其民主化的愿望;它并不适合所有人;只有那些愿意付出必要的努力去理解它的人。"
+ casus_belli_cb_abduct:0 "绑架"
+ war_goal_wg_abduct:0 "要求牺牲"
+ war_goal_wg_abduct_desc:0 "发动战争是为了从敌人的帝国中夺取人口。如果胜利，我们将占领25%的人口。"
+ wg_abduct_accept:0 "§Y[Root.GetName]§!获得§Y[From.GetName]§!§G25%§! §Y人口§!"
+ 
+ requires_technology_tech_cloning:0 "$TRIGGER_FAIL$需要£society£ §Y$tech_cloning$§!技术。"
+ requires_ap_life_assemblers:0 "$TRIGGER_FAIL$需要£unity£ §Y$ap_life_assemblers$§!飞升。"
+  
+ MESSAGE_PARASITE_COMPLETE_TITLE:0 "人口感染"
+ MESSAGE_PARASITE_COMPLETE:0 "在$PLANET|Y$感染开始后，培育出£pop£人口"
+ 
+ MESSAGE_TRAIT_GAINED_TITLE:0 "物种增强"
+ MESSAGE_TRAIT_GAINED:0 "当它们在$PLANET|Y$星球上结茧繁殖时，£pop£人口得到增强"
+ 
+ trait_cortex:0 "扩大突触皮层"
+ trait_cortex_desc:0 "§L这个物种的大脑发育得如此之快，以至于形成了一个突触皮质，以便更好地理解宇宙。§!\n"
+ 
+ trait_diaphragm:0 "铁肺"
+ trait_diaphragm_desc:0 "§L这种物种能够比其他物种更有效地呼吸和利用大气，这使得更广泛的活动和更充分地利用现有的生态系统。§!\n"
+ 
+ trait_scales:0 "代谢缓慢"
+ trait_scales_desc:0 "§L缓慢的新陈代谢使物种的器官腐烂得更慢。§!\n"
+ 
+ trait_wings:0 "飞翔之翼"
+ trait_wings_desc:0 "§L这种鸟类翅膀的空气动力学特性使其能够达到新的高度。§!\n"
+ 
+ trait_exoskeleton:0 "灵活的外骨骼"
+ trait_exoskeleton_desc:0 "§L灵活的外骨骼，使这一物种能在紧凑的空间中自由移动。§!\n"
+ 
+ trait_shell:0 "强化外壳"
+ trait_shell_desc:0 "§L有时是家，有时是防御机制。该物种现在可以产生自己的加固外壳。§!\n"
+ 
+ trait_pheromones:0 "吸引性信息素"
+ trait_pheromones_desc:0 "§L一种化学物质，产生并释放到环境中，影响他人的行为。§!\n"
+ 
+ trait_photosynthetic:0 "光合作用"
+ trait_photosynthetic_desc:0 "§L这个物种能够合成阳光。§!\n"
+  
+ trait_encrusted_minerals:0 "镶嵌矿物"
+ trait_encrusted_minerals_desc:0 "§L这个物种融合了身体其他部分的矿物。它们的有机结构中至少有一部分是似石生物。§!\n"
+ 
+ trait_metal_blood:0 "金属血液"
+ trait_metal_blood_desc:0 "§L活金属在这个物种的血管中流动。§!\n"
+ 
+ larva:0 "幼虫"
+ larva_desc:0 "一种独特的幼体，将经历蜕变成成体。它会变成什么?"
+ 
+ 
+ mod_planet_livestock_minerals_produces_add: "£job_livestock£ §Y$job_livestock_plural$§!£minerals£ §Y$minerals$§!"
+ mod_planet_livestock_sr_living_metal_produces_add: "£job_livestock£ §Y$job_livestock_plural$§!£sr_living_metal£ §Y$sr_living_metal$§! "
+ mod_planet_pop_organics_upkeep_mult: "生物人口维护"

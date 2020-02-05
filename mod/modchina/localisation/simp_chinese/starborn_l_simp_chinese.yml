@@ -46,7 +46,7 @@
  job_starborn_tombworld_scavenger_plural:0 "清道夫"
  job_starborn_tombworld_scavenger_desc:0 "清道夫在这个星球的废墟中寻找有用的资源，因为这项工作很危险，他们希望得到补偿。"
  job_starborn_tombworld_scavenger_effect_desc:0 "£job_starborn_tombworld_scavenger£ $job_starborn_tombworld_scavenger_plural$生产£minerals£§Y$minerals$§!和£alloys£§Y$alloys$§!和£engineering£§Y研究点数§!"
- mod_job_starborn_tombworld_scavenger_add:0 "$job_starborn_tombworld_scavenger$工作"
+ mod_job_starborn_tombworld_scavenger_add:0 "$job_starborn_tombworld_scavenger$岗位"
  mod_job_starborn_tombworld_scavenger_per_pop:0 "每$VALUE$人口§G+1§! $job_starborn_tombworld_scavenger$"
  mod_job_starborn_tombworld_scavenger_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_tombworld_scavenger_add£"
 
@@ -54,7 +54,7 @@
  job_starborn_preserve_ranger_plural:0 "保存管理员"
  job_starborn_preserve_ranger_desc:0 "管理保护区脆弱的生态系统"
  job_starborn_preserve_ranger_effect_desc:0 "£job_starborn_preserve_ranger£ $job_starborn_preserve_ranger_plural$生产 £food£§Y$food$§!和一些£society£§Y研究点数§!"
- mod_job_starborn_preserve_ranger_add:0 "$job_starborn_preserve_ranger$工作"
+ mod_job_starborn_preserve_ranger_add:0 "$job_starborn_preserve_ranger$岗位"
  mod_job_starborn_preserve_ranger_per_pop:0  "每$VALUE$人口§G+1§! $job_starborn_preserve_ranger$"
  mod_job_starborn_preserve_rangerr_per_pop_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_preserve_ranger_add£"
 
@@ -62,7 +62,7 @@
  job_starborn_solar_technician_plural:0 "太阳能技术人员"
  job_starborn_solar_technician_desc:0 "修复和加强太阳能电池板和电站电网的庞大网络"
  job_starborn_solar_technician_effect_desc:0 "£job_starborn_solar_technician£ $job_starborn_solar_technician_plural$生产£energy£§Y$energy$§!和一些£physics£§Y研究点数§!"
- mod_job_starborn_solar_technician_add:0 "$job_starborn_solar_technician$工作"
+ mod_job_starborn_solar_technician_add:0 "$job_starborn_solar_technician$岗位"
  mod_job_starborn_solar_technician:0  "每$VALUE$人口§G+1§! $job_starborn_solar_technician$"
  mod_job_starborn_solar_technician_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_solar_technician_add£"
 
@@ -70,7 +70,7 @@
  job_starborn_alloy_extractor_plural:0 "合金萃取者"
  job_starborn_alloy_extractor_desc:0 "我们可以简单地从地表资源中提取§Y$alloys$§!，只需要很少的精炼"
  job_starborn_alloy_extractor_effect_desc:0 "£job_starborn_alloy_extractor£ $job_starborn_alloy_extractor_plural$生产£alloys£§Y$alloys$§!"
- mod_job_starborn_alloy_extractor_add:0 "$job_starborn_alloy_extractor$工作"
+ mod_job_starborn_alloy_extractor_add:0 "$job_starborn_alloy_extractor$岗位"
  mod_job_starborn_alloy_extractor:0  "每$VALUE$人口§G+1§! $job_starborn_alloy_extractor$"
  mod_job_starborn_alloy_extractor_short:0 "\n每$VALUE$ £pop£ §G+1§! £mod_job_starborn_alloy_extractor_add£"
 

@@ -8,7 +8,7 @@
  apsr1_planet_modifier_desc:0 "在这里，我们发现了奇异的外星宫殿的古代遗迹，它以其巨大的规模和艺术作品的准确性超过了所有其他类似的建筑，可以与其他文明最好的艺术作品相媲美。在它的王座大厅里，我们发现了一个巨大而详细的银河系全息图。如果我们看到这一点，我们就毫不怀疑我们的国家将取得胜利!"
  
  apsr1_deposit:0 "$apsr1_planet_modifier$"
- apsr1_deposit_desc:0 "$apsr1_planet_modifier_desc$\n\n§M$apsr1_deposit_effect$§!" 
+ apsr1_deposit_desc:0 "$apsr1_planet_modifier_desc$\n\n§M$apsr1_deposit_effect$§!"
  apsr1_deposit_effect:0 "独特的资源可用: $apsr1_planet_modifier$"
  
  
@@ -74,7 +74,7 @@
  
  apsr.1002.title:0 "$apsr1_building_part2$完成"
  apsr.1002.desc:0 "设计技术结合的增强现实技术可以使每个访问§Y星际力量纪念碑§!的人真正难忘，吸引了越来越多的关注，激起了其他帝国的兴趣……"
- apsr.1002.ok-button:0 "Excellent"
+ apsr.1002.ok-button:0 "优秀"
  
  apsr.1003.title:0 "$apsr1_building_part3$完成"
  apsr.1003.desc:0 "通过重建§Y$apsr1002$§!，并将其用于我们自己的目的，我们银河影响力得到了显著提升"
@@ -111,7 +111,7 @@
  apsr.1013.title:0 "发现一个人造物: §M$apsr1_planet_modifier$§!"
  apsr.1013.desc:0 "我们在这个最近被占领的星球上发现了一些有趣的东西 \n这个地方有一栋用途不明的建筑物。在建筑的中间有一个没有任何可见设备的“漂浮”的预言。科学家认为这个古老的信息是写给我们的。他们认为我们是注定要统治他人的种族。"
  apsr.1013.button:1 "很好"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -119,7 +119,7 @@
  apsr.1015.title:0 "发现人造物: §M$apsr1_planet_modifier$§!"
  apsr.1015.desc:0 "我们的情报部门在检查其他帝国行星的信息时，发现了一些有趣的事情!\n在其中一颗行星上，有一种未知目的的建筑，在它的中心，不使用任何可见的装置，预言就悬在那里。科学家认为，这一古老的信息是针对人类的，人类注定是万物的统治者。\n\n§G信息:§!\n§Y星球名称:§! §W[event_target:apsr1_resource_planet.GetName]§! \n§Y星球分类:§! §W[event_target:apsr20_resource_planet.GetClassName]§! \n§Y星系名称:§! §W[event_target:apsr1_resource_planet.solar_system.GetName]§! \n§Y星球所有权:§! §W[event_target:apsr1_resource_planet.Owner.GetName]§!"
  apsr.1015.button:1 "有趣!"
- 
+
  
  
  ### SPECIAL PROJECT

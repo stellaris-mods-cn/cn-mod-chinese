@@ -45,13 +45,13 @@ l_simp_chinese:
  # Events and other important things:
  
  mem_surveyor.3.name:0 "神秘探测器"
- mem_surveyor.3.desc:0 "在§Y[FROMFROMFROM.GetName]星系§!中检测到一艘身份不明的船只. \n\n初步分析表明，它是一个由基本人工智能操纵的全自动舰船，可能用于勘探。它的意图未知。它既没有表现出敌意，也没有进行任何沟通。 在我们了解更多之前，它被定名为"§Y[From.GetName]§!"。"
+ mem_surveyor.3.desc:0 "在§Y[FROMFROMFROM.GetName]星系§!中检测到一艘身份不明的飞船. \n\n初步分析表明，它是一个由基本人工智能操纵的全自动舰船，可能用于勘探。它的意图未知。它既没有表现出敌意，也没有进行任何沟通。 在我们了解更多之前，它被定名为"§Y[From.GetName]§!"。"
  
  mem_surveyor.4.name:0 "神秘探测器打破宁静"
  mem_surveyor.4.desc:0 "我们正在检测源自我们之前检测到的行进探测器的信号，该信号当前位于§Y[surveyor_system.GetName]星系§!中。 \n\n它似乎已经成功破译了我们的通信。"
  
  MEM_SURVEYOR_PROBE_HEADER:0 "§G测量者探测器§!"
- mem_surveyor.5.desc:0 "你们好。\n\n我是§Y阿尔克雷帝国§!设计并使用的测量者探测器，探索银河系并评估我的创造者的处境。我的主要目标是识别和遏制外星生命对阿尔克雷未来构成的任何威胁。 目前，该单位已执行§S[mem_surveyor_country.mem_surveyor_iteration_count]§!扫描。 预计完成时间：§S-1955 年§!."
+ mem_surveyor.5.desc:0 "你们好。\n\n我是§Y阿尔克雷帝国§!设计并使用的测量者探测器，探索银河系并评估我的创造者的处境。我的主要目标是识别和遏制外星生命对阿尔克雷未来构成的任何威胁。 目前，该单位已执行§S[mem_surveyor_country.mem_surveyor_iteration_count]§!扫描。 预计完成时间：§S-1955 年§!。"
  mem_surveyor.5.default:0 "很好。"
  mem_surveyor.5.ega:0 "你真是个好奇宝宝。"
  mem_surveyor.5.aut:0 "不要威胁我们国家的伟大事业。"
@@ -101,7 +101,7 @@ l_simp_chinese:
  mem_surveyor.100.here.2:0 "谁在那？ 哦，那就是你。 \n\n等等，你是谁？你是负责这个星系的人，还是我想成其他人了？"
  
  #Greets based on ethics, governments etc.
- mem_surveyor.100.mat:0 "所以，你是唯物主义者，对吧？\n\n告诉我，你多久物化一次？一天一次？更经常？更少？"
+ mem_surveyor.100.mat:0 "所以，你是唯物主义者，对吧？\n\n告诉我，你多久物化一次？一天一次？更经常？或更少？"
  mem_surveyor.100.spi:0 "你们是唯心主义者，对吧？你喜欢什么样的精神？"
  mem_surveyor.100.machine:0 "哦，看！我们都是机器！ \n\n我们应该成为最好的朋友。或者敌人。或者什么都别成。我们是机器，我们可以成为我们想要的任何东西！"
  
@@ -310,7 +310,7 @@ mem_surveyor.231.desc.no_freebs:0 "§S狂暴者探测器§!，那个过去一直
  mem_surveyor.256.desc:0 "我们遇到了一队不明身份的舰队。他们没有回应我们的信息，到目前为止还没有尝试与我们建立沟通。"
  
  mem_surveyor.258.name:0 "探测器猎人"
- mem_surveyor.258.desc:0 "我们早些时候遇到的船只终于有联系了。\n\n他们似乎是一群掠夺者，但不同于大多数人人，他们在[mem_surveyor_avengers_leader.GetName]的领导下工作，他是狂暴者探测器屠杀下的[mem_surveyor_avengers_leader.GetSpeciesName]幸存者，发誓要进行报复。舰队已经广播了一个信息，他们的领袖在银河系中发表演说。"
+ mem_surveyor.258.desc:0 "我们早些时候遇到的飞船终于有联系了。\n\n他们似乎是一群掠夺者，但不同于大多数人人，他们在[mem_surveyor_avengers_leader.GetName]的领导下工作，他是狂暴者探测器屠杀下的[mem_surveyor_avengers_leader.GetSpeciesName]幸存者，发誓要进行报复。舰队已经广播了一个信息，他们的领袖在银河系中发表演说。"
 
  mem_surveyor.260.desc:0 "我们观察了所谓的“狂暴者探测器”的行为模式很长一段时间，远远长过它被视为对银河系的威胁的时间。当它刚刚离开它的原始星球时，我们已经在训练针对它的手段了。\n\n我们编写了一份有用的档案，详细说明了它的弱点和结构缺陷。为了银河安全的利益，我们愿意以不合理的低价向您出售这份档案。如果你希望击败它你就会需要这份档案。\n\n这是一份好意，不要错过。"
  mem_surveyor.260.a:0 "可以进行交易了"
@@ -418,3 +418,20 @@ mem_surveyor.231.desc.no_freebs:0 "§S狂暴者探测器§!，那个过去一直
  mem_surveyor_ceaseless_gaze_desc:0 "阿尔克雷人完善了监测的艺术。通过采用他们的技术，我们可以增强我们的被动和主动观测银河系的能力。"
 
  mem_surveyor_crappy_flunkies: "战略劣势"
+
+ # Relic stuff
+ mem_surveyor.400.name: "不断注视核心"
+ mem_surveyor.400.desc: "测量者的探测器已经损坏。测量者启动了! \n\n既然我们完整地恢复了它的人格矩阵，我们就可以重新激活它来满足我们的需求。"
+ mem_surveyor.400.a: "激活§G测量者§!人格矩阵。"
+ mem_surveyor.400.a.tooltip: "获得等级§Y5§!的§Y科学家§!。"
+ mem_surveyor.400.b: "激活§R女妖§!人格矩阵。"
+ mem_surveyor.400.a.tooltip: "获得等级§Y5§!的§Y科学家§!。"
+
+ r_mem_surveyor_personality_core: "不断凝视核心"
+ r_mem_surveyor_personality_core_desc: "从一个古老的探测器中恢复过来，这个人格核心包含了驱动这台机器穿越银河系的全部决策人工智能，这些决策人工智能编码在其遗传算法中，如果提供了必要的硬件，就可以展开。"
+ mem_surveyor_personality_core_tooltip: "将会产生一个等级§Y5§!的§S科学家§!或§S海军上将§!。"
+ mem_surveyor_cant_have_two_matrices: "这个AI不会同时有多个迭代"
+
+ r_mem_surveyor_mobile_production_matrix: "不断凝视产生矩阵"
+ r_mem_surveyor_mobile_production_matrix_desc: "结合了最新的阿尔克里技术，这个模块的目的是安装在一个不断的观景级测量器。它的设计目的是允许快速生产小型战备测量器，可以打击阿尔克里当局认为构成威胁的任何目标。"
+ mem_surveyor_production_matrix_effect: "一队测量器出现在[Capital_Scope.GetName]上空的轨道上。随着时间的推移，创建的测量器数量将会增加。 \n该人工制品的生产将在§Y5年§!内停止。"

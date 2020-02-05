@@ -1,10 +1,10 @@
 ﻿l_simp_chinese:
 mod_pop_ethic_fanatic_egalitarian_attraction_mult:0 "狂热的平等主义思潮吸引力"
-mod_pop_category_slave_produces_mult:0 "奴隶类职位产出"
-mod_pop_category_workers_produces_mult:0 "劳工类职位产出"
+mod_pop_category_slave_produces_mult:0 "奴隶类岗位产出"
+mod_pop_category_workers_produces_mult:0 "劳工类岗位产出"
  #TRAITS
  Trait_GAPS_Slave_Species:0 "奴隶种群"
- Trait_GAPS_Slave_Species_desc:0 "这个种群被创造成了理想的奴隶。他们需要有人来统治他们。如果缺乏一个统治者会让他们互相征服来修复他们在茫茫宇宙中的秩序感。\n§E特殊效果:§! 你可以选择在开局时拥有一个存在的宗主国。帝国对该种群的统治者和主要种群的拥有一个非常强力的有利特殊战争目标: \n   §L受异族统治的附庸国 (奴隶种群):§! 纳税: £influence £energy £minerals £physics_research £society_research £engineering_research §Y20%§!. 宗主国没有吞并你的外交威胁。当你是这个附庸国时你获得稳定性§G+20§!, 人口资源产出 §G+30%§!, 海盗打击 §G+20%§!, 舰船武器伤害 §G+10%§!，境内射速 §G+20%§!，空间站舰体值 §G+20%§!. 扩张 £trigger_yes 整合附庸 £trigger_no 加入宗主国战争 £trigger_yes 外交 £trigger_yes 研究协议 £trigger yes. 宗主国是战争领导 £trigger_yes. \n§E统治者每级修饰:§! 受奴役的人口比例 §G+5%§!, 辱骂效率 §G+20%§!, 边境摩擦 §R+30%§! \n§E总督每级修饰:§! $mod_planet_jobs_slave_produces_mult$ §G+2%§! $job_slave_toiler$ §G+1§! \n§S科技§!\n§Y£society_research 政治学科技 T1 (让我们来服侍您):§! 当你的统治者或主要种群是奴隶种群时，获得和其他不是你宗主国的帝国评价§R-20§!。获得和你的宗主国评价§G+20§!。 $country_pop_enslaved_mult$ §G+5%§!. 你的宗主国获得稳定性§G+20§!.\n§Y£society_research 政治学科技 T2 (奴隶鉴赏):§! 你的宗主国获得 $country_pop_enslaved_mult$ §G+10%§!. 允许2个法令:\n   £empire_modifier §L法令 (赏奴节):§! 花费 §R50§! £influence, 持续时间 §Y10§! 年. 非公民人口幸福度 §G+20%§! 人口增长速度 §G+10%§!.\n   £empire_modifier §L法令 (奴隶特权嘉奖):§! 花费 §R50§! £influence, 持续时间 §Y10§! 年. 奴隶产出 §G+20%§!, 公民幸福度 §R-20%§!.\n§Y£society_research 政治学科技 T3 (培养最好的奴隶):):§!当你有一个宗主国时允许1个 '受奖赏的' 奴隶职位。允许一个建筑:\n   £building §L星球建筑(奴隶“奖励”设施):§! 花费 §R50§! alloys §R50§! £influence. 维护费 §R2§! £energy. 每25人口允许1个 '受奖赏的' 奴隶职位。 \n   £job §L职位 ("受奖赏的奴隶"):§! 人口修饰 - 住房需求 §G-100%§!, 便利设施维护费 §R+1§!.  产出 - 每$district_housing$ §G+1§! £food (最高 §Y10§!), 每$district_mining$ §G+1§! £minerals (最高 §Y10§!), 每$district_generator$ §G+1§! £energy (最高 §Y10§!). 如果你有一个宗主国还产出每$district_housing$ §G+0.1§! £influence  (最高 §Y1§! \n§Y£society_research 政治学科技 T4 (宗主的存在至关重要):§! 如果你有一个宗主国则战争之殇 §G-25%§! . 宗主国获得舰队容量 §G+10%§!\n§Y£society_research 政治学科技 T5 (危机管理):§! 允许一项法令: \n   §L法令 (终极统治者):§! 冷却: §R3600§! 天. 你变为一个随机存在的危机的附庸直到你再次使用这个能力。他们不会攻击你，但可能也不会来救你。"
+ Trait_GAPS_Slave_Species_desc:0 "这个种群被创造成了理想的奴隶。他们需要有人来统治他们。如果缺乏一个统治者会让他们互相征服来修复他们在茫茫宇宙中的秩序感。\n§E特殊效果:§! 你可以选择在开局时拥有一个存在的宗主国。帝国对该种群的统治者和主要种群的拥有一个非常强力的有利特殊战争目标: \n   §L受异族统治的附庸国 (奴隶种群):§! 纳税: £influence £energy £minerals £physics_research £society_research £engineering_research §Y20%§!. 宗主国没有吞并你的外交威胁。当你是这个附庸国时你获得稳定性§G+20§!, 人口资源产出 §G+30%§!, 海盗打击 §G+20%§!, 舰船武器伤害 §G+10%§!，境内射速 §G+20%§!，空间站舰体值 §G+20%§!. 扩张 £trigger_yes 整合附庸 £trigger_no 加入宗主国战争 £trigger_yes 外交 £trigger_yes 研究协议 £trigger yes. 宗主国是战争领导 £trigger_yes. \n§E统治者每级修饰:§! 受奴役的人口比例 §G+5%§!, 辱骂效率 §G+20%§!, 边境摩擦 §R+30%§! \n§E总督每级修饰:§! $mod_planet_jobs_slave_produces_mult$ §G+2%§! $job_slave_toiler$ §G+1§! \n§S科技§!\n§Y£society_research 政治学科技 T1 (让我们来服侍您):§! 当你的统治者或主要种群是奴隶种群时，获得和其他不是你宗主国的帝国评价§R-20§!。获得和你的宗主国评价§G+20§!。 $country_pop_enslaved_mult$ §G+5%§!. 你的宗主国获得稳定性§G+20§!.\n§Y£society_research 政治学科技 T2 (奴隶鉴赏):§! 你的宗主国获得 $country_pop_enslaved_mult$ §G+10%§!. 允许2个法令:\n   £empire_modifier §L法令 (赏奴节):§! 花费 §R50§! £influence, 持续时间 §Y10§! 年. 非公民人口幸福度 §G+20%§! 人口增长速度 §G+10%§!.\n   £empire_modifier §L法令 (奴隶特权嘉奖):§! 花费 §R50§! £influence, 持续时间 §Y10§! 年. 奴隶产出 §G+20%§!, 公民幸福度 §R-20%§!.\n§Y£society_research 政治学科技 T3 (培养最好的奴隶):):§!当你有一个宗主国时允许1个 '受奖赏的' 奴隶岗位。允许一个建筑:\n   £building §L星球建筑(奴隶“奖励”设施):§! 花费 §R50§! alloys §R50§! £influence. 维护费 §R2§! £energy. 每25人口允许1个 '受奖赏的' 奴隶岗位。 \n   £job §L岗位 ("受奖赏的奴隶"):§! 人口修饰 - 住房需求 §G-100%§!, 便利设施维护费 §R+1§!.  产出 - 每$district_housing$ §G+1§! £food (最高 §Y10§!), 每$district_mining$ §G+1§! £minerals (最高 §Y10§!), 每$district_generator$ §G+1§! £energy (最高 §Y10§!). 如果你有一个宗主国还产出每$district_housing$ §G+0.1§! £influence  (最高 §Y1§! \n§Y£society_research 政治学科技 T4 (宗主的存在至关重要):§! 如果你有一个宗主国则战争之殇 §G-25%§! . 宗主国获得舰队容量 §G+10%§!\n§Y£society_research 政治学科技 T5 (危机管理):§! 允许一项法令: \n   §L法令 (终极统治者):§! 冷却: §R3600§! 天. 你变为一个随机存在的危机的附庸直到你再次使用这个能力。他们不会攻击你，但可能也不会来救你。"
  
  Trait_GAPS_Slave_Species_Rul_LV1:0 "奴隶种群统治者"
  Trait_GAPS_Slave_Species_Rul_LV2:0 "奴隶种群统治者"
@@ -51,13 +51,13 @@ mod_pop_category_workers_produces_mult:0 "劳工类职位产出"
  Trait_GAPS_Slave_Species_Gov_LV10_desc:0 "奴隶种群总督"
  #BUILDINGS
  building_GAPS_Slave_Reward_Facility:0 "奴隶种群奖励设施"
- building_GAPS_Slave_Reward_Facility_desc:0 "允许每 §Y25§! 人口1个 '受奖赏的' 奴隶职位"
+ building_GAPS_Slave_Reward_Facility_desc:0 "允许每 §Y25§! 人口1个 '受奖赏的' 奴隶岗位"
  #Jobs
  job_GAPS_rewarded_slave:0 "'受奖赏的' 奴隶"
  job_GAPS_rewarded_slave_desc:0 "这些奴隶辛勤劳动，受到了奖赏。"
  job_GAPS_rewarded_slave_plural:0 "'受奖赏的' 奴隶"
- mod_job_GAPS_rewarded_slave_add:0 "增加'受奖赏的' 奴隶职位"
- mod_job_GAPS_rewarded_slave_per_pop:0 "每人口的'受奖赏的' 奴隶职位"
+ mod_job_GAPS_rewarded_slave_add:0 "增加'受奖赏的' 奴隶岗位"
+ mod_job_GAPS_rewarded_slave_per_pop:0 "每人口的'受奖赏的' 奴隶岗位"
  
  job_GAPS_slave_toiler:0 "$job_slave_toiler$"
  job_GAPS_slave_toiler_desc:0 "体力活是最好的活"

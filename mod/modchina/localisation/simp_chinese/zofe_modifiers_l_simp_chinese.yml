@@ -5,7 +5,7 @@
  inspiring_warlord_desc:0 "君主激励这个帝国去战斗。"
  
  demilitarized_state:0 "非军事状态"
- demilitarized_state_desc:0 "这个国家是非军事化的，限制了它能派出的船只的数量。"
+ demilitarized_state_desc:0 "这个国家是非军事化的，限制了它能派出的飞船的数量。"
  
  new_world_order:0 "世界新秩序"
  new_world_order_desc:0 "社会正遭受着适应新秩序的影响。"

@@ -18,7 +18,7 @@ l_simp_chinese:
  mem_rebel_yell.2.desc: "我们在[the_system.GetName]星系中已经存在了很长一段时间，今天我们终于能够跟踪信号到[the_planet.GetPlanetMoon] [the_planet.GetName]。\n\n隐藏的广播在重复时发送相同的加密消息，通过接近原点的研究，我们应该能够了解更多。"
  mem_rebel_yell.2.a: "我们必须弄清事情的真相。"
  mem_rebel_yell.2.b: "忘记它吧。"
- mem_rebel_yell.3.name: "Rebel Yell"
+ mem_rebel_yell.3.name: "反叛的呐喊"
  mem_rebel_yell.3.desc: "我们对[the_planet.GetName]的调查已经有了结果。[Root.GetName]能够完全记录并破译来自[the_planet.GetPlanetMoon]的信号。 \n\n该信号是一个军事广播，针对通过该星系的“抵抗舰”。 \n\n从[Leader.GetName]所能收集到的资料来看，[the_system.GetName]是大约两千年前上述抵抗运动遭受巨大失败的地方，他们与之作战的部队几乎消灭了他们。\n\n广播指示幸存者撤退到一个星系。然而，该星系的坐标与我们所知的超空间网络并不匹配。是他们错了，还是有其他方法可以到达那里?"
  mem_rebel_yell.4.name: "在[the_system.GetName]星系发现虫洞"
  mem_rebel_yell.4.desc: "我们对通过[the_system.GetName]星系广播的加密信号的了解，使我们能够看到隐藏在星系外围虫洞的某种干扰。也许这就是到达加密消息中指定的坐标的方法?"
@@ -55,7 +55,7 @@ l_simp_chinese:
  MEM_REBEL_YELL_M_WEAPON: "外来粒子撞击器"
  
  mem_rebel_yell.5.name:0 "最后的堡垒"
- mem_rebel_yell.5.desc:0 "在虫洞的另一边，我们发现了一支小型舰队驻扎在其中一颗行星的轨道上。这似乎是抵抗运动失败后撤退的地方。 \n\n尽管年事已高，但这些船只的状况相当良好，装备精良。动力信号仍然可以在飞船内探测到——我们应该谨慎接近。"
+ mem_rebel_yell.5.desc:0 "在虫洞的另一边，我们发现了一支小型舰队驻扎在其中一颗行星的轨道上。这似乎是抵抗运动失败后撤退的地方。 \n\n尽管年事已高，但这些飞船的状况相当良好，装备精良。动力信号仍然可以在飞船内探测到——我们应该谨慎接近。"
  mem_rebel_yell.7.desc:0 "停下！你是谁?你为什么要向我的飞船开火?别对我的船开枪!表明你的身份!"
  mem_rebel_yell.7.a:0 "你先向我们开火的，你是谁?"
  mem_rebel_yell.8.desc:0 "好吧，你看起来不像…他们，那就放心了。 \n\n我是[princess_species.GetName]王国的[princess.GetName]。我父亲曾经领导银河系与自称为瓦祖兰的生物进行了一场殊死搏斗。我们失败了。我们的舰队被摧毁，我们的世界一个接一个地沦陷。 \n\n最终，我们被迫撤退到一个隐蔽的星系，这里。我们希望会有更多的幸存者来，但没有人来。如果我们的补给开始耗尽，我们就把船的控制权移交给一个自动保管员，让自己进入低温睡眠状态。随着时间的推移，睡眠舱出现故障，或者不得不关闭，以保存电力和保存最重要的人员。最终只剩下排名最高的幸存者。那就是我。 \n\n你的攻击似乎使我们的人工智能系统瘫痪，迫使我紧急苏醒。 \n\n飞船的系统失灵了，我的时间不多了。在这个星系里没有我的容身之地。无论你是谁，我愿意以我的忠诚和我的旗舰来换取你的拯救。"
@@ -63,7 +63,7 @@ l_simp_chinese:
  mem_rebel_yell.8.b:0 "我们会救你，但要毁了这艘船。"
  mem_rebel_yell.8.c:0 "我们可以用你的船。而不是你。"
  mem_rebel_yell.8.d:0 "我们不需要你和你的飞船。"
- mem_rebel_yell.8.e:0 "瓦祖兰?我们也遇到了他们。"
+ mem_rebel_yell.8.e:0 "瓦祖兰？我们也遇到了他们。"
  mem_rebel_yell.8.e.response:0 "在我们落入这些怪物的魔掌多年之后，它们仍然在威胁着银河系，这让我非常痛苦。 \n\n但我早该料到。似乎没有什么能阻止他们。"
  
  mem_rebel_yell_custodian_trait:0 "电阻托管人"
@@ -94,4 +94,4 @@ l_simp_chinese:
  
  mem_rebel_yell.12.name: "入侵警报"
  mem_rebel_yell.12.desc: "我们在[signal_system.GetName]星系中探测到敌方舰队。它似乎是出于某种未知的目的从虫洞进入的。"
- mem_rebel_yell.12.a: "作战部!"
+ mem_rebel_yell.12.a: "战斗！"

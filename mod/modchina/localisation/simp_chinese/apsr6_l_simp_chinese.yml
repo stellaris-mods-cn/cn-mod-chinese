@@ -8,7 +8,7 @@
  apsr6_planet_modifier_desc:0 "这封信躺在一个超级安全的地堡里。它是用不同的语言写成的，不同的部分似乎是在不同的时期写成的"
  
  apsr6_deposit:0 "$apsr6_planet_modifier$"
- apsr6_deposit_desc:0 "$apsr6_planet_modifier_desc$\n\n§M$apsr6_deposit_effect$§!" 
+ apsr6_deposit_desc:0 "$apsr6_planet_modifier_desc$\n\n§M$apsr6_deposit_effect$§!"
  apsr6_deposit_effect:0 "独特的资源可用: $apsr6_planet_modifier$"
  
  
@@ -20,6 +20,8 @@
  apsr6_building_part2_text:0 "在我们的科学家最终到达的一个超级保护的地堡里，发现了一种§Y古卷§!——一种用未知语言书写的另一种文明的文件。"
  
  apsr6_building_part3_text:0 "这座建筑只有一个目的——充分和充分地学习§Y古卷§!"
+ 
+ apsr6_building_part4_text:0 "这座建筑只有一个目的——充分研究§Y古卷§!，并找到方法来对抗摧毁古代文明的威胁。"
  
  apsr6_building_predesc:0 "§M解锁建筑§!\n§W--------------§!"
  
@@ -37,6 +39,9 @@
  
  apsr6_building_part3:0 "书院:研究古卷的学院"
  apsr6_building_part3_desc:0 "$apsr6_building_predesc$\n$apsr6_building_part3_text$"
+ 
+ apsr6_building_part4:0 "古卷研究学院"
+ apsr6_building_part4_desc:0 "$apsr6_building_predesc$\n$apsr6_building_part4_text$"
  
  
  
@@ -79,9 +84,13 @@
  apsr.6003.title:0 "$apsr6_building_part3$ 建成"
  apsr.6003.desc:0 "在我们详细检查了§Y古卷§!之后，我们可以确认我们的恐惧。事实上，创造§Y古卷§!的文明是在与来自银河系之外的、正在毁灭所有智慧生命的强大敌人作战。幸运的是，§Y古卷§!描述了对付它们的方法，并且有针对未知威胁的武器原型"
  apsr.6003.ok-button:0 "我们得准备好"
-   
-
-
+ 
+ apsr.6004.title:0 "$apsr6_building_part4$ 完成"
+ apsr.6004.desc:0 "仔细研究了这条信息后，我们证实了自己的担心。的确，创造了信息的文明与来自银河系外的强大敌人作战，摧毁了所有的智慧生命。幸运的是，该信息描述了处理这些问题的方法，而且还有对付未知威胁的武器"
+ apsr.6004.ok-button:0 "需要准备"
+ 
+ 
+ 
  ### сообщения при замене фейк-зданий на настоящие
  
  apsr.6811.title:0 "性能恢复"
@@ -96,7 +105,7 @@
  apsr.6813.desc:0 "今天，我们的帝国实现了技术突破!一个由科学家和工程师组成的团队分析了我们星球上的建筑物 - §H$apsr6_building_part3$§!，并为它的使用制定了方法论和技术指南。现在我们可以最大限度地利用这座建筑了!"
  apsr.6813.ok-button:0 "非常棒"
  
-
+ 
  
  ### сообщение при исследовании планеты с ресурсом
  
@@ -111,7 +120,7 @@
  apsr.6013.title:0 "发现一个人造物: §M$apsr6_planet_modifier$§!"
  apsr.6013.desc:0 "在我们的一颗新行星上发现了一些奇特的东西。 \n在这个星球上有一座建筑，它的起源和用途都是未知的。"
  apsr.6013.button:1 "真吸引人"
-
+ 
  
  
  ### сообщение при получении информации от разведки (проверка раз в 5 лет)
@@ -165,6 +174,12 @@
  job_apsr6_scientist_machine_plural:0 "异种语言单元"
  job_apsr6_scientist_machine_desc:0 "专门研究和解码古代文明语言的单元"
  mod_job_apsr6_scientist_machine_add:0 "异种语言单元"
+ 
+ 
+ 
+ ### фикс
+   
+ mod_damage_vs_country_type_gray_goo_mult:0 "对灰色风暴的伤害"
   
  
  

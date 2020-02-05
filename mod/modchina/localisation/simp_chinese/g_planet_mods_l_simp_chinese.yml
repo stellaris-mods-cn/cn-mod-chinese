@@ -76,8 +76,8 @@
  Precursor_Vaults_2:0 "先驱者拱顶被发现"
  Precursor_Crashed_Spacestation:0 "先驱者坠毁的空间站被发现"
  Precursor_Crashed_Spacestation_2:0 "先驱者坠毁的空间站被发现"
- Precursor_Battleground_Ruins:0 "先驱者战场被发现"
- Precursor_Battleground_Ruins_2:0 "先驱者战场被发现"
+ Precursor_Battleground_Ruins:0 "先驱者古战场被发现"
+ Precursor_Battleground_Ruins_2:0 "先驱者古战场被发现"
  Precursor_Outpost_Ruins:0 "先驱者前哨站被发现"
  Precursor_Outpost_Ruins_2:0 "先驱者前哨站被发现"
  Precursor_Harbor_Ruins:0 "先驱者港口被发现"
@@ -142,8 +142,8 @@
  # Naming stuff
  ####################################
 
- gpm_precursor_shipyards_star:0 "塞博勒克斯造船厂"
- gpm_precursor_shipyards_star_rs:0 "塞博勒克斯造船厂"
+ gpm_precursor_shipyards_star:0 "赛博勒克斯造船厂"
+ gpm_precursor_shipyards_star_rs:0 "赛博勒克斯造船厂"
  gpm_precursor_shipyards_30:0 "先驱者造船厂"
  gpm_precursor_shipyards_25:0 "$gpm_precursor_shipyards_30$"
  gpm_precursor_shipyards_24:0 "$gpm_precursor_shipyards_30$"

@@ -148,7 +148,7 @@
  
  SdjModifierSetPriorityIndividuallyRegular:0 "独特的晋升标准"
  SdjModifierSetPriorityIndividuallyRegular_desc:0 "帝国法令中规定的工作偏好并不适合这个星球，所以这个星球的独特之处就在这里指定了。"
- SdjModifierSetPriorityIndividuallyRegularEffect_desc:0 "这些职位的晋升或降职标准与帝国法令不同。"
+ SdjModifierSetPriorityIndividuallyRegularEffect_desc:0 "这些岗位的晋升或降职标准与帝国法令不同。"
  SdjModifierSetPriorityIndividuallyGestalt:0 "工作的特别优先次序"
  SdjModifierSetPriorityIndividuallyGestalt_desc:0 "《帝国法令》规定的工作优先次序并不适合这个星球，所以这个星球特别为这里指定了工作优先次序。"
  SdjModifierSetPriorityIndividuallyGestaltEffect_desc:0 "工作的独特优先级应用于这个星球。"

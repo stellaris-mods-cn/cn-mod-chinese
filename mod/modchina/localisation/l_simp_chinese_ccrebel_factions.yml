@@ -105,7 +105,7 @@ cc_bribed_planet_desc:0 "政府给这颗星球提供了巨额财政激励，力�
 
 ###Events
 
-#these go in the place of [cc_rebellious_faction.GetFactionTypeAdj]
+#these go in the place of [root.GetFactionTypeAdj]
 ccloc_xenophilic:0 "亲外主义"
 ccloc_supremacist:0 "霸权主义"
 ccloc_isolationist:0 "孤立主义"

@@ -28,6 +28,7 @@
  ziaskehorn.22.name: "火山喷发"
  ziaskehorn.22.desc: "许多[Root.Owner.GetArchaeologistPlural]最近在[From.Planet.GetName]的附近火山爆发中死亡。地震发生后，§H[Root.GetLeaderName]§!毫发无损，但由于探险队试图重建秩序并清理剩余的残骸，现场工作暂时停止。"
  ziaskehorn.23.name: "热室"
- ziaskehorn.23.desc: "我们的[Root.Owner.GetArchaeologistPlural]在[From.Planet.GetName]上的工作人员跌跌撞撞地进入了一座大楼，里面的每个房间都笼罩着浓厚的热雾。目前还不清楚这是由于火星的火山表面还是过去发生的事件。尽管如此，科学家[Root.GetLeaderName]向我们保证，这将帮助研究小组揭开[From.Planet.GetName]过去的秘密。" 
- ziaskehorn.24.name: "岩浆溢出"
+ ziaskehorn.23.desc: "我们的[Root.Owner.GetArchaeologistPlural]在[From.Planet.GetName]上的工作人员跌跌撞撞地进入了一座大楼，里面的每个房间都笼罩着浓厚的热雾。目前还不清楚这是由于火星的火山表面还是过去发生的事件。尽管如此，科学家[Root.GetLeaderName]向我们保证，这将帮助研究小组揭开[From.Planet.GetName]过去的秘密。"
+ Ziaskehorn.24.name: "岩浆溢出"
  ziaskehorn.24.desc: "我们关于[From.Planet.GetName]的考古远征队在试图挖掘被星球燃烧表面占领的一些城市地区时遇到了重大困难。科学家[Root.GetLeaderName]报告说，他们需要一些资源和设备，以清除地下岩浆的严重溢出，并继续进行勘探，否则将有可能暂时停止挖掘现场的所有工作。"
+

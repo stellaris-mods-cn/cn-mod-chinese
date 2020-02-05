@@ -20,7 +20,7 @@ l_simp_chinese:
 
  # Crystal appears in player system
  mem_space_monster_attacks.1.name:0 "水晶实体方法"
- mem_space_monster_attacks.1.desc:0 "我们的殖民地的远程传感器接收到来自外太空的警报信号。一个已经被派遣的探测器显示它是一个巨大的水晶结构。我们的船只进行了一次通信尝试，随后出现了强烈的能量峰值，并立即失去了与探测器的接触。\n\n我们必须假设水晶是敌对的。我们的舰队已处于高度警戒状态。"
+ mem_space_monster_attacks.1.desc:0 "我们的殖民地的远程传感器接收到来自外太空的警报信号。一个已经被派遣的探测器显示它是一个巨大的水晶结构。我们的飞船进行了一次通信尝试，随后出现了强烈的能量峰值，并立即失去了与探测器的接触。\n\n我们必须假设水晶是敌对的。我们的舰队已处于高度警戒状态。"
  mem_space_monster_attacks.1.a:0 "为什么在这里?"
  
  # crystal has bombarded the colony

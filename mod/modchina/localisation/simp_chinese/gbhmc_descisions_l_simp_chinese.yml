@@ -1,0 +1,15 @@
+﻿l_simp_chinese:
+
+
+ decision_gbhmc_bio_hive_stage_1:0 "生物蜂巢计划"
+ decision_gbhmc_bio_hive_stage_1_desc:0 "开始感染这个世界,使它向生物蜂巢转变。"
+ decision_gbhmc_bio_hive_stage_1_effects:0 "行星变成§Y初生的生物蜂巢§!.\n添加 §Y营养蠕变§!\n添加 §Y初生的生物蜂巢§! 修正:\n   §R-40%§! 人口增长\n   §R-40%§! 人口产量"
+ 
+ decision_gbhmc_bio_hive_stage_2:0 "开始成长的生物蜂巢"
+ decision_gbhmc_bio_hive_stage_2_desc:0 "生物蜂巢正在走向强大.."
+ decision_gbhmc_bio_hive_stage_2_effects:0 "行星变成§Y成长的生物蜂巢§!.\n添加 §Y溶解蠕变§!\n删除 §Y初生的生物蜂巢§! 修正\n添加 §Y成长的生物蜂巢§! 修正:\n   §R-20%§! 人口增长\n   §R-20%§! 人口产量"
+ 
+ decision_gbhmc_bio_hive_stage_3:0 "生长完成的生物蜂巢"
+ decision_gbhmc_bio_hive_stage_3_desc:0 "行星变成了一个§Y完整的生物蜂巢§!.\n删除 §Y成长的生物蜂巢§! 修正"
+ decision_gbhmc_bio_hive_stage_3_effects:0 "行星变成了一个§Y完整的生物蜂巢§!.\n添加 §Y消化蠕变§!"
+

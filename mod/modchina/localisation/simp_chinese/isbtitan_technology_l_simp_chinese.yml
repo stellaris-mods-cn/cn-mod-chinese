@@ -27,7 +27,7 @@
  tech_titan_weapon_module_01_desc:0 "\n不可思议的规模和发电能力为泰坦模块开辟了途径."
 
  tech_titan_weapon_module_02:0 "泰坦模组: 防御预测"
- tech_titan_weapon_module_02_desc:0 "\n先进的护盾操纵技术允许泰坦将超级护盾安置在正确的地方,防护范围内所有船只."
+ tech_titan_weapon_module_02_desc:0 "\n先进的护盾操纵技术允许泰坦将超级护盾安置在正确的地方,防护范围内所有飞船."
 
  tech_titan_weapon_module_03:0 "泰坦模组: 预备跃迁"
  tech_titan_weapon_module_03_desc:0 "\n运用泰坦的强大能力加速跃迁计算和充能."
@@ -107,7 +107,7 @@
  tech_avatar_soc_01_desc:0 "\n工程开展需要动员整个帝国，因此也带来行政后勤问题。所以我们需要一个全新行业和社会结构来满足这类工程的开展。\n\n"
 
  tech_avatar_soc_02:0 "学说: 移动太空要塞"
- tech_avatar_soc_02_desc:0 "\n如同小行星大小的船只也给我们带来人员众多和后勤问题。所以开展这样一个项目之前，我们需要探索如何解决这类船只后勤保养问题。\n\n"
+ tech_avatar_soc_02_desc:0 "\n如同小行星大小的飞船也给我们带来人员众多和后勤问题。所以开展这样一个项目之前，我们需要探索如何解决这类飞船后勤保养问题。\n\n"
 
  tech_avatar_eng_01:0 "架构: 额外的轨道建设"
  tech_avatar_eng_01_desc:0 "\n星港的造船厂的大小显然不能满足这种超大型的项目建设。所以我们需要在行星轨道上直接建设。\n\n"

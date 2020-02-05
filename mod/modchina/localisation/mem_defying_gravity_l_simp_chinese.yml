@@ -1,4 +1,4 @@
-﻿
+﻿#Defying Gravity Anomaly
 #By ViolentBeetle
 
 l_simp_chinese:
@@ -17,9 +17,9 @@ l_simp_chinese:
  mem_defying_gravity.200.a:0 "moochwazarxes是什么鬼?"
  mem_defying_gravity.200.a.tooltip:1 "额外的 $job_culture_worker$ 和 $job_research$ 空缺被添加到 [From.GetName]."
  mem_defying_gravity.200.burden:1 "消费主义颓废堕落的象征！"
- mem_defying_gravity.200.burden.tooltip:1 "不受广告的影响，我们不会从中得到额外的 $job_culture_worker$ 职位."
+ mem_defying_gravity.200.burden.tooltip:1 "不受广告的影响，我们不会从中得到额外的 $job_culture_worker$ 岗位."
  mem_defying_gravity.200.corp:1 "我们应该从他们的技术中学到我们所能学到的。"
- mem_defying_gravity.200.corp.tooltip:1 "和其他国家相比，巨型企业额外从或获得一个 $job_culture_worker$ 职位."
+ mem_defying_gravity.200.corp.tooltip:1 "和其他国家相比，巨型企业额外从或获得一个 $job_culture_worker$ 岗位."
  mem_defying_gravity.200.gest:1 "这个“广告”到底是什么意思呢？"
 
  mem_defying_gravity.300.name:0 "暂停的小行星"

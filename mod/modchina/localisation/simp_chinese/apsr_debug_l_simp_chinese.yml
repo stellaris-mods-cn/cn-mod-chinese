@@ -107,7 +107,7 @@
  apsr_debug.1.20.yes.tooltip:1 "§Y资源 20 - §M$apsr20002$§! - §G存在§!在这个星球上。按下按钮将会从星球上移除资源。§!"
  apsr_debug.1.20.no:1 "§Y资源 20 - §R不存在§!§!"
  apsr_debug.1.20.no.tooltip:1 "§Y资源 20 - §M$apsr20002$§! - §R不存在§!在这个星球上。按下这个按钮会在星球上产生资源。§!"
-
+ 
  apsr_debug.1.21.yes:1 "§Y资源 21 - §G存在§!§!"
  apsr_debug.1.21.yes.tooltip:1 "§Y资源21 - §M$apsr21_planet_modifier$§! - 资源在这个星系§R存在§!。按下按钮将在地图上删除资源。"
  apsr_debug.1.21.no:1 "§Y资源 21 - §R不存在§!§!"
@@ -127,8 +127,6 @@
  apsr_debug.1.24.yes.tooltip:1 "§Y资源24 - §M$apsr24_planet_modifier$§! - §G资源在这个星系§R存在§!。按下按钮将在地图上删除资源。"
  apsr_debug.1.24.no:1 "§Y资源 24 - §R不存在§!§!"
  apsr_debug.1.24.no.tooltip:1 "§Y资源24 - §M$apsr24_planet_modifier$§! - 资源在这个星系§R不存在§!。按下按钮将在地图上生成资源。"
- 
- 
  
  
  

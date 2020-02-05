@@ -28,7 +28,7 @@
  job_eac_military_technician_energy_plural:0 "能量武器技术员"
  job_eac_military_technician_energy_desc:0 "行星炮需要熟练的工人来操作设备和监督操作。"
  job_eac_military_technician_energy_effect_desc:0 "£job_eac_military_technician_energy£ $job_eac_military_technician_energy_plural$ 产出 £physics£ §Y$physics_research$§!"
- mod_job_eac_military_technician_energy_add:0 "$job_eac_military_technician_energy$ 工作"
+ mod_job_eac_military_technician_energy_add:0 "$job_eac_military_technician_energy$ 岗位"
  mod_job_eac_military_technician_energy_per_pop:0 "§G+1§! $job_eac_military_technician_energy$ 工作每 $VALUE$ 人口"
  mod_job_eac_military_technician_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_energy_add£ 每 $VALUE$ £pop£"
 
@@ -36,7 +36,7 @@
  job_eac_military_technician_kinetic_plural:0 "动能武器技术员"
  job_eac_military_technician_kinetic_desc:0 "行星炮电池需要熟练的工人来操作设备和监督操作。"
  job_eac_military_technician_kinetic_effect_desc:0 "£job_eac_military_technician_kinetic£ $job_eac_military_technician_kinetic_plural$ 产出 £engineering£ §Y$engineering_research$§!"
- mod_job_eac_military_technician_kinetic_add:0 "$job_eac_military_technician_kinetic$ 工作"
+ mod_job_eac_military_technician_kinetic_add:0 "$job_eac_military_technician_kinetic$ 岗位"
  mod_job_eac_military_technician_kinetic_per_pop:0 "§G+1§! $job_eac_military_technician_kinetic$ 工作每 $VALUE$ 人口"
  mod_job_eac_military_technician_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_technician_kinetic_add£ 每 $VALUE$ £pop£"
 
@@ -44,7 +44,7 @@
  job_eac_military_drone_energy_plural:0 "能量武器单元"
  job_eac_military_drone_energy_desc:0 "行星炮电池需要熟练的单元来操作设备和监督操作。"
  job_eac_military_drone_energy_effect_desc:0 "£job_eac_military_drone_energy£ $job_eac_military_drone_energy_plural$ 产出 £physics£ §Y$physics_research$§!"
- mod_job_eac_military_drone_energy_add:0 "$job_eac_military_drone_energy$ 工作"
+ mod_job_eac_military_drone_energy_add:0 "$job_eac_military_drone_energy$ 岗位"
  mod_job_eac_military_drone_energy_per_pop:0 "§G+1§! $job_eac_military_drone_energy$ 工作每 $VALUE$ 人口"
  mod_job_eac_military_drone_energy_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_energy_add£ 每 $VALUE$ £pop£"
 
@@ -52,6 +52,6 @@
  job_eac_military_drone_kinetic_plural:0 "动能武器单元"
  job_eac_military_drone_kinetic_desc:0 "行星炮电池需要熟练的单元来操作设备和监督操作。"
  job_eac_military_drone_kinetic_effect_desc:0 "£job_eac_military_drone_kinetic£ $job_eac_military_drone_kinetic_plural$ 产出 £engineering£ §Y$engineering_research$§!"
- mod_job_eac_military_drone_kinetic_add:0 "$job_eac_military_drone_kinetic$ 工作"
+ mod_job_eac_military_drone_kinetic_add:0 "$job_eac_military_drone_kinetic$ 岗位"
  mod_job_eac_military_drone_kinetic_per_pop:0 "§G+1§! $job_eac_military_drone_kinetic$ 工作每 $VALUE$ 人口"
  mod_job_eac_military_drone_kinetic_per_pop_short:0 "\n§G+1§! £mod_job_eac_military_drone_kinetic_add£ 每 $VALUE$ £pop£"

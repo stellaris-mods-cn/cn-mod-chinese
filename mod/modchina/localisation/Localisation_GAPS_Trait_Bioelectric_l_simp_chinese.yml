@@ -3,7 +3,7 @@
  
  #TRAITS
  Trait_GAPS_Bioelectric:0 "生物电流"
- Trait_GAPS_Bioelectric_desc:0 "这个种群天生就能发出强大的电击。因此他们如何创造和应用能量有着特殊的领悟。 \n§M人口特殊效果:§! 这些人口不管做什么都可以产出§G0.2§! £energy。\n§E领袖修饰:§! 每升一级法令时长§R+5%§!而不是§Y+10%§!。每升一级能量存储上限§G+2000§!。\n§E舰队司令修饰:§! 替代每升一级§R+3%§!舰船开火速率，他们获得了每升一级§G+5%§!能力武器攻击速度和§G+0.1%§!每日护盾恢复速度。\n§S科技§!\n§Y£physics_research 粒子物理T2 (生物电流舰船能源):§! 需要 §Y$tech_reactor_boosters_1$§!。可用辅助组件。 \n     §L£ship_modifier 舰船辅助组件(生物电流反应器):§! 花费: §R5§! £alloys , 舰船能量§G+100§!，舰船射速§G+5%§!，护盾值§G+10%§!\n§Y£physics_research 粒子物理科技T3 (生物电流扩大器）:§! 需要§Y$tech_reactor_boosters_1$§!. 可用建筑: \n     §L£building 星球建筑（生物电流扩大器）:§! 花费§R100§! £food §R200§! £minerals. 从人口获得的£energy 能量币§G+100%§! ，从职位获得的£energy 能量币§G+5%§!. 技工职位§G+1§!"
+ Trait_GAPS_Bioelectric_desc:0 "这个种群天生就能发出强大的电击。因此他们如何创造和应用能量有着特殊的领悟。 \n§M人口特殊效果:§! 这些人口不管做什么都可以产出§G0.2§! £energy。\n§E领袖修饰:§! 每升一级法令时长§R+5%§!而不是§Y+10%§!。每升一级能量存储上限§G+2000§!。\n§E舰队司令修饰:§! 替代每升一级§R+3%§!舰船开火速率，他们获得了每升一级§G+5%§!能力武器攻击速度和§G+0.1%§!每日护盾恢复速度。\n§S科技§!\n§Y£physics_research 粒子物理T2 (生物电流舰船能源):§! 需要 §Y$tech_reactor_boosters_1$§!。可用辅助组件。 \n     §L£ship_modifier 舰船辅助组件(生物电流反应器):§! 花费: §R5§! £alloys , 舰船能量§G+100§!，舰船射速§G+5%§!，护盾值§G+10%§!\n§Y£physics_research 粒子物理科技T3 (生物电流扩大器）:§! 需要§Y$tech_reactor_boosters_1$§!. 可用建筑: \n     §L£building 星球建筑（生物电流扩大器）:§! 花费§R100§! £food §R200§! £minerals. 从人口获得的£energy 能量币§G+100%§! ，从岗位获得的£energy 能量币§G+5%§!. 技工岗位§G+1§!"
  
  Trait_GAPS_Bioelectric_Adm_LV1:0 "生物电流舰队司令"
  Trait_GAPS_Bioelectric_Adm_LV2:0 "生物电流舰队司令"

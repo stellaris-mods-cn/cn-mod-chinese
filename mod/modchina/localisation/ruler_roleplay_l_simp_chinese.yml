@@ -5,7 +5,6 @@
 #Ignore Chinese words if you are not CN/TW/HK Players,#
 #they are used to translate.###########################
 #######################################################
-#大佬，這MOD大翻修啦，記得裡面的內容也要更新啊！！！
 ################
 #HOBBIES EVENTS#
 ################
@@ -15,24 +14,29 @@
 # mod_orbital_research_deposits_produces_mult:0 "Research Station Output"
 ####################################
 ###Please Translate these, somehow Paradox forgot to translate them.###
- mod_damage_vs_country_type_tiyanki_mult:0 "对$story.501.name$的伤害"
+ mod_damage_vs_country_type_tiyanki_mult:0 "对提杨凯的伤害"
  mod_damage_vs_country_type_guardian_mult:0 "对利维坦的伤害"
- mod_country_base_physics_research_produces_add:0 "$mod_country_physics_research_produces_mult$"
- mod_country_base_society_research_produces_add:0 "$mod_country_society_research_produces_mult$"
- mod_country_base_engineering_research_produces_add:0 "$mod_country_engineering_research_produces_mult$"
+ mod_country_base_physics_research_produces_add:0 "每月物理学研究"
+ mod_country_base_society_research_produces_add:0 "每月社会学研究"
+ mod_country_base_engineering_research_produces_add:0 "每月工程学研究"
  mod_decisions_cost_mult:0 "行星决策成本"
-  mod_shipsize_sponsored_colonizer_build_speed_mult: "私人 $mod_shipsize_colonizer_build_speed_mult$"
- mod_diplomacy_influence_cost_mult:0 "$MOD_COUNTRY_DIPLOMACY_INFLUENCE_COST$"
+ mod_shipsize_sponsored_colonizer_build_speed_mult: "私人 $mod_shipsize_colonizer_build_speed_mult$"
+ mod_diplomacy_influence_cost_mult:0 "外交影响力成本"
  mod_weapon_type_explosive_weapon_speed_mult:0 "$mod_weapon_type_explosive_weapon_fire_rate_mult$"
- mod_megastructures_cost_mult:0 "$MOD_MEGASTRUCTURE_BUILD_COST_MULT$"
- mod_planet_priests_unity_produces_add: "£job_priest£ $job_priest_plural$生产的£unity£ $unity$"
- mod_planet_priests_society_research_produces_add: "£job_priest£ $job_priest_plural$生产的£society_research£ $society_research$"
+ mod_megastructures_cost_mult:0 "巨型建筑建造成本"
+ mod_planet_priests_unity_produces_add: "£job_priest£ $job_priest_plural$£unity£ $unity$产出"
+ mod_planet_priests_society_research_produces_add: "£job_priest£ $job_priest_plural$£society_research£ $society_research$产出"
+ mod_planet_researchers_physics_research_produces_add: "£job_researcher£ $job_researcher_plural$ £physics_research£ $physics_research$产出"
+ mod_planet_researchers_society_research_produces_add: "£job_researcher£ $job_researcher_plural$ £society_research£ $society_research$产出"
+ mod_planet_researchers_engineering_research_produces_add: "£job_researcher£ $job_researcher_plural$ £engineering_research£ $engineering_research$产出"
+ mod_planet_metallurgists_alloys_produces_add: "£job_foundry£ $job_foundry_plural$ £alloys£ $alloys$产出 "
+ mod_planet_artisans_consumer_goods_produces_add: "£job_artisan£ $job_artisan_plural$ £consumer_goods£ $consumer_goods$产出"
 ###ALSO TRANSLATE THESE
- mod_country_base_alloys_produces_add: "$mod_country_alloys_produces_mult$"
- mod_country_base_consumer_goods_produces_add: "$mod_country_consumer_goods_produces_mult$"
+ mod_country_base_alloys_produces_add: "每月£alloys£ $alloys$"
+ mod_country_base_consumer_goods_produces_add: "每月£consumer_goods£ $consumer_goods$"
 ###
- shipclass_mining_station_build_cost_mult:0 "$MOD_COUNTRY_MINING_STATION_COST_MULT$"
- shipclass_research_station_build_cost_mult:0 "$MOD_COUNTRY_RESEARCH_STATION_COST_MULT$"
+ shipclass_mining_station_build_cost_mult:0 "采矿站建设成本"
+ shipclass_research_station_build_cost_mult:0 "研究站建设成本"
  
  #PHILOSOPHER KING#
  play_as_ruler.20.name:0 "哲人王"
@@ -69,7 +73,7 @@
  play_as_ruler.9006.desc:0 "§H[Root.GetRulerName]§!等级提升为§G7§!级"
  play_as_ruler.9007.desc:0 "§H[Root.GetRulerName]§!等级提升为§G8§!级"
  play_as_ruler.9008.desc:0 "§H[Root.GetRulerName]§!等级提升为§G9§!级"
- play_as_ruler.9009.desc:0 "§H[Root.GetRulerName]§!等级提升为§GMax Level§!满级。"
+ play_as_ruler.9009.desc:0 "§H[Root.GetRulerName]§!等级提升为§G满级§!。"
  play_as_ruler.9000.a:0 "非常好。"
 #HOBBIES#
 
@@ -230,33 +234,33 @@
  ruler_edict_focus_1:0 "优化法令"
  ruler_edict_focus_1_desc:0 "$ruler_campaign_desc$"
  ##BETTER###
- ruler_build_focus_2:0 "$ruler_build_focus_1$ §B(Improved)§!"
+ ruler_build_focus_2:0 "$ruler_build_focus_1$ §B(改进)§!"
  ruler_build_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_clean_tile_focus_2:0 "$ruler_clean_tile_focus_1$ §B(Improved)§!"
+ ruler_clean_tile_focus_2:0 "$ruler_clean_tile_focus_1$ §B(改进)§!"
  ruler_clean_tile_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_ftl_focus_2:0 "$ruler_ftl_focus_1$ §B(Improved)§!"
+ ruler_ftl_focus_2:0 "$ruler_ftl_focus_1$ §B(改进)§!"
  ruler_ftl_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_ship_build_focus_2:0 "$ruler_ship_build_focus_1$ §B(Improved)§!"
+ ruler_ship_build_focus_2:0 "$ruler_ship_build_focus_1$ §B(改进)§!"
  ruler_ship_build_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_ship_cost_focus_2:0 "$ruler_ship_cost_focus_1$ §B(Improved)§!"
+ ruler_ship_cost_focus_2:0 "$ruler_ship_cost_focus_1$ §B(改进)§!"
  ruler_ship_cost_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_ship_combat_focus_2:0 "$ruler_ship_combat_focus_1$ §B(Improved)§!"
+ ruler_ship_combat_focus_2:0 "$ruler_ship_combat_focus_1$ §B(改进)§!"
  ruler_ship_combat_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_ship_power_focus_2:0 "$ruler_ship_power_focus_1$ §B(Improved)§!"
+ ruler_ship_power_focus_2:0 "$ruler_ship_power_focus_1$ §B(改进)§!"
  ruler_ship_power_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_trade_focus_2:0 "$ruler_trade_focus_1$ §B(Improved)§!"
+ ruler_trade_focus_2:0 "$ruler_trade_focus_1$ §B(改进)§!"
  ruler_trade_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_trust_focus_2:0 "$ruler_trust_focus_1$ §B(Improved)§!"
+ ruler_trust_focus_2:0 "$ruler_trust_focus_1$ §B(改进)§!"
  ruler_trust_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_survey_focus_2:0 "$ruler_survey_focus_1$ §B(Improved)§!"
+ ruler_survey_focus_2:0 "$ruler_survey_focus_1$ §B(改进)§!"
  ruler_survey_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_speed_focus_2:0 "$ruler_speed_focus_1$ §B(Improved)§!"
+ ruler_speed_focus_2:0 "$ruler_speed_focus_1$ §B(改进)§!"
  ruler_speed_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_colonize_focus_2:0 "$ruler_colonize_focus_1$ §B(Improved)§!"
+ ruler_colonize_focus_2:0 "$ruler_colonize_focus_1$ §B(改进)§!"
  ruler_colonize_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_happy_focus_2:0 "$ruler_happy_focus_1$ §B(Improved)§!"
+ ruler_happy_focus_2:0 "$ruler_happy_focus_1$ §B(改进)§!"
  ruler_happy_focus_2_desc:0 "$ruler_campaign_desc$"
- ruler_edict_focus_2:0 "$ruler_edict_focus_1$ §B(Improved)§!"
+ ruler_edict_focus_2:0 "$ruler_edict_focus_1$ §B(改进)§!"
  ruler_edict_focus_2_desc:0 "$ruler_campaign_desc$"
 
 #HOBBIES ICON NAME
@@ -328,12 +332,17 @@
  trait_ruler_hobby_hive:0 "§L$play_as_ruler_hobby_category_hive$: 无§!"
  trait_ruler_hobby_hive_growth:0 "§L$play_as_ruler_hobby_category_hive$: §B生长率§!§!"
  trait_ruler_hobby_hive_ecomony:0 "§L$play_as_ruler_hobby_category_hive$: §B经济§!§!"
+ trait_ruler_hobby_hive_construction:0 "§L$play_as_ruler_hobby_category_hive$: §B建设§!§!"
+ trait_ruler_hobby_hive_recycle:0 "§L$play_as_ruler_hobby_category_hive$: §B回收§!§!"
  trait_ruler_hobby_hive_military:0 "§L$play_as_ruler_hobby_category_hive$: §B军事§!§!"
  trait_ruler_hobby_hive_influence:0 "§L$play_as_ruler_hobby_category_hive$: §B影响力§!§!"
  trait_ruler_hobby_hive_research:0 "§L$play_as_ruler_hobby_category_hive$: §B研究§!§!"
 ###MACHINE###
  trait_ruler_hobby_machine:0 "§L$play_as_ruler_hobby_category_machine$: 无§!"
  trait_ruler_hobby_machine_ecomony:0 "§L$play_as_ruler_hobby_category_machine$: §B经济§!§!"
+ trait_ruler_hobby_machine_growth:0 "§L$play_as_ruler_hobby_category_machine$: §B组装§!§!"
+ trait_ruler_hobby_machine_construction:0 "§L$play_as_ruler_hobby_category_machine$: §B建设§!§!"
+ trait_ruler_hobby_machine_recycle:0 "§L$play_as_ruler_hobby_category_machine$: §B回收§!§!"
  trait_ruler_hobby_machine_military:0 "§L$play_as_ruler_hobby_category_machine$: §B军事§!§!"
  trait_ruler_hobby_machine_influence:0 "§L$play_as_ruler_hobby_category_machine$: §B影响力§!§!"
  trait_ruler_hobby_machine_research:0 "§L$play_as_ruler_hobby_category_machine$: §B研究§!§!"
@@ -402,18 +411,23 @@
 ####HIVE####
  ruler_hive_mind_has_something_to_say:0 "团结就是力量"
  trait_ruler_hobby_hive_desc:0 "§L蜂群思维的统治者无法拥有爱好。但他们仍能像其他统治者一样升级。§!"
- trait_ruler_hobby_hive_growth_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 生长率.§!"
- trait_ruler_hobby_hive_ecomony_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 经济.§!"
- trait_ruler_hobby_hive_military_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 发展军备.§!"
- trait_ruler_hobby_hive_influence_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 获得影响力, 并 §G+15§! 他国看法.§!"
- trait_ruler_hobby_hive_research_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 研究领域.§!"
+ trait_ruler_hobby_hive_growth_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 生长率。§!"
+ trait_ruler_hobby_hive_ecomony_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 经济。§!"
+ trait_ruler_hobby_hive_construction_desc:0 "§L$ruler_hive_mind_has_something_to_say$关注建设进度。§!"
+ trait_ruler_hobby_hive_recycle_desc:0 "§L$ruler_hive_mind_has_something_to_say$减少资源的使用。§!"
+ trait_ruler_hobby_hive_military_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 发展军备。§!"
+ trait_ruler_hobby_hive_influence_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 获得影响力, 并 §G+15§! 他国看法。§!"
+ trait_ruler_hobby_hive_research_desc:0 "§L$ruler_hive_mind_has_something_to_say$ 研究领域。§!"
 ###MACHINE###
  ruler_machine_has_something_to_say:0 "智能核心总是付出120%的努力。"
  trait_ruler_hobby_machine_desc:0 "§Y<<搜索…0已发现>>\n§!\n§P<<请注意: 当前没有指令下达，等待下一步指示。>>§!"
- trait_ruler_hobby_machine_ecomony_desc:0 "§L$ruler_machine_has_something_to_say$ 发展经济.§!"
- trait_ruler_hobby_machine_military_desc:0 "§L$ruler_machine_has_something_to_say$ 扩充军备.§!"
- trait_ruler_hobby_machine_influence_desc:0 "§L$ruler_machine_has_something_to_say$ 计算有效路径.§!"
- trait_ruler_hobby_machine_research_desc:0 "§L$ruler_machine_has_something_to_say$ 科研.§!"
+ trait_ruler_hobby_machine_growth_desc:0 "§L$ruler_machine_has_something_to_say$关于改善单元状况。§!"
+ trait_ruler_hobby_machine_ecomony_desc:0 "§L$ruler_machine_has_something_to_say$ 发展经济。§!"
+ trait_ruler_hobby_machine_construction_desc:0 "§L$ruler_machine_has_something_to_say$关注加快建设进度。§!"
+ trait_ruler_hobby_machine_recycle_desc:0 "§L$ruler_machine_has_something_to_say$关于减少资源使用。§!"
+ trait_ruler_hobby_machine_military_desc:0 "§L$ruler_machine_has_something_to_say$ 扩充军备。§!"
+ trait_ruler_hobby_machine_influence_desc:0 "§L$ruler_machine_has_something_to_say$ 计算有效路径。§!"
+ trait_ruler_hobby_machine_research_desc:0 "§L$ruler_machine_has_something_to_say$ 科研。§!"
 ####
  trait_ruler_hobby_tooltip:0 "每一位统治者 §L(除了格式塔思维)§! 可以拥有一个随机爱好并得到§Y议程点数§!。统治者的爱好可以在一定的方向上暂时提高国家的能力，可以持续5年。\n§Y议程点数§! 可以从帝国法令里的统治者议程中使用。\n\n现在§H[root.GetRulerName]§! 拥有 §Y[root.play_as_ruler_campaign_amount] 议程点数§! （最多5点）。"
  #RULER LEVEL BAR
@@ -494,13 +508,12 @@ edict_play_as_ruler_has_hobby_event:0 "§L启用统治者爱好事件§!"
  edict_play_as_ruler_remover_desc:0 "§R此选项将开启统治者的议程事件。§!\n\n§R注意:这将给玩家带来优势。§!"
  
  
- #Ruler Campaign Require Time:統治者活動所需時間
 ############################################################
 #THE ABOVE ARE IMPROVED BY Peterowsky ( most of them )     #
 ############################################################
-###The following were added by Mod Author since 4/11###
-###RULER HOBBIES FOCUS#################################
-#My ruler please stop being stupid
+
+#The following policies are used for AI countries, players won't use them at all
+#以下政策是給AI國家用的，玩家用不到也看不到，所以不用翻譯
  policy_aplay_as_ruler_hobby_focus:0 "统治者爱好关注"
  policy_aplay_as_ruler_hobby_focus_desc:0 "你可以选择统治者的爱好。\n§E每位统治者都有一次随机爱好机会。爱好能够适当改善帝国一些情况。每个爱好将持续5年。\n§E它有利于统治者更加关注某个领域，以便于更好地为公民服务。§!\n"
  play_as_ruler_hobby_focus_random_choose:0 "统治者随机爱好"
@@ -545,6 +558,14 @@ edict_play_as_ruler_has_hobby_event:0 "§L启用统治者爱好事件§!"
  play_as_ruler_hobby_focus_hive_economy:0 "§H关注经济§!"
  play_as_ruler_hobby_focus_hive_economy_name:0 "§L关注经济§!"
  play_as_ruler_hobby_focus_hive_economy_desc:0 "§L他们的注意力将集中在生产收入上。§!"
+
+ play_as_ruler_hobby_focus_hive_construction:0 "689"
+ play_as_ruler_hobby_focus_hive_construction_name:0 "689 2.0"
+ play_as_ruler_hobby_focus_hive_construction_desc:0 "2020年大选，致富之战"
+
+ play_as_ruler_hobby_focus_hive_recycle:0 "C8763"
+ play_as_ruler_hobby_focus_hive_recycle_name:0 "西瓜油鹽雞"
+ play_as_ruler_hobby_focus_hive_recycle_desc:0 "快還要更快, 星爆气流斩!!!!1"
  
  play_as_ruler_hobby_focus_hive_military:0 "§H关注军事§!"
  play_as_ruler_hobby_focus_hive_military_name:0 "§L关注军事§!"
@@ -565,9 +586,23 @@ edict_play_as_ruler_has_hobby_event:0 "§L启用统治者爱好事件§!"
  play_as_ruler_hobby_focus_machine_placeholder_name:0 "$play_as_ruler_hobby_focus_hive_placeholder_name$"
  play_as_ruler_hobby_focus_machine_placeholder_desc:0 "$play_as_ruler_hobby_focus_hive_placeholder_desc$"
 
+
+
  play_as_ruler_hobby_focus_machine_economy:0 "$play_as_ruler_hobby_focus_hive_economy$"
  play_as_ruler_hobby_focus_machine_economy_name:0 "$play_as_ruler_hobby_focus_hive_economy$"
  play_as_ruler_hobby_focus_machine_economy_desc:0 "§L这种意识将集中在生产收入上。§!"
+
+ play_as_ruler_hobby_focus_machine_growth:0 "1"
+ play_as_ruler_hobby_focus_machine_growth_name:0 "2"
+ play_as_ruler_hobby_focus_machine_growth_desc:0 "3"
+ 
+ play_as_ruler_hobby_focus_machine_construction:0 "3"
+ play_as_ruler_hobby_focus_machine_construction_name:0 "2"
+ play_as_ruler_hobby_focus_machine_construction_desc:0 "1"
+
+ play_as_ruler_hobby_focus_machine_recycle:0 "1234567"
+ play_as_ruler_hobby_focus_machine_recycle_name:0 "我們是快樂的好朋友"
+ play_as_ruler_hobby_focus_machine_recycle_desc:0 "身體好，精神好，愛清潔，有禮貌，人人見了都喜愛(ry)"
  
  play_as_ruler_hobby_focus_machine_military:0 "$play_as_ruler_hobby_focus_hive_military$"
  play_as_ruler_hobby_focus_machine_military_name:0 "$play_as_ruler_hobby_focus_hive_military$"
@@ -580,6 +615,8 @@ edict_play_as_ruler_has_hobby_event:0 "§L启用统治者爱好事件§!"
  play_as_ruler_hobby_focus_machine_research:0 "$play_as_ruler_hobby_focus_hive_research$"
  play_as_ruler_hobby_focus_machine_research_name:0 "$play_as_ruler_hobby_focus_hive_research$"
  play_as_ruler_hobby_focus_machine_research_desc:0 "§L智能核心将专注于研究.§!"
+ #The above policies are used for AI countries, players won't use them at all
+#以上政策是給AI國家用的，玩家用不到也看不到，所以不用翻譯
  
 ####
  
@@ -1002,6 +1039,9 @@ edict_play_as_ruler_has_hobby_event:0 "§L启用统治者爱好事件§!"
  edict_play_as_ruler_campaign_sensor_focus_psi_desc:0 "我们的灵能理论知识将帮助我们洞悉虚空的每一个角落。"
  edict_play_as_ruler_campaign_pirate_focus:0 "统治者议程：剿匪行动"
  edict_play_as_ruler_campaign_pirate_focus_desc:0 "这项法令是为了减少在我们的帝国中滋生任何海盗行为的可能性。"
+ 
+ edict_play_as_ruler_campaign_pirate_focus_tooltip: "如果行动起来，我们的执法者将尽其所能铲除我们星球上任何潜在的非法活动。"
+ 
  edict_play_as_ruler_campaign_unity_focus:0 "统治者议程：文化交流"
  edict_play_as_ruler_campaign_unity_focus_desc:0 "分享不同文化差异的活动可以将两个文明紧密结合在一起。"
  edict_play_as_ruler_campaign_claim_focus:0 "统治者议程：外交声明"
@@ -1070,6 +1110,8 @@ edict_play_as_ruler_has_hobby_event:0 "§L启用统治者爱好事件§!"
  edict_play_as_ruler_campaign_distinguished_admiralty_tooltip: "当行动时，所有的海军上将每个月都会获得经验。"
  edict_play_as_ruler_campaign_efficient_bureaucracy:0 "统治者议程: 全国广播"
  edict_play_as_ruler_campaign_efficient_bureaucracy_desc:0 "过度扩张是所有银河帝国的极端倒退，用我们的方法，这样的问题可以降到最低。"
+ edict_play_as_ruler_campaign_efficient_bureaucracy_not:0 "统治者议程: 全国性广播"
+ edict_play_as_ruler_campaign_efficient_bureaucracy_not_desc:0 "过度扩张是任何银河帝国的挫折，用我们的方法，这样的问题可以减少。"
  
  
  
@@ -1091,6 +1133,8 @@ favored_certain_hobby_tooltip: "\n§H这个爱好是受欢迎的，这将鼓励[
 favored_certain_hobby_tooltip2: "§G支持§!"
 favor_certain_hobby_condition_tooltip: "\n§R为了培养爱好，我们的[Root.GetRulerTitle]需要有经验。§!"
 
+unfavor_certain_hobby_tooltip: "\n§G左击可取消任何爱好§!"
+unfavor_certain_hobby_tooltip_nohobby: "\n§R[Root.GetRulerName]不喜欢任何爱好。§!"
 
 foci_certain_focus_tooltip: "\n§G单击左键聚焦$play_as_ruler_hobby_category$§!"
 foci_certain_focus_tooltip2: "\n§G单击左键可取消聚焦$play_as_ruler_hobby_category$§!"
@@ -1164,15 +1208,21 @@ ruler_hobby_military_category_tooltip: "\n§M<军事类别>§!\n"
 
 ruler_hobby_button_growth_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 增长§!\n[Root.GetRulerTitle]努力扩大繁殖工蜂的范围，从而增加帝国的£food  §Y$food$§!产量和£pop  §Y人口增长§!。"
 ruler_hobby_button_economy_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 经济§!\n[Root.GetRulerTitle]需要一定的时间来实现[Root.GetName]的经济繁荣，通过降低£building  §Y建筑§!成本来增加£energy  §Y$energy$§!, £minerals  §Y$minerals$§!的产量。"
+ruler_hobby_button_construction_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 建设§!\n[Root.GetRulerTitle]将进一步增加[Root.GetName]的建造进展,减少£building  §Y建筑§!§Y成本§!并增加§Y建造速度§!。"
+ruler_hobby_button_recycle_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 回收§!\n[Root.GetRulerTitle]将致力于减少资源的使用，减少£pop  §Y人口s§!和£job  §Y岗位§!维护。"
 ruler_hobby_button_military_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 军事§!\n[Root.GetRulerTitle]将扩大[Root.GetName]的军事力量，以增加§Y建设速度§!并降低§Y成本§!"
 ruler_hobby_button_influence_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 政治§!\n[Root.GetRulerTitle]进一步扩展了[Root.GetName]的控制能力，降低£political_power  §Y$EDICT$§! and §Y$decisions$§!成本并提高£influence  §Y$influence$§!。"
 ruler_hobby_button_research_effect_hive_desc: "§H$play_as_ruler_hobby_category_hive$: 研究§!\n[Root.GetRulerTitle]将[Root.GetName]的科研工蜂推广到下一阶段，提高帝国的§Y研究§!产出。"
 
+ruler_hobby_button_growth_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 组装§!\n[Root.GetRulerTitle]扩展和减少了对[Root.GetName]单元的维护,增加£job_roboticist  §Y$MOD_POP_ASSEMBLY_SPEED$§!, £amenities_no_happiness  §Y$PLANET_AMENITIES_TITLE$§!, £energy  §Y$energy$§!产出，并保持£crime  §Y$PLANET_CRIME_NO_HAPPINESS_TITLE$§!在低水平。"
+ruler_hobby_button_construction_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 建设§!\n[Root.GetRulerTitle]增加[Root.GetName]的施工进度,减少£building  §YBuilding§!成本并增加§Y建造速度§!。"
+ruler_hobby_button_recycle_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 回收§!\n[Root.GetRulerTitle]进一步减少了[Root.GetName]的资源使用，减少£job  §Y岗位§!和£building  §Y建筑§!维护费用。"
 ruler_hobby_button_economy_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 经济§!\n[Root.GetRulerTitle]致力于促进[Root.GetName]的经济增长，增加帝国的£energy  §Y$energy$§!和£minerals  §Y$minerals$§!产量。"
 ruler_hobby_button_military_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 军事§!\n[Root.GetRulerTitle]扩展了[Root.GetName]的军事能力，使其§Y生存能力§!随§Y火力§!的增加而增加。"
 ruler_hobby_button_influence_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 政治§!\n[Root.GetRulerTitle]进一步建立[Root.GetName]的控制能力，降低£political_power  §Y$EDICT$§!和§Y$decisions$§!成本成本，提高£influence  §Y$influence$§!"
 ruler_hobby_button_research_effect_machine_desc: "§H$play_as_ruler_hobby_category_machine$: 研究§!\n[Root.GetRulerTitle]将[Root.GetName]的科学观测推广到下一阶段，提高帝国的§Y研究§!产出。"
 
+ruler_hobby_button_favoring_random_effect_desc: "§H$trait_ruler_ruler_hobby_name$ 随机§!\n取消对[Root.GetRulerName]的某些爱好。"
 
 ruler_hobby_button_favoring_agrarian_effect_desc: "§H$trait_ruler_ruler_hobby_name$ $play_as_ruler_agrarian$§!$ruler_hobby_environment_category_tooltip$[Root.GetRulerName]将参与生产和维护农作物和农田，这将增加帝国的£food  §Y$food$§!产出和£pop  §Y人口增长§!。"
 ruler_hobby_button_favoring_recycle_effect_desc: "§H$trait_ruler_ruler_hobby_name$ $play_as_ruler_resource_recycling$§!$ruler_hobby_environment_category_tooltip$[Root.GetRulerName]在维持资源维护方面做出[Root.Ruler.GetHerHis]的努力，减少帝国的维护，例如£job  §Y岗位!。"

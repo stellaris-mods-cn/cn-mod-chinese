@@ -26,16 +26,13 @@
  enigmatic_precursors.2010.desc:0 "我们已经发现，我们相信是这些继承人的殖民地，一支探险队可以让我们了解他们是如何生活的。"
  UNKNOWN_HEIRS_ARCHEOLOGY_2:0 "被摧毁的殖民地"
  enigmatic_precursors.completed.name:0 "被摧毁的殖民地"
- enigmatic_precursors.2011.desc:0 "在大部分损坏的建筑和熔化的地表下，我们发现了一个有缺陷的达拉可雷，奇怪的是，我们能够与它进行接触。虽然大部分数据都被损坏了，但我们还是能够得到一些图片和视频资料，这些图片显示了一些令人不安的东西。奇怪的是，我们无法得到良好的结果…任何关于继承人种族的图片，但是提要显示了殖民地受到甚至是陌生船只的攻击，我敢说……我们可以把这些事件归咎于有缺陷的达拉可雷，但如果它们同时发生……这些继承人参加了什么战争?"
+ enigmatic_precursors.2011.desc:0 "在大部分损坏的建筑和熔化的地表下，我们发现了一个有缺陷的达拉可雷，奇怪的是，我们能够与它进行接触。虽然大部分数据都被损坏了，但我们还是能够得到一些图片和视频资料，这些图片显示了一些令人不安的东西。奇怪的是，我们无法得到良好的结果…任何关于继承人种族的图片，但是提要显示了殖民地受到甚至是陌生飞船的攻击，我敢说……我们可以把这些事件归咎于有缺陷的达拉可雷，但如果它们同时发生……这些继承人参加了什么战争?"
  
  enigmatic_precursors.2015.name:0 "破碎的堡垒"
  enigmatic_precursors.2015.desc:0 "我们发现了一个接近巨型结构的空间站，它的体积很大，似乎有各种各样的枪口和武器电池遍布整个结构，需要更深入的研究才能找到更多的线索。"
  UNKNOWN_HEIRS_ARCHEOLOGY_3:0 "破碎的堡垒"
  enigmatic_precursors.completed.name:0 "破碎的堡垒"
  enigmatic_precursors.2016.desc:0 "称这个空间站为军事基地将是一种保守的说法。我们发现的基地是一个战斗堡垒，周围是辅助支援空间站，提供额外的火力，而且维护成本更低。看起来，无论发生什么战斗，都是如此的激烈，以至于当空间站释放出这样的自我毁灭协议时，那些较小的空间站都被摧毁了。虽然我们无法从残骸中获得很多数据，但我们确实发现了一些东西……不祥之兆。\n数据日志83900484-U2 “创建第三时代” “我们没能阻止恐惧者的舰队发起自毁，让我们看看这些怪物是如何发出像新星爆炸般火焰的火焰” “日志结束……” "
- 
- 
- 
  
  ######################
  # Ascension Event Text
@@ -44,6 +41,8 @@
  enigmatic_designs.01.name:0 "神秘的继承权"
  enigmatic_designs.01.desc:0 "这个神秘的技术似乎比我们最初想象的要复杂得多。如果我们破解了谜一样的技术所包含的代码，我们已经研究过的计算机系统就会被这个被新的设计淹没，我们的人工智能报告说它们的真实感已经提高了近100%，并且声明这个信号对我们来说是值得继承的。此外，我们还拥有一些技术模板，其中包含了我们所看到的神秘堡垒和技术所使用的其他技术，我们只能通过它们的名字和可能的设计来推测它们的用途。如果我们继续这项研究，谁知道它会引领我们?我们不知道他们是谁，但我们可以把它叫做“谜”。"
  enigmatic_designs.01.neutral.a:0 "他们的理由是什么……神秘人显然想让我们知道。"
+ enigmatic_designs.01.neutral.b:0 "不管他们的理由是什么…谜题显然想让我们知道。"
+ enigmatic_designs.01.neutral.a.tooltip:0 ""
  enigmatic_designs.01.enigmatic_heirs.a:0 "我们不能让他们久等。"
  enigmatic_designs.01.spiritual.a:0 "显然，“谜”是更高级的存在。"
  enigmatic_designs.01.materialist.a:0 "找出那个信号从何而来，我们还有更多要了解的。"
@@ -51,10 +50,14 @@
  enigmatic_designs.01.xenophile.a:0 "朋友似乎来自很多地方，但他们在哪里?"
  enigmatic_designs.01.militarist.a:0 "也许他们希望我们为战争做准备……"
  enigmatic_designs.01.pacifist.a:0 "他们称我们为继承人，却给我们战争的工具……"
+ enigmatic_designs.01.hive.a:0 "我们想知道它们是一个还是多个?"
+ enigmatic_designs.01.machine.a:0 "数据传输完全不相关的神秘模式"
  
+  
  cryptic_heirdom.01.name:0 "神秘的继承权"
  cryptic_heirdom.01.desc:0 "再一次，我们的系统被一种更高水平的技术模板轰炸，这几乎是神秘模式的两倍以上。我们可以研究这些技术，但即便如此，我们也无法完全理解这些奇迹是如何运作的。将这些技术作为一种神秘的模式进行重新设计是安全的。"
  cryptic_heirdom.01.neutral.a:0 "为什么他们允许我们拥有这项技术?"
+ cryptic_heirdom.01.neutral.b:0 "为什么他们会允许我们拥有这项技术?"
  cryptic_heirdom.01.enigmatic_heirs.a:0 "我们的生活似乎已经结束了。"
  cryptic_heirdom.01.spiritual.a:0 "神似乎知道许多秘密。"
  cryptic_heirdom.01.materialist.a:0 "他们的先进程度是没有限制的。"
@@ -62,22 +65,43 @@
  cryptic_heirdom.01.xenophile.a:0 "他们分享自己的天赋，却无处可寻。"
  cryptic_heirdom.01.militarist.a:0 "这个星系的哪些战争需要这样的技术水平?"
  cryptic_heirdom.01.pacifist.a:0 "他们是战争贩子吗?或监护人吗?我想知道。"
+ cryptic_heirdom.01.hive.a:0 "理解神秘模式的构造。内在工作的知识则不然..."
+ cryptic_heirdom.01.machine.a:0 "下载对模式的完整理解 39%"
  
+ celestial_inheritance.01.name:0 "天界继承"
+ celestial_inheritance.01.desc:0 "这就导致了这个。我们现在有了选择。似乎有一个声音在问，我们是否会接受他们的披风，并以我们出生的权利作为我们银河系的新飞升者。我们将获得许多我们从未梦想过的、甚至可能是自负的持久的生命和技术。但选择是我们的，我们可以否认它，仍然获得技术，但我们不会真正了解他们…"
+ celestial_inheritance.01.neutral.a:0 "他们的道路不是我们的，除非他们的天赋和技术，否则我们不会飞升"
+ celestial_inheritance.01.neutral.a.tooltip:0 "如果你的帝国做出了某些选择，它将成为一个飞升物种。然而，你的帝国不会成为一个天界帝国，这将影响未来危机的某些结果…"
+ celestial_inheritance.01.neutral.b:0 "开始下载…下载完成。"
+ celestial_inheritance.01.neutral.b.tooltip:0 "你的机器单位将成为飞升智械。然而，你的帝国不会成为一个天界网络，这将影响即将到来的危机的某些结果…"
+ celestial_inheritance.01.enigmatic_heirs.a:0 "像父母和孩子一样，我们遵循了他们为我们所走的道路。"
+ celestial_inheritance.01.spiritual.a:0 "就像凡人曾经是神一样……因为众神皆有可能成为凡人……"
+ celestial_inheritance.01.materialist.a:0 "如此多的知识……它的美丽"
+ celestial_inheritance.01.xenophobe.a:0 "我们的优势现在无法发挥"
+ celestial_inheritance.01.xenophile.a:0 "因为光明的未来将在我们之后到来"
+ celestial_inheritance.01.militarist.a:0 "我们已经变得强大了，但是接下来会发生什么冲突呢?"
+ celestial_inheritance.01.pacifist.a:0 "我们会看到一个和平或战争的新时代吗?"
+ celestial_inheritance.01.hive.a:0 "介意我们? ?我? ?变得更加"
+ celestial_inheritance.01.machine.a:0 "开始下载到量子空间…下载完成"
  
  loop_adherence.01.name:0 "循环的依从性"
  loop_adherence.01.desc:0 "自从我们的种族遇到了等待的人后，发现这种友好的生物是自然的，这很奇怪。我们一直在跟踪我们在欧米伽项目中听到的窃窃私语，在我们把这些令人抓狂的短语放到我们的电脑里之后，他们被科技狂轰滥炸，这些科技远远超出了我们的理解范围，但似乎时蟲给了我们更多的礼物。但更好的问题是，它还能教给我们什么呢?"
  loop_adherence.01.neutral.a:0 "我们的知道什么是时蟲的原因？"
+ loop_adherence.01.neutral.b:0 "检测到网络异常"
  loop_adherence.01.loop_adherents.a:0 "我们欣然接受我们所爱的人的如此精美的礼物。"
  loop_adherence.01.spiritual.a:0 "神似乎有多种形式。"
  loop_adherence.01.materialist.a:0 "从这些话看来，这是不可能的。"
  loop_adherence.01.xenophobe.a:0 "看看这些疯狂的东西是怎么来的。"
  loop_adherence.01.xenophile.a:0 "对一个神一般的友好来说，这似乎是很美好的。"
- loop_adherence.01.militarist.a:0 "虫子希望我们能和别人一样。"
+ loop_adherence.01.militarist.a:0 "时蟲希望我们能和别人一样。"
  loop_adherence.01.pacifist.a:0 "也许这将导致一个和平的新时代……"
- 
+ loop_adherence.01.hive.a:0 "好像我们从一出生就知道这些习惯似的……"
+ loop_adherence.01.machine.a:0 "警告网络恩斯调试协议中未知的存在。"
+  
  spiral_revolutation.01.name:0 "螺旋革命"
  spiral_revolutation.01.desc:0 "就好像我们的眼睛是睁着的。时蟲向我们揭示了一个伟大的启示。正如我们所发现的那样，循环最终会变成螺旋，在这些螺旋中包含着比我们难以理解的更大的秘密，但是在我们等待的时蟲的爱的引导下，我们将把它们变成我们。这是我们的种族将会发现并创造的知识，但从未创造过……过去是，将来也会是我们……"
  spiral_revolutation.01.neutral.a:0 "要是我是个笨蛋，我们就会看到很多东西。"
+ spiral_revolutation.01.neutral.b:0 "如果我是一个波特，我们就能看到很多"
  spiral_revolutation.01.loop_adherents.a:0 "螺旋显示了很多。"
  spiral_revolutation.01.spiritual.a:0 "我们走了很少有人走过的道路。"
  spiral_revolutation.01.materialist.a:0 "这就是所谓的引导悖论，但它是如何开始的呢?"
@@ -85,3 +109,63 @@
  spiral_revolutation.01.xenophile.a:0 "螺旋形的曲线显示了许多友谊的特征。"
  spiral_revolutation.01.militarist.a:0 "什么样的战争需要如此强大的秘密。"
  spiral_revolutation.01.pacifist.a:0 "这些是维护和平所需要的。"
+ spiral_revolutation.01.hive.a:0 "我们不能完全用心灵去领悟"
+ spiral_revolutation.01.machine.a:0 "错误!多个逻辑电路故障…开始螺旋更新…"
+ 
+ dimensional_exaltation.01.name:0 "维度飞升"
+ dimensional_exaltation.01.desc:0 "这就像一个我们从未意识到会发生的觉醒。我们现在已经被飞升到高维生命，我们有能力充分利用时蟲对我们人类王国的力量。现在我们已经掌握了最好的技术知识，就像我们现在可以说的那样，我们就像这样行走。但是…有了我们的新力量…我们感觉到的东西……害怕……它在呼唤我们……"
+ dimensional_exaltation.01.neutral.a:0 "就像我们爱时蟲一样，我们的路是我们自己的……"
+ dimensional_exaltation.01.neutral.b:0 "就像我们爱时蟲一样，我们的路是我们自己的……"
+ dimensional_exaltation.01.loop_adherents.a:0 "重力是欲望!过去是什么，将来又是什么!"
+ dimensional_exaltation.01.spiritual.a:0 "所以现在我们像神一样行事，但其他人会尊重我们的神性吗?"
+ dimensional_exaltation.01.materialist.a:0 "对于能够改写它们的生物来说，科学的法则是什么?"
+ dimensional_exaltation.01.xenophobe.a:0 "其他的现在只是害虫…"
+ dimensional_exaltation.01.xenophile.a:0 "要是我们能把这件礼物带给别人就好了"
+ dimensional_exaltation.01.militarist.a:0 "我们是注定要参加神的战争吗?"
+ dimensional_exaltation.01.pacifist.a:0 "也许我们将迎来一个新的世代的和平"
+ dimensional_exaltation.01.hive.a:0 "我们的大脑现在能看到更多……那个穿实验服的人是谁?"
+ dimensional_exaltation.01.machine.a:0 "错误!错误!错误!多维下载完整的扩展网络…"
+ 
+ ########################
+ # Lifeseeding Event Text
+ ########################
+ 
+ lifeseeding.150.name:0 "生命种子"
+ lifeseeding.150.desc:0 "先去[Root.getPlanetMoon]现在在它的表面上承载着有先见之明的生命。假以时日，这些生物将在银河舞台上占据一席之地，但现在我们该怎么办?让他们在自己的时间里发展?消灭他们?保护他们吗?还是飞升他们?"
+ 
+ ######################
+ # Star forging Event Text
+ ######################
+ 
+ star_forge.1000.title:0 "恒星摇篮"
+ star_forge.1000.desc:0 "平台的设置和准备使用网关技术和星云内的材料，我们可以开始创建一个恒星的过程。但是我们应该创造什么样的恒星呢?"
+ star_forge.1000.a:0 "蓝"
+ star_forge.1000.b:0 "白"
+ star_forge.1000.c:0 "黄白矮星"
+ star_forge.1000.d:0 "黄矮星"
+ star_forge.1000.j:0 "橙矮星"
+ star_forge.1000.e:0 "红矮星"
+ star_forge.1000.f:0 "红巨星"
+ star_forge.1000.g:0 "棕矮星"
+ star_forge.1000.h:0 "中子星"
+ star_forge.1000.k:0 "脉冲星"
+ star_forge.1000.i:0 "黑洞"
+ 
+ 
+ star_forge.1002.title:0 "恒星摇篮"
+ star_forge.1002.desc:0 "恒星已经决定好了，但是新恒星将在太空中朝哪个方向运动呢?"
+ star_forge.1002.a:0 "东"
+ star_forge.1002.b:0 "北"
+ star_forge.1002.c:0 "西"
+ star_forge.1002.d:0 "南"
+ 
+ star_forge.1004.title:0 "一颗恒星的诞生"
+ star_forge.1004.desc:0 "在所有的星际文明中，我们被困在一个不断上升、下降、停滞、战争和毁灭的无尽循环之中，至少我们似乎终于给了曾经孕育我们的世界的银河系一些东西。虽然不是有意的，但似乎已经有几个熔融的世界沿着这颗恒星诞生了，如果我们介入的话，它迟早会冷却下来，并使未来的生命维持得更快。至少现在看来，这个星系要明亮一些。"
+ star_forge.1004a.desc:0 "一颗新星诞生了。它的潜力和我们一样是无限的。"
+ star_forge.1004h.desc:0 ""
+ star_forge.1004m.desc:0 ""
+ star_forge.1004.a:0 "令人羞辱"
+ star_forge.1004.b:0 "另一束光在虚空中闪耀"
+ star_forge.1004.h:0 "我们的空间在增长"
+ star_forge.1004.m:0 "确认"
+ 
